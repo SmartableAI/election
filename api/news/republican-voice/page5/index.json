@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-18-trump-targeting-mcconnell-and-top-republicans-urges-them-to-get-tougher-in-election-fight.md",
+      "title": "Trump, targeting McConnell and top Republicans, urges them to 'get tougher' in election fight",
+      "excerpt": "President Trump is again taking aim at Senate Majority Leader Mitch McConnell after the top Republican and Trump ally earlier this week recognized President-elect Joe Biden's White House victory.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXf-_nfXuLg/trump-mcconnell-senate-republicans-get-tougher-election-fight",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXf-_nfXuLg/trump-mcconnell-senate-republicans-get-tougher-election-fight",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 339,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp",
+      "publishedDateTime": "2020-12-18T09:40:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-atlantic-city-auctions-off-chance-to-push-demolish-button-on-former-trump-casino.md",
       "title": "Atlantic City auctions off chance to push demolish button on former Trump casino",
       "excerpt": "The implosion of one of President Donald Trump's former Atlantic City casinos is being delayed by a few weeks.",
@@ -1606,62 +1662,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-email-tax-returns-unreported-burisma-income.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-email-tax-returns-unreported-burisma-income.amp",
       "publishedDateTime": "2020-12-14T07:54:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-intel-officials-who-called-hunter-biden-story-russian-disinformation-should-face-consequences-domenech.md",
-      "title": "Intel officials who called Hunter Biden story Russian disinformation should face consequences: Domenech",
-      "excerpt": "There should be consequences for former intelligence officials who called the Hunter Biden story Russian disinformation, Federalist publisher Ben Domenech said on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DnyNc2k6j6c/consequences-officials-hunter-biden-story-russian-disinformation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DnyNc2k6j6c/consequences-officials-hunter-biden-story-russian-disinformation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/consequences-officials-hunter-biden-story-russian-disinformation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/consequences-officials-hunter-biden-story-russian-disinformation.amp",
-      "publishedDateTime": "2020-12-14T06:44:41-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

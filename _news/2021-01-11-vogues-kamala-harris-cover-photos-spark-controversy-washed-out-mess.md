@@ -3,8 +3,8 @@ category: news
 title: "Vogue's Kamala Harris cover photos spark controversy: 'Washed out mess'"
 excerpt: "First woman of color elected vice-president is February cover star but users complain about lighting"
 publishedDateTime: 2021-01-10T18:48:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour?fbclid=IwAR1RL0jG2Q0qqew-VVMTse9cqgBcU5OwXIJlSDagcQS3dl4nkqM9ZnzRVpI"
-webUrl: "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour?fbclid=IwAR1RL0jG2Q0qqew-VVMTse9cqgBcU5OwXIJlSDagcQS3dl4nkqM9ZnzRVpI"
+originalUrl: "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour?share=facebook"
+webUrl: "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour?share=facebook"
 ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
 type: article
@@ -106,6 +106,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/71/53/20159178/11/rawImage.jpg"
         width: 2048
         height: 1396
+        isCached: true
+  - title: "Kamala Harris' Vogue cover photo sparks controversy"
+    excerpt: "Vice President-elect Kamala Harris is featured on the cover of the February 2021 issue of Vogue, but controversy over the selected cover photo has overshadowed the magazine's debut. CBS Los Angeles explains."
+    publishedDateTime: 2021-01-11T12:12:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-vogue-cover-photo-sparks-controversy/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/11/405013d5-11c8-4c71-844f-f273feee39ca/thumbnail/1200x630/d63dac672e34e3a9fc53ebad570b8dca/cbsn-fusion-kamala-harris-vogue-cover-photo-sparks-controversy-thumbnail-624156-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "'It’s a lot of pressure.' As Kamala Harris visits Georgia, voters brace for a Senate runoff that is riveting the nation"
     excerpt: "From the time she stepped onto the podium, Vice President-elect Kamala Harris was greeted by thunderous car horns at a drive-in event near Savannah just days before voters decide their next Senators in contentious races that will shape Harris’ and President-elect Joe Biden’s governing future."
@@ -484,6 +498,6 @@ related:
         height: 300
         isCached: true
 
-secured: "+tysvODJnEXSs4SJQ7U/nL9SOfnwGXipkv0ujXzJNFvQzaBYc2tD4AxsXFbhh8DFZ7MrryakCar8qlaPaluhj5dm9Lxz3wdcO1arls+shOURU59/gjmOhsD8TCvcbLtXgp0dPLoW39vXqTHtMpPL6Gc0SAeRRb/CHRxbzLJXWd9BNOb9j777kd8Y/gY+PMlsDxTyn9QnQiRHMoE0rATd+NNoC/MnONJSf3885+7M0A9OYjzNx9FPvrAYk6q+ea1jQoFeM/0EkYjV5NYuxM57jK7t602g71utkvyRwKgK+VtCvja4ZMZ7ZDZb/gs2GjqT3AJ6DeYA7bo9ZUS17hf/W3l15KfnWYbTaAbljM42YBgv6WVkxgHt8dkrxaIF70pXFp6I6hnzuemToAXK4IkCUp6XAVw9YHyJmafj8fTxu0GXm2hoJ0pHAb2WgchzoFa2EQN5BX4EZTvOqJVOd/N6+ThX636h1atDG2T/FfOkpx+QTSpmgfoelUE1odwkYDXDefGJPJ+ToRJqHF9zCP8nKA==;hI8ZRsEnNwtKv9PlGpt/bw=="
+secured: "l+PC3uaHs3j3XolxGRgkH3GA00xdu9j8RumkLH8hmZ+v7GbzT9alLHbtAyCLR1nWNNkfuNrUTzK+9mCBtQRkc8D41QltBPPV4lHmp4jK/eh/D1dRBLJYghzPY7heb22lO35BSGoSK0MxHOCAQSnVCRTTiPY052jXbmy3VjNjPg4zu6TexhYeyMctdysrmhdYptIFV1PSCM1IECV9xMvQN0d6LShgyQJkBXBA6lOYMW8ClPh4I8/RpMzKWGVBNxNfck0WD5LE+b2RDgEL23I6AgFniT5+xgcsQocTJJpQpGr77xwpu7vL274wincBYD1gdqWIxwEapFz+SYgxHDK4ZpEViATHFEFd1ZX8cEt1N8o=;Wkb16sFX68GI7JYEVtucaQ=="
 ---
 

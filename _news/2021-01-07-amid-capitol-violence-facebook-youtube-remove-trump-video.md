@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/amid-capitol-violence-facebo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/09/68323e33-f902-440c-8046-816a9f064d68/thumbnail/1200x630g2/a60ea5ae729431f57336314793108ca2/gettyimages-1294907289-1.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Melania Trump breaks silence on Capitol riot, mourns police and Trump supporters who died"
+    excerpt: "First Lady Melania Trump broke her silence on the violent storming of the U.S. Capitol by a mob of pro-Trump rioters, denouncing violence."
+    publishedDateTime: 2021-01-11T12:00:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/01/11/capital-riot-melania-trump-breaks-silence-mourns-police-and-rioters/6619809002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6619809002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6619809002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/23/USAT/d2af2f4d-3bc8-477e-a5ca-d8c20530111f-GTY_1292797972.jpg?auto=webp&crop=2750,1547,x1,y247&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "In scathing Facebook post, GOP senator calls colleagues ‘arsonists’ over plot to challenge election, accuses Trump of bilking supporters"
     excerpt: "Ben Sasse of Nebraska issued a scathing rebuke Thursday of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation’s civic traditions."

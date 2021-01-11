@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/obama-echoes-biden-suggests-double-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-echoes-biden-suggests-double-standard-in-police-response-to-blm.amp"
 type: article
 quality: 162
-heat: 182
+heat: 162
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "China says Biden represents 'new window of hope' for relations with US"
-    excerpt: "China believes President-elect Joe Biden represents a \"new window of hope\" for the country's relationship with the United States."
-    publishedDateTime: 2021-01-05T13:43:00Z
-    webUrl: "https://www.foxnews.com/world/china-biden-new-window-hope"
-    ampWebUrl: "https://www.foxnews.com/world/china-biden-new-window-hope.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/china-biden-new-window-hope.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/RTX-joe-biden-xi-jinping.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "6jdySX0c7iPlg+vb33dMaaFCHFesJ3sOUgh+vjB7up6qioFOGqih9yP4lsTeI84zUqsL8PhKhvDe4K1TyPO2hTMjg2tr3mY4A4RftgYPIlzgIHFu810+a6UprvjcXFVRc7Bf3R8MCOtY4ywoYEyWMAXziJtspsBdvLeKY9MmcreDh4F4gLKlUphltwbCDuAQ4IqC5q7PvP6nV1k1bY/nbP046d5v//BshUyYwJteFv5uaS7U0VLrIid76svTDxksQeufUp7p7smgV223ja7KCKSvC8HmBG88o+qICcuzeolQ+Ucyg2ZxOHOGw7h18ziiaArKPP5nYKmLv0izTmqfZikmq2oLHIPR5cYkJXDDotI=;GRUCxpfRcs1nJP61mR6ccQ=="
 ---

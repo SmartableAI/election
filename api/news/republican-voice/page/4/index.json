@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-24-ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.md",
+      "title": "Ivanka Trump champions working families, fights human trafficking during her father's presidency",
+      "excerpt": "While President Donald Trump commanded the nation’s attention over the last four years, his daughter and senior adviser, Ivanka Trump, racked up a list of considerable achievements.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20356689491057.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp",
+      "publishedDateTime": "2020-12-24T10:23:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-harris-giving-biden-spotlight-on-coronavirus-relief-talks-deroy-murdock.md",
       "title": "Harris giving Biden 'spotlight' on coronavirus relief talks: Deroy Murdock",
       "excerpt": "Vice-president-elect Kamala Harris is giving President-elect Joe Biden the “spotlight” on coronavirus relief discussions, Fox News contributor Deroy Murdock said on Thursday.",
@@ -1628,62 +1684,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-trump-targeting-mcconnell-and-top-republicans-urges-them-to-get-tougher-in-election-fight.md",
-      "title": "Trump, targeting McConnell and top Republicans, urges them to 'get tougher' in election fight",
-      "excerpt": "President Trump is again taking aim at Senate Majority Leader Mitch McConnell after the top Republican and Trump ally earlier this week recognized President-elect Joe Biden's White House victory.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXf-_nfXuLg/trump-mcconnell-senate-republicans-get-tougher-election-fight",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXf-_nfXuLg/trump-mcconnell-senate-republicans-get-tougher-election-fight",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 339,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp",
-      "publishedDateTime": "2020-12-18T09:40:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

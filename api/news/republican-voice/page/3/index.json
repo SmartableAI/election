@@ -2,6 +2,54 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-04-president-trump-rails-against-media-coverage-of-fauci-he-works-for-me.md",
+      "title": "President Trump rails against media coverage of Fauci: ‘He works for me’",
+      "excerpt": "President Trump on Sunday griped that the news media is giving Dr. Anthony Fauci credit for the coronavirus response that he deserves.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/03/trump-rails-against-media-coverage-of-fauci-he-works-for-me/",
+      "originalUrl": "https://nypost.com/2021/01/03/trump-rails-against-media-coverage-of-fauci-he-works-for-me/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-anthony-fauci.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/03/trump-rails-against-media-coverage-of-fauci-he-works-for-me/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/03/trump-rails-against-media-coverage-of-fauci-he-works-for-me/amp/",
+      "publishedDateTime": "2021-01-03T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-03-eric-trump-don-jr-party-with-vanilla-ice-at-mar-a-lago-new-years-bash.md",
       "title": "Eric Trump, Don Jr. party with Vanilla Ice at Mar-a-Lago New Year’s bash",
       "excerpt": "President Trump skipped out on performances by ’90s pop-rapper Vanilla Ice, Beach Boys founder Mike Love and other throwback acts at a pricey Mar-a-Lago New Year’s Eve bash.",
@@ -786,7 +834,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 247,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -1589,62 +1637,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-considers-boston-mayor-walsh.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-considers-boston-mayor-walsh.amp",
       "publishedDateTime": "2020-12-24T12:51:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.md",
-      "title": "Ivanka Trump champions working families, fights human trafficking during her father's presidency",
-      "excerpt": "While President Donald Trump commanded the nation’s attention over the last four years, his daughter and senior adviser, Ivanka Trump, racked up a list of considerable achievements.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2rrQW_wYAR0/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20356689491057.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-champions-working-families-fights-human-trafficking-during-her-fathers-presidency.amp",
-      "publishedDateTime": "2020-12-24T10:23:31-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

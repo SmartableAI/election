@@ -1006,6 +1006,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "John Roberts can't escape the shadow of Donald Trump"
+    excerpt: "Chief Justice John Roberts will swear in Joe Biden on January 20 as the next president of the United States. But that historic ritual on the West Front of the US Capitol will not free Roberts of Donald Trump.\n    \n"
+    publishedDateTime: 2021-01-11T12:20:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0yn2Ha-50KI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/john-roberts-trump-shadow/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/john-roberts-trump-shadow/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127081219-01-roberts-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's impeachment foretold everything that's happened since "
     excerpt: "Alarming as it is, the corrosive conclusion to 2020 in America was plainly visible in advance.\n    \n"
     publishedDateTime: 2020-12-20T13:47:40Z

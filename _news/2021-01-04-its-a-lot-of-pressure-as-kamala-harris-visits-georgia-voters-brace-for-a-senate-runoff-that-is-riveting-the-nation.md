@@ -66,7 +66,7 @@ related:
   - title: "Vogue's Kamala Harris cover photos spark controversy: 'Washed out mess'"
     excerpt: "First woman of color elected vice-president is February cover star but users complain about lighting"
     publishedDateTime: 2021-01-10T18:48:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour?fbclid=IwAR1RL0jG2Q0qqew-VVMTse9cqgBcU5OwXIJlSDagcQS3dl4nkqM9ZnzRVpI"
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour?share=facebook"
     ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
     type: article
@@ -122,6 +122,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/71/53/20159178/11/rawImage.jpg"
         width: 2048
         height: 1396
+        isCached: true
+  - title: "Kamala Harris' Vogue cover photo sparks controversy"
+    excerpt: "Vice President-elect Kamala Harris is featured on the cover of the February 2021 issue of Vogue, but controversy over the selected cover photo has overshadowed the magazine's debut. CBS Los Angeles explains."
+    publishedDateTime: 2021-01-11T12:12:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-vogue-cover-photo-sparks-controversy/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/11/405013d5-11c8-4c71-844f-f273feee39ca/thumbnail/1200x630/d63dac672e34e3a9fc53ebad570b8dca/cbsn-fusion-kamala-harris-vogue-cover-photo-sparks-controversy-thumbnail-624156-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Kamala Harris' 'Fweedom' story mirrors MLK account"
     excerpt: "Vice President-elect Kamala D. Harris told a story about her participation as a little girl in a civil rights march that mirrors an account told by the Rev. Martin Luther King."

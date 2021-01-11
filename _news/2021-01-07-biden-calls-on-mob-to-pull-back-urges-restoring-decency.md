@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-b
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 725
+heat: 765
 published: true
 
 provider:
@@ -140,6 +140,38 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_cac903d7362845908ccfd3cf90a4f028_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden chooses veteran diplomat Burns as CIA director"
+    excerpt: "WASHINGTON -- President-elect Joe Biden announced Monday he has chosen veteran diplomat William Burns to be his CIA director. A former ambassador to Russia and Jordan, Burns, 64, had a 33-year career at the State Department under both Republican and Democratic presidents."
+    publishedDateTime: 2021-01-11T11:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-chooses-veteran-diplomat-burns-cia-director-75173251"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-chooses-veteran-diplomat-burns-cia-director-75173251"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-chooses-veteran-diplomat-burns-cia-director-75173251"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ef13bbbc6681415387dea86d70ac4856_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Israel announces new settlements, risking Biden's anger"
+    excerpt: "Israel has advanced plans to build 800 new settler homes in the occupied West Bank, a move that could strain ties with the incoming administration of President-elect Joe Biden"
+    publishedDateTime: 2021-01-11T12:02:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/israel-announces-settlements-risking-bidens-anger-75172908"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/israel-announces-settlements-risking-bidens-anger-75172908"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/israel-announces-settlements-risking-bidens-anger-75172908"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_6da97118452742cfaa37ee04ef0f095a_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

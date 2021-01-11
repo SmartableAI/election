@@ -319,6 +319,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's Covid vaccine distribution plan still in flux days before inauguration"
+    excerpt: "President-elect Joe Biden and his Covid-19 task force are treating the pandemic as a national security-level crisis, but with just days to go before inauguration, some major details of how they will ramp up vaccine distribution to the level promised are still being sorted out, multiple sources tell CNN.\n"
+    publishedDateTime: 2021-01-11T12:38:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p8iwnB_3qmk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/biden-covid-vaccine-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/biden-covid-vaccine-plan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201223105619-01-joe-biden-1222-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to nominate William Burns as CIA director, turning to a longtime diplomat to lead agency in post-Trump era"
+    excerpt: "President-elect Joe Biden on Monday will nominate William Burns as director of the Central Intelligence Agency, CNN has learned, tapping a respected veteran American diplomat who has served in posts around the world from the Reagan to the Obama administrations.\n    \n"
+    publishedDateTime: 2021-01-11T12:03:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WcdmZvR6eqI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/william-burns-cia-director-nomination/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/william-burns-cia-director-nomination/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210110184425-william-j-burns-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Sunrise Movement is an early winner in the Biden transition. Now comes the hard part."
     excerpt: "The Sunrise Movement, a youth-led climate activist group, has quickly announced itself as one of the most influential progressive forces in the formative days of President-elect Joe Biden's incoming administration.\n    \n"
     publishedDateTime: 2021-01-02T13:31:14Z

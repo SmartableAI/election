@@ -1,29 +1,24 @@
 ---
 category: news
 title: "Democrats give VP Mike Pence ultimatum to remove Trump from White House"
-excerpt: "US House Speaker Nancy Pelosi has stepped up the pressure on Vice-President Mike Pence to act to remove Donald Trump from office over his role in last week's storming of the Capitol. Lawmakers are expected to bring up a resolution asking Mr Pence to invoke the 25th Amendment to declare the president unfit for office."
-publishedDateTime: 2021-01-11T08:39:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-55611630?fbclid=IwAR2yXe6Ap7Sx0mM0EyUzbQdTTR4Em_CB50Bfb5RWO1ElZATmEKwzys1NjF0"
-webUrl: "https://www.bbc.com/news/world-us-canada-55611630?fbclid=IwAR2yXe6Ap7Sx0mM0EyUzbQdTTR4Em_CB50Bfb5RWO1ElZATmEKwzys1NjF0"
-ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55611630"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55611630"
+excerpt: "US House Speaker Nancy Pelosi has stepped up the pressure on Vice-President Mike Pence to act to remove Donald Trump from office over his role in last week's storming of Congress. Lawmakers are expected to bring up a resolution asking Mr Pence to invoke the 25th Amendment to declare the president unfit for office."
+publishedDateTime: 2021-01-11T08:44:00Z
+originalUrl: "https://www.bbc.co.uk/news/amp/world-us-canada-55611630"
+webUrl: "https://www.bbc.co.uk/news/amp/world-us-canada-55611630"
+ampWebUrl: "https://www.bbc.co.uk/news/amp/world-us-canada-55611630"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/world-us-canada-55611630"
 type: article
-quality: 150
+quality: 90
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Election
   - Mike Pence
-  - Donald Trump
 
 images:
   - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14169/production/_116418228_hi065099285.jpg"
@@ -559,6 +554,22 @@ related:
       - url: "https://i.insider.com/5fef2b309ff41f001883fa37?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "William Burns, Joe Biden's CIA Pick, Condemned Donald Trump's 'Aggressive' Iran Policy"
+    excerpt: "Burns and Jake Sullivan led a secret diplomatic channel to Tehran which eventually facilitated the Iran nuclear deal."
+    publishedDateTime: 2021-01-11T12:45:00Z
+    webUrl: "https://www.newsweek.com/william-burns-biden-cia-pick-trump-iran-policy-1560466"
+    ampWebUrl: "https://www.newsweek.com/william-burns-biden-cia-pick-trump-iran-policy-1560466?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/william-burns-biden-cia-pick-trump-iran-policy-1560466?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 142
+    images:
+      - url: "https://d.newsweek.com/en/full/1702682/william-burns-biden-cia-pick-iran.jpg"
+        width: 2500
+        height: 1668
         isCached: true
   - title: "Photos show Trump and his supporters pack DC streets as they rail against Biden's election victory"
     excerpt: "Trump spoke to thousands of supporters in Washington, DC, Wednesday who came to protest Congress' certification of Biden's win."
@@ -2729,6 +2740,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "PGA votes to move 2022 championship from Trump golf course"
+    excerpt: "This is the second time in just over five years the PGA of America removed one of its events from a Trump course."
+    publishedDateTime: 2021-01-11T12:19:00Z
+    webUrl: "https://www.cbsnews.com/news/pga-2022-championship-trump-golf-course-bedminster/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/pga-2022-championship-trump-golf-course-bedminster/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pga-2022-championship-trump-golf-course-bedminster/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/11/a000e10d-134a-4e04-8718-ffe39ec3a978/thumbnail/1200x630/d086498950ed53deac83135e6aaaeca8/gettyimages-624189760.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "PGA votes to move championship from Trump golf course"
     excerpt: "This is the second time in just over five years the PGA of America removed one of its events from a Trump course."
@@ -4921,6 +4948,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "uV6UXEXj5oFeLwKRYDtL775sNknWhB4xopHAGLxpW4wOWUwC8yYF29oetK3cXXiYi1YK4Yp+JK/BoyiI6qG/hpN/78qjuPi4PyC9MzFUI7q6rWoFjKIMK3W6BR6XZOWmpWpAktu9EqhBgu9kVvwrjPuyFusPaOTeFhi+NWDggdW+N8T7/mbGe3f9YsL6fYts9A8xMDxuXcsxD4dai+j2dZD6QGG4f+UsCe80D7/cOtotPWwdt/MCBMEXmVOnDsGEh2V9BvR35kbiKWT/QL/T9+ZltFHbPd50XDvX3b5ihWE6uhJXiPbeWYF93ZfHTTiA7XHUeKF5J0arMEYf94gBojVXOYgOF+tBf1V1QcBRH/pDI3eJRqeEyhnY5vp49f/C/9OJzgfknJpCs6u7CjcbSl2r0+vdwgvIo8IBFa6YCO9JKDa2eG2gbkpxP544XYkyIX/ACoeXROxdJalAHcO4pmEDshm/Rs2OgNJPdvnOFH8hxCh+n++UbZnLnoo52f9Ehy5eCvxaap7pMKLb/1a1bA==;ywjO3AnPJimZ4gWdC5t+mA=="
+secured: "j0JJLwLZ7BCH8dcaICGMbCaYZjoldAmHu1bSTiFkGCh1+LXVVnbst+23TEJIMM9r6vDCw7VLqUN5mFUeTg6tJHTPgDRLy+QI4ifujFC2PMDLjrb5hoMNaOY2zEzoNOMzKCpI/JrRVO4UHGCBkDZpYSdXtpoWlGWEhzL55HEJ3wNSvRixR4X6TdEt4gYZA5C7KCu/YBr+d1k4wc7voBVHT+uWCM5K3i+jwRNdZop5MOTYtRd44hF+0suWCa1AGlQSuworqNiEZTnK3cVS2drm3Pn6YkVOpW5vZq9Wo1ih8+s5o6oQjwnpCuS9rVqG02QFcfmYh5/ocPEXr9EeO82P/h3swshvZV9qjvuuxWp5dMA=;UF54FEVRz5yxOrL28ujadA=="
 ---
 

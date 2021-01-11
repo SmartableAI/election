@@ -1007,6 +1007,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "John Roberts can't escape the shadow of Donald Trump"
+    excerpt: "Chief Justice John Roberts will swear in Joe Biden on January 20 as the next president of the United States. But that historic ritual on the West Front of the US Capitol will not free Roberts of Donald Trump.\n    \n"
+    publishedDateTime: 2021-01-11T12:20:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0yn2Ha-50KI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/john-roberts-trump-shadow/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/john-roberts-trump-shadow/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201127081219-01-roberts-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration locks down border wall contracts, complicating Biden's pledge to stop construction"
     excerpt: "The Trump administration is continuing to award border wall contracts in the waning days of Donald Trump's presidency, including in areas where private land hasn't yet been acquired, an unusual move that will complicate President-elect Joe Biden's pledge to halt construction.\n    \n"
     publishedDateTime: 2021-01-05T23:55:26Z

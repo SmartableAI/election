@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-12-michelle-goldberg-column-covid-meds-are-scarce-but-not-for-trump-cronies.md",
+      "title": "Michelle Goldberg column: COVID meds are scarce, but not for Trump cronies",
+      "excerpt": "According to a document from the Department of Health and Human Services, a total of 108 doses of Regeneron’s monoclonal antibody cocktail have been allocated to Washington, which had 265 new coronavirus cases on Wednesday alone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-coronavirus-giuliani-regeneron-michelle-goldberg-column-20201211-5mflfstsubf6vbp3673riy6jcu-story.html",
+      "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-coronavirus-giuliani-regeneron-michelle-goldberg-column-20201211-5mflfstsubf6vbp3673riy6jcu-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/9ig9JnhIafT6BnPx8qKep5z10-I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GXQZRRSPOORM5DIYNUNLIFF6I4.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-coronavirus-giuliani-regeneron-michelle-goldberg-column-20201211-5mflfstsubf6vbp3673riy6jcu-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-coronavirus-giuliani-regeneron-michelle-goldberg-column-20201211-5mflfstsubf6vbp3673riy6jcu-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-11T08:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-11-george-conway-writes-op-ed-calling-trumps-effort-to-overturn-the-election-the-true-big-fraud-of-2020.md",
+      "title": "George Conway writes op-ed calling Trump's effort to overturn the election the true 'big fraud' of 2020",
+      "excerpt": "\"History will record that the scam didn't succeed,\" George Conway wrote in an op-ed excoriating Trump's effort to overturn the election.",
+      "sourceUrl": null,
+      "webUrl": "https://businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12",
+      "originalUrl": "https://businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fd2968d7b7e0500191074ca?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12?amp",
+      "publishedDateTime": "2020-12-10T14:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-trump-and-his-allies-have-won-zero-out-of-at-least-38-lawsuits-theyve-filed-since-election-day.md",
       "title": "Trump and his allies have won zero out of at least 38 lawsuits they've filed since Election Day",
       "excerpt": "Republicans have filed more than two dozen lawsuits since the election challenging the results. They've won zero.",
@@ -1501,106 +1605,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-trump-campaign-paid-dechert-164k-for-recount-related-legal-services-fec-filings-show.md",
-      "title": "Trump campaign paid Dechert $164K for 'recount' related legal services, FEC filings show",
-      "excerpt": "U.S. President Donald Trump's campaign last month paid more than $164,000 to Dechert, a law firm that during the 2020 election touted its work on pro bono voting rights cases in which it often faced off against Republican-backed lawyers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/lawyer-trump-dechert-idUSL1N2IL017",
-      "originalUrl": "https://www.reuters.com/article/lawyer-trump-dechert-idUSL1N2IL017",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2IL017",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IL017",
-      "publishedDateTime": "2020-12-04T21:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-as-deadline-lapses-trump-administration-continues-tiktok-talks.md",
-      "title": "As Deadline Lapses, Trump Administration Continues TikTok Talks",
-      "excerpt": "The Trump administration will allow a Friday deadline for TikTok’s Chinese parent company to sell the viral video app to lapse, said a person with knowledge of the decision. But the government will not enforce an executive order demanding the sale,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/04/technology/as-deadline-lapses-trump-administration-continues-tiktok-talks.amp.html",
-      "publishedDateTime": "2020-12-04T18:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

@@ -736,6 +736,62 @@
       ]
     },
     {
+      "path": "_news/2021-01-06-biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition.md",
+      "title": "Biden calls on protesters to 'pull back,' says their actions border on 'sedition'",
+      "excerpt": "President-elect Joe Biden minced no words Wednesday afternoon in response to the protesters who stormed Capitol Hill, saying that their actions “do not reflect a True America” and “border on seditious.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4pzkUMHDp9o/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4pzkUMHDp9o/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition.amp",
+      "publishedDateTime": "2021-01-06T14:37:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-biden-vows-to-get-big-things-done-after-georgia-senate-runoffs.md",
       "title": "Biden vows to ‘get big things done’ after Georgia Senate runoffs",
       "excerpt": "With Democrats close to capturing control of both houses of Congress, President-elect Joe Biden is vowing “to get big things done for our nation.”",
@@ -1617,54 +1673,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-president-trump-rails-against-media-coverage-of-fauci-he-works-for-me.md",
-      "title": "President Trump rails against media coverage of Fauci: ‘He works for me’",
-      "excerpt": "President Trump on Sunday griped that the news media is giving Dr. Anthony Fauci credit for the coronavirus response that he deserves.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/01/03/trump-rails-against-media-coverage-of-fauci-he-works-for-me/",
-      "originalUrl": "https://nypost.com/2021/01/03/trump-rails-against-media-coverage-of-fauci-he-works-for-me/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-anthony-fauci.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/01/03/trump-rails-against-media-coverage-of-fauci-he-works-for-me/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/03/trump-rails-against-media-coverage-of-fauci-he-works-for-me/amp/",
-      "publishedDateTime": "2021-01-03T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

@@ -32,19 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Obama echoes Biden remarks that police response to Capitol riots would have been harsher with BLM"
-    excerpt: "Former President Barack Obama took to Twitter Friday to address why Civil Rights groups and lawmakers are furious over the vastly different approach law enforcement took to Wednesday’s U.S. Capitol breach compared to last summer’s Black Lives Matter (BLM) protests."
-    publishedDateTime: 2021-01-09T03:25:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3nJ80-eLKLQ/obama-echoes-biden-suggests-double-standard-in-police-response-to-blm"
-    ampWebUrl: "https://www.foxnews.com/politics/obama-echoes-biden-suggests-double-standard-in-police-response-to-blm.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-echoes-biden-suggests-double-standard-in-police-response-to-blm.amp"
+  - title: "Biden announces William Burns for CIA director"
+    excerpt: "President-elect Joe Biden announced Ambassador William Burns as his nominee for director of the CIA on Monday."
+    publishedDateTime: 2021-01-11T11:57:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z7AdeLJYzGc/biden-william-burns-cia-director"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-william-burns-cia-director.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-william-burns-cia-director.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b32ebf9a-5188-4687-bf40-72a6eee05990/5314d1ba-f3cf-4df9-a735-3bbd2ec83ce7/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011418120691-e1610366107225.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "If Biden halts border wall, it could cost taxpayers billions, CBP chief warns"
+    excerpt: "President-elect Joe Biden is promising that border wall building won't continue under his administration, but with hundreds of miles under construction, the head of Customs and Border Protection (CBP) is warning that shutting down construction could cost taxpayers billions."
+    publishedDateTime: 2021-01-09T22:25:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QQ7UW30u_NQ/biden-border-taxpayers-billions-cbp"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-taxpayers-billions-cbp.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-taxpayers-billions-cbp.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cb36dbe-eada-4977-abd7-6669263e1345/a159a8e6-35c5-4f32-aa31-c8e2af9ce0ae/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

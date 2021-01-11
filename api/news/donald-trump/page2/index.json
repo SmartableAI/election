@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-08-capitol-riots-boris-johnson-condemns-donald-trump-for-sparking-events.md",
+      "title": "Capitol riots: Boris Johnson condemns Donald Trump for sparking events",
+      "excerpt": "Donald Trump was \"completely wrong\" to cast doubt on the US election and encourage supporters to storm the Capitol, Boris Johnson has said. The UK prime minister said he \"unreservedly condemns\" the US president's actions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/amp/uk-politics-55580806",
+      "originalUrl": "https://www.bbc.com/news/amp/uk-politics-55580806",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E4E6/production/_116389585_johnsontrump.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/uk-politics-55580806",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-politics-55580806",
+      "publishedDateTime": "2021-01-07T10:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-book-of-the-moment-audience-of-one-donald-trump-television-and-the-fracturing-of-america.md",
+      "title": "Book of the moment: ‘Audience of One: Donald Trump, Television, and the Fracturing of America’",
+      "excerpt": "For a deeper understanding of this week's insurrection at the Capitol and the end of Donald Trump's presidency, read \"Audience of One: Donald Trump, Television, and the Fracturing of America\" by James Poniewozik.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/entertainment/books/ct-books-moment-audience-one-0108-20210107-hmte4mjf5zh5rejj32gzing6u4-story.html",
+      "originalUrl": "https://www.chicagotribune.com/entertainment/books/ct-books-moment-audience-one-0108-20210107-hmte4mjf5zh5rejj32gzing6u4-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/9PlWtEXNk4DY1O9DRVS8lVcYtQU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JA6MQWUKONA63D6TTER66S3O4Y.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/entertainment/books/ct-books-moment-audience-one-0108-20210107-hmte4mjf5zh5rejj32gzing6u4-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/books/ct-books-moment-audience-one-0108-20210107-hmte4mjf5zh5rejj32gzing6u4-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-07T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-top-ceos-may-cut-off-funding-to-republicans-who-have-supported-trumps-election-challenge-money-is-the-key-way.md",
       "title": "Top CEOs may cut off funding to Republicans who have supported Trump's election challenge: 'Money is the key way'",
       "excerpt": "Execs from Disney, Accenture, and Deloitte, as well as former White House advisors, attended a call to discuss Trump's election challenge.",
@@ -270,7 +374,7 @@
       "originalUrl": "https://www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -521,7 +625,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086",
       "featuredContent": null,
       "highlight": null,
-      "heat": 6528,
+      "heat": 6568,
       "tags": null,
       "images": [
         {
@@ -1440,115 +1544,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-georgia-district-attorney-says-she-will-enforce-the-law-without-fear-of-favor-following-trump-call.md",
-      "title": "Georgia district attorney says she will 'enforce the law without fear of favor' following Trump call",
-      "excerpt": "The district attorney overseeing Atlanta said Monday that she will “enforce the law without fear of favor” if a case is referred to her office regarding President Trump’s controversial",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/532539-georgia-district-attorney-says-she-will-enforce-the-law-without-fear",
-      "originalUrl": "https://thehill.com/homenews/administration/532539-georgia-district-attorney-says-she-will-enforce-the-law-without-fear",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_michiganrally_103020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/532539-georgia-district-attorney-says-she-will-enforce-the-law-without-fear?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/532539-georgia-district-attorney-says-she-will-enforce-the-law-without-fear?amp",
-      "publishedDateTime": "2021-01-04T10:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-georgias-raffensperger-says-he-never-believed-it-appropriate-to-speak-with-trump-about-election.md",
-      "title": "Georgia's Raffensperger says he 'never believed' it appropriate to speak with Trump about election",
-      "excerpt": "The Republican secretary of state also said the call from Trump could warrant an investigation into possible conflicts of interest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/georgia-s-raffensperger-says-he-never-believed-it-appropriate-speak-n1252724",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/georgia-s-raffensperger-says-he-never-believed-it-appropriate-speak-n1252724",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2021_01/3439355/2104-raffensperger-georgia-mc-1333_6dc343e5ae1cc75428f71b551b3578ad.JPG",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1252724",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252724",
-      "publishedDateTime": "2021-01-04T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],
