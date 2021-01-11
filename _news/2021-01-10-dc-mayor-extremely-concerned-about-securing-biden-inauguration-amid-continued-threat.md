@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/dc-mayor-biden-inauguration-homelan
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-mayor-biden-inauguration-homeland-security.amp"
 type: article
 quality: 166
-heat: 166
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Washington monument closes through Biden's inauguration due to 'credible threats'"
+    excerpt: "The National Park Service said Monday it is suspending tours of the Washington Monument until Jan. 24 or longer due to \"credible threats\" from groups involved in the violence at the U.S. Capitol on Jan. 6."
+    publishedDateTime: 2021-01-11T17:47:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dajmyjyCwaA/washington-monument-biden-inauguration-threats-tours"
+    ampWebUrl: "https://www.foxnews.com/politics/washington-monument-biden-inauguration-threats-tours.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/washington-monument-biden-inauguration-threats-tours.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006605506135.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "q1r0W+oMU1IYLjQaRvMNtJ3U+Exbx6g5yd8lcNdxY7GzIaUf7noiCEp5bTrO+v9RHFtiRMUnJSt2hMx01C2X96sfc/ZH0zruGZtGt0Ga9rYTKmoLkFFIBjxcMVGG7xLyX9hLvIx+NCHxn9PH95WIVO19CxkEj7QlgRx3DHM82ttsxofZse0NPS8kmNhWJ6RStIg+0/0s7cnckKts+tCqgeZEGuVNtVanNCy1RcoWZ7enDfypRbTZf1eQDGvqdHa5Q9aRRiNsjShW6/hFeSUmTPtTtByJDJMYDtx57EzShmHuDWYWVQS1OvyC74DSzdg25G7eDkdRGYNZu3gR2wPz9RZVvq9GurzxeL0exKYrYiM=;6owlSPVvUDWcYXBXdAw8NA=="
 ---

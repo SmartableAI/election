@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/trump-official-merchandise-store
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/10/PDTN/a7c8b4d1-1eae-4861-aebb-e20a957f6eb0-AP21009043612110.jpg?auto=webp&crop=2037,1146,x1349,y1095&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Stripped of Social Media, Trump Remains Defiant"
+    excerpt: "In the wake of Trump losing his social-media accounts, the president isn't holding back his outrage and Twitter's San Francisco headquarters is bracing for possible protests."
+    publishedDateTime: 2021-01-11T16:58:00Z
+    webUrl: "https://www.ibtimes.com/stripped-social-media-trump-remains-defiant-3119081"
+    ampWebUrl: "https://www.ibtimes.com/stripped-social-media-trump-remains-defiant-3119081?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/stripped-social-media-trump-remains-defiant-3119081?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/twitter-permanently-suspended-president-donald-trumps-account-pictured.jpg"
+        width: 1024
+        height: 661
         isCached: true
   - title: "Twitter On Shopify Terminating Donald Trump-Affiliated Stores After Capitol Riot: ‘Too Little, Too Late’"
     excerpt: "Twitter users have mixed opinions on Shopify’s move to terminate all the stores affiliated with Donald Trump on its website."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/sport/amp/basketball/55584721"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/amp/basketball/55584721"
 type: article
 quality: 118
-heat: 138
+heat: 158
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to nominate longtime U.S. diplomat Burns to lead CIA"
+    excerpt: "U.S. President-elect Joe Biden will nominate former career diplomat and former deputy secretary of state William Burns to lead the CIA, his transition team said on Monday."
+    publishedDateTime: 2021-01-11T17:01:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-cia/biden-nominates-longtime-u-s-diplomat-burns-to-lead-cia-idUSKBN29G17M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547393128&r=LYNXMPEH0A191&w=800"
+        width: 800
+        height: 571
+        isCached: true
   - title: "Marriott will suspend donations to U.S. lawmakers who voted against Biden certification"
     excerpt: "Marriott International Inc, the world's largest hotel company, confirmed Sunday it will suspend donations to U.S. lawmakers who voted against certifying President-elect Joe Biden's victory last week."
     publishedDateTime: 2021-01-11T00:30:00Z

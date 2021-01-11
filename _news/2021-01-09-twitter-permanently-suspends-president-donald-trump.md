@@ -2530,6 +2530,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "House Moves Forward With New Impeachment Charge Against Trump"
+    excerpt: "House Democrats introduced an article of impeachment against President Trump for inciting a mob that attacked the Capitol last week. Republicans blocked a move to formally call on Vice President Mike Pence to strip him of power under the 25th Amendment."
+    publishedDateTime: 2021-01-11T17:38:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007544808/house-impeachment-trump.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/11/us/politics/11transition-briefing-house-sub/11transition-briefing-house-sub-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "How Congress and coronavirus could quash Trump's Electoral College gambit"
     excerpt: "Leadership has a potent arsenal to combat efforts to turn the electoral vote counting session on Jan. 6 into a spectacle — if they deploy it."
     publishedDateTime: 2020-12-30T09:33:00Z

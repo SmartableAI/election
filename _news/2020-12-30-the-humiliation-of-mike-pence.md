@@ -852,6 +852,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "House Democrats introduce Trump impeachment resolution claiming president incited 'insurrection'"
+    excerpt: "House Democrats introduced an impeachment resolution against President Trump on Monday for incitement of an insurrection, just days after the Capitol riot, saying he warrants impeachment, trial and \"removal from office.\" "
+    publishedDateTime: 2021-01-11T17:05:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9sgJSC3NJJI/house-trump-impeachment-article-insurrection"
+    ampWebUrl: "https://www.foxnews.com/politics/house-trump-impeachment-article-insurrection.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-trump-impeachment-article-insurrection.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "President Trump says South Dakota Gov. Kristi Noem should challenge 'RINO' Sen. John Thune in 2022"
     excerpt: "Thune drew Trump’s ire in recent days after he criticized the president’s bid to challenge the results of the 2020 presidential election."
     publishedDateTime: 2021-01-01T22:38:51Z
@@ -1347,6 +1363,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bb752f8-2409-46db-af16-d85c3c4dbb82/c3764b16-1586-4d4d-b3d2-60e3e6c1fa5c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "House Democrats offer Trump impeachment resolution claiming president incited 'insurrection'"
+    excerpt: "House Democrats introduced an impeachment resolution against President Trump on Monday for incitement of an insurrection, just days after the Capitol riot, saying he warrants impeachment, trial and \"removal from office."
+    publishedDateTime: 2021-01-11T17:16:00Z
+    webUrl: "https://www.foxnews.com/politics/house-trump-impeachment-article-insurrection"
+    ampWebUrl: "https://www.foxnews.com/politics/house-trump-impeachment-article-insurrection.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-trump-impeachment-article-insurrection.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "President Trump says South Dakota Gov. Kristi Noem should challenge 'RINO' Sen. John Thune in 2022"
     excerpt: "Thune drew Trump’s ire in recent days after he criticized the president’s bid to challenge the results of the 2020 presidential election."

@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "House Democrats introduce an article of impeachment charging Trump with incitement of insurrection"
+    excerpt: "The president incited a deadly riot at the US Capitol last week that resulted in five deaths and Trump's de-platforming on mainstream social media."
+    publishedDateTime: 2021-01-11T17:46:00Z
+    webUrl: "https://www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5ff5f5f5d184b30018aad517?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "U.S. House Democrats to introduce Trump impeachment article on Monday"
     excerpt: "Democrats in the U.S. House of Representatives will introduce legislation on Monday urging the impeachment of President Donald Trump, Representative Ted Lieu said on Saturday."
     publishedDateTime: 2021-01-10T05:34:00Z
@@ -147,6 +163,22 @@ related:
     quality: 75
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IT5UV3JIC5E4ZAH6X4JW73FR7M.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "U.S. House introduces article of impeachment, charging Trump with ‘incitement of insurrection’"
+    excerpt: "Pelosi’s leadership team also will seek a quick vote on a resolution calling on Vice President Mike Pence and Cabinet officials to invoke the 25th Amendment."
+    publishedDateTime: 2021-01-11T14:39:00Z
+    webUrl: "https://www.al.com/news/2021/01/us-house-introduces-article-of-impeachment-charging-trump-with-incitement-of-insurrection.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/us-house-introduces-article-of-impeachment-charging-trump-with-incitement-of-insurrection.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/us-house-introduces-article-of-impeachment-charging-trump-with-incitement-of-insurrection.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 63
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/R4GKARIBANALJFNX67TOCVXQSY.jpg"
         width: 1024
         height: 683
         isCached: true

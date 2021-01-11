@@ -91,8 +91,8 @@ related:
         isCached: true
   - title: "Vogue's Kamala Harris cover photos spark controversy: 'Washed out mess'"
     excerpt: "First woman of color elected vice-president is February cover star but users complain about lighting"
-    publishedDateTime: 2021-01-10T18:48:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour?share=facebook"
+    publishedDateTime: 2021-01-11T15:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour?fbclid=IwAR1bNX4SBZrhlR_3TtForOSsodHxc-6OWQbLFglDCZ2N9L3EKdFRGsmiwEA"
     ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
     type: article
@@ -163,6 +163,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala D. Harris’s most trusted adviser: her sister Maya"
+    excerpt: "Kennedy had Bobby, Joe Biden’s sister Valerie once ran his campaigns and Ivanka Trump has been one of the president’s most visible advisers. Kamala D. Harris has her younger sister, Maya Harris. The two are not only extremely close;"
+    publishedDateTime: 2021-01-11T17:55:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/2021/01/11/maya-kamala-harris-sister/?arc404=true"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/resizer/k3ZQvOTLDBZO9_bKaTcrxAw1380=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MEDDNWFIAUI6TEQUERXFSTPF2U.jpg"
+        width: 1484
+        height: 989
+        isCached: true
   - title: "'It’s a lot of pressure.' As Kamala Harris visits Georgia, voters brace for a Senate runoff that is riveting the nation"
     excerpt: "From the time she stepped onto the podium, Vice President-elect Kamala Harris was greeted by thunderous car horns at a drive-in event near Savannah just days before voters decide their next Senators in contentious races that will shape Harris’ and President-elect Joe Biden’s governing future."
     publishedDateTime: 2021-01-04T12:06:00Z
@@ -178,6 +192,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/04/NSMN/40d7eacb-8ee7-4152-bc0d-e67001ba07ce-Kamala3.jpg?auto=webp&crop=1999,1125,x0,y133&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kamala Harris gets the Vogue cover Melania Trump always wanted"
+    excerpt: "The president, first lady and their political supporters repeatedly complained that ‘elitist’ fashion magazines wouldn’t put the ‘most elegant first lady in American"
+    publishedDateTime: 2021-01-11T18:28:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/11/kamala-harris-gets-the-vogue-cover-melania-trump-always-wanted/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/11/kamala-harris-gets-the-vogue-cover-melania-trump-always-wanted/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/11/kamala-harris-gets-the-vogue-cover-melania-trump-always-wanted/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 90
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_982bd6f39d8176d926a35de2b32bfd51-h_16ae4b24c5b25e70b3b25aaa73a4c7ca.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Kamala Harris' 'Fweedom' story mirrors MLK account"
     excerpt: "Vice President-elect Kamala D. Harris told a story about her participation as a little girl in a civil rights march that mirrors an account told by the Rev. Martin Luther King."
@@ -322,6 +352,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/08/Biden_18791.jpg-a4d52_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Kamala Harris team says it was blindsided by VP-elect’s Vogue cover"
+    excerpt: "Vice President-elect Kamala Harris has landed on the cover of the February issue of Vogue magazine, but her team says there’s a problem: the shot of the country’s soon-to-be No. 2 leader isn’t what both sides had agreed upon,"
+    publishedDateTime: 2021-01-11T17:38:00Z
+    webUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
+    ampWebUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 75
+    images:
+      - url: "https://www.courant.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Kamala Harris' Vogue Cover Prompts Backlash and Outrage: ‘Disrespectful'"
     excerpt: "Vogue received similar criticism for the way it photographs Black stars when Simone Biles covered the magazine in July."
@@ -540,6 +586,6 @@ related:
         height: 300
         isCached: true
 
-secured: "ZYl4wpxWmwcnC4/YQ7oonzsBMIEh+hevvhSzHkLMlIMkWPZJrK48ZZ7mupwW4c8THZ/tnuP8iXg9D56qj7YnOqpx9nq39Y7+zNhP/JvcVmUVawAy4e+5/dUCR8KpmMNWa7tUHDVrTKo/jMRq8N1tzDrh9WYb3x2l/z1c4fFjVB0+/zEVpG3QktdvPcYkVMxsIzGu/sfYh2OyQLmSWVN2qyqDJqjFgh4JMcnpZH9SXieoQWYyLVxkcB0R4TyoJlVk8Dts4kBEgNpvUvu6J+C+BgYnpAUFs/8TVmZqLNyPVewopsngzFojqpheAjt0VXK5X/gRL34GEr7vnsY0H03BJVWgqNscKObInKZ8J2uIY+M=;xe/GEHX7H6wgGS+zNUt3uQ=="
+secured: "YurLK+gVbAkA+nhPQAbErLqWQa1qhPNPIWD1ZyaR4c+kxdGIHxLO0x0t5f7qjllmJGW+WnevzUxIJaGWn7pbfKiBQ3wuvoilTHC+LD44kOnWPowIKeCPLNp7uoxQLa9B3wGFX7gQ7Tr+mZoj4AZazg25pmjfPqoyJqGfZ55VxrSIub0Rj0ctApEGT/0x2NCod+xzAZ0EnWj7bx36L1avKIhJSHPdTX6ELHZ/pB6ZiwNPvU74+gvYCB01dPB/1u7iYsAexh0ppAT7j/77fOuXByCZ5NgRi6O+NYv/6NR060PXfLJLIFFM4afejKH8IxMBs9WmpRCaxp1R+EzRMapb64S3SFVtPVVM+cst6QdhwnNfJb1PbE/lmxG5HsEYZcByLq9C1AeEZyrjzdxkzxPsaDlhPrKVgIcvw9N+2hLeQSchAMwfRLA5SjrXbw5xcKTUknt+RMtK5tZPWkeErvmddHe9oB/sv/hEm5bQFim2dQ49Qrn67Cz4+nQ25pZD5HEszFo1Oak0lTFypiophXuCVg==;7/K9RHRpAwGcdYiEgrrKMQ=="
 ---
 

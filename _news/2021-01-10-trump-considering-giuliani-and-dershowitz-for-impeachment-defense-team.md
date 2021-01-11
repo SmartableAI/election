@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment-lawyers-dershowitz-giuliani/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fact check: No, impeachment itself would not ban Trump from a 2024 run"
+    excerpt: "A viral tweet claims that impeaching President Donald Trump for a second time would mean he would lose the ability to run for president in 2024.\n    \n"
+    publishedDateTime: 2021-01-11T17:48:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CoRftlpChYw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/fact-check-tweet-trump-impeachment-run-2024-secret-service/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/fact-check-tweet-trump-impeachment-run-2024-secret-service/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210111103523-primera-trump-2-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "House Democrats would impeach Trump for 'incitement of insurrection'"
     excerpt: "House Democrats are barreling toward impeaching President Donald Trump for the second time over his role in inciting last week's riots at the US Capitol.\n    \n"
     publishedDateTime: 2021-01-11T14:51:52Z

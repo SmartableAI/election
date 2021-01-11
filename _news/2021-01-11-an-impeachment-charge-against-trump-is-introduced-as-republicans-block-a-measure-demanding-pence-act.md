@@ -2530,6 +2530,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "House Moves Forward With New Impeachment Charge Against Trump"
+    excerpt: "House Democrats introduced an article of impeachment against President Trump for inciting a mob that attacked the Capitol last week. Republicans blocked a move to formally call on Vice President Mike Pence to strip him of power under the 25th Amendment."
+    publishedDateTime: 2021-01-11T17:38:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007544808/house-impeachment-trump.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/11/us/politics/11transition-briefing-house-sub/11transition-briefing-house-sub-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "How Congress and coronavirus could quash Trump's Electoral College gambit"
     excerpt: "Leadership has a potent arsenal to combat efforts to turn the electoral vote counting session on Jan. 6 into a spectacle — if they deploy it."
     publishedDateTime: 2020-12-30T09:33:00Z
@@ -2545,6 +2559,6 @@ related:
         height: 773
         isCached: true
 
-secured: "vhfgcebx4/1K0q/O6eTFuKJosHwTaDHB86lN48yrIDtrObLkSbGsmVmI6RHgYt0gcWrd3DDluLx5EnVpHOCsr4xpdwKC98QiPtJVv5YqLft5kBb4umTC1AM8o73NHfs+kdlNyIimthglaWLKp0kqQfobCiIQXR/ohT/rL5QdMzjGbyjYvpvS9gyC/knnkodk07+dMkYWjmb+DdNsa6NaADlZikLz3qUQBDQR6rXCRIvc4D07rGp0++WxX0XQnDvTi0p6CurjKatbIIoi6qVnx8s9xRIIPIoRf0aIyqoiIexxMGf5SzWnMUDFshwaCA5myZn6xv793XSbwCCBzireCcMiw7cjwizGmj7+Bo8poBU=;9rkki6YZLAjwAhmWPBlUpA=="
+secured: "n2NTJyBziZaYJThTmaqwsVBmzZx1E9FtPkZvBzmmeDI3Y+LUoju7QM5U+olmGveiiKTyp4mSOKkH2i7vdf/XzFpJtVC80tDoto+MMEeKLMW+OfRkA9r8U/rYSGIHMhAq3xwKs3ifXrno77oHBB4SmxqhZ2yX1PFF+ATo+jxUH6nl8XX7C583CBDwO4RfJ96J1bgfzdVTx4OQEtDYYKlFL1TD6/mE5x86d71zexAqbUOVEOKK0MNvaZl6T6Nb/bUD2jcP6FvBRRiVNJPUj9WAjNLScwMluogVnqe6KwOrEwOb6rTq8g2U8nYP42aacbJkhKmgQvNC2Uek8GMHl85n0+uruuC5P4ALhjbBDYafls4IDe7FBcWAElW1f/WIlsbvCsFtJdtZNxDkxbdMfHpGgzb+2qC28lIH3uLWYPuc3ZUS+1ZUNUV3yepOKR4/OsHoiGUsR7ed5KtcfMQhLwVmNkdqp3+gIesfh4Ym/jZ2idrIeHfuJuSSui6bbSzEFlnJxvvMhk4AHKwWfsnYLBt4lQ==;9E7WS8X+PIM/rtQw5JQanA=="
 ---
 

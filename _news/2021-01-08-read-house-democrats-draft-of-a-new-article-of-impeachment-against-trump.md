@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/trump-article-of-impeach
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/trump-article-of-impeachment-draft/index.html"
 type: article
 quality: 173
-heat: 253
+heat: 273
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/08/us/politics/08transition-briefing-impeach-sub/08transition-briefing-impeach-sub-videoSixteenByNineJumbo1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "'He threatened the integrity of the democratic system': House introduces one article of impeachment against Trump"
+    excerpt: "House Democrats introduced an article of impeachment against President Donald Trump on Monday for \"incitement of insurrection\" when his supporters violently breached the Capitol last Wednesday. The measure,"
+    publishedDateTime: 2021-01-11T17:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/house-democrats-consider-impeachment-25th-amendment-measures-n1253693"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253693"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253693"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 114
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3441145/2001011-nancy-pelosi-mn-0731_2d44f135b81cd87e860d666f51b53766.jpg"
+        width: 2500
+        height: 1663
         isCached: true
 
 secured: "+/B/eBnU5LUP28KgNg4FGsswSU7zPJtokclH8LUf6JoA8VzEJmpuvzQnlt6+00LPq5sKe1WQUIt25tniAafxD6/vpFYwJBQB5viFmcprfP2Rvbf31oBH3+JxoPsBl2UdzuUEaXs8eqY9dSpAMOUBKYe8K/OFxBJYkuMNF1Q+M3g1gb2YVx2ZQWqNP4+qbMnIgOdRxwElwfRoc53eTXNupP6g7gTOfWZKiZcOtARNHH+Cj5IfiN1kBeR79Dz69sDGdlK6zgt94Xk74/5oYqq6gwfXeQlIOQ5tWHWvjJHI5/2aA2Tly6V7rV8unPXN7sMiw7MFhyuA2kIDTBEsqYxZL4/LuCuiQyvJIkMv90fevVU=;NwQXBU1/anf73sshHx7J5Q=="
