@@ -63,6 +63,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "READ: Article of impeachment against Trump"
+    excerpt: "House Democrats on Monday released a revised article of impeachment against President Trump Donald Trump Outgoing Capitol Police chief accuses House, Senate security officials of hindering efforts to call in National Guard: WaPo PGA announces plans to move 2022 championship from Trump property Former Democratic senator: Biden Justice Department may investigate Jan."
+    publishedDateTime: 2021-01-11T16:44:00Z
+    webUrl: "https://thehill.com/homenews/house/533627-read-article-of-impeachment-against-trump"
+    ampWebUrl: "https://thehill.com/homenews/house/533627-read-article-of-impeachment-against-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/533627-read-article-of-impeachment-against-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_120720getty_override.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Draft article of impeachment charges Trump with 'incitement of insurrection' in Capitol mob attack"
     excerpt: "House Democrats on Friday discussed moving forward with plans to impeach President Donald Trump for the Capitol mob attack as early as Monday."
     publishedDateTime: 2021-01-08T21:55:00Z

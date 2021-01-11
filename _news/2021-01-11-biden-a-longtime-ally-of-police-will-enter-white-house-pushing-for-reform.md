@@ -455,15 +455,15 @@ related:
     quality: 105
   - title: "Washington mayor asks for increased security around Biden's inauguration"
     excerpt: "Washington's mayor has asked for increased security around the inauguration of U.S. President-elect Joe Biden after last week's storming of the U.S. Capitol by supporters of President Donald Trump."
-    publishedDateTime: 2021-01-11T14:36:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN29G0Q5"
+    publishedDateTime: 2021-01-11T13:41:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-inauguration-idUKKBN29G0PV?edition-redirect=uk"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 104
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547343736&r=LYNXMPEH0A0F1&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547339065&r=LYNXMPEH0A0EW&w=800"
         width: 800
         height: 533
         isCached: true
@@ -539,6 +539,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Un3LEWJWksce2c/gWx8is+l4hOSRwaSK9g7razp9DvYE4yew6Ys6dVIWiaKl+8Hyw26L9frNA4r03XBKs3EKe8NrCo3EiiClOwjHS3p17fWLYryP9bEnR0iTrfWSbZgRvuwhnlwW97+g5qmdW1d6tIAoHJK9HijY2HJRb4kkKnu/f5AqZg5+IxtDefYl8yCaz3LdjiPYK542QNx4ZOR4vHnmCYd8YPBoA6pcAPXiMVam1sCl+9nuAhs+zz893MbvM05C3Jd8IbcDZxN70xigojLDwRUB3Ci0DwlmbSMSfLEgKtdr7QEaBuSFgsve3joIKU05FfRruh1sKspKe18MJ0CKxhSXcgGMnNXgy9tMKXk=;fxyFSBWh9vvKiSkJ6HcfSA=="
+secured: "voxTxWozlvsmg7Soyi0gdqf6buPF7v5HyjiKrWrKAjrqtuNvUuPEAJ6IgCdeXO/vGmlGhBHvMxm/qmVjBtgmehCn4Qo/bzRLkQQ9l4zmF6NAPZdS2hFIpgNq305ECWSLyu0IS5dtGyNbG+e2mhjkPUWy+HNiLjBTyh5OzC79HPzpn1Jz2284039r+HyxqnaMA+5jU4hNC3gSe8Yr8hlLJN/FwITVloF3YsU6i+leyVg3wJ8fodzLWHM0uAq1jcFoRIgVJRMnDAJgwJlzIN5D4VW0zE18g5YOjfUMKW9lalBuQjYtL1tFmSHcpufplgYikrq9xY85Z6CCAwDGLtN1EWeKQuApVG8JQVhiy41m5anpVkSp3O0M0j93u0EMImXVuuYCtWKKWsd5k4QcMU2D/pZ9YGbHZJKXsVveVjMZtgwebD1OdtB6jHeDp5CRFKpkIiD6FEPIrZsEIjwiJVzylTwry6tB2U/GSP64b4PY1Ejz0p6nc55KWq9xWW8e/8T2MX97qsjjWVQgJWSTJ+swGQ==;oOWpnfvYI/QIyT/m87IyWQ=="
 ---
 

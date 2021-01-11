@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mike-huckabee-democrats-full-accoun
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-democrats-full-accounting-election-results.amp"
 type: article
 quality: 178
-heat: 298
+heat: 318
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden inauguration theme will be 'America United' despite deep divisions in country"
+    excerpt: "The theme of President-elect Joe Biden’s inauguration is \"America United,\" despite deep divisions in the country, and will be focused on a \"new national journey\" that the Biden team says will \"restore the soul of America\" and bring the country together."
+    publishedDateTime: 2021-01-11T15:25:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C9VuHRbftQw/biden-inauguration-theme-america-united"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-theme-america-united.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-theme-america-united.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Former President Jimmy Carter, wife Rosalynn, will not attend Joe Biden’s inauguration"
     excerpt: "Former President Jimmy Carter and his wife, former first lady Rosalynn Carter, will not attend President-elect Joe Biden's inauguration later this month, marking the first time the couple has missed the ceremony since Carter was sworn in as president in 1977."
     publishedDateTime: 2021-01-05T23:55:01Z

@@ -47,38 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Pelosi takes takes initial step toward trying to remove Trump"
-    excerpt: "Speaker of the House Nancy Pelosi announced Friday night she will begin to steps to remove President Trump if he does not resign for his role in the breach on the U.S. Capitol earlier this week."
-    publishedDateTime: 2021-01-09T00:06:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LLI_Abg0D04/pelosi-takes-another-swipe-at-trying-to-remove-trump-from-office"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-takes-another-swipe-at-trying-to-remove-trump-from-office.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-takes-another-swipe-at-trying-to-remove-trump-from-office.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b32ebf9a-5188-4687-bf40-72a6eee05990/5314d1ba-f3cf-4df9-a735-3bbd2ec83ce7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Democratic House members call for Trump impeachment, removal amid Capitol protest"
-    excerpt: "Democratic House members are calling for President Trump's removal from office just two weeks before his term is set to end, as violent protesters stormed and entered the U.S. Capitol building."
-    publishedDateTime: 2021-01-06T22:45:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gqow1ACj0Ts/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32855443-767d-4b96-861e-e053b799308b/df486f77-b285-4a08-a896-558037ce44aa/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "President Trump urges protesters to be peaceful after they clash with police, breach Capitol"
     excerpt: "Amidst chaos and violence at Capitol Hill Wednesday in support of the president, Trump and his son Donald Trump Jr. urged peace among protesters who had forced their way into the capitol building. "
     publishedDateTime: 2021-01-06T20:49:15Z
@@ -94,22 +62,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1634d190-f04d-466f-9adb-4458330ac017/18a24fae-b741-48f8-b897-8bf64a80f1f6/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "AOC says ‘our main priority is to ensure the removal of Donald Trump’"
-    excerpt: "Cortez on Sunday called for articles of impeachment against President Trump to be introduced on the House floor following the Capitol riot, insisting he represents a"
-    publishedDateTime: 2021-01-10T16:36:00Z
-    webUrl: "https://nypost.com/2021/01/10/aoc-main-priority-is-to-ensure-the-removal-of-donald-trump/"
-    ampWebUrl: "https://nypost.com/2021/01/10/aoc-main-priority-is-to-ensure-the-removal-of-donald-trump/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/10/aoc-main-priority-is-to-ensure-the-removal-of-donald-trump/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/aoc-trump-removal.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "jL2Hk32JlSLokQqjQPoMWupZkJMjawgqf6P2d2Vobx9S6LXHOlMoMEGPOuXQ9s3c1Re+vYjVuQedOsaGhWovV8o2MXzQKf4WbjNiqEViR1NNAdAa2vJ2k9HhnPQwF6p11gN2p3rK9gCLbIxD9EwWAqDaDtQz2nYQ+oRiGE0Qr9OuBbr+1v88+3f8gbAtGAhhtEs579qYmTGIJL4PDGiCWZpEBKxCPxfQXLWPpegjwqTCxoIRd6idr1zhJXFJujIlqIbaW78YRT9tlnJ/N6hdVoEMRbrKVioWsGn3N2zzN4Dh+M5sB/br2Yf7i7V7u/D/XAvQNRAVTWAJKX9YHa3UtHVLW/29go763ENZaA8h8tk=;OBFek9uFgvrs9NvJDSQiwQ=="

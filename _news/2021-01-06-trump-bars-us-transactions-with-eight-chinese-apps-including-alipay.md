@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29A2PA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29A2PA"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546717743&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041G7"
         width: 815
         height: 545
+        isCached: true
+  - title: "House Democrats file an article of impeachment charging Trump with incitement of insurrection"
+    excerpt: "The president incited a deadly riot at the US Capitol last week that resulted in five deaths and Trump's de-platforming on mainstream social media."
+    publishedDateTime: 2021-01-11T16:32:00Z
+    webUrl: "https://www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5ff5f5f5d184b30018aad517?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "U.S. House Democrats to introduce Trump impeachment article on Monday"
     excerpt: "Democrats in the U.S. House of Representatives will introduce legislation on Monday urging the impeachment of President Donald Trump, Representative Ted Lieu said on Saturday."

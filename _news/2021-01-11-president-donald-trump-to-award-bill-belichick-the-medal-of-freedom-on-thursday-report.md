@@ -43,6 +43,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump to award Bill Belichick a Medal of Freedom as House considers impeachment"
+    excerpt: "Patriots Coach Bill Belichick is the latest sports figure to receive the award in the administration's final days."
+    publishedDateTime: 2021-01-11T16:57:00Z
+    webUrl: "https://www.washingtonpost.com/sports/2021/01/11/president-trump-bill-belichick-medal-of-freedom/"
+    ampWebUrl: "https://www.washingtonpost.com/sports/2021/01/11/president-trump-bill-belichick-medal-of-freedom/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/sports/2021/01/11/president-trump-bill-belichick-medal-of-freedom/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JDFI23FDYAI6PLPBO3IGDVLO7I.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Reports: Donald Trump plans to give Patriots' Bill Belichick Medal of Freedom this week"
     excerpt: "According to reports on Sunday, President Donald Trump plans to award Patriots coach Bill Belichick the Presidential Medal of Freedom on Thursday."
     publishedDateTime: 2021-01-11T01:16:00Z

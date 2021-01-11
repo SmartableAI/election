@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/capitol-rioting-de-blasio-trump-tre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capitol-rioting-de-blasio-trump-treason.amp"
 type: article
 quality: 175
-heat: 275
+heat: 215
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pelosi takes takes initial step toward trying to remove Trump"
-    excerpt: "Speaker of the House Nancy Pelosi announced Friday night she will begin to steps to remove President Trump if he does not resign for his role in the breach on the U.S. Capitol earlier this week."
-    publishedDateTime: 2021-01-09T00:06:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LLI_Abg0D04/pelosi-takes-another-swipe-at-trying-to-remove-trump-from-office"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-takes-another-swipe-at-trying-to-remove-trump-from-office.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-takes-another-swipe-at-trying-to-remove-trump-from-office.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b32ebf9a-5188-4687-bf40-72a6eee05990/5314d1ba-f3cf-4df9-a735-3bbd2ec83ce7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "James Mattis denounces Trump, says he will be 'left a man without a country'"
     excerpt: "Former Defense Secretary James Mattis rebuked President Trump on Wednesday, accusing him of fomenting violence at the U.S. Capitol and poisoning Americans' respect for fellow citizens."
     publishedDateTime: 2021-01-07T04:32:45Z
@@ -60,22 +44,6 @@ related:
     quality: 172
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d358d2cc-f940-473b-bfb7-5e489ad2caa5/4bf5cd6b-a53b-4fb6-9b9e-3b41fa25e8b0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Democratic House members call for Trump impeachment, removal amid Capitol protest"
-    excerpt: "Democratic House members are calling for President Trump's removal from office just two weeks before his term is set to end, as violent protesters stormed and entered the U.S. Capitol building."
-    publishedDateTime: 2021-01-06T22:45:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gqow1ACj0Ts/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32855443-767d-4b96-861e-e053b799308b/df486f77-b285-4a08-a896-558037ce44aa/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -94,22 +62,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1634d190-f04d-466f-9adb-4458330ac017/18a24fae-b741-48f8-b897-8bf64a80f1f6/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "AOC says ‘our main priority is to ensure the removal of Donald Trump’"
-    excerpt: "Cortez on Sunday called for articles of impeachment against President Trump to be introduced on the House floor following the Capitol riot, insisting he represents a"
-    publishedDateTime: 2021-01-10T16:36:00Z
-    webUrl: "https://nypost.com/2021/01/10/aoc-main-priority-is-to-ensure-the-removal-of-donald-trump/"
-    ampWebUrl: "https://nypost.com/2021/01/10/aoc-main-priority-is-to-ensure-the-removal-of-donald-trump/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/10/aoc-main-priority-is-to-ensure-the-removal-of-donald-trump/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/aoc-trump-removal.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "1CK23fn5zBAzm6sp2dBwh4cjtooq/dYEvbeHZZDVzvHwU49nnIT44KZShM+YVse8+Kkkz344hyLwvVrbct6hwzLrOgNiEeb5CxTdQeGr3lP8sq9TSWGODobP8rwWiRKaFhvnJZl4uqyVBlu4/NajlWT2Qb/+LzK+FQNdcB1PvXk+6UGpWGsgsU3gnOf8fRFGJYe0AJJQviGUzyuml83EgD7Un36uhh1UWWYo5343cF6cJwmdL4zh22b93bI6foz93fUuP7WRSL1TU/1XvQnpUvotYaPKfdtmWQhy1YMzKPfGykx6dteEWii0g+3iba26tL+8oY9+yY4utODABo6jlaB9cbtEQ5YJ3OJn9r21fss=;EAkkiIHbe4f3v5u7zC7msg=="

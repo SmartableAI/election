@@ -3,8 +3,8 @@ category: news
 title: "Marriott, BlueCross suspend donations to U.S. lawmakers who voted against Biden certification"
 excerpt: "Marriott International Inc, the world's largest hotel company, and the Blue Cross Blue Shield Association (BCBSA) said Sunday they will suspend donations to U.S. lawmakers who voted last week against certifying President-elect Joe Biden's victory."
 publishedDateTime: 2021-01-11T12:45:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-corporate/marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSKBN29F0L4"
-webUrl: "https://www.reuters.com/article/us-usa-election-corporate/marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSKBN29F0L4"
+originalUrl: "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ"
+webUrl: "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ"
 type: article
 quality: 94
 heat: 94
@@ -28,6 +28,6 @@ images:
     height: 534
     isCached: true
 
-secured: "ROklj6MjwUVsLaUqfhI5BpPL0aU4/B6A0ycCweIyiELv7Q0okdMlc8IKIqGzIRgEDaAFHp3DEPDdsLr4wGIaeqb/8pPll6cNH47mJw5w/As8ASzJUiE4sWPgs6eOzmCKf4hzMQR0vj+4nlWiqcGY7K/S89oXEoVtB1zdiasC07u4WxjMvBR4P3lab3PYEwAP+dk00a1lsrGSp8b+JScimc3GKJp3o6NwYqdZ27y8/LWsCBuAQRgKHW/f5hgvGHutnLVuyMJ3dZ2SlaEU68efYaqESql0Z+RlOEBUx8AzA2Rb9Rux747Kp5vdTMYQgVEdTC+g6gyxz4mCR4Iwj2Qo5LUUjTSifoF7y7+rTMfTy0I=;KEhCdTWAAOpnB/Z1W0LWSw=="
+secured: "4t1jgR4hlZVU7bFe/JsqtydlrV+GQUJOxGpK+bKGRLrIVF/I/mps+VjtbYfoQoM8Pf+bpGltsOexVIaF0pADAHsPbXyatbhmKe7MUUVNAHQry9AdR5GcyenOKnqYAGESIPeEyT68Hl4mfTBpWXgG+RwCmax2ZZ3cTRZibd/h4HZ3/5ZWUqCkgEvcXk3rZFWMDX59Jz4XnqQKjAuhp4W8kUfAcfgRQQzOgBKVfX2ThEq7w0c42fn454Lul1phIFCt6EMLrsZ+QdmIrGcgUWEUxtHdX7j4sJGFQwPU1JBh8jsQ8difl0g8/XxBwpNwxnWGNKkoullN18GOvIOhR9Roc+PBS4MyYni4uV/Jf5palaI=;bJqB6aksERJWua3iIyXhbA=="
 ---
 

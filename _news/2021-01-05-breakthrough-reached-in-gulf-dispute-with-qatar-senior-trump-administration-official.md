@@ -63,6 +63,38 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Republicans block measure calling for quick removal of Trump"
+    excerpt: "A House resolution calling on Vice President Mike Pence to invoke constitutional authority to remove President Donald Trump from office has been blocked by Republicans"
+    publishedDateTime: 2021-01-11T16:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pelosi-house-impeach-trump-pushes-vp-oust-75171067"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-house-impeach-trump-pushes-vp-oust-75171067"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-house-impeach-trump-pushes-vp-oust-75171067"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a3f21b028bd3418a922e3fb6b9b24287_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Donald Trump's Inauguration Boycott Welcomed by Republicans and Democrats"
+    excerpt: "The president announced he will not attend ahead of his ban from Twitter, as a backlash grows against him over the recent events at the Capitol."
+    publishedDateTime: 2021-01-11T15:29:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-inauguration-boycott-welcomed-democrats-republicans-1560502"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-inauguration-boycott-welcomed-democrats-republicans-1560502?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-inauguration-boycott-welcomed-democrats-republicans-1560502?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1702715/donald-trump-washington-dc-rally.jpg"
+        width: 2500
+        height: 1736
+        isCached: true
   - title: "What’s Pence’s Next Move? VP's Battle With Trump Is Unprecedented"
     excerpt: "Pence has made no public statement about his split with the president, and so far sources within the White House have said it is unlikely that the vice president would invoke the 25th Amendment to remove Trump from office,"
     publishedDateTime: 2021-01-08T16:58:00Z

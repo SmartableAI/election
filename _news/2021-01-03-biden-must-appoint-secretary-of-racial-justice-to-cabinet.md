@@ -42,6 +42,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "House GOP blocks quick consideration of bill calling on Pence to invoke 25th Amendment"
+    excerpt: "House Republicans blocked quick consideration of a bill calling on Vice President Mike Pence to invoke the 25th Amendment to remove President Trump from office amid fallout from last week’s Capitol riot."
+    publishedDateTime: 2021-01-11T16:41:00Z
+    webUrl: "https://www.foxnews.com/politics/house-gop-blocks-quick-consideration-of-bill-calling-on-pence-to-invoke-25th-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/house-gop-blocks-quick-consideration-of-bill-calling-on-pence-to-invoke-25th-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-gop-blocks-quick-consideration-of-bill-calling-on-pence-to-invoke-25th-amendment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "pdiWTn3ZVQbNprWA6T3qkkIWxGe0B81ElWD7KkzhjClHrNSQiY1zN8+txm0vhZ+laAJXY6vyTNhrhGKQPJRzoVTCmBGZaWDbfmSGsoyhMAXsQ/5NPzsSWNmiOmLiDJaSt1MX0ST0K/K6Vz63JuTRHhzZXrYrLH99raVeYnjTUFBYYkoC7At2JHWDRRpKIVTL3+Cb0O7N5fvG4abKv4IUKmgi4fz/w+GzOaTBDaQIPdGYA5VfjnaWwFBDAm2JjIrELZNQ+hGXUgsdQIfcIZtSnqBmADugyQTAHJzY5MDndbVr/7jGE1QXYDAyhQv32o3G8jvMdPAp/14eLmw6Bpfxj0qh1K5fajWOLX16zgFR4Ag=;GJnk2X1AeCBEfDDIz+NBmA=="
 ---

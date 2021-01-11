@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Vogue's cover photos of Kamala Harris spark racial controversy"
+    excerpt: "Vice President-elect Kamala Harris stepped into the fashion realm as the cover star of American Vogue’s February issue. Initially, the photoshoot seemed like a progressive step toward increased representation for women of color in high fashion media,"
+    publishedDateTime: 2021-01-11T15:56:00Z
+    webUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/533614-vogues-cover-photos-of-kamala-harris-spark"
+    ampWebUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/533614-vogues-cover-photos-of-kamala-harris-spark?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/diversity-inclusion/533614-vogues-cover-photos-of-kamala-harris-spark?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_kamala_011121getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "With Kamala Harris as vice president, expect Indian Americans to get more involved in politics"
     excerpt: "Indian Americans have seen their political stock rise in 2020 with the election of Kamala D. Harris — whose mother was born in Chennai, India — as the next vice president of the United States. Indian Americans across the country celebrated her victory,"
     publishedDateTime: 2021-01-04T11:05:00Z
@@ -482,6 +498,20 @@ related:
       - url: "https://media.11alive.com/assets/WXIA/images/149b8d9f-2752-4633-ad77-aef22c252178/149b8d9f-2752-4633-ad77-aef22c252178_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Kamala Harris's Vogue cover caught her team by surprise, causes stir online"
+    excerpt: "Vogue released two images online, but the photo of a sneaker-clad Harris is the one that will grace the cover of the fashion bible's print edition."
+    publishedDateTime: 2021-01-11T15:30:00Z
+    webUrl: "https://tulsaworld.com/news/national/kamala-harriss-vogue-cover-caught-her-team-by-surprise-causes-stir-online/article_fefc329b-4850-5ec2-a985-c432f2d95d14.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 53
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/f/ef/fefc329b-4850-5ec2-a985-c432f2d95d14/5ffc6166033e2.preview.jpg?crop=1919%2C1079%2C0%2C0&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Democrats sweep Georgia runoffs, taking Senate control with Kamala Harris’ tie-breaking vote"
     excerpt: "The result was a massive blow to Republicans, who have controlled both of Georgia’s Senate seats for 15 years."

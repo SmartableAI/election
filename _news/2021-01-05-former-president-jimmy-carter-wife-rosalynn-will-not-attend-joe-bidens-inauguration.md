@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden inauguration theme will be 'America United' despite deep divisions in country"
+    excerpt: "The theme of President-elect Joe Biden’s inauguration is \"America United,\" despite deep divisions in the country, and will be focused on a \"new national journey\" that the Biden team says will \"restore the soul of America\" and bring the country together."
+    publishedDateTime: 2021-01-11T15:25:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C9VuHRbftQw/biden-inauguration-theme-america-united"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-theme-america-united.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-theme-america-united.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden chief of staff mocks Loeffler's plan to object to election certification"
     excerpt: "President-elect Joe Biden’s incoming chief of staff Ron Klain mocked Republican Sen. Kelly Loeffler early Wednesday, while vote counts were still underway in the Georgia runoffs, for announcing her plan to object to the certification of Biden's win in ..."
     publishedDateTime: 2021-01-06T05:54:00Z

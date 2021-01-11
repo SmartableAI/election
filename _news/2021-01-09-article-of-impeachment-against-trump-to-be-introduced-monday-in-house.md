@@ -63,22 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Will Democrats impeach Trump before he leaves office? How it would work"
-    excerpt: "Pelosi says Democrats could consider a second set of articles of impeachment for the president next week."
-    publishedDateTime: 2021-01-08T19:44:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u11dFic2Ue8/will-democrats-impeach-trump-how-it-works"
-    ampWebUrl: "https://www.foxnews.com/politics/will-democrats-impeach-trump-how-it-works.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-democrats-impeach-trump-how-it-works.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Rep. Adam Schiff says Trump must go, backs second impeachment"
     excerpt: "House Intelligence Committee Chairman Adam Schiff joined a growing list of lawmakers on both sides of the aisle calling for President Trump's removal."
     publishedDateTime: 2021-01-09T17:16:36Z
@@ -142,54 +126,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Pelosi says lawmakers moving forward with impeachment, calls Trump 'imminent threat' to 'our Democracy'"
-    excerpt: "House Speaker Nancy Pelosi on Sunday said the House will be moving forward with a resolution to impeach Donald Trump, whom she referred to in a letter to her colleagues as an “imminent threat” to both the U.S. Constitution and Democracy."
-    publishedDateTime: 2021-01-11T00:19:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RyA_THk6cvQ/pelosi-says-lawmakers-moving-forward-with-impeachment-calls-trump-imminent-threat-to-our-democracy"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-says-lawmakers-moving-forward-with-impeachment-calls-trump-imminent-threat-to-our-democracy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-says-lawmakers-moving-forward-with-impeachment-calls-trump-imminent-threat-to-our-democracy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01f558dd-ed80-4f8f-ade4-1085f537ea56/6028a5a7-09d8-4664-8310-c4520818986e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "New Trump impeachment? Top Democrats show no interest in 'Squad' push"
-    excerpt: "A renewed interest in impeaching President Trump from members of the so-called \"Squad\" is not catching on among top House Democrats."
-    publishedDateTime: 2021-01-05T15:50:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005034498345-e1609858170240.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Pelosi supports invoking the 25th Amendment because it ‘gets rid’ of Trump"
-    excerpt: "House Speaker Nancy Pelosi said she would support Vice President Mike Pence invoking the 25th Amendment because it “gets rid” of President Trump. Pelosi, who said the House has"
-    publishedDateTime: 2021-01-10T18:54:00Z
-    webUrl: "https://nypost.com/2021/01/10/pelosi-supports-25th-amendment-because-it-gets-rid-of-trump/"
-    ampWebUrl: "https://nypost.com/2021/01/10/pelosi-supports-25th-amendment-because-it-gets-rid-of-trump/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/10/pelosi-supports-25th-amendment-because-it-gets-rid-of-trump/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 133
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/AFP_1NS4BC.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "h7aJsCEfUEsmHc1HSOS9JHBsUmL8kl3bgQJV5AQ9jacIO8hM3F0oeM4MEnjbs+5VBNZF4rylULx3JixgXELI0aGEtMBsUmn/UlHueXgu+cbcSeDsGXESwHlYCa+TDopMcy6PodqNZIYft4WVY8GUCi4jVN5ktfjXU9rp3BwJdetgBbtFqzd1y63aeZRT1hKiG/EWSStF/HPqkiDTk1lNv/xXA7usLYTCiUpr4VI1B4JEK087mktMR9lHKo3LWHIADYS9GGFg3HqlKl0+OjyhHX5biJSXKiS3yMzK8BZIDmFXj777PQMhfertUd68f9/etDSwAXjIRZlOelmmhxbdl3fFad6JPNkrST45RiwE4IA=;O3Byh9sPu09/Fl/2YsMoUw=="

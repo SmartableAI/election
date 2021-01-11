@@ -63,6 +63,22 @@ related:
         width: 840
         height: 1050
         isCached: true
+  - title: "Vogue's cover photos of Kamala Harris spark racial controversy"
+    excerpt: "Vice President-elect Kamala Harris stepped into the fashion realm as the cover star of American Vogue’s February issue. Initially, the photoshoot seemed like a progressive step toward increased representation for women of color in high fashion media,"
+    publishedDateTime: 2021-01-11T15:56:00Z
+    webUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/533614-vogues-cover-photos-of-kamala-harris-spark"
+    ampWebUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/533614-vogues-cover-photos-of-kamala-harris-spark?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/diversity-inclusion/533614-vogues-cover-photos-of-kamala-harris-spark?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_kamala_011121getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "Vogue's Kamala Harris cover photos spark controversy: 'Washed out mess'"
     excerpt: "First woman of color elected vice-president is February cover star but users complain about lighting"
     publishedDateTime: 2021-01-10T18:48:00Z
@@ -483,6 +499,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Kamala Harris's Vogue cover caught her team by surprise, causes stir online"
+    excerpt: "Vogue released two images online, but the photo of a sneaker-clad Harris is the one that will grace the cover of the fashion bible's print edition."
+    publishedDateTime: 2021-01-11T15:30:00Z
+    webUrl: "https://tulsaworld.com/news/national/kamala-harriss-vogue-cover-caught-her-team-by-surprise-causes-stir-online/article_fefc329b-4850-5ec2-a985-c432f2d95d14.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 53
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/f/ef/fefc329b-4850-5ec2-a985-c432f2d95d14/5ffc6166033e2.preview.jpg?crop=1919%2C1079%2C0%2C0&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Democrats sweep Georgia runoffs, taking Senate control with Kamala Harris’ tie-breaking vote"
     excerpt: "The result was a massive blow to Republicans, who have controlled both of Georgia’s Senate seats for 15 years."
     publishedDateTime: 2021-01-06T14:57:00Z
@@ -514,6 +544,6 @@ related:
         height: 300
         isCached: true
 
-secured: "9zBSCQ+M3WtFmQtjyojNUHQgdkcEdIO2+xUUI4xKOfKmehLvEASROjNbsernS5FDc77fFO7/dOTfYRRIgQmzdmIF2Eqk8W4WIQWgnnlZGIpPbpX1oAP+onkLEj/aKFVKJQTxHQGKR6Eg2K+2EvyG0bokXZVyEi5UaUzO0iekR7M9llhNgWYW6/EyLz1yDZvNk2blbZ6mgHMgW60GBb5YQuBlqEDp3CTAAOWmarLEbK/CAYAz7F5qypf+12S2O6Ji0OVgmbNUhXYdTMNT/qB/2fdbN+WI7AdbwOL0/oMqAcZoKR+XZNkugKuGZYSCoBBnhqJs+A0YNr1iHi0souwA+sFlxPkBKlZ37rlnawLnVkU=;Bkd6u2gcj1gOOXioKM0HBQ=="
+secured: "3dQZeZB6MZs/ZVw4LYSyOQ5MBbFPYMndwy4TBBiPzrIlsT6r1m1DnT4iaeGl1gb2oV8lUlXT6ksmEOAdnRZZ17I1N/EKyO2qbfvYnyq1Dc4y9vJjqqUeeahcgn5PTTQD1GGXJp4+GMOZc57paBG+QmHL9iZR1omx+WHPoSLyh52Cy8Ygu41SuBbJZ0+Djkb3/t50oMzd98dohSw2Ksv5BTu48QyQO+pLY6ETNAR/KgRXasEcuZZXSzRS0QSiP8Dd22LMCnI5AOEsw/ravwNo5glj9Md3UdK3fskRGtwjIHila8iQpvXNhlCMbHez1kf/B1/3dwK6LnnqNpU4wd77SYbZE/NdQ5AfZ9Ij871NbKBbrI3OWUvY407k6mGQxHwgN7HCnnoDyTjSrY6MlWrrV5hRLA/oSYxczIak25tzA+qXUn7NmF97dEynkcoEx3P97BXZTEDMJPWmIiwzfre/081gSH4O/il7+wYBn4pfCOYzLHg9idGtcdBO7KaC2VglCsZG39vGz4dmr8hn3Co39w==;z45RSHdsQThezv4tYlWoXQ=="
 ---
 

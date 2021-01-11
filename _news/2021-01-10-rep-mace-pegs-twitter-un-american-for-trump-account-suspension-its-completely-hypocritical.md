@@ -63,22 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Florida Sen. Scott says Democrats should focus on American families not Trump impeachment"
-    excerpt: "Sen. Rick Scott, R-Fla., told \"Fox & Friends\" on Monday that if Democrats want to do something good for the country, then they should focus on what they are going to do for American families as opposed to impeachment. "
-    publishedDateTime: 2021-01-11T14:05:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Dlcoa3eYbM4/trump-impeachment-democrats-rick-scott"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-democrats-rick-scott.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-democrats-rick-scott.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Watch Live: President Donald Trump Hosts \"Save America\" March At WH Ellipse"
     excerpt: "Right Side Broadcasting Network will be live from Washington D.C. where President Trump is hosting a \"Save America\" March to protest what he says are election irregularities that Congress refuses to investigate."
     publishedDateTime: 2021-01-06T14:56:00Z

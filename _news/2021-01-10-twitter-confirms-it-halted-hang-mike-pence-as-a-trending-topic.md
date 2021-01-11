@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/twitter-stops-hang-mike-pence-trending-1560
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/twitter-stops-hang-mike-pence-trending-1560253?amp=1"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/us-vice-president-mike-pence-pictured-during-the.jpg"
         width: 1024
         height: 681
+        isCached: true
+  - title: "‘Hang Mike Pence!’: Assault on U.S. Capitol a more sinister attack than first appeared"
+    excerpt: "Only days later is the extent of the danger from one of the darkest episodes in American democracy coming into focus."
+    publishedDateTime: 2021-01-11T13:15:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/11/capitol-assault-a-more-sinister-attack-than-first-appeared/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/11/capitol-assault-a-more-sinister-attack-than-first-appeared/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/11/capitol-assault-a-more-sinister-attack-than-first-appeared/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 67
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/Electoral_College_Photo_Gallery_67876-4.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "Xi8u+FkN2FfFQLw5YslK6CRUwUuNMtX6SevV/wnE3/enAawryk57mDhpHhOE5h/okI5b+69Zysu1FG7L3FLJMLvV8FUCa3F0TvUANWRW7s1Ta6PU5i+b0cQSQEnYYxV1SzNrYVJKqozyvqZSY9xI7BYEAC8YTyc3EQsi3PiNv6gsXmpl+22DxZmMGrJoI5WECbUl8cdb+MMP45aGxDrBCMZsHg3KD0g73Lc5pjDyLiQm5NLU05Kd/3eozgvxotprRf0wjZd1pJ6XxERVv5FuI631lIcToZtYnqn6RG0OnoxlKPlGOJ9iIQfzjizC2MwgRi2cXKW3/RXJg9NkIwOj2QxsGr4WPxF8I+0BJn0YqJx0wkOqP5gEjwxHV/ctMq0cmX+/EFQUtuiQXVK2r3oG+g3AjJtWgabsVfqqGK0tuP61N4ZCHPGZwzQAQnEacHIsJlUm5UmxFJYQxglWgLCDkBa7VA26H4DGdQky0wbwKX13BkQr4DGIWFCMLEuWGv4oh2kfBuRFrzxpl+s/JafIng==;PD5RpVK95Lttz0uav+q+uw=="

@@ -2,13 +2,13 @@
 category: news
 title: "Democrats to pressure Pence to remove Trump using 25th amendment – live updates"
 excerpt: "Pelosi faces Republican opposition to action over president’s incitement of assault on Capitol"
-publishedDateTime: 2021-01-11T08:06:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
+publishedDateTime: 2021-01-11T13:23:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates?page=with:block-5ffc6c9a8f087f696cb37894"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates?page=with:block-5ffc6c9a8f087f696cb37894"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
 type: article
-quality: 146
+quality: 136
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Mike Pence
 
 images:
-  - url: "https://i.guim.co.uk/img/media/9183155628b7faac70504052d7bd9bb868ab02b5/0_81_3277_1966/master/3277.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0f021a8194bde889bf3e600b6fc184f5"
+  - url: "https://i.guim.co.uk/img/media/bac80f334cea55e9d2e6a4674c9aa87d64209c1e/0_0_5242_3145/master/5242.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=755367581884cdf2ccf9f9b233424d32"
     width: 600
     height: 360
     isCached: true
@@ -3224,6 +3223,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Democrats call on Pence to invoke 25th Amendment to remove Trump"
+    excerpt: "Democrats plan to bring a resolution to the House floor calling on Vice President Mike Pence to invoke the 25th Amendment, which allows for the president to be removed from power with support from a majority of his Cabinet."
+    publishedDateTime: 2021-01-11T15:55:00Z
+    webUrl: "https://www.cbsnews.com/video/democrats-call-on-vp-pence-invoke-25th-amendment-to-remove-pres-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/11/442d26dd-0ce9-4f39-b3a9-93413b58ec83/thumbnail/1200x630/33b48a7c7ce47ddffd3a4d8668548132/cbsn-fusion-democrats-call-on-vp-pence-invoke-25th-amendment-to-remove-pres-trump-thumbnail-624336-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pence yet to speak to Trump in days following attack on Capitol"
     excerpt: "Sources tell CBS News that Vice President Mike Pence has not spoken to President Trump since the attack on the Capitol building. Pence has also not yet responded to Democrats' calls to invoke the 25th amendment to remove Mr."
     publishedDateTime: 2021-01-11T09:30:00Z
@@ -3818,6 +3831,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547311030&r=LYNXMPEH0A01M&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "UPDATE 1-White House discusses Trump address on Big Tech ban"
+    excerpt: "The White House is discussing the idea of having President Donald Trump make remarks on camera on Monday about Big Tech platforms that took steps in recent days to limit his social media reach, according to a source familiar with the matter."
+    publishedDateTime: 2021-01-11T16:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-social-media/update-1-white-house-discusses-trump-address-on-big-tech-ban-idUSL1N2JM1IN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump pressures Pence to violate the Constitution by falsely claiming the vice president 'has the power' to reject the Electoral College count"
     excerpt: "Meanwhile, a group of Republican lawmakers are planning to disrupt the Electoral College count on Wednesday."
@@ -4998,6 +5025,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "US Democrats Try To Force Out Trump In Final Days Of Presidency"
+    excerpt: "Top US Democrats were seeking Monday to fast-track Donald Trump's removal in the final days of his presidency, with a historic second impeachment looming this week if he refuses to resign over his supporters' violent assault on the Capitol."
+    publishedDateTime: 2021-01-11T16:10:00Z
+    webUrl: "https://www.ibtimes.com/us-democrats-try-force-out-trump-final-days-presidency-3119079"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/11/us-president-donald-trump-faces-a-possible-fast.jpg"
+        width: 1024
+        height: 711
+        isCached: true
   - title: "Trump Backers Rally at Minnesota Capitol Against Biden Win"
     excerpt: "Hundreds of supporters of President Donald Trump gathered at the Minnesota Capitol  in St. Paul to protest against the certification of Joe Biden as the winner of the presidential election."
     publishedDateTime: 2021-01-07T00:51:00Z
@@ -5008,6 +5049,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "7rlKTlbvtLlYoQXuxiEEDKDWKLpKKmH30JGMPmEEuS2ERRD8UI3zPqXaWh/dBJxI+RFLQXto43/2H0H5kdMffMpRcwwWvwIeTBZdWe6SMSACg/gpur37uKS+lMDzDSXMKFW3eFZ4B/CR9Xcv1MyM41i0saBoIopMqlRb4D199VQkYWqqzWLMIzNUL4/LP8+E4ZvhTiWLg49UXrgZC4TkHZcK7bye+n7Scew71iev0LnECpth7ef+0XuMHYHnBt450uC/VXw2F1t8lnyP25S5iTc8SMPbK4mUbEwRkTMrT6epUvypP9IR/h7+LgwPQAU61ndV2VsvtJwFalRxBYxqha/AeLDyC28TSn/U7xQs7je5IlNKmNEg0dEESbMjG/w0G1InryjkwtKiesuhXGUR+HjbTh4/zLJ7/RtdkYzAdvXbpYTCClb6Yqar2mVE1RZv6DQAanJ+JarnXMD4J+GF5iZ8kMxTXVyWzLGSWC+L19E4X8zyb3OgyekME5OiGt1LptCXmXTqJnrEi4Pmo9E5sQ==;dC/GwA9inOl73Q98+cjyng=="
+secured: "p9dtGW+t28LXGnKn3dZlPUWOWGhCjxG3xaVlzYAVCRSrF7z7t3dhLb9zUhZhOZ5iS2UUj6Sx9FsJOlffWchD018yE4xzAMMIfZFKNzeyOoIrNibNTklXkpqdoYQnxZp9/B3AU/8f0//bdUoJ8hKAuYCHpjR24BXzixpe+3MVnkW0eoT+iROyl8zQsYy0y6HwOCliPZXlLRd0nSuemGZoMJ+lLZZyXpmRhaTJlvx6VBT14M/bDLQt9Dn0yQnnKqGRZFnGil7gxsp84VtrnYHOxpJ+UCvcFfRJzqSwKJpEuuWGBNcCZsPz2B2BlNR9CJbU3udbzJIGSXZvHd9Y5FbgOgh5GdREZqWGUQXdRXQmmx8=;N7auZZR/rkojC4/DGpMlgw=="
 ---
 

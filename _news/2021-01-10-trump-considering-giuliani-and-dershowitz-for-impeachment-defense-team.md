@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment-lawyers-dershowitz-giuliani/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 162
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210110170842-donald-trump-210106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "READ: House Articles of Impeachment against Donald Trump"
+    excerpt: "The US House of Representatives has released its resolution to impeach President Donald Trump, charging him with \"incitement of insurrection,\" an article for which the House is expected to vote on this week."
+    publishedDateTime: 2021-01-11T09:14:00Z
+    webUrl: "https://www.cnn.com/2021/01/11/politics/house-articles-of-impeachment/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/house-articles-of-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/house-articles-of-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108101156-22-us-capitol-riots-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -2,9 +2,9 @@
 category: news
 title: "Washington mayor asks for increased security around Biden's inauguration"
 excerpt: "Washington's mayor has asked for increased security around the inauguration of U.S. President-elect Joe Biden after last week's storming of the U.S. Capitol by supporters of President Donald Trump."
-publishedDateTime: 2021-01-11T14:36:00Z
-originalUrl: "https://www.reuters.com/article/idUSKBN29G0Q5"
-webUrl: "https://www.reuters.com/article/idUSKBN29G0Q5"
+publishedDateTime: 2021-01-11T13:41:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-election-inauguration-idUKKBN29G0PV?edition-redirect=uk"
+webUrl: "https://www.reuters.com/article/uk-usa-election-inauguration-idUKKBN29G0PV?edition-redirect=uk"
 type: article
 quality: 104
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547343736&r=LYNXMPEH0A0F1&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547339065&r=LYNXMPEH0A0EW&w=800"
     width: 800
     height: 533
     isCached: true
@@ -539,6 +539,6 @@ related:
         height: 630
         isCached: true
 
-secured: "MkFDZMiovXZ3lg57n1mtc2NLq5AOoqriZ+7nGhvqASHOl2JHyfSYCkQhxHUrIXoqmeWUhiGG3GZ2PdmcINkEaoR80R9OpnJ4qHZnOgrYpUjVuRaIHvpgWSWJ6oQP8BetI/kuz9R+UrZlSBNtloK+4CVsRkvVZiOOKvanxAzBK7UZ1i4DgqC8nvAPzBGg+/NX89aN8cpY+E28bfSGPjXfUVaXzig0cmzoVPJNUBsm5ovTStHHKSXi1OG4p7XknRDGM/v1TnZJe3J6tG0DhZZsu2dI2H6bWOtYkguRcGpjD+I3xdGvCYfIBhS0dbtFi6mkmMteLMZE+WblBVtrqJ7ALXXUlkKr/w9l5j8kZnd8DXY=;ffmr+4+R9yWlXKgP9oQ8Fw=="
+secured: "wzcAZY2YV6Sz+Cr9Eh9tkiUhKihTQTaVJ+8yJTJ1B7E+5PtJtmfeJ5WjnAocrexZ3Ra1qYVTlz8TOuEYiPvdbSmMmoeAa5ItDB3/CMRNQAx6EFC+k2WPb+0B3jRbL2VOWo9gUpfSlbnsY+8tbfarS6VmkJLSRqvdZ5nU8woDHLXyEU/uN+0/KRVsbjdyv63qmK4qwf21X7WjO3v3aEICpeHqBSUFXnbrtRQuTrP+xtHPWXXFA8uIVV9TyVNR2064iJC/d2fVqJ7vlygsrH8x/qIpJE811oHNORlZhfMvKkX9r58NhnbUhSSbTe95FNeJwvyAGAcJbOCAA6ZWbRDyvu5YpDRgv8KpIZqIeGPDqkE=;E6qXL+ydzhTqIk22L/gtog=="
 ---
 

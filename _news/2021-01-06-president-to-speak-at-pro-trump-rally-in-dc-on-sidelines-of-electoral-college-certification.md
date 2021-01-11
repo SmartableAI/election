@@ -287,6 +287,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Supreme Court denies expedited hearings for election challenges by Trump, allies"
+    excerpt: "The Supreme Court rejected requests to speedily hear a number of challenges to the 2020 presidential election brought by President Trump and others."
+    publishedDateTime: 2021-01-11T15:52:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HNpEg1hZis8/supreme-court-trump-election-challenges-expedited-hearings-denied"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-trump-election-challenges-expedited-hearings-denied.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-election-challenges-expedited-hearings-denied.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91443177-58f8-41e0-aacc-cb3c2e5e60f4/0c640d09-4c34-4471-be1a-e944cc37bf27/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Federal judge denies Trump's emergency request to decertify Georgia election results"
     excerpt: "A federal judge on Tuesday denied President Trump's request for an emergency injunction to direct Georgia to decertify the 2020 presidential election results."
     publishedDateTime: 2021-01-05T17:44:29Z

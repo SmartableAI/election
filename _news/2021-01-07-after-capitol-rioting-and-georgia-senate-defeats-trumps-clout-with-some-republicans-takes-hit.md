@@ -31,309 +31,243 @@ images:
     isCached: true
 
 related:
-  - title: "Trump urged Georgia election official to 'find' votes in phone call, insisting he won: report"
-    excerpt: "President Trump insisted that he won the state of Georgia in the 2020 presidential race during a phone call with Georgia’s Secretary of State Brad Raffensperger over the weekend, reportedly urging him to “find” enough votes to reverse the state’s results."
-    publishedDateTime: 2021-01-03T21:56:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jznNwQcNG_A/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report.amp"
+  - title: "House Democrats' quick 25th Amendment push urging Pence to remove Trump blocked by Republicans"
+    excerpt: "House Republicans blocked quick consideration of a bill calling on Vice President Mike Pence to invoke the 25th Amendment to remove President Trump from office amid fallout from last week’s Capitol riot."
+    publishedDateTime: 2021-01-11T16:27:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sr5HG__LUb4/house-gop-blocks-quick-consideration-of-bill-calling-on-pence-to-invoke-25th-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/house-gop-blocks-quick-consideration-of-bill-calling-on-pence-to-invoke-25th-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-gop-blocks-quick-consideration-of-bill-calling-on-pence-to-invoke-25th-amendment.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 179
+    quality: 188
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Perdue on Georgia Senate runoffs: Trump right that 'something untoward' happened in election"
-    excerpt: "Sen. David Perdue, R-Ga., defended President Trump's leaked phone call where he urged Georgia's top election official to \"find\" votes that would flip the state to his column and dismissed the idea that accusations of fraud would dampen Republican turnout in Tuesday's two Senate runoffs."
-    publishedDateTime: 2021-01-04T15:44:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I2mo2dC2mNI/perdue-georgia-runoffs-trump-right-untoward-happened-in-election"
-    ampWebUrl: "https://www.foxnews.com/politics/perdue-georgia-runoffs-trump-right-untoward-happened-in-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/perdue-georgia-runoffs-trump-right-untoward-happened-in-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2fca4383-23f8-4101-9283-1acb20d4e9fa/8e64db30-2b7d-4779-8fc9-af6e15ef61f4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Georgia election official slams Trump claims of widespread voter fraud as 'easily, provably false'"
-    excerpt: "Georgia election official Gabriel Sterling on Monday slammed President Trump for continuing to claim widespread voter fraud in the 2020 presidential election in Georgia, saying that the claims are “easily” and “provably false.”"
-    publishedDateTime: 2021-01-04T21:26:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j47HoeeD6WA/georgia-election-official-slams-trump-claims-of-widespread-voter-fraud-as-easily-provably-false"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-election-official-slams-trump-claims-of-widespread-voter-fraud-as-easily-provably-false.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-election-official-slams-trump-claims-of-widespread-voter-fraud-as-easily-provably-false.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump to headline Georgia rally next week ahead of crucial runoffs"
-    excerpt: "President Trump will hold a rally in Georgia on the eve of the crucial Senate run-off in support of the state's two Republican senators, David Perdue and Kelly Loeffler, he announced on Sunday."
-    publishedDateTime: 2020-12-28T01:14:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WCohIezaxYg/trump-georgia-rally-crucial-runoffs-senate"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-georgia-rally-crucial-runoffs-senate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-rally-crucial-runoffs-senate.amp"
+  - title: "Some Democrats call for Trump impeachment after Capitol riots"
+    excerpt: "A growing number of congressional Democrats are calling for President Trump to be impeached after a group of his supporters stormed the United States Capitol building on Wednesday."
+    publishedDateTime: 2021-01-07T14:28:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k9QzWzrcp2U/some-democrats-call-for-trump-impeachment-after-capitol-riots"
+    ampWebUrl: "https://www.foxnews.com/politics/some-democrats-call-for-trump-impeachment-after-capitol-riots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/some-democrats-call-for-trump-impeachment-after-capitol-riots.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1182fbea-3c20-4774-af81-d7823e80ea31/e9d4c6e8-6da9-4965-9be8-c3c3ebeebfb9/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8490c243-1866-43b4-ab4e-31c16a8e0b62/babc6474-e94a-467b-a6b9-d0a8fffe458c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Ilhan Omar wants Trump impeached over Georgia phone call"
-    excerpt: "Minnesota Democratic Rep. Omar says Trump should be impeached for pressuring Georgia secretary of state to change presidential election result."
-    publishedDateTime: 2021-01-05T02:53:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oBl8F-3jY70/ilhan-omar-trump-impeach-georgia-phone-call"
-    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-trump-impeach-georgia-phone-call.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-trump-impeach-georgia-phone-call.amp"
+  - title: "Will Democrats impeach Trump before he leaves office? How it would work"
+    excerpt: "Pelosi says Democrats could consider a second set of articles of impeachment for the president next week."
+    publishedDateTime: 2021-01-08T19:44:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u11dFic2Ue8/will-democrats-impeach-trump-how-it-works"
+    ampWebUrl: "https://www.foxnews.com/politics/will-democrats-impeach-trump-how-it-works.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-democrats-impeach-trump-how-it-works.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6ac0651-927c-4978-8c0f-068568396c9f/bc48ade1-91e4-46e6-aebd-b4c10c8327af/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Pelosi takes takes initial step toward trying to remove Trump"
+    excerpt: "Speaker of the House Nancy Pelosi announced Friday night she will begin to steps to remove President Trump if he does not resign for his role in the breach on the U.S. Capitol earlier this week."
+    publishedDateTime: 2021-01-09T00:06:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LLI_Abg0D04/pelosi-takes-another-swipe-at-trying-to-remove-trump-from-office"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-takes-another-swipe-at-trying-to-remove-trump-from-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-takes-another-swipe-at-trying-to-remove-trump-from-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b32ebf9a-5188-4687-bf40-72a6eee05990/5314d1ba-f3cf-4df9-a735-3bbd2ec83ce7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "All the Trump officials who have resigned after the DC protest at the Capitol"
-    excerpt: "The number has continued to climb a little more each day, but it has yet to reach the level of an exodus."
-    publishedDateTime: 2021-01-09T20:43:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kUQXWI1DLJc/all-the-trump-officials-who-have-resigned-after-the-dc-protest-at-the-capitol"
-    ampWebUrl: "https://www.foxnews.com/politics/all-the-trump-officials-who-have-resigned-after-the-dc-protest-at-the-capitol.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/all-the-trump-officials-who-have-resigned-after-the-dc-protest-at-the-capitol.amp"
+  - title: "Republican Sen. Toomey joins calls for Trump to resign"
+    excerpt: "Sen. Pat Toomey, R-Pa., joined the chorus of lawmakers calling for President Trump to leave office, telling CNN's \"State of the Union\" on Sunday that the best course of action would be for the president to resign."
+    publishedDateTime: 2021-01-10T16:40:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rCPQ8jYZOw8/gop-sen-toomey-trump-resign"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-sen-toomey-trump-resign.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sen-toomey-trump-resign.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99e350c3-f5c7-495c-80e6-742d3e3e217a/1557b227-7a54-4ea4-849e-da952d2399b3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "House Dem apologizing for comparing new Trump impeachment to a 'lynching'"
+    excerpt: "An Oregon Democrat is apologizing for likening a second impeachment of President Trump to a \"lynching.\""
+    publishedDateTime: 2021-01-09T23:29:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XkgD4GGrJvM/house-dem-apologizing-for-comparing-new-trump-impeachment-to-a-lynching"
+    ampWebUrl: "https://www.foxnews.com/politics/house-dem-apologizing-for-comparing-new-trump-impeachment-to-a-lynching.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-dem-apologizing-for-comparing-new-trump-impeachment-to-a-lynching.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Kurt-Schrader-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Removing Trump by 25th Amendment could set 'very dangerous' standard: Turley"
+    excerpt: "Fox News contributor Jonathan Turley warned Thursday against Democrats' push to remove President Trump from office by invoking the 25th Amendment."
+    publishedDateTime: 2021-01-07T15:21:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-_XtaUZqfOY/trump-25th-amendment-remove-office-constitution-jonathan-turley"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-25th-amendment-remove-office-constitution-jonathan-turley.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-25th-amendment-remove-office-constitution-jonathan-turley.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Betsy-Devos-AP-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "AOC slams Trump's call with Georgia secretary of state as an 'impeachable offense'"
-    excerpt: "Rep. Alexandria Ocasio-Cortez accused President Trump of committing an impeachable offense after he urged Georgia's Republican secretary of state in a phone call to reverse the state's election results."
-    publishedDateTime: 2021-01-04T13:16:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ketiHyVilo/aoc-slams-trump-call-with-georgia-election-official-as-an-impeachable-offense"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-slams-trump-call-with-georgia-election-official-as-an-impeachable-offense.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-slams-trump-call-with-georgia-election-official-as-an-impeachable-offense.amp"
+  - title: "Democratic House members call for Trump impeachment, removal amid Capitol protest"
+    excerpt: "Democratic House members are calling for President Trump's removal from office just two weeks before his term is set to end, as violent protesters stormed and entered the U.S. Capitol building."
+    publishedDateTime: 2021-01-06T22:45:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gqow1ACj0Ts/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98c6fe23-932a-43bf-87f6-0b4ef45fca04/61ca732d-2f3f-4628-a615-73896a80615d/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32855443-767d-4b96-861e-e053b799308b/df486f77-b285-4a08-a896-558037ce44aa/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "McCarthy reacts to leaked phone call of Trump pressing Georgia's secretary of state"
-    excerpt: "House Minority Leader Kevin McCarthy told “Fox & Friends” on Monday that “we have to make sure that our elections are accountable, have integrity and are safe.”"
-    publishedDateTime: 2021-01-04T17:52:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/umnCxQRv_S0/mccarthy-leaked-call-trump-georgia-accountability"
-    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-leaked-call-trump-georgia-accountability.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-leaked-call-trump-georgia-accountability.amp"
+  - title: "Vermont's Republican governor calls for Trump to resign or be removed over Capitol chaos"
+    excerpt: "Vermont Gov. Phil Scott on Wednesday called on President Trump to resign or be removed from office hours after a large group of Trump supporters breached the U.S. Capitol in Washington."
+    publishedDateTime: 2021-01-07T06:19:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hiqP158K5Ww/vermonts-republican-governor-calls-for-trump-to-resign-or-be-removed-over-capitol-chaos"
+    ampWebUrl: "https://www.foxnews.com/politics/vermonts-republican-governor-calls-for-trump-to-resign-or-be-removed-over-capitol-chaos.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vermonts-republican-governor-calls-for-trump-to-resign-or-be-removed-over-capitol-chaos.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/phil-scott.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Florida Sen. Scott says Democrats should focus on American families not Trump impeachment"
+    excerpt: "Sen. Rick Scott, R-Fla., told \"Fox & Friends\" on Monday that if Democrats want to do something good for the country, then they should focus on what they are going to do for American families as opposed to impeachment. "
+    publishedDateTime: 2021-01-11T14:05:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Dlcoa3eYbM4/trump-impeachment-democrats-rick-scott"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-democrats-rick-scott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-democrats-rick-scott.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Domenech: Republican establishment 'eager' to blame Trump for disappointing Georgia runoffs"
-    excerpt: "The Federalist publisher Ben Domenech told \"America's Newsroom\" Wednesday that Republican establishment leaders would miss the point if they solely blamed President Trump for their disappointments in Tuesday's Georgia Senate runoffs."
-    publishedDateTime: 2021-01-06T16:21:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ysnU02TXID8/domenech-republican-establishment-georgia-senate-runoffs-eager-blame-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/domenech-republican-establishment-georgia-senate-runoffs-eager-blame-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/domenech-republican-establishment-georgia-senate-runoffs-eager-blame-trump.amp"
+  - title: "Pelosi says lawmakers moving forward with impeachment, calls Trump 'imminent threat' to 'our Democracy'"
+    excerpt: "House Speaker Nancy Pelosi on Sunday said the House will be moving forward with a resolution to impeach Donald Trump, whom she referred to in a letter to her colleagues as an “imminent threat” to both the U.S. Constitution and Democracy."
+    publishedDateTime: 2021-01-11T00:19:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RyA_THk6cvQ/pelosi-says-lawmakers-moving-forward-with-impeachment-calls-trump-imminent-threat-to-our-democracy"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-says-lawmakers-moving-forward-with-impeachment-calls-trump-imminent-threat-to-our-democracy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-says-lawmakers-moving-forward-with-impeachment-calls-trump-imminent-threat-to-our-democracy.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 159
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a958d419-2adf-4749-9176-4729d9a68295/25c2dfca-36ea-4c5a-afe4-293c31e9ba4d/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01f558dd-ed80-4f8f-ade4-1085f537ea56/6028a5a7-09d8-4664-8310-c4520818986e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump's standing in GOP takes a hit after Capitol riots, Georgia loss: 'This hurts,' strategist says"
-    excerpt: "Trump's clout with fellow Republicans takes a hit after the roughest week of his presidency."
-    publishedDateTime: 2021-01-09T13:06:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4o3AUsoCTS4/trumps-standing-gop-takes-hit"
-    ampWebUrl: "https://www.foxnews.com/politics/trumps-standing-gop-takes-hit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-standing-gop-takes-hit.amp"
+  - title: "Is Trump remaking the Republican Party or purging those who cross him?"
+    excerpt: "President Trump’s escalating attacks on the Electoral College results are tearing the Republican Party apart."
+    publishedDateTime: 2021-01-06T08:06:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/psaLUmpTqgo/is-trump-remaking-the-republican-party-or-purging-those-who-cross-him"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 155
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump lawyer slams Georgia Secretary of State Raffensperger for 'secretly' recording 'confidential' call"
-    excerpt: "President Trump tried to contact Georgia Secretary of State Brad Raffensperger 18 times before their heated phone call on Saturday in which the president urged him to “find” enough votes to reverse the state’s election results."
-    publishedDateTime: 2021-01-04T20:19:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u64AUfYI-G8/trump-georgia-secretary-state-raffensperger-secretly-recorded-confidential-call"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-georgia-secretary-state-raffensperger-secretly-recorded-confidential-call.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-secretary-state-raffensperger-secretly-recorded-confidential-call.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump says voting machines down in Georgia GOP ‘strongholds,' secretary of state's office says otherwise"
-    excerpt: "President Trump tweeted about voting machine complications in Georgia's \"Republican strongholds\" Tuesday afternoon, but was rebuked by an official from the secretary of state’s office."
-    publishedDateTime: 2021-01-05T23:38:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QPQCfvRNarY/trump-voting-machines-down-georgia-gop-sos"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-voting-machines-down-georgia-gop-sos.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-voting-machines-down-georgia-gop-sos.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd6d50f1-3621-492f-bc68-81e70496213d/3379f4c4-a1e1-49f1-a670-2194df04623e/1280x720/match/image.jpg"
-        width: 1280
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/6af765dc-8c93-4b04-a293-e3926146ea35/7be20330-7cf3-4052-8b8f-964806a5c392/1280x720/match/image.jpg"
+        width: 1080
         height: 720
         isCached: true
-  - title: "Trump says he'll campaign against Georgia Gov. Brian Kemp, warns Dem Senate victory would lead to socialism"
-    excerpt: "In final rally, Trump said Georgia's Democratic Senate runoff candidates want to \"turn America into Venezuela.\""
-    publishedDateTime: 2021-01-05T04:23:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9-Ava2yoPA8/trump-rips-georgia-gov-brian-kemp-dem-senate-candidates-socialism"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-rips-georgia-gov-brian-kemp-dem-senate-candidates-socialism.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rips-georgia-gov-brian-kemp-dem-senate-candidates-socialism.amp"
+  - title: "New Trump impeachment? Top Democrats show no interest in 'Squad' push"
+    excerpt: "A renewed interest in impeaching President Trump from members of the so-called \"Squad\" is not catching on among top House Democrats."
+    publishedDateTime: 2021-01-05T15:50:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7800ea58-ed83-49bd-bb53-646cbf3599ea/9d505cad-ce21-49db-9435-b8f5d876bd5a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Georgia Official Urges Trump to Condemn Threats Against Election Workers"
-    excerpt: "Gabriel Sterling, voting-system implementation manager at the Georgia Secretary of State’s Office, said a contractor in Gwinnett County, Ga., received death threats after being falsely accused of manipulating election data."
-    publishedDateTime: 2020-12-02T02:08:00Z
-    webUrl: "https://www.wsj.com/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
-    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 149
-    images:
-      - url: "https://images.wsj.net/im-266968/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Georgia GOP Official Urges Trump to Condemn Threats Against Election Officials"
-    excerpt: "Gabriel Sterling, voting-system implementation manager at the Georgia Secretary of State’s Office, said a contractor in Gwinnett County, Ga., received death threats after being falsely accused of manipulating election data."
-    publishedDateTime: 2020-12-02T02:11:00Z
-    webUrl: "https://www.wsj.com/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944?mod=hp_listb_pos2"
-    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-gop-official-urges-trump-to-condemn-threats-against-election-officials-11606873944"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 146
-    images:
-      - url: "https://images.wsj.net/im-266968/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump urged Georgia election official to 'find' votes in phone call, insisting he won: report"
-    excerpt: "President Trump insisted that he won the state of Georgia in the 2020 presidential race during a phone call with Georgia’s Secretary of State Brad Raffensperger over the weekend, reportedly urging him to “find” enough votes to reverse the state’s results."
-    publishedDateTime: 2021-01-03T22:02:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-insists-he-won-georgia-in-call-with-state-election-official-urges-him-to-find-votes-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 139
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88fc2ded-81c9-4336-a246-895a66456f03/1b885760-fc74-440e-b009-55e96837a2e5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Perdue on Georgia Senate runoffs: Trump right that 'something untoward' happened in election"
-    excerpt: "Ga., defended President Trump's leaked phone call where he urged Georgia's top election official to \"find\" votes that would flip the state to his column and dismissed the idea that accusations of fraud would dampen Republican turnout in Tuesday's two Senate runoffs."
-    publishedDateTime: 2021-01-04T16:00:00Z
-    webUrl: "https://www.foxnews.com/politics/perdue-georgia-runoffs-trump-right-untoward-happened-in-election"
-    ampWebUrl: "https://www.foxnews.com/politics/perdue-georgia-runoffs-trump-right-untoward-happened-in-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/perdue-georgia-runoffs-trump-right-untoward-happened-in-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 139
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2fca4383-23f8-4101-9283-1acb20d4e9fa/8e64db30-2b7d-4779-8fc9-af6e15ef61f4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump to Hold Rally in Georgia in Support of Senate Republicans"
-    excerpt: "The president will appear at rally in support of incumbent Republican Sens. David Perdue and Kelly Loeffler, one day before the runoff election that will determine control of the U.S. Senate."
-    publishedDateTime: 2020-12-28T04:57:00Z
-    webUrl: "https://www.wsj.com/articles/trump-to-hold-rally-in-georgia-in-support-of-senate-republicans-11609111921"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-to-hold-rally-in-georgia-in-support-of-senate-republicans-11609111921"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-to-hold-rally-in-georgia-in-support-of-senate-republicans-11609111921"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-278391/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Late-night hosts mock Trump's call with Georgia Secretary of State Brad Raffensperger"
-    excerpt: "Following the bombshell release of President Donald Trump’s call with Georgia Secretary of State Brad Raffensperger, late-night hosts had a field day with the material during their first shows of 2021 on Monday."
-    publishedDateTime: 2021-01-05T14:18:00Z
-    webUrl: "https://www.foxnews.com/entertainment/late-night-mock-trump-call-brad-raffensperger"
-    ampWebUrl: "https://www.foxnews.com/entertainment/late-night-mock-trump-call-brad-raffensperger.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/late-night-mock-trump-call-brad-raffensperger.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/LateNightHosts1.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005034498345-e1609858170240.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "AOC says ‘our main priority is to ensure the removal of Donald Trump’"
+    excerpt: "Cortez on Sunday called for articles of impeachment against President Trump to be introduced on the House floor following the Capitol riot, insisting he represents a"
+    publishedDateTime: 2021-01-10T16:36:00Z
+    webUrl: "https://nypost.com/2021/01/10/aoc-main-priority-is-to-ensure-the-removal-of-donald-trump/"
+    ampWebUrl: "https://nypost.com/2021/01/10/aoc-main-priority-is-to-ensure-the-removal-of-donald-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/10/aoc-main-priority-is-to-ensure-the-removal-of-donald-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/aoc-trump-removal.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Pelosi supports invoking the 25th Amendment because it ‘gets rid’ of Trump"
+    excerpt: "House Speaker Nancy Pelosi said she would support Vice President Mike Pence invoking the 25th Amendment because it “gets rid” of President Trump. Pelosi, who said the House has"
+    publishedDateTime: 2021-01-10T18:54:00Z
+    webUrl: "https://nypost.com/2021/01/10/pelosi-supports-25th-amendment-because-it-gets-rid-of-trump/"
+    ampWebUrl: "https://nypost.com/2021/01/10/pelosi-supports-25th-amendment-because-it-gets-rid-of-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/10/pelosi-supports-25th-amendment-because-it-gets-rid-of-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/AFP_1NS4BC.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "2//DNumP6oq5XhxxollxnK7kJNU1+yTSJ88IF+w18OfnfNbNFjAS9XnjoU8KATo1Up6wBwshTd5mKa6V+dGG6ZAhUTFXETbPXj70cLrCOD9FVdv0/i/zzQ2AesLVUJQO0uB/FOiZlobRqL2FydznsNaVWkPMU8Z2h3P1bykCG8k+XyH/FV9uswQ2ND/6F0HNhuqilHqNKSun1R46Oej9Ew7wFF4GnLDvESHKS+p6DGkxNQOCxl39bjb8ptUjCOJO20FTMXXMhG73StCPLP3kxY0qpQ+ibQDi7DrVoveTqS60xOVIVHw28UgGuGWYKQQqnGvliTIlh7p/vrCOYm8+aq9JEAAHOhWEHTobGptl4Ds=;1mu9oEOLMQ4SCtMeT0Uodw=="

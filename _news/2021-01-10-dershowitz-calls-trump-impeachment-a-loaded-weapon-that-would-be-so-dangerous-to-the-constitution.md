@@ -47,22 +47,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Removing Trump by 25th Amendment could set 'very dangerous' standard: Turley"
-    excerpt: "Fox News contributor Jonathan Turley warned Thursday against Democrats' push to remove President Trump from office by invoking the 25th Amendment."
-    publishedDateTime: 2021-01-07T15:21:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-_XtaUZqfOY/trump-25th-amendment-remove-office-constitution-jonathan-turley"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-25th-amendment-remove-office-constitution-jonathan-turley.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-25th-amendment-remove-office-constitution-jonathan-turley.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Republicans blame Trump after his supporters storm Capitol: 'Enough is enough'"
     excerpt: "Some Republicans placed the blame on President Trump after a group of his supporters besieged the U.S. Capitol building on Wednesday"
     publishedDateTime: 2021-01-07T18:02:54Z
@@ -76,6 +60,22 @@ related:
     quality: 171
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9ebc064-503d-4207-bc1d-8e5b2960e353/a78ecef5-c9c7-4b9c-8397-2875ff384dbf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Turley: Democrats 'impulse buy' impeachment of Trump would have 'very serious implications'"
+    excerpt: "George Washington University law professor Jonathan Turley said he doesn’t think Democrats should go forward with a \"snap impeachment,\" explaining that the process is supposed be \"deliberative,\" not impulsive. "
+    publishedDateTime: 2021-01-11T15:29:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mpfK-g1g8Gk/democrats-impeachment-trump-impulse-buy-turley"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-impeachment-trump-impulse-buy-turley.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-impeachment-trump-impulse-buy-turley.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab14816a-305f-4d2b-b463-f796e2d1af61/8f02ab6d-4344-4f20-971f-0eb6b554ea4a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-bor
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 285
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Wall Street distances itself from Trump, GOP after riots"
+    excerpt: "A growing number of Wall Street banks and businesses have cut off ties with President Donald Trump’s campaign and financial arms, as well as the broader Republican Party, following last week’s riots a"
+    publishedDateTime: 2021-01-11T16:33:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_eea37b12d40e40e589e76134df53aa03_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump's crackdown on the US-Mexico border has been a moneymaker for border agents working with traffickers"
     excerpt: "Under Trump, corruption among US Border Patrol agents has increased dramatically, experts, former officials, and cartel operatives tell Insider."
     publishedDateTime: 2020-12-29T14:43:00Z
@@ -46,6 +62,20 @@ related:
       - url: "https://i.insider.com/5fea5533a644880018193917?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Explainer-How will Trump get his message out without social media?"
+    excerpt: "The decision by tech companies to clamp down on President Donald Trump's ability to speak to followers through mainstream social media may force him to tap more traditional methods of communication or more isolated conservative online channels during his final days in"
+    publishedDateTime: 2021-01-11T16:05:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-communication/explainer-how-will-trump-get-his-message-out-without-social-media-idUSL1N2JL0FR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547351176&r=LYNXMPEH0A0LP&w=800"
+        width: 800
+        height: 540
         isCached: true
   - title: "U.S. labor federation urges Trump removal, calling him 'danger' to nation"
     excerpt: "The board of a labor federation of more than 50 unions representing 12.5 million workers called for U.S. President Donald Trump's resignation or removal from office."

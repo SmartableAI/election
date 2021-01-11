@@ -444,22 +444,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Democrats to pressure Pence to remove Trump using 25th amendment – live updates"
-    excerpt: "Pelosi faces Republican opposition to action over president’s incitement of assault on Capitol"
-    publishedDateTime: 2021-01-11T08:06:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 146
-    images:
-      - url: "https://i.guim.co.uk/img/media/9183155628b7faac70504052d7bd9bb868ab02b5/0_81_3277_1966/master/3277.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0f021a8194bde889bf3e600b6fc184f5"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Trump will not resign. Nor will he turn power over to Pence and ask for a pardon"
     excerpt: "The president continues to ask senior advisers about his ability to pardon himself before he leaves office. It's a power that is untested and by no means settled. A Justice Department Office of Legal Counsel memo from 1976 says that the president cannot pardon himself or herself,"
     publishedDateTime: 2021-01-09T12:17:00Z
@@ -1419,6 +1403,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1702346/ken-buck-donald-trump-rally.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Democrats to pressure Pence to remove Trump using 25th amendment – live updates"
+    excerpt: "Pelosi faces Republican opposition to action over president’s incitement of assault on Capitol"
+    publishedDateTime: 2021-01-11T13:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates?page=with:block-5ffc6c9a8f087f696cb37894"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 136
+    images:
+      - url: "https://i.guim.co.uk/img/media/bac80f334cea55e9d2e6a4674c9aa87d64209c1e/0_0_5242_3145/master/5242.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=755367581884cdf2ccf9f9b233424d32"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump-Biden transition live updates: Biden pitches 100 day mask-wearing campaign"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."
@@ -3236,6 +3236,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Democrats call on Pence to invoke 25th Amendment to remove Trump"
+    excerpt: "Democrats plan to bring a resolution to the House floor calling on Vice President Mike Pence to invoke the 25th Amendment, which allows for the president to be removed from power with support from a majority of his Cabinet."
+    publishedDateTime: 2021-01-11T15:55:00Z
+    webUrl: "https://www.cbsnews.com/video/democrats-call-on-vp-pence-invoke-25th-amendment-to-remove-pres-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/11/442d26dd-0ce9-4f39-b3a9-93413b58ec83/thumbnail/1200x630/33b48a7c7ce47ddffd3a4d8668548132/cbsn-fusion-democrats-call-on-vp-pence-invoke-25th-amendment-to-remove-pres-trump-thumbnail-624336-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pence yet to speak to Trump in days following attack on Capitol"
     excerpt: "Sources tell CBS News that Vice President Mike Pence has not spoken to President Trump since the attack on the Capitol building. Pence has also not yet responded to Democrats' calls to invoke the 25th amendment to remove Mr."
     publishedDateTime: 2021-01-11T09:30:00Z
@@ -3814,6 +3828,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547311030&r=LYNXMPEH0A01M&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "UPDATE 1-White House discusses Trump address on Big Tech ban"
+    excerpt: "The White House is discussing the idea of having President Donald Trump make remarks on camera on Monday about Big Tech platforms that took steps in recent days to limit his social media reach, according to a source familiar with the matter."
+    publishedDateTime: 2021-01-11T16:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-social-media/update-1-white-house-discusses-trump-address-on-big-tech-ban-idUSL1N2JM1IN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump pressures Pence to violate the Constitution by falsely claiming the vice president 'has the power' to reject the Electoral College count"
     excerpt: "Meanwhile, a group of Republican lawmakers are planning to disrupt the Electoral College count on Wednesday."
@@ -4993,6 +5021,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/10/us-president-donald-trump-faces-pressure-from-his.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "US Democrats Try To Force Out Trump In Final Days Of Presidency"
+    excerpt: "Top US Democrats were seeking Monday to fast-track Donald Trump's removal in the final days of his presidency, with a historic second impeachment looming this week if he refuses to resign over his supporters' violent assault on the Capitol."
+    publishedDateTime: 2021-01-11T16:10:00Z
+    webUrl: "https://www.ibtimes.com/us-democrats-try-force-out-trump-final-days-presidency-3119079"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/11/us-president-donald-trump-faces-a-possible-fast.jpg"
+        width: 1024
+        height: 711
         isCached: true
   - title: "Trump Backers Rally at Minnesota Capitol Against Biden Win"
     excerpt: "Hundreds of supporters of President Donald Trump gathered at the Minnesota Capitol  in St. Paul to protest against the certification of Joe Biden as the winner of the presidential election."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-quiet-25th-amendment-calls-pe
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-quiet-25th-amendment-calls-pence-cabinet-congress.amp"
 type: article
 quality: 189
-heat: 209
+heat: 229
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "House GOP blocks quick consideration of bill calling on Pence to invoke 25th Amendment"
+    excerpt: "House Republicans blocked quick consideration of a bill calling on Vice President Mike Pence to invoke the 25th Amendment to remove President Trump from office amid fallout from last week’s Capitol riot."
+    publishedDateTime: 2021-01-11T16:41:00Z
+    webUrl: "https://www.foxnews.com/politics/house-gop-blocks-quick-consideration-of-bill-calling-on-pence-to-invoke-25th-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/house-gop-blocks-quick-consideration-of-bill-calling-on-pence-to-invoke-25th-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-gop-blocks-quick-consideration-of-bill-calling-on-pence-to-invoke-25th-amendment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden Must Appoint Secretary of Racial Justice to Cabinet"
     excerpt: "With President-elect Joe Biden positioned to take office this upcoming January, he has a chance to rewrite history by rebuilding a new type of justice in America The Dems claimed the 2016 election result wasn't real on the basis of a complete falsehood they developed,"
     publishedDateTime: 2021-01-03T13:26:00Z

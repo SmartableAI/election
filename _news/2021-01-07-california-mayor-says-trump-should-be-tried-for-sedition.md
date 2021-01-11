@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Some Democrats call for Trump impeachment after Capitol riots"
-    excerpt: "A growing number of congressional Democrats are calling for President Trump to be impeached after a group of his supporters stormed the United States Capitol building on Wednesday."
-    publishedDateTime: 2021-01-07T14:28:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k9QzWzrcp2U/some-democrats-call-for-trump-impeachment-after-capitol-riots"
-    ampWebUrl: "https://www.foxnews.com/politics/some-democrats-call-for-trump-impeachment-after-capitol-riots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/some-democrats-call-for-trump-impeachment-after-capitol-riots.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8490c243-1866-43b4-ab4e-31c16a8e0b62/babc6474-e94a-467b-a6b9-d0a8fffe458c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Georgia election official who slammed Trump's voter fraud claims says he'll vote for GOP Senate candidates"
     excerpt: "Georgia election official Gabriel Sterling, who has pushed back against President Trump’s claims of voter fraud in public and on a recorded phone call that was later leaked, announced Tuesday that he is voting for Republicans Sen. Kelly Loeffler and former Sen. David Perdue."
     publishedDateTime: 2021-01-05T14:44:27Z

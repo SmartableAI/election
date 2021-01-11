@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/right-back-to-where-we-were-last-ye
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump.amp"
 type: article
 quality: 175
-heat: 215
+heat: 195
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "House Dem apologizing for comparing new Trump impeachment to a 'lynching'"
-    excerpt: "An Oregon Democrat is apologizing for likening a second impeachment of President Trump to a \"lynching.\""
-    publishedDateTime: 2021-01-09T23:29:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XkgD4GGrJvM/house-dem-apologizing-for-comparing-new-trump-impeachment-to-a-lynching"
-    ampWebUrl: "https://www.foxnews.com/politics/house-dem-apologizing-for-comparing-new-trump-impeachment-to-a-lynching.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-dem-apologizing-for-comparing-new-trump-impeachment-to-a-lynching.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Kurt-Schrader-GETTY.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Dems 'caught up in their own mob mentality,' trying to 'blame everything on Trump': Hurt"
     excerpt: "While Republicans look inward in the aftermath of the Capitol Hill riots after President Trump's address Wednesday, Democrats are adding to the division, Fox News contributor Charles Hurt argued Friday."
     publishedDateTime: 2021-01-08T15:21:18Z

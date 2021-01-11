@@ -255,6 +255,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to receive second dose of coronavirus vaccine Monday "
+    excerpt: "Joe Biden will receive the second dose of the Pfizer/BioNTech coronavirus vaccine on Monday, according to the President-elect's transition team.\n    \n"
+    publishedDateTime: 2021-01-11T15:50:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lstSUv0smTo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/biden-second-dose-coronavirus-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/biden-second-dose-coronavirus-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108153229-joe-biden-press-conference-cabinet-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden inaugural festivities to feature national day of service on MLK Day"
     excerpt: "President-elect Joe Biden's inaugural committee will promote the national day of service on Martin Luther King Jr. Day as part of festivities ahead of the inauguration on January 20.\n    \n"
     publishedDateTime: 2021-01-04T16:55:45Z
@@ -1044,6 +1060,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201106231659-03-joe-biden-1106-delaware-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden charts his course with a Democratic Congress"
+    excerpt: "President-elect Joe Biden is slated to release a trillion dollar economic relief plan this week, pointing to the dreadful December jobs report to call for more “immediate relief.” In a little over a week,"
+    publishedDateTime: 2021-01-11T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/weekly-shift/2021/01/11/biden-charts-his-course-with-a-democratic-congress-792694"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "‘They should be flat beaten’: Biden blasts Cruz, Hawley after Capitol attack"
     excerpt: "President-elect Joe Biden said on Friday that Sens. Ted Cruz and Josh Hawley should be \"flat beaten\" in their next elections for their roles in contesting the 2020 election results. Biden made the remarks following calls from members of Congress for Cruz and Hawley to resign after rioters heeding President Donald Trump's call to contest the election results raided the Capitol."

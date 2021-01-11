@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "‘Hang Mike Pence!’: Assault on U.S. Capitol a more sinister attack than first appeared"
+    excerpt: "Only days later is the extent of the danger from one of the darkest episodes in American democracy coming into focus."
+    publishedDateTime: 2021-01-11T13:15:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/11/capitol-assault-a-more-sinister-attack-than-first-appeared/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/11/capitol-assault-a-more-sinister-attack-than-first-appeared/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/11/capitol-assault-a-more-sinister-attack-than-first-appeared/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 67
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/Electoral_College_Photo_Gallery_67876-4.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "c7rzGaNCcQRHL2TEsLCYIIV7t1/4qFm2G4/tjMjG1VRh8V9rBgsUmawSp90fSy0l5aGWflhLxT1crV5vvSIgNOSnuxiCZHj7PkGE+kHhyMzfDa3fWQ2KKc54CdWsE+o8S5dxzJiI2m5aOZ3Mqdme3smpPvZrst3JB0+Z2z5s8Whf7vtxKor+JcpKoykkEDwlDFfzeobFDM9KbI9A0qX6BbGcLe0DaiPgs5fu5hMpc+/v+fQK56/JTe0UI9BL6B027El3efIsr0bgUr6xYRv3fYZez92waxlknziPa+hRfvRzkV+b3iKEebS5jROQOopTHXXd+yQWJ+PtptjxVv68kPhdn9pRff16sVdRKpZ2qq9ox5HRCSaVfjQt8RBhipKaOR0r2jUNwGElq0UBVGukXeD2YJxyv/0HdKlDBN6ECBfKXoTuyRTQp039+Nw+3inPjrCSw+iowXys40aPs5elcgiSraDDxSA4p+XTexqDeCKv/siKm213zADhpdU8JMHUsxnTw01JDfW/WXx3HcN/hw==;IzUmbpzFS3GpwqQRcFF36g=="
 ---

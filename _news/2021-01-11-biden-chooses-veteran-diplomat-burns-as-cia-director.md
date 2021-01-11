@@ -3,8 +3,8 @@ category: news
 title: "Biden Chooses Veteran Diplomat Burns as CIA Director"
 excerpt: "WASHINGTON (AP)  President-elect Joe Biden announced Monday he has chosen veteran diplomat William Burns to be his CIA director. A former ambassador"
 publishedDateTime: 2021-01-11T14:06:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.html#!"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.amp.html"
 type: article
@@ -77,6 +77,6 @@ related:
         height: 320
         isCached: true
 
-secured: "t1SDNxJDtgO36v6z+YmPysp0sQ/fudC1je/W8mjANNSDA6pCtcjRhGGJkdfsBHIGGS658z8HH9LjBxn+eE9d31tnhwqCWhiEzFcvM99k1OaBflSXHE5gRXLjXclXIezUcVV7bhAxJ9F9lCyixYGEQoTaNaL7ySs/Mu1Yw5fcmLC5fEAWUZhgtUK/viQzU/vtGA24loX1Vb0VRMJx/k/teprgj3g9b7SyT20JROu89EVEbnbEvQlX7BjPjrRZSsvKruE2AvXBkolAAHSthn1brPm+gCMocYWyTOmAjnVLl6UvsvLUNbTsQTgO121CveRnhVQac26fDYqZjNU+f5Pg0pWW8EPKt0+Y9ptsQymU2pI=;swlScXlNJcOU9xP1qWB9IA=="
+secured: "6lVsFX1br/JPs3x4iun0r9vNhnWWTBgnZ9XrzazFqwfW9cLLpunQyyAGAS6Ok3fLZH1JwQIjFzFyTNuAKmALZFuEs59m3XLQj1MymQnAJrCvoih35u6PYTGuvpYwnLDQTr4xHPPP2Lg42VimH1hOf6u9rNM97MPYXSR6wBbHL1sG+YvpG/xZAb+10LNl4cTIQn9dcTeWiznQ1OWhEGF9Nd1zcruRCndNv+3ue/J29/5oQzUf+rKLluBOeFajuTK4ZwSKRuyrr5mlmXybsZ47oqAVZn66HzPqUxkzaPXrqBDOlmn1/UlOVehfOlFZutHfQsKHMMsDf7opocKLzG+dQUVvfKMs2X1SCiYsNSRtxdk=;orFE3OMW0tbmqp4J6B12lw=="
 ---
 

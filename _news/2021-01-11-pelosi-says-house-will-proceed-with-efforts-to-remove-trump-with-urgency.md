@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/11/pelosi-says-house-wi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment"
 type: article
 quality: 123
-heat: 123
+heat: 143
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "House Democrats vow to move forward with Trump impeachment if Vice President Mike Pence won’t invoke 25th Amendment"
+    excerpt: "Nancy Pelosi’s leadership team will seek a vote on a resolution calling on Vice President Mike Pence and Cabinet officials to invoke the 25th Amendment."
+    publishedDateTime: 2021-01-11T15:39:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 68
+    images:
+      - url: "https://www.baltimoresun.com/resizer/a4ZU_ph4DDjjkI1r7Y8KG-e-6MY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I27GQJSG55AG7DPH5SFIEL4JZE.JPG"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "e6zUbvMWdoJ/ZcgCihq7C7zY1w+Bk56k1lR/wkBgmsuMvB1nptrAUZc73C3IHq+ncCNhuT43SfzbxIQyljYj8Zyqd/qPWA88AvxjPdFf+S8UfwDVTSyiwXqGTMr+HPI5UN1Gpb4KghP0YMBnmGuezncoTie35fqOTLfpf51pL5FlOsynRcdYQ+JLxnLyAcc1nCvIA1NlZljbzDmsG3ThxJ4oXf1V0m00kT+NbAlC5qxw74YINNJRLV0uFwQ6Shao+rcmiqBbpPWK5LrhvNv6J1HwuHpxMqSsXn918P7rwligtaILTc3DVGunnnQlkCWUXQIFXjCfzFcB5V7VssTbgx/0BexaeOxEvtgcKQfiYtHnULzm8xz9eTy3PfXtopX/udQDTNTyiqsGTHbptlTDRAtzKxffppAgnG+Lc39nWycNq011OImnxuWe9fYjkdLyBCIlrnKu8lqbfl1RtgyfB/jJsqko7l06lvt+hU8VU8QDkG/XqzEvIEM5rYYF0rBskxHSfqXxXbHnZw3j0nnGaA==;+GNB7r5XQN+jH20+ed2HgA=="
 ---

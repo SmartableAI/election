@@ -455,15 +455,15 @@ related:
     quality: 105
   - title: "Washington mayor asks for increased security around Biden's inauguration"
     excerpt: "Washington's mayor has asked for increased security around the inauguration of U.S. President-elect Joe Biden after last week's storming of the U.S. Capitol by supporters of President Donald Trump."
-    publishedDateTime: 2021-01-11T14:36:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN29G0Q5"
+    publishedDateTime: 2021-01-11T13:41:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-inauguration-idUKKBN29G0PV?edition-redirect=uk"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 104
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547343736&r=LYNXMPEH0A0F1&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547339065&r=LYNXMPEH0A0EW&w=800"
         width: 800
         height: 533
         isCached: true
@@ -539,6 +539,6 @@ related:
         height: 630
         isCached: true
 
-secured: "TJbtXNnAc7iXnTuH9sdmYzd3iilGBTQOViIC9vkn3H1ZsDt4XbifzTTnYCPoH/jnWJvb+4twJMclaFIWvGYQO84knPLEuUCWrbYJ7cpRLa3bhGani3Htcb87bVwurOa79e9m30h0WtS7oY3r32+8iR7UbL5eLcJSQ22O4D7WkMyWhyzeD8ky2cs6oa6m8ysuGvJKu5NUrQlBx+1tfR+udPbPmLas/NpG5jSX3vbOIeGB8C0GKpdrttlT5ZTTft39t4iyqxGTsSLG/ppbi5gFHozbYslBRB4Uj4BlHt/GISoRco7xxIMJOI6dAtQTw1KKV4pz5/HCSRt75qiUTfJqNrUKJn4P09OBXfH40mizBrc=;J80/WVsXETiVzA/7VrLg9Q=="
+secured: "gDTSACrsCvGfLT9JMpq++ZeN+pXDqqouALyW7oYUKssYGEpUiZ0iJ6TbvDauCLhQHizAHcN57Wz6qLxHmHgwbNM7kS097EVxwHKcqNGwt7dmGuIJJTIv0PM1fTXCCuJi8W/Pw9XoIx2/6zei6Sjd+mtxVtBU/7LQ0BN51cihVfU/JFqQTad1wHZ8O+3eb2fD9DnLaeeXjCZ8CTqWvEsHrfEK2kxFeictFkMg+J40YzKxzEp7skuiM0Jv0sy36+hhL5BwtiWoFhdNzcLmtSBE3YTfpJ8NNIEtXdz7dr1mWQl6LbvU7J5y2rhelpxQlsFFRjNO/+DDGrGDZDRJ2+6u66jh+2OMncspex5jQ0iV+Y/bR2eBmH7+2HTFypkxq5ZHnx8sUPYpOjsKHZakclakjFKJMV6emONmj7HamVdQaOtTVQId2DRchnHyggo6mzuxLAhVYDDeKprgpavYwa8Ojii/14az5Vvk92CdW3DN2K+ewGdkEuXm18hcGtAel+8S3ItUST+TbzXvGpPz98vJOA==;ZwEyyba2f6tZLHrXeYBGpA=="
 ---
 

@@ -2090,6 +2090,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "An impeachment charge against Trump is introduced as Republicans block a measure demanding Pence act."
+    excerpt: "House Democrats on Monday introduced an article of impeachment against President Trump for inciting a mob that attacked the Capitol last week, vowing to press the charge as Republicans blocked their move to formally call on Vice President Mike Pence to strip him of power under the 25th Amendment."
+    publishedDateTime: 2021-01-11T07:39:00Z
+    webUrl: "https://www.nytimes.com/2021/01/11/us/pence-impeachment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/11/us/pence-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/11/us/pence-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/10/us/10transition-briefing-pelosi/10transition-briefing-pelosi-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Live updates: House begins effort to remove Trump"
     excerpt: "Jim Clyburn, a member of House leadership, said Democrats could delay sending impeachment articles to the Senate until after Joe Biden's first 100 days."
     publishedDateTime: 2021-01-11T14:35:00Z

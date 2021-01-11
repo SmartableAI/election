@@ -7,8 +7,8 @@ originalUrl: "https://www.washingtonpost.com/context/letter-to-jack-dorsey-from-
 webUrl: "https://www.washingtonpost.com/context/letter-to-jack-dorsey-from-twitter-employees-asking-to-permanently-suspend-donald-trump-s-account/d9b84fa1-c7cb-4c5b-a90a-fdf167ff0c7a/"
 type: article
 quality: 92
-heat: -1
-published: false
+heat: 132
+published: true
 
 provider:
   name: Washington Post
@@ -29,35 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Twitter permanently suspends Trump's account to prevent 'further incitement of violence'"
-    excerpt: "Company determines two Friday tweets were ‘highly likely’ to encourage behavior like the storming of the Capitol"
-    publishedDateTime: 2021-01-09T08:38:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended"
+  - title: "Ivanka Trump Twitter Blunder? First Daughter Tags Meat Loaf In Selfie With Donald Trump"
+    excerpt: "Ivanka Trump shared a selfie with her dad, President Donald Trump, on their way to Georgia but tagged singer Meat Loaf in the tweet."
+    publishedDateTime: 2021-01-05T07:35:00Z
+    webUrl: "https://www.ibtimes.com/ivanka-trump-twitter-blunder-first-daughter-tags-meat-loaf-selfie-donald-trump-3114623"
+    ampWebUrl: "https://www.ibtimes.com/ivanka-trump-twitter-blunder-first-daughter-tags-meat-loaf-selfie-donald-trump-3114623?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivanka-trump-twitter-blunder-first-daughter-tags-meat-loaf-selfie-donald-trump-3114623?amp=1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 116
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
     images:
-      - url: "https://i.guim.co.uk/img/media/cb3085d44c438f92e1d27c124206000f7a1ef803/0_234_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84cd92c9ac7d53daa4a5f23201ca314d"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Twitter permanently suspends Trump's account, cites 'incitement of violence' risk"
-    excerpt: "Twitter Inc said on Friday that it has permanently suspended U.S. President Donald Trump's account due to the risk of further incitement of violence following the storming of the U.S. Capitol on Wednesday."
-    publishedDateTime: 2021-01-09T08:32:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-twitter/twitter-permanently-suspends-trumps-account-cites-incitement-of-violence-risk-idUKKBN29D359"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547172914&r=LYNXMPEH0800P&w=800"
-        width: 799
-        height: 576
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/12-times-donald-trump-acted-totally-inappropriately-ivanka-09.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Donald Trump Tweets From POTUS Account After Twitter's Suspension, Claims He Was Being 'Silenced'"
     excerpt: "President Donald Trump tweeted from the official @POTUS account Friday evening shortly after Twitter banned his personal account, @realDonaldTrump."
