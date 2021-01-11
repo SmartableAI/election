@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Impeachment: 56% Of Americans Want POTUS Removed From Office"
+    excerpt: "Americans want Trump ousted from office before Jan. 20 A majority of respondents blame Trump for the violent insurrection on Capitol Hill The riot led to to the death of five people A majority of Americans believe President Donald Trump should be impeached following the violent insurrection at the U."
+    publishedDateTime: 2021-01-11T01:58:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-56-americans-want-potus-removed-office-3118464"
+    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-56-americans-want-potus-removed-office-3118464?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-56-americans-want-potus-removed-office-3118464?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/09/demonstrators-in-new-york-call-for-impeachment-of.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Three GOP Senators Support Trump Impeachment Or Resignation: 'Go Away As Soon As Possible'"
     excerpt: "House Democrats will reportedly attempt to pass a resolution calling for Vice President Pence and the Cabinet to invoke the 25th Amendment."
     publishedDateTime: 2021-01-11T02:17:00Z
@@ -135,6 +151,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "ii8934HqZuNXxJwv//35RM7OhW3fLZ75/p7SA028wZvldeK5ntBTGEzA7HWbyB2QInDR9L0JZ7si7NTJ7WFRU9BbR9tyngsXvT2Yd5Wb8OZEDYpvGWmj/fKbf3+w4p1tWdpQamUKJZQkUdQ4z0jUVD9rINDxKH+tjsHgj7eHJcx3rvXwzsk+xSv3RTcvzWs3udXAgXC42reqLf+tonHunJtgBzpRTK7FOtNuKdhTA/S5NEYk/CSa8ZRlzAyIoPsMVFsJuNbjU43ajIOpm6RTd5wuwHTdLkkeyFWfm86xp/jqjI+3NI9pj16z0DNoqukLe5ftGe0n9JYQmHa7/eYmR9IFMlI4/7vlDrpUh0lDQAE=;HKMpH74JDQIJhkWcH+XXzA=="
+secured: "3tTMNbNuzvqNUjizDiMTtzgU1rxFk2Uo/Lq2jLLWWUnuyROUatrqAPMNQK8+m4X9ltorY9k4VrmDD0OG6ZVoSGCCQlr96Vb4+cqwPCN66qsUJ3vsJNWxmIC1ew1YUlHFrcZaRMvX9mgxvVEIO++5nGb/yBqHL/Xbu/JHwC7iMoAydW584pg71HPeiELIGonOjMNkfBwkqpSdhJ13k8gSTuul21l1X3g1nkjlbNBWUOUaOUdIW4ozT82okVnsahqmrpkH434euEgDbXGXQbEOogPm7Ub1lq+qLFwh3fno9sYDdj0NVU6I1r7AttM5YVSj2WBzmIVlEeL0/NBHtEoS1OStL4KTWGdDuf/H/jsMPth96+WhZNCAslqW5TpB0g9ajDKaxO6CxQR6VrI/Zx2Vw7hVgcr7b1M1ejpeFuOmwk7f3Br2fP9nw38Szup260mlUnI4DxC4L5yFblPYS0QDIs2puACNDhYT4PnWwrJjdYP+DRprSkqOP2c1NwKC1yfNe3wbWuXBCcTmWtuwVKLR1A==;+v8jm0WjgxGngUR+2trWTQ=="
 ---
 

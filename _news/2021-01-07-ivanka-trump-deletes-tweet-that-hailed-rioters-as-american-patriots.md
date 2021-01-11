@@ -31,53 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Reports: Donald Trump plans to give Patriots' Bill Belichick Medal of Freedom this week"
-    excerpt: "According to reports on Sunday, President Donald Trump plans to award Patriots coach Bill Belichick the Presidential Medal of Freedom on Thursday."
-    publishedDateTime: 2021-01-11T01:16:00Z
-    webUrl: "https://www.usatoday.com/story/sports/nfl/patriots/2021/01/10/donald-trump-patriots-bill-belichick-medal-freedom/6618452002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6618452002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6618452002"
+  - title: "Nancy Pelosi and Chuck Schumer call on Trump to demand protestors to leave the US Capitol 'immediately'"
+    excerpt: "The joint statement came as President Donald Trump reportedly refused to listen to aides who advised he put out a stronger statement against the rioters."
+    publishedDateTime: 2021-01-06T22:30:00Z
+    webUrl: "https://www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
     images:
-      - url: "https://www.gannett-cdn.com/presto/2019/05/09/USAT/a44b6bc0-83b7-419e-9c03-4cb0f5ed1feb-bxx_trump2_0926.JPG?auto=webp&crop=2350,1322,x0,y379&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5ff62860d184b30018aad62d?width=1200&format=jpeg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Donald Trump plans to award Presidential Medal of Freedom to New England Patriots coach Bill Belichick, per reports"
-    excerpt: "President Donald Trump plans to award New England Patriots coach Bill Belichick the Presidential Medal of Freedom on Thursday, according to multiple reports. A spokesperson for the Patriots did not respond to a request for comment."
-    publishedDateTime: 2021-01-11T02:59:00Z
-    webUrl: "https://abcnews.go.com/Sports/donald-trump-plans-award-presidential-medal-freedom-england/story?id=75169481"
-    ampWebUrl: "https://abcnews.go.com/amp/Sports/donald-trump-plans-award-presidential-medal-freedom-england/story?id=75169481"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/donald-trump-plans-award-presidential-medal-freedom-england/story?id=75169481"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 103
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "President Donald Trump to award Bill Belichick the Medal of Freedom on Thursday (report)"
-    excerpt: "With only days remaining in his term, President Donald Trump is reportedly awarding Bill Belichick the Medal of Freedom. Trump has continued to award the medal in the aftermath of the insurrection at the U."
-    publishedDateTime: 2021-01-11T00:45:00Z
-    webUrl: "https://www.masslive.com/patriots/2021/01/president-donald-trump-to-award-bill-belichick-the-medal-of-freedom-on-thursday-report.html"
-    ampWebUrl: "https://www.masslive.com/patriots/2021/01/president-donald-trump-to-award-bill-belichick-the-medal-of-freedom-on-thursday-report.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/patriots/2021/01/president-donald-trump-to-award-bill-belichick-the-medal-of-freedom-on-thursday-report.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 66
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/N7HI3ZS5PNAM3NNA62U2MO7DGE.jpg"
-        width: 540
-        height: 304
+        height: 600
         isCached: true
 
 secured: "7bPQHBgEsCPHvRwzgg6U5Y/dR6ghTtKXDnK4fvVRf4N33+WaoBI5yZAL+Fop6ULYx3ksDU/GuXEj7k42SnXVZLN8ozmhH+Jz646bzXkvjm2hrF6fqjLJWkWDn+APblG+hdDIOnb/IvcMSy5U/2M0zo0VmtrRzrp6nPlMFydeK3n6w5SKG3GGHZlSMK97httyghNGzT2GKd/400VPQnMGQ+ZLJLCGmKQLAeCgPNWSGBjsbMozmv6ub3uI1nE2QAYnNjjxsudLk0Cc2JH2KKSJr2RQTMApvamv6JnjtjkuOyVAEKxQX1GMFBNzdnNisRkh6Le0RwBT8z7Gbl26NMR1NuGXlo9PWGQCnXdO4hkYLBg=;LTmZG8SNqMATJ+t732TSqw=="

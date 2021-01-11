@@ -63,6 +63,20 @@ related:
         width: 1024
         height: 722
         isCached: true
+  - title: "Schwarzenegger equates Capitol riot with Nazis, wields sword, calls Trump 'failed leader'"
+    excerpt: "The former California governor reflected on growing up in Austria after World War Two, wielded the Conan sword and slammed President Donald Trump."
+    publishedDateTime: 2021-01-11T06:20:00Z
+    webUrl: "https://www.usatoday.com/videos/entertainment/celebrities/2021/01/10/arnold-schwarzenegger-equates-capitol-riot-rise-nazis/6616276002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 96
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/10/USAT/f807dffd-5803-4e43-ac9d-4d62051c063d-Screen_Shot_2021-01-10_at_1.49.54_PM.jpg?quality=10"
+        width: 2680
+        height: 1524
+        isCached: true
 
 secured: "0szBIPfPTzdZuyEu7vCpTFW2sowkJt2p7KdwJeEx4b5BGBqmidUraBhLnvXDF02pa2L6sTD0ZWCY3Ycj+AVYfaZ7xCW7jBO/AdlhwVhTFRa6FiHJ1VU1oJMvz/WsdMY+j0fEhb8lK63k6LYA27emCL6Fri4OZwAEwMIXhXHmTWMt1a9Xt7nuZtAOlTnHwRy9YBk6Rh8x+cla5DFErJbNhqmDF+Bg0HKqmbil1R7Yrzu6il12ky92SOaTd0dM+2JKV7TXgNDA/87eGylk6SdeN6dUfZLeUHLpeEHnt7l0WzRZ6Zypt5JoFA3lD/N37mUCiqFTmMdeKVJSimqwcAa1Pom2GbCEqAvl4bujQTItUkESMOpwdeOsNLFPCpxRr92DxL1lfeBmLShDGBfofBc1aSUL4yw55pgPsHZYg5jH2ZEFzmqhq6jT9O9Pw9evaYG1RINLP8OyQmzxbaOqEPs6zV9IJE/TeHC6LeYy6U7gVZ6BVE4onUp/xXAMxvrkUmZt9PACqosCRxYwa5chmFTY8A==;bhV2+EHUwQ8Rl1Zvp4Cqtw=="
 ---

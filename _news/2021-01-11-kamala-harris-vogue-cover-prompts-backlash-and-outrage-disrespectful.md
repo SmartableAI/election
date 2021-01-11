@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris' Vogue Cover Prompts Backlash and Outrage: ‘Disrespectful'"
 excerpt: "Vogue received similar criticism for the way it photographs Black stars when Simone Biles covered the magazine in July."
 publishedDateTime: 2021-01-10T19:28:00Z
-originalUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/"
-webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/"
+originalUrl: "https://www.nbcnewyork.com/news/local/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/"
+webUrl: "https://www.nbcnewyork.com/news/local/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/"
 ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
 type: article
@@ -464,6 +464,6 @@ related:
         height: 300
         isCached: true
 
-secured: "4HfTxol3QLk3gM6i6AWv1Ykgnr+feZ1QNy6qo1+4QKX4DluztnpAru5J6c/ljpL0Pe3+39kPfmtZDax/Fdfnt9TqWXO1Th+i89RjSx6wJ4VpM6T3pIfi7YLlRpPJedxxlkL5HF1xyb2mN5PfrEWYWpwva8h6lyjoxGoZG7lnj/2FvVopstHwtIMnDxPneb3h6mIrb2VmZsaodzLfnx9aSPDfWnUn0molawSiDC34T04YHZH+QpNsBG8TniAdrfB+8XeYWjMP86+I0ZJWAI7PeLIJesmZCGVxtPsGMjOqlqx9AcPOPf/q+Je6774MNidg5j10ZF4zHmeE9UhhE+jyRtVqA+Q9EnBJ9thZqgxHbRtazWzAmImJLyU6xLmMs4DA6HiyiPKO/4BFxFjjb0G8I7n+sXfJgGjXldTa18jdoe+Oj4zL4txHCSKH7vLrNJPFNfmAcLx/5kwV6TBAZC3KcMzFXd/RRlL4/A1DlEDgcP3y4jQW2k1nZxoLLrXby7wnbMnrxOYOQ71dGkoZxJ/3mg==;qz7fNLtw48KwozGN4oiaZQ=="
+secured: "K/EnDtWq6lFhmeBvmGgKexQxthMSE7M22WdIDXE17/VyngoV0SvVz420Cyu8zETcLfj4BI2PUea04EsOjrheBqTnqQUdUdDWQjrDc3vUxEBHBQE0RqXHZPMyY4iap7mukHBaZd9ItKAXiK+QM03IriAuoqesamKxTESARtNU8C2Y4xm0TOFSS+tuOAirbueGW5h7sJOX4nXMPnXmgtCLuglOjXL9ps1Gy4cSyDidUMtrhvo7c3pAxVL6c0zosNbbo8H0+OnH3jXhWUBC1wvdshxy8STRzEOxTxcUZ9A6cqgE40jLVHTHgjLbtiSk5zfmfjfSZy2s78JYMplb5+UgshDdxnfabqpxulJ+zYgciHE=;MLmI7rwmp4ayLioq1JKGfw=="
 ---
 

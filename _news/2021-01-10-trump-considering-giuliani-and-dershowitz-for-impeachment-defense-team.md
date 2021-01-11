@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment-lawyers-dershowitz-giuliani/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Trump faces shameful prospect of second impeachment with Democrats set to move quickly this week"
+    excerpt: "Donald Trump is facing the shameful, imminent prospect of becoming the first president to be impeached twice as Democrats warn he poses an unacceptable danger to the world after inciting a mob assault on Congress.\n    \n"
+    publishedDateTime: 2021-01-11T06:27:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q6kWNI-JOKU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/donald-trump-democrats-impeachment-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/donald-trump-democrats-impeachment-capitol-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210110170842-donald-trump-210106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "RYk1OqMjp7FWfg8l1A/25T2yDR45JKk7NXP3mN42w5I/RIqxa4Nv/AEN4Lnt/SLhYP2EguB+W0PklzV4SslqEjoiSqdHIPSsW0wXj4ARvVyqGxY+6SSREcLI+1ow3gsZdrcDwcWsy9OjAw1Jfs9Xell0ERbFDordSqEksqB5xxDQ+2yfbr8Gz0aBme/+vY7P5QwdYSx4XcXFWTs+OizOOHhVWiaVrRis5IqE3tE8V+DHfjtSzjfsejhhOTn4EfxwlqDDyt75+0L0mK/gQUsbpzlF0j5+iDKzQ2524noR86yzMOZHVt40TbMxIPpo8zfQMCQkz17Q4YCQFNi59AdaVjoeFv31lBLzrfnI9k3Wruc=;x6nGeTDbIXrIrVXGW7qaCg=="
 ---

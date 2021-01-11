@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Marriott, BlueCross suspend donations to U.S. lawmakers who voted against Biden certification"
-excerpt: "Marriott International Inc, the world's largest hotel company, and the Blue Cross Blue Shield Association (BCBSA) said Sunday they will suspend donations to U.S. lawmakers who voted against certifying President-elect Joe Biden's victory last week."
-publishedDateTime: 2021-01-11T03:44:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-corporate/marriott-bluecross-suspend-donations-to-u-s-lawmakers-who-voted-against-biden-certification-idUSKBN29F0L4?amp;amp"
-webUrl: "https://www.reuters.com/article/us-usa-election-corporate/marriott-bluecross-suspend-donations-to-u-s-lawmakers-who-voted-against-biden-certification-idUSKBN29F0L4?amp;amp"
+excerpt: "Marriott International Inc, the world's largest hotel company, and the Blue Cross Blue Shield Association (BCBSA) said Sunday they will suspend donations to U.S. lawmakers who voted last week against certifying President-elect Joe Biden's victory."
+publishedDateTime: 2021-01-11T05:08:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ"
+webUrl: "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ"
 type: article
 quality: 94
 heat: 94
@@ -28,6 +28,6 @@ images:
     height: 534
     isCached: true
 
-secured: "pjtfUMSU+mL/xWuaRvf3wClJiLYU4ebFtblHOpmQI+0r1BZEqDl85eHCWtSwdGvDy3inEPeYT6mKLtEM++MJyhDJUQZb/ysxIs7YwsxVEuoqDFZx4YtDMCKdPSLKhPT2jPQfN1o/Tluc77tytg+542F3AXLkF8eMLTuUaQLCJPJe4UBcn3WFAG3Ci48rbGULE6p4ug4EeqYmHgd2/qaiYZgpHGF/lIEklQRNwRxg1DGKBfn2JSmy2u2Pk7Mu9Qe1K+EMsqMwwx6BGSb+lPcWUJjvkAfAdp20Ewf7kqj9HAUbQXeqvZBWflgwsWnLmYnFihoyVU4mmh2m+dnIiDnphUn0R76r77tpjJuv/VodMKI=;V7SXubI0BTp2srhCwlUxjA=="
+secured: "/U4MqseUPbod7DaapsgG/1wvRow4KwuMn8KUaOd0hCq6oMJ+N5Dcp0HFmlcvwKY/K+U9dk7GwSHw/46c+riW22uAC9f9A3uk3yxjCcPxGhlJPO0ZgLf70rNPencvhTmI8CmIy5eRIAHCxOCoFEWckZLNv//8Xs7tWcVYYUwzXEs8lkRc3iSigRSTmhorEM9FbHu3YasYAoeWKJzN5UVYq4ii3Z9FkIySTmrcQlMtJxLx+Ko4z3S9NAEtyMqGS/31vgVoT6TdM6JxK1AzcW79MQ8JWPK368I1s0Ia/w4oHqy+LtZlnZowFhCifVufaidyNH/ux3mUusPULtzaYfnzG0DV107i1W3ZtS+Bw6bljeA=;usaO52LWhCOSDFTwnDt3gA=="
 ---
 

@@ -2713,22 +2713,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Records show fervent Trump fans fueled US Capitol takeover"
-    excerpt: "They came from across America, summoned by President Donald Trump to march on Washington in support of his false claim that the November election was stolen and to stop the congressional certification"
-    publishedDateTime: 2021-01-11T04:47:00Z
-    webUrl: "https://www.washingtonpost.com/politics/records-show-fervent-trump-fans-fueled-us-capitol-takeover/2021/01/10/3eda3078-539e-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/records-show-fervent-trump-fans-fueled-us-capitol-takeover/2021/01/10/3eda3078-539e-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/records-show-fervent-trump-fans-fueled-us-capitol-takeover/2021/01/10/3eda3078-539e-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Trump legacy on race shadowed by divisive rhetoric, actions"
     excerpt: "President Donald Trump repeatedly claimed in the final months of his presidency to have done more for Black Americans than anyone with the “possible exception” of Abraham Lincoln"
     publishedDateTime: 2021-01-10T18:05:00Z
@@ -2840,6 +2824,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/23/USAT/8d2d59a1-292e-493e-a149-97eb72904e36-AP_Trump_Legacy_By_The_Numbers.jpg?auto=webp&crop=4766,2681,x0,y242&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Mike Pence is still open to invoking 25th Amendment in the event Trump becomes more unstable, report says"
+    excerpt: "President Trump and Pence still have not spoken to each other since the US Capitol surge on Wednesday that left five people dead."
+    publishedDateTime: 2021-01-10T03:56:00Z
+    webUrl: "https://www.businessinsider.com/pence-has-not-ruled-out-invoking-25th-amendment-remove-trump-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/pence-has-not-ruled-out-invoking-25th-amendment-remove-trump-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-has-not-ruled-out-invoking-25th-amendment-remove-trump-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
+    images:
+      - url: "https://i.insider.com/5ffae4b6d184b30018aadf59?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Donald Trump Shares Tweet on Whether Presidential Inauguration Can Be Delayed"
     excerpt: "President Donald Trump shared a tweet on Sunday questioning whether the constitutionally mandated inauguration date of January 20 can be delayed. The Constitution explicitly states in the 20th Amendment,"
@@ -3650,6 +3650,20 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 105
+  - title: "U.S. House Democrats set plan for removing Trump over Capitol attack"
+    excerpt: "U.S. House of Representatives Democrats plan a vote on Monday to urge Vice President Mike Pence to take steps to remove President Donald Trump from office after his supporters' deadly storming of the Capitol,"
+    publishedDateTime: 2021-01-11T06:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/u-s-house-democrats-to-pursue-impeachment-if-trump-not-removed-idUSKBN29F03R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547311030&r=LYNXMPEH0A01M&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "U.S. House Democrats to pursue impeachment if Trump not removed"
     excerpt: "U.S. House of Representatives Democrats plan a vote on Monday to urge Vice President Mike Pence to take steps to remove President Donald Trump from office after his supporters' deadly storming of the Capitol,"
     publishedDateTime: 2021-01-11T02:40:00Z
@@ -3750,6 +3764,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547163333&r=LYNXMPEH071C7&w=800"
         width: 800
         height: 549
+        isCached: true
+  - title: "Factbox-What to expect when Congress moves to force Trump from office this week"
+    excerpt: "Democrats in the U.S. Congress will try to remove President Donald Trump from office this week, either by pressuring Vice President Mike Pence or in a historic second impeachment attempt, after Trump's supporters stormed the Capitol building."
+    publishedDateTime: 2021-01-11T06:50:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-first-steps-fac/factbox-what-to-expect-when-congress-moves-to-force-trump-from-office-this-week-idUSKBN29G02R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Congress set to confirm Joe Biden's electoral win over Donald Trump"
     excerpt: "President Donald Trump’s extraordinary effort to overturn the presidential election is going before Congress as lawmakers convene for a joint session to confirm the Electoral College vote won by Joe Biden."
@@ -4395,14 +4423,14 @@ related:
         isCached: true
   - title: "Parler reportedly removes post from pro-Trump lawyer Lin Wood after calling for Mike Pence's execution"
     excerpt: "Parler hit further headwinds over the weekend after it reportedly removed a threatening post by pro-Trump lawyer Lin Wood."
-    publishedDateTime: 2021-01-10T22:39:00Z
-    webUrl: "https://www.desmoinesregister.com/story/tech/2021/01/10/linwood-parler-social-network-removal-apple-google-amazon/6616756002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/6616756002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6616756002"
+    publishedDateTime: 2021-01-10T23:44:00Z
+    webUrl: "https://www.azcentral.com/story/tech/2021/01/10/linwood-parler-social-network-removal-apple-google-amazon/6616756002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6616756002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6616756002"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 74
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/01/09/USAT/46c76774-43a8-4fc2-ba04-5b2cbf758c5b-AFP_AFP_8V989G.jpg?auto=webp&crop=3999,2249,x1,y33&format=pjpg&width=1200"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-republican-senators-
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-republican-senators-electoral-college-20210102-ockzn4ln2babxfvuvnt5kvuuhe-story.html?outputType=amp"
 type: article
 quality: 140
-heat: 1280
+heat: 1320
 published: true
 
 provider:
@@ -287,6 +287,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Analysis: A GOP reckoning after turning blind eye to Trump"
+    excerpt: "Republicans are coming to grips with the fallout of President Donald Trump's false attacks on the election, which fueled the anger of supporters who stormed the U.S. Capitol last week"
+    publishedDateTime: 2021-01-11T06:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/analysis-gop-reckoning-turning-blind-eye-trump-75170731"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/analysis-gop-reckoning-turning-blind-eye-trump-75170731"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-gop-reckoning-turning-blind-eye-trump-75170731"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_50a6e4c8be3a42f388c2f4c036665b97_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Maryland Gov. Larry Hogan blames Trump, GOP lawmakers for Capitol riot"
     excerpt: "Maryland Gov. Larry Hogan, a longtime Republican critic of President Trump, on Sunday blamed him for inciting the riot at the U.S. Capitol and slammed GOP members of Congress for lending credence to Trump’s false allegations of election fraud."
     publishedDateTime: 2021-01-10T20:19:00Z
@@ -302,6 +318,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DX4GC5SQK4I6XIPV7WXSRT6KSA.jpg&w=1440"
         width: 1440
         height: 1080
+        isCached: true
+  - title: "Records show fervent Trump fans fueled US Capitol takeover"
+    excerpt: "The violent mob that stormed the U.S. capitol last week was overwhelmingly made up of longtime Trump supporters, including Republican Party officials, GOP political donors, far-right militants, white"
+    publishedDateTime: 2021-01-11T06:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/records-show-fervent-trump-fans-fueled-us-capitol-takeover/2021/01/10/8c59fad0-53a9-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/records-show-fervent-trump-fans-fueled-us-capitol-takeover/2021/01/10/8c59fad0-53a9-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/records-show-fervent-trump-fans-fueled-us-capitol-takeover/2021/01/10/8c59fad0-53a9-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "‘Resign and go away.’ Second GOP senator urges Trump to step down"
     excerpt: "Sen. Pat Toomey of Pennsylvania on Sunday joined Alaska Sen. Lisa Murkowski in calling for Trump to 'resign and go away as soon as possible.'"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/01/09/style/meena-harris-building-that-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/09/style/meena-harris-building-that-brand.amp.html"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
     quality: 115
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200729122210-kamala-harris-april-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Kamala Harris' casual Vogue cover causes stir online"
+    excerpt: "Kamala Harris' forthcoming appearance in American Vogue has sparked criticism for appearing casual and \"washed out,\" with the Vice President-elect's team blindsided by the magazine's choice of cover."
+    publishedDateTime: 2021-01-11T06:43:00Z
+    webUrl: "https://www.cnn.com/style/article/kamala-harris-vogue-cover/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210110225724-01-vogue-kamala-harris-cover-card-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Right back to where we were last year: Dems seek Trump impeachment"
+    excerpt: ""
+    publishedDateTime: 2021-01-11T05:44:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/piuxTC5hNWc/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "House Dem apologizing for comparing new Trump impeachment to a 'lynching'"
     excerpt: "An Oregon Democrat is apologizing for likening a second impeachment of President Trump to a \"lynching.\""
     publishedDateTime: 2021-01-09T23:29:59Z
@@ -44,22 +60,6 @@ related:
     quality: 174
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Kurt-Schrader-GETTY.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Roy Blunt balks at attempt to impeach Trump again: ‘Not going to happen’"
-    excerpt: "Roy Blunt, R-Mo., Friday balked at the idea of a second impeachment of President Trump."
-    publishedDateTime: 2021-01-10T10:38:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jLjBJ32UY4Q/roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen"
-    ampWebUrl: "https://www.foxnews.com/politics/roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Roy-Blunt.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

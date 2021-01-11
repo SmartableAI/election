@@ -46,6 +46,20 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Kamala Harris' casual Vogue cover causes stir online"
+    excerpt: "Kamala Harris' forthcoming appearance in American Vogue has sparked criticism for appearing casual and \"washed out,\" with the Vice President-elect's team blindsided by the magazine's choice of cover."
+    publishedDateTime: 2021-01-11T06:43:00Z
+    webUrl: "https://www.cnn.com/style/article/kamala-harris-vogue-cover/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210110225724-01-vogue-kamala-harris-cover-card-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "wOFyD7wh7UCnNjKeY0yWUWVeR4llynvfUlCeF1g+vtiMl6E6Lkkw1Tu39hwzxn1RWiRZhkel7b/FkKh846CYz6jpuhOFV01jcwprH31plLyoaxNblPagq0cAau66UlWFZi0BahBdpk8Y9hQPTpRMxveRT0kjUKzprfsyBI8fubkde+wnBWuAWWk1Wchn7OKncLlTNl9w3Z5bXhIS6NJ5G9E+/Mxig1ItkFIeUNTRs/nDmqahm1heK0EQKXARMk9brz/ULmm7+6kR66QZ+Va4EqBWpahrCuQuTmz7d6ogy+E2Mq+mu2gCoYjsSeXiRIvbt7F25UMR74cSFJa6yGhtukSbNpTGOJLsLl5F6rwAtLe8XVerfbXkckVyXn4LYPjmVQTFX8fP5KOm+Vl9nTT6uzevd01whLyJPR9iR7rXObogdjjLYtHG0KDHa2lFuGTSRzwzBi0ffNuMES+TD6JonP2yoJh2EcMB/5ImQfIk68Y0JS8zCOqN2p450S2FtmrnH0EiJhSJcXvLgovqTkj+5g==;fCU5mJh+OVHEeCUeY17q3Q=="
 ---

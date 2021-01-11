@@ -2,21 +2,21 @@
 category: news
 title: "Lawmakers who voted against Biden are denounced back home"
 excerpt: "Republican members of Congress who voted against certifying Joe Biden’s presidential victory, even after a mob broke into the Capitol, are being denounced by critics in their home districts"
-publishedDateTime: 2021-01-10T23:38:00Z
-originalUrl: "https://www.washingtonpost.com/national/lawmakers-who-voted-against-biden-get-blasted-back-home/2021/01/10/864393c2-5381-11eb-acc5-92d2819a1ccb_story.html"
-webUrl: "https://www.washingtonpost.com/national/lawmakers-who-voted-against-biden-get-blasted-back-home/2021/01/10/864393c2-5381-11eb-acc5-92d2819a1ccb_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national/lawmakers-who-voted-against-biden-get-blasted-back-home/2021/01/10/864393c2-5381-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/lawmakers-who-voted-against-biden-get-blasted-back-home/2021/01/10/864393c2-5381-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+publishedDateTime: 2021-01-10T22:54:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/lawmakers-voted-biden-blasted-back-home-75165301"
+webUrl: "https://abcnews.go.com/Politics/wireStory/lawmakers-voted-biden-blasted-back-home-75165301"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawmakers-voted-biden-blasted-back-home-75165301"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawmakers-voted-biden-blasted-back-home-75165301"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_06211df78898406b9e868e9defd047be_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -158,6 +158,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Lawmakers who voted against Biden victory are denounced back home"
+    excerpt: "GOP members of Congress who voted against certifying Joe Biden’s victory, even after a mob broke into the Capitol, are rebuked in their districts."
+    publishedDateTime: 2021-01-10T20:53:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-10/lawmakers-who-voted-against-biden-get-blasted-back-home"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-10/lawmakers-who-voted-against-biden-get-blasted-back-home?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-10/lawmakers-who-voted-against-biden-get-blasted-back-home?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/f95343e/2147483647/strip/true/crop/4241x2770+132+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fac%2Fbd%2F331b2c9a40158f3355c08af0f6aa%2Fsd-photos-1staff-682804-sd-me-patriotrally-waterfront-kca-002.JPG"
+        width: 320
+        height: 209
         isCached: true
   - title: "Lawmakers who voted against Biden victory get denounced back home"
     excerpt: "GOP members of Congress who voted against certifying Joe Biden’s victory, even after a mob broke into the Capitol, are rebuked in their districts."
@@ -463,6 +479,6 @@ related:
         height: 630
         isCached: true
 
-secured: "yg4hIIAIVISFv++yCRg+ES66qCIvVsvVtx4YLznOwsxmurLPbYcFHL2SDDYlMk8WPQyKGMFA6XGwVR8UNU4TImrtRToppZx0czEJ5+Ot/opFTndJApMy/B6mNAQq8FMlCPc3HB+9/Ea5su1aQo0CJKHPqZWlwNezi5hGQoarlsRBWgK0CqdahRRBKLKXVYyleNICvHJMD2NtVWzO5RFCwnX2RemQMhfRcvEN+R21UJQhpL1jg7XBGCmZWpiXs0lE4Xzx4SkuAf5zWQTXVz3ZPlPYRGpx9DSN5VsJP/jv5/HBYBuAXqsAo5GkvWF75w9NUyscA7PqCT8BEwFrs8L5qCrFav3Z9biofintXxn5OOU=;Ola4sZZjegf0Ig0Y/M6Q2A=="
+secured: "PbytjAmzOfD3nyacej28F55CIkFs+13+iyq90IsAdmOmFeYq9Zodp4T4Eo42Gl//DNpxNU5Fa8R37gKQHm945nRw5uXwJiQhNceaacF6OxEx7in1/baWRrl19802Gw3lHZDo79Sm5TXaz7zQEdDWsw2BylZv4EL+Z/WQkJ8dSYxbvyuuk/4umv8ZBOFcirmzpVQKPV4lxvk2A+N9q88r4LALulfuRYQUG3a9BJPI+rthSDkrYQ6fm8+67HmkCWr4ecmXjXKVzVQ7JzXgQNUC/7uIL6wm52lREQ4vHxbNR9MWBKRoV4krSrdfBD0cz3CKX591uGKMehkMV08U9rxOXJchkZ2dh4F+tzQ9gSgqfcM=;9pVr1evu5EabTO3PXGK2Ig=="
 ---
 

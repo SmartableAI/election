@@ -3,8 +3,8 @@ category: news
 title: "Donald Trump: The Inciter-in-Chief"
 excerpt: "RealClearPolitics"
 publishedDateTime: 2021-01-10T20:44:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/01/10/donald_trump_the_inciter-in-chief_533091.html"
-webUrl: "https://www.realclearpolitics.com/2021/01/10/donald_trump_the_inciter-in-chief_533091.html"
+originalUrl: "https://www.realclearpolitics.com/2021/01/10/donald_trump_the_inciter-in-chief_533091.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/01/10/donald_trump_the_inciter-in-chief_533091.html#!"
 type: article
 quality: 65
 heat: -1
@@ -1531,6 +1531,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "WlRYQGm+cLVMU8+G+IuKZT62LKcCt5l+khTwE9uHj0W7iIriD2zo9KXctAiDRpO8ijX0MySXwfTUAo+CeMBUjDPN3WWnqLG2Of+akXkSoIYegPc0nY9Jr2YUY1KwRcyd40BRhk26tDly07P9fV9rcNRB1L3qnAmARKwfGqwja3sAtfTC6WrNXqwPt3S0IxyjtxW+H0ofFyby73JEwZ/eefyShYwJuF3QhACgRzgi/uZTg6pEkGq1zXiBR9R4czbe14Mg5L6BT+zsAPx1maNMy27Zn9YKe4rWcwRcG8gxJJ7J6Uyc6mWgYrtsI8AHvRenV7xmh0hjukaKKitmtAVHnxFheOWMbPQlSHBpsZzXyQtznsuWkkT9p4jKPXuAGXRuaLCbTuoMHpme7EPh3xvO1VOEQLxkqGyLXWYoGgWrIjQ+uqV2Bm0AgTYzLVynb2g7ZiC2SGBLq72lB6KY0xoGMRI0uxzjp9O7xUG4mHjol7o8RWs3eE1DhSlda43F1GK41oRJNz2dO/LQxAt16Cs9OQ==;W826pQQJXlmsBj1Pr2EzUA=="
+secured: "BYZqP/Iq0haaWxoWa2X36s2G00ztSUtuP+WhQ+2wOdjC4acKjzE/KXbQ1y+IVMHUPLUfDWBTM/7AlDge+fCVpheWOoxwQ0s9akt2p2u47lJeslzkTMG1rcChLbhiW+kEDgRwhUmEhy0aLdO1oz2plDiZ/3VEhSHe14kJyKAa+ckZAAenj44km1d5S/9tDEmDE2ahUCJ+Lb/rmDLFR3vDQCrysVjs686dl23sWIDXx4EL6kYaJqAmyHD7BMmwHl/NiWQBoYAqNMZhXW1B1gK3+oXcy4JTqBV8Hx6rDqIuJ2SC/7Dg6GikT3TVu0ktP1RfPBl3hr3pWsxw0FyhrMuipV+WOlzCfip/qq+8qI5FwRM=;58PfUghep2vO2WF2xg2rrg=="
 ---
 

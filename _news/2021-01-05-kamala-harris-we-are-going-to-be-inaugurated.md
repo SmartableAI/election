@@ -254,7 +254,7 @@ related:
   - title: "Kamala Harris' Vogue Cover Prompts Backlash and Outrage: ‘Disrespectful'"
     excerpt: "Vogue received similar criticism for the way it photographs Black stars when Simone Biles covered the magazine in July."
     publishedDateTime: 2021-01-10T19:28:00Z
-    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/"
+    webUrl: "https://www.nbcnewyork.com/news/local/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/"
     ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
     type: article

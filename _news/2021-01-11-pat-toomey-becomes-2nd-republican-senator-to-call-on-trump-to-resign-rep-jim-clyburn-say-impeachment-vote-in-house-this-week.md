@@ -111,6 +111,22 @@ related:
         width: 3802
         height: 2719
         isCached: true
+  - title: "Trump Impeachment: 56% Of Americans Want POTUS Removed From Office"
+    excerpt: "Americans want Trump ousted from office before Jan. 20 A majority of respondents blame Trump for the violent insurrection on Capitol Hill The riot led to to the death of five people A majority of Americans believe President Donald Trump should be impeached following the violent insurrection at the U."
+    publishedDateTime: 2021-01-11T01:58:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-56-americans-want-potus-removed-office-3118464"
+    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-56-americans-want-potus-removed-office-3118464?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-56-americans-want-potus-removed-office-3118464?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/09/demonstrators-in-new-york-call-for-impeachment-of.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Three GOP Senators Support Trump Impeachment Or Resignation: 'Go Away As Soon As Possible'"
     excerpt: "House Democrats will reportedly attempt to pass a resolution calling for Vice President Pence and the Cabinet to invoke the 25th Amendment."
     publishedDateTime: 2021-01-11T02:17:00Z

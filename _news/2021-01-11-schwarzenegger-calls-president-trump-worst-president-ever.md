@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/schwarzenegger-ca
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/schwarzenegger-calls-president-trump-worst-president-75165493"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1698866/arnold-schwarzenegger.jpg"
         width: 1024
         height: 722
+        isCached: true
+  - title: "Schwarzenegger equates Capitol riot with Nazis, wields sword, calls Trump 'failed leader'"
+    excerpt: "The former California governor reflected on growing up in Austria after World War Two, wielded the Conan sword and slammed President Donald Trump."
+    publishedDateTime: 2021-01-11T06:20:00Z
+    webUrl: "https://www.usatoday.com/videos/entertainment/celebrities/2021/01/10/arnold-schwarzenegger-equates-capitol-riot-rise-nazis/6616276002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 96
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/10/USAT/f807dffd-5803-4e43-ac9d-4d62051c063d-Screen_Shot_2021-01-10_at_1.49.54_PM.jpg?quality=10"
+        width: 2680
+        height: 1524
         isCached: true
   - title: "Arnold Schwarzenegger Says Donald Trump Is 'A Failed Leader' And 'Worst President Ever'"
     excerpt: "Arnold Schwarzenegger denounced the riot at the Capitol and called President Donald Trump a \"failed leader\" and the \"worst president ever.\""
