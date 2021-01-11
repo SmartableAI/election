@@ -143,22 +143,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Lawmakers who voted against Biden get blasted back home"
-    excerpt: "Republican members of Congress who voted against certifying Joe Biden’s presidential victory, even after a mob broke into the Capitol, are getting blasted by critics in their home districts"
-    publishedDateTime: 2021-01-10T20:31:00Z
-    webUrl: "https://www.washingtonpost.com/national/lawmakers-who-voted-against-biden-get-blasted-back-home/2021/01/10/864393c2-5381-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/lawmakers-who-voted-against-biden-get-blasted-back-home/2021/01/10/864393c2-5381-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/lawmakers-who-voted-against-biden-get-blasted-back-home/2021/01/10/864393c2-5381-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Lawmakers who voted against Biden victory are denounced back home"
     excerpt: "GOP members of Congress who voted against certifying Joe Biden’s victory, even after a mob broke into the Capitol, are rebuked in their districts."
     publishedDateTime: 2021-01-10T20:53:00Z
@@ -407,6 +391,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Lawmakers who voted against Biden get blasted back home"
+    excerpt: "Republican members of Congress who voted against certifying Joe Biden’s presidential victory, even after a mob broke into the Capitol, are getting blasted by critics in their home districts who demand that they resign or be ousted."
+    publishedDateTime: 2021-01-11T08:27:00Z
+    webUrl: "https://www.businessinsider.com/lawmakers-who-voted-against-biden-get-blasted-back-home-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/lawmakers-who-voted-against-biden-get-blasted-back-home-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lawmakers-who-voted-against-biden-get-blasted-back-home-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "'It is time': New York law firm leaders urge Congress to certify Biden win"
     excerpt: "The leaders of over a dozen prominent New York law firms called on Congress Monday to certify President-elect Joe Biden's Electoral College win, signing an open letter alongside more than 150 other business executives."
     publishedDateTime: 2021-01-05T04:58:00Z
@@ -479,6 +474,6 @@ related:
         height: 630
         isCached: true
 
-secured: "PbytjAmzOfD3nyacej28F55CIkFs+13+iyq90IsAdmOmFeYq9Zodp4T4Eo42Gl//DNpxNU5Fa8R37gKQHm945nRw5uXwJiQhNceaacF6OxEx7in1/baWRrl19802Gw3lHZDo79Sm5TXaz7zQEdDWsw2BylZv4EL+Z/WQkJ8dSYxbvyuuk/4umv8ZBOFcirmzpVQKPV4lxvk2A+N9q88r4LALulfuRYQUG3a9BJPI+rthSDkrYQ6fm8+67HmkCWr4ecmXjXKVzVQ7JzXgQNUC/7uIL6wm52lREQ4vHxbNR9MWBKRoV4krSrdfBD0cz3CKX591uGKMehkMV08U9rxOXJchkZ2dh4F+tzQ9gSgqfcM=;9pVr1evu5EabTO3PXGK2Ig=="
+secured: "5aXf7O5w1ev8keD52PnuByxogYHKzo74CdIMWPPhpqJE+RFFuPVLyb7rFIJFzH7RgZdqN+PNyXnB0QFeOm4NYJu/QxR+K7j1YiRaSYS0zQxaaAhrwb3I5oEcCVm7ubmZ7JG08CD36qfPSi9R2Tw23xdJ/yIFgqB44d95o5SeDPWsFiH94nKtKDMzudymNzPzic4SLqN2WFamdD2mOsEySEBpfXBiiWsRdFnBXzrIj5PPMypwdmHSeV9j+tLY/HukmhzM5+2tWbP/3rQy4Sa/oph7E+WTy/8mClnEJuzsFjprbr7STPVU7sbSg8nKNXBafcfRffA33NRkRfDSspGWowHOUPX1VSYQ5sgENF0ngK4BeyI6ijZ/nHCr2KBkGPghQwQakwDIDnx6itL369G00yBl8hLs0r2l2B1RoF/gJANod0fZOupO8aWVh6WxDmseCnJ8K/VdoxClRlpIg26xdzzKgk5N7ClPaDeeK6Zr9TLr3QH97PmZ2THlND5QJaF3Sz8ZRH5S+Aer4mjkDb7TCA==;FLX1dufGkT2P779x184ptA=="
 ---
 

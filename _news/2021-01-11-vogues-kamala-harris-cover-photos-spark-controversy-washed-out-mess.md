@@ -2,9 +2,9 @@
 category: news
 title: "Vogue's Kamala Harris cover photos spark controversy: 'Washed out mess'"
 excerpt: "First woman of color elected vice-president is February cover star but users complain about lighting"
-publishedDateTime: 2021-01-10T18:52:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
-webUrl: "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
+publishedDateTime: 2021-01-10T18:48:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour?fbclid=IwAR1RL0jG2Q0qqew-VVMTse9cqgBcU5OwXIJlSDagcQS3dl4nkqM9ZnzRVpI"
+webUrl: "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour?fbclid=IwAR1RL0jG2Q0qqew-VVMTse9cqgBcU5OwXIJlSDagcQS3dl4nkqM9ZnzRVpI"
 ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
 type: article
@@ -468,6 +468,6 @@ related:
         height: 300
         isCached: true
 
-secured: "kdadcD8ktkTeBlLK9/5cBVB2EUQ3BuoY2RV7kr3/xHOKCj/x9Zfc/DSyrGYdGi7YOkN4O8pGGmq+FyMwJR4PMd4+QuNlB4E9r8H4kTtZkIsgqEU5y+yqSpNIN2GEIinX1H8GCQTZeHtkeYt3SxNsCN3pY8DcgpLGuvmPU8003qj4E2G9R8pT22R7r6l6jnRjAz4eU67RG82avMfLeya3+lPyXhCChw3LRqiPF+m7cBnR3jnKuJE4EDYsDJ/mvbLhddjSvdTxwieFDR7BIzb89K3wM3IJV6whJpmYHXGYuQqiaKT/11Kas1ntqCgLkSOlh4+5ZYRYlRY8U4mbE9gaAuocs+UhlcZ1z8XK2jVZad27y7cJZKpLt3FwiqTEwOAClncQBcNee2y6voUScjl1xb51rc6fA7VACq2XMbad6WaXg/rHEcuOolXJVuYJCkDn1WC5wyyib6n3zi0mNsI+oCxhYcixstrBzP0GhJlO+luL5Ufe3mEQgYl9dgSDydzcaHKcJrz0FAsJTlGeFSgX/g==;zXjurUYz+xkvKmqHilpMSg=="
+secured: "Y8sEkVDPXbTcOlZEcGCI+//5om3yaJBCrIBEMdYWqDyQNQKm6RxHKDC+byIlGV6fF44jguso1auBda6fC9X9OsoAWph7HBru5dQk8hu4sEmpqOiUHxkD2Vec4ci9CgM+MkKbRSWhY8v7oe4tnl8Y/KG9TwRWQ+ofN14MZYnz/rqf6supzxGfgxY2njkMAypaJhi1Z3CMsOrtK9fMxRerPEWtGZNgeoOc752Bn9SV6M7PPbtE7vhCy8ngF2/XYv7Y63XdP4N8z4c1ByJg8IOBNTWmTnpj1iodRRerGLjkSS+dXcRr54wr0F8B+4g/u2qqXrrqKCChtcNVc0UyIIWdryYu2vkpAeZ6ee6263io7yA=;ImKNaLbHDDxVRicoN6TYoA=="
 ---
 

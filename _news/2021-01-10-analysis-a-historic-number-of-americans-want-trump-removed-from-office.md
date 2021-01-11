@@ -2169,6 +2169,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Many Republicans agree Trump went too far but remain divided over consequences"
+    excerpt: "\"What I've heard from fellow Republicans is that they've had enough and that the president's conduct quite frankly since then has gotten them upset,\" Chris Christie said."
+    publishedDateTime: 2021-01-11T07:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/many-republicans-agree-trump-went-too-far-remain-divided-consequences-n1253661"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253661"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253661"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_01/3441081/210110-donald-trump-jm-1334_6a4fbbdebc0d44387f7a69e77973e8cb.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Raffensperger: Trump could face investigation over election call"
     excerpt: "Georgia Secretary of State Brad Raffensperger said Monday that it was unlikely his office would open an investigation into his weekend phone call with President Donald Trump, but suggested a criminal probe could still be launched by an Atlanta-area district attorney."
     publishedDateTime: 2021-01-04T13:22:00Z

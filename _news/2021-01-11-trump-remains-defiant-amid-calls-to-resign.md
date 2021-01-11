@@ -2,11 +2,11 @@
 category: news
 title: "Trump remains defiant amid calls to resign"
 excerpt: "President Donald Trump enters the last days of his presidency facing a second impeachment and growing calls for his resignation after his supporters launched an assault on the nation’s Capitol in an e"
-publishedDateTime: 2021-01-11T04:29:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-remains-defiant-amid-calls-to-resign/2021/01/10/a70cc708-539b-11eb-acc5-92d2819a1ccb_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-remains-defiant-amid-calls-to-resign/2021/01/10/a70cc708-539b-11eb-acc5-92d2819a1ccb_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-remains-defiant-amid-calls-to-resign/2021/01/10/a70cc708-539b-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-remains-defiant-amid-calls-to-resign/2021/01/10/a70cc708-539b-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+publishedDateTime: 2021-01-11T07:22:00Z
+originalUrl: "https://www.washingtonpost.com/politics/trump-remains-defiant-amid-calls-to-resign/2021/01/10/d83118a8-53b3-11eb-acc5-92d2819a1ccb_story.html"
+webUrl: "https://www.washingtonpost.com/politics/trump-remains-defiant-amid-calls-to-resign/2021/01/10/d83118a8-53b3-11eb-acc5-92d2819a1ccb_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/trump-remains-defiant-amid-calls-to-resign/2021/01/10/d83118a8-53b3-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-remains-defiant-amid-calls-to-resign/2021/01/10/d83118a8-53b3-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
@@ -318,6 +318,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_c73f2e2a9d7b46deb1ee0331c8cdd5fa_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Democrats give VP Mike Pence ultimatum to remove Trump from White House"
+    excerpt: "US House Speaker Nancy Pelosi has stepped up the pressure on Vice-President Mike Pence to act to remove Donald Trump from office over his role in last week's storming of the Capitol. Lawmakers are expected to bring up a resolution asking Mr Pence to invoke the 25th Amendment to declare the president unfit for office."
+    publishedDateTime: 2021-01-11T08:39:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55611630?fbclid=IwAR2yXe6Ap7Sx0mM0EyUzbQdTTR4Em_CB50Bfb5RWO1ElZATmEKwzys1NjF0"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55611630"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55611630"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 150
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14169/production/_116418228_hi065099285.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "US Capitol riot, Pence confirms Biden, Trump commits to 'orderly transition': 5 things to know Thursday"
     excerpt: "U.S. Capitol riot, Trump commits to \"orderly transition\" after Biden officially declared election winner and more news you need to know Thursday."
@@ -1530,6 +1546,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/09/28ff4c1d-ff72-4ad1-b599-27fb6ce09176/thumbnail/1200x630/a22a0c37ad809d8a94173ed49081b6cf/gettyimages-1287973454.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Parler reportedly removes post from pro-Trump lawyer Lin Wood after calling for Mike Pence's execution"
+    excerpt: "Parler hit further headwinds over the weekend after it reportedly removed a threatening post by pro-Trump lawyer Lin Wood."
+    publishedDateTime: 2021-01-11T07:17:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2021/01/10/linwood-parler-social-network-removal-apple-google-amazon/6616756002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6616756002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6616756002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 134
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/09/USAT/46c76774-43a8-4fc2-ba04-5b2cbf758c5b-AFP_AFP_8V989G.jpg?auto=webp&crop=3999,2249,x1,y33&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump-Biden transition live updates: Georgia to recertify vote over Trump objections"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 44 days. A Trump campaign lawsuit was rejected by a Georgia state court Monday because the Trump legal team failed to pay the filing fee and neglected to fill out the proper forms."
@@ -4421,22 +4453,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Parler reportedly removes post from pro-Trump lawyer Lin Wood after calling for Mike Pence's execution"
-    excerpt: "Parler hit further headwinds over the weekend after it reportedly removed a threatening post by pro-Trump lawyer Lin Wood."
-    publishedDateTime: 2021-01-10T23:44:00Z
-    webUrl: "https://www.azcentral.com/story/tech/2021/01/10/linwood-parler-social-network-removal-apple-google-amazon/6616756002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6616756002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6616756002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 74
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/09/USAT/46c76774-43a8-4fc2-ba04-5b2cbf758c5b-AFP_AFP_8V989G.jpg?auto=webp&crop=3999,2249,x1,y33&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "In rare Jan. 1 session, Congress overrides Donald Trump’s veto of defense bill"
     excerpt: "The 81-13 vote in the Senate followed an earlier 322-87 override vote in the House of the widely popular defense measure. The override was the first since Trump took office four years ago."
     publishedDateTime: 2021-01-01T20:13:00Z
@@ -4842,6 +4858,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "QKqZGNgOKN+v9RFlAUsfzIPTPNn188+gaevvmSM6ed1KXTb8ZajDEQfSDsoiqCwOKMopSH+sDFBR4NUT1C8mHrm2HVt5yrpK1ALBXrLBHl7IXQIf1zMsLrpP1RtVNpmyU/yeU10NGSUwDOcWv7kHggKj3Emo4BEetHsndWQpM4bhGNrXW6uH34hxEMGLuA+/VH+En+OlqbH7jrWLSLPhg64/F7469rQX8qni9N63O+oZa/uyrWO45SFs9syX/lnxdQUT4zID50xNVlsJMPrUdNPLEda201HmMjaEZx0f4ATIyFmj0gmyJM+BnlzC0bKtN8GQgriz2QhWuosgjQoITHgs88j46KoYoZu3BR6nlcU=;ifB2EvvVzYcBwhg9NScgFw=="
+secured: "dMuTytnlIk2C+gm93+YR769ygSJgROvUo+bM4+004UthWHC6cuTglBcABuho0gT6koJ9OgZPIX74F+C2W5f4TgsHnTVUWAjBnkPD2bohlGKAxc2bzgdK5UFa9dj6JZEfge/j6z+tGj9/o2dZXYv0WiOwwVt1K8hmgnSBaRuGQW3R8X91TJFVhc8acfxNybbEBMWKcpQHfjdwf4L7j1l0SSsudySEAyFPVV3xLZEyDyznMjQquS/gIcefJv+huwOn0Lx8JLX1k0zg0bAbtbbI9lSp27NksnENlT3hgK7rWi6spP5QrTDvFJW+dyuGDLTV2GuM10nrsyW4PmY65y/1OoswWnHNFYb46oWxt/VKBnI=;csG9mDpGThNU4g9NdQs9tA=="
 ---
 

@@ -73,6 +73,17 @@ related:
         width: 3162
         height: 2108
         isCached: true
+  - title: "EXPLAINER: Why Trump's Ballot 'Dump' Tweet Is Misleading"
+    excerpt: "As votes were being tabulated in two tight Senate runoff elections in Georgia, President Donald Trump predicted election officials in the state would release a large tranche of results that would overwhelm the Republican candidates."
+    publishedDateTime: 2021-01-06T04:57:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-05/explainer-why-trumps-ballot-dump-tweet-is-misleading"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-05/explainer-why-trumps-ballot-dump-tweet-is-misleading?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-05/explainer-why-trumps-ballot-dump-tweet-is-misleading?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "mB8xNcoUqyDI674tTF6hNTMkTCURwsh8glvcjnjgcVXdFmIdybAGcy9VLB4w9xtwzS68o467ss57xUYI00bznewHFFUrWH5rtcx0zb6akuiUJlQtGFeR0QzmjoC1IH6Km6nUcwIQXKzDo9iMXTlmLia/K684FDzFBDwG9zNtsiAFy/HZPEIB8da9Nj4xpWVlqUtEgNdlC/i7fTt82dJ8QxEEdjIDBGxvSV6/Ittb0VCFHp7re3QzQ1vkYa5UBB/Cih8YqEQRa1kT2HCnn7iH5YsKXc7bH5ks+21AMd3fg4/2TwHi+kn68hXhVedPy+BDWE6G3xSUKb3VmOlcCdmRS4M6uYLFhYj6O8NwTUi+Omo=;QiQlbzflmVY/MlT3XeGogQ=="
 ---

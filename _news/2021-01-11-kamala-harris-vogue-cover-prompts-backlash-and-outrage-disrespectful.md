@@ -45,8 +45,8 @@ related:
         isCached: true
   - title: "Vogue's Kamala Harris cover photos spark controversy: 'Washed out mess'"
     excerpt: "First woman of color elected vice-president is February cover star but users complain about lighting"
-    publishedDateTime: 2021-01-10T18:52:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
+    publishedDateTime: 2021-01-10T18:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour?fbclid=IwAR1RL0jG2Q0qqew-VVMTse9cqgBcU5OwXIJlSDagcQS3dl4nkqM9ZnzRVpI"
     ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
     type: article
@@ -464,6 +464,6 @@ related:
         height: 300
         isCached: true
 
-secured: "K/EnDtWq6lFhmeBvmGgKexQxthMSE7M22WdIDXE17/VyngoV0SvVz420Cyu8zETcLfj4BI2PUea04EsOjrheBqTnqQUdUdDWQjrDc3vUxEBHBQE0RqXHZPMyY4iap7mukHBaZd9ItKAXiK+QM03IriAuoqesamKxTESARtNU8C2Y4xm0TOFSS+tuOAirbueGW5h7sJOX4nXMPnXmgtCLuglOjXL9ps1Gy4cSyDidUMtrhvo7c3pAxVL6c0zosNbbo8H0+OnH3jXhWUBC1wvdshxy8STRzEOxTxcUZ9A6cqgE40jLVHTHgjLbtiSk5zfmfjfSZy2s78JYMplb5+UgshDdxnfabqpxulJ+zYgciHE=;MLmI7rwmp4ayLioq1JKGfw=="
+secured: "FXTIsRtJ6cSwK4qEWQZ9Sp/0SQSwnSKQ3FO/+1c014cSgWqXLh3Hl2Y0Mz7xXwhR9Y1qNQ1awHe+2jqfpWmCfC2nMKGW9UQx1C6cDWOLS/MHJ7SaIG+Dirgqngu5yb4mYXNtN3DrYXBOKEuS/iIn+/41XktKLVBm2/H8HTqBRABEPuMb2a5/S90MpnbBiSVsmuWcHho57hjTntmboD77qthnKC7x1u1I9qWULgl4OQmvi4RH7X9Sr30Psyl+A2FGkmYEGql+dKLmFlySF/AzTfQtJIkiZT/BgZHgg69+7GWQa6KtFpHkhZTNGQ98bospmwUIq4rtPxbLeJd+tdr5hGoaa5KBndRJTiJupqAAepSpeukDzl8ps+Rc563mjsm0hgQwpA6OiMFatsvw3M2baIOhXW9t5FkJE4xLQdAMdh4DJ8eEkJ6pq1FThZG2uJmQTqi5OKYrF/fGZbT0QfaD1xwyH4qjbN7PIcHJ81xh0r1fqP/4VwHBIvw1YDlXHGaze8pTZm5ZLIVXkQ3KawvelQ==;XgfJ93yrKTZ4UMZVmIsIng=="
 ---
 

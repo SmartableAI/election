@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Lawmakers who voted against Biden get blasted back home"
-excerpt: "Republican members of Congress who voted against certifying Joe Biden’s presidential victory, even after a mob broke into the Capitol, are getting blasted by critics in their home districts"
-publishedDateTime: 2021-01-10T20:31:00Z
-originalUrl: "https://www.washingtonpost.com/national/lawmakers-who-voted-against-biden-get-blasted-back-home/2021/01/10/864393c2-5381-11eb-acc5-92d2819a1ccb_story.html"
-webUrl: "https://www.washingtonpost.com/national/lawmakers-who-voted-against-biden-get-blasted-back-home/2021/01/10/864393c2-5381-11eb-acc5-92d2819a1ccb_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national/lawmakers-who-voted-against-biden-get-blasted-back-home/2021/01/10/864393c2-5381-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/lawmakers-who-voted-against-biden-get-blasted-back-home/2021/01/10/864393c2-5381-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+excerpt: "Republican members of Congress who voted against certifying Joe Biden’s presidential victory, even after a mob broke into the Capitol, are getting blasted by critics in their home districts who demand that they resign or be ousted."
+publishedDateTime: 2021-01-11T08:27:00Z
+originalUrl: "https://www.businessinsider.com/lawmakers-who-voted-against-biden-get-blasted-back-home-2021-1"
+webUrl: "https://www.businessinsider.com/lawmakers-who-voted-against-biden-get-blasted-back-home-2021-1"
+ampWebUrl: "https://www.businessinsider.com/lawmakers-who-voted-against-biden-get-blasted-back-home-2021-1?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lawmakers-who-voted-against-biden-get-blasted-back-home-2021-1?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Biden calls on mob to ‘pull back,’ urges restoring decency"
@@ -479,6 +473,6 @@ related:
         height: 630
         isCached: true
 
-secured: "2609/UulkZlGlLrKpb3fQOraHPgXHeBOCvurBrZQWm6xVkvzHkhbszCRcSLgPW5M6xtR5y5szR+vkiMU/+O++pl/WHAzYAUegAfix8+Yl/Prd9bm+CrOtfIW6vhrppHNq2eAs2noTa0qiBZmixFSvGcoExhHmUEFN0ZkKT62UkfLKxamBc2CyMPyTenid/rlQTzMpNjcgZ1EBLDRtAeQfgpMZba1joE/+fR2Cq6YPDQ1LUFthRNbTBBgq8Z/xQ0rJnTtHJGGB4eyFAnOU8aWy+oIAz69N99N4kzns1onnh7eisCh/fEJmZkllaFcQ0gWd7F0HEq1JGmjHNR8KlhIQJ+YHHa0OAeMpfVqCxQk/gM=;oU3zkHre547mQ5suqVpfug=="
+secured: "rzXPo9RQ+h+JWDeAviGv/Ez8ABpIYiV1nQx1vIFPjSjytpullhQBy9OI47gXD/nP6rIYsl/Nkhn61eKEPnw8aW5UPyesDuDCFwsyATuWzmNNK+NFO4sav3nvZ8j3XHTyVwSFmAjic64+9Y8d5+EbhZluffGrGWtobZF3OnUCgMZTUD3QoeZU2UTuSk1XgotLroYTZ9ggCEmzPOTnvLV0qO1UX9dFQ0RJGp1NHhIGEQ8CLHMGFjb0leh5Kd7QZu2y8EtMFcSZ3nnUKmqCOfh02BNbVIDanek1uApBWZkIpNoLtSZ14e67owtoHdAC5bLXM5ZbfgXZvkqLik/yZ1ziDVhdOaMreVxyGH7ZGg2sBT0=;AFuuVXsBI9OefwbJg3UPMg=="
 ---
 

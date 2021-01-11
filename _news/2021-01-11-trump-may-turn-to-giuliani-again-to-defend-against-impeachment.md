@@ -2,9 +2,9 @@
 category: news
 title: "Trump may turn to Giuliani again to defend against impeachment"
 excerpt: "President Donald Trump may turn to Rudy Giuliani to defend him against possible impeachment over his role in last week’s violent siege of the U.S. Capitol, according to two people familiar with the matter."
-publishedDateTime: 2021-01-11T02:50:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-lawyers-idUSKBN29F0MV"
-webUrl: "https://www.reuters.com/article/us-usa-trump-lawyers-idUSKBN29F0MV"
+publishedDateTime: 2021-01-11T07:11:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-trump-lawyers-idUKKBN29F0NB"
+webUrl: "https://www.reuters.com/article/uk-usa-trump-lawyers-idUKKBN29F0NB"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547298686&r=LYNXMPEH090GI&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547312528&r=LYNXMPEH090GM&w=800"
     width: 800
     height: 533
     isCached: true
@@ -60,6 +60,6 @@ related:
         height: 708
         isCached: true
 
-secured: "57uHZ4HjiALBXU1fKUY7p06s5uWladE9xBWTyDeq6D93g2A+0oYOzCyJrSCBy4WqWdpPNxTH/Zuh0A8t6Ic6t+sIwgwxyPBCCWOJl56DZgQ5TeLDBJ3w96aNsFQTfQxFzJHQl/9xLPHtrVqQp7ngau2g55wkSp53aH0vo0UvUtMoi/aZKDaFEeuYGvHTmUTyhJRDuZ0uQ/gfvP/40krD4JMqKA2Z6WSKXGnPhoO80P6ywGQmQ0lyrCe6J3V1iGc0WU26QjIb58YG4ZYv6yNXNNEmmYw0Lws4ar/dnN77LnyGWsvav54jkyRloDpbF3/Zj4f6TnDULddmOxT5UgH/+X3I+5Ghe6pHMf54cQD3tZU=;1kRvcxqCYxF6AhaMaHmNdQ=="
+secured: "AqCy74XetuvVecAIfNBAtsVIvjhPs7yoPzPM2QyA03l/y9CzamZrqA1RxHjdA8EnWsyCRjfulWVU7LyTmzWZZWrDf7B3wOeeiMAsGZN5lrCGMQsQQmznzLJinUIEaeDc2od5NDjqe3iRDMlPCrM6p9CaaP814Cs3JTe1PwEBd3QMsGWSNP+E/s8s0AwGh804gaYffdjb5an9Ax+I7G0lizwZQLV8OQoUnWVNA6zS3yQya/borMBHDeE/wj4DsiJfh5NDviGyrOxOxPxrO6aVQEEsnaMhS/wSJEkK+KAvh5UQjfD9ZXng6b9TkvWGH1fbJQ5voSt1qdSzm+lqebEAJgseyHGtQoKxILJsvfysjKo=;Mv9GZbXK+7dM/HCmMDkSyg=="
 ---
 

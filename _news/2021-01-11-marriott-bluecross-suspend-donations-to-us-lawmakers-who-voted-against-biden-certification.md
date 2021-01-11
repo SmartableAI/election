@@ -3,8 +3,8 @@ category: news
 title: "Marriott, BlueCross suspend donations to U.S. lawmakers who voted against Biden certification"
 excerpt: "Marriott International Inc, the world's largest hotel company, and the Blue Cross Blue Shield Association (BCBSA) said Sunday they will suspend donations to U.S. lawmakers who voted last week against certifying President-elect Joe Biden's victory."
 publishedDateTime: 2021-01-11T05:08:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ"
-webUrl: "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ"
+originalUrl: "https://www.reuters.com/article/us-usa-election-corporate/marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSKBN29F0L4"
+webUrl: "https://www.reuters.com/article/us-usa-election-corporate/marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSKBN29F0L4"
 type: article
 quality: 94
 heat: 94
@@ -28,6 +28,6 @@ images:
     height: 534
     isCached: true
 
-secured: "/U4MqseUPbod7DaapsgG/1wvRow4KwuMn8KUaOd0hCq6oMJ+N5Dcp0HFmlcvwKY/K+U9dk7GwSHw/46c+riW22uAC9f9A3uk3yxjCcPxGhlJPO0ZgLf70rNPencvhTmI8CmIy5eRIAHCxOCoFEWckZLNv//8Xs7tWcVYYUwzXEs8lkRc3iSigRSTmhorEM9FbHu3YasYAoeWKJzN5UVYq4ii3Z9FkIySTmrcQlMtJxLx+Ko4z3S9NAEtyMqGS/31vgVoT6TdM6JxK1AzcW79MQ8JWPK368I1s0Ia/w4oHqy+LtZlnZowFhCifVufaidyNH/ux3mUusPULtzaYfnzG0DV107i1W3ZtS+Bw6bljeA=;usaO52LWhCOSDFTwnDt3gA=="
+secured: "YnLEwthvN8MMuPFFi4YgAWEWNzkGcFVwMoiPp0Dqd6Jtds4ev77NlacVFfVD8Kns3h+noWPyp8F+UcXO/uQLhkz7moHoZxbFFnLAaCcpDc0DTXkXeU2RvU4lsWCMq5r9AZC+yGOLBQVZOvMG/Fuko5h2JaglHCjSRY5aHyqKtsoeqy1MOhzAh9lsxIe0vRCyUpzdeHdNUJrXmThEHVl70P+O11fYc8SpDVybrLoZyTkfondpZxczjplxE/mtkaOXwfOBx/N+I4wnqvk1tJ9t+y1xZB/GLyXLfcjB4o56OtsyhQf44dExi7DCO6Uk7DENMa6vkHXNWH/D39hiYZx2tpYvKCnUBax985SiDShO3hQ=;Emq9QduyT9S+WBT+IOZFvw=="
 ---
 

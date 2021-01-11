@@ -155,22 +155,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Lawmakers who voted against Biden get blasted back home"
-    excerpt: "Republican members of Congress who voted against certifying Joe Biden’s presidential victory, even after a mob broke into the Capitol, are getting blasted by critics in their home districts"
-    publishedDateTime: 2021-01-10T20:31:00Z
-    webUrl: "https://www.washingtonpost.com/national/lawmakers-who-voted-against-biden-get-blasted-back-home/2021/01/10/864393c2-5381-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/lawmakers-who-voted-against-biden-get-blasted-back-home/2021/01/10/864393c2-5381-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/lawmakers-who-voted-against-biden-get-blasted-back-home/2021/01/10/864393c2-5381-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Lawmakers who voted against Biden victory are denounced back home"
     excerpt: "GOP members of Congress who voted against certifying Joe Biden’s victory, even after a mob broke into the Capitol, are rebuked in their districts."
     publishedDateTime: 2021-01-10T20:53:00Z
@@ -414,6 +398,17 @@ related:
     webUrl: "https://www.businessinsider.com/what-bidens-cabinet-picks-say-about-how-he-plans-to-govern-2021-1"
     ampWebUrl: "https://www.businessinsider.com/what-bidens-cabinet-picks-say-about-how-he-plans-to-govern-2021-1?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-bidens-cabinet-picks-say-about-how-he-plans-to-govern-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Lawmakers who voted against Biden get blasted back home"
+    excerpt: "Republican members of Congress who voted against certifying Joe Biden’s presidential victory, even after a mob broke into the Capitol, are getting blasted by critics in their home districts who demand that they resign or be ousted."
+    publishedDateTime: 2021-01-11T08:27:00Z
+    webUrl: "https://www.businessinsider.com/lawmakers-who-voted-against-biden-get-blasted-back-home-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/lawmakers-who-voted-against-biden-get-blasted-back-home-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lawmakers-who-voted-against-biden-get-blasted-back-home-2021-1?amp"
     type: article
     provider:
       name: Business Insider

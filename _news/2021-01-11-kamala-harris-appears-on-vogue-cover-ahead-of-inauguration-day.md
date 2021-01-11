@@ -33,8 +33,8 @@ images:
 related:
   - title: "Vogue's Kamala Harris cover photos spark controversy: 'Washed out mess'"
     excerpt: "First woman of color elected vice-president is February cover star but users complain about lighting"
-    publishedDateTime: 2021-01-10T18:52:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
+    publishedDateTime: 2021-01-10T18:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour?fbclid=IwAR1RL0jG2Q0qqew-VVMTse9cqgBcU5OwXIJlSDagcQS3dl4nkqM9ZnzRVpI"
     ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
     type: article
