@@ -43,6 +43,34 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VP-elect Kamala Harris campaigns for Ossoff, Warnock in Savannah, Georgia"
+    excerpt: "The visit comes just a short time before Georgia decides two Senate runoff elections that could shift the balance of Congress."
+    publishedDateTime: 2021-01-03T23:32:00Z
+    webUrl: "https://www.11alive.com/video/news/politics/elections/kamala-harris-savannah-georgia/85-0ed6ae43-d781-4f5b-a472-44afe8e1884c"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 54
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/149b8d9f-2752-4633-ad77-aef22c252178/149b8d9f-2752-4633-ad77-aef22c252178_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Democrats sweep Georgia runoffs, taking Senate control with Kamala Harris’ tie-breaking vote"
+    excerpt: "The result was a massive blow to Republicans, who have controlled both of Georgia’s Senate seats for 15 years."
+    publishedDateTime: 2021-01-06T14:57:00Z
+    webUrl: "https://bangordailynews.com/2021/01/05/national-politics/democrats-win-1st-of-2-georgia-runoffs-but-need-a-sweep-for-senate-control/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 44
+    images:
+      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/01/Biden-scaled.jpg?fit=2560%2C1707&#038;ssl=1"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "S3zj3X/c5sjsRMdmrlzqs/bXFuUiNTg2U7me0xuUhbZp9pO7Vi01uKO1pELiB+viSy68SwHXCNejB941tO5DQ6CDC2GCzSAH2EJTOuOSKFpzv/tdub1pmTSI9U21KV6JA8ixx2M/uLGEduAE2Ek6EVZXudguyBcUg5OVOoU7/g88IW8HhwQgEXR7lIICy+I4xhIvD0Htda/dM1Qp4py75l7VC2luP/lOvx9J+sZUmE50Ggkw147qMSwewQZnMpTFbZy/1RS97V6mNlJj7oHr6hfTDeNAQqDK37unc7A0RzH96ZjlSNanIM3uq4UDVK9nv9DP8rKfdtv44iJbqqSB7bebkgt9NVGh0oC5CscJIzKBK6IcTLmucf+f2o8ByiojUB+Zd9mBzGWoxpi49MacyPNmMLTw5xXljYLo9baHEYqi8mX/IISeHk3Tb+kzO4WSapJnR4a85dlw1fXoOApplRasqK30801Z/Dmb6zG0ywh53MwtAcrnSfxMB8Th/eO+dNTb5NXmqK8HkA0PRoDMAA==;J0Co42U5j+FGbBPnd2aoUg=="
 ---

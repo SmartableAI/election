@@ -45,22 +45,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Squelched by Twitter, Trump seeks new online megaphone"
-    excerpt: "Though stripped of his Twitter account for inciting rebellion, President Donald Trump does have alternative options of much smaller reach"
-    publishedDateTime: 2021-01-10T06:30:00Z
-    webUrl: "https://www.washingtonpost.com/business/technology/squelched-by-twitter-trump-seeks-new-online-megaphone/2021/01/09/655aba1c-52e3-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/technology/squelched-by-twitter-trump-seeks-new-online-megaphone/2021/01/09/655aba1c-52e3-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/squelched-by-twitter-trump-seeks-new-online-megaphone/2021/01/09/655aba1c-52e3-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Republicans block measure calling for quick removal of Trump"
     excerpt: "A House resolution calling on Vice President Mike Pence to invoke constitutional authority to remove President Donald Trump from office has been blocked by Republicans"
     publishedDateTime: 2021-01-11T16:47:00Z

@@ -235,20 +235,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "A Pro-Trump Mob Stormed the Halls of Congress. Photographs From Inside the Chaos at the Capitol"
-    excerpt: "A mob incited by Trump stormed the Capitol in an attempt to block lawmakers from certifying Biden's electoral victory"
-    publishedDateTime: 2021-01-07T07:19:00Z
-    webUrl: "https://time.com/5927132/donald-trump-mob-capitol-chaos/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 93
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2021/01/washington-capitol-donald-trump-senate-14.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "Protesters to Gather in NYC as Congress Set to Confirm Joe Biden as President"
     excerpt: "As Congress prepares to affirm President-elect Joe Biden’s victory, protesters are expected to gather in New York City to call for an investigation into President Donald Trump who has repeated baseless claims of election fraud."
     publishedDateTime: 2021-01-06T09:16:00Z

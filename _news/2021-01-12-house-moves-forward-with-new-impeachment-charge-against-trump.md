@@ -1326,6 +1326,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The House can impeach Donald Trump, but it can't stop him from fundraising in the future"
+    excerpt: "House Democrats on Monday pushed ahead with their effort to have President Donald Trump impeached, convicted in the Senate and disqualified from ever holding federal office again over last week's siege on the US Capitol by a pro-Trump mob.\n    \n"
+    publishedDateTime: 2021-01-11T21:27:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6LqtPe7rb5g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/trump-impeachment-fundraising/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/trump-impeachment-fundraising/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210111002752-donald-trump-0104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Read the full transcript and listen to Trump's audio call with Georgia secretary of state "
     excerpt: "CNN has obtained the full January 2 audio call between President Donald Trump and Georgia Secretary of State Brad Raffensperger. Trump is joined on the call by White House chief of staff Mark Meadows and several lawyers.\n    \n"
     publishedDateTime: 2021-01-04T02:22:53Z
@@ -2557,6 +2573,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/42/07/201004ff4f83bd6aef79fd36bda1/200129-dershowitz-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Newsom, California Assembly support Trump removal from office"
+    excerpt: "Mayes said this week that his former party must be held to account for its leader's direct role in the insurrection."
+    publishedDateTime: 2021-01-11T22:32:00Z
+    webUrl: "https://www.politico.com/states/california/story/2021/01/11/newsom-california-assembly-support-trump-removal-from-office-1355062"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/8f/18/8ce266a0448dbab810fd61562c7a/210111-chad-mayes-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

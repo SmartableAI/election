@@ -382,6 +382,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says he is 'not afraid' of taking oath of office at US Capitol after deadly riot "
+    excerpt: "President-elect Joe Biden said Monday he was \"not afraid\" of taking his oath of office on the West Front of the US Capitol, after supporters of President Donald Trump breached the building in a deadly riot.\n    \n"
+    publishedDateTime: 2021-01-11T21:04:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M0Oe4Ie3r1I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/biden-oath-of-office-capitol/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/biden-oath-of-office-capitol/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108153229-joe-biden-press-conference-cabinet-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Sunrise Movement is an early winner in the Biden transition. Now comes the hard part."
     excerpt: "The Sunrise Movement, a youth-led climate activist group, has quickly announced itself as one of the most influential progressive forces in the formative days of President-elect Joe Biden's incoming administration.\n    \n"
     publishedDateTime: 2021-01-02T13:31:14Z

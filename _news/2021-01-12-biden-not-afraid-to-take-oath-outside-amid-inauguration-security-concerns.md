@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Secret Service to begin Biden inauguration security operations Jan. 13"
+    excerpt: "The Secret Service will begin security operations on Jan. 13 for President-elect Joe Biden’s Inauguration— days earlier than originally planned in wake of last week’s Capitol riot."
+    publishedDateTime: 2021-01-11T22:04:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ZxH5yFXHSY/secret-service-biden-inauguration-security-jan-13"
+    ampWebUrl: "https://www.foxnews.com/politics/secret-service-biden-inauguration-security-jan-13.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/secret-service-biden-inauguration-security-jan-13.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden: 'Not afraid' to take oath outside amid inauguration security concerns"
     excerpt: "President-elect Joe Biden says he’s “not afraid” to take the oath of office outside during his inauguration next week."
     publishedDateTime: 2021-01-11T20:24:31Z
@@ -113,6 +129,6 @@ related:
         height: 720
         isCached: true
 
-secured: "ygRLcbdI7f6glc23mJIy0D1YzqGruzxpuojiR1RpV6ARoVa0+1RvJAQNKcqq9ojMH9ZJIMAFu5RX2H/K4CtnhJ17MfiSywzn2p0K5iOPlDVMcZLRgFKTJp66xXhPH8W8eoZm5jaSaLd+F6gcoQxo+g+7tMUJzpfC0cxa/zoQMmsnUxPXVydJyLRvwqgl229YYF1Ib4o9s9GTjFVq9AGwnbhPHqnKdIHRRTF25mu4/ZjfMe3Z0LbSastVIk+n/IItc6VWPDqqKkBssIK2+Qmd4lZVVwWGgaMnEd4gTjaTKsIghb02lBoNJ9Bo/IFopMI4BT1DxO55LhFvqBudZkojxG3SYJhDTEElAX04Y8mF7a4=;c2yytzDNmhldzEqAmxCzpw=="
+secured: "NNPmjMVCslijC4dMOvUvoCgp+Yb+cR8EIkzr+DqgKQHVMKTquvVdMeUvEYU+gvNRC1MnGP8r4ClMeE8TvqjNN0yJt7lPFxv1msvUwZ0K0wwtVgEggoi/6ZW9AkjBHY705pX935FoFqxybsLXgO/OCZOhW6PBA006iWDZrKiZQZghFIXFvZFhYnrxb+lg+/6akjnSI6aS2DnZc/TTBxIevM7EYCICc/KO5e1YB+U+cGaurRAy13qLuzPSxhmdJkIUXrL0ZcxkY6JkIJkMF+sfh0S+MBcO1DEbqWoXbpuSX62NpzdYbnpPiUrxK8oz0zCmG8iMDkSuCQc03Liht75D9G/lgsOFb0jkDmltMvudy6vAQ7dUUdgshe1gI6XsNWS9t3mHPdxAoo3Qxv4mxc8WMhA99DfAHX9MS687GzEA0wexYQPr/nxU9a0iqBWCKZYE5ZsoApdHzkwEgyhOA9I3Xu3P05XOkWG2CuPmkx/FiBnAK2hDMfos7X4RIV8jI1MJs5WYe9lMEoqqxiRHHSakYw==;FuJLwTVLknCSfyODouWlJA=="
 ---
 

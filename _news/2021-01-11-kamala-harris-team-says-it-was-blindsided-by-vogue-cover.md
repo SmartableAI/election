@@ -31,6 +31,70 @@ images:
     isCached: true
 
 related:
+  - title: "That time Kamala Harris flew on Trump’s private plane, and more from her biographer"
+    excerpt: "Author Dan Morain answers queries about his new book on Kamala Harris, like why she's an only-in-California politician and what to expect from her as vice president."
+    publishedDateTime: 2021-01-11T22:45:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-11/that-time-kamala-harris-flew-on-trumps-private-plane-and-more-from-new-book"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-11/that-time-kamala-harris-flew-on-trumps-private-plane-and-more-from-new-book?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-11/that-time-kamala-harris-flew-on-trumps-private-plane-and-more-from-new-book?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 134
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/ad02f72/2147483647/strip/true/crop/3000x1959+0+20/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff6%2F01%2Fcbd4b15d41a6962baf92c78dbb80%2Fdhs-acting-secretary-immigration-63532.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Wrong number draws mistaken calls, ire from Trump supporters"
+    excerpt: "A former Michigan resident has gotten hundreds of calls and texts from President Donald Trump supporters, demanding that the legislature reverse his defeat in the state"
+    publishedDateTime: 2021-01-05T00:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/wrong-number-draws-mistaken-calls-ire-trump-supporters-75046040"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/wrong-number-draws-mistaken-calls-ire-trump-supporters-75046040"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/wrong-number-draws-mistaken-calls-ire-trump-supporters-75046040"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Fact check: Footage shows Kamala Harris receiving COVID-19 vaccination"
+    excerpt: "Social media users have been sharing content online that claims Vice President-elect Kamala Harris’s COVID-19 vaccination was faked. This claim is false."
+    publishedDateTime: 2021-01-05T21:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-kamala-harris-covid-vaccina/fact-check-footage-shows-kamala-harris-receiving-covid-19-vaccination-idUSKBN29A2K7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29A2K7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29A2K7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546711353&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041CS"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Squelched by Twitter, Trump seeks new online megaphone"
+    excerpt: "Though stripped of his Twitter account for inciting rebellion, President Donald Trump does have alternative options of much smaller reach"
+    publishedDateTime: 2021-01-10T06:30:00Z
+    webUrl: "https://www.washingtonpost.com/business/technology/squelched-by-twitter-trump-seeks-new-online-megaphone/2021/01/09/655aba1c-52e3-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/technology/squelched-by-twitter-trump-seeks-new-online-megaphone/2021/01/09/655aba1c-52e3-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/squelched-by-twitter-trump-seeks-new-online-megaphone/2021/01/09/655aba1c-52e3-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Kamala Harris appears on Vogue cover ahead of Inauguration Day"
     excerpt: "Vice President-elect Kamala Harris made her debut on the cover of Vogue magazine’s February issue. Vogue featured two cover images on Instagram on Sunday. In one, Harris poses in front of golden drapery and dons a powder blue power suit and pearls;"
     publishedDateTime: 2021-01-11T00:54:00Z
@@ -79,51 +143,35 @@ related:
         width: 1440
         height: 880
         isCached: true
-  - title: "Vogue's Kamala Harris cover photos spark controversy: 'Washed out mess'"
-    excerpt: "First woman of color elected vice-president is February cover star but users complain about lighting"
-    publishedDateTime: 2021-01-11T15:00:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour?fbclid=IwAR1bNX4SBZrhlR_3TtForOSsodHxc-6OWQbLFglDCZ2N9L3EKdFRGsmiwEA"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
+  - title: "Harris on Trump GA call before Senate runoff"
+    excerpt: "Rough Cuts Harris on Trump GA call before Senate runoff. Posted . U.S. Vice President-elect Kamala Harris rallied supporters in Georgia on Sunday for Democratic Senate candidates"
+    publishedDateTime: 2021-01-04T02:55:00Z
+    webUrl: "https://www.reuters.com/video/watch/harris-on-trump-ga-call-before-senate-ru-id723707495"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 120
     images:
-      - url: "https://i.guim.co.uk/img/media/03f171d8d3d2e9dc1acc3ebb4c804873b96965f2/767_953_3529_2118/master/3529.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=987b4358316eb4e89df49c2ed1caec1e"
-        width: 600
-        height: 360
+      - url: "https://static.reuters.com/resources/r/?d=20210104&i=OVDTSNIE7&r=OVDTSNIE7&t=2"
+        width: 960
+        height: 540
         isCached: true
-  - title: "With Kamala Harris as vice president, expect Indian Americans to get more involved in politics"
-    excerpt: "Indian Americans have seen their political stock rise in 2020 with the election of Kamala D. Harris — whose mother was born in Chennai, India — as the next vice president of the United States. Indian Americans across the country celebrated her victory,"
-    publishedDateTime: 2021-01-04T11:05:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/04/with-kamala-harris-vice-president-expect-indian-americans-get-more-politically-active/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/04/with-kamala-harris-vice-president-expect-indian-americans-get-more-politically-active/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/04/with-kamala-harris-vice-president-expect-indian-americans-get-more-politically-active/?outputType=amp"
+  - title: "Doug Emhoff, Kamala Harris’s husband, is making history as America’s first male vice-presidential spouse"
+    excerpt: "The arrival of Doug Emhoff in Washington, alongside his wife, Vice President-elect Kamala D. Harris, upends two and a half centuries of American precedent and morphs the what-ifs of previous men who might have become presidential or vice-presidential spouses into what-now?"
+    publishedDateTime: 2021-01-11T21:19:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/doug-emhoff-kamala-harris-husband/2021/01/11/30ec038a-50e5-11eb-83e3-322644d82356_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/doug-emhoff-kamala-harris-husband/2021/01/11/30ec038a-50e5-11eb-83e3-322644d82356_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/doug-emhoff-kamala-harris-husband/2021/01/11/30ec038a-50e5-11eb-83e3-322644d82356_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 113
+    quality: 108
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PHZCOXCJIMI6XF5WJ247OL7UNM.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4ZNL5FSK4YI6XA42Z5F2PN6ERQ.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Kamala Harris: 'We are going to be inaugurated'"
-    excerpt: "Vice President-elect Kamala Harris on Monday night emphasized that she and President-elect Joe Biden will be inaugurated on January 20th. She was responding to a question about efforts by some Republicans to contest the election."
-    publishedDateTime: 2021-01-05T10:33:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/05/kamala-harris-we-going-inaugurated/4138103001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/e9f154b5-0846-4da4-a08a-0022190056a2-d795040e-4df7-428e-955d-7feb21a4554c_thumbnail.png?quality=10"
-        width: 852
-        height: 480
         isCached: true
   - title: "Kamala Harris dissolving PACs, giving money to charity"
     excerpt: "Vice President-elect Kamala Harris is dissolving her political fundraising committees as she prepares for her inauguration with President-elect Joe Biden on Jan. 20, giving leftover money to California charities."
@@ -183,6 +231,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "A Pro-Trump Mob Stormed the Halls of Congress. Photographs From Inside the Chaos at the Capitol"
+    excerpt: "A mob incited by Trump stormed the Capitol in an attempt to block lawmakers from certifying Biden's electoral victory"
+    publishedDateTime: 2021-01-07T07:19:00Z
+    webUrl: "https://time.com/5927132/donald-trump-mob-capitol-chaos/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 93
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/01/washington-capitol-donald-trump-senate-14.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Kamala Harris gets the Vogue cover Melania Trump always wanted"
     excerpt: "The president, first lady and their political supporters repeatedly complained that ‘elitist’ fashion magazines wouldn’t put the ‘most elegant first lady in American"
     publishedDateTime: 2021-01-11T18:28:00Z
@@ -198,22 +260,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_982bd6f39d8176d926a35de2b32bfd51-h_16ae4b24c5b25e70b3b25aaa73a4c7ca.jpg?w=1024&h=683"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Kamala Harris' 'Fweedom' story mirrors MLK account"
-    excerpt: "Vice President-elect Kamala D. Harris told a story about her participation as a little girl in a civil rights march that mirrors an account told by the Rev. Martin Luther King."
-    publishedDateTime: 2021-01-04T00:00:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/jan/4/kamala-harris-fweedom-story-mirrors-mlk-account/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/4/kamala-harris-fweedom-story-mirrors-mlk-account/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/4/kamala-harris-fweedom-story-mirrors-mlk-account/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/11/24/biden_12584_c0-144-6000-3644_s1200x700.jpg?27e50771f2f943659768081f91235199f3ce7ce5"
-        width: 1200
-        height: 700
         isCached: true
   - title: "Why Kamala Harris will still be a key player in the Senate"
     excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
@@ -345,51 +391,19 @@ related:
         isCached: true
   - title: "Kamala Harris team says it was blindsided by VP-elect’s Vogue cover"
     excerpt: "Vice President-elect Kamala Harris has landed on the cover of the February issue of Vogue magazine, but her team says there’s a problem: the shot of the country’s soon-to-be No. 2 leader isn’t what both sides had agreed upon,"
-    publishedDateTime: 2021-01-11T17:38:00Z
-    webUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
-    ampWebUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+    publishedDateTime: 2021-01-11T21:27:00Z
+    webUrl: "https://www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
+    ampWebUrl: "https://www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
+      name: Daily Press
+      domain: dailypress.com
     quality: 75
     images:
-      - url: "https://www.courant.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
+      - url: "https://www.dailypress.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Kamala Harris' Vogue Cover Prompts Backlash and Outrage: ‘Disrespectful'"
-    excerpt: "Vogue received similar criticism for the way it photographs Black stars when Simone Biles covered the magazine in July."
-    publishedDateTime: 2021-01-10T19:28:00Z
-    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 74
-    images:
-      - url: "https://media.nbcnewyork.com/2021/01/GettyImages-1228230080.jpg?crop=376px%2C161px%2C1697px%2C955px&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris Says Police ‘Let Extremists Storm the United States Capitol’"
-    excerpt: "We don’t need another rhetorical arsonist at work in Washington. Our country is in a bad enough situation as it is."
-    publishedDateTime: 2021-01-07T21:54:00Z
-    webUrl: "https://www.nationalreview.com/corner/kamala-harris-says-police-let-extremists-storm-the-united-states-capitol/"
-    ampWebUrl: "https://www.nationalreview.com/corner/kamala-harris-says-police-let-extremists-storm-the-united-states-capitol/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/kamala-harris-says-police-let-extremists-storm-the-united-states-capitol/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 73
-    images:
-      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/01/kamala-harris-transition-headquarters.jpg?fit=1200%2C700&ssl=1"
-        width: 1200
-        height: 700
         isCached: true
   - title: "In a 50-50 Senate, Kamala Harris can sign off on $2,000 stimulus checks and more"
     excerpt: "Kamala Harris suddenly has been handed all kinds of power to get people $2,000 stimulus checks, provide money to fight climate change and win confirmation of President-elect Joe Biden’s nominees. Because Georgia Democratic Senate candidates Ralph Warnock and Jon Ossoff won Tuesday,"
@@ -423,22 +437,6 @@ related:
         width: 450
         height: 301
         isCached: true
-  - title: "Kamala Harris Vogue Cover Controversy: VP-Elect And Team Selected Both Looks, Report Says"
-    excerpt: "Kamala Harris' Vogue cover was criticized because many believe the magazine could have done something better, but she and her team selected both looks for it, according to a report."
-    publishedDateTime: 2021-01-11T00:04:00Z
-    webUrl: "https://www.ibtimes.com/kamala-harris-vogue-cover-controversy-vp-elect-team-selected-both-looks-report-says-3118449"
-    ampWebUrl: "https://www.ibtimes.com/kamala-harris-vogue-cover-controversy-vp-elect-team-selected-both-looks-report-says-3118449?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-vogue-cover-controversy-vp-elect-team-selected-both-looks-report-says-3118449?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 66
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/08/us-democratic-vice-presidential-nominee-kamala-harris-criticizes.jpg"
-        width: 519
-        height: 768
-        isCached: true
   - title: "'Washed out mess': Vogue puts Kamala Harris on the cover, but Twitter users aren't happy"
     excerpt: "Vice President-elect Kamala Harris is splashed on the February cover of Vogue, but social media isn't crazy about the magazine's photo choice."
     publishedDateTime: 2021-01-10T22:39:00Z
@@ -471,38 +469,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Kamala Harris' Vogue Cover Explained After Intense Backlash: 'A Tribute To Her Sorority Days'"
-    excerpt: "Kamala Harris' Vogue cover was a tribute to her sorority days as a member of the Alpha Kappa Alpha, according to a report."
-    publishedDateTime: 2021-01-11T03:39:00Z
-    webUrl: "https://www.ibtimes.com/kamala-harris-vogue-cover-explained-after-intense-backlash-tribute-her-sorority-days-3118451"
-    ampWebUrl: "https://www.ibtimes.com/kamala-harris-vogue-cover-explained-after-intense-backlash-tribute-her-sorority-days-3118451?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-vogue-cover-explained-after-intense-backlash-tribute-her-sorority-days-3118451?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 64
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/images-and-soundbitesus-vice-president-elect-kamala-harris.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Twitter Criticized Vogue For Kamala Harris' ‘Disrespectful’ Magazine Cover: ‘Is This A Joke?’"
-    excerpt: "Twitter users slammed Vogue and accused it of being disrespectful to Kamala Harris after the release of the vice president-elect's magazine cover."
-    publishedDateTime: 2021-01-11T00:27:00Z
-    webUrl: "https://www.ibtimes.com/twitter-criticized-vogue-kamala-harris-disrespectful-magazine-cover-joke-3118451"
-    ampWebUrl: "https://www.ibtimes.com/twitter-criticized-vogue-kamala-harris-disrespectful-magazine-cover-joke-3118451?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-criticized-vogue-kamala-harris-disrespectful-magazine-cover-joke-3118451?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 64
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/images-and-soundbitesus-vice-president-elect-kamala-harris.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "DeWine does not support Arts Council appointee comments; media owner called Kamala Harris a 'whore'"
     excerpt: "Ohio Gov. Mike DeWine, through a spokeswoman, condemned comments made by Ohio Arts Council board member Susan Allan Block."
     publishedDateTime: 2021-01-08T14:25:00Z
@@ -519,6 +485,33 @@ related:
         width: 1200
         height: 677
         isCached: true
+  - title: "Gov. Mike DeWine distances himself from Ohio Arts Council appointee who posted pro-Trump rant that called VP-elect Kamala Harris a ‘whore’"
+    excerpt: "Gov. Mike DeWine on Thursday distanced himself from one of his appointees, Susan Allan Block, after Block posted incendiary comments on social media supporting President Donald Trump’s false narrative about election fraud and calling Vice President-elect Kamala Harris a “whore."
+    publishedDateTime: 2021-01-08T03:32:00Z
+    webUrl: "https://www.cleveland.com/open/2021/01/gov-mike-dewine-distances-himself-from-ohio-arts-council-appointee-who-posted-pro-trump-rant-that-called-vp-elect-kamala-harris-a-whore.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/01/gov-mike-dewine-distances-himself-from-ohio-arts-council-appointee-who-posted-pro-trump-rant-that-called-vp-elect-kamala-harris-a-whore.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/01/gov-mike-dewine-distances-himself-from-ohio-arts-council-appointee-who-posted-pro-trump-rant-that-called-vp-elect-kamala-harris-a-whore.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 56
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PYHAGOCZFFBC3ONEEVBATNEZXM.jfif"
+        width: 423
+        height: 300
+        isCached: true
+  - title: "Kamala Harris’ husband becomes first second gentleman"
+    excerpt: "Doug Emhoff, the husband of Kamala Harris will also be a part of history this January. Harris' historic victory will result in a whole new job title for her husband"
+    publishedDateTime: 2021-01-04T21:57:00Z
+    webUrl: "https://www.stltoday.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_08ed75ff-5e22-58fb-acce-40b2b0d69f13.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_08ed75ff-5e22-58fb-acce-40b2b0d69f13.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_08ed75ff-5e22-58fb-acce-40b2b0d69f13.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
   - title: "Arts agency member resigns after vulgar comment about Harris"
     excerpt: "An appointee to the Ohio Arts Council resigned Friday after making a vulgar comment on social media about Vice President-elect Kamala Harris that also supported President"
     publishedDateTime: 2021-01-09T00:51:00Z
@@ -547,63 +540,33 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "VP-elect Kamala Harris campaigns for Ossoff, Warnock in Savannah, Georgia"
-    excerpt: "The visit comes just a short time before Georgia decides two Senate runoff elections that could shift the balance of Congress."
-    publishedDateTime: 2021-01-03T23:32:00Z
-    webUrl: "https://www.11alive.com/video/news/politics/elections/kamala-harris-savannah-georgia/85-0ed6ae43-d781-4f5b-a472-44afe8e1884c"
+  - title: "Gab Benefits From Twitter-less Trump, Parler Removal"
+    excerpt: "Social network Gab is benefitting from the suspension of several Twitter accounts -- including Donald Trump's -- and the taking offline of rival Parler, its CEO said Monday. Between 600,000 and 700,000 internet users are registering on the platform every day,"
+    publishedDateTime: 2021-01-11T20:11:00Z
+    webUrl: "https://www.ibtimes.com/gab-benefits-twitter-less-trump-parler-removal-3119231"
     type: article
     provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 54
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
     images:
-      - url: "https://media.11alive.com/assets/WXIA/images/149b8d9f-2752-4633-ad77-aef22c252178/149b8d9f-2752-4633-ad77-aef22c252178_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/11/this-illustration-picture-shows-social-media-application-logo.jpg"
+        width: 1024
+        height: 757
         isCached: true
   - title: "Kamala Harris's Vogue cover caught her team by surprise, causes stir online"
     excerpt: "Vogue released two images online, but the photo of a sneaker-clad Harris is the one that will grace the cover of the fashion bible's print edition."
-    publishedDateTime: 2021-01-11T15:46:00Z
-    webUrl: "https://www.stltoday.com/news/national/kamala-harriss-vogue-cover-caught-her-team-by-surprise-causes-stir-online/article_ddc5bd69-5f7b-5a25-aa01-1eb70e514fb1.html"
+    publishedDateTime: 2021-01-11T15:30:00Z
+    webUrl: "https://tulsaworld.com/news/national/kamala-harriss-vogue-cover-caught-her-team-by-surprise-causes-stir-online/article_fefc329b-4850-5ec2-a985-c432f2d95d14.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Tulsa World
+      domain: tulsaworld.com
     quality: 53
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/dc/ddc5bd69-5f7b-5a25-aa01-1eb70e514fb1/5ffc611b0d1ca.preview.jpg?crop=1919%2C1079%2C0%2C0&resize=1120%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/f/ef/fefc329b-4850-5ec2-a985-c432f2d95d14/5ffc6166033e2.preview.jpg?crop=1919%2C1079%2C0%2C0&resize=1120%2C630&order=crop%2Cresize"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Democrats sweep Georgia runoffs, taking Senate control with Kamala Harris’ tie-breaking vote"
-    excerpt: "The result was a massive blow to Republicans, who have controlled both of Georgia’s Senate seats for 15 years."
-    publishedDateTime: 2021-01-06T14:57:00Z
-    webUrl: "https://bangordailynews.com/2021/01/05/national-politics/democrats-win-1st-of-2-georgia-runoffs-but-need-a-sweep-for-senate-control/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 44
-    images:
-      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/01/Biden-scaled.jpg?fit=2560%2C1707&#038;ssl=1"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Supreme Court Agrees to Hear Case Challenging First Amendment Violations by Kamala Harris and Xavier Becerra against Conservative Nonprofits"
-    excerpt: "The two cases challenge significant First Amendment violations against conservative nonprofits by the California attorney general’s office."
-    publishedDateTime: 2021-01-09T01:41:00Z
-    webUrl: "https://www.nationalreview.com/corner/supreme-court-agrees-to-hear-case-challenging-first-amendment-violations-by-kamala-harris-and-xavier-becerra-against-conservative-nonprofits/"
-    ampWebUrl: "https://www.nationalreview.com/corner/supreme-court-agrees-to-hear-case-challenging-first-amendment-violations-by-kamala-harris-and-xavier-becerra-against-conservative-nonprofits/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/supreme-court-agrees-to-hear-case-challenging-first-amendment-violations-by-kamala-harris-and-xavier-becerra-against-conservative-nonprofits/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 40
-    images:
-      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/09/supreme-court-columns.jpg?resize=300%2C300&ssl=1"
-        width: 300
-        height: 300
         isCached: true
 
 secured: "Fh1noiihM4EntlSS7p78ttjjibS0vdI3RxNRWykk5MfWnuSeLLW6bzR/G7dG8oUY60g0xlTOIaWDh/W3CeqJf/ZZhmr+njQqS208iXII4AIqQffXfxN7t5JwcuBkYo/s1scncYGpDqgBBTh0j6MZN8KvEolQ6kE5GAts0+CJ58bkeLkjyC25XmnOgPoug5b4l6VkpusRqiQ+2ocg41oWjS+BsNMY1MQhpHSw090Eajp2WlQB5oqAzbOoNfMgq0ouR4CQpu/nZlfA02qgXmgurjm/vXX3YfLHlaU7u+ZjD84sP0VxjWXgbB4JQg7HI6MFJJcHKrdyzwpdR8mJFnoCj/9oQNOT+Ix+xlEb1jBv2VgaN8y3MQED6YMLW/u8y9/H6eF+88U6t2mG20BS6F4V6G8TzgzTTcPg46MLk6Hbw+10QBkwmJ1fPDVyPx03VfRw2JQWCCr/WveQ69clb9I4tYli2nOcI2rpOyB+oV8696Tpb1G1183F504XdFM0wOh5p9UTTXsJf7Fp3M4TCNEmkQ==;wvZfDGaxGgOUDvf0v79e5Q=="

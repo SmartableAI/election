@@ -383,6 +383,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says he is 'not afraid' of taking oath of office at US Capitol after deadly riot "
+    excerpt: "President-elect Joe Biden said Monday he was \"not afraid\" of taking his oath of office on the West Front of the US Capitol, after supporters of President Donald Trump breached the building in a deadly riot.\n    \n"
+    publishedDateTime: 2021-01-11T21:04:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M0Oe4Ie3r1I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/biden-oath-of-office-capitol/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/biden-oath-of-office-capitol/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108153229-joe-biden-press-conference-cabinet-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kelly Loeffler says she will object to the certification of Biden's Electoral College win"
     excerpt: "Republican Sen. Kelly Loeffler of Georgia will oppose the certification of the Electoral College results on Wednesday, she said in a statement released Monday evening.\n    \n"
     publishedDateTime: 2021-01-05T00:17:37Z

@@ -189,6 +189,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Sacha Baron Cohen shamed Google for keeping Donald Trump's YouTube account live after Facebook and Twitter banned him"
+    excerpt: "\"Trump's YouTube channel is STILL showing videos of his election lies to MILLIONS of people!\""
+    publishedDateTime: 2021-01-11T16:35:00Z
+    webUrl: "https://www.businessinsider.com/sacha-baron-cohen-youtube-donald-trump-google-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/sacha-baron-cohen-youtube-donald-trump-google-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sacha-baron-cohen-youtube-donald-trump-google-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5ffc6e66bde805001980c201?width=1200&format=jpeg"
+        width: 750
+        height: 374
+        isCached: true
   - title: "Donald Trump to mob at Capitol: 'I know your pain... but you have to go home now'"
     excerpt: "President Donald Trump issued a brief video statement on Twitter late Wednesday urging the unruly mob of his supporters at the US Capitol to go home, even as he continued"
     publishedDateTime: 2021-01-06T21:23:00Z

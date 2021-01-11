@@ -175,6 +175,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Sacha Baron Cohen shamed Google for keeping Donald Trump's YouTube account live after Facebook and Twitter banned him"
+    excerpt: "\"Trump's YouTube channel is STILL showing videos of his election lies to MILLIONS of people!\""
+    publishedDateTime: 2021-01-11T16:35:00Z
+    webUrl: "https://www.businessinsider.com/sacha-baron-cohen-youtube-donald-trump-google-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/sacha-baron-cohen-youtube-donald-trump-google-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sacha-baron-cohen-youtube-donald-trump-google-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5ffc6e66bde805001980c201?width=1200&format=jpeg"
+        width: 750
+        height: 374
+        isCached: true
   - title: "Majority of Americans want Trump removed immediately after U.S. Capitol violence - Reuters/Ipsos poll"
     excerpt: "Fifty-seven percent of Americans want Republican President Donald Trump to be immediately removed from office after he encouraged a protest this week that escalated into a deadly riot inside the U.S."
     publishedDateTime: 2021-01-09T14:20:00Z

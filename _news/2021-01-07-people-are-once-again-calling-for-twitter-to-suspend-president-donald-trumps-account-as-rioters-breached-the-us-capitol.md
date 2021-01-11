@@ -221,20 +221,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "A Pro-Trump Mob Stormed the Halls of Congress. Photographs From Inside the Chaos at the Capitol"
-    excerpt: "A mob incited by Trump stormed the Capitol in an attempt to block lawmakers from certifying Biden's electoral victory"
-    publishedDateTime: 2021-01-07T07:19:00Z
-    webUrl: "https://time.com/5927132/donald-trump-mob-capitol-chaos/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 93
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2021/01/washington-capitol-donald-trump-senate-14.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "'Assault on Democracy.' How the World Is Responding to a Pro-Trump Mob Storming the U.S. Capitol"
     excerpt: "Images of violent rioters storming the U.S. Capitol stunned the world Wednesday, as a pro-Trump mob breached police barricades and sought to force Congress to undo President Donald Trump’s election loss."
     publishedDateTime: 2021-01-07T09:15:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4110144001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4110144001"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "California Governor, State Assembly Support Removing Trump"
+    excerpt: "California Gov. Gavin Newsom says he supports removing Trump from office through impeachment or the 25th Amendment."
+    publishedDateTime: 2021-01-11T22:43:00Z
+    webUrl: "https://www.usnews.com/news/best-states/california/articles/2021-01-11/california-governor-state-assembly-support-removing-trump"
+    ampWebUrl: "https://www.usnews.com/news/best-states/california/articles/2021-01-11/california-governor-state-assembly-support-removing-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/california/articles/2021-01-11/california-governor-state-assembly-support-removing-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "MXOhBSK0/JAi2neuitWHc7vS7qXwcdQyvKsbkEESLAWKyJZ+yKfcwapvWoSroMKGAnSOXIPnLyHi0jPzAvaQa/ENMG16PUjxjpN4YDgm9z0KwpCUr8x5ZAv8SoESJ1/1AbivgndHAKbKDfej2c5nbLs1818WqZoG8egW+i5+y4DgcCTsO6soL7Ytsah0Va+U+KrPHKotRQxpewrp2uZPrjn7j92CKMnsvDoZBA0E0vAbQgFqhkAzioKSQKb/ajalFFtPXySsglTBp/vDQix2jkiViZlgzHL8yp4fCPKkYuK/gnN3Pe+aNEKxaRIVkYzfnLlLyo5EwDmcx4jj5LTnwvrmcNsYv/30EhopWuA+9EjFuVAdafSJMI83d1D4NGj/B6EPwfi/F9CjUY9oK1w4LbV8/yxB/uurrrfVH3Nv1YIatYY8EigZ3jk9NPgYn66SeccfIwMaeWoQtlaax7jp5Uk6yqLqJAfF5SaT9P/x1ST6gGFAgFTgHvs+GN9kW94omAYY2YumCCRDhPnJ59p0Wg==;UHnhYfqql8AMUW5Zs5KAoA=="
 ---

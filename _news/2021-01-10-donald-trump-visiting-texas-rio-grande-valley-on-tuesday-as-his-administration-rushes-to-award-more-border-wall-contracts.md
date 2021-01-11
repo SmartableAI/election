@@ -151,20 +151,6 @@ related:
         width: 1024
         height: 642
         isCached: true
-  - title: "Gab Benefits From Twitter-less Trump, Parler Removal"
-    excerpt: "Social network Gab is benefitting from the suspension of several Twitter accounts -- including Donald Trump's -- and the taking offline of rival Parler, its CEO said Monday. Between 600,000 and 700,000 internet users are registering on the platform every day,"
-    publishedDateTime: 2021-01-11T20:11:00Z
-    webUrl: "https://www.ibtimes.com/gab-benefits-twitter-less-trump-parler-removal-3119231"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/11/this-illustration-picture-shows-social-media-application-logo.jpg"
-        width: 1024
-        height: 757
-        isCached: true
 
 secured: "3pBJQAz85Yz7ZFDaZ126Xq+IOUYLjpDopQFdhz/pDbd+a0hJiD8vUlv+E3yKabNQdqq8JtWmgM7N9y7AKuth8+5VPJ9U4UjpUiexxGL6oJ6A9QLnB544GDMNOHuvmQIQ5k4XgNnwDD284u3KSxAiMPWnCLUJSdeTeP9/m09EyHb5JOfKcfr4yhg5bBama2g6kTSMdsTdxb1HTsJ653olSoVUxWDG0GewhAYbjZZCqCTMexavB0gkBuLWVTY4j+fw4izsTAQer3ZucGHWI67GXQM5GwBDUXOlc2W1hLvh708ijnsdtftUN1MVxrRWIa+6jE5Jxd7ToU2eWCb8UXJOjv9QAMhzPmgONrOUcIBnggo=;q1EqcRuth30qRKLHnmu3Eg=="
 ---

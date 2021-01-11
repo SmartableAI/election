@@ -2,13 +2,13 @@
 category: news
 title: "Democrats to pressure Pence to remove Trump using 25th amendment – live updates"
 excerpt: "Pelosi faces Republican opposition to action over president’s incitement of assault on Capitol"
-publishedDateTime: 2021-01-11T13:23:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates?page=with:block-5ffc6c9a8f087f696cb37894"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates?page=with:block-5ffc6c9a8f087f696cb37894"
+publishedDateTime: 2021-01-11T13:08:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates?page=with:block-5ffc693c8f08ef644fc2daf3"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates?page=with:block-5ffc693c8f08ef644fc2daf3"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
 type: article
-quality: 116
+quality: 136
 heat: -1
 published: false
 
@@ -23,6 +23,12 @@ provider:
 topics:
   - Election
   - Mike Pence
+
+images:
+  - url: "https://i.guim.co.uk/img/media/970fc3375a54f756de10675dd769056dbd02b8b6/0_225_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=664c509acfbf805c4d14acaf02b49ad1"
+    width: 600
+    height: 360
+    isCached: true
 
 related:
   - title: "Trump-Biden transition live updates: Pence told Trump he doesn't have power to reverse election"
@@ -1620,6 +1626,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546897694&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH06088"
         width: 817
         height: 545
+        isCached: true
+  - title: "Republicans block House resolution calling on Pence to remove Trump over Capitol riot"
+    excerpt: "Democrats fail to pass a resolution calling on Pence to use the 25th Amendment to remove Trump from office and introduce an article of impeachment."
+    publishedDateTime: 2021-01-11T20:32:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-11/republicans-block-house-resolution-to-call-on-pence-to-remove-trump-over-capitol-riot"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-11/republicans-block-house-resolution-to-call-on-pence-to-remove-trump-over-capitol-riot?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-11/republicans-block-house-resolution-to-call-on-pence-to-remove-trump-over-capitol-riot?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 133
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/8cf91c0/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb9%2Fb1%2Fad843c72496cae27c1f917da5e91%2Fla-photos-1staff-685947-pol-capitol-feature-kkn-39205.JPG"
+        width: 320
+        height: 209
         isCached: true
   - title: "Trump-Biden transition live updates: 'An absurdity': Chris Christie on Trump and allies' efforts to overturn election"
     excerpt: "Former New Jersey governor and ABC News political contributor Chris Christie, criticized Donald Trump and his allies' efforts to overturn President-elect Joe Biden's ele"
@@ -3261,6 +3283,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Democrats' Push to Impeach Donald Trump Puts Joe Biden in a Bind"
+    excerpt: "Privately, some Democratic aides and operatives fearful trying to push Trump out of office rather than letting him serve out the final few days of his term could backfire politically and create an unw"
+    publishedDateTime: 2021-01-11T21:31:00Z
+    webUrl: "https://time.com/5928178/democrats-impeachment-donald-trump-joe-biden/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 120
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/01/Capitol_Trump_Impeachment_022.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Congress overrides a Trump veto for the first time with Senate vote on defense bill"
     excerpt: "The Senate action follows a House vote earlier this week, and the defense bill now becomes law despite the president’s objections."
     publishedDateTime: 2021-01-02T00:35:00Z
@@ -3859,7 +3895,7 @@ related:
   - title: "Donald Trump has not invoked the Insurrection Act to hold on to power"
     excerpt: "A screenshot of a social media post from an account with the handle @TeamTrumpNews has falsely alleged that the U.S. president has invoked a 200-year-old act to deploy the military and remain in power."
     publishedDateTime: 2021-01-11T20:05:00Z
-    webUrl: "https://www.reuters.com/article/uk-fact-check-trump-has-not-invoked-insu/donald-trump-has-not-invoked-the-insurrection-act-to-hold-on-to-power-idUSKBN29G2H7"
+    webUrl: "https://www.reuters.com/article/uk-fact-check-trump-has-not-invoked-insu/fact-check-donald-trump-has-not-invoked-the-insurrection-act-to-hold-on-to-power-idUSKBN29G2H7"
     type: article
     provider:
       name: Reuters
@@ -4657,6 +4693,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "State Department Website Mistakenly Announces End of Trump Presidency"
+    excerpt: "Secretary of State Mike Pompeo has ordered staff to investigate mysterious web postings announcing the end of Trump's term."
+    publishedDateTime: 2021-01-11T22:25:00Z
+    webUrl: "https://www.ibtimes.com/state-department-website-mistakenly-announces-end-trump-presidency-3119307"
+    ampWebUrl: "https://www.ibtimes.com/state-department-website-mistakenly-announces-end-trump-presidency-3119307?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/state-department-website-mistakenly-announces-end-trump-presidency-3119307?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/11/us-president-donald-trump-faces-a-possible-fast.jpg"
+        width: 1024
+        height: 711
+        isCached: true
   - title: "Trump in phone call pleads with Georgia secretary of state to ‘find’ votes to overturn Joe Biden’s win"
     excerpt: "President Donald Trump pleaded with Georgia’s election chief to overturn Joe Biden’s win there, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."
     publishedDateTime: 2021-01-03T19:54:00Z
@@ -5103,6 +5155,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "ofoDgEo2Crvs7lGwpTxcd9/vPQjwjrxbbO8sxO/gfJE4cngeWYGNJA5UhjxI8cYGLSddxtlADSTkYIb4paS8zzmfUTyIcuvhsjxfS8Hish8dO17qA4Qg6GVwRVOj4pdcMFjUGsblNQUATX5kh7mQeNgbHS8YHksiiayuUHPdyT8ex8+6iITCsA5J6zxTYiWw5dEES7l0c8h50k1GfCv/vuFRX6USKwUSZ3HyShQMRmItE78lHmR4nyCvop2Twp3Lru73bLauHPTY8u23OyYz9GBs4OtKSnhkcpJR5/nMqolarIwTdjiUcOAelxj9vR86k202ToNbmPP6gItPlOd32zQ17/gTd5+6LIxSa7wkX2itqbbGBLcifSOdKkKQ7vhNAuSz7RIX+oMmKYw5cRAtUE5SmgbFJdWVMv8K4taQE+GfFJZTs5FvQLpVd7KwIBPnB6qTq7aSLzLbkSD9MSlk7FDljbN5ZS+67wRCmEMmnMvg8vaf+WW3enJNZxpFO9geUgU5N+CYATM7ojer8nVGuw==;6CEliFuWev88Xb3VI05yEA=="
+secured: "gxB2F/x5as6Q3VuhaBP5wvKYIiEEHytKZplaWNxtBfkI0U36dQf+h0ZSI35JzG2lKq2yalQxsFA8RCTOpbt93FO1pK4Zfg/fSJIKS1J+947kyLUghSu51J2W6vHYbCTfIvcZHgsamjZBCP0Ks0C1grvHwYUhAvcRfyj/9aicaQtnQfgx/nwVm7CduOQyNw1tyl2a02woMVf67hU/T7T9np+MsEHIqtuBSiwz4fjcLJAbT6avCgYl6K1nJZJnr3uc84NDnj7mPbKoamzP9ejlGrXYt/aIBS/RRj7ngCz9X5nDtk+QsDDKpfbMq2w+iaEpc6Ppa80B90fgdE0JPlIhdIzjgYdWKDIRGCg70w6Z3+Q=;mYltgOcn/rKDuVAWP1jguA=="
 ---
 

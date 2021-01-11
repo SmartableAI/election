@@ -1327,6 +1327,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The House can impeach Donald Trump, but it can't stop him from fundraising in the future"
+    excerpt: "House Democrats on Monday pushed ahead with their effort to have President Donald Trump impeached, convicted in the Senate and disqualified from ever holding federal office again over last week's siege on the US Capitol by a pro-Trump mob.\n    \n"
+    publishedDateTime: 2021-01-11T21:27:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6LqtPe7rb5g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/trump-impeachment-fundraising/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/trump-impeachment-fundraising/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210111002752-donald-trump-0104-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence Said to Have Told Trump He Lacks Power to Change Election Result"
     excerpt: "Vice President Mike Pence has been under public and private pressure from President Trump to stop Congress from ratifying Joseph R. Biden Jr.’s Electoral College victory.Credit...Nicole Craine for The New York Times By Maggie Haberman and Annie Karni ..."
     publishedDateTime: 2021-01-06T00:36:00Z
@@ -2558,6 +2574,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/11/us/politics/11transition-briefing-house-sub/11transition-briefing-house-sub-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Newsom, California Assembly support Trump removal from office"
+    excerpt: "Mayes said this week that his former party must be held to account for its leader's direct role in the insurrection."
+    publishedDateTime: 2021-01-11T22:32:00Z
+    webUrl: "https://www.politico.com/states/california/story/2021/01/11/newsom-california-assembly-support-trump-removal-from-office-1355062"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/8f/18/8ce266a0448dbab810fd61562c7a/210111-chad-mayes-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "How Congress and coronavirus could quash Trump's Electoral College gambit"
     excerpt: "Leadership has a potent arsenal to combat efforts to turn the electoral vote counting session on Jan. 6 into a spectacle — if they deploy it."
