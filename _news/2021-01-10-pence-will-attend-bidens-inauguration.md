@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 1700
+heat: 1720
 published: true
 
 provider:
@@ -1144,6 +1144,20 @@ related:
     excerpt: "Kathy Castor (D-Fla.) is planning to take the sweeping set of recommendations issued by the Select Committee on the Climate Crisis last year and push her colleagues to put it into law under President-elect Joe Biden."
     publishedDateTime: 2021-01-12T15:00:00Z
     webUrl: "https://www.politico.com/newsletters/morning-energy/2021/01/12/castor-talks-climate-panel-under-biden-792711"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "Progressives to Biden: Don’t forget Supreme Court reform"
+    excerpt: "When President-elect JOE BIDEN first floated the idea of creating a bipartisan commission to advise on how to reform the Supreme Court, progressives knocked it as yet another panel that would stymie actual change."
+    publishedDateTime: 2021-01-12T22:50:00Z
+    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/01/12/progressives-to-biden-dont-forget-supreme-court-reform-792734"
     type: article
     provider:
       name: Politico

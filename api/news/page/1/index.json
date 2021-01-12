@@ -2,6 +2,175 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-12-mcconnell-believes-impeachment-push-will-help-rid-trump-from-the-gop-but-has-not-said-if-he-will-vote-to-convict.md",
+      "title": "McConnell believes impeachment push will help rid Trump from the GOP, but has not said if he will vote to convict",
+      "excerpt": "Senate Majority Leader Mitch McConnell has told associates that he thinks President Donald Trump committed impeachable offenses when he incited a deadly mob to attack the US Capitol last week and that he's \"pleased\" Democrats are working to impeach the President, The New York Times reported Tuesday.\n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rHZZFgzp_XU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rHZZFgzp_XU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191210122028-01-mcconnell-trump-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/12/politics/mcconnell-impeachment-trump-capitol-riot/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/mcconnell-impeachment-trump-capitol-riot/index.html",
+      "publishedDateTime": "2021-01-12T14:54:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-trump-says-i-kept-my-promises-as-he-marks-450-miles-of-border-wall-amid-riot-fallout-in-dc.md",
+      "title": "Trump says 'I kept my promises' as he marks 450 miles of border wall, amid riot fallout in DC",
+      "excerpt": "President Trump on Tuesday declared “I kept my promises” on his pledge to build a wall at the southern border, as he marked 450 miles of construction -- as he also tackled fallout from the riot at the Capitol last week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JWEynQUNHa0/trump-promises-450-miles-border-wall",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JWEynQUNHa0/trump-promises-450-miles-border-wall",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21012723647436.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-promises-450-miles-border-wall.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-promises-450-miles-border-wall.amp",
+      "publishedDateTime": "2021-01-12T14:21:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-trump-defends-riot-remarks-as-totally-appropriate-before-house-vote-on-25th-amendment-resolution.md",
+      "title": "Trump defends riot remarks as 'totally appropriate' before House vote on 25th Amendment resolution",
+      "excerpt": "\"Everybody to a 'T' thought it was totally appropriate,\" Trump said as lawmakers prepared a resolution calling for his removal from office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/congress/house-set-vote-resolution-calling-pence-invoke-25th-amendment-n1253873",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/house-set-vote-resolution-calling-pence-invoke-25th-amendment-n1253873",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_02/3441497/210112-donald-trump-jm-1043_14f8a0fe6ee3094b4256b33575e347dd.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253873",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253873",
+      "publishedDateTime": "2021-01-12T13:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-miranda-devine-dems-hatred-for-trump-supporters-is-un-american.md",
       "title": "Miranda Devine: Dems 'hatred' for Trump supporters is 'un-American'",
       "excerpt": "Fox News contributor Miranda Devine said Tuesday the rhetoric used against President Trump's supporters after the Capitol riots are dividing the country further. ",
@@ -1035,7 +1204,7 @@
       "originalUrl": "https://www.latimes.com/politics/story/2021-01-11/that-time-kamala-harris-flew-on-trumps-private-plane-and-more-from-new-book",
       "featuredContent": null,
       "highlight": null,
-      "heat": 914,
+      "heat": 934,
       "tags": null,
       "images": [
         {
@@ -1184,170 +1353,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-angela-merkel-rips-twitters-problematic-trump-ban.md",
-      "title": "Angela Merkel rips Twitter's 'problematic' Trump ban",
-      "excerpt": "German Chancellor Angela Merkel considers President Donald Trump's eviction from Twitter by the company \"problematic,\" her spokesman said Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lW-T3bm5Wzc/angela-merkel-rips-twitters-problematic-trump-ban",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lW-T3bm5Wzc/angela-merkel-rips-twitters-problematic-trump-ban",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP20365599203324.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/angela-merkel-rips-twitters-problematic-trump-ban.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/angela-merkel-rips-twitters-problematic-trump-ban.amp",
-      "publishedDateTime": "2021-01-11T11:33:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-cuomo-de-blasio-are-banking-on-a-bailout-from-biden-while-lockdowns-are-in-effect-gasparino.md",
-      "title": "Cuomo, De Blasio are 'banking on a bailout from Biden' while lockdowns are in effect: Gasparino",
-      "excerpt": "New York Gov. Andrew Cuomo and New York City Mayor Bill de Blasio are prolonging the shutdown of New York because they are expecting a bailout from the incoming Biden administration and the Democrat-controlled Congress.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oAywkfxC_k8/cuomo-de-blasio-banking-bailout-biden-while-lockdowns-gasparino",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oAywkfxC_k8/cuomo-de-blasio-banking-bailout-biden-while-lockdowns-gasparino",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-de-blasio-banking-bailout-biden-while-lockdowns-gasparino.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-de-blasio-banking-bailout-biden-while-lockdowns-gasparino.amp",
-      "publishedDateTime": "2021-01-11T10:53:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-house-democrats-move-to-impeach-trump-for-incitement-of-insurrection-live.md",
-      "title": "House Democrats move to impeach Trump for 'incitement of insurrection' – live",
-      "excerpt": "House resolution says Donald Trump ‘engaged in high crimes and misdemeanors by willfully inciting violence against the government’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/6d5c7db8fae6479736bf7df99a1b2e6e9471ae1f/0_0_3708_2472/master/3708.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dcf2b68ea017aa4952150faf20c5de4d",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates",
-      "publishedDateTime": "2021-01-11T10:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

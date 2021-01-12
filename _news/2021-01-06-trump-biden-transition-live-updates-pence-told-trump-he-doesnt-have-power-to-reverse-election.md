@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-resul
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
 type: article
 quality: 168
-heat: 7208
+heat: 7228
 published: true
 
 provider:
@@ -1739,6 +1739,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/8cf91c0/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb9%2Fb1%2Fad843c72496cae27c1f917da5e91%2Fla-photos-1staff-685947-pol-capitol-feature-kkn-39205.JPG"
         width: 320
         height: 209
+        isCached: true
+  - title: "Trump-Biden transition live updates: Trump tells Dems 'be careful what you wish for'"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in eight days. The first confirmation hearing for one of Biden's Cabinet picks is officially on the Senate schedule for the day before his inauguration -- which is also the earliest day the Senate is likely to accept an impeachment article against Trump from the House."
+    publishedDateTime: 2021-01-12T22:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-transition-trump-biden/?id=75166132"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden/?id=75166132"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden/?id=75166132"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
+    images:
+      - url: "https://s.abcnews.com/images/Politics/liz-cheney-file-ap-jef-210112_1610491720667_hpMain_2_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Trump-Biden transition live updates: 'An absurdity': Chris Christie on Trump and allies' efforts to overturn election"
     excerpt: "Former New Jersey governor and ABC News political contributor Chris Christie, criticized Donald Trump and his allies' efforts to overturn President-elect Joe Biden's ele"

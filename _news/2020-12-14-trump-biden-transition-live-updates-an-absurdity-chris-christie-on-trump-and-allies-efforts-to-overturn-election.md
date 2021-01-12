@@ -1755,6 +1755,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Trump-Biden transition live updates: Trump tells Dems 'be careful what you wish for'"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in eight days. The first confirmation hearing for one of Biden's Cabinet picks is officially on the Senate schedule for the day before his inauguration -- which is also the earliest day the Senate is likely to accept an impeachment article against Trump from the House."
+    publishedDateTime: 2021-01-12T22:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-transition-trump-biden/?id=75166132"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden/?id=75166132"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden/?id=75166132"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
+    images:
+      - url: "https://s.abcnews.com/images/Politics/liz-cheney-file-ap-jef-210112_1610491720667_hpMain_2_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Democratic lawmakers call for Pence to invoke 25th Amendment, remove Trump from office"
     excerpt: "Democratic lawmakers called on Vice President Pence to invoke the 25th Amendment on Wednesday and remove President Trump from office, blaming the president for inciting the rioters that violently breached the Capitol building."
     publishedDateTime: 2021-01-06T22:01:00Z

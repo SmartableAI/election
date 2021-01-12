@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment-lawyers-dershowitz-giuliani/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210110181004-01-nancy-pelosi-announcement-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "First GOP House member says he supports impeaching Trump"
+    excerpt: "Republican Rep. John Katko of New York said in a statement Tuesday afternoon he will vote to impeach President Donald Trump, becoming the first Republican to sign on to the Democrats' effort to hold the President accountable for his role in spurring on his supporters in last week's storming of the US"
+    publishedDateTime: 2021-01-12T22:45:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w9ZFSwy0thY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/gop-trump-impeachment-house-congress-first-katko/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/gop-trump-impeachment-house-congress-first-katko/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190104203520-john-katko-ac-intv-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

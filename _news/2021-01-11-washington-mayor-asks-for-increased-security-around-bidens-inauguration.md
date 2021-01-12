@@ -539,6 +539,20 @@ related:
         width: 800
         height: 544
         isCached: true
+  - title: "Security to take center stage at Biden inauguration after Capitol riot"
+    excerpt: "U.S. law enforcement agencies securing Joe Biden's Jan. 20 presidential inauguration swearing-in ceremony dramatically scaled up their budgets following the Capitol riot last week, according to a person involved with the planning."
+    publishedDateTime: 2021-01-12T21:33:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN29H29Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547513638&r=LYNXMPEH0B16H&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "'It is time': New York law firm leaders urge Congress to certify Biden win"
     excerpt: "The leaders of over a dozen prominent New York law firms called on Congress Monday to certify President-elect Joe Biden's Electoral College win, signing an open letter alongside more than 150 other business executives."
     publishedDateTime: 2021-01-05T04:58:00Z

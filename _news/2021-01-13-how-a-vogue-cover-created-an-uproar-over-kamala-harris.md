@@ -2,26 +2,30 @@
 category: news
 title: "How a Vogue cover created an uproar over Kamala Harris"
 excerpt: "Though it might seem, in light of all that is going on in Washington, D.C., the least of the matter, on Sunday a leaked shot of Vice President-elect’s Kamala Harris’ Vogue cover set off an unexpected firestorm."
-publishedDateTime: 2021-01-12T19:03:00Z
-originalUrl: "https://www.baltimoresun.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
-webUrl: "https://www.baltimoresun.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
-ampWebUrl: "https://www.baltimoresun.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+publishedDateTime: 2021-01-12T16:10:00Z
+originalUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
+webUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
+ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
+  - url: "https://www.chicagotribune.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -156,9 +160,9 @@ related:
         height: 360
         isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
-    excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."
+    excerpt: "US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect Kamala Harris. The image shows Ms Harris wearing an informal outfit including jeans and a pair of Converse trainers."
     publishedDateTime: 2021-01-12T15:52:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55631499?at_medium=custom7&at_custom2=twitter&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom4=31791E3E-54EE-11EB-8DC3-69004844363C"
+    webUrl: "https://www.bbc.com/news/world-us-canada-55631499"
     ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55631499"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55631499"
     type: article
@@ -167,7 +171,7 @@ related:
       domain: bbc.com
     quality: 124
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C2FA/production/_116441994_hi032741730-1.jpg"
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/119F2/production/_116487127_kam_win_reu.jpg"
         width: 1024
         height: 576
         isCached: true
@@ -465,6 +469,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why Vogue's Anna Wintour is Defending That ‘Embarrassing ‘ Kamala Harris Cover"
+    excerpt: "The criticism of the cover runs the gamut from way the photograph is lit, which some say washes out her features, to the overall styling that others say fall far short of capturing the magnitude and gravity of the country’s first Black woman to be elected vice president."
+    publishedDateTime: 2021-01-12T18:37:00Z
+    webUrl: "https://www.nbcnewyork.com/lx/why-vogues-anna-wintour-is-defending-that-embarrassing-kamala-harris-cover/2826909/"
+    ampWebUrl: "https://www.nbcnewyork.com/lx/why-vogues-anna-wintour-is-defending-that-embarrassing-kamala-harris-cover/2826909/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/lx/why-vogues-anna-wintour-is-defending-that-embarrassing-kamala-harris-cover/2826909/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 71
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/kamala-harris-vogue.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "In a 50-50 Senate, Kamala Harris can sign off on $2,000 stimulus checks and more"
     excerpt: "Kamala Harris suddenly has been handed all kinds of power to get people $2,000 stimulus checks, provide money to fight climate change and win confirmation of President-elect Joe Biden’s nominees. Because Georgia Democratic Senate candidates Ralph Warnock and Jon Ossoff won Tuesday,"
     publishedDateTime: 2021-01-07T13:00:00Z
@@ -629,6 +649,6 @@ related:
         height: 630
         isCached: true
 
-secured: "EP/EPeBr06xnQNrB1doKxW+Fnn0BIrdTllp7gzxJe7kLxfSAJ+RcWDK/nfBhYIQgqNlaxT0cDSNVxg8UGIRbA4S6aDqObURtKE/eviwqK/QwcfjZKHl4++QvjEzNpTHCHwcHgwhlnWeF58BSz2oknWKW7Ow0oMhWuSE8JzFKMjMTYtwKmZj8/E2W6u+XXR+dpGRr0H+grrAm5DB0R1vlCemA0ui6vMSm5oX5txDaYOnj6Cn9oUOzOsJEDiNjJGuaR5qo1+AOnu7Qlow0mv3QZytywDPuaq2j5rhduby0yjIt0+iPkyYalMJXHrcIICxqq7M4szD3hKOLcsazPZRTw7lhUUsSCP3dYOgvrpez/l8=;Jm5dlSGIgEs3v92SMIjYhw=="
+secured: "tv19xgvpm/Bl/SYijtuBF/+PxCe5EMrVhcamnkeoaInsTA1ymIU9Qtlqg19x91qoEliNQHLu/aSvDE3SNtCPXGqFxEyfdMGRCWRD5d1iyxsanA7+jgfVLkDI9qhSZ4Zf9fXkTVGW385OB7ia8FwfkUXn8J3k2L36cbfrzbn7pbR2UxNxns2emR7nEFF8fnlg5rPWM/o8vuk+kX4QqmzYuKrq8Ky8rvSMT5yQNzLv2v/Of8gmNjSE5pQujwIqa6boRc2vLLDxmstn+nFHbPPyc+nu7Nk2JEewpgZXj8OVCT/HOJbpzOXb9L6rqsk8+CJnvRGRh0sl77qv26QEZ6Ff+Q1LU4tTVxgY6H7WW1vhryU=;nA1SRB9aPzO+VX9kAQW93g=="
 ---
 

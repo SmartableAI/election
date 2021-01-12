@@ -173,6 +173,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "McConnell believes Trump committed impeachable offenses, supports Democrats' impeachment efforts: Report"
+    excerpt: "Senate Majority Leader Mitch McConnell reportedly believes that President Trump committed impeachable offenses and supports Democrats’ move to impeach him for a second time after last week’s Capitol riot."
+    publishedDateTime: 2021-01-12T22:19:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h7YpZxMf_2w/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "AOC says ‘our main priority is to ensure the removal of Donald Trump’"
     excerpt: "Cortez on Sunday called for articles of impeachment against President Trump to be introduced on the House floor following the Capitol riot, insisting he represents a"
     publishedDateTime: 2021-01-10T16:36:00Z
@@ -204,6 +220,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/AFP_1NS4BC.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "McConnell believes Trump committed impeachable offenses, supports Democrats' impeachment efforts: report"
+    excerpt: "Senate Majority Leader Mitch McConnell reportedly believes that President Trump committed impeachable offenses and supports Democrats’ move to impeach him for a second time after last week’s Capitol riot."
+    publishedDateTime: 2021-01-12T22:25:00Z
+    webUrl: "https://www.foxnews.com/politics/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/927d176b-21c3-43cd-93dd-13312fed5937/dea40182-fa8f-47b1-9184-fc98ec627628/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "ca+SKkFoRoNLAKvMPp70eiWbWyTS0Q0F6mb7K0s2Cyb5z5++G+7EOTUNwn+SyGLCATbw6MBbL1l1ZzC0Bj60dlJVSd/qljgLVlW/tekcUcycjpfj1o3eugJMAfU1O6cxmrrOL9qVgw7TIQ7DxRSBiwgz6a8HlDueWcQPBQBTovECCvuO/Op9H9vvEdy7wewHCV/8eGv8gm8WfGjoSABh92dlCMc9tNcalMgQzzd7/gaxUqKTcMzUVdEEML6hZOxkOlmNJq4Hy0Ima2xXvSVudFZ9ep/g7zPoMw2u0eSe9t8RmIj5K7YoNmE+heHbxyxWEhvlqkDYa7Hldam05qrHNZYYxhLoFnmks0yQh1lw00E=;qR22pUiWjOiYSRbK9SZBIg=="

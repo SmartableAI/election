@@ -143,6 +143,20 @@ related:
         width: 1024
         height: 661
         isCached: true
+  - title: "Trump's Secret Service detail could be subpoenaed to testify against him in criminal proceedings and former agents are stressed about it"
+    excerpt: "President Donald Trump's security detail could face subpoenas in future legal proceedings. Former agents worry that will make him harder to protect."
+    publishedDateTime: 2021-01-12T21:54:00Z
+    webUrl: "https://www.businessinsider.com/secret-service-agents-testify-trump-criminal-courts-nixon-clinton-lewinsky-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/5ffe06cefe7e140019f7e88b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Twitter Bans President Donald Trump's Account Permanently After Shopify Terminated POTUS-Affiliated Stores"
     excerpt: "Twitter has decided to permanently ban Donald Trump from its platform \"due to the risk of further incitement of violence.\""
     publishedDateTime: 2021-01-09T03:10:00Z

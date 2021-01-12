@@ -768,6 +768,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Freshman GOP congressman says Trump should resign, signals support for impeachment"
+    excerpt: "Newly elected Rep. Peter Meijer, R-Mich., said Monday that the president should resign and that he is \"strongly considering\" voting to impeach President Trump after the Capitol Hill riot last week. "
+    publishedDateTime: 2021-01-12T22:47:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-VGZiQI560Q/freshman-gop-congressman-says-trump-should-resign-signals-support-for-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/freshman-gop-congressman-says-trump-should-resign-signals-support-for-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/freshman-gop-congressman-says-trump-should-resign-signals-support-for-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6b0de1b-ee3f-4142-ba3f-e181273d00f5/25f8bb99-dbfd-426e-a47c-92c025e2296d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Sen. Tim Scott 'grateful' for Trump, but opposes GOP colleagues' electoral vote challenge"
     excerpt: "Sen. Tim Scott, R-S.C., thanked President Trump for his service and accomplishments, but came out against plans from some of his Republican colleagues to challenge electoral votes from several states when they are counted at Wednesday's joint session of Congress."
     publishedDateTime: 2021-01-05T21:46:59Z

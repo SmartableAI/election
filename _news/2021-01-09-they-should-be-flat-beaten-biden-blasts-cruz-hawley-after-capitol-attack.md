@@ -1168,6 +1168,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Progressives to Biden: Don’t forget Supreme Court reform"
+    excerpt: "When President-elect JOE BIDEN first floated the idea of creating a bipartisan commission to advise on how to reform the Supreme Court, progressives knocked it as yet another panel that would stymie actual change."
+    publishedDateTime: 2021-01-12T22:50:00Z
+    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/01/12/progressives-to-biden-dont-forget-supreme-court-reform-792734"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Biden eyeing ways to prevent impeachment from derailing Senate confirmations"
     excerpt: "A Trump trial in the early days of the new administration would throw a wrench into the battle to confirm nominees."
     publishedDateTime: 2021-01-11T21:46:00Z

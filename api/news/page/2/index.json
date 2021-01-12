@@ -2,6 +2,170 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-11-angela-merkel-rips-twitters-problematic-trump-ban.md",
+      "title": "Angela Merkel rips Twitter's 'problematic' Trump ban",
+      "excerpt": "German Chancellor Angela Merkel considers President Donald Trump's eviction from Twitter by the company \"problematic,\" her spokesman said Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lW-T3bm5Wzc/angela-merkel-rips-twitters-problematic-trump-ban",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lW-T3bm5Wzc/angela-merkel-rips-twitters-problematic-trump-ban",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP20365599203324.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/angela-merkel-rips-twitters-problematic-trump-ban.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/angela-merkel-rips-twitters-problematic-trump-ban.amp",
+      "publishedDateTime": "2021-01-11T11:33:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-cuomo-de-blasio-are-banking-on-a-bailout-from-biden-while-lockdowns-are-in-effect-gasparino.md",
+      "title": "Cuomo, De Blasio are 'banking on a bailout from Biden' while lockdowns are in effect: Gasparino",
+      "excerpt": "New York Gov. Andrew Cuomo and New York City Mayor Bill de Blasio are prolonging the shutdown of New York because they are expecting a bailout from the incoming Biden administration and the Democrat-controlled Congress.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oAywkfxC_k8/cuomo-de-blasio-banking-bailout-biden-while-lockdowns-gasparino",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oAywkfxC_k8/cuomo-de-blasio-banking-bailout-biden-while-lockdowns-gasparino",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-de-blasio-banking-bailout-biden-while-lockdowns-gasparino.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-de-blasio-banking-bailout-biden-while-lockdowns-gasparino.amp",
+      "publishedDateTime": "2021-01-11T10:53:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-house-democrats-move-to-impeach-trump-for-incitement-of-insurrection-live.md",
+      "title": "House Democrats move to impeach Trump for 'incitement of insurrection' – live",
+      "excerpt": "House resolution says Donald Trump ‘engaged in high crimes and misdemeanors by willfully inciting violence against the government’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/6d5c7db8fae6479736bf7df99a1b2e6e9471ae1f/0_0_3708_2472/master/3708.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dcf2b68ea017aa4952150faf20c5de4d",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates",
+      "publishedDateTime": "2021-01-11T10:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-washington-monument-closes-through-bidens-inauguration-due-to-credible-threats.md",
       "title": "Washington monument closes through Biden's inauguration due to 'credible threats'",
       "excerpt": "The National Park Service said Monday it is suspending tours of the Washington Monument until Jan. 24 or longer due to \"credible threats\" from groups involved in the violence at the U.S. Capitol on Jan. 6.",
@@ -126,7 +290,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 408,
+      "heat": 448,
       "tags": null,
       "images": [
         {
@@ -1017,62 +1181,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-10-trump-to-highlight-border-wall-topping-400-miles-with-texas-visit-during-last-full-week-in-office.md",
-      "title": "Trump to highlight border wall topping 400 miles with Texas visit during last full week in office",
-      "excerpt": "With just over a week remaining in his term, President Trump is expected to celebrate progress on one of his featured campaign promises: a wall along the U.S.-Mexico border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H3WE1u5DezY/trump-border-wall-texas-visit-last-full-week-in-office",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H3WE1u5DezY/trump-border-wall-texas-visit-last-full-week-in-office",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cb36dbe-eada-4977-abd7-6669263e1345/a159a8e6-35c5-4f32-aa31-c8e2af9ce0ae/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-border-wall-texas-visit-last-full-week-in-office.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-border-wall-texas-visit-last-full-week-in-office.amp",
-      "publishedDateTime": "2021-01-10T11:38:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-11-reps-paul-gosar-andy-biggs-credited-in-video-with-organizing-trump-crowd-in-dc-on-day-of-riot.md",
       "title": "Reps. Paul Gosar, Andy Biggs credited in video with organizing Trump crowd in DC on day of riot",
       "excerpt": "The man who has led the \"Stop the Steal\" protests nationally singles out Reps. Paul Gosar and Andy Biggs for helping make Washington gathering happen.",
@@ -1229,119 +1337,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-trump-speech-before-capitol-riot-not-enough-for-impeachment-charges-turley.md",
-      "title": "Trump speech before Capitol riot not enough for impeachment charges: Turley",
-      "excerpt": "Democrats are moving to remove President Trump from office after Wednesday's U.S. Capitol riot, but George Washington University law professor Jonathan Turley said he doesn’t believe Trump committed an impeachable offense.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wkUgWCCMLvk/trump-speech-capitol-riot-impeachment-push-turley",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wkUgWCCMLvk/trump-speech-capitol-riot-impeachment-push-turley",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 213,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006789526874-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-speech-capitol-riot-impeachment-push-turley.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-speech-capitol-riot-impeachment-push-turley.amp",
-      "publishedDateTime": "2021-01-10T08:35:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-vogues-kamala-harris-cover-sparks-social-media-frenzy-what-a-mess-up.md",
-      "title": "Vogue's Kamala Harris cover sparks social-media frenzy: 'What a mess up'",
-      "excerpt": "The cover of February's upcoming issue of Vogue, which features Vice-President-elect Kamala Harris, has been widely criticized on social media.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/vogues-kamala-harris-cover-sparks-social-media-frenzy-what-a-mess-up",
-      "originalUrl": "https://www.foxnews.com/media/vogues-kamala-harris-cover-sparks-social-media-frenzy-what-a-mess-up",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2265dc7-c2de-4b08-9cea-86b4ebe64632/db6daa92-b888-49ae-a844-b925a3f30557/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/vogues-kamala-harris-cover-sparks-social-media-frenzy-what-a-mess-up.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/vogues-kamala-harris-cover-sparks-social-media-frenzy-what-a-mess-up.amp",
-      "publishedDateTime": "2021-01-10T03:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Republican Voice"
       ]
     }

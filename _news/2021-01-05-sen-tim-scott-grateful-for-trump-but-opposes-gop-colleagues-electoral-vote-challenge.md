@@ -783,6 +783,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Freshman GOP congressman says Trump should resign, signals support for impeachment"
+    excerpt: "Newly elected Rep. Peter Meijer, R-Mich., said Monday that the president should resign and that he is \"strongly considering\" voting to impeach President Trump after the Capitol Hill riot last week. "
+    publishedDateTime: 2021-01-12T22:47:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-VGZiQI560Q/freshman-gop-congressman-says-trump-should-resign-signals-support-for-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/freshman-gop-congressman-says-trump-should-resign-signals-support-for-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/freshman-gop-congressman-says-trump-should-resign-signals-support-for-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6b0de1b-ee3f-4142-ba3f-e181273d00f5/25f8bb99-dbfd-426e-a47c-92c025e2296d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump promises 'orderly transition' on Jan. 20 after Electoral College results certified"
     excerpt: "President Trump promised an \"orderly transition\" on Jan. 20 after Congress early Thursday certified the Electoral College vote that gave Democrat Joe Biden his presidential victory."
     publishedDateTime: 2021-01-07T13:14:55Z

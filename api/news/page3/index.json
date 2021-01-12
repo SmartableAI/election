@@ -2,6 +2,119 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-10-trump-speech-before-capitol-riot-not-enough-for-impeachment-charges-turley.md",
+      "title": "Trump speech before Capitol riot not enough for impeachment charges: Turley",
+      "excerpt": "Democrats are moving to remove President Trump from office after Wednesday's U.S. Capitol riot, but George Washington University law professor Jonathan Turley said he doesn’t believe Trump committed an impeachable offense.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wkUgWCCMLvk/trump-speech-capitol-riot-impeachment-push-turley",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wkUgWCCMLvk/trump-speech-capitol-riot-impeachment-push-turley",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006789526874-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-speech-capitol-riot-impeachment-push-turley.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-speech-capitol-riot-impeachment-push-turley.amp",
+      "publishedDateTime": "2021-01-10T08:35:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-10-vogues-kamala-harris-cover-sparks-social-media-frenzy-what-a-mess-up.md",
+      "title": "Vogue's Kamala Harris cover sparks social-media frenzy: 'What a mess up'",
+      "excerpt": "The cover of February's upcoming issue of Vogue, which features Vice-President-elect Kamala Harris, has been widely criticized on social media.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/vogues-kamala-harris-cover-sparks-social-media-frenzy-what-a-mess-up",
+      "originalUrl": "https://www.foxnews.com/media/vogues-kamala-harris-cover-sparks-social-media-frenzy-what-a-mess-up",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2265dc7-c2de-4b08-9cea-86b4ebe64632/db6daa92-b888-49ae-a844-b925a3f30557/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/vogues-kamala-harris-cover-sparks-social-media-frenzy-what-a-mess-up.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/vogues-kamala-harris-cover-sparks-social-media-frenzy-what-a-mess-up.amp",
+      "publishedDateTime": "2021-01-10T03:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen.md",
       "title": "Roy Blunt balks at attempt to impeach Trump again: ‘Not going to happen’",
       "excerpt": "Roy Blunt, R-Mo., Friday balked at the idea of a second impeachment of President Trump.",
@@ -230,7 +343,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1700,
+      "heat": 1720,
       "tags": null,
       "images": [
         {
@@ -513,7 +626,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 335,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -1248,118 +1361,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-obama-echoes-biden-remarks-that-police-response-to-capitol-riots-would-have-been-harsher-with-blm.md",
-      "title": "Obama echoes Biden remarks that police response to Capitol riots would have been harsher with BLM",
-      "excerpt": "Former President Barack Obama took to Twitter Friday to address why Civil Rights groups and lawmakers are furious over the vastly different approach law enforcement took to Wednesday’s U.S. Capitol breach compared to last summer’s Black Lives Matter (BLM) protests.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3nJ80-eLKLQ/obama-echoes-biden-suggests-double-standard-in-police-response-to-blm",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3nJ80-eLKLQ/obama-echoes-biden-suggests-double-standard-in-police-response-to-blm",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b32ebf9a-5188-4687-bf40-72a6eee05990/5314d1ba-f3cf-4df9-a735-3bbd2ec83ce7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/obama-echoes-biden-suggests-double-standard-in-police-response-to-blm.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-echoes-biden-suggests-double-standard-in-police-response-to-blm.amp",
-      "publishedDateTime": "2021-01-08T19:25:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis.md",
-      "title": "Biden says Cruz, Hawley part of ‘big lie’ -- while senators claim they are being called Nazis",
-      "excerpt": "President-elect Joe Biden said Friday that Sens. Ted Cruz, R-Texas, and Josh Hawley, R-Mo., should be \"flat beaten\" in their next elections for their part in spreading \"the big lie,\" a term the senators said was an effort to cast them as Nazis. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F_1wZtRHnVg/biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F_1wZtRHnVg/biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/BidenCruz.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis.amp",
-      "publishedDateTime": "2021-01-08T17:15:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/trump-official-merchandise-store
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -126,6 +126,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/twitter-permanently-suspended-president-donald-trumps-account-pictured.jpg"
         width: 1024
         height: 661
+        isCached: true
+  - title: "Trump's Secret Service detail could be subpoenaed to testify against him in criminal proceedings and former agents are stressed about it"
+    excerpt: "President Donald Trump's security detail could face subpoenas in future legal proceedings. Former agents worry that will make him harder to protect."
+    publishedDateTime: 2021-01-12T21:54:00Z
+    webUrl: "https://www.businessinsider.com/secret-service-agents-testify-trump-criminal-courts-nixon-clinton-lewinsky-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/5ffe06cefe7e140019f7e88b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Twitter On Shopify Terminating Donald Trump-Affiliated Stores After Capitol Riot: ‘Too Little, Too Late’"
     excerpt: "Twitter users have mixed opinions on Shopify’s move to terminate all the stores affiliated with Donald Trump on its website."
