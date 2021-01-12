@@ -672,6 +672,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'People can't afford to wait': Biden and allies push for quick confirmations of nominees, citing security threats"
+    excerpt: "President-elect Joe Biden is on course to lag behind his recent predecessors who had Cabinet nominees confirmed on the day of inauguration, causing concern that Biden's administration could be hampered in its early efforts to face immediate security, health and economic challenges.\n    \n"
+    publishedDateTime: 2021-01-12T20:30:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MP1EJIX_9Qc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/biden-confirmation-push/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/biden-confirmation-push/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112133611-biden-national-security-team-1124-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence Welcomes Futile Bid by G.O.P. Lawmakers to Overturn Election"
     excerpt: "Vice President Mike Pence signaled his support as 11 Republican senators and senators-elect said that they would vote to reject President-elect Joseph R. Biden Jr.’s victory."
     publishedDateTime: 2021-01-02T19:00:00Z

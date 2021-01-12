@@ -1200,6 +1200,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-02-former-iran-hostage-urges-biden-to-prioritize-detained-americans.md",
+      "title": "Former Iran hostage urges Biden to prioritize detained Americans",
+      "excerpt": "Princeton scholar Xiyue Wang, who was imprisoned in Iran for nearly four years, has a warning for President-elect Joe Biden about his administration's diplomacy with Iran. He shares his story with Margaret Brennan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/former-iran-hostage-urges-biden-to-prioritize-detained-americans/",
+      "originalUrl": "https://www.cbsnews.com/video/former-iran-hostage-urges-biden-to-prioritize-detained-americans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/02/18ffe988-4b43-450a-ad6e-1d2a0462fd02/thumbnail/1200x630/18a710a3617f148248910156d4d3f7cd/0102-satmo-ushostages-brennan-619011-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-02T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-trump-the-clear-republican-front-runner-in-next-white-house-race.md",
       "title": "Trump the clear Republican 'front-runner' in next White House race",
       "excerpt": "There's more than three years to go until the next Iowa caucuses and New Hampshire presidential primary, but what some considered the first cattle call in the 2024 White House race takes place next week.",
@@ -1253,63 +1305,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-02-federal-judge-throws-out-gohmert-lawsuit-asking-pence-to-interfere-in-electoral-college-count.md",
-      "title": "Federal judge throws out Gohmert lawsuit asking Pence to interfere in Electoral College count ",
-      "excerpt": "A federal judge threw out a lawsuit from Rep. Louie Gohmert of Texas and several Arizona Republicans seeking to force Vice President Mike Pence to help throw the election to President Donald Trump next week when Congress meets to count the Electoral College votes.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c1VHSmd3PS8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/c1VHSmd3PS8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201121005656-louie-gohmert-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/01/politics/gohmert-pence-electoral-college-lawsuit-thrown-out/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/01/politics/gohmert-pence-electoral-college-lawsuit-thrown-out/index.html",
-      "publishedDateTime": "2021-01-01T18:30:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-12-miranda-devine-dems-hatred-for-trump-supporters-is-un-american.md",
+      "title": "Miranda Devine: Dems 'hatred' for Trump supporters is 'un-American'",
+      "excerpt": "Fox News contributor Miranda Devine said Tuesday the rhetoric used against President Trump's supporters after the Capitol riots are dividing the country further. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3MaGrNW6BEI/miranda-devine-dems-hatred-trump-supporters-un-american",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3MaGrNW6BEI/miranda-devine-dems-hatred-trump-supporters-un-american",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/miranda-devine-dems-hatred-trump-supporters-un-american.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/miranda-devine-dems-hatred-trump-supporters-un-american.amp",
+      "publishedDateTime": "2021-01-12T12:10:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-chicago-man-who-threatened-to-kill-democrats-prevent-biden-from-entering-white-house-arrested.md",
+      "title": "Chicago Man Who Threatened to 'Kill' Democrats, Prevent Biden From Entering White House Arrested",
+      "excerpt": "Louis Capriotti, a 45-year-old man from Chicago, made the alleged threats in a voicemail to a representative from New Jersey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958",
+      "originalUrl": "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1704833/joe-biden-louis-capriotti-threat-inauguration.jpg",
+          "width": 2500,
+          "height": 1695,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958?amp=1",
+      "publishedDateTime": "2021-01-12T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-trumps-top-bankers-deutsche-banks-and-signature-cut-future-ties.md",
       "title": "Trump's top bankers Deutsche Banks and Signature cut future ties",
       "excerpt": "In the wake of the deadly riots on Capitol Hill last week, Deutsche Bank and Signature Bank have said they are cutting future ties with President Donald Trump. That could leave the president personally on the hook for millions of dollars when several large loans he has personally guaranteed come due in the next two years.",
@@ -56,6 +164,58 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-president-elect-joe-biden-to-name-gary-gensler-as-us-sec-chair-sources-say.md",
+      "title": "President-elect Joe Biden to name Gary Gensler as U.S. SEC chair, sources say",
+      "excerpt": "Gary Gensler, a top financial regulator under the Obama administration, is expected to be named chair of the U.S. Securities and Exchange Commission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/01/12/president-elect-joe-biden-to-name-gary-gensler-as-us-sec-chair-sources-say-.html",
+      "originalUrl": "https://www.cnbc.com/2021/01/12/president-elect-joe-biden-to-name-gary-gensler-as-us-sec-chair-sources-say-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106823272-1610480084902-gettyimages-175050214-WALL-STREET-REFORMS.jpg?v=1610480100",
+          "width": 3459,
+          "height": 2250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/12/president-elect-joe-biden-to-name-gary-gensler-as-us-sec-chair-sources-say-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/12/president-elect-joe-biden-to-name-gary-gensler-as-us-sec-chair-sources-say-.html",
+      "publishedDateTime": "2021-01-12T09:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -287,7 +447,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 750,
+      "heat": 770,
       "tags": null,
       "images": [
         {
@@ -380,6 +540,58 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-watch-live-house-debates-resolution-calling-on-pence-to-activate-25th-amendment.md",
+      "title": "Watch Live: House debates resolution calling on Pence to activate 25th Amendment",
+      "excerpt": "The House is expected to vote on the measure later Tuesday, and the vice president would have 24 hours to respond once it is approved by the Democrat-led House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/",
+      "originalUrl": "https://www.cbsnews.com/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/12/de23e810-62d0-43b0-8b13-589424e1b945/thumbnail/1200x630/6214aa2691335ea4d178b0de0ddd311b/gettyimages-1230536583.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/",
+      "publishedDateTime": "2021-01-12T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {
@@ -1136,218 +1348,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-washington-monument-closes-through-bidens-inauguration-due-to-credible-threats.md",
-      "title": "Washington monument closes through Biden's inauguration due to 'credible threats'",
-      "excerpt": "The National Park Service said Monday it is suspending tours of the Washington Monument until Jan. 24 or longer due to \"credible threats\" from groups involved in the violence at the U.S. Capitol on Jan. 6.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dajmyjyCwaA/washington-monument-biden-inauguration-threats-tours",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dajmyjyCwaA/washington-monument-biden-inauguration-threats-tours",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006605506135.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/washington-monument-biden-inauguration-threats-tours.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/washington-monument-biden-inauguration-threats-tours.amp",
-      "publishedDateTime": "2021-01-11T09:47:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-read-house-democratic-impeachment-resolution-against-trump-for-incitement-of-insurrection.md",
-      "title": "READ: House Democratic impeachment resolution against Trump for ‘incitement of insurrection’",
-      "excerpt": "Read the House Democratic impeachment resolution against Trump for ‘incitement of insurrection’",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gPxIrbiTz04/read-house-democratic-impeachment-resolution-against-trump-for-incitement-of-insurrection",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gPxIrbiTz04/read-house-democratic-impeachment-resolution-against-trump-for-incitement-of-insurrection",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2019/02/01/694940094001_5997388808001_5997386413001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T08:49:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-house-democrats-quick-25th-amendment-push-urging-pence-to-remove-trump-blocked-by-republicans.md",
-      "title": "House Democrats' quick 25th Amendment push urging Pence to remove Trump blocked by Republicans",
-      "excerpt": "House Republicans blocked quick consideration of a bill calling on Vice President Mike Pence to invoke the 25th Amendment to remove President Trump from office amid fallout from last week’s Capitol riot.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sr5HG__LUb4/house-gop-blocks-quick-consideration-of-bill-calling-on-pence-to-invoke-25th-amendment",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sr5HG__LUb4/house-gop-blocks-quick-consideration-of-bill-calling-on-pence-to-invoke-25th-amendment",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 408,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/house-gop-blocks-quick-consideration-of-bill-calling-on-pence-to-invoke-25th-amendment.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-gop-blocks-quick-consideration-of-bill-calling-on-pence-to-invoke-25th-amendment.amp",
-      "publishedDateTime": "2021-01-11T08:27:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-joe-bidens-inauguration-theme-america-united.md",
-      "title": "Joe Biden’s inauguration theme: ‘America United’",
-      "excerpt": "WASHINGTON (AP) — The theme for President-elect Joe Biden’s inauguration will be “America United,” an issue that’s long been a central focus for Biden but one that’s taken on added weight in the wake of the violence at the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html",
-      "originalUrl": "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2NAB5FK6RFAK3B53DG7COL2DXE.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html?outputType=amp",
-      "publishedDateTime": "2021-01-11T08:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cleveland.com",
-        "domain": "cleveland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

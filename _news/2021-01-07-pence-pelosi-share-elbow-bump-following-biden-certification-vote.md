@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-pelosi-share-elbow-bump-follo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-pelosi-share-elbow-bump-following-biden-certification-vote.amp"
 type: article
 quality: 200
-heat: 340
+heat: 360
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 200
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/676700e9-2160-4bb3-a8ea-16fc47cd468a/849f19f1-aae0-4ebc-bd24-78bdb1acd69c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "House committee meeting gets heated when Rep. Perlmutter asks Rep. Jordan if Biden won election"
+    excerpt: "The tension was high Tuesday afternoon when the House Rules Committee met to debate a resolution calling for Vice President Mike Pence to convene the cabinet and invoke the 25th Amendment to remove President Trump from office before his term ends next week."
+    publishedDateTime: 2021-01-12T19:41:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gu0HpPiA95Y/rules-committee-meeting-heated-perlmutter-jordan-biden-president-elect"
+    ampWebUrl: "https://www.foxnews.com/politics/rules-committee-meeting-heated-perlmutter-jordan-biden-president-elect.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rules-committee-meeting-heated-perlmutter-jordan-biden-president-elect.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/256cee9f-7fa9-4bdb-af95-a249b8f0092c/69269ae7-409a-49fa-b777-74b201ab773d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-bor
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -150,6 +150,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Watch live: President Donald Trump visits Alamo, Texas"
+    excerpt: "President Donald Trump flew to visit Alamo, Texas, on Tuesday. The small town of Alamo was named after the famed mission 240 miles north in San Antonio. Trump will deliver remarks near a border wall at 2 p."
+    publishedDateTime: 2021-01-12T14:03:00Z
+    webUrl: "https://www.chron.com/news/local/politics/article/Watch-Live-President-Donald-Trump-visits-Alamo-15864972.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/10/63/20483289/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Donald Trump visiting Texas' Rio Grande Valley on Tuesday as his administration rushes to award more border wall contracts"
     excerpt: "The president's visit comes a week after Department of Homeland Security officials touted the “historic” completion of 450 miles of border fencing during his administration."
     publishedDateTime: 2021-01-10T02:05:00Z

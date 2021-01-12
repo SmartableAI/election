@@ -5386,6 +5386,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Deutsche Bank To Sever Ties With Trump: Report"
+    excerpt: "Deutsche Bank will cease its longstanding relationship with outgoing US president Donald Trump, The New York Times reported on Tuesday. Deutsche Bank was Trump's primary lender for two decades, and he owes the institution more than $300 million,"
+    publishedDateTime: 2021-01-12T17:14:00Z
+    webUrl: "https://www.ibtimes.com/deutsche-bank-sever-ties-trump-report-3120050"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/deustche-bank-is-one-of-several-businesses-reconsidering.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Pompeo Cancels Last Foreign Trip Amid Trump Impeachment Moves"
     excerpt: "US Secretary of State Mike Pompeo on Tuesday canceled his final foreign trip scheduled this week as President Donald Trump faces a second impeachment vote. Pompeo will assist \"a smooth and orderly transition process\" to President-elect Joe Biden that includes identifying officials who will stay on temporarily as the new administration takes charge,"
     publishedDateTime: 2021-01-12T18:03:00Z
@@ -5410,6 +5424,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "JzJV6MDcmH52uY/GjLVnBLhq9hdSHXHNtVN/p9WFwFb1yep8la6FY1M+pOVjWPnUmAX+iCrfOuBiq4r4M5nOhzl7WtBOTMkdCO9jUhjhyGO//yLU8+7wSPyKtVT5tUrtqnWFWg1Yj99iuSSaKrAZX4dT9nhRXbcEw+viNtN+ISzZWZPNrihPa4boGUxSMc5NBKCvSOp2ax9Qdbmum+N0xikg8kFhpfalLvnuJQlEFgcFYLLScau0yvRKE3e7G/+r7wJ7G9quaqmIV46XhB1FRasmFh+7rsOv7uk2rDX08sDKRlDBj91kX4JRJGjLFuGa+MGunR49L2ZagXhJg7uQPrFNCyAfX3iEL2SFLnB2khc=;jym1p/uADoWnd8OCt5HBaw=="
+secured: "tODoxWSioaLoMRPrV6gSJrXddoRx5slWpkKxKLWx175ZgY+Gm+blhvZQB4IlIl2Ciw7NkV0QuDpv1zQT9Zb5jRZuQJ0ozyQQYWiGmG97uFHt2WYErYWzdKphhfLvAtN98TrNKIuR/CpNMO0ihzaPJYQPtV3Ypktd0u+bcpfoSqeceNkYSm1UO71guNSaxrV4Xa3OWj7luLdIrq2zJvjwlrjzu43BlOgBPuYLkSTLHGvd550uVDnao1YCUetOZnIVuknWrdhfCj3zB8N0iTiANX3vskR+rmEf3iCsdl3lhYsGCDSbGfHTLFw8BZI2KdxG/vtKhkktUb9PKDDLa5fRWK4NU0NxIIWFphPQsC7jnAeqIfJchTT9cBFJ/JCXSCTvEUQnCAPZTR5KlSP6FgDmwSi0pjQQckW9UTD3puQFzx52U1yDgMJzLVcePG80TylWudu6CK56gKJxnl6yUMY5+yZ9s4wrLs11WVu3JOAvIgRWrQNKG0m7uwtX+gc6TmrYSI3vczrsTg3gBLRZpqwezQ==;fAWFkcvBYHpuR7NMWf1fIg=="
 ---
 

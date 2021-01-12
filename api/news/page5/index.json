@@ -2,6 +2,114 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-08-trump-official-merchandise-stores-removed-by-shopify.md",
+      "title": "Trump official merchandise stores removed by Shopify",
+      "excerpt": "The e-commerce platform Shopify said Thursday that it has terminated stores affiliated with President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903",
+      "originalUrl": "https://abcnews.go.com/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/capitol-statue-protest-gty-ps-210106_1609967664138_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903",
+      "publishedDateTime": "2021-01-07T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-ny-attorney-general-demands-investigation-of-trumps-family-members-role-in-fomenting-riots.md",
+      "title": "NY attorney general demands investigation of Trump's, family members' role in fomenting riots",
+      "excerpt": "Letitia James also wants officials to identify and investigate participants in Wednesday's raid on the Capitol",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H4zPhX-8THk/ny-ag-full-investigation-dc-riots",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H4zPhX-8THk/ny-ag-full-investigation-dc-riots",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cbedf04-60c6-401e-b267-a9d2221c950c/0932f180-5a4f-4506-a093-5483fb65583c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ny-ag-full-investigation-dc-riots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ny-ag-full-investigation-dc-riots.amp",
+      "publishedDateTime": "2021-01-07T18:58:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-hear-why-klobuchar-fist-bumped-pence-after-electoral-certification.md",
       "title": "Hear why Klobuchar fist-bumped Pence after Electoral certification",
       "excerpt": "Sen. Amy Klobuchar (D-MN), tells CNN's Chris Cuomo about the moment Congress finalized President-elect Joe Biden's victory, and about why she chose to fist-bump Vice President Mike Pence after he read the election results.\n    \n",
@@ -1256,120 +1364,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-pence-pelosi-share-elbow-bump-following-biden-certification-vote.md",
-      "title": "Pence, Pelosi share 'elbow bump' following Biden certification vote",
-      "excerpt": "Vice President Mike Pence and House Speaker Nancy Pelosi concluded a trying and at times scary joint session of Congress with an elbow bump in the predawn hours of Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Co6aMCUkgA/pence-pelosi-share-elbow-bump-following-biden-certification-vote",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Co6aMCUkgA/pence-pelosi-share-elbow-bump-following-biden-certification-vote",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 340,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006674774302.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-pelosi-share-elbow-bump-following-biden-certification-vote.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-pelosi-share-elbow-bump-following-biden-certification-vote.amp",
-      "publishedDateTime": "2021-01-07T03:07:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-house-members-harris-allred-nearly-come-to-blows-during-pennsylvania-certification-debate-reports.md",
-      "title": "House members Harris, Allred nearly come to blows during Pennsylvania certification debate: reports",
-      "excerpt": "Tensions on Capitol Hill nearly resulted in fisticuffs early Thursday between a Republican and a Democrat in the U.S. House, according to reporter accounts.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/i4PtfLElP-U/house-members-harris-allred-nearly-come-to-blows-during-pennsylvania-certification-debate-reports",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/i4PtfLElP-U/house-members-harris-allred-nearly-come-to-blows-during-pennsylvania-certification-debate-reports",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/fightsplit-xxxxx.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/house-members-harris-allred-nearly-come-to-blows-during-pennsylvania-certification-debate-reports.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-members-harris-allred-nearly-come-to-blows-during-pennsylvania-certification-debate-reports.amp",
-      "publishedDateTime": "2021-01-06T23:50:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

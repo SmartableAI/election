@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-12-watch-live-house-debates-resolution-calling-on-pence-to-activate-25th-amendment.md",
+      "title": "Watch Live: House debates resolution calling on Pence to activate 25th Amendment",
+      "excerpt": "The House is expected to vote on the measure later Tuesday, and the vice president would have 24 hours to respond once it is approved by the Democrat-led House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/",
+      "originalUrl": "https://www.cbsnews.com/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/12/de23e810-62d0-43b0-8b13-589424e1b945/thumbnail/1200x630/6214aa2691335ea4d178b0de0ddd311b/gettyimages-1230536583.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/",
+      "publishedDateTime": "2021-01-12T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-house-democrats-quick-25th-amendment-push-urging-pence-to-remove-trump-blocked-by-republicans.md",
       "title": "House Democrats' quick 25th Amendment push urging Pence to remove Trump blocked by Republicans",
       "excerpt": "House Republicans blocked quick consideration of a bill calling on Vice President Mike Pence to invoke the 25th Amendment to remove President Trump from office amid fallout from last week’s Capitol riot.",
@@ -185,7 +237,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1680,
+      "heat": 1700,
       "tags": null,
       "images": [
         {
@@ -731,7 +783,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 340,
+      "heat": 360,
       "tags": null,
       "images": [
         {
@@ -827,7 +879,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086",
       "featuredContent": null,
       "highlight": null,
-      "heat": 7188,
+      "heat": 7208,
       "tags": null,
       "images": [
         {
@@ -988,7 +1040,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 2315,
+      "heat": 2335,
       "tags": null,
       "images": [
         {
@@ -1572,49 +1624,6 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-uss-nimitz-reaches-africa-takes-call-from-pence.md",
-      "title": "USS Nimitz reaches Africa; takes call from Pence",
-      "excerpt": "The Bremerton-based aircraft carrier departed Sinclair Inlet in April and there's been no announcement as to when it might come home.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kitsapsun.com/story/news/2020/12/28/uss-nimitz-reaches-africa-takes-call-pence/4063674001/",
-      "originalUrl": "https://www.kitsapsun.com/story/news/2020/12/28/uss-nimitz-reaches-africa-takes-call-pence/4063674001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/28/PBKS/c7ca05f9-2f68-4df2-b0b2-aa5f450be227-nimitz_carrier_strike_group_supports_operation_octave_quartz_2.jpg?auto=webp&crop=985,555,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.kitsapsun.com/amp/4063674001",
-      "cdnAmpWebUrl": "https://amp-kitsapsun-com.cdn.ampproject.org/c/s/amp.kitsapsun.com/amp/4063674001",
-      "publishedDateTime": "2020-12-28T14:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kitsap Sun",
-        "domain": "kitsapsun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

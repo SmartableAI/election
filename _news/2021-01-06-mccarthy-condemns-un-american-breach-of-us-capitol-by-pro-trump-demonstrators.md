@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Miranda Devine: Dems 'hatred' for Trump supporters is 'un-American'"
+    excerpt: "Fox News contributor Miranda Devine said Tuesday the rhetoric used against President Trump's supporters after the Capitol riots are dividing the country further. "
+    publishedDateTime: 2021-01-12T20:10:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3MaGrNW6BEI/miranda-devine-dems-hatred-trump-supporters-un-american"
+    ampWebUrl: "https://www.foxnews.com/politics/miranda-devine-dems-hatred-trump-supporters-un-american.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/miranda-devine-dems-hatred-trump-supporters-un-american.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Mike Huckabee: Trump’s policies have made life better for every American"
     excerpt: "Huckabee reacted to former U.N. Ambassador Nikki Haley’s comments criticizing Trump over the Capitol Hill riots but also warning the GOP not to forget all he has done."
     publishedDateTime: 2021-01-08T21:50:36Z
@@ -47,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Dems 'caught up in their own mob mentality,' trying to 'blame everything on Trump': Hurt"
+    excerpt: "While Republicans look inward in the aftermath of the Capitol Hill riots after President Trump's address Wednesday, Democrats are adding to the division, Fox News contributor Charles Hurt argued Friday."
+    publishedDateTime: 2021-01-08T15:21:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5eowpSInbqs/trump-capitol-democrats-biden-harris-charles-hurt"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-capitol-democrats-biden-harris-charles-hurt.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-capitol-democrats-biden-harris-charles-hurt.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Rep. Mace pegs Twitter 'un-American' for Trump account suspension: 'It's completely hypocritical'"
     excerpt: "President Trump has been banned from Twitter after Wednesday’s U.S. Capitol riot, and Rep. Nancy Mace, R-S.C., is calling the social media giant’s response as the height of hypocrisy."
     publishedDateTime: 2021-01-10T18:10:43Z
@@ -62,20 +94,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21009769914132-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Watch Live: President Donald Trump Hosts \"Save America\" March At WH Ellipse"
-    excerpt: "Right Side Broadcasting Network will be live from Washington D.C. where President Trump is hosting a \"Save America\" March to protest what he says are election irregularities that Congress refuses to investigate."
-    publishedDateTime: 2021-01-06T14:56:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/01/06/watch_live_president_donald_trump_hosts_save_america_rally_at_wh_ellipse.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 63
-    images:
-      - url: "https://assets.realclear.com/images/53/531525.jpg"
-        width: 750
-        height: 562
         isCached: true
 
 secured: "/T55NaI5OZrOwev+dfqP86NQNK0Ydx28H4cIvgTqrdOO4H4MOh4VRlOxlsExFGXVyYqHievownZ5eDe5Om1VFrhRJpB1i9DeGuiBeoGzAo8PXOdAjTodteDQLWMBe20PkDUSyMldH0n41EM/NbQX6yvD9MLzm+qFGLSSYUiHelpKrYODxhGB/IJp5pS3IoOdx3U++n+B8odTc1SiOpT1y6/lrQU3CU3iTVE/yIQIQdbMYlvh4UhVIDXAtEHucDt4oLPYDnIwTK42y4ZG3632Xxjp1X3aUs0WdzXm9oODhenK0SGGvuveg2qtW8+GYMgRFDD8QUiavm6nDVLJ4c+sYTQM2T5f5UmEQThxuSdYR+8=;zKfqr+Aoi8PazKuIKA2B5Q=="

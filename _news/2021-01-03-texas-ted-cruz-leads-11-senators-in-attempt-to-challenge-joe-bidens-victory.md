@@ -38,22 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "All 6 of Alabama’s GOP House members will challenge Joe Biden’s win"
-    excerpt: "All six Republican members of the U.S. House from Alabama have now said they would oppose certifying the Electoral College results today."
-    publishedDateTime: 2021-01-06T13:26:00Z
-    webUrl: "https://www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UO5C7PYP6VGOTAZVXMB2SRXNPA.jpg"
-        width: 819
-        height: 461
-        isCached: true
 
 secured: "nuUzUZ10YFP9K1rZ2qtxoe+NCDnL4xlcUdEWJhjEBfGsEuHfOclbQbfHHF1n1nkw1n7lgitp2DGjX7tJskcyGKURjFcuZ/bbaTgh8MB9+iUEGHfYrPncstEQvyFYwYg8j4K7QkuE6A603vrYS7B2g8/W57AeJNN2E4D8I1gJjunLxIOYRU3s6bev0Y49bDwMrKtIaSDk8OcE4JXuOEW7UCGnQxr+vsqL3+uZ8pgvG7hcBggntz8meVrNJtxiD8SqqqjkJiDivzo8t+ETZF9Z7xOZoYyeXHbHtCalikqG1x8QPXRfgPagKfg2Oy38ZnttS60MSLb8UsFmNCY91yZqrBStxBgl10xO8lHU0K7YJyxpoy6Ki0VM7CxmHcPUbb5fsLyFDai7rt494EqfPouAWIRVNDztpESAMon5SPRtZK4Um18oLkTXN7i1lAjwhTlm8BeNkc+64WTW0S0nQjP9nMp0HuV4cxe91bPlmZhjmk2VfL4wFWUg0BqKpsC2cswbZctgRRKg8lAdOCa3sNGv6A==;02YR6qY7uzHyyzK7aYVQgw=="
 ---

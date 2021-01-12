@@ -2,6 +2,63 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-22-pence-urges-conservatives-to-stay-in-the-fight-as-our-election-continues.md",
+      "title": "Pence urges conservatives 'to stay in the fight' as 'our election' continues",
+      "excerpt": "Vice President Mike Pence emphasized on Tuesday that the presidential election “continues.” Speaking in West Palm Beach, Florida at a student action summit organized by Turning Point USA, a major pro-Trump and conservative youth advocacy group, the vice president urged the crowd “to stay in the fight",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rIBxh5Ce8NY/pence-election-fight-florida-speech",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rIBxh5Ce8NY/pence-election-fight-florida-speech",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-election-fight-florida-speech.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-election-fight-florida-speech.amp",
+      "publishedDateTime": "2020-12-22T11:51:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-trump-supporters-to-hold-virtual-second-inauguration-on-jan-20.md",
       "title": "Trump supporters to hold virtual 'second inauguration' on Jan. 20",
       "excerpt": "Thousands of supporters have pledged to attend a virtual \"second inauguration\" for President Trump, who lost his bid for a second term, at the same time President-elect Joe Biden is slated to be sworn in on Jan. 20. ",
@@ -1307,63 +1364,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-trump-discussed-naming-sidney-powell-special-counsel-during-white-house-meeting.md",
-      "title": "Trump discussed naming Sidney Powell special counsel during White House meeting",
-      "excerpt": "President Donald Trump held a meeting at the White House on Friday evening in which he discussed the idea of naming appellate attorney Sidney Powell as a special counsel to investigate voter fraud in the election,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-discussed-naming-sidney-powell-special-counsel-during-white-house-n1251859",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-discussed-naming-sidney-powell-special-counsel-during-white-house-n1251859",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_51/3437071/201220-sidney-powell-jm-1221_29a0459573741a5e73006aa10e4229bc.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1251859",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251859",
-      "publishedDateTime": "2020-12-20T11:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

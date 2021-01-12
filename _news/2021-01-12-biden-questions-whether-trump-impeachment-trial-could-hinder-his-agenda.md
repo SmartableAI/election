@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-questions-whether-trump-impea
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-questions-whether-trump-impeachment-will-hinder-his-agenda.amp"
 type: article
 quality: 190
-heat: 750
+heat: 770
 published: true
 
 provider:
@@ -236,6 +236,22 @@ related:
     quality: 170
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32855443-767d-4b96-861e-e053b799308b/df486f77-b285-4a08-a896-558037ce44aa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Gingrich: Pelosi-led Trump impeachment effort driven by 'fear' he could win in 2024"
+    excerpt: "Newt Gingrich criticized House Speaker Nancy Pelosi on Tuesday for pushing to impeach President Trump for a second time"
+    publishedDateTime: 2021-01-12T20:24:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z0FiwdbeTV8/gingrich-pelosi-led-impeachment-effort-fear-trump-could-win-in-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/gingrich-pelosi-led-impeachment-effort-fear-trump-could-win-in-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-pelosi-led-impeachment-effort-fear-trump-could-win-in-2024.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d9cd6ea-fe7a-48b7-a5d6-0e1e51f21fe1/ef4e6bb5-9ef3-4b03-adc8-b5d9bb6cedc8/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -159,22 +159,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "How a Vogue cover created an uproar over Kamala Harris"
-    excerpt: "Though it might seem, in light of all that is going on in Washington, D.C., the least of the matter, on Sunday a leaked shot of Vice President-elect’s Kamala Harris’ Vogue cover set off an unexpected firestorm."
-    publishedDateTime: 2021-01-12T16:10:00Z
-    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Harris on Trump GA call before Senate runoff"
     excerpt: "Rough Cuts Harris on Trump GA call before Senate runoff. Posted . U.S. Vice President-elect Kamala Harris rallied supporters in Georgia on Sunday for Democratic Senate candidates"
     publishedDateTime: 2021-01-04T02:55:00Z
@@ -469,6 +453,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How a Vogue cover created an uproar over Kamala Harris"
+    excerpt: "Though it might seem, in light of all that is going on in Washington, D.C., the least of the matter, on Sunday a leaked shot of Vice President-elect’s Kamala Harris’ Vogue cover set off an unexpected firestorm."
+    publishedDateTime: 2021-01-12T19:03:00Z
+    webUrl: "https://www.baltimoresun.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 75
+    images:
+      - url: "https://www.baltimoresun.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "In a 50-50 Senate, Kamala Harris can sign off on $2,000 stimulus checks and more"
     excerpt: "Kamala Harris suddenly has been handed all kinds of power to get people $2,000 stimulus checks, provide money to fight climate change and win confirmation of President-elect Joe Biden’s nominees. Because Georgia Democratic Senate candidates Ralph Warnock and Jon Ossoff won Tuesday,"
     publishedDateTime: 2021-01-07T13:00:00Z
@@ -633,6 +633,6 @@ related:
         height: 630
         isCached: true
 
-secured: "BYI2nPsEfVB+f415oGLtW07422vNeiDwCNvslbB32eOfvNQ5iE7CFWH/h/K2Je1dpHb27rF1prT6W6HlJpc+rg6sAVjyvO/WaIbIeTeyRVwydJkhfCX0iURuHgGgn4w1iht1cePETe4XsSlrszFnZYvhiTmagdHv9+a1gXfiJtcKe8Vahu1BfmojlkI4KU0Y5LTNpl+I1PCAH1hNGdN6l0Is+OqPrsrRSzipUZeIKkhsl+1JNe7K2c8na8Wp0PrxE1c3KMG4jaVqV6WjIwirsciAOiQNyHbe/gcnKAttRZsImTPWfxYDshB5pL3dGB41XuuKqTZl5j3TWZDvVIM1lLUgVU7NAg/4IkX4TW1LIYs=;31ouW+g5SMonsxBCiO9UYA=="
+secured: "F8NqF021btW8YVnsaZCwE9uJSWgNWx7appFHXWQKG1CuxbpxyqFl/GByC12wFnNMUZDTk/4Zzw7LZTa5ynL5ea4PMqB8Ki/hYQPySSHTWbMsj/Z5LBXBn4205CE9jLV3nZBPXnAZBDd985deScCXPBTT/LchBxcNpPSMkn1isvxFE1QT/A/8KWceVpxJqZj35rNtPQLkeMFgMPYb3/tPBkY+AHT+rFcsjuk27ZJOq3PF2/opdmyGR9QgAwzcCX3Ka87CdxF6zxooAvHVcdBqs9/oGvB4X0Rc+qnTqg4cCRYbo++r+QX2SZEVTD74H3TbgQY+a5AXNAwfXGzL3iFN4s9kvsWa5SQXZLPTu4XZo9l2S/jEq6QAzm0BoYCeLUMUhlXLS5CMP9T+0H1ymWNv4eC60QsKO8VkINsSPfxNmJAKVksNGF3S+nK3rPdD3UfH7D5+Koi5PviFN1YTyA3Wi6CmVZNkb8YdTXctcNtqwiGgmNyjmrfjeE8nitgEydW1jzLTzjhm8w7jcOcavgJhuw==;bK/zhnVlYCDc/QyMNkFtmA=="
 ---
 

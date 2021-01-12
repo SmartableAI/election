@@ -940,6 +940,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden transition team presses Senate to confirm national security nominees ahead of inauguration"
+    excerpt: "The Biden transition team is pressing the Senate to confirm President-elect Joe Biden's national security nominees ahead of the inauguration next week, saying the country's security is \"at stake.\""
+    publishedDateTime: 2021-01-12T20:33:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0Fxo7FDBXUY/biden-transition-senate-confirm-national-security-nominees-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transition-senate-confirm-national-security-nominees-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transition-senate-confirm-national-security-nominees-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "President Trump says South Dakota Gov. Kristi Noem should challenge 'RINO' Sen. John Thune in 2022"
     excerpt: "Thune drew Trump’s ire in recent days after he criticized the president’s bid to challenge the results of the 2020 presidential election."
     publishedDateTime: 2021-01-01T22:38:51Z

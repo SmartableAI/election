@@ -5383,6 +5383,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Deutsche Bank To Sever Ties With Trump: Report"
+    excerpt: "Deutsche Bank will cease its longstanding relationship with outgoing US president Donald Trump, The New York Times reported on Tuesday. Deutsche Bank was Trump's primary lender for two decades, and he owes the institution more than $300 million,"
+    publishedDateTime: 2021-01-12T17:14:00Z
+    webUrl: "https://www.ibtimes.com/deutsche-bank-sever-ties-trump-report-3120050"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/deustche-bank-is-one-of-several-businesses-reconsidering.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Pompeo Cancels Last Foreign Trip Amid Trump Impeachment Moves"
     excerpt: "US Secretary of State Mike Pompeo on Tuesday canceled his final foreign trip scheduled this week as President Donald Trump faces a second impeachment vote. Pompeo will assist \"a smooth and orderly transition process\" to President-elect Joe Biden that includes identifying officials who will stay on temporarily as the new administration takes charge,"
     publishedDateTime: 2021-01-12T18:03:00Z

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Miranda Devine: Dems 'hatred' for Trump supporters is 'un-American'"
+    excerpt: "Fox News contributor Miranda Devine said Tuesday the rhetoric used against President Trump's supporters after the Capitol riots are dividing the country further. "
+    publishedDateTime: 2021-01-12T20:10:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3MaGrNW6BEI/miranda-devine-dems-hatred-trump-supporters-un-american"
+    ampWebUrl: "https://www.foxnews.com/politics/miranda-devine-dems-hatred-trump-supporters-un-american.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/miranda-devine-dems-hatred-trump-supporters-un-american.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Mike Huckabee: Trump’s policies have made life better for every American"
     excerpt: "Huckabee reacted to former U.N. Ambassador Nikki Haley’s comments criticizing Trump over the Capitol Hill riots but also warning the GOP not to forget all he has done."
     publishedDateTime: 2021-01-08T21:50:36Z
@@ -63,19 +79,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Watch Live: President Donald Trump Hosts \"Save America\" March At WH Ellipse"
-    excerpt: "Right Side Broadcasting Network will be live from Washington D.C. where President Trump is hosting a \"Save America\" March to protest what he says are election irregularities that Congress refuses to investigate."
-    publishedDateTime: 2021-01-06T14:56:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/01/06/watch_live_president_donald_trump_hosts_save_america_rally_at_wh_ellipse.html"
+  - title: "Dems 'caught up in their own mob mentality,' trying to 'blame everything on Trump': Hurt"
+    excerpt: "While Republicans look inward in the aftermath of the Capitol Hill riots after President Trump's address Wednesday, Democrats are adding to the division, Fox News contributor Charles Hurt argued Friday."
+    publishedDateTime: 2021-01-08T15:21:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5eowpSInbqs/trump-capitol-democrats-biden-harris-charles-hurt"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-capitol-democrats-biden-harris-charles-hurt.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-capitol-democrats-biden-harris-charles-hurt.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 63
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
     images:
-      - url: "https://assets.realclear.com/images/53/531525.jpg"
-        width: 750
-        height: 562
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "TKeTz6A+vBkWHAKarTlX+tdw44l9ZXBiuzBXDYD8/v8x8GblfaBjCgqQsdsvNa27kgAl3vEjFnMZlcyQunuztLAEyWd3y/MhBwCPxlpr2zIULXOTC+GcPHpRtLoExOtIxE4k7NsxU5hZCtg/DmMve8NNOjdFYNkNU6sn9UrRkoLQE/rV2Qz3d4xTtUDxwGkhxmCiIXrE4GJNHtydTBEnMkPv1VI24j7cAQIZ7WF/PmEFrSrsSf6ghmFiLgoXvSOZKXK5SmZZS3V/KBcIBfuLQ9WuGeb4mZ2TUxJJSJJcIP3Imm0yXYqDmyGZD2qt5uIu4+NTQF9+GD1lzD3LYkFnTu+n77MqmL0ZExmN4pPFLrE=;haoBW+WvFWlvuNCvavYDJg=="

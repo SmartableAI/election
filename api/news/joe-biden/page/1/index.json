@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-13-chicago-man-who-threatened-to-kill-democrats-prevent-biden-from-entering-white-house-arrested.md",
+      "title": "Chicago Man Who Threatened to 'Kill' Democrats, Prevent Biden From Entering White House Arrested",
+      "excerpt": "Louis Capriotti, a 45-year-old man from Chicago, made the alleged threats in a voicemail to a representative from New Jersey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958",
+      "originalUrl": "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1704833/joe-biden-louis-capriotti-threat-inauguration.jpg",
+          "width": 2500,
+          "height": 1695,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958?amp=1",
+      "publishedDateTime": "2021-01-12T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-president-elect-joe-biden-to-name-gary-gensler-as-us-sec-chair-sources-say.md",
+      "title": "President-elect Joe Biden to name Gary Gensler as U.S. SEC chair, sources say",
+      "excerpt": "Gary Gensler, a top financial regulator under the Obama administration, is expected to be named chair of the U.S. Securities and Exchange Commission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/01/12/president-elect-joe-biden-to-name-gary-gensler-as-us-sec-chair-sources-say-.html",
+      "originalUrl": "https://www.cnbc.com/2021/01/12/president-elect-joe-biden-to-name-gary-gensler-as-us-sec-chair-sources-say-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106823272-1610480084902-gettyimages-175050214-WALL-STREET-REFORMS.jpg?v=1610480100",
+          "width": 3459,
+          "height": 2250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/12/president-elect-joe-biden-to-name-gary-gensler-as-us-sec-chair-sources-say-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/12/president-elect-joe-biden-to-name-gary-gensler-as-us-sec-chair-sources-say-.html",
+      "publishedDateTime": "2021-01-12T09:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-biden-chooses-veteran-diplomat-william-burns-as-his-cia-director.md",
       "title": "Biden chooses veteran diplomat William Burns as his CIA director",
       "excerpt": "William Burns, chosen by Biden to head the CIA, built a 33-year career at the State Department under both Republican and Democratic presidents.",
@@ -97,21 +201,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-11-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification.md",
-      "title": "Marriott, BlueCross suspend donations to U.S. lawmakers who voted against Biden certification",
-      "excerpt": "Marriott International Inc, the world's largest hotel company, and the Blue Cross Blue Shield Association (BCBSA) said Sunday they will suspend donations to U.S. lawmakers who voted last week against certifying President-elect Joe Biden's victory.",
+      "path": "_news/2021-01-11-marriott-and-others-pledge-to-cut-off-money-to-members-of-congress-who-doubted-biden-win.md",
+      "title": "Marriott and others pledge to cut off money to members of Congress who doubted Biden win",
+      "excerpt": "The violent insurrection at the Capitol has companies scrambling to react, as the option of sitting on the sidelines grows increasingly unsatisfying.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ",
-      "originalUrl": "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ",
+      "webUrl": "https://www.washingtonpost.com/business/2021/01/10/marriott-campaign-donations-congress/",
+      "originalUrl": "https://www.washingtonpost.com/business/2021/01/10/marriott-campaign-donations-congress/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 156,
       "tags": null,
       "images": [
         {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547294520&r=LYNXMPEH090FT&w=800",
-          "width": 800,
-          "height": 534,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4IPYVLRAFMI6XLKTJQP5USMQPU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -119,16 +223,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T04:45:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/business/2021/01/10/marriott-campaign-donations-congress/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/10/marriott-campaign-donations-congress/?outputType=amp",
+      "publishedDateTime": "2021-01-10T19:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -801,7 +905,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 885,
+      "heat": 905,
       "tags": null,
       "images": [
         {
@@ -825,58 +929,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-biden-has-selected-judge-merrick-garland-to-serve-as-attorney-general-politico.md",
-      "title": "Biden has selected Judge Merrick Garland to serve as attorney general - Politico",
-      "excerpt": "President-elect Joe Biden has selected Judge Merrick Garland to serve as his attorney general, Politico reported on Wednesday, citing two people with knowledge of the decision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-attorney-general/biden-selects-judge-merrick-garland-for-attorney-general-official-idUSKBN29B2C8",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-attorney-general/biden-selects-judge-merrick-garland-for-attorney-general-official-idUSKBN29B2C8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546834261&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0517S",
-          "width": 765,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29B2C8",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B2C8",
-      "publishedDateTime": "2021-01-06T14:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -929,49 +981,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-explainer-bidens-iran-problem-is-getting-worse-by-the-day.md",
-      "title": "EXPLAINER: Biden's Iran problem is getting worse by the day",
-      "excerpt": "Joe Biden has an Iran problem. And, it’s getting more complicated by the day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/explainer-bidens-iran-problem-is-getting-worse-by-the-day-2021-1",
-      "originalUrl": "https://www.businessinsider.com/explainer-bidens-iran-problem-is-getting-worse-by-the-day-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/explainer-bidens-iran-problem-is-getting-worse-by-the-day-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-bidens-iran-problem-is-getting-worse-by-the-day-2021-1?amp",
-      "publishedDateTime": "2021-01-05T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1210,6 +1219,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-02-former-iran-hostage-urges-biden-to-prioritize-detained-americans.md",
+      "title": "Former Iran hostage urges Biden to prioritize detained Americans",
+      "excerpt": "Princeton scholar Xiyue Wang, who was imprisoned in Iran for nearly four years, has a warning for President-elect Joe Biden about his administration's diplomacy with Iran. He shares his story with Margaret Brennan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/former-iran-hostage-urges-biden-to-prioritize-detained-americans/",
+      "originalUrl": "https://www.cbsnews.com/video/former-iran-hostage-urges-biden-to-prioritize-detained-americans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/02/18ffe988-4b43-450a-ad6e-1d2a0462fd02/thumbnail/1200x630/18a710a3617f148248910156d4d3f7cd/0102-satmo-ushostages-brennan-619011-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-02T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory.md",
       "title": "GOP senator rebukes 'dangerous ploy' to fight Biden victory",
       "excerpt": "Republican Sen. Ben Sasse of Nebraska has issued a pointed rebuke of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation's civic traditions.",
@@ -1218,7 +1279,7 @@
       "originalUrl": "https://www.businessinsider.com/gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory-2021-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1498,58 +1559,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-biden-repeats-call-for-full-visibility-during-transition.md",
-      "title": "Biden repeats call for 'full visibility' during transition",
-      "excerpt": "President-elect Joe Biden said Dec. 28 that his transition team has encountered political roadblocks from the Trump administration and called it irresponsible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/politics/biden-repeats-call-for-full-visibility-during-transition/2020/12/28/7d8fe81e-2fc6-49d0-bb07-314b2e830f59_video.html",
-      "originalUrl": "https://www.washingtonpost.com/video/politics/biden-repeats-call-for-full-visibility-during-transition/2020/12/28/7d8fe81e-2fc6-49d0-bb07-314b2e830f59_video.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-28-2020/t_6f8155c986d04d3d84a230db9667a68f_name_20201228_Biden_thumb1.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
-          "width": 1484,
-          "height": 833,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-28T13:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

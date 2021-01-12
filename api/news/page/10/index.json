@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-12-31-thomas-l-friedman-column-will-trump-force-principled-conservatives-to-start-their-own-party-i-hope-so.md",
+      "title": "Thomas L. Friedman column: Will Trump force principled conservatives to start their own party? I hope so.",
+      "excerpt": "As the Trump presidency heads into the sunset, kicking and screaming, one of the most important questions that will shape American politics at the local, state and national levels is this: Can Donald Trump maintain his iron grip over the Republican Party when he is out of office?",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-republicans-principles-thomas-friedman-column-20201230-xk57ext4k5f23nvlwbrnrch3ga-story.html",
+      "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-republicans-principles-thomas-friedman-column-20201230-xk57ext4k5f23nvlwbrnrch3ga-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/YYU9TfU1m8pAK_U8lmVrbM3G5UA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/A2A2DS3MISN6JSRITNRSEGF2CQ.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-republicans-principles-thomas-friedman-column-20201230-xk57ext4k5f23nvlwbrnrch3ga-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-republicans-principles-thomas-friedman-column-20201230-xk57ext4k5f23nvlwbrnrch3ga-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-30T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-president-elect-joe-biden-and-wife-jill-to-appear-dick-clarks-new-years-rockin-eve.md",
       "title": "President-elect Joe Biden and wife Jill to appear \"Dick Clark's New Year's Rockin' Eve\"",
       "excerpt": "Hosts and performers for the annual Times Square celebration, which will look different this year due to the pandemic, have also been announced.",
@@ -1305,58 +1357,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-back-to-private-school-trump-executive-order-empowers-families-amid-covid-19-pandemic-education-secretary-betsy-devos-says.md",
-      "title": "Back to (private) school? Trump executive order empowers families amid COVID-19 pandemic, Education Secretary Betsy DeVos says.",
-      "excerpt": "Outgoing Education Secretary Betsy DeVos has long championed school choice — the overarching term for options beyond traditional public schools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/education/2020/12/28/donald-trump-school-choice-executive-order-betsy-devos/4068332001/",
-      "originalUrl": "https://www.usatoday.com/story/news/education/2020/12/28/donald-trump-school-choice-executive-order-betsy-devos/4068332001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/15/USAT/201c5ec2-2f0b-40df-9cb8-9cacd9f82859-XXX_IMG_AP_TRUMP_A_USA_DC_1_1_4BNLNPAL.JPG?auto=webp&crop=5471,3077,x0,y278&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4068332001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4068332001",
-      "publishedDateTime": "2020-12-28T20:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

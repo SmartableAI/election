@@ -2,30 +2,26 @@
 category: news
 title: "How a Vogue cover created an uproar over Kamala Harris"
 excerpt: "Though it might seem, in light of all that is going on in Washington, D.C., the least of the matter, on Sunday a leaked shot of Vice President-elect’s Kamala Harris’ Vogue cover set off an unexpected firestorm."
-publishedDateTime: 2021-01-12T16:10:00Z
-originalUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
-webUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
-ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+publishedDateTime: 2021-01-12T19:03:00Z
+originalUrl: "https://www.baltimoresun.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
+webUrl: "https://www.baltimoresun.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
+ampWebUrl: "https://www.baltimoresun.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
+  - url: "https://www.baltimoresun.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -633,6 +629,6 @@ related:
         height: 630
         isCached: true
 
-secured: "dvLnlDV0BlZob+XCKVuV7X6ZMzlalhO/uVa2cjyd8juakrBFr6A0U5guqLFg3TZoZSlGpWYVcRhG8+jnY3m/9+P8xmuADQikH+Afyuv+G1hwiLhzG23joRGqZhSZnrn4JNelSZKPzyiR7M/MQ1FdCmg2xwc4dZq9dkD7QgUsqSBVf7mtsMFslv1XM4uEVBXH14Af1e1FQWeldEu8VC04eb6uaHUSZfyekJl9AQgcXG95v3DuldE79yBdt/Ehw7EJmouC7jluzjW1WacKAzcmkzcErjz/9cM/ZNaH2ce5cX3yPRoEL+ObhYNNgZrDiuO/8uhTFCVXg+UUwEzmSHOrcvie69KXJEFEihxA0OJUYqFItmP8lsD/xz+nstULXTKmUQoTX6/6worziOtjZcWLzIBErRrsOW5KSeBlCHIuZrAkN0uvouEIHIgBLlGRyWrko+d8m08HcIEkDkRCkMkMrkVL7LsIU1d54/vsQXFefq35odTUc9N3J/wcnVdJQaWtqwCNyZec9eh+uO3gob/z3w==;+1asBzIZ0RSC3WZK9s5RaQ=="
+secured: "EP/EPeBr06xnQNrB1doKxW+Fnn0BIrdTllp7gzxJe7kLxfSAJ+RcWDK/nfBhYIQgqNlaxT0cDSNVxg8UGIRbA4S6aDqObURtKE/eviwqK/QwcfjZKHl4++QvjEzNpTHCHwcHgwhlnWeF58BSz2oknWKW7Ow0oMhWuSE8JzFKMjMTYtwKmZj8/E2W6u+XXR+dpGRr0H+grrAm5DB0R1vlCemA0ui6vMSm5oX5txDaYOnj6Cn9oUOzOsJEDiNjJGuaR5qo1+AOnu7Qlow0mv3QZytywDPuaq2j5rhduby0yjIt0+iPkyYalMJXHrcIICxqq7M4szD3hKOLcsazPZRTw7lhUUsSCP3dYOgvrpez/l8=;Jm5dlSGIgEs3v92SMIjYhw=="
 ---
 

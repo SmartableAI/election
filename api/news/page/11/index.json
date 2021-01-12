@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-12-29-back-to-private-school-trump-executive-order-empowers-families-amid-covid-19-pandemic-education-secretary-betsy-devos-says.md",
+      "title": "Back to (private) school? Trump executive order empowers families amid COVID-19 pandemic, Education Secretary Betsy DeVos says.",
+      "excerpt": "Outgoing Education Secretary Betsy DeVos has long championed school choice — the overarching term for options beyond traditional public schools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/education/2020/12/28/donald-trump-school-choice-executive-order-betsy-devos/4068332001/",
+      "originalUrl": "https://www.usatoday.com/story/news/education/2020/12/28/donald-trump-school-choice-executive-order-betsy-devos/4068332001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/15/USAT/201c5ec2-2f0b-40df-9cb8-9cacd9f82859-XXX_IMG_AP_TRUMP_A_USA_DC_1_1_4BNLNPAL.JPG?auto=webp&crop=5471,3077,x0,y278&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4068332001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4068332001",
+      "publishedDateTime": "2020-12-28T20:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-how-joe-bidens-cold-war-experience-will-shape-his-approach-to-russia.md",
       "title": "How Joe Biden’s cold war experience will shape his approach to Russia",
       "excerpt": "President-elect’s formative years of going toe-to-toe with the USSR on arms control hint at how he may deal with Putin",
@@ -1281,62 +1333,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-26-trump-doubles-down-on-defense-bill-veto-calls-it-a-gift-to-china-russia-big-tech.md",
-      "title": "Trump doubles down on defense bill veto, calls it a 'gift to China, Russia & Big Tech'",
-      "excerpt": "President Trump on Saturday defended his veto of the National Defense Authorization Act, calling it a \"travesty\" and again claiming it is a \"gift\" to China, Russia and Big Tech companies.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3jft50dEGhc/trump-defends-vetoing-ndaa-china-russia-big-tech",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3jft50dEGhc/trump-defends-vetoing-ndaa-china-russia-big-tech",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66f8d279-7265-46be-957f-0f4ae613b93f/5c98a9f4-bc2d-417f-9635-dda4351da6f9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-defends-vetoing-ndaa-china-russia-big-tech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-defends-vetoing-ndaa-china-russia-big-tech.amp",
-      "publishedDateTime": "2020-12-26T07:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-12-24-trump-pardons-former-campaign-chairman-paul-manafort.md",
+      "title": "Trump pardons former campaign chairman Paul Manafort",
+      "excerpt": "President Donald Trump has issued pardons and sentence commutations for 29 people, including former campaign chairman Paul Manafort and Charles Kushner, the father of his son-in-law",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-pardons-former-campaign-chairman-paul-manafort/2020/12/23/5b821be6-457f-11eb-ac2a-3ac0f2b8ceeb_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-pardons-former-campaign-chairman-paul-manafort/2020/12/23/5b821be6-457f-11eb-ac2a-3ac0f2b8ceeb_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-pardons-former-campaign-chairman-paul-manafort/2020/12/23/5b821be6-457f-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pardons-former-campaign-chairman-paul-manafort/2020/12/23/5b821be6-457f-11eb-ac2a-3ac0f2b8ceeb_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-23T16:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-trump-issues-26-new-pardons-including-ones-for-stone-manafort-and-charles-kushner.md",
       "title": "Trump issues 26 new pardons, including ones for Stone, Manafort and Charles Kushner",
       "excerpt": "President Donald Trump on Wednesday evening announced 26 new pardons, including ones for longtime ally Roger Stone, former campaign chairman Paul Manafort and White House senior adviser Jared Kushner's father, Charles.\n    \n",
@@ -1289,63 +1341,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-pence-urges-conservatives-to-stay-in-the-fight-as-our-election-continues.md",
-      "title": "Pence urges conservatives 'to stay in the fight' as 'our election' continues",
-      "excerpt": "Vice President Mike Pence emphasized on Tuesday that the presidential election “continues.” Speaking in West Palm Beach, Florida at a student action summit organized by Turning Point USA, a major pro-Trump and conservative youth advocacy group, the vice president urged the crowd “to stay in the fight",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rIBxh5Ce8NY/pence-election-fight-florida-speech",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rIBxh5Ce8NY/pence-election-fight-florida-speech",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-election-fight-florida-speech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-election-fight-florida-speech.amp",
-      "publishedDateTime": "2020-12-22T11:51:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

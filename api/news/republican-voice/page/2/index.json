@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-09-biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis.md",
+      "title": "Biden says Cruz, Hawley part of ‘big lie’ -- while senators claim they are being called Nazis",
+      "excerpt": "President-elect Joe Biden said Friday that Sens. Ted Cruz, R-Texas, and Josh Hawley, R-Mo., should be \"flat beaten\" in their next elections for their part in spreading \"the big lie,\" a term the senators said was an effort to cast them as Nazis. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F_1wZtRHnVg/biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F_1wZtRHnVg/biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/BidenCruz.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis.amp",
+      "publishedDateTime": "2021-01-08T17:15:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-kamala-harris-top-economic-advisor-is-another-blackrock-exec.md",
       "title": "Kamala Harris’ top economic advisor is another BlackRock exec",
       "excerpt": "BlackRock is cementing its position as the Biden administration’s go-to Wall Street firm. Vice-President-elect Kamala Harris on Friday said she’s selected BlackRock’s Global Chief Investment",
@@ -46,62 +102,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-mike-huckabee-trumps-policies-have-made-life-better-for-every-american.md",
-      "title": "Mike Huckabee: Trump’s policies have made life better for every American",
-      "excerpt": "Huckabee reacted to former U.N. Ambassador Nikki Haley’s comments criticizing Trump over the Capitol Hill riots but also warning the GOP not to forget all he has done.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_0V874_NoOQ/mike-huckabee-trumps-policies-life-american",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_0V874_NoOQ/mike-huckabee-trumps-policies-life-american",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d528e2b-4d98-4020-b38e-608b9fe1f4f5/296c9f72-e5ee-4d6c-843f-51372355367c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mike-huckabee-trumps-policies-life-american.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-trumps-policies-life-american.amp",
-      "publishedDateTime": "2021-01-08T13:50:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },
@@ -463,62 +463,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trumps-failure-to-call-off-mob-was-breaking-point-alyssa-farah.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-failure-to-call-off-mob-was-breaking-point-alyssa-farah.amp",
       "publishedDateTime": "2021-01-08T08:24:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-dems-caught-up-in-their-own-mob-mentality-trying-to-blame-everything-on-trump-hurt.md",
-      "title": "Dems 'caught up in their own mob mentality,' trying to 'blame everything on Trump': Hurt",
-      "excerpt": "While Republicans look inward in the aftermath of the Capitol Hill riots after President Trump's address Wednesday, Democrats are adding to the division, Fox News contributor Charles Hurt argued Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5eowpSInbqs/trump-capitol-democrats-biden-harris-charles-hurt",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5eowpSInbqs/trump-capitol-democrats-biden-harris-charles-hurt",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-capitol-democrats-biden-harris-charles-hurt.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-capitol-democrats-biden-harris-charles-hurt.amp",
-      "publishedDateTime": "2021-01-08T07:21:18-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1121,7 +1065,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 340,
+      "heat": 360,
       "tags": null,
       "images": [
         {
@@ -1669,6 +1613,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-schwarzenegger-calls-on-gop-to-reject-stupid-crazy-and-evil-trump-election-challenge.md",
+      "title": "Schwarzenegger calls on GOP to reject 'stupid, crazy and evil' Trump election challenge",
+      "excerpt": "Former California Gov. Arnold Schwarzenegger, R, said that after growing up in a country that “gave up on democracy and faced the consequences,” he worried for his party’s and the U.S.’ future amid President Trump’s continued election challenges. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G3owu9_mGHI/schwarzenegger-republicans-reject-trumps-stupid-crazy-evil-election-challenges",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G3owu9_mGHI/schwarzenegger-republicans-reject-trumps-stupid-crazy-evil-election-challenges",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 262,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Arnold-SCHWARZENEGGER-REUTERS.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/schwarzenegger-republicans-reject-trumps-stupid-crazy-evil-election-challenges.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schwarzenegger-republicans-reject-trumps-stupid-crazy-evil-election-challenges.amp",
+      "publishedDateTime": "2021-01-05T15:25:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     }

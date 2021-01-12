@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-b
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 885
+heat: 905
 published: true
 
 provider:
@@ -510,6 +510,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547409614&r=LYNXMPEH0A1HG&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Biden Defense pick faces eligibility questions from Democrats"
+    excerpt: "A handful of U.S. Senate Armed Services Committee Democrats voiced reservations on Tuesday about making another retired general the top civilian official at the Department of Defense, some citing last week's rampage at the U."
+    publishedDateTime: 2021-01-12T20:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-pentagon/biden-defense-pick-faces-eligibility-questions-from-democrats-idUSKBN29H2QR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547536884&r=LYNXMPEH0B1G0&w=800"
+        width: 800
+        height: 544
         isCached: true
   - title: "Washington mayor asks for increased security around Biden's inauguration"
     excerpt: "Washington's mayor has asked for increased security around the inauguration of U.S. President-elect Joe Biden after last week's storming of the U.S. Capitol by supporters of President Donald Trump."

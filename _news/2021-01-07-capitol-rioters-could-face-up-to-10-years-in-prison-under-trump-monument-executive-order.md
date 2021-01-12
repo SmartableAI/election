@@ -255,6 +255,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Gingrich: Pelosi-led Trump impeachment effort driven by 'fear' he could win in 2024"
+    excerpt: "Newt Gingrich criticized House Speaker Nancy Pelosi on Tuesday for pushing to impeach President Trump for a second time"
+    publishedDateTime: 2021-01-12T20:24:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z0FiwdbeTV8/gingrich-pelosi-led-impeachment-effort-fear-trump-could-win-in-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/gingrich-pelosi-led-impeachment-effort-fear-trump-could-win-in-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-pelosi-led-impeachment-effort-fear-trump-could-win-in-2024.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d9cd6ea-fe7a-48b7-a5d6-0e1e51f21fe1/ef4e6bb5-9ef3-4b03-adc8-b5d9bb6cedc8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Florida Sen. Scott says Democrats should focus on American families not Trump impeachment"
     excerpt: "Sen. Rick Scott, R-Fla., told \"Fox & Friends\" on Monday that if Democrats want to do something good for the country, then they should focus on what they are going to do for American families as opposed to impeachment. "
     publishedDateTime: 2021-01-11T14:05:25Z
