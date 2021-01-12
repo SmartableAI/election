@@ -139,6 +139,17 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Trump Returns Cuba to U.S. List of State Sponsors of Terrorism"
+    excerpt: "The Trump administration plans to return Cuba to the U.S. list of state sponsors of terrorism, a person familiar with the matter said on Monday, a move that could complicate any efforts by the incoming Biden administration to revive Obama-era detente with Havana."
+    publishedDateTime: 2021-01-12T04:26:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-01-11/trump-plans-to-return-cuba-to-us-list-of-state-sponsors-of-terrorism-source"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-11/trump-plans-to-return-cuba-to-us-list-of-state-sponsors-of-terrorism-source?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-11/trump-plans-to-return-cuba-to-us-list-of-state-sponsors-of-terrorism-source?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Donald Trump visiting Texas' Rio Grande Valley on Tuesday as his administration rushes to award more border wall contracts"
     excerpt: "The president's visit comes a week after Department of Homeland Security officials touted the “historic” completion of 450 miles of border fencing during his administration."
     publishedDateTime: 2021-01-10T02:05:00Z

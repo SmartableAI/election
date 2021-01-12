@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4141044001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4141044001"
 type: article
 quality: 131
-heat: 511
+heat: 531
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/9da8faf3d99a52adfaf8ea034a239e9d38230b75/0_193_5807_3486/master/5807.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=de2ce9f34e538a331145bd735f29821c"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump rewards GOP ally Rep. Jim Jordan with Presidential Medal of Freedom"
+    excerpt: "Jordan objected to the 2020 election results in Congress last week, even after a pro-Trump mob stormed the Capitol."
+    publishedDateTime: 2021-01-12T04:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-rewards-gop-ally-rep-jim-jordan-with-medal-of-freedom-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-rewards-gop-ally-rep-jim-jordan-with-medal-of-freedom-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-rewards-gop-ally-rep-jim-jordan-with-medal-of-freedom-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/5ffca672d184b30018aae205?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Under heavy guard, Congress back to work after Trump supporters storm U.S. Capitol"
     excerpt: "Hundreds of President Donald Trump's supporters stormed the U.S. Capitol on Wednesday in a stunning bid to overturn his election defeat. But after hours of chaos in which police battled to regain control,"

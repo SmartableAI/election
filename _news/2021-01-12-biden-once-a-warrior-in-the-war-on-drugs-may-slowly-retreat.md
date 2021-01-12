@@ -469,8 +469,8 @@ related:
     quality: 105
   - title: "Biden's last major hire is career diplomat Burns to run CIA"
     excerpt: "U.S. President-elect Joe Biden on Monday tapped a former career diplomat in William Burns to lead the CIA as the Democrat raced to put a national security team in place days before his inauguration."
-    publishedDateTime: 2021-01-11T23:42:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-cia/biden-nominates-longtime-u-s-diplomat-burns-to-lead-cia-idUSKBN29G17M"
+    publishedDateTime: 2021-01-12T01:39:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-cia/biden-to-nominate-longtime-u-s-diplomat-burns-to-lead-cia-idUSKBN29G17M"
     type: article
     provider:
       name: Reuters

@@ -121,6 +121,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "New England Patriots coach Bill Belichick won't 'move forward' with Presidential Medal of Freedom from Donald Trump"
+    excerpt: "New England Patriots coach Bill Belichick said Monday that he will not \"move forward\" with the Presidential Medal of Freedom that Donald Trump planned to present to him on Thursday. Belichick explained his decision in a statement."
+    publishedDateTime: 2021-01-12T01:09:00Z
+    webUrl: "https://abcnews.go.com/Sports/england-patriots-coach-bill-belichick-move-forward-presidential/story?id=75189041"
+    ampWebUrl: "https://abcnews.go.com/amp/Sports/england-patriots-coach-bill-belichick-move-forward-presidential/story?id=75189041"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/england-patriots-coach-bill-belichick-move-forward-presidential/story?id=75189041"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 103
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "President Donald Trump to award Bill Belichick the Medal of Freedom on Thursday (report)"
     excerpt: "With only days remaining in his term, President Donald Trump is reportedly awarding Bill Belichick the Medal of Freedom. Trump has continued to award the medal in the aftermath of the insurrection at the U."
     publishedDateTime: 2021-01-11T00:45:00Z
@@ -154,6 +170,6 @@ related:
         height: 2365
         isCached: true
 
-secured: "ZEC4SmAIMcfcnXg1caxauFN6nhRw2Kr9eL7Q2cL8RRh3coFc0RPm+aDlpxc1OLV9Nm50t6VWX9WqCpNcMCDtF8Qu9xiKT2nkzA3wMfw7zftWVIFK8WdCBTkmj+G8O0VICDUalpMfPRw/BFhg/c3t90Kmxya2SWBebju9tx+GKwiTMVQ0TW970K7tNTXeO2tF1D5WMRwSo7dxpvE4WaVAuLI7ArVwo1ocy9XmPJDhncNy9vBipmpqXiqsr4ZeKoZ2/lh0b8Sat92Q8KsahF7WvfxxE0v9ScoVOfLmw0ysFLu1sPUBkM9gcCmd9TyjH3OTgqQMziIbonWcYEaC792yrA3bPOAgeKVnuJUidm8uO8E=;OBIaMN9w9eM8qmm7cXcZDw=="
+secured: "am3bus0y5zHkBniwJsrvDIUCSi8WTX1qgR8eGyDlowa6HFhvSL2k5y6JeRR6uvEzoBQLQk3n7q0xXFwrox+5IJFjuorTgPovcBSavqQDNDwveBgCVNWCiqiQfDsuT1Fue5PVT5OTvbMSVwyjtpCVdMZ/rUrKG2kkFIEQM8jwQEAnh+3DDhHaP5Vm2O53IP2WI7gSOTbZG4zC+yp+b0nJ7eDdg+hZIjuklJ62hI3q5IIDDxqjcbgClF8RXjG0bP2wRYB5/91SDXReQfapA5yLfFiNTc8hwgMMTl7lerZJVYkBfFk52rE84WmnIs13A6DqDX9/rMee1N6qRo/k+8kQNa6E+XRFYH5WQqXSV3K+tvitnCdw9FGjP8XFncqtrNUohwkqYM9gLO3hpAkU2oEsGgMaLSHGNvcsVB4tUVawiT4KdG4nqgZuc/sN/Dc4bO9eDXZ/Hhr5En7lwcbd3FFIFJsuhSZqLs0tIRvZnH2gmdH6YO5sYQ862VPks298UWEt06ncCQXgFNfJfNsrsLQu9A==;GieZ1Slx+sIzqtrGAkp6xQ=="
 ---
 

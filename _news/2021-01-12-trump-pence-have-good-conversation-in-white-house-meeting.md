@@ -2,9 +2,9 @@
 category: news
 title: "Trump, Pence have 'good conversation' in White House meeting"
 excerpt: "U.S. President Donald Trump and Vice President Mike Pence met at the White House on Monday evening and had a \"good conversation,\" a senior administration official said, amid reports of a strained relationship between the two after Trump supporters attacked the Capitol"
-publishedDateTime: 2021-01-12T00:14:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-in-white-house-meeting-idUSKBN29G2UT"
-webUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-in-white-house-meeting-idUSKBN29G2UT"
+publishedDateTime: 2021-01-12T05:00:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-in-white-house-meeting-idUSKBN29G2UT?edition-redirect=ca"
+webUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-in-white-house-meeting-idUSKBN29G2UT?edition-redirect=ca"
 type: article
 quality: 120
 heat: -1
@@ -1164,6 +1164,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Trump and Pence signal president won’t resign or be removed"
+    excerpt: "Vice President Mike Pence signaled he’ll spurn demands to immediately oust President Trump over a deadly riot by the president’s supporters as the two met and agreed to work together for the remainder of the term,"
+    publishedDateTime: 2021-01-12T04:06:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-11/trump-and-pence-signal-president-wont-resign-or-be-removed"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-11/trump-and-pence-signal-president-wont-resign-or-be-removed?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-11/trump-and-pence-signal-president-wont-resign-or-be-removed?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 140
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/a2c0562/2147483647/strip/true/crop/3331x2176+0+23/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fed%2F12%2F74db86b04f7b9d4717a4058b0bc4%2Fbiden-94967.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
@@ -5231,6 +5247,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "FWJiScYWx2J33Nnznns8fy5t+GQDTaZH9QMsTZoZ7GBZ3zbKTe5VTyoSiiVrtk64SfyYn2t1G0WuhfbGK8IN/ywddT006LNMiTAeVIJ761hIqhtl/Vfp7x1UhR1YdnuB2Zw535q/qxsfpYcpn8Q0/naTHOH5fMRNiSjdnfiMaV4dh3d7UTl5ekGj4U0XveSNzDwbA6RLmGxBSVAZMt8Elbo0HfQ4QyET6VXdDrSTEEdY2SzCxHfrC3qkHHDABC7RZApnmRkplEZqSSEFCMc8Tu1zX1/UUHRJHi3nTfVmDf3rrscJbL5dhcd+U5fRS86ncetGT8oKI+BNVA4A1VZ17w0TYFOAPmfLQvjTyFZDyqc=;xT2dO2aMnQnEdVXOGAnB9A=="
+secured: "VDcbkKpfEfp6icqFzIBg/D2QuaTPTwfC8c1xB8Z/TWpVdMRggrKjob/BwMpuuehI412mqRsHExDbGqp6AzgmIjyxjQmgu3EFtEF4ypm++HOA9O4CdxZNjZMcaeAf6avcNa1kPrMfsr7XAUwEU1yn55JSxNemsAQ4ZNPXp/oLjNb2gP8e7pHsBlxMZkK4NYobSz0ZCy5p82cCvoFsv6ZqPKJ3X0G0/Qt3BEPyU2r9Va0+BgwIP6PhG6+LDvljtxIfPtCQ9EI/34PU+9hMwR2Kxntn1/Yvd3Vcy58ibf4Akh/GvJ1ddiuqzhNXYAWBZf3RQq3LQ26rvDX1I21fQ3Kzq5dHTwE4mVW+7xNF0mLx4Ck=;IKj/2SvKqE+nkTSBjG3lWg=="
 ---
 

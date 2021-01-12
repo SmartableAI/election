@@ -111,6 +111,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump rewards GOP ally Rep. Jim Jordan with Presidential Medal of Freedom"
+    excerpt: "Jordan objected to the 2020 election results in Congress last week, even after a pro-Trump mob stormed the Capitol."
+    publishedDateTime: 2021-01-12T04:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-rewards-gop-ally-rep-jim-jordan-with-medal-of-freedom-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-rewards-gop-ally-rep-jim-jordan-with-medal-of-freedom-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-rewards-gop-ally-rep-jim-jordan-with-medal-of-freedom-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/5ffca672d184b30018aae205?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Under heavy guard, Congress back to work after Trump supporters storm U.S. Capitol"
     excerpt: "Hundreds of President Donald Trump's supporters stormed the U.S. Capitol on Wednesday in a stunning bid to overturn his election defeat. But after hours of chaos in which police battled to regain control,"
     publishedDateTime: 2021-01-07T10:54:00Z
@@ -327,6 +343,6 @@ related:
         height: 336
         isCached: true
 
-secured: "KxuTAmBL0vAb3WPqOmZNE2g0i/aYzh3m4hKEmyvLELnyB0+SX5nQdbnS2kl+oMHLtHW5KvyIdd6JBbxn1aJWSMg+sFdIBfL2INUyptZr7G6hU9R3AFCo0jTCSykRAPb030dDzuS+s2BQ74T8uBXwb2PQS2uARYccc5hCg1V5gaBTA2b+eH0Yd4xmbdlVbPzKUU1STgp5NR9Qaa2msNFMaiiPok6NoWi7qodNHhllcvI+QQNPrQlflGF4ZdMaWMUbfB5CpTB2qU5Yow13MHEjfacg/lopQU1n/DyN/2J9wkfWCR7B67p8Q5aobxqKelkNL+b06TStU+hcZf4sPR5DuHqFtx1IGQMs/fyZobBK5HA=;F/qCP93S9ER9/GTzSrvq7A=="
+secured: "p6mMmI6Xd1+LuxVt7wy/pTiCepETAQogjIdaXSFR08zg4s2paZVv+9cVINbQvTGnp78JiICAgH1GkIAMM6+xv2Hd13nFPfyYbVvGgEFUHPaSfD2sGlT22qy+JgZU/5Fuke34hnu5HJxoTfK1NnuN9sC7ewNr8kxsOGmouuM/i8NXzoTgWO4uOzQajrAZnJUsqfw5g8nTSw2Eu3Q8nXsYlWVYlRAB8WdzNyWGjkZX+C8bXCm+k0L7IyIlSviHk73X7iNMBzd5CAk/73bQpq5CEfL/tYZMJ2fNz8LL8jNr+SlwowvVifrID8HiYRtKpzC3zz9xaRPs8ZWF8QWh7dyD5UDixoMUY0bSMfx27ITg66LVMa8VVjamFBZUdplUbn2WKzmvd3VjXoRfJ2WwAVUlxzfEW3caDE7QLQKH3J8uj8YkHkhV1jiuKUM4Vcl6z4mU0ddWalZzaVVICG3HlUxmf6hQAECnJ/4DYsOE9ivAsqQWfcbyc4ANhczqJ/n+iot9+23sozMWtp0VR0sMWGpZ/Q==;dQULO6xGO6XhVtU0dKi1QQ=="
 ---
 

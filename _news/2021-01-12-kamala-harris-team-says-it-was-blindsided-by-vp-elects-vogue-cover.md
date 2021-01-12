@@ -468,7 +468,7 @@ related:
   - title: "Vogue's Kamala Harris Cover Was an Underwhelming Miss — and Her Supporters Want to Know Why"
     excerpt: "The criticism of the cover runs the gamut from way the photograph is lit, which some say washes out her features, to the overall styling that others say fall far short of capturing the country’s first Black woman to be elected vice president."
     publishedDateTime: 2021-01-11T19:10:00Z
-    webUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/"
+    webUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/?amp"
     ampWebUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/?amp"
     type: article
@@ -581,6 +581,6 @@ related:
         height: 630
         isCached: true
 
-secured: "tCm5GGzEF8yQ7IyhRlVcdHUGnXu86aRwT1sAlAoezHRMUz4yjRCo8hA7tm4c5/v6PO43P00lJdgDqjlCN63T8dCuBf0J1U2/tP2sDB+95IzTDygSIkcxJcrO2Xy32kZ4VtD1cUxLXkGG/6S3JjC+9Gwn50outweUOHM97BBylBl6szfe7TxNp6/agBIG+oDbJsoQis5fTUN9/Oen/HxNdGS/wZvRLx5l8I1WPnBN4th0JaBXImgNPgnuMVWk6m4cFoN+JA1/UGEd/xYkGrXkBWt2FGtVAmBwe4EpaftR0jW9djSRfBHs2xWA5UKXnmfr/XjSB2qEb0jy+zyQmpZuhoFGGJXzu89pURaLuYzW9J4=;/uV2yIeW0XFp6JR5Uvb0yw=="
+secured: "aZ/CQS0P4LS6dkBG5SJJoDGs0sySneS7BLn4Ez+z1/ak5ujkh48nt11E0f73Z6+IJLA/mv3ZitHQ65SG/6iVvQjEXwXtEmc4BF4MCV6AKQh+Eu/xWo8d2mnsvEkrZ8hgdN6KGd3TtD1pG9KTx9YRxtY7+f/mXyKY3ry0Fn4Q0nft3noeZdU4YXw6X7zWfGx7dZNPSQLJVOUuZ2+LKUTOruLo7bobNh+Pe7ExNk6u07PowgKhIgxxa+I++1bOjKoxxS7X0apmuJWCrmy7YIqnwXgeplgCeuu/+uQpy5TSf/iKDAwil08qTZOKdppmpFbspsK5gOXyQUDDbamZnFn7aMy2rsgKP/KGiPPmmm4zT8Y7iYYIih/tQAn7mWOuLTrp8Q3dNSBt6MYSnW/WrhGXUpQ1GnfMFqsYsW/nnrA7C9+J8WQPy1y55iiqbS9QxA9EVg/Z1m56uhV+QoKUfvXSAxyg4WC+MBnTubrqTAF6HIlKNmOypbKpGASL13yHuOoBoBkG3i9ZTQRzShsiFrTttQ==;JyAteazAx2GUkoV4QmjJug=="
 ---
 

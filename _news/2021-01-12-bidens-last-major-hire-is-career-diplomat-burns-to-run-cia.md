@@ -2,9 +2,9 @@
 category: news
 title: "Biden's last major hire is career diplomat Burns to run CIA"
 excerpt: "U.S. President-elect Joe Biden on Monday tapped a former career diplomat in William Burns to lead the CIA as the Democrat raced to put a national security team in place days before his inauguration."
-publishedDateTime: 2021-01-11T23:42:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-cia/biden-nominates-longtime-u-s-diplomat-burns-to-lead-cia-idUSKBN29G17M"
-webUrl: "https://www.reuters.com/article/us-usa-biden-cia/biden-nominates-longtime-u-s-diplomat-burns-to-lead-cia-idUSKBN29G17M"
+publishedDateTime: 2021-01-12T01:39:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-cia/biden-to-nominate-longtime-u-s-diplomat-burns-to-lead-cia-idUSKBN29G17M"
+webUrl: "https://www.reuters.com/article/us-usa-biden-cia/biden-to-nominate-longtime-u-s-diplomat-burns-to-lead-cia-idUSKBN29G17M"
 type: article
 quality: 105
 heat: -1
@@ -581,6 +581,6 @@ related:
         height: 630
         isCached: true
 
-secured: "QV5/eezaAgofc1JSar1ssJGYPmxCqDDiQHqXyxSW+8P6AOSOlL/mm7WaHZAQhHWjcY7iTQjtSAc3wiEpYe4NPFUFzGUXifCm6h7Ao/l2RKay+MC+AtpUqfpxYJnRaHRmJb/HTShec7uzfd3C7kbK0KPhvs6xUttu/7IN8W1uZhMJMoUcKkUr4mLfN2p2nDp+t+fLv/rGL7foaEGjKg11TqCRsRMTScKYtNxS6GyneNOxgQSWOU20SMhFpNgNn8y6uw4o9kgrvv8MsnBDs8oLfLtgHjkNGfuFoCNZbm55I+NPe2PxlDczvtqQ1a0D6KW0cvVQcXKhV1iYmKlR2IZrFTPOYEe1stZg3c7D8ndLnLiD40nxzK2eqsv87RZmpVX3Q705isaM/DGyRg96Nr2I6YqDxAyA/+JUKytVpPDnrahzpd5mhgpTSFebOM4I2w+S0hQijFLUoNZA+EQGkQ27TIdqvkTRB4GMWHuQio6HvrkjokmM1ulZFjqZUjj75s8QMMaXcwQnLFkL2SJlB04a6A==;fzjU16851bKUt3p9hZCvHw=="
+secured: "6g2/RO/I5b01ULEYHB8MIdyKE6hOtQ2ToAhBszSte4OuklDWzJpSNHr4Mn4aRWNRwrKHBNl2tFI/If8GWcapw33m0QQY+QGsVx6DpCZ9XucFz/Q6xDBp3Yk9KC6wWVcC34BUegJRKrrXbAmFeGfGyz+q/yzEmCQVqWAAQFww9csfFqkzMB5rtUkpBUzuMALXM/o3iayKYBSqR5OEXCEKV2CZOgzRX94VZIq0//fVvY26Va2d3YJ13g9sgzz7bR+LTwW1leuapWYBPpZqiByYktLPTXQRCO4O4IiwaNiPCpjlaXGbTj+ml92MeLuUUgsE0F1StxKkc4vQ1ikmimcR46jRYGnPH0UjqjWjNxxMGiQ=;ji66E+PwMsMIsUfd14PdKw=="
 ---
 

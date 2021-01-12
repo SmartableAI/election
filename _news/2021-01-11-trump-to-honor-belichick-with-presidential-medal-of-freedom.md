@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-honor-belichick-wit
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-honor-belichick-with-presidential-medal-of-freedom/2021/01/10/6f4d7c1c-53ab-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -99,6 +99,22 @@ related:
     webUrl: "https://abcnews.go.com/Sports/donald-trump-plans-award-presidential-medal-freedom-england/story?id=75169481"
     ampWebUrl: "https://abcnews.go.com/amp/Sports/donald-trump-plans-award-presidential-medal-freedom-england/story?id=75169481"
     cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/donald-trump-plans-award-presidential-medal-freedom-england/story?id=75169481"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 103
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "New England Patriots coach Bill Belichick won't 'move forward' with Presidential Medal of Freedom from Donald Trump"
+    excerpt: "New England Patriots coach Bill Belichick said Monday that he will not \"move forward\" with the Presidential Medal of Freedom that Donald Trump planned to present to him on Thursday. Belichick explained his decision in a statement."
+    publishedDateTime: 2021-01-12T01:09:00Z
+    webUrl: "https://abcnews.go.com/Sports/england-patriots-coach-bill-belichick-move-forward-presidential/story?id=75189041"
+    ampWebUrl: "https://abcnews.go.com/amp/Sports/england-patriots-coach-bill-belichick-move-forward-presidential/story?id=75189041"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/england-patriots-coach-bill-belichick-move-forward-presidential/story?id=75189041"
     type: article
     provider:
       name: ABC

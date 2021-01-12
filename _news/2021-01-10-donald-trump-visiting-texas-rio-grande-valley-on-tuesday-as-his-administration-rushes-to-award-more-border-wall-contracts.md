@@ -151,6 +151,17 @@ related:
         width: 1024
         height: 642
         isCached: true
+  - title: "Trump Returns Cuba to U.S. List of State Sponsors of Terrorism"
+    excerpt: "The Trump administration plans to return Cuba to the U.S. list of state sponsors of terrorism, a person familiar with the matter said on Monday, a move that could complicate any efforts by the incoming Biden administration to revive Obama-era detente with Havana."
+    publishedDateTime: 2021-01-12T04:26:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-01-11/trump-plans-to-return-cuba-to-us-list-of-state-sponsors-of-terrorism-source"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-11/trump-plans-to-return-cuba-to-us-list-of-state-sponsors-of-terrorism-source?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-11/trump-plans-to-return-cuba-to-us-list-of-state-sponsors-of-terrorism-source?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "3pBJQAz85Yz7ZFDaZ126Xq+IOUYLjpDopQFdhz/pDbd+a0hJiD8vUlv+E3yKabNQdqq8JtWmgM7N9y7AKuth8+5VPJ9U4UjpUiexxGL6oJ6A9QLnB544GDMNOHuvmQIQ5k4XgNnwDD284u3KSxAiMPWnCLUJSdeTeP9/m09EyHb5JOfKcfr4yhg5bBama2g6kTSMdsTdxb1HTsJ653olSoVUxWDG0GewhAYbjZZCqCTMexavB0gkBuLWVTY4j+fw4izsTAQer3ZucGHWI67GXQM5GwBDUXOlc2W1hLvh708ijnsdtftUN1MVxrRWIa+6jE5Jxd7ToU2eWCb8UXJOjv9QAMhzPmgONrOUcIBnggo=;q1EqcRuth30qRKLHnmu3Eg=="
 ---

@@ -111,6 +111,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump rewards GOP ally Rep. Jim Jordan with Presidential Medal of Freedom"
+    excerpt: "Jordan objected to the 2020 election results in Congress last week, even after a pro-Trump mob stormed the Capitol."
+    publishedDateTime: 2021-01-12T04:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-rewards-gop-ally-rep-jim-jordan-with-medal-of-freedom-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-rewards-gop-ally-rep-jim-jordan-with-medal-of-freedom-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-rewards-gop-ally-rep-jim-jordan-with-medal-of-freedom-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/5ffca672d184b30018aae205?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "New, more diverse Congress to be sworn in as COVID rages, Trump administration nears end"
     excerpt: "House and Senate lawmakers are sworn in Sunday, the start of a new Congress tasked with working with the Biden administration and fighting COVID-19."
     publishedDateTime: 2021-01-03T14:00:00Z

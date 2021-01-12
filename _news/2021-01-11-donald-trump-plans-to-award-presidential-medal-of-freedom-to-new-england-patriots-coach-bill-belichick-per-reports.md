@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "New England Patriots coach Bill Belichick won't 'move forward' with Presidential Medal of Freedom from Donald Trump"
+    excerpt: "New England Patriots coach Bill Belichick said Monday that he will not \"move forward\" with the Presidential Medal of Freedom that Donald Trump planned to present to him on Thursday. Belichick explained his decision in a statement."
+    publishedDateTime: 2021-01-12T01:09:00Z
+    webUrl: "https://abcnews.go.com/Sports/england-patriots-coach-bill-belichick-move-forward-presidential/story?id=75189041"
+    ampWebUrl: "https://abcnews.go.com/amp/Sports/england-patriots-coach-bill-belichick-move-forward-presidential/story?id=75189041"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/england-patriots-coach-bill-belichick-move-forward-presidential/story?id=75189041"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 103
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Bill Belichick declines Presidential Medal of Freedom from Donald Trump"
     excerpt: "Bill Belichick won’t be heading to the White House this week. Donald Trump wanted to award the Patriots coach the Presidential Medal of Freedom, but following the insurrection at the U.S. Capitol, Belichick has declined,"
     publishedDateTime: 2021-01-11T23:16:00Z

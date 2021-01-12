@@ -3,8 +3,8 @@ category: news
 title: "Vogue's Kamala Harris Cover Was an Underwhelming Miss — and Her Supporters Want to Know Why"
 excerpt: "The criticism of the cover runs the gamut from way the photograph is lit, which some say washes out her features, to the overall styling that others say fall far short of capturing the country’s first Black woman to be elected vice president."
 publishedDateTime: 2021-01-11T19:10:00Z
-originalUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/"
-webUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/"
+originalUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/?amp"
+webUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/?amp"
 ampWebUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/?amp"
 type: article
@@ -581,6 +581,6 @@ related:
         height: 630
         isCached: true
 
-secured: "VGgHPN7SFxS128fdG4FQEwMpH7biONMlF0x3EYCPjcWABl7jKuZgLWnX59zPYFsZ4HEnYXN2rGB/ZLtnPq9noZDqEgzv/le1qnFqBTZvlbNP7oodDR7PmJQBM+04x8h4bjl3u1RPZ/aDmFnnM7WFQ+FCyTz5nsN7bok8kA5cxVvLcvMXOjVBbRhnwCDOtwnmmPjpYU9LyPhYgbeShBKFyi0lO31b5KvsYL7MfQaQypM57BUbvVAqV83URRtYXJGigrSzTn9hI+j/FlXVzKHOdcB7JjHHRnQgLCZ60722NzSTQEesLG2gzDGd/MQielFSqKBy4OSEnC5G7QeYY2Gj04gBI5bCj/n/ZIPHCgxAxlPHwnR3PDdxNcF5z1mVlHFwmjtnEwfsIXsRYkNHhq7xK764yT9sJE6ROW9jILGH24XIx3tvjYtSrpsoIg72HW5+DoSa3EP3fb9VAU8XrFrcbKU3VsI1twVeBIeRn2HwcfYONTSmtkXl7dfDYlMs5R4M0x18gid19iY+05HKtKLNGQ==;5KH6MpihX3ShM6QtkRux6w=="
+secured: "DRbILrvO26pda8hOuEtDv6626hIp4VPEO+O/Y+FozhClL3L1NXhw7iSyTDO/UNWz3KRIXPnXQaalbqn6gdXMSH974wNHy66MhNGWOwI0AGtpVaQMQw295TA0UZaAYdAvyMgDB3yKIdA28z/FABO+L2TeCwPP2rP1Z0wa/EA7hfl5SR8RNS4QoVOOgUzXYM5dRb53S1kuLCnnaHSTv2zCJE6d31tpicok3VY8Ltjm9sJpHN7pQyTblDgUARWF1UZGWRR3vVphHNRdExm4jF4oeoIJA35kGcHMXIQznJw64cqgHPm1x6M0NXpwiPpFgQfWoDkzllGjEnZRJN1vN771i11O7xhvpiLsR0zW4TttyPg=;NBxjwRaEdYcyznszxKKglg=="
 ---
 
