@@ -1138,6 +1138,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Biden eyeing ways to prevent impeachment from derailing Senate confirmations"
+    excerpt: "A Trump trial in the early days of the new administration would throw a wrench into the battle to confirm nominees."
+    publishedDateTime: 2021-01-11T21:46:00Z
+    webUrl: "https://www.politico.com/news/2021/01/11/biden-prevent-impeachment-senate-confirmations-457635"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 112
+    images:
+      - url: "https://static.politico.com/5c/36/e203aeb74004b97086eea0ffec1b/ap21008699054694.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden Wants to Boost Democracy. He Should Shelve the Summit and Look to Europe."
     excerpt: "President-elect Joe Biden has promised to host a major “Summit of Democracies” in his first year in office as part of his effort to fight global democratic erosion and reverse President Donald Trump’s tilt toward authoritarian strongmen. Biden has ..."
     publishedDateTime: 2021-01-05T10:40:00Z

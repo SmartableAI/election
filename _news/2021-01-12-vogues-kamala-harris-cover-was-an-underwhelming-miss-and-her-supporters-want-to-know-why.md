@@ -3,8 +3,8 @@ category: news
 title: "Vogue's Kamala Harris Cover Was an Underwhelming Miss — and Her Supporters Want to Know Why"
 excerpt: "The criticism of the cover runs the gamut from way the photograph is lit, which some say washes out her features, to the overall styling that others say fall far short of capturing the country’s first Black woman to be elected vice president."
 publishedDateTime: 2021-01-11T19:10:00Z
-originalUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/?amp"
-webUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/?amp"
+originalUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/"
+webUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/"
 ampWebUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/?amp"
 type: article
@@ -581,6 +581,6 @@ related:
         height: 630
         isCached: true
 
-secured: "DRbILrvO26pda8hOuEtDv6626hIp4VPEO+O/Y+FozhClL3L1NXhw7iSyTDO/UNWz3KRIXPnXQaalbqn6gdXMSH974wNHy66MhNGWOwI0AGtpVaQMQw295TA0UZaAYdAvyMgDB3yKIdA28z/FABO+L2TeCwPP2rP1Z0wa/EA7hfl5SR8RNS4QoVOOgUzXYM5dRb53S1kuLCnnaHSTv2zCJE6d31tpicok3VY8Ltjm9sJpHN7pQyTblDgUARWF1UZGWRR3vVphHNRdExm4jF4oeoIJA35kGcHMXIQznJw64cqgHPm1x6M0NXpwiPpFgQfWoDkzllGjEnZRJN1vN771i11O7xhvpiLsR0zW4TttyPg=;NBxjwRaEdYcyznszxKKglg=="
+secured: "Jpfppx9CzMd2WTcEaiPxTvQ2SH9HAQXMN7D6+JM2Rmh+Irkkf62lSdGBDD2mIHq7ijxhKoH46Kl2/uL8xXltIleEVbfniLhUnCkNDSZ+0WhsO8U7aZ+VagwZaVCOM1kvrPvB1nmka4qCwKEPzXoX8CfNEUJnYRsD4mYybP/iUKBDZlfKNOZSH46SJPS+/B2bikfhOowFmbbkaqDrUjamDFADGSgbYh6Jqq6mfBDxPYRKvjr24gtUwVzZ0YqYGy3DxdTZbtKcrmqN/1Mw6jjSat/xdhO1UgoOKG7402vDMjBo52jT9b9M+7sp6ThjKuItOgYIEsBZ91fj+dZ3MQc2JNJhX6b+nreEmNUcfyA6YDM=;bk/qpnPRO4ML4ElcVSOWZA=="
 ---
 

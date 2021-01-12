@@ -2,12 +2,64 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-12-new-york-city-to-consider-ending-contracts-with-trump-that-bring-his-company-17-million-a-year.md",
+      "title": "New York City to consider ending contracts with Trump that bring his company $17 million a year",
+      "excerpt": "The city of New York said Monday that it was “reviewing whether legal grounds exist” to terminate its business relationships with President Trump, whose company has contracts to run a carousel, two ice rinks and a golf course in city parks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/new-york-trump-cancel/2021/01/11/3527257e-545a-11eb-a08b-f1381ef3d207_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/new-york-trump-cancel/2021/01/11/3527257e-545a-11eb-a08b-f1381ef3d207_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QFO2YSSG4EI6PDPBZ3CZVG7UWE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/new-york-trump-cancel/2021/01/11/3527257e-545a-11eb-a08b-f1381ef3d207_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/new-york-trump-cancel/2021/01/11/3527257e-545a-11eb-a08b-f1381ef3d207_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-11T22:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-fact-check-donald-trump-concession-video-not-a-confirmed-deepfake.md",
       "title": "Fact check: Donald Trump concession video not a ‘confirmed deepfake’",
       "excerpt": "Social media users have been sharing a post that claims a video in which outgoing president Donald Trump acknowledges President-elect Biden’s victory in the wake of the chaos of the Capitol protests has been confirmed to be a deepfake.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/idUSKBN29G2NL",
-      "originalUrl": "https://www.reuters.com/article/idUSKBN29G2NL",
+      "webUrl": "https://www.reuters.com/article/uk-factcheck-trump-consession-video-deep/fact-check-donald-trump-concession-video-not-a-confirmed-deepfake-idUSKBN29G2NL",
+      "originalUrl": "https://www.reuters.com/article/uk-factcheck-trump-consession-video-deep/fact-check-donald-trump-concession-video-not-a-confirmed-deepfake-idUSKBN29G2NL",
       "featuredContent": null,
       "highlight": null,
       "heat": 105,
@@ -778,7 +830,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 528,
+      "heat": 548,
       "tags": null,
       "images": [
         {
@@ -874,7 +926,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour?fbclid=IwAR1bNX4SBZrhlR_3TtForOSsodHxc-6OWQbLFglDCZ2N9L3EKdFRGsmiwEA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1287,49 +1339,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-explainer-can-social-media-companies-boot-trump-yes.md",
-      "title": "EXPLAINER: Can social media companies boot Trump? Yes",
-      "excerpt": "Social media companies decided this past week they had finally seen enough from President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/explainer-can-social-media-companies-boot-trump-yes-2021-1",
-      "originalUrl": "https://www.businessinsider.com/explainer-can-social-media-companies-boot-trump-yes-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/explainer-can-social-media-companies-boot-trump-yes-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-can-social-media-companies-boot-trump-yes-2021-1?amp",
-      "publishedDateTime": "2021-01-11T00:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

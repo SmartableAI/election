@@ -4625,6 +4625,20 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "Trump Shores Up Pence Ties As Democrats Move To Impeach"
+    excerpt: "President Donald Trump and Vice President Mike Pence meet on Monday for the first time since rioters stormed the US Capitol, signaling a united front as Democratic efforts to impeach Trump gain momentum."
+    publishedDateTime: 2021-01-12T02:33:00Z
+    webUrl: "https://www.ibtimes.com/trump-shores-pence-ties-democrats-move-impeach-3119079"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 80
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/11/us-president-donald-trump-faces-a-possible-fast.jpg"
+        width: 1024
+        height: 711
+        isCached: true
   - title: "Congress Is Set to Confirm Joe Biden's Win Over Trump Despite GOP Pushback. Here's What to Know"
     excerpt: "House and Senate Republicans are expected to lodge objections to key electoral votes, delaying the certification of Biden’s win over Trump."
     publishedDateTime: 2021-01-05T20:27:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp"
 type: article
 quality: 215
-heat: 2255
+heat: 2275
 published: true
 
 provider:
@@ -317,6 +317,22 @@ related:
     quality: 185
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91443177-58f8-41e0-aacc-cb3c2e5e60f4/0c640d09-4c34-4471-be1a-e944cc37bf27/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Trump approves DC emergency declaration prior to Biden inauguration"
+    excerpt: "President Donald Trump on Monday approved an emergency declaration for Washington D.C., ahead of President-elect Joe Biden's inauguration amid fears of potential violence following last week's deadly riot inside the U.S. Capitol. "
+    publishedDateTime: 2021-01-12T04:58:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zdFzsDGBRu4/live-updates-biden-transition-1-12-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-1-12-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-1-12-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3372f6b8-3de7-4132-a3b2-46d83b5ad47e/5721a468-d195-44c9-bc26-ed341316ffc3/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

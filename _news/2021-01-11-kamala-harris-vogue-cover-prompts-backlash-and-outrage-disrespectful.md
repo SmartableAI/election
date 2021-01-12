@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris' Vogue Cover Prompts Backlash and Outrage: ‘Disrespectful'"
 excerpt: "Vogue received similar criticism for the way it photographs Black stars when Simone Biles covered the magazine in July."
 publishedDateTime: 2021-01-10T19:28:00Z
-originalUrl: "https://www.nbcnewyork.com/news/local/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/"
-webUrl: "https://www.nbcnewyork.com/news/local/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/"
+originalUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
+webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
 ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
 type: article
@@ -59,6 +59,22 @@ related:
         width: 519
         height: 768
         isCached: true
+  - title: "Kamala Harris' team says they were blindsided by controversial Vogue cover; Twitter unhappy"
+    excerpt: "Vice President-elect Kamala Harris is splashed on the February cover of Vogue, but social media isn't crazy about the magazine's photo choice."
+    publishedDateTime: 2021-01-12T06:04:00Z
+    webUrl: "https://www.azcentral.com/story/entertainment/celebrities/2021/01/10/kamala-harris-vogues-cover-star-but-twitter-users-hate-photo/6615222002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6615222002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6615222002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/10/USAT/af029ec2-8407-4920-9107-97d66d067e40-VO0221_Cover_4x5.jpg?auto=webp&crop=1599,899,x0,y17&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris' Vogue Cover Explained After Intense Backlash: 'A Tribute To Her Sorority Days'"
     excerpt: "Kamala Harris' Vogue cover was a tribute to her sorority days as a member of the Alpha Kappa Alpha, according to a report."
     publishedDateTime: 2021-01-11T03:39:00Z
@@ -92,6 +108,6 @@ related:
         height: 576
         isCached: true
 
-secured: "tn71RWv6c452CPqZ/bsOHnlGE2hHxOpsVgcwjr4VJIdxMHGekaBI1zdujC+nUqeUJJRusyA4k1dwvbIHThtEaxHZF7ByeI4uZBAqunIH7SX6m/R2nez/EfpxpgVvTW2dkPHDWYbNpm4Ejmud9lEpyTVANCXxe/NT91OwUe6bDyaYLup0QGEP9I2dw9SKxW8cT9htCovv8H78Oz+/8YGemEKFFSMVK/Iye+Zn7JnRts+fsv4rEOO9UnXFr4CCdY6C0T6DXCixPadxNkMoBRmzJ0Qz/YezDY++31LgLvvpQaKmcX3Df59d2ij4kMpWprLCFSQBvGS/+vvHxuhWDIp2Gz62f0G5J9iY/8qj5Bk2ktg=;LQcX1KnvDWDC3Bg8+/zF9w=="
+secured: "BRTyk923ArURSylKZB7cHvy+NQRxAbRhGhCdvbtHnG0BEU09CVq585DmJPYepE1a85HcU5xA3VK/bzHMlRfCHSVPPA84XRxlOqXFkz0EZ8BGaaAdM0QrgbCHolYULZBJbQveMw4OuprH077u3x7upKrfQyTwAznyFKke4wAxwaMaPsfSbOQwE315UFO1+VMshrb+4i7/HV98x5bhgvVyBlJfBn1tT/iY/XFKZ1ecfmvfeDiM5z6nziAnuHWxjDK+V3CMaSCgTnFRTp2wOyYap4nQGG/FiGvZBaDDNW+Id4ftdFEknioAsb/p7ovoNAvRfiF+jv8LJgYcxn7Yps8I9NjDjRCX0dZdZux7nL0ucrY=;WV4LyFU/WHWSxTtnYDaUTg=="
 ---
 

@@ -4609,6 +4609,20 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "Trump Shores Up Pence Ties As Democrats Move To Impeach"
+    excerpt: "President Donald Trump and Vice President Mike Pence meet on Monday for the first time since rioters stormed the US Capitol, signaling a united front as Democratic efforts to impeach Trump gain momentum."
+    publishedDateTime: 2021-01-12T02:33:00Z
+    webUrl: "https://www.ibtimes.com/trump-shores-pence-ties-democrats-move-impeach-3119079"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 80
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/11/us-president-donald-trump-faces-a-possible-fast.jpg"
+        width: 1024
+        height: 711
+        isCached: true
   - title: "VIDEO: Biden Calls On Trump To Stop Violence In TV Briefing As Washington Descends Into Chaos"
     excerpt: "After a mob descended upon the Capitol on Wednesday during a joint session of Congress, President-elect Joe Biden addressed the country and urged calm. Speaking from his home in Delaware, Biden called on President Donald Trump “to go on national television now to fulfill his oath and defend the Constitution and demand an end to this siege."
     publishedDateTime: 2021-01-06T22:16:00Z
@@ -5247,6 +5261,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "VDcbkKpfEfp6icqFzIBg/D2QuaTPTwfC8c1xB8Z/TWpVdMRggrKjob/BwMpuuehI412mqRsHExDbGqp6AzgmIjyxjQmgu3EFtEF4ypm++HOA9O4CdxZNjZMcaeAf6avcNa1kPrMfsr7XAUwEU1yn55JSxNemsAQ4ZNPXp/oLjNb2gP8e7pHsBlxMZkK4NYobSz0ZCy5p82cCvoFsv6ZqPKJ3X0G0/Qt3BEPyU2r9Va0+BgwIP6PhG6+LDvljtxIfPtCQ9EI/34PU+9hMwR2Kxntn1/Yvd3Vcy58ibf4Akh/GvJ1ddiuqzhNXYAWBZf3RQq3LQ26rvDX1I21fQ3Kzq5dHTwE4mVW+7xNF0mLx4Ck=;IKj/2SvKqE+nkTSBjG3lWg=="
+secured: "HoyTMIBxlqbS1akbwkEjI6DadwAA19tmG84fcb5lXO1ivyidVKnRetTCvenOhL4iOphJBQ1/6Em1BW7wHjKsV0LQpe6bsaQfQAXZGnQYQAFP1BJ6Mpzvp0GyS2KgS8/eJ7aWWkZu9K9228PKzAAHSYM7b3u6biwVMvoLRGd7Pw+T/zdT6FIlfbe0DNXYuaCQsa++/maq/zPwwnKfUF4UqXh5NqTtuDAblTRb1T2mUNzpvu2TPsDsc/sO411OiS8A3sif6VU6VQobdQnZX6lLm5AssJwZDJIYfnQkVFnXYuqlm3M/ENXL6LONISl+NVLPesyuFC9n1ujDPU3OHfUXNIw2rIhIAeM3Wa2S9c9wSWaMc6lQzwkfBupyzMgykHQSKGnteL25NxMz4DdvRNHr5BVyhF9rLpJB9hwepAkuMQy3AXMRjkHWuI6157KOqxwGRcs6Pu187uV0EPbId5F8OpIFu4L+W16sVJuh+EuUcodjZPIC4Ic9kFdFzXtnv8rgpICixuFAo6lu7CJoJR0V+Q==;ReBZowtWbqonzNMQbfXZ/Q=="
 ---
 

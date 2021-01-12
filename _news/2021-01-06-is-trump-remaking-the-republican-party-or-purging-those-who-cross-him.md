@@ -253,6 +253,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Dershowitz blasts Democrats' impeachment push: 'They just want to have the accusation hanging over' Trump"
+    excerpt: "Congress does not have the power to hold an impeachment trial for any official after they've left office, Harvard Law School professor emeritus Alan Dershowitz argued on \"Hannity\" Monday."
+    publishedDateTime: 2021-01-12T05:02:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_S-6bw412kY/dershowitz-blasts-democrats-impeachment-push-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/dershowitz-blasts-democrats-impeachment-push-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dershowitz-blasts-democrats-impeachment-push-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7d3095f-e98c-4f4c-bd55-c950eb705fd3/cf9bd28e-9eeb-48cd-9721-334d2d3a2481/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "New Trump impeachment? Top Democrats show no interest in 'Squad' push"
     excerpt: "A renewed interest in impeaching President Trump from members of the so-called \"Squad\" is not catching on among top House Democrats."
     publishedDateTime: 2021-01-05T15:50:00Z

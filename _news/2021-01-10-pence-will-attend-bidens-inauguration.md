@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 1640
+heat: 1660
 published: true
 
 provider:
@@ -1135,6 +1135,20 @@ related:
     quality: 112
     images:
       - url: "https://static.politico.com/d2/27/4e66adb447e4a85b85ecc7276967/gettyimages-1295341558-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden eyeing ways to prevent impeachment from derailing Senate confirmations"
+    excerpt: "A Trump trial in the early days of the new administration would throw a wrench into the battle to confirm nominees."
+    publishedDateTime: 2021-01-11T21:46:00Z
+    webUrl: "https://www.politico.com/news/2021/01/11/biden-prevent-impeachment-senate-confirmations-457635"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 112
+    images:
+      - url: "https://static.politico.com/5c/36/e203aeb74004b97086eea0ffec1b/ap21008699054694.jpg"
         width: 1160
         height: 773
         isCached: true

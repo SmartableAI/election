@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Law enforcement: We'll be ready for Joe Biden's inauguration"
-    excerpt: "The inauguration of President-elect Joe Biden will be held on the same risers in the same spot at the U.S. Capitol where a violent, pro-Trump mob descended last week. But the two events aren't even comparable from a security standpoint,"
-    publishedDateTime: 2021-01-11T22:55:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-exclusive-biden-inauguration-theme-america-united-75176046"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-exclusive-biden-inauguration-theme-america-united-75176046"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-exclusive-biden-inauguration-theme-america-united-75176046"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_5a3c6b02005b4f858aed374d35dab59c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Mike Pence 'welcomes' the efforts of Republican lawmakers to challenge Biden's win, days before Congress is due to certify the election results"
     excerpt: "The efforts by GOP senators and representatives could delay certification of the election results, but would not change the results in any US state."
     publishedDateTime: 2021-01-03T06:26:00Z
@@ -79,6 +63,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Law enforcement: We’ll be ready for Joe Biden’s inauguration"
+    excerpt: "This time, they'll be ready. The inauguration of President-elect Joe Biden will be held on the same risers in the same spot at the U.S. Capitol where a violent, pro-Trump mob descended last week. But the"
+    publishedDateTime: 2021-01-12T05:24:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/law-enforcement-well-be-ready-for-joe-bidens-inauguration/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/law-enforcement-well-be-ready-for-joe-bidens-inauguration/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/law-enforcement-well-be-ready-for-joe-bidens-inauguration/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
 
 secured: "EeuVxP1VHqNvgXcK6SucRjDCrg1Y+Nh2sWw/7ydlbfDzChvp0dE2RO3THyvOh6gfnWSUhQ4oCAOriZSv73L1Abon/i3/atNAsBVecwENNH3JQ6ztoV4lzaonT1W6sdq/TC78/h05TAj8sGTQrL0uedGz1Yncl5IZC3krkbmdrC/8hAtvmOPwKf2sZ8h2ohCPpxfAf7xrzXqKECcTwDNbTImOsI8IGlCRc85XXVhNb2hsdWRQzUKd4G/E9dpUXxCFGseuOi+N3dfHg4qBNKmBiakIU3eVya0VhfLUDFRxPQA0eTwi39D66fjnuktZgaUv1LZ9zdjYsqOX9R6uGSfXfDZENuZW/9bpay5bFWvlbdA=;GDn7vRH/N+4GDAX6+KDpfw=="
 ---

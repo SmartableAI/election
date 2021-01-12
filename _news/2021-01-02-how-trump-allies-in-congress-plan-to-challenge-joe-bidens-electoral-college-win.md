@@ -337,6 +337,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Trump approves DC emergency declaration prior to Biden inauguration"
+    excerpt: "President Donald Trump on Monday approved an emergency declaration for Washington D.C., ahead of President-elect Joe Biden's inauguration amid fears of potential violence following last week's deadly riot inside the U.S. Capitol. "
+    publishedDateTime: 2021-01-12T04:58:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zdFzsDGBRu4/live-updates-biden-transition-1-12-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-1-12-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-1-12-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3372f6b8-3de7-4132-a3b2-46d83b5ad47e/5721a468-d195-44c9-bc26-ed341316ffc3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Federal judge denies Trump's emergency request to decertify Georgia election results"
     excerpt: "A federal judge on Tuesday denied President Trump's request for an emergency injunction to direct Georgia to decertify the 2020 presidential election results."
     publishedDateTime: 2021-01-05T17:44:29Z

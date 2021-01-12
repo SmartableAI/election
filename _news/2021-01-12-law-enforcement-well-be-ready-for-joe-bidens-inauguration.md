@@ -1,34 +1,24 @@
 ---
 category: news
-title: "Law enforcement: We'll be ready for Joe Biden's inauguration"
-excerpt: "The inauguration of President-elect Joe Biden will be held on the same risers in the same spot at the U.S. Capitol where a violent, pro-Trump mob descended last week. But the two events aren't even comparable from a security standpoint,"
-publishedDateTime: 2021-01-11T22:55:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/ap-exclusive-biden-inauguration-theme-america-united-75176046"
-webUrl: "https://abcnews.go.com/Politics/wireStory/ap-exclusive-biden-inauguration-theme-america-united-75176046"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-exclusive-biden-inauguration-theme-america-united-75176046"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-exclusive-biden-inauguration-theme-america-united-75176046"
+title: "Law enforcement: We’ll be ready for Joe Biden’s inauguration"
+excerpt: "This time, they'll be ready. The inauguration of President-elect Joe Biden will be held on the same risers in the same spot at the U.S. Capitol where a violent, pro-Trump mob descended last week. But the"
+publishedDateTime: 2021-01-12T05:24:00Z
+originalUrl: "https://www.seattletimes.com/nation-world/nation-politics/law-enforcement-well-be-ready-for-joe-bidens-inauguration/"
+webUrl: "https://www.seattletimes.com/nation-world/nation-politics/law-enforcement-well-be-ready-for-joe-bidens-inauguration/"
+ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/law-enforcement-well-be-ready-for-joe-bidens-inauguration/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/law-enforcement-well-be-ready-for-joe-bidens-inauguration/?amp=1"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_5a3c6b02005b4f858aed374d35dab59c_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Biden says impeachment is a \"decision for the Congress to make\""
@@ -80,6 +70,6 @@ related:
         height: 960
         isCached: true
 
-secured: "SGIUCbM7DTO9vpA3HmfrCuQ7dhr80Ys0ZgsT6UMeXD9sXq/glJAC7Vh48AI60NsEuwTsDQkBaORbM4qpRdqJsqGqsXSILptXIgz8MapJvGVW/02h3BuJNNylz0mpFhCsA4zepLn9f+c1kWE1+tnapf7NMTwb4S6iXT1ChUNFZkB5ItelgH6xk4LxCf42/ugNQjCTQYX4B2TZku5QhttYxXAYuuNUQkmJ+hBJMQN79d5ZIGZpJOwIkfmgADvpqRPcP250FFpZxcZwmZPLY7YZNf4GmsfoWAs+levb/lflNmZDdnAswKdjdOvqbT1kQxhAgE/GY8zUaF6IoiR9jd8ZS7XS+jCwymx5Lv3dtxug5RKMrLgjmBiXvx98VXLNNzemYpGekwMp/+2KZ2/Pv8r2+xarfflPTK0oW+3LboS7SppvwJf7N3PwtIdCZmDdVKdGyclnfSyZkr5LoHiKT/5A6h8twvlLvwwRYATpZ+iPg2NhFKZOiEz/IMez4kQAldqem/fn9ZENh7C1wfq/OzUI7g==;SA5uzTJFfHelAq73YETIgQ=="
+secured: "7F/LAxlS90Xc2cZ2v9Ukl6psIVZjp1w1aQ+UXpFN6yB8r5RgbemNRCzo8iugPeUtq0QDCr9BJD4tkHrDP6rk/+jpO2yvvAj7HTLgqc3pml79pKSFeVF3n9STRMmJqrf+MmdWb5qdO/4SU1hk68ydzyhFSICOONP8IoYM6BglO1UH9TgU5GqK7zpsmCI3XEu/c/ePxZlWasCruPY09S6PVlIAnWS3vaUcUDSQs4C5tiTCEJkaQtzUzaYwVRaiG4nhvmfc+cE2PLigIHNdVgU4DyD5S68Bsdn0xX/RjLBKnaxQFel2jpkvRh5fT6Bwv/ThM3Uw3SnpllRw0bMfMpOZJQLtISwJPHibAA/aVZ8fmqJ29h9ZQoPfyPsYROCgBVl6+sSAKXGxDrGUwhIGrhsO2sioH77FgrV86P569uU5W14TcljgR9imW4RxXgpe8LvoSLOfI7ZsQU1VHKGIS8AvJKgeDiKFt0pTNKVatVdyIf1h+tOZo94FRzq5/YHmOSdzPfv4Kfmnq/+2tEiE/7RTgg==;9XfdIljI+FY4NsZlLDYWDg=="
 ---
 

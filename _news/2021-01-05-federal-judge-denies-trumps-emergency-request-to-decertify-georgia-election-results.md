@@ -335,6 +335,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Trump approves DC emergency declaration prior to Biden inauguration"
+    excerpt: "President Donald Trump on Monday approved an emergency declaration for Washington D.C., ahead of President-elect Joe Biden's inauguration amid fears of potential violence following last week's deadly riot inside the U.S. Capitol. "
+    publishedDateTime: 2021-01-12T04:58:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zdFzsDGBRu4/live-updates-biden-transition-1-12-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-1-12-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-1-12-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3372f6b8-3de7-4132-a3b2-46d83b5ad47e/5721a468-d195-44c9-bc26-ed341316ffc3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pence, under pressure from Trump, says he does not have 'unilateral authority' to reject electoral votes"
     excerpt: "Vice President Mike Pence on Wednesday told Congress that he does not believe he has the ability to \"unilaterally\" accept or reject electoral votes, breaking with President Trump, who has mounted pressure on him to send the results of the presidential election back to the states."
     publishedDateTime: 2021-01-06T18:47:21Z
