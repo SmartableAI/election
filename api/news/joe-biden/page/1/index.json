@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-12-biden-chooses-veteran-diplomat-william-burns-as-his-cia-director.md",
+      "title": "Biden chooses veteran diplomat William Burns as his CIA director",
+      "excerpt": "William Burns, chosen by Biden to head the CIA, built a 33-year career at the State Department under both Republican and Democratic presidents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/7749282/2147483647/strip/true/crop/4341x2835+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F08%2Fbd%2Fcbf72ac3438eacfccf3ea6d430f8%2Fbiden-55451.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director?_amp=true",
+      "publishedDateTime": "2021-01-11T15:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-joe-bidens-inauguration-theme-america-united.md",
       "title": "Joe Biden’s inauguration theme: ‘America United’",
       "excerpt": "WASHINGTON (AP) — The theme for President-elect Joe Biden’s inauguration will be “America United,” an issue that’s long been a central focus for Biden but one that’s taken on added weight in the wake of the violence at the U.",
@@ -31,49 +83,6 @@
       "provider": {
         "name": "Cleveland.com",
         "domain": "cleveland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-joe-biden-picks-veteran-diplomat-william-burns-to-be-his-cia-director.md",
-      "title": "Joe Biden picks veteran diplomat William Burns to be his CIA director",
-      "excerpt": "A former ambassador to Russia and Jordan, William Burns, 64, had a 33-year career at the State Department under both Republican and Democratic presidents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-william-burns-cia-director-20210111-qbp6g5zlirdqdi45sdo7h6rdte-story.html",
-      "originalUrl": "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-william-burns-cia-director-20210111-qbp6g5zlirdqdi45sdo7h6rdte-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.baltimoresun.com/resizer/cHztdcIiGUkNYNc7oPnxzWH3N8Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TLEDH6ZTUNBMLEZTPITRQCPFDE.aspx",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-william-burns-cia-director-20210111-qbp6g5zlirdqdi45sdo7h6rdte-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-william-burns-cia-director-20210111-qbp6g5zlirdqdi45sdo7h6rdte-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-11T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Baltimore Sun",
-        "domain": "baltimoresun.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -200,7 +209,7 @@
       "originalUrl": "https://www.cbsnews.com/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -309,7 +318,7 @@
       "originalUrl": "https://www.bbc.com/sport/basketball/55584721",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -792,7 +801,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 885,
+      "heat": 865,
       "tags": null,
       "images": [
         {
@@ -896,7 +905,7 @@
       "originalUrl": "https://www.cbsnews.com/news/joe-biden-to-violent-mob-this-must-end-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {

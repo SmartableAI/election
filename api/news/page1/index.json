@@ -110,8 +110,8 @@
       "title": "Fact check: Donald Trump concession video not a ‘confirmed deepfake’",
       "excerpt": "Social media users have been sharing a post that claims a video in which outgoing president Donald Trump acknowledges President-elect Biden’s victory in the wake of the chaos of the Capitol protests has been confirmed to be a deepfake.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-factcheck-trump-consession-video-deep/fact-check-donald-trump-concession-video-not-a-confirmed-deepfake-idUSKBN29G2NL",
-      "originalUrl": "https://www.reuters.com/article/uk-factcheck-trump-consession-video-deep/fact-check-donald-trump-concession-video-not-a-confirmed-deepfake-idUSKBN29G2NL",
+      "webUrl": "https://www.reuters.com/article/idUSKBN29G2NL",
+      "originalUrl": "https://www.reuters.com/article/idUSKBN29G2NL",
       "featuredContent": null,
       "highlight": null,
       "heat": 105,
@@ -379,6 +379,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-biden-chooses-veteran-diplomat-william-burns-as-his-cia-director.md",
+      "title": "Biden chooses veteran diplomat William Burns as his CIA director",
+      "excerpt": "William Burns, chosen by Biden to head the CIA, built a 33-year career at the State Department under both Republican and Democratic presidents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/7749282/2147483647/strip/true/crop/4341x2835+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F08%2Fbd%2Fcbf72ac3438eacfccf3ea6d430f8%2Fbiden-55451.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director?_amp=true",
+      "publishedDateTime": "2021-01-11T15:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1019,49 +1071,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-joe-biden-picks-veteran-diplomat-william-burns-to-be-his-cia-director.md",
-      "title": "Joe Biden picks veteran diplomat William Burns to be his CIA director",
-      "excerpt": "A former ambassador to Russia and Jordan, William Burns, 64, had a 33-year career at the State Department under both Republican and Democratic presidents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-william-burns-cia-director-20210111-qbp6g5zlirdqdi45sdo7h6rdte-story.html",
-      "originalUrl": "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-william-burns-cia-director-20210111-qbp6g5zlirdqdi45sdo7h6rdte-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.baltimoresun.com/resizer/cHztdcIiGUkNYNc7oPnxzWH3N8Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TLEDH6ZTUNBMLEZTPITRQCPFDE.aspx",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-william-burns-cia-director-20210111-qbp6g5zlirdqdi45sdo7h6rdte-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-william-burns-cia-director-20210111-qbp6g5zlirdqdi45sdo7h6rdte-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-11T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Baltimore Sun",
-        "domain": "baltimoresun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {

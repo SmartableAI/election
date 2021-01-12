@@ -3,8 +3,8 @@ category: news
 title: "Factbox: Biden Cabinet - President-elect fills out his team"
 excerpt: "Democratic President-elect Joe Biden has selected people for his Cabinet, his White House team and other top jobs in his administration ahead of being sworn into office on Jan. 20."
 publishedDateTime: 2021-01-12T02:05:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-biden-cabinet-president-elect-fills-out-his-team-idUSL1N2IQ1W4"
-webUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-biden-cabinet-president-elect-fills-out-his-team-idUSL1N2IQ1W4"
+originalUrl: "https://www.reuters.com/article/us-usa-biden-cabinetfactbox-idUSKBN29G2MJ"
+webUrl: "https://www.reuters.com/article/us-usa-biden-cabinetfactbox-idUSKBN29G2MJ"
 type: article
 quality: 105
 heat: -1
@@ -580,16 +580,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Law enforcement: We’ll be ready for Joe Biden’s inauguration"
-    excerpt: "Preparations take place for President-elect Joe Biden’s inauguration on the West Front of the U.S. Capitol in Washington, Friday, Jan. 8, 2021, after supporters of President Donald Trump stormed the building."
-    publishedDateTime: 2021-01-12T08:14:00Z
-    webUrl: "https://lasvegassun.com/news/2021/jan/12/law-enforcement-well-be-ready-for-joe-bidens-inaug/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 35
 
-secured: "MsmIR6QC3IdxCO5TraOyLrHAIWslUzklNThSHZ7566Wjs1+WQ67UT0VFy3bMLHp4mLGtXA/ADt8bWr7vkMOubnjs6L84hyqeaz1qak8pwObsSWh9iTIDX5ekf9TE4bmbRbntMXXbT8aS3V9l1Vg09N+jwBxnqA1NKA63Y1/VN0+ZfUqAxgHpQQvytutM9XcHPKFCs6X9iJIHFkpn0AczOIAWMdfVwgwFviYbQtB9d0Gwq0dWtHPuhmVAsrJ5ZvpyQ/RV1myASOYd1dcsSva9Y6COhLWPXY3ijtXxsqKdrGRWF610LxMfCg1YQoJG9VLv7ud7hrM5MEcbp5H6T7lLXOhAhRmOXHCLE/73CR+2V2meyG82/lbaA56CDhhQcBqMihITkU//GlefLxIfldmQkxgI3pYcR/lp48hB5Me5BUfIOfSWzK2BfQ4eOxphHMN0pfBVx6NihaJj3mpdaOfnUzeRTdS16d+k67X0Z5vG6GX0tpIKKBYaNkJvu6kPSJTeKHSK84dlI9/SaWxMZqwPxg==;aw4GSU+C0m3PBDkNhALUCg=="
+secured: "EtNBsMv8j5ZUZnySKTH9qYvl5LCuaSnT7eMcYedWy94vOrqvAlfsbRl5FgRm6pIFFNUz3+pCjbpIxULUtX5HtPm3J9DPuZXWBk+JySrfNvOUl09mC9hqrc+C1jj31uZBegkgYf2/UDzNMl1stvPr/yDR7/JWQvpcWrUPt+W99LwJBG4EqIx0LXFpoPc60rAxIc+GRMzXJkXQKr1NZP+szPTF1Te3BDMgJfEe/xiVv8XRzJt07xQ269tsc4MyundvtLTsmI93QGfSx8tfR81WI/4FgM771cxVf1nRNQrmTB5hnn73+zNpGYz/h5qVmCIzONRejW3DFTvBY9yy08n5cKgALgN2SsSEcYVbQNWyDK8=;E+laUEl3p5xyp6hPJeRqnw=="
 ---
 

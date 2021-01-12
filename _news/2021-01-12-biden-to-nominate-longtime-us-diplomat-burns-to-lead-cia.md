@@ -29,35 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "NBA: Los Angeles Lakers hope to meet President Joe Biden but champions lose at Spurs"
-    excerpt: "The Los Angeles Lakers hope to re-establish the tradition of NBA champions visiting the president of the United States."
-    publishedDateTime: 2021-01-08T08:22:00Z
-    webUrl: "https://www.bbc.com/sport/basketball/55584721"
-    ampWebUrl: "https://www.bbc.com/sport/amp/basketball/55584721"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/amp/basketball/55584721"
+  - title: "Biden chooses veteran diplomat William Burns as his CIA director"
+    excerpt: "William Burns, chosen by Biden to head the CIA, built a 33-year career at the State Department under both Republican and Democratic presidents."
+    publishedDateTime: 2021-01-11T23:06:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director?_amp=true"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 118
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1313B/production/_116393187_lakers.jpg"
-        width: 1024
-        height: 576
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7749282/2147483647/strip/true/crop/4341x2835+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F08%2Fbd%2Fcbf72ac3438eacfccf3ea6d430f8%2Fbiden-55451.jpg"
+        width: 320
+        height: 209
         isCached: true
-  - title: "Marriott will suspend donations to U.S. lawmakers who voted against Biden certification"
-    excerpt: "Marriott International Inc, the world's largest hotel company, confirmed Sunday it will suspend donations to U.S. lawmakers who voted against certifying President-elect Joe Biden's victory last week."
-    publishedDateTime: 2021-01-11T00:30:00Z
-    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN29F0L4"
+  - title: "Joe Biden picks veteran diplomat William Burns to be his CIA director"
+    excerpt: "A former ambassador to Russia and Jordan, William Burns, 64, had a 33-year career at the State Department under both Republican and Democratic presidents."
+    publishedDateTime: 2021-01-11T14:50:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-william-burns-cia-director-20210111-qbp6g5zlirdqdi45sdo7h6rdte-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-william-burns-cia-director-20210111-qbp6g5zlirdqdi45sdo7h6rdte-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-william-burns-cia-director-20210111-qbp6g5zlirdqdi45sdo7h6rdte-story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 97
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 75
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547294520&r=LYNXMPEH090FT&w=800"
-        width: 800
-        height: 534
+      - url: "https://www.baltimoresun.com/resizer/cHztdcIiGUkNYNc7oPnxzWH3N8Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TLEDH6ZTUNBMLEZTPITRQCPFDE.aspx"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "r6mwve3VkuuiAWnk4Ixg+w2kthu2JcGzLBypdbmQyd8o2Wkg8VXucADS1cY3gDviKmLQNgjnsqBvZLktpSb+BpjsSwFzkeqpYnYl3x5Q4162IkkEqivuVmubVQLfEBh9HjuqsO2BaUidnOE/XEeokuvlwVUe5JnRseSV/TR48CWoi7ba52yRaPPUqK2NLG7FGIWZtFjnYmFgo1NF1T1FXt9ZM+A4+lXM6XqKUQJ8hwvZPUYneVZgNO/BO45yhwKYabqHW/olc1jym7mUFrcoJHUkVGBuW19UgfCRiStHW48BPC3lkncgUD3CrXyaOxn5CbvgSZ5SmPWvtbkt/1WAp+s+qJ0aY+fwL6IN2iL2GyIdrfzwVtK+SrkSvhVAlE0D80kbK6RvsIfxRYGUMhb6s3iOv6m3VKLw5UR2EtFqORyP7vFcDgjGrhR/zINxIh90uY91IBKqnbuKNMOamE7CylrJzUYvcgGeyNvBhT4ctU3x5AtCZ/ktq6rE81i0yCsLvLmPjlfYMBCtXhChcPDxug==;a0fgUDCb4RwvDBprOv1SRw=="

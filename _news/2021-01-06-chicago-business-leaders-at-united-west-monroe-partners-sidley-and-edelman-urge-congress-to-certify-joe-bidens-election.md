@@ -484,7 +484,7 @@ related:
   - title: "Factbox: Biden Cabinet - President-elect fills out his team"
     excerpt: "Democratic President-elect Joe Biden has selected people for his Cabinet, his White House team and other top jobs in his administration ahead of being sworn into office on Jan. 20."
     publishedDateTime: 2021-01-12T02:05:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-biden-cabinet-president-elect-fills-out-his-team-idUSL1N2IQ1W4"
+    webUrl: "https://www.reuters.com/article/us-usa-biden-cabinetfactbox-idUSKBN29G2MJ"
     type: article
     provider:
       name: Reuters
@@ -580,15 +580,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Law enforcement: We’ll be ready for Joe Biden’s inauguration"
-    excerpt: "Preparations take place for President-elect Joe Biden’s inauguration on the West Front of the U.S. Capitol in Washington, Friday, Jan. 8, 2021, after supporters of President Donald Trump stormed the building."
-    publishedDateTime: 2021-01-12T08:14:00Z
-    webUrl: "https://lasvegassun.com/news/2021/jan/12/law-enforcement-well-be-ready-for-joe-bidens-inaug/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 35
 
 secured: "aUbcnyqCHWAiNjEX+03IxANBzN6eeOgox+pPEJkrb84zP/lMVaeRypBxsYEGJwdaeH2j1dNeRV1+GjTzEje0DQ0GpSRw0IdDyP4OO9kgO8wheh87IQfE8zWg2nQlaGS+OBJcu3S7tgj0SINielc9mEwL6HKnow7SiTucx9XWxQmM/mIE2KvPY9jZ4ao6cUFpi0wH+zqMq0h04q9+/pKHGD5Y/6zwNjBuPb0DVhbhsi229sdHQqLsMdqd7VBCrcFe1IEksmTeD0KfBHiy/HZMSwDhVOfKfmACNqi3mGMuWhJE0W1AW3G8Y5GJ/TxEzkBcuziRXe8ztParj9H3n/fEh5wzX/ZrT9F4SeTOwFBb0Aovd6El7niSatoUqiMluCNdDr9KKnmmd1N/NQZIq/XV05BtZiYEfHjvPUTl/a+17k0JifwrAmLFJzNpKujWZvlrEuoQ+tH/8SECsS/LCn9QvcDEhm1vV9SuNud7x1VoGnpT5vMvzi7s6/mgeDtt26qiO+VNeRAapG2FWYEme2EBjg==;aoU8MuanszA0HVyMsFzutQ=="
 ---

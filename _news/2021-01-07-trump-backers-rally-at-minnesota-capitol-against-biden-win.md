@@ -1143,6 +1143,22 @@ related:
         width: 827
         height: 551
         isCached: true
+  - title: "After frosty few days, Pence, Trump appear to reach détente"
+    excerpt: "President Donald Trump and Vice President Mike Pence appear to have come to a détente after nearly a week of silence, anger and finger-pointing"
+    publishedDateTime: 2021-01-12T05:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/frosty-days-pence-trump-reach-dtente-75191815"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/frosty-days-pence-trump-reach-dtente-75191815"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/frosty-days-pence-trump-reach-dtente-75191815"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_94cb2d5998034950b10fe7270b31ef08_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Democrats give VP Mike Pence ultimatum to remove Trump from White House"
     excerpt: "US House Speaker Nancy Pelosi has stepped up the pressure on Vice-President Mike Pence to act to remove Donald Trump from office over his role in last week's storming of Congress. Lawmakers are expected to bring up a resolution asking Mr Pence to invoke the 25th Amendment to declare the president unfit for office."
     publishedDateTime: 2021-01-12T08:08:00Z
@@ -1158,6 +1174,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14169/production/_116418228_hi065099285.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Inside the remarkable rift between Donald Trump and Mike Pence"
+    excerpt: "The rupture between the president and his No. 2 is a startling capstone to a relationship long defined by Pence’s loyalty and subservience."
+    publishedDateTime: 2021-01-12T10:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-pence-breakuo-capitol-riot/2021/01/11/6a6aa052-5357-11eb-89bc-7f51ceb6bd57_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-pence-breakuo-capitol-riot/2021/01/11/6a6aa052-5357-11eb-89bc-7f51ceb6bd57_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pence-breakuo-capitol-riot/2021/01/11/6a6aa052-5357-11eb-89bc-7f51ceb6bd57_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XNR7QFCRFQI6XA7DGITEJWBDKY.jpg&w=1440"
+        width: 1440
+        height: 1004
         isCached: true
   - title: "The Latest: Trump, Pence speak for first time since attack"
     excerpt: "President Donald Trump and Vice President Mike Pence have spoken for the first time since last Wednesday’s Capitol insurrection, during which Pence was forced to flee the Senate chamber and retreat to"
@@ -3404,7 +3436,7 @@ related:
   - title: "Trump, Pence have 'good conversation' in White House meeting"
     excerpt: "U.S. President Donald Trump and Vice President Mike Pence met at the White House on Monday evening and had a \"good conversation,\" a senior administration official said, amid reports of a strained relationship between the two after Trump supporters attacked the Capitol"
     publishedDateTime: 2021-01-12T05:00:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-in-white-house-meeting-idUSKBN29G2UT"
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-in-white-house-meeting-idUSKBN29G2UT?edition-redirect=ca"
     type: article
     provider:
       name: Reuters
@@ -5321,6 +5353,17 @@ related:
         width: 1024
         height: 711
         isCached: true
+  - title: "U.S. House Democrats to Pursue Impeachment if Trump Not Removed"
+    excerpt: "U.S. House of Representatives Democrats plan a vote on Monday to urge Vice President Mike Pence to take steps to remove President Donald Trump from office after his supporters' deadly storming of the Capitol,"
+    publishedDateTime: 2021-01-12T10:31:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-10/democrats-push-toward-second-trump-impeachment-republican-support-uncertain"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-10/democrats-push-toward-second-trump-impeachment-republican-support-uncertain?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-10/democrats-push-toward-second-trump-impeachment-republican-support-uncertain?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "An8+EvI9xwx8/ZGmF8sizNeGGYmI7b0CsUBxTS3bOG6H1IIWJwH0vjopwKJ1s6bUC2KcDLOyRseCJ9rv03fuXsv8jdSeWy87a8YufNxOvNj1USNJfKiMn9peLiL6XfUbhVjg8ogAbImQI0/i94E2AwWxmnz/YsQafiaTOajSmQFbfJduVsLC1s/PUqSPUSVKP0x62Jhh7/efFz5cgAW+oHH9HidiDHFRYwCfeXl3G47hSzKMko6iMbJ4tyhbmSc9mH4kCm3YGwBtk2c0/23fQ4XlkUzOu+hozPiNAFkJRZ0ku16Y3WoLL3aRtRWTPQkfZoDSh/h+WGrsIhRNEAuZCBClzZxx0RF7L/A9MU3OiLQ=;/l4yOJUZApyAZv/Wv0M+hA=="
 ---
