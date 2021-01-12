@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/twitter-trending-hang-mike-pence.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-trending-hang-mike-pence.amp"
 type: article
 quality: 184
-heat: 224
+heat: 244
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump, in first public appearance since Capitol riot, says ‘we want no violence’"
+    excerpt: "President Trump on Tuesday, in his first public appearance since last week’s Capitol riot, said he wants \"no violence.\""
+    publishedDateTime: 2021-01-12T15:55:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhxwstdTmMA/trump-capitol-riot-no-violence"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-capitol-riot-no-violence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-capitol-riot-no-violence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Rep. Liz Cheney slams Trump for 'intolerable' conduct, says president 'incited the mob'"
     excerpt: "House Republican Conference Chair Liz Cheney, R-Wyo., slammed President Trump Wednesday following an afternoon of unrest at the U.S. Capitol that saw at least one woman shot and killed."
     publishedDateTime: 2021-01-07T00:31:58Z

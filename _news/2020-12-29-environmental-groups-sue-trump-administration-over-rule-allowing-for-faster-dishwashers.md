@@ -1391,6 +1391,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Defiant Trump denounces violence but takes no responsibility for inciting deadly riot"
+    excerpt: "A defiant President Donald Trump insisted Tuesday his speech inciting the riot at the US Capitol was \"totally appropriate\" while at the same time calling for \"no violence\" in his first public remarks to reporters after the insurrection last week.\n    \n"
+    publishedDateTime: 2021-01-12T16:42:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dfwAAazvnPQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/donald-trump-riot-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/donald-trump-riot-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112103246-03-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "House Democrats consider mid-next week for possible vote on Trump's second impeachment"
     excerpt: "House Democrats are furious at President Donald Trump and are quickly building momentum to move on impeachment of Trump in the next several days -- as soon as the middle of next week.\n    \n"
     publishedDateTime: 2021-01-08T13:58:24Z

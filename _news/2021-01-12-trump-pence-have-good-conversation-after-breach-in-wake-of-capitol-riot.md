@@ -2,9 +2,9 @@
 category: news
 title: "Trump, Pence have 'good conversation' after breach in wake of Capitol riot"
 excerpt: "President Donald Trump and Vice President Mike Pence had a \"good conversation\" at the White House on Monday evening, a senior administration official said, marking the end of a silent period in their relationship after the riot at the Capitol last week."
-publishedDateTime: 2021-01-12T08:31:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-after-breach-in-wake-of-capitol-riot-idUSKBN29G2UT"
-webUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-after-breach-in-wake-of-capitol-riot-idUSKBN29G2UT"
+publishedDateTime: 2021-01-12T13:12:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-in-white-house-meeting-idUSKBN29G2UT"
+webUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-in-white-house-meeting-idUSKBN29G2UT"
 type: article
 quality: 118
 heat: -1
@@ -4108,6 +4108,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "His days in power dwindling, Trump heads to Texas to see border wall"
+    excerpt: "U.S. President Donald Trump plans to emerge from seclusion on Tuesday for the first time since the U.S. Capitol was ransacked by pro-Trump protesters and will travel to Alamo, Texas, to visit his signature border wall."
+    publishedDateTime: 2021-01-12T16:21:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-texas-idUKKBN29H1AO?edition-redirect=uk"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547478534&r=LYNXMPEH0B0MX&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Trump pressures Pence to violate the Constitution by falsely claiming the vice president 'has the power' to reject the Electoral College count"
     excerpt: "Meanwhile, a group of Republican lawmakers are planning to disrupt the Electoral College count on Wednesday."
     publishedDateTime: 2021-01-05T18:55:00Z
@@ -5382,6 +5396,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "4c+9kYIGNkypkhqA0Fs3PL5phdA3jJPJrg6BdGDLdLS7E83VPT+2M4ReEbs/OQIXHjimKCNiIZPipP2V7weAZcMJnOYAXEtmBStub5RuZRcmQo7WSsEqjThHL/3792+ohfK1Dk6QaaW6hgh4E6iId2ElK6nZeagHKrwIwkuB8s/8E+PSJDHihPZaSQoiTJqLxeJZo9rOEpljNPm2c1GU4EfJZX+VdimKYCHnq0H5M1jcpnATSyw4HydZ80flgogXH7GHy1Ctb6zeBlAANCbjMkdLzumTYqsujX718G0akuAtpAehWDGWNkSTUVFLtsnaJlMVKnvi28qSjGvAXgOm9FQeFnor9mXM6P9HTOGQLwSyerxxzf1eqyUst9CAbR8awVtQsbRaSa9injrxTe4FTF/Db5gjgfOpdQphSJwrZdhX9AmGCuplrYIVDAb7efmHldCGEuCsfB+RqMUiTpDi99w+2CokpDMNsJNm24UWfFuf1veFN0/OU33IjxgWUfiZekVnIETWl83N2wx+7qPMnA==;njWPs8iHX7u6yOaC/xwTxA=="
+secured: "soUcyEKshAajwuMo2gPwr4MlWboClrIhycZNBN41ZhY8mKqYz3V5RscYMLJoeIyzk4MRkLgBTB9ifLIBZFkPzDAczf8z9cfZa9eKbTafFFkPEktQiiYhb5q8oji+P7i5nYzALlEBCtyj+S8EWO0vBDZyekJLNoIjKzllyyuMRcTfMR6iqdaWgJwdcSCw/kr8wLxXD982Owh5PwbCKh8yklXXcpfB+VL6emh7q3oTA3Y3eb97Vn4Irz64zVG+7ivL6CD9qg8RnqnaTjHwJ7wb9q4zSdgjE4bwvQL6HAxzr6L3o4atFWFZ5YloO55AOhMNTVNbiBPwqrk6P+qIokC7DWmqHTgVfWXiF6Mtaua9YFo=;wBmmPAnb1zdDHWFsKlw+cQ=="
 ---
 

@@ -143,6 +143,38 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "How a Vogue cover created an uproar over Kamala Harris"
+    excerpt: "Though it might seem, in light of all that is going on in Washington, D.C., the least of the matter, on Sunday a leaked shot of Vice President-elect’s Kamala Harris’ Vogue cover set off an unexpected firestorm."
+    publishedDateTime: 2021-01-12T16:10:00Z
+    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
+    excerpt: "US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect Kamala Harris. The image shows Ms Harris wearing an informal outfit including jeans and a pair of Converse trainers."
+    publishedDateTime: 2021-01-12T15:52:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55631499"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55631499"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55631499"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 124
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C2FA/production/_116441994_hi032741730-1.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Harris on Trump GA call before Senate runoff"
     excerpt: "Rough Cuts Harris on Trump GA call before Senate runoff. Posted . U.S. Vice President-elect Kamala Harris rallied supporters in Georgia on Sunday for Democratic Senate candidates"
     publishedDateTime: 2021-01-04T02:55:00Z
@@ -423,17 +455,17 @@ related:
         isCached: true
   - title: "Kamala Harris team says it was blindsided by VP-elect’s Vogue cover"
     excerpt: "Vice President-elect Kamala Harris has landed on the cover of the February issue of Vogue magazine, but her team says there’s a problem: the shot of the country’s soon-to-be No. 2 leader isn’t what both sides had agreed upon,"
-    publishedDateTime: 2021-01-11T21:27:00Z
-    webUrl: "https://www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
-    ampWebUrl: "https://www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+    publishedDateTime: 2021-01-11T17:38:00Z
+    webUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
+    ampWebUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
+      name: Hartford Courant
+      domain: courant.com
     quality: 75
     images:
-      - url: "https://www.dailypress.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
+      - url: "https://www.courant.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
         width: 1200
         height: 800
         isCached: true
@@ -601,6 +633,6 @@ related:
         height: 630
         isCached: true
 
-secured: "FAlsIKhjab7HO8M3w4pXSFMe0iemhUoMJtJOnd42wC3/e2ydO0SpG+Qb7PLwyg2rdTaVklk2WnNXjaH2JIDc5w5LRFAGFzhgaYE/zMiLwiLCOWWBUbUAUEaoWn1h2RWKdEzIlHaKu5Vy5MGmIbQYNpBIhHprPJK83UO+SVNcswM4lh0LBNVQ7NfSgU6woJ+JwkgaQiWx4zgEodSi0DRaWoYjs6Nk9Bj9lXUw0GCKAeTmkyGhX0QBf6J1xaYrq3yupgusbMp4lH3WF9sudX/hQpFN5EkQ4v0pF5K5g4Y91umYVppWveiyg2guPtobWIlxvQWiCvRhkfpsAr9M5wYj9elTd8XGI6Xj/FXT3gy+taE=;Rr4uzyY71CG0YAEL/wgE6A=="
+secured: "UCWMHjpFoXWU2pQcc8wgj8ZtGITzEQfRTPHLJ7R0Q6uC2Cb4u6hbjlVSoRmco6KThQAz6vJ6m0U+dt90d0IAF6xDAlTz9dPdd/571+l4Y0t5s2NiwRckH6bLzHkRvdPP1vzaNVR9VREpkLlQcXfXqdbV8hT6Cltv3h2KkyQ0c5GEhBezAsB3zSfzppE4rKMq6IcIjTdT326hyB1U6StQhUYcrgy6CJ32DlwO2pLBzFtprzir1vInzo00aOXuC3n0+jQoQOKxbxLfku1LF4ytRIkaavp0KIvEHml0SLCSwLlP4QNS5S3cWdt1KxyBvRHzQcJo8ourpUdxFUApr66hLVSc3nlTowj755yrUrS8SyiwH+SatUyXmEM3ID1WoETqKXKShDPOqBFYJOPU5Jo4r0rdLrSCig2w8vS/xX16EAi382mbK66EYqfUaTx3MSZ4xNaHm0rBzTzcC7smCdvYFIvYaJIUU5sbygePnzZkvGN+CjlKqoDTWnC4cEY4rXhFtWh9PA+3Rg7MjkqDyxR26w==;bcN6SApNL/StUPfcFeoXQg=="
 ---
 

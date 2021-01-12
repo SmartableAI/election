@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump travels to Texas to tout border wall gains, amid Capitol riot fallout"
+    excerpt: "President Trump on Tuesday will travel to Texas to visit the wall at the southern border, and tout his administration’s accomplishment in building more than 450 miles since he took office – an attempt to move attention away from the controversy related to last week’s riot in the Capitol."
+    publishedDateTime: 2021-01-12T16:07:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kqeD3WrpJRE/trump-texas-border-wall-gains"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-texas-border-wall-gains.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-texas-border-wall-gains.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0afe3101-4207-4390-a463-c8a200bcb033/ec23c2a3-31d2-4ea5-a18d-a46273f06d02/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Education Secretary Betsy DeVos resigns in letter criticizing Trump's rhetoric amid riots"
     excerpt: "Education Secretary Betsy DeVos resigned on Thursday, citing the riots that took place at the U.S. Capitol the prior day, Fox News has confirmed."
     publishedDateTime: 2021-01-08T02:34:07Z

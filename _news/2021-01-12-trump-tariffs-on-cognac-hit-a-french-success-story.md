@@ -75,6 +75,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Donald Trump Could Pardon Rappers Lil Wayne, Kodak Black"
+    excerpt: "Lil Wayne and Kodak Black might get a pardon from Donald Trump The president is expected to announce his final pardon list on Jan. 19 Wayne and Black were charged for possession of weapons Rappers Lil Wayne and Kodak Black could soon walk away as free men since President Donald Trump could be thinking of pardoning both artists before he leaves the office on Jan."
+    publishedDateTime: 2021-01-12T05:36:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-could-pardon-rappers-lil-wayne-kodak-black-3119640"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-could-pardon-rappers-lil-wayne-kodak-black-3119640?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-could-pardon-rappers-lil-wayne-kodak-black-3119640?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/04/lil-wayne.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "DdJByf5P1w/fsqTbx1hphFH6RElnbUo8BeHPP5eSvXBfssxz00TT+H1+wEBD5nObtKkv9w/KwShSMI+b11yTRxogX0dJ1KZzQjiyxq/P9YJyGGq2arnVHqiDDSjIH32lcXjnk1bNcCs1T55chvwdEg69ocuqrPuPnlSJabMRhM9EDAlEBb3yvX244sK+nYbOyQUK7YVKoYYTwtv2p6/uonVbNyuRozWnUef+VXC0p50uGgYaV8bSiJ2lV7B6p0tysXjBUT47/Si79o3XX912jWKnkz0HeCrJZKoP948ZkagL4SJ1db7HOyPCCzXbrGEBJcsJjGeMJ9a+39JMsdJTAyUGwFDqKL+/MpNYosxIfO0=;WcTGDMchaC4tlp0I13SlYA=="
 ---

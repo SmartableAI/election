@@ -3563,8 +3563,8 @@ related:
         isCached: true
   - title: "Trump, Pence have 'good conversation' after breach in wake of Capitol riot"
     excerpt: "President Donald Trump and Vice President Mike Pence had a \"good conversation\" at the White House on Monday evening, a senior administration official said, marking the end of a silent period in their relationship after the riot at the Capitol last week."
-    publishedDateTime: 2021-01-12T08:31:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-after-breach-in-wake-of-capitol-riot-idUSKBN29G2UT"
+    publishedDateTime: 2021-01-12T13:12:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-in-white-house-meeting-idUSKBN29G2UT"
     type: article
     provider:
       name: Reuters
@@ -4105,6 +4105,20 @@ related:
     quality: 105
     images:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547401830&r=LYNXMPEH0A1E4&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "His days in power dwindling, Trump heads to Texas to see border wall"
+    excerpt: "U.S. President Donald Trump plans to emerge from seclusion on Tuesday for the first time since the U.S. Capitol was ransacked by pro-Trump protesters and will travel to Alamo, Texas, to visit his signature border wall."
+    publishedDateTime: 2021-01-12T16:21:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-texas-idUKKBN29H1AO?edition-redirect=uk"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547478534&r=LYNXMPEH0B0MX&w=800"
         width: 800
         height: 533
         isCached: true

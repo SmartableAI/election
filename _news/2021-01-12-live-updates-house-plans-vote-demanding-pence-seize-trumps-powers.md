@@ -1392,6 +1392,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Defiant Trump denounces violence but takes no responsibility for inciting deadly riot"
+    excerpt: "A defiant President Donald Trump insisted Tuesday his speech inciting the riot at the US Capitol was \"totally appropriate\" while at the same time calling for \"no violence\" in his first public remarks to reporters after the insurrection last week.\n    \n"
+    publishedDateTime: 2021-01-12T16:42:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dfwAAazvnPQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/donald-trump-riot-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/donald-trump-riot-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112103246-03-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Environmental groups sue Trump administration over rule allowing for faster dishwashers"
     excerpt: "A coalition of environmental groups sued the Energy Department on Tuesday in an effort to block a new federal rule that would allow for faster dishwashers, arguing it could possibly lead to \"higher household utility bills and more pollution.\"\n    \n"
     publishedDateTime: 2020-12-29T18:48:27Z
@@ -2749,6 +2765,6 @@ related:
         height: 773
         isCached: true
 
-secured: "9m7XLFQbIe1io5RSIZUTSJ4kUKZyTTbUxcM0OxFjxT9sC29qiWpzt0kX86wqHV+Xbp9Nwb/4pEsuuneLvMfnzMgkSucdZRTzOQaA2mSmnn6FobFeTe+7yJ0dP8C+lpM95wpQa0nxS5AKPUb7SopilrwYlO1w9Zg0DYQs3q5jA9yu78tTx6u47XcPltfcQyUWG8/WOaiuFWxfn6a+goBfhmKDhw6lnmcJQ/gofPacupD6RAtRV9d4zuFFldfK2TQCrQRRWw4Rsq5rtm/+GzRvmHqhVzDcd9eei3fYfWujlisJ5bNG1uY237HMnx9LCo6gGiPp0b7NMjsZPIw9DRDkuhzpSTSe+8y8lTBAXdvqP24=;iJWf39uLGfMy+f+4Hqv/wA=="
+secured: "yoy0NaVGoB3Q0aHW47EbvhpdQCPdkvR0vpltUJal8aIQAZ5zm6KkARI2DF1qRdXooGTxlIXPNX1nAh+0/yTeIKjc8xpv64ZsmhkIhyDLAq0fxWgjQdrOQRIYde/tsOrvDYjbuMgrd+QHc4ygE3SWsnEDrdD8KmuZ557f6AgTmSJENZbl4j3UEMA1ZNMx/tkM2cQrl5S68oe7KYlwoxl5FFd73vL/c/wjimAHyKQ3NwpXEZlT7yjNn79YXt8xYYXaPPkmXv/ghDI6tzS0FHl0e6SGuwRuB91mlzXfKA1EgtybHWjX8AF+WvdTSFwaqBOUeBxc0dcWqUXsN7n3Qy+K/uYaz8+4vBwFZt+ttGwpb5XKWPTp8tcmX8bl++m/Kw4rGyKN7H6cg0yC7r5dRIGaasyqvBzYKBl0sgQMEXW515Lso06GA70w6CgavV20I8+CUybKmNcXuT+eD7qHW72E6HFc2rw2Z1Kz2uGzCIimrQ8aQQiKgo8S9GKhFjKL2Ewr9ORLxNC8lm9CtpT7TdI2kQ==;s2w2a8M6r7CoYJsJufxAgQ=="
 ---
 

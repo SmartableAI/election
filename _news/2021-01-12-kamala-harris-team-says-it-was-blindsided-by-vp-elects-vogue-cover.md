@@ -2,26 +2,26 @@
 category: news
 title: "Kamala Harris team says it was blindsided by VP-elect’s Vogue cover"
 excerpt: "Vice President-elect Kamala Harris has landed on the cover of the February issue of Vogue magazine, but her team says there’s a problem: the shot of the country’s soon-to-be No. 2 leader isn’t what both sides had agreed upon,"
-publishedDateTime: 2021-01-11T21:27:00Z
-originalUrl: "https://www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
-webUrl: "https://www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
-ampWebUrl: "https://www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+publishedDateTime: 2021-01-11T17:38:00Z
+originalUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
+webUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
+ampWebUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Daily Press
-  domain: dailypress.com
+  name: Hartford Courant
+  domain: courant.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.dailypress.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
+  - url: "https://www.courant.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -154,6 +154,38 @@ related:
       - url: "https://i.guim.co.uk/img/media/aad2fde33329699780b71b94975470c2abe19154/0_214_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f40500cdb421c69acab0b09185d0b90f"
         width: 600
         height: 360
+        isCached: true
+  - title: "How a Vogue cover created an uproar over Kamala Harris"
+    excerpt: "Though it might seem, in light of all that is going on in Washington, D.C., the least of the matter, on Sunday a leaked shot of Vice President-elect’s Kamala Harris’ Vogue cover set off an unexpected firestorm."
+    publishedDateTime: 2021-01-12T16:10:00Z
+    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
+    excerpt: "US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect Kamala Harris. The image shows Ms Harris wearing an informal outfit including jeans and a pair of Converse trainers."
+    publishedDateTime: 2021-01-12T15:52:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55631499"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55631499"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55631499"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 124
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C2FA/production/_116441994_hi032741730-1.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Harris on Trump GA call before Senate runoff"
     excerpt: "Rough Cuts Harris on Trump GA call before Senate runoff. Posted . U.S. Vice President-elect Kamala Harris rallied supporters in Georgia on Sunday for Democratic Senate candidates"
@@ -597,6 +629,6 @@ related:
         height: 630
         isCached: true
 
-secured: "aZ/CQS0P4LS6dkBG5SJJoDGs0sySneS7BLn4Ez+z1/ak5ujkh48nt11E0f73Z6+IJLA/mv3ZitHQ65SG/6iVvQjEXwXtEmc4BF4MCV6AKQh+Eu/xWo8d2mnsvEkrZ8hgdN6KGd3TtD1pG9KTx9YRxtY7+f/mXyKY3ry0Fn4Q0nft3noeZdU4YXw6X7zWfGx7dZNPSQLJVOUuZ2+LKUTOruLo7bobNh+Pe7ExNk6u07PowgKhIgxxa+I++1bOjKoxxS7X0apmuJWCrmy7YIqnwXgeplgCeuu/+uQpy5TSf/iKDAwil08qTZOKdppmpFbspsK5gOXyQUDDbamZnFn7aMy2rsgKP/KGiPPmmm4zT8Y7iYYIih/tQAn7mWOuLTrp8Q3dNSBt6MYSnW/WrhGXUpQ1GnfMFqsYsW/nnrA7C9+J8WQPy1y55iiqbS9QxA9EVg/Z1m56uhV+QoKUfvXSAxyg4WC+MBnTubrqTAF6HIlKNmOypbKpGASL13yHuOoBoBkG3i9ZTQRzShsiFrTttQ==;JyAteazAx2GUkoV4QmjJug=="
+secured: "NqPLRww2dQodFLwXHKKpBVp6eNmpGuudBEUPOszH1IBRPJSU9V8+67KBWZhrLQEIpf8TFHcZdRqObEAJJObl04an9NDX+CaqTFXmSslY5TPk5ZUkxwLh2VkLJ6RXWFRd9mf41j5x6VFZlO8QzzPwNlC3WjA1/pfmqVcNtEdKREuU25buO2ZaRQHHZeg5cEhczFhbpCjxL1cBqthZRBxjRXOixxssojfTNhBx5iQlkOtLkT8B+4BGFGzs2Qk2D0hIKpzLKq1/BR5O8s5Xsi6YJo/YoJN9eGzKcrBuQ8Ao1x5Q6VtV3nQsSpPWtH9aDD4rs6Akh2MFeanceGYZ0sUEPKGyldFXKjQjyxeD3W9OTX0=;pDbA7E4PKrYyNVzUMqhckA=="
 ---
 

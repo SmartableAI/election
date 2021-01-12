@@ -43,6 +43,17 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump Says 'Tremendous Anger' in Nation Over Impeachment"
+    excerpt: "Impeachment ahead, the House will first try Tuesday to push the vice president and Cabinet to act even more quickly to remove President Donald Trump from office."
+    publishedDateTime: 2021-01-12T16:35:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-12/house-speeding-to-impeach-trump-for-capitol-insurrection"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-12/house-speeding-to-impeach-trump-for-capitol-insurrection?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-12/house-speeding-to-impeach-trump-for-capitol-insurrection?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "RX+e1fFkFta0jwgmKTp4Hm9JVyOM4DtBCJAckJm76499Lf3UqOmK6x8X3eJWZI6lO/8uSWa2UyxKWE8JHXyyHtRhZxTIhU/KJFTcYQWX2kh0utpu3fmkL8MjyxRD77033H6AXjT+al9XJw7KED6j6T9BdguznVZAsF1HhKyDYKi++fkk8felJpjAZZjs3/n/r58INO/6VF3mSnexRLeQ0MrEQGB5AR67PrlfsgFrcxXw+lHUsWCWHN/ga4p/OFnAfH674TiOhm1UFIFFxwjgxl5Zh3YCRVKS8mrOB0Kr6y6CQUN3X21dQ2/66+uq06ki/KBk20oheUlo4/Fg5fMLI2h4iUtHdXaGaFNrisjZCGU=;0IkWUISQdcnZeJ3jB7UXrw=="
 ---

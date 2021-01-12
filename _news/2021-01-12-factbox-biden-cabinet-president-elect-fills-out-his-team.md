@@ -3,8 +3,8 @@ category: news
 title: "Factbox: Biden Cabinet - President-elect fills out his team"
 excerpt: "Democratic President-elect Joe Biden has selected people for his Cabinet, his White House team and other top jobs in his administration ahead of being sworn into office on Jan. 20."
 publishedDateTime: 2021-01-12T02:05:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-biden-cabinet-president-elect-fills-out-his-team-idUSL1N2IQ1W4"
-webUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-biden-cabinet-president-elect-fills-out-his-team-idUSL1N2IQ1W4"
+originalUrl: "https://www.reuters.com/article/us-usa-biden-cabinetfactbox-idUSKBN29G2MJ"
+webUrl: "https://www.reuters.com/article/us-usa-biden-cabinetfactbox-idUSKBN29G2MJ"
 type: article
 quality: 105
 heat: -1
@@ -597,6 +597,6 @@ related:
         height: 630
         isCached: true
 
-secured: "DZwAQaVxGLr4pwFLN4hpcvt2gbFaep1zzX2mMBHjK2yTD4+uvg2EIZ76+jjcO8BxJglLuBqKk4niS6amNmDs7nW8txoCqbBFDft5YsEpGVwfcliDve8ZKdQb5zMewwWTgcrLPA6XvMGyL+75f3PeT6URoZBalxE0FODJeqUcHJ1aOa4aEXna/BN4nkVgv17jMoXs61fVWWRjpLFo96CBR4qzbKfFcFw7LlPq89iYw+iB0fhzqD+YeOyKE34YwSdsRkiiaH/RwhAt0r126KUllRPtMFb3vqdOCGmAObaYyOEtyrmPj/68JInR7AakMJs5CUKQioeoH69Pv3AKCX4Un1YjERyTYcqqwl224+YOtUddP/XnRy0Buu83o7EzQ7uTeWQMnxuAW471lmh5vcGcTdY0lk0uNSDVMBXXZhQJslymTy1yF1TP0FGodZc4R5MW1pryVz4BviPgSeLcB+CFnmlZrdl0mQT/1/pHxBIjTU6mFfneT7p90shtIC/TKsjsKFHwLlAs9Bte0a/zm1+Zqg==;DwF1FadRv/swhNnXTKf2dQ=="
+secured: "vItW6suy0bX1GC2NOnOGj1p0DFhxeVtsWmH4kH8YWJJE52Xbq8rpdrVgbVmXGQJxNxHjAivMkJK8477hjumQCDRrbGDKYpy9E5DFsEmanPMs52bM0EpHtJ9AtWktxl8ppexSeW9Rdwy6ZzmrAXLhHPExjm9H6RiyhRQQTRMEne31GGazRPnj8IsSoas8IPIbzYNGX1GoQ1Ktyh9xkhBMgDEE69TN8OyD/hFeCx9AUrsmQ0bRNAi/TGsmjre8B660ypKHrHrFP7NmGFwNIMuEl+cRPTItYY6YQFMCT/bSCj6D2BSQpW6OVL2wdK0DQGFMq0aZM9C65lUgvAc0A04Mz9tjtX+DulfNvroAhdtuaP0=;dpzfWDvuZ/ILfEloauuK4A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/capitol-rioting-overshadowed-trumps
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capitol-rioting-overshadowed-trumps-accomplishments-pavlich.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "'Very strong case' Trump should resign over Capitol riots: Wall Street Journal editor"
+    excerpt: "Wall Street Journal editor-at-large Gerry Baker said there was a \"very strong case\" Tuesday for President Trump to resign from office with a week to go in his term, while hesitating to endorse the idea outright."
+    publishedDateTime: 2021-01-12T16:18:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0xGcX_-S63M/trump-resign-capitol-riots-wall-street-journal-baker"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-resign-capitol-riots-wall-street-journal-baker.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-resign-capitol-riots-wall-street-journal-baker.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f36e71b-7d01-4d99-95a6-ca96de5c9d59/a2179e6e-89d6-4dee-8cbf-d30733fef099/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Capitol rioting: Rep. Crenshaw blasts fellow Republicans for 'lying' to Trump supporters"
     excerpt: "Voters were \"lied to\" leading up to the riots that engulfed the Capitol in chaos and resulted in at least four deaths, Rep. Dan Crenshaw told Fox News on Thursday."
     publishedDateTime: 2021-01-08T02:05:32Z

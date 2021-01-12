@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/11/pelosi-says-house-wi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment"
 type: article
 quality: 123
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Says 'Tremendous Anger' in Nation Over Impeachment"
+    excerpt: "Impeachment ahead, the House will first try Tuesday to push the vice president and Cabinet to act even more quickly to remove President Donald Trump from office."
+    publishedDateTime: 2021-01-12T16:35:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-12/house-speeding-to-impeach-trump-for-capitol-insurrection"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-12/house-speeding-to-impeach-trump-for-capitol-insurrection?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-12/house-speeding-to-impeach-trump-for-capitol-insurrection?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "e6zUbvMWdoJ/ZcgCihq7C7zY1w+Bk56k1lR/wkBgmsuMvB1nptrAUZc73C3IHq+ncCNhuT43SfzbxIQyljYj8Zyqd/qPWA88AvxjPdFf+S8UfwDVTSyiwXqGTMr+HPI5UN1Gpb4KghP0YMBnmGuezncoTie35fqOTLfpf51pL5FlOsynRcdYQ+JLxnLyAcc1nCvIA1NlZljbzDmsG3ThxJ4oXf1V0m00kT+NbAlC5qxw74YINNJRLV0uFwQ6Shao+rcmiqBbpPWK5LrhvNv6J1HwuHpxMqSsXn918P7rwligtaILTc3DVGunnnQlkCWUXQIFXjCfzFcB5V7VssTbgx/0BexaeOxEvtgcKQfiYtHnULzm8xz9eTy3PfXtopX/udQDTNTyiqsGTHbptlTDRAtzKxffppAgnG+Lc39nWycNq011OImnxuWe9fYjkdLyBCIlrnKu8lqbfl1RtgyfB/jJsqko7l06lvt+hU8VU8QDkG/XqzEvIEM5rYYF0rBskxHSfqXxXbHnZw3j0nnGaA==;+GNB7r5XQN+jH20+ed2HgA=="
 ---
