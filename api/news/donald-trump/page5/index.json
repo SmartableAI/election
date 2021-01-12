@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-24-trump-bashes-dems-extreme-left-wing-agenda-then-pushes-for-2000-cash-payments-something-opposed-by-conservatives-its-confusing.md",
+      "title": "Trump bashes Dems’ ‘extreme left-wing agenda,’ then pushes for $2,000 cash payments, something opposed by conservatives. It’s confusing.",
+      "excerpt": "President Donald Trump stood in the White House’s Diplomatic Reception Room, holiday garland and gleaming ornaments draped on the fireplace behind him, and spoke into the camera not to deliver warm Christmas wishes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-covid-19-relief-20201223-4npyt3iqsbbwtohq6fd4bin23e-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-covid-19-relief-20201223-4npyt3iqsbbwtohq6fd4bin23e-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/NIqwUIY1cAamOKhxJynugtGG97Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5CQXMI33ZVBUVOCTSVDKV6ZN4Y",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-covid-19-relief-20201223-4npyt3iqsbbwtohq6fd4bin23e-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-covid-19-relief-20201223-4npyt3iqsbbwtohq6fd4bin23e-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-23T12:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-george-clooney-on-the-midnight-sky-and-donald-trump.md",
       "title": "George Clooney on ‘The Midnight Sky’ and Donald Trump",
       "excerpt": "His new movie is on Netflix, but the actor-director says theaters won’t go away and Hollywood will be fine. He’s not so sure about Washington.",
@@ -1529,63 +1581,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-late-night-compares-trump-health-adviser-paul-alexander-to-a-comic-book-villain.md",
-      "title": "Late Night Compares Trump Health Adviser, Paul Alexander, to a Comic Book Villain",
-      "excerpt": "The former Health and Human Services adviser’s leaked emails encouraged herd immunity to deal with the pandemic, writing of Americans, “We want them infected.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/18/arts/18latenight/18latenight-facebookJumbo.png",
-          "width": 876,
-          "height": 459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.amp.html",
-      "publishedDateTime": "2020-12-17T22:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

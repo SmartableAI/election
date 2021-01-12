@@ -580,6 +580,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Law enforcement: We’ll be ready for Joe Biden’s inauguration"
+    excerpt: "Preparations take place for President-elect Joe Biden’s inauguration on the West Front of the U.S. Capitol in Washington, Friday, Jan. 8, 2021, after supporters of President Donald Trump stormed the building."
+    publishedDateTime: 2021-01-12T08:14:00Z
+    webUrl: "https://lasvegassun.com/news/2021/jan/12/law-enforcement-well-be-ready-for-joe-bidens-inaug/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 35
 
 secured: "6g2/RO/I5b01ULEYHB8MIdyKE6hOtQ2ToAhBszSte4OuklDWzJpSNHr4Mn4aRWNRwrKHBNl2tFI/If8GWcapw33m0QQY+QGsVx6DpCZ9XucFz/Q6xDBp3Yk9KC6wWVcC34BUegJRKrrXbAmFeGfGyz+q/yzEmCQVqWAAQFww9csfFqkzMB5rtUkpBUzuMALXM/o3iayKYBSqR5OEXCEKV2CZOgzRX94VZIq0//fVvY26Va2d3YJ13g9sgzz7bR+LTwW1leuapWYBPpZqiByYktLPTXQRCO4O4IiwaNiPCpjlaXGbTj+ml92MeLuUUgsE0F1StxKkc4vQ1ikmimcR46jRYGnPH0UjqjWjNxxMGiQ=;ji66E+PwMsMIsUfd14PdKw=="
 ---

@@ -79,6 +79,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "House Sets Impeachment Vote to Charge Trump With Incitement"
+    excerpt: "Democrats are planning a Tuesday vote to formally call on the vice president to wrest power from President Trump and a Wednesday impeachment vote if he does not."
+    publishedDateTime: 2021-01-12T03:37:00Z
+    webUrl: "https://www.nytimes.com/2021/01/11/us/politics/house-trump-impeachment-vote.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/11/us/politics/house-trump-impeachment-vote.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/11/us/politics/house-trump-impeachment-vote.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/11/us/politics/11dc-cong1/11dc-cong1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "cadJUddVPuJESnDWTMAYIFlTh/jDSvKQxHjPePVuW/qPltbebV0vvwjOjMQdx3yVrjsQ3sJSfnZhtus78f3aDxeK5ZmtVhx4oWMKBkK7XZcOOu/NUftit9TU6409NniHDvHwaRaHIkTgMz4Uj8/Q/RbfNR916EGzN4DfbtPTJlLMAfti2bR69Guoc5heOtjZ5xlNLEs6ig54kSku2A4s5i9vsx5XLXmU3IauGvEsZg2i0iEKXCvIZNj2YM03wpvWmk0A42oV0Gxx8eBzdh4TKADCZT5a2YRhRHLC5J4K9Zczb/Vd2jVxKk2aJ2QURk/oIwiptkA6uXfHU+YZOk3ObyUOh/GJu4VzRMe4c6w9V4c=;0H2sM19L0U+vI3sRDNqPPg=="
 ---

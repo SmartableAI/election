@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/biden-says-impeachment-is-a-judgmen
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/"
 type: article
 quality: 125
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -63,17 +63,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Law enforcement: We’ll be ready for Joe Biden’s inauguration"
-    excerpt: "This time, they'll be ready. The inauguration of President-elect Joe Biden will be held on the same risers in the same spot at the U.S. Capitol where a violent, pro-Trump mob descended last week. But the"
-    publishedDateTime: 2021-01-12T05:24:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/law-enforcement-well-be-ready-for-joe-bidens-inauguration/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/law-enforcement-well-be-ready-for-joe-bidens-inauguration/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/law-enforcement-well-be-ready-for-joe-bidens-inauguration/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
 
 secured: "EeuVxP1VHqNvgXcK6SucRjDCrg1Y+Nh2sWw/7ydlbfDzChvp0dE2RO3THyvOh6gfnWSUhQ4oCAOriZSv73L1Abon/i3/atNAsBVecwENNH3JQ6ztoV4lzaonT1W6sdq/TC78/h05TAj8sGTQrL0uedGz1Yncl5IZC3krkbmdrC/8hAtvmOPwKf2sZ8h2ohCPpxfAf7xrzXqKECcTwDNbTImOsI8IGlCRc85XXVhNb2hsdWRQzUKd4G/E9dpUXxCFGseuOi+N3dfHg4qBNKmBiakIU3eVya0VhfLUDFRxPQA0eTwi39D66fjnuktZgaUv1LZ9zdjYsqOX9R6uGSfXfDZENuZW/9bpay5bFWvlbdA=;GDn7vRH/N+4GDAX6+KDpfw=="
 ---

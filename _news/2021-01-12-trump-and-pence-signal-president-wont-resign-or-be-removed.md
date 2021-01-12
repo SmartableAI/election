@@ -1151,6 +1151,22 @@ related:
         width: 827
         height: 551
         isCached: true
+  - title: "Democrats give VP Mike Pence ultimatum to remove Trump from White House"
+    excerpt: "US House Speaker Nancy Pelosi has stepped up the pressure on Vice-President Mike Pence to act to remove Donald Trump from office over his role in last week's storming of Congress. Lawmakers are expected to bring up a resolution asking Mr Pence to invoke the 25th Amendment to declare the president unfit for office."
+    publishedDateTime: 2021-01-12T08:08:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55611630"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55611630"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55611630"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14169/production/_116418228_hi065099285.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "The Latest: Trump, Pence speak for first time since attack"
     excerpt: "President Donald Trump and Vice President Mike Pence have spoken for the first time since last Wednesday’s Capitol insurrection, during which Pence was forced to flee the Senate chamber and retreat to"
     publishedDateTime: 2021-01-12T00:10:00Z
@@ -1166,6 +1182,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Trump and Pence meet for first time since Capitol assault"
+    excerpt: "A former White House official with close ties to Pence earlier told CBS News that the vice president is \"discouraged, disheartened, hurt and stunned.\""
+    publishedDateTime: 2021-01-12T04:56:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-2021-01-11/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-2021-01-11/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-2021-01-11/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/07/07/047bddca-c922-442f-8e93-0b632a9168b6/thumbnail/1200x630g3/50300a742d69114a5f41f8ebd6ae096c/donald-trump-mike-pence-2020-07-07t194337z.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
@@ -1880,6 +1912,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547239085&r=LYNXMPEH09003&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Democrats balance impeachment with Biden’s first 100 days as clock ticks toward Trump exit"
+    excerpt: "House leaders set plans in motion to impeach President Trump for a second time, with a vote as early as Wednesday."
+    publishedDateTime: 2021-01-11T23:46:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-11/republicans-block-house-resolution-to-call-on-pence-to-remove-trump-over-capitol-riot"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-11/republicans-block-house-resolution-to-call-on-pence-to-remove-trump-over-capitol-riot?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-11/republicans-block-house-resolution-to-call-on-pence-to-remove-trump-over-capitol-riot?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 130
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/1d4ad2b/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F50%2F91%2F15d20a2549be9a2398868aa57f19%2Fap21006704485650.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Democrats' Push to Impeach Donald Trump Puts Joe Biden in a Bind"
     excerpt: "Privately, some Democratic aides and operatives fearful trying to push Trump out of office rather than letting him serve out the final few days of his term could backfire politically and create an unw"
@@ -3348,14 +3396,14 @@ related:
   - title: "Trump, Pence have 'good conversation' in White House meeting"
     excerpt: "U.S. President Donald Trump and Vice President Mike Pence met at the White House on Monday evening and had a \"good conversation,\" a senior administration official said, amid reports of a strained relationship between the two after Trump supporters attacked the Capitol"
     publishedDateTime: 2021-01-12T05:00:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-in-white-house-meeting-idUSKBN29G2UT?edition-redirect=ca"
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-in-white-house-meeting-idUSKBN29G2UT"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 120
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547431155&r=LYNXMPEH0A1M0&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547461760&r=LYNXMPEH0A1M0&w=800"
         width: 800
         height: 533
         isCached: true
@@ -3450,6 +3498,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/121221546319d71ceab74c8609f6eaeaf396fb3c/0_247_4254_2553/master/4254.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b3a4e9fc63f7fa23de3227e629c8e2a1"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump, Pence have 'good conversation' after breach in wake of Capitol riot"
+    excerpt: "President Donald Trump and Vice President Mike Pence had a \"good conversation\" at the White House on Monday evening, a senior administration official said, marking the end of a silent period in their relationship after the riot at the Capitol last week."
+    publishedDateTime: 2021-01-12T08:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-after-breach-in-wake-of-capitol-riot-idUSKBN29G2UT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547461760&r=LYNXMPEH0A1M0&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "Biden to take swift action to roll back harmful 'midnight regulations' -transition team"
     excerpt: "The Biden administration will take swift action when it assumes office on Jan. 20 to rollback harmful Trump administration policies that will not have taken effect by inauguration day, a spokeswoman for President-elect Joe Biden's transition team said on Wednesday."

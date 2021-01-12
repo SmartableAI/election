@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-b
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 865
+heat: 885
 published: true
 
 provider:
@@ -580,6 +580,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Law enforcement: We’ll be ready for Joe Biden’s inauguration"
+    excerpt: "Preparations take place for President-elect Joe Biden’s inauguration on the West Front of the U.S. Capitol in Washington, Friday, Jan. 8, 2021, after supporters of President Donald Trump stormed the building."
+    publishedDateTime: 2021-01-12T08:14:00Z
+    webUrl: "https://lasvegassun.com/news/2021/jan/12/law-enforcement-well-be-ready-for-joe-bidens-inaug/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 35
 
 secured: "4moT2q+S7+7laNNkrDr1+ixOSI9Po3KrrQwHa3VZKemT/Kqca/qYR2z2apl3yOxNHA/mV6tx0sfroz2ctQt7vEF55NzEAHdAWLsOUbehpP4pXTGvvtSAS/yPqTzcUM+13O0fAR7846RaBDhYSuSFUy/eWXwum/5bvYrG0npWB2iwQ3z3Stb30J8OD2WVRojj8ZD/hn28TmTf6EvmMKDWrknNk5k658oco5bI35QUpn9YjaVayvs4lkmeaqpJVvaG5NPvN1VSEmnUt2E9i7BRb77SPTK56nxhkV/9CAwIt5gK04uyXlvtLSz7mtsB1oLNalPFGzY53owgCzQHv2UAOeH03PIuczPZ33yKNRd3CNM=;qiPgANldyanNj/kSH5JUjQ=="
 ---

@@ -2,6 +2,63 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-12-04-trump-administration-claims-facebook-improperly-reserved-jobs-for-h-1b-workers.md",
+      "title": "Trump Administration Claims Facebook Improperly Reserved Jobs for H-1B Workers",
+      "excerpt": "A Justice Department lawsuit accuses the social-media company of illegally reserving high-paying jobs for immigrant workers it was sponsoring for permanent residence and failing to adequately search for U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
+      "originalUrl": "https://www.wsj.com/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-267936/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-administration-claims-facebook-improperly-reserved-jobs-for-h1-b-workers-11607023044",
+      "publishedDateTime": "2020-12-03T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-senate-vote-likely-next-week-on-blocking-trumps-massive-uae-arms-sale.md",
       "title": "Senate vote likely next week on blocking Trump's massive UAE arms sale",
       "excerpt": "The top Democrat on the U.S. Senate Foreign Relations Committee said he expected lawmakers would vote as soon as next week on resolutions seeking to block Republican President Donald Trump's $23 billion weapons sale to the United Arab Emirates.",
@@ -1285,62 +1342,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/obama-trump-stereotypical-macho-style-young-black-voters.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-trump-stereotypical-macho-style-young-black-voters.amp",
       "publishedDateTime": "2020-12-02T10:50:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-biden-intends-to-keep-wray-as-fbi-director.md",
-      "title": "Biden intends to keep Wray as FBI director",
-      "excerpt": "President-elect Joe Biden intends to keep FBI Director Christopher Wray in his post leading the bureau during his administration, Fox News has confirmed.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pcHLHzqh25A/biden-intends-to-keep-fbi-director-wray",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pcHLHzqh25A/biden-intends-to-keep-fbi-director-wray",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-intends-to-keep-fbi-director-wray.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-intends-to-keep-fbi-director-wray.amp",
-      "publishedDateTime": "2020-12-02T10:42:22-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

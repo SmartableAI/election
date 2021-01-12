@@ -63,17 +63,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Law enforcement: We’ll be ready for Joe Biden’s inauguration"
-    excerpt: "This time, they'll be ready. The inauguration of President-elect Joe Biden will be held on the same risers in the same spot at the U.S. Capitol where a violent, pro-Trump mob descended last week. But the"
-    publishedDateTime: 2021-01-12T05:24:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/nation-politics/law-enforcement-well-be-ready-for-joe-bidens-inauguration/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/nation-politics/law-enforcement-well-be-ready-for-joe-bidens-inauguration/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation-politics/law-enforcement-well-be-ready-for-joe-bidens-inauguration/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
 
 secured: "cPDAiZvwmj3SneYymw46xXgrRy20anM8B4fdL2gevQytgQ9JuEPlXqdlIstfwD4iAKe0ZUUA6AsIAaLJaLKNIbHvX3A0bwx9Q0er/AJfmvQ1cz+p7uaVtVa0c9sx2ZSkEBSQnFe7RNpqD10fTXsm1XaGGXnt43lSYtAwfopjyftBjsvEJOLdTwMPeXhHbaOUfUFAjzGoGQ+sCfX3YZJk9OCwxjjdN+cNmadubr+Gh++GFeJza00fU6zkMTLKzG+dWyKoYxqWdADDlKU/L2RqYP2Khl/OrhFRffiQqfwyKZLnYFe2GQjiFTt8ESG0evDFoL6d8OmctFsCDeAoYFd4N/qJMk1/Fq66Rnl2Q4vya3q55Jx0WzRJQkXWkk6QVMyxS4ZSSOhfjAlHW3PL2u0ESb958TrEMb/T6632fL9Hg8ezyJ1JD4GPfMzCv9j9izdSlLYwqlorPiOlQPNQskrAdXsR+T2gC+xT+wAenvx+FNTGt7WspR9upTIWiVoKaHnjhssNBW9X52plJecs/g4UpQ==;lySpG06F40Gofuz2eyJ8jw=="
 ---

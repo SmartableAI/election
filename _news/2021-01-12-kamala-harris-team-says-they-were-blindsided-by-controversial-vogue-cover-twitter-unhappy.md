@@ -46,7 +46,7 @@ related:
   - title: "Kamala Harris' Vogue Cover Prompts Backlash and Outrage: ‘Disrespectful'"
     excerpt: "Vogue received similar criticism for the way it photographs Black stars when Simone Biles covered the magazine in July."
     publishedDateTime: 2021-01-10T19:28:00Z
-    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
+    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/"
     ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
     type: article
@@ -108,6 +108,6 @@ related:
         height: 576
         isCached: true
 
-secured: "UzVJJuAORDZhLhLVjtqffepS6WrCOeCuSGI6X5WbFT70fYk+s8xK5jFAKctHW46PH89QpcZMvCoIRohZ1NheyoSETaeDq1j8WBVFWJMm4nEcuUgjp2JWhE9ZeMX+7i901I2P/7yXI0dzbuXvrM6SZGMaCxz4GQJuTe4EZ42/Bg/ACt7TYJpAuK4hCe+vvaEM4yhPlSvmb5w/l1xw+0FWNW+LYxGl+wTOpvn+fjdu4Zj5qsLfGzqSiFocqWKrrZUMfW8U3GykJvwx++ZQn1ZTXtSodfd9IZxhCT6EnJwgNrBS5pFXYm1XP37MxZeOebDppZOxFXUUnxj1U9k6fItgXAgNAchAdDFTgmfM66uH8BA=;wf+ybfFDD/GxZaHmqO4lkw=="
+secured: "j/cIxXy48GdLq5cEfxUR/+kzpeOSDzvEY6QgHKlSdMPFdzGSV4vu6wBtDQ+GnVsA/HDoXIRj00vv7Z64S3hALc6nZDL/mvqR+cHQXIQ2AQBmOWMdH6t8tkxRYGYvzRUD0S0fB5Yr/G6QU5rhpBVabZzuPVF6Duqr99wwWZboBcukd7q8yW+whV4STwyja0PhmVRzWoYwM9lumqYfvnlcJGrcKBCfhOh92KuwKAOZh2+bYsLqHqjNU4DNB2VjJV7ZLO4byk74XHDDQmMgBGsS6j3NGVJR7M+XIAjeyPTHf7ZMCXnOgxWqxCeTFmebegNiQAmlxLhlxFpiUHTKj4T+LlneYBBhifsD31AvBGz3Ns2yaAuKGoY5uI9BSzoWVsg9wLdSXW12UzNlojZ1Q+Lgcq8prGcj7rXw8AAfSRs4mobt7DTPc9XIzjuHs2sk2UYjUeWU6fGvHO1mFKi5WFU4yu2WHGyDU6q/uToVlNppc7Oa+1rWwiZP5NgLfhlGu6ruXHsvL0sW8d5tY4ljRPsVLg==;nJ+WiW+ZmZXPKb+733k0HQ=="
 ---
 

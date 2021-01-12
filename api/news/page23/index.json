@@ -2,6 +2,62 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-12-08-biden-names-retired-gen-lloyd-austin-as-secretary-of-defense-nominee.md",
+      "title": "Biden names retired Gen. Lloyd Austin as secretary of defense nominee",
+      "excerpt": "President-elect Joe Biden has named retired Army Gen. Lloyd Austin as his nominee for secretary of defense, the Biden transition team announced Tuesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pk3iAnwqGjc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pk3iAnwqGjc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201207192616-02-gen-lloyd-austin-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-secretary-of-defense-joe-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-secretary-of-defense-joe-biden/index.html",
+      "publishedDateTime": "2020-12-08T14:14:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-judge-formally-dismisses-michael-flynn-case-after-trump-pardon.md",
       "title": "Judge formally dismisses Michael Flynn case after Trump pardon",
       "excerpt": "Judge Emmet Sullivan of the DC District Court has dismissed Michael Flynn's criminal case as moot, ending a tortured three-year-long proceeding.\n    \n",
@@ -1296,62 +1352,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-the-point-how-kelly-loeffler-backed-into-admitting-donald-trump-lost.md",
-      "title": "The Point: How Kelly Loeffler backed into admitting Donald Trump lost",
-      "excerpt": "Since coming to the Senate in January, Georgia Kelly Loeffler's has been the single biggest supporter of President Donald Trump's agenda. But even she knows the jig is up when it comes to his ongoing attempts to contest an election that he quite clearly lost.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kCTSwiAp20A/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kCTSwiAp20A/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201206225534-loeffler-georgia-senate-debate-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/07/politics/kelly-loeffler-donald-trump-debate/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/07/politics/kelly-loeffler-donald-trump-debate/index.html",
-      "publishedDateTime": "2020-12-07T08:00:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],
