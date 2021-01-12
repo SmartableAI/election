@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-elec
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html"
 type: article
 quality: 215
-heat: 3515
+heat: 3535
 published: true
 
 provider:
@@ -2263,6 +2263,22 @@ related:
     quality: 134
     images:
       - url: "https://static01.nyt.com/images/2021/01/08/us/politics/08dc-cong1/08dc-cong1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Does Trump Face Legal Jeopardy for His Incendiary Speech Before the Riot?"
+    excerpt: "The president’s actions just before his supporters’ deadly rampage at the Capitol has created new risks for him."
+    publishedDateTime: 2021-01-11T22:07:00Z
+    webUrl: "https://www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/11/us/politics/11dc-legal-explainer/11dc-legal-explainer-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

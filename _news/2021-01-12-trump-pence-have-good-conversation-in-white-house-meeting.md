@@ -3,8 +3,8 @@ category: news
 title: "Trump, Pence have 'good conversation' in White House meeting"
 excerpt: "U.S. President Donald Trump and Vice President Mike Pence met at the White House on Monday evening and had a \"good conversation,\" a senior administration official said, amid reports of a strained relationship between the two after Trump supporters attacked the Capitol"
 publishedDateTime: 2021-01-12T00:14:00Z
-originalUrl: "https://www.reuters.com/article/idUSKBN29G2UT"
-webUrl: "https://www.reuters.com/article/idUSKBN29G2UT"
+originalUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-in-white-house-meeting-idUSKBN29G2UT"
+webUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-in-white-house-meeting-idUSKBN29G2UT"
 type: article
 quality: 120
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547428129&r=LYNXMPEH0A1M0&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547431155&r=LYNXMPEH0A1M0&w=800"
     width: 800
     height: 533
     isCached: true
@@ -5231,6 +5231,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "wP+voyIxOFzPhjbC09Pes14/5n8lt2OTG3Tjx01TZAt1Tl5P4Mo2U5Wfnk6NrL4AT3aIFpIHj/9PaPdAq2vgFYglv/rJfc9GgQ14Qv9eB69KyLFH6ExEF89MGcaWH1/Wl2lTr4nNdntwF+Nu00/w7l+Y6T3dMQD1s4IlQFRiHOfoxOyFd2lJAoAqlpa2k5Iv8wEBIqN9H3ZGxFEBj0yQ5ahCc0W2jfYf7kjevduoqOiMGQjcqRObZCk1KW6Gh0s6EVzgpfDdc8Up6INruzu1M+k/vWug0EvJdqKHYVTgbOypiKIsyiNi5pf6+gegyc1jpEw9tgJtj0NeY9/rDN5tE8ZVM5W0k3Ky1D5KZz2z7zc=;7/klwxWQ5gr+CADPYuWJyA=="
+secured: "FWJiScYWx2J33Nnznns8fy5t+GQDTaZH9QMsTZoZ7GBZ3zbKTe5VTyoSiiVrtk64SfyYn2t1G0WuhfbGK8IN/ywddT006LNMiTAeVIJ761hIqhtl/Vfp7x1UhR1YdnuB2Zw535q/qxsfpYcpn8Q0/naTHOH5fMRNiSjdnfiMaV4dh3d7UTl5ekGj4U0XveSNzDwbA6RLmGxBSVAZMt8Elbo0HfQ4QyET6VXdDrSTEEdY2SzCxHfrC3qkHHDABC7RZApnmRkplEZqSSEFCMc8Tu1zX1/UUHRJHi3nTfVmDf3rrscJbL5dhcd+U5fRS86ncetGT8oKI+BNVA4A1VZ17w0TYFOAPmfLQvjTyFZDyqc=;xT2dO2aMnQnEdVXOGAnB9A=="
 ---
 

@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Bill Belichick declines Presidential Medal of Freedom offer from Trump"
+    excerpt: "New England Patriots head coach Bill Belichick has announced that he is declining the Presidential Medal of Freedom, which he was scheduled to receive from President Donald Trump on Thursday.\n    \n"
+    publishedDateTime: 2021-01-12T01:52:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aRwaF0LdAiE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/bill-belichick-presidential-medal-of-freedom-spt-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/bill-belichick-presidential-medal-of-freedom-spt-trnd/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190909121944-bill-belichick-nfl-new-england-patriots-opener-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "L9HrbV/LNWbjWCWEUmbmVIFlLcVYTuEVYYURjDYq6hNBnm3iOXtU4yuwDwwEMu0hWN+kTaQ6abbYAEoIwoWcIYYVUQ38iUlg8T8H6eWXzfsCulaPUzi2xE0vdDNWFeflHvY4YlJsW47iD+xslpqAtMSRPa/w9IZK4RcEiQ8Px9Zpo5KKu7zJtG0SyHIc8XI4xJUqJdVyq0dRM7FbgOam+gudi6T1X+JGJznO/kl7YKy/xEFXsKJ9C7sTCY3KSH1Z5sEsdYJQhx0MJkA/PUXjuDeSTgpALCSt07XBIP0hR9RvuZbJY16wNBYr1pWU2ZgbLRmNuX5r9E1VEafWvpvYn/UcPI2pDECTaA5R1f9BfMg=;8rArMktvoAfAnOHGkwvBMA=="
 ---

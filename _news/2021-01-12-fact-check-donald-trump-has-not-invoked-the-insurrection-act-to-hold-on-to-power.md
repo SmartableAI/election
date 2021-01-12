@@ -3346,14 +3346,14 @@ related:
   - title: "Trump, Pence have 'good conversation' in White House meeting"
     excerpt: "U.S. President Donald Trump and Vice President Mike Pence met at the White House on Monday evening and had a \"good conversation,\" a senior administration official said, amid reports of a strained relationship between the two after Trump supporters attacked the Capitol"
     publishedDateTime: 2021-01-12T00:14:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN29G2UT"
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-in-white-house-meeting-idUSKBN29G2UT"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 120
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547428129&r=LYNXMPEH0A1M0&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547431155&r=LYNXMPEH0A1M0&w=800"
         width: 800
         height: 533
         isCached: true
@@ -5231,6 +5231,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "jCmQIdzLQCfJWktMH49I5xc67WtW7o5lfC2/MFOyJdgMQ6IbfuIzyM/oglJyz0LWLlJkd/uv8VGhBYd/i75dp1e9WpmOwHdmWWe2wbDEfs0ZaBMKNzLsXFCAiYmXDHMlCQ0dMcrKKwmO3y1+DsdTyjzaOyEbu/9TPc7zoScMEujjX/R1FOr+EDXtSXUxJy2o0jhWRkPtk8HRu8f9ggNXZFaEYLZcX3udxSxe55DFSci58jtCM12BdPYljh/tTeWvam3O+adfxInnWE5BnQLUHKxY8xCWkYH+LgCkpkHcP55RfQxGL50NJPVqxeYtqlHjYLEk22f64EB6vGFiOvv1P2ue1btjQjdXIX1MdUMOT9I=;RgC43wqpE3S/+g9QIi+W6g=="
+secured: "45QgTF3F6Y/SNJmda5v1A8NBx1CaOwpNMz4+eJJZo9zemg3kw1McdHVBgefouYPZBoCyvJegSWXre7pAil2me/axpaBkP8uGOcEviL5HomKPfuQLT2Y7vuz5qWHtmoTeZzl73hAWXY9tnGHewz7OVkC4LnbFBgq9xrKXRxuZg64rSyoCmw3syIJzFqOn8LR1qk2V+OtrxnqIOWvfvY5Ep6sy3ijtvbGi2+TJ6QB8p3zM9HT3Y5kV508MBm2Bak9o66reoOuvkmmMH4VPiSuICLd61at5CMcDUC/FMWpfa3SJ9axEmipo6ZhsWbOoG+BDdjTZ6qyiIAXCmfUIujnIu8gHJYCgkGMhLxg9wH0a03f9jDTtKMiMijcdxHW7KAQhu/82VGsqlIKUVo4rHhRfdP5aMbQ+SARa9Qnt1t5i1Js38CwUR56IsYSCb9by3mqSW8bnNA1yYVwGrNmCwqGeefZNmD79m+gdW2bWrR+Cj7WHKX+GPQaXjQrCWhpJJ4pIiCZ2Nvg7jRPrw6UG/neuIw==;Xi86myD7/vtzldTHqnYHlw=="
 ---
 

@@ -481,6 +481,20 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "Factbox: Biden Cabinet - President-elect fills out his team"
+    excerpt: "Democratic President-elect Joe Biden has selected people for his Cabinet, his White House team and other top jobs in his administration ahead of being sworn into office on Jan. 20."
+    publishedDateTime: 2021-01-12T02:05:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-biden-cabinet-president-elect-fills-out-his-team-idUSL1N2IQ1W4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547409614&r=LYNXMPEH0A1HG&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Washington mayor asks for increased security around Biden's inauguration"
     excerpt: "Washington's mayor has asked for increased security around the inauguration of U.S. President-elect Joe Biden after last week's storming of the U.S. Capitol by supporters of President Donald Trump."
     publishedDateTime: 2021-01-11T13:41:00Z
@@ -567,6 +581,6 @@ related:
         height: 630
         isCached: true
 
-secured: "NKTsO2+YR3fqitQ8ftggRVyQIa2KzEPv0yu/y0cbUQLt7kVdFK6knGsDCEtPlpGpjSJlaxRSoJVleIapF/8/u3XafpcPKHmmvPCJ4SjxEphqBFqlDSff3S1eJcy5tJ7N92Yl/J7NwuPYnAvOw09ULmB3XbqUVupzMsYElzAAKV0FvU05uYe+8c7x2hOlZ49xElXkku0OekhL6d6WnQpGCry205K8wa6iM587QwnUWA93o29BWyzerFXHpKJX4ao1VyLlJjHuzQV3wya4GQdwiAlBA/OgJ4AuL2sdkA6gaY7Ns4kdcwJ3T7ukCISpyYAp0bOVwWdplRqv01rqn5Q4foyrEeKfMnSvVmCT944MqwY=;P4ZBRfi1+OyXQoW2k4+NCQ=="
+secured: "QV5/eezaAgofc1JSar1ssJGYPmxCqDDiQHqXyxSW+8P6AOSOlL/mm7WaHZAQhHWjcY7iTQjtSAc3wiEpYe4NPFUFzGUXifCm6h7Ao/l2RKay+MC+AtpUqfpxYJnRaHRmJb/HTShec7uzfd3C7kbK0KPhvs6xUttu/7IN8W1uZhMJMoUcKkUr4mLfN2p2nDp+t+fLv/rGL7foaEGjKg11TqCRsRMTScKYtNxS6GyneNOxgQSWOU20SMhFpNgNn8y6uw4o9kgrvv8MsnBDs8oLfLtgHjkNGfuFoCNZbm55I+NPe2PxlDczvtqQ1a0D6KW0cvVQcXKhV1iYmKlR2IZrFTPOYEe1stZg3c7D8ndLnLiD40nxzK2eqsv87RZmpVX3Q705isaM/DGyRg96Nr2I6YqDxAyA/+JUKytVpPDnrahzpd5mhgpTSFebOM4I2w+S0hQijFLUoNZA+EQGkQ27TIdqvkTRB4GMWHuQio6HvrkjokmM1ulZFjqZUjj75s8QMMaXcwQnLFkL2SJlB04a6A==;fzjU16851bKUt3p9hZCvHw=="
 ---
 

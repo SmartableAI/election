@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment-lawyers-dershowitz-giuliani/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 162
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210110170842-donald-trump-210106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP lawmaker 'strongly considering' impeachment: Trump is 'no longer qualified to hold that office'"
+    excerpt: "Michigan GOP Rep. Peter Meijer said Monday evening he is \"strongly considering\" voting to impeach President Donald Trump following last week's riot at the  US Capitol, assessing that the President is \"no longer qualified to hold that office.\"\n    \n"
+    publishedDateTime: 2021-01-12T02:19:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HOQyUxfQzg4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/peter-meijer-trump-impeachment-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/peter-meijer-trump-impeachment-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210111195745-peter-meijer-oct-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

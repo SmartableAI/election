@@ -352,6 +352,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration names Cuba a state sponsor of terrorism, frustrating Biden's efforts to boost relations "
+    excerpt: "The Trump administration has designated Cuba a state sponsor of terrorism, Secretary of State Mike Pompeo announced Monday, reversing an Obama-era decision to remove the label and potentially hindering the efforts of incoming president Joe Biden to normalize relations with the country.\n    \n"
+    publishedDateTime: 2021-01-12T02:39:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HPNnXdRk_p0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/trump-administration-cuba-state-sponsor-terrorism-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/trump-administration-cuba-state-sponsor-terrorism-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130617204230-cuba-flag-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to nominate William Burns as CIA director, turning to a longtime diplomat to lead agency in post-Trump era"
     excerpt: "President-elect Joe Biden on Monday will nominate William Burns as director of the Central Intelligence Agency, CNN has learned, tapping a respected veteran American diplomat who has served in posts around the world from the Reagan to the Obama administrations.\n    \n"
     publishedDateTime: 2021-01-11T12:03:39Z
@@ -1151,6 +1167,6 @@ related:
         height: 629
         isCached: true
 
-secured: "yW7GZxqA1hhfBeyujnXUNbI80aVZKacfQiuGmyvjKs1Ed58Nn0BRgCG2Lpt5/+AtFsmMDjzNo1PmW9xOsJXRY0htEqBZsSLB9mHLPJGNBW3Ln0/1cqayOANufhETZWtAd1gVO9/3a5d3/ffGH35W0ZXnqQAOsbq02u0m+01uQ8a+zGXzljXRFocTrZlPWSIMiasi2/3/n9OB8MPrte3/by3Vt9oB9RA3Llg8/FwD1+EGOqmIG9VEuNyxGzfnw8eLkGPOwbq9kpsFJuKAiPIt4sKtReLBkgdFen3vaVy6eweFQt4dR2n/o+HcJzObL61xK7ekRLfAYjlMZem+zw1ZvU+s4H/xeYsOKeWLTw+nKzo=;yOWpUTVXWahpszrAsFiWTw=="
+secured: "9IGgHlHMlFvvjleDqYXyanf9d0uZRpD0eZnkMzjrvWx3ApSwNhC8U5c0OetxcNP+7l04UYZIKQFlEoxJTC9PAEW6KpBMDoDW10Lpb8MCkmzDYrWxG0ys4Zw5MtuxTv5mbQYT/R91y726Ilu6TcI0UbyZeV8dPu/Vj9tIOkrtu2tZC4YwTHEmbxMXymgWMzm5lysr+3gZQBdK/93be24PWkEJVdi9cKgG0Au6fw4X0+npbovxuvFWvN4xqRJArsbQX/Jt4hR/kC6gY9Hi3pt4sBBivb8IndYoVDLCeqZAWHTqjb/uM9cH0h7sads1vNkdhqbl6wGuqOybybd/HxK/qjZG8IGcrz/BRbOAZQxJTgSOLI5QUAkT07R+KFx1QL/D4wcn7c9NIV65dw/uBuY/PlR6C3Kp1zOE2mKIJ9NBYIWvasYvLGk2VXdRA9Ax6TnMsqtkyUiYx7gFYpvDK11w2pYvBS5VGEjWPHAnRa3pho39zns6KaTsIzQXf+MSh41VXgN+7AFFvUOpfGQgsfVxOQ==;HcAUtHKbiME5WQ4SzdUsog=="
 ---
 

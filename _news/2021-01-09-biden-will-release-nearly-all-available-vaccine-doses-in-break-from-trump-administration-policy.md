@@ -335,6 +335,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration names Cuba a state sponsor of terrorism, frustrating Biden's efforts to boost relations "
+    excerpt: "The Trump administration has designated Cuba a state sponsor of terrorism, Secretary of State Mike Pompeo announced Monday, reversing an Obama-era decision to remove the label and potentially hindering the efforts of incoming president Joe Biden to normalize relations with the country.\n    \n"
+    publishedDateTime: 2021-01-12T02:39:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HPNnXdRk_p0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/trump-administration-cuba-state-sponsor-terrorism-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/trump-administration-cuba-state-sponsor-terrorism-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130617204230-cuba-flag-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to nominate William Burns as CIA director, turning to a longtime diplomat to lead agency in post-Trump era"
     excerpt: "President-elect Joe Biden on Monday will nominate William Burns as director of the Central Intelligence Agency, CNN has learned, tapping a respected veteran American diplomat who has served in posts around the world from the Reagan to the Obama administrations.\n    \n"
     publishedDateTime: 2021-01-11T12:03:39Z

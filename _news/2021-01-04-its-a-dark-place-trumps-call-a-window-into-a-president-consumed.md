@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-cal
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/04/politics/donald-trump-georgia-call-mindset/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106210527-jim-mattis-joseph-dunford-2018-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump enters final week as president with few allies, no Twitter and an impeachment effort"
+    excerpt: "President Donald Trump is scheduled to emerge publicly Tuesday in a visit to a stretch of Texas border wall, providing him what could be one of his first opportunities to speak to the American public since losing his social media megaphone."
+    publishedDateTime: 2021-01-12T01:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/trump-enters-final-week-president-few-allies-no-twitter-impeachment-n1253684"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253684"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253684"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 125
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3441133/210111-donald-trump-mc-1119_643d9da32864527d9f27f94bc0861cb6.JPG"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "GJUBj32h9k9WJkS1Xc+U+WwPQnN9PsfO+25ktoxfQOt8rukldJOzKGqcw4+jWQhm9GcNh7lmUO56tAJUxFoY8fsRYd45QudEBOq+3Xf0bibP0w5ENAWevsAqRmKQ8fP6ZyER6ry4W67ZAvM+tVCA/jD9pmUKnrtpv9hwMSmD0MSqeMrfXKzRluz/aYvbhu+QTLU8KAsIdgpyQZ85WtIIBE28iBF8iMM40avX1L3xCZh1eOtD0u73T1VcvTwxcMFM2uVnDpj0Ia0rJbIcghuRf0c3Mdc/YV6uAt7t94EIn5eryd8iWUegLhIb0zQZxXfIn9p2502f/nCAw/GWp9wIaF29TEECckLlkz/i2bEZ1vw=;uMP/hcnIwmF9q1Oz3DqAxQ=="

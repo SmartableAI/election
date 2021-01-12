@@ -351,6 +351,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration names Cuba a state sponsor of terrorism, frustrating Biden's efforts to boost relations "
+    excerpt: "The Trump administration has designated Cuba a state sponsor of terrorism, Secretary of State Mike Pompeo announced Monday, reversing an Obama-era decision to remove the label and potentially hindering the efforts of incoming president Joe Biden to normalize relations with the country.\n    \n"
+    publishedDateTime: 2021-01-12T02:39:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HPNnXdRk_p0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/trump-administration-cuba-state-sponsor-terrorism-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/trump-administration-cuba-state-sponsor-terrorism-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130617204230-cuba-flag-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's inaugural committee hosting 'virtual parade across America' on Inauguration Day"
     excerpt: "President-elect Joe Biden's inaugural committee on Sunday announced there would be a virtual parade after the swearing-in ceremony on Inauguration Day as part of efforts to keep crowds to a minimum amid the coronavirus pandemic.\n    \n"
     publishedDateTime: 2021-01-03T23:39:02Z

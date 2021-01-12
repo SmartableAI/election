@@ -3338,14 +3338,14 @@ related:
   - title: "Trump, Pence have 'good conversation' in White House meeting"
     excerpt: "U.S. President Donald Trump and Vice President Mike Pence met at the White House on Monday evening and had a \"good conversation,\" a senior administration official said, amid reports of a strained relationship between the two after Trump supporters attacked the Capitol"
     publishedDateTime: 2021-01-12T00:14:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN29G2UT"
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-in-white-house-meeting-idUSKBN29G2UT"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 120
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547428129&r=LYNXMPEH0A1M0&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547431155&r=LYNXMPEH0A1M0&w=800"
         width: 800
         height: 533
         isCached: true

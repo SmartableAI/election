@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New England Patriots coach Bill Belichick won't accept Presidential Medal of Freedom from Donald Trump"
+    excerpt: "New England Patriots coach Bill Belichick said Monday that he will not be accepting the Presidential Medal of Freedom that Donald Trump planned to present to him on Thursday. Belichick explained his decision in a statement."
+    publishedDateTime: 2021-01-12T00:59:00Z
+    webUrl: "https://abcnews.go.com/Sports/england-patriots-coach-bill-belichick-accept-presidential-medal/story?id=75189027"
+    ampWebUrl: "https://abcnews.go.com/amp/Sports/england-patriots-coach-bill-belichick-accept-presidential-medal/story?id=75189027"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/england-patriots-coach-bill-belichick-accept-presidential-medal/story?id=75189027"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 109
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Donald Trump house hunts in a surprising place — which home will he pick?"
     excerpt: "Which home in Palm Beach will the Trumps pick? Here are four homes for sale we’ll bet they’ll consider since they tick all the P boxes: posh, palatial, and presidential."
     publishedDateTime: 2021-01-04T18:30:00Z
@@ -104,6 +120,22 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "Bill Belichick declines Presidential Medal of Freedom from Donald Trump"
+    excerpt: "Bill Belichick won’t be heading to the White House this week. Donald Trump wanted to award the Patriots coach the Presidential Medal of Freedom, but following the insurrection at the U.S. Capitol, Belichick has declined,"
+    publishedDateTime: 2021-01-11T23:16:00Z
+    webUrl: "https://www.al.com/sports/2021/01/bill-belichick-declines-presidential-medal-of-freedom-from-donald-trump.html"
+    ampWebUrl: "https://www.al.com/sports/2021/01/bill-belichick-declines-presidential-medal-of-freedom-from-donald-trump.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/sports/2021/01/bill-belichick-declines-presidential-medal-of-freedom-from-donald-trump.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SCVQTPTAOBCMDPE4DRNZEAMQSA.jpg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "President Donald Trump to award Bill Belichick the Medal of Freedom on Thursday (report)"
     excerpt: "With only days remaining in his term, President Donald Trump is reportedly awarding Bill Belichick the Medal of Freedom. Trump has continued to award the medal in the aftermath of the insurrection at the U."

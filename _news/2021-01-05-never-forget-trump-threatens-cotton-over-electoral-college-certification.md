@@ -2282,6 +2282,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Does Trump Face Legal Jeopardy for His Incendiary Speech Before the Riot?"
+    excerpt: "The president’s actions just before his supporters’ deadly rampage at the Capitol has created new risks for him."
+    publishedDateTime: 2021-01-11T22:07:00Z
+    webUrl: "https://www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/11/us/politics/11dc-legal-explainer/11dc-legal-explainer-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Republicans allied with Trump continue pushing baseless voter fraud claims"
     excerpt: "Many Republicans allied with President Donald Trump are continuing to push baseless widespread voter fraud claims even after the Capitol riots were incited by the same lies."
     publishedDateTime: 2021-01-11T14:14:00Z

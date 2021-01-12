@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP lawmaker 'strongly considering' impeachment: Trump is 'no longer qualified to hold that office'"
+    excerpt: "Michigan GOP Rep. Peter Meijer said Monday evening he is \"strongly considering\" voting to impeach President Donald Trump following last week's riot at the  US Capitol, assessing that the President is \"no longer qualified to hold that office.\"\n    \n"
+    publishedDateTime: 2021-01-12T02:19:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HOQyUxfQzg4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/peter-meijer-trump-impeachment-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/peter-meijer-trump-impeachment-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210111195745-peter-meijer-oct-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "READ: House Articles of Impeachment against Donald Trump"
     excerpt: "The US House of Representatives has released its resolution to impeach President Donald Trump, charging him with \"incitement of insurrection,\" an article for which the House is expected to vote on this week."
     publishedDateTime: 2021-01-11T09:14:00Z

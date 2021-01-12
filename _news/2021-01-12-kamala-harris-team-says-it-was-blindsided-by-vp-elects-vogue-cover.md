@@ -2,26 +2,26 @@
 category: news
 title: "Kamala Harris team says it was blindsided by VP-elect’s Vogue cover"
 excerpt: "Vice President-elect Kamala Harris has landed on the cover of the February issue of Vogue magazine, but her team says there’s a problem: the shot of the country’s soon-to-be No. 2 leader isn’t what both sides had agreed upon,"
-publishedDateTime: 2021-01-11T17:38:00Z
-originalUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
-webUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
-ampWebUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+publishedDateTime: 2021-01-11T21:27:00Z
+originalUrl: "https://www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
+webUrl: "https://www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
+ampWebUrl: "https://www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Hartford Courant
-  domain: courant.com
+  name: Daily Press
+  domain: dailypress.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.courant.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
+  - url: "https://www.dailypress.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -581,6 +581,6 @@ related:
         height: 630
         isCached: true
 
-secured: "prXgTmtKz/UyQPcgRvKjSMMWC7MMPQMEXiNCa1mzIzvX4Rr4TH9C3MnvU7ebl3OcWqBa7ev4QhhZCReOk9RMZLy5zIVcLgXmV7dG0+qbkXDJZBorVbKCz7ruDDtNjl48CO9iTKQru+p3NoQfgh4BxcMrhCHvFKzHb07DBe7qU+gjoC0J3mjt/KlDDkW0qm9wpb/9owEjQDtQciqavmopOWq+7Nywbcmc6qAreimzgRXgDqnkKRNBHzMN4T7gJpXelDtXUbhPJMWwBzSaN5NgoKUgwTzyjam3WgLMBNJ35RVU0VmnSfjl6HFj6JB1r7KvL3JSX8Dm81W0S9bnxRrNhuFALFnwYa3oVNBP8MTESqI=;ciQkqDPMZiFo/R50icnbgw=="
+secured: "tCm5GGzEF8yQ7IyhRlVcdHUGnXu86aRwT1sAlAoezHRMUz4yjRCo8hA7tm4c5/v6PO43P00lJdgDqjlCN63T8dCuBf0J1U2/tP2sDB+95IzTDygSIkcxJcrO2Xy32kZ4VtD1cUxLXkGG/6S3JjC+9Gwn50outweUOHM97BBylBl6szfe7TxNp6/agBIG+oDbJsoQis5fTUN9/Oen/HxNdGS/wZvRLx5l8I1WPnBN4th0JaBXImgNPgnuMVWk6m4cFoN+JA1/UGEd/xYkGrXkBWt2FGtVAmBwe4EpaftR0jW9djSRfBHs2xWA5UKXnmfr/XjSB2qEb0jy+zyQmpZuhoFGGJXzu89pURaLuYzW9J4=;/uV2yIeW0XFp6JR5Uvb0yw=="
 ---
 
