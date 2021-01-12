@@ -1070,6 +1070,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Trump's second impeachment will be different from the first"
+    excerpt: "The overall impeachment process laid out in the Constitution is relatively simple: President commits \"high Crime or Misdemeanor,\" House votes to impeach, Senate conducts a trial.\n    \n"
+    publishedDateTime: 2021-01-12T18:14:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/78rnuz5QYtA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/trump-second-impeachment-explainer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/trump-second-impeachment-explainer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200831142343-u-s-constitution-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration expected to change course on vaccine distribution"
     excerpt: "The Department of Health and Human Services is expected to announce sweeping changes Tuesday in vaccine rollout guidelines in an effort to boost the lagging number of vaccinations in the first month.\n    \n"
     publishedDateTime: 2021-01-12T14:19:50Z
@@ -2747,6 +2763,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/8f/18/8ce266a0448dbab810fd61562c7a/210111-chad-mayes-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Donald Trump has no regrets"
+    excerpt: "Debbie Dingell (D-Mich.) plans to introduce legislation Tuesday to impose a $1,000 fine on members who refuse to wear masks while in the U.S. Capitol complex.” TRUMP HAS NO REGRETS … NYT: “Answering questions from reporters for the first time since the violence at the Capitol on Wednesday,"
+    publishedDateTime: 2021-01-12T18:11:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/01/12/donald-trump-has-no-regrets-491378"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/74/78/002243ea46a6b8741002cc5f8445/210112-trump-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

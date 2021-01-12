@@ -2,28 +2,32 @@
 category: news
 title: "Law enforcement: We'll be ready for Joe Biden's inauguration"
 excerpt: "The inauguration of President-elect Joe Biden will be held on the same risers in the same spot at the U.S. Capitol where a violent, pro-Trump mob descended last week. But the two events aren't even comparable from a security standpoint,"
-publishedDateTime: 2021-01-12T14:38:00Z
-originalUrl: "https://www.nola.com/news/politics/national_politics/article_4260d50c-54df-11eb-92da-9bf6ad94cf27.html"
-webUrl: "https://www.nola.com/news/politics/national_politics/article_4260d50c-54df-11eb-92da-9bf6ad94cf27.html"
-ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_4260d50c-54df-11eb-92da-9bf6ad94cf27.amp.html"
-cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_4260d50c-54df-11eb-92da-9bf6ad94cf27.amp.html"
+publishedDateTime: 2021-01-12T05:31:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813"
+webUrl: "https://abcnews.go.com/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: NOLA.com
-  domain: nola.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/1/6e/16e28b00-54e4-11eb-af3c-774836319c5c/5ffdb4eded94a.image.jpg?resize=1024%2C683"
-    width: 1024
-    height: 683
+  - url: "https://s.abcnews.com/images/Politics/WireAP_4fe982d42806466fb9c7a1df9ea2d778_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -76,6 +80,6 @@ related:
         height: 960
         isCached: true
 
-secured: "Bz9GG1/rfa8kL3AyFlUL+HKxVa7DwInD853JS/lI5JyGq2sbiVa1puTIPQNNVNvXzJHIwUc2WH6UJuphxbri7Bq5c3ZITMXGXsNF7rndu1GNvaCise3v8uMXqhF9HUwA1iO6Souzf4hnGJYbHzI4maXcobl/sypCem8QLx9VYeJlVHl+UscQHDYQhkFGCt6N0V2VmIHPN28HoWfyrRr3QdEFBPISU+i+U5H2mkOU+i1uVDaAgq9zlBuu10kncdq46Itru7IIz8UkkSuRZ3TRBuMMZm+0JGiGewZ7tW9LsfrWhMx2eCkLFO3suqsAICoGTPELEvlDnJ4BlK2WfByfjKLPvJOAsR+KCJZXEGeCXQw=;UqhEM/UrvaD4Hulcx4y5Ng=="
+secured: "uc50e65Q7ygB56pvNq6uUWH9OSYzkYQDZIGU3Dh7Tq6sf6qNebWwblESXY6zBHVNDHgcDurq1sh2p2knjJOkWXpGyKnWwdS9/qM/jWA/5mJ4/0NKGwzxFPRm/z5rfoIeTcYpXH9FGYS8nIJwqfxrGjw+P41hneWD4M28m/YpaXMKDgKmlWu5ZNpLHZgka5t3ve94JE3rWz8B3KyydB486lwQs1sx+qBMkb7zGDWH5cvj++1nOsQgewtpTtGCl3mwcqro9qozSKOJjdk+yrL4KwdHrftGa8iQSXJ0yPZGPMxKrLhJEs2xKMeGivPv7T5VDvcIK4J/BmZsXq3yeiurBVoMfjR4uS50jx1Ucke8Rss=;VitoShWKuqzeWbw/iAfZAw=="
 ---
 

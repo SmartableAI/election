@@ -160,9 +160,9 @@ related:
         height: 800
         isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
-    excerpt: "US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect Kamala Harris. The image shows Ms Harris wearing an informal outfit including jeans and a pair of Converse trainers."
+    excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."
     publishedDateTime: 2021-01-12T15:52:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55631499"
+    webUrl: "https://www.bbc.com/news/world-us-canada-55631499?at_medium=custom7&at_custom2=twitter&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom4=31791E3E-54EE-11EB-8DC3-69004844363C"
     ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55631499"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55631499"
     type: article

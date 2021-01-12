@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Impeachment Again? Ocasio-Cortez Wants It, But Democrats Say 'No'"
-    excerpt: "Cortez calls for Trump's impeachment following the leaked audio recording Omar also believes Trump's actions warranted impeachment Other progressives believe there is no time for an impeachment hearing Democratic Rep."
-    publishedDateTime: 2021-01-06T03:55:00Z
-    webUrl: "https://www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253"
-    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253?amp=1"
+  - title: "Trump lashes out at impeachment effort, claims it's 'causing tremendous anger'"
+    excerpt: "President Trump on Tuesday lashed out at the impeachment effort by House Democrats, claims it's \"causing tremendous anger\""
+    publishedDateTime: 2021-01-12T16:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-lashes-impeachment-effort-claims-causing-tremendous-anger/story?id=75199061"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-lashes-impeachment-effort-claims-causing-tremendous-anger/story?id=75199061"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-lashes-impeachment-effort-claims-causing-tremendous-anger/story?id=75199061"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/alexandria-ocasio-cortez-the-darling-of-the-us.jpg"
-        width: 1024
-        height: 573
+      - url: "https://s.abcnews.com/images/Politics/trump-departure-texas-04-ap-jef-210112_1610466035301_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "c/AzOoLymrZxjbjDLex+vRCRPgfAUQInlxN52vOQKZVIDlGgFB+wcIi/CFxPVTsoWj2JoUf9AyT+Ww4e7ijA3QMkSNjYuIAAlHMGduroDVH+cMWvGwBAHAB5CHeWFv7fHmn/y5Yl2U8Nt5IHbo9+OcI+gWlJqqtJrxjVhEdZxF+gcdA/7t+wv+C/M6GNLPqiFweMTvADG1KlkOc4Sb1OKpil7HI9bnIGvWaf8XRDV+gDwB7lmsKt52pi7I7W0a2KdoW3BZzf6wm0EDeGoWEJLKTG1gsnqad3wYUOnxVNQHM4wNsTD2bYtYR6GIxx1VNMrAV7y/XGEMij7Ky1HuEJl4hzb9AKdkvlkauqv7MpTPg=;+5MQbETjibw0eR0LQrIA5g=="

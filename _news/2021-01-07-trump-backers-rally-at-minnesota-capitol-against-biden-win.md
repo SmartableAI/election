@@ -3558,7 +3558,7 @@ related:
   - title: "Trump, Pence have 'good conversation' after breach in wake of Capitol riot"
     excerpt: "President Donald Trump and Vice President Mike Pence had a \"good conversation\" at the White House on Monday evening, a senior administration official said, marking the end of a silent period in their relationship after the riot at the Capitol last week."
     publishedDateTime: 2021-01-12T13:12:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-in-white-house-meeting-idUSKBN29G2UT"
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-after-breach-in-wake-of-capitol-riot-idUSKBN29G2UT"
     type: article
     provider:
       name: Reuters
@@ -5394,6 +5394,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Pompeo Cancels Last Foreign Trip Amid Trump Impeachment Moves"
+    excerpt: "US Secretary of State Mike Pompeo on Tuesday canceled his final foreign trip scheduled this week as President Donald Trump faces a second impeachment vote. Pompeo will assist \"a smooth and orderly transition process\" to President-elect Joe Biden that includes identifying officials who will stay on temporarily as the new administration takes charge,"
+    publishedDateTime: 2021-01-12T18:03:00Z
+    webUrl: "https://www.ibtimes.com/pompeo-cancels-last-foreign-trip-amid-trump-impeachment-moves-3120084"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/secretary-of-state-mike-pompeo-l-says-he.jpg"
+        width: 1024
+        height: 677
+        isCached: true
 
 secured: "An8+EvI9xwx8/ZGmF8sizNeGGYmI7b0CsUBxTS3bOG6H1IIWJwH0vjopwKJ1s6bUC2KcDLOyRseCJ9rv03fuXsv8jdSeWy87a8YufNxOvNj1USNJfKiMn9peLiL6XfUbhVjg8ogAbImQI0/i94E2AwWxmnz/YsQafiaTOajSmQFbfJduVsLC1s/PUqSPUSVKP0x62Jhh7/efFz5cgAW+oHH9HidiDHFRYwCfeXl3G47hSzKMko6iMbJ4tyhbmSc9mH4kCm3YGwBtk2c0/23fQ4XlkUzOu+hozPiNAFkJRZ0ku16Y3WoLL3aRtRWTPQkfZoDSh/h+WGrsIhRNEAuZCBClzZxx0RF7L/A9MU3OiLQ=;/l4yOJUZApyAZv/Wv0M+hA=="
 ---

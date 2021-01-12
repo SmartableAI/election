@@ -160,9 +160,9 @@ related:
         height: 360
         isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
-    excerpt: "US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect Kamala Harris. The image shows Ms Harris wearing an informal outfit including jeans and a pair of Converse trainers."
+    excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."
     publishedDateTime: 2021-01-12T15:52:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55631499"
+    webUrl: "https://www.bbc.com/news/world-us-canada-55631499?at_medium=custom7&at_custom2=twitter&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom4=31791E3E-54EE-11EB-8DC3-69004844363C"
     ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55631499"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55631499"
     type: article
@@ -633,6 +633,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fd+mWoj/huB0f/p168KNzFKbo8+Ms5jrORPqEtlwuvz1ZOvqP0Oxq5A/XaBVlOVC0jUfidIUqTg2ou7xhbcve9GZrAZfjp0p6szFVU5ZxFYkW7LtojnKsk4Weq/wevUbTDoUH0gGmn1lRFf4WR5sAf7kYIXwktOsM4ExaHIaWDZemwglZSFO4v1JVrOHtrYmv4Nn3eT96wOJMc2vip0MEWpH9Zbb8G5wTx3gQ16tyYgKHBpwLC0Dpt/u7MhRToEHVK2Dsc/fZn1DXBJs2+WdUApCWxtPePOFv8z1FX/fzyJvmSVbU3b5iKkoqVWOC7gwpQNPZrYJfRylGf3PvrVojUVDNbH1jkRoIqw1HwL/Czg=;/xdE+7oDUgSo7ZSpSgg+mg=="
+secured: "dvLnlDV0BlZob+XCKVuV7X6ZMzlalhO/uVa2cjyd8juakrBFr6A0U5guqLFg3TZoZSlGpWYVcRhG8+jnY3m/9+P8xmuADQikH+Afyuv+G1hwiLhzG23joRGqZhSZnrn4JNelSZKPzyiR7M/MQ1FdCmg2xwc4dZq9dkD7QgUsqSBVf7mtsMFslv1XM4uEVBXH14Af1e1FQWeldEu8VC04eb6uaHUSZfyekJl9AQgcXG95v3DuldE79yBdt/Ehw7EJmouC7jluzjW1WacKAzcmkzcErjz/9cM/ZNaH2ce5cX3yPRoEL+ObhYNNgZrDiuO/8uhTFCVXg+UUwEzmSHOrcvie69KXJEFEihxA0OJUYqFItmP8lsD/xz+nstULXTKmUQoTX6/6worziOtjZcWLzIBErRrsOW5KSeBlCHIuZrAkN0uvouEIHIgBLlGRyWrko+d8m08HcIEkDkRCkMkMrkVL7LsIU1d54/vsQXFefq35odTUc9N3J/wcnVdJQaWtqwCNyZec9eh+uO3gob/z3w==;+1asBzIZ0RSC3WZK9s5RaQ=="
 ---
 

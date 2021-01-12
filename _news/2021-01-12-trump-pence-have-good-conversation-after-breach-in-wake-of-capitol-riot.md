@@ -3,8 +3,8 @@ category: news
 title: "Trump, Pence have 'good conversation' after breach in wake of Capitol riot"
 excerpt: "President Donald Trump and Vice President Mike Pence had a \"good conversation\" at the White House on Monday evening, a senior administration official said, marking the end of a silent period in their relationship after the riot at the Capitol last week."
 publishedDateTime: 2021-01-12T13:12:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-in-white-house-meeting-idUSKBN29G2UT"
-webUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-in-white-house-meeting-idUSKBN29G2UT"
+originalUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-after-breach-in-wake-of-capitol-riot-idUSKBN29G2UT"
+webUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-after-breach-in-wake-of-capitol-riot-idUSKBN29G2UT"
 type: article
 quality: 118
 heat: -1
@@ -5386,6 +5386,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Pompeo Cancels Last Foreign Trip Amid Trump Impeachment Moves"
+    excerpt: "US Secretary of State Mike Pompeo on Tuesday canceled his final foreign trip scheduled this week as President Donald Trump faces a second impeachment vote. Pompeo will assist \"a smooth and orderly transition process\" to President-elect Joe Biden that includes identifying officials who will stay on temporarily as the new administration takes charge,"
+    publishedDateTime: 2021-01-12T18:03:00Z
+    webUrl: "https://www.ibtimes.com/pompeo-cancels-last-foreign-trip-amid-trump-impeachment-moves-3120084"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/secretary-of-state-mike-pompeo-l-says-he.jpg"
+        width: 1024
+        height: 677
+        isCached: true
   - title: "Trump Backers Rally at Minnesota Capitol Against Biden Win"
     excerpt: "Hundreds of supporters of President Donald Trump gathered at the Minnesota Capitol  in St. Paul to protest against the certification of Joe Biden as the winner of the presidential election."
     publishedDateTime: 2021-01-07T00:51:00Z
@@ -5396,6 +5410,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "soUcyEKshAajwuMo2gPwr4MlWboClrIhycZNBN41ZhY8mKqYz3V5RscYMLJoeIyzk4MRkLgBTB9ifLIBZFkPzDAczf8z9cfZa9eKbTafFFkPEktQiiYhb5q8oji+P7i5nYzALlEBCtyj+S8EWO0vBDZyekJLNoIjKzllyyuMRcTfMR6iqdaWgJwdcSCw/kr8wLxXD982Owh5PwbCKh8yklXXcpfB+VL6emh7q3oTA3Y3eb97Vn4Irz64zVG+7ivL6CD9qg8RnqnaTjHwJ7wb9q4zSdgjE4bwvQL6HAxzr6L3o4atFWFZ5YloO55AOhMNTVNbiBPwqrk6P+qIokC7DWmqHTgVfWXiF6Mtaua9YFo=;wBmmPAnb1zdDHWFsKlw+cQ=="
+secured: "51oVb0yTOMHeMAXUo2x0VEq8kue++9Ly/8bmTRI32S2IYF08aWuRmUlY4l9w1DNJUXat8R5pOueIGnV9AkmFoeJXUxwmLL68VVXE+bUQmdzy//A/gbo1Dmu43Q1GpUY2x6eDHOJR+bRBG8E1MXxHOO3xoD7lp8TMloUGzizwHzy3w0L8CKEiM9c08hZNIPLhbe7bkgWKxrckj7j9ImqX4n/5cjfocMixqwYM+gMwrStrBeW9EJirQZ4LZJTJSq/jrKzZf3I4HfOsRMiISSIQEdr0uLu6KbTPQxry1Reen35gg7ivUX8KneZYEWfn1HkV8uBAClrvm3+9zI6O2qlPDYFrbGxLdlZAew1Fp3RAOAA=;D7ZbAILlCiaQC73VAmWuvA=="
 ---
 

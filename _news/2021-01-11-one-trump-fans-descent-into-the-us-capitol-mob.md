@@ -734,6 +734,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Freshman Republican Nancy Mace on condemning Trump: 'I don't operate out of fear'"
+    excerpt: "Rep. Nancy Mace, R-S.C., told \"America’s Newsroom\" on Tuesday that she doesn’t \"operate out of fear\" regarding her decision to turn on President Trump following last week's violence at the U.S. Capitol."
+    publishedDateTime: 2021-01-12T18:38:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aiLWrxnS9ls/rep-mace-trump-dont-operate-fear"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-mace-trump-dont-operate-fear.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-mace-trump-dont-operate-fear.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Pro-Trump attorney Cleta Mitchell resigns from firm following explosive phone call"
     excerpt: "A GOP lawyer affiliated with President Trump, Cleta Mitchell, resigned Tuesday from her law firm following the Jan. 2 call where Trump asked Georgia officials to \"find\" him votes to beat President-elect Joe Biden."
     publishedDateTime: 2021-01-06T02:05:23Z
