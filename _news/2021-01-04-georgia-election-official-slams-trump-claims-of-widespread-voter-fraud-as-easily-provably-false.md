@@ -95,22 +95,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "All the Trump officials who have resigned after the DC protest at the Capitol"
-    excerpt: "The number has continued to climb a little more each day, but it has yet to reach the level of an exodus."
-    publishedDateTime: 2021-01-09T20:43:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kUQXWI1DLJc/all-the-trump-officials-who-have-resigned-after-the-dc-protest-at-the-capitol"
-    ampWebUrl: "https://www.foxnews.com/politics/all-the-trump-officials-who-have-resigned-after-the-dc-protest-at-the-capitol.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/all-the-trump-officials-who-have-resigned-after-the-dc-protest-at-the-capitol.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Betsy-Devos-AP-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "AOC slams Trump's call with Georgia secretary of state as an 'impeachable offense'"
     excerpt: "Rep. Alexandria Ocasio-Cortez accused President Trump of committing an impeachable offense after he urged Georgia's Republican secretary of state in a phone call to reverse the state's election results."
     publishedDateTime: 2021-01-04T13:16:35Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-puts-pressure-on-pence-ahead-of-election-showdown-in-congress.amp"
 type: article
 quality: 215
-heat: 2275
+heat: 2295
 published: true
 
 provider:
@@ -975,6 +975,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/gettyimages-1214409770.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "House barrels toward new Trump impeachment, will vote on resolution calling for use of 25th Amendment Tuesday"
+    excerpt: "With only eight days remaining in President Trump's term, the House of Representatives is barrelling toward a second impeachment vote in the coming days as outrage about the president's role in the storming of the Capitol by his supporters last week continues to reverberate throughout Washington, D.C."
+    publishedDateTime: 2021-01-12T13:04:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nTOSF5lTVIc/house-barrels-toward-new-trump-impeachment-will-vote-resolution-25th-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/house-barrels-toward-new-trump-impeachment-will-vote-resolution-25th-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-barrels-toward-new-trump-impeachment-will-vote-resolution-25th-amendment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "How Trump Allies in Congress Plan to Challenge Joe Biden’s Electoral College Win"
     excerpt: "In the process set to unfold Wednesday, Republicans are ready to challenge some states’ results, alleging election irregularities and possibly forcing debate and votes in both chambers of Congress."

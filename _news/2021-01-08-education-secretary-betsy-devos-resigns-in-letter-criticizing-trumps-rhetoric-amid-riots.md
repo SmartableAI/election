@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Capitol rioters could face up to 10 years in prison under Trump monument executive order"
-    excerpt: "Acting Attorney General Jeffrey Rosen vowed that pro-Trump rioters who entered the U.S. Capitol would \"face the full consequences of their actions under the law,\" and those consequences could include being charged under President Trump's executive order authorizing up to 10 years in prison for \"injury"
-    publishedDateTime: 2021-01-07T19:38:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r2dI2SvjE0k/capitol-rioters-prison-trump-executive-order-federal"
-    ampWebUrl: "https://www.foxnews.com/politics/capitol-rioters-prison-trump-executive-order-federal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capitol-rioters-prison-trump-executive-order-federal.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cbedf04-60c6-401e-b267-a9d2221c950c/0932f180-5a4f-4506-a093-5483fb65583c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump to regain Facebook access Thursday night after account locked over response to Capitol violence"
     excerpt: "President Trump will regain access to his Facebook account Thursday night after the social media giant locked him out of his account for the first time for violating its policies."
     publishedDateTime: 2021-01-07T13:00:40Z
@@ -127,29 +111,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The Triumph of Stacey Abrams Over Donald Trump"
-    excerpt: "The Dems claimed the 2016 election result wasn't real on the basis of a complete falsehood they developed, which the CIA and FBI validated and used to spy on Trump, and then tried to impeach Trump on the basis of a single whistleblower's bogus account of a phone call 30 others heard."
-    publishedDateTime: 2021-01-07T12:14:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/07/the_triumph_of_stacey_abrams_over_donald_trump_532874.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/531661_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Trump Is Over? Not So Fast"
-    excerpt: "During the Trump administration we saw nonstop attacks against Trump and his supporters. Democrats refused to cooperate in the transition of power, they forced a two year investigation that paralyzed the administration based on what they knew was fabricated information,"
-    publishedDateTime: 2021-01-10T20:45:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/09/trump_is_over_not_so_fast_533086.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "PsJrbQMCy3cbPsFCPvgVYfMBclg8Gs1we983107DjqgiF1LUha6mTfDzjH8CL1wBZ14YUrQtRH2P9QtRsVIALvD/Nkmt5duORF32CnYXvlFJbpUmwlHVwwkQpC3JW/ouhBDrqJNIm9W4pSy0VkU00wZDPdJD3U+4GdlaqqvhUur+dHH67ZIWugVSErGF+5e6cUlxLJfUqASh4LlWAhI7qxNl9PLTq+ErIebpiVoKixIoKVNwheiKUra9TR1pCdlDcwlln18LinyfBQP4/yBbIFLb3tH1TxYA8iqThyjUpu/Du7l1/T2deQuhdeXRIPuTXeGV/rjAN/LEBVqkcrBcdozUCXtaeGPpQU0RMcU6x3Y=;wAh8UG/sTAXMPG7rgcqPrg=="
 ---

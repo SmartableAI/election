@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/toomey-trump-committed-impeachable-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/toomey-trump-committed-impeachable-offenses.amp"
 type: article
 quality: 175
-heat: 235
+heat: 175
 published: true
 
 provider:
@@ -29,56 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Trump awards Rep. Jim Jordan the Medal of Freedom, credits his defense during impeachment"
-    excerpt: "President Trump on Monday awarded the Presidential Medal of Freedom to Rep. Jim Jordan, the Republican from Ohio who has served as a high-profile congressional defender of the Trump throughout his presidency."
-    publishedDateTime: 2021-01-11T19:04:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zsVghy_-Bw0/trump-rep-jim-jordan-medal-of-freedom"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-rep-jim-jordan-medal-of-freedom.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rep-jim-jordan-medal-of-freedom.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/340/340/15774946_869011851568_820056121039046290_o-e1585243988433.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "GOP Sen. Ben Sasse says there is 'brokenness' in Trump's soul, refuses to rule out impeachment"
-    excerpt: "GOP Sen. Ben Sasse said Friday he is willing to consider articles of impeachment against President Trump if they are introduced by the House of Representatives following a violent mob attack by pro-Trump supporters on the nation's Capitol earlier this week. "
-    publishedDateTime: 2021-01-08T16:28:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IrSJPRh-KyI/gop-ben-sasse-trump-refuses-rule-out-impeachment"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-ben-sasse-trump-refuses-rule-out-impeachment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-ben-sasse-trump-refuses-rule-out-impeachment.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "GOP Sen. Ben Sasse says there is 'brokenness' in Trump's soul, refuses to rule out impeachment"
-    excerpt: "GOP Sen. Ben Sasse said Friday he is willing to consider articles of impeachment against President Trump if they are introduced by the House of Representatives following a violent mob attack by pro-Trump supporters on the nation's Capitol earlier this week."
-    publishedDateTime: 2021-01-08T16:41:00Z
-    webUrl: "https://www.foxnews.com/politics/gop-ben-sasse-trump-refuses-rule-out-impeachment"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-ben-sasse-trump-refuses-rule-out-impeachment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-ben-sasse-trump-refuses-rule-out-impeachment.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "6zSR2a1tD+Uba2+b1+PQwn/TRU54M1TcOXSO6ZNBSr4QeeTBfFuST50eIMNnAu8kv5FONjrWNTISqkZy4yauzvsK37ttOAV/cFvJAaPkY1diZJHxWIBC/Szh0BLIsbSXeO81xD3S5NOVAZDteaC7nMFruaFxABJmHotJd+Y0eP/pfpFn11X/pZHy9XtILkuTbborZa36STH5ddkuMp8jc625B9itPCr/oQEknerMuZpOCq87fFSIn6NmYeKkcW6HbENAe8W7F9OSXlMK058xt+3Chw2u61xwx2hjPC3LA+4DLNJtuMQlSV0rrjPKeQwP4Ev2Z06rOxnRso2Ehjapj01HxAlEl+SJWhPP18QThhw=;KkQ3lHG3kljAoBLiHa/KCA=="
 ---

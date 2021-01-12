@@ -31,19 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "House Democrats' quick 25th Amendment push urging Pence to remove Trump blocked by Republicans"
-    excerpt: "House Republicans blocked quick consideration of a bill calling on Vice President Mike Pence to invoke the 25th Amendment to remove President Trump from office amid fallout from last week’s Capitol riot."
-    publishedDateTime: 2021-01-11T16:27:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Sr5HG__LUb4/house-gop-blocks-quick-consideration-of-bill-calling-on-pence-to-invoke-25th-amendment"
-    ampWebUrl: "https://www.foxnews.com/politics/house-gop-blocks-quick-consideration-of-bill-calling-on-pence-to-invoke-25th-amendment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-gop-blocks-quick-consideration-of-bill-calling-on-pence-to-invoke-25th-amendment.amp"
+  - title: "Biden questions whether Trump impeachment trial could hinder his agenda"
+    excerpt: "President-elect Joe Biden is rushing to ensure the impeachment does not derail his legislative agenda or the confirmation of his Cabinet picks in the early days of his administration."
+    publishedDateTime: 2021-01-12T14:42:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sPeDL1L9grM/biden-questions-whether-trump-impeachment-will-hinder-his-agenda"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-questions-whether-trump-impeachment-will-hinder-his-agenda.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-questions-whether-trump-impeachment-will-hinder-his-agenda.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 188
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cf07842d-50c7-465d-ba47-261056990875/f8f5057d-a333-48de-b801-27b55df9bb8d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "From Trump's impeachment trial to Hunter Biden: The biggest political scandals of 2020"
+    excerpt: "As 2020 comes to a close, the news has been dominated by a global pandemic, statewide lockdowns and a presidential election. Amid all that, it’s easy to forget about political events, including scandals and controversies, that otherwise would have been more in the spotlight."
+    publishedDateTime: 2020-12-22T19:27:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U99P66zzip0/trump-biden-biggest-political-scandals-of-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6735719-5880-4721-98a4-9f6162f992d6/7744e53b-a550-4780-9b27-5228d2ea0d54/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pelosi: Will impeach if cabinet won’t oust Trump"
+    excerpt: "This comes as top officials leave over Trump misconduct."
+    publishedDateTime: 2021-01-07T20:03:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mh2iHot3Spw/pelosi-will-impeach-if-cabinet-wont-oust-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont-oust-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont-oust-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -79,6 +111,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Article of impeachment against Trump to be introduced Monday in House"
+    excerpt: "Rep. Ted Lieu, D-Calif., said Saturday that the House had reached 180 co-sponsors for an Article of Impeachment against President Trump, and the chamber would introduce the measure on Monday. "
+    publishedDateTime: 2021-01-09T20:47:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BN1avJc5Pa0/article-of-impeachment-trump-january-11-house"
+    ampWebUrl: "https://www.foxnews.com/politics/article-of-impeachment-trump-january-11-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/article-of-impeachment-trump-january-11-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/09/26/694940094001_6089811276001_6089809166001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pelosi takes takes initial step toward trying to remove Trump"
     excerpt: "Speaker of the House Nancy Pelosi announced Friday night she will begin to steps to remove President Trump if he does not resign for his role in the breach on the U.S. Capitol earlier this week."
     publishedDateTime: 2021-01-09T00:06:18Z
@@ -95,37 +143,85 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Republican Sen. Toomey joins calls for Trump to resign"
-    excerpt: "Sen. Pat Toomey, R-Pa., joined the chorus of lawmakers calling for President Trump to leave office, telling CNN's \"State of the Union\" on Sunday that the best course of action would be for the president to resign."
-    publishedDateTime: 2021-01-10T16:40:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rCPQ8jYZOw8/gop-sen-toomey-trump-resign"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-sen-toomey-trump-resign.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sen-toomey-trump-resign.amp"
+  - title: "Rep. Adam Schiff says Trump must go, backs second impeachment"
+    excerpt: "House Intelligence Committee Chairman Adam Schiff joined a growing list of lawmakers on both sides of the aisle calling for President Trump's removal."
+    publishedDateTime: 2021-01-09T17:16:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/grHNELR7304/rep-schiff-joins-push-to-impeach-trump-a-second-time"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-schiff-joins-push-to-impeach-trump-a-second-time.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-schiff-joins-push-to-impeach-trump-a-second-time.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99e350c3-f5c7-495c-80e6-742d3e3e217a/1557b227-7a54-4ea4-849e-da952d2399b3/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump supporters, lawmakers react to Twitter ban"
+    excerpt: "After Twitter took the extraordinary step of banning President Trump from its platform Friday, a stunned group of lawmakers and supporters weighed in on the decision."
+    publishedDateTime: 2021-01-09T02:29:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sS_AAN2w438/trump-supporters-lawmakers-twitter-ban"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-lawmakers-twitter-ban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-lawmakers-twitter-ban.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/27d92032-9abc-440f-98b4-d0ed84bafb91/266c6b1a-436b-4cdc-8c3c-591d826bd1a0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Removing Trump by 25th Amendment could set 'very dangerous' standard: Turley"
-    excerpt: "Fox News contributor Jonathan Turley warned Thursday against Democrats' push to remove President Trump from office by invoking the 25th Amendment."
-    publishedDateTime: 2021-01-07T15:21:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-_XtaUZqfOY/trump-25th-amendment-remove-office-constitution-jonathan-turley"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-25th-amendment-remove-office-constitution-jonathan-turley.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-25th-amendment-remove-office-constitution-jonathan-turley.amp"
+  - title: "Right back to where we were last year: Dems seek Trump impeachment"
+    excerpt: ""
+    publishedDateTime: 2021-01-11T05:44:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/piuxTC5hNWc/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "All the Trump officials who have resigned after the DC protest at the Capitol"
+    excerpt: "The number has continued to climb a little more each day, but it has yet to reach the level of an exodus."
+    publishedDateTime: 2021-01-09T20:43:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kUQXWI1DLJc/all-the-trump-officials-who-have-resigned-after-the-dc-protest-at-the-capitol"
+    ampWebUrl: "https://www.foxnews.com/politics/all-the-trump-officials-who-have-resigned-after-the-dc-protest-at-the-capitol.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/all-the-trump-officials-who-have-resigned-after-the-dc-protest-at-the-capitol.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 172
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Betsy-Devos-AP-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "If Biden halts border wall, it could cost taxpayers billions, CBP chief warns"
+    excerpt: "President-elect Joe Biden is promising that border wall building won't continue under his administration, but with hundreds of miles under construction, the head of Customs and Border Protection (CBP) is warning that shutting down construction could cost taxpayers billions."
+    publishedDateTime: 2021-01-09T22:25:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QQ7UW30u_NQ/biden-border-taxpayers-billions-cbp"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-taxpayers-billions-cbp.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-taxpayers-billions-cbp.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cb36dbe-eada-4977-abd7-6669263e1345/a159a8e6-35c5-4f32-aa31-c8e2af9ce0ae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Democratic House members call for Trump impeachment, removal amid Capitol protest"
     excerpt: "Democratic House members are calling for President Trump's removal from office just two weeks before his term is set to end, as violent protesters stormed and entered the U.S. Capitol building."
@@ -143,37 +239,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Hillary Clinton backs impeaching Trump again: 'Removing Trump from office is essential'"
-    excerpt: "Former Secretary of State and 2016 Democratic presidential candidate Hillary Clinton offered her support for impeaching President Trump a second time, but claimed that the root problem that led to the riot at the Capitol last week – white supremacy – will still remain."
-    publishedDateTime: 2021-01-11T19:33:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0FwvBA624f8/hillary-clinton-second-trump-impeachment"
-    ampWebUrl: "https://www.foxnews.com/politics/hillary-clinton-second-trump-impeachment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-second-trump-impeachment.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91443177-58f8-41e0-aacc-cb3c2e5e60f4/0c640d09-4c34-4471-be1a-e944cc37bf27/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Vermont's Republican governor calls for Trump to resign or be removed over Capitol chaos"
-    excerpt: "Vermont Gov. Phil Scott on Wednesday called on President Trump to resign or be removed from office hours after a large group of Trump supporters breached the U.S. Capitol in Washington."
-    publishedDateTime: 2021-01-07T06:19:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hiqP158K5Ww/vermonts-republican-governor-calls-for-trump-to-resign-or-be-removed-over-capitol-chaos"
-    ampWebUrl: "https://www.foxnews.com/politics/vermonts-republican-governor-calls-for-trump-to-resign-or-be-removed-over-capitol-chaos.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vermonts-republican-governor-calls-for-trump-to-resign-or-be-removed-over-capitol-chaos.amp"
+  - title: "Capitol rioters could face up to 10 years in prison under Trump monument executive order"
+    excerpt: "Acting Attorney General Jeffrey Rosen vowed that pro-Trump rioters who entered the U.S. Capitol would \"face the full consequences of their actions under the law,\" and those consequences could include being charged under President Trump's executive order authorizing up to 10 years in prison for \"injury"
+    publishedDateTime: 2021-01-07T19:38:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r2dI2SvjE0k/capitol-rioters-prison-trump-executive-order-federal"
+    ampWebUrl: "https://www.foxnews.com/politics/capitol-rioters-prison-trump-executive-order-federal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capitol-rioters-prison-trump-executive-order-federal.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/phil-scott.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cbedf04-60c6-401e-b267-a9d2221c950c/0932f180-5a4f-4506-a093-5483fb65583c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Florida Sen. Scott says Democrats should focus on American families not Trump impeachment"
     excerpt: "Sen. Rick Scott, R-Fla., told \"Fox & Friends\" on Monday that if Democrats want to do something good for the country, then they should focus on what they are going to do for American families as opposed to impeachment. "
@@ -191,82 +271,114 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "After Capitol rioting and Georgia Senate defeats, Trump’s clout with some Republicans takes hit"
-    excerpt: "The president is reeling following the storming of the Capitol on Wednesday by Trump supporters who were encouraged by the president at a rally near the White House."
-    publishedDateTime: 2021-01-07T18:10:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RkyH2RnTOFs/capitol-riot-georgia-senate-defeats-trumps-clout-gop-takes-hit"
-    ampWebUrl: "https://www.foxnews.com/politics/capitol-riot-georgia-senate-defeats-trumps-clout-gop-takes-hit.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capitol-riot-georgia-senate-defeats-trumps-clout-gop-takes-hit.amp"
+  - title: "Trump awards Rep. Jim Jordan the Medal of Freedom, credits his defense during impeachment"
+    excerpt: "President Trump on Monday awarded the Presidential Medal of Freedom to Rep. Jim Jordan, the Republican from Ohio who has served as a high-profile congressional defender of the Trump throughout his presidency."
+    publishedDateTime: 2021-01-11T19:04:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zsVghy_-Bw0/trump-rep-jim-jordan-medal-of-freedom"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-rep-jim-jordan-medal-of-freedom.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rep-jim-jordan-medal-of-freedom.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/340/340/15774946_869011851568_820056121039046290_o-e1585243988433.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "President Trump urges protesters to be peaceful after they clash with police, breach Capitol"
+    excerpt: "Amidst chaos and violence at Capitol Hill Wednesday in support of the president, Trump and his son Donald Trump Jr. urged peace among protesters who had forced their way into the capitol building. "
+    publishedDateTime: 2021-01-06T20:49:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YXeCv6PMoZo/trump-don-jr-urge-protesters-to-be-peaceful-after-they-clash-with-police-breach-capitol"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-don-jr-urge-protesters-to-be-peaceful-after-they-clash-with-police-breach-capitol.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-don-jr-urge-protesters-to-be-peaceful-after-they-clash-with-police-breach-capitol.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1634d190-f04d-466f-9adb-4458330ac017/18a24fae-b741-48f8-b897-8bf64a80f1f6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "GOP Sen. Ben Sasse says there is 'brokenness' in Trump's soul, refuses to rule out impeachment"
+    excerpt: "GOP Sen. Ben Sasse said Friday he is willing to consider articles of impeachment against President Trump if they are introduced by the House of Representatives following a violent mob attack by pro-Trump supporters on the nation's Capitol earlier this week. "
+    publishedDateTime: 2021-01-08T16:28:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IrSJPRh-KyI/gop-ben-sasse-trump-refuses-rule-out-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-ben-sasse-trump-refuses-rule-out-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-ben-sasse-trump-refuses-rule-out-impeachment.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 163
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Gidley blasts Democrats' 'disgusting tactic' of claiming anyone pro-Trump 'agrees with lawless thugs'"
-    excerpt: "Former Deputy White House Press Secretary Hogan Gidley ripped into Democrats and their supporters in Hollywood and the media Monday for making blanket claims that anyone who supports President Trump is also supportive of the \"lawless thugs\" who attacked the U.S. Capitol last week."
-    publishedDateTime: 2021-01-11T21:46:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wX-ywZ9dzEk/hogan-gidley-blasts-democrats-disgusting-tactic-of-claiming-anyone-pro-trump-agrees-with-lawless-thugs"
-    ampWebUrl: "https://www.foxnews.com/politics/hogan-gidley-blasts-democrats-disgusting-tactic-of-claiming-anyone-pro-trump-agrees-with-lawless-thugs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hogan-gidley-blasts-democrats-disgusting-tactic-of-claiming-anyone-pro-trump-agrees-with-lawless-thugs.amp"
+  - title: "Manchin calls second Trump impeachment bid 'ill-advised': 'Let the judicial system do its job'"
+    excerpt: "House Democrats' attempt to impeach President Trump for a second time in connection with last week's riot at the U.S. Capitol is \"so ill-advised,\" Sen. Joe Manchin, D-W.Va. told \"Special Report\" Monday. "
+    publishedDateTime: 2021-01-12T00:20:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tPoWs5d64p8/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course"
+    ampWebUrl: "https://www.foxnews.com/politics/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56961609-b75a-4b4d-886f-7cf6225d0872/1929b563-4df0-450f-8d3f-4e0c35becc7f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Dershowitz calls Trump impeachment a 'loaded weapon' that would be 'so dangerous to the Constitution'"
+    excerpt: "Harvard Law professor emeritus and constitutional law scholar Alan Dershowitz said that while he does not believe it would result in a Senate trial, impeaching President Trump over what he said in an address prior to protesters storming the Capitol building on Wednesday would provide a \"loaded weapon\""
+    publishedDateTime: 2021-01-10T17:39:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AYbZcRaWwGY/dershowitz-trump-impeachment-loaded-weapon-dangerous-constitution"
+    ampWebUrl: "https://www.foxnews.com/politics/dershowitz-trump-impeachment-loaded-weapon-dangerous-constitution.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dershowitz-trump-impeachment-loaded-weapon-dangerous-constitution.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 160
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfc525e5-ea65-4ace-ba6a-5420692b6c52/13e91bc9-d86e-48be-a4b8-69f02fc4f689/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e261edb-993c-4462-a43f-7b8bc27294f3/dbae9707-b9f7-49a0-8d78-aa793b6188a1/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Pelosi says lawmakers moving forward with impeachment, calls Trump 'imminent threat' to 'our Democracy'"
-    excerpt: "House Speaker Nancy Pelosi on Sunday said the House will be moving forward with a resolution to impeach Donald Trump, whom she referred to in a letter to her colleagues as an “imminent threat” to both the U.S. Constitution and Democracy."
-    publishedDateTime: 2021-01-11T00:19:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RyA_THk6cvQ/pelosi-says-lawmakers-moving-forward-with-impeachment-calls-trump-imminent-threat-to-our-democracy"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-says-lawmakers-moving-forward-with-impeachment-calls-trump-imminent-threat-to-our-democracy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-says-lawmakers-moving-forward-with-impeachment-calls-trump-imminent-threat-to-our-democracy.amp"
+  - title: "Trump a Twitter rival? After ban, president says he's in talks with other platforms -- or may launch his own"
+    excerpt: "President Trump on Friday said he is considering other social media platforms and may even create his own after he was banned from Twitter in the wake of Wednesday's U.S. Capitol riot."
+    publishedDateTime: 2021-01-09T05:59:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/USYuHRIz2qM/trump-a-twitter-rival-after-ban-president-says-hes-in-talks-with-other-platforms-or-may-launch-his-own"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-a-twitter-rival-after-ban-president-says-hes-in-talks-with-other-platforms-or-may-launch-his-own.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-a-twitter-rival-after-ban-president-says-hes-in-talks-with-other-platforms-or-may-launch-his-own.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 156
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01f558dd-ed80-4f8f-ade4-1085f537ea56/6028a5a7-09d8-4664-8310-c4520818986e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/trump-twitter.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Dershowitz blasts Democrats' impeachment push: 'They just want to have the accusation hanging over' Trump"
-    excerpt: "Congress does not have the power to hold an impeachment trial for any official after they've left office, Harvard Law School professor emeritus Alan Dershowitz argued on \"Hannity\" Monday."
-    publishedDateTime: 2021-01-12T05:02:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_S-6bw412kY/dershowitz-blasts-democrats-impeachment-push-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/dershowitz-blasts-democrats-impeachment-push-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dershowitz-blasts-democrats-impeachment-push-trump.amp"
+  - title: "As Trump's border wall tops 450-mile goal, CBP chief says more wall is coming"
+    excerpt: "The Trump administration on Tuesday announced that the number of miles of wall at the southern border had topped 450, a key election promise set by President Trump – with a top official saying more wall construction is underway."
+    publishedDateTime: 2021-01-05T18:04:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MBnWntiRONo/trumps-border-wall-tops-450-mile"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 158
+    quality: 152
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7d3095f-e98c-4f4c-bd55-c950eb705fd3/cf9bd28e-9eeb-48cd-9721-334d2d3a2481/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cafa9715-9cec-4ff3-9eee-a36559f3ad68/ded6b470-42f2-494c-aaac-73915157c297/1280x720/match/image.jpg"
         width: 1280
-        height: 720
-        isCached: true
-  - title: "Is Trump remaking the Republican Party or purging those who cross him?"
-    excerpt: "President Trump’s escalating attacks on the Electoral College results are tearing the Republican Party apart."
-    publishedDateTime: 2021-01-06T08:06:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/psaLUmpTqgo/is-trump-remaking-the-republican-party-or-purging-those-who-cross-him"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/6af765dc-8c93-4b04-a293-e3926146ea35/7be20330-7cf3-4052-8b8f-964806a5c392/1280x720/match/image.jpg"
-        width: 1080
         height: 720
         isCached: true
   - title: "New Trump impeachment? Top Democrats show no interest in 'Squad' push"
@@ -285,38 +397,75 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "AOC says ‘our main priority is to ensure the removal of Donald Trump’"
-    excerpt: "Cortez on Sunday called for articles of impeachment against President Trump to be introduced on the House floor following the Capitol riot, insisting he represents a"
-    publishedDateTime: 2021-01-10T16:36:00Z
-    webUrl: "https://nypost.com/2021/01/10/aoc-main-priority-is-to-ensure-the-removal-of-donald-trump/"
-    ampWebUrl: "https://nypost.com/2021/01/10/aoc-main-priority-is-to-ensure-the-removal-of-donald-trump/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/10/aoc-main-priority-is-to-ensure-the-removal-of-donald-trump/amp/"
+  - title: "Gary Cohn, Former Trump Adviser, Joins IBM"
+    excerpt: "Mr. Cohn will serve as vice chairman and member of company’s executive leadership team."
+    publishedDateTime: 2021-01-05T20:12:00Z
+    webUrl: "https://www.wsj.com/articles/gary-cohn-former-trump-adviser-joins-ibm-11609859554"
+    ampWebUrl: "https://www.wsj.com/amp/articles/gary-cohn-former-trump-adviser-joins-ibm-11609859554"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/gary-cohn-former-trump-adviser-joins-ibm-11609859554"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/aoc-trump-removal.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://images.wsj.net/im-280713/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Pelosi supports invoking the 25th Amendment because it ‘gets rid’ of Trump"
-    excerpt: "House Speaker Nancy Pelosi said she would support Vice President Mike Pence invoking the 25th Amendment because it “gets rid” of President Trump. Pelosi, who said the House has"
-    publishedDateTime: 2021-01-10T18:54:00Z
-    webUrl: "https://nypost.com/2021/01/10/pelosi-supports-25th-amendment-because-it-gets-rid-of-trump/"
-    ampWebUrl: "https://nypost.com/2021/01/10/pelosi-supports-25th-amendment-because-it-gets-rid-of-trump/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/10/pelosi-supports-25th-amendment-because-it-gets-rid-of-trump/amp/"
+  - title: "GOP Sen. Ben Sasse says there is 'brokenness' in Trump's soul, refuses to rule out impeachment"
+    excerpt: "GOP Sen. Ben Sasse said Friday he is willing to consider articles of impeachment against President Trump if they are introduced by the House of Representatives following a violent mob attack by pro-Trump supporters on the nation's Capitol earlier this week."
+    publishedDateTime: 2021-01-08T16:41:00Z
+    webUrl: "https://www.foxnews.com/politics/gop-ben-sasse-trump-refuses-rule-out-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-ben-sasse-trump-refuses-rule-out-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-ben-sasse-trump-refuses-rule-out-impeachment.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 133
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/AFP_1NS4BC.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
+  - title: "WSJ Opinion: Trump Erases His Legacy"
+    excerpt: "A politician has to work hard to destroy a legacy and a future in a single day. President Donald J. Trump managed it. Image: John Minchillo/Assoc"
+    publishedDateTime: 2021-01-08T03:22:00Z
+    webUrl: "https://www.wsj.com/video/series/potomac-watch-strassel/wsj-opinion-trump-erases-his-legacy/B7574174-9D38-44B6-B3F6-65506E796535"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "http://m.wsj.net/video/20210107/010721opvidpotomacwatch/010721opvidpotomacwatch_1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The Triumph of Stacey Abrams Over Donald Trump"
+    excerpt: "The Dems claimed the 2016 election result wasn't real on the basis of a complete falsehood they developed, which the CIA and FBI validated and used to spy on Trump, and then tried to impeach Trump on the basis of a single whistleblower's bogus account of a phone call 30 others heard."
+    publishedDateTime: 2021-01-07T12:14:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/07/the_triumph_of_stacey_abrams_over_donald_trump_532874.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/531661_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Trump Is Over? Not So Fast"
+    excerpt: "During the Trump administration we saw nonstop attacks against Trump and his supporters. Democrats refused to cooperate in the transition of power, they forced a two year investigation that paralyzed the administration based on what they knew was fabricated information,"
+    publishedDateTime: 2021-01-10T20:45:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/09/trump_is_over_not_so_fast_533086.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "ZIafFl5W2tAM1zEhIv8n1R7MGK2ve7JYCy3WGEouQkQiSfivyl92FtuvxCEdkN81r1RkzzT6qNzavS0Blc2HNjMeCaF1MdY8+B/CH+1AOqPdc3DU6yhCyJ4/m6HYKswlCS0uP6xrZI5dHAVZJQlbaJCM4adItC26tp8+9fRy7+46iDvLVkYTxuyTDvVeltkTUJ8sH3SZtLWLVn14AVLsz5WX2K9TE4YdjYe4oBRm0tJ4dzqY4HXWO3GsxFtEYeD6pZ9N2PdBuhrjVwlex8TpTV8RNaujYxaYY3z1E1fYIS2cGJkQaNUcC+PvHa/LOV7pLhtrP9udTv7stBYVMwzOPnnxN2DVXZl8m5j8Z6o9VlA=;j1EapwLX4wfMquCmiKSx4Q=="
 ---

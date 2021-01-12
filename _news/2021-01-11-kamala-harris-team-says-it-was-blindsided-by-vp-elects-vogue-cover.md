@@ -2,30 +2,26 @@
 category: news
 title: "Kamala Harris team says it was blindsided by VP-elect’s Vogue cover"
 excerpt: "Vice President-elect Kamala Harris has landed on the cover of the February issue of Vogue magazine, but her team says there’s a problem: the shot of the country’s soon-to-be No. 2 leader isn’t what both sides had agreed upon,"
-publishedDateTime: 2021-01-11T14:46:00Z
-originalUrl: "https://www.chicagotribune.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
-webUrl: "https://www.chicagotribune.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
-ampWebUrl: "https://www.chicagotribune.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+publishedDateTime: 2021-01-11T15:46:00Z
+originalUrl: "https://www.baltimoresun.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
+webUrl: "https://www.baltimoresun.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
+ampWebUrl: "https://www.baltimoresun.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
+  - url: "https://www.baltimoresun.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -142,6 +138,22 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_kamala_011121getty.jpg"
         width: 1440
         height: 880
+        isCached: true
+  - title: "Is Donald Trump an aberration or a symptom of a deeper US malady?"
+    excerpt: "The underlying causes of Trump’s rise to power must be addressed, from taming social media to tackling inequality"
+    publishedDateTime: 2021-01-12T10:43:00Z
+    webUrl: "https://www.theguardian.com/business/2021/jan/12/donald-trump-us-joe-biden"
+    ampWebUrl: "https://amp.theguardian.com/business/2021/jan/12/donald-trump-us-joe-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2021/jan/12/donald-trump-us-joe-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/aad2fde33329699780b71b94975470c2abe19154/0_214_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f40500cdb421c69acab0b09185d0b90f"
+        width: 600
+        height: 360
         isCached: true
   - title: "Harris on Trump GA call before Senate runoff"
     excerpt: "Rough Cuts Harris on Trump GA call before Senate runoff. Posted . U.S. Vice President-elect Kamala Harris rallied supporters in Georgia on Sunday for Democratic Senate candidates"
@@ -585,6 +597,6 @@ related:
         height: 630
         isCached: true
 
-secured: "3dQZeZB6MZs/ZVw4LYSyOQ5MBbFPYMndwy4TBBiPzrIlsT6r1m1DnT4iaeGl1gb2oV8lUlXT6ksmEOAdnRZZ17I1N/EKyO2qbfvYnyq1Dc4y9vJjqqUeeahcgn5PTTQD1GGXJp4+GMOZc57paBG+QmHL9iZR1omx+WHPoSLyh52Cy8Ygu41SuBbJZ0+Djkb3/t50oMzd98dohSw2Ksv5BTu48QyQO+pLY6ETNAR/KgRXasEcuZZXSzRS0QSiP8Dd22LMCnI5AOEsw/ravwNo5glj9Md3UdK3fskRGtwjIHila8iQpvXNhlCMbHez1kf/B1/3dwK6LnnqNpU4wd77SYbZE/NdQ5AfZ9Ij871NbKBbrI3OWUvY407k6mGQxHwgN7HCnnoDyTjSrY6MlWrrV5hRLA/oSYxczIak25tzA+qXUn7NmF97dEynkcoEx3P97BXZTEDMJPWmIiwzfre/081gSH4O/il7+wYBn4pfCOYzLHg9idGtcdBO7KaC2VglCsZG39vGz4dmr8hn3Co39w==;z45RSHdsQThezv4tYlWoXQ=="
+secured: "ts2pCEeuwCQblLP/oF5yn9bJYbFLIAG0TH5pMe/pk7R8K+UehYt8oisPxiUjbiG0CF3nQr4d5rWGp3e/nKE+38E7IpFMRmleNd25RFB6QmHum2KH0ba+H7NqxFUzZG700XDzdsr1MC7iV/A6IDV47cxOpuBcSsrrpvP1RP23K16amMvc+dO1zF12onnUrzrNlkMLPS8mvS9BGW+/oAeTX8L/0xXXWE9x86B5Ad0WgB4CoxAZXg7ENL/U4h8Q+114b1gzhdzn2dhwQXBOlfqzUlJbfradP8whXh7xf38WwVF9t8q6NP2s8YaqtHf4KqsIv2wEvnqBwpxc8R6e+gkIXV2QW268zFWoM9MNkGaMNpo=;L+JhEbOQ15/ngFiThz47ug=="
 ---
 

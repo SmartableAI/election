@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment-lawyers-dershowitz-giuliani/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210110181004-01-nancy-pelosi-announcement-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "One day until Trump's second impeachment vote: What happens now"
+    excerpt: "The next few days are going to be long, but by the end of Wednesday, we expect that President Donald Trump will be impeached a second time.\n    \n"
+    publishedDateTime: 2021-01-12T13:38:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vUUdi4hAMmA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/impeachment-timeline-congress-state-of-play/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/impeachment-timeline-congress-state-of-play/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190119162803-trump-schumer-pelosi-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

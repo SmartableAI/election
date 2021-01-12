@@ -100,22 +100,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
-    excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature. "
-    publishedDateTime: 2020-12-24T19:55:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EDUV8C4hI7Y/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "'Growing body of evidence' that COVID-19 leak from Chinese lab a 'credible possibility,' Trump official claims"
     excerpt: "Deputy National Security Adviser Matthew Pottinger made the claim in a virtual conference call with British lawmakers."
     publishedDateTime: 2021-01-05T00:29:21Z
@@ -227,22 +211,6 @@ related:
       - url: "https://images.wsj.net/im-278258/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
-    excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature."
-    publishedDateTime: 2020-12-25T05:23:00Z
-    webUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "OhAKRlxbe5ZW/Nkcb4GLCJaZh7eWIWXjp/g2QaXeo4cITD42YZxFc/qJk3m2hTs2onprOCCQpcv+KptW/DrVCvvFqs5wAAi4VO2FzUXUUXMXBnzsaRj4eqrkkVKJZF7bub+u++Fgq7Sro5Q7cY0uggTtxnuq0ygc4Nn+nLOtROUHQk3lpRwtqRjXjASfxU675001ukB5MIvowtTo50KYy059asjmFZ+QJPlJYECSid32psqmBXB0fgtI2GTKDuKd9QDeIHJzpajEFZAohOdwtQgb5c5jHqFnXfGCEztnYEfYGkCRgs3gvPnls5f2Fj3jnh/fRg92FWeYVKB6p4pi8ZQbqF8FVfM9VZWw9caMVug=;dSi0PCgqpVC+EVWNWRkSLg=="

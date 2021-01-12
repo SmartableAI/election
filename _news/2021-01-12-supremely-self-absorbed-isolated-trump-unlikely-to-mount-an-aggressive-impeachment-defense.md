@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "One day until Trump's second impeachment vote: What happens now"
+    excerpt: "The next few days are going to be long, but by the end of Wednesday, we expect that President Donald Trump will be impeached a second time.\n    \n"
+    publishedDateTime: 2021-01-12T13:38:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vUUdi4hAMmA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/impeachment-timeline-congress-state-of-play/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/impeachment-timeline-congress-state-of-play/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190119162803-trump-schumer-pelosi-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump faces shameful prospect of second impeachment with Democrats set to move quickly this week"
     excerpt: "Donald Trump is facing the shameful, imminent prospect of becoming the first president to be impeached twice as Democrats warn he poses an unacceptable danger to the world after inciting a mob assault on Congress.\n    \n"
     publishedDateTime: 2021-01-11T06:27:14Z
@@ -143,6 +159,6 @@ related:
         height: 1663
         isCached: true
 
-secured: "637tbuxmMeEHCeiEoQa/iFvge+shyiFXeYWm09ezQCJ/XnLdQKMaDpGtLBRI0JsgU+kWU2xbB5zkbyBpBn/lUXF/5TwNGafnK8vZVo7ex9ngy1eStGpf22wWJqqp8GSB+U1dv2d2j2DStZjSC+BGtNqNUAdO8z0aVQiNF+LhQ3K1/F0phPzfVSj4niheHJuuZmRq+3+mQbabhZLXEEYZnhz7XYb4xKksjSZL9XlbSluUzwfZRC1t9XwTWPBFA1EzVj4j8r308utLeqtkcbpaxOouQLM6s88CgpMRFUimfdlYDQ6VnXMJf3KUMFN3bepZwWIfEEaZlbguCjVXl66S6AIoIsE/MhmcZMo4GVwDMfY=;SFa+pvrjqZNThVOgOASr9g=="
+secured: "Kg3rxP6oT/iYHRrxCKiqaX8cqCQ1X9cmCdvSyagTR0kxWcAksxIr0DlV2bHrShylzLSr6qxL/CtrtQPm/mv6IDAdFYGV6/p8oOKWakqL2qagqXrEXEgeq7AOef9CTn5NNc1F9BRBKgawRDJIzxRZst335vp423CUkxZ9IRgQ7CovdBgYmY5swgx0t/2VhPfBLjvqSTQRrCUdycY3dKxcfFn3Xk2RkLbOwHJpbJR907LMvbYDqO4RVwquEKM7hErwrF8tzlQ/2/PFv0uLlvGEIna8ncLX/TBXTkEUK2pdkBB90GoRV0UPVTrv4eRg677RIVJRLlwycIXdPf9/LmYKN74BdzyL5Su3nvach02H3ve+2HWRzdKwMQ+pOe5W/kaBdjNN6rG7R+LKcJRDYJOiTm3UbRyA68/g3imG5H16MUt1DhPxRoo0zBjgzfuCbVwYP5kdLl1kZONd0Js0wnx6PaSl+TxA7mYeiR0bE3lEQGis/dno0OQQTp38vfppV/sx2rGeZyOPDv0WcTpWCu67/w==;WVD7dFzlXgfTl5SOQsBrHg=="
 ---
 

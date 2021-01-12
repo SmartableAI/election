@@ -47,6 +47,34 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump should leave office, German finance minister Scholz says"
+    excerpt: "U.S. President Donald Trump should leave office before Inauguration Day after the Capitol Hill riots, German Finance Minister Olaf Scholz said, adding that Berlin was confident of a good start to relations with his successor Joe Biden."
+    publishedDateTime: 2021-01-12T14:41:00Z
+    webUrl: "https://www.reuters.com/article/us-germany-scholz-usa-trump/trump-should-leave-office-german-finance-minister-scholz-says-idUSKBN29H1TO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547496564&r=LYNXMPEH0B0XY&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Trump Tariffs On Cognac Hit A French Success Story"
+    excerpt: "For the last decade, owners of cognac distilleries have seen their sales more than double to the United States, making their spirit one of France's fastest-growing major exports. Then Donald Trump came along."
+    publishedDateTime: 2021-01-12T14:27:00Z
+    webUrl: "https://www.ibtimes.com/trump-tariffs-cognac-hit-french-success-story-3119957"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/us-hip-hop-artists-such-as-a-ap.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "AmnKAKAH33ld+slkjD7zTKogz3d8OYzg2Rz8RBZUeP3A0T7/4FvhKJCdyD3FiELr9LSgKVrfNF8bNUg/E2FWS+3xXWiit8A6H//k3aCLs+pc5EiCslfCCfMtXg81Bvp5Sbe4jCS6DplfBk8HzXR/bHYzb/nqPMBHRshGV1eOote5J3ZQ/sgxEJTnF0o6mRgBob01k2/qCSx5yNgGzP+pS3OLjs3oNnKUTSR3o5gFVcXUE7j6+njnO/Zbq6FMBtuw47cstVHslhGwdfQOW1YaFLeBKMSSVlbJKmZae5PbDaD5g7frKhVxnIN3wzRETT4p91yaupUo5HNiqgg8bwieFIdo5RnNfKEBziN3V19yFM8=;/69JNNXuZoEQ9BiD5uy09Q=="
 ---

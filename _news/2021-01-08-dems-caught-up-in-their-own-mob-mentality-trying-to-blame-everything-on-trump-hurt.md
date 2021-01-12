@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-capitol-democrats-biden-harri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-capitol-democrats-biden-harris-charles-hurt.amp"
 type: article
 quality: 166
-heat: -1
-published: false
+heat: 166
+published: true
 
 provider:
   name: Fox News
@@ -29,24 +29,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "Right back to where we were last year: Dems seek Trump impeachment"
-    excerpt: ""
-    publishedDateTime: 2021-01-11T05:44:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/piuxTC5hNWc/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "g6g8bnepa5q58JqeWgucGg7PWBpGv4p2iJBj6ixOO9gnnqbB4TtAaP5KeySlCIueT60g4nq6ID7GYbAN/zwtddNh1F9cTGAHHx7fhPHR2ZkBXB6iyGkiBkSutBFcQEDAkUl/eZn0SgHLeKtA/eGKKGjThZGX5nilQUc9cwZSs+BZt8W37RcUZS00wOT12mdbMcpKvC3Xl7Ke2Kyv3np2NuT7AsQNqYWMeww7YRFA6wB7xSExoQlRoBsgLTB0UFxShr6SN8vCT9c7xKcMSG0LrN9CPnBagZzvnBZiBUcd7UAudETQ2+PqelPMP0BCEMjBhQjQQs8XSEXqOvt1dQ0W6RbyWI3BOEywdMZ/QH+CA7Y=;aBSnwJ1aw52eS6GUkndpkA=="
 ---

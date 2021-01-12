@@ -47,54 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Some Democrats call for Trump impeachment after Capitol riots"
-    excerpt: "A growing number of congressional Democrats are calling for President Trump to be impeached after a group of his supporters stormed the United States Capitol building on Wednesday."
-    publishedDateTime: 2021-01-07T14:28:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k9QzWzrcp2U/some-democrats-call-for-trump-impeachment-after-capitol-riots"
-    ampWebUrl: "https://www.foxnews.com/politics/some-democrats-call-for-trump-impeachment-after-capitol-riots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/some-democrats-call-for-trump-impeachment-after-capitol-riots.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8490c243-1866-43b4-ab4e-31c16a8e0b62/babc6474-e94a-467b-a6b9-d0a8fffe458c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Will Democrats impeach Trump before he leaves office? How it would work"
-    excerpt: "Pelosi says Democrats could consider a second set of articles of impeachment for the president next week."
-    publishedDateTime: 2021-01-08T19:44:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u11dFic2Ue8/will-democrats-impeach-trump-how-it-works"
-    ampWebUrl: "https://www.foxnews.com/politics/will-democrats-impeach-trump-how-it-works.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-democrats-impeach-trump-how-it-works.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Pelosi takes takes initial step toward trying to remove Trump"
-    excerpt: "Speaker of the House Nancy Pelosi announced Friday night she will begin to steps to remove President Trump if he does not resign for his role in the breach on the U.S. Capitol earlier this week."
-    publishedDateTime: 2021-01-09T00:06:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LLI_Abg0D04/pelosi-takes-another-swipe-at-trying-to-remove-trump-from-office"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-takes-another-swipe-at-trying-to-remove-trump-from-office.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-takes-another-swipe-at-trying-to-remove-trump-from-office.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b32ebf9a-5188-4687-bf40-72a6eee05990/5314d1ba-f3cf-4df9-a735-3bbd2ec83ce7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Republican Sen. Toomey joins calls for Trump to resign"
     excerpt: "Sen. Pat Toomey, R-Pa., joined the chorus of lawmakers calling for President Trump to leave office, telling CNN's \"State of the Union\" on Sunday that the best course of action would be for the president to resign."
     publishedDateTime: 2021-01-10T16:40:47Z
@@ -110,22 +62,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99e350c3-f5c7-495c-80e6-742d3e3e217a/1557b227-7a54-4ea4-849e-da952d2399b3/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "House Dem apologizing for comparing new Trump impeachment to a 'lynching'"
-    excerpt: "An Oregon Democrat is apologizing for likening a second impeachment of President Trump to a \"lynching.\""
-    publishedDateTime: 2021-01-09T23:29:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XkgD4GGrJvM/house-dem-apologizing-for-comparing-new-trump-impeachment-to-a-lynching"
-    ampWebUrl: "https://www.foxnews.com/politics/house-dem-apologizing-for-comparing-new-trump-impeachment-to-a-lynching.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-dem-apologizing-for-comparing-new-trump-impeachment-to-a-lynching.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Kurt-Schrader-GETTY.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Removing Trump by 25th Amendment could set 'very dangerous' standard: Turley"
     excerpt: "Fox News contributor Jonathan Turley warned Thursday against Democrats' push to remove President Trump from office by invoking the 25th Amendment."
@@ -143,22 +79,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Democratic House members call for Trump impeachment, removal amid Capitol protest"
-    excerpt: "Democratic House members are calling for President Trump's removal from office just two weeks before his term is set to end, as violent protesters stormed and entered the U.S. Capitol building."
-    publishedDateTime: 2021-01-06T22:45:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gqow1ACj0Ts/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32855443-767d-4b96-861e-e053b799308b/df486f77-b285-4a08-a896-558037ce44aa/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Hillary Clinton backs impeaching Trump again: 'Removing Trump from office is essential'"
     excerpt: "Former Secretary of State and 2016 Democratic presidential candidate Hillary Clinton offered her support for impeaching President Trump a second time, but claimed that the root problem that led to the riot at the Capitol last week – white supremacy – will still remain."
     publishedDateTime: 2021-01-11T19:33:45Z
@@ -174,22 +94,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91443177-58f8-41e0-aacc-cb3c2e5e60f4/0c640d09-4c34-4471-be1a-e944cc37bf27/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Florida Sen. Scott says Democrats should focus on American families not Trump impeachment"
-    excerpt: "Sen. Rick Scott, R-Fla., told \"Fox & Friends\" on Monday that if Democrats want to do something good for the country, then they should focus on what they are going to do for American families as opposed to impeachment. "
-    publishedDateTime: 2021-01-11T14:05:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Dlcoa3eYbM4/trump-impeachment-democrats-rick-scott"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-democrats-rick-scott.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-democrats-rick-scott.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "After Capitol rioting and Georgia Senate defeats, Trump’s clout with some Republicans takes hit"
     excerpt: "The president is reeling following the storming of the Capitol on Wednesday by Trump supporters who were encouraged by the president at a rally near the White House."
@@ -268,22 +172,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/6af765dc-8c93-4b04-a293-e3926146ea35/7be20330-7cf3-4052-8b8f-964806a5c392/1280x720/match/image.jpg"
         width: 1080
         height: 720
-        isCached: true
-  - title: "New Trump impeachment? Top Democrats show no interest in 'Squad' push"
-    excerpt: "A renewed interest in impeaching President Trump from members of the so-called \"Squad\" is not catching on among top House Democrats."
-    publishedDateTime: 2021-01-05T15:50:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005034498345-e1609858170240.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "AOC says ‘our main priority is to ensure the removal of Donald Trump’"
     excerpt: "Cortez on Sunday called for articles of impeachment against President Trump to be introduced on the House floor following the Capitol riot, insisting he represents a"

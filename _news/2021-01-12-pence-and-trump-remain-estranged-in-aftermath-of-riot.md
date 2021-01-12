@@ -1056,6 +1056,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration expected to change course on vaccine distribution"
+    excerpt: "The Department of Health and Human Services is expected to announce sweeping changes Tuesday in vaccine rollout guidelines in an effort to boost the lagging number of vaccinations in the first month.\n    \n"
+    publishedDateTime: 2021-01-12T14:19:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZaC2_F6L6kQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/coronavirus-vaccine-distribution-rollout/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/coronavirus-vaccine-distribution-rollout/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112041040-vaccine-needle-0107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's disastrous end to his shocking presidency"
     excerpt: "President Donald Trump is leaving America in a vortex of violence, sickness and death and as internally estranged than it has been for 150 years.\n    \n"
     publishedDateTime: 2021-01-12T12:29:04Z
@@ -1341,6 +1357,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106120930-01-chuck-schumer-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: The devastating silence of the Trump administration on the Capitol riot"
+    excerpt: "Six days ago, the US Capitol was overrun by violent rioters who marauded through the building, as members of Congress and the media were left on their own to find shelter and safety.\n    \n"
+    publishedDateTime: 2021-01-12T14:45:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EZYAdsU5BFU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/federal-government-silent-attacks-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/federal-government-silent-attacks-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107134539-20-us-capitol-riots-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1771,6 +1803,22 @@ related:
     quality: 150
     images:
       - url: "https://static01.nyt.com/images/2021/01/10/us/politics/10dc-cong0/10dc-cong0-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Live Updates: House Plans Vote Demanding Pence Seize Trump’s Powers"
+    excerpt: "The resolution calls on Vice President Mike Pence to wrest the powers of the office from President Trump. If Mr. Pence fails to act, an impeachment vote is expected Wednesday."
+    publishedDateTime: 2021-01-12T09:00:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/12/us/impeachment-trump-25th-amendment"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/12/us/impeachment-trump-25th-amendment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/12/us/impeachment-trump-25th-amendment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/12/us/12transition-briefing-promo1/12transition-briefing-promo1-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
         isCached: true

@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris' Vogue Cover Prompts Backlash and Outrage: ‘Disrespectful'"
 excerpt: "Vogue received similar criticism for the way it photographs Black stars when Simone Biles covered the magazine in July."
 publishedDateTime: 2021-01-10T19:28:00Z
-originalUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
-webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
+originalUrl: "https://www.nbcnewyork.com/news/local/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/"
+webUrl: "https://www.nbcnewyork.com/news/local/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/"
 ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/kamala-harris-vogue-cover-prompts-backlash-and-outrage-disrespectful/2822522/?amp"
 type: article
@@ -108,6 +108,6 @@ related:
         height: 576
         isCached: true
 
-secured: "WRHsa812a0cgUS/3T1ekHxY5LKEHE3/SdHaEsoDkyYcCaz6SHcHPDGJRwwyUThzsCBsgSQMjyjCHvncR59Pbt6hktKI4bAMaRC/THpJa5YjppUNz3KvK8O8UA2bB1k0gheZpB3K1ni1wzM0v9aaBbuXifMPfxv5N229Oyt41QAceeudXkd8pgFb25D0kW/MiFGZV+tZvb4Hoo8+ZzJM6tD48H/17hcxXqniNUAf0QXj+Od1Tf9blRDhcGVL/HajDVVdPNc/Y6zs6eP+DRcE9DwYsvcsAdfy5a/e8qLAHGoIUzscyIa3ztUcwCZ4V0NDZZtrvy4gQW3bmlBhpCq15HwKN4aRo//fl7wSyjqYLcJw=;WAU5h4zxRj9KAcUBa8LPXw=="
+secured: "cU9tinJTbtjcYHRaN67oFptYip6DI7Xk/ErMjN6e0Ny6XCuCyf0WNBut6iGH4ai2OXW05BZjpY5MHSO1O5nfVd5A6eotWrO/NhtPJYGV9R1DBGAIE+qLjrq57u2ZYVJBVJi3sZwyXxNZE2RRzm3/nz7KDhSzCS9DZbZQ46ZyaknxYPj0iSPKDd1e1lYX4tN4w9d90VrjIXpuL+eGyhH2J8FSQOqvp7+YP57leYQ8mFmZvt045psKt8wco4WIXbDjFtScN9+C4wtgQMAOfuC11UL++1KJb9wohmwYEpgs1FeLd5b8DwFmxWoSLU8ZxcUg8aZCQ3kWf8b8sI9B1frdVwsmXqp2uCRI/Fska2aoBvA=;8yVI4UemlsDTh1+bEMF+rA=="
 ---
 
