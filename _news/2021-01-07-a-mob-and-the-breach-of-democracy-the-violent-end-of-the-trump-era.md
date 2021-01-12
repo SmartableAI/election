@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump will visit his border wall on the heels of deadly Capitol Hill riot "
+    excerpt: "President Donald Trump will bookend his administration's focus on immigration with a trip to his signature border wall on the US-Mexico border, a visit on the heels of a deadly riot on Capitol Hill incited by the President as House Democrats prepare a second impeachment vote.\n    \n"
+    publishedDateTime: 2021-01-12T11:29:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J0vV2aad09M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/trump-border-wall-capitol-hill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/trump-border-wall-capitol-hill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222230738-trump-media-final-days-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "muTAGgzn8XcifdvEpLQOudbrb3SgOs/7X+fUMafzde9egz0TGaE6feiN2+qmw/r0NkERi0f5dM4GjfCtnF3QcAJt1BWs9eWjrupVs168BJz+kmzJABKPeKJyJV2zYYwVPpaXZS/61tmvXqfV2s19R3bxjF5eCxv/dieipIZEScYvvPr/fyQxfuOxVr9m7iB0i//7fasUI8An3KclrYzDPzRSGzvnVrL80Cu8IOoDNiKZk9rCrFoQyRjBs9XqjBS3X+3GDXG5IwrlZ5R02uSbPttG+nfcBBpcbBDDwygCbUj9c2Vl0CC9F5XvJUmtbpIXlP3sHO6ZuiLnBjR75mN7zE3UkJiHRe4XUWcNrqDNDts=;H7Ke37oieM0d0iWBnnISoQ=="
 ---

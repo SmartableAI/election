@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment-lawyers-dershowitz-giuliani/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -126,6 +126,20 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3441145/2001011-nancy-pelosi-mn-0731_2d44f135b81cd87e860d666f51b53766.jpg"
         width: 2500
         height: 1663
+        isCached: true
+  - title: "'Supremely self-absorbed': Isolated Trump unlikely to mount an aggressive impeachment defense"
+    excerpt: "He’s not doing much governing, aides said. Instead, Trump has surrounded himself with a handful of loyalists who were with him since the start."
+    publishedDateTime: 2021-01-12T11:29:00Z
+    webUrl: "https://www.politico.com/news/2021/01/11/isolated-self-absorbed-donald-trump-impeachment-defense-457983"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 104
+    images:
+      - url: "https://static.politico.com/80/45/8aa0f22648b5a9477863562e5ff1/gettyimages-1294907306-c.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "RYk1OqMjp7FWfg8l1A/25T2yDR45JKk7NXP3mN42w5I/RIqxa4Nv/AEN4Lnt/SLhYP2EguB+W0PklzV4SslqEjoiSqdHIPSsW0wXj4ARvVyqGxY+6SSREcLI+1ow3gsZdrcDwcWsy9OjAw1Jfs9Xell0ERbFDordSqEksqB5xxDQ+2yfbr8Gz0aBme/+vY7P5QwdYSx4XcXFWTs+OizOOHhVWiaVrRis5IqE3tE8V+DHfjtSzjfsejhhOTn4EfxwlqDDyt75+0L0mK/gQUsbpzlF0j5+iDKzQ2524noR86yzMOZHVt40TbMxIPpo8zfQMCQkz17Q4YCQFNi59AdaVjoeFv31lBLzrfnI9k3Wruc=;x6nGeTDbIXrIrVXGW7qaCg=="

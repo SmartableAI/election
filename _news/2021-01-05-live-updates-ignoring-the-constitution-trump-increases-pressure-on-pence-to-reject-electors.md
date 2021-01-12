@@ -1073,6 +1073,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's disastrous end to his shocking presidency"
+    excerpt: "President Donald Trump is leaving America in a vortex of violence, sickness and death and as internally estranged than it has been for 150 years.\n    \n"
+    publishedDateTime: 2021-01-12T12:29:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qaobo6yfNEQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/donald-trump-legacy-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/donald-trump-legacy-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180319104720-01-trump-speaking-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's impeachment foretold everything that's happened since "
     excerpt: "Alarming as it is, the corrosive conclusion to 2020 in America was plainly visible in advance.\n    \n"
     publishedDateTime: 2020-12-20T13:47:40Z
@@ -1118,6 +1134,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210215838-panorama-nuevas-restricciones-asilo-eeuu-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Years of bad leadership from Trump, and now no leadership at all"
+    excerpt: "The more new video we see of the storming of the Capitol by Trump-inspired rioters, the more aggravating it becomes.\n    \n"
+    publishedDateTime: 2021-01-12T03:49:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QUqLq1kVeTk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/what-matters-january-11/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/what-matters-january-11/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210111132316-01-national-guard-dc-0111-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1358,6 +1390,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200802213951-nancy-pelosi-0731-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "House to vote on resolution calling to remove Trump from office by the 25th Amendment "
+    excerpt: "The House of Representatives is expected to vote Tuesday on a measure calling for President Donald Trump to be removed from office through the 25th Amendment in the wake of the violent siege of the US Capitol last week.\n    \n"
+    publishedDateTime: 2021-01-12T11:14:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DYjhoTJ0uGo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/house-vote-25th-amendment-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/house-vote-25th-amendment-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

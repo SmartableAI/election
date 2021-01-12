@@ -271,6 +271,22 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "Insurrection adds to full plate of calamities Biden will face as he takes office"
+    excerpt: "The president-elect’s team says his focus remains on the coronavirus and economic crises, but he will work to unify the country as he promised during the campaign."
+    publishedDateTime: 2021-01-12T11:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-capitol-mob-crisis/2021/01/11/7300c354-5366-11eb-a08b-f1381ef3d207_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-capitol-mob-crisis/2021/01/11/7300c354-5366-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-capitol-mob-crisis/2021/01/11/7300c354-5366-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z2A6ZXSUHYI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden still planning to be sworn in on the steps of U.S. Capitol two weeks after mob attack"
     excerpt: "Joe Biden still plans to be sworn in on the steps of the U.S. Capitol on Jan. 20, exactly two weeks after a pro-Trump mob with rioters wielding Confederate flags stormed the building to attack the very nation Biden was elected to lead."
     publishedDateTime: 2021-01-10T01:36:00Z
@@ -484,7 +500,7 @@ related:
   - title: "Factbox: Biden Cabinet - President-elect fills out his team"
     excerpt: "Democratic President-elect Joe Biden has selected people for his Cabinet, his White House team and other top jobs in his administration ahead of being sworn into office on Jan. 20."
     publishedDateTime: 2021-01-12T02:05:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-cabinetfactbox-idUSKBN29G2MJ"
+    webUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-biden-cabinet-president-elect-fills-out-his-team-idUSL1N2IQ1W4"
     type: article
     provider:
       name: Reuters

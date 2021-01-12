@@ -3,8 +3,8 @@ category: news
 title: "Factbox: Biden Cabinet - President-elect fills out his team"
 excerpt: "Democratic President-elect Joe Biden has selected people for his Cabinet, his White House team and other top jobs in his administration ahead of being sworn into office on Jan. 20."
 publishedDateTime: 2021-01-12T02:05:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-cabinetfactbox-idUSKBN29G2MJ"
-webUrl: "https://www.reuters.com/article/us-usa-biden-cabinetfactbox-idUSKBN29G2MJ"
+originalUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-biden-cabinet-president-elect-fills-out-his-team-idUSL1N2IQ1W4"
+webUrl: "https://www.reuters.com/article/usa-biden-cabinet/factbox-biden-cabinet-president-elect-fills-out-his-team-idUSL1N2IQ1W4"
 type: article
 quality: 105
 heat: -1
@@ -268,6 +268,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QFBYXHRLUUI6TEDOTVK3MRI6WQ.jpg&w=1440"
         width: 1440
         height: 961
+        isCached: true
+  - title: "Insurrection adds to full plate of calamities Biden will face as he takes office"
+    excerpt: "The president-elect’s team says his focus remains on the coronavirus and economic crises, but he will work to unify the country as he promised during the campaign."
+    publishedDateTime: 2021-01-12T11:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-capitol-mob-crisis/2021/01/11/7300c354-5366-11eb-a08b-f1381ef3d207_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-capitol-mob-crisis/2021/01/11/7300c354-5366-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-capitol-mob-crisis/2021/01/11/7300c354-5366-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z2A6ZXSUHYI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Joe Biden picks Boston Mayor Marty Walsh, a former union president, as labor secretary"
     excerpt: "BOSTON — President-elect Joe Biden will select Boston Mayor Marty Walsh as his labor secretary, according to a person familiar with the decision, choosing a former union worker who shares his Irish American background and working-class roots."
@@ -581,6 +597,6 @@ related:
         height: 630
         isCached: true
 
-secured: "EtNBsMv8j5ZUZnySKTH9qYvl5LCuaSnT7eMcYedWy94vOrqvAlfsbRl5FgRm6pIFFNUz3+pCjbpIxULUtX5HtPm3J9DPuZXWBk+JySrfNvOUl09mC9hqrc+C1jj31uZBegkgYf2/UDzNMl1stvPr/yDR7/JWQvpcWrUPt+W99LwJBG4EqIx0LXFpoPc60rAxIc+GRMzXJkXQKr1NZP+szPTF1Te3BDMgJfEe/xiVv8XRzJt07xQ269tsc4MyundvtLTsmI93QGfSx8tfR81WI/4FgM771cxVf1nRNQrmTB5hnn73+zNpGYz/h5qVmCIzONRejW3DFTvBY9yy08n5cKgALgN2SsSEcYVbQNWyDK8=;E+laUEl3p5xyp6hPJeRqnw=="
+secured: "JXJ6TF1IZVq6ZDXUH3WpBQSaG9QR1PXujq0ogPZAWFU+VX+XwQz5w0wgYlNBxwbl6kX3S5M5rZTiYEGK37I0xZ4jfvaN5gjLx9bh5y5fql0Khnz0UA1V8AbyQo1GvXqn0dbczhb00X611CKhoCdQ6s6ixz8NlfpArMJ1rV836BD7TfQQNlf8HJoiJOeyKEp3yQhkgxG1HKWgJC9ZsoPPS9RtAIovRw2ntVv21p1tu8r/KaCZ57jFlLekHSoUvV0+tcVZz57eVxrdCEYEDCjQ031fAV23xa1h3J1XepLqzJXVFRYN5O1W4OlA98/kw0qk4UofHGf3YvIQW0TYlhHIRM2v5nTVAzzzi/r/6HQCHpk=;Z3FuTte/Dpa1cH68DwMYWA=="
 ---
 

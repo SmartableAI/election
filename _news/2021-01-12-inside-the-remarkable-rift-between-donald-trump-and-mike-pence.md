@@ -8,7 +8,7 @@ webUrl: "https://www.washingtonpost.com/politics/trump-pence-breakuo-capitol-rio
 ampWebUrl: "https://www.washingtonpost.com/politics/trump-pence-breakuo-capitol-riot/2021/01/11/6a6aa052-5357-11eb-89bc-7f51ceb6bd57_story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pence-breakuo-capitol-riot/2021/01/11/6a6aa052-5357-11eb-89bc-7f51ceb6bd57_story.html?outputType=amp"
 type: article
-quality: 140
+quality: 150
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Mike Pence
+  - Donald Trump
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XNR7QFCRFQI6XA7DGITEJWBDKY.jpg&w=1440"
@@ -5366,6 +5367,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "bROSSwbnNlj0yWMHkAJOfcOuk9pYY+r1ZproG4IBdq5cT4CXz7wZkjMg5JC0UH3bQErTsmpqgjfZbpjtLarkRZZsikqW3iD/iq5rhKE5WmIYTf+JNE1tQys7Y/sBIubc+FSxBMnG5u2D5CeEkzG8BJzbaNcPd2D11ixv0LKshxgsYeYEEpTNls8HDpLo6UVX5ysjCxrEXWpT81Zx0zIu/xfPBIufaF9fwoOAEaTBEupuy0KfNPYZ+NOROiZzeHZ/DB3Qtil9Bu4p+5d8M7fpmEMDGmjhLqmX3jlOh7o/cBPcHpl7Nkk2ImcPde57qwlDTWyhDIbF2lxAu2nkdm3RRmyraI4nvZwmRsgPYvYRizU=;7D34sGHY2pE0V52LVaGLew=="
+secured: "n5V6np+AZW8o88zqpxkaEzj2XjP2cD967uigZO8B3jLmEu0+fWczHh2PzF+IZ0s/s7TqAJfkB6Psuo00FUyRLA6oQO24JNmMtyFRiWqfCsivsAjOB7QfYor3yIAbVaRRlI1FuK5+oaJLJPNDyd7ddkkxytdHlewC229vk6sTUovlipTodFNy4ozm/wBBB4ml/e8V4h5uhXtrhwePQAcODQS4s52e2R2852FHLMhdzdE9JMpqBCCpWSItVlVOjDKrmXTNiBWvdhmlBIIoXUYAD/Oi4anhirjoCczgKrwSvo3khF8ibR8FFaUIxWWq6gqVUvegk6jN2LjlN9cGWuUPJZMGE7im4Za9GavViX/LmQkK+DC70e+uy3Loy2AhdxZ+UppUteSk99yEAt1BXkSb8yRci4FqI51unuoYI9U6fowY/lGHfml7JDj3+2U9eUplO9SCy27Efqw5oP5ps/0PWMar0an6SxkJwLINgJFLEkV3tWHPe5fLxDJxjqQV6Ei6fSPZOWeTo1BQ35uA769hew==;F5Qffhjnpyx140v2de+7nQ=="
 ---
 

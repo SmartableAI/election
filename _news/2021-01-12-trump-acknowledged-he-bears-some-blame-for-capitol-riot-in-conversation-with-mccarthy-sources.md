@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Trump acknowledged he bears some blame for Capitol riot in conversation with McCarthy: sources"
-excerpt: "President Trump acknowledged that he bears some blame for the Capitol riot last week during a conversation with House Republican Leader Kevin McCarthy, two sources familiar told Fox News."
+excerpt: "President Trump acknowledged that he bears some blame for the Capitol riot last week during a conversation with House Republican Leader Kevin McCarthy, a source familiar told Fox News."
 publishedDateTime: 2021-01-12T01:00:56Z
 originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_IovXsLr9Vc/trump-acknowledged-he-bears-some-blame-for-capitol-riot-last-week-in-call-with-mccarthy-sources"
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_IovXsLr9Vc/trump-acknowledged-he-bears-some-blame-for-capitol-riot-last-week-in-call-with-mccarthy-sources"
@@ -30,6 +30,6 @@ images:
     height: 340
     isCached: true
 
-secured: "RGm04/DjT/VFIR8cGBorcinb+S+c0HZXKKOnU+f5LWwZ5hTNdtZh1VWSRtlDQ5/5n02lfBpdmVfZOEx2L0hki0AjkxBrxVTreG41E0wF/MpTp60UFvEOOwCk3WQrH+FvXrUd45WTtS+dLabnawW6m2cQinJZY02Tw8fvnpG56VRFs8PioevHN0K5r25ZCt+DosfRxQ3YyTWDfowwOcRT+oqwvIVxagCaGVdgssrWTTmW4vlF8cMt6Rw9vD7KQ4d9YwHPXYybml+UsPatOnPHe7UIYTq2QOw7bseCRaz3nsgFDn+0xOFV7Br/vFlB5zgb1o1lE/ku31LCHORYaUweVd3wToHptUoQdJuWX1HOYeM=;xUsTToqyNIn5Qt5tTjsOgQ=="
+secured: "J72I3pDSu75XHMymzfJtfZDPTJ2lD6Pe/14oMBUhrel048v81s25L00go+2J2DFF9qlGiNQSsYzzEnKSciCxm//dkv4eAfuh6Sq1vb/xH88nzdvFCq1vMXtjGgM06uoVeyWrRXul3Qd9PfQkg3ncxqiAesBZMwA2PfEVoXYl4NIXaiyv6+EqEvDsVuIcXcSLUx1mSbYkQOawMqr+DyTfBfrVOhN6SIhlGFDvjDYMhm+ZdDi/ZXdv6zfIwJ33Kp9Z/Bxm5F9/r82tinSV8a9IPb2aydQWSXwWe8NDuXzVofNtXo23RQESTsSrKfdycif0u1y0s3Jf+Q1Ah9R/vDC47IX/rWgc1/y0uVnJLkmyvYk=;q/KT6u5x5Dxjrc8ZFJatcg=="
 ---
 

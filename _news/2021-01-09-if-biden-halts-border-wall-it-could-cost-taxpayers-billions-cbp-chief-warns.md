@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Lindsey Graham praises Biden's CIA director nominee: 'I have known him for years'"
+    excerpt: "Sen. Lindsey Graham, R-S.C., praised President-elect Joe Biden's nominee for CIA director on Monday."
+    publishedDateTime: 2021-01-12T12:52:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/am7GBZVDoNU/bill-burns-biden-cabinet-lindsey-graham"
+    ampWebUrl: "https://www.foxnews.com/politics/bill-burns-biden-cabinet-lindsey-graham.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-burns-biden-cabinet-lindsey-graham.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011418120691-e1610366107225.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "China says Biden represents 'new window of hope' for relations with US"
     excerpt: "China believes President-elect Joe Biden represents a \"new window of hope\" for the country's relationship with the United States."
     publishedDateTime: 2021-01-05T13:43:00Z

@@ -80,6 +80,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Live updates: House to vote on Trump impeachment, 25th amendment resolutions"
+    excerpt: "Lawmakers are expected to take up the 25th Amendment measure Tuesday night and the impeachment resolution Wednesday morning."
+    publishedDateTime: 2021-01-12T11:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-01-12-trump-impeachment-25th-amendment-n1253803"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253803"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253803"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3441298/210111-impeachment-live-blog-main-cover-cs_91340e85bc6e0b139559e1ddd2593605.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Live Updates: Pelosi Threatens Impeachment if Trump Doesn’t Resign ‘Immediately’"
     excerpt: "The House could vote on impeachment next week. President Trump will not attend President-elect Joe Biden’s inauguration. With less than two weeks left of Mr. Trump’s presidency, a wave of resignations hits his cabinet."
     publishedDateTime: 2021-01-08T14:19:00Z

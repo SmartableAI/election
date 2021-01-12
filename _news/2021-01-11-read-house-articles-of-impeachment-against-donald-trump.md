@@ -128,6 +128,20 @@ related:
         width: 2500
         height: 1663
         isCached: true
+  - title: "'Supremely self-absorbed': Isolated Trump unlikely to mount an aggressive impeachment defense"
+    excerpt: "He’s not doing much governing, aides said. Instead, Trump has surrounded himself with a handful of loyalists who were with him since the start."
+    publishedDateTime: 2021-01-12T11:29:00Z
+    webUrl: "https://www.politico.com/news/2021/01/11/isolated-self-absorbed-donald-trump-impeachment-defense-457983"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 104
+    images:
+      - url: "https://static.politico.com/80/45/8aa0f22648b5a9477863562e5ff1/gettyimages-1294907306-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "r+8dHA1BIFCo/xvsn9Ug/m4XsQe5psgiKBqMtIIKngOpqRyfpR0LcNUDDmVjs750b0+PhSMv8joVjcVGDQFJxYCmwYPYHZA88/gmonf8MZP1S3LavFneudsOzYx41/FQV2MuEFJVtRPEAyrBzPOm8thxjvMjl8UVUsFv10vbv/2pyma6cY1VBzMgexa5IEpHPkcIQJz2FAjeIONiEklAHvP70Af+1lRMl4tr5KlwMmnWHAPcaF1KS3BGa4sJz7KY5RsXt5eh23Zz/s/m2i/8pzZDltSiRZbF8JkhwPkY/5O/9KhGKbj+wklOeRitPSNgXPasInY38OjVHi0ynzZqDCkXkMyRCWRX8kMpvLMraxk=;08lCW1d167EPZ7d/rgIH4w=="
 ---

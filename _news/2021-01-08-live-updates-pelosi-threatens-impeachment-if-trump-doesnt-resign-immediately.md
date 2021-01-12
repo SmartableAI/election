@@ -96,6 +96,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Live updates: House to vote on Trump impeachment, 25th amendment resolutions"
+    excerpt: "Lawmakers are expected to take up the 25th Amendment measure Tuesday night and the impeachment resolution Wednesday morning."
+    publishedDateTime: 2021-01-12T11:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-01-12-trump-impeachment-25th-amendment-n1253803"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253803"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253803"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3441298/210111-impeachment-live-blog-main-cover-cs_91340e85bc6e0b139559e1ddd2593605.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "'He threatened the integrity of the democratic system': House introduces one article of impeachment against Trump"
     excerpt: "House Democrats introduced an article of impeachment against President Donald Trump on Monday for \"incitement of insurrection\" when his supporters violently breached the Capitol last Wednesday. The measure,"
     publishedDateTime: 2021-01-11T17:39:00Z
