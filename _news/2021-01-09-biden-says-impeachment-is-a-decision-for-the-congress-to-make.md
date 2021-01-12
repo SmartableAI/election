@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/biden-says-impeachment-is-a-judgmen
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://i.insider.com/5ff160e39ff41f001883fac1?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Law enforcement: We’ll be ready for Joe Biden’s inauguration"
+    excerpt: "This time, they'll be ready. The inauguration of President-elect Joe Biden will be held on the same risers in the same spot at the U.S. Capitol where a"
+    publishedDateTime: 2021-01-11T23:00:00Z
+    webUrl: "https://apnews.com/article/joe-biden-inaugurations-george-w-bush-bill-clinton-capitol-siege-b6a74809de2ed6dff2602fa586d07897"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/5a3c6b02005b4f858aed374d35dab59c/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
 
 secured: "EeuVxP1VHqNvgXcK6SucRjDCrg1Y+Nh2sWw/7ydlbfDzChvp0dE2RO3THyvOh6gfnWSUhQ4oCAOriZSv73L1Abon/i3/atNAsBVecwENNH3JQ6ztoV4lzaonT1W6sdq/TC78/h05TAj8sGTQrL0uedGz1Yncl5IZC3krkbmdrC/8hAtvmOPwKf2sZ8h2ohCPpxfAf7xrzXqKECcTwDNbTImOsI8IGlCRc85XXVhNb2hsdWRQzUKd4G/E9dpUXxCFGseuOi+N3dfHg4qBNKmBiakIU3eVya0VhfLUDFRxPQA0eTwi39D66fjnuktZgaUv1LZ9zdjYsqOX9R6uGSfXfDZENuZW/9bpay5bFWvlbdA=;GDn7vRH/N+4GDAX6+KDpfw=="

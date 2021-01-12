@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-response-capitol-siege-ev
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122"
 type: article
 quality: 124
-heat: 164
+heat: 144
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://i.insider.com/5ff652ebd184b30018aad6d3?width=750&format=jpeg&auto=webp"
         width: 750
         height: 508
-        isCached: true
-  - title: "After Capitol rampage, Pelosi calls on Trump to resign and Twitter deletes his account"
-    excerpt: "House Speaker Nancy Pelosi on Friday called on President Donald Trump to resign and Twitter permanently suspended his account citing a risk that he could incite more violence, two days after a crowd of Trump supporters stormed the U."
-    publishedDateTime: 2021-01-09T04:54:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election/after-capitol-rampage-pelosi-calls-on-trump-to-resign-and-twitter-deletes-his-account-idUKKBN29D1IE"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 97
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547098549&r=LYNXMPEH070OG&w=800"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "eWH8eOY70kKaiwqQCeIFEtu9VBheR7nIaG6Irx3w6dmK1XvzZk9NBux7ndCY9cr91jMHS67UM/OceneTzqqIgqLlPlKiQlT80F1qtO8gDy0/IueZGYtvGQfVXPxAr0wsG49sPREMiYfil3ZmR5mGu0vYUFPyB3gmm6ycda6XFzfiYCDCvxHo7lhFXT9yYQTf4XsutuZoZBf+f6PDvdu4vhAwN1rsqxFfiaNLyHbgdD7gKF37GS7tId3w7DLbjnf2v46q3Q12XXXnfcY5OypooaOkH3wVyEcBnodZcTWXEzrrnk8V/gzVerdG3fHPnx1oK7aWk0QsKxmTYwGB+pQC1iwqF0gjLJUGyLTyuUCNazw=;LfrnSZRDTN1wDvt+7zDLjg=="

@@ -29,38 +29,93 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. attorney in Atlanta abruptly resigns, and Trump bypasses his deputy in picking temporary successor"
-    excerpt: "The top federal prosecutor in Atlanta abruptly resigned this week and President Trump bypassed his top deputy in selecting a temporary replacement — an unusual set of moves, even in the administration’s waning days."
-    publishedDateTime: 2021-01-05T20:53:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/georgia-us-attorney-resigns/2021/01/05/5c7f9222-4f83-11eb-bda4-615aaefd0555_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/georgia-us-attorney-resigns/2021/01/05/5c7f9222-4f83-11eb-bda4-615aaefd0555_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/georgia-us-attorney-resigns/2021/01/05/5c7f9222-4f83-11eb-bda4-615aaefd0555_story.html?outputType=amp"
+  - title: "Business grows skittish about Trump and GOP after riots"
+    excerpt: "Corporate America is quickly distancing itself from President Donald Trump and his Republican allies, with many of the biggest names in business — Goldman Sachs, Coca Cola, Ford, and Blue Cross Blue Shield — suspending political donations after a Trump-inspired mob ransacked the U."
+    publishedDateTime: 2021-01-11T22:09:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_eea37b12d40e40e589e76134df53aa03_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "After Capitol rampage, Pelosi calls on Trump to resign and Twitter deletes his account"
+    excerpt: "House Speaker Nancy Pelosi on Friday called on President Donald Trump to resign and Twitter permanently suspended his account citing a risk that he could incite more violence, two days after a crowd of Trump supporters stormed the U."
+    publishedDateTime: 2021-01-09T04:54:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election/after-capitol-rampage-pelosi-calls-on-trump-to-resign-and-twitter-deletes-his-account-idUKKBN29D1IE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 97
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547098549&r=LYNXMPEH070OG&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "White House denies reports Trump will be in Scotland during inauguration, after Scottish leader warns golf is not essential travel"
+    excerpt: "The speculation began with curious activity by U.S. military aircraft reported circling President Trump's Turnberry golf resort in western Scotland in November. Then the Sunday Post in Scotland reported that Glasgow Prestwick Airport “has been told to expect the arrival of a US military Boeing 757 aircraft,"
+    publishedDateTime: 2021-01-05T22:42:00Z
+    webUrl: "https://www.washingtonpost.com/world/europe/trump-scotland-golf-turnberry-inauguration/2021/01/05/0218037e-4f64-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/europe/trump-scotland-golf-turnberry-inauguration/2021/01/05/0218037e-4f64-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/europe/trump-scotland-golf-turnberry-inauguration/2021/01/05/0218037e-4f64-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 109
+    quality: 95
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TT53PUSPQ4I6XPNEMFNK57IFKU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CKAA5DCPPAI6XIPV7WXSRT6KSA.jpg&w=1440"
         width: 1440
-        height: 992
+        height: 960
         isCached: true
-  - title: "Only surprising if you weren’t paying attention: Trump left many clues he wouldn’t go quietly, and nor would his supporters"
-    excerpt: "President Donald Trump left plenty of clues he’d try to burn the place down on his way out the door. The clues spread over a lifetime of refusing to acknowledge defeat. They spanned a presidency marked by raw,"
-    publishedDateTime: 2021-01-09T16:47:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-capitol-riot-20210109-mxdgqqsnfngt3jkzrh6ioarive-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-capitol-riot-20210109-mxdgqqsnfngt3jkzrh6ioarive-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-capitol-riot-20210109-mxdgqqsnfngt3jkzrh6ioarive-story.html?outputType=amp"
+  - title: "Letter to Jack Dorsey from Twitter employees asking to permanently suspend Donald Trump's account"
+    excerpt: "In a letter to Twitter CEO Jack Dorsey and other top executives, employees ask the company to permanently suspend Donald Trump and investigate Twitter's role in the attack on the U.S. Capitol."
+    publishedDateTime: 2021-01-08T21:40:00Z
+    webUrl: "https://www.washingtonpost.com/context/letter-to-jack-dorsey-from-twitter-employees-asking-to-permanently-suspend-donald-trump-s-account/d9b84fa1-c7cb-4c5b-a90a-fdf167ff0c7a/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 92
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BTTBYKCFQII6XLBKHLAPFOGO5M.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 989
+        isCached: true
+  - title: "Wall Street distances itself from Trump, GOP after storming of Capitol. ‘We will not support candidates who do not respect the rule of law.’"
+    excerpt: "A growing number of Wall Street banks and businesses have cut ties with President Donald Trump’s campaign and financial arms, as well as the broader Republican Party, following last week’s riots and insurrection at the U."
+    publishedDateTime: 2021-01-11T16:58:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-capitol-insurrection-trump-corporations-20210111-xho5ho3babfu3hm5gumffydvai-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-capitol-insurrection-trump-corporations-20210111-xho5ho3babfu3hm5gumffydvai-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-capitol-insurrection-trump-corporations-20210111-xho5ho3babfu3hm5gumffydvai-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 99
+    quality: 90
     images:
-      - url: "https://www.chicagotribune.com/resizer/5yYA4r0jVa3ngPsBwkvI4s1CASA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I4Q4HX2ZX3BCMGRSYWFU3UI4NU.jpg"
+      - url: "https://www.chicagotribune.com/resizer/U-S-V3YyQTOVXBG3OrevWyK-d8g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VVBXHIRERVB6DGESUS6DGCDDWA.jpg"
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump nominates north Alabama business leader to TVA board"
+    excerpt: "President Donald Trump has nominated a north Alabama business leader to serve on the TVA board of directors to complete the term of the board chairman Trump fired last year. Rick Roden, president and CEO of the Mountain Lakes Chamber of Commerce in Scottsboro,"
+    publishedDateTime: 2021-01-04T23:35:00Z
+    webUrl: "https://www.al.com/news/2021/01/north-alabama-business-leader-nominated-by-trump-to-tva-board.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/north-alabama-business-leader-nominated-by-trump-to-tva-board.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/north-alabama-business-leader-nominated-by-trump-to-tva-board.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 55
 
 secured: "YnEvLeuIgvjkhaRax4/IAPqx5J3Kb5Ef9gNRxqY6hmIwpnTbtlpTgVGJp8BBDZtJSYUUuWbgPhmNM6Yml4OEy0fX+ezcbjZ1DkaOe5cliwBtGypvHWkqbDJyj+i93bRlJgK3vivvc59srKEtm+PsdRGf+/5p3bxP3diHECFhdacSa64+tHd9ymTz11jNRz6pQBx56NJs1PC8l9F7ZW7qVi7+J8xFLnJ2YD8uIVdvx88S7fYIQ+1nruGDgFtNTq8VRkkPhtL+NrnY0eoAMBu4DBvlJVeeHZlxDxj5OXSmExQi5WNTcReXrQ2BdFIL9Z7O4MXWeVWLd7EuXut5JzprV3PshVB19Ba/vqsrhs50V34=;CoQ0TnuH7KN9fiVkAqjnEQ=="
 ---

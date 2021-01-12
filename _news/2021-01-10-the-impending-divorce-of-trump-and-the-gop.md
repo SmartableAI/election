@@ -100,6 +100,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump, Pence bios on State Department website edited to say terms end Monday"
+    excerpt: "The State Department website drew scrutiny Monday after official biographies for President Trump and Vice President Pence were edited to note that their terms in office would end Monday evening."
+    publishedDateTime: 2021-01-11T23:52:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L9CCTkMFzMs/trump-pence-bios-on-state-dept-website-edited-to-say-terms-end-today"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-pence-bios-on-state-dept-website-edited-to-say-terms-end-today.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pence-bios-on-state-dept-website-edited-to-say-terms-end-today.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 197
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0afe3101-4207-4390-a463-c8a200bcb033/ec23c2a3-31d2-4ea5-a18d-a46273f06d02/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden to issue executive order halting any Trump 'midnight regulations'"
     excerpt: "President-elect Joe Biden will issue an executive order halting \"midnight regulations\" on day one of his presidency, incoming White House press secretary Jen Psaki said Wednesday. "
     publishedDateTime: 2020-12-31T02:40:54Z

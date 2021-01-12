@@ -896,6 +896,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden dresses down his Covid team over plans to speed vaccinations"
+    excerpt: "The president-elect has criticized his Covid coordinator on multiple occasions in front of groups of transition officials."
+    publishedDateTime: 2021-01-11T22:50:00Z
+    webUrl: "https://www.politico.com/news/2021/01/11/biden-coronavirus-vaccine-goal-problems-457245"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/11/biden-coronavirus-vaccine-goal-problems-457245"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/11/biden-coronavirus-vaccine-goal-problems-457245"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/f8/80/211f999a4d2ebbda9c8a0c0c5082/210110-zients-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden Plans Minimalist Trip From Capitol to White House on Inauguration Day"
     excerpt: "Joe Biden’s inaugural committee suggested the traditional crowd-lined ride down Pennsylvania Avenue would be replaced by a “virtual parade.”"
     publishedDateTime: 2021-01-04T03:07:00Z

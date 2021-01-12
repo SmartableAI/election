@@ -169,6 +169,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "“Vice President Kamala Harris,” a Los Angeles Times Special Edition Magazine, is on Newsstands Now"
+    excerpt: "The Los Angeles Times has published a commemorative magazine, “Vice President Kamala Harris,” in advance of the inauguration of the first American woman ever to hold the office. Harris has made a meteoric ascent in American politics – from Bay Area prosecutor to vice president-elect – and The Times has covered her every step of the way."
+    publishedDateTime: 2021-01-11T23:31:00Z
+    webUrl: "https://www.latimes.com/about/pressreleases/story/2021-01-11/vice-president-kamala-harris-a-los-angeles-times-special-edition-magazine-is-on-newsstands-now"
+    ampWebUrl: "https://www.latimes.com/about/pressreleases/story/2021-01-11/vice-president-kamala-harris-a-los-angeles-times-special-edition-magazine-is-on-newsstands-now?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/about/pressreleases/story/2021-01-11/vice-president-kamala-harris-a-los-angeles-times-special-edition-magazine-is-on-newsstands-now?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 111
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/502e1ad/2147483647/strip/true/crop/6394x4176+0+152/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F94%2F48%2F45db9c4f4017bbe87015d2c06585%2Fla-photos-1staff-515220-la-me-strawberry-farmers-oxnard5-mam.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Doug Emhoff, Kamala Harris’s husband, is making history as America’s first male vice-presidential spouse"
     excerpt: "The arrival of Doug Emhoff in Washington, alongside his wife, Vice President-elect Kamala D. Harris, upends two and a half centuries of American precedent and morphs the what-ifs of previous men who might have become presidential or vice-presidential spouses into what-now?"
     publishedDateTime: 2021-01-11T21:19:00Z
@@ -403,17 +419,17 @@ related:
         isCached: true
   - title: "Kamala Harris team says it was blindsided by VP-elect’s Vogue cover"
     excerpt: "Vice President-elect Kamala Harris has landed on the cover of the February issue of Vogue magazine, but her team says there’s a problem: the shot of the country’s soon-to-be No. 2 leader isn’t what both sides had agreed upon,"
-    publishedDateTime: 2021-01-11T21:27:00Z
-    webUrl: "https://www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
-    ampWebUrl: "https://www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+    publishedDateTime: 2021-01-11T17:38:00Z
+    webUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
+    ampWebUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
+      name: Hartford Courant
+      domain: courant.com
     quality: 75
     images:
-      - url: "https://www.dailypress.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
+      - url: "https://www.courant.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
         width: 1200
         height: 800
         isCached: true

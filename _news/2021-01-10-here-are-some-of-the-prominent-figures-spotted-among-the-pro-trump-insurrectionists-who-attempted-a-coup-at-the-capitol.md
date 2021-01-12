@@ -47,20 +47,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "After Capitol rampage, Pelosi calls on Trump to resign and Twitter deletes his account"
-    excerpt: "House Speaker Nancy Pelosi on Friday called on President Donald Trump to resign and Twitter permanently suspended his account citing a risk that he could incite more violence, two days after a crowd of Trump supporters stormed the U."
-    publishedDateTime: 2021-01-09T04:54:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election/after-capitol-rampage-pelosi-calls-on-trump-to-resign-and-twitter-deletes-his-account-idUKKBN29D1IE"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 97
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547098549&r=LYNXMPEH070OG&w=800"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "FD+/9NLdURBNtzoH80psWNp6urFiUOPrQvZgOUQgPigMPE/SlcZDtZyDZVy5kM6+eW7V/7quqi55m82doYLdZvN8U+QG9/rAFoqBwJS/lwUIVEwYc1AvA4XiEBkQudEueRBN6rBvHlEO/XPC5Ltoyb76Nj/7nWhBcn73Gb+mKW/fBXi8D7YMvBEjxavqjf5wXSrRFerW+lcimvzeSNPbl/JDV1IDIOZJXSeyDzT5J5anFR4X0PeoWsrEHedEPrXCXiOAOUSw1SN4gn9fdTXAJlMbyMaxZU8g5I3xut8vqqNLFtcTUGgRp4uC1fRWGtRkwQzFYqrev6xsgd7KhH7ee/6QVsbT2IB8YSsbX6tNwmk=;fGeYRpojBb8xsuym1mjcXQ=="
 ---

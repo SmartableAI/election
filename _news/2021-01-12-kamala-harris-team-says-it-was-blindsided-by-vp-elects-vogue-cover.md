@@ -2,26 +2,26 @@
 category: news
 title: "Kamala Harris team says it was blindsided by VP-elect’s Vogue cover"
 excerpt: "Vice President-elect Kamala Harris has landed on the cover of the February issue of Vogue magazine, but her team says there’s a problem: the shot of the country’s soon-to-be No. 2 leader isn’t what both sides had agreed upon,"
-publishedDateTime: 2021-01-11T21:27:00Z
-originalUrl: "https://www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
-webUrl: "https://www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
-ampWebUrl: "https://www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+publishedDateTime: 2021-01-11T17:38:00Z
+originalUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
+webUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
+ampWebUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Daily Press
-  domain: dailypress.com
+  name: Hartford Courant
+  domain: courant.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.dailypress.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
+  - url: "https://www.courant.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -168,6 +168,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210104&i=OVDTSNIE7&r=OVDTSNIE7&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "“Vice President Kamala Harris,” a Los Angeles Times Special Edition Magazine, is on Newsstands Now"
+    excerpt: "The Los Angeles Times has published a commemorative magazine, “Vice President Kamala Harris,” in advance of the inauguration of the first American woman ever to hold the office. Harris has made a meteoric ascent in American politics – from Bay Area prosecutor to vice president-elect – and The Times has covered her every step of the way."
+    publishedDateTime: 2021-01-11T23:31:00Z
+    webUrl: "https://www.latimes.com/about/pressreleases/story/2021-01-11/vice-president-kamala-harris-a-los-angeles-times-special-edition-magazine-is-on-newsstands-now"
+    ampWebUrl: "https://www.latimes.com/about/pressreleases/story/2021-01-11/vice-president-kamala-harris-a-los-angeles-times-special-edition-magazine-is-on-newsstands-now?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/about/pressreleases/story/2021-01-11/vice-president-kamala-harris-a-los-angeles-times-special-edition-magazine-is-on-newsstands-now?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 111
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/502e1ad/2147483647/strip/true/crop/6394x4176+0+152/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F94%2F48%2F45db9c4f4017bbe87015d2c06585%2Fla-photos-1staff-515220-la-me-strawberry-farmers-oxnard5-mam.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Doug Emhoff, Kamala Harris’s husband, is making history as America’s first male vice-presidential spouse"
     excerpt: "The arrival of Doug Emhoff in Washington, alongside his wife, Vice President-elect Kamala D. Harris, upends two and a half centuries of American precedent and morphs the what-ifs of previous men who might have become presidential or vice-presidential spouses into what-now?"
@@ -565,6 +581,6 @@ related:
         height: 630
         isCached: true
 
-secured: "swGiTi4qlT3bDGF7DCFwXjBylyL2oSi72Lq+drG9xaQ9RIbXMy/a7DSYQ3tyIXjJqDuEabYw6vzV4NIaqsyvsIV0q/u+eoQTabB9wmLXjVSzdlexVSdKNuqo2EE7hDBt2jDQ+VFQ8SjCbuSy1zRuVs2isUkowAE0tPFQ7w86cABYPwZo7nY7uTNb/mJjFRpktTRvXps7fgv59ORO6PzfFmRhKaA5/ohY94WoQuYiLBAi1wZoMi12fowDwBQ1tm5743nwZjFRMKP1WDR+/56HleWyCsAos0WZCino40azU+dVnBqmXFQ3INFOF1gWjB2zVdbunjKtbTwNgemVFrkr6pH38rrc4hs4ZgS0LoTVy/8=;2IOpypZNm9YNRdbzsQJEZg=="
+secured: "prXgTmtKz/UyQPcgRvKjSMMWC7MMPQMEXiNCa1mzIzvX4Rr4TH9C3MnvU7ebl3OcWqBa7ev4QhhZCReOk9RMZLy5zIVcLgXmV7dG0+qbkXDJZBorVbKCz7ruDDtNjl48CO9iTKQru+p3NoQfgh4BxcMrhCHvFKzHb07DBe7qU+gjoC0J3mjt/KlDDkW0qm9wpb/9owEjQDtQciqavmopOWq+7Nywbcmc6qAreimzgRXgDqnkKRNBHzMN4T7gJpXelDtXUbhPJMWwBzSaN5NgoKUgwTzyjam3WgLMBNJ35RVU0VmnSfjl6HFj6JB1r7KvL3JSX8Dm81W0S9bnxRrNhuFALFnwYa3oVNBP8MTESqI=;ciQkqDPMZiFo/R50icnbgw=="
 ---
 

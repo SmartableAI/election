@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-resul
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
 type: article
 quality: 168
-heat: 6848
+heat: 6948
 published: true
 
 provider:
@@ -1136,6 +1136,22 @@ related:
         width: 827
         height: 551
         isCached: true
+  - title: "The Latest: Trump, Pence speak for first time since attack"
+    excerpt: "President Donald Trump and Vice President Mike Pence have spoken for the first time since last Wednesday’s Capitol insurrection, during which Pence was forced to flee the Senate chamber and retreat to"
+    publishedDateTime: 2021-01-12T00:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-trump-pence-speak-for-first-time-since-attack/2021/01/11/2f83f682-546a-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-trump-pence-speak-for-first-time-since-attack/2021/01/11/2f83f682-546a-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-trump-pence-speak-for-first-time-since-attack/2021/01/11/2f83f682-546a-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
     publishedDateTime: 2021-01-02T17:01:00Z
@@ -1410,8 +1426,8 @@ related:
         isCached: true
   - title: "Democrats to pressure Pence to remove Trump using 25th amendment – live updates"
     excerpt: "Pelosi faces Republican opposition to action over president’s incitement of assault on Capitol"
-    publishedDateTime: 2021-01-11T13:08:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates?page=with:block-5ffc693c8f08ef644fc2daf3"
+    publishedDateTime: 2021-01-11T13:23:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates?page=with:block-5ffc6c9a8f087f696cb37894"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
     type: article
@@ -1849,6 +1865,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547239085&r=LYNXMPEH09003&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Democrats' Push to Impeach Donald Trump Puts Joe Biden in a Bind"
+    excerpt: "Privately, some Democratic aides and operatives fearful trying to push Trump out of office rather than letting him serve out the final few days of his term could backfire politically and create an unw"
+    publishedDateTime: 2021-01-11T21:31:00Z
+    webUrl: "https://time.com/5928178/democrats-impeachment-donald-trump-joe-biden/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 130
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/01/Capitol_Trump_Impeachment_022.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Trump allies launch desperate final efforts ahead of congressional confirmation of Biden win"
     excerpt: "President Trump and his allies are growing increasingly desperate as Congress prepares to formally receive the votes that will confirm his election loss next week, filing lawsuits against nonexistent entities and even Trump’s own vice president as they try to come up with new ways to overturn the vote."
@@ -2842,6 +2872,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "These are the platforms that have banned Trump and his allies"
+    excerpt: "The platforms have been met with cries of censorship from Trump’s allies and reluctant applause from others who see their efforts as long overdue. Here’s how the platforms cracked down Trump and his allies: Twitter started slapping a label on Trump’s claims he won the 2020 election in November: “This claim about election fraud is disputed."
+    publishedDateTime: 2021-01-12T00:53:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/01/11/trump-banned-social-media/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/01/11/trump-banned-social-media/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/11/trump-banned-social-media/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OOB36XCREII6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump-Biden transition live updates: Trump teases 2024 presidential run at White House Christmas party"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 50 days. At a Christmas party at the White House Tuesday night, President Donald Trump teased running for president again in 2024 while noting that he's still \"trying to do another four years."
     publishedDateTime: 2020-12-02T13:35:00Z
@@ -3284,19 +3330,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Democrats' Push to Impeach Donald Trump Puts Joe Biden in a Bind"
-    excerpt: "Privately, some Democratic aides and operatives fearful trying to push Trump out of office rather than letting him serve out the final few days of his term could backfire politically and create an unw"
-    publishedDateTime: 2021-01-11T21:31:00Z
-    webUrl: "https://time.com/5928178/democrats-impeachment-donald-trump-joe-biden/"
+  - title: "Trump, Pence have 'good conversation' in White House meeting"
+    excerpt: "U.S. President Donald Trump and Vice President Mike Pence met at the White House on Monday evening and had a \"good conversation,\" a senior administration official said, amid reports of a strained relationship between the two after Trump supporters attacked the Capitol"
+    publishedDateTime: 2021-01-12T00:14:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN29G2UT"
     type: article
     provider:
-      name: Time
-      domain: time.com
+      name: Reuters
+      domain: reuters.com
     quality: 120
     images:
-      - url: "https://api.time.com/wp-content/uploads/2021/01/Capitol_Trump_Impeachment_022.jpg"
-        width: 2400
-        height: 1600
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547428129&r=LYNXMPEH0A1M0&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "Congress overrides a Trump veto for the first time with Senate vote on defense bill"
     excerpt: "The Senate action follows a House vote earlier this week, and the defense bill now becomes law despite the president’s objections."
@@ -3359,6 +3405,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/oHpYqUUDO4lL12X_8UcuSL73-8Q=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/W4QN74LVSPX4XQRJ3CLGU75L3M.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump ransacked the GOP to build his own power, elevating the danger of this moment"
+    excerpt: "Ted Cruz (R-Tex.) who built their political identities on rejecting the party establishment were still more bound to that establishment than Trump was. Trump could simply come out and say whatever nonsense he wanted without recrimination."
+    publishedDateTime: 2021-01-12T00:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/11/trump-ransacked-gop-build-his-own-power-elevating-danger-this-moment/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/11/trump-ransacked-gop-build-his-own-power-elevating-danger-this-moment/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/11/trump-ransacked-gop-build-his-own-power-elevating-danger-this-moment/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EORC4SEQU4I6TFLKRDBJDK24HA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Kamala Harris says Trump's call to Georgia secretary of state is 'bold abuse of power' – video"
     excerpt: "The US vice-president-elect denounced the call between the US president and Brad Raffensperger on Saturday."
@@ -4037,6 +4099,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/a/25/a25152fe-501e-11eb-9d14-4febd4af4fa8/5ff5b421ac568.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Fact check: Donald Trump has not invoked the Insurrection Act to hold on to power"
+    excerpt: "A screenshot of a social media post from an account with the handle @TeamTrumpNews has falsely alleged that the U.S. president has invoked a 200-year-old act to deploy the military and remain in power."
+    publishedDateTime: 2021-01-12T00:21:00Z
+    webUrl: "https://www.reuters.com/article/uk-fact-check-trump-has-not-invoked-insu/donald-trump-has-not-invoked-the-insurrection-act-to-hold-on-to-power-idUSKBN29G2H7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547401830&r=LYNXMPEH0A1E4&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "Pompeo holds 'productive' transition meeting with Biden's secretary of state nominee"
     excerpt: "U.S. Secretary of State Mike Pompeo met with Antony Blinken, President-elect Joe Biden's nominee for top diplomat, on Friday to facilitate the transition of power, just days after President Donald Trump's supporters stormed the Capitol in a bid to overturn his election"

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 1600
+heat: 1620
 published: true
 
 provider:
@@ -879,6 +879,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/09/us/09virus-brief-biden-pandemic/09virus-brief-biden-pandemic-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden dresses down his Covid team over plans to speed vaccinations"
+    excerpt: "The president-elect has criticized his Covid coordinator on multiple occasions in front of groups of transition officials."
+    publishedDateTime: 2021-01-11T22:50:00Z
+    webUrl: "https://www.politico.com/news/2021/01/11/biden-coronavirus-vaccine-goal-problems-457245"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/11/biden-coronavirus-vaccine-goal-problems-457245"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/11/biden-coronavirus-vaccine-goal-problems-457245"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/f8/80/211f999a4d2ebbda9c8a0c0c5082/210110-zients-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Congress affirms Biden as president after completing electoral vote count"
     excerpt: "After a day of riots at the Capitol, Congress counted the Electoral College votes and confirmed the win for President-elect Joe Biden and Vice President-elect Kamala Harris."

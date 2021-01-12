@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House Democrats plan to vote Wednesday to impeach Trump"
+    excerpt: "House Democrats are barreling toward impeaching President Donald Trump for the second time over his role in inciting last week's riots at the US Capitol.\n    \n"
+    publishedDateTime: 2021-01-12T00:26:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6FAMb5i5e2Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/house-democrats-impeachment-plans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/house-democrats-impeachment-plans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210110181004-01-nancy-pelosi-announcement-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Dominion Voting sues Trump lawyer Powell for defamation, seeking $1.3 billion in damages"
     excerpt: "Dominion Voting Systems has filed suit against Sidney Powell, the lawyer who pushed false election claims for the Trump campaign, claiming defamation and deceptive trade practices.\n    \n"
     publishedDateTime: 2021-01-08T21:53:06Z

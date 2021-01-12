@@ -173,6 +173,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "“Vice President Kamala Harris,” a Los Angeles Times Special Edition Magazine, is on Newsstands Now"
+    excerpt: "The Los Angeles Times has published a commemorative magazine, “Vice President Kamala Harris,” in advance of the inauguration of the first American woman ever to hold the office. Harris has made a meteoric ascent in American politics – from Bay Area prosecutor to vice president-elect – and The Times has covered her every step of the way."
+    publishedDateTime: 2021-01-11T23:31:00Z
+    webUrl: "https://www.latimes.com/about/pressreleases/story/2021-01-11/vice-president-kamala-harris-a-los-angeles-times-special-edition-magazine-is-on-newsstands-now"
+    ampWebUrl: "https://www.latimes.com/about/pressreleases/story/2021-01-11/vice-president-kamala-harris-a-los-angeles-times-special-edition-magazine-is-on-newsstands-now?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/about/pressreleases/story/2021-01-11/vice-president-kamala-harris-a-los-angeles-times-special-edition-magazine-is-on-newsstands-now?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 111
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/502e1ad/2147483647/strip/true/crop/6394x4176+0+152/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F94%2F48%2F45db9c4f4017bbe87015d2c06585%2Fla-photos-1staff-515220-la-me-strawberry-farmers-oxnard5-mam.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Kamala Harris dissolving PACs, giving money to charity"
     excerpt: "Vice President-elect Kamala Harris is dissolving her political fundraising committees as she prepares for her inauguration with President-elect Joe Biden on Jan. 20, giving leftover money to California charities."
     publishedDateTime: 2021-01-08T12:41:00Z
@@ -391,17 +407,17 @@ related:
         isCached: true
   - title: "Kamala Harris team says it was blindsided by VP-elect’s Vogue cover"
     excerpt: "Vice President-elect Kamala Harris has landed on the cover of the February issue of Vogue magazine, but her team says there’s a problem: the shot of the country’s soon-to-be No. 2 leader isn’t what both sides had agreed upon,"
-    publishedDateTime: 2021-01-11T21:27:00Z
-    webUrl: "https://www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
-    ampWebUrl: "https://www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+    publishedDateTime: 2021-01-11T17:38:00Z
+    webUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
+    ampWebUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
+      name: Hartford Courant
+      domain: courant.com
     quality: 75
     images:
-      - url: "https://www.dailypress.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
+      - url: "https://www.courant.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
         width: 1200
         height: 800
         isCached: true
@@ -569,6 +585,6 @@ related:
         height: 630
         isCached: true
 
-secured: "v0zcqmYNZdvDfxSa2ykd1lIXt6EkZJL8cPigbxTxRpjZwt8rf1z1oRYLtN34SzDa9BeRHTFIaV55eQiyr69PWRpleA7Bi81sEmFuU4YpQcsRzZqdgMW2myxHd6F6Wr/rpJKr3sjEyv850JvyFcE4V1mTBVJCf3yFX8JmMNv0xfVk7wKVYtW1M4/Gxe3RoeSLKRA3QQepTUA9buZtw724hHZ4n9i4cNQ6vIY7EWTBq+pWn9vPhveKJZE57L/goa7Fv/0SRTQpva6B29DLnpXCNHpVLNOEI9vmVlegpxJ7/xhr4l/RBfKGTUwf6a5OOwwxz+G71b9yle9gsSN9dsTjKDpTndQ/dnBAmVNKS7k8geg=;HEsrt0VS78XSmCcXcq1Icg=="
+secured: "OOHXNBSN6YJGWrh83SRTnu1XlahsvwKjGmaoblR3cJarnsKxvUBXoU8e5kq0nIbynsHUu+Em8WwgzIOnQTc6y6E1FO7CdQg8P9C4rTRTeltrygf13znDVH+u98x4njgRQn1zAQ8mOJ4i6HBmBjtrjHDgGtntRTMGoaZCsVPc2hmQRPYtuX6f/GNaWhv/7a5/qOP/elWipCY5jWUPrmpXoGxj3XkIIgBDsV22vmzQF+nfkoa2vsJRcwYWrrRMHlqbS/5HkczT5qhniS/tvA2JsGQrVjoGlpLnhznAUAfvQYaQO+IGszGohcrqWPXzb/MDXKj/m1NI/Aok66aKf+MmdI8NJpe+fEtLX+NFYJDEGIPxSDPw/T8H+JO4zGqVCltLcs4qcG7/7LYtJqU9huZylpDlWMXqXXMZb0Z9kFmf/Gv8+TmFo4607k3hpGDJ5KWxBTMFr3qkn29bnXTo3iU29HZTTiV/qVYbPxFVXzn6ck9myrV1K3rdvxMd8SPz8jhFQ3SR2MakoW7pn+1HACMCDQ==;DbxpnvQmM9cwJzUFXjtzhw=="
 ---
 

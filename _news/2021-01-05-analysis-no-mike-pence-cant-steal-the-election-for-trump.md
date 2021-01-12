@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-elec
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html"
 type: article
 quality: 215
-heat: 3475
+heat: 3515
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
     quality: 200
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/191025043134-mike-pence-october-24-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pence and Trump remain estranged in aftermath of riot"
+    excerpt: "Vice President Mike Pence received a memento from his aides the other day: the engraved chair set aside for him in the White House Cabinet Room, hauled over-the-shoulder from the West Wing and delivered to the Eisenhower Executive Office Building for one of his final staff meetings.\n    \n"
+    publishedDateTime: 2021-01-12T00:24:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IJIW5KrHDZ4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/trump-pence-25th-amendment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/trump-pence-25th-amendment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 200
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210105215557-pence-trump-file-2019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -989,6 +1005,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108215140-03-donald-trump-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democratic lawmaker confronted in airport by Trump supporters"
+    excerpt: "Video posted to Instagram shows Democratic Rep. Lou Correa of California being screamed at by apparent pro-Trump supporters in the Dulles International Airport last Thursday, the latest lawmaker accosted by the President's supporters at an airport.\n    \n"
+    publishedDateTime: 2021-01-11T22:27:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kEncrihN-8o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/lou-correa-airport-video/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/lou-correa-airport-video/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210111164004-01-lou-correa-house-chamber-riot-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
