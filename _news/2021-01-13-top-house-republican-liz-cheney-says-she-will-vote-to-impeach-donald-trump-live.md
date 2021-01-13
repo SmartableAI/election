@@ -2,9 +2,9 @@
 category: news
 title: "Top House Republican Liz Cheney says she will vote to impeach Donald Trump – live"
 excerpt: "Wyoming conservative’s split with the president could give cover to other Republicans who want to vote to impeach – follow live"
-publishedDateTime: 2021-01-12T22:35:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates?page=with:block-5ffe3ec28f08f301ebd543b2"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates?page=with:block-5ffe3ec28f08f301ebd543b2"
+publishedDateTime: 2021-01-12T22:19:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates?page=with:block-5ffe2cbd8f08dc561ae90684"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates?page=with:block-5ffe2cbd8f08dc561ae90684"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/c0108bd7ed15bab4dc726fc85ad39ffb2291ef6f/0_90_5058_3036/master/5058.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1d3448b84bb3f297da891451d9fe2a8e"
+  - url: "https://i.guim.co.uk/img/media/8f3bdd119f3897a60e2339f4a0db8c80785d8e1c/0_319_4783_2870/master/4783.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cf82ae328ec5ff4d05c413884627e65f"
     width: 600
     height: 360
     isCached: true
@@ -78,6 +78,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_120720getty_override.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Liz Cheney, No 3 House Republican, will vote to impeach Trump"
+    excerpt: "Powerful conservative joins growing number of Republicans seeking accountability for president after Capitol attack"
+    publishedDateTime: 2021-01-13T00:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/12/trump-impeachment-liz-cheney-republicans-capitol"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/12/trump-impeachment-liz-cheney-republicans-capitol"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/12/trump-impeachment-liz-cheney-republicans-capitol"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/7c5aa6f484f5dbb942ce0028830ac36d9d16ab4c/0_139_4176_2506/master/4176.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=397b857e998a94b49c379ed9463ac441"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump's incitement of mob at Capitol is 'impeachable offense,' Chris Christie says"
     excerpt: "Chris Christie is perhaps the most notable former supporter of President Donald Trump to back impeachment so far."
@@ -209,6 +225,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "LfTLy7PJzN2jjUjldeWt/MXH/bJ94Wrfk41l2D/AsCs0qyf57I0wn0POvXLSiXpN/H5T56cg63/b8bQYU1qeZr7gx1Zri7aUeFE0NKYzGm5awBWVnoF+g+MA5ioTN4UjJCq5nI2bD4dCsSx13EAbq65OzM4xp4zczD92c7Cobpl5fnbLbbE70vw5wFLk3dXLMB72GkQggIXrneVMVEZi5/lEIfDyjiHnAKQzIOIPDwaHp7WD0q4WpJ7ialx3iZBGqXqlZu4RDKS6BcXNCe0zcW16h0/dUXeMcSU9Fs2Uf/DueOhMD27QEgLQpOXaMYYOPQz7F8y/hSXRoeS5fqIgoW3R+oYdXUc2aq+mIYdT0Ts=;vvaataY3v3797nkPnFYu2Q=="
+secured: "N9T2Dw8vVOrwQiQpc/dFJG/22laGZ+FNscaVbcpiNPI5bOUjGf57ngCYUB9MvkEnUfeFuPi6tnu+ZMN18vJiFfv57EDY1EeOCWwsc6TSCt0u3qLIHWeGR+AfnvAUbacnQxrr65CZRb5YPE5DtiG7ZghPimb4OyS5zkq+lbUXqkyGnzznbpUmt6+8jijLmKLDlD+tfmHIe7J0nw+Xr7Bsqj69mE1YKA+OUAcdvm/ShdNSwFDiymldT3EyVpaOqFiFm1lLvhXMc9eFWwNQpliWslkc+cw+suVfGGIGyBejN/ljAEtb32nrShZo9q5v7ISNePWm708b/H1zzoEnAdUGeRRjS9h43Pw2PkRXH9I07bo=;0WpwuIzHeij/TVO4m3ATNQ=="
 ---
 

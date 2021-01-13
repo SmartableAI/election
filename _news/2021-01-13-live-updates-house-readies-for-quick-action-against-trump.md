@@ -8,7 +8,7 @@ webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-01-12-trump-im
 ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253803"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253803"
 type: article
-quality: 135
+quality: 145
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Donald Trump
   - Democratic Voice
+  - Mike Pence
 
 images:
   - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3441298/210111-impeachment-live-blog-main-cover-cs_91340e85bc6e0b139559e1ddd2593605.jpg"
@@ -1117,6 +1118,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180319104720-01-trump-speaking-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump's second impeachment still won't remove him from office"
+    excerpt: "We're looking at a second impeachment of President Donald Trump. The process will be different this time, both for the lawmakers sitting in judgment of Trump and for the man himself. One thing we know: He'll stay in office and likely finish out his term, because it takes a Senate conviction to remove"
+    publishedDateTime: 2021-01-13T03:03:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OX-cMpNCg78/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/what-matters-january-12/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/what-matters-january-12/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112162206-07-trump-impeachment-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -2933,6 +2950,6 @@ related:
         height: 773
         isCached: true
 
-secured: "9rV25mU1jiN7xcfjuXpHcKJcnPYCIb0ZVi8BIqdi68J1I1hu6ak65rtR8GQZEfuoMZPBRPj4aB9/QOXpQXZxCzeLy3cpmaxipgeO5FpBNbj5095YJNxSNA4uvrL+xJQVE6fAV9nsmvYma8nYgfBcW0/Mme9aJcegIJz8GTvNNyYBtWX+EHv1tk6u7DYmoo0LuCYmhoruNN5JK53I5Tl5+ZR5QXuOofSeEQKB39NtXFfGtPlB+OifPXHOuHaJNY320fhKjUMyRnf+3gjEKJdgcl+04pyShg/f4jIxF1xBCI+m+YvBdqRJJn6YhWyQ4CTinw98YT22Ym3EuEWUYKHZ6rE/4uVcbmEu9oCkh4kHhV4=;qt2eTl0guugIgOptYZAN9g=="
+secured: "+kV2dW+4ByxwQL/fo2NvD04UhSD1Qc//vV4pUrCDU8o0ph4NfskqjJAfjJYY13HdFWOn+e0FlYAYIP1bmc9AJIqzufnS+YQssl8abJGN6SdzLY0SR6V2MX0uZismN7lV0g2HC15XvLklRszhTUF5ej1EqsmazjS0ZFJXmzY4HHdaX0ARMy7GzebUasuqKFfl9zXRZPhCBM+HmNw4relru15zew3kVH/mVCTdJXpRY5ezCNXvBbs8WY7bk4j/KtbDNKX9T2qsQtInI/WMhjU9aCLz+nLyzwox6omH/xDQ5D+fdLZV8Hkm1C8GNFgPymy2KEl19k1SdmbeHl/1oEYRLTmo9yuqjqTW0dcDbHx03XopPFsNJX9TOZPUEq0LvyskHc1vekRqp6gVCJqWBO7ZDPw/3yTtDxVdcSmYWiBHz+Ex8AfsSELz66/y2msGR4V1EBDkZQh6yPkGJ7U8CekYb7EjFF56EKhNcx4WcXX0Da7dpTMwlcQd887j1EAXaM3VbyMptNAPr3c2q+ocPtYyAA==;3Lkj0IoHT6Hh5QQT3rZWrA=="
 ---
 

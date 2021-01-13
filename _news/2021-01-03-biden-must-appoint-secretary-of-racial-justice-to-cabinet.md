@@ -42,6 +42,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "House passes resolution urging Pence to invoke 25th Amendment"
+    excerpt: "The U.S. House of Representatives voted to pass a resolution urging Vice President Mike Pence to invoke the 25th Amendment to remove President Trump from office."
+    publishedDateTime: 2021-01-13T04:53:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1ir__uv-ejc/house-passes-resolution-urging-pence-to-invoke-25th-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/house-passes-resolution-urging-pence-to-invoke-25th-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-passes-resolution-urging-pence-to-invoke-25th-amendment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "House GOP blocks quick consideration of bill calling on Pence to invoke 25th Amendment"
     excerpt: "House Republicans blocked quick consideration of a bill calling on Vice President Mike Pence to invoke the 25th Amendment to remove President Trump from office amid fallout from last week’s Capitol riot."
     publishedDateTime: 2021-01-11T16:41:00Z

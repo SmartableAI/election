@@ -3747,6 +3747,22 @@ related:
         width: 1200
         height: 841
         isCached: true
+  - title: "House is poised to pass a resolution calling on Pence to immediately invoke the 25th Amendment and remove Trump from office"
+    excerpt: "Pence announced on Tuesday that he doesn't support invoking the 25th Amendment and accused Democrats of playing \"political games.\""
+    publishedDateTime: 2021-01-13T03:24:00Z
+    webUrl: "https://www.businessinsider.com/house-passes-resolution-pence-invoke-25th-amendment-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/house-passes-resolution-pence-invoke-25th-amendment-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-passes-resolution-pence-invoke-25th-amendment-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5f76e9290ab50d00184adba4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Coronavirus updates: Trump blames states, tells them to ‘get moving’ amid delay in vaccinations"
     excerpt: "Gustave Perna, chief operating officer of Operation Warp Speed, said Wednesday that 14 million vaccine doses have been distributed in the U.S. to date and more than 2 million doses have been administered."
     publishedDateTime: 2020-12-30T22:39:00Z
@@ -3850,6 +3866,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 110
+  - title: "Several House Republicans join impeachment push; Pence says he will not move to expel Trump"
+    excerpt: "At least four Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
+    publishedDateTime: 2021-01-13T03:19:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/with-some-republicans-on-board-u-s-house-democrats-press-forward-on-impeachment-vote-idUSKBN29H0JJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 110
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Vice President Pence opposes using 25th amendment to remove Trump: Business Insider, NY Times"
     excerpt: "Vice President Mike Pence opposes using the 25th amendment to remove President Donald Trump from power, according to reports from Business Insider and the New York Times."
     publishedDateTime: 2021-01-08T04:16:00Z
@@ -4340,6 +4370,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547401830&r=LYNXMPEH0A1E4&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Why Is Pence Not Invoking The 25th Amendment To Oust Trump?"
+    excerpt: "House Speaker Nancy Pelosi and other Democrats had urged Vice President Pence to remove President Trump from office following the siege at Capitol Hill."
+    publishedDateTime: 2021-01-13T02:36:00Z
+    webUrl: "https://www.ibtimes.com/why-pence-not-invoking-25th-amendment-oust-trump-3120446"
+    ampWebUrl: "https://www.ibtimes.com/why-pence-not-invoking-25th-amendment-oust-trump-3120446?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/why-pence-not-invoking-25th-amendment-oust-trump-3120446?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 100
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/02/us-vice-president-mike-pence-pictured-november-who.jpg"
+        width: 1024
+        height: 649
         isCached: true
   - title: "VP Mike Pence rules out invoking 25th Amendment on President Donald Trump"
     excerpt: "\"I do not believe that such a course of action is in the best interest of our Nation or consistent with our Constitution.\""
@@ -5558,6 +5604,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "4hhutZjoe/Y8ZtOdr0yJUBNCkduaV9bVWyge88Pm3umjJLb6GLDHS0svrnUu9SnU6XYJTPhvevzsoyEpogkIyZbK1HTqsc4RLJSuHfC2h1OUoNdbGSzc5YkDeBMW361pStiNmWc5aWAMuhLnzXCUfa3P6qjd89aq9ZZwl0PFNJzpK2EzFSm4n0wumCrSk+qBwKu8XE6wtiOcWEWMcxajRARmVvbCbpH/zNrm4wnhe9eLR61vMB9qRbvqYFzfGkA4SDQhNK+w6lUnBWtZICETEDmd1E8HOJ6Hl5eGL2zEtU2jWCn9pR4O4TNWxrXWoeJ5n27l2goaTPs06Jgf119ipE+MHsSqQMbl97/1+qkMwDE=;+jN2878n8OAaCVheFRs0WA=="
+secured: "N7vWkTtpZZWgNCQ9C/qu1eK3ZijrOi540F/ZAzqgIOzdd+wTbu5Fl8sdVK/bvc/YZX3C5jK5av+5UQptqxjtD95KBfoyOrZvKWnUVqERciXn1AjGsFSvjkjpMokgdos6SOMFqOm5mMAwgpQHyeashC4u59uPpBLctedwVVEe/kBonnW/CY2QeeIvZvTTxbs87bk2fRGWzD/6ojyKHGw4wqHS/dZXvay/55ab1Z0rOW02CB74nmaTUzvY4nnAhneV8WFD4L9/dpId4dnYuXq5+tRpOFQvFzqTbxbHcqt3K/Gl+Rs//7Hw5Uaq4/35PBenUQq7cpNPqAQ3YiGW7g3KsHFgGa9cqybgoaJd+jKJa8MfbQgLW8RU+mvZJhxW10P9vpPvVNIpzgItegafK7y6xFiJ8geOf+8ar/LuMvSi8kHG+cUUERlwprkbXjFH8156bbRLGr+r3wnSgngf6tgAKM+q9FJj3G8LfBSfQOF8bGtiMLL+yz0S2PKLOKmN6zKOtfL+9We1W+YIAbBe5C+C1Q==;VchaHb42dgfmaYkn+NToyw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-questions-whether-trump-impea
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-questions-whether-trump-impeachment-will-hinder-his-agenda.amp"
 type: article
 quality: 190
-heat: 810
+heat: 830
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/efae2f2f-6ec6-4aca-bcd4-8bd9dcd96dfb/d284c12c-47c0-4b66-a5c4-c41241d9f204/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "The Hitchhiker’s Guide to Impeaching President Trump on Wednesday"
+    excerpt: "For the first time since 1798, the House of Representatives plans a second impeachment against an American government official."
+    publishedDateTime: 2021-01-13T04:29:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/prmP_gzORG0/the-hitchhikers-guide-to-impeaching-president-trump-on-wednesday"
+    ampWebUrl: "https://www.foxnews.com/politics/the-hitchhikers-guide-to-impeaching-president-trump-on-wednesday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-hitchhikers-guide-to-impeaching-president-trump-on-wednesday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "House Dem apologizing for comparing new Trump impeachment to a 'lynching'"
     excerpt: "An Oregon Democrat is apologizing for likening a second impeachment of President Trump to a \"lynching.\""

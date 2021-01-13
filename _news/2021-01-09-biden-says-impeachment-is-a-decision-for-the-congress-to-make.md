@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/biden-says-impeachment-is-a-judgmen
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z2A6ZXSUHYI6XLGFSLJIDGQ4ZM.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Walmart suspends contributions to U.S. lawmakers who opposed Biden certification"
+    excerpt: "Walmart Inc , the world's biggest retailer, joined other major companies in indefinitely suspending donations to U.S. lawmakers who voted against President-elect Joe Biden's election certification."
+    publishedDateTime: 2021-01-13T03:37:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-corporate-walmart-idUSKBN29H2TO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547573394&r=LYNXMPEH0B1LM&w=800"
+        width: 800
+        height: 459
         isCached: true
 
 secured: "EeuVxP1VHqNvgXcK6SucRjDCrg1Y+Nh2sWw/7ydlbfDzChvp0dE2RO3THyvOh6gfnWSUhQ4oCAOriZSv73L1Abon/i3/atNAsBVecwENNH3JQ6ztoV4lzaonT1W6sdq/TC78/h05TAj8sGTQrL0uedGz1Yncl5IZC3krkbmdrC/8hAtvmOPwKf2sZ8h2ohCPpxfAf7xrzXqKECcTwDNbTImOsI8IGlCRc85XXVhNb2hsdWRQzUKd4G/E9dpUXxCFGseuOi+N3dfHg4qBNKmBiakIU3eVya0VhfLUDFRxPQA0eTwi39D66fjnuktZgaUv1LZ9zdjYsqOX9R6uGSfXfDZENuZW/9bpay5bFWvlbdA=;GDn7vRH/N+4GDAX6+KDpfw=="

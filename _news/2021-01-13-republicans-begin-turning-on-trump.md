@@ -1118,6 +1118,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump's second impeachment still won't remove him from office"
+    excerpt: "We're looking at a second impeachment of President Donald Trump. The process will be different this time, both for the lawmakers sitting in judgment of Trump and for the man himself. One thing we know: He'll stay in office and likely finish out his term, because it takes a Senate conviction to remove"
+    publishedDateTime: 2021-01-13T03:03:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OX-cMpNCg78/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/what-matters-january-12/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/what-matters-january-12/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112162206-07-trump-impeachment-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's impeachment foretold everything that's happened since "
     excerpt: "Alarming as it is, the corrosive conclusion to 2020 in America was plainly visible in advance.\n    \n"
     publishedDateTime: 2020-12-20T13:47:40Z
@@ -2010,6 +2026,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Live updates: House readies for quick action against Trump"
+    excerpt: "Lawmakers are expected to take up the 25th Amendment measure Tuesday night and the impeachment resolution Wednesday morning."
+    publishedDateTime: 2021-01-13T00:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-01-12-trump-impeachment-25th-amendment-n1253803"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253803"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253803"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 145
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3441298/210111-impeachment-live-blog-main-cover-cs_91340e85bc6e0b139559e1ddd2593605.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "'We won': Trump spreads misinformation about 2020 election during final Georgia rally"
     excerpt: "At a campaign event for Republican Senate candidates, Trump claimed he won the state despite losing it to Joe Biden."
     publishedDateTime: 2021-01-05T05:27:00Z
@@ -2421,22 +2453,6 @@ related:
       - url: "https://static.politico.com/57/a9/5875562447949d800879de4b1b9b/gettyimages-1230470209-c.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Live updates: House readies for quick action against Trump"
-    excerpt: "Lawmakers are expected to take up the 25th Amendment measure Tuesday night and the impeachment resolution Wednesday morning."
-    publishedDateTime: 2021-01-13T00:21:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-01-12-trump-impeachment-25th-amendment-n1253803"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253803"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253803"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3441298/210111-impeachment-live-blog-main-cover-cs_91340e85bc6e0b139559e1ddd2593605.jpg"
-        width: 2500
-        height: 1250
         isCached: true
   - title: "What Was Donald Trump’s Twitter?"
     excerpt: "I’m going to be very restrained, if I use it at all,” Donald Trump told us in 2016. Something else happened. Each of the big social platforms handled the challenges of the Trump presidency in its own unique way,"
@@ -2933,6 +2949,6 @@ related:
         height: 773
         isCached: true
 
-secured: "7ME8OxcSS4niROzgoQZKHDdwy1ve66YHRBPAKTb65XQvtl1GUAgznUCzlfTMKhQyYjw0U0FttD80WlDYKB5yhYJCukpweAtHY6fOxtaKE9uSe3P4lhuAnaHTPNeK0R1KUK2UBCuL3zhykLGbXhymRdeRhqQ92h44nWAFUW1zAo3VSGdcf/lPw/md+KKfsnI9/U6TVzKHLtZSsevwif1u7+Bx9vzV9GR0FVlowp1iDGjpdZaCZK0b+bwTLNTeHNvOiZssIkQUzK96grYnjpTtD58v0PF9Wy961resxG4CfYrKdkMo9XG4EYeZEjWyRGsw+Sp57Shl4EDkTnLTfwRT9g078mruyAXR6rKR9d81tac=;v+Eroulw2NoZuhr2o1iz3w=="
+secured: "9nnl6DsWd2oQon3ve06HzV+uwkHwLozqLKkJRolboWaUzyvFfzH36f4h5F+eomv8Fbb94d3M0XuN8a9qoAiqrikrHcIHdfXFrSYMUMQwQVXxHFT6EnLKF8zfXAVx3f0rC6imeIq84gdXXrmpB4Uxsk0btlzex6JdCA7tfEmyYVOgEZtpYI6CJR83z0v0xDV/M/sBPps6/d9bdqE17cHygu0bWhv7aRtiMcbLZNjrgQTrR4yuecYcmrcT3xgs5w4hnturhqOHX5+YgX2OPCWPCWZM4l2Hro0lQ7rF6oghiQvf5kQpsEi1+GovLfYEl2jfOVDMnIe1Xvn45GhBgN3CZMAMDUBEUC3eBGQXmIkusMJXcOAXURnVYBu65eyFToKY1vOzG+OiDe79/IuOv9ALqHALTI+KF8pUAl6yYdkTLBApzNIcZT+/h+gam6l1IeyYq3AoSRf2c1GrSsQwxI+ieynLnOv2H7U1YyKjk8Z4O1dCW7wCa/jLJOPN3VA1iHNfEP4iCI0aIoYOacIjAsQiYA==;VvjG61fcuepTVYiimfpe3w=="
 ---
 

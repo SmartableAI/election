@@ -63,10 +63,26 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Liz Cheney, No 3 House Republican, will vote to impeach Trump"
+    excerpt: "Powerful conservative joins growing number of Republicans seeking accountability for president after Capitol attack"
+    publishedDateTime: 2021-01-13T00:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/12/trump-impeachment-liz-cheney-republicans-capitol"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/12/trump-impeachment-liz-cheney-republicans-capitol"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/12/trump-impeachment-liz-cheney-republicans-capitol"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/7c5aa6f484f5dbb942ce0028830ac36d9d16ab4c/0_139_4176_2506/master/4176.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=397b857e998a94b49c379ed9463ac441"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Top House Republican Liz Cheney says she will vote to impeach Donald Trump – live"
     excerpt: "Wyoming conservative’s split with the president could give cover to other Republicans who want to vote to impeach – follow live"
-    publishedDateTime: 2021-01-12T22:35:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates?page=with:block-5ffe3ec28f08f301ebd543b2"
+    publishedDateTime: 2021-01-12T22:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates?page=with:block-5ffe2cbd8f08dc561ae90684"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates"
     type: article
@@ -75,7 +91,7 @@ related:
       domain: theguardian.com
     quality: 120
     images:
-      - url: "https://i.guim.co.uk/img/media/c0108bd7ed15bab4dc726fc85ad39ffb2291ef6f/0_90_5058_3036/master/5058.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1d3448b84bb3f297da891451d9fe2a8e"
+      - url: "https://i.guim.co.uk/img/media/8f3bdd119f3897a60e2339f4a0db8c80785d8e1c/0_319_4783_2870/master/4783.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cf82ae328ec5ff4d05c413884627e65f"
         width: 600
         height: 360
         isCached: true

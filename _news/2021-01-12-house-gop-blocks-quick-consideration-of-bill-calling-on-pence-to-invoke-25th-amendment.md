@@ -48,6 +48,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "House passes resolution urging Pence to invoke 25th Amendment"
+    excerpt: "The U.S. House of Representatives voted to pass a resolution urging Vice President Mike Pence to invoke the 25th Amendment to remove President Trump from office."
+    publishedDateTime: 2021-01-13T04:53:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1ir__uv-ejc/house-passes-resolution-urging-pence-to-invoke-25th-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/house-passes-resolution-urging-pence-to-invoke-25th-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-passes-resolution-urging-pence-to-invoke-25th-amendment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden Must Appoint Secretary of Racial Justice to Cabinet"
     excerpt: "With President-elect Joe Biden positioned to take office this upcoming January, he has a chance to rewrite history by rebuilding a new type of justice in America The Dems claimed the 2016 election result wasn't real on the basis of a complete falsehood they developed,"
     publishedDateTime: 2021-01-03T13:26:00Z

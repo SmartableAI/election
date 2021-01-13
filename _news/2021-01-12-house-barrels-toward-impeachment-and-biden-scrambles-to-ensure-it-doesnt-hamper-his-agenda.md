@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Walmart suspends contributions to U.S. lawmakers who opposed Biden certification"
+    excerpt: "Walmart Inc , the world's biggest retailer, joined other major companies in indefinitely suspending donations to U.S. lawmakers who voted against President-elect Joe Biden's election certification."
+    publishedDateTime: 2021-01-13T03:37:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-corporate-walmart-idUSKBN29H2TO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547573394&r=LYNXMPEH0B1LM&w=800"
+        width: 800
+        height: 459
+        isCached: true
 
 secured: "5mzvo+Qd/FTithFbiGTWcLhkVap33lUpmiMpvJjWIJfFsdlQdd+s6nkpF3/KTOHjZb9rpVfPYe3Oc4x/SNIG9qiHRthxeap46DevDEpT2PXhP/pH/Q6xKdhExEya4sdhpu/oj5AEAc2l2LX5pDomVTAw4IFymGuxSfbW/Hj9idf+nhh2AN60ddjp2K3X9FT9sp3C4HXr0ejAnT4dGI2jhXGFHmvcAPyLC6kZFQmz6TL/yu6I378Eu2iu/4qSTKyYRJN0fGGZs7k+oZoYDt8xrQ4MtAoRUHVAshnD6MXXBAMZ7VOpexEtwP3RkLGIoOjGotVssRsf8AAjilJ0K91qATDu8SeMG98peIP2E3txKiF0KFWm/woT8iZEURdvW3CTi0mkaDPDflxDPQq0PD5PQ92o1zvnGEfERu47taTRxjq95G70l6grs43D6V5Q/GYC0ADk9qMc3JQkvxR8iRu/mMF+TXjiHINFnIrm0b26KAlgcDls2s36S4eWzoua2PtwZeTCcml//N8CPe1paZLKgg==;jWtexOQYQWfwpyjgEmVx0Q=="
 ---
