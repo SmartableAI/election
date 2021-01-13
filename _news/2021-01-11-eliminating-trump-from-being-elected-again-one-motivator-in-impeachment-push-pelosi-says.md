@@ -175,6 +175,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "These are the 10 Republicans who voted to impeach Trump"
+    excerpt: "Ten House Republicans joined Democrats in voting to convict President Trump of “incitement of an insurrection,” making him the first president in U.S. history to be impeached twice. "
+    publishedDateTime: 2021-01-13T22:01:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XCa2TqUDPhc/republicans-who-voted-trumps-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-who-voted-trumps-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-who-voted-trumps-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e554746-73e2-49a6-922c-d78db960876d/6f956029-94f8-415c-9471-0327d6d1f02f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "All the Trump officials who have resigned after the DC protest at the Capitol"
     excerpt: "The number has continued to climb a little more each day, but it has yet to reach the level of an exodus."
     publishedDateTime: 2021-01-09T20:43:51Z
@@ -238,6 +254,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump impeached by House over Capitol riots, becomes first president to face rebuke twice"
+    excerpt: "The House of Representatives Wednesday made history by voting to impeach President Trump for a second time in his presidency."
+    publishedDateTime: 2021-01-13T21:36:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gWVlEd05ckg/house-impeaches-president-trump-second-time"
+    ampWebUrl: "https://www.foxnews.com/politics/house-impeaches-president-trump-second-time.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-impeaches-president-trump-second-time.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Nancy-Pelosi-Trump-impeachment-speech-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "President Trump urges protesters to be peaceful after they clash with police, breach Capitol"
     excerpt: "Amidst chaos and violence at Capitol Hill Wednesday in support of the president, Trump and his son Donald Trump Jr. urged peace among protesters who had forced their way into the capitol building. "

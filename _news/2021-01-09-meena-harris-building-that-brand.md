@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/01/09/style/meena-harris-building-that-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/09/style/meena-harris-building-that-brand.amp.html"
 type: article
 quality: 135
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/01/11/fashion/11Kamala-Vogue-1/11Kamala-Vogue-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Why a Vogue Cover Created an Uproar Over Kamala Harris"
+    excerpt: "The vice president-elect is on the cover of the U.S. fashion magazine. Many people were not happy with the result."
+    publishedDateTime: 2021-01-11T19:43:00Z
+    webUrl: "https://www.nytimes.com/2021/01/11/style/kamala-harris-vogue.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/11/style/kamala-harris-vogue.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/11/style/kamala-harris-vogue.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/14/fashion/11Kamala-Vogue-02/11Kamala-Vogue-02-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

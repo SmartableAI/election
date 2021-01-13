@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Second Trump impeachment draws bipartisan support"
+    excerpt: "The House voted 232-197 to impeach the president with support from ten Republicans."
+    publishedDateTime: 2021-01-13T21:58:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GxXfFrCs4f0/second-trump-impeachment-draws-bipartisan-support"
+    ampWebUrl: "https://www.foxnews.com/politics/second-trump-impeachment-draws-bipartisan-support.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/second-trump-impeachment-draws-bipartisan-support.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Capitol riots will be used to 'deplatform' Trump supporters: Ben Domenech"
     excerpt: "The left will do to regular people what it's doing to President Trump, The Federalist publisher Ben Domenech warned Thursday night."
     publishedDateTime: 2021-01-08T13:24:49Z

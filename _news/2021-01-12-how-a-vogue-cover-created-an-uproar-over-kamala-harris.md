@@ -48,6 +48,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Why a Vogue Cover Created an Uproar Over Kamala Harris"
+    excerpt: "The vice president-elect is on the cover of the U.S. fashion magazine. Many people were not happy with the result."
+    publishedDateTime: 2021-01-11T19:43:00Z
+    webUrl: "https://www.nytimes.com/2021/01/11/style/kamala-harris-vogue.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/11/style/kamala-harris-vogue.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/11/style/kamala-harris-vogue.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/14/fashion/11Kamala-Vogue-02/11Kamala-Vogue-02-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Kamala Harris gains prominent new role thanks to Democrats' Senate majority"
     excerpt: "Kamala Harris’s vice presidential portfolio was nebulous before last week. But thanks to Democrats’ upset victories in two Georgia Senate run-offs, Harris has unexpectedly earned a new title: Senate tie breaker."
     publishedDateTime: 2021-01-10T12:00:00Z

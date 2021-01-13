@@ -46,6 +46,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "These 10 House Republicans voted to impeach Trump on Wednesday"
+    excerpt: "The House of Representatives voted to impeach President Donald Trump on Wednesday afternoon charging him with \"incitement of insurrection.\" Among the vote were 10 House Republicans. That includes:\n    \n"
+    publishedDateTime: 2021-01-13T22:17:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p0L3sP79o1o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/house-republicans-vote-yes-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/house-republicans-vote-yes-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113171228-10-gop-impeachment-vote-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's been impeached again. What's next?"
+    excerpt: "President Donald Trump is about to be impeached again -- the first leader in US history to be impeached twice by the House.\n    \n"
+    publishedDateTime: 2021-01-13T22:33:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qhflbpac4wY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/senate-impeachment-process-next-steps/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/senate-impeachment-process-next-steps/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113110041-us-capitol-0113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Read: House Democrats' draft of a new article of impeachment against Trump"
     excerpt: "House Democrats have circulated a draft of a new impeachment resolution against President Donald Trump with one article of impeachment, \"incitement of insurrection.\"\n    \n"
     publishedDateTime: 2021-01-08T20:37:32Z

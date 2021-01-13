@@ -437,6 +437,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Oakland salutes Kamala Harris with virtual inauguration ball"
+    excerpt: "The Oakland Symphony and other local arts organizations “celebrate this historic transition of power” during Oakland Salutes Kamala Harris program."
+    publishedDateTime: 2021-01-13T22:05:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/13/oakland-salutes-kamala-harris-with-virtual-inauguration-ball/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/13/oakland-salutes-kamala-harris-with-virtual-inauguration-ball/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/13/oakland-salutes-kamala-harris-with-virtual-inauguration-ball/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/11/AP20283012142042.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."
     publishedDateTime: 2021-01-13T07:29:00Z

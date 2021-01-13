@@ -160,6 +160,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump does not have future in Republican Party after Capitol riot: Rep. Nancy Mace"
+    excerpt: "Rep. Nancy Mace, R-S.C., said Wednesday that while she opposes the impeachment process in the closing days of President Trump's term, he does not have a future in the Republican Party after the events of the past week."
+    publishedDateTime: 2021-01-13T22:23:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7sBTGU358oQ/trump-future-republican-party-capitol-riot-rep-nancy-mace"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Nancy-Mace-House-floor-speech-violence.jpg"
+        width: 1279
+        height: 720
+        isCached: true
   - title: "The Triumph of Stacey Abrams Over Donald Trump"
     excerpt: "The Dems claimed the 2016 election result wasn't real on the basis of a complete falsehood they developed, which the CIA and FBI validated and used to spy on Trump, and then tried to impeach Trump on the basis of a single whistleblower's bogus account of a phone call 30 others heard."
     publishedDateTime: 2021-01-07T12:14:00Z

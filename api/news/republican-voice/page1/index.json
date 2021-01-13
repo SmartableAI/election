@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-13-space-command-to-be-headquartered-in-alabama-in-win-for-trump-allies-in-state.md",
+      "title": "Space Command to be headquartered in Alabama, in 'win' for Trump allies in state",
+      "excerpt": "The U.S. Space Command will be headquartered in Huntsville, Ala., it was announced Wednesday, in what sources say is a \"major win\" for allies of President Trump after an intense lobbying battle between six finalists.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UWG3tZDiEWQ/space-command-to-be-headquartered-in-alabama-in-a-major-win-for-trump-allies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UWG3tZDiEWQ/space-command-to-be-headquartered-in-alabama-in-a-major-win-for-trump-allies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/space-command-to-be-headquartered-in-alabama-in-a-major-win-for-trump-allies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/space-command-to-be-headquartered-in-alabama-in-a-major-win-for-trump-allies.amp",
+      "publishedDateTime": "2021-01-13T13:11:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-maxine-waters-warns-trump-capable-of-starting-a-civil-war.md",
       "title": "Maxine Waters warns Trump 'capable of starting a civil war'",
       "excerpt": "Rep. Maxine Waters, D-Calif., urged the House of Representatives to impeach President Trump on Wednesday, arguing that he was \"the worst president in the history of the United States.\"",
@@ -238,7 +294,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 719,
+      "heat": 759,
       "tags": null,
       "images": [
         {
@@ -1627,63 +1683,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-secret-service-investigating-death-threats-against-pence.md",
-      "title": "Secret Service investigating death threats against Pence",
-      "excerpt": "The U.S. Secret Service is investigating death threats against Vice President Mike Pence made by pro-Trump lawyer Lin Wood, Fox News has learned.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bvwv7aHEh7c/secret-service-investigative-death-threats-against-pence",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bvwv7aHEh7c/secret-service-investigative-death-threats-against-pence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007323466207.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/secret-service-investigative-death-threats-against-pence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/secret-service-investigative-death-threats-against-pence.amp",
-      "publishedDateTime": "2021-01-10T13:10:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

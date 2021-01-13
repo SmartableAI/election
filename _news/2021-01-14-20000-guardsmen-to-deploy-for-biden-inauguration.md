@@ -247,6 +247,20 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "Tom Hanks to host televised special for Biden's inauguration"
+    excerpt: "Actor Tom Hanks will host a primetime television special on Jan. 20 to celebrate the inauguration of Joe Biden as president, organizers said on Wednesday."
+    publishedDateTime: 2021-01-13T22:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-hollywood/tom-hanks-to-host-televised-special-for-bidens-inauguration-idUSKBN29I2IM?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547665788&r=LYNXMPEH0C1G6&w=800"
+        width: 800
+        height: 540
+        isCached: true
   - title: "Biden to nominate Rhode Island governor for Commerce, Boston mayor for Labor"
     excerpt: "President-elect Joe Biden will nominate Rhode Island Governor Gina Raimondo as his Commerce Department secretary and former union official and Boston Mayor Marty Walsh as Labor secretary, his transition team said late on Thursday."
     publishedDateTime: 2021-01-08T06:42:00Z
@@ -447,6 +461,6 @@ related:
         height: 630
         isCached: true
 
-secured: "SrO5A0zOoNy7+CyM/WMMXML6nY0eyTt0XTNUmrdPUmryT9RKpRqwYmV1Qwf2wG/qyfnCB+yaz3uujZG2zqQtWQry498i06DVSqVlJjEBQA0XUtRbVnlxqUmVnbJ5p+Z2r0AxDV47/nFEbE7+kCP256f7p9IiOVsK02bHtLA+LiSwziVrAh0fRSTXU+5OAC4mpRQgUnGZNmB2UN8kN5pFhTjtzhlutT8eDgDUxPQghaP7KxolOS/jwMTZHgRkNyiSyT1DKei0UmuNkr+6QjckTN/W9v2eUpkbacfou9HtRtjTgMwoHNa8p+qOU9yfIPQwgOwVNSkbEIUAvUPI7/ffeCSnOcAH7yDKzi8x3WtE43U=;6PL1Ht6TfJe/Ekng9cWyhQ=="
+secured: "sapIHFjc0Snf+uiBL/RU+dgXjEnx4F4k41bJKHC5dhtum2m84qIwg0ZdVXvZTbqnnbXn7cfVaoEd37PT0p6a7f5oktVuLUmlv+Odtk+Fr5wINTJXdjTFJwVCyz8LW5Q8V7AvNLcYpzXZE9RlPOCp+3HUXzdukW0WbuVgMqiMZ5rRFbzYrHoGREFdyA13uZuo8rs/Yq39ZMepBJwj9wytgvA0xdtuZcEOUpW+XdCN0Df6NOjIZFZmafcjj7qpPmQzOY50Yqj9SeRLlYOx/490AMTnFTnE8AdMVen7V62wdIx4EDXtbRDfafrj79GrWcQcUgbI+KrxdRDNQ+EBOCDiLxmxhgyPVBCroHe4UNHCjbZDciQI59MdV+2GI+pJ26QdwyisjfZUbeidbHnW+nLToX0ANdFIUF5QqtBIuok9ZRhGEsTRjxfCu2Kh1LtFWvk5d1T+oCWz1ScgndWLjpt+2GS836f8u+TBViCA8S4YPwdHkQ9bpkWvoJkRxgEHuy6/dnlOGIksU2KQCeq/G9Q2Lw==;MQOMqhrrbFAtA9hR0dOKzg=="
 ---
 

@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking Trump's impeachment debate in the House"
+    excerpt: "Only 13 months after the House first impeached President Donald Trump, lawmakers were back on Wednesday voting to impeach Trump an unprecedented second time for a US president. During the debate on the resolution, which charges that Trump incited a violent insurrection against the government on January"
+    publishedDateTime: 2021-01-13T22:43:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3iC7fAkt82g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/house-impeachment-hearing-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/house-impeachment-hearing-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113094216-15-trump-impeachment-0113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump will visit his border wall on the heels of deadly Capitol Hill riot "
     excerpt: "President Donald Trump will bookend his administration's focus on immigration with a trip to his signature border wall on the US-Mexico border, a visit on the heels of a deadly riot on Capitol Hill incited by the President as House Democrats prepare a second impeachment vote.\n    \n"
     publishedDateTime: 2021-01-12T11:29:22Z

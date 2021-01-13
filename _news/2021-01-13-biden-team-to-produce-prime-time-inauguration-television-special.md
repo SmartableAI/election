@@ -287,6 +287,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden no longer taking Amtrak to inauguration amid security concerns"
+    excerpt: "President-elect Joe Biden will no longer take the Amtrak to Washington next week to be sworn in as president, two officials familiar with the planning tell CNN, a sudden change that comes amid dramatically heightened security surrounding the inauguration.\n    \n"
+    publishedDateTime: 2021-01-13T22:07:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wZkwZvhWYeY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/biden-amtrak-inauguration-security/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/biden-amtrak-inauguration-security/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110181613-biden-train-sept-30-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden inaugural festivities to feature national day of service on MLK Day"
     excerpt: "President-elect Joe Biden's inaugural committee will promote the national day of service on Martin Luther King Jr. Day as part of festivities ahead of the inauguration on January 20.\n    \n"
     publishedDateTime: 2021-01-04T16:55:45Z

@@ -175,6 +175,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "In pictures: Trump impeached for second time"
+    excerpt: "President Donald Trump entered his final week in office under the looming threat of a second impeachment.\n    \n"
+    publishedDateTime: 2021-01-13T22:16:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9w2ro8JkF9s/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113164326-23-trump-impeachment-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "READ: House Articles of Impeachment against Donald Trump"
     excerpt: "The US House of Representatives has released its resolution to impeach President Donald Trump, charging him with \"incitement of insurrection,\" an article for which the House is expected to vote on this week."
     publishedDateTime: 2021-01-11T09:14:00Z

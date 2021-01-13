@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment-lawyers-dershowitz-giuliani/index.html"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -172,6 +172,20 @@ related:
     quality: 157
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201231165922-mcconnell-1230-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "In pictures: Trump impeached for second time"
+    excerpt: "President Donald Trump entered his final week in office under the looming threat of a second impeachment.\n    \n"
+    publishedDateTime: 2021-01-13T22:16:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9w2ro8JkF9s/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113164326-23-trump-impeachment-1113-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

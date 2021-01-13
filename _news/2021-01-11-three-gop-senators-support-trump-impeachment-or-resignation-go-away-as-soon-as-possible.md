@@ -495,6 +495,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Are Republicans really ready to unhitch their wagon from Donald Trump?"
+    excerpt: "Analysis: The attack on the Capitol – and perhaps the Senate losses in Georgia – have prompted some GOP leaders to signal a split even as others back his election lie"
+    publishedDateTime: 2021-01-13T17:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/13/republicans-donald-trump-distancing"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/13/republicans-donald-trump-distancing"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/13/republicans-donald-trump-distancing"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/d28f8b02a1054d115e0ac05d26edab5a385ca5de/0_137_5145_3087/master/5145.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cf6e6c648ae5a290ee7660700b84263d"
+        width: 600
+        height: 360
+        isCached: true
   - title: "How a 2nd Trump impeachment could differ from 1st"
     excerpt: "A possible second presidential impeachment would be unprecedented and come with different punishments if Trump is convicted."
     publishedDateTime: 2021-01-13T16:26:00Z
@@ -526,6 +542,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1705946/president-donald-trump-leaves-air-force-one.jpg"
         width: 2686
         height: 1607
+        isCached: true
+  - title: "The Donald Trump Advisers Who Brought On the Capitol Riot"
+    excerpt: "President Trump and his inner circle thought they were winning the post-election political battle. \"Then all hell broke loose,\" said a longtime aide."
+    publishedDateTime: 2021-01-13T20:18:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-advisers-who-brought-capitol-riot-1560799"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-advisers-who-brought-capitol-riot-1560799?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-advisers-who-brought-capitol-riot-1560799?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1706380/donald-trump-2020-capitol-riot.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Why Trump's response to Capitol siege evokes memories of Charlottesville"
     excerpt: "Trump groups violently stormed the U.S. Capitol, the surreal images took many back to a dark chapter when white supremacists openly descended upon Charlottesville."
@@ -732,6 +764,22 @@ related:
     quality: 119
     images:
       - url: "https://i.guim.co.uk/img/media/8a876a0c2e91274ce4ced1a8c38d097eb124f7d0/226_141_1940_1164/master/1940.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=88990025e6260b6652c99c65cf2e775c"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Donald Trump becomes the first US president to be impeached for a second time – live"
+    excerpt: "Ten House Republicans join Democrats to impeach president on charge of incitement of insurrection after violent riot at US Capitol"
+    publishedDateTime: 2021-01-13T20:37:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates?page=with:block-5fff68128f0853a2a9aab40d"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 118
+    images:
+      - url: "https://i.guim.co.uk/img/media/eb867cdd52658d2266660401b1c9f99246e73296/0_373_4083_2449/master/4083.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=89c7066968c7c854d22b0603b710fb0c"
         width: 600
         height: 360
         isCached: true
@@ -1158,6 +1206,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547674538&r=LYNXMPEH0C1L0&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "U.S. lawmaker comments on impeachment of President Donald Trump"
+    excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump."
+    publishedDateTime: 2021-01-13T21:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/us-lawmaker-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547688231&r=LYNXMPEH0C15H&w=800"
+        width: 800
+        height: 540
         isCached: true
   - title: "What a Final-Days Impeachment Would Mean for Trump"
     excerpt: "Donald Trump’s four-year term as president ends on Jan. 20 at noon. That’s not soon enough for some in Congress, who have initiated an unprecedented second effort to impeach him, one year after the U."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/01/07/lindsey-graham-ca
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/07/lindsey-graham-capitol-certification-sot-vpx.cnn"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108161106-lehigh-university-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact-checking Trump's impeachment debate in the House"
+    excerpt: "Only 13 months after the House first impeached President Donald Trump, lawmakers were back on Wednesday voting to impeach Trump an unprecedented second time for a US president. During the debate on the resolution, which charges that Trump incited a violent insurrection against the government on January"
+    publishedDateTime: 2021-01-13T22:43:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3iC7fAkt82g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/house-impeachment-hearing-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/house-impeachment-hearing-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113094216-15-trump-impeachment-0113-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

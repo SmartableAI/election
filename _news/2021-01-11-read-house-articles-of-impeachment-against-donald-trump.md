@@ -192,6 +192,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "In pictures: Trump impeached for second time"
+    excerpt: "President Donald Trump entered his final week in office under the looming threat of a second impeachment.\n    \n"
+    publishedDateTime: 2021-01-13T22:16:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9w2ro8JkF9s/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113164326-23-trump-impeachment-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Lawmakers called back to DC to vote on Trump's impeachment, removal under 25th amendment"
     excerpt: "The House will vote Tuesday night to encourage Trump's removal and Wednesday morning on impeachment, House leadership announced.."
     publishedDateTime: 2021-01-11T20:33:00Z

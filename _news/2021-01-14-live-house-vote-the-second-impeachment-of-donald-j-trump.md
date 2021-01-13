@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking Trump's impeachment debate in the House"
+    excerpt: "Only 13 months after the House first impeached President Donald Trump, lawmakers were back on Wednesday voting to impeach Trump an unprecedented second time for a US president. During the debate on the resolution, which charges that Trump incited a violent insurrection against the government on January"
+    publishedDateTime: 2021-01-13T22:43:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3iC7fAkt82g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/house-impeachment-hearing-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/house-impeachment-hearing-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113094216-15-trump-impeachment-0113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump will visit his border wall on the heels of deadly Capitol Hill riot "
     excerpt: "President Donald Trump will bookend his administration's focus on immigration with a trip to his signature border wall on the US-Mexico border, a visit on the heels of a deadly riot on Capitol Hill incited by the President as House Democrats prepare a second impeachment vote.\n    \n"
     publishedDateTime: 2021-01-12T11:29:22Z
@@ -127,6 +143,6 @@ related:
         height: 773
         isCached: true
 
-secured: "E3zKtbXf/Oz6C/s9vKqjjyNf+OrraImSv1H3FlfDAN1gTPhfb+JmdxHJCa+nK1jOLZ/oBCm/qb6vFtK3UadpTxkVE+8tQcEIElyEV6FF3TYBuLtRxUK0vihXLCdpUCafh+91jtraRguRca5C+BHy2G0W74mSRV/Ato8jSVuIhtzm3RyCtyehnUB2oYyj91gjUypsTt5ADId8YIFztA5DSNBX6uHlGv3WX3YulHjDKN9BHhGPDkZ5t+by6Cd1LlM864LxljSrz/fbhcLnh54sYL9gZqAycE4fz6g4HPkzYizaqVqpyTZU0/0wUCvXO/N3cGcLGVha5KmWlEcZv6P9XWMLE455wEPLQRkMM4Jbs+o=;8AYuWvEAHRqtFzUmvYxlPQ=="
+secured: "Rv+hXhj8dB+57xPb374kbATsmODNh5a1FXrnkJpkou7vepMfqu2Dhc1q75XWSjN7yp+f8lSRrWEeWVMj2czdpIHus1MnAOxy0U9Yoh4pTd6z6WH20adzChmosIEcQE5J7EB189iZRFo48ZUWH34lrQS8BoL3nYTsNKzr4kPtuT5I8C4XS9uiLbVtbFqc2Ybx01oD+xSVV5twbGZR5HvgI98mFmHtExAl08d7diq4LH4bM/eGk2rFRyr7DrDuskZfNHK6wSwOCTBsBA6Zv2SCW1f/fjGBbY9zQ2jxHNSFE+kEk4nNcEmvRfnIuEc+Ir0xAhNqpqHFg9Qe020Hdq1SyDnkBKdxBLQdj+wYS3+nhcibKDhqTezAL0yn6KqPdpaGbx9PHlLcjsu1DyxCZhWNX+6stWy6EBcMwvKvRxKz41CMnMrxlsCaeeInfIybyz33NdddQU/MNmK3oyMIx7PTgA2YyzB0Jt7RrDdkQ0U5vOCDUp85HIm+aFbXJNlC4tbq8Sz8WoTW+O822rjGWRmlgw==;ffKm3UFysLgJmJ1MnqJv/A=="
 ---
 

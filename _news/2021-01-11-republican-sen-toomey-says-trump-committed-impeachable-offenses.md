@@ -143,8 +143,8 @@ related:
         isCached: true
   - title: "U.S. lawmakers' comments on impeachment of President Donald Trump"
     excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump. Unless noted otherwise, remarks were made on the House floor."
-    publishedDateTime: 2021-01-13T20:43:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/u-s-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
+    publishedDateTime: 2021-01-13T21:59:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/u-s-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q?edition-redirect=ca"
     type: article
     provider:
       name: Reuters

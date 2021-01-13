@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/facebook-blocks-trump-indefinitely-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-blocks-trump-indefinitely-capitol-riot-response.amp"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -141,6 +141,20 @@ related:
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01f558dd-ed80-4f8f-ade4-1085f537ea56/6028a5a7-09d8-4664-8310-c4520818986e/1280x720/match/image.jpg"
         width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump does not have future in Republican Party after Capitol riot: Rep. Nancy Mace"
+    excerpt: "Rep. Nancy Mace, R-S.C., said Wednesday that while she opposes the impeachment process in the closing days of President Trump's term, he does not have a future in the Republican Party after the events of the past week."
+    publishedDateTime: 2021-01-13T22:23:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7sBTGU358oQ/trump-future-republican-party-capitol-riot-rep-nancy-mace"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Nancy-Mace-House-floor-speech-violence.jpg"
+        width: 1279
         height: 720
         isCached: true
   - title: "Kirk: Despite what the media claims, Trump supporters are 'repulsed' by Capitol riots"
