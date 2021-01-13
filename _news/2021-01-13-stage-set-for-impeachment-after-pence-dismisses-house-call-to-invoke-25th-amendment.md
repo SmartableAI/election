@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mike Pence Gives House Republicans Cover to Vote Against 25th Amendment, Impeachment"
+    excerpt: "Several Republican members of the House cited Vice President Mike Pence in explaining their decision to oppose invoking the 25th Amendment and impeaching President Donald Trump. The Democrat-led House voted on Tuesday to urge Pence to use the amendment and strip Trump of his power,"
+    publishedDateTime: 2021-01-13T10:22:00Z
+    webUrl: "https://www.newsweek.com/pence-house-republicans-25th-amendment-impeachment-vote-1561089"
+    ampWebUrl: "https://www.newsweek.com/pence-house-republicans-25th-amendment-impeachment-vote-1561089?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pence-house-republicans-25th-amendment-impeachment-vote-1561089?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1705269/vice-president-mike-pence-january-6.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "8VYivt5qELfR/OeeUMPsv1bZ5/G7v3IAOcaV5dRswVSEuZO/7ZWxDFG+qs3wCiCxr+SCWHAowSef97PBRv53AfausrUXoYEZyMhXz900hMwc4MTkdneAKctQC+ybQsothG9hsQiRzArh1YRxBRJKXkMNDuJC5w17ssPJ99KWX4NifQU0UoLGP39O5QzvUl9rB4akxJqDIkiVYhGl9nCfMu8Mnc3K8BF0g5R7WGbiXx8dthJAtyhsrY0srDZ2sdIvo+EFRi2CySlI5de5nsKJeFfHZ+PSCNLeha/fRo1YStq87/gngmyZKuhfDZ+587kiZT7biF8AEvrTCgadI1fmJmiAZisvDS8ZPjmZHRh9A34=;t/5yV5COU/347iLyqSuGmA=="
 ---

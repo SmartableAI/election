@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/house/533955-house-passes-bill-calling-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/533955-house-passes-bill-calling-on-pence-to-remove-trump?amp"
 type: article
 quality: 140
-heat: 2740
+heat: 2780
 published: true
 
 provider:
@@ -1115,6 +1115,20 @@ related:
         width: 728
         height: 485
         isCached: true
+  - title: "Siege was 'in the name of the Donald Trump': Rep. Cicilline"
+    excerpt: "Rep. Cicilline. Posted . Democratic Congressman David Cicilline railed against President Donald Trump on Wednesday ahead of T"
+    publishedDateTime: 2021-01-13T20:41:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDV1MRBZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210113&i=OVDV1MRBZ&r=OVDV1MRBZ&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Trump bears responsibility for Capitol attack: House Republican leader"
     excerpt: "President Donald Trump bears responsibility for the attack on the U.S. Capitol last week, House Republican leader Kevin McCarthy said on Wednesday after arguing against the president's impeachment."
     publishedDateTime: 2021-01-13T18:57:00Z
@@ -1985,7 +1999,21 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Trump On Brink Of Unprecedented Second Impeachment"
+    excerpt: "The House of Representatives was set to impeach \"clear and present danger\" President Donald Trump Wednesday, with several key Republicans backing the Democrat-led push to bring down the real estate tycoon in flames a week before he leaves office."
+    publishedDateTime: 2021-01-13T18:21:00Z
+    webUrl: "https://www.ibtimes.com/trump-brink-unprecedented-second-impeachment-3121095"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/08/14/us-speaker-of-the-house-nancy-pelosi-is.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
-secured: "Z64j0B6L4QgvHA7GgZoY+Gv2kGjTyR07gLnd5bEonlM79AMWUYl7cGXWW4r/2JLhGMDpX30AJp4fGvk7ah48Ux6z9ZJHaEFS5ATP/C/Xq3HnVPcWy1JukD4czeSnvEl+OfJ7IGF8x27hb7CXIU/QEyH4P5W5nDhG5GMUiUFnkOT+iP4urCT+92iuDHXucxaaYuOq8xw6Q1N7THv1aVzN5/lBHD5mf108v1o/k+vEJhepFBeMaG6NOtfj7XbTLufS/4mmaAr1iwcVLobgy5Knv62n7ELq9S15hvDvpKmafqzL+hcYwQZT8d4IHmRaAyeML5Jv4Q6+ccb3WmhjGUYdVfXgeknRWFtzuZYARhyGGmU=;aIDi1q4UIoLdBQAg08ovCQ=="
+secured: "tB7Edshq1s9etSZCX53A9LtfAqMlvSufzRlkd2mXieF7wJ1qXe2i/AdkpuF7r3nRdczBTiINoN0hrp8t8wGd+e5beD871LqlntDrSjG352prxk8FcH5Y9bTO013xszkUwe9DLIGWKE0FQ+bumGd5qZo2hPTQ82jmfHfl/rBoaZF7ZmYMYdFfQE/n59dT95NYZ+DkbQCMYewF0yLZ3lh2jWJUBD/MCI26HUefNKJZXoMTyRHjAjrsLf0K4jncJudRFQz6jR07ubtEB+DYg3WoTu2HhBUcOQzJ7lmAeAAA9JwgaicWyTtu+j3LUQZJyrxBdCw/4TgAWtUM1BG8sbcYkOwFS3kSDIltPVY0GQCJlAFXbS/6P0OcNKbgnYhgQIl94npNDoed5Nugmo3H6BrsYye4/IGXm46RJxeD4Vz2xWNckC6muIm0g9PrL6qIVB/ZTuEzUtxol7UNBYr9H6Nlgbengb97R9BpuTzFL+MRSf4MCxcQQ1ydvAqUDaiSj9uyjNiyk4DZAD1g7sUBpq2LEA==;Vqf34YqyDFpl14i9ePT+og=="
 ---
 

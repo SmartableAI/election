@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment-lawyers-dershowitz-giuliani/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 415
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump defenders seek Cheney's ouster from House leadership over Trump's impeachment "
+    excerpt: "Several House Republicans are hammering Rep. Liz Cheney, the party's third-ranking House leader, calling for her to step down from her leadership position over her intention to vote to impeach President Donald Trump.\n    \n"
+    publishedDateTime: 2021-01-13T20:38:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t-SUeKaw5w4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/republicans-pressure-liz-cheney-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/republicans-pressure-liz-cheney-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200626175124-liz-cheney-father-tweet-real-men-wear-face-masks-gangel-tsr-vpx-00001329-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump faces shameful prospect of second impeachment with Democrats set to move quickly this week"
     excerpt: "Donald Trump is facing the shameful, imminent prospect of becoming the first president to be impeached twice as Democrats warn he poses an unacceptable danger to the world after inciting a mob assault on Congress.\n    \n"
     publishedDateTime: 2021-01-11T06:27:14Z
@@ -140,6 +156,22 @@ related:
     quality: 161
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210111195745-peter-meijer-oct-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "McConnell rebuffs Democrats' call for speedy impeachment trial, allowing Trump to serve out his final days"
+    excerpt: "Senate Majority Leader Mitch McConnell is rejecting Democratic calls to bring the Senate back immediately to convict President Donald Trump, a decision that is likely to allow the President to serve out his final days in office.\n    \n"
+    publishedDateTime: 2021-01-13T20:42:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HItt8SCd6mA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/mcconnell-democrats-impeachment-trial-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/mcconnell-democrats-impeachment-trial-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201231165922-mcconnell-1230-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

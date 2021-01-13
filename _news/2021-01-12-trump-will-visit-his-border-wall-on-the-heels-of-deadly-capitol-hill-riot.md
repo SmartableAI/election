@@ -95,6 +95,36 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Graham leads resistance to Trump ouster amid fast-moving impeachment"
+    excerpt: "Lindsey Graham is leading the charge against President Donald Trump’s impeachment and removal in the Senate, even as the White House remains largely uninvolved. Graham, who just last week said he had had “enough” of Trump’s bid to overturn the election results after he incited a deadly riot at the Capitol,"
+    publishedDateTime: 2021-01-13T18:11:00Z
+    webUrl: "https://www.politico.com/news/2021/01/13/senate-republicans-impeachment-trump-trial-458934"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/13/senate-republicans-impeachment-trump-trial-458934"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/13/senate-republicans-impeachment-trump-trial-458934"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/3a/22/e398ada649c6a8ddfc396326c1a2/210113-graham-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Live House Vote: The Second Impeachment of Donald J. Trump"
+    excerpt: "See how each House member votes on the article of impeachment charging President Trump with inciting violence against the country."
+    publishedDateTime: 2021-01-13T19:23:00Z
+    webUrl: "https://www.nytimes.com/interactive/2021/01/13/us/politics/trump-second-impeachment-vote.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/13/us/trump-second-impeachment-vote-promo-1610558373191/trump-second-impeachment-vote-promo-1610558373191-facebookJumbo-v3.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "7FEt6VA4lBLlEsnYBKWIS7yB4/JG6CZRmsRN1JzbTOthWSN33gMLC9IHvSP7WH4lSb9O+qdTl+F1HIlCT5SwKJ17YammatIjdH8sbnjE4e6SaggAaiLVWHrVABWl37MnWszFWXfJe6wcYnlzu4UCcZuJh7mNXs6bxWejmo7Es0HhC18rOOKPOGb8tc1B+B/BEmBdJFc7R6D6iCC1jIlYko+FKanhwGaxceJ72h46ISXH4Hdx4D3kJ83GVXX48SLR9hBINrQA8MV/OYKzv3jn1oKGLsakxef/k4bJOQaLyFpAizZa1DnqMVoas/OoibagN3qEresTRwRvfr77T0MaTxWl0OAX5ZDk3p0Cq7pYN90=;UwKJf+CsmmC69Sh5k9Uo3w=="
 ---

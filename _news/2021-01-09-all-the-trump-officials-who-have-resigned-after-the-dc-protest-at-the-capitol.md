@@ -420,6 +420,20 @@ related:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 45
+  - title: "Independent Panel: Donald Trump Refuted The Political System By Showing It For What It Is, This Is Why He Was Elected"
+    excerpt: "Podcast host Tim Pool welcomes \"We Are Change\" host Luke Rudkowski and comedian Dave Smith to do a review of the Trump presidency from an independent perspective."
+    publishedDateTime: 2021-01-13T19:08:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/13/independent_panel_donald_trump_refuted_the_political_system_by_showing_it_for_what_it_is_this_is_why_he_was_elected.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 42
+    images:
+      - url: "https://assets.realclear.com/images/53/532229.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "s0bhPoHbk+kP0xRyIrNmYt0zTPDmhnspGBrDegF8zwsreFYDONDcs1KapWCy5mitczRMvqfYe1ikA3D9BQ+lZ8lkjLznHkzHYw2J727ccL9pr/KwqYzMb/IZ9vWNxfHWaeaVXv4uS12uf8SZ39DuPNAJj9KkkQX60Q69Z6W6yr/oayfO7zhiVhgvdCiPtyzL8+HOGCbZf0s74Iwm95oxZnuB3CyQdBgs+4Qxn2dRAmSxsj6zOKMs4OEx5qImQP0wnUPcGX1bvdGDH7VfCuTo3O4X7DJmtSJXpnsiEVXgxPcgUj/T7s5hKizPEkSJMhzFB79RdmRQCyfhZXLL/wLJRmHRhbvGBsBVHSwyqGyknEk=;oSFigs4K1OkUUZ5BXywV3A=="
 ---

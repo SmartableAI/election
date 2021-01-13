@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "GOP lawmakers 'afraid for their lives' to impeach Trump, House Dem says"
+    excerpt: "The \"majority\" of GOP lawmakers are afraid they will be in danger if they vote in favor of impeaching President Trump over his role in the Capitol riots, Democratic Rep. Jason Crow of Colorado said."
+    publishedDateTime: 2021-01-13T20:23:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KDgoBY58KPg/gop-lawmakers-afraid-for-their-lives-if-they-vote-to-impeach-house-democrat-says"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-lawmakers-afraid-for-their-lives-if-they-vote-to-impeach-house-democrat-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-lawmakers-afraid-for-their-lives-if-they-vote-to-impeach-house-democrat-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e448d5c7-cbab-4c5b-b72d-190207a92b42/b0122e90-044f-41c6-8499-919d7bc59177/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump awards Rep. Jim Jordan the Medal of Freedom, credits his defense during impeachment"
     excerpt: "President Trump on Monday awarded the Presidential Medal of Freedom to Rep. Jim Jordan, the Republican from Ohio who has served as a high-profile congressional defender of the Trump throughout his presidency."
     publishedDateTime: 2021-01-11T19:04:29Z

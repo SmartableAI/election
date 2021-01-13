@@ -600,6 +600,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Sewing: Kamala Harris’ Vogue cover causes controversy"
+    excerpt: "Showcasing one of the most powerful women in the world in such a casual look diminishes this significant Vogue moment to show Kamala Harris in a position of power."
+    publishedDateTime: 2021-01-11T17:00:00Z
+    webUrl: "https://www.sfchronicle.com/life/article/Sewing-Kamala-Harris-Vogue-cover-causes-15861425.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/07/71/20479573/3/rawImage.jpg"
+        width: 628
+        height: 346
+        isCached: true
   - title: "Kamala Harris's Vogue cover caught her team by surprise, causes stir online"
     excerpt: "Vogue released two images online, but the photo of a sneaker-clad Harris is the one that will grace the cover of the fashion bible's print edition."
     publishedDateTime: 2021-01-11T15:30:00Z
@@ -615,6 +629,6 @@ related:
         height: 630
         isCached: true
 
-secured: "r2M62q+hFzKVlGuDyfJYHk+3xpk4OGQGeai2smfE//T+Xcl2fwV6OCHRxF+mqd5+DDViMJfSZWbVbz+pGILtfrcPyZtNdcsykxqVSVA0wYFpGAeq8TA2jBeWXFGrclqu9HNq8876u0PhyHoe+gnJR6lHWgVVjVFTCUWavy6s/Z535bZTsGZ2woyLbWvsM3cbXp03wJVEZ7mugRpCf+5zZyL/a/2kBkqRTNkP2E6X2BkBEi66JoX5Rx3oaYx9Gq0UVqF1xNYjnxFs7ARV/qGxBfTj+ooev021gP22tP4J4wqXcRXBjZ/pTLoOBv23I7SxshNuw87n8mG7KXOBKHqVh8G3KQD/+6l41dJMji3B29M=;GKtkYey0NRzDb61T4w2IHg=="
+secured: "fRl9+MgYfxH3iLPHqH3gu0XxEEaXllAYAZZcv79D71TuQLo/QuCEwx4PjxhvN+ubTBXsArI+aUPH7sxNMcL4dmSeC2cEdAy4mxUk/nrvCaNImXpZ96dor6MWfTeGkSuoVmIEAlBWk/Lw6yFq94e/a5kgQDinFFqi61RYF+Y5iL5AJFUw42EDskZ7yrGfa8M2UcGcMpCKVwjlJMKKo4cf5Kj97x8i7Z9zlo1ZIIWvfZutAWaGqqXhRb6WwqE6G0hNiwzn3Rjj6u5qSbe/2Hh9cXxVwmDMsC3KTYcAtZ8JtKSjP6TXrAp+WW2LK0I3ggidQcadBRzULVx2uzsdsU8/RmTPEUAoHjh8iLcWosucxOyHdzh3dzX2UrlcZ8YWM1iywd7mtbYXslKZ2JjaKu7JgEqyHEGkMcyEx9blYIIMhH/Y7vyAt8c1PO6hnRXFG4ZpNVIn8sHHfjO1ognIJOJt6NFlKIVbpsJQGjUv0HO0k9mZy5OakmqQPZB0wnDJtkGU2VkH4MuN/tlLzXIgdiajlQ==;ndP65QD2cWVggLZCGvXf2Q=="
 ---
 

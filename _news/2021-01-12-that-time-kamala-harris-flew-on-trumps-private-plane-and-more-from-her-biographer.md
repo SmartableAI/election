@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-01-11/that-time-kamala-h
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-11/that-time-kamala-harris-flew-on-trumps-private-plane-and-more-from-new-book?_amp=true"
 type: article
 quality: 134
-heat: 894
+heat: 914
 published: true
 
 provider:
@@ -603,6 +603,20 @@ related:
       - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p093gkjh.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Sewing: Kamala Harris’ Vogue cover causes controversy"
+    excerpt: "Showcasing one of the most powerful women in the world in such a casual look diminishes this significant Vogue moment to show Kamala Harris in a position of power."
+    publishedDateTime: 2021-01-11T17:00:00Z
+    webUrl: "https://www.sfchronicle.com/life/article/Sewing-Kamala-Harris-Vogue-cover-causes-15861425.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/07/71/20479573/3/rawImage.jpg"
+        width: 628
+        height: 346
         isCached: true
   - title: "Kamala Harris's Vogue cover caught her team by surprise, causes stir online"
     excerpt: "Vogue released two images online, but the photo of a sneaker-clad Harris is the one that will grace the cover of the fashion bible's print edition."

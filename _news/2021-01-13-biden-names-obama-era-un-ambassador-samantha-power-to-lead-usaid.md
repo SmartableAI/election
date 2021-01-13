@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-ambassador-samantha-power-usa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ambassador-samantha-power-usaid.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b32ebf9a-5188-4687-bf40-72a6eee05990/5314d1ba-f3cf-4df9-a735-3bbd2ec83ce7/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden team says US 'cannot afford gaps in national security leadership,' urges Senate to confirm nominees"
+    excerpt: "Biden transition officials said the U.S. “cannot afford gaps in national security leadership,” urging the Senate Republicans to confirm President-elect Joe Biden’s key nominees ahead of Inauguration Day."
+    publishedDateTime: 2021-01-13T20:34:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qj2co2jJe8k/biden-team-national-security-gaps-senate-confirm-nominees"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-team-national-security-gaps-senate-confirm-nominees.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-team-national-security-gaps-senate-confirm-nominees.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "Wo+wc5fZ9FkKR3odXJk0wOvfeqTKksZNhuRujzrcJvIgm9Trj4VOyAO02V1yGMbSHz3t+U5lhr/Ky/RIVoQToaAVdUA565VMBS21pvO9ioL3lWz7P1qhz9i3jdFib48PR277q/LejyQyrSasysu2/e1FlCh7MiGgQT6HhGIvdV0HtQd9n+WVTXWMnfWw+qQZ/sKXalpwK/tyybPcLLh6yFHid5scIv6J1P98U2/JxIAi4NOChrSm3Eks5mHSY+CXSlOY6dtvCiSDH5v+6wxlhcSN8IJ+kaYaXyu7JiFTIl5Xp2eJzbGNux879Bjtm29dPsOhwnZAaXbfEuAL8x7euA9JNRl19ZI4Jzl+cJ/Kuok=;wIWTOt6OqcgLGrCJzY159g=="

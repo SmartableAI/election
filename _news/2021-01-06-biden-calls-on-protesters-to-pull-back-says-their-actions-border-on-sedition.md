@@ -47,6 +47,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "White House offers and Biden accepts the use of Blair House for the night before inauguration"
+    excerpt: "The White House has offered President-elect Joe Biden use of Blair House for the night before the inauguration and he has accepted, a State Department spokesperson told Fox News. "
+    publishedDateTime: 2021-01-13T20:10:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AhIRbPlWHXo/white-house-offers-biden-accepts-use-blair-house"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-offers-biden-accepts-use-blair-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-offers-biden-accepts-use-blair-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Blair-House-iStock.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "White House offers and Biden accepts the use of Blair House for the night before inauguration"
+    excerpt: "The White House has offered President-elect Joe Biden use of Blair House for the night before the inauguration and he has accepted, a State Department spokesperson told Fox News."
+    publishedDateTime: 2021-01-13T20:15:00Z
+    webUrl: "https://www.foxnews.com/politics/white-house-offers-biden-accepts-use-blair-house"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-offers-biden-accepts-use-blair-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-offers-biden-accepts-use-blair-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Blair-House-iStock.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "UHIxW9Q/P3hmZlGAA9H3KHKnQZ0bUrE02M1H9mwchHPywZW3BgEVoLJgowR+xe6+EL3zGdkm21HKqLHnEEBYA30pMEIFNvE+mDHou/bY1ycJDmUWxtG6b+1aHdjhO6/fLOLryLuUWQ3n3hL0lO4NkRzXZzLB5A8Q//2Z63KF5rJMpAc9ZKCJdsoWjAIyaCjzMc6Y3pPdQqDlbU2pcR3no2/UBSO3IPAsTQB2PF6I8i9ADeqs0/0XUYNtA15Ny2QDuEP/auB5pibo6svTYNwOB02ri9MK9HZBvdtvJZ3GyBbpeePJnoxDVEWU2ZkVrd2OoIul7H7GIkebym/SttDqJ4nvIhTCl1g1ukrbSvpmEKA=;9MhE8z1GsAM+GcnU/7nShg=="
 ---

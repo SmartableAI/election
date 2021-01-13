@@ -247,6 +247,20 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "20,000 guardsmen to deploy for Biden inauguration"
+    excerpt: "While Congress acted to impeach him, President Donald Trump on Wednesday urged his supporters to shun violence as the National Guard prepared to deploy at least 20,000 troops in Washington for the Jan."
+    publishedDateTime: 2021-01-13T20:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration/20000-guardsmen-to-deploy-for-biden-inauguration-idUSKBN29I1RZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547685892&r=LYNXMPEH0C1OH&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Washington D.C. mayor calls in National Guard as city prepares for protests when Congress votes to affirm Joe Biden’s win"
     excerpt: "Washington, D.C.’s mayor urged calm Monday as some 340 National Guard troops were being activated while the city prepared for potentially violent protests this week."
     publishedDateTime: 2021-01-04T18:16:00Z

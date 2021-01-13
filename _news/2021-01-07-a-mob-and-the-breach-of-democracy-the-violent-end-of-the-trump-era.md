@@ -96,6 +96,36 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Graham leads resistance to Trump ouster amid fast-moving impeachment"
+    excerpt: "Lindsey Graham is leading the charge against President Donald Trump’s impeachment and removal in the Senate, even as the White House remains largely uninvolved. Graham, who just last week said he had had “enough” of Trump’s bid to overturn the election results after he incited a deadly riot at the Capitol,"
+    publishedDateTime: 2021-01-13T18:11:00Z
+    webUrl: "https://www.politico.com/news/2021/01/13/senate-republicans-impeachment-trump-trial-458934"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/13/senate-republicans-impeachment-trump-trial-458934"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/13/senate-republicans-impeachment-trump-trial-458934"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/3a/22/e398ada649c6a8ddfc396326c1a2/210113-graham-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Live House Vote: The Second Impeachment of Donald J. Trump"
+    excerpt: "See how each House member votes on the article of impeachment charging President Trump with inciting violence against the country."
+    publishedDateTime: 2021-01-13T19:23:00Z
+    webUrl: "https://www.nytimes.com/interactive/2021/01/13/us/politics/trump-second-impeachment-vote.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/13/us/trump-second-impeachment-vote-promo-1610558373191/trump-second-impeachment-vote-promo-1610558373191-facebookJumbo-v3.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "muTAGgzn8XcifdvEpLQOudbrb3SgOs/7X+fUMafzde9egz0TGaE6feiN2+qmw/r0NkERi0f5dM4GjfCtnF3QcAJt1BWs9eWjrupVs168BJz+kmzJABKPeKJyJV2zYYwVPpaXZS/61tmvXqfV2s19R3bxjF5eCxv/dieipIZEScYvvPr/fyQxfuOxVr9m7iB0i//7fasUI8An3KclrYzDPzRSGzvnVrL80Cu8IOoDNiKZk9rCrFoQyRjBs9XqjBS3X+3GDXG5IwrlZ5R02uSbPttG+nfcBBpcbBDDwygCbUj9c2Vl0CC9F5XvJUmtbpIXlP3sHO6ZuiLnBjR75mN7zE3UkJiHRe4XUWcNrqDNDts=;H7Ke37oieM0d0iWBnnISoQ=="
 ---

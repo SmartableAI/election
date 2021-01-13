@@ -600,6 +600,20 @@ related:
         width: 600
         height: 517
         isCached: true
+  - title: "Sewing: Kamala Harris’ Vogue cover causes controversy"
+    excerpt: "Showcasing one of the most powerful women in the world in such a casual look diminishes this significant Vogue moment to show Kamala Harris in a position of power."
+    publishedDateTime: 2021-01-11T17:00:00Z
+    webUrl: "https://www.sfchronicle.com/life/article/Sewing-Kamala-Harris-Vogue-cover-causes-15861425.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/07/71/20479573/3/rawImage.jpg"
+        width: 628
+        height: 346
+        isCached: true
   - title: "Kamala Harris's Vogue cover caught her team by surprise, causes stir online"
     excerpt: "Vogue released two images online, but the photo of a sneaker-clad Harris is the one that will grace the cover of the fashion bible's print edition."
     publishedDateTime: 2021-01-11T15:30:00Z

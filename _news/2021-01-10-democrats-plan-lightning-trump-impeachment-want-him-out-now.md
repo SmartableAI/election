@@ -1125,6 +1125,20 @@ related:
         width: 728
         height: 485
         isCached: true
+  - title: "Siege was 'in the name of the Donald Trump': Rep. Cicilline"
+    excerpt: "Rep. Cicilline. Posted . Democratic Congressman David Cicilline railed against President Donald Trump on Wednesday ahead of T"
+    publishedDateTime: 2021-01-13T20:41:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDV1MRBZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210113&i=OVDV1MRBZ&r=OVDV1MRBZ&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Trump bears responsibility for Capitol attack: House Republican leader"
     excerpt: "President Donald Trump bears responsibility for the attack on the U.S. Capitol last week, House Republican leader Kevin McCarthy said on Wednesday after arguing against the president's impeachment."
     publishedDateTime: 2021-01-13T18:57:00Z
@@ -1983,6 +1997,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/13/google-owned-youtube-on-tuesday-joined-other-social.jpg"
         width: 1024
         height: 681
+        isCached: true
+  - title: "Trump On Brink Of Unprecedented Second Impeachment"
+    excerpt: "The House of Representatives was set to impeach \"clear and present danger\" President Donald Trump Wednesday, with several key Republicans backing the Democrat-led push to bring down the real estate tycoon in flames a week before he leaves office."
+    publishedDateTime: 2021-01-13T18:21:00Z
+    webUrl: "https://www.ibtimes.com/trump-brink-unprecedented-second-impeachment-3121095"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/08/14/us-speaker-of-the-house-nancy-pelosi-is.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "J94++WMTj3CJnMTSFwpWdixEoaNxgDvq8pq+D8RUCHSuTgBw60vdyrotm9GBf7218ogS0jlpiCxG9mdWBJyIH8HAmeu1otBGEE53pAQhtkUIPEHHLV4XHo3Cetr1mJnZwmy7eq8AmiAD+TnY6uBhV7swJnz2gCodzUA8OIvMOLVmj3X4trCOS6/bBtljYYf7ZiuN9ECv1jYkdLWsYR0S4YKrDD1Ew2wlrB9lNlfTIlPGi3ERe7Q8L3yfmSaptouB8lvFR+ILur0v+UIdwlyyRpihmL6zv73vOTxoCJcL5nQQXsvch2Qq0333coEvHJFZKuoleUwBj6kkTxknN870lKdcio/K4kILXFG6NezJOo1ivPohwlKfNuy133m7w9z2Azdtw7viClyUPMDvxzz6E6Qops25KxCGl5AxX+VEkxHnsZkqUhhA+kAUHefpWQBJ/yAWm5KjZ22vTBAN8en18tHW5ZGFkC2rZxIhfhr3sQdxQEPEvBmt4WLGrpFpnW14TQho5epQc4th2wcODPxnSA==;EiacMpjiqzQEc4bww4+8bg=="

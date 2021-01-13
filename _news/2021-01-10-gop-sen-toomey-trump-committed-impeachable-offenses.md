@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/toomey-trump-committed-impeachable-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/toomey-trump-committed-impeachable-offenses.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99e350c3-f5c7-495c-80e6-742d3e3e217a/1557b227-7a54-4ea4-849e-da952d2399b3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "GOP lawmakers 'afraid for their lives' to impeach Trump, House Dem says"
+    excerpt: "The \"majority\" of GOP lawmakers are afraid they will be in danger if they vote in favor of impeaching President Trump over his role in the Capitol riots, Democratic Rep. Jason Crow of Colorado said."
+    publishedDateTime: 2021-01-13T20:23:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KDgoBY58KPg/gop-lawmakers-afraid-for-their-lives-if-they-vote-to-impeach-house-democrat-says"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-lawmakers-afraid-for-their-lives-if-they-vote-to-impeach-house-democrat-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-lawmakers-afraid-for-their-lives-if-they-vote-to-impeach-house-democrat-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e448d5c7-cbab-4c5b-b72d-190207a92b42/b0122e90-044f-41c6-8499-919d7bc59177/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

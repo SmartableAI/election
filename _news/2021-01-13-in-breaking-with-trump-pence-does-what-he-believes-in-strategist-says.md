@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/in-breaking-with-trump-pence-does-w
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/in-breaking-with-trump-pence-does-what-he-believes-in.amp"
 type: article
 quality: 199
-heat: 699
+heat: 719
 published: true
 
 provider:
@@ -421,6 +421,20 @@ related:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 45
+  - title: "Independent Panel: Donald Trump Refuted The Political System By Showing It For What It Is, This Is Why He Was Elected"
+    excerpt: "Podcast host Tim Pool welcomes \"We Are Change\" host Luke Rudkowski and comedian Dave Smith to do a review of the Trump presidency from an independent perspective."
+    publishedDateTime: 2021-01-13T19:08:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/13/independent_panel_donald_trump_refuted_the_political_system_by_showing_it_for_what_it_is_this_is_why_he_was_elected.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 42
+    images:
+      - url: "https://assets.realclear.com/images/53/532229.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "Hb5V0fR/nKiZ+4kmF7T6AjPXTalS0OpmLoMp+RJnQfdfn2we2bTWbA72h7jY+fBP3e3wobumi+7/EBWMivHgmqeYRrj9KXEn0K6gKP3RDRGu6Il9gu5+qsuNgrSaDN8i7iqoMezjo/DwVlXmtGaZoY/6e0UQLEnKlCkiJ4wjZUxNolLC8y9fSvOCftb+ovaF5Po21A4/Sh0zAzj72zPGIs/FEUh9yFTc+eZke68ycCqd28cHg6rDAjh6WFLmP1CeSrxhCeK2XpPbJPR9y2sivkM5wD6SQFsZiS0fzveEVqSgVy2n1jBHRNI+KAuDmS2bUamrVVyuYhjrqbKmNOx+nWmxiTrtX2vPpJYYD0U7sGE=;jVUJ9krGbO7WChj/VJQYUw=="
 ---

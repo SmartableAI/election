@@ -2,9 +2,9 @@
 category: news
 title: "U.S. lawmakers' comments on impeachment of President Donald Trump"
 excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump. Unless noted otherwise, remarks were made on the House floor."
-publishedDateTime: 2021-01-13T18:24:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-quotes/us-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
-webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/us-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
+publishedDateTime: 2021-01-13T20:43:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-quotes/u-s-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
+webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/u-s-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547672852&r=LYNXMPEH0C15H&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547688231&r=LYNXMPEH0C15H&w=800"
     width: 800
     height: 540
     isCached: true
@@ -167,6 +167,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "Neal8undC9Fw2oKzsR3UNRni5njU7RuXWxTdAqXuNJlsG+q4ebLp8M8CPgITiNgTpooxPVWoUNUinB9CcdMzfK5LFcGmeKPL+JNkEb1RusxD/mFjnbyCQQfUl+xX8TT6CfxwZBLDwOnG5jZ42nCCLhmEjSNqyxpCm+v9AtpB0bC3AM9eb+427TqLPSXQ9mKeS6Bjo+i0o3fcB8LjI9yWLcHwg1icLNbjCc4IcrO1sxLnpPW92Gb50aZ3ZV7JPuiWgyHISFxbY85q7YcOR2u+dTy+EmbtKRKyqAn96YSu3bLWYtCLUVAEmmi1cA8QRLoSevg0DEN1v3rk0PG0bFcLcxS8umFOwYAZ1BhosqbqWHQ=;pzS31NSwrBv/+M+Ff7w7Og=="
+secured: "29Y9p+zCA60PiiJYjcer+Z4JhRKMyFPN/KqYbXddFt1mHfn1OcnWxMph0uiWUFIS/81OpRg2wQOQmaP4uWG9nGWcgbpRkaNqnJrO9zKRdquxYla9hnKS4Dwtf/FXCALyZJeGi6oPg0rXOBaxYLZwofLX/R1DnJEnvG3Zluaz3LsMFqYAmH04QCugQZ+HvPp9RGSXjjhFLPG12WX5t8YTsfch9L8uZiLhw+dPXKnSPB6m2qA30H29T57rkxaDrLoe3CvJOgCWA64yhtpFMY2/tm/15UKrvJJ90cYyPDl7xt2i0e1v99bjeHwjYX9uSBmMnBuiMSD5fshKzzY59c4xSi52QEcxePHYePWp99gbnbY=;QYURpikiLLG22kO936YO4Q=="
 ---
 

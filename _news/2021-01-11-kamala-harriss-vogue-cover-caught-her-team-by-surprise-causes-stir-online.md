@@ -614,6 +614,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Sewing: Kamala Harris’ Vogue cover causes controversy"
+    excerpt: "Showcasing one of the most powerful women in the world in such a casual look diminishes this significant Vogue moment to show Kamala Harris in a position of power."
+    publishedDateTime: 2021-01-11T17:00:00Z
+    webUrl: "https://www.sfchronicle.com/life/article/Sewing-Kamala-Harris-Vogue-cover-causes-15861425.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/07/71/20479573/3/rawImage.jpg"
+        width: 628
+        height: 346
+        isCached: true
 
 secured: "ohipyTSSwe+QbwXMB8myXA7cAxStaVph58UbuM38oRKMu58e1lZ3nnOM7dQLToRYXN9d54C6LIHZ0WtE0mJ+myv2mlXC8qZ2X3MN87LbKcoSWrdzymLqXrgwDPll7ecgBLcziZDg/9xPffsbF/WH9SYntAqjXw5SrQ6124b3TY3iDWaw2Bf9gYtj0hymkCILxExtBAKqmTLiKt6fBk2AH1TiFZIUm9Fy93Hjuq/8KXHVZn3jwsbkjNi+1CxQeX0AnxXNBoel3483zBjyZpcukJDXF/VRvPXlY+paQvNRiauaUY+MXCuhsB+HTLhicXThjYfkg3G7fwixEgej535QkD3ThSFH9LjS1t51bLDTQgO+zxOE3qmhjsbzNw5pxQ2n3B6d9PoAcraprHsKu/Qe9n6m7tb8V77uz1chRmbkn+RffF2CDN0+ZywrvPcExedhfiaPXmh1MoXaggkumdCJCqfCljUfji/t7fcszTIGD1JnYpT2DQTgMS2awEQosdEcFGroxerS3Ig4FodDm2/G4g==;mtyd7Kxpkw7aOtsnxyQ0Gw=="
 ---

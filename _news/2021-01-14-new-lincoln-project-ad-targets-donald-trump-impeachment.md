@@ -1115,6 +1115,20 @@ related:
         width: 728
         height: 485
         isCached: true
+  - title: "Siege was 'in the name of the Donald Trump': Rep. Cicilline"
+    excerpt: "Rep. Cicilline. Posted . Democratic Congressman David Cicilline railed against President Donald Trump on Wednesday ahead of T"
+    publishedDateTime: 2021-01-13T20:41:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDV1MRBZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210113&i=OVDV1MRBZ&r=OVDV1MRBZ&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Trump bears responsibility for Capitol attack: House Republican leader"
     excerpt: "President Donald Trump bears responsibility for the attack on the U.S. Capitol last week, House Republican leader Kevin McCarthy said on Wednesday after arguing against the president's impeachment."
     publishedDateTime: 2021-01-13T18:57:00Z
@@ -1985,7 +1999,21 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Trump On Brink Of Unprecedented Second Impeachment"
+    excerpt: "The House of Representatives was set to impeach \"clear and present danger\" President Donald Trump Wednesday, with several key Republicans backing the Democrat-led push to bring down the real estate tycoon in flames a week before he leaves office."
+    publishedDateTime: 2021-01-13T18:21:00Z
+    webUrl: "https://www.ibtimes.com/trump-brink-unprecedented-second-impeachment-3121095"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/08/14/us-speaker-of-the-house-nancy-pelosi-is.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
-secured: "Yiv2wYu/d7kDUrsjPq3jWLOCvnDAj9Y7m9n4DNdoJ+1OgUTa7/ZEaa/XbZXhSwwMj/OUAT0JdkMr8u7DHkryqrapZau8nGGECFwVC4A0E397CJZnGI9W3rT+xJWnbYFFwlvKjVKSc7nZmvA4uO02Q+qmNhX/o9dNaTaTT/DxBHGSHKDp2LrN0lnR+scEMNjbvZeHlSyJLbn8kIIaCPVF3HFJtE7i9cruQWWxahB6Bhpmtl34E/XKh1Ijws9ge7wv37xl2Lm6hy0VkeWTLCXhAy7MEPv6jp2Ir7kjs71e3OtX+wCet7ipAo4czWvyZ1TXCxo/E4wIAlNI+2ASuZm+ID+o+ikQ8pLlkz3+3PjlinI=;Q5mSvhwLC5v8Ii24dXWccQ=="
+secured: "q2wI91GWn5mvDhJBX5y95FZcdWSvvbjWePQrHsazxA0qQZajFPMg/AYfV3IknLsfYLxoN/ciZPh44m0gVJ+8UN2sb00Fd40+OfPfJKi8TvkbZ9xK/LOWIYxIuV7GR7zZRw/vEWhT1tJHijuyOj+8IQ7UFKrb7v6RLOajLoJwJogYeHKL5l5Zto1AJ59w+SXQxRKs07JQn3f8bYkp1ZLwdAzh6sDnou7tcimIJg5t4AjH+QH6iaYn3S7nDSV6bIn7Ff4lPGNgsTMP+1A07bnTdsGwLBBXt60rnGATynpNKViMVxmQpn/wFsAyhstjw3J4VF8oyq8zyoHjveIO3pm8c49M7aZAhYHe+Y3ibRlYpcl5hZrRI1olvMllk4Ddamsk7Z9DuN5bBYst2buipqnblbziHKyKdfFA4DoPCacTlV/n2PqwkDfIGVdZlTvFmEXbXSqVpP5fnfRQLW4C0FND5EYe2TSZg34Z5IdgZ5ZWZeyVbrGBoWVI5jlHVamTKCsiRgWbYQkV5jr26ziAJfb/6w==;se5g7p6bewL4qQyWAAixHw=="
 ---
 

@@ -253,6 +253,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Housing advocates call on Biden to extend eviction ban"
+    excerpt: "Housing advocates around the country are calling on the incoming Biden administration to extend and strengthen the current federal ban on evictions"
+    publishedDateTime: 2021-01-13T20:39:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/housing-advocates-call-biden-extend-eviction-ban-75232044"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/housing-advocates-call-biden-extend-eviction-ban-75232044"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/housing-advocates-call-biden-extend-eviction-ban-75232044"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_662a16230c2f436cacdde5dedaf20a27_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Security concerns mount ahead of Biden inauguration"
+    excerpt: "Concerns are growing over security threats surrounding President-elect Joe Biden’s inauguration next week after the attack on the Capitol rattled the country's confidence and put scrutiny on law enforcement and safety in Washington."
+    publishedDateTime: 2021-01-13T16:09:00Z
+    webUrl: "https://thehill.com/policy/national-security/533938-security-concerns-mount-ahead-of-biden-inauguration"
+    ampWebUrl: "https://thehill.com/policy/national-security/533938-security-concerns-mount-ahead-of-biden-inauguration?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/533938-security-concerns-mount-ahead-of-biden-inauguration?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/capitol_riot_010621upi7_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Two Biden aides will recuse on BlackRock issues as past ties pose questions"
     excerpt: "In 2019, the company won again when the Trump administration cemented an approach that would essentially exempt large companies such as BlackRock from more scrutiny. Now, however, the New York firm — with $7."
     publishedDateTime: 2021-01-02T21:39:00Z
@@ -671,6 +703,6 @@ related:
         height: 630
         isCached: true
 
-secured: "AYv/K7wiuOnt1/hUKO2YdhOS6FKfuSG0Fou8TbuJIOjRP8TXvG0F2nQVm29kSlGlaj91/mkXSXZ5dg8ab9KkdHtzG/cJQCqwZyekJSZR+cFBTsfQkUlv8+jA1SvALpVxx6c1+mqUMLdtsVBfyB3GTYCtJvEizqiHdaCh8cfnciNTFLhsYU+GEmk1Yj3EgzrbM8DhSYVZJDt/7Mcig5MlHjWU6LAfBnbftEXf2l23MR/TdCut7sEiwX6VhyPmo+TAA0jjSPGqGOVIHmv4gVTggq2ZTbKwTvv1YNpZqP3HpiXE6LHoydFJGK9og6H5lKmn45yt3DbctUjDcy2XEwXGdgsx9fimpdehmeIGH+iExrU=;vQpBCZ5NAB+9BhOveyhxIA=="
+secured: "VET4O/WSnjC+GuqK/ztZmwYsBgNxmCmg/eip865MjQ1gHz34ztvtUYZJuRuSl5VIEE8/bx+4gFEuDgDE2vTEVhl4/kkwaa/xfB6fTGA4NYi4jxm+4zoEKjtvjvXOCbcHGJAESZD3ACF+6/A08j0jPJXaiadK3n4/9TbJb5Wfzor7Au/SoQVVY3ygjKTlCRjWmJKIH80PgD+6GLRy124/bpl9a5OgGNrEUfvkp8zMyS9T/soZAZMNnrpRryl9iU7sS/GiOqo34Uz23gq6c5s1bDLXEWREcS/1dUTI9NOQjJKyaPe1uRK4iLeDr448rXlYkZPpjlYynd9NSu0K2HdaeOMPNrHJUtiKTGnPRMgvjtNi/p+vNfagO7SOjBpeUDFwPpg5Bm4ydzCVFKsh5b0VK1TbRdgw7vbe18bn3ZINVHYnXMiMlA+/wtq492gAvUcR0wCydOXKgAMLr58tu5MBiUEPix5Pdv6eP+FyUStZDMaBT8TAexQZV7xLSA0Jvf5jUE/f3T5+xmLBvWhDpCoirA==;zdroqiyKoMB1SdmEONbnQw=="
 ---
 

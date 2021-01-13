@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump bears some responsibility for Capitol riot, ex-DHS acting Secretary Chad Wolf says "
+    excerpt: "Chad Wolf, who resigned as Homeland Security acting secretary two days ago, said Wednesday that President Donald Trump bears some responsibility for the events at the US Capitol last week.\n    \n"
+    publishedDateTime: 2021-01-13T20:38:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BcVq82jvHbE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/chad-wolf-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/chad-wolf-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921105920-chad-wolf-trump-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump directed Pentagon to reverse decision and keep aircraft carrier in Middle East amid Iran tensions"
     excerpt: "At the direction of President Donald Trump, acting Secretary of Defense Christopher Miller ordered a US aircraft carrier to return to the Middle East following a White House meeting Sunday, according to a senior defense official.\n    \n"
     publishedDateTime: 2021-01-04T14:42:25Z
