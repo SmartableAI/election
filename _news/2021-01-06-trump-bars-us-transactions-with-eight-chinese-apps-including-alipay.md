@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29A2PA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29A2PA"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547238775&r=LYNXMPEH080FJ&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "U.S. Chamber CEO says Trump undermined U.S. democratic institutions"
+    excerpt: "U.S. Chamber of Commerce CEO Thomas Donohue issued a stinging rebuke to President Donald Trump on Tuesday, calling Trump's actions last week in connection with rioting at the U.S. Capitol \"absolutely unacceptable and completely inexcusable."
+    publishedDateTime: 2021-01-13T00:39:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-chamber/us-chamber-ceo-says-trump-undermined-us-democratic-institutions-idUSKBN29H2PM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547540499&r=LYNXMPEH0B1FF&w=800"
+        width: 728
+        height: 485
         isCached: true
   - title: "EXCLUSIVE-Trump signs order banning transactions with eight Chinese apps including Alipay"
     excerpt: "U.S. President Donald Trump on Tuesday signed an executive order banning transactions with eight Chinese software applications, including Ant Group's Alipay, a senior administration official said, escalating tensions with Beijing before President-elect Joe Biden takes"

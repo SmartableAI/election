@@ -189,6 +189,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cheney, Katko first House Republicans to back Trump impeachment"
+    excerpt: "House GOP Conference Chairwoman Liz Cheney of Wyoming and Rep. John Katko of New York are planning to support Democrats' effort to impeach President Trump after last week's riots at the U.S. Capitol, Fox News has confirmed."
+    publishedDateTime: 2021-01-12T23:17:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DSDUHKWo4UE/john-katko-cheney-gop-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/john-katko-cheney-gop-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-katko-cheney-gop-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "House Dem apologizing for comparing new Trump impeachment to a 'lynching'"
     excerpt: "An Oregon Democrat is apologizing for likening a second impeachment of President Trump to a \"lynching.\""
     publishedDateTime: 2021-01-09T23:29:59Z

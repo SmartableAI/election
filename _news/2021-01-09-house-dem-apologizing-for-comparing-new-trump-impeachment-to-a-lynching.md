@@ -191,6 +191,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cheney, Katko first House Republicans to back Trump impeachment"
+    excerpt: "House GOP Conference Chairwoman Liz Cheney of Wyoming and Rep. John Katko of New York are planning to support Democrats' effort to impeach President Trump after last week's riots at the U.S. Capitol, Fox News has confirmed."
+    publishedDateTime: 2021-01-12T23:17:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DSDUHKWo4UE/john-katko-cheney-gop-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/john-katko-cheney-gop-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-katko-cheney-gop-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "All the Trump officials who have resigned after the DC protest at the Capitol"
     excerpt: "The number has continued to climb a little more each day, but it has yet to reach the level of an exodus."
     publishedDateTime: 2021-01-09T20:43:51Z

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-13-rep-kevin-mccarthy-is-open-to-censuring-trump-source.md",
+      "title": "Rep. Kevin McCarthy is open to censuring Trump: source",
+      "excerpt": "House Minority Leader Kevin McCarthy is open to censuring President Trump, a source familiar with his thinking told Fox News Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TJ8hTccq63A/mccarthy-censuring-trump-capitol-riots",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TJ8hTccq63A/mccarthy-censuring-trump-capitol-riots",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mccarthy-censuring-trump-capitol-riots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-censuring-trump-capitol-riots.amp",
+      "publishedDateTime": "2021-01-12T16:24:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-trump-says-i-kept-my-promises-as-he-marks-450-miles-of-border-wall-amid-riot-fallout-in-dc.md",
       "title": "Trump says 'I kept my promises' as he marks 450 miles of border wall, amid riot fallout in DC",
       "excerpt": "President Trump on Tuesday declared “I kept my promises” on his pledge to build a wall at the southern border, as he marked 450 miles of construction -- as he also tackled fallout from the riot at the Capitol last week.",
@@ -238,7 +294,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 770,
+      "heat": 790,
       "tags": null,
       "images": [
         {
@@ -311,62 +367,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/neera-tanden-salary-center-for-american-progress.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/neera-tanden-salary-center-for-american-progress.amp",
       "publishedDateTime": "2021-01-12T04:42:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-trump-acknowledged-he-bears-some-blame-for-capitol-riot-in-conversation-with-mccarthy-sources.md",
-      "title": "Trump acknowledged he bears some blame for Capitol riot in conversation with McCarthy: sources",
-      "excerpt": "President Trump acknowledged that he bears some blame for the Capitol riot last week during a conversation with House Republican Leader Kevin McCarthy, a source familiar told Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_IovXsLr9Vc/trump-acknowledged-he-bears-some-blame-for-capitol-riot-last-week-in-call-with-mccarthy-sources",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_IovXsLr9Vc/trump-acknowledged-he-bears-some-blame-for-capitol-riot-last-week-in-call-with-mccarthy-sources",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-acknowledged-he-bears-some-blame-for-capitol-riot-last-week-in-call-with-mccarthy-sources.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-acknowledged-he-bears-some-blame-for-capitol-riot-last-week-in-call-with-mccarthy-sources.amp",
-      "publishedDateTime": "2021-01-11T17:00:56-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

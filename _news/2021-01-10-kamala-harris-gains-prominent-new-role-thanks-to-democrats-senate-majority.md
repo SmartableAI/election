@@ -32,101 +32,65 @@ images:
     isCached: true
 
 related:
-  - title: "Read: House Democrats' draft of a new article of impeachment against Trump"
-    excerpt: "House Democrats have circulated a draft of a new impeachment resolution against President Donald Trump with one article of impeachment, \"incitement of insurrection.\"\n    \n"
-    publishedDateTime: 2021-01-08T20:37:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zserCShr2rE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/trump-article-of-impeachment-draft/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/trump-article-of-impeachment-draft/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108140605-01-inauguration-preparations-0107-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Read: Schumer calls for Trump's removal using the 25th Amendment, says he 'should not hold office one day longer'"
-    excerpt: "Senate Minority Leader Chuck Schumer on Thursday released a statement calling for President Donald Trump to be removed from office one day after a pro-Trump mob stormed the Capitol.\n    \n"
-    publishedDateTime: 2021-01-07T18:05:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZXc1TsO0ylw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 154
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106142900-schumer-electoral-college-count-0106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "'Immediate removal' of President Trump: Full Hakeem Jeffries Interview"
-    excerpt: "In an exclusive interview with Meet the Press, Rep. Hakeem Jeffries (D-N.Y.), Chair, House Democratic Caucus, talks to Chuck Todd about the Democrats' impeachment plans."
-    publishedDateTime: 2021-01-10T14:32:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/-immediate-removal-of-president-trump-full-hakeem-jeffries-interview-99225157671"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99225157671"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99225157671"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/1610288735582_mtp_full_hakeem_210110_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Live updates: House to vote on Trump impeachment, 25th amendment resolutions"
-    excerpt: "Lawmakers are expected to take up the 25th Amendment measure Tuesday night and the impeachment resolution Wednesday morning."
-    publishedDateTime: 2021-01-12T11:39:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-01-12-trump-impeachment-25th-amendment-n1253803"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253803"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253803"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3441298/210111-impeachment-live-blog-main-cover-cs_91340e85bc6e0b139559e1ddd2593605.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
-  - title: "Live Updates: Pelosi Threatens Impeachment if Trump Doesn’t Resign ‘Immediately’"
-    excerpt: "The House could vote on impeachment next week. President Trump will not attend President-elect Joe Biden’s inauguration. With less than two weeks left of Mr. Trump’s presidency, a wave of resignations hits his cabinet."
-    publishedDateTime: 2021-01-08T14:19:00Z
-    webUrl: "https://www.nytimes.com/live/2021/01/08/us/trump-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2021/01/08/us/trump-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/08/us/trump-biden.amp.html"
+  - title: "Meena Harris, Building That Brand"
+    excerpt: "Kamala Harris’s niece is building her own empire with statement T-shirts. Just don’t define her by her family."
+    publishedDateTime: 2021-01-09T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/09/style/meena-harris-building-that-brand.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/09/style/meena-harris-building-that-brand.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/09/style/meena-harris-building-that-brand.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 130
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/01/08/us/politics/08transition-briefing-impeach-sub/08transition-briefing-impeach-sub-videoSixteenByNineJumbo1600.jpg"
-        width: 1600
-        height: 900
+      - url: "https://static01.nyt.com/images/2021/01/10/fashion/10MEENACVR/10MEENACVR-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
-  - title: "'He threatened the integrity of the democratic system': House introduces one article of impeachment against Trump"
-    excerpt: "House Democrats introduced an article of impeachment against President Donald Trump on Monday for \"incitement of insurrection\" when his supporters violently breached the Capitol last Wednesday. The measure,"
-    publishedDateTime: 2021-01-11T17:39:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/house-democrats-consider-impeachment-25th-amendment-measures-n1253693"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253693"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253693"
+  - title: "How a Vogue Cover Created an Uproar Over Kamala Harris"
+    excerpt: "The vice president-elect is on the cover of the U.S. fashion magazine. Many people are not happy with the result."
+    publishedDateTime: 2021-01-11T19:43:00Z
+    webUrl: "https://www.nytimes.com/2021/01/11/style/kamala-harris-vogue.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/11/style/kamala-harris-vogue.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/11/style/kamala-harris-vogue.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 114
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3441145/2001011-nancy-pelosi-mn-0731_2d44f135b81cd87e860d666f51b53766.jpg"
-        width: 2500
-        height: 1663
+      - url: "https://static01.nyt.com/images/2021/01/11/fashion/11Kamala-Vogue-1/11Kamala-Vogue-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "In photos: Vice President-elect Kamala Harris"
+    excerpt: "US Sen. Kamala Harris will be the next vice president of the United States, CNN projects. She will be the first woman to hold the office. She will also be the nation's first Black and South Asian vice president."
+    publishedDateTime: 2021-01-08T21:51:00Z
+    webUrl: "https://www.cnn.com/2021/01/08/politics/gallery/kamala-harris/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200729122210-kamala-harris-april-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Kamala Harris' casual Vogue cover causes stir online"
+    excerpt: "Kamala Harris' forthcoming appearance in American Vogue has sparked criticism for appearing casual and \"washed out,\" with the Vice President-elect's team blindsided by the magazine's choice of cover."
+    publishedDateTime: 2021-01-11T06:43:00Z
+    webUrl: "https://www.cnn.com/style/article/kamala-harris-vogue-cover/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210110225724-01-vogue-kamala-harris-cover-card-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "JZvxjbZTPZ51oToTCdD+JtsCkNXaYmhDVnx4YSFC1zI+RYe3yetyZxeYj6AiZNZtO5juvnVM3a0HmC/xWuUkt5u/V4dPVH/gKO25s20uDNLeHStgY/9xj39s3v0NPf97LJ73gML43BDQso6y9jiFM1RZc9flaScO2SiqqyErP8ftcITC5zaCZXlUNSVlYTN73HRLix/re/zWxJWfzQFLy0ZqPYLhclEj5r0u/4h721CJHMIUko/szfetkWOklmVwshoGIqcJYToxzHWHeVuTgv6kjW2CaQx3aYieymqRxQx6uMiGEBcJlEPdjyaFw/Etn9s74d6hqq5rRtTXAZh42qYUMF3dgkrgWTILFr0IwaWncOaBNs5bucXgPReuVkSZzNDDfQWq4sbPD8GimZ1v8cx7fNztTO73YTD+5g/VmKYypaE0S8bGbHFwEVfdGM2vIWgGd0eKn7XBfaqMcsZBzp2U/Qti0LB9fk+cM1mbDtiijoHS+BQe8DQOsHqcRCL2RR8TvDoz8BvWy6h7Y6Rtnw==;M9dL2yKpE3P2xZviKtd4fg=="

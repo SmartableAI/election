@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "READ: Liz Cheney's statement saying she will vote to impeach Trump"
+    excerpt: "Republican Rep. Liz Cheney of Wyoming announced Tuesday that she will vote to impeach President Donald Trump. Cheney is the third-highest ranking GOP leader in the US House of Representatives.\n    \n"
+    publishedDateTime: 2021-01-12T23:22:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/y3De_XLsBWo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/liz-cheney-trump-impeachment-statement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/liz-cheney-trump-impeachment-statement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180817124025-01-liz-cheney-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP lawmaker 'strongly considering' impeachment: Trump is 'no longer qualified to hold that office'"
     excerpt: "Michigan GOP Rep. Peter Meijer said Monday evening he is \"strongly considering\" voting to impeach President Donald Trump following last week's riot at the  US Capitol, assessing that the President is \"no longer qualified to hold that office.\"\n    \n"
     publishedDateTime: 2021-01-12T02:19:32Z

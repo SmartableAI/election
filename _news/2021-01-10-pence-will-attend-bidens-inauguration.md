@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 1720
+heat: 1740
 published: true
 
 provider:
@@ -927,6 +927,22 @@ related:
       - url: "https://static.politico.com/f8/80/211f999a4d2ebbda9c8a0c0c5082/210110-zients-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden facing setbacks battling climate change"
+    excerpt: "President-elect Joe Biden campaigned heavily on his plans for climate change during the election, including a two trillion-dollar environmental policy plan. NBC News’ Dasha Burns takes a look at Biden’s intentions and where he may face setbacks."
+    publishedDateTime: 2021-01-12T23:35:00Z
+    webUrl: "https://www.nbcnews.com/now/video/biden-facing-setbacks-battling-climate-change-99349573854"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99349573854"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99349573854"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/ott_now_biden_climatecplan_210112_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Congress affirms Biden as president after completing electoral vote count"
     excerpt: "After a day of riots at the Capitol, Congress counted the Electoral College votes and confirmed the win for President-elect Joe Biden and Vice President-elect Kamala Harris."

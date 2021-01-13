@@ -1,0 +1,133 @@
+---
+category: news
+title: "Liz Cheney, No. 3 House Republican, to vote to impeach Trump"
+excerpt: "Wyoming Republican Rep. Liz Cheney, the party's third-ranking House leader, announced on Tuesday that she will vote to impeach President Donald Trump, becoming the highest-ranking official from her party to support charging and removing him from office following the Trump-incited riot at the Capitol"
+publishedDateTime: 2021-01-13T00:09:26Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zMF1_XHZTPQ/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zMF1_XHZTPQ/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html"
+type: article
+quality: 175
+heat: 295
+published: true
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200723145511-liz-cheney-trump-split-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Read: House Democrats' draft of a new article of impeachment against Trump"
+    excerpt: "House Democrats have circulated a draft of a new impeachment resolution against President Donald Trump with one article of impeachment, \"incitement of insurrection.\"\n    \n"
+    publishedDateTime: 2021-01-08T20:37:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zserCShr2rE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/trump-article-of-impeachment-draft/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/trump-article-of-impeachment-draft/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108140605-01-inauguration-preparations-0107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Republican Sen. Pat Toomey says he thinks Trump 'committed impeachable offenses' "
+    excerpt: "Republican Sen. Pat Toomey of Pennsylvania said Saturday he thinks President Donald Trump \"committed impeachable offenses,\" but said he is not certain attempting to remove the President from office with just a few days left in his term is the right course of action.\n    \n"
+    publishedDateTime: 2021-01-10T00:48:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qgJsRpga2A8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/pat-toomey-trump-impeachable-offenses/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/pat-toomey-trump-impeachable-offenses/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210109192336-pat-toomey-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "State Department political appointee fired by White House after tweeting Trump was unfit for office"
+    excerpt: "A State Department political appointee was fired by the White House Thursday after tweeting on Wednesday evening that President Donald Trump is unfit for office and was to blame for the mob attack on the US Capitol, according to two sources familiar with the firing.\n    \n"
+    publishedDateTime: 2021-01-07T20:11:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/895bHnfM2yQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/gabriel-noronha-fired-tweet/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/gabriel-noronha-fired-tweet/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130603131322-state-dept-exterior-file-gi-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Read: Schumer calls for Trump's removal using the 25th Amendment, says he 'should not hold office one day longer'"
+    excerpt: "Senate Minority Leader Chuck Schumer on Thursday released a statement calling for President Donald Trump to be removed from office one day after a pro-Trump mob stormed the Capitol.\n    \n"
+    publishedDateTime: 2021-01-07T18:05:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZXc1TsO0ylw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106142900-schumer-electoral-college-count-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "McConnell believes impeachment push will help rid Trump from the GOP, but has not said if he will vote to convict"
+    excerpt: "Senate Majority Leader Mitch McConnell has told associates that he thinks President Donald Trump committed impeachable offenses when he incited a deadly mob to attack the US Capitol last week and that he's \"pleased\" Democrats are working to impeach the President, The New York Times reported Tuesday.\n"
+    publishedDateTime: 2021-01-12T22:54:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rHZZFgzp_XU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/mcconnell-impeachment-trump-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/mcconnell-impeachment-trump-capitol-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191210122028-01-mcconnell-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Live updates: House to vote on Trump impeachment, 25th amendment resolutions"
+    excerpt: "Lawmakers are expected to take up the 25th Amendment measure Tuesday night and the impeachment resolution Wednesday morning."
+    publishedDateTime: 2021-01-12T11:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-01-12-trump-impeachment-25th-amendment-n1253803"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253803"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253803"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3441298/210111-impeachment-live-blog-main-cover-cs_91340e85bc6e0b139559e1ddd2593605.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+
+secured: "60sZfYg1ej5xJQHDBS20AawtWbIXFN6lM/EQBi4WLQAnz971LjSk3UFNzfrBAulWEUDtel4RYhMKu5doCcKCw5GLtaN+Q/vqiUoT2xcyIMkrkCssjHccAOC8o0SXx/JL6V9toqFV81eDdb0Nx4IZfSZrKmh4DJKEyeXj0YJl7jQtGOEBsRCbJBqAksIdgf21CNFky/XS638647Tain7asqscMrMWiMHG3x0DA657koc6V7sZGfz490pdV1W/2ef48GVghva5iWL4SA6KVybYxYiIa2P8Eee5fzgjGzFDT5VZTu+vKy33yvLY3hl/jyjd87URSPko+hrcHEicxceprjxkWoDIfpygPuRvEoxfA8Y=;G7E7odFNwN6qfkglx/FvlA=="
+---
+

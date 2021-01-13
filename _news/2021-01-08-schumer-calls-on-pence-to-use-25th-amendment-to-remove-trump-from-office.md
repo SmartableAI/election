@@ -1979,6 +1979,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Key steps in Trump Organization criminal probe stall as investigators await Supreme Court decision"
+    excerpt: "The Manhattan district attorney's criminal investigation into President Donald Trump's business has slowed as investigators wait for a ruling by the US Supreme Court, according to people familiar with the investigation, making it likely that a decision on whether there is a case to bring will be weeks"
+    publishedDateTime: 2021-01-12T23:00:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ss7Tjs_pTas/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 141
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112120717-donald-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Facing calls for his removal, Trump reverses positions on election loss, rioters and Covid"
     excerpt: "Facing calls for his removal, Trump reverses positions on election loss, rioters and Covid A day after he told his supporters \"we love you,\" President Donald Trump condemned them Thursday for violently swarming the U."
     publishedDateTime: 2021-01-08T02:13:00Z
@@ -2346,6 +2360,38 @@ related:
       - url: "https://static.politico.com/57/a9/5875562447949d800879de4b1b9b/gettyimages-1230470209-c.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Live updates: House readies for quick action against Trump"
+    excerpt: "Lawmakers are expected to take up the 25th Amendment measure Tuesday night and the impeachment resolution Wednesday morning."
+    publishedDateTime: 2021-01-13T00:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-01-12-trump-impeachment-25th-amendment-n1253803"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253803"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253803"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3441298/210111-impeachment-live-blog-main-cover-cs_91340e85bc6e0b139559e1ddd2593605.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+  - title: "What Was Donald Trump’s Twitter?"
+    excerpt: "I’m going to be very restrained, if I use it at all,” Donald Trump told us in 2016. Something else happened. Each of the big social platforms handled the challenges of the Trump presidency in its own unique way,"
+    publishedDateTime: 2021-01-12T23:10:00Z
+    webUrl: "https://www.nytimes.com/2021/01/12/style/trump-twitter-ban.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/12/style/trump-twitter-ban.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/12/style/trump-twitter-ban.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/11/fashion/00twitter-oops/00twitter-oops-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "The ‘Resistance’ Formed Because of Trump, With an Assist From Jon Ossoff"
     excerpt: "Mr. Ossoff’s 2017 special election was the first campaign Democrats had to focus on, after the shock of President Trump’s win. He lost, but the organizations formed around that race kept growing."
@@ -2784,6 +2830,20 @@ related:
         height: 773
         isCached: true
   - title: "Donald Trump has no regrets"
+    excerpt: "Debbie Dingell (D-Mich.) plans to introduce legislation Tuesday to impose a $1,000 fine on members who refuse to wear masks while in the U.S. Capitol complex.” TRUMP HAS NO REGRETS … NYT: “Answering questions from reporters for the first time since the violence at the Capitol on Wednesday,"
+    publishedDateTime: 2021-01-12T18:11:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/01/12/donald-trump-has-no-regrets-491378"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/74/78/002243ea46a6b8741002cc5f8445/210112-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "POLITICO Playbook PM: Donald Trump has no regrets"
     excerpt: "Debbie Dingell (D-Mich.) plans to introduce legislation Tuesday to impose a $1,000 fine on members who refuse to wear masks while in the U.S. Capitol complex.” TRUMP HAS NO REGRETS … NYT: “Answering questions from reporters for the first time since the violence at the Capitol on Wednesday,"
     publishedDateTime: 2021-01-12T18:11:00Z
     webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/01/12/donald-trump-has-no-regrets-491378"

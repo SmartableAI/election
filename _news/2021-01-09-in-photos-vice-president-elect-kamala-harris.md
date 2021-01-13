@@ -62,6 +62,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris gains prominent new role thanks to Democrats' Senate majority"
+    excerpt: "Kamala Harris’s vice presidential portfolio was nebulous before last week. But thanks to Democrats’ upset victories in two Georgia Senate run-offs, Harris has unexpectedly earned a new title: Senate tie breaker."
+    publishedDateTime: 2021-01-10T12:00:00Z
+    webUrl: "https://www.politico.com/news/2021/01/10/kamala-harris-democrat-senate-majority-456910"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/10/kamala-harris-democrat-senate-majority-456910"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/10/kamala-harris-democrat-senate-majority-456910"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 133
+    images:
+      - url: "https://static.politico.com/b5/0a/a4786468485394b0c4c00fa489a5/210109-kamala-harris-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Kamala Harris' casual Vogue cover causes stir online"
     excerpt: "Kamala Harris' forthcoming appearance in American Vogue has sparked criticism for appearing casual and \"washed out,\" with the Vice President-elect's team blindsided by the magazine's choice of cover."
     publishedDateTime: 2021-01-11T06:43:00Z

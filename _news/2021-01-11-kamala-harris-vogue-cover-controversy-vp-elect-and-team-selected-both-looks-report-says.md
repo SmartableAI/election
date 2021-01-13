@@ -111,6 +111,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Kamala Harris' team says they were blindsided by controversial Vogue cover; Anna Wintour responds"
+    excerpt: "Vice President-elect Kamala Harris is splashed on the February cover of Vogue, but social media isn't crazy about the magazine's photo choice."
+    publishedDateTime: 2021-01-13T00:21:00Z
+    webUrl: "https://www.freep.com/story/entertainment/celebrities/2021/01/10/kamala-harris-vogues-cover-star-but-twitter-users-hate-photo/6615222002/"
+    ampWebUrl: "https://amp.freep.com/amp/6615222002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6615222002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 62
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/10/USAT/af029ec2-8407-4920-9107-97d66d067e40-VO0221_Cover_4x5.jpg?auto=webp&crop=1599,899,x0,y17&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "5+y4EUOkHJkgMcuJw7IeNuPJVBzCxom5zGC/zbM6G83hfGZ5r/4pdckXv9coIU9s2PL0GtM6EOZYeQNKdjLxpycGBpKDaM/Y3aACVypevXqH37Mg1HhgxeH6xNsUIFWMZPWuCuQWX7UNYrImIqjWZOT2hkpbE4jenlUZrcxoWdFpJBFkKVqefV/Rjuqqqm9WDJI2sbVI3I36T+iFpYYTXMzwWQ9Yys16liURAKQThTqH/87paI7FfiSMfJn4tdC+9m7MR1EwYmVK1qnLjrW8hfMAlrmA2WpittW/BiND6Z6/KPuZWh5odsdsl04y0jb7+mgswwRxD1wb95lmrNcCpnaiVPbzMou06guxaEkD7gjuKvvq9ef7lar1Hc9mo+UjgEg8Km/n/cXmWMRgGJktksvx5ZMyesisimtPNTd40DsSsvfNTJdh1LNhW55CwKhN6SYJNJ/OWPtx7dnQfzmooQp4RbZd8BBhZ6coe3E3DsPWYuIktTpmVg5Jfww7U5xfYLm0bImGXSPeuF70C6jwgQ==;/xRdfTHQ6ciCpG72Bwq8cA=="
 ---

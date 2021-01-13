@@ -75,6 +75,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Democrats poised to impeach defiant Trump over storming of U.S. Capitol"
+    excerpt: "A fiery debate opened in the U.S. House of Representatives on Tuesday over a Democratic-led effort to remove President Donald Trump from office for inciting supporters who stormed the Capitol last week,"
+    publishedDateTime: 2021-01-13T00:15:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/democrats-press-ahead-with-drive-to-impeach-trump-after-capitol-siege-idUSKBN29H0JJ?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Donald Trump Could Pardon Rappers Lil Wayne, Kodak Black"
     excerpt: "Lil Wayne and Kodak Black might get a pardon from Donald Trump The president is expected to announce his final pardon list on Jan. 19 Wayne and Black were charged for possession of weapons Rappers Lil Wayne and Kodak Black could soon walk away as free men since President Donald Trump could be thinking of pardoning both artists before he leaves the office on Jan."
     publishedDateTime: 2021-01-12T05:36:00Z

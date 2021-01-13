@@ -944,6 +944,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden facing setbacks battling climate change"
+    excerpt: "President-elect Joe Biden campaigned heavily on his plans for climate change during the election, including a two trillion-dollar environmental policy plan. NBC News’ Dasha Burns takes a look at Biden’s intentions and where he may face setbacks."
+    publishedDateTime: 2021-01-12T23:35:00Z
+    webUrl: "https://www.nbcnews.com/now/video/biden-facing-setbacks-battling-climate-change-99349573854"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99349573854"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99349573854"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/ott_now_biden_climatecplan_210112_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden Plans Minimalist Trip From Capitol to White House on Inauguration Day"
     excerpt: "Joe Biden’s inaugural committee suggested the traditional crowd-lined ride down Pennsylvania Avenue would be replaced by a “virtual parade.”"
     publishedDateTime: 2021-01-04T03:07:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/images-and-soundbitesus-vice-president-elect-kamala-harris.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Kamala Harris' team says they were blindsided by controversial Vogue cover; Anna Wintour responds"
+    excerpt: "Vice President-elect Kamala Harris is splashed on the February cover of Vogue, but social media isn't crazy about the magazine's photo choice."
+    publishedDateTime: 2021-01-13T00:21:00Z
+    webUrl: "https://www.freep.com/story/entertainment/celebrities/2021/01/10/kamala-harris-vogues-cover-star-but-twitter-users-hate-photo/6615222002/"
+    ampWebUrl: "https://amp.freep.com/amp/6615222002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6615222002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 62
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/10/USAT/af029ec2-8407-4920-9107-97d66d067e40-VO0221_Cover_4x5.jpg?auto=webp&crop=1599,899,x0,y17&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "l5W02/mAO+ublQ/oX0b5Btr45AdyqTcqSX4naH1p4lb4VdFGJReDIh/8HifYxEtGrGMTboOYhSOG4C1ixb82EC21NISuC9Zz+Y99/IXlc3f2kfIjQ+r+7f89uvRmfMe1gTPdOzd6vt4dMPzBO5vZQ83XH+uJGSsOL9qrM+0BWbiog0E0H918NIryYCbZfXnARmu8egSSKMWNVHCs4b8NQnzvP14Em4qXg81/IHExGEwDzQXsSpYojJCQQDolZhQv7eLDpoNMXazI/xidOlshVa53NYo7/fDOQ4SrFgHFFX4D/Y1JOd3582JNPwIi2OV6LcFBURJdzLA08QwKj5Y19E8SVPFM/ObSY23Ezu3asIMEdxQz34aovGAqGYhE8lV3Fc+kWm7kMWDPAe0jFs4Sx/U5n0o6B8oFPj1j2dEOM5iVpkW31WUlukwZ+9W7WhEQqCZduTVUNc7k8VUxxgHt5stnFNAiCWbArEkHaeSXl5F1NV0pFmWR2fIo4FsXhhT2WqGhTU9T8Xyu3OMCRI3d4Q==;AfbDQnuCCXkiCvUJdRFLYw=="

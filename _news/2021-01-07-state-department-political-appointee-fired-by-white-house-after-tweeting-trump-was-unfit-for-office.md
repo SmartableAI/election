@@ -31,37 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Angry staffer appears to be behind State Department website edits saying Trump's term is over"
-    excerpt: "A disgruntled State Department employee appears to have been behind bizarre changes to the department website Monday that stated that President Donald Trump and Vice President Mike Pence's terms were over, two sources told CNN.\n    \n"
-    publishedDateTime: 2021-01-11T23:44:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pk1Yf6xmJzo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/state-department-website-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/state-department-website-trump/index.html"
+  - title: "Liz Cheney, No. 3 House Republican, to vote to impeach Trump"
+    excerpt: "Wyoming Republican Rep. Liz Cheney, the party's third-ranking House leader, announced on Tuesday that she will vote to impeach President Donald Trump, becoming the highest-ranking official from her party to support charging and removing him from office following the Trump-incited riot at the Capitol"
+    publishedDateTime: 2021-01-13T00:09:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zMF1_XHZTPQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160330182055-state-department-logo-2007-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200723145511-liz-cheney-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "PGA pulls major 2022 tournament from Trump's Bedminster days after deadly riot"
-    excerpt: "Playing at the New Jersey golf course \"would be detrimental to the PGA of America brand,\" the association president said."
-    publishedDateTime: 2021-01-11T04:21:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/pga-pulls-major-2022-tournament-trump-s-bedminster-days-after-n1253371"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253371"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253371"
+  - title: "Read: House Democrats' draft of a new article of impeachment against Trump"
+    excerpt: "House Democrats have circulated a draft of a new impeachment resolution against President Donald Trump with one article of impeachment, \"incitement of insurrection.\"\n    \n"
+    publishedDateTime: 2021-01-08T20:37:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zserCShr2rE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/trump-article-of-impeachment-draft/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/trump-article-of-impeachment-draft/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108140605-01-inauguration-preparations-0107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Republican Sen. Pat Toomey says he thinks Trump 'committed impeachable offenses' "
+    excerpt: "Republican Sen. Pat Toomey of Pennsylvania said Saturday he thinks President Donald Trump \"committed impeachable offenses,\" but said he is not certain attempting to remove the President from office with just a few days left in his term is the right course of action.\n    \n"
+    publishedDateTime: 2021-01-10T00:48:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qgJsRpga2A8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/pat-toomey-trump-impeachable-offenses/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/pat-toomey-trump-impeachable-offenses/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210109192336-pat-toomey-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Read: Schumer calls for Trump's removal using the 25th Amendment, says he 'should not hold office one day longer'"
+    excerpt: "Senate Minority Leader Chuck Schumer on Thursday released a statement calling for President Donald Trump to be removed from office one day after a pro-Trump mob stormed the Capitol.\n    \n"
+    publishedDateTime: 2021-01-07T18:05:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZXc1TsO0ylw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106142900-schumer-electoral-college-count-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "McConnell believes impeachment push will help rid Trump from the GOP, but has not said if he will vote to convict"
+    excerpt: "Senate Majority Leader Mitch McConnell has told associates that he thinks President Donald Trump committed impeachable offenses when he incited a deadly mob to attack the US Capitol last week and that he's \"pleased\" Democrats are working to impeach the President, The New York Times reported Tuesday.\n"
+    publishedDateTime: 2021-01-12T22:54:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rHZZFgzp_XU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/mcconnell-impeachment-trump-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/mcconnell-impeachment-trump-capitol-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191210122028-01-mcconnell-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Live updates: House to vote on Trump impeachment, 25th amendment resolutions"
+    excerpt: "Lawmakers are expected to take up the 25th Amendment measure Tuesday night and the impeachment resolution Wednesday morning."
+    publishedDateTime: 2021-01-12T11:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-01-12-trump-impeachment-25th-amendment-n1253803"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253803"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253803"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 131
+    quality: 132
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_01/3440542/210107-bedminster-golf-club-ew-437p_75076742c4f9d6f2d806e79f607548f8.jpg"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3441298/210111-impeachment-live-blog-main-cover-cs_91340e85bc6e0b139559e1ddd2593605.jpg"
         width: 2500
-        height: 1667
+        height: 1250
         isCached: true
 
 secured: "jwb5pLne+0azmhH2j39t5hhlbftJgbeAMUqr/FyRjWBYGnDVInfO4jRpqe6W0yAIHeYgAxvoXn/yOh7nbcYDR7fK8k3I/o6jPtCoLGndPTnoD4v09wMhb+YMhYvaKoiocTraCaXZPGjTG3hWlYNZe3+Q4x/Odv8mYRWDhb83Lx+ds9gzy9ZR8VMarx4VgBEtIAqUTMF9d6ukgIvDUJNtgGmCiBp1a+N0Zn4P1Pfd4hnMShUG2LArooE5Az9czYOgBPw4NvdmjRiopRHcmV4nQE/M9CvZlU6TniYMxbWvI4Ub+d/Y166R7bal/JWvat3wUselMn2H8wINb8Xw0IAgyCoyw7thSYEn8i5nHIjAUiI=;VvqYeCLz8Y2aG4E3PdqvUg=="

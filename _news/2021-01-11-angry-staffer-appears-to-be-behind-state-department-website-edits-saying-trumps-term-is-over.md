@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/state-department-website
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/state-department-website-trump/index.html"
 type: article
 quality: 164
-heat: 204
+heat: 184
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "State Department political appointee fired by White House after tweeting Trump was unfit for office"
-    excerpt: "A State Department political appointee was fired by the White House Thursday after tweeting on Wednesday evening that President Donald Trump is unfit for office and was to blame for the mob attack on the US Capitol, according to two sources familiar with the firing.\n    \n"
-    publishedDateTime: 2021-01-07T20:11:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/895bHnfM2yQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/gabriel-noronha-fired-tweet/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/gabriel-noronha-fired-tweet/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130603131322-state-dept-exterior-file-gi-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "PGA pulls major 2022 tournament from Trump's Bedminster days after deadly riot"
     excerpt: "Playing at the New Jersey golf course \"would be detrimental to the PGA of America brand,\" the association president said."
     publishedDateTime: 2021-01-11T04:21:00Z

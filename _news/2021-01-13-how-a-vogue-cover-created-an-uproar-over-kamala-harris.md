@@ -2,30 +2,26 @@
 category: news
 title: "How a Vogue cover created an uproar over Kamala Harris"
 excerpt: "Though it might seem, in light of all that is going on in Washington, D.C., the least of the matter, on Sunday a leaked shot of Vice President-elect’s Kamala Harris’ Vogue cover set off an unexpected firestorm."
-publishedDateTime: 2021-01-12T16:10:00Z
-originalUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
-webUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
-ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+publishedDateTime: 2021-01-12T19:03:00Z
+originalUrl: "https://www.baltimoresun.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
+webUrl: "https://www.baltimoresun.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
+ampWebUrl: "https://www.baltimoresun.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
 type: article
-quality: 125
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
+  - url: "https://www.baltimoresun.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -262,6 +258,20 @@ related:
       - url: "https://www.washingtonpost.com/resizer/k3ZQvOTLDBZO9_bKaTcrxAw1380=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MEDDNWFIAUI6TEQUERXFSTPF2U.jpg"
         width: 1484
         height: 989
+        isCached: true
+  - title: "Preview: Kamala Harris on \"Sunday Morning\""
+    excerpt: "Elect Kamala Harris and her husband Douglas Emoff sit down with “CBS Sunday Morning\" anchor Jane Pauley in their first joint TV interview since last week's assault on the Capitol. In this preview clip Harris discusses the priorities for the incoming Biden administration."
+    publishedDateTime: 2021-01-13T00:36:00Z
+    webUrl: "https://www.cbsnews.com/video/preview-kamala-harris-on-sunday-morning/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/13/dea7c7eb-a5ef-4aba-b602-d922f6c2f240/thumbnail/1200x630/5678a150583bd1acc4b3d19e2d90bf55/0112-en-sunmoharris-vo-625578-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "'It’s a lot of pressure.' As Kamala Harris visits Georgia, voters brace for a Senate runoff that is riveting the nation"
     excerpt: "From the time she stepped onto the podium, Vice President-elect Kamala Harris was greeted by thunderous car horns at a drive-in event near Savannah just days before voters decide their next Senators in contentious races that will shape Harris’ and President-elect Joe Biden’s governing future."
@@ -649,6 +659,6 @@ related:
         height: 630
         isCached: true
 
-secured: "tv19xgvpm/Bl/SYijtuBF/+PxCe5EMrVhcamnkeoaInsTA1ymIU9Qtlqg19x91qoEliNQHLu/aSvDE3SNtCPXGqFxEyfdMGRCWRD5d1iyxsanA7+jgfVLkDI9qhSZ4Zf9fXkTVGW385OB7ia8FwfkUXn8J3k2L36cbfrzbn7pbR2UxNxns2emR7nEFF8fnlg5rPWM/o8vuk+kX4QqmzYuKrq8Ky8rvSMT5yQNzLv2v/Of8gmNjSE5pQujwIqa6boRc2vLLDxmstn+nFHbPPyc+nu7Nk2JEewpgZXj8OVCT/HOJbpzOXb9L6rqsk8+CJnvRGRh0sl77qv26QEZ6Ff+Q1LU4tTVxgY6H7WW1vhryU=;nA1SRB9aPzO+VX9kAQW93g=="
+secured: "L087S8Y6A5ueuLX0OVzbWENdgFamYzs7DQnwBaEzjLQV3Jy7lGSmJd76kDiVMATJeHyDNFQhsfbPCESwym/79/MAEjihB1XQitqsWmz4DgMMM+SvvTBuB0/p4C00KNF5uvFCyRKwmcsEDddg0AnYJYdlHu3PmX7jHw5nPP0NOU6aT+l8VGlNuncMS/bjMCemEW89OCsjHQL6qsU+DE9JscBVvnHrIgPOzlTCMHXQqhgWDUk5SI/nrleMJBInIpCHXuqglxoJAFyPCqqqWJwGAWSgt7/O0BoBbziHoKChP/VA9kdCsHp1Q+NbqAQ+N9NCtBAA/O1+0KFyC5+VgCfPHSBuEvTefnPsVeHFrmPfipk=;HSJDm27gHioNEhwlSH19DA=="
 ---
 

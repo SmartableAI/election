@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "State Department political appointee fired by White House after tweeting Trump was unfit for office"
-    excerpt: "A State Department political appointee was fired by the White House Thursday after tweeting on Wednesday evening that President Donald Trump is unfit for office and was to blame for the mob attack on the US Capitol, according to two sources familiar with the firing.\n    \n"
-    publishedDateTime: 2021-01-07T20:11:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/895bHnfM2yQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/gabriel-noronha-fired-tweet/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/gabriel-noronha-fired-tweet/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130603131322-state-dept-exterior-file-gi-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "jPytRyL3Lpi5k5wTH1W6cGalk8EOrvUm4peAcDaGAHuS5ikvRTAL5W4LiRi/mjSf35uiKOi4K7WIjOWqXlj3eFLEgZmm9IJnTkjDUgFOd8wTW9ltM98WN89Zz+HS5rZ2TRI+YdePN47CixU9fSbib29pDsaaNAH/7effiFWC4ibEySaPV7pgZ2AylWKH+UvJikLwQTvmVVp8pwtn+F84ghqaWd2jZNq5qTYKdk9D8hiyEMml2ERpLLciglbmbVYlIwO+21Ch9c3oxIuNGZEPpJPlh2TUBDyVMBOd74vYoBTKE6KPoCpzmBNurtIl1X6CrEbMfpurywAiH6ogiTcjQ81qEaRmGSpn+YDwRohzsAOrDBA7i8duorvWT+JRfd+4cakKWmTS/f799fWkXZ6ToV8wk/7/eAEI63i1j6QJTcgj+DI4CdmiuXSI5QHMzngF+rS/wT8PkSyAMh0LTiU2Wi0OAMU1EmOLsaGNse8vC4IWVh6nmRe0fL3mnnsCFrHuVDLKIKQuLe3AVx2SAufriQ==;9GyWE58oE+5EswOeLOF4zQ=="
 ---

@@ -3592,6 +3592,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Trump, Pence have 'good conversation' after breach in wake of Capitol riot"
+    excerpt: "President Donald Trump and Vice President Mike Pence had a \"good conversation\" at the White House on Monday evening, a senior administration official said, marking the end of a silent period in their relationship after the riot at the Capitol last week."
+    publishedDateTime: 2021-01-12T23:07:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pence-meeting/trump-pence-have-good-conversation-after-breach-in-wake-of-capitol-riot-idUSKBN29G2UT?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547461760&r=LYNXMPEH0A1M0&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Biden to take swift action to roll back harmful 'midnight regulations' -transition team"
     excerpt: "The Biden administration will take swift action when it assumes office on Jan. 20 to rollback harmful Trump administration policies that will not have taken effect by inauguration day, a spokeswoman for President-elect Joe Biden's transition team said on Wednesday."
     publishedDateTime: 2020-12-30T19:44:00Z

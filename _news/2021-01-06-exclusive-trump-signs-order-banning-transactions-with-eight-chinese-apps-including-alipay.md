@@ -119,6 +119,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "U.S. Chamber CEO says Trump undermined U.S. democratic institutions"
+    excerpt: "U.S. Chamber of Commerce CEO Thomas Donohue issued a stinging rebuke to President Donald Trump on Tuesday, calling Trump's actions last week in connection with rioting at the U.S. Capitol \"absolutely unacceptable and completely inexcusable."
+    publishedDateTime: 2021-01-13T00:39:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-chamber/us-chamber-ceo-says-trump-undermined-us-democratic-institutions-idUSKBN29H2PM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547540499&r=LYNXMPEH0B1FF&w=800"
+        width: 728
+        height: 485
+        isCached: true
   - title: "Pompeo lifts restrictions on U.S.-Taiwan relationship as clock runs out on Trump administration"
     excerpt: "Secretary of State Mike Pompeo on Saturday said he was lifting restrictions on contacts between U.S. officials and their Taiwanese counterparts, a move likely to anger China and increase tensions between Beijing and Washington in the waning days of President Donald"
     publishedDateTime: 2021-01-10T12:13:00Z

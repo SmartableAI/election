@@ -73,6 +73,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Top House Republican Liz Cheney says she will vote to impeach Donald Trump – live"
+    excerpt: "Wyoming conservative’s split with the president could give cover to other Republicans who want to vote to impeach – follow live"
+    publishedDateTime: 2021-01-12T22:35:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates?page=with:block-5ffe3ec28f08f301ebd543b2"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/c0108bd7ed15bab4dc726fc85ad39ffb2291ef6f/0_90_5058_3036/master/5058.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1d3448b84bb3f297da891451d9fe2a8e"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump's incitement of mob at Capitol is 'impeachable offense,' Chris Christie says"
     excerpt: "Chris Christie is perhaps the most notable former supporter of President Donald Trump to back impeachment so far."
     publishedDateTime: 2021-01-10T18:33:00Z
@@ -175,6 +191,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2021-01-08/house-democrats-discussing-swift-action-to-impeach-trump"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-08/house-democrats-discussing-swift-action-to-impeach-trump?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-08/house-democrats-discussing-swift-action-to-impeach-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "EXPLAINER: How Trump's 2nd Impeachment Will Unfold"
+    excerpt: "The House is expected to vote to impeach President Donald Trump this week, a vote that would make him the first U.S. president to be impeached twice."
+    publishedDateTime: 2021-01-13T00:34:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-12/explainer-how-trumps-2nd-impeachment-will-unfold"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-12/explainer-how-trumps-2nd-impeachment-will-unfold?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-12/explainer-how-trumps-2nd-impeachment-will-unfold?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

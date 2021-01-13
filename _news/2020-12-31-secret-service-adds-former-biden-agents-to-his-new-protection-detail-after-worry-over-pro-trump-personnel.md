@@ -671,6 +671,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "House prepares to vote on calling for Trump removal via 25th amendment"
+    excerpt: "The House of Representatives on Tuesday night will move forward with an effort to hold President Trump accountable for the role he played in inciting a deadly riot on Capitol Hill last week."
+    publishedDateTime: 2021-01-12T23:53:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D275GnYAUcg/house-remove-trump-25th-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/house-remove-trump-25th-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-remove-trump-25th-amendment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/956fc7ee-d244-4ce7-80a6-25fd5dd42c0c/c6e396ab-0d4c-43f0-8eec-019ae07e4a49/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "'Congress is obligated' to impeach Trump after Capitol riot: Rep. Cicilline"
     excerpt: "Rep. David Cicilline, D-R.I., who is one of the representatives taking the lead on an impeachment resolution targeting President Trump's alleged efforts to incite the riot at the U.S. Capitol last week, argued on Sunday that Congress is “obligated” to impeach the president."
     publishedDateTime: 2021-01-11T03:29:25Z
