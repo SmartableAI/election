@@ -61,38 +61,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "READ: Article of impeachment against Trump"
-    excerpt: "House Democrats on Monday released a revised article of impeachment against President Trump Donald Trump Outgoing Capitol Police chief accuses House, Senate security officials of hindering efforts to call in National Guard: WaPo PGA announces plans to move 2022 championship from Trump property Former Democratic senator: Biden Justice Department may investigate Jan."
-    publishedDateTime: 2021-01-11T16:44:00Z
-    webUrl: "https://thehill.com/homenews/house/533627-read-article-of-impeachment-against-trump"
-    ampWebUrl: "https://thehill.com/homenews/house/533627-read-article-of-impeachment-against-trump?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/533627-read-article-of-impeachment-against-trump?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_120720getty_override.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Liz Cheney, No 3 House Republican, will vote to impeach Trump"
-    excerpt: "Powerful conservative joins growing number of Republicans seeking accountability for president after Capitol attack"
-    publishedDateTime: 2021-01-13T00:53:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/12/trump-impeachment-liz-cheney-republicans-capitol"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/12/trump-impeachment-liz-cheney-republicans-capitol"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/12/trump-impeachment-liz-cheney-republicans-capitol"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/7c5aa6f484f5dbb942ce0028830ac36d9d16ab4c/0_139_4176_2506/master/4176.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=397b857e998a94b49c379ed9463ac441"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Trump impeachment: Here's how the process works"
     excerpt: "Impeachment proceedings for Donald Trump are nearing an end today, with the president facing vote in the Senate on two articles of impeachment that were approved by the House -- abuse of power and obstruction of Congress."
     publishedDateTime: 2021-01-13T10:05:00Z
@@ -108,38 +76,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-rt-ps-190917_hpMain_2_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Trump impeachment: what you need to know as House moves to a vote"
-    excerpt: "Trump’s fiery speech at a rally just before the attack on the Capitol is at the center of the impeachment charge against him"
-    publishedDateTime: 2021-01-13T12:49:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/13/trump-impeachment-what-you-need-to-know"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/13/trump-impeachment-what-you-need-to-know"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/13/trump-impeachment-what-you-need-to-know"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/11df812b1d90287973cee1da1eaa11c8e754b00f/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=81e4f974c9e1deadc01e0b57dcfa9e9b"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Top House Republican Liz Cheney says she will vote to impeach Donald Trump – live"
-    excerpt: "Wyoming conservative’s split with the president could give cover to other Republicans who want to vote to impeach – follow live"
-    publishedDateTime: 2021-01-12T22:35:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates?page=with:block-5ffe3ec28f08f301ebd543b2"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/8f3bdd119f3897a60e2339f4a0db8c80785d8e1c/0_319_4783_2870/master/4783.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cf82ae328ec5ff4d05c413884627e65f"
-        width: 600
-        height: 360
         isCached: true
   - title: "Trump's incitement of mob at Capitol is 'impeachable offense,' Chris Christie says"
     excerpt: "Chris Christie is perhaps the most notable former supporter of President Donald Trump to back impeachment so far."
@@ -205,138 +141,20 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Several House Republicans join impeachment push; Pence says he will not move to expel Trump"
-    excerpt: "At least four Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
-    publishedDateTime: 2021-01-13T08:02:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/democratic-drive-to-impeach-trump-after-capitol-siege-speeds-ahead-idUSKBN29H0JJ"
+  - title: "U.S. lawmakers' comments on impeachment of President Donald Trump"
+    excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump. Unless noted otherwise, remarks were made on the House floor."
+    publishedDateTime: 2021-01-13T18:24:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/us-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 110
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Pelosi says House will impeach Trump, pushes VP to oust him"
-    excerpt: "House Speaker Nancy Pelosi says the House will proceed with legislation to impeach President Donald Trump as she pushes the vice president and the Cabinet to invoke constitutional authority force him out,"
-    publishedDateTime: 2021-01-11T14:27:00Z
-    webUrl: "https://www.businessinsider.com/pelosi-says-house-will-impeach-trump-pushes-vp-to-oust-him-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/pelosi-says-house-will-impeach-trump-pushes-vp-to-oust-him-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pelosi-says-house-will-impeach-trump-pushes-vp-to-oust-him-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
     quality: 105
-  - title: "Pat Toomey becomes 2nd Republican senator to call on Trump to resign; Rep. Jim Clyburn say impeachment vote in House this week"
-    excerpt: "Pennsylvania Republican Sen. Pat Toomey called on President Trump to resign, saying it would be the good of the country after the Capitol riot."
-    publishedDateTime: 2021-01-10T17:46:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-congress-reaction-20210110-ymrj7xq3djfoheosbkqjfzizqq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-congress-reaction-20210110-ymrj7xq3djfoheosbkqjfzizqq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-congress-reaction-20210110-ymrj7xq3djfoheosbkqjfzizqq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 97
     images:
-      - url: "https://www.chicagotribune.com/resizer/gPDkhSIAijOSF5sP9fRMUdH19Eg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KTKQHOYW2PN5WNW7FPGHWZ2J54.jpg"
-        width: 1200
-        height: 800
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547672852&r=LYNXMPEH0C15H&w=800"
+        width: 800
+        height: 540
         isCached: true
-  - title: "House rushes to impeach Trump after Pence says he won’t invoke 25th Amendment"
-    excerpt: "Already scheduled to leave office next week, Trump is on the verge of becoming the only president in history to be twice impeached."
-    publishedDateTime: 2021-01-13T10:05:00Z
-    webUrl: "https://www.al.com/politics/2021/01/house-rushes-to-impeach-trump-after-pence-says-he-wont-invoke-25th-amendment.html"
-    ampWebUrl: "https://www.al.com/politics/2021/01/house-rushes-to-impeach-trump-after-pence-says-he-wont-invoke-25th-amendment.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/house-rushes-to-impeach-trump-after-pence-says-he-wont-invoke-25th-amendment.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 97
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P3HVED4VFRFJTMPWE4IYDGUDBI.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
-  - title: "Nancy Pelosi says House will move to impeach Donald Trump"
-    excerpt: "Pelosi said that first the House will try to force Vice President Mike Pence and the Cabinet to oust Trump by invoking the 25th Amendment."
-    publishedDateTime: 2021-01-10T22:53:00Z
-    webUrl: "https://www.al.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html"
-    ampWebUrl: "https://www.al.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VI3E2I5XCZC4DOMAW4XAFNE4Y4.jpg"
-        width: 3802
-        height: 2719
-        isCached: true
-  - title: "Trump Impeachment: 56% Of Americans Want POTUS Removed From Office"
-    excerpt: "Americans want Trump ousted from office before Jan. 20 A majority of respondents blame Trump for the violent insurrection on Capitol Hill The riot led to to the death of five people A majority of Americans believe President Donald Trump should be impeached following the violent insurrection at the U."
-    publishedDateTime: 2021-01-11T01:58:00Z
-    webUrl: "https://www.ibtimes.com/trump-impeachment-56-americans-want-potus-removed-office-3118464"
-    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-56-americans-want-potus-removed-office-3118464?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-56-americans-want-potus-removed-office-3118464?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/09/demonstrators-in-new-york-call-for-impeachment-of.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Donald Trump’s Republican wall eroding ahead of impeachment vote"
-    excerpt: "But with a sudden force, the wall of Republican support that has enabled Trump to weather a seemingly endless series of crises is beginning to erode. Trump’s weakened standing among his own party will come into sharper focus on Wednesday when the House is expected to impeach the president for inciting a riot at the U."
-    publishedDateTime: 2021-01-13T13:39:00Z
-    webUrl: "https://www.cleveland.com/nation/2021/01/donald-trumps-republican-wall-eroding-ahead-of-impeachment-vote.html"
-    ampWebUrl: "https://www.cleveland.com/nation/2021/01/donald-trumps-republican-wall-eroding-ahead-of-impeachment-vote.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/donald-trumps-republican-wall-eroding-ahead-of-impeachment-vote.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4ZGO5EH3VREN3GDE3TMS7G657A.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Three GOP Senators Support Trump Impeachment Or Resignation: 'Go Away As Soon As Possible'"
-    excerpt: "House Democrats will reportedly attempt to pass a resolution calling for Vice President Pence and the Cabinet to invoke the 25th Amendment."
-    publishedDateTime: 2021-01-11T02:17:00Z
-    webUrl: "https://www.ibtimes.com/three-gop-senators-support-trump-impeachment-or-resignation-go-away-soon-possible-3118533"
-    ampWebUrl: "https://www.ibtimes.com/three-gop-senators-support-trump-impeachment-or-resignation-go-away-soon-possible-3118533?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/three-gop-senators-support-trump-impeachment-or-resignation-go-away-soon-possible-3118533?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 65
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/10/a-protester-carries-a-sign-calling-for-congress-AFP_8YH99R-2.jpg"
-        width: 1024
-        height: 732
-        isCached: true
-  - title: "Democrats Plan Lightning Trump Impeachment, Want Him Out Now"
-    excerpt: "Democrats in Congress are swiftly laying plans to impeach President Donald Trump and ensure an “unhinged” commander-in-chief can do no further damage in his remaining days in office."
-    publishedDateTime: 2021-01-10T00:32:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-08/house-democrats-discussing-swift-action-to-impeach-trump"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-08/house-democrats-discussing-swift-action-to-impeach-trump?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-08/house-democrats-discussing-swift-action-to-impeach-trump?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "EXPLAINER: How Trump's 2nd Impeachment Will Unfold"
     excerpt: "The House is expected to vote to impeach President Donald Trump this week, a vote that would make him the first U.S. president to be impeached twice."
     publishedDateTime: 2021-01-13T00:34:00Z
@@ -349,6 +167,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "ACJiHkaNVvIn9kd47Uvbg4QoQ71yKk/8U+tjqMVWlmqVaZUCnvu4EiWye7HGvke72wUjFyJ7CWCVhQ+Il9PjcGdrH0YaT3Rbha+oY8UaSBC2Qgl8Uri0D9dCq4xWeapImTERfIj0e6TVf7NRbvXO+NpwWoFaeoysa7cRuzZUa6r7cgxZnkjVGT8FnRRerrhILHR8vW/T9QAd3FDBSR5PFnc47BEBRQ53LbrShvpoUPix4QcB4fqSEvpeWvwZpaBQuMHBBIk8CgOYFvp6ZIDh6jjfLE6izCNfXkPes/07xf7mr9SMDS7ESFfyX8EKzz9xDxQdHfFBG3+imu2umeIOTZhwzFwDc+3S7q/y8nl5LlA=;Zhg7F5aZ8qjnSve+mSB1/w=="
+secured: "DxNQFu2CpLoKKD32QDkhj3kgqzCuklBsSHtx3QEzuGw6z2rHPEhZOiVOEuuzKGlV4KG9HSiSHrHDSqZGsmTnxYzm23N+zNkx/a0aB/mhbV6SDZPXnb2N9O7YNBK45agH5UXqmLpGmnu9JMdwf1nhL1eAJIDa5vWh+ij/RXwMN2DaJvlWi/9j5xev8ovIDlq7ja40vUQtqWwmENZ13NXbkUahIniXYR5WkBHyaCg7D44ceMp8mGa8+34oxLFQc/s6q+ZKttDmlMg5giAWZB6PzeZBO57omK7i1X5xSM/xUlTaKXvQ8ZJQ2mgFFfD6OD9dGhwS4zAKFBLbsQPpE7RE8DPLzXheA7HaIHTTTOYWwIDjMn750G4T35VyQQ4+0M9EGvS+UotAbFWSOksy2GRTq8Tt3drmzZbB9Yhrv2tOE8r1k37PpjJahvxBD+3Xa9tViVarYBeN8xhyqaiqzvT/Yy+D5ktkd/UUllag3DO5FWmFOzU/GRF6mky6H8XM0B4wM0qVbw2QqJ6aL0GS7LtNpg==;op4tklS+L540u1/pX6rPjw=="
 ---
 

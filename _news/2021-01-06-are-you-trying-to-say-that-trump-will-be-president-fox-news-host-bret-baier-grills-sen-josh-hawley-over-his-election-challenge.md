@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 689
         isCached: true
-  - title: "Facebook bans Trump for the rest of his presidency"
-    excerpt: "Mark Zuckerberg said Mr. Trump's account will be locked \"for at least the next two weeks\" but could remain locked indefinitely."
-    publishedDateTime: 2021-01-08T01:37:00Z
-    webUrl: "https://www.cbsnews.com/news/facebook-bans-trump-joe-biden-president-inauguration/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/facebook-bans-trump-joe-biden-president-inauguration/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facebook-bans-trump-joe-biden-president-inauguration/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/07/49ecaf2c-77dd-457e-a6ba-ded691195aee/thumbnail/1200x630/ea4a3fd9ad0ec088f11ca121441c311d/gettyimages-1046002128.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump supporters, counter-protesters clash in San Diego"
     excerpt: "Supporters of President Donald Trump clashed with counter-protesters in San Diego on Saturday, prompting police to declare the gathering an unlawful assembly because of acts of violence"
     publishedDateTime: 2021-01-10T02:14:00Z
@@ -126,22 +110,6 @@ related:
       - url: "https://i.insider.com/5ffca672d184b30018aae205?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Under heavy guard, Congress back to work after Trump supporters storm U.S. Capitol"
-    excerpt: "Hundreds of President Donald Trump's supporters stormed the U.S. Capitol on Wednesday in a stunning bid to overturn his election defeat. But after hours of chaos in which police battled to regain control,"
-    publishedDateTime: 2021-01-07T10:54:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN29B2PU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29B2PU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B2PU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546880885&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0601V"
-        width: 805
-        height: 545
         isCached: true
   - title: "New, more diverse Congress to be sworn in as COVID rages, Trump administration nears end"
     excerpt: "House and Senate lawmakers are sworn in Sunday, the start of a new Congress tasked with working with the Biden administration and fighting COVID-19."
@@ -191,20 +159,6 @@ related:
         width: 810
         height: 545
         isCached: true
-  - title: "Congress returns to work after Trump supporters storm the Capitol"
-    excerpt: "Trump protesters converged on the Capitol, where lawmakers were debating the final certification of the presidential election"
-    publishedDateTime: 2021-01-07T06:14:00Z
-    webUrl: "https://www.reuters.com/live-events/turmoil-at-the-capitol-id2949660"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://bucket-files.scribblelive.com/8/2021/1/6/7b6be19f-4be7-4b9a-ac02-d674c13b76da.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "'Let's get back to work': A rattled Congress continues Electoral College count after pro-Trump riot at Capitol"
     excerpt: "\"Today was a dark day in the history of the United States Capitol,\" Vice President Mike Pence, the president of the Senate, said as he resumed the session."
     publishedDateTime: 2021-01-07T08:24:00Z
@@ -220,36 +174,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/f91d013c-a1c9-4a5f-9383-06ffd82ba70d-AFP_AFP_8YA6MQ.jpg?auto=webp&crop=4956,2788,x0,y351&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "People are once again calling for Twitter to suspend President Donald Trump's account as rioters breached the US Capitol"
-    excerpt: "Actor Josh Gad is among those calling for Twitter to suspend President Trump's account as rioters storm the US Capitol."
-    publishedDateTime: 2021-01-07T07:22:00Z
-    webUrl: "https://www.businessinsider.com/people-demand-twitter-suspend-trump-account-us-capitol-siege-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/people-demand-twitter-suspend-trump-account-us-capitol-siege-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/people-demand-twitter-suspend-trump-account-us-capitol-siege-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 100
-    images:
-      - url: "https://i.insider.com/5ff6296ed184b30018aad637?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "'Assault on Democracy.' How the World Is Responding to a Pro-Trump Mob Storming the U.S. Capitol"
-    excerpt: "Images of violent rioters storming the U.S. Capitol stunned the world Wednesday, as a pro-Trump mob breached police barricades and sought to force Congress to undo President Donald Trump’s election loss."
-    publishedDateTime: 2021-01-07T09:15:00Z
-    webUrl: "https://time.com/5927060/world-reactions-capitol-breached-trump-supporters/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 92
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2021/01/GettyImages-1294959765.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Protesters to Gather in NYC as Congress Set to Confirm Joe Biden as President"
     excerpt: "As Congress prepares to affirm President-elect Joe Biden’s victory, protesters are expected to gather in New York City to call for an investigation into President Donald Trump who has repeated baseless claims of election fraud."
@@ -298,22 +222,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/18/former-first-lady-michelle-obama-said-donald-trump.jpg"
         width: 1024
         height: 629
-        isCached: true
-  - title: "Twitter Criticized For Donald Trump Ban, Accused Of Violating President's Free-Speech Rights"
-    excerpt: "Some Twitter users believe Twitter's permanent suspension of President Donald Trump's account is a violation of his free-speech rights."
-    publishedDateTime: 2021-01-12T02:45:00Z
-    webUrl: "https://www.ibtimes.com/twitter-criticized-donald-trump-ban-accused-violating-presidents-free-speech-rights-3119400"
-    ampWebUrl: "https://www.ibtimes.com/twitter-criticized-donald-trump-ban-accused-violating-presidents-free-speech-rights-3119400?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-criticized-donald-trump-ban-accused-violating-presidents-free-speech-rights-3119400?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 64
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/11/us-president-donald-trump-faces-a-possible-fast.jpg"
-        width: 1024
-        height: 711
         isCached: true
   - title: "Trump, on Tape, Presses Ga. Official to 'Find' Him Votes"
     excerpt: "President Donald Trump is heard on tape pleading with Georgia’s election chief to overturn Joe Biden's win in the state, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."

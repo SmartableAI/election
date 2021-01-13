@@ -48,6 +48,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Officials ramp up Capitol security ahead of Biden inauguration amid threats of armed protests"
+    excerpt: "With just one week until President-elect Joe Biden's inauguration, federal law enforcement agencies are launching a massive security initiative as they brace for more violence after a mob of Trump supporters laid siege to the Capitol last week."
+    publishedDateTime: 2021-01-13T17:01:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XdIw9N58Db8/capitol-security-tightens-ahead-of-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/capitol-security-tightens-ahead-of-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capitol-security-tightens-ahead-of-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/inagurration.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "House passes resolution urging Pence to invoke 25th Amendment"
     excerpt: "The U.S. House of Representatives voted to pass a resolution urging Vice President Mike Pence to invoke the 25th Amendment to remove President Trump from office."
     publishedDateTime: 2021-01-13T05:09:00Z
@@ -63,6 +79,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f747de20-33e1-45d9-95ea-ea5ba63f0050/c4bf3401-56d3-4cea-b33b-f5024e4bf1a4/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Officials ramp up Capitol security ahead of Biden inauguration amid threats of armed protests"
+    excerpt: "With just one week until President-elect Joe Biden's inauguration, federal law enforcement agencies are launching a massive security initiative as they brace for more violence after a mob of Trump supporters laid siege to the Capitol last week."
+    publishedDateTime: 2021-01-13T17:05:00Z
+    webUrl: "https://www.foxnews.com/politics/capitol-security-tightens-ahead-of-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/capitol-security-tightens-ahead-of-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capitol-security-tightens-ahead-of-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/inagurration.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden Must Appoint Secretary of Racial Justice to Cabinet"
     excerpt: "With President-elect Joe Biden positioned to take office this upcoming January, he has a chance to rewrite history by rebuilding a new type of justice in America The Dems claimed the 2016 election result wasn't real on the basis of a complete falsehood they developed,"

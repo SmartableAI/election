@@ -63,6 +63,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Democratic House members call for Trump impeachment, removal amid Capitol protest"
+    excerpt: "Democratic House members are calling for President Trump's removal from office just two weeks before his term is set to end, as violent protesters stormed and entered the U.S. Capitol building."
+    publishedDateTime: 2021-01-06T22:45:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gqow1ACj0Ts/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32855443-767d-4b96-861e-e053b799308b/df486f77-b285-4a08-a896-558037ce44aa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Capitol rioters could face up to 10 years in prison under Trump monument executive order"
+    excerpt: "Acting Attorney General Jeffrey Rosen vowed that pro-Trump rioters who entered the U.S. Capitol would \"face the full consequences of their actions under the law,\" and those consequences could include being charged under President Trump's executive order authorizing up to 10 years in prison for \"injury"
+    publishedDateTime: 2021-01-07T19:38:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r2dI2SvjE0k/capitol-rioters-prison-trump-executive-order-federal"
+    ampWebUrl: "https://www.foxnews.com/politics/capitol-rioters-prison-trump-executive-order-federal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capitol-rioters-prison-trump-executive-order-federal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cbedf04-60c6-401e-b267-a9d2221c950c/0932f180-5a4f-4506-a093-5483fb65583c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Education Secretary Betsy DeVos resigns in letter criticizing Trump's rhetoric amid riots"
     excerpt: "Education Secretary Betsy DeVos resigned on Thursday, citing the riots that took place at the U.S. Capitol the prior day, Fox News has confirmed."
     publishedDateTime: 2021-01-08T02:34:07Z
@@ -126,6 +158,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5b8fcff-75ca-4ddd-9290-b3c34ae295e0/b085f4bc-1744-4b7d-b848-07cf2b03af7d/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "The Triumph of Stacey Abrams Over Donald Trump"
+    excerpt: "The Dems claimed the 2016 election result wasn't real on the basis of a complete falsehood they developed, which the CIA and FBI validated and used to spy on Trump, and then tried to impeach Trump on the basis of a single whistleblower's bogus account of a phone call 30 others heard."
+    publishedDateTime: 2021-01-07T12:14:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/07/the_triumph_of_stacey_abrams_over_donald_trump_532874.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/531661_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "Rxejwxw2ZjxsXT111HPZxFjriAYv7vHFt17dlRKO8FLCA4CtFvNAqHQy2bmVUcy/TAsqI4oAeq0gncRKUKXHIxcopvEp620+/pZuEXoJAX98YvEZ4QltOo4cqIiVziZQnKHffWBZ4b5oxfUFz8tekV0BVv/2Ld8iIsqjm6vmDxHSc0AsUGOfs7qcmbXwmylpYeJREp8omDCFHiEzPfixVCJjH61/8fy2J8p0zpcNeZkn+gJtjIKWWqjskCRsbaNjRE8+BSShbIOPnPGnCOJfj2I5AMSdqkM0yZy2yB9As6mjl4YDIX64LnBcioQNM23tFnzWQ9so54ZXy1crE/411YbEfHKhJdnPZiN9dkn+w4s=;lZmcZV0XdE2zQXr/exyZJQ=="

@@ -89,22 +89,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Corporate America urges officials to consider quick removal of Trump"
-    excerpt: "The head of a major U.S. business group urged senior U.S. officials to consider removing President Donald Trump from office after supporters of the outgoing president stormed the U.S. Capitol."
-    publishedDateTime: 2021-01-07T02:52:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-elections-companies-idUSKBN29B2WR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29B2WR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B2WR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546880792&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH051JP"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump to forego New Year's Eve in Florida for early return to Washington"
     excerpt: "U.S. President Donald Trump on Thursday was due to fly back to Washington a day earlier than planned, as he continued his fight with Congress over a defense bill and stimulus checks as well as a long-shot bid to overturn his November election defeat."
     publishedDateTime: 2020-12-31T14:56:00Z
@@ -169,33 +153,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "U.S. Capitol locked down as Trump supporters clash with police"
-    excerpt: "The U.S. Capitol locked down Wednesday with lawmakers inside as violent clashes broke out between supporters of President Donald Trump and police. An announcement was played inside the Capitol as lawmakers were meeting and expected to vote to affirm Joe Biden’s victory."
-    publishedDateTime: 2021-01-06T17:52:00Z
-    webUrl: "https://www.al.com/news/2021/01/us-capitol-locked-down-as-trump-supporters-clash-with-police.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/us-capitol-locked-down-as-trump-supporters-clash-with-police.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/us-capitol-locked-down-as-trump-supporters-clash-with-police.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LARV2ZXNCFFH3BFPCWAVDLIABA.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Shocking, But Predictable, Violence in Donald Trump’s Final Days"
-    excerpt: "Critics say the violence in the nation’s capital was a long time coming after President Donald Trump’s litany of comments excusing – or encouraging – such actions."
-    publishedDateTime: 2021-01-06T23:29:00Z
-    webUrl: "https://www.usnews.com/news/elections/articles/2021-01-06/shocking-but-predictable-violence-in-donald-trumps-final-days"
-    ampWebUrl: "https://www.usnews.com/news/elections/articles/2021-01-06/shocking-but-predictable-violence-in-donald-trumps-final-days?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2021-01-06/shocking-but-predictable-violence-in-donald-trumps-final-days?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "fwSDfCRMYTZ4ZblKWbMknUL3boKEK7RkGHVqJlIwmSsgLu89l9dVIJabFeAg2UNhtOLIFmZ77M3WDtFyvdQhC37KkVX//4uBnyByIEXUzONjx7iftvURCfNgRZ/AlO+zk7wIDflbJzCiKrqMxYFjvu81Rcfr0PIciJ1pPKP2VMtLDvSSJ5BrQhJ/mBEAeqJJ4xSZFMFa9seN5oQbFVS7wm6yRsbbbiSWbgwCzP505ypWXiDJg1/+jq4zDbJZ+a+Oyv6oS2PU+8QxynsiX1yH60aFKlKq7EWo7IPP/KD/9OnuoMX0vZ4Lu/mU5PF3/5PjIWgUEXhfT2bCeiWbfAt/BVn96RuVGjKQ5Muh97lTAuBqFwC24swKzZEamjBb9mL/fHI3oibUrGRE1fFvfmSzTkk8q4UGM+c8oRAmfNseTfNYhKThbJ4pVAg5KHWmpdVoQDEKpbePEBu6fq4m6YIFmidtCbHzSz/7nHA1gA/O3uMYk25LnXboBzURp3FyXYG3hJXda1f4iURHSX0Co8NBQA==;HpZikJWoLmva5dHUbSNedA=="
 ---

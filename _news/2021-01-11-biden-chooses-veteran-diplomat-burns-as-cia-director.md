@@ -44,6 +44,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "If Biden halts border wall, it could cost taxpayers billions, CBP chief warns"
+    excerpt: "President-elect Joe Biden is promising that border wall building won't continue under his administration, but with hundreds of miles under construction, the head of Customs and Border Protection (CBP) is warning that shutting down construction could cost taxpayers billions."
+    publishedDateTime: 2021-01-09T22:25:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QQ7UW30u_NQ/biden-border-taxpayers-billions-cbp"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-taxpayers-billions-cbp.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-taxpayers-billions-cbp.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cb36dbe-eada-4977-abd7-6669263e1345/a159a8e6-35c5-4f32-aa31-c8e2af9ce0ae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Lindsey Graham praises Biden's CIA director nominee: 'I have known him for years'"
     excerpt: "Sen. Lindsey Graham, R-S.C., praised President-elect Joe Biden's nominee for CIA director on Monday."
     publishedDateTime: 2021-01-12T12:52:58Z
@@ -75,22 +91,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/RTX-joe-biden-xi-jinping.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Live Updates: Biden to announce Justice Department picks"
-    excerpt: "President-elect Joe Biden is to announce his nominees for the Justice Department. Biden is also expected to address the rioting on Capitol Hill on Wednesday, which he condemned in strong terms the same day."
-    publishedDateTime: 2021-01-07T18:56:00Z
-    webUrl: "https://www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad0d288e-8d3f-4466-bf25-2a90d782871f/8d4ccfcf-53da-4208-9695-e20a725c6067/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "glz6rA37Bl2CsRBWYzE1xyUhoKHT9OHfM29ondoy7yqRiqpWbcVqtb8n/o49m5+aMLPDxT/GXgl1qAo5WPff1n3y6V7HU9pvRh2t/0thzxL+JpQpTu/OczoKbCD7BI3A92nf2IiAkH63FkzXjeiOuffCQZfokIS7j6LFe0hFyv1hn6/LUkpkHDI9KZ16U+1c4uFwf4RB3rD9vZeSORsqXUJhoUSM+5OIacHrwdHFlFPC+Jzafnw36Bq6+LENdcIATNlIN+Tej40D3hnSvWAUPjuTt2sRx9lFbFr87o9hs38jaheh3bvadXhKQxW1ccJI+S4T+ULffMlDg2R2tj5hNmgXo11liZPW8ujg64v99duw2EB/UPrVSG1226WIwPWsnTkWsM039FgfBCE2hpQRJ2gAqBsqiME1g62U+lOYXFIVFrI1eJfIxvwZuV4FzbjkoKbzWQkjnlitP3/clYoPEZGLOafeeOjoAKcfpL4w1F431dr1X5uqzUDUlEV8NQQ6jP4LEyOqJAndc67b4BPKmQ==;JLSGeNPZpP1Toy7NX8zIvQ=="

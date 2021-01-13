@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-clear-republican-frontrunner-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-clear-republican-frontrunner-2024-white-house-race.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Vermont's Republican governor calls for Trump to resign or be removed over Capitol chaos"
+    excerpt: "Vermont Gov. Phil Scott on Wednesday called on President Trump to resign or be removed from office hours after a large group of Trump supporters breached the U.S. Capitol in Washington."
+    publishedDateTime: 2021-01-07T06:19:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hiqP158K5Ww/vermonts-republican-governor-calls-for-trump-to-resign-or-be-removed-over-capitol-chaos"
+    ampWebUrl: "https://www.foxnews.com/politics/vermonts-republican-governor-calls-for-trump-to-resign-or-be-removed-over-capitol-chaos.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vermonts-republican-governor-calls-for-trump-to-resign-or-be-removed-over-capitol-chaos.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/phil-scott.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump returning to White House early from holiday vacation at Mar-a-Lago"
     excerpt: "Lago club short and will return to the White House Thursday morning, the administration announced. The White House did not provide any"
     publishedDateTime: 2020-12-31T12:43:00Z

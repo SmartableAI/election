@@ -29,226 +29,52 @@ images:
     isCached: true
 
 related:
-  - title: "Trump bars U.S. transactions with eight Chinese apps including Alipay"
-    excerpt: "U.S. President Donald Trump on Tuesday signed an executive order banning transactions with eight Chinese software applications, including Ant Group's Alipay mobile payment app, the White House said, escalating tensions with Beijing two weeks before President-elect Joe"
-    publishedDateTime: 2021-01-06T12:48:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-china-tech-exclusive-idINKBN29A2PA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29A2PA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29A2PA"
+  - title: "Breakthrough reached in Gulf dispute with Qatar: senior Trump administration official"
+    excerpt: "A breakthrough has been reached in Qatar's three-year-old with Saudi Arabia and three other Arab countries and an agreement to end their rift is to be signed in Saudi Arabia on Tuesday, a senior Trump administration official said."
+    publishedDateTime: 2021-01-04T18:43:00Z
+    webUrl: "https://www.reuters.com/article/us-gulf-qatar-usa/breakthrough-reached-in-gulf-dispute-with-qatar-senior-trump-administration-official-idUSKBN29924S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29924S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29924S"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 118
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546737122&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041G7"
-        width: 815
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546576867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0311U"
+        width: 818
         height: 545
         isCached: true
-  - title: "Trump signs order banning transactions with Chinese apps Alipay and WeChat Pay"
-    excerpt: "Taking his campaign against Chinese technology down to the wire, President Trump on Tuesday signed an executive order banning transactions with a number of Chinese mobile apps, including Alipay and WeChat Pay."
-    publishedDateTime: 2021-01-06T04:39:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/01/05/trump-ban-alipay-wechat-pay/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/01/05/trump-ban-alipay-wechat-pay/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/05/trump-ban-alipay-wechat-pay/?outputType=amp"
+  - title: "Donald Trump recognises 'new administration' after US Capitol riot – video"
+    excerpt: "Donald Trump acknowledges in a video released on Thursday night that a 'new administration' will be inaugurated on 20 January, and condemns rioters who attacked the US Capitol"
+    publishedDateTime: 2021-01-08T04:34:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/08/donald-trump-recognises-new-administration-after-us-capitol-riot-video"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 121
+      name: The Guardian
+      domain: theguardian.com
+    quality: 103
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MKURI7SPWYI6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump signs order banning transactions with eight Chinese apps including Alipay"
-    excerpt: "U.S. President Donald Trump on Tuesday signed an executive order banning transactions with eight Chinese software applications, including Ant Group's Alipay, a senior administration official said, escalating tensions with Beijing before President-elect Joe Biden takes"
-    publishedDateTime: 2021-01-06T00:44:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-china-tech-exclusive-idUKKBN29A2PG"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29A2PG"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29A2PG"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546717743&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041G7"
-        width: 815
-        height: 545
-        isCached: true
-  - title: "House Democrats file an article of impeachment charging Trump with incitement of insurrection"
-    excerpt: "The president incited a deadly riot at the US Capitol last week that resulted in five deaths and Trump's de-platforming on mainstream social media."
-    publishedDateTime: 2021-01-11T16:32:00Z
-    webUrl: "https://www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/5ff5f5f5d184b30018aad517?width=1200&format=jpeg"
+      - url: "https://i.guim.co.uk/img/media/872ace859d2e4c929a6286203231a45d3d1d8601/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e00827ed0967bb235bcbfb91af2dba8f"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
-  - title: "House Democrats introduce an article of impeachment charging Trump with incitement of insurrection"
-    excerpt: "The president incited a deadly riot at the US Capitol last week that resulted in five deaths and Trump's de-platforming on mainstream social media."
-    publishedDateTime: 2021-01-11T17:46:00Z
-    webUrl: "https://www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1?amp"
+  - title: "Trump administration declassifying unconfirmed intel that indicates China offered bounties to attack Americans in Afghanistan, official says"
+    excerpt: "The Trump administration is declassifying intelligence, so far unconfirmed, that indicates China offered bounties to non-state actors to attack American soldiers in Afghanistan, according to a senior administration official."
+    publishedDateTime: 2020-12-31T18:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-administration-declassifying-unconfirmed-intel-china-offered-bounties/story?id=74988333"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-administration-declassifying-unconfirmed-intel-china-offered-bounties/story?id=74988333"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-administration-declassifying-unconfirmed-intel-china-offered-bounties/story?id=74988333"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
+      name: ABC
+      domain: abcnews.go.com
+    quality: 90
     images:
-      - url: "https://i.insider.com/5ff5f5f5d184b30018aad517?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/Politics/afghanistan-01-ht-iwb-201231_1609429730546_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "U.S. House Democrats to introduce Trump impeachment article on Monday"
-    excerpt: "Democrats in the U.S. House of Representatives will introduce legislation on Monday urging the impeachment of President Donald Trump, Representative Ted Lieu said on Saturday."
-    publishedDateTime: 2021-01-10T05:34:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-congress-impeachment-idUSKBN29E0OZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547238775&r=LYNXMPEH080FJ&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Three U.S. House Republicans declare support for impeaching Trump"
-    excerpt: "President Donald Trump's iron grip on his party showed further signs of weakening on Tuesday as at least three Republicans, including a member of the House leadership, said they would vote to impeach him after his supporters stormed the Capitol."
-    publishedDateTime: 2021-01-13T06:41:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/some-house-republicans-join-impeachment-push-pence-says-he-will-not-move-to-expel-trump-idUSKBN29H0JJ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "U.S. Chamber CEO says Trump undermined U.S. democratic institutions"
-    excerpt: "U.S. Chamber of Commerce CEO Thomas Donohue issued a stinging rebuke to President Donald Trump on Tuesday, calling Trump's actions last week in connection with rioting at the U.S. Capitol \"absolutely unacceptable and completely inexcusable."
-    publishedDateTime: 2021-01-13T00:39:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-chamber/us-chamber-ceo-says-trump-undermined-us-democratic-institutions-idUSKBN29H2PM"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547540499&r=LYNXMPEH0B1FF&w=800"
-        width: 728
-        height: 485
-        isCached: true
-  - title: "EXCLUSIVE-Trump signs order banning transactions with eight Chinese apps including Alipay"
-    excerpt: "U.S. President Donald Trump on Tuesday signed an executive order banning transactions with eight Chinese software applications, including Ant Group's Alipay, a senior administration official said, escalating tensions with Beijing before President-elect Joe Biden takes"
-    publishedDateTime: 2021-01-06T02:47:00Z
-    webUrl: "https://www.reuters.com/article/usa-china-tech-idUSL1N2JG2FN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JG2FN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JG2FN"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 96
-  - title: "China has accused Trump of trying to start a new Cold War, after the New York Stock Exchange confirmed plan to delist three Chinese firms"
-    excerpt: "China accused the Trump administration of attempting to suppress foreign companies, as the NYSE moved to delist three Chinese firms."
-    publishedDateTime: 2021-01-02T14:45:00Z
-    webUrl: "https://www.businessinsider.com/china-trump-start-new-cold-war-after-nyse-delists-companies-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/china-trump-start-new-cold-war-after-nyse-delists-companies-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/china-trump-start-new-cold-war-after-nyse-delists-companies-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/5ff06619a18a450018cb6826?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "PGA dumps Donald Trump’s golf course as 2022 championship host"
-    excerpt: "The PGA of America has cut its remaining tie with President Donald Trump, and it’s a major one. That means the 2022 PGA Championship needs a new home, as Trump Bedminster in New Jersey was set to host in just over two years."
-    publishedDateTime: 2021-01-11T14:28:00Z
-    webUrl: "https://www.mlive.com/sports/2021/01/pga-dumps-donald-trumps-golf-course-as-2022-championship-host.html"
-    ampWebUrl: "https://www.mlive.com/sports/2021/01/pga-dumps-donald-trumps-golf-course-as-2022-championship-host.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/sports/2021/01/pga-dumps-donald-trumps-golf-course-as-2022-championship-host.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IT5UV3JIC5E4ZAH6X4JW73FR7M.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "U.S. House introduces article of impeachment, charging Trump with ‘incitement of insurrection’"
-    excerpt: "Pelosi’s leadership team also will seek a quick vote on a resolution calling on Vice President Mike Pence and Cabinet officials to invoke the 25th Amendment."
-    publishedDateTime: 2021-01-11T14:39:00Z
-    webUrl: "https://www.al.com/news/2021/01/us-house-introduces-article-of-impeachment-charging-trump-with-incitement-of-insurrection.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/us-house-introduces-article-of-impeachment-charging-trump-with-incitement-of-insurrection.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/us-house-introduces-article-of-impeachment-charging-trump-with-incitement-of-insurrection.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 63
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/R4GKARIBANALJFNX67TOCVXQSY.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Increasingly Isolated Trump Threatened With Second Impeachment"
-    excerpt: "US Democrats on Saturday were readying for an unprecedented second impeachment of Donald Trump as the defiant president showed no signs of stepping down after the deadly violence at the Capitol. Democrats said impeachment proceedings could begin as early as Monday -- an extraordinary acceleration of a process that historically has taken weeks,"
-    publishedDateTime: 2021-01-09T16:06:00Z
-    webUrl: "https://www.ibtimes.com/increasingly-isolated-trump-threatened-second-impeachment-3118038"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/09/supporters-of-us-president-donald-trump-including-member.jpg"
-        width: 1024
-        height: 695
-        isCached: true
-  - title: "Short On Alternatives, Fans Trash Twitter's Trump Ban - On Twitter"
-    excerpt: "Friends, family and advisors to Donald Trump have been bitterly complaining that Twitter's ban of the president after his supporters stormed the US Capitol amounts to an assault on free speech by radical leftists."
-    publishedDateTime: 2021-01-09T21:21:00Z
-    webUrl: "https://www.ibtimes.com/short-alternatives-fans-trash-twitters-trump-ban-twitter-3118076"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/09/this-photo-from-august-10-shows-the-twitter.jpg"
-        width: 1024
-        height: 661
-        isCached: true
-  - title: "Reactions to the Impeachment of U.S. President Donald Trump"
-    excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump. HOUSE RULES COMMITTEE CHAIR JIM MCGOVERN, DEMOCRAT OF MASSACHUSETTS \"We are debating this historic measure at an actual crime scene and we wouldn't be here if it weren't for the president of the United States."
-    publishedDateTime: 2021-01-13T15:18:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-13/reactions-to-the-impeachment-of-us-president-donald-trump"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-13/reactions-to-the-impeachment-of-us-president-donald-trump?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-13/reactions-to-the-impeachment-of-us-president-donald-trump?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "mYQcs7q3/jI3Ji+3RrViDm6c8KRnA5JVD6k9hfEAPADJUXUdT3L8BkrMAkJdq/rGSI0qI9W46oDP4jk8alHQhP28Rec4ivHiVjDI2F0N4prH6CvbpaTPbi2wKqZmdFHFhIa+3jL3XLR0gNG1vyEfpr5JVxQZbeUVfRmoDOgf9vBgQNFGGy9VVUsIOQYihIxj6KFZOIOCay5jj31Xwx87O+ocV7IdnBy4/NSuY8tf+r75yIdlY+fWsQeg2eOs4uKA8cdQgztP0J25oWeFRZhIKMEeKfj0fC5aKuxHal2okjjNClBEkhf/akVEYIWpabP5H2iTmznUfIbMLg9dn1aKimqiL7dE9wOTGaQb+9xY9Es=;KU6EtbebFJIFUyvBgyazgw=="
 ---

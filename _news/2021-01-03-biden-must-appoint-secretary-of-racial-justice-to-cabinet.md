@@ -42,6 +42,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Officials ramp up Capitol security ahead of Biden inauguration amid threats of armed protests"
+    excerpt: "With just one week until President-elect Joe Biden's inauguration, federal law enforcement agencies are launching a massive security initiative as they brace for more violence after a mob of Trump supporters laid siege to the Capitol last week."
+    publishedDateTime: 2021-01-13T17:01:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XdIw9N58Db8/capitol-security-tightens-ahead-of-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/capitol-security-tightens-ahead-of-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capitol-security-tightens-ahead-of-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/inagurration.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "House passes resolution urging Pence to invoke 25th Amendment"
     excerpt: "The U.S. House of Representatives voted to pass a resolution urging Vice President Mike Pence to invoke the 25th Amendment to remove President Trump from office."
     publishedDateTime: 2021-01-13T05:09:00Z
@@ -73,6 +89,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Officials ramp up Capitol security ahead of Biden inauguration amid threats of armed protests"
+    excerpt: "With just one week until President-elect Joe Biden's inauguration, federal law enforcement agencies are launching a massive security initiative as they brace for more violence after a mob of Trump supporters laid siege to the Capitol last week."
+    publishedDateTime: 2021-01-13T17:05:00Z
+    webUrl: "https://www.foxnews.com/politics/capitol-security-tightens-ahead-of-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/capitol-security-tightens-ahead-of-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capitol-security-tightens-ahead-of-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/inagurration.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "pdiWTn3ZVQbNprWA6T3qkkIWxGe0B81ElWD7KkzhjClHrNSQiY1zN8+txm0vhZ+laAJXY6vyTNhrhGKQPJRzoVTCmBGZaWDbfmSGsoyhMAXsQ/5NPzsSWNmiOmLiDJaSt1MX0ST0K/K6Vz63JuTRHhzZXrYrLH99raVeYnjTUFBYYkoC7At2JHWDRRpKIVTL3+Cb0O7N5fvG4abKv4IUKmgi4fz/w+GzOaTBDaQIPdGYA5VfjnaWwFBDAm2JjIrELZNQ+hGXUgsdQIfcIZtSnqBmADugyQTAHJzY5MDndbVr/7jGE1QXYDAyhQv32o3G8jvMdPAp/14eLmw6Bpfxj0qh1K5fajWOLX16zgFR4Ag=;GJnk2X1AeCBEfDDIz+NBmA=="

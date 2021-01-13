@@ -31,69 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Ilhan Omar says Trump 'will be impeached'"
-    excerpt: "Rep. Ilhan Omar, D-Minn., vowed on Friday that President Trump would be impeached after this week's riots, which have prompted widespread criticism of the president and his rhetoric following November's election."
-    publishedDateTime: 2021-01-08T21:33:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N3eIvLRm9mQ/ilhan-omar-trump-impeached"
-    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-trump-impeached.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-trump-impeached.amp"
+  - title: "Clyburn accuses resigning Trump Cabinet members of 'running away' from 25th Amendment duty"
+    excerpt: "House Majority Whip James Clyburn said former Trump Cabinet members Elaine Chao and Betsy DeVos, who resigned in protest of the Capitol riots, were \"running away\" from their responsibility to invoke the 25th Amendment. "
+    publishedDateTime: 2021-01-08T19:54:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fgRgxoCoRZY/clyburn-trump-cabinet-members-resigning-without-invoking-25th-running-away"
+    ampWebUrl: "https://www.foxnews.com/politics/clyburn-trump-cabinet-members-resigning-without-invoking-25th-running-away.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clyburn-trump-cabinet-members-resigning-without-invoking-25th-running-away.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 165
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cabbd5c8-5261-4e94-9550-81c691405868/20c9113c-d0de-48ab-ae7d-c9f0afd4d1cd/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/206f8c4f-47a2-4931-a671-51ef1202a41a/c8e28499-4e7b-4b07-80a1-8bec3460192e/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Liz Cheney faces backlash from some GOP lawmakers after backing Trump impeachment"
-    excerpt: "Rep. Liz Cheney, R-Wyo., is facing calls from some Republican lawmakers to step down from her leadership post as chairwoman of the House Republican Conference after she announced that she will vote to impeach President Trump."
-    publishedDateTime: 2021-01-13T07:51:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xNlu381ThFE/biggs-wants-cheney-to-resign-from-leadership-post"
-    ampWebUrl: "https://www.foxnews.com/politics/biggs-wants-cheney-to-resign-from-leadership-post.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biggs-wants-cheney-to-resign-from-leadership-post.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump says his supporters will still have a 'giant voice,' won't be 'disrespected' "
-    excerpt: "President Trump on Friday said his supporters will still have a “giant voice” and would not be “disrespected” after he leaves the White House."
-    publishedDateTime: 2021-01-08T15:50:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7ev1L67eFJU/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Eliminating Trump from being elected again one motivator in impeachment push, Pelosi says"
-    excerpt: "House Speaker Nancy Pelosi said in a “60 Minutes” interview that aired Sunday night that one of the motivating factors for some in the new effort to impeach President Trump and remove him from office is to eliminate any chance that he has of being elected president in four years."
-    publishedDateTime: 2021-01-11T09:11:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3by37NmkGFI/pelosi-60-minutes-trump-impeachment"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-60-minutes-trump-impeachment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-60-minutes-trump-impeachment.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
 
 secured: "kcWhgmbposmEDRCp/wy4Qn+ef8LDXczJBLWIc+NwTyEPt2fUaR1/iWOVKd+z3NGPM9nvDcCWnyzj1TVw/fC3fRnfZFVBLayiNKdg9YnAAwCad4WJBRVYEIdK7xkwFZTFeP9jhzvBOKYwLdsxFdN6RPX0iJKDkLfXM7fpFVIzQOkyuM/xgG5DCbuWb3vhug04aR9IPngo2qgrbVSoDNfXvEZ1TasUGk8/bMq83texNFCuVy9qNIigYhXR/wDPFhS6u8jET40ic9SFuBp9b2OmvsDV5Voycxz8KspMsX1cLAenAJ2mv8TqOp/4+8fTjlum0/5uMsPCVfd3ba56exzgbPPCTa2BKOQn2TYIzZM6TzM=;4Efmvn/SQFokAozyN6txeA=="

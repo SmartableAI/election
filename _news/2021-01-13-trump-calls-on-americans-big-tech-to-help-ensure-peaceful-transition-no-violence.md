@@ -1,0 +1,85 @@
+---
+category: news
+title: "Trump calls on Americans, Big Tech to help ensure peaceful transition: 'NO violence'"
+excerpt: "EXCLUSIVE: President Trump on Wednesday is calling for \"all Americans\" to help \"ease tensions and calm tempers,\" saying he does \"not\" stand for violence \"of any kind\" -- and he's asking Big Tech to join the effort."
+publishedDateTime: 2021-01-13T18:26:56Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tN2G7lwC_Bs/trump-statement-peaceful-transition-no-violence-exclusive"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tN2G7lwC_Bs/trump-statement-peaceful-transition-no-violence-exclusive"
+ampWebUrl: "https://www.foxnews.com/politics/trump-statement-peaceful-transition-no-violence-exclusive.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-statement-peaceful-transition-no-violence-exclusive.amp"
+type: article
+quality: 168
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
+    isCached: true
+
+related:
+  - title: "'Hang Mike Pence' trends on Twitter after platform suspends Trump for risk of 'incitement of violence'"
+    excerpt: "Twitter has removed content from \"trending\" in the past when it violates its rules."
+    publishedDateTime: 2021-01-09T16:24:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TLz_XV1i5oQ/twitter-trending-hang-mike-pence"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-trending-hang-mike-pence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-trending-hang-mike-pence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88c32963-7d82-4c63-a87f-29778a9c1abd/17c58895-f436-42cc-ac3d-f3b2bcb170be/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rep. Liz Cheney slams Trump for 'intolerable' conduct, says president 'incited the mob'"
+    excerpt: "House Republican Conference Chair Liz Cheney, R-Wyo., slammed President Trump Wednesday following an afternoon of unrest at the U.S. Capitol that saw at least one woman shot and killed."
+    publishedDateTime: 2021-01-07T00:31:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yDpxP8Z3puc/liz-cheney-trump-intolerable-conduct-incited-mob"
+    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-trump-intolerable-conduct-incited-mob.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-trump-intolerable-conduct-incited-mob.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a35816a3-7e51-448c-bda9-a5a8814c76e9/2b740dbc-bc7a-45b2-bb1b-f8049089ff41/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Twitter locks Trump account, warns further violations will result in 'permanent suspension' from the platform"
+    excerpt: "Twitter locked President Trump’s account on Wednesday night claiming he violated Twitter rules, and warned the president that further violations of their Civic Integrity or Violent Threat policies would result in a “permanent suspension” of his account."
+    publishedDateTime: 2021-01-07T00:30:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RimxOYD-Uoo/twitter-locks-trump-account-threatens-permanent-suspension"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-locks-trump-account-threatens-permanent-suspension.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-locks-trump-account-threatens-permanent-suspension.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+
+secured: "i0cLGSO6vX5u5KMgYdCuuqkc9F7pcyiZqpW8erN64ASS2ttWBHHyyfiuhetMbeyPsIw0IAwiWzYVASVts796z7Kxgb0bKH+ChreLzxU8ebmSNhyPpp6UQxqYeJ3DbKEYV8/oRLbcEJybVCgGOrLpifuI0G5mvQdEjjDiGa8r+dk2jE0b2vNZ/sOAlpCS2URSIP9k8hGvAt6QR452GWZQZq4xM5F2bCZp8QLvqIsK3iv6bTs5hNxumOYoVCTXW8/pvzf6gMMQ7rxn5Pse96ifIgJUlENt1vJniYqfugonG2LyMJTFd5zpfDoCvgzVxqa+DN7xtvNye3yZazDf7+YBQCiSgCyvl3o6KOEohn1tCAM=;cGTG12Pqj3HOutm9TTmnFw=="
+---
+

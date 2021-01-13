@@ -31,90 +31,46 @@ images:
     isCached: true
 
 related:
-  - title: "Business grows skittish about Trump and GOP after riots"
-    excerpt: "Corporate America is quickly distancing itself from President Donald Trump and his Republican allies, with many of the biggest names in business — Goldman Sachs, Coca Cola, Ford, and Blue Cross Blue Shield — suspending political donations after a Trump-inspired mob ransacked the U."
-    publishedDateTime: 2021-01-11T22:09:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
+  - title: "Elaine Chao, Betsy DeVos step down from Trump Cabinet following Capitol storming"
+    excerpt: "Transportation Secretary Elaine Chao became the first Trump Cabinet member to resign in the wake of Wednesday's storming of the Capitol by the president's supporters."
+    publishedDateTime: 2021-01-08T08:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 125
+    quality: 120
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_eea37b12d40e40e589e76134df53aa03_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/betsy-devos_hpMain_20210107-210515_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Factbox: Trump tweets attacked leaders and businesses"
-    excerpt: "Here are some of the most notable of Donald Trump's 26,000 tweets as president, or on average 18 a day as president. Trump often engaged in name calling, misstated facts in tweets and attacked businesses or political rivals."
-    publishedDateTime: 2021-01-09T08:32:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-twitter-factbox-idUSKBN29E022"
+  - title: "Washington Braces for Chaos as Trump Supporters Descend for “Final Stand”"
+    excerpt: "To Trump’s most fervent supporters, Wednesday is seen as the day to mount a “final stand\" to keep the President in power."
+    publishedDateTime: 2021-01-05T23:29:00Z
+    webUrl: "https://time.com/5926403/trump-supporters-final-stand/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: Time
+      domain: time.com
+    quality: 104
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547180157&r=LYNXMPEH0800X&w=800"
-        width: 800
-        height: 484
+      - url: "https://api.time.com/wp-content/uploads/2021/01/Trump__Election_Rally_Washington_DC_01.jpg"
+        width: 2400
+        height: 1601
         isCached: true
-  - title: "After Capitol rampage, Pelosi calls on Trump to resign and Twitter deletes his account"
-    excerpt: "House Speaker Nancy Pelosi on Friday called on President Donald Trump to resign and Twitter permanently suspended his account citing a risk that he could incite more violence, two days after a crowd of Trump supporters stormed the U."
-    publishedDateTime: 2021-01-09T04:54:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election/after-capitol-rampage-pelosi-calls-on-trump-to-resign-and-twitter-deletes-his-account-idUKKBN29D1IE"
+  - title: "EXPLAINER: Why Trump's Ballot 'Dump' Tweet Is Misleading"
+    excerpt: "As votes were being tabulated in two tight Senate runoff elections in Georgia, President Donald Trump predicted election officials in the state would release a large tranche of results that would overwhelm the Republican candidates."
+    publishedDateTime: 2021-01-06T04:57:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-05/explainer-why-trumps-ballot-dump-tweet-is-misleading"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-05/explainer-why-trumps-ballot-dump-tweet-is-misleading?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-05/explainer-why-trumps-ballot-dump-tweet-is-misleading?context=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 97
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547098549&r=LYNXMPEH070OG&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "White House denies reports Trump will be in Scotland during inauguration, after Scottish leader warns golf is not essential travel"
-    excerpt: "The speculation began with curious activity by U.S. military aircraft reported circling President Trump's Turnberry golf resort in western Scotland in November. Then the Sunday Post in Scotland reported that Glasgow Prestwick Airport “has been told to expect the arrival of a US military Boeing 757 aircraft,"
-    publishedDateTime: 2021-01-05T22:42:00Z
-    webUrl: "https://www.washingtonpost.com/world/europe/trump-scotland-golf-turnberry-inauguration/2021/01/05/0218037e-4f64-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/europe/trump-scotland-golf-turnberry-inauguration/2021/01/05/0218037e-4f64-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/europe/trump-scotland-golf-turnberry-inauguration/2021/01/05/0218037e-4f64-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 95
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CKAA5DCPPAI6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Letter to Jack Dorsey from Twitter employees asking to permanently suspend Donald Trump's account"
-    excerpt: "In a letter to Twitter CEO Jack Dorsey and other top executives, employees ask the company to permanently suspend Donald Trump and investigate Twitter's role in the attack on the U.S. Capitol."
-    publishedDateTime: 2021-01-08T21:40:00Z
-    webUrl: "https://www.washingtonpost.com/context/letter-to-jack-dorsey-from-twitter-employees-asking-to-permanently-suspend-donald-trump-s-account/d9b84fa1-c7cb-4c5b-a90a-fdf167ff0c7a/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 92
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BTTBYKCFQII6XLBKHLAPFOGO5M.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 989
-        isCached: true
-  - title: "Trump nominates north Alabama business leader to TVA board"
-    excerpt: "President Donald Trump has nominated a north Alabama business leader to serve on the TVA board of directors to complete the term of the board chairman Trump fired last year. Rick Roden, president and CEO of the Mountain Lakes Chamber of Commerce in Scottsboro,"
-    publishedDateTime: 2021-01-04T23:35:00Z
-    webUrl: "https://www.al.com/news/2021/01/north-alabama-business-leader-nominated-by-trump-to-tva-board.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/north-alabama-business-leader-nominated-by-trump-to-tva-board.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/north-alabama-business-leader-nominated-by-trump-to-tva-board.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 55
 
 secured: "hy/hUSSJUBVnH1d9LQmaNiSdOvKw91conmhYyOKZIwBpI7L6NXCmi+bOSnGz/OmOiNHjlg/b5kUw7641z09XV/eFRVOz6Du1GXgb3QmMWVrrhhuu1DWRhJtjNDPSJ2Lv8+RuHtb6suYXYf0sFWrr3+ySe9fND0u33arob5cMxnk8vpVCAh+7pOWVMbY/6zv+Lm/+IH6cGMIdgx0Vz/yDI9PbNze7Dz6EU9W9YCW/YozeDqvTrz36MncdbIb87P1+RmWCEqWjFRULI0SZ2lL1SXh+qiEfb8xpElPoZ7MhN+VgrAGVbmLNmyo0e5ByXn58DmWHdKu7JV3m+h01i0p3xs3tahEPnlv+hEDDy1SENdY=;vikkJoi9Rx7bMS2FXwZQ9g=="

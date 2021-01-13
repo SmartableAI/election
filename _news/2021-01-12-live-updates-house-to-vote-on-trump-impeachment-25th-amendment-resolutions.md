@@ -144,6 +144,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "AOC: GOP lawmakers fearful of threats if they impeach Trump are privileged"
+    excerpt: "Cortez said Wednesday that Republicans fearful of casting a vote to impeach President Donald Trump are privileged to not face more regular threats for their work on Capitol Hill. House Democrats have signaled in recent days that their Republican colleagues are fearful that a vote to impeach the president might incur threats against themselves and their families."
+    publishedDateTime: 2021-01-13T18:53:00Z
+    webUrl: "https://www.politico.com/news/2021/01/13/aoc-privilege-death-threats-gop-lawmakers-impeach-trump-458953"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 113
+    images:
+      - url: "https://static.politico.com/b7/50/9c26a6e4454cad68e55185d8957a/180916-ocasio-cortez-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "kXUactJyfiwRwzXUJJW5nNghkoFRixm5nSsuCalRfTpcX/1YGg4svq2xthAKxSE2uxIu3JACVMz9yzBFmHHSoPwj1ofrIf3C12VeU9D7ygGVBkX7A5ohq7Tig8tQo5qRyHqvJ2YXfZaGMU/QOcZKR/cnnSDnTiUL5M79hxUCzQxLKaVbb6L4oML+FZtM8NK4y/wXlYSdkVNpBIP4wR5GgRvOOEdOB6dEXmF9nnK9mZPqIC8I2FsGeVKc9StDGUMQv3V3T2a2LfKdG4ZZpOp1MIUYjT0qsoobvDZdMsUUT2uKCIPAzH6ENWU7W1KAJdlVoHwvU39OnHaTs9eiNDWTTzmaSguGCMLC4KD+a+P+XQTCw/M1JQld2LUvvyBjmMpScz3aCmgDyrMjypQoq1/s3PkW9MDi3ZKpzdclzA3cWCryuCsi83q4uisKe3gj+yoEqgMW/y8NmnjSgNigeplHrnXSoseJw3a4Zu0rm+YJhUOgTiuxgWFdVzt07TZx8jOMVkwMdLZdzoVIEKJLYH5t0g==;fa1lsLEKm34L1BvkwgNjGA=="
 ---

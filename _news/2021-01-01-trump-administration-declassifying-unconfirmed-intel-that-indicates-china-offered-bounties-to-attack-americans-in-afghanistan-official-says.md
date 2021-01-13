@@ -31,21 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: President Trump spent Thanksgiving with troops in Afghanistan in 2019, not 2020"
-    excerpt: "Social media users having been sharing posts that claim President Donald Trump spent Thanksgiving 2020 with troops in Bagram, Afghanistan, not playing golf. This claim is false: the photo of Trump in Bagram is from 2019."
-    publishedDateTime: 2021-01-01T14:56:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-trump-thanksgiving-afghanis/fact-check-president-trump-spent-thanksgiving-with-troops-in-afghanistan-in-2019-not-2020-idUSKBN296286"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN296286"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN296286"
+  - title: "Breakthrough reached in Gulf dispute with Qatar: senior Trump administration official"
+    excerpt: "A breakthrough has been reached in Qatar's three-year-old with Saudi Arabia and three other Arab countries and an agreement to end their rift is to be signed in Saudi Arabia on Tuesday, a senior Trump administration official said."
+    publishedDateTime: 2021-01-04T18:43:00Z
+    webUrl: "https://www.reuters.com/article/us-gulf-qatar-usa/breakthrough-reached-in-gulf-dispute-with-qatar-senior-trump-administration-official-idUSKBN29924S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29924S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29924S"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 115
+    quality: 118
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210101&t=2&i=1546338440&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH00140"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546576867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0311U"
         width: 818
         height: 545
+        isCached: true
+  - title: "Donald Trump recognises 'new administration' after US Capitol riot – video"
+    excerpt: "Donald Trump acknowledges in a video released on Thursday night that a 'new administration' will be inaugurated on 20 January, and condemns rioters who attacked the US Capitol"
+    publishedDateTime: 2021-01-08T04:34:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/08/donald-trump-recognises-new-administration-after-us-capitol-riot-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 103
+    images:
+      - url: "https://i.guim.co.uk/img/media/872ace859d2e4c929a6286203231a45d3d1d8601/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e00827ed0967bb235bcbfb91af2dba8f"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Pompeo lifts restrictions on U.S.-Taiwan relationship as clock runs out on Trump administration"
+    excerpt: "Secretary of State Mike Pompeo on Saturday said he was lifting restrictions on contacts between U.S. officials and their Taiwanese counterparts, a move likely to anger China and increase tensions between Beijing and Washington in the waning days of President Donald"
+    publishedDateTime: 2021-01-10T12:13:00Z
+    webUrl: "https://www.reuters.com/article/SOMNIA-idUSKBN29E0Q6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 93
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547231457&r=LYNXMPEH080GE&w=800"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "JT4u6JhiZEkiRHPo45mNFV8auK/3g4FW0J5wmbi5XLdV5NAIhhxjuf0EpSQQunMMo3ULRAcZ/DEID3/+auOH/yhJ0U6if72DNs08WsaFKvF37u+3A+GqVvQY4lg3vz4DDtBkptYDeBG7kmW+KUhkmzyKZfgKCEos5V1MDs6vZmLV1EqialqBlAHufm2E2pbc/Mb/XqWc0axSGAvZZluJ+AC1Kqp9FBpNEyEbkm0+9/jkdnBxrk/c0ijN/kQjqYKBjzFqDEGM6JvAE0d3d9k2sS2otOuR+lsnT9kXg0T/Uk62/M39uF3iDIFov9b4st3Id+/ulloNDFW6p9OWP90LzrEsXt1jaf5ZmJvI3JwDd+PgqkEa1b7mBTIw0C1j0EF/ycll7wiZo86TJFA7lFOq26ZXY1DKqRQbqwJs+DjrCu2uCwAPE3Ube8786hPKRFCGM2xiGmRYNuniJd28vWJ0tnJJpuLIQ2G57QPoVynV7wCdBOQGosmfGv71DD9nY8HvlZwFtnKB83hOPppD1Xu4Yg==;0PnDGYzBjVmGvtNBnhy3Kg=="

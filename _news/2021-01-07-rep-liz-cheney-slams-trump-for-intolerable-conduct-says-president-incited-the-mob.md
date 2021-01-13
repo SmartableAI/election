@@ -47,17 +47,17 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump, in first public appearance since Capitol riot, says ‘we want no violence’"
-    excerpt: "President Trump on Tuesday, in his first public appearance since last week’s Capitol riot, said he wants \"no violence.\""
-    publishedDateTime: 2021-01-12T15:55:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhxwstdTmMA/trump-capitol-riot-no-violence"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-capitol-riot-no-violence.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-capitol-riot-no-violence.amp"
+  - title: "Trump calls on Americans, Big Tech to help ensure peaceful transition: 'NO violence'"
+    excerpt: "EXCLUSIVE: President Trump on Wednesday is calling for \"all Americans\" to help \"ease tensions and calm tempers,\" saying he does \"not\" stand for violence \"of any kind\" -- and he's asking Big Tech to join the effort."
+    publishedDateTime: 2021-01-13T18:26:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tN2G7lwC_Bs/trump-statement-peaceful-transition-no-violence-exclusive"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-statement-peaceful-transition-no-violence-exclusive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-statement-peaceful-transition-no-violence-exclusive.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 168
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340

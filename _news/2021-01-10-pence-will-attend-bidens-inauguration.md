@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 1800
+heat: 1820
 published: true
 
 provider:
@@ -333,6 +333,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107134750-15-us-capitol-riots-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "20,000 National Guard troops expected in Washington for Biden's inauguration"
+    excerpt: "The US Secret Service on Wednesday officially took charge of security for President-elect Joe Biden's inauguration as authorities warn of new threats across the country and unfold a massive security presence in Washington, DC, after last week's violence at the US Capitol.\n    \n"
+    publishedDateTime: 2021-01-13T18:29:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qwvt53s5Ph8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/inauguration-security-us-secret-service-washington/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/inauguration-security-us-secret-service-washington/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113115739-inauguration-prep-0112-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

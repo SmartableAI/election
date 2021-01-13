@@ -73,22 +73,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Squelched by Twitter, Trump seeks new online megaphone"
-    excerpt: "Though stripped of his Twitter account for inciting rebellion, President Donald Trump does have alternative options of much smaller reach"
-    publishedDateTime: 2021-01-10T06:30:00Z
-    webUrl: "https://www.washingtonpost.com/business/technology/squelched-by-twitter-trump-seeks-new-online-megaphone/2021/01/09/655aba1c-52e3-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/technology/squelched-by-twitter-trump-seeks-new-online-megaphone/2021/01/09/655aba1c-52e3-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/squelched-by-twitter-trump-seeks-new-online-megaphone/2021/01/09/655aba1c-52e3-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Kamala Harris appears on Vogue cover ahead of Inauguration Day"
     excerpt: "Vice President-elect Kamala Harris made her debut on the cover of Vogue magazine’s February issue. Vogue featured two cover images on Instagram on Sunday. In one, Harris poses in front of golden drapery and dons a powder blue power suit and pearls;"
     publishedDateTime: 2021-01-11T00:54:00Z
@@ -136,70 +120,6 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_kamala_011121getty.jpg"
         width: 1440
         height: 880
-        isCached: true
-  - title: "Is Donald Trump an aberration or a symptom of a deeper US malady?"
-    excerpt: "The underlying causes of Trump’s rise to power must be addressed, from taming social media to tackling inequality"
-    publishedDateTime: 2021-01-12T10:43:00Z
-    webUrl: "https://www.theguardian.com/business/2021/jan/12/donald-trump-us-joe-biden"
-    ampWebUrl: "https://amp.theguardian.com/business/2021/jan/12/donald-trump-us-joe-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2021/jan/12/donald-trump-us-joe-biden"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/aad2fde33329699780b71b94975470c2abe19154/0_214_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f40500cdb421c69acab0b09185d0b90f"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "How a Vogue cover created an uproar over Kamala Harris"
-    excerpt: "Though it might seem, in light of all that is going on in Washington, D.C., the least of the matter, on Sunday a leaked shot of Vice President-elect’s Kamala Harris’ Vogue cover set off an unexpected firestorm."
-    publishedDateTime: 2021-01-12T16:10:00Z
-    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Where Republican senators stand on impeaching Donald Trump"
-    excerpt: "Most Democratic senators are calling for Mr. Trump's immediate removal, including the Senate's two independent members, Angus King of Maine and Bernie Sanders of Vermont. But the bar for the Senate to remove the president is higher than impeachment,"
-    publishedDateTime: 2021-01-13T12:03:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-impeachment-republicans-senators/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-impeachment-republicans-senators/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-impeachment-republicans-senators/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/13/0d0a1258-107d-4d33-a1e0-51a2c24cbc11/thumbnail/1200x630/dad36a3b3990eba7f8fcd831191e5c32/gettyimages-955095568.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How a 2nd Trump impeachment could differ from 1st"
-    excerpt: "A possible second presidential impeachment would be unprecedented and come with different punishments if Trump is convicted."
-    publishedDateTime: 2021-01-13T16:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/2nd-trump-impeachment-differ-1st/story?id=75204919"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/2nd-trump-impeachment-differ-1st/story?id=75204919"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/2nd-trump-impeachment-differ-1st/story?id=75204919"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/US/donald-trump-impeachment-04-gty-llr-210112_1610486846963_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect Kamala Harris. The image shows Ms Harris wearing an informal outfit including jeans and a pair of Converse trainers."
@@ -334,20 +254,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/04/NSMN/40d7eacb-8ee7-4152-bc0d-e67001ba07ce-Kamala3.jpg?auto=webp&crop=1999,1125,x0,y133&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "A Pro-Trump Mob Stormed the Halls of Congress. Photographs From Inside the Chaos at the Capitol"
-    excerpt: "A mob incited by Trump stormed the Capitol in an attempt to block lawmakers from certifying Biden's electoral victory"
-    publishedDateTime: 2021-01-07T07:19:00Z
-    webUrl: "https://time.com/5927132/donald-trump-mob-capitol-chaos/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 93
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2021/01/washington-capitol-donald-trump-senate-14.jpg"
-        width: 2400
-        height: 1600
         isCached: true
   - title: "Kamala Harris gets the Vogue cover Melania Trump always wanted"
     excerpt: "The president, first lady and their political supporters repeatedly complained that ‘elitist’ fashion magazines wouldn’t put the ‘most elegant first lady in American"
@@ -525,6 +431,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How a Vogue cover created an uproar over Kamala Harris"
+    excerpt: "Though it might seem, in light of all that is going on in Washington, D.C., the least of the matter, on Sunday a leaked shot of Vice President-elect’s Kamala Harris’ Vogue cover set off an unexpected firestorm."
+    publishedDateTime: 2021-01-13T01:59:00Z
+    webUrl: "https://www.courant.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
+    ampWebUrl: "https://www.courant.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 75
+    images:
+      - url: "https://www.courant.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."
     publishedDateTime: 2021-01-13T07:29:00Z
@@ -608,7 +530,7 @@ related:
   - title: "Vogue's Kamala Harris Cover Was an Underwhelming Miss — and Her Supporters Want to Know Why"
     excerpt: "The criticism of the cover runs the gamut from way the photograph is lit, which some say washes out her features, to the overall styling that others say fall far short of capturing the country’s first Black woman to be elected vice president."
     publishedDateTime: 2021-01-11T19:10:00Z
-    webUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/"
+    webUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/?amp"
     ampWebUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/?amp"
     type: article
@@ -692,31 +614,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Gab Benefits From Twitter-less Trump, Parler Removal"
-    excerpt: "Social network Gab is benefitting from the suspension of several Twitter accounts -- including Donald Trump's -- and the taking offline of rival Parler, its CEO said Monday. Between 600,000 and 700,000 internet users are registering on the platform every day,"
-    publishedDateTime: 2021-01-11T20:11:00Z
-    webUrl: "https://www.ibtimes.com/gab-benefits-twitter-less-trump-parler-removal-3119231"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/11/this-illustration-picture-shows-social-media-application-logo.jpg"
-        width: 1024
-        height: 757
-        isCached: true
-  - title: "What to Watch as House Moves to Impeach Trump for 2nd Time"
-    excerpt: "President Donald Trump is on the verge of becoming the first president to be impeached twice, as lawmakers move quickly to punish him over last week's deadly Capitol attack."
-    publishedDateTime: 2021-01-13T10:54:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/what-to-watch-as-house-moves-to-impeach-trump-for-2nd-time"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/what-to-watch-as-house-moves-to-impeach-trump-for-2nd-time?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-13/what-to-watch-as-house-moves-to-impeach-trump-for-2nd-time?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "ohipyTSSwe+QbwXMB8myXA7cAxStaVph58UbuM38oRKMu58e1lZ3nnOM7dQLToRYXN9d54C6LIHZ0WtE0mJ+myv2mlXC8qZ2X3MN87LbKcoSWrdzymLqXrgwDPll7ecgBLcziZDg/9xPffsbF/WH9SYntAqjXw5SrQ6124b3TY3iDWaw2Bf9gYtj0hymkCILxExtBAKqmTLiKt6fBk2AH1TiFZIUm9Fy93Hjuq/8KXHVZn3jwsbkjNi+1CxQeX0AnxXNBoel3483zBjyZpcukJDXF/VRvPXlY+paQvNRiauaUY+MXCuhsB+HTLhicXThjYfkg3G7fwixEgej535QkD3ThSFH9LjS1t51bLDTQgO+zxOE3qmhjsbzNw5pxQ2n3B6d9PoAcraprHsKu/Qe9n6m7tb8V77uz1chRmbkn+RffF2CDN0+ZywrvPcExedhfiaPXmh1MoXaggkumdCJCqfCljUfji/t7fcszTIGD1JnYpT2DQTgMS2awEQosdEcFGroxerS3Ig4FodDm2/G4g==;mtyd7Kxpkw7aOtsnxyQ0Gw=="
 ---
