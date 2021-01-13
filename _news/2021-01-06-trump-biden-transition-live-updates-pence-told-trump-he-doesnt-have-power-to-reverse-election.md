@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-resul
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
 type: article
 quality: 168
-heat: 7488
+heat: 7508
 published: true
 
 provider:
@@ -3547,6 +3547,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/13/3d46e6fa-c74e-41cc-be16-96e683b81c3e/thumbnail/1200x630/6416c4237a17d28bc745050913d7d613/gettyimages-1230408840.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Pence says he opposes removing Trump with the 25th Amendment"
+    excerpt: "Vice President Mike Pence told House of Representatives Speaker Nancy Pelosi on Tuesday that he is opposed to invoking the 25th Amendment to remove President Donald Trump from office after Trump's supporters laid siege to the U."
+    publishedDateTime: 2021-01-13T07:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pence-letter/pence-says-he-opposes-removing-trump-with-the-25th-amendment-idUSKBN29I03C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547608000&r=LYNXMPEH0C02P&w=800"
+        width: 800
+        height: 557
         isCached: true
   - title: "Congress overrides a Trump veto for the first time with Senate vote on defense bill"
     excerpt: "The Senate action follows a House vote earlier this week, and the defense bill now becomes law despite the president’s objections."

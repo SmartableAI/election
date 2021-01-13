@@ -207,17 +207,17 @@ related:
         isCached: true
   - title: "YouTube suspends Trump's channel after violating policy on inciting violence"
     excerpt: "Alphabet Inc's YouTube said on Tuesday it has suspended Donald Trump's channel as it violated policies for inciting violence after last week's assault on the U.S. Capitol by the president's supporters."
-    publishedDateTime: 2021-01-13T08:11:00Z
-    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN29I0F9"
+    publishedDateTime: 2021-01-13T10:41:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-youtube-trump-int/youtube-suspends-trumps-channel-after-violating-policy-on-inciting-violence-idUSKBN29I0HL"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 102
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547587815&r=LYNXMPEH0C0B5&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547595731&r=LYNXMPEH0C0FJ&w=800"
         width: 800
-        height: 535
+        height: 533
         isCached: true
   - title: "Donald Trump to mob at Capitol: 'I know your pain... but you have to go home now'"
     excerpt: "President Donald Trump issued a brief video statement on Twitter late Wednesday urging the unruly mob of his supporters at the US Capitol to go home, even as he continued"

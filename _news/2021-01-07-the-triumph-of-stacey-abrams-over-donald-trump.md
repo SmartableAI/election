@@ -518,6 +518,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump's Packing His Bags, But Partisan Media Is Here to Stay"
+    excerpt: "As the mainstream media has abandoned this role while advancing some narratives, no matter their faults, and delegitimizing others, no matter their merits, it is not surprising that cancel culture and anti-conservative censorship are flourishing on social media."
+    publishedDateTime: 2021-01-13T10:46:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/13/trumps_packing_his_bags_but_partisan_media_is_here_to_stay_145018.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/13/trumps_packing_his_bags_but_partisan_media_is_here_to_stay_145018.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/13/trumps_packing_his_bags_but_partisan_media_is_here_to_stay_145018.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/532124_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Trump Is Over? Not So Fast"
     excerpt: "During the Trump administration we saw nonstop attacks against Trump and his supporters. Democrats refused to cooperate in the transition of power, they forced a two year investigation that paralyzed the administration based on what they knew was fabricated information,"
     publishedDateTime: 2021-01-10T20:45:00Z

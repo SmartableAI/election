@@ -8,8 +8,8 @@ webUrl: "https://www.nbcnews.com/politics/congress/house-set-vote-resolution-cal
 ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253873"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253873"
 type: article
-quality: 121
-heat: 141
+quality: 131
+heat: 151
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Election
   - Donald Trump
   - Democratic Voice
+  - Mike Pence
 
 images:
   - url: "https://media2.s-nbcnews.com/i/newscms/2021_02/3441497/210112-donald-trump-jm-1043_14f8a0fe6ee3094b4256b33575e347dd.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-questions-whether-trump-impea
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-questions-whether-trump-impeachment-will-hinder-his-agenda.amp"
 type: article
 quality: 190
-heat: 830
+heat: 850
 published: true
 
 provider:
@@ -506,6 +506,22 @@ related:
       - url: "http://m.wsj.net/video/20210107/010721opvidpotomacwatch/010721opvidpotomacwatch_1280x720.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump's Packing His Bags, But Partisan Media Is Here to Stay"
+    excerpt: "As the mainstream media has abandoned this role while advancing some narratives, no matter their faults, and delegitimizing others, no matter their merits, it is not surprising that cancel culture and anti-conservative censorship are flourishing on social media."
+    publishedDateTime: 2021-01-13T10:46:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/13/trumps_packing_his_bags_but_partisan_media_is_here_to_stay_145018.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/13/trumps_packing_his_bags_but_partisan_media_is_here_to_stay_145018.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/13/trumps_packing_his_bags_but_partisan_media_is_here_to_stay_145018.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/532124_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "The Triumph of Stacey Abrams Over Donald Trump"
     excerpt: "The Dems claimed the 2016 election result wasn't real on the basis of a complete falsehood they developed, which the CIA and FBI validated and used to spy on Trump, and then tried to impeach Trump on the basis of a single whistleblower's bogus account of a phone call 30 others heard."

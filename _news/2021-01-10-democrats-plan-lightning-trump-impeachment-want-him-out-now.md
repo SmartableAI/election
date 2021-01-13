@@ -89,20 +89,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Several House Republicans join impeachment push; Pence says he will not move to expel Trump"
-    excerpt: "At least four Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
-    publishedDateTime: 2021-01-13T08:20:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/several-house-republicans-join-impeachment-push-pence-says-he-will-not-move-to-expel-trump-idUSKBN29H0JJ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Top House Republican Liz Cheney says she will vote to impeach Donald Trump – live"
     excerpt: "Wyoming conservative’s split with the president could give cover to other Republicans who want to vote to impeach – follow live"
     publishedDateTime: 2021-01-12T22:35:00Z
@@ -151,6 +137,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Several House Republicans join impeachment push; Pence says he will not move to expel Trump"
+    excerpt: "At least four Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
+    publishedDateTime: 2021-01-13T09:30:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/with-some-republicans-on-board-u-s-house-democrats-press-forward-on-impeachment-vote-idUSKBN29H0JJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 110
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Pelosi says House will impeach Trump, pushes VP to oust him"
     excerpt: "House Speaker Nancy Pelosi says the House will proceed with legislation to impeach President Donald Trump as she pushes the vice president and the Cabinet to invoke constitutional authority force him out,"
     publishedDateTime: 2021-01-11T14:27:00Z
@@ -177,6 +177,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/gPDkhSIAijOSF5sP9fRMUdH19Eg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KTKQHOYW2PN5WNW7FPGHWZ2J54.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "House rushes to impeach Trump after Pence says he won’t invoke 25th Amendment"
+    excerpt: "Already scheduled to leave office next week, Trump is on the verge of becoming the only president in history to be twice impeached."
+    publishedDateTime: 2021-01-13T10:05:00Z
+    webUrl: "https://www.al.com/politics/2021/01/house-rushes-to-impeach-trump-after-pence-says-he-wont-invoke-25th-amendment.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/house-rushes-to-impeach-trump-after-pence-says-he-wont-invoke-25th-amendment.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/house-rushes-to-impeach-trump-after-pence-says-he-wont-invoke-25th-amendment.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 97
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P3HVED4VFRFJTMPWE4IYDGUDBI.jpg"
+        width: 6000
+        height: 4000
         isCached: true
   - title: "Nancy Pelosi says House will move to impeach Donald Trump"
     excerpt: "Pelosi said that first the House will try to force Vice President Mike Pence and the Cabinet to oust Trump by invoking the 25th Amendment."

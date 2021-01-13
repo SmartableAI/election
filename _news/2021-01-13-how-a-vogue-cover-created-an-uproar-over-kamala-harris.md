@@ -2,26 +2,30 @@
 category: news
 title: "How a Vogue cover created an uproar over Kamala Harris"
 excerpt: "Though it might seem, in light of all that is going on in Washington, D.C., the least of the matter, on Sunday a leaked shot of Vice President-elect’s Kamala Harris’ Vogue cover set off an unexpected firestorm."
-publishedDateTime: 2021-01-13T01:59:00Z
-originalUrl: "https://www.courant.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
-webUrl: "https://www.courant.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
-ampWebUrl: "https://www.courant.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+publishedDateTime: 2021-01-12T16:10:00Z
+originalUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
+webUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
+ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Hartford Courant
-  domain: courant.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.courant.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
+  - url: "https://www.chicagotribune.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -660,6 +664,17 @@ related:
         width: 1024
         height: 757
         isCached: true
+  - title: "What to Watch as House Moves to Impeach Trump for 2nd Time"
+    excerpt: "President Donald Trump is on the verge of becoming the first president to be impeached twice, as lawmakers move quickly to punish him over last week's deadly Capitol attack."
+    publishedDateTime: 2021-01-13T10:54:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/what-to-watch-as-house-moves-to-impeach-trump-for-2nd-time"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/what-to-watch-as-house-moves-to-impeach-trump-for-2nd-time?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-13/what-to-watch-as-house-moves-to-impeach-trump-for-2nd-time?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Kamala Harris's Vogue cover caught her team by surprise, causes stir online"
     excerpt: "Vogue released two images online, but the photo of a sneaker-clad Harris is the one that will grace the cover of the fashion bible's print edition."
     publishedDateTime: 2021-01-11T15:30:00Z
@@ -675,6 +690,6 @@ related:
         height: 630
         isCached: true
 
-secured: "CQN1tQMCgJ07r/I5TuTIDlb+HiCCz2lkqVtzI8xIil/tnmW48pnyA8ZanoT4CFeFL3iaKl1u7BEJcmg8gaPaFo3TQawaMZWSTZiwdNugbB4st/TBZIdA8HQO8yzqvtXjwgLEi0+6P+BarRTdeqo4g69JP0cpH9n41hMIPrD9+ETde6aq+z5rBYjEeYjVlug+BDi61T/dYc/ErOMBHOfm7ks6ivMEtLyvyKyfshmUn8sWUL5FC8DcOAXKRB8Qg3e8gWIZU8N037CnSXxBW1rMqd413fu0m5EvzbO617NkH/RWt3HGGc4IeQfJYBJJWLMRMl/leVcoufLsrhn+uajmmdkA8g2ckitbXj/T1PV6E/ELCjX6x5YyaHjsSZERpdlAWiKueUHJIYR1Q2+UtvylWh+WjZ7DMTXzFXVSQInh7a7vK+e+4YBeTDBv6MyNh3JNpBva+LTMBKbM9D92UCmCfqsXopI6UwgqI1d4GUmv7wmA1UKes5SeHMXE7AqKvIW3f7Xu9p3hVWorRoGZs3hQFg==;HUsYMk0JjRwYGI2QE5R3pw=="
+secured: "+e4PK9vAP2Mzzmsu3fwsvOHMFg6F+6Y5eBst5adgjQCA4K2aGT37HqBEebwGPdOCPILKrHmRh5oPhSLSm9Xof3DVy7Czg74zym6qGcam/57/u5TaCMiY4wc51hXfhoTONajfxTRrLuhvJRYelyssijPVWneQcRjR+w3FEDnOuFaQ6WJlC8zOYtPnZopWDdY55SDJwHqAn81dSBqnWXfMfhkl5Y2I59qkD/zBEsHMLpjsTLEL6+9fPhxX9ifc64HCo1gPwf0uyAa9I/45vM0V1CjQ59l1UiZpdnrZUaC8nnW4W3aMnHQCmjJBta79wFhhCBrZoZyKT1JSg98Xjn5+oSBS4D7sTpj/ZLhFj0QRlrs=;AwLQIvOmal3k/kFJjRxCZg=="
 ---
 

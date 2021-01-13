@@ -2,11 +2,11 @@
 category: news
 title: "Several House Republicans join impeachment push; Pence says he will not move to expel Trump"
 excerpt: "At least four Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
-publishedDateTime: 2021-01-13T08:20:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump/several-house-republicans-join-impeachment-push-pence-says-he-will-not-move-to-expel-trump-idUSKBN29H0JJ"
-webUrl: "https://www.reuters.com/article/us-usa-trump/several-house-republicans-join-impeachment-push-pence-says-he-will-not-move-to-expel-trump-idUSKBN29H0JJ"
+publishedDateTime: 2021-01-13T09:30:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump/with-some-republicans-on-board-u-s-house-democrats-press-forward-on-impeachment-vote-idUSKBN29H0JJ"
+webUrl: "https://www.reuters.com/article/us-usa-trump/with-some-republicans-on-board-u-s-house-democrats-press-forward-on-impeachment-vote-idUSKBN29H0JJ"
 type: article
-quality: 120
+quality: 110
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Mike Pence
 
 images:
@@ -169,6 +168,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "House rushes to impeach Trump after Pence says he won’t invoke 25th Amendment"
+    excerpt: "Already scheduled to leave office next week, Trump is on the verge of becoming the only president in history to be twice impeached."
+    publishedDateTime: 2021-01-13T10:05:00Z
+    webUrl: "https://www.al.com/politics/2021/01/house-rushes-to-impeach-trump-after-pence-says-he-wont-invoke-25th-amendment.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/house-rushes-to-impeach-trump-after-pence-says-he-wont-invoke-25th-amendment.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/house-rushes-to-impeach-trump-after-pence-says-he-wont-invoke-25th-amendment.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 97
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P3HVED4VFRFJTMPWE4IYDGUDBI.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "Nancy Pelosi says House will move to impeach Donald Trump"
     excerpt: "Pelosi said that first the House will try to force Vice President Mike Pence and the Cabinet to oust Trump by invoking the 25th Amendment."
     publishedDateTime: 2021-01-10T22:53:00Z
@@ -240,6 +255,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "ne2WCII3V4mLurCXVoAA9qQdqXRGQfMQN2oN6v6dcYJpHZNpSi0tnTeUNFLd/180ylGpG1wrm5QL3S22lFA6ue3D3c+lW8BzVUuBTZULk0lvuDN/sOlw9/ftY7yzi5jsrX0RaXhMt8jgRrravABjT95CDTlVOz5hKhIARD4/qbT5bog86j2jKiiQGpn+0p+qjqesGtFAI9qaGIWG5ZN1W/LU971Y5/bEUfce+H0FEx0+wpyH3eOKIT/fB00tY0xYfmzgktu2bxZbsvyi6b5DjaYcSsc7y9XV6B5dx67f8dCps+0+zagQtxMMAkvNfnJgZxFyZhRVsUm23qNFQ9ZnruAAJO5QYTP4BanmAqXZnz0=;WzllyRFLYoQcjiqFtUG8iQ=="
+secured: "M54CYSqGEDB0pWruX9CLFsXBbjF8Ip3XuNOQatRGdpIeP2uBiuCx0/yDbs1y5DgLvMw+bx5HSes8aSbcmdhb7+ARKzEXTTtqfE22MDVZA55Jml8mP9xTKMHzMKDS/PEnI67JOrQ72HGB0XPFzZq/G6cWBNJMbTyD8w/LEc3qLk7/HAB0I80+9mCmouTP3Hau41o7ViAdoApN/gO8eifO45twxjaxnsPLDokbVStxYo1nWAgsvvfb9ffbHm5ueiKpqxGB3zRS8gE+/twd2UrwXz3VCeSDAaBgx72jev2My/ivb70N4BnPAVUh0GARblT7pjUYTWucfkK+YBOH3OqYgz+uPM/C+/99MYIixSoHRWI=;36Yiyr14dQlEE7gUle2WnQ=="
 ---
 

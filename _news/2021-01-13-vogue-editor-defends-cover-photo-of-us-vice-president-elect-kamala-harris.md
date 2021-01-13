@@ -155,6 +155,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "How a Vogue cover created an uproar over Kamala Harris"
+    excerpt: "Though it might seem, in light of all that is going on in Washington, D.C., the least of the matter, on Sunday a leaked shot of Vice President-elect’s Kamala Harris’ Vogue cover set off an unexpected firestorm."
+    publishedDateTime: 2021-01-12T16:10:00Z
+    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect Kamala Harris. The image shows Ms Harris wearing an informal outfit including jeans and a pair of Converse trainers."
     publishedDateTime: 2021-01-12T15:52:00Z
@@ -479,22 +495,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How a Vogue cover created an uproar over Kamala Harris"
-    excerpt: "Though it might seem, in light of all that is going on in Washington, D.C., the least of the matter, on Sunday a leaked shot of Vice President-elect’s Kamala Harris’ Vogue cover set off an unexpected firestorm."
-    publishedDateTime: 2021-01-13T01:59:00Z
-    webUrl: "https://www.courant.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
-    ampWebUrl: "https://www.courant.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 75
-    images:
-      - url: "https://www.courant.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Why Vogue's Anna Wintour is Defending That ‘Embarrassing ‘ Kamala Harris Cover"
     excerpt: "The criticism of the cover runs the gamut from way the photograph is lit, which some say washes out her features, to the overall styling that others say fall far short of capturing the magnitude and gravity of the country’s first Black woman to be elected vice president."
     publishedDateTime: 2021-01-12T18:37:00Z
@@ -660,6 +660,17 @@ related:
         width: 1024
         height: 757
         isCached: true
+  - title: "What to Watch as House Moves to Impeach Trump for 2nd Time"
+    excerpt: "President Donald Trump is on the verge of becoming the first president to be impeached twice, as lawmakers move quickly to punish him over last week's deadly Capitol attack."
+    publishedDateTime: 2021-01-13T10:54:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/what-to-watch-as-house-moves-to-impeach-trump-for-2nd-time"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/what-to-watch-as-house-moves-to-impeach-trump-for-2nd-time?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-13/what-to-watch-as-house-moves-to-impeach-trump-for-2nd-time?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Kamala Harris's Vogue cover caught her team by surprise, causes stir online"
     excerpt: "Vogue released two images online, but the photo of a sneaker-clad Harris is the one that will grace the cover of the fashion bible's print edition."
     publishedDateTime: 2021-01-11T15:30:00Z
@@ -675,6 +686,6 @@ related:
         height: 630
         isCached: true
 
-secured: "94iWov2s0O4eiBSzlkKtmkwGtoqAG/qjUYnOadTbe/XNz4GHLrE5lRZm1AK6NybMIsQmyFFXXceI0x8Zth9g2+hNiuoCnq4/NfzumgZd/b+qNgc9ouaul9Ys+IZ5093aHHQrtn1JHijqqwfXtsaJRwu9IRzMF02kugOdr+6qTKlOSBddeRvFz4e6mOv7ia/s2qVOlzO9Gwudl5f1vtq+uADyphbOm1aKdp9rpYSzN12RiyHu3EMDD7AC6kbAtJI9UfoMJfxeHKMIDr5BvzYdDr+W3a8VRiGWVCDd685g8V7Ql/Z7EZ7d3mKzocbWDw+ag044KgR2Je+fQ4BN4BK2xMtGzUIEaDPDAGCCmhRr0/s=;Vsl96lSra/zpzhztOCQrNA=="
+secured: "cN+vjhrTfEHmx63YDYW86oVa8ppGwiLByQF/bTePXVIoWFx+LD4fm7AAmM/7yYchOi8F/PLfpHd5Iouhtz7mau0BJ3pQLqrbDAkGDdgyeK8W+Knvpx7T2DQIT7uqAj94hEI6bT0uI1ek+PiOY5D1T008RMh0MdUrLYdWQ/ijssPhOxVe6XhdemGkhTzcDbyj3HxGcDWjBrN5+pExkg4xFgumVDuZH9vhO4Z1CZOLGRv9mkpVe6ZMzpmY+pYLY74XX2LrrSkvUPgC71PgQDsvMWYkedM/EbEMCMPgLOw8jkeFajqWoLUuEEoINHgo4KrovVt2n4AsQDLYONyZDKIvheXnFgWKb7aabydOgKhhzL0+YHDYvytFyyP0FCnWcs/kIgzs2TeTuPYLDq8rVPmcGQDP/kcEgyvA5ngxG+hbeJTVeCQns6ReMMiey9o4hd+XycBg65CEZJQbi83G/I3K7z+ZPdB2R2no/Q+XabinN7lK2z0NdkOB1JUK+hBiEeV8NS5091FlHdmGo1CEf7d3Xw==;Tjnz2Y3tB9kgYH9GF7+0aw=="
 ---
 

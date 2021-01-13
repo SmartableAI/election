@@ -40,7 +40,7 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 121
+    quality: 131
     images:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_02/3441497/210112-donald-trump-jm-1043_14f8a0fe6ee3094b4256b33575e347dd.jpg"
         width: 2500

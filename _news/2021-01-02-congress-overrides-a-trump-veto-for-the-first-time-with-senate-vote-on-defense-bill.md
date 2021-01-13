@@ -3563,6 +3563,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pence says he opposes removing Trump with the 25th Amendment"
+    excerpt: "Vice President Mike Pence told House of Representatives Speaker Nancy Pelosi on Tuesday that he is opposed to invoking the 25th Amendment to remove President Donald Trump from office after Trump's supporters laid siege to the U."
+    publishedDateTime: 2021-01-13T07:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pence-letter/pence-says-he-opposes-removing-trump-with-the-25th-amendment-idUSKBN29I03C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547608000&r=LYNXMPEH0C02P&w=800"
+        width: 800
+        height: 557
+        isCached: true
   - title: "Surrounded by shrinking circle of aides, a brooding Trump lays into Pence"
     excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
     publishedDateTime: 2021-01-08T15:04:00Z

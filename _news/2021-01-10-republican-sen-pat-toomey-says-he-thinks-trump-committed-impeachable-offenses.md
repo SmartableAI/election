@@ -127,6 +127,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "'Clear and present danger to the republic': House readies bipartisan impeachment of Trump"
+    excerpt: "One week after the riot at the Capitol and one week before he is to leave office, President Donald Trump faces impeachment again. | Photo by Drew Angerer/ The House intends to impeach President Donald Trump on Wednesday for inciting a violent insurrection that — just one week earlier — stormed the U."
+    publishedDateTime: 2021-01-13T09:35:00Z
+    webUrl: "https://www.politico.com/news/2021/01/13/house-impeachment-trump-458589"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/13/house-impeachment-trump-458589"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/13/house-impeachment-trump-458589"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 126
+    images:
+      - url: "https://static.politico.com/72/c5/7ea93ab64b1e8bd848e51547a6ff/gettyimages-1230555008-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "sSjBps44flp0QwHSKshA7znbfJa1VE0mlgKutnp6MF2RZNhNxqpRhC3b46bfJ6/VbhjfzexJcSogGwN+YfeLEj/uczSKU1Wg/JtOgVaqyCLSTQnmb1JSLDxPJHa4KqufEcnvfQZP8wa3ko2X11OZpw7fg0/3Vdg3/ITIV/7VbUU0J5+eUJOGDZPo2EeW+RXhUo8f+HgfHZe5XE6ztGHHJcz5TK6Sub7aRzO8aAv5aZKzPt41dFvE+cGYZwiZc++gPiIUuv6C2aOwNiVy6FO51q3M0RzyZk5nJaBTyVAvjFpDIc6SLBP0sX1Ma+F9c10FaIdGPkdIMKT0S1P6dCjrByDlz5qyWepcI4oxpUeiE8Q=;OTrrg2ib6OuPMmnC3Umnrg=="
 ---

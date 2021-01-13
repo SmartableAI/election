@@ -339,7 +339,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 295,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -451,7 +451,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 141,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -492,7 +492,8 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
+        "Democratic Voice",
+        "Mike Pence"
       ]
     },
     {
@@ -941,7 +942,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 830,
+      "heat": 850,
       "tags": null,
       "images": [
         {

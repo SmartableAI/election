@@ -2,9 +2,9 @@
 category: news
 title: "YouTube suspends Trump's channel after violating policy on inciting violence"
 excerpt: "Alphabet Inc's YouTube said on Tuesday it has suspended Donald Trump's channel as it violated policies for inciting violence after last week's assault on the U.S. Capitol by the president's supporters."
-publishedDateTime: 2021-01-13T08:11:00Z
-originalUrl: "https://www.reuters.com/article/BigStory12/idUSKBN29I0F9"
-webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN29I0F9"
+publishedDateTime: 2021-01-13T10:41:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-youtube-trump-int/youtube-suspends-trumps-channel-after-violating-policy-on-inciting-violence-idUSKBN29I0HL"
+webUrl: "https://www.reuters.com/article/usa-election-youtube-trump-int/youtube-suspends-trumps-channel-after-violating-policy-on-inciting-violence-idUSKBN29I0HL"
 type: article
 quality: 102
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547587815&r=LYNXMPEH0C0B5&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547595731&r=LYNXMPEH0C0FJ&w=800"
     width: 800
-    height: 535
+    height: 533
     isCached: true
 
 related:
@@ -307,6 +307,6 @@ related:
         height: 681
         isCached: true
 
-secured: "9azcI2PgQQuL5xmJeV3aRDJW/LFKBxbwnDP0jgampfXIH7EMoAf83pxfPfLgZKZ0IaD70WqnYz3BJK+x+imJ8UdZXYsEwQrMLkyzuRYCPaEkcP76e5fGEhZwDc0K1HfNlIx5Ui9J/p/bplsU4QqNlIX9EvWJWO4agj+wOKf5aR14Ze4SjHXfa2lZUHNRMkEPMJ/nrhbt8c/6Sed5JfObQYPZdxQlNWh79LsgfSMQ0//Rj9KkiVzP8miTl0ds+Ss3BglsLPeKMwTVZy+K+T/zD0EGe4BK5f5FMS2MFpBCj9/XTlVV1wmCLQDXEe5sHbKVZqlCCzz9KzkadoT359XfRmy+PuRtt5ivGEEM876AIa0=;fP/y9Y57d2H42a7YpSw+Ig=="
+secured: "B5qaCCOvjWXVjE8yCL+aMcpO19fn0ePnZUE9ZfKOmXRvVH4YvB9E5N3f+I/x634ienk4h7EWj+RVf5GJU8U3P/N1BYidP/kd0RxpryguLTBF2J0AvbPSmgUp/COAxYcOexAJ9IRrUtzc57I+vKRqAbn5rF62PBxduIKEGL/91Urm3Uk25sTHMjObfPBaz4Ld/kUP73uekZytVrlVTXmFHNWr0J1q6U0p9Ef3e7gqSj7hKO3Y2gQRu59gpVeNGmB/EMR5bFo2xMrDh162qiQWmpfS5JVhhZtjyIq0hYRPygfAFZSIkOAl+9KBcamjp5FEEwFtXeejQckGUy2w5w6mi1E9xa2JaSRu3SITRSRc7jY=;OjRJmRERxKFCbAdzQ5f9LA=="
 ---
 

@@ -3547,6 +3547,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pence says he opposes removing Trump with the 25th Amendment"
+    excerpt: "Vice President Mike Pence told House of Representatives Speaker Nancy Pelosi on Tuesday that he is opposed to invoking the 25th Amendment to remove President Donald Trump from office after Trump's supporters laid siege to the U."
+    publishedDateTime: 2021-01-13T07:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pence-letter/pence-says-he-opposes-removing-trump-with-the-25th-amendment-idUSKBN29I03C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547608000&r=LYNXMPEH0C02P&w=800"
+        width: 800
+        height: 557
+        isCached: true
   - title: "Congress overrides a Trump veto for the first time with Senate vote on defense bill"
     excerpt: "The Senate action follows a House vote earlier this week, and the defense bill now becomes law despite the president’s objections."
     publishedDateTime: 2021-01-02T00:35:00Z
@@ -5640,6 +5654,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "4MTvJFd2OnApaP6VvD69WNQQVoYYEtj8BUFpjUR6WYCXT0t7o10gwiZzLmGj3VSHJOjOceJyQ238WfrtCHs8rXAQQ5OFijDL3dqfFrfaN1KhpKm85wMRaGUXOZt4X+qzYPyPiLylEjJaDUd+cbDmnuhI80bl8V5j2SAj3b2+npXeaeVlLFCkIL3Ridtuk5brgsks4GNh7lbv3kF2o0bznZxUV8NFa+nz30jOKJOdOZ+4nu5xbhQtCjccrnsCC8fKaxmhHu/P28zbZal2T/vpWVgl4Q4NOaBo0TKfYIJtwA3jEMDaImwFSSW9G1Mkcu58368m8fLWJw6/ddL19L7Ljl/zBsMbRfIfBYSbPjREuxA=;VANcXZ6ZYBY3d2QuMFdIeg=="
+secured: "a1H6uFHBoCMQ4h31Zf8romcCvKJy1HkcAfIEv8EqnibudJZgyS0ccqER+kO5a6eQD7tmyOGpzT2qYCBLmXTeqsgPt4B0bu25xYt+djYv235BuMNLbpHm8k11fB6L2jyO8uBeOMAC10yT9R9UxXHd79BBw7stY09Zn/k7p9r/M4Xxw7ph6cjcJ7t8F8HRnqk+HjDEIRhCqyk4TPOjeOWJfFTx1BF0QPoFYcp+yfmjUdxwciCW2IJgMxDPk4RXwh5f+QSd3b7gkrKa+F+s4OW5G/BkC8XSzzYi29lO2klP+1Czp851DOMR1kF85prYn41qdarB2h5b5vwHu3QEDiszWNrnZa8vYuGIMN19XhjdE4JyS+HYH75017zG1ezj0nhbEY32ySqInAlKWeWOVsQ6T19T3nLdnourX74ls+Q7VyopStzfpmOT135l6vIJeWGSlFUllUVCdq3zKrmbjP5mCb0H024sPQm8gq3DPe2t/47gHd/f3xGgAIQP1IO45qB0T2KSNPZOfeDXTT+IXSZDLg==;JMpVWffV3YJZByKMzcmBqw=="
 ---
 
