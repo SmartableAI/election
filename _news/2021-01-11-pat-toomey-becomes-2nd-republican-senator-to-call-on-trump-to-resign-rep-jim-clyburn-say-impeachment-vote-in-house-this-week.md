@@ -95,6 +95,38 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump impeachment: Here's how the process works"
+    excerpt: "Impeachment proceedings for Donald Trump are nearing an end today, with the president facing vote in the Senate on two articles of impeachment that were approved by the House -- abuse of power and obstruction of Congress."
+    publishedDateTime: 2021-01-13T10:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/impeachment-process-works/story?id=51202880"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/impeachment-process-works/story?id=51202880"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/impeachment-process-works/story?id=51202880"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-rt-ps-190917_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump impeachment: what you need to know as House moves to a vote"
+    excerpt: "Trump’s fiery speech at a rally just before the attack on the Capitol is at the center of the impeachment charge against him"
+    publishedDateTime: 2021-01-13T12:49:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/13/trump-impeachment-what-you-need-to-know"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/13/trump-impeachment-what-you-need-to-know"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/13/trump-impeachment-what-you-need-to-know"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/11df812b1d90287973cee1da1eaa11c8e754b00f/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=81e4f974c9e1deadc01e0b57dcfa9e9b"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Top House Republican Liz Cheney says she will vote to impeach Donald Trump – live"
     excerpt: "Wyoming conservative’s split with the president could give cover to other Republicans who want to vote to impeach – follow live"
     publishedDateTime: 2021-01-12T22:35:00Z
@@ -127,6 +159,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump impeachment live updates: Trump on track to be 1st president impeached twice"
+    excerpt: "Live updates during the transition from the Trump to Biden administrations -- and from the second Trump impeachment."
+    publishedDateTime: 2021-01-13T13:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-transition-trump-biden-impeachment/?id=75166132"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden-impeachment/?id=75166132"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden-impeachment/?id=75166132"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump6-gty-ml-210106_1609954173598_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "LIVE: House prepares to impeach Trump for 'incitement of insurrection' over deadly Capitol siege"
+    excerpt: "Multiple Republicans will break ranks to join Democrats in impeaching Trump for the second time. He unleashed a frenzied mob on the Capitol last week."
+    publishedDateTime: 2021-01-13T14:18:00Z
+    webUrl: "https://www.businessinsider.com/house-trump-impeachment-capitol-siege-schedule-watch-live-updates-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/house-trump-impeachment-capitol-siege-schedule-watch-live-updates-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-trump-impeachment-capitol-siege-schedule-watch-live-updates-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5d5272afcd9784062d4f34d3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Draft article of impeachment charges Trump with 'incitement of insurrection' in Capitol mob attack"
     excerpt: "House Democrats on Friday discussed moving forward with plans to impeach President Donald Trump for the Capitol mob attack as early as Monday."
     publishedDateTime: 2021-01-08T21:55:00Z
@@ -145,8 +209,8 @@ related:
         isCached: true
   - title: "Several House Republicans join impeachment push; Pence says he will not move to expel Trump"
     excerpt: "At least four Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
-    publishedDateTime: 2021-01-13T09:30:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/with-some-republicans-on-board-u-s-house-democrats-press-forward-on-impeachment-vote-idUSKBN29H0JJ"
+    publishedDateTime: 2021-01-13T08:02:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/democratic-drive-to-impeach-trump-after-capitol-siege-speeds-ahead-idUSKBN29H0JJ"
     type: article
     provider:
       name: Reuters
@@ -215,6 +279,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/09/demonstrators-in-new-york-call-for-impeachment-of.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Donald Trump’s Republican wall eroding ahead of impeachment vote"
+    excerpt: "But with a sudden force, the wall of Republican support that has enabled Trump to weather a seemingly endless series of crises is beginning to erode. Trump’s weakened standing among his own party will come into sharper focus on Wednesday when the House is expected to impeach the president for inciting a riot at the U."
+    publishedDateTime: 2021-01-13T13:39:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/donald-trumps-republican-wall-eroding-ahead-of-impeachment-vote.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/donald-trumps-republican-wall-eroding-ahead-of-impeachment-vote.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/donald-trumps-republican-wall-eroding-ahead-of-impeachment-vote.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4ZGO5EH3VREN3GDE3TMS7G657A.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Three GOP Senators Support Trump Impeachment Or Resignation: 'Go Away As Soon As Possible'"
     excerpt: "House Democrats will reportedly attempt to pass a resolution calling for Vice President Pence and the Cabinet to invoke the 25th Amendment."

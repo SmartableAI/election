@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-13-allies-scorn-pence-and-pompeo-as-sandbergs-qanon-problem-grows.md",
+      "title": "Allies scorn Pence and Pompeo, as Sandberg’s QAnon problem grows",
+      "excerpt": "When CNN’s Jim Acosta reported a “source close to VP” saying Pence’s plan for the next week is to “telegraph to our allies and adversaries that we have a fully functioning government,\" Global Translations decided it was time to find out what European ambassadors in D.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/global-translations/2021/01/13/allies-scorn-pence-and-pompeo-as-sandbergs-qanon-problem-grows-491388",
+      "originalUrl": "https://www.politico.com/newsletters/global-translations/2021/01/13/allies-scorn-pence-and-pompeo-as-sandbergs-qanon-problem-grows-491388",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/bc/89ed482f4862b339c70a33cc0fb0/politico-global-translations-shared-graphic.jpg",
+          "width": 1201,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-hogan-calls-gop-delegate-who-attacked-pence-a-q-anon-conspiracy-theorist.md",
       "title": "Hogan calls GOP delegate who attacked Pence a ‘Q-Anon conspiracy theorist’",
       "excerpt": "Larry Hogan (R) said Tuesday that a Republican state delegate who organized buses to the #stopthesteal rally in Washington — and called Vice President Pence a traitor during the breach of the Capitol — was a “Q-Anon conspiracy theorist.",
@@ -176,7 +233,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 448,
+      "heat": 468,
       "tags": null,
       "images": [
         {
@@ -275,63 +332,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-presidential-transition-live-updates-house-says-it-will-move-swiftly-with-impeachment-if-pence-wont-act.md",
-      "title": "Presidential Transition Live Updates: House Says It Will Move Swiftly With Impeachment If Pence Won’t Act",
-      "excerpt": "The House could vote as soon as Tuesday on charging President Trump with inciting a mob that attacked the Capitol. But top leaders want to avoid hamstringing the first days of Joseph R. Biden Jr.’s presidency with an all-consuming Senate trial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden",
-      "originalUrl": "https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/10/us/10transition-briefing-promo-sub/10transition-briefing-promo-sub-videoSixteenByNineJumbo1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/10/us/joe-trump-biden.amp.html",
-      "publishedDateTime": "2021-01-10T11:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
       ]
     },
     {
@@ -780,7 +780,7 @@
       "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/01/07/pence-says-violence-never-wins-after-senate-resumes-electoral-count/6575926002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1369,7 +1369,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 529,
+      "heat": 549,
       "tags": null,
       "images": [
         {

@@ -109,6 +109,20 @@ related:
         width: 799
         height: 576
         isCached: true
+  - title: "Watch live: House vote today to impeach Trump for a second time"
+    excerpt: "The resolution is in response to last week’s assault on the U.S. Capitol by Trump supporters."
+    publishedDateTime: 2021-01-13T14:15:07Z
+    webUrl: "https://www.bing.com/videos/search?q=url%3ahttps%3a%2f%2fwww.youtube.com%2fwatch%3fv%3dZnyfYgu5iqg&ru=%2fsearch%3fq%3durl%253ahttps%253a%252f%252fwww.youtube.com%252fwatch%253fv%253dZnyfYgu5iqg%26FORM%3dHDRSC1&view=detail&mmscn=vwrc&mid=3F8B8EDDEAF27EB0C6203F8B8EDDEAF27EB0C620&FORM=WRVORC"
+    type: article
+    provider:
+      name: PBS News Hour
+      domain: bing.com
+    quality: 55
+    images:
+      - url: "https://tse2.mm.bing.net/th?id=OVF.kr1jrhl6%2bhrBBRY%2fCA37Tg&w=600&h=315&c=7&rs=1&qlt=100&pid=2.1"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "/QYjoZCjOiWP9cwd1rrJrR1VOsCyzLM0TJ3xzz9Q0/VSM7N+wb+Kddf2R5RFBUwstwojZMdz8xXkQWmKmhGy0C12dkJyCfdMEYaRjgOgXQjUoX3mpro5bxfvtv7xsqaI242gC7XDtus9AtZhFsCnufwT7yBvjMhduAvUpc5u2EjjiWBghxtF6pPNhZ+NDAkYe3HR/wXZJJ8wOtanOJ3OjSKYcZPwaNS0MSwzyp/K9bnl5RI41T/OjQ28kVzTs52+RydP3STTHsUK6QpM6DVHfx7aCl/TrpT4tD41QP6fCd+qutcF7qRQ1uDPrEdGy5nu6ktfhZDNzTjKY2F76qTk19Y/OXTQg2eVzLUbhqmDhpo=;ir0mb/8qq9VWPeIaeMcQDQ=="
 ---

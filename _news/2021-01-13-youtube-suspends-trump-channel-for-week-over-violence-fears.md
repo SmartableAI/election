@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "YouTube suspends Donald Trump's channel"
+    excerpt: "YouTube has become the latest social network to suspend President Trump. The Google-owned service has prevented his account from uploading new videos or live-streaming material for a minimum of seven days,"
+    publishedDateTime: 2021-01-13T08:27:00Z
+    webUrl: "https://www.bbc.com/news/technology-55643774"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-55643774"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55643774"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15EEF/production/_116493898_trumpp2.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Facebook 'indefinitely' blocks Trump's account after violence at Capitol"
     excerpt: "Trump supporters violently stormed the Capitol building in Washington, D.C., during a joint session of Congress, Facebook took the unprecedented step of indefinitely banning the president's account. At least four people have died following the so-called insurrection that erupted at the Capitol on Wednesday."
     publishedDateTime: 2021-01-07T21:18:00Z

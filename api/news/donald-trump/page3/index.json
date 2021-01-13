@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-06-trump-legal-problems-campaign-reaches-settlement-in-assault-case.md",
+      "title": "Trump Legal Problems: Campaign Reaches Settlement In Assault Case",
+      "excerpt": "Rod Webber was twice attacked at Trump rallies, the second incident netting him thousands in settlements from police and the campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trump-legal-problems-campaign-reaches-settlement-assault-case-3115100",
+      "originalUrl": "https://www.ibtimes.com/trump-legal-problems-campaign-reaches-settlement-assault-case-3115100",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/05/us-president-donald-trump-dramatically-withdrew-from-the.jpg",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trump-legal-problems-campaign-reaches-settlement-assault-case-3115100?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-legal-problems-campaign-reaches-settlement-assault-case-3115100?amp=1",
+      "publishedDateTime": "2021-01-05T14:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-us-attorney-in-atlanta-abruptly-resigns-and-trump-bypasses-his-deputy-in-picking-temporary-successor.md",
+      "title": "U.S. attorney in Atlanta abruptly resigns, and Trump bypasses his deputy in picking temporary successor",
+      "excerpt": "The top federal prosecutor in Atlanta abruptly resigned this week and President Trump bypassed his top deputy in selecting a temporary replacement — an unusual set of moves, even in the administration’s waning days.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national-security/georgia-us-attorney-resigns/2021/01/05/5c7f9222-4f83-11eb-bda4-615aaefd0555_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national-security/georgia-us-attorney-resigns/2021/01/05/5c7f9222-4f83-11eb-bda4-615aaefd0555_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TT53PUSPQ4I6XPNEMFNK57IFKU.jpg&w=1440",
+          "width": 1440,
+          "height": 992,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national-security/georgia-us-attorney-resigns/2021/01/05/5c7f9222-4f83-11eb-bda4-615aaefd0555_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/georgia-us-attorney-resigns/2021/01/05/5c7f9222-4f83-11eb-bda4-615aaefd0555_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-05T12:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-iran-reportedly-asks-interpol-to-arrest-trump-over-killing-of-qassem-soleimani.md",
       "title": "Iran reportedly asks Interpol to arrest Trump over killing of Qassem Soleimani",
       "excerpt": "Iran has asked Interpol to issue a “red notice” and direct law enforcement agencies around the world to arrest President Trump and 47 American officials for the US drone strike that",
@@ -817,7 +921,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 529,
+      "heat": 549,
       "tags": null,
       "images": [
         {
@@ -1406,110 +1510,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-trump-extends-visa-ban-health-coverage-policy-advances.md",
-      "title": "Trump extends visa ban, health coverage policy advances",
-      "excerpt": "President Donald Trump has extended pandemic-related bans on green cards and work visas to large groups of applicants through March 31",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-extends-visa-ban-health-coverage-policy-advances/2020/12/31/ba0b44d6-4bcd-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-31T17:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-amid-election-turmoil-caused-by-trump-chief-justice-roberts-lauds-judiciary-for-pandemic-response.md",
-      "title": "Amid election turmoil caused by Trump, Chief Justice Roberts lauds judiciary for pandemic response",
-      "excerpt": "Roberts notably avoided any mention of the judiciary's other historic challenges caused in large part by President Donald Trump, his frequent nemesis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/31/chief-justice-john-roberts-lauds-judiciary-pandemic-response/4101264001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/31/chief-justice-john-roberts-lauds-judiciary-pandemic-response/4101264001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/01/30/USAT/52bdfce1-7f86-4e20-94db-c96643c1f59c-1197623486.JPG?auto=webp&crop=2085,1173,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4101264001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4101264001",
-      "publishedDateTime": "2020-12-31T15:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

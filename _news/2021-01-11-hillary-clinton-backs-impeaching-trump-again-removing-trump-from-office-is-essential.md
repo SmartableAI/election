@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "'Squad' member accuses VP of 'cowardice' for not using 25th Amendment to remove Trump"
+    excerpt: "Rep. Ayanna Pressley, D-Mass., said Vice President Mike Pence's decision not to invoke the 25th Amendment to remove President Trump from office is a show of \"pure cowardice.\" "
+    publishedDateTime: 2021-01-13T14:32:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h2L3J6pWfdA/squad-member-accuses-pence-of-pure-cowardice-for-not-invoking-25th-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/squad-member-accuses-pence-of-pure-cowardice-for-not-invoking-25th-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-member-accuses-pence-of-pure-cowardice-for-not-invoking-25th-amendment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Vermont's Republican governor calls for Trump to resign or be removed over Capitol chaos"
     excerpt: "Vermont Gov. Phil Scott on Wednesday called on President Trump to resign or be removed from office hours after a large group of Trump supporters breached the U.S. Capitol in Washington."
     publishedDateTime: 2021-01-07T06:19:50Z

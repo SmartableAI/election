@@ -2,21 +2,21 @@
 category: news
 title: "Biden picks Samantha Power, former UN envoy, for US aid post"
 excerpt: "President-elect Joe Biden has selected Samantha Power, the U.S. ambassador to the United Nations under President Barack Obama, to run the U.S. Agency for International Development"
-publishedDateTime: 2021-01-13T12:30:00Z
-originalUrl: "https://www.washingtonpost.com/world/national-security/biden-picks-samantha-power-former-un-envoy-for-us-aid-post/2021/01/13/831cfd6c-559a-11eb-acc5-92d2819a1ccb_story.html"
-webUrl: "https://www.washingtonpost.com/world/national-security/biden-picks-samantha-power-former-un-envoy-for-us-aid-post/2021/01/13/831cfd6c-559a-11eb-acc5-92d2819a1ccb_story.html"
-ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-picks-samantha-power-former-un-envoy-for-us-aid-post/2021/01/13/831cfd6c-559a-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-picks-samantha-power-former-un-envoy-for-us-aid-post/2021/01/13/831cfd6c-559a-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+publishedDateTime: 2021-01-13T14:03:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759"
 type: article
 quality: 125
 heat: 145
 published: true
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_b144e118b1ff442f96fc0e82513e2870_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -48,6 +48,6 @@ related:
         height: 2250
         isCached: true
 
-secured: "vYL68ILJ470UV3NhyJ8Y20nFNxYRAfWckjHdLhnEN7rsoaASFs28CSeUfbS41bsZ8AakIY6xFfQY7cefvGmJpe3u1lwegIoo0DQQJ6kq/VeqCec7rnjDtFornPFNLkzjgeUa9B8C3p4cLZy0hrMvx5yY0TObx1hHX8cJJLqtWQzxGpSLnxKcw/G5BAn5tb+DOwfMMK1KKs0H/pEjmpKVk55oarKcpqT1wK5HLuqRoHaEf7jbeYxxYM7m/oY30ciqDaix8FqDCV/IHEkUsNT06UqIgZU+c458AvY0lbJL4W99vuuyeJblnuqqEDPtJ3uQakkWYtIKpAcWaF8y8NgUCEc76j+zWQOqF43RU94411Y=;tuZB8iuG2BkoO7hKbyUssQ=="
+secured: "7YkcfDGuJRPoyPV/tsfODQMLVI4N6rsbedMoYNZYVllwrVn9QVazycbvGYBnLdALRc+AjcNsoSob3+8bSIveeHUwrwjflJTN7uKzd/OL65A5Wf8+xEPGAFoVLJD7mn/5cXYqDm0G4ESXA8u5BQRrfoxhUnlA6O9kHnN4Eprg3nSlVF2XSkVaoy3voC0yBWdOlYTdY7zRacKkEH9rCNsrHOPpNqUSDt17W4v26zy4Iv6dxwmF8v6mVWWqbKDABsMR/iBT6xLODXqUcRl8XwcQBN+zj0AxLzKhdp8xcEkRG+MQPGwVPeWIRcWfpIE7RdTVCu9xRDZmznHz4514vbcunKfuy/cvMS1MVnGYRgslPyI=;j4euz2KlOQaGa6yACRq8JA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/amid-capitol-violence-facebo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 505
+heat: 525
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/07/04b36ed5-21a1-4313-b88d-4ec16ed9922a/thumbnail/1200x630/be4b63fc79ebd88f3c2c4e7df078adb6/gettyimages-1230470165.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "YouTube suspends Donald Trump's channel"
+    excerpt: "YouTube has become the latest social network to suspend President Trump. The Google-owned service has prevented his account from uploading new videos or live-streaming material for a minimum of seven days,"
+    publishedDateTime: 2021-01-13T08:27:00Z
+    webUrl: "https://www.bbc.com/news/technology-55643774"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-55643774"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55643774"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15EEF/production/_116493898_trumpp2.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Facebook 'indefinitely' blocks Trump's account after violence at Capitol"
     excerpt: "Trump supporters violently stormed the Capitol building in Washington, D.C., during a joint session of Congress, Facebook took the unprecedented step of indefinitely banning the president's account. At least four people have died following the so-called insurrection that erupted at the Capitol on Wednesday."

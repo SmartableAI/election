@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-questions-whether-trump-impea
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-questions-whether-trump-impeachment-will-hinder-his-agenda.amp"
 type: article
 quality: 190
-heat: 870
+heat: 890
 published: true
 
 provider:
@@ -222,6 +222,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "These House Republicans support Trump's impeachment"
+    excerpt: "A handful of House Republicans have said they will vote to impeach President Trump on Wednesday."
+    publishedDateTime: 2021-01-13T14:16:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SGHH9w30YNw/republicans-support-trump-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-support-trump-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-support-trump-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b04a1cd-ebd0-4814-9278-b3e36538afc6/4c57c8e2-8f61-4223-986a-e6350b9859f6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "House Dem apologizing for comparing new Trump impeachment to a 'lynching'"
     excerpt: "An Oregon Democrat is apologizing for likening a second impeachment of President Trump to a \"lynching.\""

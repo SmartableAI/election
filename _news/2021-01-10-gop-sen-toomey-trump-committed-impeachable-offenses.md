@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/toomey-trump-committed-impeachable-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/toomey-trump-committed-impeachable-offenses.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "President Trump did not commit an impeachable offense: Chaffetz"
+    excerpt: "Former U.S. Rep. Jason Chaffetz, R-Utah, told “Fox & Friends” on Wednesday that he doesn’t believe President Trump committed an impeachable offense."
+    publishedDateTime: 2021-01-13T14:00:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wi7eGzPaIHY/president-trump-not-commit-impeachable-offense-chaffetz"
+    ampWebUrl: "https://www.foxnews.com/politics/president-trump-not-commit-impeachable-offense-chaffetz.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-not-commit-impeachable-offense-chaffetz.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "6zSR2a1tD+Uba2+b1+PQwn/TRU54M1TcOXSO6ZNBSr4QeeTBfFuST50eIMNnAu8kv5FONjrWNTISqkZy4yauzvsK37ttOAV/cFvJAaPkY1diZJHxWIBC/Szh0BLIsbSXeO81xD3S5NOVAZDteaC7nMFruaFxABJmHotJd+Y0eP/pfpFn11X/pZHy9XtILkuTbborZa36STH5ddkuMp8jc625B9itPCr/oQEknerMuZpOCq87fFSIn6NmYeKkcW6HbENAe8W7F9OSXlMK058xt+3Chw2u61xwx2hjPC3LA+4DLNJtuMQlSV0rrjPKeQwP4Ev2Z06rOxnRso2Ehjapj01HxAlEl+SJWhPP18QThhw=;KkQ3lHG3kljAoBLiHa/KCA=="
 ---

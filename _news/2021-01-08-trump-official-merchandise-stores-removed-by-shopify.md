@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/trump-official-merchandise-store
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903"
 type: article
 quality: 125
-heat: 325
+heat: 365
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "More House Republicans Reveal 'Yes' Votes for Donald Trump Impeachment"
+    excerpt: "Five Republican members of the House have so far said they will vote to impeach President Donald Trump following the riot at the Capitol on January 6. A vote is expected on Wednesday. Congresswoman Jaime Herrera Beutler of Washington's 3rd district and Congressman Fred Upton of Michigan's 4th district both announced that they would vote to impeach late on Tuesday."
+    publishedDateTime: 2021-01-13T09:13:00Z
+    webUrl: "https://www.newsweek.com/more-house-republicans-reveal-yes-votes-donald-trump-impeachment-1561072"
+    ampWebUrl: "https://www.newsweek.com/more-house-republicans-reveal-yes-votes-donald-trump-impeachment-1561072?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/more-house-republicans-reveal-yes-votes-donald-trump-impeachment-1561072?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1705243/president-donald-trump-speaks-reporters.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Donald Trump's Inauguration Boycott Welcomed by Republicans and Democrats"
     excerpt: "The president announced he will not attend ahead of his ban from Twitter, as a backlash grows against him over the recent events at the Capitol."
     publishedDateTime: 2021-01-11T15:29:00Z
@@ -78,6 +94,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546576867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0311U"
         width: 818
         height: 545
+        isCached: true
+  - title: "US stock futures rise and oil nears 1-year high as investors shrug off Donald Trump impeachment and cheer stimulus"
+    excerpt: "The Democrats are poised to impeach Donald Trump again, but investors are betting on economic recovery and are buying stocks and commodities."
+    publishedDateTime: 2021-01-13T09:49:00Z
+    webUrl: "https://www.businessinsider.com/stock-markets-today-futures-rise-oil-nears-year-high-trump-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/stock-markets-today-futures-rise-oil-nears-year-high-trump-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-markets-today-futures-rise-oil-nears-year-high-trump-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://images2.markets.businessinsider.com/5ffeb999a8de7700187d38c0?format=jpeg"
+        width: 701
+        height: 526
         isCached: true
   - title: "What’s Pence’s Next Move? VP's Battle With Trump Is Unprecedented"
     excerpt: "Pence has made no public statement about his split with the president, and so far sources within the White House have said it is unlikely that the vice president would invoke the 25th Amendment to remove Trump from office,"

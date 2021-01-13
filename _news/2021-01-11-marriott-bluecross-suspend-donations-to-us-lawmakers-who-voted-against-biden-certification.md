@@ -32,7 +32,7 @@ related:
   - title: "Walmart, Disney suspend contributions to U.S. lawmakers who opposed Biden certification"
     excerpt: "Walmart Inc, the world's biggest retailer and Walt Disney Co joined other major companies in indefinitely suspending donations to U.S. lawmakers who voted against President-elect Joe Biden's election certification."
     publishedDateTime: 2021-01-13T07:53:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-corporate-walmart/walmart-disney-suspend-contributions-to-us-lawmakers-who-opposed-biden-certification-idUSKBN29H2TO"
+    webUrl: "https://www.reuters.com/article/us-usa-election-corporate-walmart-idUSKBN29H2TO"
     type: article
     provider:
       name: Reuters

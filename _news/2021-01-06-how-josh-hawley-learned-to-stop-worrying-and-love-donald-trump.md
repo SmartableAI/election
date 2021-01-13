@@ -44,6 +44,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's actions in last days as President increase his legal jeopardy"
+    excerpt: "President Donald Trump's actions during his final days in office have significantly increased his exposure to potential criminal prosecution, lawyers say, complicating his life after the White House.\n    \n"
+    publishedDateTime: 2021-01-13T14:38:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Cgtw9MH9OOg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/trumps-actions-increase-legal-jeopardy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/trumps-actions-increase-legal-jeopardy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112204819-trump-arrives-white-house-1112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "QtEoi4vL37O2t0i52VBNbmB1oKq2OwmLeY7sOZL92J/v7ApJocCEuP/d4rkPwPOrGZUmlUmtDQaYJ0Eqa4pjum4IJfwpOt2wfgVIpCXc6DkcZu/uY8owTJhMRes2RFGJnibMpmPiHdVO5HZhe29z5X0NhzYeMutjbrDzpeT+38ugO9MKFzyq9xUuSBjB8qbzA7ic48v626cVo0miC/beOcX2jPFrIgEmQp4qnqMh9zj2Wy89zrM2alUCzsZvaBtd0Ca61OnPQOlFCYqnOq6EYLMgd3DLrPylzkKK9+Z596ShgBMxE9RT5RmQnjXFWmt2NphznaFMnqN3GNl+zGhFmGpXxp/+7JfF85NWitc3sK0=;QWPVAQYikTBfNwbKLq6SYA=="
 ---

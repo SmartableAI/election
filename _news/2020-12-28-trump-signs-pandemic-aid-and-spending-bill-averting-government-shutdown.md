@@ -111,6 +111,22 @@ related:
         width: 1440
         height: 977
         isCached: true
+  - title: "Democrats Urge Mitch McConnell to Publicly Back Removing Donald Trump"
+    excerpt: "The president's adversaries continue to push his impeachment as part of a sustained backlash against him following the events of January 6."
+    publishedDateTime: 2021-01-13T09:41:00Z
+    webUrl: "https://www.newsweek.com/mitch-mcconnell-donald-trump-impeachment-democrats-1561079"
+    ampWebUrl: "https://www.newsweek.com/mitch-mcconnell-donald-trump-impeachment-democrats-1561079?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitch-mcconnell-donald-trump-impeachment-democrats-1561079?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1705259/mitch-mcconnell-capitol.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "McConnell thwarts Trump bid for $2,000 coronavirus economic relief checks"
     excerpt: "U.S. Senate leader Mitch McConnell dealt a likely death blow on Wednesday to President Donald Trump's bid to boost coronavirus aid to Americans, declining to schedule a swift Senate vote on a bill to raise relief checks to $2,"
     publishedDateTime: 2020-12-31T03:11:00Z

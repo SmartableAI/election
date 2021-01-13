@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "YouTube suspends Donald Trump's channel"
+    excerpt: "YouTube has become the latest social network to suspend President Trump. The Google-owned service has prevented his account from uploading new videos or live-streaming material for a minimum of seven days,"
+    publishedDateTime: 2021-01-13T08:27:00Z
+    webUrl: "https://www.bbc.com/news/technology-55643774"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-55643774"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55643774"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15EEF/production/_116493898_trumpp2.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Facebook 'indefinitely' blocks Trump's account after violence at Capitol"
     excerpt: "Trump supporters violently stormed the Capitol building in Washington, D.C., during a joint session of Congress, Facebook took the unprecedented step of indefinitely banning the president's account. At least four people have died following the so-called insurrection that erupted at the Capitol on Wednesday."
     publishedDateTime: 2021-01-07T21:18:00Z
@@ -323,6 +339,6 @@ related:
         height: 681
         isCached: true
 
-secured: "6tg04wJpjU3AMFObyhY2zIMr+iT4pLY1oDvCOZDz6+wQULAuO2zGlflHjGicDK1fgx4CNx654gX/Qpq8F4hY9Zg519xIb0tyQenZCzl9sTsOEwi2A6mtpU25LX9BY3rgyiBHL5JDXgKhNAGNMjW8/1++EQbb585OnJVgdQW/WZTwHUKGgFdTVEw/c+ecvQQfdQz7J0Nn72fJmKq7jeP4UsZj2uCrY/G3ZxCGreQtgm70SVvXMiKlljimfPJDkBRdadT4NTSCoiokdE9IAlpRSnSBye3niFHQJKLkrwmB4trBPo0PlMc1MiGRAR43cF3hQExx50yG4Fdm8RUIMbV4URu9YtqA2tv9K4FrDlcqcTM=;srxtnWo+72tMa5CcSepP6g=="
+secured: "VuHd3plkkhYyVZyVDVjLmi/bq4rbIuXu2hrLmylx5Oeub1+iitCTGICNWlQEjrGgbIsa3MbRYi4LMfZf5dGRe1RyTknhyixPSTdXhpyN1GPr5HuGvaWIgbh1L0DEcInKA1XDQdsNdn7SW9pYaQTUM3Dk9kPiSboTRcUq+lJJPtWgPACEdR2b1mYph6xfUZxmGyyPCvVEyKSgR/XddiSxnGYoaTibuEw1iRsqrbVAaiQyGNoOOZMqe/YnkAEDFkIFvLfxCPYfSnAxJGOCVJnApftXqpiiD0ZeXaFFK04fXlFhA9H37ZrZWfJUzg535jqjgSQCo9t9eUoARf/HNixomKRhkD/0PtmwzurrKXuhSqxPId59FOPHuIwSsvBMDeLrLQsmhohptsR8AF70HY0u6t7kBDNuwHH3BogPgI+agH5GE6NtLhgFyv8zJ/aVqMnt2bqXtyBQXyU9jnTERxrK4Dzk+azTFGi4mrC1XWLir63AfKxrEVP7i9ANnlHBgjYKWyIgU+CK01b+SXKiTS0ynQ==;Kocuo/oR9Ec+gA0I6HhRmw=="
 ---
 

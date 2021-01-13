@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/house-gop-blocks-quick-consideratio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-gop-blocks-quick-consideration-of-bill-calling-on-pence-to-invoke-25th-amendment.amp"
 type: article
 quality: 188
-heat: 448
+heat: 468
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "'Squad' member accuses VP of 'cowardice' for not using 25th Amendment to remove Trump"
+    excerpt: "Rep. Ayanna Pressley, D-Mass., said Vice President Mike Pence's decision not to invoke the 25th Amendment to remove President Trump from office is a show of \"pure cowardice.\" "
+    publishedDateTime: 2021-01-13T14:32:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h2L3J6pWfdA/squad-member-accuses-pence-of-pure-cowardice-for-not-invoking-25th-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/squad-member-accuses-pence-of-pure-cowardice-for-not-invoking-25th-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-member-accuses-pence-of-pure-cowardice-for-not-invoking-25th-amendment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
