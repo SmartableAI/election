@@ -175,6 +175,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How a 2nd Trump impeachment could differ from 1st"
+    excerpt: "A possible second presidential impeachment would be unprecedented and come with different punishments if Trump is convicted."
+    publishedDateTime: 2021-01-13T16:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/2nd-trump-impeachment-differ-1st/story?id=75204919"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/2nd-trump-impeachment-differ-1st/story?id=75204919"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/2nd-trump-impeachment-differ-1st/story?id=75204919"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/donald-trump-impeachment-04-gty-llr-210112_1610486846963_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect Kamala Harris. The image shows Ms Harris wearing an informal outfit including jeans and a pair of Converse trainers."
     publishedDateTime: 2021-01-12T15:52:00Z

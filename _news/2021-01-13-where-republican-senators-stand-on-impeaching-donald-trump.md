@@ -175,6 +175,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How a 2nd Trump impeachment could differ from 1st"
+    excerpt: "A possible second presidential impeachment would be unprecedented and come with different punishments if Trump is convicted."
+    publishedDateTime: 2021-01-13T16:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/2nd-trump-impeachment-differ-1st/story?id=75204919"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/2nd-trump-impeachment-differ-1st/story?id=75204919"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/2nd-trump-impeachment-differ-1st/story?id=75204919"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/donald-trump-impeachment-04-gty-llr-210112_1610486846963_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect Kamala Harris. The image shows Ms Harris wearing an informal outfit including jeans and a pair of Converse trainers."
     publishedDateTime: 2021-01-12T15:52:00Z
@@ -706,6 +722,6 @@ related:
         height: 630
         isCached: true
 
-secured: "lD1WWMDICleXbpwwQzcEiFcsN5jJvMgsDKE75FM77NPzVeYtPyFHFAhCLTiG8ARMyI1JFE7rH1m8D3eotUJ20IytdK/D7gWfdVZQ8whAl1PC9ujzCoxbdpcKrTeMFKD7t+y+jgdmy8VVmpIu2SuXE0Yi+iriLIcxxvuLbDKT73YxG0Wa2D3fyVotmmCxzg/88bgM8tvxh3WPYPcyQxLDNlOL0oJhBs1R6GhGY1vBO5l+AEwqXrtPYs+3rN3BLrZGz5P71TOoLNdMnMlkAXygUyx1DPYQEEHia3GOsI0PcGI5yyRj0iwWaFopyVSEfO+LaI3SRUzLngjEzT7g5imW2wHqCHBGcdMx5UGquYqHdlc=;10daCzisBX84pL7tsrtwDA=="
+secured: "oQk+2iIOKsvnPHtOZ8zmOxS3GhL/DVmY+mR5Pt9Z8ISanLMsAs+qYH1SOSptT8UZTmwCFEC4w/4qU7XDS2CPpl+Hb3GlxGcstvU9f7F4LQQ0vHlU3dXDhfEHwLgp1MkND1UIrom3f5tCRe9TqZMFBUhaxAlGjzwSKJXfwOZQ65HdzEseo7mgxmr+9CzovmFyY91T7WQwMtfC7O81+347/AGrngBAzbWjlsBw9NMRRN9a1+s/Ary+M1wz/8ayC3meD4P/BnHEHBts9tQavy4Pq3PE92a3gZMhkaIhZg3su3n+/kxT4X8ikFSyyRVUF0cFAnwlydm4iwiHsR52AN4+mAjG3IuE763feAaskdmCziQFfWgEyLkUgt5L5fWs80y5yR2VljP+Cx5dQVWRFxo7kM0GYilzAhjf5vbTtHz7f1NumZQ+1HNvSr0oJpEmW4gN6X1b5TFQfzAT0MHsdsgj0tdXvEjFqMdGf0xusilwF3Rw/yLFGQC2U7/W0lJ16VG6H1pzNJmqDnlkj09Q+z358w==;He5RTYGlxKj5J3RXof2f0Q=="
 ---
 

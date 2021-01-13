@@ -2,13 +2,13 @@
 category: news
 title: "House passes resolution urging Pence to invoke 25th Amendment"
 excerpt: "The U.S. House of Representatives voted to pass a resolution urging Vice President Mike Pence to invoke the 25th Amendment to remove President Trump from office."
-publishedDateTime: 2021-01-13T04:53:00Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1ir__uv-ejc/house-passes-resolution-urging-pence-to-invoke-25th-amendment"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1ir__uv-ejc/house-passes-resolution-urging-pence-to-invoke-25th-amendment"
+publishedDateTime: 2021-01-13T05:09:00Z
+originalUrl: "https://www.foxnews.com/politics/house-passes-resolution-urging-pence-to-invoke-25th-amendment"
+webUrl: "https://www.foxnews.com/politics/house-passes-resolution-urging-pence-to-invoke-25th-amendment"
 ampWebUrl: "https://www.foxnews.com/politics/house-passes-resolution-urging-pence-to-invoke-25th-amendment.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-passes-resolution-urging-pence-to-invoke-25th-amendment.amp"
 type: article
-quality: 185
+quality: 135
 heat: -1
 published: false
 
@@ -22,13 +22,13 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Mike Pence
+  - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f747de20-33e1-45d9-95ea-ea5ba63f0050/c4bf3401-56d3-4cea-b33b-f5024e4bf1a4/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -79,6 +79,6 @@ related:
         height: 517
         isCached: true
 
-secured: "dpermICPbUybAVclEmU1xOCjeVoBfX5T7/+jfvEEMnh/nFLdJFelKCMLYKS1CPlYMh/XWc09GH7prxrJ5T+wAit90F5z7LPedjE0lvw0HBnojtCJGBJbig7rbHfzL9F50ESz+Cv2NjPrM0g1dGYNj+TaZIAlzfO7SfUyLA8xTo44snMdGisVZFsQ2vAEbAdBTdQ8izFLBhae6XnKx49jjR6daAyyh7mBZoewo/WjvLk6YtIdfWoSH+FIWr97AZYOVRRhfbAUt4LmrXsHFmBJqGas2rSrwMjmXhPkVqeyQ23QHLF0Q4T6R0L4To36wMU0Q4dyHs4ujVy9bbmXOS/LJq3b1dxvcGt99N2RTiggE70=;CysnxCGhzGoIyYcEVwzrCQ=="
+secured: "3+2CxR7iU9oJQP2Z9trkUdjZNtu25KX052cCNKE8q5Z5rUREiYztJK9kMXDpNsV8OZruo3QxOuoJacXvNMLjY3Jg2xc+zJl+SHmSVRc9cfv1+foqVLJs0t8St9x3pJtlt1V1BpLgVSC2MOZFF5WVj70KgtEHN3RTR1XgVaR/HZvFaj9mLXgOv3TKDasX5gRLpmbqdBvqzuDQC4JpOyLiDQ8nlB6hWBxSaVMgQlzsbFMCL0+JTwQ395tHieb+3JrNVIEarab21Gy67cm/ckBgrWTfbaDw1/shPSyks8tk3unfaR8wk1q4o4U3yGpAsAqOzNgGoSceNBLokSFR29lb19fhk4pyEeHsbZRIChOSwFA=;EvjKPyWPzKDKI/riCfYVLg=="
 ---
 

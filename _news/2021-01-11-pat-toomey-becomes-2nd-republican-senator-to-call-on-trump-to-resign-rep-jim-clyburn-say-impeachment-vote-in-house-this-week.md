@@ -232,6 +232,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "‘Impeaching Donald Trump will not heal divide in country'"
+    excerpt: "While there is a constitutional imperative and symbolism of impeaching President Donald Trump, it will not help heal divisions in the country, a former deputy homeland security adviser to president Barack Obama has said."
+    publishedDateTime: 2021-01-13T15:58:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55651929"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p093wyn3.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "House rushes to impeach Trump after Pence says he won’t invoke 25th Amendment"
     excerpt: "Already scheduled to leave office next week, Trump is on the verge of becoming the only president in history to be twice impeached."
     publishedDateTime: 2021-01-13T10:05:00Z

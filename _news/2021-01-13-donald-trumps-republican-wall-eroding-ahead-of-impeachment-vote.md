@@ -228,6 +228,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "‘Impeaching Donald Trump will not heal divide in country'"
+    excerpt: "While there is a constitutional imperative and symbolism of impeaching President Donald Trump, it will not help heal divisions in the country, a former deputy homeland security adviser to president Barack Obama has said."
+    publishedDateTime: 2021-01-13T15:58:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55651929"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p093wyn3.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Pat Toomey becomes 2nd Republican senator to call on Trump to resign; Rep. Jim Clyburn say impeachment vote in House this week"
     excerpt: "Pennsylvania Republican Sen. Pat Toomey called on President Trump to resign, saying it would be the good of the country after the Capitol riot."
     publishedDateTime: 2021-01-10T17:46:00Z
@@ -331,6 +345,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "DXBwPSU+s7PlxMUKGQWcEHTX0hGZdUEjTEaR5e1Alj7ZUAbzHq5fSm8CoBVewNGH+9WOmZNQps9CCXH7hgHN00NpBMtQ9yppcNtIq63sYNgrpVefl6dTCxzJ7eRMeDmujVDeEBXUF4uq02GvHiASPFmzxJHDd/7A7wx15r3iVFDAw7YAwA5/j2kMWXdHjZjTvLrhncIUkYSdkuPWxVs+rXAu8RAjhaxz/lohoN8dU/b0rSQENWj3hOU902kkki7vtI2jxWvkxtsNEhk9iFP4wf3wCqQdBWsxbJjaGyRTG2VbBVUiiLReKbRZxhQPL5JgoPdoL/Dd3HnoWrthwU4hYNB7jE3nOVn628SA3jcJcmg=;Zgh7qQNBtvl/ZFTRADRmmA=="
+secured: "asmzlhkX5pf8x84YwMloK3cnLQXWPfI9lBZ63VoHYUMa4WwPMwCWYl9fOPhUVQPDqyccE3tdEdiNOf0i5hhTJTkFXyRQhfKpBCSbSZ1KR5UizHBKq1yfayygmKVrEkLRH5sR8kqnjTQSRE8FS/CS4atWOapBsm+/gVIuR135ODQugyP2U/4qDNFVIAnycYwmA5SndD534/I+b5ccER7jAFMMlG++p4lo7Q/u83hSzQ7UCeliGVdcA5lhpTto0HbPPWt26W/r48dQ3a6S/XsZI2s8K/Txc1getn/RDi1LgEHzhiAeyp60pj6eQxlpw/KCH0PH36vGEoXXbcWU6rVL4ReIvfLCoi9frvSESPiEI1tHMeomLWqrsOeFTy0JOR6pzZwPTDGZT45MdzWn7job0BpU5sUBss27AlXFuLqavj3SOWuqJGOqzzOBpGStVci8cy1j4rDpewIdbfRq3kzQiRr7ZYGnqongOevVExO/xr0EGZ5FZql95w4GthxXlH4cTGhx+w7qhp4X+Asx8TWkvA==;2F4kjbuakU+xc00pKvgxcA=="
 ---
 

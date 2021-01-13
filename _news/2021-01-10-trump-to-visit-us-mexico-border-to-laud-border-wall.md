@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-bor
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_eea37b12d40e40e589e76134df53aa03_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Golf’s pitch to distance itself from Donald Trump came five years too late"
+    excerpt: "The golf establishment’s decision to finally turn its back on the US president is hardly a profile in courage after five years of see no evil, hear no evil"
+    publishedDateTime: 2021-01-13T12:29:00Z
+    webUrl: "https://www.theguardian.com/sport/2021/jan/13/donald-trump-golf-pga-championship-stripped"
+    ampWebUrl: "https://amp.theguardian.com/sport/2021/jan/13/donald-trump-golf-pga-championship-stripped"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2021/jan/13/donald-trump-golf-pga-championship-stripped"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/edb8e792d778d64d85745bc12c24e7038d4e575d/173_218_3106_1865/master/3106.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c38118f5b9ad1a232629ad5576df98d6"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump's crackdown on the US-Mexico border has been a moneymaker for border agents working with traffickers"
     excerpt: "Under Trump, corruption among US Border Patrol agents has increased dramatically, experts, former officials, and cartel operatives tell Insider."

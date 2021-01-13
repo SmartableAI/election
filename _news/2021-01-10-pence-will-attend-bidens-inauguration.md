@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 1760
+heat: 1800
 published: true
 
 provider:
@@ -269,6 +269,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108153229-joe-biden-press-conference-cabinet-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden team to produce prime-time inauguration television special "
+    excerpt: "President-elect Joe Biden's team is producing a celebrity-filled prime-time special for the night of his inauguration in lieu of the traditional celebrations, which have been significantly pared down due to the pandemic, a Presidential Inaugural Committee official confirms to CNN.\n    \n"
+    publishedDateTime: 2021-01-13T16:21:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/khaPO-RW4gM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/biden-inauguration-television-special/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/biden-inauguration-television-special/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201112001531-03-joe-biden-1110-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -669,6 +685,22 @@ related:
     quality: 156
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110181613-biden-train-sept-30-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Head of US vaccine effort resigns at request of incoming Biden administration but will stay through transition"
+    excerpt: "Operation Warp Speed chief scientific adviser Moncef Slaoui has submitted his resignation at the request of the incoming Biden administration, a source with knowledge of the events tells CNN.\n    \n"
+    publishedDateTime: 2021-01-13T16:21:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wOm7ODAVChQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/moncef-slaoui-operation-warp-speed-resigns-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/moncef-slaoui-operation-warp-speed-resigns-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130203553-dr-moncef-slaoui-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

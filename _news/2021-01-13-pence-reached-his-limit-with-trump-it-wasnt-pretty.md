@@ -1934,6 +1934,22 @@ related:
         width: 719
         height: 376
         isCached: true
+  - title: "Mike Pence is done with Trump’s ‘bulls--t’"
+    excerpt: "Allies of the VP say he’s keeping his head down, not closing the door on politics, and figuring out his life without Trump."
+    publishedDateTime: 2021-01-13T01:48:00Z
+    webUrl: "https://www.politico.com/news/2021/01/12/mike-pence-done-with-trump-458509"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/12/mike-pence-done-with-trump-458509"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/12/mike-pence-done-with-trump-458509"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/0b/f6/85df320a482f9345075c0eb1695a/gettyimages-1230461107-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Live Updates: Ignoring the Constitution, Trump Increases Pressure on Pence to Reject Electors"
     excerpt: "President Trump falsely claimed that the vice president has the power to reject electors when the Electoral College vote is certified Wednesday. Georgia voters are choosing two senators in races that will decide which party controls the Senate — and the election may be a nail-biter."
     publishedDateTime: 2021-01-05T12:58:00Z

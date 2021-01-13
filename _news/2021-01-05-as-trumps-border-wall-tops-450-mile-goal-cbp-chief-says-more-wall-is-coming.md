@@ -477,6 +477,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "House set to impeach Trump for 2nd time as Pence refuses removal"
+    excerpt: "House expected vote to impeach Trump after Pence refuses removal The U.S. House of Representatives is expected to vote to impeach President Trump on Wednesday. The House voted late Tuesday to pass a resolution urging Vice President Mike Pence to invoke the 25th Amendment to remove the president from office,"
+    publishedDateTime: 2021-01-13T09:09:00Z
+    webUrl: "https://www.foxnews.com/us/house-hours-away-from-impeaching-trump-for-2nd-time-as-pence-refuses-removal"
+    ampWebUrl: "https://www.foxnews.com/us/house-hours-away-from-impeaching-trump-for-2nd-time-as-pence-refuses-removal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/house-hours-away-from-impeaching-trump-for-2nd-time-as-pence-refuses-removal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/thumb-pence-nancy-split-1156p.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "New Trump impeachment? Top Democrats show no interest in 'Squad' push"
     excerpt: "A renewed interest in impeaching President Trump from members of the so-called \"Squad\" is not catching on among top House Democrats."
     publishedDateTime: 2021-01-05T15:50:00Z
@@ -508,6 +524,22 @@ related:
       - url: "https://images.wsj.net/im-280713/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "House begins Trump impeachment debate as GOP splinters over rebuke to president"
+    excerpt: "As the House of Representatives is on the verge of impeaching President Trump for the second time, Republicans in both chambers of Congress are split on whether or not to support the effort in the tumultuous final days of the Trump presidency."
+    publishedDateTime: 2021-01-13T15:19:00Z
+    webUrl: "https://www.foxnews.com/politics/gop-splinters-on-trump-impeachment-as-house-set-to-rebuke-president-yet-again-with-just-days-left-in-term"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-splinters-on-trump-impeachment-as-house-set-to-rebuke-president-yet-again-with-just-days-left-in-term.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-splinters-on-trump-impeachment-as-house-set-to-rebuke-president-yet-again-with-just-days-left-in-term.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Rep-Liz-Cheney.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "GOP Sen. Ben Sasse says there is 'brokenness' in Trump's soul, refuses to rule out impeachment"
     excerpt: "GOP Sen. Ben Sasse said Friday he is willing to consider articles of impeachment against President Trump if they are introduced by the House of Representatives following a violent mob attack by pro-Trump supporters on the nation's Capitol earlier this week."

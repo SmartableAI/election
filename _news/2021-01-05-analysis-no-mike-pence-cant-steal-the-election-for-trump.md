@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-elec
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html"
 type: article
 quality: 215
-heat: 3975
+heat: 3995
 published: true
 
 provider:
@@ -1917,6 +1917,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/13/arts/13latenight/13latenight-facebookJumbo.png"
         width: 719
         height: 376
+        isCached: true
+  - title: "Mike Pence is done with Trump’s ‘bulls--t’"
+    excerpt: "Allies of the VP say he’s keeping his head down, not closing the door on politics, and figuring out his life without Trump."
+    publishedDateTime: 2021-01-13T01:48:00Z
+    webUrl: "https://www.politico.com/news/2021/01/12/mike-pence-done-with-trump-458509"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/12/mike-pence-done-with-trump-458509"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/12/mike-pence-done-with-trump-458509"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/0b/f6/85df320a482f9345075c0eb1695a/gettyimages-1230461107-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Pence Reached His Limit With Trump. It Wasn’t Pretty."
     excerpt: "After four years of tongue-biting silence that critics say enabled the president’s worst instincts, the vice president would not yield to the pressure and name-calling from his boss."

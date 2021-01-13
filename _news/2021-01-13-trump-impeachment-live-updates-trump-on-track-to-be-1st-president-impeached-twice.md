@@ -216,6 +216,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "‘Impeaching Donald Trump will not heal divide in country'"
+    excerpt: "While there is a constitutional imperative and symbolism of impeaching President Donald Trump, it will not help heal divisions in the country, a former deputy homeland security adviser to president Barack Obama has said."
+    publishedDateTime: 2021-01-13T15:58:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55651929"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p093wyn3.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Pat Toomey becomes 2nd Republican senator to call on Trump to resign; Rep. Jim Clyburn say impeachment vote in House this week"
     excerpt: "Pennsylvania Republican Sen. Pat Toomey called on President Trump to resign, saying it would be the good of the country after the Capitol riot."
     publishedDateTime: 2021-01-10T17:46:00Z
@@ -335,6 +349,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "wLfqiydcpSjOdmmsBZhHdRA0C8ry39epTooZXorxlSG2tuDNtPA5ISFzSnajY6+PJ8x/rMxUiA66Ure8UMkRzJjU8t+Do4Wy5ZAvLCQclxEyprynqc2UmNGdamXgT+iQjcIVb+AXx3y1rZ8T9wAqQi1o++t95YWPcOcYx8Hu1suOc5/hU/lPHVd42vi53L480g02ux3mhH0bdAViCRO7vMwyGJUaI81dl1nseQMr62mFiclUWF9+fKT4GeD5uthmumwZ1kQ2EYShk7Ra4CmPc/7pu/0yzasfqesm04i1WyrB7e9OQm4B4num/8APnQQPAEbLkKZeMxu3kMGGMF9tu5/72qKBNLX+hj8r1DIlung=;y4tdSBaPu0IXZUkikJRchA=="
+secured: "KRPlkekzbnAj1wq0S7CpCi3hvOsQOR1yfrqVl4F8ltIaY45XrV3LwRa7Cp2vUH5QYpJcKiWiu6vlZbQfoDzULRFgU6SouKMRamMewMNBx0lZnaZJgpsi+Hm2oK7hPD8mVnPNs113z9fGVIFTYKipNmBHPZn83/uRPgxHuoPcTTwx9nwKG7EB7Dln7zQubg9FawtalOYCzMOHKpD7gpc3SGbTHdyXRHZIgJZ8VDYtEOuvfmUA6Cidfa+94igNGzefDfbbJO+2RgfW6O0GLtcL/2u1RkvqEbqlQF0/FYvY3mXH2xUYY35Z5k6qteTH9xDTeKvAiwUSrAw7iWWdoF3wn4mswZxI87fEbk0amCSIi9xUvL4qjpaQmOgOSqrzPii7utJnQQpllxAl6Oe26UFqExAakV+cNO5FWm1GYH/9dYpVwaMfbuhTGhrdmxMuscC9m7VSQh0wPxg73QEZNrtJVk6PMzZnjSzQUw/avi/tZTxf89mumuSFo4NRhN7GaTLR5d/o9TgIDR6Vr2of8bF58A==;9lWgxGOGRMpMXuuJEs9RxA=="
 ---
 

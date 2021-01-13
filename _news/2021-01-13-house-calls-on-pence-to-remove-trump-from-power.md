@@ -1932,6 +1932,22 @@ related:
         width: 719
         height: 376
         isCached: true
+  - title: "Mike Pence is done with Trump’s ‘bulls--t’"
+    excerpt: "Allies of the VP say he’s keeping his head down, not closing the door on politics, and figuring out his life without Trump."
+    publishedDateTime: 2021-01-13T01:48:00Z
+    webUrl: "https://www.politico.com/news/2021/01/12/mike-pence-done-with-trump-458509"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/12/mike-pence-done-with-trump-458509"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/12/mike-pence-done-with-trump-458509"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/0b/f6/85df320a482f9345075c0eb1695a/gettyimages-1230461107-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Pence Reached His Limit With Trump. It Wasn’t Pretty."
     excerpt: "After four years of tongue-biting silence that critics say enabled the president’s worst instincts, the vice president would not yield to the pressure and name-calling from his boss."
     publishedDateTime: 2021-01-13T01:20:00Z
@@ -2995,6 +3011,6 @@ related:
         height: 773
         isCached: true
 
-secured: "zl96/ECYXj9ba6ex2iK7AtONEpfxio8RCe4PJFzx2VggKKr2CPys9mLsWjVIp90AiAB4WTwaLp1vxyJYeqvDizvM+RHApUs0wl0A9ypbxxGht5D4KBrcJ8kaMSFdxxVes8KgATGmllWQK4gnz8E5QS6G8FN4j42wXm5obka2oWtjdOUaGKtHO3P+aSFOgnBYb5almIlcQIIrpqiR9jZP0pfmaxTdKvJbf2y+Z99F57cD7N0UKsYWi5/1pMOVeBYYXbQsOy1YDmDE0WS+kj+EH5dtq0GW6q38uyuy5Cu4ZWiu79hfuO+GXrXMQNvGfkp1JoucW071XEGkb1dCvW2QCooPsVrWFPgRqcz4sWhI+iE=;AUgAPqI9rHc5DXjyi74vuQ=="
+secured: "CL5kFwQvZ1TLLojbedwg42S2H0gzHRsQE4WHagqbt56gVuQTMVA1rsi1ATIOz4znCimC1wGDHYKLSwqekeXKs/szTnYVFspjapzoo48Q0+DnC65vKBWu8bkMDYr3nkl3ivfP01IhQkJ+TAHA8l49RB3h7uB615i0zBHqoT9q+XK+pkL1hciNlXKnH0ESX3dlTXGcWMYi4MxakKOn+Tzjn65uc8CcDd/Mc/53Cdd13e3m8aTWF/LlLmUkHomjhUQ6Qn2EJb7z5zDOgVJnoGAmQGbr2mZ3xULFp9mUG93QhKUuBCrJ1BmxV3doTBGqthF4wkhuXrOoMvjLennoV49pmDJQK7Q+Lx1wtg44yBHrQblg35lvZ8wtv8DpQawJ6+YwMQvN8aqTL0XeGbR2NF00+dFuGNbfpHVmIqsuURewrykwTEj/PJ3jKTyT0n0+u7NDSqFoVTHJChg80MdsigNEgWbK8JB+BrbGXFwgiRE1IdvvOKbfSZ7SnlYAO3Iyd5aKy4RLEiu2ipnDHMqxb6p7+g==;dWCmfIxt4B9eY/CbL+BzOA=="
 ---
 

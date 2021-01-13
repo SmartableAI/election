@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29A2PA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29A2PA"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -238,6 +238,17 @@ related:
         width: 1024
         height: 661
         isCached: true
+  - title: "Reactions to the Impeachment of U.S. President Donald Trump"
+    excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump. HOUSE RULES COMMITTEE CHAIR JIM MCGOVERN, DEMOCRAT OF MASSACHUSETTS \"We are debating this historic measure at an actual crime scene and we wouldn't be here if it weren't for the president of the United States."
+    publishedDateTime: 2021-01-13T15:18:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-13/reactions-to-the-impeachment-of-us-president-donald-trump"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-13/reactions-to-the-impeachment-of-us-president-donald-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-13/reactions-to-the-impeachment-of-us-president-donald-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "2+jfHMKYFj1qBRO9JjiEC5aPQ2WIleZK0Ety8IUWNNB1yQXB0/NjjQJbWSfvNhPiRnXc3TltX2TF1TQL+GazaCiY1uBe1eloB/ypalxJREs8oazRt4eMAsQmMgBQYY+8GDi68wh+mrnLj0d6jldR+ItwXUr0D9QV5UR1wvYcuxdJjkPxvK+3azVO4ZTBU5vHBaukIcb6xkDgp1HQGKDSldeff0h4XG0TPoznvOdr7h/Yb9jmURfwwWD9fGH+byBvbHHqjZpWI5b7g8BunaBjFmBJbnw3G9RFrbEUa7SIFa8Ii4e5zXkviU7vruaBBZ63ay1U+CyfVk2Z+pLoNJILvkVSXogOl40JFjdEPeiYqyc=;HEtgn3EiHKhvVdyYPZ7LuQ=="
 ---

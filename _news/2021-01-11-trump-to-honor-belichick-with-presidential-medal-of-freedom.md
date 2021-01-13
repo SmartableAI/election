@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-honor-belichick-wit
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-honor-belichick-with-presidential-medal-of-freedom/2021/01/10/6f4d7c1c-53ab-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2019/05/09/USAT/a44b6bc0-83b7-419e-9c03-4cb0f5ed1feb-bxx_trump2_0926.JPG?auto=webp&crop=2350,1322,x0,y379&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Donald Trump's Approval Rating Tanks to Record Low on Day of Potential Second Impeachment"
+    excerpt: "Sixty-three percent of voters said they disapprove of Trump's performance, making him one of the lowest-rated presidents in U.S. history."
+    publishedDateTime: 2021-01-13T16:08:00Z
+    webUrl: "https://www.newsweek.com/donald-trumps-approval-rating-tanks-record-low-day-potential-second-impeachment-1561212"
+    ampWebUrl: "https://www.newsweek.com/donald-trumps-approval-rating-tanks-record-low-day-potential-second-impeachment-1561212?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trumps-approval-rating-tanks-record-low-day-potential-second-impeachment-1561212?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1705620/mandel-ngan.jpg"
+        width: 2500
+        height: 1666
         isCached: true
   - title: "New England Patriots coach Bill Belichick won't accept Presidential Medal of Freedom from Donald Trump"
     excerpt: "New England Patriots coach Bill Belichick said Monday that he will not be accepting the Presidential Medal of Freedom that Donald Trump planned to present to him on Thursday. Belichick explained his decision in a statement."
