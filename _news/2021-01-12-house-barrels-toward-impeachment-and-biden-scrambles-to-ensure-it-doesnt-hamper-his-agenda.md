@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Operation Warp Speed chief adviser resigns, Biden's transition official says"
+    excerpt: "Moncef Slaoui, the chief adviser for Operation Warp Speed, has resigned but will be available to the incoming Joe Biden administration as a consultant for about four weeks, a Biden transition official told Reuters late on Tuesday."
+    publishedDateTime: 2021-01-13T11:08:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-slaoui/operation-warp-speed-chief-adviser-resigns-bidens-transition-official-says-idUSKBN29I097?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547574508&r=LYNXMPEH0C05S&w=800"
+        width: 800
+        height: 577
+        isCached: true
   - title: "Walmart suspends contributions to U.S. lawmakers who opposed Biden certification"
     excerpt: "Walmart Inc , the world's biggest retailer, joined other major companies in indefinitely suspending donations to U.S. lawmakers who voted against President-elect Joe Biden's election certification."
     publishedDateTime: 2021-01-13T03:37:00Z

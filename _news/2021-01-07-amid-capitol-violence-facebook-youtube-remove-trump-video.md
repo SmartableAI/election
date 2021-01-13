@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/amid-capitol-violence-facebo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/-aAP2b_YTj9TpE7ZkcH1cDiQXF4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/46OMDMS7IBDPFFTOUKLLQRFOV4.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "YouTube ban: Google blocks new uploads to Donald Trump's channel after Capitol riots, citing potential for violence"
+    excerpt: "Google's YouTube is blocking new uploads to Trump's channel. It's also being threatened with a national ad boycott if it does not ban Trump."
+    publishedDateTime: 2021-01-13T12:23:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2021/01/12/trump-youtube-ban-capitol-riots-civil-rights-groups/6649933002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6649933002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6649933002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d9fcae70-ecb3-4fa7-ba54-bd90bcd378e0-AP21012563654909.jpg?auto=webp&crop=5999,3374,x1,y626&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Sacha Baron Cohen shamed Google for keeping Donald Trump's YouTube account live after Facebook and Twitter banned him"
     excerpt: "\"Trump's YouTube channel is STILL showing videos of his election lies to MILLIONS of people!\""

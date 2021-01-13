@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "See how Trump's language was echoed by rioters"
+    excerpt: "As the House prepares to vote on impeaching President Donald Trump to condemn his role inciting the riot at the US Capitol, CNN looks at the language Trump used and how it was echoed by rioters."
+    publishedDateTime: 2021-01-13T11:25:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/01/13/trump-protesters-language-capitol-riot-impeachment-laura-jarrett-live-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/01/13/trump-protesters-language-capitol-riot-impeachment-laura-jarrett-live-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/13/trump-protesters-language-capitol-riot-impeachment-laura-jarrett-live-newday-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113110701-video-thumbnail-trump-and-rioter-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "muTAGgzn8XcifdvEpLQOudbrb3SgOs/7X+fUMafzde9egz0TGaE6feiN2+qmw/r0NkERi0f5dM4GjfCtnF3QcAJt1BWs9eWjrupVs168BJz+kmzJABKPeKJyJV2zYYwVPpaXZS/61tmvXqfV2s19R3bxjF5eCxv/dieipIZEScYvvPr/fyQxfuOxVr9m7iB0i//7fasUI8An3KclrYzDPzRSGzvnVrL80Cu8IOoDNiKZk9rCrFoQyRjBs9XqjBS3X+3GDXG5IwrlZ5R02uSbPttG+nfcBBpcbBDDwygCbUj9c2Vl0CC9F5XvJUmtbpIXlP3sHO6ZuiLnBjR75mN7zE3UkJiHRe4XUWcNrqDNDts=;H7Ke37oieM0d0iWBnnISoQ=="
 ---

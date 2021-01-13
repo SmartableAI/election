@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Liz Cheney faces backlash from some GOP lawmakers after backing Trump impeachment"
+    excerpt: "Rep. Liz Cheney, R-Wyo., is facing calls from some Republican lawmakers to step down from her leadership post as chairwoman of the House Republican Conference after she announced that she will vote to impeach President Trump."
+    publishedDateTime: 2021-01-13T07:51:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xNlu381ThFE/biggs-wants-cheney-to-resign-from-leadership-post"
+    ampWebUrl: "https://www.foxnews.com/politics/biggs-wants-cheney-to-resign-from-leadership-post.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biggs-wants-cheney-to-resign-from-leadership-post.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Eliminating Trump from being elected again one motivator in impeachment push, Pelosi says"
     excerpt: "House Speaker Nancy Pelosi said in a “60 Minutes” interview that aired Sunday night that one of the motivating factors for some in the new effort to impeach President Trump and remove him from office is to eliminate any chance that he has of being elected president in four years."
     publishedDateTime: 2021-01-11T09:11:52Z

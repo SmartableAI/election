@@ -2087,6 +2087,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: House Set to Impeach Trump, After Pence Rejects Call to Strip His Powers"
+    excerpt: "Lawmakers said they would move to impeach the president on Wednesday, after formally calling on Vice President Mike Pence to use the 25th Amendment. Mr. Pence rejected the request earlier in the day saying he didn’t believe the action was “in the best interest of our nation."
+    publishedDateTime: 2021-01-13T05:41:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/13/us/trump-impeachment"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/13/us/trump-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/13/us/trump-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 142
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/13/world/13transition-briefing1/13transition-briefing1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Facing calls for his removal, Trump reverses positions on election loss, rioters and Covid"
     excerpt: "Facing calls for his removal, Trump reverses positions on election loss, rioters and Covid A day after he told his supporters \"we love you,\" President Donald Trump condemned them Thursday for violently swarming the U."
     publishedDateTime: 2021-01-08T02:13:00Z

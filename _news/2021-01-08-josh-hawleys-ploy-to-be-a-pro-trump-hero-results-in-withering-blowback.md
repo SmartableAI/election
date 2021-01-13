@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/josh-hawley/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/josh-hawley/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106142925-06-trump-rallies-0106-washington-dc-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "House to vote Wednesday to impeach Trump for second time after inciting Capitol riot"
+    excerpt: "The House is poised to make Donald Trump the first President in United States history to be impeached for a second time on Wednesday with a swift and bipartisan vote to condemn Trump's role inciting the riots at the US Capitol.\n    \n"
+    publishedDateTime: 2021-01-13T11:29:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GlA_Ue3yaj8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/house-vote-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/house-vote-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007163357-03-trump-pelosi-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

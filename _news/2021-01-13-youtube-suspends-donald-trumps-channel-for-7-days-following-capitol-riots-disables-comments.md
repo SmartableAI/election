@@ -191,6 +191,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "YouTube ban: Google blocks new uploads to Donald Trump's channel after Capitol riots, citing potential for violence"
+    excerpt: "Google's YouTube is blocking new uploads to Trump's channel. It's also being threatened with a national ad boycott if it does not ban Trump."
+    publishedDateTime: 2021-01-13T12:23:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2021/01/12/trump-youtube-ban-capitol-riots-civil-rights-groups/6649933002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6649933002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6649933002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d9fcae70-ecb3-4fa7-ba54-bd90bcd378e0-AP21012563654909.jpg?auto=webp&crop=5999,3374,x1,y626&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Sacha Baron Cohen shamed Google for keeping Donald Trump's YouTube account live after Facebook and Twitter banned him"
     excerpt: "\"Trump's YouTube channel is STILL showing videos of his election lies to MILLIONS of people!\""
     publishedDateTime: 2021-01-11T16:35:00Z

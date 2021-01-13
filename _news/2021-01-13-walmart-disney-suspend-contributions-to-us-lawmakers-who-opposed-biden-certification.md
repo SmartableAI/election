@@ -3,12 +3,12 @@ category: news
 title: "Walmart, Disney suspend contributions to U.S. lawmakers who opposed Biden certification"
 excerpt: "Walmart Inc, the world's biggest retailer and Walt Disney Co joined other major companies in indefinitely suspending donations to U.S. lawmakers who voted against President-elect Joe Biden's election certification."
 publishedDateTime: 2021-01-13T07:53:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-corporate-walmart/walmart-disney-suspend-contributions-to-u-s-lawmakers-who-opposed-biden-certification-idUSKBN29H2TO"
-webUrl: "https://www.reuters.com/article/us-usa-election-corporate-walmart/walmart-disney-suspend-contributions-to-u-s-lawmakers-who-opposed-biden-certification-idUSKBN29H2TO"
+originalUrl: "https://www.reuters.com/article/us-usa-election-corporate-walmart/walmart-disney-suspend-contributions-to-us-lawmakers-who-opposed-biden-certification-idUSKBN29H2TO"
+webUrl: "https://www.reuters.com/article/us-usa-election-corporate-walmart/walmart-disney-suspend-contributions-to-us-lawmakers-who-opposed-biden-certification-idUSKBN29H2TO"
 type: article
 quality: 97
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: Reuters
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Marriott and others pledge to cut off money to members of Congress who doubted Biden win"
-    excerpt: "The violent insurrection at the Capitol has companies scrambling to react, as the option of sitting on the sidelines grows increasingly unsatisfying."
-    publishedDateTime: 2021-01-11T03:44:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/01/10/marriott-campaign-donations-congress/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/01/10/marriott-campaign-donations-congress/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/10/marriott-campaign-donations-congress/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 116
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4IPYVLRAFMI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Marriott, BlueCross suspend donations to U.S. lawmakers who voted against Biden certification"
     excerpt: "Marriott International Inc, the world's largest hotel company, and the Blue Cross Blue Shield Association (BCBSA) said Sunday they will suspend donations to U.S. lawmakers who voted last week against certifying President-elect Joe Biden's victory."
     publishedDateTime: 2021-01-11T12:45:00Z
@@ -59,23 +43,7 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "All 6 of Alabama’s GOP House members will challenge Joe Biden’s win"
-    excerpt: "All six Republican members of the U.S. House from Alabama have now said they would oppose certifying the Electoral College results today."
-    publishedDateTime: 2021-01-06T13:26:00Z
-    webUrl: "https://www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UO5C7PYP6VGOTAZVXMB2SRXNPA.jpg"
-        width: 819
-        height: 461
-        isCached: true
 
-secured: "DVwc8yltlSwzaUfE/cABLD64PdxSTDjvQQRZ8FQWpVZQn/l4JZsCMu9P5R05JMKYjTQUAhSn5aNQQKe/Qp4fUmCUx1DsFVtWVryfrjpEZwT68+U4f452j08dfwwrNeDzXx9f03mYT8v7NPWM7wekTLHTGt67SqaTxqDX8j/jcKUOtHKFbmBmXzRvwQrvNrnvhjg1BrNXi3nglxrj21SBVT3vy320/IGd98lUMklMKV2AnRyGFSSxhW6siuTbdiaCmmsS/Pjt+I+9FS16Yw7qxtgsKW3omRLjRmqJV6GcRac2qclUsm10BAzw9foPbjIW9Z67cZasj+/oHj9Hq4+p3AjIVK9/Rr/YGAs1cb07HBI=;3P1fnqHwQDbvTPIvQ5Lddw=="
+secured: "rbzw9ziH0ihFJ0/HOpjIydHjeIduPoSwTBWx6ElR5Ip8cH9dOtG45E7QUXzKka+ClReT5QHPGhlPi3pfSRfgGFV+41c7BrPbJFdvGb49Zoxl8C4C0xTjqpysMRnyLyO3E/GZqv8QpINfuPElqABXzVf0Gu8Q7lRuZFMc39q3cc6EhO3kp36AbYOU4qtslRcvAgqzy3lhogX6Asiu8uOqWMoT2bGUWIPVVgUj1e0xvsRia+1pB6nbRLXpGQFo9LTaTsOHimTkJTbIWJplVFzSRHcTvpZPzROgMR0tlA0Iq6p95LPy2w8nkzP7jLXbVEitvSIHxJgAgk17pq2mmEDRU8B/q3AmZM4oyiRgzSQn0e8=;4PzftCQ/js9fqL5bglTbPA=="
 ---
 

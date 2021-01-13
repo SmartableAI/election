@@ -223,6 +223,38 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Advocacy group: Biden should revamp US human rights policy"
+    excerpt: "Human Rights Watch is calling on President-elect Joe Biden to bring “fundamental change” to U_S_ policy on human rights and allow criminal investigations of President Donald Trump to “show that the president is not above the law."
+    publishedDateTime: 2021-01-13T12:29:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/advocacy-group-biden-revamp-us-human-rights-policy-75218924"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/advocacy-group-biden-revamp-us-human-rights-policy-75218924"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/advocacy-group-biden-revamp-us-human-rights-policy-75218924"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Biden to extend pause on federal student loan payments"
+    excerpt: "The president-elect's transition team also said Mr. Biden supports Congress \"immediately\" cancelling $10,000 of federal student loans"
+    publishedDateTime: 2021-01-13T12:04:00Z
+    webUrl: "https://www.cbsnews.com/news/student-loan-payments-pause-biden-extend/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/student-loan-payments-pause-biden-extend/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/student-loan-payments-pause-biden-extend/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/11/5a845e73-ca79-43f4-bd69-1ea7fd5ec19b/thumbnail/1200x630/e81e9d97adaa622c1f2f6d0c44844c40/gettyimages-1201562159-1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Capitol riots: Congress certifies Joe Biden's victory after chaotic scenes"
     excerpt: "The US Congress has certified Joe Biden's victory in the presidential election, hours after supporters of Donald Trump stormed the building in an attack that saw four people die. Lawmakers resumed the session after police removed a mob that had been encouraged by President Trump as part of his attempt to overturn his defeat."
     publishedDateTime: 2021-01-08T18:32:00Z

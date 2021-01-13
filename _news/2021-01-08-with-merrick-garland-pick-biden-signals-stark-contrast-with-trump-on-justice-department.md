@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/merrick-garland-biden-do
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/merrick-garland-biden-doj/index.html"
 type: article
 quality: 181
-heat: 261
+heat: 281
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190909121944-bill-belichick-nfl-new-england-patriots-opener-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's turbulent and lawless presidency will end with historic second impeachment"
+    excerpt: "The fateful moment when the House of Representatives on Wednesday impeaches President Donald Trump for a second time will rank among the defining moments of America's story long after the citizens enduring these harrowing, tragic days are gone.\n    \n"
+    publishedDateTime: 2021-01-13T12:01:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UBvVvAV_lR0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/donald-trump-impeachment-history-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/donald-trump-impeachment-history-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112002426-02-trump-04-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

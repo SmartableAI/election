@@ -93,6 +93,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Operation Warp Speed chief adviser resigns, Biden's transition official says"
+    excerpt: "Moncef Slaoui, the chief adviser for Operation Warp Speed, has resigned but will be available to the incoming Joe Biden administration as a consultant for about four weeks, a Biden transition official told Reuters late on Tuesday."
+    publishedDateTime: 2021-01-13T11:08:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-slaoui/operation-warp-speed-chief-adviser-resigns-bidens-transition-official-says-idUSKBN29I097?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547574508&r=LYNXMPEH0C05S&w=800"
+        width: 800
+        height: 577
+        isCached: true
 
 secured: "YMyFtOuHYkam40bVX9myd4CFktGrusens+82mJtjS/wd+Mu6ax1zGmSLXI4awEtu8AOvraIwoZrhx6da/bkJ6wRVa3TQ88tZ4TLBu7ZP06qlp+idTsTN0SOUoRYZSPE9GW8Tes/1EVfqx0VLRFkc2P7cIBIhTy8a8ru8A961zJYw4OblraWMCLHJIzOm+883hr/mR78vehf3lK3/bz7R0u7busvt8LJtDUX4Lq806nAG7HPpf9Ke4aSdLAuA9c8mGa1JiHuJMfcd/tRya/hjIFr42l8XUxVod56G2KmYHy0D1f7AXeTuH3e/4yujN9kgEkKOjFmsQPypBAB53lVbqEpP0FF/hFmzJqXkBlah2Z30R+OlX9YkSgJYOoJglX0tCWE7xVALKewvM34HBLPtxgmLGehS/6PtBEO8TOlIyqOu6CavMDu0IKed91ZqoP8zqGcTk+/n+PcpAmdALeT/1uXXo5HTPKehIn1D0otnUkVgat8o2ht3Gi/72rXvLzDgJtgqmvp8LKEbz8EL/Fnysw==;xIRrXps4m7uBDoXow1w+yQ=="
 ---

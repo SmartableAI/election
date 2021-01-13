@@ -94,6 +94,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "At the 11th hour, Trump hands Biden a whole new set of foreign policy headaches "
+    excerpt: "His days as president of the United States may be numbered, but Donald Trump is going out of his way to light a string of wildfires for his successor to put out.\n    \n"
+    publishedDateTime: 2021-01-13T05:25:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vmjq7QmKcoE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/world/trump-biden-taiwan-cuba-yemen-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/world/trump-biden-taiwan-cuba-yemen-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107021907-biden-trump-split-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump pledges orderly transition after Congress affirms Biden's win and Capitol riot"
     excerpt: "President Donald Trump publicly acknowledged that he would leave office on January 20 Thursday, pledging an orderly transfer of power after Congress affirmed President-elect Joe Biden's Electoral College win.\n    \n"
     publishedDateTime: 2021-01-07T10:53:30Z

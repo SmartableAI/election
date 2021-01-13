@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's turbulent and lawless presidency will end with historic second impeachment"
+    excerpt: "The fateful moment when the House of Representatives on Wednesday impeaches President Donald Trump for a second time will rank among the defining moments of America's story long after the citizens enduring these harrowing, tragic days are gone.\n    \n"
+    publishedDateTime: 2021-01-13T12:01:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UBvVvAV_lR0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/donald-trump-impeachment-history-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/donald-trump-impeachment-history-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112002426-02-trump-04-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "House Sets Impeachment Vote to Charge Trump With Incitement"
     excerpt: "Democrats are planning a Tuesday vote to formally call on the vice president to wrest power from President Trump and a Wednesday impeachment vote if he does not."
     publishedDateTime: 2021-01-12T03:37:00Z

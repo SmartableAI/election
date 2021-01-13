@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-questions-whether-trump-impea
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-questions-whether-trump-impeachment-will-hinder-his-agenda.amp"
 type: article
 quality: 190
-heat: 850
+heat: 870
 published: true
 
 provider:
@@ -414,6 +414,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e261edb-993c-4462-a43f-7b8bc27294f3/dbae9707-b9f7-49a0-8d78-aa793b6188a1/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "GOP splinters on Trump impeachment as House set to rebuke president yet again with just days left in term"
+    excerpt: "As the House of Representatives is on the verge of impeaching President Trump for the second time, Republicans in both chambers of Congress are split on whether or not to support the effort in the tumultuous final days of the Trump presidency. "
+    publishedDateTime: 2021-01-13T12:36:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T6p3AtdtVBs/gop-splinters-on-trump-impeachment-as-house-set-to-rebuke-president-yet-again-with-just-days-left-in-term"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-splinters-on-trump-impeachment-as-house-set-to-rebuke-president-yet-again-with-just-days-left-in-term.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-splinters-on-trump-impeachment-as-house-set-to-rebuke-president-yet-again-with-just-days-left-in-term.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump a Twitter rival? After ban, president says he's in talks with other platforms -- or may launch his own"
     excerpt: "President Trump on Friday said he is considering other social media platforms and may even create his own after he was banned from Twitter in the wake of Wednesday's U.S. Capitol riot."

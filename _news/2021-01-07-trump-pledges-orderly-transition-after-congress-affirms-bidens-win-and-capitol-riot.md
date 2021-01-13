@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "At the 11th hour, Trump hands Biden a whole new set of foreign policy headaches "
+    excerpt: "His days as president of the United States may be numbered, but Donald Trump is going out of his way to light a string of wildfires for his successor to put out.\n    \n"
+    publishedDateTime: 2021-01-13T05:25:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vmjq7QmKcoE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/world/trump-biden-taiwan-cuba-yemen-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/world/trump-biden-taiwan-cuba-yemen-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107021907-biden-trump-split-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden will release nearly all available vaccine doses in break from Trump administration policy"
     excerpt: "President-elect Joe Biden will aim to release every available dose of the coronavirus vaccine when he takes office, a break with the Trump administration's strategy of holding back half of US vaccine production to ensure second doses are available.\n    \n"
     publishedDateTime: 2021-01-09T04:05:32Z

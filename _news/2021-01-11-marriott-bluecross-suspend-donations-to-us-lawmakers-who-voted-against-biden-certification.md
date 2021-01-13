@@ -29,26 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "Marriott and others pledge to cut off money to members of Congress who doubted Biden win"
-    excerpt: "The violent insurrection at the Capitol has companies scrambling to react, as the option of sitting on the sidelines grows increasingly unsatisfying."
-    publishedDateTime: 2021-01-11T03:44:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/01/10/marriott-campaign-donations-congress/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/01/10/marriott-campaign-donations-congress/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/10/marriott-campaign-donations-congress/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 116
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4IPYVLRAFMI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Walmart, Disney suspend contributions to U.S. lawmakers who opposed Biden certification"
     excerpt: "Walmart Inc, the world's biggest retailer and Walt Disney Co joined other major companies in indefinitely suspending donations to U.S. lawmakers who voted against President-elect Joe Biden's election certification."
     publishedDateTime: 2021-01-13T07:53:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-corporate-walmart/walmart-disney-suspend-contributions-to-u-s-lawmakers-who-opposed-biden-certification-idUSKBN29H2TO"
+    webUrl: "https://www.reuters.com/article/us-usa-election-corporate-walmart/walmart-disney-suspend-contributions-to-us-lawmakers-who-opposed-biden-certification-idUSKBN29H2TO"
     type: article
     provider:
       name: Reuters
@@ -58,22 +42,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547573394&r=LYNXMPEH0B1LM&w=800"
         width: 800
         height: 459
-        isCached: true
-  - title: "All 6 of Alabama’s GOP House members will challenge Joe Biden’s win"
-    excerpt: "All six Republican members of the U.S. House from Alabama have now said they would oppose certifying the Electoral College results today."
-    publishedDateTime: 2021-01-06T13:26:00Z
-    webUrl: "https://www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/all-6-of-alabamas-gop-house-members-will-challenge-joe-bidens-win.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UO5C7PYP6VGOTAZVXMB2SRXNPA.jpg"
-        width: 819
-        height: 461
         isCached: true
 
 secured: "4t1jgR4hlZVU7bFe/JsqtydlrV+GQUJOxGpK+bKGRLrIVF/I/mps+VjtbYfoQoM8Pf+bpGltsOexVIaF0pADAHsPbXyatbhmKe7MUUVNAHQry9AdR5GcyenOKnqYAGESIPeEyT68Hl4mfTBpWXgG+RwCmax2ZZ3cTRZibd/h4HZ3/5ZWUqCkgEvcXk3rZFWMDX59Jz4XnqQKjAuhp4W8kUfAcfgRQQzOgBKVfX2ThEq7w0c42fn454Lul1phIFCt6EMLrsZ+QdmIrGcgUWEUxtHdX7j4sJGFQwPU1JBh8jsQ8difl0g8/XxBwpNwxnWGNKkoullN18GOvIOhR9Roc+PBS4MyYni4uV/Jf5palaI=;bJqB6aksERJWua3iIyXhbA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-b
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 925
+heat: 965
 published: true
 
 provider:
@@ -206,6 +206,38 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/f95343e/2147483647/strip/true/crop/4241x2770+132+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fac%2Fbd%2F331b2c9a40158f3355c08af0f6aa%2Fsd-photos-1staff-682804-sd-me-patriotrally-waterfront-kca-002.JPG"
         width: 320
         height: 209
+        isCached: true
+  - title: "Advocacy group: Biden should revamp US human rights policy"
+    excerpt: "Human Rights Watch is calling on President-elect Joe Biden to bring “fundamental change” to U_S_ policy on human rights and allow criminal investigations of President Donald Trump to “show that the president is not above the law."
+    publishedDateTime: 2021-01-13T12:29:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/advocacy-group-biden-revamp-us-human-rights-policy-75218924"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/advocacy-group-biden-revamp-us-human-rights-policy-75218924"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/advocacy-group-biden-revamp-us-human-rights-policy-75218924"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Biden to extend pause on federal student loan payments"
+    excerpt: "The president-elect's transition team also said Mr. Biden supports Congress \"immediately\" cancelling $10,000 of federal student loans"
+    publishedDateTime: 2021-01-13T12:04:00Z
+    webUrl: "https://www.cbsnews.com/news/student-loan-payments-pause-biden-extend/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/student-loan-payments-pause-biden-extend/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/student-loan-payments-pause-biden-extend/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/11/5a845e73-ca79-43f4-bd69-1ea7fd5ec19b/thumbnail/1200x630/e81e9d97adaa622c1f2f6d0c44844c40/gettyimages-1201562159-1.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Two Biden aides will recuse on BlackRock issues as past ties pose questions"
     excerpt: "In 2019, the company won again when the Trump administration cemented an approach that would essentially exempt large companies such as BlackRock from more scrutiny. Now, however, the New York firm — with $7."

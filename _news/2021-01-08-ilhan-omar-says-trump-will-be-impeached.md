@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-trump-impeached.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-trump-impeached.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Liz Cheney faces backlash from some GOP lawmakers after backing Trump impeachment"
+    excerpt: "Rep. Liz Cheney, R-Wyo., is facing calls from some Republican lawmakers to step down from her leadership post as chairwoman of the House Republican Conference after she announced that she will vote to impeach President Trump."
+    publishedDateTime: 2021-01-13T07:51:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xNlu381ThFE/biggs-wants-cheney-to-resign-from-leadership-post"
+    ampWebUrl: "https://www.foxnews.com/politics/biggs-wants-cheney-to-resign-from-leadership-post.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biggs-wants-cheney-to-resign-from-leadership-post.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump says his supporters will still have a 'giant voice,' won't be 'disrespected' "
     excerpt: "President Trump on Friday said his supporters will still have a “giant voice” and would not be “disrespected” after he leaves the White House."
     publishedDateTime: 2021-01-08T15:50:56Z

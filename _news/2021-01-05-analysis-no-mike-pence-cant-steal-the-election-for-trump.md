@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-elec
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html"
 type: article
 quality: 215
-heat: 3955
+heat: 3975
 published: true
 
 provider:
@@ -2073,6 +2073,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/c525203e-595e-4147-971b-1d343b2d2960/5e45f899-c74d-4093-a529-e64368fff26c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Live Updates: House Set to Impeach Trump, After Pence Rejects Call to Strip His Powers"
+    excerpt: "Lawmakers said they would move to impeach the president on Wednesday, after formally calling on Vice President Mike Pence to use the 25th Amendment. Mr. Pence rejected the request earlier in the day saying he didn’t believe the action was “in the best interest of our nation."
+    publishedDateTime: 2021-01-13T05:41:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/13/us/trump-impeachment"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/13/us/trump-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/13/us/trump-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 142
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/13/world/13transition-briefing1/13transition-briefing1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Key steps in Trump Organization criminal probe stall as investigators await Supreme Court decision"
     excerpt: "The Manhattan district attorney's criminal investigation into President Donald Trump's business has slowed as investigators wait for a ruling by the US Supreme Court, according to people familiar with the investigation, making it likely that a decision on whether there is a case to bring will be weeks"
