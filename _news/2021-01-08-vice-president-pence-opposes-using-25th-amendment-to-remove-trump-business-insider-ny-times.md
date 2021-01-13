@@ -1261,6 +1261,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "House urges Pence to help oust Trump; impeachment next"
+    excerpt: "With impeachment ahead, the House is trying first to push the vice president and Cabinet to act even more quickly to remove President Donald Trump from office"
+    publishedDateTime: 2021-01-13T07:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/house-urges-pence-oust-trump-impeachment-75215375"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-urges-pence-oust-trump-impeachment-75215375"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-urges-pence-oust-trump-impeachment-75215375"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_962b8b05854242008ffd3937779d1d78_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
     publishedDateTime: 2021-01-02T17:01:00Z
@@ -3882,20 +3898,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 110
-  - title: "Several House Republicans join impeachment push; Pence says he will not move to expel Trump"
-    excerpt: "At least four Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
-    publishedDateTime: 2021-01-13T04:24:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/democrats-poised-to-impeach-defiant-trump-over-capitol-siege-idUSKBN29H0JJ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 110
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Coronavirus updates: Trump administration falls far short of vaccination goals as new virus variant looms"
     excerpt: "Logistical problems at the heart of the federal government’s faltering rollout of coronavirus vaccines came into sharper view Thursday as the Trump administration fell vastly short of its goal of delivering an initial shot to 20 million people by the end of December."
     publishedDateTime: 2020-12-31T18:51:00Z

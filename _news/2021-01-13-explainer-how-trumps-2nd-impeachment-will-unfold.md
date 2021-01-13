@@ -89,10 +89,24 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Several House Republicans join impeachment push; Pence says he will not move to expel Trump"
+    excerpt: "At least four Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
+    publishedDateTime: 2021-01-13T08:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/several-house-republicans-join-impeachment-push-pence-says-he-will-not-move-to-expel-trump-idUSKBN29H0JJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Top House Republican Liz Cheney says she will vote to impeach Donald Trump – live"
     excerpt: "Wyoming conservative’s split with the president could give cover to other Republicans who want to vote to impeach – follow live"
-    publishedDateTime: 2021-01-12T22:19:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates?page=with:block-5ffe2cbd8f08dc561ae90684"
+    publishedDateTime: 2021-01-12T22:35:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates?page=with:block-5ffe3ec28f08f301ebd543b2"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates"
     type: article

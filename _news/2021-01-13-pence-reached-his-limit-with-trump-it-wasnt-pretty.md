@@ -1918,6 +1918,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Jimmy Fallon: Mike Pence Just Can’t Win With Trump Fans"
+    excerpt: "Have MAGA Nation Hate You’ The House on Tuesday formally called on Vice President Mike Pence to remove President Trump from office using the 25th Amendment, an idea Pence had already rejected. Though Pence did not yield to pressure from Trump to overturn the election results last week,"
+    publishedDateTime: 2021-01-13T07:35:00Z
+    webUrl: "https://www.nytimes.com/2021/01/13/arts/television/late-night-mike-pence-trump-25th-amendment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/13/arts/television/late-night-mike-pence-trump-25th-amendment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/13/arts/television/late-night-mike-pence-trump-25th-amendment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/13/arts/13latenight/13latenight-facebookJumbo.png"
+        width: 719
+        height: 376
+        isCached: true
   - title: "Live Updates: Ignoring the Constitution, Trump Increases Pressure on Pence to Reject Electors"
     excerpt: "President Trump falsely claimed that the vice president has the power to reject electors when the Electoral College vote is certified Wednesday. Georgia voters are choosing two senators in races that will decide which party controls the Senate — and the election may be a nail-biter."
     publishedDateTime: 2021-01-05T12:58:00Z

@@ -205,6 +205,20 @@ related:
         width: 750
         height: 374
         isCached: true
+  - title: "YouTube suspends Trump's channel after violating policy on inciting violence"
+    excerpt: "Alphabet Inc's YouTube said on Tuesday it has suspended Donald Trump's channel as it violated policies for inciting violence after last week's assault on the U.S. Capitol by the president's supporters."
+    publishedDateTime: 2021-01-13T08:11:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN29I0F9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547587815&r=LYNXMPEH0C0B5&w=800"
+        width: 800
+        height: 535
+        isCached: true
   - title: "Majority of Americans want Trump removed immediately after U.S. Capitol violence - Reuters/Ipsos poll"
     excerpt: "Fifty-seven percent of Americans want Republican President Donald Trump to be immediately removed from office after he encouraged a protest this week that escalated into a deadly riot inside the U.S."
     publishedDateTime: 2021-01-09T14:20:00Z
@@ -234,6 +248,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/3/7a/37a9e6e5-5a50-51a6-ae61-cf84bed6c2e2/5ff625ff0cd4a.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "YouTube Suspends Donald Trump's Channel For 7 Days Following Capitol Riots, Disables Comments"
+    excerpt: "YouTube has suspended Donald Trump's channel for at least seven days and took down a video for violating its policies."
+    publishedDateTime: 2021-01-13T07:58:00Z
+    webUrl: "https://www.ibtimes.com/youtube-suspends-donald-trumps-channel-7-days-following-capitol-riots-disables-3120714"
+    ampWebUrl: "https://www.ibtimes.com/youtube-suspends-donald-trumps-channel-7-days-following-capitol-riots-disables-3120714?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/youtube-suspends-donald-trumps-channel-7-days-following-capitol-riots-disables-3120714?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 64
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/us-president-donald-trump-leaves-for-a-trip.jpg"
+        width: 1024
+        height: 711
         isCached: true
   - title: "After Trump Was Kicked Off Twitter, Facebook, Instagram, Questions Surround How He Will Talk To Nation"
     excerpt: "After inciting the violence at the Capitol, Donald Trump is now banned from many social media sites and is on a search for a new one to use."
@@ -265,6 +295,17 @@ related:
         width: 1024
         height: 689
         isCached: true
+  - title: "Trump on Verge of 2nd Impeachment After Capitol Siege"
+    excerpt: "President Donald Trump is on the verge of being impeached for a second time, the House planning the unprecedented vote one week after he encouraged a mob of loyalists to “fight like hell” against election results and the U."
+    publishedDateTime: 2021-01-13T08:11:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/trump-on-verge-of-2nd-impeachment-after-capitol-siege"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/trump-on-verge-of-2nd-impeachment-after-capitol-siege?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-13/trump-on-verge-of-2nd-impeachment-after-capitol-siege?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "f8d9Bd2gAI+YGLBghzCc1Rf98kXp49mgqwSu5Q9zzZyEgKoJUey+HFG6KlpFJzmCESPkrmvd3XRD0bp5SWtMRn9Btz068eE+bDiG4ZYbeK+B2iPiLdd2r3ckV/B5mKawdO0zJ49G4t3BXcPVOF9b8qWDczslotL+EcTebwa1SZHwv7HUZhtAH/Hnh+yNFWZND3lPOPwoHLxOYNcT7vd7bK7iBBcDufjjDIYd4zS2/DSqLe3baR4QuDg+lGxw10K7NUWq0QUTRSXV2MM1yPBB9h5s+9F5u8s8Pi41OJUVysebhZPQARM8C5nr5iQUQSQxzT0L5O2WXhzneIJlR3UdsbbQNkdNKjh3M7rjfEG5G1k=;8aE1o/3yCWhB9ThpqkJpTA=="
 ---

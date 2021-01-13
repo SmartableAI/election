@@ -2,9 +2,9 @@
 category: news
 title: "Top House Republican Liz Cheney says she will vote to impeach Donald Trump – live"
 excerpt: "Wyoming conservative’s split with the president could give cover to other Republicans who want to vote to impeach – follow live"
-publishedDateTime: 2021-01-12T22:19:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates?page=with:block-5ffe2cbd8f08dc561ae90684"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates?page=with:block-5ffe2cbd8f08dc561ae90684"
+publishedDateTime: 2021-01-12T22:35:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates?page=with:block-5ffe3ec28f08f301ebd543b2"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates?page=with:block-5ffe3ec28f08f301ebd543b2"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates"
 type: article
@@ -94,6 +94,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/7c5aa6f484f5dbb942ce0028830ac36d9d16ab4c/0_139_4176_2506/master/4176.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=397b857e998a94b49c379ed9463ac441"
         width: 600
         height: 360
+        isCached: true
+  - title: "Several House Republicans join impeachment push; Pence says he will not move to expel Trump"
+    excerpt: "At least four Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
+    publishedDateTime: 2021-01-13T08:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/several-house-republicans-join-impeachment-push-pence-says-he-will-not-move-to-expel-trump-idUSKBN29H0JJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "Trump's incitement of mob at Capitol is 'impeachable offense,' Chris Christie says"
     excerpt: "Chris Christie is perhaps the most notable former supporter of President Donald Trump to back impeachment so far."
@@ -225,6 +239,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "FH45CWw4PlKr8/q784n71Z9x0g6EREHTPDyqZlSkkY0ubM8PXSXNbx6LumPVKR6sHYCfDfOBDa03QSFgOBW8Oyhx8UMAU/bQNSvWMv52HBGPMb/rPDP1vZIEWQ3gDg3fVBQrNXs30QGdGQ8G7q7R9TcdVKUjAs05dA8vxiQIfZHDVYQPUquAwP6yzkktnfr6HqiMZ/Y9Gq2+2Yulr2B8lEl0xF1HieumZwu2Oxf0neniC13jzpXqCVfi+kPUtITDEbQ7Kc/JqlukaaHTJ4iQKNSbNvJCicQ10bA0xXmE8guo2fop7RcdYlmoZfLXRScjp1sOZ9FNq3USsVHRbYNfs/l147Fq6W6kqKKUIBRafY/awCP83rs4CqmnLFCtFqae7lsZt/Ry299FNFr/zEskCcGHFQjmbZxrVxlwW1mEhKy/TEdkNXx6rBiX+ygvncgf4sufVJH2VwnaZCgOiYx/3sXWD5pEoZrWOoll3CkZ4fjnHmwKCV0zfBCWTTGpYU2gqsQuUNYw7Vbnz76Wcmsa/A==;ydZoX0pSSyGgsXdaxbI9KA=="
+secured: "M2y5sf6IrC7x4BjDSF6Fh98f5GOzqrAyvFz+e9GKRgHIhLEKwK499FLY2Jn7eZMN92LrTkZ/loi/LsX+rDELysJ5qA+SCp9WBcdJ/ff9Fh28rMMe4CPU32ez73qAr9yhc+XJsWXtc8QnAlsv9mfOD8bUk0YkschrFfyQAHq46JRMLlG9u8WrmU5D2zSrg4LeM9F4D688LkMMfXfR/SXlfxYDUjgDT4822jT5BFbqjKZBHFIvyJPx3AKOvnbp1RjHjNWdSn348RtWUnJ4E4GUmGDp4G1oCCdZQNqnxFI5Y/1NUrLSkKbU+HrVEzL4sruBEAOuiiZE3umb0ae7LsXB3/r9N4FfMbUqBII4q+OO+cU=;3V5xrhMzdNQuN9/fLWEMEg=="
 ---
 

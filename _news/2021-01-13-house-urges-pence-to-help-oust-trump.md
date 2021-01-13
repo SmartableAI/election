@@ -1261,6 +1261,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "House urges Pence to help oust Trump; impeachment next"
+    excerpt: "With impeachment ahead, the House is trying first to push the vice president and Cabinet to act even more quickly to remove President Donald Trump from office"
+    publishedDateTime: 2021-01-13T07:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/house-urges-pence-oust-trump-impeachment-75215375"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/house-urges-pence-oust-trump-impeachment-75215375"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/house-urges-pence-oust-trump-impeachment-75215375"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_962b8b05854242008ffd3937779d1d78_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
     publishedDateTime: 2021-01-02T17:01:00Z
@@ -3868,20 +3884,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 110
-  - title: "Several House Republicans join impeachment push; Pence says he will not move to expel Trump"
-    excerpt: "At least four Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
-    publishedDateTime: 2021-01-13T04:24:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/democrats-poised-to-impeach-defiant-trump-over-capitol-siege-idUSKBN29H0JJ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 110
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Vice President Pence opposes using 25th amendment to remove Trump: Business Insider, NY Times"
     excerpt: "Vice President Mike Pence opposes using the 25th amendment to remove President Donald Trump from power, according to reports from Business Insider and the New York Times."
     publishedDateTime: 2021-01-08T04:16:00Z
@@ -5638,6 +5640,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "rYj1wkgtlstbKHNI3Q4A+/XfFxA44QsQU1C0+hvFiPYtGXfdFUomP2O+CDMv/w76RrfG18M803R3VskYf166UfornP+CctEcro/oUGWqUJKE8oVWUkD3kVn7NYWWxT6tBhfwBYzvB5HmbpxfKuWhPGiHJZ4lObpICBt6AqLkioCvP/+enDo+LWv+DsjngKfebBGF9dtnU9XgmpqbvSD/2SxE11P9pBKAZ3EaGeO/+5CGUYkuL/me4yilA/f7Z+EV4wIdMke4f14Kz8cezSOzcjNc4Gpeq0PJBc/bDY9RwqJmnQYNUhPV4dBnye/VkJI9NdSy1c/9eNeyYalZL/qV1t01OABhffgJDGQFTiUlwfM=;4uVObeS9k2LDRORwFxR6Ww=="
+secured: "xgGUQdJX31sWQMQJsbLDgwooTYPJ5Akdo4/+Hfb42X9ggReeLWSgsuoynN8cWPiVjtO4UIwiuxxb6NnROReNHJkXwLB7Qdqdd7PRjKqpRbg9cfd3UMiLwAVg43LIzsDIgsrt+9WzviJ8Oc44ebUNgZLEDcNzsa0Q9DP0ZJ1tmtWCgdN/O5T8xPloShqp1efWFGWdZ7EjhYTJydoiuPMdwoBs0gk4VCwsWr7drTcw5TVeEm4+cqcieOW13KCygR1PARQ/K/FfMAzUqHsv+JLUJCJfpHzR2pxPI9b7dn9c8j/exUEROsVXjuDzS4a3ecU84kNXmuT4oUV4Y4OQ7io4QdDgywBov8hPhSPUqbFXn2xAkKAK2VkFHdc17E5Jj5rcrg/31FPdH9b1r6gxDEH7kJK0xITyAdZrZW7l2h0X1yO+mYHTVtcarx/s7bEH/T8sVWPt5hmHQoF3CtI9ELLzIhejX/P7lW3nWbI8TI+EJzS8CavY7XsJtEutWn0mbwSI7srUKvnAYB5OQZoMm9G5Mg==;rqciB6WgiFn/ZPkBAw6WiA=="
 ---
 

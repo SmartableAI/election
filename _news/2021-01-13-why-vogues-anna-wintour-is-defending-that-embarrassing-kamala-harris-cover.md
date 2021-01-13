@@ -495,6 +495,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
+    excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."
+    publishedDateTime: 2021-01-13T07:29:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-55631499"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/world-us-canada-55631499"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/world-us-canada-55631499"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/119F2/production/_116487127_kam_win_reu.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "In a 50-50 Senate, Kamala Harris can sign off on $2,000 stimulus checks and more"
     excerpt: "Kamala Harris suddenly has been handed all kinds of power to get people $2,000 stimulus checks, provide money to fight climate change and win confirmation of President-elect Joe Biden’s nominees. Because Georgia Democratic Senate candidates Ralph Warnock and Jon Ossoff won Tuesday,"
     publishedDateTime: 2021-01-07T13:00:00Z

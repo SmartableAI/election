@@ -489,6 +489,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
+    excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."
+    publishedDateTime: 2021-01-13T07:29:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-55631499"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/world-us-canada-55631499"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/world-us-canada-55631499"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/119F2/production/_116487127_kam_win_reu.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Why Vogue's Anna Wintour is Defending That ‘Embarrassing ‘ Kamala Harris Cover"
     excerpt: "The criticism of the cover runs the gamut from way the photograph is lit, which some say washes out her features, to the overall styling that others say fall far short of capturing the magnitude and gravity of the country’s first Black woman to be elected vice president."
     publishedDateTime: 2021-01-12T18:37:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Walmart, Disney suspend contributions to U.S. lawmakers who opposed Biden certification"
 excerpt: "Walmart Inc, the world's biggest retailer and Walt Disney Co joined other major companies in indefinitely suspending donations to U.S. lawmakers who voted against President-elect Joe Biden's election certification."
-publishedDateTime: 2021-01-13T04:36:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-corporate-walmart/walmart-disney-suspend-contributions-to-u-s-lawmakers-who-opposed-biden-certification-idUSKBN29H2TO"
-webUrl: "https://www.reuters.com/article/us-usa-election-corporate-walmart/walmart-disney-suspend-contributions-to-u-s-lawmakers-who-opposed-biden-certification-idUSKBN29H2TO"
+publishedDateTime: 2021-01-13T07:53:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-election-corporate-walmart/walmart-disney-suspend-contributions-to-us-lawmakers-who-opposed-biden-certification-idUSKBN29H2TO"
+webUrl: "https://www.reuters.com/article/us-usa-election-corporate-walmart/walmart-disney-suspend-contributions-to-us-lawmakers-who-opposed-biden-certification-idUSKBN29H2TO"
 type: article
 quality: 97
 heat: -1
@@ -76,6 +76,6 @@ related:
         height: 461
         isCached: true
 
-secured: "uReVCdWhxPyyLuH/YhnEkon6AME+SM6PvFtzuUDS7MpA4VNAXz72j74crx0y1/beRfjMov1SDs8T3aoZVMgX+b+/18+7Z0ICGtuAy9CqTv1jA4Oz7qS008ctxkFV8fLx3ykw4Gd+kpairty/F481nXjN6m23agR7HjoyXc/vrBz/GemrIerLhubu3KYz5U0w27XvVEK53dddEkn4nbIHYUhqWW7Ud8LZTx4RAnjvU3dj3Cy0up0RwHgxoJJcWEBJ+VLGWWdACd4N/CY/6Mh768NeYdW6qEAGNAkuMcBPxVpowBmdgu2ZOzoWJrQvRxSdOtFpJ4KwocJI+0/7cb/STHZlFTqpSUc9ZY31qKHpS3IMG0nR8sq0tRLQVRO/6qiopPD8Z2gdvGGmX0ctfL81THl71BB+WRAUVAtxViqrlnAMDP0mfbR7rgGiUAUphGZjw/OSeeHYDM2StCkRfCienjfxtLIVi8UIC08b0pHwOidiG1MJcEdCwRdxO7Eb7wSnPhOFg5h9LRob+5F3ORnViw==;f+xf3CslQ8t7Lj3lHGSuCw=="
+secured: "GHXQFxblr4UZ6UM+1CRHCNMYcmQqaP+jKzVUucLPcxqGi+WuA7yAvTcPQD+6MBLKxcAQPUVVA7YQ1g1ZbeJ+Uq/dSUFRHXysfZ1KLbhkiu2LWNHKWzSa6VPeI7bU+5NaAElCvFZOg9Qtu5f5REpPIHfxVJ7dRTRUViZXfA8s3Ctboy35yvXQpFAtXQSuS0cb5xtx/qgdFz2kWt3xac8Bejf3Tr0t9zarHJbrfpijtIHRVBr19c2mrbe+iIozAHy88YiB1WK1Alm9TCMZ6g5qBPudbyMBUEd/U1MK5U7g+xUy0SAu3XSQZQv1+yrfPYbJlJiMJB/fK3E7G/4wl2tq8xHtZnAsnIfhB6HzfrAirK0=;M4Qax4yryg7eqD1gUovYaw=="
 ---
 
