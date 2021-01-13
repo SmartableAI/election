@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Biden inauguration just one week away"
+    excerpt: "With Biden's inauguration just one week away, his transition team is pressing the Senate to confirm his national security nominees ahead of the event, saying the country's security is \"at stake.\""
+    publishedDateTime: 2021-01-13T05:41:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CZb6L4kNVEs/live-updates-biden-inaguration-1-13-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inaguration-1-13-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inaguration-1-13-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a39e09bf-a243-4496-a40b-1582ccd2b67a/dd93c6ff-576c-4cdf-973d-cc48ba4571ee/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Trump considering dramatic White House departure amid legal fight"
     excerpt: "Trump said last month that he would leave office if the Electoral College votes for President-elect Joe Biden"
     publishedDateTime: 2020-12-07T03:55:05Z

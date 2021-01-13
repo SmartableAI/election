@@ -2658,6 +2658,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House Calls on Pence to Remove Trump From Power"
+    excerpt: "The House of Representatives voted, 223 to 205, on Tuesday night to call on Vice President Mike Pence to invoke the 25th Amendment to strip President Trump of his powers for inciting a mob to attack the Capitol."
+    publishedDateTime: 2021-01-13T05:31:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007548376/house-vote-25th-amendment-trump-pence.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/12/us/12virus-briefing-dc/12virus-briefing-dc-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Listen to the full audio of Trump's phone call with the Georgia secretary of state"
     excerpt: "In an astounding phone call, President Donald Trump for over an hour berated and threatened Georgia Secretary of State Brad Raffensperger, repeating various false claims about voter fraud and begging the Republican official to overturn the election results."
     publishedDateTime: 2021-01-03T23:50:00Z

@@ -3091,6 +3091,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "House is poised to pass a resolution calling on Pence to immediately invoke the 25th Amendment and remove Trump from office"
+    excerpt: "Pence announced on Tuesday that he doesn't support invoking the 25th Amendment and accused Democrats of playing \"political games.\""
+    publishedDateTime: 2021-01-13T03:24:00Z
+    webUrl: "https://www.businessinsider.com/house-passes-resolution-pence-invoke-25th-amendment-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/house-passes-resolution-pence-invoke-25th-amendment-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-passes-resolution-pence-invoke-25th-amendment-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/5f76e9290ab50d00184adba4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Nation's capital braces for violence as extremist groups converge to protest Donald Trump's election loss"
     excerpt: "The Washington Metropolitan Police Department has stepped up precautions, including erecting signs stating that open carry of guns is illegal."
     publishedDateTime: 2021-01-05T04:00:00Z
@@ -3299,6 +3315,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Some House Republicans join impeachment push; Pence says he will not move to expel Trump"
+    excerpt: "At least three Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
+    publishedDateTime: 2021-01-13T02:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/some-house-republicans-join-impeachment-push-pence-says-he-will-not-move-to-expel-trump-idUSKBN29H0JJ?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Biden criticises Trump over slow Covid-19 vaccine rollout – video"
     excerpt: "Ramping up vaccine rollout will be the 'greatest operational challenges we've ever faced as a nation'  Biden says"
     publishedDateTime: 2020-12-29T16:58:00Z
@@ -3482,6 +3512,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547461760&r=LYNXMPEH0A1M0&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "House urges Pence to help oust Trump"
+    excerpt: "The US House on Tuesday night approved a resolution urging Vice President Mike Pence to invoke the 25th Amendment to the Constitution to remove President Donald Trump from office with a Cabinet vote."
+    publishedDateTime: 2021-01-13T06:14:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/13/house-urges-pence-help-oust-trump/6651402002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/113e555e-79b3-4378-bd8d-542bf5c61558_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Live Updates: Pence says he won't invoke 25th Amendment as House prepares to act"
     excerpt: "House Democrats said they will move forward Wednesday with a vote on impeaching President Trump if Pence does not invoke the amendment."
@@ -3747,22 +3791,6 @@ related:
         width: 1200
         height: 841
         isCached: true
-  - title: "House is poised to pass a resolution calling on Pence to immediately invoke the 25th Amendment and remove Trump from office"
-    excerpt: "Pence announced on Tuesday that he doesn't support invoking the 25th Amendment and accused Democrats of playing \"political games.\""
-    publishedDateTime: 2021-01-13T03:24:00Z
-    webUrl: "https://www.businessinsider.com/house-passes-resolution-pence-invoke-25th-amendment-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/house-passes-resolution-pence-invoke-25th-amendment-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-passes-resolution-pence-invoke-25th-amendment-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
-    images:
-      - url: "https://i.insider.com/5f76e9290ab50d00184adba4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Coronavirus updates: Trump blames states, tells them to ‘get moving’ amid delay in vaccinations"
     excerpt: "Gustave Perna, chief operating officer of Operation Warp Speed, said Wednesday that 14 million vaccine doses have been distributed in the U.S. to date and more than 2 million doses have been administered."
     publishedDateTime: 2020-12-30T22:39:00Z
@@ -3841,20 +3869,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Some House Republicans join impeachment push; Pence says he will not move to expel Trump"
-    excerpt: "At least three Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
-    publishedDateTime: 2021-01-13T02:22:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/some-house-republicans-join-impeachment-push-pence-says-he-will-not-move-to-expel-trump-idUSKBN29H0JJ?edition-redirect=ca"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 111
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Congress debates challenges to election results after pro-Trump mob invades Capitol – live"
     excerpt: "Four dead after police shooting and ‘medical emergencies’ in day of unrest"
     publishedDateTime: 2021-01-07T03:43:00Z
@@ -3868,8 +3882,8 @@ related:
     quality: 110
   - title: "Several House Republicans join impeachment push; Pence says he will not move to expel Trump"
     excerpt: "At least four Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
-    publishedDateTime: 2021-01-13T03:19:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/with-some-republicans-on-board-u-s-house-democrats-press-forward-on-impeachment-vote-idUSKBN29H0JJ"
+    publishedDateTime: 2021-01-13T04:24:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/democrats-poised-to-impeach-defiant-trump-over-capitol-siege-idUSKBN29H0JJ"
     type: article
     provider:
       name: Reuters
@@ -4370,6 +4384,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547401830&r=LYNXMPEH0A1E4&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Pence Tells Pelosi He Will Not Invoke 25th Amendment to Remove Trump"
+    excerpt: "In the immediate wake of the Capitol riot, reports emerged that the presidential cabinet was considering the 25th Amendment to remove Donald Trump from office. Through its fourth clause, the vice-president and a majority of the cabinet could declare Trump unfit for office,"
+    publishedDateTime: 2021-01-13T06:47:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/pence-will-not-invoke-25th-amendment-to-remove-trump-letter.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/pence-will-not-invoke-25th-amendment-to-remove-trump-letter.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/pence-will-not-invoke-25th-amendment-to-remove-trump-letter.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 100
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/aaf/2f5/24f22b702dcf84fa0ef94ea70760146816-GettyImages-1230451728.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Why Is Pence Not Invoking The 25th Amendment To Oust Trump?"
     excerpt: "House Speaker Nancy Pelosi and other Democrats had urged Vice President Pence to remove President Trump from office following the siege at Capitol Hill."

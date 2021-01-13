@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/amid-capitol-violence-facebo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -250,6 +250,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/07/president-donald-trump-is-facing-growing-bans-from.jpg"
         width: 1024
         height: 689
+        isCached: true
+  - title: "YouTube Suspends Trump Channel For Week Over Violence Fears"
+    excerpt: "Google-owned YouTube on Tuesday temporarily suspended President Donald Trump's channel and removed a video for violating its policy against inciting violence, joining other social media platforms in banning his accounts after last week's Capitol riot."
+    publishedDateTime: 2021-01-13T06:02:00Z
+    webUrl: "https://www.ibtimes.com/youtube-suspends-trump-channel-week-over-violence-fears-3120723"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/13/google-owned-youtube-on-tuesday-joined-other-social.jpg"
+        width: 1024
+        height: 681
         isCached: true
 
 secured: "6/+V+6LEKtE4NAA3BQ1ZGVCwLez+wAayYAIQaeE5yXeyPFLIcohLsQahXCVTik7c4yaJmUJxtfTLuxIpIvnzpTVmvY7H+QVjjkz5Jm61N3a9x08pUrQ46P8htrFvcYBNsfrM99+mK1Kf36uj/QmbClL1sdhgR2wC0cocCt5OtDYyFkB9tEc3InNFLefEHmTnGpxJXbibp8UQnncm4nbTj66qBvLrQ3LW3tQAxdg9wEpsYT0kBeMnL2Wx2n5Oc3K1O6MaLR+xq9aGZZE1y2RnhN9oYTsoz7XF/axhrwj71zIOOKeSi1FwEL5Rjkmhb8Vr3AlR3TxE9uJu0bzfxEw5956cBQu0KXpHlehP6EYVXfg=;OyAeuS5omiSXBxAiRS9DRw=="

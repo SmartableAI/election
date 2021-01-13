@@ -2674,6 +2674,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House Calls on Pence to Remove Trump From Power"
+    excerpt: "The House of Representatives voted, 223 to 205, on Tuesday night to call on Vice President Mike Pence to invoke the 25th Amendment to strip President Trump of his powers for inciting a mob to attack the Capitol."
+    publishedDateTime: 2021-01-13T05:31:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007548376/house-vote-25th-amendment-trump-pence.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/12/us/12virus-briefing-dc/12virus-briefing-dc-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Dejected Trump supporters leave Washington, create new theories for Capitol violence"
     excerpt: "While thousands gathered on Wednesday in support of the president, overwhelming and infiltrating the chambers of Congress, only dozens of diehards returned on Thursday."
     publishedDateTime: 2021-01-08T02:20:00Z

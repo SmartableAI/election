@@ -251,6 +251,20 @@ related:
         width: 1024
         height: 689
         isCached: true
+  - title: "YouTube Suspends Trump Channel For Week Over Violence Fears"
+    excerpt: "Google-owned YouTube on Tuesday temporarily suspended President Donald Trump's channel and removed a video for violating its policy against inciting violence, joining other social media platforms in banning his accounts after last week's Capitol riot."
+    publishedDateTime: 2021-01-13T06:02:00Z
+    webUrl: "https://www.ibtimes.com/youtube-suspends-trump-channel-week-over-violence-fears-3120723"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/13/google-owned-youtube-on-tuesday-joined-other-social.jpg"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "2OY7focmbpXiJdH3RCcdP9SHYUudUA/aI3KxcRXyL05PjsxPUSH+3Gmhx6OS3Z67okGqmNi31UPh3i0+de+JgfwxfW6MOYBQ8VYkCiTMKULSDKO0Px7HMXZkcJkH63bfSiAAf+xnwzUxlaqwQE9Lf0ORNdUBx0KiH8EZnhXgDl36UjhCO9aocwKy0WE/UaalhOrAstRD+0D3yQtUPlXlo9mWrFVGpbk0tHByY4ze9W5otXcL4pzJHPeC2cKl7IjMyqW1IapQS+WbI4d/+3BuR2FsSR5T17rkutpw3aG330ttL4NSI8kJQWSoF0G1keY0ewc0v1BMuWhZgZRQUHr2J8hYycdhy7n0EwZ1xpURz/8=;qcbElkjUQl402FYI94j0RQ=="
 ---
