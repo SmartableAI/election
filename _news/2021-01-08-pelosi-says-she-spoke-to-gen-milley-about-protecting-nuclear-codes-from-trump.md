@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pelosi-spoke-gen-milley-protecting-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-spoke-gen-milley-protecting-nuclear-codes-trump.amp"
 type: article
 quality: 171
-heat: 191
+heat: 211
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
     quality: 169
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32855443-767d-4b96-861e-e053b799308b/df486f77-b285-4a08-a896-558037ce44aa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Speaker Pelosi names Rep. Eric Swalwell among Trump impeachment managers"
+    excerpt: "Rep. Eric Swalwell has been named as one of nine impeachment managers announced to before the Senate in President Trump’s second impeachment tria"
+    publishedDateTime: 2021-01-13T02:43:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5P7cbimHuU/speaker-pelosi-eric-swalwell-trump-impeachment-managers"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/AP19347606405768.jpg"
         width: 1280
         height: 720
         isCached: true

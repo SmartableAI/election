@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Pence uses Pelosi's own words to justify not invoking the 25th Amendment"
+    excerpt: "Vice President Mike Pence told Speaker of the House Nancy Pelosi that he will not invoke the 25th Amendment, as lawmakers flooded into the House chamber for a vote Tuesday night on a resolution calling for him to do so."
+    publishedDateTime: 2021-01-13T02:24:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SZvObX8e7Wk/pence-echoes-pelosis-words-in-explaining-why-he-will-not-invoke-the-25th-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-echoes-pelosis-words-in-explaining-why-he-will-not-invoke-the-25th-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-echoes-pelosis-words-in-explaining-why-he-will-not-invoke-the-25th-amendment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/927d176b-21c3-43cd-93dd-13312fed5937/dea40182-fa8f-47b1-9184-fc98ec627628/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "House committee meeting gets heated when Rep. Perlmutter asks Rep. Jordan if Biden won election"
     excerpt: "The tension was high Tuesday afternoon when the House Rules Committee met to debate a resolution calling for Vice President Mike Pence to convene the cabinet and invoke the 25th Amendment to remove President Trump from office before his term ends next week."
     publishedDateTime: 2021-01-12T19:41:19Z

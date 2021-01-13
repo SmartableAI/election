@@ -207,6 +207,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "House Judiciary Committee frames Trump impeachment in new report"
+    excerpt: "House Judiciary Committee Chairman Rep. Jerrold Nadler, D-N.Y., released a 74-page report Tuesday afternoon describing President Trump as a \"clear and present danger\" who should be impeached."
+    publishedDateTime: 2021-01-13T02:09:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bIENo8gwWCE/judiciary-committee-impeachment-report"
+    ampWebUrl: "https://www.foxnews.com/politics/judiciary-committee-impeachment-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judiciary-committee-impeachment-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/efae2f2f-6ec6-4aca-bcd4-8bd9dcd96dfb/d284c12c-47c0-4b66-a5c4-c41241d9f204/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "All the Trump officials who have resigned after the DC protest at the Capitol"
     excerpt: "The number has continued to climb a little more each day, but it has yet to reach the level of an exodus."
     publishedDateTime: 2021-01-09T20:43:51Z

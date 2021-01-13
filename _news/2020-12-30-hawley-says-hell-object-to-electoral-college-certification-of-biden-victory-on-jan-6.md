@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/josh-hawley-to-object-electoral-col
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/josh-hawley-to-object-electoral-college-certification-jan-6.amp"
 type: article
 quality: 167
-heat: -1
-published: false
+heat: 167
+published: true
 
 provider:
   name: Fox News
@@ -29,38 +29,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "Biden calls on protesters to 'pull back,' says their actions border on 'sedition'"
-    excerpt: "President-elect Joe Biden minced no words Wednesday afternoon in response to the protesters who stormed Capitol Hill, saying that their actions “do not reflect a True America” and “border on seditious.”"
-    publishedDateTime: 2021-01-06T22:37:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4pzkUMHDp9o/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-on-protesters-to-pull-back-says-their-actions-border-on-sedition.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Joe Biden Condemns Storming Of Capitol Building: \"It Is Not Protest, It Is Insurrection\""
-    excerpt: "U.S. President-elect Joe Biden delivers remarks after Trump supporters stormed and breached the U.S. Capitol. \"I call on this mob to pull back and allow the work of the democracy to go forward,\" Biden said as rioters invaded the Capitol building."
-    publishedDateTime: 2021-01-06T22:10:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/01/06/joe_biden_condemns_storming_of_capitol_building_it_is_not_protest_it_is_insurrection.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 56
-    images:
-      - url: "https://assets.realclear.com/images/53/531574.jpg"
-        width: 750
-        height: 562
-        isCached: true
 
 secured: "svVdAVMcPiJHCC+k2Ub92NMSaLmRTDGgmSZkhqjWCqPB3rTc5euOqmJo4MJcHfyFkZXCrhIOUValetjOXF2+nPfj3JnqCV0IQpnMfJ5hDrkQHmYLhbW4nHwl8nkyTKVsc/iHImo150lD80IjUi0gLikxwHKAYtckZRlRH04c6LE1SjlEZY6voIETKs03PASZLHvMHCz4JzCmwV4LO+PGD+CigrBjHNNbUYzjTSLrkEhOuhjN4gwfV9TYoRK60S91dhDyYTzFvMKGDXdBeHekp8BPACvNel1oosYPL667I+K1fSxcRCgTTIuH4QvRvD0Qqne4x1gIfQb/5RSgfmfVIoRL+L08OWPDog2XTW1Ykmo=;6r1+oJWy/xCaajvoXzZe5w=="
 ---

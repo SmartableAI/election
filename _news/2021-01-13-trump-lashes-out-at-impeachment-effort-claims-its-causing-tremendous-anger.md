@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-lashes-impeachment-effort-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-lashes-impeachment-effort-claims-causing-tremendous-anger/story?id=75199061"
 type: article
 quality: 121
-heat: 141
+heat: 161
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/alexandria-ocasio-cortez-the-darling-of-the-us.jpg"
         width: 1024
         height: 573
+        isCached: true
+  - title: "Twitter Slams Sen. Tim Scott For Opposing Donald Trump's Impeachment: It's 'Necessary For Healing'"
+    excerpt: "Twitter users do not agree with Sen. Tim Scott’s move to oppose Donald Trump's impeachment because they believe the POTUS' actions should have consequences."
+    publishedDateTime: 2021-01-13T01:44:00Z
+    webUrl: "https://www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317"
+    ampWebUrl: "https://www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 61
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/us-president-donald-trump-says-impeachment-is-causing.jpg"
+        width: 1024
+        height: 684
         isCached: true
 
 secured: "S2xv3fmaZeVcQppkNhw8e2aLQoxlrEGA4/a6GC3m7Jk4Vw2kQxw3Jnx1ozn52CzLcRsxbZYXCMnYH/zQQjGZI44HsHuCcrvqwDDaNfl+aerMO3vqBnhrRKZ9S97QRE8fJYmgdd1eEtStb8CysfeeJ9iQqg7hpBmVK0e9zPE+GpjJlOpGzk7E3ZVHwZrVbBX2q4XuYNuGhIfNlBjWtzKUklnUWqvSEl4r96Dker3V2b67ZFYi1tecu316M+R8Q6F6H7eQjhkCwYgCEBxIewK8XWiZ4xT5CeVmWDj+RErs78CavTPv3DLCTAis1M0dyfPlp3NJjwhm5bGDAEZsJhExboZqdcCFjDnZI7oqO8H5P0IxhoYCN30jrHJCTI0tpkBfd7c+OzG4UOsB3k1nj1y5N425trjJ+0j3ruWVqmDj9/2T/mMz2WOmxnGs2SfuibZW3xjbRMwUBZbPiMx44+Zv8CBGTO4ohHtVXd3+ha8yOGA3F2AycZLSyXADRcsCVKgztcfkzllhAr5jVI6QYPSE1Q==;n7U0Q/4y+ld61APVghqKGw=="

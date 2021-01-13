@@ -469,17 +469,17 @@ related:
         isCached: true
   - title: "How a Vogue cover created an uproar over Kamala Harris"
     excerpt: "Though it might seem, in light of all that is going on in Washington, D.C., the least of the matter, on Sunday a leaked shot of Vice President-elect’s Kamala Harris’ Vogue cover set off an unexpected firestorm."
-    publishedDateTime: 2021-01-12T19:03:00Z
-    webUrl: "https://www.baltimoresun.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+    publishedDateTime: 2021-01-13T01:59:00Z
+    webUrl: "https://www.courant.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
+    ampWebUrl: "https://www.courant.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
     type: article
     provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
+      name: Hartford Courant
+      domain: courant.com
     quality: 75
     images:
-      - url: "https://www.baltimoresun.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
+      - url: "https://www.courant.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
         width: 1200
         height: 800
         isCached: true
@@ -663,6 +663,6 @@ related:
         height: 630
         isCached: true
 
-secured: "WgV6a0Vtwc/jADkTxFM0lsFQ7MfWgSVYlqPbOuSRQin25YsEJmMzsTsYt4UxarmPJ9Uw43fqgnoh17nv5jIYsuT8nqJ5CPytZrVzK/0H8lNpvG1FaJmeQ6LSPwkU0ffsRUEetuivgJgbwRZPFkXP/6KapvOR1jxEq6irqHUqzxjxePC6mEdP7hMQr8nUmfg7Ns9/+g3IIx/YkWoriH//Ri262fl488vrgW8/8L2r7jspOUqaw3mXnaPmL3apgO9IVmUjim9sZbVKQ+vFIrvMyQFnqDrPFVqd/ffeGgcSuCEGNxro8Wv88uJuNwUkh8lJj8kOuP2donj1aqUN3SP1XsUhPpsLeoGm24QH/JCjjgI=;krFjn98XisE+XWJ+Uz5PIQ=="
+secured: "+6LmXu6opSMC2uVBGalGRIo7zTBO3hpMPtQ71jj9wEDVtli0uY6ncmnoX9peZRRAHKUBo0SXKl354OmZwfRZS8EFHQBxyKNp1wiL+ztmHgmRSBNgnkBNDv64F/wDYRxlvVU0hDlR3+zxSdgcj1bmJWwyhwtbpqsO5PpswljIk1n3258f57WfrsItYARO8LvCkDyGgaBxTOPGqYvJyxQBsSN35umR/CQk4hidBEu9dmXK5mvYBPDZl2TtNOG/9TTWhtTHeZXWfODu6OIjIOQMgVYuL1q9CQ5Z2YIZ67wkMZWX4wMo84/2e7x/+e07Q2RGM+bOVzAvwxe9YID1ul0cY8XzFROXDyaLAK+J8Nz7xo2xEjnfujorYKPVRHc3sfOyo8f4w+cFbIrJ1tqRKK48TR034Lg28g+O8qBy3nyf2GF/XD8I4JfpmcNkUTnC92SGt2Szf2SKwZ7mFfjzPB1VKRIvZw7DyOaLpOBtYYLgSRiqSEKxAEllAdgs5Z+391wOspib8glpz7Ci8mgvmI6FhQ==;5m3uWwRjbf4Duy+M7rxKdw=="
 ---
 

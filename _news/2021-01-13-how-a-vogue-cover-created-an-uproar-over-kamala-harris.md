@@ -2,26 +2,26 @@
 category: news
 title: "How a Vogue cover created an uproar over Kamala Harris"
 excerpt: "Though it might seem, in light of all that is going on in Washington, D.C., the least of the matter, on Sunday a leaked shot of Vice President-elect’s Kamala Harris’ Vogue cover set off an unexpected firestorm."
-publishedDateTime: 2021-01-12T19:03:00Z
-originalUrl: "https://www.baltimoresun.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
-webUrl: "https://www.baltimoresun.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
-ampWebUrl: "https://www.baltimoresun.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+publishedDateTime: 2021-01-13T01:59:00Z
+originalUrl: "https://www.courant.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
+webUrl: "https://www.courant.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
+ampWebUrl: "https://www.courant.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Hartford Courant
+  domain: courant.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
+  - url: "https://www.courant.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -659,6 +659,6 @@ related:
         height: 630
         isCached: true
 
-secured: "L087S8Y6A5ueuLX0OVzbWENdgFamYzs7DQnwBaEzjLQV3Jy7lGSmJd76kDiVMATJeHyDNFQhsfbPCESwym/79/MAEjihB1XQitqsWmz4DgMMM+SvvTBuB0/p4C00KNF5uvFCyRKwmcsEDddg0AnYJYdlHu3PmX7jHw5nPP0NOU6aT+l8VGlNuncMS/bjMCemEW89OCsjHQL6qsU+DE9JscBVvnHrIgPOzlTCMHXQqhgWDUk5SI/nrleMJBInIpCHXuqglxoJAFyPCqqqWJwGAWSgt7/O0BoBbziHoKChP/VA9kdCsHp1Q+NbqAQ+N9NCtBAA/O1+0KFyC5+VgCfPHSBuEvTefnPsVeHFrmPfipk=;HSJDm27gHioNEhwlSH19DA=="
+secured: "0zhMK710VcgMLLXTUhrZtncXfA1z3NiMq57ue5YoUQqCv2dZVQDTWwoZ+0IRBH6+LBhvTVAmefPTHS/0NlOkGB4dHgW5bGUEYJ9+guA5DfZURMgHpt2OP2VkC4zF80DDBT3z30g0SmiB+07vqjNP5burDsKZPdvmWqBkQhXR6UspbSLeKQH+UD2A+E45rF8/FxNRFkOU5ypZqWOLQpS3/KEC/d5uSUzi7jw1L2s9aZ0D4j/YIE6K4v0+M0uVdky8Rc5ULVq1/kFt2b8b+9houVxUEmbZwlyxv7muJNAOL8bKB+yWAJ+ip2904e0/riTKBGrHlDu9bN7S3/D9V5VW3NoxbioJs8iSbwNfOf54T9g=;Jp6e0P3lEPoD7oBwT+Nk/w=="
 ---
 

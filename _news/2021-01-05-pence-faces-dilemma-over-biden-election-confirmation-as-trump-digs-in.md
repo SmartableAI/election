@@ -1041,6 +1041,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Republicans introduce resolution to censure Trump: 'His actions threatened the integrity of our democracy'"
+    excerpt: "Six House Republicans Tuesday introduced a censure resolution accusing President Trump of violating his oath of office by attempting to overturn the lawful results of the 2020 election and by sparking a riot at the Capitol with his continued lies about the election. "
+    publishedDateTime: 2021-01-13T02:05:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tnjk-i85LHA/republicans-introduce-resolution-to-censure-trump-his-actions-threatened-the-integrity-of-our-democracy"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-introduce-resolution-to-censure-trump-his-actions-threatened-the-integrity-of-our-democracy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-introduce-resolution-to-censure-trump-his-actions-threatened-the-integrity-of-our-democracy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/755359ed-6246-4176-acb2-00fc9f545843/07952b30-39c0-449a-9984-7e813f5213fc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "House barrels toward new Trump impeachment, will vote on resolution calling for use of 25th Amendment Tuesday"
     excerpt: "With only eight days remaining in President Trump's term, the House of Representatives is barrelling toward a second impeachment vote in the coming days as outrage about the president's role in the storming of the Capitol by his supporters last week continues to reverberate throughout Washington, D.C."
     publishedDateTime: 2021-01-12T13:04:34Z

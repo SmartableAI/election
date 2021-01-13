@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Karl Rove: 'Unseemly' push to impeach Trump is 'not going to be good for the country'"
+    excerpt: "Fox News contributor and former deputy White House chief of staff Karl Rove warned Tuesday that House Democrats' drive to impeach President Trump in connection with last week's riot at the U.S. Capitol is \"very problematic for the country.\""
+    publishedDateTime: 2021-01-13T01:24:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TIQLQx-8H4I/karl-rove-unseemly-push-to-impeach-trump-not-going-to-be-good-for-the-country"
+    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-unseemly-push-to-impeach-trump-not-going-to-be-good-for-the-country.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-unseemly-push-to-impeach-trump-not-going-to-be-good-for-the-country.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Rep. Mace pegs Twitter 'un-American' for Trump account suspension: 'It's completely hypocritical'"
     excerpt: "President Trump has been banned from Twitter after Wednesday’s U.S. Capitol riot, and Rep. Nancy Mace, R-S.C., is calling the social media giant’s response as the height of hypocrisy."
     publishedDateTime: 2021-01-10T18:10:43Z

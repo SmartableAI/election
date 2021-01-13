@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/miranda-devine-dems-hatred-trump-su
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/miranda-devine-dems-hatred-trump-supporters-un-american.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d136cee0-68c8-481c-8476-30f8eea6f773/da014ad4-0a09-4d71-b370-39a8d93b99c0/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Karl Rove: 'Unseemly' push to impeach Trump is 'not going to be good for the country'"
+    excerpt: "Fox News contributor and former deputy White House chief of staff Karl Rove warned Tuesday that House Democrats' drive to impeach President Trump in connection with last week's riot at the U.S. Capitol is \"very problematic for the country.\""
+    publishedDateTime: 2021-01-13T01:24:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TIQLQx-8H4I/karl-rove-unseemly-push-to-impeach-trump-not-going-to-be-good-for-the-country"
+    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-unseemly-push-to-impeach-trump-not-going-to-be-good-for-the-country.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-unseemly-push-to-impeach-trump-not-going-to-be-good-for-the-country.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Dems 'caught up in their own mob mentality,' trying to 'blame everything on Trump': Hurt"
     excerpt: "While Republicans look inward in the aftermath of the Capitol Hill riots after President Trump's address Wednesday, Democrats are adding to the division, Fox News contributor Charles Hurt argued Friday."

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/25th-amendment-house-debate-pence-w
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/"
 type: article
 quality: 120
-heat: 120
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Watch Live: Pence dismisses 25th Amendment as House votes to encourage its use"
+    excerpt: "Pence said it's his belief the 25th Amendment is intended to be invoked when the president is incapacitated, not in a situation such as this, and said invoking the 25th Amendment"
+    publishedDateTime: 2021-01-13T01:02:00Z
+    webUrl: "https://www.cbsnews.com/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/12/de23e810-62d0-43b0-8b13-589424e1b945/thumbnail/1200x630/6214aa2691335ea4d178b0de0ddd311b/gettyimages-1230536583.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "XoBD/bIWqntIYcyWdyuKwQloTORgqQJEMDinH6bfNLF+589uiIFAW7YWRk9PUYWM1B9Jrpcdw89CptSWo6n8fgMAYSMWwlbV0c0SgESWpnyTNj5DVRQEiJ/xE9buGdBhmdkLMzTgl9ylmxttyfwOEjvCrPuNnhhrXE8xNyCXhTHVSdZwR2TSCjxBQuDVsaK8PnkTMdAUOQ8kBsUS/9PHLk4EGznptan3+YzaX0fUh1Tz17TMcwtK/JCkRwObnnbBPTulA6BlCIHKQ0o5ttbBNRqCilmsKXLW5jzP3sq3xh107ncWuSg85olcKqSsnNb4MMgT5L9Dm1h04YNsrXlB/GSGgNc9X/pvzLQTXIY0AiANeSTXrhpBAOf8Xng9ZlMN4O37+T5mLhHxSrZPVrWr/LNoNaiZ+q+xGtOsKcan/BNiw5KNqd9rNdHoRmk1LpYHgsu3TXkx6QPHHmKBnfmqO+PZmJJuOshEAreyv1NjY2G5qmd+i7gYNTXNxPMDLbOuGcVzsiAm7mqRA0UW1apglw==;CVaYAQcbfu3j3SuhiNCvng=="
 ---

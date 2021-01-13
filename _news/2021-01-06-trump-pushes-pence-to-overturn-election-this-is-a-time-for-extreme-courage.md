@@ -540,6 +540,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Trump-Biden transition live updates: Trump tells Dems 'be careful what you wish for'"
+    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in eight days. The first confirmation hearing for one of Biden's Cabinet picks is officially on the Senate schedule for the day before his inauguration -- which is also the earliest day the Senate is likely to accept an impeachment article against Trump from the House."
+    publishedDateTime: 2021-01-12T22:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-transition-trump-biden/?id=75166132"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden/?id=75166132"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden/?id=75166132"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 143
+    images:
+      - url: "https://s.abcnews.com/images/Politics/liz-cheney-file-ap-jef-210112_1610491720667_hpMain_2_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Pence asked a judge to kill a lawsuit filed by Trump fans seeking to empower him to overturn Biden's election win on January 6"
     excerpt: "Lawyers for Pence asking for the suit to be dismissed on December 31, describing it as \"a legal contradiction.\""
     publishedDateTime: 2021-01-01T14:39:00Z
@@ -1752,22 +1768,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Trump-Biden transition live updates: Trump tells Dems 'be careful what you wish for'"
-    excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in eight days. The first confirmation hearing for one of Biden's Cabinet picks is officially on the Senate schedule for the day before his inauguration -- which is also the earliest day the Senate is likely to accept an impeachment article against Trump from the House."
-    publishedDateTime: 2021-01-12T22:30:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-transition-trump-biden/?id=75166132"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden/?id=75166132"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden/?id=75166132"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 133
-    images:
-      - url: "https://s.abcnews.com/images/Politics/liz-cheney-file-ap-jef-210112_1610491720667_hpMain_2_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Trump-Biden transition live updates: 'An absurdity': Chris Christie on Trump and allies' efforts to overturn election"
     excerpt: "Former New Jersey governor and ABC News political contributor Chris Christie, criticized Donald Trump and his allies' efforts to overturn President-elect Joe Biden's ele"
     publishedDateTime: 2020-12-14T00:42:00Z
@@ -2147,6 +2147,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1696929/peter-navarro.jpg"
         width: 1024
         height: 672
+        isCached: true
+  - title: "Pence rules out invoking 25th Amendment to remove Trump as House rushes ahead toward impeachment"
+    excerpt: "The U.S. House pressed swiftly forward Tuesday toward impeachment or other steps to forcibly remove President Trump from office."
+    publishedDateTime: 2021-01-13T01:52:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-capitol-riot-20210112-ltxwk656xreaxftpvqolxgvska-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-capitol-riot-20210112-ltxwk656xreaxftpvqolxgvska-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-capitol-riot-20210112-ltxwk656xreaxftpvqolxgvska-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 127
+    images:
+      - url: "https://www.chicagotribune.com/resizer/7Zt8dwttp4HCklY2hgM8BdRnKR0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MVWUCRKSEDZKABUQSBXB4XICXA.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Pro-Trump lawyer Lin Wood insists he is not insane after tweeting that Mike Pence should face execution by firing squad"
     excerpt: "In a Twitter thread, the conservative lawyer and staunch Trump ally accused senior Republicans of helping to \"steal\" the election."
@@ -3468,6 +3484,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Live Updates: Pence says he won't invoke 25th Amendment as House prepares to act"
+    excerpt: "House Democrats said they will move forward Wednesday with a vote on impeaching President Trump if Pence does not invoke the amendment."
+    publishedDateTime: 2021-01-13T01:20:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-25th-amendment-2021-01-12/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-25th-amendment-2021-01-12/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-25th-amendment-2021-01-12/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/13/3d46e6fa-c74e-41cc-be16-96e683b81c3e/thumbnail/1200x630/6416c4237a17d28bc745050913d7d613/gettyimages-1230408840.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Congress overrides a Trump veto for the first time with Senate vote on defense bill"
     excerpt: "The Senate action follows a House vote earlier this week, and the defense bill now becomes law despite the president’s objections."
     publishedDateTime: 2021-01-02T00:35:00Z
@@ -3777,6 +3809,20 @@ related:
       - url: "https://i.insider.com/5ff77e7c6d61c10019cce419?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Some House Republicans join impeachment push; Pence says he will not move to expel Trump"
+    excerpt: "At least three Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
+    publishedDateTime: 2021-01-13T02:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/some-house-republicans-join-impeachment-push-pence-says-he-will-not-move-to-expel-trump-idUSKBN29H0JJ?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 111
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "Congress debates challenges to election results after pro-Trump mob invades Capitol – live"
     excerpt: "Four dead after police shooting and ‘medical emergencies’ in day of unrest"
@@ -4280,6 +4326,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "VP Mike Pence rules out invoking 25th Amendment on President Donald Trump"
+    excerpt: "\"I do not believe that such a course of action is in the best interest of our Nation or consistent with our Constitution.\""
+    publishedDateTime: 2021-01-13T01:30:00Z
+    webUrl: "https://www.boston.com/news/politics/2021/01/12/pence-25th-amendment-decision"
+    ampWebUrl: "https://www.boston.com/news/politics/2021/01/12/pence-25th-amendment-decision/amp"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2021/01/12/pence-25th-amendment-decision/amp"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 99
+    images:
+      - url: "https://www.boston.com/wp-content/uploads/2021/01/https___assets.bwbx_.io_images_users_iqjWHBFdfxIU_iWbleXlndMg0_v0_piFq5T3pJF0qzS8rF9LjsWaQ_-1x-1-5ffe4ba60f4ca-850x478.jpg"
+        width: 850
+        height: 478
+        isCached: true
   - title: "Pompeo holds 'productive' transition meeting with Biden's secretary of state nominee"
     excerpt: "U.S. Secretary of State Mike Pompeo met with Antony Blinken, President-elect Joe Biden's nominee for top diplomat, on Friday to facilitate the transition of power, just days after President Donald Trump's supporters stormed the Capitol in a bid to overturn his election"
     publishedDateTime: 2021-01-09T04:04:00Z
@@ -4552,6 +4614,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Trump Made the Stupidest Possible Argument on Mike Pence"
+    excerpt: "Donald Trump has chosen to spend the waning days of his presidency alternating between feeble efforts to cancel the election and subjecting his vice-president to a series of torments. The New York Times has new details about the latter,"
+    publishedDateTime: 2021-01-13T02:38:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/trump-told-pence-you-can-go-down-in-history-as-a-pussy.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/trump-told-pence-you-can-go-down-in-history-as-a-pussy.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/trump-told-pence-you-can-go-down-in-history-as-a-pussy.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 90
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/f1c/a1b/30748f6b4edce674ecef451db66182b443-president-trump-vice-president-pence.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "Politics live updates: Trump says he won't attend Joe Biden's inauguration"
     excerpt: "I wish he would just do what Nixon did and that's step down,” former Secretary of State Colin Powell said in an interview on NBC."
     publishedDateTime: 2021-01-08T15:58:00Z
@@ -4774,6 +4852,20 @@ related:
         width: 1024
         height: 711
         isCached: true
+  - title: "VP Pence Rejects Invoking 25th Amendment To Oust Trump"
+    excerpt: "US Vice President Mike Pence told House leaders Tuesday he does not support invoking the 25th Amendment process to remove Donald Trump, all but guaranteeing an impeachment vote against the besieged president."
+    publishedDateTime: 2021-01-13T02:00:00Z
+    webUrl: "https://www.ibtimes.com/vp-pence-rejects-invoking-25th-amendment-oust-trump-3120437"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 80
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/us-vice-president-mike-pence-said-he-does.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "VIDEO: Biden Calls On Trump To Stop Violence In TV Briefing As Washington Descends Into Chaos"
     excerpt: "After a mob descended upon the Capitol on Wednesday during a joint session of Congress, President-elect Joe Biden addressed the country and urged calm. Speaking from his home in Delaware, Biden called on President Donald Trump “to go on national television now to fulfill his oath and defend the Constitution and demand an end to this siege."
     publishedDateTime: 2021-01-06T22:16:00Z
@@ -4965,6 +5057,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/11/us-president-donald-trump-faces-a-possible-fast.jpg"
         width: 1024
         height: 711
+        isCached: true
+  - title: "It’s Not a Sin — or a Crime — to Have Voted for Donald Trump"
+    excerpt: "I didn’t vote for Donald Trump either time. Blame me for Joe Biden, if you must. I don’t think that’s right. I think both times we faced two bad choices. The first time, I wrote in Carl Anderson from the Knights of Columbus,"
+    publishedDateTime: 2021-01-13T02:45:00Z
+    webUrl: "https://www.nationalreview.com/corner/its-not-a-sin-or-a-crime-to-have-voted-for-donald-trump/"
+    ampWebUrl: "https://www.nationalreview.com/corner/its-not-a-sin-or-a-crime-to-have-voted-for-donald-trump/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/its-not-a-sin-or-a-crime-to-have-voted-for-donald-trump/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/10/donald-trump-rally-ocala-florida.jpg?resize=300%2C300&ssl=1"
+        width: 300
+        height: 300
         isCached: true
   - title: "Trump in phone call pleads with Georgia secretary of state to ‘find’ votes to overturn Joe Biden’s win"
     excerpt: "President Donald Trump pleaded with Georgia’s election chief to overturn Joe Biden’s win there, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."

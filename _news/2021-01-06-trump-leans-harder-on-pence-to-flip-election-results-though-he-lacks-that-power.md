@@ -1345,6 +1345,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Final days bring new urgency to Trump's desire to pardon himself and his children"
+    excerpt: "President Donald Trump has discussed issuing pardons for himself and his children with new urgency since the attack on the US Capitol, multiple sources familiar with the matter tell CNN.\n    \n"
+    publishedDateTime: 2021-01-13T02:15:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s3OjiJ4NNZo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/trump-pardons-children-attacks-capitol/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/trump-pardons-children-attacks-capitol/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112161840-03-trump-impeachment-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pro-Trump mob storms US Capitol as armed standoff takes place outside House chamber"
     excerpt: "The US Capitol is on lockdown amid a tense situation with demonstrators outside the building, according to Capitol police officers, as President Donald Trump's supporters attempt to break into the building while lawmakers count the Electoral College votes certifying President-elect Joe Biden's win.\n"
     publishedDateTime: 2021-01-06T20:38:38Z
@@ -1390,6 +1406,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107134539-20-us-capitol-riots-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Supreme Court grants Trump administration request to limit access to abortion drug"
+    excerpt: "The Supreme Court on Tuesday granted the Trump administration's request to reinstate long-standing restrictions for patients seeking to obtain a drug used for abortions early in pregnancy -- with the three liberals dissenting in a potential preview of a new chapter in the court's rulings on the procedure.\n"
+    publishedDateTime: 2021-01-13T01:17:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g2FMZEKkYJI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/supreme-court-medication-abortion/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/supreme-court-medication-abortion/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112194218-mifepristone-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1854,6 +1886,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/10/us/politics/10dc-cong0/10dc-cong0-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Pence Reached His Limit With Trump. It Wasn’t Pretty."
+    excerpt: "After four years of tongue-biting silence that critics say enabled the president’s worst instincts, the vice president would not yield to the pressure and name-calling from his boss."
+    publishedDateTime: 2021-01-13T01:20:00Z
+    webUrl: "https://www.nytimes.com/2021/01/12/us/politics/mike-pence-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/12/us/politics/mike-pence-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/12/us/politics/mike-pence-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/12/us/politics/12dc-pence/12dc-pence-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Live Updates: Ignoring the Constitution, Trump Increases Pressure on Pence to Reject Electors"
     excerpt: "President Trump falsely claimed that the vice president has the power to reject electors when the Electoral College vote is certified Wednesday. Georgia voters are choosing two senators in races that will decide which party controls the Senate — and the election may be a nail-biter."
@@ -2856,6 +2904,20 @@ related:
       - url: "https://static.politico.com/74/78/002243ea46a6b8741002cc5f8445/210112-trump-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Republicans begin turning on Trump"
+    excerpt: "A day before the House is set to charge Trump with ‘willful incitement of insurrection’ — the gravest allegation ever lodged against a sitting president — fissures in the Republican Party threatened to transform the vote into a resounding bipartisan rebuke."
+    publishedDateTime: 2021-01-13T01:06:00Z
+    webUrl: "https://www.politico.com/news/2021/01/12/democrats-trump-ouster-458216"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ea/8e/c0a97a8e4b6fb729bf158ce9177a/ap21005004354838.jpg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "How Congress and coronavirus could quash Trump's Electoral College gambit"
     excerpt: "Leadership has a potent arsenal to combat efforts to turn the electoral vote counting session on Jan. 6 into a spectacle — if they deploy it."

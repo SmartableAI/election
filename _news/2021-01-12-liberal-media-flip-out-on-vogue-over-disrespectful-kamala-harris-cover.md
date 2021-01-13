@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris' Vogue cover defended by Anna Wintour amid controversy"
+    excerpt: "Vogue editor-in-chief Anna Wintour has spoken out after the magazine's cover shoot featuring Vice President-elect Kamala Harris received backlash."
+    publishedDateTime: 2021-01-13T01:59:00Z
+    webUrl: "https://www.foxnews.com/entertainment/kamala-harris-vogue-cover-defended-anna-wintour-controversy"
+    ampWebUrl: "https://www.foxnews.com/entertainment/kamala-harris-vogue-cover-defended-anna-wintour-controversy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/kamala-harris-vogue-cover-defended-anna-wintour-controversy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Kamala-Harris-Anna-Wintour.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Vogue's Kamala Harris cover sparks social-media frenzy: 'What a mess up'"
     excerpt: "The cover of February's upcoming issue of Vogue, which features Vice-President-elect Kamala Harris, has been widely criticized on social media."
     publishedDateTime: 2021-01-10T11:24:00Z

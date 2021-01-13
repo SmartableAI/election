@@ -47,6 +47,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Speaker Pelosi names Rep. Eric Swalwell among Trump impeachment managers"
+    excerpt: "Rep. Eric Swalwell has been named as one of nine impeachment managers announced to before the Senate in President Trump’s second impeachment tria"
+    publishedDateTime: 2021-01-13T02:43:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5P7cbimHuU/speaker-pelosi-eric-swalwell-trump-impeachment-managers"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/AP19347606405768.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "5ifHPG1qWcCy3VzZyx9DpwlKX6QX4pcQseh2u0CMDzrEEQaCkRbGgTomL7aZSpk5GryTqL0sgpjCUAhj49dQz7h4KoXGngRKWN8UQwS9JSIWUtbDq9bNlRn4gsR8jYmnhjEYx5K9JNTr/sIARD4G+MjgEgOiXWH9ez+TRYxd+F9VUCXjWJZ7GTtPoWVPCe/lNW8RP6wmcQCBKlxW/wmbmzCXH4/QM8ZJHX8uA79oOmAPri+tkyhoagCrYFyiO4JZQc81QJWJDud7GVWPNazsnyogeqRGRYj/cij2t95pe4fgg6/qWig2zMfC/yNCvffqvze1wIKwDSn4+5Tajogd1cvhxLf/meoGNEqhG0MbOkM=;+dY13fFH0Hx89rtxZuHgTQ=="
 ---

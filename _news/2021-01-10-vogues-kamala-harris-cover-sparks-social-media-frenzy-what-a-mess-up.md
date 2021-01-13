@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/vogues-kamala-harris-cover-sparks-soci
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/vogues-kamala-harris-cover-sparks-social-media-frenzy-what-a-mess-up.amp"
 type: article
 quality: 134
-heat: 154
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris' Vogue cover defended by Anna Wintour amid controversy"
+    excerpt: "Vogue editor-in-chief Anna Wintour has spoken out after the magazine's cover shoot featuring Vice President-elect Kamala Harris received backlash."
+    publishedDateTime: 2021-01-13T01:59:00Z
+    webUrl: "https://www.foxnews.com/entertainment/kamala-harris-vogue-cover-defended-anna-wintour-controversy"
+    ampWebUrl: "https://www.foxnews.com/entertainment/kamala-harris-vogue-cover-defended-anna-wintour-controversy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/kamala-harris-vogue-cover-defended-anna-wintour-controversy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Kamala-Harris-Anna-Wintour.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Liberal media flip out on Vogue over 'disrespectful' Kamala Harris cover"
     excerpt: "Despite publishing a puff piece and giving its vaunted cover to Vice President-elect Kamala Harris, Vogue is receiving backlash from liberal media outlets for using too casual a picture of the senator from California."
     publishedDateTime: 2021-01-11T21:31:00Z
