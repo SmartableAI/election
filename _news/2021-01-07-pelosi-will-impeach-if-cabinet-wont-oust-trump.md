@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont-oust-trump.amp"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -236,6 +236,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005034498345-e1609858170240.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Republican Voters Oppose Trump Impeachment as Some Lawmakers Seek Distance"
+    excerpt: "Some GOP lawmakers such as Rep. Nancy Mace of South Carolina have publicly criticized the president over the attack on the Capitol."
+    publishedDateTime: 2021-01-14T18:13:00Z
+    webUrl: "https://www.wsj.com/articles/republican-voters-stick-by-trump-as-some-lawmakers-seek-distance-11610629997"
+    ampWebUrl: "https://www.wsj.com/amp/articles/republican-voters-stick-by-trump-as-some-lawmakers-seek-distance-11610629997"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republican-voters-stick-by-trump-as-some-lawmakers-seek-distance-11610629997"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 133
+    images:
+      - url: "https://images.wsj.net/im-284917/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "XA+xxB3iBcaKdaJf3dN9eMM9+XbpkXVozHy69DKVjHqrBAicWYJE4SGnUfXyAHEiSTup7Zcv5zdy5Q2lhU3zqoeBSaOvVLAOdV6a8CEWqxanIvs2uzAnrXpMe3PtcthvyviMB9VbpbwGdXzci5KeorGfU5fGnCO4LNRvuGtHMbmLb1c3sldl2kxnybXwZIqaSjqwtn91myh190OFLf79z944Xq943JbUtdUO8B60cMbFd93ba1YMxrTZvHXgkBordZ8H7LhptYcGXgfjUM/qsAy1mXqk0y44DCPOMJGYQDgym/R5eElcnPabPWSaXGgDh82nwUqYPIpHKK/8dTOkQ25orFKHoZvZXgOcLnGA84I=;sNSjeGci19CFUK8w/hEn4w=="

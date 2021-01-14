@@ -44,6 +44,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden picks South Carolina’s Jaime Harrison to steer Democratic Party: sources"
+    excerpt: "Former South Carolina Democratic Party Chair Jaime Harrison has been tapped by President-elect Joe Biden to serve as the next chair of the Democratic National Committee (DNC), two party sources confirm to Fox News."
+    publishedDateTime: 2021-01-14T18:37:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VEMRdGBOYng/biden-picks-south-carolinas-harrison-to-steer-democratic-party"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-picks-south-carolinas-harrison-to-steer-democratic-party.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-picks-south-carolinas-harrison-to-steer-democratic-party.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "O0D2mDJAlKj3qUN5QgG0hcKHjSdy1SAO4FQ+q3hgOTgl/j8vTlhngYMUt2LTxAwcxYOX9/vwjuZakAO3e8f3UJdoKQhImVBSCXZ1cPq2Z8eRsbQS/5TM1d6dkv6olEAygru3s9FiU54OcjzP5wRoz6nDF6Ocg13GIDO8Ibj3RGPsbet3FGUEFzZ0Jo0TpsGBsScUfSiATyFEzpZQrSBlRZcEGL0f7F/i0JK88Sxh1wzDjJt3BpITWjnEdMGI4iKsrl9qH/0BkNuG65iD1hnK5sShG3zokTK8Jknu46UNGfo+BE9oHoAdH0qf5r7YJp1EqqvMEQvbjETGcR53WRnkz3TQq+bG7muzecm7VnHlDQ0288x/Uwye+XkejFxsIrgaxDKmkmLBeMHMT0FPiSSBbBwhytgc5i5t9DbmT08MTw4qEdDETYid324haCWMu5tAa7ySXOgUujQ62xCnM+rgntl9uIb0Q3y3FEJjBEr0BNUfXJYqgGexxMRndaeGKR5aU6sKPY/pBVGU/R6gAGq0ow==;XaR8bEOzmO3g+QX8mKoa1A=="
 ---

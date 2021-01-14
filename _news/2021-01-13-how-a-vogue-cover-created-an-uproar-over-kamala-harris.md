@@ -552,7 +552,7 @@ related:
   - title: "Vogue's Kamala Harris Cover Was an Underwhelming Miss — and Her Supporters Want to Know Why"
     excerpt: "The criticism of the cover runs the gamut from way the photograph is lit, which some say washes out her features, to the overall styling that others say fall far short of capturing the country’s first Black woman to be elected vice president."
     publishedDateTime: 2021-01-11T19:10:00Z
-    webUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/?amp"
+    webUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/"
     ampWebUrl: "https://www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/?amp"
     cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/lx/vogues-kamala-harris-cover-was-an-underwhelming-miss-and-her-supporters-want-to-know-why/2824244/?amp"
     type: article
@@ -676,6 +676,6 @@ related:
       domain: seattletimes.com
     quality: 47
 
-secured: "Ci0Yj85X4M9/1F6dYgNHwhGROcDZsvP0ySfOXByCTZqK299ej/rYgsXeDGmXGLe3Blldw8U+4Qgd1ue45DG+KXW2BDtvj0Up9ivEHDoUC5iB1ybm9XBFyi8GRWa5ZlFn/D53RSLJ0u7hBfs+2jmdpD5eQES+/YEJul49wBmw6bsku1DXEz62ffNFabRwVt+nrtLixe183tvOSyvThz+AgpKP2eTa0MUTLXPLCfoEOHNUo0Pt1D70Zk9QphEaYv/zey0hp6jGfhSpTmeuNfo32Q5p3aMy/x3ccToTRZdQWPTccPQp/UDvF+nU6Y+Ql1/HcvRu7KPxOVsuREoKDLpBwzMrMfrtMVk6pucWgR82uw8=;22Hq4umvliFm5LZ5RKoqRg=="
+secured: "fqFWccbTcl0WmxoIYN0vdr3EOVM9mM5hfI13kmygmjyRu+fPyunw+YgVZQIAs+gYRQt6QCwGqvolKLWB9EeLARQPHc2SC6fsCda4CBSIRMDKVXVjoakMpBDagDiz1c8phnSloaPbBFFT9XYn6dagu4MlXDAJDC2nriPJ3vnPpCOe5eq/Y3fPrJZrZ2ElchAcx3XldiV6pRdq22ssvkh7OXkwPgq6UKiUWFihhS4uhLFjSxRfVF1jKcwUIoGrAMHYVJynAo5AVe/YMHBDiZlz8PnbMguOz0b8AcAWIBdifjDH3SPW6fxG3U+ZVfSygOxYLZbxOn1vytIE1hxc/MQokhz4YHWZs6hz4j5IWYjogaYYLixLvkZCknK8vs6G6BhF0Jb7NOnW2LKODPA5iM/uAqTWX3ylKI3GfToomKyAiSb0NWKsU0q/yqsD3qnTsUYHBQDwyB7O7+b4y550TOdny8qf2hY5Xf55rkmxN1Epg7J797nTo/jCrNEYroPjhAGEkpFZQY+75o/3NdWOH/mniw==;Lp3JjtQ0RoPzC/D9V/XSHg=="
 ---
 

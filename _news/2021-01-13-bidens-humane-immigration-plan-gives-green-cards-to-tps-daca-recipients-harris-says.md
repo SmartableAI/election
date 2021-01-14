@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-humane-immigration-plan-give
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-humane-immigration-plan-gives-green-cards-to-tps-daca-recipients-harris-says.amp"
 type: article
 quality: 191
-heat: 211
+heat: 231
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden picks South Carolina’s Jaime Harrison to steer Democratic Party: sources"
+    excerpt: "Former South Carolina Democratic Party Chair Jaime Harrison has been tapped by President-elect Joe Biden to serve as the next chair of the Democratic National Committee (DNC), two party sources confirm to Fox News."
+    publishedDateTime: 2021-01-14T18:37:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VEMRdGBOYng/biden-picks-south-carolinas-harrison-to-steer-democratic-party"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-picks-south-carolinas-harrison-to-steer-democratic-party.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-picks-south-carolinas-harrison-to-steer-democratic-party.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Why Kamala Harris’ Vogue cover is trending on social media"
     excerpt: "Kamala Harris is Vogue’s new cover girl — but it isn’t winning her any votes. The vice president-elect appears on the February front of the fashion bible in a set of her own duds"
     publishedDateTime: 2021-01-10T18:09:00Z

@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Tom Hanks Hosted Inauguration Special Sees Comparison of Joe Biden, Donald Trump Supporters"
+    excerpt: "An inauguration special for Joe Biden has drawn comparisons to the kind of celebrities who are showing support for him over Donald Trump."
+    publishedDateTime: 2021-01-14T17:50:00Z
+    webUrl: "https://www.ibtimes.com/tom-hanks-hosted-inauguration-special-sees-comparison-joe-biden-donald-trump-3122280"
+    ampWebUrl: "https://www.ibtimes.com/tom-hanks-hosted-inauguration-special-sees-comparison-joe-biden-donald-trump-3122280?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tom-hanks-hosted-inauguration-special-sees-comparison-joe-biden-donald-trump-3122280?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 80
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/24/tom-hanks-and-his-wife-rita-wilson-contracted.jpg"
+        width: 1024
+        height: 693
+        isCached: true
 
 secured: "gDQSfUVNqkYMi5ZqWGCV/SR1tHDJrOk3Nbfu14T39P+aFVwk4tcbwjrTutXYhW2emq7gu2Yz3qut8NCMcRgI5dfcHP4PaR2PDPynVGP8WuQNE2CnMwiiuqQMk9BODT+Ep07eteO4QOrgFkNWAV7Yyvj1DoSYUBW+R+bekpjGIb0/3G+cf5z9/TxNEnwo0AYFJhwoKTKK1549GdbinhWd8Bt/4MFnVIUsbpYVo0M1E9ngG6Rbr2BcCIIctoc0P0FjTD7/LTot0ePRAbj1JVfiAFOL5AxT1gzaERgTuL3QnNvpUwDqbD1jIhfI0NIL1aujeLJXjes8HnegUhcscmVW0gQ8pJsUy/a+Upvy23237UvOWYMrD9/Nr3wQNkj1jIMBNjjjMXy+ADVstB+L2QZVzT2WB2/u4hC4WXN99+C+mbJHWsD9KiEo94/l8g8YSOBQ0BFCJdIXT+byTBAftD0wICgUdmNW1lMkBiuf05XVzKx5WEoECZ+ZoFZolE5gr1OTgjtTQL5PrggocIQjPz39pA==;P0dwxjyqB3yoLkXOda8T0Q=="
 ---

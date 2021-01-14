@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/house/533955-house-passes-bill-calling-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/533955-house-passes-bill-calling-on-pence-to-remove-trump?amp"
 type: article
 quality: 140
-heat: 3440
+heat: 3520
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden aims for new course on trade, breaking with Trump and Democratic predecessors"
+    excerpt: "Biden will confront the same question that has bedeviled U.S. policymakers for three decades: How can the U.S. shape for maximum benefit its overseas commercial engagements?"
+    publishedDateTime: 2021-01-14T18:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/14/biden-trade-katherine-tai-tariff/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/14/biden-trade-katherine-tai-tariff/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/14/biden-trade-katherine-tai-tariff/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/326P67B4AAI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "James Comey Says Joe Biden Should Consider Pardoning Donald Trump to Allow U.S. to Heal"
     excerpt: "James Comey, the former FBI director fired by President Donald Trump in 2017, said the U.S. needs to \"focus on things that are going to matter.\""
     publishedDateTime: 2021-01-14T09:06:00Z
@@ -1417,6 +1433,45 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "How Trump's new COVID plan will impact states..."
+    excerpt: "Watch \"How Trump's new COVID-19 plan will impact states\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-01-14T18:44:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210114181815-how-trumps-new-covid-19-plan-will-impact-states/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/14/story_08551790_1610649244.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Impeachment manager Dean: Trump incited violence"
+    excerpt: "President Donald Trump's impeachment trial could begin as soon as 1 p.m. on Inauguration Day. One of the Democratic impeachment managers, Rep. Madeleine Dean, said she wants senators to \"look at their conscience\" and \"vote the correct way."
+    publishedDateTime: 2021-01-14T18:30:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/14/impeachment-manager-dean-trump-incited-violence/4161172001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/1b4d917b-966a-4d12-9f9a-e1ff8c57d339_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "The Latest: Trump's trial could start on Inauguration Day"
+    excerpt: "The Latest on and the fallout from the Jan. 6 attack of the Capitol by pro-Trump loyalists (all times local):"
+    publishedDateTime: 2021-01-14T18:36:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-trumps-trial-could-start-on-inauguration-day-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-trumps-trial-could-start-on-inauguration-day-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-trumps-trial-could-start-on-inauguration-day-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "U.S. labor federation urges Trump removal, calling him 'danger' to nation"
     excerpt: "The board of a labor federation of more than 50 unions representing 12.5 million workers called for U.S. President Donald Trump's resignation or removal from office."
     publishedDateTime: 2021-01-08T16:52:00Z

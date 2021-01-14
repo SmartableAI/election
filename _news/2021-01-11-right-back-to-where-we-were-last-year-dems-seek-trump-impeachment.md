@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/right-back-to-where-we-were-last-ye
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Republican Voters Stick by Trump as Some Lawmakers Seek Distance"
+    excerpt: "Some GOP lawmakers such as Rep. Nancy Mace of South Carolina have opposed impeachment while publicly criticizing the president."
+    publishedDateTime: 2021-01-14T18:13:00Z
+    webUrl: "https://www.wsj.com/articles/republican-voters-stick-by-trump-as-some-lawmakers-seek-distance-11610629997?mod=business_minor_pos4"
+    ampWebUrl: "https://www.wsj.com/amp/articles/republican-voters-stick-by-trump-as-some-lawmakers-seek-distance-11610629997"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republican-voters-stick-by-trump-as-some-lawmakers-seek-distance-11610629997"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-284917/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "NjedH6JeZ092/52J7LkyzWIRAY+Bh4+FHu3EmbF1J1nHDvud2Ex0DpzMQOvKZvBNeUlMPdoWhP2WvsfPpMF6D9isDvP+ns1BKBjp0yMZBgztd/C8b6i9XYu9aFTIO6QTTy4k+6pyGxNkDgpgje1Qw5qVEcfteHEb4yBMu9ufYqXv+nbmRVBawpmGgO1jeUh+bV9ObqreoY1DwGVMLcvXVj0dwDUpWA2DgIwwndVmUe0TAU6zZzWIvW8BYAfsaIVGAW6S0J7T7EAhjnhDf93qUZPZ0xtfHvdaru61jA6gjiILPugRYIiXfdfJ09rQyYeL/qyDaEA0gQkwjwu/DFNci4Kjrzy569kBKkw/ZTuZF+8=;k2/NmE+xkHYKV4WVT25N/g=="

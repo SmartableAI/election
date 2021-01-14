@@ -144,6 +144,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Donald Trump Is the Perfect Leader of the Worst Generation"
+    excerpt: "During the floor debate Wednesday over the second and possibly final impeachment of President Donald Trump, there were references to him being the worst president in American history. Could be. It is worth recalling,"
+    publishedDateTime: 2021-01-14T13:36:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/01/14/trump-leader-worst-generation-459244"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/13/0d/adcda80f4ce5830d72794c6fa256/210113-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "0a3LePh7dCQ4123OFoxwHwydbPPCgJN2KHVeCoVgiAo2p5zafLUzOUIo1jHsMXKmfFLYBv9/c1Ah0qKnDacQ0cBtaEYcn1pnYpXJxr8W8Qm3UlHJ4HvtoqAM+uHwq1oJRI+0eOFjkpIp2NBWWt7Z2NLGgHHOyew0E+RlT+KPMxYU5YINSDWONMmYNWyzhyWJ7+xSyIMeiCl7KFg0ro/85KkisvWB631PIx8l2AdzOPg6SBtuK/S428ZNNPvb9i0OV7L3MGs0bYQzYe6O94bNFfy+NLuJyxP/punY5kLtFHHraJQtsupwP8zKNWfb6XEfomvi/QUrWa39NszQleEppuO66zZ/v76sOzjyNySHH9JWd8IeoyWOf2V7pGAGwQklniUMXgPHnLpetS59fr7KDykaJA9GCZ0eUWPzUGNpBRbtY3/3+KA9UW+CnegsntCrC1MEbfZA0xVhEHZhDakpP8tPxdBW1zhwWsI07MzxwceXvC4X22ti2WdKNPUOYYl9kIhtIruz94OtNiEKmsNwyA==;Z/xxn3nY8+RhWOMz2z5PNw=="
 ---

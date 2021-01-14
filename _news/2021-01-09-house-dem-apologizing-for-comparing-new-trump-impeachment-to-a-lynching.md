@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Republican Voters Stick by Trump as Some Lawmakers Seek Distance"
+    excerpt: "Some GOP lawmakers such as Rep. Nancy Mace of South Carolina have opposed impeachment while publicly criticizing the president."
+    publishedDateTime: 2021-01-14T18:13:00Z
+    webUrl: "https://www.wsj.com/articles/republican-voters-stick-by-trump-as-some-lawmakers-seek-distance-11610629997?mod=business_minor_pos4"
+    ampWebUrl: "https://www.wsj.com/amp/articles/republican-voters-stick-by-trump-as-some-lawmakers-seek-distance-11610629997"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republican-voters-stick-by-trump-as-some-lawmakers-seek-distance-11610629997"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-284917/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "ZIafFl5W2tAM1zEhIv8n1R7MGK2ve7JYCy3WGEouQkQiSfivyl92FtuvxCEdkN81r1RkzzT6qNzavS0Blc2HNjMeCaF1MdY8+B/CH+1AOqPdc3DU6yhCyJ4/m6HYKswlCS0uP6xrZI5dHAVZJQlbaJCM4adItC26tp8+9fRy7+46iDvLVkYTxuyTDvVeltkTUJ8sH3SZtLWLVn14AVLsz5WX2K9TE4YdjYe4oBRm0tJ4dzqY4HXWO3GsxFtEYeD6pZ9N2PdBuhrjVwlex8TpTV8RNaujYxaYY3z1E1fYIS2cGJkQaNUcC+PvHa/LOV7pLhtrP9udTv7stBYVMwzOPnnxN2DVXZl8m5j8Z6o9VlA=;j1EapwLX4wfMquCmiKSx4Q=="
 ---
