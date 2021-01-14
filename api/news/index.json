@@ -2,6 +2,498 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-14-biden-doj-civil-rights-pick-stands-by-defense-of-controversial-ex-womens-march-leader.md",
+      "title": "Biden DOJ Civil Rights pick stands by defense of controversial ex-Women’s March leader",
+      "excerpt": "Kristen Clarke, President-elect Joe Biden's choice to run the Justice Department's Civil Rights Division, defends backing a former leader of the Women’s March who was accused of anti-Semitism.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SZ2F5u54MsU/biden-doj-pick-defense-ex-womens-march-leader",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SZ2F5u54MsU/biden-doj-pick-defense-ex-womens-march-leader",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ccedca73-8447-45bd-9bc7-2b1cc2a3e532/44618639-0f4e-4ea7-8a23-802511106a18/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-doj-pick-defense-ex-womens-march-leader.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-pick-defense-ex-womens-march-leader.amp",
+      "publishedDateTime": "2021-01-14T14:41:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-fact-check-was-a-biden-campaign-official-arrested.md",
+      "title": "Fact Check: Was a Biden Campaign Official Arrested?",
+      "excerpt": "A woman was arrested in Texas on multiple counts of voter fraud, causing social media users to make claims about who she was working for.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/fact-check-was-biden-campaign-official-arrested-1561777",
+      "originalUrl": "https://www.newsweek.com/fact-check-was-biden-campaign-official-arrested-1561777",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1683033/ken-paxton-files-election-lawsuit-supreme-court.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/fact-check-was-biden-campaign-official-arrested-1561777?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-was-biden-campaign-official-arrested-1561777?amp=1",
+      "publishedDateTime": "2021-01-14T14:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-joe-biden-unveiling-american-rescue-plan-a-19t-stimulus-to-stem-covid-19-and-steady-the-economy.md",
+      "title": "Joe Biden unveiling ‘American Rescue Plan,’ a $1.9T stimulus to stem COVID-19 and steady the economy",
+      "excerpt": "President-elect Joe Biden is unveiling a $1.9 trillion coronavirus plan Thursday to turn the tide on the pandemic, speeding up the vaccine rollout and providing financial help to individuals, states and local governments and businesses struggling with the prolonged economic fallout.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-joe-biden-stimulus-plan-updates-20210114-fx5v7ouy7fexdlrov65wc54nim-story.html",
+      "originalUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-joe-biden-stimulus-plan-updates-20210114-fx5v7ouy7fexdlrov65wc54nim-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/S_ZhtHccLB488bCUHPc1Hv7wWlk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XIIVVVIYPAILYEFQFRSOVKVIOQ.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-joe-biden-stimulus-plan-updates-20210114-fx5v7ouy7fexdlrov65wc54nim-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-joe-biden-stimulus-plan-updates-20210114-fx5v7ouy7fexdlrov65wc54nim-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-14T14:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-georgia-republicans-reassign-gop-lawmakers-who-supported-trumps-election-fraud-claims.md",
+      "title": "Georgia Republicans reassign GOP lawmakers who supported Trump's election fraud claims",
+      "excerpt": "Georgia Republicans have reassigned three fellow GOP lawmakers who backed baseless allegations of voter fraud related to the November presidential election.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bQk1jeke6AA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bQk1jeke6AA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 342,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190312141705-georgia-state-capitol-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/14/politics/georgia-republicans-election-fraud-claims-reassigned/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/georgia-republicans-election-fraud-claims-reassigned/index.html",
+      "publishedDateTime": "2021-01-14T14:24:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-i-support-him-more-than-i-ever-did-no-regrets-as-trump-loyalists-gather-at-ohio-movie-theater-to-discuss-jan-6.md",
+      "title": "'I support him more than I ever did.' No regrets as Trump loyalists gather at Ohio movie theater to discuss Jan. 6",
+      "excerpt": "A group of Republicans gathered at a suburban Cincinnati movie theater to hear firsthand from six Trump loyalists who attended the Jan. 6 rally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/14/capitol-riot-trump-loyalists-ohio-relive-jan-6-no-regrets/4156313001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/14/capitol-riot-trump-loyalists-ohio-relive-jan-6-no-regrets/4156313001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/14/PCIN/fe3ba51d-da5e-456a-b04c-8073d2f33284-trump_clermont_poll.jpg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4156313001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4156313001",
+      "publishedDateTime": "2021-01-14T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-senate-gop-torn-over-convicting-trump-theres-no-love-lost.md",
+      "title": "Senate GOP torn over convicting Trump: 'There's no love lost'",
+      "excerpt": "To many Senate Republicans, including Senate Majority Leader Mitch McConnell, there's no question in their minds: President Donald Trump committed impeachable offenses.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r1vWzdUQ28I/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r1vWzdUQ28I/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/14/politics/mitch-mcconnell-republican-senator-plans/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/mitch-mcconnell-republican-senator-plans/index.html",
+      "publishedDateTime": "2021-01-14T14:09:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-secret-service-pays-high-rent-for-apartment-near-ivanka-trump-and-jared-kushners-home-for-toilets-and-office-space-for-agents.md",
+      "title": "Secret Service pays high rent for apartment near Ivanka Trump and Jared Kushner's home for toilets and office space for agents",
+      "excerpt": "The US Secret Service is renting a small studio apartment in Washington, DC, near the home of Jared Kushner and Ivanka Trump, a source with knowledge of the service's activities told CNN on Thursday, in order for agents to use the bathroom and have office space.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hBmGwJJ0Vw8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hBmGwJJ0Vw8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201115070140-02-jared-kushner-ivanka-trump-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/14/politics/ivanka-trump-jared-kushner-bathroom-secret-service/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/ivanka-trump-jared-kushner-bathroom-secret-service/index.html",
+      "publishedDateTime": "2021-01-14T13:41:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-wyoming-gop-rips-rep-liz-cheney-for-voting-to-impeach-trump.md",
+      "title": "Wyoming GOP rips Rep. Liz Cheney for voting to impeach Trump",
+      "excerpt": "Wyoming Republican leaders said Cheney’s decision led to a “whirlwind” of criticism in her home state.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EJtMBnZ6JXQ/wyoming-gop-rips-rep-liz-cheney-voting-impeach-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EJtMBnZ6JXQ/wyoming-gop-rips-rep-liz-cheney-voting-impeach-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a35816a3-7e51-448c-bda9-a5a8814c76e9/2b740dbc-bc7a-45b2-bb1b-f8049089ff41/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/wyoming-gop-rips-rep-liz-cheney-voting-impeach-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wyoming-gop-rips-rep-liz-cheney-voting-impeach-trump.amp",
+      "publishedDateTime": "2021-01-14T13:08:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-colorado-officials-balk-at-trump-decision-to-move-space-command-hq-to-alabama.md",
+      "title": "Colorado officials balk at Trump decision to move Space Command HQ to Alabama",
+      "excerpt": "Officials in Colorado Springs are slamming the Trump administration’s decision to move U.S. Space Command from its temporary location in their city to Alabama claiming the move was based on President Trump’s “personal interest,” but Fox News has learned that Air Force Secretary Barbara Barrett made the",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eqKXGzvbWDA/colorado-trump-decision-space-command-hq-alabama",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eqKXGzvbWDA/colorado-trump-decision-space-command-hq-alabama",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/colorado-trump-decision-space-command-hq-alabama.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colorado-trump-decision-space-command-hq-alabama.amp",
+      "publishedDateTime": "2021-01-14T13:02:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-ex-obama-official-who-helped-fix-botched-healthcaregov-rollout-to-join-bidens-covid-19-team.md",
       "title": "Ex-Obama official who helped fix botched healthcare.gov rollout to join Biden's Covid-19 team",
       "excerpt": "Andy Slavitt, the former acting chief of Medicare and Medicaid under the Obama administration, is expected to join President-elect Joe Biden's Covid-19 team in a senior advisory role, CNN has learned.\n    \n",
@@ -325,7 +817,7 @@
       "originalUrl": "https://www.reuters.com/video/watch/trudeau-expects-biden-to-re-engage-us-on-id724248082",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -698,63 +1190,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-14-trump-conviction-faces-uphill-climb-in-senate-it-could-all-come-down-to-mcconnell.md",
-      "title": "Trump conviction faces uphill climb in Senate. It could all come down to McConnell.",
-      "excerpt": "Senators are not expected to consider the House impeachment resolution until Tuesday, the day before President-elect Joe Biden takes office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/trump-impeachment-inquiry/trump-impeachment-faces-uphill-climb-senate-it-could-all-come-n1254171",
-      "originalUrl": "https://www.nbcnews.com/politics/trump-impeachment-inquiry/trump-impeachment-faces-uphill-climb-senate-it-could-all-come-n1254171",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_02/3441896/210113-donald-trump-ac-434p_0a113ac772841e55bfd302f2f9225047.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1254171",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254171",
-      "publishedDateTime": "2021-01-14T00:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-14-biden-tweets-about-impeachment-vote-reminds-senate-of-other-urgent-business.md",
       "title": "Biden tweets about impeachment vote, reminds Senate of 'other urgent business'",
       "excerpt": "After the House voted to impeach President Trump Wednesday, President-elect Biden said the chamber had held the president \"accountable\" and asked the Senate to do their \"constitutional responsibilities\" on impeachment – along with \"other urgent business.\"",
@@ -907,450 +1342,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-biden-forgoing-amtrak-trip-to-washington-over-security-fears.md",
-      "title": "Biden forgoing Amtrak trip to Washington over security fears",
-      "excerpt": "President-elect Joe Biden will no longer be taking an Amtrak train to Washington for his inauguration because of security concerns",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-forgoing-amtrak-trip-washington-security-fears-75240422",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-forgoing-amtrak-trip-washington-security-fears-75240422",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_76e194e994ac4a12af2297d0bbd1395a_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-forgoing-amtrak-trip-washington-security-fears-75240422",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-forgoing-amtrak-trip-washington-security-fears-75240422",
-      "publishedDateTime": "2021-01-13T19:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-new-squad-member-cori-bush-booed-in-house-after-calling-trump-white-supremacist-in-chief.md",
-      "title": "New 'Squad' member Cori Bush booed in House after calling Trump 'White supremacist in chief’",
-      "excerpt": "Rep. Cori Bush, D-Mo., drew mixed reactions from her colleagues on Capitol Hill on Wednesday after calling President Trump a White supremacist.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oN_jvusZXEk/squad-cori-bush-calling-trump-white-supremacist",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oN_jvusZXEk/squad-cori-bush-calling-trump-white-supremacist",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c0ff7ca-92a9-447d-a84d-8ca44f2eae06/f6811563-0971-4869-bc00-44dd4ccfaa63/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/squad-cori-bush-calling-trump-white-supremacist.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-cori-bush-calling-trump-white-supremacist.amp",
-      "publishedDateTime": "2021-01-13T18:56:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-swalwell-compares-trump-to-usama-bin-laden-he-was-responsible.md",
-      "title": "Swalwell compares Trump to Usama bin Laden: 'He was responsible'",
-      "excerpt": "Democratic California Rep. Eric Swalwell, who remains on the House Intelligence Committee despite foggy ties to a spy for China and who will serve as an impeachment manager, associated President Trump with Usama bin Laden in an interview Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EjxHIq_BY1I/swalwell-compares-trump-to-usama-bin-laden-he-was-responsible",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EjxHIq_BY1I/swalwell-compares-trump-to-usama-bin-laden-he-was-responsible",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/swalwell-walking-masked.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/swalwell-compares-trump-to-usama-bin-laden-he-was-responsible.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/swalwell-compares-trump-to-usama-bin-laden-he-was-responsible.amp",
-      "publishedDateTime": "2021-01-13T15:57:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-space-command-to-be-headquartered-in-alabama-in-win-for-trump-allies-in-state.md",
-      "title": "Space Command to be headquartered in Alabama, in 'win' for Trump allies in state",
-      "excerpt": "The U.S. Space Command will be headquartered in Huntsville, Ala., it was announced Wednesday, in what sources say is a \"major win\" for allies of President Trump after an intense lobbying battle between six finalists.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UWG3tZDiEWQ/space-command-to-be-headquartered-in-alabama-in-a-major-win-for-trump-allies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UWG3tZDiEWQ/space-command-to-be-headquartered-in-alabama-in-a-major-win-for-trump-allies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/space-command-to-be-headquartered-in-alabama-in-a-major-win-for-trump-allies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/space-command-to-be-headquartered-in-alabama-in-a-major-win-for-trump-allies.amp",
-      "publishedDateTime": "2021-01-13T13:11:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-maxine-waters-warns-trump-capable-of-starting-a-civil-war.md",
-      "title": "Maxine Waters warns Trump 'capable of starting a civil war'",
-      "excerpt": "Rep. Maxine Waters, D-Calif., urged the House of Representatives to impeach President Trump on Wednesday, arguing that he was \"the worst president in the history of the United States.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XcQVk1yPmHo/maxine-waters-trump-civil-war",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XcQVk1yPmHo/maxine-waters-trump-civil-war",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ffd8a2c-33e3-456d-88da-85083e263c93/73994e6b-b87b-4e26-898b-6ce9df28b672/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/maxine-waters-trump-civil-war.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/maxine-waters-trump-civil-war.amp",
-      "publishedDateTime": "2021-01-13T12:45:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement.md",
-      "title": "Cindy McCain trades shots with top AZ Republican over Biden endorsement",
-      "excerpt": "Cindy McCain, widow of the late GOP Sen. John McCain, fired back at the state's Republican Party on Tuesday following the announcement of a resolution to censure her over supposed ties to leftist, globalist causes and failure to support President Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4MtFVRz_Zw8/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4MtFVRz_Zw8/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b15a729f-7e48-4c06-a52d-20c5c73df2fe/be420134-8c4e-47c5-84c3-5b5908bc7c4d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement.amp",
-      "publishedDateTime": "2021-01-13T12:37:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment.md",
-      "title": "McConnell says he has 'not made a final decision' on how he will vote on Trump impeachment",
-      "excerpt": "Senate Majority Leader Mitch McConnell told Republican colleagues Wednesday that he has “not made a final decision” on how he will vote on impeachment, despite signaling that he supported House Democrats’ move to initiate impeachment proceedings against President Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2JouXSKxUK8/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2JouXSKxUK8/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment.amp",
-      "publishedDateTime": "2021-01-13T12:35:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-trump-would-have-standing-to-challenge-his-impeachment-trial-turley.md",
-      "title": "Trump 'would have standing to challenge' his impeachment trial: Turley",
-      "excerpt": "George Washington University law professor Jonathan Turley told “America’s Newsroom” on Wednesday that President Trump “would have standing to challenge” his impeachment trial potentially taking place after he is no longer in office “and the court could rule on it.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kSTdzGFBWVY/trump-standing-challenge-impeachment-trial-turley",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kSTdzGFBWVY/trump-standing-challenge-impeachment-trial-turley",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-standing-challenge-impeachment-trial-turley.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-standing-challenge-impeachment-trial-turley.amp",
-      "publishedDateTime": "2021-01-13T12:19:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

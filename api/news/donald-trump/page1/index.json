@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-15-i-support-him-more-than-i-ever-did-no-regrets-as-trump-loyalists-gather-at-ohio-movie-theater-to-discuss-jan-6.md",
+      "title": "'I support him more than I ever did.' No regrets as Trump loyalists gather at Ohio movie theater to discuss Jan. 6",
+      "excerpt": "A group of Republicans gathered at a suburban Cincinnati movie theater to hear firsthand from six Trump loyalists who attended the Jan. 6 rally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/14/capitol-riot-trump-loyalists-ohio-relive-jan-6-no-regrets/4156313001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/14/capitol-riot-trump-loyalists-ohio-relive-jan-6-no-regrets/4156313001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/14/PCIN/fe3ba51d-da5e-456a-b04c-8073d2f33284-trump_clermont_poll.jpg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4156313001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4156313001",
+      "publishedDateTime": "2021-01-14T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-jack-dorsey-defends-banning-trump-but-admits-it-sets-dangerous-precedent.md",
       "title": "Jack Dorsey defends banning Trump but admits it sets 'dangerous' precedent",
       "excerpt": "Jack Dorsey opened up about the decision to ban President Donald Trump from the platform in a thread, saying he feels the action sets a \"dangerous\" precedent.",
@@ -210,63 +262,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-14-trump-conviction-faces-uphill-climb-in-senate-it-could-all-come-down-to-mcconnell.md",
-      "title": "Trump conviction faces uphill climb in Senate. It could all come down to McConnell.",
-      "excerpt": "Senators are not expected to consider the House impeachment resolution until Tuesday, the day before President-elect Joe Biden takes office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/trump-impeachment-inquiry/trump-impeachment-faces-uphill-climb-senate-it-could-all-come-n1254171",
-      "originalUrl": "https://www.nbcnews.com/politics/trump-impeachment-inquiry/trump-impeachment-faces-uphill-climb-senate-it-could-all-come-n1254171",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_02/3441896/210113-donald-trump-ac-434p_0a113ac772841e55bfd302f2f9225047.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1254171",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254171",
-      "publishedDateTime": "2021-01-14T00:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-14-trump-made-a-mistake-in-raucous-rally-speech-tuberville-says.md",
       "title": "Trump ‘made a mistake’ in raucous rally speech, Tuberville says",
       "excerpt": "President Donald Trump “made a mistake” when he ignited thousands of supporters in a rally speech last week that preceded some of those supporters storming the U.S. Capitol in an effort to overturn election results,",
@@ -411,6 +406,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-val-demings-encouraged-by-mcconnells-break-from-trump.md",
+      "title": "Val Demings ‘encouraged’ by McConnell’s break from Trump",
+      "excerpt": "Demings’ interview on Wednesday morning came as the House prepared to impeach Trump for a second time.  (D-Fla.) appeared more optimistic on Wednesday about the possibility of President Donald Trump being removed from office,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/01/13/val-demings-mitch-mcconnell-trump-458707",
+      "originalUrl": "https://www.politico.com/news/2021/01/13/val-demings-mitch-mcconnell-trump-458707",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/f7/1c/9672252e4cf4886c8123f827b6c2/210113-val-demings-gty-773.jpg",
+          "width": 700,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T05:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -583,7 +635,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 220,
       "tags": null,
       "images": [
         {
@@ -1503,58 +1555,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-forbes-editor-issues-warning-to-companies-intending-to-hire-trump-officials-well-assume-everything-you-talk-about-is-a-lie.md",
-      "title": "Forbes editor issues warning to companies intending to hire Trump officials: 'We'll assume everything you talk about is a lie'",
-      "excerpt": "The editor of Forbes magazine has warned companies not to hire Kellyanne Conway, Sean Spicer, Kayleigh McEnany, Stephanie Grisham, or Sarah Sanders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/dont-hire-former-trump-officials-forbes-editor-warns-businesses-2021-1",
-      "originalUrl": "https://www.businessinsider.com/dont-hire-former-trump-officials-forbes-editor-warns-businesses-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ffb1a5dbde805001980c109?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/dont-hire-former-trump-officials-forbes-editor-warns-businesses-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dont-hire-former-trump-officials-forbes-editor-warns-businesses-2021-1?amp",
-      "publishedDateTime": "2021-01-10T10:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

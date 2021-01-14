@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to unveil new $1.9 trillion COVID relief bill"
+    excerpt: "This is the first of two bills Mr. Biden plans to address COVID-19. His transition team said he would introduce a second \"recovery\" bill in February."
+    publishedDateTime: 2021-01-14T22:24:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-covid-relief-stimulus-check/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-relief-stimulus-check/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-relief-stimulus-check/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/13/87ab6c33-11eb-45c7-89c4-562b351813be/thumbnail/1200x630/e7b614cfa8085ecb41e2d17d79ea1643/gettyimages-1206811778.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mike Pence 'welcomes' the efforts of Republican lawmakers to challenge Biden's win, days before Congress is due to certify the election results"
     excerpt: "The efforts by GOP senators and representatives could delay certification of the election results, but would not change the results in any US state."
     publishedDateTime: 2021-01-03T06:26:00Z

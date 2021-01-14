@@ -488,6 +488,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump impeachment could dominate Biden’s early tenure, or be put on ice"
+    excerpt: "The Senate trial of President Trump is threatening to overshadow the first month of President-elect Joe Biden’s administration — if it’s not, as some have suggested, tabled until"
+    publishedDateTime: 2021-01-14T22:10:00Z
+    webUrl: "https://nypost.com/2021/01/14/trump-impeachment-could-dominate-bidens-early-tenure/"
+    ampWebUrl: "https://nypost.com/2021/01/14/trump-impeachment-could-dominate-bidens-early-tenure/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/14/trump-impeachment-could-dominate-bidens-early-tenure/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/impeachment-trump-02.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "In breaking with Trump, Pence does ‘what he believes in,’ strategist says"
     excerpt: "After breaking with his boss last week and certifying President-elect Joe Biden’s Electoral College victory over President Trump, Vice President Mike Pence this week quickly shot down a push by House Democrats urging him to invoke the 25th Amendment of the Constitution to remove Trump from the presidency."
     publishedDateTime: 2021-01-13T17:20:00Z

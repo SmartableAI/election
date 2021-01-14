@@ -1,28 +1,32 @@
 ---
 category: news
-title: "U.S. in Uncharted Waters in Unprecedented Second Impeachment of Trump"
+title: "U.S. in uncharted waters in unprecedented second impeachment of Trump"
 excerpt: "America will be in uncharted territory when the U.S. Senate meets as soon as next week for the impeachment trial of Donald Trump, the first U.S. president both to be impeached a second time and to face trial by lawmakers after leaving office."
-publishedDateTime: 2021-01-14T20:08:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-01-14/bitter-senate-impeachment-trial-of-trump-could-bog-down-bidens-first-days"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-14/bitter-senate-impeachment-trial-of-trump-could-bog-down-bidens-first-days"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-14/bitter-senate-impeachment-trial-of-trump-could-bog-down-bidens-first-days?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-14/bitter-senate-impeachment-trial-of-trump-could-bog-down-bidens-first-days?context=amp"
+publishedDateTime: 2021-01-14T22:47:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump/us-in-uncharted-waters-in-unprecedented-second-impeachment-of-trump-idUSKBN29J1B6"
+webUrl: "https://www.reuters.com/article/us-usa-trump/us-in-uncharted-waters-in-unprecedented-second-impeachment-of-trump-idUSKBN29J1B6"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547771325&r=LYNXMPEH0D0PK&w=800"
+    width: 800
+    height: 526
+    isCached: true
 
 related:
   - title: "Top Republican says Trump committed 'impeachable offenses'"
@@ -271,6 +275,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "2heyoa0wzraWhJ11lW4OoN/uchd4+Ihdq2SPRP+X0EU4AsE5FWF5bIPLIrXKFepkiuE2MmHWU7DjV54zyA9DYGNqJU3/XfV0x9lH7eJJmOosu4GHugl3GniYDbFDNspLtOptIYiJSQPUJOAOXpYrUguZU0pzPPRig2Oxx81kqf/nw+N5G4bekcGi7Hj81K9XnaolpyEVd41Wxl4qxy3XAeOu/daoHREvX/Nx9ODcxfQREtTaW8bBIZ3dSD/68YhCzqZW9RQJLGSh4PZhCiGcjLMCVozS1R5R1vzrq3EmMZm0XU9fZKsmaBZ0C+azExb9P3yCR9fBRlMEJzuUJlWJHdc/EXkURYElEguFDlmahR2+2Jce2Qf1WNLRn7Y20vKZtH8lHNpfGmnpVALVyPiTkrVSwaHVYHjX8HkPrUlzBSuZDDhU6bsttSYhcjHccGhiNsxZL7qTx3rKyEhQulLi3FEeRVlK1L9T9alOEKlJjr1GsFc4mzb6pj9RC7qiQliZgF6fjprZBdscJJg/DhOPwg==;3GnNNIJhsV7Ir6DyDVtTyg=="
+secured: "vqEgQk6pLGVcjmePH75rirIjfpdxxlY4u3V9YDrwPratx4NbVsmYrBqHLh3i7oavWF5D13JC5hGh6IzHBrsSY5bRXRcJ3PVGt9wQ4Jp/eNYfLh1o5nVg+o0OGsn4Fza6DaK0F8jHNXFj9e9HZBIY54LiL6vEx+r3Ck5gqvxMZWSiQk4ReNd8FZ5uGcy+/xjk/VcV4TqiY4as08WAvHuj6eGTNtCJR5sy6vV2mJWfZvV8cgBPnTTuUJPvFP9tzqRwEJDebTibDJ6gDI1MewRDwD3k6XXUGKdMAlMpgKNhwNuD8uq0q263EuF1UPFRu/CqvXd8jDSWaQXibfC7p71r7LQqufh+yd+izCdGIbEWuho=;v1LFKAfz0HTTBg/VuAva0g=="
 ---
 

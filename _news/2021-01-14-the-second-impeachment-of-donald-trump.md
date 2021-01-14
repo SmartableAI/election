@@ -32,101 +32,131 @@ images:
     isCached: true
 
 related:
-  - title: "With Merrick Garland pick, Biden signals stark contrast with Trump on Justice Department"
-    excerpt: "President Donald Trump declared nearly a year ago, \"I am actually, I guess, the chief law enforcement officer,\" as he tried to assert control over Department of Justice decisions.\n    \n"
-    publishedDateTime: 2021-01-08T12:04:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wx7gj9P4Zdo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/merrick-garland-biden-doj/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/merrick-garland-biden-doj/index.html"
+  - title: "Georgia Republicans reassign GOP lawmakers who supported Trump's election fraud claims"
+    excerpt: "Georgia Republicans have reassigned three fellow GOP lawmakers who backed baseless allegations of voter fraud related to the November presidential election.\n    \n"
+    publishedDateTime: 2021-01-14T22:24:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bQk1jeke6AA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/georgia-republicans-election-fraud-claims-reassigned/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/georgia-republicans-election-fraud-claims-reassigned/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 181
+    quality: 182
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107142027-03-biden-announcement-0107-garland-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190312141705-georgia-state-capitol-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden says democracy is under 'unprecedented assault' as pro-Trump rioters storm US Capitol "
-    excerpt: "President-elect Joe Biden on Wednesday called for an end to the chaos as anti-Trump rioters breached the US Capitol, where members of Congress were meeting to certify Biden's win.\n    \n"
-    publishedDateTime: 2021-01-06T22:50:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rJ9idYlsOyk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/06/politics/joe-biden-riots-capitol-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/06/politics/joe-biden-riots-capitol-speech/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 179
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Bill Belichick declines Presidential Medal of Freedom offer from Trump"
-    excerpt: "New England Patriots head coach Bill Belichick has announced that he is declining the Presidential Medal of Freedom, which he was scheduled to receive from President Donald Trump on Thursday.\n    \n"
-    publishedDateTime: 2021-01-12T01:52:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aRwaF0LdAiE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/bill-belichick-presidential-medal-of-freedom-spt-trnd/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/bill-belichick-presidential-medal-of-freedom-spt-trnd/index.html"
+  - title: "First GOP House member says he supports impeaching Trump"
+    excerpt: "Republican Rep. John Katko of New York said in a statement Tuesday afternoon he will vote to impeach President Donald Trump, becoming the first Republican to sign on to the Democrats' effort to hold the President accountable for his role in spurring on his supporters in last week's storming of the US"
+    publishedDateTime: 2021-01-12T22:45:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w9ZFSwy0thY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/gop-trump-impeachment-house-congress-first-katko/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/gop-trump-impeachment-house-congress-first-katko/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190909121944-bill-belichick-nfl-new-england-patriots-opener-2019-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190104203520-john-katko-ac-intv-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's turbulent and lawless presidency will end with historic second impeachment"
-    excerpt: "The fateful moment when the House of Representatives on Wednesday impeaches President Donald Trump for a second time will rank among the defining moments of America's story long after the citizens enduring these harrowing, tragic days are gone.\n    \n"
-    publishedDateTime: 2021-01-13T12:01:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UBvVvAV_lR0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/donald-trump-impeachment-history-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/donald-trump-impeachment-history-joe-biden/index.html"
+  - title: "These 10 House Republicans voted to impeach Trump on Wednesday"
+    excerpt: "The House of Representatives voted to impeach President Donald Trump on Wednesday afternoon charging him with \"incitement of insurrection.\" Among the vote were 10 House Republicans. That includes:\n    \n"
+    publishedDateTime: 2021-01-13T22:17:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p0L3sP79o1o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/house-republicans-vote-yes-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/house-republicans-vote-yes-impeachment/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112002426-02-trump-04-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113171228-10-gop-impeachment-vote-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Justice Dept. Open to Pursuing Charges Against Trump in Inciting Riot"
-    excerpt: "The top federal prosecutor in Washington said investigators were examining anyone involved, “not only the people who went into” the Capitol."
-    publishedDateTime: 2021-01-08T01:00:00Z
-    webUrl: "https://www.nytimes.com/2021/01/07/us/politics/justice-department-trump-capitol.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/07/us/politics/justice-department-trump-capitol.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/07/us/politics/justice-department-trump-capitol.amp.html"
+  - title: "Trump antagonizes Republicans with Georgia fundraising ploy"
+    excerpt: "Emails and texts raising cash for Trump's PAC have rankled Republicans, who want cash to flow directly to Georgia's endangered GOP senators."
+    publishedDateTime: 2020-12-15T01:25:00Z
+    webUrl: "https://www.politico.com/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/trump-republicans-georgia-fundraising-445207"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/da/1f/59b5d43848958d4f1d12f634434c/gettyimages-1230110704-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "GOP Sen. Pat Toomey calls on Trump to resign"
+    excerpt: "Pennsylvania Republican Sen. Pat Toomey joined calls from a handful of his GOP colleagues Sunday for President Donald Trump to resign for “recruiting thousands of Americans” and “inciting them to attack the Capitol building” last week."
+    publishedDateTime: 2021-01-11T00:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/gop-sen-toomey-calls-trump-resign-n1253657"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253657"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253657"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_01/3441043/210110-pat-toomey-mtp-jm-0920_22b5b4d4b391e7163713d55691295565.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "See how Trump's language was echoed by rioters"
+    excerpt: "As the House prepares to vote on impeaching President Donald Trump to condemn his role inciting the riot at the US Capitol, CNN looks at the language Trump used and how it was echoed by rioters."
+    publishedDateTime: 2021-01-13T11:25:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/01/13/trump-protesters-language-capitol-riot-impeachment-laura-jarrett-live-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/01/13/trump-protesters-language-capitol-riot-impeachment-laura-jarrett-live-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/13/trump-protesters-language-capitol-riot-impeachment-laura-jarrett-live-newday-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113110701-video-thumbnail-trump-and-rioter-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump Impeached for Inciting Insurrection"
+    excerpt: "President Trump became the first president to be impeached twice, after the House approved a single charge citing his role in whipping up a mob that stormed the Capitol. He faces a Senate trial that could disqualify him from future office."
+    publishedDateTime: 2021-01-14T02:42:00Z
+    webUrl: "https://www.nytimes.com/2021/01/13/us/politics/trump-impeached.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/13/us/politics/trump-impeached.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/13/us/politics/trump-impeached.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/01/07/lens/07dc-investigate-trump/07dc-investigate-trump-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/01/13/us/politics/13dc-impeach-top/13dc-impeach-top-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "House Sets Impeachment Vote to Charge Trump With Incitement"
-    excerpt: "Democrats are planning a Tuesday vote to formally call on the vice president to wrest power from President Trump and a Wednesday impeachment vote if he does not."
-    publishedDateTime: 2021-01-12T03:37:00Z
-    webUrl: "https://www.nytimes.com/2021/01/11/us/politics/house-trump-impeachment-vote.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/11/us/politics/house-trump-impeachment-vote.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/11/us/politics/house-trump-impeachment-vote.amp.html"
+  - title: "AOC: GOP lawmakers fearful of threats if they impeach Trump are privileged"
+    excerpt: "Cortez said Wednesday that Republicans fearful of casting a vote to impeach President Donald Trump are privileged to not face more regular threats for their work on Capitol Hill. House Democrats have signaled in recent days that their Republican colleagues are fearful that a vote to impeach the president might incur threats against themselves and their families."
+    publishedDateTime: 2021-01-13T18:53:00Z
+    webUrl: "https://www.politico.com/news/2021/01/13/aoc-privilege-death-threats-gop-lawmakers-impeach-trump-458953"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: Politico
+      domain: politico.com
+    quality: 113
     images:
-      - url: "https://static01.nyt.com/images/2021/01/11/us/politics/11dc-cong1/11dc-cong1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/b7/50/9c26a6e4454cad68e55185d8957a/180916-ocasio-cortez-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "iyyku4la70CxGpiHzXp8po4jOIzhDPGQu3el4YU5IgCHT6sBeuhAUfI/7zXBOVlPYasjPVtqj318qY9TIZ4m3H41gD2fMDMtZRpB/UV7OjPpoDBrAPf7mDFu4th1itsgObPX5XNv70fN/H0x5XghsbC9mKJ08uQiGBG2GlhmyCHQXUbbbgiIUHjIqTzUrn6mUXgVh/oXj/ydAeyEvRuoKm8heKD6gJvN06xAXyqHwolRrXoR6bZGNRIXo7RmrZbFIJGzl0ANfWT2Pshs4EON7OdXr/lMXYORaoMli4pLf/3qYqgQ+BVKmZZS3H9Pyuf4cya4TIkfrfaUDFfKkzMXmguXJRhIYFsynzQFvoclQtjojpGn+isnoZg4iGzjfSqTTgYNMCc4aSZt1YdlEc20bo1+FftESd3FZtFyp4DAIpxyISnzGY+AlZ7BQ35pNpwSqy6rQ9L/E8fabU+wJXcyVZlPTc3IwkUTbWaXvXFn8Vic/B8Wv54t1m/svmQi8R+3dtKKVUtyLXUpis6bt0lFIw==;pLUuXJDRGXuwHPvSNQX/PQ=="

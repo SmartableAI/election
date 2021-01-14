@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "GOP Senator Murkowski undecided on conviction despite backing Trump impeachment"
+    excerpt: "A total of 10 House Republicans joined with Democrats in a 232-197 vote to impeach Trump on a single charge of “incitement of insurrection.”"
+    publishedDateTime: 2021-01-14T22:15:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UhInHtrtHdk/alaska-sen-murkowski-house-acted-appropriately-by-impeaching-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/alaska-sen-murkowski-house-acted-appropriately-by-impeaching-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alaska-sen-murkowski-house-acted-appropriately-by-impeaching-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53f41bab-355a-4a5d-adde-af40ef768de6/2de00148-fa23-4d7d-91e7-d45ee17c0dde/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Liz Cheney faces backlash from some GOP lawmakers after backing Trump impeachment"
     excerpt: "Rep. Liz Cheney, R-Wyo., is facing calls from some Republican lawmakers to step down from her leadership post as chairwoman of the House Republican Conference after she announced that she will vote to impeach President Trump."
     publishedDateTime: 2021-01-13T07:51:43Z

@@ -213,6 +213,20 @@ related:
         width: 800
         height: 540
         isCached: true
+  - title: "U.S. in uncharted waters in unprecedented second impeachment of Trump"
+    excerpt: "America will be in uncharted territory when the U.S. Senate meets as soon as next week for the impeachment trial of Donald Trump, the first U.S. president both to be impeached a second time and to face trial by lawmakers after leaving office."
+    publishedDateTime: 2021-01-14T22:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/us-in-uncharted-waters-in-unprecedented-second-impeachment-of-trump-idUSKBN29J1B6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547771325&r=LYNXMPEH0D0PK&w=800"
+        width: 800
+        height: 526
+        isCached: true
   - title: "Explainer: Impeachment or the 14th Amendment - Can Trump be barred from future office?"
     excerpt: "Some U.S. lawmakers have said President Donald Trump should be disqualified from holding political office again following his impeachment on Wednesday for inciting a mob that stormed the Capitol as lawmakers were certifying President-elect Joe Biden's victory."
     publishedDateTime: 2021-01-14T14:52:00Z
@@ -259,17 +273,6 @@ related:
         width: 2555
         height: 1438
         isCached: true
-  - title: "U.S. in Uncharted Waters in Unprecedented Second Impeachment of Trump"
-    excerpt: "America will be in uncharted territory when the U.S. Senate meets as soon as next week for the impeachment trial of Donald Trump, the first U.S. president both to be impeached a second time and to face trial by lawmakers after leaving office."
-    publishedDateTime: 2021-01-14T20:08:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-14/bitter-senate-impeachment-trial-of-trump-could-bog-down-bidens-first-days"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-14/bitter-senate-impeachment-trial-of-trump-could-bog-down-bidens-first-days?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-14/bitter-senate-impeachment-trial-of-trump-could-bog-down-bidens-first-days?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "aXNvHn9zd4pqf46mCBSjaQR1zS53PdNcDMr0IRjXikscAz7q+/fDCq7dXiGfFw8hBVukthm+gSz76Z13YFdieKEPxUNX7L9v32m4k3IqbpQU9DKsl9I96/bPZByGbdMT7WtMiDB/KbOkTWbcC9F9elRsXSjMcHKAo6iO+NfEC+Behph9lPZNwShiDmHH9Z2V5ZdgKhOBg911+cRj780y9T2bO4RMYdg8WyAge8U58aO/5fgNEjuS/nK2XASIKhqMvDH8DjkQ2UrOXOE+qeUhUErJBPuzQNF1TlRy46Z6+zd6xml5lxS5s8QBWv4E+slD8N8wlFZFoNCp0bRyf3WXy04j4r/ijP6mS4W29QLaZxCaLlv+PIRVnGMGGVF5i3hkR+C5Ogs/bjQaigqKYUb/vTjGzSijnQ5T0umyn9SjROQo6XvbxJB3CWBAmzvXqtsPu92+vTDSrLWV0WBPAYFmIrnjw0NApQTmD0/d8vbDalfv2UQwV0Gz9dvwBvFsQM5I8jizrZ9jQ3jNrfEdPeBLaA==;e1yS0O6AA4+/MOUwML4kPQ=="
 ---

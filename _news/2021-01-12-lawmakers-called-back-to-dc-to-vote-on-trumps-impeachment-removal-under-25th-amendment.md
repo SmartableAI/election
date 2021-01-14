@@ -80,22 +80,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "First GOP House member says he supports impeaching Trump"
-    excerpt: "Republican Rep. John Katko of New York said in a statement Tuesday afternoon he will vote to impeach President Donald Trump, becoming the first Republican to sign on to the Democrats' effort to hold the President accountable for his role in spurring on his supporters in last week's storming of the US"
-    publishedDateTime: 2021-01-12T22:45:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w9ZFSwy0thY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/gop-trump-impeachment-house-congress-first-katko/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/gop-trump-impeachment-house-congress-first-katko/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190104203520-john-katko-ac-intv-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "One day until Trump's second impeachment vote: What happens now"
     excerpt: "The next few days are going to be long, but by the end of Wednesday, we expect that President Donald Trump will be impeached a second time.\n    \n"
     publishedDateTime: 2021-01-12T13:38:20Z
@@ -253,6 +237,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108101156-22-us-capitol-riots-0106-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Highlights and analysis: House impeaches Trump for 'incitement of insurrection'"
+    excerpt: "House debates impeaching Trump for 'incitement of insurrection' in Capitol riot The article of impeachment is expected to pass in the Democratic-controlled House, which would make Trump the first president in U."
+    publishedDateTime: 2021-01-14T22:15:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-01-13-trump-impeachment-25th-amendment-n1253971"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253971"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253971"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_02/3441573/210113-impeachment-live-blog-main-cover-cs_16bb0697e79eeb180cea199979fe03f2.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "'Supremely self-absorbed': Isolated Trump unlikely to mount an aggressive impeachment defense"
     excerpt: "He’s not doing much governing, aides said. Instead, Trump has surrounded himself with a handful of loyalists who were with him since the start."

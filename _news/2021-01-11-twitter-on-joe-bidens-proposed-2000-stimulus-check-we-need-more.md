@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden Says $2,000 Stimulus Checks 'Will Never Get There' if Loeffler and Perdue Elected"
-    excerpt: "\"In America, as our opposition friends are finding out, all power flows from the people,\" President-elect Joe Biden said Monday. \"That's our history. That's our law, that's our tradition, that's our constitution."
-    publishedDateTime: 2021-01-04T22:35:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-perdue-elected-1558862"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-perdue-elected-1558862?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-perdue-elected-1558862?amp=1"
+  - title: "Fact Check: Was a Biden Campaign Official Arrested?"
+    excerpt: "A woman was arrested in Texas on multiple counts of voter fraud, causing social media users to make claims about who she was working for."
+    publishedDateTime: 2021-01-14T22:36:00Z
+    webUrl: "https://www.newsweek.com/fact-check-was-biden-campaign-official-arrested-1561777"
+    ampWebUrl: "https://www.newsweek.com/fact-check-was-biden-campaign-official-arrested-1561777?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-was-biden-campaign-official-arrested-1561777?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 115
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1698187/joe-biden-campaigns-georgia-dems-senate.jpg"
-        width: 2500
-        height: 1720
+      - url: "https://d.newsweek.com/en/full/1683033/ken-paxton-files-election-lawsuit-supreme-court.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
+  - title: "Fact check: Social media falsely claims Vice President Mike Pence was arrested"
+    excerpt: "After rioters breached the U.S. Capitol Wednesday, social media posts claimed Vice President Mike Pence had been arrested. That is false."
+    publishedDateTime: 2021-01-07T19:01:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/factcheck/2021/01/07/fact-check-posts-falsely-claim-vice-president-mike-pence-arrested/6574866002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6574866002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6574866002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 71
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/USAT/8d874991-8b85-4b14-9165-4befb60db0ba-GTY_1230451939.jpg?auto=webp&crop=4861,2735,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "4/sS3xhlo9kngIf5F+bc9sR92dJ62vpR8BQ9ZBJOvM3sgNbKAmjU5XeIe39GFiQoS54DX/UXvBN3RWA4Ufyc4TPwv232AwXfNZ4FCsfpDYHyVVDovsp21YhozyK0PMfBQtK6pHzQZu9ZCb5ORm6Is7rAJS1WykmGRH/J60i0GluoNZlUUe9z1otSOkSWz/psbJXCrihFgwO31d2umuSASOjRsZbl+TeQOjXKJesd+h1ak+j/+ntpGyXuOR0tYIU2YXwUcQzCnMSPHscxXbRQ/W8QV9b0RWHsaZ25iHmpsLHs8+v9ihvoIA6j/gIWJHZZAzqBodSjYjAdVeMS9t7mn+LWMSQIJanH+DmmCCiXfI8=;2mxcOoeOR+p+SqyjUYAssg=="

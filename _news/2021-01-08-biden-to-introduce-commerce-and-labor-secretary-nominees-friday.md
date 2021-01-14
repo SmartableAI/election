@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence commits to 'an orderly transition and to a safe inauguration'"
+    excerpt: "Vice President Mike Pence said Thursday that he is committed to \"an orderly transition and to a safe inauguration,\" kicking off the start of a Federal Emergency Management Agency briefing.\n    \n"
+    publishedDateTime: 2021-01-14T22:18:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/euX40oEvB74/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/mike-pence-inauguration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/mike-pence-inauguration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200826232610-mike-pence-rnc-august-26-2020-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump pledges orderly transition after Congress affirms Biden's win and Capitol riot"
     excerpt: "President Donald Trump publicly acknowledged that he would leave office on January 20 Thursday, pledging an orderly transfer of power after Congress affirmed President-elect Joe Biden's Electoral College win.\n    \n"
     publishedDateTime: 2021-01-07T10:53:30Z
@@ -332,6 +348,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114100449-stimulus-check-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Here's what's in Biden's $1.9 trillion economic rescue package"
+    excerpt: "Bigger stimulus checks. More aid for the unemployed, the hungry and those facing eviction. Additional support for small businesses, states and local governments. Increased funding for vaccinations and testing.\n    \n"
+    publishedDateTime: 2021-01-14T22:26:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sUlO0dCRhpw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/biden-economic-rescue-package-coronavirus-stimulus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/biden-economic-rescue-package-coronavirus-stimulus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108140855-01-biden-presser-0108-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1246,6 +1278,36 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/08/us/politics/08dc-biden/08dc-biden-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden Set to Propose $1.9 Trillion Spending Package to Combat Virus and Downturn"
+    excerpt: "The president-elect is expected to lay out his plans on Thursday for an initial effort to combat the coronavirus and a subsequent one to address economic recovery."
+    publishedDateTime: 2021-01-14T22:34:00Z
+    webUrl: "https://www.nytimes.com/2021/01/14/business/biden-economy.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/14/business/biden-economy.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/14/business/biden-economy.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/14/us/14dc-bidenecon/14dc-bidenecon-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump impeachment trial crashes Biden’s first 100 days"
+    excerpt: "The Senate’s procedural hurdles raise the difficulty for Joe Biden’s Cabinet and early legislative priorities to be approved quickly."
+    publishedDateTime: 2021-01-14T22:44:00Z
+    webUrl: "https://www.politico.com/news/2021/01/14/trump-impeachment-crashes-biden-inauguration-459333"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/fc/8b/14fff6154359937dc53de1ee96c6/201130-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "‘President Trump, step up’: Biden calls on Trump to rebuke Capitol rioters"
     excerpt: "The words of a president matter, no matter how good or bad that president is,” Joe Biden said. “At their best, the words of a president can inspire. At their worst, they can incite.”"

@@ -203,6 +203,20 @@ related:
         width: 800
         height: 540
         isCached: true
+  - title: "U.S. in uncharted waters in unprecedented second impeachment of Trump"
+    excerpt: "America will be in uncharted territory when the U.S. Senate meets as soon as next week for the impeachment trial of Donald Trump, the first U.S. president both to be impeached a second time and to face trial by lawmakers after leaving office."
+    publishedDateTime: 2021-01-14T22:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/us-in-uncharted-waters-in-unprecedented-second-impeachment-of-trump-idUSKBN29J1B6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547771325&r=LYNXMPEH0D0PK&w=800"
+        width: 800
+        height: 526
+        isCached: true
   - title: "Explainer: Impeachment or the 14th Amendment - Can Trump be barred from future office?"
     excerpt: "Some U.S. lawmakers have said President Donald Trump should be disqualified from holding political office again following his impeachment on Wednesday for inciting a mob that stormed the Capitol as lawmakers were certifying President-elect Joe Biden's victory."
     publishedDateTime: 2021-01-14T14:52:00Z
@@ -255,17 +269,6 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2021-01-12/explainer-how-trumps-2nd-impeachment-will-unfold"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-12/explainer-how-trumps-2nd-impeachment-will-unfold?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-12/explainer-how-trumps-2nd-impeachment-will-unfold?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "U.S. in Uncharted Waters in Unprecedented Second Impeachment of Trump"
-    excerpt: "America will be in uncharted territory when the U.S. Senate meets as soon as next week for the impeachment trial of Donald Trump, the first U.S. president both to be impeached a second time and to face trial by lawmakers after leaving office."
-    publishedDateTime: 2021-01-14T20:08:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-14/bitter-senate-impeachment-trial-of-trump-could-bog-down-bidens-first-days"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-14/bitter-senate-impeachment-trial-of-trump-could-bog-down-bidens-first-days?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-14/bitter-senate-impeachment-trial-of-trump-could-bog-down-bidens-first-days?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

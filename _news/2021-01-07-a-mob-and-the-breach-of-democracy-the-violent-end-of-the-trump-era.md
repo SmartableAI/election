@@ -112,22 +112,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "See how Trump's language was echoed by rioters"
-    excerpt: "As the House prepares to vote on impeaching President Donald Trump to condemn his role inciting the riot at the US Capitol, CNN looks at the language Trump used and how it was echoed by rioters."
-    publishedDateTime: 2021-01-13T11:25:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/01/13/trump-protesters-language-capitol-riot-impeachment-laura-jarrett-live-newday-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/01/13/trump-protesters-language-capitol-riot-impeachment-laura-jarrett-live-newday-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/13/trump-protesters-language-capitol-riot-impeachment-laura-jarrett-live-newday-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113110701-video-thumbnail-trump-and-rioter-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Graham leads resistance to Trump ouster amid fast-moving impeachment"
     excerpt: "Lindsey Graham is leading the charge against President Donald Trump’s impeachment and removal in the Senate, even as the White House remains largely uninvolved. Graham, who just last week said he had had “enough” of Trump’s bid to overturn the election results after he incited a deadly riot at the Capitol,"
     publishedDateTime: 2021-01-13T18:11:00Z

@@ -1085,6 +1085,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "With Trump banned from Twitter, his supporters are parsing speeches for clues about what’s next"
+    excerpt: "Many of the president’s allies have struggled to glean clear marching orders from him since his banishment from social media."
+    publishedDateTime: 2021-01-14T22:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/with-trump-banned-from-twitter-his-supporters-are-parsing-speeches-for-clues-about-whats-next/2021/01/14/985e06dc-5534-11eb-a08b-f1381ef3d207_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/with-trump-banned-from-twitter-his-supporters-are-parsing-speeches-for-clues-about-whats-next/2021/01/14/985e06dc-5534-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/with-trump-banned-from-twitter-his-supporters-are-parsing-speeches-for-clues-about-whats-next/2021/01/14/985e06dc-5534-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R5HHSKSWOII6XIEL6E4B546SA4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "House could vote to impeach Trump on Wednesday, one week after Capitol protest turned into a mob"
     excerpt: "As the country comes to terms with the violent siege of the U.S. Capitol by Trump supporters that left five dead, the crisis that appears to be among the final acts of his presidency is deepening like few others in the nation’s history."
     publishedDateTime: 2021-01-09T20:56:00Z
@@ -2594,6 +2610,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "What's next for Donald Trump?"
+    excerpt: "Donald Trump’s plans have been a signature talking point for the last four years. What does the future hold for Donald Trump?"
+    publishedDateTime: 2021-01-14T22:51:00Z
+    webUrl: "https://www.stltoday.com/news/national/whats-next-for-donald-trump/video_1a3e35f8-a732-5567-bce2-43aac116c114.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/whats-next-for-donald-trump/video_1a3e35f8-a732-5567-bce2-43aac116c114.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/whats-next-for-donald-trump/video_1a3e35f8-a732-5567-bce2-43aac116c114.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
   - title: "The House impeached Donald Trump over his speech before the Capitol attack. Here’s what happens next"
     excerpt: "With the House voting to impeach President Donald Trump, the action moves to the Senate. It is not immediately clear when the Senate will begin a trial. • Most experts say that a trial can proceed after Trump is out of office if needed."
     publishedDateTime: 2021-01-13T22:31:00Z

@@ -47,6 +47,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Jill Biden names director for military families program"
+    excerpt: "Jill Biden has taken a step toward fulfilling a promise to revive a support program for military families that she and former first lady Michelle Obama once led"
+    publishedDateTime: 2021-01-14T22:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-director-military-families-program-75253867"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-director-military-families-program-75253867"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-director-military-families-program-75253867"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Biden to nominate longtime U.S. diplomat Burns to lead CIA"
     excerpt: "U.S. President-elect Joe Biden will nominate former career diplomat and former deputy secretary of state William Burns to lead the CIA, his transition team said on Monday."
     publishedDateTime: 2021-01-11T17:01:00Z

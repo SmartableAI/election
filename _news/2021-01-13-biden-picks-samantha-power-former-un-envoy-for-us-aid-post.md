@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-samantha-p
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106823272-1610480084902-gettyimages-175050214-WALL-STREET-REFORMS.jpg?v=1610480100"
         width: 3459
         height: 2250
+        isCached: true
+  - title: "Pelosi and Schumer pledge quick action on Biden stimulus package"
+    excerpt: "U.S. House of Representatives Speaker Nancy Pelosi and Senate Democratic leader Chuck Schumer on Thursday said Congress would get right to work on President-elect Joe Biden's stimulus package."
+    publishedDateTime: 2021-01-14T22:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-stimulus-congress/pelosi-and-schumer-pledge-quick-action-on-biden-stimulus-package-idUSKBN29J2WO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547843796&r=LYNXMPEH0D1N2&w=800"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "7YkcfDGuJRPoyPV/tsfODQMLVI4N6rsbedMoYNZYVllwrVn9QVazycbvGYBnLdALRc+AjcNsoSob3+8bSIveeHUwrwjflJTN7uKzd/OL65A5Wf8+xEPGAFoVLJD7mn/5cXYqDm0G4ESXA8u5BQRrfoxhUnlA6O9kHnN4Eprg3nSlVF2XSkVaoy3voC0yBWdOlYTdY7zRacKkEH9rCNsrHOPpNqUSDt17W4v26zy4Iv6dxwmF8v6mVWWqbKDABsMR/iBT6xLODXqUcRl8XwcQBN+zj0AxLzKhdp8xcEkRG+MQPGwVPeWIRcWfpIE7RdTVCu9xRDZmznHz4514vbcunKfuy/cvMS1MVnGYRgslPyI=;j4euz2KlOQaGa6yACRq8JA=="

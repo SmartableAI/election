@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "These 10 House Republicans voted to impeach Trump on Wednesday"
-    excerpt: "The House of Representatives voted to impeach President Donald Trump on Wednesday afternoon charging him with \"incitement of insurrection.\" Among the vote were 10 House Republicans. That includes:\n    \n"
-    publishedDateTime: 2021-01-13T22:17:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p0L3sP79o1o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/house-republicans-vote-yes-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/house-republicans-vote-yes-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113171228-10-gop-impeachment-vote-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump's been impeached again. What's next?"
     excerpt: "President Donald Trump is about to be impeached again -- the first leader in US history to be impeached twice by the House.\n    \n"
     publishedDateTime: 2021-01-13T22:33:50Z
@@ -191,20 +175,6 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3441298/210111-impeachment-live-blog-main-cover-cs_91340e85bc6e0b139559e1ddd2593605.jpg"
         width: 2500
         height: 1250
-        isCached: true
-  - title: "AOC: GOP lawmakers fearful of threats if they impeach Trump are privileged"
-    excerpt: "Cortez said Wednesday that Republicans fearful of casting a vote to impeach President Donald Trump are privileged to not face more regular threats for their work on Capitol Hill. House Democrats have signaled in recent days that their Republican colleagues are fearful that a vote to impeach the president might incur threats against themselves and their families."
-    publishedDateTime: 2021-01-13T18:53:00Z
-    webUrl: "https://www.politico.com/news/2021/01/13/aoc-privilege-death-threats-gop-lawmakers-impeach-trump-458953"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 113
-    images:
-      - url: "https://static.politico.com/b7/50/9c26a6e4454cad68e55185d8957a/180916-ocasio-cortez-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "Uf2O0unaMIAGYmZiJSoFqjoz7Oaz1i8c8JpUfQN1oDQpTQXYgc/NqLnlUY0WjcnrTpLIupg+vu3tuhI7q7QSHhICAhd57bM5a+FmIkPndSGWYqH/fAeGyIDmfAMZWbsQZPDbVBrhgMbwQrb6Gb0zPUedrE9gnQvMxOB8rGeQkdGBaF4mWc+mY5xhKI3OjmABeKSvagzr4U4P4WwcN3KZtXAxGxXZwcGF5HflIP98rDwAhOqBKbaQX2N52u8dEDyPIT4nYaujlL1a6pi2Dlnoo1wzrlddbzbABha8DBqmOQMD3PvRQiWGW1Ti6KxKj7w1yyafFkeQuTuKrCKoM+SpUkJZJuKZFQCQhoYNFRZugLjSO0Y2e4tizb4HPly+DJF2kcZI9751d21fdMg+JzDmqX+j6iS1GBcn+HvPU2p+zmCYQV7iIGoJxo1WMMvqKYvxKaVxfCyZYkM6tkXcfrD9uq6HZhClO5k0gyM+7TGMuTacQo82qMb0kQorYhGUYHAOiU1NXQTdQ3/ukK+t5S0mQw==;SiV05Lht53FVJPJjI1bg8Q=="

@@ -126,39 +126,7 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "GOP Sen. Pat Toomey calls on Trump to resign"
-    excerpt: "Pennsylvania Republican Sen. Pat Toomey joined calls from a handful of his GOP colleagues Sunday for President Donald Trump to resign for “recruiting thousands of Americans” and “inciting them to attack the Capitol building” last week."
-    publishedDateTime: 2021-01-11T00:20:00Z
-    webUrl: "https://www.nbcnews.com/politics/meet-the-press/gop-sen-toomey-calls-trump-resign-n1253657"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253657"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253657"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_01/3441043/210110-pat-toomey-mtp-jm-0920_22b5b4d4b391e7163713d55691295565.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Trump Impeached for Inciting Insurrection"
-    excerpt: "President Trump became the first president to be impeached twice, after the House approved a single charge citing his role in whipping up a mob that stormed the Capitol. He faces a Senate trial that could disqualify him from future office."
-    publishedDateTime: 2021-01-14T02:42:00Z
-    webUrl: "https://www.nytimes.com/2021/01/13/us/politics/trump-impeached.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/13/us/politics/trump-impeached.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/13/us/politics/trump-impeached.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/13/us/politics/13dc-impeach-top/13dc-impeach-top-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
-secured: "5jxQTy8kJzr/9JG55wS5D5ZB30KIm4SP5/XvxrY7neiDEi4ReympNwWIKkysDSMTSVIXMqqV3WGphxA7EFe7UjssvNLAVIy2cGdzrKFyaW12McsvbFmLgKj0mUyPEAm3tbktJnfIFOjJSxNEA3ObFTlqxRBUSD1nLs1WyZviHkibn4/SA1PQ2XaNIqOSRqUcOpQnzvOAWhiT3wuxy7JdpV017FWszCGJeyzNTgTuu2PGX8CmukQcX3zpK4JFMiYRSZYkmD+gGfF/Wt6broSPQH0l4UBGIMVz/7i4mgmltVsXsOzohVhM3ua/+T8FSOD6TOVVoEcCqk5+EalT8a8R2IO9Yop2djnb7yw93o/1TpM=;K+LZfhLhR9jr5kkaKWQS6w=="
+secured: "9hN1bf5vH/D0gjxIni68JmHWbeiBuFKsvOKsUaAPiwetRocAa8gKzx/TgoC5c3PQch4C6UBVZdfpDnDXrRAkU3bWUDeVJRlaYDihktxUZHkyXIjFVq7PGnY2wNrwYwAZJuv2IRWAIvkrMfYXFzCNAkGFyval1ozsm7qrPYqiO/VVprLMSIff8R/doxe5BJCcgluxpqpoJv9MrrwZ9cJEj4obbSxkFzIcpRZICVwn9UiHTYk4X2wHh6NOnjwpCDYhzSWbkAzkyYkp35oGvSxxe3fsOB2DJNXyph0OmqMyR10Shu/2b5+m/DbNTo3Na5xZcL139aDXFb8/kCHwidsHsq5KddaUIHZLCpLS1zmjE5SAqp1JGy6g7U+msOkfA5sFmT8nQ+oUNnHNl4mg1SQUgqruwf115uYU1QU8xuK3zygoIzC/MYaD2lfzBJO+0XPdSyFZ7d3SdUelHZwjSGy4jGZacDbJjNxyTsK2i2XBLpibxy1WEo0brBrjEJ6vTV4q+Oy3zb/FlwpcXIUVEPkcEA==;hibSNmx05Vwv43m83KmNDQ=="
 ---
 

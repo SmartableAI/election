@@ -112,22 +112,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "The Second Impeachment of Donald Trump"
-    excerpt: "Readers discuss whether Congress should be spending its time on impeachment and how Mike Pence, Mitch McConnell and Liz Cheney have responded to efforts to remove the president."
-    publishedDateTime: 2021-01-13T21:36:00Z
-    webUrl: "https://www.nytimes.com/2021/01/13/opinion/letters/trump-impeachment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/13/opinion/letters/trump-impeachment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/13/opinion/letters/trump-impeachment.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/13/opinion/13Limpeach-01/13Limpeach-01-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "1XiZ7qT8dYB0/kvRzfOqUKG41AVt+sf/P6z/o2FUfc07gFG2kXBoHR8z7/KUyiJPw3znG9+MHuetnSR5KmyRHKVaQjIT0+amzLlf8C/2GgG8Fe8zE2OnY9qv88xBS4HEsOja4H6yd42J1vLvoybv6GMxW/wIEKs+Aq4IOPnqWM+X/gyoXY1MN6rPCGioO81bQN8pOP90nb9v2md5yW2yWSRcg1e2QTcTjT1L/vo7PpdVIsoOf3Muoabyhe49DAzSIFUs9c/7Qjdv+98hO6gxbCEtnna7rNcZkE0zC8G6Sty8R3HZ3l4wGvkkIySsVXsB52EJLBUK9/x8jn+IMENG3W62g8oOuBpdbFeafmwbyzW26rpf4+RgWy6gFcnmgls5tEBfRbZhVI4w1UmkLp7nPDZ9NE8ofYrL8LDxQBtXi19boJPR8NSp5IzNEDa4KLazJfbPxbcu12+FWET8buz3hD5gSsSESL51Og7iBxwP0LzRto++O72Q5XtsbKFhdEqOSuTqBERlYNnWWp3wk8WBwg==;VI7NMxGdNnZklyzAOw1COA=="
 ---
