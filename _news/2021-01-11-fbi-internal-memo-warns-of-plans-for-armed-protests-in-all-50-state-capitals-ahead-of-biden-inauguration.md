@@ -143,6 +143,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "American Airlines relocates crews, halts alcohol service on DC flights before Biden inauguration"
+    excerpt: "American Airlines is beefing up security measures ahead of Inauguration Day, increasing staffing in Washington, D.C., and relocating crews to hotels closer to airports."
+    publishedDateTime: 2021-01-14T19:40:00Z
+    webUrl: "https://www.foxnews.com/lifestyle/american-airlines-will-relocate-crews-from-dc-wont-serve-alcohol-on-dc-flights-during-inauguration-week"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 102
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AmericanAirlinesFromInsideIstock.jpg"
+        width: 1280
+        height: 721
+        isCached: true
 
 secured: "O7cuTM7Z+AqZKMFYh+wl1eNES1nIoH7IlTSTv98MEzho9iWuCCDcI2L2t9ibC2Xfsvn05c2VB3UF6L/rc00cZ9YhXEsMP7hOvbML1L2SQE24/2YyQFLKsefjwq7gGXOkwtM3fl/hhTHb8X7+bOAMjEAoJUCcybYvQgixUjUBhEIM3YpvZfU6GQ2AYgJ6rWl4un/hRYYibGsSV8S6aeiqksCAOV8GcZFBaMSMRmdUep62h7ggixVzZ4bj7VrVVbihbCW+UbnFkWiYz5kBWGrOs9rENZl09I3GabM/nv/NgV94iwsRxL1Dsn1zONX4njHVu4jfeE+s4XR1bP6Rmcl8b30S2ADbTd1EtInES2Er3G4=;bTFnScg1yJRBP1A/iiPFaA=="
 ---

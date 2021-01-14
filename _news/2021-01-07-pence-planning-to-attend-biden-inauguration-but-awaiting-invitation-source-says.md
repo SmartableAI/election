@@ -320,6 +320,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to put $2,000 stimulus payments back in play"
+    excerpt: "A $2,000 stimulus check is expected to be included in a $2 trillion Covid relief plan that President-elect Joe Biden is set to unveil Thursday evening.\n    \n"
+    publishedDateTime: 2021-01-14T18:56:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QTaICndXxOA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/stimulus-payments-2000-dollars-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/stimulus-payments-2000-dollars-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114100449-stimulus-check-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Jill Biden announces more key staff for East Wing"
+    excerpt: "Incoming first lady Jill Biden continues to round out her East Wing staff, announcing Thursday key hires in both her press office as well as a new executive director of her Joining Forces initiative.\n    \n"
+    publishedDateTime: 2021-01-14T18:56:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Tj62qyZFFQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/jill-biden-east-wing-announcements/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/jill-biden-east-wing-announcements/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214020153-doctor-jill-biden-file-0419-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden inaugural festivities to feature national day of service on MLK Day"
     excerpt: "President-elect Joe Biden's inaugural committee will promote the national day of service on Martin Luther King Jr. Day as part of festivities ahead of the inauguration on January 20.\n    \n"
     publishedDateTime: 2021-01-04T16:55:45Z

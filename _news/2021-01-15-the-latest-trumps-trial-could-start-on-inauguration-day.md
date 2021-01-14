@@ -665,6 +665,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Tucker Carlson is making his play to be the post-Trump MAGA champion"
+    excerpt: "Did I think there were more Trump Republicans or more Republicans loyal to then-House Speaker Paul Ryan (R-Wis.)? I fell back on what polling indicated, which was that there were likely more of the latter."
+    publishedDateTime: 2021-01-14T20:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/14/tucker-carlson-is-making-his-play-be-post-trump-maga-champion/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/14/tucker-carlson-is-making-his-play-be-post-trump-maga-champion/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/14/tucker-carlson-is-making-his-play-be-post-trump-maga-champion/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFO4QXWDXMI6VCIINCRLT2XJ4A.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Why Trump's response to Capitol siege evokes memories of Charlottesville"
     excerpt: "Trump groups violently stormed the U.S. Capitol, the surreal images took many back to a dark chapter when white supremacists openly descended upon Charlottesville."
     publishedDateTime: 2021-01-08T20:09:00Z
@@ -1468,6 +1484,34 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/1b4d917b-966a-4d12-9f9a-e1ff8c57d339_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Second Trump impeachment trial takes U.S. into uncharted waters"
+    excerpt: "America will be in uncharted territory when the U.S. Senate meets as soon as next week for the second impeachment trial of Donald Trump, a case against the outgoing president that one Democrat preparing for arguments called \"shockingly evident."
+    publishedDateTime: 2021-01-14T20:05:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/second-trump-impeachment-trial-takes-u-s-into-uncharted-waters-idUSKBN29J1B6?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547771325&r=LYNXMPEH0D0PK&w=800"
+        width: 800
+        height: 526
+        isCached: true
+  - title: "Wis. congressman unsure Trump to blame for riot"
+    excerpt: "Wisconsin’s newest member of Congress says he doesn't know if President Donald Trump was to blame for inciting the riot at the U.S. Capitol and wants a full investigation to find out what motivated the mob."
+    publishedDateTime: 2021-01-14T20:40:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/14/wis-congressman-unsure-trump-blame-riot/4164374001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fbec4f30-a9cc-4b07-901d-0e8aa0333043_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true

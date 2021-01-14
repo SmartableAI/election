@@ -3,10 +3,10 @@ category: news
 title: "Anna Wintour Addresses Backlash Over Kamala Harris' Controversial Vogue Cover"
 excerpt: "Chief Anna Wintour has spoken out about the magazine’s controversial February cover, which features Vice President-elect Kamala Harris in a photo that drew backlash from critics on social media. The iconic fashion magazine and Wintour herself came under fire when the cover was leaked online late Saturday."
 publishedDateTime: 2021-01-14T02:54:00Z
-originalUrl: "https://www.nbcnewyork.com/news/local/anna-wintour-addresses-backlash-over-kamala-harris-controversial-vogue-cover/2830416/?amp"
-webUrl: "https://www.nbcnewyork.com/news/local/anna-wintour-addresses-backlash-over-kamala-harris-controversial-vogue-cover/2830416/?amp"
-ampWebUrl: "https://www.nbcnewyork.com/news/local/anna-wintour-addresses-backlash-over-kamala-harris-controversial-vogue-cover/2830416/?amp"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/anna-wintour-addresses-backlash-over-kamala-harris-controversial-vogue-cover/2830416/?amp"
+originalUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/anna-wintour-addresses-backlash-over-kamala-harris-controversial-vogue-cover/2830416/?amp"
+webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/anna-wintour-addresses-backlash-over-kamala-harris-controversial-vogue-cover/2830416/?amp"
+ampWebUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/anna-wintour-addresses-backlash-over-kamala-harris-controversial-vogue-cover/2830416/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/entertainment/entertainment-news/anna-wintour-addresses-backlash-over-kamala-harris-controversial-vogue-cover/2830416/?amp"
 type: article
 quality: 72
 heat: -1
@@ -140,6 +140,6 @@ related:
         height: 675
         isCached: true
 
-secured: "LvpOJFlWOQTeS9hZ7LuGU4Kvb65VFCkgB1BLVYok5kNxsEM9NB5Iv73661UuOJCFfw1rff+6qpCpSMvzvzjwdODi8d7emVwzvSNYFCMxvF8UBNGBoJBw6Ou2OjPMqucs/6a4QGvsZ9f66yvPLXgtiB+OvMepuMlPMWbqnWuTpGmXQIEaxrw8ipdZWrDEG0x8Hb0hkX0GgQB8KmvjKS9wmh4nq0SiLrSTHHwyIdHfKjWZ0SaAeB6aRUijaWvxX8RrdZNOQMaFKp54TKb7ZF39JdFcJObQ8uecvaHeGqcYfFmavPM4h87OSV6JaDjy771jcMWRcuTfaUWcIDrtNfCVZC/xTzj3LLi3mpUqXsDipMU=;Y+64oWZ3mGNp2LAfmewQ1w=="
+secured: "HdCm+O/FsHQ/hCz35vE8F/ykjgFWLIdJIk0RtGmMGt2uHC0iCp/9qfwBDW9v/IlAKuVWe+qQPrNAhFa69NTk3rKsD0b6tH8HspjIaDDWcwUh7EMC7MgRy5IjngmO8tpEBPWp3dGEgQF94FIAuaIwE4RRqltYM0rlqAaBwPL0WzV7LV1xOMg8Yk00LBodpen58WrCpnsAjZ9hqcSH/yT7/qb5zQo6orkymslOqKLmFsmL8fOlGBtbb4G3rIZPQoUGfgI6oH7uYi8bI/xnrUkjaRc1TNJFYn1Ia5rfOzTanLLJeIQ2TjbXeOaLTQQG6CxSvMknjd5Icc6MrtVmQ6EUnd71PB5rEaIhEBaC7xDVA3g=;TxCDVtS0WsOClpUGC4pM4A=="
 ---
 

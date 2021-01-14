@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-im
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
 type: article
 quality: 120
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547172914&r=LYNXMPEH0800P&w=800"
         width: 799
         height: 576
+        isCached: true
+  - title: "Twitter Slams Sen. Tim Scott For Opposing Donald Trump's Impeachment: It's 'Necessary For Healing'"
+    excerpt: "Twitter users do not agree with Sen. Tim Scott’s move to oppose Donald Trump's impeachment because they believe the POTUS' actions should have consequences."
+    publishedDateTime: 2021-01-13T01:44:00Z
+    webUrl: "https://www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317"
+    ampWebUrl: "https://www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 61
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/us-president-donald-trump-says-impeachment-is-causing.jpg"
+        width: 1024
+        height: 684
         isCached: true
 
 secured: "Jv/WlZ64LY4LrZ8m1//THufXydxljQgOhpW1bv9mDEWWjigw8o2H3DGu6WIMfwLPE6MEUPMvhnY/32c2aal+mGCdblv/xHs+QdyniDfeVS8vlzxqkpQYvtmZaXt5P3R6+jwDut27GJPdrJgrBGU8X/TqZeyuJB+dDcgeKFWUds36rWPBv6d9teJgDppS+uTs4qoSVIPkTpXb06oN3wl6e00chaWeItGOqlSG3sj3JE60d7DOAfnrvwDvTcKmcXjW87UqGUc6ZMP4hhW3Jbb6O7Q1D1I+r3GEyEDP+TjCNUaoLS5/eD/wrYLzWBMOf/p0pDbbSHWxMtW8OK5Gm7+0Hwo3cyusOJUni//aDX2/VkfnPzFIor6BQ54PVSldL5jmykJMyrWNqZlADXDcdCFlu4sgr/MMnDnTQ8CKT86Y5L/LBA4kZ9bomNLYFf1c9TsORAY5X2rcTSBgLAl+VLGJ5IoklgFQEWkk6uhWm3nywfx9WoFe1u0NwalfrJ35yqG6sthrKtgCQP+pp5PyABqlfg==;0p1g4hy1leJpjF3HJjFUlQ=="

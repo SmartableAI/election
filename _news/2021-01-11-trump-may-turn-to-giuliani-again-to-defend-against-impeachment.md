@@ -75,6 +75,22 @@ related:
         width: 799
         height: 576
         isCached: true
+  - title: "Twitter Slams Sen. Tim Scott For Opposing Donald Trump's Impeachment: It's 'Necessary For Healing'"
+    excerpt: "Twitter users do not agree with Sen. Tim Scott’s move to oppose Donald Trump's impeachment because they believe the POTUS' actions should have consequences."
+    publishedDateTime: 2021-01-13T01:44:00Z
+    webUrl: "https://www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317"
+    ampWebUrl: "https://www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 61
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/us-president-donald-trump-says-impeachment-is-causing.jpg"
+        width: 1024
+        height: 684
+        isCached: true
 
 secured: "AqCy74XetuvVecAIfNBAtsVIvjhPs7yoPzPM2QyA03l/y9CzamZrqA1RxHjdA8EnWsyCRjfulWVU7LyTmzWZZWrDf7B3wOeeiMAsGZN5lrCGMQsQQmznzLJinUIEaeDc2od5NDjqe3iRDMlPCrM6p9CaaP814Cs3JTe1PwEBd3QMsGWSNP+E/s8s0AwGh804gaYffdjb5an9Ax+I7G0lizwZQLV8OQoUnWVNA6zS3yQya/borMBHDeE/wj4DsiJfh5NDviGyrOxOxPxrO6aVQEEsnaMhS/wSJEkK+KAvh5UQjfD9ZXng6b9TkvWGH1fbJQ5voSt1qdSzm+lqebEAJgseyHGtQoKxILJsvfysjKo=;Mv9GZbXK+7dM/HCmMDkSyg=="
 ---

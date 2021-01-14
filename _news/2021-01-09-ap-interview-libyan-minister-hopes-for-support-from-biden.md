@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/ap-interview-libyan-minister
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 165
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Here's the lineup for President-elect Biden's inauguration ceremonies"
+    excerpt: "The election of President-elect Biden and Vice President-elect Harris was historic and we know that many Americans would have wanted to attend the Inauguration in-person. At th"
+    publishedDateTime: 2021-01-14T19:47:00Z
+    webUrl: "https://thehill.com/changing-america/enrichment/arts-culture/534281-heres-the-lineup-for-president-elect-bidens"
+    ampWebUrl: "https://thehill.com/changing-america/enrichment/arts-culture/534281-heres-the-lineup-for-president-elect-bidens?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/arts-culture/534281-heres-the-lineup-for-president-elect-bidens?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_inauguration_getty_0.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "Biden push for new stimulus checks runs into roadblock from key Democratic senator"
     excerpt: "Biden is also likely to push a larger legislative effort later in 2021 after the initial stimulus package. That effort is expected to focus on spending trillions of dollars on inf"
     publishedDateTime: 2021-01-08T22:26:00Z
@@ -46,6 +62,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/01-08-2021/t_55deaa2013644837aab478bdb15055bd_name_Screen_Shot_2021_01_08_at_2_43_05_PM_scaled.jpg&w=1440"
         width: 1440
         height: 810
+        isCached: true
+  - title: "U.S. airlines back Biden plan to mandate masks for passengers"
+    excerpt: "A group representing major U.S. airlines on Thursday backed President-elect Joe Biden's plan to mandate face coverings for all air passengers, but asked him to give them flexibility in enforcing it."
+    publishedDateTime: 2021-01-14T20:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-transportation-biden/u-s-airlines-back-biden-plan-to-mandate-masks-for-passengers-idUSKBN29J2NI?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547833461&r=LYNXMPEH0D1HX&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "Tom Hanks Hosted Inauguration Special Sees Comparison of Joe Biden, Donald Trump Supporters"
     excerpt: "An inauguration special for Joe Biden has drawn comparisons to the kind of celebrities who are showing support for him over Donald Trump."

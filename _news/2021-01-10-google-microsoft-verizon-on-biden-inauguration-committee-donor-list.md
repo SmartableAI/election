@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/google-microsoft-verizon-biden-inau
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7800ea58-ed83-49bd-bb53-646cbf3599ea/9d505cad-ce21-49db-9435-b8f5d876bd5a/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "American Airlines relocates crews, halts alcohol service on DC flights before Biden inauguration"
+    excerpt: "American Airlines is beefing up security measures ahead of Inauguration Day, increasing staffing in Washington, D.C., and relocating crews to hotels closer to airports."
+    publishedDateTime: 2021-01-14T19:40:00Z
+    webUrl: "https://www.foxnews.com/lifestyle/american-airlines-will-relocate-crews-from-dc-wont-serve-alcohol-on-dc-flights-during-inauguration-week"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 102
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AmericanAirlinesFromInsideIstock.jpg"
+        width: 1280
+        height: 721
         isCached: true
 
 secured: "mKesepGiScu4jJLZ74Wfdz7GzR5F8y2/BbUvdtwh4Y/IAM57Z324TxyU2yZ/qCPjhgoZ6qErsHDjQr38z1A4GBAfGwHRkxsGpmh8WisvoLq1GnFoo2LaQE9/X8QyWBZ3QYuJKtRz6f93KzU6RBZznErdbWmrnMdW+rV32F9PcdbAsV0axhAmDCqsmUuY2/Huuuh5n2V0M8IkHkf8wof/aYprcVDd4DRuRKmTVrBiWKn+lcLcxiM1oJ+HGYR/H9yb3q349pNx28F/3GFVhLWNumE8boVCbhrC/GT6a+apfbIBST9t5mxqi81UFbiMnpfdQSsaCYDLG40PLqjLA3qreD9ziFcs78w/FrNMjaVs+zs=;5SMNcKFvuxo4/zzVAgkJww=="

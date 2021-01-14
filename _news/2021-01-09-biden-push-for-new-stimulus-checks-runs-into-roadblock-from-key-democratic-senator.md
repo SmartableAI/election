@@ -47,6 +47,36 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Here's the lineup for President-elect Biden's inauguration ceremonies"
+    excerpt: "The election of President-elect Biden and Vice President-elect Harris was historic and we know that many Americans would have wanted to attend the Inauguration in-person. At th"
+    publishedDateTime: 2021-01-14T19:47:00Z
+    webUrl: "https://thehill.com/changing-america/enrichment/arts-culture/534281-heres-the-lineup-for-president-elect-bidens"
+    ampWebUrl: "https://thehill.com/changing-america/enrichment/arts-culture/534281-heres-the-lineup-for-president-elect-bidens?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/arts-culture/534281-heres-the-lineup-for-president-elect-bidens?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_inauguration_getty_0.jpg"
+        width: 1440
+        height: 880
+        isCached: true
+  - title: "U.S. airlines back Biden plan to mandate masks for passengers"
+    excerpt: "A group representing major U.S. airlines on Thursday backed President-elect Joe Biden's plan to mandate face coverings for all air passengers, but asked him to give them flexibility in enforcing it."
+    publishedDateTime: 2021-01-14T20:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-transportation-biden/u-s-airlines-back-biden-plan-to-mandate-masks-for-passengers-idUSKBN29J2NI?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547833461&r=LYNXMPEH0D1HX&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Tom Hanks Hosted Inauguration Special Sees Comparison of Joe Biden, Donald Trump Supporters"
     excerpt: "An inauguration special for Joe Biden has drawn comparisons to the kind of celebrities who are showing support for him over Donald Trump."
     publishedDateTime: 2021-01-14T17:50:00Z

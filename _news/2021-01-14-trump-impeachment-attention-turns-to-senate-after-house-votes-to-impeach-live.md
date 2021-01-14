@@ -260,6 +260,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "U.S. in Uncharted Waters in Unprecedented Second Impeachment of Trump"
+    excerpt: "America will be in uncharted territory when the U.S. Senate meets as soon as next week for the impeachment trial of Donald Trump, the first U.S. president both to be impeached a second time and to face trial by lawmakers after leaving office."
+    publishedDateTime: 2021-01-14T20:08:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-14/bitter-senate-impeachment-trial-of-trump-could-bog-down-bidens-first-days"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-14/bitter-senate-impeachment-trial-of-trump-could-bog-down-bidens-first-days?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-14/bitter-senate-impeachment-trial-of-trump-could-bog-down-bidens-first-days?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "tT2scQ7VmH1cUp9UTVgPcaXgONzlu3qgHLFfFvws8ltEkH2iB+HD8d1q4ZQZehueftvc8uCjlbF5EmNDjlJRqZdEJEKWvwXDyWk4oH8W4aVmXK+h1UDaU5qPTAj0a5nbFg/d0634+/f/deK+ZpokyQoMtJIdIh3vx+2Z2/IcQNDTnN1WBEZYYM/RG0AQSmawj180H6TAtoInruvZIVKNb0/EeCi6mUEGoaPF6+cI/CRAAP84f4GCVvTzZ7h1ghxsStOif09zWeilNtx2Lt8szffbkkzs3GGqP16+QpwlEVCNF70gy9ukHFwmD+hvxxu5RBtfQ5gv7Ie4JBUcM6Zj9jveMvoVcfLrZd5rUO9f5lEm3+XLQeWZob3dddzCIogYvRHBoDfoC9o0SEr6+epfh239KQ4ER5XybMg5nPVOZWsUyQiZA7990RHpCpJWVDup/RrsuKg0FGCFrcglzqZQXrRtzwRt9sLGpGENIJxb4k6970M4X8AdbYZd8PzRABl9vkkpwmbib8kjcLMe470kLw==;15yEMWtR6ooqxXv8TzP07g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/biden-says-impeachment-is-a-judgmen
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/"
 type: article
 quality: 125
-heat: 245
+heat: 285
 published: true
 
 provider:
@@ -122,6 +122,36 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547573394&r=LYNXMPEH0B1LM&w=800"
         width: 800
         height: 459
+        isCached: true
+  - title: "Trump’s Senate impeachment trial could begin on day of Joe Biden’s inauguration"
+    excerpt: "The impeachment trial timeline and schedule are largely set by Senate procedures and will start as soon as the House delivers the article of impeachment."
+    publishedDateTime: 2021-01-14T20:11:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-trump-impeachment-senate-trial-20210114-adbtyldlkbehdbnl4gpltd56om-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-trump-impeachment-senate-trial-20210114-adbtyldlkbehdbnl4gpltd56om-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-trump-impeachment-senate-trial-20210114-adbtyldlkbehdbnl4gpltd56om-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 86
+    images:
+      - url: "https://www.baltimoresun.com/resizer/uc7JsXO_wNaKxuBank7JHQYgerU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4GOQL42XQBC6VEXMWNCTVGDZKU.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump Impeachment Trial Looms Over Biden's First 100 Days Agenda"
+    excerpt: "Trump was impeached in the House of Representatives -- becoming the first US president in history subjected to a second impeachment -- Biden hopes to seize the narrative in a primetime address and get Americans looking forward again."
+    publishedDateTime: 2021-01-14T20:41:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-trial-looms-over-bidens-first-100-days-agenda-3122198"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/us-president-elect-joe-biden-wants-to-get.jpg"
+        width: 1024
+        height: 680
         isCached: true
 
 secured: "EeuVxP1VHqNvgXcK6SucRjDCrg1Y+Nh2sWw/7ydlbfDzChvp0dE2RO3THyvOh6gfnWSUhQ4oCAOriZSv73L1Abon/i3/atNAsBVecwENNH3JQ6ztoV4lzaonT1W6sdq/TC78/h05TAj8sGTQrL0uedGz1Yncl5IZC3krkbmdrC/8hAtvmOPwKf2sZ8h2ohCPpxfAf7xrzXqKECcTwDNbTImOsI8IGlCRc85XXVhNb2hsdWRQzUKd4G/E9dpUXxCFGseuOi+N3dfHg4qBNKmBiakIU3eVya0VhfLUDFRxPQA0eTwi39D66fjnuktZgaUv1LZ9zdjYsqOX9R6uGSfXfDZENuZW/9bpay5bFWvlbdA=;GDn7vRH/N+4GDAX6+KDpfw=="
