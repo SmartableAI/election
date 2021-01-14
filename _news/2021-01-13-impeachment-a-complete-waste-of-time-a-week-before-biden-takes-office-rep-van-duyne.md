@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/impeachment-waste-biden-office-van-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/impeachment-waste-biden-office-van-duyne.amp"
 type: article
 quality: 167
-heat: 167
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Rep. Marjorie Taylor Greene vows to file articles of impeachment against Biden"
+    excerpt: "Rep. Marjorie Taylor Greene, the newly elected Republican from Georgia, took to Twitter Wednesday to announce that she will be filing articles of impeachment against President-elect Joe Biden shortly after he takes office."
+    publishedDateTime: 2021-01-14T06:50:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHZYP8ueims/georgia-rep-vows-to-file-articles-of-impeachment-against-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-rep-vows-to-file-articles-of-impeachment-against-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-rep-vows-to-file-articles-of-impeachment-against-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "0YChjV1UmgiUbEH7nkLzelm51F7/ViY9Wbxpq/SgT+7THY2vQFc9Bf1iEck+sjJDs3K88at9Sy8ld7ncWDE6JoTqzmRPnATmLmUTrnPosVkreLvS07aii5LRre6ingLTAAsupUgbc2zYNsZNjwikFo6ZkIinUZJjxo4lU7V7tM3dnlvRhKin9KkWIFwto3VnxMT5rAslYGpDngTs8GnPXlgLVMKWECKq5y1/n1KHYXTCPQt6ugvpwX1Dw8yLRRaJRoCdmvpfOqoGHRylck4GFlJOXTINij+vNLdLAC2sM4/9v64YfdyMV19e6Gfv5kusUwL92ua5dxjP8eh6cB8y2+6VJuBmyQrZ79AG0OfljBM=;jAmLbw/rPleHy50vjn8r+A=="
 ---

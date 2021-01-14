@@ -3,8 +3,8 @@ category: news
 title: "U.S. lawmakers' comments on impeachment of President Donald Trump"
 excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump. Unless noted otherwise, remarks were made on the House floor."
 publishedDateTime: 2021-01-14T01:54:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-quotes/us-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
-webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/us-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
+originalUrl: "https://www.reuters.com/article/us-usa-trump-quotes/u-s-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
+webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/u-s-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
 type: article
 quality: 105
 heat: -1
@@ -109,6 +109,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Donald Trump becomes the first US president to be impeached for a second time – as it happened"
+    excerpt: "Ten House Republicans join Democrats to impeach president on charge of incitement of insurrection after violent riot at US Capitol – follow all the latest"
+    publishedDateTime: 2021-01-14T01:05:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates?page=with:block-5fffb08a8f08dc561ae91957"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
+    images:
+      - url: "https://i.guim.co.uk/img/media/4192e7fffa7263b4b8614f7ab9bfba294bac7182/0_74_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6ea47a3966825d290d4f5b830fa273c8"
+        width: 600
+        height: 360
+        isCached: true
   - title: "LIVE: House prepares to impeach Trump for 'incitement of insurrection' over deadly Capitol siege"
     excerpt: "Multiple Republicans will break ranks to join Democrats in impeaching Trump for the second time. He unleashed a frenzied mob on the Capitol last week."
     publishedDateTime: 2021-01-13T14:18:00Z
@@ -167,6 +183,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "jUyQ0KuKawWjLBJGsMtGp6Vtrgfif6auF3n5ysHSqRA8sSz8V4w+5huSGdunYo38gFX8iaecdUJm0vp6ab2D1fQqFWgMB1fTI+dy5SWEP9XS7A2j6jnJiN6OWQ5b4R7m7VlmbhVSxSE/o8GHRaCnvLoiKMgPWMitDHLZvb89cKZMaR3xxOeIBPChlmneInj+aBIqdwsZ2TLAtLDvNEqnJFi2bHNxnC4Lj2n/6PpsK18T74D3gQrXnfwRXuKptpw0b74HyZAs4KxjeK2Vb5b6WOTKGxZVLlBGu4e9XZWQdwq6wSnnWuSlf6ve3aEELoqPCmFJCgPPpZVg1NFqRvTe/z+682lmYtUjLwaL1DilIBg=;WdUETFATbWYuAhzhcqnbDw=="
+secured: "7PSsUyKKYKESagHQVad18i1I8EjTtviSiVEIWAXebwoaF40ETUQXK72k1M7R0nd1w8JZT7+BTb/2MS3gwvigl57PFg6c4y7g798I40CQ5rKp/RJGnUDKwBYdjayy4U0Y0XkiX7dkBn8Xjgb1TWIqQ13AYNe4OSRM/8ZdN2RvyxA01rovMmGXa12Etgjzi7bwBDmoWvlnnimwxV4jWl+rft+HjFVjdjxSc2j7LTDUsUZ6KJChULKMzYdSk/Uq5qAGQ19mcjqxf3W0u1ax5FnqLxbJpT1VXxbKoEIOqLzAEZdNuNJMDYbMHPeMlcgRaYn5pDYf7TtNOisgQjiX3lVSiomFpYveFdet36V/f5ZLXQI=;1RDb6oZ9MtK7V9LvwRpp3g=="
 ---
 

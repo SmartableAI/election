@@ -127,6 +127,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "The Latest: Biden hopes Senate can balance trial, other work"
+    excerpt: "President-elect Joe Biden says he hopes the Senate can balance a second impeachment trial of President Donald Trump with “other urgent business” as the coronavirus pandemic rages"
+    publishedDateTime: 2021-01-14T06:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-hopes-senate-can-balance-trial-other-work/2021/01/13/eb1e34fa-5606-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-hopes-senate-can-balance-trial-other-work/2021/01/13/eb1e34fa-5606-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-hopes-senate-can-balance-trial-other-work/2021/01/13/eb1e34fa-5606-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Hunter Biden's taxes under investigation by U.S. attorney's office in Delaware"
     excerpt: "I am confident that a professional and objective review of these matters will demonstrate that I handled my affairs legally and appropriately, Hunter Biden said in a statement."
     publishedDateTime: 2020-12-09T21:45:00Z

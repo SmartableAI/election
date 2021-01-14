@@ -2,9 +2,9 @@
 category: news
 title: "Biden says he hopes Senate leadership will work on other business during impeachment"
 excerpt: "U.S. President-elect Joe Biden on Wednesday called on Senate leadership to work on other business while dealing with their responsibilities on impeachment after a House of Representatives vote that made Donald Trump the first U."
-publishedDateTime: 2021-01-14T01:26:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-biden-idUSKBN29J053"
-webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-biden-idUSKBN29J053"
+publishedDateTime: 2021-01-14T06:15:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-biden/biden-says-he-hopes-senate-leadership-will-work-on-other-business-during-impeachment-idUSKBN29J053"
+webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-biden/biden-says-he-hopes-senate-leadership-will-work-on-other-business-during-impeachment-idUSKBN29J053"
 type: article
 quality: 98
 heat: -1
@@ -647,6 +647,20 @@ related:
         width: 1484
         height: 1119
         isCached: true
+  - title: "U.S. Senate moves toward confirming Biden cabinet nominees"
+    excerpt: "The U.S. Senate Intelligence Committee said on Wednesday it had scheduled a confirmation hearing for President-elect Joe Biden's nominee to be director of national intelligence, after delays in the transition process for some nominees."
+    publishedDateTime: 2021-01-14T05:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet/us-senate-moves-toward-confirming-biden-cabinet-nominees-idUSKBN29J00Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547710021&r=LYNXMPEH0D01S&w=800"
+        width: 799
+        height: 533
+        isCached: true
   - title: "Washington mayor asks for increased security around Biden's inauguration"
     excerpt: "Washington's mayor has asked for increased security around the inauguration of U.S. President-elect Joe Biden after last week's storming of the U.S. Capitol by supporters of President Donald Trump."
     publishedDateTime: 2021-01-11T13:41:00Z
@@ -749,6 +763,6 @@ related:
         height: 630
         isCached: true
 
-secured: "imKbImcQZ61mEPdW97dzznrYDL7a8+M4DMLinsAVhtVa0EtSLpPzvfN0wkefKp4AeVp+RHmBTcIW2b5Db3Ryolre2EtJUFjProoFaj9fWk4QRWb2n+fGxmLcigFS7dTFomRP3KnHfrZv5SpFS16yd1mkvVZ3umDrcWwfTXdH6/b2eb1pXnjVs9cR17ds61+FYX5io1+toty4iXl+oQKEbvkA2WyNh6OsVrgAqU3hcEs3pJYBT5+XiPUhJW+aX5Mh4cDFi/f8WHNqXUi1qy58pk1qA18EHVjHHnRiQ5mp2OaCJTSyHQmGInMU+t+tpHjtwykcx6+EFBNSdKEHWPY27dtpOw1zgtuEVnPbOPzSFKk=;YIetzPG/ifFG1kE1jESnjQ=="
+secured: "N5aXHZ4/0eWBZFJ+TU+2iBPGYC4FlQriKt+KML+mP3SNoSeq6PQ0RY/TEpa0g3R4CzU7st/I973NZmA4ajbPlsUPOqQn8wbVN7v+etcgZT7Z5i5CE+fZDZNbvobIF0pCwBK0AHFdA1q4E2m93OfPSOecVLRQDEUQH/1hgLhccfztQST280d4b9KusrDQCtVe6egu614MRegyX/WTu8pOWkNR+Bs8U3dTkI6vq19xaycg7fkjwXnukpzvt1xKsjSQy4mVEpE/Snq6Crg8W4l18QxX4ttSG2t1iGPmkBzEGCTvm1lr85hsUNG6xcsHnlNo3gzlWaBuGFRDKGJLboYqfCqi4bi61n67JnFd5fA/uP0=;XVPI7XoO6ZY2/j1h9oeBGQ=="
 ---
 

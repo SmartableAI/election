@@ -633,6 +633,20 @@ related:
         width: 1484
         height: 1119
         isCached: true
+  - title: "U.S. Senate moves toward confirming Biden cabinet nominees"
+    excerpt: "The U.S. Senate Intelligence Committee said on Wednesday it had scheduled a confirmation hearing for President-elect Joe Biden's nominee to be director of national intelligence, after delays in the transition process for some nominees."
+    publishedDateTime: 2021-01-14T05:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet/us-senate-moves-toward-confirming-biden-cabinet-nominees-idUSKBN29J00Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547710021&r=LYNXMPEH0D01S&w=800"
+        width: 799
+        height: 533
+        isCached: true
   - title: "Washington mayor asks for increased security around Biden's inauguration"
     excerpt: "Washington's mayor has asked for increased security around the inauguration of U.S. President-elect Joe Biden after last week's storming of the U.S. Capitol by supporters of President Donald Trump."
     publishedDateTime: 2021-01-11T13:41:00Z
@@ -690,8 +704,8 @@ related:
         isCached: true
   - title: "Biden says he hopes Senate leadership will work on other business during impeachment"
     excerpt: "U.S. President-elect Joe Biden on Wednesday called on Senate leadership to work on other business while dealing with their responsibilities on impeachment after a House of Representatives vote that made Donald Trump the first U."
-    publishedDateTime: 2021-01-14T01:26:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-biden-idUSKBN29J053"
+    publishedDateTime: 2021-01-14T06:15:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-biden/biden-says-he-hopes-senate-leadership-will-work-on-other-business-during-impeachment-idUSKBN29J053"
     type: article
     provider:
       name: Reuters

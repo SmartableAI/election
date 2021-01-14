@@ -1068,14 +1068,14 @@ related:
   - title: "Several House Republicans join impeachment push; Pence says he will not move to expel Trump"
     excerpt: "At least four Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
     publishedDateTime: 2021-01-13T08:02:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/tempers-flare-as-democrats-race-to-impeach-trump-over-capitol-rampage-idUSKBN29H0JJ"
+    webUrl: "https://www.reuters.com/article/uk-usa-trump/several-house-republicans-join-impeachment-push-pence-says-he-will-not-move-to-expel-trump-idUKKBN29H2MG"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 110
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547541869&r=LYNXMPEH0B1HG&w=800"
         width: 800
         height: 533
         isCached: true
@@ -1310,6 +1310,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210113&i=OVDV1MRBZ&r=OVDV1MRBZ&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "The second impeachment of President Donald Trump"
+    excerpt: "The House of Representatives is expected to vote to impeach President Donald Trump after Vice President Mike Pence declined to use the 25th amendment to remove him from office after protestors breached the U."
+    publishedDateTime: 2021-01-14T06:49:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-viz-second-impeachment-donald-trump-photos-20210113-3lvw3pc44zc2zjxu3i6bhxflie-photogallery.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 105
+    images:
+      - url: "https://www.chicagotribune.com/resizer/LwfwQj53mAsQ-0Dp_I5o1rBM3a4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/R6B7WRUN2GCNHWDYLCHBZ3R5UI.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump bears responsibility for Capitol attack: House Republican leader"
     excerpt: "President Donald Trump bears responsibility for the attack on the U.S. Capitol last week, House Republican leader Kevin McCarthy said on Wednesday after arguing against the president's impeachment."
@@ -1845,6 +1859,22 @@ related:
         width: 4155
         height: 2770
         isCached: true
+  - title: "Vice President Mike Pence coming to Naval Air Station Lemoore"
+    excerpt: "Vice President Mike Pence will be at Naval Air Station Lemoore on Saturday to deliver remarks to sailors about the “Trump Administration’s historic foreign policy achievements,” the vice president’s office announced Wednesday."
+    publishedDateTime: 2021-01-13T23:17:00Z
+    webUrl: "https://www.sacbee.com/news/california/article248491315.html"
+    ampWebUrl: "https://amp.sacbee.com/news/california/article248491315.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article248491315.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5596404782001/e6a974fd-9407-4b50-ab25-fc28e18e3610/22d06799-15d6-43ce-9837-a9be63948ed7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Who Are The 10 Republicans That Voted To Impeach Donald Trump?"
     excerpt: "Ten Republicans joined Democrats in the House on Wednesday to impeach Donald Trump, making him the first president to be impeached twice. The article of impeachment accused President Trump of \"incitement of insurrection."
     publishedDateTime: 2021-01-13T23:26:00Z
@@ -1876,6 +1906,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2014/01/27/mick-foley.jpg"
         width: 433
         height: 599
+        isCached: true
+  - title: "Chrissy Teigen, Other Celebs React To Donald Trump Being Impeached Twice"
+    excerpt: "Several celebrities including Chrissy Teigen, Jesse Tyler Ferguson and more reacted to Donald Trump being impeached twice. The president was impeached by the House of Representati"
+    publishedDateTime: 2021-01-14T06:14:00Z
+    webUrl: "https://www.ibtimes.com/chrissy-teigen-other-celebs-react-donald-trump-being-impeached-twice-3121752"
+    ampWebUrl: "https://www.ibtimes.com/chrissy-teigen-other-celebs-react-donald-trump-being-impeached-twice-3121752?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chrissy-teigen-other-celebs-react-donald-trump-being-impeached-twice-3121752?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/the-cancelled-diplomatic-trips-round-off-four-tumultuous.jpg"
+        width: 1024
+        height: 677
         isCached: true
   - title: "Republicans Are Breaking Ranks on Impeachment. That's Good for Democrats — and Bad for Trump"
     excerpt: "As the Democrats prepare to impeach Donald Trump for a second time, a few Republican votes could prove helpful for the Democrats. Here's why"
@@ -2315,6 +2361,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/13/social-media-network-snapchat-has-permanently-banned-donald.jpg"
         width: 1024
         height: 681
+        isCached: true
+  - title: "Trump Impeached For Unprecedented Second Time"
+    excerpt: "Donald Trump became the first US president in history to be impeached twice when the US House of Representatives voted Wednesday to charge him with inciting last week's mob attack on Congress. \"Today,"
+    publishedDateTime: 2021-01-14T06:17:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeached-unprecedented-second-time-3121095"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/08/14/us-speaker-of-the-house-nancy-pelosi-is.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Trump On Brink Of Unprecedented Second Impeachment"
     excerpt: "The House of Representatives was set to impeach \"clear and present danger\" President Donald Trump Wednesday, with several key Republicans backing the Democrat-led push to bring down the real estate tycoon in flames a week before he leaves office."
