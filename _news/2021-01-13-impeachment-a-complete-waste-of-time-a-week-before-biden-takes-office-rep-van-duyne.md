@@ -34,9 +34,9 @@ related:
   - title: "Biden tweets about impeachment vote, reminds Senate of 'other urgent business'"
     excerpt: "After the House voted to impeach President Trump Wednesday, President-elect Biden said the chamber had held the president \"accountable\" and asked the Senate to do their \"constitutional responsibilities\" on impeachment – along with \"other urgent business.\""
     publishedDateTime: 2021-01-14T08:12:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pNGummAjqT8/biden-gives-lukewarm-nod-to-impeachment-vote-reminds-senate-of-other-urgent-business"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-gives-lukewarm-nod-to-impeachment-vote-reminds-senate-of-other-urgent-business.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gives-lukewarm-nod-to-impeachment-vote-reminds-senate-of-other-urgent-business.amp"
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_e4Cjf8I954/biden-tweets-about-impeachment-vote-reminds-senate-of-other-urgent-business"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tweets-about-impeachment-vote-reminds-senate-of-other-urgent-business.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tweets-about-impeachment-vote-reminds-senate-of-other-urgent-business.amp"
     type: article
     provider:
       name: Fox News

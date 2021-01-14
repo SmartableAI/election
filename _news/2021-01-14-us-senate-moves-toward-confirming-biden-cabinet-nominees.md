@@ -3,8 +3,8 @@ category: news
 title: "U.S. Senate moves toward confirming Biden cabinet nominees"
 excerpt: "The U.S. Senate Intelligence Committee said on Wednesday it had scheduled a confirmation hearing for President-elect Joe Biden's nominee to be director of national intelligence, after delays in the transition process for some nominees."
 publishedDateTime: 2021-01-14T05:20:00Z
-originalUrl: "https://www.reuters.com/article/idUSKBN29J00Y"
-webUrl: "https://www.reuters.com/article/idUSKBN29J00Y"
+originalUrl: "https://www.reuters.com/article/us-usa-biden-cabinet/us-senate-moves-toward-confirming-biden-cabinet-nominees-idUSKBN29J00Y"
+webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet/us-senate-moves-toward-confirming-biden-cabinet-nominees-idUSKBN29J00Y"
 type: article
 quality: 105
 heat: -1
@@ -705,7 +705,7 @@ related:
   - title: "Biden says he hopes Senate leadership will work on other business during impeachment"
     excerpt: "U.S. President-elect Joe Biden on Wednesday called on Senate leadership to work on other business while dealing with their responsibilities on impeachment after a House of Representatives vote that made Donald Trump the first U."
     publishedDateTime: 2021-01-14T06:15:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-biden/biden-says-he-hopes-senate-leadership-will-work-on-other-business-during-impeachment-idUSKBN29J053"
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-biden/biden-says-he-hopes-senate-leadership-will-work-on-other-business-during-impeachment-idUSKBN29J053?edition-redirect=ca"
     type: article
     provider:
       name: Reuters
@@ -763,6 +763,6 @@ related:
         height: 630
         isCached: true
 
-secured: "gUHV5wGx5gFYwpjFD3I1vn3JxjIHU7+TH1wYeJD6zFCntpt5HL2RVvebCUaSTNPH5hEBFpansaHw7CXWEg9vX225QALHtpwYbPKNcZ/CQ7OhPuO8RWQ3b2h+GZ5VW2dvOARsBbMAjsiP/4tUknXsXQD+kIrubREzwlPiOxCkRtndB7Ciq+IeBjEN5MJPEzX3LcY4fEvsNnd/ludrzJb3eTUi4CnQjaTaypMz5LdxPnT4Zu8wPZ0aF0qCqR39H8+u9xCQOvpcHgSTGkFF0rpHeDeycIWSMdIeA/lUkiWgirnLoMf2d2ygc7KVHtxqDw84P2kVqhg+ksNCzBLVMRMagr9/i5c4Y2Ab+MG6GYDWzs4=;DrBoMtI8crTsg+fsGGOXbA=="
+secured: "1WRTNjtjJNyW3eSN2ucNEpom0rn9ehKMpyC/oUkYaW4WdbSVqhIexiVYo07hu4Pk9Up8Gsp8g47weNTiuPsjuHd5RoOUkO0VGw7iRzo2+cOJ7PHXiP1PcvxWE9UvDChMpKa0PF7hBOH6GjkY/I+3LVmOjNKyRvh1SR2loLpbqEDYDKFSydmdNsbPArZxGFdq/q8eCH9EsrFXogOp0uOpUv+CK97mnC0Qa+6WkCtrJNeLdPI91JnzX6QB9gS0F0aVqrmdPeOpinD4zJzjVGJFBW6sN9A6bFpazRNWUQPCd8msoiRzqfY3Ke3K56nb2cT8471Sg2JOlI7UaxgR39YbOCH4ZPvhaRvgVO3MRW9CZKs=;DyFuzETkU+j/JRLqLMfttA=="
 ---
 

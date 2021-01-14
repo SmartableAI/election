@@ -108,6 +108,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "What Sex Workers Want Kamala Harris to Know"
+    excerpt: "I wish it was anyone else but Kamala Harris,” said Alex Andrews, cofounder of Sex Workers Outreach Project (SWOP) and SWOP Behind Bars. Andrews and other objected to the “torture” Harris put sex workers through when she was district attorney of San Francisco and attorney general of California."
+    publishedDateTime: 2021-01-14T10:04:00Z
+    webUrl: "https://www.thenation.com/article/society/kamala-harris-sex-work/"
+    ampWebUrl: "https://www.thenation.com/article/society/kamala-harris-sex-work/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/society/kamala-harris-sex-work/tnamp/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 85
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2021/01/kamala-harris-delaware-gt-img.jpg"
+        width: 1440
+        height: 907
+        isCached: true
 
 secured: "JZvxjbZTPZ51oToTCdD+JtsCkNXaYmhDVnx4YSFC1zI+RYe3yetyZxeYj6AiZNZtO5juvnVM3a0HmC/xWuUkt5u/V4dPVH/gKO25s20uDNLeHStgY/9xj39s3v0NPf97LJ73gML43BDQso6y9jiFM1RZc9flaScO2SiqqyErP8ftcITC5zaCZXlUNSVlYTN73HRLix/re/zWxJWfzQFLy0ZqPYLhclEj5r0u/4h721CJHMIUko/szfetkWOklmVwshoGIqcJYToxzHWHeVuTgv6kjW2CaQx3aYieymqRxQx6uMiGEBcJlEPdjyaFw/Etn9s74d6hqq5rRtTXAZh42qYUMF3dgkrgWTILFr0IwaWncOaBNs5bucXgPReuVkSZzNDDfQWq4sbPD8GimZ1v8cx7fNztTO73YTD+5g/VmKYypaE0S8bGbHFwEVfdGM2vIWgGd0eKn7XBfaqMcsZBzp2U/Qti0LB9fk+cM1mbDtiijoHS+BQe8DQOsHqcRCL2RR8TvDoz8BvWy6h7Y6Rtnw==;M9dL2yKpE3P2xZviKtd4fg=="
 ---

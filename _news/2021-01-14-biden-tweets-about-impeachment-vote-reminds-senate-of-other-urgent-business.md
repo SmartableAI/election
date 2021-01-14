@@ -3,10 +3,10 @@ category: news
 title: "Biden tweets about impeachment vote, reminds Senate of 'other urgent business'"
 excerpt: "After the House voted to impeach President Trump Wednesday, President-elect Biden said the chamber had held the president \"accountable\" and asked the Senate to do their \"constitutional responsibilities\" on impeachment – along with \"other urgent business.\""
 publishedDateTime: 2021-01-14T08:12:11Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pNGummAjqT8/biden-gives-lukewarm-nod-to-impeachment-vote-reminds-senate-of-other-urgent-business"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pNGummAjqT8/biden-gives-lukewarm-nod-to-impeachment-vote-reminds-senate-of-other-urgent-business"
-ampWebUrl: "https://www.foxnews.com/politics/biden-gives-lukewarm-nod-to-impeachment-vote-reminds-senate-of-other-urgent-business.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gives-lukewarm-nod-to-impeachment-vote-reminds-senate-of-other-urgent-business.amp"
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_e4Cjf8I954/biden-tweets-about-impeachment-vote-reminds-senate-of-other-urgent-business"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_e4Cjf8I954/biden-tweets-about-impeachment-vote-reminds-senate-of-other-urgent-business"
+ampWebUrl: "https://www.foxnews.com/politics/biden-tweets-about-impeachment-vote-reminds-senate-of-other-urgent-business.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tweets-about-impeachment-vote-reminds-senate-of-other-urgent-business.amp"
 type: article
 quality: 171
 heat: 191
@@ -48,6 +48,6 @@ related:
         height: 720
         isCached: true
 
-secured: "jla9PCUZPXLkFYtAhmDJKIdrAkgLbecTa/hIKtnfVPUCwxC1eYwYNvzH+7mZum5JmSfOX2jfSUVcJzeHMeyC8yUH9J5eCo0oDAJCGRnw8WTuNa+KbAqr5zujgBk7xB1ZYEcBwismpThv46nnp1AFx5fQk/W6JRcNd1pFE6VGYuPMqlGJPxE202ML3aaptgZOZrKt3jh6SdS6u3BmSoqO8F0Nf7aM6N3KYnlqIa93TZkZYuVWxkqSjObRM2P7FfC3pZMFTmUi3dLdRF0R9eUagomrTuoJWJAWtx8NJGlu1S3vN0A/GDtHHxuXYZNZqveolCbupIN5MCV2qnN/I05oFd35ja/CYGEY3QGaHETEcCU=;+Nx/gxXo072ZzyVXctaHfQ=="
+secured: "QIPu0k4ivodXMCUoC1hH4wkfd0w/IQc7A3twjpeGbuTS8ie2B5fpQIQlHGvlfOuFjB8DRlbzDL8oqXdXvWhxwEL8ZJsNcqQTR5/I6iC5DK1G74OfvXUijYSeTiQjAWukaxfzHK3Fed+9hOlF6iUnLJyMRYZDNksjJq3RVBx3aFBOeERaE/KfVYcQwetok2ecr9uXJFbwMhzgCZ+66Bt8TS0hBQIpEo6gzalPMsjbRBOvfN6sq0slF7+UYITYjX6Zz90SeCmhv48Iy0+s9kPyUKeEBl/LkBH+z8h35hJDgNheUjr+j7iXDLqK3hMBGKh8PgqAWiLmUwkqG2WHUejbtCpnvMRm5S4aiQH0w7c3P+4=;kZbEEQnrU/vdAgULX7vEWQ=="
 ---
 

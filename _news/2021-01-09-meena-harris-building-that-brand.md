@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/01/09/style/meena-harris-building-that-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/09/style/meena-harris-building-that-brand.amp.html"
 type: article
 quality: 135
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -107,6 +107,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210110225724-01-vogue-kamala-harris-cover-card-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "What Sex Workers Want Kamala Harris to Know"
+    excerpt: "I wish it was anyone else but Kamala Harris,” said Alex Andrews, cofounder of Sex Workers Outreach Project (SWOP) and SWOP Behind Bars. Andrews and other objected to the “torture” Harris put sex workers through when she was district attorney of San Francisco and attorney general of California."
+    publishedDateTime: 2021-01-14T10:04:00Z
+    webUrl: "https://www.thenation.com/article/society/kamala-harris-sex-work/"
+    ampWebUrl: "https://www.thenation.com/article/society/kamala-harris-sex-work/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/society/kamala-harris-sex-work/tnamp/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 85
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2021/01/kamala-harris-delaware-gt-img.jpg"
+        width: 1440
+        height: 907
         isCached: true
 
 secured: "50FaRzBcW82eiZPOA8j077Na+KUknWqZ98UQYfQxwZdM4XjnaMEho/GW0deoRMvebvWqvO57asjBbF/0DWG8TipS+k0tzMm/4CYrmRSVFDPK0sD6BKSv071Iniz3W6A47NIJnPAUUUKHlcpFPlSEVuyAobFZX8exzPcoShUD6nHsEemy+x2CH3xz0hdCQ8PDvrJKv5yDOTgnJB39gMkaE/FKj/qOvnqxzN+XO5PSLKcJvO3EmSluMwALf2ncpKgMB6sJ5bTio9IYmtDEHN+6duowKeEh46wRma7hvmgA3I8aJoo8RQ64W1+RLipdqM93s7t7eAYe8pdpVf1eO7JQVoXWFE8N3Ix5beXM0x9ujwI=;Aaqey3igBESMpqeu+2LCAg=="
