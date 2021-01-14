@@ -2,9 +2,9 @@
 category: news
 title: "20,000 guardsmen to deploy for Biden inauguration"
 excerpt: "While Congress acted to impeach him, President Donald Trump on Wednesday urged his supporters to shun violence as the National Guard prepared to deploy at least 20,000 troops in Washington for the Jan."
-publishedDateTime: 2021-01-13T20:21:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-inauguration/20000-guardsmen-to-deploy-for-biden-inauguration-idUSKBN29I1RZ"
-webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration/20000-guardsmen-to-deploy-for-biden-inauguration-idUSKBN29I1RZ"
+publishedDateTime: 2021-01-13T23:26:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-inauguration/acting-u-s-attorney-general-warns-insurrectionists-against-further-attacks-idUSKBN29I1RZ"
+webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration/acting-u-s-attorney-general-warns-insurrectionists-against-further-attacks-idUSKBN29I1RZ"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547685892&r=LYNXMPEH0C1OH&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547699627&r=LYNXMPEH0C1TD&w=800"
     width: 800
     height: 533
     isCached: true
@@ -461,6 +461,6 @@ related:
         height: 630
         isCached: true
 
-secured: "sapIHFjc0Snf+uiBL/RU+dgXjEnx4F4k41bJKHC5dhtum2m84qIwg0ZdVXvZTbqnnbXn7cfVaoEd37PT0p6a7f5oktVuLUmlv+Odtk+Fr5wINTJXdjTFJwVCyz8LW5Q8V7AvNLcYpzXZE9RlPOCp+3HUXzdukW0WbuVgMqiMZ5rRFbzYrHoGREFdyA13uZuo8rs/Yq39ZMepBJwj9wytgvA0xdtuZcEOUpW+XdCN0Df6NOjIZFZmafcjj7qpPmQzOY50Yqj9SeRLlYOx/490AMTnFTnE8AdMVen7V62wdIx4EDXtbRDfafrj79GrWcQcUgbI+KrxdRDNQ+EBOCDiLxmxhgyPVBCroHe4UNHCjbZDciQI59MdV+2GI+pJ26QdwyisjfZUbeidbHnW+nLToX0ANdFIUF5QqtBIuok9ZRhGEsTRjxfCu2Kh1LtFWvk5d1T+oCWz1ScgndWLjpt+2GS836f8u+TBViCA8S4YPwdHkQ9bpkWvoJkRxgEHuy6/dnlOGIksU2KQCeq/G9Q2Lw==;MQOMqhrrbFAtA9hR0dOKzg=="
+secured: "iZMzPfioLwwUEw1PzK9bVntk/bY0AtP1GLvVNcGLewo8uEtEK0QghQ+SyVtON9ElPhOXl8DvA/+T7UnM7DU+2m06GExuYdOowmKf2EjI9mmrRC8S6N2R16ULxFaiJdsiwXOfpyd8mOkTwq4G6mR3JEQYUc+E+BUJjcBE6PZtsleqT4fHjOWsqjfjlVtrwl9qInAwnD25vmJuNq9MeqtjNRpRwaTyg6ynmrGLAooioZbClrB69dhFyRkUPNSEnPHXaP+0knREwq+Y8u76TckrWchnEz6WsDXex+U1Wd9eaJp//JFgyMTfBSL2TYeQBZlFk4kgWKAcc9i9ZhNrmr1x998UI2IEtZaVVHxOEvTjSh8=;a8TyZBDzixG8txXMZT8jNQ=="
 ---
 

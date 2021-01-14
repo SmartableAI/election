@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden has accepted invitation to stay at Blair House the night before inauguration, State Department says"
+    excerpt: "The Trump administration has offered President-elect Joe Biden the use of Blair House, the official residence for guests of the president, on the eve of his inauguration. Biden has accepted the offer to stay at the historic home,"
+    publishedDateTime: 2021-01-13T23:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-has-accepted-invitation-to-stay-at-blair-house-the-night-before-inauguration-state-department-says/2021/01/13/ca3f1e1c-5551-11eb-a931-5b162d0d033d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-has-accepted-invitation-to-stay-at-blair-house-the-night-before-inauguration-state-department-says/2021/01/13/ca3f1e1c-5551-11eb-a931-5b162d0d033d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-has-accepted-invitation-to-stay-at-blair-house-the-night-before-inauguration-state-department-says/2021/01/13/ca3f1e1c-5551-11eb-a931-5b162d0d033d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MUEGLJSVYYI6XIEL6E4B546SA4.jpg&w=1440"
+        width: 1440
+        height: 979
+        isCached: true
   - title: "Operation Warp Speed chief adviser resigns, Biden's transition official says"
     excerpt: "Moncef Slaoui, the chief adviser for Operation Warp Speed, has resigned but will be available to the incoming Joe Biden administration as a consultant for about four weeks, a Biden transition official told Reuters late on Tuesday."
     publishedDateTime: 2021-01-13T11:08:00Z

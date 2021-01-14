@@ -95,6 +95,22 @@ related:
         width: 790
         height: 545
         isCached: true
+  - title: "What Mitch McConnell Has Said About Impeaching Donald Trump for Second Time"
+    excerpt: "The article of impeachment accuses Trump of \"incitement of insurrection\" for the riots at the Capitol building on January 6, and according to a recent report from The New York Times, Senate Majority Leader Mitch McConnell may be leaning toward voting in favor of impeachment."
+    publishedDateTime: 2021-01-13T15:44:00Z
+    webUrl: "https://www.newsweek.com/what-mitch-mcconnell-has-said-about-impeaching-donald-trump-second-time-1561200"
+    ampWebUrl: "https://www.newsweek.com/what-mitch-mcconnell-has-said-about-impeaching-donald-trump-second-time-1561200?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-mitch-mcconnell-has-said-about-impeaching-donald-trump-second-time-1561200?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1705612/mitch-mcconnell.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Fate of $2,000 stimulus checks proposal, backed by Trump, is in McConnell’s hands"
     excerpt: "Sen. Bernie Sanders (I-Vt.) says he will scramble the Senate’s holiday week plans if the Kentucky Republican does not hold a vote on the larger checks."
     publishedDateTime: 2020-12-29T14:48:00Z

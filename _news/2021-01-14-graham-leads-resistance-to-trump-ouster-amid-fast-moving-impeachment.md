@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House Votes 223-205 to Call on Pence to Strip Trump of Power"
+    excerpt: "Lawmakers adopted a resolution that would compel Vice President Mike Pence to invoke the 25th Amendment after President Trump incited a mob attack on the Capitol last week. In a letter to Speaker Nancy Pelosi earlier in the evening,"
+    publishedDateTime: 2021-01-13T17:51:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/12/us/impeachment-trump-25th-amendment"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/12/us/impeachment-trump-25th-amendment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/12/us/impeachment-trump-25th-amendment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/12/us/12transition-briefing-promo-new/12transition-briefing-promo-new-videoSixteenByNineJumbo1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "A Mob and the Breach of Democracy: The Violent End of the Trump Era"
     excerpt: "As angry Trump supporters massed in the capital and a futile challenge to Joseph R. Biden Jr.’s victory unfolded in Congress, the president most likely succeeded in handing Washington to the Democrats."
     publishedDateTime: 2021-01-06T18:55:00Z
@@ -143,6 +159,6 @@ related:
         height: 549
         isCached: true
 
-secured: "jFYCDNk7LkHFP7lbD1wf0IAt3Kp/xtmxRWYZ92EW8sSEsjgMEZrCEBU3dbFalj9Mgy2GK3/PJCdep8GANCyOuqVT9QxD6+HHPZK4TmR2j7CdHPH0xEX4l4BfNyoou5ED4LNlNVJN5ddSzddShmJ7s36D/Q0MZz7WT3HDov06tKyhGrggM+qgtFCcjGIyBbXd+WyjxYOpZMN+a0p/Vi2i7yGb0K+2ZSzGZt13bncdj7l7JrJqe3wCGoDzDPLVTEoRIJVobe3To8S50sR2yIr/DVehRLIUl24LhhizEi0ek0W1s1BsY2moge914opUpFPw+MsfSf0vah7L8njh+e9KCsSqRlNHRNEe/kmeysirff8=;Kg/3/wVUmQAC88m1DtS4AQ=="
+secured: "4O4NERINdKXGUaZQOeqWelWWymIetMLROhZusR2YDc6Bl5ZcxnpA9jar7RGEKi2Dggb63vX8AKiOdRIPDMAixGoLg2ZB1luplvDydu0PFGSifxzOA96efX3P9tZAMcHjmh3u14Nl08SoSvvQ+8MgG1anWhegR8hzXYBj3lnzH4nd8RUgeC7BUDTrInk/B01vfZd6dNk83DY0opV2r7jAyc6YqxCjsCTKQ0shMvTPamiRyRxPlEO/l1mgayN5LJEE1g46D+IKj06Pbb0MHWLdBbdyyh+Y7FgPeEJsjLzjzLAN9rA9d3QY4Vin01TRUCo2qK36GusvaW1FACwoW27No6/3PmUpVzAjCizMn2Q80FxfVrAAWtON7tU9qhnpwQgKFP8qFxRWZqLZcA4/TNtk82A9Pqx2yK9+qzBpJ4Ra0nf+NL1crYTNKsudpJKh/C9ZJUjH+ND+oBP1gLk48kQEOmcjRKNNOqvkpSBhiltPOXMSagIDY4FOYuHfZ4a30NlARI/gvJYtaeke+Wh3QNIQzQ==;s/PV/8dp5UHMYTI8v2iX9w=="
 ---
 

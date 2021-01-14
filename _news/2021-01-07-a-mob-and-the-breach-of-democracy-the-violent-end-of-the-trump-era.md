@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House Votes 223-205 to Call on Pence to Strip Trump of Power"
+    excerpt: "Lawmakers adopted a resolution that would compel Vice President Mike Pence to invoke the 25th Amendment after President Trump incited a mob attack on the Capitol last week. In a letter to Speaker Nancy Pelosi earlier in the evening,"
+    publishedDateTime: 2021-01-13T17:51:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/12/us/impeachment-trump-25th-amendment"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/12/us/impeachment-trump-25th-amendment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/12/us/impeachment-trump-25th-amendment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/12/us/12transition-briefing-promo-new/12transition-briefing-promo-new-videoSixteenByNineJumbo1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "See how Trump's language was echoed by rioters"
     excerpt: "As the House prepares to vote on impeaching President Donald Trump to condemn his role inciting the riot at the US Capitol, CNN looks at the language Trump used and how it was echoed by rioters."
     publishedDateTime: 2021-01-13T11:25:00Z

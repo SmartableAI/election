@@ -349,6 +349,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump says in post-impeachment message that 'no true supporter' of his could endorse political violence"
+    excerpt: "President Trump released a video Wednesday evening denouncing last week's riots at the U.S. Capitol and declaring that no true supporter of his could support political violence."
+    publishedDateTime: 2021-01-14T00:51:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cXYoVdwCQW0/trump-post-impeachment-message-no-true-supporter"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-post-impeachment-message-no-true-supporter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-post-impeachment-message-no-true-supporter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c0ff7ca-92a9-447d-a84d-8ca44f2eae06/f6811563-0971-4869-bc00-44dd4ccfaa63/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Is Trump remaking the Republican Party or purging those who cross him?"
     excerpt: "President Trump’s escalating attacks on the Electoral College results are tearing the Republican Party apart."
     publishedDateTime: 2021-01-06T08:06:42Z

@@ -127,6 +127,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "For Kamala Harris, being first means attention and attacks"
+    excerpt: "She will become the first woman, Black woman and Asian woman to be vice president, a position that has drawn criticism that will extend beyond her swearing-in."
+    publishedDateTime: 2021-01-14T00:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/kamala-harris-firsts-vice-president/2021/01/13/7e4ffc36-4171-11eb-9453-fc36ba051781_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/kamala-harris-firsts-vice-president/2021/01/13/7e4ffc36-4171-11eb-9453-fc36ba051781_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/kamala-harris-firsts-vice-president/2021/01/13/7e4ffc36-4171-11eb-9453-fc36ba051781_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SZJH4JCGJUI6TFFL2LO2HQG7KI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Harris on Trump GA call before Senate runoff"
     excerpt: "Rough Cuts Harris on Trump GA call before Senate runoff. Posted . U.S. Vice President-elect Kamala Harris rallied supporters in Georgia on Sunday for Democratic Senate candidates"
     publishedDateTime: 2021-01-04T02:55:00Z

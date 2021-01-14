@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/colin-powell-trump-resignation.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colin-powell-trump-resignation.amp"
 type: article
 quality: 155
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Swalwell compares Trump to Usama bin Laden: 'He was responsible'"
+    excerpt: "Democratic California Rep. Eric Swalwell, who remains on the House Intelligence Committee despite foggy ties to a spy for China and who will serve as an impeachment manager, associated President Trump with Usama bin Laden in an interview Tuesday."
+    publishedDateTime: 2021-01-13T23:57:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EjxHIq_BY1I/swalwell-compares-trump-to-usama-bin-laden-he-was-responsible"
+    ampWebUrl: "https://www.foxnews.com/politics/swalwell-compares-trump-to-usama-bin-laden-he-was-responsible.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/swalwell-compares-trump-to-usama-bin-laden-he-was-responsible.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/swalwell-walking-masked.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "2IhP+oxTXiDiB1Kc3lL4ygYhllnUgU+MJllXddHD2zoJjGfNX1XM9fzvg0da/rPpt0ZmSnpHlUoEadX6pR5oBxwt2wvMul9KSdAIN+82+kEEtkzDX14Wa8cSm1tl6ANs1m7gt9rsMhuvozBRZZx7w0ZgOSVfCsE4nuIxZcLGI+DGO2uzkiWyWHPxS6qHlDL7NnG2lt/HbEF1J9Rxd8opYcJYNObY+QYwXETMYcIHZwt5P7SghY9G4fIW/jrQMN1RNcUodv7uqJz1B7InvtKkSqjFZ85K2cuGr3Dp/rR17dZ+oHJxxIxDStswbMF+2G2z0C8xPvVs6WtH/+TxoC6Sohg2wxPxj73ACXL7YKgXOsM=;yx4videaHKbQhIvYS24EWA=="
 ---

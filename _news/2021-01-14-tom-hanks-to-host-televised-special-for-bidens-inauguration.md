@@ -249,15 +249,15 @@ related:
         isCached: true
   - title: "20,000 guardsmen to deploy for Biden inauguration"
     excerpt: "While Congress acted to impeach him, President Donald Trump on Wednesday urged his supporters to shun violence as the National Guard prepared to deploy at least 20,000 troops in Washington for the Jan."
-    publishedDateTime: 2021-01-13T20:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration/20000-guardsmen-to-deploy-for-biden-inauguration-idUSKBN29I1RZ"
+    publishedDateTime: 2021-01-13T23:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration/acting-u-s-attorney-general-warns-insurrectionists-against-further-attacks-idUSKBN29I1RZ"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547685892&r=LYNXMPEH0C1OH&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547699627&r=LYNXMPEH0C1TD&w=800"
         width: 800
         height: 533
         isCached: true
@@ -461,6 +461,6 @@ related:
         height: 630
         isCached: true
 
-secured: "wa33jgOHgrojOLlCzhkiNzJrrMmH1yjMvD84wNGcAmFJUEILSiVD4nSmFLXkpk8afxFCc1dd775vc2jPHgac06lwjJyktGSF/kpLlyAyjroztNNnPPj3KWd0O9P5xXqQE2sP56XJdwpKuDX4gX8PUJSWYvrNnoFQHjx+l9xjFHXSJ/nUmXWSfJs5YOa3WL6TEGniX2pzNu+eNWOZl8RDodCJ56Kfo22TKkjFCO+eAi+YybFqrqMR2y2PG/lb+BJ3FX/Ye7h/D+JS0De+qKLR9WXCaVuU2yDVLs/g622uHV9RrwWwDiOzxV+y2qXvYj5PXr3JI+igdvxaodclEPDxLGw4CRsR6Qgg9IjnB5gtPLs=;VC6oyKFhgTOTJRsJFojHjQ=="
+secured: "iT4Ohe3VocN7SODnVWcE65ejYyr689vVk8KmO8U2AcsucL/2/x0cJmJRCXHD/b9v8PEiJA0UkoAjQAPy0SAmLFBRE7mFGoYGhrnRKsCJYSIQkXpZm2OibqFTIlBll0mslRKXDoGYk+AGIKBv13VRNg05beuSvoAffQHFBZG1Px5JZsONOkZgzo0w3QXoKywKg6XOKrCfieRw94J/ckbm0bC0n/1NQgavN6+7yhd5pxI3bGNppLnqN3iv4Ppkd1Aidc5m+/URqV54zloc7xTQMj377OuImYjPktk4tIcFCz2KPOxXH1CCaw3Poy/BbmU2J/clDDDjuxoX82Q5HqN3KrVy4CkgTrYCspizcTF3emMuby0zfVECrBUXNg5/zmFtrh8OfOyEbQikNy1dRWaB6uLpo7dB2yatZJOItnvjxnWyhEN1Id3hCPICPLS0S2HnzQy3TmTXkzW07W9qNQ0MPC6CIhFDgF+PySIfM0XpxI/XTy+eqHtHePNiUt0JW4QxipCl5UhcyHyZTR+sHyOYVQ==;cKdAgLF9cY0UIg4r7dWU7A=="
 ---
 

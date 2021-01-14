@@ -399,6 +399,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Donald Trump impeached a second time over mob attack on US Capitol"
+    excerpt: "Ten Republicans support unprecedented second impeachment as Nancy Pelosi says Trump represents ‘clear and present danger’"
+    publishedDateTime: 2021-01-13T15:57:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/13/trump-impeached-again-president-history-capitol-attack"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/13/trump-impeached-again-president-history-capitol-attack"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/13/trump-impeached-again-president-history-capitol-attack"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a928c2acfc622cb8125691822fa9537f11ce4385/0_0_5473_3649/master/5473.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dc6d7bbb0a8760580bfd5d59c8959505"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Liz Cheney, No 3 House Republican, will vote to impeach Trump"
     excerpt: "Powerful conservative joins growing number of Republicans seeking accountability for president after Capitol attack"
     publishedDateTime: 2021-01-13T00:53:00Z
@@ -494,6 +510,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/d28f8b02a1054d115e0ac05d26edab5a385ca5de/0_137_5145_3087/master/5145.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cf6e6c648ae5a290ee7660700b84263d"
         width: 600
         height: 360
+        isCached: true
+  - title: "Here are all of the House Republicans who voted to impeach Donald Trump"
+    excerpt: "The House of Representatives has voted to impeach President Donald Trump-- making him the only president in American history to be impeached twice. Unlike his first impeachment in 2019, 10 Republicans joined Democrats to charge Trump for the \"incitement of insurrection\" for his role in the Jan."
+    publishedDateTime: 2021-01-13T22:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/house-republicans-voted-impeach-donald-trump/story?id=75235094"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/house-republicans-voted-impeach-donald-trump/story?id=75235094"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/house-republicans-voted-impeach-donald-trump/story?id=75235094"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/house-impeachment-dan-newhouse-ht-iwb-210113_1610567556296_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "How a 2nd Trump impeachment could differ from 1st"
     excerpt: "A possible second presidential impeachment would be unprecedented and come with different punishments if Trump is convicted."
@@ -654,6 +686,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JDFI23FDYAI6PLPBO3IGDVLO7I.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "McConnell says best for country to hold Senate trial after Trump leaves office"
+    excerpt: "After the House impeachment vote, Senate Majority Leader Mitch McConnell said it would be best for the country if a Senate trial were held after Trump leaves office."
+    publishedDateTime: 2021-01-14T00:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/mcconnell-best-country-hold-senate-trial-trump-leaves/story?id=75235663"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/mcconnell-best-country-hold-senate-trial-trump-leaves/story?id=75235663"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnell-best-country-hold-senate-trial-trump-leaves/story?id=75235663"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/mitch-mcconnell-gty-jef-210113_1610577152971_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Shopify unplugs Trump campaign e-commerce site, citing store's violence policies"
     excerpt: "Deadly protests at the U.S. Capitol Building prompted the Canadian company to remove Trump-related merchandise."
@@ -1163,6 +1211,20 @@ related:
         width: 728
         height: 485
         isCached: true
+  - title: "Even more Trump family members are reportedly moving to Florida"
+    excerpt: "Ivanka Trump and Jared Kushner bought property in Miami. Now Donald Trump Jr. and Kimberly Guilfoyle are eyeing area real estate, as is Tiffany Trump."
+    publishedDateTime: 2021-01-13T22:46:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-jr-kimberly-guilfoyle-tiffany-trump-move-florida-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/5fff77abfe7e140019f7ed6a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Siege was 'in the name of the Donald Trump': Rep. Cicilline"
     excerpt: "Rep. Cicilline. Posted . Democratic Congressman David Cicilline railed against President Donald Trump on Wednesday ahead of T"
     publishedDateTime: 2021-01-13T20:41:00Z
@@ -1663,6 +1725,38 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump Impeached By House For Second Time, 232-197"
+    excerpt: "The House of Representatives on Wednesday approved an article of impeachment against President Donald Trump for “incitement of insurrection.” After the riots that overtook the"
+    publishedDateTime: 2021-01-13T21:59:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeached-house-second-time-232-197-3121299"
+    ampWebUrl: "https://www.ibtimes.com/trump-impeached-house-second-time-232-197-3121299?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeached-house-second-time-232-197-3121299?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/us-president-donald-trump-says-impeachment-is-causing.jpg"
+        width: 1024
+        height: 684
+        isCached: true
+  - title: "Who Are The 10 Republicans That Voted To Impeach Donald Trump?"
+    excerpt: "Ten Republicans joined Democrats in the House on Wednesday to impeach Donald Trump, making him the first president to be impeached twice. The article of impeachment accused President Trump of \"incitement of insurrection."
+    publishedDateTime: 2021-01-13T23:26:00Z
+    webUrl: "https://www.ibtimes.com/who-are-10-republicans-voted-impeach-donald-trump-3121356"
+    ampWebUrl: "https://www.ibtimes.com/who-are-10-republicans-voted-impeach-donald-trump-3121356?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/who-are-10-republicans-voted-impeach-donald-trump-3121356?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/12/16/democrats-are-pressuring-the-senates-republican-leader-to-AFP_1N46R9.jpg"
+        width: 1024
+        height: 703
+        isCached: true
   - title: "WWE Legend Wants Donald Trump Out Of Hall Of Fame Following Capitol Coup"
     excerpt: "Mick Foley calls on the removal of Donald Trump from the Hall of Fame Vince McMahon has yet to respond to Foley and the U.S. Capitol riot Foley tells Trump to own up to the Capitol coup WWE legend Mick Foley decried the riot that took place at the Capitol Building in Washington D."
     publishedDateTime: 2021-01-07T06:35:00Z
@@ -1679,6 +1773,15 @@ related:
         width: 433
         height: 599
         isCached: true
+  - title: "Republicans Are Breaking Ranks on Impeachment. That's Good for Democrats — and Bad for Trump"
+    excerpt: "As the Democrats prepare to impeach Donald Trump for a second time, a few Republican votes could prove helpful for the Democrats. Here's why"
+    publishedDateTime: 2021-01-13T22:55:00Z
+    webUrl: "https://time.com/5929140/impeachment-republicans-donald-trump/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 74
   - title: "VIDEO: Trump Supporters Attempt To Storm Capitol Building, Clash With Police"
     excerpt: "Two buildings were evacuated near the Capitol due to \"police activity.\" Thousands of President Trump’s supporters had planned to gather in Washington for a “Stop The Steal”"
     publishedDateTime: 2021-01-06T19:14:00Z
@@ -1806,6 +1909,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/R4GKARIBANALJFNX67TOCVXQSY.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "How Tennessee's congressional delegation voted on a second impeachment of President Donald Trump"
+    excerpt: "President Trump is the only president to be impeached a second time, and the vote fell mostly along party lines. Here's how Tennessee's reps voted."
+    publishedDateTime: 2021-01-13T22:33:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/2021/01/13/trump-impeachment-tennessee-delegation/6628017002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/6628017002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6628017002"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 62
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/NHTN/1117d086-5684-43b6-ae52-cf0da7271039-AP21007634011678.jpg?auto=webp&crop=4515,2540,x0,y451&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Internet Reacts To Twitter's Donald Trump Ban With Memes; Netizens Watching Melania Trump's Account"
     excerpt: "Memes immediately followed Twitter's announcement that it has banned President Donald Trump's personal account permanently."
@@ -2074,6 +2193,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/08/14/us-speaker-of-the-house-nancy-pelosi-is.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "The House impeached Donald Trump over his speech before the Capitol attack. Here’s what happens next"
+    excerpt: "With the House voting to impeach President Donald Trump, the action moves to the Senate. It is not immediately clear when the Senate will begin a trial. • Most experts say that a trial can proceed after Trump is out of office if needed."
+    publishedDateTime: 2021-01-13T22:31:00Z
+    webUrl: "https://www.politifact.com/article/2021/jan/13/house-impeached-donald-trump-over-speech-capitol-a/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 40
+    images:
+      - url: "https://static.politifact.com/img/meter-true.jpg"
+        width: 438
+        height: 392
         isCached: true
 
 secured: "zHuFh919fRJpTiHvLg99POsl/GIP/r/eSyUXYDfAuyv5sSosckkOHUvo2WOifIfNzfDGPEYuDd5UnxAWihN6IYfCcVSVDH9ZTmVVibFfPlMWGPJ8iPXyCa2IGuJoSZIWjxt86xVjE43qWLOz0p9s8cKcboYPV/hydlTeT3f8VYMT1VATr7Q7aXjv5+H3gkphco5tlXmq9p9v0kguoHc/J6JTK3FMNiQ3zLyhmwi4lLeqjHAFkdLWZ0bbeP7PzS8JMh6ugCdwrMvemOiI/ShW6T+SXR6aF+a0PXUI0SoM43/dWaSoG+YUrFP911W03qO+VtGFvq/0M1aGzpYcL+mWHIFhPKaY53jm0YJqOgwzU0I=;aIRGOs8/0tZggIc4iNh4QA=="

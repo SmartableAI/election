@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/nikki-haley-trump/index.
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/nikki-haley-trump/index.html"
 type: article
 quality: 184
-heat: 224
+heat: 244
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112204819-trump-arrives-white-house-1112-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump denounces insurrection, after getting impeached over it"
+    excerpt: "The president, in a new video, called on his supporters not to engage in violent demonstrations that federal law enforcement warns might be brewing."
+    publishedDateTime: 2021-01-14T00:20:00Z
+    webUrl: "https://www.politico.com/news/2021/01/13/trump-denounces-capitol-attack-459074"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/37/08/1bda4a254d3bbd36d058b46e8994/210113-trump-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "How Josh Hawley Learned to Stop Worrying and Love Donald Trump"
     excerpt: "Until recently, the senator leading the charge to discredit Biden’s victory was a creature of the ultraconservative establishment. Then he discovered Trump’s faux populism."

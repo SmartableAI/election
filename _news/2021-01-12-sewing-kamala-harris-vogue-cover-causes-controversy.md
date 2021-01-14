@@ -121,6 +121,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "For Kamala Harris, being first means attention and attacks"
+    excerpt: "She will become the first woman, Black woman and Asian woman to be vice president, a position that has drawn criticism that will extend beyond her swearing-in."
+    publishedDateTime: 2021-01-14T00:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/kamala-harris-firsts-vice-president/2021/01/13/7e4ffc36-4171-11eb-9453-fc36ba051781_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/kamala-harris-firsts-vice-president/2021/01/13/7e4ffc36-4171-11eb-9453-fc36ba051781_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/kamala-harris-firsts-vice-president/2021/01/13/7e4ffc36-4171-11eb-9453-fc36ba051781_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SZJH4JCGJUI6TFFL2LO2HQG7KI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect Kamala Harris. The image shows Ms Harris wearing an informal outfit including jeans and a pair of Converse trainers."
     publishedDateTime: 2021-01-12T15:52:00Z
@@ -645,6 +661,6 @@ related:
         height: 630
         isCached: true
 
-secured: "9wg93evZWcx3V12grXd7+Jcaq9bhBQYB6hEaEvgAkMsMqh+AHAonjvZzwx+lRVUF7IZyE9pGhykRL+RGHw9O8b1YVYumQHWqgxpc5tfcsOUz3IqQryySJVPTnhm9jPQP42hqEeFpGDst2q8cLqlUEN443v2xk+UG9IwHln6qprMVor4yl4BaKTssKy5/OCopPUjwT/OrNsLdN+OPDBh5cwH5keMXPHrQt7gWDaOv8rIhqvqvF3imrP2SJU1eDvdzhD+rnEeHkTsbYJUlzfeadGn5rjHk7wVrlc2/7ZpPRoO1e83t9jEIFkjneTa4lkckjtXBn2fIjWT/5DOI8o72CfT9+Eksu1n8mFNbe0E3jK4=;91OGgZWCo0FUP+KEHbaqiw=="
+secured: "9WvYhPDW37mUq1FaCwv5kbZ2UTIhzS3+DsuMvN+rQ1a7K+E1K9BSzU2Q1OsDBuWPcUU/+Oj+I5bv+raF/aS2GUKS7Mbk4cZdqoL4Flx9qrDsTFsh2fCVDU8ae1YlacYLkVGYU/2wJyfG5DnNBJxkLURWV7OLGtWnS361eeSb840hgQ4j7Ni0tFkRKnh0AAB1pNPJoWkG4vjMXQ5HI9rrhfOBEAF1RkmwVtCaqiTEm9mlL6bR7SMqLchNFWkyMcsvQnIi0txoW565igZHZILbvz3xl79lgDHHJKd1skxyQk7mTdPR5JqBT1RsygjW1JKp0+gjOwN67tjNA2RtAwFV8umZf9eNSmo0jAW1CTgUOTrOOuBA+bXrvqdRb688EudkNJ4dAUBBzRA7TzRHVX19Krr2dJ2+4NdHNnTXnaQK1vEki/8ufjloaG0hxb8F8CbnE37cKYrvUu/IW4sWmyWJiF/3hqUBXAVB6VwK+20Z8S7YLML7Md3jR+3zx+yXGPKLP8RjRY6b2d/CpuqFLgMsrw==;1AoL+RaxrbAjGbquGvf4vQ=="
 ---
 

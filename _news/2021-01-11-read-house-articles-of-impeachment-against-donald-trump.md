@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House impeaches Trump for 'incitement of insurrection'"
+    excerpt: "The House is poised to make Donald Trump the first President in United States history to be impeached for a second time on Wednesday with a swift and bipartisan vote to condemn Trump's role inciting the riots at the US Capitol.\n    \n"
+    publishedDateTime: 2021-01-14T00:26:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GlA_Ue3yaj8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/house-vote-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/house-vote-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113140555-03-trump-impeachment-centered-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump defenders seek Cheney's ouster from House leadership over Trump's impeachment "
     excerpt: "Several House Republicans are hammering Rep. Liz Cheney, the party's third-ranking House leader, calling for her to step down from her leadership position over her intention to vote to impeach President Donald Trump.\n    \n"
     publishedDateTime: 2021-01-13T20:38:02Z
