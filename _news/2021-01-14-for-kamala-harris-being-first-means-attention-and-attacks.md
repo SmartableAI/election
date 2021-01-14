@@ -111,6 +111,22 @@ related:
         width: 840
         height: 1050
         isCached: true
+  - title: "Kamala Harris team says it was blindsided by VP-elect’s Vogue cover"
+    excerpt: "Vice President-elect Kamala Harris has landed on the cover of the February issue of Vogue magazine, but her team says there’s a problem: the shot of the country’s soon-to-be No. 2 leader isn’t what both sides had agreed upon,"
+    publishedDateTime: 2021-01-11T14:46:00Z
+    webUrl: "https://www.chicagotribune.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vogue's cover photos of Kamala Harris spark racial controversy"
     excerpt: "Vice President-elect Kamala Harris stepped into the fashion realm as the cover star of American Vogue’s February issue. Initially, the photoshoot seemed like a progressive step toward increased representation for women of color in high fashion media,"
     publishedDateTime: 2021-01-11T15:56:00Z
@@ -407,22 +423,6 @@ related:
         isCached: true
   - title: "Kamala Harris team says it was blindsided by VP-elect’s Vogue cover"
     excerpt: "Vice President-elect Kamala Harris has landed on the cover of the February issue of Vogue magazine, but her team says there’s a problem: the shot of the country’s soon-to-be No. 2 leader isn’t what both sides had agreed upon,"
-    publishedDateTime: 2021-01-11T15:46:00Z
-    webUrl: "https://www.baltimoresun.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 75
-    images:
-      - url: "https://www.baltimoresun.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Kamala Harris team says it was blindsided by VP-elect’s Vogue cover"
-    excerpt: "Vice President-elect Kamala Harris has landed on the cover of the February issue of Vogue magazine, but her team says there’s a problem: the shot of the country’s soon-to-be No. 2 leader isn’t what both sides had agreed upon,"
     publishedDateTime: 2021-01-11T17:38:00Z
     webUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
     ampWebUrl: "https://www.courant.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
@@ -665,6 +665,6 @@ related:
         height: 630
         isCached: true
 
-secured: "a7JKoSHwminvyYZHocJQ02YVPlkuWAm7opks2OMkWY+U4EhmaEIlxEzlbLCsIbDN3eoT6NX66QIp6MjJrKIZBIdE8vyj0yYiYREoZTQYOGLKHbQVynUbadI4hdPq9RPAlxIE9EVj75uEOBvqOvZqEo8jgXdznoveO4U1UwpYFz3Kj7GEXq4kDxHns2lmtnb1CHSwSlYbt9tqQlB+pwUKkRJIs5NUk5/f13VMyQkLo6M7rQaHmF0lufsXetKw+FYivjgTHOrUsqFRk6KaQoWsWEBMk8lGRJ5czLiaiZ9cxwJfNTU4V0bsVQPcsvOO+pswkxNGvmt+7fFuK7j4aUV5n0KM4HH5FYRsdVnB7bp6CGg=;jZqiOVPApmGtbPHUBsY1QQ=="
+secured: "jmMgHpiQpMwMSo9OLzJbgDdXQp3ORV3Nealvwvn1CROpIajB/O5ijZAH2txEwdUidM9DPvqxfUjmkOnGf1j9yQaYZ8FfXn0iaGcIIOC1y2GD9JGavO1nIyAwBNSqJIRa8QXRmlPxk1dbgO2NwMjWbIeViROZjX/0bwynSSgSrUDq2eDfZxtreg5eWKfgICo9CBb+sGudZIU36mgbAJGDQjys4M4jlrfiJbY/me7wvHL0YQY7KQLT0O68j049R98n2rxxthtFGSQLP7P4MdIfT7PrrUqE7HNh7vg6Q2WqpQXQIbWJJifzPbSUvEYohETBFKcIiX4zk/UNgY2Vqn87d7SIcQJ2NEX2Xe9ZV8tEr4RGsDtwdTlmS1+yhQv/45G/Cd5mikiiXc4bzSsOZLJt4uUyO9pq1mP6O1C5dRxdkECY3fBu4MTQCGvklV7AXsEFzUW2VS2uVVRvlBTQQEkRshDhJkLvYWrBDyJaYP7FRwYLkvPzyw/F0RPDv33NzyYD39StIUlz01G23sndccz03Q==;S7rw6U7sA0sRlsM5ksiAxw=="
 ---
 

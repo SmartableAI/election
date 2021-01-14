@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/in-breaking-with-trump-pence-does-w
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/in-breaking-with-trump-pence-does-what-he-believes-in.amp"
 type: article
 quality: 199
-heat: 779
+heat: 799
 published: true
 
 provider:
@@ -269,6 +269,22 @@ related:
     quality: 166
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Nancy-Pelosi-Trump-impeachment-speech-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "What a Senate impeachment trial could mean for Trump - and why it might not happen at all"
+    excerpt: "President Trump could face some unpleasant consequences from an impeachment trial if he is convicted, but the proceedings may never begin."
+    publishedDateTime: 2021-01-14T02:36:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xgDYgSurEMo/trump-impeachment-after-leaving-office"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-after-leaving-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-after-leaving-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21003104274091.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

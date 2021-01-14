@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Anna Wintour Addresses Backlash Over Kamala Harris' Controversial Vogue Cover"
+    excerpt: "Chief Anna Wintour has spoken out about the magazine’s controversial February cover, which features Vice President-elect Kamala Harris in a photo that drew backlash from critics on social media. The iconic fashion magazine and Wintour herself came under fire when the cover was leaked online late Saturday."
+    publishedDateTime: 2021-01-14T02:54:00Z
+    webUrl: "https://www.nbcnewyork.com/news/local/anna-wintour-addresses-backlash-over-kamala-harris-controversial-vogue-cover/2830416/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/local/anna-wintour-addresses-backlash-over-kamala-harris-controversial-vogue-cover/2830416/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/anna-wintour-addresses-backlash-over-kamala-harris-controversial-vogue-cover/2830416/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 72
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/GettyImages-472382940.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris' team says they were blindsided by controversial Vogue cover; Twitter unhappy"
     excerpt: "Vice President-elect Kamala Harris is splashed on the February cover of Vogue, but social media isn't crazy about the magazine's photo choice."
     publishedDateTime: 2021-01-12T06:04:00Z

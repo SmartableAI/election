@@ -559,6 +559,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden calls on Senate to pursue impeachment along with the nation's 'other urgent business'"
+    excerpt: "President-elect Joe Biden on Wednesday urged the Senate to conduct the impeachment trial of President Donald Trump while simultaneously working on other critical issues, indicating a desire to settle the proceedings against Trump that are likely to remain unresolved when Biden takes office.\n    \n"
+    publishedDateTime: 2021-01-14T02:04:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lSbhejvFHOw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/biden-senate-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/biden-senate-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113180137-biden-police-race-thumb-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's pick for defense secretary will face first confirmation test before Inauguration Day "
     excerpt: "President-elect Joe Biden's pick for Defense Secretary, retired Gen. Lloyd Austin, will face his first test on the path to confirmation when he appears before the Senate Armed Services Committee later this month in a hearing that is scheduled to take place less than 24 hours before Biden's own inauguration.\n"
     publishedDateTime: 2021-01-07T23:33:55Z
@@ -668,6 +684,22 @@ related:
     quality: 160
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108140605-01-inauguration-preparations-0107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden aides told congressional allies to expect Covid relief package with roughly $2 trillion price tag"
+    excerpt: "President-elect Joe Biden is expected to unveil a major Covid-19 relief package on Thursday and his advisers have recently told allies in Congress to expect a price tag in the ballpark of $2 trillion, according to two people briefed on the deliberations.\n    \n"
+    publishedDateTime: 2021-01-14T02:34:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/maB4xbIpYvY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/biden-covid-relief-package/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/biden-covid-relief-package/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106161252-01-biden-remarks-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

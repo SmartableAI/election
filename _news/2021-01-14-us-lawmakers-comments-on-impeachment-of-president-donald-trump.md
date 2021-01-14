@@ -1,28 +1,32 @@
 ---
 category: news
-title: "U.S. Lawmakers' Comments on Impeachment of President Donald Trump"
-excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump. HOUSE RULES COMMITTEE CHAIR JIM MCGOVERN, DEMOCRAT OF MASSACHUSETTS \"We are debating this historic measure at an actual crime scene and we wouldn't be here if it weren't for the president of the United States."
-publishedDateTime: 2021-01-14T00:23:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-01-13/reactions-to-the-impeachment-of-us-president-donald-trump"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-13/reactions-to-the-impeachment-of-us-president-donald-trump"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-13/reactions-to-the-impeachment-of-us-president-donald-trump?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-13/reactions-to-the-impeachment-of-us-president-donald-trump?context=amp"
+title: "U.S. lawmakers' comments on impeachment of President Donald Trump"
+excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump. Unless noted otherwise, remarks were made on the House floor."
+publishedDateTime: 2021-01-14T01:54:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-quotes/u-s-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
+webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/u-s-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547688231&r=LYNXMPEH0C15H&w=800"
+    width: 800
+    height: 540
+    isCached: true
 
 related:
   - title: "Top Republican says Trump committed 'impeachable offenses'"
@@ -163,6 +167,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "UH5HiF7drg1cjl+6Dba2Rw5ATk5whQM3/9aaTGc52lPuKe/ta8veWMm3JiBDxDni///MBDrn7rHnA0DJ+qpCfplqfTiKqlURnBJUFWScg0ErbDvkGoz4ysNvjuXRXdLz4tnZ+SU0+fXETs5iB7YTbJA9K6otBVKbT3LHOYmlAxH8h2CNMNo0+f6r3Mabiw3ehOBFgpkURn0Ws7uUo3dTOBpGhQTUHnhJPGkIeZhYWte0qTpwA7ag51YsGrsUIPJn+NpYiG6sH29VvDrEDPPOSSD01RLSIGGyVNjPOMAb9otJJu4jOb3uCfBlfceOCmKOyu6ijLYv8//BFEAc3wmCFjTerVajr0f9BxdBSc0gS/wun1Aw5NCztl/DdVLqAnOJerCgJN89pI/8zzXUJcYQ9Rn17nxeXNxLbos/3/ZD606a20lYmGuCu57y/vIru8UczQcXUlnK1l3MNYeDybiGqSBXkrtXNmrQkdjS6xavSkMqle00o089LI+wN1Yo9OVAWz6NhlJs1t2YY0QYdmD9/A==;fD5bpgXiecUioQuz+JN5aQ=="
+secured: "SU+Utaj2A/O6kq/KIucaa8RKkP6iXmOdWGgKg1J+IiKLAqTb23L+k4UJcCr2yB3ypfg5mKLxy1XuDVhgKCPdr1hNk94fbp6xrfiZgIh4/y1swqsdo1oJ7Rx4MlFz3t7EsWsKIdk4vDCip8cmXB68Z3nZJoGAJE77/X0+pRP3uGkOSbV9k015V+ytMhK4hQrjYqyB+26nxLJ5mRmnrQBOKm+oZN6pQNTadrkRf4PfG+XDrAWl6NqmZGjpFJiAwLwdlEB8weE4xSkee0OPty/NRR2XTSDBfd7jsCh1C+BPPPKbqjRzFnLqea8qJKGyXeclawO+rzVaiXsTq/ysFjGSIpMwVffGF0WT+SddTV5pLVg=;uZuUQzcTPf9VyxwukBAQAw=="
 ---
 

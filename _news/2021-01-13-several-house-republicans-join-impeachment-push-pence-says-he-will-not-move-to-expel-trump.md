@@ -3,8 +3,8 @@ category: news
 title: "Several House Republicans join impeachment push; Pence says he will not move to expel Trump"
 excerpt: "At least four Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
 publishedDateTime: 2021-01-13T08:02:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump/several-house-republicans-join-impeachment-push-pence-says-he-will-not-move-to-expel-trump-idUKKBN29H2MG"
-webUrl: "https://www.reuters.com/article/uk-usa-trump/several-house-republicans-join-impeachment-push-pence-says-he-will-not-move-to-expel-trump-idUKKBN29H2MG"
+originalUrl: "https://www.reuters.com/article/us-usa-trump/tempers-flare-as-democrats-race-to-impeach-trump-over-capitol-rampage-idUSKBN29H0JJ"
+webUrl: "https://www.reuters.com/article/us-usa-trump/tempers-flare-as-democrats-race-to-impeach-trump-over-capitol-rampage-idUSKBN29H0JJ"
 type: article
 quality: 110
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547541869&r=LYNXMPEH0B1HG&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
     width: 800
     height: 533
     isCached: true
@@ -573,6 +573,22 @@ related:
         width: 2686
         height: 1607
         isCached: true
+  - title: "The 10 Republicans who voted to impeach Donald Trump"
+    excerpt: "Ten House Republicans joined every Democrat in voting yes, in the most bipartisan impeachment in US history"
+    publishedDateTime: 2021-01-13T18:10:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/13/republicans-donald-trump-impeached-house"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/13/republicans-donald-trump-impeached-house"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/13/republicans-donald-trump-impeached-house"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/3e833b95768343260cef5d8f79340a35c7cd47ef/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=eb1a9cf30071291588c43d216f6e8b14"
+        width: 600
+        height: 360
+        isCached: true
   - title: "The Donald Trump Advisers Who Brought On the Capitol Riot"
     excerpt: "President Trump and his inner circle thought they were winning the post-election political battle. \"Then all hell broke loose,\" said a longtime aide."
     publishedDateTime: 2021-01-13T20:18:00Z
@@ -813,10 +829,26 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Voting begins in US House on impeaching President Donald Trump over riot at Capitol"
+    excerpt: "Voting begins in US House on impeaching President Donald Trump over riot at Capitol. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission."
+    publishedDateTime: 2021-01-14T01:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/voting-begins-in-us-house-on-impeaching-president-donald-trump-over-riot-at-capitol/2021/01/13/a20c7d50-55e1-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/voting-begins-in-us-house-on-impeaching-president-donald-trump-over-riot-at-capitol/2021/01/13/a20c7d50-55e1-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/voting-begins-in-us-house-on-impeaching-president-donald-trump-over-riot-at-capitol/2021/01/13/a20c7d50-55e1-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Donald Trump becomes the first US president to be impeached for a second time – live"
-    excerpt: "Ten House Republicans join Democrats to impeach president on charge of incitement of insurrection after violent riot at US Capitol"
-    publishedDateTime: 2021-01-13T20:37:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates?page=with:block-5fff68128f0853a2a9aab40d"
+    excerpt: "Ten House Republicans join Democrats to impeach president on charge of incitement of insurrection after violent riot at US Capitol – follow all the latest"
+    publishedDateTime: 2021-01-14T00:05:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
     type: article
@@ -825,7 +857,7 @@ related:
       domain: theguardian.com
     quality: 118
     images:
-      - url: "https://i.guim.co.uk/img/media/eb867cdd52658d2266660401b1c9f99246e73296/0_373_4083_2449/master/4083.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=89c7066968c7c854d22b0603b710fb0c"
+      - url: "https://i.guim.co.uk/img/media/4192e7fffa7263b4b8614f7ab9bfba294bac7182/0_74_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6ea47a3966825d290d4f5b830fa273c8"
         width: 600
         height: 360
         isCached: true
@@ -1225,6 +1257,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Reactions to the impeachment of U.S. President Donald Trump"
+    excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump."
+    publishedDateTime: 2021-01-13T19:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/u-s-lawmaker-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547688231&r=LYNXMPEH0C15H&w=800"
+        width: 800
+        height: 540
+        isCached: true
   - title: "Siege was 'in the name of the Donald Trump': Rep. Cicilline"
     excerpt: "Rep. Cicilline. Posted . Democratic Congressman David Cicilline railed against President Donald Trump on Wednesday ahead of T"
     publishedDateTime: 2021-01-13T20:41:00Z
@@ -1372,6 +1418,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/16/vice-president-mike-pence-is-coming-out-from.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "President Donald Trump impeached by US House for incitement of insurrection at Capitol; 1st US president impeached twice"
+    excerpt: "President Donald Trump impeached by US House for incitement of insurrection at Capitol; 1st US president impeached twice"
+    publishedDateTime: 2021-01-14T02:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/president-donald-trump-impeached-by-us-house-for-incitement-of-insurrection-at-capitol-1st-us-president-impeached-twice/2021/01/13/c965b654-55e7-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/president-donald-trump-impeached-by-us-house-for-incitement-of-insurrection-at-capitol-1st-us-president-impeached-twice/2021/01/13/c965b654-55e7-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/president-donald-trump-impeached-by-us-house-for-incitement-of-insurrection-at-capitol-1st-us-president-impeached-twice/2021/01/13/c965b654-55e7-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 100
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "After Capitol rampage, Pelosi calls on Trump to resign and Twitter deletes his account"
     excerpt: "House Speaker Nancy Pelosi on Friday called on President Donald Trump to resign and Twitter permanently suspended his account citing a risk that he could incite more violence, two days after a crowd of Trump supporters stormed the U."
@@ -1846,6 +1908,22 @@ related:
         width: 1024
         height: 661
         isCached: true
+  - title: "Snapchat Permanently Bans Donald Trump For Spreading Misinformation, Inciting Violence"
+    excerpt: "Snapchat has permanently banned Donald Trump from its platform after assessing what could happen if he were to continue spreading misinformation and inciting violence online."
+    publishedDateTime: 2021-01-14T02:36:00Z
+    webUrl: "https://www.ibtimes.com/snapchat-permanently-bans-donald-trump-spreading-misinformation-inciting-violence-3121463"
+    ampWebUrl: "https://www.ibtimes.com/snapchat-permanently-bans-donald-trump-spreading-misinformation-inciting-violence-3121463?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/snapchat-permanently-bans-donald-trump-spreading-misinformation-inciting-violence-3121463?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/the-cancelled-diplomatic-trips-round-off-four-tumultuous.jpg"
+        width: 1024
+        height: 677
+        isCached: true
   - title: "The ‘treason finale’ of the Donald Trump era: Late night hosts react to U.S. Capitol riots"
     excerpt: "Late night television hosts often give their take the days events with humor. But Wednesday night was no laughing matter as Jimmy Fallon, Stephen Colbert and their fellow network hosts reacted to the mob of violent Trump supporters storming the U."
     publishedDateTime: 2021-01-07T23:44:00Z
@@ -2209,6 +2287,6 @@ related:
         height: 392
         isCached: true
 
-secured: "4VVHoSslvSMmILLXobZMIKmFIzsgJeHHRnsuC2tq5uYSdZ7JG260lGLFW6s06ZU/PwdLLreNtq/QTx1pOYIFxd1b8WH6Y/J0yDQc2kp1pcgj8OE6qextlNNkcnPYjGh61URG43BXP68vMJw9lp6frD/gw4Ijh9eOw263cvVSP2AGE4sh8uyNCymaYupQso4ZFdRR4DNru67mXhR5Gky3ub2Q350iPZjnfAPHysqX4Vo6kcxCtSD8Ygr6GSIhdyI5eTCnY9/pcPdaN+ZYyyu42VtcFFNG63/7rhgAzKos3XYleh3DHX7pDDkyOM5WHU1TwTSqpxCXpYxH4e626uu0P2eRU9kSU8Oj5dF6zrIqfN8=;gt7X80oJM0RHYp0uLXLFDw=="
+secured: "B3YFKn3Nu8ZGvgtNH5sVvyXsNkOP7djNQMl7yS5rVPn/j9KD72YL/bDfp4iRjNj0jcuKthUuzRHlHSlUGUFrvSpV8LXXG2PYlnGmFKDUt5VQDAG5UliyWys+ezvKHtBVGvRDO/EWAl+FsRQGuEXd13oUJ3RzpJgTnmUGT+C/mOmztC3ZpYVXffSp2VNga1wEdA/5z/mBbHsUyi8C1ywNACH56w7IIpOZ5oZm5THA2qQ2DDyqHbCGneE/VSUqHYhWCbbi0tZIbR8ZzJaAVsI9qmY5UM7jeHNrYsjhuKMp5KJAeDZWe3AtAAmpEV9OtNQ/XXHOxr/Hv5txt0/WqN3iYOtgkGLjW/OjNL8EOfXc7eY=;V75cpPrvkGJphup6waP1og=="
 ---
 

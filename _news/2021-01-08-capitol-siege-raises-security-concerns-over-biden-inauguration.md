@@ -319,6 +319,22 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "Biden team prepares push for new COVID relief bill expected to cost trillions"
+    excerpt: "Transition officials spoke with congressional staffers about Biden's priorities for a bill with a multi-trillion-dollar price tag."
+    publishedDateTime: 2021-01-14T02:40:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-team-prepares-push-for-new-covid-relief-bill/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-team-prepares-push-for-new-covid-relief-bill/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-team-prepares-push-for-new-covid-relief-bill/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/13/87ab6c33-11eb-45c7-89c4-562b351813be/thumbnail/1200x630/e7b614cfa8085ecb41e2d17d79ea1643/gettyimages-1206811778.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Insurrection adds to full plate of calamities Biden will face as he takes office"
     excerpt: "The president-elect’s team says his focus remains on the coronavirus and economic crises, but he will work to unify the country as he promised during the campaign."
     publishedDateTime: 2021-01-12T11:10:00Z
@@ -653,6 +669,36 @@ related:
     quality: 101
     images:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547195465&r=LYNXMPEH0807K&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Cook County Public Defender Amy Campanelli’s message to President-elect Joe Biden: Defund ICE, halt deportations for a year"
+    excerpt: "Cook County Public Defender Amy Campanelli joined a coalition of colleagues across the U.S. on Wednesday calling on President-elect Joe Biden to immediately begin a one-year pause in deportations and defund the U."
+    publishedDateTime: 2021-01-14T01:43:00Z
+    webUrl: "https://www.chicagotribune.com/politics/ct-amy-campanelli-cook-county-public-defender-biden-immigration-20210114-vor23a2fpzeinf2yantlvjn6ci-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/politics/ct-amy-campanelli-cook-county-public-defender-biden-immigration-20210114-vor23a2fpzeinf2yantlvjn6ci-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-amy-campanelli-cook-county-public-defender-biden-immigration-20210114-vor23a2fpzeinf2yantlvjn6ci-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 99
+    images:
+      - url: "https://www.chicagotribune.com/resizer/UsVE9jTzMGhD7Iov-DxF00nrQto=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/WE7ZRZIPSZCINMPPJQW6XPNUAM.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden says he hopes Senate leadership will work on other business during impeachment"
+    excerpt: "U.S. President-elect Joe Biden on Wednesday called on Senate leadership to work on other business while dealing with their responsibilities on impeachment after a House of Representatives vote that made Donald Trump the first U."
+    publishedDateTime: 2021-01-14T01:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-biden/biden-says-he-hopes-senate-leadership-will-work-on-other-business-during-impeachment-idUSKBN29J053"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547715105&r=LYNXMPEH0D03T&w=800"
         width: 800
         height: 533
         isCached: true

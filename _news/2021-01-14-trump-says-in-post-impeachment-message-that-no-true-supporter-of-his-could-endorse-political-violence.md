@@ -287,6 +287,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "What a Senate impeachment trial could mean for Trump - and why it might not happen at all"
+    excerpt: "President Trump could face some unpleasant consequences from an impeachment trial if he is convicted, but the proceedings may never begin."
+    publishedDateTime: 2021-01-14T02:36:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xgDYgSurEMo/trump-impeachment-after-leaving-office"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-after-leaving-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-after-leaving-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21003104274091.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "President Trump urges protesters to be peaceful after they clash with police, breach Capitol"
     excerpt: "Amidst chaos and violence at Capitol Hill Wednesday in support of the president, Trump and his son Donald Trump Jr. urged peace among protesters who had forced their way into the capitol building. "
     publishedDateTime: 2021-01-06T20:49:15Z

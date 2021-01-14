@@ -1836,6 +1836,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Live updates: Pence says he will not invoke 25th Amendment to remove Trump from office"
+    excerpt: "Pence’s letter comes as House Democrats are calling on him to invoke the 25th Amendment or they will begin impeachment proceedings."
+    publishedDateTime: 2021-01-14T02:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/12/live-politics-updates-house-resume-efforts-oust-president-trump/6626864002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6626864002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6626864002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 132
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/USAT/8da3ecef-a6bb-4db4-97a3-49e327800c5a-VPC_PENCE_SOT_DESK.00_00_21_20.Still005.jpg?auto=webp&crop=1747,983,x16,y92&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Georgia elections board member says Trump could be charged for soliciting election fraud"
     excerpt: "The sole Democrat on Georgia’s state Board of Elections said has called for a civil and criminal probe in a call in which President Trump pressured Secretary of State Brad Raffensperger to “find” more votes for him."
     publishedDateTime: 2021-01-04T13:44:00Z

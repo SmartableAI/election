@@ -1836,6 +1836,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Live updates: Pence says he will not invoke 25th Amendment to remove Trump from office"
+    excerpt: "Pence’s letter comes as House Democrats are calling on him to invoke the 25th Amendment or they will begin impeachment proceedings."
+    publishedDateTime: 2021-01-14T02:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/12/live-politics-updates-house-resume-efforts-oust-president-trump/6626864002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6626864002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6626864002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 132
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/USAT/8da3ecef-a6bb-4db4-97a3-49e327800c5a-VPC_PENCE_SOT_DESK.00_00_21_20.Still005.jpg?auto=webp&crop=1747,983,x16,y92&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pence's former top aide said that Trump is 'encouraging' violence on the day Congress votes to seal the 2020 presidential election results"
     excerpt: "President Trump has promised his supporters there would be a \"wild\" rally in the capital on the day of Congress votes to approve the election result."
     publishedDateTime: 2020-12-30T14:52:00Z

@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-09-biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis.md",
+      "title": "Biden says Cruz, Hawley part of ‘big lie’ -- while senators claim they are being called Nazis",
+      "excerpt": "President-elect Joe Biden said Friday that Sens. Ted Cruz, R-Texas, and Josh Hawley, R-Mo., should be \"flat beaten\" in their next elections for their part in spreading \"the big lie,\" a term the senators said was an effort to cast them as Nazis. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F_1wZtRHnVg/biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F_1wZtRHnVg/biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/BidenCruz.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis.amp",
+      "publishedDateTime": "2021-01-08T17:15:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-squad-member-compares-trump-twitter-ban-to-capture-of-saddam-hussein.md",
       "title": "Squad member compares Trump Twitter ban to capture of Saddam Hussein",
       "excerpt": "Rep. Jamaal Bowman, D-N.Y., reacted to Twitter banning President Trump from its platform by posting famous video footage of a U.S. official announcing the capture of former dictator Saddam Hussein during the Iraq war.",
@@ -1280,62 +1336,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-haley-tells-gop-not-to-shy-away-from-trump-era-gains-but-calls-his-recent-conduct-deeply-disappointing.md",
-      "title": "Haley tells GOP not to ‘shy away’ from Trump-era gains, but calls his recent conduct 'deeply disappointing'",
-      "excerpt": "Former U.N. Ambassador Nikki Haley on Thursday hailed the “extraordinary gains” for the United States during President Trump’s time in office and warned Republicans not to “shy away” from them -- while at the same time calling his post-Election Day conduct “deeply disappointing.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CuZvPr02aUA/haley-gop-trump-era-gains-conduct-disappointing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CuZvPr02aUA/haley-gop-trump-era-gains-conduct-disappointing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5850a575-b1ba-40c2-b8ec-86539591b249/df0f5648-1d79-460c-aad0-95e350db5c48/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/haley-gop-trump-era-gains-conduct-disappointing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-gop-trump-era-gains-conduct-disappointing.amp",
-      "publishedDateTime": "2021-01-07T18:29:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

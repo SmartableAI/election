@@ -2,26 +2,30 @@
 category: news
 title: "Kamala Harris team says it was blindsided by VP-elect’s Vogue cover"
 excerpt: "Vice President-elect Kamala Harris has landed on the cover of the February issue of Vogue magazine, but her team says there’s a problem: the shot of the country’s soon-to-be No. 2 leader isn’t what both sides had agreed upon,"
-publishedDateTime: 2021-01-11T15:46:00Z
-originalUrl: "https://www.baltimoresun.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
-webUrl: "https://www.baltimoresun.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
-ampWebUrl: "https://www.baltimoresun.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+publishedDateTime: 2021-01-11T14:46:00Z
+originalUrl: "https://www.chicagotribune.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
+webUrl: "https://www.chicagotribune.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html"
+ampWebUrl: "https://www.chicagotribune.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/ct-ent-kamala-harris-vogue-cover-20210111-43cxezdjorax5emseqgiscfhvm-story.html?outputType=amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
+  - url: "https://www.chicagotribune.com/resizer/n_fDK75vPntDqpVNGGiApZj30U4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UJA3UD4TUUAFLUHWQERPRDZGTE.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -661,6 +665,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ts2pCEeuwCQblLP/oF5yn9bJYbFLIAG0TH5pMe/pk7R8K+UehYt8oisPxiUjbiG0CF3nQr4d5rWGp3e/nKE+38E7IpFMRmleNd25RFB6QmHum2KH0ba+H7NqxFUzZG700XDzdsr1MC7iV/A6IDV47cxOpuBcSsrrpvP1RP23K16amMvc+dO1zF12onnUrzrNlkMLPS8mvS9BGW+/oAeTX8L/0xXXWE9x86B5Ad0WgB4CoxAZXg7ENL/U4h8Q+114b1gzhdzn2dhwQXBOlfqzUlJbfradP8whXh7xf38WwVF9t8q6NP2s8YaqtHf4KqsIv2wEvnqBwpxc8R6e+gkIXV2QW268zFWoM9MNkGaMNpo=;L+JhEbOQ15/ngFiThz47ug=="
+secured: "fGqRJ/WiCfFQr8eQJxwkbOVhonzlXqkq/Tsf4eV9OtBBqA8JLo++Of0DdDLbi/0GA+rnC290WYrAGwrF1/Toz+Q/dPvgC9wrw4uZj2ivdqMGs5LLvXtWD6z0B0Us/eZ9EegQfe6zlNVMYS2gDjbDcDaIvdIxbp4c3oQaYVIm7JJy/VaUXQczKq/g79PsBrm0bb88ShTs/sHXAcXvJ/qGC/skn7d9hnYi8LHxxyJ/jA+vGfaOtK3u2N9vqmKHRYk0OjD7Xo6l6dDTWX48etarwWYGI0rnZUAV0l5XMjkEpQN6SBlpjTkB4xmVgshIiZ7HaM1KQKKKQn/LJQXo1/RfzFjwjLlz98KeqYcVx6Gkfi4=;UqfSTvbn3DutajlNN/oUdQ=="
 ---
 
