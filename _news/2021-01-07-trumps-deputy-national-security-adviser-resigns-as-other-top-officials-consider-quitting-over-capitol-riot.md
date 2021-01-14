@@ -127,6 +127,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump Impeached for Inciting Insurrection"
+    excerpt: "President Trump became the first president to be impeached twice, after the House approved a single charge citing his role in whipping up a mob that stormed the Capitol. He faces a Senate trial that could disqualify him from future office."
+    publishedDateTime: 2021-01-14T02:42:00Z
+    webUrl: "https://www.nytimes.com/2021/01/13/us/politics/trump-impeached.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/13/us/politics/trump-impeached.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/13/us/politics/trump-impeached.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/13/us/politics/13dc-impeach-top/13dc-impeach-top-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "TsLC+MXp4PEgYBLHFTFQLu1MG/u0N8jxAhJ9oajs+55T9KUGcpHVO3xjNlkbuZkZU47Q6+6UXLqWtc4OS/ERq6YVSzW3ela2P5POhb7y8hz/5cVrYpPCBlprhdr/OLO5aTSWsHRsBWVpmKnNQbRXTDze2cBe8g/e1JhpKwqYjzY61cy04FFdoggEAOHPHoRj5UGZ1aR2RdD2JuPh8WApHWAYuYJ7Bq7TRhytrTphUHw8NsdkG0obLn3wEFwMHGgAIoahCSRXc0zYN6R/1K7IM/6mPvNhdq1P0t/RN8ZMPe1UCnpUfQBXE0QoMCVBAxisgZL4nPtzQq1ixb/zGujKRTGnqKj4ibbu1jV4/HjtukE=;AT1JRp6wo4MhTDFRHcO0GQ=="
 ---

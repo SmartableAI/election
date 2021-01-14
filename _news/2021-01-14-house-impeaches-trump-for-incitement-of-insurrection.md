@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump has told staff not to pay Rudy Giuliani over irritation at being impeached again"
+    excerpt: "President Donald Trump, irritated at being impeached for a second time, has told people to stop paying Rudy Giuliani's legal fees, a person familiar with the matter tells CNN, though aides were not clear if the President was serious about his instructions given he's lashing out at nearly everyone after"
+    publishedDateTime: 2021-01-14T04:04:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EF5AViWHJgM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/donald-trump-rudy-giuliani-legal-fees-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/donald-trump-rudy-giuliani-legal-fees-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump faces shameful prospect of second impeachment with Democrats set to move quickly this week"
     excerpt: "Donald Trump is facing the shameful, imminent prospect of becoming the first president to be impeached twice as Democrats warn he poses an unacceptable danger to the world after inciting a mob assault on Congress.\n    \n"
     publishedDateTime: 2021-01-11T06:27:14Z

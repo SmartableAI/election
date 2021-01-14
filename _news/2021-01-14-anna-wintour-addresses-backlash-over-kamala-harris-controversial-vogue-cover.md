@@ -3,8 +3,8 @@ category: news
 title: "Anna Wintour Addresses Backlash Over Kamala Harris' Controversial Vogue Cover"
 excerpt: "Chief Anna Wintour has spoken out about the magazine’s controversial February cover, which features Vice President-elect Kamala Harris in a photo that drew backlash from critics on social media. The iconic fashion magazine and Wintour herself came under fire when the cover was leaked online late Saturday."
 publishedDateTime: 2021-01-14T02:54:00Z
-originalUrl: "https://www.nbcnewyork.com/news/local/anna-wintour-addresses-backlash-over-kamala-harris-controversial-vogue-cover/2830416/"
-webUrl: "https://www.nbcnewyork.com/news/local/anna-wintour-addresses-backlash-over-kamala-harris-controversial-vogue-cover/2830416/"
+originalUrl: "https://www.nbcnewyork.com/news/local/anna-wintour-addresses-backlash-over-kamala-harris-controversial-vogue-cover/2830416/?amp"
+webUrl: "https://www.nbcnewyork.com/news/local/anna-wintour-addresses-backlash-over-kamala-harris-controversial-vogue-cover/2830416/?amp"
 ampWebUrl: "https://www.nbcnewyork.com/news/local/anna-wintour-addresses-backlash-over-kamala-harris-controversial-vogue-cover/2830416/?amp"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/anna-wintour-addresses-backlash-over-kamala-harris-controversial-vogue-cover/2830416/?amp"
 type: article
@@ -140,6 +140,6 @@ related:
         height: 675
         isCached: true
 
-secured: "1h0TV+izia1uqk5Y0fkk7XC+dnUSj+C7i5elwWhCdV+aOhHlSeiwAyAYTpCi62iiZmsNKKLCBExmkcEeP9EzV6MNPhbhMaOxkj03UlBzN4Ml5QQOQIFuObp0ys7gkYy6lTjFlTkP/BAIdbRGK3BUaka0aSVohHoUk/winSkKpk6vVFF6E71i3ZFdOk7PUMwfjynti4ymJoBmQnd/sREWEbdCCRqpNAeo1SVvpoUZhEsTntzSduqfQe+cy3nkJY+IFJSm6Mkuh2j/L6HXka54ItOL0fxYbVCRztNz1fR9cXYBVzhJXApVtTtTHQm1/BAvKDTNSaFIhdrEHreysVzB08R44kAISysVAULwNZBucEQ=;C7mSSjEJ7j5OQBUY9ZdJww=="
+secured: "lijt2WE4D7mjY4URkCqOWRK7kambPHOLGsxjhteDB/BAyCpwxj5d7UOBBPlaFvcJubbVO87SpHL2BikiJHk+hKQFRBFQzKoTjel0ASFaJP3S1YiRzlja3ctfbPm6KZdFwKPfjFSmDV1344COmZ2C/BaCXA8cuLxRKDJUwVlRsiknJyjzYOSM4jU9Iz1/QKORzRIAon7+j6/+bn5CbesJuXj5LGFDpkMA+sJz3Qs1poYH1AWqkt1HpvnMKXdUeM7cWNMaYZI6wzAi8KE26VsCsZpdMgPDMJishe97/ibG00AoS3PfPLZKI759cWufSrBldVIaZDmWjqnrciMgxE9kMaK6fQiQeAv9NtcnTr4rqPo=;NE9iPoLVUZ/XhrLfAsEgdg=="
 ---
 

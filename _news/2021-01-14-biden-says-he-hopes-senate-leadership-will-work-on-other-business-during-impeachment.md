@@ -3,8 +3,8 @@ category: news
 title: "Biden says he hopes Senate leadership will work on other business during impeachment"
 excerpt: "U.S. President-elect Joe Biden on Wednesday called on Senate leadership to work on other business while dealing with their responsibilities on impeachment after a House of Representatives vote that made Donald Trump the first U."
 publishedDateTime: 2021-01-14T01:26:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-biden/biden-says-he-hopes-senate-leadership-will-work-on-other-business-during-impeachment-idUSKBN29J053"
-webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-biden/biden-says-he-hopes-senate-leadership-will-work-on-other-business-during-impeachment-idUSKBN29J053"
+originalUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-biden-idUSKBN29J053"
+webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-biden-idUSKBN29J053"
 type: article
 quality: 98
 heat: -1
@@ -749,6 +749,6 @@ related:
         height: 630
         isCached: true
 
-secured: "TGNDY9N3HQcAXTNv/wQTwLXpOHiSnBPNBaLEhML2n+/wC5tBtM0aWswLkYUBA1sNT08HYU20AE+yERIHVybIF3N9igJv+KX1WatybXeah3V0BlO6KD2Qase5ozXmWOCHZ/WPv5K4L/d63WEGsrfUT+VbmHdhkbvkgdcvmCCSbV6hdDUEUjvnqb7S+NQ2bf2xslIYMVYd3hmyBbEmh53dV5nwMEbE/rsRwYf2Jk8URjV2HWrOHgrYxE877LOO+90rrp5qIYrp+YUvFmBhivX+3xqlaaEWiRFTgtitgQHl6wFGwXBKTqj3MU9jM58Qvx/BcCeqUm/ZL293Kx5ridJX3uyh7S4j/RaFjkv8onQWqYI=;r26dZJcdaF+UfwwvOzjbfQ=="
+secured: "imKbImcQZ61mEPdW97dzznrYDL7a8+M4DMLinsAVhtVa0EtSLpPzvfN0wkefKp4AeVp+RHmBTcIW2b5Db3Ryolre2EtJUFjProoFaj9fWk4QRWb2n+fGxmLcigFS7dTFomRP3KnHfrZv5SpFS16yd1mkvVZ3umDrcWwfTXdH6/b2eb1pXnjVs9cR17ds61+FYX5io1+toty4iXl+oQKEbvkA2WyNh6OsVrgAqU3hcEs3pJYBT5+XiPUhJW+aX5Mh4cDFi/f8WHNqXUi1qy58pk1qA18EHVjHHnRiQ5mp2OaCJTSyHQmGInMU+t+tpHjtwykcx6+EFBNSdKEHWPY27dtpOw1zgtuEVnPbOPzSFKk=;YIetzPG/ifFG1kE1jESnjQ=="
 ---
 

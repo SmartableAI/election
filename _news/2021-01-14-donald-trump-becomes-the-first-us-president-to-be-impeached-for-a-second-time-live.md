@@ -543,6 +543,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "House impeaches Trump for the second time, focus shifts to Senate trial"
+    excerpt: "Trump is the only president to be impeached twice, this time for inciting the Capitol riot. Now, the debate shifts to the Senate."
+    publishedDateTime: 2021-01-13T23:30:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-13/house-begins-final-push-to-make-trump-the-only-president-to-be-impeached-twice"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-13/house-begins-final-push-to-make-trump-the-only-president-to-be-impeached-twice?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-13/house-begins-final-push-to-make-trump-the-only-president-to-be-impeached-twice?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/232ada4/2147483647/strip/true/crop/5405x3530+0+36/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffb%2Fde%2Fd15bbb974c6d8bff58658cb08c71%2Fap21007825123867.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "How a 2nd Trump impeachment could differ from 1st"
     excerpt: "A possible second presidential impeachment would be unprecedented and come with different punishments if Trump is convicted."
     publishedDateTime: 2021-01-13T16:26:00Z
@@ -1260,7 +1276,7 @@ related:
   - title: "Reactions to the impeachment of U.S. President Donald Trump"
     excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump."
     publishedDateTime: 2021-01-13T19:54:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/u-s-lawmaker-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
+    webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/reactions-to-the-impeachment-of-u-s-president-donald-trump-idUSKBN29I20Q?edition-redirect=ca"
     type: article
     provider:
       name: Reuters
@@ -1803,6 +1819,22 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "U.S. House impeaches President Donald Trump for second time"
+    excerpt: "During debate on the articles of impeachment, House Speaker Nancy Pelosi asked Republicans and Democrats to “search their souls” ahead of the historic afternoon vote."
+    publishedDateTime: 2021-01-13T19:25:00Z
+    webUrl: "https://www.al.com/news/2021/01/us-house-impeaches-president-donald-trump-for-second-time.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/us-house-impeaches-president-donald-trump-for-second-time.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/us-house-impeaches-president-donald-trump-for-second-time.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5N2JIVEV2BBOFDALIDFNMOQI2U.jpg"
+        width: 4155
+        height: 2770
+        isCached: true
   - title: "Who Are The 10 Republicans That Voted To Impeach Donald Trump?"
     excerpt: "Ten Republicans joined Democrats in the House on Wednesday to impeach Donald Trump, making him the first president to be impeached twice. The article of impeachment accused President Trump of \"incitement of insurrection."
     publishedDateTime: 2021-01-13T23:26:00Z
@@ -1875,6 +1907,22 @@ related:
       - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/e7VQFhQe4Um1C3pcXMr7fDrE5TM=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/FAO5TV3PUVCJVIUNXMG42UQ7BM.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Methodist leader supports impeachment, calls on senate to bar Trump from office"
+    excerpt: "United Methodist General Secretary of Church and Society Susan Henry-Crowe issued a statement Wednesday supporting the U.S. House of Representatives in their vote to impeach President Donald Trump and calling on the senate to bar him from ever holding office again."
+    publishedDateTime: 2021-01-14T03:36:00Z
+    webUrl: "https://www.al.com/life/2021/01/methodist-leader-supports-impeachment-calls-on-senate-to-bar-trump-from-office.html"
+    ampWebUrl: "https://www.al.com/life/2021/01/methodist-leader-supports-impeachment-calls-on-senate-to-bar-trump-from-office.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/life/2021/01/methodist-leader-supports-impeachment-calls-on-senate-to-bar-trump-from-office.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 71
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DT6VHYBHPRAPRAV66HY2PTTM3Y.PNG"
+        width: 1034
+        height: 564
         isCached: true
   - title: "House Democrats vow to move forward with Trump impeachment if Vice President Mike Pence won’t invoke 25th Amendment"
     excerpt: "Nancy Pelosi’s leadership team will seek a vote on a resolution calling on Vice President Mike Pence and Cabinet officials to invoke the 25th Amendment."
@@ -2258,6 +2306,20 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Snapchat Permanently Bans Donald Trump From Site"
+    excerpt: "Image-centric social network Snapchat on Wednesday said it has permanently banned US President Donald Trump from the platform, as voices are raised against keeping him off the internet stage. Trump's access to social media has been largely cut off since a violent mob of his supporters stormed the Capitol in Washington DC in a deadly attack on January 6."
+    publishedDateTime: 2021-01-14T02:44:00Z
+    webUrl: "https://www.ibtimes.com/snapchat-permanently-bans-donald-trump-site-3121559"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/13/social-media-network-snapchat-has-permanently-banned-donald.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Trump On Brink Of Unprecedented Second Impeachment"
     excerpt: "The House of Representatives was set to impeach \"clear and present danger\" President Donald Trump Wednesday, with several key Republicans backing the Democrat-led push to bring down the real estate tycoon in flames a week before he leaves office."
     publishedDateTime: 2021-01-13T18:21:00Z
@@ -2287,6 +2349,6 @@ related:
         height: 392
         isCached: true
 
-secured: "ekPbPUvxdKUXe71CDMnwsA93tWggM+HJqrwbiTzmmBB2OIQoAu8/D3lA0eq8KRlJojK8pOhLGT61XKPADxh2CbbBVAueo86iMvjp++8D6M65zgG+b0bPs0Pr4KJOphwP+zICFwNY4G529OiQgi8ChxJqMRrg8FQjqQNIYJCJ1LnaHPmlp5lz3VU+m/YlW4XwiHCAMt0aiOGQ7M2+xgVyTe5RHIHBI8oP+ZAD9GdSXLgrm1wrzQehKtPDUs0q0R5u/UZyYcWWGpuVeZXnFHu9lrIMOeLgJ1bCx5y8zsMWmGbiWUScG7yt5pO6wpzqStuIp0joQexT/Uh3btmANpB6KpDYYYGJEHnWCvXkIe7+5z0=;um7YtsLn6WfshhM/xyJ/9A=="
+secured: "tKR0d7IG4ynBQr9t0yibi//P5s5yJAtNIy23m4uNiYCfUXowoiORxxkkhU+hJagW7I0H1bd1PRsO2Ig8z54nA6LYbvtYva9mqNt3Go2BuWdAKIuo3kOdW5uDXVOryvjA42RzJ2JYeKMrpGke7EGjRFN9X7VOgOd1aZadV4uG4PnSCx6ZANb4NeV2YcD3L12i0ywIVPiIsJ7D5fgz9xAkH458EUjw0THsB464p7U6oVj4ewj9DNCRD1nyt4UDkdwBfWIv4a2kXKosyfBEZbdHSwndJB0DQVjRNNZ6s/bTqXolEmR7QUUkcwd0uSvCIJgWQH/KUzdmqMudzCwquisAXw6eriwnDRK1hqFa6XtVSWePWV4GyNfBPNpz6agmZZEZsBArxS97I5m2/5RAPpqBFoQF20JPwuPPfd2LOr5dDXiWXbJqGmelhrMiFnOpAn9asbF9gUQKnDimFsA1CyTM/QQ9/+YmNGTJFj+I+5Q0QqIpclUsJcVN4TK7kk8woUOg8jsyi+aehEb/unuZAM5QSA==;yQV8JIcCE8lVBiZtwANpLg=="
 ---
 

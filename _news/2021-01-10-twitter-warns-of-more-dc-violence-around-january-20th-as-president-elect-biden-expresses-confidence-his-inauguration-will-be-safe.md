@@ -705,7 +705,7 @@ related:
   - title: "Biden says he hopes Senate leadership will work on other business during impeachment"
     excerpt: "U.S. President-elect Joe Biden on Wednesday called on Senate leadership to work on other business while dealing with their responsibilities on impeachment after a House of Representatives vote that made Donald Trump the first U."
     publishedDateTime: 2021-01-14T01:26:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-biden/biden-says-he-hopes-senate-leadership-will-work-on-other-business-during-impeachment-idUSKBN29J053"
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-biden-idUSKBN29J053"
     type: article
     provider:
       name: Reuters

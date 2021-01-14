@@ -43,22 +43,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Power Up: Possible twin Democratic wins in Georgia put Washington control in Biden's grasp"
-    excerpt: "Democrats came within striking distance of total control of Washington with possible twin victories in the Georgia Senate runoffs determining which party holds the Senate majority. If they prevail, President-elect Joe Biden would have an easier time pushing through his agenda and getting his nominations confirmed."
-    publishedDateTime: 2021-01-06T16:50:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/06/power-up-possible-twin-democratic-wins-georgia-put-washington-control-biden-grasp/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/06/power-up-possible-twin-democratic-wins-georgia-put-washington-control-biden-grasp/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/06/power-up-possible-twin-democratic-wins-georgia-put-washington-control-biden-grasp/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 115
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M2OR4HSPPEI6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Biden Calls for $2K Stimulus Checks Post-Georgia Runoffs But At Least One Democrat Opposes"
     excerpt: "\"We need more direct relief flowing to families and small businesses, including finishing the job and getting people $2,000 in relief,\" the president-elect said Friday."
     publishedDateTime: 2021-01-10T00:10:00Z

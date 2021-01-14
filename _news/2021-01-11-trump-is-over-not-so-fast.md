@@ -180,6 +180,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Cotton says he opposes Trump impeachment effort in Senate"
+    excerpt: "Sen. Tom Cotton, R-Ark., said in a statement late Wednesday that he will oppose another Senate impeachment trial after the House passed an article of impeachment alleging President Trump incited the riot at the Capitol and is unfit for office."
+    publishedDateTime: 2021-01-14T03:38:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B6Hn5bjl1qY/cotton-says-he-opposes-trump-impeachment-effort-in-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/cotton-says-he-opposes-trump-impeachment-effort-in-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-says-he-opposes-trump-impeachment-effort-in-senate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "All the Trump officials who have resigned after the DC protest at the Capitol"
     excerpt: "The number has continued to climb a little more each day, but it has yet to reach the level of an exodus."
     publishedDateTime: 2021-01-09T20:43:51Z

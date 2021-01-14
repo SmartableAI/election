@@ -3888,15 +3888,15 @@ related:
         isCached: true
   - title: "Some House Republicans join impeachment push; Pence says he will not move to expel Trump"
     excerpt: "At least three Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
-    publishedDateTime: 2021-01-13T07:00:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump/some-house-republicans-join-impeachment-push-pence-says-he-will-not-move-to-expel-trump-idUKKBN29H2MG"
+    publishedDateTime: 2021-01-13T06:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/us-house-democrats-race-to-impeach-trump-over-deadly-capitol-siege-idUSKBN29H0JJ"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 111
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547541869&r=LYNXMPEH0B1HG&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
         width: 800
         height: 533
         isCached: true

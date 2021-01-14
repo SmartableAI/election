@@ -3891,15 +3891,15 @@ related:
         isCached: true
   - title: "Some House Republicans join impeachment push; Pence says he will not move to expel Trump"
     excerpt: "At least three Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
-    publishedDateTime: 2021-01-13T07:00:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump/some-house-republicans-join-impeachment-push-pence-says-he-will-not-move-to-expel-trump-idUKKBN29H2MG"
+    publishedDateTime: 2021-01-13T06:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/us-house-democrats-race-to-impeach-trump-over-deadly-capitol-siege-idUSKBN29H0JJ"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 111
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547541869&r=LYNXMPEH0B1HG&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
         width: 800
         height: 533
         isCached: true
@@ -5670,6 +5670,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "u7IwILTozQ32WjbrmEPU5P+o9u2IZMZGAO8TzilwBUO78NwktVYPQQI2IfW57mBuLA8grGMgPinYMnOKVPW+2im/RE3oN8mQEdvvXGAKaMkc/R40x70DMO+v9zLJWx/tW3zwSAFLm1uA9eOVXME6pZKRjQw6/aUECtrJpceztYPgsf67CV2QidqhQFia0vdal4kG62gTbvDfyboMGMrYpnnM1BleDrFpiyk29BWZUvoTQ8Z4EXMtT/Mluspv6bgPY2y7MfhEhrIMqd0oLh5KdqJmdAAHYsaVuah0VRUdGRtuq6OtbWnaxMBZWHiObu6a+UWYBWGoSZJKgKX/ZGHJc4N9STVb4bq/45YTl1RhuZA=;ZRRElqa9qlqnr8f+CyTxyw=="
+secured: "VMOXSkV62RruQKLcyPDaZN+vNxlDZsCTqmapSzaOvJlUChUyTZJxZDyweK/VYwJF13WRPQspWGAv0GHJe+PgO5ln3GeXyHtbqZE2FYJmZUMBlTDMtNJwJtS/4UZyPImX9vqVdKX/S4D0H9UhSwewep3yskohk1bQ83MmaWkBzbiz3JC462mc/VPlS6608brEIJh4uq6Uz4P7tYNUOXm5g7jW1YvxnivMd8NFtCFCmD0cbnEwXiVnym28KeKIWx0w55EJcOXMLdoNP2LgqYrumY7Qjrqc3CHDGr5rdNUsqoM13KepoSaHLyi1nhjuWb2vVgmP9Vd1X7CM7e5CpMJa8pnY//UErezF2ueQAjdxIQDGtmo4eGk8k1I5CXkywtQhlGYZTzyiCdHpTrhrHxF8F/VGZZrTCZPRwx0roxz5aprMAkkvzVBYW1FBtf9y0X8ca5JvYzQ1ORM58WjvcaK+vnCWz9KsGyIV1pfyQWdPOBubXIIemYad2lvtH+RL0/k2PqPO170+7KY9+ssfXebNVg==;ZNR5/Khegs39Q35tsF95dQ=="
 ---
 

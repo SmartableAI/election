@@ -2,9 +2,9 @@
 category: news
 title: "Some House Republicans join impeachment push; Pence says he will not move to expel Trump"
 excerpt: "At least three Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
-publishedDateTime: 2021-01-13T07:00:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump/some-house-republicans-join-impeachment-push-pence-says-he-will-not-move-to-expel-trump-idUKKBN29H2MG"
-webUrl: "https://www.reuters.com/article/uk-usa-trump/some-house-republicans-join-impeachment-push-pence-says-he-will-not-move-to-expel-trump-idUKKBN29H2MG"
+publishedDateTime: 2021-01-13T06:58:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump/us-house-democrats-race-to-impeach-trump-over-deadly-capitol-siege-idUSKBN29H0JJ"
+webUrl: "https://www.reuters.com/article/us-usa-trump/us-house-democrats-race-to-impeach-trump-over-deadly-capitol-siege-idUSKBN29H0JJ"
 type: article
 quality: 111
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547541869&r=LYNXMPEH0B1HG&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
     width: 800
     height: 533
     isCached: true
@@ -5670,6 +5670,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "2fy3KwClGru9GfLFeuASLfLRmcheU0q3ljqBSetG8vz9p1QMaHM2bbpudmkgDcRC054MVrHoQIrqxqlh5fdsrHbN+OCV9ERadQiwVIUjnGSxDoftRKSn9EzMTO93B23/ALwC3NBhPtACGSfzIqXsFwwfsPueeZzveNGrrbpybKd+wS5m5dgzUzbSCD/eiN2Z1Zb3nxSPD+MKuMFLoQnJ01K3e8LxrpiApuzEBibN1ka5UzG6it3XhTzDlk2wVRDbj4k+wPJp4XQ+oIoY/SXsrBceDkKasZGFKAHH0JQ/UCvr41N4Gwi7xnQ7gw5e8xQ66HX+zdKq5I8/ep70pOopKqW1M1PD6eQe7soEvTVZKndlX6/58L15Trq0pHRHgu+LNJ1t7THOeqDWlcv/HD27ziQg9Jswv6B5bseDd0As6x2LHEnSa2bRETL1rMCgImiTVcgUxVKkYzfzh8Q4FGk/hH/68DlDKz22U8UWsqw64gdX3ODv02GfkQPHrO4DV3XG61wktAvxzrUheRU2AHVlQg==;bw7zrd4j6rzid4mKEQNmlg=="
+secured: "G2W83uS0iIWJhvJlLkuguPZ8Kp6zR+WWyXydywTj7LiEKtAoSCbpTvZE5WtuK5p3Vr2W2nEOUpn463xDv76AXxqu1BzkbVodKKFUgyu0OPE29oHLnC7qNQL5aZ+8ErVBPoJ9lnRrXTR73mH742bklYpx/kfN31+hD5tA591KvuDl9mCuTHLuJgtrWvgt2qQZcvxzXUX5PftEs18gztvjFqmvZKlYJ80+ZUEqFlWkQnB03r4Ve+U3kS9tkW8+d+njb4DNvdYhuFAqyU4JxxAfvAYwiU9suX39Bd5KUlhLVZytLAtpsowRx/E4HroEJRbIXHVA7ApcjwSZ/BCy8aPmRJ5iNxobr3aN8o0aQOecklU=;CAR+irRzi3SiNuLOgADXWw=="
 ---
 
