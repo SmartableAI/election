@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/in-breaking-with-trump-pence-does-w
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/in-breaking-with-trump-pence-does-what-he-believes-in.amp"
 type: article
 quality: 199
-heat: 839
+heat: 859
 published: true
 
 provider:
@@ -205,6 +205,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Rep. Donalds: House Dems 'weaponized' race to make Trump impeachment case"
+    excerpt: "The left always uses race to weaponize their arguments, Rep. Byron Donalds, R-Fla., said on Thursday in reaction to House Democrats calling President Trump a white supremacist during the impeachment proceedings."
+    publishedDateTime: 2021-01-14T13:16:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rtT97IN7-PQ/trump-impeachment-byron-donalds-house-dems-white-supremacist"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-byron-donalds-house-dems-white-supremacist.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-byron-donalds-house-dems-white-supremacist.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

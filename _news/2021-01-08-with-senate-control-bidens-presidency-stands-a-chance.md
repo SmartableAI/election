@@ -74,6 +74,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump impeachment trial could hamper Biden congressional agenda in first days of presidency"
+    excerpt: "President Trump's Senate impeachment trial could hamper President-elect Joe Biden's congressional agenda in the first days of his presidency if House Speaker Nancy Pelosi transmits the article to the upper chamber before the inauguration, Republicans warn as Biden himself acknowledges concerns over lawmakers"
+    publishedDateTime: 2021-01-14T13:30:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wfj4iNyr1D8/trump-impeachment-trial-biden-congressional-agenda"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trial-biden-congressional-agenda.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trial-biden-congressional-agenda.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "House committee meeting gets heated when Rep. Perlmutter asks Rep. Jordan if Biden won election"
     excerpt: "The tension was high Tuesday afternoon when the House Rules Committee met to debate a resolution calling for Vice President Mike Pence to convene the cabinet and invoke the 25th Amendment to remove President Trump from office before his term ends next week."
     publishedDateTime: 2021-01-12T19:41:19Z

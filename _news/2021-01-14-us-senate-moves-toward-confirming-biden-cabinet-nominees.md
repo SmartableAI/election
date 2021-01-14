@@ -3,8 +3,8 @@ category: news
 title: "U.S. Senate moves toward confirming Biden cabinet nominees"
 excerpt: "The U.S. Senate Intelligence Committee said on Wednesday it had scheduled a confirmation hearing for President-elect Joe Biden's nominee to be director of national intelligence, after delays in the transition process for some nominees."
 publishedDateTime: 2021-01-14T05:20:00Z
-originalUrl: "https://www.reuters.com/article/idUSKBN29J00Y"
-webUrl: "https://www.reuters.com/article/idUSKBN29J00Y"
+originalUrl: "https://www.reuters.com/article/us-usa-biden-cabinet/u-s-senate-moves-toward-confirming-biden-cabinet-nominees-idUSKBN29J00Y"
+webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet/u-s-senate-moves-toward-confirming-biden-cabinet-nominees-idUSKBN29J00Y"
 type: article
 quality: 105
 heat: -1
@@ -747,6 +747,6 @@ related:
         height: 630
         isCached: true
 
-secured: "+RVZwirfSuOJGQdD3KYxqvBRm+ffl3qQUESErpnKRMe+ZwqxZiuVl2H5isVtrRLKHlN9JSJM2ihHP8XfxUNlNf+wStagNbaxXsQev0nave3qSEUQap+VD411JxNReo1ZCB/ir/ODerBN4xqyLVon6GXBBj3z8IcYDiFbX6ocgLdEg6jnb/TYI6Vr5y4Lu+6rqBfV9Ij9E3+ypnOzJJcORHq/QMLMu95BtUk60xz91uyl7rNSKCTWUdtWTZkqsxcukLS81pkh/Fz3aU3Mo72KPd3AWJ8tDdo6XpBtk3XuU7VTjCNx8cbVU1AXV20yYWSeRwcsHTyx/58kXhyMA+Wk+cTVy1L6qotYVC4w9ro9p78=;jxy+yQxDzeIcoA26751Iew=="
+secured: "J1TOR7Z5nlbyv6BEw/BRadUQF2KuoBVNZUAhGlq+0AWoeLnAmstDKS7BFL5HHxel1lSVrQcqMERbrzJDwSTFtQFIXsufsfOZAM5EkwAV5HCeCYrSZR112UrMk+MWu3xGIzNLb+euGl/iheBLNpeWxnm+yOgOdfIWp8idjTI1GtR9gYSQckY7uOZGuE3gdarV+bLp1eqKrwlarYai49aGAb4/V94d/fMY1THaYCelpEfVO78w+vYnrogL+L20wMDKY7aaOsrrziaEaS6NxFhftLK5AxAhVLY5Jx/SGzkHC4mz4BNgiAN+YK5nmgwMutRXev+fGS7eOdrh2+BHOz272RaxxfxclURb9qjnRMLFc+0=;tbzuyOFmacexgoX6s9vuGQ=="
 ---
 

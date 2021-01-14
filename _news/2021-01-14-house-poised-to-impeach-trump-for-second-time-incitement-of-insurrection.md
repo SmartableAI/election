@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254051"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254051"
 type: article
 quality: 133
-heat: 193
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -32,53 +32,69 @@ images:
     isCached: true
 
 related:
-  - title: "Trump conviction faces uphill climb in Senate. It could all come down to McConnell."
-    excerpt: "Senators are not expected to consider the House impeachment resolution until Tuesday, the day before President-elect Joe Biden takes office."
-    publishedDateTime: 2021-01-14T08:22:00Z
-    webUrl: "https://www.nbcnews.com/politics/trump-impeachment-inquiry/trump-impeachment-faces-uphill-climb-senate-it-could-all-come-n1254171"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254171"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254171"
+  - title: "Silent Melania Trump plods toward end of her husband's tumultuous term"
+    excerpt: "Two days after his supporters rioted on Capitol Hill last week, President Donald Trump informed the world he would not be attending President-elect Joe Biden's inauguration.\n    \n"
+    publishedDateTime: 2021-01-14T14:46:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9lF-ijGf5fA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/melania-trump-impeachment-donald-trump-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/melania-trump-impeachment-donald-trump-riot/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_02/3441896/210113-donald-trump-ac-434p_0a113ac772841e55bfd302f2f9225047.jpg"
-        width: 2500
-        height: 1250
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181003153208-melania-trump-1003---9-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Live updates: House moves to impeach Trump for 'incitement of insurrection' in Capitol riot"
-    excerpt: "The article of impeachment is expected to pass in the Democratic-controlled House, which would make Trump the first president in U.S.history to be impeached twice."
-    publishedDateTime: 2021-01-13T12:26:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-01-13-trump-impeachment-25th-amendment-n1253971"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253971"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253971"
+  - title: "First lady Melania Trump breaks her silence on Capitol riot, then hits back at her critics"
+    excerpt: "First lady Melania Trump has broken her silence on the Capitol insurrection incited by her husband in a letter posted on the White House website early Monday morning in which she lashes out at her critics and then condemns the violence.\n    \n"
+    publishedDateTime: 2021-01-11T12:02:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3nWhLyoZtz8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/melania-trump-capitol-violence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/melania-trump-capitol-violence/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 125
+      name: CNN
+      domain: cnn.com
+    quality: 165
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_02/3441573/210113-impeachment-live-blog-main-cover-cs_16bb0697e79eeb180cea199979fe03f2.jpg"
-        width: 2500
-        height: 1250
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209102711-melania-trump-july-2020-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "'He threatened the integrity of the democratic system': House introduces one article of impeachment against Trump"
-    excerpt: "House Democrats introduced an article of impeachment against President Donald Trump on Monday for \"incitement of insurrection\" when his supporters violently breached the Capitol last Wednesday. The measure,"
-    publishedDateTime: 2021-01-11T17:39:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/house-democrats-consider-impeachment-25th-amendment-measures-n1253693"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253693"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253693"
+  - title: "Angry staffer appears to be behind State Department website edits saying Trump's term is over"
+    excerpt: "A disgruntled State Department employee appears to have been behind bizarre changes to the department website Monday that stated that President Donald Trump and Vice President Mike Pence's terms were over, two sources told CNN.\n    \n"
+    publishedDateTime: 2021-01-11T23:44:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pk1Yf6xmJzo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/state-department-website-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/state-department-website-trump/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 114
+      name: CNN
+      domain: cnn.com
+    quality: 164
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3441145/2001011-nancy-pelosi-mn-0731_2d44f135b81cd87e860d666f51b53766.jpg"
-        width: 2500
-        height: 1663
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160330182055-state-department-logo-2007-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Live Updates: Pelosi Threatens Impeachment if Trump Doesn’t Resign ‘Immediately’"
+    excerpt: "The House could vote on impeachment next week. President Trump will not attend President-elect Joe Biden’s inauguration. With less than two weeks left of Mr. Trump’s presidency, a wave of resignations hits his cabinet."
+    publishedDateTime: 2021-01-08T14:19:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/08/us/trump-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/08/us/trump-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/08/us/trump-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/08/us/politics/08transition-briefing-impeach-sub/08transition-briefing-impeach-sub-videoSixteenByNineJumbo1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "Ej+eyBtDDe4JfwhMFmr67IgDz8Cryxur8ln2RwxU5epNvFLLYTPbLxUHLC0xwRljzMQ8jfz430eBQZeX0H0kFL5GLkHOoVJHD6sMvCEsQRjmDfDN5rvbLE/mcMx8t9/BpG1d/EjNDU31pWOj7lK07hkp9nokfoFD0UzOuNN3D1lthNjNmkaoaUNWNWiqpdk5qH13VlWlpQluBAfoaRVcgwEyuOpCp6oL+U7Gl5DvCoB9dUjFgFIEksU5nOzUi5vpHjv1/qcnjkchmHm99r4cSeQPxS9RDPiwKoziQQRYE2aXQfBPLP9BQBmn6842MellwnKyTpiq5lbaZOegg/TmAQ5qfecQDRIHVAbeY58ts0d7ntfsoku0J6/cwY5/S/4QskXyl1GGTPcIDPI5RXQEGX+mAtSYGxW/kj/+UZr5niw9L7CBaV4kj2QCnAkOyoMJcyzUlwsaulj6Kg/D/696RDGzR5P0CryLYMm6Ve3uT709jzdHZNeQblPmwcpZxPdBC0vTTkFVJ+kQqJ8BFjOVog==;k1U5og4mkWttmU5yBVJPZg=="

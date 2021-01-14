@@ -660,6 +660,17 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "I’m an American teenager of South Indian descent. Here’s what Kamala Harris means to me"
+    excerpt: "Seeing Kamala Harris about to become U.S. vice president has largely fulfilled a childhood dream of mine, writes 15-year-old Disha Cattamanchi. \"Although I only see her through a TV screen, I see so much of myself and what I"
+    publishedDateTime: 2021-01-14T14:00:00Z
+    webUrl: "https://www.seattletimes.com/life/im-an-american-teenager-of-south-indian-descent-heres-what-kamala-harris-means-to-me/"
+    ampWebUrl: "https://www.seattletimes.com/life/im-an-american-teenager-of-south-indian-descent-heres-what-kamala-harris-means-to-me/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/life/im-an-american-teenager-of-south-indian-descent-heres-what-kamala-harris-means-to-me/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 47
 
 secured: "6IlGlmq7XfbqafYBouiJU1Rd5fGYQ6WgkXSAQCzjFHHHyrnSfxIqnM/MshuljCc0SKZ4ybFZu9HjyxKbeXJKmsZ2R8m/aPomgFycrOwu2yn5LzT2iUtDxtEDTgdnte7iwm3uVsc2qefBIqKlTvkw6UBuYclyTtyPFz+lp10AIQeW0OsaFkzYhwauJBX4Ot6GMnIprSxR8rRMd28BmZjjW6bOsEPTjv29Auv+NQFSejfTXn5ClGhXOl09/zAAx42Zfl7CvKcnR7Y4GCSG5YLuTJ+sMnRknNygnnmub+H0LEjgVrdjA71xoJJ/0Tuu72qUs9WCv8cRUL8510BPsUHtOF5iPajrQ4h898XcCjUsMxIJ4BUMOchiL05GMmVHrtHt/rg092yVXv/P/DeWwk6yVskiv+5sq2oWy1QwgZCimpk7HUd3n2JW3ll5mmI+/PGgbPwmt0TmN2svi1LMSblDodjASSJuwL5GvAh+870G4KXijSsBnFW9vWi5+TdQVGNYAjK5cnosV+rL+H6iaklOKg==;MJeG0RHfT3TEcOJDJNbijw=="
 ---

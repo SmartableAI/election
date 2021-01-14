@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/top-republican-trump-c
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240"
 type: article
 quality: 125
-heat: 345
+heat: 385
 published: true
 
 provider:
@@ -186,6 +186,36 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547688231&r=LYNXMPEH0C15H&w=800"
         width: 800
         height: 540
+        isCached: true
+  - title: "Explainer: Impeachment or the 14th Amendment - Can Trump be barred from future office?"
+    excerpt: "Some U.S. lawmakers have said President Donald Trump should be disqualified from holding political office again following his impeachment on Wednesday for inciting a mob that stormed the Capitol as lawmakers were certifying President-elect Joe Biden's victory."
+    publishedDateTime: 2021-01-14T14:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-explainer/explainer-impeachment-or-the-14th-amendment-can-trump-be-barred-from-future-office-idUSKBN29I356?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 97
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547701260&r=LYNXMPEH0C1U1&w=800"
+        width: 800
+        height: 524
+        isCached: true
+  - title: "Trump impeachment: McConnell open to convicting president at trial; Senate will return Jan. 19"
+    excerpt: "McConnell's openness was a stark contrast to the support, or at times silence, he’s shown during much of Trump’s presidency, and to the opposition he expressed rapidly when the House impeached Trump 13 months ago."
+    publishedDateTime: 2021-01-14T11:22:00Z
+    webUrl: "https://www.al.com/politics/2021/01/trump-impeachment-mcconnell-open-to-convicting-president-at-trial-senate-will-return-jan-19.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/trump-impeachment-mcconnell-open-to-convicting-president-at-trial-senate-will-return-jan-19.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/trump-impeachment-mcconnell-open-to-convicting-president-at-trial-senate-will-return-jan-19.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 63
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NTUN5GCYINBD3K36VXQ3ERTFMM.jpg"
+        width: 2555
+        height: 1438
         isCached: true
   - title: "EXPLAINER: How Trump's 2nd Impeachment Will Unfold"
     excerpt: "The House is expected to vote to impeach President Donald Trump this week, a vote that would make him the first U.S. president to be impeached twice."

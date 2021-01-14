@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Lady Gaga, Jennifer Lopez to headline Biden-Harris inauguration"
+    excerpt: "Lady Gaga and Jennifer Lopez will headline President-elect Joe Biden's and Vice President-elect Kamala Harris' swearing-in ceremony, the Presidential Inaugural Committee announced on Thursday.\n    \n"
+    publishedDateTime: 2021-01-14T13:00:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qSz25uU5Cc4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/lady-gaga-jennifer-lopez-biden-harris-inauguration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/lady-gaga-jennifer-lopez-biden-harris-inauguration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 200
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114072538-jennifer-lopez-lady-gaga-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Harris on her working relationship with Biden: 'We are full partners in this process' "
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris may have been fierce rivals in the Democratic primary, but now, as they prepare to take control of the White House, they say they are full partners who agree on how to approach the country's most pressing issues.\n    \n"
     publishedDateTime: 2020-12-04T03:33:32Z

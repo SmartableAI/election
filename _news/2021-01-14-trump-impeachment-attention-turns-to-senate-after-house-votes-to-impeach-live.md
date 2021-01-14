@@ -187,6 +187,36 @@ related:
         width: 800
         height: 540
         isCached: true
+  - title: "Explainer: Impeachment or the 14th Amendment - Can Trump be barred from future office?"
+    excerpt: "Some U.S. lawmakers have said President Donald Trump should be disqualified from holding political office again following his impeachment on Wednesday for inciting a mob that stormed the Capitol as lawmakers were certifying President-elect Joe Biden's victory."
+    publishedDateTime: 2021-01-14T14:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-explainer/explainer-impeachment-or-the-14th-amendment-can-trump-be-barred-from-future-office-idUSKBN29I356?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 97
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547701260&r=LYNXMPEH0C1U1&w=800"
+        width: 800
+        height: 524
+        isCached: true
+  - title: "Trump impeachment: McConnell open to convicting president at trial; Senate will return Jan. 19"
+    excerpt: "McConnell's openness was a stark contrast to the support, or at times silence, he’s shown during much of Trump’s presidency, and to the opposition he expressed rapidly when the House impeached Trump 13 months ago."
+    publishedDateTime: 2021-01-14T11:22:00Z
+    webUrl: "https://www.al.com/politics/2021/01/trump-impeachment-mcconnell-open-to-convicting-president-at-trial-senate-will-return-jan-19.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/trump-impeachment-mcconnell-open-to-convicting-president-at-trial-senate-will-return-jan-19.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/trump-impeachment-mcconnell-open-to-convicting-president-at-trial-senate-will-return-jan-19.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 63
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NTUN5GCYINBD3K36VXQ3ERTFMM.jpg"
+        width: 2555
+        height: 1438
+        isCached: true
   - title: "EXPLAINER: How Trump's 2nd Impeachment Will Unfold"
     excerpt: "The House is expected to vote to impeach President Donald Trump this week, a vote that would make him the first U.S. president to be impeached twice."
     publishedDateTime: 2021-01-13T00:34:00Z
@@ -199,6 +229,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "aD0H5iBlXYgCFpmKmt75iu7VJ8ixf13lF75EkpLY5aRgAaAzdHBvLTd0N8qdSqozRygzfevGHJQUKKjxA7R1f7mRtJErv1zTsgkOL74CpsiZA23eq95+cjbiMVa2uRd4+Z7WA/RH/2DTc4zENdO+g/vxdHaJzC6cbHNx21HuWTvxlBv3Ayr42vrlP4fOkFE8m3SM9J3wm+HGud0kD9v4hKIaG8ZtJm40ZUO6kuRvYZoZhLdISBCjwZpQscftvc12ZZRWEk00k4IAVh1AON8eHjqTiB3bZ2Gxqh22+CjRIcfenh674J2DojdA6DU0hzxVLvG+9RL9MJ0lps32gr4HA3N/tVszCY2Zo+fWs17dAvw=;nODCqORaGgO2ddgp9HKU1Q=="
+secured: "tT2scQ7VmH1cUp9UTVgPcaXgONzlu3qgHLFfFvws8ltEkH2iB+HD8d1q4ZQZehueftvc8uCjlbF5EmNDjlJRqZdEJEKWvwXDyWk4oH8W4aVmXK+h1UDaU5qPTAj0a5nbFg/d0634+/f/deK+ZpokyQoMtJIdIh3vx+2Z2/IcQNDTnN1WBEZYYM/RG0AQSmawj180H6TAtoInruvZIVKNb0/EeCi6mUEGoaPF6+cI/CRAAP84f4GCVvTzZ7h1ghxsStOif09zWeilNtx2Lt8szffbkkzs3GGqP16+QpwlEVCNF70gy9ukHFwmD+hvxxu5RBtfQ5gv7Ie4JBUcM6Zj9jveMvoVcfLrZd5rUO9f5lEm3+XLQeWZob3dddzCIogYvRHBoDfoC9o0SEr6+epfh239KQ4ER5XybMg5nPVOZWsUyQiZA7990RHpCpJWVDup/RrsuKg0FGCFrcglzqZQXrRtzwRt9sLGpGENIJxb4k6970M4X8AdbYZd8PzRABl9vkkpwmbib8kjcLMe470kLw==;15yEMWtR6ooqxXv8TzP07g=="
 ---
 

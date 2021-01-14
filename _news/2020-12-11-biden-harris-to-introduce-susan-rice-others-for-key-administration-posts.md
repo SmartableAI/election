@@ -49,6 +49,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Lady Gaga, Jennifer Lopez to headline Biden-Harris inauguration"
+    excerpt: "Lady Gaga and Jennifer Lopez will headline President-elect Joe Biden's and Vice President-elect Kamala Harris' swearing-in ceremony, the Presidential Inaugural Committee announced on Thursday.\n    \n"
+    publishedDateTime: 2021-01-14T13:00:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qSz25uU5Cc4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/lady-gaga-jennifer-lopez-biden-harris-inauguration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/lady-gaga-jennifer-lopez-biden-harris-inauguration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 200
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114072538-jennifer-lopez-lady-gaga-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden and Harris to campaign in Georgia in final days before Senate run-offs"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are poised to make a final push in Georgia ahead of the state's high stakes Senate run-off elections next week.\n    \n"
     publishedDateTime: 2020-12-30T10:30:30Z

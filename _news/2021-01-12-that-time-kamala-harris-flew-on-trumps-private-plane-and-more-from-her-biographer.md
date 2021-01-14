@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-01-11/that-time-kamala-h
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-11/that-time-kamala-harris-flew-on-trumps-private-plane-and-more-from-new-book?_amp=true"
 type: article
 quality: 134
-heat: 954
+heat: 974
 published: true
 
 provider:
@@ -664,6 +664,17 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "I’m an American teenager of South Indian descent. Here’s what Kamala Harris means to me"
+    excerpt: "Seeing Kamala Harris about to become U.S. vice president has largely fulfilled a childhood dream of mine, writes 15-year-old Disha Cattamanchi. \"Although I only see her through a TV screen, I see so much of myself and what I"
+    publishedDateTime: 2021-01-14T14:00:00Z
+    webUrl: "https://www.seattletimes.com/life/im-an-american-teenager-of-south-indian-descent-heres-what-kamala-harris-means-to-me/"
+    ampWebUrl: "https://www.seattletimes.com/life/im-an-american-teenager-of-south-indian-descent-heres-what-kamala-harris-means-to-me/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/life/im-an-american-teenager-of-south-indian-descent-heres-what-kamala-harris-means-to-me/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 47
 
 secured: "17nAnOD9anXloizRLr2jBFi3jEOI4dt3bj9NizKemRkq3gbcuBlPTPyOUtl4wkEA7pM0VG9IYZYrTP+qhSwWFVcXEAyktdSt/hcpwgv62t3DrJNYHzdngQUelauemMa0f7sb/9sjd0/Ji6PsKSslH3dZt5dcKPr1jECdnQdIYM6J9XuAGtOLSh9ScHRh+PNU/T1IdEmdL8w8njmxnQUH7zhJsQDVBm8mfsR0gos8Zc0uMurQDtKoZ5/HCqtKtqn+3CNMGhl3WtuNE4+mXqkINOzPCwsZH0K0/+WHHX+qLtcqQYOCAwQrXj/eGWS2bbIYB8K/4rhXGZfKzxDa1iP+wdmJ2E9ANjR6wzann14auPA=;DFktshVd9yJDVZKt15m3mg=="
 ---
