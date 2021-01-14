@@ -650,7 +650,7 @@ related:
   - title: "U.S. Senate moves toward confirming Biden cabinet nominees"
     excerpt: "The U.S. Senate Intelligence Committee said on Wednesday it had scheduled a confirmation hearing for President-elect Joe Biden's nominee to be director of national intelligence, after delays in the transition process for some nominees."
     publishedDateTime: 2021-01-14T05:20:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet/us-senate-moves-toward-confirming-biden-cabinet-nominees-idUSKBN29J00Y"
+    webUrl: "https://www.reuters.com/article/idUSKBN29J00Y"
     type: article
     provider:
       name: Reuters

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/facebook-blocks-trump-indefinitely-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-blocks-trump-indefinitely-capitol-riot-response.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -170,6 +170,20 @@ related:
     quality: 128
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5b8fcff-75ca-4ddd-9290-b3c34ae295e0/b085f4bc-1744-4b7d-b848-07cf2b03af7d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Why some Republicans defected as House Democrats impeached Trump"
+    excerpt: "In the 232-197 vote, 10 Republicans joined every Democrat in backing impeachment. That’s a small fraction, though probably double what it would have been without Liz Cheney’s defection"
+    publishedDateTime: 2021-01-14T08:14:00Z
+    webUrl: "https://www.foxnews.com/media/why-some-republicans-defected-as-house-democrats-impeached-trump"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/cheyney.jpg"
         width: 1280
         height: 720
         isCached: true

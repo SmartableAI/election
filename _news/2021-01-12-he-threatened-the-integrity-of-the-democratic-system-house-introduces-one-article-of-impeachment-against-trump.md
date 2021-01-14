@@ -48,6 +48,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump conviction faces uphill climb in Senate. It could all come down to McConnell."
+    excerpt: "Senators are not expected to consider the House impeachment resolution until Tuesday, the day before President-elect Joe Biden takes office."
+    publishedDateTime: 2021-01-14T08:22:00Z
+    webUrl: "https://www.nbcnews.com/politics/trump-impeachment-inquiry/trump-impeachment-faces-uphill-climb-senate-it-could-all-come-n1254171"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254171"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254171"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_02/3441896/210113-donald-trump-ac-434p_0a113ac772841e55bfd302f2f9225047.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Live updates: House moves to impeach Trump for 'incitement of insurrection' in Capitol riot"
     excerpt: "The article of impeachment is expected to pass in the Democratic-controlled House, which would make Trump the first president in U.S.history to be impeached twice."
     publishedDateTime: 2021-01-13T12:26:00Z

@@ -809,6 +809,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "U.S. House urges Pence to start process of removing Trump from office"
+    excerpt: "The U.S. House of Representatives on Tuesday voted to urge Vice President Mike Pence to start the U.S. Constitution's 25th Amendment process of removing President Donald Trump from office, although the vice president already has said he will not do so."
+    publishedDateTime: 2021-01-13T13:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-house-passed/u-s-house-urges-pence-to-start-process-of-removing-trump-from-office-idUSKBN29I0ET"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547604300&r=LYNXMPEH0C0CC&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Under heavy guard, Congress back to work after Trump supporters storm U.S. Capitol"
     excerpt: "Hundreds of President Donald Trump's supporters stormed the U.S. Capitol on Wednesday in a stunning bid to overturn his election defeat. But after hours of chaos in which police battled to regain control,"
     publishedDateTime: 2021-01-07T10:54:00Z
@@ -860,7 +874,7 @@ related:
   - title: "Donald Trump becomes the first US president to be impeached for a second time – live"
     excerpt: "Ten House Republicans join Democrats to impeach president on charge of incitement of insurrection after violent riot at US Capitol – follow all the latest"
     publishedDateTime: 2021-01-14T00:05:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates?page=with:block-5fffa4af8f0853a2a9aab6a8"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
     type: article
@@ -1339,6 +1353,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Trump bolsters ban on U.S. investments in China"
+    excerpt: "President Donald Trump has signed an order strengthening a November ban on U.S. investments in alleged Chinese military companies, the White House said on Wednesday, curbing Chinese access to U.S. capital markets days before he leaves office."
+    publishedDateTime: 2021-01-14T08:57:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-china-investments/trump-signs-amended-china-investment-ban-requiring-complete-divestment-by-nov-2021-idUSL1N2JP01R?via=webuproar"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547714231&r=LYNXMPEH0D03G&w=800"
+        width: 800
+        height: 503
+        isCached: true
   - title: "U.S. lawmaker comments on impeachment of President Donald Trump"
     excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump."
     publishedDateTime: 2021-01-13T21:48:00Z
@@ -1461,19 +1489,19 @@ related:
         isCached: true
   - title: "President Donald Trump impeached by US House for incitement of insurrection at Capitol; 1st US president impeached twice"
     excerpt: "President Donald Trump impeached by US House for incitement of insurrection at Capitol; 1st US president impeached twice"
-    publishedDateTime: 2021-01-14T02:39:00Z
-    webUrl: "https://www.washingtonpost.com/politics/president-donald-trump-impeached-by-us-house-for-incitement-of-insurrection-at-capitol-1st-us-president-impeached-twice/2021/01/13/c965b654-55e7-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/president-donald-trump-impeached-by-us-house-for-incitement-of-insurrection-at-capitol-1st-us-president-impeached-twice/2021/01/13/c965b654-55e7-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/president-donald-trump-impeached-by-us-house-for-incitement-of-insurrection-at-capitol-1st-us-president-impeached-twice/2021/01/13/c965b654-55e7-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    publishedDateTime: 2021-01-13T21:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/president-donald-trump-impeached-us-house-incitement-insurrection-75234427"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/president-donald-trump-impeached-us-house-incitement-insurrection-75234427"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/president-donald-trump-impeached-us-house-incitement-insurrection-75234427"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 100
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "After Capitol rampage, Pelosi calls on Trump to resign and Twitter deletes his account"
     excerpt: "House Speaker Nancy Pelosi on Friday called on President Donald Trump to resign and Twitter permanently suspended his account citing a risk that he could incite more violence, two days after a crowd of Trump supporters stormed the U."

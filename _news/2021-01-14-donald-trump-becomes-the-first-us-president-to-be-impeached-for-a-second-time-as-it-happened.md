@@ -160,7 +160,7 @@ related:
   - title: "U.S. lawmakers' comments on impeachment of President Donald Trump"
     excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump. Unless noted otherwise, remarks were made on the House floor."
     publishedDateTime: 2021-01-14T01:54:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/u-s-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
+    webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/u-s-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q?edition-redirect=ca"
     type: article
     provider:
       name: Reuters
@@ -183,6 +183,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "AdHHySxUFCVVHmByWgNE2MvaLB1fOj2Wy3woGedrTaZ/8xXr8vjs/P2oaOg4mop6xmXA7eTzrBqmZT7+WOyIzTwtGDJ3gN2POEkIbe2FZD4gjq8MKnC28pWOooBSTac2/WfAIznadm7m8T4pJQSn4dOQT2S/4W9yXb0PVg0YMs52P53PHcf9cI3Dgp1JaP0aFqNTVGb7yl0xpXxJn2bZFBDyzhfzyp3eYBXomW3Fd4830s2tEZgpC11evwCvi16JjENKRcCHO+BZC7ftR9w0Ht3G5Fnq66KAQpic4/55GEXeixwk8kvUL6g2b3t4lEbYXP+9flkIumLcAU1JXgci2bFbmDc1Hb+5TxD7XQgab6Q=;Lc39vZJ4jY51kKMzAZHXkw=="
+secured: "2vK9zi2kUISrY78enu1n2r4XrqrTPS7lLzH2X8IZltrMT2ZCdQJ5JU4uHDQWwJQjLhVmUbqIJsK2VbtTe93FUQx08V/0oPqf4H6IkZjfPXWM0PZRaPudcHK66sR+Pen7rENhsWVjv8Gk8P10J6U0ec3t+hOCraqyrApDFBoWFu8Zo+bP9seYtsQWFZc4MC7uUqmWYvcQ1VUXn3+yftePfvJ8WLo4d6WyhzztIjDX/OxXF2Bco/BJBp+pUniM/UPRyhU+FAWZCYW2a5/33WTGDnyY+AN6lc/27tjHu+IP8a9PPnbHvS8Ir6Dttx4cWKX9jdC2hyqIolL/pyhi9M1Wb/QTaAq+RWXjEARIbEdh0lsCulv41lcKx9Ag5TQO6w1gg+tcQCG8I/ZmLDZMc6Wlawm5xjZ51QHmkPlBB+QlD2DVE77JUQDcrBcPUoRBvIty/dq8aN9d11rzG5RDFTYdRMrwzV1cPNQ/WK7sfFptOFrCD5zkrQec8FutbIHlEBwRSSBUznCNh6hrtOTrky8VOg==;skgJgPymONhCHXBaOsnGmw=="
 ---
 

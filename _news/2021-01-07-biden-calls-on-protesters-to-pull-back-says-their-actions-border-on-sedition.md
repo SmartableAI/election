@@ -80,6 +80,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Live Updates: Biden accepts use of the president’s guest house for the night before inauguration"
+    excerpt: "Blair House, the president’s guest house, sits across from the White House on Pennsylvania Ave."
+    publishedDateTime: 2021-01-14T07:22:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s4lhujXlsdk/live-updates-biden-transition-1-14-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-1-14-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-1-14-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/842741ec-292f-437d-afc7-2d5141a1b15d/b57fc550-ecbd-46cc-9939-67655ddecf5f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden chief of staff mocks Loeffler's plan to object to election certification"
     excerpt: "President-elect Joe Biden’s incoming chief of staff Ron Klain mocked Republican Sen. Kelly Loeffler early Wednesday, while vote counts were still underway in the Georgia runoffs, for announcing her plan to object to the certification of Biden's win in ..."
     publishedDateTime: 2021-01-06T05:54:00Z

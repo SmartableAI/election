@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "James Comey says Biden should consider pardoning Trump"
+    excerpt: "Former FBI Director James Comey Wednesday said he thinks President-elect Joe Biden should consider pardoning President Trump once he takes office in the wake of the riots on the U.S. Capitol. "
+    publishedDateTime: 2021-01-14T07:13:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hAJ0pn1IpAg/james-comey-says-biden-should-consider-pardoning-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/james-comey-says-biden-should-consider-pardoning-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/james-comey-says-biden-should-consider-pardoning-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e532bbe7-abe3-4120-a415-e7f608161ebf/f4edba74-2dc9-44b9-adca-968daa2a2d01/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "House Democrats' quick 25th Amendment push urging Pence to remove Trump blocked by Republicans"
     excerpt: "House Republicans blocked quick consideration of a bill calling on Vice President Mike Pence to invoke the 25th Amendment to remove President Trump from office amid fallout from last week’s Capitol riot."
     publishedDateTime: 2021-01-11T16:27:39Z

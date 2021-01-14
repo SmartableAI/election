@@ -174,6 +174,20 @@ related:
         width: 1279
         height: 720
         isCached: true
+  - title: "Why some Republicans defected as House Democrats impeached Trump"
+    excerpt: "In the 232-197 vote, 10 Republicans joined every Democrat in backing impeachment. That’s a small fraction, though probably double what it would have been without Liz Cheney’s defection"
+    publishedDateTime: 2021-01-14T08:14:00Z
+    webUrl: "https://www.foxnews.com/media/why-some-republicans-defected-as-house-democrats-impeached-trump"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/cheyney.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The Triumph of Stacey Abrams Over Donald Trump"
     excerpt: "The Dems claimed the 2016 election result wasn't real on the basis of a complete falsehood they developed, which the CIA and FBI validated and used to spy on Trump, and then tried to impeach Trump on the basis of a single whistleblower's bogus account of a phone call 30 others heard."
     publishedDateTime: 2021-01-07T12:14:00Z

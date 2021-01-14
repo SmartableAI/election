@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "James Comey says Biden should consider pardoning Trump"
+    excerpt: "Former FBI Director James Comey Wednesday said he thinks President-elect Joe Biden should consider pardoning President Trump once he takes office in the wake of the riots on the U.S. Capitol. "
+    publishedDateTime: 2021-01-14T07:13:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hAJ0pn1IpAg/james-comey-says-biden-should-consider-pardoning-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/james-comey-says-biden-should-consider-pardoning-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/james-comey-says-biden-should-consider-pardoning-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e532bbe7-abe3-4120-a415-e7f608161ebf/f4edba74-2dc9-44b9-adca-968daa2a2d01/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "De Blasio accuses Trump of ‘treason,’ says he should be removed"
     excerpt: "New York City Mayor Bill de Blasio on Thursday said President Trump should be removed from office -- and accused him of committing \"treason\" with his remarks to supporters who went on to storm the Capitol building."
     publishedDateTime: 2021-01-07T21:47:08Z
