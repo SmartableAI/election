@@ -335,6 +335,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Dems embrace Cheney's pro-impeachment stance, fueling backlash from some Trump supporters"
+    excerpt: "Democrats name-checked House Republican Conference Chair Liz Cheney at least 18 times during the debate on the article of impeachment against President Trump for inciting insurrection on Wednesday – emphasizing the high-ranking Republican's support for impeaching Trump after a mob of his supporters stormed"
+    publishedDateTime: 2021-01-14T16:51:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/beVHR9Esgm8/democrats-embrace-liz-cheneys-pro-trump-impeachment-statements-as-gop-conference-leader-faces-backlash"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-embrace-liz-cheneys-pro-trump-impeachment-statements-as-gop-conference-leader-faces-backlash.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-embrace-liz-cheneys-pro-trump-impeachment-statements-as-gop-conference-leader-faces-backlash.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "President Trump urges protesters to be peaceful after they clash with police, breach Capitol"
     excerpt: "Amidst chaos and violence at Capitol Hill Wednesday in support of the president, Trump and his son Donald Trump Jr. urged peace among protesters who had forced their way into the capitol building. "
     publishedDateTime: 2021-01-06T20:49:15Z

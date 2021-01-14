@@ -448,6 +448,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to outline vaccination and economic rescue legislative package Thursday "
+    excerpt: "President-elect Joe Biden on Thursday evening will outline a legislative package proposal for Congress to fund his incoming administration's efforts to vaccinate the country against Covid-19 and provide immediate and direct economic relief to Americans, according to his transition team.\n    \n"
+    publishedDateTime: 2021-01-14T16:02:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/278KxrHM3Hw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/biden-vaccination-economic-rescue-package/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/biden-vaccination-economic-rescue-package/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to nominate William Burns as CIA director, turning to a longtime diplomat to lead agency in post-Trump era"
     excerpt: "President-elect Joe Biden on Monday will nominate William Burns as director of the Central Intelligence Agency, CNN has learned, tapping a respected veteran American diplomat who has served in posts around the world from the Reagan to the Obama administrations.\n    \n"
     publishedDateTime: 2021-01-11T12:03:39Z

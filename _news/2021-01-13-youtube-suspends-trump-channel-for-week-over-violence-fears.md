@@ -637,6 +637,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump impeachment trial could begin on Inauguration Day"
+    excerpt: "President Donald Trump’s impeachment trial could begin on Inauguration Day, just as Democrat Joe Biden takes the oath of office in an extraordinary end to the defeated president’s tenure in the White House."
+    publishedDateTime: 2021-01-14T16:45:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-impeached-after-capitol-riot-in-historic-second-charge/2021/01/13/11d4f9b8-5606-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-impeached-after-capitol-riot-in-historic-second-charge/2021/01/13/11d4f9b8-5606-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-impeached-after-capitol-riot-in-historic-second-charge/2021/01/13/11d4f9b8-5606-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Why Trump's response to Capitol siege evokes memories of Charlottesville"
     excerpt: "Trump groups violently stormed the U.S. Capitol, the surreal images took many back to a dark chapter when white supremacists openly descended upon Charlottesville."
     publishedDateTime: 2021-01-08T20:09:00Z
@@ -1667,6 +1683,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Impeachment Was the GOP's Last Chance to Quit Donald Trump"
+    excerpt: "How the GOP reckons with Trump as he leaves office is the question on which the future of American politics depends."
+    publishedDateTime: 2021-01-14T02:45:00Z
+    webUrl: "https://time.com/5929618/donald-trump-impeachment-republicans/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 85
   - title: "Mike Pence faces biggest loyalty test in announcing Trump's loss during a special session of Congress"
     excerpt: "If Vice President Mike Pence follows the law and announces President Donald Trump's defeat, it will be the ever-loyal Pence's biggest break with Trump."
     publishedDateTime: 2021-01-06T14:29:00Z
@@ -1939,6 +1964,22 @@ related:
         width: 1024
         height: 703
         isCached: true
+  - title: "Donald Trump’s impeachment trial could start on Inauguration Day"
+    excerpt: "Biden has suggested the Senate could divide its time between the impeachment trial and confirming his Cabinet nominees and working on COVID-19 relief and other issues."
+    publishedDateTime: 2021-01-14T16:06:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/donald-trumps-impeachment-trial-could-start-on-inauguration-day.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/donald-trumps-impeachment-trial-could-start-on-inauguration-day.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/donald-trumps-impeachment-trial-could-start-on-inauguration-day.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TEGABJOI3BEOZCWESHG4EUHZWU.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "WWE Legend Wants Donald Trump Out Of Hall Of Fame Following Capitol Coup"
     excerpt: "Mick Foley calls on the removal of Donald Trump from the Hall of Fame Vince McMahon has yet to respond to Foley and the U.S. Capitol riot Foley tells Trump to own up to the Capitol coup WWE legend Mick Foley decried the riot that took place at the Capitol Building in Washington D."
     publishedDateTime: 2021-01-07T06:35:00Z
@@ -1980,6 +2021,22 @@ related:
       name: Time
       domain: time.com
     quality: 74
+  - title: "What's next after House votes to impeach Donald Trump? Here's an explainer."
+    excerpt: "President Donald Trump has been impeached by the House days before leaving office, becoming the first American president to be impeached twice. The previous three impeachments — those of Presidents Andrew Johnson,"
+    publishedDateTime: 2021-01-14T16:18:00Z
+    webUrl: "https://www.nola.com/news/politics/national_politics/article_7222019e-5683-11eb-bade-bfab0205f9c6.html"
+    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_7222019e-5683-11eb-bade-bfab0205f9c6.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_7222019e-5683-11eb-bade-bfab0205f9c6.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 73
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/b/3f/b3f12186-54e9-11eb-b486-2b606d078d60/5ffdbe5be749e.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "VIDEO: Trump Supporters Attempt To Storm Capitol Building, Clash With Police"
     excerpt: "Two buildings were evacuated near the Capitol due to \"police activity.\" Thousands of President Trump’s supporters had planned to gather in Washington for a “Stop The Steal”"
     publishedDateTime: 2021-01-06T19:14:00Z

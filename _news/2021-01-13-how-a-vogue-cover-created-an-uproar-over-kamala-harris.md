@@ -2,26 +2,30 @@
 category: news
 title: "How a Vogue cover created an uproar over Kamala Harris"
 excerpt: "Though it might seem, in light of all that is going on in Washington, D.C., the least of the matter, on Sunday a leaked shot of Vice President-elect’s Kamala Harris’ Vogue cover set off an unexpected firestorm."
-publishedDateTime: 2021-01-13T01:59:00Z
-originalUrl: "https://www.courant.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
-webUrl: "https://www.courant.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
-ampWebUrl: "https://www.courant.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+publishedDateTime: 2021-01-12T16:10:00Z
+originalUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
+webUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html"
+ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-kamala-harris-vogue-cover-uproar-20210112-76hhil6c3ng27gdgtf36p5hmcq-story.html?outputType=amp"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Hartford Courant
-  domain: courant.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.courant.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
+  - url: "https://www.chicagotribune.com/resizer/mAvwsKlLi9K1gGZKJjTOrvTYcrc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GNHOWMJGENQCRG2Q26D2IVN6ZY.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -672,6 +676,6 @@ related:
       domain: seattletimes.com
     quality: 47
 
-secured: "fRl9+MgYfxH3iLPHqH3gu0XxEEaXllAYAZZcv79D71TuQLo/QuCEwx4PjxhvN+ubTBXsArI+aUPH7sxNMcL4dmSeC2cEdAy4mxUk/nrvCaNImXpZ96dor6MWfTeGkSuoVmIEAlBWk/Lw6yFq94e/a5kgQDinFFqi61RYF+Y5iL5AJFUw42EDskZ7yrGfa8M2UcGcMpCKVwjlJMKKo4cf5Kj97x8i7Z9zlo1ZIIWvfZutAWaGqqXhRb6WwqE6G0hNiwzn3Rjj6u5qSbe/2Hh9cXxVwmDMsC3KTYcAtZ8JtKSjP6TXrAp+WW2LK0I3ggidQcadBRzULVx2uzsdsU8/RmTPEUAoHjh8iLcWosucxOyHdzh3dzX2UrlcZ8YWM1iywd7mtbYXslKZ2JjaKu7JgEqyHEGkMcyEx9blYIIMhH/Y7vyAt8c1PO6hnRXFG4ZpNVIn8sHHfjO1ognIJOJt6NFlKIVbpsJQGjUv0HO0k9mZy5OakmqQPZB0wnDJtkGU2VkH4MuN/tlLzXIgdiajlQ==;ndP65QD2cWVggLZCGvXf2Q=="
+secured: "Ci0Yj85X4M9/1F6dYgNHwhGROcDZsvP0ySfOXByCTZqK299ej/rYgsXeDGmXGLe3Blldw8U+4Qgd1ue45DG+KXW2BDtvj0Up9ivEHDoUC5iB1ybm9XBFyi8GRWa5ZlFn/D53RSLJ0u7hBfs+2jmdpD5eQES+/YEJul49wBmw6bsku1DXEz62ffNFabRwVt+nrtLixe183tvOSyvThz+AgpKP2eTa0MUTLXPLCfoEOHNUo0Pt1D70Zk9QphEaYv/zey0hp6jGfhSpTmeuNfo32Q5p3aMy/x3ccToTRZdQWPTccPQp/UDvF+nU6Y+Ql1/HcvRu7KPxOVsuREoKDLpBwzMrMfrtMVk6pucWgR82uw8=;22Hq4umvliFm5LZ5RKoqRg=="
 ---
 

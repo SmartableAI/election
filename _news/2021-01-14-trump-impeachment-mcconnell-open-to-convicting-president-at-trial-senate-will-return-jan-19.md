@@ -213,6 +213,22 @@ related:
         width: 800
         height: 524
         isCached: true
+  - title: "Donald Trump stands largely silent, alone after 2nd impeachment"
+    excerpt: "Abandoned by some in his own party, President Donald Trump could do nothing but watch history unfold on television. The suspension of his Twitter account deprived Trump of his most potent means to"
+    publishedDateTime: 2021-01-14T16:31:00Z
+    webUrl: "https://www.ocregister.com/2021/01/14/donald-trump-stands-largely-silent-alone-after-2nd-impeachment/"
+    ampWebUrl: "https://www.ocregister.com/2021/01/14/donald-trump-stands-largely-silent-alone-after-2nd-impeachment/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/01/14/donald-trump-stands-largely-silent-alone-after-2nd-impeachment/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 75
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/01/AP21012842773816-1.jpg?w=1024&h=657"
+        width: 1024
+        height: 657
+        isCached: true
   - title: "EXPLAINER: How Trump's 2nd Impeachment Will Unfold"
     excerpt: "The House is expected to vote to impeach President Donald Trump this week, a vote that would make him the first U.S. president to be impeached twice."
     publishedDateTime: 2021-01-13T00:34:00Z

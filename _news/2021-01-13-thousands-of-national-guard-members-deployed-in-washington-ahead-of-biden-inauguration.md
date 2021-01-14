@@ -61,6 +61,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "France's Le Maire: resolving trade sanctions is my priority for Biden administration"
+    excerpt: "French Finance Minister Bruno Le Maire said on Thursday that resolving transatlantic trade sanctions were his priority for dealings with the incoming administration of U.S. President-elect Joe Biden."
+    publishedDateTime: 2021-01-14T15:02:00Z
+    webUrl: "https://www.reuters.com/article/us-france-lemaire-usa/frances-le-maire-resolving-trade-sanctions-is-my-priority-for-biden-administration-idUSKBN29J15Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547761954&r=LYNXMPEH0D0LH&w=800"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "y76K0JJ46I9cwUsabj/ZIyTJWjPMS+2beQipppHh3eE0XmncN3aW74DjtkSnLI/gy3QGQUI9a1cZhOnakrYlemDD4ruoMSIzmry5HMm4RrImYTrbqNSnRwqE13sPcnwv1jS7It0KabDcEpvrAP920abW4WjhCOJmU6LX/Uv+eAV3tRj223+c/yOcz3HqADCg2n8+E1p1y45VaZ3F5u9Co9+EjHcnLdhvTlFTK8z0taoJny+CN9/SOBkI+K+bqoxeFYO2JZqqU0bDXwRmm2jN6Lat5o5U7otj3ZSdEyKnBfdW4bydDTYI9nKJ7JywN/zuyxogaY8XUijS1Q4ut0mvq1CeoiBQb6/z65T4i1vCFoHMLoYnBwfbffpOA3i9nr5L7I7VHNNo3xAIKbIkLoDOarkpvh2MX/bl0CKXBT8UIfSkTfNu31l05BYdT7MObBfoFrigYWC7931FW8QiDOWlZ5RYSmIbXz5Gd4A/HBoIpYin4YjdPVd0i9Ihn6nkd1ggHiNvBBCLud7ioJq3R4oReg==;WHTzZ1EB3t4gUp0G3h1hmA=="
 ---

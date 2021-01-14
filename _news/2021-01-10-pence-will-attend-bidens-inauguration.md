@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 1920
+heat: 1940
 published: true
 
 provider:
@@ -429,6 +429,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/130617204230-cuba-flag-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to outline vaccination and economic rescue legislative package Thursday "
+    excerpt: "President-elect Joe Biden on Thursday evening will outline a legislative package proposal for Congress to fund his incoming administration's efforts to vaccinate the country against Covid-19 and provide immediate and direct economic relief to Americans, according to his transition team.\n    \n"
+    publishedDateTime: 2021-01-14T16:02:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/278KxrHM3Hw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/biden-vaccination-economic-rescue-package/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/biden-vaccination-economic-rescue-package/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

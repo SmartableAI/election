@@ -447,6 +447,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to outline vaccination and economic rescue legislative package Thursday "
+    excerpt: "President-elect Joe Biden on Thursday evening will outline a legislative package proposal for Congress to fund his incoming administration's efforts to vaccinate the country against Covid-19 and provide immediate and direct economic relief to Americans, according to his transition team.\n    \n"
+    publishedDateTime: 2021-01-14T16:02:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/278KxrHM3Hw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/biden-vaccination-economic-rescue-package/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/biden-vaccination-economic-rescue-package/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "States skeptical of Biden's Covid-19 vaccine plan as they await the missing details"
     excerpt: "State officials are skeptical that President-elect Joe Biden can meet his goal of 100 million coronavirus shots in his first 100 days, with a week to go before his start date and a slew of unanswered questions still swirling around his plan.\n    \n"
     publishedDateTime: 2021-01-14T11:09:48Z
