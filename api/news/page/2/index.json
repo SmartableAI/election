@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-13-house-passes-measure-calling-on-pence-to-remove-trump.md",
+      "title": "House passes measure calling on Pence to remove Trump",
+      "excerpt": "The House on Tuesday passed legislation calling on Vice President Pence to tap his Constitutional authority to remove President Trump from office in response to the president’s role in the deadly mob attack on the Capitol last week.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/house/533955-house-passes-bill-calling-on-pence-to-remove-trump",
+      "originalUrl": "https://thehill.com/homenews/house/533955-house-passes-bill-calling-on-pence-to-remove-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 3360,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/raskinjamie_100920bc2_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/house/533955-house-passes-bill-calling-on-pence-to-remove-trump?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/533955-house-passes-bill-calling-on-pence-to-remove-trump?amp",
+      "publishedDateTime": "2021-01-13T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-bidens-humane-immigration-plan-gives-green-cards-to-tps-daca-recipients-harris-says.md",
       "title": "Biden's 'humane' immigration plan gives green cards to TPS, DACA recipients, Harris says",
       "excerpt": "Vice President-elect Kamala Harris Tuesday said the Biden administration will take a more \"humane\" approach to immigration when the president-elect takes office next week.",
@@ -1301,58 +1353,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-berkeley-parents-to-stage-sit-in-for-reopening-schools-at-kamala-harris-old-elementary-school.md",
-      "title": "Berkeley parents to stage 'sit-in' for reopening schools at Kamala Harris' old elementary school",
-      "excerpt": "The sit-in is framed by advocates for reopening schools as a call against \"discrimination in the access of education in California.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/bayarea/article/Berkeley-parents-sit-in-Kamala-Harris-elementary-15864609.php",
-      "originalUrl": "https://www.houstonchronicle.com/bayarea/article/Berkeley-parents-sit-in-Kamala-Harris-elementary-15864609.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/16/05/13/20468433/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

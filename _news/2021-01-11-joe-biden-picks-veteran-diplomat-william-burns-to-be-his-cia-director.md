@@ -43,6 +43,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Biden team prepares push for new COVID relief bill expected to cost trillions"
+    excerpt: "Transition officials spoke with congressional staffers about Biden's priorities for a bill with a multi-trillion-dollar price tag."
+    publishedDateTime: 2021-01-14T12:43:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-covid-relief-bill-priority/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-relief-bill-priority/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-relief-bill-priority/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/13/87ab6c33-11eb-45c7-89c4-562b351813be/thumbnail/1200x630/e7b614cfa8085ecb41e2d17d79ea1643/gettyimages-1206811778.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden to nominate longtime U.S. diplomat Burns to lead CIA"
     excerpt: "U.S. President-elect Joe Biden will nominate former career diplomat and former deputy secretary of state William Burns to lead the CIA, his transition team said on Monday."
     publishedDateTime: 2021-01-11T17:01:00Z

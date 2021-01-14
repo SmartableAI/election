@@ -73,6 +73,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump impeachment: attention turns to Senate after House votes to impeach – live"
+    excerpt: "Biden to set out Covid vaccination and economic rescue package plans"
+    publishedDateTime: 2021-01-14T12:17:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/9a56e2b5f78e9f720c135beccffd90692f2f238f/0_171_4308_2586/master/4308.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fa4ff21a9d6e4d961982f1de2692b2a8"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump's incitement of mob at Capitol is 'impeachable offense,' Chris Christie says"
     excerpt: "Chris Christie is perhaps the most notable former supporter of President Donald Trump to back impeachment so far."
     publishedDateTime: 2021-01-10T18:33:00Z
@@ -170,7 +186,7 @@ related:
   - title: "U.S. lawmakers' comments on impeachment of President Donald Trump"
     excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump. Unless noted otherwise, remarks were made on the House floor."
     publishedDateTime: 2021-01-14T01:54:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/u-s-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q?edition-redirect=ca"
+    webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/us-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
     type: article
     provider:
       name: Reuters

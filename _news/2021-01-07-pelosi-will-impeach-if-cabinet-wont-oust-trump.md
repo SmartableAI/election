@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont-oust-trump.amp"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01f558dd-ed80-4f8f-ade4-1085f537ea56/6028a5a7-09d8-4664-8310-c4520818986e/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Pressure on Pelosi to send Trump impeachment to Senate as Schumer, McConnell, trade barbs over next steps"
+    excerpt: "House Speaker Nancy Pelosi hasn't indicated when she will send the latest article of impeachment against President Trump to the Senate even as House Majority Leader Steny Hoyer, her chief deputy, publicly advocates that the article be sent \"as soon as possible.\""
+    publishedDateTime: 2021-01-14T12:27:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IQpLoJlLblU/unclear-when-pelosi-will-send-trump-impeachment-to-senate-as-schumer-mcconnell-trade-barbs-over-next-steps"
+    ampWebUrl: "https://www.foxnews.com/politics/unclear-when-pelosi-will-send-trump-impeachment-to-senate-as-schumer-mcconnell-trade-barbs-over-next-steps.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/unclear-when-pelosi-will-send-trump-impeachment-to-senate-as-schumer-mcconnell-trade-barbs-over-next-steps.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Speaker Pelosi names Rep. Eric Swalwell among Trump impeachment managers"
     excerpt: "Rep. Eric Swalwell has been named as one of nine impeachment managers announced to before the Senate in President Trump’s second impeachment tria"

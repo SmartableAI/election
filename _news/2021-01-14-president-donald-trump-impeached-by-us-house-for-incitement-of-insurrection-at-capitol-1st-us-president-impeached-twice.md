@@ -2,21 +2,21 @@
 category: news
 title: "President Donald Trump impeached by US House for incitement of insurrection at Capitol; 1st US president impeached twice"
 excerpt: "President Donald Trump impeached by US House for incitement of insurrection at Capitol; 1st US president impeached twice"
-publishedDateTime: 2021-01-13T21:44:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/president-donald-trump-impeached-us-house-incitement-insurrection-75234427"
-webUrl: "https://abcnews.go.com/Politics/wireStory/president-donald-trump-impeached-us-house-incitement-insurrection-75234427"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/president-donald-trump-impeached-us-house-incitement-insurrection-75234427"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/president-donald-trump-impeached-us-house-incitement-insurrection-75234427"
+publishedDateTime: 2021-01-14T02:39:00Z
+originalUrl: "https://www.washingtonpost.com/politics/president-donald-trump-impeached-by-us-house-for-incitement-of-insurrection-at-capitol-1st-us-president-impeached-twice/2021/01/13/c965b654-55e7-11eb-acc5-92d2819a1ccb_story.html"
+webUrl: "https://www.washingtonpost.com/politics/president-donald-trump-impeached-by-us-house-for-incitement-of-insurrection-at-capitol-1st-us-president-impeached-twice/2021/01/13/c965b654-55e7-11eb-acc5-92d2819a1ccb_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/president-donald-trump-impeached-by-us-house-for-incitement-of-insurrection-at-capitol-1st-us-president-impeached-twice/2021/01/13/c965b654-55e7-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/president-donald-trump-impeached-by-us-house-for-incitement-of-insurrection-at-capitol-1st-us-president-impeached-twice/2021/01/13/c965b654-55e7-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
 type: article
 quality: 100
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -2453,6 +2453,6 @@ related:
         height: 392
         isCached: true
 
-secured: "yfYrTySywvNok1gohv68rpMmrVbQ6ZgOabY5B047FQCqh4K2jXpt6M+gDunztv3heJJCOjAI7FRbrql3YVcElhY7VmUkJwD5tzuPznM000d56CTxZo9gGe15fTyqclfE3be5hFk4MzfZq7NWKc9vP8bub1SOPxRD5FyubZjgiwGj6AVsimaG6JSy1uoUqZ5Jg3sz32Llppc3M4SF/QC6VPewmhiD7sIwNOe2FuC4WstFcJxf6+7JZVqlWbvzMjC2bWiPkPezMtthTa5LcGpeakKr/Mz9sJhkEqL0bQJJkzmjHE4BOqARto1yn4kdi5r1XFQebD6k6NQsF5XX+SNIeDJVvE9OzmmvR/L/AqJz5Gw=;BBuYbO+DvJQ2tyr0NRSiLA=="
+secured: "DP2iHWpc7lyEvnBW94N1ij7EEOpPXnxJ2ys6fCL0Rx8llxQQTIlVVnG5stYfnuMQq7RmyzDhS2QY0n3XpRrNN/2SKInUIQAbMU2EbD9hKoShvJvQ4kJEKFppi70pORX7tgPlARqCPm5TXI/TAG5/hVGGborvnrevhfpOscnNV85e6rrFZf9NMCUyjd8vLK0EEhAL6bRnO7NBlpcpzBPkRkWZUEkWIixdwp7qEsIYLFaI9Fj0PqUt2MNXm6WPhppmxI98OrNfuNaCSegrcOBYgquVRw4fTZqv8x8zYkd/yX2CoNyMnUR8bZlyOAnowhhBToaJ97TlkJzl36f6qBV1AEnbjCyqFmZQ5eqet3tlc80=;/7hy6j7fVAr89mFH04COIA=="
 ---
 

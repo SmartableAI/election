@@ -205,6 +205,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pressure on Pelosi to send Trump impeachment to Senate as Schumer, McConnell, trade barbs over next steps"
+    excerpt: "House Speaker Nancy Pelosi hasn't indicated when she will send the latest article of impeachment against President Trump to the Senate even as House Majority Leader Steny Hoyer, her chief deputy, publicly advocates that the article be sent \"as soon as possible.\""
+    publishedDateTime: 2021-01-14T12:27:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IQpLoJlLblU/unclear-when-pelosi-will-send-trump-impeachment-to-senate-as-schumer-mcconnell-trade-barbs-over-next-steps"
+    ampWebUrl: "https://www.foxnews.com/politics/unclear-when-pelosi-will-send-trump-impeachment-to-senate-as-schumer-mcconnell-trade-barbs-over-next-steps.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/unclear-when-pelosi-will-send-trump-impeachment-to-senate-as-schumer-mcconnell-trade-barbs-over-next-steps.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "New Trump impeachment? Top Democrats show no interest in 'Squad' push"
     excerpt: "A renewed interest in impeaching President Trump from members of the so-called \"Squad\" is not catching on among top House Democrats."
     publishedDateTime: 2021-01-05T15:50:00Z

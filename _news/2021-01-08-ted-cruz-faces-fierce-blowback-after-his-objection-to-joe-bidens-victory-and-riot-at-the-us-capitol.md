@@ -331,22 +331,6 @@ related:
         width: 1440
         height: 961
         isCached: true
-  - title: "Biden team prepares push for new COVID relief bill expected to cost trillions"
-    excerpt: "Transition officials spoke with congressional staffers about Biden's priorities for a bill with a multi-trillion-dollar price tag."
-    publishedDateTime: 2021-01-14T02:40:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-team-prepares-push-for-new-covid-relief-bill/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-team-prepares-push-for-new-covid-relief-bill/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-team-prepares-push-for-new-covid-relief-bill/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 122
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/13/87ab6c33-11eb-45c7-89c4-562b351813be/thumbnail/1200x630/e7b614cfa8085ecb41e2d17d79ea1643/gettyimages-1206811778.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Insurrection adds to full plate of calamities Biden will face as he takes office"
     excerpt: "The president-elect’s team says his focus remains on the coronavirus and economic crises, but he will work to unify the country as he promised during the campaign."
     publishedDateTime: 2021-01-12T11:10:00Z
@@ -648,7 +632,7 @@ related:
   - title: "U.S. Senate moves toward confirming Biden cabinet nominees"
     excerpt: "The U.S. Senate Intelligence Committee said on Wednesday it had scheduled a confirmation hearing for President-elect Joe Biden's nominee to be director of national intelligence, after delays in the transition process for some nominees."
     publishedDateTime: 2021-01-14T05:20:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet/us-senate-moves-toward-confirming-biden-cabinet-nominees-idUSKBN29J00Y"
+    webUrl: "https://www.reuters.com/article/idUSKBN29J00Y"
     type: article
     provider:
       name: Reuters
@@ -717,7 +701,7 @@ related:
   - title: "Biden says he hopes Senate leadership will work on other business during impeachment"
     excerpt: "U.S. President-elect Joe Biden on Wednesday called on Senate leadership to work on other business while dealing with their responsibilities on impeachment after a House of Representatives vote that made Donald Trump the first U."
     publishedDateTime: 2021-01-14T06:15:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-biden/biden-says-he-hopes-senate-leadership-will-work-on-other-business-during-impeachment-idUSKBN29J053?edition-redirect=ca"
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-biden/biden-says-he-hopes-senate-leadership-will-work-on-other-business-during-impeachment-idUSKBN29J053"
     type: article
     provider:
       name: Reuters

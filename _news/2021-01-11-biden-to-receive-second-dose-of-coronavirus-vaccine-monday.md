@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's historic 2nd impeachment trial hangs over Biden and Republicans"
+    excerpt: "Donald Trump's unique second impeachment sealed history's verdict on a corrupt and disgraced presidency. But the political endgame of this tragic saga is only now beginning and will decide the extent of America's recovery from his malevolent term.\n    \n"
+    publishedDateTime: 2021-01-14T11:48:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xAZAZqT13p0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/donald-trump-impeachment-trial-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/donald-trump-impeachment-trial-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107021907-biden-trump-split-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "At the 11th hour, Trump hands Biden a whole new set of foreign policy headaches "
     excerpt: "His days as president of the United States may be numbered, but Donald Trump is going out of his way to light a string of wildfires for his successor to put out.\n    \n"
     publishedDateTime: 2021-01-13T05:25:55Z
@@ -428,6 +444,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210110184425-william-j-burns-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "States skeptical of Biden's Covid-19 vaccine plan as they await the missing details"
+    excerpt: "State officials are skeptical that President-elect Joe Biden can meet his goal of 100 million coronavirus shots in his first 100 days, with a week to go before his start date and a slew of unanswered questions still swirling around his plan.\n    \n"
+    publishedDateTime: 2021-01-14T11:09:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6o81Z_HYRZ0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/biden-vaccines-states/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/biden-vaccines-states/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209092448-02-joe-biden-health-team-1208-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

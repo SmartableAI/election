@@ -3,8 +3,8 @@ category: news
 title: "U.S. lawmakers' comments on impeachment of President Donald Trump"
 excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump. Unless noted otherwise, remarks were made on the House floor."
 publishedDateTime: 2021-01-14T01:54:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-quotes/u-s-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/u-s-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q?edition-redirect=ca"
+originalUrl: "https://www.reuters.com/article/us-usa-trump-quotes/us-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
+webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/us-lawmakers-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
 type: article
 quality: 105
 heat: -1
@@ -76,6 +76,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-rt-ps-190917_hpMain_2_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump impeachment: attention turns to Senate after House votes to impeach – live"
+    excerpt: "Biden to set out Covid vaccination and economic rescue package plans"
+    publishedDateTime: 2021-01-14T12:17:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/9a56e2b5f78e9f720c135beccffd90692f2f238f/0_171_4308_2586/master/4308.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fa4ff21a9d6e4d961982f1de2692b2a8"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump's incitement of mob at Capitol is 'impeachable offense,' Chris Christie says"
     excerpt: "Chris Christie is perhaps the most notable former supporter of President Donald Trump to back impeachment so far."
@@ -183,6 +199,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "eCRpn2q9V5NZlWgiOQdB67QKbDB0nQjf4li/ehxVbZFVNPEBTSKxHzj6Xzd/KQrRSXvXpNRpUhP33f/Jlq278VFNfAFiNMfyW23nYRDO9KhEqGbGfub/kK/3hzh3OMtvEAK5XtiE1l4vum79NhKNxBzfbaC9HSuLopdB15vXS709Sp/kVcZXqpYozsKqpCQW76+5DT3gJ1ZzMeL7lcCl6FA/lydZ70s5yu12L9toFHz8rrpzKyejE7gMVQeV4lnr5XXvj/6FPR08rJdxBC+pnLye/i7TRkrziYLP9nUQBCsjYWYafm2XsG8nNLj9StGf3j+86X1Y/ulbKsbBRNpPUKTCCggfYFPICe4hyNMMjNqbz48MUXz92x4v20ibsE3niX8peBwezXEzcRLbSuqXdmz37htcuT4qsxOvCWtsYC0uM4/vRese/aAaGuk6N3EZXoNyGycoln8voJNQmXFuoDDEk5Qzp+xnORIYp+Eal45FU0dV8tos8XZBEZs+Rp+uQtOg+YP1sbJT3RfbV+21Ag==;89u+8iQHyJn/TmN8+r6FUg=="
+secured: "ZKABVQzfMOiUz4haJj9orW3ddUgaXMTlwKIKmr+ronzt8eCcTKi3BpM/z2Vqzowasb6hb9uT9QVCqJ5WHUhV1N96Wt3oDI+DEfn+DwoZ95CzZc6ZshkI8GJunXjs5NLIeV5SakiHC5jXDl3OrXkd8z3Z98SxhdKS/THpTrNAbIQQ3g9y5tNe897behnY1JWyNH5hwDwI4j7LPpoiVrC0bJWQmHodjZyzC8hynEguIcjCYcb5dtgDBAOa+w+zeF3cWmoEkQeWAKOPlW1TpRNGhBfNm13bIQigiSHXz6Ioz35kw+C8Xvs9KHeUoPMeuCaOicutQjZZAHsbBWa2ZvvFlVeTpzb2gj+L+QMOCtB4iDs=;XqjvktHtRPvcNm9rwgrHSA=="
 ---
 
