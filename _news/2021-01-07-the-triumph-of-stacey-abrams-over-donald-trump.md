@@ -184,20 +184,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Why some Republicans defected as House Democrats impeached Trump"
-    excerpt: "In the 232-197 vote, 10 Republicans joined every Democrat in backing impeachment. That’s a small fraction, though probably double what it would have been without Liz Cheney’s defection"
-    publishedDateTime: 2021-01-14T08:14:00Z
-    webUrl: "https://www.foxnews.com/media/why-some-republicans-defected-as-house-democrats-impeached-trump"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/cheyney.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "8nqb1HV9gZlrQszxRBmlCwco0XJ+CqZlmVHarE6uj8VK106NPSbbJczvDb87JceBKSwcMJsGLeowgVQFhijw04eIUw5o3Oe5EQ2g+MlFR+hWrfiwYmYzq/xmJ4dtUVPNA0c7qxYAFtnUOu0yK4PHslw+AYv92Yz8Fw/O6HGrA1ruooxQsH1FlZwkW3Y0Qd+tKWP5JHjuBqL5vjKsCN0qgIIb2+nmPQdz+UfOfEn+AMBzNJvTOWitzOQWfboE4ge+VgfWceNga+f6mIJy2McgXiBQasIJCM7d/fYZUnBXotriQMtqFHi0YbMloT015YXa7pVSxC2wkhJYZYJ50njgPn33aUuf/PB/ayOuEQX6fQY=;ztYMoUUSaK++xumGjCZWkg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 2360
+heat: 2380
 published: true
 
 provider:
@@ -397,6 +397,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214020153-doctor-jill-biden-file-0419-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden elevates White House science post to Cabinet level"
+    excerpt: "President-elect Joe Biden is elevating the director of the White House Office of Science and Technology Policy to a Cabinet-level position, a move that highlights the emphasis the incoming administration plans to put on science as it inherits a public health crisis.\n    \n"
+    publishedDateTime: 2021-01-15T22:49:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BWe6oOrqEo4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/eric-lander-white-house-science-cabinet/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/eric-lander-white-house-science-cabinet/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115155954-03-biden-pandemic-0115-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

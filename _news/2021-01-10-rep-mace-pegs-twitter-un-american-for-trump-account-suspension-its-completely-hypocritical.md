@@ -95,22 +95,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump's Packing His Bags, But Partisan Media Is Here to Stay"
-    excerpt: "As the mainstream media has abandoned this role while advancing some narratives, no matter their faults, and delegitimizing others, no matter their merits, it is not surprising that cancel culture and anti-conservative censorship are flourishing on social media."
-    publishedDateTime: 2021-01-13T10:46:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/01/13/trumps_packing_his_bags_but_partisan_media_is_here_to_stay_145018.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/13/trumps_packing_his_bags_but_partisan_media_is_here_to_stay_145018.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/13/trumps_packing_his_bags_but_partisan_media_is_here_to_stay_145018.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/532124_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Why Ban of President Trump Proves Twitter Not 'Just a Platform'"
     excerpt: "So Twitter has permanently banned President Donald Trump's account. While this will please Democrats, and perhaps lessen the (justifiable) heat the company is taking from regulators, it just prov… This is what happened."
     publishedDateTime: 2021-01-09T14:56:00Z

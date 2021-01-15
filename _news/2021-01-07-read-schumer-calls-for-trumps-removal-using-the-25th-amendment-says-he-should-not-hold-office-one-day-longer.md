@@ -191,6 +191,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Palm Beach County, Girl Scouts are latest organizations seeking to end leases with Trump"
+    excerpt: "The list of companies and organizations looking to cut business ties with President Donald Trump after last week’s attack on the Capitol is getting longer. Palm Beach County in Florida said Thursday that it is exploring ending its lease with the president's prized West Palm Beach."
+    publishedDateTime: 2021-01-15T21:55:00Z
+    webUrl: "https://www.nbcnews.com/business/business-news/palm-beach-county-girl-scouts-are-latest-organizations-seeking-end-n1254435"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254435"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254435"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3442442/210115-donald-trump-palm-beach-golf-course-se-209p_f64f3b9cdfefe8b4510f011d3cb8a60e.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "btTQhJxoWYtUItfkjIdK40/Yj2+qT1dcDNDeiMCQJFRfeVTBfQlJx2HDDOD7R4C6yOYZSKxojIE8kw+7JalOP0BeVo+JzyDRSudJbg5OAH2/vGrSRU6YOm+s1mt05U2teR54oFLO3j5xPCvvMXmV2HtBvrkD+P8yEePLXkVYBgsM+AVo9DVAC+vYjLDlnP553kJeA4O6p2Tp8EMRqUOTl2yKmjis2Vc3HzpslQkfzQrKdYwf9aZLU5iYfPYT7UtWyZ7o8kyY5WKG4OWMDa8icI5Ik8uezo8DxFw5MGixIqXLy3DQqrrn/FNfp4d7/AETuz6VUNCwLaO1szY8nuqF7//glv6H5Kmrod5X3aHKEzY=;GyXkHnBJdzHvmvMqh4Rt2A=="
 ---

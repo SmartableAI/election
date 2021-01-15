@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump speech before Capitol riot not enough for impeachment charges: Turley"
-    excerpt: "Democrats are moving to remove President Trump from office after Wednesday's U.S. Capitol riot, but George Washington University law professor Jonathan Turley said he doesn’t believe Trump committed an impeachable offense."
-    publishedDateTime: 2021-01-10T16:35:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wkUgWCCMLvk/trump-speech-capitol-riot-impeachment-push-turley"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-speech-capitol-riot-impeachment-push-turley.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-speech-capitol-riot-impeachment-push-turley.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006789526874-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Live Updates: Trump's chances for acquittal in upcoming Senate impeachment trial unclear"
     excerpt: "Fox News contacted every Republican who will be serving as a senator after President-elect Joe Biden's inauguration on January 20, when the trial is likely to begin."
     publishedDateTime: 2021-01-15T06:05:37Z

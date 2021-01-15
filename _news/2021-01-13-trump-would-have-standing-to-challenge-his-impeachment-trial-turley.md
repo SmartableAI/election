@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-standing-challenge-impeachmen
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-standing-challenge-impeachment-trial-turley.amp"
 type: article
 quality: 175
-heat: 295
+heat: 275
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump speech before Capitol riot not enough for impeachment charges: Turley"
-    excerpt: "Democrats are moving to remove President Trump from office after Wednesday's U.S. Capitol riot, but George Washington University law professor Jonathan Turley said he doesn’t believe Trump committed an impeachable offense."
-    publishedDateTime: 2021-01-10T16:35:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wkUgWCCMLvk/trump-speech-capitol-riot-impeachment-push-turley"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-speech-capitol-riot-impeachment-push-turley.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-speech-capitol-riot-impeachment-push-turley.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006789526874-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Removing Trump by 25th Amendment could set 'very dangerous' standard: Turley"
     excerpt: "Fox News contributor Jonathan Turley warned Thursday against Democrats' push to remove President Trump from office by invoking the 25th Amendment."
     publishedDateTime: 2021-01-07T15:21:27Z

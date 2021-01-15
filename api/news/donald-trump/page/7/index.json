@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-17-north-carolina-gop-lawmaker-urges-trump-to-suspend-civil-liberties-to-keep-power-invoke-the-insurrection-act.md",
+      "title": "North Carolina GOP lawmaker urges Trump to suspend civil liberties to keep power: ‘Invoke the Insurrection Act’",
+      "excerpt": "Republican North Carolina state Sen. Bob Steinburg said President Trump should declare a national emergency, suspend civil rights, and remain in power over his baseless claims of electoral fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2020/12/16/north-carolina-republican-trump-insurrection/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2020/12/16/north-carolina-republican-trump-insurrection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HUCAGLB7IAI6XNMLCYR7MJTZMA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/12/16/north-carolina-republican-trump-insurrection/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/16/north-carolina-republican-trump-insurrection/?outputType=amp",
+      "publishedDateTime": "2020-12-16T10:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-analysis-federal-reserve-boneheads-emerge-from-trump-era-unscathed.md",
       "title": "Analysis-Federal Reserve 'boneheads' emerge from Trump era unscathed",
       "excerpt": "\"Boneheads.\" \"Pathetic.\" An \"enemy\" of the United States. President Donald Trump was often vicious in his critique of the U.S. Federal Reserve, bashing the central bank governors' monetary policy decisions with tweets and verbal barbs,",
@@ -1521,58 +1573,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-it-is-roiling-him-nyts-maggie-haberman-unpacks-trumps-refusal-to-admit-he-lost.md",
-      "title": "'It Is Roiling Him': NYT's Maggie Haberman Unpacks Trump's Refusal To Admit He Lost",
-      "excerpt": "\"[Trump] can't handle the concept of the label 'loser,' \" Haberman says. \"He has never before encountered a problem that he couldn't sue away through the court system or spin away.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2020/12/10/944935318/it-is-roiling-him-nyts-maggie-haberman-unpacks-trumps-refusal-to-admit-he-lost",
-      "originalUrl": "https://www.npr.org/2020/12/10/944935318/it-is-roiling-him-nyts-maggie-haberman-unpacks-trumps-refusal-to-admit-he-lost",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2020/12/10/gettyimages-1229417416_wide-58c5c8501c163ef4b28e8eee25d110b7095f3a01.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-10T11:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

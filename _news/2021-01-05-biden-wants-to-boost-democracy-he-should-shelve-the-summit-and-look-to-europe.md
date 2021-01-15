@@ -414,6 +414,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden elevates White House science post to Cabinet level"
+    excerpt: "President-elect Joe Biden is elevating the director of the White House Office of Science and Technology Policy to a Cabinet-level position, a move that highlights the emphasis the incoming administration plans to put on science as it inherits a public health crisis.\n    \n"
+    publishedDateTime: 2021-01-15T22:49:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BWe6oOrqEo4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/eric-lander-white-house-science-cabinet/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/eric-lander-white-house-science-cabinet/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115155954-03-biden-pandemic-0115-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden picks former FDA commissioner to lead US vaccine effort"
     excerpt: "President-elect Joe Biden has picked Dr. David Kessler, a former head of the US Food and Drug Administration, to lead federal Covid-19 vaccine efforts for the incoming administration, Biden's presidential transition team announced Friday.\n    \n"
     publishedDateTime: 2021-01-15T12:58:02Z

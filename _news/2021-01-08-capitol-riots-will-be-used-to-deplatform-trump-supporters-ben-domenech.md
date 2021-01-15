@@ -63,38 +63,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump supporters, lawmakers react to Twitter ban"
-    excerpt: "After Twitter took the extraordinary step of banning President Trump from its platform Friday, a stunned group of lawmakers and supporters weighed in on the decision."
-    publishedDateTime: 2021-01-09T02:29:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sS_AAN2w438/trump-supporters-lawmakers-twitter-ban"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-lawmakers-twitter-ban.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-lawmakers-twitter-ban.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/27d92032-9abc-440f-98b4-d0ed84bafb91/266c6b1a-436b-4cdc-8c3c-591d826bd1a0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "House Judiciary Committee frames Trump impeachment in new report"
-    excerpt: "House Judiciary Committee Chairman Rep. Jerrold Nadler, D-N.Y., released a 74-page report Tuesday afternoon describing President Trump as a \"clear and present danger\" who should be impeached."
-    publishedDateTime: 2021-01-13T02:09:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bIENo8gwWCE/judiciary-committee-impeachment-report"
-    ampWebUrl: "https://www.foxnews.com/politics/judiciary-committee-impeachment-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judiciary-committee-impeachment-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/efae2f2f-6ec6-4aca-bcd4-8bd9dcd96dfb/d284c12c-47c0-4b66-a5c4-c41241d9f204/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Barr calls Trump conduct amid Capitol riot a 'betrayal of his office and supporters'"
     excerpt: "Former Attorney General William Barr says President Donald Trump’s conduct as a violent mob of his supporters stormed the U.S. Capitol was a “betrayal of his office and supporters.”"
     publishedDateTime: 2021-01-07T16:22:38Z

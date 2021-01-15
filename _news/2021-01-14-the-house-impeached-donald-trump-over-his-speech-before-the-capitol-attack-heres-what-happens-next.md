@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 779
         isCached: true
+  - title: "Trump’s impeachment trial pending, Republican leader Mitch McConnell calls it a ‘vote of conscience’"
+    excerpt: "House Speaker Nancy Pelosi offered no clues Friday on her plans to send President Donald Trump’s impeachment to the Senate for trial"
+    publishedDateTime: 2021-01-15T22:34:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-impeachment-trial-20210115-2i3vshire5altdrvw6ohieqrsq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-impeachment-trial-20210115-2i3vshire5altdrvw6ohieqrsq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-impeachment-trial-20210115-2i3vshire5altdrvw6ohieqrsq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 110
+    images:
+      - url: "https://www.chicagotribune.com/resizer/EriE5_l5xPVwtO9jmKjyyRb_Uws=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VRWGIX76UW7OWH7Y36Q25UFT4A.jpg"
+        width: 1200
+        height: 793
+        isCached: true
   - title: "Senate Majority Leader Mitch McConnell is inclined to vote to convict Trump in an impeachment trial, new report says"
     excerpt: "House Minority Leader Kevin McCarthy is also talking to GOP colleagues about whether he should ask Trump to resign, The New York Times reports."
     publishedDateTime: 2021-01-13T03:56:00Z

@@ -100,22 +100,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump's Packing His Bags, But Partisan Media Is Here to Stay"
-    excerpt: "As the mainstream media has abandoned this role while advancing some narratives, no matter their faults, and delegitimizing others, no matter their merits, it is not surprising that cancel culture and anti-conservative censorship are flourishing on social media."
-    publishedDateTime: 2021-01-13T10:46:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/01/13/trumps_packing_his_bags_but_partisan_media_is_here_to_stay_145018.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/13/trumps_packing_his_bags_but_partisan_media_is_here_to_stay_145018.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/13/trumps_packing_his_bags_but_partisan_media_is_here_to_stay_145018.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/532124_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "d05dxm15FsVbh2mjeE/8Lky5TgZk6UDQdR/NVtXQPbYxNvmj5J01o94vy+fviszXUAFRxFq24iZBPVDrzFW1UkZ9KXBrIB3TmiIcvN1al8+VsYf2HdqO4ULSJURy0lo3YNCD2ePf1Xag6/Oo/M0uDs7l5kcoM1lNRl+wBM7xE7rmt0a5VdAJ8Erfzn0a41mE4H7iZi5dfMS0U6oDxTiUf881G/K251zNBOK1TUtAZYlbzO4ou2bKjjQlPku5sd5RubJ9psc6h1sLwwTm+s0MetHflAaM0JiueVEEpaO8Y6x/sWbV63uEXh4LLnUH7A5QZ3vR8fGUs2vAMW9adHYBeGswUm54TJK2vSHyrXn7eKc=;Pg0uY1hDclVHRUZnpxQCxw=="
 ---

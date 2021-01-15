@@ -416,6 +416,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden elevates White House science post to Cabinet level"
+    excerpt: "President-elect Joe Biden is elevating the director of the White House Office of Science and Technology Policy to a Cabinet-level position, a move that highlights the emphasis the incoming administration plans to put on science as it inherits a public health crisis.\n    \n"
+    publishedDateTime: 2021-01-15T22:49:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BWe6oOrqEo4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/eric-lander-white-house-science-cabinet/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/eric-lander-white-house-science-cabinet/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115155954-03-biden-pandemic-0115-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden picks former FDA commissioner to lead US vaccine effort"
     excerpt: "President-elect Joe Biden has picked Dr. David Kessler, a former head of the US Food and Drug Administration, to lead federal Covid-19 vaccine efforts for the incoming administration, Biden's presidential transition team announced Friday.\n    \n"
     publishedDateTime: 2021-01-15T12:58:02Z
@@ -1733,6 +1749,6 @@ related:
         height: 629
         isCached: true
 
-secured: "4r/XeZMsEgPEMk9FUeVk9HAx0yaUXWXbOh1I0dplZeSoVlQd7Dt3SKvA3YDCbjR8I6pqYVbz7C8RDHYDZ8Amnu5N1We5xFFpnPLTNvNXZADf8opfA9TlWwG7bJ/rIDvk/JaRLLwHHOaL5tmIBTXkxa4ZFZCGv7HhF5gpAKZazFo4xCBvSgqUKIBb/oIvTz4r93gK7k530q313ADd04mw64Rhgkt2akxiRn7NZYLmiB0NBCdEe1g9XSKhIuVFcYDvxSbLSwZhTfBJWFIEOaNEmn4U9zT8cVf8KX+3ImD83r/CommKTc3YIuuGqZlHHNOnF76Lvoxoo/LVtWWN7WnevqW7nDrwZy5CoVZs62tBzB8=;5DIUja4d/bk9Qc74LlBqvw=="
+secured: "lFHQ5ndBox3FcyAlAFi05l/baDblgTIi7ITAvnJhA1PDmbmhmKUMeJGmOEAv/sQJWyMAi5WPcFyoc7DJl7T9D+LSwHd6GS//5IKL1Ic6J9OTtGrjo4OYoRbOCs3YN1m8W7ghV4H5butzUC8g1KAP2W2AsZyHYS4Nw3Q8T5atAiw+benNQve99CALrAHeCG5jPY09ZxaBEYtG26BxbUny19iRBihpQcq2YsHTbQrqL+hbqWH42AEG6Cfzlq9cOky+JyAvr9qBJ382pJq7uxRZFFsqHBUmy6HDqRxrDiOmAysw0rftNuAnIC6LcJxTvw9x9wLVyEMz9NDQ490ZaqM8tQueY4OJ8v1hrCTn+gHDtIIy+vr5EeBDn/ncyJlWaQULAwOirBhiI7RgmEmcJMc0Dodaoy9sbUxNCzCB4DhcpAuMa5dkae2Qq9LWHnmiK34fwUnsXOCWedqYw7vjd0Y1HO4BDwaQF0G4jdlhfE71yFEALx9g57Rdlny1Elh4UBXUKg1UPkWrHvFS7TcMI9RIPA==;1F1cUf9zXKd3FPZkiwOKlQ=="
 ---
 

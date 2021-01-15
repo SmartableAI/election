@@ -929,15 +929,15 @@ related:
         isCached: true
   - title: "Palestinians announce first elections in 15 years, on eve of Biden era"
     excerpt: "Palestinian President Mahmoud Abbas announced parliamentary and presidential elections on Friday, the first in 15 years, in an effort to heal long-standing internal divisions."
-    publishedDateTime: 2021-01-15T19:04:00Z
-    webUrl: "https://www.reuters.com/article/us-palestinians-election/palestinians-announce-first-elections-in-15-years-on-eve-of-biden-era-idUSKBN29K2C9?edition-redirect=ca"
+    publishedDateTime: 2021-01-15T21:52:00Z
+    webUrl: "https://www.reuters.com/article/palestinians-election-int/palestinian-authority-sets-dates-for-legislative-and-presidential-elections-idUSKBN29K2CB"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 120
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547970259&r=LYNXMPEH0E1G6&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547963482&r=LYNXMPEH0E1D1&w=800"
         width: 800
         height: 558
         isCached: true
@@ -1589,8 +1589,8 @@ related:
         isCached: true
   - title: "U.S. House Speaker Pelosi won't say when Trump impeachment trial will start"
     excerpt: "U.S. House of Representatives Speaker Nancy Pelosi on Friday sidestepped a question about when President Donald Trump would face his second impeachment trial, on a charge of inciting his supporters to attack the Capitol."
-    publishedDateTime: 2021-01-15T18:06:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump/update-2-us-house-speaker-pelosi-wont-say-when-trump-impeachment-trial-will-start-idUSL1N2JQ1KN"
+    publishedDateTime: 2021-01-15T22:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/u-s-house-speaker-pelosi-wont-say-when-trump-impeachment-trial-will-start-idUSKBN29K0NV?edition-redirect=ca"
     type: article
     provider:
       name: Reuters
@@ -2275,6 +2275,17 @@ related:
     provider:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
+    quality: 55
+  - title: "Timing of Trump Trial Uncertain as Pelosi Gives No Clues"
+    excerpt: "House Speaker Nancy Pelosi is offering no clues on her plans to send President Donald Trump’s impeachment to the Senate for trial."
+    publishedDateTime: 2021-01-15T22:34:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-15/trump-impeachment-trial-to-focus-on-his-attacks-on-election"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-15/trump-impeachment-trial-to-focus-on-his-attacks-on-election?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-15/trump-impeachment-trial-to-focus-on-his-attacks-on-election?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 55
 
 secured: "5mzvo+Qd/FTithFbiGTWcLhkVap33lUpmiMpvJjWIJfFsdlQdd+s6nkpF3/KTOHjZb9rpVfPYe3Oc4x/SNIG9qiHRthxeap46DevDEpT2PXhP/pH/Q6xKdhExEya4sdhpu/oj5AEAc2l2LX5pDomVTAw4IFymGuxSfbW/Hj9idf+nhh2AN60ddjp2K3X9FT9sp3C4HXr0ejAnT4dGI2jhXGFHmvcAPyLC6kZFQmz6TL/yu6I378Eu2iu/4qSTKyYRJN0fGGZs7k+oZoYDt8xrQ4MtAoRUHVAshnD6MXXBAMZ7VOpexEtwP3RkLGIoOjGotVssRsf8AAjilJ0K91qATDu8SeMG98peIP2E3txKiF0KFWm/woT8iZEURdvW3CTi0mkaDPDflxDPQq0PD5PQ92o1zvnGEfERu47taTRxjq95G70l6grs43D6V5Q/GYC0ADk9qMc3JQkvxR8iRu/mMF+TXjiHINFnIrm0b26KAlgcDls2s36S4eWzoua2PtwZeTCcml//N8CPe1paZLKgg==;jWtexOQYQWfwpyjgEmVx0Q=="

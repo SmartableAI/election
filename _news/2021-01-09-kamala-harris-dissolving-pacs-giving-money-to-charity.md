@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Mike Pence calls Kamala Harris to offer congratulations"
+    excerpt: "WASHINGTON -- Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-15T18:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 150
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "House passes measure calling on Pence to remove Trump"
     excerpt: "The House on Tuesday passed legislation calling on Vice President Pence to tap his Constitutional authority to remove President Trump from office in response to the president’s role in the deadly mob attack on the Capitol last week."
     publishedDateTime: 2021-01-13T12:01:00Z
@@ -59,21 +75,21 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Trump to leave Washington on morning of Biden's inauguration"
-    excerpt: "President Donald Trump will leave Washington next Wednesday morning, just before President-elect Joe Biden's inauguration"
-    publishedDateTime: 2021-01-15T17:41:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-leave-washington-morning-bidens-inauguration-75278801"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-leave-washington-morning-bidens-inauguration-75278801"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-leave-washington-morning-bidens-inauguration-75278801"
+  - title: "Trump to leave Washington on morning of Biden’s inauguration"
+    excerpt: "President Donald Trump will leave Washington next Wednesday morning, just before President-elect Joe Biden’s inauguration"
+    publishedDateTime: 2021-01-15T22:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-to-leave-washington-on-morning-of-bidens-inauguration/2021/01/15/53af42ec-5757-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-leave-washington-on-morning-of-bidens-inauguration/2021/01/15/53af42ec-5757-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-leave-washington-on-morning-of-bidens-inauguration/2021/01/15/53af42ec-5757-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a045c610bc234fbdb1d0d1f9c77e17c8_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "That time Kamala Harris flew on Trump’s private plane, and more from her biographer"
     excerpt: "Author Dan Morain answers queries about his new book on Kamala Harris, like why she's an only-in-California politician and what to expect from her as vice president."
@@ -90,52 +106,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/ad02f72/2147483647/strip/true/crop/3000x1959+0+20/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff6%2F01%2Fcbd4b15d41a6962baf92c78dbb80%2Fdhs-acting-secretary-immigration-63532.jpg"
         width: 320
         height: 209
-        isCached: true
-  - title: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
-    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
-    publishedDateTime: 2021-01-15T20:01:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 133
-    images:
-      - url: "https://www.chicagotribune.com/resizer/Z3qJoKYgp7I25-Bfj9OgWDYkWb8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7RFR7OAVVHIHHAVMBLL7YTF44.jpg"
-        width: 1200
-        height: 898
-        isCached: true
-  - title: "Mike Pence calls Kamala Harris to offer congratulations"
-    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's"
-    publishedDateTime: 2021-01-15T18:50:00Z
-    webUrl: "https://apnews.com/9cf431138cceeda9f6f7104e0fa20487"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 130
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/4444eb45d10847adbfe84daefb893fa0/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
-    excerpt: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
-    publishedDateTime: 2021-01-15T19:17:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 127
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
         isCached: true
   - title: "Pro-Trump supporters to rally again in Washington"
     excerpt: "Supporters of President Donald Trump are returning to Washington for a pair of rallies to back his desperate efforts to subvert the election that he lost"
@@ -403,6 +373,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "'Kamala's Way': A new biography explores how Harris played Trump's game, using confidence and unapologetic ambition to grab the spotlight"
+    excerpt: "Read an exclusive excerpt by author Dan Morain that detail Harris' journey from attorney general to dynamic senator to the first female VP."
+    publishedDateTime: 2021-01-15T02:14:00Z
+    webUrl: "https://www.businessinsider.com/kamalas-way-read-an-excerpt-from-kamala-harris-new-biography-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/kamalas-way-read-an-excerpt-from-kamala-harris-new-biography-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamalas-way-read-an-excerpt-from-kamala-harris-new-biography-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5ffe08d3a8de7700187d37a6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Kamala Harris dissolving PACs, giving money to charity"
     excerpt: "Vice President-elect Kamala Harris is dissolving her political fundraising committees as she prepares for her inauguration with President-elect Joe Biden on Jan. 20, giving leftover money to California charities."
     publishedDateTime: 2021-01-08T12:41:00Z
@@ -498,6 +484,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Trump plans to depart Washington the morning of Inauguration Day: source"
+    excerpt: "President Donald Trump now plans to leave Washington on the morning of Inauguration Day next Wednesday after considering a departure on Tuesday, a source familiar with the matter said on Friday."
+    publishedDateTime: 2021-01-15T22:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-depart/trump-plans-to-depart-washington-the-morning-of-inauguration-day-source-idUSKBN29K26W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547954619&r=LYNXMPEH0E18B&w=800"
+        width: 800
+        height: 501
+        isCached: true
   - title: "Pence vows to honor U.S. history, ensure safe inauguration of new president"
     excerpt: "U.S. Vice President Mike Pence on Thursday vowed to uphold American history and ensure a safe transition of power to President-elect Joe Biden, eight days after supporters of U.S. President Donald Trump laid siege to the U."
     publishedDateTime: 2021-01-15T06:46:00Z
@@ -571,6 +571,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_982bd6f39d8176d926a35de2b32bfd51-h_16ae4b24c5b25e70b3b25aaa73a4c7ca.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
+    publishedDateTime: 2021-01-15T22:44:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 83
+    images:
+      - url: "https://www.baltimoresun.com/resizer/Z3qJoKYgp7I25-Bfj9OgWDYkWb8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7RFR7OAVVHIHHAVMBLL7YTF44.jpg"
+        width: 1200
+        height: 898
         isCached: true
   - title: "Kamala Harris graces Vogue's February cover"
     excerpt: "Sen. Kamala Harris, who will soon be the first female, Black and Asian American vice president of the United States, will grace the February issue of Vogue magazine."
@@ -747,6 +763,20 @@ related:
       - url: "https://media.nbcnewyork.com/2021/01/kamala-harris-vogue.jpg?resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
+    excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
+    publishedDateTime: 2021-01-15T21:34:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/article_83c74b49-2415-5ca6-8ce3-a2ba0e83f0fa.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 57
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
+        width: 600
+        height: 517
         isCached: true
   - title: "Arts agency member resigns after vulgar comment about Harris"
     excerpt: "An appointee to the Ohio Arts Council resigned Friday after making a vulgar comment on social media about Vice President-elect Kamala Harris that also supported President"

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-acknowledged-he-bears-some-bl
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-acknowledged-he-bears-some-blame-for-capitol-riot-last-week-in-call-with-mccarthy-sources.amp"
 type: article
 quality: 163
-heat: -1
-published: false
+heat: 163
+published: true
 
 provider:
   name: Fox News
@@ -29,24 +29,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "Rep. Kevin McCarthy is open to censuring Trump: source"
-    excerpt: "House Minority Leader Kevin McCarthy is open to censuring President Trump, a source familiar with his thinking told Fox News Tuesday."
-    publishedDateTime: 2021-01-13T00:24:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TJ8hTccq63A/mccarthy-censuring-trump-capitol-riots"
-    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-censuring-trump-capitol-riots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-censuring-trump-capitol-riots.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "J72I3pDSu75XHMymzfJtfZDPTJ2lD6Pe/14oMBUhrel048v81s25L00go+2J2DFF9qlGiNQSsYzzEnKSciCxm//dkv4eAfuh6Sq1vb/xH88nzdvFCq1vMXtjGgM06uoVeyWrRXul3Qd9PfQkg3ncxqiAesBZMwA2PfEVoXYl4NIXaiyv6+EqEvDsVuIcXcSLUx1mSbYkQOawMqr+DyTfBfrVOhN6SIhlGFDvjDYMhm+ZdDi/ZXdv6zfIwJ33Kp9Z/Bxm5F9/r82tinSV8a9IPb2aydQWSXwWe8NDuXzVofNtXo23RQESTsSrKfdycif0u1y0s3Jf+Q1Ah9R/vDC47IX/rWgc1/y0uVnJLkmyvYk=;q/KT6u5x5Dxjrc8ZFJatcg=="
 ---

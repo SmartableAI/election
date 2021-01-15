@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://static.politico.com/72/c5/7ea93ab64b1e8bd848e51547a6ff/gettyimages-1230555008-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Palm Beach County, Girl Scouts are latest organizations seeking to end leases with Trump"
+    excerpt: "The list of companies and organizations looking to cut business ties with President Donald Trump after last week’s attack on the Capitol is getting longer. Palm Beach County in Florida said Thursday that it is exploring ending its lease with the president's prized West Palm Beach."
+    publishedDateTime: 2021-01-15T21:55:00Z
+    webUrl: "https://www.nbcnews.com/business/business-news/palm-beach-county-girl-scouts-are-latest-organizations-seeking-end-n1254435"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254435"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254435"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3442442/210115-donald-trump-palm-beach-golf-course-se-209p_f64f3b9cdfefe8b4510f011d3cb8a60e.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "60sZfYg1ej5xJQHDBS20AawtWbIXFN6lM/EQBi4WLQAnz971LjSk3UFNzfrBAulWEUDtel4RYhMKu5doCcKCw5GLtaN+Q/vqiUoT2xcyIMkrkCssjHccAOC8o0SXx/JL6V9toqFV81eDdb0Nx4IZfSZrKmh4DJKEyeXj0YJl7jQtGOEBsRCbJBqAksIdgf21CNFky/XS638647Tain7asqscMrMWiMHG3x0DA657koc6V7sZGfz490pdV1W/2ef48GVghva5iWL4SA6KVybYxYiIa2P8Eee5fzgjGzFDT5VZTu+vKy33yvLY3hl/jyjd87URSPko+hrcHEicxceprjxkWoDIfpygPuRvEoxfA8Y=;G7E7odFNwN6qfkglx/FvlA=="
