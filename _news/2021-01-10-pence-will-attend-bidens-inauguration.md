@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 2280
+heat: 2320
 published: true
 
 provider:
@@ -605,6 +605,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209092448-02-joe-biden-health-team-1208-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Rehearsal for Biden inauguration ceremony pushed back a day amid security concerns"
+    excerpt: "The rehearsal for the inauguration ceremony will be delayed a day amid heightened security concerns, acting Homeland Security Deputy Secretary Ken Cuccinelli told CNN Friday morning.\n    \n"
+    publishedDateTime: 2021-01-15T13:59:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hFlq1AhOK3o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/biden-inauguration-rehearsal-ken-cuccinelli-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/biden-inauguration-rehearsal-ken-cuccinelli-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200311172501-ken-cuccinelli-0311-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1279,6 +1295,22 @@ related:
       - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/ott_now_biden_climatecplan_210112_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "The latest on Biden's inauguration and security threats"
+    excerpt: "DC and states around the country are on high alert and tightening security in preparation for possible protests ahead of Biden's inauguration and in wake of Trump's impeachment. Follow here for the latest."
+    publishedDateTime: 2021-01-15T13:54:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/biden-inauguration-security-dc-capitol-news-01-15-21/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/biden-inauguration-security-dc-capitol-news-01-15-21/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/biden-inauguration-security-dc-capitol-news-01-15-21/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114125930-08-us-capitol-security-0114-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Why Does Australia Want to Kill a Bird Named Joe (Biden)?"
     excerpt: "A racing pigeon that appeared to have traveled from Oregon to a backyard in Melbourne faces death. But there’s a twist."

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28O18R"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28O18R"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -195,6 +195,20 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_10cae1e803da4b8c8f885e994a6b31f1_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden's inauguration challenge is to unite America"
+    excerpt: "The theme for President-elect Joe Biden's inauguration will be \"America United,\" an issue that's long been a central focus for Biden but one that's taken on added weight in the wake of the violence at the U."
+    publishedDateTime: 2021-01-15T14:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/15/bidens-inauguration-challenge-unite-america/4172672001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4ffeaeba-2bb6-4ce3-874e-56735404a94f_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden to select Deb Haaland as Interior Secretary, the first Native American to hold that position, if confirmed"
     excerpt: "If confirmed, Haaland would be the first Indigenous person to not only serve in as Interior Secretary but hold any presidential Cabinet position."

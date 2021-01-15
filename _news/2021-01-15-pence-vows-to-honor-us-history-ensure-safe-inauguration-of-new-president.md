@@ -2,9 +2,9 @@
 category: news
 title: "Pence vows to honor U.S. history, ensure safe inauguration of new president"
 excerpt: "U.S. Vice President Mike Pence on Thursday vowed to uphold American history and ensure a safe transition of power to President-elect Joe Biden, eight days after supporters of U.S. President Donald Trump laid siege to the U."
-publishedDateTime: 2021-01-15T06:41:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-pence/pence-vows-to-honor-u-s-history-ensure-safe-inauguration-of-new-president-idUSKBN29K05A"
-webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-pence/pence-vows-to-honor-u-s-history-ensure-safe-inauguration-of-new-president-idUSKBN29K05A"
+publishedDateTime: 2021-01-15T06:46:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-pence/pence-vows-to-honor-us-history-ensure-safe-inauguration-of-new-president-idUSKBN29K05A"
+webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-pence/pence-vows-to-honor-us-history-ensure-safe-inauguration-of-new-president-idUSKBN29K05A"
 type: article
 quality: 103
 heat: 123
@@ -46,6 +46,6 @@ related:
         height: 300
         isCached: true
 
-secured: "rJuuP2R87LEKFqOh0/ewSznh1q0lAugh5tdw+/VMtmZVWBy451jEY2tQRQlpZFbmgsRNHPOfLE3ZMjkjNJ6Tet6TwNtaa5keTj6JOrqseKv6OM0AvslyclcbDf6ARfH57PSHNM58I83HFCNOtwxbO6NZDDBGyqbVjJ7vervbS9V9h41HRsyAkmyvpulJugfwSxICa6rYi/BvuTz4T1RxcKFH+q2lK/JaYFIUufwVcotlyeu5lDDB3G5RxHUw1WT1WHbKK31H5F/WYgC7kPLZQu5YRPisZbS1iZrMXoZIwbjopehWVPfduaIdCtYklx5s4nNFgow8Kn9GjLq6ellomsxKzSwZloa0orP1m3FLNfYkGykBHP4MFZ0urbvpl53CBWu0GMoa0C57S8Qh4i0j88TD4LTo06suyzsCDlRlrSlqp+nYToguarVhdJfkNBQD3cwnCqYZ7eO47nyZbM+cgtH9dbJEQBBkS3J37UZehZPwLBpygP6YRHYOlONSfCJzWpmZi8fbXI0DniOB/72paA==;gdlKQn/l3UHtiQtUuv49ZA=="
+secured: "Uc0pzasowYyJt7jSM2SnOmVIOGoQSLBQJNmWEzau1wc6ECCtmB+mMJihk8N6qUYazCSCob0/AafGLUTPoBpRfO2BLXPURZxo0pEf6gu86RW0KLOLR2POagbtL3IgkOaxLpzqhaBDB9nhLlzGm4fGOEzFeXHS9KHmZNl0e0e7l/8Mlk2HAe4fmfbV8RELeFBeGnAnVdBwQ1zxH9grBqVniRMRseqR3TAGKUgWV15iCeESXuTi7Bf7nFHGgl5/CJS/F22DRKOpq456ayowjt5dGwJvKuogzOIvqZ/P+KPTI3o57er/+DQ+9rzXqkJ71hlOceljVlNuJ+TNwiIkcWuxZuazan/fGweJQMQXj6SEqp0=;O4aw3i9Bt3lDm8KTXGDScQ=="
 ---
 

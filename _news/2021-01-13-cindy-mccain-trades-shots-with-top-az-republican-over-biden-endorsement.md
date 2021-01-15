@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-trades-shots-with-top-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Former Biden adviser Moe Vela's Big Idea: Republicans 'need to feel heard' by new administration"
+    excerpt: "Moe Vela, who is the former director of management and senior advisor to then-Vice President Biden, told Fox News that among other things, moderate Republicans with whom Biden shares values will \"need to feel heard\" by the new administration. "
+    publishedDateTime: 2021-01-15T13:10:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LHZme6EwKJE/moe-vela-big-idea-republicans-need-to-feel-heard-by-new-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/moe-vela-big-idea-republicans-need-to-feel-heard-by-new-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/moe-vela-big-idea-republicans-need-to-feel-heard-by-new-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "DvLwL3J501CA4vcmAeePLaYv1memekFAIMSit2bqPrym6XA+cheKmbBryzq6W8DVaThM7AkfAW+4r0kzoE81yYee2hMt12oird1+U2DDnmz5pBMJQCokK2tWEaePCL4XuyM4g1o/kJGK2tIYoYruScogDCG+oTa70w/hCg8+yfbg47Wz5qJrQpV4LIZhnecs2eQ3PHBoTFPEPOkWZTyA/qdUHQTrnTrJPv3WN2n0o4E441Qe46f2acyUIxbYhLmm+TbMI2nbPLJGTQOOfTwsSvQ8T7HRXweJGDb2ATHnM2MVH0unwZc+QL0YDGHfZBZ0dMEk2KUT/co1fPGUAaapiAWapaBbxY1oy1gjdLgxIiA=;viRFdg8mMVkGKafTY+LvDg=="
 ---

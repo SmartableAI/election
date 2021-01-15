@@ -2,9 +2,9 @@
 category: news
 title: "U.S. executes man with COVID-19, 12th under Trump administration"
 excerpt: "The U.S. government on Thursday executed Corey Johnson, a convicted murderer, marking one of the final two federal executions planned under President Donald Trump's administration, after the Supreme Court rejected a plea to allow him to recover from COVID-19."
-publishedDateTime: 2021-01-15T12:20:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-executions/u-s-supreme-court-allows-execution-of-condemned-men-with-covid-19-idUSKBN29J258"
-webUrl: "https://www.reuters.com/article/us-usa-executions/u-s-supreme-court-allows-execution-of-condemned-men-with-covid-19-idUSKBN29J258"
+publishedDateTime: 2021-01-15T14:11:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-executions/u-s-executes-man-with-covid-19-12th-under-trump-administration-idUSKBN29J258"
+webUrl: "https://www.reuters.com/article/us-usa-executions/u-s-executes-man-with-covid-19-12th-under-trump-administration-idUSKBN29J258"
 type: article
 quality: 105
 heat: -1
@@ -652,6 +652,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1706380/donald-trump-2020-capitol-riot.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Man convicted in 3 killings to be last executed under Trump"
+    excerpt: "The last federal inmate facing execution before President Donald Trump leaves office was sentenced to death for the killings of three women in a Maryland wildlife refuge"
+    publishedDateTime: 2021-01-15T14:39:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/man-convicted-killings-executed-trump-75275447"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/man-convicted-killings-executed-trump-75275447"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/man-convicted-killings-executed-trump-75275447"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_45df14acc72d4f259cd939ad5bb55f4b_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Senate Democrats signal hope for bipartisan Trump impeachment trial"
     excerpt: "One day after Trump was impeached a second time, a growing number of Republican senators have signaled that they are open to convicting Trump on the charge of “incitement of insurrection.”"
@@ -2824,6 +2840,6 @@ related:
         height: 392
         isCached: true
 
-secured: "X8sGAJrRAT+fgeBwoUwU2gL6FMTC1XhL/RzfHZAh+8ICDKCvsrKw4l2B0yAvUkgd44QFIVqGrRmtqMghS1HrSYGrWxKsK/BVLM96k6KMkkJrVYpAYr7sq5v9lsm7/ted/vWorXf7Cu5B5LaY9dVaS79dcX8j7zchsgxYN/PzlZ7WeBr2JvD1jE3ODrox/CLHsHY7dl03ziCRXI7o1LelZWyF5BzId5lQwe8uBTQB6q8B7oge+/uq/lpOpcAIkSMSC3PHBo52M4Pn8/6RQoEblnGbF30tbjbo8Gua3te5GEemh3zziXdBb2mCNW35FnKOwrsE+LCpUmBXdGH4DgY+b/RVvBppo5lf1pd6OB958nw=;ps2ZGouyHOVepjcqlHGSsg=="
+secured: "UJKWSd3XsMA29Rijfu50EqEuPtFEdKAmmiq8pTHUYvHQUzyk1MhUjE+Vo3sOcyHSvYsiuPVbKkYBiA375WrzZ/cxKdFQsQISp3fJEofGeHCgmiDGgMsEaGPek8gj41f/Gd8BUYWPwS7WgeTXFxeGUkkJEqIFwAr1HjltzLX0uwQyJyNmBd6L/02bJIrVOa0AM+vy2TDl7OCKCvOBnKIIsiog8Apctj032EkMQXAXIX7Bqy78DOC2Plm9JsOEYlSUhynwr6czaSYIrCCIjf50jqVyXb0ZYhha0EwqYRj+JYoLaf+rqlzYai+dUwEyEmiX/E/4/ZAX7uAcA5KsM1PJxWKy1y7SVD5hdNeBpXi+1JY=;RIkqwvkD2Og9RrxgcbP5Jw=="
 ---
 

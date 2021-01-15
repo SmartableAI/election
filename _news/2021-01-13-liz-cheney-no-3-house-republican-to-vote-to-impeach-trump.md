@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -190,6 +190,20 @@ related:
       - url: "https://static.politico.com/72/c5/7ea93ab64b1e8bd848e51547a6ff/gettyimages-1230555008-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump's leaving the White House, but the party is still his"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2021-01-15T14:02:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/trump-s-leaving-white-house-party-still-his-n1254390"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_39/3413938/200922-mitt-romney-jm-1008_99f81a34375d303a730f304943acbaa2.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "60sZfYg1ej5xJQHDBS20AawtWbIXFN6lM/EQBi4WLQAnz971LjSk3UFNzfrBAulWEUDtel4RYhMKu5doCcKCw5GLtaN+Q/vqiUoT2xcyIMkrkCssjHccAOC8o0SXx/JL6V9toqFV81eDdb0Nx4IZfSZrKmh4DJKEyeXj0YJl7jQtGOEBsRCbJBqAksIdgf21CNFky/XS638647Tain7asqscMrMWiMHG3x0DA657koc6V7sZGfz490pdV1W/2ef48GVghva5iWL4SA6KVybYxYiIa2P8Eee5fzgjGzFDT5VZTu+vKy33yvLY3hl/jyjd87URSPko+hrcHEicxceprjxkWoDIfpygPuRvEoxfA8Y=;G7E7odFNwN6qfkglx/FvlA=="

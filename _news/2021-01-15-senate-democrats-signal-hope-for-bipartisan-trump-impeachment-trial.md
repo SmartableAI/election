@@ -655,6 +655,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Man convicted in 3 killings to be last executed under Trump"
+    excerpt: "The last federal inmate facing execution before President Donald Trump leaves office was sentenced to death for the killings of three women in a Maryland wildlife refuge"
+    publishedDateTime: 2021-01-15T14:39:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/man-convicted-killings-executed-trump-75275447"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/man-convicted-killings-executed-trump-75275447"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/man-convicted-killings-executed-trump-75275447"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_45df14acc72d4f259cd939ad5bb55f4b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump impeachment trial could begin on Inauguration Day"
     excerpt: "President Donald Trump’s impeachment trial could begin on Inauguration Day, just as Democrat Joe Biden takes the oath of office in an extraordinary end to the defeated president’s tenure in the White House."
     publishedDateTime: 2021-01-14T16:45:00Z
@@ -1626,8 +1642,8 @@ related:
         isCached: true
   - title: "U.S. executes man with COVID-19, 12th under Trump administration"
     excerpt: "The U.S. government on Thursday executed Corey Johnson, a convicted murderer, marking one of the final two federal executions planned under President Donald Trump's administration, after the Supreme Court rejected a plea to allow him to recover from COVID-19."
-    publishedDateTime: 2021-01-15T12:20:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-executions/u-s-supreme-court-allows-execution-of-condemned-men-with-covid-19-idUSKBN29J258"
+    publishedDateTime: 2021-01-15T14:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-executions/u-s-executes-man-with-covid-19-12th-under-trump-administration-idUSKBN29J258"
     type: article
     provider:
       name: Reuters

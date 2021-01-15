@@ -29,8 +29,8 @@ images:
 related:
   - title: "Pence vows to honor U.S. history, ensure safe inauguration of new president"
     excerpt: "U.S. Vice President Mike Pence on Thursday vowed to uphold American history and ensure a safe transition of power to President-elect Joe Biden, eight days after supporters of U.S. President Donald Trump laid siege to the U."
-    publishedDateTime: 2021-01-15T06:41:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-pence/pence-vows-to-honor-u-s-history-ensure-safe-inauguration-of-new-president-idUSKBN29K05A"
+    publishedDateTime: 2021-01-15T06:46:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-pence/pence-vows-to-honor-us-history-ensure-safe-inauguration-of-new-president-idUSKBN29K05A"
     type: article
     provider:
       name: Reuters

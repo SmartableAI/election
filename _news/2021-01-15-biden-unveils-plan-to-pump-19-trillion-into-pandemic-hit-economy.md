@@ -2,9 +2,9 @@
 category: news
 title: "Biden unveils plan to pump $1.9 trillion into pandemic-hit economy"
 excerpt: "President-elect Joe Biden outlined a $1.9 trillion stimulus package proposal on Thursday, saying bold investment was needed to jump-start the economy and accelerate the distribution of vaccines to bring the coronavirus under control."
-publishedDateTime: 2021-01-15T09:34:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-stimulus/update-4-biden-unveils-plan-to-pump-19-trillion-into-pandemic-hit-economy-idUSL1N2JP30B"
-webUrl: "https://www.reuters.com/article/usa-biden-stimulus/update-4-biden-unveils-plan-to-pump-19-trillion-into-pandemic-hit-economy-idUSL1N2JP30B"
+publishedDateTime: 2021-01-15T14:18:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-stimulus/update-3-biden-to-unveil-plan-to-pump-19-trillion-into-pandemic-hit-economy-idUSL1N2JP30B"
+webUrl: "https://www.reuters.com/article/usa-biden-stimulus/update-3-biden-to-unveil-plan-to-pump-19-trillion-into-pandemic-hit-economy-idUSL1N2JP30B"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547774889&r=LYNXMPEH0D0O8&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547909526&r=LYNXMPEH0D0O8&w=800"
     width: 799
     height: 543
     isCached: true
@@ -44,6 +44,38 @@ related:
       - url: "https://i.guim.co.uk/img/media/839df3d21e6274cce2021d3fdf7cb39a393fb6e7/0_323_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dccc95fc4955e3136877727f1ed87114"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden unveils $1.9 trillion economic relief as Trump's Senate trial looms"
+    excerpt: "Majority Leader Mitch McConnell said the Senate would not reconvene before January 19, the day before Mr. Trump leaves office."
+    publishedDateTime: 2021-01-15T14:26:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-second-impeachment-senate-trial/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-second-impeachment-senate-trial/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-second-impeachment-senate-trial/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 139
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/15/271825a6-0f84-4789-b1b5-26e6a1f513f0/thumbnail/1200x630/e2df6a2401b1edfdd1bf44bba92ff8c9/gettyimages-1296409766.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Will Melania Trump invite Jill Biden to tea-and-tour at White House or break tradition?"
+    excerpt: "The decades-old civic ritual of the outgoing FLOTUS inviting her successor to tea and a tour of the White House appears to be off for Melania Trump."
+    publishedDateTime: 2021-01-15T14:05:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/01/15/melania-trump-jill-biden-white-house-tea-and-tour/6602559002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6602559002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6602559002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 132
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/23/USAT/d2af2f4d-3bc8-477e-a5ca-d8c20530111f-GTY_1292797972.jpg?auto=webp&crop=2750,1547,x1,y247&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Capitol siege raises security concerns over Biden inauguration"
     excerpt: "President-elect Joe Biden’s inauguration was already going to be scaled back, but the Capitol siege raises further security concerns."
@@ -572,6 +604,36 @@ related:
       - url: "https://i.guim.co.uk/img/media/9a56e2b5f78e9f720c135beccffd90692f2f238f/0_171_4308_2586/master/4308.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fa4ff21a9d6e4d961982f1de2692b2a8"
         width: 600
         height: 360
+        isCached: true
+  - title: "$2,000 Stimulus Check Update as Joe Biden Pushes for Third Set of Direct Payments"
+    excerpt: "President-elect Joe Biden has proposed \"direct cash payments\" totaling $2,000 be given to Americans, including a third stimulus check of $1,400, in addition to the $600 payment issued last month, as part of his $1."
+    publishedDateTime: 2021-01-15T14:39:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-coronavirus-relief-package-third-stimulus-check-american-rescue-plan-1561899"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-coronavirus-relief-package-third-stimulus-check-american-rescue-plan-1561899?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-coronavirus-relief-package-third-stimulus-check-american-rescue-plan-1561899?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1708966/president-elect-joe-biden-covid-19-relief-january-2020.jpg"
+        width: 2500
+        height: 1636
+        isCached: true
+  - title: "The impact President Trump's impeachment could have on Biden's agenda"
+    excerpt: "CBS News political contributors Robby Mook and Terry Sullivan join \"CBS This Morning\" to discuss whether the impeachment trial of President Trump could impact President-elect Joe Biden's agenda. Plus,"
+    publishedDateTime: 2021-01-15T14:06:00Z
+    webUrl: "https://www.cbsnews.com/video/the-impact-president-trumps-impeachment-could-have-on-bidens-agenda/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/15/332d8909-f5ee-416d-bd2c-2a8ea83d5d1b/thumbnail/1200x630/fab852e28e8c7a68d382085732290a21/cbsn-fusion-the-impact-president-trumps-impeachment-could-have-on-bidens-agenda-thumbnail-627054-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump impeachment: attention turns to Senate after House votes to impeach – live"
     excerpt: "Trump’s impeachment in the House triggers a trial in the Senate, which McConnell says can’t begin until Senate is back in session Tuesday"
@@ -1249,6 +1311,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "7BemntY96kAT0Umfbx55qjz001es1vQP7gJRGRnuzdgkItnywVmPp1IJYr73LFSLU1E+kEnG/Kucv/HxAzBeEp9y7hBl4j5WUj4YI9NcjUfh0J2GLQKGNo7r5Imt97ZHJJJgB1FE1uAu1tzGJFeHWBFHcchVj4fEn1GkyLRT0WAk1WZT46oTMCzmPFki1Tt6OcH7jBDmlmfFemz0rrDzlv3VgVUglIwlSUFW1rkQGG5zZVaY8VqxlKEttagtb2u7FwqGz0QaiXMtB+MQ+peqPLWKHFQi/EAyxNuAA9bQocQa35zYFqdO2HoZwyjNBR/N/u+QwwD/Jz2XhTNrshsKdLl4BbLe545RwOChazZKR5g=;GHEgBpRpP7p2nQQDNz9VUQ=="
+secured: "O6zuI18VdVZi+8FFRgBfMF9wPzIMlu8HQi+73k19faJXfz4C33bbI7rQD6LnJOkj8RtQZMObBIdyKnnzmM0s6Z11uubjWTTMHullm0aHBJW+OAO6r4Nj+7uKUhvvx0tN6PMQhRilLgCD0kHayTCitB2+GpHlSknpk6mHg4EaWwrOI0T0cAnrKVRwbqve95as+mHe7JGnWXctJfRDK/KRHthE4zycCFlLa7J/GQt4ntwBuiLmFzrzQVJFH5Ou/3zwslwU1wzmznhSTai6l7ml8P8jYDNPmO1QytpD9nN+Xp99hUH/u2XCz1212Y7/QaRXKn5Iee/mCesPXdaYf9thr4bMr6yIJZZ07vZZGYZoHcI=;/N2B1RjK3E3/UZaMSMIftQ=="
 ---
 

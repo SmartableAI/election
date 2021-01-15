@@ -2,9 +2,9 @@
 category: news
 title: "Biden's inauguration rehearsal postponed over security concerns, Politico says"
 excerpt: "A rehearsal for U.S President-elect Joe Biden's inauguration scheduled for Sunday has been postponed because of security concerns, Politico reported late on Thursday, citing two people with knowledge of the decision."
-publishedDateTime: 2021-01-15T12:17:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-security/rehearsal-for-bidens-inauguration-postponed-due-to-security-concerns-politico-idUSKBN29K0A8"
-webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-security/rehearsal-for-bidens-inauguration-postponed-due-to-security-concerns-politico-idUSKBN29K0A8"
+publishedDateTime: 2021-01-15T13:22:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-security/bidens-inauguration-rehearsal-postponed-over-security-concerns-politico-says-idUSKBN29K0A8?edition-redirect=ca"
+webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-security/bidens-inauguration-rehearsal-postponed-over-security-concerns-politico-says-idUSKBN29K0A8?edition-redirect=ca"
 type: article
 quality: 101
 heat: -1
@@ -124,6 +124,6 @@ related:
         height: 683
         isCached: true
 
-secured: "8jP0EunpZlhd3K9jiS6O4evVwJ5XmkDz5RQQMMbSCe8RhyYr8iR8iKNg3SZ5LILSXMxuXKQTuxI3ZxxU8bjBG9HAcaaCpEcUb/uEGYyz4MV9eiKZb72SQDdDpFM3yy60cI+P8V/t1yz5jEO1WhcQrAOkRTyMEmp/dojkfsDqFM0GoNtTw9t/v8tHXJPvYzwkMJkfqC2btWJcJQv406gOaZ19IxNAtphSLP4VW6Z9jOlFqFe1GEh1fLXbZBofZrlaQ4QFfyzjNJ1gzmQETyJQV9xouKQIVqqfYEZOLjtBOLvT0UZ0X4oayp2Fyj+pf7uqYsY38u6A2le58wGiFdiAR3CRGGFpNKqWjwKN8wXUheI=;xfCbYYV2dJ6fxax6gN2Hcg=="
+secured: "aNrMCqwVjg8+Kph+v7GeFXYEdyCq92TqBiMasL6O7lDCwKBkTKmDcBK+Iz5mtigNj5030x5htry4ipH7V35AwNcArE6PyVfSHDqOP0xIAIC/wDzl6w0ClnqRltYxDn7Bwbhpn/BvuRC+QI2rCCrzjzPfpxvzkj7o/E6eGsD3qpk5vpZD/RtOYYmNyarVjH2ObPRpO43UXP6nFf/nzHtMFLEX28maeimkeeeU8qo5DA+8ofzp5I6CQbUjDt10sthq4YBAWrezDRAWdyVSxkYJ2FnwXoLzOaSgePkuDXJT98nLpbmyaifuoziuRsECXlfoWs48Rp7SvkyLV2n04iQ7qRBi1Onq5ctcdkf5LzbSigg=;ce3FKclSswBljlMLV1DQnA=="
 ---
 

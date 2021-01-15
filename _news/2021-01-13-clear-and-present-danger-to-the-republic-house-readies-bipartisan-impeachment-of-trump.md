@@ -192,6 +192,20 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Trump's leaving the White House, but the party is still his"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2021-01-15T14:02:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/trump-s-leaving-white-house-party-still-his-n1254390"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_39/3413938/200922-mitt-romney-jm-1008_99f81a34375d303a730f304943acbaa2.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Uf2O0unaMIAGYmZiJSoFqjoz7Oaz1i8c8JpUfQN1oDQpTQXYgc/NqLnlUY0WjcnrTpLIupg+vu3tuhI7q7QSHhICAhd57bM5a+FmIkPndSGWYqH/fAeGyIDmfAMZWbsQZPDbVBrhgMbwQrb6Gb0zPUedrE9gnQvMxOB8rGeQkdGBaF4mWc+mY5xhKI3OjmABeKSvagzr4U4P4WwcN3KZtXAxGxXZwcGF5HflIP98rDwAhOqBKbaQX2N52u8dEDyPIT4nYaujlL1a6pi2Dlnoo1wzrlddbzbABha8DBqmOQMD3PvRQiWGW1Ti6KxKj7w1yyafFkeQuTuKrCKoM+SpUkJZJuKZFQCQhoYNFRZugLjSO0Y2e4tizb4HPly+DJF2kcZI9751d21fdMg+JzDmqX+j6iS1GBcn+HvPU2p+zmCYQV7iIGoJxo1WMMvqKYvxKaVxfCyZYkM6tkXcfrD9uq6HZhClO5k0gyM+7TGMuTacQo82qMb0kQorYhGUYHAOiU1NXQTdQ3/ukK+t5S0mQw==;SiV05Lht53FVJPJjI1bg8Q=="
 ---

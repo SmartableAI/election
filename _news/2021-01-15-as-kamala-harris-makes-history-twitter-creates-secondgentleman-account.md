@@ -175,6 +175,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Kamala Harris’s journey: Principles, loyalties and compromises"
+    excerpt: "At a MoveOn forum, as California’s junior U.S. senator and presidential hopeful Kamala Harris settled in for an interview, a man barreled onto the stage, yanking the microphone from her hands. The moderator,"
+    publishedDateTime: 2021-01-14T04:47:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/kamala-harriss-journey-principles-loyalties-and-compromises/2021/01/13/a0ec9dd8-47cc-11eb-975c-d17b8815a66d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/kamala-harriss-journey-principles-loyalties-and-compromises/2021/01/13/a0ec9dd8-47cc-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/kamala-harriss-journey-principles-loyalties-and-compromises/2021/01/13/a0ec9dd8-47cc-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IH2MB4BOWYI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect Kamala Harris. The image shows Ms Harris wearing an informal outfit including jeans and a pair of Converse trainers."
     publishedDateTime: 2021-01-12T15:52:00Z
