@@ -383,6 +383,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden to extend pause on federal student loan payments"
+    excerpt: "The president-elect's transition team also said Mr. Biden supports Congress \"immediately\" cancelling $10,000 of federal student loans"
+    publishedDateTime: 2021-01-15T12:24:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-student-loan-payments-pause-extend/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-student-loan-payments-pause-extend/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-student-loan-payments-pause-extend/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/11/5a845e73-ca79-43f4-bd69-1ea7fd5ec19b/thumbnail/1200x630/e81e9d97adaa622c1f2f6d0c44844c40/gettyimages-1201562159-1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Confirmation hearing postponed for Biden's intel chief pick"
     excerpt: "A confirmation hearing for President-elect Joe Biden’s pick for national intelligence director has been postponed until next week"
     publishedDateTime: 2021-01-15T03:56:00Z
@@ -900,6 +916,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210114&i=OVDV6MGV3&r=OVDV6MGV3&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "‘Trump impeachment sets precedent against free speech’"
+    excerpt: "The precedent set by impeaching US President Donald Trump will be used in the future to curtail the free speech of civil rights activists and protesters, one of the country’s most high profile lawyers,"
+    publishedDateTime: 2021-01-15T12:22:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55677337"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p0943fxx.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "U.S. airlines back Biden plan to mandate masks for passengers"
     excerpt: "A group representing major U.S. airlines on Thursday backed President-elect Joe Biden's plan to mandate face coverings for all air passengers, but asked him to give them flexibility in enforcing it."

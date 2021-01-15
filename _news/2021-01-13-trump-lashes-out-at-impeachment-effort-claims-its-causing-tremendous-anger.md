@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Twitter CEO Jack Dorsey defends Donald Trump ban: 'I believe this was the right decision'"
+    excerpt: "Twitter's ban of President Trump's account was made “with the best information we had based on threats to physical safety\" CEO Jack Dorsey said."
+    publishedDateTime: 2021-01-15T11:21:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2021/01/13/trump-twitter-ban-jack-dorsey-right-decision/4153641001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4153641001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4153641001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/11/USAT/6ddbe2fd-e852-40de-beb9-21ba780cedd6-AP_Trump-Social-Media-Bans.jpg?auto=webp&crop=3023,1700,x0,y1167&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "S2xv3fmaZeVcQppkNhw8e2aLQoxlrEGA4/a6GC3m7Jk4Vw2kQxw3Jnx1ozn52CzLcRsxbZYXCMnYH/zQQjGZI44HsHuCcrvqwDDaNfl+aerMO3vqBnhrRKZ9S97QRE8fJYmgdd1eEtStb8CysfeeJ9iQqg7hpBmVK0e9zPE+GpjJlOpGzk7E3ZVHwZrVbBX2q4XuYNuGhIfNlBjWtzKUklnUWqvSEl4r96Dker3V2b67ZFYi1tecu316M+R8Q6F6H7eQjhkCwYgCEBxIewK8XWiZ4xT5CeVmWDj+RErs78CavTPv3DLCTAis1M0dyfPlp3NJjwhm5bGDAEZsJhExboZqdcCFjDnZI7oqO8H5P0IxhoYCN30jrHJCTI0tpkBfd7c+OzG4UOsB3k1nj1y5N425trjJ+0j3ruWVqmDj9/2T/mMz2WOmxnGs2SfuibZW3xjbRMwUBZbPiMx44+Zv8CBGTO4ohHtVXd3+ha8yOGA3F2AycZLSyXADRcsCVKgztcfkzllhAr5jVI6QYPSE1Q==;n7U0Q/4y+ld61APVghqKGw=="
 ---

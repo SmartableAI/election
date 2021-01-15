@@ -985,6 +985,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Can Trump be tried for impeachment after leaving office? Would he keep his pension?"
+    excerpt: "This is raising questions about whether he can even be tried for impeachment, since he'll already have moved out of the White House — and whether he'd still enjoy the benefits accorded to former presidents if the Senate convicts him."
+    publishedDateTime: 2021-01-15T12:33:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-impeachment-leaving-office/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-impeachment-leaving-office/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-impeachment-leaving-office/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/12/9f041b88-1a5f-4dd5-9213-d06622116b6c/thumbnail/1200x630/6219b8c8009a7033546036bc1223f898/gettyimages-1230087931.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Donald Trump becomes the first US president to be impeached for a second time – live"
     excerpt: "Ten House Republicans join Democrats to impeach president on charge of incitement of insurrection after violent riot at US Capitol – follow all the latest"
     publishedDateTime: 2021-01-14T00:05:00Z
@@ -1525,6 +1541,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Eyes on Pelosi as Trump impeachment trial timing up in the air"
+    excerpt: "The timing of President Donald Trump's impeachment trial could come into clearer focus on Friday when House Speaker Nancy Pelosi is expected to take questions about her next steps at a morning news conference at the U."
+    publishedDateTime: 2021-01-15T12:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/eyes-on-pelosi-as-trump-impeachment-trial-timing-up-in-the-air-idUSKBN29K0NV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547913417&r=LYNXMPEH0E0CB&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "How Trump's new COVID plan will impact states..."
     excerpt: "Watch \"How Trump's new COVID-19 plan will impact states\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-01-14T18:44:00Z
@@ -1608,15 +1638,15 @@ related:
         isCached: true
   - title: "U.S. executes man with COVID-19, 12th under Trump administration"
     excerpt: "The U.S. government on Thursday executed Corey Johnson, a convicted murderer, marking one of the final two federal executions planned under President Donald Trump's administration, after the Supreme Court rejected a plea to allow him to recover from COVID-19."
-    publishedDateTime: 2021-01-15T10:19:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-executions/u-s-executes-man-with-covid-19-12th-under-trump-administration-idUSKBN29J258?edition-redirect=ca"
+    publishedDateTime: 2021-01-15T12:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-executions/u-s-supreme-court-allows-execution-of-condemned-men-with-covid-19-idUSKBN29J258"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547811272&r=LYNXMPEH0D1BB&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547913133&r=LYNXMPEH0D1BB&w=800"
         width: 800
         height: 533
         isCached: true

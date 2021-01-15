@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director?_amp=true"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 125
     images:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/13/87ab6c33-11eb-45c7-89c4-562b351813be/thumbnail/1200x630/e7b614cfa8085ecb41e2d17d79ea1643/gettyimages-1206811778.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden unveils $1.9 trillion COVID relief bill"
+    excerpt: "This is the first of two bills Mr. Biden plans to address COVID-19. His transition team said he would introduce a second \"recovery\" bill in February."
+    publishedDateTime: 2021-01-15T12:36:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-covid-relief-bill-stimulus-check/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-relief-bill-stimulus-check/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-relief-bill-stimulus-check/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/15/271825a6-0f84-4789-b1b5-26e6a1f513f0/thumbnail/1200x630/e2df6a2401b1edfdd1bf44bba92ff8c9/gettyimages-1296409766.jpg"
         width: 1200
         height: 630
         isCached: true

@@ -571,6 +571,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "The Lynch Mob Comes for Citizen Trump"
+    excerpt: "The mob was a mile away as Trump spoke. It was up at the Capitol while Trump was on the Monument grounds. It could not hear him. And the break-in of the Capitol began even before"
+    publishedDateTime: 2021-01-15T12:00:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/15/the_lynch_mob_comes_for_citizen_trump_145043.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/15/the_lynch_mob_comes_for_citizen_trump_145043.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/15/the_lynch_mob_comes_for_citizen_trump_145043.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/532375_5_.jpg"
+        width: 750
+        height: 506
+        isCached: true
+  - title: "Trump Always Had a Whiff of Fascism"
+    excerpt: "Throngs of self-styled conservatives and Republicans have now reached the thunderous realization that Donald Trump is not just a harmless clown. Former"
+    publishedDateTime: 2021-01-15T11:51:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/15/trump_always_had_a_whiff_of_fascism_145039.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/15/trump_always_had_a_whiff_of_fascism_145039.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/15/trump_always_had_a_whiff_of_fascism_145039.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/532356_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Rep. Steny Hoyer Gives Democrats' Closing Argument In Trump Impeachment: This Is A Sad Time"
     excerpt: "Md., argued for the impeachment of President Donald Trump in a hearing on Jan. 13. Democrats are pursuing a quick second impeachment a week after Trump gave a speech they say incited insurrection. On Jan."
     publishedDateTime: 2021-01-13T21:53:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/01/09/style/meena-harris-building-that-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/09/style/meena-harris-building-that-brand.amp.html"
 type: article
 quality: 135
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://static.politico.com/b5/0a/a4786468485394b0c4c00fa489a5/210109-kamala-harris-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Could Kamala Harris invoke her Indian heritage by wearing a sari on inauguration day?"
+    excerpt: "Some believe Harris could use the garment as a healing gesture and a symbol of how the Biden-Harris administration intends to lead America and better represent minorities."
+    publishedDateTime: 2021-01-15T11:58:00Z
+    webUrl: "https://www.cnn.com/style/article/kamala-harris-sari-inauguration/index.html"
+    ampWebUrl: "https://www.cnn.com/style/amp/kamala-harris-sari-inauguration/index.html"
+    cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/kamala-harris-sari-inauguration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 128
+    images:
+      - url: "http://cdn.cnn.com/cnnnext/dam/assets/210108130544-02-kamala-harris-1124-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "In photos: Vice President-elect Kamala Harris"
     excerpt: "US Sen. Kamala Harris will be the next vice president of the United States, CNN projects. She will be the first woman to hold the office. She will also be the nation's first Black and South Asian vice president."

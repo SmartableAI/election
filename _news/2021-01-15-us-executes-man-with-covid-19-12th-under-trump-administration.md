@@ -2,9 +2,9 @@
 category: news
 title: "U.S. executes man with COVID-19, 12th under Trump administration"
 excerpt: "The U.S. government on Thursday executed Corey Johnson, a convicted murderer, marking one of the final two federal executions planned under President Donald Trump's administration, after the Supreme Court rejected a plea to allow him to recover from COVID-19."
-publishedDateTime: 2021-01-15T10:19:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-executions/u-s-executes-man-with-covid-19-12th-under-trump-administration-idUSKBN29J258?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/us-usa-executions/u-s-executes-man-with-covid-19-12th-under-trump-administration-idUSKBN29J258?edition-redirect=ca"
+publishedDateTime: 2021-01-15T12:20:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-executions/u-s-supreme-court-allows-execution-of-condemned-men-with-covid-19-idUSKBN29J258"
+webUrl: "https://www.reuters.com/article/us-usa-executions/u-s-supreme-court-allows-execution-of-condemned-men-with-covid-19-idUSKBN29J258"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547811272&r=LYNXMPEH0D1BB&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547913133&r=LYNXMPEH0D1BB&w=800"
     width: 800
     height: 533
     isCached: true
@@ -987,6 +987,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Can Trump be tried for impeachment after leaving office? Would he keep his pension?"
+    excerpt: "This is raising questions about whether he can even be tried for impeachment, since he'll already have moved out of the White House — and whether he'd still enjoy the benefits accorded to former presidents if the Senate convicts him."
+    publishedDateTime: 2021-01-15T12:33:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-impeachment-leaving-office/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-impeachment-leaving-office/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-impeachment-leaving-office/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/12/9f041b88-1a5f-4dd5-9213-d06622116b6c/thumbnail/1200x630/6219b8c8009a7033546036bc1223f898/gettyimages-1230087931.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Donald Trump becomes the first US president to be impeached for a second time – live"
     excerpt: "Ten House Republicans join Democrats to impeach president on charge of incitement of insurrection after violent riot at US Capitol – follow all the latest"
     publishedDateTime: 2021-01-14T00:05:00Z
@@ -1526,6 +1542,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZFJUESVU4I6XLGFSLJIDGQ4ZM.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Eyes on Pelosi as Trump impeachment trial timing up in the air"
+    excerpt: "The timing of President Donald Trump's impeachment trial could come into clearer focus on Friday when House Speaker Nancy Pelosi is expected to take questions about her next steps at a morning news conference at the U."
+    publishedDateTime: 2021-01-15T12:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/eyes-on-pelosi-as-trump-impeachment-trial-timing-up-in-the-air-idUSKBN29K0NV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547913417&r=LYNXMPEH0E0CB&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "How Trump's new COVID plan will impact states..."
     excerpt: "Watch \"How Trump's new COVID-19 plan will impact states\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
@@ -2794,6 +2824,6 @@ related:
         height: 392
         isCached: true
 
-secured: "SBOX3df77FRaOpGKdd/yfqrWF+KZaBP/vKboC0plbkSrLGst0N8z8rDOuOhAMh3WaBdKs+k6zHkg8/iKg47O0tf9wAM/JB8xH2Y7SZ3qnolSU/B98KBjLIUPl5A6AzE6aNly2nryqf/dNoh4QDRuBC5nPk4c4XdmL5zwUc/FHuNGSyhuqO3Gew+hBqkhQ5nhooiZ1HHyo87l45jmCwFRp0pLe4QY0B9zw6+iUv1qAb9ZqAwJzsw2ERD+/HPEPQkdCqIC5boSoqW8nZkMRnJxp6xBIZqqLN0rq1lxI+TLHk4PZts6yn11YugiuITIn6fimiR9DrdJPe05yRekx6bpPqEWLVI4m5jtiphR0QROxrM=;74MPcItPhujP+mqPLJtVtw=="
+secured: "X8sGAJrRAT+fgeBwoUwU2gL6FMTC1XhL/RzfHZAh+8ICDKCvsrKw4l2B0yAvUkgd44QFIVqGrRmtqMghS1HrSYGrWxKsK/BVLM96k6KMkkJrVYpAYr7sq5v9lsm7/ted/vWorXf7Cu5B5LaY9dVaS79dcX8j7zchsgxYN/PzlZ7WeBr2JvD1jE3ODrox/CLHsHY7dl03ziCRXI7o1LelZWyF5BzId5lQwe8uBTQB6q8B7oge+/uq/lpOpcAIkSMSC3PHBo52M4Pn8/6RQoEblnGbF30tbjbo8Gua3te5GEemh3zziXdBb2mCNW35FnKOwrsE+LCpUmBXdGH4DgY+b/RVvBppo5lf1pd6OB958nw=;ps2ZGouyHOVepjcqlHGSsg=="
 ---
 

@@ -81,8 +81,8 @@ related:
         isCached: true
   - title: "Biden's inauguration rehearsal postponed over security concerns, Politico says"
     excerpt: "A rehearsal for U.S President-elect Joe Biden's inauguration scheduled for Sunday has been postponed because of security concerns, Politico reported late on Thursday, citing two people with knowledge of the decision."
-    publishedDateTime: 2021-01-15T04:41:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-security/rehearsal-for-bidens-inauguration-postponed-due-to-security-concerns-politico-idUSKBN29K0A8?WT.m"
+    publishedDateTime: 2021-01-15T12:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-security/rehearsal-for-bidens-inauguration-postponed-due-to-security-concerns-politico-idUSKBN29K0A8"
     type: article
     provider:
       name: Reuters

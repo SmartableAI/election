@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/ivanka-trump-jared-kushn
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/ivanka-trump-jared-kushner-bathroom-secret-service/index.html"
 type: article
 quality: 147
-heat: 167
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Already shunned from polite society, Ivanka Trump and Jared Kushner face new cold post-insurrection reality"
+    excerpt: "When Ivanka Trump and Jared Kushner shared their decision to pick up and move their family to Washington from New York four years ago, multiple sources who know the couple said the idea was the White House years would allow easy entree to their ambitious next steps: Kushner would become a powerful player"
+    publishedDateTime: 2021-01-15T12:48:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6eSuGr9bhx0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/ivanka-trump-jared-kushner-next-steps/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/ivanka-trump-jared-kushner-next-steps/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115072838-restricted-file-02-jared-kushner-ivanka-trump-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump remains largely invisible after Kushner squashes attempts at building fringe social media presence"
     excerpt: "On the day he will be impeached for a history-making second time, President Donald Trump lacks a comprehensive legal strategy, has nothing on his public schedule and is without his preferred social media methods of responding -- in part because his son-in-law put a stop to efforts establishing his presence"
     publishedDateTime: 2021-01-13T15:58:37Z

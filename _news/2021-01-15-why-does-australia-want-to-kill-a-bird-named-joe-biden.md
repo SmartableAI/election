@@ -416,6 +416,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden picks former FDA commissioner to lead US vaccine effort"
+    excerpt: "President-elect Joe Biden has picked Dr. David Kessler, a former head of the US Food and Drug Administration, to lead federal Covid-19 vaccine efforts for the incoming administration, Biden's presidential transition team announced Friday.\n    \n"
+    publishedDateTime: 2021-01-15T12:58:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wqdl96a5_o8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/david-kessler-biden-operation-warp-speed-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/david-kessler-biden-operation-warp-speed-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204172428-biden-coronavirus-vaccine-distribution-challenge-trump-saenz-dnt-tsr-vpx-00002530-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden taps David Cohen to be CIA deputy director"
+    excerpt: "President-elect Joseph Biden will announce Friday the appointment of David Cohen to the role of deputy director of the CIA, according to a transition official.\n    \n"
+    publishedDateTime: 2021-01-15T12:36:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E-PpcWbOsEM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/joe-biden-deputy-cia-director/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/joe-biden-deputy-cia-director/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115113204-david-cohen-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden inaugural festivities to feature national day of service on MLK Day"
     excerpt: "President-elect Joe Biden's inaugural committee will promote the national day of service on Martin Luther King Jr. Day as part of festivities ahead of the inauguration on January 20.\n    \n"
     publishedDateTime: 2021-01-04T16:55:45Z
@@ -1637,6 +1669,6 @@ related:
         height: 629
         isCached: true
 
-secured: "V1oX7Shuv193FmyYEy8mEsXJTCq9xc8YXbYZW1vnkyALhqzqxal+vg8QB5GqvvfaY1D5AAop88VutbOzIn71cnD4OlSxl3bo2aUKvvuxmpP6TRUBCVFzNQO2kM4zMkeqNcdNmJhk96lKzXWTzR8iZpmpwh8uH6BILLHhP+YdbCH02izIk0lySUg7LmP0+mMD8hkrqRgmr2hCduifolVxsMb0LFhddC50ETI5ISM27FbnXI8fu836I+TpYS8BAxiOVpVtjH3kQkFQiqhPIfST77Zp3El/z4x6fB02tnSgXribE2VUtHje45gskquwxADlO7HPhXY5BRSe30XTeFEOewoapivt7PK0ABT2kEjU0/4=;lnMZimMMjQUQX+MKpD7j6w=="
+secured: "idh3MNStwfNOMuhwBVkP5CfzNq309d9wVMtKp5I2GSOudf9+vE4dzk4ONAKQtMEmpmqk+mctaM1iXgXoAKP6LYLQ+U3+qzqa5SmiGgNeOTh2Y6V32NXBQJnRKCOxerV2W4MScMatf1FUhcIRcoQd0rccD9Xmdfczb0zQYHybLeHKVbmG3wCMCGTHkeybjRtSfTe42MXGQUqQIXfRcHsMmXsviAmZRMpKESN5wAcjkIBco+EORiLDCM8bJYH5Yk0wwEhfOo4MkqUP+xU1sbubv0itQDqbY9z0FxJdmvMxRVzD6nu/lZyUt0Ay6GzC8QXAlWZ+PqvzVF34PlMmEofg9T+4FyMKTQo339fKZocTDT7ayxjHpYcekXJI/8AJfRGBUFky6nd2+QCg+d7oueLvbabBmOGx+QSr/4cUO4wfMebZefrHZhpBhEIKGalf/Yczm7ygf0oUf/rUe4/xWhPmq2SJlnxH3QP71lG6JP0VII+M8k/1p9VElCo6yj61cw19NeP7izRacRl/ExXzLlmkag==;yjC3TPJ7owBTB/n7szF65w=="
 ---
 

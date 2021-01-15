@@ -2,9 +2,9 @@
 category: news
 title: "Biden's inauguration rehearsal postponed over security concerns, Politico says"
 excerpt: "A rehearsal for U.S President-elect Joe Biden's inauguration scheduled for Sunday has been postponed because of security concerns, Politico reported late on Thursday, citing two people with knowledge of the decision."
-publishedDateTime: 2021-01-15T04:41:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-security/rehearsal-for-bidens-inauguration-postponed-due-to-security-concerns-politico-idUSKBN29K0A8?WT.m"
-webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-security/rehearsal-for-bidens-inauguration-postponed-due-to-security-concerns-politico-idUSKBN29K0A8?WT.m"
+publishedDateTime: 2021-01-15T12:17:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-security/rehearsal-for-bidens-inauguration-postponed-due-to-security-concerns-politico-idUSKBN29K0A8"
+webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-security/rehearsal-for-bidens-inauguration-postponed-due-to-security-concerns-politico-idUSKBN29K0A8"
 type: article
 quality: 101
 heat: -1
@@ -124,6 +124,6 @@ related:
         height: 683
         isCached: true
 
-secured: "lm1nY4mRzI7qaGZcK+vZyKelMIjQnrB4gwfLrfIt4E5na2TbLDtUC2UXJKBFhDopzBCsVdsrDRgZEHs+WmmUK8Tytps5AQjYYSMrrWtkYIJPZWxdOyBts4jeEr+v3Fgq++H3lDHrCDe/yFK/jF5gLrZ29YAFeFQEeIUAINU1DPZZOfQzk29QTCGXjL9yBBJhwy4+TQr1Lmvv1/z30tAbIfV5z6MVhvsakGgDw7MOadZiKYoNn+JMEdV2J7oT7g/3Myaf0aru1YzR4nTdffFvSbt2uu9PFUwddKx6IbzgJpnaoU5rOW2wr48xaotJIYpEWkjxuPz1BB6M6GZuJt8YSIgrLVu9CjAh1+umXt8UKWxnAhq5iQhUWsYF8U0HIXT5Ene/joeBjUgnad8HdY2TLPkJq8XXQb/sg5kSzs+jiOakdMMZaIKMApycG/voJTsKQJhw9Z/MBZB29aVc47mhuesWblk7a4cQEnMfsklqYx2Fn5ahMvMTGqG0Uj3X3Ldz+M9j7XwoENBNTbG7EZn6sg==;yZgu9dshFBTMpjHs+ifthw=="
+secured: "8jP0EunpZlhd3K9jiS6O4evVwJ5XmkDz5RQQMMbSCe8RhyYr8iR8iKNg3SZ5LILSXMxuXKQTuxI3ZxxU8bjBG9HAcaaCpEcUb/uEGYyz4MV9eiKZb72SQDdDpFM3yy60cI+P8V/t1yz5jEO1WhcQrAOkRTyMEmp/dojkfsDqFM0GoNtTw9t/v8tHXJPvYzwkMJkfqC2btWJcJQv406gOaZ19IxNAtphSLP4VW6Z9jOlFqFe1GEh1fLXbZBofZrlaQ4QFfyzjNJ1gzmQETyJQV9xouKQIVqqfYEZOLjtBOLvT0UZ0X4oayp2Fyj+pf7uqYsY38u6A2le58wGiFdiAR3CRGGFpNKqWjwKN8wXUheI=;xfCbYYV2dJ6fxax6gN2Hcg=="
 ---
 

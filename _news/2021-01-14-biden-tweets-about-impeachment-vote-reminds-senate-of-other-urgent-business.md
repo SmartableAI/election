@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-tweets-about-impeachment-vote
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tweets-about-impeachment-vote-reminds-senate-of-other-urgent-business.amp"
 type: article
 quality: 171
-heat: 191
+heat: 211
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cf85e57-c495-49ca-920a-272950c4a7e9/9a6d24ba-1464-4bcf-ae92-aa0f73db4869/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "New Impeachment Push Complicates Dem Message as Biden Talks Unity"
+    excerpt: "WASHINGTON (AP)  President-elect Joe Biden already faces the daunting task of steering a newly announced $1.9 trillion coronavirus relief bill through"
+    publishedDateTime: 2021-01-15T12:36:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/15/new_impeachment_push_complicates_dem_message_as_biden_talks_unity.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/15/new_impeachment_push_complicates_dem_message_as_biden_talks_unity.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/15/new_impeachment_push_complicates_dem_message_as_biden_talks_unity.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/532403_5_.jpeg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "QIPu0k4ivodXMCUoC1hH4wkfd0w/IQc7A3twjpeGbuTS8ie2B5fpQIQlHGvlfOuFjB8DRlbzDL8oqXdXvWhxwEL8ZJsNcqQTR5/I6iC5DK1G74OfvXUijYSeTiQjAWukaxfzHK3Fed+9hOlF6iUnLJyMRYZDNksjJq3RVBx3aFBOeERaE/KfVYcQwetok2ecr9uXJFbwMhzgCZ+66Bt8TS0hBQIpEo6gzalPMsjbRBOvfN6sq0slF7+UYITYjX6Zz90SeCmhv48Iy0+s9kPyUKeEBl/LkBH+z8h35hJDgNheUjr+j7iXDLqK3hMBGKh8PgqAWiLmUwkqG2WHUejbtCpnvMRm5S4aiQH0w7c3P+4=;kZbEEQnrU/vdAgULX7vEWQ=="

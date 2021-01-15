@@ -2,6 +2,62 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-12-01-gop-senators-find-bodybags-with-anti-trump-notes-on-their-front-porches.md",
+      "title": "GOP senators find bodybags with anti-Trump notes on their front porches",
+      "excerpt": "Several GOP Senators were bombarded with dozens of bodybags at their homes on Tuesday by angry protesters pushing for COVID-19 relief after months of gridlock over negotiations in Congress. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ihg7jai6l8/gop-senators-finds-bodybags-with-anti-trump-notes-on-front-porch",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ihg7jai6l8/gop-senators-finds-bodybags-with-anti-trump-notes-on-front-porch",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a05a6f71-adcf-43b7-8139-dd0c114c7d1f/45c6487d-dc28-4d26-bb45-979df0143ac0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gop-senators-finds-bodybags-with-anti-trump-notes-on-front-porch.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-finds-bodybags-with-anti-trump-notes-on-front-porch.amp",
+      "publishedDateTime": "2020-12-01T15:09:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-trump-associates-including-giuliani-are-asking-for-pardons.md",
       "title": "Trump associates, including Giuliani, are asking for pardons",
       "excerpt": "President Donald Trump's associates are making appeals to him in the hopes of obtaining pardons before he leaves office, a source familiar with the matter told CNN on Tuesday.\n    \n",

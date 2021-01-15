@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Already shunned from polite society, Ivanka Trump and Jared Kushner face new cold post-insurrection reality"
+    excerpt: "When Ivanka Trump and Jared Kushner shared their decision to pick up and move their family to Washington from New York four years ago, multiple sources who know the couple said the idea was the White House years would allow easy entree to their ambitious next steps: Kushner would become a powerful player"
+    publishedDateTime: 2021-01-15T12:48:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6eSuGr9bhx0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/ivanka-trump-jared-kushner-next-steps/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/ivanka-trump-jared-kushner-next-steps/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115072838-restricted-file-02-jared-kushner-ivanka-trump-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Secret Service pays high rent for apartment near Ivanka Trump and Jared Kushner's home for toilets and office space for agents"
     excerpt: "The US Secret Service is renting a small studio apartment in Washington, DC, near the home of Jared Kushner and Ivanka Trump, a source with knowledge of the service's activities told CNN on Thursday, in order for agents to use the bathroom and have office space.\n    \n"
     publishedDateTime: 2021-01-14T21:41:53Z

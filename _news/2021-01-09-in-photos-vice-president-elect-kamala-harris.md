@@ -94,6 +94,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Could Kamala Harris invoke her Indian heritage by wearing a sari on inauguration day?"
+    excerpt: "Some believe Harris could use the garment as a healing gesture and a symbol of how the Biden-Harris administration intends to lead America and better represent minorities."
+    publishedDateTime: 2021-01-15T11:58:00Z
+    webUrl: "https://www.cnn.com/style/article/kamala-harris-sari-inauguration/index.html"
+    ampWebUrl: "https://www.cnn.com/style/amp/kamala-harris-sari-inauguration/index.html"
+    cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/kamala-harris-sari-inauguration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 128
+    images:
+      - url: "http://cdn.cnn.com/cnnnext/dam/assets/210108130544-02-kamala-harris-1124-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kamala Harris' casual Vogue cover causes stir online"
     excerpt: "Kamala Harris' forthcoming appearance in American Vogue has sparked criticism for appearing casual and \"washed out,\" with the Vice President-elect's team blindsided by the magazine's choice of cover."
     publishedDateTime: 2021-01-11T06:43:00Z
