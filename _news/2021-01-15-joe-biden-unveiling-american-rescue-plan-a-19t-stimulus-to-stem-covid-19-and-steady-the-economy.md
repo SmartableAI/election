@@ -89,8 +89,8 @@ related:
         isCached: true
   - title: "Biden unveils plan to pump $1.9 trillion into pandemic-hit economy"
     excerpt: "President-elect Joe Biden unveiled a $1.9 trillion stimulus package proposal on Thursday, saying in prime-time remarks that bold investment was needed to jump-start the economy and speed up the U.S. response to the coronavirus pandemic."
-    publishedDateTime: 2021-01-15T00:36:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-stimulus/update-6-biden-unveils-plan-to-pump-1-9-trillion-into-pandemic-hit-economy-idUSL1N2JP30B"
+    publishedDateTime: 2021-01-15T06:03:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN29J1B1"
     type: article
     provider:
       name: Reuters
@@ -103,8 +103,8 @@ related:
         isCached: true
   - title: "Analysis: Biden's $1.9 trillion rescue package offers bridge for hard-hit economy"
     excerpt: "U.S. President-elect Joe Biden's proposal to pour $1.9 trillion into a hobbled economy could lay the foundation for a surge in jobs and spending that many economists say is needed to avoid long-term damage from a record-breaking pandemic recession."
-    publishedDateTime: 2021-01-14T23:40:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-biden-stimulus-analysis-idUKKBN29J2ZL"
+    publishedDateTime: 2021-01-15T05:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-stimulus-analysis/analysis-bidens-1-9-trillion-rescue-package-offers-bridge-for-hard-hit-economy-idUKKBN29J2ZB"
     type: article
     provider:
       name: Reuters

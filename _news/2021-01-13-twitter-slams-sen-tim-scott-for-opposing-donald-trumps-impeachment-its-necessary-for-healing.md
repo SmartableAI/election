@@ -107,6 +107,22 @@ related:
         width: 799
         height: 576
         isCached: true
+  - title: "These GOP Senators May Vote To Impeach Trump; McConnell Leads The List"
+    excerpt: "Senate Majority Leader Mitch McConnell would need a two-thirds vote to convict Trump of inciting an insurrection and remove the president through impeachment."
+    publishedDateTime: 2021-01-15T04:59:00Z
+    webUrl: "https://www.ibtimes.com/these-gop-senators-may-vote-impeach-trump-mcconnell-leads-list-3122759"
+    ampWebUrl: "https://www.ibtimes.com/these-gop-senators-may-vote-impeach-trump-mcconnell-leads-list-3122759?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/these-gop-senators-may-vote-impeach-trump-mcconnell-leads-list-3122759?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/donald-trump-mitch-mcconnell.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "kX1rtv/HwpICRxUIfHYrGVS1JBXwDVI/KUF+4NTrUadFwYL3ReeY7cNHCN/HIybLuZUG1lzFj1f00IPAS6/fJ5BS80oNJPL/1RLpPVfI9GjTq+Qf2E0UFGbnUiTx0gqFdxjXUiFtaN1efYilAxW46igOsZeB3Zos1VPZkDh2nTRHtGNsFKpRdVbv3HkyH6RyjQHxDIDBSkEk4n+CCyhHXp0bV9ACB+8cOvKusSEzGBtqav12E+RnY0WRtdi2++W1gYnfOGqLfYPlnZZC3b1QlzlN7IUhvZJkw0e7rHTcs69d3kwmG8SDtCrHGCeTm24PLNra9P+n6A+6MQ0RXRkPXNBX4VFfieG/PcVcddMpPR32GCWjrf1LyyPDMWMPtsO4YiBd55ihDsCAoB+iebPP2ieC42NxCU6gvgxiUj3lLyiPbDYpQo37UNTxC7YzgP2wIn9TPQ69LxtWA85AxW17kyLkwqoCcWshiyZAN3mSiJL+tRDi6h9CVBrqXg/e5C1AwI1jX7sAUlrbB3ojEvSelQ==;GWbY1gVDu1vBWrxBkEKKjQ=="
 ---

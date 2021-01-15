@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Live Updates: Trump's chances for acquittal in upcoming Senate impeachment trial unclear"
+    excerpt: "Fox News contacted every Republican who will be serving as a senator after President-elect Joe Biden's inauguration on January 20, when the trial is likely to begin."
+    publishedDateTime: 2021-01-15T06:05:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_VZN_LyUW1o/live-updates-trump-impeachment-1-15-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-1-15-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-1-15-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/016de1e0-c12a-46c1-9ddc-3c1c9fd30c07/dabd96c7-2531-4829-823c-dcdd9c99015a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Dershowitz calls Trump impeachment a 'loaded weapon' that would be 'so dangerous to the Constitution'"
     excerpt: "Harvard Law professor emeritus and constitutional law scholar Alan Dershowitz said that while he does not believe it would result in a Senate trial, impeaching President Trump over what he said in an address prior to protesters storming the Capitol building on Wednesday would provide a \"loaded weapon\""
     publishedDateTime: 2021-01-10T17:39:49Z

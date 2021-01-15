@@ -238,6 +238,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "After 2 Impeachments, Giuliani Vows to Continue His ‘Craziness’ for Trump"
+    excerpt: "White House officials are universally angry with Rudolph W. Giuliani and blame him for both of President Trump’s impeachments. But he remains one of few people still willing to join Mr. Trump in the foxhole."
+    publishedDateTime: 2021-01-15T01:05:00Z
+    webUrl: "https://www.nytimes.com/2021/01/14/us/politics/trump-giuliani.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/14/us/politics/trump-giuliani.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/14/us/politics/trump-giuliani.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/14/us/politics/14dc-rudy/14dc-rudy-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Lawmakers called back to DC to vote on Trump's impeachment, removal under 25th amendment"
     excerpt: "The House will vote Tuesday night to encourage Trump's removal and Wednesday morning on impeachment, House leadership announced.."
     publishedDateTime: 2021-01-11T20:33:00Z

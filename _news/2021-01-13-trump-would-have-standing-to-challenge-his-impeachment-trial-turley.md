@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-standing-challenge-impeachmen
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-standing-challenge-impeachment-trial-turley.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Live Updates: Trump's chances for acquittal in upcoming Senate impeachment trial unclear"
+    excerpt: "Fox News contacted every Republican who will be serving as a senator after President-elect Joe Biden's inauguration on January 20, when the trial is likely to begin."
+    publishedDateTime: 2021-01-15T06:05:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_VZN_LyUW1o/live-updates-trump-impeachment-1-15-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-1-15-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-1-15-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/016de1e0-c12a-46c1-9ddc-3c1c9fd30c07/dabd96c7-2531-4829-823c-dcdd9c99015a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Turley: Democrats 'impulse buy' impeachment of Trump would have 'very serious implications'"
     excerpt: "George Washington University law professor Jonathan Turley said he doesn’t think Democrats should go forward with a \"snap impeachment,\" explaining that the process is supposed be \"deliberative,\" not impulsive. "

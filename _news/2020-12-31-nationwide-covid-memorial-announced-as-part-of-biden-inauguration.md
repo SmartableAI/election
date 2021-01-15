@@ -1232,6 +1232,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Why Does Australia Want to Kill a Bird Named Joe (Biden)?"
+    excerpt: "A racing pigeon who appeared to have traveled from Oregon to a backyard in Melbourne faces death. But there’s a twist."
+    publishedDateTime: 2021-01-15T05:59:00Z
+    webUrl: "https://www.nytimes.com/2021/01/15/world/australia/racing-pigeon-joe-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/15/world/australia/racing-pigeon-joe-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/15/world/australia/racing-pigeon-joe-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/15/world/15oz-pigeon-1/15oz-pigeon-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Congress affirms Biden as president after completing electoral vote count"
     excerpt: "After a day of riots at the Capitol, Congress counted the Electoral College votes and confirmed the win for President-elect Joe Biden and Vice President-elect Kamala Harris."
     publishedDateTime: 2021-01-07T09:24:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 2180
+heat: 2200
 published: true
 
 provider:
@@ -1231,6 +1231,22 @@ related:
       - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/ott_now_biden_climatecplan_210112_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Why Does Australia Want to Kill a Bird Named Joe (Biden)?"
+    excerpt: "A racing pigeon who appeared to have traveled from Oregon to a backyard in Melbourne faces death. But there’s a twist."
+    publishedDateTime: 2021-01-15T05:59:00Z
+    webUrl: "https://www.nytimes.com/2021/01/15/world/australia/racing-pigeon-joe-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/15/world/australia/racing-pigeon-joe-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/15/world/australia/racing-pigeon-joe-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/15/world/15oz-pigeon-1/15oz-pigeon-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Congress affirms Biden as president after completing electoral vote count"
     excerpt: "After a day of riots at the Capitol, Congress counted the Electoral College votes and confirmed the win for President-elect Joe Biden and Vice President-elect Kamala Harris."

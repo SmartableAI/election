@@ -2,9 +2,9 @@
 category: news
 title: "Biden unveils plan to pump $1.9 trillion into pandemic-hit economy"
 excerpt: "President-elect Joe Biden unveiled a $1.9 trillion stimulus package proposal on Thursday, saying in prime-time remarks that bold investment was needed to jump-start the economy and speed up the U.S. response to the coronavirus pandemic."
-publishedDateTime: 2021-01-15T00:36:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-stimulus/update-6-biden-unveils-plan-to-pump-1-9-trillion-into-pandemic-hit-economy-idUSL1N2JP30B"
-webUrl: "https://www.reuters.com/article/usa-biden-stimulus/update-6-biden-unveils-plan-to-pump-1-9-trillion-into-pandemic-hit-economy-idUSL1N2JP30B"
+publishedDateTime: 2021-01-15T06:03:00Z
+originalUrl: "https://www.reuters.com/article/idUSKBN29J1B1"
+webUrl: "https://www.reuters.com/article/idUSKBN29J1B1"
 type: article
 quality: 105
 heat: -1
@@ -91,8 +91,8 @@ related:
         isCached: true
   - title: "Analysis: Biden's $1.9 trillion rescue package offers bridge for hard-hit economy"
     excerpt: "U.S. President-elect Joe Biden's proposal to pour $1.9 trillion into a hobbled economy could lay the foundation for a surge in jobs and spending that many economists say is needed to avoid long-term damage from a record-breaking pandemic recession."
-    publishedDateTime: 2021-01-14T23:40:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-biden-stimulus-analysis-idUKKBN29J2ZL"
+    publishedDateTime: 2021-01-15T05:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-stimulus-analysis/analysis-bidens-1-9-trillion-rescue-package-offers-bridge-for-hard-hit-economy-idUKKBN29J2ZB"
     type: article
     provider:
       name: Reuters
@@ -120,6 +120,6 @@ related:
         height: 675
         isCached: true
 
-secured: "HdLQKNsk/HTE7jrw7tDHoOIro1LRYUzhFaLvQr621DdP7t7Sm404VyasU6Ztw5EKUXTVxgDrhN0CSyj3ZyK3tnvE6+W7pw5Hw9KUZ6lJDFgA8jUcZLOkUXcu9DzmqeFPNmYEVXmtfzLqGjt9J55XkUOCWDL/I0dZjitiifaXz4IruXIMyVxBt/fen2CpHsVRyRqssZK0cHdZs1F4G7MFr3avSh2dpqcbnI3tLTKY5VyoRKFsvCRL6PIHoXWlUZy6fula6b8ej8G5dkDlLKQt7QvcQ7p27ueXFCio81f5wL3rsxsJwpKfjp31lhXqkPswUtmqxuy9/Enbeorox3a4Mz9rPNKd3a7DUwIUO0tSLMU=;5FRc7V3zyMxbKA5rkcpVIQ=="
+secured: "aq15wIDJjb4nWcprYUDMVgyI/sV8PAWCMw4AinVoMClvL2syXWHZgirC189yEV3xrw7gX7o/WCKVJ5zzONIeuihZ66kOEMs8HfEsVmeFwzkSchO2OHnlJLQl1UKakKNbvP8/mri5UPluXufYCWJxnGGgd4+gNYfy1jRheU7zLwHHvxXp+G4UE4mFSIlSg9xq3iTdo5W5KmGXnPBA94UQVwTqV7Mclu/b3Upjd5iB5R/o5tW0aBTEVQC+1PrebQ+MCnQMqsgZdIMJiO5itI2g+W2k5UsaLJPN6onaQs+7dVpXQZWqFKgDTcv83Ipv0ZYr7pB8V4EDttdy9NcGbl7xSCxtsZo7I/oqVQJUm23cXaU=;TDC0crAKhRLobPqGOXevWA=="
 ---
 

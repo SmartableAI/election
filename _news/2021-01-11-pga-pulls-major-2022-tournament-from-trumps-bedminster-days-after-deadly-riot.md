@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Abandon Trump? Deep in the G.O.P. Ranks, the MAGA Mind-Set Prevails"
+    excerpt: "As President Trump prepares to exit the White House, his ideas, including falsehoods and conspiracy theories, continue to exert a gravitational pull among grass-roots G.O.P. officials."
+    publishedDateTime: 2021-01-14T20:56:00Z
+    webUrl: "https://www.nytimes.com/2021/01/14/us/politics/trump-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/14/us/politics/trump-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/14/us/politics/trump-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/14/us/politics/14gop-states2/14gop-states2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "jPytRyL3Lpi5k5wTH1W6cGalk8EOrvUm4peAcDaGAHuS5ikvRTAL5W4LiRi/mjSf35uiKOi4K7WIjOWqXlj3eFLEgZmm9IJnTkjDUgFOd8wTW9ltM98WN89Zz+HS5rZ2TRI+YdePN47CixU9fSbib29pDsaaNAH/7effiFWC4ibEySaPV7pgZ2AylWKH+UvJikLwQTvmVVp8pwtn+F84ghqaWd2jZNq5qTYKdk9D8hiyEMml2ERpLLciglbmbVYlIwO+21Ch9c3oxIuNGZEPpJPlh2TUBDyVMBOd74vYoBTKE6KPoCpzmBNurtIl1X6CrEbMfpurywAiH6ogiTcjQ81qEaRmGSpn+YDwRohzsAOrDBA7i8duorvWT+JRfd+4cakKWmTS/f799fWkXZ6ToV8wk/7/eAEI63i1j6QJTcgj+DI4CdmiuXSI5QHMzngF+rS/wT8PkSyAMh0LTiU2Wi0OAMU1EmOLsaGNse8vC4IWVh6nmRe0fL3mnnsCFrHuVDLKIKQuLe3AVx2SAufriQ==;9GyWE58oE+5EswOeLOF4zQ=="
 ---

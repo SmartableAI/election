@@ -2,9 +2,9 @@
 category: news
 title: "Pence vows to honor U.S. history, ensure safe inauguration of new president"
 excerpt: "U.S. Vice President Mike Pence on Thursday vowed to uphold American history and ensure a safe transition of power to President-elect Joe Biden, eight days after supporters of U.S. President Donald Trump laid siege to the U."
-publishedDateTime: 2021-01-15T02:01:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-biden-inauguration-pence-idUKKBN29K04Q"
-webUrl: "https://www.reuters.com/article/uk-usa-biden-inauguration-pence-idUKKBN29K04Q"
+publishedDateTime: 2021-01-15T06:41:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-pence/pence-vows-to-honor-u-s-history-ensure-safe-inauguration-of-new-president-idUSKBN29K05A"
+webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-pence/pence-vows-to-honor-u-s-history-ensure-safe-inauguration-of-new-president-idUSKBN29K05A"
 type: article
 quality: 103
 heat: 123
@@ -23,7 +23,7 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547859288&r=LYNXMPEH0E025&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547860873&r=LYNXMPEH0E02C&w=800"
     width: 800
     height: 533
     isCached: true
@@ -46,6 +46,6 @@ related:
         height: 300
         isCached: true
 
-secured: "+6T0jS5EtQoJShJGBHTK/Cw0KPV9wpTEQ0jXnEyLaAGVPtKae/WTWqD+lxNq/paaZNRUDfqjKYxNWxok1VT8BOb90s4Q0IXFa31PryKVB04GxBfvVKRhL0AVnqTSUdOIg/3PQHZwHzM9L+n3QVQovlA75TV8MXhuHOlEt5q+AzYeHCOdJiyU8pNg09RM93HCGY1RcFLXeiReYCBl443BFu81aOAlkr/UZw4zS3/vRSRKmLXE4v7yJ2tBEX2QDMYU+qDJ5MSKWxU02GVA4L7/Io9K2xfro5tCTNmAm4voiqqDDEdv1nRvIPv8GCDCiKyHSnUjb43Mtf3qx8+lEyBls64UbZpQfQeLG46tYECzeIU=;DP8wca+A6en+kSYt7cD0eQ=="
+secured: "n09/tyNhQgy6hrAjJXBjWskHsc7XtT13wDuTNju5r0NoI2H76Ljz9VFHGJiTDWMGOAN1B388ff7bVgtkwXK9/MJFlNb9BwRz+2gGh7Eh1y5XozZ0ddODwNPQ7klwSKwJq7m7+1HMmZ3sEXzcBdwAi0tUWiTeCAcgBNMKDKD65+kqe3lB2WPgHGriNbtriwVHzFzHmI7UXOUkwKs1g+qhvvLnWNlAoyf6ntx34GoRrNx0nbEaXwxafF2JTCjkJ8UijsH9fcxC/+PiYAVeUuIy/tovD2MMEYHuInxW01BmMCOKnfxsRC0WwVbQMQipd1ZxAlTkW9flU5fJKxvDiBalx5tjHxACY0XDyb6l4QsRD+w=;qB2itzojIdZRoHMXkfCWZQ=="
 ---
 
