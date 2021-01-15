@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/house-conservatives-trum
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/house-conservatives-trump-meeting/index.html"
 type: article
 quality: 208
-heat: 1648
+heat: 1668
 published: true
 
 provider:
@@ -1161,6 +1161,22 @@ related:
       - url: "https://static.politico.com/51/ff/431be3604af5bb244ecc518ca34e/20201111-capitol-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Joe Biden Can Reverse Trump’s Warpath With China"
+    excerpt: "Through military escalation and trade wars, Trump brought us close to the precipice with China. Will Biden follow suit?"
+    publishedDateTime: 2021-01-15T15:04:00Z
+    webUrl: "https://www.thenation.com/article/world/biden-trump-china/"
+    ampWebUrl: "https://www.thenation.com/article/world/biden-trump-china/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/world/biden-trump-china/tnamp/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 100
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2021/01/bidennewyorkforeignpolicy-1.jpg"
+        width: 1440
+        height: 907
         isCached: true
 
 secured: "NPMgQicvnDSzKlhTDKrv0ELfP/GHu8CQlw9YSYBPeF/q3jedw7uzYZk6woNRyLWZ67SBFenmhP9Gv/RAs13TRYPidYu4C6i36fozCgBcZc3itWNy2iaG6wrsLuMtCMkeFU1zM382K/ddHGkKEoD45Wkiz8+n/1ufU+bBdB/bn4/arvuDTWAOjfOEjqvIdhjbR8sX0pWzkFYS3m33nHQ1N/eF/qlQHlNlEexFGQ+eNP33G3NdBNPyuYnUGWi1n560Gz1H2Y97io8go3gvbawgnDbpgi0JB16XKM4fKpaBaDm/+h7c0qtrvFzhwGPbb/ujYaRywNXwVIRJtXoqCGBceUlcuhr0bw5KDjj/mhpNTPk=;josqnFCcPYFQ4DU3yRYdRg=="

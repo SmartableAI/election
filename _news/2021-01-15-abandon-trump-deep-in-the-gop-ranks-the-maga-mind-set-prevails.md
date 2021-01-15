@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Tillerson slams Trump as Pompeo sings his praises"
+    excerpt: "Former Secretary of State Rex Tillerson painted a scathing picture of his old boss President Donald Trump as someone who made uninformed decisions that were not based in reality -- a stark contrast to Trump's top diplomat Mike Pompeo, who is heaping praise on the outgoing President in his final days"
+    publishedDateTime: 2021-01-15T18:00:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jn45W6rhvuY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/tillerson-foreign-policy-interview/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/tillerson-foreign-policy-interview/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200626131825-trump-tillerson-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "PGA pulls major 2022 tournament from Trump's Bedminster days after deadly riot"
     excerpt: "Playing at the New Jersey golf course \"would be detrimental to the PGA of America brand,\" the association president said."
     publishedDateTime: 2021-01-11T04:21:00Z

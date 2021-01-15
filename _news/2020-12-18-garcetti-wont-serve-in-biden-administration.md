@@ -1162,6 +1162,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Joe Biden Can Reverse Trump’s Warpath With China"
+    excerpt: "Through military escalation and trade wars, Trump brought us close to the precipice with China. Will Biden follow suit?"
+    publishedDateTime: 2021-01-15T15:04:00Z
+    webUrl: "https://www.thenation.com/article/world/biden-trump-china/"
+    ampWebUrl: "https://www.thenation.com/article/world/biden-trump-china/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/world/biden-trump-china/tnamp/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 100
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2021/01/bidennewyorkforeignpolicy-1.jpg"
+        width: 1440
+        height: 907
+        isCached: true
 
 secured: "h6AI979EUTepn6vWL6kGTjzh14KcClqvolYXNT9t6oD3kn4Rm0FpQX+Ki/KPgV7Iys2Zka7d33823EQwzUWJngU2dWj49gi+tzcbFUWuN4bhUXBS2p/IZ2xvfGKeyNhUdP/escXUNJYhejdJ4V/BT/A6Nx8qMu6t+H1n5sLih70LZ5K3UauNpGixQ2UDSkP0pfQjTZWtO5UqsAzAona+axAsHz5PlLCkTGVJ1JDKbyDFP4qNr6fNmhrmVH5tat5DTHkixuqjQDUWq0Fn7y1WOIxk4LPINS/SgrGiuEwqbuJcIIRYwfWo02RPIJ/bt9sYi+DRQJwlNintoKKsEeDlCbdU150Kc6H2SthTW42IJwwsSq1/ZLFRtEadL++Auq5jnqV6HbnNwzxlQuZyyhHY7Xlo1bnEiwrSHWVOJqrEjZlcH/gX1itDQlFtBr6na98OqnXENfxN4cFwaN+iE6lR8ZzlIDDEtvRD5+hwFvR88F+SuCt4wZbhpTPjW+/r3SW74viPfDm2vfreKaneDGZODQ==;othTSY5titlN1iusu/SG1w=="
 ---

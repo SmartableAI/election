@@ -43,6 +43,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
+    excerpt: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
+    publishedDateTime: 2021-01-15T18:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 127
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Wrong number draws mistaken calls, ire from Trump supporters"
     excerpt: "A former Michigan resident has gotten hundreds of calls and texts from President Donald Trump supporters, demanding that the legislature reverse his defeat in the state"
     publishedDateTime: 2021-01-05T00:37:00Z
@@ -337,6 +353,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Interview: Kamala Harris on Capitol Riot, Stimulus Package"
+    excerpt: "Vice President-elect Kamala Harris talks to NPR's Scott Detrow about how she felt after the attack on the Capitol and the administration's new $1.9 trillion relief package proposal.This episode: White House correspondent Tamara Keith and White House correspondent Scott Detrow."
+    publishedDateTime: 2021-01-15T17:15:00Z
+    webUrl: "https://www.npr.org/2021/01/15/957196274/interview-kamala-harris-on-capitol-riot-stimulus-package"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "'It’s a lot of pressure.' As Kamala Harris visits Georgia, voters brace for a Senate runoff that is riveting the nation"
     excerpt: "From the time she stepped onto the podium, Vice President-elect Kamala Harris was greeted by thunderous car horns at a drive-in event near Savannah just days before voters decide their next Senators in contentious races that will shape Harris’ and President-elect Joe Biden’s governing future."
     publishedDateTime: 2021-01-04T12:06:00Z
@@ -608,6 +638,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/10/USAT/af029ec2-8407-4920-9107-97d66d067e40-VO0221_Cover_4x5.jpg?auto=webp&crop=1599,899,x0,y17&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kamala Harris and Doug Emhoff recall first date: ‘It felt like we had known each other forever’"
+    excerpt: "CNN Vice President-elect Kamala Harris and her husband Doug Emhoff recalled their first date in a rare joint interview with CNN’s Abby Phillip,"
+    publishedDateTime: 2021-01-15T18:34:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/15/kamala-harris-and-doug-emhoff-recall-first-date-it-felt-like-we-had-known-each-other-forever"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/15/kamala-harris-and-doug-emhoff-recall-first-date-it-felt-like-we-had-known-each-other-forever/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/15/kamala-harris-and-doug-emhoff-recall-first-date-it-felt-like-we-had-known-each-other-forever/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 63
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_263ed141685350633ca3cfd29159bf27-h_289cae49dbd4ed18e59e30ca1e35b524.jpg?w=1024&h=719"
+        width: 1024
+        height: 719
         isCached: true
   - title: "DeWine does not support Arts Council appointee comments; media owner called Kamala Harris a 'whore'"
     excerpt: "Ohio Gov. Mike DeWine, through a spokeswoman, condemned comments made by Ohio Arts Council board member Susan Allan Block."

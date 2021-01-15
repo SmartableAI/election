@@ -47,6 +47,20 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Outgoing Trump admin OKs land swap for Rio Tinto's Arizona copper mine"
+    excerpt: "U.S. President Donald Trump's outgoing administration approved a land swap on Friday for a Rio Tinto Ltd copper mine in Arizona that would boost domestic production of the red metal but destroy sites sacred to Native Americans."
+    publishedDateTime: 2021-01-15T18:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-mining-resolution/outgoing-trump-admin-oks-land-swap-for-rio-tintos-arizona-copper-mine-idUSKBN29K22P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547952986&r=LYNXMPEH0E151&w=800"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "4K8q4UVC5jweKUBkjK6dIN3TICk2BOVrQxIc0W+F1o20ysc/B0JKxa15xGVgDGQxIjCACmfx5WCFO9eKTBJR3BXcb/OKqXkrwpGLwcjNUAR4R9miQQHLhaS0cYvrb55k/gqYPqmb9WMID0SgLm2wnn3Fwug6H47pHd7+G2FzmqAgDJkTLH/fa8ES6Rr1DV/1wVzwf2/64Tlp0w2jbDqbsrqTtYGPIyAkTLDP13lN8WPYBca2jGgFt7V9O97xwITt55lsIGGk+ZZYlmXfejErim9UBmzPENI4vGyEqH3NUaKLDuZyKAHBVmomqkiNE2sOJzTjpp3wwyO4y69t9AcE3DkN0rOI3lP9ifG82kFoGNY=;a7uITb1JuOZyGTS32jTFkQ=="
 ---

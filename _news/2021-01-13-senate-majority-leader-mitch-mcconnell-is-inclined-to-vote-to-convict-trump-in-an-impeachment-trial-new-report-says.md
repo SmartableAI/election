@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-pleased-at-prospect-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-pleased-at-prospect-of-trump-being-impeached-nyt-2021-1?amp"
 type: article
 quality: 102
-heat: 102
+heat: 122
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Mitch McConnell is telling GOP senators their decision on a Trump impeachment trial conviction is a 'vote of conscience'"
+    excerpt: "Majority Leader Mitch McConnell has been telling GOP senators they have the freedom to vote however they want during Trump's impeachment trial."
+    publishedDateTime: 2021-01-15T18:24:00Z
+    webUrl: "https://www.businessinsider.com/mcconnell-republican-senators-conviction-vote-trump-impeachment-trial-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
+    images:
+      - url: "https://i.insider.com/5fa6a499f7d1cb0019e3a5eb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Oivkr0J8sW5lP+r4K4kuVJ3DEtpjnyAbotIXnwAncmiztj2izw2+U5UfEIThDYaB13AZqr2u4HLVPOVxuuCMx5D5cb2NmY/7vP38QEr1Q9xrPd4QhDXFXwiwlhpp3eld6Cy8KfLEv8DNJoLagAaoS+YCIdrh8Ngpvr1Rc1ten5kCOTQ8Qk447yko6m4W4xWlo7H6adMdZQeWRvGxsFasjOOE2sc3tU13/+O50Z0PL0JS1VUihUmpaNstQXJ4QuQDD0dbsvE50mmchNcR5zTCf7/EbBTVAONOphxSd5Ble/ZWOuOIvoEKMvWcRd6uSeE0a68Up37l14gDG1aYl/sK7f9ziJs0R5CU2lK073B9J1w=;70B68ilAvx6v3qpy0wVvDA=="
 ---

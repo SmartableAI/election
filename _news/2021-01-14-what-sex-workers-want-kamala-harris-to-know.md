@@ -44,6 +44,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Live Updates: Mike Pence Calls Kamala Harris to Offer Aid and Congratulations"
+    excerpt: "It was the first time the current and future vice president spoke since they debated each other in the fall. Speaker Nancy Pelosi said the impeachment managers were preparing for a Senate trial but declined to elaborate on timing."
+    publishedDateTime: 2021-01-15T13:50:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/15/us/impeachment-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/15/us/impeachment-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/15/us/impeachment-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 157
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/15/us/politics/15transition-brieifng-lede-1/15transition-brieifng-lede-1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Meena Harris, Building That Brand"
     excerpt: "Kamala Harris’s niece is building her own empire with statement T-shirts. Just don’t define her by her family."
     publishedDateTime: 2021-01-09T10:00:00Z
