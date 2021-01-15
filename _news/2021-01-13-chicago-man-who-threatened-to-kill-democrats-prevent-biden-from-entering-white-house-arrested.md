@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-p
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958?amp=1"
 type: article
 quality: 112
-heat: 132
+heat: 152
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "As Biden prepares to take office and America reels from Capitol riots, Black and white still define the nation"
+    excerpt: "Since the beginning of America, race was used to generate wealth for whites on the back of Blacks. Why can't we see our common economic interests?"
+    publishedDateTime: 2021-01-15T00:40:00Z
+    webUrl: "https://www.usatoday.com/story/money/2021/01/14/black-america-history-social-economic-inequalities/5759328002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5759328002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5759328002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/7595686b-762b-49ce-9210-96f74c5f7ead-GTY_1230427031.jpg?auto=webp&crop=5567,3131,x0,y581&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Black and white still define America as Biden prepares to take office, country deals with Capitol riots aftermath"
     excerpt: "Since the beginning of America, race was used to generate wealth for whites on the back of Blacks. Why can't we see our common economic interests?"
     publishedDateTime: 2021-01-14T05:14:00Z

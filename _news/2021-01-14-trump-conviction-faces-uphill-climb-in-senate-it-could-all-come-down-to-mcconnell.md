@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's speech is probably defensible in every court — except, perhaps, the Senate"
+    excerpt: "The Senate will now decide whether President Donald Trump should be convicted on the House's charge of incitement of insurrection, and there has also been discussion of potential criminal charges arising from the same conduct after he leaves office."
+    publishedDateTime: 2021-01-15T00:17:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-s-speech-probably-defensible-every-court-except-perhaps-senate-n1254258"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254258"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254258"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_02/3442024/210114-donald-trump-jm-0910_c07a5a64d923f2f218931b734f3f77f4.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
 
 secured: "nVnIR0sCdnVN9i7/qUOME+tRMKRJgiQF5Dw47KU69JmldbkB6QO9LS0kMyrZAS81am64qJiOGzIhTcMoFbpseZwaQxVA+gqByODX7fKlBPdzovhxqEsOzFB3gWQz8t4dAx1EY66PGfT7TwaGILYqcrE8Q4Fzk1qnDgB04kQjO1OxipyWdwQcKUKNyDTwhn2dWjGkRf6kuW9OEgVYQVWYufmzE5rQGCgc+4uc6WY3VR/SikTfuT5ngXbcG63J5rgW2LkVsyYw90RnyvB+hq9eH6KJVQ8YYi2+IVAw6Lbsc85MbVycYBAU9vxk11wDSSTpXUl4Vc5TJi7OlNhjyZJlBndTri0HfEl+mWsK52S1lXCPZl5H68GXGhRolhT3bTDzDPVlOUNbRVLjDN5/2Q/jOYFTfDGEa5TX+NY58rHYpdqfPEn+BIkj9zbFnruaF/pqwqafNLy1V30vXL2/q2k2M+UNvdB8XbY4HXLTXRj01RRoe/hxf2XdvD59Dy1stfB9KfLIl3iPk55cPwZuumEE8g==;/UCU+sJNWab0UGqOLzMPtA=="
 ---

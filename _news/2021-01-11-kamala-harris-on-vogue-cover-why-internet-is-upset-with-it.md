@@ -691,6 +691,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 47
+  - title: "Readers Write: COVID vaccinations, riots past and present, unity and polarization, Kamala Harris"
+    excerpt: "Where are the plans for opening of 24/7 mass vaccination centers, the utilization of the National Guard for community vaccinations, supplying vaccine doses to local pharmacies, or other alternatives?"
+    publishedDateTime: 2021-01-14T23:45:00Z
+    webUrl: "https://www.startribune.com/readers-write-covid-vaccinations-riots-past-and-present-unity-and-polarization-kamala-harris/600010706/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 42
+    images:
+      - url: "https://chorus.stimg.co/22236631/ows_3da7b3d1_db73_4415_ae3d_65ea5ae81790.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "rSFvDbi0BNZIjTX4QmAZn8XyCjWJmS978285Ciq+FQ3t6s3ZWQBioQp+Fl8asLMP/0UcuLMdU9pmsuBkcOEzzAK53RtAnYUQ5WILBYet3pKAKI76ZisxtZNz66hLMu0GfUwxZCYuzjliR8T7QJRv6KLjUZSu8daF79WOP+Vt0orPfunVedrHrKBXP+ATlxaj5uqTkLKjmHyc2aYD8KPW7csV1ucsLLdlH+l1xGsidc2+ScOl02TGMR40DnPdFjzulHqhQLvChM/KtN+dGbHKtWKw71+Qg0Vg3MepNlm5xsf2UGtYp771uJ2qlM3shZNgK0uGSc5Nhx9Eq2i0o2NtVQjDI5lA5ilIgAYCgmFCQdI=;wln01sqPzTTdyZpZZAMTHw=="
 ---

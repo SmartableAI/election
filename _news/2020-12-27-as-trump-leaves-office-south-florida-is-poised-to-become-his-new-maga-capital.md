@@ -9,8 +9,8 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/fl-ne-trump-florida-man-transition-20201226-li7a42c22zedxhmpwvqedncysy-story.html?outputType=amp"
 type: article
 quality: 120
-heat: 140
-published: true
+heat: -1
+published: false
 
 provider:
   name: Chicago Tribune
@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump House Hunts in a Surprising Place-Which Home Will He Pick?"
-    excerpt: "Donald and Melania Trump may be moving to sunny Florida in 2021. Which one of these over-the-top mansions should they select? Is the 45th president house hunting in Florida? Once his term in the White House ends in January,"
-    publishedDateTime: 2020-12-30T19:38:00Z
-    webUrl: "https://www.chron.com/realestate/article/Donald-Trump-House-Hunts-in-a-Surprising-15836601.php"
+  - title: "As New York dumps Trump, a Trump exodus to Florida is underway"
+    excerpt: "As New York officials make aggressive moves to cut ties with President Trump, planning has been underway for Trump and some of his children to ditch the Empire State."
+    publishedDateTime: 2021-01-14T23:48:00Z
+    webUrl: "https://abcnews.go.com/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713"
+    ampWebUrl: "https://abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 55
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://s.hdnux.com/photos/01/15/76/62/20442269/3/rawImage.jpg"
-        width: 640
-        height: 360
+      - url: "https://s.abcnews.com/images/US/trump-family-gty-ml-210114_1610647078401_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "R1APWGm1pUW3FVSVigiDrINXw/XlK4/Uk4Jc1HB+KbTCW/4DCvNHWWKx8EhUlP1P0MJXkzEKtuq2afejM0rr8Pr6InP5baUUkuaHegFxmQakkWotU1KZwMi40g8X3iksWflh1oolEv/YIuv2kGybAuzxG8GKN+FZT8LrBKl5Ps1cL70cond69glTANXAgHbMSRcp5E1fIPNcf8w9Gp1FAN1kVSPZfWuJa0vkEBvIMD9tk2Lb1imH/SpB1DUeT9gyK5AFP+NXayzlO05lDQJhJjN+NBmtVx9nnCTIdJtJGP4iJ1gkOA0K7RJ+lyhBAhZJx8nx6dWf4mfnE6rW3eqe1TeDeQRip/+vBGBaUbRQpKLUAB6cPzyvDqzzKyxFpVvmcdA4EVt5qygNgQiFZJ62Lo/+PdpwT1QPYpiCIYf+PSpv/lOnr7XODMENTav3037+C2mkRF7QqGFEnOT3L1efOvCOQri7/a1sQ47/sMNrrtFIZ9G9xU4ZmH9RmzXSOdqGqVt9rlOF/owy2c0raCSNeg==;GYdOh0ouN8NOQNWotlN+mw=="

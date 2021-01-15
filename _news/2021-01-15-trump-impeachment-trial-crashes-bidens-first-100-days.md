@@ -526,6 +526,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden proposes $1.9 trillion vaccination and economic rescue legislative package"
+    excerpt: "President-elect Joe Biden on Thursday evening will outline a legislative package proposal for Congress to fund his incoming administration's efforts to vaccinate the country against Covid-19 and provide immediate and direct economic relief to Americans, according to his transition team.\n    \n"
+    publishedDateTime: 2021-01-15T00:52:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/278KxrHM3Hw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/biden-vaccination-economic-rescue-package/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/biden-vaccination-economic-rescue-package/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to nominate William Burns as CIA director, turning to a longtime diplomat to lead agency in post-Trump era"
     excerpt: "President-elect Joe Biden on Monday will nominate William Burns as director of the Central Intelligence Agency, CNN has learned, tapping a respected veteran American diplomat who has served in posts around the world from the Reagan to the Obama administrations.\n    \n"
     publishedDateTime: 2021-01-11T12:03:39Z
@@ -587,6 +603,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108153229-joe-biden-press-conference-cabinet-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Secret Service director reminds employees to be nonpartisan ahead of Biden inauguration"
+    excerpt: "US Secret Service director James Murray sent an agency-wide memo on Wednesday reminding all employees to remain professional and act in a nonpartisan manner as they carry out their duties for next week's inauguration.\n    \n"
+    publishedDateTime: 2021-01-14T23:32:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xy8wDc8CZgg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/secret-service-inauguration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/secret-service-inauguration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190502214432-secret-service-agent-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1198,6 +1230,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Vice President Mike Pence ensures 'safe inauguration' after Capitol riot"
+    excerpt: "During a briefing at FEMA headquarters, Vice President Mike Pence addressed the Capitol riot and ensured an “orderly transition into a safe inauguration.”"
+    publishedDateTime: 2021-01-14T22:56:00Z
+    webUrl: "https://www.nbcnews.com/video/vice-president-mike-pence-ensures-safe-inauguration-after-capitol-riot-99488325676"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99488325676"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99488325676"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/f_mo_pence_inaug_safeyty_210114-00_00_01_03-Still001.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden Plans Minimalist Trip From Capitol to White House on Inauguration Day"
     excerpt: "Joe Biden’s inaugural committee suggested the traditional crowd-lined ride down Pennsylvania Avenue would be replaced by a “virtual parade.”"
     publishedDateTime: 2021-01-04T03:07:00Z
@@ -1438,6 +1486,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "What Biden will say tonight"
+    excerpt: "JOE BIDEN is about to hand Congress the first major assignment of his presidency. The president-elect tonight will lay out a $1.9 trillion — with a ‘T’! — plan to ramp up coronavirus vaccinations and testing,"
+    publishedDateTime: 2021-01-14T23:08:00Z
+    webUrl: "https://www.politico.com/newsletters/transition-playbook/2021/01/14/what-biden-will-say-tonight-792791"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "‘They should be flat beaten’: Biden blasts Cruz, Hawley after Capitol attack"
     excerpt: "President-elect Joe Biden said on Friday that Sens. Ted Cruz and Josh Hawley should be \"flat beaten\" in their next elections for their roles in contesting the 2020 election results. Biden made the remarks following calls from members of Congress for Cruz and Hawley to resign after rioters heeding President Donald Trump's call to contest the election results raided the Capitol."
     publishedDateTime: 2021-01-08T21:07:00Z
@@ -1495,6 +1557,6 @@ related:
         height: 629
         isCached: true
 
-secured: "gOHCtbr7Xcj8HWr7RRw5l8sQeg715uLQK/P5AevVXs76Kd3VNMaMQlxIuPT+z/gq7fLqqL7mpU28SQaVxS1H3ACoIIju3Y4RsquykbtDr8a/Si1aCeS5I0oi3KtQQLAfuXwpD+ni/rwTjXfKzYZDD71FYxlmIzpC3JjQmpJTmJ/EObXIY9Lg37c8jLxuprf3mq6USdhco/czmS8OY231AZTZW37njsp4FAh3TrqAg4wjVCTQdhG9e/uloVfE1gve964vBvzO5ILfvs/OMGpZeDqI4jZZfVhGFn7jnC2XHXaTveT47o0sqKgjj8rLo4fX3KiW8tr2DcoDtCTZv4dcDf3+pPZlFFqseYoDYDS9Vbs=;JdsXbirvDNghngnwblZAPQ=="
+secured: "PR+Mo3iW/r4E+o2sAXvyU4t2UZZUNDHVP1sEcg57ed9VICj9gX7vZhFp1LqB+UtCVkrfJMEYsN/NVdMz5i1JRjlFniWmRh1AquAkNrSd9jo2ClJx7rqPx+qLjSY7CrYkK5ghK4JYAMzqNjRH0KN9VZvBCUm7ThxxEszw3PAAsdpzmG3XCJOh2pUtaFY/rVxr7yFfsaMnmgneGo98hKp2IMcT3SNiawn9WbMrehnpH/Qc4XnC+C0SctmthurMM5/1AMpgwasNrphpIYyb26C7yJejLNG22VUEVXfdNlXu4yY+BTJskMtMhpX1RoJXikWg3W18KLrOJIaGFmmzh4Tc1PVhrS6VOEYPWtioEocT8i+hARYKExkEeICbFFB3V5PA1QakyVQK03lhFhhooPjz2C3tJjko1GUnTw7uACeC3vk4ZRqJj5xEffhuk6uvzjAc9GFo6+mtAjAps7ck4/DqM2rKXdKHPzfezFW4HEuWH3gubkJjp4HjTU0eN+6stRvGBF8Z8yWKhscMXtHPkktHMw==;wm5i/u2/CTBHXDCgcFXh5w=="
 ---
 

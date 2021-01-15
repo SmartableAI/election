@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/mitch-mcconnell-republic
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/mitch-mcconnell-republican-senator-plans/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_02/3441896/210113-donald-trump-ac-434p_0a113ac772841e55bfd302f2f9225047.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "Trump's speech is probably defensible in every court — except, perhaps, the Senate"
+    excerpt: "The Senate will now decide whether President Donald Trump should be convicted on the House's charge of incitement of insurrection, and there has also been discussion of potential criminal charges arising from the same conduct after he leaves office."
+    publishedDateTime: 2021-01-15T00:17:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-s-speech-probably-defensible-every-court-except-perhaps-senate-n1254258"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254258"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254258"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_02/3442024/210114-donald-trump-jm-0910_c07a5a64d923f2f218931b734f3f77f4.jpg"
+        width: 2500
+        height: 1666
         isCached: true
 
 secured: "g7NA7iA7xUuq3cczpdPElHyOKE4zcIB1MttiMxqxI9lpkIpZYlF+ypkt70ZYQBlRSH2Ni129A2q8xh5x4GvmKHPKoYfSw/dicJ5acmKDFeuXU5UNcgmVQldiO4XS9TTzf5PDi4tfQEmXFBAlnv6iNCgGbkFm23mHeJ10FWJaCeVuaZCuTeZbeSCneJzxBsyuWDQrh1B8cGE8WwFU+CS5XlOYDkS8t6kUMMs1dyPqyTQaDLHELcXkq9xK99cFLPzdV2XHGyQFj//csIJLGBAub2Dl7+b770QOkWu3pTcNnL4i4shKI/KSesOr+YU499OWfvCXhFxRvlgJWncO86igFu4GRz+LyVMWEn1td1Td1w0=;uZountvmMjPqXTj3qjbBYw=="

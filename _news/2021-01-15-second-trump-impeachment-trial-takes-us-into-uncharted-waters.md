@@ -2,9 +2,9 @@
 category: news
 title: "Second Trump impeachment trial takes U.S. into uncharted waters"
 excerpt: "America will be in uncharted territory when the U.S. Senate meets as soon as next week for the second impeachment trial of Donald Trump, a case against the outgoing president that one Democrat preparing for arguments called \"shockingly evident."
-publishedDateTime: 2021-01-14T20:05:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump/second-trump-impeachment-trial-takes-u-s-into-uncharted-waters-idUSKBN29J1B6?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/us-usa-trump/second-trump-impeachment-trial-takes-u-s-into-uncharted-waters-idUSKBN29J1B6?edition-redirect=ca"
+publishedDateTime: 2021-01-15T00:54:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump/bitter-senate-impeachment-trial-of-trump-could-bog-down-bidens-first-days-idUSKBN29J1B6"
+webUrl: "https://www.reuters.com/article/us-usa-trump/bitter-senate-impeachment-trial-of-trump-could-bog-down-bidens-first-days-idUSKBN29J1B6"
 type: article
 quality: 105
 heat: -1
@@ -668,6 +668,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Trump isolated during final days as Senate trial looms"
+    excerpt: "Key allies on Capitol Hill have bucked him, advisers are avoiding him, and his lawyers have largely refused to defend him as he faces a second impeachment trial."
+    publishedDateTime: 2021-01-15T00:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-isolated-final-days-senate-trial-looms/story?id=75250931"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-isolated-final-days-senate-trial-looms/story?id=75250931"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-isolated-final-days-senate-trial-looms/story?id=75250931"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-white-house-01-gty-iwb-210113_1610553950499_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Tucker Carlson is making his play to be the post-Trump MAGA champion"
     excerpt: "Did I think there were more Trump Republicans or more Republicans loyal to then-House Speaker Paul Ryan (R-Wis.)? I fell back on what polling indicated, which was that there were likely more of the latter."
@@ -2186,6 +2202,17 @@ related:
         width: 1034
         height: 564
         isCached: true
+  - title: "Trump Impeachment Trial to Focus on His Attacks on Election"
+    excerpt: "President Donald Trump’s historic second impeachment could go to trial as soon as Inauguration Day, with U.S. senators serving not only as jurors but as shaken personal witnesses and victims of the deadly siege of the Capitol by a mob of his supporters."
+    publishedDateTime: 2021-01-15T00:33:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-14/trump-impeached-after-capitol-riot-in-historic-second-charge"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-14/trump-impeached-after-capitol-riot-in-historic-second-charge?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-14/trump-impeached-after-capitol-riot-in-historic-second-charge?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "House Democrats vow to move forward with Trump impeachment if Vice President Mike Pence won’t invoke 25th Amendment"
     excerpt: "Nancy Pelosi’s leadership team will seek a vote on a resolution calling on Vice President Mike Pence and Cabinet officials to invoke the 25th Amendment."
     publishedDateTime: 2021-01-11T15:39:00Z
@@ -2636,6 +2663,6 @@ related:
         height: 392
         isCached: true
 
-secured: "oDYJlrwRg/Xe1bESkfG5xbjwnntFbwSVulRgu25ZZ6MVSLX6Omv7+/76M/lpokmMqTmcmz+k3J9rO1J0iXrtqbLXyzz5Ou/uao0qCnvAOKVOKDNkUprLQudmGTLizS5eIosKCzeuh54NdiU4aIlMY3/d4x4zr4a3aaKCzrJbdBr8DK92dE8559WUuhVqF50VRTnc8ufCFzTPyZ9WRKUNbPQyF1z3svkfMGZt0JJUX0aIN3XGjthM4wxoPauRxzr2hCpfvGGMXVz/sHVla9eJ5Uc37z1a+Jb4bgzcBuRWLnbaQf8XpRI00v9Ncif7QRgmByWkE+OuwbRFBQmISGUa+8omtJtkdJYTso/v5eCHiWo=;iDEUi9nVTuvmmEtk7Ut+jg=="
+secured: "i5I9tMerCDyue/95n7smhCGVgeO2nREphNZMuPj5wW02MqIQrU6n3jMArn+hIhoj77JMzkSum+id8g3lBURS76dhkYK2T1BleDpFs3lqBzbmXyqXLO/TV69FZwVr7MKkXwKPIxmHJ3aR3hwP3TSINLidbugXJ5+o5UN5W9OGBWD2PKL96dxcqob75SkMKAuPb4rzRauS1fAKcc1q38YzmjL7lbYAEu2B0it8ozgWen3LS4kGjGfx6gpZ45NJmY2/stKuklvAcr85GHKdbCtYdKGYuTERjCMinj+tsALewS/YAp7qCdGHgJ5nETTIZkcKzzvYnxbxnEDizkrsa9GeMUBo1gOoQWE7WOHsJQsHmhA=;S+MbNYWHwQzw818iMv0GpQ=="
 ---
 

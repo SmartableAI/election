@@ -686,6 +686,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Readers Write: COVID vaccinations, riots past and present, unity and polarization, Kamala Harris"
+    excerpt: "Where are the plans for opening of 24/7 mass vaccination centers, the utilization of the National Guard for community vaccinations, supplying vaccine doses to local pharmacies, or other alternatives?"
+    publishedDateTime: 2021-01-14T23:45:00Z
+    webUrl: "https://www.startribune.com/readers-write-covid-vaccinations-riots-past-and-present-unity-and-polarization-kamala-harris/600010706/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 42
+    images:
+      - url: "https://chorus.stimg.co/22236631/ows_3da7b3d1_db73_4415_ae3d_65ea5ae81790.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "3/pPNG/5FoLo5wuO7mrSagm9yRBRGUQg/FhMQL0UzRrHXxdfT8CYP4a0mdhHi5UPVkrPum/bsfETw+SxumzZd1pxwYOF6UTYK2Vu8ZTSTY8A2E71yQLbTnXHq/xkHCJ42B/FbrUIooSKujRSXTEULBYx4AdvfGz0qBugFvp93sIFQEIvrA6pwtY4gRbBPw1Q9C5WDD9xd1dTLrRwbXD5MsFTDXaYivt+MhlhBgC6n376YnNFHiSHmZRJYxbw2wzTxkldmQM8LgKwc6GKALcUw+lyLqA/Iqld8C84tNK2VWrC5zU5rmIG8DTEaxxQ1vc6YxDcwZSQrZZeOVgAAZ4R5a2be7kRl0XNMx/G6Y40tQAnAQ7ixMvUhAzbKKPurtl1PeL4UjhnBQzqCQn7AGe2sT8myZWUOQaVquAHnzQxpHpMBEbu2TbCJEYAe8jsKFzxbXCT/AQI8ShbgUS19GfKEFRCj3lyncu6nh9zzkOUTVEkQwoez7ZyzJZMiZ86qjxAUioZV4oO2zQXkFhBuTwZmA==;QMfMdIMkc+SzLr1+gkxS6w=="
 ---

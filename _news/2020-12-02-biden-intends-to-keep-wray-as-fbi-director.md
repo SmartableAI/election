@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-intends-to-keep-fbi-director-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-intends-to-keep-fbi-director-wray.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Ahead of Biden inauguration, FBI Director Wray warns of 'concerning online chatter'"
+    excerpt: "FBI Director Christopher Wray warned Thursday that authorities are monitoring calls for “potential armed protests” in Washington D.C. and state capitols."
+    publishedDateTime: 2021-01-14T23:13:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MtI8iRPljsA/biden-inauguration-fbi-director-wray-warns-of-concerning-online-chatter"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-fbi-director-wray-warns-of-concerning-online-chatter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-fbi-director-wray-warns-of-concerning-online-chatter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/076469f3-c522-4963-8eb9-8dfba72bc6e1/11010aed-d5b3-4315-913f-bf24ab94645c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "President of Soros’ Open Society Foundations resigns, clearing way for potential Biden Cabinet position"
     excerpt: "The president of George Soros’ Open Society Foundations, Patrick Gaspard, will resign, opening the way for him to take a possible position in the Biden administration."

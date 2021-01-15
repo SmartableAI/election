@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-01-11/that-time-kamala-h
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-11/that-time-kamala-harris-flew-on-trumps-private-plane-and-more-from-new-book?_amp=true"
 type: article
 quality: 134
-heat: 994
+heat: 1014
 published: true
 
 provider:
@@ -691,6 +691,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 47
+  - title: "Readers Write: COVID vaccinations, riots past and present, unity and polarization, Kamala Harris"
+    excerpt: "Where are the plans for opening of 24/7 mass vaccination centers, the utilization of the National Guard for community vaccinations, supplying vaccine doses to local pharmacies, or other alternatives?"
+    publishedDateTime: 2021-01-14T23:45:00Z
+    webUrl: "https://www.startribune.com/readers-write-covid-vaccinations-riots-past-and-present-unity-and-polarization-kamala-harris/600010706/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 42
+    images:
+      - url: "https://chorus.stimg.co/22236631/ows_3da7b3d1_db73_4415_ae3d_65ea5ae81790.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "17nAnOD9anXloizRLr2jBFi3jEOI4dt3bj9NizKemRkq3gbcuBlPTPyOUtl4wkEA7pM0VG9IYZYrTP+qhSwWFVcXEAyktdSt/hcpwgv62t3DrJNYHzdngQUelauemMa0f7sb/9sjd0/Ji6PsKSslH3dZt5dcKPr1jECdnQdIYM6J9XuAGtOLSh9ScHRh+PNU/T1IdEmdL8w8njmxnQUH7zhJsQDVBm8mfsR0gos8Zc0uMurQDtKoZ5/HCqtKtqn+3CNMGhl3WtuNE4+mXqkINOzPCwsZH0K0/+WHHX+qLtcqQYOCAwQrXj/eGWS2bbIYB8K/4rhXGZfKzxDa1iP+wdmJ2E9ANjR6wzann14auPA=;DFktshVd9yJDVZKt15m3mg=="
 ---
