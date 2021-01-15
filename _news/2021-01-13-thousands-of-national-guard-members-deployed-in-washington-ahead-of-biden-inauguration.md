@@ -29,51 +29,99 @@ images:
     isCached: true
 
 related:
-  - title: "Biden forgoing Amtrak trip to Washington over security fears"
-    excerpt: "President-elect Joe Biden will no longer be taking an Amtrak train to Washington for his inauguration because of security concerns"
-    publishedDateTime: 2021-01-14T03:23:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-forgoing-amtrak-trip-washington-security-fears-75240422"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-forgoing-amtrak-trip-washington-security-fears-75240422"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-forgoing-amtrak-trip-washington-security-fears-75240422"
+  - title: "Law enforcement: We'll be ready for Joe Biden's inauguration"
+    excerpt: "The inauguration of President-elect Joe Biden will be held on the same risers in the same spot at the U.S. Capitol where a violent, pro-Trump mob descended last week. But the two events aren't even comparable from a security standpoint,"
+    publishedDateTime: 2021-01-12T05:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_76e194e994ac4a12af2297d0bbd1395a_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4fe982d42806466fb9c7a1df9ea2d778_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Power Up: Possible twin Democratic wins in Georgia put Washington control in Biden's grasp"
-    excerpt: "Democrats came within striking distance of total control of Washington with possible twin victories in the Georgia Senate runoffs determining which party holds the Senate majority. If they prevail, President-elect Joe Biden would have an easier time pushing through his agenda and getting his nominations confirmed."
-    publishedDateTime: 2021-01-06T16:50:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/06/power-up-possible-twin-democratic-wins-georgia-put-washington-control-biden-grasp/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/06/power-up-possible-twin-democratic-wins-georgia-put-washington-control-biden-grasp/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/06/power-up-possible-twin-democratic-wins-georgia-put-washington-control-biden-grasp/?outputType=amp"
+  - title: "Biden picks Samantha Power, former UN envoy, for US aid post"
+    excerpt: "President-elect Joe Biden has selected Samantha Power, the U.S. ambassador to the United Nations under President Barack Obama, to run the U.S. Agency for International Development"
+    publishedDateTime: 2021-01-13T14:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b144e118b1ff442f96fc0e82513e2870_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Poet Amanda Gorman, 22, will read at Biden inaugural"
+    excerpt: "At age 22, poet Amanda Gorman, chosen to read at the inauguration of President-elect Joe Biden, already has a history of writing for official occasions. \"I have kind of stumbled upon this genre. It's been something I find a lot of emotional reward in,"
+    publishedDateTime: 2021-01-15T06:36:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/poet-amanda-gorman-22-read-biden-inaugural-75269468"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/poet-amanda-gorman-22-read-biden-inaugural-75269468"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/poet-amanda-gorman-22-read-biden-inaugural-75269468"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_d0b8bbd465694ada9281f14777396726_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden has accepted invitation to stay at Blair House the night before inauguration, State Department says"
+    excerpt: "The Trump administration has offered President-elect Joe Biden the use of Blair House, the official residence for guests of the president, on the eve of his inauguration. Biden has accepted the offer to stay at the historic home,"
+    publishedDateTime: 2021-01-13T23:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-has-accepted-invitation-to-stay-at-blair-house-the-night-before-inauguration-state-department-says/2021/01/13/ca3f1e1c-5551-11eb-a931-5b162d0d033d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-has-accepted-invitation-to-stay-at-blair-house-the-night-before-inauguration-state-department-says/2021/01/13/ca3f1e1c-5551-11eb-a931-5b162d0d033d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-has-accepted-invitation-to-stay-at-blair-house-the-night-before-inauguration-state-department-says/2021/01/13/ca3f1e1c-5551-11eb-a931-5b162d0d033d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 115
+    quality: 108
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M2OR4HSPPEI6XIPV7WXSRT6KSA.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MUEGLJSVYYI6XIEL6E4B546SA4.jpg&w=1440"
         width: 1440
-        height: 960
+        height: 979
         isCached: true
-  - title: "France's Le Maire: resolving trade sanctions is my priority for Biden administration"
-    excerpt: "French Finance Minister Bruno Le Maire said on Thursday that resolving transatlantic trade sanctions were his priority for dealings with the incoming administration of U.S. President-elect Joe Biden."
-    publishedDateTime: 2021-01-14T15:02:00Z
-    webUrl: "https://www.reuters.com/article/us-france-lemaire-usa/frances-le-maire-resolving-trade-sanctions-is-my-priority-for-biden-administration-idUSKBN29J15Q"
+  - title: "Biden's inauguration rehearsal postponed over security concerns, Politico says"
+    excerpt: "A rehearsal for U.S President-elect Joe Biden's inauguration scheduled for Sunday has been postponed because of security concerns, Politico reported late on Thursday, citing two people with knowledge of the decision."
+    publishedDateTime: 2021-01-15T04:41:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-security/rehearsal-for-bidens-inauguration-postponed-due-to-security-concerns-politico-idUSKBN29K0A8?WT.m"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 98
+    quality: 101
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547761954&r=LYNXMPEH0D0LH&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547869722&r=LYNXMPEH0E05D&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Joe Biden’s inauguration theme: ‘America United’"
+    excerpt: "WASHINGTON (AP) — The theme for President-elect Joe Biden’s inauguration will be “America United,” an issue that’s long been a central focus for Biden but one that’s taken on added weight in the wake of the violence at the U."
+    publishedDateTime: 2021-01-11T16:15:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2NAB5FK6RFAK3B53DG7COL2DXE.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "y76K0JJ46I9cwUsabj/ZIyTJWjPMS+2beQipppHh3eE0XmncN3aW74DjtkSnLI/gy3QGQUI9a1cZhOnakrYlemDD4ruoMSIzmry5HMm4RrImYTrbqNSnRwqE13sPcnwv1jS7It0KabDcEpvrAP920abW4WjhCOJmU6LX/Uv+eAV3tRj223+c/yOcz3HqADCg2n8+E1p1y45VaZ3F5u9Co9+EjHcnLdhvTlFTK8z0taoJny+CN9/SOBkI+K+bqoxeFYO2JZqqU0bDXwRmm2jN6Lat5o5U7otj3ZSdEyKnBfdW4bydDTYI9nKJ7JywN/zuyxogaY8XUijS1Q4ut0mvq1CeoiBQb6/z65T4i1vCFoHMLoYnBwfbffpOA3i9nr5L7I7VHNNo3xAIKbIkLoDOarkpvh2MX/bl0CKXBT8UIfSkTfNu31l05BYdT7MObBfoFrigYWC7931FW8QiDOWlZ5RYSmIbXz5Gd4A/HBoIpYin4YjdPVd0i9Ihn6nkd1ggHiNvBBCLud7ioJq3R4oReg==;WHTzZ1EB3t4gUp0G3h1hmA=="

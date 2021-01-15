@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden wrests control of Trump's spotlight and makes first big bet of presidency"
+    excerpt: "Joe Biden's crisis presidency effectively began Thursday evening, when he urged Americans to mobilize behind a $1.9 trillion plan to end the pandemic, save the economy and revive the weakened heartbeat of a nation.\n    \n"
+    publishedDateTime: 2021-01-15T05:48:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-qZeZCXNs3k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/joe-biden-donald-trump-spotlight-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/joe-biden-donald-trump-spotlight-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114192843-04-biden-speach-0114-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "At the 11th hour, Trump hands Biden a whole new set of foreign policy headaches "
     excerpt: "His days as president of the United States may be numbered, but Donald Trump is going out of his way to light a string of wildfires for his successor to put out.\n    \n"
     publishedDateTime: 2021-01-13T05:25:55Z
@@ -1233,11 +1249,11 @@ related:
         height: 1080
         isCached: true
   - title: "Why Does Australia Want to Kill a Bird Named Joe (Biden)?"
-    excerpt: "A racing pigeon who appeared to have traveled from Oregon to a backyard in Melbourne faces death. But there’s a twist."
-    publishedDateTime: 2021-01-15T05:59:00Z
-    webUrl: "https://www.nytimes.com/2021/01/15/world/australia/racing-pigeon-joe-biden.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/15/world/australia/racing-pigeon-joe-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/15/world/australia/racing-pigeon-joe-biden.amp.html"
+    excerpt: "A racing pigeon that appeared to have traveled from Oregon to a backyard in Melbourne faces death. But there’s a twist."
+    publishedDateTime: 2021-01-15T08:36:00Z
+    webUrl: "https://www.nytimes.com/2021/01/15/world/australia/joe-pigeon.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/15/world/australia/joe-pigeon.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/15/world/australia/joe-pigeon.amp.html"
     type: article
     provider:
       name: New York Times
@@ -1343,6 +1359,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/07/us/politics/07transition-briefing-sweepy-cong/merlin_182076939_379d7db0-5499-47e2-b229-2eaa68593ef0-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "'A call for unity': Biden lays out vast federal expansion of pandemic response"
+    excerpt: "The plan will essentially federalize the current patchwork pandemic response, including spending $20 billion to speed up vaccinations."
+    publishedDateTime: 2021-01-15T09:24:00Z
+    webUrl: "https://www.politico.com/news/2021/01/14/biden-federal-pandemic-response-expansion-459473"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/14/biden-federal-pandemic-response-expansion-459473"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/14/biden-federal-pandemic-response-expansion-459473"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 131
+    images:
+      - url: "https://static.politico.com/c2/7e/39e7ec2b4f3188cdf72a7dfa2c51/gettyimages-1295849036-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Senate rejects first GOP attempt to block Joe Biden's electors after day of chaos"
     excerpt: "Over 150 Republicans had been expected to object to results in numerous states that voted for Joe Biden, even though they've already been certified."

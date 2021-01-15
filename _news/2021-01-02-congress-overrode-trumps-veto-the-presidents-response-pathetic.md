@@ -63,38 +63,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Congress certifies Joe Biden as president hours after storming of Capitol"
-    excerpt: "Trump loyalists objected to certification of election result before joint session interrupted when mob breaches security"
-    publishedDateTime: 2021-01-07T10:09:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/06/congress-certify-election-biden-republicans-object"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/06/congress-certify-election-biden-republicans-object"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/06/congress-certify-election-biden-republicans-object"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
-    images:
-      - url: "https://i.guim.co.uk/img/media/9da8faf3d99a52adfaf8ea034a239e9d38230b75/0_193_5807_3486/master/5807.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=de2ce9f34e538a331145bd735f29821c"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump rewards GOP ally Rep. Jim Jordan with Presidential Medal of Freedom"
-    excerpt: "Jordan objected to the 2020 election results in Congress last week, even after a pro-Trump mob stormed the Capitol."
-    publishedDateTime: 2021-01-12T04:23:00Z
-    webUrl: "https://www.businessinsider.com/trump-rewards-gop-ally-rep-jim-jordan-with-medal-of-freedom-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trump-rewards-gop-ally-rep-jim-jordan-with-medal-of-freedom-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-rewards-gop-ally-rep-jim-jordan-with-medal-of-freedom-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 124
-    images:
-      - url: "https://i.insider.com/5ffca672d184b30018aae205?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "New, more diverse Congress to be sworn in as COVID rages, Trump administration nears end"
     excerpt: "House and Senate lawmakers are sworn in Sunday, the start of a new Congress tasked with working with the Biden administration and fighting COVID-19."
     publishedDateTime: 2021-01-03T14:00:00Z
@@ -206,22 +174,6 @@ related:
       - url: "https://thumbnails.texastribune.org/y8aIZkwc8LF-ZOnROWRDdjazpTg=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/deb211c35a380fc21d7189c4e3d8038b/Cruz%20and%20Trump%20REUTERS%202016%20TT.jpg"
         width: 1200
         height: 804
-        isCached: true
-  - title: "Michelle Obama Calls Donald Trump 'Infantile And Unpatriotic President' After Capitol Protest"
-    excerpt: "Michelle Obama released a statement after the Capitol protest and said the incident was a fulfillment of the wishes of an infantile and unpatriotic president."
-    publishedDateTime: 2021-01-08T01:12:00Z
-    webUrl: "https://www.ibtimes.com/michelle-obama-calls-donald-trump-infantile-unpatriotic-president-after-capitol-3116894"
-    ampWebUrl: "https://www.ibtimes.com/michelle-obama-calls-donald-trump-infantile-unpatriotic-president-after-capitol-3116894?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/michelle-obama-calls-donald-trump-infantile-unpatriotic-president-after-capitol-3116894?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 64
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/18/former-first-lady-michelle-obama-said-donald-trump.jpg"
-        width: 1024
-        height: 629
         isCached: true
   - title: "Trump, on Tape, Presses Ga. Official to 'Find' Him Votes"
     excerpt: "President Donald Trump is heard on tape pleading with Georgia’s election chief to overturn Joe Biden's win in the state, suggesting in a telephone call that the official “find” enough votes to hand Trump the victory."

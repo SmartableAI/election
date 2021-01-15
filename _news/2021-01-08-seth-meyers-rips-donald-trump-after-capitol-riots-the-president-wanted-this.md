@@ -47,22 +47,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "For some Christians, the Capitol riot doesn’t change the prophecy: Trump will be president"
-    excerpt: "As lawmakers prepared to impeach President Trump and Washington readied for President-elect Joe Biden’s inauguration, Cliff Dyrud wasn’t focused on man-made acts. He was listening for the words of prophets."
-    publishedDateTime: 2021-01-15T02:34:00Z
-    webUrl: "https://www.washingtonpost.com/religion/2021/01/14/prophets-apostles-christian-prophesy-trump-won-biden-capitol/"
-    ampWebUrl: "https://www.washingtonpost.com/religion/2021/01/14/prophets-apostles-christian-prophesy-trump-won-biden-capitol/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/2021/01/14/prophets-apostles-christian-prophesy-trump-won-biden-capitol/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 115
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZQVOFLSQFMI6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "YouTube Suspends Donald Trump's Channel For 7 Days Following Capitol Riots, Disables Comments"
     excerpt: "YouTube has suspended Donald Trump's channel for at least seven days and took down a video for violating its policies."
     publishedDateTime: 2021-01-13T07:58:00Z

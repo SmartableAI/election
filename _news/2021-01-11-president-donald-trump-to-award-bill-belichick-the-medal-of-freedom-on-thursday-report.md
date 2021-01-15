@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump to honor Belichick with Presidential Medal of Freedom"
-    excerpt: "President Donald Trump will present one of the nation’s highest civilian honors to Bill Belichick, the football coach of the New England Patriots and the only coach to win six Super Bowl titles"
-    publishedDateTime: 2021-01-11T06:22:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-to-honor-belichick-with-presidential-medal-of-freedom/2021/01/10/6f4d7c1c-53ab-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-honor-belichick-with-presidential-medal-of-freedom/2021/01/10/6f4d7c1c-53ab-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-honor-belichick-with-presidential-medal-of-freedom/2021/01/10/6f4d7c1c-53ab-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Reports: Donald Trump plans to give Patriots' Bill Belichick Medal of Freedom this week"
     excerpt: "According to reports on Sunday, President Donald Trump plans to award Patriots coach Bill Belichick the Presidential Medal of Freedom on Thursday."
     publishedDateTime: 2021-01-11T01:16:00Z
@@ -75,20 +59,6 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Donald Trump house hunts in a surprising place — which home will he pick?"
-    excerpt: "Which home in Palm Beach will the Trumps pick? Here are four homes for sale we’ll bet they’ll consider since they tick all the P boxes: posh, palatial, and presidential."
-    publishedDateTime: 2021-01-04T18:30:00Z
-    webUrl: "https://www.chicagotribune.com/real-estate/luxury-real-estate/sns-liststory-rdc-donald-trump-palm-beach-house-hunting-20210104-zhzyjuta6jh27dv47xvoeebebi-list.html"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 104
-    images:
-      - url: "https://www.chicagotribune.com/resizer/j78sicOE8zZ2qxbXI1iTabt-WMo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YFZRIGJ2L5CLZKHDQVX2SCVOSU.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Donald Trump plans to award Presidential Medal of Freedom to New England Patriots coach Bill Belichick, per reports"
     excerpt: "President Donald Trump plans to award New England Patriots coach Bill Belichick the Presidential Medal of Freedom on Thursday, according to multiple reports. A spokesperson for the Patriots did not respond to a request for comment."
     publishedDateTime: 2021-01-11T02:59:00Z
@@ -120,38 +90,6 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
-        isCached: true
-  - title: "Bill Belichick declines Presidential Medal of Freedom from Donald Trump"
-    excerpt: "Bill Belichick won’t be heading to the White House this week. Donald Trump wanted to award the Patriots coach the Presidential Medal of Freedom, but following the insurrection at the U.S. Capitol, Belichick has declined,"
-    publishedDateTime: 2021-01-11T23:16:00Z
-    webUrl: "https://www.al.com/sports/2021/01/bill-belichick-declines-presidential-medal-of-freedom-from-donald-trump.html"
-    ampWebUrl: "https://www.al.com/sports/2021/01/bill-belichick-declines-presidential-medal-of-freedom-from-donald-trump.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/sports/2021/01/bill-belichick-declines-presidential-medal-of-freedom-from-donald-trump.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SCVQTPTAOBCMDPE4DRNZEAMQSA.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "‘Tone deaf!’ Gary Player slammed by son for accepting Presidential Medal of Freedom from Donald Trump"
-    excerpt: "Donald Trump awarded the Presidential Medal of Freedom Thursday to golfers Gary Player, Annika Sorenstam and Babe Didrikson Zaharias (posthumously)."
-    publishedDateTime: 2021-01-08T19:27:00Z
-    webUrl: "https://www.nj.com/sports/2021/01/tone-deaf-gary-player-slammed-by-son-for-accepting-presidential-medal-of-freedom-from-donald-trump.html"
-    ampWebUrl: "https://www.nj.com/sports/2021/01/tone-deaf-gary-player-slammed-by-son-for-accepting-presidential-medal-of-freedom-from-donald-trump.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2021/01/tone-deaf-gary-player-slammed-by-son-for-accepting-presidential-medal-of-freedom-from-donald-trump.html?outputType=amp"
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 60
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MK4AQOA5P5FSBGBB2XDXCROHAM.jpg"
-        width: 3548
-        height: 2365
         isCached: true
 
 secured: "h4NUrDfQ/ZIajqLSzuFbgz8uz9noyQyyWxRjGd59b8/gwLxYt6tBnF2R9JTpE7qEKSZCbVnqDM0IHdq9YtP7imPCKwr1qcsummO4+nADYoiUe+9QQip+znD57MyeV/QL7UhcbLBaT6YaIh5RjjPonqqUxQTS/SMIhzlqs5aAqGGDcykWQXFTGXOZt/0qKXAxF3Y0v1Z+VAtd7ey6wRCfxEHNwXcw/IzZPQ1VEBdLmhj6U6BYL0nKIZ5Xu//3mt3fTR8P1hJZlPCFAuBgUdFKawOLFrlg9oqfZWkPLwOhnc5o1EleuoZl09RHREnnOK2oOnLjVrJKn5zH6sTHWx/tz/CPp64gYr1vCjCtAUk6ePw=;N4Od9S8xEaqOlvJBedwtOQ=="

@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Diminished Trump leaves a vacuum for 2024 hopefuls"
+    excerpt: "Potential 2024 presidential candidates have stepped into the spotlight in the last week, sensing a new opportunity to lead within the party."
+    publishedDateTime: 2021-01-15T09:35:00Z
+    webUrl: "https://www.politico.com/news/2021/01/15/donald-trump-vacuum-2024-presidential-candidates-459536"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/15/donald-trump-vacuum-2024-presidential-candidates-459536"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/15/donald-trump-vacuum-2024-presidential-candidates-459536"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/96/5e/8dcb123e4b3db6d412ef51dbe711/gettyimages-1290145039-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Live updates: House to vote on Trump impeachment, 25th amendment resolutions"
     excerpt: "Lawmakers are expected to take up the 25th Amendment measure Tuesday night and the impeachment resolution Wednesday morning."
     publishedDateTime: 2021-01-12T11:39:00Z

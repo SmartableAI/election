@@ -9,7 +9,7 @@ ampWebUrl: "https://www.texastribune.org/2021/01/09/donald-trump-texas-rio-grand
 cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/01/09/donald-trump-texas-rio-grande-valley/amp/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 804
     isCached: true
-
-related:
-  - title: "Watch live: President Donald Trump visits Alamo, Texas"
-    excerpt: "President Donald Trump flew to visit Alamo, Texas, on Tuesday. The small town of Alamo was named after the famed mission 240 miles north in San Antonio. Trump will deliver remarks near a border wall at 2 p."
-    publishedDateTime: 2021-01-12T14:03:00Z
-    webUrl: "https://www.chron.com/news/local/politics/article/Watch-Live-President-Donald-Trump-visits-Alamo-15864972.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/01/16/10/63/20483289/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "3pBJQAz85Yz7ZFDaZ126Xq+IOUYLjpDopQFdhz/pDbd+a0hJiD8vUlv+E3yKabNQdqq8JtWmgM7N9y7AKuth8+5VPJ9U4UjpUiexxGL6oJ6A9QLnB544GDMNOHuvmQIQ5k4XgNnwDD284u3KSxAiMPWnCLUJSdeTeP9/m09EyHb5JOfKcfr4yhg5bBama2g6kTSMdsTdxb1HTsJ653olSoVUxWDG0GewhAYbjZZCqCTMexavB0gkBuLWVTY4j+fw4izsTAQer3ZucGHWI67GXQM5GwBDUXOlc2W1hLvh708ijnsdtftUN1MVxrRWIa+6jE5Jxd7ToU2eWCb8UXJOjv9QAMhzPmgONrOUcIBnggo=;q1EqcRuth30qRKLHnmu3Eg=="
 ---

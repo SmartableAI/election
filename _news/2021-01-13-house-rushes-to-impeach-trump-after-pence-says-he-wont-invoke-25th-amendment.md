@@ -1607,6 +1607,20 @@ related:
         width: 800
         height: 564
         isCached: true
+  - title: "U.S. executes man with COVID-19, 12th under Trump administration"
+    excerpt: "The U.S. government on Thursday executed Corey Johnson, a convicted murderer, marking one of the final two federal executions planned under President Donald Trump's administration, after the Supreme Court rejected a plea to allow him to recover from COVID-19."
+    publishedDateTime: 2021-01-15T10:19:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-executions/u-s-executes-man-with-covid-19-12th-under-trump-administration-idUSKBN29J258?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547811272&r=LYNXMPEH0D1BB&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Wis. congressman unsure Trump to blame for riot"
     excerpt: "Wisconsin’s newest member of Congress says he doesn't know if President Donald Trump was to blame for inciting the riot at the U.S. Capitol and wants a full investigation to find out what motivated the mob."
     publishedDateTime: 2021-01-14T20:40:00Z

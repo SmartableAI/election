@@ -61,20 +61,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Thousands of National Guard members deployed in Washington ahead of Biden inauguration"
-    excerpt: "Thousands of National Guard's were deployed to Washington on January 12, ahead of the inauguration of Joe Biden in the wake of the Capitol riots."
-    publishedDateTime: 2021-01-13T15:04:00Z
-    webUrl: "https://www.usatoday.com/videos/news/2021/01/13/national-guard-members-deployed-washington-ahead-biden-inauguration/6651492002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 97
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b7a0dfb8-7b45-4236-9b07-5e254aed8b41_poster.jpg?quality=10"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "qek8xiA4AC3AEp6selFPvqqqTilhMh9k4raM00mdICbjZoHswiK5ks3dHJlXe+Fb/gM3L9M87uN032Ci0TzK67vU8hn5O+NGuxuSCQuv0glKU07Xez+YAdnEeidkJU36OTG21O94LecjcisSiKAR8RmGumGReqCp53JKH6Srri5acgtzSzvqvvGB68ILEF+sBjh4fizMuPYecabceIoNzqDrFzAQjfA7Vf4h752YcyCdqPWdmUKOz0NA06b0EmKvZNYsSf3vdlK12me56+8mnaAcKWzY4q6DpWiQX1okyQMJ9J3RzbJpvjVmHwHSQLLhHsYBIgrFEn3je1zBkQiFBDUM5bbJrthsihUjB2wyUhw=;3JQIQ2G4QMV/eCOSEUfLEA=="
 ---

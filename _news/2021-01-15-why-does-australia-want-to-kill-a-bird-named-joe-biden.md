@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Why Does Australia Want to Kill a Bird Named Joe (Biden)?"
-excerpt: "A racing pigeon who appeared to have traveled from Oregon to a backyard in Melbourne faces death. But there’s a twist."
-publishedDateTime: 2021-01-15T05:59:00Z
-originalUrl: "https://www.nytimes.com/2021/01/15/world/australia/racing-pigeon-joe-biden.html"
-webUrl: "https://www.nytimes.com/2021/01/15/world/australia/racing-pigeon-joe-biden.html"
-ampWebUrl: "https://www.nytimes.com/2021/01/15/world/australia/racing-pigeon-joe-biden.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/15/world/australia/racing-pigeon-joe-biden.amp.html"
+excerpt: "A racing pigeon that appeared to have traveled from Oregon to a backyard in Melbourne faces death. But there’s a twist."
+publishedDateTime: 2021-01-15T08:36:00Z
+originalUrl: "https://www.nytimes.com/2021/01/15/world/australia/joe-pigeon.html"
+webUrl: "https://www.nytimes.com/2021/01/15/world/australia/joe-pigeon.html"
+ampWebUrl: "https://www.nytimes.com/2021/01/15/world/australia/joe-pigeon.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/15/world/australia/joe-pigeon.amp.html"
 type: article
 quality: 135
 heat: -1
@@ -109,6 +109,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107021907-biden-trump-split-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden wrests control of Trump's spotlight and makes first big bet of presidency"
+    excerpt: "Joe Biden's crisis presidency effectively began Thursday evening, when he urged Americans to mobilize behind a $1.9 trillion plan to end the pandemic, save the economy and revive the weakened heartbeat of a nation.\n    \n"
+    publishedDateTime: 2021-01-15T05:48:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-qZeZCXNs3k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/joe-biden-donald-trump-spotlight-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/joe-biden-donald-trump-spotlight-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114192843-04-biden-speach-0114-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1344,6 +1360,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "'A call for unity': Biden lays out vast federal expansion of pandemic response"
+    excerpt: "The plan will essentially federalize the current patchwork pandemic response, including spending $20 billion to speed up vaccinations."
+    publishedDateTime: 2021-01-15T09:24:00Z
+    webUrl: "https://www.politico.com/news/2021/01/14/biden-federal-pandemic-response-expansion-459473"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/14/biden-federal-pandemic-response-expansion-459473"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/14/biden-federal-pandemic-response-expansion-459473"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 131
+    images:
+      - url: "https://static.politico.com/c2/7e/39e7ec2b4f3188cdf72a7dfa2c51/gettyimages-1295849036-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Senate rejects first GOP attempt to block Joe Biden's electors after day of chaos"
     excerpt: "Over 150 Republicans had been expected to object to results in numerous states that voted for Joe Biden, even though they've already been certified."
     publishedDateTime: 2021-01-07T06:29:00Z
@@ -1605,6 +1637,6 @@ related:
         height: 629
         isCached: true
 
-secured: "JRKbVw6dCASHu1c4b95gCV3Yav0/FSoMEK4zZ15acpp953Z2Ia1Eg5SJHgE7O5AWoQOYZKOeQOhKEwHjNNpY8eGIZhm1zzhmmwii2kEWRF2bBtYzlfofuGYM0NmyF49N36oVJ+HU1tBfIVOfEYSFJ1qy59YEzm1iob4DUOw+Oe6UfP3iYhWlBJ4rmCHDrptVDk7oB+FgxHDDS5tHXLQzPS2p/pSg0gAu9I4X1sOxZlYGuWOk/RcCC63WBnx4fKbe0jRMiq0d6oOlesZ4e+ewU9xreu/cXrtkdco8T7GWqRrRZWr3sl5HJKO6zMt5G2RwoYZoeufULX18mnzoYDr9z0o8BZu1VS0mBONzqT/W1DjQf9IWowSeMQzRaL4nDpFUbp0x9581MiNR9CE49rK+eFCIIVriGuG5qfUoiHySKDp6XqukbxBVsG90eiBKxSXtOOe4z+jAdxYlweHwd1Qxv5FEUC2v2Ll2KL9NgGi8uRpHSCIH2x5+8Bf1gZHAv2vv3ACoP9j9PBz8xTqycbBHvQ==;aFB5PWduvgoKiEBJNYrDyA=="
+secured: "V1oX7Shuv193FmyYEy8mEsXJTCq9xc8YXbYZW1vnkyALhqzqxal+vg8QB5GqvvfaY1D5AAop88VutbOzIn71cnD4OlSxl3bo2aUKvvuxmpP6TRUBCVFzNQO2kM4zMkeqNcdNmJhk96lKzXWTzR8iZpmpwh8uH6BILLHhP+YdbCH02izIk0lySUg7LmP0+mMD8hkrqRgmr2hCduifolVxsMb0LFhddC50ETI5ISM27FbnXI8fu836I+TpYS8BAxiOVpVtjH3kQkFQiqhPIfST77Zp3El/z4x6fB02tnSgXribE2VUtHje45gskquwxADlO7HPhXY5BRSe30XTeFEOewoapivt7PK0ABT2kEjU0/4=;lnMZimMMjQUQX+MKpD7j6w=="
 ---
 

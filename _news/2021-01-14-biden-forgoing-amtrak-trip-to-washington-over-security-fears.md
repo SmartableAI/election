@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-forgoing-amtrak-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-forgoing-amtrak-trip-washington-security-fears-75240422"
 type: article
 quality: 125
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547761954&r=LYNXMPEH0D0LH&w=800"
         width: 800
         height: 533
-        isCached: true
-  - title: "Thousands of National Guard members deployed in Washington ahead of Biden inauguration"
-    excerpt: "Thousands of National Guard's were deployed to Washington on January 12, ahead of the inauguration of Joe Biden in the wake of the Capitol riots."
-    publishedDateTime: 2021-01-13T15:04:00Z
-    webUrl: "https://www.usatoday.com/videos/news/2021/01/13/national-guard-members-deployed-washington-ahead-biden-inauguration/6651492002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 97
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b7a0dfb8-7b45-4236-9b07-5e254aed8b41_poster.jpg?quality=10"
-        width: 480
-        height: 270
         isCached: true
 
 secured: "W/vaRFaNGN3oGoJzJiqVrVfOGRWi+XGQ6J0VDkGb9e4dN/YYbJIl/OcmTLcOX2bPCzmCHfEEw9ss916nn1WHYXRg0SytrRP7R1H1KBqi6cNm0gtDxLGwTLfqA+Jj0r8qIpUeRzUCW4bnjuPIsOSamKE9SE5KY6qe7kL6Z3avXRcwgjGNvtFqpSJgzLJiDEGv74UrNI41I8xnDmqhDiOU7qRidhS9O4hJTB9kWU/nXbTSRUmhJlEhQsaUT9g57e7JLUbCusXCwYG0Aaxp0I9acmVjibh5IXn4Kj7GSxWfHGbrxh18HQP7bfPklnEzejhjPdJdTseoYYSqpiX/qaDeQ4UAr14rCZIILLeJp8xyTkq5IvcJXHPy1ooGroiinWg5OrRHhS0gd0i9Pem8KnqDn5LS22RweqWgncpQ6zkHmqB6B4tlsPGRxY7s2QTr3ypXmDoNxe0ja4+QM35uXF1SKzlJO8nLoVCNaIsxv6qzpsvajcevf8bVEh76UNSlRkMSadHjPOQVwOjMruA69fkfsA==;AHNjcllMXS5l/d3lwIlQaw=="
