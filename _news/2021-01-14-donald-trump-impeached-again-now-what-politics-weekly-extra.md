@@ -7,7 +7,7 @@ originalUrl: "https://www.theguardian.com/politics/audio/2021/jan/14/trump-impea
 webUrl: "https://www.theguardian.com/politics/audio/2021/jan/14/trump-impeached-again-now-what-politics-weekly-extra-podcast"
 type: article
 quality: 105
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/RAINBOW_LIST.jpg?w=977&h=675"
         width: 977
         height: 675
+        isCached: true
+  - title: "Most Americans Want Trump Gone From Politics, Poll Says"
+    excerpt: "A slim majority of Americans want to see Trump charged with the incitement of the mob that attacked the Capitol Building, which would bar him from holding public office if convict"
+    publishedDateTime: 2021-01-15T15:21:00Z
+    webUrl: "https://www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261"
+    ampWebUrl: "https://www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/us-president-donald-trump-owns-the-unfortunate-distinction.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "jfqqS+3VlCNDBH9KO+OftQ4JQd+fGcarkSYnOZIBFBWhMEIXhKinO5GuSe0hOVKQ7M0RsFTeuabbNwCDKcxvlxxNVeZe+VsLWTegHIWy58boXfwf3FOpDeVisiJLG+ogLIzP4eKKOW3jokwJkYmfklyoDwiIgZNqTFjNIthGSk8tTmu33F2w2X9Yh2o3odlzA+NXDYyxOyR4ffnj1JFcxex6aQqw9KyEJvQ4pru17Bks7/fWAaDKWiKUNZmmK6I8SJ+jE7Pyivmu9784PAmBED7iHC4sDwnP507y2FC8pfeNQcjjQzq0GhNXtBldyGfxqjrA4Tm4ad5FYHYHh94z2ZIyB6xEvUdVVhrEi3bLR3gJoaORMjsEB33ilXXZRVEWTlHf37T/HdAlAKQAg0LYanjhC9VPiVe2z4ignaqf8oidh3FVc8gBdRXx/r/s/RtikUwKBOyzo2dES+KCFswFVM5p3eGRVzrFeMcoy+lUwSlPrZEYpwOMkuWASZ7D24uyM5tXJ08F24pzVtgllEdG6w==;7oDZPrAy3FFHioEEwMCqGg=="

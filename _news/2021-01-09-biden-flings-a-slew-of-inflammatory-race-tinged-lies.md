@@ -122,6 +122,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Photos show White House being cleared out ahead of Biden inauguration"
+    excerpt: "Photos are emerging of Trump administration staffers moving items out of the White House complex -- including a bust of Abe Lincoln and a stuffed bird -- ahead of President-elect Joe Biden’s inauguration next week. "
+    publishedDateTime: 2021-01-15T15:01:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jgvXcqHeu8I/photos-show-white-house-being-cleared-out"
+    ampWebUrl: "https://www.foxnews.com/politics/photos-show-white-house-being-cleared-out.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/photos-show-white-house-being-cleared-out.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-zxjs75c-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Clyburn suggests 14th Amendment could bar Trump from holding office again"
     excerpt: "House Majority Whip James Clyburn, D-S.C., told Fox News Wednesday that President Trump should be legally prevented from holding elected office again as the House impeached him for an unprecedented second time. "
     publishedDateTime: 2021-01-13T23:10:41Z

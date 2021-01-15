@@ -463,6 +463,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to outline plan to administer Covid-19 vaccines to Americans Friday "
+    excerpt: "President-elect Joe Biden will outline his plan to administer Covid-19 vaccines to the US population on Friday at an event in Wilmington, Delaware, according to his transition team.\n    \n"
+    publishedDateTime: 2021-01-15T15:30:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4sHKSxJilfA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/biden-administering-vaccines-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/biden-administering-vaccines-plan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115053833-01-joe-biden-0114-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP congresswoman to no longer challenge Biden's win after US Capitol breach"
     excerpt: "GOP Rep. Cathy McMorris-Rodgers announced Wednesday evening she will reverse her position on challenging President-elect Joe Biden's victory after rioters forced a shutdown of the House and Senate chambers of the US Capitol.\n    \n"
     publishedDateTime: 2021-01-07T00:42:22Z
@@ -732,6 +748,22 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106231304-pelosi-house-11pm-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden builds out communications staff with chief photographer and deputy press secretary"
+    excerpt: "The incoming Biden administration appointed a dozen communications staffers on Friday, including deputy press secretary and chief photographer.\n    \n"
+    publishedDateTime: 2021-01-15T15:09:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d_VVDUPbVy8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/biden-communications-staff-announcement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/biden-communications-staff-announcement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114192843-04-biden-speach-0114-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

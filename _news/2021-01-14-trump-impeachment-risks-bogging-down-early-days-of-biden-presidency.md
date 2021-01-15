@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/14/trump-impeachment-bi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/14/trump-impeachment-biden-administration-senate-trial"
 type: article
 quality: 140
-heat: 1840
+heat: 1900
 published: true
 
 provider:
@@ -462,6 +462,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden to appoint David S. Cohen as deputy director of the CIA"
+    excerpt: "Cohen has served as No. 2 at the spy agency once before and was a principal architect of Obama-era sanctions against Iran and Russia."
+    publishedDateTime: 2021-01-15T16:04:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/biden-nominates-cohen-cia-director/2021/01/14/0ffcd78e-3566-11eb-8d38-6aea1adb3839_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-nominates-cohen-cia-director/2021/01/14/0ffcd78e-3566-11eb-8d38-6aea1adb3839_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-nominates-cohen-cia-director/2021/01/14/0ffcd78e-3566-11eb-8d38-6aea1adb3839_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BEI6FTEYKMI6JET2J6RGHDGRWA.jpg&w=1440"
+        width: 1440
+        height: 961
         isCached: true
   - title: "Congress certifies Joe Biden as president hours after storming of Capitol"
     excerpt: "Trump loyalists objected to certification of election result before joint session interrupted when mob breaches security"
@@ -1088,6 +1104,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Historians worry a Trump library will be an airbrushed 'MAGA' tribute to a twice-impeached president"
+    excerpt: "It's not hard to image Trump's presidential library will burnish his tarnished legacy after he leaves office. Don't expect that to go smoothly."
+    publishedDateTime: 2021-01-15T16:03:00Z
+    webUrl: "https://www.businessinsider.com/trump-presidential-library-museum-location-national-archives-records-documents-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
+    images:
+      - url: "https://i.insider.com/6000cf5aa81ea100188db5a2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump’s Senate impeachment trial could begin on day of Joe Biden’s inauguration"
     excerpt: "The impeachment trial timeline and schedule are largely set by Senate procedures and will start as soon as the House delivers the article of impeachment."
     publishedDateTime: 2021-01-14T20:11:00Z
@@ -1310,6 +1340,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "400 members of Washington state National Guard called to D.C. to boost security during President-elect Joe Biden’s inauguration"
+    excerpt: "In the wake of the insurgence at the U.S. Capitol during certification of the Electoral College votes last week and threats of further violence, nearly 400 Washington National Guard soldiers and airmen are being sent to D."
+    publishedDateTime: 2021-01-15T15:05:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/400-members-of-washington-state-national-guard-called-to-d-c-to-boost-security-during-president-elect-joe-bidens-inauguration/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/400-members-of-washington-state-national-guard-called-to-d-c-to-boost-security-during-president-elect-joe-bidens-inauguration/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/400-members-of-washington-state-national-guard-called-to-d-c-to-boost-security-during-president-elect-joe-bidens-inauguration/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 27
 
 secured: "KGUwoDVu/LrWTZC5Bu8L1IM0N4YXwghPI73voqL1l5cWQspYJpRmF0RtrxtnJEnqjX5Wlo4E6yjpP8T/WGBCRFAKHJWJByBtnarKdpRHlz22E+Mhbp361p779RlSCUevYPtZQVzc36CHz3aEH/eqVkbl+LLuGDNXINRsx2/v5GnvYPFLHnnrLiZDP7/ibBYx/gWCyFTmQWUwEw8dyYQfpNj1+W++CScWR5XTKGzMoCrxNb4ilz6DBbR4igTfxIZB+SnKOn0Kn21VbmkTzVHyksbqwj852AmUZMzCKTEg02mQM5rf2xMpihAPoP/G0CdyvBfBzVhnjhhxGYSHxw1chdl9bnM6E2IKV2zCbMX1OUw=;u/zuft0zY8QqdHzNocMumA=="
 ---

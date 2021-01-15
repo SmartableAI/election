@@ -45,6 +45,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Power Up: Trump-Pence relationship may set lowest bar yet"
+    excerpt: "The relationship between President Trump and Vice President Pence would have hit the history books as one of the tightest bonds between the highest-ranking members of American government. Until the events of Jan."
+    publishedDateTime: 2021-01-15T17:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RWCCSACWYII6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden aims for new course on trade, breaking with Trump and Democratic predecessors"
     excerpt: "Biden will confront the same question that has bedeviled U.S. policymakers for three decades: How can the U.S. shape for maximum benefit its overseas commercial engagements?"
     publishedDateTime: 2021-01-14T18:53:00Z
@@ -732,6 +748,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFO4QXWDXMI6VCIINCRLT2XJ4A.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Sarah Cooper: I'm moving on from lip-syncing Trump"
+    excerpt: "The comedian talks with \"Sunday Morning\" about life after becoming a social media phenomenon lampooning the president."
+    publishedDateTime: 2021-01-15T16:44:00Z
+    webUrl: "https://www.cbsnews.com/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/15/01c3b17d-14d5-41de-8659-67633b1d8911/thumbnail/1200x630/2e851058003a646ab459885bf00088f4/sarah-cooper-interview-1280.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Why Trump's response to Capitol siege evokes memories of Charlottesville"
     excerpt: "Trump groups violently stormed the U.S. Capitol, the surreal images took many back to a dark chapter when white supremacists openly descended upon Charlottesville."
@@ -1668,6 +1700,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Eyes on Pelosi as Trump impeachment trial timing up in the air"
+    excerpt: "The timing of President Donald Trump's impeachment trial could come into clearer focus on Friday when House Speaker Nancy Pelosi is expected to take questions about her next steps at a morning news conference at the U."
+    publishedDateTime: 2021-01-15T16:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29K0NV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547913417&r=LYNXMPEH0E0CB&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "U.S. labor federation urges Trump removal, calling him 'danger' to nation"
     excerpt: "The board of a labor federation of more than 50 unions representing 12.5 million workers called for U.S. President Donald Trump's resignation or removal from office."
     publishedDateTime: 2021-01-08T16:52:00Z
@@ -2233,6 +2279,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Meet Nikema Williams, The Democrat Seeking Trump Capitol Ban"
+    excerpt: "Williams is filling the seat vacated by the late John Lewis She’s a long-time Democratic and LGBTQ activist Her resolution follows a push by a Georgia Republican to impeach Joe Biden A freshman Georgia Democrat tabled a resolution seeking to ban President Trump from the grounds of the Capitol building in Washington D."
+    publishedDateTime: 2021-01-15T12:26:00Z
+    webUrl: "https://www.ibtimes.com/meet-nikema-williams-democrat-seeking-trump-capitol-ban-3123134"
+    ampWebUrl: "https://www.ibtimes.com/meet-nikema-williams-democrat-seeking-trump-capitol-ban-3123134?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/meet-nikema-williams-democrat-seeking-trump-capitol-ban-3123134?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/nikema-williams.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "WWE Legend Wants Donald Trump Out Of Hall Of Fame Following Capitol Coup"
     excerpt: "Mick Foley calls on the removal of Donald Trump from the Hall of Fame Vince McMahon has yet to respond to Foley and the U.S. Capitol riot Foley tells Trump to own up to the Capitol coup WWE legend Mick Foley decried the riot that took place at the Capitol Building in Washington D."
     publishedDateTime: 2021-01-07T06:35:00Z
@@ -2360,6 +2422,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2021-01-14/trump-impeached-after-capitol-riot-in-historic-second-charge"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-14/trump-impeached-after-capitol-riot-in-historic-second-charge?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-14/trump-impeached-after-capitol-riot-in-historic-second-charge?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Canada's Trudeau Embraces Biden in Bid to Turn Page on Trump Era"
+    excerpt: "Canadian Prime Minister Justin Trudeau's swift embrace of U.S. president-elect Joe Biden illustrates the degree to which Canada, one of America's closest allies, is looking forward to turning the page on the Donald Trump era."
+    publishedDateTime: 2021-01-15T16:46:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-01-15/canadas-trudeau-embraces-biden-in-bid-to-turn-page-on-trump-era"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-15/canadas-trudeau-embraces-biden-in-bid-to-turn-page-on-trump-era?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-15/canadas-trudeau-embraces-biden-in-bid-to-turn-page-on-trump-era?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
@@ -2840,6 +2913,6 @@ related:
         height: 392
         isCached: true
 
-secured: "UJKWSd3XsMA29Rijfu50EqEuPtFEdKAmmiq8pTHUYvHQUzyk1MhUjE+Vo3sOcyHSvYsiuPVbKkYBiA375WrzZ/cxKdFQsQISp3fJEofGeHCgmiDGgMsEaGPek8gj41f/Gd8BUYWPwS7WgeTXFxeGUkkJEqIFwAr1HjltzLX0uwQyJyNmBd6L/02bJIrVOa0AM+vy2TDl7OCKCvOBnKIIsiog8Apctj032EkMQXAXIX7Bqy78DOC2Plm9JsOEYlSUhynwr6czaSYIrCCIjf50jqVyXb0ZYhha0EwqYRj+JYoLaf+rqlzYai+dUwEyEmiX/E/4/ZAX7uAcA5KsM1PJxWKy1y7SVD5hdNeBpXi+1JY=;RIkqwvkD2Og9RrxgcbP5Jw=="
+secured: "iXb/ajY7bxE2YO4j+puX2gh7dzPU+Rtx+6PzobQCkEqAcM9a/vJFPv34USWuq2Bbw7E8yBX2MI7MoV8J1w1gamZSpxWFe+nph6CEPc1XoaCYYoxNdR2t8XeA/G2czx9cUw30LBQLYe9sGqu+OtGiyqsBI4P4r0fHBbRLMrWeyLzer5XVi/k3O9rtMg8Qh2z4IM4zRjUtQtbT7spMM21AY3CMjvJ0tJynymQELQ+r/n6C8UHLWzVfjBd7+KBDWy6+GYXcunZ+DUauf31aoiEIbTNRxfx5VmJMNJc3KtwkQmBRxfoCY3Oc8vgUoqEX7S6nsIV47IQxZtFlwQ8QWluASkQLzMT7LcZa0AyLy846rxTrR0HR7K9z8BQkoMbi0ZjHqWv73YoszcdqtBjZeHzRqpWJvk2LB/B9e4YbSzhxNn95tjZBejlCr+uZ3ArMcdEUQdkOoJ0ZLoe/rro+z7pXVbpye/KZBarLMIT/zafALK380euS2kguQHiM8dduigIsFmBhoH2nTd08BiYMf/4VYg==;I9OMrXc5Z6Ic5hy9UFAbHw=="
 ---
 

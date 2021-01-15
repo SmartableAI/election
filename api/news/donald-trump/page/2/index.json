@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-11-trumps-search-for-online-outlet-just-got-tougher-parler-has-gone-dark.md",
+      "title": "Trump's search for online outlet just got tougher: Parler has gone dark",
+      "excerpt": "Site popular with far-right went down, at least for now, after it was yanked by Google, Apple and Amazon in wake of the siege of gthe Capitol.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/parler-down-aws-web-hosting-trump/",
+      "originalUrl": "https://www.cbsnews.com/news/parler-down-aws-web-hosting-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/11/b27e4e69-acf8-4d8e-8e6b-445025ba0a4f/thumbnail/1200x630/3995c5476ca7ad949ef9c36c8489aaf5/gettyimages-1230529588.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/parler-down-aws-web-hosting-trump/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/parler-down-aws-web-hosting-trump/",
+      "publishedDateTime": "2021-01-11T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-trump-golf-club-no-longer-the-host-of-future-pga-championship-amid-us-capitol-violence-fallout.md",
       "title": "Trump golf club no longer the host of future PGA Championship amid US Capitol violence fallout",
       "excerpt": "PGA Championship will no longer be held at Trump Bedminster in New Jersey, PGA of America announced Sunday night as fury at President Trump over the U.S. Capitol riot grows.",
@@ -1502,58 +1554,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-the-cybersecurity-202-the-trump-administration-formally-says-russia-is-likely-behind-solarwinds-hack-culprit-will-trump.md",
-      "title": "The Cybersecurity 202: The Trump administration formally says Russia is likely behind SolarWinds hack culprit. Will Trump?",
-      "excerpt": "The Trump administration formally accused Russia of “likely” being behind the most devastating hack of U.S. government agencies in years. The statement, made jointly by four agencies in charge of intelligence and cybersecurity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/01/06/cybersecurity-202-trump-administration-formally-says-russia-is-likely-solarwinds-hack-culprit-will-trump/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/01/06/cybersecurity-202-trump-administration-formally-says-russia-is-likely-solarwinds-hack-culprit-will-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WHRXLUCPBMI6XIPV7WXSRT6KSA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/01/06/cybersecurity-202-trump-administration-formally-says-russia-is-likely-solarwinds-hack-culprit-will-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/06/cybersecurity-202-trump-administration-formally-says-russia-is-likely-solarwinds-hack-culprit-will-trump/?outputType=amp",
-      "publishedDateTime": "2021-01-06T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

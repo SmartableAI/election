@@ -2,6 +2,227 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-11-melania-trump-disappointed-and-disheartened-over-capitol-attack-nation-must-heal-in-a-civil-manner.md",
+      "title": "Melania Trump ‘disappointed and disheartened’ over Capitol attack: ‘Nation must heal in a civil manner'",
+      "excerpt": "The deadly riots unfolded on Wednesday after a rally to support President Trump descended into a mob that stormed the Capitol during the certification of the Electoral College vote.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FvK_YCPPbTA/melania-trump-disheartened-capitol-attack-nation-must-heal-civil-manner",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FvK_YCPPbTA/melania-trump-disheartened-capitol-attack-nation-must-heal-civil-manner",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e56d820d-efe3-4b7e-8ffb-0e2cf480f0d1/3b7121e6-427b-4dbd-89b9-9bcaa499ee04/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/melania-trump-disheartened-capitol-attack-nation-must-heal-civil-manner.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-disheartened-capitol-attack-nation-must-heal-civil-manner.amp",
+      "publishedDateTime": "2021-01-11T05:12:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-mcgovern-im-concerned-hell-do-something-crazy-capitol-mob-fallout-trump-to-give-belichick-medal-of-freedom.md",
+      "title": "MCGOVERN: I’m concerned ‘he’ll DO SOMETHING CRAZY’ — CAPITOL MOB FALLOUT — TRUMP to give BELICHICK Medal of Freedom",
+      "excerpt": "Rep. Jim McGovern, chair of the House Rules Committee, will have a key role when the House begins impeachment proceedings against President Donald Trump, which will likely happen this week. I spoke with McGovern on Sunday about his experience when the mob stormed the Capitol last week,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/massachusetts-playbook/2021/01/11/mcgovern-gop-has-to-step-up-capitol-mob-fallout-trump-to-give-belichick-medal-of-freedom-491351",
+      "originalUrl": "https://www.politico.com/newsletters/massachusetts-playbook/2021/01/11/mcgovern-gop-has-to-step-up-capitol-mob-fallout-trump-to-give-belichick-medal-of-freedom-491351",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+          "width": 1120,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-trumps-search-for-online-outlet-just-got-tougher-parler-has-gone-dark.md",
+      "title": "Trump's search for online outlet just got tougher: Parler has gone dark",
+      "excerpt": "Site popular with far-right went down, at least for now, after it was yanked by Google, Apple and Amazon in wake of the siege of gthe Capitol.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/parler-down-aws-web-hosting-trump/",
+      "originalUrl": "https://www.cbsnews.com/news/parler-down-aws-web-hosting-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/11/b27e4e69-acf8-4d8e-8e6b-445025ba0a4f/thumbnail/1200x630/3995c5476ca7ad949ef9c36c8489aaf5/gettyimages-1230529588.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/parler-down-aws-web-hosting-trump/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/parler-down-aws-web-hosting-trump/",
+      "publishedDateTime": "2021-01-11T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-biden-announces-william-burns-for-cia-director.md",
+      "title": "Biden announces William Burns for CIA director",
+      "excerpt": "President-elect Joe Biden announced Ambassador William Burns as his nominee for director of the CIA on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z7AdeLJYzGc/biden-william-burns-cia-director",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z7AdeLJYzGc/biden-william-burns-cia-director",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011418120691-e1610366107225.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-william-burns-cia-director.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-william-burns-cia-director.amp",
+      "publishedDateTime": "2021-01-11T03:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-right-back-to-where-we-were-last-year-dems-seek-trump-impeachment.md",
       "title": "Right back to where we were last year: Dems seek Trump impeachment",
       "excerpt": "",
@@ -545,6 +766,63 @@
       ]
     },
     {
+      "path": "_news/2021-01-10-kamala-harris-gains-prominent-new-role-thanks-to-democrats-senate-majority.md",
+      "title": "Kamala Harris gains prominent new role thanks to Democrats' Senate majority",
+      "excerpt": "Kamala Harris’s vice presidential portfolio was nebulous before last week. But thanks to Democrats’ upset victories in two Georgia Senate run-offs, Harris has unexpectedly earned a new title: Senate tie breaker.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/01/10/kamala-harris-democrat-senate-majority-456910",
+      "originalUrl": "https://www.politico.com/news/2021/01/10/kamala-harris-democrat-senate-majority-456910",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/b5/0a/a4786468485394b0c4c00fa489a5/210109-kamala-harris-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/10/kamala-harris-democrat-senate-majority-456910",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/10/kamala-harris-democrat-senate-majority-456910",
+      "publishedDateTime": "2021-01-10T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen.md",
       "title": "Roy Blunt balks at attempt to impeach Trump again: ‘Not going to happen’",
       "excerpt": "Roy Blunt, R-Mo., Friday balked at the idea of a second impeachment of President Trump.",
@@ -721,7 +999,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2320,
+      "heat": 2360,
       "tags": null,
       "images": [
         {
@@ -892,7 +1170,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 335,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -1093,274 +1371,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow.md",
-      "title": "Theresa May too eager to pay homage to Donald Trump, says John Bercow",
-      "excerpt": "PM’s ‘almost breathless’ quest to develop ties with US president",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow",
-      "originalUrl": "https://www.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/9ae50eeed19c88f00e8cfa0570b951d2529a8729/0_0_1562_937/master/1562.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=736cf1d696beff721b60f1b1dddfd7d7",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow",
-      "publishedDateTime": "2021-01-09T11:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-twitter-confirms-it-halted-hang-mike-pence-as-a-trending-topic.md",
-      "title": "Twitter Confirms It Halted 'Hang Mike Pence' as a Trending Topic",
-      "excerpt": "The topic trended briefly, with many people quoting Trump supporters who invaded the Capitol Wednesday chanting the phrase, as a noose awaited outside.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/twitter-stops-hang-mike-pence-trending-1560253",
-      "originalUrl": "https://www.newsweek.com/twitter-stops-hang-mike-pence-trending-1560253",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1702324/twitter-suspended-trump-trending-topic-pence.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/twitter-stops-hang-mike-pence-trending-1560253?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/twitter-stops-hang-mike-pence-trending-1560253?amp=1",
-      "publishedDateTime": "2021-01-09T11:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-teamtrump-twitter-account-suspended-in-social-media-crackdown.md",
-      "title": "TeamTrump Twitter account suspended in social media crackdown",
-      "excerpt": "Twitter on Friday suspended Team Trump's account on the platform not long after it banned President Trump's account.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/M07S2BAyaPo/team-trump-twitter-account-suspended",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/M07S2BAyaPo/team-trump-twitter-account-suspended",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Capture-7.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/team-trump-twitter-account-suspended.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/team-trump-twitter-account-suspended.amp",
-      "publishedDateTime": "2021-01-09T09:23:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-after-trump-twitter-ban-cbp-chief-says-conservatives-are-constantly-being-censored-by-big-tech.md",
-      "title": "After Trump Twitter ban, CBP chief says conservatives are 'constantly being censored' by Big Tech",
-      "excerpt": "The head of Customs and Border Protection (CBP) said on Saturday that conservatives and Trump administration officials are \"constantly being censored\" -- a day after President Trump was permanently suspended from Twitter. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tSInzzeuWRE/trump-twitter-ban-cbp-chief-tech",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tSInzzeuWRE/trump-twitter-ban-cbp-chief-tech",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/886d202e-b4ba-4da6-bcc1-bda7cfd9a2a4/f4729944-945f-4a6d-b3c0-79a7da3fa698/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-twitter-ban-cbp-chief-tech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-twitter-ban-cbp-chief-tech.amp",
-      "publishedDateTime": "2021-01-09T08:55:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-former-goldman-sachs-ceo-lloyd-blankfein-slams-wall-street-traders-as-trump-enablers.md",
-      "title": "Former Goldman Sachs CEO Lloyd Blankfein slams Wall Street traders as Trump enablers",
-      "excerpt": "Lloyd Blankfein said Wall Street put up with Trump because of what he could deliver, which was mainly lower corporate taxes and fewer regulations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ex-goldman-ceo-lloyd-blankfein-wall-street-traders-enabled-trump-2021-1",
-      "originalUrl": "https://www.businessinsider.com/ex-goldman-ceo-lloyd-blankfein-wall-street-traders-enabled-trump-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ff9c1c6d184b30018aadee7?width=1200&format=jpeg",
-          "width": 799,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ex-goldman-ceo-lloyd-blankfein-wall-street-traders-enabled-trump-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ex-goldman-ceo-lloyd-blankfein-wall-street-traders-enabled-trump-2021-1?amp",
-      "publishedDateTime": "2021-01-09T08:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

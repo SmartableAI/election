@@ -96,6 +96,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden announces Anita Dunn as senior adviser, TJ Ducklo as deputy press secretary in additions to WH staff"
+    excerpt: "Former Obama White House communications director and senior adviser for President-elect Joe Biden’s 2020 campaign Anita Dunn is joining the White House as a senior advisor to the president."
+    publishedDateTime: 2021-01-15T16:21:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k4GG3flFR1k/biden-white-house-anita-dunn-senior-adviser-tj-ducklo-deputy-press-secretary"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-anita-dunn-senior-adviser-tj-ducklo-deputy-press-secretary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-anita-dunn-senior-adviser-tj-ducklo-deputy-press-secretary.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden Chooses Veteran Diplomat Burns as CIA Director"
     excerpt: "WASHINGTON (AP)  President-elect Joe Biden announced Monday he has chosen veteran diplomat William Burns to be his CIA director. A former ambassador"
     publishedDateTime: 2021-01-11T14:06:00Z

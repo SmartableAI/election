@@ -142,6 +142,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Tried to End Federal Arts Funding. Instead, It Grew."
+    excerpt: "President Trump’s proposed federal budget eliminated funding for the National Endowment for the Arts. But the agency survived, largely by relying on bipartisan support in Congress."
+    publishedDateTime: 2021-01-15T15:07:00Z
+    webUrl: "https://www.nytimes.com/2021/01/15/arts/trump-arts-nea-funding.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/15/arts/trump-arts-nea-funding.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/15/arts/trump-arts-nea-funding.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/13/arts/13NEA3/13NEA3-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "9hN1bf5vH/D0gjxIni68JmHWbeiBuFKsvOKsUaAPiwetRocAa8gKzx/TgoC5c3PQch4C6UBVZdfpDnDXrRAkU3bWUDeVJRlaYDihktxUZHkyXIjFVq7PGnY2wNrwYwAZJuv2IRWAIvkrMfYXFzCNAkGFyval1ozsm7qrPYqiO/VVprLMSIff8R/doxe5BJCcgluxpqpoJv9MrrwZ9cJEj4obbSxkFzIcpRZICVwn9UiHTYk4X2wHh6NOnjwpCDYhzSWbkAzkyYkp35oGvSxxe3fsOB2DJNXyph0OmqMyR10Shu/2b5+m/DbNTo3Na5xZcL139aDXFb8/kCHwidsHsq5KddaUIHZLCpLS1zmjE5SAqp1JGy6g7U+msOkfA5sFmT8nQ+oUNnHNl4mg1SQUgqruwf115uYU1QU8xuK3zygoIzC/MYaD2lfzBJO+0XPdSyFZ7d3SdUelHZwjSGy4jGZacDbJjNxyTsK2i2XBLpibxy1WEo0brBrjEJ6vTV4q+Oy3zb/FlwpcXIUVEPkcEA==;hibSNmx05Vwv43m83KmNDQ=="
 ---

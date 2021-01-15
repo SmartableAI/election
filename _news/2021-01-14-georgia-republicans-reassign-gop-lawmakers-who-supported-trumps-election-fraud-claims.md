@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/georgia-republicans-elec
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/georgia-republicans-election-fraud-claims-reassigned/index.html"
 type: article
 quality: 182
-heat: 362
+heat: 382
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
       - url: "https://static.politico.com/b7/50/9c26a6e4454cad68e55185d8957a/180916-ocasio-cortez-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Is It Curtains for Donald Trump?"
+    excerpt: "He’s about to metamorphose from world’s most powerful human to financially and legally challenged pariah. His only ally? The mob."
+    publishedDateTime: 2021-01-15T16:45:00Z
+    webUrl: "https://www.thenation.com/article/politics/trump-impeachment-insurrection-congress/"
+    ampWebUrl: "https://www.thenation.com/article/politics/trump-impeachment-insurrection-congress/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/trump-impeachment-insurrection-congress/tnamp/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 85
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2021/01/SashaTrumpPalestine-scaled.jpg"
+        width: 2560
+        height: 1755
         isCached: true
 
 secured: "SN5sfM+3eO+76rTuFrk2oEWeLe5fu6CQ8TK8M6Tnmn4R3JSvoLHnuM2JfTPKpT3/74ZK4NxK7bSJZxptretUMfS+PrDwm+Uitql8H9gcYzpT15vNAp05RIoPCoeDoXfryQ8dRK47ZLNmCmXzCzZ5sWX9hVASL1BS2iMx1cgT6zBhZSdJah+Wt7cum4GK98eWNFgaYz44qZxaCsbX9KNaFK9sDAvl2kw7wqr5x/HxrykqsbUdbvqSuCLPfjeO5ikBYCh8dGLgAP7UzRgjDX8ju0sl7iIoVDophj0Wkym7poe6MKq1ZnJnXyb2SRFphIQsc7To9jv5kzB9CuWPD/7g73XJkTtdjsKmSouUbRVIIwE=;UrjO4trMDK1HQoo2QaBsRQ=="

@@ -2,6 +2,222 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-12-27-908-coalition-of-bipartisan-bicameral-lawmakers-tell-trump-to-sign-relief-package-or-veto-it-immediately.md",
+      "title": "'908 Coalition' of bipartisan, bicameral lawmakers tell Trump to 'sign relief package or veto it immediately'",
+      "excerpt": "A group of bipartisan and bicameral lawmakers, dubbing themselves the “908 Coalition,” signed a public letter on Sunday, urging President Donald Trump to sign a much-needed COVID-19 emergency relief package or “veto it immediately.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZNoC8azubcE/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZNoC8azubcE/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20361775825326.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/908-coalition-bipartisan-bicameral-lawmakers-trump-sign-relief-package-veto.amp",
+      "publishedDateTime": "2020-12-27T15:56:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election.md",
+      "title": "Geraldo Rivera: Trump acting like 'entitled frat boy' since losing election",
+      "excerpt": "Fox News pundit Geraldo Rivera slammed President Trump, saying he has been acting like an \"entitled frat boy\" since losing a \"bitterly contested el",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/media/531750-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election",
+      "originalUrl": "https://thehill.com/homenews/media/531750-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/blogs/geraldotrump_081016getty.jpg",
+          "width": 645,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/media/531750-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/531750-geraldo-rivera-trump-acting-like-entitled-frat-boy-since-losing-election?amp",
+      "publishedDateTime": "2020-12-27T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-28-i-think-i-had-some-effect-cindy-mccain-pleased-with-joe-bidens-election-victory-looks-ahead.md",
+      "title": "'I think I had some effect': Cindy McCain pleased with Joe Biden's election victory, looks ahead",
+      "excerpt": "Cindy McCain played a big role in Joe Biden's narrow win in Arizona. Now she's trying to get Republicans named to his incoming administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/?soc_src=social-sh&soc_trk=tw&tsrc=twtr",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/12/27/cindy-mccain-pleased-joe-bidens-win/4052794001/?soc_src=social-sh&soc_trk=tw&tsrc=twtr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/23/PPHX/3feaa328-d9d2-4409-8443-7cf3424528d6-Cindy_McCain_2.jpg?auto=webp&crop=3399,1912,x1,y524&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4052794001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4052794001",
+      "publishedDateTime": "2020-12-27T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-27-ilhan-omar-slams-trump-for-disgraceful-pardons-of-blackwater-guards.md",
+      "title": "Ilhan Omar slams Trump for 'disgraceful' pardons of Blackwater guards",
+      "excerpt": "President Trump’s pardon of four Blackwater guards convicted in the killing of 14 Iraqi civilians was \"disgraceful,\" Rep. Ilhan Omar, D-Minn., asserted Saturday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/q0YODziVo1Q/ilhan-omar-slams-trump-for-disgraceful-pardons-of-blackwater-guards",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/q0YODziVo1Q/ilhan-omar-slams-trump-for-disgraceful-pardons-of-blackwater-guards",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b45d6986-056f-4590-a12b-c4e41d83ca66/02deafa1-9ac6-49ee-98ed-11f9426e817c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ilhan-omar-slams-trump-for-disgraceful-pardons-of-blackwater-guards.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-slams-trump-for-disgraceful-pardons-of-blackwater-guards.amp",
+      "publishedDateTime": "2020-12-27T01:41:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-27-trump-is-threatening-iran-and-biden-says-the-pentagon-is-stonewalling-him-on-many-things-with-less-than-a-month-until-his-inauguration.md",
       "title": "Trump is threatening Iran, and Biden says the Pentagon is stonewalling him on 'many things' with less than a month until his inauguration",
       "excerpt": "Lame-duck presidents typically wouldn't dream of threatening war in their final days. But Trump is anything but typical.",
@@ -1143,218 +1359,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-iran-foreign-minister-dismisses-trumps-tweet-that-tehran-behind-attack-on-us-embassy-in-baghdad.md",
-      "title": "Iran foreign minister dismisses Trump's tweet that Tehran behind attack on U.S. Embassy in Baghdad",
-      "excerpt": "Iran’s foreign minister on Thursday dismissed U.S. President Donald Trump’s allegations that Iran was behind the recent rocket attack on the U.S. Embassy in Baghdad.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/iran-usa-zarif-int-idUSKBN28Y0JA",
-      "originalUrl": "https://www.reuters.com/article/iran-usa-zarif-int-idUSKBN28Y0JA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201224&t=2&i=1545642257&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBN0A1",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28Y0JA",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Y0JA",
-      "publishedDateTime": "2020-12-24T03:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-trump-issues-stern-warning-to-iran-after-rocket-attack-on-us-embassy-in-baghdad.md",
-      "title": "Trump issues stern warning to Iran after rocket attack on US Embassy in Baghdad",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E5zqiMcWaoc/trump-issues-stern-warning-to-iran-after-rocket-attack-on-us-embassy-in-baghdad",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E5zqiMcWaoc/trump-issues-stern-warning-to-iran-after-rocket-attack-on-us-embassy-in-baghdad",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-issues-stern-warning-to-iran-after-rocket-attack-on-us-embassy-in-baghdad.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-issues-stern-warning-to-iran-after-rocket-attack-on-us-embassy-in-baghdad.amp",
-      "publishedDateTime": "2020-12-24T02:51:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-exclusive-as-trump-leaves-office-50-of-americans-see-him-as-a-failed-president.md",
-      "title": "Exclusive: As Trump leaves office, 50% of Americans see him as a 'failed' president",
-      "excerpt": "Trump hasn't succeeded in overturning the election results but he has persuaded a third of Americans that Biden wasn't legitimately elected",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/24/donald-trump-failed-president-50-usa-today-poll-say/3926190001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/24/donald-trump-failed-president-50-usa-today-poll-say/3926190001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e0873822-4b69-42e9-b96d-431644856090-AP_APTOPIX_Election_2020_Biden.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3926190001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3926190001",
-      "publishedDateTime": "2020-12-24T01:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-24-were-going-to-save-lives-aid-groups-look-to-end-of-trumps-global-gag-rule.md",
-      "title": "'We're going to save lives': aid groups look to end of Trump's 'global gag rule'",
-      "excerpt": "Joe Biden’s election as US president raises reproductive funding hopes – but some caution that reversing rule’s impact will not be quick",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/global-development/2020/dec/24/were-going-to-save-lives-aid-groups-look-to-end-of-trumps-global-gag-rule",
-      "originalUrl": "https://www.theguardian.com/global-development/2020/dec/24/were-going-to-save-lives-aid-groups-look-to-end-of-trumps-global-gag-rule",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7aa3102b9c27418e25e7d050f7935df38c88f1d8/0_208_5310_3186/master/5310.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f3b025b0c10b1e6aadf9f1c938bde207",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/global-development/2020/dec/24/were-going-to-save-lives-aid-groups-look-to-end-of-trumps-global-gag-rule",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2020/dec/24/were-going-to-save-lives-aid-groups-look-to-end-of-trumps-global-gag-rule",
-      "publishedDateTime": "2020-12-23T22:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

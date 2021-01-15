@@ -2,6 +2,222 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-13-mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment.md",
+      "title": "McConnell says he has 'not made a final decision' on how he will vote on Trump impeachment",
+      "excerpt": "Senate Majority Leader Mitch McConnell told Republican colleagues Wednesday that he has “not made a final decision” on how he will vote on impeachment, despite signaling that he supported House Democrats’ move to initiate impeachment proceedings against President Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2JouXSKxUK8/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2JouXSKxUK8/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment.amp",
+      "publishedDateTime": "2021-01-13T12:35:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-trump-would-have-standing-to-challenge-his-impeachment-trial-turley.md",
+      "title": "Trump 'would have standing to challenge' his impeachment trial: Turley",
+      "excerpt": "George Washington University law professor Jonathan Turley told “America’s Newsroom” on Wednesday that President Trump “would have standing to challenge” his impeachment trial potentially taking place after he is no longer in office “and the court could rule on it.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kSTdzGFBWVY/trump-standing-challenge-impeachment-trial-turley",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kSTdzGFBWVY/trump-standing-challenge-impeachment-trial-turley",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-standing-challenge-impeachment-trial-turley.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-standing-challenge-impeachment-trial-turley.amp",
+      "publishedDateTime": "2021-01-13T12:19:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-live-impeachment-updates-gop-house-leader-trump-bears-responsibility-for-riot-but-impeachment-a-mistake.md",
+      "title": "Live impeachment updates: GOP House leader: Trump 'bears responsibility' for riot, but impeachment a 'mistake'",
+      "excerpt": "A vote to impeach will further divide the nation. A vote to impeach will further fan the flames of partisan division,\" Rep. Kevin McCarthy said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/13/impeachment-live-updates-house-vote-gop-rift-trump-grows/6644827002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/13/impeachment-live-updates-house-vote-gop-rift-trump-grows/6644827002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/13/USAT/364bda46-7631-4195-8825-20cfb2fad595-AP_Trump_Impeachment_2.jpg?auto=webp&crop=4121,2319,x0,y209&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6644827002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6644827002",
+      "publishedDateTime": "2021-01-13T10:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-donald-trumps-bitter-fight-to-ban-tiktok-in-the-us-looks-set-to-fail-after-administration-agrees-to-delayed-legal-deadline.md",
+      "title": "Donald Trump's bitter fight to ban TikTok in the US looks set to fail after administration agrees to delayed legal deadline",
+      "excerpt": "Experts say a shift in legal deadline paves the way for President-elect Joe Biden to drop the suit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/donald-trumps-tiktok-ban-likely-just-ended-with-legal-deadline-2021-1",
+      "originalUrl": "https://www.businessinsider.com/donald-trumps-tiktok-ban-likely-just-ended-with-legal-deadline-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fff2702a8de7700187d3a0c?width=1200&format=jpeg",
+          "width": 921,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T09:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-in-breaking-with-trump-pence-does-what-he-believes-in-strategist-says.md",
       "title": "In breaking with Trump, Pence does ‘what he believes in,’ strategist says",
       "excerpt": "After breaking with his boss last week and certifying President-elect Joe Biden’s Electoral College victory over President Trump, Vice President Mike Pence this week quickly shot down a push by House Democrats urging him to invoke the 25th Amendment of the Constitution to remove Trump from the presidency.",
@@ -462,7 +678,7 @@
       "originalUrl": "https://thehill.com/homenews/house/533955-house-passes-bill-calling-on-pence-to-remove-trump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3900,
+      "heat": 4000,
       "tags": null,
       "images": [
         {
@@ -1153,224 +1369,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-trumps-secret-service-detail-could-be-subpoenaed-to-testify-against-him-in-criminal-proceedings-and-former-agents-are-stressed-about-it.md",
-      "title": "Trump's Secret Service detail could be subpoenaed to testify against him in criminal proceedings and former agents are stressed about it",
-      "excerpt": "President Donald Trump's security detail could face subpoenas in future legal proceedings. Former agents worry that will make him harder to protect.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/secret-service-agents-testify-trump-criminal-courts-nixon-clinton-lewinsky-2021-1",
-      "originalUrl": "https://www.businessinsider.com/secret-service-agents-testify-trump-criminal-courts-nixon-clinton-lewinsky-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ffe06cefe7e140019f7e88b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T13:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-trump-defends-riot-remarks-as-totally-appropriate-before-house-vote-on-25th-amendment-resolution.md",
-      "title": "Trump defends riot remarks as 'totally appropriate' before House vote on 25th Amendment resolution",
-      "excerpt": "\"Everybody to a 'T' thought it was totally appropriate,\" Trump said as lawmakers prepared a resolution calling for his removal from office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/house-set-vote-resolution-calling-pence-invoke-25th-amendment-n1253873",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/house-set-vote-resolution-calling-pence-invoke-25th-amendment-n1253873",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_02/3441497/210112-donald-trump-jm-1043_14f8a0fe6ee3094b4256b33575e347dd.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253873",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253873",
-      "publishedDateTime": "2021-01-12T13:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-miranda-devine-dems-hatred-for-trump-supporters-is-un-american.md",
-      "title": "Miranda Devine: Dems 'hatred' for Trump supporters is 'un-American'",
-      "excerpt": "Fox News contributor Miranda Devine said Tuesday the rhetoric used against President Trump's supporters after the Capitol riots are dividing the country further. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3MaGrNW6BEI/miranda-devine-dems-hatred-trump-supporters-un-american",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3MaGrNW6BEI/miranda-devine-dems-hatred-trump-supporters-un-american",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/miranda-devine-dems-hatred-trump-supporters-un-american.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/miranda-devine-dems-hatred-trump-supporters-un-american.amp",
-      "publishedDateTime": "2021-01-12T12:10:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-chicago-man-who-threatened-to-kill-democrats-prevent-biden-from-entering-white-house-arrested.md",
-      "title": "Chicago Man Who Threatened to 'Kill' Democrats, Prevent Biden From Entering White House Arrested",
-      "excerpt": "Louis Capriotti, a 45-year-old man from Chicago, made the alleged threats in a voicemail to a representative from New Jersey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958",
-      "originalUrl": "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1704833/joe-biden-louis-capriotti-threat-inauguration.jpg",
-          "width": 2500,
-          "height": 1695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958?amp=1",
-      "publishedDateTime": "2021-01-12T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

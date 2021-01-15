@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Most Americans Want Trump Gone From Politics, Poll Says"
+    excerpt: "A slim majority of Americans want to see Trump charged with the incitement of the mob that attacked the Capitol Building, which would bar him from holding public office if convict"
+    publishedDateTime: 2021-01-15T15:21:00Z
+    webUrl: "https://www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261"
+    ampWebUrl: "https://www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/us-president-donald-trump-owns-the-unfortunate-distinction.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "BvKf8Wvm9TloXtMk0jvWs9JeB8ST5ONAYGBJzCcjlSXp1iA3kd/WJZE5JSSetuBn8b7sHCHc5WdhlgL5u2GD/raSlI2KljgNQcDk8IKYLBkNLX2HwuXYz62OXn+udmH4cF6QlUiKLCZOty8Jehlt4XaixgNVqDH8Apvr2f+6SFJi+NP2HN0Y37oVMw8c/yZhosZ9w0WrJ1PHBHlevsxcruNy6mlUHNSSNe2VLrt/5g00cy2kme8/u67uQ1O6lD1AivcXVQP0rOD+sD+qsCX1f3EqxVzbUVR6KwIgvEeIq/+ZESr3NI33nNbx1hp/XHyMSKjXNm/SUvb/aZSlBJWp7udrHgLujg47i5Aml8qLuVI=;hLRmdsl/ErT/gx1U3/b/aQ=="
 ---

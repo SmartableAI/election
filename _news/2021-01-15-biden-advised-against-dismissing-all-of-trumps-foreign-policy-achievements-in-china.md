@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/report-advises-biden-keep-a-close-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements.amp"
 type: article
 quality: 183
-heat: 383
+heat: 403
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Photos show White House being cleared out ahead of Biden inauguration"
+    excerpt: "Photos are emerging of Trump administration staffers moving items out of the White House complex -- including a bust of Abe Lincoln and a stuffed bird -- ahead of President-elect Joe Biden’s inauguration next week. "
+    publishedDateTime: 2021-01-15T15:01:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jgvXcqHeu8I/photos-show-white-house-being-cleared-out"
+    ampWebUrl: "https://www.foxnews.com/politics/photos-show-white-house-being-cleared-out.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/photos-show-white-house-being-cleared-out.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-zxjs75c-xl.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

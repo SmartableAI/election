@@ -2,6 +2,218 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-12-09-melania-trump-just-wants-to-go-home.md",
+      "title": "Melania Trump 'just wants to go home'",
+      "excerpt": "In mid-November, as President Donald Trump railed against the election results, his wife, first lady Melania Trump publicly agreed with his sentiments. But privately, a handful of days after the final state tally, the first lady tasked an emissary with discreetly finding out what was available to her",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5VsprdbHDco/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5VsprdbHDco/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201209104411-02-melania-trump-2017-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/09/politics/melania-trump-future/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/melania-trump-future/index.html",
+      "publishedDateTime": "2020-12-09T08:18:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-trump-vows-to-intervene-in-texas-election-case-before-supreme-court.md",
+      "title": "Trump vows to intervene in Texas election case before Supreme Court",
+      "excerpt": "President Donald Trump on Wednesday vowed to intervene in a long-shot lawsuit by the state of Texas filed at the U.S. Supreme Court trying to throw out the voting results in four states he lost to President-elect Joe Biden as he seeks to undo the outcome of the election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/BigStory12/idUSKBN28J1VJ",
+      "originalUrl": "https://www.reuters.com/article/BigStory12/idUSKBN28J1VJ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201209&t=2&i=1543979089&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB8111",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28J1VJ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J1VJ",
+      "publishedDateTime": "2020-12-09T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-ap-sources-biden-picks-fudge-for-housing-vilsack-for-usda.md",
+      "title": "AP sources: Biden picks Fudge for housing, Vilsack for USDA",
+      "excerpt": "President-elect Joe Biden has selected Ohio Rep. Marcia Fudge as his housing and urban development secretary and former Agriculture Secretary Tom Vilsack to reprise that role in his administration",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_a247689e42154871b07009bde790748f_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-sources-biden-picks-fudge-housing-vilsack-usda-74619948",
+      "publishedDateTime": "2020-12-09T04:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-09-trump-lawyer-rudy-giuliani-receiving-same-covid-drugs-as-president.md",
+      "title": "Trump lawyer Rudy Giuliani receiving same Covid drugs as president",
+      "excerpt": "President Donald Trump's personal lawyer, Rudy Giuliani, has revealed in a call to his own radio show that he is being treated for coronavirus with the same drug cocktail his boss received when he was ill with Covid-19. He was admitted to hospital on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-55243581",
+      "originalUrl": "https://www.bbc.com/news/world-55243581",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13426/production/_115968887_tv064232199.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-55243581",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-55243581",
+      "publishedDateTime": "2020-12-09T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-09-media-praise-xavier-becerra-a-partisan-warrior-who-constantly-sued-trump.md",
       "title": "Media praise Xavier Becerra, a partisan warrior who constantly sued Trump",
       "excerpt": "Joe Biden’s pick to run the federal health department is getting a whole lot of good press, coupled with harsh criticism from media conservatives.",
@@ -1140,228 +1352,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-who-is-behind-the-fake-trump-presidential-library-website-we-talk-to-the-anonymous-architect.md",
-      "title": "Who is behind the fake Trump Presidential Library website? We talk to the anonymous architect",
-      "excerpt": "Not quite as mysteriously as a monolith, a website has appeared for a fictional Donald J. Trump Presidential Library. The anonymous architect tells us why they did it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/entertainment-arts/story/2020-12-07/fake-trump-presidential-library-website-anonymous-architect-interview",
-      "originalUrl": "https://www.latimes.com/entertainment-arts/story/2020-12-07/fake-trump-presidential-library-website-anonymous-architect-interview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/7e11cfb/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6e%2F76%2F70d6e3b8436db2301d3382e733f0%2Fa-christmas-for-mary.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/entertainment-arts/story/2020-12-07/fake-trump-presidential-library-website-anonymous-architect-interview?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/story/2020-12-07/fake-trump-presidential-library-website-anonymous-architect-interview?_amp=true",
-      "publishedDateTime": "2020-12-07T22:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-what-might-unite-a-divided-washington-behind-joe-biden-unsexy-infrastructure.md",
-      "title": "What Might Unite a Divided Washington Behind Joe Biden? Unsexy Infrastructure",
-      "excerpt": "Roads, bridges, airports, subways, broadband networks, windmills, solar farms. Infrastructure just might be the vehicle that could smash through the political roadblocks in Washington.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/what-might-unite-a-divided-washington-behind-joe-biden-unsexy-infrastructure-11607357371",
-      "originalUrl": "https://www.wsj.com/articles/what-might-unite-a-divided-washington-behind-joe-biden-unsexy-infrastructure-11607357371",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-269242/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/what-might-unite-a-divided-washington-behind-joe-biden-unsexy-infrastructure-11607357371",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-might-unite-a-divided-washington-behind-joe-biden-unsexy-infrastructure-11607357371",
-      "publishedDateTime": "2020-12-07T22:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-analysis-battles-over-biden-appointments-signal-a-larger-struggle-over-his-strategy.md",
-      "title": "Analysis: Battles over Biden appointments signal a larger struggle over his strategy",
-      "excerpt": "The progressive uprising against a wide range of potential Joe Biden administration nominees reflects not only old ideological divisions among Democrats but also a new struggle over how the incoming president should advance his objectives in a closely divided Washington.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fviWejsbCLM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fviWejsbCLM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201207155117-biden-appointments-1124-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/08/politics/biden-cabinet-appointment-battles/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/biden-cabinet-appointment-battles/index.html",
-      "publishedDateTime": "2020-12-07T21:55:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-gordon-chang-warns-china-is-going-to-push-a-president-biden-around-and-us-must-push-back.md",
-      "title": "Gordon Chang warns China is 'going to push a President Biden around' and US must 'push back'",
-      "excerpt": "President-elect Joe Biden will be little match for the \"incredible arrogance\" of the Chinese government, China expert Gordon Chang warned on \"Tucker Carlson Tonight.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/gordon-chang-china-push-biden-around-dangerous",
-      "originalUrl": "https://www.foxnews.com/world/gordon-chang-china-push-biden-around-dangerous",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a52d8dc-304a-4ed1-8df0-2bc52a1f20c6/ed9014db-e768-4d7f-805d-1b28de78b272/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/gordon-chang-china-push-biden-around-dangerous.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/gordon-chang-china-push-biden-around-dangerous.amp",
-      "publishedDateTime": "2020-12-07T19:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

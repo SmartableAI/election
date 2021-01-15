@@ -479,6 +479,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden to appoint David S. Cohen as deputy director of the CIA"
+    excerpt: "Cohen has served as No. 2 at the spy agency once before and was a principal architect of Obama-era sanctions against Iran and Russia."
+    publishedDateTime: 2021-01-15T16:04:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/biden-nominates-cohen-cia-director/2021/01/14/0ffcd78e-3566-11eb-8d38-6aea1adb3839_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/biden-nominates-cohen-cia-director/2021/01/14/0ffcd78e-3566-11eb-8d38-6aea1adb3839_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/biden-nominates-cohen-cia-director/2021/01/14/0ffcd78e-3566-11eb-8d38-6aea1adb3839_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BEI6FTEYKMI6JET2J6RGHDGRWA.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
   - title: "Congress certifies Joe Biden as president hours after storming of Capitol"
     excerpt: "Trump loyalists objected to certification of election result before joint session interrupted when mob breaches security"
     publishedDateTime: 2021-01-07T10:09:00Z
@@ -1088,6 +1104,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Historians worry a Trump library will be an airbrushed 'MAGA' tribute to a twice-impeached president"
+    excerpt: "It's not hard to image Trump's presidential library will burnish his tarnished legacy after he leaves office. Don't expect that to go smoothly."
+    publishedDateTime: 2021-01-15T16:03:00Z
+    webUrl: "https://www.businessinsider.com/trump-presidential-library-museum-location-national-archives-records-documents-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
+    images:
+      - url: "https://i.insider.com/6000cf5aa81ea100188db5a2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump’s Senate impeachment trial could begin on day of Joe Biden’s inauguration"
     excerpt: "The impeachment trial timeline and schedule are largely set by Senate procedures and will start as soon as the House delivers the article of impeachment."
     publishedDateTime: 2021-01-14T20:11:00Z
@@ -1310,6 +1340,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "400 members of Washington state National Guard called to D.C. to boost security during President-elect Joe Biden’s inauguration"
+    excerpt: "In the wake of the insurgence at the U.S. Capitol during certification of the Electoral College votes last week and threats of further violence, nearly 400 Washington National Guard soldiers and airmen are being sent to D."
+    publishedDateTime: 2021-01-15T15:05:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/400-members-of-washington-state-national-guard-called-to-d-c-to-boost-security-during-president-elect-joe-bidens-inauguration/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/400-members-of-washington-state-national-guard-called-to-d-c-to-boost-security-during-president-elect-joe-bidens-inauguration/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/400-members-of-washington-state-national-guard-called-to-d-c-to-boost-security-during-president-elect-joe-bidens-inauguration/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 27
 
 secured: "5mzvo+Qd/FTithFbiGTWcLhkVap33lUpmiMpvJjWIJfFsdlQdd+s6nkpF3/KTOHjZb9rpVfPYe3Oc4x/SNIG9qiHRthxeap46DevDEpT2PXhP/pH/Q6xKdhExEya4sdhpu/oj5AEAc2l2LX5pDomVTAw4IFymGuxSfbW/Hj9idf+nhh2AN60ddjp2K3X9FT9sp3C4HXr0ejAnT4dGI2jhXGFHmvcAPyLC6kZFQmz6TL/yu6I378Eu2iu/4qSTKyYRJN0fGGZs7k+oZoYDt8xrQ4MtAoRUHVAshnD6MXXBAMZ7VOpexEtwP3RkLGIoOjGotVssRsf8AAjilJ0K91qATDu8SeMG98peIP2E3txKiF0KFWm/woT8iZEURdvW3CTi0mkaDPDflxDPQq0PD5PQ92o1zvnGEfERu47taTRxjq95G70l6grs43D6V5Q/GYC0ADk9qMc3JQkvxR8iRu/mMF+TXjiHINFnIrm0b26KAlgcDls2s36S4eWzoua2PtwZeTCcml//N8CPe1paZLKgg==;jWtexOQYQWfwpyjgEmVx0Q=="
 ---

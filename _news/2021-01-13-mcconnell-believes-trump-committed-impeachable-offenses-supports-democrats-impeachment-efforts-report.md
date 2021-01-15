@@ -96,6 +96,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump impeachment supported by only 8% of Republicans: poll"
+    excerpt: "A new national poll indicates that only 8% of Republican voters support the impeachment of President Trump and his removal from office."
+    publishedDateTime: 2021-01-15T15:44:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BNNFD9XEG78/only-8-percent-republicans-support-trump-impeachment-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/only-8-percent-republicans-support-trump-impeachment-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/only-8-percent-republicans-support-trump-impeachment-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump awards Rep. Jim Jordan the Medal of Freedom, credits his defense during impeachment"
     excerpt: "President Trump on Monday awarded the Presidential Medal of Freedom to Rep. Jim Jordan, the Republican from Ohio who has served as a high-profile congressional defender of the Trump throughout his presidency."
     publishedDateTime: 2021-01-11T19:04:29Z

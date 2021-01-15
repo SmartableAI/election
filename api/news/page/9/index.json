@@ -2,6 +2,219 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-01-06-trump-signs-order-banning-transactions-with-chinese-apps-alipay-and-wechat-pay.md",
+      "title": "Trump signs order banning transactions with Chinese apps Alipay and WeChat Pay",
+      "excerpt": "Taking his campaign against Chinese technology down to the wire, President Trump on Tuesday signed an executive order banning transactions with a number of Chinese mobile apps, including Alipay and WeChat Pay.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2021/01/05/trump-ban-alipay-wechat-pay/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2021/01/05/trump-ban-alipay-wechat-pay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MKURI7SPWYI6XIPV7WXSRT6KSA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/01/05/trump-ban-alipay-wechat-pay/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/05/trump-ban-alipay-wechat-pay/?outputType=amp",
+      "publishedDateTime": "2021-01-05T20:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-trump-signs-order-banning-alipay-and-other-chinese-apps.md",
+      "title": "Trump Signs Order Banning Alipay and Other Chinese Apps",
+      "excerpt": "WASHINGTON—President Trump signed an executive order banning transactions with Chinese payment platform Alipay and other Chinese apps. Write to Andrew Restuccia at Andrew.Restuccia@wsj.com and John D. McKinnon at john.mckinnon@wsj.com",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-signs-order-banning-alipay-and-other-chinese-apps-11609889364?mod=hp_lead_pos4",
+      "originalUrl": "https://www.wsj.com/articles/trump-signs-order-banning-alipay-and-other-chinese-apps-11609889364?mod=hp_lead_pos4",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-281098/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-signs-order-banning-alipay-and-other-chinese-apps-11609889364",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-signs-order-banning-alipay-and-other-chinese-apps-11609889364",
+      "publishedDateTime": "2021-01-05T20:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-trump-is-my-president-protesters-gather-in-dc-a-day-before-congress-certifies-election.md",
+      "title": "'Trump is my president': Protesters gather in DC a day before Congress certifies election",
+      "excerpt": "Crowds gathered in Washington on Tuesday, a day before larger rallies and a congressional vote to certify the election are planned.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2021/01/05/dc-protest-over-donald-trump-election-voter-fraud-claims-underway/4141044001/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2021/01/05/dc-protest-over-donald-trump-election-voter-fraud-claims-underway/4141044001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 351,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/05/USAT/fb64f38a-fa86-4187-9fcc-00a05d2b22c4-MicrosoftTeams-image_3.png?auto=webp&crop=2775,1561,x1,y439&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4141044001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4141044001",
+      "publishedDateTime": "2021-01-05T20:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-trump-impeachment-again-ocasio-cortez-wants-it-but-democrats-say-no.md",
+      "title": "Trump Impeachment Again? Ocasio-Cortez Wants It, But Democrats Say 'No'",
+      "excerpt": "Cortez calls for Trump's impeachment following the leaked audio recording Omar also believes Trump's actions warranted impeachment Other progressives believe there is no time for an impeachment hearing Democratic Rep.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253",
+      "originalUrl": "https://www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/alexandria-ocasio-cortez-the-darling-of-the-us.jpg",
+          "width": 1024,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253?amp=1",
+      "publishedDateTime": "2021-01-05T19:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-will-mike-pence-kill-his-2024-ambitions-if-he-accepts-the-election-results.md",
       "title": "Will Mike Pence Kill His 2024 Ambitions If He Accepts the Election Results?",
       "excerpt": "Four years of loyalty to Donald Trump won't give Pence cover: if he ratifies the 2020 election count in his role as president of the Senate, he'll anger the president and Trump's most ardent fans.",
@@ -1093,213 +1306,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-trump-to-approve-land-swap-for-rio-tintos-resolution-copper-project-us-forest-service.md",
-      "title": "Trump to approve land swap for Rio Tinto's Resolution Copper project: U.S. Forest Service",
-      "excerpt": "U.S. President Donald Trump's outgoing administration plans to approve a controversial land swap needed for Rio Tinto Ltd and partners to build an Arizona copper project that Native American tribes say will destroy sites of cultural and religious value.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-mining-resolution-idUSKBN2992GT",
-      "originalUrl": "https://www.reuters.com/article/us-usa-mining-resolution-idUSKBN2992GT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546595834&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH03189",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2992GT",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2992GT",
-      "publishedDateTime": "2021-01-04T18:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-biden-trump-coronavirus-vaccine-rollout-is-off-to-a-god-awful-start.md",
-      "title": "Biden: Trump coronavirus vaccine rollout is 'off to a God-awful start'",
-      "excerpt": "President-elect Joe Biden blasted President Trump on Monday, as he campaigned with the two Democratic challengers in Atlanta on the eve of Georgia’s twin Senate runoff elections, where the Republican Senate majority’s at stake.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlRS4wbhcXQ/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlRS4wbhcXQ/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 570,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections.amp",
-      "publishedDateTime": "2021-01-04T17:32:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-foley-lardner-concerned-by-partners-role-in-trump-call-to-ga-election-official.md",
-      "title": "Foley & Lardner 'concerned' by partner's role in Trump call to GA election official",
-      "excerpt": "Foley & Lardner said in a statement Monday that it is \"concerned by\" partner Cleta Mitchell's involvement in a conference call in which U.S. President Donald Trump pressured Georgia's top election official to \"find\" enough votes to overturn his defeat in the state,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/lawyer-election-foley-idUSL1N2JF1SC",
-      "originalUrl": "https://www.reuters.com/article/lawyer-election-foley-idUSL1N2JF1SC",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2JF1SC",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JF1SC",
-      "publishedDateTime": "2021-01-04T16:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-biden-dni-pick-avril-haines-raises-eyebrows-with-previous-job-at-bookstore-known-for-erotica-readings.md",
-      "title": "Biden DNI pick Avril Haines raises eyebrows with previous job at bookstore known for erotica readings",
-      "excerpt": "Long before she was nominated by President-elect Joe Biden to oversee the nation’s intelligence apparatus, Avril Haines co-owned an independent bookstore that hosted “erotica nights.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQ3l45Hg8cU/biden-dni-pick-avril-haines-bookstore-known-for-erotica-readings",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQ3l45Hg8cU/biden-dni-pick-avril-haines-bookstore-known-for-erotica-readings",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Avril-Haines1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-dni-pick-avril-haines-bookstore-known-for-erotica-readings.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dni-pick-avril-haines-bookstore-known-for-erotica-readings.amp",
-      "publishedDateTime": "2021-01-04T14:54:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

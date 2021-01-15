@@ -2,21 +2,21 @@
   "page": 31,
   "value": [
     {
-      "path": "_news/2020-11-17-joe-bidens-irish-supporters-are-celebrating-the-victory-of-their-favorite-uncle-as-he-faces-boris-johnson-over-brexit.md",
-      "title": "Joe Biden's Irish supporters are celebrating the victory of their 'favorite uncle' as he faces Boris Johnson over Brexit",
-      "excerpt": "A Biden campaign source said they expected Ireland to be Joe Biden's first state visit once in the White House.",
+      "path": "_news/2020-12-01-mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue.md",
+      "title": "Mike Pence will visit Savannah Friday to rally for Loeffler, Perdue",
+      "excerpt": "Vice President Mike Pence will be in Georgia for the second time in two weeks on Friday, and this time, he’ll be in Savannah. Pence will return to",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/joe-biden-irish-supporters-celebrate-expect-brexit-showdown-with-uk-2020-11",
-      "originalUrl": "https://www.businessinsider.com/joe-biden-irish-supporters-celebrate-expect-brexit-showdown-with-uk-2020-11",
+      "webUrl": "https://www.savannahnow.com/news/20201130/mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue",
+      "originalUrl": "https://www.savannahnow.com/news/20201130/mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 115,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5faeb2ce1c741f0019ac9a72?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://www.savannahnow.com/apps/pbcsi.dll/bilde?Site=GA&Date=20201130&Category=NEWS&ArtNo=201139931&Ref=AR",
+          "width": 2331,
+          "height": 1556,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,554 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/joe-biden-irish-supporters-celebrate-expect-brexit-showdown-with-uk-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-irish-supporters-celebrate-expect-brexit-showdown-with-uk-2020-11?amp",
-      "publishedDateTime": "2020-11-16T12:14:00-08:00",
+      "ampWebUrl": "https://www.savannahnow.com/news/20201130/mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue?template=ampart",
+      "cdnAmpWebUrl": "https://www-savannahnow-com.cdn.ampproject.org/c/s/www.savannahnow.com/news/20201130/mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue?template=ampart",
+      "publishedDateTime": "2020-11-30T18:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-in-new-memoir-obama-confronts-the-racial-anxiety-of-trump-supporters.md",
-      "title": "In new memoir, Obama confronts the ‘racial anxiety’ of Trump supporters",
-      "excerpt": "President Obama has in the past subtly drawn attention to the racial resentment his successor peddles. One notable example was Obama appearing to endorse a Post op-ed written by his former Black staffers criticizing Trump for telling Black American lawmakers critical of his administration to “go back” to wherever they came from.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SDYORXA5PQI6XLKTJQP5USMQPU.jpg&w=1440",
-          "width": 1440,
-          "height": 959,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/11/16/new-memoir-obama-confronts-racial-anxiety-trump-supporters/?outputType=amp",
-      "publishedDateTime": "2020-11-16T12:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-hes-in-vengeance-mode-intelligence-veterans-sound-the-alarm-over-trumps-post-election-bloodlust-and-decapitation-strike-at-the-pentagon.md",
-      "title": "'He's in vengeance mode': Intelligence veterans sound the alarm over Trump's post-election 'bloodlust' and 'decapitation strike' at the Pentagon",
-      "excerpt": "\"Trump seems to wake up every day with a kind of anxiety or hatred,\" said one former official. \"He didn't get reelected, so he's in vengeance mode.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/national-security-veterans-intelligence-officials-react-trump-election-bloodlust-2020-11",
-      "originalUrl": "https://www.businessinsider.com/national-security-veterans-intelligence-officials-react-trump-election-bloodlust-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5e81b05e2ff839113e6aac63?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/national-security-veterans-intelligence-officials-react-trump-election-bloodlust-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/national-security-veterans-intelligence-officials-react-trump-election-bloodlust-2020-11?amp",
-      "publishedDateTime": "2020-11-16T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-kamala-harris-facebook-removes-racist-posts-about-us-vice-president-elect.md",
-      "title": "Kamala Harris: Facebook removes racist posts about US vice-president-elect",
-      "excerpt": "Facebook has taken down a string of racist and misogynistic posts, memes and comments about US Vice-President-Elect Kamala Harris. The social network removed the content after BBC News alerted it to three groups that regularly hosted hateful material on their pages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/amp/technology-54941571",
-      "originalUrl": "https://www.bbc.com/news/amp/technology-54941571",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 743,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9EA2/production/_114801604_p08tk9j9.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-54941571",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54941571",
-      "publishedDateTime": "2020-11-16T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-trump-swipes-at-dewine-after-gop-governors-comments-on-biden-transition.md",
-      "title": "Trump swipes at DeWine after GOP governor's comments on Biden transition",
-      "excerpt": "President Trump took to Twitter on Monday to take aim at Republican Gov. Mike DeWine of Ohio.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/M2PiOTcUEKQ/trump-swipes-at-dewine-after-ohio-gov-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/M2PiOTcUEKQ/trump-swipes-at-dewine-after-ohio-gov-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 409,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-swipes-at-dewine-after-ohio-gov-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-swipes-at-dewine-after-ohio-gov-biden.amp",
-      "publishedDateTime": "2020-11-16T09:26:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-obama-said-he-was-surprised-at-top-republicans-who-did-a-complete-180-on-everything-they-claimed-to-believe-to-align-with-trump.md",
-      "title": "Obama said he was surprised at top Republicans who did a 'complete 180 on everything they claimed to believe' to align with Trump",
-      "excerpt": "Obama told The Atlantic he was not shocked by Trump's \"character and behavior\" while in office, but at top Republicans who emerged as his allies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/obama-trump-top-republicans-complete-180-2020-11",
-      "originalUrl": "https://www.businessinsider.com/obama-trump-top-republicans-complete-180-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fb29149402d49001924f150?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/obama-trump-top-republicans-complete-180-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-trump-top-republicans-complete-180-2020-11?amp",
-      "publishedDateTime": "2020-11-16T08:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-trump-touts-coronavirus-vaccine-announcements-on-my-watch-great-discoveries.md",
-      "title": "Trump touts coronavirus vaccine announcements 'on my watch': 'Great discoveries'",
-      "excerpt": "President Trump praised the coronavirus vaccine from Massachusetts-based biotech company Moderna as one of two recent \"great discoveries\" after it announced Monday the vaccine is 94.5% effective according to interim analysis from a late-stage clinical trial.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/814C5hrpuMw/trump-coronavirus-vaccine-moderna-operation-warp-speed",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/814C5hrpuMw/trump-coronavirus-vaccine-moderna-operation-warp-speed",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1228062636.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-coronavirus-vaccine-moderna-operation-warp-speed.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-moderna-operation-warp-speed.amp",
-      "publishedDateTime": "2020-11-16T06:59:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-trump-trashes-real-dope-john-bolton-for-pushing-election-loss-calls-him-one-of-the-dumbest-people.md",
-      "title": "Trump trashes 'real dope' John Bolton for pushing election loss, calls him 'one of the dumbest people'",
-      "excerpt": "President Trump lashed out at John Bolton on Sunday, calling him a \"real dope\" and \"one of the dumbest people in government\" after the former national security adviser urged GOP Party leaders to accept the 2020 election results and encourage their supporters to acknowledge defeat.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4meASSgZu4/trump-john-bolton-election-loss",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4meASSgZu4/trump-john-bolton-election-loss",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/611b5cbb-9cd7-4082-9611-1385fd545d2f/738cc2f8-7874-41bf-94fd-c9541438954a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-john-bolton-election-loss.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-john-bolton-election-loss.amp",
-      "publishedDateTime": "2020-11-15T12:59:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative.md",
-      "title": "Trump Allies Explored Buyout of Newsmax TV as Fox News Alternative",
-      "excerpt": "Hicks Equity Partners, a private-equity firm with ties to a co-chair of the Republican National Committee, has held talks in recent months about acquiring and investing in Newsmax, a fledgling pro-Trump cable channel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative-11605464737",
-      "originalUrl": "https://www.wsj.com/articles/trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative-11605464737",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-260269/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative-11605464737",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-allies-explored-buyout-of-newsmax-tv-as-fox-news-alternative-11605464737",
-      "publishedDateTime": "2020-11-15T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-jordan-argues-ironing-out-voting-irregularities-is-important-72m-trump-voters-have-concerns.md",
-      "title": "Jordan argues ironing out voting irregularities is 'important,' 72M Trump voters have concerns",
-      "excerpt": "Even after House Republicans flipped 10 seats in the 2020 election, Rep. Jim Jordan, R-Ohio, told “Sunday Morning Futures” that investigating potential voting irregularities is crucial.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QTvEINTeo6k/jim-jordan-voting-irregularities-election-numbers",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QTvEINTeo6k/jim-jordan-voting-irregularities-election-numbers",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20319764114823.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/jim-jordan-voting-irregularities-election-numbers.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-voting-irregularities-election-numbers.amp",
-      "publishedDateTime": "2020-11-15T10:20:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-what-does-mike-pences-future-look-like-after-election-loss.md",
-      "title": "What does Mike Pence's future look like after election loss?",
-      "excerpt": "For Mike Pence, a second term for President Donald Trump would have been a 2024 ticket to Republican frontrunner status.",
-      "sourceUrl": null,
-      "webUrl": "https://www.southbendtribune.com/news/elections/what-does-mike-pences-future-look-like-after-election-loss/article_94f9bcaa-2688-11eb-ad83-9fce99de0a50.html",
-      "originalUrl": "https://www.southbendtribune.com/news/elections/what-does-mike-pences-future-look-like-after-election-loss/article_94f9bcaa-2688-11eb-ad83-9fce99de0a50.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/southbendtribune.com/content/tncms/assets/v3/editorial/8/cb/8cb832e9-08cf-5e26-a8f6-f241e995ad1c/5faee2b1955cf.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.southbendtribune.com/news/elections/what-does-mike-pences-future-look-like-after-election-loss/article_94f9bcaa-2688-11eb-ad83-9fce99de0a50.amp.html",
-      "cdnAmpWebUrl": "https://www-southbendtribune-com.cdn.ampproject.org/c/s/www.southbendtribune.com/news/elections/what-does-mike-pences-future-look-like-after-election-loss/article_94f9bcaa-2688-11eb-ad83-9fce99de0a50.amp.html",
-      "publishedDateTime": "2020-11-15T07:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South Bend Tribune",
-        "domain": "southbendtribune.com",
+        "name": "Savannah Morning News",
+        "domain": "savannahnow.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -586,21 +45,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-15-biden-promised-a-railroad-revolution-that-could-see-faster-trains-and-a-return-to-amtraks-nostalgic-past-heres-what-americans-might-see.md",
-      "title": "Biden promised a 'railroad revolution' that could see faster trains and a return to Amtrak's nostalgic past — here's what Americans might see",
-      "excerpt": "A Biden presidency could open up billions in funding to finally get Amtrak the infrastructure and trains that it needs to be competitive.",
+      "path": "_news/2020-12-01-pence-says-covid-vaccine-distribution-could-begin-mid-december.md",
+      "title": "Pence Says Covid Vaccine Distribution Could Begin Mid-December",
+      "excerpt": "Vice President Mike Pence told governors on Monday that distribution of a coronavirus vaccine could begin by the third week of December, signaling that U.S. regulators will swiftly approve an emergency authorization for the first shots.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11",
-      "originalUrl": "https://www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-01/pence-says-covid-vaccine-distribution-could-begin-mid-december",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-01/pence-says-covid-vaccine-distribution-could-begin-mid-december",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 265,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5fa590f91df1d5001821955c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iN4Wcn.T9FtA/v0/360x-1.jpg",
+          "width": 360,
+          "height": 239,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -608,16 +67,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-a-joe-biden-presidency-could-mean-for-americas-trains-2020-11?amp",
-      "publishedDateTime": "2020-11-15T05:49:00-08:00",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-01/pence-says-covid-vaccine-distribution-could-begin-mid-december",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-01/pence-says-covid-vaccine-distribution-could-begin-mid-december",
+      "publishedDateTime": "2020-11-30T17:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -625,49 +84,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-vice-president-mike-pence-to-view-spacex-crew-1-launch-from-kennedy-space-center.md",
-      "title": "Vice President Mike Pence to view SpaceX Crew-1 launch from Kennedy Space Center",
-      "excerpt": "Vice President Mike Pence will attend Sunday's attempted launch of Crew-1 mission to the International Space Station.",
-      "sourceUrl": null,
-      "webUrl": "https://www.floridatoday.com/story/tech/science/space/2020/11/14/pence-view-crew-1-launch-ksc/6300689002/",
-      "originalUrl": "https://www.floridatoday.com/story/tech/science/space/2020/11/14/pence-view-crew-1-launch-ksc/6300689002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/05/31/PBRE/7c0c97ef-a437-4472-8c12-59b6e6bb835c-TRUMP_LAUNCH13.jpg?auto=webp&crop=1999,1125,x0,y208&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.floridatoday.com/amp/6300689002",
-      "cdnAmpWebUrl": "https://amp-floridatoday-com.cdn.ampproject.org/c/s/amp.floridatoday.com/amp/6300689002",
-      "publishedDateTime": "2020-11-15T03:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Florida Today",
-        "domain": "floridatoday.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -681,21 +97,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-15-elation-frustration-for-women-kamala-harris-win-is-a-big-step-but-long-overdue.md",
-      "title": "Elation, Frustration: For Women, Kamala Harris' Win Is A Big Step, But Long Overdue",
-      "excerpt": "Some women tell NPR the historic election of the nation's first female, and first woman of color is a move the right direction. Others say it's a reminder of how much more of the road lies ahead.",
+      "path": "_news/2020-12-01-scott-atlas-resigns-as-special-adviser-to-trump-on-coronavirus.md",
+      "title": "Scott Atlas resigns as special adviser to Trump on coronavirus",
+      "excerpt": "Dr. Scott Atlas has resigned as special adviser to President Donald Trump, a White House official said on Monday, after a controversial four months during which he clashed repeatedly with other members of the coronavirus task force.",
       "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2020/11/15/934161849/elation-frustration-for-women-kamala-harris-win-is-a-big-step-but-long-overdue",
-      "originalUrl": "https://www.npr.org/2020/11/15/934161849/elation-frustration-for-women-kamala-harris-win-is-a-big-step-but-long-overdue",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-atlas-idUSKBN28B3AS",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-atlas-idUSKBN28B3AS",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 685,
       "tags": null,
       "images": [
         {
-          "url": "https://media.npr.org/assets/img/2020/11/12/harris-for-tovia-story_wide-2a395a43aebcf7c8f950a7f1ef900b585b530d5c.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1542984625&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB01U3",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -703,16 +119,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-15T03:01:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28B3AS",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3AS",
+      "publishedDateTime": "2020-11-30T17:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -729,188 +145,23 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
+        "Donald Trump"
       ]
     },
     {
-      "path": "_news/2020-11-15-largely-out-of-sight-in-washington-kamala-harris-preps-for-white-house.md",
-      "title": "Largely Out of Sight in Washington, Kamala Harris Preps for White House",
-      "excerpt": "Ms. Harris has barely appeared on the public radar since her acceptance speech last Saturday in Wilmington, Del., where she declared “a new day for America.”",
+      "path": "_news/2020-12-01-post-election-gallup-poll-biden-favorability-rises-to-55-while-trumps-dips-to-42.md",
+      "title": "Post-election Gallup poll: Biden favorability rises to 55% while Trump's dips to 42%",
+      "excerpt": "WASHINGTON – According to a new poll from Gallup, President-elect Joe Biden’s favorability rating is up following the conclusion of the election while President Donald Trumps",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/14/us/politics/kamala-harris-white-house-washington.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/14/us/politics/kamala-harris-white-house-washington.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/14/us/politics/kamala-harris-white-house-washington.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/14/us/politics/kamala-harris-white-house-washington.amp.html",
-      "publishedDateTime": "2020-11-14T16:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-kamala-harris-set-to-first-south-asian-american-vp-sends-out-wishes-for-happy-diwali.md",
-      "title": "Kamala Harris, set to first South Asian American VP, sends out wishes for happy Diwali",
-      "excerpt": "Diwali, one of the most important holidays in India, symbolizes new beginnings and the triumph of good over evil, and light over darkness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/kamala-harris-diwali-sal-mubarak-twitter/",
-      "originalUrl": "https://www.cbsnews.com/news/kamala-harris-diwali-sal-mubarak-twitter/",
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/11/30/poll-biden-favorability-rises-while-trumps-falls-post-election/6471704002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/11/30/poll-biden-favorability-rises-while-trumps-falls-post-election/6471704002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 217,
+      "heat": 908,
       "tags": null,
       "images": [
         {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/11/08/2ae37ba1-b020-440a-a699-8f8450de0535/thumbnail/1200x630g2/8212c093415d0ff56d89a07be0bde9d2/2020-11-08t014600z-1312344614-rc2pyj9y91ci-rtrmadp-3-usa-election-biden.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/kamala-harris-diwali-sal-mubarak-twitter/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-diwali-sal-mubarak-twitter/",
-      "publishedDateTime": "2020-11-14T15:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-darrell-issa-trump-on-par-with-lincoln-reagan-with-value-added-to-the-republican-party.md",
-      "title": "Darrell Issa: Trump on par with Lincoln, Reagan with value added to the Republican Party",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ABnE3NXhjUk/darrell-issa-trump-lincoln-reagan-value-to-republican-party",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ABnE3NXhjUk/darrell-issa-trump-lincoln-reagan-value-to-republican-party",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ee0c5fb7-89f6-497f-bb85-9e7c233cdde5/b552cba5-dad2-42a4-97d2-09d5b9d5b151/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/darrell-issa-trump-lincoln-reagan-value-to-republican-party.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/darrell-issa-trump-lincoln-reagan-value-to-republican-party.amp",
-      "publishedDateTime": "2020-11-14T14:26:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-trump-election-lawsuit-in-arizonas-maricopa-county-dismissed-outcome-wouldnt-have-affected-races.md",
-      "title": "Trump election lawsuit in Arizona's Maricopa County dismissed, outcome wouldn't have affected races",
-      "excerpt": "By Friday morning, the Trump team had filed a motion acknowledging the outcome of the lawsuit would have no impact on Arizona’s presidential results",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/14/trump-lawsuit-arizonas-maricopa-county-dismissed-judge/6296977002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/11/14/trump-lawsuit-arizonas-maricopa-county-dismissed-judge/6296977002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/12/PPHX/353c4712-7112-4185-8090-fa36aadc45e8-DW1_4295.JPG?auto=webp&crop=3521,1981,x0,y0&format=pjpg&width=1200",
+          "url": "https://www.gannett-cdn.com/presto/2020/12/01/USAT/30672691-3610-4f9a-8828-e1c1beaf8e2c-AP_Biden-LGBTQ_Rights.jpg?auto=webp&crop=5999,3375,x0,y600&format=pjpg&width=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -920,9 +171,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6296977002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6296977002",
-      "publishedDateTime": "2020-11-14T12:03:00-08:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6471704002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6471704002",
+      "publishedDateTime": "2020-11-30T16:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",
@@ -930,361 +181,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-trump-team-mocked-for-apparently-exaggerating-crowd-size-againthis-time-for-million-maga-march.md",
-      "title": "Trump Team Mocked For Apparently Exaggerating Crowd Size (Again)—This Time For ‘Million Maga March’",
-      "excerpt": "The White House seems to have again been caught in a fib when it comes to overstating crowd size, after Press Secretary Kayleigh McEnany claimed Saturday that “More than one MILLION” marchers descended on Washington for the “Million MAGA March” in support of President Donald Trump—a claim that many on social media pointed out seemed to be greatly overstated based on actual pictures of the event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nicholasreimann/2020/11/14/trump-team-mocked-for-apparently-exaggerating-crowd-size-again-this-time-for-million-maga-march/",
-      "originalUrl": "https://www.forbes.com/sites/nicholasreimann/2020/11/14/trump-team-mocked-for-apparently-exaggerating-crowd-size-again-this-time-for-million-maga-march/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb025d66f575407a5a3b7d1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nicholasreimann/2020/11/14/trump-team-mocked-for-apparently-exaggerating-crowd-size-again-this-time-for-million-maga-march/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/11/14/trump-team-mocked-for-apparently-exaggerating-crowd-size-again-this-time-for-million-maga-march/amp/",
-      "publishedDateTime": "2020-11-14T10:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-mike-pence-offers-delusional-response-to-maga-crowd-chanting-four-more-years.md",
-      "title": "Mike Pence offers delusional response to MAGA crowd chanting ‘four more years’",
-      "excerpt": "Vice President Mike Pence signaled on Friday that President Donald Trump has absolutely no plan to concede despite losing the presidential election. On Friday, Pence delivered a speech at the Conservative think tank known as the Council for National Policy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/11/mike-pence-offers-delusional-response-to-maga-crowd-chanting-four-more-years/",
-      "originalUrl": "https://www.rawstory.com/2020/11/mike-pence-offers-delusional-response-to-maga-crowd-chanting-four-more-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2020/06/Mike-Pence-point-rally.jpg",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/11/mike-pence-offers-delusional-response-to-maga-crowd-chanting-four-more-years/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/11/mike-pence-offers-delusional-response-to-maga-crowd-chanting-four-more-years/amp/",
-      "publishedDateTime": "2020-11-14T09:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-philadelphia-suburbs-return-with-a-vengeance-to-oust-trump.md",
-      "title": "Philadelphia suburbs return with a vengeance to oust Trump",
-      "excerpt": "Voters in Philadelphia’s suburbs hurled perhaps their biggest rebuke yet this month to President Donald Trump and the Republican Party overall",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/philadelphia-suburbs-return-with-a-vengeance-to-oust-trump/2020/11/14/63c9f154-2697-11eb-9c4a-0dc6242c4814_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/philadelphia-suburbs-return-with-a-vengeance-to-oust-trump/2020/11/14/63c9f154-2697-11eb-9c4a-0dc6242c4814_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/philadelphia-suburbs-return-with-a-vengeance-to-oust-trump/2020/11/14/63c9f154-2697-11eb-9c4a-0dc6242c4814_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/philadelphia-suburbs-return-with-a-vengeance-to-oust-trump/2020/11/14/63c9f154-2697-11eb-9c4a-0dc6242c4814_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-14T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-let-mike-pence-handle-the-transition.md",
-      "title": "Let Mike Pence handle the transition",
-      "excerpt": "The period between an incumbent's defeat and the new president's inauguration is always awkward. At the end of this lame duck-ship, the outgoing president",
-      "sourceUrl": null,
-      "webUrl": "https://www.monroenews.com/opinion/20201114/let-mike-pence-handle-transition",
-      "originalUrl": "https://www.monroenews.com/opinion/20201114/let-mike-pence-handle-transition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.monroenews.com/apps/pbcsi.dll/bilde?Site=MI&Date=20201114&Category=OPINION&ArtNo=201119553&Ref=AR",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.monroenews.com/opinion/20201114/let-mike-pence-handle-transition?template=ampart",
-      "cdnAmpWebUrl": "https://www-monroenews-com.cdn.ampproject.org/c/s/www.monroenews.com/opinion/20201114/let-mike-pence-handle-transition?template=ampart",
-      "publishedDateTime": "2020-11-14T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Monroe News",
-        "domain": "monroenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-trump-supporters-rally-coronavirus-pandemic-masters-5-things-to-know-this-weekend.md",
-      "title": "Trump supporters rally, coronavirus pandemic, Masters: 5 things to know this weekend",
-      "excerpt": "Trump supporters plan D.C. rallies amid speculation extremists may attend, NASA and SpaceX historic launch and more things to start your weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2020/11/14/trump-supporters-rally-coronavirus-masters-barack-obama-spacex-launch/6180632002/",
-      "originalUrl": "https://www.usatoday.com/story/news/2020/11/14/trump-supporters-rally-coronavirus-masters-barack-obama-spacex-launch/6180632002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/14/USAT/31ea0791-05db-461d-be5e-665bad0d1447-AP_Trump.jpg?auto=webp&crop=3714,2089,x21,y268&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6180632002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6180632002",
-      "publishedDateTime": "2020-11-14T02:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-porter-county-write-in-ballots-give-nod-to-kanye-west-mike-pence-gets-two-votes-for-president-in-lake.md",
-      "title": "Porter County write-in ballots give nod to Kanye West; Mike Pence gets two votes for president in Lake",
-      "excerpt": "If impromptu write-in candidates in Porter County could have been elected president, Kanye West would have been the big winner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-write-in-candidates-st-1114-20201113-sk3bd6noyjasrpo2pdvxq6nefe-story.html",
-      "originalUrl": "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-write-in-candidates-st-1114-20201113-sk3bd6noyjasrpo2pdvxq6nefe-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/l9batxu9btSTpAMzBBxz4fWbH7I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Z5FC7Y3IES7BNL35P3UK52CJJE.jpg",
-          "width": 1200,
-          "height": 828,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-write-in-candidates-st-1114-20201113-sk3bd6noyjasrpo2pdvxq6nefe-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/post-tribune/ct-ptb-write-in-candidates-st-1114-20201113-sk3bd6noyjasrpo2pdvxq6nefe-story.html?outputType=amp",
-      "publishedDateTime": "2020-11-13T22:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-not-credible-michigan-court-ruling-another-legal-setback-for-president-trump.md",
-      "title": "'Not credible': Michigan court ruling another legal setback for President Trump",
-      "excerpt": "A Michigan judge has denied a petition to block the certification of the 2020 election results in the heavily Democratic county that is home to Detroit, another legal setback for the Trump campaign, which has similar cases in several states.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/credible-michigan-court-ruling-legal-setback-president-trump/story?id=74199110",
-      "originalUrl": "https://abcnews.go.com/Politics/credible-michigan-court-ruling-legal-setback-president-trump/story?id=74199110",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/counting-ballots-michigan-ap-jt-201113_1605303384179_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/credible-michigan-court-ruling-legal-setback-president-trump/story?id=74199110",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/credible-michigan-court-ruling-legal-setback-president-trump/story?id=74199110",
-      "publishedDateTime": "2020-11-13T18:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1305,5 +201,5 @@
       ]
     }
   ],
-  "nextPage": 32
+  "nextPage": null
 }

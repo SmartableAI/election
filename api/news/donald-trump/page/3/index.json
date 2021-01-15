@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-07-the-cybersecurity-202-the-trump-administration-formally-says-russia-is-likely-behind-solarwinds-hack-culprit-will-trump.md",
+      "title": "The Cybersecurity 202: The Trump administration formally says Russia is likely behind SolarWinds hack culprit. Will Trump?",
+      "excerpt": "The Trump administration formally accused Russia of “likely” being behind the most devastating hack of U.S. government agencies in years. The statement, made jointly by four agencies in charge of intelligence and cybersecurity,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/01/06/cybersecurity-202-trump-administration-formally-says-russia-is-likely-solarwinds-hack-culprit-will-trump/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/01/06/cybersecurity-202-trump-administration-formally-says-russia-is-likely-solarwinds-hack-culprit-will-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WHRXLUCPBMI6XIPV7WXSRT6KSA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/01/06/cybersecurity-202-trump-administration-formally-says-russia-is-likely-solarwinds-hack-culprit-will-trump/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/06/cybersecurity-202-trump-administration-formally-says-russia-is-likely-solarwinds-hack-culprit-will-trump/?outputType=amp",
+      "publishedDateTime": "2021-01-06T09:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-trump-biden-transition-live-updates-pence-told-trump-he-doesnt-have-power-to-reverse-election.md",
       "title": "Trump-Biden transition live updates: Pence told Trump he doesn't have power to reverse election",
       "excerpt": "During their weekly lunch Tuesday, Vice President Mike Pence told President Donald Trump he does not have the power to reverse the outcome of the November election when he preside",
@@ -1493,59 +1545,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-trumps-allies-are-rounding-on-lin-wood-after-he-tweeted-about-executing-mike-pence-and-arresting-mitch-mcconnell.md",
-      "title": "Trump's allies are rounding on Lin Wood after he tweeted about executing Mike Pence and arresting Mitch McConnell",
-      "excerpt": "Trump lawyer had posted a series of unhinged tweets saying the vice president should be arrested and executed over the 2020 election results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1",
-      "originalUrl": "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 469,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe87d0cedf8920018093c92?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp",
-      "publishedDateTime": "2021-01-03T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Donald Trump"
       ]
     }
   ],

@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Harris and Emhoff recall first date: 'It felt like we had known each other forever'"
+    excerpt: "Vice President-elect Kamala Harris and her husband Doug Emhoff recalled their first date in a rare joint interview with CNN's Abby Phillip, for a CNN special report airing Sunday on the barrier-breaking vice president and her historic career.\n    \n"
+    publishedDateTime: 2021-01-15T15:45:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mDur_6LEgIg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/kamala-harris-doug-emhoff-first-date-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/kamala-harris-doug-emhoff-first-date-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110145840-harris-emhoff-0812-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Meena Harris, Building That Brand"
     excerpt: "Kamala Harris’s niece is building her own empire with statement T-shirts. Just don’t define her by her family."
     publishedDateTime: 2021-01-09T10:00:00Z
@@ -63,38 +79,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/11/fashion/11Kamala-Vogue-1/11Kamala-Vogue-1-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Kamala Harris gains prominent new role thanks to Democrats' Senate majority"
-    excerpt: "Kamala Harris’s vice presidential portfolio was nebulous before last week. But thanks to Democrats’ upset victories in two Georgia Senate run-offs, Harris has unexpectedly earned a new title: Senate tie breaker."
-    publishedDateTime: 2021-01-10T12:00:00Z
-    webUrl: "https://www.politico.com/news/2021/01/10/kamala-harris-democrat-senate-majority-456910"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/10/kamala-harris-democrat-senate-majority-456910"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/10/kamala-harris-democrat-senate-majority-456910"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 133
-    images:
-      - url: "https://static.politico.com/b5/0a/a4786468485394b0c4c00fa489a5/210109-kamala-harris-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Could Kamala Harris invoke her Indian heritage by wearing a sari on inauguration day?"
-    excerpt: "Some believe Harris could use the garment as a healing gesture and a symbol of how the Biden-Harris administration intends to lead America and better represent minorities."
-    publishedDateTime: 2021-01-15T11:58:00Z
-    webUrl: "https://www.cnn.com/style/article/kamala-harris-sari-inauguration/index.html"
-    ampWebUrl: "https://www.cnn.com/style/amp/kamala-harris-sari-inauguration/index.html"
-    cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/kamala-harris-sari-inauguration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 128
-    images:
-      - url: "http://cdn.cnn.com/cnnnext/dam/assets/210108130544-02-kamala-harris-1124-file-super-tease.jpg"
-        width: 1100
-        height: 619
         isCached: true
   - title: "In photos: Vice President-elect Kamala Harris"
     excerpt: "US Sen. Kamala Harris will be the next vice president of the United States, CNN projects. She will be the first woman to hold the office. She will also be the nation's first Black and South Asian vice president."
