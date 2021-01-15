@@ -576,6 +576,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Rep. Steny Hoyer Gives Democrats' Closing Argument In Trump Impeachment: This Is A Sad Time"
+    excerpt: "Md., argued for the impeachment of President Donald Trump in a hearing on Jan. 13. Democrats are pursuing a quick second impeachment a week after Trump gave a speech they say incited insurrection. On Jan."
+    publishedDateTime: 2021-01-13T21:53:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/13/rep_steny_hoyer_gives_democrats_closing_argument_in_trump_impeachment_this_is_a_sad_time.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 55
+    images:
+      - url: "https://assets.realclear.com/images/53/532245.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Independent Panel: Donald Trump Refuted The Political System By Showing It For What It Is, This Is Why He Was Elected"
     excerpt: "Podcast host Tim Pool welcomes \"We Are Change\" host Luke Rudkowski and comedian Dave Smith to do a review of the Trump presidency from an independent perspective."
     publishedDateTime: 2021-01-13T19:08:00Z

@@ -1,32 +1,28 @@
 ---
 category: news
 title: "Analysis: Biden's $1.9 trillion rescue package offers bridge for hard-hit economy"
-excerpt: "U.S. President-elect Joe Biden's proposal to pour $1.9 trillion into a hobbled economy could lay the foundation for a surge in jobs and spending that many economists say is needed to avoid long-term damage from a record-breaking pandemic recession."
-publishedDateTime: 2021-01-15T05:54:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-stimulus-analysis/analysis-bidens-1-9-trillion-rescue-package-offers-bridge-for-hard-hit-economy-idUKKBN29J2ZB"
-webUrl: "https://www.reuters.com/article/us-usa-biden-stimulus-analysis/analysis-bidens-1-9-trillion-rescue-package-offers-bridge-for-hard-hit-economy-idUKKBN29J2ZB"
+excerpt: "(Reuters) - U.S. President-elect Joe Biden's proposal to pour $1.9 trillion into a hobbled economy could lay the foundation for a surge in jobs and spending that many economists say is needed to avoid long-term damage from a record-breaking pandemic recession."
+publishedDateTime: 2021-01-15T07:41:00Z
+originalUrl: "https://www.businessinsider.com/analysis-bidens-19-trillion-rescue-package-offers-bridge-for-hard-hit-economy-2021-1"
+webUrl: "https://www.businessinsider.com/analysis-bidens-19-trillion-rescue-package-offers-bridge-for-hard-hit-economy-2021-1"
+ampWebUrl: "https://www.businessinsider.com/analysis-bidens-19-trillion-rescue-package-offers-bridge-for-hard-hit-economy-2021-1?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/analysis-bidens-19-trillion-rescue-package-offers-bridge-for-hard-hit-economy-2021-1?amp"
 type: article
 quality: 100
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547848854&r=LYNXMPEH0D1PA&w=800"
-    width: 800
-    height: 533
-    isCached: true
 
 related:
   - title: "\"We have to act now\": Biden outlines economic rescue legislative package"
@@ -90,9 +86,9 @@ related:
         height: 543
         isCached: true
   - title: "Biden unveils plan to pump $1.9 trillion into pandemic-hit economy"
-    excerpt: "President-elect Joe Biden unveiled a $1.9 trillion stimulus package proposal on Thursday, saying in prime-time remarks that bold investment was needed to jump-start the economy and speed up the U.S. response to the coronavirus pandemic."
-    publishedDateTime: 2021-01-15T06:03:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN29J1B1"
+    excerpt: "President-elect Joe Biden outlined a $1.9 trillion stimulus package proposal on Thursday, saying bold investment was needed to jump-start the economy and accelerate the distribution of vaccines to bring the coronavirus under control."
+    publishedDateTime: 2021-01-15T07:03:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-stimulus/update-6-biden-unveils-plan-to-pump-19-trillion-into-pandemic-hit-economy-idUSL1N2JP30B"
     type: article
     provider:
       name: Reuters
@@ -120,6 +116,6 @@ related:
         height: 675
         isCached: true
 
-secured: "WOYYkDcsjsbrND/M1pi58Yc7zHxN6mq6JbUIrptkyMIFj0yYWZiXe6/5DHtMNO173S+JiDU3PDistZOJuJM/4miQtpUXXUoRt5DI+1mz9frKPtl861KLFuS/k+AzTVNUpDOgLxJoknCqtCVtY1GNvGPejcs6tvSzfOWiCWyMbLAMoUhJJqDGOQH4xfKuW9KuBKFfAlepQyjCm4Pb6jpzAoPB3jHkEYHvB/vEzPqsJQVwdooqaAcZ+3oDXFawUtHPSbrB8JhBUtrPG2XLmHttTTSc6gFwUJMhRFN8hPe0XjAfEHqcNCG50sR73kjHagL1zDmptsvqUBpfsxnITxdfCP5iTOtbQcwJHbz7shvw6nA=;wNuf5CeEOHuoKfUlBfNaYg=="
+secured: "84xMYaROkx1o4mcUAtxRTO9DjqwYU5YL0pkW/As8n7N6Veiw7Qe8gVF4/5gSMPLg9J9VOu43/usZ8aXjVzt4tbZy9ho2NFUxHBBA9eqZ3uOV+JGaPWMvj4s1oXQAgxmwttJeWIuapZrFkFrp/qGWYko4mWBNhRwoglqL7HLLGVY0NiX+YtEjQTO80idLVilnBIR2ff1Bm6K7iLwQhKwPs2F3MibAG1KkDPbJXUCn/hlKjn2TnjqJnxbT1odnAZJCNNXuER2y+U676PPmUxvLjPM2TK9BFKMeRJtQYk/e8Phkgq1WUARR2DMFSzmeBuRIhKL0UQ02E14Ek63LRjvgV6DPayrelPznLIiphFaRowg=;1Xnw4y7+NdtAm3GlIpudcQ=="
 ---
 

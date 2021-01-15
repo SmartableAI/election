@@ -1,28 +1,34 @@
 ---
 category: news
 title: "Poet Amanda Gorman, 22, will read at Biden inaugural"
-excerpt: "At age 22, poet Amanda Gorman, chosen to read at the inauguration of President-elect Joe Biden, already has a history of writing for official occasions."
-publishedDateTime: 2021-01-15T06:48:00Z
-originalUrl: "https://www.businessinsider.com/poet-amanda-gorman-22-will-read-at-biden-inaugural-2021-1"
-webUrl: "https://www.businessinsider.com/poet-amanda-gorman-22-will-read-at-biden-inaugural-2021-1"
-ampWebUrl: "https://www.businessinsider.com/poet-amanda-gorman-22-will-read-at-biden-inaugural-2021-1?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/poet-amanda-gorman-22-will-read-at-biden-inaugural-2021-1?amp"
+excerpt: "At age 22, poet Amanda Gorman, chosen to read at the inauguration of President-elect Joe Biden, already has a history of writing for official occasions. \"I have kind of stumbled upon this genre. It's been something I find a lot of emotional reward in,"
+publishedDateTime: 2021-01-15T06:36:00Z
+originalUrl: "https://abcnews.go.com/Entertainment/wireStory/poet-amanda-gorman-22-read-biden-inaugural-75269468"
+webUrl: "https://abcnews.go.com/Entertainment/wireStory/poet-amanda-gorman-22-read-biden-inaugural-75269468"
+ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/poet-amanda-gorman-22-read-biden-inaugural-75269468"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/poet-amanda-gorman-22-read-biden-inaugural-75269468"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s.abcnews.com/images/Entertainment/WireAP_d0b8bbd465694ada9281f14777396726_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Biden picks Samantha Power, former UN envoy, for US aid post"
@@ -72,6 +78,6 @@ related:
         height: 533
         isCached: true
 
-secured: "zwek0eUHTH2jdeoLS9f9f35wglob5T6HBJCVt1Xaa07pzveVBJoUryx+idjGto0nfwe7Iq7OSx9ad2GvTISg8CwYBkhABPr8+kUpOZs0CM9xlE0Kmyw8CkSFZl3UE6QncSv3HxmYqm3AsTAR8sFQ69LKw9EsFdXOoTAHQrjpXW8b1Rm8O6z05Tu6U6ctgJHIOi05kr873PUkRLSMGPJwAouo/HuavSuR7b78PJYOYOLBN/1FUa+pRuK0wng190XwOpWvCK6Zlpat15Rz7kW+jwlIAUFwLviZwMukK+bkwX9VObXEE/XmSwcPlYjqBDww7FiIm8/q06x+Ok9G1IM5tcOKmbLuKQN8Kig00xIRJis=;D2CiuvwVZThFSSNcI9sdOw=="
+secured: "MIp8b3hgyRwE3GYhufZyDcwPcTi+1TMVdCXVoPMa9IvBX71Jb+FJT6UOPhmGkG2X7BLngq7LMVv4CRgicFve7yt4hDuUMRlhP/jtrnyX0/wj8QTBkqpWMwrkWqeMT+Vz8woGOvhk8I4DN7GhUa+C/ES5bIGptyxpWu/gz8FdynBuJtlBAh9rrHs4AZioYluixp6VoYlhtS1jFGATmusitq5filcvbJk2uSKE/o+YwrBV6SG2S9jPC7pphb3tySZUx2Fr3Se+WYMuylpRau1ns9oBG4xdCOkRqsOCuIQFhM+LkLyVCMX9u+H0uM0avjtYJZRElJazpllLC26NI4+m4gbQQY0Mb7Kz6uwDP8gEykc=;nltGGFrsWyY7viLsy2d/SQ=="
 ---
 

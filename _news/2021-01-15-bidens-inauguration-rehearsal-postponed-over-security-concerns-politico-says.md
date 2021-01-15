@@ -3,8 +3,8 @@ category: news
 title: "Biden's inauguration rehearsal postponed over security concerns, Politico says"
 excerpt: "A rehearsal for U.S President-elect Joe Biden's inauguration scheduled for Sunday has been postponed because of security concerns, Politico reported late on Thursday, citing two people with knowledge of the decision."
 publishedDateTime: 2021-01-15T04:41:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-security/bidens-inauguration-rehearsal-postponed-over-security-concerns-politico-says-idUSKBN29K0A8?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-security/bidens-inauguration-rehearsal-postponed-over-security-concerns-politico-says-idUSKBN29K0A8?edition-redirect=ca"
+originalUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-security/rehearsal-for-bidens-inauguration-postponed-due-to-security-concerns-politico-idUSKBN29K0A8?WT.m"
+webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-security/rehearsal-for-bidens-inauguration-postponed-due-to-security-concerns-politico-idUSKBN29K0A8?WT.m"
 type: article
 quality: 101
 heat: -1
@@ -200,6 +200,6 @@ related:
         height: 680
         isCached: true
 
-secured: "HgbLb2PPsw9G2rtsqA9GspoJ8jVLcPvd190laa7n7jy9U0lidi92Pw8lNHTVGAGvJDYCP4q4n7V5hZMTClMuUgG8o53Q1NYeLndv6GhNpmQ8ysdohvtakQE062wFuoo9U+lMbUMX8CAut/LNPR3LAxeiI5P0GvMjguArLmvKN3k8QXOQi4cdP1oxhW89p6AFs3ah1MW4qy6qeXMMS47Y3yYXxzO0+ea+6vc/XNJEr1yDrn5YpKBTUkyVnJG7Q9U5izZEdGAIkgbwPEchV/aHXetOSQpnkyp2z2W7Jt6ECBAnp2X8+G8xmrIDFSBJBDBgc07ddq5xyQmtb+QVPbdrLP1hMjxxFqZ08ZqKBOtSsTM=;i9KXqozNALpPuuQDB+Avrg=="
+secured: "8G5Amb45fmxHmv6qa9cAeHcZ/wdnmQemJSGBodRDtIbnqTa+QmzMybbECNeMoseVOS8kxGVdtfcw0pIuUXQeDATZbcCQVNPUSRP6QRqhxnak1tYTTsR40/gaes8uAR7xnlrcsUXixa25H+d0QhcMIRc6KT0LhEzTGPQQykEid14ITjrrJqdqs41AUMBWrrJOZ3CRLO2VtgGpsS4ztimCuvcxdhhuiJD5gwwl3aABwl+Q17uoh3ofckCHXKG4m5x4HzcvIwPBwiplqp62wA9ZZYyFBTHADGO+F/rc8bjBjC6c6caY6WIfHcdGDM4KqasgS61Ob6UJedOOHynTEZqGjys4CldresEfzQxVtklk2dw=;+bQuDWGkkBtBKQEViwbE+Q=="
 ---
 

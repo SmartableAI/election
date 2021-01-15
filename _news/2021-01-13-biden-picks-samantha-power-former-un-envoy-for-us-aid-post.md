@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Poet Amanda Gorman, 22, will read at Biden inaugural"
+    excerpt: "At age 22, poet Amanda Gorman, chosen to read at the inauguration of President-elect Joe Biden, already has a history of writing for official occasions. \"I have kind of stumbled upon this genre. It's been something I find a lot of emotional reward in,"
+    publishedDateTime: 2021-01-15T06:36:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/poet-amanda-gorman-22-read-biden-inaugural-75269468"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/poet-amanda-gorman-22-read-biden-inaugural-75269468"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/poet-amanda-gorman-22-read-biden-inaugural-75269468"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_d0b8bbd465694ada9281f14777396726_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "President-elect Joe Biden to name Gary Gensler as U.S. SEC chair, sources say"
     excerpt: "Gary Gensler, a top financial regulator under the Obama administration, is expected to be named chair of the U.S. Securities and Exchange Commission."
     publishedDateTime: 2021-01-12T17:47:00Z
@@ -61,17 +77,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Poet Amanda Gorman, 22, will read at Biden inaugural"
-    excerpt: "At age 22, poet Amanda Gorman, chosen to read at the inauguration of President-elect Joe Biden, already has a history of writing for official occasions."
-    publishedDateTime: 2021-01-15T06:48:00Z
-    webUrl: "https://www.businessinsider.com/poet-amanda-gorman-22-will-read-at-biden-inaugural-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/poet-amanda-gorman-22-will-read-at-biden-inaugural-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/poet-amanda-gorman-22-will-read-at-biden-inaugural-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
 
 secured: "7YkcfDGuJRPoyPV/tsfODQMLVI4N6rsbedMoYNZYVllwrVn9QVazycbvGYBnLdALRc+AjcNsoSob3+8bSIveeHUwrwjflJTN7uKzd/OL65A5Wf8+xEPGAFoVLJD7mn/5cXYqDm0G4ESXA8u5BQRrfoxhUnlA6O9kHnN4Eprg3nSlVF2XSkVaoy3voC0yBWdOlYTdY7zRacKkEH9rCNsrHOPpNqUSDt17W4v26zy4Iv6dxwmF8v6mVWWqbKDABsMR/iBT6xLODXqUcRl8XwcQBN+zj0AxLzKhdp8xcEkRG+MQPGwVPeWIRcWfpIE7RdTVCu9xRDZmznHz4514vbcunKfuy/cvMS1MVnGYRgslPyI=;j4euz2KlOQaGa6yACRq8JA=="
 ---

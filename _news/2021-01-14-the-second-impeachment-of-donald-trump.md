@@ -144,6 +144,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Poll: Just 8 percent of Republicans support Trump's impeachment and removal"
+    excerpt: "Fifty percent of Americans overall agree the president should be impeached and removed for inciting Capitol riot, a new NBC News poll finds."
+    publishedDateTime: 2021-01-15T08:18:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/nbc-news-poll-voters-are-split-trump-s-impeachment-removal-n1254314"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254314"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254314"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3442146/210114-donald-trump-ew-336p_368b08310f4eb32a61c988ac9d247208.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "AOC: GOP lawmakers fearful of threats if they impeach Trump are privileged"
     excerpt: "Cortez said Wednesday that Republicans fearful of casting a vote to impeach President Donald Trump are privileged to not face more regular threats for their work on Capitol Hill. House Democrats have signaled in recent days that their Republican colleagues are fearful that a vote to impeach the president might incur threats against themselves and their families."
     publishedDateTime: 2021-01-13T18:53:00Z

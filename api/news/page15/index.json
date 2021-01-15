@@ -2,6 +2,63 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-12-24-california-conservatives-rebuke-trump-pardon-of-duncan-hunter.md",
+      "title": "California conservatives rebuke Trump pardon of Duncan Hunter",
+      "excerpt": "Trump granted a full pardon Tuesday to Hunter, who was set to begin an 11-month sentence at a federal prison in two weeks after pleading guilty to stealing campaign funds for personal use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/california/story/2020/12/23/california-conservatives-rebuke-trump-pardon-of-duncan-hunter-1350370",
+      "originalUrl": "https://www.politico.com/states/california/story/2020/12/23/california-conservatives-rebuke-trump-pardon-of-duncan-hunter-1350370",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/98/13/e2c9f1084e11a8d81236a705b9cb/191204-duncan-hunter-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-23T16:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-24-trump-pardons-former-campaign-chairman-paul-manafort.md",
       "title": "Trump pardons former campaign chairman Paul Manafort",
       "excerpt": "President Donald Trump has issued pardons and sentence commutations for 29 people, including former campaign chairman Paul Manafort and Charles Kushner, the father of his son-in-law",
@@ -1285,62 +1342,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-biden-says-our-darkest-days-in-battling-covid-19-are-ahead-of-us.md",
-      "title": "Biden says 'our darkest days' in battling Covid-19 'are ahead of us'",
-      "excerpt": "President-elect Joe Biden will deliver remarks ahead of Christmas in Wilmington, Delaware, on Tuesday afternoon.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YaoXO6KgJhI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YaoXO6KgJhI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201222145820-01-biden-holiday-remarks-1222-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/22/politics/biden-holiday-remarks/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/biden-holiday-remarks/index.html",
-      "publishedDateTime": "2020-12-22T12:49:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

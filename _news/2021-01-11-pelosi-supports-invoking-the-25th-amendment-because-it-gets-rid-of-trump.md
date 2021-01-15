@@ -568,6 +568,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Rep. Steny Hoyer Gives Democrats' Closing Argument In Trump Impeachment: This Is A Sad Time"
+    excerpt: "Md., argued for the impeachment of President Donald Trump in a hearing on Jan. 13. Democrats are pursuing a quick second impeachment a week after Trump gave a speech they say incited insurrection. On Jan."
+    publishedDateTime: 2021-01-13T21:53:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/13/rep_steny_hoyer_gives_democrats_closing_argument_in_trump_impeachment_this_is_a_sad_time.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 55
+    images:
+      - url: "https://assets.realclear.com/images/53/532245.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Trump Is Over? Not So Fast"
     excerpt: "During the Trump administration we saw nonstop attacks against Trump and his supporters. Democrats refused to cooperate in the transition of power, they forced a two year investigation that paralyzed the administration based on what they knew was fabricated information,"
     publishedDateTime: 2021-01-10T20:45:00Z
