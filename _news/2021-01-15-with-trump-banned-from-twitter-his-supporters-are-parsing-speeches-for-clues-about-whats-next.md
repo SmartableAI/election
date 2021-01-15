@@ -1622,6 +1622,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "U.S. judge says Bolton may probe whether White House delayed security aide’s memoir to protect Trump from embarrassment"
+    excerpt: "Justice Dept. seeks profits from “The Room Where it Happened”; court rules Bolton may not challenge whether manuscript contained classified information"
+    publishedDateTime: 2021-01-15T04:26:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/us-judge-says-bolton-may-probe-whether-white-house-delayed-security-aides-memoir-to-protect-trump-from-embarrassment/2021/01/14/04eae026-569e-11eb-a08b-f1381ef3d207_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/us-judge-says-bolton-may-probe-whether-white-house-delayed-security-aides-memoir-to-protect-trump-from-embarrassment/2021/01/14/04eae026-569e-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/us-judge-says-bolton-may-probe-whether-white-house-delayed-security-aides-memoir-to-protect-trump-from-embarrassment/2021/01/14/04eae026-569e-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 101
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VXVECLRQZQI6VICT3RWZIS5HOY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "People are once again calling for Twitter to suspend President Donald Trump's account as rioters breached the US Capitol"
     excerpt: "Actor Josh Gad is among those calling for Twitter to suspend President Trump's account as rioters storm the US Capitol."
     publishedDateTime: 2021-01-07T07:22:00Z
@@ -2693,6 +2709,6 @@ related:
         height: 392
         isCached: true
 
-secured: "GaZ3oKyf7KAOsbvvwNK9PFQFc/BHh5hkHXPSwSr5RErCo4UbiX1ho5ZAGjGKzW5gGQHoMVhDGsImB5u7LkeuoDA3rrYiohUpBFCekyTpXf2LH0ymaYKK12RZ71x1Z/vyRv00bYIfwzfxBEkktUW/a61uB0semZOTYnUq/R+2WsZ69D+GxConYeSSICh3sMwnjmYRMyWwg8VnoBtIo/f14DapiOy5sGSHXP5D/PHEwnQ8lIngZmP4KdP+939Ggc321K8zMNnqM3FgGPjhikG2YStypLFStPEI3LxPIGpx07p9MOIKBy1STU+cK3JK25z8iSm30NYlDjcw3lMUsOk6el7V4RvAF6720vIHoAUgGO4=;ZSjMFUO5U4BrBpo0FQhmww=="
+secured: "0T8aTNZC17/Ss92A4JbFR2tHtYrQbp8uP4df5U6YbmAoAxVnkFEjw+oz5rRFWE3j5QVYnKrLvgH3FzTZZ3Ual3+brkrg7sDQZo25wgD9nwnG1Pul9hkl4P+XdtuAbqIP6pMYFNBvv45jMy5e2OhLFZC+7KrXTX+WyF/cvKD/QuBEpODb+zuVX//dzeNjAt46hCNI2S6eROSbNn86IrCIVYG1+XRF8KzX/ECRzvsBp5DopSOhEEzuNt41MC0kM6RvVarJmAEYRCqe/B4P0wqRFTbGgwvN2qmxdVekLCUfgBSr23jkO40tDr+HE+fPAOTXZM+v4aSRzSMX+W45BtDq0QdeNBhtojHXWuuMN+iyx1XUGDpT9otMSY8f4C0OhiIzXOA6Gr+EDi23hXbwl6KQeG0yJ3QrgilN7Fmajc2sKHHuqhxhSyCd+pffJZsG9PbrgmtnwdEb0ipfPPpBqY67wmy0vxgWM4M1KAnU3M8BJp1s/9aAA2saT+jX6r61+fOfjIgFufNVPyn1Ul9JdVhLKg==;fAJmraDHqKDExg+SdYht+Q=="
 ---
 

@@ -2,6 +2,174 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-14-trumps-former-doctor-harold-bornstein-who-called-him-healthiest-president-ever-dies.md",
+      "title": "Trump's former doctor Harold Bornstein, who called him 'healthiest president ever,' dies",
+      "excerpt": "President Trump’s former personal physician, Dr. Harold Bornstein, who attested Trump was the \"healthiest president ever,\" died Thursday at 73. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y9VeiayM6YU/trumps-former-doctor-harold-bornstein-dies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y9VeiayM6YU/trumps-former-doctor-harold-bornstein-dies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Dr.-Harold-Bornstein.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trumps-former-doctor-harold-bornstein-dies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-former-doctor-harold-bornstein-dies.amp",
+      "publishedDateTime": "2021-01-14T10:23:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-dr-harold-bornstein-trumps-former-personal-physician-dead-at-73.md",
+      "title": "Dr. Harold Bornstein, Trump's former personal physician, dead at 73",
+      "excerpt": "Dr. Harold Bornstein, President Donald Trump's former personal physician, has died at the age of 73.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gen9j_Bui5w/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gen9j_Bui5w/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200902140930-dr-harold-bornstein-file-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/14/politics/harold-bornstein-donald-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/harold-bornstein-donald-trump/index.html",
+      "publishedDateTime": "2021-01-14T08:04:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-scalise-slams-dems-for-ratcheting-up-rhetoric-says-biden-should-call-for-end-to-impeachment-trial.md",
+      "title": "Scalise slams Dems for 'ratcheting up rhetoric,' says Biden should call for end to impeachment trial",
+      "excerpt": "House Minority Whip Steve Scalise, R-La., slammed his Democratic colleagues Thursday for ratcheting up the rhetoric by impeaching President Trump without an investigation as the nation struggles with division.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hdabdqdSg4U/trump-impeachment-democrats-rep-steve-scalise",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hdabdqdSg4U/trump-impeachment-democrats-rep-steve-scalise",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-impeachment-democrats-rep-steve-scalise.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-democrats-rep-steve-scalise.amp",
+      "publishedDateTime": "2021-01-14T07:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-silent-melania-trump-plods-toward-end-of-her-husbands-tumultuous-term.md",
       "title": "Silent Melania Trump plods toward end of her husband's tumultuous term",
       "excerpt": "Two days after his supporters rioted on Capitol Hill last week, President Donald Trump informed the world he would not be attending President-elect Joe Biden's inauguration.\n    \n",
@@ -878,7 +1046,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 899,
+      "heat": 919,
       "tags": null,
       "images": [
         {
@@ -1197,176 +1365,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-val-demings-encouraged-by-mcconnells-break-from-trump.md",
-      "title": "Val Demings ‘encouraged’ by McConnell’s break from Trump",
-      "excerpt": "Demings’ interview on Wednesday morning came as the House prepared to impeach Trump for a second time.  (D-Fla.) appeared more optimistic on Wednesday about the possibility of President Donald Trump being removed from office,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/01/13/val-demings-mitch-mcconnell-trump-458707",
-      "originalUrl": "https://www.politico.com/news/2021/01/13/val-demings-mitch-mcconnell-trump-458707",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/f7/1c/9672252e4cf4886c8123f827b6c2/210113-val-demings-gty-773.jpg",
-          "width": 700,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T05:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-biden-names-obama-era-un-ambassador-samantha-power-to-lead-usaid.md",
-      "title": "Biden names Obama-era UN ambassador Samantha Power to lead USAID",
-      "excerpt": "President-elect Joe Biden announced that former U.S. Ambassador to the United Nations Samantha Power will be his nominee for administrator of the United States Agency for International Development (USAID), a position that now will be added to the National Security Council.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KaszUox-O8g/biden-ambassador-samantha-power-usaid",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KaszUox-O8g/biden-ambassador-samantha-power-usaid",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2017/10/13/694940094001_5609044472001_5608987015001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-ambassador-samantha-power-usaid.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ambassador-samantha-power-usaid.amp",
-      "publishedDateTime": "2021-01-13T04:33:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-live-updates-house-moves-to-impeach-trump-for-incitement-of-insurrection-in-capitol-riot.md",
-      "title": "Live updates: House moves to impeach Trump for 'incitement of insurrection' in Capitol riot",
-      "excerpt": "The article of impeachment is expected to pass in the Democratic-controlled House, which would make Trump the first president in U.S.history to be impeached twice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/live-blog/2021-01-13-trump-impeachment-25th-amendment-n1253971",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/live-blog/2021-01-13-trump-impeachment-25th-amendment-n1253971",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_02/3441573/210113-impeachment-live-blog-main-cover-cs_16bb0697e79eeb180cea199979fe03f2.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1253971",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253971",
-      "publishedDateTime": "2021-01-13T04:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

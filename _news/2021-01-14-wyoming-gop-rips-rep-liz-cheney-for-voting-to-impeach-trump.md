@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/wyoming-gop-rips-rep-liz-cheney-vot
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wyoming-gop-rips-rep-liz-cheney-voting-impeach-trump.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 173
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d067b54f-fd1f-4a23-bc8a-88d213bf4d12/eaaf4d35-fe32-4385-888b-9cb60c7d82c1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Prospect for Trump acquittal unclear as most GOP senators undecided or won't say how they will vote"
+    excerpt: "President Trump's chances for an acquittal in his upcoming Senate impeachment trial are unclear, as most Republicans either refuse comment on how they will vote or say they are undecided."
+    publishedDateTime: 2021-01-15T03:51:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tNS-KIT3Yuk/gop-senators-refuse-to-comment-on-impeachment-with-just-13-outright-objecting-to-it"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-refuse-to-comment-on-impeachment-with-just-13-outright-objecting-to-it.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-refuse-to-comment-on-impeachment-with-just-13-outright-objecting-to-it.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1babb2c-3f92-40ea-b9ad-1012787a0478/ec177a63-ad3a-4703-8921-79cab860d659/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

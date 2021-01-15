@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/in-breaking-with-trump-pence-does-w
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/in-breaking-with-trump-pence-does-what-he-believes-in.amp"
 type: article
 quality: 199
-heat: 899
+heat: 919
 published: true
 
 provider:
@@ -475,6 +475,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/thumb-pence-nancy-split-1156p.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Democrats in Senate to Juggle Trump Impeachment Trial, Biden Agenda"
+    excerpt: "Covid-19 assistance and confirming nominees also demand attention as the incoming administration prepares to begin work."
+    publishedDateTime: 2021-01-15T04:37:00Z
+    webUrl: "https://www.wsj.com/articles/busy-senate-to-juggle-trump-impeachment-trial-biden-agenda-11610645139"
+    ampWebUrl: "https://www.wsj.com/amp/articles/busy-senate-to-juggle-trump-impeachment-trial-biden-agenda-11610645139"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/busy-senate-to-juggle-trump-impeachment-trial-biden-agenda-11610645139"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-285664/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump impeachment could dominate Biden’s early tenure, or be put on ice"
     excerpt: "The Senate trial of President Trump is threatening to overshadow the first month of President-elect Joe Biden’s administration — if it’s not, as some have suggested, tabled until"

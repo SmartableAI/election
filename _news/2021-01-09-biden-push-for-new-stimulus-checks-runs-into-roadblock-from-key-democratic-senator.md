@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Confirmation hearing postponed for Biden's intel chief pick"
+    excerpt: "A confirmation hearing for President-elect Joe Biden’s pick for national intelligence director has been postponed until next week"
+    publishedDateTime: 2021-01-15T03:56:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/confirmation-hearing-postponed-bidens-intel-chief-pick-75266598"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/confirmation-hearing-postponed-bidens-intel-chief-pick-75266598"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/confirmation-hearing-postponed-bidens-intel-chief-pick-75266598"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ae9f3ebe6cf34a0494b771a2e1f67cad_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Here's the lineup for President-elect Biden's inauguration ceremonies"
     excerpt: "The election of President-elect Biden and Vice President-elect Harris was historic and we know that many Americans would have wanted to attend the Inauguration in-person. At th"
     publishedDateTime: 2021-01-14T19:47:00Z

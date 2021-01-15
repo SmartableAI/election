@@ -1634,6 +1634,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "U.S. judge says Bolton may probe whether White House delayed security aide’s memoir to protect Trump from embarrassment"
+    excerpt: "Justice Dept. seeks profits from “The Room Where it Happened”; court rules Bolton may not challenge whether manuscript contained classified information"
+    publishedDateTime: 2021-01-15T04:26:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/us-judge-says-bolton-may-probe-whether-white-house-delayed-security-aides-memoir-to-protect-trump-from-embarrassment/2021/01/14/04eae026-569e-11eb-a08b-f1381ef3d207_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/us-judge-says-bolton-may-probe-whether-white-house-delayed-security-aides-memoir-to-protect-trump-from-embarrassment/2021/01/14/04eae026-569e-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/us-judge-says-bolton-may-probe-whether-white-house-delayed-security-aides-memoir-to-protect-trump-from-embarrassment/2021/01/14/04eae026-569e-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 101
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VXVECLRQZQI6VICT3RWZIS5HOY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "People are once again calling for Twitter to suspend President Donald Trump's account as rioters breached the US Capitol"
     excerpt: "Actor Josh Gad is among those calling for Twitter to suspend President Trump's account as rioters storm the US Capitol."
     publishedDateTime: 2021-01-07T07:22:00Z

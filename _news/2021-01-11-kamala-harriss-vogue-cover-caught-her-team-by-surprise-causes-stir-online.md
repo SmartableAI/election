@@ -185,6 +185,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "As Kamala Harris Makes History, Twitter Creates @SecondGentleman Account"
+    excerpt: "The microblogging platform will archive the Trump Administration's tweets, but a major dispute over Donald Trump's followers remains between the platform and President-elect Joe Biden."
+    publishedDateTime: 2021-01-15T04:41:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1708768/secondgentleman-douglas-emhoff-twitter-account-kamala-harris.jpg"
+        width: 2500
+        height: 1787
+        isCached: true
   - title: "Harris on Trump GA call before Senate runoff"
     excerpt: "Rough Cuts Harris on Trump GA call before Senate runoff. Posted . U.S. Vice President-elect Kamala Harris rallied supporters in Georgia on Sunday for Democratic Senate candidates"
     publishedDateTime: 2021-01-04T02:55:00Z

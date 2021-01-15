@@ -2,6 +2,167 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-09-meena-harris-building-that-brand.md",
+      "title": "Meena Harris, Building That Brand",
+      "excerpt": "Kamala Harris’s niece is building her own empire with statement T-shirts. Just don’t define her by her family.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/01/09/style/meena-harris-building-that-brand.html",
+      "originalUrl": "https://www.nytimes.com/2021/01/09/style/meena-harris-building-that-brand.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/10/fashion/10MEENACVR/10MEENACVR-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/01/09/style/meena-harris-building-that-brand.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/09/style/meena-harris-building-that-brand.amp.html",
+      "publishedDateTime": "2021-01-09T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-ap-interview-libyan-minister-hopes-for-support-from-biden.md",
+      "title": "AP interview: Libyan minister hopes for support from Biden",
+      "excerpt": "The powerful interior minister of Libya’s U.N.-backed government, seen as a contender for the post of prime minister, says he hopes that bringing stability to his war-torn country will become a top pr",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-09T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-twitter-permanently-suspends-trumps-account-to-prevent-further-incitement-of-violence.md",
+      "title": "Twitter permanently suspends Trump's account to prevent 'further incitement of violence'",
+      "excerpt": "Company determines two Friday tweets were ‘highly likely’ to encourage behavior like the storming of the Capitol",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/cb3085d44c438f92e1d27c124206000f7a1ef803/0_234_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84cd92c9ac7d53daa4a5f23201ca314d",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
+      "publishedDateTime": "2021-01-09T00:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-biden-says-cruz-hawley-part-of-big-lie-while-senators-claim-they-are-being-called-nazis.md",
       "title": "Biden says Cruz, Hawley part of ‘big lie’ -- while senators claim they are being called Nazis",
       "excerpt": "President-elect Joe Biden said Friday that Sens. Ted Cruz, R-Texas, and Josh Hawley, R-Mo., should be \"flat beaten\" in their next elections for their part in spreading \"the big lie,\" a term the senators said was an effort to cast them as Nazis. ",
@@ -178,7 +339,7 @@
       "originalUrl": "https://www.cbsnews.com/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -1194,170 +1355,6 @@
         "Election",
         "Democratic Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-trumps-education-secretary-betsy-devos-submits-resignation.md",
-      "title": "Trump's Education Secretary Betsy DeVos submits resignation",
-      "excerpt": "Education Secretary Betsy DeVos has submitted her resignation, making her the second Cabinet member to resign over President Donald Trump's response to the mob breaching the US Capitol on Wednesday, according to an official.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UG9z9ULq440/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UG9z9ULq440/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200723155730-betsy-devos-may-19-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/07/politics/betsy-devos-donald-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/betsy-devos-donald-trump/index.html",
-      "publishedDateTime": "2021-01-07T18:33:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-haley-tells-gop-not-to-shy-away-from-trump-era-gains-but-calls-his-recent-conduct-deeply-disappointing.md",
-      "title": "Haley tells GOP not to ‘shy away’ from Trump-era gains, but calls his recent conduct 'deeply disappointing'",
-      "excerpt": "Former U.N. Ambassador Nikki Haley on Thursday hailed the “extraordinary gains” for the United States during President Trump’s time in office and warned Republicans not to “shy away” from them -- while at the same time calling his post-Election Day conduct “deeply disappointing.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CuZvPr02aUA/haley-gop-trump-era-gains-conduct-disappointing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CuZvPr02aUA/haley-gop-trump-era-gains-conduct-disappointing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5850a575-b1ba-40c2-b8ec-86539591b249/df0f5648-1d79-460c-aad0-95e350db5c48/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/haley-gop-trump-era-gains-conduct-disappointing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-gop-trump-era-gains-conduct-disappointing.amp",
-      "publishedDateTime": "2021-01-07T18:29:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-double-standard-biden-black-lawmakers-and-activists-decry-police-response-to-attack-on-us-capitol.md",
-      "title": "'Double standard': Biden, Black lawmakers and activists decry police response to attack on US Capitol",
-      "excerpt": "Civil rights leaders blasted police for their response to an attack on the U.S. Capitol compared to clashes between Black Lives protesters and police.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2021/01/06/us-capitol-attack-compared-response-black-lives-matter-protests/6570528002/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2021/01/06/us-capitol-attack-compared-response-black-lives-matter-protests/6570528002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/05/30/PDTF/e5dbb82d-76b3-405a-803b-293b966f51bc-05292020_detprotest_jh-36.jpg?auto=webp&crop=2399,1350,x0,y122&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6570528002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6570528002",
-      "publishedDateTime": "2021-01-07T17:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

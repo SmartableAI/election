@@ -671,6 +671,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden taps Lisa Monaco as homeland security adviser to inauguration amid rising threats "
+    excerpt: "President-elect Joe Biden has asked Lisa Monaco, his deputy attorney general nominee, to temporarily step away from those duties and serve as a homeland security adviser to his inauguration team, a Biden transition official said, a sign that the rising security concerns demand high-level coordination.\n"
+    publishedDateTime: 2021-01-15T04:23:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ANv1pCQ0Jlk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/joe-biden-lisa-monaco-inauguration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/joe-biden-lisa-monaco-inauguration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119232007-lisa-monaco-nov-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Senate postpones first confirmation hearing for crucial position in Biden administration "
+    excerpt: "The first confirmation hearing for a crucial position in the Biden administration has been postponed.\n    \n"
+    publishedDateTime: 2021-01-15T04:41:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kv8bHyxrwC4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/avril-haines-confirmation-hearing-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/avril-haines-confirmation-hearing-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124135447-avril-haines-biden-admin-1124-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to make final decision on attorney general, with new arguments for Yates and Garland"
     excerpt: "President-elect Joe Biden is poised to make a final decision in the coming days on his pick for attorney general, a choice that suddenly comes amid a growing sense of optimism from Democrats that their party will control the Senate and will be able to easily confirm the incoming president's Cabinet nominations.\n"
     publishedDateTime: 2021-01-06T14:54:39Z

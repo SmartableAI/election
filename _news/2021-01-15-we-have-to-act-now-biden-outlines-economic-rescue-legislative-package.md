@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-relief-vaccination-pack
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-relief-vaccination-package-live-stream-today-2021-01-14/"
 type: article
 quality: 124
-heat: 284
+heat: 244
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
         width: 799
         height: 543
         isCached: true
-  - title: "Trudeau expects Biden to re-engage U.S. on world stage"
-    excerpt: "Reuters Next Trudeau expects Biden to re-engage U.S. on world stage. Posted . Canada and other U.S. allies are looking to President-elect Joe Biden to re-engage on the world stage"
-    publishedDateTime: 2021-01-14T17:54:00Z
-    webUrl: "https://www.reuters.com/video/watch/trudeau-expects-biden-to-re-engage-us-on-id724248082"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210114&i=OVDV6MGV3&r=OVDV6MGV3&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Analysis: Biden's $1.9 trillion rescue package offers bridge for hard-hit economy"
     excerpt: "U.S. President-elect Joe Biden's proposal to pour $1.9 trillion into a hobbled economy could lay the foundation for a surge in jobs and spending that many economists say is needed to avoid long-term damage from a record-breaking pandemic recession."
     publishedDateTime: 2021-01-14T23:40:00Z
@@ -116,22 +102,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547848854&r=LYNXMPEH0D1PA&w=800"
         width: 800
         height: 533
-        isCached: true
-  - title: "Joe Biden to put $2,000 stimulus payments back in play"
-    excerpt: "A $2,000 stimulus check is expected to be included in a $2 trillion Covid relief plan that President-elect Joe Biden is set to unveil Thursday evening."
-    publishedDateTime: 2021-01-14T19:37:00Z
-    webUrl: "https://www.mercurynews.com/2021/01/14/joe-biden-to-put-2000-stimulus-payments-back-in-play/"
-    ampWebUrl: "https://www.mercurynews.com/2021/01/14/joe-biden-to-put-2000-stimulus-payments-back-in-play/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/14/joe-biden-to-put-2000-stimulus-payments-back-in-play/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_ad793e75d7fd1554dbfdd1f821b34130-h_c29915ef82a3712aba7cb18c0e0e4d22.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Joe Biden unveiling ‘American Rescue Plan,’ a $1.9T stimulus to stem COVID-19 and steady the economy"
     excerpt: "President-elect Joe Biden is unveiling a $1.9 trillion coronavirus plan Thursday to turn the tide on the pandemic, speeding up the vaccine rollout and providing financial help to individuals, states and local governments and businesses struggling with the prolonged economic fallout."

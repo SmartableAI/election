@@ -2,6 +2,176 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-13-val-demings-encouraged-by-mcconnells-break-from-trump.md",
+      "title": "Val Demings ‘encouraged’ by McConnell’s break from Trump",
+      "excerpt": "Demings’ interview on Wednesday morning came as the House prepared to impeach Trump for a second time.  (D-Fla.) appeared more optimistic on Wednesday about the possibility of President Donald Trump being removed from office,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/01/13/val-demings-mitch-mcconnell-trump-458707",
+      "originalUrl": "https://www.politico.com/news/2021/01/13/val-demings-mitch-mcconnell-trump-458707",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/f7/1c/9672252e4cf4886c8123f827b6c2/210113-val-demings-gty-773.jpg",
+          "width": 700,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T05:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-biden-names-obama-era-un-ambassador-samantha-power-to-lead-usaid.md",
+      "title": "Biden names Obama-era UN ambassador Samantha Power to lead USAID",
+      "excerpt": "President-elect Joe Biden announced that former U.S. Ambassador to the United Nations Samantha Power will be his nominee for administrator of the United States Agency for International Development (USAID), a position that now will be added to the National Security Council.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KaszUox-O8g/biden-ambassador-samantha-power-usaid",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KaszUox-O8g/biden-ambassador-samantha-power-usaid",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2017/10/13/694940094001_5609044472001_5608987015001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-ambassador-samantha-power-usaid.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ambassador-samantha-power-usaid.amp",
+      "publishedDateTime": "2021-01-13T04:33:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-live-updates-house-moves-to-impeach-trump-for-incitement-of-insurrection-in-capitol-riot.md",
+      "title": "Live updates: House moves to impeach Trump for 'incitement of insurrection' in Capitol riot",
+      "excerpt": "The article of impeachment is expected to pass in the Democratic-controlled House, which would make Trump the first president in U.S.history to be impeached twice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/congress/live-blog/2021-01-13-trump-impeachment-25th-amendment-n1253971",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/live-blog/2021-01-13-trump-impeachment-25th-amendment-n1253971",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_02/3441573/210113-impeachment-live-blog-main-cover-cs_16bb0697e79eeb180cea199979fe03f2.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1253971",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253971",
+      "publishedDateTime": "2021-01-13T04:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-house-passes-measure-calling-on-pence-to-remove-trump.md",
       "title": "House passes measure calling on Pence to remove Trump",
       "excerpt": "The House on Tuesday passed legislation calling on Vice President Pence to tap his Constitutional authority to remove President Trump from office in response to the president’s role in the deadly mob attack on the Capitol last week.",
@@ -10,7 +180,7 @@
       "originalUrl": "https://thehill.com/homenews/house/533955-house-passes-bill-calling-on-pence-to-remove-trump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3700,
+      "heat": 3720,
       "tags": null,
       "images": [
         {
@@ -1193,166 +1363,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-forbes-op-ed-warns-companies-about-hiring-fabulists-from-trump-administration.md",
-      "title": "Forbes op-ed warns companies about hiring 'fabulists' from Trump administration",
-      "excerpt": "Canceling anyone who was associated with Trump is not going to unite the country, Kelsey Bolar responded",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/981wbizaUoA/forbes-op-ed-warns-companies-hiring-fabulists-trump-administration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/981wbizaUoA/forbes-op-ed-warns-companies-hiring-fabulists-trump-administration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/forbes-op-ed-warns-companies-hiring-fabulists-trump-administration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/forbes-op-ed-warns-companies-hiring-fabulists-trump-administration.amp",
-      "publishedDateTime": "2021-01-12T07:34:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-trump-dropped-by-biggest-lender-deutsche-bank-for-future-business-nyt.md",
-      "title": "Trump dropped by biggest lender Deutsche Bank for future business: NYT",
-      "excerpt": "Deutsche Bank will not do business in the future with U.S. President Donald Trump or his companies in the wake of his supporters' assault on the U.S. Capitol, the New York Times reported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-deutsche-bank/trump-dropped-by-biggest-lender-deutsche-bank-for-future-business-nyt-idUSKBN29H0PM",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-deutsche-bank/trump-dropped-by-biggest-lender-deutsche-bank-for-future-business-nyt-idUSKBN29H0PM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547458224&r=LYNXMPEH0B0CB&w=800",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T06:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-berkeley-parents-to-stage-sit-in-for-reopening-schools-at-kamala-harris-old-elementary-school.md",
-      "title": "Berkeley parents to stage 'sit-in' for reopening schools at Kamala Harris' old elementary school",
-      "excerpt": "The sit-in is framed by advocates for reopening schools as a call against \"discrimination in the access of education in California.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/bayarea/article/Berkeley-parents-sit-in-Kamala-Harris-elementary-15864609.php",
-      "originalUrl": "https://www.houstonchronicle.com/bayarea/article/Berkeley-parents-sit-in-Kamala-Harris-elementary-15864609.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/16/05/13/20468433/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/biden-says-impeachment-is-a-judgmen
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -140,6 +140,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547574508&r=LYNXMPEH0C05S&w=800"
         width: 800
         height: 577
+        isCached: true
+  - title: "Biden's inauguration rehearsal postponed over security concerns, Politico says"
+    excerpt: "A rehearsal for U.S President-elect Joe Biden's inauguration scheduled for Sunday has been postponed because of security concerns, Politico reported late on Thursday, citing two people with knowledge of the decision."
+    publishedDateTime: 2021-01-15T04:41:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-security/bidens-inauguration-rehearsal-postponed-over-security-concerns-politico-says-idUSKBN29K0A8?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547869722&r=LYNXMPEH0E05D&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "Walmart suspends contributions to U.S. lawmakers who opposed Biden certification"
     excerpt: "Walmart Inc , the world's biggest retailer, joined other major companies in indefinitely suspending donations to U.S. lawmakers who voted against President-elect Joe Biden's election certification."

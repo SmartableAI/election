@@ -1691,6 +1691,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump-Biden transition live updates: Trump defense team uncertain ahead of trial"
+    excerpt: "Live updates during the transition from the Trump to Biden administrations -- and from the second Trump impeachment."
+    publishedDateTime: 2021-01-15T04:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-transition-trump-biden-impeachment/?id=75166132"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden-impeachment/?id=75166132"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden-impeachment/?id=75166132"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 135
+    images:
+      - url: "https://s.abcnews.com/images/General/joe-biden-01-gty-llr-210114_1610670422129_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Pence affirms Biden as winner, formalizing electoral count after day of riots at Capitol; Trump prepares for exit"
     excerpt: "Trump early Thursday for the first time acknowledged he will depart the White House Jan. 20 and said there would be an “orderly transition” of power."
     publishedDateTime: 2021-01-07T20:14:00Z

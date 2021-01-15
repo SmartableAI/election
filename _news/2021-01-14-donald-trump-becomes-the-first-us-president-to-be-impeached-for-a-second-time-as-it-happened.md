@@ -143,6 +143,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "With Trump impeached, Democrats turn focus toward GOP 'accomplices' in Capitol siege"
+    excerpt: "A week after rioters stormed the U.S. Capitol, investigators are trying to determine if the biggest threat to lawmakers that day emanated from within Congress itself."
+    publishedDateTime: 2021-01-15T04:51:00Z
+    webUrl: "https://abcnews.go.com/US/trump-impeached-democrats-turn-focus-gop-accomplices-capitol/story?id=75259158"
+    ampWebUrl: "https://abcnews.go.com/amp/US/trump-impeached-democrats-turn-focus-gop-accomplices-capitol/story?id=75259158"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-impeached-democrats-turn-focus-gop-accomplices-capitol/story?id=75259158"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/US/capitol-siege-congress-sheltering-ap-jef-210114_1610664843825_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "LIVE: House prepares to impeach Trump for 'incitement of insurrection' over deadly Capitol siege"
     excerpt: "Multiple Republicans will break ranks to join Democrats in impeaching Trump for the second time. He unleashed a frenzied mob on the Capitol last week."
     publishedDateTime: 2021-01-13T14:18:00Z

@@ -1686,6 +1686,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump-Biden transition live updates: Trump defense team uncertain ahead of trial"
+    excerpt: "Live updates during the transition from the Trump to Biden administrations -- and from the second Trump impeachment."
+    publishedDateTime: 2021-01-15T04:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-transition-trump-biden-impeachment/?id=75166132"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden-impeachment/?id=75166132"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-transition-trump-biden-impeachment/?id=75166132"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 135
+    images:
+      - url: "https://s.abcnews.com/images/General/joe-biden-01-gty-llr-210114_1610670422129_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Trump-Biden transition live updates: House approves boosting stimulus checks to $2K"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 23 days. The House narrowly passed a bill that would increase the amount of money Americans receive in a second round of pandemic relief stimulus payments to $2,"
     publishedDateTime: 2020-12-29T00:34:00Z

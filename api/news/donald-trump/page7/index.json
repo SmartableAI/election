@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-14-how-the-deep-state-scientists-vilified-by-trump-helped-him-deliver-an-unprecedented-achievement.md",
+      "title": "How the ‘deep state’ scientists vilified by Trump helped him deliver an unprecedented achievement",
+      "excerpt": "A $14-billion partnership between government and industry is spurring the quickest vaccine development in U.S. history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/",
+      "originalUrl": "https://www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LPMJUBR5JQI6XNMLCYR7MJTZMA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/12/14/trump-operation-warp-speed-vaccine/?outputType=amp",
+      "publishedDateTime": "2020-12-14T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-trumps-conspiracies-pose-existential-threat-to-electronic-voting-industry-smartmatic.md",
       "title": "Trump's conspiracies pose 'existential' threat to electronic voting industry -Smartmatic",
       "excerpt": "Conspiracy theories about how voting machines were used to stop the re-election of Donald Trump have not just sapped Americans' faith in the democratic process - they also pose an existential threat to the market for electronic voting systems worldwide,",
@@ -1515,58 +1567,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-trump-lawyer-rudy-giuliani-receiving-same-covid-drugs-as-president.md",
-      "title": "Trump lawyer Rudy Giuliani receiving same Covid drugs as president",
-      "excerpt": "President Donald Trump's personal lawyer, Rudy Giuliani, has revealed in a call to his own radio show that he is being treated for coronavirus with the same drug cocktail his boss received when he was ill with Covid-19. He was admitted to hospital on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-55243581",
-      "originalUrl": "https://www.bbc.com/news/world-55243581",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13426/production/_115968887_tv064232199.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/world-55243581",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-55243581",
-      "publishedDateTime": "2020-12-09T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
