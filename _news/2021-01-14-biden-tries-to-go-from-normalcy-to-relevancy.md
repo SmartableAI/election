@@ -31,85 +31,163 @@ images:
     isCached: true
 
 related:
-  - title: "Biden announces William Burns for CIA director"
-    excerpt: "President-elect Joe Biden announced Ambassador William Burns as his nominee for director of the CIA on Monday."
-    publishedDateTime: 2021-01-11T11:57:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z7AdeLJYzGc/biden-william-burns-cia-director"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-william-burns-cia-director.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-william-burns-cia-director.amp"
+  - title: "Biden advised against dismissing all of Trump’s foreign policy achievements in China"
+    excerpt: "A new on U.S. national security says it would be a mistake to ignore the outgoing administration’s foreign policy in the aftermath of last week’s riot in Washington D.C."
+    publishedDateTime: 2021-01-15T01:25:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cezZBRjhmyY/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements"
+    ampWebUrl: "https://www.foxnews.com/politics/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5960cbca-be06-41d8-b7c0-22ec824ae73b/849844c6-d797-457a-bae7-1a00a360bd22/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Article of impeachment against Trump to be introduced Monday in House"
+    excerpt: "Rep. Ted Lieu, D-Calif., said Saturday that the House had reached 180 co-sponsors for an Article of Impeachment against President Trump, and the chamber would introduce the measure on Monday. "
+    publishedDateTime: 2021-01-09T20:47:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BN1avJc5Pa0/article-of-impeachment-trump-january-11-house"
+    ampWebUrl: "https://www.foxnews.com/politics/article-of-impeachment-trump-january-11-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/article-of-impeachment-trump-january-11-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011418120691-e1610366107225.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "If Biden halts border wall, it could cost taxpayers billions, CBP chief warns"
-    excerpt: "President-elect Joe Biden is promising that border wall building won't continue under his administration, but with hundreds of miles under construction, the head of Customs and Border Protection (CBP) is warning that shutting down construction could cost taxpayers billions."
-    publishedDateTime: 2021-01-09T22:25:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QQ7UW30u_NQ/biden-border-taxpayers-billions-cbp"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-border-taxpayers-billions-cbp.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-taxpayers-billions-cbp.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cb36dbe-eada-4977-abd7-6669263e1345/a159a8e6-35c5-4f32-aa31-c8e2af9ce0ae/1280x720/match/image.jpg"
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/09/26/694940094001_6089811276001_6089809166001-vs.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Lindsey Graham praises Biden's CIA director nominee: 'I have known him for years'"
-    excerpt: "Sen. Lindsey Graham, R-S.C., praised President-elect Joe Biden's nominee for CIA director on Monday."
-    publishedDateTime: 2021-01-12T12:52:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/am7GBZVDoNU/bill-burns-biden-cabinet-lindsey-graham"
-    ampWebUrl: "https://www.foxnews.com/politics/bill-burns-biden-cabinet-lindsey-graham.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-burns-biden-cabinet-lindsey-graham.amp"
+  - title: "Second Trump impeachment draws bipartisan support"
+    excerpt: "The House voted 232-197 to impeach the president with support from ten Republicans."
+    publishedDateTime: 2021-01-13T21:58:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GxXfFrCs4f0/second-trump-impeachment-draws-bipartisan-support"
+    ampWebUrl: "https://www.foxnews.com/politics/second-trump-impeachment-draws-bipartisan-support.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/second-trump-impeachment-draws-bipartisan-support.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011418120691-e1610366107225.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "China says Biden represents 'new window of hope' for relations with US"
-    excerpt: "China believes President-elect Joe Biden represents a \"new window of hope\" for the country's relationship with the United States."
-    publishedDateTime: 2021-01-05T13:43:00Z
-    webUrl: "https://www.foxnews.com/world/china-biden-new-window-hope"
-    ampWebUrl: "https://www.foxnews.com/world/china-biden-new-window-hope.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/china-biden-new-window-hope.amp"
+  - title: "The Hitchhiker’s Guide to Impeaching President Trump on Wednesday"
+    excerpt: "For the first time since 1798, the House of Representatives plans a second impeachment against an American government official."
+    publishedDateTime: 2021-01-13T04:29:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/prmP_gzORG0/the-hitchhikers-guide-to-impeaching-president-trump-on-wednesday"
+    ampWebUrl: "https://www.foxnews.com/politics/the-hitchhikers-guide-to-impeaching-president-trump-on-wednesday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-hitchhikers-guide-to-impeaching-president-trump-on-wednesday.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/RTX-joe-biden-xi-jinping.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "These House Republicans support Trump's impeachment"
+    excerpt: "A handful of House Republicans have said they will vote to impeach President Trump on Wednesday."
+    publishedDateTime: 2021-01-13T14:16:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SGHH9w30YNw/republicans-support-trump-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-support-trump-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-support-trump-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b04a1cd-ebd0-4814-9278-b3e36538afc6/4c57c8e2-8f61-4223-986a-e6350b9859f6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Clyburn suggests 14th Amendment could bar Trump from holding office again"
+    excerpt: "House Majority Whip James Clyburn, D-S.C., told Fox News Wednesday that President Trump should be legally prevented from holding elected office again as the House impeached him for an unprecedented second time. "
+    publishedDateTime: 2021-01-13T23:10:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yv6aGsntoTE/clyburn-bar-trump-holding-office-under-14th-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/clyburn-bar-trump-holding-office-under-14th-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clyburn-bar-trump-holding-office-under-14th-amendment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f3569b7d-9926-4c81-ba4f-09cb727ebd76/7c0377cb-daae-4590-a25e-0a3976224e26/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Petition calls for U of Michigan regent to resign for not blaming Trump over Capitol riot"
+    excerpt: "University of Michigan Regent Ron Weiser has been called \"complicit\" in last week’s storming of the U.S. Capitol by the writers of an online petition that calls for his resignation after he failed to place blame on President Trump."
+    publishedDateTime: 2021-01-14T09:24:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kHw1uG5baQU/petition-calls-for-u-of-michigan-regent-to-resign-for-not-blaming-trump-over-riot"
+    ampWebUrl: "https://www.foxnews.com/politics/petition-calls-for-u-of-michigan-regent-to-resign-for-not-blaming-trump-over-riot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/petition-calls-for-u-of-michigan-regent-to-resign-for-not-blaming-trump-over-riot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21014048876326.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden Chooses Veteran Diplomat Burns as CIA Director"
-    excerpt: "WASHINGTON (AP)  President-elect Joe Biden announced Monday he has chosen veteran diplomat William Burns to be his CIA director. A former ambassador"
-    publishedDateTime: 2021-01-11T14:06:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.amp.html"
+  - title: "Manchin calls second Trump impeachment bid 'ill-advised': 'Let the judicial system do its job'"
+    excerpt: "House Democrats' attempt to impeach President Trump for a second time in connection with last week's riot at the U.S. Capitol is \"so ill-advised,\" Sen. Joe Manchin, D-W.Va. told \"Special Report\" Monday. "
+    publishedDateTime: 2021-01-12T00:20:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tPoWs5d64p8/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course"
+    ampWebUrl: "https://www.foxnews.com/politics/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56961609-b75a-4b4d-886f-7cf6225d0872/1929b563-4df0-450f-8d3f-4e0c35becc7f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "FBI internal memo warns of plans for armed protests in all 50 state capitals ahead of Biden inauguration"
+    excerpt: "An internal FBI memo is warning of plans for armed protests in all 50 state capital cities ahead of President-elect Joe Biden’s Inauguration, Fox News has learned."
+    publishedDateTime: 2021-01-11T20:30:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9R-VWkImoHA/fbi-internal-memo-warns-of-plans-for-armed-protests-in-all-50-state-capitals-ahead-of-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/fbi-internal-memo-warns-of-plans-for-armed-protests-in-all-50-state-capitals-ahead-of-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-internal-memo-warns-of-plans-for-armed-protests-in-all-50-state-capitals-ahead-of-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden Flings a Slew of Inflammatory Race-Tinged Lies"
+    excerpt: "As President Trump denounced the violence in he Capitol and called for peace and order, Joe Biden had a different idea: Attacking President Trump. And pinning the racism tag on the cops. This is what happened."
+    publishedDateTime: 2021-01-09T13:45:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/09/biden_flings_a_slew_of_inflammatory_race-tinged_lies_533032.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 85
+    quality: 65
     images:
-      - url: "https://assets.realclear.com/images/53/531962_5_.jpg"
+      - url: "https://assets.realclear.com/images/53/531874_5_.jpg"
         width: 750
-        height: 501
+        height: 500
         isCached: true
 
 secured: "mqimWhbaAytmi9ZTjkkZ+NBmoSsfuMPdvEYv9XWuIyRW3CAtRah8ukhBJwF+6ThZqJugX1lDw2Pnipf7sKNPtA63/i8zRAQV4xqmhaaRxjufgOMkdOjpKOpyWLSLkjoVUEakzvsUFOl7UDDlD+U2Nsc42blaOh4Ljn/xIxtqnXmVzWldlKg7ehRtLX6XIUGwCA/SyFLFZGBYJkRhEPWpU68DEx9p5PSF28nt9Rm7siZsZe4EEZXbeAkF5bJoRnikIHmF/VLI2PxE7DtRXfungf+wcW9pepIIgR8ccJbsueVT+itveLj7/oMslpySg5xXLnahuWAQsw7ECMcYANouEGllLWoGApDtddd/iseFmXQ=;PGjkQsWhh6/cpHMYah43QQ=="

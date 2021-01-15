@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Pelosi: Will impeach if cabinet won’t oust Trump"
-    excerpt: "This comes as top officials leave over Trump misconduct."
-    publishedDateTime: 2021-01-07T20:03:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mh2iHot3Spw/pelosi-will-impeach-if-cabinet-wont-oust-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont-oust-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont-oust-trump.amp"
+  - title: "Biden advised against dismissing all of Trump’s foreign policy achievements in China"
+    excerpt: "A new on U.S. national security says it would be a mistake to ignore the outgoing administration’s foreign policy in the aftermath of last week’s riot in Washington D.C."
+    publishedDateTime: 2021-01-15T01:25:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cezZBRjhmyY/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements"
+    ampWebUrl: "https://www.foxnews.com/politics/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 183
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Ilhan Omar says Trump 'will be impeached'"
-    excerpt: "Rep. Ilhan Omar, D-Minn., vowed on Friday that President Trump would be impeached after this week's riots, which have prompted widespread criticism of the president and his rhetoric following November's election."
-    publishedDateTime: 2021-01-08T21:33:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N3eIvLRm9mQ/ilhan-omar-trump-impeached"
-    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-trump-impeached.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-trump-impeached.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cabbd5c8-5261-4e94-9550-81c691405868/20c9113c-d0de-48ab-ae7d-c9f0afd4d1cd/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5960cbca-be06-41d8-b7c0-22ec824ae73b/849844c6-d797-457a-bae7-1a00a360bd22/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -79,179 +63,131 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Rep. Adam Schiff says Trump must go, backs second impeachment"
-    excerpt: "House Intelligence Committee Chairman Adam Schiff joined a growing list of lawmakers on both sides of the aisle calling for President Trump's removal."
-    publishedDateTime: 2021-01-09T17:16:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/grHNELR7304/rep-schiff-joins-push-to-impeach-trump-a-second-time"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-schiff-joins-push-to-impeach-trump-a-second-time.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-schiff-joins-push-to-impeach-trump-a-second-time.amp"
+  - title: "Second Trump impeachment draws bipartisan support"
+    excerpt: "The House voted 232-197 to impeach the president with support from ten Republicans."
+    publishedDateTime: 2021-01-13T21:58:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GxXfFrCs4f0/second-trump-impeachment-draws-bipartisan-support"
+    ampWebUrl: "https://www.foxnews.com/politics/second-trump-impeachment-draws-bipartisan-support.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/second-trump-impeachment-draws-bipartisan-support.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Cheney, Katko first House Republicans to back Trump impeachment"
-    excerpt: "House GOP Conference Chairwoman Liz Cheney of Wyoming and Rep. John Katko of New York are planning to support Democrats' effort to impeach President Trump after last week's riots at the U.S. Capitol, Fox News has confirmed."
-    publishedDateTime: 2021-01-12T23:17:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DSDUHKWo4UE/john-katko-cheney-gop-impeachment"
-    ampWebUrl: "https://www.foxnews.com/politics/john-katko-cheney-gop-impeachment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-katko-cheney-gop-impeachment.amp"
+  - title: "These House Republicans support Trump's impeachment"
+    excerpt: "A handful of House Republicans have said they will vote to impeach President Trump on Wednesday."
+    publishedDateTime: 2021-01-13T14:16:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SGHH9w30YNw/republicans-support-trump-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-support-trump-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-support-trump-impeachment.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b04a1cd-ebd0-4814-9278-b3e36538afc6/4c57c8e2-8f61-4223-986a-e6350b9859f6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden tries to go from normalcy to relevancy"
+    excerpt: "Biden found the best way in was to promise to just be cool... Will it be enough?"
+    publishedDateTime: 2021-01-14T20:23:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KN4cyx7tScE/biden-tries-to-go-from-normalcy-to-relevancy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tries-to-go-from-normalcy-to-relevancy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tries-to-go-from-normalcy-to-relevancy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Pro-Trump protesters storm Pelosi's office, take over Senate chamber at US Capitol"
-    excerpt: "Thousands of pro-Trump protesters stormed the U.S. Capitol on Wednesday, vandalizing House Speaker Nancy Pelosi’s office and both congressional chambers."
-    publishedDateTime: 2021-01-06T22:42:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WTxiRdEaxDc/pro-trump-protestors-storm-pelosi-office-senate-chamber-us-capitol"
-    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-protestors-storm-pelosi-office-senate-chamber-us-capitol.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-protestors-storm-pelosi-office-senate-chamber-us-capitol.amp"
+  - title: "Clyburn suggests 14th Amendment could bar Trump from holding office again"
+    excerpt: "House Majority Whip James Clyburn, D-S.C., told Fox News Wednesday that President Trump should be legally prevented from holding elected office again as the House impeached him for an unprecedented second time. "
+    publishedDateTime: 2021-01-13T23:10:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yv6aGsntoTE/clyburn-bar-trump-holding-office-under-14th-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/clyburn-bar-trump-holding-office-under-14th-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clyburn-bar-trump-holding-office-under-14th-amendment.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32855443-767d-4b96-861e-e053b799308b/df486f77-b285-4a08-a896-558037ce44aa/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f3569b7d-9926-4c81-ba4f-09cb727ebd76/7c0377cb-daae-4590-a25e-0a3976224e26/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Gingrich: Pelosi-led Trump impeachment effort driven by 'fear' he could win in 2024"
-    excerpt: "Newt Gingrich criticized House Speaker Nancy Pelosi on Tuesday for pushing to impeach President Trump for a second time"
-    publishedDateTime: 2021-01-12T20:24:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z0FiwdbeTV8/gingrich-pelosi-led-impeachment-effort-fear-trump-could-win-in-2024"
-    ampWebUrl: "https://www.foxnews.com/politics/gingrich-pelosi-led-impeachment-effort-fear-trump-could-win-in-2024.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-pelosi-led-impeachment-effort-fear-trump-could-win-in-2024.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d9cd6ea-fe7a-48b7-a5d6-0e1e51f21fe1/ef4e6bb5-9ef3-4b03-adc8-b5d9bb6cedc8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pelosi denounces Trump as 'clear and present danger' in impeachment push: 'He must go'"
-    excerpt: "House Speaker Nancy Pelosi called on members of Congress to impeach President Trump on Wednesday, accusing him of being a danger to the republic who needed to be removed."
-    publishedDateTime: 2021-01-13T18:44:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ekuda9AxUIg/pelosi-trump-impeachment-speech-clear-and-present-danger-he-must-go"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-trump-impeachment-speech-clear-and-present-danger-he-must-go.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-trump-impeachment-speech-clear-and-present-danger-he-must-go.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Nancy-Pelosi-Trump-impeachment-speech-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Andy McCarthy: Trump’s conduct is impeachable, but impeachment trial should not be rushed"
-    excerpt: "Former U.S. Attorney Andy McCarthy says Trump’s statements leading up to the Capitol riot could be considered “impeachable conduct,” but he is cautioning Congress against speeding through impeachment proceedings."
-    publishedDateTime: 2021-01-13T17:28:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rPfad0PzY94/andy-mccarthy-trumps-conduct-impeachable-impeachment-trial-rushed"
-    ampWebUrl: "https://www.foxnews.com/politics/andy-mccarthy-trumps-conduct-impeachable-impeachment-trial-rushed.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/andy-mccarthy-trumps-conduct-impeachable-impeachment-trial-rushed.amp"
+  - title: "Petition calls for U of Michigan regent to resign for not blaming Trump over Capitol riot"
+    excerpt: "University of Michigan Regent Ron Weiser has been called \"complicit\" in last week’s storming of the U.S. Capitol by the writers of an online petition that calls for his resignation after he failed to place blame on President Trump."
+    publishedDateTime: 2021-01-14T09:24:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kHw1uG5baQU/petition-calls-for-u-of-michigan-regent-to-resign-for-not-blaming-trump-over-riot"
+    ampWebUrl: "https://www.foxnews.com/politics/petition-calls-for-u-of-michigan-regent-to-resign-for-not-blaming-trump-over-riot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/petition-calls-for-u-of-michigan-regent-to-resign-for-not-blaming-trump-over-riot.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 166
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2468eb0b-ba0f-4671-bea4-383fa1b857d2/87bcd4b3-50ce-49bf-aa00-ae3de8dc5d86/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21014048876326.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Pelosi says lawmakers moving forward with impeachment, calls Trump 'imminent threat' to 'our Democracy'"
-    excerpt: "House Speaker Nancy Pelosi on Sunday said the House will be moving forward with a resolution to impeach Donald Trump, whom she referred to in a letter to her colleagues as an “imminent threat” to both the U.S. Constitution and Democracy."
-    publishedDateTime: 2021-01-11T00:19:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RyA_THk6cvQ/pelosi-says-lawmakers-moving-forward-with-impeachment-calls-trump-imminent-threat-to-our-democracy"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-says-lawmakers-moving-forward-with-impeachment-calls-trump-imminent-threat-to-our-democracy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-says-lawmakers-moving-forward-with-impeachment-calls-trump-imminent-threat-to-our-democracy.amp"
+  - title: "Manchin calls second Trump impeachment bid 'ill-advised': 'Let the judicial system do its job'"
+    excerpt: "House Democrats' attempt to impeach President Trump for a second time in connection with last week's riot at the U.S. Capitol is \"so ill-advised,\" Sen. Joe Manchin, D-W.Va. told \"Special Report\" Monday. "
+    publishedDateTime: 2021-01-12T00:20:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tPoWs5d64p8/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course"
+    ampWebUrl: "https://www.foxnews.com/politics/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 163
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01f558dd-ed80-4f8f-ade4-1085f537ea56/6028a5a7-09d8-4664-8310-c4520818986e/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56961609-b75a-4b4d-886f-7cf6225d0872/1929b563-4df0-450f-8d3f-4e0c35becc7f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Pressure on Pelosi to send Trump impeachment to Senate as Schumer, McConnell, trade barbs over next steps"
-    excerpt: "House Speaker Nancy Pelosi hasn't indicated when she will send the latest article of impeachment against President Trump to the Senate even as House Majority Leader Steny Hoyer, her chief deputy, publicly advocates that the article be sent \"as soon as possible.\""
-    publishedDateTime: 2021-01-14T12:27:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IQpLoJlLblU/unclear-when-pelosi-will-send-trump-impeachment-to-senate-as-schumer-mcconnell-trade-barbs-over-next-steps"
-    ampWebUrl: "https://www.foxnews.com/politics/unclear-when-pelosi-will-send-trump-impeachment-to-senate-as-schumer-mcconnell-trade-barbs-over-next-steps.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/unclear-when-pelosi-will-send-trump-impeachment-to-senate-as-schumer-mcconnell-trade-barbs-over-next-steps.amp"
+  - title: "FBI internal memo warns of plans for armed protests in all 50 state capitals ahead of Biden inauguration"
+    excerpt: "An internal FBI memo is warning of plans for armed protests in all 50 state capital cities ahead of President-elect Joe Biden’s Inauguration, Fox News has learned."
+    publishedDateTime: 2021-01-11T20:30:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9R-VWkImoHA/fbi-internal-memo-warns-of-plans-for-armed-protests-in-all-50-state-capitals-ahead-of-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/fbi-internal-memo-warns-of-plans-for-armed-protests-in-all-50-state-capitals-ahead-of-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-internal-memo-warns-of-plans-for-armed-protests-in-all-50-state-capitals-ahead-of-biden-inauguration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 158
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Speaker Pelosi names Rep. Eric Swalwell among Trump impeachment managers"
-    excerpt: "Rep. Eric Swalwell has been named as one of nine impeachment managers announced to before the Senate in President Trump’s second impeachment tria"
-    publishedDateTime: 2021-01-13T02:43:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5P7cbimHuU/speaker-pelosi-eric-swalwell-trump-impeachment-managers"
+  - title: "Biden Flings a Slew of Inflammatory Race-Tinged Lies"
+    excerpt: "As President Trump denounced the violence in he Capitol and called for peace and order, Joe Biden had a different idea: Attacking President Trump. And pinning the racism tag on the cops. This is what happened."
+    publishedDateTime: 2021-01-09T13:45:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/09/biden_flings_a_slew_of_inflammatory_race-tinged_lies_533032.html#!"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 154
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/AP19347606405768.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "New Trump impeachment? Top Democrats show no interest in 'Squad' push"
-    excerpt: "A renewed interest in impeaching President Trump from members of the so-called \"Squad\" is not catching on among top House Democrats."
-    publishedDateTime: 2021-01-05T15:50:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005034498345-e1609858170240.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Republican Voters Oppose Trump Impeachment as Some Lawmakers Seek Distance"
-    excerpt: "Some GOP lawmakers such as Rep. Nancy Mace of South Carolina have publicly criticized the president over the attack on the Capitol."
-    publishedDateTime: 2021-01-14T18:13:00Z
-    webUrl: "https://www.wsj.com/articles/republican-voters-stick-by-trump-as-some-lawmakers-seek-distance-11610629997"
-    ampWebUrl: "https://www.wsj.com/amp/articles/republican-voters-stick-by-trump-as-some-lawmakers-seek-distance-11610629997"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republican-voters-stick-by-trump-as-some-lawmakers-seek-distance-11610629997"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 133
-    images:
-      - url: "https://images.wsj.net/im-284917/social"
-        width: 1280
-        height: 640
+      - url: "https://assets.realclear.com/images/53/531874_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "YKCx2hvwlB+pEYtnQg8qO9dnNX/SuWCoQtfo2sd/FBXlpNTP1FFZBqWCHDNN9Zm8YT1Pvg570ZoQcYS5nOjhmrafUIP6PCYDhR+x4GS5mDzMGC9mucnc9Z3Ge4fhMylEOXI8tdw1N5bgN/+yrwC3Ws47JZ9RL21gpBqRs1vEBMxL9G7wLHaJQ5BKLlebUZLaM5VdNpYJT6kAf2htUqdivtkvljUEW5tP3QW3IQH1ZLxxgjVrLJbXUNuJuu+5t5psuXco4ODOJB8J6JgRUpHcHm/dVRVAIkMiuMQSmJTFjL9E9VzllyUAsbJyNTgdXH0J7toDYlc6RYR3hnnkHfrrlj2ogDmWRikQy+6Ol52HgHg=;KQJIYyiBSn/zyogv1kmfjQ=="

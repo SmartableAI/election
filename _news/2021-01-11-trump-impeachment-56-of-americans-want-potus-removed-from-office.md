@@ -1527,8 +1527,8 @@ related:
         isCached: true
   - title: "Second Trump impeachment trial takes U.S. into uncharted waters"
     excerpt: "America will be in uncharted territory when the U.S. Senate meets as soon as next week for the second impeachment trial of Donald Trump, a case against the outgoing president that one Democrat preparing for arguments called \"shockingly evident."
-    publishedDateTime: 2021-01-15T00:54:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/bitter-senate-impeachment-trial-of-trump-could-bog-down-bidens-first-days-idUSKBN29J1B6"
+    publishedDateTime: 2021-01-15T02:14:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump/wrapup-3-u-s-in-uncharted-waters-in-unprecedented-second-impeachment-of-trump-idUSL1N2JP075"
     type: article
     provider:
       name: Reuters
@@ -1550,6 +1550,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Trump extends protection measures for U.S. washer makers"
+    excerpt: "President Donald Trump on Thursday issued a proclamation to extend measures meant to safeguard U.S. producers of large residential washers from import competition."
+    publishedDateTime: 2021-01-15T02:01:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-washers/trump-extends-protection-measures-for-u-s-washer-makers-idUSKBN29J2SD?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547836161&r=LYNXMPEH0D1KA&w=800"
+        width: 800
+        height: 564
+        isCached: true
   - title: "Wis. congressman unsure Trump to blame for riot"
     excerpt: "Wisconsin’s newest member of Congress says he doesn't know if President Donald Trump was to blame for inciting the riot at the U.S. Capitol and wants a full investigation to find out what motivated the mob."
     publishedDateTime: 2021-01-14T20:40:00Z
@@ -2201,6 +2215,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DT6VHYBHPRAPRAV66HY2PTTM3Y.PNG"
         width: 1034
         height: 564
+        isCached: true
+  - title: "D.C. attorney general seeks to interview Donald Trump Jr. on inauguration funds"
+    excerpt: "The D.C. attorney general's office said Thursday it requested to interview Donald Trump Jr. as part of its investigation into the Presidential Inaugural Committee's alleged misuse of non-profit funds."
+    publishedDateTime: 2021-01-15T02:08:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/14/DC-attorney-general-seeks-to-interview-Donald-Trump-Jr-on-inauguration-funds/6401610666115/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/14/DC-attorney-general-seeks-to-interview-Donald-Trump-Jr-on-inauguration-funds/6401610666115/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/14/DC-attorney-general-seeks-to-interview-Donald-Trump-Jr-on-inauguration-funds/6401610666115/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 71
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6401610666115/2021/1/2c460360f32fa2d889fa9d067e4439d7/v1.5/DC-attorney-general-seeks-to-interview-Donald-Trump-Jr-on-inauguration-funds.jpg"
+        width: 800
+        height: 532
         isCached: true
   - title: "Trump Impeachment Trial to Focus on His Attacks on Election"
     excerpt: "President Donald Trump’s historic second impeachment could go to trial as soon as Inauguration Day, with U.S. senators serving not only as jurors but as shaken personal witnesses and victims of the deadly siege of the Capitol by a mob of his supporters."

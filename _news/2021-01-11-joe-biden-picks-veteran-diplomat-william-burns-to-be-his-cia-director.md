@@ -89,6 +89,17 @@ related:
         width: 800
         height: 571
         isCached: true
+  - title: "Jill Biden to name director for military families program"
+    excerpt: "Days before Joe Biden becomes president, incoming first lady Jill Biden is taking a step toward fulfilling a campaign promise to revive a support program for military families that she once led with former first lady Michelle Obama."
+    publishedDateTime: 2021-01-15T01:39:00Z
+    webUrl: "https://www.businessinsider.com/jill-biden-to-name-director-for-military-families-program-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/jill-biden-to-name-director-for-military-families-program-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jill-biden-to-name-director-for-military-families-program-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "O6MfoHHlTRWKVIBhA3jHOMa8QTuUk4tPoQ6BRpSgP+9t5sHpyFYxmOCZzE/9OKhRf/ZIBPk4IiX/oBVBCW1+WexPGCf0yhN9WEfB5NUAuF2yukabpR9oRTkc+Gv5DAUt4sOCzthB/PduA/ANDZuaU+1NmGA2Hg/DwXtYSBMqdJv9UU/f1z4LIQUuShijTJmt8iNgVFPrBZV3J+lY4GgE8qlK6IpAus4BhkLIB0MhUXzMQsMzumG6mCIFZA46v35XYi1z0Hq0HUWI7FlIxEsu28J4lKAVdcRPCsT27vGLdcMdIlEKFumBHOCM/EaPXtVJwFzBoKYA0wS4DYynk2HWxzTw4rCMpop6ao+xrwxmjqeYmMTSSD06fmKNlRsODal77zU0A6upGxKISB5P3FGNwaBIFIk6+1+IkRTlPuP9/r4fSmE/arIKLUi6gcaYELcAFPuu1L3gfHpXOfZy7WFs7KfcwQH/dMXXVzD07OfE7cdnpEOCH2uHh/1QCljdSJiF3rwQhd+y2I1UGrUNAZ+dkw==;u1lp+a5VS6H5+elgAgXtLw=="
 ---

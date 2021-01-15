@@ -31,131 +31,163 @@ images:
     isCached: true
 
 related:
-  - title: "Google, Microsoft, Verizon on Biden Inauguration Committee donor list"
-    excerpt: "Google, Microsoft, and Verizon are among President-elect Joe Biden's Inauguration Committee donors."
-    publishedDateTime: 2021-01-10T16:59:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u0gqqBSjynQ/google-microsoft-verizon-biden-inauguration-committee"
-    ampWebUrl: "https://www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp"
+  - title: "Biden advised against dismissing all of Trump’s foreign policy achievements in China"
+    excerpt: "A new on U.S. national security says it would be a mistake to ignore the outgoing administration’s foreign policy in the aftermath of last week’s riot in Washington D.C."
+    publishedDateTime: 2021-01-15T01:25:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cezZBRjhmyY/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements"
+    ampWebUrl: "https://www.foxnews.com/politics/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5960cbca-be06-41d8-b7c0-22ec824ae73b/849844c6-d797-457a-bae7-1a00a360bd22/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Article of impeachment against Trump to be introduced Monday in House"
+    excerpt: "Rep. Ted Lieu, D-Calif., said Saturday that the House had reached 180 co-sponsors for an Article of Impeachment against President Trump, and the chamber would introduce the measure on Monday. "
+    publishedDateTime: 2021-01-09T20:47:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BN1avJc5Pa0/article-of-impeachment-trump-january-11-house"
+    ampWebUrl: "https://www.foxnews.com/politics/article-of-impeachment-trump-january-11-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/article-of-impeachment-trump-january-11-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/00e79b30-AP21006762088029.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/09/26/694940094001_6089811276001_6089809166001-vs.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Secret Service to begin Biden inauguration security operations Jan. 13"
-    excerpt: "The Secret Service will begin security operations on Jan. 13 for President-elect Joe Biden’s Inauguration— days earlier than originally planned in wake of last week’s Capitol riot."
-    publishedDateTime: 2021-01-11T22:04:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ZxH5yFXHSY/secret-service-biden-inauguration-security-jan-13"
-    ampWebUrl: "https://www.foxnews.com/politics/secret-service-biden-inauguration-security-jan-13.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/secret-service-biden-inauguration-security-jan-13.amp"
+  - title: "Second Trump impeachment draws bipartisan support"
+    excerpt: "The House voted 232-197 to impeach the president with support from ten Republicans."
+    publishedDateTime: 2021-01-13T21:58:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GxXfFrCs4f0/second-trump-impeachment-draws-bipartisan-support"
+    ampWebUrl: "https://www.foxnews.com/politics/second-trump-impeachment-draws-bipartisan-support.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/second-trump-impeachment-draws-bipartisan-support.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden: 'Not afraid' to take oath outside amid inauguration security concerns"
-    excerpt: "President-elect Joe Biden says he’s “not afraid” to take the oath of office outside during his inauguration next week."
-    publishedDateTime: 2021-01-11T20:24:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yBbMG1YspiY/inauguration-security-concerns-biden-not-afraid-oath-outside"
-    ampWebUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
+  - title: "The Hitchhiker’s Guide to Impeaching President Trump on Wednesday"
+    excerpt: "For the first time since 1798, the House of Representatives plans a second impeachment against an American government official."
+    publishedDateTime: 2021-01-13T04:29:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/prmP_gzORG0/the-hitchhikers-guide-to-impeaching-president-trump-on-wednesday"
+    ampWebUrl: "https://www.foxnews.com/politics/the-hitchhikers-guide-to-impeaching-president-trump-on-wednesday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-hitchhikers-guide-to-impeaching-president-trump-on-wednesday.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Former DHS Secretary Wolf: 'Every trust and confidence' Biden inauguration will be secured"
-    excerpt: "Former Acting Homeland Secretary Chad Wolf praised the security measures around President-elect Joe Biden's inauguration next week in the wake of last week's deadly Capitol riots."
-    publishedDateTime: 2021-01-14T16:41:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pdKb9k6VJYo/former-dhs-secretary-wolf-confidence-biden-inauguration-secured"
-    ampWebUrl: "https://www.foxnews.com/politics/former-dhs-secretary-wolf-confidence-biden-inauguration-secured.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-dhs-secretary-wolf-confidence-biden-inauguration-secured.amp"
+  - title: "These House Republicans support Trump's impeachment"
+    excerpt: "A handful of House Republicans have said they will vote to impeach President Trump on Wednesday."
+    publishedDateTime: 2021-01-13T14:16:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SGHH9w30YNw/republicans-support-trump-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-support-trump-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-support-trump-impeachment.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed13c8e8-7f56-4ed9-8fea-026027498e79/37ee0fa3-df46-444c-b4d0-43eb1ac81ddb/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b04a1cd-ebd0-4814-9278-b3e36538afc6/4c57c8e2-8f61-4223-986a-e6350b9859f6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden: 'Not afraid' to take oath outside amid inauguration security concerns"
-    excerpt: "President-elect Joe Biden says he’s “not afraid” to take the oath of office outside during his inauguration next week."
-    publishedDateTime: 2021-01-11T20:32:00Z
-    webUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside"
-    ampWebUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
+  - title: "Biden tries to go from normalcy to relevancy"
+    excerpt: "Biden found the best way in was to promise to just be cool... Will it be enough?"
+    publishedDateTime: 2021-01-14T20:23:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KN4cyx7tScE/biden-tries-to-go-from-normalcy-to-relevancy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tries-to-go-from-normalcy-to-relevancy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tries-to-go-from-normalcy-to-relevancy.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 132
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011684189408.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Clyburn suggests 14th Amendment could bar Trump from holding office again"
+    excerpt: "House Majority Whip James Clyburn, D-S.C., told Fox News Wednesday that President Trump should be legally prevented from holding elected office again as the House impeached him for an unprecedented second time. "
+    publishedDateTime: 2021-01-13T23:10:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yv6aGsntoTE/clyburn-bar-trump-holding-office-under-14th-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/clyburn-bar-trump-holding-office-under-14th-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clyburn-bar-trump-holding-office-under-14th-amendment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f3569b7d-9926-4c81-ba4f-09cb727ebd76/7c0377cb-daae-4590-a25e-0a3976224e26/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Petition calls for U of Michigan regent to resign for not blaming Trump over Capitol riot"
+    excerpt: "University of Michigan Regent Ron Weiser has been called \"complicit\" in last week’s storming of the U.S. Capitol by the writers of an online petition that calls for his resignation after he failed to place blame on President Trump."
+    publishedDateTime: 2021-01-14T09:24:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kHw1uG5baQU/petition-calls-for-u-of-michigan-regent-to-resign-for-not-blaming-trump-over-riot"
+    ampWebUrl: "https://www.foxnews.com/politics/petition-calls-for-u-of-michigan-regent-to-resign-for-not-blaming-trump-over-riot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/petition-calls-for-u-of-michigan-regent-to-resign-for-not-blaming-trump-over-riot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21014048876326.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Joe Biden’s Inauguration: When Is It, and How Has the Covid-19 Pandemic Changed It?"
-    excerpt: "President-elect Joe Biden will be sworn into office on Jan. 20 in a scaled-down inauguration that will look different from past years because of the coronavirus pandemic."
-    publishedDateTime: 2021-01-04T19:28:00Z
-    webUrl: "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 129
-    images:
-      - url: "https://images.wsj.net/im-280273/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "George W. Bush will attend Biden inauguration to witness 'peaceful transfer of power'"
-    excerpt: "Former President George W. Bush and former first lady Laura Bush will attend President-elect Joe Biden’s inauguration in Washington D.C. later this month."
-    publishedDateTime: 2021-01-06T03:40:00Z
-    webUrl: "https://www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power"
-    ampWebUrl: "https://www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp"
+  - title: "Manchin calls second Trump impeachment bid 'ill-advised': 'Let the judicial system do its job'"
+    excerpt: "House Democrats' attempt to impeach President Trump for a second time in connection with last week's riot at the U.S. Capitol is \"so ill-advised,\" Sen. Joe Manchin, D-W.Va. told \"Special Report\" Monday. "
+    publishedDateTime: 2021-01-12T00:20:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tPoWs5d64p8/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course"
+    ampWebUrl: "https://www.foxnews.com/politics/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 128
+    quality: 163
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7800ea58-ed83-49bd-bb53-646cbf3599ea/9d505cad-ce21-49db-9435-b8f5d876bd5a/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56961609-b75a-4b4d-886f-7cf6225d0872/1929b563-4df0-450f-8d3f-4e0c35becc7f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "American Airlines relocates crews, halts alcohol service on DC flights before Biden inauguration"
-    excerpt: "American Airlines is beefing up security measures ahead of Inauguration Day, increasing staffing in Washington, D.C., and relocating crews to hotels closer to airports."
-    publishedDateTime: 2021-01-14T19:40:00Z
-    webUrl: "https://www.foxnews.com/lifestyle/american-airlines-will-relocate-crews-from-dc-wont-serve-alcohol-on-dc-flights-during-inauguration-week"
+  - title: "Biden Flings a Slew of Inflammatory Race-Tinged Lies"
+    excerpt: "As President Trump denounced the violence in he Capitol and called for peace and order, Joe Biden had a different idea: Attacking President Trump. And pinning the racism tag on the cops. This is what happened."
+    publishedDateTime: 2021-01-09T13:45:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/09/biden_flings_a_slew_of_inflammatory_race-tinged_lies_533032.html#!"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 102
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AmericanAirlinesFromInsideIstock.jpg"
-        width: 1280
-        height: 721
+      - url: "https://assets.realclear.com/images/53/531874_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "O7cuTM7Z+AqZKMFYh+wl1eNES1nIoH7IlTSTv98MEzho9iWuCCDcI2L2t9ibC2Xfsvn05c2VB3UF6L/rc00cZ9YhXEsMP7hOvbML1L2SQE24/2YyQFLKsefjwq7gGXOkwtM3fl/hhTHb8X7+bOAMjEAoJUCcybYvQgixUjUBhEIM3YpvZfU6GQ2AYgJ6rWl4un/hRYYibGsSV8S6aeiqksCAOV8GcZFBaMSMRmdUep62h7ggixVzZ4bj7VrVVbihbCW+UbnFkWiYz5kBWGrOs9rENZl09I3GabM/nv/NgV94iwsRxL1Dsn1zONX4njHVu4jfeE+s4XR1bP6Rmcl8b30S2ADbTd1EtInES2Er3G4=;bTFnScg1yJRBP1A/iiPFaA=="

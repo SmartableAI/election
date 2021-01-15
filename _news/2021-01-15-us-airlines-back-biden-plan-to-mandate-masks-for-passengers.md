@@ -2,9 +2,9 @@
 category: news
 title: "U.S. airlines back Biden plan to mandate masks for passengers"
 excerpt: "A group representing major U.S. airlines on Thursday backed President-elect Joe Biden's plan to mandate face coverings for all air passengers, but asked him to give them flexibility in enforcing it."
-publishedDateTime: 2021-01-14T20:22:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-transportation-biden/u-s-airlines-back-biden-plan-to-mandate-masks-for-passengers-idUSKBN29J2NI?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/us-usa-transportation-biden/u-s-airlines-back-biden-plan-to-mandate-masks-for-passengers-idUSKBN29J2NI?edition-redirect=ca"
+publishedDateTime: 2021-01-15T01:29:00Z
+originalUrl: "https://www.reuters.com/article/usa-transportation-biden/update-2-us-airlines-back-biden-plan-to-mandate-masks-for-passengers-idUSL1N2JP2FN"
+webUrl: "https://www.reuters.com/article/usa-transportation-biden/update-2-us-airlines-back-biden-plan-to-mandate-masks-for-passengers-idUSL1N2JP2FN"
 type: article
 quality: 105
 heat: -1
@@ -94,6 +94,6 @@ related:
         height: 693
         isCached: true
 
-secured: "ED1rr5tpflIE35p8NU5CJIr4Lk5K/yPm+kKID29K9tQ/8Ul540z0vTC1Ew8fgBeOq4OMkS7EzlIrs5fZPfjeOi4fCyGFUV/MLs27mlnOV8ZT/sbjxRL19yA4eDNLKBNQX5TC7Re65NvH/fBCUYuu93jitcGX1D8VZ6IElgSA8Z0aEzPFn6Twcq64SMK5HVkM1f+XGYWmnkmEAeQAsmf/EwmKaOPwTyJ4aqxwVZ4hA/AHg0dB5W+8DVl0j/nh/pxZ6fLH/6EAgGcFl6zPc1qXOtWPSQZxQOWS5B9bHApYEBSkFUGkD16EC8vil5Qs+WqBMTDZ//R4d4uyi5w14zFYkXMfB/bdLiAQ78WB1AAepV4=;jxANXLAnRwJ/MiZI1qgP9g=="
+secured: "I8I2ZhY6ooQoeu57Sjnh4LKVQu+Jo5De1IKRvH3XjLbkqymEjIvc0StFVFD6xFnWIqmoMswSsTys86rLDi8fYObY+3eivOUjUthbDNGNS9NITTJlg2MRDxdQL7Y0Z1TrZORqNXFCFWfltmM8tJ/uPTufaQXJNWK/Ab+Ekqx6lMF1yaPJWKb2q8YKmgyJu7I3C9ykzyHQrKaKvZTqj41RwVc4L0v+hSvdGs2QTYofxp4eGl93zmphgibRJ41PZhblG8PwzPanLSwu4P7NHN9N5Mkv/Yh9Gk4Rln4TNY0lrB2DV8Ly8kS4bMxPb8LmJsMH3k/KdlWM1sLX7Z0NyekJDAq8DOvXUb8b0d2yLXTpBBA=;fHccEK3+Caw4fNUbGNS+kw=="
 ---
 

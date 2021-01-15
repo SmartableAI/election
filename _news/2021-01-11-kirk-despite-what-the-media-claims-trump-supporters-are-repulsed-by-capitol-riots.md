@@ -112,22 +112,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Petition calls for U of Michigan regent to resign for not blaming Trump over Capitol riot"
-    excerpt: "University of Michigan Regent Ron Weiser has been called \"complicit\" in last week’s storming of the U.S. Capitol by the writers of an online petition that calls for his resignation after he failed to place blame on President Trump."
-    publishedDateTime: 2021-01-14T09:24:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kHw1uG5baQU/petition-calls-for-u-of-michigan-regent-to-resign-for-not-blaming-trump-over-riot"
-    ampWebUrl: "https://www.foxnews.com/politics/petition-calls-for-u-of-michigan-regent-to-resign-for-not-blaming-trump-over-riot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/petition-calls-for-u-of-michigan-regent-to-resign-for-not-blaming-trump-over-riot.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21014048876326.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump to regain Facebook access Thursday night after account locked over response to Capitol violence"
     excerpt: "President Trump will regain access to his Facebook account Thursday night after the social media giant locked him out of his account for the first time for violating its policies."
     publishedDateTime: 2021-01-07T13:00:40Z

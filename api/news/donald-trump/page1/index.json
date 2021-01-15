@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-15-biden-pledges-new-chapter-but-trump-impeachment-trial-looms.md",
+      "title": "Biden Pledges 'New Chapter' But Trump Impeachment Trial Looms",
+      "excerpt": "Biden promised \"a new chapter\" for the nation on the day after Trump became the first US president to ever be impeached twice, as the incoming Democrat sought to seize the narrative in a primetime address and get Americans looking forward again.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/biden-pledges-new-chapter-trump-impeachment-trial-looms-3122198",
+      "originalUrl": "https://www.ibtimes.com/biden-pledges-new-chapter-trump-impeachment-trial-looms-3122198",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/us-president-elect-joe-biden-wants-to-get.jpg",
+          "width": 1024,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-14T18:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-ted-cruzs-former-staffers-are-disgusted-by-his-new-low-for-trump.md",
+      "title": "Ted Cruz’s Former Staffers Are ‘Disgusted’ by His New Low for Trump",
+      "excerpt": "Ted Cruz has long had a public reputation as an unctuous asshole. Even so, his staffers have tended to hold him in high regard as a kind and geeky man who treated his underlings well even while his fellow senators loathed him.",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/2021/01/ted-cruzs-former-staff-disgusted-by-his-new-low-for-trump.html",
+      "originalUrl": "https://nymag.com/intelligencer/2021/01/ted-cruzs-former-staff-disgusted-by-his-new-low-for-trump.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/ca8/dcb/e481ac5a11528488a970fe59710d78add0-ted-cruz.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/01/ted-cruzs-former-staff-disgusted-by-his-new-low-for-trump.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/ted-cruzs-former-staff-disgusted-by-his-new-low-for-trump.html",
+      "publishedDateTime": "2021-01-14T18:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-melania-trump-not-sad-about-leaving-white-house-flotus-not-a-victim.md",
       "title": "Melania Trump 'Not Sad' About Leaving White House, FLOTUS Not A 'Victim'",
       "excerpt": "Melania Trump is not sad about leaving the White House and she is not the victim as what she previously claimed, according to a report.",
@@ -1446,115 +1541,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-trump-golf-club-no-longer-the-host-of-future-pga-championship-amid-us-capitol-violence-fallout.md",
-      "title": "Trump golf club no longer the host of future PGA Championship amid US Capitol violence fallout",
-      "excerpt": "PGA Championship will no longer be held at Trump Bedminster in New Jersey, PGA of America announced Sunday night as fury at President Trump over the U.S. Capitol riot grows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/sports/trump-golf-club-future-pga-championship-us-capitol-violence-fallout",
-      "originalUrl": "https://www.foxnews.com/sports/trump-golf-club-future-pga-championship-us-capitol-violence-fallout",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c367f114-e94d-4959-b3ff-061cfdaf5422/675b9628-5b5c-420a-a2a9-452035bffdb4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/sports/trump-golf-club-future-pga-championship-us-capitol-violence-fallout.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/trump-golf-club-future-pga-championship-us-capitol-violence-fallout.amp",
-      "publishedDateTime": "2021-01-10T19:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-schwarzenegger-calls-president-trump-worst-president-ever.md",
-      "title": "Schwarzenegger calls President Trump 'worst president ever'",
-      "excerpt": "Former California Gov_ Arnold Schwarzenegger is calling President Donald Trump a failed leader who “will go down in history as the worst president ever.”",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/schwarzenegger-calls-president-trump-worst-president-75165493",
-      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/schwarzenegger-calls-president-trump-worst-president-75165493",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/schwarzenegger-calls-president-trump-worst-president-75165493",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/schwarzenegger-calls-president-trump-worst-president-75165493",
-      "publishedDateTime": "2021-01-10T12:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

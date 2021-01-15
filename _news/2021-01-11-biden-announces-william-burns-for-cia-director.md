@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden tries to go from normalcy to relevancy"
-    excerpt: "Biden found the best way in was to promise to just be cool... Will it be enough?"
-    publishedDateTime: 2021-01-14T20:23:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KN4cyx7tScE/biden-tries-to-go-from-normalcy-to-relevancy"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-tries-to-go-from-normalcy-to-relevancy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tries-to-go-from-normalcy-to-relevancy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "If Biden halts border wall, it could cost taxpayers billions, CBP chief warns"
     excerpt: "President-elect Joe Biden is promising that border wall building won't continue under his administration, but with hundreds of miles under construction, the head of Customs and Border Protection (CBP) is warning that shutting down construction could cost taxpayers billions."
     publishedDateTime: 2021-01-09T22:25:26Z
@@ -60,6 +44,22 @@ related:
     quality: 172
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cb36dbe-eada-4977-abd7-6669263e1345/a159a8e6-35c5-4f32-aa31-c8e2af9ce0ae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden just announced his stimulus plan — and AOC already has a problem with it"
+    excerpt: "Rep. Alexandria Ocasio-Cortez, D-N.Y., is criticizing President-elect Biden's new coronavirus relief, arguing that it doesn't go far enough to help people in need during the pandemic."
+    publishedDateTime: 2021-01-15T02:16:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Myv1oy_9Dt0/biden-stimulus-plan-aoc-problem"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-stimulus-plan-aoc-problem.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-stimulus-plan-aoc-problem.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/277c6958-c0f2-467b-92b4-80db098c3627/39b4bd0b-dee1-4946-8e21-fd62a4ac63a8/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

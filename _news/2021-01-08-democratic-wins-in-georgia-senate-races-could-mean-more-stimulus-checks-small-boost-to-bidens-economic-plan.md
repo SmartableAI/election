@@ -31,83 +31,123 @@ images:
     isCached: true
 
 related:
-  - title: "'One state can chart the course': Biden rallies in Georgia on eve of Senate runoffs"
-    excerpt: "President-elect speaks at Atlanta rally alongside Democratic candidates Jon Ossoff and the Rev Raphael Warnock"
-    publishedDateTime: 2021-01-05T08:20:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies?fbclid=IwAR04dNRcXmbyCYDopmtLee754mYFPaxY9BtnJA24B6ZFIDMKVnxDEQXa7Yg"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies"
+  - title: "\"We have to act now\": Biden outlines economic rescue legislative package"
+    excerpt: "President-elect Joe Biden is expected to outline his COVID-19 relief proposal in Wilmington, Delaware, on Thursday. The massive stimulus bill is expected to cost trillions in order to fund vaccinations and provide immediate,"
+    publishedDateTime: 2021-01-15T00:56:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-covid-relief-vaccination-package-live-stream-today-2021-01-14/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-relief-vaccination-package-live-stream-today-2021-01-14/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-relief-vaccination-package-live-stream-today-2021-01-14/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 119
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
     images:
-      - url: "https://i.guim.co.uk/img/media/ff660c0bf5f9e314ad581ab5f09ccf159f026916/0_169_5083_3050/master/5083.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=495cdcf4a59e96a0b43afc9340c2cf00"
-        width: 600
-        height: 360
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/15/060ed476-7daa-48d5-9570-cb245fa7aea7/thumbnail/1200x630/ca56cea94e0eabd31dc19ff0a53bd160/gettyimages-1296410571.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Biden Calls for $2K Stimulus Checks Post-Georgia Runoffs But At Least One Democrat Opposes"
-    excerpt: "\"We need more direct relief flowing to families and small businesses, including finishing the job and getting people $2,000 in relief,\" the president-elect said Friday."
-    publishedDateTime: 2021-01-10T00:10:00Z
-    webUrl: "https://www.newsweek.com/biden-calls-2k-stimulus-checks-post-georgia-runoffs-least-one-democrat-opposes-1560266"
-    ampWebUrl: "https://www.newsweek.com/biden-calls-2k-stimulus-checks-post-georgia-runoffs-least-one-democrat-opposes-1560266?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-calls-2k-stimulus-checks-post-georgia-runoffs-least-one-democrat-opposes-1560266?amp=1"
+  - title: "Biden: Current vaccine rollout 'a dismal failure'"
+    excerpt: "President-elect Joe Biden called the current rollout of the coronavirus vaccine \"a dismal failure\" as he highlighted his $1.9 trillion plan to combat the pandemic and provide additional relief. (Jan."
+    publishedDateTime: 2021-01-15T02:31:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/15/biden-current-vaccine-rollout-a-dismal-failure/4169071001/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
-    images:
-      - url: "https://d.newsweek.com/en/full/1702344/president-elect-joe-biden-speaks-wilmington-delaware.jpg"
-        width: 3543
-        height: 2431
-        isCached: true
-  - title: "Biden tells Georgia voters the ‘power is literally in your hands’"
-    excerpt: "President-elect Joe Biden on Jan. 4 told Georgia voters their state can “chart the course not just for the next four years, but the next generation.”"
-    publishedDateTime: 2021-01-04T22:30:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/biden-tells-georgia-voters-the-power-is-literally-in-your-hands/2021/01/04/599bac06-be61-4e8f-aded-f70d78c1b5d7_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: USA Today
+      domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/01-04-2021/t_9a6b425de37e4e7ca9a643b4e00cfd85_name_ba017554_4eda_11eb_a1f5_fdaf28cfca90.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 988
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/ae0c443c-1f54-43f2-8d6c-c7774a67ed7e_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Jon Ossoff, who just won a key Senate seat in Georgia, is the youngest Democratic senator elected since Joe Biden in 1973"
-    excerpt: "Joe Biden was 30 when he was elected to the Senate in 1973. And on Wednesday, Jon Ossoff of Georgia, 33, became the first millennial senator-elect."
-    publishedDateTime: 2021-01-06T00:17:00Z
-    webUrl: "https://www.businessinsider.com/jon-ossoff-becomes-youngest-democrat-senator-elect-since-biden-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/jon-ossoff-becomes-youngest-democrat-senator-elect-since-biden-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jon-ossoff-becomes-youngest-democrat-senator-elect-since-biden-2021-1?amp"
+  - title: "Biden pandemic stimulus plan to pump $1.9 tln into economy"
+    excerpt: "President-elect Joe Biden will unveil a stimulus proposal on Thursday designed to jump-start the economy during the coronavirus pandemic and help minority communities with around $1.9 trillion in aid."
+    publishedDateTime: 2021-01-14T22:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-stimulus/biden-to-unveil-plan-to-pump-1-9-trillion-into-pandemic-hit-economy-idUSKBN29J1B1?edition-redirect=ca"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547774889&r=LYNXMPEH0D0O8&w=800"
+        width: 799
+        height: 543
+        isCached: true
+  - title: "Biden unveils plan to pump $1.9 trillion into pandemic-hit economy"
+    excerpt: "President-elect Joe Biden unveiled a $1.9 trillion stimulus package proposal on Thursday, saying in prime-time remarks that bold investment was needed to jump-start the economy and speed up the U.S. response to the coronavirus pandemic."
+    publishedDateTime: 2021-01-15T00:36:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-stimulus/update-6-biden-unveils-plan-to-pump-1-9-trillion-into-pandemic-hit-economy-idUSL1N2JP30B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547774889&r=LYNXMPEH0D0O8&w=800"
+        width: 799
+        height: 543
+        isCached: true
+  - title: "Trudeau expects Biden to re-engage U.S. on world stage"
+    excerpt: "Reuters Next Trudeau expects Biden to re-engage U.S. on world stage. Posted . Canada and other U.S. allies are looking to President-elect Joe Biden to re-engage on the world stage"
+    publishedDateTime: 2021-01-14T17:54:00Z
+    webUrl: "https://www.reuters.com/video/watch/trudeau-expects-biden-to-re-engage-us-on-id724248082"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210114&i=OVDV6MGV3&r=OVDV6MGV3&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Analysis: Biden's $1.9 trillion rescue package offers bridge for hard-hit economy"
+    excerpt: "U.S. President-elect Joe Biden's proposal to pour $1.9 trillion into a hobbled economy could lay the foundation for a surge in jobs and spending that many economists say is needed to avoid long-term damage from a record-breaking pandemic recession."
+    publishedDateTime: 2021-01-14T23:40:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-stimulus-analysis-idUKKBN29J2ZL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 100
     images:
-      - url: "https://i.insider.com/5ff585cc6d61c10019ccddd2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547848854&r=LYNXMPEH0D1PA&w=800"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Joe Biden, Kamala Harris heading to Georgia for last-minute campaign stops"
-    excerpt: "President-elect Joseph R. Biden and Vice President-elect Sen. Kamala D. Harris are heading south next week for some last-minute campaigning ahead of two U.S. Senate runoffs in Georgia that will determine control of the chamber next year."
-    publishedDateTime: 2020-12-30T00:00:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/30/joe-biden-kamala-harris-heading-georgia-last-minut/"
+  - title: "Joe Biden to put $2,000 stimulus payments back in play"
+    excerpt: "A $2,000 stimulus check is expected to be included in a $2 trillion Covid relief plan that President-elect Joe Biden is set to unveil Thursday evening."
+    publishedDateTime: 2021-01-14T19:37:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/14/joe-biden-to-put-2000-stimulus-payments-back-in-play/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/14/joe-biden-to-put-2000-stimulus-payments-back-in-play/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/14/joe-biden-to-put-2000-stimulus-payments-back-in-play/amp/"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 88
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/Biden_31600.jpg-5db22_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_ad793e75d7fd1554dbfdd1f821b34130-h_c29915ef82a3712aba7cb18c0e0e4d22.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Joe Biden unveiling ‘American Rescue Plan,’ a $1.9T stimulus to stem COVID-19 and steady the economy"
+    excerpt: "President-elect Joe Biden is unveiling a $1.9 trillion coronavirus plan Thursday to turn the tide on the pandemic, speeding up the vaccine rollout and providing financial help to individuals, states and local governments and businesses struggling with the prolonged economic fallout."
+    publishedDateTime: 2021-01-14T22:27:00Z
+    webUrl: "https://www.baltimoresun.com/coronavirus/ct-nw-joe-biden-stimulus-plan-updates-20210114-fx5v7ouy7fexdlrov65wc54nim-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/coronavirus/ct-nw-joe-biden-stimulus-plan-updates-20210114-fx5v7ouy7fexdlrov65wc54nim-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/coronavirus/ct-nw-joe-biden-stimulus-plan-updates-20210114-fx5v7ouy7fexdlrov65wc54nim-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 60
+    images:
+      - url: "https://www.baltimoresun.com/resizer/dXqpDeqot1Vbd4Tlp7W2NDL2-2U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q6UPQBYTXRCQBKWMJC6MSCEQUI.aspx"
         width: 1200
-        height: 700
+        height: 675
         isCached: true
 
 secured: "P8WW8tVdHp0zDERQRfJY3BNWlJ+VRM/MCr5KsoTMGs8gOT3y3d/uBUIGxk+zfdpruKyakSg1KwQCMlEKRxlU6X8SYonGLaa79mUI2VTCymfBikNlGucTjAHsrE1ykggsxUW28FRLI6yOTs+w3zpslqYrS+Dn1UiWBGYdFx3li46B9VHnSaA+7yf9df9L6lrvZow6LDvTmNa5OGKt+SmAuOABPH0C9cjRBEUCPlB28/mZMU4q9cLACjuqx27sPWKQHTiHNxNPykGYZF+cdJdt+9Q4MmPTlj2hBoYDq7S6ZMZ1fy9Bf+oOKni7fNW8C6Y1tuzC9yMsHH/7BhuZ01ZMR8TtZy339tb8keT6D3lfsyaERF+dwtkBw3hsCdRPLdVVcw77ll1azmGppGuI5uYmSmcI2lD2aEl7frDT0zNRvDwFX6YL26m44CYBqjJvJjFWk8xgB2whSPkrmYJEws+D4DE6kWlMIdiLCq4EIrrLQlysjI2Q+gE/8sN0VC48f5kSD+p0taDi5p3wzXeMkxRoEg==;povbfVlvKsr85Esd9rI5VA=="

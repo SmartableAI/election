@@ -31,67 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Trump supporters confront Mitt Romney at airport, on plane: videos"
-    excerpt: "Sen. Mitt Romney, R-Utah, was confronted by supporters of President Trump on Tuesday while waiting for a flight at an airport and during the flight, according to videos circulating on social media.   "
-    publishedDateTime: 2021-01-06T12:25:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OoTQdcMaNsU/mitt-romney-confronted-by-trump-supporters-at-airport-on-plane-videos"
-    ampWebUrl: "https://www.foxnews.com/politics/mitt-romney-confronted-by-trump-supporters-at-airport-on-plane-videos.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mitt-romney-confronted-by-trump-supporters-at-airport-on-plane-videos.amp"
+  - title: "Biden advised against dismissing all of Trump’s foreign policy achievements in China"
+    excerpt: "A new on U.S. national security says it would be a mistake to ignore the outgoing administration’s foreign policy in the aftermath of last week’s riot in Washington D.C."
+    publishedDateTime: 2021-01-15T01:25:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cezZBRjhmyY/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements"
+    ampWebUrl: "https://www.foxnews.com/politics/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 183
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/romney.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Don't tar all Trump supporters with chaos at the Capitol: Perino"
-    excerpt: "“It’s going to be very important to try to separate those who were bad actors” during the riots at the U.S. Capitol on Wednesday from the tens of millions of people who voted for President Trump, Fox News’ Dana Perino told “America’s Newsroom” on Thursday."
-    publishedDateTime: 2021-01-07T20:42:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8jM7iXQ7UaY/dont-tar-all-trump-supporters-with-chaos-capitol-perino"
-    ampWebUrl: "https://www.foxnews.com/politics/dont-tar-all-trump-supporters-with-chaos-capitol-perino.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dont-tar-all-trump-supporters-with-chaos-capitol-perino.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump supporters, lawmakers react to Twitter ban"
-    excerpt: "After Twitter took the extraordinary step of banning President Trump from its platform Friday, a stunned group of lawmakers and supporters weighed in on the decision."
-    publishedDateTime: 2021-01-09T02:29:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sS_AAN2w438/trump-supporters-lawmakers-twitter-ban"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-lawmakers-twitter-ban.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-lawmakers-twitter-ban.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/27d92032-9abc-440f-98b4-d0ed84bafb91/266c6b1a-436b-4cdc-8c3c-591d826bd1a0/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5960cbca-be06-41d8-b7c0-22ec824ae73b/849844c6-d797-457a-bae7-1a00a360bd22/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "House Judiciary Committee frames Trump impeachment in new report"
-    excerpt: "House Judiciary Committee Chairman Rep. Jerrold Nadler, D-N.Y., released a 74-page report Tuesday afternoon describing President Trump as a \"clear and present danger\" who should be impeached."
-    publishedDateTime: 2021-01-13T02:09:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bIENo8gwWCE/judiciary-committee-impeachment-report"
-    ampWebUrl: "https://www.foxnews.com/politics/judiciary-committee-impeachment-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judiciary-committee-impeachment-report.amp"
+  - title: "Article of impeachment against Trump to be introduced Monday in House"
+    excerpt: "Rep. Ted Lieu, D-Calif., said Saturday that the House had reached 180 co-sponsors for an Article of Impeachment against President Trump, and the chamber would introduce the measure on Monday. "
+    publishedDateTime: 2021-01-09T20:47:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BN1avJc5Pa0/article-of-impeachment-trump-january-11-house"
+    ampWebUrl: "https://www.foxnews.com/politics/article-of-impeachment-trump-january-11-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/article-of-impeachment-trump-january-11-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/efae2f2f-6ec6-4aca-bcd4-8bd9dcd96dfb/d284c12c-47c0-4b66-a5c4-c41241d9f204/1280x720/match/image.jpg"
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/09/26/694940094001_6089811276001_6089809166001-vs.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -111,69 +79,115 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Capitol riots will be used to 'deplatform' Trump supporters: Ben Domenech"
-    excerpt: "The left will do to regular people what it's doing to President Trump, The Federalist publisher Ben Domenech warned Thursday night."
-    publishedDateTime: 2021-01-08T13:24:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yz8sy0wNcGE/trump-capitol-riot-supporters-facebook-twitter-instagram-ben-domenech"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-capitol-riot-supporters-facebook-twitter-instagram-ben-domenech.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-capitol-riot-supporters-facebook-twitter-instagram-ben-domenech.amp"
+  - title: "The Hitchhiker’s Guide to Impeaching President Trump on Wednesday"
+    excerpt: "For the first time since 1798, the House of Representatives plans a second impeachment against an American government official."
+    publishedDateTime: 2021-01-13T04:29:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/prmP_gzORG0/the-hitchhikers-guide-to-impeaching-president-trump-on-wednesday"
+    ampWebUrl: "https://www.foxnews.com/politics/the-hitchhikers-guide-to-impeaching-president-trump-on-wednesday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-hitchhikers-guide-to-impeaching-president-trump-on-wednesday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden tries to go from normalcy to relevancy"
+    excerpt: "Biden found the best way in was to promise to just be cool... Will it be enough?"
+    publishedDateTime: 2021-01-14T20:23:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KN4cyx7tScE/biden-tries-to-go-from-normalcy-to-relevancy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tries-to-go-from-normalcy-to-relevancy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tries-to-go-from-normalcy-to-relevancy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Clyburn suggests 14th Amendment could bar Trump from holding office again"
+    excerpt: "House Majority Whip James Clyburn, D-S.C., told Fox News Wednesday that President Trump should be legally prevented from holding elected office again as the House impeached him for an unprecedented second time. "
+    publishedDateTime: 2021-01-13T23:10:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yv6aGsntoTE/clyburn-bar-trump-holding-office-under-14th-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/clyburn-bar-trump-holding-office-under-14th-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clyburn-bar-trump-holding-office-under-14th-amendment.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Barr calls Trump conduct amid Capitol riot a 'betrayal of his office and supporters'"
-    excerpt: "Former Attorney General William Barr says President Donald Trump’s conduct as a violent mob of his supporters stormed the U.S. Capitol was a “betrayal of his office and supporters.”"
-    publishedDateTime: 2021-01-07T16:22:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6Hgzdeq7pk4/barr-trump-capitol-riot-conduct-betrayal-office-supporters"
-    ampWebUrl: "https://www.foxnews.com/politics/barr-trump-capitol-riot-conduct-betrayal-office-supporters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barr-trump-capitol-riot-conduct-betrayal-office-supporters.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e9aed44a-db71-42b1-be80-20049f1c4835/77d72207-2029-4609-bb18-cfb4ba5bb33c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f3569b7d-9926-4c81-ba4f-09cb727ebd76/7c0377cb-daae-4590-a25e-0a3976224e26/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Rep. Waltz slams hypocrisy of pro-police Trump supporters going after Capitol Hill cops"
-    excerpt: "Pro-Trump rioters who breached the U.S. Capitol on Wednesday with back-the-blue flags need to “rethink the hypocrisy,” Rep. Michael Waltz, R-Fla., told “Fox & Friends” on Thursday."
-    publishedDateTime: 2021-01-07T14:47:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jHP5JXTKBCI/waltz-hypocrisy-pro-police-trump-supporters-attack-capitol-cops"
-    ampWebUrl: "https://www.foxnews.com/politics/waltz-hypocrisy-pro-police-trump-supporters-attack-capitol-cops.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/waltz-hypocrisy-pro-police-trump-supporters-attack-capitol-cops.amp"
+  - title: "Petition calls for U of Michigan regent to resign for not blaming Trump over Capitol riot"
+    excerpt: "University of Michigan Regent Ron Weiser has been called \"complicit\" in last week’s storming of the U.S. Capitol by the writers of an online petition that calls for his resignation after he failed to place blame on President Trump."
+    publishedDateTime: 2021-01-14T09:24:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kHw1uG5baQU/petition-calls-for-u-of-michigan-regent-to-resign-for-not-blaming-trump-over-riot"
+    ampWebUrl: "https://www.foxnews.com/politics/petition-calls-for-u-of-michigan-regent-to-resign-for-not-blaming-trump-over-riot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/petition-calls-for-u-of-michigan-regent-to-resign-for-not-blaming-trump-over-riot.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21014048876326.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Manchin calls second Trump impeachment bid 'ill-advised': 'Let the judicial system do its job'"
+    excerpt: "House Democrats' attempt to impeach President Trump for a second time in connection with last week's riot at the U.S. Capitol is \"so ill-advised,\" Sen. Joe Manchin, D-W.Va. told \"Special Report\" Monday. "
+    publishedDateTime: 2021-01-12T00:20:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tPoWs5d64p8/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course"
+    ampWebUrl: "https://www.foxnews.com/politics/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56961609-b75a-4b4d-886f-7cf6225d0872/1929b563-4df0-450f-8d3f-4e0c35becc7f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "FBI internal memo warns of plans for armed protests in all 50 state capitals ahead of Biden inauguration"
+    excerpt: "An internal FBI memo is warning of plans for armed protests in all 50 state capital cities ahead of President-elect Joe Biden’s Inauguration, Fox News has learned."
+    publishedDateTime: 2021-01-11T20:30:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9R-VWkImoHA/fbi-internal-memo-warns-of-plans-for-armed-protests-in-all-50-state-capitals-ahead-of-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/fbi-internal-memo-warns-of-plans-for-armed-protests-in-all-50-state-capitals-ahead-of-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-internal-memo-warns-of-plans-for-armed-protests-in-all-50-state-capitals-ahead-of-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Barr calls Trump conduct amid Capitol riot a 'betrayal of his office and supporters'"
-    excerpt: "Former Attorney General William Barr says President Donald Trump’s conduct as a violent mob of his supporters stormed the U.S. Capitol was a “betrayal of his office and supporters.”"
-    publishedDateTime: 2021-01-07T16:37:00Z
-    webUrl: "https://www.foxnews.com/politics/barr-trump-capitol-riot-conduct-betrayal-office-supporters"
-    ampWebUrl: "https://www.foxnews.com/politics/barr-trump-capitol-riot-conduct-betrayal-office-supporters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barr-trump-capitol-riot-conduct-betrayal-office-supporters.amp"
+  - title: "Biden Flings a Slew of Inflammatory Race-Tinged Lies"
+    excerpt: "As President Trump denounced the violence in he Capitol and called for peace and order, Joe Biden had a different idea: Attacking President Trump. And pinning the racism tag on the cops. This is what happened."
+    publishedDateTime: 2021-01-09T13:45:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/09/biden_flings_a_slew_of_inflammatory_race-tinged_lies_533032.html#!"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e9aed44a-db71-42b1-be80-20049f1c4835/77d72207-2029-4609-bb18-cfb4ba5bb33c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://assets.realclear.com/images/53/531874_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "NkWx6cEJE8q0TptUiuNh6omnDDmVUngjKwIdZmzRKIrAZUn2cx5yOaF+gMMMsqJWZDfDuDqHB6PdYD0sqKeoPHcK3YWcMt9xvt0n1VR/AGBqsOswwucmZtXOcJdzsxOeIJSLPDUXoqzdhsHQryRX7O2HWCqA4KYBcZnHZmL4SiJieKnSkQhNgcKGkOXlv/tq99BM+qR+0PA9D52TO6STWMFxdUnWXjAufzKro+DVTliKuH16eHRJJSKwYMUbhhahHUFXrCFZjYBkN+qQtb13R11RLerGjr8y3trH1VV7OwQjtiQOisd8kESpxRoPrxUy+5oVd3A5Ch8Xg7Gft0R9DKPY+/YdReQX99RAyEoTGnQ=;H8uUj1VQEVYWh6fJJv94YA=="

@@ -61,22 +61,6 @@ related:
         width: 3543
         height: 2431
         isCached: true
-  - title: "Democratic wins in Georgia Senate races could mean more stimulus checks, small boost to Biden's economic plan"
-    excerpt: "The stunning Democratic wins in Georgia’s two Senate runoff races have been touted as a game-changer that gives the party control of both Congress and the presidency, paving the way for Joe Biden to push through his sweeping plan to dig the economy out of the punishing COVID-19 downturn."
-    publishedDateTime: 2021-01-07T16:29:00Z
-    webUrl: "https://www.usatoday.com/story/money/2021/01/07/georgia-senate-race-democrats-wins-should-aid-biden-economic-plan-bit/6570522002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6570522002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6570522002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/04/USAT/fe456917-eb2e-423d-86e7-7aec9b8646d6-Georgia_Senate_Runoff_11.JPG?auto=webp&crop=2750,1547,x1,y62&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Jon Ossoff, who just won a key Senate seat in Georgia, is the youngest Democratic senator elected since Joe Biden in 1973"
     excerpt: "Joe Biden was 30 when he was elected to the Senate in 1973. And on Wednesday, Jon Ossoff of Georgia, 33, became the first millennial senator-elect."
     publishedDateTime: 2021-01-06T00:17:00Z

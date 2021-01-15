@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-get-big-things-done-georgia-s
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-get-big-things-done-georgia-senate.amp"
 type: article
 quality: 175
-heat: 255
+heat: 235
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "http://m.wsj.net/video/20210104/010421opvidmainstreet/010421opvidmainstreet_1280x720.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden Flings a Slew of Inflammatory Race-Tinged Lies"
-    excerpt: "As President Trump denounced the violence in he Capitol and called for peace and order, Joe Biden had a different idea: Attacking President Trump. And pinning the racism tag on the cops. This is what happened."
-    publishedDateTime: 2021-01-09T13:45:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/09/biden_flings_a_slew_of_inflammatory_race-tinged_lies_533032.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/531874_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "vgDfDc4ezdOA2jMgz5kve+XnAgCST0y6kUUlnA179LQjbQMDVYhN2CZvaHMDcWTa6yYXbIuy3vAoEjYcJ7XdL5aqpg7Fxr6vnmZFDurxJi6GCp6ZYJGRUwJMYK5KCMXiYHGwwPpC8+TPcwZSN37iRaDVNANyenrCNfaQ+hgFbyzgncrD7dSIreTsBstTD8WjAujBLHA27TNdl/mtrerVg+Sce5KlQwK4yKoN/52KoYh5MUTrVJfe1gx+USU6kPCwFDyD5MoepifdaaYezzse8AUqhbqQaonW30PP8nTMgcpNs5sDxLpIRqe7LMSN+Mp1bSN18Cxl0QnBM00SYYJfEOfC/m90m8nxOP6MWXc6pYs=;5FKc322K7O10z+gIlUqhdg=="

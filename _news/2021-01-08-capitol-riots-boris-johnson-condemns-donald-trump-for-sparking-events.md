@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/uk-politics-55580806"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-politics-55580806"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "For some Christians, the Capitol riot doesn’t change the prophecy: Trump will be president"
+    excerpt: "As lawmakers prepared to impeach President Trump and Washington readied for President-elect Joe Biden’s inauguration, Cliff Dyrud wasn’t focused on man-made acts. He was listening for the words of prophets."
+    publishedDateTime: 2021-01-15T02:34:00Z
+    webUrl: "https://www.washingtonpost.com/religion/2021/01/14/prophets-apostles-christian-prophesy-trump-won-biden-capitol/"
+    ampWebUrl: "https://www.washingtonpost.com/religion/2021/01/14/prophets-apostles-christian-prophesy-trump-won-biden-capitol/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/2021/01/14/prophets-apostles-christian-prophesy-trump-won-biden-capitol/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZQVOFLSQFMI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Seth Meyers Rips Donald Trump After Capitol Riots: 'The President Wanted This'"
     excerpt: "Talk show host Seth Meyers slammed President Donald Trump and the rioters for an attempt to destroy the American democracy by breaching Capitol Hill Wednesday."
     publishedDateTime: 2021-01-08T06:22:00Z

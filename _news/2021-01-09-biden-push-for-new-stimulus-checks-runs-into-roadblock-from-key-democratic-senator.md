@@ -65,8 +65,8 @@ related:
         isCached: true
   - title: "U.S. airlines back Biden plan to mandate masks for passengers"
     excerpt: "A group representing major U.S. airlines on Thursday backed President-elect Joe Biden's plan to mandate face coverings for all air passengers, but asked him to give them flexibility in enforcing it."
-    publishedDateTime: 2021-01-14T20:22:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-transportation-biden/u-s-airlines-back-biden-plan-to-mandate-masks-for-passengers-idUSKBN29J2NI?edition-redirect=ca"
+    publishedDateTime: 2021-01-15T01:29:00Z
+    webUrl: "https://www.reuters.com/article/usa-transportation-biden/update-2-us-airlines-back-biden-plan-to-mandate-masks-for-passengers-idUSL1N2JP2FN"
     type: article
     provider:
       name: Reuters

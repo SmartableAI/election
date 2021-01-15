@@ -2,9 +2,9 @@
 category: news
 title: "Second Trump impeachment trial takes U.S. into uncharted waters"
 excerpt: "America will be in uncharted territory when the U.S. Senate meets as soon as next week for the second impeachment trial of Donald Trump, a case against the outgoing president that one Democrat preparing for arguments called \"shockingly evident."
-publishedDateTime: 2021-01-15T00:54:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump/bitter-senate-impeachment-trial-of-trump-could-bog-down-bidens-first-days-idUSKBN29J1B6"
-webUrl: "https://www.reuters.com/article/us-usa-trump/bitter-senate-impeachment-trial-of-trump-could-bog-down-bidens-first-days-idUSKBN29J1B6"
+publishedDateTime: 2021-01-15T02:14:00Z
+originalUrl: "https://www.reuters.com/article/usa-trump/wrapup-3-u-s-in-uncharted-waters-in-unprecedented-second-impeachment-of-trump-idUSL1N2JP075"
+webUrl: "https://www.reuters.com/article/usa-trump/wrapup-3-u-s-in-uncharted-waters-in-unprecedented-second-impeachment-of-trump-idUSL1N2JP075"
 type: article
 quality: 105
 heat: -1
@@ -1534,6 +1534,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Trump extends protection measures for U.S. washer makers"
+    excerpt: "President Donald Trump on Thursday issued a proclamation to extend measures meant to safeguard U.S. producers of large residential washers from import competition."
+    publishedDateTime: 2021-01-15T02:01:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-washers/trump-extends-protection-measures-for-u-s-washer-makers-idUSKBN29J2SD?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547836161&r=LYNXMPEH0D1KA&w=800"
+        width: 800
+        height: 564
+        isCached: true
   - title: "Wis. congressman unsure Trump to blame for riot"
     excerpt: "Wisconsin’s newest member of Congress says he doesn't know if President Donald Trump was to blame for inciting the riot at the U.S. Capitol and wants a full investigation to find out what motivated the mob."
     publishedDateTime: 2021-01-14T20:40:00Z
@@ -2202,6 +2216,22 @@ related:
         width: 1034
         height: 564
         isCached: true
+  - title: "D.C. attorney general seeks to interview Donald Trump Jr. on inauguration funds"
+    excerpt: "The D.C. attorney general's office said Thursday it requested to interview Donald Trump Jr. as part of its investigation into the Presidential Inaugural Committee's alleged misuse of non-profit funds."
+    publishedDateTime: 2021-01-15T02:08:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/14/DC-attorney-general-seeks-to-interview-Donald-Trump-Jr-on-inauguration-funds/6401610666115/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/14/DC-attorney-general-seeks-to-interview-Donald-Trump-Jr-on-inauguration-funds/6401610666115/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/14/DC-attorney-general-seeks-to-interview-Donald-Trump-Jr-on-inauguration-funds/6401610666115/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 71
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6401610666115/2021/1/2c460360f32fa2d889fa9d067e4439d7/v1.5/DC-attorney-general-seeks-to-interview-Donald-Trump-Jr-on-inauguration-funds.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Trump Impeachment Trial to Focus on His Attacks on Election"
     excerpt: "President Donald Trump’s historic second impeachment could go to trial as soon as Inauguration Day, with U.S. senators serving not only as jurors but as shaken personal witnesses and victims of the deadly siege of the Capitol by a mob of his supporters."
     publishedDateTime: 2021-01-15T00:33:00Z
@@ -2663,6 +2693,6 @@ related:
         height: 392
         isCached: true
 
-secured: "i5I9tMerCDyue/95n7smhCGVgeO2nREphNZMuPj5wW02MqIQrU6n3jMArn+hIhoj77JMzkSum+id8g3lBURS76dhkYK2T1BleDpFs3lqBzbmXyqXLO/TV69FZwVr7MKkXwKPIxmHJ3aR3hwP3TSINLidbugXJ5+o5UN5W9OGBWD2PKL96dxcqob75SkMKAuPb4rzRauS1fAKcc1q38YzmjL7lbYAEu2B0it8ozgWen3LS4kGjGfx6gpZ45NJmY2/stKuklvAcr85GHKdbCtYdKGYuTERjCMinj+tsALewS/YAp7qCdGHgJ5nETTIZkcKzzvYnxbxnEDizkrsa9GeMUBo1gOoQWE7WOHsJQsHmhA=;S+MbNYWHwQzw818iMv0GpQ=="
+secured: "4+avEMUGW4hxH+DfcDe/LvyB/Yez7QcSOe95lJpeZWSV8iz6fHO4/BorvVzyuncLoi3DEEQQ792KXLtttRIDdl6fLwJprOj+OUxu9eq6BbfP/LSFRe1iRqB5YN2DoUbgbPJuGtxDd+nz3tHiQ7SXqGupzjIvkWQkY6T9KeBAAU9DjFZrhLOHuJZsBvt3dzvXsHyF1qW0d2CTRC4/SiK6hzLzDZfELqIkYFri0lWbcs/iWaN7We+AWgAjURzPx9cxeRYXQHlr+HYs4p+1kWqnK/+xTpPEVNQeI7+C7EYfSinNKyOLhRoGyM53z20PBLd9yiJdYN8lFZdzA+Pnm5UKOfZ8K8IMx1V9nh3VtzqK3xk=;8XH2OnnRB2kmhQdAZVPa6w=="
 ---
 

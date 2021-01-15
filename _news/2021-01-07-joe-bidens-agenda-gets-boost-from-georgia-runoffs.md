@@ -78,20 +78,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden Flings a Slew of Inflammatory Race-Tinged Lies"
-    excerpt: "As President Trump denounced the violence in he Capitol and called for peace and order, Joe Biden had a different idea: Attacking President Trump. And pinning the racism tag on the cops. This is what happened."
-    publishedDateTime: 2021-01-09T13:45:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/09/biden_flings_a_slew_of_inflammatory_race-tinged_lies_533032.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/531874_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "HdNZA5lJ2Gc326vcBEjEPDFYkzl0CkSfKG87zmVP1e4j9889o8ldkHhZJPheAX8nNJz+UXXf7+5A0QtD/JlbwDYLdnABqkWwVeOOz2E/qtcPmCQbC1K0l0ST3539ugmHPweaLdZIpAmZxTfnMhDRgAeMwxUnZ6pyxIA15/J0ZkT8jJ9GfbSRykQLzIsiR2tytOyVvpTZYuxf58GPQPUQGYxinCBA0VjqO3P43A90jldgUZpXou/bsizn7db1cQqc6C6Bm9flq5WdSX8G994Fo9x0c68QvivnxdDijBZGvakF5ok5SVBFfuW1ogLUQBvswjqhE+37oV97FnmOfaPteymCLJyPOeZsRtgr2fAUzTA=;aISPqCeUEvAHNqpqJvS8mg=="
 ---
