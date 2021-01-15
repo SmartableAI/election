@@ -31,99 +31,111 @@ images:
     isCached: true
 
 related:
-  - title: "Trump tells backers to ‘go home’ after Capitol stormed"
-    excerpt: "President Donald Trump urged supporters who stormed the Capitol to “go home” but also kept up false attacks about the presidential election"
-    publishedDateTime: 2021-01-07T02:08:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+  - title: "Trump official merchandise stores removed by Shopify"
+    excerpt: "The e-commerce platform Shopify said Thursday that it has terminated stores affiliated with President Donald Trump."
+    publishedDateTime: 2021-01-08T03:30:00Z
+    webUrl: "https://abcnews.go.com/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/capitol-statue-protest-gty-ps-210106_1609967664138_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Lehigh University rescinds Trump's honorary degree after Capitol assault"
-    excerpt: "Lehigh University has rescinded the honorary degree it awarded to President Donald Trump more than 30 years ago. The announcement came two days after the president encouraged a mob of his supporters who stormed the Capitol,"
-    publishedDateTime: 2021-01-09T16:36:00Z
-    webUrl: "https://www.cbsnews.com/news/lehigh-university-rescinds-donald-trump-honorary-degree-capitol-assault/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/lehigh-university-rescinds-donald-trump-honorary-degree-capitol-assault/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/lehigh-university-rescinds-donald-trump-honorary-degree-capitol-assault/"
+  - title: "Republicans block measure calling for quick removal of Trump"
+    excerpt: "A House resolution calling on Vice President Mike Pence to invoke constitutional authority to remove President Donald Trump from office has been blocked by Republicans"
+    publishedDateTime: 2021-01-11T16:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pelosi-house-impeach-trump-pushes-vp-oust-75171067"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-house-impeach-trump-pushes-vp-oust-75171067"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-house-impeach-trump-pushes-vp-oust-75171067"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 124
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/09/68323e33-f902-440c-8046-816a9f064d68/thumbnail/1200x630g2/a60ea5ae729431f57336314793108ca2/gettyimages-1294907289-1.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a3f21b028bd3418a922e3fb6b9b24287_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "YouTube ban: Google blocks new uploads to Donald Trump's channel after Capitol riots, citing potential for violence"
-    excerpt: "Google's YouTube is blocking new uploads to Trump's channel. It's also being threatened with a national ad boycott if it does not ban Trump."
-    publishedDateTime: 2021-01-13T12:23:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2021/01/12/trump-youtube-ban-capitol-riots-civil-rights-groups/6649933002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6649933002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6649933002"
+  - title: "Breakthrough reached in Gulf dispute with Qatar: senior Trump administration official"
+    excerpt: "A breakthrough has been reached in Qatar's three-year-old with Saudi Arabia and three other Arab countries and an agreement to end their rift is to be signed in Saudi Arabia on Tuesday, a senior Trump administration official said."
+    publishedDateTime: 2021-01-04T18:43:00Z
+    webUrl: "https://www.reuters.com/article/us-gulf-qatar-usa/breakthrough-reached-in-gulf-dispute-with-qatar-senior-trump-administration-official-idUSKBN29924S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29924S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29924S"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 103
+      name: Reuters
+      domain: reuters.com
+    quality: 118
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d9fcae70-ecb3-4fa7-ba54-bd90bcd378e0-AP21012563654909.jpg?auto=webp&crop=5999,3374,x1,y626&format=pjpg&width=1200"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546576867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0311U"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Explainer: Can social media companies really kick off Donald Trump? Yes"
+    excerpt: "Conservatives are crying foul over the suspension of Donald Trump from social media, but the 1st Amendment doesn't apply to private platforms"
+    publishedDateTime: 2021-01-10T22:23:00Z
+    webUrl: "https://www.detroitnews.com/story/tech/2021/01/10/explainer-social-media-companies-ban-trump/6617801002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/6617801002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6617801002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/10/PDTN/a7c8b4d1-1eae-4861-aebb-e20a957f6eb0-AP21009043612110.jpg?auto=webp&crop=2037,1146,x1349,y1095&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Ivanka Trump Deletes Tweet That Hailed Rioters As 'American Patriots'"
-    excerpt: "Ivanka Trump deleted a tweet after the Twitterati took her to task for describing her father's supporters who stormed the Capitol as \"American Patriots.\" Trump called on the armed protesters to stand down about a half-hour after President Trump first asked the crowd to respect the Capitol police."
-    publishedDateTime: 2021-01-06T21:57:00Z
-    webUrl: "https://www.ibtimes.com/ivanka-trump-deletes-tweet-hailed-rioters-american-patriots-3115979"
-    ampWebUrl: "https://www.ibtimes.com/ivanka-trump-deletes-tweet-hailed-rioters-american-patriots-3115979?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivanka-trump-deletes-tweet-hailed-rioters-american-patriots-3115979?amp=1"
+  - title: "Trump's Secret Service detail could be subpoenaed to testify against him in criminal proceedings and former agents are stressed about it"
+    excerpt: "President Donald Trump's security detail could face subpoenas in future legal proceedings. Former agents worry that will make him harder to protect."
+    publishedDateTime: 2021-01-12T21:54:00Z
+    webUrl: "https://www.businessinsider.com/secret-service-agents-testify-trump-criminal-courts-nixon-clinton-lewinsky-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/5ffe06cefe7e140019f7e88b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Twitter Bans President Donald Trump's Account Permanently After Shopify Terminated POTUS-Affiliated Stores"
+    excerpt: "Twitter has decided to permanently ban Donald Trump from its platform \"due to the risk of further incitement of violence.\""
+    publishedDateTime: 2021-01-09T03:10:00Z
+    webUrl: "https://www.ibtimes.com/twitter-bans-president-donald-trumps-account-permanently-after-shopify-terminated-3117750"
+    ampWebUrl: "https://www.ibtimes.com/twitter-bans-president-donald-trumps-account-permanently-after-shopify-terminated-3117750?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-bans-president-donald-trumps-account-permanently-after-shopify-terminated-3117750?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 75
+    quality: 57
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/12-times-donald-trump-acted-totally-inappropriately-ivanka-09.jpg"
-        width: 800
-        height: 450
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/democrats-in-the-us-house-of-representatives-have.jpg"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "The Latest: Trump tells 'very special' protesters to go home"
-    excerpt: "The Latest on Congress’ tally of the Electoral College vote won by Joe Biden and of protests near the Capitol."
-    publishedDateTime: 2021-01-06T22:20:00Z
-    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-tells-very-special-protesters-to-go-home/article_934f496d-897f-513e-b241-c099d0c09379.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-tells-very-special-protesters-to-go-home/article_934f496d-897f-513e-b241-c099d0c09379.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/the-latest-trump-tells-very-special-protesters-to-go-home/article_934f496d-897f-513e-b241-c099d0c09379.amp.html"
+  - title: "Mob Storms US Capitol As Trump Accused Of 'Coup'"
+    excerpt: "Hours after an extraordinary rally by Trump challenging his defeat, his flag-waving backers broke down barricades outside the Capitol and swarmed inside, with the special session going into an emergency recess as protesters entered the chambers."
+    publishedDateTime: 2021-01-06T20:30:00Z
+    webUrl: "https://www.ibtimes.com/mob-storms-us-capitol-trump-accused-coup-3115809"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 75
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/0/b7/0b713209-3425-5ae1-89a1-343d1583087a/5ff60dc3ce5ed.image.jpg"
-        width: 512
-        height: 341
-        isCached: true
-  - title: "Donald Trump to mob at Capitol: 'I know your pain... but you have to go home now'"
-    excerpt: "President Donald Trump issued a brief video statement on Twitter late Wednesday urging the unruly mob of his supporters at the US Capitol to go home, even as he continued"
-    publishedDateTime: 2021-01-06T21:23:00Z
-    webUrl: "https://www.nola.com/news/politics/national_politics/article_77a5caa2-5065-11eb-a4cd-430a126f9d7e.html"
-    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_77a5caa2-5065-11eb-a4cd-430a126f9d7e.amp.html"
-    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_77a5caa2-5065-11eb-a4cd-430a126f9d7e.amp.html"
-    type: article
-    provider:
-      name: NOLA.com
-      domain: nola.com
-    quality: 70
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/3/7a/37a9e6e5-5a50-51a6-ae61-cf84bed6c2e2/5ff625ff0cd4a.image.jpg?resize=1024%2C682"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/06/supporters-of-us-president-donald-trump-gather-for.jpg"
         width: 1024
         height: 682
         isCached: true

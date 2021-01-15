@@ -2,6 +2,170 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-11-angela-merkel-rips-twitters-problematic-trump-ban.md",
+      "title": "Angela Merkel rips Twitter's 'problematic' Trump ban",
+      "excerpt": "German Chancellor Angela Merkel considers President Donald Trump's eviction from Twitter by the company \"problematic,\" her spokesman said Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lW-T3bm5Wzc/angela-merkel-rips-twitters-problematic-trump-ban",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lW-T3bm5Wzc/angela-merkel-rips-twitters-problematic-trump-ban",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP20365599203324.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/angela-merkel-rips-twitters-problematic-trump-ban.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/angela-merkel-rips-twitters-problematic-trump-ban.amp",
+      "publishedDateTime": "2021-01-11T11:33:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-cuomo-de-blasio-are-banking-on-a-bailout-from-biden-while-lockdowns-are-in-effect-gasparino.md",
+      "title": "Cuomo, De Blasio are 'banking on a bailout from Biden' while lockdowns are in effect: Gasparino",
+      "excerpt": "New York Gov. Andrew Cuomo and New York City Mayor Bill de Blasio are prolonging the shutdown of New York because they are expecting a bailout from the incoming Biden administration and the Democrat-controlled Congress.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oAywkfxC_k8/cuomo-de-blasio-banking-bailout-biden-while-lockdowns-gasparino",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oAywkfxC_k8/cuomo-de-blasio-banking-bailout-biden-while-lockdowns-gasparino",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-de-blasio-banking-bailout-biden-while-lockdowns-gasparino.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-de-blasio-banking-bailout-biden-while-lockdowns-gasparino.amp",
+      "publishedDateTime": "2021-01-11T10:53:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-house-democrats-move-to-impeach-trump-for-incitement-of-insurrection-live.md",
+      "title": "House Democrats move to impeach Trump for 'incitement of insurrection' – live",
+      "excerpt": "House resolution says Donald Trump ‘engaged in high crimes and misdemeanors by willfully inciting violence against the government’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/6d5c7db8fae6479736bf7df99a1b2e6e9471ae1f/0_0_3708_2472/master/3708.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dcf2b68ea017aa4952150faf20c5de4d",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates",
+      "publishedDateTime": "2021-01-11T10:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-washington-monument-closes-through-bidens-inauguration-due-to-credible-threats.md",
       "title": "Washington monument closes through Biden's inauguration due to 'credible threats'",
       "excerpt": "The National Park Service said Monday it is suspending tours of the Washington Monument until Jan. 24 or longer due to \"credible threats\" from groups involved in the violence at the U.S. Capitol on Jan. 6.",
@@ -114,58 +278,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-12-explainer-how-will-trump-get-his-message-out-without-social-media.md",
-      "title": "Explainer-How will Trump get his message out without social media?",
-      "excerpt": "The decision by tech companies to clamp down on President Donald Trump's ability to speak to followers through mainstream social media may force him to tap more traditional methods of communication or more isolated conservative online channels during his final days in",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-trump-communication/explainer-how-will-trump-get-his-message-out-without-social-media-idUSL1N2JL0FR",
-      "originalUrl": "https://www.reuters.com/article/usa-trump-communication/explainer-how-will-trump-get-his-message-out-without-social-media-idUSL1N2JL0FR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547351176&r=LYNXMPEH0A0LP&w=800",
-          "width": 800,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-11-vogues-kamala-harris-cover-photos-spark-controversy-washed-out-mess.md",
       "title": "Vogue's Kamala Harris cover photos spark controversy: 'Washed out mess'",
       "excerpt": "First woman of color elected vice-president is February cover star but users complain about lighting",
@@ -174,7 +286,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour?fbclid=IwAR1bNX4SBZrhlR_3TtForOSsodHxc-6OWQbLFglDCZ2N9L3EKdFRGsmiwEA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -339,7 +451,7 @@
       "originalUrl": "https://www.cbsnews.com/news/parler-down-aws-web-hosting-trump/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -439,6 +551,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-11-trump-may-turn-to-giuliani-again-to-defend-against-impeachment.md",
+      "title": "Trump may turn to Giuliani again to defend against impeachment",
+      "excerpt": "President Donald Trump may turn to Rudy Giuliani to defend him against possible impeachment over his role in last week’s violent siege of the U.S. Capitol, according to two people familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-usa-trump-lawyers-idUKKBN29F0NB",
+      "originalUrl": "https://www.reuters.com/article/uk-usa-trump-lawyers-idUKKBN29F0NB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547312528&r=LYNXMPEH090GM&w=800",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-10T23:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-right-back-to-where-we-were-last-year-dems-seek-trump-impeachment.md",
       "title": "Right back to where we were last year: Dems seek Trump impeachment",
       "excerpt": "",
@@ -492,6 +656,63 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-pga-pulls-major-2022-tournament-from-trumps-bedminster-days-after-deadly-riot.md",
+      "title": "PGA pulls major 2022 tournament from Trump's Bedminster days after deadly riot",
+      "excerpt": "Playing at the New Jersey golf course \"would be detrimental to the PGA of America brand,\" the association president said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/us-news/pga-pulls-major-2022-tournament-trump-s-bedminster-days-after-n1253371",
+      "originalUrl": "https://www.nbcnews.com/news/us-news/pga-pulls-major-2022-tournament-trump-s-bedminster-days-after-n1253371",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2021_01/3440542/210107-bedminster-golf-club-ew-437p_75076742c4f9d6f2d806e79f607548f8.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253371",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253371",
+      "publishedDateTime": "2021-01-10T20:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -552,6 +773,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-11-ocasio-cortez-slams-lawmakers-who-ask-for-healing-and-reject-trump-impeachment.md",
+      "title": "Ocasio-Cortez Slams Lawmakers Who Ask For 'Healing' And Reject Trump Impeachment",
+      "excerpt": "A group of GOP lawmakers penned a letter asking House Democrats to discontinue their efforts of impeaching Trump and embrace \"healing\" following Wednesday's siege of the Capitol.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622",
+      "originalUrl": "https://www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/alexandria-ocasio-cortez-the-darling-of-the-us.jpg",
+          "width": 1024,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622?amp=1",
+      "publishedDateTime": "2021-01-10T19:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-reports-donald-trump-plans-to-give-patriots-bill-belichick-medal-of-freedom-this-week.md",
       "title": "Reports: Donald Trump plans to give Patriots' Bill Belichick Medal of Freedom this week",
       "excerpt": "According to reports on Sunday, President Donald Trump plans to award Patriots coach Bill Belichick the Presidential Medal of Freedom on Thursday.",
@@ -560,7 +833,7 @@
       "originalUrl": "https://www.usatoday.com/story/sports/nfl/patriots/2021/01/10/donald-trump-patriots-bill-belichick-medal-freedom/6618452002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 217,
       "tags": null,
       "images": [
         {
@@ -584,6 +857,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency.md",
+      "title": "Pelosi says House will proceed with efforts to remove Trump 'with urgency'",
+      "excerpt": "House will first try to force Mike Pence to oust president by invoking 25th amendment and then move forward with impeachment",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/82ba8a9dc582f8706f2fd5d845b32ce2f95b88a8/0_1_4324_2595/master/4324.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=acb1e10affbd6476f4946d69cacd439d",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
+      "publishedDateTime": "2021-01-10T15:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -881,7 +1206,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 335,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -982,63 +1307,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-10-kamala-harris-gains-prominent-new-role-thanks-to-democrats-senate-majority.md",
-      "title": "Kamala Harris gains prominent new role thanks to Democrats' Senate majority",
-      "excerpt": "Kamala Harris’s vice presidential portfolio was nebulous before last week. But thanks to Democrats’ upset victories in two Georgia Senate run-offs, Harris has unexpectedly earned a new title: Senate tie breaker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/01/10/kamala-harris-democrat-senate-majority-456910",
-      "originalUrl": "https://www.politico.com/news/2021/01/10/kamala-harris-democrat-senate-majority-456910",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/b5/0a/a4786468485394b0c4c00fa489a5/210109-kamala-harris-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/10/kamala-harris-democrat-senate-majority-456910",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/10/kamala-harris-democrat-senate-majority-456910",
-      "publishedDateTime": "2021-01-10T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-10-roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen.md",
       "title": "Roy Blunt balks at attempt to impeach Trump again: ‘Not going to happen’",
       "excerpt": "Roy Blunt, R-Mo., Friday balked at the idea of a second impeachment of President Trump.",
@@ -1092,285 +1360,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-nancy-pelosi-in-60-minutes-interview-slams-trump-as-deranged-calls-for-prosecution.md",
-      "title": "Nancy Pelosi, in ‘60 Minutes’ interview, slams Trump as ‘deranged,’ calls for ‘prosecution’",
-      "excerpt": "President Trump is \"deranged, unhinged, dangerous,\" and deserving of prosecution, House Speaker Nancy Pelosi says in an interview scheduled to air Sunday night on \"60 Minutes.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Co4Y0dQ4huI/nancy-pelosi-in-60-minutes-interview-slams-trump-as-deranged-calls-for-prosecution",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Co4Y0dQ4huI/nancy-pelosi-in-60-minutes-interview-slams-trump-as-deranged-calls-for-prosecution",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Mo-Brooks2.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nancy-pelosi-in-60-minutes-interview-slams-trump-as-deranged-calls-for-prosecution.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nancy-pelosi-in-60-minutes-interview-slams-trump-as-deranged-calls-for-prosecution.amp",
-      "publishedDateTime": "2021-01-09T23:57:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-top-republican-says-trump-committed-impeachable-offenses.md",
-      "title": "Top Republican says Trump committed 'impeachable offenses'",
-      "excerpt": "Democrats' momentum for a fresh drive to quickly impeach outgoing President Donald Trump has gained support, and a top Republican said the president's role in the deadly riot at the Capitol by a violent mob of Trump supporters was worthy of rebuke.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_05a995faf0c04632b66729e7fb53de99_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
-      "publishedDateTime": "2021-01-09T21:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-pence-will-attend-bidens-inauguration.md",
-      "title": "Pence will attend Biden's inauguration",
-      "excerpt": "Vice President Mike Pence will attend the inauguration of President-elect Joe Biden, according to a source familiar.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j1z15qLz1_A/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j1z15qLz1_A/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 2360,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201002094925-01-pence-0925-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html",
-      "publishedDateTime": "2021-01-09T20:10:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-mediaite-parler-ceo-says-it-took-down-post-from-lin-wood-calling-for-mike-pences-execution.md",
-      "title": "Mediaite: Parler CEO says it took down post from Lin Wood calling for Mike Pence's execution ",
-      "excerpt": "The CEO of Parler, a social media platform popular among conservatives, told Mediaite that it removed a post from attorney Lin Wood calling for Vice President Mike Pence to be executed by \"firing squads.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wIFzI7LEwgw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wIFzI7LEwgw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210109215414-lin-wood-120220-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/09/politics/parler-lin-wood-mike-pence/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/parler-lin-wood-mike-pence/index.html",
-      "publishedDateTime": "2021-01-09T20:09:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-pence-has-not-ruled-out-25th-amendment-source-says.md",
-      "title": "Pence has not ruled out 25th Amendment, source says",
-      "excerpt": "Vice President Mike Pence has not ruled out an effort to invoke the 25th Amendment and wants to preserve the option in case President Donald Trump becomes more unstable, a source close to the vice president says.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BSkerE588Qs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BSkerE588Qs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210106202537-mike-pence-remarks-vpx-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-25th-amendment/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-25th-amendment/index.html",
-      "publishedDateTime": "2021-01-09T19:08:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

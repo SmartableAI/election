@@ -6,8 +6,8 @@
       "title": "Biden chief of staff Klain says he expects U.S. COVID-19 deaths to top 500,000 next month",
       "excerpt": "U.S. President-elect Joe Biden's incoming chief of staff Ron Klain said on Friday he expects the United States to hit 500,000 COVID-19 deaths next month.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-biden-klain/update-1-biden-chief-of-staff-klain-says-he-expects-u-s-covid-19-deaths-to-top-500000-next-month-idUSL1N2JQ268",
-      "originalUrl": "https://www.reuters.com/article/usa-biden-klain/update-1-biden-chief-of-staff-klain-says-he-expects-u-s-covid-19-deaths-to-top-500000-next-month-idUSL1N2JQ268",
+      "webUrl": "https://www.reuters.com/article/usa-biden-klain/update-1-biden-chief-of-staff-klain-says-he-expects-us-covid-19-deaths-to-top-500000-next-month-idUSL1N2JQ268",
+      "originalUrl": "https://www.reuters.com/article/usa-biden-klain/update-1-biden-chief-of-staff-klain-says-he-expects-us-covid-19-deaths-to-top-500000-next-month-idUSL1N2JQ268",
       "featuredContent": null,
       "highlight": null,
       "heat": 116,
@@ -305,21 +305,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-14-biden-forgoing-amtrak-trip-to-washington-over-security-fears.md",
-      "title": "Biden forgoing Amtrak trip to Washington over security fears",
-      "excerpt": "President-elect Joe Biden will no longer be taking an Amtrak train to Washington for his inauguration because of security concerns",
+      "path": "_news/2021-01-14-frances-le-maire-resolving-trade-sanctions-is-my-priority-for-biden-administration.md",
+      "title": "France's Le Maire: resolving trade sanctions is my priority for Biden administration",
+      "excerpt": "French Finance Minister Bruno Le Maire said on Thursday that resolving transatlantic trade sanctions were his priority for dealings with the incoming administration of U.S. President-elect Joe Biden.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-forgoing-amtrak-trip-washington-security-fears-75240422",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-forgoing-amtrak-trip-washington-security-fears-75240422",
+      "webUrl": "https://www.reuters.com/article/us-france-lemaire-usa/frances-le-maire-resolving-trade-sanctions-is-my-priority-for-biden-administration-idUSKBN29J15Q",
+      "originalUrl": "https://www.reuters.com/article/us-france-lemaire-usa/frances-le-maire-resolving-trade-sanctions-is-my-priority-for-biden-administration-idUSKBN29J15Q",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 98,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Health/WireAP_76e194e994ac4a12af2297d0bbd1395a_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547761954&r=LYNXMPEH0D0LH&w=800",
+          "width": 800,
+          "height": 533,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -327,16 +327,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-forgoing-amtrak-trip-washington-security-fears-75240422",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-forgoing-amtrak-trip-washington-security-fears-75240422",
-      "publishedDateTime": "2021-01-13T19:23:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-14T07:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -469,7 +469,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -994,7 +994,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 505,
+      "heat": 485,
       "tags": null,
       "images": [
         {
@@ -1193,7 +1193,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/04/georgia-senate-runoffs-trump-biden-rallies?fbclid=IwAR04dNRcXmbyCYDopmtLee754mYFPaxY9BtnJA24B6ZFIDMKVnxDEQXa7Yg",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 239,
       "tags": null,
       "images": [
         {

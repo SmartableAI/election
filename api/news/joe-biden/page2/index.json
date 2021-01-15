@@ -1386,6 +1386,63 @@
       ]
     },
     {
+      "path": "_news/2020-12-18-joe-biden-wears-a-kick-me-sign.md",
+      "title": "Joe Biden Wears a ‘Kick Me’ Sign",
+      "excerpt": "Critics like AOC and Sanders believe there is no price to be paid, and benefits to be gained, by publicly pressuring the new administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964",
+      "originalUrl": "https://www.politico.com/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/e3/5e/3ba27c9c4f00b80e8b1e6788411a/ap20350034179902-1-c.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964",
+      "publishedDateTime": "2020-12-17T19:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-betsy-devos-tells-education-department-employees-to-resist-biden-administration-report-says.md",
       "title": "Betsy DeVos tells Education Department employees to 'resist' Biden administration, report says",
       "excerpt": "The education secretary under President Trump reportedly told agency workers to “be the resistance\" against changes they believe could hurt students.",
@@ -1544,59 +1601,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-politics-live-updates-biden-to-introduce-buttigieg-as-incoming-transportation-chief-wednesday.md",
-      "title": "Politics live updates: Biden to introduce Buttigieg as incoming Transportation chief Wednesday",
-      "excerpt": "Pete Buttigieg is scheduled to appear with Biden Wednesday for a formal announcement. On Twitter, he called the nomination a \"tremendous opportunity.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/16/politics-updates-biden-introduce-buttigieg-incoming-dot-chief/3916579001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/16/politics-updates-biden-introduce-buttigieg-incoming-dot-chief/3916579001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/16/USAT/36266745-f2f2-4cd8-ae8a-afc00b0c588c-GTY_1230145961.jpg?auto=webp&crop=5288,2975,x0,y352&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3916579001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3916579001",
-      "publishedDateTime": "2020-12-16T06:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Kamala Harris"
       ]
     }
   ],

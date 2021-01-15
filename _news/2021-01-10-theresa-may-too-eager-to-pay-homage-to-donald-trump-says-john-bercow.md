@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eage
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow"
 type: article
 quality: 125
-heat: 125
+heat: 185
 published: true
 
 provider:
@@ -29,6 +29,56 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "R&A says no plans to award the Open to Trump's Turnberry"
+    excerpt: "The chief executive of the R&A says Donald Trump’s ownership of Turnberry will prevent the Scottish course from staging the British Open for \"the foreseeable future.\""
+    publishedDateTime: 2021-01-11T14:40:00Z
+    webUrl: "https://abcnews.go.com/Sports/wireStory/ra-plans-award-open-trumps-turnberry-75176746"
+    ampWebUrl: "https://abcnews.go.com/amp/Sports/wireStory/ra-plans-award-open-trumps-turnberry-75176746"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/wireStory/ra-plans-award-open-trumps-turnberry-75176746"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1deda14e260e40a5b24a2a905e43a5f2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Tucker Carlson is making his play to be the post-Trump MAGA champion"
+    excerpt: "Did I think there were more Trump Republicans or more Republicans loyal to then-House Speaker Paul Ryan (R-Wis.)? I fell back on what polling indicated, which was that there were likely more of the latter."
+    publishedDateTime: 2021-01-14T20:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/14/tucker-carlson-is-making-his-play-be-post-trump-maga-champion/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/14/tucker-carlson-is-making-his-play-be-post-trump-maga-champion/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/14/tucker-carlson-is-making-his-play-be-post-trump-maga-champion/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFO4QXWDXMI6VCIINCRLT2XJ4A.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "U.S. judge says Bolton may probe whether White House delayed security aide’s memoir to protect Trump from embarrassment"
+    excerpt: "Justice Dept. seeks profits from “The Room Where it Happened”; court rules Bolton may not challenge whether manuscript contained classified information"
+    publishedDateTime: 2021-01-15T04:26:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/us-judge-says-bolton-may-probe-whether-white-house-delayed-security-aides-memoir-to-protect-trump-from-embarrassment/2021/01/14/04eae026-569e-11eb-a08b-f1381ef3d207_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/us-judge-says-bolton-may-probe-whether-white-house-delayed-security-aides-memoir-to-protect-trump-from-embarrassment/2021/01/14/04eae026-569e-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/us-judge-says-bolton-may-probe-whether-white-house-delayed-security-aides-memoir-to-protect-trump-from-embarrassment/2021/01/14/04eae026-569e-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 101
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VXVECLRQZQI6VICT3RWZIS5HOY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "esrllPJ1jKNoGGq3kSpTn7n/c028af+xp8zLATiLV3Ddo6wQdFDyI5kz17ndrSsTMy0rzBIm8hp8fD4k2AgBDOal0HODoiBcfiWoQp+h9f+UPqLUKPVsIj0tplixi0GThrxA7bBz5w7VZvO1Vsx6mgXlIc+vw3ZnupZwHY5rQReEU+eWE5O7w1wKz2kHyPPgAPa7SFYr+5xUjU5wGhTy5iCzPqqIIpuBENmtj3c1+ypDRk+5PXuRI9WKsnD04tHMQFH6nDHGxDtsg7L28fAM+jHM4akJQuV8s19hz0fOLZgtqdE+sTueGsipM8EoSgCd2SC/ArPoqKoJlJTbCDQa37NSyWkRECtP6h2xO/Ms64HuSu2gYECjTfoxhAKbEBH9fl60TgPl9AuFtHyWgsBZiQQWzLD8F5I5i1uPiTu9/chh9q3qldbSEp1xCVu+8JRB2LvohnLVecry2OefmVZ78iUDBfJTyHhRapP/WLDm3fUfbzk0evBsN8FhCCMIWOOzaWJudy3oN6pJ4XQllsZ+ug==;WWFz9amGiYPunYbs2m9fZA=="
 ---

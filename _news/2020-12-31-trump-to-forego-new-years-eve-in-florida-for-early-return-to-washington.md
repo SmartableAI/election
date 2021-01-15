@@ -95,6 +95,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Corporate America urges officials to consider quick removal of Trump"
+    excerpt: "The head of a major U.S. business group urged senior U.S. officials to consider removing President Donald Trump from office after supporters of the outgoing president stormed the U.S. Capitol."
+    publishedDateTime: 2021-01-07T02:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-elections-companies-idUSKBN29B2WR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29B2WR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B2WR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546880792&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH051JP"
+        width: 817
+        height: 545
+        isCached: true
   - title: "The Trump roadshow whines to a close with a grasping, wistful last hurrah"
     excerpt: "The president sang a familiar tune about himself in an event that was only nominally about the Georgia runoffs that will decide who controls the Senate."
     publishedDateTime: 2021-01-05T20:42:00Z
@@ -143,12 +159,39 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "U.S. Capitol locked down as Trump supporters clash with police"
+    excerpt: "The U.S. Capitol locked down Wednesday with lawmakers inside as violent clashes broke out between supporters of President Donald Trump and police. An announcement was played inside the Capitol as lawmakers were meeting and expected to vote to affirm Joe Biden’s victory."
+    publishedDateTime: 2021-01-06T17:52:00Z
+    webUrl: "https://www.al.com/news/2021/01/us-capitol-locked-down-as-trump-supporters-clash-with-police.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/us-capitol-locked-down-as-trump-supporters-clash-with-police.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/us-capitol-locked-down-as-trump-supporters-clash-with-police.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LARV2ZXNCFFH3BFPCWAVDLIABA.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump Extends Visa Ban; Court Clears Health Insurance Rule"
     excerpt: "President Donald Trump has extended pandemic-related bans on green cards and work visas to large groups of applicants through March 31."
     publishedDateTime: 2021-01-01T08:14:00Z
     webUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-extends-pandemic-related-visa-ban-through-march-31"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-12-31/trump-extends-pandemic-related-visa-ban-through-march-31?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-12-31/trump-extends-pandemic-related-visa-ban-through-march-31?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Shocking, But Predictable, Violence in Donald Trump’s Final Days"
+    excerpt: "Critics say the violence in the nation’s capital was a long time coming after President Donald Trump’s litany of comments excusing – or encouraging – such actions."
+    publishedDateTime: 2021-01-06T23:29:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2021-01-06/shocking-but-predictable-violence-in-donald-trumps-final-days"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2021-01-06/shocking-but-predictable-violence-in-donald-trumps-final-days?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2021-01-06/shocking-but-predictable-violence-in-donald-trumps-final-days?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

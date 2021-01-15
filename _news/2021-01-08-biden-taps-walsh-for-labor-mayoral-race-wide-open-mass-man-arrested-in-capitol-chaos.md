@@ -1360,10 +1360,10 @@ related:
         isCached: true
   - title: "Why Does Australia Want to Kill a Bird Named Joe (Biden)?"
     excerpt: "A racing pigeon that appeared to have traveled from Oregon to a backyard in Melbourne faces death. But there’s a twist."
-    publishedDateTime: 2021-01-15T08:36:00Z
-    webUrl: "https://www.nytimes.com/2021/01/15/world/australia/joe-pigeon.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/15/world/australia/joe-pigeon.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/15/world/australia/joe-pigeon.amp.html"
+    publishedDateTime: 2021-01-15T07:01:00Z
+    webUrl: "https://www.nytimes.com/2021/01/15/world/australia/racing-pigeon-joe-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/15/world/australia/racing-pigeon-joe-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/15/world/australia/racing-pigeon-joe-biden.amp.html"
     type: article
     provider:
       name: New York Times

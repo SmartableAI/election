@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-01-11-trumps-search-for-online-outlet-just-got-tougher-parler-has-gone-dark.md",
-      "title": "Trump's search for online outlet just got tougher: Parler has gone dark",
-      "excerpt": "Site popular with far-right went down, at least for now, after it was yanked by Google, Apple and Amazon in wake of the siege of gthe Capitol.",
+      "path": "_news/2021-01-11-trump-may-turn-to-giuliani-again-to-defend-against-impeachment.md",
+      "title": "Trump may turn to Giuliani again to defend against impeachment",
+      "excerpt": "President Donald Trump may turn to Rudy Giuliani to defend him against possible impeachment over his role in last week’s violent siege of the U.S. Capitol, according to two people familiar with the matter.",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/parler-down-aws-web-hosting-trump/",
-      "originalUrl": "https://www.cbsnews.com/news/parler-down-aws-web-hosting-trump/",
+      "webUrl": "https://www.reuters.com/article/uk-usa-trump-lawyers-idUKKBN29F0NB",
+      "originalUrl": "https://www.reuters.com/article/uk-usa-trump-lawyers-idUKKBN29F0NB",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 165,
       "tags": null,
       "images": [
         {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/11/b27e4e69-acf8-4d8e-8e6b-445025ba0a4f/thumbnail/1200x630/3995c5476ca7ad949ef9c36c8489aaf5/gettyimages-1230529588.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547312528&r=LYNXMPEH090GM&w=800",
+          "width": 800,
+          "height": 533,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/parler-down-aws-web-hosting-trump/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/parler-down-aws-web-hosting-trump/",
-      "publishedDateTime": "2021-01-11T04:00:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-10T23:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -51,6 +51,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-pga-pulls-major-2022-tournament-from-trumps-bedminster-days-after-deadly-riot.md",
+      "title": "PGA pulls major 2022 tournament from Trump's Bedminster days after deadly riot",
+      "excerpt": "Playing at the New Jersey golf course \"would be detrimental to the PGA of America brand,\" the association president said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/us-news/pga-pulls-major-2022-tournament-trump-s-bedminster-days-after-n1253371",
+      "originalUrl": "https://www.nbcnews.com/news/us-news/pga-pulls-major-2022-tournament-trump-s-bedminster-days-after-n1253371",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2021_01/3440542/210107-bedminster-golf-club-ew-437p_75076742c4f9d6f2d806e79f607548f8.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253371",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253371",
+      "publishedDateTime": "2021-01-10T20:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -111,6 +168,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-11-ocasio-cortez-slams-lawmakers-who-ask-for-healing-and-reject-trump-impeachment.md",
+      "title": "Ocasio-Cortez Slams Lawmakers Who Ask For 'Healing' And Reject Trump Impeachment",
+      "excerpt": "A group of GOP lawmakers penned a letter asking House Democrats to discontinue their efforts of impeaching Trump and embrace \"healing\" following Wednesday's siege of the Capitol.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622",
+      "originalUrl": "https://www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/alexandria-ocasio-cortez-the-darling-of-the-us.jpg",
+          "width": 1024,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622?amp=1",
+      "publishedDateTime": "2021-01-10T19:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-reports-donald-trump-plans-to-give-patriots-bill-belichick-medal-of-freedom-this-week.md",
       "title": "Reports: Donald Trump plans to give Patriots' Bill Belichick Medal of Freedom this week",
       "excerpt": "According to reports on Sunday, President Donald Trump plans to award Patriots coach Bill Belichick the Presidential Medal of Freedom on Thursday.",
@@ -119,7 +228,7 @@
       "originalUrl": "https://www.usatoday.com/story/sports/nfl/patriots/2021/01/10/donald-trump-patriots-bill-belichick-medal-freedom/6618452002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 217,
       "tags": null,
       "images": [
         {
@@ -143,6 +252,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency.md",
+      "title": "Pelosi says House will proceed with efforts to remove Trump 'with urgency'",
+      "excerpt": "House will first try to force Mike Pence to oust president by invoking 25th amendment and then move forward with impeachment",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/82ba8a9dc582f8706f2fd5d845b32ce2f95b88a8/0_1_4324_2595/master/4324.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=acb1e10affbd6476f4946d69cacd439d",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment",
+      "publishedDateTime": "2021-01-10T15:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -428,6 +589,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-10-trump-to-visit-us-mexico-border-to-laud-border-wall.md",
+      "title": "Trump to visit U.S.-Mexico border to laud border wall",
+      "excerpt": "Mexico border on Tuesday to highlight his administration’s work on the border wall, the White House said Saturday Trump will travel to the town of Alamo, Texas",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 365,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-09T22:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-top-republican-says-trump-committed-impeachable-offenses.md",
       "title": "Top Republican says Trump committed 'impeachable offenses'",
       "excerpt": "Democrats' momentum for a fresh drive to quickly impeach outgoing President Donald Trump has gained support, and a top Republican said the president's role in the deadly riot at the Capitol by a violent mob of Trump supporters was worthy of rebuke.",
@@ -436,7 +649,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -536,7 +749,7 @@
       "originalUrl": "https://www.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -640,7 +853,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -736,58 +949,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-09-twitter-permanently-suspends-trumps-account-to-prevent-further-incitement-of-violence.md",
-      "title": "Twitter permanently suspends Trump's account to prevent 'further incitement of violence'",
-      "excerpt": "Company determines two Friday tweets were ‘highly likely’ to encourage behavior like the storming of the Capitol",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/cb3085d44c438f92e1d27c124206000f7a1ef803/0_234_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84cd92c9ac7d53daa4a5f23201ca314d",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
-      "publishedDateTime": "2021-01-09T00:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-09-coming-clean-i-made-an-error-in-my-otherwise-admirable-column-on-donald-trump.md",
       "title": "Coming clean: I made an error in my otherwise 'admirable' column on Donald Trump",
       "excerpt": "In my column Wednesday I wondered how President Donald Trump could possibly rate as America’s most admired man in a recent Gallup Poll when he exhibited only",
@@ -820,6 +981,110 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-why-trumps-response-to-capitol-siege-evokes-memories-of-charlottesville.md",
+      "title": "Why Trump's response to Capitol siege evokes memories of Charlottesville",
+      "excerpt": "Trump groups violently stormed the U.S. Capitol, the surreal images took many back to a dark chapter when white supremacists openly descended upon Charlottesville.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122",
+      "originalUrl": "https://abcnews.go.com/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/washington-dc-capitol-riot-charlottesville-donald-trump-election-01-gty-llr-210106_1609982976596_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122",
+      "publishedDateTime": "2021-01-08T12:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-09-billionaire-trump-supporters-catsimatidis-olenicoff-say-he-isnt-to-blame-for-us-capitol-attack.md",
+      "title": "Billionaire Trump supporters Catsimatidis, Olenicoff say he isn't to blame for US Capitol attack",
+      "excerpt": "Few of Trump's billionaire donors have named the president in their public condemnations of the riots. Two actually say Trump didn't incite them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/billionaires-catsimatidis-olenicoff-dont-blame-trump-on-capitol-riot-2021-1",
+      "originalUrl": "https://www.businessinsider.com/billionaires-catsimatidis-olenicoff-dont-blame-trump-on-capitol-riot-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff88ee4bde805001980be45?width=1200&format=jpeg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-08T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -945,21 +1210,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-08-trumps-billionaire-backers-are-horrified-by-the-insurrection-at-the-capitol-but-only-one-has-broken-with-him.md",
-      "title": "Trump's billionaire backers are 'horrified' by the insurrection at the Capitol but only one has broken with him",
-      "excerpt": "More than 100 billionaires have donated to Donald Trump's political campaigns. Few of them are willing to speak out regarding the US Capitol attack.",
+      "path": "_news/2021-01-08-elaine-chao-betsy-devos-step-down-from-trump-cabinet-following-capitol-storming.md",
+      "title": "Elaine Chao, Betsy DeVos step down from Trump Cabinet following Capitol storming",
+      "excerpt": "Transportation Secretary Elaine Chao became the first Trump Cabinet member to resign in the wake of Wednesday's storming of the Capitol by the president's supporters.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/pro-trump-billionaires-mostly-silent-on-the-us-capitol-attack-2021-1",
-      "originalUrl": "https://www.businessinsider.com/pro-trump-billionaires-mostly-silent-on-the-us-capitol-attack-2021-1",
+      "webUrl": "https://abcnews.go.com/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
+      "originalUrl": "https://abcnews.go.com/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 200,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5ff78426d184b30018aada7d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://s.abcnews.com/images/Politics/betsy-devos_hpMain_20210107-210515_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -967,16 +1232,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-08T06:38:00-08:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
+      "publishedDateTime": "2021-01-08T00:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -997,19 +1262,71 @@
       ]
     },
     {
-      "path": "_news/2021-01-08-elaine-chao-betsy-devos-step-down-from-trump-cabinet-following-capitol-storming.md",
-      "title": "Elaine Chao, Betsy DeVos step down from Trump Cabinet following Capitol storming",
-      "excerpt": "Transportation Secretary Elaine Chao became the first Trump Cabinet member to resign in the wake of Wednesday's storming of the Capitol by the president's supporters.",
+      "path": "_news/2021-01-08-donald-trump-recognises-new-administration-after-us-capitol-riot-video.md",
+      "title": "Donald Trump recognises 'new administration' after US Capitol riot – video",
+      "excerpt": "Donald Trump acknowledges in a video released on Thursday night that a 'new administration' will be inaugurated on 20 January, and condemns rioters who attacked the US Capitol",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
-      "originalUrl": "https://abcnews.go.com/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
+      "webUrl": "https://www.theguardian.com/us-news/video/2021/jan/08/donald-trump-recognises-new-administration-after-us-capitol-riot-video",
+      "originalUrl": "https://www.theguardian.com/us-news/video/2021/jan/08/donald-trump-recognises-new-administration-after-us-capitol-riot-video",
       "featuredContent": null,
       "highlight": null,
-      "heat": 180,
+      "heat": 123,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/betsy-devos_hpMain_20210107-210515_16x9_992.jpg",
+          "url": "https://i.guim.co.uk/img/media/872ace859d2e4c929a6286203231a45d3d1d8601/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e00827ed0967bb235bcbfb91af2dba8f",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T20:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-trump-official-merchandise-stores-removed-by-shopify.md",
+      "title": "Trump official merchandise stores removed by Shopify",
+      "excerpt": "The e-commerce platform Shopify said Thursday that it has terminated stores affiliated with President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903",
+      "originalUrl": "https://abcnews.go.com/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/capitol-statue-protest-gty-ps-210106_1609967664138_hpMain_16x9_992.jpg",
           "width": 992,
           "height": 558,
           "title": null,
@@ -1019,9 +1336,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
-      "publishedDateTime": "2021-01-08T00:13:00-08:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903",
+      "publishedDateTime": "2021-01-07T19:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ABC",
@@ -1114,7 +1431,7 @@
       "originalUrl": "https://www.bbc.com/news/amp/uk-politics-55580806",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1235,318 +1552,6 @@
       "ampWebUrl": "https://www.businessinsider.com/ceos-stop-funding-republicans-back-trump-election-challenge-jeffrey-sonnenfeld-2021-1?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ceos-stop-funding-republicans-back-trump-election-challenge-jeffrey-sonnenfeld-2021-1?amp",
       "publishedDateTime": "2021-01-07T08:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-we-are-all-joe-scarborough-msnbc-host-praised-for-f-word-rant-on-trump-rioters.md",
-      "title": "'We Are All Joe Scarborough:' MSNBC Host Praised For F-Word Rant On Trump Rioters",
-      "excerpt": "Scarborough on Thursday called for the arrest of Trump and others in a profanity-laced rant that went viral President Trump has been criticized for inciting violence and was temporarily banned from Twitter Scarborough received support on social media for his comments MSBNC host Joe Scarborough drew praise Thursday for an unfiltered commentary about the mob that raided Capitol.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/we-are-all-joe-scarborough-msnbc-host-praised-f-word-rant-trump-rioters-3116660",
-      "originalUrl": "https://www.ibtimes.com/we-are-all-joe-scarborough-msnbc-host-praised-f-word-rant-trump-rioters-3116660",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/03/11/joe-scarborough-msnbc.jpg",
-          "width": 1200,
-          "height": 982,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/we-are-all-joe-scarborough-msnbc-host-praised-f-word-rant-trump-rioters-3116660?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/we-are-all-joe-scarborough-msnbc-host-praised-f-word-rant-trump-rioters-3116660?amp=1",
-      "publishedDateTime": "2021-01-07T08:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-during-electoral-college-debate-us-sens-tammy-duckworth-and-richard-durbin-condemn-trump-and-violent-mob-that-stormed-us-capitol.md",
-      "title": "During Electoral College debate, U.S. Sens. Tammy Duckworth and Richard Durbin condemn Trump and violent mob that stormed U.S. Capitol",
-      "excerpt": "U.S. Sens. Tammy Duckworth and Richard Durbin condemn Trump and violent mob that stormed U.S. Capitol in floor speeches on Electoral College debate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html",
-      "originalUrl": "https://www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/i0uaW-P1fTTnA5vKcHmJbIvtCns=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LSMNSHFAONDRNECBWIUN5DE6FQ.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-06T22:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-hollywood-condemns-violence-of-trump-supporters-calls-them-domestic-terrorists.md",
-      "title": "Hollywood Condemns Violence Of Trump Supporters, Calls Them 'Domestic Terrorists'",
-      "excerpt": "Notable personalities such as Sacha Baron Cohen, Ava DuVernay, Michael Keaton, Selena Gomez and many more expressed their anger amid the riots that took place in Washington, D.C. where the protesters breached the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/hollywood-condemns-violence-trump-supporters-calls-them-domestic-terrorists-3116153",
-      "originalUrl": "https://www.ibtimes.com/hollywood-condemns-violence-trump-supporters-calls-them-domestic-terrorists-3116153",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/06/trump-supporters-clash-with-police-and-security-forces.jpg",
-          "width": 1024,
-          "height": 656,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/hollywood-condemns-violence-trump-supporters-calls-them-domestic-terrorists-3116153?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/hollywood-condemns-violence-trump-supporters-calls-them-domestic-terrorists-3116153?amp=1",
-      "publishedDateTime": "2021-01-06T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-facebook-indefinitely-blocks-trump-from-accessing-his-account.md",
-      "title": "Facebook indefinitely blocks Trump from accessing his account",
-      "excerpt": "Facebook CEO Mark Zuckerberg said the platform is blocking his Facebook and Instagram accounts \"indefinitely\" and for at least the next two weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/facebook-has-blocked-president-trump-indefinitely-2021-1",
-      "originalUrl": "https://www.businessinsider.com/facebook-has-blocked-president-trump-indefinitely-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ff72ec6d184b30018aad826?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/facebook-has-blocked-president-trump-indefinitely-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-has-blocked-president-trump-indefinitely-2021-1?amp",
-      "publishedDateTime": "2021-01-06T20:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-trump-tells-backers-to-go-home-after-capitol-stormed.md",
-      "title": "Trump tells backers to ‘go home’ after Capitol stormed",
-      "excerpt": "President Donald Trump urged supporters who stormed the Capitol to “go home” but also kept up false attacks about the presidential election",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-06T18:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-nancy-pelosi-and-chuck-schumer-call-on-trump-to-demand-protestors-to-leave-the-us-capitol-immediately.md",
-      "title": "Nancy Pelosi and Chuck Schumer call on Trump to demand protestors to leave the US Capitol 'immediately'",
-      "excerpt": "The joint statement came as President Donald Trump reportedly refused to listen to aides who advised he put out a stronger statement against the rioters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1",
-      "originalUrl": "https://www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ff62860d184b30018aad62d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1?amp",
-      "publishedDateTime": "2021-01-06T14:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

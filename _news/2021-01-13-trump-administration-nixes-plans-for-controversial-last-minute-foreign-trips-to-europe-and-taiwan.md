@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/trump-biden-transition-mike-pompeo-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-biden-transition-mike-pompeo-kelly-craft-europe-taiwan-travel-cancelled/"
 type: article
 quality: 112
-heat: 112
+heat: 132
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Vaccine reserve was already exhausted when Trump administration vowed to release it, dashing hopes of expanded access"
+    excerpt: "States were anticipating a windfall after federal officials said they would stop holding back second doses. But the policy had already changed, and no stockpile exists."
+    publishedDateTime: 2021-01-15T20:02:00Z
+    webUrl: "https://www.washingtonpost.com/health/2021/01/15/trump-vaccine-reserve-used-up/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2021/01/15/trump-vaccine-reserve-used-up/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/01/15/trump-vaccine-reserve-used-up/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NXIXITCVBEI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "Yp95dd1cBi5n0/Uj7Rx1DI1LUu3FKCAR7qLZNLnhec4k05HFebA0KMmTi6rJzStG9o1HD92WKiiSudbqwzmK395tJ8dGWnHqdvQEKKEMMeJDC6nVY1Eto9etdVyrehe2RigDX9QM+85mPjkXnEWaMmlJsqgm7RIwPzKACpg2hiHYqw+hUoLwO621+SyDPRybs5ww5NgLeHCxtzckr6hZlNIZk8bSy2RBItCwDfFV4Rc0aLU2f6Q4lTPfQTSSxSo7bW/3092kcsyNe9sw3bVZ1hBI1rEWAvOjehwI7YUhjbWnML7aGAj7x0dxot+s4ppZ1PuLoQr1KUIpNFZKfzttcKeIAVjf/T07F7CkTKPTql8=;1Ynl7sOjlBycP72xzhen/w=="
 ---

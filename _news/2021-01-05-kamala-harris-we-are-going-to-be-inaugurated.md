@@ -45,22 +45,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Kamala Harris Says Police ‘Let Extremists Storm the United States Capitol’"
-    excerpt: "We don’t need another rhetorical arsonist at work in Washington. Our country is in a bad enough situation as it is."
-    publishedDateTime: 2021-01-07T21:54:00Z
-    webUrl: "https://www.nationalreview.com/corner/kamala-harris-says-police-let-extremists-storm-the-united-states-capitol/"
-    ampWebUrl: "https://www.nationalreview.com/corner/kamala-harris-says-police-let-extremists-storm-the-united-states-capitol/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/kamala-harris-says-police-let-extremists-storm-the-united-states-capitol/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 73
-    images:
-      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/01/kamala-harris-transition-headquarters.jpg?fit=1200%2C700&ssl=1"
-        width: 1200
-        height: 700
-        isCached: true
 
 secured: "rHMBwZLAkqly778YpoXaQ+Z5nM67YSYGp6zOGTCCLhe7mJsLCxQqjTZ89bY0vfprG75Bk4ZoAtUcOmV7ITM5oTncvj76LLQY3Vqh6gj7U2ToDtnd2KXCxQTkUYhoggQccwZs7aWOrRXAPEpjcvlWwAfC6sOHhRuzn7Xmh3UvLsD055rZYp7coGynADNw+dTsRN+k6eSVAt0oRUnuDPxvJjO45Wy3oflG8olINSSKdjnH6EcX3RaNSv4Q9UlpyifZIAeCgRzvGejJLyHnhBAa0hbu3r9PUnuy9gGgDXoeMURYVzikpfQaiEUoDQTXtaxP/zUZlSdzt81K+gEug6Yc/0WxGrm2MDNpLrmszuNQJ+Y=;t65MTgW+CZuPXeYzR4n5gA=="
 ---

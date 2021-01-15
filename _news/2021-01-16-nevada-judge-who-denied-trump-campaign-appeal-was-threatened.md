@@ -39,6 +39,68 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Man convicted in 3 killings to be last executed under Trump"
+    excerpt: "The last federal inmate facing execution before President Donald Trump leaves office was sentenced to death for the killings of three women in a Maryland wildlife refuge"
+    publishedDateTime: 2021-01-15T14:39:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/man-convicted-killings-executed-trump-75275447"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/man-convicted-killings-executed-trump-75275447"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/man-convicted-killings-executed-trump-75275447"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_45df14acc72d4f259cd939ad5bb55f4b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "With Trump banned from Twitter, his supporters are parsing speeches for clues about what’s next"
+    excerpt: "Many of the president’s allies have struggled to glean clear marching orders from him since his banishment from social media."
+    publishedDateTime: 2021-01-14T22:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/with-trump-banned-from-twitter-his-supporters-are-parsing-speeches-for-clues-about-whats-next/2021/01/14/985e06dc-5534-11eb-a08b-f1381ef3d207_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/with-trump-banned-from-twitter-his-supporters-are-parsing-speeches-for-clues-about-whats-next/2021/01/14/985e06dc-5534-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/with-trump-banned-from-twitter-his-supporters-are-parsing-speeches-for-clues-about-whats-next/2021/01/14/985e06dc-5534-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R5HHSKSWOII6XIEL6E4B546SA4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Even more Trump family members are reportedly moving to Florida"
+    excerpt: "Ivanka Trump and Jared Kushner bought property in Miami. Now Donald Trump Jr. and Kimberly Guilfoyle are eyeing area real estate, as is Tiffany Trump."
+    publishedDateTime: 2021-01-13T22:46:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-jr-kimberly-guilfoyle-tiffany-trump-move-florida-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/5fff77abfe7e140019f7ed6a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Stripped of Twitter account, Donald Trump seeks new online megaphone"
+    excerpt: "Twitter ended Donald Trump’s nearly 12-year run on Friday. In shuttering his account it cited a tweet to his 89 million followers that he planned to skip President-elect Joe Biden’s Jan. 20 inauguration that it said gave rioters license to converge on Washington once again."
+    publishedDateTime: 2021-01-10T00:28:00Z
+    webUrl: "https://www.al.com/politics/2021/01/stripped-of-twitter-account-donald-trump-seeks-new-online-megaphone.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/stripped-of-twitter-account-donald-trump-seeks-new-online-megaphone.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/stripped-of-twitter-account-donald-trump-seeks-new-online-megaphone.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TSX7W4WCH5CT5MOMXABPVHQABY.png"
+        width: 503
+        height: 310
+        isCached: true
 
 secured: "aIAFhj43Q9HVNh/CTrqN+BSqbN19kelPqeHeEg7WAy2PH+qg2DttKhBHsGlGIUVkLbNSCsoMNNeLgaNsd5pjxFqFaWJTLyJfIayn0rpmA30m0qmfru4zyqbSD4ETXDhdfQNE3EmV6xJmE+PSvoKCf17QcNLeOZ0eg/BHAta1udax8kmzuuPe9G43Oy1Akf2m3B/Svi8FMQ9Xbnhgf4Z5y+3qL0FKVc2Ld5CN3+ZCnq5VRSOA70CbwDGOLrJ5nCmIQq7rerGSdSXQ3p/uIHTc2J72t8CjfVIdJFkbHsKxMF42MocLbuIQox4cf7OhcgGiItV0t3KisU3J3ljzDCIDd2GEjjogQz9nTCu0kdj7aIw=;AHUVtIghLThzA06hH7Gb0g=="
 ---

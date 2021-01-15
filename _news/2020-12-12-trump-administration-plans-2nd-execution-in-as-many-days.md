@@ -463,22 +463,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Pro-Trump supporters to rally again in Washington"
-    excerpt: "Supporters of President Donald Trump are returning to Washington for a pair of rallies to back his desperate efforts to subvert the election that he lost"
-    publishedDateTime: 2020-12-12T07:26:00Z
-    webUrl: "https://www.washingtonpost.com/politics/pro-trump-supporters-to-rally-again-in-washington/2020/12/11/87f543f4-3c21-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/pro-trump-supporters-to-rally-again-in-washington/2020/12/11/87f543f4-3c21-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pro-trump-supporters-to-rally-again-in-washington/2020/12/11/87f543f4-3c21-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Trump administration puts second man to death in two days"
     excerpt: "Alfred Bourgeois’s IQ put him in the intellectually disabled category, which should have barred execution, lawyers say"
     publishedDateTime: 2020-12-12T02:18:00Z

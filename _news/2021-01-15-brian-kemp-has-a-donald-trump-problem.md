@@ -128,36 +128,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump Tried to End Federal Arts Funding. Instead, It Grew."
-    excerpt: "President Trump’s proposed federal budget eliminated funding for the National Endowment for the Arts. But the agency survived, largely by relying on bipartisan support in Congress."
-    publishedDateTime: 2021-01-15T15:07:00Z
-    webUrl: "https://www.nytimes.com/2021/01/15/arts/trump-arts-nea-funding.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/15/arts/trump-arts-nea-funding.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/15/arts/trump-arts-nea-funding.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/13/arts/13NEA3/13NEA3-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Donald Trump Is the Perfect Leader of the Worst Generation"
-    excerpt: "During the floor debate Wednesday over the second and possibly final impeachment of President Donald Trump, there were references to him being the worst president in American history. Could be. It is worth recalling,"
-    publishedDateTime: 2021-01-14T13:36:00Z
-    webUrl: "https://www.politico.com/news/magazine/2021/01/14/trump-leader-worst-generation-459244"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/13/0d/adcda80f4ce5830d72794c6fa256/210113-trump-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "rL8IhegBnfEknhFKiryl0Fz8OwxGcl30mHy02Zlu0xdo04HSVxSl5E4OhXI81S5AoffYZpIhTgGUueSUxedK6gqWE7gJ1s9iXFmIc/ul4L3NeoB1FFBXFmw4KZYInVawj7b80jZR4XykxNzsuBwGD0Rp8fxgsEW8i/p3UgbjjVDGRtqeJqYx+wuJMqoB/s59AQIK+j+uH2aKUtbLbVOOB8RXJa3yXCSe4eSml79GaBrRH9kpurVcGqXAxnnmm6PZBkbcC/tU/A5LwHHxw83FJsCDlyz+8Asz7PbncV9vckRLokWTHsADYeozi5OqUo5P21bvdPF3aXXGshgKfI5GAwYe/Hg+f7snpUlijKv7EOWxT4p9bng4Nw1OWHXnKlELnCNHwAIznuYknRXTz7C10AZDYdHAZecOCZFntyUmCcgoRSq/JW7yfPtDBdgMlY1ZaGbm5YkFwu929vwRVNCX5Q0r6SG5VO2jDDH/uYBHfKYoAWvgOFqyrPPu37dAxDktQ91YfFNmx2Z8ig3qWZFuzg==;04otgpdQm7CqbmDucr2lwQ=="
 ---

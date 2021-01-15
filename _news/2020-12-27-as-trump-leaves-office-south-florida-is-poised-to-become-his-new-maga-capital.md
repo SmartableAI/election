@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "New York City to consider ending contracts with Trump that bring his company $17 million a year"
+    excerpt: "The city of New York said Monday that it was “reviewing whether legal grounds exist” to terminate its business relationships with President Trump, whose company has contracts to run a carousel, two ice rinks and a golf course in city parks."
+    publishedDateTime: 2021-01-12T06:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/new-york-trump-cancel/2021/01/11/3527257e-545a-11eb-a08b-f1381ef3d207_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/new-york-trump-cancel/2021/01/11/3527257e-545a-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/new-york-trump-cancel/2021/01/11/3527257e-545a-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QFO2YSSG4EI6PDPBZ3CZVG7UWE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "R1APWGm1pUW3FVSVigiDrINXw/XlK4/Uk4Jc1HB+KbTCW/4DCvNHWWKx8EhUlP1P0MJXkzEKtuq2afejM0rr8Pr6InP5baUUkuaHegFxmQakkWotU1KZwMi40g8X3iksWflh1oolEv/YIuv2kGybAuzxG8GKN+FZT8LrBKl5Ps1cL70cond69glTANXAgHbMSRcp5E1fIPNcf8w9Gp1FAN1kVSPZfWuJa0vkEBvIMD9tk2Lb1imH/SpB1DUeT9gyK5AFP+NXayzlO05lDQJhJjN+NBmtVx9nnCTIdJtJGP4iJ1gkOA0K7RJ+lyhBAhZJx8nx6dWf4mfnE6rW3eqe1TeDeQRip/+vBGBaUbRQpKLUAB6cPzyvDqzzKyxFpVvmcdA4EVt5qygNgQiFZJ62Lo/+PdpwT1QPYpiCIYf+PSpv/lOnr7XODMENTav3037+C2mkRF7QqGFEnOT3L1efOvCOQri7/a1sQ47/sMNrrtFIZ9G9xU4ZmH9RmzXSOdqGqVt9rlOF/owy2c0raCSNeg==;GYdOh0ouN8NOQNWotlN+mw=="
 ---

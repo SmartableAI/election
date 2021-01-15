@@ -2,6 +2,451 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-07-his-entire-legacy-was-wiped-out-yesterday-hill-republicans-ready-to-move-on-from-trump.md",
+      "title": "'His entire legacy was wiped out yesterday': Hill Republicans ready to move on from Trump",
+      "excerpt": "Congressional Republicans are done with Donald Trump.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1BckjlZ0H2k/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1BckjlZ0H2k/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210107134539-20-us-capitol-riots-0106-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/07/politics/trump-hill-republicans-move-on/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/trump-hill-republicans-move-on/index.html",
+      "publishedDateTime": "2021-01-07T14:41:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-ex-israeli-ambassador-danons-big-idea-biden-should-maintain-strong-stance-on-iran-partner-with-allies.md",
+      "title": "Ex-Israeli Ambassador Danon's Big Idea: Biden should maintain strong stance on Iran, partner with allies",
+      "excerpt": "The Big Idea is a series of Q&As with top lawmakers and figures.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WYsYWr-r1Fo/the-big-idea-amb-danny-danon-calls-for-tough-stance-on-iran",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WYsYWr-r1Fo/the-big-idea-amb-danny-danon-calls-for-tough-stance-on-iran",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6d2194d7-a447-4874-868b-6eb84de45ed9/b0113322-850b-41f4-b461-f5ee78507af3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/the-big-idea-amb-danny-danon-calls-for-tough-stance-on-iran.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-big-idea-amb-danny-danon-calls-for-tough-stance-on-iran.amp",
+      "publishedDateTime": "2021-01-07T13:56:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-capitol-rioting-overshadowed-trumps-accomplishments-pavlich.md",
+      "title": "Capitol rioting 'overshadowed' Trump's accomplishments: Pavlich",
+      "excerpt": "The Capitol Hill rioting and looting after President Trump addressed supporters Wednesday is \"overshadowing\" his accomplishments of the past four years, Fox News contributor Katie Pavlich argued Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AQcW58-pJQ8/capitol-rioting-overshadowed-trumps-accomplishments-pavlich",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AQcW58-pJQ8/capitol-rioting-overshadowed-trumps-accomplishments-pavlich",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/capitol-rioting-overshadowed-trumps-accomplishments-pavlich.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capitol-rioting-overshadowed-trumps-accomplishments-pavlich.amp",
+      "publishedDateTime": "2021-01-07T12:21:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-biden-says-capitol-was-stormed-by-riotous-mob-domestic-terrorists.md",
+      "title": "Biden says Capitol was stormed by ‘riotous mob,' 'domestic terrorists’",
+      "excerpt": "President-elect Joe Biden says that the supporters of President Trump who attacked the Capitol on Wednesday were “a riotous mob” and “domestic terrorists.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3RLhrHSD30c/biden-capitol-stormed-riotous-mob-domestic-terrorists",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3RLhrHSD30c/biden-capitol-stormed-riotous-mob-domestic-terrorists",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-capitol-stormed-riotous-mob-domestic-terrorists.amp",
+      "publishedDateTime": "2021-01-07T12:12:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-pelosi-will-impeach-if-cabinet-wont-oust-trump.md",
+      "title": "Pelosi: Will impeach if cabinet won’t oust Trump",
+      "excerpt": "This comes as top officials leave over Trump misconduct.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mh2iHot3Spw/pelosi-will-impeach-if-cabinet-wont-oust-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mh2iHot3Spw/pelosi-will-impeach-if-cabinet-wont-oust-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont-oust-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont-oust-trump.amp",
+      "publishedDateTime": "2021-01-07T12:03:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-joe-biden-black-lives-matter-protesters-would-have-been-treated-differently-at-capitol-demonstrations.md",
+      "title": "Joe Biden: Black Lives Matter protesters would have been ‘treated differently’ at Capitol demonstrations",
+      "excerpt": "President-elect Joe Biden called protesters at the Capitol a “mob of thugs” and said if they were a group of Black Lives Matter demonstrators they would have been “treated very differently.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/joe-biden-black-lives-matter-protesters-would-have-been-treated-differently-at-capitol-demonstrations-99068997831",
+      "originalUrl": "https://www.nbcnews.com/video/joe-biden-black-lives-matter-protesters-would-have-been-treated-differently-at-capitol-demonstrations-99068997831",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202101/nbc_spec_brk_blm_biden_200107_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo99068997831",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99068997831",
+      "publishedDateTime": "2021-01-07T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-capitol-riots-boris-johnson-condemns-donald-trump-for-sparking-events.md",
+      "title": "Capitol riots: Boris Johnson condemns Donald Trump for sparking events",
+      "excerpt": "Donald Trump was \"completely wrong\" to cast doubt on the US election and encourage supporters to storm the Capitol, Boris Johnson has said. The UK prime minister said he \"unreservedly condemns\" the US president's actions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/amp/uk-politics-55580806",
+      "originalUrl": "https://www.bbc.com/news/amp/uk-politics-55580806",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E4E6/production/_116389585_johnsontrump.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/uk-politics-55580806",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-politics-55580806",
+      "publishedDateTime": "2021-01-07T10:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-07-republicans-blame-trump-after-his-supporters-storm-capitol-enough-is-enough.md",
+      "title": "Republicans blame Trump after his supporters storm Capitol: 'Enough is enough'",
+      "excerpt": "Some Republicans placed the blame on President Trump after a group of his supporters besieged the U.S. Capitol building on Wednesday",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AkB0z7DI85c/republicans-blame-trump-after-his-supporters-storm-capitol",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AkB0z7DI85c/republicans-blame-trump-after-his-supporters-storm-capitol",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9ebc064-503d-4207-bc1d-8e5b2960e353/a78ecef5-c9c7-4b9c-8397-2875ff384dbf/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-blame-trump-after-his-supporters-storm-capitol.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-blame-trump-after-his-supporters-storm-capitol.amp",
+      "publishedDateTime": "2021-01-07T10:02:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-book-of-the-moment-audience-of-one-donald-trump-television-and-the-fracturing-of-america.md",
       "title": "Book of the moment: ‘Audience of One: Donald Trump, Television, and the Fracturing of America’",
       "excerpt": "For a deeper understanding of this week's insurrection at the Capitol and the end of Donald Trump's presidency, read \"Audience of One: Donald Trump, Television, and the Fracturing of America\" by James Poniewozik.",
@@ -62,7 +507,7 @@
       "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/01/07/pence-says-violence-never-wins-after-senate-resumes-electoral-count/6575926002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -375,6 +820,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-07-iraq-issues-arrest-warrant-for-trump-over-soleimani-killing.md",
+      "title": "Iraq issues arrest warrant for Trump over Soleimani killing",
+      "excerpt": "Iraq’s judiciary says it has issued an arrest warrant for outgoing President Donald Trump in connection with the killing of an Iranian general and a powerful Iraqi militia leader last year",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/International/wireStory/iraq-court-issues-arrest-warrant-trump-murder-75106778",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/iraq-court-issues-arrest-warrant-trump-murder-75106778",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/WireAP_2a0966ca247441c8b59e2b6013ce7803_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-pence-pelosi-share-elbow-bump-following-biden-certification-vote.md",
       "title": "Pence, Pelosi share 'elbow bump' following Biden certification vote",
       "excerpt": "Vice President Mike Pence and House Speaker Nancy Pelosi concluded a trying and at times scary joint session of Congress with an elbow bump in the predawn hours of Thursday.",
@@ -645,58 +1142,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-07-facebook-indefinitely-blocks-trump-from-accessing-his-account.md",
-      "title": "Facebook indefinitely blocks Trump from accessing his account",
-      "excerpt": "Facebook CEO Mark Zuckerberg said the platform is blocking his Facebook and Instagram accounts \"indefinitely\" and for at least the next two weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/facebook-has-blocked-president-trump-indefinitely-2021-1",
-      "originalUrl": "https://www.businessinsider.com/facebook-has-blocked-president-trump-indefinitely-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ff72ec6d184b30018aad826?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/facebook-has-blocked-president-trump-indefinitely-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-has-blocked-president-trump-indefinitely-2021-1?amp",
-      "publishedDateTime": "2021-01-06T20:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-07-james-mattis-denounces-trump-says-he-will-be-left-a-man-without-a-country.md",
       "title": "James Mattis denounces Trump, says he will be 'left a man without a country'",
       "excerpt": "Former Defense Secretary James Mattis rebuked President Trump on Wednesday, accusing him of fomenting violence at the U.S. Capitol and poisoning Americans' respect for fellow citizens.",
@@ -765,7 +1210,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 315,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -817,7 +1262,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 505,
+      "heat": 485,
       "tags": null,
       "images": [
         {
@@ -861,15 +1306,15 @@
       ]
     },
     {
-      "path": "_news/2021-01-07-trump-tells-backers-to-go-home-after-capitol-stormed.md",
-      "title": "Trump tells backers to ‘go home’ after Capitol stormed",
-      "excerpt": "President Donald Trump urged supporters who stormed the Capitol to “go home” but also kept up false attacks about the presidential election",
+      "path": "_news/2021-01-07-amid-capitol-violence-facebook-youtube-remove-trump-video.md",
+      "title": "Amid Capitol violence, Facebook, YouTube remove Trump video",
+      "excerpt": "Facebook has removed a short video of President Donald Trump where he is urging supporters who stormed the U.S. Capitol to “go home” while at the same time keeping up false attacks about the president",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html",
+      "webUrl": "https://www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 485,
       "tags": null,
       "images": [
         {
@@ -883,9 +1328,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-06T18:08:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/amid-capitol-violence-facebook-youtube-remove-trump-video/2021/01/06/fbc5dfc2-5077-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-06T16:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",
@@ -910,438 +1355,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-twitter-flags-trump-video-due-to-risk-of-violence-as-he-tells-protesters-to-go-home-claims-race-stolen.md",
-      "title": "Twitter flags Trump video due to 'risk of violence,' as he tells protesters to 'go home,' claims race 'stolen'",
-      "excerpt": "Twitter flagged President Trump’s tweeted video telling protesters to “go home,” while maintaining the 2020 presidential election was “stolen” from him and restricted engagement “due to the risk of violence,” Fox News has learned.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UtzfdTYnVAc/twitter-flags-trump-video-risk-of-violence-tells-protesters-go-home-claims-race-stolen",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UtzfdTYnVAc/twitter-flags-trump-video-risk-of-violence-tells-protesters-go-home-claims-race-stolen",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/twitter-flags-trump-video-risk-of-violence-tells-protesters-go-home-claims-race-stolen.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-flags-trump-video-risk-of-violence-tells-protesters-go-home-claims-race-stolen.amp",
-      "publishedDateTime": "2021-01-06T14:49:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-nancy-pelosi-and-chuck-schumer-call-on-trump-to-demand-protestors-to-leave-the-us-capitol-immediately.md",
-      "title": "Nancy Pelosi and Chuck Schumer call on Trump to demand protestors to leave the US Capitol 'immediately'",
-      "excerpt": "The joint statement came as President Donald Trump reportedly refused to listen to aides who advised he put out a stronger statement against the rioters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1",
-      "originalUrl": "https://www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ff62860d184b30018aad62d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pelosi-an-schumer-asks-trump-to-demand-rioters-to-leave-us-capitol-2021-1?amp",
-      "publishedDateTime": "2021-01-06T14:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-biden-has-selected-judge-merrick-garland-to-serve-as-attorney-general-politico.md",
-      "title": "Biden has selected Judge Merrick Garland to serve as attorney general - Politico",
-      "excerpt": "President-elect Joe Biden has selected Judge Merrick Garland to serve as his attorney general, Politico reported on Wednesday, citing two people with knowledge of the decision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-attorney-general/biden-selects-judge-merrick-garland-for-attorney-general-official-idUSKBN29B2C8",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-attorney-general/biden-selects-judge-merrick-garland-for-attorney-general-official-idUSKBN29B2C8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546834261&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0517S",
-          "width": 765,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29B2C8",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B2C8",
-      "publishedDateTime": "2021-01-06T14:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-joe-biden-denounces-violent-mob-at-us-capitol-this-must-end-now.md",
-      "title": "Joe Biden denounces violent mob at U.S. Capitol: \"This must end now\"",
-      "excerpt": "\"This is not dissent. It's disorder. It's chaos. It borders on sedition and it must end. Now,\" Mr. Biden said in remarks from Wilmington, Delaware. \"I call on this mob to pull back and allow the work of democracy to go forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/joe-biden-to-violent-mob-this-must-end-now/",
-      "originalUrl": "https://www.cbsnews.com/news/joe-biden-to-violent-mob-this-must-end-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/06/4a0dacba-5664-4bc2-8abb-160ed5515e4e/thumbnail/1200x630g2/e89a4d7f2cabe36860293e73fcb1fbc4/ap21006764485081.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-biden-to-violent-mob-this-must-end-now/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-to-violent-mob-this-must-end-now/",
-      "publishedDateTime": "2021-01-06T13:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-biden-vows-to-get-big-things-done-after-georgia-senate-runoffs.md",
-      "title": "Biden vows to ‘get big things done’ after Georgia Senate runoffs",
-      "excerpt": "With Democrats close to capturing control of both houses of Congress, President-elect Joe Biden is vowing “to get big things done for our nation.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QhdgWaPLYAQ/biden-get-big-things-done-georgia-senate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QhdgWaPLYAQ/biden-get-big-things-done-georgia-senate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-get-big-things-done-georgia-senate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-get-big-things-done-georgia-senate.amp",
-      "publishedDateTime": "2021-01-06T09:49:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-the-cybersecurity-202-the-trump-administration-formally-says-russia-is-likely-behind-solarwinds-hack-culprit-will-trump.md",
-      "title": "The Cybersecurity 202: The Trump administration formally says Russia is likely behind SolarWinds hack culprit. Will Trump?",
-      "excerpt": "The Trump administration formally accused Russia of “likely” being behind the most devastating hack of U.S. government agencies in years. The statement, made jointly by four agencies in charge of intelligence and cybersecurity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/01/06/cybersecurity-202-trump-administration-formally-says-russia-is-likely-solarwinds-hack-culprit-will-trump/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/01/06/cybersecurity-202-trump-administration-formally-says-russia-is-likely-solarwinds-hack-culprit-will-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WHRXLUCPBMI6XIPV7WXSRT6KSA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/01/06/cybersecurity-202-trump-administration-formally-says-russia-is-likely-solarwinds-hack-culprit-will-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/06/cybersecurity-202-trump-administration-formally-says-russia-is-likely-solarwinds-hack-culprit-will-trump/?outputType=amp",
-      "publishedDateTime": "2021-01-06T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-biden-to-nominate-merrick-garland-for-attorney-general-sources.md",
-      "title": "Biden to nominate Merrick Garland for attorney general: sources",
-      "excerpt": "President-elect Joe Biden's pick for attorney general will be Judge Merrick Garland, three Democratic sources confirmed to Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n_0QaDVr7Iw/biden-to-nominate-merrick-garland-for-attorney-general-sources",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/n_0QaDVr7Iw/biden-to-nominate-merrick-garland-for-attorney-general-sources",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89012e23-97fa-40ab-8ecd-c189377376e6/f147740e-1a31-4adb-b062-61e9bdfb2f9f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-nominate-merrick-garland-for-attorney-general-sources.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-nominate-merrick-garland-for-attorney-general-sources.amp",
-      "publishedDateTime": "2021-01-06T09:34:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-06-huckabee-says-cloud-will-be-over-biden-presidency-if-election-fraud-isnt-fully-investigated.md",
-      "title": "Huckabee says 'cloud' will be over Biden presidency if election fraud isn't fully investigated",
-      "excerpt": "Former Arkansas Gov. Mike Huckabee told \"Fox & Friends\" on Wednesday that he wishes that all the elected officials, including Democrats, \"would demand a full accounting for how the ballots were tabulated\" in the 2020 election, saying that \"Democrats have the most to gain.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gSDHbekb6qI/mike-huckabee-democrats-full-accounting-election-results",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gSDHbekb6qI/mike-huckabee-democrats-full-accounting-election-results",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 358,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mike-huckabee-democrats-full-accounting-election-results.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-democrats-full-accounting-election-results.amp",
-      "publishedDateTime": "2021-01-06T06:58:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -269,6 +269,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Clyburn: House has responsibility to impeach Trump over Georgia call"
+    excerpt: "Rep. James Clyburn (R-S.C.), said Sunday that House lawmakers have a responsibility to stick up for the integrity of federal elections with an impeachment of the president over his phone call with Georgia officials."
+    publishedDateTime: 2021-01-10T14:47:00Z
+    webUrl: "https://thehill.com/homenews/sunday-talk-shows/533522-clyburn-house-has-responsibility-to-impeach-trump-over-georgia"
+    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/533522-clyburn-house-has-responsibility-to-impeach-trump-over-georgia?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/533522-clyburn-house-has-responsibility-to-impeach-trump-over-georgia?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/clyburnjames_111820bc3_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Georgia's Brad Raffensperger Doesn't Rule Out Voting for Donald Trump Again"
     excerpt: "Georgia's Brad Raffensperger didn't rule out voting for President Donald Trump again if he ever appeared on a future Republican ticket, despite their ongoing dispute about the election results in Georgia."
     publishedDateTime: 2021-01-04T16:18:00Z

@@ -105,34 +105,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Washington to see 'new normal' for security after Biden inauguration: DC mayor"
-    excerpt: "Washington Mayor Muriel Bowser said on Friday that even after the presidential inauguration on Jan. 20 the city will have to maintain heightened security in light of the Capitol rights."
-    publishedDateTime: 2021-01-15T18:44:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-bowser/washington-to-see-new-normal-for-security-after-biden-inauguration-dc-mayor-idUSKBN29K2EM"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 101
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547965217&r=LYNXMPEH0E1DQ&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Thousands of National Guard members deployed in Washington ahead of Biden inauguration"
-    excerpt: "Thousands of National Guard's were deployed to Washington on January 12, ahead of the inauguration of Joe Biden in the wake of the Capitol riots."
-    publishedDateTime: 2021-01-13T15:04:00Z
-    webUrl: "https://www.usatoday.com/videos/news/2021/01/13/national-guard-members-deployed-washington-ahead-biden-inauguration/6651492002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 97
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b7a0dfb8-7b45-4236-9b07-5e254aed8b41_poster.jpg?quality=10"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "U+VGPOl4+CXG1fDI4VGOMtLjiAFT1vWimd0H+UqLajiKOqZDgwjwFUH3RuK5wg44P3o3b2pZmLhhVS7ga5YjehxUVKZL8+3K8i0JBBJk+BYB4PlP7h9jlRCT4ezjuOTTO0Q205pK08zfHSr2uXMYrXh6MsTKz/7oA9EwmTTNLcqvulM8OR7p12My+P7dx+OQIFZ9vFtIOq+rQ914Fdef8pUCTed2gyVTd5HYyIxhZZDGj8kT6QKcJ8mBPGtKonPLdgykZmQsQvxcyntEeFJKBpNzLa2v5FC3ikJdIqSreBqgI8UoirThiho643ZzNUrSc24kVNZmxtxwqhzWHz7pS5k+0M2r6cAiviy/sEmvrD1YMRXvGRHceQlHodZ3PBJrUzKL6UEwWYxWd2gueTdGnwDV9ubWaI7AJug6FtsIpOUn0YLNX50sR3f7Dg9z/EZJayHUqJtBq+ONUOA8TBVJBd/5MHGOA/m314v4fW83hNH1K5CeG4dyeoUo7S4C8BXZIbCFJMmXPwmibXQ7ETZcsQ==;/BkU3etfnK6UGCuSIo2dRg=="
 ---

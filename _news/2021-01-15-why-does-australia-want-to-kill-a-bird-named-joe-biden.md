@@ -2,11 +2,11 @@
 category: news
 title: "Why Does Australia Want to Kill a Bird Named Joe (Biden)?"
 excerpt: "A racing pigeon that appeared to have traveled from Oregon to a backyard in Melbourne faces death. But there’s a twist."
-publishedDateTime: 2021-01-15T08:36:00Z
-originalUrl: "https://www.nytimes.com/2021/01/15/world/australia/joe-pigeon.html"
-webUrl: "https://www.nytimes.com/2021/01/15/world/australia/joe-pigeon.html"
-ampWebUrl: "https://www.nytimes.com/2021/01/15/world/australia/joe-pigeon.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/15/world/australia/joe-pigeon.amp.html"
+publishedDateTime: 2021-01-15T07:01:00Z
+originalUrl: "https://www.nytimes.com/2021/01/15/world/australia/racing-pigeon-joe-biden.html"
+webUrl: "https://www.nytimes.com/2021/01/15/world/australia/racing-pigeon-joe-biden.html"
+ampWebUrl: "https://www.nytimes.com/2021/01/15/world/australia/racing-pigeon-joe-biden.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/15/world/australia/racing-pigeon-joe-biden.amp.html"
 type: article
 quality: 135
 heat: -1
@@ -1733,6 +1733,6 @@ related:
         height: 629
         isCached: true
 
-secured: "idh3MNStwfNOMuhwBVkP5CfzNq309d9wVMtKp5I2GSOudf9+vE4dzk4ONAKQtMEmpmqk+mctaM1iXgXoAKP6LYLQ+U3+qzqa5SmiGgNeOTh2Y6V32NXBQJnRKCOxerV2W4MScMatf1FUhcIRcoQd0rccD9Xmdfczb0zQYHybLeHKVbmG3wCMCGTHkeybjRtSfTe42MXGQUqQIXfRcHsMmXsviAmZRMpKESN5wAcjkIBco+EORiLDCM8bJYH5Yk0wwEhfOo4MkqUP+xU1sbubv0itQDqbY9z0FxJdmvMxRVzD6nu/lZyUt0Ay6GzC8QXAlWZ+PqvzVF34PlMmEofg9T+4FyMKTQo339fKZocTDT7ayxjHpYcekXJI/8AJfRGBUFky6nd2+QCg+d7oueLvbabBmOGx+QSr/4cUO4wfMebZefrHZhpBhEIKGalf/Yczm7ygf0oUf/rUe4/xWhPmq2SJlnxH3QP71lG6JP0VII+M8k/1p9VElCo6yj61cw19NeP7izRacRl/ExXzLlmkag==;yjC3TPJ7owBTB/n7szF65w=="
+secured: "4r/XeZMsEgPEMk9FUeVk9HAx0yaUXWXbOh1I0dplZeSoVlQd7Dt3SKvA3YDCbjR8I6pqYVbz7C8RDHYDZ8Amnu5N1We5xFFpnPLTNvNXZADf8opfA9TlWwG7bJ/rIDvk/JaRLLwHHOaL5tmIBTXkxa4ZFZCGv7HhF5gpAKZazFo4xCBvSgqUKIBb/oIvTz4r93gK7k530q313ADd04mw64Rhgkt2akxiRn7NZYLmiB0NBCdEe1g9XSKhIuVFcYDvxSbLSwZhTfBJWFIEOaNEmn4U9zT8cVf8KX+3ImD83r/CommKTc3YIuuGqZlHHNOnF76Lvoxoo/LVtWWN7WnevqW7nDrwZy5CoVZs62tBzB8=;5DIUja4d/bk9Qc74LlBqvw=="
 ---
 

@@ -97,22 +97,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Pence and Trump remain estranged in aftermath of riot"
-    excerpt: "Vice President Mike Pence received a memento from his aides the other day: the engraved chair set aside for him in the White House Cabinet Room, hauled over-the-shoulder from the West Wing and delivered to the Eisenhower Executive Office Building for one of his final staff meetings.\n    \n"
-    publishedDateTime: 2021-01-12T00:24:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IJIW5KrHDZ4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/trump-pence-25th-amendment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/trump-pence-25th-amendment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 200
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210105215557-pence-trump-file-2019-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Pence took lead as Trump initially resisted sending National Guard to Capitol"
     excerpt: "Vice President Mike Pence, not President Donald Trump, helped facilitate the decision to mobilize members of the DC National Guard Wednesday when violence at the US Capitol building started to escalate, according to a source familiar with the move and public comments from top officials.\n    \n"
     publishedDateTime: 2021-01-07T03:26:17Z
@@ -849,38 +833,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump, pressured into video concession, faces uncertain final stretch"
-    excerpt: "President Donald Trump's top aides delivered a blunt warning to him Thursday as he sat sullenly in the West Wing and watched as his Republican allies, Cabinet secretaries and former senior staffers criticized or denounced him one by one.\n    \n"
-    publishedDateTime: 2021-01-08T14:12:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yezvRa86oHc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/donald-trump-next-steps/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/donald-trump-next-steps/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190423072847-donald-trump-04182019-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's desperate attempt to save his imploding presidency"
-    excerpt: "It was too little, too late, and may fail to save a presidency imploding at staggering speed under the weight of Donald Trump's tragic flaws.\n    \n"
-    publishedDateTime: 2021-01-08T12:52:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C67oxlnPdTw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/donald-trump-impeachment-capitol-riot/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/donald-trump-impeachment-capitol-riot/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107233827-diario-eeuu-renuncia-trump-conclusiones-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "US diplomats draft memo calling on Pompeo to denounce Trump"
     excerpt: "US diplomats are calling on Secretary of State Mike Pompeo to denounce President Donald Trump's role in the violent insurrection attempt on the US Capitol on Wednesday.\n    \n"
     publishedDateTime: 2021-01-08T19:03:29Z
@@ -897,22 +849,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Democratic National Committee eyes new mandate in post-Trump era "
-    excerpt: "The Democratic National Committee is on the precipice of a dramatic change, shifting its role from oppositional force challenging Donald Trump at every turn to a political megaphone for a Democrat-dominated Washington.\n    \n"
-    publishedDateTime: 2021-01-09T18:19:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ieILYsQiHkU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/democratic-national-committee/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/democratic-national-committee/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191122133426-dnc-tom-perez-1015-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "The day America realized how dangerous Donald Trump is "
     excerpt: "When the history of the 45th presidency is written, Wednesday, January 6, will go down as the day America realized how dangerous President Donald Trump really is.\n    \n"
     publishedDateTime: 2021-01-09T18:43:20Z
@@ -926,22 +862,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108165723-23-us-capitol-riots-0106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump expected to fight with big tech during final days in office"
-    excerpt: "President Donald Trump is preparing to lean into his fight with Twitter and other social media platforms this week, a Trump adviser said, using his permanent suspension from Twitter as an opportunity to shift the narrative away from the insurrection on Capitol Hill earlier in the week.\n    \n"
-    publishedDateTime: 2021-01-09T22:53:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kgzkJueyO6I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/trump-twitter-big-tech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/trump-twitter-big-tech/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108193305-20210108-trump-twitter-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1057,22 +977,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "White House counsel and Barr warned Trump not to self-pardon"
-    excerpt: "White House counsel Pat Cipollone and former Attorney General Bill Barr have warned President Donald Trump that they do not believe he should pardon himself, multiple sources familiar with the matter tell CNN.\n    \n"
-    publishedDateTime: 2021-01-11T20:21:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ls5XwduTz1g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/white-house-counsel-cipollone-barr-warned-trump-not-to-self-pardon/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/white-house-counsel-cipollone-barr-warned-trump-not-to-self-pardon/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210111002752-donald-trump-0104-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "How Trump's second impeachment will be different from the first"
     excerpt: "The overall impeachment process laid out in the Constitution is relatively simple: President commits \"high Crime or Misdemeanor,\" House votes to impeach, Senate conducts a trial.\n    \n"
     publishedDateTime: 2021-01-12T18:14:19Z
@@ -1102,22 +1006,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112041040-vaccine-needle-0107-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's disastrous end to his shocking presidency"
-    excerpt: "President Donald Trump is leaving America in a vortex of violence, sickness and death and as internally estranged than it has been for 150 years.\n    \n"
-    publishedDateTime: 2021-01-12T12:29:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qaobo6yfNEQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/donald-trump-legacy-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/donald-trump-legacy-joe-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180319104720-01-trump-speaking-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1377,22 +1265,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Final days bring new urgency to Trump's desire to pardon himself and his children"
-    excerpt: "President Donald Trump has discussed issuing pardons for himself and his children with new urgency since the attack on the US Capitol, multiple sources familiar with the matter tell CNN.\n    \n"
-    publishedDateTime: 2021-01-13T02:15:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s3OjiJ4NNZo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/trump-pardons-children-attacks-capitol/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/trump-pardons-children-attacks-capitol/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112161840-03-trump-impeachment-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Pro-Trump mob storms US Capitol as armed standoff takes place outside House chamber"
     excerpt: "The US Capitol is on lockdown amid a tense situation with demonstrators outside the building, according to Capitol police officers, as President Donald Trump's supporters attempt to break into the building while lawmakers count the Electoral College votes certifying President-elect Joe Biden's win.\n"
     publishedDateTime: 2021-01-06T20:38:38Z
@@ -1584,22 +1456,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216092620-02-chad-wolf-lead-image-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Pence to attend Biden inauguration; Trump never called him in the Capitol bunker, sources say"
-    excerpt: "A loyal lieutenant to President Donald Trump, Pence was criticized by the president over his role counting Electoral College votes in Congress and was one of the people trapped inside the U.S. Capitol when Trump supporters stormed the building as the votes were being tallied."
-    publishedDateTime: 2021-01-10T09:14:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/pence-attend-biden-inauguration-n1253645"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253645"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253645"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 164
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_01/3440091/200106-mike-pence-ew-140p_c494a0a2fa11e92462b9cdd24428b9cd.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "'Do it Mike': Trump encourages Pence to overturn election — which he can't do"
     excerpt: "Trump tweeted Wednesday morning urging Pence to try to overturn Biden's victory in the 2020 presidential election when he counts the electoral votes in Congress later in the day."
@@ -1903,70 +1759,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "House Moves to Force Trump Out, Vowing Impeachment if Pence Won’t Act"
-    excerpt: "Speaker Nancy Pelosi said the House would formally call on Vice President Mike Pence to invoke the 25th Amendment to strip President Trump of power, and move to impeach the president if he refused."
-    publishedDateTime: 2021-01-11T02:11:00Z
-    webUrl: "https://www.nytimes.com/2021/01/10/us/politics/trump-impeachment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/10/us/politics/trump-impeachment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/10/us/politics/trump-impeachment.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/10/us/politics/10dc-cong0/10dc-cong0-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Jimmy Fallon: Mike Pence Just Can’t Win With Trump Fans"
-    excerpt: "Have MAGA Nation Hate You’ The House on Tuesday formally called on Vice President Mike Pence to remove President Trump from office using the 25th Amendment, an idea Pence had already rejected. Though Pence did not yield to pressure from Trump to overturn the election results last week,"
-    publishedDateTime: 2021-01-13T07:35:00Z
-    webUrl: "https://www.nytimes.com/2021/01/13/arts/television/late-night-mike-pence-trump-25th-amendment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/13/arts/television/late-night-mike-pence-trump-25th-amendment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/13/arts/television/late-night-mike-pence-trump-25th-amendment.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/13/arts/13latenight/13latenight-facebookJumbo.png"
-        width: 719
-        height: 376
-        isCached: true
-  - title: "Mike Pence is done with Trump’s ‘bulls--t’"
-    excerpt: "Allies of the VP say he’s keeping his head down, not closing the door on politics, and figuring out his life without Trump."
-    publishedDateTime: 2021-01-13T01:48:00Z
-    webUrl: "https://www.politico.com/news/2021/01/12/mike-pence-done-with-trump-458509"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/12/mike-pence-done-with-trump-458509"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/12/mike-pence-done-with-trump-458509"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 150
-    images:
-      - url: "https://static.politico.com/0b/f6/85df320a482f9345075c0eb1695a/gettyimages-1230461107-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Pence Reached His Limit With Trump. It Wasn’t Pretty."
-    excerpt: "After four years of tongue-biting silence that critics say enabled the president’s worst instincts, the vice president would not yield to the pressure and name-calling from his boss."
-    publishedDateTime: 2021-01-13T01:20:00Z
-    webUrl: "https://www.nytimes.com/2021/01/12/us/politics/mike-pence-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/12/us/politics/mike-pence-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/12/us/politics/mike-pence-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/12/us/politics/12dc-pence/12dc-pence-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Live Updates: Ignoring the Constitution, Trump Increases Pressure on Pence to Reject Electors"
     excerpt: "President Trump falsely claimed that the vice president has the power to reject electors when the Electoral College vote is certified Wednesday. Georgia voters are choosing two senators in races that will decide which party controls the Senate — and the election may be a nail-biter."
     publishedDateTime: 2021-01-05T12:58:00Z
@@ -2106,36 +1898,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/c525203e-595e-4147-971b-1d343b2d2960/5e45f899-c74d-4093-a529-e64368fff26c/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Live Updates: House Set to Impeach Trump, After Pence Rejects Call to Strip His Powers"
-    excerpt: "Lawmakers said they would move to impeach the president on Wednesday, after formally calling on Vice President Mike Pence to use the 25th Amendment. Mr. Pence rejected the request earlier in the day saying he didn’t believe the action was “in the best interest of our nation."
-    publishedDateTime: 2021-01-13T05:41:00Z
-    webUrl: "https://www.nytimes.com/live/2021/01/13/us/trump-impeachment"
-    ampWebUrl: "https://www.nytimes.com/live/2021/01/13/us/trump-impeachment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/13/us/trump-impeachment.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 142
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/13/world/13transition-briefing1/13transition-briefing1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Key steps in Trump Organization criminal probe stall as investigators await Supreme Court decision"
-    excerpt: "The Manhattan district attorney's criminal investigation into President Donald Trump's business has slowed as investigators wait for a ruling by the US Supreme Court, according to people familiar with the investigation, making it likely that a decision on whether there is a case to bring will be weeks"
-    publishedDateTime: 2021-01-12T23:00:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ss7Tjs_pTas/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 141
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112120717-donald-trump-0112-super-tease.jpg"
-        width: 1100
-        height: 619
         isCached: true
   - title: "Facing calls for his removal, Trump reverses positions on election loss, rioters and Covid"
     excerpt: "Facing calls for his removal, Trump reverses positions on election loss, rioters and Covid A day after he told his supporters \"we love you,\" President Donald Trump condemned them Thursday for violently swarming the U."
@@ -2345,22 +2107,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Fallout intensifies over Trump's response to Capitol riot"
-    excerpt: "The political fallout over President Trump's reaction to the deadly Capitol attack continues to escalate as President-elect Joe Biden prepares to take office. Follow here for the latest news."
-    publishedDateTime: 2021-01-09T12:35:00Z
-    webUrl: "https://www.cnn.com/politics/live-news/washington-dc-riots-trump-news-friday/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/washington-dc-riots-trump-news-friday/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/washington-dc-riots-trump-news-friday/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106160755-us-capitol-riots-0106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Twitter Permanently Bans Trump, Capping Online Revolt"
     excerpt: "The president’s preferred megaphone cited “the risk of further incitement of violence.” It acted after Facebook, Snapchat, Twitch and other platforms placed limits on him."
     publishedDateTime: 2021-01-08T23:31:00Z
@@ -2425,38 +2171,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Trump allies warn him not to run in 2024"
-    excerpt: "Weeks ago, he seemed like the clear frontrunner. Now, Republicans blame him for inciting riots at the Capitol and his 2024 prospects are in doubt."
-    publishedDateTime: 2021-01-10T12:05:00Z
-    webUrl: "https://www.politico.com/news/2021/01/10/trump-2024-campaign-456692"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/10/trump-2024-campaign-456692"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/10/trump-2024-campaign-456692"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/98/94/76bf6d5f46939cb24d81f7bf3761/210109-trump-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "An impeachment charge against Trump is introduced as Republicans block a measure demanding Pence act."
-    excerpt: "House Democrats on Monday introduced an article of impeachment against President Trump for inciting a mob that attacked the Capitol last week, vowing to press the charge as Republicans blocked their move to formally call on Vice President Mike Pence to strip him of power under the 25th Amendment."
-    publishedDateTime: 2021-01-11T07:39:00Z
-    webUrl: "https://www.nytimes.com/2021/01/11/us/pence-impeachment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/11/us/pence-impeachment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/11/us/pence-impeachment.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/10/us/10transition-briefing-pelosi/10transition-briefing-pelosi-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Live updates: House begins effort to remove Trump"
     excerpt: "Jim Clyburn, a member of House leadership, said Democrats could delay sending impeachment articles to the Senate until after Joe Biden's first 100 days."
     publishedDateTime: 2021-01-11T14:35:00Z
@@ -2472,38 +2186,6 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3441188/200111-national-guard-capitol-mn-0950_15810f935e25791f2da9bbcbeecc65ae.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "The day the internet turned on Trump"
-    excerpt: "The internet as most people know it has decided that Trump is no longer welcome. It’s a turning point for digital speech that was years in the making, but took just a few hours to happen."
-    publishedDateTime: 2021-01-11T00:14:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/day-internet-turned-trump-n1253651"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253651"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253651"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/nn_jke_trump_twitter_ban_210109_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Inside Pelosi’s push to impeach Trump: This time it’s personal"
-    excerpt: "She views the siege of the Capitol as an attack on the lawmakers, aides and support staff whom she considers her family."
-    publishedDateTime: 2021-01-12T22:40:00Z
-    webUrl: "https://www.politico.com/news/2021/01/12/nancy-pelosi-trump-impeachment-personal-riots-457779"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/12/nancy-pelosi-trump-impeachment-personal-riots-457779"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/12/nancy-pelosi-trump-impeachment-personal-riots-457779"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/57/a9/5875562447949d800879de4b1b9b/gettyimages-1230470209-c.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "What Was Donald Trump’s Twitter?"
     excerpt: "I’m going to be very restrained, if I use it at all,” Donald Trump told us in 2016. Something else happened. Each of the big social platforms handled the challenges of the Trump presidency in its own unique way,"
@@ -2617,22 +2299,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Republicans allied with Trump continue pushing baseless voter fraud claims"
-    excerpt: "Many Republicans allied with President Donald Trump are continuing to push baseless widespread voter fraud claims even after the Capitol riots were incited by the same lies."
-    publishedDateTime: 2021-01-11T14:14:00Z
-    webUrl: "https://www.nbcnews.com/now/video/republicans-allied-with-trump-continue-pushing-baseless-voter-fraud-claims-99257413736"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99257413736"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99257413736"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202101/ott_now_gop_debunked_claims_210111_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Inside the Trump riots: How an ordinary Congress vote devolved into disarray"
     excerpt: "The harrowing day of NBC News' Ginger Gibson, who was reporting on the Electoral College count when protesters stormed the Capitol."
     publishedDateTime: 2021-01-07T12:08:00Z
@@ -2722,20 +2388,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210109165301-elle-reeve-firsthand-account-riot-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "House Calls on Pence to Remove Trump From Power"
-    excerpt: "The House of Representatives voted, 223 to 205, on Tuesday night to call on Vice President Mike Pence to invoke the 25th Amendment to strip President Trump of his powers for inciting a mob to attack the Capitol."
-    publishedDateTime: 2021-01-13T05:31:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007548376/house-vote-25th-amendment-trump-pence.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 130
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/12/us/12virus-briefing-dc/12virus-briefing-dc-facebookJumbo.jpg?video-overlay"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Listen to the full audio of Trump's phone call with the Georgia secretary of state"
     excerpt: "In an astounding phone call, President Donald Trump for over an hour berated and threatened Georgia Secretary of State Brad Raffensperger, repeating various false claims about voter fraud and begging the Republican official to overturn the election results."
@@ -2873,20 +2525,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "A fitting end to the Trump presidency"
-    excerpt: "We all knew President DONALD TRUMP’s term would end badly. It had to. There were just too many lies. Too many conspiracy theories. Too many times where journalists searched their syllabuses for new ways to say “unprecedented” and where Americans across the country sat aghast learning just how low we could go in our own eyes and in the eyes of the world."
-    publishedDateTime: 2021-01-08T11:35:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2021/01/08/a-fitting-end-to-the-trump-presidency-491332"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/3c/25/4d6cfdf2493a93ab95effc903bf9/210108-trump-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Democrats plot Trump's removal after deadly riots"
     excerpt: "Democrats’ bid to immediately remove President Donald Trump from office is taking on growing urgency after a mob of his supporters stormed the Capitol, as key lawmakers plot ways to take action and force Congress into session next week."
     publishedDateTime: 2021-01-07T19:10:00Z
@@ -2929,20 +2567,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump legal vets torn over new impeachment defense"
-    excerpt: "The crew that rallied behind the president in late 2019 is divided as House Democrats rush to impeach him once more."
-    publishedDateTime: 2021-01-09T01:29:00Z
-    webUrl: "https://www.politico.com/news/2021/01/08/alan-dershowitz-trump-impeachment-456674"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/42/07/201004ff4f83bd6aef79fd36bda1/200129-dershowitz-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "House Moves Forward With New Impeachment Charge Against Trump"
     excerpt: "House Democrats introduced an article of impeachment against President Trump for inciting a mob that attacked the Capitol last week. Republicans blocked a move to formally call on Vice President Mike Pence to strip him of power under the 25th Amendment."
     publishedDateTime: 2021-01-11T17:38:00Z
@@ -2971,20 +2595,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Donald Trump has no regrets"
-    excerpt: "Debbie Dingell (D-Mich.) plans to introduce legislation Tuesday to impose a $1,000 fine on members who refuse to wear masks while in the U.S. Capitol complex.” TRUMP HAS NO REGRETS … NYT: “Answering questions from reporters for the first time since the violence at the Capitol on Wednesday,"
-    publishedDateTime: 2021-01-12T18:11:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/01/12/donald-trump-has-no-regrets-491378"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/74/78/002243ea46a6b8741002cc5f8445/210112-trump-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "POLITICO Playbook PM: Donald Trump has no regrets"
     excerpt: "Debbie Dingell (D-Mich.) plans to introduce legislation Tuesday to impose a $1,000 fine on members who refuse to wear masks while in the U.S. Capitol complex.” TRUMP HAS NO REGRETS … NYT: “Answering questions from reporters for the first time since the violence at the Capitol on Wednesday,"
     publishedDateTime: 2021-01-12T18:11:00Z
@@ -2998,20 +2608,6 @@ related:
       - url: "https://static.politico.com/74/78/002243ea46a6b8741002cc5f8445/210112-trump-ap-773.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Republicans begin turning on Trump"
-    excerpt: "A day before the House is set to charge Trump with ‘willful incitement of insurrection’ — the gravest allegation ever lodged against a sitting president — fissures in the Republican Party threatened to transform the vote into a resounding bipartisan rebuke."
-    publishedDateTime: 2021-01-13T01:06:00Z
-    webUrl: "https://www.politico.com/news/2021/01/12/democrats-trump-ouster-458216"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/ea/8e/c0a97a8e4b6fb729bf158ce9177a/ap21005004354838.jpg"
-        width: 3000
-        height: 2000
         isCached: true
   - title: "How Congress and coronavirus could quash Trump's Electoral College gambit"
     excerpt: "Leadership has a potent arsenal to combat efforts to turn the electoral vote counting session on Jan. 6 into a spectacle — if they deploy it."

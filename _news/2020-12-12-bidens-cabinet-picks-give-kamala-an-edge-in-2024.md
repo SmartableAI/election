@@ -9,8 +9,8 @@ ampWebUrl: "https://www.politico.com/amp/news/2020/12/11/biden-cabinet-kamala-20
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/11/biden-cabinet-kamala-2024-444482"
 type: article
 quality: 135
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: Politico
@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden Wears a ‘Kick Me’ Sign"
-    excerpt: "Critics like AOC and Sanders believe there is no price to be paid, and benefits to be gained, by publicly pressuring the new administration."
-    publishedDateTime: 2020-12-18T03:51:00Z
-    webUrl: "https://www.politico.com/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964"
-    ampWebUrl: "https://www.politico.com/amp/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964"
+  - title: "Biden, Harris beat Trump again, this time as Time's 'Person of the Year'"
+    excerpt: "Other contenders were Dr. Anthony Fauci, front-line Covid-19 workers and racial justice movements that led protests over the death of George Floyd."
+    publishedDateTime: 2020-12-11T04:47:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/biden-harris-beat-trump-again-time-time-s-person-year-n1250762"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250762"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250762"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: NBC News
+      domain: nbcnews.com
+    quality: 174
     images:
-      - url: "https://static.politico.com/e3/5e/3ba27c9c4f00b80e8b1e6788411a/ap20350034179902-1-c.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_33/3404797/200811-joe-biden-kamala-harris-ac-1014p_e00b2642631f6be472883994c8fc6730.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "X8nr9HfOt9+bh/jrf1VuxFzGVTGhBnxG0g1O2r2ChlyJQCZXcUMqiMl7DNHxE6XkPVqh250PuAwgLOrxVLuEKzmA0q4UYBU/zfM019eEIwGquiWSnNC2tSlwnfabOjf6EIIdgYNsKCG0aiK4pU5eKGLoydSLXzzdFeszZhTMXpDrKj0E9wqPuRvN2F1QJS8SY+MzK25dQpapUUhsYYyEF1I5OPaUINb+B/ZjoLGbN8EHCGYRg4ijmdsKwkwdyFR50vT+/hBlXZo4O2+kTTv4lA5JPpoM0QG5RRWji0xwtjBEWGxftcE4g1feP5GRmXixZuVelgR9U/WVL1SCWvlkzbXfV5OL8dRbkjmlKl5Z3oHdgazoiGtiQVbjDOPn5TcCmKKCpSZ+ZfblZiTxLDcjjPUEFJfcDKpYFd7aaRLxsOhzO8ANF2l06kdzmNgGCpbHXx+ApuwVdZtzaidLcrcM/n5ETv9tt1S6pZM2nFC23pmviutkl2S0rQJ+0ccpuQW+Pdpsj7NL1CeZC7vrXWfHfA==;tgemI/MYw5Ya0t74DY7m7g=="

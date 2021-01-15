@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "'It’s a lot of pressure.' As Kamala Harris visits Georgia, voters brace for a Senate runoff that is riveting the nation"
+    excerpt: "From the time she stepped onto the podium, Vice President-elect Kamala Harris was greeted by thunderous car horns at a drive-in event near Savannah just days before voters decide their next Senators in contentious races that will shape Harris’ and President-elect Joe Biden’s governing future."
+    publishedDateTime: 2021-01-04T12:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/04/vp-elect-kamala-harris-visits-savannah-ahead-georgia-senate-runoffs/4124373001/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/4124373001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124373001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 101
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/04/NSMN/40d7eacb-8ee7-4152-bc0d-e67001ba07ce-Kamala3.jpg?auto=webp&crop=1999,1125,x0,y133&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Georgia Senate runoffs: Kamala Harris stumps in Savannah, Trump pressures for overturn and the heat turns up"
     excerpt: "With two days to go before the election, US Senate hopefuls hit the campaign trail with Trump, Biden and Harris."
     publishedDateTime: 2021-01-03T00:00:00Z

@@ -2,6 +2,175 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-16-trump-plans-to-depart-washington-inauguration-day-morning-while-pence-harris-speak.md",
+      "title": "Trump plans to depart Washington Inauguration Day morning, while Pence, Harris speak",
+      "excerpt": "President Trump plans to make the unprecedented move to depart the White House next Wednesday morning, just before President-elect Joe Biden's inauguration.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-departure-texas-03-ap-jef-210112_1610466035305_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643",
+      "publishedDateTime": "2021-01-15T12:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-pence-calls-vice-president-elect-harris-offer-congratulations-ahead-of-inauguration.md",
+      "title": "Pence calls Vice President-elect Harris offer congratulations ahead of inauguration",
+      "excerpt": "Vice President Mike Pence called Vice President-elect Kamala Harris on Thursday to discuss the transition of power to the new Biden administration, Fox News has confirmed. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cmdM1kmIlek/pence-vice-president-elect-harris-congratulations-inauguration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cmdM1kmIlek/pence-vice-president-elect-harris-congratulations-inauguration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 464,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/pence-inaguration-washington-national-guard1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-vice-president-elect-harris-congratulations-inauguration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-vice-president-elect-harris-congratulations-inauguration.amp",
+      "publishedDateTime": "2021-01-15T12:13:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-pence-calls-harris-while-trump-continues-to-stew-in-denial.md",
+      "title": "Pence calls Harris while Trump continues to stew in denial",
+      "excerpt": "One is dropping in on the White House phone operators, addressing troops at bases across the country, paying a visit to national guardsmen in place for the inauguration and speaking by phone with his successor.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/87pFCeuctSI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/87pFCeuctSI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201120140130-trump-pence-1113-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-presidency/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-presidency/index.html",
+      "publishedDateTime": "2021-01-15T11:48:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-harris-and-emhoff-recall-first-date-it-felt-like-we-had-known-each-other-forever.md",
       "title": "Harris and Emhoff recall first date: 'It felt like we had known each other forever'",
       "excerpt": "Vice President-elect Kamala Harris and her husband Doug Emhoff recalled their first date in a rare joint interview with CNN's Abby Phillip, for a CNN special report airing Sunday on the barrier-breaking vice president and her historic career.\n    \n",
@@ -14,7 +183,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 319,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -59,25 +228,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-15-could-kamala-harris-invoke-her-indian-heritage-by-wearing-a-sari-on-inauguration-day.md",
-      "title": "Could Kamala Harris invoke her Indian heritage by wearing a sari on inauguration day?",
-      "excerpt": "Some believe Harris could use the garment as a healing gesture and a symbol of how the Biden-Harris administration intends to lead America and better represent minorities.",
+      "path": "_news/2021-01-15-as-kamala-harris-makes-history-twitter-creates-secondgentleman-account.md",
+      "title": "As Kamala Harris Makes History, Twitter Creates @SecondGentleman Account",
+      "excerpt": "The microblogging platform will archive the Trump Administration's tweets, but a major dispute over Donald Trump's followers remains between the platform and President-elect Joe Biden.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/style/article/kamala-harris-sari-inauguration/index.html",
-      "originalUrl": "https://www.cnn.com/style/article/kamala-harris-sari-inauguration/index.html",
+      "webUrl": "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818",
+      "originalUrl": "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 128,
+      "highlight": null,
+      "heat": 284,
       "tags": null,
       "images": [
         {
-          "url": "http://cdn.cnn.com/cnnnext/dam/assets/210108130544-02-kamala-harris-1124-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://d.newsweek.com/en/full/1708768/secondgentleman-douglas-emhoff-twitter-account-kamala-harris.jpg",
+          "width": 2500,
+          "height": 1787,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -85,16 +250,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnn.com/style/amp/kamala-harris-sari-inauguration/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/kamala-harris-sari-inauguration/index.html",
-      "publishedDateTime": "2021-01-15T03:58:00-08:00",
+      "ampWebUrl": "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818?amp=1",
+      "publishedDateTime": "2021-01-14T20:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "Newsweek",
+        "domain": "newsweek.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -111,64 +276,6 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-bidens-humane-immigration-plan-gives-green-cards-to-tps-daca-recipients-harris-says.md",
-      "title": "Biden's 'humane' immigration plan gives green cards to TPS, DACA recipients, Harris says",
-      "excerpt": "Vice President-elect Kamala Harris Tuesday said the Biden administration will take a more \"humane\" approach to immigration when the president-elect takes office next week.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jzcL2OZrtak/bidens-humane-immigration-plan-gives-green-cards-to-tps-daca-recipients-harris-says",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jzcL2OZrtak/bidens-humane-immigration-plan-gives-green-cards-to-tps-daca-recipients-harris-says",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43d8096c-96b6-417b-9e70-d106d78ea892/bc25fb44-5fe3-47a2-9bd7-1ee6ed3cb202/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-humane-immigration-plan-gives-green-cards-to-tps-daca-recipients-harris-says.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-humane-immigration-plan-gives-green-cards-to-tps-daca-recipients-harris-says.amp",
-      "publishedDateTime": "2021-01-13T03:07:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
         "Kamala Harris"
       ]
     },
@@ -185,7 +292,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -282,58 +389,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-12-that-time-kamala-harris-flew-on-trumps-private-plane-and-more-from-her-biographer.md",
-      "title": "That time Kamala Harris flew on Trump’s private plane, and more from her biographer",
-      "excerpt": "Author Dan Morain answers queries about his new book on Kamala Harris, like why she's an only-in-California politician and what to expect from her as vice president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/story/2021-01-11/that-time-kamala-harris-flew-on-trumps-private-plane-and-more-from-new-book",
-      "originalUrl": "https://www.latimes.com/politics/story/2021-01-11/that-time-kamala-harris-flew-on-trumps-private-plane-and-more-from-new-book",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/ad02f72/2147483647/strip/true/crop/3000x1959+0+20/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff6%2F01%2Fcbd4b15d41a6962baf92c78dbb80%2Fdhs-acting-secretary-immigration-63532.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/politics/story/2021-01-11/that-time-kamala-harris-flew-on-trumps-private-plane-and-more-from-new-book?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-11/that-time-kamala-harris-flew-on-trumps-private-plane-and-more-from-new-book?_amp=true",
-      "publishedDateTime": "2021-01-11T14:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-01-11-vogues-kamala-harris-cover-photos-spark-controversy-washed-out-mess.md",
       "title": "Vogue's Kamala Harris cover photos spark controversy: 'Washed out mess'",
       "excerpt": "First woman of color elected vice-president is February cover star but users complain about lighting",
@@ -342,7 +397,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour?fbclid=IwAR1bNX4SBZrhlR_3TtForOSsodHxc-6OWQbLFglDCZ2N9L3EKdFRGsmiwEA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -383,111 +438,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-kamala-harris-gains-prominent-new-role-thanks-to-democrats-senate-majority.md",
-      "title": "Kamala Harris gains prominent new role thanks to Democrats' Senate majority",
-      "excerpt": "Kamala Harris’s vice presidential portfolio was nebulous before last week. But thanks to Democrats’ upset victories in two Georgia Senate run-offs, Harris has unexpectedly earned a new title: Senate tie breaker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/01/10/kamala-harris-democrat-senate-majority-456910",
-      "originalUrl": "https://www.politico.com/news/2021/01/10/kamala-harris-democrat-senate-majority-456910",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/b5/0a/a4786468485394b0c4c00fa489a5/210109-kamala-harris-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/10/kamala-harris-democrat-senate-majority-456910",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/10/kamala-harris-democrat-senate-majority-456910",
-      "publishedDateTime": "2021-01-10T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-kamala-harris-top-economic-advisor-is-another-blackrock-exec.md",
-      "title": "Kamala Harris’ top economic advisor is another BlackRock exec",
-      "excerpt": "BlackRock is cementing its position as the Biden administration’s go-to Wall Street firm. Vice-President-elect Kamala Harris on Friday said she’s selected BlackRock’s Global Chief Investment",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/01/08/kamala-harris-top-economic-advisor-is-another-blackrock-exec/",
-      "originalUrl": "https://nypost.com/2021/01/08/kamala-harris-top-economic-advisor-is-another-blackrock-exec/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2019/12/blackrock-1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/01/08/kamala-harris-top-economic-advisor-is-another-blackrock-exec/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/08/kamala-harris-top-economic-advisor-is-another-blackrock-exec/amp/",
-      "publishedDateTime": "2021-01-08T14:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     },
     {
@@ -548,6 +498,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-04-its-a-lot-of-pressure-as-kamala-harris-visits-georgia-voters-brace-for-a-senate-runoff-that-is-riveting-the-nation.md",
+      "title": "'It’s a lot of pressure.' As Kamala Harris visits Georgia, voters brace for a Senate runoff that is riveting the nation",
+      "excerpt": "From the time she stepped onto the podium, Vice President-elect Kamala Harris was greeted by thunderous car horns at a drive-in event near Savannah just days before voters decide their next Senators in contentious races that will shape Harris’ and President-elect Joe Biden’s governing future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/04/vp-elect-kamala-harris-visits-savannah-ahead-georgia-senate-runoffs/4124373001/?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/04/vp-elect-kamala-harris-visits-savannah-ahead-georgia-senate-runoffs/4124373001/?scrolla=5eb6d68b7fedc32c19ef33b4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/04/NSMN/40d7eacb-8ee7-4152-bc0d-e67001ba07ce-Kamala3.jpg?auto=webp&crop=1999,1125,x0,y133&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4124373001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124373001",
+      "publishedDateTime": "2021-01-04T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-with-kamala-harris-as-vice-president-expect-indian-americans-to-get-more-involved-in-politics.md",
       "title": "With Kamala Harris as vice president, expect Indian Americans to get more involved in politics",
       "excerpt": "Indian Americans have seen their political stock rise in 2020 with the election of Kamala D. Harris — whose mother was born in Chennai, India — as the next vice president of the United States. Indian Americans across the country celebrated her victory,",
@@ -556,7 +558,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2021/01/04/with-kamala-harris-vice-president-expect-indian-americans-get-more-politically-active/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -700,49 +702,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-03-georgia-senate-runoffs-kamala-harris-stumps-in-savannah-trump-pressures-for-overturn-and-the-heat-turns-up.md",
-      "title": "Georgia Senate runoffs: Kamala Harris stumps in Savannah, Trump pressures for overturn and the heat turns up",
-      "excerpt": "With two days to go before the election, US Senate hopefuls hit the campaign trail with Trump, Biden and Harris.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/",
-      "originalUrl": "https://www.indystar.com/story/news/2021/01/03/trump-biden-and-harris-visit-georgia-stump-us-senate-hopefuls/4119965001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/04/NSMN/3ea90e02-f23e-434a-a69b-42465296e1f5-Kamala5.jpg?auto=webp&crop=1999,1125,x0,y133&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.indystar.com/amp/4119965001",
-      "cdnAmpWebUrl": "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4119965001",
-      "publishedDateTime": "2021-01-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indianapolis Star",
-        "domain": "indystar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-12-29-harris-emphasizes-covid-19-vaccine-is-painless-and-safe.md",
       "title": "Harris emphasizes COVID-19 vaccine is 'painless' and 'safe'",
       "excerpt": "Vice President-elect Kamala Harris on Tuesday publicly took the recently approved coronavirus vaccine.",
@@ -865,7 +824,7 @@
       "originalUrl": "https://www.cbsnews.com/news/kamala-harris-doug-emhoff-covid-vaccine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -1030,7 +989,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1546,6 +1505,63 @@
       ]
     },
     {
+      "path": "_news/2020-12-14-who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts.md",
+      "title": "Who will replace Kamala Harris in the Senate? California governor weighs a shortlist of firsts",
+      "excerpt": "The possible replacements include Long Beach Mayor Robert Garcia and California Secretary of State Alex Padilla.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/congress/who-will-replace-kamala-harris-u-s-senate-california-governor-n1250975",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/who-will-replace-kamala-harris-u-s-senate-california-governor-n1250975",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_50/3434600/201209-los-angeles-alex-padilla-ac-419p_0_5eecaf7673fb2b6dd17bdf7d233aff1c.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250975",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250975",
+      "publishedDateTime": "2020-12-14T05:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-time-magazine-names-biden-harris-its-person-of-the-year-in-profile-fiercely-critical-of-trump.md",
       "title": "Time magazine names Biden, Harris its Person of the Year in profile fiercely critical of Trump",
       "excerpt": "",
@@ -1558,7 +1574,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1083,
+      "heat": 1043,
       "tags": null,
       "images": [
         {

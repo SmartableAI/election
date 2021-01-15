@@ -32,53 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "Dr. Harold Bornstein, Trump's former personal physician, dead at 73"
-    excerpt: "Dr. Harold Bornstein, President Donald Trump's former personal physician, has died at the age of 73.\n    \n"
-    publishedDateTime: 2021-01-14T16:04:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gen9j_Bui5w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/harold-bornstein-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/harold-bornstein-donald-trump/index.html"
+  - title: "Senate GOP torn over convicting Trump: 'There's no love lost'"
+    excerpt: "To many Senate Republicans, including Senate Majority Leader Mitch McConnell, there's no question in their minds: President Donald Trump committed impeachable offenses.\n    \n"
+    publishedDateTime: 2021-01-14T22:09:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r1vWzdUQ28I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/mitch-mcconnell-republican-senator-plans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/mitch-mcconnell-republican-senator-plans/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902140930-dr-harold-bornstein-file-restricted-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Tillerson slams Trump as Pompeo sings his praises"
-    excerpt: "Former Secretary of State Rex Tillerson painted a scathing picture of his old boss President Donald Trump as someone who made uninformed decisions that were not based in reality -- a stark contrast to Trump's top diplomat Mike Pompeo, who is heaping praise on the outgoing President in his final days"
-    publishedDateTime: 2021-01-15T18:00:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jn45W6rhvuY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/tillerson-foreign-policy-interview/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/tillerson-foreign-policy-interview/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200626131825-trump-tillerson-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "PGA pulls major 2022 tournament from Trump's Bedminster days after deadly riot"
-    excerpt: "Playing at the New Jersey golf course \"would be detrimental to the PGA of America brand,\" the association president said."
-    publishedDateTime: 2021-01-11T04:21:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/pga-pulls-major-2022-tournament-trump-s-bedminster-days-after-n1253371"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253371"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253371"
+  - title: "Trump conviction faces uphill climb in Senate. It could all come down to McConnell."
+    excerpt: "Senators are not expected to consider the House impeachment resolution until Tuesday, the day before President-elect Joe Biden takes office."
+    publishedDateTime: 2021-01-14T08:22:00Z
+    webUrl: "https://www.nbcnews.com/politics/trump-impeachment-inquiry/trump-impeachment-faces-uphill-climb-senate-it-could-all-come-n1254171"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254171"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254171"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 131
+    quality: 129
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_01/3440542/210107-bedminster-golf-club-ew-437p_75076742c4f9d6f2d806e79f607548f8.jpg"
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_02/3441896/210113-donald-trump-ac-434p_0a113ac772841e55bfd302f2f9225047.jpg"
         width: 2500
-        height: 1667
+        height: 1250
+        isCached: true
+  - title: "Trump's speech is probably defensible in every court — except, perhaps, the Senate"
+    excerpt: "The Senate will now decide whether President Donald Trump should be convicted on the House's charge of incitement of insurrection, and there has also been discussion of potential criminal charges arising from the same conduct after he leaves office."
+    publishedDateTime: 2021-01-15T00:17:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-s-speech-probably-defensible-every-court-except-perhaps-senate-n1254258"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254258"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254258"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_02/3442024/210114-donald-trump-jm-0910_c07a5a64d923f2f218931b734f3f77f4.jpg"
+        width: 2500
+        height: 1666
         isCached: true
 
 secured: "EWruj4r9gZlAfNPRE6UoLixlkSk4DA5jrmKfM+GkjluDG3YBUl0vYlzv/EMimoTkd0/ylbK6FsZeDMHWxmWNDXdT17Gf9dO1aGQavzl8O9z2SuyM+Ykz0RQ9FFnTDdiLp1e4UIp9RrCZ3IntKrrN2dOf8Xut74+nu7mE7h8Agrl+QAphgYxcecoZXEobTdFt4Nyd48WIRNNIo1OYJ9WkB5U4K5z+lKWa7DV31zcYJAAww8O6eaSLEl/uIt2w459Y+hsMQQ0ENFPhnHrtjEmDeMttWPjAEXEBUKdzm2+dN/7pqiMJGe+NiLZTWVAzzM8ksCndVBA2mkBDepx1ocBClTHZRETWVl115/qIBXh6eETWYzuOCCOBhsyPKHlENhPx/VhlUMr0NXd0Ar6ZknnokrG+u+sEyQNZfbbSdt25zq9syIxF0FyUtR5MbdcevZzMnKgXCSnGhKuu011nMBytnQxwtkxpmJeFcUFL51KjjnVYptumC/+huBOXqisq9fKoBxV3D8bWEcf7Q6CV04mifg==;w1zCjF0U1Si8H1kZPEZNKw=="

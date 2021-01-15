@@ -61,6 +61,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden aims for new course on trade, breaking with Trump and Democratic predecessors"
+    excerpt: "Biden will confront the same question that has bedeviled U.S. policymakers for three decades: How can the U.S. shape for maximum benefit its overseas commercial engagements?"
+    publishedDateTime: 2021-01-14T18:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/14/biden-trade-katherine-tai-tariff/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/14/biden-trade-katherine-tai-tariff/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/14/biden-trade-katherine-tai-tariff/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/326P67B4AAI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "James Comey Says Joe Biden Should Consider Pardoning Donald Trump to Allow U.S. to Heal"
+    excerpt: "James Comey, the former FBI director fired by President Donald Trump in 2017, said the U.S. needs to \"focus on things that are going to matter.\""
+    publishedDateTime: 2021-01-14T09:06:00Z
+    webUrl: "https://www.newsweek.com/james-comey-donald-trump-pardon-impeachment-healing-1561457"
+    ampWebUrl: "https://www.newsweek.com/james-comey-donald-trump-pardon-impeachment-healing-1561457?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/james-comey-donald-trump-pardon-impeachment-healing-1561457?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1707401/fbi-director-james-comey.jpg"
+        width: 3600
+        height: 2400
+        isCached: true
   - title: "Will Melania Trump invite Jill Biden to tea-and-tour at White House or break tradition?"
     excerpt: "The decades-old civic ritual of the outgoing FLOTUS inviting her successor to tea and a tour of the White House appears to be off for Melania Trump."
     publishedDateTime: 2021-01-15T14:05:00Z
@@ -92,6 +124,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/ca42007/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6a%2F3f%2Fa1eede6944c8bb8d6946b1b5ab19%2Fla-photos-1staff-682883-na-pol-certification-protest-kkn-0217.JPG"
         width: 320
         height: 209
+        isCached: true
+  - title: "Facebook bans Trump for the rest of his presidency"
+    excerpt: "Mark Zuckerberg said Mr. Trump's account will be locked \"for at least the next two weeks\" but could remain locked indefinitely."
+    publishedDateTime: 2021-01-08T01:37:00Z
+    webUrl: "https://www.cbsnews.com/news/facebook-bans-trump-joe-biden-president-inauguration/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/facebook-bans-trump-joe-biden-president-inauguration/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facebook-bans-trump-joe-biden-president-inauguration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/07/49ecaf2c-77dd-457e-a6ba-ded691195aee/thumbnail/1200x630/ea4a3fd9ad0ec088f11ca121441c311d/gettyimages-1046002128.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden denounces racial inequities in blasting Capitol riot"
     excerpt: "The president-elect, announcing his Justice Department team Thursday, said the largely White mob that attacked the Capitol was treated far better than Black protesters would have been. He also vowed to restore the department’s political neutrality and honor."
@@ -285,6 +333,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "READ: Article of impeachment against Trump"
+    excerpt: "House Democrats on Monday released a revised article of impeachment against President Trump Donald Trump Outgoing Capitol Police chief accuses House, Senate security officials of hindering efforts to call in National Guard: WaPo PGA announces plans to move 2022 championship from Trump property Former Democratic senator: Biden Justice Department may investigate Jan."
+    publishedDateTime: 2021-01-11T16:44:00Z
+    webUrl: "https://thehill.com/homenews/house/533627-read-article-of-impeachment-against-trump"
+    ampWebUrl: "https://thehill.com/homenews/house/533627-read-article-of-impeachment-against-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/533627-read-article-of-impeachment-against-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_120720getty_override.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Advocacy group: Biden should revamp US human rights policy"
     excerpt: "Human Rights Watch is calling on President-elect Joe Biden to bring “fundamental change” to U_S_ policy on human rights and allow criminal investigations of President Donald Trump to “show that the president is not above the law."
     publishedDateTime: 2021-01-13T12:29:00Z
@@ -317,6 +381,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump impeached a second time over mob attack on US Capitol"
+    excerpt: "Ten Republicans support unprecedented second impeachment as Nancy Pelosi says Trump represents ‘clear and present danger’"
+    publishedDateTime: 2021-01-13T15:57:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/13/trump-impeached-again-president-history-capitol-attack"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/13/trump-impeached-again-president-history-capitol-attack"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/13/trump-impeached-again-president-history-capitol-attack"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a928c2acfc622cb8125691822fa9537f11ce4385/0_0_5473_3649/master/5473.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dc6d7bbb0a8760580bfd5d59c8959505"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "More House Republicans Reveal 'Yes' Votes for Donald Trump Impeachment"
+    excerpt: "Five Republican members of the House have so far said they will vote to impeach President Donald Trump following the riot at the Capitol on January 6. A vote is expected on Wednesday. Congresswoman Jaime Herrera Beutler of Washington's 3rd district and Congressman Fred Upton of Michigan's 4th district both announced that they would vote to impeach late on Tuesday."
+    publishedDateTime: 2021-01-13T09:13:00Z
+    webUrl: "https://www.newsweek.com/more-house-republicans-reveal-yes-votes-donald-trump-impeachment-1561072"
+    ampWebUrl: "https://www.newsweek.com/more-house-republicans-reveal-yes-votes-donald-trump-impeachment-1561072?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/more-house-republicans-reveal-yes-votes-donald-trump-impeachment-1561072?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1705243/president-donald-trump-speaks-reporters.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump impeachment: Here's how the process works"
     excerpt: "Impeachment proceedings for Donald Trump are nearing an end today, with the president facing vote in the Senate on two articles of impeachment that were approved by the House -- abuse of power and obstruction of Congress."
     publishedDateTime: 2021-01-13T10:05:00Z
@@ -332,6 +428,70 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-rt-ps-190917_hpMain_2_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump impeachment: what you need to know as House moves to a vote"
+    excerpt: "Trump’s fiery speech at a rally just before the attack on the Capitol is at the center of the impeachment charge against him"
+    publishedDateTime: 2021-01-13T12:49:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/13/trump-impeachment-what-you-need-to-know"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/13/trump-impeachment-what-you-need-to-know"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/13/trump-impeachment-what-you-need-to-know"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/11df812b1d90287973cee1da1eaa11c8e754b00f/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=81e4f974c9e1deadc01e0b57dcfa9e9b"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Where Republican senators stand on impeaching Donald Trump"
+    excerpt: "Most Democratic senators are calling for Mr. Trump's immediate removal, including the Senate's two independent members, Angus King of Maine and Bernie Sanders of Vermont. But the bar for the Senate to remove the president is higher than impeachment,"
+    publishedDateTime: 2021-01-13T12:03:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-impeachment-republicans-senators/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-impeachment-republicans-senators/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-impeachment-republicans-senators/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/13/0d0a1258-107d-4d33-a1e0-51a2c24cbc11/thumbnail/1200x630/dad36a3b3990eba7f8fcd831191e5c32/gettyimages-955095568.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Here are all of the House Republicans who voted to impeach Donald Trump"
+    excerpt: "The House of Representatives has voted to impeach President Donald Trump-- making him the only president in American history to be impeached twice. Unlike his first impeachment in 2019, 10 Republicans joined Democrats to charge Trump for the \"incitement of insurrection\" for his role in the Jan."
+    publishedDateTime: 2021-01-13T22:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/house-republicans-voted-impeach-donald-trump/story?id=75235094"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/house-republicans-voted-impeach-donald-trump/story?id=75235094"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/house-republicans-voted-impeach-donald-trump/story?id=75235094"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/house-impeachment-dan-newhouse-ht-iwb-210113_1610567556296_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "House impeaches Trump for the second time, focus shifts to Senate trial"
+    excerpt: "Trump is the only president to be impeached twice, this time for inciting the Capitol riot. Now, the debate shifts to the Senate."
+    publishedDateTime: 2021-01-13T23:30:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-13/house-begins-final-push-to-make-trump-the-only-president-to-be-impeached-twice"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-13/house-begins-final-push-to-make-trump-the-only-president-to-be-impeached-twice?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-13/house-begins-final-push-to-make-trump-the-only-president-to-be-impeached-twice?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/232ada4/2147483647/strip/true/crop/5405x3530+0+36/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffb%2Fde%2Fd15bbb974c6d8bff58658cb08c71%2Fap21007825123867.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Housing advocates call on Biden to extend eviction ban"
     excerpt: "Housing advocates around the country are calling on the incoming Biden administration to extend and strengthen the current federal ban on evictions"
@@ -349,6 +509,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "How a 2nd Trump impeachment could differ from 1st"
+    excerpt: "A possible second presidential impeachment would be unprecedented and come with different punishments if Trump is convicted."
+    publishedDateTime: 2021-01-13T16:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/2nd-trump-impeachment-differ-1st/story?id=75204919"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/2nd-trump-impeachment-differ-1st/story?id=75204919"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/2nd-trump-impeachment-differ-1st/story?id=75204919"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/donald-trump-impeachment-04-gty-llr-210112_1610486846963_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "New Lincoln Project Ad Targets Donald Trump Impeachment"
+    excerpt: "Trump PAC released the video as Congress debates whether to remove the president after the insurrection at the U.S. Capitol."
+    publishedDateTime: 2021-01-13T16:57:00Z
+    webUrl: "https://www.newsweek.com/lincoln-project-donald-trump-impeach-capitol-insurrection-convict-1561242"
+    ampWebUrl: "https://www.newsweek.com/lincoln-project-donald-trump-impeach-capitol-insurrection-convict-1561242?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lincoln-project-donald-trump-impeach-capitol-insurrection-convict-1561242?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1705946/president-donald-trump-leaves-air-force-one.jpg"
+        width: 2686
+        height: 1607
+        isCached: true
   - title: "Security concerns mount ahead of Biden inauguration"
     excerpt: "Concerns are growing over security threats surrounding President-elect Joe Biden’s inauguration next week after the attack on the Capitol rattled the country's confidence and put scrutiny on law enforcement and safety in Washington."
     publishedDateTime: 2021-01-13T16:09:00Z
@@ -364,6 +556,22 @@ related:
       - url: "https://thehill.com/sites/default/files/capitol_riot_010621upi7_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "The 10 Republicans who voted to impeach Donald Trump"
+    excerpt: "Ten House Republicans joined every Democrat in voting yes, in the most bipartisan impeachment in US history"
+    publishedDateTime: 2021-01-13T18:10:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/13/republicans-donald-trump-impeached-house"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/13/republicans-donald-trump-impeached-house"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/13/republicans-donald-trump-impeached-house"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/3e833b95768343260cef5d8f79340a35c7cd47ef/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=eb1a9cf30071291588c43d216f6e8b14"
+        width: 600
+        height: 360
         isCached: true
   - title: "The Latest: Biden hopes Senate can balance trial, other work"
     excerpt: "President-elect Joe Biden says he hopes the Senate can balance a second impeachment trial of President Donald Trump with “other urgent business” as the coronavirus pandemic rages"
@@ -477,6 +685,54 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Senate Democrats signal hope for bipartisan Trump impeachment trial"
+    excerpt: "One day after Trump was impeached a second time, a growing number of Republican senators have signaled that they are open to convicting Trump on the charge of “incitement of insurrection.”"
+    publishedDateTime: 2021-01-15T06:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senate-democrats-signal-hope-for-bipartisan-trump-impeachment-trial/2021/01/14/d1ffa54a-5687-11eb-a08b-f1381ef3d207_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senate-democrats-signal-hope-for-bipartisan-trump-impeachment-trial/2021/01/14/d1ffa54a-5687-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-democrats-signal-hope-for-bipartisan-trump-impeachment-trial/2021/01/14/d1ffa54a-5687-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ECKJTBCWQAI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 954
+        isCached: true
+  - title: "Trump isolated during final days as Senate trial looms"
+    excerpt: "Key allies on Capitol Hill have bucked him, advisers are avoiding him, and his lawyers have largely refused to defend him as he faces a second impeachment trial."
+    publishedDateTime: 2021-01-15T00:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-isolated-final-days-senate-trial-looms/story?id=75250931"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-isolated-final-days-senate-trial-looms/story?id=75250931"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-isolated-final-days-senate-trial-looms/story?id=75250931"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-white-house-01-gty-iwb-210113_1610553950499_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Asian shares mixed following Biden speech, Wall St retreat"
+    excerpt: "Asian shares were mixed on Friday after a late slide in several Big Tech stocks left major indexes lower on Wall Street. U.S. futures were trading slightly lower after President-elect Joe Biden announced his plans to propose a $1."
+    publishedDateTime: 2021-01-15T19:35:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/asian-shares-mixed-traders-await-details-biden-plan-75242588"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/asian-shares-mixed-traders-await-details-biden-plan-75242588"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/asian-shares-mixed-traders-await-details-biden-plan-75242588"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Business/WireAP_b821a85c9a5c49e092b4942198300c96_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to appoint David S. Cohen as deputy director of the CIA"
     excerpt: "Cohen has served as No. 2 at the spy agency once before and was a principal architect of Obama-era sanctions against Iran and Russia."
     publishedDateTime: 2021-01-15T16:04:00Z
@@ -573,6 +829,22 @@ related:
         width: 3459
         height: 2250
         isCached: true
+  - title: "Trump to award Bill Belichick a Medal of Freedom as House considers impeachment"
+    excerpt: "Patriots Coach Bill Belichick is the latest sports figure to receive the award in the administration's final days."
+    publishedDateTime: 2021-01-11T16:57:00Z
+    webUrl: "https://www.washingtonpost.com/sports/2021/01/11/president-trump-bill-belichick-medal-of-freedom/"
+    ampWebUrl: "https://www.washingtonpost.com/sports/2021/01/11/president-trump-bill-belichick-medal-of-freedom/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/sports/2021/01/11/president-trump-bill-belichick-medal-of-freedom/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JDFI23FDYAI6PLPBO3IGDVLO7I.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden presents Covid stimulus plan as impeachment focus shifts to Senate – live"
     excerpt: "Trump’s impeachment in the House triggers a trial in the Senate, which McConnell says can’t begin until Senate is back in session"
     publishedDateTime: 2021-01-15T00:37:00Z
@@ -637,20 +909,6 @@ related:
         width: 2500
         height: 1636
         isCached: true
-  - title: "The impact President Trump's impeachment could have on Biden's agenda"
-    excerpt: "CBS News political contributors Robby Mook and Terry Sullivan join \"CBS This Morning\" to discuss whether the impeachment trial of President Trump could impact President-elect Joe Biden's agenda. Plus,"
-    publishedDateTime: 2021-01-15T14:06:00Z
-    webUrl: "https://www.cbsnews.com/video/the-impact-president-trumps-impeachment-could-have-on-bidens-agenda/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/15/332d8909-f5ee-416d-bd2c-2a8ea83d5d1b/thumbnail/1200x630/fab852e28e8c7a68d382085732290a21/cbsn-fusion-the-impact-president-trumps-impeachment-could-have-on-bidens-agenda-thumbnail-627054-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump impeachment: attention turns to Senate after House votes to impeach – live"
     excerpt: "Trump’s impeachment in the House triggers a trial in the Senate, which McConnell says can’t begin until Senate is back in session Tuesday"
     publishedDateTime: 2021-01-14T18:26:00Z
@@ -666,6 +924,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/d6a434cb96b042551370faaa1242a3eb1a2b426c/0_74_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86464133e853da2e6dd68d48d008dc1e"
         width: 600
         height: 360
+        isCached: true
+  - title: "Palestinians announce first elections in 15 years, on eve of Biden era"
+    excerpt: "Palestinian President Mahmoud Abbas announced parliamentary and presidential elections on Friday, the first in 15 years, in an effort to heal long-standing internal divisions."
+    publishedDateTime: 2021-01-15T19:04:00Z
+    webUrl: "https://www.reuters.com/article/us-palestinians-election/palestinians-announce-first-elections-in-15-years-on-eve-of-biden-era-idUSKBN29K2C9?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547970259&r=LYNXMPEH0E1G6&w=800"
+        width: 800
+        height: 558
         isCached: true
   - title: "Trump impeachment live updates: Trump on track to be 1st president impeached twice"
     excerpt: "Live updates during the transition from the Trump to Biden administrations -- and from the second Trump impeachment."
@@ -683,6 +955,38 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Voting begins in US House on impeaching President Donald Trump over riot at Capitol"
+    excerpt: "Voting begins in US House on impeaching President Donald Trump over riot at Capitol. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission."
+    publishedDateTime: 2021-01-14T01:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/voting-begins-in-us-house-on-impeaching-president-donald-trump-over-riot-at-capitol/2021/01/13/a20c7d50-55e1-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/voting-begins-in-us-house-on-impeaching-president-donald-trump-over-riot-at-capitol/2021/01/13/a20c7d50-55e1-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/voting-begins-in-us-house-on-impeaching-president-donald-trump-over-riot-at-capitol/2021/01/13/a20c7d50-55e1-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Donald Trump becomes the first US president to be impeached for a second time – live"
+    excerpt: "Ten House Republicans join Democrats to impeach president on charge of incitement of insurrection after violent riot at US Capitol – follow all the latest"
+    publishedDateTime: 2021-01-14T00:05:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 118
+    images:
+      - url: "https://i.guim.co.uk/img/media/4192e7fffa7263b4b8614f7ab9bfba294bac7182/0_74_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6ea47a3966825d290d4f5b830fa273c8"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Joe Biden picks Boston Mayor Marty Walsh, a former union president, as labor secretary"
     excerpt: "BOSTON — President-elect Joe Biden will select Boston Mayor Marty Walsh as his labor secretary, according to a person familiar with the decision, choosing a former union worker who shares his Irish American background and working-class roots."
     publishedDateTime: 2021-01-07T22:09:00Z
@@ -698,6 +1002,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/19Qh57wx2b8uSTs9j-qlcwB8rpA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MVKWVGAJ4XFDUTXSWAOPK4Z6EQ.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Donald Trump's Approval Rating Tanks to Record Low on Day of Potential Second Impeachment"
+    excerpt: "Sixty-three percent of voters said they disapprove of Trump's performance, making him one of the lowest-rated presidents in U.S. history."
+    publishedDateTime: 2021-01-13T16:08:00Z
+    webUrl: "https://www.newsweek.com/donald-trumps-approval-rating-tanks-record-low-day-potential-second-impeachment-1561212"
+    ampWebUrl: "https://www.newsweek.com/donald-trumps-approval-rating-tanks-record-low-day-potential-second-impeachment-1561212?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trumps-approval-rating-tanks-record-low-day-potential-second-impeachment-1561212?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1705620/mandel-ngan.jpg"
+        width: 2500
+        height: 1666
         isCached: true
   - title: "For some Christians, the Capitol riot doesn’t change the prophecy: Trump will be president"
     excerpt: "As lawmakers prepared to impeach President Trump and Washington readied for President-elect Joe Biden’s inauguration, Cliff Dyrud wasn’t focused on man-made acts. He was listening for the words of prophets."
@@ -731,6 +1051,38 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "House Democrats file an article of impeachment charging Trump with incitement of insurrection"
+    excerpt: "The president incited a deadly riot at the US Capitol last week that resulted in five deaths and Trump's de-platforming on mainstream social media."
+    publishedDateTime: 2021-01-11T16:32:00Z
+    webUrl: "https://www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5ff5f5f5d184b30018aad517?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "House Democrats unveil ‘incitement of insurrection’ impeachment charge against Trump, but pressure on Pence to oust president"
+    excerpt: "As the House prepares for impeachment, President Donald Trump faces a single charge — “incitement of insurrection” — over the deadly riot at the U.S. Capitol."
+    publishedDateTime: 2021-01-11T19:46:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 113
+    images:
+      - url: "https://www.chicagotribune.com/resizer/a4ZU_ph4DDjjkI1r7Y8KG-e-6MY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I27GQJSG55AG7DPH5SFIEL4JZE.JPG"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump becomes the first US president to be impeached for a second time – as it happened"
     excerpt: "Ten House Republicans join Democrats to impeach president on charge of incitement of insurrection after violent riot at US Capitol – follow all the latest"
     publishedDateTime: 2021-01-14T01:05:00Z
@@ -746,6 +1098,36 @@ related:
       - url: "https://i.guim.co.uk/img/media/4192e7fffa7263b4b8614f7ab9bfba294bac7182/0_74_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6ea47a3966825d290d4f5b830fa273c8"
         width: 600
         height: 360
+        isCached: true
+  - title: "House Democrats introduce an article of impeachment charging Trump with incitement of insurrection"
+    excerpt: "The president incited a deadly riot at the US Capitol last week that resulted in five deaths and Trump's de-platforming on mainstream social media."
+    publishedDateTime: 2021-01-11T17:46:00Z
+    webUrl: "https://www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5ff5f5f5d184b30018aad517?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Several House Republicans join impeachment push; Pence says he will not move to expel Trump"
+    excerpt: "At least four Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
+    publishedDateTime: 2021-01-13T08:02:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump/several-house-republicans-join-impeachment-push-pence-says-he-will-not-move-to-expel-trump-idUKKBN29H2MG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 110
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547541869&r=LYNXMPEH0B1HG&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "Biden Names Boston Mayor Walsh to Head Labor Department"
     excerpt: "President-elect Joe Biden announced Thursday that he has named Boston Mayor Marty Walsh to be labor secretary."
@@ -786,6 +1168,34 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Chinese bargain hunters pile into stocks blacklisted by Trump"
+    excerpt: "As U.S. investors dump shares in Chinese companies blacklisted by outgoing President Donald Trump, bargain hunters in China are taking the opposite side of that trade, wagering that a Joe Biden presidency will reverse the investment ban."
+    publishedDateTime: 2021-01-08T10:32:00Z
+    webUrl: "https://www.reuters.com/article/us-china-usa-bargainhunt/chinese-bargain-hunters-pile-into-stocks-blacklisted-by-trump-idUSKBN29D0JE?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547068874&r=LYNXMPEH0707R&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Trump faces calls for removal, possible impeachment after Capitol chaos"
+    excerpt: "President Donald Trump faced the threat on Thursday of a second impeachment, a day after his supporters breached the U.S. Capitol in a stunning assault on American democracy as Congress was certifying President-elect Joe Biden's victory."
+    publishedDateTime: 2021-01-08T10:36:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election/u-s-congress-certifies-biden-win-after-trump-supporters-wreak-havoc-in-the-capitol-idUKKBN29B2PS?edition-redirect=uk"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547042427&r=LYNXMPEH061KN&w=800"
+        width: 800
+        height: 508
+        isCached: true
   - title: "Biden says labor secretary will encourage unionization"
     excerpt: "U.S. President-elect Joe Biden said his labor secretary nominee, Boston Mayor Marty Walsh, understands that unions built the American middle class and will encourage unionization."
     publishedDateTime: 2021-01-09T00:38:00Z
@@ -814,6 +1224,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Banished by Twitter, an isolated Trump faces looming impeachment threat"
+    excerpt: "With only days left in his presidency, Donald Trump - silenced by Twitter and shunned by a growing number of Republican officials - faces a renewed drive by Democrats to remove him from office after he incited his supporters to storm the U."
+    publishedDateTime: 2021-01-10T04:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump/wrapup-4-banished-by-twitter-an-isolated-trump-faces-looming-impeachment-threat-idUSL1N2JK0CJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547193267&r=LYNXMPEH0806H&w=800"
+        width: 800
+        height: 544
+        isCached: true
   - title: "Lawmakers who voted against Biden get blasted back home"
     excerpt: "Republican members of Congress who voted against certifying Joe Biden’s presidential victory, even after a mob broke into the Capitol, are getting blasted by critics in their home districts who demand that they resign or be ousted."
     publishedDateTime: 2021-01-11T08:27:00Z
@@ -836,6 +1260,20 @@ related:
     quality: 105
     images:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547409614&r=LYNXMPEH0A1HG&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Democrats poised to impeach defiant Trump over storming of U.S. Capitol"
+    excerpt: "A fiery debate opened in the U.S. House of Representatives on Tuesday over a Democratic-led effort to remove President Donald Trump from office for inciting supporters who stormed the Capitol last week,"
+    publishedDateTime: 2021-01-13T00:15:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/democrats-press-ahead-with-drive-to-impeach-trump-after-capitol-siege-idUSKBN29H0JJ?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
         width: 800
         height: 533
         isCached: true
@@ -867,6 +1305,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Three U.S. House Republicans declare support for impeaching Trump"
+    excerpt: "President Donald Trump's iron grip on his party showed further signs of weakening on Tuesday as at least three Republicans, including a member of the House leadership, said they would vote to impeach him after his supporters stormed the Capitol."
+    publishedDateTime: 2021-01-13T06:41:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/some-house-republicans-join-impeachment-push-pence-says-he-will-not-move-to-expel-trump-idUSKBN29H0JJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "20,000 guardsmen to deploy for Biden inauguration"
     excerpt: "While Congress acted to impeach him, President Donald Trump on Wednesday urged his supporters to shun violence as the National Guard prepared to deploy at least 20,000 troops in Washington for the Jan."
     publishedDateTime: 2021-01-13T23:26:00Z
@@ -895,6 +1347,20 @@ related:
         width: 1484
         height: 1119
         isCached: true
+  - title: "The second impeachment of President Donald Trump"
+    excerpt: "The House of Representatives is expected to vote to impeach President Donald Trump after Vice President Mike Pence declined to use the 25th amendment to remove him from office after protestors breached the U."
+    publishedDateTime: 2021-01-14T06:49:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-viz-second-impeachment-donald-trump-photos-20210113-3lvw3pc44zc2zjxu3i6bhxflie-photogallery.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 105
+    images:
+      - url: "https://www.chicagotribune.com/resizer/LwfwQj53mAsQ-0Dp_I5o1rBM3a4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/R6B7WRUN2GCNHWDYLCHBZ3R5UI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tom Hanks to host televised special for Biden's inauguration"
     excerpt: "Actor Tom Hanks will host a primetime television special on Jan. 20 to celebrate the inauguration of Joe Biden as president, organizers said on Wednesday."
     publishedDateTime: 2021-01-13T22:33:00Z
@@ -906,6 +1372,20 @@ related:
     quality: 105
     images:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547665788&r=LYNXMPEH0C1G6&w=800"
+        width: 800
+        height: 540
+        isCached: true
+  - title: "U.S. lawmaker comments on impeachment of President Donald Trump"
+    excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump."
+    publishedDateTime: 2021-01-13T21:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/us-lawmaker-comments-on-impeachment-of-president-donald-trump-idUSKBN29I20Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547688231&r=LYNXMPEH0C15H&w=800"
         width: 800
         height: 540
         isCached: true
@@ -937,6 +1417,20 @@ related:
         width: 799
         height: 533
         isCached: true
+  - title: "What a Final-Days Impeachment Would Mean for Trump"
+    excerpt: "Donald Trump’s four-year term as president ends on Jan. 20 at noon. That’s not soon enough for some in Congress, who have initiated an unprecedented second effort to impeach him, one year after the U."
+    publishedDateTime: 2021-01-13T18:52:00Z
+    webUrl: "https://www.washingtonpost.com/business/what-a-final-days-impeachment-would-mean-for-trump/2021/01/13/071dfccc-55a7-11eb-acc5-92d2819a1ccb_story.html?amp;amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZFJUESVU4I6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden pandemic stimulus plan to pump $1.9 tln into economy"
     excerpt: "President-elect Joe Biden will unveil a stimulus proposal on Thursday designed to jump-start the economy during the coronavirus pandemic and help minority communities with around $1.9 trillion in aid."
     publishedDateTime: 2021-01-14T22:28:00Z
@@ -964,6 +1458,48 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547909526&r=LYNXMPEH0D0O8&w=800"
         width: 799
         height: 543
+        isCached: true
+  - title: "Eyes on Pelosi as Trump impeachment trial timing up in the air"
+    excerpt: "The timing of President Donald Trump's impeachment trial could come into clearer focus on Friday when House Speaker Nancy Pelosi is expected to take questions about her next steps at a morning news conference at the U."
+    publishedDateTime: 2021-01-15T12:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/eyes-on-pelosi-as-trump-impeachment-trial-timing-up-in-the-air-idUSKBN29K0NV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547913417&r=LYNXMPEH0E0CB&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Impeachment manager Dean: Trump incited violence"
+    excerpt: "President Donald Trump's impeachment trial could begin as soon as 1 p.m. on Inauguration Day. One of the Democratic impeachment managers, Rep. Madeleine Dean, said she wants senators to \"look at their conscience\" and \"vote the correct way."
+    publishedDateTime: 2021-01-14T18:30:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/14/impeachment-manager-dean-trump-incited-violence/4161172001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/1b4d917b-966a-4d12-9f9a-e1ff8c57d339_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Second Trump impeachment trial takes U.S. into uncharted waters"
+    excerpt: "America will be in uncharted territory when the U.S. Senate meets as soon as next week for the second impeachment trial of Donald Trump, a case against the outgoing president that one Democrat preparing for arguments called \"shockingly evident."
+    publishedDateTime: 2021-01-15T02:14:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump/wrapup-3-u-s-in-uncharted-waters-in-unprecedented-second-impeachment-of-trump-idUSL1N2JP075"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547771325&r=LYNXMPEH0D0PK&w=800"
+        width: 800
+        height: 526
         isCached: true
   - title: "Trudeau expects Biden to re-engage U.S. on world stage"
     excerpt: "Reuters Next Trudeau expects Biden to re-engage U.S. on world stage. Posted . Canada and other U.S. allies are looking to President-elect Joe Biden to re-engage on the world stage"
@@ -1021,6 +1557,20 @@ related:
         width: 800
         height: 526
         isCached: true
+  - title: "Eyes on Pelosi as Trump impeachment trial timing up in the air"
+    excerpt: "The timing of President Donald Trump's impeachment trial could come into clearer focus on Friday when House Speaker Nancy Pelosi is expected to take questions about her next steps at a morning news conference at the U."
+    publishedDateTime: 2021-01-15T16:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29K0NV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547913417&r=LYNXMPEH0E0CB&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "US stock futures rise and oil nears 1-year high as investors shrug off Donald Trump impeachment and cheer stimulus"
     excerpt: "The Democrats are poised to impeach Donald Trump again, but investors are betting on economic recovery and are buying stocks and commodities."
     publishedDateTime: 2021-01-13T09:49:00Z
@@ -1037,6 +1587,20 @@ related:
         width: 701
         height: 526
         isCached: true
+  - title: "U.S. House Speaker Pelosi won't say when Trump impeachment trial will start"
+    excerpt: "U.S. House of Representatives Speaker Nancy Pelosi on Friday sidestepped a question about when President Donald Trump would face his second impeachment trial, on a charge of inciting his supporters to attack the Capitol."
+    publishedDateTime: 2021-01-15T18:06:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump/update-2-us-house-speaker-pelosi-wont-say-when-trump-impeachment-trial-will-start-idUSL1N2JQ1KN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547955197&r=LYNXMPEH0E18J&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Operation Warp Speed chief adviser resigns, Biden's transition official says"
     excerpt: "Moncef Slaoui, the chief adviser for Operation Warp Speed, has resigned but will be available to the incoming Joe Biden administration as a consultant for about four weeks, a Biden transition official told Reuters late on Tuesday."
     publishedDateTime: 2021-01-13T11:08:00Z
@@ -1050,6 +1614,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547574508&r=LYNXMPEH0C05S&w=800"
         width: 800
         height: 577
+        isCached: true
+  - title: "President Donald Trump impeached by US House for incitement of insurrection at Capitol; 1st US president impeached twice"
+    excerpt: "President Donald Trump impeached by US House for incitement of insurrection at Capitol; 1st US president impeached twice"
+    publishedDateTime: 2021-01-14T02:39:00Z
+    webUrl: "https://www.washingtonpost.com/politics/president-donald-trump-impeached-by-us-house-for-incitement-of-insurrection-at-capitol-1st-us-president-impeached-twice/2021/01/13/c965b654-55e7-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/president-donald-trump-impeached-by-us-house-for-incitement-of-insurrection-at-capitol-1st-us-president-impeached-twice/2021/01/13/c965b654-55e7-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/president-donald-trump-impeached-by-us-house-for-incitement-of-insurrection-at-capitol-1st-us-president-impeached-twice/2021/01/13/c965b654-55e7-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 100
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Analysis: Biden's $1.9 trillion rescue package offers bridge for hard-hit economy"
     excerpt: "(Reuters) - U.S. President-elect Joe Biden's proposal to pour $1.9 trillion into a hobbled economy could lay the foundation for a surge in jobs and spending that many economists say is needed to avoid long-term damage from a record-breaking pandemic recession."
@@ -1075,6 +1655,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547715105&r=LYNXMPEH0D03T&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "House rushes to impeach Trump after Pence says he won’t invoke 25th Amendment"
+    excerpt: "Already scheduled to leave office next week, Trump is on the verge of becoming the only president in history to be twice impeached."
+    publishedDateTime: 2021-01-13T10:05:00Z
+    webUrl: "https://www.al.com/politics/2021/01/house-rushes-to-impeach-trump-after-pence-says-he-wont-invoke-25th-amendment.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/house-rushes-to-impeach-trump-after-pence-says-he-wont-invoke-25th-amendment.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/house-rushes-to-impeach-trump-after-pence-says-he-wont-invoke-25th-amendment.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 97
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P3HVED4VFRFJTMPWE4IYDGUDBI.jpg"
+        width: 6000
+        height: 4000
         isCached: true
   - title: "Explainer: Impeachment or the 14th Amendment - Can Trump be barred from future office?"
     excerpt: "Some U.S. lawmakers have said President Donald Trump should be disqualified from holding political office again following his impeachment on Wednesday for inciting a mob that stormed the Capitol as lawmakers were certifying President-elect Joe Biden's victory."
@@ -1134,6 +1730,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Impeachment Was the GOP's Last Chance to Quit Donald Trump"
+    excerpt: "How the GOP reckons with Trump as he leaves office is the question on which the future of American politics depends."
+    publishedDateTime: 2021-01-14T02:45:00Z
+    webUrl: "https://time.com/5929618/donald-trump-impeachment-republicans/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 85
   - title: "Tom Hanks Hosted Inauguration Special Sees Comparison of Joe Biden, Donald Trump Supporters"
     excerpt: "An inauguration special for Joe Biden has drawn comparisons to the kind of celebrities who are showing support for him over Donald Trump."
     publishedDateTime: 2021-01-14T17:50:00Z
@@ -1164,6 +1769,38 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Nancy Pelosi says House will move to impeach Donald Trump"
+    excerpt: "Pelosi said that first the House will try to force Vice President Mike Pence and the Cabinet to oust Trump by invoking the 25th Amendment."
+    publishedDateTime: 2021-01-10T22:53:00Z
+    webUrl: "https://www.al.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/nancy-pelosi-says-house-will-move-to-impeach-donald-trump.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VI3E2I5XCZC4DOMAW4XAFNE4Y4.jpg"
+        width: 3802
+        height: 2719
+        isCached: true
+  - title: "Trump Impeachment: 56% Of Americans Want POTUS Removed From Office"
+    excerpt: "Americans want Trump ousted from office before Jan. 20 A majority of respondents blame Trump for the violent insurrection on Capitol Hill The riot led to to the death of five people A majority of Americans believe President Donald Trump should be impeached following the violent insurrection at the U."
+    publishedDateTime: 2021-01-11T01:58:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-56-americans-want-potus-removed-office-3118464"
+    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-56-americans-want-potus-removed-office-3118464?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-56-americans-want-potus-removed-office-3118464?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/09/demonstrators-in-new-york-call-for-impeachment-of.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Bill Belichick declines Presidential Medal of Freedom from Donald Trump"
     excerpt: "Bill Belichick won’t be heading to the White House this week. Donald Trump wanted to award the Patriots coach the Presidential Medal of Freedom, but following the insurrection at the U.S. Capitol, Belichick has declined,"
     publishedDateTime: 2021-01-11T23:16:00Z
@@ -1179,6 +1816,86 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SCVQTPTAOBCMDPE4DRNZEAMQSA.jpg"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "Stripped of Social Media, Trump Remains Defiant"
+    excerpt: "In the wake of Trump losing his social-media accounts, the president isn't holding back his outrage and Twitter's San Francisco headquarters is bracing for possible protests."
+    publishedDateTime: 2021-01-11T16:58:00Z
+    webUrl: "https://www.ibtimes.com/stripped-social-media-trump-remains-defiant-3119081"
+    ampWebUrl: "https://www.ibtimes.com/stripped-social-media-trump-remains-defiant-3119081?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/stripped-social-media-trump-remains-defiant-3119081?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/twitter-permanently-suspended-president-donald-trumps-account-pictured.jpg"
+        width: 1024
+        height: 661
+        isCached: true
+  - title: "Donald Trump’s Republican wall eroding ahead of impeachment vote"
+    excerpt: "But with a sudden force, the wall of Republican support that has enabled Trump to weather a seemingly endless series of crises is beginning to erode. Trump’s weakened standing among his own party will come into sharper focus on Wednesday when the House is expected to impeach the president for inciting a riot at the U."
+    publishedDateTime: 2021-01-13T13:39:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/donald-trumps-republican-wall-eroding-ahead-of-impeachment-vote.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/donald-trumps-republican-wall-eroding-ahead-of-impeachment-vote.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/donald-trumps-republican-wall-eroding-ahead-of-impeachment-vote.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4ZGO5EH3VREN3GDE3TMS7G657A.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Trump Impeached By House For Second Time, 232-197"
+    excerpt: "The House of Representatives on Wednesday approved an article of impeachment against President Donald Trump for “incitement of insurrection.” After the riots that overtook the"
+    publishedDateTime: 2021-01-13T21:59:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeached-house-second-time-232-197-3121299"
+    ampWebUrl: "https://www.ibtimes.com/trump-impeached-house-second-time-232-197-3121299?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeached-house-second-time-232-197-3121299?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/us-president-donald-trump-says-impeachment-is-causing.jpg"
+        width: 1024
+        height: 684
+        isCached: true
+  - title: "U.S. House impeaches President Donald Trump for second time"
+    excerpt: "During debate on the articles of impeachment, House Speaker Nancy Pelosi asked Republicans and Democrats to “search their souls” ahead of the historic afternoon vote."
+    publishedDateTime: 2021-01-13T19:25:00Z
+    webUrl: "https://www.al.com/news/2021/01/us-house-impeaches-president-donald-trump-for-second-time.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/us-house-impeaches-president-donald-trump-for-second-time.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/us-house-impeaches-president-donald-trump-for-second-time.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5N2JIVEV2BBOFDALIDFNMOQI2U.jpg"
+        width: 4155
+        height: 2770
+        isCached: true
+  - title: "Who Are The 10 Republicans That Voted To Impeach Donald Trump?"
+    excerpt: "Ten Republicans joined Democrats in the House on Wednesday to impeach Donald Trump, making him the first president to be impeached twice. The article of impeachment accused President Trump of \"incitement of insurrection."
+    publishedDateTime: 2021-01-13T23:26:00Z
+    webUrl: "https://www.ibtimes.com/who-are-10-republicans-voted-impeach-donald-trump-3121356"
+    ampWebUrl: "https://www.ibtimes.com/who-are-10-republicans-voted-impeach-donald-trump-3121356?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/who-are-10-republicans-voted-impeach-donald-trump-3121356?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/12/16/democrats-are-pressuring-the-senates-republican-leader-to-AFP_1N46R9.jpg"
+        width: 1024
+        height: 703
         isCached: true
   - title: "Donald Trump stands largely silent, alone after 2nd impeachment"
     excerpt: "Abandoned by some in his own party, President Donald Trump could do nothing but watch history unfold on television. The suspension of his Twitter account deprived Trump of his most potent means to"
@@ -1228,6 +1945,47 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Chrissy Teigen, Other Celebs React To Donald Trump Being Impeached Twice"
+    excerpt: "Several celebrities including Chrissy Teigen, Jesse Tyler Ferguson and more reacted to Donald Trump being impeached twice. The president was impeached by the House of Representati"
+    publishedDateTime: 2021-01-14T06:14:00Z
+    webUrl: "https://www.ibtimes.com/chrissy-teigen-other-celebs-react-donald-trump-being-impeached-twice-3121752"
+    ampWebUrl: "https://www.ibtimes.com/chrissy-teigen-other-celebs-react-donald-trump-being-impeached-twice-3121752?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chrissy-teigen-other-celebs-react-donald-trump-being-impeached-twice-3121752?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/the-cancelled-diplomatic-trips-round-off-four-tumultuous.jpg"
+        width: 1024
+        height: 677
+        isCached: true
+  - title: "Republicans Are Breaking Ranks on Impeachment. That's Good for Democrats — and Bad for Trump"
+    excerpt: "As the Democrats prepare to impeach Donald Trump for a second time, a few Republican votes could prove helpful for the Democrats. Here's why"
+    publishedDateTime: 2021-01-13T22:55:00Z
+    webUrl: "https://time.com/5929140/impeachment-republicans-donald-trump/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 74
+  - title: "What's next after House votes to impeach Donald Trump? Here's an explainer."
+    excerpt: "President Donald Trump has been impeached by the House days before leaving office, becoming the first American president to be impeached twice. The previous three impeachments — those of Presidents Andrew Johnson,"
+    publishedDateTime: 2021-01-14T16:18:00Z
+    webUrl: "https://www.nola.com/news/politics/national_politics/article_7222019e-5683-11eb-bade-bfab0205f9c6.html"
+    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_7222019e-5683-11eb-bade-bfab0205f9c6.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_7222019e-5683-11eb-bade-bfab0205f9c6.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 73
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/b/3f/b3f12186-54e9-11eb-b486-2b606d078d60/5ffdbe5be749e.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden Pledges 'New Chapter' But Trump Impeachment Trial Looms"
     excerpt: "Biden promised \"a new chapter\" for the nation on the day after Trump became the first US president to ever be impeached twice, as the incoming Democrat sought to seize the narrative in a primetime address and get Americans looking forward again."
     publishedDateTime: 2021-01-15T02:24:00Z
@@ -1256,6 +2014,44 @@ related:
         width: 1024
         height: 680
         isCached: true
+  - title: "Trump Impeachment Trial to Focus on His Attacks on Election"
+    excerpt: "President Donald Trump’s historic second impeachment could go to trial as soon as Inauguration Day, with U.S. senators serving not only as jurors but as shaken personal witnesses and victims of the deadly siege of the Capitol by a mob of his supporters."
+    publishedDateTime: 2021-01-15T00:33:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-14/trump-impeached-after-capitol-riot-in-historic-second-charge"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-14/trump-impeached-after-capitol-riot-in-historic-second-charge?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-14/trump-impeached-after-capitol-riot-in-historic-second-charge?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Canada's Trudeau Embraces Biden in Bid to Turn Page on Trump Era"
+    excerpt: "Canadian Prime Minister Justin Trudeau's swift embrace of U.S. president-elect Joe Biden illustrates the degree to which Canada, one of America's closest allies, is looking forward to turning the page on the Donald Trump era."
+    publishedDateTime: 2021-01-15T16:46:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-01-15/canadas-trudeau-embraces-biden-in-bid-to-turn-page-on-trump-era"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-15/canadas-trudeau-embraces-biden-in-bid-to-turn-page-on-trump-era?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-15/canadas-trudeau-embraces-biden-in-bid-to-turn-page-on-trump-era?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "House Democrats vow to move forward with Trump impeachment if Vice President Mike Pence won’t invoke 25th Amendment"
+    excerpt: "Nancy Pelosi’s leadership team will seek a vote on a resolution calling on Vice President Mike Pence and Cabinet officials to invoke the 25th Amendment."
+    publishedDateTime: 2021-01-11T15:39:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 68
+    images:
+      - url: "https://www.baltimoresun.com/resizer/a4ZU_ph4DDjjkI1r7Y8KG-e-6MY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I27GQJSG55AG7DPH5SFIEL4JZE.JPG"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Michelle Obama Calls Donald Trump 'Infantile And Unpatriotic President' After Capitol Protest"
     excerpt: "Michelle Obama released a statement after the Capitol protest and said the incident was a fulfillment of the wishes of an infantile and unpatriotic president."
     publishedDateTime: 2021-01-08T01:12:00Z
@@ -1272,6 +2068,22 @@ related:
         width: 1024
         height: 629
         isCached: true
+  - title: "Twitter Criticized For Donald Trump Ban, Accused Of Violating President's Free-Speech Rights"
+    excerpt: "Some Twitter users believe Twitter's permanent suspension of President Donald Trump's account is a violation of his free-speech rights."
+    publishedDateTime: 2021-01-12T02:45:00Z
+    webUrl: "https://www.ibtimes.com/twitter-criticized-donald-trump-ban-accused-violating-presidents-free-speech-rights-3119400"
+    ampWebUrl: "https://www.ibtimes.com/twitter-criticized-donald-trump-ban-accused-violating-presidents-free-speech-rights-3119400?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-criticized-donald-trump-ban-accused-violating-presidents-free-speech-rights-3119400?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 64
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/11/us-president-donald-trump-faces-a-possible-fast.jpg"
+        width: 1024
+        height: 711
+        isCached: true
   - title: "Trump impeachment: McConnell open to convicting president at trial; Senate will return Jan. 19"
     excerpt: "McConnell's openness was a stark contrast to the support, or at times silence, he’s shown during much of Trump’s presidency, and to the opposition he expressed rapidly when the House impeached Trump 13 months ago."
     publishedDateTime: 2021-01-14T11:22:00Z
@@ -1287,6 +2099,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NTUN5GCYINBD3K36VXQ3ERTFMM.jpg"
         width: 2555
         height: 1438
+        isCached: true
+  - title: "How Tennessee's congressional delegation voted on a second impeachment of President Donald Trump"
+    excerpt: "President Trump is the only president to be impeached a second time, and the vote fell mostly along party lines. Here's how Tennessee's reps voted."
+    publishedDateTime: 2021-01-13T22:33:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/2021/01/13/trump-impeachment-tennessee-delegation/6628017002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/6628017002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6628017002"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 62
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/NHTN/1117d086-5684-43b6-ae52-cf0da7271039-AP21007634011678.jpg?auto=webp&crop=4515,2540,x0,y451&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Maryland Rep. Jamie Raskin named lead impeachment manager for trial against President Donald Trump"
     excerpt: "U.S. Rep. Jamie Raskin of Maryland was named lead manager for the impeachment trial of President Donald Trump, House Speaker Nancy Pelosi announced Tuesday night in a news release."
@@ -1315,6 +2143,31 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
+  - title: "Democrats Plan Lightning Trump Impeachment, Want Him Out Now"
+    excerpt: "Democrats in Congress are swiftly laying plans to impeach President Donald Trump and ensure an “unhinged” commander-in-chief can do no further damage in his remaining days in office."
+    publishedDateTime: 2021-01-10T00:32:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-08/house-democrats-discussing-swift-action-to-impeach-trump"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-08/house-democrats-discussing-swift-action-to-impeach-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-08/house-democrats-discussing-swift-action-to-impeach-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Increasingly Isolated Trump Threatened With Second Impeachment"
+    excerpt: "US Democrats on Saturday were readying for an unprecedented second impeachment of Donald Trump as the defiant president showed no signs of stepping down after the deadly violence at the Capitol. Democrats said impeachment proceedings could begin as early as Monday -- an extraordinary acceleration of a process that historically has taken weeks,"
+    publishedDateTime: 2021-01-09T16:06:00Z
+    webUrl: "https://www.ibtimes.com/increasingly-isolated-trump-threatened-second-impeachment-3118038"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/09/supporters-of-us-president-donald-trump-including-member.jpg"
+        width: 1024
+        height: 695
+        isCached: true
   - title: "Watch live: President Donald Trump visits Alamo, Texas"
     excerpt: "President Donald Trump flew to visit Alamo, Texas, on Tuesday. The small town of Alamo was named after the famed mission 240 miles north in San Antonio. Trump will deliver remarks near a border wall at 2 p."
     publishedDateTime: 2021-01-12T14:03:00Z
@@ -1340,17 +2193,89 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "400 members of Washington state National Guard called to D.C. to boost security during President-elect Joe Biden’s inauguration"
-    excerpt: "In the wake of the insurgence at the U.S. Capitol during certification of the Electoral College votes last week and threats of further violence, nearly 400 Washington National Guard soldiers and airmen are being sent to D."
-    publishedDateTime: 2021-01-15T15:05:00Z
-    webUrl: "https://www.seattletimes.com/seattle-news/400-members-of-washington-state-national-guard-called-to-d-c-to-boost-security-during-president-elect-joe-bidens-inauguration/"
-    ampWebUrl: "https://www.seattletimes.com/seattle-news/400-members-of-washington-state-national-guard-called-to-d-c-to-boost-security-during-president-elect-joe-bidens-inauguration/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/400-members-of-washington-state-national-guard-called-to-d-c-to-boost-security-during-president-elect-joe-bidens-inauguration/?amp=1"
+  - title: "Reactions to the Impeachment of U.S. President Donald Trump"
+    excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump. HOUSE RULES COMMITTEE CHAIR JIM MCGOVERN, DEMOCRAT OF MASSACHUSETTS \"We are debating this historic measure at an actual crime scene and we wouldn't be here if it weren't for the president of the United States."
+    publishedDateTime: 2021-01-13T15:18:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-13/reactions-to-the-impeachment-of-us-president-donald-trump"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-13/reactions-to-the-impeachment-of-us-president-donald-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-13/reactions-to-the-impeachment-of-us-president-donald-trump?context=amp"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 27
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump on Verge of 2nd Impeachment After Capitol Siege"
+    excerpt: "President Donald Trump is on the verge of being impeached for a second time, the House planning the unprecedented vote one week after he encouraged a mob of loyalists to “fight like hell” against election results and the U."
+    publishedDateTime: 2021-01-13T08:11:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/trump-on-verge-of-2nd-impeachment-after-capitol-siege"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/trump-on-verge-of-2nd-impeachment-after-capitol-siege?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-13/trump-on-verge-of-2nd-impeachment-after-capitol-siege?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "What to Watch as House Moves to Impeach Trump for 2nd Time"
+    excerpt: "President Donald Trump is on the verge of becoming the first president to be impeached twice, as lawmakers move quickly to punish him over last week's deadly Capitol attack."
+    publishedDateTime: 2021-01-13T10:54:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/what-to-watch-as-house-moves-to-impeach-trump-for-2nd-time"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/what-to-watch-as-house-moves-to-impeach-trump-for-2nd-time?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-13/what-to-watch-as-house-moves-to-impeach-trump-for-2nd-time?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump On Brink Of Unprecedented Second Impeachment"
+    excerpt: "The House of Representatives was set to impeach \"clear and present danger\" President Donald Trump Wednesday, with several key Republicans backing the Democrat-led push to bring down the real estate tycoon in flames a week before he leaves office."
+    publishedDateTime: 2021-01-13T18:21:00Z
+    webUrl: "https://www.ibtimes.com/trump-brink-unprecedented-second-impeachment-3121095"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/08/14/us-speaker-of-the-house-nancy-pelosi-is.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Trump's Wall of GOP Support Breaks During Impeachment Vote"
+    excerpt: "The unbreakable wall of Republican support that encouraged and enabled Donald Trump’s norm-shattering presidency has cracked."
+    publishedDateTime: 2021-01-15T08:08:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/trumps-republican-wall-eroding-ahead-of-impeachment-vote"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/trumps-republican-wall-eroding-ahead-of-impeachment-vote?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-13/trumps-republican-wall-eroding-ahead-of-impeachment-vote?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "US Executes Drug Trafficker In Trump's Final Days In Office"
+    excerpt: "US federal authorities executed a former drug trafficker who had contracted Covid-19 late Thursday, and a final execution of Donald Trump's administration was scheduled for Friday with just five days left of his presidency."
+    publishedDateTime: 2021-01-15T05:48:00Z
+    webUrl: "https://www.ibtimes.com/us-executes-drug-trafficker-trumps-final-days-office-3122826"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/terre-haute-prison-in-indiana-where-one-more.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "What's next for Donald Trump?"
+    excerpt: "Donald Trump’s plans have been a signature talking point for the last four years. What does the future hold for Donald Trump?"
+    publishedDateTime: 2021-01-14T22:51:00Z
+    webUrl: "https://www.stltoday.com/news/national/whats-next-for-donald-trump/video_1a3e35f8-a732-5567-bce2-43aac116c114.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/whats-next-for-donald-trump/video_1a3e35f8-a732-5567-bce2-43aac116c114.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/whats-next-for-donald-trump/video_1a3e35f8-a732-5567-bce2-43aac116c114.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
 
 secured: "MYFPbEim0uRKoKWv3Y+aePDkClnwXSLF9fELIrDy5KKX8rhii0XG/qsj7mzdb3kF305e2CyFMZHSzBKsar3CKpYI3Dj1xpHP8x/OYiaMFth5d8117Z7esEV31UIGjYVik8ERZG0GeXIYWKVpuAJMvDlZI6Y6hXC5GROptXXTM0gIDziPlLJcHPRav/0gLRRQLXW0/jE/HO6J6KcjUl9drNZsJNyM5ZPd09tr4e8hBh3fDGXAz2/YQLzPtlwRpA0zVkEKfIaqycV3GFCBvujifLc2m6kfCWWXr6CC/FKq26gn40TefscVRePz6Am3Qgpvwg0Umr2vLf0v2CFd1LgyYkCI80YQod1uscgw18KReargf8PNy68g+fjI7JrN6I8HWMBvYwafqq4HLnudT/yYI6CyZaGfKqYr53DF4cFw9aj5o5MRQxoBK17gBYunYkj2zySXEMreuE5X8T4NayIVbGaC9U8qV0wMk8pLw3NMPSP47eubYHvi/kHtLO+DQYD7NnklQ7O2wgCKq+29/IL4FQ==;oVKVUfFMIVltR6SW/Nj9GA=="
 ---

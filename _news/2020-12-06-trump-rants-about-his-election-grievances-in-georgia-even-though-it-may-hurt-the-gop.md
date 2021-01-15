@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Explaining the Supreme Court lawsuit from Texas and Trump challenging Biden's win"
+    excerpt: "Although all 50 states have certified their election results and the Supreme Court swiftly rejected an emergency request from Pennsylvania Republicans to block election results in the commonwealth, the justices are now grappling with a new controversial bid from Texas, supported by President Donald Trump"
+    publishedDateTime: 2020-12-10T12:07:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WL5vIx4arp0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/trump-texas-supreme-court-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/trump-texas-supreme-court-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209213654-ken-paxton-donald-trump-200611-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden team weighs North Korea policy as the era of Trump's 'love' letters with Kim ends"
     excerpt: "President-elect Joe Biden's foreign policy team will soon have access to the letters President Donald Trump exchanged with North Korean Leader Kim Jong Un, correspondence that belongs to the US government -- not Trump -- and could provide insight into one of the world's most enigmatic leaders.\n    \n"
     publishedDateTime: 2020-12-03T11:04:08Z
@@ -332,6 +348,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209123824-02-hunter-joe-biden-2016-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's effort to overthrow democracy dead ends at Supreme Court but the damage is lasting"
+    excerpt: "President Donald Trump's effort to unravel democracy hit a dead end at the Supreme Court Friday night, capping five weeks in which he dragged the country along on his narcissistic quest to stay in power after President-elect Joe Biden overwhelmingly won the election.\n    \n"
+    publishedDateTime: 2020-12-12T05:30:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nx3U1r1h1AY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/donald-trump-supreme-court-pfizer-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/donald-trump-supreme-court-pfizer-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211133213-trump-axelrod-oped-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

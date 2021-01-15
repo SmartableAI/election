@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Attorney representing Trump in Texas dispute pushed racist conspiracy about Kamala Harris"
-    excerpt: "An attorney representing President Donald Trump, John Eastman, is known for recently pushing a racist conspiracy theory -- that Trump himself later amplified -- claiming Vice President-elect Kamala Harris might not be eligible for the role because her parents were immigrants.\n    \n"
-    publishedDateTime: 2020-12-09T23:35:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qf46tHJkzg8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/john-eastman-trump-texas-kamala-harris/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/john-eastman-trump-texas-kamala-harris/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 191
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130630135736-john-eastman-traditional-marriage-story-top.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Explaining the Supreme Court lawsuit from Texas and Trump challenging Biden's win"
-    excerpt: "Although all 50 states have certified their election results and the Supreme Court swiftly rejected an emergency request from Pennsylvania Republicans to block election results in the commonwealth, the justices are now grappling with a new controversial bid from Texas, supported by President Donald Trump"
-    publishedDateTime: 2020-12-10T12:07:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WL5vIx4arp0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/trump-texas-supreme-court-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/trump-texas-supreme-court-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 185
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209213654-ken-paxton-donald-trump-200611-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump asked Ted Cruz to argue Texas election lawsuit if it reaches Supreme Court"
     excerpt: "President Donald Trump personally asked Republican Sen. Ted Cruz of Texas if he would argue a long-shot election lawsuit seeking to overturrn the election results in four battleground states, should the Supreme Court agree to take it up, two sources told CNN on Wednesday.\n    \n"
     publishedDateTime: 2020-12-10T02:29:22Z
@@ -79,111 +47,86 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump and Barr had 'contentious' White House meeting this week"
-    excerpt: "President Donald Trump and Attorney General William Barr had a \"contentious,\" lengthy meeting inside the West Wing this week after Barr told The Associated Press in an interview that the Justice Department had uncovered no evidence of fraud that would change the election outcome, one person familiar"
-    publishedDateTime: 2020-12-03T16:20:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zNwL_Szchuo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/trump-william-barr-attorney-general/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-william-barr-attorney-general/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201225050-trump-barr-split-1201-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump praised QAnon during meeting about keeping the Senate"
-    excerpt: "President Donald Trump brought up Rep.-elect Marjorie Taylor Greene's support for the dangerous QAnon conspiracy theory during a meeting on keeping the Senate with Majority Leader Mitch McConnell and other aides, a source familiar with the matter confirmed to CNN.\n    \n"
-    publishedDateTime: 2020-12-03T18:55:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DSqlcfVccwo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/donald-trump-qanon/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/donald-trump-qanon/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201143231-01-trump-1126-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden, Harris beat Trump again, this time as Time's 'Person of the Year'"
-    excerpt: "Other contenders were Dr. Anthony Fauci, front-line Covid-19 workers and racial justice movements that led protests over the death of George Floyd."
-    publishedDateTime: 2020-12-11T04:47:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/biden-harris-beat-trump-again-time-time-s-person-year-n1250762"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250762"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250762"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 174
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_33/3404797/200811-joe-biden-kamala-harris-ac-1014p_e00b2642631f6be472883994c8fc6730.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Trump's effort to overthrow democracy dead ends at Supreme Court but the damage is lasting"
-    excerpt: "President Donald Trump's effort to unravel democracy hit a dead end at the Supreme Court Friday night, capping five weeks in which he dragged the country along on his narcissistic quest to stay in power after President-elect Joe Biden overwhelmingly won the election.\n    \n"
-    publishedDateTime: 2020-12-12T05:30:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nx3U1r1h1AY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/donald-trump-supreme-court-pfizer-vaccine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/donald-trump-supreme-court-pfizer-vaccine/index.html"
+  - title: "Explaining the Supreme Court's ruling denying Trump and how Alito and Thomas didn't dissent"
+    excerpt: "The Supreme Court's order Friday tossing out Texas' attempt to void millions of votes in four states and help President Donald Trump capture a second term was clear and concise.\n    \n"
+    publishedDateTime: 2020-12-12T18:36:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nrF91q4SeJ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/texas-pennsylvania-supreme-court-alito-thomas-explained/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/texas-pennsylvania-supreme-court-alito-thomas-explained/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211133213-trump-axelrod-oped-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103134906-20201103-scotus-gfx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Dianne Feinstein wants Alex Padilla to replace Kamala Harris in Senate"
-    excerpt: "Calif., is throwing her support to California Secretary of State Alex Padilla to fill the seat of Sen. Kamala Harris when she is sworn in as vice president \"I know him. And my sense is that he's going to represent California very well."
-    publishedDateTime: 2020-12-02T23:40:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/dianne-feinstein-wants-alex-padilla-replace-kamala-harris-senate-n1249773"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249773"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249773"
+  - title: "What the Electoral College vote means for Trump and Biden"
+    excerpt: "All 50 states have already certified their election results ensuring that Joe Biden will be the 46th president, but the Electoral College vote makes the result official. Trump and some Republican had sought to have electors removed in four crucial battleground states,"
+    publishedDateTime: 2020-12-13T16:06:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/what-electoral-college-vote-means-trump-biden-n1250595"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250595"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250595"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434930/201210-electoral-count-congress-2013-ac-606p_ea22e3050be6b29ce9da3ad45ea6fbfa.jpg"
+        width: 2500
+        height: 1513
+        isCached: true
+  - title: "Ivanka Trump deposed Tuesday as part of inauguration fund lawsuit"
+    excerpt: "The suit claims the Inaugural Committee made improper payments to the president's Washington hotel during the week of the inauguration in 2017."
+    publishedDateTime: 2020-12-03T04:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/ivanka-trump-deposed-tuesday-part-inauguration-fund-lawsuit-n1249801"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249801"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249801"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_47/3429311/201118-alex-padilla-al-1302_81e1861128631a14e6087a1ab33ff821.jpg"
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_49/3432810/201102-ivanka-trump-2019-ac-1126p_7da6c574be0e91121b1a867b96447b62.jpg"
         width: 2500
-        height: 1667
+        height: 1658
         isCached: true
-  - title: "Who will replace Kamala Harris in the Senate? California governor weighs a shortlist of firsts"
-    excerpt: "The possible replacements include Long Beach Mayor Robert Garcia and California Secretary of State Alex Padilla."
-    publishedDateTime: 2020-12-14T13:58:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/who-will-replace-kamala-harris-u-s-senate-california-governor-n1250975"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250975"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250975"
+  - title: "Biden Transition Live Updates: Anticipation Growing for the Supreme Court to Act on Texas Election Suit"
+    excerpt: "The Electoral College votes for president will be cast Monday. The Justice Department’s inquiry into Hunter Biden may hang over Joe Biden as he assumes office."
+    publishedDateTime: 2020-12-11T14:30:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/11/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/11/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/11/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/11transition-briefing-scotus/11transition-briefing-scotus-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Supreme Court puts off ruling on Trump census case to exclude undocumented immigrants"
+    excerpt: "The administration had asked the justices to fast-track a decision before it must report the numbers to Congress."
+    publishedDateTime: 2020-12-15T01:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/supreme-court-puts-ruling-trump-census-case-exclude-undocumented-immigrants-n1251109"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251109"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251109"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 123
+    quality: 128
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434600/201209-los-angeles-alex-padilla-ac-419p_0_5eecaf7673fb2b6dd17bdf7d233aff1c.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3435583/201214-census-protest-supreme-court-se-1040a_75e731785be9870c623e6f900274f51e.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Donald Trump’s Newest Lawyer Is a Kamala Harris Birther"
-    excerpt: "John Eastman is listed as the attorney repping the president on the latest suit seeking to overturn the results of the 2020 elections."
-    publishedDateTime: 2020-12-10T02:39:00Z
-    webUrl: "https://www.thedailybeast.com/donald-trumps-newest-lawyer-is-john-eastman-a-kamala-harris-birther"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 60
 
 secured: "8y7QJ6w9MySCHcgfppl9NcFy4p5sVXCC2ovgRAqKk4AiI9OO4Uwwg6jFNj8DZ/dkIdxXMaJXSmUY3iTg+SOvEAdWRG8yqVbkqLv42xVWQKnGsWoaAQsOUXF7OlJc/Kt8lT7buTsiJVg5BDO8PMSDorQ7HexmEh6H3KMwFfbxeA2JIA2ooGNtiavYixFHstfr1LskBEcvkxFsbZC5JX7pXBlPmf7JlWp6iyc2r4q/3ZKIzomBZyv/F/hj9Y8bhtNPlBAAekqoPDEm73erfxPfHpSVU2IzfT9lrR1UefRSZIuMNjPqxob9BQE0zMGtiPErdxxU2klajyzMvIjM0y+AfCeKUcFI/NH367PtwfKCjoE=;743XlrpbTDIt7R0Gri0nkA=="
 ---

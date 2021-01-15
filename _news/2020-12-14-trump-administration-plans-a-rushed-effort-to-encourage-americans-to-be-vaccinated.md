@@ -158,22 +158,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "What the Electoral College vote means for Trump and Biden"
-    excerpt: "All 50 states have already certified their election results ensuring that Joe Biden will be the 46th president, but the Electoral College vote makes the result official. Trump and some Republican had sought to have electors removed in four crucial battleground states,"
-    publishedDateTime: 2020-12-13T16:06:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/what-electoral-college-vote-means-trump-biden-n1250595"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250595"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250595"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 150
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434930/201210-electoral-count-congress-2013-ac-606p_ea22e3050be6b29ce9da3ad45ea6fbfa.jpg"
-        width: 2500
-        height: 1513
-        isCached: true
   - title: "Federal watchdog finds 'substantial likelihood of wrongdoing' by Trump appointees overseeing Voice of America"
     excerpt: "The federal watchdog's findings mark the latest rebuke of the Trump-appointed CEO of the U.S. Agency for Global Media, Michael Pack."
     publishedDateTime: 2020-12-03T18:24:00Z

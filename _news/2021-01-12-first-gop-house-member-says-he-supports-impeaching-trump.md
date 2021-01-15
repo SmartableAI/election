@@ -79,22 +79,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "GOP Sen. Pat Toomey calls on Trump to resign"
-    excerpt: "Pennsylvania Republican Sen. Pat Toomey joined calls from a handful of his GOP colleagues Sunday for President Donald Trump to resign for “recruiting thousands of Americans” and “inciting them to attack the Capitol building” last week."
-    publishedDateTime: 2021-01-11T00:20:00Z
-    webUrl: "https://www.nbcnews.com/politics/meet-the-press/gop-sen-toomey-calls-trump-resign-n1253657"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1253657"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253657"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_01/3441043/210110-pat-toomey-mtp-jm-0920_22b5b4d4b391e7163713d55691295565.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "See how Trump's language was echoed by rioters"
     excerpt: "As the House prepares to vote on impeaching President Donald Trump to condemn his role inciting the riot at the US Capitol, CNN looks at the language Trump used and how it was echoed by rioters."
     publishedDateTime: 2021-01-13T11:25:00Z
@@ -110,38 +94,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113110701-video-thumbnail-trump-and-rioter-split-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "The Second Impeachment of Donald Trump"
-    excerpt: "Readers discuss whether Congress should be spending its time on impeachment and how Mike Pence, Mitch McConnell and Liz Cheney have responded to efforts to remove the president."
-    publishedDateTime: 2021-01-13T21:36:00Z
-    webUrl: "https://www.nytimes.com/2021/01/13/opinion/letters/trump-impeachment.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/13/opinion/letters/trump-impeachment.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/13/opinion/letters/trump-impeachment.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/13/opinion/13Limpeach-01/13Limpeach-01-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump Impeached for Inciting Insurrection"
-    excerpt: "President Trump became the first president to be impeached twice, after the House approved a single charge citing his role in whipping up a mob that stormed the Capitol. He faces a Senate trial that could disqualify him from future office."
-    publishedDateTime: 2021-01-14T02:42:00Z
-    webUrl: "https://www.nytimes.com/2021/01/13/us/politics/trump-impeached.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/13/us/politics/trump-impeached.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/13/us/politics/trump-impeached.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/13/us/politics/13dc-impeach-top/13dc-impeach-top-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Poll: Just 8 percent of Republicans support Trump's impeachment and removal"
     excerpt: "Fifty percent of Americans overall agree the president should be impeached and removed for inciting Capitol riot, a new NBC News poll finds."
@@ -172,22 +124,6 @@ related:
       - url: "https://static.politico.com/b7/50/9c26a6e4454cad68e55185d8957a/180916-ocasio-cortez-ap-773.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Is It Curtains for Donald Trump?"
-    excerpt: "He’s about to metamorphose from world’s most powerful human to financially and legally challenged pariah. His only ally? The mob."
-    publishedDateTime: 2021-01-15T16:45:00Z
-    webUrl: "https://www.thenation.com/article/politics/trump-impeachment-insurrection-congress/"
-    ampWebUrl: "https://www.thenation.com/article/politics/trump-impeachment-insurrection-congress/tnamp/"
-    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/trump-impeachment-insurrection-congress/tnamp/"
-    type: article
-    provider:
-      name: The Nation
-      domain: thenation.com
-    quality: 85
-    images:
-      - url: "https://www.thenation.com/wp-content/uploads/2021/01/SashaTrumpPalestine-scaled.jpg"
-        width: 2560
-        height: 1755
         isCached: true
 
 secured: "7jQBisansfBlcNpKpCD2O2GXReIsP2ETI6t7q8k8BY34cX53yZTdLP+kHiL0UlTijr1y4m4pWP263WoFX29eaPCwfbVHDJHU4+rUxU2TXcoQ/evEFoaoSqp3AV/RJkWx6pnUZSGRTvY+guXW97LGJnhIGrCrXkAeg2gbYwxhgRorAp+qMA/+rLs3n2vXyBQ6bzf+gLhb7Z7I8eMnbmBW5gUfGhVFlgG7BZQRMxyCTPYxSC0apSq0t+NJ2jNblD5ulpCTH1qTZs8HjbtqV8VnbyihQziX4m2yDB/+zsjfMQjb1Q2joF5re5dBRSDfT0cY8gkQyLR6juBOPJQpaS6NsRB3a+MeWSORfrltALWdYac=;rWZdQhdLboHnLu99QzJChw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/parler-down-aws-web-hosting-trump/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/parler-down-aws-web-hosting-trump/"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Big Tech's Crackdown on Donald Trump and Parler Won't Fix the Real Problem With Social Media"
+    excerpt: "Twitter and Facebook’s ban of President Trump last week, and the deplatforming of the rightwing social network Parler by Apple, Google and Amazon on Monday, are crucial first steps in stemming the flow of pollution,"
+    publishedDateTime: 2021-01-12T19:25:00Z
+    webUrl: "https://time.com/5928982/deplatforming-trump-parler/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 94
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/01/trump-parler-ban.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "hgyCTSLNXEn5vyQWbuHpF7oyYy7g2cotHnT0szdlt282oVDEPhWqvANS8PTKmF346Ilii8OVCvEh96O9oRsBu2ETBtsCEJ1A+JM662Iths2DKsM+AzHtSBsyFaZQZ2PV9P3bGUtNERoc2qQn9YgJ7nSX6JCsiMXL7lyXhtwn3Qdr9pYItdNEsH9SVkvZm7cTGlddy4HsFZonVC/7hyaQZ5MhFz4r2N816+EO0Meh/GGZ9XhCgOdqbGij1RO3wkglYlVGK5G3cFjkUl2sgyf0cRy6t/+e7i5GEpW1+U1YtxmkTHsR9r4//aeJ3AOpdB2UKZNNNjC9xhU/4kgHuhfSOkyp8IkAglpJvRwUqZ97QHg=;m/ozmBchMIkY/whtn0QvdQ=="
 ---

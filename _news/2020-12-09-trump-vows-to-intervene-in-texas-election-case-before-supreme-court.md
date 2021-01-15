@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28J1VJ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28J1VJ"
 type: article
 quality: 140
-heat: 2220
+heat: 2200
 published: true
 
 provider:
@@ -446,22 +446,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/10/USAT/12a3f01d-8a50-4f75-9feb-46d8d3735f10-AP_US_Israel_Morocco.jpg?auto=webp&crop=4165,2343,x0,y211&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Pro-Trump supporters to rally again in Washington"
-    excerpt: "Supporters of President Donald Trump are returning to Washington for a pair of rallies to back his desperate efforts to subvert the election that he lost"
-    publishedDateTime: 2020-12-12T07:26:00Z
-    webUrl: "https://www.washingtonpost.com/politics/pro-trump-supporters-to-rally-again-in-washington/2020/12/11/87f543f4-3c21-11eb-aad9-8959227280c4_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/pro-trump-supporters-to-rally-again-in-washington/2020/12/11/87f543f4-3c21-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pro-trump-supporters-to-rally-again-in-washington/2020/12/11/87f543f4-3c21-11eb-aad9-8959227280c4_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Trump administration plans 2nd execution in as many days"
     excerpt: "The Trump administration plans to continue its unprecedented series of post-election federal executions by putting to death a truck driver who abused his 2-year-old daughter for weeks, then killed her by slamming her head against a truck’s windows and dashboard."

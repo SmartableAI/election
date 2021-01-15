@@ -223,20 +223,6 @@ related:
         width: 800
         height: 544
         isCached: true
-  - title: "Washington mayor asks for increased security around Biden's inauguration"
-    excerpt: "Washington's mayor has asked for increased security around the inauguration of U.S. President-elect Joe Biden after last week's storming of the U.S. Capitol by supporters of President Donald Trump."
-    publishedDateTime: 2021-01-11T13:41:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-inauguration-idUKKBN29G0PV?edition-redirect=uk"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547339065&r=LYNXMPEH0A0EW&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "'It is time': New York law firm leaders urge Congress to certify Biden win"
     excerpt: "The leaders of over a dozen prominent New York law firms called on Congress Monday to certify President-elect Joe Biden's Electoral College win, signing an open letter alongside more than 150 other business executives."
     publishedDateTime: 2021-01-05T04:58:00Z

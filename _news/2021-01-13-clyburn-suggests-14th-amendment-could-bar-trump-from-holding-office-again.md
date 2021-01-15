@@ -127,22 +127,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Photos show White House being cleared out ahead of Biden inauguration"
-    excerpt: "Photos are emerging of Trump administration staffers moving items out of the White House complex -- including a bust of Abe Lincoln and a stuffed bird -- ahead of President-elect Joe Biden’s inauguration next week. "
-    publishedDateTime: 2021-01-15T15:01:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jgvXcqHeu8I/photos-show-white-house-being-cleared-out"
-    ampWebUrl: "https://www.foxnews.com/politics/photos-show-white-house-being-cleared-out.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/photos-show-white-house-being-cleared-out.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-zxjs75c-xl.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Petition calls for U of Michigan regent to resign for not blaming Trump over Capitol riot"
     excerpt: "University of Michigan Regent Ron Weiser has been called \"complicit\" in last week’s storming of the U.S. Capitol by the writers of an online petition that calls for his resignation after he failed to place blame on President Trump."
     publishedDateTime: 2021-01-14T09:24:06Z
@@ -174,22 +158,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56961609-b75a-4b4d-886f-7cf6225d0872/1929b563-4df0-450f-8d3f-4e0c35becc7f/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "FBI internal memo warns of plans for armed protests in all 50 state capitals ahead of Biden inauguration"
-    excerpt: "An internal FBI memo is warning of plans for armed protests in all 50 state capital cities ahead of President-elect Joe Biden’s Inauguration, Fox News has learned."
-    publishedDateTime: 2021-01-11T20:30:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9R-VWkImoHA/fbi-internal-memo-warns-of-plans-for-armed-protests-in-all-50-state-capitals-ahead-of-biden-inauguration"
-    ampWebUrl: "https://www.foxnews.com/politics/fbi-internal-memo-warns-of-plans-for-armed-protests-in-all-50-state-capitals-ahead-of-biden-inauguration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-internal-memo-warns-of-plans-for-armed-protests-in-all-50-state-capitals-ahead-of-biden-inauguration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Biden Flings a Slew of Inflammatory Race-Tinged Lies"
     excerpt: "As President Trump denounced the violence in he Capitol and called for peace and order, Joe Biden had a different idea: Attacking President Trump. And pinning the racism tag on the cops. This is what happened."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/04/with-kamala-harri
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/04/with-kamala-harris-vice-president-expect-indian-americans-get-more-politically-active/?outputType=amp"
 type: article
 quality: 113
-heat: 153
+heat: 133
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/e9f154b5-0846-4da4-a08a-0022190056a2-d795040e-4df7-428e-955d-7feb21a4554c_thumbnail.png?quality=10"
         width: 852
         height: 480
-        isCached: true
-  - title: "Kamala Harris Says Police ‘Let Extremists Storm the United States Capitol’"
-    excerpt: "We don’t need another rhetorical arsonist at work in Washington. Our country is in a bad enough situation as it is."
-    publishedDateTime: 2021-01-07T21:54:00Z
-    webUrl: "https://www.nationalreview.com/corner/kamala-harris-says-police-let-extremists-storm-the-united-states-capitol/"
-    ampWebUrl: "https://www.nationalreview.com/corner/kamala-harris-says-police-let-extremists-storm-the-united-states-capitol/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/kamala-harris-says-police-let-extremists-storm-the-united-states-capitol/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 73
-    images:
-      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/01/kamala-harris-transition-headquarters.jpg?fit=1200%2C700&ssl=1"
-        width: 1200
-        height: 700
         isCached: true
 
 secured: "uWzkk3PMv6ONcmZb+Ku07kvs4hdN/GarY7VYrTOab7ovWRp2SSwF8vRiY46AiZplylXyhivzLAqpxO+9Nj8g9Q3WLB6N6kdFc9BYpGsBKndmT+yHL3TaFx5cuac8IQiPTSH6cpEn/6Q3ix6wphFrU6uFbRPSvuN/z1FCI0hiq1EkRGAukvdxtWFULqLzBBM41+7G0TqYTEJviVJxNvtlyEOe7oZqHY30qoh6ge8Of/AnYn8m1b6EPFHvmn9ah8jpwEVxqPgAI3AqdDQE/owtOZnSz72bJ8OguM2Gis3QOsZxqpBMxU+Mua6epSRdeSl4Vafbyhv6GGh2DdQRgt7DbFMh4g7OfSbXkV2AH0wJHsT0XBX8VVd11zTE8l3sf2MljwpgPR2AKChe+NcZJQV01DdZuFAbJhRnYE3Bx7VZizpvo70g+de3NntkRlSaM1yWvK9yPF/XprDBPGxbaqDSjg4ZGUOQotjD2ZVbEbiBgjAluRL6hnXZXpYd/TqSzSp2guNgrGs8kLF+Wd5wuUo9ew==;BL8c/Q9k1WKCEvCviflPQQ=="

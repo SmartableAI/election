@@ -61,6 +61,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Fact check: Footage shows Kamala Harris receiving COVID-19 vaccination"
+    excerpt: "Social media users have been sharing content online that claims Vice President-elect Kamala Harris’s COVID-19 vaccination was faked. This claim is false."
+    publishedDateTime: 2021-01-05T21:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-kamala-harris-covid-vaccina/fact-check-footage-shows-kamala-harris-receiving-covid-19-vaccination-idUSKBN29A2K7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29A2K7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29A2K7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546711353&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041CS"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Kamala Harris And Doug Emhoff Have Received The Moderna COVID-19 Vaccine"
     excerpt: "\"It's about saving your life, the life of your family members, and the life of your community,\" said the vice president–elect."
     publishedDateTime: 2020-12-29T17:41:00Z
@@ -125,6 +141,20 @@ related:
         width: 1440
         height: 958
         isCached: true
+  - title: "Harris on Trump GA call before Senate runoff"
+    excerpt: "Rough Cuts Harris on Trump GA call before Senate runoff. Posted . U.S. Vice President-elect Kamala Harris rallied supporters in Georgia on Sunday for Democratic Senate candidates"
+    publishedDateTime: 2021-01-04T02:55:00Z
+    webUrl: "https://www.reuters.com/video/watch/harris-on-trump-ga-call-before-senate-ru-id723707495"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210104&i=OVDTSNIE7&r=OVDTSNIE7&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Joe Biden, Kamala Harris to visit Georgia ahead of Senate runoff Election Day"
     excerpt: "The president-elect will travel to Atlanta on Monday while the vice president-elect will be in Savannah on Sunday."
     publishedDateTime: 2020-12-30T13:58:00Z
@@ -173,6 +203,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris and Doug Emhoff recall first date: ‘It felt like we had known each other forever’"
+    excerpt: "CNN Vice President-elect Kamala Harris and her husband Doug Emhoff recalled their first date in a rare joint interview with CNN’s Abby Phillip,"
+    publishedDateTime: 2021-01-15T18:34:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/15/kamala-harris-and-doug-emhoff-recall-first-date-it-felt-like-we-had-known-each-other-forever"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/15/kamala-harris-and-doug-emhoff-recall-first-date-it-felt-like-we-had-known-each-other-forever/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/15/kamala-harris-and-doug-emhoff-recall-first-date-it-felt-like-we-had-known-each-other-forever/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 63
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_263ed141685350633ca3cfd29159bf27-h_289cae49dbd4ed18e59e30ca1e35b524.jpg?w=1024&h=719"
+        width: 1024
+        height: 719
+        isCached: true
   - title: "‘This is about saving lives’: Vice President-elect Kamala Harris receives COVID vaccine on live TV"
     excerpt: "Vice President-elect Kamala Harris on Tuesday morning received the first dose of the COVID-19 vaccine on live television, urging Americans to trust not only the scientists who researched and produced the vaccines but frontline health care providers in communities across the country."
     publishedDateTime: 2020-12-29T16:38:00Z
@@ -203,6 +249,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris’ husband becomes first second gentleman"
+    excerpt: "Doug Emhoff, the husband of Kamala Harris will also be a part of history this January. Harris' historic victory will result in a whole new job title for her husband"
+    publishedDateTime: 2021-01-04T21:57:00Z
+    webUrl: "https://www.stltoday.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_08ed75ff-5e22-58fb-acce-40b2b0d69f13.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_08ed75ff-5e22-58fb-acce-40b2b0d69f13.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_08ed75ff-5e22-58fb-acce-40b2b0d69f13.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
   - title: "Kamala Harris: 'We are going to be inaugurated'"
     excerpt: "U.S. Vice President-elect Kamala Harris and her husband Doug Emhoff visited a restaurant in Washington, D.C. on Monday night. Harris said they were there to show support for small businesses,"
     publishedDateTime: 2021-01-05T18:16:00Z

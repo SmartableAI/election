@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-im
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
 type: article
 quality: 120
-heat: 240
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "House Democrats move to impeach Trump for 'incitement of insurrection' – live"
+    excerpt: "House resolution says Donald Trump ‘engaged in high crimes and misdemeanors by willfully inciting violence against the government’"
+    publishedDateTime: 2021-01-11T18:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/6d5c7db8fae6479736bf7df99a1b2e6e9471ae1f/0_0_3708_2472/master/3708.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dcf2b68ea017aa4952150faf20c5de4d"
+        width: 600
+        height: 400
+        isCached: true
   - title: "House Democrats unveil ‘incitement of insurrection’ impeachment charge against Trump"
     excerpt: "As the House prepares for impeachment, President Donald Trump faces a single charge — “incitement of insurrection” — over the deadly riot at the U.S. Capitol."
     publishedDateTime: 2021-01-11T16:46:00Z
@@ -47,35 +63,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Republican senator calls Trump impeachment 'appropriate' as focus shifts to Senate – live"
-    excerpt: "Trump’s impeachment in the House triggers a trial in the Senate, which McConnell says can’t begin until Senate is back in session"
-    publishedDateTime: 2021-01-14T22:35:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates?page=with:block-6000c5448f08f56eefd20fb6"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
+  - title: "Twitter permanently suspends Trump's account to prevent 'further incitement of violence'"
+    excerpt: "Company determines two Friday tweets were ‘highly likely’ to encourage behavior like the storming of the Capitol"
+    publishedDateTime: 2021-01-09T08:38:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
     quality: 116
     images:
-      - url: "https://i.guim.co.uk/img/media/d6a434cb96b042551370faaa1242a3eb1a2b426c/0_74_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86464133e853da2e6dd68d48d008dc1e"
+      - url: "https://i.guim.co.uk/img/media/cb3085d44c438f92e1d27c124206000f7a1ef803/0_234_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84cd92c9ac7d53daa4a5f23201ca314d"
         width: 600
         height: 360
-        isCached: true
-  - title: "Trump may turn to Giuliani again to defend against impeachment"
-    excerpt: "President Donald Trump may turn to Rudy Giuliani to defend him against possible impeachment over his role in last week’s violent siege of the U.S. Capitol, according to two people familiar with the matter."
-    publishedDateTime: 2021-01-11T07:11:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-lawyers-idUKKBN29F0NB"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547312528&r=LYNXMPEH090GM&w=800"
-        width: 800
-        height: 533
         isCached: true
   - title: "Twitter permanently suspends Trump's account, cites 'incitement of violence' risk"
     excerpt: "Twitter Inc said on Friday that it has permanently suspended U.S. President Donald Trump's account due to the risk of further incitement of violence following the storming of the U.S. Capitol on Wednesday."
@@ -91,37 +93,19 @@ related:
         width: 799
         height: 576
         isCached: true
-  - title: "These GOP Senators May Vote To Impeach Trump; McConnell Leads The List"
-    excerpt: "Senate Majority Leader Mitch McConnell would need a two-thirds vote to convict Trump of inciting an insurrection and remove the president through impeachment."
-    publishedDateTime: 2021-01-15T04:59:00Z
-    webUrl: "https://www.ibtimes.com/these-gop-senators-may-vote-impeach-trump-mcconnell-leads-list-3122759"
-    ampWebUrl: "https://www.ibtimes.com/these-gop-senators-may-vote-impeach-trump-mcconnell-leads-list-3122759?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/these-gop-senators-may-vote-impeach-trump-mcconnell-leads-list-3122759?amp=1"
+  - title: "Watch live: House vote today to impeach Trump for a second time"
+    excerpt: "The resolution is in response to last week’s assault on the U.S. Capitol by Trump supporters."
+    publishedDateTime: 2021-01-13T14:15:07Z
+    webUrl: "https://www.bing.com/videos/search?q=url%3ahttps%3a%2f%2fwww.youtube.com%2fwatch%3fv%3dZnyfYgu5iqg&ru=%2fsearch%3fq%3durl%253ahttps%253a%252f%252fwww.youtube.com%252fwatch%253fv%253dZnyfYgu5iqg%26FORM%3dHDRSC1&view=detail&mmscn=vwrc&mid=3F8B8EDDEAF27EB0C6203F8B8EDDEAF27EB0C620&FORM=WRVORC"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: PBS News Hour
+      domain: bing.com
+    quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/donald-trump-mitch-mcconnell.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Twitter Slams Sen. Tim Scott For Opposing Donald Trump's Impeachment: It's 'Necessary For Healing'"
-    excerpt: "Twitter users do not agree with Sen. Tim Scott’s move to oppose Donald Trump's impeachment because they believe the POTUS' actions should have consequences."
-    publishedDateTime: 2021-01-13T01:44:00Z
-    webUrl: "https://www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317"
-    ampWebUrl: "https://www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 61
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/us-president-donald-trump-says-impeachment-is-causing.jpg"
-        width: 1024
-        height: 684
+      - url: "https://tse2.mm.bing.net/th?id=OVF.kr1jrhl6%2bhrBBRY%2fCA37Tg&w=600&h=315&c=7&rs=1&qlt=100&pid=2.1"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "Jv/WlZ64LY4LrZ8m1//THufXydxljQgOhpW1bv9mDEWWjigw8o2H3DGu6WIMfwLPE6MEUPMvhnY/32c2aal+mGCdblv/xHs+QdyniDfeVS8vlzxqkpQYvtmZaXt5P3R6+jwDut27GJPdrJgrBGU8X/TqZeyuJB+dDcgeKFWUds36rWPBv6d9teJgDppS+uTs4qoSVIPkTpXb06oN3wl6e00chaWeItGOqlSG3sj3JE60d7DOAfnrvwDvTcKmcXjW87UqGUc6ZMP4hhW3Jbb6O7Q1D1I+r3GEyEDP+TjCNUaoLS5/eD/wrYLzWBMOf/p0pDbbSHWxMtW8OK5Gm7+0Hwo3cyusOJUni//aDX2/VkfnPzFIor6BQ54PVSldL5jmykJMyrWNqZlADXDcdCFlu4sgr/MMnDnTQ8CKT86Y5L/LBA4kZ9bomNLYFf1c9TsORAY5X2rcTSBgLAl+VLGJ5IoklgFQEWkk6uhWm3nywfx9WoFe1u0NwalfrJ35yqG6sthrKtgCQP+pp5PyABqlfg==;0p1g4hy1leJpjF3HJjFUlQ=="

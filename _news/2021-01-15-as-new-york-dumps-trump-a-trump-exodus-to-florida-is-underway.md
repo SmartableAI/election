@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/qsZjaLIu7GiP_fWOhE-QZSmIC4o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GHKY7KVXTJ4O6LZG5SZMZL2AL4.jpg"
         width: 1200
         height: 832
+        isCached: true
+  - title: "New York City to consider ending contracts with Trump that bring his company $17 million a year"
+    excerpt: "The city of New York said Monday that it was “reviewing whether legal grounds exist” to terminate its business relationships with President Trump, whose company has contracts to run a carousel, two ice rinks and a golf course in city parks."
+    publishedDateTime: 2021-01-12T06:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/new-york-trump-cancel/2021/01/11/3527257e-545a-11eb-a08b-f1381ef3d207_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/new-york-trump-cancel/2021/01/11/3527257e-545a-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/new-york-trump-cancel/2021/01/11/3527257e-545a-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QFO2YSSG4EI6PDPBZ3CZVG7UWE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "3HdHBYg8PpAQxmTt0aW+vIkXxqeI75Ts1qiqaNqMW2XPzYdrvSqvEJHIP052vMHl7UuA0BzCaD4uzGSDXIy0DP0bUi+XPY2l2OumW1UA8mo+kRkT938Nk6Q06L8BKA6m6OfnMeHHzIV+NjJSABkWMApeM61hUh35A4JPv21/8uUuYyDPjiB4zZ+mrzPSoDfqnAlqpPOLaNpZBPfcZz0M/xsO4rmToszX1qyljSuAKgY45TBKJ2M2Lyzg5YGqhSMzr86tezmxy0QjSL7W9kS8fb/rIb7Q3Ua/8fjjOZVvDausfJDSaHS/c9mzomjS8xM/xrfpYJHMSa8zgVSd3gMGeLCRGuG8btsthktCRqfOr3ZVjzcSBM/FYZKXqPNBI4ssmiZ4NxEWmKrC/XNh5757SfNz+BlWDfecaDkJ+cntc4RjF/9H7xKyrmvRYMCFxbTcyFKP59jSc4Foq0ReI9b98ck4ds7/6O3GZwy+8etd7voQqg5M2iBA3vkMgx5tD6hOO9rjQC3owgntjQyglf+bMA==;J76tbKdxsfC+TCPuciGY6g=="

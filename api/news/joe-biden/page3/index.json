@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-16-politics-live-updates-biden-to-introduce-buttigieg-as-incoming-transportation-chief-wednesday.md",
+      "title": "Politics live updates: Biden to introduce Buttigieg as incoming Transportation chief Wednesday",
+      "excerpt": "Pete Buttigieg is scheduled to appear with Biden Wednesday for a formal announcement. On Twitter, he called the nomination a \"tremendous opportunity.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/16/politics-updates-biden-introduce-buttigieg-incoming-dot-chief/3916579001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/16/politics-updates-biden-introduce-buttigieg-incoming-dot-chief/3916579001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/16/USAT/36266745-f2f2-4cd8-ae8a-afc00b0c588c-GTY_1230145961.jpg?auto=webp&crop=5288,2975,x0,y352&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3916579001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3916579001",
+      "publishedDateTime": "2020-12-16T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-fact-check-laptop-repairman-at-center-of-hunter-biden-saga-is-alive.md",
       "title": "Fact check: Laptop repairman at center of Hunter Biden saga is alive",
       "excerpt": "Some users on Facebook have falsely claimed John Paul Mac Isaac — the laptop repairman at the center of the Hunter Biden laptop saga — was found dead.",
@@ -625,63 +678,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-bidens-cabinet-picks-give-kamala-an-edge-in-2024.md",
-      "title": "Biden’s Cabinet picks give Kamala an edge in 2024",
-      "excerpt": "Biden has opted for seasoned technocrats over ambitious pols for key jobs, denying potential political rivals to Harris a political springboard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/11/biden-cabinet-kamala-2024-444482",
-      "originalUrl": "https://www.politico.com/news/2020/12/11/biden-cabinet-kamala-2024-444482",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/24/67/10b110394fbaa06752f3cd58206d/gettyimages-1284977949-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/11/biden-cabinet-kamala-2024-444482",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/11/biden-cabinet-kamala-2024-444482",
-      "publishedDateTime": "2020-12-11T18:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -31,97 +31,113 @@ images:
     isCached: true
 
 related:
-  - title: "Trump impeachment: House to debate charge of 'incitement of insurrection' – live"
-    excerpt: "Third-ranking GOP member in House, Liz Cheney, says she’ll vote to impeach"
-    publishedDateTime: 2021-01-13T08:43:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
+  - title: "McConnell says best for country to hold Senate trial after Trump leaves office"
+    excerpt: "After the House impeachment vote, Senate Majority Leader Mitch McConnell said it would be best for the country if a Senate trial were held after Trump leaves office."
+    publishedDateTime: 2021-01-14T00:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/mcconnell-best-country-hold-senate-trial-trump-leaves/story?id=75235663"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/mcconnell-best-country-hold-senate-trial-trump-leaves/story?id=75235663"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnell-best-country-hold-senate-trial-trump-leaves/story?id=75235663"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/mitch-mcconnell-gty-jef-210113_1610577152971_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Bette Midler Says Donald Trump Will 'Burn Down' The White House Before He Leaves"
+    excerpt: "\"How many more will die in the service of this mediocrity? And watch, he'll burn the WH down before he goes,\" Midler tweeted Tuesday."
+    publishedDateTime: 2021-01-12T17:33:00Z
+    webUrl: "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892"
+    ampWebUrl: "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
     quality: 120
     images:
-      - url: "https://i.guim.co.uk/img/media/1924f7164024fd4fd5517a5bb4f348f5beed8b7e/613_82_1756_1054/master/1756.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3a0da34bddd66480ad9b5a5a456b8fba"
-        width: 600
-        height: 360
+      - url: "https://d.newsweek.com/en/full/1673938/bette-midler.jpg"
+        width: 3000
+        height: 2023
         isCached: true
-  - title: "House Democrats unveil ‘incitement of insurrection’ impeachment charge against Trump"
-    excerpt: "As the House prepares for impeachment, President Donald Trump faces a single charge — “incitement of insurrection” — over the deadly riot at the U.S. Capitol."
-    publishedDateTime: 2021-01-11T16:46:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html?outputType=amp"
+  - title: "House could vote to impeach Trump on Wednesday, one week after Capitol protest turned into a mob"
+    excerpt: "As the country comes to terms with the violent siege of the U.S. Capitol by Trump supporters that left five dead, the crisis that appears to be among the final acts of his presidency is deepening like few others in the nation’s history."
+    publishedDateTime: 2021-01-09T20:56:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 118
+    quality: 112
     images:
-      - url: "https://www.chicagotribune.com/resizer/a4ZU_ph4DDjjkI1r7Y8KG-e-6MY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I27GQJSG55AG7DPH5SFIEL4JZE.JPG"
+      - url: "https://www.chicagotribune.com/resizer/wkhA_T0LTme2jIhms7pxzsguRsE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VWEGM2GNQHGHG2TYWDJHHGRVNQ.jpg"
         width: 1200
-        height: 675
+        height: 779
         isCached: true
-  - title: "Trump may turn to Giuliani again to defend against impeachment"
-    excerpt: "President Donald Trump may turn to Rudy Giuliani to defend him against possible impeachment over his role in last week’s violent siege of the U.S. Capitol, according to two people familiar with the matter."
-    publishedDateTime: 2021-01-11T07:11:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-lawyers-idUKKBN29F0NB"
+  - title: "Senate Majority Leader Mitch McConnell is inclined to vote to convict Trump in an impeachment trial, new report says"
+    excerpt: "House Minority Leader Kevin McCarthy is also talking to GOP colleagues about whether he should ask Trump to resign, The New York Times reports."
+    publishedDateTime: 2021-01-13T03:56:00Z
+    webUrl: "https://www.businessinsider.com/mitch-mcconnell-pleased-at-prospect-of-trump-being-impeached-nyt-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-pleased-at-prospect-of-trump-being-impeached-nyt-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-pleased-at-prospect-of-trump-being-impeached-nyt-2021-1?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547312528&r=LYNXMPEH090GM&w=800"
-        width: 800
-        height: 533
+      - url: "https://i.insider.com/5f984f3c861cb70019936b04?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Twitter permanently suspends Trump's account, cites 'incitement of violence' risk"
-    excerpt: "Twitter Inc said on Friday that it has permanently suspended U.S. President Donald Trump's account due to the risk of further incitement of violence following the storming of the U.S. Capitol on Wednesday."
-    publishedDateTime: 2021-01-09T08:32:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-twitter/twitter-permanently-suspends-trumps-account-cites-incitement-of-violence-risk-idUKKBN29D359"
+  - title: "Mitch McConnell is telling GOP senators their decision on a Trump impeachment trial conviction is a 'vote of conscience'"
+    excerpt: "Majority Leader Mitch McConnell has been telling GOP senators they have the freedom to vote however they want during Trump's impeachment trial."
+    publishedDateTime: 2021-01-15T18:24:00Z
+    webUrl: "https://www.businessinsider.com/mcconnell-republican-senators-conviction-vote-trump-impeachment-trial-2021-1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547172914&r=LYNXMPEH0800P&w=800"
-        width: 799
-        height: 576
+      - url: "https://i.insider.com/5fa6a499f7d1cb0019e3a5eb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "These GOP Senators May Vote To Impeach Trump; McConnell Leads The List"
-    excerpt: "Senate Majority Leader Mitch McConnell would need a two-thirds vote to convict Trump of inciting an insurrection and remove the president through impeachment."
-    publishedDateTime: 2021-01-15T04:59:00Z
-    webUrl: "https://www.ibtimes.com/these-gop-senators-may-vote-impeach-trump-mcconnell-leads-list-3122759"
-    ampWebUrl: "https://www.ibtimes.com/these-gop-senators-may-vote-impeach-trump-mcconnell-leads-list-3122759?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/these-gop-senators-may-vote-impeach-trump-mcconnell-leads-list-3122759?amp=1"
+  - title: "Dustin Higgs scheduled to be last federal inmate executed before Trump leaves office"
+    excerpt: "A federal jury in Maryland convicted Higgs of first-degree murder and kidnapping in the killings of Tamika Black, 19; Mishann Chinn. 23; and Tanji Jackson, 21."
+    publishedDateTime: 2021-01-15T12:34:00Z
+    webUrl: "https://www.al.com/news/2021/01/dustin-higgs-scheduled-to-be-last-federal-inmate-executed-before-trump-leaves-office.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/dustin-higgs-scheduled-to-be-last-federal-inmate-executed-before-trump-leaves-office.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/dustin-higgs-scheduled-to-be-last-federal-inmate-executed-before-trump-leaves-office.html?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: al.com
+      domain: al.com
+    quality: 68
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/donald-trump-mitch-mcconnell.jpg"
-        width: 1024
-        height: 683
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XXFO4DFQZBAVJIOMBKC5PSB5BE.jpg"
+        width: 1969
+        height: 1286
         isCached: true
-  - title: "Twitter Slams Sen. Tim Scott For Opposing Donald Trump's Impeachment: It's 'Necessary For Healing'"
-    excerpt: "Twitter users do not agree with Sen. Tim Scott’s move to oppose Donald Trump's impeachment because they believe the POTUS' actions should have consequences."
-    publishedDateTime: 2021-01-13T01:44:00Z
-    webUrl: "https://www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317"
-    ampWebUrl: "https://www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317?amp=1"
+  - title: "The House impeached Donald Trump over his speech before the Capitol attack. Here’s what happens next"
+    excerpt: "With the House voting to impeach President Donald Trump, the action moves to the Senate. It is not immediately clear when the Senate will begin a trial. • Most experts say that a trial can proceed after Trump is out of office if needed."
+    publishedDateTime: 2021-01-13T22:31:00Z
+    webUrl: "https://www.politifact.com/article/2021/jan/13/house-impeached-donald-trump-over-speech-capitol-a/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 61
+      name: Politifact
+      domain: politifact.com
+    quality: 40
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/us-president-donald-trump-says-impeachment-is-causing.jpg"
-        width: 1024
-        height: 684
+      - url: "https://static.politifact.com/img/meter-true.jpg"
+        width: 438
+        height: 392
         isCached: true
 
 secured: "GCLUD9yVaz/PSMZOi0Car6LUt8JS920LEpPFTiLacYaIMGk8BXP90v3svD68RLgQpnXzczN/nidsJcnOYG/2M1Ysc567M6n6TL3l2I2xre4pLxogqqNDedJoYEnkQggG04zAq8lNoFbEsAZ7zG/ipmQ7vv2mTmCwKU+7eZv+AlwqvABIuFrXG04PCqdxweYY5mqcgeKcSY6shpGqJpswoDxW3J9cN3zujQnMctRHgq5/XAAXX7FgG86GEfRcuQrghrazLIbQkzjQ5t70TUa8QJRYRqbicszS3ACWy3HS//oNa8UO6xhsCFlaB8HIrj+wR75m2NiLkiWDxCrQSMDyxdYNMfH10Wp9qXRuH5d6Pg4=;VrrTivLj93jH0kfX0L5G9w=="

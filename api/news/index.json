@@ -2,12 +2,293 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-16-trump-plans-to-depart-washington-inauguration-day-morning-while-pence-harris-speak.md",
+      "title": "Trump plans to depart Washington Inauguration Day morning, while Pence, Harris speak",
+      "excerpt": "President Trump plans to make the unprecedented move to depart the White House next Wednesday morning, just before President-elect Joe Biden's inauguration.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-departure-texas-03-ap-jef-210112_1610466035305_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643",
+      "publishedDateTime": "2021-01-15T12:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-pence-calls-vice-president-elect-harris-offer-congratulations-ahead-of-inauguration.md",
+      "title": "Pence calls Vice President-elect Harris offer congratulations ahead of inauguration",
+      "excerpt": "Vice President Mike Pence called Vice President-elect Kamala Harris on Thursday to discuss the transition of power to the new Biden administration, Fox News has confirmed. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cmdM1kmIlek/pence-vice-president-elect-harris-congratulations-inauguration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cmdM1kmIlek/pence-vice-president-elect-harris-congratulations-inauguration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 464,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/pence-inaguration-washington-national-guard1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-vice-president-elect-harris-congratulations-inauguration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-vice-president-elect-harris-congratulations-inauguration.amp",
+      "publishedDateTime": "2021-01-15T12:13:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-despite-trump-administration-promise-there-appear-to-be-no-more-reserve-2nd-vaccine-doses-to-release.md",
+      "title": "Despite Trump administration promise, there appear to be no more 'reserve' 2nd vaccine doses to release",
+      "excerpt": "Hopes of a surge in Covid-19 vaccine shipments under a new policy to release second doses held in reserve appear to be evaporating -- with the revelation that those doses have already been distributed, contrary to recent indications by the Trump administration.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lalVOl5dJlA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lalVOl5dJlA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201222111258-02-alex-azar-vaccine-1222-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html",
+      "publishedDateTime": "2021-01-15T12:01:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-pence-calls-harris-while-trump-continues-to-stew-in-denial.md",
+      "title": "Pence calls Harris while Trump continues to stew in denial",
+      "excerpt": "One is dropping in on the White House phone operators, addressing troops at bases across the country, paying a visit to national guardsmen in place for the inauguration and speaking by phone with his successor.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/87pFCeuctSI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/87pFCeuctSI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201120140130-trump-pence-1113-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-presidency/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-presidency/index.html",
+      "publishedDateTime": "2021-01-15T11:48:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-cuomo-takes-parting-shot-at-trump-admin-targets-reclamation-of-salt-funds.md",
+      "title": "Cuomo takes parting shot at Trump admin, targets 'reclamation' of SALT funds",
+      "excerpt": "The SALT cap has been one of the bigger thorns in Cuomo's side in recent years.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JshLzdDxQyQ/cuomo-parting-shot-trump-admin-reclamation-salt-money",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JshLzdDxQyQ/cuomo-parting-shot-trump-admin-reclamation-salt-money",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011644645511.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-parting-shot-trump-admin-reclamation-salt-money.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-parting-shot-trump-admin-reclamation-salt-money.amp",
+      "publishedDateTime": "2021-01-15T11:40:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-biden-chief-of-staff-klain-says-he-expects-us-covid-19-deaths-to-top-500000-next-month.md",
       "title": "Biden chief of staff Klain says he expects U.S. COVID-19 deaths to top 500,000 next month",
       "excerpt": "U.S. President-elect Joe Biden's incoming chief of staff Ron Klain said on Friday he expects the United States to hit 500,000 COVID-19 deaths next month.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-biden-klain/update-1-biden-chief-of-staff-klain-says-he-expects-u-s-covid-19-deaths-to-top-500000-next-month-idUSL1N2JQ268",
-      "originalUrl": "https://www.reuters.com/article/usa-biden-klain/update-1-biden-chief-of-staff-klain-says-he-expects-u-s-covid-19-deaths-to-top-500000-next-month-idUSL1N2JQ268",
+      "webUrl": "https://www.reuters.com/article/usa-biden-klain/update-1-biden-chief-of-staff-klain-says-he-expects-us-covid-19-deaths-to-top-500000-next-month-idUSL1N2JQ268",
+      "originalUrl": "https://www.reuters.com/article/usa-biden-klain/update-1-biden-chief-of-staff-klain-says-he-expects-us-covid-19-deaths-to-top-500000-next-month-idUSL1N2JQ268",
       "featuredContent": null,
       "highlight": null,
       "heat": 116,
@@ -51,6 +332,62 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-tillerson-slams-trump-as-pompeo-sings-his-praises.md",
+      "title": "Tillerson slams Trump as Pompeo sings his praises",
+      "excerpt": "Former Secretary of State Rex Tillerson painted a scathing picture of his old boss President Donald Trump as someone who made uninformed decisions that were not based in reality -- a stark contrast to Trump's top diplomat Mike Pompeo, who is heaping praise on the outgoing President in his final days",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jn45W6rhvuY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jn45W6rhvuY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200626131825-trump-tillerson-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/15/politics/tillerson-foreign-policy-interview/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/tillerson-foreign-policy-interview/index.html",
+      "publishedDateTime": "2021-01-15T10:00:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {
@@ -107,6 +444,58 @@
       "topics": [
         "Election",
         "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-power-up-trump-pence-relationship-may-set-lowest-bar-yet.md",
+      "title": "Power Up: Trump-Pence relationship may set lowest bar yet",
+      "excerpt": "The relationship between President Trump and Vice President Pence would have hit the history books as one of the tightest bonds between the highest-ranking members of American government. Until the events of Jan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 360,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RWCCSACWYII6XLGFSLJIDGQ4ZM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/?outputType=amp",
+      "publishedDateTime": "2021-01-15T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Mike Pence"
       ]
     },
@@ -225,21 +614,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-16-for-those-who-quit-trump-after-riot-critics-say-its-too-little-and-four-years-too-late.md",
-      "title": "For those who quit Trump after riot, critics say it’s too little — and four years too late",
-      "excerpt": "The violent insurrection at the U.S. Capitol incited by the president set off a dramatic wave of resignations and attempts at distancing among administration officials and longtime advisers.",
+      "path": "_news/2021-01-16-sarah-cooper-im-moving-on-from-lip-syncing-trump.md",
+      "title": "Sarah Cooper: I'm moving on from lip-syncing Trump",
+      "excerpt": "The comedian talks with \"Sunday Morning\" about life after becoming a social media phenomenon lampooning the president.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-quit-riot/2021/01/14/a12a3d86-54ed-11eb-a817-e5e7f8a406d6_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-quit-riot/2021/01/14/a12a3d86-54ed-11eb-a817-e5e7f8a406d6_story.html",
+      "webUrl": "https://www.cbsnews.com/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/",
+      "originalUrl": "https://www.cbsnews.com/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3Q5DEDBOQAI6XHOWFUAXTGAXDE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/15/01c3b17d-14d5-41de-8659-67633b1d8911/thumbnail/1200x630/2e851058003a646ab459885bf00088f4/sarah-cooper-interview-1280.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -247,16 +636,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-quit-riot/2021/01/14/a12a3d86-54ed-11eb-a817-e5e7f8a406d6_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-quit-riot/2021/01/14/a12a3d86-54ed-11eb-a817-e5e7f8a406d6_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-15T08:00:00-08:00",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/",
+      "publishedDateTime": "2021-01-15T08:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "CBS News",
+        "domain": "cbsnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -289,7 +678,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 319,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -606,63 +995,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-15-could-kamala-harris-invoke-her-indian-heritage-by-wearing-a-sari-on-inauguration-day.md",
-      "title": "Could Kamala Harris invoke her Indian heritage by wearing a sari on inauguration day?",
-      "excerpt": "Some believe Harris could use the garment as a healing gesture and a symbol of how the Biden-Harris administration intends to lead America and better represent minorities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/style/article/kamala-harris-sari-inauguration/index.html",
-      "originalUrl": "https://www.cnn.com/style/article/kamala-harris-sari-inauguration/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://cdn.cnn.com/cnnnext/dam/assets/210108130544-02-kamala-harris-1124-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnn.com/style/amp/kamala-harris-sari-inauguration/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/kamala-harris-sari-inauguration/index.html",
-      "publishedDateTime": "2021-01-15T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-15-franklin-graham-asks-if-pelosi-promised-10-republicans-pieces-of-silver-to-betray-trump.md",
       "title": "Franklin Graham asks if Pelosi promised 10 Republicans 'pieces of silver' to betray Trump",
       "excerpt": "Protestant evangelist and missionary Franklin Graham expressed outrage Thursday with the 10 House Republicans who joined Democrats this week in voting to impeach President Trump for a second time – and claimed House Speaker Nancy Pelosi may have swayed them.",
@@ -884,21 +1216,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-15-pence-vows-to-honor-us-history-ensure-safe-inauguration-of-new-president.md",
-      "title": "Pence vows to honor U.S. history, ensure safe inauguration of new president",
-      "excerpt": "U.S. Vice President Mike Pence on Thursday vowed to uphold American history and ensure a safe transition of power to President-elect Joe Biden, eight days after supporters of U.S. President Donald Trump laid siege to the U.",
+      "path": "_news/2021-01-15-trump-extends-safeguard-tariffs-on-large-washer-imports-for-two-years.md",
+      "title": "Trump extends 'safeguard' tariffs on large washer imports for two years",
+      "excerpt": "President Donald Trump on Thursday extended \"safeguard\" tariffs on large residential washers for another two years in a move that further shields domestic manufacturers such as Whirlpool Corp from import competition.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-inauguration-pence/pence-vows-to-honor-us-history-ensure-safe-inauguration-of-new-president-idUSKBN29K05A",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-inauguration-pence/pence-vows-to-honor-us-history-ensure-safe-inauguration-of-new-president-idUSKBN29K05A",
+      "webUrl": "https://www.reuters.com/article/us-usa-trade-washers/trump-extends-safeguard-tariffs-on-large-washer-imports-for-two-years-idUSKBN29J2SD?edition-redirect=ca",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trade-washers/trump-extends-safeguard-tariffs-on-large-washer-imports-for-two-years-idUSKBN29J2SD?edition-redirect=ca",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 105,
       "tags": null,
       "images": [
         {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547860873&r=LYNXMPEH0E02C&w=800",
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547836161&r=LYNXMPEH0D1KA&w=800",
           "width": 800,
-          "height": 533,
+          "height": 564,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -908,7 +1240,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T22:46:00-08:00",
+      "publishedDateTime": "2021-01-14T20:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -932,288 +1264,25 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-biden-inaugural-rehearsal-rescheduled-amtrak-trip-canceled-over-security-concerns-report.md",
-      "title": "Biden inaugural rehearsal rescheduled, Amtrak trip canceled over security concerns: report",
-      "excerpt": "Security concerns in Washington, D.C., ahead of the scheduled inauguration of President-elect Joe Biden have resulted in some scheduling changes, Biden’s staff said Thursday, according to a report.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/27sjqFlsUL4/biden-inaugural-rehearsal-rescheduled-amtrak-trip-canceled-over-security-concerns-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/27sjqFlsUL4/biden-inaugural-rehearsal-rescheduled-amtrak-trip-canceled-over-security-concerns-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/monaco.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-inaugural-rehearsal-rescheduled-amtrak-trip-canceled-over-security-concerns-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inaugural-rehearsal-rescheduled-amtrak-trip-canceled-over-security-concerns-report.amp",
-      "publishedDateTime": "2021-01-14T19:58:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-biden-current-vaccine-rollout-a-dismal-failure.md",
-      "title": "Biden: Current vaccine rollout 'a dismal failure'",
-      "excerpt": "President-elect Joe Biden called the current rollout of the coronavirus vaccine \"a dismal failure\" as he highlighted his $1.9 trillion plan to combat the pandemic and provide additional relief. (Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/01/15/biden-current-vaccine-rollout-a-dismal-failure/4169071001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/01/15/biden-current-vaccine-rollout-a-dismal-failure/4169071001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/ae0c443c-1f54-43f2-8d6c-c7774a67ed7e_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T18:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-ted-cruzs-former-staffers-are-disgusted-by-his-new-low-for-trump.md",
-      "title": "Ted Cruz’s Former Staffers Are ‘Disgusted’ by His New Low for Trump",
-      "excerpt": "Ted Cruz has long had a public reputation as an unctuous asshole. Even so, his staffers have tended to hold him in high regard as a kind and geeky man who treated his underlings well even while his fellow senators loathed him.",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/2021/01/ted-cruzs-former-staff-disgusted-by-his-new-low-for-trump.html",
-      "originalUrl": "https://nymag.com/intelligencer/2021/01/ted-cruzs-former-staff-disgusted-by-his-new-low-for-trump.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/ca8/dcb/e481ac5a11528488a970fe59710d78add0-ted-cruz.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/01/ted-cruzs-former-staff-disgusted-by-his-new-low-for-trump.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/ted-cruzs-former-staff-disgusted-by-his-new-low-for-trump.html",
-      "publishedDateTime": "2021-01-14T18:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Donald Trump"
       ]
     },
     {
-      "path": "_news/2021-01-15-billionaire-trump-donor-catsimatidis-mulling-nyc-mayoral-run-as-a-democrat.md",
-      "title": "Billionaire Trump donor Catsimatidis mulling NYC mayoral run as a Democrat",
-      "excerpt": "Billionaire Republican John Catsimatidis, a supermarket mogul and longtime supporter of President Trump, said he is mulling a run for New York City mayor-- on the Democratic ticket. ",
+      "path": "_news/2021-01-15-as-kamala-harris-makes-history-twitter-creates-secondgentleman-account.md",
+      "title": "As Kamala Harris Makes History, Twitter Creates @SecondGentleman Account",
+      "excerpt": "The microblogging platform will archive the Trump Administration's tweets, but a major dispute over Donald Trump's followers remains between the platform and President-elect Joe Biden.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PwcAQW6bF0I/nyc-catsimatidis-mulling-mayoral-run-democrat",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PwcAQW6bF0I/nyc-catsimatidis-mulling-mayoral-run-democrat",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/John-Catsimatidis-Getty-Images.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nyc-catsimatidis-mulling-mayoral-run-democrat.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nyc-catsimatidis-mulling-mayoral-run-democrat.amp",
-      "publishedDateTime": "2021-01-14T17:43:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-biden-advised-against-dismissing-all-of-trumps-foreign-policy-achievements-in-china.md",
-      "title": "Biden advised against dismissing all of Trump’s foreign policy achievements in China",
-      "excerpt": "A new on U.S. national security says it would be a mistake to ignore the outgoing administration’s foreign policy in the aftermath of last week’s riot in Washington D.C.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cezZBRjhmyY/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cezZBRjhmyY/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 403,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5960cbca-be06-41d8-b7c0-22ec824ae73b/849844c6-d797-457a-bae7-1a00a360bd22/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements.amp",
-      "publishedDateTime": "2021-01-14T17:25:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-melania-trump-not-sad-about-leaving-white-house-flotus-not-a-victim.md",
-      "title": "Melania Trump 'Not Sad' About Leaving White House, FLOTUS Not A 'Victim'",
-      "excerpt": "Melania Trump is not sad about leaving the White House and she is not the victim as what she previously claimed, according to a report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/melania-trump-not-sad-about-leaving-white-house-flotus-not-victim-3122487",
-      "originalUrl": "https://www.ibtimes.com/melania-trump-not-sad-about-leaving-white-house-flotus-not-victim-3122487",
+      "webUrl": "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818",
+      "originalUrl": "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 284,
       "tags": null,
       "images": [
         {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg",
-          "width": 1024,
-          "height": 682,
+          "url": "https://d.newsweek.com/en/full/1708768/secondgentleman-douglas-emhoff-twitter-account-kamala-harris.jpg",
+          "width": 2500,
+          "height": 1787,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1221,16 +1290,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/melania-trump-not-sad-about-leaving-white-house-flotus-not-victim-3122487?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-not-sad-about-leaving-white-house-flotus-not-victim-3122487?amp=1",
-      "publishedDateTime": "2021-01-14T16:42:00-08:00",
+      "ampWebUrl": "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818?amp=1",
+      "publishedDateTime": "2021-01-14T20:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
+        "name": "Newsweek",
+        "domain": "newsweek.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1247,81 +1316,29 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Kamala Harris"
       ]
     },
     {
-      "path": "_news/2021-01-15-as-new-york-dumps-trump-a-trump-exodus-to-florida-is-underway.md",
-      "title": "As New York dumps Trump, a Trump exodus to Florida is underway",
-      "excerpt": "As New York officials make aggressive moves to cut ties with President Trump, planning has been underway for Trump and some of his children to ditch the Empire State.",
+      "path": "_news/2021-01-15-pence-makes-surprise-visit-to-capitol-to-thank-national-guard.md",
+      "title": "Pence makes surprise visit to Capitol to thank National Guard",
+      "excerpt": "Vice President Mike Pence made a surprise visit to the United States Capitol to greet National Guard members and thank them for their service.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
-      "originalUrl": "https://abcnews.go.com/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/trump-family-gty-ml-210114_1610647078401_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
-      "publishedDateTime": "2021-01-14T15:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-biden-labor-secretary-nominee-marty-walshs-campaign-paid-his-girlfriends-employer-nearly-1-million.md",
-      "title": "Biden labor secretary nominee Marty Walsh's campaign paid his girlfriend's employer nearly $1 million",
-      "excerpt": "Boston Mayor Marty Walsh, President-elect Biden’s nominee for Labor Secretary, paid his girlfriend’s fundraising consulting firm over $1 million, campaign filings show. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UUhDtrq42ac/biden-labor-secretary-nominee-marty-walshs-campaign-paid-his-girlfriends-employer-nearly-1-million",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UUhDtrq42ac/biden-labor-secretary-nominee-marty-walshs-campaign-paid-his-girlfriends-employer-nearly-1-million",
+      "webUrl": "https://www.cnn.com/videos/politics/2021/01/15/mike-pence-visits-national-guard-ctn-vpx.cnn",
+      "originalUrl": "https://www.cnn.com/videos/politics/2021/01/15/mike-pence-visits-national-guard-ctn-vpx.cnn",
       "featuredContent": null,
       "highlight": {
-        "text": "Republican Voice",
+        "text": "Democratic Voice",
         "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
+        "backgroundColor": "#0015BC"
       },
-      "heat": 160,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2016/01/24/694940094001_4719677386001_76e84eff-a55c-40f5-8d22-edac2ff90e15.jpg",
-          "width": 617,
-          "height": 347,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210114232803-mike-pence-visits-national-guard-vpx-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1329,16 +1346,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-labor-secretary-nominee-marty-walshs-campaign-paid-his-girlfriends-employer-nearly-1-million.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-labor-secretary-nominee-marty-walshs-campaign-paid-his-girlfriends-employer-nearly-1-million.amp",
-      "publishedDateTime": "2021-01-14T15:45:11-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/01/15/mike-pence-visits-national-guard-ctn-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/15/mike-pence-visits-national-guard-ctn-vpx.cnn",
+      "publishedDateTime": "2021-01-14T20:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1355,7 +1372,8 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
+        "Mike Pence",
+        "Democratic Voice"
       ]
     }
   ],

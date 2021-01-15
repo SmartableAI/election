@@ -31,149 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Biden advised against dismissing all of Trump’s foreign policy achievements in China"
-    excerpt: "A new on U.S. national security says it would be a mistake to ignore the outgoing administration’s foreign policy in the aftermath of last week’s riot in Washington D.C."
-    publishedDateTime: 2021-01-15T01:25:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cezZBRjhmyY/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements"
-    ampWebUrl: "https://www.foxnews.com/politics/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements.amp"
+  - title: "Pence calls Vice President-elect Harris offer congratulations ahead of inauguration"
+    excerpt: "Vice President Mike Pence called Vice President-elect Kamala Harris on Thursday to discuss the transition of power to the new Biden administration, Fox News has confirmed. "
+    publishedDateTime: 2021-01-15T20:13:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cmdM1kmIlek/pence-vice-president-elect-harris-congratulations-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-vice-president-elect-harris-congratulations-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-vice-president-elect-harris-congratulations-inauguration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 183
+    quality: 204
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5960cbca-be06-41d8-b7c0-22ec824ae73b/849844c6-d797-457a-bae7-1a00a360bd22/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Article of impeachment against Trump to be introduced Monday in House"
-    excerpt: "Rep. Ted Lieu, D-Calif., said Saturday that the House had reached 180 co-sponsors for an Article of Impeachment against President Trump, and the chamber would introduce the measure on Monday. "
-    publishedDateTime: 2021-01-09T20:47:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BN1avJc5Pa0/article-of-impeachment-trump-january-11-house"
-    ampWebUrl: "https://www.foxnews.com/politics/article-of-impeachment-trump-january-11-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/article-of-impeachment-trump-january-11-house.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/09/26/694940094001_6089811276001_6089809166001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Second Trump impeachment draws bipartisan support"
-    excerpt: "The House voted 232-197 to impeach the president with support from ten Republicans."
-    publishedDateTime: 2021-01-13T21:58:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GxXfFrCs4f0/second-trump-impeachment-draws-bipartisan-support"
-    ampWebUrl: "https://www.foxnews.com/politics/second-trump-impeachment-draws-bipartisan-support.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/second-trump-impeachment-draws-bipartisan-support.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "The Hitchhiker’s Guide to Impeaching President Trump on Wednesday"
-    excerpt: "For the first time since 1798, the House of Representatives plans a second impeachment against an American government official."
-    publishedDateTime: 2021-01-13T04:29:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/prmP_gzORG0/the-hitchhikers-guide-to-impeaching-president-trump-on-wednesday"
-    ampWebUrl: "https://www.foxnews.com/politics/the-hitchhikers-guide-to-impeaching-president-trump-on-wednesday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-hitchhikers-guide-to-impeaching-president-trump-on-wednesday.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "These House Republicans support Trump's impeachment"
-    excerpt: "A handful of House Republicans have said they will vote to impeach President Trump on Wednesday."
-    publishedDateTime: 2021-01-13T14:16:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SGHH9w30YNw/republicans-support-trump-impeachment"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-support-trump-impeachment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-support-trump-impeachment.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4b04a1cd-ebd0-4814-9278-b3e36538afc6/4c57c8e2-8f61-4223-986a-e6350b9859f6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden tries to go from normalcy to relevancy"
-    excerpt: "Biden found the best way in was to promise to just be cool... Will it be enough?"
-    publishedDateTime: 2021-01-14T20:23:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KN4cyx7tScE/biden-tries-to-go-from-normalcy-to-relevancy"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-tries-to-go-from-normalcy-to-relevancy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tries-to-go-from-normalcy-to-relevancy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Clyburn suggests 14th Amendment could bar Trump from holding office again"
-    excerpt: "House Majority Whip James Clyburn, D-S.C., told Fox News Wednesday that President Trump should be legally prevented from holding elected office again as the House impeached him for an unprecedented second time. "
-    publishedDateTime: 2021-01-13T23:10:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yv6aGsntoTE/clyburn-bar-trump-holding-office-under-14th-amendment"
-    ampWebUrl: "https://www.foxnews.com/politics/clyburn-bar-trump-holding-office-under-14th-amendment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clyburn-bar-trump-holding-office-under-14th-amendment.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f3569b7d-9926-4c81-ba4f-09cb727ebd76/7c0377cb-daae-4590-a25e-0a3976224e26/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Petition calls for U of Michigan regent to resign for not blaming Trump over Capitol riot"
-    excerpt: "University of Michigan Regent Ron Weiser has been called \"complicit\" in last week’s storming of the U.S. Capitol by the writers of an online petition that calls for his resignation after he failed to place blame on President Trump."
-    publishedDateTime: 2021-01-14T09:24:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kHw1uG5baQU/petition-calls-for-u-of-michigan-regent-to-resign-for-not-blaming-trump-over-riot"
-    ampWebUrl: "https://www.foxnews.com/politics/petition-calls-for-u-of-michigan-regent-to-resign-for-not-blaming-trump-over-riot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/petition-calls-for-u-of-michigan-regent-to-resign-for-not-blaming-trump-over-riot.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21014048876326.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/pence-inaguration-washington-national-guard1.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Manchin calls second Trump impeachment bid 'ill-advised': 'Let the judicial system do its job'"
-    excerpt: "House Democrats' attempt to impeach President Trump for a second time in connection with last week's riot at the U.S. Capitol is \"so ill-advised,\" Sen. Joe Manchin, D-W.Va. told \"Special Report\" Monday. "
-    publishedDateTime: 2021-01-12T00:20:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tPoWs5d64p8/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course"
-    ampWebUrl: "https://www.foxnews.com/politics/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course.amp"
+  - title: "Biden's 'humane' immigration plan gives green cards to TPS, DACA recipients, Harris says"
+    excerpt: "Vice President-elect Kamala Harris Tuesday said the Biden administration will take a more \"humane\" approach to immigration when the president-elect takes office next week."
+    publishedDateTime: 2021-01-13T11:07:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jzcL2OZrtak/bidens-humane-immigration-plan-gives-green-cards-to-tps-daca-recipients-harris-says"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-humane-immigration-plan-gives-green-cards-to-tps-daca-recipients-harris-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-humane-immigration-plan-gives-green-cards-to-tps-daca-recipients-harris-says.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 191
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56961609-b75a-4b4d-886f-7cf6225d0872/1929b563-4df0-450f-8d3f-4e0c35becc7f/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43d8096c-96b6-417b-9e70-d106d78ea892/bc25fb44-5fe3-47a2-9bd7-1ee6ed3cb202/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "VP-elect Harris compares Capitol riots to 2017 'Unite the Right' rally"
+    excerpt: "Vice President-Elect Kamala Harris said Thursday that last week's assault on the U.S. Capitol reminded her of the 2017 \"Unite the Right\" rally in Charlottesville, Va."
+    publishedDateTime: 2021-01-15T19:23:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OqfYO5tVtdE/vp-elect-harris-capitol-riots-charlottesville-unite-the-right"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-elect-harris-capitol-riots-charlottesville-unite-the-right.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-elect-harris-capitol-riots-charlottesville-unite-the-right.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Confederate-Flag-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump expected to travel to Mar-a-Lago on morning of Biden's inauguration: sources"
+    excerpt: "President Trump is expected to travel to his resort at Mar-a-Lago in Florida the morning of Jan. 20 – the day of President-elect Joe Biden’s inauguration – where he is expected to reside after his presidency, Fox News has learned."
+    publishedDateTime: 2021-01-15T14:09:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wiZq2t79FSQ/trump-mar-a-lago-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-mar-a-lago-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mar-a-lago-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Secret Service to begin Biden inauguration security operations Jan. 13"
+    excerpt: "The Secret Service will begin security operations on Jan. 13 for President-elect Joe Biden’s Inauguration— days earlier than originally planned in wake of last week’s Capitol riot."
+    publishedDateTime: 2021-01-11T22:04:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ZxH5yFXHSY/secret-service-biden-inauguration-security-jan-13"
+    ampWebUrl: "https://www.foxnews.com/politics/secret-service-biden-inauguration-security-jan-13.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/secret-service-biden-inauguration-security-jan-13.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden picks South Carolina’s Jaime Harrison to steer Democratic Party: sources"
+    excerpt: "Former South Carolina Democratic Party Chair Jaime Harrison has been tapped by President-elect Joe Biden to serve as the next chair of the Democratic National Committee (DNC), two party sources confirm to Fox News."
+    publishedDateTime: 2021-01-14T18:37:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VEMRdGBOYng/biden-picks-south-carolinas-harrison-to-steer-democratic-party"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-picks-south-carolinas-harrison-to-steer-democratic-party.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-picks-south-carolinas-harrison-to-steer-democratic-party.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "FBI internal memo warns of plans for armed protests in all 50 state capitals ahead of Biden inauguration"
     excerpt: "An internal FBI memo is warning of plans for armed protests in all 50 state capital cities ahead of President-elect Joe Biden’s Inauguration, Fox News has learned."
@@ -191,19 +143,97 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden Flings a Slew of Inflammatory Race-Tinged Lies"
-    excerpt: "As President Trump denounced the violence in he Capitol and called for peace and order, Joe Biden had a different idea: Attacking President Trump. And pinning the racism tag on the cops. This is what happened."
-    publishedDateTime: 2021-01-09T13:45:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/09/biden_flings_a_slew_of_inflammatory_race-tinged_lies_533032.html#!"
+  - title: "Kamala Harris’ top economic advisor is another BlackRock exec"
+    excerpt: "BlackRock is cementing its position as the Biden administration’s go-to Wall Street firm. Vice-President-elect Kamala Harris on Friday said she’s selected BlackRock’s Global Chief Investment"
+    publishedDateTime: 2021-01-08T22:36:00Z
+    webUrl: "https://nypost.com/2021/01/08/kamala-harris-top-economic-advisor-is-another-blackrock-exec/"
+    ampWebUrl: "https://nypost.com/2021/01/08/kamala-harris-top-economic-advisor-is-another-blackrock-exec/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/08/kamala-harris-top-economic-advisor-is-another-blackrock-exec/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2019/12/blackrock-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Why Kamala Harris’ Vogue cover is trending on social media"
+    excerpt: "Kamala Harris is Vogue’s new cover girl — but it isn’t winning her any votes. The vice president-elect appears on the February front of the fashion bible in a set of her own duds"
+    publishedDateTime: 2021-01-10T18:09:00Z
+    webUrl: "https://nypost.com/2021/01/10/why-kamala-harris-vogue-cover-is-trending-on-social-media/"
+    ampWebUrl: "https://nypost.com/2021/01/10/why-kamala-harris-vogue-cover-is-trending-on-social-media/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/10/why-kamala-harris-vogue-cover-is-trending-on-social-media/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/kamala-harris-vogue.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Vogue's Kamala Harris cover sparks social-media frenzy: 'What a mess up'"
+    excerpt: "The cover of February's upcoming issue of Vogue, which features Vice-President-elect Kamala Harris, has been widely criticized on social media."
+    publishedDateTime: 2021-01-10T11:24:00Z
+    webUrl: "https://www.foxnews.com/media/vogues-kamala-harris-cover-sparks-social-media-frenzy-what-a-mess-up"
+    ampWebUrl: "https://www.foxnews.com/media/vogues-kamala-harris-cover-sparks-social-media-frenzy-what-a-mess-up.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/vogues-kamala-harris-cover-sparks-social-media-frenzy-what-a-mess-up.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2265dc7-c2de-4b08-9cea-86b4ebe64632/db6daa92-b888-49ae-a844-b925a3f30557/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Liberal media flip out on Vogue over 'disrespectful' Kamala Harris cover"
+    excerpt: "Despite publishing a puff piece and giving its vaunted cover to Vice President-elect Kamala Harris, Vogue is receiving backlash from liberal media outlets for using too casual a picture of the senator from California."
+    publishedDateTime: 2021-01-11T21:31:00Z
+    webUrl: "https://www.foxnews.com/media/liberal-media-flips-out-over-kamala-harris-cover-vogue"
+    ampWebUrl: "https://www.foxnews.com/media/liberal-media-flips-out-over-kamala-harris-cover-vogue.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/liberal-media-flips-out-over-kamala-harris-cover-vogue.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2265dc7-c2de-4b08-9cea-86b4ebe64632/db6daa92-b888-49ae-a844-b925a3f30557/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Expect Big Things From Harris as Vice President"
+    excerpt: "Vice President-elect Kamala Harris is going to be a major voice in the White House during the next four years, writes Julian Zelizer. As an experienced senator, Harris will be able to help Biden solid"
+    publishedDateTime: 2020-12-08T12:27:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/08/expect_big_things_from_harris_as_vice_president_530775.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 65
     images:
-      - url: "https://assets.realclear.com/images/53/531874_5_.jpg"
+      - url: "https://assets.realclear.com/images/52/528934_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Zero good options to replace Kamala Harris"
+    excerpt: "With Kamala Harris set to become vice president come January, Gov. Gavin Newsom must decide with whom to fill California's Senate vacancy — only the second in nearly three decades. In the bluest state in the union,"
+    publishedDateTime: 2020-12-08T13:59:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/zero-good-options-to-replace-kamala-harris"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/55fa6e1/2147483647/strip/true/crop/2290x1202+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F8d%2F2b%2F08b10149421da82926aba0c29760%2Fgavin-newsom-gop.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "WG+9rGrD/yg5LMBEphpYW3DNd19HMJMoOTB9QXZB00Kvt7dC+2+Qg2hjMgTuMjCcZu+IqC4M3WKJYbeR1JvtJ2ouoaHLoHKnvmPIQeCfGXPQfK/NBwkNvDjT3aDZvv4y2YYfBTC496VK8nPiR2wGj4o3PuQn26eWvTI7JxL3hqRxSaxDGKec11YF2bvHRIt4UtqpaLkJ+fOgpdH3hReuKcQ9yAP2S4wG9BV9Hrfel+6cyRl4ZmwYs5uMlrkyvrTH4G4dbNS/02GP5/QUJcM3+u5/F0vF/PYEZwOdWA2huWEOLWwx+0iSgaRqIffVXBZIVZzlmPMPB1adFxyLv9r1rTfiy+55Tdx3peHRSH7lRJ0=;YT5Uqc2YqUTE0D7FXdA+TQ=="

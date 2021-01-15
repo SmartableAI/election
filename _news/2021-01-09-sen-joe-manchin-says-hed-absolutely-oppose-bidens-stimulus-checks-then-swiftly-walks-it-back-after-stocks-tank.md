@@ -30,7 +30,7 @@ related:
   - title: "Biden chief of staff Klain says he expects U.S. COVID-19 deaths to top 500,000 next month"
     excerpt: "U.S. President-elect Joe Biden's incoming chief of staff Ron Klain said on Friday he expects the United States to hit 500,000 COVID-19 deaths next month."
     publishedDateTime: 2021-01-15T18:51:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-klain/update-1-biden-chief-of-staff-klain-says-he-expects-u-s-covid-19-deaths-to-top-500000-next-month-idUSL1N2JQ268"
+    webUrl: "https://www.reuters.com/article/usa-biden-klain/update-1-biden-chief-of-staff-klain-says-he-expects-us-covid-19-deaths-to-top-500000-next-month-idUSL1N2JQ268"
     type: article
     provider:
       name: Reuters

@@ -7,8 +7,8 @@ originalUrl: "https://www.theguardian.com/us-news/video/2021/jan/08/donald-trump
 webUrl: "https://www.theguardian.com/us-news/video/2021/jan/08/donald-trump-recognises-new-administration-after-us-capitol-riot-video"
 type: article
 quality: 103
-heat: -1
-published: false
+heat: 123
+published: true
 
 provider:
   name: The Guardian
@@ -29,51 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Breakthrough reached in Gulf dispute with Qatar: senior Trump administration official"
-    excerpt: "A breakthrough has been reached in Qatar's three-year-old with Saudi Arabia and three other Arab countries and an agreement to end their rift is to be signed in Saudi Arabia on Tuesday, a senior Trump administration official said."
-    publishedDateTime: 2021-01-04T18:43:00Z
-    webUrl: "https://www.reuters.com/article/us-gulf-qatar-usa/breakthrough-reached-in-gulf-dispute-with-qatar-senior-trump-administration-official-idUSKBN29924S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29924S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29924S"
+  - title: "Donald Trump's bitter fight to ban TikTok in the US looks set to fail after administration agrees to delayed legal deadline"
+    excerpt: "Experts say a shift in legal deadline paves the way for President-elect Joe Biden to drop the suit."
+    publishedDateTime: 2021-01-13T17:27:00Z
+    webUrl: "https://www.businessinsider.com/donald-trumps-tiktok-ban-likely-just-ended-with-legal-deadline-2021-1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546576867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0311U"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Pompeo lifts restrictions on U.S.-Taiwan relationship as clock runs out on Trump administration"
-    excerpt: "Secretary of State Mike Pompeo on Saturday said he was lifting restrictions on contacts between U.S. officials and their Taiwanese counterparts, a move likely to anger China and increase tensions between Beijing and Washington in the waning days of President Donald"
-    publishedDateTime: 2021-01-10T12:13:00Z
-    webUrl: "https://www.reuters.com/article/SOMNIA-idUSKBN29E0Q6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 93
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547231457&r=LYNXMPEH080GE&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Trump administration declassifying unconfirmed intel that indicates China offered bounties to attack Americans in Afghanistan, official says"
-    excerpt: "The Trump administration is declassifying intelligence, so far unconfirmed, that indicates China offered bounties to non-state actors to attack American soldiers in Afghanistan, according to a senior administration official."
-    publishedDateTime: 2020-12-31T18:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-administration-declassifying-unconfirmed-intel-china-offered-bounties/story?id=74988333"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-administration-declassifying-unconfirmed-intel-china-offered-bounties/story?id=74988333"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-administration-declassifying-unconfirmed-intel-china-offered-bounties/story?id=74988333"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 90
-    images:
-      - url: "https://s.abcnews.com/images/Politics/afghanistan-01-ht-iwb-201231_1609429730546_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.insider.com/5fff2702a8de7700187d3a0c?width=1200&format=jpeg"
+        width: 921
+        height: 460
         isCached: true
 
 secured: "m9Rx1MyYWExMXPhbYqggq/qR9vNu/JacjU3zrC46faGmOHas1YDJ01PITYdwZOXpsYEmRauu5GGZhUXNohaV2EzwHUCT8AJyYzRbTuQWb9tTF1PObGQ7qzk8aOebLlgl1E8zWdWNZj9Y5g1pUwI974wxbN2647hlCIcK8aK25ok9fNcXPJKXf9d5IO2H8W6YhFlRD+Fc95WWAc6kncdrmURVveB3HfN6iZfHe+mlHkwbV2JIybFc13ZpjUJSSy0Zo6dsWgSzxgO2f19NzHFaRe/is4Yi1qASBxwhHdI29Da6V7wmmvJx47V+f6E1yG6FKVjncG6nDSUhES988tSoW+Pk16T1tD0i9yV2vTLJZ1tUqFgVk7iOX0hOVm3K2wtxwqdFYFQHPxa4/R/rEJ0h7yMZsBPlWpHl+uZr4+/yQRwpy6usxpTzf3FQ9uqXwJ1BpmZyDiX+T41895nIZOcmvFscWviSHDkdmwV5VL/O2m9jbUNROOnxg9KspH2YYvoAaM19d8fM304/opduv0NYJg==;ilKMBbPcQRJXjiw68/qNNA=="

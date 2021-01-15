@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump explodes at Nixon comparisons as he prepares to leave office"
-    excerpt: "In his final days in office, President Donald Trump has found the parts of the job he loved replaced by cold legal warnings, forced video addresses and a shrinking circle of downtrodden aides, all anxiously wondering what life will be like after noon on January 20.\n    \n"
-    publishedDateTime: 2021-01-15T00:32:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7xksFVMWNk0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/donald-trump-presidency-ending/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/donald-trump-presidency-ending/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114092825-02-trump-0112-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "First lady Melania Trump breaks her silence on Capitol riot, then hits back at her critics"
     excerpt: "First lady Melania Trump has broken her silence on the Capitol insurrection incited by her husband in a letter posted on the White House website early Monday morning in which she lashes out at her critics and then condemns the violence.\n    \n"
     publishedDateTime: 2021-01-11T12:02:21Z

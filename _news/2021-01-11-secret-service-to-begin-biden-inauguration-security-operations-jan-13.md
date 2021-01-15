@@ -31,131 +31,209 @@ images:
     isCached: true
 
 related:
-  - title: "Google, Microsoft, Verizon on Biden Inauguration Committee donor list"
-    excerpt: "Google, Microsoft, and Verizon are among President-elect Joe Biden's Inauguration Committee donors."
-    publishedDateTime: 2021-01-10T16:59:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u0gqqBSjynQ/google-microsoft-verizon-biden-inauguration-committee"
-    ampWebUrl: "https://www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp"
+  - title: "Pence calls Vice President-elect Harris offer congratulations ahead of inauguration"
+    excerpt: "Vice President Mike Pence called Vice President-elect Kamala Harris on Thursday to discuss the transition of power to the new Biden administration, Fox News has confirmed. "
+    publishedDateTime: 2021-01-15T20:13:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cmdM1kmIlek/pence-vice-president-elect-harris-congratulations-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-vice-president-elect-harris-congratulations-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-vice-president-elect-harris-congratulations-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 204
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/pence-inaguration-washington-national-guard1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden's 'humane' immigration plan gives green cards to TPS, DACA recipients, Harris says"
+    excerpt: "Vice President-elect Kamala Harris Tuesday said the Biden administration will take a more \"humane\" approach to immigration when the president-elect takes office next week."
+    publishedDateTime: 2021-01-13T11:07:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jzcL2OZrtak/bidens-humane-immigration-plan-gives-green-cards-to-tps-daca-recipients-harris-says"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-humane-immigration-plan-gives-green-cards-to-tps-daca-recipients-harris-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-humane-immigration-plan-gives-green-cards-to-tps-daca-recipients-harris-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 191
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43d8096c-96b6-417b-9e70-d106d78ea892/bc25fb44-5fe3-47a2-9bd7-1ee6ed3cb202/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "VP-elect Harris compares Capitol riots to 2017 'Unite the Right' rally"
+    excerpt: "Vice President-Elect Kamala Harris said Thursday that last week's assault on the U.S. Capitol reminded her of the 2017 \"Unite the Right\" rally in Charlottesville, Va."
+    publishedDateTime: 2021-01-15T19:23:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OqfYO5tVtdE/vp-elect-harris-capitol-riots-charlottesville-unite-the-right"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-elect-harris-capitol-riots-charlottesville-unite-the-right.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-elect-harris-capitol-riots-charlottesville-unite-the-right.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Confederate-Flag-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump expected to travel to Mar-a-Lago on morning of Biden's inauguration: sources"
+    excerpt: "President Trump is expected to travel to his resort at Mar-a-Lago in Florida the morning of Jan. 20 – the day of President-elect Joe Biden’s inauguration – where he is expected to reside after his presidency, Fox News has learned."
+    publishedDateTime: 2021-01-15T14:09:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wiZq2t79FSQ/trump-mar-a-lago-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-mar-a-lago-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mar-a-lago-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Photos show White House being cleared out ahead of Biden inauguration"
+    excerpt: "Photos are emerging of Trump administration staffers moving items out of the White House complex -- including a bust of Abe Lincoln and a stuffed bird -- ahead of President-elect Joe Biden’s inauguration next week. "
+    publishedDateTime: 2021-01-15T15:01:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jgvXcqHeu8I/photos-show-white-house-being-cleared-out"
+    ampWebUrl: "https://www.foxnews.com/politics/photos-show-white-house-being-cleared-out.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/photos-show-white-house-being-cleared-out.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/00e79b30-AP21006762088029.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-zxjs75c-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden: 'Not afraid' to take oath outside amid inauguration security concerns"
-    excerpt: "President-elect Joe Biden says he’s “not afraid” to take the oath of office outside during his inauguration next week."
-    publishedDateTime: 2021-01-11T20:24:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yBbMG1YspiY/inauguration-security-concerns-biden-not-afraid-oath-outside"
-    ampWebUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
+  - title: "Biden picks South Carolina’s Jaime Harrison to steer Democratic Party: sources"
+    excerpt: "Former South Carolina Democratic Party Chair Jaime Harrison has been tapped by President-elect Joe Biden to serve as the next chair of the Democratic National Committee (DNC), two party sources confirm to Fox News."
+    publishedDateTime: 2021-01-14T18:37:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VEMRdGBOYng/biden-picks-south-carolinas-harrison-to-steer-democratic-party"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-picks-south-carolinas-harrison-to-steer-democratic-party.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-picks-south-carolinas-harrison-to-steer-democratic-party.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 171
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Former DHS Secretary Wolf: 'Every trust and confidence' Biden inauguration will be secured"
-    excerpt: "Former Acting Homeland Secretary Chad Wolf praised the security measures around President-elect Joe Biden's inauguration next week in the wake of last week's deadly Capitol riots."
-    publishedDateTime: 2021-01-14T16:41:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pdKb9k6VJYo/former-dhs-secretary-wolf-confidence-biden-inauguration-secured"
-    ampWebUrl: "https://www.foxnews.com/politics/former-dhs-secretary-wolf-confidence-biden-inauguration-secured.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-dhs-secretary-wolf-confidence-biden-inauguration-secured.amp"
+  - title: "FBI internal memo warns of plans for armed protests in all 50 state capitals ahead of Biden inauguration"
+    excerpt: "An internal FBI memo is warning of plans for armed protests in all 50 state capital cities ahead of President-elect Joe Biden’s Inauguration, Fox News has learned."
+    publishedDateTime: 2021-01-11T20:30:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9R-VWkImoHA/fbi-internal-memo-warns-of-plans-for-armed-protests-in-all-50-state-capitals-ahead-of-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/fbi-internal-memo-warns-of-plans-for-armed-protests-in-all-50-state-capitals-ahead-of-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-internal-memo-warns-of-plans-for-armed-protests-in-all-50-state-capitals-ahead-of-biden-inauguration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 158
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed13c8e8-7f56-4ed9-8fea-026027498e79/37ee0fa3-df46-444c-b4d0-43eb1ac81ddb/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Kamala Harris’ top economic advisor is another BlackRock exec"
+    excerpt: "BlackRock is cementing its position as the Biden administration’s go-to Wall Street firm. Vice-President-elect Kamala Harris on Friday said she’s selected BlackRock’s Global Chief Investment"
+    publishedDateTime: 2021-01-08T22:36:00Z
+    webUrl: "https://nypost.com/2021/01/08/kamala-harris-top-economic-advisor-is-another-blackrock-exec/"
+    ampWebUrl: "https://nypost.com/2021/01/08/kamala-harris-top-economic-advisor-is-another-blackrock-exec/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/08/kamala-harris-top-economic-advisor-is-another-blackrock-exec/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2019/12/blackrock-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Why Kamala Harris’ Vogue cover is trending on social media"
+    excerpt: "Kamala Harris is Vogue’s new cover girl — but it isn’t winning her any votes. The vice president-elect appears on the February front of the fashion bible in a set of her own duds"
+    publishedDateTime: 2021-01-10T18:09:00Z
+    webUrl: "https://nypost.com/2021/01/10/why-kamala-harris-vogue-cover-is-trending-on-social-media/"
+    ampWebUrl: "https://nypost.com/2021/01/10/why-kamala-harris-vogue-cover-is-trending-on-social-media/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/10/why-kamala-harris-vogue-cover-is-trending-on-social-media/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/kamala-harris-vogue.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Vogue's Kamala Harris cover sparks social-media frenzy: 'What a mess up'"
+    excerpt: "The cover of February's upcoming issue of Vogue, which features Vice-President-elect Kamala Harris, has been widely criticized on social media."
+    publishedDateTime: 2021-01-10T11:24:00Z
+    webUrl: "https://www.foxnews.com/media/vogues-kamala-harris-cover-sparks-social-media-frenzy-what-a-mess-up"
+    ampWebUrl: "https://www.foxnews.com/media/vogues-kamala-harris-cover-sparks-social-media-frenzy-what-a-mess-up.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/vogues-kamala-harris-cover-sparks-social-media-frenzy-what-a-mess-up.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2265dc7-c2de-4b08-9cea-86b4ebe64632/db6daa92-b888-49ae-a844-b925a3f30557/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Live Updates: Biden inaugural rehearsal rescheduled as security preps in high gear for inauguration"
-    excerpt: "A planned rehearsal of the inauguration, initially scheduled for Sunday, has been moved to Monday as event planners continue to make adjustments in response to the Jan. 6 riot at the Capitol, a report said."
-    publishedDateTime: 2021-01-15T06:05:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wxSTOQHT-jo/live-updates-biden-inauguration-1-15-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-15-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inauguration-1-15-2021.amp"
+  - title: "Liberal media flip out on Vogue over 'disrespectful' Kamala Harris cover"
+    excerpt: "Despite publishing a puff piece and giving its vaunted cover to Vice President-elect Kamala Harris, Vogue is receiving backlash from liberal media outlets for using too casual a picture of the senator from California."
+    publishedDateTime: 2021-01-11T21:31:00Z
+    webUrl: "https://www.foxnews.com/media/liberal-media-flips-out-over-kamala-harris-cover-vogue"
+    ampWebUrl: "https://www.foxnews.com/media/liberal-media-flips-out-over-kamala-harris-cover-vogue.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/liberal-media-flips-out-over-kamala-harris-cover-vogue.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 134
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba7e5f07-7496-4e3c-a336-41ea4058e526/620f28f6-9217-453a-8e38-0b29b9dcd214/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2265dc7-c2de-4b08-9cea-86b4ebe64632/db6daa92-b888-49ae-a844-b925a3f30557/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden: 'Not afraid' to take oath outside amid inauguration security concerns"
-    excerpt: "President-elect Joe Biden says he’s “not afraid” to take the oath of office outside during his inauguration next week."
-    publishedDateTime: 2021-01-11T20:32:00Z
-    webUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside"
-    ampWebUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
+  - title: "Expect Big Things From Harris as Vice President"
+    excerpt: "Vice President-elect Kamala Harris is going to be a major voice in the White House during the next four years, writes Julian Zelizer. As an experienced senator, Harris will be able to help Biden solid"
+    publishedDateTime: 2020-12-08T12:27:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/08/expect_big_things_from_harris_as_vice_president_530775.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 132
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011684189408.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://assets.realclear.com/images/52/528934_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
-  - title: "Joe Biden’s Inauguration: When Is It, and How Has the Covid-19 Pandemic Changed It?"
-    excerpt: "President-elect Joe Biden will be sworn into office on Jan. 20 in a scaled-down inauguration that will look different from past years because of the coronavirus pandemic."
-    publishedDateTime: 2021-01-04T19:28:00Z
-    webUrl: "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
+  - title: "Zero good options to replace Kamala Harris"
+    excerpt: "With Kamala Harris set to become vice president come January, Gov. Gavin Newsom must decide with whom to fill California's Senate vacancy — only the second in nearly three decades. In the bluest state in the union,"
+    publishedDateTime: 2020-12-08T13:59:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/zero-good-options-to-replace-kamala-harris"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 129
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
     images:
-      - url: "https://images.wsj.net/im-280273/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "George W. Bush will attend Biden inauguration to witness 'peaceful transfer of power'"
-    excerpt: "Former President George W. Bush and former first lady Laura Bush will attend President-elect Joe Biden’s inauguration in Washington D.C. later this month."
-    publishedDateTime: 2021-01-06T03:40:00Z
-    webUrl: "https://www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power"
-    ampWebUrl: "https://www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7800ea58-ed83-49bd-bb53-646cbf3599ea/9d505cad-ce21-49db-9435-b8f5d876bd5a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "American Airlines relocates crews, halts alcohol service on DC flights before Biden inauguration"
-    excerpt: "American Airlines is beefing up security measures ahead of Inauguration Day, increasing staffing in Washington, D.C., and relocating crews to hotels closer to airports."
-    publishedDateTime: 2021-01-14T19:40:00Z
-    webUrl: "https://www.foxnews.com/lifestyle/american-airlines-will-relocate-crews-from-dc-wont-serve-alcohol-on-dc-flights-during-inauguration-week"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 102
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AmericanAirlinesFromInsideIstock.jpg"
-        width: 1280
-        height: 721
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/55fa6e1/2147483647/strip/true/crop/2290x1202+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F8d%2F2b%2F08b10149421da82926aba0c29760%2Fgavin-newsom-gop.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "VaravlvZFcXjAK96ccdasrDNrJg6jkOoYEzv7kQnQzQkTOB3+IbuHHWBBGR2Acy9vvd5FvO5DEQmSwVzTGilZ0Xg3mbgfML5ok2XpXOFOr4S+sgGxPzZGlKWw92fjej+B5hDU4tKxGfpILSldFxjZEQAreyPmyb4A60uEPKT7H2ETpmzcV/MmAvIBuZ9zYPAHMBYMzPh3Azf2JX2GsLowyHBlwaLUYzkV1NlubjgbaXWZWXFl03UJZC4ueLtaZHlkKpp5yzVK/6VQkzmecKZ8sO3r9vlPqEIRrSd7+5F7Ydj79l0fbSLeo8D5XD/fsnl2Y8twHfMRkrBYgr6AZZXM0RKamcu4KMAyolAAosmCO0=;SPHi6nAIlB0/DgLzjwdy0A=="

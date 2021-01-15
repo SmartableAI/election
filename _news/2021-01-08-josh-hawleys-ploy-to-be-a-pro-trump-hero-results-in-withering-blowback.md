@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/josh-hawley/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/josh-hawley/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 295
 published: true
 
 provider:
@@ -126,36 +126,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190506103219-brian-kemp-file-12132018-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Trump Tried to End Federal Arts Funding. Instead, It Grew."
-    excerpt: "President Trump’s proposed federal budget eliminated funding for the National Endowment for the Arts. But the agency survived, largely by relying on bipartisan support in Congress."
-    publishedDateTime: 2021-01-15T15:07:00Z
-    webUrl: "https://www.nytimes.com/2021/01/15/arts/trump-arts-nea-funding.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/15/arts/trump-arts-nea-funding.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/15/arts/trump-arts-nea-funding.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/13/arts/13NEA3/13NEA3-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Donald Trump Is the Perfect Leader of the Worst Generation"
-    excerpt: "During the floor debate Wednesday over the second and possibly final impeachment of President Donald Trump, there were references to him being the worst president in American history. Could be. It is worth recalling,"
-    publishedDateTime: 2021-01-14T13:36:00Z
-    webUrl: "https://www.politico.com/news/magazine/2021/01/14/trump-leader-worst-generation-459244"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/13/0d/adcda80f4ce5830d72794c6fa256/210113-trump-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "A0dkT6Nk0cOrJV+V7SF1U76zQElcgTMM09bHbWxJI3+WmjpFvNxDfO0vn5C9VfLzAPhac+8eND2F57QXTbB779Hh+7gFfuTLHoOi1N0yRHRYeiLrDru7119Fl8jxDfKA6PMnXDxqoJkks4Mn8Jwr2lnxyAfJqollMzjbU/t6G+63ZCHXBbUiVyhBIQSRIRCklW9kpSMcGJft5quf8PVZ7IJy9hFj2n8qG/XD+xeeuPQ/tw33SYeVNoVoMuy/70KF/sQ2FudCBWPOY+kddFdt0EO+ARb+YeRE9TwN/ZA4HpVlZs7HCSjgXIB1XxP4QziD2WDG5qeRcbxlaQTjlNptsuD2y8P4EqY+O0L+JDkg+vA=;2J/sOFE5u1QeJ9go+OVeCg=="

@@ -2,6 +2,167 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-13-hogan-calls-gop-delegate-who-attacked-pence-a-q-anon-conspiracy-theorist.md",
+      "title": "Hogan calls GOP delegate who attacked Pence a ‘Q-Anon conspiracy theorist’",
+      "excerpt": "Larry Hogan (R) said Tuesday that a Republican state delegate who organized buses to the #stopthesteal rally in Washington — and called Vice President Pence a traitor during the breach of the Capitol — was a “Q-Anon conspiracy theorist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/md-politics/dan-cox-hogan-qanon/2021/01/12/7d9a3fb8-550d-11eb-a817-e5e7f8a406d6_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/md-politics/dan-cox-hogan-qanon/2021/01/12/7d9a3fb8-550d-11eb-a817-e5e7f8a406d6_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YKBUGEEW5UI6VB5DELJSII2WGY.jpg&w=1440",
+          "width": 1440,
+          "height": 983,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/md-politics/dan-cox-hogan-qanon/2021/01/12/7d9a3fb8-550d-11eb-a817-e5e7f8a406d6_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/md-politics/dan-cox-hogan-qanon/2021/01/12/7d9a3fb8-550d-11eb-a817-e5e7f8a406d6_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-12T19:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-kamala-harris-vogue-cover-defended-by-anna-wintour-amid-controversy.md",
+      "title": "Kamala Harris' Vogue cover defended by Anna Wintour amid controversy",
+      "excerpt": "Vogue editor-in-chief Anna Wintour has spoken out after the magazine's cover shoot featuring Vice President-elect Kamala Harris received backlash.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/kamala-harris-vogue-cover-defended-anna-wintour-controversy",
+      "originalUrl": "https://www.foxnews.com/entertainment/kamala-harris-vogue-cover-defended-anna-wintour-controversy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Kamala-Harris-Anna-Wintour.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/kamala-harris-vogue-cover-defended-anna-wintour-controversy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/kamala-harris-vogue-cover-defended-anna-wintour-controversy.amp",
+      "publishedDateTime": "2021-01-12T17:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-watch-live-pence-dismisses-25th-amendment-as-house-votes-to-encourage-its-use.md",
+      "title": "Watch Live: Pence dismisses 25th Amendment as House votes to encourage its use",
+      "excerpt": "Pence said it's his belief the 25th Amendment is intended to be invoked when the president is incapacitated, not in a situation such as this, and said invoking the 25th Amendment",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/",
+      "originalUrl": "https://www.cbsnews.com/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/12/de23e810-62d0-43b0-8b13-589424e1b945/thumbnail/1200x630/6214aa2691335ea4d178b0de0ddd311b/gettyimages-1230536583.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/",
+      "publishedDateTime": "2021-01-12T17:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-biden-campaign-bundlers-to-score-senior-white-house-positions.md",
       "title": "Biden campaign bundlers to score senior White House positions",
       "excerpt": "At least eight top Biden campaign bundlers will be appointed or nominated to senior White House positions, according to a Fox News count. ",
@@ -126,7 +287,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 395,
+      "heat": 375,
       "tags": null,
       "images": [
         {
@@ -223,58 +384,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-trumps-secret-service-detail-could-be-subpoenaed-to-testify-against-him-in-criminal-proceedings-and-former-agents-are-stressed-about-it.md",
-      "title": "Trump's Secret Service detail could be subpoenaed to testify against him in criminal proceedings and former agents are stressed about it",
-      "excerpt": "President Donald Trump's security detail could face subpoenas in future legal proceedings. Former agents worry that will make him harder to protect.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/secret-service-agents-testify-trump-criminal-courts-nixon-clinton-lewinsky-2021-1",
-      "originalUrl": "https://www.businessinsider.com/secret-service-agents-testify-trump-criminal-courts-nixon-clinton-lewinsky-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ffe06cefe7e140019f7e88b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T13:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -558,58 +667,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-bette-midler-says-donald-trump-will-burn-down-the-white-house-before-he-leaves.md",
-      "title": "Bette Midler Says Donald Trump Will 'Burn Down' The White House Before He Leaves",
-      "excerpt": "\"How many more will die in the service of this mediocrity? And watch, he'll burn the WH down before he goes,\" Midler tweeted Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892",
-      "originalUrl": "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1673938/bette-midler.jpg",
-          "width": 3000,
-          "height": 2023,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1",
-      "publishedDateTime": "2021-01-12T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-12-easy-for-joe-biden-to-heal-country-with-opposition-silenced-on-social-media-dave-rubin.md",
       "title": "Easy for Joe Biden to 'heal' country with opposition silenced on social media: Dave Rubin",
       "excerpt": "Big Tech censorship of President Trump and conservatives needs to be addressed now, or soon everyone will be silenced, Dave Rubin warned Tuesday.",
@@ -890,7 +947,7 @@
       "originalUrl": "https://www.ibtimes.com/barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-fake-report-3119646",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -942,7 +999,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1090,21 +1147,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-12-that-time-kamala-harris-flew-on-trumps-private-plane-and-more-from-her-biographer.md",
-      "title": "That time Kamala Harris flew on Trump’s private plane, and more from her biographer",
-      "excerpt": "Author Dan Morain answers queries about his new book on Kamala Harris, like why she's an only-in-California politician and what to expect from her as vice president.",
+      "path": "_news/2021-01-12-former-white-house-spokesman-hogan-gidley-says-trump-is-the-most-masculine-president-in-us-history.md",
+      "title": "Former White House spokesman Hogan Gidley says Trump is the 'most masculine' president in US history",
+      "excerpt": "This came after Fox News host Bill Hemmer asked Gidley if Trump felt \"emasculated\" by the recent \"social media crackdown.\"",
       "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/story/2021-01-11/that-time-kamala-harris-flew-on-trumps-private-plane-and-more-from-new-book",
-      "originalUrl": "https://www.latimes.com/politics/story/2021-01-11/that-time-kamala-harris-flew-on-trumps-private-plane-and-more-from-new-book",
+      "webUrl": "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1",
+      "originalUrl": "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1114,
+      "heat": 110,
       "tags": null,
       "images": [
         {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/ad02f72/2147483647/strip/true/crop/3000x1959+0+20/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff6%2F01%2Fcbd4b15d41a6962baf92c78dbb80%2Fdhs-acting-secretary-immigration-63532.jpg",
-          "width": 320,
-          "height": 209,
+          "url": "https://i.insider.com/5ffcc49fbde805001980c448?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1112,16 +1169,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.latimes.com/politics/story/2021-01-11/that-time-kamala-harris-flew-on-trumps-private-plane-and-more-from-new-book?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-11/that-time-kamala-harris-flew-on-trumps-private-plane-and-more-from-new-book?_amp=true",
-      "publishedDateTime": "2021-01-11T14:45:00-08:00",
+      "ampWebUrl": "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1?amp",
+      "publishedDateTime": "2021-01-11T14:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1138,7 +1195,59 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-business-grows-skittish-about-trump-and-gop-after-riots.md",
+      "title": "Business grows skittish about Trump and GOP after riots",
+      "excerpt": "Corporate America is quickly distancing itself from President Donald Trump and his Republican allies, with many of the biggest names in business — Goldman Sachs, Coca Cola, Ford, and Blue Cross Blue Shield — suspending political donations after a Trump-inspired mob ransacked the U.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/wall-street-distances-trump-gop-riots-75178316",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/wall-street-distances-trump-gop-riots-75178316",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 365,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_eea37b12d40e40e589e76134df53aa03_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/wall-street-distances-trump-gop-riots-75178316",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/wall-street-distances-trump-gop-riots-75178316",
+      "publishedDateTime": "2021-01-11T14:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1227,118 +1336,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/exclusive-pamela-anderson-trump-pardon-julian-assange.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/exclusive-pamela-anderson-trump-pardon-julian-assange.amp",
       "publishedDateTime": "2021-01-11T11:49:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-angela-merkel-rips-twitters-problematic-trump-ban.md",
-      "title": "Angela Merkel rips Twitter's 'problematic' Trump ban",
-      "excerpt": "German Chancellor Angela Merkel considers President Donald Trump's eviction from Twitter by the company \"problematic,\" her spokesman said Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lW-T3bm5Wzc/angela-merkel-rips-twitters-problematic-trump-ban",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lW-T3bm5Wzc/angela-merkel-rips-twitters-problematic-trump-ban",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP20365599203324.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/angela-merkel-rips-twitters-problematic-trump-ban.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/angela-merkel-rips-twitters-problematic-trump-ban.amp",
-      "publishedDateTime": "2021-01-11T11:33:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-cuomo-de-blasio-are-banking-on-a-bailout-from-biden-while-lockdowns-are-in-effect-gasparino.md",
-      "title": "Cuomo, De Blasio are 'banking on a bailout from Biden' while lockdowns are in effect: Gasparino",
-      "excerpt": "New York Gov. Andrew Cuomo and New York City Mayor Bill de Blasio are prolonging the shutdown of New York because they are expecting a bailout from the incoming Biden administration and the Democrat-controlled Congress.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oAywkfxC_k8/cuomo-de-blasio-banking-bailout-biden-while-lockdowns-gasparino",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oAywkfxC_k8/cuomo-de-blasio-banking-bailout-biden-while-lockdowns-gasparino",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-de-blasio-banking-bailout-biden-while-lockdowns-gasparino.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-de-blasio-banking-bailout-biden-while-lockdowns-gasparino.amp",
-      "publishedDateTime": "2021-01-11T10:53:07-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -686,34 +686,6 @@ related:
         width: 750
         height: 562
         isCached: true
-  - title: "Expect Big Things From Harris as Vice President"
-    excerpt: "Vice President-elect Kamala Harris is going to be a major voice in the White House during the next four years, writes Julian Zelizer. As an experienced senator, Harris will be able to help Biden solid"
-    publishedDateTime: 2020-12-08T12:27:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/08/expect_big_things_from_harris_as_vice_president_530775.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/528934_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Zero good options to replace Kamala Harris"
-    excerpt: "With Kamala Harris set to become vice president come January, Gov. Gavin Newsom must decide with whom to fill California's Senate vacancy — only the second in nearly three decades. In the bluest state in the union,"
-    publishedDateTime: 2020-12-08T13:59:00Z
-    webUrl: "https://www.washingtonexaminer.com/opinion/zero-good-options-to-replace-kamala-harris"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 65
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/55fa6e1/2147483647/strip/true/crop/2290x1202+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F8d%2F2b%2F08b10149421da82926aba0c29760%2Fgavin-newsom-gop.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "A98QNnOhgN8moIxkzq9oAi1hiJtRiQRZIgPQxlypMe/L26w78fazep9q3gDoIhNcfdcES/8BAsefAEwQE0SbLVNtP7IPmCtFz1pipcDTPucFcy/9LhAJWO57bURjFUfI3f/5ZxYHKyZumP74N+uZ0VTs7XEkT5/WjD2MPCXyOzeFYWR0tPFoMSSw+P+p9N+Lu0dLnMILtXpbXs8NcBXRIk/9+3tH6A0Oo2lelE+WDrkT11mEtOc4kLqKJCLAqZUyx6ZqvHqwOv20ClLuPxEMPVq4dIKTWNnH0iK+j6xyBA6M9gI0j/mJ/ZbQ5oqhClbtgFqrd7+/DYsIG/t2VRfoTF6Pe37q8Uk/pF5OR453vRvEFXt8G2saLWcCUZ1T/HaVANt8sigMyxKFD2BSfg0Ee3B6e1GNA4eZKb9F7DowK0yjdom15+ppwZwydivtGAhJBkmPKxanfZO5VV/N36OF8E4gNikk9yJKDf4fXCTmN5kSUBnORRyoVOwUGy3vU7wS/eWAjcrOMFCnkvw+PfXf/Q==;7a/bSyGkwN7aLo5CJHNHiQ=="
 ---

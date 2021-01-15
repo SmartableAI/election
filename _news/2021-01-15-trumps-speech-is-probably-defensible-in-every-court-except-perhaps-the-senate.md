@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Abandon Trump? Deep in the G.O.P. Ranks, the MAGA Mind-Set Prevails"
+    excerpt: "As President Trump prepares to exit the White House, his ideas, including falsehoods and conspiracy theories, continue to exert a gravitational pull among grass-roots G.O.P. officials."
+    publishedDateTime: 2021-01-14T20:56:00Z
+    webUrl: "https://www.nytimes.com/2021/01/14/us/politics/trump-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/14/us/politics/trump-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/14/us/politics/trump-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/14/us/politics/14gop-states2/14gop-states2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump conviction faces uphill climb in Senate. It could all come down to McConnell."
     excerpt: "Senators are not expected to consider the House impeachment resolution until Tuesday, the day before President-elect Joe Biden takes office."
     publishedDateTime: 2021-01-14T08:22:00Z

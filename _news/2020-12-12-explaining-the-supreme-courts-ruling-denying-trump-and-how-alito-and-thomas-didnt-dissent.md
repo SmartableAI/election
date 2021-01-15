@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/texas-pennsylvania-supre
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/texas-pennsylvania-supreme-court-alito-thomas-explained/index.html"
 type: article
 quality: 165
-heat: 265
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,21 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Supreme Court throws out challenge to Trump's plan to exclude undocumented immigrants from census count"
-    excerpt: "The Supreme Court on Friday threw out a challenge to President Donald Trump's bid to exclude undocumented immigrants from being counted when seats in Congress are divvied up between the states next year.\n    \n"
-    publishedDateTime: 2020-12-18T16:23:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N5wnCqzRAuA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/18/politics/supreme-court-census-undocumented-immigrants/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/supreme-court-census-undocumented-immigrants/index.html"
+  - title: "Trump asked Ted Cruz to argue Texas election lawsuit if it reaches Supreme Court"
+    excerpt: "President Donald Trump personally asked Republican Sen. Ted Cruz of Texas if he would argue a long-shot election lawsuit seeking to overturrn the election results in four battleground states, should the Supreme Court agree to take it up, two sources told CNN on Wednesday.\n    \n"
+    publishedDateTime: 2020-12-10T02:29:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HcIORmwVZHw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 159
+    quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217193803-supreme-court-201212-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013140500-14-barrett-hearing-1013-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "The Texas attorney general taking Trump's voter fraud conspiracies to the Supreme Court"
+    excerpt: "Texas Attorney General Ken Paxton, who has fought in the courts for President Donald Trump's causes before, has emerged as one of the final defenders of the President's baseless claims of voter fraud in hopes of overturning the election.\n    \n"
+    publishedDateTime: 2020-12-10T19:20:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5R8RCnECLqM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/texas-attorney-general-ken-paxton-supreme-court-case/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/texas-attorney-general-ken-paxton-supreme-court-case/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210093404-texas-ag-ken-paxton-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "What the Electoral College vote means for Trump and Biden"
+    excerpt: "All 50 states have already certified their election results ensuring that Joe Biden will be the 46th president, but the Electoral College vote makes the result official. Trump and some Republican had sought to have electors removed in four crucial battleground states,"
+    publishedDateTime: 2020-12-13T16:06:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/what-electoral-college-vote-means-trump-biden-n1250595"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250595"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250595"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434930/201210-electoral-count-congress-2013-ac-606p_ea22e3050be6b29ce9da3ad45ea6fbfa.jpg"
+        width: 2500
+        height: 1513
+        isCached: true
+  - title: "Ivanka Trump deposed Tuesday as part of inauguration fund lawsuit"
+    excerpt: "The suit claims the Inaugural Committee made improper payments to the president's Washington hotel during the week of the inauguration in 2017."
+    publishedDateTime: 2020-12-03T04:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/ivanka-trump-deposed-tuesday-part-inauguration-fund-lawsuit-n1249801"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249801"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249801"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_49/3432810/201102-ivanka-trump-2019-ac-1126p_7da6c574be0e91121b1a867b96447b62.jpg"
+        width: 2500
+        height: 1658
+        isCached: true
+  - title: "Biden Transition Live Updates: Anticipation Growing for the Supreme Court to Act on Texas Election Suit"
+    excerpt: "The Electoral College votes for president will be cast Monday. The Justice Department’s inquiry into Hunter Biden may hang over Joe Biden as he assumes office."
+    publishedDateTime: 2020-12-11T14:30:00Z
+    webUrl: "https://www.nytimes.com/live/2020/12/11/us/joe-biden-trump"
+    ampWebUrl: "https://www.nytimes.com/live/2020/12/11/us/joe-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/11/us/joe-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/11transition-briefing-scotus/11transition-briefing-scotus-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Supreme Court puts off ruling on Trump census case to exclude undocumented immigrants"
     excerpt: "The administration had asked the justices to fast-track a decision before it must report the numbers to Congress."
@@ -62,52 +126,6 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3435583/201214-census-protest-supreme-court-se-1040a_75e731785be9870c623e6f900274f51e.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Supreme Court throws out challenge to Trump census plan to exclude undocumented immigrants"
-    excerpt: "This case is riddled with contingencies and speculation,” the court said in a short, unsigned opinion, referring to the states' challenge."
-    publishedDateTime: 2020-12-20T00:59:00Z
-    webUrl: "https://www.nbcnews.com/politics/supreme-court/win-trump-supreme-court-throws-out-challenge-his-census-plan-n1251698"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251698"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251698"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 125
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_36/3306571/200413-census-poster-coronavirus-ac-505p_ae7532cbbf8350ffcd49b8f899c75c2a.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "In win for Trump, Supreme Court throws out challenge to his census plan to exclude undocumented immigrants"
-    excerpt: "This case is riddled with contingencies and speculation,” the court said in a short, unsigned opinion, referring to the states' challenge."
-    publishedDateTime: 2020-12-18T15:49:00Z
-    webUrl: "https://www.nbcnews.com/politics/supreme-court/win-trump-supreme-court-throws-out-challenge-his-census-plan-n1251698"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251698"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251698"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 117
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_36/3306571/200413-census-poster-coronavirus-ac-505p_ae7532cbbf8350ffcd49b8f899c75c2a.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Gingrich among Trump loyalists named to Pentagon advisory board"
-    excerpt: "Chief among the new board appointees is former House Speaker Newt Gingrich, an ally of President Donald Trump. | Paul Morigi/ for Dentons The Pentagon named eight new members to the Defense Policy Board on Monday,"
-    publishedDateTime: 2020-12-14T18:58:00Z
-    webUrl: "https://www.politico.com/news/2020/12/14/newt-gingrich-pentagon-advisory-board-445185"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/85/3f/ee01a5bd4597a648457f363a970e/201214-newt-gingrich-gty-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "G/O13gIfWRy0M+atU8XLufYCLvs4ExQwZrdYYvdzlFFU3DKd2kzGI6AJgLXZ9azs7yYOSC3oZsAIMHY8/F/GIzOzvmr0pwA6oqVbdMHSqj8RIlbG9tGVhJRnAw/AlMFySGsOrqZv7KZEG8SyVvbYTpfIx8M0OcdrxE+aQ0n1CCyinFyA9qCPUuedHghfxLL7PcEonhYySyvfsi0fPX48d9W7LzHFEKmM3F07G+tUjakgc/ounIKuyINMOexPMhSLvzkjbNIdYoTHF3GoYqkJSKBPEhV87iO4wgzK+M5b8Q+Dim1FgBVx9LzlQfh6cu/4MqgHIf11OxZsMRWRsbX9yP1oh76OgB3z2T5D3m6hxgI=;PeLvq7hrUlI7ywMWZl0Dhg=="

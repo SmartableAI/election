@@ -49,22 +49,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Lady Gaga, Jennifer Lopez to headline Biden-Harris inauguration"
-    excerpt: "Lady Gaga and Jennifer Lopez will headline President-elect Joe Biden's and Vice President-elect Kamala Harris' swearing-in ceremony, the Presidential Inaugural Committee announced on Thursday.\n    \n"
-    publishedDateTime: 2021-01-14T13:00:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qSz25uU5Cc4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/lady-gaga-jennifer-lopez-biden-harris-inauguration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/lady-gaga-jennifer-lopez-biden-harris-inauguration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 200
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114072538-jennifer-lopez-lady-gaga-file-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden and Harris to campaign in Georgia in final days before Senate run-offs"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris are poised to make a final push in Georgia ahead of the state's high stakes Senate run-off elections next week.\n    \n"
     publishedDateTime: 2020-12-30T10:30:30Z
@@ -321,22 +305,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden intends to name Jaime Harrison as his pick for DNC chair"
-    excerpt: "President-elect Joe Biden intends to name Jaime Harrison, the former South Carolina Democratic Party chair and 2020 Senate candidate, to be the next chair of the Democratic National Committee, Democrats familiar with the decision tell CNN.\n    \n"
-    publishedDateTime: 2021-01-14T19:51:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3KB-bTnoRjs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/jaime-harrison-dnc-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/jaime-harrison-dnc-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114142545-jaime-harrison-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "GOP leadership rejects resolution acknowledging Biden as President-elect"
     excerpt: "Congressional Republican leaders on Tuesday rejected a resolution that asserted that Joe Biden is President-elect, the latest refusal by the GOP on Capitol Hill to accept the election results even though it's been clear for weeks that President Donald Trump lost.\n    \n"
     publishedDateTime: 2020-12-08T18:31:22Z
@@ -432,22 +400,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201134328-neera-tanden-biden-economic-team-1201-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Biden, Harris to receive daily briefing, Trump to hold award ceremony, bill signing"
-    excerpt: "Biden and Harris also will record an interview with CNN, while Trump will present the medal to former football coach Lou Holtz and participate in a bill signing."
-    publishedDateTime: 2020-12-03T12:44:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-harris-receive-daily-briefing-trump-hold-award-ceremony-bill-n1249818"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249818"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249818"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 159
-    images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202012/n_bwms_a2_201202_1920x1080.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Biden introducing health team as Trump holds Covid vaccine summit"
     excerpt: "WASHINGTON — President-elect Joe Biden and President Donald Trump will hold dueling health care-related events Tuesday as the coronavirus pandemic continues to intensify nationwide. Biden and Vice President-elect Kamala Harris will formally introduce their nominees and appointees for their health team in the afternoon in Wilmington,"

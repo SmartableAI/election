@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump and Barr had 'contentious' White House meeting this week"
+    excerpt: "President Donald Trump and Attorney General William Barr had a \"contentious,\" lengthy meeting inside the West Wing this week after Barr told The Associated Press in an interview that the Justice Department had uncovered no evidence of fraud that would change the election outcome, one person familiar"
+    publishedDateTime: 2020-12-03T16:20:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zNwL_Szchuo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/trump-william-barr-attorney-general/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-william-barr-attorney-general/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201225050-trump-barr-split-1201-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump held multiple calls with Pennsylvania House speaker on state's electoral process "
     excerpt: "President Donald Trump spoke on multiple occasions over the past week with the speaker of the House in Pennsylvania about the Keystone State's election results, inquiring about their electoral process, a spokesman for the lawmaker said.\n    \n"
     publishedDateTime: 2020-12-08T04:55:33Z

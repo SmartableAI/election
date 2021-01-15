@@ -31,98 +31,183 @@ images:
     isCached: true
 
 related:
-  - title: "Trump impeachment: House to debate charge of 'incitement of insurrection' – live"
-    excerpt: "Third-ranking GOP member in House, Liz Cheney, says she’ll vote to impeach"
-    publishedDateTime: 2021-01-13T08:43:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates"
+  - title: "Business grows skittish about Trump and GOP after riots"
+    excerpt: "Corporate America is quickly distancing itself from President Donald Trump and his Republican allies, with many of the biggest names in business — Goldman Sachs, Coca Cola, Ford, and Blue Cross Blue Shield — suspending political donations after a Trump-inspired mob ransacked the U."
+    publishedDateTime: 2021-01-11T22:09:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_eea37b12d40e40e589e76134df53aa03_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The symbols of hate and far-right extremism on display in pro-Trump Capitol siege"
+    excerpt: "Trump mob stormed the U.S. Capitol, symbols of white supremacy and extremist right wing militias were displayed by some rioters on flags, banners and clothing."
+    publishedDateTime: 2021-01-14T15:01:00Z
+    webUrl: "https://abcnews.go.com/US/symbols-hate-extremism-display-pro-trump-capitol-siege/story?id=75177671"
+    ampWebUrl: "https://abcnews.go.com/amp/US/symbols-hate-extremism-display-pro-trump-capitol-siege/story?id=75177671"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/symbols-hate-extremism-display-pro-trump-capitol-siege/story?id=75177671"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 120
     images:
-      - url: "https://i.guim.co.uk/img/media/1924f7164024fd4fd5517a5bb4f348f5beed8b7e/613_82_1756_1054/master/1756.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3a0da34bddd66480ad9b5a5a456b8fba"
-        width: 600
-        height: 360
+      - url: "https://s.abcnews.com/images/Politics/donald-trump-mob-01-gty-llr-210112_1610481114245_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "House Democrats unveil ‘incitement of insurrection’ impeachment charge against Trump"
-    excerpt: "As the House prepares for impeachment, President Donald Trump faces a single charge — “incitement of insurrection” — over the deadly riot at the U.S. Capitol."
-    publishedDateTime: 2021-01-11T16:46:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html?outputType=amp"
+  - title: "For those who quit Trump after riot, critics say it’s too little — and four years too late"
+    excerpt: "The violent insurrection at the U.S. Capitol incited by the president set off a dramatic wave of resignations and attempts at distancing among administration officials and longtime advisers."
+    publishedDateTime: 2021-01-15T16:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-quit-riot/2021/01/14/a12a3d86-54ed-11eb-a817-e5e7f8a406d6_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-quit-riot/2021/01/14/a12a3d86-54ed-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-quit-riot/2021/01/14/a12a3d86-54ed-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 118
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
     images:
-      - url: "https://www.chicagotribune.com/resizer/a4ZU_ph4DDjjkI1r7Y8KG-e-6MY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I27GQJSG55AG7DPH5SFIEL4JZE.JPG"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3Q5DEDBOQAI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Republican senator calls Trump impeachment 'appropriate' as focus shifts to Senate – live"
-    excerpt: "Trump’s impeachment in the House triggers a trial in the Senate, which McConnell says can’t begin until Senate is back in session"
-    publishedDateTime: 2021-01-14T22:35:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates?page=with:block-6000c5448f08f56eefd20fb6"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 116
-    images:
-      - url: "https://i.guim.co.uk/img/media/d6a434cb96b042551370faaa1242a3eb1a2b426c/0_74_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86464133e853da2e6dd68d48d008dc1e"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Trump may turn to Giuliani again to defend against impeachment"
-    excerpt: "President Donald Trump may turn to Rudy Giuliani to defend him against possible impeachment over his role in last week’s violent siege of the U.S. Capitol, according to two people familiar with the matter."
-    publishedDateTime: 2021-01-11T07:11:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-lawyers-idUKKBN29F0NB"
+  - title: "Factbox: Trump tweets attacked leaders and businesses"
+    excerpt: "Here are some of the most notable of Donald Trump's 26,000 tweets as president, or on average 18 a day as president. Trump often engaged in name calling, misstated facts in tweets and attacked businesses or political rivals."
+    publishedDateTime: 2021-01-09T08:32:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-twitter-factbox-idUSKBN29E022"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547312528&r=LYNXMPEH090GM&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547180157&r=LYNXMPEH0800X&w=800"
         width: 800
-        height: 533
+        height: 484
         isCached: true
-  - title: "Twitter permanently suspends Trump's account, cites 'incitement of violence' risk"
-    excerpt: "Twitter Inc said on Friday that it has permanently suspended U.S. President Donald Trump's account due to the risk of further incitement of violence following the storming of the U.S. Capitol on Wednesday."
-    publishedDateTime: 2021-01-09T08:32:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-twitter/twitter-permanently-suspends-trumps-account-cites-incitement-of-violence-risk-idUKKBN29D359"
+  - title: "Trump administration takes final swipes at China and its companies"
+    excerpt: "The Trump administration in its waning days took another swipe at China and its biggest firms on Thursday, imposing sanctions on officials and companies for alleged misdeeds in the South China Sea and imposing an investment ban on nine more firms."
+    publishedDateTime: 2021-01-15T08:47:00Z
+    webUrl: "https://www.reuters.com/article/usa-china/update-8-trump-administration-takes-final-swipes-at-china-and-its-companies-idUSL1N2JP1Z0"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 100
+    quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547172914&r=LYNXMPEH0800P&w=800"
-        width: 799
-        height: 576
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547808818&r=LYNXMPEH0D121&w=800"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Twitter Slams Sen. Tim Scott For Opposing Donald Trump's Impeachment: It's 'Necessary For Healing'"
-    excerpt: "Twitter users do not agree with Sen. Tim Scott’s move to oppose Donald Trump's impeachment because they believe the POTUS' actions should have consequences."
-    publishedDateTime: 2021-01-13T01:44:00Z
-    webUrl: "https://www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317"
-    ampWebUrl: "https://www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317?amp=1"
+  - title: "Outgoing Trump admin OKs land swap for Rio Tinto's Arizona copper mine"
+    excerpt: "U.S. President Donald Trump's outgoing administration approved a land swap on Friday for a Rio Tinto Ltd copper mine in Arizona that would boost domestic production of the red metal but destroy sites sacred to Native Americans."
+    publishedDateTime: 2021-01-15T18:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-mining-resolution/outgoing-trump-admin-oks-land-swap-for-rio-tintos-arizona-copper-mine-idUSKBN29K22P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547952986&r=LYNXMPEH0E151&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "After Capitol rampage, Pelosi calls on Trump to resign and Twitter deletes his account"
+    excerpt: "House Speaker Nancy Pelosi on Friday called on President Donald Trump to resign and Twitter permanently suspended his account citing a risk that he could incite more violence, two days after a crowd of Trump supporters stormed the U."
+    publishedDateTime: 2021-01-09T04:54:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election/after-capitol-rampage-pelosi-calls-on-trump-to-resign-and-twitter-deletes-his-account-idUKKBN29D1IE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 97
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547098549&r=LYNXMPEH070OG&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "White House denies reports Trump will be in Scotland during inauguration, after Scottish leader warns golf is not essential travel"
+    excerpt: "The speculation began with curious activity by U.S. military aircraft reported circling President Trump's Turnberry golf resort in western Scotland in November. Then the Sunday Post in Scotland reported that Glasgow Prestwick Airport “has been told to expect the arrival of a US military Boeing 757 aircraft,"
+    publishedDateTime: 2021-01-05T22:42:00Z
+    webUrl: "https://www.washingtonpost.com/world/europe/trump-scotland-golf-turnberry-inauguration/2021/01/05/0218037e-4f64-11eb-a1f5-fdaf28cfca90_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/europe/trump-scotland-golf-turnberry-inauguration/2021/01/05/0218037e-4f64-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/europe/trump-scotland-golf-turnberry-inauguration/2021/01/05/0218037e-4f64-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 95
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CKAA5DCPPAI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Letter to Jack Dorsey from Twitter employees asking to permanently suspend Donald Trump's account"
+    excerpt: "In a letter to Twitter CEO Jack Dorsey and other top executives, employees ask the company to permanently suspend Donald Trump and investigate Twitter's role in the attack on the U.S. Capitol."
+    publishedDateTime: 2021-01-08T21:40:00Z
+    webUrl: "https://www.washingtonpost.com/context/letter-to-jack-dorsey-from-twitter-employees-asking-to-permanently-suspend-donald-trump-s-account/d9b84fa1-c7cb-4c5b-a90a-fdf167ff0c7a/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 92
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BTTBYKCFQII6XLBKHLAPFOGO5M.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 989
+        isCached: true
+  - title: "Wall Street distances itself from Trump, GOP after storming of Capitol. ‘We will not support candidates who do not respect the rule of law.’"
+    excerpt: "A growing number of Wall Street banks and businesses have cut ties with President Donald Trump’s campaign and financial arms, as well as the broader Republican Party, following last week’s riots and insurrection at the U."
+    publishedDateTime: 2021-01-11T16:58:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-capitol-insurrection-trump-corporations-20210111-xho5ho3babfu3hm5gumffydvai-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-capitol-insurrection-trump-corporations-20210111-xho5ho3babfu3hm5gumffydvai-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-capitol-insurrection-trump-corporations-20210111-xho5ho3babfu3hm5gumffydvai-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 90
+    images:
+      - url: "https://www.chicagotribune.com/resizer/U-S-V3YyQTOVXBG3OrevWyK-d8g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VVBXHIRERVB6DGESUS6DGCDDWA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Most Americans Want Trump Gone From Politics, Poll Says"
+    excerpt: "A slim majority of Americans want to see Trump charged with the incitement of the mob that attacked the Capitol Building, which would bar him from holding public office if convict"
+    publishedDateTime: 2021-01-15T15:21:00Z
+    webUrl: "https://www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261"
+    ampWebUrl: "https://www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 61
+    quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/us-president-donald-trump-says-impeachment-is-causing.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/us-president-donald-trump-owns-the-unfortunate-distinction.jpg"
         width: 1024
-        height: 684
+        height: 682
         isCached: true
+  - title: "Trump nominates north Alabama business leader to TVA board"
+    excerpt: "President Donald Trump has nominated a north Alabama business leader to serve on the TVA board of directors to complete the term of the board chairman Trump fired last year. Rick Roden, president and CEO of the Mountain Lakes Chamber of Commerce in Scottsboro,"
+    publishedDateTime: 2021-01-04T23:35:00Z
+    webUrl: "https://www.al.com/news/2021/01/north-alabama-business-leader-nominated-by-trump-to-tva-board.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/north-alabama-business-leader-nominated-by-trump-to-tva-board.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/north-alabama-business-leader-nominated-by-trump-to-tva-board.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 55
 
 secured: "4Rs+fNdpeGE4PXUXpsG7IzQdSXGTxH797/05dtU2QJlnZQxdnaJCfEeCqBYPLHx5mTx/F0lt+swKQG3S92F6W+48BEopJcr+gM4DKiy4Fj1kpf5F9ghRMlxA2tP7pWcrnrjXwPg44h0twTODy686fnD6K+JvMpxiYvcllBtXb6E9E5gJvUuDQGQn22gGjlJ3BUIGJiIpP1OCqjmLks1Q+fILoHr5bDSHWeZKtxuStz1QvqYBVkoxw87sJKlSWNQeJYEzYaj/892mQsBYbRUsn611YY4ZUuZxfmbtRon4DQCB/vIh9N2iojc8u7iL6MIEJaFe86EVkJQF9oKfu9J6d+Kz/c1E+RzzY6nslyzHArnCZGsz6M1uRdj63JbcHQyibsbNUXsnBHAi73Z6eE1m25detK2+qri5YeyroTnzkUaF0g+c+9bT3BwQHrCR/o3Fuev1ympIjq9/j6f0tNfKrcb9dppG4YW5eaVw6Bq8syzrwW9tbIAUTMAEJpmcKDp/6fYS1LQH0eSILBN9RCUb9w==;I+Q+nsVI/zjHTGrBDf2MCg=="
 ---

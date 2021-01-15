@@ -47,6 +47,38 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Trump awards Medals of Freedom to three golfers on morning after riot at Capitol"
+    excerpt: "Annika Sorenstam, Gary Player and the late Babe Zaharias were awarded Presidential Medals of Freedom Thursday, continuing the president's penchant for awarding athletes."
+    publishedDateTime: 2021-01-08T00:59:00Z
+    webUrl: "https://www.washingtonpost.com/sports/2021/01/07/trump-medals-of-freedom-gary-player-annika-sorenstam-babe-zaharias/"
+    ampWebUrl: "https://www.washingtonpost.com/sports/2021/01/07/trump-medals-of-freedom-gary-player-annika-sorenstam-babe-zaharias/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/sports/2021/01/07/trump-medals-of-freedom-gary-player-annika-sorenstam-babe-zaharias/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NXZKUKSMVII6XF5WJ247OL7UNM.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
+  - title: "House and Senate abruptly go into recess after Trump-supporting rioters storm the Capitol building"
+    excerpt: "Violence erupted as Trump supporters descended on the nation's capital to protest the certification of Joe Biden's election victory."
+    publishedDateTime: 2021-01-07T06:35:00Z
+    webUrl: "https://www.businessinsider.com/house-senate-go-into-recess-amid-trump-supporter-protests-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/house-senate-go-into-recess-amid-trump-supporter-protests-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-senate-go-into-recess-amid-trump-supporter-protests-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5ff6185f6d61c10019cce01a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump's kids won't lose their 5th Amendment rights and be forced to testify against him if they're pardoned, experts say"
     excerpt: "A presidential pardon isn't enough to mean that someone can't plead the Fifth Amendment and refuse to testify, according to criminal law experts."
     publishedDateTime: 2020-12-31T20:20:00Z
@@ -62,6 +94,20 @@ related:
       - url: "https://i.insider.com/5fee20ee9ff41f001883f9bc?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "'People Are Just Trying to Land the Airplane.' White House Staff Packs Up as Trump Rages On"
+    excerpt: "As President Donald Trump pushes to overturn the election, many White House officials have accepted the reality that he is leaving."
+    publishedDateTime: 2021-01-06T18:15:00Z
+    webUrl: "https://time.com/5926697/white-house-staff-trump-rage/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 95
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/01/Trump_Washington_DC_Protest_010621_003.jpg"
+        width: 2400
+        height: 1601
         isCached: true
   - title: "Barron Trump Made Headlines 5 Times In 2020 And Not Just For His Height"
     excerpt: "His height surprised many during recent public appearances, but he's been in the news more than you might think."

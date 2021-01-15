@@ -59,21 +59,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-16-for-those-who-quit-trump-after-riot-critics-say-its-too-little-and-four-years-too-late.md",
-      "title": "For those who quit Trump after riot, critics say it’s too little — and four years too late",
-      "excerpt": "The violent insurrection at the U.S. Capitol incited by the president set off a dramatic wave of resignations and attempts at distancing among administration officials and longtime advisers.",
+      "path": "_news/2021-01-16-sarah-cooper-im-moving-on-from-lip-syncing-trump.md",
+      "title": "Sarah Cooper: I'm moving on from lip-syncing Trump",
+      "excerpt": "The comedian talks with \"Sunday Morning\" about life after becoming a social media phenomenon lampooning the president.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-quit-riot/2021/01/14/a12a3d86-54ed-11eb-a817-e5e7f8a406d6_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-quit-riot/2021/01/14/a12a3d86-54ed-11eb-a817-e5e7f8a406d6_story.html",
+      "webUrl": "https://www.cbsnews.com/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/",
+      "originalUrl": "https://www.cbsnews.com/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3Q5DEDBOQAI6XHOWFUAXTGAXDE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/15/01c3b17d-14d5-41de-8659-67633b1d8911/thumbnail/1200x630/2e851058003a646ab459885bf00088f4/sarah-cooper-interview-1280.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -81,16 +81,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-quit-riot/2021/01/14/a12a3d86-54ed-11eb-a817-e5e7f8a406d6_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-quit-riot/2021/01/14/a12a3d86-54ed-11eb-a817-e5e7f8a406d6_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-15T08:00:00-08:00",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/",
+      "publishedDateTime": "2021-01-15T08:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "CBS News",
+        "domain": "cbsnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -220,6 +220,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-15-trump-extends-safeguard-tariffs-on-large-washer-imports-for-two-years.md",
+      "title": "Trump extends 'safeguard' tariffs on large washer imports for two years",
+      "excerpt": "President Donald Trump on Thursday extended \"safeguard\" tariffs on large residential washers for another two years in a move that further shields domestic manufacturers such as Whirlpool Corp from import competition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trade-washers/trump-extends-safeguard-tariffs-on-large-washer-imports-for-two-years-idUSKBN29J2SD?edition-redirect=ca",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trade-washers/trump-extends-safeguard-tariffs-on-large-washer-imports-for-two-years-idUSKBN29J2SD?edition-redirect=ca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547836161&r=LYNXMPEH0D1KA&w=800",
+          "width": 800,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-14T20:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-ted-cruzs-former-staffers-are-disgusted-by-his-new-low-for-trump.md",
       "title": "Ted Cruz’s Former Staffers Are ‘Disgusted’ by His New Low for Trump",
       "excerpt": "Ted Cruz has long had a public reputation as an unctuous asshole. Even so, his staffers have tended to hold him in high regard as a kind and geeky man who treated his underlings well even while his fellow senators loathed him.",
@@ -323,7 +375,7 @@
       "originalUrl": "https://abcnews.go.com/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -531,7 +583,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/14/trump-impeachment-biden-administration-senate-trial",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1900,
+      "heat": 3160,
       "tags": null,
       "images": [
         {
@@ -575,58 +627,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-14-donald-trump-impeached-again-now-what-politics-weekly-extra.md",
-      "title": "Donald Trump impeached again – now what? Politics Weekly Extra",
-      "excerpt": "Jonathan Freedland speaks to Harvard law professor Noah Feldman about the potential next steps after Donald Trump was impeached for a second time",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/politics/audio/2021/jan/14/trump-impeached-again-now-what-politics-weekly-extra-podcast",
-      "originalUrl": "https://www.theguardian.com/politics/audio/2021/jan/14/trump-impeached-again-now-what-politics-weekly-extra-podcast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e7312bd7247e01664df8b351f781442da05a6914/0_0_5568_3341/master/5568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54638ea0819c8b43a6e052df1ca1f58b",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-14-protected-habitat-for-imperiled-spotted-owls-is-slashed-trumps-latest-parting-gift-to-the-timber-industry.md",
       "title": "Protected habitat for imperiled spotted owls is slashed: \"Trump's latest parting gift to the timber industry\"",
       "excerpt": "The owl is listed as threatened under the Endangered Species Act and is losing nearly 4% of its population annually.",
@@ -635,7 +635,7 @@
       "originalUrl": "https://www.cbsnews.com/news/spotted-owl-habitat-slashed-trump-administration/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -722,6 +722,110 @@
       ]
     },
     {
+      "path": "_news/2021-01-14-mcconnell-says-best-for-country-to-hold-senate-trial-after-trump-leaves-office.md",
+      "title": "McConnell says best for country to hold Senate trial after Trump leaves office",
+      "excerpt": "After the House impeachment vote, Senate Majority Leader Mitch McConnell said it would be best for the country if a Senate trial were held after Trump leaves office.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/mcconnell-best-country-hold-senate-trial-trump-leaves/story?id=75235663",
+      "originalUrl": "https://abcnews.go.com/Politics/mcconnell-best-country-hold-senate-trial-trump-leaves/story?id=75235663",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 261,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/mitch-mcconnell-gty-jef-210113_1610577152971_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/mcconnell-best-country-hold-senate-trial-trump-leaves/story?id=75235663",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnell-best-country-hold-senate-trial-trump-leaves/story?id=75235663",
+      "publishedDateTime": "2021-01-13T16:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-siege-was-in-the-name-of-the-donald-trump-rep-cicilline.md",
+      "title": "Siege was 'in the name of the Donald Trump': Rep. Cicilline",
+      "excerpt": "Rep. Cicilline. Posted . Democratic Congressman David Cicilline railed against President Donald Trump on Wednesday ahead of T",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idOVDV1MRBZ",
+      "originalUrl": "https://www.reuters.com/video/watch/idOVDV1MRBZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210113&i=OVDV1MRBZ&r=OVDV1MRBZ&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-live-impeachment-updates-gop-house-leader-trump-bears-responsibility-for-riot-but-impeachment-a-mistake.md",
       "title": "Live impeachment updates: GOP House leader: Trump 'bears responsibility' for riot, but impeachment a 'mistake'",
       "excerpt": "A vote to impeach will further divide the nation. A vote to impeach will further fan the flames of partisan division,\" Rep. Kevin McCarthy said.",
@@ -754,58 +858,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-donald-trumps-bitter-fight-to-ban-tiktok-in-the-us-looks-set-to-fail-after-administration-agrees-to-delayed-legal-deadline.md",
-      "title": "Donald Trump's bitter fight to ban TikTok in the US looks set to fail after administration agrees to delayed legal deadline",
-      "excerpt": "Experts say a shift in legal deadline paves the way for President-elect Joe Biden to drop the suit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trumps-tiktok-ban-likely-just-ended-with-legal-deadline-2021-1",
-      "originalUrl": "https://www.businessinsider.com/donald-trumps-tiktok-ban-likely-just-ended-with-legal-deadline-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fff2702a8de7700187d3a0c?width=1200&format=jpeg",
-          "width": 921,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -948,7 +1000,7 @@
       "originalUrl": "https://www.cbsnews.com/news/trump-biden-transition-mike-pompeo-kelly-craft-europe-taiwan-travel-cancelled/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -972,162 +1024,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-trump-impeachment-house-to-debate-charge-of-incitement-of-insurrection-live.md",
-      "title": "Trump impeachment: House to debate charge of 'incitement of insurrection' – live",
-      "excerpt": "Third-ranking GOP member in House, Liz Cheney, says she’ll vote to impeach",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 240,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1924f7164024fd4fd5517a5bb4f348f5beed8b7e/613_82_1756_1054/master/1756.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3a0da34bddd66480ad9b5a5a456b8fba",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/13/donald-trump-impeachment-nancy-pelosi-joe-biden-mike-pence-congress-covid-coronavirus-live-updates",
-      "publishedDateTime": "2021-01-13T00:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-senate-majority-leader-mitch-mcconnell-is-inclined-to-vote-to-convict-trump-in-an-impeachment-trial-new-report-says.md",
-      "title": "Senate Majority Leader Mitch McConnell is inclined to vote to convict Trump in an impeachment trial, new report says",
-      "excerpt": "House Minority Leader Kevin McCarthy is also talking to GOP colleagues about whether he should ask Trump to resign, The New York Times reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mitch-mcconnell-pleased-at-prospect-of-trump-being-impeached-nyt-2021-1",
-      "originalUrl": "https://www.businessinsider.com/mitch-mcconnell-pleased-at-prospect-of-trump-being-impeached-nyt-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f984f3c861cb70019936b04?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mitch-mcconnell-pleased-at-prospect-of-trump-being-impeached-nyt-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-pleased-at-prospect-of-trump-being-impeached-nyt-2021-1?amp",
-      "publishedDateTime": "2021-01-12T19:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-trumps-secret-service-detail-could-be-subpoenaed-to-testify-against-him-in-criminal-proceedings-and-former-agents-are-stressed-about-it.md",
-      "title": "Trump's Secret Service detail could be subpoenaed to testify against him in criminal proceedings and former agents are stressed about it",
-      "excerpt": "President Donald Trump's security detail could face subpoenas in future legal proceedings. Former agents worry that will make him harder to protect.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/secret-service-agents-testify-trump-criminal-courts-nixon-clinton-lewinsky-2021-1",
-      "originalUrl": "https://www.businessinsider.com/secret-service-agents-testify-trump-criminal-courts-nixon-clinton-lewinsky-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ffe06cefe7e140019f7e88b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T13:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1263,58 +1159,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-bette-midler-says-donald-trump-will-burn-down-the-white-house-before-he-leaves.md",
-      "title": "Bette Midler Says Donald Trump Will 'Burn Down' The White House Before He Leaves",
-      "excerpt": "\"How many more will die in the service of this mediocrity? And watch, he'll burn the WH down before he goes,\" Midler tweeted Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892",
-      "originalUrl": "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1673938/bette-midler.jpg",
-          "width": 3000,
-          "height": 2023,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1",
-      "publishedDateTime": "2021-01-12T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-12-trump-dropped-by-biggest-lender-deutsche-bank-for-future-business-nyt.md",
       "title": "Trump dropped by biggest lender Deutsche Bank for future business: NYT",
       "excerpt": "Deutsche Bank will not do business in the future with U.S. President Donald Trump or his companies in the wake of his supporters' assault on the U.S. Capitol, the New York Times reported.",
@@ -1375,7 +1219,7 @@
       "originalUrl": "https://www.ibtimes.com/barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-fake-report-3119646",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1471,21 +1315,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-12-explainer-how-will-trump-get-his-message-out-without-social-media.md",
-      "title": "Explainer-How will Trump get his message out without social media?",
-      "excerpt": "The decision by tech companies to clamp down on President Donald Trump's ability to speak to followers through mainstream social media may force him to tap more traditional methods of communication or more isolated conservative online channels during his final days in",
+      "path": "_news/2021-01-12-former-white-house-spokesman-hogan-gidley-says-trump-is-the-most-masculine-president-in-us-history.md",
+      "title": "Former White House spokesman Hogan Gidley says Trump is the 'most masculine' president in US history",
+      "excerpt": "This came after Fox News host Bill Hemmer asked Gidley if Trump felt \"emasculated\" by the recent \"social media crackdown.\"",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-trump-communication/explainer-how-will-trump-get-his-message-out-without-social-media-idUSL1N2JL0FR",
-      "originalUrl": "https://www.reuters.com/article/usa-trump-communication/explainer-how-will-trump-get-his-message-out-without-social-media-idUSL1N2JL0FR",
+      "webUrl": "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1",
+      "originalUrl": "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 110,
       "tags": null,
       "images": [
         {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547351176&r=LYNXMPEH0A0LP&w=800",
-          "width": 800,
-          "height": 540,
+          "url": "https://i.insider.com/5ffcc49fbde805001980c448?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1493,16 +1337,120 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T08:05:00-08:00",
+      "ampWebUrl": "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1?amp",
+      "publishedDateTime": "2021-01-11T14:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-business-grows-skittish-about-trump-and-gop-after-riots.md",
+      "title": "Business grows skittish about Trump and GOP after riots",
+      "excerpt": "Corporate America is quickly distancing itself from President Donald Trump and his Republican allies, with many of the biggest names in business — Goldman Sachs, Coca Cola, Ford, and Blue Cross Blue Shield — suspending political donations after a Trump-inspired mob ransacked the U.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/wall-street-distances-trump-gop-riots-75178316",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/wall-street-distances-trump-gop-riots-75178316",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 365,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_eea37b12d40e40e589e76134df53aa03_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/wall-street-distances-trump-gop-riots-75178316",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/wall-street-distances-trump-gop-riots-75178316",
+      "publishedDateTime": "2021-01-11T14:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-house-democrats-move-to-impeach-trump-for-incitement-of-insurrection-live.md",
+      "title": "House Democrats move to impeach Trump for 'incitement of insurrection' – live",
+      "excerpt": "House resolution says Donald Trump ‘engaged in high crimes and misdemeanors by willfully inciting violence against the government’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/6d5c7db8fae6479736bf7df99a1b2e6e9471ae1f/0_0_3708_2472/master/3708.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dcf2b68ea017aa4952150faf20c5de4d",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates",
+      "publishedDateTime": "2021-01-11T10:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1577,6 +1525,58 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-trumps-search-for-online-outlet-just-got-tougher-parler-has-gone-dark.md",
+      "title": "Trump's search for online outlet just got tougher: Parler has gone dark",
+      "excerpt": "Site popular with far-right went down, at least for now, after it was yanked by Google, Apple and Amazon in wake of the siege of gthe Capitol.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/parler-down-aws-web-hosting-trump/",
+      "originalUrl": "https://www.cbsnews.com/news/parler-down-aws-web-hosting-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/11/b27e4e69-acf8-4d8e-8e6b-445025ba0a4f/thumbnail/1200x630/3995c5476ca7ad949ef9c36c8489aaf5/gettyimages-1230529588.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/parler-down-aws-web-hosting-trump/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/parler-down-aws-web-hosting-trump/",
+      "publishedDateTime": "2021-01-11T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

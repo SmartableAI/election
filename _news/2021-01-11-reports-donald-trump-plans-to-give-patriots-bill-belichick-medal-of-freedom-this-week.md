@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6618452002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6618452002"
 type: article
 quality: 117
-heat: 197
+heat: 217
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "Ivanka Trump Deletes Tweet That Hailed Rioters As 'American Patriots'"
+    excerpt: "Ivanka Trump deleted a tweet after the Twitterati took her to task for describing her father's supporters who stormed the Capitol as \"American Patriots.\" Trump called on the armed protesters to stand down about a half-hour after President Trump first asked the crowd to respect the Capitol police."
+    publishedDateTime: 2021-01-06T21:57:00Z
+    webUrl: "https://www.ibtimes.com/ivanka-trump-deletes-tweet-hailed-rioters-american-patriots-3115979"
+    ampWebUrl: "https://www.ibtimes.com/ivanka-trump-deletes-tweet-hailed-rioters-american-patriots-3115979?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivanka-trump-deletes-tweet-hailed-rioters-american-patriots-3115979?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/12-times-donald-trump-acted-totally-inappropriately-ivanka-09.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "President Donald Trump to award Bill Belichick the Medal of Freedom on Thursday (report)"
     excerpt: "With only days remaining in his term, President Donald Trump is reportedly awarding Bill Belichick the Medal of Freedom. Trump has continued to award the medal in the aftermath of the insurrection at the U."

@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Dianne Feinstein wants Alex Padilla to replace Kamala Harris in Senate"
+    excerpt: "Calif., is throwing her support to California Secretary of State Alex Padilla to fill the seat of Sen. Kamala Harris when she is sworn in as vice president \"I know him. And my sense is that he's going to represent California very well."
+    publishedDateTime: 2020-12-02T23:40:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/dianne-feinstein-wants-alex-padilla-replace-kamala-harris-senate-n1249773"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249773"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249773"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_47/3429311/201118-alex-padilla-al-1302_81e1861128631a14e6087a1ab33ff821.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Alex Padilla Will Replace Kamala Harris in the Senate"
     excerpt: "Gov. Gavin Newsom of California selected Mr. Padilla to serve the final two years of Ms. Harris’s term. Mr. Padilla will be the first Latino senator to represent the state."
     publishedDateTime: 2020-12-22T18:06:00Z

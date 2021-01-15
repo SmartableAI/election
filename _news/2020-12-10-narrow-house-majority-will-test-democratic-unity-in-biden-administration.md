@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/house-democratic-majorit
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/house-democratic-majority-biden-administration/index.html"
 type: article
 quality: 174
-heat: 354
+heat: 334
 published: true
 
 provider:
@@ -108,22 +108,6 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/12/14/business/13wsj-gigot-print/13wsj-gigot-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Biden Transition Live Updates: Anticipation Growing for the Supreme Court to Act on Texas Election Suit"
-    excerpt: "The Electoral College votes for president will be cast Monday. The Justice Department’s inquiry into Hunter Biden may hang over Joe Biden as he assumes office."
-    publishedDateTime: 2020-12-11T14:30:00Z
-    webUrl: "https://www.nytimes.com/live/2020/12/11/us/joe-biden-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/12/11/us/joe-biden-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/11/us/joe-biden-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/11/us/politics/11transition-briefing-scotus/11transition-briefing-scotus-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

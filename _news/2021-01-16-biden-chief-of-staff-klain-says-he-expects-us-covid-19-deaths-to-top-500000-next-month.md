@@ -3,8 +3,8 @@ category: news
 title: "Biden chief of staff Klain says he expects U.S. COVID-19 deaths to top 500,000 next month"
 excerpt: "U.S. President-elect Joe Biden's incoming chief of staff Ron Klain said on Friday he expects the United States to hit 500,000 COVID-19 deaths next month."
 publishedDateTime: 2021-01-15T18:51:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-klain/update-1-biden-chief-of-staff-klain-says-he-expects-u-s-covid-19-deaths-to-top-500000-next-month-idUSL1N2JQ268"
-webUrl: "https://www.reuters.com/article/usa-biden-klain/update-1-biden-chief-of-staff-klain-says-he-expects-u-s-covid-19-deaths-to-top-500000-next-month-idUSL1N2JQ268"
+originalUrl: "https://www.reuters.com/article/usa-biden-klain/update-1-biden-chief-of-staff-klain-says-he-expects-us-covid-19-deaths-to-top-500000-next-month-idUSL1N2JQ268"
+webUrl: "https://www.reuters.com/article/usa-biden-klain/update-1-biden-chief-of-staff-klain-says-he-expects-us-covid-19-deaths-to-top-500000-next-month-idUSL1N2JQ268"
 type: article
 quality: 96
 heat: 116
@@ -46,6 +46,6 @@ related:
         height: 560
         isCached: true
 
-secured: "jWQAQd/7zKdbO4oXZE0JhxOIiNxjeIDTPC7IoFKUi+6Ft1UPb9M+Tl+SnWdkKphpJQWBIEWyaIAhfXs5DHbAtHJKTadqUbGac4AyAiZ+SvzCqBIinnxVE1DyLrHDS7L8mUPLXLn6dWYUN0zTKyFiySlLslvl9HEfyE0DRfdnbQczhyxtZHrcpkV4qNVPjE4RPcfJeg/vRzLAb+72DASl8UCmAkJ2QxHgqhZr6oVbc3dtGwM0MmzGnhOpIJl8tDxMUWczLt60Y5s1xPcNxGg4A9rq6NjNCvA83g9wkKeO0myCuGc2S+5z/wzB18Bagbo4s4gplVEoGdSWiGXpyjJQn3uWDUMD4xk8njY2whAK51Q=;C7XSjOvqnoRdR/WjrRMUxA=="
+secured: "JlZ3IOeQ2sMqrnOM2iq/KqeUvcufBqVxRTaMEGKY4GJGYUmMz70Op/OqFi/Rpn3G7B8Qm+SZc3ruqYHRjNsXrwhA855MrmaWPdZ1eGriiDP0K5wl/pbWDP/+3K6kaHFbKsDbYby3T520+PMjS6vOacbAaanocTO5GPJ4xyjb5G+ip7pvcyQhVXG9VQK83aXWa+LRu8CX9d49RGjSGmRGAJwdxbF+KiStC0bLgE52KVqFYRTd5/LITtNExiu35hQPx0BixJxg0Jb6yP/Jt4ouO+HLaAf9LjZlqIEheuJGrCzhMn7d63ApzjdE2kSQaUXQFMAR+Md3zNzxz2lvsvL8hSaxxVhxecUWn78R5/R7SYo=;DhWe5kGlvUIbN878Uohphw=="
 ---
 

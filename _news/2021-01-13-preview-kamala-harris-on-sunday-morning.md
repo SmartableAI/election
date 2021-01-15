@@ -29,6 +29,54 @@ images:
     isCached: true
 
 related:
+  - title: "Trump plans to depart Washington Inauguration Day morning, while Pence, Harris speak"
+    excerpt: "President Trump plans to make the unprecedented move to depart the White House next Wednesday morning, just before President-elect Joe Biden's inauguration."
+    publishedDateTime: 2021-01-15T20:14:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 158
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-departure-texas-03-ap-jef-210112_1610466035305_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "House passes measure calling on Pence to remove Trump"
+    excerpt: "The House on Tuesday passed legislation calling on Vice President Pence to tap his Constitutional authority to remove President Trump from office in response to the president’s role in the deadly mob attack on the Capitol last week."
+    publishedDateTime: 2021-01-13T12:01:00Z
+    webUrl: "https://thehill.com/homenews/house/533955-house-passes-bill-calling-on-pence-to-remove-trump"
+    ampWebUrl: "https://thehill.com/homenews/house/533955-house-passes-bill-calling-on-pence-to-remove-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/533955-house-passes-bill-calling-on-pence-to-remove-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/raskinjamie_100920bc2_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump to leave Washington on morning of Biden's inauguration"
+    excerpt: "President Donald Trump will leave Washington next Wednesday morning, just before President-elect Joe Biden's inauguration"
+    publishedDateTime: 2021-01-15T17:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-leave-washington-morning-bidens-inauguration-75278801"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-leave-washington-morning-bidens-inauguration-75278801"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-leave-washington-morning-bidens-inauguration-75278801"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a045c610bc234fbdb1d0d1f9c77e17c8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "That time Kamala Harris flew on Trump’s private plane, and more from her biographer"
     excerpt: "Author Dan Morain answers queries about his new book on Kamala Harris, like why she's an only-in-California politician and what to expect from her as vice president."
     publishedDateTime: 2021-01-11T22:45:00Z
@@ -45,53 +93,67 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
-    excerpt: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
-    publishedDateTime: 2021-01-15T18:39:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+  - title: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
+    publishedDateTime: 2021-01-15T20:01:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 127
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 133
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.chicagotribune.com/resizer/Z3qJoKYgp7I25-Bfj9OgWDYkWb8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7RFR7OAVVHIHHAVMBLL7YTF44.jpg"
+        width: 1200
+        height: 898
         isCached: true
-  - title: "Wrong number draws mistaken calls, ire from Trump supporters"
-    excerpt: "A former Michigan resident has gotten hundreds of calls and texts from President Donald Trump supporters, demanding that the legislature reverse his defeat in the state"
-    publishedDateTime: 2021-01-05T00:37:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/wrong-number-draws-mistaken-calls-ire-trump-supporters-75046040"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/wrong-number-draws-mistaken-calls-ire-trump-supporters-75046040"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/wrong-number-draws-mistaken-calls-ire-trump-supporters-75046040"
+  - title: "Mike Pence calls Kamala Harris to offer congratulations"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's"
+    publishedDateTime: 2021-01-15T18:50:00Z
+    webUrl: "https://apnews.com/9cf431138cceeda9f6f7104e0fa20487"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 130
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/4444eb45d10847adbfe84daefb893fa0/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
+    excerpt: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
+    publishedDateTime: 2021-01-15T19:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 125
+    quality: 127
     images:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
         isCached: true
-  - title: "Fact check: Footage shows Kamala Harris receiving COVID-19 vaccination"
-    excerpt: "Social media users have been sharing content online that claims Vice President-elect Kamala Harris’s COVID-19 vaccination was faked. This claim is false."
-    publishedDateTime: 2021-01-05T21:51:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-kamala-harris-covid-vaccina/fact-check-footage-shows-kamala-harris-receiving-covid-19-vaccination-idUSKBN29A2K7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29A2K7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29A2K7"
+  - title: "Pro-Trump supporters to rally again in Washington"
+    excerpt: "Supporters of President Donald Trump are returning to Washington for a pair of rallies to back his desperate efforts to subvert the election that he lost"
+    publishedDateTime: 2020-12-12T07:26:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pro-trump-supporters-to-rally-again-in-washington/2020/12/11/87f543f4-3c21-11eb-aad9-8959227280c4_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pro-trump-supporters-to-rally-again-in-washington/2020/12/11/87f543f4-3c21-11eb-aad9-8959227280c4_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pro-trump-supporters-to-rally-again-in-washington/2020/12/11/87f543f4-3c21-11eb-aad9-8959227280c4_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546711353&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041CS"
-        width: 818
-        height: 545
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Kamala Harris appears on Vogue cover ahead of Inauguration Day"
     excerpt: "Vice President-elect Kamala Harris made her debut on the cover of Vogue magazine’s February issue. Vogue featured two cover images on Instagram on Sunday. In one, Harris poses in front of golden drapery and dons a powder blue power suit and pearls;"
@@ -173,6 +235,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden forgoing Amtrak trip to Washington over security fears"
+    excerpt: "President-elect Joe Biden will no longer be taking an Amtrak train to Washington for his inauguration because of security concerns"
+    publishedDateTime: 2021-01-14T03:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-forgoing-amtrak-trip-washington-security-fears-75240422"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-forgoing-amtrak-trip-washington-security-fears-75240422"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-forgoing-amtrak-trip-washington-security-fears-75240422"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_76e194e994ac4a12af2297d0bbd1395a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "For Kamala Harris, being first means attention and attacks"
     excerpt: "She will become the first woman, Black woman and Asian woman to be vice president, a position that has drawn criticism that will extend beyond her swearing-in."
     publishedDateTime: 2021-01-14T00:30:00Z
@@ -189,21 +267,37 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Kamala Harris’s journey: Principles, loyalties and compromises"
-    excerpt: "At a MoveOn forum, as California’s junior U.S. senator and presidential hopeful Kamala Harris settled in for an interview, a man barreled onto the stage, yanking the microphone from her hands. The moderator,"
-    publishedDateTime: 2021-01-14T04:47:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/kamala-harriss-journey-principles-loyalties-and-compromises/2021/01/13/a0ec9dd8-47cc-11eb-975c-d17b8815a66d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/kamala-harriss-journey-principles-loyalties-and-compromises/2021/01/13/a0ec9dd8-47cc-11eb-975c-d17b8815a66d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/kamala-harriss-journey-principles-loyalties-and-compromises/2021/01/13/a0ec9dd8-47cc-11eb-975c-d17b8815a66d_story.html?outputType=amp"
+  - title: "Trump impeachment trial could begin on Inauguration Day"
+    excerpt: "President Donald Trump’s impeachment trial could begin on Inauguration Day, just as Democrat Joe Biden takes the oath of office in an extraordinary end to the defeated president’s tenure in the White House."
+    publishedDateTime: 2021-01-14T16:45:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-impeached-after-capitol-riot-in-historic-second-charge/2021/01/13/11d4f9b8-5606-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-impeached-after-capitol-riot-in-historic-second-charge/2021/01/13/11d4f9b8-5606-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-impeached-after-capitol-riot-in-historic-second-charge/2021/01/13/11d4f9b8-5606-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IH2MB4BOWYI6XHOWFUAXTGAXDE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Donald Trump's Inauguration Boycott Welcomed by Republicans and Democrats"
+    excerpt: "The president announced he will not attend ahead of his ban from Twitter, as a backlash grows against him over the recent events at the Capitol."
+    publishedDateTime: 2021-01-11T15:29:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-inauguration-boycott-welcomed-democrats-republicans-1560502"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-inauguration-boycott-welcomed-democrats-republicans-1560502?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-inauguration-boycott-welcomed-democrats-republicans-1560502?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1702715/donald-trump-washington-dc-rally.jpg"
+        width: 2500
+        height: 1736
         isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect Kamala Harris. The image shows Ms Harris wearing an informal outfit including jeans and a pair of Converse trainers."
@@ -221,51 +315,63 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "As Kamala Harris Makes History, Twitter Creates @SecondGentleman Account"
-    excerpt: "The microblogging platform will archive the Trump Administration's tweets, but a major dispute over Donald Trump's followers remains between the platform and President-elect Joe Biden."
-    publishedDateTime: 2021-01-15T04:41:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818?amp=1"
+  - title: "Mike Pence calls Kamala Harris to offer congratulations, assistance with transition"
+    excerpt: "It's the first known contact between the elected members of the outgoing and incoming administrations. President Donald Trump has not reached out to President-elect Joe Biden."
+    publishedDateTime: 2021-01-15T18:49:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/mike-pence-calls-kamala-harris-to-offer-congratulations-assistance-with-transition"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: PBS
+      domain: pbs.org
     quality: 124
     images:
-      - url: "https://d.newsweek.com/en/full/1708768/secondgentleman-douglas-emhoff-twitter-account-kamala-harris.jpg"
-        width: 2500
-        height: 1787
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/01/2021-01-14T222122Z_2072323780_RC2Y7L9QR3VX_RTRMADP_3_USA-BIDEN-INAUGURATION-SECURITY-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Harris on Trump GA call before Senate runoff"
-    excerpt: "Rough Cuts Harris on Trump GA call before Senate runoff. Posted . U.S. Vice President-elect Kamala Harris rallied supporters in Georgia on Sunday for Democratic Senate candidates"
-    publishedDateTime: 2021-01-04T02:55:00Z
-    webUrl: "https://www.reuters.com/video/watch/harris-on-trump-ga-call-before-senate-ru-id723707495"
+  - title: "Washington and state capitols brace for violence from armed Trump supporters"
+    excerpt: "Security beefed up across US following attack on Capitol while FBI monitoring threats of violence against Biden and Harris"
+    publishedDateTime: 2021-01-15T17:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/15/washington-us-state-capitols-threat-violence-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/15/washington-us-state-capitols-threat-violence-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/15/washington-us-state-capitols-threat-violence-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/892d79fbaa87d84e20979a91178e71d3e1ea5683/0_88_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e5070c389f55db6e6c82337fe09ca189"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "U.S. House urges Pence to start process of removing Trump from office"
+    excerpt: "The U.S. House of Representatives on Tuesday voted to urge Vice President Mike Pence to start the U.S. Constitution's 25th Amendment process of removing President Donald Trump from office, although the vice president already has said he will not do so."
+    publishedDateTime: 2021-01-13T13:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-house-passed/u-s-house-urges-pence-to-start-process-of-removing-trump-from-office-idUSKBN29I0ET"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 120
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210104&i=OVDTSNIE7&r=OVDTSNIE7&t=2"
-        width: 960
-        height: 540
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547604300&r=LYNXMPEH0C0CC&w=800"
+        width: 800
+        height: 533
         isCached: true
-  - title: "For friends and allies of Kamala D. Harris, deadly Capitol attacks prompt fresh fears"
-    excerpt: "Pride in the achievement of Harris, soon to be the first Black woman sworn in as vice president, is now mixed with concern for her safety"
-    publishedDateTime: 2021-01-14T16:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/harris-fears-safety/2021/01/13/bbd3d31a-54ff-11eb-a817-e5e7f8a406d6_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/harris-fears-safety/2021/01/13/bbd3d31a-54ff-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/harris-fears-safety/2021/01/13/bbd3d31a-54ff-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+  - title: "The impact President Trump's impeachment could have on Biden's agenda"
+    excerpt: "CBS News political contributors Robby Mook and Terry Sullivan join \"CBS This Morning\" to discuss whether the impeachment trial of President Trump could impact President-elect Joe Biden's agenda. Plus,"
+    publishedDateTime: 2021-01-15T14:06:00Z
+    webUrl: "https://www.cbsnews.com/video/the-impact-president-trumps-impeachment-could-have-on-bidens-agenda/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 118
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WJYTDSCR6MI6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/15/332d8909-f5ee-416d-bd2c-2a8ea83d5d1b/thumbnail/1200x630/fab852e28e8c7a68d382085732290a21/cbsn-fusion-the-impact-president-trumps-impeachment-could-have-on-bidens-agenda-thumbnail-627054-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "“Vice President Kamala Harris,” a Los Angeles Times Special Edition Magazine, is on Newsstands Now"
     excerpt: "The Los Angeles Times has published a commemorative magazine, “Vice President Kamala Harris,” in advance of the inauguration of the first American woman ever to hold the office. Harris has made a meteoric ascent in American politics – from Bay Area prosecutor to vice president-elect – and The Times has covered her every step of the way."
@@ -313,34 +419,45 @@ related:
         width: 2048
         height: 1396
         isCached: true
-  - title: "Kamala Harris' Vogue cover photo sparks controversy"
-    excerpt: "Vice President-elect Kamala Harris is featured on the cover of the February 2021 issue of Vogue, but controversy over the selected cover photo has overshadowed the magazine's debut. CBS Los Angeles explains."
-    publishedDateTime: 2021-01-11T12:12:00Z
-    webUrl: "https://www.cbsnews.com/video/kamala-harris-vogue-cover-photo-sparks-controversy/"
+  - title: "U.S. House Democrats to introduce Trump impeachment article on Monday"
+    excerpt: "Democrats in the U.S. House of Representatives will introduce legislation on Monday urging the impeachment of President Donald Trump, Representative Ted Lieu said on Saturday."
+    publishedDateTime: 2021-01-10T05:34:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-congress-impeachment-idUSKBN29E0OZ"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Reuters
+      domain: reuters.com
     quality: 105
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/11/405013d5-11c8-4c71-844f-f273feee39ca/thumbnail/1200x630/d63dac672e34e3a9fc53ebad570b8dca/cbsn-fusion-kamala-harris-vogue-cover-photo-sparks-controversy-thumbnail-624156-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547238775&r=LYNXMPEH080FJ&w=800"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Kamala D. Harris’s most trusted adviser: her sister Maya"
-    excerpt: "Kennedy had Bobby, Joe Biden’s sister Valerie once ran his campaigns and Ivanka Trump has been one of the president’s most visible advisers. Kamala D. Harris has her younger sister, Maya Harris. The two are not only extremely close;"
-    publishedDateTime: 2021-01-11T17:55:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/2021/01/11/maya-kamala-harris-sister/?arc404=true"
+  - title: "Reactions to the impeachment of U.S. President Donald Trump"
+    excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump."
+    publishedDateTime: 2021-01-13T19:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-quotes/reactions-to-the-impeachment-of-u-s-president-donald-trump-idUSKBN29I20Q?edition-redirect=ca"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Reuters
+      domain: reuters.com
     quality: 105
     images:
-      - url: "https://www.washingtonpost.com/resizer/k3ZQvOTLDBZO9_bKaTcrxAw1380=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MEDDNWFIAUI6TEQUERXFSTPF2U.jpg"
-        width: 1484
-        height: 989
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547688231&r=LYNXMPEH0C15H&w=800"
+        width: 800
+        height: 540
         isCached: true
+  - title: "The Latest: Trump's trial could start on Inauguration Day"
+    excerpt: "The Latest on and the fallout from the Jan. 6 attack of the Capitol by pro-Trump loyalists (all times local):"
+    publishedDateTime: 2021-01-14T18:36:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-trumps-trial-could-start-on-inauguration-day-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-trumps-trial-could-start-on-inauguration-day-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-trumps-trial-could-start-on-inauguration-day-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Interview: Kamala Harris on Capitol Riot, Stimulus Package"
     excerpt: "Vice President-elect Kamala Harris talks to NPR's Scott Detrow about how she felt after the attack on the Capitol and the administration's new $1.9 trillion relief package proposal.This episode: White House correspondent Tamara Keith and White House correspondent Scott Detrow."
     publishedDateTime: 2021-01-15T17:15:00Z
@@ -355,21 +472,77 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "'It’s a lot of pressure.' As Kamala Harris visits Georgia, voters brace for a Senate runoff that is riveting the nation"
-    excerpt: "From the time she stepped onto the podium, Vice President-elect Kamala Harris was greeted by thunderous car horns at a drive-in event near Savannah just days before voters decide their next Senators in contentious races that will shape Harris’ and President-elect Joe Biden’s governing future."
-    publishedDateTime: 2021-01-04T12:06:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/04/vp-elect-kamala-harris-visits-savannah-ahead-georgia-senate-runoffs/4124373001/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/4124373001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4124373001"
+  - title: "Washington mayor asks for increased security around Biden's inauguration"
+    excerpt: "Washington's mayor has asked for increased security around the inauguration of U.S. President-elect Joe Biden after last week's storming of the U.S. Capitol by supporters of President Donald Trump."
+    publishedDateTime: 2021-01-11T13:41:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-inauguration-idUKKBN29G0PV?edition-redirect=uk"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547339065&r=LYNXMPEH0A0EW&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Pence vows to honor U.S. history, ensure safe inauguration of new president"
+    excerpt: "U.S. Vice President Mike Pence on Thursday vowed to uphold American history and ensure a safe transition of power to President-elect Joe Biden, eight days after supporters of U.S. President Donald Trump laid siege to the U."
+    publishedDateTime: 2021-01-15T06:46:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-pence/pence-vows-to-honor-us-history-ensure-safe-inauguration-of-new-president-idUSKBN29K05A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547860873&r=LYNXMPEH0E02C&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Washington to see 'new normal' for security after Biden inauguration: DC mayor"
+    excerpt: "Washington Mayor Muriel Bowser said on Friday that even after the presidential inauguration on Jan. 20 the city will have to maintain heightened security in light of the Capitol rights."
+    publishedDateTime: 2021-01-15T18:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-bowser/washington-to-see-new-normal-for-security-after-biden-inauguration-dc-mayor-idUSKBN29K2EM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547965217&r=LYNXMPEH0E1DQ&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "What’s Pence’s Next Move? VP's Battle With Trump Is Unprecedented"
+    excerpt: "Pence has made no public statement about his split with the president, and so far sources within the White House have said it is unlikely that the vice president would invoke the 25th Amendment to remove Trump from office,"
+    publishedDateTime: 2021-01-08T16:58:00Z
+    webUrl: "https://www.ibtimes.com/whats-pences-next-move-vps-battle-trump-unprecedented-3117528"
+    ampWebUrl: "https://www.ibtimes.com/whats-pences-next-move-vps-battle-trump-unprecedented-3117528?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/whats-pences-next-move-vps-battle-trump-unprecedented-3117528?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 100
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/16/vice-president-mike-pence-is-coming-out-from.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Thousands of National Guard members deployed in Washington ahead of Biden inauguration"
+    excerpt: "Thousands of National Guard's were deployed to Washington on January 12, ahead of the inauguration of Joe Biden in the wake of the Capitol riots."
+    publishedDateTime: 2021-01-13T15:04:00Z
+    webUrl: "https://www.usatoday.com/videos/news/2021/01/13/national-guard-members-deployed-washington-ahead-biden-inauguration/6651492002/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 101
+    quality: 97
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/04/NSMN/40d7eacb-8ee7-4152-bc0d-e67001ba07ce-Kamala3.jpg?auto=webp&crop=1999,1125,x0,y133&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b7a0dfb8-7b45-4236-9b07-5e254aed8b41_poster.jpg?quality=10"
+        width: 480
+        height: 270
         isCached: true
   - title: "Kamala Harris gets the Vogue cover Melania Trump always wanted"
     excerpt: "The president, first lady and their political supporters repeatedly complained that ‘elitist’ fashion magazines wouldn’t put the ‘most elegant first lady in American"
@@ -384,54 +557,6 @@ related:
     quality: 90
     images:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_982bd6f39d8176d926a35de2b32bfd51-h_16ae4b24c5b25e70b3b25aaa73a4c7ca.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Why Kamala Harris will still be a key player in the Senate"
-    excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
-    publishedDateTime: 2021-01-07T12:00:00Z
-    webUrl: "https://www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
-    ampWebUrl: "https://www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/GettyImages-1027443320.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Oakland Restaurant Week returns — with Kamala Harris specials"
-    excerpt: "Oakland Restaurant Week is back, with a new emphasis for this coronavirus era and some specials honoring native daughter Kamala Harris. With the pandemic hitting the food industry hard, the Visit Oakland organizers of the 11th annual event have added a new focus on the broader culinary community — roundups of caterers,"
-    publishedDateTime: 2021-01-08T03:45:00Z
-    webUrl: "https://www.mercurynews.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials"
-    ampWebUrl: "https://www.mercurynews.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/SJM-L-OAKRESTWEEK-0106_80699476.jpg?w=1024&h=781"
-        width: 1024
-        height: 781
-        isCached: true
-  - title: "Why Kamala Harris will still be a key player in the Senate"
-    excerpt: "Kamala Harris may be departing the Capitol for the White House but the incoming vice president will still be a key voice on the Hill. With this week’s special election in Georgia appearing to send two more Democrats to the Senate,"
-    publishedDateTime: 2021-01-07T23:38:00Z
-    webUrl: "https://www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/"
-    ampWebUrl: "https://www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/01/07/why-kamala-harris-will-still-be-a-key-player-in-the-senate/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 75
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2021/01/GettyImages-1027443320-1.jpg?w=1024&h=683"
         width: 1024
         height: 683
         isCached: true
@@ -547,6 +672,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Donald Trump’s impeachment trial could start on Inauguration Day"
+    excerpt: "Biden has suggested the Senate could divide its time between the impeachment trial and confirming his Cabinet nominees and working on COVID-19 relief and other issues."
+    publishedDateTime: 2021-01-14T16:06:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/donald-trumps-impeachment-trial-could-start-on-inauguration-day.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/donald-trumps-impeachment-trial-could-start-on-inauguration-day.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/donald-trumps-impeachment-trial-could-start-on-inauguration-day.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TEGABJOI3BEOZCWESHG4EUHZWU.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."
     publishedDateTime: 2021-01-13T07:29:00Z
@@ -563,53 +704,21 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Why Vogue's Anna Wintour is Defending That ‘Embarrassing ‘ Kamala Harris Cover"
-    excerpt: "The criticism of the cover runs the gamut from way the photograph is lit, which some say washes out her features, to the overall styling that others say fall far short of capturing the magnitude and gravity of the country’s first Black woman to be elected vice president."
-    publishedDateTime: 2021-01-12T18:37:00Z
-    webUrl: "https://www.nbcnewyork.com/lx/why-vogues-anna-wintour-is-defending-that-embarrassing-kamala-harris-cover/2826909/"
-    ampWebUrl: "https://www.nbcnewyork.com/lx/why-vogues-anna-wintour-is-defending-that-embarrassing-kamala-harris-cover/2826909/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/lx/why-vogues-anna-wintour-is-defending-that-embarrassing-kamala-harris-cover/2826909/?amp"
+  - title: "D.C. attorney general seeks to interview Donald Trump Jr. on inauguration funds"
+    excerpt: "The D.C. attorney general's office said Thursday it requested to interview Donald Trump Jr. as part of its investigation into the Presidential Inaugural Committee's alleged misuse of non-profit funds."
+    publishedDateTime: 2021-01-15T02:08:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/14/DC-attorney-general-seeks-to-interview-Donald-Trump-Jr-on-inauguration-funds/6401610666115/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/14/DC-attorney-general-seeks-to-interview-Donald-Trump-Jr-on-inauguration-funds/6401610666115/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/14/DC-attorney-general-seeks-to-interview-Donald-Trump-Jr-on-inauguration-funds/6401610666115/"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
+      name: UPI.com
+      domain: upi.com
     quality: 71
     images:
-      - url: "https://media.nbcnewyork.com/2021/01/kamala-harris-vogue.jpg?resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "In a 50-50 Senate, Kamala Harris can sign off on $2,000 stimulus checks and more"
-    excerpt: "Kamala Harris suddenly has been handed all kinds of power to get people $2,000 stimulus checks, provide money to fight climate change and win confirmation of President-elect Joe Biden’s nominees. Because Georgia Democratic Senate candidates Ralph Warnock and Jon Ossoff won Tuesday,"
-    publishedDateTime: 2021-01-07T13:00:00Z
-    webUrl: "https://www.sanluisobispo.com/news/california/article248310295.html"
-    ampWebUrl: "https://amp.sanluisobispo.com/news/california/article248310295.html"
-    cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/california/article248310295.html"
-    type: article
-    provider:
-      name: SanLuisObispo
-      domain: sanluisobispo.com
-    quality: 70
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998039001/a867c7ec-2ba3-4e9d-ba71-c7ccbcb6ef86/42f6d6a1-4a4b-4508-8770-38ab32c3d4d8/1280x720/match/image.jpg"
-        width: 1197
-        height: 720
-        isCached: true
-  - title: "Alveda King slams Kamala Harris for plagiarizing her uncle, Martin Luther King Jr."
-    excerpt: "The niece of late civil rights leader Dr. Martin Luther King, Jr. slammed Vice President-elect Kamala Harris for invoking the name of her late uncle, arguing that her position on abortion proves that the two have diametrically opposed worldviews."
-    publishedDateTime: 2021-01-07T21:45:00Z
-    webUrl: "https://www.christianpost.com/news/alveda-king-slams-kamala-harris-for-plagiarizing-mlk-jr.html"
-    ampWebUrl: "https://www.christianpost.com/amp/alveda-king-slams-kamala-harris-for-plagiarizing-mlk-jr.html"
-    cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/alveda-king-slams-kamala-harris-for-plagiarizing-mlk-jr.html"
-    type: article
-    provider:
-      name: The Christian Post
-      domain: christianpost.com
-    quality: 69
-    images:
-      - url: "https://cdn.christianpost.com/files/cache/image/13/97/139770_w_450_301.jpg"
-        width: 450
-        height: 301
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/6401610666115/2021/1/2c460360f32fa2d889fa9d067e4439d7/v1.5/DC-attorney-general-seeks-to-interview-Donald-Trump-Jr-on-inauguration-funds.jpg"
+        width: 800
+        height: 532
         isCached: true
   - title: "'Washed out mess': Vogue puts Kamala Harris on the cover, but Twitter users aren't happy"
     excerpt: "Vice President-elect Kamala Harris is splashed on the February cover of Vogue, but social media isn't crazy about the magazine's photo choice."
@@ -643,65 +752,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Kamala Harris and Doug Emhoff recall first date: ‘It felt like we had known each other forever’"
-    excerpt: "CNN Vice President-elect Kamala Harris and her husband Doug Emhoff recalled their first date in a rare joint interview with CNN’s Abby Phillip,"
-    publishedDateTime: 2021-01-15T18:34:00Z
-    webUrl: "https://www.mercurynews.com/2021/01/15/kamala-harris-and-doug-emhoff-recall-first-date-it-felt-like-we-had-known-each-other-forever"
-    ampWebUrl: "https://www.mercurynews.com/2021/01/15/kamala-harris-and-doug-emhoff-recall-first-date-it-felt-like-we-had-known-each-other-forever/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/15/kamala-harris-and-doug-emhoff-recall-first-date-it-felt-like-we-had-known-each-other-forever/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 63
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_263ed141685350633ca3cfd29159bf27-h_289cae49dbd4ed18e59e30ca1e35b524.jpg?w=1024&h=719"
-        width: 1024
-        height: 719
-        isCached: true
-  - title: "DeWine does not support Arts Council appointee comments; media owner called Kamala Harris a 'whore'"
-    excerpt: "Ohio Gov. Mike DeWine, through a spokeswoman, condemned comments made by Ohio Arts Council board member Susan Allan Block."
-    publishedDateTime: 2021-01-08T14:25:00Z
-    webUrl: "https://www.dispatch.com/story/news/politics/2021/01/08/susan-block-toledo-blade-owner-backs-conspiracy-theories/6591724002/"
-    ampWebUrl: "https://amp.dispatch.com/amp/6591724002"
-    cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/6591724002"
-    type: article
-    provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
-    quality: 61
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/08/PCIN/da308e81-ba64-4a2f-b962-45b9cc4c8cee-block_headshot.png?auto=webp&crop=415,234,x0,y67&format=pjpg&width=1200"
-        width: 1200
-        height: 677
-        isCached: true
-  - title: "Gov. Mike DeWine distances himself from Ohio Arts Council appointee who posted pro-Trump rant that called VP-elect Kamala Harris a ‘whore’"
-    excerpt: "Gov. Mike DeWine on Thursday distanced himself from one of his appointees, Susan Allan Block, after Block posted incendiary comments on social media supporting President Donald Trump’s false narrative about election fraud and calling Vice President-elect Kamala Harris a “whore."
-    publishedDateTime: 2021-01-08T03:32:00Z
-    webUrl: "https://www.cleveland.com/open/2021/01/gov-mike-dewine-distances-himself-from-ohio-arts-council-appointee-who-posted-pro-trump-rant-that-called-vp-elect-kamala-harris-a-whore.html"
-    ampWebUrl: "https://www.cleveland.com/open/2021/01/gov-mike-dewine-distances-himself-from-ohio-arts-council-appointee-who-posted-pro-trump-rant-that-called-vp-elect-kamala-harris-a-whore.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/01/gov-mike-dewine-distances-himself-from-ohio-arts-council-appointee-who-posted-pro-trump-rant-that-called-vp-elect-kamala-harris-a-whore.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 56
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PYHAGOCZFFBC3ONEEVBATNEZXM.jfif"
-        width: 423
-        height: 300
-        isCached: true
-  - title: "Kamala Harris’ husband becomes first second gentleman"
-    excerpt: "Doug Emhoff, the husband of Kamala Harris will also be a part of history this January. Harris' historic victory will result in a whole new job title for her husband"
-    publishedDateTime: 2021-01-04T21:57:00Z
-    webUrl: "https://www.stltoday.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_08ed75ff-5e22-58fb-acce-40b2b0d69f13.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_08ed75ff-5e22-58fb-acce-40b2b0d69f13.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/kamala-harris-husband-becomes-first-second-gentleman/video_08ed75ff-5e22-58fb-acce-40b2b0d69f13.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 55
   - title: "Arts agency member resigns after vulgar comment about Harris"
     excerpt: "An appointee to the Ohio Arts Council resigned Friday after making a vulgar comment on social media about Vice President-elect Kamala Harris that also supported President"
     publishedDateTime: 2021-01-09T00:51:00Z
@@ -730,59 +780,42 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Sewing: Kamala Harris’ Vogue cover causes controversy"
-    excerpt: "Showcasing one of the most powerful women in the world in such a casual look diminishes this significant Vogue moment to show Kamala Harris in a position of power."
-    publishedDateTime: 2021-01-11T17:00:00Z
-    webUrl: "https://www.sfchronicle.com/life/article/Sewing-Kamala-Harris-Vogue-cover-causes-15861425.php"
+  - title: "Trump Impeached For Unprecedented Second Time"
+    excerpt: "Donald Trump became the first US president in history to be impeached twice when the US House of Representatives voted Wednesday to charge him with inciting last week's mob attack on Congress. \"Today,"
+    publishedDateTime: 2021-01-14T06:17:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeached-unprecedented-second-time-3121095"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/08/14/us-speaker-of-the-house-nancy-pelosi-is.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Alert: AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
+    excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance."
+    publishedDateTime: 2021-01-15T18:27:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Alert-AP-sources-Vice-President-Mike-Pence-15874255.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/Alert-AP-sources-Vice-President-Mike-Pence-15874255.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Alert-AP-sources-Vice-President-Mike-Pence-15874255.php"
     type: article
     provider:
       name: San Francisco Chronicle
       domain: sfchronicle.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/01/16/07/71/20479573/3/rawImage.jpg"
-        width: 628
-        height: 346
-        isCached: true
-  - title: "Kamala Harris's Vogue cover caught her team by surprise, causes stir online"
-    excerpt: "Vogue released two images online, but the photo of a sneaker-clad Harris is the one that will grace the cover of the fashion bible's print edition."
-    publishedDateTime: 2021-01-11T15:30:00Z
-    webUrl: "https://tulsaworld.com/news/national/kamala-harriss-vogue-cover-caught-her-team-by-surprise-causes-stir-online/article_fefc329b-4850-5ec2-a985-c432f2d95d14.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 53
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/f/ef/fefc329b-4850-5ec2-a985-c432f2d95d14/5ffc6166033e2.preview.jpg?crop=1919%2C1079%2C0%2C0&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "I’m an American teenager of South Indian descent. Here’s what Kamala Harris means to me"
-    excerpt: "Seeing Kamala Harris about to become U.S. vice president has largely fulfilled a childhood dream of mine, writes 15-year-old Disha Cattamanchi. \"Although I only see her through a TV screen, I see so much of myself and what I"
-    publishedDateTime: 2021-01-14T14:00:00Z
-    webUrl: "https://www.seattletimes.com/life/im-an-american-teenager-of-south-indian-descent-heres-what-kamala-harris-means-to-me/"
-    ampWebUrl: "https://www.seattletimes.com/life/im-an-american-teenager-of-south-indian-descent-heres-what-kamala-harris-means-to-me/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/life/im-an-american-teenager-of-south-indian-descent-heres-what-kamala-harris-means-to-me/?amp=1"
+    quality: 54
+  - title: "400 members of Washington state National Guard called to D.C. to boost security during President-elect Joe Biden’s inauguration"
+    excerpt: "In the wake of the insurgence at the U.S. Capitol during certification of the Electoral College votes last week and threats of further violence, nearly 400 Washington National Guard soldiers and airmen are being sent to D."
+    publishedDateTime: 2021-01-15T15:05:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/400-members-of-washington-state-national-guard-called-to-d-c-to-boost-security-during-president-elect-joe-bidens-inauguration/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/400-members-of-washington-state-national-guard-called-to-d-c-to-boost-security-during-president-elect-joe-bidens-inauguration/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/400-members-of-washington-state-national-guard-called-to-d-c-to-boost-security-during-president-elect-joe-bidens-inauguration/?amp=1"
     type: article
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 47
-  - title: "Readers Write: COVID vaccinations, riots past and present, unity and polarization, Kamala Harris"
-    excerpt: "Where are the plans for opening of 24/7 mass vaccination centers, the utilization of the National Guard for community vaccinations, supplying vaccine doses to local pharmacies, or other alternatives?"
-    publishedDateTime: 2021-01-14T23:45:00Z
-    webUrl: "https://www.startribune.com/readers-write-covid-vaccinations-riots-past-and-present-unity-and-polarization-kamala-harris/600010706/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 42
-    images:
-      - url: "https://chorus.stimg.co/22236631/ows_3da7b3d1_db73_4415_ae3d_65ea5ae81790.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 27
 
 secured: "4ELxp6AuuuLrbsD9Ahdt9ROdJyRDPmMXupsgGwqYUp6sIPe/XU2MRsoMqr22oPPzANHr9Gynbn9flQywqvYK1LZmvuMU0SqNnZ8tKhmFrH/Fhs5KIhqlJFFmFWodlenaiVzYPopVaWpvBeu71WJBSH8EQMh9pdpbXqSEWKeFxmqPGFxD1mcASi6XfH71159EC/iaQn71KE/Lrswp7TY8ezj3mQLAbvDU+8AxiDcMEbzg/zFi8QS/rr2N5CzfjZD/l45ZaSRzpkEV0YJxgFNFodV9ibr/hRvBwg5gzpZYc2Lt1B32z1I8VA5Z0oAw4tbc5xaKRjYHTOzynlqsRhf+yvwXjeUsaoN4oCGj+uRrotk=;4G0gnEnIBMtzT/zW8Hvw0w=="
 ---

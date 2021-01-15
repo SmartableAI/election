@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump explodes at Nixon comparisons as he prepares to leave office"
-    excerpt: "In his final days in office, President Donald Trump has found the parts of the job he loved replaced by cold legal warnings, forced video addresses and a shrinking circle of downtrodden aides, all anxiously wondering what life will be like after noon on January 20.\n    \n"
-    publishedDateTime: 2021-01-15T00:32:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7xksFVMWNk0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/donald-trump-presidency-ending/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/donald-trump-presidency-ending/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114092825-02-trump-0112-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Angry staffer appears to be behind State Department website edits saying Trump's term is over"
     excerpt: "A disgruntled State Department employee appears to have been behind bizarre changes to the department website Monday that stated that President Donald Trump and Vice President Mike Pence's terms were over, two sources told CNN.\n    \n"
     publishedDateTime: 2021-01-11T23:44:32Z

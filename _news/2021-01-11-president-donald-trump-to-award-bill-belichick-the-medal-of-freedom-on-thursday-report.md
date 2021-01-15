@@ -91,6 +91,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Ivanka Trump Deletes Tweet That Hailed Rioters As 'American Patriots'"
+    excerpt: "Ivanka Trump deleted a tweet after the Twitterati took her to task for describing her father's supporters who stormed the Capitol as \"American Patriots.\" Trump called on the armed protesters to stand down about a half-hour after President Trump first asked the crowd to respect the Capitol police."
+    publishedDateTime: 2021-01-06T21:57:00Z
+    webUrl: "https://www.ibtimes.com/ivanka-trump-deletes-tweet-hailed-rioters-american-patriots-3115979"
+    ampWebUrl: "https://www.ibtimes.com/ivanka-trump-deletes-tweet-hailed-rioters-american-patriots-3115979?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivanka-trump-deletes-tweet-hailed-rioters-american-patriots-3115979?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/12-times-donald-trump-acted-totally-inappropriately-ivanka-09.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "h4NUrDfQ/ZIajqLSzuFbgz8uz9noyQyyWxRjGd59b8/gwLxYt6tBnF2R9JTpE7qEKSZCbVnqDM0IHdq9YtP7imPCKwr1qcsummO4+nADYoiUe+9QQip+znD57MyeV/QL7UhcbLBaT6YaIh5RjjPonqqUxQTS/SMIhzlqs5aAqGGDcykWQXFTGXOZt/0qKXAxF3Y0v1Z+VAtd7ey6wRCfxEHNwXcw/IzZPQ1VEBdLmhj6U6BYL0nKIZ5Xu//3mt3fTR8P1hJZlPCFAuBgUdFKawOLFrlg9oqfZWkPLwOhnc5o1EleuoZl09RHREnnOK2oOnLjVrJKn5zH6sTHWx/tz/CPp64gYr1vCjCtAUk6ePw=;N4Od9S8xEaqOlvJBedwtOQ=="
 ---

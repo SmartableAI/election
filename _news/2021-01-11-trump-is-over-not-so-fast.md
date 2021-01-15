@@ -84,22 +84,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump expected to travel to Mar-a-Lago on morning of Biden's inauguration: sources"
-    excerpt: "President Trump is expected to travel to his resort at Mar-a-Lago in Florida the morning of Jan. 20 – the day of President-elect Joe Biden’s inauguration – where he is expected to reside after his presidency, Fox News has learned."
-    publishedDateTime: 2021-01-15T14:09:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wiZq2t79FSQ/trump-mar-a-lago-biden-inauguration"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-mar-a-lago-biden-inauguration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mar-a-lago-biden-inauguration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 184
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "De Blasio accuses Trump of ‘treason,’ says he should be removed"
     excerpt: "New York City Mayor Bill de Blasio on Thursday said President Trump should be removed from office -- and accused him of committing \"treason\" with his remarks to supporters who went on to storm the Capitol building."
     publishedDateTime: 2021-01-07T21:47:08Z

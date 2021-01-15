@@ -31,159 +31,118 @@ images:
     isCached: true
 
 related:
-  - title: "Attorney representing Trump in Texas dispute pushed racist conspiracy about Kamala Harris"
-    excerpt: "An attorney representing President Donald Trump, John Eastman, is known for recently pushing a racist conspiracy theory -- that Trump himself later amplified -- claiming Vice President-elect Kamala Harris might not be eligible for the role because her parents were immigrants.\n    \n"
-    publishedDateTime: 2020-12-09T23:35:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qf46tHJkzg8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/john-eastman-trump-texas-kamala-harris/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/john-eastman-trump-texas-kamala-harris/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 191
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130630135736-john-eastman-traditional-marriage-story-top.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Explaining the Supreme Court lawsuit from Texas and Trump challenging Biden's win"
-    excerpt: "Although all 50 states have certified their election results and the Supreme Court swiftly rejected an emergency request from Pennsylvania Republicans to block election results in the commonwealth, the justices are now grappling with a new controversial bid from Texas, supported by President Donald Trump"
-    publishedDateTime: 2020-12-10T12:07:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WL5vIx4arp0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/trump-texas-supreme-court-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/trump-texas-supreme-court-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 185
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209213654-ken-paxton-donald-trump-200611-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump asked Ted Cruz to argue Texas election lawsuit if it reaches Supreme Court"
-    excerpt: "President Donald Trump personally asked Republican Sen. Ted Cruz of Texas if he would argue a long-shot election lawsuit seeking to overturrn the election results in four battleground states, should the Supreme Court agree to take it up, two sources told CNN on Wednesday.\n    \n"
-    publishedDateTime: 2020-12-10T02:29:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HcIORmwVZHw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 185
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013140500-14-barrett-hearing-1013-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump and Barr had 'contentious' White House meeting this week"
-    excerpt: "President Donald Trump and Attorney General William Barr had a \"contentious,\" lengthy meeting inside the West Wing this week after Barr told The Associated Press in an interview that the Justice Department had uncovered no evidence of fraud that would change the election outcome, one person familiar"
-    publishedDateTime: 2020-12-03T16:20:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zNwL_Szchuo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/politics/trump-william-barr-attorney-general/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/trump-william-barr-attorney-general/index.html"
+  - title: "Trump associates, including Giuliani, are asking for pardons"
+    excerpt: "President Donald Trump's associates are making appeals to him in the hopes of obtaining pardons before he leaves office, a source familiar with the matter told CNN on Tuesday.\n    \n"
+    publishedDateTime: 2020-12-01T22:44:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y1hUJ1HJvYk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/trump-rudy-giuliani-pardons/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/trump-rudy-giuliani-pardons/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201225050-trump-barr-split-1201-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190925034820-giuliani-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden, Harris beat Trump again, this time as Time's 'Person of the Year'"
-    excerpt: "Other contenders were Dr. Anthony Fauci, front-line Covid-19 workers and racial justice movements that led protests over the death of George Floyd."
-    publishedDateTime: 2020-12-11T04:47:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/biden-harris-beat-trump-again-time-time-s-person-year-n1250762"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250762"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250762"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 174
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_33/3404797/200811-joe-biden-kamala-harris-ac-1014p_e00b2642631f6be472883994c8fc6730.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "The Texas attorney general taking Trump's voter fraud conspiracies to the Supreme Court"
-    excerpt: "Texas Attorney General Ken Paxton, who has fought in the courts for President Donald Trump's causes before, has emerged as one of the final defenders of the President's baseless claims of voter fraud in hopes of overturning the election.\n    \n"
-    publishedDateTime: 2020-12-10T19:20:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5R8RCnECLqM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/texas-attorney-general-ken-paxton-supreme-court-case/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/texas-attorney-general-ken-paxton-supreme-court-case/index.html"
+  - title: "Rudy Giuliani tests positive for coronavirus, Trump says"
+    excerpt: "Rudy Giuliani, the personal attorney to President Donald Trump, has tested positive for Covid-19, Trump announced.\n    \n"
+    publishedDateTime: 2020-12-06T20:42:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qe7R554dAOY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/rudy-giuliani-coronavirus-positive/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/rudy-giuliani-coronavirus-positive/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210093404-texas-ag-ken-paxton-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201119151558-rudy-giuliani-press-briefing-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's effort to overthrow democracy dead ends at Supreme Court but the damage is lasting"
-    excerpt: "President Donald Trump's effort to unravel democracy hit a dead end at the Supreme Court Friday night, capping five weeks in which he dragged the country along on his narcissistic quest to stay in power after President-elect Joe Biden overwhelmingly won the election.\n    \n"
-    publishedDateTime: 2020-12-12T05:30:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nx3U1r1h1AY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/donald-trump-supreme-court-pfizer-vaccine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/donald-trump-supreme-court-pfizer-vaccine/index.html"
+  - title: "Trump talks of 'another four years' during White House Christmas reception  "
+    excerpt: "President Donald Trump talked during a Christmas reception at the White House on Tuesday about spending four more years in office -- whether that starts in January 2021 or January 2025, according to a source familiar with his comments.\n    \n"
+    publishedDateTime: 2020-12-02T04:22:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lLSg-8QyMQM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/donald-trump-christmas-party-second-term/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/donald-trump-christmas-party-second-term/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 165
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211133213-trump-axelrod-oped-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201143233-02-trump-1124-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Dianne Feinstein wants Alex Padilla to replace Kamala Harris in Senate"
-    excerpt: "Calif., is throwing her support to California Secretary of State Alex Padilla to fill the seat of Sen. Kamala Harris when she is sworn in as vice president \"I know him. And my sense is that he's going to represent California very well."
-    publishedDateTime: 2020-12-02T23:40:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/dianne-feinstein-wants-alex-padilla-replace-kamala-harris-senate-n1249773"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249773"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249773"
+  - title: "Trump administration pushes 'midnight regulations' after breaking records for final-year rulemaking "
+    excerpt: "President Donald Trump's political appointees are finalizing an array of last-minute federal regulations ahead of Joe Biden's inauguration, including rules that would make it harder to enforce environmental protections, tighten immigration, remove penalties for killing birds, and possibly eliminate food"
+    publishedDateTime: 2020-12-06T14:14:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1shxAlhb80k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/06/politics/trump-midnight-regulations-record-rulemaking/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/06/politics/trump-midnight-regulations-record-rulemaking/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201203130728-02-trump-1203-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump announces that Rudy Giuliani has Covid"
+    excerpt: "The president's lawyer has appeared maskless during meetings with state lawmakers in recent days. The meetings are part of the president's push to overturn the election results."
+    publishedDateTime: 2020-12-06T20:34:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-announces-rudy-giuliani-has-covid-n1250163"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250163"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250163"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_47/3429311/201118-alex-padilla-al-1302_81e1861128631a14e6087a1ab33ff821.jpg"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_49/3433723/201206-rudy-giuliani-jm-1526_276b300fa78aa533d50bc74cae50ef1f.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Who will replace Kamala Harris in the Senate? California governor weighs a shortlist of firsts"
-    excerpt: "The possible replacements include Long Beach Mayor Robert Garcia and California Secretary of State Alex Padilla."
-    publishedDateTime: 2020-12-14T13:58:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/who-will-replace-kamala-harris-u-s-senate-california-governor-n1250975"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250975"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250975"
+  - title: "Trump Has Discussed With Advisers Pardons for His 3 Eldest Children and Giuliani"
+    excerpt: "Rudolph W. Giuliani, who is promoting baseless claims of widespread election fraud, talked about a pardon with President Trump as recently as last week."
+    publishedDateTime: 2020-12-02T03:11:00Z
+    webUrl: "https://www.nytimes.com/2020/12/01/us/politics/rudy-giuliani-pardon.html"
+    ampWebUrl: "https://www.nytimes.com/2020/12/01/us/politics/rudy-giuliani-pardon.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/01/us/politics/rudy-giuliani-pardon.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/01/us/politics/01transition-briefing-rudy-giuliani-pardon1/01transition-briefing-rudy-giuliani-pardon1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump's false fraud claims are laying groundwork for new voting restrictions, experts warn"
+    excerpt: "While the courts aren’t buying Trump's attempts to overturn the election he lost, experts say they are already seeing a push for new laws making it harder to vote."
+    publishedDateTime: 2020-12-06T09:54:00Z
+    webUrl: "https://www.nbcnews.com/politics/elections/trump-s-false-fraud-claims-are-laying-groundwork-new-voting-n1250059"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250059"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250059"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 123
+    quality: 125
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434600/201209-los-angeles-alex-padilla-ac-419p_0_5eecaf7673fb2b6dd17bdf7d233aff1c.jpg"
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_49/3432174/201201-donald-trump-rally-jm-1114_c7d849bfde4e4a44e66c8cd9722a7824.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Donald Trump’s Newest Lawyer Is a Kamala Harris Birther"
-    excerpt: "John Eastman is listed as the attorney repping the president on the latest suit seeking to overturn the results of the 2020 elections."
-    publishedDateTime: 2020-12-10T02:39:00Z
-    webUrl: "https://www.thedailybeast.com/donald-trumps-newest-lawyer-is-john-eastman-a-kamala-harris-birther"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 60
 
 secured: "VnE2h5fHXbK8nWedxSJvJrAQ6TeLV5BV/RLjRwjOYFKcUEhsjF5RCcR53XZk5ufV23XE8O4DIdt160E5WHoJCpl+W1AceAM5Xx5nIVFn/4VaX7Jxood9y+F5wX50P+cDrarVDTTlpZgi4nBAY8GnDGHBlbni6RSjM9mXQUTDx3EvB0+vmqKdXStcsLD7iEyZBqfeRgSOJVgUQzUrx5k6m+tIMubRqZMk4IETJ/nnl9oKWOyOrp7NpZ0HAFilposMCYFDfiJ6E3UkwWxVmS/PrsHhDanCD9erbPkAlpHVE6jaVqGfF90Cg0Yh1rz5lXC9wHHzxmi+Rch1RkMD2aiArxRUhAjn4jdNlJ77nt+4ARY=;A5KgPRfVToVKkh5HpOnITQ=="
 ---

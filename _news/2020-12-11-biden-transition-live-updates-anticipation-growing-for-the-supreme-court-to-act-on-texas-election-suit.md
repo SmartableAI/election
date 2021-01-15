@@ -32,147 +32,99 @@ images:
     isCached: true
 
 related:
-  - title: "Narrow House majority will test Democratic unity in Biden administration "
-    excerpt: "Democrats' shrinking House majority will test Speaker Nancy Pelosi's resolve to keep her caucus united and could limit the party's ability to push through President-elect Joe Biden's legislative agenda in their own chamber if they can't stick together.\n    \n"
-    publishedDateTime: 2020-12-10T01:43:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nvRI886ciY8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/house-democratic-majority-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/house-democratic-majority-biden-administration/index.html"
+  - title: "Trump asked Ted Cruz to argue Texas election lawsuit if it reaches Supreme Court"
+    excerpt: "President Donald Trump personally asked Republican Sen. Ted Cruz of Texas if he would argue a long-shot election lawsuit seeking to overturrn the election results in four battleground states, should the Supreme Court agree to take it up, two sources told CNN on Wednesday.\n    \n"
+    publishedDateTime: 2020-12-10T02:29:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HcIORmwVZHw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/09/politics/trump-ted-cruz-supreme-court/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204173254-02-pelosi-1204-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013140500-14-barrett-hearing-1013-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "READ: Mitch McConnell's floor speech congratulating President-elect Biden"
-    excerpt: "Senate Majority Leader Mitch McConnell recognized Joe Biden's victory on Tuesday in a floor speech, where he congratulated the President-elect but also praised Donald Trump's presidency.\n    \n"
-    publishedDateTime: 2020-12-15T17:11:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lloSgAao-P4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/mcconnell-floor-speech-text-president-elect/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/mcconnell-floor-speech-text-president-elect/index.html"
+  - title: "The Texas attorney general taking Trump's voter fraud conspiracies to the Supreme Court"
+    excerpt: "Texas Attorney General Ken Paxton, who has fought in the courts for President Donald Trump's causes before, has emerged as one of the final defenders of the President's baseless claims of voter fraud in hopes of overturning the election.\n    \n"
+    publishedDateTime: 2020-12-10T19:20:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5R8RCnECLqM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/10/politics/texas-attorney-general-ken-paxton-supreme-court-case/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/10/politics/texas-attorney-general-ken-paxton-supreme-court-case/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215105233-mcconnell-biden-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210093404-texas-ag-ken-paxton-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden wrestles with politics in effort to depoliticize the Justice Department "
-    excerpt: "Political questions from Democrats and a new Republican litmus test have suddenly become complicating factors in one of President-elect Joe Biden's most critical choices: picking a new Attorney General to lead the Justice Department out of its highly politicized era.\n    \n"
-    publishedDateTime: 2020-12-04T11:03:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JrsNL3KCkDA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/04/politics/biden-attorney-general-search/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/04/politics/biden-attorney-general-search/index.html"
+  - title: "Explaining the Supreme Court's ruling denying Trump and how Alito and Thomas didn't dissent"
+    excerpt: "The Supreme Court's order Friday tossing out Texas' attempt to void millions of votes in four states and help President Donald Trump capture a second term was clear and concise.\n    \n"
+    publishedDateTime: 2020-12-12T18:36:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nrF91q4SeJ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/12/politics/texas-pennsylvania-supreme-court-alito-thomas-explained/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/12/politics/texas-pennsylvania-supreme-court-alito-thomas-explained/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201129183807-biden-file-1125-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201103134906-20201103-scotus-gfx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Inauguration committee says Biden's scaled-down swearing-in will include 'vigorous health and safety protocols'"
-    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will take their oaths of office at the US Capitol in January during a significantly scaled-down inauguration ceremony that will implement \"vigorous health and safety protocols,\" the Presidential Inaugural Committee said Tuesday.\n    \n"
-    publishedDateTime: 2020-12-15T17:55:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xQYc3EvnfX0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/15/politics/biden-harris-inauguration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/15/politics/biden-harris-inauguration/index.html"
+  - title: "What the Electoral College vote means for Trump and Biden"
+    excerpt: "All 50 states have already certified their election results ensuring that Joe Biden will be the 46th president, but the Electoral College vote makes the result official. Trump and some Republican had sought to have electors removed in four crucial battleground states,"
+    publishedDateTime: 2020-12-13T16:06:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/what-electoral-college-vote-means-trump-biden-n1250595"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250595"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250595"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 155
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201204050014-biden-harris-split-1204-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434930/201210-electoral-count-congress-2013-ac-606p_ea22e3050be6b29ce9da3ad45ea6fbfa.jpg"
+        width: 2500
+        height: 1513
         isCached: true
-  - title: "'Democracy prevailed': Biden tries to close the door on a tumultuous election"
-    excerpt: "As the Electoral College moves to seal his victory, the president-elect is shifting his attention to the pandemic."
-    publishedDateTime: 2020-12-14T21:55:00Z
-    webUrl: "https://www.politico.com/news/2020/12/14/biden-election-coronavirus-attention-445216"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/14/biden-election-coronavirus-attention-445216"
+  - title: "Ivanka Trump deposed Tuesday as part of inauguration fund lawsuit"
+    excerpt: "The suit claims the Inaugural Committee made improper payments to the president's Washington hotel during the week of the inauguration in 2017."
+    publishedDateTime: 2020-12-03T04:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/ivanka-trump-deposed-tuesday-part-inauguration-fund-lawsuit-n1249801"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1249801"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249801"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 147
-    images:
-      - url: "https://static.politico.com/54/98/3c1b209c4de5808df63b927e73f9/ap20341146406321-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Wall Street Journal Opinion Editor Defends Item on Dr. Jill Biden"
-    excerpt: "There’s nothing like playing the race or gender card to stifle criticism,” Paul A. Gigot said as he accused Democrats of orchestrating a coordinated response to an op-ed piece."
-    publishedDateTime: 2020-12-14T03:20:00Z
-    webUrl: "https://www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/13/business/dr-jill-biden-wall-street-journal.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/12/14/business/13wsj-gigot-print/13wsj-gigot-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Biden urged to change immigration policy to send more health workers to Covid hot spots"
-    excerpt: "Backers of the legislation think linking health worker shortages with immigration policy will resonate with the incoming administration."
-    publishedDateTime: 2020-12-03T09:49:00Z
-    webUrl: "https://www.politico.com/news/2020/12/03/biden-immigration-policy-health-workers-442411"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/03/biden-immigration-policy-health-workers-442411"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/03/biden-immigration-policy-health-workers-442411"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 127
-    images:
-      - url: "https://static.politico.com/8a/5f/f94fd7c34f65a2b21373e5ff3869/gettyimages-1229807401-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "The U.S. sends Egypt billions in aid. Fearing 'extinction,' rights activists hope Biden will act."
-    excerpt: "Fearing 'extinction,' rights activists hope Biden will act. Rights groups say the scale of oppression under Egyptian President Abdel-Fattah el-Sissi is “unprecedented.” Jess Kelly said she knew her husband,"
-    publishedDateTime: 2020-12-12T09:33:00Z
-    webUrl: "https://www.nbcnews.com/news/world/u-s-sends-egypt-billions-aid-fearing-extinction-rights-activists-n1250554"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250554"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250554"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 122
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_49/3432074/201201-egypt-el-sissi-mc-9182_ded51f2664c788e3890578a34275e2e0.jpg"
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_49/3432810/201102-ivanka-trump-2019-ac-1126p_7da6c574be0e91121b1a867b96447b62.jpg"
         width: 2500
-        height: 1667
+        height: 1658
         isCached: true
-  - title: "In leaked recording, Biden says GOP used defund the police to 'beat the living hell' out of Democrats"
-    excerpt: "President-elect Joe Biden appeared to blame the \"Defund the Police\" movement for contributing to surprising Democratic downballot losses in the November election, telling civil rights leaders this week that they should proceed carefully on criminal justice issues."
-    publishedDateTime: 2020-12-10T19:11:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/leaked-recording-biden-says-gop-used-defund-police-beat-living-n1250757"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250757"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250757"
+  - title: "Supreme Court puts off ruling on Trump census case to exclude undocumented immigrants"
+    excerpt: "The administration had asked the justices to fast-track a decision before it must report the numbers to Congress."
+    publishedDateTime: 2020-12-15T01:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/supreme-court-puts-ruling-trump-census-case-exclude-undocumented-immigrants-n1251109"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1251109"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251109"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 120
+    quality: 128
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_50/3434875/201210-joe-biden-ew-323p_fa242b6345a3492961d3c49904198d21.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3435583/201214-census-protest-supreme-court-se-1040a_75e731785be9870c623e6f900274f51e.jpg"
         width: 2500
         height: 1667
         isCached: true

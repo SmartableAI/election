@@ -2,6 +2,270 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-12-23-trump-derails-santa-rally-brexit-deal-hopes-lift-pound.md",
+      "title": "Trump derails \"Santa rally\", Brexit deal hopes lift pound",
+      "excerpt": "World stocks ticked up on Wednesday, as a last-minute intervention by President Donald Trump dampened positive sentiment over a U.S. stimulus deal, while the pound rose on the possibility of a Brexit agreement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-global-markets-idCAKBN28W2S3",
+      "originalUrl": "https://www.reuters.com/article/us-global-markets-idCAKBN28W2S3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545562812&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM0WA",
+          "width": 923,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN28W2S3",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN28W2S3",
+      "publishedDateTime": "2020-12-23T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-trump-grants-full-pardon-to-russia-probe-figure-george-papadopoulos.md",
+      "title": "Trump grants full pardon to Russia probe figure George Papadopoulos",
+      "excerpt": "President Donald Trump granted a full pardon on Tuesday to George Papadopoulos, a former campaign aide who pleaded guilty as part of the investigation into Russian meddling in the 2016 presidential election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-pardons-idUSKBN28X00R",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-pardons-idUSKBN28X00R",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545498490&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM009",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28X00R",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X00R",
+      "publishedDateTime": "2020-12-23T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-israel-hopes-for-rapprochement-with-fifth-muslim-country-before-trump-exit-minister.md",
+      "title": "Israel hopes for rapprochement with fifth Muslim country before Trump exit - minister",
+      "excerpt": "Israel is working towards formalising relations with a fifth Muslim country during U.S. President Donald Trump's term, which ends next month, an Israeli government minister told Ynet TV on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-israel-diplomacy-usa/israel-hopes-for-rapprochement-with-fifth-muslim-country-before-trump-exit-minister-idUSKBN28X17H",
+      "originalUrl": "https://www.reuters.com/article/us-israel-diplomacy-usa/israel-hopes-for-rapprochement-with-fifth-muslim-country-before-trump-exit-minister-idUSKBN28X17H",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545545711&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM0OI",
+          "width": 816,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28X17H",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X17H",
+      "publishedDateTime": "2020-12-23T02:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-cair-demands-biden-defund-counterterror-program.md",
+      "title": "CAIR demands Biden 'defund' counterterror program",
+      "excerpt": "The Council on American-Islamic Relations is urging President-elect Joe Biden to soften up on Islamic extremism in a new document on issues it hopes the new administration will address during its first 100 days.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4VuXYaqQRJc/cair-demands-biden-defund-counterterror-program",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4VuXYaqQRJc/cair-demands-biden-defund-counterterror-program",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20357781210201-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cair-demands-biden-defund-counterterror-program.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cair-demands-biden-defund-counterterror-program.amp",
+      "publishedDateTime": "2020-12-22T19:16:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-23-three-christmases-highlights-of-trumps-previous-mar-a-lago-holiday-stays.md",
+      "title": "Three Christmases: Highlights of Trump's previous Mar-a-Lago holiday stays",
+      "excerpt": "Lago will have in store this year, but his previous holidays at the Southern White House have been notable and memorable. Trump arrived on Dec. 16 and departed on Jan. 1. On his way to Palm Beach, the president-elect first stopped in Orlando for a \"thank you\" rally for supporters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/22/president-donald-trumps-prior-mar-lago-holiday-vacations/3855759001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/22/president-donald-trumps-prior-mar-lago-holiday-vacations/3855759001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/22/NPPP/74095b5e-ff54-474c-871d-7364dab22c13-123116_NYE_lago_20.JPG?auto=webp&crop=2099,1181,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3855759001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3855759001",
+      "publishedDateTime": "2020-12-22T18:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-pence-echoes-trump-on-election-loss-in-west-palm-speech-to-conservative-youths.md",
       "title": "Pence echoes Trump on election loss in West Palm speech to conservative youths",
       "excerpt": "Vice President Mike Pence on Tuesday echoed his boss' defiance in the face of re-election defeat during a speech to young conservatives.",
@@ -283,7 +547,7 @@
       "originalUrl": "https://www.businessinsider.com/trumps-main-banker-at-deutsche-bank-announces-her-resignation-2020-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -785,7 +1049,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1105,278 +1369,6 @@
         "Election",
         "Democratic Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-biden-to-push-for-more-coronavirus-relief-setting-up-a-clash-with-gop.md",
-      "title": "Biden to push for more coronavirus relief, setting up a clash with GOP",
-      "excerpt": "Many Democrats backing the coronavirus relief bill are counting on Biden to push for another aid package shortly after taking office. But Republicans oppose another deal, setting up an early clash of wills between Biden and Senate Republicans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RX46U2CDZQI6XLBKHLAPFOGO5M.jpg&w=1440",
-          "width": 1440,
-          "height": 965,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-21T17:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-trumps-conservative-agenda-at-hhs-stalled-by-departments-office-of-general-counsel-sources.md",
-      "title": "Trump's conservative agenda at HHS stalled by department's office of general counsel: sources",
-      "excerpt": "A struggle has developed within the Department of Health and Human Services (HHS) whereby President Trump's abortion and conscience-related agendas encountered roadblocks from the Office of General Counsel (OGC), multiple sources allege.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dVca-wg9Zro/trumps-agenda-hhs-stalled-general-counsel",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dVca-wg9Zro/trumps-agenda-hhs-stalled-general-counsel",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b5ee41ee-7a33-4044-9c9c-7578485e8927/3f8064a5-40f2-4f3a-b03f-3113b2a1c471/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trumps-agenda-hhs-stalled-general-counsel.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-agenda-hhs-stalled-general-counsel.amp",
-      "publishedDateTime": "2020-12-21T15:26:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-rep-clyburn-on-trump-and-operation-warp-speed-im-glad-he-got-out-of-the-way.md",
-      "title": "Rep. Clyburn on Trump and Operation Warp Speed: 'I'm glad he got out of the way'",
-      "excerpt": "President Trump's greatest contribution to the success of Operation Warp Speed in developing a coronavirus vaccine was getting \"out of the way,\" House Majority Whip James Clyburn, D-S.C., told \"Your World\" Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2obl77hcSmg/james-clyburn-trump-got-out-the-way-operation-warp-speed",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2obl77hcSmg/james-clyburn-trump-got-out-the-way-operation-warp-speed",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/24c61943-9d2c-4a6a-a8a8-ae3c1a9a40f0/f17ffae6-84a3-4a3d-bae6-e90de5a00d88/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/james-clyburn-trump-got-out-the-way-operation-warp-speed.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/james-clyburn-trump-got-out-the-way-operation-warp-speed.amp",
-      "publishedDateTime": "2020-12-21T15:21:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-gen-jack-keane-biden-must-be-willing-to-confront-the-chinese-communist-party.md",
-      "title": "Gen. Jack Keane: Biden must be 'willing to confront the Chinese Communist Party'",
-      "excerpt": "New reports confirm China lied about the severity of the coronavirus pandemic, making the question of how the incoming Biden administration will hold Beijing accountable an urgent one, Fox News senior strategic analyst Gen. Jack Keane told \"America's Newsroom\" Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jHsk4wB2VbM/gen-jack-keane-biden-china-coronavirus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jHsk4wB2VbM/gen-jack-keane-biden-china-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba0a1538-c4b5-405d-be79-641ee7ee5a41/35c5cb5e-2711-4458-bd3b-399da0382b26/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gen-jack-keane-biden-china-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gen-jack-keane-biden-china-coronavirus.amp",
-      "publishedDateTime": "2020-12-21T13:18:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-probe-trump-officials-attacked-cdc-virus-reports.md",
-      "title": "Probe: Trump officials attacked CDC virus reports",
-      "excerpt": "A House investigative panel says Trump administration political appointees tried to block or change more than a dozen government articles that detailed scientific findings about the spread of the coro",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/azar-file-ap-ml-201218_1608298081614_hpMain_3_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/probe-trump-officials-attacked-cdc-virus-reports-74842473",
-      "publishedDateTime": "2020-12-21T12:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
