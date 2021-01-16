@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/article/usa-biden-klain/biden-chief-of-sta
 webUrl: "https://www.reuters.com/article/usa-biden-klain/biden-chief-of-staff-klain-says-he-expects-500000-us-covid-19-deaths-next-month-idUSW1N2II025"
 type: article
 quality: 99
-heat: 139
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,6 +29,36 @@ images:
     isCached: true
 
 related:
+  - title: "Biden: We’ll ‘manage the hell’ out of feds’ COVID response"
+    excerpt: "President-elect Joe Biden is pledging to boost supplies of coronavirus vaccine and set up new vaccination sites to meet his goal of 100 million shots in 100 days"
+    publishedDateTime: 2021-01-16T00:10:00Z
+    webUrl: "https://www.washingtonpost.com/health/biden-well-manage-the-hell-out-of-feds-covid-response/2021/01/15/8d3a4336-578e-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/biden-well-manage-the-hell-out-of-feds-covid-response/2021/01/15/8d3a4336-578e-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-well-manage-the-hell-out-of-feds-covid-response/2021/01/15/8d3a4336-578e-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden: Current vaccine rollout 'a dismal failure'"
+    excerpt: "President-elect Joe Biden called the current rollout of the coronavirus vaccine \"a dismal failure\" as he highlighted his $1.9 trillion plan to combat the pandemic and provide additional relief. (Jan."
+    publishedDateTime: 2021-01-15T02:31:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/15/biden-current-vaccine-rollout-a-dismal-failure/4169071001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/ae0c443c-1f54-43f2-8d6c-c7774a67ed7e_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden chief of staff Klain says he expects U.S. COVID-19 deaths to top 500,000 next month"
     excerpt: "U.S. President-elect Joe Biden's incoming chief of staff Ron Klain said on Friday he expects the United States to hit 500,000 COVID-19 deaths next month."
     publishedDateTime: 2021-01-15T18:51:00Z
@@ -42,22 +72,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547957452&r=LYNXMPEH0E1A0&w=800"
         width: 800
         height: 534
-        isCached: true
-  - title: "Sen. Joe Manchin says he'd 'absolutely' oppose Biden's stimulus checks, then swiftly walks it back after stocks tank"
-    excerpt: "Sen. Joe Manchin says he’d 'absolutely' oppose Biden’s stimulus checks, then swiftly walks it back after stocks tank President-elect Joe Biden announced some economic priorities on Friday, but Sen. Joe Manchin (D-W."
-    publishedDateTime: 2021-01-09T06:19:00Z
-    webUrl: "https://theweek.com/speedreads/959931/sen-joe-manchin-says-hed-absolutely-oppose-bidens-stimulus-checks-swiftly-walks-back-after-stocks-tank"
-    ampWebUrl: "https://theweek.com/speedreads-amp/959931/sen-joe-manchin-says-hed-absolutely-oppose-bidens-stimulus-checks-swiftly-walks-back-after-stocks-tank"
-    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/speedreads-amp/959931/sen-joe-manchin-says-hed-absolutely-oppose-bidens-stimulus-checks-swiftly-walks-back-after-stocks-tank"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 52
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1211761002.jpg?itok=48zQHTrK"
-        width: 840
-        height: 560
         isCached: true
 
 secured: "xX96HSf8nzYZyuZNZIG505XX6e9g+DrpufIzuptpcr3xN9Nd7B8T2JefNmu733HHTld51/w7sLp+tRJyDiyRRYUx2ootfPQYUWcRERs435Pf8IIDFF7WOUsHg1T31RsrX7yG2XrYHycP4Lnnjs4LBachPtCzbDUZ/cBsrZ2Z0RQdx3xysuHkTMWeJyMHoRYB+fL9MXys64Jr7svKw5LmkRyMzyK9Lr79UBs6GtAd1pfZ94/HEQEQbdbwxrzVJOUzwysnikY2tT9IPVZpgrV25VjWWANfgiUzoRdNUZcFNdKH855sTwFW6aEV+XS54YnNAQOMekRHvbw5pI57Mw/UY6WkCKRPUvEciCuHPmSO/WU=;zwPxPlLd++gpXNnT244Nxw=="

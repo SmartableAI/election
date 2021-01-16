@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/wall-street-distances-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Capitol riots: What are far-right Trump supporters saying?"
+    excerpt: "Members of the extreme right are searching for new online homes, amid paranoia that they are being ‘set up’ by the authorities."
+    publishedDateTime: 2021-01-16T00:36:00Z
+    webUrl: "https://www.bbc.com/news/blogs-trending-55679813"
+    ampWebUrl: "https://www.bbc.com/news/amp/blogs-trending-55679813"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/blogs-trending-55679813"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/754F/production/_116413003_gettyimages-578547390.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "The symbols of hate and far-right extremism on display in pro-Trump Capitol siege"
     excerpt: "Trump mob stormed the U.S. Capitol, symbols of white supremacy and extremist right wing militias were displayed by some rioters on flags, banners and clothing."
     publishedDateTime: 2021-01-14T15:01:00Z

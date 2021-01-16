@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/report-advises-biden-keep-a-close-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements.amp"
 type: article
 quality: 183
-heat: 263
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,67 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden tries to go from normalcy to relevancy"
-    excerpt: "Biden found the best way in was to promise to just be cool... Will it be enough?"
-    publishedDateTime: 2021-01-14T20:23:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KN4cyx7tScE/biden-tries-to-go-from-normalcy-to-relevancy"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-tries-to-go-from-normalcy-to-relevancy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tries-to-go-from-normalcy-to-relevancy.amp"
+  - title: "Biden unveils ‘bold’ vaccination plan to fix Trump’s ‘dismal failure’"
+    excerpt: "President-elect Biden on Friday unveiled what he touted as a “bold” plan to meet his promised goal of 100 million coronavirus vaccinations by the end of his first 100 days."
+    publishedDateTime: 2021-01-15T23:58:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jjiLw-HbkcA/biden-bold-vaccination-trump-dismal-failure"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-bold-vaccination-trump-dismal-failure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bold-vaccination-trump-dismal-failure.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Cruz will attend Biden inauguration"
-    excerpt: "Sen. Ted Cruz reportedly will attend President-elect Biden’s inauguration next week."
-    publishedDateTime: 2021-01-15T22:48:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g1axAINfP7A/cruz-will-attend-biden-inauguration"
-    ampWebUrl: "https://www.foxnews.com/politics/cruz-will-attend-biden-inauguration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-will-attend-biden-inauguration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6233d261-715d-47b1-8ebc-54d58cbfc46d/fe091f4b-3ec3-4106-aa8c-b7f1e4a3dd6f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Manchin calls second Trump impeachment bid 'ill-advised': 'Let the judicial system do its job'"
-    excerpt: "House Democrats' attempt to impeach President Trump for a second time in connection with last week's riot at the U.S. Capitol is \"so ill-advised,\" Sen. Joe Manchin, D-W.Va. told \"Special Report\" Monday. "
-    publishedDateTime: 2021-01-12T00:20:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tPoWs5d64p8/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course"
-    ampWebUrl: "https://www.foxnews.com/politics/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56961609-b75a-4b4d-886f-7cf6225d0872/1929b563-4df0-450f-8d3f-4e0c35becc7f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden Flings a Slew of Inflammatory Race-Tinged Lies"
-    excerpt: "As President Trump denounced the violence in he Capitol and called for peace and order, Joe Biden had a different idea: Attacking President Trump. And pinning the racism tag on the cops. This is what happened."
-    publishedDateTime: 2021-01-09T13:45:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/09/biden_flings_a_slew_of_inflammatory_race-tinged_lies_533032.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/531874_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "TOk01vB1CLhwKnMY3iywPnbIm0VWAR75mrAvK+lwF9t4YldabNeA+9nqQhWrE9BW6I8T2YN/5P06iTgbG+bYZphAy1aKUMLb0FTGvUGmiMl/Vl0kiACOR4M+A+GJQZizDQrMgsQGTIprzzvzjBe94f7jvMBEMtjvafEgXJgfmomKJR+SLH+yyVR43ubj2Rw8cPlY7Nccau4cG/OHeC4Nr2Hob+zcTqMuREc/OPnTkWvTm3n+r9mhmXCpbodhxfAMnqwP/oHhnXSzJ6aIwC5y7GQO0SvGQUX2M/w6nui2Az+ZiB/Hwut/EvMehRJIIYdqiRJPGfYvw3+Icp5lkvSWQeo9ewi0y9vE5kzghgfE7FE=;znQm46RIdFd2MCojkSJkrA=="

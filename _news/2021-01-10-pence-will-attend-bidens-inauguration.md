@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 2380
+heat: 2400
 published: true
 
 provider:
@@ -1407,6 +1407,22 @@ related:
       - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/f_mo_pence_inaug_safeyty_210114-00_00_01_03-Still001.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden to deploy FEMA, National Guard as part of national vaccination plan"
+    excerpt: "Biden has said that his goal is for 100 million doses of Covid-19 vaccines to be administered within the first 100 days of his presidency."
+    publishedDateTime: 2021-01-16T00:51:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-speak-covid-vaccinations-security-concerns-delay-inaugural-rehearsal-n1254381"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254381"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254381"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3442479/210115-joe-biden-se-426p_6a9bcb2790c0f0189c8e176570053b94.jpg"
+        width: 2500
+        height: 1656
         isCached: true
   - title: "Biden Plans Minimalist Trip From Capitol to White House on Inauguration Day"
     excerpt: "Joe Biden’s inaugural committee suggested the traditional crowd-lined ride down Pennsylvania Avenue would be replaced by a “virtual parade.”"

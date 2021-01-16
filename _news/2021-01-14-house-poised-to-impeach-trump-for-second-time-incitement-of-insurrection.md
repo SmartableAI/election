@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Atlanta Prosecutor Appears to Move Closer to Trump Inquiry"
+    excerpt: "The Fulton County district attorney is weighing an inquiry into possible election interference and is said to be considering hiring an outside counsel."
+    publishedDateTime: 2021-01-16T00:22:00Z
+    webUrl: "https://www.nytimes.com/2021/01/15/us/politics/atlanta-prosecutor-trump-election.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/15/us/politics/atlanta-prosecutor-trump-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/15/us/politics/atlanta-prosecutor-trump-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/15/us/politics/15georgia/15georgia-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Live Updates: Pelosi Threatens Impeachment if Trump Doesn’t Resign ‘Immediately’"
     excerpt: "The House could vote on impeachment next week. President Trump will not attend President-elect Joe Biden’s inauguration. With less than two weeks left of Mr. Trump’s presidency, a wave of resignations hits his cabinet."
     publishedDateTime: 2021-01-08T14:19:00Z

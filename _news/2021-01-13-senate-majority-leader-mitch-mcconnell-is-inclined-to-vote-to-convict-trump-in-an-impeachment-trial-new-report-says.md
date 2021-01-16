@@ -111,6 +111,20 @@ related:
         width: 1200
         height: 793
         isCached: true
+  - title: "Trump receives Morocco's highest award for Middle East work: official"
+    excerpt: "U.S. President Donald Trump on Friday received Morocco's highest award for his work in advancing a normalization deal between Israel and Morocco, a senior administration official told Reuters."
+    publishedDateTime: 2021-01-16T00:05:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-morocco/trump-receives-moroccos-highest-award-for-middle-east-work-official-idUSKBN29K2GK?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547969691&r=LYNXMPEH0E1FT&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Mitch McConnell is telling GOP senators their decision on a Trump impeachment trial conviction is a 'vote of conscience'"
     excerpt: "Majority Leader Mitch McConnell has been telling GOP senators they have the freedom to vote however they want during Trump's impeachment trial."
     publishedDateTime: 2021-01-15T18:24:00Z

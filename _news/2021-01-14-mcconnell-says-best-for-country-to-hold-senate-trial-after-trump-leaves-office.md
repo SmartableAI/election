@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/mcconnell-best-country-hold-sena
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnell-best-country-hold-senate-trial-trump-leaves/story?id=75235663"
 type: article
 quality: 121
-heat: 281
+heat: 301
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/EriE5_l5xPVwtO9jmKjyyRb_Uws=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VRWGIX76UW7OWH7Y36Q25UFT4A.jpg"
         width: 1200
         height: 793
+        isCached: true
+  - title: "Trump receives Morocco's highest award for Middle East work: official"
+    excerpt: "U.S. President Donald Trump on Friday received Morocco's highest award for his work in advancing a normalization deal between Israel and Morocco, a senior administration official told Reuters."
+    publishedDateTime: 2021-01-16T00:05:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-morocco/trump-receives-moroccos-highest-award-for-middle-east-work-official-idUSKBN29K2GK?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547969691&r=LYNXMPEH0E1FT&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "Senate Majority Leader Mitch McConnell is inclined to vote to convict Trump in an impeachment trial, new report says"
     excerpt: "House Minority Leader Kevin McCarthy is also talking to GOP colleagues about whether he should ask Trump to resign, The New York Times reports."

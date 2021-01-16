@@ -1424,6 +1424,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden to deploy FEMA, National Guard as part of national vaccination plan"
+    excerpt: "Biden has said that his goal is for 100 million doses of Covid-19 vaccines to be administered within the first 100 days of his presidency."
+    publishedDateTime: 2021-01-16T00:51:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-speak-covid-vaccinations-security-concerns-delay-inaugural-rehearsal-n1254381"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254381"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254381"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3442479/210115-joe-biden-se-426p_6a9bcb2790c0f0189c8e176570053b94.jpg"
+        width: 2500
+        height: 1656
+        isCached: true
   - title: "Biden Denounces Storming of Capitol as a ‘Dark Moment’ in Nation’s History"
     excerpt: "The president-elect said the violence “borders on sedition” and made clear he viewed President Trump as responsible for inciting his supporters with baseless claims the election was stolen."
     publishedDateTime: 2021-01-07T07:55:00Z

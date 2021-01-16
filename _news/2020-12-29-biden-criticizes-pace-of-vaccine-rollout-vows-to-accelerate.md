@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-warns-o
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-warns-of-trump-officials-roadblocks-to-transition/2020/12/28/afa90a48-4969-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -217,6 +217,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/29/c0ee9fa5-cfc9-486e-97d6-fb0f7d792ca7/thumbnail/1200x630/3a6397e7cee8d7040b8a6e789e15cbe6/cbsn-fusion-joe-biden-covid-19-response-plan-vaccine-distribution-thumbnail-617751-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "6 things you need to know about Joe Biden's just-released plan to transform the chaotic covid vaccine rollout"
+    excerpt: "People who have essential jobs such as teachers, firefighters, and grocery store workers would be moved to the front of the line for a coronavirus vaccine."
+    publishedDateTime: 2021-01-15T23:39:00Z
+    webUrl: "https://www.businessinsider.com/biden-coronavirus-vaccine-plan-operation-warp-speed-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/600221a8e3d62500185fce93?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Ted Cruz says he’ll object to certification of Electoral College votes that will make Joe Biden’s victory official"
     excerpt: "Joining several other U.S. senators, Cruz is calling for an emergency audit of election results in “disputed states,” despite no evidence of widespread election fraud."

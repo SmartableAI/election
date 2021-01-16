@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/melania-trump-impeachmen
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/melania-trump-impeachment-donald-trump-riot/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/160330182055-state-department-logo-2007-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Atlanta Prosecutor Appears to Move Closer to Trump Inquiry"
+    excerpt: "The Fulton County district attorney is weighing an inquiry into possible election interference and is said to be considering hiring an outside counsel."
+    publishedDateTime: 2021-01-16T00:22:00Z
+    webUrl: "https://www.nytimes.com/2021/01/15/us/politics/atlanta-prosecutor-trump-election.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/15/us/politics/atlanta-prosecutor-trump-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/15/us/politics/atlanta-prosecutor-trump-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/15/us/politics/15georgia/15georgia-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "House poised to impeach Trump for second time: 'Incitement of insurrection'"
     excerpt: "The House is expected to impeach  Wednesday afternoon for a second time, charging the president with \"incitement of insurrection\" for his role in the violent takeover by a pro-Trump mob of the U.S. Capitol that left five people dead and terrorized lawmakers as they sought to affirm President-elect Joe Biden's victory."

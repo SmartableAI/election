@@ -1,28 +1,34 @@
 ---
 category: news
 title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
-excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
-publishedDateTime: 2021-01-15T21:34:00Z
-originalUrl: "https://www.stltoday.com/news/national/govt-and-politics/article_83c74b49-2415-5ca6-8ce3-a2ba0e83f0fa.html"
-webUrl: "https://www.stltoday.com/news/national/govt-and-politics/article_83c74b49-2415-5ca6-8ce3-a2ba0e83f0fa.html"
+excerpt: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
+publishedDateTime: 2021-01-15T23:29:00Z
+originalUrl: "https://www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html"
+webUrl: "https://www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
 type: article
-quality: 57
+quality: 127
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Kamala Harris
   - Mike Pence
+  - Kamala Harris
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
-    width: 600
-    height: 517
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -844,6 +850,6 @@ related:
       domain: seattletimes.com
     quality: 27
 
-secured: "s4H1E4L0vEc8V9rTGM/Mf/0N1H86bwCxSHsGh+nw26GmJIx3pXjwzKiBxDLH+c4QH8fLaI5O18u60QwgyMoqbjJ5dI7YpkyTpLVkmO/XSs6yW+E6umdH8JcPIiz8lft1YCP53vodtd03ZGeFmkgCEtyVyYqs7PDMxZTAz1SXJwpMTVuqvBYxkNinhXqR5SaU+lvqj9iKy4wg1X1IjX28E8L4ElKsVsMbPT5YGmxEI6EdAWjBsrrtpPBokrYcAt5qGivjv1b03fWjzpiy0ptMYALCMuu741WfEuF2HEJvBZmW6ZUHXyBrnLf2mEmbSuBlXs9BvYM8XLOOXglqE8v1J/RvaNnhjHoLzyd1t1fC2ro=;hJxSnornhJW6k/6ZBtL0pg=="
+secured: "MbllnUhoqWO/YOTnnGQaieJDRkcxSGVJNoSgz9QSUl62yIZr/xQmbnbUwLRhaU+OJ+cx2bpaPP0KOPf9xaxfHdxkjzvJayvdNHkUyzyWnAyPabHhyC+Te2Ct3dEe21GAekyIUZkTpnLouBac7zdvBzH9ythOkmyUm/aSBvVYVM7c1pYgT5aUfeVEqmRbEqGQbxa0YBDOVsTG1vuJFjquhEH2/0aDYMUA0eXu+9iSJNHAyPYiDANS9k5pVysFb0kuVCpfmO2cBk4YusVKhGiuPkQx3bi6DgOIlqBeL8c7vsAwHYXdBCl+0euUtnBr/repApDxLFlYCxgYrxWYh9JwHaxdhFbFVvGV8tjZCLY+iyc=;MHHk9isy2lyZs4yoKNS7eg=="
 ---
 

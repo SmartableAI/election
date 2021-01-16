@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden stimulus calls for expanded paid sick leave to help workers facing coronavirus challenges"
+    excerpt: "The U.S. is an outlier for its lack of mandatory paid sick leave. Biden's plan seeks to eliminate loopholes that prevented some 100 million workers from accessing it during the pandemic."
+    publishedDateTime: 2021-01-16T00:25:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/01/15/biden-economy-stimulus-sick-pay/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/01/15/biden-economy-stimulus-sick-pay/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/15/biden-economy-stimulus-sick-pay/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/36AJD4CW3EI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Coronavirus live: Joe Biden receives Covid vaccine; UK warned to expect further restrictions"
     excerpt: "Joe Biden receives the coronavirus vaccine; Sir Patrick Vallance suggests more areas may need to enter tier 4; PM says border delays only affecting small amount of freight"
     publishedDateTime: 2020-12-21T22:06:00Z

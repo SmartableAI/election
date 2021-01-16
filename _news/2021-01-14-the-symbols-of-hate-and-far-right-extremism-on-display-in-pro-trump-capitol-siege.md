@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Capitol riots: What are far-right Trump supporters saying?"
+    excerpt: "Members of the extreme right are searching for new online homes, amid paranoia that they are being ‘set up’ by the authorities."
+    publishedDateTime: 2021-01-16T00:36:00Z
+    webUrl: "https://www.bbc.com/news/blogs-trending-55679813"
+    ampWebUrl: "https://www.bbc.com/news/amp/blogs-trending-55679813"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/blogs-trending-55679813"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/754F/production/_116413003_gettyimages-578547390.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "For those who quit Trump after riot, critics say it’s too little — and four years too late"
     excerpt: "The violent insurrection at the U.S. Capitol incited by the president set off a dramatic wave of resignations and attempts at distancing among administration officials and longtime advisers."
     publishedDateTime: 2021-01-15T16:00:00Z

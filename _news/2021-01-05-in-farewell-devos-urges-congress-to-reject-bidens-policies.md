@@ -217,6 +217,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "6 things you need to know about Joe Biden's just-released plan to transform the chaotic covid vaccine rollout"
+    excerpt: "People who have essential jobs such as teachers, firefighters, and grocery store workers would be moved to the front of the line for a coronavirus vaccine."
+    publishedDateTime: 2021-01-15T23:39:00Z
+    webUrl: "https://www.businessinsider.com/biden-coronavirus-vaccine-plan-operation-warp-speed-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/600221a8e3d62500185fce93?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Ted Cruz says he’ll object to certification of Electoral College votes that will make Joe Biden’s victory official"
     excerpt: "Joining several other U.S. senators, Cruz is calling for an emergency audit of election results in “disputed states,” despite no evidence of widespread election fraud."
     publishedDateTime: 2021-01-02T18:28:00Z
