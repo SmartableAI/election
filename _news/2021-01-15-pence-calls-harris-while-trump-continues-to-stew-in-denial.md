@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-presidency/index.html"
 type: article
 quality: 225
-heat: 1245
+heat: 1265
 published: true
 
 provider:
@@ -222,6 +222,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114092825-02-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's final full week in office ends with the nation in disarray "
+    excerpt: "The final full week of Donald Trump's presidency ended with a nation in disarray -- fearful about the threats surrounding Inauguration Day in a capital city that has become a fortress; unsettled by new details of the harm that rioters could have inflicted on lawmakers during last week's insurrection;"
+    publishedDateTime: 2021-01-16T11:22:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fZRZS758TQ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/donald-trump-capitol-riot-coronavirus-vaccines/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/donald-trump-capitol-riot-coronavirus-vaccines/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115174437-trump-fact-check-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

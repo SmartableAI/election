@@ -464,6 +464,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: What will Biden do first and how will he do it?"
+    excerpt: "With the drama of Donald Trump's last presidential gasps -- and the urgency of his pending post-presidential impeachment trial for inciting insurrection -- it's been easy to gloss over the fact that in four days there will be a new president with very different priorities.\n    \n"
+    publishedDateTime: 2021-01-16T13:03:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tdQp-pz2oNo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/what-matters-january-15/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/what-matters-january-15/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115155954-03-biden-pandemic-0115-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to introduce key members of White House science team Saturday"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will introduce key members of their White House science team on Saturday afternoon at an event in Wilmington, Delaware, according to the transition team.\n    \n"
+    publishedDateTime: 2021-01-16T13:30:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ay7g_uc4KsQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/biden-science-team/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/biden-science-team/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153807-205-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden inaugural festivities to feature national day of service on MLK Day"
     excerpt: "President-elect Joe Biden's inaugural committee will promote the national day of service on Martin Luther King Jr. Day as part of festivities ahead of the inauguration on January 20.\n    \n"
     publishedDateTime: 2021-01-04T16:55:45Z
@@ -621,6 +653,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "When will Americans see the aid from Biden's relief proposal? It's up to Congress"
+    excerpt: "President-elect Joe Biden unveiled a $1.9 trillion relief package Thursday that included more stimulus payments and other direct aid, but don't expect to see those funds in your bank account anytime soon.\n    \n"
+    publishedDateTime: 2021-01-16T14:03:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nxIWRgZ21rs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/biden-economic-relief-coronavirus-stimulus-checks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/biden-economic-relief-coronavirus-stimulus-checks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115140341-01-biden-relief-plan-speech-0114-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -992,6 +1040,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Terrifying scope of Capitol attack becoming clearer as Washington locks down for Biden's inauguration"
+    excerpt: "Federal authorities are piecing together a chilling picture of the January 6 insurrection that reveals major security and intelligence failures, underscores profound fissures in American society and hints at the political challenges ahead for President-elect Joe Biden, even as they race to ensure the"
+    publishedDateTime: 2021-01-16T05:03:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bvBbv582otU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/insurrection-investigation-washington-lockdown/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/insurrection-investigation-washington-lockdown/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114233542-09-us-capitol-security-0114-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden aides told congressional allies to expect Covid relief package with roughly $2 trillion price tag"
     excerpt: "President-elect Joe Biden is expected to unveil a major Covid-19 relief package on Thursday and his advisers have recently told allies in Congress to expect a price tag in the ballpark of $2 trillion, according to two people briefed on the deliberations.\n    \n"
     publishedDateTime: 2021-01-14T02:34:03Z
@@ -1135,6 +1199,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/10/us/politics/10dems-justice-print1/merlin_182127015_61bd84d6-ff51-4e33-bb97-851eb71c4efc-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Palestinians announce first elections in 15 years on eve of Biden era"
+    excerpt: "Elections could also complicate President-elect Joe Biden's plans to restore aid to the Palestinians and to revive the peace process with Israel. The 2006 election victory by Hamas, which is considered a terrorist group by Israel and Western countries ..."
+    publishedDateTime: 2021-01-16T09:38:00Z
+    webUrl: "https://www.nbcnews.com/news/world/palestinians-announce-first-elections-15-years-eve-biden-era-n1254443"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254443"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254443"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_02/3442456/210115-mahmoud-abbas-se-254p_7879ff37baf5a7c40397424fa5060231.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Biden Clashes With the Left"
     excerpt: "Democrats are trying to work out their differences as Biden prepares to take office. It’s Friday, and this is your politics tip sheet."
@@ -1628,22 +1708,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Terrifying scope of Capitol attack becoming clearer as Washington locks down for Biden's inauguration"
-    excerpt: "Federal authorities are piecing together a chilling picture of the January 6 insurrection that reveals major security and intelligence failures, underscores profound fissures in American society and hints at the political challenges ahead for President-elect Joe Biden,"
-    publishedDateTime: 2021-01-16T05:03:00Z
-    webUrl: "https://www.cnn.com/2021/01/16/politics/insurrection-investigation-washington-lockdown/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/insurrection-investigation-washington-lockdown/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/insurrection-investigation-washington-lockdown/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 120
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114233542-09-us-capitol-security-0114-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden's health agenda runs through Georgia"
     excerpt: "Today's Georgia Senate elections could determine the shape of President-elect Joe Biden's health policy agenda, as Democrats hope to wrest back control of the chamber. — Janet Woodcock is now the chief medical adviser to the FDA commissioner,"
     publishedDateTime: 2021-01-05T15:00:00Z
@@ -1813,6 +1877,6 @@ related:
         height: 629
         isCached: true
 
-secured: "iqcE1WKZa3ejCh3gs2m4/d5vhq8Hv5nzkT5lqQrRFstPiNBrHvxnK2kDkQRTsnUQ+NRuJkwdGfhrGsbnNdpFnvJ+V16BeYGeFQFL8S35EtVD9ySwvYEFf2nM8gJVmr8IcKHkZLHObRu3K1v+zNmrMibTAT0L8KOVyFb7BnVqIXQvV/spSxwiQYtaoHIc2W5iP+DmSUa0n7Slj8TgGtxVB0lBArGIfINcr2YaROvKueeQUFBw8T7OHJiEWpmr7DYisvOaS6ykNTH4GRaOsV34uVLhNCB11YWPliZycrfzMe0SKWhMfOvVdx4xDEctDTS4YXTsNKQeXj9Mx/1DS9sKF+H+E1qTZVyVQrqg7jcxaIY=;5BffmKNT/C+JOqoo3InHuw=="
+secured: "0COC5lNz1xtxcpa2uLNaYsjghKKlIyBxDzeLqzeYXNIlad5RNcCnd7Co6rlkNft0EwgqoOcc/QZuNBlDhOjkaSc4xFBOix6JGSDzunsaY32xmkAUojubcQoWjzUifSjhvnsBwLwheevnp01VOytOXhCWGelbslHYakejmAkHzU8WyH0fGcVnwSWiXPEixHwFwnTRu9HJ3lB3X7aIFfk4C/ciV0yPn3zz1cS5CxwSlGxVPGndoDnz7dhQV+3BeOwuwc7YdJDpHMLjSWNCe3T4FohasKYbkK7HfLxXeIvrrEU43FGFJxtezBlwW50f4Ze8Tduk3moX4kx56LRjdwOgtJ9RLbj8hi0YBoEW7QIfQHhGGw6hKlkJ41QHeLUzSjwEo9yJzSnpuw3pLxkakjent/01uEx+hGRg8BN4ko98jmgW3nMFcbMlyPpr7b6fC4IZhrznbytFgHYbkXrvT/DKdMqROttMNwfAels8nia3gN3/fDq+NJ3rrjPuk+GnOS+nffs1crwKVfREcibbPiViQw==;rCV0ZJxG0jSSNxX9wWS3Zw=="
 ---
 

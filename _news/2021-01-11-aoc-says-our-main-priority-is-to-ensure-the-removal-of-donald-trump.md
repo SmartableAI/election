@@ -616,6 +616,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "There's No Argument Against Impeaching Trump Again"
+    excerpt: "President Donald Trump is cruising toward history as the first president to be impeached twice. And no matter what you may hear about “unity” or “fanning the flames” from his somehow still loyal party members,"
+    publishedDateTime: 2021-01-16T14:27:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/16/theres_no_argument_against_impeaching_trump_again_533430.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/532532_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Rep. Steny Hoyer Gives Democrats' Closing Argument In Trump Impeachment: This Is A Sad Time"
     excerpt: "Md., argued for the impeachment of President Donald Trump in a hearing on Jan. 13. Democrats are pursuing a quick second impeachment a week after Trump gave a speech they say incited insurrection. On Jan."
     publishedDateTime: 2021-01-13T21:53:00Z

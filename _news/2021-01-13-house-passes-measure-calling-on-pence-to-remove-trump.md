@@ -451,6 +451,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala D. Harris makes history. What will she do with it?"
+    excerpt: "The former California senator breaks one glass ceiling — and now will define herself more fully than she has to date."
+    publishedDateTime: 2021-01-13T17:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/13/vice-president-legacy-kamala-harris/?arc404=true"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/resizer/eYWxifTpZsO6N8mEn_d809WHV9U=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SB5LFTH6NRHL5G3X52MGH7C7MM.jpg"
+        width: 1484
+        height: 1113
+        isCached: true
   - title: "Reactions to the impeachment of U.S. President Donald Trump"
     excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump."
     publishedDateTime: 2021-01-13T19:54:00Z
@@ -971,6 +985,17 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 27
+  - title: "‘Everybody wins when we’re in positions of leadership’: Washington state’s female leaders of color on what Kamala Harris represents"
+    excerpt: "Kamala Harris has transcended politics to become a cultural icon, one who will ascend to the vice presidency at a fraught time in United States history. There’s a long record"
+    publishedDateTime: 2021-01-16T14:00:00Z
+    webUrl: "https://www.seattletimes.com/life/everybody-wins-when-were-in-positions-of-leadership-washington-states-female-leaders-of-color-on-what-kamala-harris-represents/"
+    ampWebUrl: "https://www.seattletimes.com/life/everybody-wins-when-were-in-positions-of-leadership-washington-states-female-leaders-of-color-on-what-kamala-harris-represents/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/life/everybody-wins-when-were-in-positions-of-leadership-washington-states-female-leaders-of-color-on-what-kamala-harris-represents/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 25
 
 secured: "tB7Edshq1s9etSZCX53A9LtfAqMlvSufzRlkd2mXieF7wJ1qXe2i/AdkpuF7r3nRdczBTiINoN0hrp8t8wGd+e5beD871LqlntDrSjG352prxk8FcH5Y9bTO013xszkUwe9DLIGWKE0FQ+bumGd5qZo2hPTQ82jmfHfl/rBoaZF7ZmYMYdFfQE/n59dT95NYZ+DkbQCMYewF0yLZ3lh2jWJUBD/MCI26HUefNKJZXoMTyRHjAjrsLf0K4jncJudRFQz6jR07ubtEB+DYg3WoTu2HhBUcOQzJ7lmAeAAA9JwgaicWyTtu+j3LUQZJyrxBdCw/4TgAWtUM1BG8sbcYkOwFS3kSDIltPVY0GQCJlAFXbS/6P0OcNKbgnYhgQIl94npNDoed5Nugmo3H6BrsYye4/IGXm46RJxeD4Vz2xWNckC6muIm0g9PrL6qIVB/ZTuEzUtxol7UNBYr9H6Nlgbengb97R9BpuTzFL+MRSf4MCxcQQ1ydvAqUDaiSj9uyjNiyk4DZAD1g7sUBpq2LEA==;Vqf34YqyDFpl14i9ePT+og=="
 ---

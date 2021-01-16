@@ -27,21 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "Biden announces former FDA head David Kessler as chief science officer for vaccine drive to stop spread of coronavirus"
-    excerpt: "Biden announces former FDA head David Kessler as chief science officer for vaccine drive to stop spread of coronavirus"
-    publishedDateTime: 2021-01-15T12:37:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+  - title: "Biden: Science will be at `forefront' of his administration"
+    excerpt: "President-elect Joe Biden says “science will always be at the forefront of my administration,” and he's elevating the post of science adviser to Cabinet level, a White House first"
+    publishedDateTime: 2021-01-16T14:58:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/biden-science-forefront-administration-75295060"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/biden-science-forefront-administration-75295060"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/biden-science-forefront-administration-75295060"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 101
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Technology/WireAP_7202bb1dd3fb4d92b9cf5bf27cee5bf3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden will encourage vaccination of all people over 65, frontline workers"
+    excerpt: "The incoming administration of Democratic President-elect Joe Biden will seek to vaccinate all people over 65 and frontline workers, as Biden seeks to administer 100 million COVID-19 vaccines during his first 100 days in office."
+    publishedDateTime: 2021-01-16T02:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-vaccines/biden-will-encourage-vaccination-of-all-people-over-65-frontline-workers-idUSKBN29K2L5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547981882&r=LYNXMPEH0E1IO&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "France's Le Maire: resolving trade sanctions is my priority for Biden administration"
+    excerpt: "French Finance Minister Bruno Le Maire said on Thursday that resolving transatlantic trade sanctions were his priority for dealings with the incoming administration of U.S. President-elect Joe Biden."
+    publishedDateTime: 2021-01-14T15:02:00Z
+    webUrl: "https://www.reuters.com/article/us-france-lemaire-usa/frances-le-maire-resolving-trade-sanctions-is-my-priority-for-biden-administration-idUSKBN29J15Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547761954&r=LYNXMPEH0D0LH&w=800"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "R69DwIHePcTKaPMi/himyjIDGYJtoGSscZnEWNyt7aQ4gHfZ86XD/9Pc1nkv3RPq4Hjyv3V+JSU3AzukXUN77w2o0yiHClT6ihg2X0pckD3Cdk+Do6UHG+RRBNuXuSF72hzLsWlioKC7OfhOXS9YI03WnPVjzeV+mnqXjLcIlsKQ9Tmo5dkV9HT0tTft+W8kfujEFFbsN7VmeAEoiB5zijHdXW8U2H1YTz15iD65vVnM8ax8QQOmq9l0uKIOJ8EFvYab2h+kxrZ0601vYEjI7eDLSBjA48V5ZxwL5+wAPXqu2BMCajPzyyio2AOhPAlxQaozM78cYnofKP9KCXBOeFmOctwNhJHxZz8XepGeX+k=;qrJTdZh5uJQTSLVAjBAu0Q=="

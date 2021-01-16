@@ -1024,6 +1024,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: The 15 most notable lies of Donald Trump's presidency"
+    excerpt: "Trying to pick the most notable lies from Donald Trump's presidency is like trying to pick the most notable pieces of junk from the town dump.\n    \n"
+    publishedDateTime: 2021-01-16T14:28:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HHxT0rjrdS8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/fact-check-dale-top-15-donald-trump-lies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/fact-check-dale-top-15-donald-trump-lies/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115174437-trump-fact-check-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's impeachment foretold everything that's happened since "
     excerpt: "Alarming as it is, the corrosive conclusion to 2020 in America was plainly visible in advance.\n    \n"
     publishedDateTime: 2020-12-20T13:47:40Z

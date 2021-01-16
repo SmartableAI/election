@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/sarah-cooper-im-moving-on-from-lip-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Running on empty: Senate Republicans ponder barring Donald Trump from seeking office again"
+    excerpt: "WASHINGTON – An impeachment trial of Donald Trump isn't about removing him from the presidency – his term ends Wednesday, either way. It's about preventing him from seeking the presidency again in 2024. Several senators, including Republicans ..."
+    publishedDateTime: 2021-01-16T14:35:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/01/16/senate-republicans-ponder-barring-donald-trump-running-again/6655801002/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 45
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d3efd88f-b105-44cb-9bb7-4d0adc222067-AP_Trump_4.jpg?crop=4129,2323,x0,y412&width=3200&height=1680&fit=bounds"
+        width: 2986
+        height: 1680
+        isCached: true
 
 secured: "HCk4uNaNNAHvOOi2pitnXjldYS2AqKnKLVJzDYyuIHZ55DhmClDYPSaEOhuWE0VDFVsUVqQJaHl2NTIt+FGEAmx/BnSNJ6tWyTMFwpW5MvvFN6g8MbCUVGOBJUG8PyEHyxM84gzr8mHzh2tBWeqF0t+ueI3Rzq3dtl8h3fGzp7TvxBa9iT9i5x8zkDwYRkIa8qK/QtrDh0KDuKZFNhW9OZ8/eRMIifWCZyugPcNDKv+MKfaZ/AeNbtVUnCRPEdkliigHPQhUE20fJoSoBGssn9KC2Tjr9LyZWt+TfYpeOiBVLghVrCFA9h0qopI6t8SH+h5t63wKbBWCrsYU2Q7esqtm/QpnOAP9d2wXAWyYWeM=;JX2CtAoqX+N269I0bIS7yA=="
 ---

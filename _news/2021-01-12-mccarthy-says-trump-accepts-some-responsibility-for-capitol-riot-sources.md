@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Ducey: Trump 'Bears Some Responsibility' for Insurrection"
+    excerpt: "Arizona Gov. Doug Ducey says President Donald Trump “bears some responsibility” for the insurrection at the U.S. Capitol last week but he does not support impeachment."
+    publishedDateTime: 2021-01-16T14:15:00Z
+    webUrl: "https://www.usnews.com/news/best-states/arizona/articles/2021-01-14/arizona-gov-ducey-to-attend-biden-inauguration"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "06s88GHbWKX6k2PnTmYgKXVl/LlBO6wDFhWPp0hirNYC4uf861rQWSQIb5Qrb8euKIvXIw5QfQK31vmJI5oUPRADd59qga+DDOlf+2bZ928Tnsq8quMqM5Esk0BNdflHSCJGWSCx61w9/iTTtqkVOBS/nLyBHJLAeuree84mvsSYqHJJ13FU3v7X4DASSpRGOGMRky35NNtSdnx6dcZzEPfdFdzxhB+ZOTlbBdKMP9oV0lgfUMcQzK2VajjfTnZhqZ40we+iBmh0UaE/UwN29qr1pk88UPWYTDCHNeBrTV8iRP0MvTFj4OR/bJj5Dp0aLv3Xk/IIhwhgXLngxBJ8exWI2y5nOIIqeFI6pPuoXUTm6sQQG4Sc5x+MHiq/qJyljO38W5QpjgEY4kAFqkM+K6eMX0nYZEeeBm4TMEUTxPfYsCz0Acc9DtNICeMMc0FkMXQT0sjIIBB/v6R11W4nxLtyl0maKTqiUSvJoA9e93cWoWq7g6oBXRY+R14+/j0AO6msoaa0wwaQ+8wgVymCLw==;qExfu/RKiZMVAMtb0GTADA=="
 ---

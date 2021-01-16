@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-plans-depart-washington-in
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643"
 type: article
 quality: 158
-heat: 1418
+heat: 1458
 published: true
 
 provider:
@@ -451,6 +451,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/13/dea7c7eb-a5ef-4aba-b602-d922f6c2f240/thumbnail/1200x630/5678a150583bd1acc4b3d19e2d90bf55/0112-en-sunmoharris-vo-625578-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kamala D. Harris makes history. What will she do with it?"
+    excerpt: "The former California senator breaks one glass ceiling — and now will define herself more fully than she has to date."
+    publishedDateTime: 2021-01-13T17:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/13/vice-president-legacy-kamala-harris/?arc404=true"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/resizer/eYWxifTpZsO6N8mEn_d809WHV9U=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SB5LFTH6NRHL5G3X52MGH7C7MM.jpg"
+        width: 1484
+        height: 1113
         isCached: true
   - title: "Reactions to the impeachment of U.S. President Donald Trump"
     excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump."
@@ -972,6 +986,17 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 27
+  - title: "‘Everybody wins when we’re in positions of leadership’: Washington state’s female leaders of color on what Kamala Harris represents"
+    excerpt: "Kamala Harris has transcended politics to become a cultural icon, one who will ascend to the vice presidency at a fraught time in United States history. There’s a long record"
+    publishedDateTime: 2021-01-16T14:00:00Z
+    webUrl: "https://www.seattletimes.com/life/everybody-wins-when-were-in-positions-of-leadership-washington-states-female-leaders-of-color-on-what-kamala-harris-represents/"
+    ampWebUrl: "https://www.seattletimes.com/life/everybody-wins-when-were-in-positions-of-leadership-washington-states-female-leaders-of-color-on-what-kamala-harris-represents/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/life/everybody-wins-when-were-in-positions-of-leadership-washington-states-female-leaders-of-color-on-what-kamala-harris-represents/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 25
 
 secured: "4nzPfnBF9kdC89WHgbelwQDaZC/NWucfT7kIKSIxSUVETlu9AtpOA1O+MLFug/UEZvDTAkkl5llGUzlvjwhDlf01m74azEA2QTPanz4qcBVh9de4uYDwR8/oREhlkGeUyAkW/BklVp9zgu8BTvJ7iqk0Hr0SuNqqIHEBnBYbX5Gi80Af2qwulrllI/bHR1hOqHlpNkB+hJYmM29ju/AFbJiEsEwva6K+zTAsD+nI+9Mcz1tOY3nUnKaWazHgnTJ4CGLwVKOhcUrLOE63PlWo9HJjmjvZNJQ5+4/HCpQ3ZnHrYMG+rN5qtBmVpH70q9CofhxyEAQ7N67g66n8tR++wBAMd2fRU5+w+EczK738bLkO577FpEVAK+MnJPpv1vJYXYV930xK12Jx0aAQ5XW4VabzIAthamljNW9f0jL2R633T6Vxbmki0LDlOMfn3+A6O9/4p86FyVyV2NNi7W1I1Y9sqx55DN2IIXrsbfdMiL9hCQipaeYwPTega6hHexDy+8VMQeek0/UYVuZB+Wl7ww==;KjuUCVqK3zojSc2+LOguTA=="
 ---

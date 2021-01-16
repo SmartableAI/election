@@ -224,6 +224,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's final full week in office ends with the nation in disarray "
+    excerpt: "The final full week of Donald Trump's presidency ended with a nation in disarray -- fearful about the threats surrounding Inauguration Day in a capital city that has become a fortress; unsettled by new details of the harm that rioters could have inflicted on lawmakers during last week's insurrection;"
+    publishedDateTime: 2021-01-16T11:22:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fZRZS758TQ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/donald-trump-capitol-riot-coronavirus-vaccines/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/donald-trump-capitol-riot-coronavirus-vaccines/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115174437-trump-fact-check-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Final days bring new urgency to Trump's desire to pardon himself and his children"
     excerpt: "President Donald Trump has discussed issuing pardons for himself and his children with new urgency since the attack on the US Capitol, multiple sources familiar with the matter tell CNN.\n    \n"
     publishedDateTime: 2021-01-13T02:15:11Z

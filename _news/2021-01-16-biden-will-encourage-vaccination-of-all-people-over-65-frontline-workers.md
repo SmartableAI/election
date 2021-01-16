@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/article/us-usa-biden-vaccines/biden-will-e
 webUrl: "https://www.reuters.com/article/us-usa-biden-vaccines/biden-will-encourage-vaccination-of-all-people-over-65-frontline-workers-idUSKBN29K2L5"
 type: article
 quality: 104
-heat: 144
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden pledges to vaccinate 100 million Americans in his first 100 days in office"
-    excerpt: "President-elect Joe Biden is pledging to fix the United States' slow coronavirus vaccine rollout. CBS News senior White House and political correspondent Ed O'Keefe spoke with CBSN's Elaine Quijano about what the incoming Biden administration plans to do."
-    publishedDateTime: 2021-01-16T01:09:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-pledges-to-vaccinate-100-million-americans-in-his-first-100-days-in-office/"
+  - title: "Biden: Science will be at `forefront' of his administration"
+    excerpt: "President-elect Joe Biden says “science will always be at the forefront of my administration,” and he's elevating the post of science adviser to Cabinet level, a White House first"
+    publishedDateTime: 2021-01-16T14:58:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/biden-science-forefront-administration-75295060"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/biden-science-forefront-administration-75295060"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/biden-science-forefront-administration-75295060"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 100
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/16/1e229ed6-306f-491b-9a1a-96d74f087821/thumbnail/1200x630/a286355ec3d57513ef1d25b289737f3f/0115-cbsn-sws-627506-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s.abcnews.com/images/Technology/WireAP_7202bb1dd3fb4d92b9cf5bf27cee5bf3_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "France's Le Maire: resolving trade sanctions is my priority for Biden administration"
     excerpt: "French Finance Minister Bruno Le Maire said on Thursday that resolving transatlantic trade sanctions were his priority for dealings with the incoming administration of U.S. President-elect Joe Biden."
@@ -56,6 +58,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547761954&r=LYNXMPEH0D0LH&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Joe Biden elevates chief science adviser to a Cabinet position, picks human genome pioneer for the post"
+    excerpt: "Joe Biden announced Friday that he has chosen a pioneer in mapping the human genome — the so-called “book of life” — to be his chief science adviser."
+    publishedDateTime: 2021-01-15T23:21:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 59
+    images:
+      - url: "https://www.baltimoresun.com/resizer/_KnwY3nRWrxfc3pBEgErezBucOk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JVDAS7L35DO6FVFNIWKSAAR62E.aspx"
+        width: 1200
+        height: 791
         isCached: true
 
 secured: "99CtU39MrOb8wt3MMKUdfZ+avaD2I2v2rKIoC0t8N7eEkajkQiBsTACk4flvFhdv7uyzuJ1wX6CPono3QTFtZQfK/4j3KbyTPHAFtw9QwEX2rdcobpRNyhnRTqyUXXsQR8BZqwEOuD6m5qvseOfXbEVQohc0DnWqxfBpefd/izpbrKjMeCkXwUaLIoi2LXxB108lfL6w+f1Enzb4EGBgL/MJO/osdLFdqUXd6HrB3vF2ElPlfLWfQ1j3cH2Vj8mrShbVWvwuJHdzht9Xqp1t6use0i/n/dHMCwcg2YrfTDpPaql5woq+qhS2OSYQFOHP3Sq/lH9+6LWO9YUf7PaUd9ct2Ji+zbSC9/AczxkC0gw=;/g9YQ1csTgUkPjkOhVSvcg=="

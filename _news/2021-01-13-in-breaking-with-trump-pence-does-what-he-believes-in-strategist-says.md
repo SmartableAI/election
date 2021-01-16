@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/in-breaking-with-trump-pence-does-w
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/in-breaking-with-trump-pence-does-what-he-believes-in.amp"
 type: article
 quality: 199
-heat: 999
+heat: 1019
 published: true
 
 provider:
@@ -617,6 +617,20 @@ related:
     quality: 85
     images:
       - url: "https://assets.realclear.com/images/53/532356_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "There's No Argument Against Impeaching Trump Again"
+    excerpt: "President Donald Trump is cruising toward history as the first president to be impeached twice. And no matter what you may hear about “unity” or “fanning the flames” from his somehow still loyal party members,"
+    publishedDateTime: 2021-01-16T14:27:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/16/theres_no_argument_against_impeaching_trump_again_533430.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/532532_5_.jpg"
         width: 750
         height: 500
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/ap-interview-libyan-minister
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden must find words for a wounded nation in inauguration like no other"
+    excerpt: "Planners have been forced to be inventive after the deadly pandemic and now last week’s Capitol insurrection dictated a pared-down event"
+    publishedDateTime: 2021-01-16T07:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/16/joe-biden-inauguration-wounded-nation"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/16/joe-biden-inauguration-wounded-nation"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/16/joe-biden-inauguration-wounded-nation"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/f4c66dc3becc14952a51bc8d6504077c8a930be0/0_0_6877_4128/master/6877.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2176f28814bd79b46a5d4c9800440178"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden push for new stimulus checks runs into roadblock from key Democratic senator"
     excerpt: "Biden is also likely to push a larger legislative effort later in 2021 after the initial stimulus package. That effort is expected to focus on spending trillions of dollars on inf"
     publishedDateTime: 2021-01-08T22:26:00Z

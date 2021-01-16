@@ -1039,6 +1039,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: The 15 most notable lies of Donald Trump's presidency"
+    excerpt: "Trying to pick the most notable lies from Donald Trump's presidency is like trying to pick the most notable pieces of junk from the town dump.\n    \n"
+    publishedDateTime: 2021-01-16T14:28:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HHxT0rjrdS8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/fact-check-dale-top-15-donald-trump-lies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/fact-check-dale-top-15-donald-trump-lies/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115174437-trump-fact-check-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration locks down border wall contracts, complicating Biden's pledge to stop construction"
     excerpt: "The Trump administration is continuing to award border wall contracts in the waning days of Donald Trump's presidency, including in areas where private land hasn't yet been acquired, an unusual move that will complicate President-elect Joe Biden's pledge to halt construction.\n    \n"
     publishedDateTime: 2021-01-05T23:55:26Z

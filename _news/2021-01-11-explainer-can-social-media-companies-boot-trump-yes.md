@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Running on empty: Senate Republicans ponder barring Donald Trump from seeking office again"
+    excerpt: "WASHINGTON – An impeachment trial of Donald Trump isn't about removing him from the presidency – his term ends Wednesday, either way. It's about preventing him from seeking the presidency again in 2024. Several senators, including Republicans ..."
+    publishedDateTime: 2021-01-16T14:35:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/01/16/senate-republicans-ponder-barring-donald-trump-running-again/6655801002/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 45
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d3efd88f-b105-44cb-9bb7-4d0adc222067-AP_Trump_4.jpg?crop=4129,2323,x0,y412&width=3200&height=1680&fit=bounds"
+        width: 2986
+        height: 1680
+        isCached: true
 
 secured: "tspVNBW6Fgdm+/7w3JorPgkULGfl3oUXqmHhlCqkzhV5ymJHajunjlqUX/B6Chx9pe6Ec8Mbso9BmE5Na82v8TwvkRCcJ2UaUE1a9TAFn3qzAOLHUFOfeKacY9zgkdGKJk/bQYeOGYhdnqrHsWz4igBHRQEsuOuq7oSps1fvk9/8dfbC9ggh6Bkld6nsM0x2g2SUMMi1bXNmZoHRPjn5T1N88KOsBk0GLr4H/KO1QZ82+eRPEhxwLdxB8xnlKDAzpvB/2w3WUCT4hmxnES3c4vNyiRg+4tUpzX9VTu3bPJYSmLK0yiEfyRjH1Zo6if4NOrLveYUjL5sooiBuynm7b8GOfedM1z3o+JR/txPkNT0=;U6sDLlHV0RUTxYNQ4z8t2g=="
 ---

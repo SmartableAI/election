@@ -7,8 +7,8 @@ originalUrl: "https://www.cbsnews.com/video/biden-pledges-to-vaccinate-100-milli
 webUrl: "https://www.cbsnews.com/video/biden-pledges-to-vaccinate-100-million-americans-in-his-first-100-days-in-office/"
 type: article
 quality: 100
-heat: -1
-published: false
+heat: 100
+published: true
 
 provider:
   name: CBS News
@@ -27,36 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Biden will encourage vaccination of all people over 65, frontline workers"
-    excerpt: "The incoming administration of Democratic President-elect Joe Biden will seek to vaccinate all people over 65 and frontline workers, as Biden seeks to administer 100 million COVID-19 vaccines during his first 100 days in office."
-    publishedDateTime: 2021-01-16T02:18:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-vaccines/biden-will-encourage-vaccination-of-all-people-over-65-frontline-workers-idUSKBN29K2L5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547981882&r=LYNXMPEH0E1IO&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "France's Le Maire: resolving trade sanctions is my priority for Biden administration"
-    excerpt: "French Finance Minister Bruno Le Maire said on Thursday that resolving transatlantic trade sanctions were his priority for dealings with the incoming administration of U.S. President-elect Joe Biden."
-    publishedDateTime: 2021-01-14T15:02:00Z
-    webUrl: "https://www.reuters.com/article/us-france-lemaire-usa/frances-le-maire-resolving-trade-sanctions-is-my-priority-for-biden-administration-idUSKBN29J15Q"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547761954&r=LYNXMPEH0D0LH&w=800"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "UByT77namD3f8M1MZ2J4SbBIFNCXXmSkX/TPxBdXGxjZlLP9Sv9n9Sv6Izv7iMP6gm5mreqJ4p7dEJcEY6+7+XIwsPfG2QH2AGvHwM25NNNlZ/Xa1RJ5rnvFkn5cJyYBV+GRwST6ZYaRy1fQTuGD2DapWlN/X3fYC2K5Rfsqg1SHCnZrYsV3H5sbGVwwLl6sQBjSWYv6NRh+RCsDtb6UJiVyORf/1zry5+gFPrWJY1tG/ogWpq7VkSfUGl/+3UZ/S/PxPlCREGbdW0Wwgbq9oE3CWpjSzJQEgaedCqM042ypl3JBZeKs77Ho0NRcMMytfRL5OM9peUD8oNLCgNlE6UH6ZZVqwxP7geqJx8zNkGc=;ko5LcC9FcSRDU2WXMyvkMQ=="
 ---

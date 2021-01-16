@@ -156,6 +156,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's Stimulus Plan Will Harm Those Who Need Most Help"
+    excerpt: "If you thought help for the coronavirus was on the way, think again. President-elect Joe Biden's plan to provide economic relief is going to cause a lot of pain and waste a lot of money on people who do not need it."
+    publishedDateTime: 2021-01-16T14:26:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/16/bidens_stimulus_plan_will_harm_those_who_need_most_help_533649.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "glz6rA37Bl2CsRBWYzE1xyUhoKHT9OHfM29ondoy7yqRiqpWbcVqtb8n/o49m5+aMLPDxT/GXgl1qAo5WPff1n3y6V7HU9pvRh2t/0thzxL+JpQpTu/OczoKbCD7BI3A92nf2IiAkH63FkzXjeiOuffCQZfokIS7j6LFe0hFyv1hn6/LUkpkHDI9KZ16U+1c4uFwf4RB3rD9vZeSORsqXUJhoUSM+5OIacHrwdHFlFPC+Jzafnw36Bq6+LENdcIATNlIN+Tej40D3hnSvWAUPjuTt2sRx9lFbFr87o9hs38jaheh3bvadXhKQxW1ccJI+S4T+ULffMlDg2R2tj5hNmgXo11liZPW8ujg64v99duw2EB/UPrVSG1226WIwPWsnTkWsM039FgfBCE2hpQRJ2gAqBsqiME1g62U+lOYXFIVFrI1eJfIxvwZuV4FzbjkoKbzWQkjnlitP3/clYoPEZGLOafeeOjoAKcfpL4w1F431dr1X5uqzUDUlEV8NQQ6jP4LEyOqJAndc67b4BPKmQ==;JLSGeNPZpP1Toy7NX8zIvQ=="
 ---
