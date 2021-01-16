@@ -220,6 +220,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Giuliani uses unfounded 'Antifa' argument to defend Trump"
+    excerpt: "President Donald Trump's personal attorney Rudy Giuliani has been working to bolster conspiratorial claims that left-wing agitators played a dominant role in the last week's Capitol riot.\n    \n"
+    publishedDateTime: 2021-01-16T04:33:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_iWRu-lrfV4/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222110730-rudy-giuliani-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "READ: House Articles of Impeachment against Donald Trump"
     excerpt: "The US House of Representatives has released its resolution to impeach President Donald Trump, charging him with \"incitement of insurrection,\" an article for which the House is expected to vote on this week."
     publishedDateTime: 2021-01-11T09:14:00Z

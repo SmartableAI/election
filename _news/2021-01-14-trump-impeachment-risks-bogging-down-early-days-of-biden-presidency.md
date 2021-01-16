@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/14/trump-impeachment-bi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/14/trump-impeachment-biden-administration-senate-trial"
 type: article
 quality: 140
-heat: 3280
+heat: 3320
 published: true
 
 provider:
@@ -750,6 +750,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BEI6FTEYKMI6JET2J6RGHDGRWA.jpg&w=1440"
         width: 1440
         height: 961
+        isCached: true
+  - title: "Biden will elevate White House science office to cabinet-level"
+    excerpt: "President-elect Joe Biden will elevate the White House Office of Science and Technology Policy to a cabinet-level agency and picks world famous geneticist Eric Lander to run it."
+    publishedDateTime: 2021-01-16T03:58:00Z
+    webUrl: "https://www.washingtonpost.com/science/2021/01/15/biden-lander-ostp/"
+    ampWebUrl: "https://www.washingtonpost.com/science/2021/01/15/biden-lander-ostp/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/science/2021/01/15/biden-lander-ostp/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VQYGJGSXLUI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Democrats wrestle with length of Trump trial"
     excerpt: "Democrats are eager to punish Trump for inciting the attack on the U.S. Capitol, but wary of a Senate trial dragging on too long and slowing Biden’s agenda. They hope to keep the trial short without truncating their case."
@@ -1620,6 +1636,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547771325&r=LYNXMPEH0D0PK&w=800"
         width: 800
         height: 526
+        isCached: true
+  - title: "Biden says he feels safe ahead of his inauguration"
+    excerpt: "U.S. President-elect Joe Biden said on Friday that he feels safe taking his oath of office publicly next week."
+    publishedDateTime: 2021-01-16T02:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-safety/biden-says-he-feels-safe-ahead-of-his-inauguration-idUSKBN29K2MP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548003541&r=LYNXMPEH0E1JN&w=800"
+        width: 800
+        height: 626
         isCached: true
   - title: "Biden says he feels safe ahead of inauguration"
     excerpt: "Top News Biden says he feels safe ahead of inauguration. Posted . U.S. President-elect Joe Biden said on Friday that he feels safe, after a reporter asked him if he felt comfortab"

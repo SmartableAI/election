@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Donald Trump appeal says government should defend E Jean Carroll lawsuit"
+    excerpt: "Justice department puts itself in between president and writer who sued after Trump dismissed 1990s rape allegation as bookselling ploy"
+    publishedDateTime: 2021-01-16T02:49:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/16/donald-trump-appeal-says-government-should-defend-e-jean-carroll-lawsuit"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/16/donald-trump-appeal-says-government-should-defend-e-jean-carroll-lawsuit"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/16/donald-trump-appeal-says-government-should-defend-e-jean-carroll-lawsuit"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/90c11fb4b07bc5bd04147530e0cefa4f6ce06664/0_90_2675_1606/master/2675.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=efde315b17ef2166ec318b8bd9638616"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Explainer-How will Trump get his message out without social media?"
     excerpt: "The decision by tech companies to clamp down on President Donald Trump's ability to speak to followers through mainstream social media may force him to tap more traditional methods of communication or more isolated conservative online channels during his final days in"
     publishedDateTime: 2021-01-11T16:05:00Z

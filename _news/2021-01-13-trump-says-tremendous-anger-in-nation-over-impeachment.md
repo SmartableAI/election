@@ -43,8 +43,8 @@ related:
         isCached: true
   - title: "Pelosi calls for prosecution of any Congress members who might have helped pro-Trump siege"
     excerpt: "Any members of the U.S. Congress who helped a crowd of President Donald Trump's supporters storm the Capitol should face criminal prosecution, House of Representatives Speaker Nancy Pelosi said on Friday."
-    publishedDateTime: 2021-01-16T02:41:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/pelosi-calls-for-prosecution-of-any-congress-members-who-might-have-helped-pro-trump-siege-idUSKBN29K0NV"
+    publishedDateTime: 2021-01-16T04:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/pelosi-prosecute-any-members-of-congress-who-aided-trump-supporters-capitol-attack-idUSKBN29K0NV"
     type: article
     provider:
       name: Reuters

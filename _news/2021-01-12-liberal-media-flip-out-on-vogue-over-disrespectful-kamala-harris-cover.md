@@ -192,6 +192,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Expecting trouble, DC locks down ahead of Biden's inauguration"
+    excerpt: "The National Park Service has closed Washington’s National Mall to the general public as part of greatly intensified security ahead of Joe Biden’s presidential inauguration."
+    publishedDateTime: 2021-01-16T03:39:00Z
+    webUrl: "https://www.foxnews.com/us/expecting-trouble-dc-locks-down-a-week-before-inauguration"
+    ampWebUrl: "https://www.foxnews.com/us/expecting-trouble-dc-locks-down-a-week-before-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/expecting-trouble-dc-locks-down-a-week-before-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/918/516/SS-4.jpg?ve=1&tl=1"
+        width: 918
+        height: 516
+        isCached: true
   - title: "Vogue's Kamala Harris cover sparks social-media frenzy: 'What a mess up'"
     excerpt: "The cover of February's upcoming issue of Vogue, which features Vice-President-elect Kamala Harris, has been widely criticized on social media."
     publishedDateTime: 2021-01-10T11:24:00Z

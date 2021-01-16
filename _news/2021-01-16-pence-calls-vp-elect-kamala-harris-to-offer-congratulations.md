@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
-publishedDateTime: 2021-01-16T01:07:00Z
-originalUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
-webUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+excerpt: "WASHINGTON -- Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
+publishedDateTime: 2021-01-16T00:57:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+webUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
 type: article
 quality: 150
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -487,6 +487,20 @@ related:
         width: 800
         height: 501
         isCached: true
+  - title: "Trump plans to depart Washington the morning of Inauguration Day: sources"
+    excerpt: "President Donald Trump now plans to leave Washington on the morning of Inauguration Day next Wednesday after considering a departure on Tuesday, two sources familiar with the matter said on Friday."
+    publishedDateTime: 2021-01-16T04:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-depart/trump-plans-to-depart-washington-the-morning-of-inauguration-day-source-idUSKBN29K26W?amp;amp"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547954619&r=LYNXMPEH0E18B&w=800"
+        width: 800
+        height: 501
+        isCached: true
   - title: "Pence vows to honor U.S. history, ensure safe inauguration of new president"
     excerpt: "U.S. Vice President Mike Pence on Thursday vowed to uphold American history and ensure a safe transition of power to President-elect Joe Biden, eight days after supporters of U.S. President Donald Trump laid siege to the U."
     publishedDateTime: 2021-01-15T06:46:00Z
@@ -530,6 +544,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/16/vice-president-mike-pence-is-coming-out-from.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Mike Pence calls Kamala Harris to offer congratulations"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-15T12:51:00Z
+    webUrl: "https://www.chron.com/news/article/Mike-Pence-calls-Kamala-Harris-to-offer-15874325.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Mike-Pence-calls-Kamala-Harris-to-offer-15874325.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Mike-Pence-calls-Kamala-Harris-to-offer-15874325.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 100
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Mike Pence Calls Kamala Harris to Offer Congratulations"
     excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
@@ -721,6 +751,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump Is on the Verge of Losing Everything"
+    excerpt: "A broken president leaves the White House twice impeached, on the brink of bankruptcy, and criminally exposed."
+    publishedDateTime: 2021-01-16T04:36:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/donald-trump-after-presidency.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/donald-trump-after-presidency.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/donald-trump-after-presidency.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/0f0/be0/7d4992df6eb4d08e26bbe239f1d0d83f3d-trump-chait-issue-2.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."
     publishedDateTime: 2021-01-13T07:29:00Z
@@ -852,17 +898,6 @@ related:
       name: San Francisco Chronicle
       domain: sfchronicle.com
     quality: 54
-  - title: "Trump Plans to Depart Washington the Morning of Inauguration Day: Sources"
-    excerpt: "President Donald Trump now plans to leave Washington on the morning of Inauguration Day next Wednesday after considering a departure on Tuesday, a source familiar with the matter said on Friday. Trump,"
-    publishedDateTime: 2021-01-16T02:56:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-15/trump-plans-to-depart-washington-the-morning-of-inauguration-day-source"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-15/trump-plans-to-depart-washington-the-morning-of-inauguration-day-source?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-15/trump-plans-to-depart-washington-the-morning-of-inauguration-day-source?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 54
   - title: "400 members of Washington state National Guard called to D.C. to boost security during President-elect Joe Biden’s inauguration"
     excerpt: "In the wake of the insurgence at the U.S. Capitol during certification of the Electoral College votes last week and threats of further violence, nearly 400 Washington National Guard soldiers and airmen are being sent to D."
     publishedDateTime: 2021-01-15T15:05:00Z
@@ -875,6 +910,6 @@ related:
       domain: seattletimes.com
     quality: 27
 
-secured: "w+5GDV1sSaRxWGOKww5M3drNacNq+Qe85UsUS7+VGylafRIopnk4r+s/AZCNjcZQigsRBlLO1Zp+jg7BPzoikUw6BpgojaA3WoqcYWodKWbn9UokmEI2Ln97WYMNOhVvh6gabhmq1zhBFFAButOuTZrh5LxPXCuB2ubhB3ShE68cLkdNN7nWQsd3PBPUoW3av6/GgNVPBkShKkdcwJOIhFV/JC4GKs6/2YNcYaWSlknSXfVDDwtTheQxiiFEEKjucogme9WpQwVoli5nHOHZRV2kQBD5klfAGGp35e1pLWRUauIYSounWZfa1aryy5+/shk/ZIkTm0mDcJLAxXnlFD5WkVjKiInrD4XO3unhu1Q=;z6CejVfTOmcoqKWKN28HtA=="
+secured: "0I7MyvmAbjlqEVf4O/0/PhpptCTtv6Mn9tlfm9dDSJGK93lsb3Y1ewteIR7UjKMX1eRv9Km+akOYRAKyXCqKgvNfFXwKMSEVF8v4zFukD+QxBSmAPA5M51Zj4KnMOMPPbmrKtoO1V/HkXTvt0c+tf/Nfh68jv2v4eTiFjTjTgkN4Lp3acX1DtjkC7IAhdLOl/3VSQ5euHxI+uSivvfzwrcrKCJPEhTY2lSTr20mqM358GTyYlopvb/TxYkZwz67jmwgGLYXQYEnllC1bUqV2m0n9BsIYFUluoKwv9G1hyRBkmCXvF2bQYBA7VA5nO44fQm/xnjb3B2ggqIoBu3C6mxPCPID6UEHWhQwjyZBmsFU=;atXzHioyiUkKGPtgizqHBg=="
 ---
 

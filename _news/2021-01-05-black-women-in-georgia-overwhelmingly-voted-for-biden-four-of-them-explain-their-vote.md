@@ -1596,6 +1596,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'Enjoy it virtually': DC mayor urges Americans to stay home for Biden's inauguration"
+    excerpt: "Washington, D.C., Mayor Muriel Bowser and security officials on Friday urged Americans to watch President-elect Joe Biden's inauguration from home. The inauguration will take place two weeks after violent rioters breached the Capitol — and right-wing extremists are calling for more violence when Biden is sworn-in."
+    publishedDateTime: 2021-01-16T03:38:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/enjoy-it-virtually-washington-d-c-mayor-urges-americans-stay-n1254424"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254424"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254424"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_02/3442392/210115-closed-national-mall-ew-1245p_6b7ae85c48907c88a70a21dbfde9db35.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Biden's health agenda runs through Georgia"
     excerpt: "Today's Georgia Senate elections could determine the shape of President-elect Joe Biden's health policy agenda, as Democrats hope to wrest back control of the chamber. — Janet Woodcock is now the chief medical adviser to the FDA commissioner,"
     publishedDateTime: 2021-01-05T15:00:00Z

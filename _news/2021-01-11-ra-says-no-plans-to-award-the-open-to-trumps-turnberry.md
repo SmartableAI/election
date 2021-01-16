@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump gives award to Morocco’s king in private ceremony"
+    excerpt: "President Donald Trump has awarded a top U.S. honor to King Mohammed VI of Morocco, citing his decision to begin normalization of relations with Israel"
+    publishedDateTime: 2021-01-16T04:50:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/trump-gives-award-to-moroccos-king-in-private-ceremony/2021/01/15/64639d2e-578c-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/trump-gives-award-to-moroccos-king-in-private-ceremony/2021/01/15/64639d2e-578c-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/trump-gives-award-to-moroccos-king-in-private-ceremony/2021/01/15/64639d2e-578c-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "U.S. judge says Bolton may probe whether White House delayed security aide’s memoir to protect Trump from embarrassment"
     excerpt: "Justice Dept. seeks profits from “The Room Where it Happened”; court rules Bolton may not challenge whether manuscript contained classified information"
     publishedDateTime: 2021-01-15T04:26:00Z

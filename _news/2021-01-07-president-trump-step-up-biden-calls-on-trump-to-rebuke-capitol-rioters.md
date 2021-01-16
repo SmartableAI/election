@@ -1580,6 +1580,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "'Enjoy it virtually': DC mayor urges Americans to stay home for Biden's inauguration"
+    excerpt: "Washington, D.C., Mayor Muriel Bowser and security officials on Friday urged Americans to watch President-elect Joe Biden's inauguration from home. The inauguration will take place two weeks after violent rioters breached the Capitol — and right-wing extremists are calling for more violence when Biden is sworn-in."
+    publishedDateTime: 2021-01-16T03:38:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/enjoy-it-virtually-washington-d-c-mayor-urges-americans-stay-n1254424"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254424"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254424"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_02/3442392/210115-closed-national-mall-ew-1245p_6b7ae85c48907c88a70a21dbfde9db35.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Black women in Georgia overwhelmingly voted for Biden. Four of them explain their vote."
     excerpt: "Ninety two percent of Black women in Georgia voted for Joe Biden in the 2020 general election, according to NBC News exit poll numbers. NBC News’ Priscilla Thompson spoke with four female voters about why they chose Biden and what they hope he can accomplish as president."
     publishedDateTime: 2021-01-05T01:02:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-rese
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html"
 type: article
 quality: 166
-heat: 186
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "HHS Secretary Alex Azar complains of tarnished legacy in resignation letter to Trump"
+    excerpt: "President Trump's \"actions and rhetoric\" have tarnished the administration's legacy, Health and Human Services Secretary Alex Azar said in a resignation letter submitted this week.\n    \n"
+    publishedDateTime: 2021-01-16T04:36:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aMwKsGnYqrs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/alex-azar-resigns/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/alex-azar-resigns/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115212144-01-alex-azar-2020-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Despite Trump administration promise, there appear to be no more 'reserve' 2nd vaccine doses to release"
     excerpt: "Hopes of a surge in Covid-19 vaccine shipments under a new policy to release second doses held in reserve appear to be evaporating -- with the revelation that those doses have already been distributed, contrary to recent indications by the Trump administration.\n    \n"
     publishedDateTime: 2021-01-15T20:01:44Z

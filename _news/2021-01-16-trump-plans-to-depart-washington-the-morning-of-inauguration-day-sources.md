@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Trump Plans to Depart Washington the Morning of Inauguration Day: Sources"
-excerpt: "President Donald Trump now plans to leave Washington on the morning of Inauguration Day next Wednesday after considering a departure on Tuesday, a source familiar with the matter said on Friday. Trump,"
-publishedDateTime: 2021-01-16T02:56:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-01-15/trump-plans-to-depart-washington-the-morning-of-inauguration-day-source"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-15/trump-plans-to-depart-washington-the-morning-of-inauguration-day-source"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-15/trump-plans-to-depart-washington-the-morning-of-inauguration-day-source?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-15/trump-plans-to-depart-washington-the-morning-of-inauguration-day-source?context=amp"
+title: "Trump plans to depart Washington the morning of Inauguration Day: sources"
+excerpt: "President Donald Trump now plans to leave Washington on the morning of Inauguration Day next Wednesday after considering a departure on Tuesday, two sources familiar with the matter said on Friday."
+publishedDateTime: 2021-01-16T04:44:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-depart/trump-plans-to-depart-washington-the-morning-of-inauguration-day-source-idUSKBN29K26W?amp;amp"
+webUrl: "https://www.reuters.com/article/us-usa-trump-depart/trump-plans-to-depart-washington-the-morning-of-inauguration-day-source-idUSKBN29K26W?amp;amp"
 type: article
-quality: 54
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547954619&r=LYNXMPEH0E18B&w=800"
+    width: 800
+    height: 501
+    isCached: true
 
 related:
   - title: "Trump plans to depart Washington Inauguration Day morning, while Pence, Harris speak"
@@ -42,20 +46,20 @@ related:
         height: 558
         isCached: true
   - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-    excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
-    publishedDateTime: 2021-01-16T01:07:00Z
-    webUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    excerpt: "WASHINGTON -- Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-16T00:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 150
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "House passes measure calling on Pence to remove Trump"
     excerpt: "The House on Tuesday passed legislation calling on Vice President Pence to tap his Constitutional authority to remove President Trump from office in response to the president’s role in the deadly mob attack on the Capitol last week."
@@ -540,6 +544,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Mike Pence calls Kamala Harris to offer congratulations"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-15T12:51:00Z
+    webUrl: "https://www.chron.com/news/article/Mike-Pence-calls-Kamala-Harris-to-offer-15874325.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Mike-Pence-calls-Kamala-Harris-to-offer-15874325.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Mike-Pence-calls-Kamala-Harris-to-offer-15874325.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 100
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Mike Pence Calls Kamala Harris to Offer Congratulations"
     excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
     publishedDateTime: 2021-01-15T19:34:00Z
@@ -730,6 +750,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump Is on the Verge of Losing Everything"
+    excerpt: "A broken president leaves the White House twice impeached, on the brink of bankruptcy, and criminally exposed."
+    publishedDateTime: 2021-01-16T04:36:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/donald-trump-after-presidency.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/donald-trump-after-presidency.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/donald-trump-after-presidency.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/0f0/be0/7d4992df6eb4d08e26bbe239f1d0d83f3d-trump-chait-issue-2.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."
     publishedDateTime: 2021-01-13T07:29:00Z
@@ -873,6 +909,6 @@ related:
       domain: seattletimes.com
     quality: 27
 
-secured: "zi/GoRVbu4DsZBvS3T7Pm0Sp4EhT+g/9nV6FOsa1Biq0mpUQP32aNM7YRH35TP+SZq6vjAKiZyizvDLdjzArmHlYUGH7mtl5DuGWkFMDH/x8Id3tQ6XTLg0xKcEH0HVqKm2s8oY5EmJ+cT2RjQmmLtqTZTC4QJBNuvZMumsZu7PXQfyvYa6pHa/Mp/QOuvCkV/CqCmf56l6F84bkQz8F13Asic4JQCbRdA8W/ns3yd/8ksd+9h5Gw5bN2OT0cNDmfCYhn6AP0YzWk2pfJNNGpAzGlWw9Orl8kdn4Djl9GXRUG//pw/1GNflJe9ODS3zhOPvIj1rQojbpznWhontGDtmk522d1xn5WV30QP0oGa1Hqck6tKxeghQfVxXymQQnpNuz1ZvMshfQoRWZ2RX7eORTV0eipk7ubD98x9G6f4yd09PER2tbnbFTwaKP7QXulc+AtwT/LdwSnPlYemY+wsGD3qJabHGYNdi9bLIsj1D+dKnK4OUP3opRcXkWbBSJX3tS/k0ovWGDzkAlAYP90Q==;4QMOweZGK0g0+bTwgNiD5g=="
+secured: "KBHFf4vWqfzpzZTbdDF54YF9lDCDicUELrBIUeXvHHya0mn0gmlxspEr+uT2IId1ToguhsRT7l0WBybgVT9nrD1x35KEr8aMK+rtvR1VMsUh9I3d1ddAxJ7+MXYP2toOW3hE7MfEGN/e0e7CE7sL5jJxH9ssGmflt1EUYFeguV9lv/4mjn/7BpeOtbfu4RHjqzK+XzuDQ5QJT9ss4uShtXSFeyWAYkXAgxe1qfa+SQOPdz7EPpG6lhBH3ZnY3GYSfnDrWv/I0Y3EAzkw466Ns7mDuFvtKsRrD7v2oodWN7e2Z6bX5TegIo52QNhv/VBlGZIxei4oAevV/9tTtZF6lDM2LTvXyfvBnSEHgeum55c=;yuxKOpQ70S/5C5CkuprJqA=="
 ---
 

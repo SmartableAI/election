@@ -767,6 +767,22 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "Biden will elevate White House science office to cabinet-level"
+    excerpt: "President-elect Joe Biden will elevate the White House Office of Science and Technology Policy to a cabinet-level agency and picks world famous geneticist Eric Lander to run it."
+    publishedDateTime: 2021-01-16T03:58:00Z
+    webUrl: "https://www.washingtonpost.com/science/2021/01/15/biden-lander-ostp/"
+    ampWebUrl: "https://www.washingtonpost.com/science/2021/01/15/biden-lander-ostp/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/science/2021/01/15/biden-lander-ostp/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VQYGJGSXLUI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Democrats wrestle with length of Trump trial"
     excerpt: "Democrats are eager to punish Trump for inciting the attack on the U.S. Capitol, but wary of a Senate trial dragging on too long and slowing Biden’s agenda. They hope to keep the trial short without truncating their case."
     publishedDateTime: 2021-01-16T00:14:00Z
@@ -1621,6 +1637,20 @@ related:
         width: 800
         height: 526
         isCached: true
+  - title: "Biden says he feels safe ahead of his inauguration"
+    excerpt: "U.S. President-elect Joe Biden said on Friday that he feels safe taking his oath of office publicly next week."
+    publishedDateTime: 2021-01-16T02:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-safety/biden-says-he-feels-safe-ahead-of-his-inauguration-idUSKBN29K2MP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548003541&r=LYNXMPEH0E1JN&w=800"
+        width: 800
+        height: 626
+        isCached: true
   - title: "Biden says he feels safe ahead of inauguration"
     excerpt: "Top News Biden says he feels safe ahead of inauguration. Posted . U.S. President-elect Joe Biden said on Friday that he feels safe, after a reporter asked him if he felt comfortab"
     publishedDateTime: 2021-01-16T01:56:00Z
@@ -2366,6 +2396,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "he2pO04znp/KUtx3cX1vgtjFqixxyCbX9eiMqpHP15Qdq/k95JV/4LcLTscH/Kqs7JCQWBZTSoCprUM7Z5tzeiDcOoP0vixpxnP8DE9xTM2/v8HUHhZ687gQSrHj4Y1zcUo74Af/r2RK8ErHzg2bVc5v5axMWRa40FxdicrfQt1MS3n4PRUCBXtLVXLSxOuDYF6BF5PPpaok2I3wtC7zIzP4bt26PZSSTKaltgA0RNoownrMLWX3miowWZxALi1GIpfYmtSU3kfzdHwFJ9KT3jOMeVInU01+3RIgpX9gDhoFwZy30Tn99pzpNVqVSPmDOjTYMz5z8/7JhYzeWtEh+ytdpMSgBA7Dp2eOnV5ALe4=;/2sDlBm4z9pzGB/9aM+gCA=="
+secured: "CSinRBT+j1Ss2O3AbVtSJp66gWnvb8bnqUb+vL9+K+jgzbj91p6zAPli7TBPrAt4wilzgxMqu0DYD08BDiZ/Y76ZHRkyAbZxmSl9rNXWLrGChbRbNppUKzpnYkXkFaCQdw4FKIXgVRUeBNGqgbrzQv0847S6rZUh67B3qIJumKB5qx9qw61qM6aY+7+I0+9naf+FmpG1XSizRx/hdKYyxOPbR1dgcpQewNvDaOCe2gSgHkaE9OMh7vxvSSykniAH/TUMVGAxGeNSqC0llFQTXWQyAfZqACN+I1zqcjU4z1GXGqjL+eEDIz0YZbxYL9LavIQCM0A4QJt8id99wk0UjDDnw+W+C+4J2mnmpitroHKNv/ycvAv953BY+Ij7Wem7/IT1unY+5qnOaQuS5sybCfI6uLWchYUG4nx2RFIecBW6yZ9dxh1OX/xw67diGEWHxgyTwHXfB51Zgn2CY7LdktW2fFo4jGhZW5LuCpq1bsc13OeJuiGNfn9g24yhwFiwbLMQ0mbyRccSD0K3hwhHVw==;JFUox2bKPxYgGGJBnrQfeg=="
 ---
 

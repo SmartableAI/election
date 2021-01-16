@@ -2,9 +2,9 @@
 category: news
 title: "Pelosi calls for prosecution of any Congress members who might have helped pro-Trump siege"
 excerpt: "Any members of the U.S. Congress who helped a crowd of President Donald Trump's supporters storm the Capitol should face criminal prosecution, House of Representatives Speaker Nancy Pelosi said on Friday."
-publishedDateTime: 2021-01-16T02:41:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump/pelosi-calls-for-prosecution-of-any-congress-members-who-might-have-helped-pro-trump-siege-idUSKBN29K0NV"
-webUrl: "https://www.reuters.com/article/us-usa-trump/pelosi-calls-for-prosecution-of-any-congress-members-who-might-have-helped-pro-trump-siege-idUSKBN29K0NV"
+publishedDateTime: 2021-01-16T04:32:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump/pelosi-prosecute-any-members-of-congress-who-aided-trump-supporters-capitol-attack-idUSKBN29K0NV"
+webUrl: "https://www.reuters.com/article/us-usa-trump/pelosi-prosecute-any-members-of-congress-who-aided-trump-supporters-capitol-attack-idUSKBN29K0NV"
 type: article
 quality: 95
 heat: -1
@@ -57,6 +57,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "MIyaeN0xnQYVwG9D/MmXlb3DoDBUdr86gNzrWU3JrQuVUMKrdYygnuQKJGoGPiv5NZgTx7ecSlwgCsL9hY2fzsHoIkeFviN3pJcfjsbFwWoe3cqSCQsCLOGHnYGnBucApUJxFraeK2xJvRLZKl1U7T0vcougBCV6qDM+dJ9l8bLN+Y8LS8s+7BAHdIxkRoKMaJeL/IIvWTZbLYGZA3y1ymsZnJtMb0TG6Gh3Ie1Dyei7CtpHKn3Zw05ldpC5mbh0KN/cFTLkfVbJ2DcohlCBQSPigSDKjGDHZbL9rkZUKB96ydbtZhEJWjbLSEQUSJP4Km7aUpj/MqAFqLB3Gt1Q1gF/dfQWGEZf9VohnhB2Jjc=;1wjNMX7xA2e45BAXhMC/ug=="
+secured: "QbXvES1pmeMnrTEXX2P+a2OBVFGQzuB+JGTSKnktSIYb3kSC+1nc1OBq4yr7IhhFC/Tg9zrqjpmKI2NdfztjbEY79vOBqjnmPK6URFCdopeRZgcLEQVlSkMswIZD2I/Ef4JUqitRwjglgQV7+16hDDfMHL4jesMoworiBKxcR1A3xvkWzsAGsna1x4ncw2dgfR0FPT0oPWb3QNL4K7aqDfAygEfx8y4RkgMFCWNvezsotTAv8TRofo5UZ43wYH+p6vfjKnChInA6afhclvw4OkiYxkkBeaFJICdnfNJGfK6q8GhwEhrjqw0AvxZ4ewtEiEbonAMS6tjJA8PqLodzRutZdiNwc1FeYyvKtKZOTPU=;rZTR8FRZ7GwBvrkQBISKtA=="
 ---
 

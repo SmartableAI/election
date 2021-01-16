@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-bor
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 125
     images:
       - url: "https://i.guim.co.uk/img/media/d28f8b02a1054d115e0ac05d26edab5a385ca5de/0_137_5145_3087/master/5145.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cf6e6c648ae5a290ee7660700b84263d"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Donald Trump appeal says government should defend E Jean Carroll lawsuit"
+    excerpt: "Justice department puts itself in between president and writer who sued after Trump dismissed 1990s rape allegation as bookselling ploy"
+    publishedDateTime: 2021-01-16T02:49:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/16/donald-trump-appeal-says-government-should-defend-e-jean-carroll-lawsuit"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/16/donald-trump-appeal-says-government-should-defend-e-jean-carroll-lawsuit"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/16/donald-trump-appeal-says-government-should-defend-e-jean-carroll-lawsuit"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/90c11fb4b07bc5bd04147530e0cefa4f6ce06664/0_90_2675_1606/master/2675.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=efde315b17ef2166ec318b8bd9638616"
         width: 600
         height: 360
         isCached: true

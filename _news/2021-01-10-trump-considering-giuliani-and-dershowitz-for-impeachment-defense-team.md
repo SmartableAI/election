@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/donald-trump-impeachment-lawyers-dershowitz-giuliani/index.html"
 type: article
 quality: 175
-heat: 495
+heat: 515
 published: true
 
 provider:
@@ -202,6 +202,20 @@ related:
     quality: 155
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113164326-23-trump-impeachment-1113-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Giuliani uses unfounded 'Antifa' argument to defend Trump"
+    excerpt: "President Donald Trump's personal attorney Rudy Giuliani has been working to bolster conspiratorial claims that left-wing agitators played a dominant role in the last week's Capitol riot.\n    \n"
+    publishedDateTime: 2021-01-16T04:33:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_iWRu-lrfV4/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222110730-rudy-giuliani-1107-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-16-hhs-secretary-alex-azar-complains-of-tarnished-legacy-in-resignation-letter-to-trump.md",
+      "title": "HHS Secretary Alex Azar complains of tarnished legacy in resignation letter to Trump",
+      "excerpt": "President Trump's \"actions and rhetoric\" have tarnished the administration's legacy, Health and Human Services Secretary Alex Azar said in a resignation letter submitted this week.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aMwKsGnYqrs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aMwKsGnYqrs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210115212144-01-alex-azar-2020-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/15/politics/alex-azar-resigns/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/alex-azar-resigns/index.html",
+      "publishedDateTime": "2021-01-15T20:36:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-mypillow-ceo-hints-at-scrapped-plan-to-replace-cia-director-with-trump-loyalist.md",
       "title": "MyPillow CEO hints at scrapped plan to replace CIA director with Trump loyalist",
       "excerpt": "A Trump ally's notes visible as he visited the West Wing on Friday revealed a suggestion to replace the current CIA director with the current acting chief of staff at the Pentagon. But according to multiple sources, it was not the first time the idea was broached inside the White House.\n    \n",
@@ -31,62 +87,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/15/politics/cia-kash-patel-mypillow-notes-lindell-trump/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/cia-kash-patel-mypillow-notes-lindell-trump/index.html",
       "publishedDateTime": "2021-01-15T18:57:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-despite-trump-administration-promise-government-has-no-more-reserve-2nd-vaccine-doses.md",
-      "title": "Despite Trump administration promise, government has no more 'reserve' 2nd vaccine doses",
-      "excerpt": "Hopes of a surge in Covid-19 vaccine shipments under a new policy to release second doses held in reserve appear to be evaporating -- with the revelation that those doses have already been distributed, contrary to recent indications by the Trump administration.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lalVOl5dJlA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lalVOl5dJlA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201222111258-02-alex-azar-vaccine-1222-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html",
-      "publishedDateTime": "2021-01-15T17:36:48-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1431,7 +1431,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2400,
+      "heat": 2420,
       "tags": null,
       "images": [
         {
@@ -1602,7 +1602,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 495,
+      "heat": 515,
       "tags": null,
       "images": [
         {

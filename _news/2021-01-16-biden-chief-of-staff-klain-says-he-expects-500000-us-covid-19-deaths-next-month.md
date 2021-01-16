@@ -59,6 +59,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden will encourage vaccination of all people over 65, frontline workers"
+    excerpt: "The incoming administration of Democratic President-elect Joe Biden will seek to vaccinate all people over 65 and frontline workers, as Biden seeks to administer 100 million COVID-19 vaccines during his first 100 days in office."
+    publishedDateTime: 2021-01-16T02:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-vaccines/biden-will-encourage-vaccination-of-all-people-over-65-frontline-workers-idUSKBN29K2L5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547981882&r=LYNXMPEH0E1IO&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Biden chief of staff Klain says he expects U.S. COVID-19 deaths to top 500,000 next month"
     excerpt: "U.S. President-elect Joe Biden's incoming chief of staff Ron Klain said on Friday he expects the United States to hit 500,000 COVID-19 deaths next month."
     publishedDateTime: 2021-01-15T18:51:00Z
