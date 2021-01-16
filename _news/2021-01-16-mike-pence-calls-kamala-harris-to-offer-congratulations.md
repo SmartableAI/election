@@ -108,6 +108,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
+    excerpt: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
+    publishedDateTime: 2021-01-15T19:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 127
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Pro-Trump supporters to rally again in Washington"
     excerpt: "Supporters of President Donald Trump are returning to Washington for a pair of rallies to back his desperate efforts to subvert the election that he lost"
     publishedDateTime: 2020-12-12T07:26:00Z
@@ -870,20 +886,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
-    excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
-    publishedDateTime: 2021-01-15T21:34:00Z
-    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/article_83c74b49-2415-5ca6-8ce3-a2ba0e83f0fa.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 57
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
-        width: 600
-        height: 517
-        isCached: true
   - title: "Arts agency member resigns after vulgar comment about Harris"
     excerpt: "An appointee to the Ohio Arts Council resigned Friday after making a vulgar comment on social media about Vice President-elect Kamala Harris that also supported President"
     publishedDateTime: 2021-01-09T00:51:00Z
@@ -967,6 +969,6 @@ related:
       domain: seattletimes.com
     quality: 27
 
-secured: "2e5LXn/AyrrfBmDY20z0UwKZJexyI3Y/PF3OhcNA6mqq4+mv03cu3cF6T70/FOsEirY4Fh0mMTJViGeBnELr55PC2JIg7JdmwoXJe6yMghmKeUCje2WCo9I0X/oAZzuaXQxhBN/Xp8oDOf0QVGc3zYoET8NwuJkxMWvF8dv4K0LHKWzPBDimpgdWyA3IPRwFLfGNkSlfoq2m3aKydXuRG0kvN8HXoNfPI2nQF2voBkh9Or821v4L6J/RfAGaLe3sDPClOOG4A5+assi8ZNrR7bJcbnAj3zpR4oaSoy7ea6UlpcsU2rwWd7PZUkHL13vuJaZ2ncSDb/rLKzALy036OFhHkDpA4V3bxie1/2bdhz8=;mWM3RTPGaHWKmPvDx7xTvg=="
+secured: "5y9g6WPUcdggfXJnlVBgCaCBOyB2zQQlmS/vgX2zulvfYEXdyePJCj5lo8FctmYzD3skxLBqgS/BeykUNjOeLQcRrmvJeNXq9c07E9vrGAQmU+ZSjNzZ5GbCg0zsG3AUYGlWDI2qXoJF8LOTAjnqQC4tZNWR3ngzYveZB9sTk2lbpJPQA4zPIBDLOF9IIflx0kwGitVhx5RA6ENtaFxGXY9mvGVttFCRg7ty/i6SlWc20rHDNkCVu9oeITvEXL55uVEGMqPrqxL2fWc4IHcDRXXLl+/Hxt4i26xNkx3kgH8CxTeWL5KJyLd6jlRS/cXeY1NeIJ3bBw4rdLfiaZ9VemOwaFkQ2h7nMDED9An98piKyI+NgCofdIT/2lUwjVcxjF5xISrSd8bqIEjf1fh1dRsyDlCqIHp960e0ip6gBym4vTHE6k1tdYPqEv5Wr4OBB85MP9uuDRXSrAssWKi3rJEfLngohbzcyRlIYn7vE/pRCmGEWrexkmFPYdnwtktybhPJuAQwRKYWvKkIvO6t2w==;aXWgvbV5G0AXsnbdeLQEKw=="
 ---
 

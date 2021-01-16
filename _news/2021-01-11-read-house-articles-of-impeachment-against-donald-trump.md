@@ -236,6 +236,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "A First for an American President, and a First for Donald Trump"
+    excerpt: "In the final moments of his presidency, Mr. Trump is confronting an unfamiliar fate: He is being held to account as never before for things he has said."
+    publishedDateTime: 2021-01-16T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/16/us/politics/donald-trump-consequences.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/16/us/politics/donald-trump-consequences.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/16/us/politics/donald-trump-consequences.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/15/us/politics/00trump-consequences-1/00trump-consequences-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "After 2 Impeachments, Giuliani Vows to Continue His ‘Craziness’ for Trump"
     excerpt: "White House officials are universally angry with Rudolph W. Giuliani and blame him for both of President Trump’s impeachments. But he remains one of few people still willing to join Mr. Trump in the foxhole."
     publishedDateTime: 2021-01-15T01:05:00Z

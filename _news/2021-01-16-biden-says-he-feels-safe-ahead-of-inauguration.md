@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden says he feels safe ahead of inauguration"
-excerpt: "World Biden says he feels safe ahead of inauguration. Posted . U.S. President-elect Joe Biden said on Friday that he feels safe, after a reporter asked him if he felt comfortable"
+excerpt: "Top News Biden says he feels safe ahead of inauguration. Posted . U.S. President-elect Joe Biden said on Friday that he feels safe, after a reporter asked him if he felt comfortab"
 publishedDateTime: 2021-01-16T01:56:00Z
-originalUrl: "https://www.reuters.com/video/watch/biden-says-he-feels-safe-ahead-of-inaugu-id724332851?chan=8gwsyvzx"
-webUrl: "https://www.reuters.com/video/watch/biden-says-he-feels-safe-ahead-of-inaugu-id724332851?chan=8gwsyvzx"
+originalUrl: "https://www.reuters.com/video/watch/biden-says-he-feels-safe-ahead-of-inaugu-id724332851?chan=94w50zwf"
+webUrl: "https://www.reuters.com/video/watch/biden-says-he-feels-safe-ahead-of-inaugu-id724332851?chan=94w50zwf"
 type: article
 quality: 105
 heat: -1
@@ -2448,6 +2448,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "dzadDIdGxZ9GjW6zCDRlt1HJCOifKSqZgRtC6ta2ys/4e9wR3aRtKlti1fyJi3/KtEyAmLfOexpFjLNMoAlxda29KQUVH/Idr7rfWeyBRkHZZE7ztPFvvJUyXYW88rO6SW9ShPv+xHMUfxo0e8kC+Z8rRkXN0IeX6PhLHXUwdYXgncBx8WIEh62QFKic4GwG1S3EqyJsAcLhrmPRYxJLUJ1LIGvlxmcEIUYJD7L7+0xxtkV4Y0E8zBswAuOvAz2qJYR81+LDFBzRvff5GE8FhXim3eTamSE9i9hCb3+xLPXrw5j9RT6+dvCigxLCbGImM61HhO8MBOd3+H80MuVRotGbDN7YWmzQk+Wdr6AZYkA=;QBZd+gk6vm7/KKVrVJVflg=="
+secured: "V+7WXUehJgmoK02dj99eNDNghlyG9m8ZYnvgdrtRWgyDEgO/ZUrGlI5ZyJ+HzoOzHc+AZKLnhBiUhjUwRdn30jefeEbnqsetTbw9jmQ7Zp2kJE2QERXqgueAwocU0yeiuDl1weCsARce0ew9RoOgigc8uKdK8zg0ReVoVu4AaI/dTtfnnh2R4g9pywZjTTPoJUSNupPKU9Drb64yCNwfiUCxQvFf8qk2gAlsKcZ2uxnaAeSOLss1XztrZroHVjysb7aKTBNvJjOrp1hWxbtYyCZPVCejX/tCCO+FzVK64KhxvcFo/7fFWPoJ73At8bHdG/Jg+Jzne+f89K/qMDe5PWcRcJ1sF8pllZlbqod5DgI=;O8C48nRaD8uuDJptpE/LmQ=="
 ---
 

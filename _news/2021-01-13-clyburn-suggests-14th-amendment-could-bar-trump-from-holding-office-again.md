@@ -223,6 +223,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Manhattan DA’s office expands criminal probe of Trump’s businesses"
+    excerpt: "The Manhattan District Attorney's Office is expanding its criminal probe of President Trump and his businesses -- issuing subpoenas for documents pertaining to a Trump property in suburban Westchester County, N.Y., Fox News has confirmed.  "
+    publishedDateTime: 2021-01-16T09:37:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3MX1x6KqlAg/manhattan-das-office-expands-criminal-probe-of-trumps-businesses"
+    ampWebUrl: "https://www.foxnews.com/politics/manhattan-das-office-expands-criminal-probe-of-trumps-businesses.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manhattan-das-office-expands-criminal-probe-of-trumps-businesses.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/340/340/marta.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "AOC says Republicans only care about Trump 'mob' when it's coming for them"
     excerpt: "Rep. Alexandria Ocasio-Cortez on Thursday accused Republicans of neglecting what she characterizes as threats incited by President Trump unless they become the target."
     publishedDateTime: 2021-01-14T23:52:17Z

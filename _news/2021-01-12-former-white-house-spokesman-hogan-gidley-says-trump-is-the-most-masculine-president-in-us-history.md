@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/trump-aide-says-president-is-the-mos
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1?amp"
 type: article
 quality: 110
-heat: 110
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,6 +29,38 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Bette Midler Says Donald Trump Will 'Burn Down' The White House Before He Leaves"
+    excerpt: "\"How many more will die in the service of this mediocrity? And watch, he'll burn the WH down before he goes,\" Midler tweeted Tuesday."
+    publishedDateTime: 2021-01-12T17:33:00Z
+    webUrl: "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892"
+    ampWebUrl: "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1673938/bette-midler.jpg"
+        width: 3000
+        height: 2023
+        isCached: true
+  - title: "The House impeached Donald Trump over his speech before the Capitol attack. Here’s what happens next"
+    excerpt: "With the House voting to impeach President Donald Trump, the action moves to the Senate. It is not immediately clear when the Senate will begin a trial. • Most experts say that a trial can proceed after Trump is out of office if needed."
+    publishedDateTime: 2021-01-13T22:31:00Z
+    webUrl: "https://www.politifact.com/article/2021/jan/13/house-impeached-donald-trump-over-speech-capitol-a/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 40
+    images:
+      - url: "https://static.politifact.com/img/meter-true.jpg"
+        width: 438
+        height: 392
+        isCached: true
 
 secured: "ExM9m2UFUM6EjEeQ3O3AsbjHCWR+WgoRBL+QTvac81JrEe7qRF31CXRGFZn708+tofkqdagqO8YFQ0KbAXZaN4DcZfmW6L6lvLAzagz/cvIEEtscOIlCuUx3A1um9WapRhtyoXIkMVDZOPT4+TFIb9KRvvFtB2RyliCVUGir1LGbI4u4NVTKDOlGN47QaklTdgPjjNxsWfbdv+yVmwVmcY1DTqyHHhWL1nDWC4mihK+PAeja7RQwoQ3QAgDXCcp6fFqaGoOW2rrF6JAz5VHH9DKx+kb2+ed1GqRF9WPN7me/KI6N1cZF/6ODzZEUwXq738Y1QDSfdSbRCepZ7C36fiQVTmxcV6bPSF/rygi3Sl0=;sFXS4gxy4jQ2oH6cmvhPMQ=="
 ---

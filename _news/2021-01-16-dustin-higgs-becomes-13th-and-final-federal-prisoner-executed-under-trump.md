@@ -1,0 +1,69 @@
+---
+category: news
+title: "Dustin Higgs becomes 13th and final federal prisoner executed under Trump"
+excerpt: "Higgs, 48, had been sentenced to death over the killings of three women in Maryland"
+publishedDateTime: 2021-01-16T05:36:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/jan/15/dustin-higgs-federal-execution-trump"
+webUrl: "https://www.theguardian.com/us-news/2021/jan/15/dustin-higgs-federal-execution-trump"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/15/dustin-higgs-federal-execution-trump"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/15/dustin-higgs-federal-execution-trump"
+type: article
+quality: 124
+heat: 164
+published: true
+
+provider:
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://i.guim.co.uk/img/media/28d4f022ffdec2869fadccc989f853f3ed58c31b/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a8d45662da15656a3487f3214818728d"
+    width: 600
+    height: 360
+    isCached: true
+
+related:
+  - title: "Reps. Paul Gosar, Andy Biggs credited in video with organizing Trump crowd in DC on day of riot"
+    excerpt: "The man who has led the \"Stop the Steal\" protests nationally singles out Reps. Paul Gosar and Andy Biggs for helping make Washington gathering happen."
+    publishedDateTime: 2021-01-10T18:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/arizona/2021/01/10/paul-gosar-andy-biggs-credited-video-organizing-trump-crowd-dc/6603721002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6603721002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6603721002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/22/PPHX/dee8e0f3-5193-49ca-97ee-fe0d28cec7f8-Paul_Gosar_Andy_Biggs.jpg?auto=webp&crop=1749,984,x1,y5&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Dustin Higgs scheduled to be last federal inmate executed before Trump leaves office"
+    excerpt: "A federal jury in Maryland convicted Higgs of first-degree murder and kidnapping in the killings of Tamika Black, 19; Mishann Chinn. 23; and Tanji Jackson, 21."
+    publishedDateTime: 2021-01-15T12:34:00Z
+    webUrl: "https://www.al.com/news/2021/01/dustin-higgs-scheduled-to-be-last-federal-inmate-executed-before-trump-leaves-office.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/dustin-higgs-scheduled-to-be-last-federal-inmate-executed-before-trump-leaves-office.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/dustin-higgs-scheduled-to-be-last-federal-inmate-executed-before-trump-leaves-office.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 68
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XXFO4DFQZBAVJIOMBKC5PSB5BE.jpg"
+        width: 1969
+        height: 1286
+        isCached: true
+
+secured: "k4i06WN+5yls69iIrU4l13rVLnS7tzkZbq7cOnTUNbiPZbedBjY49x5LIONGlVULb/VpEEbRCR4VKcGp6B+GD7nwe1Srz9rD3cNWtTGFHwri7thRfrU/GSmUMYXG3kDfMGHWvi/nI9UsnWA7l9BRoqa2LSZTrHCU2GJFgyEo19WUVx/2gdgkcD76v1hBT75Qfk22SsDP/emQdRAbjdaUhboTdNvxQqHTR0x6zla9fGo2f1jrkpVmyn1iS2FClli3gpqbczMM9R0WiJiUnSgnPo+o9x928nakloWrjrS9kcTn4XUJs2QlOxVz3CpzWgYb6+WwGLZzUlpDLe3I36Ob23meE2qSOqO6bzj6Nx+3w0g=;IKyTZCjPki9KdZnIxQt5tA=="
+---
+

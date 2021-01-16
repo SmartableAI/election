@@ -1668,9 +1668,9 @@ related:
         height: 526
         isCached: true
   - title: "Biden says he feels safe ahead of inauguration"
-    excerpt: "World Biden says he feels safe ahead of inauguration. Posted . U.S. President-elect Joe Biden said on Friday that he feels safe, after a reporter asked him if he felt comfortable"
+    excerpt: "Top News Biden says he feels safe ahead of inauguration. Posted . U.S. President-elect Joe Biden said on Friday that he feels safe, after a reporter asked him if he felt comfortab"
     publishedDateTime: 2021-01-16T01:56:00Z
-    webUrl: "https://www.reuters.com/video/watch/biden-says-he-feels-safe-ahead-of-inaugu-id724332851?chan=8gwsyvzx"
+    webUrl: "https://www.reuters.com/video/watch/biden-says-he-feels-safe-ahead-of-inaugu-id724332851?chan=94w50zwf"
     type: article
     provider:
       name: Reuters

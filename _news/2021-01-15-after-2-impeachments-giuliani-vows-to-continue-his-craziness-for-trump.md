@@ -252,6 +252,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "A First for an American President, and a First for Donald Trump"
+    excerpt: "In the final moments of his presidency, Mr. Trump is confronting an unfamiliar fate: He is being held to account as never before for things he has said."
+    publishedDateTime: 2021-01-16T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/16/us/politics/donald-trump-consequences.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/16/us/politics/donald-trump-consequences.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/16/us/politics/donald-trump-consequences.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/15/us/politics/00trump-consequences-1/00trump-consequences-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Highlights and analysis: House impeaches Trump for 'incitement of insurrection'"
     excerpt: "House debates impeaching Trump for 'incitement of insurrection' in Capitol riot The article of impeachment is expected to pass in the Democratic-controlled House, which would make Trump the first president in U."
     publishedDateTime: 2021-01-14T22:15:00Z

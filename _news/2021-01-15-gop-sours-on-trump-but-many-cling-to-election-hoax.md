@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-sours-on-trump-but-many-cling-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sours-on-trump-but-many-cling-to-election-hoax.amp"
 type: article
 quality: 190
-heat: 730
+heat: 750
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a35816a3-7e51-448c-bda9-a5a8814c76e9/2b740dbc-bc7a-45b2-bb1b-f8049089ff41/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Manhattan DA’s office expands criminal probe of Trump’s businesses"
+    excerpt: "The Manhattan District Attorney's Office is expanding its criminal probe of President Trump and his businesses -- issuing subpoenas for documents pertaining to a Trump property in suburban Westchester County, N.Y., Fox News has confirmed.  "
+    publishedDateTime: 2021-01-16T09:37:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3MX1x6KqlAg/manhattan-das-office-expands-criminal-probe-of-trumps-businesses"
+    ampWebUrl: "https://www.foxnews.com/politics/manhattan-das-office-expands-criminal-probe-of-trumps-businesses.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manhattan-das-office-expands-criminal-probe-of-trumps-businesses.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/340/340/marta.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Clyburn suggests 14th Amendment could bar Trump from holding office again"
     excerpt: "House Majority Whip James Clyburn, D-S.C., told Fox News Wednesday that President Trump should be legally prevented from holding elected office again as the House impeached him for an unprecedented second time. "

@@ -1,18 +1,24 @@
 ---
 category: news
 title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
-excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
-publishedDateTime: 2021-01-15T21:34:00Z
-originalUrl: "https://www.stltoday.com/news/national/govt-and-politics/article_83c74b49-2415-5ca6-8ce3-a2ba0e83f0fa.html"
-webUrl: "https://www.stltoday.com/news/national/govt-and-politics/article_83c74b49-2415-5ca6-8ce3-a2ba0e83f0fa.html"
+excerpt: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
+publishedDateTime: 2021-01-15T19:17:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
+webUrl: "https://abcnews.go.com/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
 type: article
-quality: 57
+quality: 127
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -20,9 +26,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
-    width: 600
-    height: 517
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -967,6 +973,6 @@ related:
       domain: seattletimes.com
     quality: 27
 
-secured: "ePAAw2gEPDvfHoykTRBMd+KT50F0Suyn7KrfBjRdLhXEzbcqrcWmKJf7kxgJRSm8uGJLZ9pglk8UvOYa9UrvS+sH8KBJgnbtmCJzertCDEAJ/lwFo9zoV1uuJ3grdKwRXuP0Unx/UodwR6v9+nWwbz8hgD6MBeYiElwW53tPRfwoQjoa6LGGY7LMXrNlqtf815Kf8tf3kAL+uBu8dAPlrI52lYxTLFoy1ecnhZm6hZCHDP/L+lEl7SObH8VtCfHKLRVm2aSMfjljk82A7hDoqaXEn1cwhUbdvZXNoLqcMkBVhvMwnnB2lKTKree+bhRAlLn1K71rG+qRF02YxiccmzHy/BSsXO2kLAOva3gmz+E=;s1gfm+vqekTVy0SzCjoQMA=="
+secured: "GBClp/ErCiFwTyTZMFISrzx1plamo/2G34OVacZsiJdjrHQQjHyB5LjFcnxO+d87dTozOueGUvqH0I4EbN/w4mTvQ5fT2Ht8Ll+ew3RObDGs9tosaGME8sH4AxRepqZpEEx0j9xoxPaLDTGzwsLfXgsXFySKt1FIXxdPhG8o0DOwfMxjCrXyYXHUVQqaoY7R7oOKEgQ3X5fI85BU380phATN+8Id7O4JkteJE0QqH0rn/gtE8R9xXv+WB/p1JZd5yuHxPOpGYuRR1kJ1BMElKwpf+ppAoZnAul8MxLvMs2TX4KXfaRHzwgXlpc5vV+sv0tZ1ZW5znup45SQivGooBKS3hm03r3Oyu9zGk4jFEFM=;Z18tm+SBEPJ7s1I5q4aJHA=="
 ---
 
