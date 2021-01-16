@@ -1626,6 +1626,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Terrifying scope of Capitol attack becoming clearer as Washington locks down for Biden's inauguration"
+    excerpt: "Federal authorities are piecing together a chilling picture of the January 6 insurrection that reveals major security and intelligence failures, underscores profound fissures in American society and hints at the political challenges ahead for President-elect Joe Biden,"
+    publishedDateTime: 2021-01-16T05:03:00Z
+    webUrl: "https://www.cnn.com/2021/01/16/politics/insurrection-investigation-washington-lockdown/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/insurrection-investigation-washington-lockdown/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/insurrection-investigation-washington-lockdown/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 120
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114233542-09-us-capitol-security-0114-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Why Biden is quiet about the Electoral College challenge"
     excerpt: "When Senate Republicans spent weeks refusing to acknowledge JOE BIDEN’s victory, Biden’s response was: chill out and give it time. Biden is following the same playbook now as dozens of congressional Republicans plan to challenge his Electoral College ..."
     publishedDateTime: 2021-01-05T22:48:00Z

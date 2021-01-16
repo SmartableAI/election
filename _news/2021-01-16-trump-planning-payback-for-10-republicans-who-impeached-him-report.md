@@ -76,6 +76,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "LIVE UPDATES: Trump impeachment supported by only 8% of Republicans: poll"
+    excerpt: "Follow for the latest updates on Trump's impeachment"
+    publishedDateTime: 2021-01-16T06:29:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LCust6TauXk/live-updates-trump-impeachment-1-16-2021"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/trump-on-stairs.jpgxxxx.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "GowPfXmR306/UhBw5xj7Kgy6CV3A7229Nmm2+QnljJGNhgVdPwSUpWlGj4mAE1KRgduBZ+NPudPGAsugGkIW5q/OvbpxJfa2fTZQjT5EQt3adciX6mkuzzY1oXlPi/fd6+A58glCpYxB3O/Yi0FajYZsTFOFjI8olJPhY3spCDokE4+r0Ne277JoNUZt1xsXVod6L+v/eg0T+s5fDfwc8jVqf5E5t3ndYr340iFNfxJglW+qe5qdKoO/NdZPQ/fUry/LQdSxhwoFN+K633MZg7Qi96nG8QPbsPgm7oCkRH02u9pPUWxTkpqaeBjNPGkdSxmmc2WX1AjZZuYuMVIW73qgw+axbpNu41HAQ7rdsm0=;qs8J+uBY5G9bWkjhrEiEiQ=="
 ---

@@ -412,6 +412,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Katie Couric cheers on Trump's impeachment, says GOP lawmakers need to be 'deprogrammed'"
+    excerpt: "Katie Couric appears to have gone far beyond her days as a straight news journalist and taken a sharp turn to the left."
+    publishedDateTime: 2021-01-16T07:05:00Z
+    webUrl: "https://www.foxnews.com/media/katie-couric-cheers-on-trumps-impeachment-says-gop-lawmakers-need-to-be-deprogrammed"
+    ampWebUrl: "https://www.foxnews.com/media/katie-couric-cheers-on-trumps-impeachment-says-gop-lawmakers-need-to-be-deprogrammed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/katie-couric-cheers-on-trumps-impeachment-says-gop-lawmakers-need-to-be-deprogrammed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/katie-couric-ap.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "GOP Sen. Ben Sasse says there is 'brokenness' in Trump's soul, refuses to rule out impeachment"
     excerpt: "GOP Sen. Ben Sasse said Friday he is willing to consider articles of impeachment against President Trump if they are introduced by the House of Representatives following a violent mob attack by pro-Trump supporters on the nation's Capitol earlier this week."
     publishedDateTime: 2021-01-08T16:41:00Z

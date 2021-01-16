@@ -1612,6 +1612,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Terrifying scope of Capitol attack becoming clearer as Washington locks down for Biden's inauguration"
+    excerpt: "Federal authorities are piecing together a chilling picture of the January 6 insurrection that reveals major security and intelligence failures, underscores profound fissures in American society and hints at the political challenges ahead for President-elect Joe Biden,"
+    publishedDateTime: 2021-01-16T05:03:00Z
+    webUrl: "https://www.cnn.com/2021/01/16/politics/insurrection-investigation-washington-lockdown/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/insurrection-investigation-washington-lockdown/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/insurrection-investigation-washington-lockdown/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 120
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114233542-09-us-capitol-security-0114-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's health agenda runs through Georgia"
     excerpt: "Today's Georgia Senate elections could determine the shape of President-elect Joe Biden's health policy agenda, as Democrats hope to wrest back control of the chamber. — Janet Woodcock is now the chief medical adviser to the FDA commissioner,"
     publishedDateTime: 2021-01-05T15:00:00Z
@@ -1781,6 +1797,6 @@ related:
         height: 629
         isCached: true
 
-secured: "vW/dPzQ3sK3ykjK3szhy3HSUEQ/Xm7tNZ9u0cjXx1pSC6+pLgXGBGJ1uUHiUMTwchxyycs+bbrScC/3/Y7uXFWXGAz96/3DO/o8z/7i3GBJ6F5iy+B89qiVf44Ms9PPDkRDluV7BPf6OTv8xLhfkyu4h43ODHOUwJY547RDkXNv+NoorN9O7lPfd6rD6kA0VB3qhohrnqHm8ihXSBv4V5uciQtlZ8TLOMIEt20CUq8w8+WE22zMf2kTe2OoVM4kxrkMJU+eUnw3lgLOwi7ezgbhNg22oXPo9CTC2rLw8F9FIBxcE4moZcy8HvS4cCxira7sCcmypq4lts28coy6EEr9qnwpA4lQvCloBwHtBUDg=;H6tQnATqqLS8g1Gs5g46mg=="
+secured: "nV69VM/6Wzuw1+jQCDxLELHSv2KqEI1yg5LJCfMjLc4mbU82HFofuOvO1lKNe8r8v2PSVProzoYUjDeceZKlCMpIIlrAmkFd9CSCB9vdQIY/zEEvjEcGUJqImi1HF+o9HRcCdNILsPcthLxNJJO/fTWfL+XZAwGBcESJU97caOCYvI7m6XepNXhhqGWXiHNa6IgjCJUqbPnz+oogjlITyNFGx9NSPaX3D5citovuKmtmkIERP6af0q1RYbHtiPFXDq/+Wle2qISQj8NSeSuU3N8J6amR18oURXZJtUrj5bJk2o37Cn6ZpUeG//zIy6mp5c15ruiPX/obcIrVWhRzWJXauouEh+O0leSNnWi9a3AfVMQQDw/H8OMaadiZJWUu9O0E7/tsoHBlZlbCcnd434YqZdu9FDcyH70N5XIbGXJ5u/BMgzOF28k78wAwfhbTNa7C102usoQCNbojCWkwF3RwupOci/66p6X159uus9S2c7g+KLDmBcSu5auOi0cnI4hJxOIO7pDE9ACE5BxDiA==;UDNEOvuwMDHbsDaa4hlKmg=="
 ---
 

@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "A new crop of Texas-led lawsuits awaits Joe Biden's White House"
+    excerpt: "As the Democratic president-elect enacts big plans in his first 100 days, Texas is almost certain to fight him at every step."
+    publishedDateTime: 2021-01-16T05:38:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/A-new-crop-of-Texas-led-lawsuits-awaits-Joe-15874024.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 85
 
 secured: "MHwJaZPb8VWoK+c44W09kypu+wGm6oIPqG6PCJ3Qg24qT38rAIhnfFPl0VEVnBAGgO8zd+4dwE+mYfm1EF5Ye6V6odMhxenj5NOh5ON1ZPbmbD5bHk4+BwC/CBnq+kb8gNB18YmwNZ81sjakGuGmksmFecBENtmB1cT37XNeSIzPF8g10CcTWPl0APraI5do5fedpNQr9ILl3IDcngEDj99iXWKiUS+DRP2bKPgB6wP9Evls39g8u+2yViGig+1xTstPC0I+WVGPkBv/rdWmMu7cHB7GmH/LSv6cYlRQXIf/5mzY67Ge6F0ULOZV0ALDx1OvfCgSLT2JTjovS4ycfBRrfj2WGL32KLt4ltDw8Cw=;VaODmXSFsLTO7orv84E1aw=="
 ---

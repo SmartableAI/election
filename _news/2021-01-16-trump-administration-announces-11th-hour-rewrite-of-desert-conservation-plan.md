@@ -139,9 +139,9 @@ related:
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_28fbff6b5f3a45b7adacea6a60a011a4_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Golf’s pitch to distance itself from Donald Trump came five years too late"
     excerpt: "The golf establishment’s decision to finally turn its back on the US president is hardly a profile in courage after five years of see no evil, hear no evil"

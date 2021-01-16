@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-excerpt: "WASHINGTON -- Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
-publishedDateTime: 2021-01-16T00:57:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-webUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
+publishedDateTime: 2021-01-16T06:01:00Z
+originalUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
+webUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
 type: article
 quality: 150
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -239,6 +239,38 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "History-maker Kamala Harris will wield real power as vice-president"
+    excerpt: "The first woman and first south Asian to hold the office will be key to securing Biden’s legislative agenda in a Senate split 50-50"
+    publishedDateTime: 2021-01-16T07:12:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/16/kamala-harris-vice-president-history-maker-power"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/16/kamala-harris-vice-president-history-maker-power"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/16/kamala-harris-vice-president-history-maker-power"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/ae744de53633034f52f9ed250b54ee5524457735/0_0_5508_3712/master/5508.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=964f0cbeacfcdf19df9ec81c11e2edff"
+        width: 600
+        height: 404
+        isCached: true
+  - title: "Trump administration carries out 13th and final execution"
+    excerpt: "The Trump administration early Saturday carried out its 13th federal execution since July, an unprecedented run that concluded just five days before the inauguration of President-elect Joe Biden."
+    publishedDateTime: 2021-01-16T08:19:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-15/us-carries-out-13th-and-final-execution-during-trump-administration-most-for-any-presidency-in-more-than-120-years"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-15/us-carries-out-13th-and-final-execution-during-trump-administration-most-for-any-presidency-in-more-than-120-years?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-15/us-carries-out-13th-and-final-execution-during-trump-administration-most-for-any-presidency-in-more-than-120-years?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/6295fdd/2147483647/strip/true/crop/5731x3743+0+37/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F99%2Ff8%2F9d5c3bca8c0764f9dee229b64809%2Fef30c97963e448d6b774d434aa29b835"
+        width: 320
+        height: 209
         isCached: true
   - title: "Donald Trump's Inauguration Boycott Welcomed by Republicans and Democrats"
     excerpt: "The president announced he will not attend ahead of his ban from Twitter, as a backlash grows against him over the recent events at the Capitol."
@@ -473,6 +505,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Alert: AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
+    excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance."
+    publishedDateTime: 2021-01-15T13:01:00Z
+    webUrl: "https://www.houstonchronicle.com/news/article/Alert-AP-sources-Vice-President-Mike-Pence-15874255.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Alert-AP-sources-Vice-President-Mike-Pence-15874255.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Alert-AP-sources-Vice-President-Mike-Pence-15874255.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 104
   - title: "Trump plans to depart Washington the morning of Inauguration Day: source"
     excerpt: "President Donald Trump now plans to leave Washington on the morning of Inauguration Day next Wednesday after considering a departure on Tuesday, a source familiar with the matter said on Friday."
     publishedDateTime: 2021-01-15T22:10:00Z
@@ -561,21 +604,21 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Mike Pence Calls Kamala Harris to Offer Congratulations"
-    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
-    publishedDateTime: 2021-01-15T19:34:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/mike-pence-calls-kamala-harris-to-offer-congratulations/2833768/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/mike-pence-calls-kamala-harris-to-offer-congratulations/2833768/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/mike-pence-calls-kamala-harris-to-offer-congratulations/2833768/?amp"
+  - title: "Mike Pence calls Kamala Harris to offer congratulations"
+    excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-16T06:05:00Z
+    webUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations"
+    ampWebUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations/amp"
+    cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations/amp"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
+      name: The Oklahoman
+      domain: oklahoman.com
     quality: 100
     images:
-      - url: "https://media.nbcnewyork.com/2021/01/split-jan15.jpg?fit=1200%2C675"
-        width: 1200
-        height: 675
+      - url: "https://cdn2.newsok.biz/cache/1280x720_blur-95d4cd09934c1de7935d5144c353acbf.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Thousands of National Guard members deployed in Washington ahead of Biden inauguration"
     excerpt: "Thousands of National Guard's were deployed to Washington on January 12, ahead of the inauguration of Joe Biden in the wake of the Capitol riots."
@@ -898,6 +941,24 @@ related:
       name: San Francisco Chronicle
       domain: sfchronicle.com
     quality: 54
+  - title: "Joe Biden, Kamala Harris drop inauguration playlist with songs from Beyoncé, Dua Lipa, more"
+    excerpt: "Joe Biden and Kamala Harris have released a 46-song playlist in honor of their upcoming administration. Here are the songs that made the cut."
+    publishedDateTime: 2021-01-16T05:24:00Z
+    webUrl: "https://www.azcentral.com/story/entertainment/music/2021/01/15/joe-biden-kamala-harris-drop-46-song-inauguration-playlist/4180658001/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 40
+  - title: "Trump's Presidency Not Just a Blip in US Foreign Policy"
+    excerpt: "President-elect Joe Biden’s plan to scrap President Donald Trump’s vision of “America First” in favor of “diplomacy first” will depend on whether he’s able to regain the trust of allies and convince them that Trumpism is just a blip in the annals of U."
+    publishedDateTime: 2021-01-16T06:17:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-01-16/trumps-presidency-not-just-a-blip-in-us-foreign-policy"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
   - title: "400 members of Washington state National Guard called to D.C. to boost security during President-elect Joe Biden’s inauguration"
     excerpt: "In the wake of the insurgence at the U.S. Capitol during certification of the Electoral College votes last week and threats of further violence, nearly 400 Washington National Guard soldiers and airmen are being sent to D."
     publishedDateTime: 2021-01-15T15:05:00Z
@@ -910,6 +971,6 @@ related:
       domain: seattletimes.com
     quality: 27
 
-secured: "0I7MyvmAbjlqEVf4O/0/PhpptCTtv6Mn9tlfm9dDSJGK93lsb3Y1ewteIR7UjKMX1eRv9Km+akOYRAKyXCqKgvNfFXwKMSEVF8v4zFukD+QxBSmAPA5M51Zj4KnMOMPPbmrKtoO1V/HkXTvt0c+tf/Nfh68jv2v4eTiFjTjTgkN4Lp3acX1DtjkC7IAhdLOl/3VSQ5euHxI+uSivvfzwrcrKCJPEhTY2lSTr20mqM358GTyYlopvb/TxYkZwz67jmwgGLYXQYEnllC1bUqV2m0n9BsIYFUluoKwv9G1hyRBkmCXvF2bQYBA7VA5nO44fQm/xnjb3B2ggqIoBu3C6mxPCPID6UEHWhQwjyZBmsFU=;atXzHioyiUkKGPtgizqHBg=="
+secured: "gXYcHxhVOE/uadGFoyfanmRqt0VBi/w2EtX1C7AllEtixkXU5G0IHlNBexzTgXf8fsp3d49Q5jmLmvfxJAtcRWEtn3HEUnLTA5SaHSGMB4LdEMHke6W/JokRvdLwQBynMRRBUTJqCVPIjwxkCee7HWpACpqg5j/wg3nz8eDarMKBhOX9FwVBhYrKuPulOUCK4Q2geQOKogJW63bBKIG2U4lAjHY5fnSS8hlllWQl4yjbbTKZYpPXtgQmD+jdL7geXehZ7lpj+jX7x/SX3GN1/tOU4ZyxFNclEPL45fu2+LABdcOfM1iHUOOIcyRla3xzObGt1++IX0dVTHg/TT7upk/kT0T3drdJ7bwoQ/bGTcQ=;mjp/b5FkaRlSFYDYLrdeTw=="
 ---
 

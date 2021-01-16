@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-p
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958?amp=1"
 type: article
 quality: 112
-heat: 152
+heat: 172
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "A new crop of Texas-led lawsuits awaits Joe Biden's White House"
+    excerpt: "As the Democratic president-elect enacts big plans in his first 100 days, Texas is almost certain to fight him at every step."
+    publishedDateTime: 2021-01-16T05:38:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/A-new-crop-of-Texas-led-lawsuits-awaits-Joe-15874024.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 85
 
 secured: "p1Rue20FKf6qJB2llC3Bxb72Sg8HFi/z6SmmV5S7R/nWzd+JKi9hjvrmRIJKriq390UxRhHpVKRzOLSH748/HBAuT3l4MRVsMFgbZZH7UdKA+HHsUu/BTFIzMrK/vmqWIU58i566a4dz6NpW4usgUAqOiexT89y29ZZSXM21LIINjrTmiOvl2ifsqS/L9lvzY4ZBFdE2Y5q3AfvYWtUmO8N4SWOT8CyU4l6LXaIEor/r5/imNNyxtxy2dDMVVPGX1hN4TbzZZLpayw2ObFMhrgczNWxRbpEfi0yZRC79K0AlxX2IgAP9yZcu34cd2xHMLoO9VgQRJ3vkzO36BHKTnIgtGk7Qh7WmVapiVN/3uRFXvRD+HboUCMncqEqagoyI6I9oRBNyRBGct0YpYwL+CtUt4HJ4ZLNgF3l9MUTHXWuRO9GNpnG1k4hMeTccr6Zld8zymDcv1hTLtZhGm3dAKXIm3zrzWOvNYr8m9KN9it7vDDV8efHkD3S2BFI0/T8pchvKVt6VUa0vIJp/hYbS/w==;ibXDvuoHuACamRCW9PM4VQ=="
 ---

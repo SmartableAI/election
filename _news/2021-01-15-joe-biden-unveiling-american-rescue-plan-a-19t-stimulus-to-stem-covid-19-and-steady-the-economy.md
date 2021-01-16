@@ -73,6 +73,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Wealth inequality critic and heiress Abigail Disney on Biden's $1.9 trillion rescue package: 'This stimulus is a moral imperative'"
+    excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. President-elect Joe Biden announced a $1.9 trillion COVID-19 stimulus plan on Thursday that includes $1,400 checks, an eviction moratorium through ..."
+    publishedDateTime: 2021-01-16T06:48:00Z
+    webUrl: "https://www.businessinsider.com/abigail-disney-on-bidens-19-trillion-stimulus-a-moral-imperative-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
 
 secured: "WsgzpX2esiEhFCT29QPue2V2AmHL4mIzmHCZFkvs3O/m/9s0pWsxVo0tlbkGHXuXrjKQAwspjzxJqbitOYc0jE21jktVYNBA+Hq84rn2oNpTidTRGDV5aJ9vSYx8XpplZz3XQwVzdk38RRoK+U/a9lshQnivA6y+U9+VPJxLtOMpCnSLeYfy92iLJKN1YyvDhSwtAygmbOpJ3kjnBjJE2Dc08ydMhRlNCIorbgap7FzaCwoQ5dOAIe1EAeB0WD3bNeuX9HlUBv1yVYF42H13o7FjrJkgLKU9Lolf1xbU8uUI/qutO94UqpdrSfwSxPdeek+IfZy32IKSCFdPduaSfGwsj2rONj9SJoMmMHBgNO0zGJ34vLlEb/ZkSP+UYUOJiaXaEyfmvI+SxnOvbT0n3ZP/UVzn/cq/A9GvqvHbWlEdpqVOGUAAioqp4kSpSnfkvL7hk1JHaIW5lvLdY1cgdWa+WcOyR3z8w+PaJvRL6zkzB5WBFKGNjJXRoD+3oCKeKI4VTY1IeIE47NExq3AKYA==;+F8KTSMu2rVTMuFV5wOFoQ=="
 ---

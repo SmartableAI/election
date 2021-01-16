@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Biden inauguration plans prompt closing of National Mall"
+    excerpt: "Follow for the latest updates on Biden's inauguration and the fallout from the Capitol riot. "
+    publishedDateTime: 2021-01-16T06:18:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kSSsjRsXtCo/live-updates-biden-inauguration-1-16-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-16-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inauguration-1-16-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d30a00f7-29be-46f5-a285-0cb62decae44/5efe6061-f58a-47ab-9806-a8dd67a06224/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Former DHS Secretary Wolf: 'Every trust and confidence' Biden inauguration will be secured"
     excerpt: "Former Acting Homeland Secretary Chad Wolf praised the security measures around President-elect Joe Biden's inauguration next week in the wake of last week's deadly Capitol riots."
     publishedDateTime: 2021-01-14T16:41:33Z

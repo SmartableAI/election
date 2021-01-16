@@ -1626,6 +1626,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Terrifying scope of Capitol attack becoming clearer as Washington locks down for Biden's inauguration"
+    excerpt: "Federal authorities are piecing together a chilling picture of the January 6 insurrection that reveals major security and intelligence failures, underscores profound fissures in American society and hints at the political challenges ahead for President-elect Joe Biden,"
+    publishedDateTime: 2021-01-16T05:03:00Z
+    webUrl: "https://www.cnn.com/2021/01/16/politics/insurrection-investigation-washington-lockdown/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/insurrection-investigation-washington-lockdown/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/insurrection-investigation-washington-lockdown/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 120
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114233542-09-us-capitol-security-0114-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's health agenda runs through Georgia"
     excerpt: "Today's Georgia Senate elections could determine the shape of President-elect Joe Biden's health policy agenda, as Democrats hope to wrest back control of the chamber. — Janet Woodcock is now the chief medical adviser to the FDA commissioner,"
     publishedDateTime: 2021-01-05T15:00:00Z

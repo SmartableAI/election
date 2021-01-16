@@ -416,6 +416,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Katie Couric cheers on Trump's impeachment, says GOP lawmakers need to be 'deprogrammed'"
+    excerpt: "Katie Couric appears to have gone far beyond her days as a straight news journalist and taken a sharp turn to the left."
+    publishedDateTime: 2021-01-16T07:05:00Z
+    webUrl: "https://www.foxnews.com/media/katie-couric-cheers-on-trumps-impeachment-says-gop-lawmakers-need-to-be-deprogrammed"
+    ampWebUrl: "https://www.foxnews.com/media/katie-couric-cheers-on-trumps-impeachment-says-gop-lawmakers-need-to-be-deprogrammed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/katie-couric-cheers-on-trumps-impeachment-says-gop-lawmakers-need-to-be-deprogrammed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/katie-couric-ap.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Why some Republicans defected as House Democrats impeached Trump"
     excerpt: "In the 232-197 vote, 10 Republicans joined every Democrat in backing impeachment. That’s a small fraction, though probably double what it would have been without Liz Cheney’s defection"
     publishedDateTime: 2021-01-14T08:14:00Z

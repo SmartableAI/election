@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/only-8-percent-republicans-support-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/only-8-percent-republicans-support-trump-impeachment-poll.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "LIVE UPDATES: Trump impeachment supported by only 8% of Republicans: poll"
+    excerpt: "Follow for the latest updates on Trump's impeachment"
+    publishedDateTime: 2021-01-16T06:29:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LCust6TauXk/live-updates-trump-impeachment-1-16-2021"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/trump-on-stairs.jpgxxxx.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump planning payback for 10 Republicans who impeached him: report"
     excerpt: "President Trump plans political punishment for the 10 House Republicans who voted to impeach him for last week’s Capitol riot, according to a new report."

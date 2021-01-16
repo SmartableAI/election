@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden says he feels safe ahead of inauguration"
-excerpt: "Top News Biden says he feels safe ahead of inauguration. Posted . U.S. President-elect Joe Biden said on Friday that he feels safe, after a reporter asked him if he felt comfortab"
+excerpt: "World Biden says he feels safe ahead of inauguration. Posted . U.S. President-elect Joe Biden said on Friday that he feels safe, after a reporter asked him if he felt comfortable"
 publishedDateTime: 2021-01-16T01:56:00Z
-originalUrl: "https://www.reuters.com/video/watch/idOVDVBMOKF"
-webUrl: "https://www.reuters.com/video/watch/idOVDVBMOKF"
+originalUrl: "https://www.reuters.com/video/watch/biden-says-he-feels-safe-ahead-of-inaugu-id724332851?chan=8gwsyvzx"
+webUrl: "https://www.reuters.com/video/watch/biden-says-he-feels-safe-ahead-of-inaugu-id724332851?chan=8gwsyvzx"
 type: article
 quality: 105
 heat: -1
@@ -42,6 +42,22 @@ related:
     quality: 140
     images:
       - url: "https://i.guim.co.uk/img/media/839df3d21e6274cce2021d3fdf7cb39a393fb6e7/0_323_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dccc95fc4955e3136877727f1ed87114"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Donald Trump isolated and enraged ahead of Biden inauguration"
+    excerpt: "A slew of aides have deserted the president and the Pentagon has decided not to hold an armed forces farewell tribute"
+    publishedDateTime: 2021-01-16T07:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/16/donald-trump-biden-inauguration-isolated-enraged"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/16/donald-trump-biden-inauguration-isolated-enraged"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/16/donald-trump-biden-inauguration-isolated-enraged"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/4562affcc87f763439da1fd7d3fc91f356b536f5/0_38_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e75078fad8e464cbc9499016b6c3ec8b"
         width: 600
         height: 360
         isCached: true
@@ -1847,6 +1863,33 @@ related:
       name: Time
       domain: time.com
     quality: 85
+  - title: "INAUGURATION EXPLAINER: Biden's event will be very different"
+    excerpt: "Between the still-raging pandemic and suddenly very real threat of violence from supporters of outgoing President Donald Trump, Jan. 20 promises to be one of the most unusual presidential inauguration"
+    publishedDateTime: 2021-01-16T06:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/inauguration-explainer-bidens-event-75291601"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 85
+  - title: "Michael Cohen writes foreword for Trump impeachment book"
+    excerpt: "NEW YORK (AP) — A bound edition of materials about President Donald Trump’s second impeachment will feature a foreword from an estranged associate — former Trump attorney Michael Cohen. Skyhorse Publishing announced that “The Second Impeachment ..."
+    publishedDateTime: 2021-01-16T06:46:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/books/2021/01/15/trump-impeachment-book-michael-cohen-writes-foreword/4175351001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 85
+  - title: "U.S. imposes fresh sanctions on Iran in final days of Trump presidency"
+    excerpt: "The United States on Friday imposed sanctions on companies in Iran, China and the United Arab Emirates for doing business with the Islamic Republic of Iran Shipping Lines and on three Iranian entities over conventional arms proliferation."
+    publishedDateTime: 2021-01-16T06:56:00Z
+    webUrl: "https://www.reuters.com/article/us-iran-usa-sanctions/us-plans-fresh-iran-sanctions-related-to-metals-conventional-arms-idUSKBN29K1M0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 85
   - title: "Tom Hanks Hosted Inauguration Special Sees Comparison of Joe Biden, Donald Trump Supporters"
     excerpt: "An inauguration special for Joe Biden has drawn comparisons to the kind of celebrities who are showing support for him over Donald Trump."
     publishedDateTime: 2021-01-14T17:50:00Z
@@ -1863,6 +1906,15 @@ related:
         width: 1024
         height: 693
         isCached: true
+  - title: "Trump impeachment: after term is over, is there precedent? You asked, we answered."
+    excerpt: "Trump impeachment: is impeachment after term is over a possibility? What's the precedent? Your impeachment questions, answered on States of America."
+    publishedDateTime: 2021-01-16T06:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/statesofamerica/2021/01/15/trump-impeachment-after-term-over-precedent/4179295001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 79
   - title: "Twitter warns of more DC violence around January 20th as President-elect Biden expresses confidence his inauguration will be safe"
     excerpt: "President-elect Joe Biden says he's confident about Inauguration Day security as warnings mount of more DC violence in the days before January 20th."
     publishedDateTime: 2021-01-09T16:56:00Z
@@ -2396,6 +2448,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "4d+PIroEYeHOfNNWNu0VYFbvbf3kE0kXvf0JMaJvzSJtGmBPJnPEkzscM9rJ59S3ud35DpDPo3YuLnja2b5n3c7iIzwlWr90A9Tn23iZxptwOTYK9kfCqIPhPw5TSbElJeIafjGi6D5idi0VTlD2jsQMX0K1NE4T8FHjGVwNfAff8bm2aogN8InogYN1v0R1EbK9HknJc8zJ7Fnyb3VmHeFc7CB8PjalWHCLmGSg8SHb7cwISOIe5nXQFneOdEq5SBc62jwBOXfvrB4uHV10GHdQIjMsLDFfocOxjXfFzQeq3tlVvpUH5cnhYZkgyjhWEAqsBIXUePLz/F7GFKWtXLtDnyBlkHH2dJHwY3U+fkY=;LI2iL9y3nvGlzdIx3JfdtQ=="
+secured: "dzadDIdGxZ9GjW6zCDRlt1HJCOifKSqZgRtC6ta2ys/4e9wR3aRtKlti1fyJi3/KtEyAmLfOexpFjLNMoAlxda29KQUVH/Idr7rfWeyBRkHZZE7ztPFvvJUyXYW88rO6SW9ShPv+xHMUfxo0e8kC+Z8rRkXN0IeX6PhLHXUwdYXgncBx8WIEh62QFKic4GwG1S3EqyJsAcLhrmPRYxJLUJ1LIGvlxmcEIUYJD7L7+0xxtkV4Y0E8zBswAuOvAz2qJYR81+LDFBzRvff5GE8FhXim3eTamSE9i9hCb3+xLPXrw5j9RT6+dvCigxLCbGImM61HhO8MBOd3+H80MuVRotGbDN7YWmzQk+Wdr6AZYkA=;QBZd+gk6vm7/KKVrVJVflg=="
 ---
 

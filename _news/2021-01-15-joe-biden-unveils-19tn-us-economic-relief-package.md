@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55670801"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55670801"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Wealth inequality critic and heiress Abigail Disney on Biden's $1.9 trillion rescue package: 'This stimulus is a moral imperative'"
+    excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. President-elect Joe Biden announced a $1.9 trillion COVID-19 stimulus plan on Thursday that includes $1,400 checks, an eviction moratorium through ..."
+    publishedDateTime: 2021-01-16T06:48:00Z
+    webUrl: "https://www.businessinsider.com/abigail-disney-on-bidens-19-trillion-stimulus-a-moral-imperative-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
 
 secured: "wZebufUIlzr4C/Qrh4hrce0tRNhHIrsEwqvJ2YkjXkRNc17l8IT21+PJ9W1zEURczHeYnCu1Ujeq0IxV4eu2nPQYBBSEcQBg/itmun4Om2OOxKtFUzquf5zRa3eB/CfG1kTTu0JpnP0enq9aCn/kyT8hGv2rr06GODPQhLJ8kBAqwsI+CIQMZoFnsEnjzHeVMVPeMKUnWA/K+Lx1UYdT0h3Yxk2gU3Soxu9ujmwSJPSP4fiCfLGW8cswSqufvJ3JOPkqkDixHNlpXu+rcjsykw1k4Odaydybt0BEFDvim4PxDHoLqR1lki7C4eXkpdjvLVTaVzR2OxDAhhrmAADfQlXeqXsTlBzqsbPlYvQyudW7ytWkZ5wEU/AyRl/XK9VH+mQmxYHOHxiqyvdPm85IeQwc2CG8FMqZgcMq8qpRcCWL0LtCQiRgJSUVnL6r9ihyAshyGfp9ivHfzOwSNnRy/9CPT/TgBZuTcPP+33wSAIAXUb4PLKIuwfXDF3O4QtrvueskdcQ28L/Cm1m1BB754w==;BF0WwF6C1jb2vj1Ck0IQng=="
 ---

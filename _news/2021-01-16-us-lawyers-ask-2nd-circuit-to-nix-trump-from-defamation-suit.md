@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://s.abcnews.com/images/Entertainment/WireAP_28fbff6b5f3a45b7adacea6a60a011a4_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -232,6 +232,6 @@ related:
         height: 683
         isCached: true
 
-secured: "7tIZoJ48RHBGeXZTr4J2wJbIWdawFC3EeR6QctEeRwBOa1pVkx+UhV1tz3vAxvNvHFJ7h/vAyWTKRsKJUGOrKITGSPbrATjuzfn8UOQ58ADyS7ugN4rRjdygV/Ki0S4d5YeL5oD2l59f9g7OfP56uvqU1H/x1tEA5Lv8lkG8eGZ4Jd8new2QTwes/XhJ48jY3CnGjjBo+E8rLYZLrNzSbNubMps5wGxtCsGD9q36FhcqrhwsMqwXtDK9+qFDi5oQ3U7HlPJS24ubpF4X0ZClHy/a2PMMzbzDB9OOTH9qeCEb83l/UwVEetIKTqcc1SAOpsJOaMXD0QQwK/pqMMGGP8f4q/dGhPq9rRgvYrpYKzU=;Yvlu+3Owvdwu33qSweEcXg=="
+secured: "y4qXOSCWxXJcoi3fuxT1hByiy+fPNjpU4AO9frpAhCZyPIFIY3xTM39P/8ANfSnLZkOwbL0rzQY/IabgJXYGWUodwVEUoBMVHL3mZH2yhcB2rWihpqju9oSKAfiOiz1JWz05dJNgXiXVZ9zk2ss85yjr/mmu0AAnNGwjwQG4Ga2UZX8Wd99BYELb6tMg53FlqAL6wJRBppH0+jEgMXX9KcA8cckwOTJV1OwgjA3UM0gU8fh534MmYZl8iRlAEyROE+/54ANZGwqleteaGlTqZztyBVEpr9sssEMvcRbl/xrRu8+ioBNG3zcEHVENEDksxLJJE0byu4Mpeh9lr+wZx525jRwkd/r15ON6BB4CD+k=;/5u/rtK1gsGw9SplLJBgtQ=="
 ---
 

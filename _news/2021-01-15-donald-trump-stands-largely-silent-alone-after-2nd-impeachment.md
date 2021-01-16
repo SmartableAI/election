@@ -43,6 +43,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Donald Trump isolated and enraged ahead of Biden inauguration"
+    excerpt: "A slew of aides have deserted the president and the Pentagon has decided not to hold an armed forces farewell tribute"
+    publishedDateTime: 2021-01-16T07:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/16/donald-trump-biden-inauguration-isolated-enraged"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/16/donald-trump-biden-inauguration-isolated-enraged"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/16/donald-trump-biden-inauguration-isolated-enraged"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/4562affcc87f763439da1fd7d3fc91f356b536f5/0_38_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e75078fad8e464cbc9499016b6c3ec8b"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden unveils $1.9 trillion economic relief as Trump's Senate trial looms"
     excerpt: "Majority Leader Mitch McConnell said the Senate would not reconvene before January 19, the day before Mr. Trump leaves office."
     publishedDateTime: 2021-01-15T14:26:00Z
@@ -1664,9 +1680,9 @@ related:
         height: 626
         isCached: true
   - title: "Biden says he feels safe ahead of inauguration"
-    excerpt: "Top News Biden says he feels safe ahead of inauguration. Posted . U.S. President-elect Joe Biden said on Friday that he feels safe, after a reporter asked him if he felt comfortab"
+    excerpt: "World Biden says he feels safe ahead of inauguration. Posted . U.S. President-elect Joe Biden said on Friday that he feels safe, after a reporter asked him if he felt comfortable"
     publishedDateTime: 2021-01-16T01:56:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVDVBMOKF"
+    webUrl: "https://www.reuters.com/video/watch/biden-says-he-feels-safe-ahead-of-inaugu-id724332851?chan=8gwsyvzx"
     type: article
     provider:
       name: Reuters
@@ -1859,6 +1875,33 @@ related:
       name: Time
       domain: time.com
     quality: 85
+  - title: "INAUGURATION EXPLAINER: Biden's event will be very different"
+    excerpt: "Between the still-raging pandemic and suddenly very real threat of violence from supporters of outgoing President Donald Trump, Jan. 20 promises to be one of the most unusual presidential inauguration"
+    publishedDateTime: 2021-01-16T06:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/inauguration-explainer-bidens-event-75291601"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 85
+  - title: "Michael Cohen writes foreword for Trump impeachment book"
+    excerpt: "NEW YORK (AP) — A bound edition of materials about President Donald Trump’s second impeachment will feature a foreword from an estranged associate — former Trump attorney Michael Cohen. Skyhorse Publishing announced that “The Second Impeachment ..."
+    publishedDateTime: 2021-01-16T06:46:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/books/2021/01/15/trump-impeachment-book-michael-cohen-writes-foreword/4175351001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 85
+  - title: "U.S. imposes fresh sanctions on Iran in final days of Trump presidency"
+    excerpt: "The United States on Friday imposed sanctions on companies in Iran, China and the United Arab Emirates for doing business with the Islamic Republic of Iran Shipping Lines and on three Iranian entities over conventional arms proliferation."
+    publishedDateTime: 2021-01-16T06:56:00Z
+    webUrl: "https://www.reuters.com/article/us-iran-usa-sanctions/us-plans-fresh-iran-sanctions-related-to-metals-conventional-arms-idUSKBN29K1M0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 85
   - title: "Tom Hanks Hosted Inauguration Special Sees Comparison of Joe Biden, Donald Trump Supporters"
     excerpt: "An inauguration special for Joe Biden has drawn comparisons to the kind of celebrities who are showing support for him over Donald Trump."
     publishedDateTime: 2021-01-14T17:50:00Z
@@ -1875,6 +1918,15 @@ related:
         width: 1024
         height: 693
         isCached: true
+  - title: "Trump impeachment: after term is over, is there precedent? You asked, we answered."
+    excerpt: "Trump impeachment: is impeachment after term is over a possibility? What's the precedent? Your impeachment questions, answered on States of America."
+    publishedDateTime: 2021-01-16T06:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/statesofamerica/2021/01/15/trump-impeachment-after-term-over-precedent/4179295001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 79
   - title: "Twitter warns of more DC violence around January 20th as President-elect Biden expresses confidence his inauguration will be safe"
     excerpt: "President-elect Joe Biden says he's confident about Inauguration Day security as warnings mount of more DC violence in the days before January 20th."
     publishedDateTime: 2021-01-09T16:56:00Z

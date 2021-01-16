@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/video/biden-pledges-to-vaccinate-100-milli
 webUrl: "https://www.cbsnews.com/video/biden-pledges-to-vaccinate-100-million-americans-in-his-first-100-days-in-office/"
 type: article
 quality: 100
-heat: 100
+heat: 120
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     height: 630
     isCached: true
 
-secured: "olj7EGSuvgdhJvKlWsiFL7H6LZExvVgY+SMT1OyTuqZrNDC2HGNBK3WZSt0R857iCwkliZteb1rq2Axb8fIBn1fzAIvhhxPwEN7uU4HPUQRfPOdUP/zwnfgHqk32U6k2wFW1HuNfLPWXW9whUxMnoW1a7/jnTPIWdrkoHb/eEimAZKyCTAaoAajYVvJbtfjiSuQ9hZy/ORNlIiqsZg3il/fHxCREcu9EAbwhcRWEJOJYZVSFcqOFK+2fNSfIFDkuiSJ6I9uWerFE8Uznjy9HYWvXQAMtg78ILge3OetnR0Wby7JT4KERpmbCjdA9hdSQDBmmoj/VzfoPPudHKLKRPXRPrKB2HxRCPlHXv7pPWRw=;Nm/lNYBBnVC6TUJAdCUK9g=="
+related:
+  - title: "Biden will encourage vaccination of all people over 65, frontline workers"
+    excerpt: "The incoming administration of Democratic President-elect Joe Biden will seek to vaccinate all people over 65 and frontline workers, as Biden seeks to administer 100 million COVID-19 vaccines during his first 100 days in office."
+    publishedDateTime: 2021-01-16T01:59:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-vaccines/biden-will-encourage-vaccination-of-all-people-over-65-frontline-workers-idUSW1N2J900V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+
+secured: "UByT77namD3f8M1MZ2J4SbBIFNCXXmSkX/TPxBdXGxjZlLP9Sv9n9Sv6Izv7iMP6gm5mreqJ4p7dEJcEY6+7+XIwsPfG2QH2AGvHwM25NNNlZ/Xa1RJ5rnvFkn5cJyYBV+GRwST6ZYaRy1fQTuGD2DapWlN/X3fYC2K5Rfsqg1SHCnZrYsV3H5sbGVwwLl6sQBjSWYv6NRh+RCsDtb6UJiVyORf/1zry5+gFPrWJY1tG/ogWpq7VkSfUGl/+3UZ/S/PxPlCREGbdW0Wwgbq9oE3CWpjSzJQEgaedCqM042ypl3JBZeKs77Ho0NRcMMytfRL5OM9peUD8oNLCgNlE6UH6ZZVqwxP7geqJx8zNkGc=;ko5LcC9FcSRDU2WXMyvkMQ=="
 ---
 
