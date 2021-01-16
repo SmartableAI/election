@@ -1688,14 +1688,14 @@ related:
   - title: "Biden nominates veteran diplomats for top State posts"
     excerpt: "Democratic President-elect Joe Biden on Saturday nominated U.S. foreign policy veteran Wendy Sherman, a key negotiator of the 2015 nuclear deal with Iran, to be the No. 2 official at the State Department."
     publishedDateTime: 2021-01-16T14:27:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-diplomats/biden-nominates-veteran-diplomats-for-top-state-posts-idUSKBN29L0I0"
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN29L0I0"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548039928&r=LYNXMPEH0F0D0&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548043131&r=LYNXMPEH0F0D0&w=800"
         width: 800
         height: 609
         isCached: true
@@ -2508,6 +2508,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "SJgES83r++mJO4gV6H3NZf0xlBT3eeUFkSQWy1pByvPsSTQewOcUDxuSrck9xTVV15G24YL2I8w4ZKuunLhQYu89mUsv7FhdAL8k7j4MAlqqVntwx/UlO9pPsNfjWOp2QKbQQapp7625ttkB3cXz9bg2L0A2a6FjMYu5Zs6UfUvgED2AuEmKXR0Phf7qw1q5cqwLjPJbPhKltCn4ds9+sS/kCdYlou/6HHBLTcpM7SQh/qUfPwBn/qmn30RQ2EicUnKCGOe1ap7VhDLDH4UYrl6/STAb9Y/Wws5SSmRd6t9hwLHX+m4tf5Qb70VavnhWlCHsxlDwLKstTMfIdEkBm7blqclLjXMEBQcKYV9y60g=;MBaq84DhPOR4SymbBhaQjA=="
+secured: "NzkFTDbiBLxRAaiZh6RtfJqVRsi7eptZl9n3KXuoxwYfG0PGLFHb6K5gQTB9pxGHcxob5uNrpvZ7A+j8n1ocqizRiLqSTMG8lW3z+kVMjR3Y94RCxIni/B3EBbRWPzKnNDJ5w3WC5dKh6TpMHkd3lLYJQXj/LpxPZTpZGpjizIaMIggm/ib15UQp3pU/8BUO6GUbyS5Tn6dl5qT5Hwvy3KWp69tLXXiyzX1x9b5Jz35HyVKIqyfoNuF+/dh5VPauCB8JzNrntWgMis+qrbAktvJW8FDBDwX1blfGrD291SsagNH55Swvy7JWFrs23/MYBXfc2CHbtcRtSRUY8SWWRsJ27V0QECv+e1n7M2bjvA5hvwIxdlEzMPzKBpgK65+KkHj11jKcMna9+f/xg1ltBlN30SnRfvDf5yPVs/NL6qmQlQ6kgRoBY+oysAW3o3dAimTMq6DYRkOY02kWIcDEhEqOO3wnJCvgMjdyil77KLRx/hR+PRJzcyUFkv1EphgOkgogbOvTytbfuflSj7FYaA==;vqF28vJS3QBuG2hmeR8m9g=="
 ---
 

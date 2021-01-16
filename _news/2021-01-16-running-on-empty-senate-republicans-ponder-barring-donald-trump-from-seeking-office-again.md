@@ -52,7 +52,21 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Explainer: Can Trump pardon himself? Would the courts reject the move?"
+    excerpt: "As he prepares to end a tumultuous four years as U.S. president facing potential legal jeopardy, Donald Trump has discussed the possibility of pardoning himself, according to a source familiar with the matter."
+    publishedDateTime: 2021-01-16T16:52:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-pardon-explainer/explainer-can-trump-pardon-himself-would-the-courts-reject-the-move-idUSKBN29L0D4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548031071&r=LYNXMPEH0F0AD&w=800"
+        width: 800
+        height: 527
+        isCached: true
 
-secured: "Ei9/KnsbH9hDQ4cRUD5h4Xmu5WK9Zsc/F1/12xyvrpAPxQCFmCssokqKJMgXt06y67BIlvtneWWJ68VVdcWaORtR51VpzlgCo9Kdjc0p3UjVAV+jaR8CDd4zKQA3z2O7RJQ4685mLlEDeTM5Ddcj3cbS54pH0gvL+r5AWPQC2fpSAsgjkOuDSejwL1Sjq3yHs+9Ln+bEKI+Kq6FEWZR3lLuo2eNTh9mBOzSBRry/JF5O34j2z8Ts3J2tEkfPwrIKEjOnNXzTC0dCIjPsHY+azfRBEwiYVtaJZPaP0rs3cHAUA71Kjre0N3gHe5HJ1T5vOVA6qI9mL8W5CpUHa2Nft9Aiv/jTh5oKg9NKpE420Sg=;a7/Ul8OtL5ZYKk3Nwuh4mg=="
+secured: "rrp8GW/NUetrrvfMS8P4x0bEaxKFRsiA0g1b7PYX+Kh3iKOzjoJKHhPOO7iBiQfRGeujyE9Sv/a56KS8nmKF7fgKkZCpU4iTs/lPqxOuYB8agtKjrs3Kzn2aRcp3Qj3kTLX0SFcxKKtQ6el6XY7b3xtdeQefYbLnLMB/z6EgU8hU9YRb/lJfZOghggMfqUA1j7+Cg4CCgun4CMOdZCUzTZCdyf4+odWkU0zc2SIIly1Lmmu97aDxBhAaPOE0u0FOuTyJvOMqIZV/F1LPUhBV2XqNXflprdOkZ45Z3pv0/nS8nxo/NXCet7/CipMOsk7mxNZPogfEK65g4WpCsJOB72A3LOumFZndCiON+f0Tu2sbgPZ1z1Jqhuqxf9EGlicUOxXDjpQJugodfJoW3Xv4NXkvpSAEAoFsN7yLznt8eLA6BgIz29k/HBRoL2aBvdREValtS9PFzNptg3zZsILsHAFecKGyT5Yc/sEOyWIhnQXMt2g9IY1/Q6fSVkl2Fk4ggUHhqKmGiXIv8/r0z4MThw==;8iW6wk5g5wTEL3AHu0D3Hw=="
 ---
 

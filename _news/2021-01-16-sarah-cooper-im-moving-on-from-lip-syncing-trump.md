@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/sarah-cooper-im-moving-on-from-lip-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Explainer: Can Trump pardon himself? Would the courts reject the move?"
+    excerpt: "As he prepares to end a tumultuous four years as U.S. president facing potential legal jeopardy, Donald Trump has discussed the possibility of pardoning himself, according to a source familiar with the matter."
+    publishedDateTime: 2021-01-16T16:52:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-pardon-explainer/explainer-can-trump-pardon-himself-would-the-courts-reject-the-move-idUSKBN29L0D4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548031071&r=LYNXMPEH0F0AD&w=800"
+        width: 800
+        height: 527
+        isCached: true
   - title: "Running on empty: Senate Republicans ponder barring Donald Trump from seeking office again"
     excerpt: "WASHINGTON – An impeachment trial of Donald Trump isn't about removing him from the presidency – his term ends Wednesday, either way. It's about preventing him from seeking the presidency again in 2024. Several senators, including Republicans ..."
     publishedDateTime: 2021-01-16T14:35:00Z

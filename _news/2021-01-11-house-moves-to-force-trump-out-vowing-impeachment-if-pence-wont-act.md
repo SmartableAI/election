@@ -334,6 +334,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden and Harris will introduce members of their White House science team this afternoon."
+    excerpt: "Biden Jr. announced more nominations for his State Department on Saturday morning and plans to introduce new White House science team officials in Wilmington, Del., in the afternoon. The Biden-Harris transition team announced several nominations,"
+    publishedDateTime: 2021-01-16T10:28:00Z
+    webUrl: "https://www.nytimes.com/2021/01/16/us/politics/biden-harris-science-team.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/16/us/politics/biden-harris-science-team.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/16/us/politics/biden-harris-science-team.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 151
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/16/us/16transition-briefing-biden-saturday/16transition-briefing-biden-saturday-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Jimmy Fallon: Mike Pence Just Can’t Win With Trump Fans"
     excerpt: "Have MAGA Nation Hate You’ The House on Tuesday formally called on Vice President Mike Pence to remove President Trump from office using the 25th Amendment, an idea Pence had already rejected. Though Pence did not yield to pressure from Trump to overturn the election results last week,"
     publishedDateTime: 2021-01-13T07:35:00Z

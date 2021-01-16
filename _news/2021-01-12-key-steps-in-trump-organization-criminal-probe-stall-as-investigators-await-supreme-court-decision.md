@@ -331,6 +331,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden and Harris will introduce members of their White House science team this afternoon."
+    excerpt: "Biden Jr. announced more nominations for his State Department on Saturday morning and plans to introduce new White House science team officials in Wilmington, Del., in the afternoon. The Biden-Harris transition team announced several nominations,"
+    publishedDateTime: 2021-01-16T10:28:00Z
+    webUrl: "https://www.nytimes.com/2021/01/16/us/politics/biden-harris-science-team.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/16/us/politics/biden-harris-science-team.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/16/us/politics/biden-harris-science-team.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 151
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/16/us/16transition-briefing-biden-saturday/16transition-briefing-biden-saturday-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "House Moves to Force Trump Out, Vowing Impeachment if Pence Won’t Act"
     excerpt: "Speaker Nancy Pelosi said the House would formally call on Vice President Mike Pence to invoke the 25th Amendment to strip President Trump of power, and move to impeach the president if he refused."
     publishedDateTime: 2021-01-11T02:11:00Z

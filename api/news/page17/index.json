@@ -2,6 +2,62 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-12-22-lev-parnas-files-motion-to-dismiss-says-he-was-selectively-prosecuted-to-protect-trump.md",
+      "title": "Lev Parnas files motion to dismiss, says he was selectively prosecuted to protect Trump",
+      "excerpt": "Lev Parnas, the indicted associate of Rudy Giuliani, has filed a motion to dismiss the campaign finance charges against him, arguing he has been selectively prosecuted and blocked from providing information to lawmakers seeking to impeach President Trump.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cAGtCoMlCPc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cAGtCoMlCPc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200117002642-lev-parnas-ucrania-juicio-politico-trump-giuliani-pkg-ione-molinares-dusa-00014113-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/22/politics/lev-parnas-motion-dismiss/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/lev-parnas-motion-dismiss/index.html",
+      "publishedDateTime": "2020-12-22T14:53:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-trumps-main-banker-at-deutsche-bank-announces-her-resignation.md",
       "title": "Trump's main banker at Deutsche Bank announces her resignation",
       "excerpt": "The president's longstanding contact at the bank, Rosemary Vrablic, will step down on Dec. 31, though the reasons for her departure are unclear.",
@@ -1321,62 +1377,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-maxine-waters-says-congress-missed-opportunity-to-impeach-trump-for-treason.md",
-      "title": "Maxine Waters says Congress 'missed opportunity' to impeach Trump 'for treason'",
-      "excerpt": "Rep. Maxine Waters, D-Calif., said Sunday that Congress missed the opportunity to impeach President Trump for treason.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qSYwdn9zgow/maxine-waters-congress-missed-opportunity-impeach-trump-for-treason",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qSYwdn9zgow/maxine-waters-congress-missed-opportunity-impeach-trump-for-treason",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Putin-drinking.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/maxine-waters-congress-missed-opportunity-impeach-trump-for-treason.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/maxine-waters-congress-missed-opportunity-impeach-trump-for-treason.amp",
-      "publishedDateTime": "2020-12-21T09:54:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

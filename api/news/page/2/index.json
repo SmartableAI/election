@@ -2,6 +2,64 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-15-pence-calls-harris-while-trump-continues-to-stew-in-denial.md",
+      "title": "Pence calls Harris while Trump continues to stew in denial",
+      "excerpt": "One is dropping in on the White House phone operators, addressing troops at bases across the country, paying a visit to national guardsmen in place for the inauguration and speaking by phone with his successor.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/87pFCeuctSI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/87pFCeuctSI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201120140130-trump-pence-1113-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-presidency/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-presidency/index.html",
+      "publishedDateTime": "2021-01-15T11:48:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-cuomo-takes-parting-shot-at-trump-admin-targets-reclamation-of-salt-funds.md",
       "title": "Cuomo takes parting shot at Trump admin, targets 'reclamation' of SALT funds",
       "excerpt": "The SALT cap has been one of the bigger thorns in Cuomo's side in recent years.",
@@ -345,7 +403,7 @@
       "originalUrl": "https://www.cbsnews.com/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1294,58 +1352,6 @@
         "name": "New York Magazine",
         "domain": "nymag.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-melania-trump-not-sad-about-leaving-white-house-flotus-not-a-victim.md",
-      "title": "Melania Trump 'Not Sad' About Leaving White House, FLOTUS Not A 'Victim'",
-      "excerpt": "Melania Trump is not sad about leaving the White House and she is not the victim as what she previously claimed, according to a report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/melania-trump-not-sad-about-leaving-white-house-flotus-not-victim-3122487",
-      "originalUrl": "https://www.ibtimes.com/melania-trump-not-sad-about-leaving-white-house-flotus-not-victim-3122487",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/melania-trump-not-sad-about-leaving-white-house-flotus-not-victim-3122487?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-not-sad-about-leaving-white-house-flotus-not-victim-3122487?amp=1",
-      "publishedDateTime": "2021-01-14T16:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

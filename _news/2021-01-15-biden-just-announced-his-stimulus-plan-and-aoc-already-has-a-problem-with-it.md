@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden picks Obama veterans for key State Department posts"
+    excerpt: "President-elect Joe Biden announced Saturday that he will nominate two Obama administration veterans to key State Department posts."
+    publishedDateTime: 2021-01-16T15:35:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1NOw8yW-IxA/former-obama-sherman-nuland-bidens-state"
+    ampWebUrl: "https://www.foxnews.com/politics/former-obama-sherman-nuland-bidens-state.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-obama-sherman-nuland-bidens-state.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83d781d9-a368-4b40-bd50-c2a081f73d7b/d59313cd-ebe2-451d-8223-615e77a6a1cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "If Biden halts border wall, it could cost taxpayers billions, CBP chief warns"
     excerpt: "President-elect Joe Biden is promising that border wall building won't continue under his administration, but with hundreds of miles under construction, the head of Customs and Border Protection (CBP) is warning that shutting down construction could cost taxpayers billions."
     publishedDateTime: 2021-01-09T22:25:26Z

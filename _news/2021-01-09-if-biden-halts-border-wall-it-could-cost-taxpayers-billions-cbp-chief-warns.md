@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden picks Obama veterans for key State Department posts"
+    excerpt: "President-elect Joe Biden announced Saturday that he will nominate two Obama administration veterans to key State Department posts."
+    publishedDateTime: 2021-01-16T15:35:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1NOw8yW-IxA/former-obama-sherman-nuland-bidens-state"
+    ampWebUrl: "https://www.foxnews.com/politics/former-obama-sherman-nuland-bidens-state.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-obama-sherman-nuland-bidens-state.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83d781d9-a368-4b40-bd50-c2a081f73d7b/d59313cd-ebe2-451d-8223-615e77a6a1cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden just announced his stimulus plan — and AOC already has a problem with it"
     excerpt: "Rep. Alexandria Ocasio-Cortez, D-N.Y., is criticizing President-elect Biden's new coronavirus relief, arguing that it doesn't go far enough to help people in need during the pandemic."
     publishedDateTime: 2021-01-15T02:16:23Z

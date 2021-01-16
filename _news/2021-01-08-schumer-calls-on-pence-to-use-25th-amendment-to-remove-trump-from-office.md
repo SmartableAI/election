@@ -1105,6 +1105,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump's 'pro-law enforcement' image crumbles in his final days"
+    excerpt: "A President who has repeatedly touted himself as pro-law enforcement is now being accused of fueling a growing threat of extremists that has law enforcement officials across the nation on high alert.\n    \n"
+    publishedDateTime: 2021-01-16T16:32:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rFIAcLXkvj4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/trump-law-enforcement-image-final-days/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/trump-law-enforcement-image-final-days/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113233706-donald-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Years of bad leadership from Trump, and now no leadership at all"
     excerpt: "The more new video we see of the storming of the Capitol by Trump-inspired rioters, the more aggravating it becomes.\n    \n"
     publishedDateTime: 2021-01-12T03:49:02Z

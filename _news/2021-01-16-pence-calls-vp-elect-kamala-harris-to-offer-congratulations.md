@@ -1,30 +1,34 @@
 ---
 category: news
 title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
-publishedDateTime: 2021-01-16T07:03:00Z
-originalUrl: "https://www.sfchronicle.com/news/article/Mike-Pence-calls-Kamala-Harris-to-offer-15874325.php"
-webUrl: "https://www.sfchronicle.com/news/article/Mike-Pence-calls-Kamala-Harris-to-offer-15874325.php"
-ampWebUrl: "https://www.sfchronicle.com/news/amp/Mike-Pence-calls-Kamala-Harris-to-offer-15874325.php"
-cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Mike-Pence-calls-Kamala-Harris-to-offer-15874325.php"
+excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
+publishedDateTime: 2021-01-16T06:01:00Z
+originalUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
+webUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
 type: article
-quality: 100
+quality: 150
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Kamala Harris
   - Mike Pence
+  - Kamala Harris
 
 images:
-  - url: "https://s.hdnux.com/photos/01/16/14/37/20498416/5/375x250.jpg"
-    width: 375
-    height: 249
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -994,6 +998,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "Av6r9UAmZJiRw7sW7Cz0uiP7/ZDJwWnbfZ9OBhjs0KrW6kOpIwa7XMrbmWdNmFW0IWZbeB6DlfA+itzsgsTtIjfePwa2kGHDvOi3s5PVyUddsliSQQG6PGBKDnp3vWIUti/CnrN4U20ST82c/Yf0SbDS0IidGax/SPJNMXbMwrQ8IQkIF4L0Y4EvCqQIc9LY+xf9nQFAWjQEgne1Y4BTD0R42XwCj9R4Ut9odg20iQ+Cwd53tVrbHRGtJeRDPqhSZw+AfGYzapC8mXH2ZHRQhzwZcc0gyNbQn5etn8NyJXiFA3flWdwFLotX9B2klyWpr45N0voOwSPTwNO1rM5S6vJ8M+wv0eU6Rv/X9NFt6Hc=;/5rEAsPZUU68S80UqFI4Fg=="
+secured: "dkhXR94Gf9iISz/bsAUnjwacGbyaKqwvqzBLk4M55aoaa+VO7YbSXOaNxefPA2LZkc9E472d1P3PEMw0TnUvHMxQkZdRnYMJbFfHHrUtO6W/aw6hnweTJkBxA5OSLUGl/eYEUY4vmrPPBFpDLqXk6SQNwbPuBk7aVIaXvsrHa+EUhofWki2LLEbcYs+eiA68kjFyQy/uAviayoWR3ERioNZeSfExdv0MTbMY6umPzw7RcC5OQm+kqL25sl3t16IHxOMsw1CJkg16xEJKuSoEQuMy0pPlYl/m63P7qryTbCaykkh56LV730FyRNCiSHhgTUNYxWmTpKjz1UaqXuLHBNGFQlu8bvyGSITi/Zj2p+s=;U7+AgEF2TvmHrwnxI52qkQ=="
 ---
 
