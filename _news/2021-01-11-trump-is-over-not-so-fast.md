@@ -84,6 +84,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden administration will publish White House visitor logs, reversing Trump policy"
+    excerpt: "Incoming White House Press Secretary Jen Psaki said late Friday that President-elect Joe Biden’s administration would resume the tradition of publishing the White House’s visitor logs"
+    publishedDateTime: 2021-01-16T01:05:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3kQbnGEJylg/biden-press-secretary-white-house-visitor-logs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7de536e-1b1d-4f26-a547-667b1a372a6b/462cdc42-e036-410d-802a-644eed65a420/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "De Blasio accuses Trump of ‘treason,’ says he should be removed"
     excerpt: "New York City Mayor Bill de Blasio on Thursday said President Trump should be removed from office -- and accused him of committing \"treason\" with his remarks to supporters who went on to storm the Capitol building."
     publishedDateTime: 2021-01-07T21:47:08Z

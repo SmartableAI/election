@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "NY prosecutors interview Michael Cohen about Trump finances"
+    excerpt: "New York prosecutors conducted an hours-long interview Thursday of Michael Cohen, President Donald Trump’s former attorney"
+    publishedDateTime: 2021-01-16T02:50:00Z
+    webUrl: "https://www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "The symbols of hate and far-right extremism on display in pro-Trump Capitol siege"
     excerpt: "Trump mob stormed the U.S. Capitol, symbols of white supremacy and extremist right wing militias were displayed by some rioters on flags, banners and clothing."
     publishedDateTime: 2021-01-14T15:01:00Z
@@ -104,20 +120,6 @@ related:
     quality: 105
     images:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547808818&r=LYNXMPEH0D121&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Outgoing Trump admin OKs land swap for Rio Tinto's Arizona copper mine"
-    excerpt: "U.S. President Donald Trump's outgoing administration approved a land swap on Friday for a Rio Tinto Ltd copper mine in Arizona that would boost domestic production of the red metal but destroy sites sacred to Native Americans."
-    publishedDateTime: 2021-01-15T18:50:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-mining-resolution/outgoing-trump-admin-oks-land-swap-for-rio-tintos-arizona-copper-mine-idUSKBN29K22P"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547952986&r=LYNXMPEH0E151&w=800"
         width: 800
         height: 533
         isCached: true
@@ -223,6 +225,17 @@ related:
     provider:
       name: al.com
       domain: al.com
+    quality: 55
+  - title: "Outgoing Trump Admin OKs Land Swap for Rio Tinto's Arizona Copper Mine"
+    excerpt: "U.S. President Donald Trump's outgoing administration approved a land swap on Friday for a Rio Tinto Ltd copper mine in Arizona that would boost domestic production of the red metal but destroy sites sacred to Native Americans."
+    publishedDateTime: 2021-01-16T02:41:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-15/trump-administration-approves-land-swap-for-rio-tintos-arizona-copper-mine"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-15/trump-administration-approves-land-swap-for-rio-tintos-arizona-copper-mine?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-15/trump-administration-approves-land-swap-for-rio-tintos-arizona-copper-mine?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 55
 
 secured: "MOB5zKA5wlngQcIWxF3CFXzzHw+GKdwxOdC9+k5ZtttGv7uskWR4ZItWthGserLymj1KeAXG8aHmoRHozmp7YmQCtD/kKcWey2DSeb7/mRdh8Ay/xCwB4QmxXdHsf/YkoRPudxHtbEmmC+bJEUfUVcMFjAI9QVMscPu9A/0fOsSoD/riAe2FJOA0n8KIeYPHjr5UWnaTquiMV38Hc6AduUmeyBNawLdNs4CTD/yf0HJrBqgSc7wQcRQK03jUYMHLHYpu+v0/4TnbfU+yGCJikYkF/X3QtfHVp4B4nxW1mJLoHrx3/kzbFre9jsPKvp82cOA2/L7iA+g6k3AjkAyut3HQL0WUQ2dgqU9go38pZcs=;fBuDFSv6cSbVgadDOJTX/Q=="

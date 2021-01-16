@@ -140,6 +140,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden press secretary won't say if White House visitor logs will be published"
+    excerpt: "Incoming White House Press Secretary Jen Psaki declined Friday to specify whether President-elect Joe Biden’s administration would publish White House’s visitor logs"
+    publishedDateTime: 2021-01-16T01:17:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7de536e-1b1d-4f26-a547-667b1a372a6b/462cdc42-e036-410d-802a-644eed65a420/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "glz6rA37Bl2CsRBWYzE1xyUhoKHT9OHfM29ondoy7yqRiqpWbcVqtb8n/o49m5+aMLPDxT/GXgl1qAo5WPff1n3y6V7HU9pvRh2t/0thzxL+JpQpTu/OczoKbCD7BI3A92nf2IiAkH63FkzXjeiOuffCQZfokIS7j6LFe0hFyv1hn6/LUkpkHDI9KZ16U+1c4uFwf4RB3rD9vZeSORsqXUJhoUSM+5OIacHrwdHFlFPC+Jzafnw36Bq6+LENdcIATNlIN+Tej40D3hnSvWAUPjuTt2sRx9lFbFr87o9hs38jaheh3bvadXhKQxW1ccJI+S4T+ULffMlDg2R2tj5hNmgXo11liZPW8ujg64v99duw2EB/UPrVSG1226WIwPWsnTkWsM039FgfBCE2hpQRJ2gAqBsqiME1g62U+lOYXFIVFrI1eJfIxvwZuV4FzbjkoKbzWQkjnlitP3/clYoPEZGLOafeeOjoAKcfpL4w1F431dr1X5uqzUDUlEV8NQQ6jP4LEyOqJAndc67b4BPKmQ==;JLSGeNPZpP1Toy7NX8zIvQ=="
 ---

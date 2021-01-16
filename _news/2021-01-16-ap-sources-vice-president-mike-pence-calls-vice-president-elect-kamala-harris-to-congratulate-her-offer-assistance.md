@@ -1,24 +1,18 @@
 ---
 category: news
 title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
-excerpt: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
-publishedDateTime: 2021-01-15T23:29:00Z
-originalUrl: "https://www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html"
-webUrl: "https://www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
+publishedDateTime: 2021-01-15T21:34:00Z
+originalUrl: "https://www.stltoday.com/news/national/govt-and-politics/article_83c74b49-2415-5ca6-8ce3-a2ba0e83f0fa.html"
+webUrl: "https://www.stltoday.com/news/national/govt-and-politics/article_83c74b49-2415-5ca6-8ce3-a2ba0e83f0fa.html"
 type: article
-quality: 127
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Election
@@ -26,9 +20,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
+    width: 600
+    height: 517
     isCached: true
 
 related:
@@ -48,21 +42,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Mike Pence calls Kamala Harris to offer congratulations"
-    excerpt: "WASHINGTON -- Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
-    publishedDateTime: 2021-01-15T18:49:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+  - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
+    excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-16T01:07:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 150
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "House passes measure calling on Pence to remove Trump"
     excerpt: "The House on Tuesday passed legislation calling on Vice President Pence to tap his Constitutional authority to remove President Trump from office in response to the president’s role in the deadly mob attack on the Capitol last week."
@@ -547,6 +541,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Mike Pence Calls Kamala Harris to Offer Congratulations"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-15T19:34:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/mike-pence-calls-kamala-harris-to-offer-congratulations/2833768/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/mike-pence-calls-kamala-harris-to-offer-congratulations/2833768/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/mike-pence-calls-kamala-harris-to-offer-congratulations/2833768/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 100
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/split-jan15.jpg?fit=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Thousands of National Guard members deployed in Washington ahead of Biden inauguration"
     excerpt: "Thousands of National Guard's were deployed to Washington on January 12, ahead of the inauguration of Joe Biden in the wake of the Capitol riots."
     publishedDateTime: 2021-01-13T15:04:00Z
@@ -838,6 +848,17 @@ related:
       name: San Francisco Chronicle
       domain: sfchronicle.com
     quality: 54
+  - title: "Trump Plans to Depart Washington the Morning of Inauguration Day: Sources"
+    excerpt: "President Donald Trump now plans to leave Washington on the morning of Inauguration Day next Wednesday after considering a departure on Tuesday, a source familiar with the matter said on Friday. Trump,"
+    publishedDateTime: 2021-01-16T02:56:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-15/trump-plans-to-depart-washington-the-morning-of-inauguration-day-source"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-15/trump-plans-to-depart-washington-the-morning-of-inauguration-day-source?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-15/trump-plans-to-depart-washington-the-morning-of-inauguration-day-source?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
   - title: "400 members of Washington state National Guard called to D.C. to boost security during President-elect Joe Biden’s inauguration"
     excerpt: "In the wake of the insurgence at the U.S. Capitol during certification of the Electoral College votes last week and threats of further violence, nearly 400 Washington National Guard soldiers and airmen are being sent to D."
     publishedDateTime: 2021-01-15T15:05:00Z
@@ -850,6 +871,6 @@ related:
       domain: seattletimes.com
     quality: 27
 
-secured: "MbllnUhoqWO/YOTnnGQaieJDRkcxSGVJNoSgz9QSUl62yIZr/xQmbnbUwLRhaU+OJ+cx2bpaPP0KOPf9xaxfHdxkjzvJayvdNHkUyzyWnAyPabHhyC+Te2Ct3dEe21GAekyIUZkTpnLouBac7zdvBzH9ythOkmyUm/aSBvVYVM7c1pYgT5aUfeVEqmRbEqGQbxa0YBDOVsTG1vuJFjquhEH2/0aDYMUA0eXu+9iSJNHAyPYiDANS9k5pVysFb0kuVCpfmO2cBk4YusVKhGiuPkQx3bi6DgOIlqBeL8c7vsAwHYXdBCl+0euUtnBr/repApDxLFlYCxgYrxWYh9JwHaxdhFbFVvGV8tjZCLY+iyc=;MHHk9isy2lyZs4yoKNS7eg=="
+secured: "WueV6cZqDeB0FXFqUh1c3kYBcj8Ie+HdOyhk7E7u2CFbfO8fIsRi4+lYtbrtf5seL8iRKjtZ/V0iyo6D/kOahf86Nq2MJzo2KEyGHYRlADRNTTFb3Ty/Qcs0CTSmHXT8GFvR3yNUTePwuDEbq5z81lFRb62f52LepT/nU93DokGtbx/eZlqlXZ5cijgvwzb9U4u3/j8mbSeqnlHD+ZcAt4/x/pFuVP/qp48NFeDccdidJo1i0/MDK79QwPX+CJMRfO8cf+AjMOIg5MSsnzgeMn8fhtbnKYn5ki4S2qP4btzPX+iQtQ5flydU/fPZwxnwv25mfomDHm4D4lrbDHEC4OgO4tpk7qqEJ7tHENnjcLU=;NbDyeoira+WTANYb+8Xisg=="
 ---
 

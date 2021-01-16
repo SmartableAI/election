@@ -125,6 +125,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "US lawyers ask 2nd Circuit to nix Trump from defamation suit"
+    excerpt: "Justice Department lawyers have asked a federal appeals court to replace President Donald Trump with the United States as the defendant in a defamation lawsuit brought by a woman who says he raped her"
+    publishedDateTime: 2021-01-16T01:22:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/us-lawyers-2nd-circuit-nix-trump-defamation-suit-75287892"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/us-lawyers-2nd-circuit-nix-trump-defamation-suit-75287892"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/us-lawyers-2nd-circuit-nix-trump-defamation-suit-75287892"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Golf’s pitch to distance itself from Donald Trump came five years too late"
     excerpt: "The golf establishment’s decision to finally turn its back on the US president is hardly a profile in courage after five years of see no evil, hear no evil"
     publishedDateTime: 2021-01-13T12:29:00Z
@@ -140,6 +156,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/edb8e792d778d64d85745bc12c24e7038d4e575d/173_218_3106_1865/master/3106.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c38118f5b9ad1a232629ad5576df98d6"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump administration announces 11th-hour rewrite of desert conservation plan"
+    excerpt: "The Bureau of Land Management on Wednesday announced proposed changes to the Desert Renewable Energy Conservation Plan."
+    publishedDateTime: 2021-01-16T02:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/environment/2021/01/15/trump-administration-announces-rewrite-desert-conservation-plan/4145109001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4145109001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4145109001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/30/PPAS/81147857-fffa-4df4-bad2-2b6ba9e7fc50-Accident.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump bolsters ban on U.S. investments in China"
     excerpt: "President Donald Trump has signed an order strengthening a November ban on U.S. investments in alleged Chinese military companies, the White House said on Wednesday, curbing Chinese access to U.S. capital markets days before he leaves office."

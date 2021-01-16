@@ -1,24 +1,20 @@
 ---
 category: news
-title: "Mike Pence calls Kamala Harris to offer congratulations"
-excerpt: "WASHINGTON -- Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
-publishedDateTime: 2021-01-15T18:49:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-webUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+title: "Mike Pence Calls Kamala Harris to Offer Congratulations"
+excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
+publishedDateTime: 2021-01-15T19:34:00Z
+originalUrl: "https://www.nbcnewyork.com/news/national-international/mike-pence-calls-kamala-harris-to-offer-congratulations/2833768/"
+webUrl: "https://www.nbcnewyork.com/news/national-international/mike-pence-calls-kamala-harris-to-offer-congratulations/2833768/"
+ampWebUrl: "https://www.nbcnewyork.com/news/national-international/mike-pence-calls-kamala-harris-to-offer-congratulations/2833768/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/mike-pence-calls-kamala-harris-to-offer-congratulations/2833768/?amp"
 type: article
-quality: 150
+quality: 100
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
   - Election
@@ -26,9 +22,9 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://media.nbcnewyork.com/2021/01/split-jan15.jpg?fit=1200%2C675"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -47,6 +43,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-departure-texas-03-ap-jef-210112_1610466035305_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
+    excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-16T01:07:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 150
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "House passes measure calling on Pence to remove Trump"
     excerpt: "The House on Tuesday passed legislation calling on Vice President Pence to tap his Constitutional authority to remove President Trump from office in response to the president’s role in the deadly mob attack on the Capitol last week."
@@ -95,22 +107,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/ad02f72/2147483647/strip/true/crop/3000x1959+0+20/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff6%2F01%2Fcbd4b15d41a6962baf92c78dbb80%2Fdhs-acting-secretary-immigration-63532.jpg"
         width: 320
         height: 209
-        isCached: true
-  - title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
-    excerpt: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
-    publishedDateTime: 2021-01-15T23:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 127
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Pro-Trump supporters to rally again in Washington"
     excerpt: "Supporters of President Donald Trump are returning to Washington for a pair of rallies to back his desperate efforts to subvert the election that he lost"
@@ -785,6 +781,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
+    excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
+    publishedDateTime: 2021-01-15T21:34:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/article_83c74b49-2415-5ca6-8ce3-a2ba0e83f0fa.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 57
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
+        width: 600
+        height: 517
+        isCached: true
   - title: "Arts agency member resigns after vulgar comment about Harris"
     excerpt: "An appointee to the Ohio Arts Council resigned Friday after making a vulgar comment on social media about Vice President-elect Kamala Harris that also supported President"
     publishedDateTime: 2021-01-09T00:51:00Z
@@ -838,6 +848,17 @@ related:
       name: San Francisco Chronicle
       domain: sfchronicle.com
     quality: 54
+  - title: "Trump Plans to Depart Washington the Morning of Inauguration Day: Sources"
+    excerpt: "President Donald Trump now plans to leave Washington on the morning of Inauguration Day next Wednesday after considering a departure on Tuesday, a source familiar with the matter said on Friday. Trump,"
+    publishedDateTime: 2021-01-16T02:56:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-15/trump-plans-to-depart-washington-the-morning-of-inauguration-day-source"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-15/trump-plans-to-depart-washington-the-morning-of-inauguration-day-source?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-15/trump-plans-to-depart-washington-the-morning-of-inauguration-day-source?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
   - title: "400 members of Washington state National Guard called to D.C. to boost security during President-elect Joe Biden’s inauguration"
     excerpt: "In the wake of the insurgence at the U.S. Capitol during certification of the Electoral College votes last week and threats of further violence, nearly 400 Washington National Guard soldiers and airmen are being sent to D."
     publishedDateTime: 2021-01-15T15:05:00Z
@@ -850,6 +871,6 @@ related:
       domain: seattletimes.com
     quality: 27
 
-secured: "tgKPS367c8+ohYym31X8b5GmUXJ+PkwoSTNNXtsF9S5FzeCm4D1rvcaKAGbtVxhvcXaCQNobVfgP9FIObqiz0NdNGTTswDw6Ot5Ef4HT9yNQl6WKxhG6JHOSqojU0cwDPbyJ8GOfEmfDSbHfwT21SxGOm1yQI9gz7ByJQECRVkpHeu0BQYWFAhIrk9ZXUqJ2LBbhl8ieK7PQhf0+sKE1BysDff4GETxWL16l9bVblYKH+xGg7fZFYatFouR/CEru2BpXvtn324C/R2TTnpe0bFK5v7Yyy0crSUJGPk/T9Nu1qgDybM4uhoWAUtO6Zjl182L9J3eYHjPHmQXjBmylOjizezVhlE/fpPc+wm76+IxUhiPKZ+Q3Mwvlh1V6q4wt8yb+b5Gi4P8EzqH1bUqTEJZnAbbXMyRGK/z82hCqueIi0s3v5Y5VnK6Zf/ACdQCzEMZj2VOwzX/x7EhQNJ2kjhNLfKlPyv/AUBPsn/CudqOIhmaCknjdsPafCxf8zpUgzjz3WKpJEMTTA54Z+hTfxw==;pZFaL/jMIPow9nbkp1jyLQ=="
+secured: "gOjfu8+JX/ujjuQWILDcrtE7G5p1FbJzdyceS1XvDP3h/8hNGLPGe9su+VcFffm1OAZ8wv9y89pPcpG+ukJS0FlGP91S4Xl1xpQa2mIKMdAQjYdK9uaivmQnNc56NwKD2Cf/yyHuiA0YiuNGY1dx4LTzqm3LvqWAlp4FQtYHcHhHxmxXpkImu2W7PIw8K+T5QZTgbP1yM8g3mNrErhAU54Qhr/YA3vlVDpLXpglPW/8nnRAjY5cUmtYfwIuQRUW6ACIgJXjU7epTtuSlDG45I/tdN80xeAIwJRjoKYiuu6vHXQz5KVydCKT8fcCYK+R3QdH+j+7n34OI0h16JjgEaUiQ8UVJDzJK+5QiCsggH6U=;OQriyi3Rp1K5+NAkyIT7HA=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-16-biden-pledges-to-vaccinate-100-million-americans-in-his-first-100-days-in-office.md",
+      "title": "Biden pledges to vaccinate 100 million Americans in his first 100 days in office",
+      "excerpt": "President-elect Joe Biden is pledging to fix the United States' slow coronavirus vaccine rollout. CBS News senior White House and political correspondent Ed O'Keefe spoke with CBSN's Elaine Quijano about what the incoming Biden administration plans to do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/biden-pledges-to-vaccinate-100-million-americans-in-his-first-100-days-in-office/",
+      "originalUrl": "https://www.cbsnews.com/video/biden-pledges-to-vaccinate-100-million-americans-in-his-first-100-days-in-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/16/1e229ed6-306f-491b-9a1a-96d74f087821/thumbnail/1200x630/a286355ec3d57513ef1d25b289737f3f/0115-cbsn-sws-627506-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-15T17:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-biden-well-manage-the-hell-out-of-feds-covid-response.md",
       "title": "Biden: We’ll ‘manage the hell’ out of feds’ COVID response",
       "excerpt": "President-elect Joe Biden is pledging to boost supplies of coronavirus vaccine and set up new vaccination sites to meet his goal of 100 million shots in 100 days",
@@ -1495,63 +1547,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-joe-and-jill-biden-to-appear-on-ryan-seacrests-new-years-rockin-eve.md",
-      "title": "Joe and Jill Biden to appear on Ryan Seacrest's 'New Year's Rockin' Eve'",
-      "excerpt": "President-elect Joe Biden and his wife, Dr. Jill Biden, will join Ryan Seacrest on Thursday night's \"Dick Clark's New Year's Rockin' Eve.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/joe-jill-biden-appear-ryan-seacrest-new-years-rockin-eve",
-      "originalUrl": "https://www.foxnews.com/entertainment/joe-jill-biden-appear-ryan-seacrest-new-years-rockin-eve",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/seacrest-ap.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/joe-jill-biden-appear-ryan-seacrest-new-years-rockin-eve.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/joe-jill-biden-appear-ryan-seacrest-new-years-rockin-eve.amp",
-      "publishedDateTime": "2020-12-30T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

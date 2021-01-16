@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-william-burns-cia-director.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-william-burns-cia-director.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/RTX-joe-biden-xi-jinping.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden press secretary won't say if White House visitor logs will be published"
+    excerpt: "Incoming White House Press Secretary Jen Psaki declined Friday to specify whether President-elect Joe Biden’s administration would publish White House’s visitor logs"
+    publishedDateTime: 2021-01-16T01:17:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7de536e-1b1d-4f26-a547-667b1a372a6b/462cdc42-e036-410d-802a-644eed65a420/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden Chooses Veteran Diplomat Burns as CIA Director"
     excerpt: "WASHINGTON (AP)  President-elect Joe Biden announced Monday he has chosen veteran diplomat William Burns to be his CIA director. A former ambassador"

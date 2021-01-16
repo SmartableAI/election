@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/11/pelosi-says-house-wi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment"
 type: article
 quality: 123
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Pelosi calls for prosecution of any Congress members who might have helped pro-Trump siege"
+    excerpt: "Any members of the U.S. Congress who helped a crowd of President Donald Trump's supporters storm the Capitol should face criminal prosecution, House of Representatives Speaker Nancy Pelosi said on Friday."
+    publishedDateTime: 2021-01-16T02:41:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/pelosi-calls-for-prosecution-of-any-congress-members-who-might-have-helped-pro-trump-siege-idUSKBN29K0NV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 95
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547955197&r=LYNXMPEH0E18J&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Trump Says 'Tremendous Anger' in Nation Over Impeachment"
     excerpt: "Impeachment ahead, the House will first try Tuesday to push the vice president and Cabinet to act even more quickly to remove President Donald Trump from office."
     publishedDateTime: 2021-01-12T16:35:00Z

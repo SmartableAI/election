@@ -975,8 +975,8 @@ related:
         isCached: true
   - title: "Palestinians announce first elections in 15 years, on eve of Biden era"
     excerpt: "Palestinian President Mahmoud Abbas announced parliamentary and presidential elections on Friday, the first in 15 years, in an effort to heal long-standing internal divisions."
-    publishedDateTime: 2021-01-15T23:40:00Z
-    webUrl: "https://www.reuters.com/article/palestinians-election-int/palestinians-announce-first-elections-in-15-years-on-eve-of-biden-era-idUSKBN29K2CB"
+    publishedDateTime: 2021-01-16T02:04:00Z
+    webUrl: "https://www.reuters.com/article/palestinians-election-int/palestinian-authority-sets-dates-for-legislative-and-presidential-elections-idUSKBN29K2CB"
     type: article
     provider:
       name: Reuters
@@ -1162,6 +1162,22 @@ related:
       - url: "https://i.insider.com/5ff5f5f5d184b30018aad517?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden will have more women in his Cabinet than any president ever. Other countries still do better."
+    excerpt: "Most cabinets have a \"concrete floor\" for gender representation, and rarely go lower. Will Biden raise that floor in the United States?"
+    publishedDateTime: 2021-01-16T02:03:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/15/biden-will-have-more-women-his-cabinet-than-any-president-ever-other-countries-still-do-better/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/15/biden-will-have-more-women-his-cabinet-than-any-president-ever-other-countries-still-do-better/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/15/biden-will-have-more-women-his-cabinet-than-any-president-ever-other-countries-still-do-better/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BRCTLGB37YI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden Names Boston Mayor Walsh to Head Labor Department"
     excerpt: "President-elect Joe Biden announced Thursday that he has named Boston Mayor Marty Walsh to be labor secretary."
@@ -1604,6 +1620,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547771325&r=LYNXMPEH0D0PK&w=800"
         width: 800
         height: 526
+        isCached: true
+  - title: "Biden says he feels safe ahead of inauguration"
+    excerpt: "Top News Biden says he feels safe ahead of inauguration. Posted . U.S. President-elect Joe Biden said on Friday that he feels safe, after a reporter asked him if he felt comfortab"
+    publishedDateTime: 2021-01-16T01:56:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDVBMOKF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210116&i=OVDVBMOKF&r=OVDVBMOKF&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Eyes on Pelosi as Trump impeachment trial timing up in the air"
     excerpt: "The timing of President Donald Trump's impeachment trial could come into clearer focus on Friday when House Speaker Nancy Pelosi is expected to take questions about her next steps at a morning news conference at the U."

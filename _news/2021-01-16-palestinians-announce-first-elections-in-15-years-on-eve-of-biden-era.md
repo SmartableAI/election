@@ -2,9 +2,9 @@
 category: news
 title: "Palestinians announce first elections in 15 years, on eve of Biden era"
 excerpt: "Palestinian President Mahmoud Abbas announced parliamentary and presidential elections on Friday, the first in 15 years, in an effort to heal long-standing internal divisions."
-publishedDateTime: 2021-01-15T23:40:00Z
-originalUrl: "https://www.reuters.com/article/palestinians-election-int/palestinians-announce-first-elections-in-15-years-on-eve-of-biden-era-idUSKBN29K2CB"
-webUrl: "https://www.reuters.com/article/palestinians-election-int/palestinians-announce-first-elections-in-15-years-on-eve-of-biden-era-idUSKBN29K2CB"
+publishedDateTime: 2021-01-16T02:04:00Z
+originalUrl: "https://www.reuters.com/article/palestinians-election-int/palestinian-authority-sets-dates-for-legislative-and-presidential-elections-idUSKBN29K2CB"
+webUrl: "https://www.reuters.com/article/palestinians-election-int/palestinian-authority-sets-dates-for-legislative-and-presidential-elections-idUSKBN29K2CB"
 type: article
 quality: 120
 heat: -1
@@ -1149,6 +1149,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden will have more women in his Cabinet than any president ever. Other countries still do better."
+    excerpt: "Most cabinets have a \"concrete floor\" for gender representation, and rarely go lower. Will Biden raise that floor in the United States?"
+    publishedDateTime: 2021-01-16T02:03:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/15/biden-will-have-more-women-his-cabinet-than-any-president-ever-other-countries-still-do-better/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/15/biden-will-have-more-women-his-cabinet-than-any-president-ever-other-countries-still-do-better/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/15/biden-will-have-more-women-his-cabinet-than-any-president-ever-other-countries-still-do-better/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BRCTLGB37YI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Several House Republicans join impeachment push; Pence says he will not move to expel Trump"
     excerpt: "At least four Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
     publishedDateTime: 2021-01-13T08:02:00Z
@@ -1604,6 +1620,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547771325&r=LYNXMPEH0D0PK&w=800"
         width: 800
         height: 526
+        isCached: true
+  - title: "Biden says he feels safe ahead of inauguration"
+    excerpt: "Top News Biden says he feels safe ahead of inauguration. Posted . U.S. President-elect Joe Biden said on Friday that he feels safe, after a reporter asked him if he felt comfortab"
+    publishedDateTime: 2021-01-16T01:56:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDVBMOKF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210116&i=OVDVBMOKF&r=OVDVBMOKF&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Eyes on Pelosi as Trump impeachment trial timing up in the air"
     excerpt: "The timing of President Donald Trump's impeachment trial could come into clearer focus on Friday when House Speaker Nancy Pelosi is expected to take questions about her next steps at a morning news conference at the U."
@@ -2336,6 +2366,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "4lEmKcIRrj52LENIvfGgxs+yyf8fFFkkueb5jxOb9+hZb4jKfXA/fg1fb/Qp9IntwczRUa6O+15wsOZLSep0H65glIpD1PyyuFR3OwiAkJoMBKCdk5839EYHnISpaueRlGcHh/1YAg4qMW3GuugO6ugN8gCT1S9mVjU4aG8SPXAbj8OgTkUmbInqxuuJTQVkjOcE2YX1cPhB0CRdhzt2/4MK1rUKDs6ivwxv2tj1g+q8e2plmgoQCYu7evypVAgrTqxSBJQ9FB9/lCeMuSDlGMQyKaf/MlOi3+v6NdUpjJZVycWYy2287H31JEfMDXKehFys1bo9b1EuVLWWEOjAtAKMejRetXNfCJ4uCGU+ME0=;RYjcS9P1ZRNObIiFmKfhhg=="
+secured: "97ROeD94Dv9coxBnff+Jil/XlD6wdwoz8zeeejI88UAy0U4j39AVkkpukmogpjHq10Q3lV32VENSSO3XW7YxuyK8QzmOeN1np4dXqzOhENo8u8qpfw6DNt9s8w7P4t6C19TuT9UDAZ7p/4YQ8TFXIJjEVjqqCt3rwzuDGfJ2qOknkVtOJj7GDbu6EIm6zZ8tJFy1Q+glRIzPk/NtIvHYCIFGgbAdD2TGpcfDgkQP0v21P8y/2pEk1otn1BzQLaI9FEHXo6KfKTYYXs9LNalqVuCdzau8Xz8NAYSY+TeX5F4kcINoTPqtrcskU769lvt8UxaUL61eZChhvZafyaBTKiK2wGcTNcZphMnp1gggRRA=;VaA5P1dW9zs/GlFV7t/hLQ=="
 ---
 

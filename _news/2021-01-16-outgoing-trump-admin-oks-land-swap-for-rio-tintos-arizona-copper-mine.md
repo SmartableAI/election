@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Outgoing Trump admin OKs land swap for Rio Tinto's Arizona copper mine"
+title: "Outgoing Trump Admin OKs Land Swap for Rio Tinto's Arizona Copper Mine"
 excerpt: "U.S. President Donald Trump's outgoing administration approved a land swap on Friday for a Rio Tinto Ltd copper mine in Arizona that would boost domestic production of the red metal but destroy sites sacred to Native Americans."
-publishedDateTime: 2021-01-15T18:50:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-mining-resolution/outgoing-trump-admin-oks-land-swap-for-rio-tintos-arizona-copper-mine-idUSKBN29K22P"
-webUrl: "https://www.reuters.com/article/us-usa-mining-resolution/outgoing-trump-admin-oks-land-swap-for-rio-tintos-arizona-copper-mine-idUSKBN29K22P"
+publishedDateTime: 2021-01-16T02:41:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2021-01-15/trump-administration-approves-land-swap-for-rio-tintos-arizona-copper-mine"
+webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-15/trump-administration-approves-land-swap-for-rio-tintos-arizona-copper-mine"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-15/trump-administration-approves-land-swap-for-rio-tintos-arizona-copper-mine?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-15/trump-administration-approves-land-swap-for-rio-tintos-arizona-copper-mine?context=amp"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547952986&r=LYNXMPEH0E151&w=800"
-    width: 800
-    height: 533
-    isCached: true
 
 related:
   - title: "Business grows skittish about Trump and GOP after riots"
@@ -60,6 +56,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/754F/production/_116413003_gettyimages-578547390.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "NY prosecutors interview Michael Cohen about Trump finances"
+    excerpt: "New York prosecutors conducted an hours-long interview Thursday of Michael Cohen, President Donald Trump’s former attorney"
+    publishedDateTime: 2021-01-16T02:50:00Z
+    webUrl: "https://www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "The symbols of hate and far-right extremism on display in pro-Trump Capitol siege"
     excerpt: "Trump mob stormed the U.S. Capitol, symbols of white supremacy and extremist right wing militias were displayed by some rioters on flags, banners and clothing."
@@ -225,6 +237,6 @@ related:
       domain: al.com
     quality: 55
 
-secured: "NfWoB4LbdDHlcfmcXQ6B76BOQs4278MFW7gJLSxtkOL8l54MrCX/eiS28GtKlBQ55TGNLuV6Uz8QGRxQjtaqX1/QcYWIGShvTIiRhe9Ft4tLzOWLmYCTKevxBgMxYlqAVdFk0IwufR61vy8gywpBeSUBnNF3mtnfUPulD+P9Tb+/eGhYwbCyxGMYLqXjzV85EB9dlbdzqpYleI9syCxCvpHCjZCRlaPal6sZbByo/SoWzPezDdWw0UFtO3jagjicCFPRBNqWWFNYgJyD/wQIThuuLYm65Y7ner79oGriBnyP+GLcIdjJLu48q7ZxBzJvuxSF26S74/MjWPb0QW9mvoMhQFdpr8x/ap/zgE9y5No=;Cr0Neur7EKTWvR6HGI5B3Q=="
+secured: "4607mu7iJLsuRcMDk01+W5mQR3IY/eUP05ViMAUCVA/DQteKLbxE2U1ZR489VOFKsno55DK4xE/DOGjPEfbS97emJfcRbUZkboAVUAFUuvmasGbhhBoZPTaYm+9xni8tvLXJBpflwAwImr2XsDy+dURCZlwpXYnG+I9/EMFQvyIQKvmNGLfdDgnuZvQArPIi58hgETaYrug25ySXTatEu+RSTaQfuzS7RnMhm1i5KSegl77o2b2ySp7HbzeZ07cW2kBncbfVIkjIP4FCBzChdl8qJjScfgebjsaLJKutUyOm0MsGF3CUehT22BfiC3LDrz+EcpWM7Ogn5lucR9ij5VbN8z0ICZTtM1yt4wTyH/8UnZ8U1fiy4tv8VO8sP/KikPg6CZfhhSeeAPyAtV6OBFIytZKNHUJE0OiMz2ytd6omJiRxAO1DaJjSH8OTQj0k621/u+bBZu7FG0h8R4mTnMj8rQwJUP1JAFxZrKOKa9z8Q6UEwS4SOYFbQiAHMIypLW1xSNEyQJMEUyBOVcXgdA==;yL7x0Gv5ftWcxY3mRZQbhg=="
 ---
 
