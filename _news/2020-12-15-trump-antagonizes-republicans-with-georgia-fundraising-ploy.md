@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "As Trump leaves the stage, Republicans grapple with new conspiracy caucus"
+    excerpt: "Donald Trump may be leaving the White House in a few days, but the umbrella of conspiracy theories he inspired are only just arriving in Washington.\n    \n"
+    publishedDateTime: 2021-01-16T18:13:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mhb4pVgfOug/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/qanon-gop-trump-congress-future/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/qanon-gop-trump-congress-future/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017195649-07-qanon-candidates-marjorie-taylor-greene-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "See how Trump's language was echoed by rioters"
     excerpt: "As the House prepares to vote on impeaching President Donald Trump to condemn his role inciting the riot at the US Capitol, CNN looks at the language Trump used and how it was echoed by rioters."
     publishedDateTime: 2021-01-13T11:25:00Z

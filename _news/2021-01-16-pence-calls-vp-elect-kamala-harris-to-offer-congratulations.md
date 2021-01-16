@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
-publishedDateTime: 2021-01-16T06:01:00Z
-originalUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
-webUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+excerpt: "WASHINGTON -- Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
+publishedDateTime: 2021-01-16T00:57:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+webUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
 type: article
 quality: 150
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -576,8 +576,8 @@ related:
         isCached: true
   - title: "Pence vows to honor U.S. history, ensure safe inauguration of new president"
     excerpt: "U.S. Vice President Mike Pence on Thursday vowed to uphold American history and ensure a safe transition of power to President-elect Joe Biden, eight days after supporters of U.S. President Donald Trump laid siege to the U."
-    publishedDateTime: 2021-01-15T06:46:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-pence/pence-vows-to-honor-us-history-ensure-safe-inauguration-of-new-president-idUSKBN29K05A"
+    publishedDateTime: 2021-01-15T06:41:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-pence/pence-vows-to-honor-u-s-history-ensure-safe-inauguration-of-new-president-idUSKBN29K05A"
     type: article
     provider:
       name: Reuters
@@ -998,6 +998,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "dkhXR94Gf9iISz/bsAUnjwacGbyaKqwvqzBLk4M55aoaa+VO7YbSXOaNxefPA2LZkc9E472d1P3PEMw0TnUvHMxQkZdRnYMJbFfHHrUtO6W/aw6hnweTJkBxA5OSLUGl/eYEUY4vmrPPBFpDLqXk6SQNwbPuBk7aVIaXvsrHa+EUhofWki2LLEbcYs+eiA68kjFyQy/uAviayoWR3ERioNZeSfExdv0MTbMY6umPzw7RcC5OQm+kqL25sl3t16IHxOMsw1CJkg16xEJKuSoEQuMy0pPlYl/m63P7qryTbCaykkh56LV730FyRNCiSHhgTUNYxWmTpKjz1UaqXuLHBNGFQlu8bvyGSITi/Zj2p+s=;U7+AgEF2TvmHrwnxI52qkQ=="
+secured: "ZmpwGjKKikZccPD3PPaohIkDC1LsqXdiXlKOrBIf+p7zcjPb9eUrDEB6vUVKRjc2Eh7RBkruQEQysDk9MTIavoimrJ8GsfSkqm6jNa1MsC1QwKKVMJUMs6OLlTlztOP64RjGwYNeT5y3ggXI4rS+iwHkFFPXfA/ZKFsPps9wCHiffifbJGlgSjocT/YLjO5WbkdtfQ6io0WpbqfsLZU39LT+OqJu7hrGP4Oe/UcDwPfOfe53+/S3DySCO6Q4cffs1amT1I6uAgBvS9z9l4xtOr+6INSpqNgB58d/Ahu+tBejr5L+tkrjlpWPIJGymHOBUIty5eU4pfvdzbqSb4znHIQLweeYGnrJ+Hpz8vnvg20=;xN3C3PqCzjgQCB35JhshLw=="
 ---
 

@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "'Liberal' Churches Warned of Possible Attacks Around Biden Inauguration Day"
+    excerpt: "The United Church of Christ advised ministers and congregants to exercise caution in the week leading up to the inauguration."
+    publishedDateTime: 2021-01-16T18:28:00Z
+    webUrl: "https://www.newsweek.com/liberal-churches-threats-surrounding-biden-inauguration-1562121"
+    ampWebUrl: "https://www.newsweek.com/liberal-churches-threats-surrounding-biden-inauguration-1562121?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/liberal-churches-threats-surrounding-biden-inauguration-1562121?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1709960/trump-protesters-us-capitol.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden's inauguration rehearsal postponed over security concerns, Politico says"
     excerpt: "A rehearsal for U.S President-elect Joe Biden's inauguration scheduled for Sunday has been postponed because of security concerns, Politico reported late on Thursday, citing two people with knowledge of the decision."
     publishedDateTime: 2021-01-15T13:22:00Z

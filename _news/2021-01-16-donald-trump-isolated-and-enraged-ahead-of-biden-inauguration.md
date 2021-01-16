@@ -815,6 +815,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Federal prisons on lockdown in run-up to Biden inauguration"
+    excerpt: "Federal prisons across the U.S. have been placed on lockdown as officials aim to quell any potential violence that could arise in the run-up to President-elect Joe Biden’s inauguration on Wednesday"
+    publishedDateTime: 2021-01-16T17:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/federal-prisons-lockdown-run-biden-inauguration-75296751"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/federal-prisons-lockdown-run-biden-inauguration-75296751"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/federal-prisons-lockdown-run-biden-inauguration-75296751"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c66224196eea42ed95b4ff20f73e13e5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Congress certifies Joe Biden as president hours after storming of Capitol"
     excerpt: "Trump loyalists objected to certification of election result before joint session interrupted when mob breaches security"
     publishedDateTime: 2021-01-07T10:09:00Z
@@ -1785,6 +1801,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "U.S. state capitals on edge for armed protests as Trump presidency nears end"
+    excerpt: "Trump marches in all 50 state capitals this weekend, erecting barriers and calling in their National Guards to try to prevent the kind of violent attack that rattled the nation on Jan. 6."
+    publishedDateTime: 2021-01-16T17:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/u-s-capitals-on-edge-for-armed-protests-as-trump-presidency-nears-end-idUSKBN29L0CS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548030531&r=LYNXMPEH0F09U&w=800"
+        width: 800
+        height: 519
+        isCached: true
   - title: "President Donald Trump impeached by US House for incitement of insurrection at Capitol; 1st US president impeached twice"
     excerpt: "President Donald Trump impeached by US House for incitement of insurrection at Capitol; 1st US president impeached twice"
     publishedDateTime: 2021-01-14T02:39:00Z
@@ -2508,6 +2538,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "NLM7MU9iwgcamQPWFgWyo/CFKV4lWRhcvYDbzcmoyV0ZUkBCG/MJPhyU1CPlRpfYxtd3h2U5NE1pEgqO6vyFX2qwpmSZBmxncXNR0757hEYbyeksAFKSZuxs3kUoqQiECvakPwr9zd2mULxEF+6RnF5/W8Un1k3h9GEhRy34d6F1ycKvs9dHoqf8gbIG9kyFMtnQU2Mf+8qu7TnxxVqn8avHUDr3R4uT2+Ki4ddOfZSiZdiixlNB5iy4hMcHvARAYJd1w0vkKShh/DEYQSbP1scCAeSoLfw0r9pRSVesBgG5PncTBuItDxlSFZ6NY/l4Q0VUrdE7S+d4byv2KqzSwKmoQJu2OV9MFu7Oi1OGHk4=;ACXVnYWhApURz8o3vcOXbA=="
+secured: "TpPvXC17S93rVtl2YnssJrpR4H3iprKt9BFq3qp3LmcRaTTS+VyH0OwWxXXsD8VZCpPSMHfMWmYuZljW2OSXyUQbqDdDM1AnFM9mCuv4wOot1vYmCs5mxnAB0n4mpaBVfMJmOxwqLKO7DlybG2lChQZ8v8u9Nli7AKdM2vOIebKi+9GEGo6ZybggkQMVYUOfmQncEbr8/Xn/hZ0dcC9TXyBQBjJkGS+45xPDjzbZea+MudVn8r4bMpUiP6l+ta2sWE0BXsfV8iwVztV+CeadX6cQhKojt38DH1Ubautweb9AFTXrv7AU+3hG3XwL7vIHMIrBVXh4+wHjGIDNf1XfVsSFvFpCWqeh+QRbaU8Sct95DomIOx2k8DxJ1f10F4iXEFSnLjCwnJTTLtSaCdKpcYlJGW7taDW+X4FFeouONfk6tQOd5DsSE1QwTAGu2KElRhhG0BPPGLaHnwmX93c7H4Z25JJZptoWepE0PQq9shgo+Lq7B4/OzE3RK5UKlkf0cR1FwwLvdsz3My/sVl31KA==;Trt6dniBc7pA15poGZmsng=="
 ---
 

@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "A ‘vote of conscience’: McConnell sets stage for Trump impeachment trial"
+    excerpt: "President Donald Trump’s impeachment trial is likely to start after Joe Biden’s inauguration, and the Republican leader, Mitch McConnell, is telling senators their decision on whether to convict the outgoing president over the Capitol riot will be a “vote of conscience."
+    publishedDateTime: 2021-01-16T18:28:00Z
+    webUrl: "https://www.al.com/politics/2021/01/a-vote-of-conscience-mcconnell-sets-stage-for-trump-impeachment-trial.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/a-vote-of-conscience-mcconnell-sets-stage-for-trump-impeachment-trial.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/a-vote-of-conscience-mcconnell-sets-stage-for-trump-impeachment-trial.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NTUN5GCYINBD3K36VXQ3ERTFMM.jpg"
+        width: 2555
+        height: 1438
+        isCached: true
 
 secured: "Oivkr0J8sW5lP+r4K4kuVJ3DEtpjnyAbotIXnwAncmiztj2izw2+U5UfEIThDYaB13AZqr2u4HLVPOVxuuCMx5D5cb2NmY/7vP38QEr1Q9xrPd4QhDXFXwiwlhpp3eld6Cy8KfLEv8DNJoLagAaoS+YCIdrh8Ngpvr1Rc1ten5kCOTQ8Qk447yko6m4W4xWlo7H6adMdZQeWRvGxsFasjOOE2sc3tU13/+O50Z0PL0JS1VUihUmpaNstQXJ4QuQDD0dbsvE50mmchNcR5zTCf7/EbBTVAONOphxSd5Ble/ZWOuOIvoEKMvWcRd6uSeE0a68Up37l14gDG1aYl/sK7f9ziJs0R5CU2lK073B9J1w=;70B68ilAvx6v3qpy0wVvDA=="
 ---

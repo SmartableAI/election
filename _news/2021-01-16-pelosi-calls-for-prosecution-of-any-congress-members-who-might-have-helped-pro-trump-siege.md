@@ -56,6 +56,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Pelosi Calls for Prosecution of Any Congress Members Who Might Have Helped Pro-Trump Siege"
+    excerpt: "Pelosi Calls for Prosecution of Any Congress Members Who Might Have Helped Pro-Trump Siege WASHINGTON (Reuters) - Any members of the U.S. Congress who helped a crowd of President Donald Trump's supporters storm the Capitol should face criminal prosecution ..."
+    publishedDateTime: 2021-01-16T18:27:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-15/eyes-on-pelosi-as-trump-impeachment-trial-timing-up-in-the-air"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-15/eyes-on-pelosi-as-trump-impeachment-trial-timing-up-in-the-air?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-15/eyes-on-pelosi-as-trump-impeachment-trial-timing-up-in-the-air?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 45
 
 secured: "QbXvES1pmeMnrTEXX2P+a2OBVFGQzuB+JGTSKnktSIYb3kSC+1nc1OBq4yr7IhhFC/Tg9zrqjpmKI2NdfztjbEY79vOBqjnmPK6URFCdopeRZgcLEQVlSkMswIZD2I/Ef4JUqitRwjglgQV7+16hDDfMHL4jesMoworiBKxcR1A3xvkWzsAGsna1x4ncw2dgfR0FPT0oPWb3QNL4K7aqDfAygEfx8y4RkgMFCWNvezsotTAv8TRofo5UZ43wYH+p6vfjKnChInA6afhclvw4OkiYxkkBeaFJICdnfNJGfK6q8GhwEhrjqw0AvxZ4ewtEiEbonAMS6tjJA8PqLodzRutZdiNwc1FeYyvKtKZOTPU=;rZTR8FRZ7GwBvrkQBISKtA=="
 ---

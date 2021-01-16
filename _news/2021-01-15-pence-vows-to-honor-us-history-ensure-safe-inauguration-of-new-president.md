@@ -2,9 +2,9 @@
 category: news
 title: "Pence vows to honor U.S. history, ensure safe inauguration of new president"
 excerpt: "U.S. Vice President Mike Pence on Thursday vowed to uphold American history and ensure a safe transition of power to President-elect Joe Biden, eight days after supporters of U.S. President Donald Trump laid siege to the U."
-publishedDateTime: 2021-01-15T06:46:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-pence/pence-vows-to-honor-us-history-ensure-safe-inauguration-of-new-president-idUSKBN29K05A"
-webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-pence/pence-vows-to-honor-us-history-ensure-safe-inauguration-of-new-president-idUSKBN29K05A"
+publishedDateTime: 2021-01-15T06:41:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-pence/pence-vows-to-honor-u-s-history-ensure-safe-inauguration-of-new-president-idUSKBN29K05A"
+webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-pence/pence-vows-to-honor-u-s-history-ensure-safe-inauguration-of-new-president-idUSKBN29K05A"
 type: article
 quality: 103
 heat: -1
@@ -46,20 +46,20 @@ related:
         height: 558
         isCached: true
   - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-    excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
-    publishedDateTime: 2021-01-16T06:01:00Z
-    webUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    excerpt: "WASHINGTON -- Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-16T00:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 150
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "House passes measure calling on Pence to remove Trump"
     excerpt: "The House on Tuesday passed legislation calling on Vice President Pence to tap his Constitutional authority to remove President Trump from office in response to the president’s role in the deadly mob attack on the Capitol last week."
@@ -997,6 +997,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "xe1RWlfO+igkjP+Y5l1RmlWYoUFDhq0vU2oq6NEMfCFYadtRVCheWNuqbpY7ancySebI3/QjJzpBpyGNMG2TFYW+Jsrz6BukFMQX9YqemNKj7wG42HlMtfgxinj1oXPXSbyypQVWJRiDi9fW/2ploDA1PxcVD1wNbg3Uo73qkyisACslfsjpQnf4pVHcx7dZ3Bsp3b+AY7CE67sRamYl+YgU+brDydaSXyviORkUBK0m7sAh3Xt/tZF8SlqIBlA32ENE7yF90m0bUYVKm1uWigSJ9iphDE88ZXoC+Soewf04S6E4ywydbHnztGuwX8trTzzdlAaxXbMBpXyx8cSXRHtw4gAqUACSfbZFgMdb8Q4Gpi+j+1sqcbOTmFQF9wUMF0cDeHZ91ujcbK0o7BVSmd7xfB+JXN2cUM/CMn2yXPP0zEqhFNjtiDYnCDSCdL3eQPDtIC+ZACQY4YRVzKEdxNAhxy3Oi/uGVkxovP8o0DqzdyK18o7fKvcgk1MXAEGj3bzNgWev7geDQPhpxQjPxg==;go7e+6u1Q2ujet0Bpw1sOg=="
+secured: "PCl3MDRImjoIIdLSE4PzgUlzV1E8b7Rb4JasQKAWETkM+qt8cc7r4Cjk/9r/KtMqfuGlh9xnbF59VpNMIq0g6xD7ZkJOr56OKYoDyBhjWGsdeZNwc+mZmmJ1L1BqsmWbc5Xj2J7VVtyRBY/iLmJBf5yLwCyPlaIq946rSBzQj26J3zAzVvLgTN47PW4uUu8aeE77UwtsElbuPu/wuFft2px33rgX2vvqFG3cT2rrMB1WRnxXHlDuADKz/j+jZ5MPSD4znUQyJSr9ifI7o+OSNxaMtdIwrJ5oZQBgFnRpmlNu4kjZEpD53Bpxb24lZ0xJgfHVvjLYy6KXLNo8yZTbb4HGoHZ+XWAjFeS/tC7t1tY=;aXlrGej8fKMj+IIGzSwFNQ=="
 ---
 

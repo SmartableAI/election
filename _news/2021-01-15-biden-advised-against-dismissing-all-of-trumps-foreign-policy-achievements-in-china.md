@@ -47,6 +47,54 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "25,000 National Guard troops deployed to Capitol as Biden inauguration looms"
+    excerpt: "Officials have boosted the number of National Guard members deployed in Washington, D.C., in the run-up to President-elect Joe Biden's inauguration next week to 25,000, an increase of 25 percent."
+    publishedDateTime: 2021-01-16T18:26:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fA3KXvWYBnk/25000-national-guard-troops-approved-to-protect-capitol-ahead-of-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/25000-national-guard-troops-approved-to-protect-capitol-ahead-of-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/25000-national-guard-troops-approved-to-protect-capitol-ahead-of-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump reportedly to leave White House the morning of Biden’s inauguration"
+    excerpt: "President Trump is set to officially depart.C. Wednesday morning, reports said. That same day Joe Biden will take the oath of office and be officially sworn in as th"
+    publishedDateTime: 2021-01-16T18:55:00Z
+    webUrl: "https://nypost.com/2021/01/16/trump-to-leave-dc-the-morning-of-bidens-inauguration-reports/"
+    ampWebUrl: "https://nypost.com/2021/01/16/trump-to-leave-dc-the-morning-of-bidens-inauguration-reports/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/16/trump-to-leave-dc-the-morning-of-bidens-inauguration-reports/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 149
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-9.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "25,000 National Guard troops deployed to Capitol as Biden inauguration looms"
+    excerpt: "Officials have boosted the number of National Guard members deployed in Washington, D.C., in the run-up to President-elect Joe Biden's inauguration next week to 25,000, an increase of 25 percent."
+    publishedDateTime: 2021-01-16T18:30:00Z
+    webUrl: "https://www.foxnews.com/politics/25000-national-guard-troops-approved-to-protect-capitol-ahead-of-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/25000-national-guard-troops-approved-to-protect-capitol-ahead-of-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/25000-national-guard-troops-approved-to-protect-capitol-ahead-of-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21014710834755.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "TOk01vB1CLhwKnMY3iywPnbIm0VWAR75mrAvK+lwF9t4YldabNeA+9nqQhWrE9BW6I8T2YN/5P06iTgbG+bYZphAy1aKUMLb0FTGvUGmiMl/Vl0kiACOR4M+A+GJQZizDQrMgsQGTIprzzvzjBe94f7jvMBEMtjvafEgXJgfmomKJR+SLH+yyVR43ubj2Rw8cPlY7Nccau4cG/OHeC4Nr2Hob+zcTqMuREc/OPnTkWvTm3n+r9mhmXCpbodhxfAMnqwP/oHhnXSzJ6aIwC5y7GQO0SvGQUX2M/w6nui2Az+ZiB/Hwut/EvMehRJIIYdqiRJPGfYvw3+Icp5lkvSWQeo9ewi0y9vE5kzghgfE7FE=;znQm46RIdFd2MCojkSJkrA=="
 ---

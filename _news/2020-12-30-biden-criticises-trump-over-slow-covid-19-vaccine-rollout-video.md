@@ -1277,6 +1277,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "After Trump, Biden aims to reshape the presidency itself"
+    excerpt: "Support our journalism. Subscribe today. Biden had campaigned as a rebuke to President Donald Trump, a singular figure whose political power was fueled by discord and grievance. The Democrat framed his election as one to “heal the soul” of the nation ..."
+    publishedDateTime: 2021-01-16T18:34:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/after-trump-biden-aims-to-reshape-the-presidency-itself/2021/01/16/91556d30-57ff-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/after-trump-biden-aims-to-reshape-the-presidency-itself/2021/01/16/91556d30-57ff-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/after-trump-biden-aims-to-reshape-the-presidency-itself/2021/01/16/91556d30-57ff-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
     publishedDateTime: 2021-01-02T17:01:00Z
