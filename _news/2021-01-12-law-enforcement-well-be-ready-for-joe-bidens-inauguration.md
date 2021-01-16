@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/law-enforcement-ready-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2NAB5FK6RFAK3B53DG7COL2DXE.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "How Facebook Is Prepping For Joe Biden’s Inauguration Amid Online Threats"
+    excerpt: "Facebook has taken a major step in cracking down on the violence that threatens to derail Joe Biden’s Inauguration. Facebook announced it would continue to take a variety of measures to prevent users from using the social media platform to incite violence during the inauguration."
+    publishedDateTime: 2021-01-16T17:57:00Z
+    webUrl: "https://www.ibtimes.com/how-facebook-prepping-joe-bidens-inauguration-amid-online-threats-3123812"
+    ampWebUrl: "https://www.ibtimes.com/how-facebook-prepping-joe-bidens-inauguration-amid-online-threats-3123812?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-facebook-prepping-joe-bidens-inauguration-amid-online-threats-3123812?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/03/facebook-is-reportedly-changing-its-policy-on-hate.jpg"
+        width: 1024
+        height: 700
         isCached: true
 
 secured: "Ad1wSEfLjHISktGzMq7DanpQrLcCQCS1y5L8HrgOzlzv+QqkY7HV4tGuZUMeMVApHZ93VsDoAViDsVETSMAyMMzVB825veBs/lvWLV8YG+LbeAiB+y+141sEGu+hIm6c65J46275tSF9kfNvxjh9HEB670V5bRPBpgk7/XGDexZKVoClmdbkZy1qQTcX5+/Szewnu3T5KuSr0fJKLgpoo7v1u897oCqaaLXAWUocCKpJL8ag4zN5fNNqhvqzJu3y0lMii8h8f6NCpP3G3Zwz2SeS1qTAY6UzJhBHYKubu0gV59xOlM/5KnOBwyN4Wm+VSxyW6s+PFJdSTpq6DFjY+UPyfSGqU9tKL6kGBxt1IztTEEjsduxoQhWPj2Ynmz15J2KMzPaOQontLCo5WyA+JJh8YgLWboTjH6l3VIfkyaZbpiMZCXlVQZZWJxgdAmixHaYiN5WB0XVmrCSaylnAw/+ZlDoInp5nb9YS0/P5yxA6sZlVCfmUkSB+ihGoDUB0pLmairDJm1N4KXEs8RqAhQ==;yIz776AsX3dvqX9UbJujlA=="

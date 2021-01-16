@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-12-22-trump-administration-weighing-legal-immunity-for-saudi-crown-prince-accused-in-assassination-plot.md",
+      "title": "Trump administration weighing legal immunity for Saudi crown prince accused in assassination plot",
+      "excerpt": "Riyadh has asked the State Department to shield Mohammed bin Salman from a U.S. lawsuit by a former Saudi intelligence officer who claims he was targeted days after Jamal Khashoggi’s death in 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HC5LGNSBUQI6XC6AVYKVX3SK74.jpg&w=1440",
+          "width": 1280,
+          "height": 862,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/public-safety/legal-immunity-request-mbs/2020/12/21/c2b87900-4150-11eb-8bc0-ae155bee4aff_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-21T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-21-maxine-waters-says-congress-missed-opportunity-to-impeach-trump-for-treason.md",
       "title": "Maxine Waters says Congress 'missed opportunity' to impeach Trump 'for treason'",
       "excerpt": "Rep. Maxine Waters, D-Calif., said Sunday that Congress missed the opportunity to impeach President Trump for treason.",
@@ -1276,63 +1328,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-jim-carrey-to-stop-impersonating-joe-biden-on-saturday-night-live.md",
-      "title": "Jim Carrey to stop impersonating Joe Biden on 'Saturday Night Live'",
-      "excerpt": "Live” did not immediately offer insight as to who might pick up the impression, Carrey’s departure could allow a cast member to take over.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/pop-culture/pop-culture-news/jim-carrey-stop-impersonating-joe-biden-saturday-night-live-n1251820",
-      "originalUrl": "https://www.nbcnews.com/pop-culture/pop-culture-news/jim-carrey-stop-impersonating-joe-biden-saturday-night-live-n1251820",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_51/3436967/201219-jim-carrey-joe-biden-snl-al-1414_e3d031136794aebf76936c2c337c7a7a.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1251820",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251820",
-      "publishedDateTime": "2020-12-19T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

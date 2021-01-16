@@ -96,6 +96,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "How Facebook and Twitter decided to take down Trump's accounts"
+    excerpt: "The Facebook and Twitter suspensions were a landmark moment for America's social media giants and the most visible demonstration yet of their absolute power."
+    publishedDateTime: 2021-01-16T20:25:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/how-facebook-twitter-decided-take-down-trump-s-accounts-n1254317"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254317"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254317"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_02/3442180/210114-donald-trump-phone-ew-617p_dbdc2ae89b3dfdef17d0939de4bb8931.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Live Updates: Pelosi Threatens Impeachment if Trump Doesn’t Resign ‘Immediately’"
     excerpt: "The House could vote on impeachment next week. President Trump will not attend President-elect Joe Biden’s inauguration. With less than two weeks left of Mr. Trump’s presidency, a wave of resignations hits his cabinet."
     publishedDateTime: 2021-01-08T14:19:00Z

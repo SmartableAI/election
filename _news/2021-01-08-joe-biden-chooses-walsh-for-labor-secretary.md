@@ -1173,6 +1173,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Pardon-Seeking Rioters 'Following My President' Weaken Argument Trump Didn't Incite Violence"
+    excerpt: "As protesters identified in last week's U.S. Capitol riot get arrested, a few have sought pardons from President Donald Trump before his term comes to an end on Wednesday. Some of the people claim they were following directives from Trump."
+    publishedDateTime: 2021-01-16T20:47:00Z
+    webUrl: "https://www.newsweek.com/protesters-following-presidents-orders-hurt-argument-that-trump-didnt-incite-violence-1562134"
+    ampWebUrl: "https://www.newsweek.com/protesters-following-presidents-orders-hurt-argument-that-trump-didnt-incite-violence-1562134?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/protesters-following-presidents-orders-hurt-argument-that-trump-didnt-incite-violence-1562134?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1709975/jake-angeli-qanon-shaman-capitol-protest.jpg"
+        width: 2500
+        height: 1301
+        isCached: true
   - title: "House Democrats unveil ‘incitement of insurrection’ impeachment charge against Trump, but pressure on Pence to oust president"
     excerpt: "As the House prepares for impeachment, President Donald Trump faces a single charge — “incitement of insurrection” — over the deadly riot at the U.S. Capitol."
     publishedDateTime: 2021-01-11T19:46:00Z
@@ -1746,6 +1762,20 @@ related:
     quality: 105
     images:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547913417&r=LYNXMPEH0E0CB&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "U.S. capitals on edge for armed protests as Trump presidency nears end"
+    excerpt: "Washington, D.C., was locked down and U.S. law enforcement officials geared up for pro-Trump marches in all 50 state capitals this weekend, erecting barriers and deploying thousands of National Guard troops to try to prevent the kind of violent attack that rattled the"
+    publishedDateTime: 2021-01-16T17:28:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN29L0CS?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548055353&r=LYNXMPEH0F0IM&w=800"
         width: 800
         height: 533
         isCached: true

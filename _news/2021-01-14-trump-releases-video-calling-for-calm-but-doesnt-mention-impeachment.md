@@ -77,6 +77,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Joe Biden and Kamala Harris drop a playlist for your inauguration watch party"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris have dropped a playlist to keep your at-home celebration in tune with the upcoming inauguration's \"America United\" theme.\n    \n"
+    publishedDateTime: 2021-01-16T19:00:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rinxlMrO0P4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/joe-biden-inauguration-playlist/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/joe-biden-inauguration-playlist/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 197
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201108005951-biden-harris-spouses-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Attorney representing Trump in Texas dispute pushed racist conspiracy about Kamala Harris"
     excerpt: "An attorney representing President Donald Trump, John Eastman, is known for recently pushing a racist conspiracy theory -- that Trump himself later amplified -- claiming Vice President-elect Kamala Harris might not be eligible for the role because her parents were immigrants.\n    \n"
     publishedDateTime: 2020-12-09T23:35:35Z
@@ -92,6 +108,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/130630135736-john-eastman-traditional-marriage-story-top.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Harris to be sworn in as vice president by Justice Sonia Sotomayor"
+    excerpt: "Kamala Harris will be sworn in Wednesday as the next vice president of the United States by Supreme Court Justice Sonia Sotomayor, according to a Harris aide.\n    \n"
+    publishedDateTime: 2021-01-16T20:40:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/S-T2piVG4wk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/kamala-harris-swearing-in-sonia-sotomayor/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/kamala-harris-swearing-in-sonia-sotomayor/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108130454-01-kamala-harris-0827-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Trump, pressured into video concession, faces uncertain final stretch"
     excerpt: "President Donald Trump's top aides delivered a blunt warning to him Thursday as he sat sullenly in the West Wing and watched as his Republican allies, Cabinet secretaries and former senior staffers criticized or denounced him one by one.\n    \n"

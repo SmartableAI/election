@@ -220,6 +220,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "States activate National Guard, close capitol buildings ahead of Biden inauguration and possible violence"
+    excerpt: "Reports of possible violent demonstrations over the weekend have prompted state governors to take action in anticipation of any potential unrest, such as deploying the National Guard, declaring states of emergency and closing capitols."
+    publishedDateTime: 2021-01-16T19:53:00Z
+    webUrl: "https://www.foxnews.com/us/states-activate-national-guard-close-capitols-biden-inauguration-possible-violence"
+    ampWebUrl: "https://www.foxnews.com/us/states-activate-national-guard-close-capitols-biden-inauguration-possible-violence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/states-activate-national-guard-close-capitols-biden-inauguration-possible-violence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/California-Capitol-Building-iStock.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Expect Big Things From Harris as Vice President"
     excerpt: "Vice President-elect Kamala Harris is going to be a major voice in the White House during the next four years, writes Julian Zelizer. As an experienced senator, Harris will be able to help Biden solid"
     publishedDateTime: 2020-12-08T12:27:00Z

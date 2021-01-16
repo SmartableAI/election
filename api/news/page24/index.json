@@ -2,6 +2,58 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-12-12-new-jersey-representative-asks-pelosi-to-refuse-to-seat-any-house-members-who-supported-trumps-election-lawsuits.md",
+      "title": "New Jersey representative asks Pelosi to 'refuse to seat' any House members who supported Trump's election lawsuits",
+      "excerpt": "Rep. Bill Pascrell slammed lawmakers who backed lawsuits that sought to \"overturn the election and make Donald Trump an unelected dictator.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12",
+      "originalUrl": "https://www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fd4c1859cf1420018d2f075?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pascrell-asks-pelosi-exclude-house-members-supported-election-lawsuits-2020-12?amp",
+      "publishedDateTime": "2020-12-12T06:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-fox-news-poll-most-republicans-say-president-trump-was-robbed.md",
       "title": "Fox News Poll: Most Republicans say President Trump was robbed",
       "excerpt": "Sixty-eight percent of Republicans believe the election was stolen from President Trump, according to the latest Fox News national survey of registered voters.",
@@ -1293,58 +1345,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-trump-and-his-allies-have-won-zero-out-of-at-least-38-lawsuits-theyve-filed-since-election-day.md",
-      "title": "Trump and his allies have won zero out of at least 38 lawsuits they've filed since Election Day",
-      "excerpt": "Republicans have filed more than two dozen lawsuits since the election challenging the results. They've won zero.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11",
-      "originalUrl": "https://www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 528,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fd0dc06240ebd00126bde01?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-lawsuits-election-results-2020-11?amp",
-      "publishedDateTime": "2020-12-10T13:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-excerpt: "WASHINGTON -- Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
-publishedDateTime: 2021-01-16T00:57:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-webUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
+publishedDateTime: 2021-01-16T06:01:00Z
+originalUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
+webUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
 type: article
 quality: 150
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -957,6 +957,20 @@ related:
       name: San Francisco Chronicle
       domain: sfchronicle.com
     quality: 54
+  - title: "Representation for women as Vice President-elect Kamala Harris takes office"
+    excerpt: "Women share their thoughts about the importance of representation as Vice President-elect Kamala Harris is about to take office."
+    publishedDateTime: 2021-01-16T20:42:00Z
+    webUrl: "https://www.freep.com/videos/news/local/michigan/2021/01/16/representation-women-vp-elect-kamala-harris-takes-office/4189962001/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 53
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/PDTF/c00101e5-32e6-41e7-8a64-3764862d0e46-AP20313094228663.jpg?quality=10"
+        width: 5715
+        height: 3810
+        isCached: true
   - title: "Joe Biden, Kamala Harris drop inauguration playlist with songs from Beyoncé, Dua Lipa, more"
     excerpt: "Joe Biden and Kamala Harris have released a 46-song playlist in honor of their upcoming administration. Here are the songs that made the cut."
     publishedDateTime: 2021-01-16T05:24:00Z
@@ -998,6 +1012,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "ZmpwGjKKikZccPD3PPaohIkDC1LsqXdiXlKOrBIf+p7zcjPb9eUrDEB6vUVKRjc2Eh7RBkruQEQysDk9MTIavoimrJ8GsfSkqm6jNa1MsC1QwKKVMJUMs6OLlTlztOP64RjGwYNeT5y3ggXI4rS+iwHkFFPXfA/ZKFsPps9wCHiffifbJGlgSjocT/YLjO5WbkdtfQ6io0WpbqfsLZU39LT+OqJu7hrGP4Oe/UcDwPfOfe53+/S3DySCO6Q4cffs1amT1I6uAgBvS9z9l4xtOr+6INSpqNgB58d/Ahu+tBejr5L+tkrjlpWPIJGymHOBUIty5eU4pfvdzbqSb4znHIQLweeYGnrJ+Hpz8vnvg20=;xN3C3PqCzjgQCB35JhshLw=="
+secured: "Rki0XDiVVht7peNfZae5tSBXclZjI+l21W7wvJBk7vCSlfXMIYJMu28lTKkkt/outsZbbt4/jXcxTHPgzanHiuYMUSSZPzAIjarwjySb+1RTnX4LmHB9uPzz+kdBRnP4Zi3xzh6k901Ib0SL84wzh5hFKwEb0jPOAn0wGB5wxPUdvBiFPSD01i7B5ee9hvaxMF4Txv/W7hJn+jU0JEoTo/aog80GIjmDdosyvwgN0q+bm37zyO5JAwRApcWvsLx8+XtXnEmzT3R9TUyCb/9nN7IWiTqWHh52t2vO6hNr9rLtyRtFu5Zo+oQPwG8SZIpNSQzhDgNIXQEGr2RUbmMFojhthuNby9L3aEwe0Wzv6Ok=;SK+WxPFCGBX57Ok6LO3FKw=="
 ---
 

@@ -125,6 +125,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "How Facebook Is Prepping For Joe Biden’s Inauguration Amid Online Threats"
+    excerpt: "Facebook has taken a major step in cracking down on the violence that threatens to derail Joe Biden’s Inauguration. Facebook announced it would continue to take a variety of measures to prevent users from using the social media platform to incite violence during the inauguration."
+    publishedDateTime: 2021-01-16T17:57:00Z
+    webUrl: "https://www.ibtimes.com/how-facebook-prepping-joe-bidens-inauguration-amid-online-threats-3123812"
+    ampWebUrl: "https://www.ibtimes.com/how-facebook-prepping-joe-bidens-inauguration-amid-online-threats-3123812?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-facebook-prepping-joe-bidens-inauguration-amid-online-threats-3123812?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/03/facebook-is-reportedly-changing-its-policy-on-hate.jpg"
+        width: 1024
+        height: 700
+        isCached: true
 
 secured: "/eYZSh7hNIIUJXlBoPpY3Mc22kTY/nDE94zFaLf8RgND7eXs6VqBOBIrbdZQO8ajZ/tY0h2x13zxNlg4V+0bp4ZozYUnwLtaiAuyyHnp/zi31FCBDkoQO8yNzLhaAVemGmTgUlea9VUPWyB3FQ1qdoRIsxsL0V1oS44bg8J1n3zRXr9YVWPpFu2W4NqG5hd+64GmDa23QqL+ZjDrROGveUXjWX/C6tMJAsksPfk5GNzd5T2I5XzGKX9AqE2WmyN2a0+qutaBQAlnBArqr5SYuOmojMuahPiiAWFlHvUmYWYOvQAG4Wu4vF7NJgUCfkdRvRpC7ksHt2OgpSOPy1ZdphtPkVAdqL8NT2cdcJ/gfTU=;msFJj/n3XDIN4DVWf5kELQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-bor
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -134,6 +134,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Are Republicans headed for a pro-Trump, anti-Trump civil war? ‘Hell yes, we are,’ says Illinois’ Adam Kinzinger."
+    excerpt: "In Washington, Republicans are particularly concerned about a handful of extreme-right House members who could run for Senate in swing states, potentially tarnishing the party in some of the most politically important areas of the country."
+    publishedDateTime: 2021-01-16T20:37:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-trump-republicans-adam-kinzinger-20210116-gns2nfnjpfbdhc2xljwb34hnee-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-trump-republicans-adam-kinzinger-20210116-gns2nfnjpfbdhc2xljwb34hnee-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-trump-republicans-adam-kinzinger-20210116-gns2nfnjpfbdhc2xljwb34hnee-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 104
+    images:
+      - url: "https://www.chicagotribune.com/resizer/t3tXp06wwOnc7_SnVWMS4T2fmCc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WK6VBRDIQ5H7ZI2ESE2ZLOB3RY.JPG"
+        width: 1200
+        height: 909
         isCached: true
   - title: "How Dangerous Is Trump? Experts, Lawmakers Question His Mental Fitness"
     excerpt: "Calls are growing for the president's removal under the 25th Amendment -- or impeachment."

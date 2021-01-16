@@ -45,20 +45,20 @@ related:
         height: 558
         isCached: true
   - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-    excerpt: "WASHINGTON -- Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
-    publishedDateTime: 2021-01-16T00:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+    excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-16T06:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 150
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "House passes measure calling on Pence to remove Trump"
     excerpt: "The House on Tuesday passed legislation calling on Vice President Pence to tap his Constitutional authority to remove President Trump from office in response to the president’s role in the deadly mob attack on the Capitol last week."
@@ -953,6 +953,20 @@ related:
       name: San Francisco Chronicle
       domain: sfchronicle.com
     quality: 54
+  - title: "Representation for women as Vice President-elect Kamala Harris takes office"
+    excerpt: "Women share their thoughts about the importance of representation as Vice President-elect Kamala Harris is about to take office."
+    publishedDateTime: 2021-01-16T20:42:00Z
+    webUrl: "https://www.freep.com/videos/news/local/michigan/2021/01/16/representation-women-vp-elect-kamala-harris-takes-office/4189962001/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 53
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/PDTF/c00101e5-32e6-41e7-8a64-3764862d0e46-AP20313094228663.jpg?quality=10"
+        width: 5715
+        height: 3810
+        isCached: true
   - title: "Joe Biden, Kamala Harris drop inauguration playlist with songs from Beyoncé, Dua Lipa, more"
     excerpt: "Joe Biden and Kamala Harris have released a 46-song playlist in honor of their upcoming administration. Here are the songs that made the cut."
     publishedDateTime: 2021-01-16T05:24:00Z
@@ -994,6 +1008,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "OoiykxArIllgj8GjTGqu+aO/IqoUsiHJGoMh3Tnol6EnuTomr1m41AEeiPc1QcffIp0ILON44pMThrQLlY6zf20A2ZEMQrT5wOGJxXvE8MrY/OUQtx7bN+55NSJECWTOKNXneIYpn0p0jTTkh+KYL6fVGGBX0aJ5kaebODzbfvMOfDs172vZ036+DLi3GOqjA7K2UdjdrPtaLhv+kXW3bf5Un93TssQr+aLVlpAJDGp05ip81dzIVpfgHITbVCnPXh/PDqAZ2jlPXu/Pf70GD0Xcb6glkqPD4WxepjalkFGuckVDPpi7MCLcm+SvCk0qptKJ0NH9fawxVkKjVMLZocNtcKDJzjjXNAL+MhFBe77hC817KuGbGzKlbZCHj/r2XPGCXxU8+i0HvQMvujyBHtinublkHLND+rpsHa6tHYLjHRUbEa0i8RmuAd3YpD9Y9uW5aKxSJ1oURhEqI6UB1ecSUN5cqNK8S3fpBfmKJQrmvBXdJsei/cZQSYvhkvzG6aGie3xuNP4XOOEIIgcvOg==;FWSNgoIiYFz31eodqB4hiA=="
+secured: "DWEsH7a9Y4DCizlKhSuqZR42gqpAF7AIeRtIAWYXZjdVFoZH/6qFm7K8VdMV30oL434k4uCkJWp8T6CoQWu6QbwKY4cyjMrf3evgTzWDqP59Tr1NQ7qUlgOU3hmCOm2KQoz5sT9+IPu6Wvz97Tpgaj1khsfCLV/3aPjqoLTerk8LkcbeNQdD2LMs4zkkVk5i4Z1RmeNBCnKd0AFyvoE+uH4cnsdxTV2gVYOC5aCbV5g5wxwwf9gPP4x27mxjVORo1o4KYqPHgU/GF3UnRwknpjDTdUn/oMxbG6xaAdW065OF1TcH/E37boEdTayN6iH6fIpdp+ljacgloHMX5TKDC1oRVrg3/keIhLloHSKKajE=;JEpS4A3LTsGJaEATz32Eeg=="
 ---
 

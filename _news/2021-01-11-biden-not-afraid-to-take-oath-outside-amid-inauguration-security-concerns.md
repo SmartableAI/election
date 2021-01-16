@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Migrant caravan demands Biden administration 'honors its commitments'"
+    excerpt: "A migrant caravan moving from Honduras toward the U.S. border is calling on the incoming Biden administration to honor what it says are \"commitments\" to the migrants moving north, amid fears of a surge at the border when President-elect Joe Biden enters office."
+    publishedDateTime: 2021-01-16T19:44:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dB2jQlxknAE/migrant-caravan-biden-administration-commitments"
+    ampWebUrl: "https://www.foxnews.com/politics/migrant-caravan-biden-administration-commitments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-caravan-biden-administration-commitments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43d8096c-96b6-417b-9e70-d106d78ea892/bc25fb44-5fe3-47a2-9bd7-1ee6ed3cb202/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Former DHS Secretary Wolf: 'Every trust and confidence' Biden inauguration will be secured"
     excerpt: "Former Acting Homeland Secretary Chad Wolf praised the security measures around President-elect Joe Biden's inauguration next week in the wake of last week's deadly Capitol riots."
     publishedDateTime: 2021-01-14T16:41:33Z

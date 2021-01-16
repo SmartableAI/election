@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: How Joe Biden was Donald Trump's kryptonite"
+    excerpt: "President Donald Trump seemed to be a teflon president. It didn't matter how big things seem to get  -- Trump's political career seemed to be impermeable. That was until Trump ran into President-elect Joe Biden.\n    \n"
+    publishedDateTime: 2021-01-16T20:40:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L4kiF46XAHg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/joe-biden-donald-trump-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/joe-biden-donald-trump-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107021907-biden-trump-split-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "At the 11th hour, Trump hands Biden a whole new set of foreign policy headaches "
     excerpt: "His days as president of the United States may be numbered, but Donald Trump is going out of his way to light a string of wildfires for his successor to put out.\n    \n"
     publishedDateTime: 2021-01-13T05:25:55Z
@@ -1502,6 +1518,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3442479/210115-joe-biden-se-426p_6a9bcb2790c0f0189c8e176570053b94.jpg"
         width: 2500
         height: 1656
+        isCached: true
+  - title: "Biden Seeks Quick Start With Executive Actions and Aggressive Legislation"
+    excerpt: "In an effort to mark a clean break from the Trump era, the president-elect plans to roll out dozens of executive orders in his first 10 days on top of a big stimulus plan and an expansive immigration bill."
+    publishedDateTime: 2021-01-16T20:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/16/us/politics/biden-administration-executive-action-legislation.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/16/us/politics/biden-administration-executive-action-legislation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/16/us/politics/biden-administration-executive-action-legislation.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/16/us/politics/16dc-biden-1/16dc-biden-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden Plans Minimalist Trip From Capitol to White House on Inauguration Day"
     excerpt: "Joe Biden’s inaugural committee suggested the traditional crowd-lined ride down Pennsylvania Avenue would be replaced by a “virtual parade.”"
