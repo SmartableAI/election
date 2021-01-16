@@ -1,0 +1,174 @@
+---
+category: news
+title: "Howard University rallied around Kamala Harris. Now the community will watch her take office as vice president."
+excerpt: "Amid threats of violence and an explosion of coronavirus cases, Howard University students and professors celebrate Harris’s ascent."
+publishedDateTime: 2021-01-16T12:06:00Z
+originalUrl: "https://www.washingtonpost.com/local/education/howard-university-kamala-harris-inauguration/2021/01/15/52414b3e-5762-11eb-a08b-f1381ef3d207_story.html"
+webUrl: "https://www.washingtonpost.com/local/education/howard-university-kamala-harris-inauguration/2021/01/15/52414b3e-5762-11eb-a08b-f1381ef3d207_story.html"
+ampWebUrl: "https://www.washingtonpost.com/local/education/howard-university-kamala-harris-inauguration/2021/01/15/52414b3e-5762-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/education/howard-university-kamala-harris-inauguration/2021/01/15/52414b3e-5762-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+type: article
+quality: 105
+heat: -1
+published: false
+
+provider:
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Kamala Harris
+
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ARXQTHBYCEI6PKYDVIU7MVXRHY.jpg&w=1440"
+    width: 1440
+    height: 960
+    isCached: true
+
+related:
+  - title: "As Kamala Harris Makes History, Twitter Creates @SecondGentleman Account"
+    excerpt: "The microblogging platform will archive the Trump Administration's tweets, but a major dispute over Donald Trump's followers remains between the platform and President-elect Joe Biden."
+    publishedDateTime: 2021-01-15T04:41:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1708768/secondgentleman-douglas-emhoff-twitter-account-kamala-harris.jpg"
+        width: 2500
+        height: 1787
+        isCached: true
+  - title: "For friends and allies of Kamala D. Harris, deadly Capitol attacks prompt fresh fears"
+    excerpt: "Pride in the achievement of Harris, soon to be the first Black woman sworn in as vice president, is now mixed with concern for her safety"
+    publishedDateTime: 2021-01-14T16:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/harris-fears-safety/2021/01/13/bbd3d31a-54ff-11eb-a817-e5e7f8a406d6_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/harris-fears-safety/2021/01/13/bbd3d31a-54ff-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/harris-fears-safety/2021/01/13/bbd3d31a-54ff-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WJYTDSCR6MI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Kamala D. Harris’s most trusted adviser: her sister Maya"
+    excerpt: "Kennedy had Bobby, Joe Biden’s sister Valerie once ran his campaigns and Ivanka Trump has been one of the president’s most visible advisers. Kamala D. Harris has her younger sister, Maya Harris. The two are not only extremely close;"
+    publishedDateTime: 2021-01-11T17:55:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/2021/01/11/maya-kamala-harris-sister/?arc404=true"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/resizer/k3ZQvOTLDBZO9_bKaTcrxAw1380=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MEDDNWFIAUI6TEQUERXFSTPF2U.jpg"
+        width: 1484
+        height: 989
+        isCached: true
+  - title: "Oakland Restaurant Week returns — with Kamala Harris specials"
+    excerpt: "Oakland Restaurant Week is back, with a new emphasis for this coronavirus era and some specials honoring native daughter Kamala Harris. With the pandemic hitting the food industry hard, the Visit Oakland organizers of the 11th annual event have added a new focus on the broader culinary community — roundups of caterers,"
+    publishedDateTime: 2021-01-08T03:45:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/07/oakland-restaurant-week-returns-with-kamala-harris-specials/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/SJM-L-OAKRESTWEEK-0106_80699476.jpg?w=1024&h=781"
+        width: 1024
+        height: 781
+        isCached: true
+  - title: "Kamala Harris Says Police ‘Let Extremists Storm the United States Capitol’"
+    excerpt: "We don’t need another rhetorical arsonist at work in Washington. Our country is in a bad enough situation as it is."
+    publishedDateTime: 2021-01-07T21:54:00Z
+    webUrl: "https://www.nationalreview.com/corner/kamala-harris-says-police-let-extremists-storm-the-united-states-capitol/"
+    ampWebUrl: "https://www.nationalreview.com/corner/kamala-harris-says-police-let-extremists-storm-the-united-states-capitol/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/kamala-harris-says-police-let-extremists-storm-the-united-states-capitol/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 73
+    images:
+      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/01/kamala-harris-transition-headquarters.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "In a 50-50 Senate, Kamala Harris can sign off on $2,000 stimulus checks and more"
+    excerpt: "Kamala Harris suddenly has been handed all kinds of power to get people $2,000 stimulus checks, provide money to fight climate change and win confirmation of President-elect Joe Biden’s nominees. Because Georgia Democratic Senate candidates Ralph Warnock and Jon Ossoff won Tuesday,"
+    publishedDateTime: 2021-01-07T13:00:00Z
+    webUrl: "https://www.sanluisobispo.com/news/california/article248310295.html"
+    ampWebUrl: "https://amp.sanluisobispo.com/news/california/article248310295.html"
+    cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/california/article248310295.html"
+    type: article
+    provider:
+      name: SanLuisObispo
+      domain: sanluisobispo.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998039001/a867c7ec-2ba3-4e9d-ba71-c7ccbcb6ef86/42f6d6a1-4a4b-4508-8770-38ab32c3d4d8/1280x720/match/image.jpg"
+        width: 1197
+        height: 720
+        isCached: true
+  - title: "Alveda King slams Kamala Harris for plagiarizing her uncle, Martin Luther King Jr."
+    excerpt: "The niece of late civil rights leader Dr. Martin Luther King, Jr. slammed Vice President-elect Kamala Harris for invoking the name of her late uncle, arguing that her position on abortion proves that the two have diametrically opposed worldviews."
+    publishedDateTime: 2021-01-07T21:45:00Z
+    webUrl: "https://www.christianpost.com/news/alveda-king-slams-kamala-harris-for-plagiarizing-mlk-jr.html"
+    ampWebUrl: "https://www.christianpost.com/amp/alveda-king-slams-kamala-harris-for-plagiarizing-mlk-jr.html"
+    cdnAmpWebUrl: "https://www-christianpost-com.cdn.ampproject.org/c/s/www.christianpost.com/amp/alveda-king-slams-kamala-harris-for-plagiarizing-mlk-jr.html"
+    type: article
+    provider:
+      name: The Christian Post
+      domain: christianpost.com
+    quality: 69
+    images:
+      - url: "https://cdn.christianpost.com/files/cache/image/13/97/139770_w_450_301.jpg"
+        width: 450
+        height: 301
+        isCached: true
+  - title: "Pokin Around: Galena city Facebook page posts, then removes hateful meme of Kamala Harris"
+    excerpt: "Galena's FB page boasts, \"Galena is the definition of Small Town America.\" After seeing a screenshot of the meme, I pray that's not true."
+    publishedDateTime: 2021-01-13T00:00:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/local/ozarks/2021/01/13/galena-removes-hateful-kamala-harris-meme-city-facebook-page/4149598001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4149598001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4149598001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/13/PSPR/11dada89-2bdc-4efd-80d8-47d7ac243385-desktop.JPG?auto=webp&crop=548,309,x0,y56&format=pjpg&width=1200"
+        width: 1200
+        height: 677
+        isCached: true
+  - title: "I’m an American teenager of South Indian descent. Here’s what Kamala Harris means to me"
+    excerpt: "Seeing Kamala Harris about to become U.S. vice president has largely fulfilled a childhood dream of mine, writes 15-year-old Disha Cattamanchi. \"Although I only see her through a TV screen, I see so much of myself and what I"
+    publishedDateTime: 2021-01-14T14:00:00Z
+    webUrl: "https://www.seattletimes.com/life/im-an-american-teenager-of-south-indian-descent-heres-what-kamala-harris-means-to-me/"
+    ampWebUrl: "https://www.seattletimes.com/life/im-an-american-teenager-of-south-indian-descent-heres-what-kamala-harris-means-to-me/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/life/im-an-american-teenager-of-south-indian-descent-heres-what-kamala-harris-means-to-me/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 47
+
+secured: "sH5b5t7rq6i4C1iz+jqk21UtN/d1v4oigmT1Wz2Lw1KANTc8I0GdD4eLNl/zKAKTJwCaG3OUMM6+aRRx9wrUKAyhWUjao27FFLcghOS/wiZrkpaXTFgiKiUnbADvYo55YGwGLm4ixXHtOYWybVZhqU1wiqjbvX8uOWH5wLJTr/3lI472N8lQeb5RDM/BrjSUbkxKoqoyPLHJFakbuONH7nNkzVZ+lnVYvLWf2V1NG9cgY0pg4dHCb5ksrJkU4/wtkvpKGsaZcUTB6bUgxMBWFzwOqWAEuJtScu3PgrmwDa+IEa7erAlDXV9JCfZxlh3aDSi35tw5VwgsduTVFC2iLCxqUdm62NJtp6x3VKWpQvk=;f87IDUUdwAOsu0/lp/hsmQ=="
+---
+

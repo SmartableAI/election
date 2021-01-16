@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-trades-shots-with-top-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Most Republicans want GOP in Congress to stand up to Biden: poll"
+    excerpt: "When President-elect Joe Biden is inaugurated on Wednesday, Democrats will control the White House, as well as both houses of Congress."
+    publishedDateTime: 2021-01-16T12:48:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/asFPbh9d9OM/most-republicans-want-gop-congress-stand-up-biden-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/most-republicans-want-gop-congress-stand-up-biden-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/most-republicans-want-gop-congress-stand-up-biden-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Former Biden adviser Moe Vela's Big Idea: Republicans 'need to feel heard' by new administration"
     excerpt: "Moe Vela, who is the former director of management and senior advisor to then-Vice President Biden, told Fox News that among other things, moderate Republicans with whom Biden shares values will \"need to feel heard\" by the new administration. "
     publishedDateTime: 2021-01-15T13:10:19Z

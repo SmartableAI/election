@@ -7,7 +7,7 @@ originalUrl: "https://www.theguardian.com/us-news/video/2021/jan/08/donald-trump
 webUrl: "https://www.theguardian.com/us-news/video/2021/jan/08/donald-trump-recognises-new-administration-after-us-capitol-riot-video"
 type: article
 quality: 103
-heat: 123
+heat: 103
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Donald Trump's bitter fight to ban TikTok in the US looks set to fail after administration agrees to delayed legal deadline"
-    excerpt: "Experts say a shift in legal deadline paves the way for President-elect Joe Biden to drop the suit."
-    publishedDateTime: 2021-01-13T17:27:00Z
-    webUrl: "https://www.businessinsider.com/donald-trumps-tiktok-ban-likely-just-ended-with-legal-deadline-2021-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-    images:
-      - url: "https://i.insider.com/5fff2702a8de7700187d3a0c?width=1200&format=jpeg"
-        width: 921
-        height: 460
-        isCached: true
 
 secured: "m9Rx1MyYWExMXPhbYqggq/qR9vNu/JacjU3zrC46faGmOHas1YDJ01PITYdwZOXpsYEmRauu5GGZhUXNohaV2EzwHUCT8AJyYzRbTuQWb9tTF1PObGQ7qzk8aOebLlgl1E8zWdWNZj9Y5g1pUwI974wxbN2647hlCIcK8aK25ok9fNcXPJKXf9d5IO2H8W6YhFlRD+Fc95WWAc6kncdrmURVveB3HfN6iZfHe+mlHkwbV2JIybFc13ZpjUJSSy0Zo6dsWgSzxgO2f19NzHFaRe/is4Yi1qASBxwhHdI29Da6V7wmmvJx47V+f6E1yG6FKVjncG6nDSUhES988tSoW+Pk16T1tD0i9yV2vTLJZ1tUqFgVk7iOX0hOVm3K2wtxwqdFYFQHPxa4/R/rEJ0h7yMZsBPlWpHl+uZr4+/yQRwpy6usxpTzf3FQ9uqXwJ1BpmZyDiX+T41895nIZOcmvFscWviSHDkdmwV5VL/O2m9jbUNROOnxg9KspH2YYvoAaM19d8fM304/opduv0NYJg==;ilKMBbPcQRJXjiw68/qNNA=="
 ---

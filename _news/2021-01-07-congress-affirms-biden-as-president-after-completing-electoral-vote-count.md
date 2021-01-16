@@ -1472,6 +1472,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "What we know about potential armed protests ahead of Joe Biden's inauguration"
+    excerpt: "Washington, DC, and states across the country are heightening security and preparing reinforcements this week ahead of potential armed protests from Saturday up to at least Inauguration Day on Wednesday."
+    publishedDateTime: 2021-01-15T22:57:00Z
+    webUrl: "https://www.cnn.com/2021/01/15/us/inauguration-armed-protests-what-we-know/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/us/inauguration-armed-protests-what-we-know/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/us/inauguration-armed-protests-what-we-know/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 132
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114105248-03-us-capitol-security-0114-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Live Updates: Joe Biden Is Certified as the 46th President of the United States"
     excerpt: "Congress ratified Mr. Biden’s election victory after a day in which a mob of Trump supporters stormed the Capitol. President Trump issued a statement saying there would be an “orderly transition” on Jan."
     publishedDateTime: 2021-01-07T04:18:00Z

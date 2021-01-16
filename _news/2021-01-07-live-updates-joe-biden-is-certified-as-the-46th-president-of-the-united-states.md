@@ -1488,6 +1488,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "What we know about potential armed protests ahead of Joe Biden's inauguration"
+    excerpt: "Washington, DC, and states across the country are heightening security and preparing reinforcements this week ahead of potential armed protests from Saturday up to at least Inauguration Day on Wednesday."
+    publishedDateTime: 2021-01-15T22:57:00Z
+    webUrl: "https://www.cnn.com/2021/01/15/us/inauguration-armed-protests-what-we-know/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/us/inauguration-armed-protests-what-we-know/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/us/inauguration-armed-protests-what-we-know/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 132
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114105248-03-us-capitol-security-0114-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'A call for unity': Biden lays out vast federal expansion of pandemic response"
     excerpt: "The plan will essentially federalize the current patchwork pandemic response, including spending $20 billion to speed up vaccinations."
     publishedDateTime: 2021-01-15T09:24:00Z

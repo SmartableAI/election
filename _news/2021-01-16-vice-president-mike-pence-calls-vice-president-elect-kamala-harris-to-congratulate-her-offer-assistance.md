@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
-excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
-publishedDateTime: 2021-01-15T22:44:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
+excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and ..."
+publishedDateTime: 2021-01-16T11:53:00Z
+originalUrl: "https://www.dailypress.com/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html"
+webUrl: "https://www.dailypress.com/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html"
+ampWebUrl: "https://www.dailypress.com/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
 type: article
 quality: 83
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Daily Press
+  domain: dailypress.com
 
 topics:
   - Election
@@ -22,7 +22,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/Z3qJoKYgp7I25-Bfj9OgWDYkWb8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7RFR7OAVVHIHHAVMBLL7YTF44.jpg"
+  - url: "https://www.dailypress.com/resizer/Z3qJoKYgp7I25-Bfj9OgWDYkWb8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7RFR7OAVVHIHHAVMBLL7YTF44.jpg"
     width: 1200
     height: 898
     isCached: true
@@ -43,22 +43,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-departure-texas-03-ap-jef-210112_1610466035305_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-    excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
-    publishedDateTime: 2021-01-16T06:01:00Z
-    webUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 150
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "House passes measure calling on Pence to remove Trump"
     excerpt: "The House on Tuesday passed legislation calling on Vice President Pence to tap his Constitutional authority to remove President Trump from office in response to the president’s role in the deadly mob attack on the Capitol last week."
@@ -633,20 +617,36 @@ related:
         height: 336
         isCached: true
   - title: "Mike Pence calls Kamala Harris to offer congratulations"
-    excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
-    publishedDateTime: 2021-01-16T06:05:00Z
-    webUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations"
-    ampWebUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations/amp"
-    cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations/amp"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
+    publishedDateTime: 2021-01-15T20:18:00Z
+    webUrl: "https://www.denverpost.com/2021/01/15/mike-pence-calls-kamala-harris-to-offer-congratulations/"
+    ampWebUrl: "https://www.denverpost.com/2021/01/15/mike-pence-calls-kamala-harris-to-offer-congratulations/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/01/15/mike-pence-calls-kamala-harris-to-offer-congratulations/amp/"
     type: article
     provider:
-      name: The Oklahoman
-      domain: oklahoman.com
+      name: The Denver Post
+      domain: denverpost.com
     quality: 100
     images:
-      - url: "https://cdn2.newsok.biz/cache/1280x720_blur-95d4cd09934c1de7935d5144c353acbf.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/APTOPIX_Pence_Inauguration_55103.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-16T07:03:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Mike-Pence-calls-Kamala-Harris-to-offer-15874325.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/Mike-Pence-calls-Kamala-Harris-to-offer-15874325.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Mike-Pence-calls-Kamala-Harris-to-offer-15874325.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 100
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/14/37/20498416/5/375x250.jpg"
+        width: 375
+        height: 249
         isCached: true
   - title: "Thousands of National Guard members deployed in Washington ahead of Biden inauguration"
     excerpt: "Thousands of National Guard's were deployed to Washington on January 12, ahead of the inauguration of Joe Biden in the wake of the Capitol riots."
@@ -969,6 +969,6 @@ related:
       domain: seattletimes.com
     quality: 27
 
-secured: "fSbEVwbTRETd85ohito/n6XGrSMT44nkFW8oQE3ey6aM5vQzlHJj5kHF5IuBzYnrK2EAbzt2qFx+gHOS65iakMfHT5JU80fG5aJehDVbweV+48byxL+HdKWKMrPCNuPt9Gtzpmqte/zhKW/FOg3X0rYQSta10As+Zud8iicqB3qExrr1j81qtQvGe5hPHnCLxu1tCJr/XitPwgqoYVZVRWWhNA75uFOkVTYYoyE8iBuQZuWTfINkak1MEhzhUMCnIr7IfIoCsjsk7QfHKXPJyTQ6/kncK9cAegKLRIXO7wcWSW6sqLgAojeU5s/XH+CauPTR3vhcwUlly7cWGtb/pjfE+5Ow+lxF+O8e3VPsyj6J08+3f+07pcb8vHT9yguYfKm+ItZYgNQYls9eq8b7GVq3SgdmxYsfmecF4szz+hv2Ne+ACR89VQx7FiZejyAb/v2kGB6gQnKWicmHdbsZiKsQvXFSrkHktVZT2ZWcVLClmPfSv2SoDqxCDg0QJhiIuH9gwcCK56gT6c2Bnwi5SQ==;T0ImJ/il2NQqML62AUYSsQ=="
+secured: "eOL7oj42N0Oko1wvCBK0myoxskp9lXsli+sAPOtXWUGH0lpzyc9Gh+87vSK3CWV6g5d5MlHFqyzpWy4z2zmRvll2GEW46jrYiMKRQ3rLzke+vo9hZzWU/56nscCyLk1RVQ5WvCoszwpRSDBHHsDfTUHgBZTe5mvzTnBCdKHm9drKbfq/mcvcgfNn8NpFh/T8rUilawKIv2BuEI2119v4YIZl0IcuUm1W/GaikHEq82mzuAav3OogO51jSN9T1IqEGtrKWeVOM5QaYD7OPLGfe5wOlG6uA53xzmJfx/8AjxlOJmxPFjv3TqPEGOx6sNKkg9GsSXafiT4cKFZdFtw3AJxrKJbhH6wK495UvezuE40=;M2vjekoKX4eIvZETZTfV6w=="
 ---
 

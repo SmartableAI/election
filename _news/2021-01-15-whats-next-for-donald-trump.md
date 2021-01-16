@@ -997,10 +997,26 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden minimum wage proposal could lift more than 1 million workers out of poverty"
+    excerpt: "Biden's $1.9T coronavirus relief plan 08:37 President-elect Joe Biden's proposal to more than double the federal minimum wage would provide an urgently pay hike to millions of low-income workers and help stem inequality in the U.S., economists and labor ..."
+    publishedDateTime: 2021-01-16T12:20:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-minimum-wage-proposal-15-dollars/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-minimum-wage-proposal-15-dollars/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-minimum-wage-proposal-15-dollars/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2017/05/11/5336839b-a019-4a00-b23f-b7ecff36d89b/thumbnail/1200x630/410fe7a3a36baf030734fd1e03448f73/wages-rtx2a0yj.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Palestinians announce first elections in 15 years, on eve of Biden era"
     excerpt: "Palestinian President Mahmoud Abbas announced parliamentary and presidential elections on Friday, the first in 15 years, in an effort to heal long-standing internal divisions."
     publishedDateTime: 2021-01-16T02:04:00Z
-    webUrl: "https://www.reuters.com/article/palestinians-election-int/palestinian-authority-sets-dates-for-legislative-and-presidential-elections-idUSKBN29K2CB"
+    webUrl: "https://www.reuters.com/article/us-palestinians-election/palestinians-announce-first-elections-in-15-years-on-eve-of-biden-era-idUSKBN29K2C9"
     type: article
     provider:
       name: Reuters
@@ -1676,7 +1692,7 @@ related:
   - title: "Biden says he feels safe ahead of inauguration"
     excerpt: "Top News Biden says he feels safe ahead of inauguration. Posted . U.S. President-elect Joe Biden said on Friday that he feels safe, after a reporter asked him if he felt comfortab"
     publishedDateTime: 2021-01-16T01:56:00Z
-    webUrl: "https://www.reuters.com/video/watch/biden-says-he-feels-safe-ahead-of-inaugu-id724332851?chan=94w50zwf"
+    webUrl: "https://www.reuters.com/video/watch/idOVDVBMOKF"
     type: article
     provider:
       name: Reuters
@@ -1744,6 +1760,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547574508&r=LYNXMPEH0C05S&w=800"
         width: 800
         height: 577
+        isCached: true
+  - title: "U.S. state capitals on edge for armed protests as Trump presidency nears end"
+    excerpt: "Trump marches in all 50 state capitals this weekend, erecting barriers and calling in their National Guards to try to prevent the kind of violent attack that rattled the nation on Jan. 6."
+    publishedDateTime: 2021-01-16T12:01:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/u-s-state-capitals-on-edge-for-armed-protests-as-trump-presidency-nears-end-idUSKBN29L0CS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548028753&r=LYNXMPEH0F096&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "President Donald Trump impeached by US House for incitement of insurrection at Capitol; 1st US president impeached twice"
     excerpt: "President Donald Trump impeached by US House for incitement of insurrection at Capitol; 1st US president impeached twice"

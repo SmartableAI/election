@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Most Republicans want GOP in Congress to stand up to Biden: poll"
+    excerpt: "When President-elect Joe Biden is inaugurated on Wednesday, Democrats will control the White House, as well as both houses of Congress."
+    publishedDateTime: 2021-01-16T12:48:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/asFPbh9d9OM/most-republicans-want-gop-congress-stand-up-biden-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/most-republicans-want-gop-congress-stand-up-biden-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/most-republicans-want-gop-congress-stand-up-biden-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "L1peyeTs7pdvfg4bezFiB5E5VKTLPVhvf9CRGP6kCyCn9QPjo0QD4mpWof70+T0mN9NTeIKzpAbC5/rQJuxN/KODkS22TwMGzsogpZuUh4/Af/9VmoLAe0k33YrtOS5gsjyrOYIa6YT9E+qGkTAHsOPHqopPzMEWz7z3UerC9+om4c2J/0HiQuMyMeQDYIfI95rOwtFmlYCjuoYP+9Rxk09LzxYq7puYmh5MOI6PIaH2i4ibSsyIDBzmC6KduHNaozDCg38G5llfk5T3UX16EFob48WT9q2Jytugv6/a3pOe2LBHdKOk8ud3LVkjD7FRtpGTVUuzakt/WQ5WaMclN/qlVdIV+IZGvhNNmXwep0E=;j/yPEYx03snJtANhlk5yBw=="
 ---
