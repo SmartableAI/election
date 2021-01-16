@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-presidency/index.html"
 type: article
 quality: 225
-heat: 1325
+heat: 1345
 published: true
 
 provider:
@@ -668,6 +668,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/13/arts/13NEA3/13NEA3-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Sonia Sotomayor will swear in Kamala Harris on Inauguration Day."
+    excerpt: "Vice President-elect Kamala Harris will be sworn in on Wednesday by Justice Sonia Sotomayor, a ceremony in which the first woman of color to become vice president will take her oath from the first woman of color to sit on the Supreme Court."
+    publishedDateTime: 2021-01-16T15:47:00Z
+    webUrl: "https://www.nytimes.com/2021/01/16/us/politics/sotomayor-swear-in-harris.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/16/us/politics/sotomayor-swear-in-harris.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/16/us/politics/sotomayor-swear-in-harris.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/16/us/politics/16transition-briefing-harris-sotomayor1/16transition-briefing-harris-sotomayor1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Kamala Harris gains prominent new role thanks to Democrats' Senate majority"
     excerpt: "Kamala Harris’s vice presidential portfolio was nebulous before last week. But thanks to Democrats’ upset victories in two Georgia Senate run-offs, Harris has unexpectedly earned a new title: Senate tie breaker."

@@ -82,7 +82,7 @@ related:
         isCached: true
   - title: "As Trump leaves the stage, Republicans grapple with new conspiracy caucus"
     excerpt: "Donald Trump may be leaving the White House in a few days, but the umbrella of conspiracy theories he inspired are only just arriving in Washington.\n    \n"
-    publishedDateTime: 2021-01-16T18:13:14Z
+    publishedDateTime: 2021-01-16T20:34:42Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mhb4pVgfOug/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/qanon-gop-trump-congress-future/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/qanon-gop-trump-congress-future/index.html"

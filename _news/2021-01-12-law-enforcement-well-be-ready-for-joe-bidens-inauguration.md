@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/law-enforcement-ready-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1709960/trump-protesters-us-capitol.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Inauguration to include programming aimed at kids along with a message from Jill Biden"
+    excerpt: "The Presidential Inaugural Committee announced it will offer programming focused on getting families and their kids involved in next week's ceremony."
+    publishedDateTime: 2021-01-16T22:56:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2021/01/16/jill-biden-make-appearance-during-inaugural-tv-programming/4192038001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4192038001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4192038001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/4343dd98-09dc-40b5-8205-953d20781f07-AP_Election_2020_Jill_Biden_2.jpg?auto=webp&crop=4199,2362,x0,y213&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden has accepted invitation to stay at Blair House the night before inauguration, State Department says"
     excerpt: "The Trump administration has offered President-elect Joe Biden the use of Blair House, the official residence for guests of the president, on the eve of his inauguration. Biden has accepted the offer to stay at the historic home,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-bor
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -118,6 +118,20 @@ related:
     quality: 105
     images:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547913133&r=LYNXMPEH0D1BB&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "U.S. capitals on edge ahead of possible pro-Trump armed protests"
+    excerpt: "Ten days after rioters breached the U.S. Capitol in a deadly attack that stunned the world, cities nationwide were girding for a potential new wave of violent protests over the weekend, erecting barriers and deploying thousands of National Guard troops."
+    publishedDateTime: 2021-01-16T22:10:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-protests/u-s-capitals-on-edge-ahead-of-possible-pro-trump-armed-protests-idUSKBN29L0DA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548055353&r=LYNXMPEH0F0IM&w=800"
         width: 800
         height: 533
         isCached: true

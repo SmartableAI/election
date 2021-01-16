@@ -2,9 +2,9 @@
 category: news
 title: "U.S. capitals on edge for armed protests as Trump presidency nears end"
 excerpt: "Washington, D.C., was locked down and U.S. law enforcement officials geared up for pro-Trump marches in all 50 state capitals this weekend, erecting barriers and deploying thousands of National Guard troops to try to prevent the kind of violent attack that rattled the"
-publishedDateTime: 2021-01-16T17:28:00Z
-originalUrl: "https://www.reuters.com/article/idUSKBN29L0CS?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/idUSKBN29L0CS?edition-redirect=ca"
+publishedDateTime: 2021-01-16T22:21:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-trump-protests/u-s-capitals-on-edge-for-armed-protests-as-trump-presidency-nears-end-idUSKBN29L0DA"
+webUrl: "https://www.reuters.com/article/uk-usa-trump-protests/u-s-capitals-on-edge-for-armed-protests-as-trump-presidency-nears-end-idUSKBN29L0DA"
 type: article
 quality: 105
 heat: -1
@@ -1773,6 +1773,31 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Heightened security measures in place ahead of Biden's inauguration"
+    excerpt: "Heightened security measures are in place in Washington and across the country ahead of President-elect Joe Biden's inauguration this week. CBS News congressional correspondent Nikole Killion reports on what Washington,"
+    publishedDateTime: 2021-01-16T21:51:00Z
+    webUrl: "https://www.cbsnews.com/video/heightened-security-measures-in-place-ahead-of-inauguration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/16/35c8e5a0-ef21-4896-bc55-6ebf589508bd/thumbnail/1200x630/3d8c28b090446f909270aeb27cd3e0e4/cbsn-fusion-heightened-security-measures-in-place-ahead-of-inauguration-thumbnail-627840-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "INAUGURATION EXPLAINER: Biden's event will be very different"
+    excerpt: "WASHINGTON (AP) — Between the still-raging pandemic and suddenly very real threat of violence, the inauguration of Joe Biden and Kamala Harris next Wednesday promises to be one of the most unusual in American history."
+    publishedDateTime: 2021-01-16T22:51:00Z
+    webUrl: "https://www.businessinsider.com/inauguration-explainer-bidens-event-will-be-very-different-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/inauguration-explainer-bidens-event-will-be-very-different-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/inauguration-explainer-bidens-event-will-be-very-different-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "US stock futures rise and oil nears 1-year high as investors shrug off Donald Trump impeachment and cheer stimulus"
     excerpt: "The Democrats are poised to impeach Donald Trump again, but investors are betting on economic recovery and are buying stocks and commodities."
     publishedDateTime: 2021-01-13T09:49:00Z
@@ -2568,6 +2593,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "vQQzaxg+cFXyRoM5bE8BMZRaGGk3AXonKVSTef17c36OqhRq1nmRHirfM73gJ5EaLw75weJiiGLKTBZFbWeYqVWUPq6WNoYNcdJNi2hkZL56ARZZFjJs+5uEz7EYhc+QMrs1UCc/ksDjVH/DBFNGbx+mTlKqFuw9EBcgPMdTdJNuXlpaFV+wrNBvtsvV72u+lyse1/w1EKfkbkcPQLVzLZCLn8QL72afesQmhebkm9yabm65x+00QTv1VSN7JllCyfB8sONW338jwU5I7/mhWMcdvGnI78GfBIN0vVbiG4MAfpWBHa3ifE6njV487sjhFInYH1AdLA0j3t3ZK/SoJlOv1I+RigpuuSxEpZGx3aQ=;hmP2xVOIt0FLsHZ/dSOaKw=="
+secured: "jrqVI5C0Hr3bzTTxZ/iE+J+7nP2DPKbRXilUTkVfwZbVivCoAC6WmNU6NB/72ehzRmuSY87DRiXWxsD8TvEMC07Ko8BhwG+GbCKKzxkoe8odlTlaIzgOInF5iy+LAePT+O94BlLjhkt7ydos9add7UOtibvKcmGvLhh5+C+CxoJN5TgA6Wq1GuNzsCiqEPpuk2QBlkeq8cySvKzyGRR2SOLF2WUc4b/PuoL9hPBGDFyYun/ymQKWlSxn08XEXin7M9n8qgIjQj7yHGzx5JEYJqZIZ6NQFcmAvy+bLNexnkribabL9VMxy5x2+TvOC82oKDhUb+Hs40G5tAzh2yuu5zcdUNzCfoFrT8TN5enxqSQ=;l0PWHzNIE3ZqLN8wivNxkw=="
 ---
 

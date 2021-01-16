@@ -108,6 +108,20 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's"
+    publishedDateTime: 2021-01-16T21:14:00Z
+    webUrl: "https://apnews.com/article/mike-pence-congratulate-kamala-harris-9cf431138cceeda9f6f7104e0fa20487"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 130
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/4444eb45d10847adbfe84daefb893fa0/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     publishedDateTime: 2021-01-15T19:17:00Z
@@ -285,20 +299,20 @@ related:
         height: 404
         isCached: true
   - title: "Trump administration carries out 13th and final execution"
-    excerpt: "The Trump administration early Saturday carried out its 13th federal execution since July, an unprecedented run that concluded just five days before the inauguration of President-elect Joe Biden."
-    publishedDateTime: 2021-01-16T08:19:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-01-15/us-carries-out-13th-and-final-execution-during-trump-administration-most-for-any-presidency-in-more-than-120-years"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-15/us-carries-out-13th-and-final-execution-during-trump-administration-most-for-any-presidency-in-more-than-120-years?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-15/us-carries-out-13th-and-final-execution-during-trump-administration-most-for-any-presidency-in-more-than-120-years?_amp=true"
+    excerpt: "President Donald Trump’s Justice Department resumed federal executions last year following a 17-year hiatus. No president in more than 120 years had overseen as many federal executions."
+    publishedDateTime: 2021-01-16T10:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-administration-carries-13th-final-execution-75292062"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-administration-carries-13th-final-execution-75292062"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-administration-carries-13th-final-execution-75292062"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/6295fdd/2147483647/strip/true/crop/5731x3743+0+37/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F99%2Ff8%2F9d5c3bca8c0764f9dee229b64809%2Fef30c97963e448d6b774d434aa29b835"
-        width: 320
-        height: 209
+      - url: "https://s.abcnews.com/images/US/WireAP_45df14acc72d4f259cd939ad5bb55f4b_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Donald Trump's Inauguration Boycott Welcomed by Republicans and Democrats"
     excerpt: "The president announced he will not attend ahead of his ban from Twitter, as a backlash grows against him over the recent events at the Capitol."
@@ -868,6 +882,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Supreme Court Justice Sonia Sotomayor to swear in Kamala Harris as vice president"
+    excerpt: "Vice President-elect Kamala Harris will take oath of office on a Bible belonging to Thurgood Marshall during inaugural ceremony at the U.S. Capitol."
+    publishedDateTime: 2021-01-16T22:15:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/01/16/inauguration-sonia-sotomayor-swear-kamala-harris-vice-president/4191676001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4191676001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4191676001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/11/USAT/c5bf9530-87e0-4af2-b3d8-20bc45f8cc5d-AFP_AFP_8YE8DQ.jpg?auto=webp&crop=3839,2159,x1,y360&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'Washed out mess': Vogue puts Kamala Harris on the cover, but Twitter users aren't happy"
     excerpt: "Vice President-elect Kamala Harris is splashed on the February cover of Vogue, but social media isn't crazy about the magazine's photo choice."
     publishedDateTime: 2021-01-10T22:39:00Z
@@ -1008,6 +1038,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "DWEsH7a9Y4DCizlKhSuqZR42gqpAF7AIeRtIAWYXZjdVFoZH/6qFm7K8VdMV30oL434k4uCkJWp8T6CoQWu6QbwKY4cyjMrf3evgTzWDqP59Tr1NQ7qUlgOU3hmCOm2KQoz5sT9+IPu6Wvz97Tpgaj1khsfCLV/3aPjqoLTerk8LkcbeNQdD2LMs4zkkVk5i4Z1RmeNBCnKd0AFyvoE+uH4cnsdxTV2gVYOC5aCbV5g5wxwwf9gPP4x27mxjVORo1o4KYqPHgU/GF3UnRwknpjDTdUn/oMxbG6xaAdW065OF1TcH/E37boEdTayN6iH6fIpdp+ljacgloHMX5TKDC1oRVrg3/keIhLloHSKKajE=;JEpS4A3LTsGJaEATz32Eeg=="
+secured: "MgCjGd+sGySAYCzrjuWosNzdxUWnndy9XPmRD+gN+sgxeFBktkRKEWMq8/VEbjLikfXvuI1bjKGTiDpeUfbu40ajKfOUrz8rNzjWVRP52u2uo88miM9T1Lnus4PWrJSspqzH6Js6E2+/I6gNNW8j4f2UVINGkOK/CJ6S5LvKrUnMskPTme/AW8pdbm1e8LBXkePzHSFKC1c55EeMHfAficj3P0Js+B3g7TV1x5nzoAgmhJBGvy0hxAelBi9JpUG1UPKaF8gCyf/o7wi7mOwoE2fV1sNCV+YAkrYP6SrXyt9SMkMwv5Lw9Oh9Utj7GnlWTDnrZK+ebRZq+HVNKN6qArNzwCw6zKt9O8x5GDE+C8s=;ggbGOp5+pJrXwuXOVdw/MQ=="
 ---
 

@@ -135,6 +135,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "U.S. capitals on edge ahead of possible pro-Trump armed protests"
+    excerpt: "Ten days after rioters breached the U.S. Capitol in a deadly attack that stunned the world, cities nationwide were girding for a potential new wave of violent protests over the weekend, erecting barriers and deploying thousands of National Guard troops."
+    publishedDateTime: 2021-01-16T22:10:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-protests/u-s-capitals-on-edge-ahead-of-possible-pro-trump-armed-protests-idUSKBN29L0DA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548055353&r=LYNXMPEH0F0IM&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Are Republicans headed for a pro-Trump, anti-Trump civil war? ‘Hell yes, we are,’ says Illinois’ Adam Kinzinger."
     excerpt: "In Washington, Republicans are particularly concerned about a handful of extreme-right House members who could run for Senate in swing states, potentially tarnishing the party in some of the most politically important areas of the country."
     publishedDateTime: 2021-01-16T20:37:00Z

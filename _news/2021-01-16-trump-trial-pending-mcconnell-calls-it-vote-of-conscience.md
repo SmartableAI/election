@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnel
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -77,6 +77,17 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Trump trial pending, McConnell calls it 'vote of conscience'"
+    excerpt: "President Donald Trump's is likely to start after Joe Biden's inauguration, and the Republican leader, Mitch McConnell, is telling senators their decision on whether to convict the outgoing president over the Capitol riot will be a “vote of conscience."
+    publishedDateTime: 2021-01-16T22:37:00Z
+    webUrl: "https://www.businessinsider.com/trump-trial-pending-mcconnell-calls-it-vote-of-conscience-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-trial-pending-mcconnell-calls-it-vote-of-conscience-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-trial-pending-mcconnell-calls-it-vote-of-conscience-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Senate Majority Leader Mitch McConnell is inclined to vote to convict Trump in an impeachment trial, new report says"
     excerpt: "House Minority Leader Kevin McCarthy is also talking to GOP colleagues about whether he should ask Trump to resign, The New York Times reports."
     publishedDateTime: 2021-01-13T03:56:00Z

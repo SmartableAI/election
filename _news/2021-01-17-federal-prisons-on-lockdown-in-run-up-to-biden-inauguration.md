@@ -1759,10 +1759,35 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Heightened security measures in place ahead of Biden's inauguration"
+    excerpt: "Heightened security measures are in place in Washington and across the country ahead of President-elect Joe Biden's inauguration this week. CBS News congressional correspondent Nikole Killion reports on what Washington,"
+    publishedDateTime: 2021-01-16T21:51:00Z
+    webUrl: "https://www.cbsnews.com/video/heightened-security-measures-in-place-ahead-of-inauguration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/16/35c8e5a0-ef21-4896-bc55-6ebf589508bd/thumbnail/1200x630/3d8c28b090446f909270aeb27cd3e0e4/cbsn-fusion-heightened-security-measures-in-place-ahead-of-inauguration-thumbnail-627840-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "INAUGURATION EXPLAINER: Biden's event will be very different"
+    excerpt: "WASHINGTON (AP) — Between the still-raging pandemic and suddenly very real threat of violence, the inauguration of Joe Biden and Kamala Harris next Wednesday promises to be one of the most unusual in American history."
+    publishedDateTime: 2021-01-16T22:51:00Z
+    webUrl: "https://www.businessinsider.com/inauguration-explainer-bidens-event-will-be-very-different-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/inauguration-explainer-bidens-event-will-be-very-different-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/inauguration-explainer-bidens-event-will-be-very-different-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "U.S. capitals on edge for armed protests as Trump presidency nears end"
     excerpt: "Washington, D.C., was locked down and U.S. law enforcement officials geared up for pro-Trump marches in all 50 state capitals this weekend, erecting barriers and deploying thousands of National Guard troops to try to prevent the kind of violent attack that rattled the"
-    publishedDateTime: 2021-01-16T17:28:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN29L0CS?edition-redirect=ca"
+    publishedDateTime: 2021-01-16T22:21:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-protests/u-s-capitals-on-edge-for-armed-protests-as-trump-presidency-nears-end-idUSKBN29L0DA"
     type: article
     provider:
       name: Reuters
@@ -2568,6 +2593,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "CA9vZ9c0YU4/xA9LSL1h9tgrqvTpXda4fZKh5fCYmeSjMfg14x0sGh4QBFWjNVBsD2dzFKgaSc1uGDZY6O/X5EN4Aevg/ODTZq0vCIzgRJq0axcipMIxe3pvyxE+adZLBg4AGSxizIhXqZhVjTuEEzhdMOYiFuLQVIUQK7hjVQclTNBJT7jNC+X6P0Q18sLWCMm+MQM9K2mtVitaqeYZqJmNNMkY+8YIbvMk2tTcKdhlg7QFPyrz3JF8EJbCQDDew7vJa0t5wDZD6D+dg8o7dAuvvY+k6HFPyhpiV01/dlGFc+cMk6mIaWwrkAa+SoohGDvcgYUA5aPePcbHmtHpckC0laRvu/6ypM9YXHlQP6Q=;SCbLRlymamjNN7Lqk5XQPQ=="
+secured: "Qc5PDJsrCYo6feY9aixUGoAh+uBAobwn06ze6ZM89JFdMIosJm0DbjXNK2XluYXCAYpXjKoWzAMABBmpXnMejPm+hUHiGAQIjPpXzOhMaTfE9IJCBiVw7J99+A9DdM8IdmtR5/aPsiXhEX7E1j9NgB7L7qlHTC/NxDG/VDPY5coxT8cV/PS42/8rzvovSLIO6DXUIcNHuWRo+Dc9LsbBHqcCzuG1/yG3qh+Wuy3XyPGyjaR9c6xiYgLg48odR6gwBXd20sVaSbuDzGTcAZBLwJknaNdknA3Aq2voXsqXAmuLoNq5oA9i83MwA7LVjd5y7vbA0qnS+bfRn9kkuXvk52NU6Jc4btRijesLEvOksSIrm1wjY3Ps++enjDrFa2KZt3YUzuYyCSCFzS8hcgFXCysOdPo4IKqYFVbTB/qqUBFNMmBQADbgCon5yfWeqSbe8Z7/IaAE5Vz6fgTimgVgCbFoHqoIEUf9RPYABOMyv4QeGeALwRc3YEtuXpM9qJFIRZwEVm+TIfiUwa1wZTuVOg==;aYHs5gvn558STe0YIkJSBA=="
 ---
 

@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Trump administration carries out 13th and final execution"
-excerpt: "The Trump administration early Saturday carried out its 13th federal execution since July, an unprecedented run that concluded just five days before the inauguration of President-elect Joe Biden."
-publishedDateTime: 2021-01-16T08:19:00Z
-originalUrl: "https://www.latimes.com/world-nation/story/2021-01-15/us-carries-out-13th-and-final-execution-during-trump-administration-most-for-any-presidency-in-more-than-120-years"
-webUrl: "https://www.latimes.com/world-nation/story/2021-01-15/us-carries-out-13th-and-final-execution-during-trump-administration-most-for-any-presidency-in-more-than-120-years"
-ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-15/us-carries-out-13th-and-final-execution-during-trump-administration-most-for-any-presidency-in-more-than-120-years?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-15/us-carries-out-13th-and-final-execution-during-trump-administration-most-for-any-presidency-in-more-than-120-years?_amp=true"
+excerpt: "President Donald Trump’s Justice Department resumed federal executions last year following a 17-year hiatus. No president in more than 120 years had overseen as many federal executions."
+publishedDateTime: 2021-01-16T10:30:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-administration-carries-13th-final-execution-75292062"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-administration-carries-13th-final-execution-75292062"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-administration-carries-13th-final-execution-75292062"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-administration-carries-13th-final-execution-75292062"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/6295fdd/2147483647/strip/true/crop/5731x3743+0+37/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F99%2Ff8%2F9d5c3bca8c0764f9dee229b64809%2Fef30c97963e448d6b774d434aa29b835"
-    width: 320
-    height: 209
+  - url: "https://s.abcnews.com/images/US/WireAP_45df14acc72d4f259cd939ad5bb55f4b_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -110,6 +110,20 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/ad02f72/2147483647/strip/true/crop/3000x1959+0+20/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff6%2F01%2Fcbd4b15d41a6962baf92c78dbb80%2Fdhs-acting-secretary-immigration-63532.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's"
+    publishedDateTime: 2021-01-16T21:14:00Z
+    webUrl: "https://apnews.com/article/mike-pence-congratulate-kamala-harris-9cf431138cceeda9f6f7104e0fa20487"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 130
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/4444eb45d10847adbfe84daefb893fa0/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
@@ -871,6 +885,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Supreme Court Justice Sonia Sotomayor to swear in Kamala Harris as vice president"
+    excerpt: "Vice President-elect Kamala Harris will take oath of office on a Bible belonging to Thurgood Marshall during inaugural ceremony at the U.S. Capitol."
+    publishedDateTime: 2021-01-16T22:15:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/01/16/inauguration-sonia-sotomayor-swear-kamala-harris-vice-president/4191676001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4191676001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4191676001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/11/USAT/c5bf9530-87e0-4af2-b3d8-20bc45f8cc5d-AFP_AFP_8YE8DQ.jpg?auto=webp&crop=3839,2159,x1,y360&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'Washed out mess': Vogue puts Kamala Harris on the cover, but Twitter users aren't happy"
     excerpt: "Vice President-elect Kamala Harris is splashed on the February cover of Vogue, but social media isn't crazy about the magazine's photo choice."
     publishedDateTime: 2021-01-10T22:39:00Z
@@ -1011,6 +1041,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "1LAYh6NQv2XsHzQjWxPEoJYHMV44A2hRhOEUS6ItYyK/q6GPWD0yHOntRhARhhMaq7SXLIShiXG8R9CvOQdE1pj0lL1GvyO+onvbT9GTAPr0KfnOsrjEsz0Vw7G1OX6CkaRYiIPeHudHN8U0zfBbLQdbOEFhTTMQLHg4Srsw4y7e95rW6Rx85KZseZBceqZBJ60XObenGVJZhT9iL6aw3X0okQhYwiB9fGz9XrukPPt3CPe/Nj0bBSwyvVeXw9Mw0HVrdJJ0WVZVKiWL8ziqeEZPDZLdJg7RGzAUfl8zWdowMSH8RpFCLpDL2eIemMBHC437LqXvPr98nO1wenlD6RXCVeU1YzHRBvM3onfO+1s=;z8QESlfi6Qanpqt8WWGvYA=="
+secured: "xKGU+dkANR1X5tnGNcIWJ0Zaw5vK4olzhz5merR1i5D8fobl7KUPAywiAW3uh8cX4+YZljUiCvorK+NF0A2/xNLJU9Xg5OweakEOXNF66XO0uYxpsLs16DfvID4b/YiLuMmQWi3MoLw6op0y/AoX22cZyUyGlGvEcZZ6Z9QZ3uv12JTfLnnZ6duZmTfNpVNakWX10+CiYg0rgWNWxFDhFRYcDL/pROXSSuAy4kbxABAjy12U8HorJb7MlXkrh30ykBwPBcK4v1vXVe7UHcZfIgWj8NHtayObxaVi9TbluIFwAhFNDyUCBNcNZS+eLlYUsr7yk+/Wby4XRzeaOdxbTxuVMNpN0TPRaQCrqVwo1XE=;hiSc/V+5B2VJL/OLBdDxSQ=="
 ---
 

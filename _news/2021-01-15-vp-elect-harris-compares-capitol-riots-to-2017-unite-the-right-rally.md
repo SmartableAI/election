@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President-elect Harris will be sworn in by Justice Sonia Sotomayor"
+    excerpt: "The swearing-in of Vice President-elect Kamala Harris Wednesday, will acknowledge historical milestones as the first Latina Supreme Court justice oversees the ceremony."
+    publishedDateTime: 2021-01-16T22:04:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fHr0DE--AsY/vice-president-elect-harris-sworn-sonia-sotomayor"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-president-elect-harris-sworn-sonia-sotomayor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-elect-harris-sworn-sonia-sotomayor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fed884c-b708-4ec0-9242-0b2b61b4244a/15d1d9b5-6b44-4c76-8142-bdc1d653054b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump expected to travel to Mar-a-Lago on morning of Biden's inauguration: sources"
     excerpt: "President Trump is expected to travel to his resort at Mar-a-Lago in Florida the morning of Jan. 20 – the day of President-elect Joe Biden’s inauguration – where he is expected to reside after his presidency, Fox News has learned."
     publishedDateTime: 2021-01-15T14:09:25Z

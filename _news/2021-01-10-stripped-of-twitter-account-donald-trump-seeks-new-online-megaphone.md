@@ -59,6 +59,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Small group of pro-Trump supporters gathered outside Texas Capitol"
+    excerpt: "About a dozen Trump supporters gathered outside the Texas Capitol on Saturday, a day after DPS closed the building over safety concerns."
+    publishedDateTime: 2021-01-16T22:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/01/16/austin-capitol-protest-updates/4182787001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4182787001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4182787001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/16/NAAS/2e0741cf-1938-476c-bca5-185ac6dc6bd3-Saturday_protest_1.jpg?auto=webp&crop=1850,1041,x0,y501&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "With Trump banned from Twitter, his supporters are parsing speeches for clues about what’s next"
     excerpt: "Many of the president’s allies have struggled to glean clear marching orders from him since his banishment from social media."
     publishedDateTime: 2021-01-14T22:23:00Z

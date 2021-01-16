@@ -80,6 +80,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Vice President-elect Harris will be sworn in by Justice Sonia Sotomayor"
+    excerpt: "The swearing-in of Vice President-elect Kamala Harris Wednesday, will acknowledge historical milestones as the first Latina Supreme Court justice oversees the ceremony."
+    publishedDateTime: 2021-01-16T22:04:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fHr0DE--AsY/vice-president-elect-harris-sworn-sonia-sotomayor"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-president-elect-harris-sworn-sonia-sotomayor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-elect-harris-sworn-sonia-sotomayor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fed884c-b708-4ec0-9242-0b2b61b4244a/15d1d9b5-6b44-4c76-8142-bdc1d653054b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump expected to travel to Mar-a-Lago on morning of Biden's inauguration: sources"
     excerpt: "President Trump is expected to travel to his resort at Mar-a-Lago in Florida the morning of Jan. 20 – the day of President-elect Joe Biden’s inauguration – where he is expected to reside after his presidency, Fox News has learned."
     publishedDateTime: 2021-01-15T14:09:25Z
@@ -269,6 +285,6 @@ related:
         height: 630
         isCached: true
 
-secured: "2tTVXM95mN9/d25TIqYCcw5/44kv2v+inBeXqjvjtKJpAllfwrOM7LvrnBqVOcIvBRaaI4vCO9cIfnEUOXQcMG53hfKiYAHurWxn66gB+MnGC8o/9SdY0QskB8s5klQ3MIPk8Pd+FAf387g+RrZ9Kc4j2pSMHmzGLMasLxACCIb1vciHs9G/gTUuzvPnSl3Px44+heIZ8/lgahoZbihLWTs0AF+8hIitFZsNgd8J9aV+1UJFg1GOk2Y+yDLDpvZysTdiiEkXK0qRQZ/6Svxtmetv2kjHV89gLd9KMMgtRcz4tFRqz/+4asaS6wSjCroc7bjbzzItFy65K3Z5PE33TEGGum/ooydIsN1ixRqtcdM=;GoGk/npmcWW0ykFX2nQVFQ=="
+secured: "s/nrhib+SwQehIpfRcY2jryKmYNhQJpUf2iIf4xEyAYQj041Xw1pOwkIOyAGoOh/pmahSZItecNa6PZllYxUDIClxEclM000qAAxA9c2tZGUHXzmF9WhS6Gjwbzorjt2LOAOlG3blaVg53706IOAwG6+LOgPIiK+7ZF5enWcJWKHdM1SZDcmv0M2/cwQlAlbCChoE27V9XL+yqyqOB/CelxmtZDCZQM33TND00q+L17t/fwlzcLFiX7DUWtbMotHRwkM/0WzLG8+Y964gRs5wzKQn7MQfd0EWocuFq7hq3olZXk19+xXDYuUgHDleCf1Pr8/lhbD+HP2INAdpL/DJD4ryQ7JdyNajedRIT0nAUrBP1Z3W3R3H+Oj4kYr6+2Pf2yLwt3bkwQEZtWo8FVwQ0PFgIVdAM9/K6nqyvd2vaPgE932dAfP4YSOpSur16o/2UJ1734kJgbSxZHPdcVRCD+hqpNlcxTqX85FdlvrXbNrNRwzVN06tMM0oYdcAjnOmVagqtWGSjk/6JaBqUZAHg==;YP6+Tps00CvDmQa339fbfg=="
 ---
 

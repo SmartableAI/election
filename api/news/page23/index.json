@@ -2,6 +2,63 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-12-14-who-will-replace-kamala-harris-in-the-senate-california-governor-weighs-a-shortlist-of-firsts.md",
+      "title": "Who will replace Kamala Harris in the Senate? California governor weighs a shortlist of firsts",
+      "excerpt": "The possible replacements include Long Beach Mayor Robert Garcia and California Secretary of State Alex Padilla.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/congress/who-will-replace-kamala-harris-u-s-senate-california-governor-n1250975",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/who-will-replace-kamala-harris-u-s-senate-california-governor-n1250975",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_50/3434600/201209-los-angeles-alex-padilla-ac-419p_0_5eecaf7673fb2b6dd17bdf7d233aff1c.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250975",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250975",
+      "publishedDateTime": "2020-12-14T05:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-the-note-electoral-college-voting-brings-crossroads-for-trump-and-his-gop.md",
       "title": "The Note: Electoral College voting brings crossroads for Trump and his GOP",
       "excerpt": "Trump looms large over the future of the Republican Party. But his interests and those of his party are already diverging.",
@@ -1286,54 +1343,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-12-mike-pompeo-mike-pence-go-to-bat-for-imprisoned-hong-kong-media-tycoon-jimmy-lai.md",
-      "title": "Mike Pompeo, Mike Pence go to bat for imprisoned Hong Kong media tycoon Jimmy Lai",
-      "excerpt": "Top US officials are speaking out against the arrest and imprisonment of Hong Kong media tycoon Jimmy Lai. The 73-year-old billionaire and pro democracy advocate was denied bail Saturday after",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/12/12/us-officials-go-to-bat-for-imprisoned-hong-kong-tycoon-jimmy-lai/",
-      "originalUrl": "https://nypost.com/2020/12/12/us-officials-go-to-bat-for-imprisoned-hong-kong-tycoon-jimmy-lai/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/hong-kong-jimmy-lai.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/12/12/us-officials-go-to-bat-for-imprisoned-hong-kong-tycoon-jimmy-lai/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/12/us-officials-go-to-bat-for-imprisoned-hong-kong-tycoon-jimmy-lai/amp/",
-      "publishedDateTime": "2020-12-12T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Republican Voice"
       ]
     }

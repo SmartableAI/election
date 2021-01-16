@@ -95,6 +95,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Inauguration to include programming aimed at kids along with a message from Jill Biden"
+    excerpt: "The Presidential Inaugural Committee announced it will offer programming focused on getting families and their kids involved in next week's ceremony."
+    publishedDateTime: 2021-01-16T22:56:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2021/01/16/jill-biden-make-appearance-during-inaugural-tv-programming/4192038001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4192038001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4192038001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/4343dd98-09dc-40b5-8205-953d20781f07-AP_Election_2020_Jill_Biden_2.jpg?auto=webp&crop=4199,2362,x0,y213&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden's inauguration rehearsal postponed over security concerns, Politico says"
     excerpt: "A rehearsal for U.S President-elect Joe Biden's inauguration scheduled for Sunday has been postponed because of security concerns, Politico reported late on Thursday, citing two people with knowledge of the decision."
     publishedDateTime: 2021-01-15T13:22:00Z

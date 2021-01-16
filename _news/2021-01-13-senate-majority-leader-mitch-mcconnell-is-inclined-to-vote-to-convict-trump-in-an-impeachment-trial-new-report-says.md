@@ -93,6 +93,17 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Trump trial pending, McConnell calls it 'vote of conscience'"
+    excerpt: "President Donald Trump's is likely to start after Joe Biden's inauguration, and the Republican leader, Mitch McConnell, is telling senators their decision on whether to convict the outgoing president over the Capitol riot will be a “vote of conscience."
+    publishedDateTime: 2021-01-16T22:37:00Z
+    webUrl: "https://www.businessinsider.com/trump-trial-pending-mcconnell-calls-it-vote-of-conscience-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-trial-pending-mcconnell-calls-it-vote-of-conscience-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-trial-pending-mcconnell-calls-it-vote-of-conscience-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Mitch McConnell is telling GOP senators their decision on a Trump impeachment trial conviction is a 'vote of conscience'"
     excerpt: "Majority Leader Mitch McConnell has been telling GOP senators they have the freedom to vote however they want during Trump's impeachment trial."
     publishedDateTime: 2021-01-15T18:24:00Z
