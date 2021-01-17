@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national-security/georgia-us-attorney
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/georgia-us-attorney-resigns/2021/01/05/5c7f9222-4f83-11eb-bda4-615aaefd0555_story.html?outputType=amp"
 type: article
 quality: 109
-heat: 129
+heat: 149
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Factbox: Trump tweets attacked leaders and businesses"
+    excerpt: "Here are some of the most notable of Donald Trump's 26,000 tweets as president, or on average 18 a day as president. Trump often engaged in name calling, misstated facts in tweets and attacked businesses or political rivals."
+    publishedDateTime: 2021-01-09T08:32:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-twitter-factbox-idUSKBN29E022"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547180157&r=LYNXMPEH0800X&w=800"
+        width: 800
+        height: 484
+        isCached: true
   - title: "Only surprising if you weren’t paying attention: Trump left many clues he wouldn’t go quietly, and nor would his supporters"
     excerpt: "President Donald Trump left plenty of clues he’d try to burn the place down on his way out the door. The clues spread over a lifetime of refusing to acknowledge defeat. They spanned a presidency marked by raw,"
     publishedDateTime: 2021-01-09T16:47:00Z

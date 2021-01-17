@@ -291,6 +291,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Divided Senate Gives Kamala Harris Powerful Tiebreaker Role"
+    excerpt: "Kamala Harris’s term as vice president will be defined from the start by the Senate’s partisan split, as the former lawmaker is pushed into a powerful role in a chamber that must decide whether to convict the outgoing president of inciting an insurrection."
+    publishedDateTime: 2021-01-17T14:35:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-17/senate-divided-by-party-gives-harris-powerful-tiebreaker-role"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-17/senate-divided-by-party-gives-harris-powerful-tiebreaker-role"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-17/senate-divided-by-party-gives-harris-powerful-tiebreaker-role"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 125
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibcPw4YBVIyo/v1/360x-1.jpg"
+        width: 360
+        height: 239
+        isCached: true
+  - title: "Kamala Harris will resign her Senate seat Monday"
+    excerpt: "Vice President-elect Kamala D. Harris will resign her Senate seat Monday, stepping down four years after she was elected California’s junior senator. Aides said Harris has already begun the formal process,"
+    publishedDateTime: 2021-01-17T13:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/kamala-harris-resigns-senate/2021/01/16/03cd0e90-5869-11eb-a817-e5e7f8a406d6_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/kamala-harris-resigns-senate/2021/01/16/03cd0e90-5869-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/kamala-harris-resigns-senate/2021/01/16/03cd0e90-5869-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EBVS6GSYGYI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Donald Trump's Inauguration Boycott Welcomed by Republicans and Democrats"
     excerpt: "The president announced he will not attend ahead of his ban from Twitter, as a backlash grows against him over the recent events at the Capitol."
     publishedDateTime: 2021-01-11T15:29:00Z
@@ -920,6 +952,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/119F2/production/_116487127_kam_win_reu.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Kamala Harris will be sworn in as vice president by Justice Sonia Sotomayor"
+    excerpt: "WASHINGTON — Vice President-elect Kamala Harris will be sworn in by Supreme Court Justice Sonia Sotomayor on Wednesday, a history-making event in which the first Black, South Asian and female vice president will take her oath of office from the first Latina justice."
+    publishedDateTime: 2021-01-17T11:36:00Z
+    webUrl: "https://www.al.com/news/2021/01/kamala-harris-will-be-sworn-in-as-vice-president-by-justice-sonia-sotomayor.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/kamala-harris-will-be-sworn-in-as-vice-president-by-justice-sonia-sotomayor.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/kamala-harris-will-be-sworn-in-as-vice-president-by-justice-sonia-sotomayor.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2Q6YECU6VRHRHG656IQN73Q55M.jpg"
+        width: 4444
+        height: 3154
         isCached: true
   - title: "D.C. attorney general seeks to interview Donald Trump Jr. on inauguration funds"
     excerpt: "The D.C. attorney general's office said Thursday it requested to interview Donald Trump Jr. as part of its investigation into the Presidential Inaugural Committee's alleged misuse of non-profit funds."

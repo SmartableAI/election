@@ -2,11 +2,11 @@
 category: news
 title: "The latest on Biden's inauguration and security threats"
 excerpt: "DC and states around the country are on high alert and tightening security in preparation for possible protests ahead of Biden's inauguration and in wake of Trump's impeachment. Follow here for the latest."
-publishedDateTime: 2021-01-16T20:33:00Z
-originalUrl: "https://www.cnn.com/politics/live-news/biden-inauguration-dc-capitol-news-01-16-21/index.html"
-webUrl: "https://www.cnn.com/politics/live-news/biden-inauguration-dc-capitol-news-01-16-21/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/biden-inauguration-dc-capitol-news-01-16-21/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/biden-inauguration-dc-capitol-news-01-16-21/index.html"
+publishedDateTime: 2021-01-17T13:04:00Z
+originalUrl: "https://www.cnn.com/politics/live-news/biden-inauguration-dc-capitol-news-01-17-21/index.html"
+webUrl: "https://www.cnn.com/politics/live-news/biden-inauguration-dc-capitol-news-01-17-21/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/biden-inauguration-dc-capitol-news-01-17-21/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/biden-inauguration-dc-capitol-news-01-17-21/index.html"
 type: article
 quality: 135
 heat: -1
@@ -1957,6 +1957,6 @@ related:
         height: 629
         isCached: true
 
-secured: "s6vkZanQmxSvcQq01aLHFcN+uhEi5761l5jUjD9G8undceTsKgnfSKlNEOb68fp1/9CDck35A/zI9TtZRM+Lq/zPYAxJ81lZS/dI7T/sizOSmoJjm9Oaeg3QKoodQzxpsoAjz9z5J7HltWyependl1sVu8qX5OzSLnwvvSOh2OCQNTmvGYEdh1+VWocvShtH0a9Dhn9bbwo0LUqCwTI+VXNWUnunIy4H2zcQuSxvh4UDB43XUzY1NKYutsuPTtvihpAnhHNAGSASO/ybkuaiwAd93tWvaiWK5CbsiQKuxSm5/5l2NK1h1O7a4jzT23DybXdFR8R1aN5p4LGqhu4/BcP6MeOO0Qpf4oaGEML3IJWQxdX/GMEQBKi3+kAjbtCTJLoClGlBpJqP6tlpgN0/l1GTnYjkWunDe+U1RnbNBJa+ZvGpyRCxwEJJo32wLocIQ0taQRTtltb97jH79MBt5uLX4ETt6AQtTIaezBF3uCVqfo5g/TTVASdQpmnXLmlvP365fdJwqS3UO1gu/N77+Q==;/jOWcw4crJJG0USW4s60tQ=="
+secured: "TQ0V1DaHlXgZojDKxCe6gEDKgolg8mW3dMeW4I6/5Dp+QC02mGMver8Vm5tnPmPkBM8gVfzTinxUtd3jXX36jdovMJ2bxjwS00KfCZFiQe8LXESZXswAnVd/G3GgBUjSJDNkC2MC6HyXkvRGi0h5ql/Y9rNUD8Q4j3fRwkprDt/1MMIJ8MUvxkgie45A3TVyR8PrzRtgCq9yWomjSJmaHQgTPLM17JNaO/gEnuRNwS3+fIZPKAsu86mSKdOwEQGOCJdNyjgW/46RCkwwpBgHFcKcllic+NqBh0hPRmDNJ0xGKFRl8lePoSVoQvTIoN51ksG/0iE3y1p+YFeVa1+PjkE4a2bNW8ZTig6l3W8Xdc8=;PPwKhKmnxmeN6iiv98ZvEw=="
 ---
 

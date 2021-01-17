@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/trump-michael-cohen-prosecutors-evi
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-michael-cohen-prosecutors-evidence/"
 type: article
 quality: 120
-heat: 120
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -29,6 +29,91 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "NY prosecutors interview Michael Cohen about Trump finances"
+    excerpt: "New York prosecutors conducted an hours-long interview Thursday of Michael Cohen, President Donald Trump’s former attorney"
+    publishedDateTime: 2021-01-16T02:50:00Z
+    webUrl: "https://www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Eyes on Pelosi as Trump impeachment trial timing up in the air"
+    excerpt: "The timing of President Donald Trump's impeachment trial could come into clearer focus on Friday when House Speaker Nancy Pelosi is expected to take questions about her next steps at a morning news conference at the U."
+    publishedDateTime: 2021-01-15T12:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/eyes-on-pelosi-as-trump-impeachment-trial-timing-up-in-the-air-idUSKBN29K0NV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547913417&r=LYNXMPEH0E0CB&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Trump administration takes final swipes at China and its companies"
+    excerpt: "The Trump administration in its waning days took another swipe at China and its biggest firms on Thursday, imposing sanctions on officials and companies for alleged misdeeds in the South China Sea and imposing an investment ban on nine more firms."
+    publishedDateTime: 2021-01-15T08:47:00Z
+    webUrl: "https://www.reuters.com/article/usa-china/update-8-trump-administration-takes-final-swipes-at-china-and-its-companies-idUSL1N2JP1Z0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547808818&r=LYNXMPEH0D121&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Eyes on Pelosi as Trump impeachment trial timing up in the air"
+    excerpt: "The timing of President Donald Trump's impeachment trial could come into clearer focus on Friday when House Speaker Nancy Pelosi is expected to take questions about her next steps at a morning news conference at the U."
+    publishedDateTime: 2021-01-15T16:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29K0NV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547913417&r=LYNXMPEH0E0CB&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Pelosi calls for prosecution of any Congress members who might have helped pro-Trump siege"
+    excerpt: "Any members of the U.S. Congress who helped a crowd of President Donald Trump's supporters storm the Capitol should face criminal prosecution, House of Representatives Speaker Nancy Pelosi said on Friday."
+    publishedDateTime: 2021-01-16T04:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/pelosi-prosecute-any-members-of-congress-who-aided-trump-supporters-capitol-attack-idUSKBN29K0NV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 95
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547955197&r=LYNXMPEH0E18J&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Pelosi Calls for Prosecution of Any Congress Members Who Might Have Helped Pro-Trump Siege"
+    excerpt: "Pelosi Calls for Prosecution of Any Congress Members Who Might Have Helped Pro-Trump Siege WASHINGTON (Reuters) - Any members of the U.S. Congress who helped a crowd of President Donald Trump's supporters storm the Capitol should face criminal prosecution ..."
+    publishedDateTime: 2021-01-16T18:27:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-15/eyes-on-pelosi-as-trump-impeachment-trial-timing-up-in-the-air"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-15/eyes-on-pelosi-as-trump-impeachment-trial-timing-up-in-the-air?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-15/eyes-on-pelosi-as-trump-impeachment-trial-timing-up-in-the-air?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 45
 
 secured: "ySSysFlsA1tz5co34CXcdZBj06m9Ujf/cOoMZNabaWTqAgqNHpovs7M4Qc8nVz5LS4P3428QvWxnVALUlDHaYcQedHBiPfIQxmnZNRH57h6DLdgcGrDdSHPn51CW2uEh4KHgEGajbDXFUh60PP9Sd2C8/6gxC2pnuP6Z75cykqGjsY6KgjhJ5GcaVQKxDjVaqVKMirEw8fF86bYiz55Rz3+5Da8WjcG5VoODynt6W3/ge91dudK6IHaD19WvBrbYjZj6Lb8bLU+qFSjbQoqkni95lfskehNqYVHYdcD7U6eoCVoYz6rwPFIkiqhs0vqJ2tSMFReZpmcSdhtwIr7MrYPKNhDemzx+kI9NELK5UVE=;EjOJTp7PJh+G3cfc711ioQ=="
 ---

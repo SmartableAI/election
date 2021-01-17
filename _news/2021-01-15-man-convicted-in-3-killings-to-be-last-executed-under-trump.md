@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "With Trump banned from Twitter, his supporters are parsing speeches for clues about what’s next"
-    excerpt: "Many of the president’s allies have struggled to glean clear marching orders from him since his banishment from social media."
-    publishedDateTime: 2021-01-14T22:23:00Z
-    webUrl: "https://www.washingtonpost.com/politics/with-trump-banned-from-twitter-his-supporters-are-parsing-speeches-for-clues-about-whats-next/2021/01/14/985e06dc-5534-11eb-a08b-f1381ef3d207_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/with-trump-banned-from-twitter-his-supporters-are-parsing-speeches-for-clues-about-whats-next/2021/01/14/985e06dc-5534-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/with-trump-banned-from-twitter-his-supporters-are-parsing-speeches-for-clues-about-whats-next/2021/01/14/985e06dc-5534-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R5HHSKSWOII6XIEL6E4B546SA4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Even more Trump family members are reportedly moving to Florida"
     excerpt: "Ivanka Trump and Jared Kushner bought property in Miami. Now Donald Trump Jr. and Kimberly Guilfoyle are eyeing area real estate, as is Tiffany Trump."
     publishedDateTime: 2021-01-13T22:46:00Z
@@ -109,15 +93,6 @@ related:
         width: 503
         height: 310
         isCached: true
-  - title: "Nevada Judge Who Denied Trump Campaign Appeal Was Threatened"
-    excerpt: "Authorities in Carson City are investigating a threat made against a state judge who dismissed a lawsuit last month brought by President Donald Trump’s campaign."
-    publishedDateTime: 2021-01-15T18:53:00Z
-    webUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-01-15/nevada-judge-who-denied-trump-campaign-appeal-was-threatened"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "yhMCcgUg5TZ+arfqeKmMRaU//bVTx8b3xZ4vWddRDm0cEpSSXY8Tt1JOal2kLttrP3KTwUVgmyAfzGYq9CgAQ3yGz2C8bD2iShMfdmRXLch7OmvCC8R0lXF094DO2n1eSaJe7vpFwv3DnBtM9m4KaLg0xvQZe+Ed8WAv8MW1uSrkiHcmpmGoYu+MiTt1a5+HZMK+gNNkRV0uwtD0oIF7xnHqxbOqtH6z3lgVAI7x14M4Bmt3DQbj94PVzJht9nxplPF22eVSDcNho4GqntKitTvETUlJGW+YqbtTpxXksyfvkS7Cu03uE4z9UbVdQUK17+1KMDIVNTTR03UKt93AqC6lO85BByARrvm9Iu2PpysJT88b+cZdzH999pOvIb36VvgEJASr9YVHi19gjZRSIFuS7iuxCixdi1DIFnWDpph2V7J3dz/R5DCipiUVc4lasHOQHfmiflNn8quwzHCQUkLk4gctPsQ7ZpSHly9fRqbZWwHuVlfqvP/iJm6jGRex6gQYtjwtuDrGbGsxJsgzwQ==;Z73X0nbk3Ng80/peOMvFWQ=="
 ---

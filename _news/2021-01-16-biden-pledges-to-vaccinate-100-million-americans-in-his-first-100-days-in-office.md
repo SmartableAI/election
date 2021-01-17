@@ -29,93 +29,118 @@ images:
     isCached: true
 
 related:
-  - title: "Gen. Milley key to military continuity as Biden takes office"
-    excerpt: "When the incoming Biden administration takes charge of a Pentagon rocked by four years of leadership churn, it’ll look mainly to one holdover to provide continuity"
-    publishedDateTime: 2021-01-17T12:42:00Z
-    webUrl: "https://www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+  - title: "Federal prisons on lockdown in run-up to Biden inauguration"
+    excerpt: "Federal prisons across the U.S. have been placed on lockdown as officials aim to quell any potential violence that could arise in the run-up to President-elect Joe Biden’s inauguration on Wednesday"
+    publishedDateTime: 2021-01-16T17:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/federal-prisons-lockdown-run-biden-inauguration-75296751"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/federal-prisons-lockdown-run-biden-inauguration-75296751"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/federal-prisons-lockdown-run-biden-inauguration-75296751"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c66224196eea42ed95b4ff20f73e13e5_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Marriott and others pledge to cut off money to members of Congress who doubted Biden win"
-    excerpt: "The violent insurrection at the Capitol has companies scrambling to react, as the option of sitting on the sidelines grows increasingly unsatisfying."
-    publishedDateTime: 2021-01-11T03:44:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/01/10/marriott-campaign-donations-congress/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/01/10/marriott-campaign-donations-congress/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/10/marriott-campaign-donations-congress/?outputType=amp"
+  - title: "'Liberal' Churches Warned of Possible Attacks Around Biden Inauguration Day"
+    excerpt: "The United Church of Christ advised ministers and congregants to exercise caution in the week leading up to the inauguration."
+    publishedDateTime: 2021-01-16T18:28:00Z
+    webUrl: "https://www.newsweek.com/liberal-churches-threats-surrounding-biden-inauguration-1562121"
+    ampWebUrl: "https://www.newsweek.com/liberal-churches-threats-surrounding-biden-inauguration-1562121?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/liberal-churches-threats-surrounding-biden-inauguration-1562121?amp=1"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 116
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4IPYVLRAFMI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://d.newsweek.com/en/full/1709960/trump-protesters-us-capitol.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "As Biden prepares to take office and America reels from Capitol riots, Black and white still define the nation"
-    excerpt: "Since the beginning of America, race was used to generate wealth for whites on the back of Blacks. Why can't we see our common economic interests?"
-    publishedDateTime: 2021-01-15T00:40:00Z
-    webUrl: "https://www.usatoday.com/story/money/2021/01/14/black-america-history-social-economic-inequalities/5759328002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5759328002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5759328002"
+  - title: "Biden plans early legislation to offer legal status to 11 million immigrants without it"
+    excerpt: "During his first days in office, President-elect Joe Biden plans to unveil a legislative proposal that would include a path to citizenship for 11 million immigrants in the U.S. illegally, according to activists in communication with his transition team."
+    publishedDateTime: 2021-01-16T09:13:00Z
+    webUrl: "https://www.latimes.com/california/story/2021-01-15/biden-to-send-congress-bill-to-legalize-11-million-immigrants-who-lack-documentation"
+    ampWebUrl: "https://www.latimes.com/california/story/2021-01-15/biden-to-send-congress-bill-to-legalize-11-million-immigrants-who-lack-documentation?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2021-01-15/biden-to-send-congress-bill-to-legalize-11-million-immigrants-who-lack-documentation?_amp=true"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 117
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/90ebe2b/2147483647/strip/true/crop/480x314+0+23/resize/320x209!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQcvaRAiB0V8%2Fhqdefault.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "INAUGURATION EXPLAINER: Biden's event will be very different"
+    excerpt: "WASHINGTON (AP) — Between the still-raging pandemic and suddenly very real threat of violence, the inauguration of Joe Biden and Kamala Harris next Wednesday promises to be one of the most unusual in American history."
+    publishedDateTime: 2021-01-16T22:51:00Z
+    webUrl: "https://www.businessinsider.com/inauguration-explainer-bidens-event-will-be-very-different-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/inauguration-explainer-bidens-event-will-be-very-different-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/inauguration-explainer-bidens-event-will-be-very-different-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/7595686b-762b-49ce-9210-96f74c5f7ead-GTY_1230427031.jpg?auto=webp&crop=5567,3131,x0,y581&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Black and white still define America as Biden prepares to take office, country deals with Capitol riots aftermath"
-    excerpt: "Since the beginning of America, race was used to generate wealth for whites on the back of Blacks. Why can't we see our common economic interests?"
-    publishedDateTime: 2021-01-14T05:14:00Z
-    webUrl: "https://www.usatoday.com/story/money/2021/01/14/black-america-history-social-economic-inequalities/5759328002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5759328002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5759328002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 104
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/7595686b-762b-49ce-9210-96f74c5f7ead-GTY_1230427031.jpg?auto=webp&crop=5567,3131,x0,y581&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Walmart, Disney suspend contributions to U.S. lawmakers who opposed Biden certification"
-    excerpt: "Walmart Inc, the world's biggest retailer and Walt Disney Co joined other major companies in indefinitely suspending donations to U.S. lawmakers who voted against President-elect Joe Biden's election certification."
-    publishedDateTime: 2021-01-13T07:53:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-corporate-walmart-idUSKBN29H2TO"
+  - title: "Marriott will suspend donations to U.S. lawmakers who voted against Biden certification"
+    excerpt: "Marriott International Inc, the world's largest hotel company, confirmed Sunday it will suspend donations to U.S. lawmakers who voted against certifying President-elect Joe Biden's victory last week."
+    publishedDateTime: 2021-01-11T00:30:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN29F0L4"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 97
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547573394&r=LYNXMPEH0B1LM&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547294520&r=LYNXMPEH090FT&w=800"
         width: 800
-        height: 459
+        height: 534
         isCached: true
-  - title: "A new crop of Texas-led lawsuits awaits Joe Biden's White House"
-    excerpt: "As the Democratic president-elect enacts big plans in his first 100 days, Texas is almost certain to fight him at every step."
-    publishedDateTime: 2021-01-16T05:38:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/texas/article/A-new-crop-of-Texas-led-lawsuits-awaits-Joe-15874024.php"
+  - title: "Marriott, BlueCross suspend donations to U.S. lawmakers who voted against Biden certification"
+    excerpt: "Marriott International Inc, the world's largest hotel company, and the Blue Cross Blue Shield Association (BCBSA) said Sunday they will suspend donations to U.S. lawmakers who voted last week against certifying President-elect Joe Biden's victory."
+    publishedDateTime: 2021-01-11T12:45:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
+      name: Reuters
+      domain: reuters.com
+    quality: 94
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547294520&r=LYNXMPEH090FT&w=800"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "INAUGURATION EXPLAINER: Biden's event will be very different"
+    excerpt: "Between the still-raging pandemic and suddenly very real threat of violence from supporters of outgoing President Donald Trump, Jan. 20 promises to be one of the most unusual presidential inauguration"
+    publishedDateTime: 2021-01-16T06:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/inauguration-explainer-bidens-event-75291601"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 85
+  - title: "Joe Biden’s inauguration theme: ‘America United’"
+    excerpt: "WASHINGTON (AP) — The theme for President-elect Joe Biden’s inauguration will be “America United,” an issue that’s long been a central focus for Biden but one that’s taken on added weight in the wake of the violence at the U."
+    publishedDateTime: 2021-01-11T16:15:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2NAB5FK6RFAK3B53DG7COL2DXE.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "UByT77namD3f8M1MZ2J4SbBIFNCXXmSkX/TPxBdXGxjZlLP9Sv9n9Sv6Izv7iMP6gm5mreqJ4p7dEJcEY6+7+XIwsPfG2QH2AGvHwM25NNNlZ/Xa1RJ5rnvFkn5cJyYBV+GRwST6ZYaRy1fQTuGD2DapWlN/X3fYC2K5Rfsqg1SHCnZrYsV3H5sbGVwwLl6sQBjSWYv6NRh+RCsDtb6UJiVyORf/1zry5+gFPrWJY1tG/ogWpq7VkSfUGl/+3UZ/S/PxPlCREGbdW0Wwgbq9oE3CWpjSzJQEgaedCqM042ypl3JBZeKs77Ho0NRcMMytfRL5OM9peUD8oNLCgNlE6UH6ZZVqwxP7geqJx8zNkGc=;ko5LcC9FcSRDU2WXMyvkMQ=="
 ---

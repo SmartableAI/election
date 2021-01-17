@@ -29,884 +29,873 @@ images:
     isCached: true
 
 related:
-  - title: "Republicans condemn GOP ‘scheme’ to undo election for Trump"
-    excerpt: "The extraordinary Republican effort to overturn the presidential election was condemned Sunday by an outpouring of current and former GOP officials."
-    publishedDateTime: 2021-01-04T00:07:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-republican-senators-electoral-college-20210102-ockzn4ln2babxfvuvnt5kvuuhe-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-republican-senators-electoral-college-20210102-ockzn4ln2babxfvuvnt5kvuuhe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-republican-senators-electoral-college-20210102-ockzn4ln2babxfvuvnt5kvuuhe-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 140
-    images:
-      - url: "https://www.chicagotribune.com/resizer/5Jl76CuQA8ORYHm-ieeRZ6fjzsI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/57OFMNP3SJHCXBTIHTKHOLPVWA.jpg"
-        width: 1200
-        height: 820
-        isCached: true
-  - title: "Trump Retweets Claim GOP Senator Pat Toomey 'Complicit in' Massive Election Fraud"
-    excerpt: "The Pennsylvania senator on Saturday criticized his Republican colleagues' plans to challenge President-elect Joe Biden's victory."
-    publishedDateTime: 2021-01-03T18:40:00Z
-    webUrl: "https://www.newsweek.com/trump-retweets-claim-gop-senator-pat-toomey-complicit-massive-election-fraud-1558584"
-    ampWebUrl: "https://www.newsweek.com/trump-retweets-claim-gop-senator-pat-toomey-complicit-massive-election-fraud-1558584?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-retweets-claim-gop-senator-pat-toomey-complicit-massive-election-fraud-1558584?amp=1"
+  - title: "Joe Biden's Options for Dealing with Donald Trump Are Worse than Watergate"
+    excerpt: "When it comes to Donald Trump, the incoming president has a critical decision to make about the best way to move the country forward—and neither Democrats nor Republicans are likely to be happy about his choice."
+    publishedDateTime: 2021-01-17T14:00:00Z
+    webUrl: "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html"
+    ampWebUrl: "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 135
+    quality: 148
     images:
-      - url: "https://d.newsweek.com/en/full/1696945/donald-trump-2020-election-white-house.jpg"
+      - url: "https://d.newsweek.com/en/full/1709816/fe-reconciliation-02.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "'Dangerous ploy': GOP Sen. Ben Sasse slams efforts by Trump, Hawley to overturn election"
-    excerpt: "Nebraska Republican Sen. Ben Sasse denounced the \"institutional arsonist members of Congress who will object to the Electoral College vote.\""
-    publishedDateTime: 2021-01-01T13:51:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/01/ben-sasse-denounces-dangerous-ploy-overturn-election/4106964001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4106964001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4106964001"
+  - title: "Trump impeachment risks bogging down early days of Biden presidency"
+    excerpt: "Trial could tie up Senate, slowing president-elect’s agenda amid pandemic and economic crisis"
+    publishedDateTime: 2021-01-14T14:17:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/14/trump-impeachment-biden-administration-senate-trial"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/14/trump-impeachment-biden-administration-senate-trial"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/14/trump-impeachment-biden-administration-senate-trial"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/839df3d21e6274cce2021d3fdf7cb39a393fb6e7/0_323_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dccc95fc4955e3136877727f1ed87114"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Donald Trump isolated and enraged ahead of Biden inauguration"
+    excerpt: "A slew of aides have deserted the president and the Pentagon has decided not to hold an armed forces farewell tribute"
+    publishedDateTime: 2021-01-16T07:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/16/donald-trump-biden-inauguration-isolated-enraged"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/16/donald-trump-biden-inauguration-isolated-enraged"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/16/donald-trump-biden-inauguration-isolated-enraged"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 140
+    images:
+      - url: "https://i.guim.co.uk/img/media/4562affcc87f763439da1fd7d3fc91f356b536f5/0_38_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e75078fad8e464cbc9499016b6c3ec8b"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden unveils $1.9 trillion economic relief as Trump's Senate trial looms"
+    excerpt: "Majority Leader Mitch McConnell said the Senate would not reconvene before January 19, the day before Mr. Trump leaves office."
+    publishedDateTime: 2021-01-15T14:26:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-second-impeachment-senate-trial/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-second-impeachment-senate-trial/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-second-impeachment-senate-trial/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 139
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/15/271825a6-0f84-4789-b1b5-26e6a1f513f0/thumbnail/1200x630/e2df6a2401b1edfdd1bf44bba92ff8c9/gettyimages-1296409766.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden aims for new course on trade, breaking with Trump and Democratic predecessors"
+    excerpt: "Biden will confront the same question that has bedeviled U.S. policymakers for three decades: How can the U.S. shape for maximum benefit its overseas commercial engagements?"
+    publishedDateTime: 2021-01-14T18:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/14/biden-trade-katherine-tai-tariff/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/14/biden-trade-katherine-tai-tariff/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/14/biden-trade-katherine-tai-tariff/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/326P67B4AAI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "James Comey Says Joe Biden Should Consider Pardoning Donald Trump to Allow U.S. to Heal"
+    excerpt: "James Comey, the former FBI director fired by President Donald Trump in 2017, said the U.S. needs to \"focus on things that are going to matter.\""
+    publishedDateTime: 2021-01-14T09:06:00Z
+    webUrl: "https://www.newsweek.com/james-comey-donald-trump-pardon-impeachment-healing-1561457"
+    ampWebUrl: "https://www.newsweek.com/james-comey-donald-trump-pardon-impeachment-healing-1561457?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/james-comey-donald-trump-pardon-impeachment-healing-1561457?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1707401/fbi-director-james-comey.jpg"
+        width: 3600
+        height: 2400
+        isCached: true
+  - title: "Will Melania Trump invite Jill Biden to tea-and-tour at White House or break tradition?"
+    excerpt: "The decades-old civic ritual of the outgoing FLOTUS inviting her successor to tea and a tour of the White House appears to be off for Melania Trump."
+    publishedDateTime: 2021-01-15T14:05:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/01/15/melania-trump-jill-biden-white-house-tea-and-tour/6602559002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6602559002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6602559002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 131
+    quality: 132
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/fa2731b8-2f69-4a0f-bce6-d9133544aa38-AP_Supreme_Court_Barrett_1.jpg?auto=webp&crop=3999,2250,x0,y337&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/12/23/USAT/d2af2f4d-3bc8-477e-a5ca-d8c20530111f-GTY_1292797972.jpg?auto=webp&crop=2750,1547,x1,y247&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Fate of Trump's $2,000 checks now rests with GOP-led Senate"
-    excerpt: "President Donald Trump ’s push for $2,000 COVID-19 relief checks now rests with the Senate after the House voted overwhelmingly to meet the president's demand to increase the $600 stipends, but Republicans have shown little interest in boosting spending."
-    publishedDateTime: 2020-12-29T09:23:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
+  - title: "Business grows skittish about Trump and GOP after riots"
+    excerpt: "Corporate America is quickly distancing itself from President Donald Trump and his Republican allies, with many of the biggest names in business — Goldman Sachs, Coca Cola, Ford, and Blue Cross Blue Shield — suspending political donations after a Trump-inspired mob ransacked the U."
+    publishedDateTime: 2021-01-11T22:09:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_b0df8d10c7f84679b2d85479bc4b367d_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_eea37b12d40e40e589e76134df53aa03_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "House approves Trump's $2K checks, sending to GOP-led Senate"
-    excerpt: "The House has voted overwhelmingly to increase COVID-19 relief checks to $2,000, meeting President Donald Trump’s demand for bigger payments"
-    publishedDateTime: 2020-12-29T02:30:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929699"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929699"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-signs-massive-measure-funding-government-covid-relief-74929699"
+  - title: "Republicans block measure calling for quick removal of Trump"
+    excerpt: "A House resolution calling on Vice President Mike Pence to invoke constitutional authority to remove President Donald Trump from office has been blocked by Republicans"
+    publishedDateTime: 2021-01-11T16:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pelosi-house-impeach-trump-pushes-vp-oust-75171067"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-house-impeach-trump-pushes-vp-oust-75171067"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-house-impeach-trump-pushes-vp-oust-75171067"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_29f4b4f27e864d9d8618ef344062ef9a_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a3f21b028bd3418a922e3fb6b9b24287_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump caves — but not before putting the GOP in an ugly spot"
-    excerpt: "Trump's failed gambit essentially cast a spotlight on his own party's refusal to provide more coronavirus relief."
-    publishedDateTime: 2020-12-28T16:18:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/28/trump-caves-not-before-putting-gop-an-ugly-spot/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/28/trump-caves-not-before-putting-gop-an-ugly-spot/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/28/trump-caves-not-before-putting-gop-an-ugly-spot/?outputType=amp"
+  - title: "Where Republican senators stand on impeaching Donald Trump"
+    excerpt: "Most Democratic senators are calling for Mr. Trump's immediate removal, including the Senate's two independent members, Angus King of Maine and Bernie Sanders of Vermont. But the bar for the Senate to remove the president is higher than impeachment,"
+    publishedDateTime: 2021-01-13T12:03:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-impeachment-republicans-senators/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-impeachment-republicans-senators/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-impeachment-republicans-senators/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-28-2020/t_1154f6e75c864b61b7c701643ce573dc_name_1___1920x1080___30p_00_00_08_29_Still015.jpg&w=1440"
-        width: 1440
-        height: 810
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/13/0d0a1258-107d-4d33-a1e0-51a2c24cbc11/thumbnail/1200x630/dad36a3b3990eba7f8fcd831191e5c32/gettyimages-955095568.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Trump reluctantly signs COVID aid, sparks fresh fight in GOP"
-    excerpt: "Dropping his objections, President Donald Trump has signed a $2 trillion-plus COVID-19 and annual federal spending package into law"
-    publishedDateTime: 2020-12-28T17:06:00Z
-    webUrl: "https://www.washingtonpost.com/politics/lawmakers-press-trump-on-relief-bill-as-jobless-aid-expires/2020/12/27/18ed8f2a-48a1-11eb-97b6-4eb9f72ff46b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/lawmakers-press-trump-on-relief-bill-as-jobless-aid-expires/2020/12/27/18ed8f2a-48a1-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/lawmakers-press-trump-on-relief-bill-as-jobless-aid-expires/2020/12/27/18ed8f2a-48a1-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump calls for Georgia Gov. Brian Kemp, a fellow Republican, to resign"
-    excerpt: "The president’s demand stems from the governor’s refusal to embrace Trump’s baseless claims of widespread election fraud."
-    publishedDateTime: 2020-12-30T14:55:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-calls-for-georgia-gov-brian-kemp-a-fellow-republican-to-resign/2020/12/30/bc297d28-4aab-11eb-839a-cf4ba7b7c48c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-calls-for-georgia-gov-brian-kemp-a-fellow-republican-to-resign/2020/12/30/bc297d28-4aab-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-calls-for-georgia-gov-brian-kemp-a-fellow-republican-to-resign/2020/12/30/bc297d28-4aab-11eb-839a-cf4ba7b7c48c_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5N4GRMSKVUI6XA42Z5F2PN6ERQ.jpg&w=1440"
-        width: 1440
-        height: 1149
-        isCached: true
-  - title: "Trump's $2,000 checks stall in Senate as GOP blocks vote"
-    excerpt: "President Donald Trump’s push for bigger $2,000 COVID-19 relief checks has stalled out in the Republican-led Senate"
-    publishedDateTime: 2020-12-30T05:40:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
+  - title: "Here are all of the House Republicans who voted to impeach Donald Trump"
+    excerpt: "The House of Representatives has voted to impeach President Donald Trump-- making him the only president in American history to be impeached twice. Unlike his first impeachment in 2019, 10 Republicans joined Democrats to charge Trump for the \"incitement of insurrection\" for his role in the Jan."
+    publishedDateTime: 2021-01-13T22:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/house-republicans-voted-impeach-donald-trump/story?id=75235094"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/house-republicans-voted-impeach-donald-trump/story?id=75235094"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/house-republicans-voted-impeach-donald-trump/story?id=75235094"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_3cd216cd1023408db0da90287b3279b1_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/house-impeachment-dan-newhouse-ht-iwb-210113_1610567556296_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Senate GOP blocks Democratic push for Trump's $2K checks"
-    excerpt: "Senate Majority Leader Mitch McConnell has blocked Democrats’ push to immediately bring President Donald Trump’s demand for bigger $2,000 COVID-19 relief checks up for a vote"
-    publishedDateTime: 2020-12-31T07:21:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fate-trumps-2000-checks-now-rests-gop-led-74943952"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_b0df8d10c7f84679b2d85479bc4b367d_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump push on $2K checks flops as GOP-led Senate won't vote"
-    excerpt: "Senate Majority Leader Mitch McConnell has all but shut the door on President Donald Trump’s push for $2,000 COVID-19 relief checks"
-    publishedDateTime: 2020-12-31T05:41:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/trump-push-2k-checks-flops-gop-led-senate-74983912"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-push-2k-checks-flops-gop-led-senate-74983912"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-push-2k-checks-flops-gop-led-senate-74983912"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_0d69e273b4dd492ab458f9815fb49f2b_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump push on $2K checks flops as GOP-led Senate won't vote"
-    excerpt: "Senate Majority Leader Mitch McConnell has all but shut the door on President Donald Trump’s push for $2,000 COVID-19 relief checks"
-    publishedDateTime: 2020-12-31T19:55:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trumps-2000-checks-stall-senate-gop-blocks-vote-74963655"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_b4651527dfae4404ab9ac8e3b378bba1_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "GOP rebuffs Trump on $2K aid, defense as Congress wraps up"
-    excerpt: "The Senate has wrapped up a rare New Year’s Day session with Republicans rejecting President Donald Trump’s demand for $2,000 COVID-19 aid checks"
-    publishedDateTime: 2021-01-02T10:06:00Z
-    webUrl: "https://www.washingtonpost.com/business/gop-rebuffs-trump-on-2k-aid-defense-as-congress-wraps-up/2021/01/02/51009888-4cb8-11eb-97b6-4eb9f72ff46b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/gop-rebuffs-trump-on-2k-aid-defense-as-congress-wraps-up/2021/01/02/51009888-4cb8-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/gop-rebuffs-trump-on-2k-aid-defense-as-congress-wraps-up/2021/01/02/51009888-4cb8-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "GOP rebuffs Trump on $2K aid, defense as Congress wraps up"
-    excerpt: "The Senate has wrapped up a rare New Year’s Day session with Republicans rejecting President Donald Trump’s demand for $2,000 COVID-19 aid checks"
-    publishedDateTime: 2021-01-02T19:22:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/shutdown-impeachment-virus-chaotic-congress-winds-75001377"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/shutdown-impeachment-virus-chaotic-congress-winds-75001377"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/shutdown-impeachment-virus-chaotic-congress-winds-75001377"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_9d02b53ba22c4458bcd93a623645fbf3_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Donald Trump's Georgia Call Sparks Demands for Second Impeachment"
-    excerpt: "President Donald Trump faced calls for a second impeachment over the weekend after it was revealed that he had tried to pressure Georgia's Republican secretary of state to \"find\" votes that would have overturned the result of the presidential election in the state."
-    publishedDateTime: 2021-01-04T08:51:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-georgia-call-second-impeachment-1558639"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-georgia-call-second-impeachment-1558639?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-georgia-call-second-impeachment-1558639?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1697089/president-donald-trump-golfing.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Trump supporters storm Capitol during electoral college count"
-    excerpt: "Violent protesters loyal to President Donald Trump stormed the U.S. Capitol on Wednesday and forced lawmakers into hiding, in a stunning attempt to overturn America’s presidential election, undercut the nation’s democracy and keep Democrat Joe Biden from replacing Trump in the White House."
-    publishedDateTime: 2021-01-06T22:55:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4K2DZJCQNUI6XOLOBZKEI6ZDUE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Twitter bans Trump, citing risk of violent incitement"
-    excerpt: "Twitter banned President Donald Trump's account Friday, citing “the risk of further incitement of violence\" following the deadly insurrection at the U.S. Capitol on Wednesday. Twitter has long given Trump and other world leaders broad exemptions from its rules against personal attacks,"
-    publishedDateTime: 2021-01-09T08:11:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/pressure-mounts-social-platforms-ban-trump-good-75143482"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/pressure-mounts-social-platforms-ban-trump-good-75143482"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/pressure-mounts-social-platforms-ban-trump-good-75143482"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_cc1537d419074084883392df7ae6f066_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Analysis: A GOP reckoning after turning blind eye to Trump"
-    excerpt: "Republicans are coming to grips with the fallout of President Donald Trump's false attacks on the election, which fueled the anger of supporters who stormed the U.S. Capitol last week"
-    publishedDateTime: 2021-01-11T06:52:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/analysis-gop-reckoning-turning-blind-eye-trump-75170731"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/analysis-gop-reckoning-turning-blind-eye-trump-75170731"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-gop-reckoning-turning-blind-eye-trump-75170731"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_50a6e4c8be3a42f388c2f4c036665b97_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Maryland Gov. Larry Hogan blames Trump, GOP lawmakers for Capitol riot"
-    excerpt: "Maryland Gov. Larry Hogan, a longtime Republican critic of President Trump, on Sunday blamed him for inciting the riot at the U.S. Capitol and slammed GOP members of Congress for lending credence to Trump’s false allegations of election fraud."
-    publishedDateTime: 2021-01-10T20:19:00Z
-    webUrl: "https://www.washingtonpost.com/local/md-politics/hogan-blames-trump-capitol/2021/01/10/169d3fa0-5354-11eb-a817-e5e7f8a406d6_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/md-politics/hogan-blames-trump-capitol/2021/01/10/169d3fa0-5354-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/md-politics/hogan-blames-trump-capitol/2021/01/10/169d3fa0-5354-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DX4GC5SQK4I6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 1080
-        isCached: true
-  - title: "Records show fervent Trump fans fueled US Capitol takeover"
-    excerpt: "The violent mob that stormed the U.S. capitol last week was overwhelmingly made up of longtime Trump supporters, including Republican Party officials, GOP political donors, far-right militants, white"
-    publishedDateTime: 2021-01-11T06:08:00Z
-    webUrl: "https://www.washingtonpost.com/politics/records-show-fervent-trump-fans-fueled-us-capitol-takeover/2021/01/10/8c59fad0-53a9-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/records-show-fervent-trump-fans-fueled-us-capitol-takeover/2021/01/10/8c59fad0-53a9-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/records-show-fervent-trump-fans-fueled-us-capitol-takeover/2021/01/10/8c59fad0-53a9-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "‘Resign and go away.’ Second GOP senator urges Trump to step down"
-    excerpt: "Sen. Pat Toomey of Pennsylvania on Sunday joined Alaska Sen. Lisa Murkowski in calling for Trump to 'resign and go away as soon as possible.'"
-    publishedDateTime: 2021-01-10T22:57:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-01-10/impeachment-effort-gains-steam-as-second-republican-calls-on-trump-to-resign"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-10/impeachment-effort-gains-steam-as-second-republican-calls-on-trump-to-resign?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-10/impeachment-effort-gains-steam-as-second-republican-calls-on-trump-to-resign?_amp=true"
+  - title: "House impeaches Trump for the second time, focus shifts to Senate trial"
+    excerpt: "Trump is the only president to be impeached twice, this time for inciting the Capitol riot. Now, the debate shifts to the Senate."
+    publishedDateTime: 2021-01-13T23:30:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-13/house-begins-final-push-to-make-trump-the-only-president-to-be-impeached-twice"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-13/house-begins-final-push-to-make-trump-the-only-president-to-be-impeached-twice?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-13/house-begins-final-push-to-make-trump-the-only-president-to-be-impeached-twice?_amp=true"
     type: article
     provider:
       name: Los Angeles Times
       domain: latimes.com
     quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/9cee817/2147483647/strip/true/crop/689x450+56+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4a%2F62%2F8b1efa963432a7735fcbbb085fb6%2Fla-es-trump-culpa-a-la-caza-de-brujas-por-su-p-001"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/232ada4/2147483647/strip/true/crop/5405x3530+0+36/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffb%2Fde%2Fd15bbb974c6d8bff58658cb08c71%2Fap21007825123867.jpg"
         width: 320
         height: 209
         isCached: true
-  - title: "US diplomats make extraordinary protest against Trump after riot"
-    excerpt: "American diplomats have drafted cables condemning Trump’s incitement of the Capitol riot and calling for administration officials to support invoking the 25th Amendment."
-    publishedDateTime: 2021-01-10T20:07:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-01-10/us-diplomats-in-extraordinary-protest-against-trump-for-riot"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-10/us-diplomats-in-extraordinary-protest-against-trump-for-riot?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-10/us-diplomats-in-extraordinary-protest-against-trump-for-riot?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/cae3c97/2147483647/strip/true/crop/6364x4156+0+43/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4f%2F1c%2F17c25ffb4ae1a7146acf99960566%2Fla-photos-1staff-683969-me-shasta-county-covid-gxc-0015.JPG"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "McConnell rules out $2,000 checks as Republican tensions with Trump rise"
-    excerpt: "U.S. Senate Republican leader Mitch McConnell on Wednesday ruled out a vote on a bill to raise coronavirus relief checks to $2,000 from $600, likely killing the effort pushed by President Donald Trump."
-    publishedDateTime: 2020-12-30T22:38:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29411A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29411A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29411A"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201230&t=2&i=1546213033&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBT1DT"
-        width: 790
-        height: 545
-        isCached: true
-  - title: "'Banana republic crap:' Some Republicans turn on Trump over Capitol violence"
-    excerpt: "A handful of U.S. congressional Republicans turned on President Donald Trump on Wednesday after a crowd of supporters stormed the Capitol building in a bid to help him overturn his defeat in the November election."
-    publishedDateTime: 2021-01-07T00:57:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-republicans/banana-republic-crap-some-republicans-turn-on-trump-over-capitol-violence-idUSKBN29B33W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29B33W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B33W"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546879759&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0601F"
-        width: 828
-        height: 545
-        isCached: true
-  - title: "After Trump backs down on stimulus bill, Democrats aim for higher relief checks"
-    excerpt: "Democrats in the U.S. Congress on Monday will try to push through expanded $2,000 pandemic relief payments for Americans after President Donald Trump backed down from a fight with lawmakers that could have shut down the federal government."
-    publishedDateTime: 2020-12-28T13:51:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN2920I0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2920I0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2920I0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545962041&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR0I6"
-        width: 757
-        height: 545
-        isCached: true
-  - title: "After Trump backs down on stimulus bill, Democrats aim for higher relief checks"
-    excerpt: "Democrats in the U.S. Congress on Monday will try to push through expanded $2,000 pandemic relief payments for Americans after President Donald Trump backed down from a fight with lawmakers that could have shut down the federal government."
-    publishedDateTime: 2020-12-28T19:06:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idINKBN2920I0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2920I0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2920I0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201228&t=2&i=1545964758&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBR07Z"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Donald Trump Attacks GOP South Dakota Senator in One of His First Tweets of 2021"
-    excerpt: "President Donald Trump 's first tweet of 2021 came Friday morning in the form of a a simple \"HAPPY NEW YEAR!\" A few hours later, however, he attacked fellow Republican John Thune, the senior U.S. senator from South Dakota."
-    publishedDateTime: 2021-01-01T20:28:00Z
-    webUrl: "https://www.newsweek.com/trump-first-tweet-year-1558443"
-    ampWebUrl: "https://www.newsweek.com/trump-first-tweet-year-1558443?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-first-tweet-year-1558443?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 120
-    images:
-      - url: "https://d.newsweek.com/en/full/1696729/thune-trump.jpg"
-        width: 3000
-        height: 2460
-        isCached: true
-  - title: "Guns and teargas in U.S. Capitol as Trump supporters attempt to overturn his loss"
-    excerpt: "Police in the U.S. Capitol on Wednesday responded with drawn guns and tear gas on Wednesday as swarms of protesters stormed in and sought to force Congress to undo President Donald Trump's election loss shortly after some of Trump's fellow Republicans launched a"
-    publishedDateTime: 2021-01-06T22:43:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN29B2PS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29B2PS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29B2PS"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546855438&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH051HV"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Congressional Dems move forward on $2,000 checks after Trump signs COVID relief bill"
-    excerpt: "Trump caved his on demands and signed the COVID relief bill, but it's unclear if efforts by Democrats to approve increased relief payments will make it out of the Senate."
-    publishedDateTime: 2020-12-29T01:35:00Z
-    webUrl: "https://abcnews.go.com/Politics/congressional-dems-move-forward-2000-checks-trump-signs/story?id=74934167"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/congressional-dems-move-forward-2000-checks-trump-signs/story?id=74934167"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/congressional-dems-move-forward-2000-checks-trump-signs/story?id=74934167"
+  - title: "Housing advocates call on Biden to extend eviction ban"
+    excerpt: "Housing advocates around the country are calling on the incoming Biden administration to extend and strengthen the current federal ban on evictions"
+    publishedDateTime: 2021-01-13T20:39:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/housing-advocates-call-biden-extend-eviction-ban-75232044"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/housing-advocates-call-biden-extend-eviction-ban-75232044"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/housing-advocates-call-biden-extend-eviction-ban-75232044"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 118
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/washington-gty-jc-201228_1609176677117_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Health/WireAP_662a16230c2f436cacdde5dedaf20a27_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Republicans React to Donald Trump Pressuring Georgia Official to 'Find 11,780 Votes'"
-    excerpt: "Some Republicans reacted strongly to President Donald Trump pressuring Georgia Secretary of State Brad Raffensperger to \"find me 11,780 votes,\" but most GOP lawmakers remained silent on Sunday as their Democratic colleagues condemned the \"immoral\" effort to reverse his election defeat to President-elect Joe Biden."
-    publishedDateTime: 2021-01-03T22:29:00Z
-    webUrl: "https://www.newsweek.com/republicans-react-donald-trump-pressuring-georgia-official-find-11780-votes-1558597"
-    ampWebUrl: "https://www.newsweek.com/republicans-react-donald-trump-pressuring-georgia-official-find-11780-votes-1558597?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/republicans-react-donald-trump-pressuring-georgia-official-find-11780-votes-1558597?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
-    images:
-      - url: "https://d.newsweek.com/en/full/1696972/donald-trump-air-force-one.jpg"
-        width: 2004
-        height: 1362
-        isCached: true
-  - title: "Democrats, Republicans race to finish in Ga. as Trump casts shadow over Senate runoffs"
-    excerpt: "Debate over President Trump's own electoral grievances dominated the final day of campaigning for two U.S. Senate runoffs in Georgia on Monday, raising concerns among Republican strategists and local officials that his conspiracy theories would depress GOP turnout and jeopardize continued Senate control."
-    publishedDateTime: 2021-01-05T06:01:00Z
-    webUrl: "https://www.washingtonpost.com/politics/georgia-senate-trump/2021/01/04/bc38c454-4eb1-11eb-bda4-615aaefd0555_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/georgia-senate-trump/2021/01/04/bc38c454-4eb1-11eb-bda4-615aaefd0555_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/georgia-senate-trump/2021/01/04/bc38c454-4eb1-11eb-bda4-615aaefd0555_story.html?outputType=amp"
+  - title: "The Latest: Biden hopes Senate can balance trial, other work"
+    excerpt: "President-elect Joe Biden says he hopes the Senate can balance a second impeachment trial of President Donald Trump with “other urgent business” as the coronavirus pandemic rages"
+    publishedDateTime: 2021-01-14T06:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-hopes-senate-can-balance-trial-other-work/2021/01/13/eb1e34fa-5606-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-hopes-senate-can-balance-trial-other-work/2021/01/13/eb1e34fa-5606-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-hopes-senate-can-balance-trial-other-work/2021/01/13/eb1e34fa-5606-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 117
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WRNCOVCO3II6XIPV7WXSRT6KSA.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Here's the lineup for President-elect Biden's inauguration ceremonies"
+    excerpt: "The election of President-elect Biden and Vice President-elect Harris was historic and we know that many Americans would have wanted to attend the Inauguration in-person. At th"
+    publishedDateTime: 2021-01-14T19:47:00Z
+    webUrl: "https://thehill.com/changing-america/enrichment/arts-culture/534281-heres-the-lineup-for-president-elect-bidens"
+    ampWebUrl: "https://thehill.com/changing-america/enrichment/arts-culture/534281-heres-the-lineup-for-president-elect-bidens?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/arts-culture/534281-heres-the-lineup-for-president-elect-bidens?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_inauguration_getty_0.jpg"
         width: 1440
-        height: 960
+        height: 880
         isCached: true
-  - title: "Georgia Republicans rebut Trump lawsuit that seeks to disenfranchise millions of voters"
-    excerpt: "Lawyers for Republican Gov. Brian Kemp and Secretary of State Brad Raffensperger said Trump \"seeks to disenfranchise millions of Georgia voters.\""
-    publishedDateTime: 2021-01-05T06:39:00Z
-    webUrl: "https://www.businessinsider.com/georgia-republicans-rebut-trump-lawsuit-over-2020-election-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/georgia-republicans-rebut-trump-lawsuit-over-2020-election-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-republicans-rebut-trump-lawsuit-over-2020-election-2021-1?amp"
+  - title: "Senate Democrats signal hope for bipartisan Trump impeachment trial"
+    excerpt: "One day after Trump was impeached a second time, a growing number of Republican senators have signaled that they are open to convicting Trump on the charge of “incitement of insurrection.”"
+    publishedDateTime: 2021-01-15T06:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/senate-democrats-signal-hope-for-bipartisan-trump-impeachment-trial/2021/01/14/d1ffa54a-5687-11eb-a08b-f1381ef3d207_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/senate-democrats-signal-hope-for-bipartisan-trump-impeachment-trial/2021/01/14/d1ffa54a-5687-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-democrats-signal-hope-for-bipartisan-trump-impeachment-trial/2021/01/14/d1ffa54a-5687-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5fb302601c741f0019aca267?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ECKJTBCWQAI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 954
         isCached: true
-  - title: "GOP Congressman-elect Burgess Owens says 'there's no question' that Trump was reelected to a second term"
-    excerpt: "Utah Rep. Owens said challenges to President-elect Joe Biden's presidential victory on the House floor is \"the right thing to do.\""
-    publishedDateTime: 2021-01-02T17:43:00Z
-    webUrl: "https://www.businessinsider.com/burgess-owens-utah-trump-election-challenge-house-electoral-college-2021-01"
-    ampWebUrl: "https://www.businessinsider.com/burgess-owens-utah-trump-election-challenge-house-electoral-college-2021-01?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/burgess-owens-utah-trump-election-challenge-house-electoral-college-2021-01?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 108
-    images:
-      - url: "https://i.insider.com/5ff0a420a18a450018cb6856?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "At odds with fiscal conservatism, Georgia's GOP candidates support Trump's demand for $2,000 stimulus checks"
-    excerpt: "Sens. Loeffler and Perdue said they support President Trump's call for bigger stimulus checks going to the American people, putting them at odds with fiscal conservatism."
-    publishedDateTime: 2020-12-29T20:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/odds-fiscal-conservatism-georgias-gop-candidates-support-trumps/story?id=74948837"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/odds-fiscal-conservatism-georgias-gop-candidates-support-trumps/story?id=74948837"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/odds-fiscal-conservatism-georgias-gop-candidates-support-trumps/story?id=74948837"
+  - title: "Trump isolated during final days as Senate trial looms"
+    excerpt: "Key allies on Capitol Hill have bucked him, advisers are avoiding him, and his lawyers have largely refused to defend him as he faces a second impeachment trial."
+    publishedDateTime: 2021-01-15T00:29:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-isolated-final-days-senate-trial-looms/story?id=75250931"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-isolated-final-days-senate-trial-looms/story?id=75250931"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-isolated-final-days-senate-trial-looms/story?id=75250931"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 106
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/stimulis-checks-covid-kelly-loeffler-david-perdue-04-gty-llr-201229_1609264424598_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/trump-white-house-01-gty-iwb-210113_1610553950499_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Fate of Trump's $2,000 checks now rests with GOP-led Senate"
-    excerpt: "President Donald Trump’s push for $2,000 COVID-19 relief checks now rests with the Senate after the House voted overwhelmingly to meet the president's demand to increase the $600 stipends, but Republicans have shown little interest in boosting spending."
-    publishedDateTime: 2020-12-30T04:04:00Z
-    webUrl: "https://www.businessinsider.com/fate-of-trumps-2000-checks-now-rests-with-gop-led-senate-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/fate-of-trumps-2000-checks-now-rests-with-gop-led-senate-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fate-of-trumps-2000-checks-now-rests-with-gop-led-senate-2020-12?amp"
+  - title: "Biden will elevate White House science office to cabinet-level"
+    excerpt: "President-elect Joe Biden will elevate the White House Office of Science and Technology Policy to a cabinet-level agency and picks world famous geneticist Eric Lander to run it."
+    publishedDateTime: 2021-01-16T03:58:00Z
+    webUrl: "https://www.washingtonpost.com/science/2021/01/15/biden-lander-ostp/"
+    ampWebUrl: "https://www.washingtonpost.com/science/2021/01/15/biden-lander-ostp/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/science/2021/01/15/biden-lander-ostp/?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Trump lashes out at GOP after override vote on defense bill"
-    excerpt: "President Donald Trump lashed out at congressional Republicans a day after the House easily voted to override his veto of a defense policy bill."
-    publishedDateTime: 2020-12-30T19:17:00Z
-    webUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-lashes-out-at-gop-after-override-vote-on-defense-bill-2020-12?amp"
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VQYGJGSXLUI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Democrats wrestle with length of Trump trial"
+    excerpt: "Democrats are eager to punish Trump for inciting the attack on the U.S. Capitol, but wary of a Senate trial dragging on too long and slowing Biden’s agenda. They hope to keep the trial short without truncating their case."
+    publishedDateTime: 2021-01-16T00:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-senate-trial-length/2021/01/15/6bf5ba5a-5759-11eb-a08b-f1381ef3d207_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-senate-trial-length/2021/01/15/6bf5ba5a-5759-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-senate-trial-length/2021/01/15/6bf5ba5a-5759-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Trump's call for $2,000 cheques blocked by Senate leader"
-    excerpt: "US Senate Republican leader Mitch McConnell has rejected calls from an unlikely alliance of President Donald Trump, congressional Democrats and some Republicans to boost coronavirus aid. The House of Representatives,"
-    publishedDateTime: 2021-01-01T18:54:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55484625"
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HVILYYCV5II6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 928
+        isCached: true
+  - title: "The worst defenses of Trump on the Capitol riot"
+    excerpt: "On Jan. 6, misinformation promoted by President Trump and his allies fomented a violent attempted insurrection at the U.S. Capitol in Washington. And since then, similar misinformation has been used to try and explain it all away."
+    publishedDateTime: 2021-01-16T00:37:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/15/worst-defenses-trump-capitol-riot/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/15/worst-defenses-trump-capitol-riot/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/15/worst-defenses-trump-capitol-riot/?outputType=amp"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2VTUAGSXI4I6XIEL6E4B546SA4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump gives award to Morocco’s king in private ceremony"
+    excerpt: "President Donald Trump has awarded a top U.S. honor to King Mohammed VI of Morocco, citing his decision to begin normalization of relations with Israel"
+    publishedDateTime: 2021-01-16T04:50:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/trump-gives-award-to-moroccos-king-in-private-ceremony/2021/01/15/64639d2e-578c-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/trump-gives-award-to-moroccos-king-in-private-ceremony/2021/01/15/64639d2e-578c-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/trump-gives-award-to-moroccos-king-in-private-ceremony/2021/01/15/64639d2e-578c-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden, a longtime ally of police, will enter White House pushing for reform"
+    excerpt: "We’ve always had a good working relationship with Biden,” said Jim Pasco, executive director of the Fraternal Order of Police, which twice endorsed Trump. He was one of the first police officials invited to meet with the Biden transition team."
+    publishedDateTime: 2021-01-11T13:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/11/biden-police-reform/?arc404=true"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/11/biden-police-reform/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/11/biden-police-reform/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QFBYXHRLUUI6TEDOTVK3MRI6WQ.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
+  - title: "Biden minimum wage proposal could lift more than 1 million workers out of poverty"
+    excerpt: "Biden's $1.9T coronavirus relief plan 08:37 President-elect Joe Biden's proposal to more than double the federal minimum wage would provide an urgently pay hike to millions of low-income workers and help stem inequality in the U.S., economists and labor ..."
+    publishedDateTime: 2021-01-16T12:20:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-minimum-wage-proposal-15-dollars/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-minimum-wage-proposal-15-dollars/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-minimum-wage-proposal-15-dollars/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2017/05/11/5336839b-a019-4a00-b23f-b7ecff36d89b/thumbnail/1200x630/410fe7a3a36baf030734fd1e03448f73/wages-rtx2a0yj.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Can Trump be tried for impeachment after leaving office? Would he keep his pension?"
+    excerpt: "This is raising questions about whether he can even be tried for impeachment, since he'll already have moved out of the White House — and whether he'd still enjoy the benefits accorded to former presidents if the Senate convicts him."
+    publishedDateTime: 2021-01-15T12:33:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-impeachment-leaving-office/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-impeachment-leaving-office/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-impeachment-leaving-office/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/12/9f041b88-1a5f-4dd5-9213-d06622116b6c/thumbnail/1200x630/6219b8c8009a7033546036bc1223f898/gettyimages-1230087931.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "For those who quit Trump after riot, critics say it’s too little — and four years too late"
+    excerpt: "The violent insurrection at the U.S. Capitol incited by the president set off a dramatic wave of resignations and attempts at distancing among administration officials and longtime advisers."
+    publishedDateTime: 2021-01-15T16:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-quit-riot/2021/01/14/a12a3d86-54ed-11eb-a817-e5e7f8a406d6_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-quit-riot/2021/01/14/a12a3d86-54ed-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-quit-riot/2021/01/14/a12a3d86-54ed-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3Q5DEDBOQAI6XHOWFUAXTGAXDE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "With Trump banned from Twitter, his supporters are parsing speeches for clues about what’s next"
+    excerpt: "Many of the president’s allies have struggled to glean clear marching orders from him since his banishment from social media."
+    publishedDateTime: 2021-01-14T22:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/with-trump-banned-from-twitter-his-supporters-are-parsing-speeches-for-clues-about-whats-next/2021/01/14/985e06dc-5534-11eb-a08b-f1381ef3d207_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/with-trump-banned-from-twitter-his-supporters-are-parsing-speeches-for-clues-about-whats-next/2021/01/14/985e06dc-5534-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/with-trump-banned-from-twitter-his-supporters-are-parsing-speeches-for-clues-about-whats-next/2021/01/14/985e06dc-5534-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R5HHSKSWOII6XIEL6E4B546SA4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden will have more women in his Cabinet than any president ever. Other countries still do better."
+    excerpt: "Most cabinets have a \"concrete floor\" for gender representation, and rarely go lower. Will Biden raise that floor in the United States?"
+    publishedDateTime: 2021-01-16T02:03:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/15/biden-will-have-more-women-his-cabinet-than-any-president-ever-other-countries-still-do-better/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/15/biden-will-have-more-women-his-cabinet-than-any-president-ever-other-countries-still-do-better/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/15/biden-will-have-more-women-his-cabinet-than-any-president-ever-other-countries-still-do-better/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BRCTLGB37YI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden, once a warrior, may slowly retreat from the ‘war on drugs’"
+    excerpt: "President-elect Joe Biden built part of his political career on being known as a fighter in the “war on drugs,” supporting legislation as a senator that set harsh penalties for some drug offenses. But as president, Biden could potentially oversee broad changes in federal drug policy, including how the government and law enforcement agencies view drug addiction and treatment and classify the use of marijuana. Biden will take office at a time when the nation’s attitudes about drugs, particularly the legalization or decriminalization of marijuana, appear to be one area where there is relative, and growing, bipartisan unity. In an election that was otherwise defined by stark political differences, voters in both red states and blue states — Arizona, Montana, New Jersey and South Dakota — supported ballot initiatives to legalize the personal use of marijuana, while Mississippi voters legalized it for medicinal use. Along with earlier action by state legislatures or voters, 15 states have legalized marijuana, while 36 others have approved some form of medicinal marijuana use, according to the National Conference of State Legislatures. But marijuana remains illegal under federal law, leaving users and suppliers vulnerable to prosecution even in places where the drug is otherwise legally sold and used. The nation’s growing cannabis industry also faces hurdles in transporting its products across state lines and accessing the country’s federally regulated banking system. During his primary campaign, Biden was one of the few Democratic candidates who did not support federal legalization of marijuana for recreational use, citing concerns that it could be a “gateway drug.” But during the general-election campaign, he softened his stance, saying that the drug should be decriminalized and that individual states should decide whether to legalize it for recreational use. As the general-election campaign progressed, Kamala D. Harris, Biden’s running mate and a former prosecutor, also advocated for the decriminalization of marijuana despite past opposition to legalizing it. During the October vice-presidential debate, Harris said a Biden-Harris administration “will decriminalize marijuana, and we will expunge the records of those who have been convicted of marijuana” crimes. Marijuana advocates are gearing up to make sure Biden sticks to his campaign pledge, which they note that strong majorities of Democratic voters support, according to recent polls. Last month, for the first time, the Democratic-controlled House voted — 228 to 164 — to decriminalize marijuana and remove it from the federal schedule of controlled substances. The Republican-controlled Senate did not take up the measure, and many advocates are skeptical of its chances there, even though Democrats narrowly won control of the chamber after two runoff elections in Georgia last week. But advocates say Biden can still push toward decriminalization, even without a vote from Congress. Under its current classification, which dates to a decision made under President Richard Nixon in 1970, marijuana is classified as a Schedule I narcotic for having “no currently accepted medical use and a high potential for abuse.” The remaining schedules of narcotics, II through V, are ranked by their potential for abuse and perceived level of danger, and the classifications help guide federal enforcement and regulations for controlled substances, including prescription medication. Maritza Perez, director of national affairs for the pro-reform Drug Policy Alliance, said legal analysts for the movement think the Biden administration can unilaterally reschedule marijuana to a higher classification or even remove it from the list. Although she prefers congressional action, Perez said the administration could declassify marijuana through a process that would involve sign-off from the incoming attorney general as well as the secretary of the Department of Health and Human Services. Biden has nominated California Attorney General Xavier Becerra, who has defended his state’s legalization of marijuana, as his secretary of Health and Human Services. “The attorney general would have to work hand-in-hand with the HHS secretary, but we think this is certainly something within the administration's power, which is why the marijuana advocates have been pushing for him to appoint a pro-marijuana AG,” Perez said. But Sam Kamin, a law professor at the Sturm College of Law at the University of Denver and a leading expert on marijuana laws, is skeptical that Biden will aggressively pursue the unilateral rescheduling or de-scheduling of marijuana. De-scheduling the drug could upend international drug control treaties, while rescheduling it could undercut state medical marijuana laws, he said. “They can begin the rescheduling process, but whether they can de-schedule without stepping on other rules and regulations is more complicated,” Kamin said. “Treating marijuana like a Schedule II or III drug would create serious tensions with a lot of states. … If it was scheduled the same way Vicodin is scheduled, you could not get it over-the-counter as you can in many states. You would need a prescription from a medical doctor.” Even if Biden decides to largely steer clear of the marijuana debate, advocates for reforming the nation’s drug laws still think his administration will usher in a new period of compassion when it comes to addiction. To combat the opioid crisis, Biden has promised to spend an additional $125 billion over 10 years on drug treatment and prevention programs, while also supporting some controversial local initiatives such as needle exchanges. Perez is optimistic that the Biden administration, unlike President Trump’s, will take a hands-off approach when it comes to proposals by some cities to open safe-injection sites, where people can use illegal drugs in safe, monitored environments. Last year, the Trump administration sued to try to stop Philadelphia from opening a so-called safe injection site. But Perez noted in July that Becerra, as California attorney general, joined a multistate amicus brief in support of Philadelphia. ““Safe injection sites … are an innovative tool to combat the opioid epidemic and drug dependency while reducing overdose death and transmission of diseases,” Becerra said at the time. Amy B Wang contributed to this report."
+    publishedDateTime: 2021-01-11T13:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/11/biden-war-on-drugs/?arc404=true"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 105
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/8EA8/production/_116302563_gettyimages-1292136820.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.washingtonpost.com/resizer/arr6lWTxuwivtVobxHjquOFT9z8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHBV43XF2QI6TMFGHUBXEG4F54.jpg"
+        width: 1484
+        height: 991
         isCached: true
-  - title: "'He's on his own': Some Republicans begin to flee from Trump"
-    excerpt: "President Donald Trump's steadfast grip on Republicans in Washington is beginning to crumble, leaving him more politically isolated than at any other point in his turbulent administration."
-    publishedDateTime: 2021-01-09T10:09:00Z
-    webUrl: "https://www.businessinsider.com/hes-on-his-own-some-republicans-begin-to-flee-from-trump-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/hes-on-his-own-some-republicans-begin-to-flee-from-trump-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hes-on-his-own-some-republicans-begin-to-flee-from-trump-2021-1?amp"
+  - title: "Biden, once a warrior in the ‘war on drugs,’ may slowly retreat"
+    excerpt: "President-elect Joe Biden built part of his political career on being known as a fighter in the “war on drugs,” supporting legislation as a senator that set harsh penalties for some drug offenses. But as president, Biden could potentially oversee broad changes in federal drug policy, including how the government and law enforcement agencies view drug addiction and treatment and classify the use of marijuana. Support our journalism. Subscribe today. Biden will take office at a time when the nation’s attitudes about drugs, particularly the legalization or decriminalization of marijuana, appear to be one area where there is relative, and growing, bipartisan unity. Oregon decriminalizes possession of hard drugs as four other states legalize recreational marijuana In an election that was otherwise defined by stark political differences, voters in both red states and blue states — Arizona, Montana, New Jersey and South Dakota — supported ballot initiatives to legalize the personal use of marijuana, while Mississippi voters legalized it for medicinal use. Along with earlier action by state legislatures or voters, 15 states have legalized marijuana, while 36 others have approved some form of medicinal marijuana use, according to the National Conference of State Legislatures. But marijuana remains illegal under federal law, leaving users and suppliers vulnerable to prosecution even in places where the drug is otherwise legally sold and used. The nation’s growing cannabis industry also faces hurdles in transporting its products across state lines and accessing the country’s federally regulated banking system. During his primary campaign, Biden was one of the few Democratic candidates who did not support federal legalization of marijuana for recreational use, citing concerns that it could be a “gateway drug.” But during the general-election campaign, he softened his stance, saying that the drug should be decriminalized and that individual states should decide whether to legalize it for recreational use. As the general-election campaign progressed, Kamala D. Harris, Biden’s running mate and a former prosecutor, also advocated for the decriminalization of marijuana despite past opposition to legalizing it. During the October vice-presidential debate, Harris said a Biden-Harris administration “will decriminalize marijuana, and we will expunge the records of those who have been convicted of marijuana” crimes. Marijuana advocates are gearing up to make sure Biden sticks to his campaign pledge, which they note that strong majorities of Democratic voters support, according to recent polls. Last month, for the first time, the Democratic-controlled House voted — 228 to 164 — to decriminalize marijuana and remove it from the federal schedule of controlled substances. The Republican-controlled Senate did not take up the measure, and many advocates are skeptical of its chances there, even though Democrats narrowly won control of the chamber after two runoff elections in Georgia last week. But advocates say Biden can still push toward decriminalization, even without a vote from Congress. Under its current classification, which dates to a decision made under President Richard Nixon in 1970, marijuana is classified as a Schedule I narcotic for having “no currently accepted medical use and a high potential for abuse.” The remaining schedules of narcotics, II through V, are ranked by their potential for abuse and perceived level of danger, and the classifications help guide federal enforcement and regulations for controlled substances, including prescription medication. Maritza Perez, director of national affairs for the pro-reform Drug Policy Alliance, said legal analysts for the movement think the Biden administration can unilaterally reschedule marijuana to a higher classification or even remove it from the list. Although she prefers congressional action, Perez said the administration could declassify marijuana through a process that would involve sign-off from the incoming attorney general as well as the secretary of the Department of Health and Human Services. Biden has nominated California Attorney General Xavier Becerra, who has defended his state’s legalization of marijuana, as his secretary of Health and Human Services. “The attorney general would have to work hand-in-hand with the HHS secretary, but we think this is certainly something within the administration's power, which is why the marijuana advocates have been pushing for him to appoint a pro-marijuana AG,” Perez said. But Sam Kamin, a law professor at the Sturm College of Law at the University of Denver and a leading expert on marijuana laws, is skeptical that Biden will aggressively pursue the unilateral rescheduling or de-scheduling of marijuana. De-scheduling the drug could upend international drug control treaties, while rescheduling it could undercut state medical marijuana laws, he said. “They can begin the rescheduling process, but whether they can de-schedule without stepping on other rules and regulations is more complicated,” Kamin said. “Treating marijuana like a Schedule II or III drug would create serious tensions with a lot of states. … If it was scheduled the same way Vicodin is scheduled, you could not get it over-the-counter as you can in many states. You would need a prescription from a medical doctor.” Even if Biden decides to largely steer clear of the marijuana debate, advocates for reforming the nation’s drug laws still think his administration will usher in a new period of compassion when it comes to addiction. To combat the opioid crisis, Biden has promised to spend an additional $125 billion over 10 years on drug treatment and prevention programs, while also supporting some controversial local initiatives such as needle exchanges. Perez is optimistic that the Biden administration, unlike President Trump’s, will take a hands-off approach when it comes to proposals by some cities to open safe-injection sites, where people can use illegal drugs in safe, monitored environments. Last year, the Trump administration sued to try to stop Philadelphia from opening a so-called safe injection site. But Perez noted in July that Becerra, as California attorney general, joined a multistate amicus brief in support of Philadelphia. “Safe injection sites … are an innovative tool to combat the opioid epidemic and drug dependency while reducing overdose death and transmission of diseases,” Becerra said at the time."
+    publishedDateTime: 2021-01-11T20:07:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/11/biden-war-on-drugs/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 105
-  - title: "Republican U.S. Senator Toomey says Trump should resign"
-    excerpt: "U.S. Senator Pat Toomey said on Sunday that President Donald Trump, a fellow Republican, should resign after his supporters stormed the U.S. Capitol in a deadly rampage."
-    publishedDateTime: 2021-01-10T14:30:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-toomey/republican-u-s-senator-toomey-says-trump-should-resign-idUSKBN29F0E6?edition-redirect=ca"
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHBV43XF2QI6TMFGHUBXEG4F54.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
+  - title: "Biden Defense pick faces eligibility questions from Democrats"
+    excerpt: "A handful of U.S. Senate Armed Services Committee Democrats voiced reservations on Tuesday about making another retired general the top civilian official at the Department of Defense, some citing last week's rampage at the U."
+    publishedDateTime: 2021-01-12T20:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-pentagon/biden-defense-pick-faces-eligibility-questions-from-democrats-idUSKBN29H2QR"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547536884&r=LYNXMPEH0B1G0&w=800"
+        width: 800
+        height: 544
+        isCached: true
+  - title: "Three U.S. House Republicans declare support for impeaching Trump"
+    excerpt: "President Donald Trump's iron grip on his party showed further signs of weakening on Tuesday as at least three Republicans, including a member of the House leadership, said they would vote to impeach him after his supporters stormed the Capitol."
+    publishedDateTime: 2021-01-13T06:41:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/some-house-republicans-join-impeachment-push-pence-says-he-will-not-move-to-expel-trump-idUSKBN29H0JJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "20,000 guardsmen to deploy for Biden inauguration"
+    excerpt: "While Congress acted to impeach him, President Donald Trump on Wednesday urged his supporters to shun violence as the National Guard prepared to deploy at least 20,000 troops in Washington for the Jan."
+    publishedDateTime: 2021-01-13T23:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration/acting-u-s-attorney-general-warns-insurrectionists-against-further-attacks-idUSKBN29I1RZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547699627&r=LYNXMPEH0C1TD&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "U.S. Senate moves toward confirming Biden cabinet nominees"
+    excerpt: "The U.S. Senate Intelligence Committee said on Wednesday it had scheduled a confirmation hearing for President-elect Joe Biden's nominee to be director of national intelligence, after delays in the transition process for some nominees."
+    publishedDateTime: 2021-01-14T05:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet/u-s-senate-moves-toward-confirming-biden-cabinet-nominees-idUSKBN29J00Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547710021&r=LYNXMPEH0D01S&w=800"
+        width: 799
+        height: 533
+        isCached: true
+  - title: "What a Final-Days Impeachment Would Mean for Trump"
+    excerpt: "Donald Trump’s four-year term as president ends on Jan. 20 at noon. That’s not soon enough for some in Congress, who have initiated an unprecedented second effort to impeach him, one year after the U."
+    publishedDateTime: 2021-01-13T18:52:00Z
+    webUrl: "https://www.washingtonpost.com/business/what-a-final-days-impeachment-would-mean-for-trump/2021/01/13/071dfccc-55a7-11eb-acc5-92d2819a1ccb_story.html?amp;amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZFJUESVU4I6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Second Trump impeachment trial takes U.S. into uncharted waters"
+    excerpt: "America will be in uncharted territory when the U.S. Senate meets as soon as next week for the second impeachment trial of Donald Trump, a case against the outgoing president that one Democrat preparing for arguments called \"shockingly evident."
+    publishedDateTime: 2021-01-15T02:14:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump/wrapup-3-u-s-in-uncharted-waters-in-unprecedented-second-impeachment-of-trump-idUSL1N2JP075"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547771325&r=LYNXMPEH0D0PK&w=800"
+        width: 800
+        height: 526
+        isCached: true
+  - title: "U.S. airlines back Biden plan to mandate masks for passengers"
+    excerpt: "A group representing major U.S. airlines on Thursday backed President-elect Joe Biden's plan to mandate face coverings for all air passengers, but asked him to give them flexibility in enforcing it."
+    publishedDateTime: 2021-01-15T01:29:00Z
+    webUrl: "https://www.reuters.com/article/usa-transportation-biden/update-2-us-airlines-back-biden-plan-to-mandate-masks-for-passengers-idUSL1N2JP2FN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547833461&r=LYNXMPEH0D1HX&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "U.S. in uncharted waters in unprecedented second impeachment of Trump"
+    excerpt: "America will be in uncharted territory when the U.S. Senate meets as soon as next week for the impeachment trial of Donald Trump, the first U.S. president both to be impeached a second time and to face trial by lawmakers after leaving office."
+    publishedDateTime: 2021-01-14T22:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump/us-in-uncharted-waters-in-unprecedented-second-impeachment-of-trump-idUSKBN29J1B6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547771325&r=LYNXMPEH0D0PK&w=800"
+        width: 800
+        height: 526
+        isCached: true
+  - title: "Biden nominates veteran diplomats for top State posts"
+    excerpt: "Democratic President-elect Joe Biden on Saturday nominated U.S. foreign policy veteran Wendy Sherman, a key negotiator of the 2015 nuclear deal with Iran, to be the No. 2 official at the State Department."
+    publishedDateTime: 2021-01-16T14:27:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN29L0I0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548043131&r=LYNXMPEH0F0D0&w=800"
+        width: 800
+        height: 609
+        isCached: true
+  - title: "Outgoing Trump admin mulls industry-wide biofuel waiver for oil refiners"
+    excerpt: "The Trump administration is considering requests from the oil refining industry and its backers for a sweeping nationwide waiver to exempt them from their obligations to blend biofuels, a measure they argue would help them weather the economic impact of the coronavirus"
+    publishedDateTime: 2021-01-16T00:32:00Z
+    webUrl: "https://www.reuters.com/article/usa-biofuels/update-5-outgoing-trump-admin-mulls-industry-wide-biofuel-waiver-for-oil-refiners-idUSL1N2JQ17Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
     images:
       - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
         width: 1200
         height: 630
         isCached: true
-  - title: "Republican U.S. Senator Toomey says Trump should resign"
-    excerpt: "U.S. Senator Pat Toomey said on Sunday that President Donald Trump, a fellow Republican, should resign after his supporters stormed the U.S. Capitol in a deadly rampage last week."
-    publishedDateTime: 2021-01-10T20:31:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-toomey-idUSKBN29F0E6"
+  - title: "Operation Warp Speed chief adviser resigns, Biden's transition official says"
+    excerpt: "Moncef Slaoui, the chief adviser for Operation Warp Speed, has resigned but will be available to the incoming Joe Biden administration as a consultant for about four weeks, a Biden transition official told Reuters late on Tuesday."
+    publishedDateTime: 2021-01-13T11:08:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-slaoui-idUSKBN29I097"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 105
+    quality: 102
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547281312&r=LYNXMPEH090BS&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547574508&r=LYNXMPEH0C05S&w=800"
         width: 800
-        height: 533
+        height: 577
         isCached: true
-  - title: "The Latest: Toomey is 2nd GOP senator to urge Trump to quit"
-    excerpt: "WASHINGTON (AP) — The Latest on President Donald Trump and (all times local):"
-    publishedDateTime: 2021-01-11T04:54:00Z
-    webUrl: "https://www.businessinsider.com/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "US diplomats in extraordinary protest against Trump for riot"
-    excerpt: "In a highly unusual move, American diplomats have drafted two cables condemning President Donald Trump’s incitement of the deadly assault on the Capitol and calling for administration officials to support invoking the 25th Amendment to remove him from office."
-    publishedDateTime: 2021-01-10T20:14:00Z
-    webUrl: "https://www.businessinsider.com/us-diplomats-in-extraordinary-protest-against-trump-for-riot-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/us-diplomats-in-extraordinary-protest-against-trump-for-riot-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-diplomats-in-extraordinary-protest-against-trump-for-riot-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "GOP Sen. Pat Toomey calls on Trump to resign, says it's what's best for country after Capitol riot by Trump supporters"
-    excerpt: "GOP Sen. Pat Toomey calls on Trump to resign, says it's what's best for country after Capitol riot by Trump supporters"
-    publishedDateTime: 2021-01-10T14:52:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/gop-sen-pat-toomey-calls-trump-resign-best-75162036"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/gop-sen-pat-toomey-calls-trump-resign-best-75162036"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/gop-sen-pat-toomey-calls-trump-resign-best-75162036"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 101
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Democrats to discuss impeaching Trump for a second time after assault on Capitol"
-    excerpt: "Congressional Democrats on Friday were weighing impeaching U.S. President Donald Trump for an unprecedented second time after his supporters, inflamed by his false claims of election fraud, stormed the U."
-    publishedDateTime: 2021-01-08T14:08:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-int/democrats-to-discuss-impeaching-trump-for-a-second-time-after-assault-on-capitol-idUSKBN29D0NG"
+  - title: "U.S. state capitals on edge for armed protests as Trump presidency nears end"
+    excerpt: "Trump marches in all 50 state capitals this weekend, erecting barriers and calling in their National Guards to try to prevent the kind of violent attack that rattled the nation on Jan. 6."
+    publishedDateTime: 2021-01-16T12:01:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/u-s-state-capitals-on-edge-for-armed-protests-as-trump-presidency-nears-end-idUSKBN29L0CS"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 100
+    quality: 102
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547109229&r=LYNXMPEH070TB&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548028753&r=LYNXMPEH0F096&w=800"
         width: 800
         height: 533
         isCached: true
-  - title: "Michigan Trump supporter headed to election rally in D.C. says ‘We are going with God’"
-    excerpt: "A group of dedicated supporters of President Donald Trump in mid-Michigan are preparing to hit the road Tuesday for an overnight bus trip to Washington, D.C. Instead of going sight-seeing, though, the group plans to join Trump supporters from around the country for a public rally as Congress convenes Wednesday,"
-    publishedDateTime: 2021-01-05T18:43:00Z
-    webUrl: "https://www.mlive.com/news/saginaw-bay-city/2021/01/michigan-trump-supporter-headed-to-election-rally-in-dc-says-we-are-going-with-god.html"
-    ampWebUrl: "https://www.mlive.com/news/saginaw-bay-city/2021/01/michigan-trump-supporter-headed-to-election-rally-in-dc-says-we-are-going-with-god.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/saginaw-bay-city/2021/01/michigan-trump-supporter-headed-to-election-rally-in-dc-says-we-are-going-with-god.html?outputType=amp"
+  - title: "U.S. state capitals on edge for armed protests as Trump presidency nears end"
+    excerpt: "Trump marches in all 50 state capitals this weekend, erecting barriers and calling in their National Guards to try to prevent the kind of violent attack that rattled the nation on Jan. 6."
+    publishedDateTime: 2021-01-16T17:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/u-s-capitals-on-edge-for-armed-protests-as-trump-presidency-nears-end-idUSKBN29L0CS"
     type: article
     provider:
-      name: MLive
-      domain: mlive.com
-    quality: 82
+      name: Reuters
+      domain: reuters.com
+    quality: 102
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2CYRIMLMCBHNZPFUOUVBDQIYUI.JPG"
-        width: 2000
-        height: 1333
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548030531&r=LYNXMPEH0F09U&w=800"
+        width: 800
+        height: 519
         isCached: true
-  - title: "Twitter Users Slam Donald Trump For Making Election Fraud Claims Amid Chaos From Supporters"
-    excerpt: "Twitter users were not happy with President Donald Trump claiming that states want to \"redo their votes\" due to alleged fraud Wednesday and accused him of making a mockery of democracy."
-    publishedDateTime: 2021-01-07T11:00:00Z
-    webUrl: "https://www.ibtimes.com/twitter-users-slam-donald-trump-making-election-fraud-claims-amid-chaos-supporters-3116334"
-    ampWebUrl: "https://www.ibtimes.com/twitter-users-slam-donald-trump-making-election-fraud-claims-amid-chaos-supporters-3116334?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-users-slam-donald-trump-making-election-fraud-claims-amid-chaos-supporters-3116334?amp=1"
+  - title: "Biden says he hopes Senate leadership will work on other business during impeachment"
+    excerpt: "U.S. President-elect Joe Biden on Wednesday called on Senate leadership to work on other business while dealing with their responsibilities on impeachment after a House of Representatives vote that made Donald Trump the first U."
+    publishedDateTime: 2021-01-14T06:15:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-biden/biden-says-he-hopes-senate-leadership-will-work-on-other-business-during-impeachment-idUSKBN29J053"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547715105&r=LYNXMPEH0D03T&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Biden is raising tens of millions of dollars for his inauguration but won't say where the money is going"
+    excerpt: "Biden is raising tens of millions of dollars for the inaugural celebrations, including from corporate giants with big business before the federal government."
+    publishedDateTime: 2021-01-17T00:10:00Z
+    webUrl: "https://www.businessinsider.com/progressives-want-joe-biden-inauguration-transparent-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/600262d2660f6c0018349926?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump’s Senate impeachment trial could begin on day of Joe Biden’s inauguration"
+    excerpt: "The impeachment trial timeline and schedule are largely set by Senate procedures and will start as soon as the House delivers the article of impeachment."
+    publishedDateTime: 2021-01-14T20:11:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-trump-impeachment-senate-trial-20210114-adbtyldlkbehdbnl4gpltd56om-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-trump-impeachment-senate-trial-20210114-adbtyldlkbehdbnl4gpltd56om-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-trump-impeachment-senate-trial-20210114-adbtyldlkbehdbnl4gpltd56om-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 86
+    images:
+      - url: "https://www.baltimoresun.com/resizer/uc7JsXO_wNaKxuBank7JHQYgerU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4GOQL42XQBC6VEXMWNCTVGDZKU.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Tom Hanks Hosted Inauguration Special Sees Comparison of Joe Biden, Donald Trump Supporters"
+    excerpt: "An inauguration special for Joe Biden has drawn comparisons to the kind of celebrities who are showing support for him over Donald Trump."
+    publishedDateTime: 2021-01-14T17:50:00Z
+    webUrl: "https://www.ibtimes.com/tom-hanks-hosted-inauguration-special-sees-comparison-joe-biden-donald-trump-3122280"
+    ampWebUrl: "https://www.ibtimes.com/tom-hanks-hosted-inauguration-special-sees-comparison-joe-biden-donald-trump-3122280?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tom-hanks-hosted-inauguration-special-sees-comparison-joe-biden-donald-trump-3122280?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
     quality: 80
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/03/us-president-donald-trump-told-georgia-officials-they.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/24/tom-hanks-and-his-wife-rita-wilson-contracted.jpg"
         width: 1024
-        height: 657
+        height: 693
         isCached: true
-  - title: "Donald Trump fires shot that begins the Republican civil war | Opinion"
-    excerpt: "Trump's plot to challenge the electors in battleground states pits the GOP against itself. This civil war won't just be painful for Republicans."
-    publishedDateTime: 2021-01-06T18:29:00Z
-    webUrl: "https://www.freep.com/story/opinion/contributors/2021/01/06/trump-republican-civil-war-party/6565381002/"
-    ampWebUrl: "https://amp.freep.com/amp/6565381002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6565381002"
+  - title: "Donald Trump’s Republican wall eroding ahead of impeachment vote"
+    excerpt: "But with a sudden force, the wall of Republican support that has enabled Trump to weather a seemingly endless series of crises is beginning to erode. Trump’s weakened standing among his own party will come into sharper focus on Wednesday when the House is expected to impeach the president for inciting a riot at the U."
+    publishedDateTime: 2021-01-13T13:39:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/donald-trumps-republican-wall-eroding-ahead-of-impeachment-vote.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/donald-trumps-republican-wall-eroding-ahead-of-impeachment-vote.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/donald-trumps-republican-wall-eroding-ahead-of-impeachment-vote.html?outputType=amp"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Cleveland.com
+      domain: cleveland.com
     quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/48167d52-5c94-4dc5-89fe-2334b1ce123a-AP20293845861071.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4ZGO5EH3VREN3GDE3TMS7G657A.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Trump acknowledges defeat after Congress confirms electoral vote"
-    excerpt: "In a sign of the extraordinary events that had unfolded over the previous 24 hours, Trump’s statement acknowledging that he would leave office on Jan. 20 could not be posted on the president’s Twitter or Facebook feeds because both accounts have been suspended by the companies."
-    publishedDateTime: 2021-01-07T07:50:00Z
-    webUrl: "https://www.al.com/politics/2021/01/trump-acknowledges-defeat-after-congress-confirms-electoral-vote.html"
-    ampWebUrl: "https://www.al.com/politics/2021/01/trump-acknowledges-defeat-after-congress-confirms-electoral-vote.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/trump-acknowledges-defeat-after-congress-confirms-electoral-vote.html?outputType=amp"
+  - title: "U.S. House impeaches President Donald Trump for second time"
+    excerpt: "During debate on the articles of impeachment, House Speaker Nancy Pelosi asked Republicans and Democrats to “search their souls” ahead of the historic afternoon vote."
+    publishedDateTime: 2021-01-13T19:25:00Z
+    webUrl: "https://www.al.com/news/2021/01/us-house-impeaches-president-donald-trump-for-second-time.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/us-house-impeaches-president-donald-trump-for-second-time.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/us-house-impeaches-president-donald-trump-for-second-time.html?outputType=amp"
     type: article
     provider:
       name: al.com
       domain: al.com
     quality: 75
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NF3FSUHZ5RB75EWJHT3CBTA5SA.jpeg"
-        width: 1000
-        height: 666
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5N2JIVEV2BBOFDALIDFNMOQI2U.jpg"
+        width: 4155
+        height: 2770
         isCached: true
-  - title: "Alabama Republicans not blaming Trump for actions of supporters who stormed Capitol"
-    excerpt: "Secretary of State John Merrill, a Republican, did say that Trump and others fueled the violence with false claims that the results of the election could still be reversed."
-    publishedDateTime: 2021-01-10T11:00:00Z
-    webUrl: "https://www.al.com/news/2021/01/alabama-republicans-not-blaming-trump-for-actions-of-supporters-who-stormed-capitol.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/alabama-republicans-not-blaming-trump-for-actions-of-supporters-who-stormed-capitol.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/alabama-republicans-not-blaming-trump-for-actions-of-supporters-who-stormed-capitol.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 69
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SHVL4VDBIFGTLATHF2NXMANVUI.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
-  - title: "The NBA responded to Donald Trump-fueled Capitol rebellion with continued conformity"
-    excerpt: "In the aftermath of Wednesday’s seditious riots in Washington, D.C., two moments embodied the shortcomings of the nation’s response to the moment, and the limitations of polite reproach."
-    publishedDateTime: 2021-01-09T16:41:00Z
-    webUrl: "https://www.nydailynews.com/sports/basketball/ny-nba-capitol-riots-trump-20210109-zypmx5dz5je4rdsgc46ronpfei-story.html"
-    ampWebUrl: "https://www.nydailynews.com/sports/basketball/ny-nba-capitol-riots-trump-20210109-zypmx5dz5je4rdsgc46ronpfei-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/sports/basketball/ny-nba-capitol-riots-trump-20210109-zypmx5dz5je4rdsgc46ronpfei-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 68
-    images:
-      - url: "https://www.nydailynews.com/resizer/-wYVpAA1coBJZbUXehjSL_Ag4_8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7NEFLZHZBJTL5NL4H3ZOHVZ37Q.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump's $2,000 Checks All but Dead as GOP Senate Refuses Aid"
-    excerpt: "President Donald Trump's push for $2,000 COVID-19 relief checks was all but dead Wednesday as Senate Majority Leader Mitch McConnell proposed an alternative approach of loading up the bill with other White House priorities that appeared destined to fail."
-    publishedDateTime: 2020-12-30T20:19:00Z
-    webUrl: "https://www.usnews.com/news/health-news/articles/2020-12-30/trumps-2-000-checks-stall-in-senate-as-gop-blocks-vote"
-    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2020-12-30/trumps-2-000-checks-stall-in-senate-as-gop-blocks-vote?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-12-30/trumps-2-000-checks-stall-in-senate-as-gop-blocks-vote?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Trump's $2,000 Checks Stall in Senate as GOP Blocks Vote"
-    excerpt: "President Donald Trump’s push for bigger $2,000 COVID-19 relief checks stalled out Tuesday in the Republican-led Senate."
-    publishedDateTime: 2020-12-31T04:07:00Z
-    webUrl: "https://www.usnews.com/news/business/articles/2020-12-29/fate-of-trumps-2-000-checks-now-rests-with-gop-led-senate"
-    ampWebUrl: "https://www.usnews.com/news/business/articles/2020-12-29/fate-of-trumps-2-000-checks-now-rests-with-gop-led-senate?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2020-12-29/fate-of-trumps-2-000-checks-now-rests-with-gop-led-senate?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "US Congress Slaps Trump By Overriding Veto Of Defense Bill"
-    excerpt: "The US Congress on Friday dealt Donald Trump a humiliating blow in his last days in office with the Senate voting overwhelmingly to override his veto of a sweeping defense bill -- the first time lawmakers have done so during his presidency."
-    publishedDateTime: 2021-01-01T20:02:00Z
-    webUrl: "https://www.ibtimes.com/us-congress-slaps-trump-overriding-veto-defense-bill-3113099"
+  - title: "Who Are The 10 Republicans That Voted To Impeach Donald Trump?"
+    excerpt: "Ten Republicans joined Democrats in the House on Wednesday to impeach Donald Trump, making him the first president to be impeached twice. The article of impeachment accused President Trump of \"incitement of insurrection."
+    publishedDateTime: 2021-01-13T23:26:00Z
+    webUrl: "https://www.ibtimes.com/who-are-10-republicans-voted-impeach-donald-trump-3121356"
+    ampWebUrl: "https://www.ibtimes.com/who-are-10-republicans-voted-impeach-donald-trump-3121356?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/who-are-10-republicans-voted-impeach-donald-trump-3121356?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 55
+    quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/01/the-senate-vote-on-the-defense-bill-marked.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/12/16/democrats-are-pressuring-the-senates-republican-leader-to-AFP_1N46R9.jpg"
         width: 1024
-        height: 656
+        height: 703
         isCached: true
-  - title: "Trump Heard On Tape Urging State Official To 'Find' Votes For Him"
-    excerpt: "President Donald Trump pressured the Georgia secretary of state in an extraordinary phone conversation Saturday to \"find\" enough votes to overturn Joe Biden's victory in the Southern state, news media reported Sunday."
-    publishedDateTime: 2021-01-03T20:28:00Z
-    webUrl: "https://www.ibtimes.com/trump-heard-tape-urging-state-official-find-votes-him-3113640"
+  - title: "Republicans Are Breaking Ranks on Impeachment. That's Good for Democrats — and Bad for Trump"
+    excerpt: "As the Democrats prepare to impeach Donald Trump for a second time, a few Republican votes could prove helpful for the Democrats. Here's why"
+    publishedDateTime: 2021-01-13T22:55:00Z
+    webUrl: "https://time.com/5929140/impeachment-republicans-donald-trump/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 74
+  - title: "Biden Pledges 'New Chapter' But Trump Impeachment Trial Looms"
+    excerpt: "Biden promised \"a new chapter\" for the nation on the day after Trump became the first US president to ever be impeached twice, as the incoming Democrat sought to seize the narrative in a primetime address and get Americans looking forward again."
+    publishedDateTime: 2021-01-15T02:24:00Z
+    webUrl: "https://www.ibtimes.com/biden-pledges-new-chapter-trump-impeachment-trial-looms-3122198"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 55
+    quality: 70
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/03/us-president-donald-trump-told-georgia-officials-they.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/us-president-elect-joe-biden-wants-to-get.jpg"
         width: 1024
-        height: 657
+        height: 680
         isCached: true
-  - title: "No Scottish Golf Trip For Trump, Says Leader Sturgeon"
-    excerpt: "Scotland's leader Nicola Sturgeon on Tuesday poured cold water on rumours that Donald Trump was set to visit, saying even the US president was subject to coronavirus travel restrictions. Speculation has grown that Trump,"
-    publishedDateTime: 2021-01-05T16:12:00Z
-    webUrl: "https://www.ibtimes.com/no-scottish-golf-trip-trump-says-leader-sturgeon-3114974"
+  - title: "Trump Impeachment Trial Looms Over Biden's First 100 Days Agenda"
+    excerpt: "Trump was impeached in the House of Representatives -- becoming the first US president in history subjected to a second impeachment -- Biden hopes to seize the narrative in a primetime address and get Americans looking forward again."
+    publishedDateTime: 2021-01-14T20:41:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-trial-looms-over-bidens-first-100-days-agenda-3122198"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 55
+    quality: 70
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/05/donald-trump-owns-two-golf-courses-in-scotland.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/us-president-elect-joe-biden-wants-to-get.jpg"
         width: 1024
-        height: 681
+        height: 680
         isCached: true
-  - title: "Why Donald Trump Is Still a Top Global Risk in 2021"
-    excerpt: "The challenges Joe Biden will face from a divided country and angry predecessor will ripple around a world recovering from a pandemic, analysts say."
-    publishedDateTime: 2021-01-05T21:41:00Z
-    webUrl: "https://www.usnews.com/news/best-countries/articles/2021-01-05/us-polarization-instability-from-covid-19-recoveries-seen-as-top-global-threats-in-2021"
-    ampWebUrl: "https://www.usnews.com/news/best-countries/articles/2021-01-05/us-polarization-instability-from-covid-19-recoveries-seen-as-top-global-threats-in-2021?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-countries/articles/2021-01-05/us-polarization-instability-from-covid-19-recoveries-seen-as-top-global-threats-in-2021?context=amp"
+  - title: "Canada's Trudeau Embraces Biden in Bid to Turn Page on Trump Era"
+    excerpt: "Canadian Prime Minister Justin Trudeau's swift embrace of U.S. president-elect Joe Biden illustrates the degree to which Canada, one of America's closest allies, is looking forward to turning the page on the Donald Trump era."
+    publishedDateTime: 2021-01-15T16:46:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-01-15/canadas-trudeau-embraces-biden-in-bid-to-turn-page-on-trump-era"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-15/canadas-trudeau-embraces-biden-in-bid-to-turn-page-on-trump-era?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-15/canadas-trudeau-embraces-biden-in-bid-to-turn-page-on-trump-era?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "New study examines how Donald Trump used Twitter to craft an alternate reality for his followers"
+    excerpt: "The study analyzed thousands of Trump's tweets to show how Trump used Twitter to craft a world where what he said was dogma."
+    publishedDateTime: 2021-01-17T08:30:00Z
+    webUrl: "https://www.cleveland.com/open/2021/01/new-study-examines-how-donald-trump-used-twitter-to-craft-an-alternate-reality-for-his-followers.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/01/new-study-examines-how-donald-trump-used-twitter-to-craft-an-alternate-reality-for-his-followers.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/01/new-study-examines-how-donald-trump-used-twitter-to-craft-an-alternate-reality-for-his-followers.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 62
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HDAMTR4D2ZFCRBMTOLQKLERYOE.jpg"
+        width: 3353
+        height: 2235
+        isCached: true
+  - title: "Trump Returns Cuba to U.S. List of State Sponsors of Terrorism"
+    excerpt: "The Trump administration plans to return Cuba to the U.S. list of state sponsors of terrorism, a person familiar with the matter said on Monday, a move that could complicate any efforts by the incoming Biden administration to revive Obama-era detente with Havana."
+    publishedDateTime: 2021-01-12T04:26:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-01-11/trump-plans-to-return-cuba-to-us-list-of-state-sponsors-of-terrorism-source"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-11/trump-plans-to-return-cuba-to-us-list-of-state-sponsors-of-terrorism-source?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-11/trump-plans-to-return-cuba-to-us-list-of-state-sponsors-of-terrorism-source?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Calls Mount For Trump's Immediate Removal From Office"
-    excerpt: "The US Senate's top Democrat called on Thursday for President Donald Trump's immediate removal from office after his supporters stormed the Capitol in a shocking assault on the heart of American democracy."
-    publishedDateTime: 2021-01-07T17:44:00Z
-    webUrl: "https://www.ibtimes.com/calls-mount-trumps-immediate-removal-office-3115809"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/06/supporters-of-us-president-donald-trump-gather-for.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "The Latest: Toomey Is 2nd GOP Senator to Urge Trump to Quit"
-    excerpt: "Republican senator has called for President Donald Trump to step down in the wake of the Capitol rioting this past week."
-    publishedDateTime: 2021-01-10T14:55:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-10/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-10/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-10/the-latest-toomey-is-2nd-gop-senator-to-urge-trump-to-quit?context=amp"
+  - title: "Reactions to the Impeachment of U.S. President Donald Trump"
+    excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump. HOUSE RULES COMMITTEE CHAIR JIM MCGOVERN, DEMOCRAT OF MASSACHUSETTS \"We are debating this historic measure at an actual crime scene and we wouldn't be here if it weren't for the president of the United States."
+    publishedDateTime: 2021-01-13T15:18:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-13/reactions-to-the-impeachment-of-us-president-donald-trump"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-13/reactions-to-the-impeachment-of-us-president-donald-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-13/reactions-to-the-impeachment-of-us-president-donald-trump?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "GOP Senators Urge Trump to Resign; Impeachment Gains Support"
-    excerpt: "Two Republican senators now say President Donald Trump should resign in the wake of deadly riots at the Capitol, as support for the House drive to impeach him a second time is gaining momentum."
-    publishedDateTime: 2021-01-10T20:05:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-10/top-republican-says-trump-committed-impeachable-offenses"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-10/top-republican-says-trump-committed-impeachable-offenses?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-10/top-republican-says-trump-committed-impeachable-offenses?context=amp"
+  - title: "What to Watch as House Moves to Impeach Trump for 2nd Time"
+    excerpt: "President Donald Trump is on the verge of becoming the first president to be impeached twice, as lawmakers move quickly to punish him over last week's deadly Capitol attack."
+    publishedDateTime: 2021-01-13T10:54:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/what-to-watch-as-house-moves-to-impeach-trump-for-2nd-time"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/what-to-watch-as-house-moves-to-impeach-trump-for-2nd-time?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-13/what-to-watch-as-house-moves-to-impeach-trump-for-2nd-time?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "What's next for Donald Trump?"
+    excerpt: "Donald Trump’s plans have been a signature talking point for the last four years. What does the future hold for Donald Trump?"
+    publishedDateTime: 2021-01-14T22:51:00Z
+    webUrl: "https://www.stltoday.com/news/national/whats-next-for-donald-trump/video_1a3e35f8-a732-5567-bce2-43aac116c114.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/whats-next-for-donald-trump/video_1a3e35f8-a732-5567-bce2-43aac116c114.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/whats-next-for-donald-trump/video_1a3e35f8-a732-5567-bce2-43aac116c114.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
+  - title: "Nevada Judge Who Denied Trump Campaign Appeal Was Threatened"
+    excerpt: "Authorities in Carson City are investigating a threat made against a state judge who dismissed a lawsuit last month brought by President Donald Trump’s campaign."
+    publishedDateTime: 2021-01-15T18:53:00Z
+    webUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-01-15/nevada-judge-who-denied-trump-campaign-appeal-was-threatened"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "YKhLioOrDYLeWEsg22Cow2zBzh1Zocr09vKxW/4R9HfRDP0vcwjeGmjcKPgxTXAKILxT24vbA7vYVKOsK2JsklKL1JEfSPRZvCnAxsH4tJgGhrsJadh7cjpz6IczHp1pbHrosmjGidVbZs8+3WRduRRkEO4RuJ/3NXX6lHl5jrf4QUEt4+AeSMW2H1Q0DRfn/Pb/RiGhIFOP4R+QiaTa03wyRs2mRONLJN5BoTni00uNfa34esRGEM7rs9xDS6nu9Le9TrvvSO3axnmHios4PNu0blNq5fTZzB0Hrf+O9XrkzO/rNp//VYnJ5ztZP3mUyHT7HnrIM6+kJT76Bp7D9sgUrBonlV0VmLh4oCi4lya+HWMVI+F/qM7twfoZqZ1eMsLjR7fdoxmnVBPsMjTf4R8mofAfPlhaObFqK/b6+7JJk6Lwa2b6VD+Oi5A8cpXzLIVRhWf4G3FGCOCGK11A0Fewjzi5scW4YCgI72MhpTsSxStTYEjHEXzAIey0DZVb8GXPX/q5WihDT+PcHx4f5A==;Ey6Eim4UXffAoMDTQqa1bg=="
 ---

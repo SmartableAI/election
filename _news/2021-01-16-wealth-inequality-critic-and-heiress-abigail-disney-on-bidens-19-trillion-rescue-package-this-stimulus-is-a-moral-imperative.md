@@ -55,20 +55,45 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Pelosi and Schumer pledge quick action on Biden stimulus package"
-    excerpt: "U.S. House of Representatives Speaker Nancy Pelosi and Senate Democratic leader Chuck Schumer on Thursday said Congress would get right to work on President-elect Joe Biden's stimulus package."
-    publishedDateTime: 2021-01-14T22:44:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-stimulus-congress/pelosi-and-schumer-pledge-quick-action-on-biden-stimulus-package-idUSKBN29J2WO"
+  - title: "Biden pandemic stimulus plan to pump $1.9 tln into economy"
+    excerpt: "President-elect Joe Biden will unveil a stimulus proposal on Thursday designed to jump-start the economy during the coronavirus pandemic and help minority communities with around $1.9 trillion in aid."
+    publishedDateTime: 2021-01-14T22:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-stimulus/biden-to-unveil-plan-to-pump-1-9-trillion-into-pandemic-hit-economy-idUSKBN29J1B1?edition-redirect=ca"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547843796&r=LYNXMPEH0D1N2&w=800"
-        width: 800
-        height: 533
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547774889&r=LYNXMPEH0D0O8&w=800"
+        width: 799
+        height: 543
         isCached: true
+  - title: "Biden unveils plan to pump $1.9 trillion into pandemic-hit economy"
+    excerpt: "President-elect Joe Biden outlined a $1.9 trillion stimulus package proposal on Thursday, saying bold investment was needed to jump-start the economy and accelerate the distribution of vaccines to bring the coronavirus under control."
+    publishedDateTime: 2021-01-15T14:18:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-stimulus/update-3-biden-to-unveil-plan-to-pump-19-trillion-into-pandemic-hit-economy-idUSL1N2JP30B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547909526&r=LYNXMPEH0D0O8&w=800"
+        width: 799
+        height: 543
+        isCached: true
+  - title: "Analysis: Biden's $1.9 trillion rescue package offers bridge for hard-hit economy"
+    excerpt: "(Reuters) - U.S. President-elect Joe Biden's proposal to pour $1.9 trillion into a hobbled economy could lay the foundation for a surge in jobs and spending that many economists say is needed to avoid long-term damage from a record-breaking pandemic recession."
+    publishedDateTime: 2021-01-15T07:41:00Z
+    webUrl: "https://www.businessinsider.com/analysis-bidens-19-trillion-rescue-package-offers-bridge-for-hard-hit-economy-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/analysis-bidens-19-trillion-rescue-package-offers-bridge-for-hard-hit-economy-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/analysis-bidens-19-trillion-rescue-package-offers-bridge-for-hard-hit-economy-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
   - title: "Biden proposes $1,400 payments and $15 minimum wage in coronavirus relief proposal"
     excerpt: "Biden proposes $1,400 payments and $15 minimum wage in coronavirus relief proposal President-elect Joe Biden released a comprehensive economic relief bill to help the country dig out of the hard times brought on by the pandemic."
     publishedDateTime: 2021-01-17T08:13:00Z

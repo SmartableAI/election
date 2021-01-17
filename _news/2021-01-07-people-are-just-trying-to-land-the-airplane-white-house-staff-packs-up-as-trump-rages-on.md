@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Chinese bargain hunters pile into stocks blacklisted by Trump"
+    excerpt: "As U.S. investors dump shares in Chinese companies blacklisted by outgoing President Donald Trump, bargain hunters in China are taking the opposite side of that trade, wagering that a Joe Biden presidency will reverse the investment ban."
+    publishedDateTime: 2021-01-08T10:32:00Z
+    webUrl: "https://www.reuters.com/article/us-china-usa-bargainhunt/chinese-bargain-hunters-pile-into-stocks-blacklisted-by-trump-idUSKBN29D0JE?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547068874&r=LYNXMPEH0707R&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Trump's kids won't lose their 5th Amendment rights and be forced to testify against him if they're pardoned, experts say"
     excerpt: "A presidential pardon isn't enough to mean that someone can't plead the Fifth Amendment and refuse to testify, according to criminal law experts."
     publishedDateTime: 2020-12-31T20:20:00Z

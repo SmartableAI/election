@@ -93,21 +93,21 @@ related:
         width: 2500
         height: 1668
         isCached: true
-  - title: "Pelosi demands Trump's removal from office in wake of Capitol attack"
-    excerpt: "Pelosi said she is \"calling on the vice president to remove this president by immediately invoking the 25th Amendment.\""
-    publishedDateTime: 2021-01-08T12:15:00Z
-    webUrl: "https://www.cbsnews.com/news/nancy-pelosi-calls-trump-removal-office-capitol-attack/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/nancy-pelosi-calls-trump-removal-office-capitol-attack/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/nancy-pelosi-calls-trump-removal-office-capitol-attack/"
+  - title: "Donald Trump impeached a second time over mob attack on US Capitol"
+    excerpt: "Ten Republicans support unprecedented second impeachment as Nancy Pelosi says Trump represents ‘clear and present danger’"
+    publishedDateTime: 2021-01-13T15:57:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/13/trump-impeached-again-president-history-capitol-attack"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/13/trump-impeached-again-president-history-capitol-attack"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/13/trump-impeached-again-president-history-capitol-attack"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 125
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/07/04b36ed5-21a1-4313-b88d-4ec16ed9922a/thumbnail/1200x630/be4b63fc79ebd88f3c2c4e7df078adb6/gettyimages-1230470165.jpg"
-        width: 1200
-        height: 630
+      - url: "https://i.guim.co.uk/img/media/a928c2acfc622cb8125691822fa9537f11ce4385/0_0_5473_3649/master/5473.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dc6d7bbb0a8760580bfd5d59c8959505"
+        width: 600
+        height: 400
         isCached: true
   - title: "Facebook 'indefinitely' blocks Trump's account after violence at Capitol"
     excerpt: "Trump supporters violently stormed the Capitol building in Washington, D.C., during a joint session of Congress, Facebook took the unprecedented step of indefinitely banning the president's account. At least four people have died following the so-called insurrection that erupted at the Capitol on Wednesday."
@@ -311,6 +311,17 @@ related:
         width: 1024
         height: 689
         isCached: true
+  - title: "Trump on Verge of 2nd Impeachment After Capitol Siege"
+    excerpt: "President Donald Trump is on the verge of being impeached for a second time, the House planning the unprecedented vote one week after he encouraged a mob of loyalists to “fight like hell” against election results and the U."
+    publishedDateTime: 2021-01-13T08:11:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/trump-on-verge-of-2nd-impeachment-after-capitol-siege"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/trump-on-verge-of-2nd-impeachment-after-capitol-siege?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-13/trump-on-verge-of-2nd-impeachment-after-capitol-siege?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "f8d9Bd2gAI+YGLBghzCc1Rf98kXp49mgqwSu5Q9zzZyEgKoJUey+HFG6KlpFJzmCESPkrmvd3XRD0bp5SWtMRn9Btz068eE+bDiG4ZYbeK+B2iPiLdd2r3ckV/B5mKawdO0zJ49G4t3BXcPVOF9b8qWDczslotL+EcTebwa1SZHwv7HUZhtAH/Hnh+yNFWZND3lPOPwoHLxOYNcT7vd7bK7iBBcDufjjDIYd4zS2/DSqLe3baR4QuDg+lGxw10K7NUWq0QUTRSXV2MM1yPBB9h5s+9F5u8s8Pi41OJUVysebhZPQARM8C5nr5iQUQSQxzT0L5O2WXhzneIJlR3UdsbbQNkdNKjh3M7rjfEG5G1k=;8aE1o/3yCWhB9ThpqkJpTA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-republican-senators-
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-republican-senators-electoral-college-20210102-ockzn4ln2babxfvuvnt5kvuuhe-story.html?outputType=amp"
 type: article
 quality: 140
-heat: 1320
+heat: 1300
 published: true
 
 provider:
@@ -683,20 +683,6 @@ related:
     quality: 100
     images:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547109229&r=LYNXMPEH070TB&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Republican U.S. senator joins calls for Trump resignation as Democrats prepare to impeach"
-    excerpt: "Republican U.S. senator called for President Donald Trump to resign on Sunday, saying he could face criminal liability after the deadly storming of the U.S. Capitol by his supporters."
-    publishedDateTime: 2021-01-11T00:16:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/republican-senator-says-trump-should-quit-as-momentum-for-impeachment-grows-in-house-idUSKBN29F03R"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 96
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547306910&r=LYNXMPEH090DD&w=800"
         width: 800
         height: 533
         isCached: true

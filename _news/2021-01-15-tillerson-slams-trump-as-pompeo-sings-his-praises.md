@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/tillerson-foreign-policy
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/tillerson-foreign-policy-interview/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109130853-02-christopher-miller-sept-24-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pompeo will leave State Department as a Trump loyalist to the very end"
+    excerpt: "Secretary of State Mike Pompeo departs his Foggy Bottom post on Wednesday a loyal Trump footman to the very end.\n    \n"
+    publishedDateTime: 2021-01-17T13:02:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KMpmPUni5-c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/pompeo-legacy-piece/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/pompeo-legacy-piece/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210111201729-mike-pompeo-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Letter to Jack Dorsey from Twitter employees asking to permanently suspend Donald Trump's account"
+    excerpt: "In a letter to Twitter CEO Jack Dorsey and other top executives, employees ask the company to permanently suspend Donald Trump and investigate Twitter's role in the attack on the U.S. Capitol."
+    publishedDateTime: 2021-01-08T21:40:00Z
+    webUrl: "https://www.washingtonpost.com/context/letter-to-jack-dorsey-from-twitter-employees-asking-to-permanently-suspend-donald-trump-s-account/d9b84fa1-c7cb-4c5b-a90a-fdf167ff0c7a/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 92
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BTTBYKCFQII6XLBKHLAPFOGO5M.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 989
+        isCached: true
 
 secured: "S2xv3fmaZeVcQppkNhw8e2aLQoxlrEGA4/a6GC3m7Jk4Vw2kQxw3Jnx1ozn52CzLcRsxbZYXCMnYH/zQQjGZI44HsHuCcrvqwDDaNfl+aerMO3vqBnhrRKZ9S97QRE8fJYmgdd1eEtStb8CysfeeJ9iQqg7hpBmVK0e9zPE+GpjJlOpGzk7E3ZVHwZrVbBX2q4XuYNuGhIfNlBjWtzKUklnUWqvSEl4r96Dker3V2b67ZFYi1tecu316M+R8Q6F6H7eQjhkCwYgCEBxIewK8XWiZ4xT5CeVmWDj+RErs78CavTPv3DLCTAis1M0dyfPlp3NJjwhm5bGDAEZsJhExboZqdcCFjDnZI7oqO8H5P0IxhoYCN30jrHJCTI0tpkBfd7c+OzG4UOsB3k1nj1y5N425trjJ+0j3ruWVqmDj9/2T/mMz2WOmxnGs2SfuibZW3xjbRMwUBZbPiMx44+Zv8CBGTO4ohHtVXd3+ha8yOGA3F2AycZLSyXADRcsCVKgztcfkzllhAr5jVI6QYPSE1Q==;n7U0Q/4y+ld61APVghqKGw=="
 ---

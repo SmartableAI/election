@@ -31,83 +31,189 @@ images:
     isCached: true
 
 related:
-  - title: "Fact Check: Will Mike Pence Not Preside Over the Electoral College Certification?"
-    excerpt: "Senator Charles Grassley (R-Iowa) claimed he will preside over the joint session to certify the Electoral College results, causing confusion as to whether Vice President Mike Pence will attend."
-    publishedDateTime: 2021-01-05T20:34:00Z
-    webUrl: "https://www.newsweek.com/fact-check-will-mike-pence-not-preside-over-electoral-college-certification-1559132"
-    ampWebUrl: "https://www.newsweek.com/fact-check-will-mike-pence-not-preside-over-electoral-college-certification-1559132?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-will-mike-pence-not-preside-over-electoral-college-certification-1559132?amp=1"
+  - title: "Biden says impeachment is a \"decision for the Congress to make\""
+    excerpt: "\"That's a decision for the Congress to make. I'm focused on my job,\" Mr. Biden said. He added that he will be speaking with House Speaker Nancy Pelosi and Democratic leaders later in the day. \"I'll be speaking with Nancy and the Democratic leadership this afternoon,"
+    publishedDateTime: 2021-01-08T23:54:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 120
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1698837/vice-president-mike-pence-campaigns-georgia.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Fact check: Social media falsely claims Vice President Mike Pence was arrested"
-    excerpt: "After rioters breached the U.S. Capitol Wednesday, social media posts claimed Vice President Mike Pence had been arrested. That is false."
-    publishedDateTime: 2021-01-07T00:00:00Z
-    webUrl: "https://www.indystar.com/story/news/factcheck/2021/01/07/fact-check-posts-falsely-claim-vice-president-mike-pence-arrested/6574866002/"
-    ampWebUrl: "https://amp.indystar.com/amp/6574866002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6574866002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 71
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/07/USAT/8d874991-8b85-4b14-9165-4befb60db0ba-GTY_1230451939.jpg?auto=webp&crop=4861,2735,x0,y0&format=pjpg&width=1200"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/08/c0c90046-ffb5-45a8-a51f-d670fc0eeb7c/thumbnail/1200x630/a0c851de0a2943d38f86c19b6654b7d7/rtx8l5m8.jpg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Sen. Chuck Grassley will preside over congressional Electoral College vote if VP Mike Pence can't attend"
-    excerpt: "\"I’m going to listen to that debate on what my colleagues have to say,\" U.S. Sen. Chuck Grassley said, \"and decide how to cast my vote after considering the information before me.\""
-    publishedDateTime: 2021-01-05T18:08:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/01/05/us-senate-chuck-grassley-presides-pence-electoral-college-vote-congress/4139433001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/4139433001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4139433001"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 58
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/04/PDEM/e034dafa-e4d0-44e5-bfaf-46cdcdda1bdf-1018325710_HINSON_0115.jpg?auto=webp&crop=3299,1856,x0,y169&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "John Cornyn says he won't join growing number of Texas Republicans planning to object to certification of Joe Biden's win"
-    excerpt: "The state's senior senator said Tuesday he will not object to certifying President Donald Trump's reelection defeat \"based on unproven allegations.\""
-    publishedDateTime: 2021-01-05T18:43:00Z
-    webUrl: "https://www.texastribune.org/2021/01/05/john-cornyn-texas-republican-election-certification/"
-    ampWebUrl: "https://www.texastribune.org/2021/01/05/john-cornyn-texas-republican-election-certification/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2021/01/05/john-cornyn-texas-republican-election-certification/amp/"
-    type: article
-    provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 50
-    images:
-      - url: "https://thumbnails.texastribune.org/Z9D2ut_rQy0arSv7iRJw9d2_hBo=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/58eb5d0589c44f8099a945abbe74087d/John%20Cornyn%20REUTERS%202020%20TT%20.jpg"
-        width: 1200
-        height: 804
-        isCached: true
-  - title: "In another effort to challenge Electoral College votes, Rep. Gohmert sues Vice President Mike Pence"
-    excerpt: "Texas, sued Vice President Mike Pence in an attempt to challenge the results of some states’ Electoral College votes."
-    publishedDateTime: 2020-12-29T15:16:00Z
-    webUrl: "https://www.djournal.com/news/national/in-another-effort-to-challenge-electoral-college-votes-rep-gohmert-sues-vice-president-mike-pence/article_91089e35-5534-5e51-9995-3b8cf178cf92.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 41
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/d/ca/dca3aefb-1333-575e-8396-a718d1d12be2/5feb5315afded.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
         height: 630
+        isCached: true
+  - title: "Law enforcement: We'll be ready for Joe Biden's inauguration"
+    excerpt: "The inauguration of President-elect Joe Biden will be held on the same risers in the same spot at the U.S. Capitol where a violent, pro-Trump mob descended last week. But the two events aren't even comparable from a security standpoint,"
+    publishedDateTime: 2021-01-12T05:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4fe982d42806466fb9c7a1df9ea2d778_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden to extend pause on federal student loan payments"
+    excerpt: "The president-elect's transition team also said Mr. Biden supports Congress \"immediately\" cancelling $10,000 of federal student loans"
+    publishedDateTime: 2021-01-15T12:24:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-student-loan-payments-pause-extend/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-student-loan-payments-pause-extend/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-student-loan-payments-pause-extend/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/11/5a845e73-ca79-43f4-bd69-1ea7fd5ec19b/thumbnail/1200x630/e81e9d97adaa622c1f2f6d0c44844c40/gettyimages-1201562159-1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden to unveil new $1.9 trillion COVID relief bill"
+    excerpt: "This is the first of two bills Mr. Biden plans to address COVID-19. His transition team said he would introduce a second \"recovery\" bill in February."
+    publishedDateTime: 2021-01-14T22:24:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-covid-relief-stimulus-check/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-relief-stimulus-check/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-relief-stimulus-check/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/13/87ab6c33-11eb-45c7-89c4-562b351813be/thumbnail/1200x630/e7b614cfa8085ecb41e2d17d79ea1643/gettyimages-1206811778.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden presents Covid stimulus plan as impeachment focus shifts to Senate – live"
+    excerpt: "Trump’s impeachment in the House triggers a trial in the Senate, which McConnell says can’t begin until Senate is back in session"
+    publishedDateTime: 2021-01-15T00:37:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates?page=with:block-6000df8f8f08729f182882f9"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/c0dee479687381d44e419a1f6510e6917982340d/0_132_5025_3016/master/5025.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0f6788661719294a94a3a81f05a35f9"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "House barrels toward impeachment, and Biden scrambles to ensure it doesn’t hamper his agenda"
+    excerpt: "The House could impeach President Trump as early as Wednesday, sending an “incitement” article to the Senate. That prompted Biden to press the Senate on whether it could pursue impeachment while also passing his bills."
+    publishedDateTime: 2021-01-12T01:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-trump-senate-impeachment/2021/01/11/22ff2c12-5427-11eb-a817-e5e7f8a406d6_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-senate-impeachment/2021/01/11/22ff2c12-5427-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-senate-impeachment/2021/01/11/22ff2c12-5427-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z2A6ZXSUHYI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Joe Biden elevates chief science adviser to a Cabinet position, picks human genome pioneer for the post"
+    excerpt: "Joe Biden announced Friday that he has chosen a pioneer in mapping the human genome — the so-called “book of life” — to be his chief science adviser."
+    publishedDateTime: 2021-01-16T01:16:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 109
+    images:
+      - url: "https://www.chicagotribune.com/resizer/_KnwY3nRWrxfc3pBEgErezBucOk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JVDAS7L35DO6FVFNIWKSAAR62E.aspx"
+        width: 1200
+        height: 791
+        isCached: true
+  - title: "Biden has accepted invitation to stay at Blair House the night before inauguration, State Department says"
+    excerpt: "The Trump administration has offered President-elect Joe Biden the use of Blair House, the official residence for guests of the president, on the eve of his inauguration. Biden has accepted the offer to stay at the historic home,"
+    publishedDateTime: 2021-01-13T23:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-has-accepted-invitation-to-stay-at-blair-house-the-night-before-inauguration-state-department-says/2021/01/13/ca3f1e1c-5551-11eb-a931-5b162d0d033d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-has-accepted-invitation-to-stay-at-blair-house-the-night-before-inauguration-state-department-says/2021/01/13/ca3f1e1c-5551-11eb-a931-5b162d0d033d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-has-accepted-invitation-to-stay-at-blair-house-the-night-before-inauguration-state-department-says/2021/01/13/ca3f1e1c-5551-11eb-a931-5b162d0d033d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MUEGLJSVYYI6XIEL6E4B546SA4.jpg&w=1440"
+        width: 1440
+        height: 979
+        isCached: true
+  - title: "Biden says he feels safe ahead of his inauguration"
+    excerpt: "U.S. President-elect Joe Biden said on Friday that he feels safe taking his oath of office publicly next week."
+    publishedDateTime: 2021-01-16T02:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-safety/biden-says-he-feels-safe-ahead-of-his-inauguration-idUSKBN29K2MP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548003541&r=LYNXMPEH0E1JN&w=800"
+        width: 800
+        height: 626
+        isCached: true
+  - title: "Biden says he feels safe ahead of inauguration"
+    excerpt: "Top News Biden says he feels safe ahead of inauguration. Posted . U.S. President-elect Joe Biden said on Friday that he feels safe, after a reporter asked him if he felt comfortab"
+    publishedDateTime: 2021-01-16T01:56:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDVBMOKF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210116&i=OVDVBMOKF&r=OVDVBMOKF&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Biden's inauguration rehearsal postponed over security concerns, Politico says"
+    excerpt: "A rehearsal for U.S President-elect Joe Biden's inauguration scheduled for Sunday has been postponed because of security concerns, Politico reported late on Thursday, citing two people with knowledge of the decision."
+    publishedDateTime: 2021-01-15T13:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-security/bidens-inauguration-rehearsal-postponed-over-security-concerns-politico-says-idUSKBN29K0A8?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547869722&r=LYNXMPEH0E05D&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Walmart suspends contributions to U.S. lawmakers who opposed Biden certification"
+    excerpt: "Walmart Inc , the world's biggest retailer, joined other major companies in indefinitely suspending donations to U.S. lawmakers who voted against President-elect Joe Biden's election certification."
+    publishedDateTime: 2021-01-13T03:37:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-corporate-walmart/walmart-suspends-contributions-to-us-lawmakers-who-opposed-biden-certification-idUSKBN29H2TO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547573394&r=LYNXMPEH0B1LM&w=800"
+        width: 800
+        height: 459
         isCached: true
 
 secured: "cPDAiZvwmj3SneYymw46xXgrRy20anM8B4fdL2gevQytgQ9JuEPlXqdlIstfwD4iAKe0ZUUA6AsIAaLJaLKNIbHvX3A0bwx9Q0er/AJfmvQ1cz+p7uaVtVa0c9sx2ZSkEBSQnFe7RNpqD10fTXsm1XaGGXnt43lSYtAwfopjyftBjsvEJOLdTwMPeXhHbaOUfUFAjzGoGQ+sCfX3YZJk9OCwxjjdN+cNmadubr+Gh++GFeJza00fU6zkMTLKzG+dWyKoYxqWdADDlKU/L2RqYP2Khl/OrhFRffiQqfwyKZLnYFe2GQjiFTt8ESG0evDFoL6d8OmctFsCDeAoYFd4N/qJMk1/Fq66Rnl2Q4vya3q55Jx0WzRJQkXWkk6QVMyxS4ZSSOhfjAlHW3PL2u0ESb958TrEMb/T6632fL9Hg8ezyJ1JD4GPfMzCv9j9izdSlLYwqlorPiOlQPNQskrAdXsR+T2gC+xT+wAenvx+FNTGt7WspR9upTIWiVoKaHnjhssNBW9X52plJecs/g4UpQ==;lySpG06F40Gofuz2eyJ8jw=="

@@ -27,51 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Law enforcement: We'll be ready for Joe Biden's inauguration"
-    excerpt: "The inauguration of President-elect Joe Biden will be held on the same risers in the same spot at the U.S. Capitol where a violent, pro-Trump mob descended last week. But the two events aren't even comparable from a security standpoint,"
-    publishedDateTime: 2021-01-12T05:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813"
+  - title: "Federal prisons on lockdown in run-up to Biden inauguration"
+    excerpt: "Federal prisons across the U.S. have been placed on lockdown as officials aim to quell any potential violence that could arise in the run-up to President-elect Joe Biden’s inauguration on Wednesday"
+    publishedDateTime: 2021-01-16T17:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/federal-prisons-lockdown-run-biden-inauguration-75296751"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/federal-prisons-lockdown-run-biden-inauguration-75296751"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/federal-prisons-lockdown-run-biden-inauguration-75296751"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4fe982d42806466fb9c7a1df9ea2d778_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden picks Samantha Power, former UN envoy, for US aid post"
-    excerpt: "President-elect Joe Biden has selected Samantha Power, the U.S. ambassador to the United Nations under President Barack Obama, to run the U.S. Agency for International Development"
-    publishedDateTime: 2021-01-13T14:03:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b144e118b1ff442f96fc0e82513e2870_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Poet Amanda Gorman, 22, will read at Biden inaugural"
-    excerpt: "At age 22, poet Amanda Gorman, chosen to read at the inauguration of President-elect Joe Biden, already has a history of writing for official occasions. \"I have kind of stumbled upon this genre. It's been something I find a lot of emotional reward in,"
-    publishedDateTime: 2021-01-15T06:36:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/poet-amanda-gorman-22-read-biden-inaugural-75269468"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/poet-amanda-gorman-22-read-biden-inaugural-75269468"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/poet-amanda-gorman-22-read-biden-inaugural-75269468"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_d0b8bbd465694ada9281f14777396726_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c66224196eea42ed95b4ff20f73e13e5_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -91,84 +59,84 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Inauguration to include programming aimed at kids along with a message from Jill Biden"
-    excerpt: "The Presidential Inaugural Committee announced it will offer programming focused on getting families and their kids involved in next week's ceremony."
-    publishedDateTime: 2021-01-16T22:56:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/tv/2021/01/16/jill-biden-make-appearance-during-inaugural-tv-programming/4192038001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4192038001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4192038001"
+  - title: "Biden plans early legislation to offer legal status to 11 million immigrants without it"
+    excerpt: "During his first days in office, President-elect Joe Biden plans to unveil a legislative proposal that would include a path to citizenship for 11 million immigrants in the U.S. illegally, according to activists in communication with his transition team."
+    publishedDateTime: 2021-01-16T09:13:00Z
+    webUrl: "https://www.latimes.com/california/story/2021-01-15/biden-to-send-congress-bill-to-legalize-11-million-immigrants-who-lack-documentation"
+    ampWebUrl: "https://www.latimes.com/california/story/2021-01-15/biden-to-send-congress-bill-to-legalize-11-million-immigrants-who-lack-documentation?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2021-01-15/biden-to-send-congress-bill-to-legalize-11-million-immigrants-who-lack-documentation?_amp=true"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 117
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/4343dd98-09dc-40b5-8205-953d20781f07-AP_Election_2020_Jill_Biden_2.jpg?auto=webp&crop=4199,2362,x0,y213&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/90ebe2b/2147483647/strip/true/crop/480x314+0+23/resize/320x209!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQcvaRAiB0V8%2Fhqdefault.jpg"
+        width: 320
+        height: 209
         isCached: true
-  - title: "Biden has accepted invitation to stay at Blair House the night before inauguration, State Department says"
-    excerpt: "The Trump administration has offered President-elect Joe Biden the use of Blair House, the official residence for guests of the president, on the eve of his inauguration. Biden has accepted the offer to stay at the historic home,"
-    publishedDateTime: 2021-01-13T23:33:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-has-accepted-invitation-to-stay-at-blair-house-the-night-before-inauguration-state-department-says/2021/01/13/ca3f1e1c-5551-11eb-a931-5b162d0d033d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-has-accepted-invitation-to-stay-at-blair-house-the-night-before-inauguration-state-department-says/2021/01/13/ca3f1e1c-5551-11eb-a931-5b162d0d033d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-has-accepted-invitation-to-stay-at-blair-house-the-night-before-inauguration-state-department-says/2021/01/13/ca3f1e1c-5551-11eb-a931-5b162d0d033d_story.html?outputType=amp"
+  - title: "INAUGURATION EXPLAINER: Biden's event will be very different"
+    excerpt: "WASHINGTON (AP) — Between the still-raging pandemic and suddenly very real threat of violence, the inauguration of Joe Biden and Kamala Harris next Wednesday promises to be one of the most unusual in American history."
+    publishedDateTime: 2021-01-16T22:51:00Z
+    webUrl: "https://www.businessinsider.com/inauguration-explainer-bidens-event-will-be-very-different-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/inauguration-explainer-bidens-event-will-be-very-different-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/inauguration-explainer-bidens-event-will-be-very-different-2021-1?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 108
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MUEGLJSVYYI6XIEL6E4B546SA4.jpg&w=1440"
-        width: 1440
-        height: 979
-        isCached: true
-  - title: "Biden launches new Twitter account to build following before taking command of White House @POTUS on Inauguration Day"
-    excerpt: "When Joe Biden is sworn in on Wednesday, he will take command of the @POTUS and @WhiteHouse Twitter accounts in another official transfer of power."
-    publishedDateTime: 2021-01-16T23:59:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2021/01/14/biden-administration-twitter-accounts-transfer-trump-inauguration-day/4168127001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4168127001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4168127001"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Biden pledges to vaccinate 100 million Americans in his first 100 days in office"
+    excerpt: "President-elect Joe Biden is pledging to fix the United States' slow coronavirus vaccine rollout. CBS News senior White House and political correspondent Ed O'Keefe spoke with CBSN's Elaine Quijano about what the incoming Biden administration plans to do."
+    publishedDateTime: 2021-01-16T01:09:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-pledges-to-vaccinate-100-million-americans-in-his-first-100-days-in-office/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 102
+      name: CBS News
+      domain: cbsnews.com
+    quality: 100
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/14/USAT/b2aa7210-2606-4ff3-a865-f847930d7c2c-Biden.jpg?auto=webp&crop=6047,3401,x0,y157&format=pjpg&width=1200"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/16/1e229ed6-306f-491b-9a1a-96d74f087821/thumbnail/1200x630/a286355ec3d57513ef1d25b289737f3f/0115-cbsn-sws-627506-640x360.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Biden's inauguration rehearsal postponed over security concerns, Politico says"
-    excerpt: "A rehearsal for U.S President-elect Joe Biden's inauguration scheduled for Sunday has been postponed because of security concerns, Politico reported late on Thursday, citing two people with knowledge of the decision."
-    publishedDateTime: 2021-01-15T13:22:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-security/bidens-inauguration-rehearsal-postponed-over-security-concerns-politico-says-idUSKBN29K0A8?edition-redirect=ca"
+  - title: "Marriott will suspend donations to U.S. lawmakers who voted against Biden certification"
+    excerpt: "Marriott International Inc, the world's largest hotel company, confirmed Sunday it will suspend donations to U.S. lawmakers who voted against certifying President-elect Joe Biden's victory last week."
+    publishedDateTime: 2021-01-11T00:30:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN29F0L4"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 101
+    quality: 97
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547869722&r=LYNXMPEH0E05D&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547294520&r=LYNXMPEH090FT&w=800"
         width: 800
-        height: 533
+        height: 534
         isCached: true
-  - title: "How Facebook Is Prepping For Joe Biden’s Inauguration Amid Online Threats"
-    excerpt: "Facebook has taken a major step in cracking down on the violence that threatens to derail Joe Biden’s Inauguration. Facebook announced it would continue to take a variety of measures to prevent users from using the social media platform to incite violence during the inauguration."
-    publishedDateTime: 2021-01-16T17:57:00Z
-    webUrl: "https://www.ibtimes.com/how-facebook-prepping-joe-bidens-inauguration-amid-online-threats-3123812"
-    ampWebUrl: "https://www.ibtimes.com/how-facebook-prepping-joe-bidens-inauguration-amid-online-threats-3123812?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-facebook-prepping-joe-bidens-inauguration-amid-online-threats-3123812?amp=1"
+  - title: "Marriott, BlueCross suspend donations to U.S. lawmakers who voted against Biden certification"
+    excerpt: "Marriott International Inc, the world's largest hotel company, and the Blue Cross Blue Shield Association (BCBSA) said Sunday they will suspend donations to U.S. lawmakers who voted last week against certifying President-elect Joe Biden's victory."
+    publishedDateTime: 2021-01-11T12:45:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 74
+      name: Reuters
+      domain: reuters.com
+    quality: 94
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/03/facebook-is-reportedly-changing-its-policy-on-hate.jpg"
-        width: 1024
-        height: 700
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547294520&r=LYNXMPEH090FT&w=800"
+        width: 800
+        height: 534
         isCached: true
+  - title: "INAUGURATION EXPLAINER: Biden's event will be very different"
+    excerpt: "Between the still-raging pandemic and suddenly very real threat of violence from supporters of outgoing President Donald Trump, Jan. 20 promises to be one of the most unusual presidential inauguration"
+    publishedDateTime: 2021-01-16T06:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/inauguration-explainer-bidens-event-75291601"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 85
 
 secured: "U+VGPOl4+CXG1fDI4VGOMtLjiAFT1vWimd0H+UqLajiKOqZDgwjwFUH3RuK5wg44P3o3b2pZmLhhVS7ga5YjehxUVKZL8+3K8i0JBBJk+BYB4PlP7h9jlRCT4ezjuOTTO0Q205pK08zfHSr2uXMYrXh6MsTKz/7oA9EwmTTNLcqvulM8OR7p12My+P7dx+OQIFZ9vFtIOq+rQ914Fdef8pUCTed2gyVTd5HYyIxhZZDGj8kT6QKcJ8mBPGtKonPLdgykZmQsQvxcyntEeFJKBpNzLa2v5FC3ikJdIqSreBqgI8UoirThiho643ZzNUrSc24kVNZmxtxwqhzWHz7pS5k+0M2r6cAiviy/sEmvrD1YMRXvGRHceQlHodZ3PBJrUzKL6UEwWYxWd2gueTdGnwDV9ubWaI7AJug6FtsIpOUn0YLNX50sR3f7Dg9z/EZJayHUqJtBq+ONUOA8TBVJBd/5MHGOA/m314v4fW83hNH1K5CeG4dyeoUo7S4C8BXZIbCFJMmXPwmibXQ7ETZcsQ==;/BkU3etfnK6UGCuSIo2dRg=="
 ---

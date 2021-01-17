@@ -71,6 +71,22 @@ related:
         width: 1024
         height: 573
         isCached: true
+  - title: "Maryland Rep. Jamie Raskin named lead impeachment manager for trial against President Donald Trump"
+    excerpt: "U.S. Rep. Jamie Raskin of Maryland was named lead manager for the impeachment trial of President Donald Trump, House Speaker Nancy Pelosi announced Tuesday night in a news release."
+    publishedDateTime: 2021-01-13T06:03:00Z
+    webUrl: "https://www.baltimoresun.com/politics/bs-md-pol-raskin-impeachment-manager-20210113-ftx5yje5ljaadmm3hkxutt4wbu-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/politics/bs-md-pol-raskin-impeachment-manager-20210113-ftx5yje5ljaadmm3hkxutt4wbu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/bs-md-pol-raskin-impeachment-manager-20210113-ftx5yje5ljaadmm3hkxutt4wbu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 61
+    images:
+      - url: "https://www.baltimoresun.com/resizer/wEQjKi2FkQ6vYemv-7OBGv24CVs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4CUEXNNRUPX73EPWWVNURUUNRM.aspx"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "BvKf8Wvm9TloXtMk0jvWs9JeB8ST5ONAYGBJzCcjlSXp1iA3kd/WJZE5JSSetuBn8b7sHCHc5WdhlgL5u2GD/raSlI2KljgNQcDk8IKYLBkNLX2HwuXYz62OXn+udmH4cF6QlUiKLCZOty8Jehlt4XaixgNVqDH8Apvr2f+6SFJi+NP2HN0Y37oVMw8c/yZhosZ9w0WrJ1PHBHlevsxcruNy6mlUHNSSNe2VLrt/5g00cy2kme8/u67uQ1O6lD1AivcXVQP0rOD+sD+qsCX1f3EqxVzbUVR6KwIgvEeIq/+ZESr3NI33nNbx1hp/XHyMSKjXNm/SUvb/aZSlBJWp7udrHgLujg47i5Aml8qLuVI=;hLRmdsl/ErT/gx1U3/b/aQ=="
 ---

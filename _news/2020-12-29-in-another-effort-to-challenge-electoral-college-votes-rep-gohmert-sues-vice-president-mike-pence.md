@@ -41,22 +41,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Mike Pence 'welcomes' the efforts of Republican lawmakers to challenge Biden's win, days before Congress is due to certify the election results"
-    excerpt: "The efforts by GOP senators and representatives could delay certification of the election results, but would not change the results in any US state."
-    publishedDateTime: 2021-01-03T06:26:00Z
-    webUrl: "https://www.businessinsider.com/pence-welcomes-gop-lawmakers-bid-to-challenge-bidens-win-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/pence-welcomes-gop-lawmakers-bid-to-challenge-bidens-win-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-welcomes-gop-lawmakers-bid-to-challenge-bidens-win-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 119
-    images:
-      - url: "https://i.insider.com/5ff160e39ff41f001883fac1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Fact check: Social media falsely claims Vice President Mike Pence was arrested"
     excerpt: "After rioters breached the U.S. Capitol Wednesday, social media posts claimed Vice President Mike Pence had been arrested. That is false."
     publishedDateTime: 2021-01-07T00:00:00Z

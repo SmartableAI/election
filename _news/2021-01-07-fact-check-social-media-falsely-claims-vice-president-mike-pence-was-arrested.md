@@ -43,22 +43,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Mike Pence 'welcomes' the efforts of Republican lawmakers to challenge Biden's win, days before Congress is due to certify the election results"
-    excerpt: "The efforts by GOP senators and representatives could delay certification of the election results, but would not change the results in any US state."
-    publishedDateTime: 2021-01-03T06:26:00Z
-    webUrl: "https://www.businessinsider.com/pence-welcomes-gop-lawmakers-bid-to-challenge-bidens-win-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/pence-welcomes-gop-lawmakers-bid-to-challenge-bidens-win-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-welcomes-gop-lawmakers-bid-to-challenge-bidens-win-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 119
-    images:
-      - url: "https://i.insider.com/5ff160e39ff41f001883fac1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Sen. Chuck Grassley will preside over congressional Electoral College vote if VP Mike Pence can't attend"
     excerpt: "\"I’m going to listen to that debate on what my colleagues have to say,\" U.S. Sen. Chuck Grassley said, \"and decide how to cast my vote after considering the information before me.\""
     publishedDateTime: 2021-01-05T18:08:00Z

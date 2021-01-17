@@ -27,6 +27,54 @@ images:
     isCached: true
 
 related:
+  - title: "Trump to honor Belichick with Presidential Medal of Freedom"
+    excerpt: "President Donald Trump will present one of the nation’s highest civilian honors to Bill Belichick, the football coach of the New England Patriots and the only coach to win six Super Bowl titles"
+    publishedDateTime: 2021-01-11T06:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-to-honor-belichick-with-presidential-medal-of-freedom/2021/01/10/6f4d7c1c-53ab-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-honor-belichick-with-presidential-medal-of-freedom/2021/01/10/6f4d7c1c-53ab-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-honor-belichick-with-presidential-medal-of-freedom/2021/01/10/6f4d7c1c-53ab-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump to award Bill Belichick a Medal of Freedom as House considers impeachment"
+    excerpt: "Patriots Coach Bill Belichick is the latest sports figure to receive the award in the administration's final days."
+    publishedDateTime: 2021-01-11T16:57:00Z
+    webUrl: "https://www.washingtonpost.com/sports/2021/01/11/president-trump-bill-belichick-medal-of-freedom/"
+    ampWebUrl: "https://www.washingtonpost.com/sports/2021/01/11/president-trump-bill-belichick-medal-of-freedom/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/sports/2021/01/11/president-trump-bill-belichick-medal-of-freedom/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JDFI23FDYAI6PLPBO3IGDVLO7I.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "McConnell says best for country to hold Senate trial after Trump leaves office"
+    excerpt: "After the House impeachment vote, Senate Majority Leader Mitch McConnell said it would be best for the country if a Senate trial were held after Trump leaves office."
+    publishedDateTime: 2021-01-14T00:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/mcconnell-best-country-hold-senate-trial-trump-leaves/story?id=75235663"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/mcconnell-best-country-hold-senate-trial-trump-leaves/story?id=75235663"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mcconnell-best-country-hold-senate-trial-trump-leaves/story?id=75235663"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/mitch-mcconnell-gty-jef-210113_1610577152971_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Reports: Donald Trump plans to give Patriots' Bill Belichick Medal of Freedom this week"
     excerpt: "According to reports on Sunday, President Donald Trump plans to award Patriots coach Bill Belichick the Presidential Medal of Freedom on Thursday."
     publishedDateTime: 2021-01-11T01:16:00Z
@@ -58,6 +106,34 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "‘Trump impeachment sets precedent against free speech’"
+    excerpt: "The precedent set by impeaching US President Donald Trump will be used in the future to curtail the free speech of civil rights activists and protesters, one of the country’s most high profile lawyers,"
+    publishedDateTime: 2021-01-15T12:22:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55677337"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p0943fxx.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Donald Trump house hunts in a surprising place — which home will he pick?"
+    excerpt: "Which home in Palm Beach will the Trumps pick? Here are four homes for sale we’ll bet they’ll consider since they tick all the P boxes: posh, palatial, and presidential."
+    publishedDateTime: 2021-01-04T18:30:00Z
+    webUrl: "https://www.chicagotribune.com/real-estate/luxury-real-estate/sns-liststory-rdc-donald-trump-palm-beach-house-hunting-20210104-zhzyjuta6jh27dv47xvoeebebi-list.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 104
+    images:
+      - url: "https://www.chicagotribune.com/resizer/j78sicOE8zZ2qxbXI1iTabt-WMo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YFZRIGJ2L5CLZKHDQVX2SCVOSU.jpg"
+        width: 1200
+        height: 799
         isCached: true
   - title: "Donald Trump plans to award Presidential Medal of Freedom to New England Patriots coach Bill Belichick, per reports"
     excerpt: "President Donald Trump plans to award New England Patriots coach Bill Belichick the Presidential Medal of Freedom on Thursday, according to multiple reports. A spokesperson for the Patriots did not respond to a request for comment."
@@ -91,21 +167,21 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Ivanka Trump Deletes Tweet That Hailed Rioters As 'American Patriots'"
-    excerpt: "Ivanka Trump deleted a tweet after the Twitterati took her to task for describing her father's supporters who stormed the Capitol as \"American Patriots.\" Trump called on the armed protesters to stand down about a half-hour after President Trump first asked the crowd to respect the Capitol police."
-    publishedDateTime: 2021-01-06T21:57:00Z
-    webUrl: "https://www.ibtimes.com/ivanka-trump-deletes-tweet-hailed-rioters-american-patriots-3115979"
-    ampWebUrl: "https://www.ibtimes.com/ivanka-trump-deletes-tweet-hailed-rioters-american-patriots-3115979?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivanka-trump-deletes-tweet-hailed-rioters-american-patriots-3115979?amp=1"
+  - title: "‘Tone deaf!’ Gary Player slammed by son for accepting Presidential Medal of Freedom from Donald Trump"
+    excerpt: "Donald Trump awarded the Presidential Medal of Freedom Thursday to golfers Gary Player, Annika Sorenstam and Babe Didrikson Zaharias (posthumously)."
+    publishedDateTime: 2021-01-08T19:27:00Z
+    webUrl: "https://www.nj.com/sports/2021/01/tone-deaf-gary-player-slammed-by-son-for-accepting-presidential-medal-of-freedom-from-donald-trump.html"
+    ampWebUrl: "https://www.nj.com/sports/2021/01/tone-deaf-gary-player-slammed-by-son-for-accepting-presidential-medal-of-freedom-from-donald-trump.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2021/01/tone-deaf-gary-player-slammed-by-son-for-accepting-presidential-medal-of-freedom-from-donald-trump.html?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: NJ.com
+      domain: nj.com
+    quality: 60
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/12-times-donald-trump-acted-totally-inappropriately-ivanka-09.jpg"
-        width: 800
-        height: 450
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MK4AQOA5P5FSBGBB2XDXCROHAM.jpg"
+        width: 3548
+        height: 2365
         isCached: true
 
 secured: "h4NUrDfQ/ZIajqLSzuFbgz8uz9noyQyyWxRjGd59b8/gwLxYt6tBnF2R9JTpE7qEKSZCbVnqDM0IHdq9YtP7imPCKwr1qcsummO4+nADYoiUe+9QQip+znD57MyeV/QL7UhcbLBaT6YaIh5RjjPonqqUxQTS/SMIhzlqs5aAqGGDcykWQXFTGXOZt/0qKXAxF3Y0v1Z+VAtd7ey6wRCfxEHNwXcw/IzZPQ1VEBdLmhj6U6BYL0nKIZ5Xu//3mt3fTR8P1hJZlPCFAuBgUdFKawOLFrlg9oqfZWkPLwOhnc5o1EleuoZl09RHREnnOK2oOnLjVrJKn5zH6sTHWx/tz/CPp64gYr1vCjCtAUk6ePw=;N4Od9S8xEaqOlvJBedwtOQ=="

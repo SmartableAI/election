@@ -63,21 +63,21 @@ related:
         width: 766
         height: 545
         isCached: true
-  - title: "US diplomats condemn Trump for inciting riot and Secretary of State Mike Pompeo for response"
-    excerpt: "Using what is known as the State Department’s “dissent channel,” career foreign and civil service officers said they fear last Wednesday’s siege may badly undermine U.S. credibility."
-    publishedDateTime: 2021-01-10T20:41:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-capitol-riots-diplomats-20210110-k6gnje45rjg3ldtiyacn2k52oe-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-capitol-riots-diplomats-20210110-k6gnje45rjg3ldtiyacn2k52oe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-capitol-riots-diplomats-20210110-k6gnje45rjg3ldtiyacn2k52oe-story.html?outputType=amp"
+  - title: "For some Christians, the Capitol riot doesn’t change the prophecy: Trump will be president"
+    excerpt: "As lawmakers prepared to impeach President Trump and Washington readied for President-elect Joe Biden’s inauguration, Cliff Dyrud wasn’t focused on man-made acts. He was listening for the words of prophets."
+    publishedDateTime: 2021-01-15T02:34:00Z
+    webUrl: "https://www.washingtonpost.com/religion/2021/01/14/prophets-apostles-christian-prophesy-trump-won-biden-capitol/"
+    ampWebUrl: "https://www.washingtonpost.com/religion/2021/01/14/prophets-apostles-christian-prophesy-trump-won-biden-capitol/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/2021/01/14/prophets-apostles-christian-prophesy-trump-won-biden-capitol/?outputType=amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 114
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
     images:
-      - url: "https://www.chicagotribune.com/resizer/Qx22flN4A6cI_yTdMiMy6-gQPXQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3A3NBHAYBRFHHILXZHOWWEKMRI.aspx"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZQVOFLSQFMI6XIPV7WXSRT6KSA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Companies backed Trump for years. Now they’re facing a reckoning after the attack on the Capitol."
     excerpt: "The once-comfortable alliance between Trump and Corporate America has shown unprecedented strain since Wednesday’s attack, forcing a re-examination of everything that businesses had won over the last four years from a White House now thrown into chaos."

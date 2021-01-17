@@ -31,12 +31,12 @@ images:
     isCached: true
 
 related:
-  - title: "Trump trial pending, McConnell calls it ‘vote of conscience’"
-    excerpt: "President Donald Trump’s impeachment trial is likely to start after Joe Biden’s inauguration, and the Republican leader, Mitch McConnell, is telling senators their decision on whether to convict the outgoing president over the Capitol riot will be a “vote of conscience."
-    publishedDateTime: 2021-01-16T10:19:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+  - title: "Trump to honor Belichick with Presidential Medal of Freedom"
+    excerpt: "President Donald Trump will present one of the nation’s highest civilian honors to Bill Belichick, the football coach of the New England Patriots and the only coach to win six Super Bowl titles"
+    publishedDateTime: 2021-01-11T06:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-to-honor-belichick-with-presidential-medal-of-freedom/2021/01/10/6f4d7c1c-53ab-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-honor-belichick-with-presidential-medal-of-freedom/2021/01/10/6f4d7c1c-53ab-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-honor-belichick-with-presidential-medal-of-freedom/2021/01/10/6f4d7c1c-53ab-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -47,92 +47,145 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump’s impeachment trial pending, Republican leader Mitch McConnell calls it a ‘vote of conscience’"
-    excerpt: "House Speaker Nancy Pelosi offered no clues Friday on her plans to send President Donald Trump’s impeachment to the Senate for trial"
-    publishedDateTime: 2021-01-15T22:34:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-impeachment-trial-20210115-2i3vshire5altdrvw6ohieqrsq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-impeachment-trial-20210115-2i3vshire5altdrvw6ohieqrsq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-impeachment-trial-20210115-2i3vshire5altdrvw6ohieqrsq-story.html?outputType=amp"
+  - title: "Trump to award Bill Belichick a Medal of Freedom as House considers impeachment"
+    excerpt: "Patriots Coach Bill Belichick is the latest sports figure to receive the award in the administration's final days."
+    publishedDateTime: 2021-01-11T16:57:00Z
+    webUrl: "https://www.washingtonpost.com/sports/2021/01/11/president-trump-bill-belichick-medal-of-freedom/"
+    ampWebUrl: "https://www.washingtonpost.com/sports/2021/01/11/president-trump-bill-belichick-medal-of-freedom/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/sports/2021/01/11/president-trump-bill-belichick-medal-of-freedom/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JDFI23FDYAI6PLPBO3IGDVLO7I.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Reports: Donald Trump plans to give Patriots' Bill Belichick Medal of Freedom this week"
+    excerpt: "According to reports on Sunday, President Donald Trump plans to award Patriots coach Bill Belichick the Presidential Medal of Freedom on Thursday."
+    publishedDateTime: 2021-01-11T01:16:00Z
+    webUrl: "https://www.usatoday.com/story/sports/nfl/patriots/2021/01/10/donald-trump-patriots-bill-belichick-medal-freedom/6618452002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6618452002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6618452002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/05/09/USAT/a44b6bc0-83b7-419e-9c03-4cb0f5ed1feb-bxx_trump2_0926.JPG?auto=webp&crop=2350,1322,x0,y379&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "New England Patriots coach Bill Belichick won't accept Presidential Medal of Freedom from Donald Trump"
+    excerpt: "New England Patriots coach Bill Belichick said Monday that he will not be accepting the Presidential Medal of Freedom that Donald Trump planned to present to him on Thursday. Belichick explained his decision in a statement."
+    publishedDateTime: 2021-01-12T00:59:00Z
+    webUrl: "https://abcnews.go.com/Sports/england-patriots-coach-bill-belichick-accept-presidential-medal/story?id=75189027"
+    ampWebUrl: "https://abcnews.go.com/amp/Sports/england-patriots-coach-bill-belichick-accept-presidential-medal/story?id=75189027"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/england-patriots-coach-bill-belichick-accept-presidential-medal/story?id=75189027"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 109
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "‘Trump impeachment sets precedent against free speech’"
+    excerpt: "The precedent set by impeaching US President Donald Trump will be used in the future to curtail the free speech of civil rights activists and protesters, one of the country’s most high profile lawyers,"
+    publishedDateTime: 2021-01-15T12:22:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55677337"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p0943fxx.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Donald Trump house hunts in a surprising place — which home will he pick?"
+    excerpt: "Which home in Palm Beach will the Trumps pick? Here are four homes for sale we’ll bet they’ll consider since they tick all the P boxes: posh, palatial, and presidential."
+    publishedDateTime: 2021-01-04T18:30:00Z
+    webUrl: "https://www.chicagotribune.com/real-estate/luxury-real-estate/sns-liststory-rdc-donald-trump-palm-beach-house-hunting-20210104-zhzyjuta6jh27dv47xvoeebebi-list.html"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 110
+    quality: 104
     images:
-      - url: "https://www.chicagotribune.com/resizer/EriE5_l5xPVwtO9jmKjyyRb_Uws=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VRWGIX76UW7OWH7Y36Q25UFT4A.jpg"
+      - url: "https://www.chicagotribune.com/resizer/j78sicOE8zZ2qxbXI1iTabt-WMo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YFZRIGJ2L5CLZKHDQVX2SCVOSU.jpg"
         width: 1200
-        height: 793
+        height: 799
         isCached: true
-  - title: "Fact check: Donald Trump concession video not a ‘confirmed deepfake’"
-    excerpt: "Social media users have been sharing a post that claims a video in which outgoing president Donald Trump acknowledges President-elect Biden’s victory in the wake of the chaos of the Capitol protests has been confirmed to be a deepfake."
-    publishedDateTime: 2021-01-12T02:23:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN29G2NL"
+  - title: "Donald Trump plans to award Presidential Medal of Freedom to New England Patriots coach Bill Belichick, per reports"
+    excerpt: "President Donald Trump plans to award New England Patriots coach Bill Belichick the Presidential Medal of Freedom on Thursday, according to multiple reports. A spokesperson for the Patriots did not respond to a request for comment."
+    publishedDateTime: 2021-01-11T02:59:00Z
+    webUrl: "https://abcnews.go.com/Sports/donald-trump-plans-award-presidential-medal-freedom-england/story?id=75169481"
+    ampWebUrl: "https://abcnews.go.com/amp/Sports/donald-trump-plans-award-presidential-medal-freedom-england/story?id=75169481"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/donald-trump-plans-award-presidential-medal-freedom-england/story?id=75169481"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: ABC
+      domain: abcnews.go.com
+    quality: 103
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547411580&r=LYNXMPEH0A1I1&w=800"
-        width: 800
-        height: 450
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
-  - title: "Trump trial pending, McConnell calls it 'vote of conscience'"
-    excerpt: "President Donald Trump's is likely to start after Joe Biden's inauguration, and the Republican leader, Mitch McConnell, is telling senators their decision on whether to convict the outgoing president over the Capitol riot will be a “vote of conscience."
-    publishedDateTime: 2021-01-16T22:37:00Z
-    webUrl: "https://www.businessinsider.com/trump-trial-pending-mcconnell-calls-it-vote-of-conscience-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trump-trial-pending-mcconnell-calls-it-vote-of-conscience-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-trial-pending-mcconnell-calls-it-vote-of-conscience-2021-1?amp"
+  - title: "New England Patriots coach Bill Belichick won't 'move forward' with Presidential Medal of Freedom from Donald Trump"
+    excerpt: "New England Patriots coach Bill Belichick said Monday that he will not \"move forward\" with the Presidential Medal of Freedom that Donald Trump planned to present to him on Thursday. Belichick explained his decision in a statement."
+    publishedDateTime: 2021-01-12T01:09:00Z
+    webUrl: "https://abcnews.go.com/Sports/england-patriots-coach-bill-belichick-move-forward-presidential/story?id=75189041"
+    ampWebUrl: "https://abcnews.go.com/amp/Sports/england-patriots-coach-bill-belichick-move-forward-presidential/story?id=75189041"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Sports/england-patriots-coach-bill-belichick-move-forward-presidential/story?id=75189041"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Senate Majority Leader Mitch McConnell is inclined to vote to convict Trump in an impeachment trial, new report says"
-    excerpt: "House Minority Leader Kevin McCarthy is also talking to GOP colleagues about whether he should ask Trump to resign, The New York Times reports."
-    publishedDateTime: 2021-01-13T03:56:00Z
-    webUrl: "https://www.businessinsider.com/mitch-mcconnell-pleased-at-prospect-of-trump-being-impeached-nyt-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-pleased-at-prospect-of-trump-being-impeached-nyt-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-pleased-at-prospect-of-trump-being-impeached-nyt-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
+      name: ABC
+      domain: abcnews.go.com
+    quality: 103
     images:
-      - url: "https://i.insider.com/5f984f3c861cb70019936b04?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
-  - title: "Mitch McConnell is telling GOP senators their decision on a Trump impeachment trial conviction is a 'vote of conscience'"
-    excerpt: "Majority Leader Mitch McConnell has been telling GOP senators they have the freedom to vote however they want during Trump's impeachment trial."
-    publishedDateTime: 2021-01-15T18:24:00Z
-    webUrl: "https://www.businessinsider.com/mcconnell-republican-senators-conviction-vote-trump-impeachment-trial-2021-1"
+  - title: "President Donald Trump to award Bill Belichick the Medal of Freedom on Thursday (report)"
+    excerpt: "With only days remaining in his term, President Donald Trump is reportedly awarding Bill Belichick the Medal of Freedom. Trump has continued to award the medal in the aftermath of the insurrection at the U."
+    publishedDateTime: 2021-01-11T00:45:00Z
+    webUrl: "https://www.masslive.com/patriots/2021/01/president-donald-trump-to-award-bill-belichick-the-medal-of-freedom-on-thursday-report.html"
+    ampWebUrl: "https://www.masslive.com/patriots/2021/01/president-donald-trump-to-award-bill-belichick-the-medal-of-freedom-on-thursday-report.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/patriots/2021/01/president-donald-trump-to-award-bill-belichick-the-medal-of-freedom-on-thursday-report.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
+      name: MassLive
+      domain: masslive.com
+    quality: 66
     images:
-      - url: "https://i.insider.com/5fa6a499f7d1cb0019e3a5eb?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/N7HI3ZS5PNAM3NNA62U2MO7DGE.jpg"
+        width: 540
+        height: 304
         isCached: true
-  - title: "A ‘vote of conscience’: McConnell sets stage for Trump impeachment trial"
-    excerpt: "President Donald Trump’s impeachment trial is likely to start after Joe Biden’s inauguration, and the Republican leader, Mitch McConnell, is telling senators their decision on whether to convict the outgoing president over the Capitol riot will be a “vote of conscience."
-    publishedDateTime: 2021-01-16T18:28:00Z
-    webUrl: "https://www.al.com/politics/2021/01/a-vote-of-conscience-mcconnell-sets-stage-for-trump-impeachment-trial.html"
-    ampWebUrl: "https://www.al.com/politics/2021/01/a-vote-of-conscience-mcconnell-sets-stage-for-trump-impeachment-trial.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/a-vote-of-conscience-mcconnell-sets-stage-for-trump-impeachment-trial.html?outputType=amp"
+  - title: "‘Tone deaf!’ Gary Player slammed by son for accepting Presidential Medal of Freedom from Donald Trump"
+    excerpt: "Donald Trump awarded the Presidential Medal of Freedom Thursday to golfers Gary Player, Annika Sorenstam and Babe Didrikson Zaharias (posthumously)."
+    publishedDateTime: 2021-01-08T19:27:00Z
+    webUrl: "https://www.nj.com/sports/2021/01/tone-deaf-gary-player-slammed-by-son-for-accepting-presidential-medal-of-freedom-from-donald-trump.html"
+    ampWebUrl: "https://www.nj.com/sports/2021/01/tone-deaf-gary-player-slammed-by-son-for-accepting-presidential-medal-of-freedom-from-donald-trump.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2021/01/tone-deaf-gary-player-slammed-by-son-for-accepting-presidential-medal-of-freedom-from-donald-trump.html?outputType=amp"
     type: article
     provider:
-      name: al.com
-      domain: al.com
-    quality: 74
+      name: NJ.com
+      domain: nj.com
+    quality: 60
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NTUN5GCYINBD3K36VXQ3ERTFMM.jpg"
-        width: 2555
-        height: 1438
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MK4AQOA5P5FSBGBB2XDXCROHAM.jpg"
+        width: 3548
+        height: 2365
         isCached: true
 
 secured: "Yk7cU6Qum86FtDDpY9OPVtkAmItufRWXrmMG+rc3xPftgIXOEarK8kEygRDTyEF3IGeStTSfbyvVY5Ojvm8IXGWt3HTpUQYADaGiJmiGPIFzPoXVDsl1tpKNRGHK62EFNE2QALLXsu1bC7gQriHWcXuxnGNYGxvKrKdPRXaNwLg+22qcPOjeKQ6/t8Y+0bv8S8KFPfXdiDjqOj8btVBTufkvl62/fyO1BIP/rtFWYFrV5yMU0eSTayGhMUS8nQdNUefLQB2yo75soRKM0H2lkmg8Qn4tO7/LxurzFjDR4XKajqYvWowRzcM+ivY+pM8Wm7d4LMRH+w9mEH5ygP1lh+/bgsCTqBLFadMmcMsvNxA=;wmUYkN6Zw5njKCjO3aih6g=="

@@ -3891,6 +3891,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "For Trump, 68% oppose a self-pardon; Biden receives positive marks for transition: POLL"
+    excerpt: "As to the man he's replacing, 68% in this ABC News/Washington Post poll oppose President Donald Trump pardoning himself for any federal crimes he may be accused of committing. And 58% support Twitter's ban on Trump,"
+    publishedDateTime: 2021-01-17T14:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-68-oppose-pardon-biden-receives-positive-marks/story?id=75251124"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 112
+    images:
+      - url: "https://s.abcnews.com/images/Politics/donald-trump_hpMain_20210115-185847_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump pushes Pence to overturn election: ‘This is a time for extreme courage!’"
     excerpt: "Pence finds himself in the most precarious position of his tenure as he prepares to preside over Wednesday’s congressional tally of Electoral College votes, bearing witness to the formality of the Trump-Pence team’s defeat."
     publishedDateTime: 2021-01-06T15:29:00Z

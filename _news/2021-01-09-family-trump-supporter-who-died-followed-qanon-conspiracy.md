@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/family-trump-supporter
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520"
 type: article
 quality: 125
-heat: 245
+heat: 205
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "With Trump banned from Twitter, his supporters are parsing speeches for clues about what’s next"
-    excerpt: "Many of the president’s allies have struggled to glean clear marching orders from him since his banishment from social media."
-    publishedDateTime: 2021-01-14T22:23:00Z
-    webUrl: "https://www.washingtonpost.com/politics/with-trump-banned-from-twitter-his-supporters-are-parsing-speeches-for-clues-about-whats-next/2021/01/14/985e06dc-5534-11eb-a08b-f1381ef3d207_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/with-trump-banned-from-twitter-his-supporters-are-parsing-speeches-for-clues-about-whats-next/2021/01/14/985e06dc-5534-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/with-trump-banned-from-twitter-his-supporters-are-parsing-speeches-for-clues-about-whats-next/2021/01/14/985e06dc-5534-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R5HHSKSWOII6XIEL6E4B546SA4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Even more Trump family members are reportedly moving to Florida"
     excerpt: "Ivanka Trump and Jared Kushner bought property in Miami. Now Donald Trump Jr. and Kimberly Guilfoyle are eyeing area real estate, as is Tiffany Trump."
     publishedDateTime: 2021-01-13T22:46:00Z
@@ -109,15 +93,6 @@ related:
         width: 503
         height: 310
         isCached: true
-  - title: "Nevada Judge Who Denied Trump Campaign Appeal Was Threatened"
-    excerpt: "Authorities in Carson City are investigating a threat made against a state judge who dismissed a lawsuit last month brought by President Donald Trump’s campaign."
-    publishedDateTime: 2021-01-15T18:53:00Z
-    webUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-01-15/nevada-judge-who-denied-trump-campaign-appeal-was-threatened"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "AwYqoB09ij66/H1paIsFGAPdMINqUp+4dlyQe0cPrIpHz/lr6aysedORtnP9UlJ5PEnxfzs2muVsFKsOg5xcMdK8mbM6Z6ExPjVsooO0PmKWlg0HCX5uZh1PZqql/FfoJ/xZk6OsGRuDfnLyZRR7imoJj07hPU8jw6bWn08BOanaNYp+nD3FRFzOkIv/hlcZXsJrBEdm/L4ixgRznnvbKqycZ8XkYKbzHJX2v9G4Si1Ne7K6b/GT1U7tvRedgMVbbCuARnpbjcePRifyOVs6vvKWy7zx6+L2XgLRgt8ubPJ+wryz8ygfD99NdQAaq6eH7KNnAacU4gi42fPHPAC5rQWpfA3SzukjYk+1lrq/N9c=;vkg6qY/izYakBDtRYmJYdQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-p
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp"
 type: article
 quality: 129
-heat: 569
+heat: 549
 published: true
 
 provider:
@@ -79,22 +79,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/a3222a0066a6f84cac68afa6b01f1c60f2d17a0b/816_1821_6587_3952/master/6587.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0eb9e7f0a74d5248f19ab21782a6b6e3"
         width: 600
         height: 360
-        isCached: true
-  - title: "For Trump, the end is coming swiftly and with stinging rebukes"
-    excerpt: "The end is coming in ways Trump could not have imagined before Wednesday’s riot at the Capitol by his supporters. He is hearing calls for his resignation from conservative voices, among them Rupert Murdoch’s Wall Street Journal editorial page."
-    publishedDateTime: 2021-01-09T22:30:00Z
-    webUrl: "https://www.washingtonpost.com/politics/rebukes-trump-presidency-ending-/2021/01/09/35f2de3c-5287-11eb-83e3-322644d82356_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/rebukes-trump-presidency-ending-/2021/01/09/35f2de3c-5287-11eb-83e3-322644d82356_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/rebukes-trump-presidency-ending-/2021/01/09/35f2de3c-5287-11eb-83e3-322644d82356_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JWYHYFCSUAI6XA7DGITEJWBDKY.jpg&w=1440"
-        width: 1440
-        height: 977
         isCached: true
   - title: "Democrats Urge Mitch McConnell to Publicly Back Removing Donald Trump"
     excerpt: "The president's adversaries continue to push his impeachment as part of a sustained backlash against him following the events of January 6."

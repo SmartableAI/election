@@ -125,6 +125,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris to resign Senate seat Monday"
+    excerpt: "Vice President-elect Kamala Harris will officially resign Monday from her US Senate seat, ending her four-year Senate career, according to a Harris aide. The move comes two days before she's inaugurated on Wednesday, making history as the first female, first Black and first South Asian vice president.\n"
+    publishedDateTime: 2021-01-17T13:03:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lUjYOkAI3AM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/kamala-harris-resigns-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/kamala-harris-resigns-senate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112125012-kamala-harris-wilmington-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump, pressured into video concession, faces uncertain final stretch"
     excerpt: "President Donald Trump's top aides delivered a blunt warning to him Thursday as he sat sullenly in the West Wing and watched as his Republican allies, Cabinet secretaries and former senior staffers criticized or denounced him one by one.\n    \n"
     publishedDateTime: 2021-01-08T14:12:16Z
@@ -282,6 +298,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115174437-trump-fact-check-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's last year in office will define his legacy, historians say"
+    excerpt: "Historians face a daunting task when it comes time to assessing Donald Trump's presidency, during which news often moved at breakneck pace, and the ramifications of his one-term presidency have yet to be determined.\n    \n"
+    publishedDateTime: 2021-01-17T14:21:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cI5YqB88NJU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/trump-legacy-historians/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/trump-legacy-historians/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180625093716-01-trump-pondering-062118-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

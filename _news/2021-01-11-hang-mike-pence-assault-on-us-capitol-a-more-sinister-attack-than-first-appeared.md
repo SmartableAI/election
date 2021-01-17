@@ -43,22 +43,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Capitol Riot Mob May Have Been Targeting Mike Pence, Chanted To ‘Hang’ Vice President"
-    excerpt: "New information has come to light regarding the intents of some members of the mob of Trump supports who rioted at the Capitol."
-    publishedDateTime: 2021-01-09T18:15:00Z
-    webUrl: "https://www.ibtimes.com/capitol-riot-mob-may-have-been-targeting-mike-pence-chanted-hang-vice-president-3118058"
-    ampWebUrl: "https://www.ibtimes.com/capitol-riot-mob-may-have-been-targeting-mike-pence-chanted-hang-vice-president-3118058?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/capitol-riot-mob-may-have-been-targeting-mike-pence-chanted-hang-vice-president-3118058?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 68
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/us-vice-president-mike-pence-pictured-during-the.jpg"
-        width: 1024
-        height: 681
-        isCached: true
 
 secured: "U2/I5pCdHF5yTf5SO0mjAE0Mc43SuVZNbp3iYZIxxslJq4KApjkpMZOEv9Wpxrq2H5qtqpZqdfMaVzSCnSCPw/P4Ixqs3fEJ+r2lG+qSo8TA6GVXqqnVEH0hajGkcDIhrb+aPH8JaNuxnMm6KAHzwXHBHCnlg9uSQen5mkHHct/tJHD/8g6kaL6lALB13mqyTD/gPpWeKXIsaFUVY8zBwNoUAe/w+7r2QB8yb9ELmkYR2o+5o55f1amWp1mLW4OlnCss+pcfOSRLQZyZOXGIG2w63MwU/wFC4YyR6VijeFEQ6w89VLnHijwdcmeMhDJ2TSi9MROZXTG2bYwvyXOPSsAMjvAamVDm2jrT0WYqxWs=;/Tf3+tEUtAz42XSz2NmK7w=="
 ---

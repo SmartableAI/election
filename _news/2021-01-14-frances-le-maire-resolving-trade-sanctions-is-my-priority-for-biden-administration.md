@@ -45,22 +45,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Joe Biden elevates chief science adviser to a Cabinet position, picks human genome pioneer for the post"
-    excerpt: "Joe Biden announced Friday that he has chosen a pioneer in mapping the human genome — the so-called “book of life” — to be his chief science adviser."
-    publishedDateTime: 2021-01-16T01:16:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 109
-    images:
-      - url: "https://www.chicagotribune.com/resizer/_KnwY3nRWrxfc3pBEgErezBucOk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JVDAS7L35DO6FVFNIWKSAAR62E.aspx"
-        width: 1200
-        height: 791
-        isCached: true
   - title: "Biden: Science will be at `forefront' of his administration"
     excerpt: "President-elect Joe Biden says \"science will always be at the forefront of my administration,” and he is elevating the post of science adviser to Cabinet level, a White House first."
     publishedDateTime: 2021-01-17T10:28:00Z

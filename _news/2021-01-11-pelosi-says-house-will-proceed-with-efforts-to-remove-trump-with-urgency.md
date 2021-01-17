@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/11/pelosi-says-house-wi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/11/pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency-25th-amendment"
 type: article
 quality: 123
-heat: 183
+heat: 143
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pelosi calls for prosecution of any Congress members who might have helped pro-Trump siege"
-    excerpt: "Any members of the U.S. Congress who helped a crowd of President Donald Trump's supporters storm the Capitol should face criminal prosecution, House of Representatives Speaker Nancy Pelosi said on Friday."
-    publishedDateTime: 2021-01-16T04:32:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/pelosi-prosecute-any-members-of-congress-who-aided-trump-supporters-capitol-attack-idUSKBN29K0NV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 95
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547955197&r=LYNXMPEH0E18J&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Trump Says 'Tremendous Anger' in Nation Over Impeachment"
     excerpt: "Impeachment ahead, the House will first try Tuesday to push the vice president and Cabinet to act even more quickly to remove President Donald Trump from office."
     publishedDateTime: 2021-01-12T16:35:00Z
@@ -56,17 +42,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Pelosi Calls for Prosecution of Any Congress Members Who Might Have Helped Pro-Trump Siege"
-    excerpt: "Pelosi Calls for Prosecution of Any Congress Members Who Might Have Helped Pro-Trump Siege WASHINGTON (Reuters) - Any members of the U.S. Congress who helped a crowd of President Donald Trump's supporters storm the Capitol should face criminal prosecution ..."
-    publishedDateTime: 2021-01-16T18:27:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-15/eyes-on-pelosi-as-trump-impeachment-trial-timing-up-in-the-air"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-15/eyes-on-pelosi-as-trump-impeachment-trial-timing-up-in-the-air?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-15/eyes-on-pelosi-as-trump-impeachment-trial-timing-up-in-the-air?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 45
 
 secured: "e6zUbvMWdoJ/ZcgCihq7C7zY1w+Bk56k1lR/wkBgmsuMvB1nptrAUZc73C3IHq+ncCNhuT43SfzbxIQyljYj8Zyqd/qPWA88AvxjPdFf+S8UfwDVTSyiwXqGTMr+HPI5UN1Gpb4KghP0YMBnmGuezncoTie35fqOTLfpf51pL5FlOsynRcdYQ+JLxnLyAcc1nCvIA1NlZljbzDmsG3ThxJ4oXf1V0m00kT+NbAlC5qxw74YINNJRLV0uFwQ6Shao+rcmiqBbpPWK5LrhvNv6J1HwuHpxMqSsXn918P7rwligtaILTc3DVGunnnQlkCWUXQIFXjCfzFcB5V7VssTbgx/0BexaeOxEvtgcKQfiYtHnULzm8xz9eTy3PfXtopX/udQDTNTyiqsGTHbptlTDRAtzKxffppAgnG+Lc39nWycNq011OImnxuWe9fYjkdLyBCIlrnKu8lqbfl1RtgyfB/jJsqko7l06lvt+hU8VU8QDkG/XqzEvIEM5rYYF0rBskxHSfqXxXbHnZw3j0nnGaA==;+GNB7r5XQN+jH20+ed2HgA=="
 ---

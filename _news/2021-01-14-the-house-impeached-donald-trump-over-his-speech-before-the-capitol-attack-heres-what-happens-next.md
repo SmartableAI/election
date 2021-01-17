@@ -25,37 +25,65 @@ images:
     isCached: true
 
 related:
-  - title: "Bette Midler Says Donald Trump Will 'Burn Down' The White House Before He Leaves"
-    excerpt: "\"How many more will die in the service of this mediocrity? And watch, he'll burn the WH down before he goes,\" Midler tweeted Tuesday."
-    publishedDateTime: 2021-01-12T17:33:00Z
-    webUrl: "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892"
-    ampWebUrl: "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1"
+  - title: "Capitol riots: What are far-right Trump supporters saying?"
+    excerpt: "Members of the extreme right are searching for new online homes, amid paranoia that they are being ‘set up’ by the authorities."
+    publishedDateTime: 2021-01-16T00:36:00Z
+    webUrl: "https://www.bbc.com/news/blogs-trending-55679813"
+    ampWebUrl: "https://www.bbc.com/news/amp/blogs-trending-55679813"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/blogs-trending-55679813"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/754F/production/_116413003_gettyimages-578547390.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "The symbols of hate and far-right extremism on display in pro-Trump Capitol siege"
+    excerpt: "Trump mob stormed the U.S. Capitol, symbols of white supremacy and extremist right wing militias were displayed by some rioters on flags, banners and clothing."
+    publishedDateTime: 2021-01-14T15:01:00Z
+    webUrl: "https://abcnews.go.com/US/symbols-hate-extremism-display-pro-trump-capitol-siege/story?id=75177671"
+    ampWebUrl: "https://abcnews.go.com/amp/US/symbols-hate-extremism-display-pro-trump-capitol-siege/story?id=75177671"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/symbols-hate-extremism-display-pro-trump-capitol-siege/story?id=75177671"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 120
     images:
-      - url: "https://d.newsweek.com/en/full/1673938/bette-midler.jpg"
-        width: 3000
-        height: 2023
+      - url: "https://s.abcnews.com/images/Politics/donald-trump-mob-01-gty-llr-210112_1610481114245_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Former White House spokesman Hogan Gidley says Trump is the 'most masculine' president in US history"
-    excerpt: "This came after Fox News host Bill Hemmer asked Gidley if Trump felt \"emasculated\" by the recent \"social media crackdown.\""
-    publishedDateTime: 2021-01-11T22:59:00Z
-    webUrl: "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1?amp"
+  - title: "HHS's Azar tells Trump Capitol attack could tarnish legacy"
+    excerpt: "U.S. Health and Human Services Secretary Alex Azar told President Donald Trump in a letter this week that the attack on the Capitol could tarnish the legacy of the administration."
+    publishedDateTime: 2021-01-16T12:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-azar/hhss-azar-tells-trump-capitol-attack-could-tarnish-legacy-idUSKBN29L02H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548005470&r=LYNXMPEH0F01K&w=800"
+        width: 799
+        height: 533
+        isCached: true
+  - title: "Billionaire Trump supporters Catsimatidis, Olenicoff say he isn't to blame for US Capitol attack"
+    excerpt: "Few of Trump's billionaire donors have named the president in their public condemnations of the riots. Two actually say Trump didn't incite them."
+    publishedDateTime: 2021-01-08T18:36:00Z
+    webUrl: "https://www.businessinsider.com/billionaires-catsimatidis-olenicoff-dont-blame-trump-on-capitol-riot-2021-1"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 110
+    quality: 92
     images:
-      - url: "https://i.insider.com/5ffcc49fbde805001980c448?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.insider.com/5ff88ee4bde805001980be45?width=1200&format=jpeg"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "5g8xY9j8SfZCTCKVolCTpvxJiMVU/+XllFeB3IGEW/G0MbM7E8QNXQuAN9Ezhpw6u8rGr1LcmG2YsKSJX4mpMpQuPSY/dvkWq3FSaY0fTMa4u1Vn9/ty/xxZeIrMgNiiSDZX+6BzRIQviRqBW6TGp+2pUuPzoiBbizTR8eHjoV9HHM4ZImngLShOBNoHtDgNU/8i66CaH0kxWexwCMamBQEDJPIfEnM2fpSZaZtzO9udj7DXTvvVD5FPBzhDNDbYs3cveC8X5EleKQiv9G05PLuPa7d4VdhnJivR9gquMsMbweuPbGddTkAg744TkYAjy486j+0BBeQ4ZWxUECPlgqm8v/ywde0SBo2WdNtpm7w=;PuE4rSif5LPpMc0o02KiaA=="

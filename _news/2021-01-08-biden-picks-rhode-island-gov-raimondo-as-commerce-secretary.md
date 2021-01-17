@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-rhode-isla
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1547006159&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH061EQ"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden, aiming to reopen schools, set to request infusion of cash"
+    excerpt: "President-elect Joe Biden will ask Congress for $130 billion to help K-12 schools reopen, plus billions more to implement rapid coronavirus testing in schools, a far more aggressive response than anything lawmakers have approved to date."
+    publishedDateTime: 2021-01-15T04:06:00Z
+    webUrl: "https://www.washingtonpost.com/education/biden-schools-reopening/2021/01/14/e953b03a-5671-11eb-a08b-f1381ef3d207_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/education/biden-schools-reopening/2021/01/14/e953b03a-5671-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/biden-schools-reopening/2021/01/14/e953b03a-5671-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KQTIS7SVBEI6XKAX4XT7RJAG2Y.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden to nominate Rhode Island Governor Gina Raimondo to be commerce secretary"
     excerpt: "President-elect Joe Biden intends to nominate Rhode Island Governor Gina Raimondo to serve as commerce secretary and Boston Mayor Marty Walsh to lead the Labor Department, CBS News confirmed Thursday,"

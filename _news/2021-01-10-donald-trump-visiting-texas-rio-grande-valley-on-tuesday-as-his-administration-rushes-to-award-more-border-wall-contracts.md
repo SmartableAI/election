@@ -43,22 +43,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Are Republicans really ready to unhitch their wagon from Donald Trump?"
-    excerpt: "Analysis: The attack on the Capitol – and perhaps the Senate losses in Georgia – have prompted some GOP leaders to signal a split even as others back his election lie"
-    publishedDateTime: 2021-01-13T17:20:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/13/republicans-donald-trump-distancing"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/13/republicans-donald-trump-distancing"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/13/republicans-donald-trump-distancing"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/d28f8b02a1054d115e0ac05d26edab5a385ca5de/0_137_5145_3087/master/5145.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cf6e6c648ae5a290ee7660700b84263d"
-        width: 600
-        height: 360
-        isCached: true
   - title: "How Twitter, on the frontlines of history, finally decided to ban Trump"
     excerpt: "Twitter CEO Jack Dorsey agreed to ban Donald Trump from Twitter after tearful all-hands meetings, bitter dialogues, and employee pushback, knowing that this would be the biggest decision his company had ever faced."
     publishedDateTime: 2021-01-17T04:51:00Z
@@ -209,22 +193,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Will Donald Trump Try to Take His Act to TikTok?"
-    excerpt: "I asked TikTok, which the outgoing U.S. president spent the second half of 2020 trying to ban, whether it would join other social networks in refusing Trump access to its app, should he want to join."
-    publishedDateTime: 2021-01-09T05:11:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/01/will-donald-trump-try-to-take-his-act-to-tiktok.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/will-donald-trump-try-to-take-his-act-to-tiktok.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/will-donald-trump-try-to-take-his-act-to-tiktok.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/fac/982/32eb55cd34fdbfd7aa95ebac6d828b77f5-donald-trump-tik-tok.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 632
-        isCached: true
   - title: "Internet Reacts To Twitter's Donald Trump Ban With Memes; Netizens Watching Melania Trump's Account"
     excerpt: "Memes immediately followed Twitter's announcement that it has banned President Donald Trump's personal account permanently."
     publishedDateTime: 2021-01-09T04:58:00Z
@@ -255,17 +223,20 @@ related:
         width: 1024
         height: 757
         isCached: true
-  - title: "Trump Returns Cuba to U.S. List of State Sponsors of Terrorism"
-    excerpt: "The Trump administration plans to return Cuba to the U.S. list of state sponsors of terrorism, a person familiar with the matter said on Monday, a move that could complicate any efforts by the incoming Biden administration to revive Obama-era detente with Havana."
-    publishedDateTime: 2021-01-12T04:26:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-01-11/trump-plans-to-return-cuba-to-us-list-of-state-sponsors-of-terrorism-source"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-11/trump-plans-to-return-cuba-to-us-list-of-state-sponsors-of-terrorism-source?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-11/trump-plans-to-return-cuba-to-us-list-of-state-sponsors-of-terrorism-source?context=amp"
+  - title: "Watch live: President Donald Trump visits Alamo, Texas"
+    excerpt: "President Donald Trump flew to visit Alamo, Texas, on Tuesday. The small town of Alamo was named after the famed mission 240 miles north in San Antonio. Trump will deliver remarks near a border wall at 2 p."
+    publishedDateTime: 2021-01-12T14:03:00Z
+    webUrl: "https://www.chron.com/news/local/politics/article/Watch-Live-President-Donald-Trump-visits-Alamo-15864972.php"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/10/63/20483289/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "3pBJQAz85Yz7ZFDaZ126Xq+IOUYLjpDopQFdhz/pDbd+a0hJiD8vUlv+E3yKabNQdqq8JtWmgM7N9y7AKuth8+5VPJ9U4UjpUiexxGL6oJ6A9QLnB544GDMNOHuvmQIQ5k4XgNnwDD284u3KSxAiMPWnCLUJSdeTeP9/m09EyHb5JOfKcfr4yhg5bBama2g6kTSMdsTdxb1HTsJ653olSoVUxWDG0GewhAYbjZZCqCTMexavB0gkBuLWVTY4j+fw4izsTAQer3ZucGHWI67GXQM5GwBDUXOlc2W1hLvh708ijnsdtftUN1MVxrRWIa+6jE5Jxd7ToU2eWCb8UXJOjv9QAMhzPmgONrOUcIBnggo=;q1EqcRuth30qRKLHnmu3Eg=="
 ---

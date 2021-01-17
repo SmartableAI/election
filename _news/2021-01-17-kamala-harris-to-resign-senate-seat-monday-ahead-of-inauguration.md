@@ -299,6 +299,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Divided Senate Gives Kamala Harris Powerful Tiebreaker Role"
+    excerpt: "Kamala Harris’s term as vice president will be defined from the start by the Senate’s partisan split, as the former lawmaker is pushed into a powerful role in a chamber that must decide whether to convict the outgoing president of inciting an insurrection."
+    publishedDateTime: 2021-01-17T14:35:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-17/senate-divided-by-party-gives-harris-powerful-tiebreaker-role"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-01-17/senate-divided-by-party-gives-harris-powerful-tiebreaker-role"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-01-17/senate-divided-by-party-gives-harris-powerful-tiebreaker-role"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 125
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibcPw4YBVIyo/v1/360x-1.jpg"
+        width: 360
+        height: 239
+        isCached: true
+  - title: "Kamala Harris will resign her Senate seat Monday"
+    excerpt: "Vice President-elect Kamala D. Harris will resign her Senate seat Monday, stepping down four years after she was elected California’s junior senator. Aides said Harris has already begun the formal process,"
+    publishedDateTime: 2021-01-17T13:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/kamala-harris-resigns-senate/2021/01/16/03cd0e90-5869-11eb-a817-e5e7f8a406d6_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/kamala-harris-resigns-senate/2021/01/16/03cd0e90-5869-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/kamala-harris-resigns-senate/2021/01/16/03cd0e90-5869-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EBVS6GSYGYI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Donald Trump's Inauguration Boycott Welcomed by Republicans and Democrats"
     excerpt: "The president announced he will not attend ahead of his ban from Twitter, as a backlash grows against him over the recent events at the Capitol."
     publishedDateTime: 2021-01-11T15:29:00Z
@@ -913,6 +945,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Kamala Harris will be sworn in as vice president by Justice Sonia Sotomayor"
+    excerpt: "WASHINGTON — Vice President-elect Kamala Harris will be sworn in by Supreme Court Justice Sonia Sotomayor on Wednesday, a history-making event in which the first Black, South Asian and female vice president will take her oath of office from the first Latina justice."
+    publishedDateTime: 2021-01-17T11:36:00Z
+    webUrl: "https://www.al.com/news/2021/01/kamala-harris-will-be-sworn-in-as-vice-president-by-justice-sonia-sotomayor.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/kamala-harris-will-be-sworn-in-as-vice-president-by-justice-sonia-sotomayor.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/kamala-harris-will-be-sworn-in-as-vice-president-by-justice-sonia-sotomayor.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2Q6YECU6VRHRHG656IQN73Q55M.jpg"
+        width: 4444
+        height: 3154
+        isCached: true
   - title: "D.C. attorney general seeks to interview Donald Trump Jr. on inauguration funds"
     excerpt: "The D.C. attorney general's office said Thursday it requested to interview Donald Trump Jr. as part of its investigation into the Presidential Inaugural Committee's alleged misuse of non-profit funds."
     publishedDateTime: 2021-01-15T02:08:00Z
@@ -1101,6 +1149,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "vBJ7f8k7699j+umoH7gX71P/fDtabsnSPFQJK5wKEFO54A9kM0rdp1EpXK5auQH3gALsvj3YlzHBV4OELEE4qF5IEl0PbsMMEm8deHIdJ/FbFRq7WEE5tQ9NMsngqJE4hrEJLfpligqhmJ6zs0bi4raUKeo5wJxXRr5aEOCcVg4MsH0QDYgapOUrwPMRq6+oNbpFKRxTS/K6NFGeG/VVP2tbo5McDh4hIwNVL9FROVgHr5muFzDW9TG66KrBves+I9Qld0+a9L3oSykWT/0Gvq81qAzXh/+XI5+B4HIMAL1pF74kRKD0MoJ9X7kg35K+1IektC91KTCqL0Ng/EkMY2UR5iBd14LP7nGSMlhw8Cs=;vb2GKa2xa1zhiER3Hvt/Qw=="
+secured: "zxBxdoXilog83Y4y+LgTgI19JbuEVJmxiLxx7xFjO/Qt/l012Tt62VVOJriPRv8rl9xFQgP+fHLkc0Ri+kdnF//6qckE2VEFgLGWzUZub3JRnCvVequsd6/939uudqloWDHT+M8NtL/a1Ylr8vU0h9f+P44Zo0FupK95LapYCBkT/s4QPGomCHqXth6JbV3LZJo/O/8dZw3pPkhrL9rn/u+QCuYni9ihQE1XFJ59Zi+VI9pe02NN9aF56NwHNXGfsF0jHW9qdz+VuMn7opSgdV/fOfaQp9kZte6ZHbKj8ajsovRnMhcTkoMWMk44mcCmvtSyRomeh0yiJA6JZRRsPLo3OWSzroacxlsE0o87t9mHsYyBP+tz58CJjANe51MX+p2X3yoAU9RgTgEJ1M0P0c6RgEpkkIlR+zthb2VGgNM0abPxiNbJNzWw4ygBIoGg8H71J8sQFRfU+BvKOt4/bICUSx7T2OQTgF+39Ra2+nG9mAUOY0EYM8uDHg0dto04ZasyNDGNfZQEwLBip4GbCA==;Rqg2ARGaxvH32LK53QaRvg=="
 ---
 

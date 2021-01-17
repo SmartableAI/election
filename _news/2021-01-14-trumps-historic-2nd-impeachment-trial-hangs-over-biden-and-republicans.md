@@ -1505,10 +1505,10 @@ related:
         isCached: true
   - title: "The latest on Biden's inauguration and security threats"
     excerpt: "DC and states around the country are on high alert and tightening security in preparation for possible protests ahead of Biden's inauguration and in wake of Trump's impeachment. Follow here for the latest."
-    publishedDateTime: 2021-01-16T20:33:00Z
-    webUrl: "https://www.cnn.com/politics/live-news/biden-inauguration-dc-capitol-news-01-16-21/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/biden-inauguration-dc-capitol-news-01-16-21/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/biden-inauguration-dc-capitol-news-01-16-21/index.html"
+    publishedDateTime: 2021-01-17T13:04:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/biden-inauguration-dc-capitol-news-01-17-21/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/biden-inauguration-dc-capitol-news-01-17-21/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/biden-inauguration-dc-capitol-news-01-17-21/index.html"
     type: article
     provider:
       name: CNN

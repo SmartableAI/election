@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/jack-dorsey-defends-banning-trum
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/jack-dorsey-defends-banning-trump-admits-sets-dangerous/story?id=75248908"
 type: article
 quality: 123
-heat: 163
+heat: 183
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/11/USAT/6ddbe2fd-e852-40de-beb9-21ba780cedd6-AP_Trump-Social-Media-Bans.jpg?auto=webp&crop=3023,1700,x0,y1167&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Letter to Jack Dorsey from Twitter employees asking to permanently suspend Donald Trump's account"
+    excerpt: "In a letter to Twitter CEO Jack Dorsey and other top executives, employees ask the company to permanently suspend Donald Trump and investigate Twitter's role in the attack on the U.S. Capitol."
+    publishedDateTime: 2021-01-08T21:40:00Z
+    webUrl: "https://www.washingtonpost.com/context/letter-to-jack-dorsey-from-twitter-employees-asking-to-permanently-suspend-donald-trump-s-account/d9b84fa1-c7cb-4c5b-a90a-fdf167ff0c7a/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 92
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BTTBYKCFQII6XLBKHLAPFOGO5M.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 989
         isCached: true
 
 secured: "impQD2XXFbif8HLtLb46wobdCp2gfpaNoqehkaik2V/6PQV+6/0iUvVhqm6uMEi0IjedRhhVCaAz+WBFFvdussrj2B6OXu5dBZRwz3BWPZ597UnoWLBEIb30aR9f4lfF/XG4OITiEC4vlM8jsj8aMW/vDJAVrcDRIrChj80P4PgAwbxvFlPDgu431IP7h8d+k+835S5pYpTAnetskVAgE0DSaeW3bQX4wYO3whegiL3Ucx9x/LQ0kxcKQkYeQTnQ33Fe+sFSVwYMBjS384rLAB3zywEAHLDUC6j23C5EOWv6G0gLv9tgpSuxh4VYGGKvM7tTcXL4Li2JBVtn/EFDCWghoxKwxUkeKUYX1jrVfh0=;wOrA4dj/VRY/7dHvHyEdKA=="

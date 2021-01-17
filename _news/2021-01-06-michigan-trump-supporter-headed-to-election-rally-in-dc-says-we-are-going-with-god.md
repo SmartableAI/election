@@ -698,20 +698,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Republican U.S. senator joins calls for Trump resignation as Democrats prepare to impeach"
-    excerpt: "Republican U.S. senator called for President Donald Trump to resign on Sunday, saying he could face criminal liability after the deadly storming of the U.S. Capitol by his supporters."
-    publishedDateTime: 2021-01-11T00:16:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/republican-senator-says-trump-should-quit-as-momentum-for-impeachment-grows-in-house-idUSKBN29F03R"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 96
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547306910&r=LYNXMPEH090DD&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Twitter Users Slam Donald Trump For Making Election Fraud Claims Amid Chaos From Supporters"
     excerpt: "Twitter users were not happy with President Donald Trump claiming that states want to \"redo their votes\" due to alleged fraud Wednesday and accused him of making a mockery of democracy."
     publishedDateTime: 2021-01-07T11:00:00Z

@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "U.S. state capitals gird for pro-Trump armed protests, FBI flags risk of violence"
+    excerpt: "Protesters are expected to descend on statehouses across the United States on Sunday in support of baseless claims that electoral fraud robbed President Donald Trump of a second term, as law enforcement officials girded for possible violence."
+    publishedDateTime: 2021-01-17T13:43:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-protests/us-state-capitals-gird-for-pro-trump-armed-protests-fbi-flags-risk-of-violence-idUSKBN29M048"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548089624&r=LYNXMPEH0G03L&w=800"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "6IH9teN4u/oHn91qF8O8FBbkLkQ53yV/QQz6SsG/rQTdSthvu0qPbOzQiPnvlbyNfb3R1SnPCf7YywS4V+Ypo02bw8Pib7zd8L4kaJgM/pKwaRfiu+hxDG3/sQCtf6uumKWQDDZxHAGn/zpRixDUc6ZyUGqiZ3cpqERA+4VaqgJIAYxTmafC581eqR+gUwclkAKvmRC1+43bTubGcER8HBilwzAqlegHrm6lTeq9GcFcZmSgF3PUN0CvxHc9J/1pRYsybWwE8qchwAJhKDmnn5BxIzYgW0buDgOcVKMYO2cj4hzUlFHHrInN1MHhrXmHNNuZOvTrNOsu4LifMwVcM0LTKXkeK0NzYGGka+wbyd+rD6i4QbVkBBi24u+1gDh5ynfHBcRmTELmwIMYCbd9cpTowthUGmDKcHzjZJe3k7xqNzEUqweumU/rxeC/8bDma4xvhmsmPGtrIZZ1lIMQFuGKskXplLjuXmTFmn6dPZl1+zo2VGToIPazSVBODsKmn6/2x81FwPMrWEBt+OVTmQ==;bxPVFCAAXySRyX2JijlrgA=="
 ---

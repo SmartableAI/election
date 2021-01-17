@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healin
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622?amp=1"
 type: article
 quality: 70
-heat: 90
+heat: 70
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1024
     height: 573
     isCached: true
-
-related:
-  - title: "Twitter Slams Sen. Tim Scott For Opposing Donald Trump's Impeachment: It's 'Necessary For Healing'"
-    excerpt: "Twitter users do not agree with Sen. Tim Scott’s move to oppose Donald Trump's impeachment because they believe the POTUS' actions should have consequences."
-    publishedDateTime: 2021-01-13T01:44:00Z
-    webUrl: "https://www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317"
-    ampWebUrl: "https://www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 61
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/us-president-donald-trump-says-impeachment-is-causing.jpg"
-        width: 1024
-        height: 684
-        isCached: true
 
 secured: "c/AzOoLymrZxjbjDLex+vRCRPgfAUQInlxN52vOQKZVIDlGgFB+wcIi/CFxPVTsoWj2JoUf9AyT+Ww4e7ijA3QMkSNjYuIAAlHMGduroDVH+cMWvGwBAHAB5CHeWFv7fHmn/y5Yl2U8Nt5IHbo9+OcI+gWlJqqtJrxjVhEdZxF+gcdA/7t+wv+C/M6GNLPqiFweMTvADG1KlkOc4Sb1OKpil7HI9bnIGvWaf8XRDV+gDwB7lmsKt52pi7I7W0a2KdoW3BZzf6wm0EDeGoWEJLKTG1gsnqad3wYUOnxVNQHM4wNsTD2bYtYR6GIxx1VNMrAV7y/XGEMij7Ky1HuEJl4hzb9AKdkvlkauqv7MpTPg=;+5MQbETjibw0eR0LQrIA5g=="
 ---

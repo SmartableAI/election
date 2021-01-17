@@ -77,22 +77,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "With Trump banned from Twitter, his supporters are parsing speeches for clues about what’s next"
-    excerpt: "Many of the president’s allies have struggled to glean clear marching orders from him since his banishment from social media."
-    publishedDateTime: 2021-01-14T22:23:00Z
-    webUrl: "https://www.washingtonpost.com/politics/with-trump-banned-from-twitter-his-supporters-are-parsing-speeches-for-clues-about-whats-next/2021/01/14/985e06dc-5534-11eb-a08b-f1381ef3d207_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/with-trump-banned-from-twitter-his-supporters-are-parsing-speeches-for-clues-about-whats-next/2021/01/14/985e06dc-5534-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/with-trump-banned-from-twitter-his-supporters-are-parsing-speeches-for-clues-about-whats-next/2021/01/14/985e06dc-5534-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R5HHSKSWOII6XIEL6E4B546SA4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Stripped of Twitter account, Donald Trump seeks new online megaphone"
     excerpt: "Twitter ended Donald Trump’s nearly 12-year run on Friday. In shuttering his account it cited a tweet to his 89 million followers that he planned to skip President-elect Joe Biden’s Jan. 20 inauguration that it said gave rioters license to converge on Washington once again."
     publishedDateTime: 2021-01-10T00:28:00Z
@@ -109,15 +93,6 @@ related:
         width: 503
         height: 310
         isCached: true
-  - title: "Nevada Judge Who Denied Trump Campaign Appeal Was Threatened"
-    excerpt: "Authorities in Carson City are investigating a threat made against a state judge who dismissed a lawsuit last month brought by President Donald Trump’s campaign."
-    publishedDateTime: 2021-01-15T18:53:00Z
-    webUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-01-15/nevada-judge-who-denied-trump-campaign-appeal-was-threatened"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "BLExQLdoBhDU9kF2w8C1Itwvv8SkGR4y/MGwrVgXulcTmyUmWk+ervV+as0fPW8l4IEU8MXKOTwQzybmns2b9lO7+b02tkgKlaDmOrQ/DCDtY8AZmJnadqCSwoMMtbdLPj2mHUE7Vud0ghujXdZZ1lELEstMDRmwWNme8MGoT3AXC/nLrZ2Qjyr5e9hLmAF6G3bRp1JdUvMlUsvhxR+TACryCTMzFFNqLMTpQklwHF2f8iT0yzrejBPoN+uK2Mrbm/TFpCWV3EIT3Ce7wp05aaoRB2drmREKbq37EYCAlfyHgiVdysheTIzTTaA0Ara0wThUDYyN170PW7qHEbyXKXK2qIpPmLwvJBibijQKXHA=;rXyHB+IldqS/agA7t9p2Kg=="
 ---
