@@ -2,6 +2,171 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-01-08-trump-official-merchandise-stores-removed-by-shopify.md",
+      "title": "Trump official merchandise stores removed by Shopify",
+      "excerpt": "The e-commerce platform Shopify said Thursday that it has terminated stores affiliated with President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903",
+      "originalUrl": "https://abcnews.go.com/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/capitol-statue-protest-gty-ps-210106_1609967664138_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/trump-official-merchandise-stores-removed-shopify/story?id=75116903",
+      "publishedDateTime": "2021-01-07T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-wsj-opinion-trump-erases-his-legacy.md",
+      "title": "WSJ Opinion: Trump Erases His Legacy",
+      "excerpt": "A politician has to work hard to destroy a legacy and a future in a single day. President Donald J. Trump managed it. Image: John Minchillo/Assoc",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/series/potomac-watch-strassel/wsj-opinion-trump-erases-his-legacy/B7574174-9D38-44B6-B3F6-65506E796535",
+      "originalUrl": "https://www.wsj.com/video/series/potomac-watch-strassel/wsj-opinion-trump-erases-his-legacy/B7574174-9D38-44B6-B3F6-65506E796535",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://m.wsj.net/video/20210107/010721opvidpotomacwatch/010721opvidpotomacwatch_1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T19:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-ny-attorney-general-demands-investigation-of-trumps-family-members-role-in-fomenting-riots.md",
+      "title": "NY attorney general demands investigation of Trump's, family members' role in fomenting riots",
+      "excerpt": "Letitia James also wants officials to identify and investigate participants in Wednesday's raid on the Capitol",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H4zPhX-8THk/ny-ag-full-investigation-dc-riots",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H4zPhX-8THk/ny-ag-full-investigation-dc-riots",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cbedf04-60c6-401e-b267-a9d2221c950c/0932f180-5a4f-4506-a093-5483fb65583c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ny-ag-full-investigation-dc-riots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ny-ag-full-investigation-dc-riots.amp",
+      "publishedDateTime": "2021-01-07T18:58:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-hear-why-klobuchar-fist-bumped-pence-after-electoral-certification.md",
       "title": "Hear why Klobuchar fist-bumped Pence after Electoral certification",
       "excerpt": "Sen. Amy Klobuchar (D-MN), tells CNN's Chris Cuomo about the moment Congress finalized President-elect Joe Biden's victory, and about why she chose to fist-bump Vice President Mike Pence after he read the election results.\n    \n",
@@ -400,7 +565,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 181,
+      "heat": 201,
       "tags": null,
       "images": [
         {
@@ -833,6 +998,62 @@
       ]
     },
     {
+      "path": "_news/2021-01-07-read-schumer-calls-for-trumps-removal-using-the-25th-amendment-says-he-should-not-hold-office-one-day-longer.md",
+      "title": "Read: Schumer calls for Trump's removal using the 25th Amendment, says he 'should not hold office one day longer'",
+      "excerpt": "Senate Minority Leader Chuck Schumer on Thursday released a statement calling for President Donald Trump to be removed from office one day after a pro-Trump mob stormed the Capitol.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZXc1TsO0ylw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZXc1TsO0ylw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210106142900-schumer-electoral-college-count-0106-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html",
+      "publishedDateTime": "2021-01-07T10:05:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-republicans-blame-trump-after-his-supporters-storm-capitol-enough-is-enough.md",
       "title": "Republicans blame Trump after his supporters storm Capitol: 'Enough is enough'",
       "excerpt": "Some Republicans placed the blame on President Trump after a group of his supporters besieged the U.S. Capitol building on Wednesday",
@@ -1150,224 +1371,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-bidens-pick-for-the-department-of-homeland-security-raked-in-millions-at-wilmerhale-advising-blackstone-airbnb-pnc-and-others.md",
-      "title": "Biden's pick for the Department of Homeland Security raked in millions at WilmerHale advising Blackstone, Airbnb, PNC and others",
-      "excerpt": "Alejandro Mayorkas is leaving the partnership at Big Law firm WilmerHale to join the Biden administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-dhs-leader-made-3-million-advising-blackstone-airbnb-2021-1",
-      "originalUrl": "https://www.businessinsider.com/biden-dhs-leader-made-3-million-advising-blackstone-airbnb-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ff721be6d61c10019cce1c8?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T07:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-read-pence-letter-saying-he-does-not-have-unilateral-authority-to-reject-electoral-votes.md",
-      "title": "READ: Pence letter saying he does not have 'unilateral authority' to reject electoral votes",
-      "excerpt": "Pence writes a letter saying he does not have 'unilateral authority' to reject electoral votes",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ljnAEb1RQQ8/read-pence-letter-unilateral-authority-to-reject-electoral-votes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ljnAEb1RQQ8/read-pence-letter-unilateral-authority-to-reject-electoral-votes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Pence-bt2.jpg",
-          "width": 1280,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T05:53:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-iraq-issues-arrest-warrant-for-trump-over-soleimani-killing.md",
-      "title": "Iraq issues arrest warrant for Trump over Soleimani killing",
-      "excerpt": "Iraq’s judiciary says it has issued an arrest warrant for outgoing President Donald Trump in connection with the killing of an Iranian general and a powerful Iraqi militia leader last year",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/iraq-court-issues-arrest-warrant-trump-murder-75106778",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/iraq-court-issues-arrest-warrant-trump-murder-75106778",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/WireAP_2a0966ca247441c8b59e2b6013ce7803_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-pence-pelosi-share-elbow-bump-following-biden-certification-vote.md",
-      "title": "Pence, Pelosi share 'elbow bump' following Biden certification vote",
-      "excerpt": "Vice President Mike Pence and House Speaker Nancy Pelosi concluded a trying and at times scary joint session of Congress with an elbow bump in the predawn hours of Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Co6aMCUkgA/pence-pelosi-share-elbow-bump-following-biden-certification-vote",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Co6aMCUkgA/pence-pelosi-share-elbow-bump-following-biden-certification-vote",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 400,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006674774302.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-pelosi-share-elbow-bump-following-biden-certification-vote.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-pelosi-share-elbow-bump-following-biden-certification-vote.amp",
-      "publishedDateTime": "2021-01-07T03:07:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

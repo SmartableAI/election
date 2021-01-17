@@ -45,20 +45,20 @@ related:
         height: 558
         isCached: true
   - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-    excerpt: "WASHINGTON -- Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
-    publishedDateTime: 2021-01-16T00:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+    excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-16T06:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 150
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "House passes measure calling on Pence to remove Trump"
     excerpt: "The House on Tuesday passed legislation calling on Vice President Pence to tap his Constitutional authority to remove President Trump from office in response to the president’s role in the deadly mob attack on the Capitol last week."
@@ -929,6 +929,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/16/15/60/20503604/5/rawImage.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "Vice President-elect Kamala Harris will resign her Senate seat Monday"
+    excerpt: "Gov. Gavin Newsom is expected to appoint Democrat Alex Padilla, now California’s secretary of state, to serve the final two years of Harris’ term. Vice President-elect Kamala Harris will be ..."
+    publishedDateTime: 2021-01-17T18:05:00Z
+    webUrl: "https://chicago.suntimes.com/politics/2021/1/17/22235939/kamala-harris-senate-seat-replacement-alex-padilla"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/politics/2021/1/17/22235939/kamala-harris-senate-seat-replacement-alex-padilla"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/politics/2021/1/17/22235939/kamala-harris-senate-seat-replacement-alex-padilla"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 75
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."

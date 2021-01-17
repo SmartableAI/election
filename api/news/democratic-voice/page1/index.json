@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-17-biden-chief-of-staff-doesnt-rule-out-stopping-intelligence-briefings-for-trump.md",
+      "title": "Biden chief of staff doesn't rule out stopping intelligence briefings for Trump",
+      "excerpt": "Joe Biden's incoming White House chief of staff on Sunday did not rule out blocking President Donald Trump from receiving intelligence briefings once he is a private citizen.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ohY0_zLX7ag/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ohY0_zLX7ag/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 346,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201111195736-ron-kain-feb-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/17/politics/ron-klain-trump-briefings-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/ron-klain-trump-briefings-cnntv/index.html",
+      "publishedDateTime": "2021-01-17T10:01:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-accountability-for-lies-and-lawbreaking-bidens-bipartisanship-will-be-tested.md",
       "title": "'Accountability for lies and lawbreaking': Biden's bipartisanship will be tested",
       "excerpt": "WASHINGTON — Joe Biden was elected on a promise to heal the nation, saying Republicans would have a post-Donald Trump \"epiphany\" that would finally allow for bipartisan governance. That was before Trump resisted the peaceful transition of power ...",
@@ -171,80 +227,23 @@
       ]
     },
     {
-      "path": "_news/2021-01-17-he-has-an-obligation-to-them-attorney-for-qanon-shaman-asks-trump-to-pardon-rioters.md",
-      "title": "‘He has an obligation to them’: Attorney for ‘QAnon shaman’ asks Trump to pardon rioters",
-      "excerpt": "The lawyer for the “QAnon shaman” who was part of the deadly siege of the Capitol last week publicly petitioned President Donald Trump on Thursday to pardon his client. In an interview on CNN, attorney Albert Watkins said his client, Jacob Chansley ...",
+      "path": "_news/2021-01-17-cnn-poll-republican-party-favorability-dips-as-most-want-party-to-move-on-from-trump.md",
+      "title": "CNN Poll: Republican Party favorability dips as most want party to move on from Trump",
+      "excerpt": "The Republican Party will begin its time as the minority party in Washington unpopular with a public ready to move on from President Donald Trump, according to a new CNN Poll conducted by SSRS. The poll also finds that the most high-profile elected Republican who will remain in office after Trump leaves,",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
-      "originalUrl": "https://www.politico.com/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6sFuj_bgkZU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6sFuj_bgkZU/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 126,
+      "heat": 168,
       "tags": null,
       "images": [
         {
-          "url": "https://static.politico.com/07/b6/307e93354e7abd5c6e56ee1bf883/jacob-chansley-773-ap.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
-      "publishedDateTime": "2021-01-16T19:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-supreme-courts-liberal-justices-lash-out-at-unprecedented-rush-of-executions-as-trump-leaves-office.md",
-      "title": "Supreme Court's liberal justices lash out at unprecedented 'rush' of executions as Trump leaves office",
-      "excerpt": "As the country focused on the aftermath of riots in the US Capitol and the unprecedented second impeachment of President Donald Trump, the liberal justices of the Supreme Court spent Trump's last full week in office battling his administration's long-term objective to execute 13 federal death row inmates",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7BjaYKA1-z8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7BjaYKA1-z8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200512105936-03-supreme-court-building-file-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210116020618-03-donald-trump-0112-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -254,9 +253,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/16/politics/trump-federal-executions-supreme-court-justices/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/trump-federal-executions-supreme-court-justices/index.html",
-      "publishedDateTime": "2021-01-16T06:36:03-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/17/politics/cnn-poll-republican-party-favorability-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/cnn-poll-republican-party-favorability-trump/index.html",
+      "publishedDateTime": "2021-01-17T05:29:44-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -409,7 +408,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 228,
+      "heat": 208,
       "tags": null,
       "images": [
         {
@@ -1019,6 +1018,62 @@
       ]
     },
     {
+      "path": "_news/2021-01-14-dc-attorney-general-wants-to-interview-donald-trump-jr-as-part-of-trump-inaugural-funds-abuse-probe.md",
+      "title": "DC attorney general wants to interview Donald Trump Jr. as part of Trump inaugural funds abuse probe",
+      "excerpt": "The DC attorney general's office has notified President Donald Trump's son, Donald Trump Jr., that it would like to interview him as part of its investigation into misuse of his father's inaugural funds, a spokesperson with the office tells at CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iYHAPLPtFC8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iYHAPLPtFC8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201120195947-06-donald-trump-jr-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/14/politics/dc-attorney-general-donald-trump-jr-inaugural-funds-abuse/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/dc-attorney-general-donald-trump-jr-inaugural-funds-abuse/index.html",
+      "publishedDateTime": "2021-01-14T12:49:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-ex-obama-official-who-helped-fix-botched-healthcaregov-rollout-to-join-bidens-covid-19-team.md",
       "title": "Ex-Obama official who helped fix botched healthcare.gov rollout to join Biden's Covid-19 team",
       "excerpt": "Andy Slavitt, the former acting chief of Medicare and Medicaid under the Obama administration, is expected to join President-elect Joe Biden's Covid-19 team in a senior advisory role, CNN has learned.\n    \n",
@@ -1087,7 +1142,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 295,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -1184,6 +1239,62 @@
       "topics": [
         "Election",
         "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-trumps-been-impeached-again-whats-next.md",
+      "title": "Trump's been impeached again. What's next?",
+      "excerpt": "President Donald Trump is about to be impeached again -- the first leader in US history to be impeached twice by the House.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qhflbpac4wY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qhflbpac4wY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210113110041-us-capitol-0113-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/13/politics/senate-impeachment-process-next-steps/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/senate-impeachment-process-next-steps/index.html",
+      "publishedDateTime": "2021-01-13T14:33:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Democratic Voice"
       ]
     },
@@ -1358,25 +1469,25 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-live-updates-house-moves-to-impeach-trump-for-incitement-of-insurrection-in-capitol-riot.md",
-      "title": "Live updates: House moves to impeach Trump for 'incitement of insurrection' in Capitol riot",
-      "excerpt": "The article of impeachment is expected to pass in the Democratic-controlled House, which would make Trump the first president in U.S.history to be impeached twice.",
+      "path": "_news/2021-01-13-trump-tries-to-defend-his-pre-riot-speech-as-totally-appropriate.md",
+      "title": "Trump tries to defend his pre-riot speech as ‘totally appropriate’",
+      "excerpt": "The president offered up his first public remarks since his supporters carried out a deadly siege on the Capitol last week.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/live-blog/2021-01-13-trump-impeachment-25th-amendment-n1253971",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/live-blog/2021-01-13-trump-impeachment-25th-amendment-n1253971",
+      "webUrl": "https://www.politico.com/news/2021/01/12/trump-defends-pre-riot-speech-458129",
+      "originalUrl": "https://www.politico.com/news/2021/01/12/trump-defends-pre-riot-speech-458129",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 165,
+      "heat": 115,
       "tags": null,
       "images": [
         {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_02/3441573/210113-impeachment-live-blog-main-cover-cs_16bb0697e79eeb180cea199979fe03f2.jpg",
-          "width": 2500,
-          "height": 1250,
+          "url": "https://static.politico.com/5a/da/576fb21c438da4d867c43c2d770a/ap21012552931903.jpg",
+          "width": 3874,
+          "height": 2581,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1384,16 +1495,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1253971",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253971",
-      "publishedDateTime": "2021-01-13T04:26:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T14:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
+        "name": "Politico",
+        "domain": "politico.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1412,120 +1523,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-liz-cheney-no-3-house-republican-to-vote-to-impeach-trump.md",
-      "title": "Liz Cheney, No. 3 House Republican, to vote to impeach Trump",
-      "excerpt": "Wyoming Republican Rep. Liz Cheney, the party's third-ranking House leader, announced on Tuesday that she will vote to impeach President Donald Trump, becoming the highest-ranking official from her party to support charging and removing him from office following the Trump-incited riot at the Capitol",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zMF1_XHZTPQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zMF1_XHZTPQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 435,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200723145511-liz-cheney-trump-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html",
-      "publishedDateTime": "2021-01-12T16:09:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-trump-defends-riot-remarks-as-totally-appropriate-before-house-vote-on-25th-amendment-resolution.md",
-      "title": "Trump defends riot remarks as 'totally appropriate' before House vote on 25th Amendment resolution",
-      "excerpt": "\"Everybody to a 'T' thought it was totally appropriate,\" Trump said as lawmakers prepared a resolution calling for his removal from office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/house-set-vote-resolution-calling-pence-invoke-25th-amendment-n1253873",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/house-set-vote-resolution-calling-pence-invoke-25th-amendment-n1253873",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_02/3441497/210112-donald-trump-jm-1043_14f8a0fe6ee3094b4256b33575e347dd.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253873",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253873",
-      "publishedDateTime": "2021-01-12T13:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     },
     {
@@ -1643,25 +1640,25 @@
       ]
     },
     {
-      "path": "_news/2021-01-11-mcgovern-im-concerned-hell-do-something-crazy-capitol-mob-fallout-trump-to-give-belichick-medal-of-freedom.md",
-      "title": "MCGOVERN: I’m concerned ‘he’ll DO SOMETHING CRAZY’ — CAPITOL MOB FALLOUT — TRUMP to give BELICHICK Medal of Freedom",
-      "excerpt": "Rep. Jim McGovern, chair of the House Rules Committee, will have a key role when the House begins impeachment proceedings against President Donald Trump, which will likely happen this week. I spoke with McGovern on Sunday about his experience when the mob stormed the Capitol last week,",
+      "path": "_news/2021-01-12-he-threatened-the-integrity-of-the-democratic-system-house-introduces-one-article-of-impeachment-against-trump.md",
+      "title": "'He threatened the integrity of the democratic system': House introduces one article of impeachment against Trump",
+      "excerpt": "House Democrats introduced an article of impeachment against President Donald Trump on Monday for \"incitement of insurrection\" when his supporters violently breached the Capitol last Wednesday. The measure,",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/massachusetts-playbook/2021/01/11/mcgovern-gop-has-to-step-up-capitol-mob-fallout-trump-to-give-belichick-medal-of-freedom-491351",
-      "originalUrl": "https://www.politico.com/newsletters/massachusetts-playbook/2021/01/11/mcgovern-gop-has-to-step-up-capitol-mob-fallout-trump-to-give-belichick-medal-of-freedom-491351",
+      "webUrl": "https://www.nbcnews.com/politics/congress/house-democrats-consider-impeachment-25th-amendment-measures-n1253693",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/house-democrats-consider-impeachment-25th-amendment-measures-n1253693",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 93,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
+          "url": "https://media4.s-nbcnews.com/i/newscms/2021_02/3441145/2001011-nancy-pelosi-mn-0731_2d44f135b81cd87e860d666f51b53766.jpg",
+          "width": 2500,
+          "height": 1663,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1669,16 +1666,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T04:40:00-08:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253693",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253693",
+      "publishedDateTime": "2021-01-11T09:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
+        "name": "NBC News",
+        "domain": "nbcnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

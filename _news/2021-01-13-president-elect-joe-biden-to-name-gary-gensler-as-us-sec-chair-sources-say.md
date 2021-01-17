@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden vows rapid steps to battle virus after inauguration"
+    excerpt: "President-elect Joe Biden plans immediate moves to curb the coronavirus pandemic within days after he’s sworn in Wednesday"
+    publishedDateTime: 2021-01-17T17:20:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-vows-rapid-steps-battle-virus-inauguration-75310080"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-vows-rapid-steps-battle-virus-inauguration-75310080"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-vows-rapid-steps-battle-virus-inauguration-75310080"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_69cef18086774675a1402495d680b0e4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Pelosi and Schumer pledge quick action on Biden stimulus package"
     excerpt: "U.S. House of Representatives Speaker Nancy Pelosi and Senate Democratic leader Chuck Schumer on Thursday said Congress would get right to work on President-elect Joe Biden's stimulus package."
     publishedDateTime: 2021-01-14T22:44:00Z

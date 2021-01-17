@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-11-ocasio-cortez-slams-lawmakers-who-ask-for-healing-and-reject-trump-impeachment.md",
+      "title": "Ocasio-Cortez Slams Lawmakers Who Ask For 'Healing' And Reject Trump Impeachment",
+      "excerpt": "A group of GOP lawmakers penned a letter asking House Democrats to discontinue their efforts of impeaching Trump and embrace \"healing\" following Wednesday's siege of the Capitol.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622",
+      "originalUrl": "https://www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/alexandria-ocasio-cortez-the-darling-of-the-us.jpg",
+          "width": 1024,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622?amp=1",
+      "publishedDateTime": "2021-01-10T19:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-pelosi-says-house-will-proceed-with-efforts-to-remove-trump-with-urgency.md",
       "title": "Pelosi says House will proceed with efforts to remove Trump 'with urgency'",
       "excerpt": "House will first try to force Mike Pence to oust president by invoking 25th amendment and then move forward with impeachment",
@@ -212,6 +264,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-presidential-transition-live-updates-house-says-it-will-move-swiftly-with-impeachment-if-pence-wont-act.md",
+      "title": "Presidential Transition Live Updates: House Says It Will Move Swiftly With Impeachment If Pence Won’t Act",
+      "excerpt": "The House could vote as soon as Tuesday on charging President Trump with inciting a mob that attacked the Capitol. But top leaders want to avoid hamstringing the first days of Joseph R. Biden Jr.’s presidency with an all-consuming Senate trial.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden",
+      "originalUrl": "https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/10/us/10transition-briefing-promo-sub/10transition-briefing-promo-sub-videoSixteenByNineJumbo1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/10/us/joe-trump-biden.amp.html",
+      "publishedDateTime": "2021-01-10T11:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
       ]
     },
     {
@@ -767,6 +876,62 @@
       ]
     },
     {
+      "path": "_news/2021-01-10-republican-sen-pat-toomey-says-he-thinks-trump-committed-impeachable-offenses.md",
+      "title": "Republican Sen. Pat Toomey says he thinks Trump 'committed impeachable offenses' ",
+      "excerpt": "Republican Sen. Pat Toomey of Pennsylvania said Saturday he thinks President Donald Trump \"committed impeachable offenses,\" but said he is not certain attempting to remove the President from office with just a few days left in his term is the right course of action.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qgJsRpga2A8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qgJsRpga2A8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210109192336-pat-toomey-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/09/politics/pat-toomey-trump-impeachable-offenses/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/pat-toomey-trump-impeachable-offenses/index.html",
+      "publishedDateTime": "2021-01-09T16:48:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-trump-considering-giuliani-and-dershowitz-for-impeachment-defense-team.md",
       "title": "Trump considering Giuliani and Dershowitz for impeachment defense team",
       "excerpt": "Staring down the barrel of a second impeachment, President Donald Trump is beginning to mull who would represent him in a Senate trial.\n    \n",
@@ -1175,167 +1340,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-hang-mike-pence-trends-on-twitter-after-platform-suspends-trump-for-risk-of-incitement-of-violence.md",
-      "title": "'Hang Mike Pence' trends on Twitter after platform suspends Trump for risk of 'incitement of violence'",
-      "excerpt": "Twitter has removed content from \"trending\" in the past when it violates its rules.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TLz_XV1i5oQ/twitter-trending-hang-mike-pence",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TLz_XV1i5oQ/twitter-trending-hang-mike-pence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88c32963-7d82-4c63-a87f-29778a9c1abd/17c58895-f436-42cc-ac3d-f3b2bcb170be/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/twitter-trending-hang-mike-pence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-trending-hang-mike-pence.amp",
-      "publishedDateTime": "2021-01-09T08:24:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-family-trump-supporter-who-died-followed-qanon-conspiracy.md",
-      "title": "Family: Trump supporter who died followed QAnon conspiracy",
-      "excerpt": "Friends and relatives say a Georgia woman killed in Wednesday’s siege of the U.S. Capitol was a recovering drug addict who wanted to become a sobriety counselor",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_10f0fe4d5c6741cebcd017089c462e9b_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520",
-      "publishedDateTime": "2021-01-09T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-hillary-clinton-chrissy-teigen-megyn-kelly-and-more-famous-faces-react-to-trumps-twitter-ban.md",
-      "title": "Hillary Clinton, Chrissy Teigen, Megyn Kelly and more famous faces react to Trump's Twitter ban",
-      "excerpt": "Here's what Meghan McCain, Megyn Kelly, Chrissy Teigen and other celebrities are saying about Trump's permanent suspension from Twitter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/01/08/twitter-bans-trump-chrissy-teigen-whoopi-goldberg-and-more-react/6603886002/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/01/08/twitter-bans-trump-chrissy-teigen-whoopi-goldberg-and-more-react/6603886002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/27/USAT/f5e585fb-71ca-4949-bb65-85ceecf55c4e-AP_Virus_Outbreak_Trump_Congress.jpg?auto=webp&crop=2101,1182,x0,y107&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6603886002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6603886002",
-      "publishedDateTime": "2021-01-09T02:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

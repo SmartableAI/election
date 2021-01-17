@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Melania Trump departing White House with lowest favorability of her tenure "
+    excerpt: "Melania Trump will be exiting the White House with the lowest favorability rating of her tenure as first lady, according to a new CNN poll.\n    \n"
+    publishedDateTime: 2021-01-17T18:39:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5ie_2sP9DMc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/melania-trump-favorability/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/melania-trump-favorability/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209102711-melania-trump-july-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "First lady Melania Trump breaks her silence on Capitol riot, then hits back at her critics"
     excerpt: "First lady Melania Trump has broken her silence on the Capitol insurrection incited by her husband in a letter posted on the White House website early Monday morning in which she lashes out at her critics and then condemns the violence.\n    \n"
     publishedDateTime: 2021-01-11T12:02:21Z
@@ -127,6 +143,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/08/us/politics/08transition-briefing-impeach-sub/08transition-briefing-impeach-sub-videoSixteenByNineJumbo1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Palm Beach County, Girl Scouts are latest organizations seeking to end leases with Trump"
+    excerpt: "The list of companies and organizations looking to cut business ties with President Donald Trump after last week’s attack on the Capitol is getting longer. Palm Beach County in Florida said Thursday that it is exploring ending its lease with the president's prized West Palm Beach."
+    publishedDateTime: 2021-01-15T21:55:00Z
+    webUrl: "https://www.nbcnews.com/business/business-news/palm-beach-county-girl-scouts-are-latest-organizations-seeking-end-n1254435"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254435"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254435"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3442442/210115-donald-trump-palm-beach-golf-course-se-209p_f64f3b9cdfefe8b4510f011d3cb8a60e.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "1eyTvnDlYJnbOn38P1ldCjaNBbudFv8Pxv92JkuzCzkWEPmCQo5JYMb6G9asnqtqKQrwCBXQTJ1WG4NR7S64iteZw6e5nvx8uYS6ToXJXuP0ujcWhajBAOet9RyH1qR24HmpnkyvAyDMyBkEutdzlAykc/b8y+TBiJdX6xCIrEca1ZL0vTEOy23Zga8OaSMCmkYjmU7XHtZDLGguSJtEE0LxggQVkvfzjfGf/pcGk9y2DgftfRZCmehPZJ55aiaZQu8RKzLbecOfi2+JqsotpAZ9jWHqDRw8b214XqcHuYhKfqaC8I0xAWklgNI2airNx2qp/MHizBMwOmuFa9dUHmVP5CRiNShtSOeI81JKHNQ=;jajB+kb73fJsL4pLrOYVbQ=="

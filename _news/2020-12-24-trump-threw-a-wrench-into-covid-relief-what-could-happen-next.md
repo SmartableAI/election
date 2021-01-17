@@ -32,117 +32,101 @@ images:
     isCached: true
 
 related:
-  - title: "Here's what happens if Trump doesn't sign the $900 billion relief package"
-    excerpt: "Though Congress has passed a $900 billion Covid relief package, millions of Americans are in danger of losing important benefits just after the holidays if President Donald Trump continues to refuse to sign the bill.\n    \n"
-    publishedDateTime: 2020-12-24T18:34:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8ibSlxj5Qo8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/24/politics/covid-relief-bill-programs-expiring/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/24/politics/covid-relief-bill-programs-expiring/index.html"
+  - title: "Trump's been impeached again. What's next?"
+    excerpt: "President Donald Trump is about to be impeached again -- the first leader in US history to be impeached twice by the House.\n    \n"
+    publishedDateTime: 2021-01-13T22:33:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qhflbpac4wY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/senate-impeachment-process-next-steps/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/senate-impeachment-process-next-steps/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201224113207-01-eviction-order-phoenix-oct2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113110041-us-capitol-0113-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Four key ways Barr broke with Trump at the attorney general's news conference"
-    excerpt: "Two days before he leaves the Justice Department, Attorney General William Barr offered his sharpest rebuke to date of President Donald Trump's baseless allegations surrounding the election result, rejecting Trump's efforts to act on the conspiracy theories the President has embraced to explain his loss"
-    publishedDateTime: 2020-12-21T22:13:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5F0DS3L1D0g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/21/politics/barr-news-conference-break-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/21/politics/barr-news-conference-break-trump/index.html"
+  - title: "Read: House Democrats' draft of a new article of impeachment against Trump"
+    excerpt: "House Democrats have circulated a draft of a new impeachment resolution against President Donald Trump with one article of impeachment, \"incitement of insurrection.\"\n    \n"
+    publishedDateTime: 2021-01-08T20:37:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zserCShr2rE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/trump-article-of-impeachment-draft/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/trump-article-of-impeachment-draft/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108140605-01-inauguration-preparations-0107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump campaign says the President has not yet chosen impeachment defense team"
+    excerpt: "President Donald Trump has not yet assembled a defense team for his upcoming Senate impeachment trial, a spokesperson for the President's campaign said Sunday.\n    \n"
+    publishedDateTime: 2021-01-17T14:11:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BJ0rnrr503s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/trump-legal-team-second-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/trump-legal-team-second-impeachment/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221144127-bill-barr-presser-1221-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227182837-02-trump-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Full Panel: Trump downplays widespread U.S. security breach"
-    excerpt: "Hallie Jackson, Yamiche Alcindor and Rich Lowry join the Meet the Press roundtable to discuss President Trump's response to a massive hack of government agencies and businesses reportedly tied to Russia."
-    publishedDateTime: 2020-12-20T14:55:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-panel-trump-downplays-widespread-u-s-security-breach-98115141679"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo98115141679"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98115141679"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202012/1608475557148_mtp_full_panel_201220_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Live Updates: Trump Signs Stimulus Bill, but Unemployment Lapses"
-    excerpt: "The measure extends larger unemployment checks and an eviction moratorium, and it gives states billions of dollars to help distribute the coronavirus vaccine."
-    publishedDateTime: 2020-12-28T14:08:00Z
-    webUrl: "https://www.nytimes.com/live/2020/12/28/us/joe-biden-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/12/28/us/joe-biden-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/28/us/joe-biden-trump.amp.html"
+  - title: "Abandon Trump? Deep in the G.O.P. Ranks, the MAGA Mind-Set Prevails"
+    excerpt: "As President Trump prepares to exit the White House, his ideas, including falsehoods and conspiracy theories, continue to exert a gravitational pull among grass-roots G.O.P. officials."
+    publishedDateTime: 2021-01-14T20:56:00Z
+    webUrl: "https://www.nytimes.com/2021/01/14/us/politics/trump-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/14/us/politics/trump-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/14/us/politics/trump-republicans.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/12/28/us/politics/28transition-briefing-trump-bill/28transition-briefing-trump-bill-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Trump Signs Pandemic Relief Bill After Unemployment Aid Lapses"
-    excerpt: "After calling the measure a “disgrace,” President Trump unexpectedly signed the bill, extending expanded unemployment benefits and an eviction moratorium, and keeping the government open."
-    publishedDateTime: 2020-12-28T08:35:00Z
-    webUrl: "https://www.nytimes.com/2020/12/27/us/politics/trump-signs-pandemic-relief.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/27/us/politics/trump-signs-pandemic-relief.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/27/us/politics/trump-signs-pandemic-relief.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/25/us/politics/25dc-stimulus-signed-hfo/25dc-stimulus-signed-hfo-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/01/14/us/politics/14gop-states2/14gop-states2-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump opens up federal dollars for private school vouchers amid pandemic"
-    excerpt: "The White House said that the order would give states new flexibility in how they use federal block grant programs that provide money for a wide range of community services."
-    publishedDateTime: 2020-12-29T01:24:00Z
-    webUrl: "https://www.politico.com/news/2020/12/28/trump-private-schools-pandemic-451757"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757"
+  - title: "'Clear and present danger to the republic': House readies bipartisan impeachment of Trump"
+    excerpt: "One week after the riot at the Capitol and one week before he is to leave office, President Donald Trump faces impeachment again. | Photo by Drew Angerer/ The House intends to impeach President Donald Trump on Wednesday for inciting a violent insurrection that — just one week earlier — stormed the U."
+    publishedDateTime: 2021-01-13T09:35:00Z
+    webUrl: "https://www.politico.com/news/2021/01/13/house-impeachment-trump-458589"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/13/house-impeachment-trump-458589"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/13/house-impeachment-trump-458589"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 134
+    quality: 126
     images:
-      - url: "https://static.politico.com/d2/36/af02c71045b48e9bd5687ed719b2/ap20066831578298-1.jpg"
+      - url: "https://static.politico.com/72/c5/7ea93ab64b1e8bd848e51547a6ff/gettyimages-1230555008-1.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "In reversal, Trump signs spending bill, unlocking Covid aid and averting shutdown"
-    excerpt: "Pandemic unemployment benefits expired Sunday after the president delayed approving the bill and confusion reigned in Washington."
-    publishedDateTime: 2020-12-28T07:30:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/covid-unemployment-benefits-expire-after-trump-refuses-sign-aid-bill-n1252392"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1252392"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252392"
+  - title: "Live updates: House moves to impeach Trump for 'incitement of insurrection' in Capitol riot"
+    excerpt: "The article of impeachment is expected to pass in the Democratic-controlled House, which would make Trump the first president in U.S.history to be impeached twice."
+    publishedDateTime: 2021-01-13T12:26:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-01-13-trump-impeachment-25th-amendment-n1253971"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253971"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253971"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 130
+    quality: 125
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_52/3438232/201227-donald-trump-jm-1144_83f666683aa031d9a8bf2016f8fe7607.jpg"
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_02/3441573/210113-impeachment-live-blog-main-cover-cs_16bb0697e79eeb180cea199979fe03f2.jpg"
         width: 2500
-        height: 1666
+        height: 1250
         isCached: true
 
 secured: "K6Lhjv3N3SNNdlYCASMrYaJI047Ufs00gyA2RZRYVUDHXkpXCw1/rLNcQw/2/olm0FG8TZ/U0yI5pV/8W/PVhCjdbPz1ayMawsQjMXVVFwEEb0zv/Q7ZwYHgUS0Gf8+/eKAfdQmgtGZ9jG6/VmVhtQNScmGn6KpLtWKtauJCdsKfIDb8s5sPB09DcbpgmAOI08yyIaFiQYpQ8QfeQuMW5i5gqzA48pa4bFeMJWuwhzDRi5ekL4RYvaFhiut4TSYoMkq3kVF1Y8LNiokvlC//bdIr/Qo67uul7h8Cth8hV4efTdSQYK5TEuxRC5tNrsSBjzUQ84pypWFW5h/EfGXQWHwrKTl5j6utuEU1SDpJc/TU/hD3vJvz1kqKnLbqg30geV00j2qOHv4TBBMSVCcjkWAGey/6E7dkEUJMrtUg5tL2VYCo8l0GJYzrpXB+jkJQRStjwKl2QXoUoZf7za70Dyc6WW7evDriP6dHt/G3kRah3aZS2lp28xoEVVJ7A1o11cgDtYt/2THASstQXSe91A==;ccocli2MmwK9fBiWblcm/g=="

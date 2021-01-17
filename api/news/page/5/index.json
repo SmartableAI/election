@@ -2,6 +2,171 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-13-trump-would-have-standing-to-challenge-his-impeachment-trial-turley.md",
+      "title": "Trump 'would have standing to challenge' his impeachment trial: Turley",
+      "excerpt": "George Washington University law professor Jonathan Turley told “America’s Newsroom” on Wednesday that President Trump “would have standing to challenge” his impeachment trial potentially taking place after he is no longer in office “and the court could rule on it.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kSTdzGFBWVY/trump-standing-challenge-impeachment-trial-turley",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kSTdzGFBWVY/trump-standing-challenge-impeachment-trial-turley",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-standing-challenge-impeachment-trial-turley.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-standing-challenge-impeachment-trial-turley.amp",
+      "publishedDateTime": "2021-01-13T12:19:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-live-impeachment-updates-gop-house-leader-trump-bears-responsibility-for-riot-but-impeachment-a-mistake.md",
+      "title": "Live impeachment updates: GOP House leader: Trump 'bears responsibility' for riot, but impeachment a 'mistake'",
+      "excerpt": "A vote to impeach will further divide the nation. A vote to impeach will further fan the flames of partisan division,\" Rep. Kevin McCarthy said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/13/impeachment-live-updates-house-vote-gop-rift-trump-grows/6644827002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/13/impeachment-live-updates-house-vote-gop-rift-trump-grows/6644827002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/13/USAT/364bda46-7631-4195-8825-20cfb2fad595-AP_Trump_Impeachment_2.jpg?auto=webp&crop=4121,2319,x0,y209&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6644827002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6644827002",
+      "publishedDateTime": "2021-01-13T10:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-in-breaking-with-trump-pence-does-what-he-believes-in-strategist-says.md",
+      "title": "In breaking with Trump, Pence does ‘what he believes in,’ strategist says",
+      "excerpt": "After breaking with his boss last week and certifying President-elect Joe Biden’s Electoral College victory over President Trump, Vice President Mike Pence this week quickly shot down a push by House Democrats urging him to invoke the 25th Amendment of the Constitution to remove Trump from the presidency.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qCzsXrWhgTo/in-breaking-with-trump-pence-does-what-he-believes-in",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qCzsXrWhgTo/in-breaking-with-trump-pence-does-what-he-believes-in",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1099,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/in-breaking-with-trump-pence-does-what-he-believes-in.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/in-breaking-with-trump-pence-does-what-he-believes-in.amp",
+      "publishedDateTime": "2021-01-13T09:17:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-flashback-nadlers-clinton-impeachment-comments-from-1998-surface-as-he-leads-trump-efforts.md",
       "title": "Flashback: Nadler's Clinton impeachment comments from 1998 surface as he leads Trump efforts",
       "excerpt": "House Judiciary Committee Chairman Jerry Nadler, D-N.Y., is pushing for President Trump to be impeached just days before his term ends, despite warning years ago about \"divisiveness and bitterness\" during the 1998 Clinton impeachment hearings.",
@@ -235,7 +400,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -445,63 +610,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-live-updates-house-moves-to-impeach-trump-for-incitement-of-insurrection-in-capitol-riot.md",
-      "title": "Live updates: House moves to impeach Trump for 'incitement of insurrection' in Capitol riot",
-      "excerpt": "The article of impeachment is expected to pass in the Democratic-controlled House, which would make Trump the first president in U.S.history to be impeached twice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/live-blog/2021-01-13-trump-impeachment-25th-amendment-n1253971",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/live-blog/2021-01-13-trump-impeachment-25th-amendment-n1253971",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_02/3441573/210113-impeachment-live-blog-main-cover-cs_16bb0697e79eeb180cea199979fe03f2.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1253971",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253971",
-      "publishedDateTime": "2021-01-13T04:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -826,25 +934,25 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-liz-cheney-no-3-house-republican-to-vote-to-impeach-trump.md",
-      "title": "Liz Cheney, No. 3 House Republican, to vote to impeach Trump",
-      "excerpt": "Wyoming Republican Rep. Liz Cheney, the party's third-ranking House leader, announced on Tuesday that she will vote to impeach President Donald Trump, becoming the highest-ranking official from her party to support charging and removing him from office following the Trump-incited riot at the Capitol",
+      "path": "_news/2021-01-13-trump-tries-to-defend-his-pre-riot-speech-as-totally-appropriate.md",
+      "title": "Trump tries to defend his pre-riot speech as ‘totally appropriate’",
+      "excerpt": "The president offered up his first public remarks since his supporters carried out a deadly siege on the Capitol last week.",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zMF1_XHZTPQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zMF1_XHZTPQ/index.html",
+      "webUrl": "https://www.politico.com/news/2021/01/12/trump-defends-pre-riot-speech-458129",
+      "originalUrl": "https://www.politico.com/news/2021/01/12/trump-defends-pre-riot-speech-458129",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 435,
+      "heat": 115,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200723145511-liz-cheney-trump-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://static.politico.com/5a/da/576fb21c438da4d867c43c2d770a/ap21012552931903.jpg",
+          "width": 3874,
+          "height": 2581,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -852,16 +960,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html",
-      "publishedDateTime": "2021-01-12T16:09:26-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T14:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "Politico",
+        "domain": "politico.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -878,6 +986,7 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -935,64 +1044,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-trump-defends-riot-remarks-as-totally-appropriate-before-house-vote-on-25th-amendment-resolution.md",
-      "title": "Trump defends riot remarks as 'totally appropriate' before House vote on 25th Amendment resolution",
-      "excerpt": "\"Everybody to a 'T' thought it was totally appropriate,\" Trump said as lawmakers prepared a resolution calling for his removal from office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/house-set-vote-resolution-calling-pence-invoke-25th-amendment-n1253873",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/house-set-vote-resolution-calling-pence-invoke-25th-amendment-n1253873",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_02/3441497/210112-donald-trump-jm-1043_14f8a0fe6ee3094b4256b33575e347dd.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253873",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253873",
-      "publishedDateTime": "2021-01-12T13:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     },
     {
@@ -1299,62 +1350,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-twitter-facebook-trump-social-media-dave-rubin-censorship.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-twitter-facebook-trump-social-media-dave-rubin-censorship.amp",
       "publishedDateTime": "2021-01-12T08:09:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-forbes-op-ed-warns-companies-about-hiring-fabulists-from-trump-administration.md",
-      "title": "Forbes op-ed warns companies about hiring 'fabulists' from Trump administration",
-      "excerpt": "Canceling anyone who was associated with Trump is not going to unite the country, Kelsey Bolar responded",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/981wbizaUoA/forbes-op-ed-warns-companies-hiring-fabulists-trump-administration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/981wbizaUoA/forbes-op-ed-warns-companies-hiring-fabulists-trump-administration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/forbes-op-ed-warns-companies-hiring-fabulists-trump-administration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/forbes-op-ed-warns-companies-hiring-fabulists-trump-administration.amp",
-      "publishedDateTime": "2021-01-12T07:34:05-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

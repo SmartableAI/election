@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-12-forbes-op-ed-warns-companies-about-hiring-fabulists-from-trump-administration.md",
+      "title": "Forbes op-ed warns companies about hiring 'fabulists' from Trump administration",
+      "excerpt": "Canceling anyone who was associated with Trump is not going to unite the country, Kelsey Bolar responded",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/981wbizaUoA/forbes-op-ed-warns-companies-hiring-fabulists-trump-administration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/981wbizaUoA/forbes-op-ed-warns-companies-hiring-fabulists-trump-administration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/forbes-op-ed-warns-companies-hiring-fabulists-trump-administration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/forbes-op-ed-warns-companies-hiring-fabulists-trump-administration.amp",
+      "publishedDateTime": "2021-01-12T07:34:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-trump-dropped-by-biggest-lender-deutsche-bank-for-future-business-nyt.md",
       "title": "Trump dropped by biggest lender Deutsche Bank for future business: NYT",
       "excerpt": "Deutsche Bank will not do business in the future with U.S. President Donald Trump or his companies in the wake of his supporters' assault on the U.S. Capitol, the New York Times reported.",
@@ -710,6 +766,63 @@
       ]
     },
     {
+      "path": "_news/2021-01-12-he-threatened-the-integrity-of-the-democratic-system-house-introduces-one-article-of-impeachment-against-trump.md",
+      "title": "'He threatened the integrity of the democratic system': House introduces one article of impeachment against Trump",
+      "excerpt": "House Democrats introduced an article of impeachment against President Donald Trump on Monday for \"incitement of insurrection\" when his supporters violently breached the Capitol last Wednesday. The measure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/congress/house-democrats-consider-impeachment-25th-amendment-measures-n1253693",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/house-democrats-consider-impeachment-25th-amendment-measures-n1253693",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2021_02/3441145/2001011-nancy-pelosi-mn-0731_2d44f135b81cd87e860d666f51b53766.jpg",
+          "width": 2500,
+          "height": 1663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253693",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253693",
+      "publishedDateTime": "2021-01-11T09:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-read-house-democratic-impeachment-resolution-against-trump-for-incitement-of-insurrection.md",
       "title": "READ: House Democratic impeachment resolution against Trump for ‘incitement of insurrection’",
       "excerpt": "Read the House Democratic impeachment resolution against Trump for ‘incitement of insurrection’",
@@ -1199,63 +1312,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-11-pga-pulls-major-2022-tournament-from-trumps-bedminster-days-after-deadly-riot.md",
-      "title": "PGA pulls major 2022 tournament from Trump's Bedminster days after deadly riot",
-      "excerpt": "Playing at the New Jersey golf course \"would be detrimental to the PGA of America brand,\" the association president said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/us-news/pga-pulls-major-2022-tournament-trump-s-bedminster-days-after-n1253371",
-      "originalUrl": "https://www.nbcnews.com/news/us-news/pga-pulls-major-2022-tournament-trump-s-bedminster-days-after-n1253371",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2021_01/3440542/210107-bedminster-golf-club-ew-437p_75076742c4f9d6f2d806e79f607548f8.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253371",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253371",
-      "publishedDateTime": "2021-01-10T20:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-11-trump-golf-club-no-longer-the-host-of-future-pga-championship-amid-us-capitol-violence-fallout.md",
       "title": "Trump golf club no longer the host of future PGA Championship amid US Capitol violence fallout",
       "excerpt": "PGA Championship will no longer be held at Trump Bedminster in New Jersey, PGA of America announced Sunday night as fury at President Trump over the U.S. Capitol riot grows.",
@@ -1310,58 +1366,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-ocasio-cortez-slams-lawmakers-who-ask-for-healing-and-reject-trump-impeachment.md",
-      "title": "Ocasio-Cortez Slams Lawmakers Who Ask For 'Healing' And Reject Trump Impeachment",
-      "excerpt": "A group of GOP lawmakers penned a letter asking House Democrats to discontinue their efforts of impeaching Trump and embrace \"healing\" following Wednesday's siege of the Capitol.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622",
-      "originalUrl": "https://www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/alexandria-ocasio-cortez-the-darling-of-the-us.jpg",
-          "width": 1024,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622?amp=1",
-      "publishedDateTime": "2021-01-10T19:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

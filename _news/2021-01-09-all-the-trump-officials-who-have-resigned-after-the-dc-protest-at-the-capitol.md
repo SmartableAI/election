@@ -255,6 +255,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump must be barred from post-presidency intelligence briefings: Schiff"
+    excerpt: "House Intelligence Committee Chairman Rep. Adam Schiff said Sunday that President Trump should be barred from receiving intelligence briefings after he leaves office, an opportunity traditionally extended to former presidents."
+    publishedDateTime: 2021-01-17T18:36:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EThhRLQz3Nw/adam-schiff-trump-intelligence-briefings-sue-gordon"
+    ampWebUrl: "https://www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007270172186.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Pelosi says she spoke to Gen. Milley about protecting nuclear codes from Trump"
     excerpt: "House Speaker Nancy Pelosi, D-Calif., said she has spoken to Chairman of the Joint Chiefs of Staff Mark Milley about protecting the nuclear codes from an “unhinged president.” "
     publishedDateTime: 2021-01-08T18:13:55Z
@@ -270,6 +286,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94a18acc-5025-4d44-9bda-db2348258d22/107bb457-e4ae-4598-8a02-535aaa65aa94/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Democrats won't commit to impeachment timeline after sounding alarm about Trump"
+    excerpt: "After impeaching President Trump just days before he is set to leave office, House Democrats will not commit to a timeline for delivering the article of impeachment to the Senate so that a trial can begin."
+    publishedDateTime: 2021-01-17T17:14:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QQF8Nzu34Xc/democrats-article-impeachment-raskin-schiff-pelosi-timeline-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-article-impeachment-raskin-schiff-pelosi-timeline-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-article-impeachment-raskin-schiff-pelosi-timeline-senate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/05/640/320/Rep.-Jamie-Raskin-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump, in first public appearance since Capitol riot, says ‘we want no violence’"
     excerpt: "President Trump on Tuesday, in his first public appearance since last week’s Capitol riot, said he wants \"no violence.\""
@@ -554,6 +586,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/aoc-trump-removal.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump must be barred from post-presidency intelligence briefings: Schiff"
+    excerpt: "House Intelligence Committee Chairman Rep. Adam Schiff said Sunday that President Trump should be barred from receiving intelligence briefings after he leaves office, an opportunity traditionally extended to former presidents."
+    publishedDateTime: 2021-01-17T18:48:00Z
+    webUrl: "https://www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon"
+    ampWebUrl: "https://www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007270172186.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Pelosi supports invoking the 25th Amendment because it ‘gets rid’ of Trump"
     excerpt: "House Speaker Nancy Pelosi said she would support Vice President Mike Pence invoking the 25th Amendment because it “gets rid” of President Trump. Pelosi, who said the House has"

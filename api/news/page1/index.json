@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-17-biden-chief-of-staff-doesnt-rule-out-stopping-intelligence-briefings-for-trump.md",
+      "title": "Biden chief of staff doesn't rule out stopping intelligence briefings for Trump",
+      "excerpt": "Joe Biden's incoming White House chief of staff on Sunday did not rule out blocking President Donald Trump from receiving intelligence briefings once he is a private citizen.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ohY0_zLX7ag/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ohY0_zLX7ag/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 346,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201111195736-ron-kain-feb-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/17/politics/ron-klain-trump-briefings-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/ron-klain-trump-briefings-cnntv/index.html",
+      "publishedDateTime": "2021-01-17T10:01:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-accountability-for-lies-and-lawbreaking-bidens-bipartisanship-will-be-tested.md",
       "title": "'Accountability for lies and lawbreaking': Biden's bipartisanship will be tested",
       "excerpt": "WASHINGTON — Joe Biden was elected on a promise to heal the nation, saying Republicans would have a post-Donald Trump \"epiphany\" that would finally allow for bipartisan governance. That was before Trump resisted the peaceful transition of power ...",
@@ -56,6 +112,58 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-impeachment-needed-to-bar-trump-from-running-for-federal-office-rep-joaquin-castro.md",
+      "title": "Impeachment needed to bar Trump from running for federal office: Rep. Joaquin Castro",
+      "excerpt": "House impeachment managers are prepared to chase every single Senate vote in an attempt to convict President Donald Trump for inciting insurrection, Rep. Joaquin Castro, D-Texas, said on ABC's \"This Week\" Sunday.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965",
+      "originalUrl": "https://abcnews.go.com/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/Joacquin-Castro-Peter-Meijer-split-01-gty-llr-210116_1610823952116_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965",
+      "publishedDateTime": "2021-01-17T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -283,7 +391,7 @@
       "originalUrl": "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1348,
+      "heat": 1368,
       "tags": null,
       "images": [
         {
@@ -377,6 +485,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-17-cnn-poll-republican-party-favorability-dips-as-most-want-party-to-move-on-from-trump.md",
+      "title": "CNN Poll: Republican Party favorability dips as most want party to move on from Trump",
+      "excerpt": "The Republican Party will begin its time as the minority party in Washington unpopular with a public ready to move on from President Donald Trump, according to a new CNN Poll conducted by SSRS. The poll also finds that the most high-profile elected Republican who will remain in office after Trump leaves,",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6sFuj_bgkZU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6sFuj_bgkZU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210116020618-03-donald-trump-0112-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/17/politics/cnn-poll-republican-party-favorability-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/cnn-poll-republican-party-favorability-trump/index.html",
+      "publishedDateTime": "2021-01-17T05:29:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {
@@ -488,63 +652,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-17-he-has-an-obligation-to-them-attorney-for-qanon-shaman-asks-trump-to-pardon-rioters.md",
-      "title": "‘He has an obligation to them’: Attorney for ‘QAnon shaman’ asks Trump to pardon rioters",
-      "excerpt": "The lawyer for the “QAnon shaman” who was part of the deadly siege of the Capitol last week publicly petitioned President Donald Trump on Thursday to pardon his client. In an interview on CNN, attorney Albert Watkins said his client, Jacob Chansley ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
-      "originalUrl": "https://www.politico.com/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/07/b6/307e93354e7abd5c6e56ee1bf883/jacob-chansley-773-ap.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
-      "publishedDateTime": "2021-01-16T19:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-17-politics-updates-horrified-loews-wont-host-hawley-fundraiser-biden-outlines-orders-planned-for-first-10-days.md",
       "title": "Politics updates: 'Horrified' Loews won't host Hawley fundraiser; Biden outlines orders planned for first 10 days",
       "excerpt": "\"We are horrified and opposed to the events at the Capitol and all who supported and incited the actions,\" the hotel chain said in a statement.",
@@ -605,7 +712,7 @@
       "originalUrl": "https://www.nydailynews.com/snyde/ny-dave-bautista-trump-manatee-20210117-ie3hnncygvbj3beylq5nh7cubi-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1073,7 +1180,7 @@
       "originalUrl": "https://abcnews.go.com/Technology/wireStory/biden-science-forefront-administration-75295060",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -1114,62 +1221,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-supreme-courts-liberal-justices-lash-out-at-unprecedented-rush-of-executions-as-trump-leaves-office.md",
-      "title": "Supreme Court's liberal justices lash out at unprecedented 'rush' of executions as Trump leaves office",
-      "excerpt": "As the country focused on the aftermath of riots in the US Capitol and the unprecedented second impeachment of President Donald Trump, the liberal justices of the Supreme Court spent Trump's last full week in office battling his administration's long-term objective to execute 13 federal death row inmates",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7BjaYKA1-z8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7BjaYKA1-z8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200512105936-03-supreme-court-building-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/16/politics/trump-federal-executions-supreme-court-justices/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/trump-federal-executions-supreme-court-justices/index.html",
-      "publishedDateTime": "2021-01-16T06:36:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -1283,58 +1334,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment.md",
-      "title": "Census battle ends as Trump administration gives up on excluding undocumented from apportionment",
-      "excerpt": "A high-stakes six-month battle over who should be counted for representation in Congress ended quietly in a judge’s chamber Friday night when the Trump administration agreed not to release any population numbers from the 2020 Census for congressional apportionment or redistricting before the president leaves office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R2MNFXSXZEI6XKAX4XT7RJAG2Y.jpg&w=1440",
-          "width": 1440,
-          "height": 811,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-16T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

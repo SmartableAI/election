@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/melania-trump-impeachmen
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/melania-trump-impeachment-donald-trump-riot/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 335
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Melania Trump departing White House with lowest favorability of her tenure "
+    excerpt: "Melania Trump will be exiting the White House with the lowest favorability rating of her tenure as first lady, according to a new CNN poll.\n    \n"
+    publishedDateTime: 2021-01-17T18:39:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5ie_2sP9DMc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/melania-trump-favorability/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/melania-trump-favorability/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209102711-melania-trump-july-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "First lady Melania Trump breaks her silence on Capitol riot, then hits back at her critics"
     excerpt: "First lady Melania Trump has broken her silence on the Capitol insurrection incited by her husband in a letter posted on the White House website early Monday morning in which she lashes out at her critics and then condemns the violence.\n    \n"
     publishedDateTime: 2021-01-11T12:02:21Z
@@ -126,6 +142,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/08/us/politics/08transition-briefing-impeach-sub/08transition-briefing-impeach-sub-videoSixteenByNineJumbo1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Palm Beach County, Girl Scouts are latest organizations seeking to end leases with Trump"
+    excerpt: "The list of companies and organizations looking to cut business ties with President Donald Trump after last week’s attack on the Capitol is getting longer. Palm Beach County in Florida said Thursday that it is exploring ending its lease with the president's prized West Palm Beach."
+    publishedDateTime: 2021-01-15T21:55:00Z
+    webUrl: "https://www.nbcnews.com/business/business-news/palm-beach-county-girl-scouts-are-latest-organizations-seeking-end-n1254435"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254435"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254435"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3442442/210115-donald-trump-palm-beach-golf-course-se-209p_f64f3b9cdfefe8b4510f011d3cb8a60e.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "CfiXoH2ZOqWXiqVTgM/EnurXfuOd9Muay8RnYptGB9FV9zPt9EMqCSj/qnXC2uAfRpMVEqeWDgpQ+DyC2+poSEux1aYAxPosPu2MLkiJatuo5EvSkvgMTL6EekMojebu46kuugPW9Li8T8M9/XbxmAQtKhFpri3Y7v430vBpN95Z86VgM+7yZz/ndGgk//0/UHafyTeMpBvH2z9XYRay41DO5W2Z6l4MWJv9FPsXCMPt0QEgA1vWJZPST33T91S0TCyEMitcnTMJxoOsz/h4OHWXVoGL9BNSzSmh1DAg08QvV7Bh/vlafTGTUHYfkteJFWllsqzKfPfjAvfaUn+30p4+2sXLyiWIFkPM1uP7yjY=;B9Ll1ZUINZeBfZ2VhbtBWA=="

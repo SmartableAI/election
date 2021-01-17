@@ -410,6 +410,22 @@ related:
       name: Time
       domain: time.com
     quality: 85
+  - title: "VP Mike Pence, at Lemoore naval base stop, salutes troops and Trump policy achievements"
+    excerpt: "Vice President Mike Pence thanked U.S. Navy sailors and their families for their commitment to protecting the nation as he visited Lemoore Naval Air Station on Saturday afternoon. Pence, accompanied by his wife,"
+    publishedDateTime: 2021-01-16T20:18:00Z
+    webUrl: "https://www.sacbee.com/article248540260.html"
+    ampWebUrl: "https://amp.sacbee.com/article248540260.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/article248540260.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 82
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5596404782001/3ddd32a3-0ae5-48e6-9ed7-4f6b126a2095/0318bcfc-878c-4237-b513-931da9905af2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "PGA dumps Donald Trump’s golf course as 2022 championship host"
     excerpt: "The PGA of America has cut its remaining tie with President Donald Trump, and it’s a major one. That means the 2022 PGA Championship needs a new home, as Trump Bedminster in New Jersey was set to host in just over two years."
     publishedDateTime: 2021-01-11T14:28:00Z
@@ -472,6 +488,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "In Final Trump Administration Days, Israel Approves New Settler Homes"
+    excerpt: "Israel approved on Sunday plans to build hundreds of new settler homes in the occupied West Bank, projects it is advancing in the final days of the pro-settlement Trump administration. The planned construction,"
+    publishedDateTime: 2021-01-17T18:47:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-01-17/in-final-trump-administration-days-israel-approves-new-settler-homes"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-17/in-final-trump-administration-days-israel-approves-new-settler-homes?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-17/in-final-trump-administration-days-israel-approves-new-settler-homes?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "UCWMHjpFoXWU2pQcc8wgj8ZtGITzEQfRTPHLJ7R0Q6uC2Cb4u6hbjlVSoRmco6KThQAz6vJ6m0U+dt90d0IAF6xDAlTz9dPdd/571+l4Y0t5s2NiwRckH6bLzHkRvdPP1vzaNVR9VREpkLlQcXfXqdbV8hT6Cltv3h2KkyQ0c5GEhBezAsB3zSfzppE4rKMq6IcIjTdT326hyB1U6StQhUYcrgy6CJ32DlwO2pLBzFtprzir1vInzo00aOXuC3n0+jQoQOKxbxLfku1LF4ytRIkaavp0KIvEHml0SLCSwLlP4QNS5S3cWdt1KxyBvRHzQcJo8ourpUdxFUApr66hLVSc3nlTowj755yrUrS8SyiwH+SatUyXmEM3ID1WoETqKXKShDPOqBFYJOPU5Jo4r0rdLrSCig2w8vS/xX16EAi382mbK66EYqfUaTx3MSZ4xNaHm0rBzTzcC7smCdvYFIvYaJIUU5sbygePnzZkvGN+CjlKqoDTWnC4cEY4rXhFtWh9PA+3Rg7MjkqDyxR26w==;bcN6SApNL/StUPfcFeoXQg=="
 ---

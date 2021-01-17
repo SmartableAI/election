@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-01-10-theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow.md",
-      "title": "Theresa May too eager to pay homage to Donald Trump, says John Bercow",
-      "excerpt": "PM’s ‘almost breathless’ quest to develop ties with US president",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow",
-      "originalUrl": "https://www.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/9ae50eeed19c88f00e8cfa0570b951d2529a8729/0_0_1562_937/master/1562.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=736cf1d696beff721b60f1b1dddfd7d7",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow",
-      "publishedDateTime": "2021-01-09T11:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-10-former-goldman-sachs-ceo-lloyd-blankfein-slams-wall-street-traders-as-trump-enablers.md",
       "title": "Former Goldman Sachs CEO Lloyd Blankfein slams Wall Street traders as Trump enablers",
       "excerpt": "Lloyd Blankfein said Wall Street put up with Trump because of what he could deliver, which was mainly lower corporate taxes and fewer regulations.",
@@ -1545,6 +1493,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-06-trump-blasts-nieces-conspiracy-theories-as-he-seeks-fraud-lawsuits-dismissal.md",
+      "title": "Trump blasts niece's 'conspiracy theories' as he seeks fraud lawsuit's dismissal",
+      "excerpt": "U.S. President Donald Trump is seeking the dismissal of a lawsuit claiming he defrauded his niece out of an inheritance worth tens of millions of dollars, accusing her of embracing \"conspiracy theories\" in her quest to consume him with lawsuits after he leaves the",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-mary-trump-lawsuit-idUSKBN29A24T",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-mary-trump-lawsuit-idUSKBN29A24T",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546691961&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH04175",
+          "width": 793,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29A24T",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29A24T",
+      "publishedDateTime": "2021-01-05T14:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

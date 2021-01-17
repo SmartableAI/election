@@ -111,22 +111,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Brian Kemp has a Donald Trump problem"
-    excerpt: "Brian Kemp, who went from Trump acolyte to Trump scapegoat when he refused to overturn Biden's win in the Peach State, and his pending 2022 reelection race. Trump has made no secret of his desire to oust Kemp in next year's Republican primary."
-    publishedDateTime: 2021-01-14T23:39:00Z
-    webUrl: "https://www.cnn.com/2021/01/14/politics/brian-kemp-donald-trump-georgia-2022/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/brian-kemp-donald-trump-georgia-2022/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/brian-kemp-donald-trump-georgia-2022/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190506103219-brian-kemp-file-12132018-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "yhhSCuTMBp2AQy2XcT4zYz+ME2eZcY3YLLNb/4AtNyvTfoEtIJgVjx+o9QBCC7rWrith91luw39Yqi0TQc3VDo84FXv2FrKdnIsA3245GsSpUOHeI2ZqCrrpFTLe8k5YLxZ+vzPESx3XcAaJatURzjf347NYa/FDSiEYtfFsTSYUnu3+P8q7KBrc/IC4Ut8muRvJxSWx56PuIJxHplfIcUjP3ZzITmJMTtIGIwKdkASi91HztnkfTrbKI5WJ4KCWvZRsk/2JDZVxBvubXOhicU3t7QrR4a2wMSuTNYXhBIWBPQ4sXcFJsNFJI2CLurpgJMW23nG1Cki57WXoIqoa1TzG4GTGUT3eOQOi7Fi1dsc=;TjOIkspSDskLMfcYK+MaJg=="
 ---

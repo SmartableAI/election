@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Acting secretary of defense orders NSA chief to install Trump loyalist as agency's general counsel"
-    excerpt: "The acting secretary of defense is trying to install a Trump loyalist as the top lawyer at the National Security Agency, according to three sources familiar.\n    \n"
-    publishedDateTime: 2021-01-17T04:37:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cnGOPz3S3Rc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/nsa-counsel-michael-ellis-christopher-miller/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/nsa-counsel-michael-ellis-christopher-miller/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116213644-nsa-file-2018-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Despite Trump administration promise, there appear to be no more 'reserve' 2nd vaccine doses to release"
     excerpt: "Hopes of a surge in Covid-19 vaccine shipments under a new policy to release second doses held in reserve appear to be evaporating -- with the revelation that those doses have already been distributed, contrary to recent indications by the Trump administration.\n    \n"
     publishedDateTime: 2021-01-15T20:01:44Z

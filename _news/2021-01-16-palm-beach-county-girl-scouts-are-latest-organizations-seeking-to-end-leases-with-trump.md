@@ -32,213 +32,133 @@ images:
     isCached: true
 
 related:
-  - title: "Liz Cheney, No. 3 House Republican, to vote to impeach Trump"
-    excerpt: "Wyoming Republican Rep. Liz Cheney, the party's third-ranking House leader, announced on Tuesday that she will vote to impeach President Donald Trump, becoming the highest-ranking official from her party to support charging and removing him from office following the Trump-incited riot at the Capitol"
-    publishedDateTime: 2021-01-13T00:09:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zMF1_XHZTPQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html"
+  - title: "Silent Melania Trump plods toward end of her husband's tumultuous term"
+    excerpt: "Two days after his supporters rioted on Capitol Hill last week, President Donald Trump informed the world he would not be attending President-elect Joe Biden's inauguration.\n    \n"
+    publishedDateTime: 2021-01-14T14:46:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9lF-ijGf5fA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/melania-trump-impeachment-donald-trump-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/melania-trump-impeachment-donald-trump-riot/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200723145511-liz-cheney-trump-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181003153208-melania-trump-1003---9-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's been impeached again. What's next?"
-    excerpt: "President Donald Trump is about to be impeached again -- the first leader in US history to be impeached twice by the House.\n    \n"
-    publishedDateTime: 2021-01-13T22:33:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qhflbpac4wY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/senate-impeachment-process-next-steps/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/senate-impeachment-process-next-steps/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113110041-us-capitol-0113-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Read: House Democrats' draft of a new article of impeachment against Trump"
-    excerpt: "House Democrats have circulated a draft of a new impeachment resolution against President Donald Trump with one article of impeachment, \"incitement of insurrection.\"\n    \n"
-    publishedDateTime: 2021-01-08T20:37:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zserCShr2rE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/trump-article-of-impeachment-draft/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/trump-article-of-impeachment-draft/index.html"
+  - title: "Melania Trump departing White House with lowest favorability of her tenure "
+    excerpt: "Melania Trump will be exiting the White House with the lowest favorability rating of her tenure as first lady, according to a new CNN poll.\n    \n"
+    publishedDateTime: 2021-01-17T18:39:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5ie_2sP9DMc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/melania-trump-favorability/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/melania-trump-favorability/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108140605-01-inauguration-preparations-0107-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209102711-melania-trump-july-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump campaign says the President has not yet chosen impeachment defense team"
-    excerpt: "President Donald Trump has not yet assembled a defense team for his upcoming Senate impeachment trial, a spokesperson for the President's campaign said Sunday.\n    \n"
-    publishedDateTime: 2021-01-17T14:11:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BJ0rnrr503s/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/trump-legal-team-second-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/trump-legal-team-second-impeachment/index.html"
+  - title: "First lady Melania Trump breaks her silence on Capitol riot, then hits back at her critics"
+    excerpt: "First lady Melania Trump has broken her silence on the Capitol insurrection incited by her husband in a letter posted on the White House website early Monday morning in which she lashes out at her critics and then condemns the violence.\n    \n"
+    publishedDateTime: 2021-01-11T12:02:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3nWhLyoZtz8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/melania-trump-capitol-violence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/melania-trump-capitol-violence/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227182837-02-trump-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209102711-melania-trump-july-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Republican Sen. Pat Toomey says he thinks Trump 'committed impeachable offenses' "
-    excerpt: "Republican Sen. Pat Toomey of Pennsylvania said Saturday he thinks President Donald Trump \"committed impeachable offenses,\" but said he is not certain attempting to remove the President from office with just a few days left in his term is the right course of action.\n    \n"
-    publishedDateTime: 2021-01-10T00:48:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qgJsRpga2A8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/pat-toomey-trump-impeachable-offenses/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/pat-toomey-trump-impeachable-offenses/index.html"
+  - title: "Angry staffer appears to be behind State Department website edits saying Trump's term is over"
+    excerpt: "A disgruntled State Department employee appears to have been behind bizarre changes to the department website Monday that stated that President Donald Trump and Vice President Mike Pence's terms were over, two sources told CNN.\n    \n"
+    publishedDateTime: 2021-01-11T23:44:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pk1Yf6xmJzo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/state-department-website-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/state-department-website-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210109192336-pat-toomey-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160330182055-state-department-logo-2007-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "CNN Poll: Republican Party favorability dips as most want party to move on from Trump"
-    excerpt: "The Republican Party will begin its time as the minority party in Washington unpopular with a public ready to move on from President Donald Trump, according to a new CNN Poll conducted by SSRS. The poll also finds that the most high-profile elected Republican who will remain in office after Trump leaves,"
-    publishedDateTime: 2021-01-17T13:29:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6sFuj_bgkZU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/cnn-poll-republican-party-favorability-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/cnn-poll-republican-party-favorability-trump/index.html"
+  - title: "Atlanta Prosecutor Appears to Move Closer to Trump Inquiry"
+    excerpt: "The Fulton County district attorney is weighing an inquiry into possible election interference and is said to be considering hiring an outside counsel."
+    publishedDateTime: 2021-01-16T00:22:00Z
+    webUrl: "https://www.nytimes.com/2021/01/15/us/politics/atlanta-prosecutor-trump-election.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/15/us/politics/atlanta-prosecutor-trump-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/15/us/politics/atlanta-prosecutor-trump-election.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116020618-03-donald-trump-0112-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "State Department political appointee fired by White House after tweeting Trump was unfit for office"
-    excerpt: "A State Department political appointee was fired by the White House Thursday after tweeting on Wednesday evening that President Donald Trump is unfit for office and was to blame for the mob attack on the US Capitol, according to two sources familiar with the firing.\n    \n"
-    publishedDateTime: 2021-01-07T20:11:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/895bHnfM2yQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/gabriel-noronha-fired-tweet/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/gabriel-noronha-fired-tweet/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130603131322-state-dept-exterior-file-gi-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "DC attorney general wants to interview Donald Trump Jr. as part of Trump inaugural funds abuse probe"
-    excerpt: "The DC attorney general's office has notified President Donald Trump's son, Donald Trump Jr., that it would like to interview him as part of its investigation into misuse of his father's inaugural funds, a spokesperson with the office tells at CNN.\n    \n"
-    publishedDateTime: 2021-01-14T20:49:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iYHAPLPtFC8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/dc-attorney-general-donald-trump-jr-inaugural-funds-abuse/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/dc-attorney-general-donald-trump-jr-inaugural-funds-abuse/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120195947-06-donald-trump-jr-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Read: Schumer calls for Trump's removal using the 25th Amendment, says he 'should not hold office one day longer'"
-    excerpt: "Senate Minority Leader Chuck Schumer on Thursday released a statement calling for President Donald Trump to be removed from office one day after a pro-Trump mob stormed the Capitol.\n    \n"
-    publishedDateTime: 2021-01-07T18:05:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZXc1TsO0ylw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 154
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106142900-schumer-electoral-college-count-0106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "McConnell believes impeachment push will help rid Trump from the GOP, but has not said if he will vote to convict"
-    excerpt: "Senate Majority Leader Mitch McConnell has told associates that he thinks President Donald Trump committed impeachable offenses when he incited a deadly mob to attack the US Capitol last week and that he's \"pleased\" Democrats are working to impeach the President, The New York Times reported Tuesday.\n"
-    publishedDateTime: 2021-01-12T22:54:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rHZZFgzp_XU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/mcconnell-impeachment-trump-capitol-riot/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/mcconnell-impeachment-trump-capitol-riot/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 154
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191210122028-01-mcconnell-trump-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Diminished Trump leaves a vacuum for 2024 hopefuls"
-    excerpt: "Potential 2024 presidential candidates have stepped into the spotlight in the last week, sensing a new opportunity to lead within the party."
-    publishedDateTime: 2021-01-15T09:35:00Z
-    webUrl: "https://www.politico.com/news/2021/01/15/donald-trump-vacuum-2024-presidential-candidates-459536"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/15/donald-trump-vacuum-2024-presidential-candidates-459536"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/15/donald-trump-vacuum-2024-presidential-candidates-459536"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
+      name: New York Times
+      domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static.politico.com/96/5e/8dcb123e4b3db6d412ef51dbe711/gettyimages-1290145039-c.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2021/01/15/us/politics/15georgia/15georgia-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
-  - title: "Live updates: House to vote on Trump impeachment, 25th amendment resolutions"
-    excerpt: "Lawmakers are expected to take up the 25th Amendment measure Tuesday night and the impeachment resolution Wednesday morning."
-    publishedDateTime: 2021-01-12T11:39:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-01-12-trump-impeachment-25th-amendment-n1253803"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253803"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253803"
+  - title: "How Facebook and Twitter decided to take down Trump's accounts"
+    excerpt: "The Facebook and Twitter suspensions were a landmark moment for America's social media giants and the most visible demonstration yet of their absolute power."
+    publishedDateTime: 2021-01-16T20:25:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/how-facebook-twitter-decided-take-down-trump-s-accounts-n1254317"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254317"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254317"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 132
+    quality: 135
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3441298/210111-impeachment-live-blog-main-cover-cs_91340e85bc6e0b139559e1ddd2593605.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_02/3442180/210114-donald-trump-phone-ew-617p_dbdc2ae89b3dfdef17d0939de4bb8931.jpg"
         width: 2500
-        height: 1250
+        height: 1667
         isCached: true
-  - title: "'Clear and present danger to the republic': House readies bipartisan impeachment of Trump"
-    excerpt: "One week after the riot at the Capitol and one week before he is to leave office, President Donald Trump faces impeachment again. | Photo by Drew Angerer/ The House intends to impeach President Donald Trump on Wednesday for inciting a violent insurrection that — just one week earlier — stormed the U."
-    publishedDateTime: 2021-01-13T09:35:00Z
-    webUrl: "https://www.politico.com/news/2021/01/13/house-impeachment-trump-458589"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/13/house-impeachment-trump-458589"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/13/house-impeachment-trump-458589"
+  - title: "House poised to impeach Trump for second time: 'Incitement of insurrection'"
+    excerpt: "The House is expected to impeach  Wednesday afternoon for a second time, charging the president with \"incitement of insurrection\" for his role in the violent takeover by a pro-Trump mob of the U.S. Capitol that left five people dead and terrorized lawmakers as they sought to affirm President-elect Joe Biden's victory."
+    publishedDateTime: 2021-01-13T18:01:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/house-poised-impeach-trump-second-time-incitement-insurrection-n1254051"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254051"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254051"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 126
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
     images:
-      - url: "https://static.politico.com/72/c5/7ea93ab64b1e8bd848e51547a6ff/gettyimages-1230555008-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_02/3441711/210113-donald-trump-mc-1144_a534ace83ed9834fb73d0c7b10bf5b7a.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Live Updates: Pelosi Threatens Impeachment if Trump Doesn’t Resign ‘Immediately’"
+    excerpt: "The House could vote on impeachment next week. President Trump will not attend President-elect Joe Biden’s inauguration. With less than two weeks left of Mr. Trump’s presidency, a wave of resignations hits his cabinet."
+    publishedDateTime: 2021-01-08T14:19:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/08/us/trump-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/08/us/trump-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/08/us/trump-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/08/us/politics/08transition-briefing-impeach-sub/08transition-briefing-impeach-sub-videoSixteenByNineJumbo1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "jjuQE3/gr0oXkaLJ6/mgGro6EXG20LGwdhWhxiDij3I3Ut5Mv+9yCCCnr/ia3yLGA4wrWw7EF8k4Ycea6vlWPhY9YIkdXHWQMVn9NJ65gz/cIXMbYeZPoSsqIr6buF8XB/OdPpNK50eCahZi9rTbnVCBolmLlMDo1clDpf4USMTQ2QKtPQL/paf9Gj7I1LAJe6FqK23+vjyrs1Md9ldCaAhev1JPwKNrC8X8mrWkrEwJGu28sxjO7rufHxwOPhh/Ot0sq5Jdkgt+epfFexehD12eNGedsTMmXsMzP3HRcBdmqCKwpS88GrHcQPrbITL+44fGZB+0Dp7V3uORjYDmzcC3hwYf3nqCAdzv+jRPE79SmyZMcm/RAcGcQeje6+RJQqae1RibQFMyl1LcxAaYV/Za/PEoqawmB9E4wZgPfPiXJ8GeHlO3rRD1qnKMXwQ2/JSGSkxaK4Z7Ly62dOU4eIPbaJth7f7hOR638gfwuneSbCTVLyyi6QSd5PVPiuVJkhbWOCwZVGeZYBNnfM2iJw==;DwQxNGbxUo5YTxoUWnIKRw=="
