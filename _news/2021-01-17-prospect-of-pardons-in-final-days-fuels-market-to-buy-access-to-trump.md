@@ -700,6 +700,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Kamala Harris Will Make History. So Will Her ‘Big, Blended’ Family."
+    excerpt: "When Kamala Harris is sworn in as vice president, she will represent many firsts: First woman vice president. First Black woman. First woman of Indian descent. But there is another milestone that will be on display: that of her family."
+    publishedDateTime: 2021-01-17T08:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/17/us/kamala-harris-doug-emhoff-family-inauguration.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/17/us/kamala-harris-doug-emhoff-family-inauguration.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/17/us/kamala-harris-doug-emhoff-family-inauguration.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/17/us/politics/16HARRISEMHOFFS-print1/00HARRISEMHOFFS1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "What’s It Like to Have Kamala Harris As ‘Momala’? We Asked Her Stepkids."
     excerpt: "But on the night that Joe Biden and his vice-presidential running mate, Kamala Harris, delivered their acceptance speeches, with their families gathered onstage, watching fireworks, Cole began receiving astonished texts from friends and colleagues."
     publishedDateTime: 2021-01-17T08:00:00Z
@@ -932,6 +948,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "V2AoTDS66P6QYO+FcMMHuLJyNvTMQvFiEDXS/BCaIerYWvwV0LDdxhrxhrVhUTFqOGvQ+/VhZBHRJmjPLULQxH7usIXx2eDLPhhX6MEF/Oa6fwClGJI9uLc8+weVhlas4at0LwRB9Ub4uBxwuZFnVzBi3UW8LfhldPiRnejei7nDZ7d/g5ew1+NcyzqoqzScO0jJJT/rwDHmT233OFvcWIk4xkQp+qLaWmOQ3vCaGquhbVsDJt9TKVNKRqDw6jDQK3jGkwGzUeAD5xXQXk3gfXwyTIfIGqN/PgQFEE8aLACm1WcY3OfNSntM3XJF1C5KjD7d/hJVfXQR3kKe5yjvASBoeods5/Ma7ekuvELQWe4=;GwThxg50fcZqze9XMou8dg=="
+secured: "PPNcDRYUYKxtAY1KcXVV2CwsqtLvSZ1qmVXhtaqRaVhslq4xck2hElaAJNRfOmyO73XoDn3y7b5sMTx4gfJrmN86siWRTCjt2fe74cYRmlS9zoHdIY6SClteyOXzFnrnAnVzoyICbZYfEOeKzFRs2kimlNrDwzA8anSMV1Ndbfp3Xl67mFmK0exVwFzPea7weolES+iTzBXqJR+ei8uItdSKIhV5xT6c5LxQ35F+QM9gMxaWw2gL3QQp2B+XJMGQVaobb2TcOF038wqu338wRkySVG+hlGxzdkGq3MnJyVYRVRwv/DxcgSONZdfh8EMWnqYEzFJS3yo3CT+XzrpeHNldl1xJ4aNzIU27HLzTQp1yy1ZYbOoIG6faVwdwygl1iHU416oRZQm35pgi2T1L9/2s5OJ0OHN6pVtq2MKwmuc0HUdCEDHt207jyIdk7EkLJa8xx52wIVwC+W1zy4JgwttmDafPJThr/aSUwUfc57ZH/0gI8A5z4Axrmu78eQRbsfg0w2Ao/jiDysQoMXDzIA==;bW6iqk90rvWycbTsUcwqMA=="
 ---
 

@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Preview: Kamala Harris on \"Sunday Morning\""
-excerpt: "Elect Kamala Harris and her husband Douglas Emoff sit down with “CBS Sunday Morning\" anchor Jane Pauley in their first joint TV interview since last week's assault on the Capitol. In this preview clip Harris discusses the priorities for the incoming Biden administration."
-publishedDateTime: 2021-01-13T00:36:00Z
-originalUrl: "https://www.cbsnews.com/video/preview-kamala-harris-on-sunday-morning/"
-webUrl: "https://www.cbsnews.com/video/preview-kamala-harris-on-sunday-morning/"
+title: "Kamala Harris to resign Senate seat Monday ahead of inauguration"
+excerpt: "WASHINGTON — Vice President-elect Kamala Harris will give up her Senate seat Monday, she told The Chronicle, marking the first time in 10 years the Democrat will not hold statewide office in California. She will leave the Senate two days before her ..."
+publishedDateTime: 2021-01-17T12:24:00Z
+originalUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-to-resign-Senate-seat-Monday-ahead-15877159.php"
+webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-to-resign-Senate-seat-Monday-ahead-15877159.php"
+ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-to-resign-Senate-seat-Monday-ahead-15877159.php"
+cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-to-resign-Senate-seat-Monday-ahead-15877159.php"
 type: article
-quality: 105
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: San Francisco Chronicle
+  domain: sfchronicle.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/13/dea7c7eb-a5ef-4aba-b602-d922f6c2f240/thumbnail/1200x630/5678a150583bd1acc4b3d19e2d90bf55/0112-en-sunmoharris-vo-625578-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://s.hdnux.com/photos/01/16/15/60/20503604/5/rawImage.jpg"
+    width: 2048
+    height: 1365
     isCached: true
 
 related:
@@ -467,6 +465,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Preview: Kamala Harris on \"Sunday Morning\""
+    excerpt: "Elect Kamala Harris and her husband Douglas Emoff sit down with “CBS Sunday Morning\" anchor Jane Pauley in their first joint TV interview since last week's assault on the Capitol. In this preview clip Harris discusses the priorities for the incoming Biden administration."
+    publishedDateTime: 2021-01-13T00:36:00Z
+    webUrl: "https://www.cbsnews.com/video/preview-kamala-harris-on-sunday-morning/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/13/dea7c7eb-a5ef-4aba-b602-d922f6c2f240/thumbnail/1200x630/5678a150583bd1acc4b3d19e2d90bf55/0112-en-sunmoharris-vo-625578-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala D. Harris makes history. What will she do with it?"
     excerpt: "The former California senator breaks one glass ceiling — and now will define herself more fully than she has to date."
     publishedDateTime: 2021-01-13T17:13:00Z
@@ -885,22 +897,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Kamala Harris to resign Senate seat Monday ahead of inauguration"
-    excerpt: "WASHINGTON — Vice President-elect Kamala Harris will give up her Senate seat Monday, she told The Chronicle, marking the first time in 10 years the Democrat will not hold statewide office in California. She will leave the Senate two days before her ..."
-    publishedDateTime: 2021-01-17T12:24:00Z
-    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-to-resign-Senate-seat-Monday-ahead-15877159.php"
-    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-to-resign-Senate-seat-Monday-ahead-15877159.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-to-resign-Senate-seat-Monday-ahead-15877159.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/16/15/60/20503604/5/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."
     publishedDateTime: 2021-01-13T07:29:00Z
@@ -1105,6 +1101,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "4ELxp6AuuuLrbsD9Ahdt9ROdJyRDPmMXupsgGwqYUp6sIPe/XU2MRsoMqr22oPPzANHr9Gynbn9flQywqvYK1LZmvuMU0SqNnZ8tKhmFrH/Fhs5KIhqlJFFmFWodlenaiVzYPopVaWpvBeu71WJBSH8EQMh9pdpbXqSEWKeFxmqPGFxD1mcASi6XfH71159EC/iaQn71KE/Lrswp7TY8ezj3mQLAbvDU+8AxiDcMEbzg/zFi8QS/rr2N5CzfjZD/l45ZaSRzpkEV0YJxgFNFodV9ibr/hRvBwg5gzpZYc2Lt1B32z1I8VA5Z0oAw4tbc5xaKRjYHTOzynlqsRhf+yvwXjeUsaoN4oCGj+uRrotk=;4G0gnEnIBMtzT/zW8Hvw0w=="
+secured: "vBJ7f8k7699j+umoH7gX71P/fDtabsnSPFQJK5wKEFO54A9kM0rdp1EpXK5auQH3gALsvj3YlzHBV4OELEE4qF5IEl0PbsMMEm8deHIdJ/FbFRq7WEE5tQ9NMsngqJE4hrEJLfpligqhmJ6zs0bi4raUKeo5wJxXRr5aEOCcVg4MsH0QDYgapOUrwPMRq6+oNbpFKRxTS/K6NFGeG/VVP2tbo5McDh4hIwNVL9FROVgHr5muFzDW9TG66KrBves+I9Qld0+a9L3oSykWT/0Gvq81qAzXh/+XI5+B4HIMAL1pF74kRKD0MoJ9X7kg35K+1IektC91KTCqL0Ng/EkMY2UR5iBd14LP7nGSMlhw8Cs=;vb2GKa2xa1zhiER3Hvt/Qw=="
 ---
 

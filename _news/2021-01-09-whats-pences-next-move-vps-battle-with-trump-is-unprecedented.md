@@ -48,6 +48,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
+    excerpt: "WASHINGTON -- Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-16T00:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 150
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "House passes measure calling on Pence to remove Trump"
     excerpt: "The House on Tuesday passed legislation calling on Vice President Pence to tap his Constitutional authority to remove President Trump from office in response to the president’s role in the deadly mob attack on the Capitol last week."
     publishedDateTime: 2021-01-13T12:01:00Z
@@ -95,34 +111,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/ad02f72/2147483647/strip/true/crop/3000x1959+0+20/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff6%2F01%2Fcbd4b15d41a6962baf92c78dbb80%2Fdhs-acting-secretary-immigration-63532.jpg"
         width: 320
         height: 209
-        isCached: true
-  - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
-    publishedDateTime: 2021-01-16T08:57:00Z
-    webUrl: "https://apnews.com/9cf431138cceeda9f6f7104e0fa20487"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 130
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/4444eb45d10847adbfe84daefb893fa0/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's"
-    publishedDateTime: 2021-01-17T07:28:00Z
-    webUrl: "https://apnews.com/article/9cf431138cceeda9f6f7104e0fa20487"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 130
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/4444eb45d10847adbfe84daefb893fa0/3000.jpeg"
-        width: 3000
-        height: 2000
         isCached: true
   - title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
@@ -631,9 +619,9 @@ related:
         height: 533
         isCached: true
   - title: "U.S. state capitals, Washington on alert for possible pro-Trump armed protests"
-    excerpt: "(Reuters) - Ten days after rioters breached the U.S. Capitol in a deadly attack that stunned the world, cities nationwide were girding for a potential new wave of violent protests over the weekend, erecting barriers and deploying thousands of National ..."
-    publishedDateTime: 2021-01-17T04:57:00Z
-    webUrl: "https://www.reuters.com/article/SOMNIA-idUSKBN29L0CS"
+    excerpt: "Ten days after rioters breached the U.S. Capitol in a deadly attack that stunned the world, cities nationwide were girding for a potential new wave of violent protests over the weekend, erecting barriers and deploying thousands of National Guard troops."
+    publishedDateTime: 2021-01-17T06:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/u-s-capitals-on-edge-ahead-of-possible-pro-trump-armed-protests-idUSKBN29L0CS"
     type: article
     provider:
       name: Reuters
@@ -675,6 +663,22 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2021/01/APTOPIX_Pence_Inauguration_55103.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Pence Calls VP-Elect Kamala Harris to Offer Congratulations"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-17T11:39:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/mike-pence-calls-kamala-harris-to-offer-congratulations/2833768/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/mike-pence-calls-kamala-harris-to-offer-congratulations/2833768/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/mike-pence-calls-kamala-harris-to-offer-congratulations/2833768/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 100
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/split-jan15.jpg?fit=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Thousands of National Guard members deployed in Washington ahead of Biden inauguration"
     excerpt: "Thousands of National Guard's were deployed to Washington on January 12, ahead of the inauguration of Joe Biden in the wake of the Capitol riots."
@@ -882,6 +886,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Kamala Harris to resign Senate seat Monday ahead of inauguration"
+    excerpt: "WASHINGTON — Vice President-elect Kamala Harris will give up her Senate seat Monday, she told The Chronicle, marking the first time in 10 years the Democrat will not hold statewide office in California. She will leave the Senate two days before her ..."
+    publishedDateTime: 2021-01-17T12:24:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-to-resign-Senate-seat-Monday-ahead-15877159.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-to-resign-Senate-seat-Monday-ahead-15877159.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-to-resign-Senate-seat-Monday-ahead-15877159.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/15/60/20503604/5/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."
     publishedDateTime: 2021-01-13T07:29:00Z
@@ -913,6 +933,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/6401610666115/2021/1/2c460360f32fa2d889fa9d067e4439d7/v1.5/DC-attorney-general-seeks-to-interview-Donald-Trump-Jr-on-inauguration-funds.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "As Kamala Harris prepares to take the VP spot, local women say: It's about time"
+    excerpt: "Kamala Harris' journey to the second highest office in the land is more important now than ever, and offers a promise of a better future. When Kamala Harris gave her acceptance speech in August for the Democratic vice presidential nomination, Brandy R."
+    publishedDateTime: 2021-01-17T11:26:00Z
+    webUrl: "https://www.freep.com/in-depth/news/local/2021/01/17/michigan-women-inspired-kamala-harris-historic-vp-win/4158333001/"
+    ampWebUrl: "https://amp.freep.com/amp/4158333001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4158333001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 71
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/15/PDTF/11cb5287-e7a5-4cce-bdbf-c65b987444e9-AP20313061585459.jpg?auto=webp&crop=5081,2859,x0,y258&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Supreme Court Justice Sonia Sotomayor to swear in Kamala Harris as vice president"
     excerpt: "Vice President-elect Kamala Harris will take oath of office on a Bible belonging to Thurgood Marshall during inaugural ceremony at the U.S. Capitol."

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Black and white still define America as Biden prepares to take office, country deals with Capitol riots aftermath"
-excerpt: "Since the beginning of America, race was used to generate wealth for whites on the back of Blacks. Why can't we see our common economic interests?"
-publishedDateTime: 2021-01-14T05:14:00Z
-originalUrl: "https://www.usatoday.com/story/money/2021/01/14/black-america-history-social-economic-inequalities/5759328002/"
-webUrl: "https://www.usatoday.com/story/money/2021/01/14/black-america-history-social-economic-inequalities/5759328002/"
-ampWebUrl: "https://amp.usatoday.com/amp/5759328002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5759328002"
+title: "Gen. Milley key to military continuity as Biden takes office"
+excerpt: "When the incoming Biden administration takes charge of a Pentagon rocked by four years of leadership churn, it’ll look mainly to one holdover to provide continuity"
+publishedDateTime: 2021-01-17T12:42:00Z
+originalUrl: "https://www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html"
+webUrl: "https://www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
-quality: 104
-heat: -1
-published: false
+quality: 125
+heat: 245
+published: true
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,28 +25,12 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/7595686b-762b-49ce-9210-96f74c5f7ead-GTY_1230427031.jpg?auto=webp&crop=5567,3131,x0,y581&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
-  - title: "Gen. Milley key to military continuity as Biden takes office"
-    excerpt: "When the incoming Biden administration takes charge of a Pentagon rocked by four years of leadership churn, it’ll look mainly to one holdover to provide continuity"
-    publishedDateTime: 2021-01-17T12:42:00Z
-    webUrl: "https://www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Marriott and others pledge to cut off money to members of Congress who doubted Biden win"
     excerpt: "The violent insurrection at the Capitol has companies scrambling to react, as the option of sitting on the sidelines grows increasingly unsatisfying."
     publishedDateTime: 2021-01-11T03:44:00Z
@@ -74,6 +58,22 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/7595686b-762b-49ce-9210-96f74c5f7ead-GTY_1230427031.jpg?auto=webp&crop=5567,3131,x0,y581&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Black and white still define America as Biden prepares to take office, country deals with Capitol riots aftermath"
+    excerpt: "Since the beginning of America, race was used to generate wealth for whites on the back of Blacks. Why can't we see our common economic interests?"
+    publishedDateTime: 2021-01-14T05:14:00Z
+    webUrl: "https://www.usatoday.com/story/money/2021/01/14/black-america-history-social-economic-inequalities/5759328002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5759328002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5759328002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/7595686b-762b-49ce-9210-96f74c5f7ead-GTY_1230427031.jpg?auto=webp&crop=5567,3131,x0,y581&format=pjpg&width=1200"
         width: 1200
@@ -117,6 +117,6 @@ related:
       domain: houstonchronicle.com
     quality: 85
 
-secured: "MHwJaZPb8VWoK+c44W09kypu+wGm6oIPqG6PCJ3Qg24qT38rAIhnfFPl0VEVnBAGgO8zd+4dwE+mYfm1EF5Ye6V6odMhxenj5NOh5ON1ZPbmbD5bHk4+BwC/CBnq+kb8gNB18YmwNZ81sjakGuGmksmFecBENtmB1cT37XNeSIzPF8g10CcTWPl0APraI5do5fedpNQr9ILl3IDcngEDj99iXWKiUS+DRP2bKPgB6wP9Evls39g8u+2yViGig+1xTstPC0I+WVGPkBv/rdWmMu7cHB7GmH/LSv6cYlRQXIf/5mzY67Ge6F0ULOZV0ALDx1OvfCgSLT2JTjovS4ycfBRrfj2WGL32KLt4ltDw8Cw=;VaODmXSFsLTO7orv84E1aw=="
+secured: "Ra5XT4xhS3kOboyhktRIoZHIX15P3aRJ2mvhqQLn/hioV0lQdiqNARdtM2zxRblNZSDle24wyDK2/b7eHWa3DJVdySI97qfcJuoLGbynPmZzy9KF4jdv8fyAM0cKy4wmYiytj5DpPiuzVQu/t18rPMM8Rly583COhLjn54gpd7MmNmNf71tp5uvBF/PONm5yztAq3vGEre9y485lvm2hNt1ECY3bs5+5ntLm2ssK4ax8j9LQd9lxdNSQMG4K9RRnjRVegovS2ydLkStlvz5ZtFw6UhNOPSIVEVBK4YfRVkuabFZK0Wqgno+iUB+tYoV0tGMXB93r/8dR11zogiBenRiaMCshoR/zFlEl06YyB94=;DK2Ya5VOpfsXs22oDSAnfg=="
 ---
 

@@ -1,32 +1,34 @@
 ---
 category: news
-title: "Trump legal vets torn over new impeachment defense"
-excerpt: "The crew that rallied behind the president in late 2019 is divided as House Democrats rush to impeach him once more."
-publishedDateTime: 2021-01-09T01:29:00Z
-originalUrl: "https://www.politico.com/news/2021/01/08/alan-dershowitz-trump-impeachment-456674"
-webUrl: "https://www.politico.com/news/2021/01/08/alan-dershowitz-trump-impeachment-456674"
+title: "Kamala Harris Will Make History. So Will Her ‘Big, Blended’ Family."
+excerpt: "When Kamala Harris is sworn in as vice president, she will represent many firsts: First woman vice president. First Black woman. First woman of Indian descent. But there is another milestone that will be on display: that of her family."
+publishedDateTime: 2021-01-17T08:00:00Z
+originalUrl: "https://www.nytimes.com/2021/01/17/us/kamala-harris-doug-emhoff-family-inauguration.html"
+webUrl: "https://www.nytimes.com/2021/01/17/us/kamala-harris-doug-emhoff-family-inauguration.html"
+ampWebUrl: "https://www.nytimes.com/2021/01/17/us/kamala-harris-doug-emhoff-family-inauguration.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/17/us/kamala-harris-doug-emhoff-family-inauguration.amp.html"
 type: article
-quality: 115
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Kamala Harris
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/42/07/201004ff4f83bd6aef79fd36bda1/200129-dershowitz-getty-773.jpg"
-    width: 1160
-    height: 773
+  - url: "https://static01.nyt.com/images/2021/01/17/us/politics/16HARRISEMHOFFS-print1/00HARRISEMHOFFS1-facebookJumbo.jpg"
+    width: 1050
+    height: 549
     isCached: true
 
 related:
@@ -698,22 +700,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Kamala Harris Will Make History. So Will Her ‘Big, Blended’ Family."
-    excerpt: "When Kamala Harris is sworn in as vice president, she will represent many firsts: First woman vice president. First Black woman. First woman of Indian descent. But there is another milestone that will be on display: that of her family."
-    publishedDateTime: 2021-01-17T08:00:00Z
-    webUrl: "https://www.nytimes.com/2021/01/17/us/kamala-harris-doug-emhoff-family-inauguration.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/17/us/kamala-harris-doug-emhoff-family-inauguration.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/17/us/kamala-harris-doug-emhoff-family-inauguration.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/17/us/politics/16HARRISEMHOFFS-print1/00HARRISEMHOFFS1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Prospect of Pardons in Final Days Fuels Market to Buy Access to Trump"
     excerpt: "The president’s allies have collected tens of thousands of dollars — and potentially much more — from people seeking pardons."
     publishedDateTime: 2021-01-17T10:00:00Z
@@ -836,6 +822,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump legal vets torn over new impeachment defense"
+    excerpt: "The crew that rallied behind the president in late 2019 is divided as House Democrats rush to impeach him once more."
+    publishedDateTime: 2021-01-09T01:29:00Z
+    webUrl: "https://www.politico.com/news/2021/01/08/alan-dershowitz-trump-impeachment-456674"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/42/07/201004ff4f83bd6aef79fd36bda1/200129-dershowitz-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Kamala Harris' casual Vogue cover causes stir online"
     excerpt: "Kamala Harris' forthcoming appearance in American Vogue has sparked criticism for appearing casual and \"washed out,\" with the Vice President-elect's team blindsided by the magazine's choice of cover."
     publishedDateTime: 2021-01-11T06:43:00Z
@@ -948,6 +948,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "b2DEqOTUEAIxIT50JgSLLFuH24aIGKpff5bZBHR1ElibSFJnMdE/16wRaESX3X2PpVqCCN0VZefbec48VpacrkHeEr9p6QwB14pj7pTjwSdj5som7X2KkQ25HHEVABsg4rbKuajGmgoA7bKm19DAK0YlShA+C7/P0wD2L49gfbHDi14MsCysjXjd+PMHYCOJzAnpjq6awm+AqUzesqGGsXsJ7Ec0676i6/YboC4JwS/PtLq0r8cMnOEXwKrBIuHDQ8tcIPkk3h9wfHhWult1fVZDKNGnpJ/FK0Q+m5MEUpzmMzt6WwoRftd9nBZ4oLJASOiAeceq7O5JDNZelHwT9grGhW2Q5PVnYSkMnODcv6g=;gWnBWZSf4YeCWFHbCK1sGQ=="
+secured: "hA4fG56ydunuChy42poFesD1bikbXZpk2L3kPBHIzUEtzgD3240Mfb2qKh879ZlVHn6M0/nXCYchjBYDTKcaJOywiwjQ7uS+T1H5+9x5ByBO1S6+yQfIGix0m6MDj7vF5zvokTB0mYrW6K5Y7bf9KxmoTTl3XcKeo48WoeWIfkpLDctkuYjuodQfxMldRi9mRtxOg4VMpcSRYjcNV3SbBysYEiyOA87O+Jtk2HtCKs7mHx+0DBjTfBijCTMNINj2eEl2qha4Tf3EBIbgXFQGff9A9Rs6PgWS7UATPqS7N66v/QrYsQIcTM6U3tjIvvhgnJN4TkQLxScVwmosQhlUkXvMYLfr2A7sbKNfPloYdyU=;t5d9TTiTIcGvV2x7Zlo3bA=="
 ---
 

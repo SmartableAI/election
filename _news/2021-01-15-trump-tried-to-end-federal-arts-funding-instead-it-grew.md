@@ -684,6 +684,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Kamala Harris Will Make History. So Will Her ‘Big, Blended’ Family."
+    excerpt: "When Kamala Harris is sworn in as vice president, she will represent many firsts: First woman vice president. First Black woman. First woman of Indian descent. But there is another milestone that will be on display: that of her family."
+    publishedDateTime: 2021-01-17T08:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/17/us/kamala-harris-doug-emhoff-family-inauguration.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/17/us/kamala-harris-doug-emhoff-family-inauguration.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/17/us/kamala-harris-doug-emhoff-family-inauguration.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/17/us/politics/16HARRISEMHOFFS-print1/00HARRISEMHOFFS1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Prospect of Pardons in Final Days Fuels Market to Buy Access to Trump"
     excerpt: "The president’s allies have collected tens of thousands of dollars — and potentially much more — from people seeking pardons."
     publishedDateTime: 2021-01-17T10:00:00Z

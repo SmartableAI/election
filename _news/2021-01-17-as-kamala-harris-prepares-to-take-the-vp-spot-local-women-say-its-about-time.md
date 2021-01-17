@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Preview: Kamala Harris on \"Sunday Morning\""
-excerpt: "Elect Kamala Harris and her husband Douglas Emoff sit down with “CBS Sunday Morning\" anchor Jane Pauley in their first joint TV interview since last week's assault on the Capitol. In this preview clip Harris discusses the priorities for the incoming Biden administration."
-publishedDateTime: 2021-01-13T00:36:00Z
-originalUrl: "https://www.cbsnews.com/video/preview-kamala-harris-on-sunday-morning/"
-webUrl: "https://www.cbsnews.com/video/preview-kamala-harris-on-sunday-morning/"
+title: "As Kamala Harris prepares to take the VP spot, local women say: It's about time"
+excerpt: "Kamala Harris' journey to the second highest office in the land is more important now than ever, and offers a promise of a better future. When Kamala Harris gave her acceptance speech in August for the Democratic vice presidential nomination, Brandy R."
+publishedDateTime: 2021-01-17T11:26:00Z
+originalUrl: "https://www.freep.com/in-depth/news/local/2021/01/17/michigan-women-inspired-kamala-harris-historic-vp-win/4158333001/"
+webUrl: "https://www.freep.com/in-depth/news/local/2021/01/17/michigan-women-inspired-kamala-harris-historic-vp-win/4158333001/"
+ampWebUrl: "https://amp.freep.com/amp/4158333001"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4158333001"
 type: article
-quality: 105
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/13/dea7c7eb-a5ef-4aba-b602-d922f6c2f240/thumbnail/1200x630/5678a150583bd1acc4b3d19e2d90bf55/0112-en-sunmoharris-vo-625578-640x360.jpg"
+  - url: "https://www.gannett-cdn.com/presto/2021/01/15/PDTF/11cb5287-e7a5-4cce-bdbf-c65b987444e9-AP20313061585459.jpg?auto=webp&crop=5081,2859,x0,y258&format=pjpg&width=1200"
     width: 1200
-    height: 630
+    height: 675
     isCached: true
 
 related:
@@ -466,6 +464,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547238775&r=LYNXMPEH080FJ&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Preview: Kamala Harris on \"Sunday Morning\""
+    excerpt: "Elect Kamala Harris and her husband Douglas Emoff sit down with “CBS Sunday Morning\" anchor Jane Pauley in their first joint TV interview since last week's assault on the Capitol. In this preview clip Harris discusses the priorities for the incoming Biden administration."
+    publishedDateTime: 2021-01-13T00:36:00Z
+    webUrl: "https://www.cbsnews.com/video/preview-kamala-harris-on-sunday-morning/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/13/dea7c7eb-a5ef-4aba-b602-d922f6c2f240/thumbnail/1200x630/5678a150583bd1acc4b3d19e2d90bf55/0112-en-sunmoharris-vo-625578-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Kamala D. Harris makes history. What will she do with it?"
     excerpt: "The former California senator breaks one glass ceiling — and now will define herself more fully than she has to date."
@@ -933,22 +945,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "As Kamala Harris prepares to take the VP spot, local women say: It's about time"
-    excerpt: "Kamala Harris' journey to the second highest office in the land is more important now than ever, and offers a promise of a better future. When Kamala Harris gave her acceptance speech in August for the Democratic vice presidential nomination, Brandy R."
-    publishedDateTime: 2021-01-17T11:26:00Z
-    webUrl: "https://www.freep.com/in-depth/news/local/2021/01/17/michigan-women-inspired-kamala-harris-historic-vp-win/4158333001/"
-    ampWebUrl: "https://amp.freep.com/amp/4158333001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4158333001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 71
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/15/PDTF/11cb5287-e7a5-4cce-bdbf-c65b987444e9-AP20313061585459.jpg?auto=webp&crop=5081,2859,x0,y258&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Supreme Court Justice Sonia Sotomayor to swear in Kamala Harris as vice president"
     excerpt: "Vice President-elect Kamala Harris will take oath of office on a Bible belonging to Thurgood Marshall during inaugural ceremony at the U.S. Capitol."
     publishedDateTime: 2021-01-16T22:15:00Z
@@ -1105,6 +1101,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "4ELxp6AuuuLrbsD9Ahdt9ROdJyRDPmMXupsgGwqYUp6sIPe/XU2MRsoMqr22oPPzANHr9Gynbn9flQywqvYK1LZmvuMU0SqNnZ8tKhmFrH/Fhs5KIhqlJFFmFWodlenaiVzYPopVaWpvBeu71WJBSH8EQMh9pdpbXqSEWKeFxmqPGFxD1mcASi6XfH71159EC/iaQn71KE/Lrswp7TY8ezj3mQLAbvDU+8AxiDcMEbzg/zFi8QS/rr2N5CzfjZD/l45ZaSRzpkEV0YJxgFNFodV9ibr/hRvBwg5gzpZYc2Lt1B32z1I8VA5Z0oAw4tbc5xaKRjYHTOzynlqsRhf+yvwXjeUsaoN4oCGj+uRrotk=;4G0gnEnIBMtzT/zW8Hvw0w=="
+secured: "fwwNwkpCTT5jcUWOzVbIzhFiaQ5t5lgT2PTaSilLvOSbcT/SXzqBK0EtTLQN+rtNAdz6RGf5nC68VxL1p6KTkSq0O+AsOoGqB6fMgkXSc6GkJPmXh/cmqWsnJAjUszS3jsgTjQffhxncnAH2b0Wakg+5oIzVTub8M+GdUgHDFbwkX+ZiExs/fmq3sQ41YxHfeY2rwh/QBnewM6oJn8qHU/RVCi9F7+OVEED8/dC1Ug7v/ZPe4z1DHbzRmt6wLEmAP1sdBtB3GZKJE8ETqLWIX6/mj9adrqEciONuB/m80ENIJw+6VstABATEzd/ROzgcpa6ZVHRCGO0RLG64x2aHbwf0+nvlgZglXqYCw7cyxkY=;5F8Hha+LsLe5ZO7F3Hd1hg=="
 ---
 
