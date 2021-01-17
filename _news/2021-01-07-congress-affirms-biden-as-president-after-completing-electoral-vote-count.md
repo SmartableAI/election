@@ -1488,6 +1488,38 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden chief of staff releases plan for first 10 days in office"
+    excerpt: "Chief of Staff Ron Klain released the president-elect’s 10-day schedule, which includes ending the travel ban on mostly Muslim countries and actions to combat Covid-19. President Trump did not make an appearance on Saturday."
+    publishedDateTime: 2021-01-17T00:05:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/biden-chief-of-staff-releases-plan-for-first-10-days-in-office-99584581555"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99584581555"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99584581555"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202101/nn_kod_trump_last_weekend_xtalk_210116_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "The latest on Biden's inauguration and security threats"
+    excerpt: "DC and states around the country are on high alert and tightening security in preparation for possible protests ahead of Biden's inauguration and in wake of Trump's impeachment. Follow here for the latest."
+    publishedDateTime: 2021-01-16T20:33:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/biden-inauguration-dc-capitol-news-01-16-21/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/biden-inauguration-dc-capitol-news-01-16-21/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/biden-inauguration-dc-capitol-news-01-16-21/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115103632-us-capitol-fence-0114-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Vice President Mike Pence ensures 'safe inauguration' after Capitol riot"
     excerpt: "During a briefing at FEMA headquarters, Vice President Mike Pence addressed the Capitol riot and ensured an “orderly transition into a safe inauguration.”"
     publishedDateTime: 2021-01-14T22:56:00Z

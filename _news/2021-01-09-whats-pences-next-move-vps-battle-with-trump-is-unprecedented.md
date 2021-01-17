@@ -649,20 +649,20 @@ related:
         height: 336
         isCached: true
   - title: "Mike Pence calls Kamala Harris to offer congratulations"
-    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
-    publishedDateTime: 2021-01-15T20:18:00Z
-    webUrl: "https://www.denverpost.com/2021/01/15/mike-pence-calls-kamala-harris-to-offer-congratulations/"
-    ampWebUrl: "https://www.denverpost.com/2021/01/15/mike-pence-calls-kamala-harris-to-offer-congratulations/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/01/15/mike-pence-calls-kamala-harris-to-offer-congratulations/amp/"
+    excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-16T06:05:00Z
+    webUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations"
+    ampWebUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations/amp"
+    cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations/amp"
     type: article
     provider:
-      name: The Denver Post
-      domain: denverpost.com
+      name: The Oklahoman
+      domain: oklahoman.com
     quality: 100
     images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/APTOPIX_Pence_Inauguration_55103.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
+      - url: "https://cdn2.newsok.biz/cache/1280x720_blur-95d4cd09934c1de7935d5144c353acbf.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Thousands of National Guard members deployed in Washington ahead of Biden inauguration"
     excerpt: "Thousands of National Guard's were deployed to Washington on January 12, ahead of the inauguration of Joe Biden in the wake of the Capitol riots."
@@ -853,6 +853,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/0f0/be0/7d4992df6eb4d08e26bbe239f1d0d83f3d-trump-chait-issue-2.1x.rsocial.w1200.jpg"
         width: 1200
         height: 632
+        isCached: true
+  - title: "Kamala Harris to be sworn in to vice presidency by Sonia Sotomayor"
+    excerpt: "Vice President-elect Kamala Harris will be sworn in by Supreme Court Justice Sonia Sotomayor at Wednesday's inauguration."
+    publishedDateTime: 2021-01-16T23:49:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/16/Kamala-Harris-to-be-sworn-in-to-vice-presidency-by-Sonia-Sotomayor/4311610840201/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/16/Kamala-Harris-to-be-sworn-in-to-vice-presidency-by-Sonia-Sotomayor/4311610840201/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/16/Kamala-Harris-to-be-sworn-in-to-vice-presidency-by-Sonia-Sotomayor/4311610840201/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/4311610840201/2021/1/99edd9d0834a3f7624fa0da5387e2ba4/v1.5/Kamala-Harris-to-be-sworn-in-to-vice-presidency-by-Sonia-Sotomayor.jpg"
+        width: 800
+        height: 532
         isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."

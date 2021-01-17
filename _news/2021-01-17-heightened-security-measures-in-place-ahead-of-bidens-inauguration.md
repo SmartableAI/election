@@ -1786,17 +1786,17 @@ related:
     quality: 105
   - title: "U.S. capitals on edge for armed protests as Trump presidency nears end"
     excerpt: "Washington, D.C., was locked down and U.S. law enforcement officials geared up for pro-Trump marches in all 50 state capitals this weekend, erecting barriers and deploying thousands of National Guard troops to try to prevent the kind of violent attack that rattled the"
-    publishedDateTime: 2021-01-16T22:21:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-protests/u-s-capitals-on-edge-for-armed-protests-as-trump-presidency-nears-end-idUSKBN29L0DA"
+    publishedDateTime: 2021-01-17T00:08:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-protests/u-s-capitals-on-edge-for-armed-protests-as-trump-presidency-nears-end-idINKBN29L0CD"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548055353&r=LYNXMPEH0F0IM&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548028653&r=LYNXMPEH0F090&w=800"
         width: 800
-        height: 533
+        height: 519
         isCached: true
   - title: "US stock futures rise and oil nears 1-year high as investors shrug off Donald Trump impeachment and cheer stimulus"
     excerpt: "The Democrats are poised to impeach Donald Trump again, but investors are betting on economic recovery and are buying stocks and commodities."
@@ -1982,6 +1982,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/RCbFb8gR4Z4Tx8yS-kfISBHX_Qw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4HA5W4BHEBEBTMQQHY5ZH4DI64.jpg"
         width: 1200
         height: 674
+        isCached: true
+  - title: "Biden is raising tens of millions of dollars for his inauguration but won't say where the money is going"
+    excerpt: "Biden is raising tens of millions of dollars for the inaugural celebrations, including from corporate giants with big business before the federal government."
+    publishedDateTime: 2021-01-17T00:10:00Z
+    webUrl: "https://www.businessinsider.com/progressives-want-joe-biden-inauguration-transparent-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/600262d2660f6c0018349926?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump’s Senate impeachment trial could begin on day of Joe Biden’s inauguration"
     excerpt: "The impeachment trial timeline and schedule are largely set by Senate procedures and will start as soon as the House delivers the article of impeachment."
@@ -2593,6 +2607,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "Kp0huRysdHjx0wbgjKp4nSJCU3fIt9PlGfU4a5mi0zfH3PHfIf4y/68iWGcI5Be7K0/nGtjwYuyZD1xFi2aVYxTGZvw9hK28swBJD1TsuXGyR/s69LUBKyXAp5WMPOpNP9d3rcg/16rHWjgcMEn/cCu0hVJJfgn8XRD6GetGvCs6oUljHI6DgaYHkQIig7hspaDqnRsn2Alcd4a6pcU+vKD0ocqjb4Zb/44BHILlSef1rT0ydzn43X1V0NuxUsskTBMzhN4jwEaQtSjz2Q8/gXx+5dbHZdC3ZILxEZFxuMcQgp6yR5UXs1gmp0KeN8wPnifEPMjfFWmLXjc6Tc3qsLp+03kQkYAVEOcZw2Uqx34=;jVbi9xFj2iCSRTspW0FxQg=="
+secured: "AMWvLXxNLq7pPfbGHxtILN5H3Cj9hGI+ma3QNPEjt0tQ09SD+zRpqp2/6C6AX6C0fcPMxub1MN9s4L4DoTHcN6tjc7Bo2MAYIFhAY7pzxBjFWZR0c+RSL6anIyecUQP5yYJENuDnMbSO6S7iJv33tpGWbSF5LgqATNY/TWdRBMYJa1tLnWCtn5gt0IRiEBPunkIRhLpESDBhUblS/MA2G+n591J4duIut31u9tZ2A3l48uJtf9MFiB9P0v2HLukjLqklysBnkzFbJopIk6HR0q7ASdp8qpD/sj3iEPaOBhax0yzZB/mZXNdhbhtFiyGxBGKLTT2vlerwu0wuB/R/sUKDhKtapHPpYONkj8cbcV5SRYIyI3nlvm35Ovw5JR9scUU+y8820d9/fBo3977LcRtqw/m7GpBd/hK6s52cfsjXx9JC05/1/tJy3mPHOzsqo+YM26VDOEsBhP+V1vYXHDA55vG8G/YFTNXJKdvmuEtS/OgupTxt5erWQFdfmcw51mhaBZX3BL6BKipW9nbA1Q==;aligjDJawTy1cx916k3Gxw=="
 ---
 

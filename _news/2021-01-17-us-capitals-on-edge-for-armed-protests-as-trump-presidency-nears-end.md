@@ -2,9 +2,9 @@
 category: news
 title: "U.S. capitals on edge for armed protests as Trump presidency nears end"
 excerpt: "Washington, D.C., was locked down and U.S. law enforcement officials geared up for pro-Trump marches in all 50 state capitals this weekend, erecting barriers and deploying thousands of National Guard troops to try to prevent the kind of violent attack that rattled the"
-publishedDateTime: 2021-01-16T22:21:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump-protests/u-s-capitals-on-edge-for-armed-protests-as-trump-presidency-nears-end-idUSKBN29L0DA"
-webUrl: "https://www.reuters.com/article/uk-usa-trump-protests/u-s-capitals-on-edge-for-armed-protests-as-trump-presidency-nears-end-idUSKBN29L0DA"
+publishedDateTime: 2021-01-17T00:08:00Z
+originalUrl: "https://www.reuters.com/article/usa-trump-protests/u-s-capitals-on-edge-for-armed-protests-as-trump-presidency-nears-end-idINKBN29L0CD"
+webUrl: "https://www.reuters.com/article/usa-trump-protests/u-s-capitals-on-edge-for-armed-protests-as-trump-presidency-nears-end-idINKBN29L0CD"
 type: article
 quality: 105
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548055353&r=LYNXMPEH0F0IM&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548028653&r=LYNXMPEH0F090&w=800"
     width: 800
-    height: 533
+    height: 519
     isCached: true
 
 related:
@@ -1983,6 +1983,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Biden is raising tens of millions of dollars for his inauguration but won't say where the money is going"
+    excerpt: "Biden is raising tens of millions of dollars for the inaugural celebrations, including from corporate giants with big business before the federal government."
+    publishedDateTime: 2021-01-17T00:10:00Z
+    webUrl: "https://www.businessinsider.com/progressives-want-joe-biden-inauguration-transparent-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/600262d2660f6c0018349926?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump’s Senate impeachment trial could begin on day of Joe Biden’s inauguration"
     excerpt: "The impeachment trial timeline and schedule are largely set by Senate procedures and will start as soon as the House delivers the article of impeachment."
     publishedDateTime: 2021-01-14T20:11:00Z
@@ -2593,6 +2607,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "jrqVI5C0Hr3bzTTxZ/iE+J+7nP2DPKbRXilUTkVfwZbVivCoAC6WmNU6NB/72ehzRmuSY87DRiXWxsD8TvEMC07Ko8BhwG+GbCKKzxkoe8odlTlaIzgOInF5iy+LAePT+O94BlLjhkt7ydos9add7UOtibvKcmGvLhh5+C+CxoJN5TgA6Wq1GuNzsCiqEPpuk2QBlkeq8cySvKzyGRR2SOLF2WUc4b/PuoL9hPBGDFyYun/ymQKWlSxn08XEXin7M9n8qgIjQj7yHGzx5JEYJqZIZ6NQFcmAvy+bLNexnkribabL9VMxy5x2+TvOC82oKDhUb+Hs40G5tAzh2yuu5zcdUNzCfoFrT8TN5enxqSQ=;l0PWHzNIE3ZqLN8wivNxkw=="
+secured: "tTc0m+JZo2zRE6gLetkuzwVboclDoZWW+QMM9wwVfwqOqtUiLsesNB+pdZ9IP0wN7Z92rSwVK9JrC4XV3FRtmkCYsqWtBN+X/9q39Xwyq40f+t/h9RqbhearDfV5zIR+zUaLLk/4+GOLZG9+I/3nqK1C9KljOEgP7IWV6ym/IpGUFbIo8/GfQ1rrWj04G+DPjPYAqdhOIWstyMaTU0RzXCQtuS8UFBYSIG434w2JUY/clXSdI9r6l534xWttIIb6iCoTw6VjSmzG0j6mYeROAYcfYOU3FdjpuQXmIlvyBB/Do72RMJZB26Inqhs3IEWCQGYKOH6q71DhEXmzy2+VuP3NGOmjIwF3p3sruS7qbuk=;o/oD9IyFWs8b6PLJ+gvOgg=="
 ---
 

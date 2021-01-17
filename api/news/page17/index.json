@@ -2,58 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2020-12-23-news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat.md",
-      "title": "News Wrap: Alex Padilla is tapped to fill Kamala Harris’ Senate seat",
-      "excerpt": "In our news wrap Tuesday, California Secretary of State Alex Padilla is tapped to fill the U.S. Senate seat vacated by Vice President-elect Kamala Harris, the E.U.'s executive body calls for an end to travel bans aimed at confining a new COVID-19 strain in Britain,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pbs.org/newshour/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat",
-      "originalUrl": "https://www.pbs.org/newshour/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 805,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2020/12/newswrap15-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pbs.org/newshour/amp/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat",
-      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/news-wrap-alex-padilla-is-tapped-to-fill-kamala-harris-senate-seat",
-      "publishedDateTime": "2020-12-22T15:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PBS",
-        "domain": "pbs.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/pbs.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-12-22-nancy-pelosi-plans-to-pull-trump-out-of-the-white-house-by-his-hair-report.md",
       "title": "Nancy Pelosi plans to pull Trump out of the White House 'by his hair': Report",
       "excerpt": "The House Speaker is said to have made the comments during discussions regarding a coronavirus relief package.",
@@ -1381,6 +1329,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-22-fierce-pushback-fear-of-new-and-onerous-regulations-from-small-farmers-on-joe-bidens-choice-of-tom-vilsack-for-usda.md",
+      "title": "Fierce pushback, fear of new and onerous regulations from small farmers on Joe Biden’s choice of Tom Vilsack for USDA",
+      "excerpt": "Tom Vilsack faces a steep challenge, with progressive and environmental groups warning that he is too friendly with big industrial agriculture businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-usda-tom-vilsack-farmers-20201221-dzx26ybk3bbvbdq5rd2wdqlwve-story.html",
+      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-usda-tom-vilsack-farmers-20201221-dzx26ybk3bbvbdq5rd2wdqlwve-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/xLvqWsH5LQofg-buDy_LLC5xpC4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OSJOTAXPZZSPKG6PXYDA3FJP4A.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-usda-tom-vilsack-farmers-20201221-dzx26ybk3bbvbdq5rd2wdqlwve-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-usda-tom-vilsack-farmers-20201221-dzx26ybk3bbvbdq5rd2wdqlwve-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-21T11:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

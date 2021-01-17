@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/twitter-to-transfer-official-accoun
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman.amp"
 type: article
 quality: 172
-heat: 172
+heat: 192
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Biden planning several executive orders on first day in office, including rescinding travel ban"
+    excerpt: "President-elect Biden is planning to sign several executive orders on day one of his presidency, incoming chief of staff Ron Klain announced in a statement. "
+    publishedDateTime: 2021-01-16T23:46:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/myxK8EVwJc8/biden-executive-order-first-day-in-office-rescinding-travel-ban"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-executive-order-first-day-in-office-rescinding-travel-ban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-order-first-day-in-office-rescinding-travel-ban.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Biden-.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "AOhjcuR1lawqhxtDi3U6cvZ2B/R5sNMqL07A4VwFFEpWkRgknCqyg5Hxif5vy28B5jB/QxO3SSZMJRhzIDiyRVMhNwlBol6Lhr3TCGlzjMEadRK0U6bsCqDbDAmryszfZb6bFug2ykrM2W8frw89oRa6SofksOcPxEriC8ef3anOwHOwZkxRdzk1CZ+IgiEw9x4Cg6MjZ+wKS78usduUmSlInb5b9+uaWwcJLIMnAeW/uFVXOyiH4t6LVJy1TjOy0dw02Ar89h39rT+sS8CrQrfKtqdq2atCyhEt/14AUanBKskTb6qSOFjaBr8CSwBGJFzLKzdc+1LgRJEoa0xr9QOdmmGq2Tww2V9BBHH7inQ=;kBxma3MB0kW5CmfD03CqLQ=="
 ---

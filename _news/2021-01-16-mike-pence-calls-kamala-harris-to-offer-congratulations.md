@@ -1,30 +1,30 @@
 ---
 category: news
 title: "Mike Pence calls Kamala Harris to offer congratulations"
-excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
-publishedDateTime: 2021-01-15T20:18:00Z
-originalUrl: "https://www.denverpost.com/2021/01/15/mike-pence-calls-kamala-harris-to-offer-congratulations/"
-webUrl: "https://www.denverpost.com/2021/01/15/mike-pence-calls-kamala-harris-to-offer-congratulations/"
-ampWebUrl: "https://www.denverpost.com/2021/01/15/mike-pence-calls-kamala-harris-to-offer-congratulations/amp/"
-cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/01/15/mike-pence-calls-kamala-harris-to-offer-congratulations/amp/"
+excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
+publishedDateTime: 2021-01-16T06:05:00Z
+originalUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations"
+webUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations"
+ampWebUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations/amp"
+cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations/amp"
 type: article
 quality: 100
 heat: -1
 published: false
 
 provider:
-  name: The Denver Post
-  domain: denverpost.com
+  name: The Oklahoman
+  domain: oklahoman.com
 
 topics:
   - Election
-  - Kamala Harris
   - Mike Pence
+  - Kamala Harris
 
 images:
-  - url: "https://www.denverpost.com/wp-content/uploads/2021/01/APTOPIX_Pence_Inauguration_55103.jpg?w=1024&h=683"
-    width: 1024
-    height: 683
+  - url: "https://cdn2.newsok.biz/cache/1280x720_blur-95d4cd09934c1de7935d5144c353acbf.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -850,6 +850,22 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Kamala Harris to be sworn in to vice presidency by Sonia Sotomayor"
+    excerpt: "Vice President-elect Kamala Harris will be sworn in by Supreme Court Justice Sonia Sotomayor at Wednesday's inauguration."
+    publishedDateTime: 2021-01-16T23:49:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/16/Kamala-Harris-to-be-sworn-in-to-vice-presidency-by-Sonia-Sotomayor/4311610840201/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/16/Kamala-Harris-to-be-sworn-in-to-vice-presidency-by-Sonia-Sotomayor/4311610840201/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/16/Kamala-Harris-to-be-sworn-in-to-vice-presidency-by-Sonia-Sotomayor/4311610840201/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/4311610840201/2021/1/99edd9d0834a3f7624fa0da5387e2ba4/v1.5/Kamala-Harris-to-be-sworn-in-to-vice-presidency-by-Sonia-Sotomayor.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."
     publishedDateTime: 2021-01-13T07:29:00Z
@@ -1038,6 +1054,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "MgCjGd+sGySAYCzrjuWosNzdxUWnndy9XPmRD+gN+sgxeFBktkRKEWMq8/VEbjLikfXvuI1bjKGTiDpeUfbu40ajKfOUrz8rNzjWVRP52u2uo88miM9T1Lnus4PWrJSspqzH6Js6E2+/I6gNNW8j4f2UVINGkOK/CJ6S5LvKrUnMskPTme/AW8pdbm1e8LBXkePzHSFKC1c55EeMHfAficj3P0Js+B3g7TV1x5nzoAgmhJBGvy0hxAelBi9JpUG1UPKaF8gCyf/o7wi7mOwoE2fV1sNCV+YAkrYP6SrXyt9SMkMwv5Lw9Oh9Utj7GnlWTDnrZK+ebRZq+HVNKN6qArNzwCw6zKt9O8x5GDE+C8s=;ggbGOp5+pJrXwuXOVdw/MQ=="
+secured: "85vptKj/380f3zyO/+IdT+jjdgeOLYrxsSm2ExIlaW/j4xwLXprfLCcSN4hMynnND9D1S+BpHNIkKC4ttg/X2jaeHUY92jeMG73K2bC/Y5CmTcGNGFh3lrJsRhzYxKP6ekk0Ofn0c2s7DMaI0thE5sf55y+lAThO4DK79kNq303X4zYWKRgJ2+biWJayNRfGv9tFsw5wjHlKzRN3aVci3pk60yPJLPk2GdJXyjxPV6v/gdUSDoAxsXOKMZDEKu/eb73XYtB13sdqHzMNlOKRavhlNY0joc/OheiTn6yznIB6Lr0FV1GNvYVkDHKF6hCY8gcFman9QAwq9sOgSOc4s/n4X4VMVd53ZyWKg0+/UHg=;FuIO5gCekg12HMLxEoMqxg=="
 ---
 

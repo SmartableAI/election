@@ -125,6 +125,22 @@ related:
         width: 1440
         height: 979
         isCached: true
+  - title: "Biden launches new Twitter account to build following before taking command of White House @POTUS on Inauguration Day"
+    excerpt: "When Joe Biden is sworn in on Wednesday, he will take command of the @POTUS and @WhiteHouse Twitter accounts in another official transfer of power."
+    publishedDateTime: 2021-01-16T23:59:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2021/01/14/biden-administration-twitter-accounts-transfer-trump-inauguration-day/4168127001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4168127001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4168127001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 102
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/14/USAT/b2aa7210-2606-4ff3-a865-f847930d7c2c-Biden.jpg?auto=webp&crop=6047,3401,x0,y157&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden’s inauguration theme: ‘America United’"
     excerpt: "WASHINGTON (AP) — The theme for President-elect Joe Biden’s inauguration will be “America United,” an issue that’s long been a central focus for Biden but one that’s taken on added weight in the wake of the violence at the U."
     publishedDateTime: 2021-01-11T16:15:00Z

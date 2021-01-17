@@ -29,6 +29,36 @@ images:
     isCached: true
 
 related:
+  - title: "Biden: We'll 'manage the hell' out of feds' COVID response"
+    excerpt: "President-elect Joe Biden is pledging to boost supplies of coronavirus vaccine and set up new vaccination sites to meet his goal of 100 million shots in 100 days"
+    publishedDateTime: 2021-01-17T00:56:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-unveils-19t-plan-stem-covid-19-steady-75269503"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-unveils-19t-plan-stem-covid-19-steady-75269503"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-unveils-19t-plan-stem-covid-19-steady-75269503"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_8fe513d6b6cd49e6ae4f13509231de33_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden: Current vaccine rollout 'a dismal failure'"
+    excerpt: "President-elect Joe Biden called the current rollout of the coronavirus vaccine \"a dismal failure\" as he highlighted his $1.9 trillion plan to combat the pandemic and provide additional relief. (Jan."
+    publishedDateTime: 2021-01-15T02:31:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/15/biden-current-vaccine-rollout-a-dismal-failure/4169071001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/ae0c443c-1f54-43f2-8d6c-c7774a67ed7e_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden chief of staff Klain says he expects 500,000 U.S. COVID-19 deaths next month"
     excerpt: "U.S. President-elect Joe Biden's incoming chief of staff Ron Klain said on Friday he expects the United States to hit 500,000 COVID-19 deaths next month."
     publishedDateTime: 2021-01-15T22:30:00Z
@@ -43,22 +73,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Sen. Joe Manchin says he'd 'absolutely' oppose Biden's stimulus checks, then swiftly walks it back after stocks tank"
-    excerpt: "Sen. Joe Manchin says he’d 'absolutely' oppose Biden’s stimulus checks, then swiftly walks it back after stocks tank President-elect Joe Biden announced some economic priorities on Friday, but Sen. Joe Manchin (D-W."
-    publishedDateTime: 2021-01-09T06:19:00Z
-    webUrl: "https://theweek.com/speedreads/959931/sen-joe-manchin-says-hed-absolutely-oppose-bidens-stimulus-checks-swiftly-walks-back-after-stocks-tank"
-    ampWebUrl: "https://theweek.com/speedreads-amp/959931/sen-joe-manchin-says-hed-absolutely-oppose-bidens-stimulus-checks-swiftly-walks-back-after-stocks-tank"
-    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/speedreads-amp/959931/sen-joe-manchin-says-hed-absolutely-oppose-bidens-stimulus-checks-swiftly-walks-back-after-stocks-tank"
+  - title: "Biden: We'll 'manage the hell' out of feds' COVID response"
+    excerpt: "President-elect Joe Biden is pledging to boost supplies of coronavirus vaccine and set up new vaccination sites to meet his goal of 100 million shots in 100 days"
+    publishedDateTime: 2021-01-16T05:48:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-manage-hell-feds-covid-response-75291354"
     type: article
     provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 52
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1211761002.jpg?itok=48zQHTrK"
-        width: 840
-        height: 560
-        isCached: true
+      name: ABC
+      domain: abcnews.go.com
+    quality: 85
 
 secured: "56IZiWdStsbsZAQd2rWhfcPi4opuBt9db40H7Evt+/BxdFv2Z07PR6KjSv3fmCwKTLpAkBDB1AKmS2Qi7zN132Vqzmb4nAx1RoT5720v1xyFru7sHmlUr9OXcVMx9JkTImDNgBhPWn9pJQ5+0MByo4njnVv41sIGTlzWc1rX1TuIRy+hKOmU1Vo1ne2oHWH40/29EEJSskul56vMaGy9fD10YXc3ffDJIDAj5D0+sXCbbeEtpnDnsOjELO1Rf9DEGwXAaAGz2aA685SuvJH66XMLfAnqNuE9FvSReLJbS95GhmNQWjNETFRENgvSFsmqcI769X2BVpFIY3u069+hU7rne3Tuqj7VnT+4t1CGQL9u2el0KmDtow2DbPFV9HT4kM3FFgw12cKTSYJ8dPNcYBjDxSSxXq9+sXbkNkGrE3PaaroBfoIKwUaav/KrklRXpccreFNqcAU6Bffsptq2cNOHq5LTCdi1NBGF0kU0AqzG5G1O88Ykr0JmNZ21F8iD20hD3eL9qZqRgLT8exllww==;uhJ8ve/1289bBrxqI5uNcQ=="
 ---

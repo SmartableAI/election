@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/law-enforcement-ready-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MUEGLJSVYYI6XIEL6E4B546SA4.jpg&w=1440"
         width: 1440
         height: 979
+        isCached: true
+  - title: "Biden launches new Twitter account to build following before taking command of White House @POTUS on Inauguration Day"
+    excerpt: "When Joe Biden is sworn in on Wednesday, he will take command of the @POTUS and @WhiteHouse Twitter accounts in another official transfer of power."
+    publishedDateTime: 2021-01-16T23:59:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2021/01/14/biden-administration-twitter-accounts-transfer-trump-inauguration-day/4168127001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4168127001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4168127001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 102
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/14/USAT/b2aa7210-2606-4ff3-a865-f847930d7c2c-Biden.jpg?auto=webp&crop=6047,3401,x0,y157&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden's inauguration rehearsal postponed over security concerns, Politico says"
     excerpt: "A rehearsal for U.S President-elect Joe Biden's inauguration scheduled for Sunday has been postponed because of security concerns, Politico reported late on Thursday, citing two people with knowledge of the decision."

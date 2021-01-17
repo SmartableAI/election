@@ -7,8 +7,8 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2021/01/15/biden-curre
 webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/15/biden-current-vaccine-rollout-a-dismal-failure/4169071001/"
 type: article
 quality: 105
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -29,6 +29,50 @@ images:
     isCached: true
 
 related:
+  - title: "Biden: We'll 'manage the hell' out of feds' COVID response"
+    excerpt: "President-elect Joe Biden is pledging to boost supplies of coronavirus vaccine and set up new vaccination sites to meet his goal of 100 million shots in 100 days"
+    publishedDateTime: 2021-01-17T00:56:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-unveils-19t-plan-stem-covid-19-steady-75269503"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-unveils-19t-plan-stem-covid-19-steady-75269503"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-unveils-19t-plan-stem-covid-19-steady-75269503"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_8fe513d6b6cd49e6ae4f13509231de33_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden chief of staff Klain says he expects 500,000 U.S. COVID-19 deaths next month"
+    excerpt: "U.S. President-elect Joe Biden's incoming chief of staff Ron Klain said on Friday he expects the United States to hit 500,000 COVID-19 deaths next month."
+    publishedDateTime: 2021-01-15T22:30:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-klain/biden-chief-of-staff-klain-says-he-expects-500000-us-covid-19-deaths-next-month-idUSW1N2II025"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden chief of staff Klain says he expects U.S. COVID-19 deaths to top 500,000 next month"
+    excerpt: "U.S. President-elect Joe Biden's incoming chief of staff Ron Klain said on Friday he expects the United States to hit 500,000 COVID-19 deaths next month."
+    publishedDateTime: 2021-01-15T18:51:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-klain/update-1-biden-chief-of-staff-klain-says-he-expects-us-covid-19-deaths-to-top-500000-next-month-idUSL1N2JQ268"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 96
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547957452&r=LYNXMPEH0E1A0&w=800"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Biden: We'll 'manage the hell' out of feds' COVID response"
     excerpt: "President-elect Joe Biden is pledging to boost supplies of coronavirus vaccine and set up new vaccination sites to meet his goal of 100 million shots in 100 days"
     publishedDateTime: 2021-01-16T05:48:00Z

@@ -111,6 +111,22 @@ related:
         width: 1440
         height: 979
         isCached: true
+  - title: "Biden launches new Twitter account to build following before taking command of White House @POTUS on Inauguration Day"
+    excerpt: "When Joe Biden is sworn in on Wednesday, he will take command of the @POTUS and @WhiteHouse Twitter accounts in another official transfer of power."
+    publishedDateTime: 2021-01-16T23:59:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2021/01/14/biden-administration-twitter-accounts-transfer-trump-inauguration-day/4168127001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4168127001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4168127001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 102
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/14/USAT/b2aa7210-2606-4ff3-a865-f847930d7c2c-Biden.jpg?auto=webp&crop=6047,3401,x0,y157&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden's inauguration rehearsal postponed over security concerns, Politico says"
     excerpt: "A rehearsal for U.S President-elect Joe Biden's inauguration scheduled for Sunday has been postponed because of security concerns, Politico reported late on Thursday, citing two people with knowledge of the decision."
     publishedDateTime: 2021-01-15T13:22:00Z
@@ -158,6 +174,6 @@ related:
         height: 700
         isCached: true
 
-secured: "0qwOzTLUngel3fx4IQDfgryK4DAvyapqv7QS/7wo/CbOvrpPZx3SVtZsTA6Ayd9euHtTJaT7sC3HMPiT/32RpIbSDVpc62LqX9mac+Smw00nHD3wRFZ2+v5d3Fw4vyoI4EL5ZECpk2vu0FqM12sq/jUf0Fbf0EO9jhL6ThEMixBMuGarp5zQeYvn8eWVFj/9d5QebhPAERy297BaSav7V/rYkk5jp+nEfLwiybxYKYso9POkGzBRtixFX9WzRpzSZGBAxK2pZpxHS3az/DWFO1tv2bBPMsQ7E0VJCFkq1eiFdvhNyc7tiIdAL4hSoZEYCEeRnGYB6JmlgNll4sjFITqYKUG7939L64c+5QRfCxU=;M1w92k3TYa5gYbDJrVZlHg=="
+secured: "wg+SMa8QJ0i0by5L0PPBqrtmsTTpUT1qdiI7ko6mgdWPWRBgIWGypmr177+t4UyCE0Odj4nkuzv+2pIuK0y5WDPrYhToELtts0kabOLPeOAIZahV7Rj+TztlswAGZHdwcqVhSJz9pdqam6TyuDknNupbTEWcRCMc1QQFguLqaU/XeEpnsNC6FAOgEmzRGU9KkbOXcQR9Ak0iNkY06Q8fjlo7Uo7EtcHacz93fYCaam7JwcOL9wUSzWR+CaAIAuYlyUp4dt0mIZA/4ljOjonvg0WH6t2dviTmLh+5sqd7SkfNSMgP9tmquMfpFIUxp66rbRJhVg3QO2E4j51V6IBMntPR+YGe1r1rR0oYGl2dNZhgm8KKJ2xQ8ypdKLQ9IY0ZtPors9x2ajlA+nO4l6WyFnwqKusgl3jlKbKk/zLpUW7qjTPEHBHYvosD1TrzyHLXMENKF8rQwhS2TjT3gJRS/7wDg/A5ybKVTTwMCSe5WAjilJ6e8oiLoSsauKvskh/cuZO2FiFuX9IPA9h287NwvA==;u2zs0CiO4OSkhZbYbO36rQ=="
 ---
 

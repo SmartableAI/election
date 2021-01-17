@@ -2,58 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2020-12-22-fierce-pushback-fear-of-new-and-onerous-regulations-from-small-farmers-on-joe-bidens-choice-of-tom-vilsack-for-usda.md",
-      "title": "Fierce pushback, fear of new and onerous regulations from small farmers on Joe Biden’s choice of Tom Vilsack for USDA",
-      "excerpt": "Tom Vilsack faces a steep challenge, with progressive and environmental groups warning that he is too friendly with big industrial agriculture businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-usda-tom-vilsack-farmers-20201221-dzx26ybk3bbvbdq5rd2wdqlwve-story.html",
-      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-usda-tom-vilsack-farmers-20201221-dzx26ybk3bbvbdq5rd2wdqlwve-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/xLvqWsH5LQofg-buDy_LLC5xpC4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OSJOTAXPZZSPKG6PXYDA3FJP4A.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-nw-nyt-usda-tom-vilsack-farmers-20201221-dzx26ybk3bbvbdq5rd2wdqlwve-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-usda-tom-vilsack-farmers-20201221-dzx26ybk3bbvbdq5rd2wdqlwve-story.html?outputType=amp",
-      "publishedDateTime": "2020-12-21T11:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-12-22-trump-administration-weighing-legal-immunity-for-saudi-crown-prince-accused-in-assassination-plot.md",
       "title": "Trump administration weighing legal immunity for Saudi crown prince accused in assassination plot",
       "excerpt": "Riyadh has asked the State Department to shield Mohammed bin Salman from a U.S. lawsuit by a former Saudi intelligence officer who claims he was targeted days after Jamal Khashoggi’s death in 2018.",
@@ -1311,6 +1259,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-20-trump-downplays-massive-cyberattack-while-pompeo-blames-russia.md",
+      "title": "Trump downplays massive cyberattack while Pompeo blames Russia",
+      "excerpt": "President Trump responded to a massive cyberattack on the U.S., downplaying its severity and impact. Meanwhile, Secretary of State Mike Pompeo blamed Russia for the hack, which affected at least seven government agencies and went undetected for months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/trump-downplays-massive-cyberattack-mike-pompeo-blames-russia/",
+      "originalUrl": "https://www.cbsnews.com/video/trump-downplays-massive-cyberattack-mike-pompeo-blames-russia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/19/c4fe8484-65cb-4e80-9c18-bcd7156e46d5/thumbnail/1200x630/c917a8dd6992345c8768d9b7ab63fb51/cbsn-fusion-president-trump-downplays-massive-cyberattack-mike-pompeo-blames-russia-for-breach-thumbnail-612837-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-19T12:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

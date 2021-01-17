@@ -2,62 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-01-14-rep-marjorie-taylor-greene-vows-to-file-articles-of-impeachment-against-biden.md",
-      "title": "Rep. Marjorie Taylor Greene vows to file articles of impeachment against Biden",
-      "excerpt": "Rep. Marjorie Taylor Greene, the newly elected Republican from Georgia, took to Twitter Wednesday to announce that she will be filing articles of impeachment against President-elect Joe Biden shortly after he takes office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHZYP8ueims/georgia-rep-vows-to-file-articles-of-impeachment-against-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHZYP8ueims/georgia-rep-vows-to-file-articles-of-impeachment-against-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/georgia-rep-vows-to-file-articles-of-impeachment-against-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-rep-vows-to-file-articles-of-impeachment-against-biden.amp",
-      "publishedDateTime": "2021-01-13T22:50:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-14-trump-made-a-mistake-in-raucous-rally-speech-tuberville-says.md",
       "title": "Trump ‘made a mistake’ in raucous rally speech, Tuberville says",
       "excerpt": "President Donald Trump “made a mistake” when he ignited thousands of supporters in a rally speech last week that preceded some of those supporters storming the U.S. Capitol in an effort to overturn election results,",
@@ -1367,6 +1311,62 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-trump-says-i-kept-my-promises-as-he-marks-450-miles-of-border-wall-amid-riot-fallout-in-dc.md",
+      "title": "Trump says 'I kept my promises' as he marks 450 miles of border wall, amid riot fallout in DC",
+      "excerpt": "President Trump on Tuesday declared “I kept my promises” on his pledge to build a wall at the southern border, as he marked 450 miles of construction -- as he also tackled fallout from the riot at the Capitol last week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JWEynQUNHa0/trump-promises-450-miles-border-wall",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JWEynQUNHa0/trump-promises-450-miles-border-wall",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21012723647436.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-promises-450-miles-border-wall.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-promises-450-miles-border-wall.amp",
+      "publishedDateTime": "2021-01-12T14:21:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],
