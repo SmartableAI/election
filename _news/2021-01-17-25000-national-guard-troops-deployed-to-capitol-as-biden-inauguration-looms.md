@@ -32,37 +32,85 @@ images:
     isCached: true
 
 related:
-  - title: "Biden unveils ‘bold’ vaccination plan to fix Trump’s ‘dismal failure’"
-    excerpt: "President-elect Biden on Friday unveiled what he touted as a “bold” plan to meet his promised goal of 100 million coronavirus vaccinations by the end of his first 100 days."
-    publishedDateTime: 2021-01-15T23:58:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jjiLw-HbkcA/biden-bold-vaccination-trump-dismal-failure"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-bold-vaccination-trump-dismal-failure.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bold-vaccination-trump-dismal-failure.amp"
+  - title: "Pence urges Biden administration to have ‘eternal vigilance’ in standing up to China"
+    excerpt: "In one of his final public appearances before leaving the White House next  week, Vice President Mike Pence urged the Biden administration to exercise \"eternal vigilance,\" especially when it comes to U.S.-China relations."
+    publishedDateTime: 2021-01-17T01:46:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ocu-XJd7IQ/pence-biden-administration-eternal-vigilance-in-standing-up-to-china"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-biden-administration-eternal-vigilance-in-standing-up-to-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-administration-eternal-vigilance-in-standing-up-to-china.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 190
+    quality: 193
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fed884c-b708-4ec0-9242-0b2b61b4244a/15d1d9b5-6b44-4c76-8142-bdc1d653054b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden tries to go from normalcy to relevancy"
+    excerpt: "Biden found the best way in was to promise to just be cool... Will it be enough?"
+    publishedDateTime: 2021-01-14T20:23:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KN4cyx7tScE/biden-tries-to-go-from-normalcy-to-relevancy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tries-to-go-from-normalcy-to-relevancy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tries-to-go-from-normalcy-to-relevancy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden advised against dismissing all of Trump’s foreign policy achievements in China"
-    excerpt: "A new on U.S. national security says it would be a mistake to ignore the outgoing administration’s foreign policy in the aftermath of last week’s riot in Washington D.C."
-    publishedDateTime: 2021-01-15T01:25:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cezZBRjhmyY/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements"
-    ampWebUrl: "https://www.foxnews.com/politics/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/report-advises-biden-keep-a-close-eye-on-china-and-dont-dismiss-all-of-trumps-foreign-policy-achievements.amp"
+  - title: "Cruz will attend Biden inauguration"
+    excerpt: "Sen. Ted Cruz reportedly will attend President-elect Biden’s inauguration next week."
+    publishedDateTime: 2021-01-15T22:48:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g1axAINfP7A/cruz-will-attend-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-will-attend-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-will-attend-biden-inauguration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 183
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5960cbca-be06-41d8-b7c0-22ec824ae73b/849844c6-d797-457a-bae7-1a00a360bd22/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6233d261-715d-47b1-8ebc-54d58cbfc46d/fe091f4b-3ec3-4106-aa8c-b7f1e4a3dd6f/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Biden inauguration plans prompt closing of National Mall"
+    excerpt: "Follow for the latest updates on Biden's inauguration and the fallout from the Capitol riot. "
+    publishedDateTime: 2021-01-16T06:18:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kSSsjRsXtCo/live-updates-biden-inauguration-1-16-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-16-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inauguration-1-16-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d30a00f7-29be-46f5-a285-0cb62decae44/5efe6061-f58a-47ab-9806-a8dd67a06224/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Twitter introduces @SecondGentleman handle for incoming Biden administration"
+    excerpt: "Twitter is introducing a new handle for the first-ever husband of a vice president as it begins transferring official White House social media accounts to the incoming Biden administration."
+    publishedDateTime: 2021-01-15T15:22:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YqXf6WqX8VM/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "25,000 National Guard troops deployed to Capitol as Biden inauguration looms"
     excerpt: "Officials have boosted the number of National Guard members deployed in Washington, D.C., in the run-up to President-elect Joe Biden's inauguration next week to 25,000, an increase of 25 percent."

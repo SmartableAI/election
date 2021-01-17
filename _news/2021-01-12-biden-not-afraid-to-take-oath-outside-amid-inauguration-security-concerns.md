@@ -48,38 +48,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Cruz will attend Biden inauguration"
-    excerpt: "Sen. Ted Cruz reportedly will attend President-elect Biden’s inauguration next week."
-    publishedDateTime: 2021-01-15T22:48:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g1axAINfP7A/cruz-will-attend-biden-inauguration"
-    ampWebUrl: "https://www.foxnews.com/politics/cruz-will-attend-biden-inauguration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-will-attend-biden-inauguration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6233d261-715d-47b1-8ebc-54d58cbfc46d/fe091f4b-3ec3-4106-aa8c-b7f1e4a3dd6f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Biden inauguration plans prompt closing of National Mall"
-    excerpt: "Follow for the latest updates on Biden's inauguration and the fallout from the Capitol riot. "
-    publishedDateTime: 2021-01-16T06:18:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kSSsjRsXtCo/live-updates-biden-inauguration-1-16-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-16-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inauguration-1-16-21.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d30a00f7-29be-46f5-a285-0cb62decae44/5efe6061-f58a-47ab-9806-a8dd67a06224/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Migrant caravan demands Biden administration 'honors its commitments'"
     excerpt: "A migrant caravan moving from Honduras toward the U.S. border is calling on the incoming Biden administration to honor what it says are \"commitments\" to the migrants moving north, amid fears of a surge at the border when President-elect Joe Biden enters office."
     publishedDateTime: 2021-01-16T19:44:37Z
@@ -127,6 +95,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed13c8e8-7f56-4ed9-8fea-026027498e79/37ee0fa3-df46-444c-b4d0-43eb1ac81ddb/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "GOP senators to attend Biden inauguration Wednesday after objecting to his Electoral College win"
+    excerpt: "At least half of the eight GOP senators who voted against President-elect Joe Biden's Electoral College victory will be attending the inauguration Wednesday in Washington to support the peaceful transfer of power, Fox News has learned. "
+    publishedDateTime: 2021-01-17T01:08:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qz8NO4WJtJQ/gop-senators-attend-biden-inauguration-electoral-college-win"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-attend-biden-inauguration-electoral-college-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-attend-biden-inauguration-electoral-college-win.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/jULY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Live Updates: Biden inaugural rehearsal rescheduled as security preps in high gear for inauguration"
     excerpt: "A planned rehearsal of the inauguration, initially scheduled for Sunday, has been moved to Monday as event planners continue to make adjustments in response to the Jan. 6 riot at the Capitol, a report said."

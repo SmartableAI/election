@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-17-politics-updates-horrified-loews-wont-host-hawley-fundraiser-biden-outlines-orders-planned-for-first-10-days.md",
+      "title": "Politics updates: 'Horrified' Loews won't host Hawley fundraiser; Biden outlines orders planned for first 10 days",
+      "excerpt": "\"We are horrified and opposed to the events at the Capitol and all who supported and incited the actions,\" the hotel chain said in a statement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/16/politics-updates-joe-biden-inauguration-donald-trump-impeachment/4188126001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/16/politics-updates-joe-biden-inauguration-donald-trump-impeachment/4188126001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/08/USAT/676a28d8-30ca-4a07-b18d-b2610251ec17-29701ba5-8e59-4c85-a41c-fda5046ede39-AP21006849368171.jpg?auto=webp&crop=2499,1406,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4188126001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4188126001",
+      "publishedDateTime": "2021-01-16T18:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-17-biden-well-manage-the-hell-out-of-feds-covid-response.md",
       "title": "Biden: We'll 'manage the hell' out of feds' COVID response",
       "excerpt": "President-elect Joe Biden is pledging to boost supplies of coronavirus vaccine and set up new vaccination sites to meet his goal of 100 million shots in 100 days",
@@ -1478,58 +1530,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-biden-inauguration-events-to-include-memorial-for-covid-19-victims.md",
-      "title": "Biden inauguration events to include memorial for COVID-19 victims",
-      "excerpt": "President-elect Joe Biden plans a lighting ceremony at the Lincoln Memorial Reflecting Pool to honor COVID-19 victims the day before his swearing-in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 605,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/0aaa9dc/2147483647/strip/true/crop/840x549+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2F7a%2F5217b0d3442c8a0e32ee818e8562%2Fvaccine.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true",
-      "publishedDateTime": "2020-12-31T08:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

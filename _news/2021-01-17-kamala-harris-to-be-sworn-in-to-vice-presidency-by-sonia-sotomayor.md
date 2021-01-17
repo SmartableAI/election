@@ -627,6 +627,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "U.S. state capitals, Washington on alert for possible pro-Trump armed protests"
+    excerpt: "Ten days after rioters breached the U.S. Capitol in a deadly attack that stunned the world, cities nationwide were girding for a potential new wave of violent protests over the weekend, erecting barriers and deploying thousands of National Guard troops."
+    publishedDateTime: 2021-01-17T01:56:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/us-state-capitals-washington-on-alert-for-possible-pro-trump-armed-protests-idUSKBN29L0CS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548030531&r=LYNXMPEH0F09U&w=800"
+        width: 800
+        height: 519
+        isCached: true
   - title: "What’s Pence’s Next Move? VP's Battle With Trump Is Unprecedented"
     excerpt: "Pence has made no public statement about his split with the president, and so far sources within the White House have said it is unlikely that the vice president would invoke the 25th Amendment to remove Trump from office,"
     publishedDateTime: 2021-01-08T16:58:00Z
@@ -1053,6 +1067,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "YUd3nQTt2c7X/jG1MesAR7RfAemeZLMGcbGoGG4xs9ub4mbf/zngzZ5O2FWdA/RKxF/C5dlDxVo/kAKPMWKYSZwA9AxMoviyQfULVRI4+HYcylB0lmrQraXn7RpxWD9nNRKkE9O6/WMna/6UhK7wIiAifO+ihrAOuWqTPAf9ZW0mEtHjFWnghupFJlepOOcca86JbNDVXWTgOEy4zQfAZLUsV2isXjIGFTq2hkKHWGxUANUBWD5LafWj8mLYtUy6BFtxmh5hJL+0Nyxzr7d4/OshiJNmex5ZK+9IXGaN3FL/rjaL7+ExBGv8FajeKFfMcBFfSIVQnvzmo0LRq3laTTbD5A+tW2RXrRVHho4GkDc=;51GG2fqG9HvvUVwLLCsYDA=="
+secured: "QAk6IA1CwuJaqbhL6N+U2h6lAprasVa83O303npcWxFsztEhCFFbidEyEFka6IAhn/r8xa1IRMzMWYCy8ob+k0gM053J8Cu4yltN5RXSAhEMZotqc1T6JvIHFd60Dd+CjN15AC1ifr6EUwifabSmCtTyidV6PYXa2t7/C7KzUF3jnIDzsC8QPxHgpScKV62D9xSpp1EJ5P0U7cE2Ge/YQ2DuzYfn2UR+AEoVrVibYk5Q/k4YIuzhxfgogiVjZK/Gl/cmzU8gI8xqYm//9hMi1KoZt35AOsiS+fzB6tMQVshlO4SJjt9HjYeIVlyW9u4CcjhaKlEb/G6RxWlPRW1NO6/rS0IUtp9M0AVtaTv+TSutM/CAjzMn7zvqzcB0YklxtUUaJxFiY7+Pr7W3+FMnE9moFp/WsnqyQUep7RANplVYHOHxuB2Qtk7h2noeTBjQ3Y7UU8dS8cyOQcQ7oRwUEAwGdLK/UpwruVP5fDjKw5+An4u7k/9niGMrW6p7ubxrFcHY3zIA9gVNHHSmIQV64g==;bDx5h+zYU132CzVmHD4gxA=="
 ---
 

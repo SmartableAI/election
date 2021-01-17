@@ -2,9 +2,9 @@
 category: news
 title: "U.S. capitals on edge ahead of possible pro-Trump armed protests"
 excerpt: "Ten days after rioters breached the U.S. Capitol in a deadly attack that stunned the world, cities nationwide were girding for a potential new wave of violent protests over the weekend, erecting barriers and deploying thousands of National Guard troops."
-publishedDateTime: 2021-01-16T22:10:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump-protests/u-s-capitals-on-edge-ahead-of-possible-pro-trump-armed-protests-idUSKBN29L0DA"
-webUrl: "https://www.reuters.com/article/uk-usa-trump-protests/u-s-capitals-on-edge-ahead-of-possible-pro-trump-armed-protests-idUSKBN29L0DA"
+publishedDateTime: 2021-01-17T02:59:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-protests/us-capitals-on-edge-ahead-of-possible-pro-trump-armed-protests-idUSKBN29L0CS"
+webUrl: "https://www.reuters.com/article/us-usa-trump-protests/us-capitals-on-edge-ahead-of-possible-pro-trump-armed-protests-idUSKBN29L0CS"
 type: article
 quality: 105
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548055353&r=LYNXMPEH0F0IM&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548030531&r=LYNXMPEH0F09U&w=800"
     width: 800
-    height: 533
+    height: 519
     isCached: true
 
 related:
@@ -255,6 +255,6 @@ related:
         height: 804
         isCached: true
 
-secured: "dj9Nz/MbuV7qgVtZepzLPY3gkub1UJWuZosGcTgruf5ip653E8jV9HN/Uwojt5/adYeW7gxpXsUdKooLmooWCulhkzETMv6+S3vCfhYoDR6LW1jlmgKZudtIxABXMA3P1kYfWAKb4/Wyz/JG/60FB2ApY6NtgURUc6pYxu8AgsfrFmU93oedMwXH/CoZkS0Xbr9Wr+zZU0Qpkz0e6txgn9ciXG5IUIo8gpez7b3FuXcXdH2vEIrGUgEZHMPfZ7M9Wgxk4gnz7wGqpSeX029eYW5sHN4Zp4/97du5n+VOvb1S2G/qrr390sa8QNU7Q2sYnbyC5Wz/Tbu6tb4nDapdVOOtwuMkgOKyj6tq1NI2kRE=;cgL7VELqJA+Cghrw0fM0Xw=="
+secured: "8L320ZQWa3DjKJR5HpiwEToIlNnlXKfIqMrHmQ7/ZbU2b+4N/og2TZ/UsG1+t2lp77tbA7UPBlhAmpeAeJSnjDhQw5wCjwWAY2guKoRtIAD8kfV3CdTKUJQa6CfHwaVQnsN8aN2FS8IlefRfOcP5m2bd04PxFJWkWRFouf6j8ohFodl9+QzhiQQR9mN9Ni8NH//uRxjfIU2i40iE0ho7VUqV0eQ7YY7FFMfUKjnC2gb5cctUMM9O093JkbFIbZyOYdGpEPy77z5GJZ9wp/gB029cWdepLIeU7KFerZplRg9W4sOy0st5UAdlAH1BtOrDevou+czDO+IsaStZsU2o4yiO1/ZiNNkFbMy0I1TlDt0=;TIfMYpW9AnIL289JcKRefA=="
 ---
 

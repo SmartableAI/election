@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/twitter-to-transfer-official-accoun
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman.amp"
 type: article
 quality: 172
-heat: 192
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,117 @@ images:
     isCached: true
 
 related:
-  - title: "Biden planning several executive orders on first day in office, including rescinding travel ban"
-    excerpt: "President-elect Biden is planning to sign several executive orders on day one of his presidency, incoming chief of staff Ron Klain announced in a statement. "
-    publishedDateTime: 2021-01-16T23:46:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/myxK8EVwJc8/biden-executive-order-first-day-in-office-rescinding-travel-ban"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-executive-order-first-day-in-office-rescinding-travel-ban.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-order-first-day-in-office-rescinding-travel-ban.amp"
+  - title: "Pence urges Biden administration to have ‘eternal vigilance’ in standing up to China"
+    excerpt: "In one of his final public appearances before leaving the White House next  week, Vice President Mike Pence urged the Biden administration to exercise \"eternal vigilance,\" especially when it comes to U.S.-China relations."
+    publishedDateTime: 2021-01-17T01:46:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ocu-XJd7IQ/pence-biden-administration-eternal-vigilance-in-standing-up-to-china"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-biden-administration-eternal-vigilance-in-standing-up-to-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-administration-eternal-vigilance-in-standing-up-to-china.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 193
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Biden-.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fed884c-b708-4ec0-9242-0b2b61b4244a/15d1d9b5-6b44-4c76-8142-bdc1d653054b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden tries to go from normalcy to relevancy"
+    excerpt: "Biden found the best way in was to promise to just be cool... Will it be enough?"
+    publishedDateTime: 2021-01-14T20:23:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KN4cyx7tScE/biden-tries-to-go-from-normalcy-to-relevancy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tries-to-go-from-normalcy-to-relevancy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tries-to-go-from-normalcy-to-relevancy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Cruz will attend Biden inauguration"
+    excerpt: "Sen. Ted Cruz reportedly will attend President-elect Biden’s inauguration next week."
+    publishedDateTime: 2021-01-15T22:48:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g1axAINfP7A/cruz-will-attend-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-will-attend-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-will-attend-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6233d261-715d-47b1-8ebc-54d58cbfc46d/fe091f4b-3ec3-4106-aa8c-b7f1e4a3dd6f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Biden inauguration plans prompt closing of National Mall"
+    excerpt: "Follow for the latest updates on Biden's inauguration and the fallout from the Capitol riot. "
+    publishedDateTime: 2021-01-16T06:18:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kSSsjRsXtCo/live-updates-biden-inauguration-1-16-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-16-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inauguration-1-16-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d30a00f7-29be-46f5-a285-0cb62decae44/5efe6061-f58a-47ab-9806-a8dd67a06224/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "25,000 National Guard troops deployed to Capitol as Biden inauguration looms"
+    excerpt: "Officials have boosted the number of National Guard members deployed in Washington, D.C., in the run-up to President-elect Joe Biden's inauguration next week to 25,000, an increase of 25 percent."
+    publishedDateTime: 2021-01-16T18:26:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fA3KXvWYBnk/25000-national-guard-troops-approved-to-protect-capitol-ahead-of-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/25000-national-guard-troops-approved-to-protect-capitol-ahead-of-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/25000-national-guard-troops-approved-to-protect-capitol-ahead-of-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump reportedly to leave White House the morning of Biden’s inauguration"
+    excerpt: "President Trump is set to officially depart.C. Wednesday morning, reports said. That same day Joe Biden will take the oath of office and be officially sworn in as th"
+    publishedDateTime: 2021-01-16T18:55:00Z
+    webUrl: "https://nypost.com/2021/01/16/trump-to-leave-dc-the-morning-of-bidens-inauguration-reports/"
+    ampWebUrl: "https://nypost.com/2021/01/16/trump-to-leave-dc-the-morning-of-bidens-inauguration-reports/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/16/trump-to-leave-dc-the-morning-of-bidens-inauguration-reports/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 149
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-9.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "25,000 National Guard troops deployed to Capitol as Biden inauguration looms"
+    excerpt: "Officials have boosted the number of National Guard members deployed in Washington, D.C., in the run-up to President-elect Joe Biden's inauguration next week to 25,000, an increase of 25 percent."
+    publishedDateTime: 2021-01-16T18:30:00Z
+    webUrl: "https://www.foxnews.com/politics/25000-national-guard-troops-approved-to-protect-capitol-ahead-of-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/25000-national-guard-troops-approved-to-protect-capitol-ahead-of-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/25000-national-guard-troops-approved-to-protect-capitol-ahead-of-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21014710834755.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "AOhjcuR1lawqhxtDi3U6cvZ2B/R5sNMqL07A4VwFFEpWkRgknCqyg5Hxif5vy28B5jB/QxO3SSZMJRhzIDiyRVMhNwlBol6Lhr3TCGlzjMEadRK0U6bsCqDbDAmryszfZb6bFug2ykrM2W8frw89oRa6SofksOcPxEriC8ef3anOwHOwZkxRdzk1CZ+IgiEw9x4Cg6MjZ+wKS78usduUmSlInb5b9+uaWwcJLIMnAeW/uFVXOyiH4t6LVJy1TjOy0dw02Ar89h39rT+sS8CrQrfKtqdq2atCyhEt/14AUanBKskTb6qSOFjaBr8CSwBGJFzLKzdc+1LgRJEoa0xr9QOdmmGq2Tww2V9BBHH7inQ=;kBxma3MB0kW5CmfD03CqLQ=="

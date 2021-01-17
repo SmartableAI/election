@@ -2,6 +2,227 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-16-proud-boys-intended-to-kill-mike-pence-and-nancy-pelosi-fbi-witness-says.md",
+      "title": "Proud Boys Intended To Kill Mike Pence and Nancy Pelosi, FBI Witness Says",
+      "excerpt": "A group allegedly involved in the violent breach of the U.S. Capitol last week, including at least one self-proclaimed member of the Proud Boys, said that \"they would have killed [Vice President] Mike Pence if given the chance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/proud-boys-intended-kill-mike-pence-nancy-pelosi-fbi-witness-says-1562062",
+      "originalUrl": "https://www.newsweek.com/proud-boys-intended-kill-mike-pence-nancy-pelosi-fbi-witness-says-1562062",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1709898/proud-boys-pence-pelosi-capitol-riots.jpg",
+          "width": 2500,
+          "height": 1705,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/proud-boys-intended-kill-mike-pence-nancy-pelosi-fbi-witness-says-1562062?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/proud-boys-intended-kill-mike-pence-nancy-pelosi-fbi-witness-says-1562062?amp=1",
+      "publishedDateTime": "2021-01-15T15:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-what-the-hell-is-wrong-with-them-biden-rips-republicans-for-refusing-to-don-masks-during-siege.md",
+      "title": "'What the hell is wrong with them?': Biden rips Republicans for refusing to don masks during siege",
+      "excerpt": "President-elect Joe Biden is taking aim at some Republican members of Congress who refused to wear masks while huddling in secure rooms last week during the storming of the Capitol.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Toh_TUvjSTI/biden-slams-congressional-republicans-for-refusing-to-wear-masks-amid-capitol-siege",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Toh_TUvjSTI/biden-slams-congressional-republicans-for-refusing-to-wear-masks-amid-capitol-siege",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-slams-congressional-republicans-for-refusing-to-wear-masks-amid-capitol-siege.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-slams-congressional-republicans-for-refusing-to-wear-masks-amid-capitol-siege.amp",
+      "publishedDateTime": "2021-01-15T15:16:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-fbi-agent-in-trump-russias-request-for-validation-of-steele-reporting-denied-left-crossfire-hurricane.md",
+      "title": "FBI agent in Trump-Russia's request for 'validation' of Steele reporting denied, left Crossfire Hurricane",
+      "excerpt": "An agent involved in the FBI’s original Trump-Russia case left the Crossfire Hurricane team amid a “professional disagreement” with Bill Priestap, after the former assistant director of counterintelligence denied his request for an “enhanced validation review” of Christopher Steele’s reporting. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OUwAiniZSNY/fbi-agent-in-trump-russias-request-for-validation-of-steele-reporting-denied-left-crossfire-hurricane",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OUwAiniZSNY/fbi-agent-in-trump-russias-request-for-validation-of-steele-reporting-denied-left-crossfire-hurricane",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/fbi-agent-in-trump-russias-request-for-validation-of-steele-reporting-denied-left-crossfire-hurricane.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-agent-in-trump-russias-request-for-validation-of-steele-reporting-denied-left-crossfire-hurricane.amp",
+      "publishedDateTime": "2021-01-15T14:41:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-banks-rips-cnns-lemon-for-slam-on-trump-supporters-they-want-to-cancel-all-of-us-with-conservative-beliefs.md",
+      "title": "Banks rips CNN's Lemon for slam on Trump supporters: 'They want to cancel all of us with conservative beliefs'",
+      "excerpt": "Ind., pushed back Friday on CNN anchor Don Lemon's claim that people who voted for President Trump are on the side of Nazis and the Ku Klux Klan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/banks-rips-lemon-trump-supporters-cancel-conservative-beliefs",
+      "originalUrl": "https://www.foxnews.com/media/banks-rips-lemon-trump-supporters-cancel-conservative-beliefs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/banks-rips-lemon-trump-supporters-cancel-conservative-beliefs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/banks-rips-lemon-trump-supporters-cancel-conservative-beliefs.amp",
+      "publishedDateTime": "2021-01-15T14:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-gop-sours-on-trump-but-many-cling-to-election-hoax.md",
       "title": "GOP sours on Trump, but many cling to election hoax",
       "excerpt": "As Republicans begin the process of moving on, one number stands out among their attitudes about this presidency...",
@@ -66,7 +287,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1538,
+      "heat": 1558,
       "tags": null,
       "images": [
         {
@@ -727,62 +948,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-15-twitter-introduces-secondgentleman-handle-for-incoming-biden-administration.md",
-      "title": "Twitter introduces @SecondGentleman handle for incoming Biden administration",
-      "excerpt": "Twitter is introducing a new handle for the first-ever husband of a vice president as it begins transferring official White House social media accounts to the incoming Biden administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YqXf6WqX8VM/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YqXf6WqX8VM/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman.amp",
-      "publishedDateTime": "2021-01-15T07:22:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-15-seema-verma-says-she-has-no-regrets-about-her-healthcare-tenure-in-the-trump-administration-even-after-much-backlash.md",
       "title": "Seema Verma says she has 'no regrets' about her healthcare tenure in the Trump administration even after much backlash",
       "excerpt": "Some of Verma's policy accomplishments won't survive in a Biden administration and others are tied up in legal battles.",
@@ -1176,7 +1341,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1217,167 +1382,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-trump-extends-safeguard-tariffs-on-large-washer-imports-for-two-years.md",
-      "title": "Trump extends 'safeguard' tariffs on large washer imports for two years",
-      "excerpt": "President Donald Trump on Thursday extended \"safeguard\" tariffs on large residential washers for another two years in a move that further shields domestic manufacturers such as Whirlpool Corp from import competition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trade-washers/trump-extends-safeguard-tariffs-on-large-washer-imports-for-two-years-idUSKBN29J2SD?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trade-washers/trump-extends-safeguard-tariffs-on-large-washer-imports-for-two-years-idUSKBN29J2SD?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547836161&r=LYNXMPEH0D1KA&w=800",
-          "width": 800,
-          "height": 564,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T20:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-as-kamala-harris-makes-history-twitter-creates-secondgentleman-account.md",
-      "title": "As Kamala Harris Makes History, Twitter Creates @SecondGentleman Account",
-      "excerpt": "The microblogging platform will archive the Trump Administration's tweets, but a major dispute over Donald Trump's followers remains between the platform and President-elect Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818",
-      "originalUrl": "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 304,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1708768/secondgentleman-douglas-emhoff-twitter-account-kamala-harris.jpg",
-          "width": 2500,
-          "height": 1787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818?amp=1",
-      "publishedDateTime": "2021-01-14T20:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-pence-makes-surprise-visit-to-capitol-to-thank-national-guard.md",
-      "title": "Pence makes surprise visit to Capitol to thank National Guard",
-      "excerpt": "Vice President Mike Pence made a surprise visit to the United States Capitol to greet National Guard members and thank them for their service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/politics/2021/01/15/mike-pence-visits-national-guard-ctn-vpx.cnn",
-      "originalUrl": "https://www.cnn.com/videos/politics/2021/01/15/mike-pence-visits-national-guard-ctn-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210114232803-mike-pence-visits-national-guard-vpx-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/01/15/mike-pence-visits-national-guard-ctn-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/15/mike-pence-visits-national-guard-ctn-vpx.cnn",
-      "publishedDateTime": "2021-01-14T20:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-william-burns-cia-director.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-william-burns-cia-director.amp"
 type: article
 quality: 175
-heat: 375
+heat: 355
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden tries to go from normalcy to relevancy"
-    excerpt: "Biden found the best way in was to promise to just be cool... Will it be enough?"
-    publishedDateTime: 2021-01-14T20:23:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KN4cyx7tScE/biden-tries-to-go-from-normalcy-to-relevancy"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-tries-to-go-from-normalcy-to-relevancy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tries-to-go-from-normalcy-to-relevancy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden picks Obama veterans for key State Department posts"
     excerpt: "President-elect Joe Biden announced Saturday that he will nominate two Obama administration veterans to key State Department posts."
     publishedDateTime: 2021-01-16T15:35:39Z

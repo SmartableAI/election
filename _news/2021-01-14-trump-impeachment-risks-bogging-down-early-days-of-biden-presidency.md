@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/14/trump-impeachment-bi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/14/trump-impeachment-biden-administration-senate-trial"
 type: article
 quality: 140
-heat: 3640
+heat: 3680
 published: true
 
 provider:
@@ -814,6 +814,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2VTUAGSXI4I6XIEL6E4B546SA4.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Biden to prioritize legal status for millions of immigrants"
+    excerpt: "President-elect Joe Biden will announce legislation his first day in office that provides a path to citizenship for millions of immigrants in the United States illegally"
+    publishedDateTime: 2021-01-17T01:27:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-to-prioritize-legal-status-for-millions-of-immigrants/2021/01/16/04079a8a-5862-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-prioritize-legal-status-for-millions-of-immigrants/2021/01/16/04079a8a-5862-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-prioritize-legal-status-for-millions-of-immigrants/2021/01/16/04079a8a-5862-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Federal prisons on lockdown in run-up to Biden inauguration"
     excerpt: "Federal prisons across the U.S. have been placed on lockdown as officials aim to quell any potential violence that could arise in the run-up to President-elect Joe Biden’s inauguration on Wednesday"
@@ -1994,6 +2010,20 @@ related:
     quality: 88
     images:
       - url: "https://i.insider.com/600262d2660f6c0018349926?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump could go full MAGA with a presidential library that glorifies his presidency and attacks his enemies"
+    excerpt: "It's not hard to image Trump's presidential library will burnish his tarnished legacy after he leaves office. Don't expect that to go smoothly."
+    publishedDateTime: 2021-01-17T02:51:00Z
+    webUrl: "https://www.businessinsider.com/trump-presidential-library-museum-location-national-archives-records-documents-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/6000cf5aa81ea100188db5a2?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

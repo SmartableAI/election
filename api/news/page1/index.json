@@ -2,6 +2,214 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-17-politics-updates-horrified-loews-wont-host-hawley-fundraiser-biden-outlines-orders-planned-for-first-10-days.md",
+      "title": "Politics updates: 'Horrified' Loews won't host Hawley fundraiser; Biden outlines orders planned for first 10 days",
+      "excerpt": "\"We are horrified and opposed to the events at the Capitol and all who supported and incited the actions,\" the hotel chain said in a statement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/16/politics-updates-joe-biden-inauguration-donald-trump-impeachment/4188126001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/16/politics-updates-joe-biden-inauguration-donald-trump-impeachment/4188126001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/08/USAT/676a28d8-30ca-4a07-b18d-b2610251ec17-29701ba5-8e59-4c85-a41c-fda5046ede39-AP21006849368171.jpg?auto=webp&crop=2499,1406,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4188126001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4188126001",
+      "publishedDateTime": "2021-01-16T18:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-17-dave-bautista-offers-20000-to-find-person-who-wrote-trump-on-manatee.md",
+      "title": "Dave Bautista offers $20,000 to find person who wrote ‘TRUMP’ on manatee",
+      "excerpt": "Dave Bautista offered $20,000 to whoever finds the person who scrawled “TRUMP” on the back of a manatee in Florida. “If there’s not already a reward for the arrest and conviction of the low life scummy MAGATs that did this I’ll throw in $20,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nydailynews.com/snyde/ny-dave-bautista-trump-manatee-20210117-ie3hnncygvbj3beylq5nh7cubi-story.html",
+      "originalUrl": "https://www.nydailynews.com/snyde/ny-dave-bautista-trump-manatee-20210117-ie3hnncygvbj3beylq5nh7cubi-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nydailynews.com/resizer/JoIKjftXK2mIo19koqWa6v8EnGw=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/HJN2PKZIONCBFG2OHIFWDX7I64.JPG",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nydailynews.com/snyde/ny-dave-bautista-trump-manatee-20210117-ie3hnncygvbj3beylq5nh7cubi-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/snyde/ny-dave-bautista-trump-manatee-20210117-ie3hnncygvbj3beylq5nh7cubi-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-16T18:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-17-pence-urges-biden-administration-to-have-eternal-vigilance-in-standing-up-to-china.md",
+      "title": "Pence urges Biden administration to have ‘eternal vigilance’ in standing up to China",
+      "excerpt": "In one of his final public appearances before leaving the White House next  week, Vice President Mike Pence urged the Biden administration to exercise \"eternal vigilance,\" especially when it comes to U.S.-China relations.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ocu-XJd7IQ/pence-biden-administration-eternal-vigilance-in-standing-up-to-china",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ocu-XJd7IQ/pence-biden-administration-eternal-vigilance-in-standing-up-to-china",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 333,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fed884c-b708-4ec0-9242-0b2b61b4244a/15d1d9b5-6b44-4c76-8142-bdc1d653054b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-biden-administration-eternal-vigilance-in-standing-up-to-china.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-administration-eternal-vigilance-in-standing-up-to-china.amp",
+      "publishedDateTime": "2021-01-16T17:46:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-17-aoc-says-she-disagrees-with-bidens-optimistic-view-of-gop.md",
+      "title": "AOC says she disagrees with Biden's 'optimistic' view of GOP",
+      "excerpt": "Rep. Alexandria Ocasio-Cortez said she disagrees with President-elect Biden on his “optimistic” view of the GOP. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4NY2J01tsM/aoc-disagrees-bidens-optimistic-view-gop",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4NY2J01tsM/aoc-disagrees-bidens-optimistic-view-gop",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AOC-Getty.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-disagrees-bidens-optimistic-view-gop.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-disagrees-bidens-optimistic-view-gop.amp",
+      "publishedDateTime": "2021-01-16T17:24:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-17-biden-well-manage-the-hell-out-of-feds-covid-response.md",
       "title": "Biden: We'll 'manage the hell' out of feds' COVID response",
       "excerpt": "President-elect Joe Biden is pledging to boost supplies of coronavirus vaccine and set up new vaccination sites to meet his goal of 100 million shots in 100 days",
@@ -1076,7 +1284,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 270,
+      "heat": 210,
       "tags": null,
       "images": [
         {
@@ -1116,227 +1324,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-proud-boys-intended-to-kill-mike-pence-and-nancy-pelosi-fbi-witness-says.md",
-      "title": "Proud Boys Intended To Kill Mike Pence and Nancy Pelosi, FBI Witness Says",
-      "excerpt": "A group allegedly involved in the violent breach of the U.S. Capitol last week, including at least one self-proclaimed member of the Proud Boys, said that \"they would have killed [Vice President] Mike Pence if given the chance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/proud-boys-intended-kill-mike-pence-nancy-pelosi-fbi-witness-says-1562062",
-      "originalUrl": "https://www.newsweek.com/proud-boys-intended-kill-mike-pence-nancy-pelosi-fbi-witness-says-1562062",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1709898/proud-boys-pence-pelosi-capitol-riots.jpg",
-          "width": 2500,
-          "height": 1705,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/proud-boys-intended-kill-mike-pence-nancy-pelosi-fbi-witness-says-1562062?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/proud-boys-intended-kill-mike-pence-nancy-pelosi-fbi-witness-says-1562062?amp=1",
-      "publishedDateTime": "2021-01-15T15:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-what-the-hell-is-wrong-with-them-biden-rips-republicans-for-refusing-to-don-masks-during-siege.md",
-      "title": "'What the hell is wrong with them?': Biden rips Republicans for refusing to don masks during siege",
-      "excerpt": "President-elect Joe Biden is taking aim at some Republican members of Congress who refused to wear masks while huddling in secure rooms last week during the storming of the Capitol.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Toh_TUvjSTI/biden-slams-congressional-republicans-for-refusing-to-wear-masks-amid-capitol-siege",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Toh_TUvjSTI/biden-slams-congressional-republicans-for-refusing-to-wear-masks-amid-capitol-siege",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-slams-congressional-republicans-for-refusing-to-wear-masks-amid-capitol-siege.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-slams-congressional-republicans-for-refusing-to-wear-masks-amid-capitol-siege.amp",
-      "publishedDateTime": "2021-01-15T15:16:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-fbi-agent-in-trump-russias-request-for-validation-of-steele-reporting-denied-left-crossfire-hurricane.md",
-      "title": "FBI agent in Trump-Russia's request for 'validation' of Steele reporting denied, left Crossfire Hurricane",
-      "excerpt": "An agent involved in the FBI’s original Trump-Russia case left the Crossfire Hurricane team amid a “professional disagreement” with Bill Priestap, after the former assistant director of counterintelligence denied his request for an “enhanced validation review” of Christopher Steele’s reporting. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OUwAiniZSNY/fbi-agent-in-trump-russias-request-for-validation-of-steele-reporting-denied-left-crossfire-hurricane",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OUwAiniZSNY/fbi-agent-in-trump-russias-request-for-validation-of-steele-reporting-denied-left-crossfire-hurricane",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fbi-agent-in-trump-russias-request-for-validation-of-steele-reporting-denied-left-crossfire-hurricane.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-agent-in-trump-russias-request-for-validation-of-steele-reporting-denied-left-crossfire-hurricane.amp",
-      "publishedDateTime": "2021-01-15T14:41:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-banks-rips-cnns-lemon-for-slam-on-trump-supporters-they-want-to-cancel-all-of-us-with-conservative-beliefs.md",
-      "title": "Banks rips CNN's Lemon for slam on Trump supporters: 'They want to cancel all of us with conservative beliefs'",
-      "excerpt": "Ind., pushed back Friday on CNN anchor Don Lemon's claim that people who voted for President Trump are on the side of Nazis and the Ku Klux Klan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/banks-rips-lemon-trump-supporters-cancel-conservative-beliefs",
-      "originalUrl": "https://www.foxnews.com/media/banks-rips-lemon-trump-supporters-cancel-conservative-beliefs",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/banks-rips-lemon-trump-supporters-cancel-conservative-beliefs.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/banks-rips-lemon-trump-supporters-cancel-conservative-beliefs.amp",
-      "publishedDateTime": "2021-01-15T14:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

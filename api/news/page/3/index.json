@@ -2,6 +2,167 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-15-trump-extends-safeguard-tariffs-on-large-washer-imports-for-two-years.md",
+      "title": "Trump extends 'safeguard' tariffs on large washer imports for two years",
+      "excerpt": "President Donald Trump on Thursday extended \"safeguard\" tariffs on large residential washers for another two years in a move that further shields domestic manufacturers such as Whirlpool Corp from import competition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trade-washers/trump-extends-safeguard-tariffs-on-large-washer-imports-for-two-years-idUSKBN29J2SD?edition-redirect=ca",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trade-washers/trump-extends-safeguard-tariffs-on-large-washer-imports-for-two-years-idUSKBN29J2SD?edition-redirect=ca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547836161&r=LYNXMPEH0D1KA&w=800",
+          "width": 800,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-14T20:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-as-kamala-harris-makes-history-twitter-creates-secondgentleman-account.md",
+      "title": "As Kamala Harris Makes History, Twitter Creates @SecondGentleman Account",
+      "excerpt": "The microblogging platform will archive the Trump Administration's tweets, but a major dispute over Donald Trump's followers remains between the platform and President-elect Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818",
+      "originalUrl": "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 304,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1708768/secondgentleman-douglas-emhoff-twitter-account-kamala-harris.jpg",
+          "width": 2500,
+          "height": 1787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818?amp=1",
+      "publishedDateTime": "2021-01-14T20:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-pence-makes-surprise-visit-to-capitol-to-thank-national-guard.md",
+      "title": "Pence makes surprise visit to Capitol to thank National Guard",
+      "excerpt": "Vice President Mike Pence made a surprise visit to the United States Capitol to greet National Guard members and thank them for their service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/politics/2021/01/15/mike-pence-visits-national-guard-ctn-vpx.cnn",
+      "originalUrl": "https://www.cnn.com/videos/politics/2021/01/15/mike-pence-visits-national-guard-ctn-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210114232803-mike-pence-visits-national-guard-vpx-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/01/15/mike-pence-visits-national-guard-ctn-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/15/mike-pence-visits-national-guard-ctn-vpx.cnn",
+      "publishedDateTime": "2021-01-14T20:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-biden-inaugural-rehearsal-rescheduled-amtrak-trip-canceled-over-security-concerns-report.md",
       "title": "Biden inaugural rehearsal rescheduled, Amtrak trip canceled over security concerns: report",
       "excerpt": "Security concerns in Washington, D.C., ahead of the scheduled inauguration of President-elect Joe Biden have resulted in some scheduling changes, Biden’s staff said Thursday, according to a report.",
@@ -14,7 +175,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1076,7 +1237,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/14/trump-impeachment-biden-administration-senate-trial",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3640,
+      "heat": 3680,
       "tags": null,
       "images": [
         {
@@ -1169,175 +1330,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-conversion-therapy-ban-introduced-in-mike-pences-home-state-of-indiana.md",
-      "title": "Conversion therapy ban introduced in Mike Pence's home state of Indiana",
-      "excerpt": "Indiana legislators this week introduced a measure that would ban conversion therapy for minors by licensed counselors. Senate Bill 32, authored by Democratic state Sen. J.D. Ford, would prohibit efforts to change the sexual orientation or gender identity of anyone younger than 18.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/feature/nbc-out/conversion-therapy-ban-introduced-mike-pence-s-home-state-indiana-n1254144",
-      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/conversion-therapy-ban-introduced-mike-pence-s-home-state-indiana-n1254144",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2021_02/3441863/210113-one-time-use-only-senator-jd-ford-se-244p_5cf7ffeaa5465c7123bf097a9eb6079a.jpg",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1254144",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254144",
-      "publishedDateTime": "2021-01-14T01:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-biden-tweets-about-impeachment-vote-reminds-senate-of-other-urgent-business.md",
-      "title": "Biden tweets about impeachment vote, reminds Senate of 'other urgent business'",
-      "excerpt": "After the House voted to impeach President Trump Wednesday, President-elect Biden said the chamber had held the president \"accountable\" and asked the Senate to do their \"constitutional responsibilities\" on impeachment – along with \"other urgent business.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_e4Cjf8I954/biden-tweets-about-impeachment-vote-reminds-senate-of-other-urgent-business",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_e4Cjf8I954/biden-tweets-about-impeachment-vote-reminds-senate-of-other-urgent-business",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/842741ec-292f-437d-afc7-2d5141a1b15d/b57fc550-ecbd-46cc-9939-67655ddecf5f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-tweets-about-impeachment-vote-reminds-senate-of-other-urgent-business.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tweets-about-impeachment-vote-reminds-senate-of-other-urgent-business.amp",
-      "publishedDateTime": "2021-01-14T00:12:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-rep-marjorie-taylor-greene-vows-to-file-articles-of-impeachment-against-biden.md",
-      "title": "Rep. Marjorie Taylor Greene vows to file articles of impeachment against Biden",
-      "excerpt": "Rep. Marjorie Taylor Greene, the newly elected Republican from Georgia, took to Twitter Wednesday to announce that she will be filing articles of impeachment against President-elect Joe Biden shortly after he takes office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHZYP8ueims/georgia-rep-vows-to-file-articles-of-impeachment-against-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHZYP8ueims/georgia-rep-vows-to-file-articles-of-impeachment-against-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/georgia-rep-vows-to-file-articles-of-impeachment-against-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-rep-vows-to-file-articles-of-impeachment-against-biden.amp",
-      "publishedDateTime": "2021-01-13T22:50:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

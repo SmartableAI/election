@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-17-pence-urges-biden-administration-to-have-eternal-vigilance-in-standing-up-to-china.md",
+      "title": "Pence urges Biden administration to have ‘eternal vigilance’ in standing up to China",
+      "excerpt": "In one of his final public appearances before leaving the White House next  week, Vice President Mike Pence urged the Biden administration to exercise \"eternal vigilance,\" especially when it comes to U.S.-China relations.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ocu-XJd7IQ/pence-biden-administration-eternal-vigilance-in-standing-up-to-china",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ocu-XJd7IQ/pence-biden-administration-eternal-vigilance-in-standing-up-to-china",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 333,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fed884c-b708-4ec0-9242-0b2b61b4244a/15d1d9b5-6b44-4c76-8142-bdc1d653054b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-biden-administration-eternal-vigilance-in-standing-up-to-china.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-administration-eternal-vigilance-in-standing-up-to-china.amp",
+      "publishedDateTime": "2021-01-16T17:46:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-17-aoc-says-she-disagrees-with-bidens-optimistic-view-of-gop.md",
+      "title": "AOC says she disagrees with Biden's 'optimistic' view of GOP",
+      "excerpt": "Rep. Alexandria Ocasio-Cortez said she disagrees with President-elect Biden on his “optimistic” view of the GOP. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4NY2J01tsM/aoc-disagrees-bidens-optimistic-view-gop",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4NY2J01tsM/aoc-disagrees-bidens-optimistic-view-gop",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AOC-Getty.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-disagrees-bidens-optimistic-view-gop.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-disagrees-bidens-optimistic-view-gop.amp",
+      "publishedDateTime": "2021-01-16T17:24:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-maher-insists-trump-will-run-again-mcconnell-wont-impeach-the-battle-is-over-this-war-is-just-beginning.md",
       "title": "Maher insists Trump will run again, McConnell won't impeach: 'The battle is over, this war is just beginning'",
       "excerpt": "\"Real Time\" host Bill Maher returned from his holiday break Friday night and made bold predictions about the potential political aspirations of President Trump.",
@@ -119,7 +232,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 270,
+      "heat": 210,
       "tags": null,
       "images": [
         {
@@ -287,7 +400,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 115,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -672,62 +785,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-15-twitter-introduces-secondgentleman-handle-for-incoming-biden-administration.md",
-      "title": "Twitter introduces @SecondGentleman handle for incoming Biden administration",
-      "excerpt": "Twitter is introducing a new handle for the first-ever husband of a vice president as it begins transferring official White House social media accounts to the incoming Biden administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YqXf6WqX8VM/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YqXf6WqX8VM/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman.amp",
-      "publishedDateTime": "2021-01-15T07:22:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-15-bidens-19t-stimulus-plan-is-a-bailout-for-blue-states-bad-lockdown-policies-waltz.md",
       "title": "Biden's $1.9T stimulus plan is a 'bailout' for blue states' bad lockdown policies: Waltz",
       "excerpt": "Rep. Michael Waltz, R-Fla., took issue Friday with President-elect Joe Biden's massive $1.9 trillion stimulus package proposal that aims to combat the coronavirus and attempt to pump up a U.S. economy severely battered by the worst pandemic to strike the globe in a century.",
@@ -852,7 +909,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -908,7 +965,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1597,62 +1654,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement.amp",
       "publishedDateTime": "2021-01-13T12:37:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-trump-would-have-standing-to-challenge-his-impeachment-trial-turley.md",
-      "title": "Trump 'would have standing to challenge' his impeachment trial: Turley",
-      "excerpt": "George Washington University law professor Jonathan Turley told “America’s Newsroom” on Wednesday that President Trump “would have standing to challenge” his impeachment trial potentially taking place after he is no longer in office “and the court could rule on it.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kSTdzGFBWVY/trump-standing-challenge-impeachment-trial-turley",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kSTdzGFBWVY/trump-standing-challenge-impeachment-trial-turley",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-standing-challenge-impeachment-trial-turley.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-standing-challenge-impeachment-trial-turley.amp",
-      "publishedDateTime": "2021-01-13T12:19:30-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

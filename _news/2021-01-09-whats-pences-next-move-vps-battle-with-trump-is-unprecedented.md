@@ -632,6 +632,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "U.S. state capitals, Washington on alert for possible pro-Trump armed protests"
+    excerpt: "Ten days after rioters breached the U.S. Capitol in a deadly attack that stunned the world, cities nationwide were girding for a potential new wave of violent protests over the weekend, erecting barriers and deploying thousands of National Guard troops."
+    publishedDateTime: 2021-01-17T01:56:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/us-state-capitals-washington-on-alert-for-possible-pro-trump-armed-protests-idUSKBN29L0CS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548030531&r=LYNXMPEH0F09U&w=800"
+        width: 800
+        height: 519
+        isCached: true
   - title: "Mike Pence calls Kamala Harris to offer congratulations"
     excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
     publishedDateTime: 2021-01-15T12:51:00Z
