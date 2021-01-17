@@ -2,6 +2,62 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-12-21-gen-jack-keane-biden-must-be-willing-to-confront-the-chinese-communist-party.md",
+      "title": "Gen. Jack Keane: Biden must be 'willing to confront the Chinese Communist Party'",
+      "excerpt": "New reports confirm China lied about the severity of the coronavirus pandemic, making the question of how the incoming Biden administration will hold Beijing accountable an urgent one, Fox News senior strategic analyst Gen. Jack Keane told \"America's Newsroom\" Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jHsk4wB2VbM/gen-jack-keane-biden-china-coronavirus",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jHsk4wB2VbM/gen-jack-keane-biden-china-coronavirus",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba0a1538-c4b5-405d-be79-641ee7ee5a41/35c5cb5e-2711-4458-bd3b-399da0382b26/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gen-jack-keane-biden-china-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gen-jack-keane-biden-china-coronavirus.amp",
+      "publishedDateTime": "2020-12-21T13:18:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-22-probe-trump-officials-attacked-cdc-virus-reports.md",
       "title": "Probe: Trump officials attacked CDC virus reports",
       "excerpt": "A House investigative panel says Trump administration political appointees tried to block or change more than a dozen government articles that detailed scientific findings about the spread of the coro",
@@ -1285,58 +1341,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-folks-were-in-crisis-joe-biden-introduces-environmental-advisers.md",
-      "title": "'Folks, we're in crisis': Joe Biden introduces environmental advisers",
-      "excerpt": "President-elect announces racially diverse team to face ‘existential threat of our time’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/03159c767c65ac80359381a5b009af4b78e0b79e/0_211_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=58dad6a73e9673345a1d1669253a4318",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/19/folks-crisis-joe-biden-environmental-advisers-haaland-kerry-granholm",
-      "publishedDateTime": "2020-12-19T14:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

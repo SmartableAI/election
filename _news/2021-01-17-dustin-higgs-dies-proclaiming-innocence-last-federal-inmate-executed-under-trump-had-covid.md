@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Dustin Higgs scheduled to be last federal inmate executed before Trump leaves office"
-excerpt: "A federal jury in Maryland convicted Higgs of first-degree murder and kidnapping in the killings of Tamika Black, 19; Mishann Chinn. 23; and Tanji Jackson, 21."
-publishedDateTime: 2021-01-15T12:34:00Z
-originalUrl: "https://www.al.com/news/2021/01/dustin-higgs-scheduled-to-be-last-federal-inmate-executed-before-trump-leaves-office.html"
-webUrl: "https://www.al.com/news/2021/01/dustin-higgs-scheduled-to-be-last-federal-inmate-executed-before-trump-leaves-office.html"
-ampWebUrl: "https://www.al.com/news/2021/01/dustin-higgs-scheduled-to-be-last-federal-inmate-executed-before-trump-leaves-office.html?outputType=amp"
-cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/dustin-higgs-scheduled-to-be-last-federal-inmate-executed-before-trump-leaves-office.html?outputType=amp"
+title: "Dustin Higgs dies proclaiming innocence: Last federal inmate executed under Trump had COVID"
+excerpt: "I am an innocent man. ... I am not responsible for the deaths,” he said softly. “I did not order the murders.”"
+publishedDateTime: 2021-01-17T03:15:00Z
+originalUrl: "https://www.al.com/news/2021/01/dustin-higgs-dies-proclaiming-innocence-last-federal-inmate-executed-under-trump-had-covid.html"
+webUrl: "https://www.al.com/news/2021/01/dustin-higgs-dies-proclaiming-innocence-last-federal-inmate-executed-under-trump-had-covid.html"
+ampWebUrl: "https://www.al.com/news/2021/01/dustin-higgs-dies-proclaiming-innocence-last-federal-inmate-executed-under-trump-had-covid.html?outputType=amp"
+cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/dustin-higgs-dies-proclaiming-innocence-last-federal-inmate-executed-under-trump-had-covid.html?outputType=amp"
 type: article
-quality: 68
+quality: 65
 heat: -1
 published: false
 
@@ -59,23 +59,23 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Dustin Higgs dies proclaiming innocence: Last federal inmate executed under Trump had COVID"
-    excerpt: "I am an innocent man. ... I am not responsible for the deaths,” he said softly. “I did not order the murders.”"
-    publishedDateTime: 2021-01-17T03:15:00Z
-    webUrl: "https://www.al.com/news/2021/01/dustin-higgs-dies-proclaiming-innocence-last-federal-inmate-executed-under-trump-had-covid.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/dustin-higgs-dies-proclaiming-innocence-last-federal-inmate-executed-under-trump-had-covid.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/dustin-higgs-dies-proclaiming-innocence-last-federal-inmate-executed-under-trump-had-covid.html?outputType=amp"
+  - title: "Dustin Higgs scheduled to be last federal inmate executed before Trump leaves office"
+    excerpt: "A federal jury in Maryland convicted Higgs of first-degree murder and kidnapping in the killings of Tamika Black, 19; Mishann Chinn. 23; and Tanji Jackson, 21."
+    publishedDateTime: 2021-01-15T12:34:00Z
+    webUrl: "https://www.al.com/news/2021/01/dustin-higgs-scheduled-to-be-last-federal-inmate-executed-before-trump-leaves-office.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/dustin-higgs-scheduled-to-be-last-federal-inmate-executed-before-trump-leaves-office.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/dustin-higgs-scheduled-to-be-last-federal-inmate-executed-before-trump-leaves-office.html?outputType=amp"
     type: article
     provider:
       name: al.com
       domain: al.com
-    quality: 65
+    quality: 68
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XXFO4DFQZBAVJIOMBKC5PSB5BE.jpg"
         width: 1969
         height: 1286
         isCached: true
 
-secured: "7XtM36MW0Hho1SnJ9fk3OBIRLx71+ud+x6imOxM/7OeNqXPreoXCgeNdp+ZMsPrfgsdKAdlO9GqRxccun0KdDpwTEbmj1wNrbPI4qd9V9ElwD54M+Wg5JWGCM6LezWzokBo/HUEgrOio26BIQU9k+QwrgEtzUYRBrhQoEPXWIFTAE50jR8yRJQ+6pChWQcgJcOP/nnYCaJxdaQQXM+TvEhH4jF6wSzulKrMMLbxggWfdXslY5UI7cXVqP9NqoaK/Hu18snW6Lxg6khr1vsOZuxi1bx8Xd4YfW+OkJEjgP8FSlq0VtFVgbnku64C1884Ia7MCi94SmpJ47wFFiVQOW0f/rmWZpFaMqbEUfEgbPXXVDPbOEudS5cUz8bMf06s7rwEueCJe12jMC451t9lxFmzR3wkTFbjKxFIhjGq5lb3ugTnyPEYmmL/GBLyDeNuLziHAdFfcY1XX2ATdn7pZZjl0XfHQZJGUMG4M+KcFqhDdMpU3zPb8ECdb4kyGKq7E4Z2yIOUQ8lhLAdOmMs+wTA==;fOVHbfbgbaGbNNwPX9P1bA=="
+secured: "1S9NODkk59risM/ttXvu9nx3h5AeKdve4Hw4yYfIjafr76vC++LoCeJT+o2YEJoJp0AfWN4QoI9hFH78giXY0Uy/kxzD91CTRC9bqfwEKgNa2I4/ZecXTolCXEQC7biqXOmKhgnutwtC7ZgfNBb5w/FxHXu98GlJcGQnR/M43asnqTUGVm421qoA6W+rg69dg5D+KCDtkYdcgNKxjsNFnCB9a0oaX/CD65vdWeqL4IhgndfWvfTQ/PY3toVVhqGhRfDgxNNB46TWwcinNivX2L6gR/Q+8RoyqsVDQwqJgvNH3C8cs9KWCn5EOPvdNBf4ON2t97frOO7hB4nphbZdCWcqFk6ucMs4loTIAWT21b0=;IxhqhgnXQMjNVk5ywoYzzQ=="
 ---
 

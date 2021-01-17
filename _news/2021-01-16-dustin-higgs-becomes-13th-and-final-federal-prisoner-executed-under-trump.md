@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/15/dustin-higgs-federal
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/15/dustin-higgs-federal-execution-trump"
 type: article
 quality: 124
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       name: al.com
       domain: al.com
     quality: 68
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XXFO4DFQZBAVJIOMBKC5PSB5BE.jpg"
+        width: 1969
+        height: 1286
+        isCached: true
+  - title: "Dustin Higgs dies proclaiming innocence: Last federal inmate executed under Trump had COVID"
+    excerpt: "I am an innocent man. ... I am not responsible for the deaths,” he said softly. “I did not order the murders.”"
+    publishedDateTime: 2021-01-17T03:15:00Z
+    webUrl: "https://www.al.com/news/2021/01/dustin-higgs-dies-proclaiming-innocence-last-federal-inmate-executed-under-trump-had-covid.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/dustin-higgs-dies-proclaiming-innocence-last-federal-inmate-executed-under-trump-had-covid.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/dustin-higgs-dies-proclaiming-innocence-last-federal-inmate-executed-under-trump-had-covid.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 65
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XXFO4DFQZBAVJIOMBKC5PSB5BE.jpg"
         width: 1969

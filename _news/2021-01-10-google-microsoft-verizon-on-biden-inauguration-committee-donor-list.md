@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/google-microsoft-verizon-biden-inau
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43d8096c-96b6-417b-9e70-d106d78ea892/bc25fb44-5fe3-47a2-9bd7-1ee6ed3cb202/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden inauguration security: What to know as DC locks down"
+    excerpt: "Washington, D.C., is taking a defensive posture in the run-up to Inauguration Day."
+    publishedDateTime: 2021-01-17T05:02:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ihRN8yN1cUE/biden-inauguration-security-what-to-know-as-dc-locks-down"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-security-what-to-know-as-dc-locks-down.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-security-what-to-know-as-dc-locks-down.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden: 'Not afraid' to take oath outside amid inauguration security concerns"
     excerpt: "President-elect Joe Biden says he’s “not afraid” to take the oath of office outside during his inauguration next week."

@@ -139,8 +139,8 @@ related:
         isCached: true
   - title: "U.S. capitals on edge ahead of possible pro-Trump armed protests"
     excerpt: "Ten days after rioters breached the U.S. Capitol in a deadly attack that stunned the world, cities nationwide were girding for a potential new wave of violent protests over the weekend, erecting barriers and deploying thousands of National Guard troops."
-    publishedDateTime: 2021-01-17T02:59:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/us-capitals-on-edge-ahead-of-possible-pro-trump-armed-protests-idUSKBN29L0CS"
+    publishedDateTime: 2021-01-17T05:35:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/u-s-state-capitals-washington-on-alert-for-possible-pro-trump-armed-protests-idUSKBN29L0CS"
     type: article
     provider:
       name: Reuters
@@ -271,6 +271,6 @@ related:
         height: 804
         isCached: true
 
-secured: "3lXnL/4JuI01SLIuIy9ddVW514XZbAehlDYF4WdZRvQUSM/3+9t5ENFwHZZ0H7lmPn8Y/ZldERVuBQ0wWEDfCRFfaB4Oj52HN0NEepvJMGQ799FP6SqTulavhHsFiHjP985Q3QFxKWg6mvMMpidtRnq+x9zgVpekn3DvNbY7SiuWrISYJxnPFzTcWr0iv6q8ybbm72B4FltZga6CeZwfRNr+Hz1M/OJZM7ma84h8+rFqa34XPk0Cr1ePScHMxoDFcXc6KQ8uoXy8yRTBF9ivmutpo6adA5oXfongE3r3/nKMsc4X9VY3Z87jC4KuL5qg2A8dqgI3BeZLjAxIqiwckXa90HSopMOsHeEyJ7jxXvk=;ixnmU0fcOH0eC2mCE/64Hg=="
+secured: "xUJQprb+L/cIOeZHSb41syAXhcx0/JyXAsGxjLwLhC/7B4Nu5cVZao+FfqngK1ce9fXyrTgqY/y7+CldTlc0o/wGO+dmHB7Rki7q1derXgwsrodEt6S1Q50IP+72YDhH2yskX1GgQ4qM52Ox2/x33w4ZJdVHLekqdrjkuyhpzlXUl1/fyA+txZ7iLjNHdD8CN0he5wmwTrUYKakwZXJhu439Rq+F+kEgiuNHMbNtnAdqrcfTIS9iiLyEdZPlHd7gVydUH90NPp3E/19gigXBF8JMeI4OkRku4IBTnpTa+Wbi4L4l/G77eW2QYNwW1bEJ9+5/81DYbufivOzHn80PMI3dt8HtrsKpkgPMyWDvNXYo4Nxl/TlHR6PBFsod2o+aYdRoUmrQLj361SFJGS7LzC/MZgpzgj5PeGWgpyZT7ZyrzMTcSemq4FtNVDlQe9DfWcbCVJWq1Tz8tDKUmgYUOtj69Y5vYQ+piWrOJuF1VIax8kBjXcGqvbSGmFsNFMRm5l2teQrtU2D77FqVnIDaSA==;v199K2pYVdF+NPmeh33R7g=="
 ---
 

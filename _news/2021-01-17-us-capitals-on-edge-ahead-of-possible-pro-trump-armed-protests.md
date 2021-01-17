@@ -2,9 +2,9 @@
 category: news
 title: "U.S. capitals on edge ahead of possible pro-Trump armed protests"
 excerpt: "Ten days after rioters breached the U.S. Capitol in a deadly attack that stunned the world, cities nationwide were girding for a potential new wave of violent protests over the weekend, erecting barriers and deploying thousands of National Guard troops."
-publishedDateTime: 2021-01-17T02:59:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-protests/us-capitals-on-edge-ahead-of-possible-pro-trump-armed-protests-idUSKBN29L0CS"
-webUrl: "https://www.reuters.com/article/us-usa-trump-protests/us-capitals-on-edge-ahead-of-possible-pro-trump-armed-protests-idUSKBN29L0CS"
+publishedDateTime: 2021-01-17T05:35:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-protests/u-s-state-capitals-washington-on-alert-for-possible-pro-trump-armed-protests-idUSKBN29L0CS"
+webUrl: "https://www.reuters.com/article/us-usa-trump-protests/u-s-state-capitals-washington-on-alert-for-possible-pro-trump-armed-protests-idUSKBN29L0CS"
 type: article
 quality: 105
 heat: -1
@@ -271,6 +271,6 @@ related:
         height: 804
         isCached: true
 
-secured: "G3YmCCav6NMSvIcHFvPOmA/XMYvATCncQOix58gtDOxP0QAQr8b0euLj93fPpI71asSHUf9EZN8FaEP0VDSsrfCOM8vUau8U1/ianIUQeJKpQ/GtaSF6bPCZ262IU+Pa2fM7tHw7+dxzMHO/uvRNws2boBw9ngyKq23gg8h9pRi5AZphsw/4RBYW80psfvjWJ8ft5zHSgiLX33ooLRyxkMY2hGedLxksdWi74o13UBEkBEPBmfAk65LsE3WjWzod6CjHT/Iye2TC2+GmmCRe7KOVxa7XPQ+IzsTI9n3PDIe4SGm7D1JMKpJ4E157ImiSW3VkiNhUW6qWB7FtVQy4sirT/85BtyIVGmlDTUS/rF1SNtQMQ9/BmsqszMED8eSujMb5HIgQrkF8NQX/+Qc080HclPVspT+BFTB90m+qshmiGNtgApPkuQPt36YwekfkXeiTdewFaItMUvXfnzkU65KMNcPFv7Ip+GFA4+SgTAcAx4Bd2FvYbjv8/PiuujnONyMtFCefp30vGfZHXljNqA==;A8/QLFiAQEgOYBus8PC1hw=="
+secured: "bwmhXxY59F9QEinMzbk8D1q1YCGnKXN06ckqzIGJnqaevymO/02j27nMp90zBygN1sFOc8hCmtIwA5ZLhOYmlCDEOCDsZ4s12FYiFGVI/Q9KdAma1EDjugk1TGANuELsx4+uVodHdBMZ/INxf9vfQqBtlmLa1zPsPt/VW9b+osgyi6QZVqZbMUBguHc/NFvWxzCD8EbyZbpu3sHVhan+4uEoVQioWLZpklB2E6oWty7FnwbaT7dRQ2fu+fRzjxWaLwJo0CmPMWg8BzUp1AplQbONU8rv8BckywAivP28r8MFH3xSR7Dncdc7VblmynptAMp757GFms+WiIG5CC1rFpHissDa06nV7G/t4Dp48RQ=;nfy6Q1Z+BTIa26jdEThYuw=="
 ---
 

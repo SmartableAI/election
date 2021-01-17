@@ -62,6 +62,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden inauguration security: What to know as DC locks down"
+    excerpt: "Washington, D.C., is taking a defensive posture in the run-up to Inauguration Day."
+    publishedDateTime: 2021-01-17T05:02:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ihRN8yN1cUE/biden-inauguration-security-what-to-know-as-dc-locks-down"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-security-what-to-know-as-dc-locks-down.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-security-what-to-know-as-dc-locks-down.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden: 'Not afraid' to take oath outside amid inauguration security concerns"
     excerpt: "President-elect Joe Biden says he’s “not afraid” to take the oath of office outside during his inauguration next week."
     publishedDateTime: 2021-01-11T20:24:31Z

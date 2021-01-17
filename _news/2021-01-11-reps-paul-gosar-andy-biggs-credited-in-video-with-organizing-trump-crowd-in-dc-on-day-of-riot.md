@@ -63,6 +63,22 @@ related:
         width: 1969
         height: 1286
         isCached: true
+  - title: "Dustin Higgs dies proclaiming innocence: Last federal inmate executed under Trump had COVID"
+    excerpt: "I am an innocent man. ... I am not responsible for the deaths,” he said softly. “I did not order the murders.”"
+    publishedDateTime: 2021-01-17T03:15:00Z
+    webUrl: "https://www.al.com/news/2021/01/dustin-higgs-dies-proclaiming-innocence-last-federal-inmate-executed-under-trump-had-covid.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/dustin-higgs-dies-proclaiming-innocence-last-federal-inmate-executed-under-trump-had-covid.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/dustin-higgs-dies-proclaiming-innocence-last-federal-inmate-executed-under-trump-had-covid.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 65
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XXFO4DFQZBAVJIOMBKC5PSB5BE.jpg"
+        width: 1969
+        height: 1286
+        isCached: true
 
 secured: "jvWw7sCghoseu9Eg/chsiC1OyxSHwm/f2v6nfgMsLoO9s3wP9nKqLxmCgI0NzUMp/Y/BM3S0vjaKRCsPCYYu8Ax9yJ+pN4jDlEQl/oCHM/o9q1Wgm+Z8CEqEOxe4cFT6y1uhYfFeKzX7jlFMYm+0yVkee4DqmIB6CfXqIhgPEanxuPTGYubBzMVlK1m4NLO2/ZGFd/NZwyTeJ3pfQuqUPLrmFvarrSpYq8nPie4spgNym9yh39LzK2MG41kJrw4rMr4J8p3tsr6QEZSf+mtzlyo+P9msHJdTaj3r59GYP7WjcE0ZwX5eA0uSA1G4Tnfku3pbIY9e492CWGP3PTOMlwlv2ONHFeilZASw2mtX808=;QRpZVAYuTwvebqwNfbKDGQ=="
 ---

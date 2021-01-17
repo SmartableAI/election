@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Live Updates: Biden to announce Justice Department picks"
-excerpt: "President-elect Joe Biden is to announce his nominees for the Justice Department. Biden is also expected to address the rioting on Capitol Hill on Wednesday, which he condemned in strong terms the same day."
-publishedDateTime: 2021-01-07T18:56:00Z
-originalUrl: "https://www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says"
-webUrl: "https://www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says"
-ampWebUrl: "https://www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says.amp"
+title: "LIVE UPDATES: What to know as DC locks down for Biden's inauguration"
+excerpt: "Follow for the latest updates on Biden's inauguration and the Capitol riots. "
+publishedDateTime: 2021-01-17T06:29:15Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TkC-XfVOa0Q/live-updates-biden-inauguration-1-17-21"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TkC-XfVOa0Q/live-updates-biden-inauguration-1-17-21"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-17-21.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inauguration-1-17-21.amp"
 type: article
-quality: 135
+quality: 175
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad0d288e-8d3f-4466-bf25-2a90d782871f/8d4ccfcf-53da-4208-9695-e20a725c6067/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04e8cb81-2497-41bd-b463-ef571490a0ee/b30c1a8f-c57c-4bec-9fba-c7d7e911a5fc/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -45,22 +44,6 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48694bc-fcc1-4336-bf59-e0584bc8a4e1/369eedf1-67e3-45b8-81ce-9a7ed8e49f01/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: What to know as DC locks down for Biden's inauguration"
-    excerpt: "Follow for the latest updates on Biden's inauguration and the Capitol riots. "
-    publishedDateTime: 2021-01-17T06:29:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TkC-XfVOa0Q/live-updates-biden-inauguration-1-17-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-17-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inauguration-1-17-21.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04e8cb81-2497-41bd-b463-ef571490a0ee/b30c1a8f-c57c-4bec-9fba-c7d7e911a5fc/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -176,6 +159,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Biden to announce Justice Department picks"
+    excerpt: "President-elect Joe Biden is to announce his nominees for the Justice Department. Biden is also expected to address the rioting on Capitol Hill on Wednesday, which he condemned in strong terms the same day."
+    publishedDateTime: 2021-01-07T18:56:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad0d288e-8d3f-4466-bf25-2a90d782871f/8d4ccfcf-53da-4208-9695-e20a725c6067/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Whitmer admits to 'sigh of relief' after not being picked as Biden VP, though she would have said yes"
     excerpt: "After then-candidate Joe Biden vowed to choose a woman as his running mate in the 2020 election, Michigan Gov. Gretchen Whitmer emerged as an early front-runner, but now that Biden has won, Whitmer admits she is glad she never got the call."
     publishedDateTime: 2020-12-25T13:43:00Z
@@ -193,6 +192,6 @@ related:
         height: 320
         isCached: true
 
-secured: "lNhe5NWPdl+xtXVFAldaUpB5ehxCmNSKFic18pL0m0u7Jq7sEaXylGe1JX8B6Yv2ZIdPz1FbfpqtTJocKOpBcTisaMm0xp7NJl4UHaCjP0vODHngU7/LYJa4rwWrxI/PPFZbT9xMpcLSbDLZmPMGyXy91KUA+htk67K3jTDZn4/SaiheVcfkeqt1WxLHdcfbbXD92NIBOYdM+hP9BvZSY6tQyTJyMZ/08gaFLE4Cy3OPkXAG2/dRr2HfU+x2ITzVreBBoZOBNQkdICfDQpa1iaenmKQtA6skkpXCRWkHCNDhMXctW0S1vxsGlMRqnnTIkSwoQFvu4KafkKP7CL3UKa+VE1mXMg5c0Z8gc9gN2fs=;wRo1RBcHfVxLcICDoYtflA=="
+secured: "oATNiCEEJt2cwI/tkY5WBKbM7AqytqJiT0szo7Y80X7rCEC0CCyu3/JnjoUq5sQrgRaBBUMfz3W5KCcf4eaOOP12VX53Iy72zJEJgwHaH3ybAn0BuOaQsLDVF5ekIQ6nj1SCI5REWpZmXEWfw36rmPPEkPRo6iLFoTTNyck1MXxUhnYsMVJnuJBZ6pRahpeAYiBy1l44+W3cx98XR+cawoBOMb4bMdPvNZUqPmP3nmCj9GrWrb951Tq/O2+IGTj8SXfXWeSIjgk2Zz3p7GQ4HiTNI2RqsHx4Tj9mFLOJvcMQQrP90uxCjSMDInLRvZ/gJc/Jf41srNFeKXwq86cylIUG8OY2SRm5kjWVXJGXHsY=;cFeJhQQHGmm0bxsLHROtOg=="
 ---
 

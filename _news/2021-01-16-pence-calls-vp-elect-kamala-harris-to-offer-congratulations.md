@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
-publishedDateTime: 2021-01-16T06:01:00Z
-originalUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
-webUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+excerpt: "WASHINGTON -- Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
+publishedDateTime: 2021-01-16T00:57:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+webUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
 type: article
 quality: 150
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -112,19 +112,19 @@ related:
         isCached: true
   - title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
-    publishedDateTime: 2021-01-15T19:17:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
+    publishedDateTime: 2021-01-15T23:29:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 127
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Pro-Trump supporters to rally again in Washington"
     excerpt: "Supporters of President Donald Trump are returning to Washington for a pair of rallies to back his desperate efforts to subvert the election that he lost"
@@ -663,20 +663,20 @@ related:
         height: 336
         isCached: true
   - title: "Mike Pence calls Kamala Harris to offer congratulations"
-    excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
-    publishedDateTime: 2021-01-16T06:05:00Z
-    webUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations"
-    ampWebUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations/amp"
-    cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations/amp"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
+    publishedDateTime: 2021-01-15T20:18:00Z
+    webUrl: "https://www.denverpost.com/2021/01/15/mike-pence-calls-kamala-harris-to-offer-congratulations/"
+    ampWebUrl: "https://www.denverpost.com/2021/01/15/mike-pence-calls-kamala-harris-to-offer-congratulations/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/01/15/mike-pence-calls-kamala-harris-to-offer-congratulations/amp/"
     type: article
     provider:
-      name: The Oklahoman
-      domain: oklahoman.com
+      name: The Denver Post
+      domain: denverpost.com
     quality: 100
     images:
-      - url: "https://cdn2.newsok.biz/cache/1280x720_blur-95d4cd09934c1de7935d5144c353acbf.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/APTOPIX_Pence_Inauguration_55103.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Thousands of National Guard members deployed in Washington ahead of Biden inauguration"
     excerpt: "Thousands of National Guard's were deployed to Washington on January 12, ahead of the inauguration of Joe Biden in the wake of the Capitol riots."
@@ -1072,6 +1072,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "Rki0XDiVVht7peNfZae5tSBXclZjI+l21W7wvJBk7vCSlfXMIYJMu28lTKkkt/outsZbbt4/jXcxTHPgzanHiuYMUSSZPzAIjarwjySb+1RTnX4LmHB9uPzz+kdBRnP4Zi3xzh6k901Ib0SL84wzh5hFKwEb0jPOAn0wGB5wxPUdvBiFPSD01i7B5ee9hvaxMF4Txv/W7hJn+jU0JEoTo/aog80GIjmDdosyvwgN0q+bm37zyO5JAwRApcWvsLx8+XtXnEmzT3R9TUyCb/9nN7IWiTqWHh52t2vO6hNr9rLtyRtFu5Zo+oQPwG8SZIpNSQzhDgNIXQEGr2RUbmMFojhthuNby9L3aEwe0Wzv6Ok=;SK+WxPFCGBX57Ok6LO3FKw=="
+secured: "TmV9YCWLKsB+YVLKhTs6BtOSigRGbSwjKJ/wRvYoi9FA8USH7ezyHP7WqTKf5sflVVaQsA04YnfpWakw/hzfmwfPaYQuIpvSjqXMaEwxgVga+moIaIc8KX+FB4+u2LNE4zxuXxm+HDE43Vc0zsWEV7Y6DugdKtjh8A0qzMbIhKQOm/NNxETalMkj/NiD1p5OpkJWwy7AqTPQgcMpPZKOJImmWyzYsA1xQqQgufHoYkEvPR6N1npRQmFgTh9N9+fpq4AxsqhxOjyJx0dxw2qLu+Nvl9awXBgND4nms2U7qQRryFFzjfla76b5j//nHMJlOHAR3lZ2BvIMcEQpSg2WMWqJUYYMIqvVIxqkAbpjRlw=;rUUSaeBsvIgMvv59NmqYdg=="
 ---
 

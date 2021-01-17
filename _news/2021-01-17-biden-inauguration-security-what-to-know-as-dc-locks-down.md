@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden: 'Not afraid' to take oath outside amid inauguration security concerns"
-excerpt: "President-elect Joe Biden says he’s “not afraid” to take the oath of office outside during his inauguration next week."
-publishedDateTime: 2021-01-11T20:32:00Z
-originalUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside"
-webUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside"
-ampWebUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
+title: "Biden inauguration security: What to know as DC locks down"
+excerpt: "Washington, D.C., is taking a defensive posture in the run-up to Inauguration Day."
+publishedDateTime: 2021-01-17T05:02:52Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ihRN8yN1cUE/biden-inauguration-security-what-to-know-as-dc-locks-down"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ihRN8yN1cUE/biden-inauguration-security-what-to-know-as-dc-locks-down"
+ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-security-what-to-know-as-dc-locks-down.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-security-what-to-know-as-dc-locks-down.amp"
 type: article
-quality: 132
+quality: 175
 heat: -1
 published: false
 
@@ -22,13 +22,12 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011684189408.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -63,22 +62,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43d8096c-96b6-417b-9e70-d106d78ea892/bc25fb44-5fe3-47a2-9bd7-1ee6ed3cb202/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden inauguration security: What to know as DC locks down"
-    excerpt: "Washington, D.C., is taking a defensive posture in the run-up to Inauguration Day."
-    publishedDateTime: 2021-01-17T05:02:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ihRN8yN1cUE/biden-inauguration-security-what-to-know-as-dc-locks-down"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-security-what-to-know-as-dc-locks-down.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-security-what-to-know-as-dc-locks-down.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Biden: 'Not afraid' to take oath outside amid inauguration security concerns"
     excerpt: "President-elect Joe Biden says he’s “not afraid” to take the oath of office outside during his inauguration next week."
@@ -144,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden: 'Not afraid' to take oath outside amid inauguration security concerns"
+    excerpt: "President-elect Joe Biden says he’s “not afraid” to take the oath of office outside during his inauguration next week."
+    publishedDateTime: 2021-01-11T20:32:00Z
+    webUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside"
+    ampWebUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011684189408.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Joe Biden’s Inauguration: When Is It, and How Has the Covid-19 Pandemic Changed It?"
     excerpt: "President-elect Joe Biden will be sworn into office on Jan. 20 in a scaled-down inauguration that will look different from past years because of the coronavirus pandemic."
     publishedDateTime: 2021-01-04T19:28:00Z
@@ -191,6 +190,6 @@ related:
         height: 721
         isCached: true
 
-secured: "NNPmjMVCslijC4dMOvUvoCgp+Yb+cR8EIkzr+DqgKQHVMKTquvVdMeUvEYU+gvNRC1MnGP8r4ClMeE8TvqjNN0yJt7lPFxv1msvUwZ0K0wwtVgEggoi/6ZW9AkjBHY705pX935FoFqxybsLXgO/OCZOhW6PBA006iWDZrKiZQZghFIXFvZFhYnrxb+lg+/6akjnSI6aS2DnZc/TTBxIevM7EYCICc/KO5e1YB+U+cGaurRAy13qLuzPSxhmdJkIUXrL0ZcxkY6JkIJkMF+sfh0S+MBcO1DEbqWoXbpuSX62NpzdYbnpPiUrxK8oz0zCmG8iMDkSuCQc03Liht75D9G/lgsOFb0jkDmltMvudy6vAQ7dUUdgshe1gI6XsNWS9t3mHPdxAoo3Qxv4mxc8WMhA99DfAHX9MS687GzEA0wexYQPr/nxU9a0iqBWCKZYE5ZsoApdHzkwEgyhOA9I3Xu3P05XOkWG2CuPmkx/FiBnAK2hDMfos7X4RIV8jI1MJs5WYe9lMEoqqxiRHHSakYw==;FuJLwTVLknCSfyODouWlJA=="
+secured: "3YoPvlR+/8SrAxlYXcWnSPmYUvA46lpyUSAilC1aosUMteiE6uOk7C3n/ujGTaE66Z97DOjRIzcX5GH9Txd6sQlKjiOZKLGMWJ06KUPsuA49MfI5k2scH3S7syEYyRghsJsHpQlnISptr+l//KT1pWUDkdCWB+Qwu1oz1BZv+JVRVqNGRNUctmFpFhHEzgkRMRdYQ3sk/flLMCCE/JrT1MayoYKHc9iTJOGGGsB7aliaGrGdgwRNqjjkApHSlHzVi2um7GW5k7L2Ijn/Rn0Yf86UtbtX9S82ffjPo94NZ1IpT+2ki6DdaBtBlt6+TyNrnVJoBLtGkGwVqAEB7qsPoSHLjgG4m8iofqCH12UbZHE=;4SMlEFJ11uiZaFgqne7EPA=="
 ---
 

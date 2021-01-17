@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-01-04-republicans-condemn-gop-scheme-to-undo-election-for-trump.md",
+      "title": "Republicans condemn GOP ‘scheme’ to undo election for Trump",
+      "excerpt": "The extraordinary Republican effort to overturn the presidential election was condemned Sunday by an outpouring of current and former GOP officials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/election-2020/ct-republican-senators-electoral-college-20210102-ockzn4ln2babxfvuvnt5kvuuhe-story.html",
+      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-republican-senators-electoral-college-20210102-ockzn4ln2babxfvuvnt5kvuuhe-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1320,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/5Jl76CuQA8ORYHm-ieeRZ6fjzsI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/57OFMNP3SJHCXBTIHTKHOLPVWA.jpg",
+          "width": 1200,
+          "height": 820,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-republican-senators-electoral-college-20210102-ockzn4ln2babxfvuvnt5kvuuhe-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-republican-senators-electoral-college-20210102-ockzn4ln2babxfvuvnt5kvuuhe-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-03T16:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-kamala-harris-fweedom-story-mirrors-mlk-account.md",
       "title": "Kamala Harris' 'Fweedom' story mirrors MLK account",
       "excerpt": "Vice President-elect Kamala D. Harris told a story about her participation as a little girl in a civil rights march that mirrors an account told by the Rev. Martin Luther King.",
@@ -1248,58 +1300,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-trump-reflects-on-his-historic-victories-in-new-year-message.md",
-      "title": "Trump reflects on his 'historic victories' in new year message",
-      "excerpt": "Biden looks ahead to 2021 in upbeat message as Trump points out he correctly predicted arrival of vaccine before year’s end",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/01/trump-reflects-on-his-historic-victories-in-new-year-message",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/01/trump-reflects-on-his-historic-victories-in-new-year-message",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e7308ad68cd54b588efab577a8ccb96227349bbb/0_83_2662_1598/master/2662.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4cd354c61841787c0912a9f7ac8d4e45",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/01/trump-reflects-on-his-historic-victories-in-new-year-message",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/01/trump-reflects-on-his-historic-victories-in-new-year-message",
-      "publishedDateTime": "2021-01-01T02:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

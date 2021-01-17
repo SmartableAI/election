@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden inauguration security: What to know as DC locks down"
+    excerpt: "Washington, D.C., is taking a defensive posture in the run-up to Inauguration Day."
+    publishedDateTime: 2021-01-17T05:02:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ihRN8yN1cUE/biden-inauguration-security-what-to-know-as-dc-locks-down"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-security-what-to-know-as-dc-locks-down.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-security-what-to-know-as-dc-locks-down.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Former DHS Secretary Wolf: 'Every trust and confidence' Biden inauguration will be secured"
     excerpt: "Former Acting Homeland Secretary Chad Wolf praised the security measures around President-elect Joe Biden's inauguration next week in the wake of last week's deadly Capitol riots."
     publishedDateTime: 2021-01-14T16:41:33Z

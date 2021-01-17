@@ -153,8 +153,8 @@ related:
         isCached: true
   - title: "U.S. capitals on edge ahead of possible pro-Trump armed protests"
     excerpt: "Ten days after rioters breached the U.S. Capitol in a deadly attack that stunned the world, cities nationwide were girding for a potential new wave of violent protests over the weekend, erecting barriers and deploying thousands of National Guard troops."
-    publishedDateTime: 2021-01-17T02:59:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/us-capitals-on-edge-ahead-of-possible-pro-trump-armed-protests-idUSKBN29L0CS"
+    publishedDateTime: 2021-01-17T05:35:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/u-s-state-capitals-washington-on-alert-for-possible-pro-trump-armed-protests-idUSKBN29L0CS"
     type: article
     provider:
       name: Reuters

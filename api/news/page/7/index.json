@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-10-top-republican-says-trump-committed-impeachable-offenses.md",
+      "title": "Top Republican says Trump committed 'impeachable offenses'",
+      "excerpt": "Democrats' momentum for a fresh drive to quickly impeach outgoing President Donald Trump has gained support, and a top Republican said the president's role in the deadly riot at the Capitol by a violent mob of Trump supporters was worthy of rebuke.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 425,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_05a995faf0c04632b66729e7fb53de99_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
+      "publishedDateTime": "2021-01-09T21:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-pence-will-attend-bidens-inauguration.md",
       "title": "Pence will attend Biden's inauguration",
       "excerpt": "Vice President Mike Pence will attend the inauguration of President-elect Joe Biden, according to a source familiar.\n    \n",
@@ -1307,58 +1359,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-billionaire-trump-supporters-catsimatidis-olenicoff-say-he-isnt-to-blame-for-us-capitol-attack.md",
-      "title": "Billionaire Trump supporters Catsimatidis, Olenicoff say he isn't to blame for US Capitol attack",
-      "excerpt": "Few of Trump's billionaire donors have named the president in their public condemnations of the riots. Two actually say Trump didn't incite them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/billionaires-catsimatidis-olenicoff-dont-blame-trump-on-capitol-riot-2021-1",
-      "originalUrl": "https://www.businessinsider.com/billionaires-catsimatidis-olenicoff-dont-blame-trump-on-capitol-riot-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ff88ee4bde805001980be45?width=1200&format=jpeg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-08T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
