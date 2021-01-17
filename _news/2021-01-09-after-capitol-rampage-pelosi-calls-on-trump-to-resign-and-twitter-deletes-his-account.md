@@ -183,6 +183,20 @@ related:
         width: 799
         height: 533
         isCached: true
+  - title: "U.S. state capitals gird for pro-Trump armed protests, FBI flags risk of violence"
+    excerpt: "Protesters are expected to descend on statehouses across the United States on Sunday in support of baseless claims that electoral fraud robbed President Donald Trump of a second term, as law enforcement officials girded for possible violence."
+    publishedDateTime: 2021-01-17T09:12:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-protests/u-s-state-capitals-gird-for-pro-trump-armed-protests-fbi-flags-risk-of-violence-idUKKBN29M048"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548089624&r=LYNXMPEH0G03L&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "White House denies reports Trump will be in Scotland during inauguration, after Scottish leader warns golf is not essential travel"
     excerpt: "The speculation began with curious activity by U.S. military aircraft reported circling President Trump's Turnberry golf resort in western Scotland in November. Then the Sunday Post in Scotland reported that Glasgow Prestwick Airport “has been told to expect the arrival of a US military Boeing 757 aircraft,"
     publishedDateTime: 2021-01-05T22:42:00Z

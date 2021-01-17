@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/15/power-up-trump-pe
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/?outputType=amp"
 type: article
 quality: 140
-heat: 420
+heat: 440
 published: true
 
 provider:
@@ -246,6 +246,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IT5UV3JIC5E4ZAH6X4JW73FR7M.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "New study examines how Donald Trump used Twitter to craft an alternate reality for his followers"
+    excerpt: "The study analyzed thousands of Trump's tweets to show how Trump used Twitter to craft a world where what he said was dogma."
+    publishedDateTime: 2021-01-17T08:30:00Z
+    webUrl: "https://www.cleveland.com/open/2021/01/new-study-examines-how-donald-trump-used-twitter-to-craft-an-alternate-reality-for-his-followers.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/01/new-study-examines-how-donald-trump-used-twitter-to-craft-an-alternate-reality-for-his-followers.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/01/new-study-examines-how-donald-trump-used-twitter-to-craft-an-alternate-reality-for-his-followers.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 62
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HDAMTR4D2ZFCRBMTOLQKLERYOE.jpg"
+        width: 3353
+        height: 2235
         isCached: true
 
 secured: "xxxhSL/wEEErveW83vWCPjs3e1BrM475rTGaXMGuOlITpcLZlCDStFBmVLnHso8s3Nrl0fx4DNQ9UJUEV+KIbKONnQWjoYJsyxjiwr2e7f/GR9J1PMMZ6QaWTkVqPkv0gLvRUzVqld+Nid9pZpfD6VAOu0EvZivUMi1PZa9ue6qWWoFbRMik98xb0QI53EPq3f+p8RRKxU3OV16imhZjVRHY1yHo006BHXaOQYGlQc04hFQV26SIAu+dSX55P+Dr2VIc2t1Xd2z0apU9lLlW8ZgMBfNbSky9c93CFYlukeTZ/k5cNjn1JIfpjcBX4BBUcERVLjbgkGuvFpcyKreaVsACqQVdIechQOm6vIQaZXzYdKJ+J1fTkBcBOQn6vdop+XKEO0E6w2Wp9IO9uSoqVX4TEdrsgsod98q8zBitPUkTvrm2Eo+olqJnAi8eiZiaJwZQ4lYrFRC5goDY6Qx6xLlSwa5aL5BdITXQRLscuIcx0EtJys4tBQg3ja06U/Zn44HpLJUrpcfmhQSheTkmyQ==;kqHjzDWj9QbPD5xGPzUpNQ=="

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-17-christine-priola-capitol-rioter-seen-at-mike-pences-desk-quits-school-job-in-qanon-rant.md",
+      "title": "Christine Priola, Capitol Rioter Seen At Mike Pence's Desk, Quits School Job In QAnon Rant",
+      "excerpt": "A former schools therapist has been charged with multiple criminal counts over the storming of the U.S. Capitol after she quit her job, citing several conspiracy theories as the reason behind her decision. Holding a placard that read \"THE CHILDREN CRY OUT ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/christine-priola-capitol-rioter-mike-pence-quits-school-job-qanon-1562188",
+      "originalUrl": "https://www.newsweek.com/christine-priola-capitol-rioter-mike-pence-quits-school-job-qanon-1562188",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1710120/us-capitol-riots.jpg",
+          "width": 3422,
+          "height": 2281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/christine-priola-capitol-rioter-mike-pence-quits-school-job-qanon-1562188?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/christine-priola-capitol-rioter-mike-pence-quits-school-job-qanon-1562188?amp=1",
+      "publishedDateTime": "2021-01-17T01:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-17-the-trump-fueled-riot-shocked-america-to-some-it-was-a-long-time-coming.md",
       "title": "The Trump-fueled riot shocked America. To some, it was a long time coming.",
       "excerpt": "The attack on the Capitol wasn't a matter of \"if,\" to those who warned about violence under Trump. It was \"when.\"",
@@ -648,7 +700,7 @@
       "originalUrl": "https://abcnews.go.com/Technology/wireStory/biden-science-forefront-administration-75295060",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1266,58 +1318,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-biden-pledges-to-vaccinate-100-million-americans-in-his-first-100-days-in-office.md",
-      "title": "Biden pledges to vaccinate 100 million Americans in his first 100 days in office",
-      "excerpt": "President-elect Joe Biden is pledging to fix the United States' slow coronavirus vaccine rollout. CBS News senior White House and political correspondent Ed O'Keefe spoke with CBSN's Elaine Quijano about what the incoming Biden administration plans to do.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/biden-pledges-to-vaccinate-100-million-americans-in-his-first-100-days-in-office/",
-      "originalUrl": "https://www.cbsnews.com/video/biden-pledges-to-vaccinate-100-million-americans-in-his-first-100-days-in-office/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/16/1e229ed6-306f-491b-9a1a-96d74f087821/thumbnail/1200x630/a286355ec3d57513ef1d25b289737f3f/0115-cbsn-sws-627506-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-15T17:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

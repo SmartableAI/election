@@ -45,6 +45,33 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden elevates chief science adviser to a Cabinet position, picks human genome pioneer for the post"
+    excerpt: "Joe Biden announced Friday that he has chosen a pioneer in mapping the human genome — the so-called “book of life” — to be his chief science adviser."
+    publishedDateTime: 2021-01-16T01:16:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 109
+    images:
+      - url: "https://www.chicagotribune.com/resizer/_KnwY3nRWrxfc3pBEgErezBucOk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JVDAS7L35DO6FVFNIWKSAAR62E.aspx"
+        width: 1200
+        height: 791
+        isCached: true
+  - title: "Biden: Science will be at `forefront' of his administration"
+    excerpt: "President-elect Joe Biden says \"science will always be at the forefront of my administration,” and he is elevating the post of science adviser to Cabinet level, a White House first."
+    publishedDateTime: 2021-01-17T10:28:00Z
+    webUrl: "https://www.businessinsider.com/biden-science-will-be-at-forefront-of-his-administration-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-science-will-be-at-forefront-of-his-administration-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-science-will-be-at-forefront-of-his-administration-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "France's Le Maire: resolving trade sanctions is my priority for Biden administration"
     excerpt: "French Finance Minister Bruno Le Maire said on Thursday that resolving transatlantic trade sanctions were his priority for dealings with the incoming administration of U.S. President-elect Joe Biden."
     publishedDateTime: 2021-01-14T15:02:00Z
@@ -58,22 +85,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547761954&r=LYNXMPEH0D0LH&w=800"
         width: 800
         height: 533
-        isCached: true
-  - title: "Joe Biden elevates chief science adviser to a Cabinet position, picks human genome pioneer for the post"
-    excerpt: "Joe Biden announced Friday that he has chosen a pioneer in mapping the human genome — the so-called “book of life” — to be his chief science adviser."
-    publishedDateTime: 2021-01-15T23:21:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 59
-    images:
-      - url: "https://www.baltimoresun.com/resizer/_KnwY3nRWrxfc3pBEgErezBucOk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JVDAS7L35DO6FVFNIWKSAAR62E.aspx"
-        width: 1200
-        height: 791
         isCached: true
 
 secured: "99CtU39MrOb8wt3MMKUdfZ+avaD2I2v2rKIoC0t8N7eEkajkQiBsTACk4flvFhdv7uyzuJ1wX6CPono3QTFtZQfK/4j3KbyTPHAFtw9QwEX2rdcobpRNyhnRTqyUXXsQR8BZqwEOuD6m5qvseOfXbEVQohc0DnWqxfBpefd/izpbrKjMeCkXwUaLIoi2LXxB108lfL6w+f1Enzb4EGBgL/MJO/osdLFdqUXd6HrB3vF2ElPlfLWfQ1j3cH2Vj8mrShbVWvwuJHdzht9Xqp1t6use0i/n/dHMCwcg2YrfTDpPaql5woq+qhS2OSYQFOHP3Sq/lH9+6LWO9YUf7PaUd9ct2Ji+zbSC9/AczxkC0gw=;/g9YQ1csTgUkPjkOhVSvcg=="

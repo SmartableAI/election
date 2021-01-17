@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump heads for new life in Florida, marking end of an era in New York"
+    excerpt: "The born-and-raised New Yorker seems ready to leave the city in which he made his name – and few will mourn his departure"
+    publishedDateTime: 2021-01-17T09:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/17/donald-trump-leave-new-york-city-florida"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/17/donald-trump-leave-new-york-city-florida"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/17/donald-trump-leave-new-york-city-florida"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7013f44e59214d0f1a6b352c0ca3c0c380b3545/0_0_3100_2108/master/3100.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aad7a3492a81ad122460101ba8f5f7b0"
+        width: 600
+        height: 408
+        isCached: true
   - title: "New York City to consider ending contracts with Trump that bring his company $17 million a year"
     excerpt: "The city of New York said Monday that it was “reviewing whether legal grounds exist” to terminate its business relationships with President Trump, whose company has contracts to run a carousel, two ice rinks and a golf course in city parks."
     publishedDateTime: 2021-01-12T06:51:00Z

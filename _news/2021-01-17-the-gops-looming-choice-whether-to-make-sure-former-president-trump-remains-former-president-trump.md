@@ -169,6 +169,20 @@ related:
         width: 799
         height: 533
         isCached: true
+  - title: "U.S. state capitals gird for pro-Trump armed protests, FBI flags risk of violence"
+    excerpt: "Protesters are expected to descend on statehouses across the United States on Sunday in support of baseless claims that electoral fraud robbed President Donald Trump of a second term, as law enforcement officials girded for possible violence."
+    publishedDateTime: 2021-01-17T09:12:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-protests/u-s-state-capitals-gird-for-pro-trump-armed-protests-fbi-flags-risk-of-violence-idUKKBN29M048"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548089624&r=LYNXMPEH0G03L&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "After Capitol rampage, Pelosi calls on Trump to resign and Twitter deletes his account"
     excerpt: "House Speaker Nancy Pelosi on Friday called on President Donald Trump to resign and Twitter permanently suspended his account citing a risk that he could incite more violence, two days after a crowd of Trump supporters stormed the U."
     publishedDateTime: 2021-01-09T04:54:00Z

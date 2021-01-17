@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-12-23-trump-grants-full-pardon-to-russia-probe-figure-george-papadopoulos.md",
+      "title": "Trump grants full pardon to Russia probe figure George Papadopoulos",
+      "excerpt": "President Donald Trump granted a full pardon on Tuesday to George Papadopoulos, a former campaign aide who pleaded guilty as part of the investigation into Russian meddling in the 2016 presidential election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-pardons-idUSKBN28X00R",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-pardons-idUSKBN28X00R",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201223&t=2&i=1545498490&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBM009",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28X00R",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28X00R",
+      "publishedDateTime": "2020-12-23T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-23-israel-hopes-for-rapprochement-with-fifth-muslim-country-before-trump-exit-minister.md",
       "title": "Israel hopes for rapprochement with fifth Muslim country before Trump exit - minister",
       "excerpt": "Israel is working towards formalising relations with a fifth Muslim country during U.S. President Donald Trump's term, which ends next month, an Israeli government minister told Ynet TV on Wednesday.",
@@ -1317,62 +1369,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-trumps-conservative-agenda-at-hhs-stalled-by-departments-office-of-general-counsel-sources.md",
-      "title": "Trump's conservative agenda at HHS stalled by department's office of general counsel: sources",
-      "excerpt": "A struggle has developed within the Department of Health and Human Services (HHS) whereby President Trump's abortion and conscience-related agendas encountered roadblocks from the Office of General Counsel (OGC), multiple sources allege.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dVca-wg9Zro/trumps-agenda-hhs-stalled-general-counsel",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dVca-wg9Zro/trumps-agenda-hhs-stalled-general-counsel",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b5ee41ee-7a33-4044-9c9c-7578485e8927/3f8064a5-40f2-4f3a-b03f-3113b2a1c471/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trumps-agenda-hhs-stalled-general-counsel.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-agenda-hhs-stalled-general-counsel.amp",
-      "publishedDateTime": "2020-12-21T15:26:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

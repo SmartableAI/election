@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-14-scalise-slams-dems-for-ratcheting-up-rhetoric-says-biden-should-call-for-end-to-impeachment-trial.md",
+      "title": "Scalise slams Dems for 'ratcheting up rhetoric,' says Biden should call for end to impeachment trial",
+      "excerpt": "House Minority Whip Steve Scalise, R-La., slammed his Democratic colleagues Thursday for ratcheting up the rhetoric by impeaching President Trump without an investigation as the nation struggles with division.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hdabdqdSg4U/trump-impeachment-democrats-rep-steve-scalise",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hdabdqdSg4U/trump-impeachment-democrats-rep-steve-scalise",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-impeachment-democrats-rep-steve-scalise.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-democrats-rep-steve-scalise.amp",
+      "publishedDateTime": "2021-01-14T07:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-silent-melania-trump-plods-toward-end-of-her-husbands-tumultuous-term.md",
       "title": "Silent Melania Trump plods toward end of her husband's tumultuous term",
       "excerpt": "Two days after his supporters rioted on Capitol Hill last week, President Donald Trump informed the world he would not be attending President-elect Joe Biden's inauguration.\n    \n",
@@ -1315,58 +1371,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-walmart-disney-suspend-contributions-to-us-lawmakers-who-opposed-biden-certification.md",
-      "title": "Walmart, Disney suspend contributions to U.S. lawmakers who opposed Biden certification",
-      "excerpt": "Walmart Inc, the world's biggest retailer and Walt Disney Co joined other major companies in indefinitely suspending donations to U.S. lawmakers who voted against President-elect Joe Biden's election certification.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-corporate-walmart-idUSKBN29H2TO",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-corporate-walmart-idUSKBN29H2TO",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547573394&r=LYNXMPEH0B1LM&w=800",
-          "width": 800,
-          "height": 459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T23:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

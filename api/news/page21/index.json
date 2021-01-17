@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-12-18-vp-mike-pence-plans-trip-to-middle-east-europe-in-january.md",
+      "title": "VP Mike Pence plans trip to Middle East, Europe in January",
+      "excerpt": "Vice President Mike Pence is planning a trip to the Middle East and Europe immediately after he is set to oversee Congress during the confirmation of the Electoral College vote, according to reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2020/12/17/VP-Mike-Pence-plans-trip-to-Middle-East-Europe-in-January/9241608230281/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2020/12/17/VP-Mike-Pence-plans-trip-to-Middle-East-Europe-in-January/9241608230281/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/9241608230281/2020/1/3a4f39f83b3711538712761a73b59eaa/v1.5/VP-Mike-Pence-plans-trip-to-Middle-East-Europe-in-January.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2020/12/17/VP-Mike-Pence-plans-trip-to-Middle-East-Europe-in-January/9241608230281/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/17/VP-Mike-Pence-plans-trip-to-Middle-East-Europe-in-January/9241608230281/",
+      "publishedDateTime": "2020-12-17T11:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-biden-to-tap-north-carolina-environmental-regulator-regan-to-head-epa.md",
       "title": "Biden to tap North Carolina environmental regulator Regan to head EPA",
       "excerpt": "The pick is a major nod to the party's progressive wing that pushed Biden's team to emphasize minority and poor communities facing threats from pollution.",
@@ -1287,59 +1330,6 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-politics-live-updates-biden-to-introduce-buttigieg-as-incoming-transportation-chief-wednesday.md",
-      "title": "Politics live updates: Biden to introduce Buttigieg as incoming Transportation chief Wednesday",
-      "excerpt": "Pete Buttigieg is scheduled to appear with Biden Wednesday for a formal announcement. On Twitter, he called the nomination a \"tremendous opportunity.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/16/politics-updates-biden-introduce-buttigieg-incoming-dot-chief/3916579001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/16/politics-updates-biden-introduce-buttigieg-incoming-dot-chief/3916579001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/16/USAT/36266745-f2f2-4cd8-ae8a-afc00b0c588c-GTY_1230145961.jpg?auto=webp&crop=5288,2975,x0,y352&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3916579001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3916579001",
-      "publishedDateTime": "2020-12-16T06:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Kamala Harris"
       ]
     }

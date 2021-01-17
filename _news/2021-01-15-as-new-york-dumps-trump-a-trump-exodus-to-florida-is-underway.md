@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump heads for new life in Florida, marking end of an era in New York"
+    excerpt: "The born-and-raised New Yorker seems ready to leave the city in which he made his name – and few will mourn his departure"
+    publishedDateTime: 2021-01-17T09:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/17/donald-trump-leave-new-york-city-florida"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/17/donald-trump-leave-new-york-city-florida"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/17/donald-trump-leave-new-york-city-florida"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7013f44e59214d0f1a6b352c0ca3c0c380b3545/0_0_3100_2108/master/3100.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aad7a3492a81ad122460101ba8f5f7b0"
+        width: 600
+        height: 408
+        isCached: true
   - title: "As Trump leaves office, South Florida is poised to become his new ‘MAGA’ capital"
     excerpt: "Everyone’s leaving. They’re moving to Florida,\" President Donald Trump says. South Florida is poised to become Trump's new MAGA capital after he leaves the White House."
     publishedDateTime: 2020-12-26T16:28:00Z

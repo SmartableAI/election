@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-01-01-trump-attacks-and-vote-by-mail-the-top-voting-rights-stories-of-2020.md",
+      "title": "Trump attacks and vote by mail: the top voting rights stories of 2020",
+      "excerpt": "The pandemic created new barriers to the ballot box and strengthened existing ones – aided by the president and his Republican allies",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5e11026192d8237ee0edc6181e2e4ab0c7fbb0e7/0_0_4000_2668/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9483731ba5514da97ac2b855bfcd44c3",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
+      "publishedDateTime": "2021-01-01T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-gop-senator-rebukes-dangerous-ploy-to-fight-biden-victory.md",
       "title": "GOP senator rebukes 'dangerous ploy' to fight Biden victory",
       "excerpt": "Republican Sen. Ben Sasse of Nebraska has issued a pointed rebuke of GOP attempts to object Jan. 6 to the Electoral College tally of the presidential election, warning colleagues against a “dangerous ploy” that could damage the nation's civic traditions.",
@@ -1296,62 +1348,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-nikki-haley-says-americans-should-be-worried-about-woke-left-when-biden-is-president.md",
-      "title": "Nikki Haley says Americans should be worried about ‘woke left’ when Biden is president",
-      "excerpt": "Former U.N. Ambassador Nikki Haley on Tuesday issued a tweet that said Americans should be worried about the \"woke left\" under President-elect Joe Biden -- warning that the group wants to use the \"full force\" of government to achieve its radical goals.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3uDFHnaPPs8/nikki-haley-americans-woke-left-biden-president",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3uDFHnaPPs8/nikki-haley-americans-woke-left-biden-president",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 247,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da6ccb3d-d6ae-4c35-892d-2a2d0a5234d2/dfcf7c7b-cb1f-422b-9614-5fd44aba5411/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nikki-haley-americans-woke-left-biden-president.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-americans-woke-left-biden-president.amp",
-      "publishedDateTime": "2020-12-29T15:28:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

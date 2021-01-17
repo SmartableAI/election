@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/biden-science-forefr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/biden-science-forefront-administration-75295060"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,33 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden elevates chief science adviser to a Cabinet position, picks human genome pioneer for the post"
+    excerpt: "Joe Biden announced Friday that he has chosen a pioneer in mapping the human genome — the so-called “book of life” — to be his chief science adviser."
+    publishedDateTime: 2021-01-16T01:16:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 109
+    images:
+      - url: "https://www.chicagotribune.com/resizer/_KnwY3nRWrxfc3pBEgErezBucOk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JVDAS7L35DO6FVFNIWKSAAR62E.aspx"
+        width: 1200
+        height: 791
+        isCached: true
+  - title: "Biden: Science will be at `forefront' of his administration"
+    excerpt: "President-elect Joe Biden says \"science will always be at the forefront of my administration,” and he is elevating the post of science adviser to Cabinet level, a White House first."
+    publishedDateTime: 2021-01-17T10:28:00Z
+    webUrl: "https://www.businessinsider.com/biden-science-will-be-at-forefront-of-his-administration-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-science-will-be-at-forefront-of-his-administration-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-science-will-be-at-forefront-of-his-administration-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden will encourage vaccination of all people over 65, frontline workers"
     excerpt: "The incoming administration of Democratic President-elect Joe Biden will seek to vaccinate all people over 65 and frontline workers, as Biden seeks to administer 100 million COVID-19 vaccines during his first 100 days in office."
     publishedDateTime: 2021-01-16T02:18:00Z
@@ -58,22 +85,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547761954&r=LYNXMPEH0D0LH&w=800"
         width: 800
         height: 533
-        isCached: true
-  - title: "Joe Biden elevates chief science adviser to a Cabinet position, picks human genome pioneer for the post"
-    excerpt: "Joe Biden announced Friday that he has chosen a pioneer in mapping the human genome — the so-called “book of life” — to be his chief science adviser."
-    publishedDateTime: 2021-01-15T23:21:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 59
-    images:
-      - url: "https://www.baltimoresun.com/resizer/_KnwY3nRWrxfc3pBEgErezBucOk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JVDAS7L35DO6FVFNIWKSAAR62E.aspx"
-        width: 1200
-        height: 791
         isCached: true
 
 secured: "g53rz7IbyHFtbuquQI/yc8I6jHp7vbnX6H74QuMfKLLOHyEncjWTJQO00sa2BShvgN5f6f2FEbdh2Ru/q1sghE3BBbNmY8fge2Ks+oIaziRp1yfvCMPOXYoMISMHcfXneB+1v8RCpFBtzByxLy82m8+pO4I/UeamBS109QmEjkoKI1zFKgxG+nBu4BMJGMfa1852EC7yHXo1yViieIsXDZtQnlJtFcLhe5lHc5cUNMvbxNw6wCOr9g2360dfCGflA7bqiWBGlWp6H9aAvAXnjKGFuuJ+jC8fKl/AnbEQqbnYXJfs6OUBgw43yd/oJ8u2VTGClwQ9E8J1SRCmO8g54t37FzRA1KxUtcEi/nmyPto=;UzDXeFPDg+aqHrNQ8H7RNg=="

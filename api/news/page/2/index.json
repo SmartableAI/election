@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-16-biden-pledges-to-vaccinate-100-million-americans-in-his-first-100-days-in-office.md",
+      "title": "Biden pledges to vaccinate 100 million Americans in his first 100 days in office",
+      "excerpt": "President-elect Joe Biden is pledging to fix the United States' slow coronavirus vaccine rollout. CBS News senior White House and political correspondent Ed O'Keefe spoke with CBSN's Elaine Quijano about what the incoming Biden administration plans to do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/biden-pledges-to-vaccinate-100-million-americans-in-his-first-100-days-in-office/",
+      "originalUrl": "https://www.cbsnews.com/video/biden-pledges-to-vaccinate-100-million-americans-in-his-first-100-days-in-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/16/1e229ed6-306f-491b-9a1a-96d74f087821/thumbnail/1200x630/a286355ec3d57513ef1d25b289737f3f/0115-cbsn-sws-627506-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-15T17:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-outgoing-trump-admin-mulls-industry-wide-biofuel-waiver-for-oil-refiners.md",
       "title": "Outgoing Trump admin mulls industry-wide biofuel waiver for oil refiners",
       "excerpt": "The Trump administration is considering requests from the oil refining industry and its backers for a sweeping nationwide waiver to exempt them from their obligations to blend biofuels, a measure they argue would help them weather the economic impact of the coronavirus",
@@ -562,7 +614,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1365,
+      "heat": 1385,
       "tags": null,
       "images": [
         {
@@ -785,7 +837,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 420,
+      "heat": 440,
       "tags": null,
       "images": [
         {
@@ -1321,62 +1373,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-franklin-graham-asks-if-pelosi-promised-10-republicans-pieces-of-silver-to-betray-trump.md",
-      "title": "Franklin Graham asks if Pelosi promised 10 Republicans 'pieces of silver' to betray Trump",
-      "excerpt": "Protestant evangelist and missionary Franklin Graham expressed outrage Thursday with the 10 House Republicans who joined Democrats this week in voting to impeach President Trump for a second time – and claimed House Speaker Nancy Pelosi may have swayed them.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cILc-h7NjH8/franklin-graham-asks-if-pelosi-promised-10-republicans-pieces-of-silver-to-betray-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cILc-h7NjH8/franklin-graham-asks-if-pelosi-promised-10-republicans-pieces-of-silver-to-betray-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Franklin-Graham-headshot-Samaritans-Purse.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/franklin-graham-asks-if-pelosi-promised-10-republicans-pieces-of-silver-to-betray-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/franklin-graham-asks-if-pelosi-promised-10-republicans-pieces-of-silver-to-betray-trump.amp",
-      "publishedDateTime": "2021-01-15T02:24:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

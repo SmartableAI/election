@@ -247,6 +247,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "New study examines how Donald Trump used Twitter to craft an alternate reality for his followers"
+    excerpt: "The study analyzed thousands of Trump's tweets to show how Trump used Twitter to craft a world where what he said was dogma."
+    publishedDateTime: 2021-01-17T08:30:00Z
+    webUrl: "https://www.cleveland.com/open/2021/01/new-study-examines-how-donald-trump-used-twitter-to-craft-an-alternate-reality-for-his-followers.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/01/new-study-examines-how-donald-trump-used-twitter-to-craft-an-alternate-reality-for-his-followers.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/01/new-study-examines-how-donald-trump-used-twitter-to-craft-an-alternate-reality-for-his-followers.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 62
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HDAMTR4D2ZFCRBMTOLQKLERYOE.jpg"
+        width: 3353
+        height: 2235
+        isCached: true
 
 secured: "mYQcs7q3/jI3Ji+3RrViDm6c8KRnA5JVD6k9hfEAPADJUXUdT3L8BkrMAkJdq/rGSI0qI9W46oDP4jk8alHQhP28Rec4ivHiVjDI2F0N4prH6CvbpaTPbi2wKqZmdFHFhIa+3jL3XLR0gNG1vyEfpr5JVxQZbeUVfRmoDOgf9vBgQNFGGy9VVUsIOQYihIxj6KFZOIOCay5jj31Xwx87O+ocV7IdnBy4/NSuY8tf+r75yIdlY+fWsQeg2eOs4uKA8cdQgztP0J25oWeFRZhIKMEeKfj0fC5aKuxHal2okjjNClBEkhf/akVEYIWpabP5H2iTmznUfIbMLg9dn1aKimqiL7dE9wOTGaQb+9xY9Es=;KU6EtbebFJIFUyvBgyazgw=="
 ---

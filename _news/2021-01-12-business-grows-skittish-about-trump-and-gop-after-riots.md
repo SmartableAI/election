@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/wall-street-distances-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -167,6 +167,20 @@ related:
     images:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548005470&r=LYNXMPEH0F01K&w=800"
         width: 799
+        height: 533
+        isCached: true
+  - title: "U.S. state capitals gird for pro-Trump armed protests, FBI flags risk of violence"
+    excerpt: "Protesters are expected to descend on statehouses across the United States on Sunday in support of baseless claims that electoral fraud robbed President Donald Trump of a second term, as law enforcement officials girded for possible violence."
+    publishedDateTime: 2021-01-17T09:12:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-protests/u-s-state-capitals-gird-for-pro-trump-armed-protests-fbi-flags-risk-of-violence-idUKKBN29M048"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548089624&r=LYNXMPEH0G03L&w=800"
+        width: 800
         height: 533
         isCached: true
   - title: "After Capitol rampage, Pelosi calls on Trump to resign and Twitter deletes his account"

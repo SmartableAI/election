@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-excerpt: "WASHINGTON -- Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
-publishedDateTime: 2021-01-16T00:57:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-webUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
+publishedDateTime: 2021-01-16T08:57:00Z
+originalUrl: "https://apnews.com/9cf431138cceeda9f6f7104e0fa20487"
+webUrl: "https://apnews.com/9cf431138cceeda9f6f7104e0fa20487"
 type: article
-quality: 150
+quality: 130
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Election
-  - Mike Pence
   - Kamala Harris
+  - Mike Pence
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://storage.googleapis.com/afs-prod/media/4444eb45d10847adbfe84daefb893fa0/3000.jpeg"
+    width: 3000
+    height: 2000
     isCached: true
 
 related:
@@ -1072,6 +1066,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "TmV9YCWLKsB+YVLKhTs6BtOSigRGbSwjKJ/wRvYoi9FA8USH7ezyHP7WqTKf5sflVVaQsA04YnfpWakw/hzfmwfPaYQuIpvSjqXMaEwxgVga+moIaIc8KX+FB4+u2LNE4zxuXxm+HDE43Vc0zsWEV7Y6DugdKtjh8A0qzMbIhKQOm/NNxETalMkj/NiD1p5OpkJWwy7AqTPQgcMpPZKOJImmWyzYsA1xQqQgufHoYkEvPR6N1npRQmFgTh9N9+fpq4AxsqhxOjyJx0dxw2qLu+Nvl9awXBgND4nms2U7qQRryFFzjfla76b5j//nHMJlOHAR3lZ2BvIMcEQpSg2WMWqJUYYMIqvVIxqkAbpjRlw=;rUUSaeBsvIgMvv59NmqYdg=="
+secured: "h+T5Po2cdjNiJXxqXIIG+k88Wrytnc2l/xxS9LltGfIqA9H2PmJIZD4Vh9kS/NfSLBTR+XcIBkcWyWmZZS04meM+xuVpTwr+0yHITZAX2mdWFvos4L8yPRxN6YIy31wlu3gBzljGIVmdwVYO5TxCcm6vz+HY7TF9W4j3Jt8lHdGToeIZ8qq0pmWDL+zwA30Qa+CKqN87wXqX4mkhUAS7e7iE0gwNI6kfGgRCRdutVTyXns3biefCMAEbsS5Vy421uZXImsZD/JI7uvE/0yk7y/OXSMA6eCJC0di/BLw0H6N+R9DrYSAIwiwB/aWEqBIv8Wo5nyOcobVk++VNPqyh8zh4BVS9Ex1tFzZqI51zX2E=;PAhpkfBt2yEE9wWTjpH4SA=="
 ---
 

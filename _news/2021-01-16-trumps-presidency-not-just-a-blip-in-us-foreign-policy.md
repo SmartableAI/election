@@ -39,22 +39,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-    excerpt: "WASHINGTON -- Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
-    publishedDateTime: 2021-01-16T00:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 150
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "House passes measure calling on Pence to remove Trump"
     excerpt: "The House on Tuesday passed legislation calling on Vice President Pence to tap his Constitutional authority to remove President Trump from office in response to the president’s role in the deadly mob attack on the Capitol last week."
     publishedDateTime: 2021-01-13T12:01:00Z
@@ -102,6 +86,20 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/ad02f72/2147483647/strip/true/crop/3000x1959+0+20/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff6%2F01%2Fcbd4b15d41a6962baf92c78dbb80%2Fdhs-acting-secretary-immigration-63532.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
+    publishedDateTime: 2021-01-16T08:57:00Z
+    webUrl: "https://apnews.com/9cf431138cceeda9f6f7104e0fa20487"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 130
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/4444eb45d10847adbfe84daefb893fa0/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
     excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's"

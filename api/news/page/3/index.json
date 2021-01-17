@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-15-franklin-graham-asks-if-pelosi-promised-10-republicans-pieces-of-silver-to-betray-trump.md",
+      "title": "Franklin Graham asks if Pelosi promised 10 Republicans 'pieces of silver' to betray Trump",
+      "excerpt": "Protestant evangelist and missionary Franklin Graham expressed outrage Thursday with the 10 House Republicans who joined Democrats this week in voting to impeach President Trump for a second time – and claimed House Speaker Nancy Pelosi may have swayed them.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cILc-h7NjH8/franklin-graham-asks-if-pelosi-promised-10-republicans-pieces-of-silver-to-betray-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cILc-h7NjH8/franklin-graham-asks-if-pelosi-promised-10-republicans-pieces-of-silver-to-betray-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Franklin-Graham-headshot-Samaritans-Purse.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/franklin-graham-asks-if-pelosi-promised-10-republicans-pieces-of-silver-to-betray-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/franklin-graham-asks-if-pelosi-promised-10-republicans-pieces-of-silver-to-betray-trump.amp",
+      "publishedDateTime": "2021-01-15T02:24:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-joe-biden-unveils-19tn-us-economic-relief-package.md",
       "title": "Joe Biden unveils $1.9tn US economic relief package",
       "excerpt": "President-elect Joe Biden has unveiled a $1.9tn (£1.4tn) stimulus plan for the coronavirus-sapped US economy before he takes office next week. If passed by Congress, it would include $1tn for households,",
@@ -487,7 +543,7 @@
       "originalUrl": "https://abcnews.go.com/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1255,62 +1311,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trumps-former-doctor-harold-bornstein-dies.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-former-doctor-harold-bornstein-dies.amp",
       "publishedDateTime": "2021-01-14T10:23:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-scalise-slams-dems-for-ratcheting-up-rhetoric-says-biden-should-call-for-end-to-impeachment-trial.md",
-      "title": "Scalise slams Dems for 'ratcheting up rhetoric,' says Biden should call for end to impeachment trial",
-      "excerpt": "House Minority Whip Steve Scalise, R-La., slammed his Democratic colleagues Thursday for ratcheting up the rhetoric by impeaching President Trump without an investigation as the nation struggles with division.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hdabdqdSg4U/trump-impeachment-democrats-rep-steve-scalise",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hdabdqdSg4U/trump-impeachment-democrats-rep-steve-scalise",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-impeachment-democrats-rep-steve-scalise.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-democrats-rep-steve-scalise.amp",
-      "publishedDateTime": "2021-01-14T07:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
