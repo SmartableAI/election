@@ -827,21 +827,37 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden to prioritize legal status for millions of immigrants"
-    excerpt: "President-elect Joe Biden will announce legislation his first day in office that provides a path to citizenship for millions of immigrants in the United States illegally"
-    publishedDateTime: 2021-01-17T01:27:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-to-prioritize-legal-status-for-millions-of-immigrants/2021/01/16/04079a8a-5862-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-prioritize-legal-status-for-millions-of-immigrants/2021/01/16/04079a8a-5862-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-prioritize-legal-status-for-millions-of-immigrants/2021/01/16/04079a8a-5862-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+  - title: "Biden says his advisors will lead with ‘science and truth’"
+    excerpt: "In a dig at the outgoing Trump administration, President-elect Joe Biden says his team of scientific advisors will lead with “science and truth\""
+    publishedDateTime: 2021-01-16T23:09:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-16/biden-says-his-advisers-will-lead-with-science-and-truth"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-16/biden-says-his-advisers-will-lead-with-science-and-truth?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-16/biden-says-his-advisers-will-lead-with-science-and-truth?_amp=true"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/2a2e76e/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F39%2Fcb%2F5838f6174f349c1b4cb2c2e019c0%2Fla-photos-1staff-688999-me-0115-dodger-stadium-vaccination-003.IK.JPG"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Biden to prioritize legal status for millions of immigrants"
+    excerpt: "President-elect Joe Biden will announce legislation his first day in office that provides a path to citizenship for millions of immigrants in the United States illegally"
+    publishedDateTime: 2021-01-17T04:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-prioritize-legal-status-millions-immigrants-75302682"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-prioritize-legal-status-millions-immigrants-75302682"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-prioritize-legal-status-millions-immigrants-75302682"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4d070eae380a4340b34102737d81d576_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Federal prisons on lockdown in run-up to Biden inauguration"
     excerpt: "Federal prisons across the U.S. have been placed on lockdown as officials aim to quell any potential violence that could arise in the run-up to President-elect Joe Biden’s inauguration on Wednesday"
@@ -938,6 +954,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106823272-1610480084902-gettyimages-175050214-WALL-STREET-REFORMS.jpg?v=1610480100"
         width: 3459
         height: 2250
+        isCached: true
+  - title: "Many Trump-era photos look like dramatic old paintings. That’s no ‘accident.’"
+    excerpt: "Strife imitates art on the subreddit “Accidental Renaissance,” where followers liken contemporary images to great works of art."
+    publishedDateTime: 2021-01-17T04:22:00Z
+    webUrl: "https://www.washingtonpost.com/entertainment/accidental-renaissance-reddit-images/2021/01/13/c4aa48f8-53c8-11eb-a931-5b162d0d033d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/entertainment/accidental-renaissance-reddit-images/2021/01/13/c4aa48f8-53c8-11eb-a931-5b162d0d033d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/entertainment/accidental-renaissance-reddit-images/2021/01/13/c4aa48f8-53c8-11eb-a931-5b162d0d033d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M5LOV4SYKEI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 760
         isCached: true
   - title: "Trump to award Bill Belichick a Medal of Freedom as House considers impeachment"
     excerpt: "Patriots Coach Bill Belichick is the latest sports figure to receive the award in the administration's final days."
@@ -1812,6 +1844,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Trudeau expects Biden to re-engage U.S. on world stage"
+    excerpt: "Reuters Next Trudeau expects Biden to re-engage U.S. on world stage. Posted . Canada and other U.S. allies are looking to President-elect Joe Biden to re-engage on the world stage"
+    publishedDateTime: 2021-01-17T03:08:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDV6MGV3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210114&i=OVDV6MGV3&r=OVDV6MGV3&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "U.S. capitals on edge for armed protests as Trump presidency nears end"
     excerpt: "Washington, D.C., was locked down and U.S. law enforcement officials geared up for pro-Trump marches in all 50 state capitals this weekend, erecting barriers and deploying thousands of National Guard troops to try to prevent the kind of violent attack that rattled the"
     publishedDateTime: 2021-01-17T00:08:00Z
@@ -2632,6 +2678,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Brand Tarnished After Bruising Presidency And Capitol Attack"
+    excerpt: "Donald Trump shot to prominence with a business empire that bears his name, but after four years of political tumult capped by his supporters' violent attack on the Capitol, the US president's brand stands tarnished,"
+    publishedDateTime: 2021-01-17T02:43:00Z
+    webUrl: "https://www.ibtimes.com/trump-brand-tarnished-after-bruising-presidency-capitol-attack-3123987"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/16/president-donald-trumps-brand-includes-properties-such-as.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "o/yLsECq1thQE9n9wq2sPlSZJbQFNHuqSd420ot+LUnd9F+Hic0nUF7yxdHIKhCP0isILDzxNBMLEDssgtzgxRQwItzxihvcPyl4nA0D2e7r1DghrPaiZ4EJaiLfKARB23g7CRfQyqVrHA8kvt54w0CUO9FhEOsIgm4AXFkVs8GNMAIGUz54J5oOi5KsK5JZMk/owVjl71r79iXuXAvjVdnw93Uym+U0OKUKzYNkWDQYdoSzd4EPrmENJAc9HR2E7tQMhHE/1YIoXP0TI6tjappPcIV1EaQASPZ0WeRAjgcJHLAPLmB2jc0Vrq6d0oQG3bDlTQzk9TajBpDSj4wMsRJDZ/4RS9InhUJjFuW1xQk=;uHhs4iPyi4csQNe2N7zZxQ=="
 ---

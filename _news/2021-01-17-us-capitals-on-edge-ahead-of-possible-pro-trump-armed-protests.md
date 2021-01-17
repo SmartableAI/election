@@ -61,6 +61,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "How Twitter, on the frontlines of history, finally decided to ban Trump"
+    excerpt: "Twitter CEO Jack Dorsey agreed to ban Donald Trump from Twitter after tearful all-hands meetings, bitter dialogues, and employee pushback, knowing that this would be the biggest decision his company had ever faced."
+    publishedDateTime: 2021-01-17T04:51:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/01/16/how-twitter-banned-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/01/16/how-twitter-banned-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/16/how-twitter-banned-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/73AIAMSWDUI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 944
+        isCached: true
   - title: "Donald Trump appeal says government should defend E Jean Carroll lawsuit"
     excerpt: "Justice department puts itself in between president and writer who sued after Trump dismissed 1990s rape allegation as bookselling ploy"
     publishedDateTime: 2021-01-16T02:49:00Z
@@ -255,6 +271,6 @@ related:
         height: 804
         isCached: true
 
-secured: "8L320ZQWa3DjKJR5HpiwEToIlNnlXKfIqMrHmQ7/ZbU2b+4N/og2TZ/UsG1+t2lp77tbA7UPBlhAmpeAeJSnjDhQw5wCjwWAY2guKoRtIAD8kfV3CdTKUJQa6CfHwaVQnsN8aN2FS8IlefRfOcP5m2bd04PxFJWkWRFouf6j8ohFodl9+QzhiQQR9mN9Ni8NH//uRxjfIU2i40iE0ho7VUqV0eQ7YY7FFMfUKjnC2gb5cctUMM9O093JkbFIbZyOYdGpEPy77z5GJZ9wp/gB029cWdepLIeU7KFerZplRg9W4sOy0st5UAdlAH1BtOrDevou+czDO+IsaStZsU2o4yiO1/ZiNNkFbMy0I1TlDt0=;TIfMYpW9AnIL289JcKRefA=="
+secured: "G3YmCCav6NMSvIcHFvPOmA/XMYvATCncQOix58gtDOxP0QAQr8b0euLj93fPpI71asSHUf9EZN8FaEP0VDSsrfCOM8vUau8U1/ianIUQeJKpQ/GtaSF6bPCZ262IU+Pa2fM7tHw7+dxzMHO/uvRNws2boBw9ngyKq23gg8h9pRi5AZphsw/4RBYW80psfvjWJ8ft5zHSgiLX33ooLRyxkMY2hGedLxksdWi74o13UBEkBEPBmfAk65LsE3WjWzod6CjHT/Iye2TC2+GmmCRe7KOVxa7XPQ+IzsTI9n3PDIe4SGm7D1JMKpJ4E157ImiSW3VkiNhUW6qWB7FtVQy4sirT/85BtyIVGmlDTUS/rF1SNtQMQ9/BmsqszMED8eSujMb5HIgQrkF8NQX/+Qc080HclPVspT+BFTB90m+qshmiGNtgApPkuQPt36YwekfkXeiTdewFaItMUvXfnzkU65KMNcPFv7Ip+GFA4+SgTAcAx4Bd2FvYbjv8/PiuujnONyMtFCefp30vGfZHXljNqA==;A8/QLFiAQEgOYBus8PC1hw=="
 ---
 

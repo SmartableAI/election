@@ -630,9 +630,9 @@ related:
         height: 533
         isCached: true
   - title: "U.S. state capitals, Washington on alert for possible pro-Trump armed protests"
-    excerpt: "Ten days after rioters breached the U.S. Capitol in a deadly attack that stunned the world, cities nationwide were girding for a potential new wave of violent protests over the weekend, erecting barriers and deploying thousands of National Guard troops."
-    publishedDateTime: 2021-01-17T01:56:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/us-state-capitals-washington-on-alert-for-possible-pro-trump-armed-protests-idUSKBN29L0CS"
+    excerpt: "(Reuters) - Ten days after rioters breached the U.S. Capitol in a deadly attack that stunned the world, cities nationwide were girding for a potential new wave of violent protests over the weekend, erecting barriers and deploying thousands of National ..."
+    publishedDateTime: 2021-01-17T04:57:00Z
+    webUrl: "https://www.reuters.com/article/SOMNIA-idUSKBN29L0CS"
     type: article
     provider:
       name: Reuters

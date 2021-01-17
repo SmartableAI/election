@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "How Twitter, on the frontlines of history, finally decided to ban Trump"
+    excerpt: "Twitter CEO Jack Dorsey agreed to ban Donald Trump from Twitter after tearful all-hands meetings, bitter dialogues, and employee pushback, knowing that this would be the biggest decision his company had ever faced."
+    publishedDateTime: 2021-01-17T04:51:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/01/16/how-twitter-banned-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/01/16/how-twitter-banned-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/16/how-twitter-banned-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/73AIAMSWDUI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 944
+        isCached: true
   - title: "Trump's crackdown on the US-Mexico border has been a moneymaker for border agents working with traffickers"
     excerpt: "Under Trump, corruption among US Border Patrol agents has increased dramatically, experts, former officials, and cartel operatives tell Insider."
     publishedDateTime: 2020-12-29T14:43:00Z

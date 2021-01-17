@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-29-biden-expected-to-call-out-trump-administration-on-pace-of-vaccine-distribution.md",
+      "title": "Biden expected to call out Trump administration on pace of vaccine distribution",
+      "excerpt": "President-elect Joe Biden is set to confront the slower-than-expected pace at which the Trump administration is administering coronavirus vaccines in remarks Tuesday afternoon, a transition official tells CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eQSyoVCr-RU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eQSyoVCr-RU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 726,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/29/politics/biden-trump-vaccine-distribution/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/biden-trump-vaccine-distribution/index.html",
+      "publishedDateTime": "2020-12-29T08:02:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-trump-michelle-obama-top-gallups-2020-most-admired-lists.md",
       "title": "Trump, Michelle Obama top Gallup's 2020 most admired lists",
       "excerpt": "President Donald Trump and former first lady Michelle Obama are the most admired man and woman of 2020, according to a new Gallup poll released Tuesday.\n    \n",
@@ -1634,63 +1690,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-trump-appoints-1776-commission-members-in-last-minute-bid-to-advance-patriotic-education.md",
-      "title": "Trump appoints 1776 Commission members in last-minute bid to advance 'patriotic education'",
-      "excerpt": "The group will be led by the president of the conservative Hillsdale College, Larry Arnn, a longtime Trump ally, the White House said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/18/trump-1776-commission-appointments-448229",
-      "originalUrl": "https://www.politico.com/news/2020/12/18/trump-1776-commission-appointments-448229",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d8/88/8403c9844566924526431b2c7c58/gettyimages-1215228995-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/18/trump-1776-commission-appointments-448229",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/18/trump-1776-commission-appointments-448229",
-      "publishedDateTime": "2020-12-18T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-bor
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/d28f8b02a1054d115e0ac05d26edab5a385ca5de/0_137_5145_3087/master/5145.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cf6e6c648ae5a290ee7660700b84263d"
         width: 600
         height: 360
+        isCached: true
+  - title: "How Twitter, on the frontlines of history, finally decided to ban Trump"
+    excerpt: "Twitter CEO Jack Dorsey agreed to ban Donald Trump from Twitter after tearful all-hands meetings, bitter dialogues, and employee pushback, knowing that this would be the biggest decision his company had ever faced."
+    publishedDateTime: 2021-01-17T04:51:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/01/16/how-twitter-banned-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/01/16/how-twitter-banned-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/16/how-twitter-banned-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/73AIAMSWDUI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 944
         isCached: true
   - title: "Donald Trump appeal says government should defend E Jean Carroll lawsuit"
     excerpt: "Justice department puts itself in between president and writer who sued after Trump dismissed 1990s rape allegation as bookselling ploy"

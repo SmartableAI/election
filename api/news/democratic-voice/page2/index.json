@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-10-mediaite-parler-ceo-says-it-took-down-post-from-lin-wood-calling-for-mike-pences-execution.md",
+      "title": "Mediaite: Parler CEO says it took down post from Lin Wood calling for Mike Pence's execution ",
+      "excerpt": "The CEO of Parler, a social media platform popular among conservatives, told Mediaite that it removed a post from attorney Lin Wood calling for Vice President Mike Pence to be executed by \"firing squads.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wIFzI7LEwgw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wIFzI7LEwgw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210109215414-lin-wood-120220-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/09/politics/parler-lin-wood-mike-pence/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/parler-lin-wood-mike-pence/index.html",
+      "publishedDateTime": "2021-01-09T20:09:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-pence-has-not-ruled-out-25th-amendment-source-says.md",
       "title": "Pence has not ruled out 25th Amendment, source says",
       "excerpt": "Vice President Mike Pence has not ruled out an effort to invoke the 25th Amendment and wants to preserve the option in case President Donald Trump becomes more unstable, a source close to the vice president says.\n    \n",
@@ -1637,62 +1694,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-biden-expected-to-call-out-trump-administration-on-pace-of-vaccine-distribution.md",
-      "title": "Biden expected to call out Trump administration on pace of vaccine distribution",
-      "excerpt": "President-elect Joe Biden is set to confront the slower-than-expected pace at which the Trump administration is administering coronavirus vaccines in remarks Tuesday afternoon, a transition official tells CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eQSyoVCr-RU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eQSyoVCr-RU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 726,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/29/politics/biden-trump-vaccine-distribution/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/biden-trump-vaccine-distribution/index.html",
-      "publishedDateTime": "2020-12-29T08:02:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

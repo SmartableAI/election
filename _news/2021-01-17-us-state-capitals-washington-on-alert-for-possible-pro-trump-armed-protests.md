@@ -1,10 +1,10 @@
 ---
 category: news
 title: "U.S. state capitals, Washington on alert for possible pro-Trump armed protests"
-excerpt: "Ten days after rioters breached the U.S. Capitol in a deadly attack that stunned the world, cities nationwide were girding for a potential new wave of violent protests over the weekend, erecting barriers and deploying thousands of National Guard troops."
-publishedDateTime: 2021-01-17T01:56:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-protests/us-state-capitals-washington-on-alert-for-possible-pro-trump-armed-protests-idUSKBN29L0CS"
-webUrl: "https://www.reuters.com/article/us-usa-trump-protests/us-state-capitals-washington-on-alert-for-possible-pro-trump-armed-protests-idUSKBN29L0CS"
+excerpt: "(Reuters) - Ten days after rioters breached the U.S. Capitol in a deadly attack that stunned the world, cities nationwide were girding for a potential new wave of violent protests over the weekend, erecting barriers and deploying thousands of National ..."
+publishedDateTime: 2021-01-17T04:57:00Z
+originalUrl: "https://www.reuters.com/article/SOMNIA-idUSKBN29L0CS"
+webUrl: "https://www.reuters.com/article/SOMNIA-idUSKBN29L0CS"
 type: article
 quality: 101
 heat: -1
@@ -1071,6 +1071,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "zj2FnV+nzgzOwFdV22Bt6J53cWpBhFHvHNdP6DCopvSNiMaiJkYrEzTgkY1O88u+NFaPMrQJckEvr78I6YyNtkKfufiRqJZH32hkQPQpkunlSKSeC8K/BAF9r3AtmDJ1OJ7YUm2B+alxbA0Per9apoaPXNWiZPLwgoTbDdo10JdbfuVFz8uc1g1XTZnmLIkJkxNkIZ3nZSdMbxh9WEnUP/y+k3FBweI7u1sTxwNYzIz1WjF/VzcH3zufFOJ8bPgDw8lGiawtf0cw1lZIJjrWQ75LadipFtwDFCfxcga3jmyfVxD6VurX9O2iGQkWVQxj2ucpiZlh5dEyNQMjx0UHwR5ie72koD1ji8WejihpFqo=;31AcebTY0OwMiGK/wz2sgw=="
+secured: "QbK9f6tzZslNqTnBQ8uZe1kQWGN7zC+7EtYHSXRl6qwEK/I5TXWlOmGxaKbZ1WaBYjGfg6JO0M/MmxPyhidu/SyVcFs931in/UDPEaqgXJ4Y69H9Amjy6MQQ+j8Hfs54BRozbMs4djZWE2mICHHzDZLwyLo5fbSiZx/FwIPVCa4fdAMXbn6qubKZ1twzwUBo6mTL0oqkm0yHzCjs5mTQ6FO11cCujlovJXndlhMkcqYIBPBrgHjN5F7OgduUqM93xwGI9kftCoSKsiWPfeY85imPmSa0iOxBCQGiW94CQB5aDwejhFS5QXXqqddqnk6EgSXr+HVK71pbv1TaRpArYAW/JFtxEtmAJaRkg2kGbx8=;/EsWGCTXTtXZnQ50qmUwnA=="
 ---
 

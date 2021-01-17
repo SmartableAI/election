@@ -2,6 +2,54 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-06-trump-asks-judge-to-toss-niece-mary-trumps-conspiracy-laden-lawsuit.md",
+      "title": "Trump asks judge to toss niece Mary Trump’s ‘conspiracy’ laden lawsuit",
+      "excerpt": "President Trump says his niece’s lawsuit against the family is full of “conspiracy theories more befitting a Hollywood screenplay” — and all just part of a plan to make money off of the",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/",
+      "originalUrl": "https://nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/AP20268626599228.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/05/trump-asks-judge-to-toss-nieces-conspiracy-laden-lawsuit/amp/",
+      "publishedDateTime": "2021-01-05T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-donald-trumps-ferrari-will-head-to-auction-during-the-final-days-of-his-presidency-tour-the-500000-car.md",
       "title": "Donald Trump's Ferrari will head to auction during the final days of his presidency — tour the $500,000 car",
       "excerpt": "The car also includes a copy of its original title, which bears Trump's signature and the address of Trump Tower in New York City.",
@@ -1483,63 +1531,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-trump-versus-the-truth-the-most-outrageous-falsehoods-of-his-presidency.md",
-      "title": "Trump versus the truth: The most outrageous falsehoods of his presidency",
-      "excerpt": "I have never seen a president in American history who has lied so continuously and so outrageously as Donald Trump, period,” presidential historian Michael Beschloss said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-versus-truth-most-outrageous-falsehoods-his-presidency-n1252580",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-versus-truth-most-outrageous-falsehoods-his-presidency-n1252580",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_52/3437553/201222-trump-biggest-whoppers-main-cover-cs_03ea1ca899b5c3c15b942562ca290873.jpg",
-          "width": 2500,
-          "height": 1408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1252580",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252580",
-      "publishedDateTime": "2020-12-31T01:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

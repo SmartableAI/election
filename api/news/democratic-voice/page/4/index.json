@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-12-19-trump-appoints-1776-commission-members-in-last-minute-bid-to-advance-patriotic-education.md",
+      "title": "Trump appoints 1776 Commission members in last-minute bid to advance 'patriotic education'",
+      "excerpt": "The group will be led by the president of the conservative Hillsdale College, Larry Arnn, a longtime Trump ally, the White House said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/18/trump-1776-commission-appointments-448229",
+      "originalUrl": "https://www.politico.com/news/2020/12/18/trump-1776-commission-appointments-448229",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d8/88/8403c9844566924526431b2c7c58/gettyimages-1215228995-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/18/trump-1776-commission-appointments-448229",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/18/trump-1776-commission-appointments-448229",
+      "publishedDateTime": "2020-12-18T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-biden-transition-head-speaks-out-on-difficult-and-intense-process.md",
       "title": "Biden transition head speaks out on 'difficult and intense' process",
       "excerpt": "Biden’s longtime chief of staff and a former senator, says that leading Biden’s transition team “has been the most difficult and intense workload that I've ever experienced.” \"I thought we [saw] the most difficult transition because of the Great Recession,",
@@ -1637,64 +1694,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-biden-harris-beat-trump-again-this-time-as-times-person-of-the-year.md",
-      "title": "Biden, Harris beat Trump again, this time as Time's 'Person of the Year'",
-      "excerpt": "Other contenders were Dr. Anthony Fauci, front-line Covid-19 workers and racial justice movements that led protests over the death of George Floyd.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/us-news/biden-harris-beat-trump-again-time-time-s-person-year-n1250762",
-      "originalUrl": "https://www.nbcnews.com/news/us-news/biden-harris-beat-trump-again-time-time-s-person-year-n1250762",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_33/3404797/200811-joe-biden-kamala-harris-ac-1014p_e00b2642631f6be472883994c8fc6730.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1250762",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250762",
-      "publishedDateTime": "2020-12-10T20:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice",
-        "Kamala Harris"
       ]
     }
   ],

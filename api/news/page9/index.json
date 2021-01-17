@@ -2,6 +2,62 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-01-07-pelosi-will-impeach-if-cabinet-wont-oust-trump.md",
+      "title": "Pelosi: Will impeach if cabinet won’t oust Trump",
+      "excerpt": "This comes as top officials leave over Trump misconduct.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mh2iHot3Spw/pelosi-will-impeach-if-cabinet-wont-oust-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mh2iHot3Spw/pelosi-will-impeach-if-cabinet-wont-oust-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont-oust-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-will-impeach-if-cabinet-wont-oust-trump.amp",
+      "publishedDateTime": "2021-01-07T12:03:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-joe-biden-black-lives-matter-protesters-would-have-been-treated-differently-at-capitol-demonstrations.md",
       "title": "Joe Biden: Black Lives Matter protesters would have been ‘treated differently’ at Capitol demonstrations",
       "excerpt": "President-elect Joe Biden called protesters at the Capitol a “mob of thugs” and said if they were a group of Black Lives Matter demonstrators they would have been “treated very differently.”",
@@ -1278,58 +1334,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-joe-biden-denounces-violent-mob-at-us-capitol-this-must-end-now.md",
-      "title": "Joe Biden denounces violent mob at U.S. Capitol: \"This must end now\"",
-      "excerpt": "\"This is not dissent. It's disorder. It's chaos. It borders on sedition and it must end. Now,\" Mr. Biden said in remarks from Wilmington, Delaware. \"I call on this mob to pull back and allow the work of democracy to go forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/joe-biden-to-violent-mob-this-must-end-now/",
-      "originalUrl": "https://www.cbsnews.com/news/joe-biden-to-violent-mob-this-must-end-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/06/4a0dacba-5664-4bc2-8abb-160ed5515e4e/thumbnail/1200x630g2/e89a4d7f2cabe36860293e73fcb1fbc4/ap21006764485081.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-biden-to-violent-mob-this-must-end-now/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-to-violent-mob-this-must-end-now/",
-      "publishedDateTime": "2021-01-06T13:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

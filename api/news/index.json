@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-17-he-has-an-obligation-to-them-attorney-for-qanon-shaman-asks-trump-to-pardon-rioters.md",
+      "title": "‘He has an obligation to them’: Attorney for ‘QAnon shaman’ asks Trump to pardon rioters",
+      "excerpt": "The lawyer for the “QAnon shaman” who was part of the deadly siege of the Capitol last week publicly petitioned President Donald Trump on Thursday to pardon his client. In an interview on CNN, attorney Albert Watkins said his client, Jacob Chansley ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
+      "originalUrl": "https://www.politico.com/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/07/b6/307e93354e7abd5c6e56ee1bf883/jacob-chansley-773-ap.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
+      "publishedDateTime": "2021-01-16T19:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-17-politics-updates-horrified-loews-wont-host-hawley-fundraiser-biden-outlines-orders-planned-for-first-10-days.md",
       "title": "Politics updates: 'Horrified' Loews won't host Hawley fundraiser; Biden outlines orders planned for first 10 days",
       "excerpt": "\"We are horrified and opposed to the events at the Capitol and all who supported and incited the actions,\" the hotel chain said in a statement.",
@@ -964,7 +1021,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 208,
+      "heat": 228,
       "tags": null,
       "images": [
         {
@@ -1269,62 +1326,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-biden-unveils-bold-vaccination-plan-to-fix-trumps-dismal-failure.md",
-      "title": "Biden unveils ‘bold’ vaccination plan to fix Trump’s ‘dismal failure’",
-      "excerpt": "President-elect Biden on Friday unveiled what he touted as a “bold” plan to meet his promised goal of 100 million coronavirus vaccinations by the end of his first 100 days.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jjiLw-HbkcA/biden-bold-vaccination-trump-dismal-failure",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jjiLw-HbkcA/biden-bold-vaccination-trump-dismal-failure",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-bold-vaccination-trump-dismal-failure.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bold-vaccination-trump-dismal-failure.amp",
-      "publishedDateTime": "2021-01-15T15:58:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -143,6 +143,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Historians having to tape together records that Trump tore up"
+    excerpt: "Implications for public record and legal proceedings after administration seized or destroyed papers, notes and other information"
+    publishedDateTime: 2021-01-17T02:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/17/historians-having-to-tape-together-records-that-trump-tore-up"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/17/historians-having-to-tape-together-records-that-trump-tore-up"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/17/historians-having-to-tape-together-records-that-trump-tore-up"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/23c58d7e05d591a0a85ecbb2d7b8f13ac4e0c2a4/59_421_4979_2987/master/4979.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=90e8ccdad002ba5aa839cef117226028"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump administration announces 11th-hour rewrite of desert conservation plan"
     excerpt: "The Bureau of Land Management on Wednesday announced proposed changes to the Desert Renewable Energy Conservation Plan."
     publishedDateTime: 2021-01-16T02:35:00Z

@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-07-joe-biden-denounces-violent-mob-at-us-capitol-this-must-end-now.md",
+      "title": "Joe Biden denounces violent mob at U.S. Capitol: \"This must end now\"",
+      "excerpt": "\"This is not dissent. It's disorder. It's chaos. It borders on sedition and it must end. Now,\" Mr. Biden said in remarks from Wilmington, Delaware. \"I call on this mob to pull back and allow the work of democracy to go forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/joe-biden-to-violent-mob-this-must-end-now/",
+      "originalUrl": "https://www.cbsnews.com/news/joe-biden-to-violent-mob-this-must-end-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/06/4a0dacba-5664-4bc2-8abb-160ed5515e4e/thumbnail/1200x630g2/e89a4d7f2cabe36860293e73fcb1fbc4/ap21006764485081.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-biden-to-violent-mob-this-must-end-now/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-to-violent-mob-this-must-end-now/",
+      "publishedDateTime": "2021-01-06T13:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-biden-vows-to-get-big-things-done-after-georgia-senate-runoffs.md",
       "title": "Biden vows to ‘get big things done’ after Georgia Senate runoffs",
       "excerpt": "With Democrats close to capturing control of both houses of Congress, President-elect Joe Biden is vowing “to get big things done for our nation.”",
@@ -1245,58 +1297,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-trump-shared-the-wrong-number-for-a-michigan-lawmaker-a-28-year-old-has-gotten-thousands-of-angry-calls.md",
-      "title": "Trump shared the wrong number for a Michigan lawmaker. A 28-year-old has gotten thousands of angry calls.",
-      "excerpt": "The number the Trump campaign posted belonged to a 28-year-old Michigan native who has received now thousands of angry calls and texts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/nation/2021/01/05/michigan-trump-wrong-number-chatfield/",
-      "originalUrl": "https://www.washingtonpost.com/nation/2021/01/05/michigan-trump-wrong-number-chatfield/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZGRPOTU3VQI6VLLZ5334242GIE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/01/05/michigan-trump-wrong-number-chatfield/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/01/05/michigan-trump-wrong-number-chatfield/?outputType=amp",
-      "publishedDateTime": "2021-01-05T02:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

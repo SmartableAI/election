@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Acting secretary of defense orders NSA chief to install Trump loyalist as agency's general counsel"
+    excerpt: "The acting secretary of defense is trying to install a Trump loyalist as the top lawyer at the National Security Agency, according to three sources familiar.\n    \n"
+    publishedDateTime: 2021-01-17T04:37:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cnGOPz3S3Rc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/nsa-counsel-michael-ellis-christopher-miller/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/nsa-counsel-michael-ellis-christopher-miller/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116213644-nsa-file-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "iUTmsLlmzeSyEIyz5oJX6okb1jvPVqd5celVxQnOBKVgPT3EnQpYwKxXm7R/DmWhBmY2/SF92l1fxiarvO4fU0hmL7Cu2dOyRDdhJu34z0tJMIS+VFFS0YcAvLpd7Y6tYh2i4a5lVs8Pktzh01Oodraizr/9dT/n4PmLD8IbIlPtn1g52ExKkqGfpWFk4D1lD1sCZYgtXA5XWY4niKy5I1ifYFELPSVI9Ap8cloUmDblGi4BPrgjn6XRRXVY8jizQJ5A7VMBhnAvzKkUrhTP1UnQ4tWZcH0d82Qpgx6nTJLdkEzF5GO+SN5cuQsOi0lgfPDbeAMeydTHHVTr+z6Etc3gkxoRuRUrdnCdOYQ+yYA=;V6o9tItLbdMGTFnkX/7Blw=="
 ---
