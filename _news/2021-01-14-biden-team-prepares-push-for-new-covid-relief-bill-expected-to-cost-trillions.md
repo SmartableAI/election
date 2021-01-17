@@ -143,6 +143,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden intends quick executive actions to propel his agenda"
+    excerpt: "On the first day of his presidency, Joe Biden plans to roll back some of President Donald Trump’s most controversial policies and take steps to address the coronavirus pandemic"
+    publishedDateTime: 2021-01-17T19:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-intends-quick-executive-actions-to-propel-his-agenda/2021/01/17/5965ef08-58cc-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-intends-quick-executive-actions-to-propel-his-agenda/2021/01/17/5965ef08-58cc-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-intends-quick-executive-actions-to-propel-his-agenda/2021/01/17/5965ef08-58cc-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "$2,000 Stimulus Check Update as Joe Biden Pushes for Third Set of Direct Payments"
     excerpt: "President-elect Joe Biden has proposed \"direct cash payments\" totaling $2,000 be given to Americans, including a third stimulus check of $1,400, in addition to the $600 payment issued last month, as part of his $1."
     publishedDateTime: 2021-01-15T14:39:00Z

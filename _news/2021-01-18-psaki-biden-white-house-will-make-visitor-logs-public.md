@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden on track to take office without key Cabinet roles in place "
+    excerpt: "President-elect Joe Biden is on track to take office without key Cabinet members being confirmed on the day of his inauguration, a result of the Republican-led Senate moving much more slowly to schedule confirmation hearings and votes than it has for previous presidents.\n    \n"
+    publishedDateTime: 2021-01-17T22:05:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iFr1RYKmGwc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/biden-nominee-confirmations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/biden-nominee-confirmations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114130552-joe-biden-0108-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Acting secretary of defense orders NSA chief to install Trump loyalist as agency's general counsel"
     excerpt: "The acting secretary of defense is trying to install a Trump loyalist as the top lawyer at the National Security Agency, according to three sources familiar.\n    \n"
     publishedDateTime: 2021-01-17T04:37:10Z

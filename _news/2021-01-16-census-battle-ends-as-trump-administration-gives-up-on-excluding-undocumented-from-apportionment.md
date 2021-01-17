@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/local/social-issues/census-battle-end
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html?outputType=amp"
 type: article
 quality: 112
-heat: 172
+heat: 192
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547682772&r=LYNXMPEH0C1LP&w=800"
         width: 800
         height: 535
+        isCached: true
+  - title: "Exclusive: Trump admin slams China's Huawei, halting shipments from Intel, others - sources"
+    excerpt: "The Trump administration notified Huawei suppliers, including chipmaker Intel, that it is revoking certain licenses to sell to the Chinese company and intends to reject dozens of other applications to supply the telecommunications firm,"
+    publishedDateTime: 2021-01-17T22:07:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-huawei-tech-exclusive/exclusive-trump-admin-slams-chinas-huawei-halting-shipments-from-intel-others-sources-idUKKBN29M0KD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 95
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548118670&r=LYNXMPEH0G0DZ&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "Donald Trump's bitter fight to ban TikTok in the US looks set to fail after administration agrees to delayed legal deadline"
     excerpt: "Experts say a shift in legal deadline paves the way for President-elect Joe Biden to drop the suit."

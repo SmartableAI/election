@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden on track to take office without key Cabinet roles in place "
+    excerpt: "President-elect Joe Biden is on track to take office without key Cabinet members being confirmed on the day of his inauguration, a result of the Republican-led Senate moving much more slowly to schedule confirmation hearings and votes than it has for previous presidents.\n    \n"
+    publishedDateTime: 2021-01-17T22:05:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iFr1RYKmGwc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/biden-nominee-confirmations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/biden-nominee-confirmations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114130552-joe-biden-0108-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "What the Electoral College vote means for Trump and Biden"
     excerpt: "All 50 states have already certified their election results ensuring that Joe Biden will be the 46th president, but the Electoral College vote makes the result official. Trump and some Republican had sought to have electors removed in four crucial battleground states,"
     publishedDateTime: 2020-12-13T16:06:00Z

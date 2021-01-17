@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/tillerson-foreign-policy
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/tillerson-foreign-policy-interview/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210111201729-mike-pompeo-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "New York Times: Trump allies have collected tens of thousands of dollars from pardon seekers"
+    excerpt: "Allies and associates of President Donald Trump have collected tens of thousands of dollars in fees from those seeking pardons from the President, The New York Times reported Sunday.\n    \n"
+    publishedDateTime: 2021-01-17T22:17:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YxmLMZbnZko/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/trump-allies-pardons-lobbying/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/trump-allies-pardons-lobbying/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014145405-donald-trump-september-debate-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

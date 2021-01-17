@@ -88,6 +88,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "What to expect from Biden's inauguration?"
+    excerpt: "Watch \"What to expect from President-elect Joe Biden's inauguration as over 25,000 National Guards troops deployed to Washington D.C.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2021-01-17T21:13:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210117190428-what-to-expect-from-president-elect-joe-bidens-inauguration-as-over-25000-national-guards-troops-deployed-to-washington-d-c/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/17/story_08587676_1610910963.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Marriott will suspend donations to U.S. lawmakers who voted against Biden certification"
     excerpt: "Marriott International Inc, the world's largest hotel company, confirmed Sunday it will suspend donations to U.S. lawmakers who voted against certifying President-elect Joe Biden's victory last week."
     publishedDateTime: 2021-01-11T00:30:00Z

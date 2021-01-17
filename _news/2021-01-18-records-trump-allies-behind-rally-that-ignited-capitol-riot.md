@@ -101,6 +101,20 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Trump allies and Republican lawmakers lost thousands of followers in Twitter purge after Capitol riots"
+    excerpt: "Republican lawmakers lost thousands of followers when Twitter purged QAnon accounts following the violent mob attack on the Capitol stoked by Trump."
+    publishedDateTime: 2021-01-17T21:55:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2021/01/15/trump-republican-lawmakers-follower-counts-slashed-twitter-purge/4168064001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 89
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2021/01/14/USATODAY/usatsports/twitter-white-house-trump.jpg?width=1600&height=800&fit=crop"
+        width: 1600
+        height: 800
+        isCached: true
   - title: "The House impeached Donald Trump over his speech before the Capitol attack. Here’s what happens next"
     excerpt: "With the House voting to impeach President Donald Trump, the action moves to the Senate. It is not immediately clear when the Senate will begin a trial. • Most experts say that a trial can proceed after Trump is out of office if needed."
     publishedDateTime: 2021-01-13T22:31:00Z

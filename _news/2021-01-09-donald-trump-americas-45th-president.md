@@ -1054,6 +1054,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Why Trump is still a problem for the GOP establishment"
+    excerpt: "Our first CNN/SSRS poll since the insurrection of the Capitol contains mostly bad news for Republican President Donald Trump.\n    \n"
+    publishedDateTime: 2021-01-17T18:12:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EYECSNDsmkU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/trump-popular-problem-gop-establishment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/trump-popular-problem-gop-establishment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113113700-02-trump-dc-rally-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's impeachment foretold everything that's happened since "
     excerpt: "Alarming as it is, the corrosive conclusion to 2020 in America was plainly visible in advance.\n    \n"
     publishedDateTime: 2020-12-20T13:47:40Z

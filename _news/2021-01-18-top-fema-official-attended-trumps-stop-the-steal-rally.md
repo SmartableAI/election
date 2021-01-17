@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "DC attorney general says Trump could possibly be charged by city prosecutors with misdemeanor for role in Capitol insurrection"
+    excerpt: "District of Columbia Attorney General Karl Racine warned Sunday that President Donald Trump could possibly be charged by city prosecutors with \"a misdemeanor, a six-month-in-jail maximum,\" amid fallout from the deadly insurrection at the US Capitol earlier this month.\n    \n"
+    publishedDateTime: 2021-01-17T19:23:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/93wACO66a0I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/dc-karl-racine-potential-charge-trump-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/dc-karl-racine-potential-charge-trump-capitol-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 147
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106122844-02-trump-speaks-dc-protest-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "‘He has an obligation to them’: Attorney for ‘QAnon shaman’ asks Trump to pardon rioters"
     excerpt: "The lawyer for the “QAnon shaman” who was part of the deadly siege of the Capitol last week publicly petitioned President Donald Trump on Thursday to pardon his client. In an interview on CNN, attorney Albert Watkins said his client, Jacob Chansley ..."
     publishedDateTime: 2021-01-17T03:23:00Z
@@ -79,6 +95,22 @@ related:
       - url: "https://static.politico.com/07/b6/307e93354e7abd5c6e56ee1bf883/jacob-chansley-773-ap.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Presidential Transition Live Updates: N.S.A. Will Install a Trump Loyalist as Its General Counsel"
+    excerpt: "Vice President-elect Kamala Harris plans to resign from her Senate seat on Monday. An impeachment prosecutor said President Trump committed “the most serious presidential crime” in U.S. history."
+    publishedDateTime: 2021-01-17T17:10:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/17/us/inauguration-day-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/17/us/inauguration-day-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/17/us/inauguration-day-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 122
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/17/us/politics/17transition-briefing-promo1/17transition-briefing-promo1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "rZNfrg3M/in2pl6ZnIcIPrSjRUaIbUQr3KrPxLss6Ika+7KZOMMK5y7MtgvtFwYpiKP9X2q3lDbsSzFFuO7rcV47qVPplxZrgtlT7x3OE4reCydGSqj69ALi8vddgf0m18mRyqwtiNsIBMcqz4NSFD2uMbJByOtHkP7CTkOKi0N2wRguIbQZ1uWs0ztWgaYYs8Fb3euTA6eirsiL1bslySeruEoF81fjbMUPIwGKLAV+UJ3BJzh661ge41FXpVZpjU6j02B7xg5xA8WCyZGJRzUdpcAcUxJ0Z4XC6BOUTbEvBzwBnK3PQ8DEXA+TOtcCTJlmM5469HhtZknj6qmaD+Tyxis3gPl0wzRXBiDkmG58J15vtfzpofKcJnqc7Tr2+vU+rRMGduIgm49lQrHXttSa9hz/jE+URfMfMAG7ryzuoK7BgEHmsfku8V+TPZnsJFclOeTm9Wyh2o2/jh3Rjqmuo0Oum9HCDsLrerUIG78k3E2fVUChNMhChb/ZG4uKKRIXtl7s72ZepfeIokuZ7A==;WAMWDith7yUN20/+5NQK3Q=="

@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
-publishedDateTime: 2021-01-16T06:01:00Z
-originalUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
-webUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+excerpt: "WASHINGTON -- Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
+publishedDateTime: 2021-01-16T00:57:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+webUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
 type: article
 quality: 150
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -552,6 +552,20 @@ related:
       - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Justice Sotomayor to swear in Kamala Harris"
+    excerpt: "Watch \"Justice Sonia Sotomayor to swear in Vice President-elect Kamala Harris on inauguration \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-01-17T22:30:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210117204437-justice-sonia-sotomayor-to-swear-in-vice-president-elect-kamala-harris-on-inauguration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/17/story_08587647_1610916484.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Washington mayor asks for increased security around Biden's inauguration"
     excerpt: "Washington's mayor has asked for increased security around the inauguration of U.S. President-elect Joe Biden after last week's storming of the U.S. Capitol by supporters of President Donald Trump."
@@ -1202,6 +1216,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "tinVZuEjbTBpUS8pzrZ44R9zYsZEr6r5vWEj9/2bLRErPyqrubaq+AKCayflDWrSRBhomlqeHkNi563ppPo8XE6MMm+CFMHU9n1VgknFhVgO9mwMRRBIdLMM/J2x+dg8pWAbpgFsqvVyosVxCxrW8BH9JEln5qPdtlREw8TMv0YLIOj4pHWDbqR+nwnSCpm7U0ymjEShJ9AILktsgG7YjCd06+pXZwvoFwoyh3D6jZOPDb3w/+at1XqkPZ6uY3ITnxO09WZRlmaVX9YSGTW+4ovHTSnIhwvQSrlme+C5mX5qx+P8JW5pZNdtK5C/SdwnzTecVzNpSouh6DhFIkUfLM3Ua/ya8pKdISnEExgcJcY=;lcnWwU9VdnxhnFM4XCM2pQ=="
+secured: "nYbmpSPS2QlagpKw86fjG2bMOedmigGrI94RshjB7TIBm3gAX3ZIF2Qv/DtexFhnDSr0CGLuyW/cenTmdGAusu9U2X77m3C7XctLwfqUaX+upmrygk9NEaEJr5miXI535oTqavBKKZKV6mZXTZvdIYd3TYfAjebDZDFfx9+fhhmf9urDHPU1NO1xIJvlTyXDEKtZ4Wa+h7G0fhN7AJXx5yPXC02qpMPiKJcH0AKfmV9abU9LWfOkdYfpYuL+/WBoH5Op/881o9IduQB1YXlw1NrEaPUZJxg9z+qFSc80/EOytKk+zP10T3NicIknvvh/4uqKhnKCRlgDUBZ0v29qGl+lCNmSkyc5Qnc2CL2x+EA=;mxYiAMSTmwLhw9tJWqik+w=="
 ---
 

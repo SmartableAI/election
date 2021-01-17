@@ -59,6 +59,20 @@ related:
         width: 800
         height: 535
         isCached: true
+  - title: "Exclusive: Trump admin slams China's Huawei, halting shipments from Intel, others - sources"
+    excerpt: "The Trump administration notified Huawei suppliers, including chipmaker Intel, that it is revoking certain licenses to sell to the Chinese company and intends to reject dozens of other applications to supply the telecommunications firm,"
+    publishedDateTime: 2021-01-17T22:07:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-huawei-tech-exclusive/exclusive-trump-admin-slams-chinas-huawei-halting-shipments-from-intel-others-sources-idUKKBN29M0KD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 95
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548118670&r=LYNXMPEH0G0DZ&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Snapchat Permanently Bans Donald Trump For Spreading Misinformation, Inciting Violence"
     excerpt: "Snapchat has permanently banned Donald Trump from its platform after assessing what could happen if he were to continue spreading misinformation and inciting violence online."
     publishedDateTime: 2021-01-14T02:36:00Z

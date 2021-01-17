@@ -486,6 +486,22 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "Donald Trump’s Masculinity Is an Empty Spectacle"
+    excerpt: "Trump’s invocations of pussy —the one a boast, the other a threat—make fitting bookends to a presidency shaped by malignant masculinity. With pussy it began; to pussy it has returned. The Access Hollywood tape,"
+    publishedDateTime: 2021-01-17T21:14:00Z
+    webUrl: "https://www.theatlantic.com/culture/archive/2021/01/donald-trump-pussy-presidency/617699/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/617699/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617699/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/X9dqtW690RZrlyUlmncN4iTF23o=/570x321/media/img/mt/2021/01/webart_pussypresident_final_copy/original.jpg"
+        width: 570
+        height: 321
+        isCached: true
   - title: "US Executes Drug Trafficker In Trump's Final Days In Office"
     excerpt: "US federal authorities executed a former drug trafficker who had contracted Covid-19 late Thursday, and a final execution of Donald Trump's administration was scheduled for Friday with just five days left of his presidency."
     publishedDateTime: 2021-01-15T05:48:00Z

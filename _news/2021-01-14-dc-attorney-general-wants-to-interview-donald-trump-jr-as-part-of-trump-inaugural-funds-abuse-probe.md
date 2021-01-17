@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/dc-attorney-general-dona
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/dc-attorney-general-donald-trump-jr-inaugural-funds-abuse/index.html"
 type: article
 quality: 160
-heat: 220
+heat: 260
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "DC attorney general says Trump could possibly be charged by city prosecutors with misdemeanor for role in Capitol insurrection"
+    excerpt: "District of Columbia Attorney General Karl Racine warned Sunday that President Donald Trump could possibly be charged by city prosecutors with \"a misdemeanor, a six-month-in-jail maximum,\" amid fallout from the deadly insurrection at the US Capitol earlier this month.\n    \n"
+    publishedDateTime: 2021-01-17T19:23:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/93wACO66a0I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/dc-karl-racine-potential-charge-trump-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/dc-karl-racine-potential-charge-trump-capitol-riot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 147
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106122844-02-trump-speaks-dc-protest-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Top FEMA official attended Trump's 'Stop the Steal' rally"
     excerpt: "A top official at the Federal Emergency Management Agency, which has been assisting in preparations for the Inauguration next week, attended President Donald Trump’s “Stop the Steal” rally on Jan. 6. At that rally, Trump urged his followers to ..."
     publishedDateTime: 2021-01-17T18:18:00Z
@@ -78,6 +94,22 @@ related:
       - url: "https://static.politico.com/07/b6/307e93354e7abd5c6e56ee1bf883/jacob-chansley-773-ap.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Presidential Transition Live Updates: N.S.A. Will Install a Trump Loyalist as Its General Counsel"
+    excerpt: "Vice President-elect Kamala Harris plans to resign from her Senate seat on Monday. An impeachment prosecutor said President Trump committed “the most serious presidential crime” in U.S. history."
+    publishedDateTime: 2021-01-17T17:10:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/17/us/inauguration-day-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/17/us/inauguration-day-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/17/us/inauguration-day-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 122
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/17/us/politics/17transition-briefing-promo1/17transition-briefing-promo1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "JMerqCq5+bbzhUD3iDHKXTA5lhrq0VxeAbp2lNULOkTQDjjO8HGyeVgBoXpIccyZgiHfvoc4pfd6oLs7vPoI1xUg9nVKFvGEiV7GBhpqnUkmnZ223nRnpTGZc6EdMWcc6Mfg+E3j02FhSeQf549BhY2zJYhGANiqBv9Tx94EVYvP3gSnXtJC6w+k1DEpoqNb9jxmZ8YBXMYqBekhlN/32XakdC3J4WjNnHkJjZt89c+ifKEy7XFx4Sfdp5ySZ9KiOsHT/jE2Xw73ZFXifPitmJgmxTY+O9ptclTCqAeNQ3/M3fG6/Av+4tQ5mRo40gKn0yPtxqfRvgt7AEHokZkuOdiRrt0EAIdpYwiB9DUZDn8=;+KCToNbCZBvz2kymiW+55w=="

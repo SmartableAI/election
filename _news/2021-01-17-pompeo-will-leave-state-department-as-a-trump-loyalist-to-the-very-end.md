@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "New York Times: Trump allies have collected tens of thousands of dollars from pardon seekers"
+    excerpt: "Allies and associates of President Donald Trump have collected tens of thousands of dollars in fees from those seeking pardons from the President, The New York Times reported Sunday.\n    \n"
+    publishedDateTime: 2021-01-17T22:17:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YxmLMZbnZko/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/trump-allies-pardons-lobbying/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/trump-allies-pardons-lobbying/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014145405-donald-trump-september-debate-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "1nqEkBXkckAz9MThMMGi6rphFs+OUJzh7z6WW8nrUsxmvTFrmRG3vNUCkPKXfTTmw/H91fKCqGyk2d5Mp4RHnlR1f2DNGZ0Y6KjPUhbojEtF5OJgVh2p7278GNGRwirSJA/vK05zhrKSD1vSaTR3/uYRGbMoZux75NgsZnaztKlF1Nm+W9wiiso5/PIFXwdElOlekHwPQNwhPNXCQYz3N2LSsJl9SnWiS3/nmXBdJqh7+0uCzQY4hcIS41JFCifLJ2cjs2T/nGFC1VU7mVLTgdyIN453+BvahdiAiJGdu9HeCdmrWrDFf97tMo2rE4SbySEdwbxoNfdlC6iZmVAP5DtoAJNAj9db/zPuoYa3ORE=;xa/7ugvF3MDiMqpyFcPzoQ=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "Guatemalan forces clash with migrant caravan, Biden team seeks to halt exodus"
 excerpt: "Guatemalan security forces on Sunday used sticks and tear gas to beat back a large migrant caravan bound for the United States, just days before the advent of a new U.S. administration, which urged travelers to abandon the journey."
-publishedDateTime: 2021-01-17T18:20:00Z
-originalUrl: "https://www.reuters.com/article/BigStory12/idUSKBN29M0FN"
-webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN29M0FN"
+publishedDateTime: 2021-01-17T22:58:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-immigration-caravan/guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSKBN29M0FN?edition-redirect=ca"
+webUrl: "https://www.reuters.com/article/us-usa-immigration-caravan/guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSKBN29M0FN?edition-redirect=ca"
 type: article
 quality: 102
 heat: -1
@@ -92,6 +92,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/4343dd98-09dc-40b5-8205-953d20781f07-AP_Election_2020_Jill_Biden_2.jpg?auto=webp&crop=4199,2362,x0,y213&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Gen. Mark Milley key to military continuity when President-elect Joe Biden takes office"
+    excerpt: "In taking charge of a Pentagon battered by leadership churn, the Biden administration will look to one holdover as a source of military continuity: Gen. Mark A. Milley, chairman of the Joint Chiefs of Staff. President-elect Joe Biden will inherit Milley as ..."
+    publishedDateTime: 2021-01-17T22:04:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-17/gen-milley-key-to-military-continuity-as-biden-takes-office"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-17/gen-milley-key-to-military-continuity-as-biden-takes-office?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-17/gen-milley-key-to-military-continuity-as-biden-takes-office?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 117
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/31fc32c/2147483647/strip/true/crop/2048x1338+0+14/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa4%2F2b%2F81527f2d51835192a7f058398c11%2Fla-na-austin-isis-fight-20150916-001"
+        width: 320
+        height: 209
         isCached: true
   - title: "Trudeau expects Biden to re-engage U.S. on world stage"
     excerpt: "Reuters Next Trudeau expects Biden to re-engage U.S. on world stage. Posted . Canada and other U.S. allies are looking to President-elect Joe Biden to re-engage on the world stage"
@@ -232,6 +248,6 @@ related:
         height: 560
         isCached: true
 
-secured: "6OyjlDKav4ru5faGH/jByfrNdE9zPeswiBCWlU30rFV3FMgQ0hk9YmgRRvMIlQTV+7K8lR9CDqDoEpPjghkw01WvQWOnQcUrQ7OQJNoK/5mVbDuRMyOqK70rNZi/CHeTtXabfjnkIBNcvWomFgh9cSEtnqivZLWZcv89SVNMCkEd9087aWIdg6gLH/KDv8YhYk0KoFxABGN/kn73hWQ3tYv16/wphK/CFQmjbylpVWqdI/Y01kcWS4XNIySkH3JNp4pzuO64ESMeW7oHboRul9nl3wFcHPCIHOzDzCwTDRjEYW33EbujF8TxFJsDJWqOkCs9AUvq9bRIuriNu4O6LkW4kc1SH13TJSJ1MMXjRBs=;NppOy2jh4FXaxrlg1pblDQ=="
+secured: "wCaBUTcEeR5Yj1tbP6VRD9h17nmneIBSQRm/fGl1SbeDgH0qVh+rwNld4Q7NyXYeAaLeo9zE5d5SryEwFE1euUtTgpB5lEVwHQk8BRytI60iJ+oMqcp7kT7wHXmYRFU4j1DtZLGV/BLW2D/iLWQGibRwCKrfQ86duR70AdJ4pzMEuRsKEUx8WEvm7sqsOv+WNstEka6r0wuydxJvveWnMkDHbuEyW+CPDUS5kYECS/n29zLqGz1LNe9X7ueBydHWPisnM6fvqeOMANHd5HrT4mJhZlNiDuJMDa5e4Hqgw3s6+mwI3rG/LhYBuHsxbkzKWdnwtNVCdUVL4lTXXE32UJZ/s4uciSL97eCOw+JeFs0=;KzyP8402pD4IsKCjfS1GNg=="
 ---
 

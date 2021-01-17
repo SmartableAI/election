@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/federal-prisons-lockdo
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/federal-prisons-lockdown-run-biden-inauguration-75296751"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "What to expect from Biden's inauguration?"
+    excerpt: "Watch \"What to expect from President-elect Joe Biden's inauguration as over 25,000 National Guards troops deployed to Washington D.C.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2021-01-17T21:13:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210117190428-what-to-expect-from-president-elect-joe-bidens-inauguration-as-over-25000-national-guards-troops-deployed-to-washington-d-c/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/17/story_08587676_1610910963.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden pledges to vaccinate 100 million Americans in his first 100 days in office"
     excerpt: "President-elect Joe Biden is pledging to fix the United States' slow coronavirus vaccine rollout. CBS News senior White House and political correspondent Ed O'Keefe spoke with CBSN's Elaine Quijano about what the incoming Biden administration plans to do."
     publishedDateTime: 2021-01-16T01:09:00Z

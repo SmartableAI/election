@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/mitch-mcconnell-republic
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/mitch-mcconnell-republican-senator-plans/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "In a last-minute move, NSA installing Trump loyalist as general counsel"
+    excerpt: "The National Security Agency said Sunday it was installing Trump NSC staffer Michael Ellis as its general counsel, after acting Defense Secretary Christopher Miller ordered NSA Director Gen. Paul Nakasone to place the Trump loyalist into the role.\n    \n"
+    publishedDateTime: 2021-01-17T22:49:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4pKMRIhFrzE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/michael-ellis-nsa-general-counsel/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/michael-ellis-nsa-general-counsel/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210117123432-michael-ellis-nsa-general-counsel-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "McConnell believes impeachment push will help rid Trump from the GOP, but has not said if he will vote to convict"
     excerpt: "Senate Majority Leader Mitch McConnell has told associates that he thinks President Donald Trump committed impeachable offenses when he incited a deadly mob to attack the US Capitol last week and that he's \"pleased\" Democrats are working to impeach the President, The New York Times reported Tuesday.\n"
     publishedDateTime: 2021-01-12T22:54:21Z
