@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-vice-president-elect-harris-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-vice-president-elect-harris-congratulations-inauguration.amp"
 type: article
 quality: 204
-heat: 544
+heat: 584
 published: true
 
 provider:
@@ -80,6 +80,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fed884c-b708-4ec0-9242-0b2b61b4244a/15d1d9b5-6b44-4c76-8142-bdc1d653054b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris will resign Senate seat Monday in run-up to inauguration"
+    excerpt: "Vice President-elect Kamala Harris will resign her Senate seat on Monday – two days before she and President-elect Joe Biden are sworn in on Inauguration Day."
+    publishedDateTime: 2021-01-17T19:29:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t7U1UmMEkkk/kamala-harris-resign-senate-seat-before-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-resign-senate-seat-before-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-resign-senate-seat-before-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21017083103212.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump expected to travel to Mar-a-Lago on morning of Biden's inauguration: sources"
     excerpt: "President Trump is expected to travel to his resort at Mar-a-Lago in Florida the morning of Jan. 20 – the day of President-elect Joe Biden’s inauguration – where he is expected to reside after his presidency, Fox News has learned."
@@ -224,6 +240,22 @@ related:
       - url: "https://images.wsj.net/im-286548/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Kamala Harris will resign Senate seat Monday in run-up to inauguration"
+    excerpt: "Vice President-elect Kamala Harris will resign her Senate seat on Monday – two days before she and President-elect Joe Biden are sworn in on Inauguration Day."
+    publishedDateTime: 2021-01-17T19:35:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-resign-senate-seat-before-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-resign-senate-seat-before-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-resign-senate-seat-before-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21017083103212.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Vogue's Kamala Harris cover sparks social-media frenzy: 'What a mess up'"
     excerpt: "The cover of February's upcoming issue of Vogue, which features Vice-President-elect Kamala Harris, has been widely criticized on social media."

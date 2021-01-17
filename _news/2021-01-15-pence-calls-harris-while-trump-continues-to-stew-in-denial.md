@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-presidency/index.html"
 type: article
 quality: 225
-heat: 1485
+heat: 1505
 published: true
 
 provider:
@@ -764,6 +764,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/17/us/politics/16HARRISEMHOFFS-print1/00HARRISEMHOFFS1-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Kamala Harris will resign from her Senate seat on Monday."
+    excerpt: "Vice President-elect Kamala Harris, who remains a United States senator from California, plans to resign from her seat on Monday ahead of her inauguration two days later, a Harris"
+    publishedDateTime: 2021-01-17T10:14:00Z
+    webUrl: "https://www.nytimes.com/2021/01/17/us/kamala-resigning-senate.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/17/us/kamala-resigning-senate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/17/us/kamala-resigning-senate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/17/us/politics/17transition-briefing-harris-senate1/17transition-briefing-harris-senate1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Prospect of Pardons in Final Days Fuels Market to Buy Access to Trump"
     excerpt: "The president’s allies have collected tens of thousands of dollars — and potentially much more — from people seeking pardons."

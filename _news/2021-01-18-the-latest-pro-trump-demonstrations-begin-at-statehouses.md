@@ -1,27 +1,33 @@
 ---
 category: news
 title: "The Latest: Pro-Trump demonstrations begin at statehouses"
-excerpt: "Trump groups demonstrating Sunday at statehouses across the country. Small groups of pro-Trump demonstrators, some armed, have begun gathering outside statehouses, including in Michigan, Ohio and South Carolina."
-publishedDateTime: 2021-01-17T18:38:00Z
-originalUrl: "https://www.stltoday.com/news/national/the-latest-pro-trump-demonstrations-begin-at-statehouses/article_0e6c2341-9cda-53c9-b73c-72bfce237b2d.html"
-webUrl: "https://www.stltoday.com/news/national/the-latest-pro-trump-demonstrations-begin-at-statehouses/article_0e6c2341-9cda-53c9-b73c-72bfce237b2d.html"
+excerpt: "Some counter-protesters have begun showing up outside statehouses to send a message against the far-right groups that have threatened to disrupt the inauguration of President-elect Joe Biden"
+publishedDateTime: 2021-01-17T18:51:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/latest-pro-trump-demonstrations-begin-statehouses-75310459"
+webUrl: "https://abcnews.go.com/Politics/wireStory/latest-pro-trump-demonstrations-begin-statehouses-75310459"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-pro-trump-demonstrations-begin-statehouses-75310459"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-pro-trump-demonstrations-begin-statehouses-75310459"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517"
-    width: 600
-    height: 517
+  - url: "https://s.abcnews.com/images/Politics/WireAP_977ffcbf147945218d09c490b0a8f7fb_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -923,6 +929,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "p45nt14hSOAA5sMPiDcP+Q2EPZ1QltLZXsKk+mTh5n9L6D0kPwDdfUJsXWh1N79RzivWG+SEl7+wY7F44w56Mo2PXYBbGmwe7RxVOc8HCgVePKbCouB7oK5+iDti6JIbsbzO8OI/cJCCl1hyhEV1HeNr9ehTdZSTnToFOzneUqxRyfrl5D+RcVYRSz6dV0bJ28DlUvXBsYCdinMQJbyU8oG6gzdrIg8xTLcSNe3ewpIKse3EKxHkdhYWyWmB5FJHVA4ohewz7etljL6W3fkJxTZ4IclbzNadJX8yeOnRamXJ3a9672/BZUeWt4ccQWHv5BfCUurMn4gdr1DAMPgzNcEYSfZMHbrjpmu6DNr7FBo=;0gnWAg7+imhDKCvPCxDDsg=="
+secured: "Pq3fbkmoNkaroxkkwqASQXvApG0R7tg5ANt5EzQCSoqfWyD9Cpe+Xw2q6ReFc/NkNHQg9bXFqck4vBU82YjlxSqtZW4aKKMBIf6hdDPO4W7Vfh1nBpPVlMKu6IDcCbCOSVGdTtzWDHFU0Oi7MCEr5Dyqf0Bjz4fe1RXOSCr6inzG8zg019xRqlRxj/IPDAvaVydqzikxfja79DqouMxVLm1eGOpUrxvu0EnD6TAYsyCYT90z6cU7r+hdg2d9jyhCbTPtR6zxLFYVsYNpMcD9GNfFwORqYE4UMgXTCwCkQPY7Ste3/sM3FMobUDQsWEIgFgkixE+7C+WW/kHiXNSwRLrKUK1AcSm6mjGrTjfkM8A=;6sTVyAYSxAcETi1RvdXA3w=="
 ---
 

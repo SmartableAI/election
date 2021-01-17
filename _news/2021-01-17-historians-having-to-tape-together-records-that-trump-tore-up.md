@@ -191,6 +191,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Officials brace for second Trump impeachment trial"
+    excerpt: "Democratic senators on Sunday outlined how the chamber plans to address President Trump’s second impeachment trial, while Republican House members criticized the president in the wake of the deadly Capitol riot."
+    publishedDateTime: 2021-01-17T18:52:00Z
+    webUrl: "https://thehill.com/homenews/sunday-talk-shows/534634-officials-brace-for-second-trump-impeachment-trial"
+    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/534634-officials-brace-for-second-trump-impeachment-trial?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/534634-officials-brace-for-second-trump-impeachment-trial?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/durbinrichard_121420gn3_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump enters final days in power as US braces for potential unrest – live"
     excerpt: "Nation wakes to fear of more trouble in wake of Capitol attack but also hope inauguration can begin new era"
     publishedDateTime: 2021-01-17T14:49:00Z

@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Washington Republican who backed Trump impeachment faces backlash back home"
+    excerpt: "Rep. Jaime Herrera Beutler, R-Wash., one of 10 House Republicans who voted to impeach President Trump on charges of \"incitement of an insurrection,\" is facing criticism from her district's conservative base."
+    publishedDateTime: 2021-01-17T20:22:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4JOYu1Z7QN0/washington-republican-trump-jamie-herrera-beutler"
+    ampWebUrl: "https://www.foxnews.com/politics/washington-republican-trump-jamie-herrera-beutler.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/washington-republican-trump-jamie-herrera-beutler.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21013695492553.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "ZIafFl5W2tAM1zEhIv8n1R7MGK2ve7JYCy3WGEouQkQiSfivyl92FtuvxCEdkN81r1RkzzT6qNzavS0Blc2HNjMeCaF1MdY8+B/CH+1AOqPdc3DU6yhCyJ4/m6HYKswlCS0uP6xrZI5dHAVZJQlbaJCM4adItC26tp8+9fRy7+46iDvLVkYTxuyTDvVeltkTUJ8sH3SZtLWLVn14AVLsz5WX2K9TE4YdjYe4oBRm0tJ4dzqY4HXWO3GsxFtEYeD6pZ9N2PdBuhrjVwlex8TpTV8RNaujYxaYY3z1E1fYIS2cGJkQaNUcC+PvHa/LOV7pLhtrP9udTv7stBYVMwzOPnnxN2DVXZl8m5j8Z6o9VlA=;j1EapwLX4wfMquCmiKSx4Q=="
 ---

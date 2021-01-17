@@ -96,6 +96,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Sen. Graham urges Biden to 'stand down' on 'Scarlet Letter' Trump impeachment"
+    excerpt: "Sen. Lindsey Graham, R-S.C., argued on Sunday that pursuing the impeachment of President Trump after he leaves office will ruin the start of Joe Biden's presidency and urged the president-elect to “stand down.”"
+    publishedDateTime: 2021-01-17T19:41:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OlGsryEAlPw/sen-graham-biden-trump-impeachment-stand-down"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-graham-biden-trump-impeachment-stand-down.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-graham-biden-trump-impeachment-stand-down.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden administration will publish White House visitor logs, reversing Trump policy"
     excerpt: "Incoming White House Press Secretary Jen Psaki said late Friday that President-elect Joe Biden’s administration would resume the tradition of publishing the White House’s visitor logs"
     publishedDateTime: 2021-01-16T01:05:14Z
@@ -736,6 +752,6 @@ related:
         height: 562
         isCached: true
 
-secured: "SjfHwUZdwZYqP1nNpqG8QYlhIYf2u890xYYuijgfhm8OQsjTmlknZO8QSjeX3yuq42SuycaJ0GMKmspea6UQsEz7vomo2gxHbuNUPaIV7UkG9r1unaiOluwKTpQQxDK8qH9wVYOJzfjXCGFl4egdTyu7SREBbX+jpbR4Fk5PUglx8FJj96j3SDSJRL4cEBlwAeNAmP+rQckKcfeOZ/5bzR7bYIjNzAyw/86aEASqNT/IiS7V7/b+BwusBOa/0/ueKraINbxC0l0TYGMaeVWwlUmWV7EY4dVnc8XWEiRK/762zbo/7dWB4fkydg/vrZ6Kr+zhFuqlbav/Ytk5b7BexiIxd5o9JDm4+Zx+J0GHwEA=;r5g2uLQ3TCz37sgpooTBmg=="
+secured: "b8szcVzpngSM3D0SKhk+WSv68xPwVhzrCMBXe+/L5fK1BiSwy0xK5kexgRtAxdknyeXtShJEI7aEElGt1PA0dIwAWinl/bkV8+Rhv+dRUPsHpvLA97rUP9X3oqxocGhv7NV4YQCIgITXL/6K6djSc1eKOeRx9OiLspsZlTkYVz8+Z4J02Pvlp57tbwpr1vxqXOpGHIm76ltVguqmoYXxohwZd6CAfLe9fribX9WqeLjFN97PrmfJNKShYN5cZs7vyRjdhoGSZPD2eOQ22WVPFQceHgMXwcnKc8FrE03nbTS2XX4b/REW1mXDNL4uVawZKQTt21fz2vwaaA3GVe9RReHanaDrQAww4+SYLtkkg9YU+r7PZ5eBYkUEd/L9VitA/Oi6YAB48CKmoL2AzBc9akl3SU4XPkwRD0hzncKM1d2fUZ3MNdOh0heoMIRRWF4TYMmbihQI7xo5FZzWwtRAebXogTykBtL9zzhfbuZYs5FnE2hAkiEaClwfvZkbFoCBMlDinwcJ3InnvOnYoQZxuw==;JPuGF0MHk2Pz/gZTOuVKYQ=="
 ---
 

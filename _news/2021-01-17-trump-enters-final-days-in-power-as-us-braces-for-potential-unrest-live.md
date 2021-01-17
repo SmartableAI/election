@@ -207,6 +207,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Officials brace for second Trump impeachment trial"
+    excerpt: "Democratic senators on Sunday outlined how the chamber plans to address President Trump’s second impeachment trial, while Republican House members criticized the president in the wake of the deadly Capitol riot."
+    publishedDateTime: 2021-01-17T18:52:00Z
+    webUrl: "https://thehill.com/homenews/sunday-talk-shows/534634-officials-brace-for-second-trump-impeachment-trial"
+    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/534634-officials-brace-for-second-trump-impeachment-trial?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/534634-officials-brace-for-second-trump-impeachment-trial?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/durbinrichard_121420gn3_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Golf’s pitch to distance itself from Donald Trump came five years too late"
     excerpt: "The golf establishment’s decision to finally turn its back on the US president is hardly a profile in courage after five years of see no evil, hear no evil"
     publishedDateTime: 2021-01-13T12:29:00Z

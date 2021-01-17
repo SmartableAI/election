@@ -945,6 +945,38 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Kamala Harris to resign Senate seat Monday"
+    excerpt: "The move comes two days before she’s inaugurated on Wednesday, making history as the first female, first Black and first South Asian vice president."
+    publishedDateTime: 2021-01-17T20:35:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/17/kamala-harris-to-resign-senate-seat-monday/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/17/kamala-harris-to-resign-senate-seat-monday/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/17/kamala-harris-to-resign-senate-seat-monday/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/12/sjm-tbreak-Washington_80359688.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Kamala Harris to Resign Senate Seat on Monday Ahead of Inauguration"
+    excerpt: "Vice President-elect Kamala Harris speaks as President-elect Joe Biden listens during a news conference where Biden named retired General Lloyd Austin as his nominee to be defense secretary in Wilmington, Del., December 9, 2020. (Kevin Lamarque/Reuters ..."
+    publishedDateTime: 2021-01-17T18:05:00Z
+    webUrl: "https://www.nationalreview.com/news/kamala-harris-to-resign-senate-seat-on-monday-ahead-of-inauguration/"
+    ampWebUrl: "https://www.nationalreview.com/news/kamala-harris-to-resign-senate-seat-on-monday-ahead-of-inauguration/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/news/kamala-harris-to-resign-senate-seat-on-monday-ahead-of-inauguration/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/12/Kamala-Harris-Speaks.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."
     publishedDateTime: 2021-01-13T07:29:00Z

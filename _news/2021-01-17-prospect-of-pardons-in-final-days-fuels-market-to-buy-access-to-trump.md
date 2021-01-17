@@ -780,6 +780,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Kamala Harris will resign from her Senate seat on Monday."
+    excerpt: "Vice President-elect Kamala Harris, who remains a United States senator from California, plans to resign from her seat on Monday ahead of her inauguration two days later, a Harris"
+    publishedDateTime: 2021-01-17T10:14:00Z
+    webUrl: "https://www.nytimes.com/2021/01/17/us/kamala-resigning-senate.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/17/us/kamala-resigning-senate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/17/us/kamala-resigning-senate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/17/us/politics/17transition-briefing-harris-senate1/17transition-briefing-harris-senate1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "What’s It Like to Have Kamala Harris As ‘Momala’? We Asked Her Stepkids."
     excerpt: "But on the night that Joe Biden and his vice-presidential running mate, Kamala Harris, delivered their acceptance speeches, with their families gathered onstage, watching fireworks, Cole began receiving astonished texts from friends and colleagues."
     publishedDateTime: 2021-01-17T08:00:00Z

@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Grenell: Susan Rice will be 'shadow president' in Biden administration"
+    excerpt: "Former Obama national security adviser Susan Rice has been tapped to lead the White House Domestic Policy Council in the Biden administration, but former acting DNI Ric Grenell believes she could be in control of a lot more."
+    publishedDateTime: 2021-01-17T19:57:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P1wtMbSk3dE/grenell-susan-rice-shadow-president-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/grenell-susan-rice-shadow-president-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/grenell-susan-rice-shadow-president-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20345054665538-e1607616629617.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Obama echoes Biden remarks that police response to Capitol riots would have been harsher with BLM"
     excerpt: "Former President Barack Obama took to Twitter Friday to address why Civil Rights groups and lawmakers are furious over the vastly different approach law enforcement took to Wednesday’s U.S. Capitol breach compared to last summer’s Black Lives Matter (BLM) protests."
     publishedDateTime: 2021-01-09T03:25:28Z

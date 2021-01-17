@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/google-microsoft-verizon-biden-inau
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -205,6 +205,15 @@ related:
         width: 1280
         height: 721
         isCached: true
+  - title: "Biden Must Find Words for a Wounded Nation in Inauguration"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2021-01-17T20:55:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/17/biden_must_find_words_for_a_wounded_nation_in_inauguration_533687.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "mKesepGiScu4jJLZ74Wfdz7GzR5F8y2/BbUvdtwh4Y/IAM57Z324TxyU2yZ/qCPjhgoZ6qErsHDjQr38z1A4GBAfGwHRkxsGpmh8WisvoLq1GnFoo2LaQE9/X8QyWBZ3QYuJKtRz6f93KzU6RBZznErdbWmrnMdW+rV32F9PcdbAsV0axhAmDCqsmUuY2/Huuuh5n2V0M8IkHkf8wof/aYprcVDd4DRuRKmTVrBiWKn+lcLcxiM1oJ+HGYR/H9yb3q349pNx28F/3GFVhLWNumE8boVCbhrC/GT6a+apfbIBST9t5mxqi81UFbiMnpfdQSsaCYDLG40PLqjLA3qreD9ziFcs78w/FrNMjaVs+zs=;5SMNcKFvuxo4/zzVAgkJww=="
 ---
