@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/uk-usa-trump-lawyers-idUKKBN29F0NB
 webUrl: "https://www.reuters.com/article/uk-usa-trump-lawyers-idUKKBN29F0NB"
 type: article
 quality: 105
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/RAINBOW_LIST.jpg?w=977&h=675"
         width: 977
         height: 675
-        isCached: true
-  - title: "Maryland Rep. Jamie Raskin named lead impeachment manager for trial against President Donald Trump"
-    excerpt: "U.S. Rep. Jamie Raskin of Maryland was named lead manager for the impeachment trial of President Donald Trump, House Speaker Nancy Pelosi announced Tuesday night in a news release."
-    publishedDateTime: 2021-01-13T06:03:00Z
-    webUrl: "https://www.baltimoresun.com/politics/bs-md-pol-raskin-impeachment-manager-20210113-ftx5yje5ljaadmm3hkxutt4wbu-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/politics/bs-md-pol-raskin-impeachment-manager-20210113-ftx5yje5ljaadmm3hkxutt4wbu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/bs-md-pol-raskin-impeachment-manager-20210113-ftx5yje5ljaadmm3hkxutt4wbu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 61
-    images:
-      - url: "https://www.baltimoresun.com/resizer/wEQjKi2FkQ6vYemv-7OBGv24CVs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4CUEXNNRUPX73EPWWVNURUUNRM.aspx"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "AqCy74XetuvVecAIfNBAtsVIvjhPs7yoPzPM2QyA03l/y9CzamZrqA1RxHjdA8EnWsyCRjfulWVU7LyTmzWZZWrDf7B3wOeeiMAsGZN5lrCGMQsQQmznzLJinUIEaeDc2od5NDjqe3iRDMlPCrM6p9CaaP814Cs3JTe1PwEBd3QMsGWSNP+E/s8s0AwGh804gaYffdjb5an9Ax+I7G0lizwZQLV8OQoUnWVNA6zS3yQya/borMBHDeE/wj4DsiJfh5NDviGyrOxOxPxrO6aVQEEsnaMhS/wSJEkK+KAvh5UQjfD9ZXng6b9TkvWGH1fbJQ5voSt1qdSzm+lqebEAJgseyHGtQoKxILJsvfysjKo=;Mv9GZbXK+7dM/HCmMDkSyg=="

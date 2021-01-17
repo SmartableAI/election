@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Beau stood there': Harris recalls how Beau Biden backed her during battle with banks"
+    excerpt: "Vice President-elect Kamala Harris in a new interview airing Sunday recalled the time Beau Biden, the late son of President-elect Joe Biden, stood by his principles in a moment of \"incredible\" pressure.\n    \n"
+    publishedDateTime: 2021-01-17T13:57:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e2E9Hp-3-yU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/kamala-harris-beau-biden-cnn-special-report/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/kamala-harris-beau-biden-cnn-special-report/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 193
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201211100849-kamala-harris-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Harris to be sworn in as vice president by Justice Sonia Sotomayor"
     excerpt: "Kamala Harris will be sworn in Wednesday as the next vice president of the United States by Supreme Court Justice Sonia Sotomayor, according to a Harris aide.\n    \n"
     publishedDateTime: 2021-01-16T20:40:04Z
@@ -285,6 +301,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115174437-trump-fact-check-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Senate gets to call the shots for Trump's impeachment trial "
+    excerpt: "When the US Senate moves forward with an impeachment trial of soon-to-be former President Donald Trump, senators would have full control over how they run it, based on history and Supreme Court precedent.\n    \n"
+    publishedDateTime: 2021-01-17T14:01:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wjBGVZ-Ff_8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/courts-impeachment-trump-nixon/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/courts-impeachment-trump-nixon/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200207001437-trump-mcconnell-sotu-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

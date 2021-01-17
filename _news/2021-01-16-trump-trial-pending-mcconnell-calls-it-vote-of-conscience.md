@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnel
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Durbin says he won't whip votes for Trump's second impeachment trial"
+    excerpt: "Senate Democratic Whip, Dick Durbin (Ill.) said Sunday that he is not going to whip votes in his caucus in favor convicting President Trump in his upcoming impeachment trial."
+    publishedDateTime: 2021-01-17T16:10:00Z
+    webUrl: "https://thehill.com/homenews/sunday-talk-shows/534621-durbin-says-he-wont-whip-votes-for-trumps-second-impeachment"
+    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/534621-durbin-says-he-wont-whip-votes-for-trumps-second-impeachment?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/534621-durbin-says-he-wont-whip-votes-for-trumps-second-impeachment?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/durbinrichard_101420gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump’s impeachment trial pending, Republican leader Mitch McConnell calls it a ‘vote of conscience’"
     excerpt: "House Speaker Nancy Pelosi offered no clues Friday on her plans to send President Donald Trump’s impeachment to the Senate for trial"
     publishedDateTime: 2021-01-15T22:34:00Z

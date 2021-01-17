@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden adviser defends liberal agenda items in $1.9T coronavirus relief plan, dodges on ending filibuster"
+    excerpt: "President-elect Joe Biden’s proposed coronavirus relief package would cost taxpayers $1.9 trillion, and his economic adviser defended the inclusion of several Democratic agenda items."
+    publishedDateTime: 2021-01-17T16:55:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wirOHM4_UYk/biden-economic-adviser-coronavirus-relief-plan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-economic-adviser-coronavirus-relief-plan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-economic-adviser-coronavirus-relief-plan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42062da5-16e0-4037-a730-e3584328ccb1/18454cad-9594-4df4-929b-9de43f9366d1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "u0IwZZRMQNyDogg2TqGHT6f7BLsIDA6X79zeUYJsq29Xh5fkfUhXjZLBAuv/65FZJwFxtCTFXJE+y8pTMekKitiaNH4hwZv9lGJ3Eu76eBOrfswa0FPi3DsNs+ENN89QmEnwHCeGDB9ZmxSGkXyUBc+tWQMwbvBCDCF289Ch211blLCPW8IIPbdeENjZdTwjrKu1SOvCO4HNisNCS9cIlwAlTVEFLXFmmsP/IIAlDN0FbZuvKzDpDs4+lCQ/3aukYp9TnrXDki1URZd9KZS+r7eOHleDhTTxGyrQIzBB7z6jig7Ea4q8nYZSIriAcr2VnLFtNzxkdwpI8MDCTCay5hIY6DuzG947HmQR7JbKXNk=;Ri63fpkwz/6gbcgP7Vh0XQ=="
 ---

@@ -400,6 +400,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Arkansas Gov. Hutchinson, who prosecuted Clinton impeachment, says impeaching Trump again was wrong move"
+    excerpt: "Arkansas Gov. Asa Hutchinson, who was a House impeachment manager during the impeachment of President Bill Clinton, says he believes it was wrong for the House to impeach President Trump for a second time."
+    publishedDateTime: 2021-01-17T15:57:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eEmqIV2CsN4/trump-impeachment-arkansas-gov-hutchinson"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-arkansas-gov-hutchinson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-arkansas-gov-hutchinson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/95fbc9c9-1d26-409c-9817-291634596bc5/1e54b272-83ba-4816-9ab8-24a9d09bb7bb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Republican Voters Stick by Trump as Some Lawmakers Seek Distance"
     excerpt: "Some GOP lawmakers such as Rep. Nancy Mace of South Carolina have opposed impeachment while publicly criticizing the president."
     publishedDateTime: 2021-01-14T18:13:00Z

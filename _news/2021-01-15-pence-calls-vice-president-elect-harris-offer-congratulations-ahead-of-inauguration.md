@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-vice-president-elect-harris-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-vice-president-elect-harris-congratulations-inauguration.amp"
 type: article
 quality: 204
-heat: 524
+heat: 544
 published: true
 
 provider:
@@ -208,6 +208,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/918/516/SS-4.jpg?ve=1&tl=1"
         width: 918
         height: 516
+        isCached: true
+  - title: "Black Women Ready to Virtually Cheer On Kamala Harris’s Inauguration"
+    excerpt: "President-elect Joe Biden and Ms. Harris will be sworn into office during a scaled-back inauguration in a heavily fortified Washington."
+    publishedDateTime: 2021-01-17T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/black-women-ready-to-virtually-cheer-on-kamala-harriss-inauguration-11610895600?mod=hp_listb_pos2"
+    ampWebUrl: "https://www.wsj.com/amp/articles/black-women-ready-to-virtually-cheer-on-kamala-harriss-inauguration-11610895600"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/black-women-ready-to-virtually-cheer-on-kamala-harriss-inauguration-11610895600"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-286548/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Vogue's Kamala Harris cover sparks social-media frenzy: 'What a mess up'"
     excerpt: "The cover of February's upcoming issue of Vogue, which features Vice-President-elect Kamala Harris, has been widely criticized on social media."

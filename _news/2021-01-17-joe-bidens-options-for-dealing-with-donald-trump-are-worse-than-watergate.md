@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donal
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1"
 type: article
 quality: 148
-heat: 1328
+heat: 1348
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/15/271825a6-0f84-4789-b1b5-26e6a1f513f0/thumbnail/1200x630/e2df6a2401b1edfdd1bf44bba92ff8c9/gettyimages-1296409766.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Pence is helping Biden make the transition more normal. But their cooperation has risks for each."
+    excerpt: "Pence is accepting Biden’s win in a way Trump has not, helping Biden solidify his transition to power. That benefits Biden and Pence for now, but a volatile political landscape lies ahead for both."
+    publishedDateTime: 2021-01-17T15:08:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-pence-transition/2021/01/16/9e242d6e-5758-11eb-a08b-f1381ef3d207_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-pence-transition/2021/01/16/9e242d6e-5758-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-pence-transition/2021/01/16/9e242d6e-5758-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 137
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WJOLZXCTQUI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 1166
         isCached: true
   - title: "Biden aims for new course on trade, breaking with Trump and Democratic predecessors"
     excerpt: "Biden will confront the same question that has bedeviled U.S. policymakers for three decades: How can the U.S. shape for maximum benefit its overseas commercial engagements?"
@@ -898,6 +914,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "i6P3ym7F3gkOv69JAFBImWyW3NZdQKfo2w/aDSa7L0I+iB7yijMUXXczKI7VSw3TYsBaTpGN7K9K5BNepgMXXEPDXA7q7k6ULUVnTtexxHYWdqiO20ysLb+xjJCAgmGnP9sTmBy2toEutuLRpZhOM7of4Vt1VfBJttjIqFXc2v2jKtGHLAn0uzJctRWMsAaGoOKBovPN6WFln+bOglzMD8HFdCUmNQ3CsEFnDe4/BVCVE/qERSmd2dPjHbW1DVNdZOHKDqcMViwrEGq1dq+BQr72INLyeMhPsxRmOJkqS9NaapS96rMwMAHf/ipNmXb6z/0uEvAqFYdJ5mhFxDquh2sfzsbEUR6iU+ghax5EjB4=;3ZAlOj3jV+M4HyPrECasnw=="
+secured: "/7iyL8HuwTo1lLh5imZuaBPbjlzv8gh8NaQzdRLL6CVlChr94NadtqiOizencrpceEb3s0R/l9SIVj0CA4M1Zs58MO2s0GTQgZY+msKGyLXajtYlPl85MUB7Y/gHpXelSmj8I/3Qi1BlaN4jIa1SUxwbGNzjhUOSFfP5D5AMvXT9wC3py+Nd4dtpqc2uryRs0LdAPPExxrDa6qmU2kNzB8FcZbWDkkNCGWl02iGFQ/GM6O3hbz8QC72vCiDtZQg3+LoHOAp6G9TDNUiQRPCPpUreJZIMgTb7Ccu9Ju3Fcv00ZegP5k9+vuyZX6JyYa9HEtUFrrUQxCE9+EBFAseQqVGf+B1m7kQZK04wQsiNF9C/SF1Y94vR+bP9gVUI8AEIgS6MW5Zne+ctkoBPo6TQ8zd1ZT55h7QTk0XGPKnqq+JRL+kHG2Thn0XH3wUocGOmGW7sOJfPQ3ybQIPunulzbBNqIYl3LkqByi4rTqQvWlggucQ7CwIDhSGUSWAmDw2c3VENIzbF4RYN13MLStpTkw==;0xWIgZ23d9oq/6KbMm+XJw=="
 ---
 

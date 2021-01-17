@@ -191,6 +191,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump enters final days in power as US braces for potential unrest – live"
+    excerpt: "Nation wakes to fear of more trouble in wake of Capitol attack but also hope inauguration can begin new era"
+    publishedDateTime: 2021-01-17T14:49:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/17/joe-biden-inauguration-donald-trump-protests-washington-capitol-latest-news-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/17/joe-biden-inauguration-donald-trump-protests-washington-capitol-latest-news-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/17/joe-biden-inauguration-donald-trump-protests-washington-capitol-latest-news-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/00d1a58703986e7e7c5310c02354f03584df1ec7/0_0_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=794e69a0e385da3570b8a76f2bbf61ca"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Golf’s pitch to distance itself from Donald Trump came five years too late"
     excerpt: "The golf establishment’s decision to finally turn its back on the US president is hardly a profile in courage after five years of see no evil, hear no evil"
     publishedDateTime: 2021-01-13T12:29:00Z
@@ -254,6 +270,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1705620/mandel-ngan.jpg"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "Trump leaves White House with his lowest-ever approval rating after Capitol riot, impeachment"
+    excerpt: "Nearly two-thirds, 68%, of the respondents in a new poll from the Pew Research Center said Trump should not remain a major national political figure."
+    publishedDateTime: 2021-01-17T15:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/15/donald-trump-leaves-white-house-lowest-ever-approval-rating/4173571001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4173571001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4173571001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d9fcae70-ecb3-4fa7-ba54-bd90bcd378e0-AP21012563654909.jpg?auto=webp&crop=5999,3374,x1,y626&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Several House Republicans join impeachment push; Pence says he will not move to expel Trump"
     excerpt: "At least four Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."

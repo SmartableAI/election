@@ -27,65 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump may turn to Giuliani again to defend against impeachment"
-    excerpt: "President Donald Trump may turn to Rudy Giuliani to defend him against possible impeachment over his role in last week’s violent siege of the U.S. Capitol, according to two people familiar with the matter."
-    publishedDateTime: 2021-01-11T07:11:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-lawyers-idUKKBN29F0NB"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547312528&r=LYNXMPEH090GM&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Donald Trump impeached again – now what? Politics Weekly Extra"
-    excerpt: "Jonathan Freedland speaks to Harvard law professor Noah Feldman about the potential next steps after Donald Trump was impeached for a second time"
-    publishedDateTime: 2021-01-14T13:30:00Z
-    webUrl: "https://www.theguardian.com/politics/audio/2021/jan/14/trump-impeached-again-now-what-politics-weekly-extra-podcast"
+  - title: "‘Not going to lose my son and my republic’: Jamie Raskin on Trump impeachment"
+    excerpt: "Last modified on Sun 17 Jan 2021 11.07 EST Jamie Raskin, the House Democrat leading the impeachment of Donald Trump, remembered his son Tommy on Sunday and said: “I’m not going to lose my son at the end of 2020 and lose my country and my republic in 2021."
+    publishedDateTime: 2021-01-17T15:07:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/17/jamie-raskin-democrat-trump-impeachment"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/17/jamie-raskin-democrat-trump-impeachment"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/17/jamie-raskin-democrat-trump-impeachment"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 105
+    quality: 122
     images:
-      - url: "https://i.guim.co.uk/img/media/e7312bd7247e01664df8b351f781442da05a6914/0_0_5568_3341/master/5568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54638ea0819c8b43a6e052df1ca1f58b"
-        width: 1200
-        height: 630
+      - url: "https://i.guim.co.uk/img/media/b0fa70e3c8b787c34bc4ffccd3192bf1e7672acf/0_157_4696_2818/master/4696.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7a28c5a60f82540b2216f7405711c84d"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Trump Impeachment Again? Ocasio-Cortez Wants It, But Democrats Say 'No'"
-    excerpt: "Cortez calls for Trump's impeachment following the leaked audio recording Omar also believes Trump's actions warranted impeachment Other progressives believe there is no time for an impeachment hearing Democratic Rep."
-    publishedDateTime: 2021-01-06T03:55:00Z
-    webUrl: "https://www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253"
-    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253?amp=1"
+  - title: "Mike Pence Gives House Republicans Cover to Vote Against 25th Amendment, Impeachment"
+    excerpt: "Several Republican members of the House cited Vice President Mike Pence in explaining their decision to oppose invoking the 25th Amendment and impeaching President Donald Trump. The Democrat-led House voted on Tuesday to urge Pence to use the amendment and strip Trump of his power,"
+    publishedDateTime: 2021-01-13T10:22:00Z
+    webUrl: "https://www.newsweek.com/pence-house-republicans-25th-amendment-impeachment-vote-1561089"
+    ampWebUrl: "https://www.newsweek.com/pence-house-republicans-25th-amendment-impeachment-vote-1561089?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pence-house-republicans-25th-amendment-impeachment-vote-1561089?amp=1"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/alexandria-ocasio-cortez-the-darling-of-the-us.jpg"
-        width: 1024
-        height: 573
-        isCached: true
-  - title: "Donald Trump gets clobbered (again) by Randy Rainbow parody"
-    excerpt: "What happens when Donald Trump meets “Fiddler on the Roof”? Find out in the latest Randy Rainbow parody music video, “Sedition.”"
-    publishedDateTime: 2021-01-09T00:50:00Z
-    webUrl: "https://www.mercurynews.com/2021/01/08/donald-trump-gets-clobbered-again-by-randy-rainbow-parody"
-    ampWebUrl: "https://www.mercurynews.com/2021/01/08/donald-trump-gets-clobbered-again-by-randy-rainbow-parody/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/08/donald-trump-gets-clobbered-again-by-randy-rainbow-parody/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/RAINBOW_LIST.jpg?w=977&h=675"
-        width: 977
-        height: 675
+      - url: "https://d.newsweek.com/en/full/1705269/vice-president-mike-pence-january-6.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "+sFe8qM/CqC71pcJMUhZZMe2VIs4m8/L4RB+N4BwxeMsrFkgk7deXvuxFxyhoqXk+UiOBQeSTyQ9Pj8LRUWWf7zi9Db8W4ijUbUiY8mJnHFvd7u8zUYST2GcoqZQ0v2dlxPTgpVgVXwMzMz9goWJaItwD/MwqtluB+vqV5IseLy0Oh8eM51FyVTcgLCWrutlHDITtuvmk+sQUJUV2tCNFHrzkGMnU9y74K6uiYegyKZdUId4OmiB9o+5LMfzsOuk5o8R0d07152+5NoL9X+Fi2ReArrptLq9k+zFETmJAAPjnDdudp9YkPQ8BJjnzO4dUc7h6XMrLfqmcKyPkGIzbn+djglctTVa4y5baJLv93BFGXJ5VO7CohrjStpNNTHhOTixeqa6JjwyvAZ6KbUb/5biRabtbm1dGhMz4uzoG6s0CGl+cleeAVYywlHIbSerD1lbpk75sNuseBT+OvYUs4p/IaIX0yPB5cFqkFCtpiqonjp+6aGQtrfyy4+ej1jLNrmAw2EiQc73mBsIe7b7Sw==;hXG/YKMVIhgnf8t3yRVBxA=="
