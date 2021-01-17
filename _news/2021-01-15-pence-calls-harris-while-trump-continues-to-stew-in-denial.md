@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-presidency/index.html"
 type: article
 quality: 225
-heat: 1345
+heat: 1365
 published: true
 
 provider:
@@ -682,6 +682,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/01/16/us/politics/16transition-briefing-harris-sotomayor1/16transition-briefing-harris-sotomayor1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "What’s It Like to Have Kamala Harris As ‘Momala’? We Asked Her Stepkids."
+    excerpt: "But on the night that Joe Biden and his vice-presidential running mate, Kamala Harris, delivered their acceptance speeches, with their families gathered onstage, watching fireworks, Cole began receiving astonished texts from friends and colleagues."
+    publishedDateTime: 2021-01-17T08:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/17/us/politics/kamala-harris-stepmom-cole-ella-emhoff.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/17/us/politics/kamala-harris-stepmom-cole-ella-emhoff.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/17/us/politics/kamala-harris-stepmom-cole-ella-emhoff.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/15/us/politics/00EMHOFFKIDS/00EMHOFFKIDS-facebookJumbo.jpg"
         width: 1050
         height: 549
         isCached: true

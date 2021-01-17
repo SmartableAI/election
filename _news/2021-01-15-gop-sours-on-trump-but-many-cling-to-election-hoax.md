@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-sours-on-trump-but-many-cling-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sours-on-trump-but-many-cling-to-election-hoax.amp"
 type: article
 quality: 190
-heat: 750
+heat: 770
 published: true
 
 provider:
@@ -398,6 +398,22 @@ related:
       - url: "https://images.wsj.net/im-284917/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump reps decline comment on Giuliani involvement"
+    excerpt: "Rudy Giuliani claimed on ABC News Saturday that he’ll help defend the president at his upcoming second impeachment trial — but a Trump spokesman to tweeted hours later that Trump has"
+    publishedDateTime: 2021-01-17T08:19:00Z
+    webUrl: "https://nypost.com/2021/01/17/rudy-g/"
+    ampWebUrl: "https://nypost.com/2021/01/17/rudy-g/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/17/rudy-g/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/BB443C72-C7CF-4708-8F58-B85E14ECD1CD.jpeg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Republican Voters Oppose Trump Impeachment as Some Lawmakers Seek Distance"
     excerpt: "Some GOP lawmakers such as Rep. Nancy Mace of South Carolina have publicly criticized the president over the attack on the Capitol."

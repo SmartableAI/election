@@ -1504,6 +1504,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Migrant Caravan, Now in Guatemala, Could Pose Early Test for Biden"
+    excerpt: "As many as 9,000 migrants from Honduras are hoping to reach the United States to escape poverty intensified by hurricanes and the pandemic. President-elect Joe Biden has pledged to ease asylum rules."
+    publishedDateTime: 2021-01-17T07:22:00Z
+    webUrl: "https://www.nytimes.com/2021/01/17/world/americas/migrant-caravan-us-biden-guatemala-immigration.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/17/world/americas/migrant-caravan-us-biden-guatemala-immigration.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/17/world/americas/migrant-caravan-us-biden-guatemala-immigration.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/17/world/17guatemala-caravan02/17guatemala-caravan02-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Congress affirms Biden as president after completing electoral vote count"
     excerpt: "After a day of riots at the Capitol, Congress counted the Electoral College votes and confirmed the win for President-elect Joe Biden and Vice President-elect Kamala Harris."
     publishedDateTime: 2021-01-07T09:24:00Z

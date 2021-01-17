@@ -700,6 +700,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "What’s It Like to Have Kamala Harris As ‘Momala’? We Asked Her Stepkids."
+    excerpt: "But on the night that Joe Biden and his vice-presidential running mate, Kamala Harris, delivered their acceptance speeches, with their families gathered onstage, watching fireworks, Cole began receiving astonished texts from friends and colleagues."
+    publishedDateTime: 2021-01-17T08:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/17/us/politics/kamala-harris-stepmom-cole-ella-emhoff.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/17/us/politics/kamala-harris-stepmom-cole-ella-emhoff.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/17/us/politics/kamala-harris-stepmom-cole-ella-emhoff.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/15/us/politics/00EMHOFFKIDS/00EMHOFFKIDS-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Republicans allied with Trump continue pushing baseless voter fraud claims"
     excerpt: "Many Republicans allied with President Donald Trump are continuing to push baseless widespread voter fraud claims even after the Capitol riots were incited by the same lies."
     publishedDateTime: 2021-01-11T14:14:00Z

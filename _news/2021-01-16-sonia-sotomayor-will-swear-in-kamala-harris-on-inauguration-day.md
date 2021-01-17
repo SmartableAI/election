@@ -684,6 +684,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "What’s It Like to Have Kamala Harris As ‘Momala’? We Asked Her Stepkids."
+    excerpt: "But on the night that Joe Biden and his vice-presidential running mate, Kamala Harris, delivered their acceptance speeches, with their families gathered onstage, watching fireworks, Cole began receiving astonished texts from friends and colleagues."
+    publishedDateTime: 2021-01-17T08:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/17/us/politics/kamala-harris-stepmom-cole-ella-emhoff.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/17/us/politics/kamala-harris-stepmom-cole-ella-emhoff.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/17/us/politics/kamala-harris-stepmom-cole-ella-emhoff.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/15/us/politics/00EMHOFFKIDS/00EMHOFFKIDS-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Kamala Harris gains prominent new role thanks to Democrats' Senate majority"
     excerpt: "Kamala Harris’s vice presidential portfolio was nebulous before last week. But thanks to Democrats’ upset victories in two Georgia Senate run-offs, Harris has unexpectedly earned a new title: Senate tie breaker."
     publishedDateTime: 2021-01-10T12:00:00Z
@@ -900,6 +916,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "rJ2Zji6FhIplH/ChKlwLl/+9pdkTmI2P4F0ADMPxOAANJYwNq+A20bJyQpDoklBnDAlsDn9HS7O0rlDk4A9TDxn+zirQKG/qyU7ZYPyF08sbryL9rRWdsFlo+UgQt+PC6dzXYXBlf8aWrNTfs0RW9YVMClqZdzRHzVY33Ljwd+3lgOpco3wh1ohiNASr2jE6ImY8SKGsWKMyeNwrxIOv1TgDyu1sjF5pkSDjEm0FuSx0TevU/+PLtLPhph2yPL5rxJ2QhXKt9LMK2rV1lV2lrVoYTzKRHU+uqrr2vLv8e00gfl7+3fudk8Ec/OZHhl6COSKMA0iD61kN5He5bhDD27GPUlcu8nCNHVkWJt8+U+M=;zjBdhY7x6QpZemQOUeNHow=="
+secured: "Sb8LZ6RqU3p4J8B1wBGFpMsL1/LSCDEjUCCsbn1ven6jK1YDSV+e6KySAWlHILmmOqqxW/K2UMQfU070MOcFJH3J5bpmYej2TMpcS2F99l8R7vPcasKr514Dsar/Y88aO4BtAyC5guLMGGsvtN5DqZ679Lp0FIlxY043NOZphjeDJaEftTByhkAesJWPmtrP0WncTe6Hc/komFy3OENgh5Nh2Lwh3FJ2XFO06veQF99YxOGw0sCery7x0WEi03/3fVIfN/ps8YOxJ50bnXV3rsBEr8rz94Zl+BYaNXOjga+5hHkJbzObOzEtQ1jBV3QDJoXHCXPW+xqnMKRw0dXBxQu6rbphwkV2Egl9JqSBBcZJY/Ld/61hEtSRCKhyUg+v6X2jccranLT71Sx8/Ppj3dnDTJdxbSlPJw6C+shxwXS9Dkiupq734qkFk+9zx/Zv/AnTflh9rF9fVYwXtpzWi3GWZm4EtEzv5OAmbRx4WVKelFggkiF2FgulPgBDNCMrwgF5bdlBiBgMsAKEoP1PNQ==;6LiWRhalq6MGKbYvCAHHqw=="
 ---
 

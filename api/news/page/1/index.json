@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-17-the-trump-fueled-riot-shocked-america-to-some-it-was-a-long-time-coming.md",
+      "title": "The Trump-fueled riot shocked America. To some, it was a long time coming.",
+      "excerpt": "The attack on the Capitol wasn't a matter of \"if,\" to those who warned about violence under Trump. It was \"when.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/nbcblk/trump-fueled-riot-shocked-america-some-it-was-long-time-n1254465",
+      "originalUrl": "https://www.nbcnews.com/news/nbcblk/trump-fueled-riot-shocked-america-some-it-was-long-time-n1254465",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2021_02/3442444/210115-analysis-trump-capitol-riots-ew-212p_37ae77e10beb5b80705560d1256fe3da.jpg",
+          "width": 2500,
+          "height": 1484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1254465",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254465",
+      "publishedDateTime": "2021-01-16T23:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-17-live-updates-trump-approval-rating-hits-record-low-following-capitol-riots-impeachment.md",
       "title": "LIVE UPDATES: Trump approval rating hits record low following Capitol riots, impeachment",
       "excerpt": "Follow for the latest updates on Trump's impeachment.",
@@ -1278,58 +1335,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-outgoing-trump-admin-mulls-industry-wide-biofuel-waiver-for-oil-refiners.md",
-      "title": "Outgoing Trump admin mulls industry-wide biofuel waiver for oil refiners",
-      "excerpt": "The Trump administration is considering requests from the oil refining industry and its backers for a sweeping nationwide waiver to exempt them from their obligations to blend biofuels, a measure they argue would help them weather the economic impact of the coronavirus",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-biofuels/update-5-outgoing-trump-admin-mulls-industry-wide-biofuel-waiver-for-oil-refiners-idUSL1N2JQ17Z",
-      "originalUrl": "https://www.reuters.com/article/usa-biofuels/update-5-outgoing-trump-admin-mulls-industry-wide-biofuel-waiver-for-oil-refiners-idUSL1N2JQ17Z",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-15T16:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

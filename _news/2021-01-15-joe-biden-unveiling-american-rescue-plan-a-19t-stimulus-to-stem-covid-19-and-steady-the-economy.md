@@ -73,6 +73,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Biden proposes $1,400 payments and $15 minimum wage in coronavirus relief proposal"
+    excerpt: "Biden proposes $1,400 payments and $15 minimum wage in coronavirus relief proposal President-elect Joe Biden released a comprehensive economic relief bill to help the country dig out of the hard times brought on by the pandemic."
+    publishedDateTime: 2021-01-17T08:13:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-proposes-1400-payments-and-15-minimum-wage-in-coronavirus-relief-proposal/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 99
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/15/e176f2d0-6b7f-48fa-9209-3d765d470923/thumbnail/1200x630/92890c2e167408a11b9b5622b4535c93/0115-cbsn-bidencoronarelief-stbstc-627239-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Wealth inequality critic and heiress Abigail Disney on Biden's $1.9 trillion rescue package: 'This stimulus is a moral imperative'"
     excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. President-elect Joe Biden announced a $1.9 trillion COVID-19 stimulus plan on Thursday that includes $1,400 checks, an eviction moratorium through ..."
     publishedDateTime: 2021-01-16T06:48:00Z

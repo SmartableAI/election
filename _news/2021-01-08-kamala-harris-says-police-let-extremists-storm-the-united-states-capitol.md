@@ -59,6 +59,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Twitter launched a @SecondGentleman account for Vice President-elect Kamala Harris' husband"
+    excerpt: "DOW S&P 500 NASDAQ 100 Twitter has added @SecondGentleman to its roster of official political handles as the husband of Vice President-elect Kamala Harris prepares to become the first male second spouse in US history. President-elect Joe Biden touted the ..."
+    publishedDateTime: 2021-01-16T17:22:00Z
+    webUrl: "https://www.businessinsider.com/twitter-launches-secondgentleman-for-vp-harris-husband-doug-emhoff-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/twitter-launches-secondgentleman-for-vp-harris-husband-doug-emhoff-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-launches-secondgentleman-for-vp-harris-husband-doug-emhoff-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/60018f2ee4db430018933a94?width=1200&format=jpeg"
+        width: 619
+        height: 309
+        isCached: true
   - title: "Kamala D. Harris’s most trusted adviser: her sister Maya"
     excerpt: "Kennedy had Bobby, Joe Biden’s sister Valerie once ran his campaigns and Ivanka Trump has been one of the president’s most visible advisers. Kamala D. Harris has her younger sister, Maya Harris. The two are not only extremely close;"
     publishedDateTime: 2021-01-11T17:55:00Z

@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden planning several executive orders on first day in office, including rescinding travel ban"
+    excerpt: "President-elect Biden is planning to sign several executive orders on day one of his presidency, incoming chief of staff Ron Klain announced in a statement."
+    publishedDateTime: 2021-01-17T00:01:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-executive-order-first-day-in-office-rescinding-travel-ban"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-executive-order-first-day-in-office-rescinding-travel-ban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-order-first-day-in-office-rescinding-travel-ban.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Biden-.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "/6toB/hWmamzQ/dz0MHvxwJrzH1pxjhPDNAwwS/RBwuxVyIJYyhEI7PLwjjxgib8MNtoGSbjxDMC3yNMy/JhxIxfnHmhw8gkHzSbwpm2VcbxoNLEcZGCGB4sVBDdwynz1xPpubeeey5vyG7NuACUttDr5Ggx+EkoZbktW0PTooklmR+lCLrHZvFXimiBYc4MQd8/hk+ZE5CEP/wirRb99vkF6vDvZ7jU6zp2ODZ1q3rR2QAgnPW7ZKjxFI2B0/je3u9ZQSUbr5L4CNa1AZHXc5v/40hn9yAdL4dH7oZBfMEweNiKZtuuULaS9L61P/u5rTS8QZEYGfhVDDnDZPpEP7GoAXg+F/S/U1O5Q46gByk=;dS8WVNpQyqxDH7AsvfvJ8w=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "Pence calls VP-elect Kamala Harris to offer congratulations"
 excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's"
-publishedDateTime: 2021-01-16T21:14:00Z
-originalUrl: "https://apnews.com/article/mike-pence-congratulate-kamala-harris-9cf431138cceeda9f6f7104e0fa20487"
-webUrl: "https://apnews.com/article/mike-pence-congratulate-kamala-harris-9cf431138cceeda9f6f7104e0fa20487"
+publishedDateTime: 2021-01-17T07:28:00Z
+originalUrl: "https://apnews.com/article/9cf431138cceeda9f6f7104e0fa20487"
+webUrl: "https://apnews.com/article/9cf431138cceeda9f6f7104e0fa20487"
 type: article
 quality: 130
 heat: -1
@@ -1068,6 +1068,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "l4xvQ5+04+rvLWYhX93J1fjb04nm0SyRZ7fqool5g6/qAYrqv49VRbQkAdTEf9ZcUY1Ns8vK4axxXFLxI9kasOtC8K4E9rHnfDuNJ9Ij03IEBr89MVYpJnWs6/5iXkqMv+QZ1kPCVFNh1iXbX/vunxTyG1BnlUB5f2CmYGLC0zOSwXHAmFA12fxvcZSf7fOjwubmMmPBtbTSuC2RJxDIfN8FdrQkWRWxfai64QaVf3fPuTmYrnT681OY0FKILhpQVra64V/q2l1+H50sbTiZ+2GzTr0d6nhkbp9tVRIcj41Cm+rfi2mYCb4AKeM0Vszdf93dQR5aagFokX1sC4n4xhlG2b+dZm+YqLFAsI25dS3BJ6XLJyGUBcGYkjpAupZUC9mcJ+X+DsF5csgYCeTOPsXo/fEncW4/0CiIyNxcqedqYdS+y8JjY3EAoVSw8y6TxhVFU5VOV9jbMj7jzo9blpTLHsR7d5Pot4liixUVKPSpCOo2RB907yzmrxnTku8zyMTAh31UD0wBvc7toljXzA==;1BhbRTz8qWQsWXlA+Kx0nA=="
+secured: "GtQLhMWLfu1z2u5k/RfU5MwDSMDiK3gc+1F6vq8YiEEPy73+OqcT270NY9gJIhSwAGbxiCRNAGqNteNOmmW5uQ2V2d0Ov/lilnpQltL10yshZ3O6GOrcrtKCW74r50g5k35glXskMaWkhJrDM5ow0k8omaxoLnnRiCSZejgRuvQl9dBCbc9O197iB8ntX3peA4g8ZmMNBnaOIQLwnMFnrT6naklm8MoE6ZZYBtJfr0Qwzx8DpKHuHzI3UMfvo1V9aEwQ7Jde7oveCFI1tRQdV3h4DufqcbGFWaYKHfA6+dMUvxqW5EMTxl9ls/tOrDkS/K1awArysvecwJ1fIWGnCWExEeWHX9CiNucXnPwWdXE=;nJJYOOATJuQDAyBaENquXw=="
 ---
 

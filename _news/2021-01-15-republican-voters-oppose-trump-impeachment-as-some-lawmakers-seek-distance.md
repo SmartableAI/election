@@ -416,6 +416,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump reps decline comment on Giuliani involvement"
+    excerpt: "Rudy Giuliani claimed on ABC News Saturday that he’ll help defend the president at his upcoming second impeachment trial — but a Trump spokesman to tweeted hours later that Trump has"
+    publishedDateTime: 2021-01-17T08:19:00Z
+    webUrl: "https://nypost.com/2021/01/17/rudy-g/"
+    ampWebUrl: "https://nypost.com/2021/01/17/rudy-g/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/17/rudy-g/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/BB443C72-C7CF-4708-8F58-B85E14ECD1CD.jpeg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Katie Couric cheers on Trump's impeachment, says GOP lawmakers need to be 'deprogrammed'"
     excerpt: "Katie Couric appears to have gone far beyond her days as a straight news journalist and taken a sharp turn to the left."
     publishedDateTime: 2021-01-16T07:05:00Z
