@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donal
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1"
 type: article
 quality: 148
-heat: 1448
+heat: 1468
 published: true
 
 provider:
@@ -749,6 +749,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547306910&r=LYNXMPEH090DD&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Joe Biden volunteers, Donald Trump works on MLK Day"
+    excerpt: "state and national organizations virtually for a National Day of Service on Martin Luther King Jr. Day while the White House designated Monday as a working day for President Donald Trump. Biden and wife Jill Biden are expected to volunteer at Philabundance ..."
+    publishedDateTime: 2021-01-18T14:39:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/18/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day/1671610978151/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/18/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day/1671610978151/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/18/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day/1671610978151/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 90
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/1671610978151/2021/1/d90e27e5b533cf02b2ab1cdebe011438/v1.5/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day.jpg"
+        width: 800
+        height: 534
         isCached: true
   - title: "Biden is raising tens of millions of dollars for his inauguration but won't say where the money is going"
     excerpt: "Biden is raising tens of millions of dollars for the inaugural celebrations, including from corporate giants with big business before the federal government."

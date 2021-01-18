@@ -63,6 +63,38 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Joe Biden Inauguration: Where Does it Take Place, What Time and Concert Details"
+    excerpt: "Amid the ongoing COVID-19 pandemic, the inauguration and traditional parade following the ceremony will have limited attendance."
+    publishedDateTime: 2021-01-18T14:41:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-inauguration-day-cermeony-concert-times-event-details-1562363"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-inauguration-day-cermeony-concert-times-event-details-1562363?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-inauguration-day-cermeony-concert-times-event-details-1562363?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1710377/joe-biden-queen-theater-delaware-january-2021.jpg"
+        width: 2500
+        height: 1693
+        isCached: true
+  - title: "Biden plans quick executive action on immigration, but warns of potential delay on legislation"
+    excerpt: "The president-elect told Latino leaders that his immigration bill may not pass during his first 100 days in office, citing the pandemic and Senate impeachment trial."
+    publishedDateTime: 2021-01-18T14:41:00Z
+    webUrl: "https://www.cbsnews.com/news/immigration-biden-executive-actions-100-days/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-biden-executive-actions-100-days/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-biden-executive-actions-100-days/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 113
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/18/7193907f-bbb6-4c59-b99c-32f10c3b05f7/thumbnail/1200x630g2/45711032312276ceda9238296fdf8067/gettyimages-1230650670.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "INAUGURATION EXPLAINER: Biden's event will be very different"
     excerpt: "WASHINGTON (AP) — Between the still-raging pandemic and suddenly very real threat of violence, the inauguration of Joe Biden and Kamala Harris next Wednesday promises to be one of the most unusual in American history."
     publishedDateTime: 2021-01-16T22:51:00Z

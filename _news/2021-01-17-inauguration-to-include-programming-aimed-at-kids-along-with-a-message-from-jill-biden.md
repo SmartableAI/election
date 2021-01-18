@@ -79,6 +79,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden roles out group of deputy secretary nominees"
+    excerpt: "President-elect Joe Biden on Monday announced a slate of nominees to serve as deputy secretaries across his administration, further filling out his team just two days before he will take office."
+    publishedDateTime: 2021-01-18T14:41:00Z
+    webUrl: "https://thehill.com/homenews/administration/534678-biden-roles-out-group-of-deputy-secretary-nominees"
+    ampWebUrl: "https://thehill.com/homenews/administration/534678-biden-roles-out-group-of-deputy-secretary-nominees?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/534678-biden-roles-out-group-of-deputy-secretary-nominees?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/biden_cabinet_picks_01082021_1.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Gen. Mark Milley key to military continuity when President-elect Joe Biden takes office"
     excerpt: "In taking charge of a Pentagon battered by leadership churn, the Biden administration will look to one holdover as a source of military continuity: Gen. Mark A. Milley, chairman of the Joint Chiefs of Staff. President-elect Joe Biden will inherit Milley as ..."
     publishedDateTime: 2021-01-17T22:04:00Z
@@ -155,8 +171,8 @@ related:
         isCached: true
   - title: "Guatemalan forces clash with migrant caravan, Biden team seeks to halt exodus"
     excerpt: "Guatemalan security forces on Sunday used sticks and tear gas to beat back a large migrant caravan bound for the United States, just days before the advent of a new U.S. administration, which urged travelers to abandon the journey."
-    publishedDateTime: 2021-01-18T06:32:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-immigration-caravan/guatemalan-forces-clash-with-major-u-s-bound-migrant-caravan-idUSKBN29M0FN"
+    publishedDateTime: 2021-01-18T07:40:00Z
+    webUrl: "https://www.reuters.com/article/usa-immigration-caravan/update-4-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7"
     type: article
     provider:
       name: Reuters

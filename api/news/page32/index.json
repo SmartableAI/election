@@ -2,6 +2,171 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-12-02-the-latest-biden-gives-dire-virus-warning-for-next-2-months.md",
+      "title": "The Latest: Biden gives dire virus warning for next 2 months",
+      "excerpt": "President-elect Joe Biden has issued a dire warning about the spread of the coronavirus over the next two months, predicting as many as 250,000 deaths",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 425,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-02T06:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-trump-is-leaving-washington-as-he-governed-chaotically.md",
+      "title": "Trump is leaving Washington as he governed — chaotically",
+      "excerpt": "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/meet-the-press/trump-leaving-washington-he-governed-chaotically-n1249684",
+      "originalUrl": "https://www.nbcnews.com/politics/meet-the-press/trump-leaving-washington-he-governed-chaotically-n1249684",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_49/3432524/201202-donald-trump-mc-1314_76baad09f4ea18edab7aa6aafee2438b.JPG",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1249684",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1249684",
+      "publishedDateTime": "2020-12-02T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-biden-admits-dems-forgot-rural-america-says-he-did-something-good-for-the-country-by-beating-trump.md",
+      "title": "Biden admits Dems 'forgot' rural America, says he did 'something good for the country' by beating Trump",
+      "excerpt": "President-elect Joe Biden said Democrats \"forgot\" rural America in an interview with New York Times opinion columnist Thomas L. Friedman published Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R9EK1Jh2h3k/biden-democrats-forgot-rural-america",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R9EK1Jh2h3k/biden-democrats-forgot-rural-america",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20274669148826.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-democrats-forgot-rural-america.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-democrats-forgot-rural-america.amp",
+      "publishedDateTime": "2020-12-02T05:55:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-us-supreme-court-asked-to-block-biden-win-in-pennsylvania.md",
       "title": "US Supreme Court asked to block Biden win in Pennsylvania",
       "excerpt": "Republicans attempting to undo President-elect Joe Biden’s victory in Pennsylvania have asked the U.S. Supreme Court to take up their lawsuit, three days after it was thrown out by the battleground st",
@@ -1203,166 +1368,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-trump-campaign-to-file-wisconsin-lawsuit-claiming-abuse-of-absentee-voting-affected-220k-ballots.md",
-      "title": "Trump campaign to file Wisconsin lawsuit, claiming 'abuse' of absentee voting affected 220K ballots",
-      "excerpt": "EXCLUSIVE: The Trump campaign is filing a lawsuit to the Wisconsin Supreme Court Tuesday -- alleging abuse around the process of absentee voting in the state, which they say affected approximately 220,000 ballots.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mvQcGxKK5_I/trump-campaign-wisconsin-lawsuit-absentee-voting",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mvQcGxKK5_I/trump-campaign-wisconsin-lawsuit-absentee-voting",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-wisconsin-lawsuit-absentee-voting.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-wisconsin-lawsuit-absentee-voting.amp",
-      "publishedDateTime": "2020-12-01T03:54:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-joe-biden-weighs-rahm-emanuel-for-transportation-secretary.md",
-      "title": "Joe Biden weighs Rahm Emanuel for transportation secretary",
-      "excerpt": "President-elect Joe Biden is considering former Chicago Mayor Rahm Emanuel to serve as his transportation secretary",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-weighs-rahm-emanuel-for-transportation-secretary/2020/12/01/f7371a68-3392-11eb-9699-00d311f13d2d_story.html?outputType=amp",
-      "publishedDateTime": "2020-11-30T21:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-vice-president-mike-pence-will-visit-memphis-thursday-heres-why.md",
-      "title": "Vice President Mike Pence will visit Memphis Thursday. Here's why.",
-      "excerpt": "Vice President Mike Pence is planning to travel to Memphis Thursday to discuss Operation Warp Speed, the nation's COVID-19 pandemic response.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2020/12/01/vice-president-mike-pence-visit-memphis-operation-warp-speed/3786333001/",
-      "originalUrl": "https://www.usatoday.com/story/news/2020/12/01/vice-president-mike-pence-visit-memphis-operation-warp-speed/3786333001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/11/19/USAT/a9990e0f-1d48-4a88-8453-d7b48ac0ff46-GTY_1285534426.jpg?auto=webp&crop=3672,2066,x0,y186&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3786333001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3786333001",
-      "publishedDateTime": "2020-11-30T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

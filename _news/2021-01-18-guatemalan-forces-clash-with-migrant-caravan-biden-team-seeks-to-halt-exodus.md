@@ -2,9 +2,9 @@
 category: news
 title: "Guatemalan forces clash with migrant caravan, Biden team seeks to halt exodus"
 excerpt: "Guatemalan security forces on Sunday used sticks and tear gas to beat back a large migrant caravan bound for the United States, just days before the advent of a new U.S. administration, which urged travelers to abandon the journey."
-publishedDateTime: 2021-01-18T06:32:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-immigration-caravan/guatemalan-forces-clash-with-major-u-s-bound-migrant-caravan-idUSKBN29M0FN"
-webUrl: "https://www.reuters.com/article/us-usa-immigration-caravan/guatemalan-forces-clash-with-major-u-s-bound-migrant-caravan-idUSKBN29M0FN"
+publishedDateTime: 2021-01-18T07:40:00Z
+originalUrl: "https://www.reuters.com/article/usa-immigration-caravan/update-4-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7"
+webUrl: "https://www.reuters.com/article/usa-immigration-caravan/update-4-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7"
 type: article
 quality: 102
 heat: -1
@@ -76,6 +76,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden roles out group of deputy secretary nominees"
+    excerpt: "President-elect Joe Biden on Monday announced a slate of nominees to serve as deputy secretaries across his administration, further filling out his team just two days before he will take office."
+    publishedDateTime: 2021-01-18T14:41:00Z
+    webUrl: "https://thehill.com/homenews/administration/534678-biden-roles-out-group-of-deputy-secretary-nominees"
+    ampWebUrl: "https://thehill.com/homenews/administration/534678-biden-roles-out-group-of-deputy-secretary-nominees?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/534678-biden-roles-out-group-of-deputy-secretary-nominees?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/biden_cabinet_picks_01082021_1.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Inauguration to include programming aimed at kids along with a message from Jill Biden"
     excerpt: "The Presidential Inaugural Committee announced it will offer programming focused on getting families and their kids involved in next week's ceremony."
@@ -264,6 +280,6 @@ related:
         height: 560
         isCached: true
 
-secured: "6WTCC7bCPPVZYq/pq4z/klk73tRc9ZKOPnoI/st06wmkYTB6pLQ7eo6EVHTP71Azzc1gLUn97o06ftxcHM55oo/FRzIkDq+rvkoWUsRfr5VT140wKg251OXf9uZTEW26whG6A0YF/aWcmOB9QvP7NnZDHDrVIltxfBOgqrrKAoLVYrBdWH7+xyCHoBFPd9ZBbLV1SkcNFUv9PHvy1E9fPI5imjXJ+3Z1uG+XLL6IRkvIGQTglcykzg7NCI4JNK+CNyh5l5UBCnZRPIDgUmphLzTpau5+CckZiEFl83WjR+TNEsY3Wci7l8kbsvL8D3ZuOYMiCDw6vcLNDL1QN86NXgnvm8FDvrBI0mhtzX5Pf10=;dfuyAe2u8z+2IrzSdq2yiw=="
+secured: "3SrPueoRU3QcLCyzpok6cTBOfx1GroGcGVygoaA5VWj4k/WMv6DK53iInQfbwKspjBjeZvl0EtGG8kntRUHG8Zvkengy3hxYYZNb1W+pbNLorUkoUxj5ZpT3azTqEin9F4mk9NRzgdj4Zy/qtX1hhzn28JqCYIpzqyr6oxMmwbXlQrh1H6dk+ZOY4cnrMS6x8gl4mrdMIfcla6NQvEKSMVB+sWsHFgSQNWW2+tyvPDoS4N12LXFDeO4y/sJvqY8UYeqX6Esxxhjf1a/VBysv4ZHnrkj5jA+QZfyc1UB8mUZhhhxW+HWa/Dc+QdJtpsSUjOXxbFkYkiOlDXki/1MkKpEpmjC9cy790tgUuE35sXk=;+xOkCOIWqaxZ6/I2zoYJZA=="
 ---
 

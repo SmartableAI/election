@@ -45,22 +45,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-    excerpt: "WASHINGTON -- Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
-    publishedDateTime: 2021-01-16T00:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 150
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Harris prepares for central role in Biden's White House"
     excerpt: "Kamala Harris will make history on Wednesday when she becomes the nation’s first female vice president — and the first Black woman and the first woman of South Asian descent to hold that office"
     publishedDateTime: 2021-01-18T05:52:00Z
@@ -156,6 +140,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/Z3qJoKYgp7I25-Bfj9OgWDYkWb8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7RFR7OAVVHIHHAVMBLL7YTF44.jpg"
         width: 1200
         height: 898
+        isCached: true
+  - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's"
+    publishedDateTime: 2021-01-16T08:57:00Z
+    webUrl: "https://apnews.com/9cf431138cceeda9f6f7104e0fa20487"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 130
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/4444eb45d10847adbfe84daefb893fa0/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Biden inauguration: Trump expected to issue flurry of pardons before leaving office – live"
     excerpt: "Washington DC prepares for Biden inauguration with unprecedented number of troops on street"
@@ -1398,6 +1396,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "/p+xyBLGeCYJtlbf9U5CES/cE03booTtspuoVyZBPFsRv2qO3HO3UEe7xAF5Xo8VZa5NGDSGWXTlEE03Ea09Mek3SvmsLhq563c0qnAsmgvw3Z9l3nJ/Q+qR6fiGeKJO2HHyET9GVTnk1yy+BQoE0rAvt+D1UeLgNa7NNio0yCehZJRPaQlZ+Oc4OnlQ4kiWZB9N7lVWC3oBD+f9COojhGejdCmMzd/iRKiggmnXDF/sz65aGA0ZIC9zxsICynKqXntuW3Ln2IpVPod3WvYwBqf2xkCXSe0SfQjUTHSRwUkC7sYSYxGXGml27aOzgMwxiILp19Dq9eQ5S4o2fZl/utjBRxNeYxUrndKggxWFBv0=;+DIqxU9VNlhZ2xM8FH95qA=="
+secured: "TTcvOcvJxRM6dLTpcvEkKAHmMNvHR2JyCyrKDsM7g55LzTxZKweEzchyy5ViNT8Gpj4msn6aJIChtD3CQUCmc+EsJAELkBO0nB6qXADaFJd2zsFIO9XBDpIGeFE3m8VLzIwTTGEcpMN6wE+zgJkgb3AtFUcB/GYLHvMjhkaNq2f1n7lnM5UHW1swAjGGxwhKglX1EkD/cKbSGyRsKp2tPGoBsbQQEghmmzOi1XcIZlkF3s9+lKlB82igZLDwnyyOHR6T9OGqSWpSUd6Iny4Q/VlLKlIOfMpd2l4abbNWKI6B8po0jVjatVj7tlfi732OkGaTox9Vtj/4T4gU3eR+F7rAF0+l9Y3yIHakTkuBLmKgpxkIqlf01+wjD+2XH8iD3af0TwuIuUhw3PWriu/L2qwCWb1W5RIlBLJ1YViXNQ78sltPRDgPgFemU1eyCIfKu7anQMko64MSGU/EpQEwNtckcFpKem1LsJrtw2l6xX9KRAXVvIzGI2+mZqFLvPKkyuxNgKNVywKyy/byHpn/Qw==;vqKBEfbbOw1Jpnuu7oBtfA=="
 ---
 

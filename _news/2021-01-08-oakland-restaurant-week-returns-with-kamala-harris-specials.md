@@ -105,6 +105,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Kamala Harris' Alpha Kappa Alpha line sisters talk about early years of the future vice president"
+    excerpt: "Vice President-elect Kamala Harris has never been shy about sharing her love for her sorority, Alpha Kappa Alpha Sorority, Inc. Three of her line sisters joined \"CBS The Morning: Saturday\" co-host Michelle Miller at Howard University to talk about the early days of the future vice president of the United States."
+    publishedDateTime: 2021-01-18T14:49:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-alpha-kappa-alpha-line-sisters-talk-about-early-years-of-the-future-vice-president/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 92
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/18/8ac05a46-726e-453a-b591-78b522a8cf2c/thumbnail/1200x630/e76aea1af920dcde609f99ae7a08020b/cbsn-fusion-kamala-harris-alpha-kappa-alpha-line-sisters-talk-about-early-years-of-the-future-vice-president-thumbnail-628541-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris Says Police ‘Let Extremists Storm the United States Capitol’"
     excerpt: "We don’t need another rhetorical arsonist at work in Washington. Our country is in a bad enough situation as it is."
     publishedDateTime: 2021-01-07T21:54:00Z

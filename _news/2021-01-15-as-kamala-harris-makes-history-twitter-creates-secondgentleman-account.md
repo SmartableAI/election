@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818?amp=1"
 type: article
 quality: 124
-heat: 364
+heat: 384
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ARXQTHBYCEI6PKYDVIU7MVXRHY.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Kamala Harris' Alpha Kappa Alpha line sisters talk about early years of the future vice president"
+    excerpt: "Vice President-elect Kamala Harris has never been shy about sharing her love for her sorority, Alpha Kappa Alpha Sorority, Inc. Three of her line sisters joined \"CBS The Morning: Saturday\" co-host Michelle Miller at Howard University to talk about the early days of the future vice president of the United States."
+    publishedDateTime: 2021-01-18T14:49:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-alpha-kappa-alpha-line-sisters-talk-about-early-years-of-the-future-vice-president/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 92
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/18/8ac05a46-726e-453a-b591-78b522a8cf2c/thumbnail/1200x630/e76aea1af920dcde609f99ae7a08020b/cbsn-fusion-kamala-harris-alpha-kappa-alpha-line-sisters-talk-about-early-years-of-the-future-vice-president-thumbnail-628541-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Oakland Restaurant Week returns — with Kamala Harris specials"
     excerpt: "Oakland Restaurant Week is back, with a new emphasis for this coronavirus era and some specials honoring native daughter Kamala Harris. With the pandemic hitting the food industry hard, the Visit Oakland organizers of the 11th annual event have added a new focus on the broader culinary community — roundups of caterers,"

@@ -2,6 +2,171 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-14-protected-habitat-for-imperiled-spotted-owls-is-slashed-trumps-latest-parting-gift-to-the-timber-industry.md",
+      "title": "Protected habitat for imperiled spotted owls is slashed: \"Trump's latest parting gift to the timber industry\"",
+      "excerpt": "The owl is listed as threatened under the Endangered Species Act and is losing nearly 4% of its population annually.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/spotted-owl-habitat-slashed-trump-administration/",
+      "originalUrl": "https://www.cbsnews.com/news/spotted-owl-habitat-slashed-trump-administration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/14/f9e871fa-d69a-4517-9302-121f220b86d3/thumbnail/1200x630/2a7a13f86794fbd234a91278c8ae4104/ap-16218741751211.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/spotted-owl-habitat-slashed-trump-administration/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/spotted-owl-habitat-slashed-trump-administration/",
+      "publishedDateTime": "2021-01-14T04:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-pressure-on-pelosi-to-send-trump-impeachment-to-senate-as-schumer-mcconnell-trade-barbs-over-next-steps.md",
+      "title": "Pressure on Pelosi to send Trump impeachment to Senate as Schumer, McConnell, trade barbs over next steps",
+      "excerpt": "House Speaker Nancy Pelosi hasn't indicated when she will send the latest article of impeachment against President Trump to the Senate even as House Majority Leader Steny Hoyer, her chief deputy, publicly advocates that the article be sent \"as soon as possible.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IQpLoJlLblU/unclear-when-pelosi-will-send-trump-impeachment-to-senate-as-schumer-mcconnell-trade-barbs-over-next-steps",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IQpLoJlLblU/unclear-when-pelosi-will-send-trump-impeachment-to-senate-as-schumer-mcconnell-trade-barbs-over-next-steps",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/unclear-when-pelosi-will-send-trump-impeachment-to-senate-as-schumer-mcconnell-trade-barbs-over-next-steps.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/unclear-when-pelosi-will-send-trump-impeachment-to-senate-as-schumer-mcconnell-trade-barbs-over-next-steps.amp",
+      "publishedDateTime": "2021-01-14T04:27:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-conversion-therapy-ban-introduced-in-mike-pences-home-state-of-indiana.md",
+      "title": "Conversion therapy ban introduced in Mike Pence's home state of Indiana",
+      "excerpt": "Indiana legislators this week introduced a measure that would ban conversion therapy for minors by licensed counselors. Senate Bill 32, authored by Democratic state Sen. J.D. Ford, would prohibit efforts to change the sexual orientation or gender identity of anyone younger than 18.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/feature/nbc-out/conversion-therapy-ban-introduced-mike-pence-s-home-state-indiana-n1254144",
+      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/conversion-therapy-ban-introduced-mike-pence-s-home-state-indiana-n1254144",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2021_02/3441863/210113-one-time-use-only-senator-jd-ford-se-244p_5cf7ffeaa5465c7123bf097a9eb6079a.jpg",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1254144",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254144",
+      "publishedDateTime": "2021-01-14T01:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-rep-marjorie-taylor-greene-vows-to-file-articles-of-impeachment-against-biden.md",
       "title": "Rep. Marjorie Taylor Greene vows to file articles of impeachment against Biden",
       "excerpt": "Rep. Marjorie Taylor Greene, the newly elected Republican from Georgia, took to Twitter Wednesday to announce that she will be filing articles of impeachment against President-elect Joe Biden shortly after he takes office.",
@@ -1194,176 +1359,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-liz-cheney-no-3-house-republican-to-vote-to-impeach-trump.md",
-      "title": "Liz Cheney, No. 3 House Republican, to vote to impeach Trump",
-      "excerpt": "Wyoming Republican Rep. Liz Cheney, the party's third-ranking House leader, announced on Tuesday that she will vote to impeach President Donald Trump, becoming the highest-ranking official from her party to support charging and removing him from office following the Trump-incited riot at the Capitol",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zMF1_XHZTPQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zMF1_XHZTPQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200723145511-liz-cheney-trump-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html",
-      "publishedDateTime": "2021-01-12T16:09:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-trump-says-i-kept-my-promises-as-he-marks-450-miles-of-border-wall-amid-riot-fallout-in-dc.md",
-      "title": "Trump says 'I kept my promises' as he marks 450 miles of border wall, amid riot fallout in DC",
-      "excerpt": "President Trump on Tuesday declared “I kept my promises” on his pledge to build a wall at the southern border, as he marked 450 miles of construction -- as he also tackled fallout from the riot at the Capitol last week.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JWEynQUNHa0/trump-promises-450-miles-border-wall",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JWEynQUNHa0/trump-promises-450-miles-border-wall",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21012723647436.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-promises-450-miles-border-wall.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-promises-450-miles-border-wall.amp",
-      "publishedDateTime": "2021-01-12T14:21:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-trump-defends-riot-remarks-as-totally-appropriate-before-house-vote-on-25th-amendment-resolution.md",
-      "title": "Trump defends riot remarks as 'totally appropriate' before House vote on 25th Amendment resolution",
-      "excerpt": "\"Everybody to a 'T' thought it was totally appropriate,\" Trump said as lawmakers prepared a resolution calling for his removal from office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/house-set-vote-resolution-calling-pence-invoke-25th-amendment-n1253873",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/house-set-vote-resolution-calling-pence-invoke-25th-amendment-n1253873",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_02/3441497/210112-donald-trump-jm-1043_14f8a0fe6ee3094b4256b33575e347dd.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253873",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253873",
-      "publishedDateTime": "2021-01-12T13:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

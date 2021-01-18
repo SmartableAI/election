@@ -240,6 +240,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "'CBS Sunday Morning' fawns over Kamala Harris with 'cozy' interview"
+    excerpt: "CBS fawned over Vice President-elect Kamala Harris on Sunday with a glowing feature that could indicate how the incoming administration will be treated by the mainstream media."
+    publishedDateTime: 2021-01-18T14:55:00Z
+    webUrl: "https://www.foxnews.com/media/cbs-sunday-morning-fawns-kamala-harris-cozy-interview"
+    ampWebUrl: "https://www.foxnews.com/media/cbs-sunday-morning-fawns-kamala-harris-cozy-interview.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cbs-sunday-morning-fawns-kamala-harris-cozy-interview.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2265dc7-c2de-4b08-9cea-86b4ebe64632/db6daa92-b888-49ae-a844-b925a3f30557/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris will resign Senate seat Monday in run-up to inauguration"
     excerpt: "Vice President-elect Kamala Harris will resign her Senate seat on Monday – two days before she and President-elect Joe Biden are sworn in on Inauguration Day."
     publishedDateTime: 2021-01-17T19:35:00Z

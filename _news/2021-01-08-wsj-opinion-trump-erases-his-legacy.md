@@ -542,6 +542,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump impeachment intended to keep him from seeking presidency again, Dems acknowledge"
+    excerpt: "While some members of Congress have claimed that President Trump's impeachment and swift conviction are necessary to keep him from serving out the final days of his term, others have acknowledged that they are focused on keeping him from ever running again."
+    publishedDateTime: 2021-01-18T14:45:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jNiJFzL7zO4/trump-impeachment-block-from-seeking-presidency-again"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-block-from-seeking-presidency-again.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-block-from-seeking-presidency-again.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02ffde9d-0cc6-45ac-b045-16f768eb828d/40e452e9-8c15-4f5b-967a-fac0730df44d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Capitol rioters could face up to 10 years in prison under Trump monument executive order"
     excerpt: "Acting Attorney General Jeffrey Rosen vowed that pro-Trump rioters who entered the U.S. Capitol would \"face the full consequences of their actions under the law,\" and those consequences could include being charged under President Trump's executive order authorizing up to 10 years in prison for \"injury"
     publishedDateTime: 2021-01-07T19:38:29Z
@@ -939,6 +955,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/president-trump-air-force-one.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "As Biden inauguration approaches, federal prisons under full-on lockdown"
+    excerpt: "Federal prisons throughout the country have been placed under full-on lockdown until further notice in the days leading up to the inauguration of President-elect Joe Biden and amid nationwide threats of unrest,"
+    publishedDateTime: 2021-01-18T14:56:00Z
+    webUrl: "https://www.foxnews.com/us/federal-prisons-lockdown-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/us/federal-prisons-lockdown-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/federal-prisons-lockdown-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/1ed2f669-AP20332657500138.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Republican Voters Oppose Trump Impeachment as Some Lawmakers Seek Distance"
     excerpt: "Some GOP lawmakers such as Rep. Nancy Mace of South Carolina have publicly criticized the president over the attack on the Capitol."

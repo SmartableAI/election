@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's impeachment trial looms as Congress prepares for the arrival of the Biden administration"
+    excerpt: "There are just days to go until President-elect Joe Biden is sworn in, Donald Trump is no longer President and Democrats take control of the US Senate, but rank-and-file members on Capitol Hill are still waiting for signals from leadership about what the first month of Biden's presidency will look like.\n"
+    publishedDateTime: 2021-01-18T13:21:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/458QKPURL04/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/impeachment-latest-congress-state-of-play/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/impeachment-latest-congress-state-of-play/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106202510-mconnell-schumer-split-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "House Democrats would impeach Trump for 'incitement of insurrection'"
     excerpt: "House Democrats are barreling toward impeaching President Donald Trump for the second time over his role in inciting last week's riots at the US Capitol.\n    \n"
     publishedDateTime: 2021-01-11T14:51:52Z
@@ -528,6 +544,38 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Analysis: What does Biden's diverse Cabinet mean for a divided country"
+    excerpt: "The President-elect has the most racially diverse presidential Cabinet in the history of the US. A CNN analysis found that 50% of nominees for Cabinet positions and Cabinet-level positions are people of color."
+    publishedDateTime: 2021-01-18T08:28:00Z
+    webUrl: "https://www.cnn.com/2021/01/18/politics/diversity-joe-biden-cabinet-analysis/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/diversity-joe-biden-cabinet-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/diversity-joe-biden-cabinet-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113141645-20210113-biden-cabinet-diversity-collage-super-tease.png"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden Will Be the Oldest President to Take the Oath"
+    excerpt: "Until Joe Biden is sworn in on Wednesday, President Trump holds the record for the country’s oldest chief executive. At 42, Theodore Roosevelt was the youngest."
+    publishedDateTime: 2021-01-18T14:31:00Z
+    webUrl: "https://www.nytimes.com/2021/01/18/us/politics/joe-biden-age-oldest-presidents.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/18/us/politics/joe-biden-age-oldest-presidents.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/18/us/politics/joe-biden-age-oldest-presidents.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/13/multimedia/00xp-age-Reagan/00xp-age-Reagan-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Psaki: Biden White House will make visitor logs public"
     excerpt: "The White House will restart the release of its visitor logs once President-elect Joe Biden takes office, Biden transition spokesperson Jen Psaki announced Friday. The move is a shift from President Donald Trump's White House, which kept visitor logs to ..."
     publishedDateTime: 2021-01-17T18:26:00Z
@@ -541,6 +589,22 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/69/47/488535ab4ef7a9283c84e09a80f8/ap21009633809621-1.png"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden will halt federal executions, other actions on first day in office"
+    excerpt: "The president-elect has a long list of executive actions he plans to take as soon as he's sworn in on Jan. 20."
+    publishedDateTime: 2021-01-18T13:21:00Z
+    webUrl: "https://www.politico.com/news/2021/01/17/biden-executive-actions-day-one-460146"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/17/biden-executive-actions-day-one-460146"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/17/biden-executive-actions-day-one-460146"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 134
+    images:
+      - url: "https://static.politico.com/18/ce/08d38d2741cfba97c842cd7d1b25/gettyimages-1296748086-1.jpg"
         width: 1160
         height: 773
         isCached: true
@@ -717,6 +781,6 @@ related:
         height: 773
         isCached: true
 
-secured: "pcUt4syJWYnBKIhWmobDH9WGEFnGkzWZ30svCAmmXyii0of5zF7NMkWn820hXTfs9/iliAU7H5cGBJDKMF+5tkFgeK4XA1HsCRo9iggFGbQtbuLgO3Pg/G0pfNKe6mdGYLl3pBz6LXQjirvNFko76dV/JFpApgmoxs2XdN/BuEqHxq8sKUsmOoXv10cMMMfPYLyYMkANZ3uZbYvSKGnkWnZEV/NIP4D5tNM0f9o+Sh8TIwkV0ZIitHVtb7Vfn7Sjqb+0+FXGwTEesPvKRJaHp/SOhL4LUsUsvVxoiykyZX9GiOtXxoLxWMh1CW+xWI+NPdRUJmacR3jLONr5wJRd+zDpgS3UrFp2pdl4lN0ualQ=;dKYNADVr4FgrZwHtR/f2OQ=="
+secured: "23FvcG4YZj1GPVzChkhmjVzYWYWYmN/e8HuXDVFWBiqMKuzsOBT7nKkFHamnooUUDeOUDbcFH7XEzv8upFK4qSXyvKFk9RQ0+TBRLpEQTBDq8QLIrFkjFpr4Qq5dwyZn6vmkOVmmdt4vz/PIIqSbAuAfQovhca3L4KlTBl6Ycm6E7DiGgvqSiC4qp8IoL1rBISoh6ixueYNE2lOXtyRYGAgNJNHNsHoXhzzftkruz1SAyCM4HbvsXEzuBHTdr56mMW19l+mkFwdXYGmT2YM5Ua88dtri+jEXX4+Qherkq7k9XR4poAvV94QZwyx116QWhgf/F+DLN4jJkRAmT6wj1gscRHIMn0DLIY4KoLf0g6hsDvR5OljqwcDw3qLmcWsu1hyASEtZqeqkUvQZfwc6F7m8yj9Bwq6YkSAcMV0bV9lJpJQddG3tXEEdTJ4IgZtIb1LcGljtTmvAtawFuCoMFqYmTrmfz+AqMP6yF/aZIZI/2nvh4cXEoi3MAgtphGR5YcsopTXjcXCC9kOQx0caeQ==;mRLgTDcJFHfqksGhBrP+zA=="
 ---
 

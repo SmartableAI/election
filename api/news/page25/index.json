@@ -2,6 +2,163 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-12-13-live-politics-updates-republican-wis-election-official-in-says-no-evidence-of-fraud-trump-supporters-protest-in-dc.md",
+      "title": "Live politics updates: Republican Wis. election official in says no evidence of fraud; Trump supporters protest in DC",
+      "excerpt": "A Republican election official told Wisconsin legislators there is no credible evidence of widespread fraud; Trump backers rally in D.C. – updates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/12/live-politics-updates-donald-trump-joe-biden/6520470002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/12/live-politics-updates-donald-trump-joe-biden/6520470002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/2590db33eb99f305084c29985422bc6d845d2c97/c=430-0-3373-1663/local/-/media/2017/09/26/WIGroup/Milwaukee/636420419021309996-MJS-elections-4-hoffman.jpg-HACK.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6520470002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6520470002",
+      "publishedDateTime": "2020-12-12T08:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-jordan-claims-trump-paid-what-he-owed-in-response-to-ny-times-report.md",
+      "title": "Jordan claims Trump 'paid what he owed' in response to NY Times report",
+      "excerpt": "One poll says nearly three in four registered voters plan to tune in to see President Trump face off against Democratic nominee Joe Biden tonight.  MACCALLUM: Fireworks are anticipated as theshowdown comes against a tense backdrop in thenation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/jordan-claims-trump-paid-what-he-owed-in-response-to-ny-times-report",
+      "originalUrl": "https://www.foxnews.com/transcript/jordan-claims-trump-paid-what-he-owed-in-response-to-ny-times-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8241411b-5bcb-46d6-bbe8-f51124ee7cda/a39ee341-3490-443f-bbbe-b3badea4f82c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-12T07:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-12-mike-pompeo-mike-pence-go-to-bat-for-imprisoned-hong-kong-media-tycoon-jimmy-lai.md",
+      "title": "Mike Pompeo, Mike Pence go to bat for imprisoned Hong Kong media tycoon Jimmy Lai",
+      "excerpt": "Top US officials are speaking out against the arrest and imprisonment of Hong Kong media tycoon Jimmy Lai. The 73-year-old billionaire and pro democracy advocate was denied bail Saturday after",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/12/12/us-officials-go-to-bat-for-imprisoned-hong-kong-tycoon-jimmy-lai/",
+      "originalUrl": "https://nypost.com/2020/12/12/us-officials-go-to-bat-for-imprisoned-hong-kong-tycoon-jimmy-lai/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/hong-kong-jimmy-lai.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/12/12/us-officials-go-to-bat-for-imprisoned-hong-kong-tycoon-jimmy-lai/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/12/us-officials-go-to-bat-for-imprisoned-hong-kong-tycoon-jimmy-lai/amp/",
+      "publishedDateTime": "2020-12-12T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-12-new-jersey-representative-asks-pelosi-to-refuse-to-seat-any-house-members-who-supported-trumps-election-lawsuits.md",
       "title": "New Jersey representative asks Pelosi to 'refuse to seat' any House members who supported Trump's election lawsuits",
       "excerpt": "Rep. Bill Pascrell slammed lawmakers who backed lawsuits that sought to \"overturn the election and make Donald Trump an unelected dictator.\"",
@@ -1187,163 +1344,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-pence-says-trump-deserves-his-day-in-supreme-court.md",
-      "title": "Pence says Trump ‘deserves his day’ in Supreme Court",
-      "excerpt": "Saying “God bless Texas,” Vice President Mike Pence on Thursday gave a rousing endorsement of a lawsuit filed by the Texas attorney general and backed by President Trump that aims to throw out the election results in four key battleground states won last month by President-elect Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tqzw8poCUJw/pence-says-trump-deserves-his-day-in-supreme-court",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tqzw8poCUJw/pence-says-trump-deserves-his-day-in-supreme-court",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 840,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-says-trump-deserves-his-day-in-supreme-court.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-says-trump-deserves-his-day-in-supreme-court.amp",
-      "publishedDateTime": "2020-12-10T14:38:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-george-conway-writes-op-ed-calling-trumps-effort-to-overturn-the-election-the-true-big-fraud-of-2020.md",
-      "title": "George Conway writes op-ed calling Trump's effort to overturn the election the true 'big fraud' of 2020",
-      "excerpt": "\"History will record that the scam didn't succeed,\" George Conway wrote in an op-ed excoriating Trump's effort to overturn the election.",
-      "sourceUrl": null,
-      "webUrl": "https://businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12",
-      "originalUrl": "https://businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fd2968d7b7e0500191074ca?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conway-calls-trump-effort-to-overturn-election-true-big-fraud-2020-12?amp",
-      "publishedDateTime": "2020-12-10T14:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-11-kamala-harriss-husband-will-teach-at-georgetown-law-school.md",
-      "title": "Kamala Harris’s husband will teach at Georgetown Law school",
-      "excerpt": "Vice President-elect Kamala Harris’ husband Douglas Emhoff will join the staff of Georgetown University’s law school next month. Emhoff, 56, will be the first non-female and first Jewish ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-georgetown-law-school/",
-      "originalUrl": "https://nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-georgetown-law-school/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/12/georgetown-law1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-georgetown-law-school/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/10/kamala-harriss-husband-will-teach-at-georgetown-law-school/amp/",
-      "publishedDateTime": "2020-12-10T13:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Republican Voice"
       ]
     }

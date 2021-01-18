@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-excerpt: "WASHINGTON -- Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
-publishedDateTime: 2021-01-16T00:57:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-webUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's"
+publishedDateTime: 2021-01-16T08:57:00Z
+originalUrl: "https://apnews.com/9cf431138cceeda9f6f7104e0fa20487"
+webUrl: "https://apnews.com/9cf431138cceeda9f6f7104e0fa20487"
 type: article
-quality: 150
+quality: 130
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Election
-  - Mike Pence
   - Kamala Harris
+  - Mike Pence
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://storage.googleapis.com/afs-prod/media/4444eb45d10847adbfe84daefb893fa0/3000.jpeg"
+    width: 3000
+    height: 2000
     isCached: true
 
 related:
@@ -1399,6 +1393,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "1++eISuXR9sLR739oEISSzEF4YXqjRB8AC+5fBOOAkCR5kcYwz9S+c+jnuTc5mvW6nDdct80G84YAP9eIEm5WCm5o1HQIa1BAMdxmIQ7hJznyomuU4cWiUU2VJsm9hDyfhpq3OUKNMwG+EHDkJbAgjc3MPPdoyyOcS8hlJiPdqk5/kJBO2eu9EZgcD3DMYoG8fgC68JOP10bda2eGQg06+gc7SqYw99PvsO770II/vLmgyh4SF1TdUh/sW1xajnPQ1VL6zrUQ6+FP6+kWh2vriEnc6/iENFC6xBvVVaHpaV7AZveJefmvrjLUwjiOWL3Ljyyxzl5SiI66XO9il6eCIouF3QktcGvEE8HLOMY8X4=;vdLQ9V2WTASoziVZ80/tSA=="
+secured: "FVDLIIYoUCHX4r2bfwqnmnnXQG8UZhod+U4BsLD3oVHZvtMfh2sSsjiTNud8IU+3ifFgNRqX7jssEY2JU1hlwrJNwdoemMQ4nBmHcNehoY6FZV2gC4AWrnQcOKWPDnx/a/UvEjNOZgL029lyfikrK2vMJl3yg30c+UDhiDiYFJtx0iZW3lu4u9DcGKmp5PCv4uMfrIOzj5PiplpPXCjoFkKVw5NMe8sZhryRkh9xAUSEOfUrUk6uFqLE7cm0cujo9p+EAN2chBpg+nAmFJS8sR1hjugisyc4mEeuEZ13VeE+oVO9R8dV+tbIsDwShN7cwFMaehq5nIRhswEfMaKG9jb/jpUps6FHLL6f3XzyjMI=;5TnXvulQYAwd9UC+FSY7Ag=="
 ---
 

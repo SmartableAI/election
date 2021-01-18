@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-18-pence-tried-to-contact-capitol-officer-eugene-goodman-to-thank-him.md",
+      "title": "Pence tried to contact Capitol officer Eugene Goodman to thank him",
+      "excerpt": "The cop hailed as a hero for leading a crowd of insurrectionists away from the Senate floor and potentially saving... View Article",
+      "sourceUrl": null,
+      "webUrl": "https://thegrio.com/2021/01/18/officer-goodman-pence-thanks/",
+      "originalUrl": "https://thegrio.com/2021/01/18/officer-goodman-pence-thanks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thegrio.com/wp-content/uploads/2021/01/PenceGoodman-scaled.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thegrio.com/2021/01/18/officer-goodman-pence-thanks/amp/",
+      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/01/18/officer-goodman-pence-thanks/amp/",
+      "publishedDateTime": "2021-01-18T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Grio",
+        "domain": "thegrio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-pence-proud-trump-wh-avoided-engaging-in-new-war.md",
       "title": "Pence ‘proud’ Trump WH avoided engaging in new war",
       "excerpt": "Vice President Mike Pence took to Twitter late Sunday night to say he is “proud” that the Trump administration “is the first in decades” not to get the U.S. entangled in a new war.",
@@ -489,7 +532,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 584,
+      "heat": 604,
       "tags": null,
       "images": [
         {
@@ -1577,63 +1620,6 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-hear-why-klobuchar-fist-bumped-pence-after-electoral-certification.md",
-      "title": "Hear why Klobuchar fist-bumped Pence after Electoral certification",
-      "excerpt": "Sen. Amy Klobuchar (D-MN), tells CNN's Chris Cuomo about the moment Congress finalized President-elect Joe Biden's victory, and about why she chose to fist-bump Vice President Mike Pence after he read the election results.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/STVfKhlsmZw/sen-amy-klobuchar-mike-pence-fist-bump-electoral-certification-cpt-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/STVfKhlsmZw/sen-amy-klobuchar-mike-pence-fist-bump-electoral-certification-cpt-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210107214242-klobuchar-pence-cpt-vpx-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/01/08/sen-amy-klobuchar-mike-pence-fist-bump-electoral-certification-cpt-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/08/sen-amy-klobuchar-mike-pence-fist-bump-electoral-certification-cpt-vpx.cnn",
-      "publishedDateTime": "2021-01-07T18:56:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
         "Mike Pence"
       ]
     }

@@ -2,6 +2,166 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-16-mypillow-ceo-hints-at-scrapped-plan-to-replace-cia-director-with-trump-loyalist.md",
+      "title": "MyPillow CEO hints at scrapped plan to replace CIA director with Trump loyalist",
+      "excerpt": "A Trump ally's notes visible as he visited the West Wing on Friday revealed a suggestion to replace the current CIA director with the current acting chief of staff at the Pentagon. But according to multiple sources, it was not the first time the idea was broached inside the White House.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OhgmABjeqr4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OhgmABjeqr4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210115181104-my-pillow-ceo-michael-lindell-white-house-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/15/politics/cia-kash-patel-mypillow-notes-lindell-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/cia-kash-patel-mypillow-notes-lindell-trump/index.html",
+      "publishedDateTime": "2021-01-15T18:57:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-ny-prosecutors-interview-michael-cohen-about-trump-finances.md",
+      "title": "NY prosecutors interview Michael Cohen about Trump finances",
+      "excerpt": "New York prosecutors conducted an hours-long interview Thursday of Michael Cohen, President Donald Trump’s former attorney",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-15T18:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-police-man-charged-after-displaying-kill-biden-sign.md",
+      "title": "Police: Man charged after displaying ‘KILL BIDEN’ sign",
+      "excerpt": "A Virginia man has been arrested for having a “KILL BIDEN” sign. WWBT in Richmond reported Thursday that Kenneth Kraig Thomas of Goochland County was arrested and is facing a charge of threatening a person in writing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/police-man-charged-after-displaying-kill-biden-sign/2021/01/15/1397f9c4-5775-11eb-acc5-92d2819a1ccb_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/police-man-charged-after-displaying-kill-biden-sign/2021/01/15/1397f9c4-5775-11eb-acc5-92d2819a1ccb_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/police-man-charged-after-displaying-kill-biden-sign/2021/01/15/1397f9c4-5775-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/police-man-charged-after-displaying-kill-biden-sign/2021/01/15/1397f9c4-5775-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-15T18:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-despite-trump-administration-promise-government-has-no-more-reserve-2nd-vaccine-doses.md",
       "title": "Despite Trump administration promise, government has no more 'reserve' 2nd vaccine doses",
       "excerpt": "Hopes of a surge in Covid-19 vaccine shipments under a new policy to release second doses held in reserve appear to be evaporating -- with the revelation that those doses have already been distributed, contrary to recent indications by the Trump administration.\n    \n",
@@ -556,7 +716,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 584,
+      "heat": 604,
       "tags": null,
       "images": [
         {
@@ -1185,170 +1345,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-stimulus-plan-bailout-blue-states-bad-lockdown-policies-waltz.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-stimulus-plan-bailout-blue-states-bad-lockdown-policies-waltz.amp",
       "publishedDateTime": "2021-01-15T05:08:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-already-shunned-from-polite-society-ivanka-trump-and-jared-kushner-face-new-cold-post-insurrection-reality.md",
-      "title": "Already shunned from polite society, Ivanka Trump and Jared Kushner face new cold post-insurrection reality",
-      "excerpt": "When Ivanka Trump and Jared Kushner shared their decision to pick up and move their family to Washington from New York four years ago, multiple sources who know the couple said the idea was the White House years would allow easy entree to their ambitious next steps: Kushner would become a powerful player",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6eSuGr9bhx0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6eSuGr9bhx0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210115072838-restricted-file-02-jared-kushner-ivanka-trump-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/15/politics/ivanka-trump-jared-kushner-next-steps/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/ivanka-trump-jared-kushner-next-steps/index.html",
-      "publishedDateTime": "2021-01-15T04:48:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus.md",
-      "title": "Biden announces former FDA head David Kessler as chief science officer for vaccine drive to stop spread of coronavirus",
-      "excerpt": "Biden announces former FDA head David Kessler as chief science officer for vaccine drive to stop spread of coronavirus",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-15T04:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-franklin-graham-asks-if-pelosi-promised-10-republicans-pieces-of-silver-to-betray-trump.md",
-      "title": "Franklin Graham asks if Pelosi promised 10 Republicans 'pieces of silver' to betray Trump",
-      "excerpt": "Protestant evangelist and missionary Franklin Graham expressed outrage Thursday with the 10 House Republicans who joined Democrats this week in voting to impeach President Trump for a second time – and claimed House Speaker Nancy Pelosi may have swayed them.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cILc-h7NjH8/franklin-graham-asks-if-pelosi-promised-10-republicans-pieces-of-silver-to-betray-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cILc-h7NjH8/franklin-graham-asks-if-pelosi-promised-10-republicans-pieces-of-silver-to-betray-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Franklin-Graham-headshot-Samaritans-Purse.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/franklin-graham-asks-if-pelosi-promised-10-republicans-pieces-of-silver-to-betray-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/franklin-graham-asks-if-pelosi-promised-10-republicans-pieces-of-silver-to-betray-trump.amp",
-      "publishedDateTime": "2021-01-15T02:24:16-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
