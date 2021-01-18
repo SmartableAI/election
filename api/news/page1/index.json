@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-18-cowboys-for-trump-founder-who-vowed-to-return-with-guns-to-capitol-for-inauguration-arrested-by-fbi.md",
+      "title": "\"Cowboys for Trump\" founder, who vowed to return with guns to Capitol for inauguration, arrested by FBI",
+      "excerpt": "Couy Griffin, a New Mexico county official, vowed to return with firearms to the Capitol for the inauguration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/cowboys-for-trump-founder-who-vowed-to-return-with-guns-to-capitol-for-inauguration-arrested-by-fbi/",
+      "originalUrl": "https://www.cbsnews.com/news/cowboys-for-trump-founder-who-vowed-to-return-with-guns-to-capitol-for-inauguration-arrested-by-fbi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/18/d3a8a92e-60ee-4b48-af43-76616fd8245f/thumbnail/1200x630/788676b2e441068fc99b986f457ef8d2/couy-griffin.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/cowboys-for-trump-founder-who-vowed-to-return-with-guns-to-capitol-for-inauguration-arrested-by-fbi/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cowboys-for-trump-founder-who-vowed-to-return-with-guns-to-capitol-for-inauguration-arrested-by-fbi/",
+      "publishedDateTime": "2021-01-18T02:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-pence-proud-trump-wh-avoided-engaging-in-new-war.md",
+      "title": "Pence ‘proud’ Trump WH avoided engaging in new war",
+      "excerpt": "Vice President Mike Pence took to Twitter late Sunday night to say he is “proud” that the Trump administration “is the first in decades” not to get the U.S. entangled in a new war.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dAnjfec-Knk/pence-proud-trump-wh-avoided-engaging-in-new-war",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dAnjfec-Knk/pence-proud-trump-wh-avoided-engaging-in-new-war",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 440,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-proud-trump-wh-avoided-engaging-in-new-war.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-proud-trump-wh-avoided-engaging-in-new-war.amp",
+      "publishedDateTime": "2021-01-18T01:17:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-trump-in-wave-of-tuesday-pardons-so-far-not-planning-to-pardon-himself-source.md",
       "title": "Trump, in wave of Tuesday pardons, so far not planning to pardon himself: source",
       "excerpt": "U.S. President Donald Trump at this point is opting not to issue a pardon for himself as he prepares an expansive list of more than 100 pardons and commutations for release on Tuesday, a source familiar with the effort said.",
@@ -544,25 +653,25 @@
       ]
     },
     {
-      "path": "_news/2021-01-17-sen-cory-booker-expects-trump-impeachment-trial-as-quickly-as-possible.md",
-      "title": "Sen. Cory Booker expects Trump impeachment trial 'as quickly as possible'",
-      "excerpt": "Sen. Cory Booker, D-N.J., said that after the House voted to impeach President Trump last week, he expects the Senate to hold a trial relatively soon.",
+      "path": "_news/2021-01-17-washington-republican-who-backed-trump-impeachment-faces-backlash-back-home.md",
+      "title": "Washington Republican who backed Trump impeachment faces backlash back home",
+      "excerpt": "Rep. Jaime Herrera Beutler, R-Wash., one of 10 House Republicans who voted to impeach President Trump on charges of \"incitement of an insurrection,\" is facing criticism from her district's conservative base.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXTLAGXiBHs/sen-booker-trump-impeachment-trial-quickly-as-possible",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXTLAGXiBHs/sen-booker-trump-impeachment-trial-quickly-as-possible",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4JOYu1Z7QN0/washington-republican-trump-jamie-herrera-beutler",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4JOYu1Z7QN0/washington-republican-trump-jamie-herrera-beutler",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 194,
+      "heat": 193,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31a1fe1e-5515-468e-9607-4738d2533c9f/c9629705-1284-496f-9cfa-44d30c4119aa/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21013695492553.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -570,9 +679,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sen-booker-trump-impeachment-trial-quickly-as-possible.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-booker-trump-impeachment-trial-quickly-as-possible.amp",
-      "publishedDateTime": "2021-01-17T11:14:26-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/washington-republican-trump-jamie-herrera-beutler.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/washington-republican-trump-jamie-herrera-beutler.amp",
+      "publishedDateTime": "2021-01-17T12:22:29-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -596,6 +705,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-alec-baldwin-says-he-dreamed-donald-trump-was-tried-for-sedition-with-a-makeshift-noose-outside-courthouse.md",
+      "title": "Alec Baldwin says he dreamed Donald Trump was tried for 'sedition' with a makeshift noose outside courthouse",
+      "excerpt": "Alec Baldwin took a somewhat alarming jab at Donald Trump over the weekend. The actor, who is one of the president’s most outspoken critics in Hollywood, took to Twitter to reveal that he had a dream that Trump was on trial for sedition and implied that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/alec-baldwin-donald-trump-sedition-noose-outside",
+      "originalUrl": "https://www.foxnews.com/entertainment/alec-baldwin-donald-trump-sedition-noose-outside",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Alec-Baldwin-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/alec-baldwin-donald-trump-sedition-noose-outside.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/alec-baldwin-donald-trump-sedition-noose-outside.amp",
+      "publishedDateTime": "2021-01-17T11:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -649,6 +815,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-17-trump-must-be-barred-from-post-presidency-intelligence-briefings-schiff.md",
+      "title": "Trump must be barred from post-presidency intelligence briefings: Schiff",
+      "excerpt": "House Intelligence Committee Chairman Rep. Adam Schiff said Sunday that President Trump should be barred from receiving intelligence briefings after he leaves office, an opportunity traditionally extended to former presidents.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EThhRLQz3Nw/adam-schiff-trump-intelligence-briefings-sue-gordon",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EThhRLQz3Nw/adam-schiff-trump-intelligence-briefings-sue-gordon",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007270172186.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon.amp",
+      "publishedDateTime": "2021-01-17T10:36:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {
@@ -929,7 +1151,7 @@
       "originalUrl": "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1428,
+      "heat": 1448,
       "tags": null,
       "images": [
         {
@@ -1131,214 +1353,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-acting-secretary-of-defense-orders-nsa-chief-to-install-trump-loyalist-as-agencys-general-counsel.md",
-      "title": "Acting secretary of defense orders NSA chief to install Trump loyalist as agency's general counsel",
-      "excerpt": "The acting secretary of defense is trying to install a Trump loyalist as the top lawyer at the National Security Agency, according to three sources familiar.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cnGOPz3S3Rc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cnGOPz3S3Rc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210116213644-nsa-file-2018-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/16/politics/nsa-counsel-michael-ellis-christopher-miller/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/nsa-counsel-michael-ellis-christopher-miller/index.html",
-      "publishedDateTime": "2021-01-16T20:37:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-he-has-an-obligation-to-them-attorney-for-qanon-shaman-asks-trump-to-pardon-rioters.md",
-      "title": "‘He has an obligation to them’: Attorney for ‘QAnon shaman’ asks Trump to pardon rioters",
-      "excerpt": "The lawyer for the “QAnon shaman” who was part of the deadly siege of the Capitol last week publicly petitioned President Donald Trump on Thursday to pardon his client. In an interview on CNN, attorney Albert Watkins said his client, Jacob Chansley ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
-      "originalUrl": "https://www.politico.com/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/07/b6/307e93354e7abd5c6e56ee1bf883/jacob-chansley-773-ap.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
-      "publishedDateTime": "2021-01-16T19:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-politics-updates-horrified-loews-wont-host-hawley-fundraiser-biden-outlines-orders-planned-for-first-10-days.md",
-      "title": "Politics updates: 'Horrified' Loews won't host Hawley fundraiser; Biden outlines orders planned for first 10 days",
-      "excerpt": "\"We are horrified and opposed to the events at the Capitol and all who supported and incited the actions,\" the hotel chain said in a statement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/16/politics-updates-joe-biden-inauguration-donald-trump-impeachment/4188126001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/16/politics-updates-joe-biden-inauguration-donald-trump-impeachment/4188126001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/08/USAT/676a28d8-30ca-4a07-b18d-b2610251ec17-29701ba5-8e59-4c85-a41c-fda5046ede39-AP21006849368171.jpg?auto=webp&crop=2499,1406,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4188126001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4188126001",
-      "publishedDateTime": "2021-01-16T18:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-dave-bautista-offers-20000-to-find-person-who-wrote-trump-on-manatee.md",
-      "title": "Dave Bautista offers $20,000 to find person who wrote ‘TRUMP’ on manatee",
-      "excerpt": "Dave Bautista offered $20,000 to whoever finds the person who scrawled “TRUMP” on the back of a manatee in Florida. “If there’s not already a reward for the arrest and conviction of the low life scummy MAGATs that did this I’ll throw in $20,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/snyde/ny-dave-bautista-trump-manatee-20210117-ie3hnncygvbj3beylq5nh7cubi-story.html",
-      "originalUrl": "https://www.nydailynews.com/snyde/ny-dave-bautista-trump-manatee-20210117-ie3hnncygvbj3beylq5nh7cubi-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nydailynews.com/resizer/JoIKjftXK2mIo19koqWa6v8EnGw=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/HJN2PKZIONCBFG2OHIFWDX7I64.JPG",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nydailynews.com/snyde/ny-dave-bautista-trump-manatee-20210117-ie3hnncygvbj3beylq5nh7cubi-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/snyde/ny-dave-bautista-trump-manatee-20210117-ie3hnncygvbj3beylq5nh7cubi-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-16T18:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

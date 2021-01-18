@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/local/social-issues/census-battle-end
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html?outputType=amp"
 type: article
 quality: 112
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547682772&r=LYNXMPEH0C1LP&w=800"
         width: 800
         height: 535
+        isCached: true
+  - title: "The Trump administration is revoking the licenses of companies that supply to Huawei, as a final blow to the Chinese tech giant"
+    excerpt: "Huawei has long been a target of the Trump administration, which believes it spies for the Chinese government. Huawei has repeatedly denied the claim."
+    publishedDateTime: 2021-01-18T10:44:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-halts-huawei-supply-shipments-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-halts-huawei-supply-shipments-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-halts-huawei-supply-shipments-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/60055311660f6c0018349a61?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Exclusive: Trump admin slams China's Huawei, halting shipments from Intel, others - sources"
     excerpt: "The Trump administration notified Huawei suppliers, including chipmaker Intel, that it is revoking certain licenses to sell to the Chinese company and intends to reject dozens of other applications to supply the telecommunications firm,"

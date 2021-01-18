@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
-excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and ..."
-publishedDateTime: 2021-01-16T11:53:00Z
-originalUrl: "https://www.dailypress.com/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html"
-webUrl: "https://www.dailypress.com/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html"
-ampWebUrl: "https://www.dailypress.com/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
+excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
+publishedDateTime: 2021-01-16T03:09:00Z
+originalUrl: "https://www.chicagotribune.com/election-2020/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html"
+webUrl: "https://www.chicagotribune.com/election-2020/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html"
+ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
 type: article
-quality: 83
+quality: 133
 heat: -1
 published: false
 
 provider:
-  name: Daily Press
-  domain: dailypress.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -22,7 +26,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://www.dailypress.com/resizer/Z3qJoKYgp7I25-Bfj9OgWDYkWb8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7RFR7OAVVHIHHAVMBLL7YTF44.jpg"
+  - url: "https://www.chicagotribune.com/resizer/Z3qJoKYgp7I25-Bfj9OgWDYkWb8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7RFR7OAVVHIHHAVMBLL7YTF44.jpg"
     width: 1200
     height: 898
     isCached: true
@@ -57,6 +61,22 @@ related:
     quality: 150
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Harris prepares for central role in Biden's White House"
+    excerpt: "Kamala Harris will make history on Wednesday when she becomes the nation’s first female vice president — and the first Black woman and the first woman of South Asian descent to hold that office"
+    publishedDateTime: 2021-01-18T05:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/harris-prepares-central-role-bidens-white-house-75317388"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/harris-prepares-central-role-bidens-white-house-75317388"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harris-prepares-central-role-bidens-white-house-75317388"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 150
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_84fe20aa8ae04b658e8cfad61547e79b_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -1267,6 +1287,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Kamala Harris to resign from Senate on Monday"
+    excerpt: "Vice President-elect Kamala Harris will resign from the Senate on Monday, according to a Harris aide. The California Democrat’s resignation will come two days before she becomes the nation’s first female vice president, and the first person of color to ..."
+    publishedDateTime: 2021-01-18T10:51:00Z
+    webUrl: "https://www.rollcall.com/2021/01/17/kamala-harris-to-resign-from-senate-on-monday/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 55
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2021/01/harris_BC_021_060220.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Alert: AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance."
     publishedDateTime: 2021-01-15T18:27:00Z
@@ -1349,6 +1383,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "ikUAOxi3zB1C8G23KXrLt+gGKLv1HHSjevhDG79jsMJhK+iwh7dCBhg30NMTSQ+S9fJq2mhgv3C9gYafLtabJIcIMm6HDqNpLCCM9/DnOv9LZd8s79/uABf9kfuWIMmNcWya6fBrkr72hnxMaymrDn4L2RBAuqhjJrLN3IOMJg1JFZZl13IjcEDZSd4SYrrTEQkOPguosPXkiY4WyiRLX9/PTJoJYLq2mH+097kHuOePnQCQBgQg/yz66sWRWq2uPJek26omyfe//GmG8fTlm9+NvuQWVB3aSgv6kDZ730KtwyItToW7mz7OMGcwIAIotFQ0XGSaBcOUsHdZzGxEqAVIz+EquHFqVg/ELsJWBlRhvWGrSRHNlyMM95qKGd1Vs6hOKMernIn4CIukzuefdjxeW9WF0py+huNAL4P3rMDA18fFzkKeyJRt/uYkvhP7/QRc8UTiqYbiOb51fIzy59TNqdOV8v3DmIfT/P5gfWE1+arOJg5mF68i2tW+I8WF5CtcYpOglaTEUpag2PulwQ==;ioHatG4EkXNuvCvdGGfp/g=="
+secured: "+pjSXgd6Rg3RSCWozA43ZfxwW0VcBS1/ZAgKKzG/etwoT43k0kTDULSJhSswXa2gdekjUJgX7A6OclyaM4t9GoghLeoegng7boxmfKstrnR/M+7eafvn0dNKR0AWrbZldKQ1FTFaH9nXTxK46fURvr4C/0Q1lzObRLbQI3Je288xG44YH2nZr3CULJOkUnfhxXgAHTqFsRE5iKqowlwNDlbH3H3jcxuHJWia4QcTY49overyviVPux72berd8Hcbip0yOHAkMWhLQcLxqnHcimNsaTjVHJ7H2K/wcMuOg/cHN85rQUQecd+WFFGAV0pBrStvOXxsm52Ma6W/zmvI09oR1LUnqUk/8oEk/mLt8bU=;KIzTUbwqVJvthrVXaP/lVA=="
 ---
 

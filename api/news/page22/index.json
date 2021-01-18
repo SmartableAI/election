@@ -2,487 +2,6 @@
   "page": 22,
   "value": [
     {
-      "path": "_news/2020-12-17-pence-in-georgia-vows-he-and-trump-will-keep-fighting.md",
-      "title": "Pence in Georgia vows he and Trump will 'keep fighting'",
-      "excerpt": "For Vice President Mike Pence, it’s a delicate balance on the Georgia Senate runoffs campaign trail.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q1ps6svr5JE/pence-georgia-vows-trump-will-keep-fighting",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q1ps6svr5JE/pence-georgia-vows-trump-will-keep-fighting",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 480,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-georgia-vows-trump-will-keep-fighting.amp",
-      "publishedDateTime": "2020-12-17T11:38:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-vp-mike-pence-plans-trip-to-middle-east-europe-in-january.md",
-      "title": "VP Mike Pence plans trip to Middle East, Europe in January",
-      "excerpt": "Vice President Mike Pence is planning a trip to the Middle East and Europe immediately after he is set to oversee Congress during the confirmation of the Electoral College vote, according to reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2020/12/17/VP-Mike-Pence-plans-trip-to-Middle-East-Europe-in-January/9241608230281/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2020/12/17/VP-Mike-Pence-plans-trip-to-Middle-East-Europe-in-January/9241608230281/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/9241608230281/2020/1/3a4f39f83b3711538712761a73b59eaa/v1.5/VP-Mike-Pence-plans-trip-to-Middle-East-Europe-in-January.jpg",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2020/12/17/VP-Mike-Pence-plans-trip-to-Middle-East-Europe-in-January/9241608230281/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/12/17/VP-Mike-Pence-plans-trip-to-Middle-East-Europe-in-January/9241608230281/",
-      "publishedDateTime": "2020-12-17T11:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-biden-to-tap-north-carolina-environmental-regulator-regan-to-head-epa.md",
-      "title": "Biden to tap North Carolina environmental regulator Regan to head EPA",
-      "excerpt": "The pick is a major nod to the party's progressive wing that pushed Biden's team to emphasize minority and poor communities facing threats from pollution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/17/epa-administrator-michael-regan-447747",
-      "originalUrl": "https://www.politico.com/news/2020/12/17/epa-administrator-michael-regan-447747",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/09/f4/c81d7b12424ba657532f53b09681/regan-773.jpg",
-          "width": 1160,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/17/epa-administrator-michael-regan-447747",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/epa-administrator-michael-regan-447747",
-      "publishedDateTime": "2020-12-17T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-seth-meyers-trumps-going-to-be-our-first-nomad-ex-president.md",
-      "title": "Seth Meyers: Trump's 'going to be our first nomad ex-president'",
-      "excerpt": "Late-night hosts discuss a request by residents of Palm Beach, Florida, to keep Trump from residing in Mar-a-Lago and belated GOP admissions of Biden’s victory",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/culture/2020/dec/17/seth-meyers-trump-nomad-ex-president-late-night-recap",
-      "originalUrl": "https://www.theguardian.com/culture/2020/dec/17/seth-meyers-trump-nomad-ex-president-late-night-recap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7416014168184d41ce4a6cdd14c8aeeb6edfe637/72_144_2521_1513/master/2521.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d303f29e709c094d6a9170f53385e5da",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/culture/2020/dec/17/seth-meyers-trump-nomad-ex-president-late-night-recap",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2020/dec/17/seth-meyers-trump-nomad-ex-president-late-night-recap",
-      "publishedDateTime": "2020-12-17T09:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-tammy-bruce-biden-staffers-crude-insult-shows-dems-have-no-intention-of-unifying-country.md",
-      "title": "Tammy Bruce: Biden staffer's crude insult shows Dems have 'no intention' of unifying country",
-      "excerpt": "The Democrats' attitude toward Republicans indicates that they do not want to collaborate on policy issues and unite the country, Fox Nation host Tammy Bruce said Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mz_nyKK-s0g/tammy-bruce-dems-no-intention-unifying-country",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mz_nyKK-s0g/tammy-bruce-dems-no-intention-unifying-country",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tammy-bruce-dems-no-intention-unifying-country.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tammy-bruce-dems-no-intention-unifying-country.amp",
-      "publishedDateTime": "2020-12-17T08:48:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-former-trump-adviser-points-finger-at-russia-for-brazen-solarwinds-hack-calls-for-response.md",
-      "title": "Former Trump adviser points finger at Russia for 'brazen' SolarWinds hack, calls for response",
-      "excerpt": "Thomas Bossert, former Homeland Security adviser to President Trump, in a Wednesday op-ed said there is evidence that Russia is to blame for what he called a \"brazen\" cyberattack on software company SolarWinds through cybersecurity company FireEye.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lvLJ8_P1lhE/thomas-bossert-russia-solarwinds-hack",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lvLJ8_P1lhE/thomas-bossert-russia-solarwinds-hack",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1bf403b4-1c48-466e-a25d-2682f1d7ab92/c089fbf7-6a94-4419-b442-8b6f92c8c3f7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/thomas-bossert-russia-solarwinds-hack.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/thomas-bossert-russia-solarwinds-hack.amp",
-      "publishedDateTime": "2020-12-17T08:41:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-biden-appears-in-campaign-ad-for-georgias-jon-ossoff-and-raphael-warnock.md",
-      "title": "Biden appears in campaign ad for Georgia's Jon Ossoff and Raphael Warnock",
-      "excerpt": "President-elect Joe Biden urged Georgians to vote for Jon Ossoff and Raphael Warnock in a campaign ad released Thursday, saying he needed the two Democrats in the Senate to pass legislation providing economic relief to Americans amid the coronavirus pandemic.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/chB6fc3fXJ4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/chB6fc3fXJ4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201215190047-biden-ossoff-warnock-bottoms-abrams-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/17/politics/biden-campaign-ad-ossoff-warnock/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/biden-campaign-ad-ossoff-warnock/index.html",
-      "publishedDateTime": "2020-12-17T07:37:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-what-comes-next-for-a-donald-trump-impersonator-j-l-cauvin-has-thoughts.md",
-      "title": "What comes next for a Donald Trump impersonator? J-L Cauvin has thoughts",
-      "excerpt": "J-L Cauvin, a full-time lawyer who became a social media sensation as an impersonator, has plans for comedy after the Donald leaves the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/entertainment-arts/story/2020-12-17/donald-trump-impersonator-j-l-cauvin",
-      "originalUrl": "https://www.latimes.com/entertainment-arts/story/2020-12-17/donald-trump-impersonator-j-l-cauvin",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/f772d93/2147483647/strip/true/crop/3000x1959+0+20/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F60%2F2c%2Fc936ed7648d281fe04cd10c48e40%2Fla-et-best-of-books-2020-2-illo-458.JPG",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/entertainment-arts/story/2020-12-17/donald-trump-impersonator-j-l-cauvin?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/story/2020-12-17/donald-trump-impersonator-j-l-cauvin?_amp=true",
-      "publishedDateTime": "2020-12-17T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-exclusive-new-agreement-needed-to-revive-iran-nuclear-deal-under-biden-iaea-chief-says.md",
-      "title": "Exclusive: New agreement needed to revive Iran nuclear deal under Biden, IAEA chief says",
-      "excerpt": "Reviving Iran's nuclear deal under U.S. President-elect Joe Biden would require striking a new agreement setting out how Iran's breaches should be reversed, U.N. atomic watchdog chief Rafael Grossi said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/iran-nuclear-iaea-exclusive-int-idUSKBN28R1VH",
-      "originalUrl": "https://www.reuters.com/article/iran-nuclear-iaea-exclusive-int-idUSKBN28R1VH",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201217&t=2&i=1544906777&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBG12V",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28R1VH",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28R1VH",
-      "publishedDateTime": "2020-12-17T05:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-12-17-election-2020-today-pence-to-georgia-bidens-climate-team.md",
       "title": "Election 2020 Today: Pence to Georgia, Biden’s climate team",
       "excerpt": "Here’s what’s happening Thursday in Election 2020 and President-elect Joe Biden’s transition. GOP FOCUS: Vice President Mike Pence touches down in Georgia again for a pair of rallies in Columbus and Macon.",
@@ -1345,6 +864,474 @@
       "topics": [
         "Election",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-kamala-harris-i-dont-understand-the-hesitation-on-covid-19-relief.md",
+      "title": "Kamala Harris: 'I don't understand the hesitation' on COVID-19 relief",
+      "excerpt": "Vice President-elect Sen. Kamala D. Harris said in an interview that aired Wednesday that she doesn’t understand what’s taking so long to pass another round of COVID-19 relief.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2020/dec/16/kamala-harris-i-dont-understand-hesitation-covid-1/",
+      "originalUrl": "https://www.washingtontimes.com/news/2020/dec/16/kamala-harris-i-dont-understand-hesitation-covid-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2020/12/09/Biden_51030.jpg-5e86b_c0-394-4720-3147_s1200x700.jpg?0913c4d267a13cec05b8f8c0c5e71cc93ccb013d",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://amp.washingtontimes.com/news/2020/dec/16/kamala-harris-i-dont-understand-hesitation-covid-1/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/16/kamala-harris-i-dont-understand-hesitation-covid-1/",
+      "publishedDateTime": "2020-12-16T07:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-politics-live-updates-biden-to-introduce-buttigieg-as-incoming-transportation-chief-wednesday.md",
+      "title": "Politics live updates: Biden to introduce Buttigieg as incoming Transportation chief Wednesday",
+      "excerpt": "Pete Buttigieg is scheduled to appear with Biden Wednesday for a formal announcement. On Twitter, he called the nomination a \"tremendous opportunity.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/16/politics-updates-biden-introduce-buttigieg-incoming-dot-chief/3916579001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/16/politics-updates-biden-introduce-buttigieg-incoming-dot-chief/3916579001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/16/USAT/36266745-f2f2-4cd8-ae8a-afc00b0c588c-GTY_1230145961.jpg?auto=webp&crop=5288,2975,x0,y352&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3916579001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3916579001",
+      "publishedDateTime": "2020-12-16T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-biden-cabinet-pick-jennifer-granholm-promoted-pee-tape-russian-collusion-claims.md",
+      "title": "Biden Cabinet pick Jennifer Granholm promoted 'pee tape,' Russian collusion claims",
+      "excerpt": "Jennifer Granholm, President-elect Joe Biden's pick to be energy secretary, heavily promoted claims that President Trump's campaign colluded with Russia to win the 2016 election, even mentioning an unsubstantiated \"pee tape.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5x0QrQeLDL4/jennifer-granholm-russia-collusion-narrative-biden-energy-secretary",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5x0QrQeLDL4/jennifer-granholm-russia-collusion-narrative-biden-energy-secretary",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/gettyimages-jennifer-Granholm.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jennifer-granholm-russia-collusion-narrative-biden-energy-secretary.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jennifer-granholm-russia-collusion-narrative-biden-energy-secretary.amp",
+      "publishedDateTime": "2020-12-16T06:19:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-analysis-federal-reserve-boneheads-emerge-from-trump-era-unscathed.md",
+      "title": "Analysis-Federal Reserve 'boneheads' emerge from Trump era unscathed",
+      "excerpt": "\"Boneheads.\" \"Pathetic.\" An \"enemy\" of the United States. President Donald Trump was often vicious in his critique of the U.S. Federal Reserve, bashing the central bank governors' monetary policy decisions with tweets and verbal barbs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-fed-trump-idINKBN28Q1CZ",
+      "originalUrl": "https://www.reuters.com/article/usa-fed-trump-idINKBN28Q1CZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544742238&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF0PG",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28Q1CZ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28Q1CZ",
+      "publishedDateTime": "2020-12-16T03:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-trump-lashes-out-at-mcconnell-for-recognizing-bidens-victory-people-are-angry.md",
+      "title": "Trump lashes out at McConnell for recognizing Biden’s victory: ‘People are angry!’",
+      "excerpt": "President Trump pleaded with Senate Majority Leader Mitch McConnell to continue supporting his efforts to undermine the election after McConnell acknowledged President-elect Joe Biden's win in the electoral college.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2020/12/16/trump-mcconnell-election-biden-president/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2020/12/16/trump-mcconnell-election-biden-president/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 354,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MGEFVYGLBII6VGNQQQTOE3JAHM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2020/12/16/trump-mcconnell-election-biden-president/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/12/16/trump-mcconnell-election-biden-president/?outputType=amp",
+      "publishedDateTime": "2020-12-16T02:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-irans-rouhani-says-he-is-happy-that-lawless-trump-is-leaving-office.md",
+      "title": "Iran's Rouhani says he is happy that 'lawless' Trump is leaving office",
+      "excerpt": "Iranian President Hassan Rouhani said on Wednesday he was happy that Donald Trump was leaving office, calling him \"the most lawless U.S. president\" and a \"terrorist\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/iran-usa-rouhani-int-idUSKBN28Q0SS",
+      "originalUrl": "https://www.reuters.com/article/iran-usa-rouhani-int-idUSKBN28Q0SS",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201216&t=2&i=1544720502&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBF0EW",
+          "width": 868,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28Q0T2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28Q0T2",
+      "publishedDateTime": "2020-12-16T00:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-coronavirus-live-news-london-enters-tier-3-restrictions-trump-will-absolutely-encourage-vaccine-use.md",
+      "title": "Coronavirus live news: London enters tier 3 restrictions; Trump will 'absolutely' encourage vaccine use",
+      "excerpt": "One in four people globally may not get vaccines until 2022; EU likely to approve vaccine within days; Canada signs deal to accelerate Moderna vaccine deliveries",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary?page=with:block-5fd9936a8f08758977b3f0ed",
+      "originalUrl": "https://www.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary?page=with:block-5fd9936a8f08758977b3f0ed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a9e40093460b49c3609271c8c600e4790fd83685/0_0_4200_2520/master/4200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=feb9d1fec72b9a323db0e7ecf911894d",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary",
+      "publishedDateTime": "2020-12-15T22:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-fact-check-laptop-repairman-at-center-of-hunter-biden-saga-is-alive.md",
+      "title": "Fact check: Laptop repairman at center of Hunter Biden saga is alive",
+      "excerpt": "Some users on Facebook have falsely claimed John Paul Mac Isaac — the laptop repairman at the center of the Hunter Biden laptop saga — was found dead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-laptop-repairman-center-hunter-biden-saga-alive/3905393001/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-laptop-repairman-center-hunter-biden-saga-alive/3905393001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 385,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/10/USAT/dd7975a8-d63a-4e8b-b306-739763b38569-VPC_HUNTER_BIDEN_TAXES_DESK.00_00_32_05.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3905393001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3905393001",
+      "publishedDateTime": "2020-12-15T17:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-pompeo-applauds-barrs-loyalty-to-trump-following-ags-resignation.md",
+      "title": "Pompeo applauds Barr's loyalty to Trump following AG's resignation",
+      "excerpt": "Secretary of State Mike Pompeo praised Attorney General William Barr and lauded his loyalty to President Trump just a day after Barr resigned from his post. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hj3tsXQjoVU/mike-pompeo-william-barr-resignation-trump-loyalty",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hj3tsXQjoVU/mike-pompeo-william-barr-resignation-trump-loyalty",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a861ef0-3d82-42aa-9033-ade01358a10c/f1e888a1-a635-407b-94bb-f9ebfb0558ba/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mike-pompeo-william-barr-resignation-trump-loyalty.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-william-barr-resignation-trump-loyalty.amp",
+      "publishedDateTime": "2020-12-15T16:34:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

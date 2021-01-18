@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden adviser defends liberal agenda items in $1.9T coronavirus relief plan, dodges on ending filibuster"
-    excerpt: "President-elect Joe Biden’s proposed coronavirus relief package would cost taxpayers $1.9 trillion, and his economic adviser defended the inclusion of several Democratic agenda items."
-    publishedDateTime: 2021-01-17T16:55:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wirOHM4_UYk/biden-economic-adviser-coronavirus-relief-plan"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-economic-adviser-coronavirus-relief-plan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-economic-adviser-coronavirus-relief-plan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42062da5-16e0-4037-a730-e3584328ccb1/18454cad-9594-4df4-929b-9de43f9366d1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden pick for Dept. of Justice's top civil rights post has called for partially defunding police"
     excerpt: "President-elect Joe Biden is expected to pick Kristen Clarke, a civil rights lawyer, as Assistant Attorney General for the Civil Rights Division of the Department of Justice, which is expected to be a prioritized role in the Biden administration."
     publishedDateTime: 2021-01-07T12:17:00Z
@@ -80,6 +64,6 @@ related:
         height: 720
         isCached: true
 
-secured: "1t/aXS3ITgEgnsEVw2ribuvPTohEKO9bC7gnXU+bcixYRHmwwy5p2DWWg6RBLjcF26NQh3T8zn0ZrsHUjI557QqZGhu0er/Iqdl544hEAIcA8eR7YVMKM/zCF0J6q+PJ7047evJa7a0KriilZFBcpXRiFQJjKHGUu/5LayglFkPE09YUYECvyBZMSPc9GvN/MUtYgs/gUccDSzDeBLKLY8PiFwp0QQInJT3ly9nJgEJFpeRI6zm1ZbsRUAlAT1ye3TL+NIlGWh77eomOVoKJEBe+cdO6kdisORSEw73KVdekDmIkySAOCO6rSlx69UqIuqmeIrDAI3Gy1Acc9nvFAEJSbwiw5odCT77x4QTakM0=;ZxOdDS7lJb9WhuNPUZLxFQ=="
+secured: "ti00ZzgB1vypdf3SUmyBEgCQRS4DjLvTpLYza3nxuYsoUi3RTcm79fwimTml2xxfQEugdGD+Zjfur1d5X+3DxprX25lwaA+mkKVXXlqXsIXKGHKhMp+rQPJFnfxSA5PJL2Uk5Jg/zGgxT3og0Awbza162iilEWumYWe6wimHwXdwKnmcmQE0EGlmZ4VUUOUKNXlCAu2YRShOybVgHut0xi+2ZeA0j5sHe+8KZPdqs5ZpIpOcy5KO8V93h9SrSPESky5S8xMi2uDrpGIMIrtwG2q4vj++l7aGJBPrE4BGTYrV/cAC8MpJ1SHxysPVKnMQavRUwE6BpW+pzfMA51MkiebTNuV6w4KFsSsNXtHh9k0=;CDodTvZ946l+jKGgXUBWJQ=="
 ---
 

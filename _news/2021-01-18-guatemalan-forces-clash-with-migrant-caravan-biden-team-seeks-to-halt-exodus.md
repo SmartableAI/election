@@ -2,9 +2,9 @@
 category: news
 title: "Guatemalan forces clash with migrant caravan, Biden team seeks to halt exodus"
 excerpt: "Guatemalan security forces on Sunday used sticks and tear gas to beat back a large migrant caravan bound for the United States, just days before the advent of a new U.S. administration, which urged travelers to abandon the journey."
-publishedDateTime: 2021-01-18T02:18:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-immigration-caravan/guatemalan-forces-clash-with-major-u-s-bound-migrant-caravan-idUSKBN29M0FN"
-webUrl: "https://www.reuters.com/article/us-usa-immigration-caravan/guatemalan-forces-clash-with-major-u-s-bound-migrant-caravan-idUSKBN29M0FN"
+publishedDateTime: 2021-01-18T07:40:00Z
+originalUrl: "https://www.reuters.com/article/usa-immigration-caravan/update-4-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7"
+webUrl: "https://www.reuters.com/article/usa-immigration-caravan/update-4-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7"
 type: article
 quality: 102
 heat: -1
@@ -264,6 +264,6 @@ related:
         height: 560
         isCached: true
 
-secured: "quxNey5iH32UbVHIioZYeOOY6AA94TVV0zDAxOkffT2VhuD2nlouZsG7I/8tLWLNut49Z3zLD+NeM6oJoX/rFs8gsCoYfhxpn39vNyZX8/fdEOgSN2DLF6FWkhsQFn/nbSk0DnGTG1U7BUcpLOKB6CjeOqp8NmhbOwGtkkF5M30Zh5DR83Rjm7V4iWhAKZv6uX7OEwcMCFqK43hQU113VS/LqYmA1VCQWiQUWLQI7zW6A63paGqpsAFQLMHnm8p4pPgV/vhhMYoO9Ou2WfasXRIrw+rYhud3+QMfheeusgP3ZOWzhmdZ29phDgl0TWn/Oso64qXq2OaMh2ZZqkv1sFFUtoNdBG+X+p12PNkNwhmK67isiYn8vki8Fd2N9WC/SAFLYvsgrf7jdXf7T7uHFc6UOybcAYJBqmw25v6TdbyvTs7AG6TZVOLtrq3taeOhYjzxIN98qesgkRcN7+xv6GQPYjRkctKyvCLfgJ1SX9EKRzuAjvotvtxz88OIKesHhcEIEP+SzHIyih3Dsb4rwg==;DU+EHW304OamNrqqyTtEkQ=="
+secured: "/7Z31TRxRDrId9MYhr51Lb+CrYVlj67wADOUAbN2unxUeL5rJXw57WR22WvVhiYBHZmOuhuCq0A7zLxmUGh1fXUhpOSvG+X7iDNGwURV9XKhbd4DtW5WlKRySUI6gqq6vAeLdurTWjAMyKGd7+SZPnTsV5NI8bgtZrQMY3BCDMuVdH3veu9ZE+0alxRw89Mf0gMalewN19Ws+QT7gY4qb6rj1fLleGqVnLZfMimDkITv47EGZH7AoXrltJ/DaNAGmB/Lfr00zPo1zPprNev1iX2/Dm4LO/Y0CxtJiLrucia+zhqOJPXySpkU+0tGTF5Dcecd4MGcZnCr4cKKlDGmiesdbFcjfFJKObRk3kaNWwE=;UzZYqeA23dPvPrUt0J2B6g=="
 ---
 

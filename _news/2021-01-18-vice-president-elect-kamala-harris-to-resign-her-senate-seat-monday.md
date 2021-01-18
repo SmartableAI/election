@@ -59,6 +59,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Harris prepares for central role in Biden's White House"
+    excerpt: "Kamala Harris will make history on Wednesday when she becomes the nation’s first female vice president — and the first Black woman and the first woman of South Asian descent to hold that office"
+    publishedDateTime: 2021-01-18T05:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/harris-prepares-central-role-bidens-white-house-75317388"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/harris-prepares-central-role-bidens-white-house-75317388"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harris-prepares-central-role-bidens-white-house-75317388"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 150
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_84fe20aa8ae04b658e8cfad61547e79b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "House passes measure calling on Pence to remove Trump"
     excerpt: "The House on Tuesday passed legislation calling on Vice President Pence to tap his Constitutional authority to remove President Trump from office in response to the president’s role in the deadly mob attack on the Capitol last week."
     publishedDateTime: 2021-01-13T12:01:00Z
@@ -122,6 +138,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/ad02f72/2147483647/strip/true/crop/3000x1959+0+20/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff6%2F01%2Fcbd4b15d41a6962baf92c78dbb80%2Fdhs-acting-secretary-immigration-63532.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
+    publishedDateTime: 2021-01-16T03:09:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 133
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Z3qJoKYgp7I25-Bfj9OgWDYkWb8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7RFR7OAVVHIHHAVMBLL7YTF44.jpg"
+        width: 1200
+        height: 898
         isCached: true
   - title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
@@ -813,22 +845,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
-    excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and ..."
-    publishedDateTime: 2021-01-16T11:53:00Z
-    webUrl: "https://www.dailypress.com/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html"
-    ampWebUrl: "https://www.dailypress.com/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 83
-    images:
-      - url: "https://www.dailypress.com/resizer/Z3qJoKYgp7I25-Bfj9OgWDYkWb8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7RFR7OAVVHIHHAVMBLL7YTF44.jpg"
-        width: 1200
-        height: 898
-        isCached: true
   - title: "Kamala Harris dissolving PACs, giving money to charity"
     excerpt: "Vice President-elect Kamala Harris is dissolving her political fundraising committees as she prepares for her inauguration with President-elect Joe Biden on Jan. 20, giving leftover money to California charities."
     publishedDateTime: 2021-01-08T21:53:00Z
@@ -1266,6 +1282,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Kamala Harris to resign from Senate on Monday"
+    excerpt: "Vice President-elect Kamala Harris will resign from the Senate on Monday, according to a Harris aide. The California Democrat’s resignation will come two days before she becomes the nation’s first female vice president, and the first person of color to ..."
+    publishedDateTime: 2021-01-18T10:51:00Z
+    webUrl: "https://www.rollcall.com/2021/01/17/kamala-harris-to-resign-from-senate-on-monday/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 55
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2021/01/harris_BC_021_060220.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Alert: AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance."
     publishedDateTime: 2021-01-15T18:27:00Z
@@ -1348,6 +1378,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "oVnRtE4Y96LHzGnwWs+HExl+6N5wr6M32LvWj2d+DCY9fklBqBEkpwRy5Lr/tiJp+oAkjUj2+6SeXgomc0J6ezMqsr7ipjZmeWJq2ypKrmZ7fNALw5K/arx/ChMOzgtXgB1sU5sHqdDUSJLPbxFq4w6NgjrODKdQLzVgWAXwKQK4xADnp/YiErT5rAu3Qx/IuF7iN4GzXmnt4UeLudDH+fzCMkuABEg1y2WIKjt/JptslORuxRWfzgB19ZSQwDvRNLQ2s1QoSGj0kP44Fd7AarPnIHcEf5yRzEb8k0z9/9FHE/M9Gzg4B7AUyyLpp7WgdjF7Mp64jbICe3gOzw1uyQLxS5qxT3ORM2VAmP7IhAM=;StHORjfLjXwm3OupRdaYNQ=="
+secured: "2AQTSWiqu1uneywrp1Mj2CLbUB0GcX9LPmUQPblvq/v4XJU1AkVJAiI9aX4Y60tVI5vTm5WPvTFhxJS40iuSEYxJIxvFaRsJQmuPxWZ0nKWEatVpGA/1LDCbrt0ZEUWV+eW4xqWlxP6l8dvXhGfjottr2dVKO75XhYRpBd5gZKbzOaGK6ItktTjaOdFh66/ssgvMHaTvClcX/JFOjU1IFrBRJ7TiZzxRRatW24Wrwdi6We+49HfeHtTuaXiPqEzriGkDxiU3U1nfufFSD0Q4T5pMyQODqh28u8KweP0uBAPVzaADNQLKqgKMphqnT9+Lkn5hFkKQtqLoj8Vd8Abn82uBe6ZKsHrnAbJ+T7+2FYKUKkoXW2W+SgjeHI1Fm53dsBmsvIWvrXaMxuX1kcPvQEYRfIaKtcFedlTHPYrLCgKAkVPVDKKgohcawqf/fuEdJ4GvTEe1kVNi/Vg3BlBOSZxXdRpwr0BBGf6YudX/8+J8OwZovO1qumYM72QoVCIIaPhpeGN8cffT6iIN3XcSbw==;JZA+1wECSuNNafNybepFkg=="
 ---
 

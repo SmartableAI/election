@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-michelle-obama-most-admired-m
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-michelle-obama-most-admired-man-and-woman-2020-poll.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78f7d348-dc72-4978-afab-25ae83dbdb67/57c01633-49e0-4044-bf01-7fa9be98311a/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "President Trump is most admired man in 2020, Gallup poll reveals"
+    excerpt: "President Trump and former first lady Michelle Obama have topped the list of the most admired man and woman for 2020, according to a Gallup poll released Tuesday. The annual survey asked"
+    publishedDateTime: 2020-12-29T14:21:00Z
+    webUrl: "https://nypost.com/2020/12/29/trump-tops-list-of-most-admired-men-of-2020-poll/"
+    ampWebUrl: "https://nypost.com/2020/12/29/trump-tops-list-of-most-admired-men-of-2020-poll/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/29/trump-tops-list-of-most-admired-men-of-2020-poll/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-admired-2020.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "cuGE6aLGsaFlwghGV6BXr7izLfLYkigBJ29XtuShCGobhT74OOKCoRtl+icPEdGWSUI+GDQKrktlWoNt6yqkiTx0bz0ootawi65jw6h+STwgakIW+WRgB+zCPWrheOwp53OGZbDNBDhmjvSw3ECHOZ/bMeEMrhCTf9j+9hyVDRzcxaeo/tbUg1IAXAkJUJvYlRmuF0db/TGmOaAFXV6PtaBGOlD/z0AY7JsSOAgzu+80LIQCHSZBj/XBIBcgl4nd2wL0La115XKKHKSr2K3ug3pu5G4af15ZLvhuaxWm8K1fiKHKwnzeA87N2a6REff+tJd1DKkpyoUIGSBSzwWhKhfOTpYEebv85UoGqu+dqXU=;JuX6hV8IMvuw9jWBLnFciQ=="

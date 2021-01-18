@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-18-pence-gets-covid-19-vaccine-to-show-its-safe-and-effective.md",
+      "title": "Pence gets COVID-19 vaccine to show it's 'safe and effective'",
+      "excerpt": "Calling it a “medical miracle,” Vice President Mike Pence on Friday morning publicly took the new coronavirus vaccine. Pence, second lady Karen Pence and Surgeon General Jerome Adams, were all administered the vaccine in front of cameras at the vice president’s office in an event that was broadcast live",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u3ulDBdsRbs/pence-gets-coronavirus-vaccine",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u3ulDBdsRbs/pence-gets-coronavirus-vaccine",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-gets-coronavirus-vaccine.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-gets-coronavirus-vaccine.amp",
+      "publishedDateTime": "2020-12-18T06:45:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-covid-us-vice-president-mike-pence-to-receive-vaccine.md",
       "title": "Covid: US Vice-President Mike Pence to receive vaccine",
       "excerpt": "President Mike Pence is to receive the coronavirus vaccine live on television at later on Friday. The White House said the aim of the move was to \"promote the safety and efficacy of the vaccine and build confidence among the American people\".",
@@ -1498,59 +1555,7 @@
         "Election",
         "Mike Pence"
       ]
-    },
-    {
-      "path": "_news/2020-12-01-pence-says-covid-vaccine-distribution-could-begin-mid-december.md",
-      "title": "Pence Says Covid Vaccine Distribution Could Begin Mid-December",
-      "excerpt": "Vice President Mike Pence told governors on Monday that distribution of a coronavirus vaccine could begin by the third week of December, signaling that U.S. regulators will swiftly approve an emergency authorization for the first shots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-01/pence-says-covid-vaccine-distribution-could-begin-mid-december",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-01/pence-says-covid-vaccine-distribution-could-begin-mid-december",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iN4Wcn.T9FtA/v0/360x-1.jpg",
-          "width": 360,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-01/pence-says-covid-vaccine-distribution-could-begin-mid-december",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-01/pence-says-covid-vaccine-distribution-could-begin-mid-december",
-      "publishedDateTime": "2020-11-30T17:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 4
 }

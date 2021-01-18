@@ -171,8 +171,8 @@ related:
         isCached: true
   - title: "Guatemalan forces clash with migrant caravan, Biden team seeks to halt exodus"
     excerpt: "Guatemalan security forces on Sunday used sticks and tear gas to beat back a large migrant caravan bound for the United States, just days before the advent of a new U.S. administration, which urged travelers to abandon the journey."
-    publishedDateTime: 2021-01-18T02:18:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-immigration-caravan/guatemalan-forces-clash-with-major-u-s-bound-migrant-caravan-idUSKBN29M0FN"
+    publishedDateTime: 2021-01-18T07:40:00Z
+    webUrl: "https://www.reuters.com/article/usa-immigration-caravan/update-4-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7"
     type: article
     provider:
       name: Reuters

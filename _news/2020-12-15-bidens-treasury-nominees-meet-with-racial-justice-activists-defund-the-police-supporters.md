@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Arizona congresswoman backs calls for Hunter Biden special counsel"
+    excerpt: "Rep. Debbie Lesko says she has sent a letter to the Attorney General."
+    publishedDateTime: 2020-12-29T02:52:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mPgrJiiKwBw/congresswoman-special-counsel-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/congresswoman-special-counsel-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congresswoman-special-counsel-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f1ca1b6-a9e5-400b-aa09-7baf7124297c/05de37e4-1964-41ef-8cc1-be2d61cf6203/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Computer shop owner sues Twitter over Hunter Biden laptop story"
     excerpt: "A Delaware computer repairman who went public with the sordid contents of Hunter Biden’s hard drive is now suing Twitter for defamation — claiming its content moderation unfairly branded him a “hacker."
     publishedDateTime: 2020-12-29T00:46:00Z

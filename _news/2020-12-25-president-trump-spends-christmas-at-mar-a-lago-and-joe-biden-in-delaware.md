@@ -33,179 +33,213 @@ images:
     isCached: true
 
 related:
-  - title: "From Trump's impeachment trial to Hunter Biden: The biggest political scandals of 2020"
-    excerpt: "As 2020 comes to a close, the news has been dominated by a global pandemic, statewide lockdowns and a presidential election. Amid all that, it’s easy to forget about political events, including scandals and controversies, that otherwise would have been more in the spotlight."
-    publishedDateTime: 2020-12-22T19:27:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U99P66zzip0/trump-biden-biggest-political-scandals-of-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 182
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6735719-5880-4721-98a4-9f6162f992d6/7744e53b-a550-4780-9b27-5228d2ea0d54/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Biden warns Trump administration’s efforts to vaccinate Americans 'falling behind'"
-    excerpt: "The president-elect also criticized the outgoing administration's lack of COVID testing for Americans, calling it \"a travesty.\" "
-    publishedDateTime: 2020-12-30T05:03:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qr4xzxxbuRs/live-updates-biden-12-30-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 177
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/646cbeae-51c0-4075-9a62-fbdd79191c70/fd810d22-270c-4029-af92-2b4285d17cfe/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Arizona congresswoman backs calls for Hunter Biden special counsel"
-    excerpt: "Rep. Debbie Lesko says she has sent a letter to the Attorney General."
-    publishedDateTime: 2020-12-29T02:52:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mPgrJiiKwBw/congresswoman-special-counsel-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/congresswoman-special-counsel-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congresswoman-special-counsel-hunter-biden.amp"
+  - title: "Chris Christie won't rule out challenging Trump in 2024"
+    excerpt: "Former two-term New Jersey Gov. Chris Christie says he wouldn’t rule out another presidential bid even if his longtime friend President Trump launches a 2024 run to try to return to the White House."
+    publishedDateTime: 2020-12-21T20:08:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dqSJNmbibe8/chris-christie-trump-2024-presidential-run"
+    ampWebUrl: "https://www.foxnews.com/politics/chris-christie-trump-2024-presidential-run.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-trump-2024-presidential-run.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f1ca1b6-a9e5-400b-aa09-7baf7124297c/05de37e4-1964-41ef-8cc1-be2d61cf6203/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "House lawmakers override Trump’s defense bill veto"
-    excerpt: "More than two-thirds of the chamber voted against Trump."
-    publishedDateTime: 2020-12-29T02:16:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FqAlg__bfy4/house-override-trump-defense-bill-veto"
-    ampWebUrl: "https://www.foxnews.com/politics/house-override-trump-defense-bill-veto.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-override-trump-defense-bill-veto.amp"
+  - title: "Former Rep. Chris Collins released from prison after Trump pardon"
+    excerpt: "Former New York Republican Rep. Chris Collins was released from a Pensacola prison on Tuesday, the same day President Trump granted him and several other high-profile individuals pardons. "
+    publishedDateTime: 2020-12-23T18:45:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_25DoLGWLYU/former-rep-chris-collins-released-from-prison-after-trump-pardon"
+    ampWebUrl: "https://www.foxnews.com/politics/former-rep-chris-collins-released-from-prison-after-trump-pardon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-rep-chris-collins-released-from-prison-after-trump-pardon.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9e66164-478a-4e5f-9843-bc51b5bad88a/642df305-5164-4cc9-9c6f-8fd33be24851/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1db342b1-2b8f-427b-b173-cfafcb085d3a/41496152-13b2-47eb-affd-77947ebd56f9/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "President Trump vetoes National Defense Authorization Act for Fiscal Year 2021"
-    excerpt: "President Trump vetoed the National Defense Authorization Act for Fiscal Year 2021 Wednesday, calling it a “gift” to U.S. adversaries China and Russia, making good on a promise to veto it if it did not repeal a law that shields certain Big Tech companies from liabilities."
-    publishedDateTime: 2020-12-23T20:42:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DlsSY3OwP2Y/trump-veto-national-defense-authorization-act"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-veto-national-defense-authorization-act.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-veto-national-defense-authorization-act.amp"
+  - title: "Trump declares war on Thune, but Noem says she won't challenge senator"
+    excerpt: "Soon after President Trump declared that South Dakota Sen. John Thune's \"political career is over,\" the state’s governor and Trump ally Kristi Noem called the number two Republican in the Senate \"a friend\" and said she wouldn’t \"be challenging\" Thune when he is up for re-election in 2022."
+    publishedDateTime: 2020-12-23T15:12:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8f7RMBp0MMs/trump-thune-noem-south-dakota"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-thune-noem-south-dakota.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-thune-noem-south-dakota.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20357806053798-1.jpg"
-        width: 1024
-        height: 683
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Omar blasts Biden team 'bait and switch' after officials say undoing Trump immigration policy will 'take time'"
-    excerpt: "Rep. Ilhan Omar accused the Biden team of already breaking a “core campaign promise” after officials picked to serve in the president-elect’s administration admitted that they would not roll back Trump’s immigration policies all at once. "
-    publishedDateTime: 2020-12-22T19:20:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1AxJxVii8FU/omar-biden-team-bait-switch-undoing-trump-immigration-policy-take-time"
-    ampWebUrl: "https://www.foxnews.com/politics/omar-biden-team-bait-switch-undoing-trump-immigration-policy-take-time.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-biden-team-bait-switch-undoing-trump-immigration-policy-take-time.amp"
+  - title: "Who is Charles Kushner, who was pardoned by Trump?"
+    excerpt: "President Trump issued 26 pardons on Wednesday, including several with personal ties to the president or members of his administration. One of them is Charles Kushner, father of Trump's adviser and son-in-law, Jared Kushner."
+    publishedDateTime: 2020-12-24T14:21:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xh4B44uoAhI/who-is-charles-kushner-trump-pardon"
+    ampWebUrl: "https://www.foxnews.com/politics/who-is-charles-kushner-trump-pardon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-charles-kushner-trump-pardon.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Ilhan-Omar-REUTERS.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Graham vows to hold Dems, media accountable over Hunter Biden: 'We're not going to sweep this under the rug'"
-    excerpt: "Senate Judiciary Committee Chairman Lindsey Graham doubled down Thursday on his calls for President Trump to appoint a special counsel to investigate Hunter Biden’s business dealings in China."
-    publishedDateTime: 2020-12-18T01:19:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O8Wz6FfRgYk/lindsey-graham-hunter-biden-not-sweep-under-rug"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-hunter-biden-not-sweep-under-rug.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-hunter-biden-not-sweep-under-rug.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b55e6af3-1933-400f-abde-4a5da8f2f4db/ea9eafcd-3cfb-4178-8bb1-6994cc6cf278/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "KT McFarland: Trump's Abraham Accords are so significant, even 'a Biden admin can't screw it up'"
-    excerpt: "The U.S. brokered Abraham Accords which have made great strides in normalizing relations in the Middle East and promoting a mentality of peace that will extend far beyond his presidency, KT McFarland said Sunday."
-    publishedDateTime: 2020-12-28T02:38:00Z
-    webUrl: "https://www.foxnews.com/media/kt-mcfarland-trumps-abraham-accords-israel-iran"
-    ampWebUrl: "https://www.foxnews.com/media/kt-mcfarland-trumps-abraham-accords-israel-iran.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kt-mcfarland-trumps-abraham-accords-israel-iran.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 137
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e200f42d-47e5-4e6b-8adc-02df3f0b10a8/66390a62-dbae-443b-b83b-a66c4beeb143/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "House Republicans urge Trump to veto omnibus spending bill"
-    excerpt: "A group of House Republicans on Wednesday urged President Trump to veto an approximately $1.4 trillion omnibus spending bill being negotiated in Congress, describing it as an example of \"swamp politics\" in Washington D."
-    publishedDateTime: 2020-12-17T10:43:00Z
-    webUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill"
-    ampWebUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-1.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20359026146833-e1608817865436.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "President Trump is most admired man in 2020, Gallup poll reveals"
-    excerpt: "President Trump and former first lady Michelle Obama have topped the list of the most admired man and woman for 2020, according to a Gallup poll released Tuesday. The annual survey asked"
-    publishedDateTime: 2020-12-29T14:21:00Z
-    webUrl: "https://nypost.com/2020/12/29/trump-tops-list-of-most-admired-men-of-2020-poll/"
-    ampWebUrl: "https://nypost.com/2020/12/29/trump-tops-list-of-most-admired-men-of-2020-poll/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/29/trump-tops-list-of-most-admired-men-of-2020-poll/amp/"
+  - title: "In official Christmas portrait, Melania Trump sports high-waisted pantsuit"
+    excerpt: "The first lady on Saturday shared her official White House Christmas portrait with President Trump standing on the White House Grand Staircase."
+    publishedDateTime: 2020-12-19T19:39:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0clQJuWnmt8/official-2020-christmas-portrait-melania-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/official-2020-christmas-portrait-melania-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/official-2020-christmas-portrait-melania-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/45268267395_b3677cbd08_o.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump heads to Mar-a-Lago for Christmas with government funding, coronavirus relief package in limbo"
+    excerpt: "President Trump headed to Palm Beach, Florida Wednesday to celebrate Christmas, as coronavirus relief and government spending remain in limbo after he said he was dissatisfied with the package. "
+    publishedDateTime: 2020-12-23T21:09:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZuYpt54LAl8/trump-mar-a-lago-christmas-coronavirus-relief-in-limbo"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-mar-a-lago-christmas-coronavirus-relief-in-limbo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mar-a-lago-christmas-coronavirus-relief-in-limbo.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15e12a5d-e28b-45fd-a1f3-606289515e5c/d1994829-de47-4bcf-b359-b6477a0f80dc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump and Melania wear matching tuxedos in official Christmas portrait"
+    excerpt: "President Trump and first lady Melania donned coordinating tuxedos for their final official Christmas portrait, released Friday. Melania tweeted a photo of the pair standing in the Grand Staircase of the White House,"
+    publishedDateTime: 2020-12-18T23:24:00Z
+    webUrl: "https://nypost.com/2020/12/18/trump-and-melania-wear-matching-tuxedos-in-official-xmas-portrait/"
+    ampWebUrl: "https://nypost.com/2020/12/18/trump-and-melania-wear-matching-tuxedos-in-official-xmas-portrait/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/18/trump-and-melania-wear-matching-tuxedos-in-official-xmas-portrait/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-admired-2020.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trumpxmas.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
-  - title: "Left Seeks Leverage to Move Biden"
-    excerpt: "The tug-of-war between President-elect Joe Biden and the left wing of the Democratic Party is shifting onto policy grounds now that nominees have been selected for key positions in the new administration."
-    publishedDateTime: 2020-12-28T12:34:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/12/28/left_seeks_leverage_to_move_biden_532247.html"
+  - title: "Former Rep. Chris Collins released from prison after Trump pardon"
+    excerpt: "Former New York Republican Rep. Chris Collins was released from a Pensacola prison on Tuesday, the same day President Trump granted him and several other high-profile individuals pardons."
+    publishedDateTime: 2020-12-23T18:57:00Z
+    webUrl: "https://www.foxnews.com/politics/former-rep-chris-collins-released-from-prison-after-trump-pardon"
+    ampWebUrl: "https://www.foxnews.com/politics/former-rep-chris-collins-released-from-prison-after-trump-pardon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-rep-chris-collins-released-from-prison-after-trump-pardon.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
     images:
-      - url: "https://assets.realclear.com/images/53/530848_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1db342b1-2b8f-427b-b173-cfafcb085d3a/41496152-13b2-47eb-affd-77947ebd56f9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Ivanka Trump shares Christmas family photo"
+    excerpt: "Ivanka Trump on Friday wished her followers a Merry Christmas and tweeted a family photo from inside the White House as they prepare to leave public office. “Merry"
+    publishedDateTime: 2020-12-25T17:47:00Z
+    webUrl: "https://nypost.com/2020/12/25/ivanka-trump-shares-christmas-family-photo/"
+    ampWebUrl: "https://nypost.com/2020/12/25/ivanka-trump-shares-christmas-family-photo/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/25/ivanka-trump-shares-christmas-family-photo/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/201225-ivanka-trump-christmas-photo.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "President Trump, First Lady release second White House Christmas greeting"
+    excerpt: "President Trump and First Lady Melania Trump wished their fellow Americans a merry Christmas in a second holiday greeting released by the White House Friday. In the statement, the first couple"
+    publishedDateTime: 2020-12-25T22:15:00Z
+    webUrl: "https://nypost.com/2020/12/25/president-trump-first-lady-release-second-christmas-greeting/"
+    ampWebUrl: "https://nypost.com/2020/12/25/president-trump-first-lady-release-second-christmas-greeting/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/25/president-trump-first-lady-release-second-christmas-greeting/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/d-m-trump.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "In official Christmas portrait, Melania Trump sports high-waisted pantsuit"
+    excerpt: "The first lady on Saturday shared her official White House Christmas portrait with President Trump standing on the White House Grand Staircase."
+    publishedDateTime: 2020-12-19T19:59:00Z
+    webUrl: "https://www.foxnews.com/politics/official-2020-christmas-portrait-melania-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/official-2020-christmas-portrait-melania-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/official-2020-christmas-portrait-melania-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/45268267395_b3677cbd08_o.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump takes meetings on Christmas to urge Congress to pass $2K stimulus checks"
+    excerpt: "President Trump repeated his calls for Congress to approve $2,000 coronavirus stimulus checks in a Christmas Day tweet, announcing he has been taking meetings over the holiday to secure a deal"
+    publishedDateTime: 2020-12-25T22:35:00Z
+    webUrl: "https://nypost.com/2020/12/25/trump-spends-christmas-urging-congress-to-pass-2k-stimulus-checks/"
+    ampWebUrl: "https://nypost.com/2020/12/25/trump-spends-christmas-urging-congress-to-pass-2k-stimulus-checks/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/25/trump-spends-christmas-urging-congress-to-pass-2k-stimulus-checks/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-12.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump Gives Some Federal Workers Christmas Eve Off—Though Congress Is on the Job"
+    excerpt: "For a third year, President Trump has given employees of the executive branch of the federal government a full day off on Christmas Eve, though Congress remained on the job."
+    publishedDateTime: 2020-12-24T22:30:00Z
+    webUrl: "https://www.wsj.com/articles/trump-gives-some-federal-workers-christmas-eve-offthough-congress-is-on-the-job-11608831020"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-gives-some-federal-workers-christmas-eve-offthough-congress-is-on-the-job-11608831020"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-gives-some-federal-workers-christmas-eve-offthough-congress-is-on-the-job-11608831020"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 130
+    images:
+      - url: "https://images.wsj.net/im-277969/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "ykv3ZMSPIdO5Dt7GU9fbQny7tWXbQnkXPUzsVYUG/p6hVvUfSCBn4R4PczyiaERRPnVCFDacD0YPe99tbdULEbCxbFkkBlpS1F58RdwQYwLzxmrwaG1F1H9wAPMxhrC4i4DbXKu4iaV80Y2Ws7aaF4qjiwwIRPt4K5jChB5FhqdT2O91OrC5Rew81enhzKQjbQdvxmCjF/gU2RciN4SvcvmFoDUyt5JOOj5jaA4D0W7YX0K8CCGHH+NPzhkPns56AGip3+6lPUE+PQAviXAgdV4BDvYz1P+kdTLBWuUgcxoNO8y4aeVf7p4I1qiRx+6W754HYbgiPokfbmpfxYKCc5/Rg3xlaqML8WRuyn5DSw6JcD2X0da6RXZMXMjTpxe+Dfjs+9/BSm/mNrvdTPXFS+o1VfHlF2p8o39DPDB69l5f4dTaIT4JdmxgjhqMSRXhSD5/WZCg/uSN1bTyxLSpeF3LtYVdAviYg9E7LgJvk7mTY3JKsDVliQQm34kxZf1X5nBG9ACQdsy2Pxz29HobOw==;kWVQwS0PEmBUeCVZsTBoKg=="

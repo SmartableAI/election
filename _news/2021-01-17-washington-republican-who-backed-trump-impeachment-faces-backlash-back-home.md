@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/washington-republican-trump-jamie-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/washington-republican-trump-jamie-herrera-beutler.amp"
 type: article
 quality: 173
-heat: -1
-published: false
+heat: 193
+published: true
 
 provider:
   name: Fox News
@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Right back to where we were last year: Dems seek Trump impeachment"
-    excerpt: ""
-    publishedDateTime: 2021-01-11T05:44:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/piuxTC5hNWc/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump.amp"
+  - title: "Flashback: Nadler's Clinton impeachment comments from 1998 surface as he leads Trump efforts"
+    excerpt: "House Judiciary Committee Chairman Jerry Nadler, D-N.Y., is pushing for President Trump to be impeached just days before his term ends, despite warning years ago about \"divisiveness and bitterness\" during the 1998 Clinton impeachment hearings."
+    publishedDateTime: 2021-01-13T17:06:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QHCPM0ruDao/jerrold-nadler-trump-impeachment-clinton-1998"
+    ampWebUrl: "https://www.foxnews.com/politics/jerrold-nadler-trump-impeachment-clinton-1998.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jerrold-nadler-trump-impeachment-clinton-1998.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "House Dem apologizing for comparing new Trump impeachment to a 'lynching'"
-    excerpt: "An Oregon Democrat is apologizing for likening a second impeachment of President Trump to a \"lynching.\""
-    publishedDateTime: 2021-01-09T23:29:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XkgD4GGrJvM/house-dem-apologizing-for-comparing-new-trump-impeachment-to-a-lynching"
-    ampWebUrl: "https://www.foxnews.com/politics/house-dem-apologizing-for-comparing-new-trump-impeachment-to-a-lynching.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-dem-apologizing-for-comparing-new-trump-impeachment-to-a-lynching.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Kurt-Schrader-GETTY.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Nadler.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

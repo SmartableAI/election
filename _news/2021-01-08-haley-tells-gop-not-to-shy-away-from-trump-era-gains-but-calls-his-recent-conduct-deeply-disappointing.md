@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/haley-gop-trump-era-gains-conduct-d
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-gop-trump-era-gains-conduct-disappointing.amp"
 type: article
 quality: 157
-heat: 157
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,113 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Nikki Haley says Trump Twitter ban is 'what happens in China'"
+    excerpt: "Former U.N. Ambassador Nikki Haley on Friday reacted to the permanent suspension of President Trump’s Twitter account, describing it as an instance of \"silencing\" of the kind that happens in communist China."
+    publishedDateTime: 2021-01-09T15:31:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rhiubGFBDVU/nikki-haley-trump-twitter-ban-china"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-trump-twitter-ban-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-trump-twitter-ban-china.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da6ccb3d-d6ae-4c35-892d-2a2d0a5234d2/dfcf7c7b-cb1f-422b-9614-5fd44aba5411/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Squad member compares Trump Twitter ban to capture of Saddam Hussein"
+    excerpt: "Rep. Jamaal Bowman, D-N.Y., reacted to Twitter banning President Trump from its platform by posting famous video footage of a U.S. official announcing the capture of former dictator Saddam Hussein during the Iraq war."
+    publishedDateTime: 2021-01-09T00:56:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HiIDSvmekpA/squad-bowman-trump-saddam-hussein"
+    ampWebUrl: "https://www.foxnews.com/politics/squad-bowman-trump-saddam-hussein.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-bowman-trump-saddam-hussein.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a8cc832-1224-4756-9784-64460e49561a/449753bf-51eb-45ab-a876-ea038b0ab169/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "TeamTrump Twitter account suspended in social media crackdown"
+    excerpt: "Twitter on Friday suspended Team Trump's account on the platform not long after it banned President Trump's account."
+    publishedDateTime: 2021-01-09T17:23:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M07S2BAyaPo/team-trump-twitter-account-suspended"
+    ampWebUrl: "https://www.foxnews.com/politics/team-trump-twitter-account-suspended.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/team-trump-twitter-account-suspended.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Capture-7.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Lindsey Graham calls Twitter's Trump ban a mistake: 'Ayatollah can tweet, but Trump can’t'"
+    excerpt: "Sen. Lindsey Graham, R-S.C., lashed out at Twitter after the social media site announced Friday a permanent ban on President Trump's personal account, calling the move a \"serious mistake.\" "
+    publishedDateTime: 2021-01-09T20:30:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eF5_aCNUwxA/lindsey-graham-twitters-trump-ban-ayatollah"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-twitters-trump-ban-ayatollah.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-twitters-trump-ban-ayatollah.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "After Trump Twitter ban, CBP chief says conservatives are 'constantly being censored' by Big Tech"
+    excerpt: "The head of Customs and Border Protection (CBP) said on Saturday that conservatives and Trump administration officials are \"constantly being censored\" -- a day after President Trump was permanently suspended from Twitter. "
+    publishedDateTime: 2021-01-09T16:55:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tSInzzeuWRE/trump-twitter-ban-cbp-chief-tech"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-twitter-ban-cbp-chief-tech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-twitter-ban-cbp-chief-tech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/886d202e-b4ba-4da6-bcc1-bda7cfd9a2a4/f4729944-945f-4a6d-b3c0-79a7da3fa698/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Lindsey Graham calls Twitter's Trump ban a mistake: 'Ayatollah can tweet, but Trump can’t'"
+    excerpt: "S.C., lashed out at Twitter after the social media site announced Friday a permanent ban on President Trump's personal account, calling the move a \"serious mistake.\""
+    publishedDateTime: 2021-01-09T20:41:00Z
+    webUrl: "https://www.foxnews.com/politics/lindsey-graham-twitters-trump-ban-ayatollah"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-twitters-trump-ban-ayatollah.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-twitters-trump-ban-ayatollah.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Why Ban of President Trump Proves Twitter Not 'Just a Platform'"
+    excerpt: "So Twitter has permanently banned President Donald Trump's account. While this will please Democrats, and perhaps lessen the (justifiable) heat the company is taking from regulators, it just prov… This is what happened."
+    publishedDateTime: 2021-01-09T14:56:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/09/why_ban_of_president_trump_proves_twitter_not_just_a_platform_533042.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "zQPbxWNp1HA0rdMvSjet6d9dqdPtrttBem4XQUWYkh5H146/zDYoZ75z9PA3RmRvsV8UkjfHSd5a6LVUNPz+177O8EnGWbBA5nUkxFFwxxByldBpuOpd6WPLy4k3zfBj/0lIFzFiMxx8memcWyUdve39tD5fRsozFWHXf+zpxKGGqysOWFPzWfvEW8z6i7iLcGUUNUbdFdE2l+Zz1I404ejjrWBkpxlaEgZjH6iEh6TAICx2W8hcIhcNi8BykH80Da97/tGDUcCq1yM9GGOIzYv+kCAPc8kViwoOxIAEIigHIA943Kob3IwGGA5W4eo65sz/tHa6Pgs4WZMEHu20hR7P1j1oR9RziByj0whQkLo=;sYNraDs6eOlYK79DVnYAAg=="
 ---

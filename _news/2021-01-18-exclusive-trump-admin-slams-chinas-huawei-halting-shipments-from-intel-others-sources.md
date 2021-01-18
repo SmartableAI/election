@@ -59,6 +59,22 @@ related:
         width: 800
         height: 535
         isCached: true
+  - title: "The Trump administration is revoking the licenses of companies that supply to Huawei, as a final blow to the Chinese tech giant"
+    excerpt: "Huawei has long been a target of the Trump administration, which believes it spies for the Chinese government. Huawei has repeatedly denied the claim."
+    publishedDateTime: 2021-01-18T10:44:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-halts-huawei-supply-shipments-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-halts-huawei-supply-shipments-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-halts-huawei-supply-shipments-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/60055311660f6c0018349a61?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Donald Trump's bitter fight to ban TikTok in the US looks set to fail after administration agrees to delayed legal deadline"
     excerpt: "Experts say a shift in legal deadline paves the way for President-elect Joe Biden to drop the suit."
     publishedDateTime: 2021-01-13T17:27:00Z

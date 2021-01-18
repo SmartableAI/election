@@ -159,22 +159,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Live Updates: Comey hints at pardon after House impeaches Trump"
-    excerpt: "The House of Representatives voted 232-197 Wednesday to impeach President Trump for alleged \"incitement of insurrection\" in connection with the mob chaos at the Capitol on Jan. 6."
-    publishedDateTime: 2021-01-14T07:22:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KZ5enevBp88/live-updates-trump-impeachment-1-14-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-1-14-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-1-14-2021.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b336866-4bb0-4f62-934e-51d04f9db820/fb3e5828-fc28-472b-9f10-d58bd64b0b76/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Supreme Court in no hurry to hear Trump campaign case, sets response deadline two days after inauguration"
     excerpt: "The latest Trump campaign appeal to the Supreme Court won't see any action from the justices until after the inauguration. The justices this week set a reply deadline for Pennsylvania Secretary of State Kathy Boockvar and the other respondents named in the case of Jan. 22."
     publishedDateTime: 2020-12-24T18:13:04Z

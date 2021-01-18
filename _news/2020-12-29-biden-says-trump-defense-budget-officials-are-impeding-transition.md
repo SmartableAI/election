@@ -208,6 +208,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Rep. Van Drew calls on Biden to oppose Trump impeachment: 'Let's try to come together'"
+    excerpt: "Democrats are pushing to remove President Trump from office after Wednesday’s riots on Capitol Hill but Rep. Jeff Van Drew, R-N.J., is urging President-elect Joe Biden to oppose impeachment, saying it would divide the country."
+    publishedDateTime: 2021-01-10T21:29:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N1MFlJVcVOM/rep-van-drew-biden-oppose-trump-impeachment"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21007252358930.jpg"
+        width: 2811
+        height: 1582
+        isCached: true
   - title: "Trump Campaign Asks Supreme Court to Overturn Biden’s Wisconsin Win"
     excerpt: "Unless the high court expedites the case, the Trump campaign’s appeal likely will be moot before it comes up for consideration by the justices."
     publishedDateTime: 2020-12-30T08:26:00Z

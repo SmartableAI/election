@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/colorado-trump-decision-space-comma
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colorado-trump-decision-space-command-hq-alabama.amp"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Dan Scavino tells Trump officials to be proud of accomplishments"
+    excerpt: "As the Trump administration heads into its final week, White House social media director Dan Scavino told administration officials Thursday to hold their \"heads high\" and be \"proud\" of what they have achieved during his term in office. \"I encourage all ..."
+    publishedDateTime: 2021-01-17T02:39:00Z
+    webUrl: "https://www.foxnews.com/politics/dan-scavino-slams-cancel-culture-tells-trump-officials-to-be-proud-of-accomplishments"
+    ampWebUrl: "https://www.foxnews.com/politics/dan-scavino-slams-cancel-culture-tells-trump-officials-to-be-proud-of-accomplishments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dan-scavino-slams-cancel-culture-tells-trump-officials-to-be-proud-of-accomplishments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005235258462.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "3vcudrVO/lxMc4Grz8gJZO/+d6P2ZUYzegfN7Vvi9c9J7CRY9olgjUm8v4mgj9kgl6qwPXutO77ZzGRRVOBWdP8JFDE9wLVX8qAvX2kQg8BgiQGz24jSbunxpnewDRT0424OQlGeT0kCXC5UMvuq2G+bWaa2ugMGo7Lc2GaWAC49etKxDZogvVUQwoOKSjvBWDIk7YlKMEud5BHH8hWOjdws+09lNzl7zvSEtghC+AX53+4/uqW8no4A2YCyX3J4qa15Oi6P/Lejql95ukPULpONtVRDvjhWEehMlmNwfHd3RoZd7nXKMSXnGYQWrH0P+Kod6DDJdGofwAz2l0LMXAgUdH0HSWWRxrsQW4RKGVs=;7SWuWl/OJvWbU7dNV7oqEw=="
