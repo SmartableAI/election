@@ -155,6 +155,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "History-making Vanderbilt kicker and Wylie grad Sarah Fuller gets invited to Joe Biden’s inauguration"
+    excerpt: "Sarah Fuller, the first woman to score in a Power Five conference football game, says she’s been invited to attend"
+    publishedDateTime: 2021-01-18T02:03:00Z
+    webUrl: "https://www.dallasnews.com/sports/other-schools/2021/01/18/history-making-vanderbilt-kicker-and-wylie-grad-sarah-fuller-gets-invited-to-joe-bidens-inauguration/"
+    ampWebUrl: "https://www.dallasnews.com/sports/other-schools/2021/01/18/history-making-vanderbilt-kicker-and-wylie-grad-sarah-fuller-gets-invited-to-joe-bidens-inauguration/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/sports/other-schools/2021/01/18/history-making-vanderbilt-kicker-and-wylie-grad-sarah-fuller-gets-invited-to-joe-bidens-inauguration/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 60
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/BvFnEIAosj_Ow1NYLYtC19Z0HOA=/1200x630/filters:focal(1749x20:1759x10):no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/RXO4YUBFSJF5JHQMWG3SAKNI6M.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "NbxpVWf5BiLAygI04aA3hjP3xhIQvzPO3idUKBlv+y3aDIJV4oLNmZoVyYSMODcIwou9LbYW6VSLElAodYjR+FJJuP0ymiaA7z2GTWHXxiWtSMlXl/tjcRXLiPT93vo1et5y8fS8S1jWoJ8VFbzNjlB7gJL8YR0p85XkV9bj6mlcq5n+Co5s24QVuNY/4YwNLREmDaNLdWig38S08WlBnP7xlpf8yqnfBty5kBW2g3BCcoQtPJaG0LCG3uUsxUCkrioUid8/QkHKhtwLEnwXh/TeFdAkAc7iwYEfVXAocfJQca4s9v08zGGPQOP/WFS42zqiU4sO0sqPyFwKtaeBvPphqXw2eyUJfP6F4Z4NXiw2FO+OgDGAj8ygJCL1I5Vg6y6vGR2Rs619Jlg60WDfJuLEwMCtqRaGc/351rnM1jqLAwvEjEeTtQamWCnowBhoAKT9AdklxNwXp9fdOcvyTCcihaG4XvRGAlhOT9ls2WiDv8NMcOjV5TsgnAVNl4sizMQJN4bvmY/s2gc2UvqG7w==;WnWChGMkagBm4iA3fa2hVA=="
 ---

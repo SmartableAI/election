@@ -63,6 +63,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Should Trump Pardon Himself? 68% Of Americans Say 'No'"
+    excerpt: "The U.S. Constitution does not explicitly say whether a sitting president can pardon himself for potential criminal liabilities."
+    publishedDateTime: 2021-01-18T00:26:00Z
+    webUrl: "https://www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284"
+    ampWebUrl: "https://www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/outgoing-us-president-donald-trump-is-seeking-to.jpg"
+        width: 1024
+        height: 716
+        isCached: true
   - title: "McCarthy Says Trump Accepts 'Some Responsibility' for Capitol Riot-Sources"
     excerpt: "President Donald Trump acknowledged he bears \"some responsibility\" for an assault on the U.S. Capitol last week, Republican congressional leader Kevin McCarthy told party lawmakers on Monday, according to two people familiar with McCarthy's briefing."
     publishedDateTime: 2021-01-12T04:03:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/federal-prisons-lockdo
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/federal-prisons-lockdown-run-biden-inauguration-75296751"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -154,6 +154,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2NAB5FK6RFAK3B53DG7COL2DXE.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "History-making Vanderbilt kicker and Wylie grad Sarah Fuller gets invited to Joe Biden’s inauguration"
+    excerpt: "Sarah Fuller, the first woman to score in a Power Five conference football game, says she’s been invited to attend"
+    publishedDateTime: 2021-01-18T02:03:00Z
+    webUrl: "https://www.dallasnews.com/sports/other-schools/2021/01/18/history-making-vanderbilt-kicker-and-wylie-grad-sarah-fuller-gets-invited-to-joe-bidens-inauguration/"
+    ampWebUrl: "https://www.dallasnews.com/sports/other-schools/2021/01/18/history-making-vanderbilt-kicker-and-wylie-grad-sarah-fuller-gets-invited-to-joe-bidens-inauguration/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/sports/other-schools/2021/01/18/history-making-vanderbilt-kicker-and-wylie-grad-sarah-fuller-gets-invited-to-joe-bidens-inauguration/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 60
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/BvFnEIAosj_Ow1NYLYtC19Z0HOA=/1200x630/filters:focal(1749x20:1759x10):no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/RXO4YUBFSJF5JHQMWG3SAKNI6M.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Qc5PDJsrCYo6feY9aixUGoAh+uBAobwn06ze6ZM89JFdMIosJm0DbjXNK2XluYXCAYpXjKoWzAMABBmpXnMejPm+hUHiGAQIjPpXzOhMaTfE9IJCBiVw7J99+A9DdM8IdmtR5/aPsiXhEX7E1j9NgB7L7qlHTC/NxDG/VDPY5coxT8cV/PS42/8rzvovSLIO6DXUIcNHuWRo+Dc9LsbBHqcCzuG1/yG3qh+Wuy3XyPGyjaR9c6xiYgLg48odR6gwBXd20sVaSbuDzGTcAZBLwJknaNdknA3Aq2voXsqXAmuLoNq5oA9i83MwA7LVjd5y7vbA0qnS+bfRn9kkuXvk52NU6Jc4btRijesLEvOksSIrm1wjY3Ps++enjDrFa2KZt3YUzuYyCSCFzS8hcgFXCysOdPo4IKqYFVbTB/qqUBFNMmBQADbgCon5yfWeqSbe8Z7/IaAE5Vz6fgTimgVgCbFoHqoIEUf9RPYABOMyv4QeGeALwRc3YEtuXpM9qJFIRZwEVm+TIfiUwa1wZTuVOg==;aYHs5gvn558STe0YIkJSBA=="

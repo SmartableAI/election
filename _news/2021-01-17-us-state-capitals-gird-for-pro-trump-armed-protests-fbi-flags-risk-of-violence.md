@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 779
         isCached: true
+  - title: "'It was a non-event': Pro-Trump protests quiet amid massive police presence across U.S."
+    excerpt: "Law enforcement officers far outnumbered protesters at state capitol grounds on Sunday, as few Trump supporters who believe the president's false claim that he won the 2020 election turned out for what authorities feared could be violent demonstrations."
+    publishedDateTime: 2021-01-18T02:14:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-protests/law-enforcement-officials-brace-for-pro-trump-protests-at-state-capitol-buildings-idUSKBN29M048"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 97
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548124964&r=LYNXMPEH0G0GQ&w=800"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "OuVJxF8SMQmFvrMUH9tbkUXGd1wFfJuJp9kBS7zw0e28d3L8pva2xwZ9c2RzmhhXU2Gzdc9EUyKYjWTO9qX54I8x5K/JiuC4HleLgf90iUJzU+P+ZqsKtqLfpknQAQbFGXiq6qJknZbhwbyHAjiUaNJzrqkHfuejrXvURxjJ0d/cHkzlbZkGgRWz1gwj54FT1Hlaw9I/EKwFP84tqXyY/XF0u1vIVa/A8/hnQsyOJDI87tmzLY6xsUG/BTipPM3d5rRvd4TDQ7wdBl1CiUjB1VeNnTjJgAd5RU5hEhIAr+0h4YqBHxigS6tW+lyqbLQqG6Y6SVa1mT8DymWuJQGuBcHmn29kv2/rGyxbBhgFNaQ=;84gv0BadWGoCaPU1VpnEpg=="
 ---

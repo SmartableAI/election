@@ -41,22 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Vice President Mike Pence coming to Naval Air Station Lemoore"
-    excerpt: "Vice President Mike Pence will be at Naval Air Station Lemoore on Saturday to deliver remarks to sailors about the “Trump Administration’s historic foreign policy achievements,” the vice president’s office announced Wednesday."
-    publishedDateTime: 2021-01-13T23:17:00Z
-    webUrl: "https://www.sacbee.com/news/california/article248491315.html"
-    ampWebUrl: "https://amp.sacbee.com/news/california/article248491315.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article248491315.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 75
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5596404782001/e6a974fd-9407-4b50-ab25-fc28e18e3610/22d06799-15d6-43ce-9837-a9be63948ed7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "HEXpu7JCrLD4rV6359LGXqtBLdLpClrZcyuXzlFq0clwnCktvPrwObcYP4taMu2S+NxYMD3RyKM9gB+bwCX0rdf82go5pWfH7LvDHHDc/k3J9GUfkd2/d+ipXdIf7rDLCdb8h+MncCn14Ji9hlMJTnpXUCVBF1QuRnWVCLxsgIZFwf4C6VgjkU9XQxVr6AmHGV2jrNiU1C4uJpNBTPsJIMnCZkmMEyI0+712rIczgC3MmKZiNcrmCNQpiZ9ZFognTtaB2muVIZ9D0OrIxJ4QkuIiNDzNJMM9e7YIzK05CJI9qlNgembpB+D6INTgSDAh5PGuYUnO9zQwrAdiJVNPHiATjHgARSt9pXMVSFfkP804T0tHT1hoAcigrZAf20OYAhzAiq7lofNFFNaQfMBDhSH6Pb7Z8Ox97OB/0qmvSGRxp3IGxf23dERN8pBnLygBcjFEWNcmBtJB9zxxmrHOUQVuwTgU4oK58kp/ShLMrONjQlaQyFF9hWViepk5XzyGyf2JXYsFDn3V/iC20crAoQ==;4o7uPTWLCB3onIvaK+G2Rw=="
 ---

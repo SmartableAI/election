@@ -157,6 +157,22 @@ related:
         width: 450
         height: 301
         isCached: true
+  - title: "Kamala Harris’ historic rise as U.S.’s first Black, Caribbean-American VP celebrated"
+    excerpt: "Vice President-elect Kamala Harris, left, and Felicia Persaud, a long-time Caribbean activist during a virtual celebration of Harris’ historic rise ahead of Jan. 20, 2021 inauguration of U.S. President-elect Joe Biden. Courtesy of Invest Caribbean ..."
+    publishedDateTime: 2021-01-18T00:27:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/world/americas/article248570295.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/world/americas/article248570295.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/world/americas/article248570295.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5618154292001/b8753f86-34a9-4c52-89ea-a78119ef3e12/main/1280x720/24s960ms/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pokin Around: Galena city Facebook page posts, then removes hateful meme of Kamala Harris"
     excerpt: "Galena's FB page boasts, \"Galena is the definition of Small Town America.\" After seeing a screenshot of the meme, I pray that's not true."
     publishedDateTime: 2021-01-13T00:00:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Guatemalan forces clash with migrant caravan, Biden team seeks to halt exodus"
 excerpt: "Guatemalan security forces on Sunday used sticks and tear gas to beat back a large migrant caravan bound for the United States, just days before the advent of a new U.S. administration, which urged travelers to abandon the journey."
-publishedDateTime: 2021-01-17T23:31:00Z
-originalUrl: "https://www.reuters.com/article/usa-immigration-caravan/update-2-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7"
-webUrl: "https://www.reuters.com/article/usa-immigration-caravan/update-2-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7"
+publishedDateTime: 2021-01-18T02:18:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-immigration-caravan/guatemalan-forces-clash-with-major-u-s-bound-migrant-caravan-idUSKBN29M0FN"
+webUrl: "https://www.reuters.com/article/us-usa-immigration-caravan/guatemalan-forces-clash-with-major-u-s-bound-migrant-caravan-idUSKBN29M0FN"
 type: article
 quality: 102
 heat: -1
@@ -233,14 +233,14 @@ related:
         isCached: true
   - title: "How to watch Joe Biden's Inauguration Day 2021, from the swearing-in to Tom Hanks' special"
     excerpt: "Joe Biden and Kamala Harris' 2021 inauguration will feature Lady Gaga, Tom Hanks and COVID-19 safety precautions. Here's how to watch and what time."
-    publishedDateTime: 2021-01-17T18:07:00Z
-    webUrl: "https://www.desmoinesregister.com/story/entertainment/media/2021/01/17/joe-biden-2021-inauguration/4176962001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/4176962001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4176962001"
+    publishedDateTime: 2021-01-18T02:03:00Z
+    webUrl: "https://www.azcentral.com/story/entertainment/media/2021/01/17/joe-biden-2021-inauguration/4176962001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/4176962001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4176962001"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 65
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/08/PPHX/c3634c0f-2375-42ac-976e-bfaa70dcb670-AP20313070395405.jpg?auto=webp&crop=5507,3098,x0,y280&format=pjpg&width=1200"
@@ -264,6 +264,6 @@ related:
         height: 560
         isCached: true
 
-secured: "0G1sh7jYJlGxH9OIZT/TWAdC9jIK4yLQG013P3oy9peEGNbyNwY59BS2Lx1pRzq2xj6deKWy2VVYN8Dyc8jTMoxevkqypk6YcO+CGJpbUWrxJuWcJDAGCKINIAoprf8TvkokMgU71zjhss79wyZVo3+d92cTQ8XRFeKUoNHQERSESGfcspPqa6NCzm5WJkXR+HT5Nly85/J5a7ZXoi0UZLvNxMnb6dZwb7wuyE2o50z9bMtf4rMKx2Qor7IGcWClMhCt3hVnVx3K2Y8V3hhd5pIu5Zj/GOlOHqGvdWwcYYF1rePaqmVnx9r7Z/XOsr6elZ4/7h3JaG+QqzAkkhASa0bx5DRDhLFfqipUeN0O9do=;C2z3F2s3bcalO5czOR9+/Q=="
+secured: "JwuxbxJihSg0MyKyqgH402iDuxYm/9KwYInxui/RThvKsDsVGAwewX7b1BPzEgZo1fZLFCmy2SMbNDaFPEbcBhg0jdS2BKXAPtP/hjjTvQkbbPry6nFuKsOk9ZBv5fpR4tal+1pG9e9h54r6eM/bMksNu0S0M65Sfvb2npTjwc2NlBEzww36V39H9gnlEKeo7rfQyDWoOxHdVvKZ0nAag7ZZ1uNlLg0cjG6lf2r3jwqVhlvMThxPH8ubvZVy5PPglEeOMYYxL2PscqIfwy9ioQnFO7RHYDKGWVx1YlxJkfgCI5vuhbHej1ON5DRjp8aey5x0Dxv7ImeaX8fTYMGk9cVY0c98m49lU23Jr9HThJ0=;mjlBPLmSRZOZF/DjG++Vxg=="
 ---
 

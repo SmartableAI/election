@@ -169,6 +169,22 @@ related:
         width: 450
         height: 301
         isCached: true
+  - title: "Kamala Harris’ historic rise as U.S.’s first Black, Caribbean-American VP celebrated"
+    excerpt: "Vice President-elect Kamala Harris, left, and Felicia Persaud, a long-time Caribbean activist during a virtual celebration of Harris’ historic rise ahead of Jan. 20, 2021 inauguration of U.S. President-elect Joe Biden. Courtesy of Invest Caribbean ..."
+    publishedDateTime: 2021-01-18T00:27:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/world/americas/article248570295.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/world/americas/article248570295.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/world/americas/article248570295.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5618154292001/b8753f86-34a9-4c52-89ea-a78119ef3e12/main/1280x720/24s960ms/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "I’m an American teenager of South Indian descent. Here’s what Kamala Harris means to me"
     excerpt: "Seeing Kamala Harris about to become U.S. vice president has largely fulfilled a childhood dream of mine, writes 15-year-old Disha Cattamanchi. \"Although I only see her through a TV screen, I see so much of myself and what I"
     publishedDateTime: 2021-01-14T14:00:00Z

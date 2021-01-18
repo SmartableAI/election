@@ -75,6 +75,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Donald Trump: From The American Dream To American Nightmare"
+    excerpt: "When Donald Trump looks down for the last time from his helicopter over the White House lawn Wednesday, the wreckage of his presidency will be inescapable. The showman with the dyed blond hair, fake tan and a knack for connecting with crowds took office four years ago,"
+    publishedDateTime: 2021-01-18T00:33:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-american-dream-american-nightmare-3124343"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/07/us-president-donald-trump-kisses-german-chancellor-angela.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "ythcE0zSj09X9KdmjG+W3/II9RJ9LwcfEpJ0Kcj+DwUmTeG3l5EiywaK+EgM9xtAsXwIKy0RcdEE1y0Fan0LxNRbt8iZ6PTxpJWq0bLf0doyGg3EAiQ+oIu24p8ChghSBvn14qnI7yiUE3951yj8dijdFaOKpzSOrnXYpmJe4zTInwbfML0cBb7gOMlR7zP3c9EPCI+QVZoyP+N8RLK3ZjISiXc3FcBidNTMDryHRsj81K54vbiHIzPOeDsK0QKGpml1FJzgp7enMUM0WsDFeK7WhqTaOzxmmUQ0p5hqYQ018Zx05Iq/kj0UQruM4d473PXvwY1I4Fmta4cSl+E9VPXt64bGDuNcuF1DBgL9AVbzxPz6jLxMaXq7VdiwxQppEaGTSzWVX5ZqqlxgkkdDclMNFniai0MOmfbCD12FCcgQgRxApSvpnj9T88Up3QN1MfG3op6x4y0e6auYk/fIgiFJCTxxyeKvxa+E/dK8yIVHLU7M57GM4vzN9M3vHznQyzVFYN5Umgo6XNgibmaZaA==;kyci0NOiAMxy57Y3ta0Kzg=="
 ---

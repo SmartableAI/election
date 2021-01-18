@@ -48,20 +48,20 @@ related:
         height: 558
         isCached: true
   - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-    excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
-    publishedDateTime: 2021-01-16T06:01:00Z
-    webUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    excerpt: "WASHINGTON -- Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-16T00:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 150
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump to leave Washington on morning of Biden’s inauguration"
     excerpt: "President Donald Trump will leave Washington next Wednesday morning, just before President-elect Joe Biden’s inauguration"
@@ -78,6 +78,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Trump to leave Washington on the morning of Biden’s inauguration"
+    excerpt: "President Trump will leave Washington next Wednesday morning, ahead of President-elect Joe Biden’s inauguration."
+    publishedDateTime: 2021-01-15T19:38:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-leaves-washington-20210115-kppd5rslgfg45llkbm7elvuiqe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-leaves-washington-20210115-kppd5rslgfg45llkbm7elvuiqe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-leaves-washington-20210115-kppd5rslgfg45llkbm7elvuiqe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 140
+    images:
+      - url: "https://www.chicagotribune.com/resizer/8iaQKQ2GQ_UgaMVJEH9CDeaq5-0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/HLVDY42NTBWJ4WLIF27HE43ARM.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "That time Kamala Harris flew on Trump’s private plane, and more from her biographer"
     excerpt: "Author Dan Morain answers queries about his new book on Kamala Harris, like why she's an only-in-California politician and what to expect from her as vice president."
@@ -554,15 +570,15 @@ related:
         isCached: true
   - title: "Justice Sotomayor to swear in Kamala Harris"
     excerpt: "Watch \"Justice Sonia Sotomayor to swear in Vice President-elect Kamala Harris on inauguration \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-01-17T22:30:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210117204437-justice-sonia-sotomayor-to-swear-in-vice-president-elect-kamala-harris-on-inauguration/"
+    publishedDateTime: 2021-01-18T02:20:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210118004623-justice-sonia-sotomayor-to-swear-in-vice-president-elect-kamala-harris-on-inauguration/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/17/story_08587647_1610916484.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/18/story_08588757_1610931004.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -621,15 +637,15 @@ related:
         isCached: true
   - title: "Pence vows to honor U.S. history, ensure safe inauguration of new president"
     excerpt: "U.S. Vice President Mike Pence on Thursday vowed to uphold American history and ensure a safe transition of power to President-elect Joe Biden, eight days after supporters of U.S. President Donald Trump laid siege to the U."
-    publishedDateTime: 2021-01-15T06:41:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-pence/pence-vows-to-honor-u-s-history-ensure-safe-inauguration-of-new-president-idUSKBN29K05A"
+    publishedDateTime: 2021-01-15T06:46:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-inauguration-pence-idUKKBN29K04Q"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 103
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547860873&r=LYNXMPEH0E02C&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547859288&r=LYNXMPEH0E025&w=800"
         width: 800
         height: 533
         isCached: true
@@ -724,6 +740,22 @@ related:
       - url: "https://media.nbcnewyork.com/2021/01/split-jan15.jpg?fit=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
+    publishedDateTime: 2021-01-17T19:11:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/mike-pence-calls-kamala-harris-to-offer-congratulations/article_86e08ee6-00c5-5d13-bfeb-28c90d473a34.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/mike-pence-calls-kamala-harris-to-offer-congratulations/article_86e08ee6-00c5-5d13-bfeb-28c90d473a34.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/mike-pence-calls-kamala-harris-to-offer-congratulations/article_86e08ee6-00c5-5d13-bfeb-28c90d473a34.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 100
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/c/74/c7455c4b-4601-57a6-91b1-2d62525d62c1/6001e6ff4922f.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Thousands of National Guard members deployed in Washington ahead of Biden inauguration"
     excerpt: "Thousands of National Guard's were deployed to Washington on January 12, ahead of the inauguration of Joe Biden in the wake of the Capitol riots."
@@ -1090,6 +1122,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/11/USAT/c5bf9530-87e0-4af2-b3d8-20bc45f8cc5d-AFP_AFP_8YE8DQ.jpg?auto=webp&crop=3839,2159,x1,y360&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Vice President-elect Kamala Harris to be sworn in by Justice Sotomayor at inauguration"
+    excerpt: "Harris will use two Bibles for the swearing-in, one of which belonged to Thurgood Marshall, the first Black Supreme Court justice."
+    publishedDateTime: 2021-01-17T19:12:00Z
+    webUrl: "https://chicago.suntimes.com/2021/1/17/22236017/inauguration-2021-kamala-harris-justice-sonia-sotomayor"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/1/17/22236017/inauguration-2021-kamala-harris-justice-sonia-sotomayor"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/1/17/22236017/inauguration-2021-kamala-harris-justice-sonia-sotomayor"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 67
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "'Washed out mess': Vogue puts Kamala Harris on the cover, but Twitter users aren't happy"
     excerpt: "Vice President-elect Kamala Harris is splashed on the February cover of Vogue, but social media isn't crazy about the magazine's photo choice."

@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2021/01/07/pence-says-
 webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/07/pence-says-violence-never-wins-after-senate-resumes-electoral-count/6575926002/"
 type: article
 quality: 97
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Mike Pence coming to Naval Air Station Lemoore"
-    excerpt: "Vice President Mike Pence will be at Naval Air Station Lemoore on Saturday to deliver remarks to sailors about the “Trump Administration’s historic foreign policy achievements,” the vice president’s office announced Wednesday."
-    publishedDateTime: 2021-01-13T23:17:00Z
-    webUrl: "https://www.sacbee.com/news/california/article248491315.html"
-    ampWebUrl: "https://amp.sacbee.com/news/california/article248491315.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article248491315.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 75
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5596404782001/e6a974fd-9407-4b50-ab25-fc28e18e3610/22d06799-15d6-43ce-9837-a9be63948ed7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Josiah Colt, seen hanging off Senate balcony, sitting in seat of Vice President Mike Pence, charged by FBI"
     excerpt: "The man seen in video footage hanging from the Senate balcony and sitting in the chair of Vice President Mike Pence on the Senate floor has been identified, arrested and charged, according to court documents."
     publishedDateTime: 2021-01-13T14:50:00Z

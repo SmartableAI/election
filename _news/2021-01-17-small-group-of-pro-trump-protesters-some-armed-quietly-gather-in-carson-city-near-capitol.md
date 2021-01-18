@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4184756001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4184756001"
 type: article
 quality: 115
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
     quality: 100
     images:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548089624&r=LYNXMPEH0G03L&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "'It was a non-event': Pro-Trump protests quiet amid massive police presence across U.S."
+    excerpt: "Law enforcement officers far outnumbered protesters at state capitol grounds on Sunday, as few Trump supporters who believe the president's false claim that he won the 2020 election turned out for what authorities feared could be violent demonstrations."
+    publishedDateTime: 2021-01-18T02:14:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-protests/law-enforcement-officials-brace-for-pro-trump-protests-at-state-capitol-buildings-idUSKBN29M048"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 97
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548124964&r=LYNXMPEH0G0GQ&w=800"
         width: 800
         height: 533
         isCached: true

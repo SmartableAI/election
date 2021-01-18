@@ -27,35 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Mike Pence said 'violence never wins' after returning to Senate Chamber"
-    excerpt: "Vice President Mike Pence said \"today was a dark day in the history of the United States Capitol\" as the Senate restarted the Electoral College count."
-    publishedDateTime: 2021-01-07T17:20:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/07/pence-says-violence-never-wins-after-senate-resumes-electoral-count/6575926002/"
+  - title: "Vice President Pence thanks U.S. troops at Fort Drum"
+    excerpt: "Vice President Mike Pence and his wife made their final official appearance together with a visit to Fort Drum, where they thanked the 10th Mountain Division and their families for their service"
+    publishedDateTime: 2021-01-18T01:24:00Z
+    webUrl: "https://www.washingtonpost.com/national/vice-president-pence-thanks-us-troops-at-fort-drum/2021/01/17/810ee532-592b-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/vice-president-pence-thanks-us-troops-at-fort-drum/2021/01/17/810ee532-592b-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/vice-president-pence-thanks-us-troops-at-fort-drum/2021/01/17/810ee532-592b-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 97
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/07/USAT/8da3ecef-a6bb-4db4-97a3-49e327800c5a-VPC_PENCE_SOT_DESK.00_00_21_20.Still005.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Josiah Colt, seen hanging off Senate balcony, sitting in seat of Vice President Mike Pence, charged by FBI"
-    excerpt: "The man seen in video footage hanging from the Senate balcony and sitting in the chair of Vice President Mike Pence on the Senate floor has been identified, arrested and charged, according to court documents."
-    publishedDateTime: 2021-01-13T14:50:00Z
-    webUrl: "https://www.masslive.com/politics/2021/01/josiah-colt-seen-hanging-off-senate-balcony-sitting-in-seat-of-vice-president-mike-pence-charged-by-fbi.html"
-    ampWebUrl: "https://www.masslive.com/politics/2021/01/josiah-colt-seen-hanging-off-senate-balcony-sitting-in-seat-of-vice-president-mike-pence-charged-by-fbi.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/01/josiah-colt-seen-hanging-off-senate-balcony-sitting-in-seat-of-vice-president-mike-pence-charged-by-fbi.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 57
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZNEYLTF5HZAFRH5R5AXNXEZ4U4.png"
-        width: 555
-        height: 369
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
 
 secured: "5xZKOId7bRva5P7OkD3LA4r86R7T0pQIZrtqeFc8ycYNWVj5BuVvr0Lf17Y4nT2UzXPXNv4LgPWtKc0jUtWK+IpiCUVYURxIuWG7E0T5m5pHZYS9vSnpoMI5qyGb6d9/cuUhcQVpJRRnKePuOkKrEwotzUPC0ikz4UTYxSTm7bAdojHjVH/pr9Ia8aAZZma7I0QuI8sJk4xh8BTDw25OlaqvjtpBRO4sCXYcEAPbYrRYLvXytthfDFwx+px7r1QNce98FWRy5At9MF0t7yrZ0bQ6QwxinLRxoXeivQJvrNdiR+bN7VwLQuzWe7lyxAwkwYL8WlkeoXOkT7heun2rCR0MrOhIO6voagacFOENs524tJVyKz8OiOCk0h8IPcomYydKC7MKGmB4sEg0isLnGs+EtpbNNY92aWxwkW+cGR0M0kWNOkyvF2ASHRwbpGjWNQuzEZi7BaNoo06QJbQlacd8/hnpFbYzLH23TVzLsB4Ke0ccf5ULmdKERA+O5LXj0q5qglbXFlEj7A91Xk2AkQ==;AzIzVOI7myXQP4kgg6+CMg=="

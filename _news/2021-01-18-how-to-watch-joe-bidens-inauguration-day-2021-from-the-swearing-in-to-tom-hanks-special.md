@@ -2,19 +2,19 @@
 category: news
 title: "How to watch Joe Biden's Inauguration Day 2021, from the swearing-in to Tom Hanks' special"
 excerpt: "Joe Biden and Kamala Harris' 2021 inauguration will feature Lady Gaga, Tom Hanks and COVID-19 safety precautions. Here's how to watch and what time."
-publishedDateTime: 2021-01-17T18:07:00Z
-originalUrl: "https://www.desmoinesregister.com/story/entertainment/media/2021/01/17/joe-biden-2021-inauguration/4176962001/"
-webUrl: "https://www.desmoinesregister.com/story/entertainment/media/2021/01/17/joe-biden-2021-inauguration/4176962001/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/4176962001"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4176962001"
+publishedDateTime: 2021-01-18T02:03:00Z
+originalUrl: "https://www.azcentral.com/story/entertainment/media/2021/01/17/joe-biden-2021-inauguration/4176962001/"
+webUrl: "https://www.azcentral.com/story/entertainment/media/2021/01/17/joe-biden-2021-inauguration/4176962001/"
+ampWebUrl: "https://amp.azcentral.com/amp/4176962001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4176962001"
 type: article
 quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -167,8 +167,8 @@ related:
         isCached: true
   - title: "Guatemalan forces clash with migrant caravan, Biden team seeks to halt exodus"
     excerpt: "Guatemalan security forces on Sunday used sticks and tear gas to beat back a large migrant caravan bound for the United States, just days before the advent of a new U.S. administration, which urged travelers to abandon the journey."
-    publishedDateTime: 2021-01-17T23:31:00Z
-    webUrl: "https://www.reuters.com/article/usa-immigration-caravan/update-2-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7"
+    publishedDateTime: 2021-01-18T02:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-immigration-caravan/guatemalan-forces-clash-with-major-u-s-bound-migrant-caravan-idUSKBN29M0FN"
     type: article
     provider:
       name: Reuters
@@ -260,6 +260,6 @@ related:
         height: 560
         isCached: true
 
-secured: "/AleUbfAYUNsKOxCdjcLrZ1hIpwaWKA0KNHD4d9ivRriofbx+0E0ah3rjusSbD/oOeWVvkTRjVZkK1PqcECaM9m/zuDqOmVGHGvBgk3UFAr3bzv64wZKDIJpg2x9DcHacC1TTCHxuBQZoL+HWsbLgX1LvMsBKGmjl7su4rrY8LbE4BzfKihJScHjEZMa/dMcLkcmt8ARSbPDFW5gIMClS4vevr51vBy3k7eLtgS8RAO4g+ANSq1htAc1IOL2KRcQRddowHSJqXKtypIdqmsU+xYMpORiEScatZoP0mWeFxTEUAjy681zeSjmwvZmXNMIs3IQfl3C26B1MtYEaF3AqCvT2+tFulvrlq5VOFKe2Ok=;AgzQVeClM+Xvx9ZwuB8+1A=="
+secured: "RDkfb5FYxkZ/Mw0lH4UJG48tJmBTWIyzL3Z8bx5PT7LITG3S66PGfLZzqGouZm4mMgdMExJcf8cTpj1gbA3jVgRtSvR7iRspGijTGqcFTT+zrzEBTFSrh/Drn4nrok+BFl0jY3G0UT0jkDYKzLH9bXrHNRql30oF3wbPofpYEYiTTaz6fVkH3XWFA/6/J9P4FcMLtfLkMyLH3ebbmoOyTOC38SenBE5P3FEb2d5V+LLdfP4IgX76RaQk+KLw6lvd9ufrw7WiExO7Uq6SsFKkG2RRkPmPmtvdBnuny/XiSnBYn1/eOJc73agFbTy5WM434Mtt8eBEL70/LrqGKe9YpgiMNTzlOEKymCBtV6uqbpc=;iQGWePVcDRrhgnRWgl1CxQ=="
 ---
 

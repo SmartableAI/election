@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/gop-rep-jaime-herrera-beutler-on-vo
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://tse2.mm.bing.net/th?id=OVF.kr1jrhl6%2bhrBBRY%2fCA37Tg&w=600&h=315&c=7&rs=1&qlt=100&pid=2.1"
         width: 600
         height: 315
+        isCached: true
+  - title: "Donald Trump: From The American Dream To American Nightmare"
+    excerpt: "When Donald Trump looks down for the last time from his helicopter over the White House lawn Wednesday, the wreckage of his presidency will be inescapable. The showman with the dyed blond hair, fake tan and a knack for connecting with crowds took office four years ago,"
+    publishedDateTime: 2021-01-18T00:33:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-american-dream-american-nightmare-3124343"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/07/us-president-donald-trump-kisses-german-chancellor-angela.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "+46AfBt3uXEO/bSYh6ncpI8n/1mG1wYEjUL6lAk5z8n6LZDzs8E2JR0IdofjQfVDi3gzT2TtfQ8nRJ4nT/PcpdwUkTGoRwIJB11vrfeiGAzO75mvnhu2xtlEpEAo9wfP+cJxoXAxpENPy40TYwT94aNs8BnXabG9xaIm56pICAksq5EBu7jr/OLz4OueAjh8qzDT8WVHhjDK2++eJR7sLT3kp8ZCoujng44tNHVfyLVE27RSTj/HjKUgCjx7S40/BwMsCFZQABqcFLb/mm00KsHSFArF0nQjVQBCxnsZ2vWHH1zUq6XIYBcckZL2LMmAGB0xnGEHUdxegGqVXk2ZNOvyg6Ldr2ILQne0whSqAyKE64gJzs3deRRM08UN8BSYNcksq6PDsVNcbkwzYTBMQpZwz79hC2N49Xwh9h+7oJ3dGB5e7pYi2bAZgrjlyotAyGydiriLRxgmZIDEeAnVCrhAXnJUYRlXQ/NOeLAkkAebo8uj7qxDGVybn06zOdVPo52Y8GNToP4rzhMwB42lIw==;77luSLTGV+UesP3LiKKuQQ=="

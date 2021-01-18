@@ -167,8 +167,8 @@ related:
         isCached: true
   - title: "Guatemalan forces clash with migrant caravan, Biden team seeks to halt exodus"
     excerpt: "Guatemalan security forces on Sunday used sticks and tear gas to beat back a large migrant caravan bound for the United States, just days before the advent of a new U.S. administration, which urged travelers to abandon the journey."
-    publishedDateTime: 2021-01-17T23:31:00Z
-    webUrl: "https://www.reuters.com/article/usa-immigration-caravan/update-2-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7"
+    publishedDateTime: 2021-01-18T02:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-immigration-caravan/guatemalan-forces-clash-with-major-u-s-bound-migrant-caravan-idUSKBN29M0FN"
     type: article
     provider:
       name: Reuters
@@ -245,14 +245,14 @@ related:
         isCached: true
   - title: "How to watch Joe Biden's Inauguration Day 2021, from the swearing-in to Tom Hanks' special"
     excerpt: "Joe Biden and Kamala Harris' 2021 inauguration will feature Lady Gaga, Tom Hanks and COVID-19 safety precautions. Here's how to watch and what time."
-    publishedDateTime: 2021-01-17T18:07:00Z
-    webUrl: "https://www.desmoinesregister.com/story/entertainment/media/2021/01/17/joe-biden-2021-inauguration/4176962001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/4176962001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4176962001"
+    publishedDateTime: 2021-01-18T02:03:00Z
+    webUrl: "https://www.azcentral.com/story/entertainment/media/2021/01/17/joe-biden-2021-inauguration/4176962001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/4176962001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4176962001"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 65
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/11/08/PPHX/c3634c0f-2375-42ac-976e-bfaa70dcb670-AP20313070395405.jpg?auto=webp&crop=5507,3098,x0,y280&format=pjpg&width=1200"
