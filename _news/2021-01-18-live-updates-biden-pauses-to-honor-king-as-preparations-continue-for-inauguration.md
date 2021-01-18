@@ -463,6 +463,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Trump presidency was marked by battles over truth itself. Those aren’t over."
+    excerpt: "Scholars say susceptibility to false beliefs and conspiracy theories preceded Trump and will extend well beyond him."
+    publishedDateTime: 2021-01-18T18:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-trump-presidency-was-marked-by-battles-over-truth-itself-those-arent-over/2021/01/18/3bee0050-5750-11eb-a931-5b162d0d033d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-trump-presidency-was-marked-by-battles-over-truth-itself-those-arent-over/2021/01/18/3bee0050-5750-11eb-a931-5b162d0d033d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-trump-presidency-was-marked-by-battles-over-truth-itself-those-arent-over/2021/01/18/3bee0050-5750-11eb-a931-5b162d0d033d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R6IE53SVAYI6XKAX4XT7RJAG2Y.jpg&w=1440"
+        width: 1440
+        height: 914
+        isCached: true
   - title: "Can Trump be tried for impeachment after leaving office? Would he keep his pension?"
     excerpt: "This is raising questions about whether he can even be tried for impeachment, since he'll already have moved out of the White House — and whether he'd still enjoy the benefits accorded to former presidents if the Senate convicts him."
     publishedDateTime: 2021-01-15T12:33:00Z
@@ -1056,6 +1072,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "1XEI+MEIj+0ctEVcgfVrMtXRtMF0h6POT/xz/C1xkqGfGkMzME0ScFsCD2Wr/dizumNlwdPAEji0x8Zb6xI+Y4lqcBRl5NDUvg9zSBBGma0+Aq/xzaIQxC847XJg2GWH3HZmqunut2kiIsGkoD0h9BfJuDMLKF1YrVZOrDKoP1Xnb96+LSgRBTBu4x1mz0I1N73dPh9QcL8+UprkY+uBXbXc8t1qun+Se5rLJHF8gjF6aTotgKNLlhhTQeKPd3DpldNwEX3TFxsm2dTM9W/twVnFt3mNFQIsdq76X5a/E1F25LFak2mMxIzJEW4lMpYS99l559IEG9q0EwZerbW0qXdXIKk8Jgw0J5S7HS79UVk=;B+wEZlnb91B/nH6RwXKd6A=="
+secured: "6w5ze/ORFaMNfncG8q2e6dvkBksqUXcsm4nePgKZMygLvAs2rPgcXRxpnZOLkcN2dliXux6yeA75XQtGRdrHtOf9bPszbv3Nf55PH7HLByzjPLmR0XVNsC+2THZDnl4h9kQ8NOWwjxpGgBSxlKeUyIQIN6DxxCU7pY9Tz2qkPljID2duTLIEpUJerEu5S2mIjgIdJibMBJWFnacDpPD3gGwVJ+2yF859Asl6wk/yEqBE20tC0uAr/bMNfbOVmOioLfpS2FjqgZ6YzChpSsjIHCFuDrklEjVsj2jJq/TFfcUYEQ57D6miasYiQ40nSbuVfxX9l08PI2UTJb47FuV6w8MgDU+KejNO1v60BfAg7gKqr8G4ZEFAd51AIM1ihEanQ22IvwGr8ymdaHygHHbkZZ8Kvovjj2ec4se5gElJp2TP+raZ1gXZTq6o97gV2bjWo9/UF6ISAXCvON4aE1xVEMn0S+xZcs1z2h+ebObHXnoP+Jjcs0CVToRmY1uQdRy6SQ0h5IlU6fhTIYFR6CjFDg==;PaXbyXTXPj1X1rsXYuvscw=="
 ---
 

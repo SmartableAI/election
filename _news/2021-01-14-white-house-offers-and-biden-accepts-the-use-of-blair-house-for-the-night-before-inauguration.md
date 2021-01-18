@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "If Biden halts border wall, it could cost taxpayers billions, CBP chief warns"
+    excerpt: "President-elect Joe Biden is promising that border wall building won't continue under his administration, but with hundreds of miles under construction, the head of Customs and Border Protection (CBP) is warning that shutting down construction could cost taxpayers billions."
+    publishedDateTime: 2021-01-09T22:25:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QQ7UW30u_NQ/biden-border-taxpayers-billions-cbp"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-taxpayers-billions-cbp.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-taxpayers-billions-cbp.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cb36dbe-eada-4977-abd7-6669263e1345/a159a8e6-35c5-4f32-aa31-c8e2af9ce0ae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden calls on protesters to 'pull back,' says their actions border on 'sedition'"
     excerpt: "President-elect Joe Biden minced no words Wednesday afternoon in response to the protesters who stormed Capitol Hill, saying that their actions “do not reflect a True America” and “border on seditious.”"
     publishedDateTime: 2021-01-06T22:37:23Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/vice-president-pence-thanks-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/vice-president-pence-thanks-us-troops-at-fort-drum/2021/01/17/810ee532-592b-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 1024
         height: 698
         isCached: true
+  - title: "Hear Vice President Mike Pence’s comments at Lemoore Naval Air Station"
+    excerpt: "As his final days as vice president come to a close, Mike Pence shared some thoughts on the Trump administration's accomplishments during a stop at Lemoore Naval Air Station on Saturday."
+    publishedDateTime: 2021-01-17T03:36:00Z
+    webUrl: "https://www.fresnobee.com/news/politics-government/article248564615.html"
+    type: article
+    provider:
+      name: The Fresno Bee
+      domain: fresnobee.com
+    quality: 35
 
 secured: "XmfX8J1KUboAzJA0dFhkdduYQ20l+jYOjyq/gbzGXM0rJnAKbSH5Bv2B4brgyimqDJQl0M8UBtS1L+o7k5xVF9+pj7K3AhNM2hBvDA8cyN3ivzEgApSSWkmekhVkrkoKaRsXsQluxdnzmEj0L9ASqGiGnyt5vWHihTH2DAD2dJsmSFM+jsySf1ghkvDrRofdQvMPucIRpUapdMR9bo8iatDNQOl3Kn7FWH0zihn46nRULRQwXem9fL3LCtuphnFCgyNNVWEnJyQFRsdH+msp7QsqA2BFtNlaA9IV8Mvd8EvU2bziw3Hzw8E80zNI7vegI4yU0TPD0bYvOXM9ri2/sU22uV485keluxvTHI7Dws0=;0zyVQye4jFS+QEiNZIus0g=="
 ---

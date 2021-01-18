@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-20-biden-taps-brenda-mallory-to-lead-white-house-council-on-environmental-quality.md",
+      "title": "Biden taps Brenda Mallory to lead White House Council on Environmental Quality",
+      "excerpt": "In Wilmington, Del., on Dec. 19, President-elect Joe Biden introduced Obama administration veteran Brenda Mallory as his pick to serve as the first Black chair of the White House Council on Environmental Quality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/politics/biden-taps-brenda-mallory-to-lead-white-house-council-on-environmental-quality/2020/12/19/388f9b95-4659-4807-b0d1-2b0b577c601d_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/politics/biden-taps-brenda-mallory-to-lead-white-house-council-on-environmental-quality/2020/12/19/388f9b95-4659-4807-b0d1-2b0b577c601d_video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/12-19-2020/t_268efdbded95415b901ce57088758844_name_20201219_bidenclimateintro_mallory__EDITED_pool_thumb2.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+          "width": 1484,
+          "height": 834,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-19T14:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-jim-carrey-hanging-up-his-joe-biden-snl-impression.md",
       "title": "Jim Carrey hanging up his Joe Biden ‘SNL’ impression",
       "excerpt": "Jim Carrey is turning in his aviators and giving up his gig of impersonating Joe Biden on \"Saturday Night Live.\"",
@@ -1548,63 +1600,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-biden-picks-marcia-fudge-for-hud-and-tom-vilsack-for-agriculture-secretary.md",
-      "title": "Biden Picks Marcia Fudge for HUD and Tom Vilsack for Agriculture Secretary",
-      "excerpt": "Ms. Fudge, a House member from Ohio, would be the second African-American Biden cabinet member chosen in two days. Mr. Vilsack would reprise his role from the Obama administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/08/us/politics/08dc-bidenhud1/08dc-bidenhud1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/08/us/politics/marcia-fudge-hud-tom-vilsack-agriculture.amp.html",
-      "publishedDateTime": "2020-12-08T18:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

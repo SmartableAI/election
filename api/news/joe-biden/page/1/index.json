@@ -119,7 +119,7 @@
       "originalUrl": "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1548,
+      "heat": 1568,
       "tags": null,
       "images": [
         {
@@ -839,7 +839,7 @@
       "originalUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director",
       "featuredContent": null,
       "highlight": null,
-      "heat": 465,
+      "heat": 485,
       "tags": null,
       "images": [
         {
@@ -1304,6 +1304,63 @@
       ]
     },
     {
+      "path": "_news/2021-01-07-biden-pick-for-dept-of-justices-top-civil-rights-post-has-called-for-partially-defunding-police.md",
+      "title": "Biden pick for Dept. of Justice's top civil rights post has called for partially defunding police",
+      "excerpt": "President-elect Joe Biden is expected to pick Kristen Clarke, a civil rights lawyer, as Assistant Attorney General for the Civil Rights Division of the Department of Justice, which is expected to be a prioritized role in the Biden administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police",
+      "originalUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d358d2cc-f940-473b-bfb7-5e489ad2caa5/4bf5cd6b-a53b-4fb6-9b9e-3b41fa25e8b0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police.amp",
+      "publishedDateTime": "2021-01-07T04:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-morale-has-been-gutted-can-biden-restore-the-dojs-battered-reputation.md",
       "title": "'Morale has been gutted': can Biden restore the DoJ's battered reputation?",
       "excerpt": "Biden may well find his best intentions tested early on as the Trump administration has been busy planting legal landmines in his path",
@@ -1492,49 +1549,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-explainer-bidens-iran-problem-is-getting-worse-by-the-day.md",
-      "title": "EXPLAINER: Biden's Iran problem is getting worse by the day",
-      "excerpt": "Joe Biden has an Iran problem. And, it’s getting more complicated by the day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/explainer-bidens-iran-problem-is-getting-worse-by-the-day-2021-1",
-      "originalUrl": "https://www.businessinsider.com/explainer-bidens-iran-problem-is-getting-worse-by-the-day-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/explainer-bidens-iran-problem-is-getting-worse-by-the-day-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-bidens-iran-problem-is-getting-worse-by-the-day-2021-1?amp",
-      "publishedDateTime": "2021-01-05T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

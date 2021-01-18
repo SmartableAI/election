@@ -32,21 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "Biden inaugural rehearsal rescheduled, Amtrak trip canceled over security concerns: report"
-    excerpt: "Security concerns in Washington, D.C., ahead of the scheduled inauguration of President-elect Joe Biden have resulted in some scheduling changes, Biden’s staff said Thursday, according to a report."
-    publishedDateTime: 2021-01-15T03:58:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/27sjqFlsUL4/biden-inaugural-rehearsal-rescheduled-amtrak-trip-canceled-over-security-concerns-report"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-inaugural-rehearsal-rescheduled-amtrak-trip-canceled-over-security-concerns-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inaugural-rehearsal-rescheduled-amtrak-trip-canceled-over-security-concerns-report.amp"
+  - title: "Biden marks MLK Day by volunteering for hunger-relief group"
+    excerpt: "With an eye toward reuniting the country after the turbulent presidency of Donald Trump, President-elect Joe Biden marked the Martin Luther King Jr. federal holiday by volunteering."
+    publishedDateTime: 2021-01-18T18:24:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mVufe1g1YYI/biden-mlk-day-volunteering-hunger-relief-group"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mlk-day-volunteering-hunger-relief-group.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mlk-day-volunteering-hunger-relief-group.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/monaco.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden tweets about impeachment vote, reminds Senate of 'other urgent business'"
+    excerpt: "After the House voted to impeach President Trump Wednesday, President-elect Biden said the chamber had held the president \"accountable\" and asked the Senate to do their \"constitutional responsibilities\" on impeachment – along with \"other urgent business.\""
+    publishedDateTime: 2021-01-14T08:12:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_e4Cjf8I954/biden-tweets-about-impeachment-vote-reminds-senate-of-other-urgent-business"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tweets-about-impeachment-vote-reminds-senate-of-other-urgent-business.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tweets-about-impeachment-vote-reminds-senate-of-other-urgent-business.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/842741ec-292f-437d-afc7-2d5141a1b15d/b57fc550-ecbd-46cc-9939-67655ddecf5f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden DOJ Civil Rights pick stands by defense of controversial ex-Women’s March leader"
+    excerpt: "Kristen Clarke, President-elect Joe Biden's choice to run the Justice Department's Civil Rights Division, defends backing a former leader of the Women’s March who was accused of anti-Semitism."
+    publishedDateTime: 2021-01-14T22:41:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SZ2F5u54MsU/biden-doj-pick-defense-ex-womens-march-leader"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-pick-defense-ex-womens-march-leader.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-pick-defense-ex-womens-march-leader.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ccedca73-8447-45bd-9bc7-2b1cc2a3e532/44618639-0f4e-4ea7-8a23-802511106a18/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden planning several executive orders on first day in office, including rescinding travel ban"
     excerpt: "President-elect Biden is planning to sign several executive orders on day one of his presidency, incoming chief of staff Ron Klain announced in a statement. "
@@ -63,6 +95,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Biden-.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "'What the hell is wrong with them?': Biden rips Republicans for refusing to don masks during siege"
+    excerpt: "President-elect Joe Biden is taking aim at some Republican members of Congress who refused to wear masks while huddling in secure rooms last week during the storming of the Capitol."
+    publishedDateTime: 2021-01-15T23:16:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Toh_TUvjSTI/biden-slams-congressional-republicans-for-refusing-to-wear-masks-amid-capitol-siege"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-slams-congressional-republicans-for-refusing-to-wear-masks-amid-capitol-siege.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-slams-congressional-republicans-for-refusing-to-wear-masks-amid-capitol-siege.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "9hn4GCW/rNK0oAdOllnnnMCligfLWUgpFAL0Z/2OefwySQSFXG8CsjKd5mRXcg3a3CYYBeF22pLtzZ0cEqa2ceJFluQeutCT9c7KaTrpkEr+W2RXC866YbAEAyVe7g+jttRVCuhvVbRJDOvnT/qEewHyc8evK0BHqn2KDOv2uf4f3+lYSQi38QG3VgdNtKUzsyH7FUydoeFgsHkNpmMsvwlxGuxufi33/xD1FzqOaecHu1N2b2geRwiWcSNgipFVIbKjKjH6ySiO9RP63QI0b7jeu58Udd4MUDIhKIiydOq3UL60S6OKOq8V0QH0c/nabMO6UcrRtHlbpiok3zJ1GWfEjRuF2ZapVlWJum/ca2E=;NuJp5htuEEvap0ndAJ2wew=="

@@ -463,6 +463,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Trump presidency was marked by battles over truth itself. Those aren’t over."
+    excerpt: "Scholars say susceptibility to false beliefs and conspiracy theories preceded Trump and will extend well beyond him."
+    publishedDateTime: 2021-01-18T18:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-trump-presidency-was-marked-by-battles-over-truth-itself-those-arent-over/2021/01/18/3bee0050-5750-11eb-a931-5b162d0d033d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-trump-presidency-was-marked-by-battles-over-truth-itself-those-arent-over/2021/01/18/3bee0050-5750-11eb-a931-5b162d0d033d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-trump-presidency-was-marked-by-battles-over-truth-itself-those-arent-over/2021/01/18/3bee0050-5750-11eb-a931-5b162d0d033d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R6IE53SVAYI6XKAX4XT7RJAG2Y.jpg&w=1440"
+        width: 1440
+        height: 914
+        isCached: true
   - title: "Live Updates: Biden pauses to honor King as preparations continue for inauguration"
     excerpt: "Washington — President-elect Joe Biden and incoming first lady Jill Biden are honoring the life of Dr. Martin Luther King, Jr., on Monday, two days before Mr. Biden is sworn-in as president of the United States. The Bidens are recognizing the federal ..."
     publishedDateTime: 2021-01-18T15:19:00Z

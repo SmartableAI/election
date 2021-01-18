@@ -636,6 +636,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Brit Hume: Senate Dems may not move forward with Trump impeachment as attention shifts to Biden"
+    excerpt: "The news media landscape is about to shift from years of daily coverage of President Donald Trump to the new administration of President-elect Joe Biden, said Fox News senior political analyst Brit Hume on Monday. Appearing on \"America's Newsroom,\" - now ..."
+    publishedDateTime: 2021-01-18T18:13:00Z
+    webUrl: "https://www.foxnews.com/politics/brit-hume-shifting-media-landscape-talking-about-joe-biden-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/brit-hume-shifting-media-landscape-talking-about-joe-biden-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brit-hume-shifting-media-landscape-talking-about-joe-biden-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 138
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f4cd6bf6-d77f-41a9-8861-b3260ad42bbc/b6399996-d9d7-4095-b25c-c8e2bbca99ca/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AOC says ‘our main priority is to ensure the removal of Donald Trump’"
     excerpt: "Cortez on Sunday called for articles of impeachment against President Trump to be introduced on the House floor following the Capitol riot, insisting he represents a"
     publishedDateTime: 2021-01-10T16:36:00Z
@@ -846,6 +862,6 @@ related:
         height: 562
         isCached: true
 
-secured: "nTz1BNwqPEfGu9W4hGotSC9PblgBNgTQkqXlobAg9MLxh6PiLIyDE9ojHrF3hussk8qU8ac0IqocxEUA1jIUAXZQwfkCeFvfJ6aDEtbx8sC8S6G0K5t58aQHdqvUgaQB4OTtflpUXK18dL8cf4SvETLiLv+oKKuPv2+EU7WDDu+TqWUAkgIIYdWhHJh8yEtVEn3NfKSkSCcrr33FbaRL2YtH21u/lruybmZUyO/gd0Uy1+I6Fh4vhkT756NhQlBdvKgpJ2N73czHaT9M9yIzmjZfa81sqDzXwXSmTjim3gmDBUJ+wxNi3ouW5Op3Ztj94r98Dh51XYvemfynzXTWsiX7bE2mOVWmm2u/X6DlnNc=;eJbeWkLlxUbAUtHwYnpjLQ=="
+secured: "AYJVTaXKMnZcx1GWY1+i9wcLMqF5jcldNE3MYRU2TiqjLnlzYfzDwkAzoPLZmAYZtQZ8vl1kMxg0ucV4Ek7OE/yj3D/2KrKPtY3TBmiVH2Nn7Ij2W0IZEyxAzwOozModp+5ixUlYsPCmr+MYNGQ/WToESZRbBqRJse/0q845CxoKPIEq8+TE7h9Lzr2wZKanqcwEwN8V1AXLf69rK+B3UYMd8a2rbWcQvVycHwQ0itgyPWDjcEVwQlVuGI6PeqC/RROgpqMxg4W8VjqCbY0wrjWx6tlBNFaw4f4CoXiIzH0TBGiJsiw17TeZjJuc8BP7gLBojOtfpt/Nd6bkMEu2MV4wgztgPyuis52O+knRMT/muicNWkqj3L4RSGErSIk9VeLF1b/9tmlYx4Uvnsl+SYQl1domciGUy7FMUlR5QVQeEDZBDRlYBUNDcgYJBV71JZ2iHx09WF3hBmAclsjFK5QHTwpeOH9rfYGYm6kU72IJFOHcebV1ZFag14BtRRPkrNhoEBnS6DN/MwYcTecWQA==;KAfDEf0b4BZPoU/usOmlsA=="
 ---
 

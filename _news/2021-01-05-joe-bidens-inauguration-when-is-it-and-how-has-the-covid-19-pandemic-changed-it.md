@@ -80,86 +80,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden's Cabinet picks: Full list"
-    excerpt: "President-elect Joe Biden will be sworn in as the 46th president of the United States on Wednesday. In preparation for his presidency, Biden has already announced his selections for various administration positions, pending Senate confirmation."
-    publishedDateTime: 2021-01-17T14:55:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X7XmlmgwDks/biden-cabinet-picks-full-list"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-picks-full-list.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-picks-full-list.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39ff5970-808f-43da-a045-4ebc6c60ff3e/e6788d58-c8b1-4f29-81b9-7f58f89499c9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden: 'Not afraid' to take oath outside amid inauguration security concerns"
-    excerpt: "President-elect Joe Biden says he’s “not afraid” to take the oath of office outside during his inauguration next week."
-    publishedDateTime: 2021-01-11T20:24:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yBbMG1YspiY/inauguration-security-concerns-biden-not-afraid-oath-outside"
-    ampWebUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Former DHS Secretary Wolf: 'Every trust and confidence' Biden inauguration will be secured"
-    excerpt: "Former Acting Homeland Secretary Chad Wolf praised the security measures around President-elect Joe Biden's inauguration next week in the wake of last week's deadly Capitol riots."
-    publishedDateTime: 2021-01-14T16:41:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pdKb9k6VJYo/former-dhs-secretary-wolf-confidence-biden-inauguration-secured"
-    ampWebUrl: "https://www.foxnews.com/politics/former-dhs-secretary-wolf-confidence-biden-inauguration-secured.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-dhs-secretary-wolf-confidence-biden-inauguration-secured.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed13c8e8-7f56-4ed9-8fea-026027498e79/37ee0fa3-df46-444c-b4d0-43eb1ac81ddb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Insider attack feared days before Biden’s inauguration, service members in DC vetted by FBI"
-    excerpt: "Defense officials in Washington, D.C., are concerned about an insider attack from service members deployed to Washington, D.C., for President-elect Joe Biden’s inauguration, prompting the FBI to vet all 25,000 National Guard troops in the city, Fox News has learned."
-    publishedDateTime: 2021-01-18T03:48:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pXng9ZrfOAE/insider-attack-feared-days-before-bidens-inauguration-service-members-in-dc-vetted-by-fbi"
-    ampWebUrl: "https://www.foxnews.com/politics/insider-attack-feared-days-before-bidens-inauguration-service-members-in-dc-vetted-by-fbi.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/insider-attack-feared-days-before-bidens-inauguration-service-members-in-dc-vetted-by-fbi.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "GOP senators to attend Biden inauguration Wednesday after objecting to his Electoral College win"
-    excerpt: "At least half of the eight GOP senators who voted against President-elect Joe Biden's Electoral College victory will be attending the inauguration Wednesday in Washington to support the peaceful transfer of power, Fox News has learned. "
-    publishedDateTime: 2021-01-17T01:08:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qz8NO4WJtJQ/gop-senators-attend-biden-inauguration-electoral-college-win"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-attend-biden-inauguration-electoral-college-win.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-attend-biden-inauguration-electoral-college-win.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/jULY.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Live Updates: Biden inaugural rehearsal rescheduled as security preps in high gear for inauguration"
     excerpt: "A planned rehearsal of the inauguration, initially scheduled for Sunday, has been moved to Monday as event planners continue to make adjustments in response to the Jan. 6 riot at the Capitol, a report said."
     publishedDateTime: 2021-01-15T06:05:49Z
@@ -175,22 +95,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba7e5f07-7496-4e3c-a336-41ea4058e526/620f28f6-9217-453a-8e38-0b29b9dcd214/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden: 'Not afraid' to take oath outside amid inauguration security concerns"
-    excerpt: "President-elect Joe Biden says he’s “not afraid” to take the oath of office outside during his inauguration next week."
-    publishedDateTime: 2021-01-11T20:32:00Z
-    webUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside"
-    ampWebUrl: "https://www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/inauguration-security-concerns-biden-not-afraid-oath-outside.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 132
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011684189408.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "George W. Bush will attend Biden inauguration to witness 'peaceful transfer of power'"
     excerpt: "Former President George W. Bush and former first lady Laura Bush will attend President-elect Joe Biden’s inauguration in Washington D.C. later this month."
@@ -208,29 +112,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "American Airlines relocates crews, halts alcohol service on DC flights before Biden inauguration"
-    excerpt: "American Airlines is beefing up security measures ahead of Inauguration Day, increasing staffing in Washington, D.C., and relocating crews to hotels closer to airports."
-    publishedDateTime: 2021-01-14T19:40:00Z
-    webUrl: "https://www.foxnews.com/lifestyle/american-airlines-will-relocate-crews-from-dc-wont-serve-alcohol-on-dc-flights-during-inauguration-week"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 102
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AmericanAirlinesFromInsideIstock.jpg"
-        width: 1280
-        height: 721
-        isCached: true
-  - title: "Biden Must Find Words for a Wounded Nation in Inauguration"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2021-01-17T20:55:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/17/biden_must_find_words_for_a_wounded_nation_in_inauguration_533687.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "3R1fXWppLG/f2VQMS4ssQA05HJ8/hBWvX2vt5Ps5m1t0gg8O3OS9qwh2FLIh7vYQUwYf43g6jjGbNCzLY4Bwn6FgeWAUsr0QpJh5IsCg/URlOx0ekfrXh+PC07bZsYAP8L2KaK3glJcambJUePZo9D1c2BzbUSkAwBu5pK9Eb/Q6rojL9+PKVK5Q60O50HhBlg9YSnYeWmglDwpI7RiZYiI4kbCTTV3/P0AMJGlEEy0Nz9wQ9dqZqiwPZeqkaMqwiNKt05X+dngH5U0VwHzbqsvM+IR8NLphpnCloHjfcg9Gekh0ne66/acHSBqe3on8q1ipR4sej8KHhSCuTvRyCjG5lk2L8oIIuyD7RsX4bscQxLnKjhscIiurnO4nJOj9NfcvfxVC38SQ6X4ovFtSoznuYOa2C1+uDOY80QXQd7UQfJpbujg9yZJqXziGF7HhQ+/sCsBXNBWROzelSwcZsYDdgaRA68FqwkhIX8+7HqqRQoQga9j8klymOjFTyEz3H+BIxTKHCmzZkYKd95JXAA==;mQvmdALlENJ2afSQIZ8qmQ=="
 ---

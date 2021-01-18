@@ -1,20 +1,20 @@
 ---
 category: news
 title: "VP Mike Pence, at Lemoore naval base stop, salutes troops and Trump policy achievements"
-excerpt: "Vice President Mike Pence landed Saturday at Lemoore Naval Air Station, where he will pay tribute to what he views as the Trump Administration’s foreign policy legacy in an afternoon address to service members."
+excerpt: "Vice President Mike Pence thanked U.S. Navy sailors and their families for their commitment to protecting the nation as he visited Lemoore Naval Air Station on Saturday afternoon. Pence, accompanied by his wife,"
 publishedDateTime: 2021-01-16T20:18:00Z
-originalUrl: "https://www.fresnobee.com/news/politics-government/article248540260.html"
-webUrl: "https://www.fresnobee.com/news/politics-government/article248540260.html"
-ampWebUrl: "https://amp.fresnobee.com/news/politics-government/article248540260.html"
-cdnAmpWebUrl: "https://amp-fresnobee-com.cdn.ampproject.org/c/s/amp.fresnobee.com/news/politics-government/article248540260.html"
+originalUrl: "https://www.sacbee.com/article248540260.html"
+webUrl: "https://www.sacbee.com/article248540260.html"
+ampWebUrl: "https://amp.sacbee.com/article248540260.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/article248540260.html"
 type: article
 quality: 82
 heat: -1
 published: false
 
 provider:
-  name: The Fresno Bee
-  domain: fresnobee.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Election
@@ -556,6 +556,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "0pjTocUnTyTN35+XywbO58x0HeJOqSPfQUpTNWeUkygVQGLuye5YIvx+ZITDR1CCm2Xi02m/aT51kcFhs29qArqj/CrL+RVPrapptQauQBC9JSm2kNnU+y4A+JSpRoeyR2DykaYzoXB5r1KJv6tpaMkP6sXr3iv2/FxIHOJPy6Ctqmv9eH7Q9EPjdnhC1sHG6AqBCvYV9nXrDtfUzpro/ZTpIw18F1Ia+2BZAwnEDHOJjyDHbhgJ6HVWevfYwMalIoMUlbAUdVt2e+1Q1IAjx10jVOz0e04AkQFVMfkgcnACf2b2P9w9iKgN3y5zqb4hT6HdeNWttwHH4OaJYcdZ7Y2oUhxqy/Tj9H4pSjlfnFg=;XXtKHbpePNJzJyOTJ7VzCw=="
+secured: "DUOm305QpHRZdfYmbmZR+/2YF6b0g75qp3uyRVV1nO7dewZqfjkaeXvWbu6FYzNH7lC1luZmwDbJTraRnF+GhyxLO8Pl3XNoR0nu1EooxTlYFUKFo1FPRcjK1fV7Uj7skej0ThysWNuHYbz/iKwrBZLaeERnr2qrA5qiy46+WoSdPL/cIeeJVfGKpTFsjkad3LbXpDZ62QuUn0sB9Tz+Sfo/TnwdGCOxPf9HDdTXMhcSsYc222bkc23TU1/hvlGnC7YviU5frH8uYOA5zPI1X5WpOcYhJhl7fAkC0GIst5LracPal0odU/GjeiM6m+dgcFspxqKJ+UM9KhpLisXxlR1OEfhu+MG5IOk128bARHw=;qKi5puqi15kwuHYF4zwL2Q=="
 ---
 

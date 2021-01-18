@@ -110,7 +110,7 @@
       "originalUrl": "https://www.washingtonpost.com/national/vice-president-pence-thanks-us-troops-at-fort-drum/2021/01/17/810ee532-592b-11eb-a849-6f9423a75ffd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -302,6 +302,49 @@
       "topics": [
         "Election",
         "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-pence-speaks-at-memorial-service-for-yeager-in-west-virginia.md",
+      "title": "Pence speaks at memorial service for Yeager in West Virginia",
+      "excerpt": "Retired Air Force Brig. Gen. Chuck Yeager was remembered at a memorial service Friday as a hero, legend and friend who would go out of his way to help others.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/b078c8d59eda2acc799d06c48fc71a2e",
+      "originalUrl": "https://apnews.com/b078c8d59eda2acc799d06c48fc71a2e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/5d3b66fe19a346e8afdfbcb1cd0aac41/3000.jpeg",
+          "width": 3000,
+          "height": 2001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-15T22:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Mike Pence"
       ]
     },
@@ -866,7 +909,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1239,
+      "heat": 1259,
       "tags": null,
       "images": [
         {
@@ -1423,7 +1466,7 @@
       "originalUrl": "https://www.newsweek.com/twitter-stops-hang-mike-pence-trending-1560253",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1563,63 +1606,6 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-hear-why-klobuchar-fist-bumped-pence-after-electoral-certification.md",
-      "title": "Hear why Klobuchar fist-bumped Pence after Electoral certification",
-      "excerpt": "Sen. Amy Klobuchar (D-MN), tells CNN's Chris Cuomo about the moment Congress finalized President-elect Joe Biden's victory, and about why she chose to fist-bump Vice President Mike Pence after he read the election results.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/STVfKhlsmZw/sen-amy-klobuchar-mike-pence-fist-bump-electoral-certification-cpt-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/STVfKhlsmZw/sen-amy-klobuchar-mike-pence-fist-bump-electoral-certification-cpt-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210107214242-klobuchar-pence-cpt-vpx-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/01/08/sen-amy-klobuchar-mike-pence-fist-bump-electoral-certification-cpt-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/08/sen-amy-klobuchar-mike-pence-fist-bump-electoral-certification-cpt-vpx.cnn",
-      "publishedDateTime": "2021-01-07T18:56:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
         "Mike Pence"
       ]
     }

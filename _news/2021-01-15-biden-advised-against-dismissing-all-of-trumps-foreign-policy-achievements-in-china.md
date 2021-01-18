@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump to depart Washington, DC, at 8 a.m. on Biden’s Inauguration Day"
+    excerpt: "Donald Trump will not be attending Joe Biden’s Inauguration on Jan. 21, 2021. Olivier Douliery – Pool/Getty Images Only a small number of guests will be allowed inside the heavily barricaded ..."
+    publishedDateTime: 2021-01-18T17:10:00Z
+    webUrl: "https://nypost.com/2021/01/18/trump-will-leave-washington-dc-at-8-a-m-on-inauguration-day/"
+    ampWebUrl: "https://nypost.com/2021/01/18/trump-will-leave-washington-dc-at-8-a-m-on-inauguration-day/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/18/trump-will-leave-washington-dc-at-8-a-m-on-inauguration-day/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-10.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "TOk01vB1CLhwKnMY3iywPnbIm0VWAR75mrAvK+lwF9t4YldabNeA+9nqQhWrE9BW6I8T2YN/5P06iTgbG+bYZphAy1aKUMLb0FTGvUGmiMl/Vl0kiACOR4M+A+GJQZizDQrMgsQGTIprzzvzjBe94f7jvMBEMtjvafEgXJgfmomKJR+SLH+yyVR43ubj2Rw8cPlY7Nccau4cG/OHeC4Nr2Hob+zcTqMuREc/OPnTkWvTm3n+r9mhmXCpbodhxfAMnqwP/oHhnXSzJ6aIwC5y7GQO0SvGQUX2M/w6nui2Az+ZiB/Hwut/EvMehRJIIYdqiRJPGfYvw3+Icp5lkvSWQeo9ewi0y9vE5kzghgfE7FE=;znQm46RIdFd2MCojkSJkrA=="
 ---

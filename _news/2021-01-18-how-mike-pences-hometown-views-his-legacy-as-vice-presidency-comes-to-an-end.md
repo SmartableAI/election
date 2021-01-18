@@ -59,6 +59,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hear Vice President Mike Pence’s comments at Lemoore Naval Air Station"
+    excerpt: "As his final days as vice president come to a close, Mike Pence shared some thoughts on the Trump administration's accomplishments during a stop at Lemoore Naval Air Station on Saturday."
+    publishedDateTime: 2021-01-17T03:36:00Z
+    webUrl: "https://www.fresnobee.com/news/politics-government/article248564615.html"
+    type: article
+    provider:
+      name: The Fresno Bee
+      domain: fresnobee.com
+    quality: 35
 
 secured: "8YNElGG8FAKBGZSbVIOcM8yYnJsXxh245FXiX3DNtuyeSDD/BIdGDLTLhy6v5I2hCWcs4InmI4HHu5ScggCevTSxbNSuxCNuVx0F+Rk9o2YyTjvvt+lMBoERxzufSvblW9naS6YezlCwpQOT+WRudoCNgU+mMV1Stu5aTCnIPJ08gidQeBxgYT1bP/mJ/qEjRJcKqYEt/WEfj5sWK3ENjcc7EjlocS0ezY8JC/DwNKeRWaKvaDwQYgjsZgLv9HMPg9Ax7PLOvbvq36t5OyfEt6QR2RfB7GQbWe3RiUZ52I6yvuFS+NGFRPXxDh/rZeZ9FzNuVDxBF4JeC527T9Bwe/kDF/kzyPaIdVhv6oiGrvfnlDl86nZWcsdztAQlRfhhzu+/SkBla2fTRIHMVDjXVZcUBOdIIR0027KrL5DaKobLRqIDGfbikn1khEuqkCVAjVyAPCtnyhq1b4mQvBrmu8Wr0chg/M+oZ3fFX9z/+SDAkafj58NdgP3K8LdEZ9UsSwB+bXAqSh4okgXgJgPzlg==;ZGFjmb3MtAUj4CcmlDlJ+g=="
 ---

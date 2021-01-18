@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-bold-vaccination-trump-dismal
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bold-vaccination-trump-dismal-failure.amp"
 type: article
 quality: 190
-heat: 210
+heat: 230
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5960cbca-be06-41d8-b7c0-22ec824ae73b/849844c6-d797-457a-bae7-1a00a360bd22/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump to depart Washington, DC, at 8 a.m. on Biden’s Inauguration Day"
+    excerpt: "Donald Trump will not be attending Joe Biden’s Inauguration on Jan. 21, 2021. Olivier Douliery – Pool/Getty Images Only a small number of guests will be allowed inside the heavily barricaded ..."
+    publishedDateTime: 2021-01-18T17:10:00Z
+    webUrl: "https://nypost.com/2021/01/18/trump-will-leave-washington-dc-at-8-a-m-on-inauguration-day/"
+    ampWebUrl: "https://nypost.com/2021/01/18/trump-will-leave-washington-dc-at-8-a-m-on-inauguration-day/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/18/trump-will-leave-washington-dc-at-8-a-m-on-inauguration-day/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-10.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "ihqqs397P1JyNjmUbW5haOdYeoKSxbHQPpFBDZ/Mzl0Wv1Hwa+Zai9gWWvMWQ5iEBYdNIxFKZRkv/Fx8kSrAeVQwP7aOVyAZhDJYmL+y+9ySSPJ4aqVLhgjPMrdU6U2wCWQmgM/9OB/RL0/QwEFuitzN2OfW5BYLPHzuvbLGTmh320EJ6TG8pTCXk0R7v0wOSGMYwt1yoDABIBNXLc+hRsj3QFDxGswPqcIzZK9plLdb6lIvl1iBtz5AvPAKrvL1xADJaFHYATd2cedKcAYhCBkVboQp+NGgVcEN2OQIgBYiAvz4Xj+No0A2LAfYpelrdm+nbD1kKtjiBnOddaPMCtkk9UMuXAIFy54bY3diV4Y=;Z0BteLQm2xy5d34UHSDQdg=="

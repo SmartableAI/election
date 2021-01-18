@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-08-hear-why-klobuchar-fist-bumped-pence-after-electoral-certification.md",
+      "title": "Hear why Klobuchar fist-bumped Pence after Electoral certification",
+      "excerpt": "Sen. Amy Klobuchar (D-MN), tells CNN's Chris Cuomo about the moment Congress finalized President-elect Joe Biden's victory, and about why she chose to fist-bump Vice President Mike Pence after he read the election results.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/STVfKhlsmZw/sen-amy-klobuchar-mike-pence-fist-bump-electoral-certification-cpt-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/STVfKhlsmZw/sen-amy-klobuchar-mike-pence-fist-bump-electoral-certification-cpt-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210107214242-klobuchar-pence-cpt-vpx-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/01/08/sen-amy-klobuchar-mike-pence-fist-bump-electoral-certification-cpt-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/08/sen-amy-klobuchar-mike-pence-fist-bump-electoral-certification-cpt-vpx.cnn",
+      "publishedDateTime": "2021-01-07T18:56:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-biden-quiet-on-25th-amendment-calls-tells-pence-cabinet-congress-to-act-as-they-see-fit.md",
       "title": "Biden quiet on 25th Amendment calls; tells Pence, Cabinet, Congress to 'act as they see fit'",
       "excerpt": "President-elect Joe Biden has stayed mum amid calls from Democrats to invoke the 25th Amendment or pursue articles of impeachment to thwart the last two weeks of the Trump presidency. ",
@@ -1519,49 +1576,6 @@
       "provider": {
         "name": "MassLive",
         "domain": "masslive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-why-charlie-baker-isnt-planning-to-get-a-public-vaccination-like-mike-pence.md",
-      "title": "Why Charlie Baker isn’t planning to get a public vaccination like Mike Pence",
-      "excerpt": "The Massachusetts governor wants to wait until he qualifies — and isn't sure elected officials are the most effective officials to inspire public confidence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.boston.com/news/coronavirus/2020/12/18/charlie-baker-mike-pence-public-vaccination",
-      "originalUrl": "https://www.boston.com/news/coronavirus/2020/12/18/charlie-baker-mike-pence-public-vaccination",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.boston.com/wp-content/uploads/2020/12/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_wiggs_Governor_04-5fdd10a9449f2-850x478.jpg",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.boston.com/news/coronavirus/2020/12/18/charlie-baker-mike-pence-public-vaccination/amp",
-      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/coronavirus/2020/12/18/charlie-baker-mike-pence-public-vaccination/amp",
-      "publishedDateTime": "2020-12-18T13:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston.com",
-        "domain": "boston.com",
         "images": null,
         "publishers": null,
         "authors": null

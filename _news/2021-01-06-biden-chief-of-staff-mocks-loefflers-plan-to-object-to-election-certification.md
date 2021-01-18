@@ -48,22 +48,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden inauguration theme will be 'America United' despite deep divisions in country"
-    excerpt: "The theme of President-elect Joe Biden’s inauguration is \"America United,\" despite deep divisions in the country, and will be focused on a \"new national journey\" that the Biden team says will \"restore the soul of America\" and bring the country together."
-    publishedDateTime: 2021-01-11T15:25:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C9VuHRbftQw/biden-inauguration-theme-america-united"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-theme-america-united.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-theme-america-united.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Former President Jimmy Carter, wife Rosalynn, will not attend Joe Biden’s inauguration"
     excerpt: "Former President Jimmy Carter and his wife, former first lady Rosalynn Carter, will not attend President-elect Joe Biden's inauguration later this month, marking the first time the couple has missed the ceremony since Carter was sworn in as president in 1977."
     publishedDateTime: 2021-01-05T23:55:01Z
@@ -80,22 +64,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Live Updates: Biden accepts use of the president’s guest house for the night before inauguration"
-    excerpt: "Blair House, the president’s guest house, sits across from the White House on Pennsylvania Ave."
-    publishedDateTime: 2021-01-14T07:22:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s4lhujXlsdk/live-updates-biden-transition-1-14-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-1-14-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-1-14-2021.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/842741ec-292f-437d-afc7-2d5141a1b15d/b57fc550-ecbd-46cc-9939-67655ddecf5f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "GOP Senator Josh Hawley Says He Will Force Votes on Joe Biden’s Win"
     excerpt: "Republican Sen. Josh Hawley of Missouri cited election-integrity concerns around the November presidential vote. No significant evidence has emerged that would challenge the result."
     publishedDateTime: 2020-12-31T02:11:00Z
@@ -111,22 +79,6 @@ related:
       - url: "https://images.wsj.net/im-279281/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Operation Warp Speed's Slaoui says he submitted resignation at Biden's request"
-    excerpt: "Operation Warp Speed Director Dr. Moncef Slaoui on Wednesday said he submitted his resignation at the request of President-elect Joe Biden."
-    publishedDateTime: 2021-01-13T18:30:00Z
-    webUrl: "https://www.foxnews.com/us/slaoui-resignation-biden-operation-warp-speed"
-    ampWebUrl: "https://www.foxnews.com/us/slaoui-resignation-biden-operation-warp-speed.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/slaoui-resignation-biden-operation-warp-speed.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/slaoui.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Biden calls on protesters to 'pull back,' says their actions border on 'sedition'"
     excerpt: "President-elect Joe Biden minced no words Wednesday afternoon in response to the protesters who stormed Capitol Hill, saying that their actions “do not reflect a True America” and “border on seditious."

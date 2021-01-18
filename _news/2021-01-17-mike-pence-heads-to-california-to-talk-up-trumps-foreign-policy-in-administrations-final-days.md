@@ -2,19 +2,19 @@
 category: news
 title: "Mike Pence heads to California to talk up Trump’s foreign policy in administration’s final days"
 excerpt: "Vice President Mike Pence is landing Saturday at Lemoore Naval Air Station, where he will pay tribute to what he sees as the Trump Administration’s foreign policy legacy in an afternoon address to service members."
-publishedDateTime: 2021-01-16T20:38:00Z
-originalUrl: "https://www.sacbee.com/news/politics-government/article248542320.html"
-webUrl: "https://www.sacbee.com/news/politics-government/article248542320.html"
-ampWebUrl: "https://amp.sacbee.com/news/politics-government/article248542320.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article248542320.html"
+publishedDateTime: 2021-01-16T21:38:00Z
+originalUrl: "https://www.sanluisobispo.com/news/california/article248542320.html"
+webUrl: "https://www.sanluisobispo.com/news/california/article248542320.html"
+ampWebUrl: "https://amp.sanluisobispo.com/news/california/article248542320.html"
+cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/california/article248542320.html"
 type: article
 quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: SanLuisObispo
+  domain: sanluisobispo.com
 
 topics:
   - Election
@@ -1441,6 +1441,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "Kx+6w7HZyDM9TQEBvbLwByKtm5l1N7/cmG/OI9jSH4fd4XlzeEmxlOUxxB+V3qpTM2No1kQ/jFuweOIeTFCg707J87kyIXvf7t0AplQaQ9O16dXhMb+OsOsiAjFO7nCKxDwuk/+bVRutmgCSJDV2HXhLuDDv4xmhjKplvCbVuyks9Yg1y3EGY5QtuqUHC0nWsWm+nsX2ms6fXcGbiCxMboSdrCPkjqfVjFLDXQlyELYgKz/3VooKMrfLXrdbLr0exR+h3OMzpHAuAQnf28zOfQ7EsTYsxRpOP+wQNEaDHKNtQX1GYOzswumVRZhjoqbfthCMUNuWpyO9RGV8+PnXXeez8WOo35uQBkEBfOqxavdzGOjFM0sTWn0EwaFcp7mDRT5VzOY2VMXdqGix9M1WEtAfyI/8CE/Du77U0Xj597ZM43SS6ruBh5Y/iX0izpD7qt/LoqI7U+fK3MNRibcw5m57wdynHNO5RAM5Jibx+QanjJDCMCMvTj6MtsOyTrXjeYJaebN64j6Ntu+e1cGO+Q==;LMOsKyxmkvBL0+WQyafBFg=="
+secured: "sG7dgtBzYz/TRg5s6z2bVtYQntWqOW8lNuHl6hZh3QDJtjo+P67sCbhQ1f7AxwKPJ7FoBkPE2L4sBGZYCyqZgBW6ehAgPar26HKkfh3U+VNiACRHOwJMe+jSku7rfLbYRHftbNLitLq72iJwpXQ2LpC3xaZY512mY3997tpZni3yl3+9sTvykNzM6TfMTqyO69cbNtCtQELDGkoFzbfpg49FZZh4pWatZvV2XXwK9XgAMjVQ2l5D6RkOfDvQB+ksGlz/ZnkcChzU53XOUjV+irBr5VBkY45zbfIZRRztg3Tkm1IFYXZvRztrdh6bzmaJK0l/gIcYzwzXECYcdgVWdqKwuwesuzyOUG89wQ3zlriw5/E5QbRn/mY8q5XpucyZnGIst3lybg740Icr0YsZ4gnCAxdcEMdZ+FPusEae5sZl5Z+8SRja46zIJ0qEVE76xyS68LS9J2MoVMOZcCjCcSpovT8oPNTClWHe9MRuYX07Rm7LrsFM0sjfpdlyn/wPQEbpqDQr9yzJr0XfaxC2zw==;DAH8SavNYvtylcIVfVwS+g=="
 ---
 

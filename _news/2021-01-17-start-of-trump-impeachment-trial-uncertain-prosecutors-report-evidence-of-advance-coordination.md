@@ -652,6 +652,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Brit Hume: Senate Dems may not move forward with Trump impeachment as attention shifts to Biden"
+    excerpt: "The news media landscape is about to shift from years of daily coverage of President Donald Trump to the new administration of President-elect Joe Biden, said Fox News senior political analyst Brit Hume on Monday. Appearing on \"America's Newsroom,\" - now ..."
+    publishedDateTime: 2021-01-18T18:13:00Z
+    webUrl: "https://www.foxnews.com/politics/brit-hume-shifting-media-landscape-talking-about-joe-biden-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/brit-hume-shifting-media-landscape-talking-about-joe-biden-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brit-hume-shifting-media-landscape-talking-about-joe-biden-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 138
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f4cd6bf6-d77f-41a9-8861-b3260ad42bbc/b6399996-d9d7-4095-b25c-c8e2bbca99ca/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AOC says ‘our main priority is to ensure the removal of Donald Trump’"
     excerpt: "Cortez on Sunday called for articles of impeachment against President Trump to be introduced on the House floor following the Capitol riot, insisting he represents a"
     publishedDateTime: 2021-01-10T16:36:00Z

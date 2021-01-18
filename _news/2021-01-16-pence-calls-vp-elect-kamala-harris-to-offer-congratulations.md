@@ -1300,14 +1300,14 @@ related:
         isCached: true
   - title: "Mike Pence heads to California to talk up Trump’s foreign policy in administration’s final days"
     excerpt: "Vice President Mike Pence is landing Saturday at Lemoore Naval Air Station, where he will pay tribute to what he sees as the Trump Administration’s foreign policy legacy in an afternoon address to service members."
-    publishedDateTime: 2021-01-16T20:38:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/article248542320.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article248542320.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article248542320.html"
+    publishedDateTime: 2021-01-16T21:38:00Z
+    webUrl: "https://www.sanluisobispo.com/news/california/article248542320.html"
+    ampWebUrl: "https://amp.sanluisobispo.com/news/california/article248542320.html"
+    cdnAmpWebUrl: "https://amp-sanluisobispo-com.cdn.ampproject.org/c/s/amp.sanluisobispo.com/news/california/article248542320.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: SanLuisObispo
+      domain: sanluisobispo.com
     quality: 58
   - title: "Arts agency member resigns after vulgar comment about Harris"
     excerpt: "An appointee to the Ohio Arts Council resigned Friday after making a vulgar comment on social media about Vice President-elect Kamala Harris that also supported President"
@@ -1447,6 +1447,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "RuMW/G074Vge7atv5LNdorg/9MjpdXbJlAk9ODH+xOkGciMqvTETgCH6f+O92NXjyQgJ3RufV4l67jI2ML2UgRgX9bziBjIPCFz/SqnuBaKTxIfiEaeIQY6KXdyPu/aRFDP9zg0zjcTSZy6C9tb8v96Nw64mjoZRSs7V0RtaWxPHEZngPqAJ7/EqiQYBTSQKGD4+eLGufSjRBRRvEKpmyRhbYXC5ElzTKutvdvFogzhWhGkeqPOJ9GZ9s/mwuDlcN4zBb/B13taR5d0mISflWjwZbFZGHPAo2+Upeu/z0eD343LT7URqqEnDD7ovGYVLKsKXZdCyF9AksI3Zz4GqyMhdWYNX781OIX1afQocdiU=;ifaq1TuJbWPhoPcRhOGCBw=="
+secured: "JPzLTMOxJxxq5Fqza1z5wsP6Tr/qwubowiMjVuGkFbMCybSY9qWQXsFCNu7UzjnOcIvXGs01TV66IzuFaQzC6s+JHhutwTSOWChJK2aHYY0E/ztpT/pXR2rJp/UNtY9Eh0g8VuYjzUxU2sXQhbOr3q15esP/X9AMWU05dqL9+RAQh1Oo2G0iFKy1jbIBHqOZJPXXRleCW1vththx0LGROCQ+fCC8nql4PPlthdcfB8fdJvp4r4Qi8/9FR9fL3cqf/D11v+uTA5mNfiYjcZySPoNIib3myuY2WvOOzFgPIEKGGaBMGMyRU211vQz/fSW6AnRwzyoAChh0cezSz6qMd9XV4hgPOS/xFU+DGB2NvmE=;R+2t7MvV/hvsJOB0FC7JPw=="
 ---
 

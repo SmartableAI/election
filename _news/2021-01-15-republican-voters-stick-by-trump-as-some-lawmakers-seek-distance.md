@@ -512,6 +512,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump impeachment intended to keep him from seeking presidency again, Dems acknowledge"
+    excerpt: "While some members of Congress have claimed that President Trump's impeachment and swift conviction are necessary to keep him from serving out the final days of his term, others have acknowledged that they are focused on keeping him from ever running again."
+    publishedDateTime: 2021-01-18T18:13:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-impeachment-block-from-seeking-presidency-again"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-block-from-seeking-presidency-again.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-block-from-seeking-presidency-again.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02ffde9d-0cc6-45ac-b045-16f768eb828d/40e452e9-8c15-4f5b-967a-fac0730df44d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Katie Couric cheers on Trump's impeachment, says GOP lawmakers need to be 'deprogrammed'"
     excerpt: "Katie Couric appears to have gone far beyond her days as a straight news journalist and taken a sharp turn to the left."
     publishedDateTime: 2021-01-16T07:05:00Z

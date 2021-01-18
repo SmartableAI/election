@@ -43,6 +43,17 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Rioters chant 'hang Mike Pence' at Capitol as Pence fled"
+    excerpt: "CNN's Tom Foreman reports on a new report by the Washington Post detailing how close rioters were to spotting Vice President Mike Pence inside the US Capitol."
+    publishedDateTime: 2021-01-15T23:46:00Z
+    webUrl: "https://madison.com/video/cnn/news/rioters-chant-hang-mike-pence-at-capitol-as-pence-fled/video_ff20b993-8ab0-5703-8107-0b91de36ae3d.html"
+    ampWebUrl: "https://madison.com/video/cnn/news/rioters-chant-hang-mike-pence-at-capitol-as-pence-fled/video_ff20b993-8ab0-5703-8107-0b91de36ae3d.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/video/cnn/news/rioters-chant-hang-mike-pence-at-capitol-as-pence-fled/video_ff20b993-8ab0-5703-8107-0b91de36ae3d.amp.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 55
 
 secured: "U2/I5pCdHF5yTf5SO0mjAE0Mc43SuVZNbp3iYZIxxslJq4KApjkpMZOEv9Wpxrq2H5qtqpZqdfMaVzSCnSCPw/P4Ixqs3fEJ+r2lG+qSo8TA6GVXqqnVEH0hajGkcDIhrb+aPH8JaNuxnMm6KAHzwXHBHCnlg9uSQen5mkHHct/tJHD/8g6kaL6lALB13mqyTD/gPpWeKXIsaFUVY8zBwNoUAe/w+7r2QB8yb9ELmkYR2o+5o55f1amWp1mLW4OlnCss+pcfOSRLQZyZOXGIG2w63MwU/wFC4YyR6VijeFEQ6w89VLnHijwdcmeMhDJ2TSi9MROZXTG2bYwvyXOPSsAMjvAamVDm2jrT0WYqxWs=;/Tf3+tEUtAz42XSz2NmK7w=="
 ---

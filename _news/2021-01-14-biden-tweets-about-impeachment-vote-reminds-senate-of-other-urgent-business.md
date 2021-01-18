@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-tweets-about-impeachment-vote
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tweets-about-impeachment-vote-reminds-senate-of-other-urgent-business.amp"
 type: article
 quality: 171
-heat: 211
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,37 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Impeachment a 'complete waste of time' a week before Biden takes office: Rep. Van Duyne"
-    excerpt: "Freshman Congresswoman Beth Van Duyne, R-Texas, said Wednesday on \"Fox & Friends\" she will not be joining the five Republicans so far that are voting to impeach President Trump, calling the effort a \"complete waste of time.\""
-    publishedDateTime: 2021-01-13T16:08:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M1jhdJiDanM/impeachment-waste-biden-office-van-duyne"
-    ampWebUrl: "https://www.foxnews.com/politics/impeachment-waste-biden-office-van-duyne.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/impeachment-waste-biden-office-van-duyne.amp"
+  - title: "Biden marks MLK Day by volunteering for hunger-relief group"
+    excerpt: "With an eye toward reuniting the country after the turbulent presidency of Donald Trump, President-elect Joe Biden marked the Martin Luther King Jr. federal holiday by volunteering."
+    publishedDateTime: 2021-01-18T18:24:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mVufe1g1YYI/biden-mlk-day-volunteering-hunger-relief-group"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mlk-day-volunteering-hunger-relief-group.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mlk-day-volunteering-hunger-relief-group.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden DOJ Civil Rights pick stands by defense of controversial ex-Women’s March leader"
+    excerpt: "Kristen Clarke, President-elect Joe Biden's choice to run the Justice Department's Civil Rights Division, defends backing a former leader of the Women’s March who was accused of anti-Semitism."
+    publishedDateTime: 2021-01-14T22:41:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SZ2F5u54MsU/biden-doj-pick-defense-ex-womens-march-leader"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-pick-defense-ex-womens-march-leader.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-pick-defense-ex-womens-march-leader.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cf85e57-c495-49ca-920a-272950c4a7e9/9a6d24ba-1464-4bcf-ae92-aa0f73db4869/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ccedca73-8447-45bd-9bc7-2b1cc2a3e532/44618639-0f4e-4ea7-8a23-802511106a18/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "New Impeachment Push Complicates Dem Message as Biden Talks Unity"
-    excerpt: "WASHINGTON (AP)  President-elect Joe Biden already faces the daunting task of steering a newly announced $1.9 trillion coronavirus relief bill through"
-    publishedDateTime: 2021-01-15T12:36:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/01/15/new_impeachment_push_complicates_dem_message_as_biden_talks_unity.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/15/new_impeachment_push_complicates_dem_message_as_biden_talks_unity.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/15/new_impeachment_push_complicates_dem_message_as_biden_talks_unity.amp.html"
+  - title: "Biden planning several executive orders on first day in office, including rescinding travel ban"
+    excerpt: "President-elect Biden is planning to sign several executive orders on day one of his presidency, incoming chief of staff Ron Klain announced in a statement. "
+    publishedDateTime: 2021-01-16T23:46:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/myxK8EVwJc8/biden-executive-order-first-day-in-office-rescinding-travel-ban"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-executive-order-first-day-in-office-rescinding-travel-ban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-order-first-day-in-office-rescinding-travel-ban.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
     images:
-      - url: "https://assets.realclear.com/images/53/532403_5_.jpeg"
-        width: 750
-        height: 500
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Biden-.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "'What the hell is wrong with them?': Biden rips Republicans for refusing to don masks during siege"
+    excerpt: "President-elect Joe Biden is taking aim at some Republican members of Congress who refused to wear masks while huddling in secure rooms last week during the storming of the Capitol."
+    publishedDateTime: 2021-01-15T23:16:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Toh_TUvjSTI/biden-slams-congressional-republicans-for-refusing-to-wear-masks-amid-capitol-siege"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-slams-congressional-republicans-for-refusing-to-wear-masks-amid-capitol-siege.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-slams-congressional-republicans-for-refusing-to-wear-masks-amid-capitol-siege.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden planning several executive orders on first day in office, including rescinding travel ban"
+    excerpt: "President-elect Biden is planning to sign several executive orders on day one of his presidency, incoming chief of staff Ron Klain announced in a statement."
+    publishedDateTime: 2021-01-17T00:01:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-executive-order-first-day-in-office-rescinding-travel-ban"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-executive-order-first-day-in-office-rescinding-travel-ban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-order-first-day-in-office-rescinding-travel-ban.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Biden-.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "QIPu0k4ivodXMCUoC1hH4wkfd0w/IQc7A3twjpeGbuTS8ie2B5fpQIQlHGvlfOuFjB8DRlbzDL8oqXdXvWhxwEL8ZJsNcqQTR5/I6iC5DK1G74OfvXUijYSeTiQjAWukaxfzHK3Fed+9hOlF6iUnLJyMRYZDNksjJq3RVBx3aFBOeERaE/KfVYcQwetok2ecr9uXJFbwMhzgCZ+66Bt8TS0hBQIpEo6gzalPMsjbRBOvfN6sq0slF7+UYITYjX6Zz90SeCmhv48Iy0+s9kPyUKeEBl/LkBH+z8h35hJDgNheUjr+j7iXDLqK3hMBGKh8PgqAWiLmUwkqG2WHUejbtCpnvMRm5S4aiQH0w7c3P+4=;kZbEEQnrU/vdAgULX7vEWQ=="

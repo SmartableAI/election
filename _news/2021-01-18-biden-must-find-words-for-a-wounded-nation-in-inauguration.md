@@ -20,53 +20,53 @@ topics:
   - Republican Voice
 
 related:
-  - title: "Google, Microsoft, Verizon on Biden Inauguration Committee donor list"
-    excerpt: "Google, Microsoft, and Verizon are among President-elect Joe Biden's Inauguration Committee donors."
-    publishedDateTime: 2021-01-10T16:59:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u0gqqBSjynQ/google-microsoft-verizon-biden-inauguration-committee"
-    ampWebUrl: "https://www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp"
+  - title: "Biden election legal team takes victory lap, praises help from unions, nonprofits"
+    excerpt: "President-elect Joe Biden’s legal team on Monday praised help from unions and nonprofits in their efforts to ensure a secure 2020 presidential election, which led to a Biden-Harris victory."
+    publishedDateTime: 2021-01-18T17:44:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MewDvWHV0G0/biden-election-legal-team-takes-victory-lap-praises-help-from-unions-nonprofits"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-election-legal-team-takes-victory-lap-praises-help-from-unions-nonprofits.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-election-legal-team-takes-victory-lap-praises-help-from-unions-nonprofits.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden announces William Burns for CIA director"
+    excerpt: "President-elect Joe Biden announced Ambassador William Burns as his nominee for director of the CIA on Monday."
+    publishedDateTime: 2021-01-11T11:57:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z7AdeLJYzGc/biden-william-burns-cia-director"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-william-burns-cia-director.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-william-burns-cia-director.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/00e79b30-AP21006762088029.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011418120691-e1610366107225.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Migrant caravan demands Biden administration 'honors its commitments'"
-    excerpt: "A migrant caravan moving from Honduras toward the U.S. border is calling on the incoming Biden administration to honor what it says are \"commitments\" to the migrants moving north, amid fears of a surge at the border when President-elect Joe Biden enters office."
-    publishedDateTime: 2021-01-16T19:44:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dB2jQlxknAE/migrant-caravan-biden-administration-commitments"
-    ampWebUrl: "https://www.foxnews.com/politics/migrant-caravan-biden-administration-commitments.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-caravan-biden-administration-commitments.amp"
+  - title: "Biden picks Obama veterans for key State Department posts"
+    excerpt: "President-elect Joe Biden announced Saturday that he will nominate two Obama administration veterans to key State Department posts."
+    publishedDateTime: 2021-01-16T15:35:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1NOw8yW-IxA/former-obama-sherman-nuland-bidens-state"
+    ampWebUrl: "https://www.foxnews.com/politics/former-obama-sherman-nuland-bidens-state.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-obama-sherman-nuland-bidens-state.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43d8096c-96b6-417b-9e70-d106d78ea892/bc25fb44-5fe3-47a2-9bd7-1ee6ed3cb202/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83d781d9-a368-4b40-bd50-c2a081f73d7b/d59313cd-ebe2-451d-8223-615e77a6a1cd/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden inauguration security: What to know as DC locks down"
-    excerpt: "Washington, D.C., is taking a defensive posture in the run-up to Inauguration Day."
-    publishedDateTime: 2021-01-17T05:02:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ihRN8yN1cUE/biden-inauguration-security-what-to-know-as-dc-locks-down"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-security-what-to-know-as-dc-locks-down.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-security-what-to-know-as-dc-locks-down.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Biden's Cabinet picks: Full list"
     excerpt: "President-elect Joe Biden will be sworn in as the 46th president of the United States on Wednesday. In preparation for his presidency, Biden has already announced his selections for various administration positions, pending Senate confirmation."
@@ -81,6 +81,38 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39ff5970-808f-43da-a045-4ebc6c60ff3e/e6788d58-c8b1-4f29-81b9-7f58f89499c9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Congress gears up for fight over Biden Cabinet nominees"
+    excerpt: "While more attention will be paid to Wednesday's inauguration of Joe Biden, the real drama this week may come when Senate committees hold confirmation hearings for several of the president-elect's Cabinet picks."
+    publishedDateTime: 2021-01-18T17:25:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P9oL1K9GzXw/congress-biden-cabinet-nominees"
+    ampWebUrl: "https://www.foxnews.com/politics/congress-biden-cabinet-nominees.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congress-biden-cabinet-nominees.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Blinken-Austin-Buttegieg-Yellen-thumb.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden OMB nominee Neera Tanden received $731G salary from liberal nonprofit"
+    excerpt: "One of President-elect Biden's top Cabinet appointees earned more than $700,000 as the head of a leading liberal nonprofit, her financial disclosures reveal."
+    publishedDateTime: 2021-01-12T12:42:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N9aSYGkiKDI/neera-tanden-salary-center-for-american-progress"
+    ampWebUrl: "https://www.foxnews.com/politics/neera-tanden-salary-center-for-american-progress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/neera-tanden-salary-center-for-american-progress.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ecb90e26-1a7c-435c-9c19-1954f1794e4a/6028a03c-dc91-4110-b09d-e04c086c1e52/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -99,6 +131,54 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Lindsey Graham praises Biden's CIA director nominee: 'I have known him for years'"
+    excerpt: "Sen. Lindsey Graham, R-S.C., praised President-elect Joe Biden's nominee for CIA director on Monday."
+    publishedDateTime: 2021-01-12T12:52:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/am7GBZVDoNU/bill-burns-biden-cabinet-lindsey-graham"
+    ampWebUrl: "https://www.foxnews.com/politics/bill-burns-biden-cabinet-lindsey-graham.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-burns-biden-cabinet-lindsey-graham.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011418120691-e1610366107225.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden inauguration theme will be 'America United' despite deep divisions in country"
+    excerpt: "The theme of President-elect Joe Biden’s inauguration is \"America United,\" despite deep divisions in the country, and will be focused on a \"new national journey\" that the Biden team says will \"restore the soul of America\" and bring the country together."
+    publishedDateTime: 2021-01-11T15:25:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C9VuHRbftQw/biden-inauguration-theme-america-united"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-theme-america-united.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-theme-america-united.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden labor secretary nominee once linked to federal probe of union strong-arm tactics"
+    excerpt: "Walsh faced scrutiny in 2016 after the Boston Globe reported that his name had surfaced during a federal investigation into allegations that unions had improperly pressured developers and businesses to hire union workers for their projects."
+    publishedDateTime: 2021-01-11T21:16:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aqSc8hUqhxM/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/202402d4-6106-46ae-a764-2c7fa6dc8963/4f9b4123-49d8-41a5-af1a-c3c229485753/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Former DHS Secretary Wolf: 'Every trust and confidence' Biden inauguration will be secured"
     excerpt: "Former Acting Homeland Secretary Chad Wolf praised the security measures around President-elect Joe Biden's inauguration next week in the wake of last week's deadly Capitol riots."
@@ -132,6 +212,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Live Updates: Biden accepts use of the president’s guest house for the night before inauguration"
+    excerpt: "Blair House, the president’s guest house, sits across from the White House on Pennsylvania Ave."
+    publishedDateTime: 2021-01-14T07:22:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s4lhujXlsdk/live-updates-biden-transition-1-14-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-1-14-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-1-14-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/842741ec-292f-437d-afc7-2d5141a1b15d/b57fc550-ecbd-46cc-9939-67655ddecf5f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "GOP senators to attend Biden inauguration Wednesday after objecting to his Electoral College win"
     excerpt: "At least half of the eight GOP senators who voted against President-elect Joe Biden's Electoral College victory will be attending the inauguration Wednesday in Washington to support the peaceful transfer of power, Fox News has learned. "
     publishedDateTime: 2021-01-17T01:08:07Z
@@ -148,21 +244,69 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Live Updates: Biden inaugural rehearsal rescheduled as security preps in high gear for inauguration"
-    excerpt: "A planned rehearsal of the inauguration, initially scheduled for Sunday, has been moved to Monday as event planners continue to make adjustments in response to the Jan. 6 riot at the Capitol, a report said."
-    publishedDateTime: 2021-01-15T06:05:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wxSTOQHT-jo/live-updates-biden-inauguration-1-15-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-15-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inauguration-1-15-2021.amp"
+  - title: "Biden confronted with migrant caravan challenge as he takes office, GOP blames campaign rhetoric"
+    excerpt: "Among the litany of challenges that will confront President-elect Joe Biden when he assumes office Wednesday -- including the coronavirus pandemic, emboldened enemies like Iran, and confirming critical nominees amid a Trump impeachment trial -- will be handling a large migrant caravan currently making"
+    publishedDateTime: 2021-01-18T18:32:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TC7q2Meq82c/biden-migrant-caravan-challenge-gop-blames-campaign-rhetoric"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-migrant-caravan-challenge-gop-blames-campaign-rhetoric.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-migrant-caravan-challenge-gop-blames-campaign-rhetoric.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 162
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba7e5f07-7496-4e3c-a336-41ea4058e526/620f28f6-9217-453a-8e38-0b29b9dcd214/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden team says US 'cannot afford gaps in national security leadership,' urges Senate to confirm nominees"
+    excerpt: "Biden transition officials said the U.S. “cannot afford gaps in national security leadership,” urging the Senate Republicans to confirm President-elect Joe Biden’s key nominees ahead of Inauguration Day."
+    publishedDateTime: 2021-01-13T20:34:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qj2co2jJe8k/biden-team-national-security-gaps-senate-confirm-nominees"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-team-national-security-gaps-senate-confirm-nominees.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-team-national-security-gaps-senate-confirm-nominees.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden announces Anita Dunn as senior adviser, TJ Ducklo as deputy press secretary in additions to WH staff"
+    excerpt: "Former Obama White House communications director and senior adviser for President-elect Joe Biden’s 2020 campaign Anita Dunn is joining the White House as a senior advisor to the president."
+    publishedDateTime: 2021-01-15T16:21:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k4GG3flFR1k/biden-white-house-anita-dunn-senior-adviser-tj-ducklo-deputy-press-secretary"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-anita-dunn-senior-adviser-tj-ducklo-deputy-press-secretary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-anita-dunn-senior-adviser-tj-ducklo-deputy-press-secretary.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "As Biden inauguration approaches, federal prisons under full-on lockdown"
+    excerpt: "Federal prisons throughout the country have been placed under full-on lockdown until further notice in the days leading up to the inauguration of President-elect Joe Biden and amid nationwide threats of unrest,"
+    publishedDateTime: 2021-01-18T14:56:00Z
+    webUrl: "https://www.foxnews.com/us/federal-prisons-lockdown-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/us/federal-prisons-lockdown-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/federal-prisons-lockdown-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/1ed2f669-AP20332657500138.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden: 'Not afraid' to take oath outside amid inauguration security concerns"
     excerpt: "President-elect Joe Biden says he’s “not afraid” to take the oath of office outside during his inauguration next week."
@@ -180,35 +324,51 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Joe Biden’s Inauguration: When Is It, and How Has the Covid-19 Pandemic Changed It?"
-    excerpt: "President-elect Joe Biden will be sworn into office on Jan. 20 in a scaled-down inauguration that will look different from past years because of the coronavirus pandemic."
-    publishedDateTime: 2021-01-04T19:28:00Z
-    webUrl: "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 129
-    images:
-      - url: "https://images.wsj.net/im-280273/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "George W. Bush will attend Biden inauguration to witness 'peaceful transfer of power'"
-    excerpt: "Former President George W. Bush and former first lady Laura Bush will attend President-elect Joe Biden’s inauguration in Washington D.C. later this month."
-    publishedDateTime: 2021-01-06T03:40:00Z
-    webUrl: "https://www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power"
-    ampWebUrl: "https://www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp"
+  - title: "Biden press secretary won't say if White House visitor logs will be published"
+    excerpt: "Incoming White House Press Secretary Jen Psaki declined Friday to specify whether President-elect Joe Biden’s administration would publish White House’s visitor logs"
+    publishedDateTime: 2021-01-16T01:17:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 128
+    quality: 132
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7800ea58-ed83-49bd-bb53-646cbf3599ea/9d505cad-ce21-49db-9435-b8f5d876bd5a/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7de536e-1b1d-4f26-a547-667b1a372a6b/462cdc42-e036-410d-802a-644eed65a420/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Operation Warp Speed's Slaoui says he submitted resignation at Biden's request"
+    excerpt: "Operation Warp Speed Director Dr. Moncef Slaoui on Wednesday said he submitted his resignation at the request of President-elect Joe Biden."
+    publishedDateTime: 2021-01-13T18:30:00Z
+    webUrl: "https://www.foxnews.com/us/slaoui-resignation-biden-operation-warp-speed"
+    ampWebUrl: "https://www.foxnews.com/us/slaoui-resignation-biden-operation-warp-speed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/slaoui-resignation-biden-operation-warp-speed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/slaoui.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden labor secretary nominee once linked to federal probe of union strong-arm tactics"
+    excerpt: "Walsh faced scrutiny in 2016 after the Boston Globe reported that his name had surfaced during a federal investigation into allegations that unions had improperly pressured developers and businesses to hire union workers for their projects."
+    publishedDateTime: 2021-01-11T21:29:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-labor-secretary-nominee-federal-probe-union-strong-arm-tactics.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/202402d4-6106-46ae-a764-2c7fa6dc8963/4f9b4123-49d8-41a5-af1a-c3c229485753/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -226,6 +386,47 @@ related:
         width: 1280
         height: 721
         isCached: true
+  - title: "Biden Chooses Veteran Diplomat Burns as CIA Director"
+    excerpt: "WASHINGTON (AP)  President-elect Joe Biden announced Monday he has chosen veteran diplomat William Burns to be his CIA director. A former ambassador"
+    publishedDateTime: 2021-01-11T14:06:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/531962_5_.jpg"
+        width: 750
+        height: 501
+        isCached: true
+  - title: "New Impeachment Push Complicates Dem Message as Biden Talks Unity"
+    excerpt: "WASHINGTON (AP)  President-elect Joe Biden already faces the daunting task of steering a newly announced $1.9 trillion coronavirus relief bill through"
+    publishedDateTime: 2021-01-15T12:36:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/15/new_impeachment_push_complicates_dem_message_as_biden_talks_unity.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/15/new_impeachment_push_complicates_dem_message_as_biden_talks_unity.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/15/new_impeachment_push_complicates_dem_message_as_biden_talks_unity.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/532403_5_.jpeg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Biden's Stimulus Plan Will Harm Those Who Need Most Help"
+    excerpt: "If you thought help for the coronavirus was on the way, think again. President-elect Joe Biden's plan to provide economic relief is going to cause a lot of pain and waste a lot of money on people who do not need it."
+    publishedDateTime: 2021-01-16T14:26:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/16/bidens_stimulus_plan_will_harm_those_who_need_most_help_533649.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "rMbi6BOpd7yJbA8DaDlMMenPMu4wtSrhOdKBG41oz1Iuen1pMwoj+oP6mFBId575nlO5UwXwZkiEAcwwVISSLbawsCEI9MB41DoiAE9lxQj+Uz96gmStQbFpJAjISBFgdvm4yFSQYCdNK16HyG3dm3dgiUNp4zzklaZXXSk6wACfO3vCno4gzXYCMo0QUdJsX8B3uh18nT1eFPrLm7zg3nH7lKew1QjHeznzhqNWjlDjqZUHU1//YDwtmc+RpjNK/hURkQivAnEuFh5mVI53C69z/yVsbeYVwRDUAjyw7MNvOFR7ND0jtma4EcWkg3MfZiQh+yqNzTYQgwOZMOilgISJkczevTNDLGRNSJX+GL4=;B3URLOrn2lYeKLsJsWI4xg=="
 ---

@@ -63,22 +63,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden team says US 'cannot afford gaps in national security leadership,' urges Senate to confirm nominees"
-    excerpt: "Biden transition officials said the U.S. “cannot afford gaps in national security leadership,” urging the Senate Republicans to confirm President-elect Joe Biden’s key nominees ahead of Inauguration Day."
-    publishedDateTime: 2021-01-13T20:34:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qj2co2jJe8k/biden-team-national-security-gaps-senate-confirm-nominees"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-team-national-security-gaps-senate-confirm-nominees.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-team-national-security-gaps-senate-confirm-nominees.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "6jdySX0c7iPlg+vb33dMaaFCHFesJ3sOUgh+vjB7up6qioFOGqih9yP4lsTeI84zUqsL8PhKhvDe4K1TyPO2hTMjg2tr3mY4A4RftgYPIlzgIHFu810+a6UprvjcXFVRc7Bf3R8MCOtY4ywoYEyWMAXziJtspsBdvLeKY9MmcreDh4F4gLKlUphltwbCDuAQ4IqC5q7PvP6nV1k1bY/nbP046d5v//BshUyYwJteFv5uaS7U0VLrIid76svTDxksQeufUp7p7smgV223ja7KCKSvC8HmBG88o+qICcuzeolQ+Ucyg2ZxOHOGw7h18ziiaArKPP5nYKmLv0izTmqfZikmq2oLHIPR5cYkJXDDotI=;GRUCxpfRcs1nJP61mR6ccQ=="
 ---
