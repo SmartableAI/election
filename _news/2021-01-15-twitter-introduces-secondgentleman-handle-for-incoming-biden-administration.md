@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Who's attending Biden's inauguration?"
+    excerpt: "The guest list for the presidential inauguration scheduled to take place in Washington, D.C. this Wednesday will be scaled back amid both the coronavirus pandemic, as well as beefed-up security measures put in place two weeks after rioters stormed the U.S. Capitol."
+    publishedDateTime: 2021-01-18T12:11:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9aZAurDmFEc/biden-inauguration-who-is-attending"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-who-is-attending.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-who-is-attending.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "25,000 National Guard troops deployed to Capitol as Biden inauguration looms"
     excerpt: "Officials have boosted the number of National Guard members deployed in Washington, D.C., in the run-up to President-elect Joe Biden's inauguration next week to 25,000, an increase of 25 percent."
     publishedDateTime: 2021-01-16T18:26:38Z

@@ -415,6 +415,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Might Trump's Final Revenge Be a Third Party?"
+    excerpt: "Senate Republicans have the opportunity to not only convict Donald Trump of incitement of insurrection, but also punish him with a ban on ever"
+    publishedDateTime: 2021-01-18T11:59:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/18/might_trumps_final_revenge_be_a_third_party_145057.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/18/might_trumps_final_revenge_be_a_third_party_145057.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/18/might_trumps_final_revenge_be_a_third_party_145057.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/532569_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "aEjJQbKRrWMrSWYBo0+ne2wG/co4jqDXTfW65HZj8jTuR+OwwBff50iahXq929WZdvGYfFd77z93/wisCn3DdJQlTgjcFtvALbR6JIi8JgTjpnrEjGKPpPtdAACQkjKLtkcoefasuhoxkmEvnUjia2eQPpE8A5CNEOiMcACgtwr7YU4uCM3mJeDMKCfHOZZkN9w9305Mlcen8KuoyH3J+lz3djRQnbbjNRHmu2GjdzRHTDvokuCBrEurJoPHEOUbP1v8LbiFDIAod+ade0ia8gV98Ej8eo7ngTA4aH50f2RR23352prBA5BYxwuQwpEndZON1laMTwymjxDfd0CInVo4IwDT55l+2fyhfG5ArL8=;ehXuYvwCRFjhTOdA8F3dAg=="
 ---

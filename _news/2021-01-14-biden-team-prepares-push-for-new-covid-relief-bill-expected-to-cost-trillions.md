@@ -159,6 +159,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden, filling out his government, to name five women as deputy secretaries"
+    excerpt: "The women Biden plans to nominate as deputies at the Departments of Agriculture, Transportation, Health and Human Services, Interior and Education could help shore up the vulnerabilities of some of the Cabinet secretaries they will serve."
+    publishedDateTime: 2021-01-18T11:18:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-names-deputy-secretaries/2021/01/17/05172da4-5917-11eb-a976-bad6431e03e2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-names-deputy-secretaries/2021/01/17/05172da4-5917-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-names-deputy-secretaries/2021/01/17/05172da4-5917-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EZLCKECYGYI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "$2,000 Stimulus Check Update as Joe Biden Pushes for Third Set of Direct Payments"
     excerpt: "President-elect Joe Biden has proposed \"direct cash payments\" totaling $2,000 be given to Americans, including a third stimulus check of $1,400, in addition to the $600 payment issued last month, as part of his $1."
     publishedDateTime: 2021-01-15T14:39:00Z

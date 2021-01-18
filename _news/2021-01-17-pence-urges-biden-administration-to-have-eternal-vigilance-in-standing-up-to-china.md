@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-biden-administration-eternal-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-administration-eternal-vigilance-in-standing-up-to-china.amp"
 type: article
 quality: 193
-heat: 373
+heat: 393
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d30a00f7-29be-46f5-a285-0cb62decae44/5efe6061-f58a-47ab-9806-a8dd67a06224/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Who's attending Biden's inauguration?"
+    excerpt: "The guest list for the presidential inauguration scheduled to take place in Washington, D.C. this Wednesday will be scaled back amid both the coronavirus pandemic, as well as beefed-up security measures put in place two weeks after rioters stormed the U.S. Capitol."
+    publishedDateTime: 2021-01-18T12:11:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9aZAurDmFEc/biden-inauguration-who-is-attending"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-who-is-attending.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-who-is-attending.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Twitter introduces @SecondGentleman handle for incoming Biden administration"
     excerpt: "Twitter is introducing a new handle for the first-ever husband of a vice president as it begins transferring official White House social media accounts to the incoming Biden administration."

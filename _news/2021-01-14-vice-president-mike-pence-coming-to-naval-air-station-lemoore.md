@@ -43,6 +43,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "How Mike Pence's hometown views his legacy as vice presidency comes to an end"
+    excerpt: "In a music store in this small city 45 minutes southeast of Indianapolis, a picture of Vice President Mike Pence playing guitar hangs by the door. Nearby"
+    publishedDateTime: 2021-01-18T11:03:00Z
+    webUrl: "https://www.southbendtribune.com/news/indiana/how-mike-pences-hometown-views-his-legacy-as-vice-presidency-comes-to-an-end/article_4db3634c-58ff-11eb-bc43-2fea0b3c7ab5.html"
+    ampWebUrl: "https://www.southbendtribune.com/news/indiana/how-mike-pences-hometown-views-his-legacy-as-vice-presidency-comes-to-an-end/article_4db3634c-58ff-11eb-bc43-2fea0b3c7ab5.amp.html"
+    cdnAmpWebUrl: "https://www-southbendtribune-com.cdn.ampproject.org/c/s/www.southbendtribune.com/news/indiana/how-mike-pences-hometown-views-his-legacy-as-vice-presidency-comes-to-an-end/article_4db3634c-58ff-11eb-bc43-2fea0b3c7ab5.amp.html"
+    type: article
+    provider:
+      name: South Bend Tribune
+      domain: southbendtribune.com
+    quality: 72
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/southbendtribune.com/content/tncms/assets/v3/editorial/6/ab/6abb0278-5900-11eb-ac74-cf89567af00a/60049bb044f83.image.jpg?resize=1024%2C698"
+        width: 1024
+        height: 698
+        isCached: true
 
 secured: "5xZKOId7bRva5P7OkD3LA4r86R7T0pQIZrtqeFc8ycYNWVj5BuVvr0Lf17Y4nT2UzXPXNv4LgPWtKc0jUtWK+IpiCUVYURxIuWG7E0T5m5pHZYS9vSnpoMI5qyGb6d9/cuUhcQVpJRRnKePuOkKrEwotzUPC0ikz4UTYxSTm7bAdojHjVH/pr9Ia8aAZZma7I0QuI8sJk4xh8BTDw25OlaqvjtpBRO4sCXYcEAPbYrRYLvXytthfDFwx+px7r1QNce98FWRy5At9MF0t7yrZ0bQ6QwxinLRxoXeivQJvrNdiR+bN7VwLQuzWe7lyxAwkwYL8WlkeoXOkT7heun2rCR0MrOhIO6voagacFOENs524tJVyKz8OiOCk0h8IPcomYydKC7MKGmB4sEg0isLnGs+EtpbNNY92aWxwkW+cGR0M0kWNOkyvF2ASHRwbpGjWNQuzEZi7BaNoo06QJbQlacd8/hnpFbYzLH23TVzLsB4Ke0ccf5ULmdKERA+O5LXj0q5qglbXFlEj7A91Xk2AkQ==;AzIzVOI7myXQP4kgg6+CMg=="
 ---

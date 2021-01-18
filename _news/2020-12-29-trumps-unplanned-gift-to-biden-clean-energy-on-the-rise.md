@@ -286,6 +286,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "President-elect Joe Biden has the most historically diverse Cabinet, but what does that mean for a divided country "
+    excerpt: "When President-elect Joe Biden takes office on January 20, he will inherit a nation that is divided.\n    \n"
+    publishedDateTime: 2021-01-18T12:45:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hvF86sF19hI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/diversity-joe-biden-cabinet-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/diversity-joe-biden-cabinet-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113141645-20210113-biden-cabinet-diversity-collage-super-tease.png"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "What the Electoral College vote means for Trump and Biden"
     excerpt: "All 50 states have already certified their election results ensuring that Joe Biden will be the 46th president, but the Electoral College vote makes the result official. Trump and some Republican had sought to have electors removed in four crucial battleground states,"
     publishedDateTime: 2020-12-13T16:06:00Z
@@ -315,6 +331,22 @@ related:
     quality: 150
     images:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_53/3438481/201229-joe-biden-kamala-harris-jm-0714_27a62254dfa9e7114e055c1b65c53e0e.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden readies sweeping rollback of Trump-era abortion crackdown"
+    excerpt: "\"We have a ton of work to do to undo the harm over the last four years,\" said Planned Parenthood President and CEO Alexis McGill Johnson."
+    publishedDateTime: 2021-01-18T11:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-readies-sweeping-rollback-trump-era-abortion-crackdown-n1254552"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254552"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254552"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3442743/210117-joe-biden-jm-1231_0fac057de203b18b5f62e757213d8453.jpg"
         width: 2500
         height: 1667
         isCached: true
@@ -493,6 +525,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_02/3442180/210114-donald-trump-phone-ew-617p_dbdc2ae89b3dfdef17d0939de4bb8931.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Groups with Biden ties pose ethics quandary for his administration"
+    excerpt: "The University of Delaware’s Biden Institute promises in its mission statement to embody the spirit of “honesty, integrity, compassion and courage” it says have defined President-elect Joe Biden’s career in politics. But as Biden prepares to take ..."
+    publishedDateTime: 2021-01-18T12:41:00Z
+    webUrl: "https://www.politico.com/news/2021/01/18/biden-ties-ethics-quandary-for-his-administration-460126"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/18/biden-ties-ethics-quandary-for-his-administration-460126"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/18/biden-ties-ethics-quandary-for-his-administration-460126"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/75/bf/c4bd66a54df8b3d254e9b584b0ee/ap17072795562913-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Psaki: Biden White House will make visitor logs public"
     excerpt: "The White House will restart the release of its visitor logs once President-elect Joe Biden takes office, Biden transition spokesperson Jen Psaki announced Friday. The move is a shift from President Donald Trump's White House, which kept visitor logs to ..."

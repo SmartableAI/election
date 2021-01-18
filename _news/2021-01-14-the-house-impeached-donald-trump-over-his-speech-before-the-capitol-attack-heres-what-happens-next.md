@@ -41,22 +41,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Records: Trump allies behind rally that ignited Capitol riot"
-    excerpt: "An Associated Press review of records finds that veterans of President Donald Trump’s failed campaign were key players in the Washington rally that spawned a deadly assault on the U.S. Capitol"
-    publishedDateTime: 2021-01-18T05:09:00Z
-    webUrl: "https://www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/7a23b6da-5921-11eb-a849-6f9423a75ffd_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/7a23b6da-5921-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/7a23b6da-5921-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "The symbols of hate and far-right extremism on display in pro-Trump Capitol siege"
     excerpt: "Trump mob stormed the U.S. Capitol, symbols of white supremacy and extremist right wing militias were displayed by some rioters on flags, banners and clothing."
     publishedDateTime: 2021-01-14T15:01:00Z
@@ -103,6 +87,17 @@ related:
         width: 799
         height: 533
         isCached: true
+  - title: "Records: Trump allies behind rally that ignited Capitol riot"
+    excerpt: "Members of President Donald Trump’s failed presidential campaign played key roles in orchestrating the Washington rally that spawned a on the U.S. Capitol, according to an Associated Press review of records,"
+    publishedDateTime: 2021-01-18T11:10:00Z
+    webUrl: "https://www.businessinsider.com/records-trump-allies-behind-rally-that-ignited-capitol-riot-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/records-trump-allies-behind-rally-that-ignited-capitol-riot-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/records-trump-allies-behind-rally-that-ignited-capitol-riot-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Billionaire Trump supporters Catsimatidis, Olenicoff say he isn't to blame for US Capitol attack"
     excerpt: "Few of Trump's billionaire donors have named the president in their public condemnations of the riots. Two actually say Trump didn't incite them."
     publishedDateTime: 2021-01-08T18:36:00Z

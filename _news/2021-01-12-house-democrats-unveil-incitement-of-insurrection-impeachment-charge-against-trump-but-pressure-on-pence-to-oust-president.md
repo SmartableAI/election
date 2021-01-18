@@ -95,6 +95,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Democrats Hail Jamie Raskin for Leading Donald Trump Impeachment After Loss of Son Tommy"
+    excerpt: "Rep. Jamie Raskin (D-MD) has been praised by his Democratic colleagues for his role leading the impeachment push against President Donald Trump following the death of his son in December. Raskin, whose son Thomas died aged 25 in December, took up the role ..."
+    publishedDateTime: 2021-01-18T12:53:00Z
+    webUrl: "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336"
+    ampWebUrl: "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1710325/jamie-raskin-madeleine-dean-capitol.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Twitter permanently suspends Trump's account, cites 'incitement of violence' risk"
     excerpt: "Twitter Inc said on Friday that it has permanently suspended U.S. President Donald Trump's account due to the risk of further incitement of violence following the storming of the U.S. Capitol on Wednesday."
     publishedDateTime: 2021-01-09T08:32:00Z

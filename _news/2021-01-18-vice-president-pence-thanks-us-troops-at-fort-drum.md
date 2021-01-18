@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/vice-president-pence-thanks-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/vice-president-pence-thanks-us-troops-at-fort-drum/2021/01/17/810ee532-592b-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5596404782001/e6a974fd-9407-4b50-ab25-fc28e18e3610/22d06799-15d6-43ce-9837-a9be63948ed7/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "How Mike Pence's hometown views his legacy as vice presidency comes to an end"
+    excerpt: "In a music store in this small city 45 minutes southeast of Indianapolis, a picture of Vice President Mike Pence playing guitar hangs by the door. Nearby"
+    publishedDateTime: 2021-01-18T11:03:00Z
+    webUrl: "https://www.southbendtribune.com/news/indiana/how-mike-pences-hometown-views-his-legacy-as-vice-presidency-comes-to-an-end/article_4db3634c-58ff-11eb-bc43-2fea0b3c7ab5.html"
+    ampWebUrl: "https://www.southbendtribune.com/news/indiana/how-mike-pences-hometown-views-his-legacy-as-vice-presidency-comes-to-an-end/article_4db3634c-58ff-11eb-bc43-2fea0b3c7ab5.amp.html"
+    cdnAmpWebUrl: "https://www-southbendtribune-com.cdn.ampproject.org/c/s/www.southbendtribune.com/news/indiana/how-mike-pences-hometown-views-his-legacy-as-vice-presidency-comes-to-an-end/article_4db3634c-58ff-11eb-bc43-2fea0b3c7ab5.amp.html"
+    type: article
+    provider:
+      name: South Bend Tribune
+      domain: southbendtribune.com
+    quality: 72
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/southbendtribune.com/content/tncms/assets/v3/editorial/6/ab/6abb0278-5900-11eb-ac74-cf89567af00a/60049bb044f83.image.jpg?resize=1024%2C698"
+        width: 1024
+        height: 698
         isCached: true
 
 secured: "XmfX8J1KUboAzJA0dFhkdduYQ20l+jYOjyq/gbzGXM0rJnAKbSH5Bv2B4brgyimqDJQl0M8UBtS1L+o7k5xVF9+pj7K3AhNM2hBvDA8cyN3ivzEgApSSWkmekhVkrkoKaRsXsQluxdnzmEj0L9ASqGiGnyt5vWHihTH2DAD2dJsmSFM+jsySf1ghkvDrRofdQvMPucIRpUapdMR9bo8iatDNQOl3Kn7FWH0zihn46nRULRQwXem9fL3LCtuphnFCgyNNVWEnJyQFRsdH+msp7QsqA2BFtNlaA9IV8Mvd8EvU2bziw3Hzw8E80zNI7vegI4yU0TPD0bYvOXM9ri2/sU22uV485keluxvTHI7Dws0=;0zyVQye4jFS+QEiNZIus0g=="

@@ -2,9 +2,9 @@
 category: news
 title: "Justice Sotomayor to swear in Kamala Harris"
 excerpt: "Watch \"Justice Sonia Sotomayor to swear in Vice President-elect Kamala Harris on inauguration \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-publishedDateTime: 2021-01-18T02:59:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20210118024623-justice-sonia-sotomayor-to-swear-in-vice-president-elect-kamala-harris-on-inauguration/"
-webUrl: "https://www.cbsnews.com/live/video/20210118024623-justice-sonia-sotomayor-to-swear-in-vice-president-elect-kamala-harris-on-inauguration/"
+publishedDateTime: 2021-01-18T11:22:00Z
+originalUrl: "https://www.cbsnews.com/live/video/20210118094623-justice-sonia-sotomayor-to-swear-in-vice-president-elect-kamala-harris-on-inauguration/"
+webUrl: "https://www.cbsnews.com/live/video/20210118094623-justice-sonia-sotomayor-to-swear-in-vice-president-elect-kamala-harris-on-inauguration/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2021/01/18/story_08589033_1610938204.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/01/18/story_08590836_1610963404.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -156,6 +156,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/Z3qJoKYgp7I25-Bfj9OgWDYkWb8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7RFR7OAVVHIHHAVMBLL7YTF44.jpg"
         width: 1200
         height: 898
+        isCached: true
+  - title: "Biden inauguration: Trump expected to issue flurry of pardons before leaving office – live"
+    excerpt: "Washington DC prepares for Biden inauguration with unprecedented number of troops on street"
+    publishedDateTime: 2021-01-18T09:12:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/18/joe-biden-inauguration-donald-trump-pardons-washington-impeachment-covid-coronavirus-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/18/joe-biden-inauguration-donald-trump-pardons-washington-impeachment-covid-coronavirus-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/18/joe-biden-inauguration-donald-trump-pardons-washington-impeachment-covid-coronavirus-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 130
+    images:
+      - url: "https://i.guim.co.uk/img/media/6c8012c5df62883049cde364538dd50c9452cf7a/544_447_2793_1675/master/2793.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aa27e184ee031bc439b74921f71e9b2c"
+        width: 600
+        height: 360
         isCached: true
   - title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
@@ -1382,6 +1398,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "8Uu18USQxo8+Hexgyblf/5lWX894gN/tydNGKF905VWBcS55X4wd7ZZ4YhQIidIEr4nOfZhg01kGmAiajrbu5SI4mm6pAQIPLEslyTl4tRVeVAesFv8PxB42P6CpsVt9myP/W+H9UU2ieLEtAhSqzcee732hh07J+Cvzj9hi0zpHDCQyZilyAY5Cj3oX9tJU5J/oFI2+ecGgCtPGI1Pd3/zSh6hEOEper2MeTFfZdxd5KOiivbzkY7Gdk6U1OvWO2LccxtLueoSUtRwGwuXm2BP8oPiEGixvGgGiAxr9zCwq4U94mGNx1yhub9zk9y0FUYZC4oMKgI7I1FCSctsL979/5dm5LGv9w3b+ynAb3n488MX4aNJ1HPqDHI+N1u/XwJ58D1fkAgZKvgE0lQqnsxq+NVAKAoxTMDUtZ1CNXeo3eR1L9tF4HG0i18AcQo179jw9umMUCFzBZ/cSRUl7Zyu+Xedo25mUmhFTNBSueYXLI7egnfgmaZc+/clBIKaspeE48IsTCoj/wLMUXQXVnQ==;cpMd/+NeVtbn674fysPVNg=="
+secured: "/p+xyBLGeCYJtlbf9U5CES/cE03booTtspuoVyZBPFsRv2qO3HO3UEe7xAF5Xo8VZa5NGDSGWXTlEE03Ea09Mek3SvmsLhq563c0qnAsmgvw3Z9l3nJ/Q+qR6fiGeKJO2HHyET9GVTnk1yy+BQoE0rAvt+D1UeLgNa7NNio0yCehZJRPaQlZ+Oc4OnlQ4kiWZB9N7lVWC3oBD+f9COojhGejdCmMzd/iRKiggmnXDF/sz65aGA0ZIC9zxsICynKqXntuW3Ln2IpVPod3WvYwBqf2xkCXSe0SfQjUTHSRwUkC7sYSYxGXGml27aOzgMwxiILp19Dq9eQ5S4o2fZl/utjBRxNeYxUrndKggxWFBv0=;+DIqxU9VNlhZ2xM8FH95qA=="
 ---
 

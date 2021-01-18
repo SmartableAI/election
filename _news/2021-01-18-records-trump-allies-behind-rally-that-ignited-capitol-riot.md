@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Records: Trump allies behind rally that ignited Capitol riot"
-excerpt: "An Associated Press review of records finds that veterans of President Donald Trump’s failed campaign were key players in the Washington rally that spawned a deadly assault on the U.S. Capitol"
-publishedDateTime: 2021-01-18T05:09:00Z
-originalUrl: "https://www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/7a23b6da-5921-11eb-a849-6f9423a75ffd_story.html"
-webUrl: "https://www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/7a23b6da-5921-11eb-a849-6f9423a75ffd_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/7a23b6da-5921-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/7a23b6da-5921-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+excerpt: "Members of President Donald Trump’s failed presidential campaign played key roles in orchestrating the Washington rally that spawned a on the U.S. Capitol, according to an Associated Press review of records,"
+publishedDateTime: 2021-01-18T11:10:00Z
+originalUrl: "https://www.businessinsider.com/records-trump-allies-behind-rally-that-ignited-capitol-riot-2021-1"
+webUrl: "https://www.businessinsider.com/records-trump-allies-behind-rally-that-ignited-capitol-riot-2021-1"
+ampWebUrl: "https://www.businessinsider.com/records-trump-allies-behind-rally-that-ignited-capitol-riot-2021-1?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/records-trump-allies-behind-rally-that-ignited-capitol-riot-2021-1?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Capitol riots: What are far-right Trump supporters saying?"
@@ -136,6 +130,6 @@ related:
         height: 392
         isCached: true
 
-secured: "DIx61xh+RdjbAwGKmjzgueSyMNw8EJ3Y4z4/tCSMuarjbkRoNmBzDiUjcuwU68Cw2bQEvm++DCIEDSbGPTnYodSdXPz+dNQe6v+XeX71QDxq6o52armfGpNTvudxbCF5kc90gkIuSxYCXErI1e8zZLXC7vwZgR7xsID6QdGJmYkKIGIOyrmZAV7TtsGrBlI/jT9Qny/uBPuWtgxDhRb0y7YDnX8ZvqAXKgRTaO7Q/TPtbpfS9ihlUw6D0gr/9fHzMdtzUyiE1OQlDKXvOu1P+DZiht68wC7Zdyhr2Zpi1arfJOmTp1WodRUnvTkR+5EiThwuEULFFrzG5QgYxv/W7Pj1B/vP+7q67I2ig3vL5/4=;ybkD/LLf+yq4cDyr8dZeTQ=="
+secured: "TEI3q6d2pqEu9+q/6wC0xS6DTBixM406s0hNuPjwLUcxIOrhIIv/uuLT5qlIHw6f/qzD4zIoKGy0mfoJv81xyUIKm20jXwPnW+U5N0/V9JIY0aaJ0jvi5jk1vYK+lkYipTaDbOXEEOe7/7zOnEpauVdUD/HWRjmHd7La7EASVzIc4tj1von38UvjYiNK728aqlz5pGFyBlOYyd86v/EICyRHqpmPa8PZkQWxRNUXzyezl5FPO4nccg5NfMxCt680WC1zERvNlXkceKmiIMPQ/eVVgxBPCaQCmfWt9bGjLzrBy1fBwRBiCz8KoaDf7t22s5mIJGN8qXYpGzHYaNCwulfV0yr4CUudH3/f3o0n04c=;xEEH9/G3CUaoki1a2QeyyA=="
 ---
 

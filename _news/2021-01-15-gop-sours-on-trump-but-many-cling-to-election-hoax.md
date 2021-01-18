@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-sours-on-trump-but-many-cling-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sours-on-trump-but-many-cling-to-election-hoax.amp"
 type: article
 quality: 190
-heat: 670
+heat: 690
 published: true
 
 provider:
@@ -414,6 +414,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/katie-couric-ap.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Might Trump's Final Revenge Be a Third Party?"
+    excerpt: "Senate Republicans have the opportunity to not only convict Donald Trump of incitement of insurrection, but also punish him with a ban on ever"
+    publishedDateTime: 2021-01-18T11:59:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/18/might_trumps_final_revenge_be_a_third_party_145057.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/18/might_trumps_final_revenge_be_a_third_party_145057.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/18/might_trumps_final_revenge_be_a_third_party_145057.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/532569_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "f0h0uVIZqcQ+m99Piwae2V8WNJ83F4WOr6N30BnSutxt6kfQVaeQvlitnocKsy53EzIOy/9Sc44BXXTEgpWw3JDRtiG3VDYs3uFmihyyQazHVD5Q57mSBl0NXV4C1znI149p70qRIM2teJDCy+541/sxwhsj7eP7UTYEYZbpxQDQ/n9EFMMUIXgWfM1/y27m/1AiCEmGS+P+nwEposJvyR07NrifJaV+kWLEBP2oB31eOEjPupIr/ljYfan3bpmqLCuy61CwrQV+pXmlG5OxMGeQCKhp8DlGsGi89T/dlg0fJDEpRJrdcc+rHPuwF/d9VGjhpYY8SgySdqT/Xn0DMz6H/2RqamV1POJV0wHQ55A=;KxKOh1rGS2yr7ewsBhyEIQ=="

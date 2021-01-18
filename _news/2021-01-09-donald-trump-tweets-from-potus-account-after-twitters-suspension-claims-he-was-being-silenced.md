@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/donald-trump-tweets-potus-account-after-twit
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-tweets-potus-account-after-twitters-suspension-claims-he-was-being-3117888?amp=1"
 type: article
 quality: 62
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1024
     height: 681
     isCached: true
-
-related:
-  - title: "Barack Obama Alleged 'Tweet' Mocking Donald Trump's Twitter Ban Is Fake: Report"
-    excerpt: "A tweet allegedly made by former President Barack Obama that pokes fun at the permanent suspension of President Donald Trump's Twitter account is circulating on social media. However, reports confirme"
-    publishedDateTime: 2021-01-12T08:00:00Z
-    webUrl: "https://www.ibtimes.com/barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-fake-report-3119646"
-    ampWebUrl: "https://www.ibtimes.com/barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-fake-report-3119646?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-fake-report-3119646?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 71
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/10/exactly-four-years-ago-us-president-barack-obama.jpg"
-        width: 1024
-        height: 727
-        isCached: true
 
 secured: "m/rhsSiv9rUshDRv53suW7ccTEtpcydm9p4NR+GxTZ/wZQDm4GJa3Jp+XFyVxv4NNSTNZzYFZ8VouuJYAkVXfHM3v0BN4U6Obz6IIzaaI5BuAQYAazfDTzZqXYS7Kxz0p0tCyPBUuu00k7ifmZ3xVpF/kKhTJAp74T8cTY701kJeTnPfTUvn+OTSh0rLJcj723CPLBUYlD6KrYQe1x5vjW6IRvj4WWplQMUPA/ZHHvM9D9yBRnsZRAmLUWCaKBUy+PQa3PFwDO4rdrAqgU2H+IyqAGjQACe75GJfUlOmdYxFMpk1d1cij/yr75LtKSINeRm4203ZeRORzr/Jo0BiObl6Zqu/gRENTBYNzYGxCUC43CzROoARyXS2MOp0WFnVvlwwBK1mKmy8GK3otBhBocItE6idxM3vf5IQtFz8xhRp7Ypx3tKaaa5SU/jcJ9mldRjzZ8mItEW20ZL70Py4PAg/qf67Aw5esMKDvpx89Se0OkWcYV3LG0lXZTfE4q8riihmHCcjfpZ+hQMeMpeiqQ==;1ZMUnVidZHuQql6wjvpStQ=="
 ---

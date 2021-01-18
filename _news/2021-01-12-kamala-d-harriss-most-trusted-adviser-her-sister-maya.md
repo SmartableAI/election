@@ -189,6 +189,22 @@ related:
         width: 1200
         height: 677
         isCached: true
+  - title: "Kamala Harris makes history. Her swearing-in as vice president shows ‘strength of our democracy.’"
+    excerpt: "And this year, after the chaos dies down, Kamala Harris will make history as she raises her right hand to become the first woman to take the vice presidential oath of office. Her African American and Asian American roots are empowering groups whose voices ..."
+    publishedDateTime: 2021-01-18T12:44:00Z
+    webUrl: "https://www.freep.com/in-depth/opinion/voices/2021/01/18/kamala-harris-swearing-vice-president-shows-strength-our-democracy-column/6564032002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6564032002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6564032002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 62
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/11/USAT/ceddbdfa-77f9-4462-a868-179faa78cbcf-AP_Election_2020.jpg?auto=webp&crop=4500,2531,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "I’m an American teenager of South Indian descent. Here’s what Kamala Harris means to me"
     excerpt: "Seeing Kamala Harris about to become U.S. vice president has largely fulfilled a childhood dream of mine, writes 15-year-old Disha Cattamanchi. \"Although I only see her through a TV screen, I see so much of myself and what I"
     publishedDateTime: 2021-01-14T14:00:00Z
