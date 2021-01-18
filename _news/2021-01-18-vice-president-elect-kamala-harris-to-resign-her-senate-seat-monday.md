@@ -2,26 +2,26 @@
 category: news
 title: "Vice President-elect Kamala Harris to resign her Senate seat Monday"
 excerpt: "Vice President-elect Kamala Harris will resign her Senate seat on Monday, two days before she and President-elect Joe Biden are inaugurated."
-publishedDateTime: 2021-01-17T23:41:00Z
-originalUrl: "https://www.courant.com/nation-world/ct-kamala-harris-senate-resignation-20210117-4rntyfb5ibd5xk6cgoxnupuf6q-story.html"
-webUrl: "https://www.courant.com/nation-world/ct-kamala-harris-senate-resignation-20210117-4rntyfb5ibd5xk6cgoxnupuf6q-story.html"
-ampWebUrl: "https://www.courant.com/nation-world/ct-kamala-harris-senate-resignation-20210117-4rntyfb5ibd5xk6cgoxnupuf6q-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-kamala-harris-senate-resignation-20210117-4rntyfb5ibd5xk6cgoxnupuf6q-story.html?outputType=amp"
+publishedDateTime: 2021-01-18T08:55:00Z
+originalUrl: "https://www.dailypress.com/nation-world/ct-kamala-harris-senate-resignation-20210117-4rntyfb5ibd5xk6cgoxnupuf6q-story.html"
+webUrl: "https://www.dailypress.com/nation-world/ct-kamala-harris-senate-resignation-20210117-4rntyfb5ibd5xk6cgoxnupuf6q-story.html"
+ampWebUrl: "https://www.dailypress.com/nation-world/ct-kamala-harris-senate-resignation-20210117-4rntyfb5ibd5xk6cgoxnupuf6q-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-kamala-harris-senate-resignation-20210117-4rntyfb5ibd5xk6cgoxnupuf6q-story.html?outputType=amp"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Hartford Courant
-  domain: courant.com
+  name: Daily Press
+  domain: dailypress.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.courant.com/resizer/oAsPrhM_rnXoM2VhkkCpWUsGwJI=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/G2OD6SLTIJI3W54IEASIBG7CCQ.aspx"
+  - url: "https://www.dailypress.com/resizer/oAsPrhM_rnXoM2VhkkCpWUsGwJI=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/G2OD6SLTIJI3W54IEASIBG7CCQ.aspx"
     width: 1200
     height: 800
     isCached: true
@@ -1197,6 +1197,33 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Martin Luther King Jr. Day, COVID-19 pandemic, Kamala Harris: 5 things you need to know Monday"
+    excerpt: "Martin Luther King Jr.'s words resonate, decades later. Across the nation, scores of marches, parades and other events to mark the holiday honoring Martin Luther King Jr. have bee"
+    publishedDateTime: 2021-01-18T07:58:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/2021/01/18/martin-luther-king-jr-day-covid-19-kamala-harris-5-things-know-monday/4149360001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4149360001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4149360001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 63
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/18/USAT/d79e17bf-69a3-4cc5-86a0-abaefd135b92-GTY_1296405180.jpg?auto=webp&crop=2967,1669,x0,y971&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence heads to California to talk up Trump’s foreign policy in administration’s final days"
+    excerpt: "Vice President Mike Pence is landing Saturday at Lemoore Naval Air Station, where he will pay tribute to what he sees as the Trump Administration’s foreign policy legacy in an afternoon address to service members."
+    publishedDateTime: 2021-01-16T20:38:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/article248542320.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article248542320.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article248542320.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 58
   - title: "Arts agency member resigns after vulgar comment about Harris"
     excerpt: "An appointee to the Ohio Arts Council resigned Friday after making a vulgar comment on social media about Vice President-elect Kamala Harris that also supported President"
     publishedDateTime: 2021-01-09T00:51:00Z
@@ -1264,6 +1291,22 @@ related:
         width: 5715
         height: 3810
         isCached: true
+  - title: "Vice President-elect Kamala Harris to be sworn in by Justice Sonia Sotomayor and use a Bible owned by Thurgood Marshall"
+    excerpt: "Vice President-elect Kamala Harris will be sworn in by Supreme Court Justice Sonia Sotomayor on Wednesday while using a Bible once owned by West Baltimore-born Supreme Court Justice Thurgood Marshall."
+    publishedDateTime: 2021-01-18T07:25:00Z
+    webUrl: "https://www.baltimoresun.com/politics/bs-md-pol-kamala-harris-thurgood-marshall--20210118-pycnis6umbapzlzsanb6od3szm-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/politics/bs-md-pol-kamala-harris-thurgood-marshall--20210118-pycnis6umbapzlzsanb6od3szm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/bs-md-pol-kamala-harris-thurgood-marshall--20210118-pycnis6umbapzlzsanb6od3szm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 51
+    images:
+      - url: "https://www.baltimoresun.com/resizer/Ihs5oHigStzfSqMmvXrF0JQN-8Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PWFUQE72XREYJJ5A6XAEEMCOB4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joe Biden, Kamala Harris drop inauguration playlist with songs from Beyoncé, Dua Lipa, more"
     excerpt: "Joe Biden and Kamala Harris have released a 46-song playlist in honor of their upcoming administration. Here are the songs that made the cut."
     publishedDateTime: 2021-01-16T05:24:00Z
@@ -1305,6 +1348,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "ZfBOb5hjrP+NuM/tWWeqmKAlZ6A9cptmC7EgWssuqk37kwUvuwHixlw6zNf92F+lBVHULRKDN0S1aZWRkdYbXRbuR96UrX03q9nLxBRsJmrZiF4kk1FYjA4LjcJshquNOIlhhjTDW/Jw/SdiK+AZMqhUiAnxApq4hA61g6SQ3vUyIfm6qysFhXtk5N3gZKNeegFXMYYc3JrhqsYcjOZOSt86TQ38nNqDI6oFL+CRtfvaueNWJqG+m4OC9A9W37t84BUz70TXJV6MjaTiop7nqMune4bI0C4UzqHjqns+1xXicFH5vQWsjnYuDoD0WI7Grzrz4gBD4oO9nRfznaIOhc38KttB/yaIdtHxE97gAAA=;euRZHN0Z6IfPDKQXHBkW3Q=="
+secured: "oVnRtE4Y96LHzGnwWs+HExl+6N5wr6M32LvWj2d+DCY9fklBqBEkpwRy5Lr/tiJp+oAkjUj2+6SeXgomc0J6ezMqsr7ipjZmeWJq2ypKrmZ7fNALw5K/arx/ChMOzgtXgB1sU5sHqdDUSJLPbxFq4w6NgjrODKdQLzVgWAXwKQK4xADnp/YiErT5rAu3Qx/IuF7iN4GzXmnt4UeLudDH+fzCMkuABEg1y2WIKjt/JptslORuxRWfzgB19ZSQwDvRNLQ2s1QoSGj0kP44Fd7AarPnIHcEf5yRzEb8k0z9/9FHE/M9Gzg4B7AUyyLpp7WgdjF7Mp64jbICe3gOzw1uyQLxS5qxT3ORM2VAmP7IhAM=;StHORjfLjXwm3OupRdaYNQ=="
 ---
 

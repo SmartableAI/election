@@ -2,9 +2,9 @@
 category: news
 title: "'It was a non-event': Pro-Trump protests quiet amid massive police presence across U.S."
 excerpt: "Law enforcement officers far outnumbered protesters at state capitol grounds on Sunday, as few Trump supporters who believe the president's false claim that he won the 2020 election turned out for what authorities feared could be violent demonstrations."
-publishedDateTime: 2021-01-18T06:35:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump-protests/it-was-a-non-event-pro-trump-protests-quiet-amid-massive-police-presence-across-u-s-idUKKBN29M048"
-webUrl: "https://www.reuters.com/article/uk-usa-trump-protests/it-was-a-non-event-pro-trump-protests-quiet-amid-massive-police-presence-across-u-s-idUKKBN29M048"
+publishedDateTime: 2021-01-18T06:37:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-protests/us-state-capitals-see-few-protesters-after-bracing-for-violent-demonstrations-idUSKBN29M046"
+webUrl: "https://www.reuters.com/article/us-usa-trump-protests/us-state-capitals-see-few-protesters-after-bracing-for-violent-demonstrations-idUSKBN29M046"
 type: article
 quality: 97
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548124583&r=LYNXMPEH0G0GB&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548124964&r=LYNXMPEH0G0GQ&w=800"
     width: 800
     height: 533
     isCached: true
@@ -92,6 +92,6 @@ related:
         height: 533
         isCached: true
 
-secured: "HQiFwZOIoqrQpkDzTUulpIsgxZip53qdckJeCyPxn20iZHxTmfYStAOPtJkF9byRVozQU0aEGEj7omR8QEcQG1cyScEpVjMG/OePol0113IUXpW8yPVwHCCzSC0rnW5sdu66YGS7NKWbV+zwC7Nz9lyNHXklzeBl6eMQNAdsMp96ZLiQnr4eeg46P0BZwf3OhJnz+7iMAjfty1vXdH7LDeUTCi2wpjDIFY36CruZ8UaOiuztVZRFB+TNdAOHqRKv1esg/oRwgaaKc5idZM87b7LdFFBP/eevOY+FI+IYDDnd2hGJCHl8mbrTNhwugsi4EoNCOo6KiacgVz/vAUvCowJMHQD9OMMMNp7mjyMZ3gc=;S9ejRYr3zV0pBRi19QV+rg=="
+secured: "yDohfrSo7JfJ90eEso34OLJd80b1zKX5cFf4IxEjwqQmdYHbzRNeU3s8cwWS9wMsL0TmwOZORTseVtgwtXnK9osoMsti4W8QFAfh8yTadPhQqqpKexyIbfNuDkX61v1vzwRX26w/Zh2kGHRyF2GxIhgKFrhS+MXu18D4is9ivJaQpnLZBkWIWsa85YNGVZLCYbSW91b+J+furAZ8HBMFafP0P7GT23S078TzMP8mZjow/XbSkgQI7y1L+16OtPbJLd3Uc9fRODViXMS1fgz0QsIFVFpFoDB2gBEG166Ep6gjwJW7ea9jY6CSOcubcbpnpnIyHpLPIG3VKr5dNa4X9QhIRuzeAIfEuP54RuXPZGk=;blcg/X+bdoYXHhCyC/5PDA=="
 ---
 

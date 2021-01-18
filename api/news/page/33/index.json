@@ -2,6 +2,114 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-12-01-trump-tells-georgia-governor-to-do-something-as-kemp-says-interfering-with-election-is-illegal.md",
+      "title": "Trump tells Georgia governor to 'do something,' as Kemp says interfering with election is illegal",
+      "excerpt": "President Trump on Tuesday told Georgia Gov. Brian Kemp to \"do something\" to overrule state election officials, claiming he would find a \"gold mine\" of fraud, as the governor's office maintained that Georgia law \"prohibits\" him from \"interfering in elections.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bc5dlBeRYSs/trump-georgia-governor-kemp-election-do-something",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bc5dlBeRYSs/trump-georgia-governor-kemp-election-do-something",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 477,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-georgia-governor-kemp-election-do-something.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-georgia-governor-kemp-election-do-something.amp",
+      "publishedDateTime": "2020-12-01T07:08:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-some-taiwanese-immigrants-fear-biden-will-make-china-great-again-can-he-win-them-over.md",
+      "title": "Some Taiwanese immigrants fear Biden will ‘Make China Great Again.’ Can he win them over?",
+      "excerpt": "Among Southern Californians with roots in Taiwan, there is strong support for President Trump. Some are single-issue voters who value their homeland’s interests above domestic issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/california/story/2020-12-01/taiwanese-immigrants-biden-homeland",
+      "originalUrl": "https://www.latimes.com/california/story/2020-12-01/taiwanese-immigrants-biden-homeland",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/d2b8b03/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F13%2F9b%2Ff2f5489a4db4a2d9343b35db7727%2Fla-photos-1staff-545331-me-0522-unusual-getaway-day-005.IK.JPG",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/california/story/2020-12-01/taiwanese-immigrants-biden-homeland?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-12-01/taiwanese-immigrants-biden-homeland?_amp=true",
+      "publishedDateTime": "2020-12-01T05:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-meadows-to-meet-with-fda-chief-as-trump-asks-about-status-of-vaccine-emergency-approval.md",
       "title": "Meadows to meet with FDA chief as Trump asks about status of vaccine emergency approval",
       "excerpt": "White House chief of staff Mark Meadows is scheduled to meet with Food and Drug Administration Commissioner Stephen Hahn in the West Wing Tuesday, as President Donald Trump has privately demanded to know why the agency hasn't granted emergency use for Pfizer's coronavirus vaccine yet, according to two",

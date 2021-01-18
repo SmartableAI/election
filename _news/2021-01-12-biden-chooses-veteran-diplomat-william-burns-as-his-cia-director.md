@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director?_amp=true"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -241,6 +241,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden's inauguration will be very different. Here’s what you need to know."
+    excerpt: "President-elect Joe Biden’s Inauguration is happening amid a pandemic, security threats and tension between the shifting administrations. Here’s what the extraordinary day will look like."
+    publishedDateTime: 2021-01-18T01:06:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/bidens-inauguration-will-be-very-different-heres-what-you-need-to-know/2021/01/17/5492cb56-543a-4186-a3dd-8bc1fc3bc771_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 83
   - title: "Joe Biden picks veteran diplomat William Burns to be his CIA director"
     excerpt: "A former ambassador to Russia and Jordan, William Burns, 64, had a 33-year career at the State Department under both Republican and Democratic presidents."
     publishedDateTime: 2021-01-11T14:50:00Z

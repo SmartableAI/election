@@ -1024,17 +1024,17 @@ related:
         isCached: true
   - title: "Vice President-elect Kamala Harris to resign her Senate seat Monday"
     excerpt: "Vice President-elect Kamala Harris will resign her Senate seat on Monday, two days before she and President-elect Joe Biden are inaugurated."
-    publishedDateTime: 2021-01-17T23:41:00Z
-    webUrl: "https://www.courant.com/nation-world/ct-kamala-harris-senate-resignation-20210117-4rntyfb5ibd5xk6cgoxnupuf6q-story.html"
-    ampWebUrl: "https://www.courant.com/nation-world/ct-kamala-harris-senate-resignation-20210117-4rntyfb5ibd5xk6cgoxnupuf6q-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-kamala-harris-senate-resignation-20210117-4rntyfb5ibd5xk6cgoxnupuf6q-story.html?outputType=amp"
+    publishedDateTime: 2021-01-18T08:55:00Z
+    webUrl: "https://www.dailypress.com/nation-world/ct-kamala-harris-senate-resignation-20210117-4rntyfb5ibd5xk6cgoxnupuf6q-story.html"
+    ampWebUrl: "https://www.dailypress.com/nation-world/ct-kamala-harris-senate-resignation-20210117-4rntyfb5ibd5xk6cgoxnupuf6q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-kamala-harris-senate-resignation-20210117-4rntyfb5ibd5xk6cgoxnupuf6q-story.html?outputType=amp"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
+      name: Daily Press
+      domain: dailypress.com
     quality: 75
     images:
-      - url: "https://www.courant.com/resizer/oAsPrhM_rnXoM2VhkkCpWUsGwJI=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/G2OD6SLTIJI3W54IEASIBG7CCQ.aspx"
+      - url: "https://www.dailypress.com/resizer/oAsPrhM_rnXoM2VhkkCpWUsGwJI=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/G2OD6SLTIJI3W54IEASIBG7CCQ.aspx"
         width: 1200
         height: 800
         isCached: true
@@ -1198,6 +1198,33 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Martin Luther King Jr. Day, COVID-19 pandemic, Kamala Harris: 5 things you need to know Monday"
+    excerpt: "Martin Luther King Jr.'s words resonate, decades later. Across the nation, scores of marches, parades and other events to mark the holiday honoring Martin Luther King Jr. have bee"
+    publishedDateTime: 2021-01-18T07:58:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/2021/01/18/martin-luther-king-jr-day-covid-19-kamala-harris-5-things-know-monday/4149360001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4149360001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4149360001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 63
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/18/USAT/d79e17bf-69a3-4cc5-86a0-abaefd135b92-GTY_1296405180.jpg?auto=webp&crop=2967,1669,x0,y971&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence heads to California to talk up Trump’s foreign policy in administration’s final days"
+    excerpt: "Vice President Mike Pence is landing Saturday at Lemoore Naval Air Station, where he will pay tribute to what he sees as the Trump Administration’s foreign policy legacy in an afternoon address to service members."
+    publishedDateTime: 2021-01-16T20:38:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/article248542320.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article248542320.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article248542320.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 58
   - title: "Arts agency member resigns after vulgar comment about Harris"
     excerpt: "An appointee to the Ohio Arts Council resigned Friday after making a vulgar comment on social media about Vice President-elect Kamala Harris that also supported President"
     publishedDateTime: 2021-01-09T00:51:00Z
@@ -1264,6 +1291,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/08/PDTF/c00101e5-32e6-41e7-8a64-3764862d0e46-AP20313094228663.jpg?quality=10"
         width: 5715
         height: 3810
+        isCached: true
+  - title: "Vice President-elect Kamala Harris to be sworn in by Justice Sonia Sotomayor and use a Bible owned by Thurgood Marshall"
+    excerpt: "Vice President-elect Kamala Harris will be sworn in by Supreme Court Justice Sonia Sotomayor on Wednesday while using a Bible once owned by West Baltimore-born Supreme Court Justice Thurgood Marshall."
+    publishedDateTime: 2021-01-18T07:25:00Z
+    webUrl: "https://www.baltimoresun.com/politics/bs-md-pol-kamala-harris-thurgood-marshall--20210118-pycnis6umbapzlzsanb6od3szm-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/politics/bs-md-pol-kamala-harris-thurgood-marshall--20210118-pycnis6umbapzlzsanb6od3szm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/politics/bs-md-pol-kamala-harris-thurgood-marshall--20210118-pycnis6umbapzlzsanb6od3szm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 51
+    images:
+      - url: "https://www.baltimoresun.com/resizer/Ihs5oHigStzfSqMmvXrF0JQN-8Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PWFUQE72XREYJJ5A6XAEEMCOB4.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Joe Biden, Kamala Harris drop inauguration playlist with songs from Beyoncé, Dua Lipa, more"
     excerpt: "Joe Biden and Kamala Harris have released a 46-song playlist in honor of their upcoming administration. Here are the songs that made the cut."

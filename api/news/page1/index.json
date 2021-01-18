@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-18-trump-in-wave-of-tuesday-pardons-so-far-not-planning-to-pardon-himself-source.md",
+      "title": "Trump, in wave of Tuesday pardons, so far not planning to pardon himself: source",
+      "excerpt": "U.S. President Donald Trump at this point is opting not to issue a pardon for himself as he prepares an expansive list of more than 100 pardons and commutations for release on Tuesday, a source familiar with the effort said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-pardons/trump-in-wave-of-tuesday-pardons-so-far-not-planning-to-pardon-himself-source-idUSKBN29N079?edition-redirect=ca",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-pardons/trump-in-wave-of-tuesday-pardons-so-far-not-planning-to-pardon-himself-source-idUSKBN29N079?edition-redirect=ca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548150109&r=LYNXMPEH0H03F&w=800",
+          "width": 800,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T00:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-biden-aims-to-make-america-california-again-paper.md",
       "title": "Biden aims to 'Make America California Again': paper",
       "excerpt": "The Los Angeles Times ran a headline Sunday that is sure to grab the attention of Trump supporters everywhere: “Make America California Again? That’s Biden’s plan.”",
@@ -224,6 +276,58 @@
         "Election",
         "Democratic Voice",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-inauguration-day-2021-trump-to-have-own-elaborate-goodbye-ceremony.md",
+      "title": "Inauguration Day 2021: Trump To Have Own 'Elaborate' Goodbye Ceremony",
+      "excerpt": "President Trump is planning to hold a red-carpet send-off that would include a military band, a flypast by Air Force jets and a 21-gun salute on Jan. 20.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/inauguration-day-2021-trump-have-own-elaborate-goodbye-ceremony-3124362",
+      "originalUrl": "https://www.ibtimes.com/inauguration-day-2021-trump-have-own-elaborate-goodbye-ceremony-3124362",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/17/us-president-donald-trump-said-he-could-fix.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/inauguration-day-2021-trump-have-own-elaborate-goodbye-ceremony-3124362?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/inauguration-day-2021-trump-have-own-elaborate-goodbye-ceremony-3124362?amp=1",
+      "publishedDateTime": "2021-01-17T17:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1235,119 +1339,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-pence-urges-biden-administration-to-have-eternal-vigilance-in-standing-up-to-china.md",
-      "title": "Pence urges Biden administration to have ‘eternal vigilance’ in standing up to China",
-      "excerpt": "In one of his final public appearances before leaving the White House next  week, Vice President Mike Pence urged the Biden administration to exercise \"eternal vigilance,\" especially when it comes to U.S.-China relations.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ocu-XJd7IQ/pence-biden-administration-eternal-vigilance-in-standing-up-to-china",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ocu-XJd7IQ/pence-biden-administration-eternal-vigilance-in-standing-up-to-china",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 353,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fed884c-b708-4ec0-9242-0b2b61b4244a/15d1d9b5-6b44-4c76-8142-bdc1d653054b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-biden-administration-eternal-vigilance-in-standing-up-to-china.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-administration-eternal-vigilance-in-standing-up-to-china.amp",
-      "publishedDateTime": "2021-01-16T17:46:40-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-aoc-says-she-disagrees-with-bidens-optimistic-view-of-gop.md",
-      "title": "AOC says she disagrees with Biden's 'optimistic' view of GOP",
-      "excerpt": "Rep. Alexandria Ocasio-Cortez said she disagrees with President-elect Biden on his “optimistic” view of the GOP. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4NY2J01tsM/aoc-disagrees-bidens-optimistic-view-gop",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4NY2J01tsM/aoc-disagrees-bidens-optimistic-view-gop",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AOC-Getty.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aoc-disagrees-bidens-optimistic-view-gop.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-disagrees-bidens-optimistic-view-gop.amp",
-      "publishedDateTime": "2021-01-16T17:24:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
