@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mcconnell-praises-trump-for-signing
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-praises-trump-for-signing-covid-19-government-funding-bills.amp"
 type: article
 quality: 175
-heat: 415
+heat: 455
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 163
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a609696-7a27-4713-89f3-eb466538688f/0202de8b-222e-4f3a-8a40-56bc57a240cc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
+    excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature. "
+    publishedDateTime: 2020-12-24T19:55:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EDUV8C4hI7Y/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -206,6 +222,22 @@ related:
       - url: "https://images.wsj.net/im-278258/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
+    excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature."
+    publishedDateTime: 2020-12-25T05:23:00Z
+    webUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump's Stuning Achievement in Middle East"
     excerpt: "Donald Trump's legacy, like the man himself, will be complicated, but the one certainty will be his record of achieving what conventional wisdom said couldn't be done. His world-shocking victory"

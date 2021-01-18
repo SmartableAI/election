@@ -431,6 +431,20 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "WIDER IMAGE-Trump sought the world's attention and got it. Now the White House reality show ends"
+    excerpt: "A red tie, often tied too long. A raised fist, often held high to a supportive crowd. A scowling face. A raised voice."
+    publishedDateTime: 2021-01-18T15:08:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-postcards/wider-image-trump-sought-the-worlds-attention-and-got-it-now-the-white-house-reality-show-ends-idUSL1N2JR00G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 92
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548203838&r=LYNXMPEH0H0U5&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Impeachment Was the GOP's Last Chance to Quit Donald Trump"
     excerpt: "How the GOP reckons with Trump as he leaves office is the question on which the future of American politics depends."
     publishedDateTime: 2021-01-14T02:45:00Z
@@ -441,15 +455,15 @@ related:
       domain: time.com
     quality: 85
   - title: "VP Mike Pence, at Lemoore naval base stop, salutes troops and Trump policy achievements"
-    excerpt: "Vice President Mike Pence thanked U.S. Navy sailors and their families for their commitment to protecting the nation as he visited Lemoore Naval Air Station on Saturday afternoon. Pence, accompanied by his wife,"
+    excerpt: "Vice President Mike Pence landed Saturday at Lemoore Naval Air Station, where he will pay tribute to what he views as the Trump Administration’s foreign policy legacy in an afternoon address to service members."
     publishedDateTime: 2021-01-16T20:18:00Z
-    webUrl: "https://www.sacbee.com/article248540260.html"
-    ampWebUrl: "https://amp.sacbee.com/article248540260.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/article248540260.html"
+    webUrl: "https://www.fresnobee.com/news/politics-government/article248540260.html"
+    ampWebUrl: "https://amp.fresnobee.com/news/politics-government/article248540260.html"
+    cdnAmpWebUrl: "https://amp-fresnobee-com.cdn.ampproject.org/c/s/amp.fresnobee.com/news/politics-government/article248540260.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: The Fresno Bee
+      domain: fresnobee.com
     quality: 82
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5596404782001/3ddd32a3-0ae5-48e6-9ed7-4f6b126a2095/0318bcfc-878c-4237-b513-931da9905af2/1280x720/match/image.jpg"

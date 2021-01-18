@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "From Trump's impeachment trial to Hunter Biden: The biggest political scandals of 2020"
+    excerpt: "As 2020 comes to a close, the news has been dominated by a global pandemic, statewide lockdowns and a presidential election. Amid all that, it’s easy to forget about political events, including scandals and controversies, that otherwise would have been more in the spotlight."
+    publishedDateTime: 2020-12-22T19:27:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U99P66zzip0/trump-biden-biggest-political-scandals-of-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6735719-5880-4721-98a4-9f6162f992d6/7744e53b-a550-4780-9b27-5228d2ea0d54/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Biden warns Trump administration’s efforts to vaccinate Americans 'falling behind'"
     excerpt: "The president-elect also criticized the outgoing administration's lack of COVID testing for Americans, calling it \"a travesty.\" "
     publishedDateTime: 2020-12-30T05:03:24Z
@@ -42,53 +58,53 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "President Trump and first lady wish Americans a Merry Christmas"
-    excerpt: "President Trump and First Lady Melania Trump issued a joint message wishing Americans a Merry Christmas on Thursday, noting the importance of the holiday and praising Americans' efforts during the pandemic."
-    publishedDateTime: 2020-12-24T22:52:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHDCCU0QMx4/president-trump-melania-merry-christmas-message"
-    ampWebUrl: "https://www.foxnews.com/politics/president-trump-melania-merry-christmas-message.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-melania-merry-christmas-message.amp"
+  - title: "Arizona congresswoman backs calls for Hunter Biden special counsel"
+    excerpt: "Rep. Debbie Lesko says she has sent a letter to the Attorney General."
+    publishedDateTime: 2020-12-29T02:52:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mPgrJiiKwBw/congresswoman-special-counsel-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/congresswoman-special-counsel-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congresswoman-special-counsel-hunter-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6703b896-3c41-447b-97dc-955b283136b0/7b4e8295-3b5b-4763-b30e-c113a394434c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f1ca1b6-a9e5-400b-aa09-7baf7124297c/05de37e4-1964-41ef-8cc1-be2d61cf6203/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Live updates: Whitmer says she is relieved not to be Biden's VP"
-    excerpt: "Michigan Gov. Gretchen Whitmer said she would have accepted an offer to serve as Joe Biden’s running mate — but admitted to relief at not being picked."
-    publishedDateTime: 2020-12-26T13:14:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/88Ti183CU6M/live-updates-biden-transition-12-26-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
+  - title: "House lawmakers override Trump’s defense bill veto"
+    excerpt: "More than two-thirds of the chamber voted against Trump."
+    publishedDateTime: 2020-12-29T02:16:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FqAlg__bfy4/house-override-trump-defense-bill-veto"
+    ampWebUrl: "https://www.foxnews.com/politics/house-override-trump-defense-bill-veto.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-override-trump-defense-bill-veto.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48694bc-fcc1-4336-bf59-e0584bc8a4e1/369eedf1-67e3-45b8-81ce-9a7ed8e49f01/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9e66164-478a-4e5f-9843-bc51b5bad88a/642df305-5164-4cc9-9c6f-8fd33be24851/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Live updates: Biden mocks questions about Hunter, mainstream media looks away"
-    excerpt: "President-elect Joe Biden on Tuesday laughed off a question about the federal investigation of his son Hunter, in what's become part of a pattern for him to mock or belittle reporters who broach the topic."
-    publishedDateTime: 2020-12-24T06:32:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zU88OLhJm_M/live-updates-biden-transition-12-24-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-24-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-24-2020.amp"
+  - title: "President Trump vetoes National Defense Authorization Act for Fiscal Year 2021"
+    excerpt: "President Trump vetoed the National Defense Authorization Act for Fiscal Year 2021 Wednesday, calling it a “gift” to U.S. adversaries China and Russia, making good on a promise to veto it if it did not repeal a law that shields certain Big Tech companies from liabilities."
+    publishedDateTime: 2020-12-23T20:42:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DlsSY3OwP2Y/trump-veto-national-defense-authorization-act"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-veto-national-defense-authorization-act.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-veto-national-defense-authorization-act.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f6e5eab9-fe1b-4184-bbff-ce0cd1f58649/d4621cb8-0321-4aed-a53e-e94baa079ea1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20357806053798-1.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Omar blasts Biden team 'bait and switch' after officials say undoing Trump immigration policy will 'take time'"
     excerpt: "Rep. Ilhan Omar accused the Biden team of already breaking a “core campaign promise” after officials picked to serve in the president-elect’s administration admitted that they would not roll back Trump’s immigration policies all at once. "
@@ -106,131 +122,35 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: Biden electoral win facing challenge from Cruz, other GOP senators"
-    excerpt: "Follow for the latest updates on the presidential transition."
-    publishedDateTime: 2021-01-03T05:11:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YSC38ZpkmNs/politics-live-updates-ted-cruz-gop-senators-object-electoral-college-certification-1-2-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/politics-live-updates-ted-cruz-gop-senators-object-electoral-college-certification-1-2-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/politics-live-updates-ted-cruz-gop-senators-object-electoral-college-certification-1-2-2021.amp"
+  - title: "President Trump Spends Christmas at Mar-a-Lago, and Joe Biden in Delaware"
+    excerpt: "The president"
+    publishedDateTime: 2020-12-25T13:16:00Z
+    webUrl: "https://www.wsj.com/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768?mod=hp_listb_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 159
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d8fac15-3eba-4222-84a1-b2cfccf5077a/3eee8182-bf6c-49a4-983a-d596073af120/1280x720/match/image.jpg"
+      - url: "https://images.wsj.net/im-278203/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
-  - title: "Nikki Haley says Americans should be worried about ‘woke left’ when Biden is president"
-    excerpt: "Former U.N. Ambassador Nikki Haley on Tuesday issued a tweet that said Americans should be worried about the \"woke left\" under President-elect Joe Biden -- warning that the group wants to use the \"full force\" of government to achieve its radical goals."
-    publishedDateTime: 2020-12-29T23:28:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3uDFHnaPPs8/nikki-haley-americans-woke-left-biden-president"
-    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-americans-woke-left-biden-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-americans-woke-left-biden-president.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da6ccb3d-d6ae-4c35-892d-2a2d0a5234d2/dfcf7c7b-cb1f-422b-9614-5fd44aba5411/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Hawley's opposition to Biden win different than Boxer's 2004 fight, she says"
-    excerpt: "Follow for the latest updates on the presidential transition."
-    publishedDateTime: 2021-01-01T06:51:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MDH1osjvRTI/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1be552ec-a083-472e-ba7a-7dbdc403fd13/90a08f4b-ca06-4520-93b1-356816a8b8e8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
-    excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature. "
-    publishedDateTime: 2020-12-24T19:55:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EDUV8C4hI7Y/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Biden's transition team disabled chat function for reporters on conference Zoom calls"
-    excerpt: "Reporters on the call had to use a \"raise hand\" function to register they wanted to ask a question."
-    publishedDateTime: 2020-12-31T05:03:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Ofymmkaz2A/live-updates-biden-transition-12-31-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-31-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-31-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/780aec92-7f87-43bc-b273-cb57accada7f/b08b1601-e71a-4dd7-b041-ce78525d5cd4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Biden's inauguration to include presidential escort, 'virtual parade across America'"
-    excerpt: "Instead of the in-person parade, Biden will receive a traditional presidential escort"
-    publishedDateTime: 2021-01-04T05:04:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ACNMe3CSRaY/live-updates-biden-transition-1-4-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-1-4-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-1-4-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffcbe096-dc86-4cc3-bb37-dfb266995ac2/b7e07a9e-48e6-4e51-96af-35e853cfbcd7/1280x720/match/image.jpg"
-        width: 1279
-        height: 720
-        isCached: true
-  - title: "Biden national security adviser criticizes Obama's foreign policy for not focusing on middle-class Americans"
-    excerpt: "Incoming national security adviser Jake Sullivan, former staffer in the Obama administration, admitted that the previous president’s foreign policy did not “elevate and center middle-class concerns.” "
-    publishedDateTime: 2020-12-30T18:53:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BUVxUYSrW3w/biden-national-security-adviser-criticizes-obamas-foreign-policy"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-national-security-adviser-criticizes-obamas-foreign-policy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-national-security-adviser-criticizes-obamas-foreign-policy.amp"
+  - title: "Graham vows to hold Dems, media accountable over Hunter Biden: 'We're not going to sweep this under the rug'"
+    excerpt: "Senate Judiciary Committee Chairman Lindsey Graham doubled down Thursday on his calls for President Trump to appoint a special counsel to investigate Hunter Biden’s business dealings in China."
+    publishedDateTime: 2020-12-18T01:19:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O8Wz6FfRgYk/lindsey-graham-hunter-biden-not-sweep-under-rug"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-hunter-biden-not-sweep-under-rug.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-hunter-biden-not-sweep-under-rug.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 156
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62d6e468-7882-4bb8-bd63-c41757e7ccb6/934ce14e-94ac-4953-99de-1187623a1df8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Biden blasts transition ‘obstruction’ by Defense Department"
-    excerpt: "President-elect Joe Biden says his transition teams have \"encountered obstruction\" from President Trump’s political leadership at the Defense Department and the Office of Management and Budget."
-    publishedDateTime: 2020-12-29T05:54:00Z
-    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-29-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-29-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-29-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 144
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b63ad575-3944-454f-86e0-b31ad0fc3adf/ff7faca5-f527-4d40-a802-63ce1b379890/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b55e6af3-1933-400f-abde-4a5da8f2f4db/ea9eafcd-3cfb-4178-8bb1-6994cc6cf278/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -250,53 +170,37 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Live Updates: Biden announces new Cabinet, White House appointments"
-    excerpt: "President-elect Joe Biden today announced a number of new Cabinet and White House appointments and nominations."
-    publishedDateTime: 2020-12-30T20:36:00Z
-    webUrl: "https://www.foxnews.com/politics/live-updates-biden-12-30-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
+  - title: "House Republicans urge Trump to veto omnibus spending bill"
+    excerpt: "A group of House Republicans on Wednesday urged President Trump to veto an approximately $1.4 trillion omnibus spending bill being negotiated in Congress, describing it as an example of \"swamp politics\" in Washington D."
+    publishedDateTime: 2020-12-17T10:43:00Z
+    webUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill"
+    ampWebUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/646cbeae-51c0-4075-9a62-fbdd79191c70/fd810d22-270c-4029-af92-2b4285d17cfe/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Nikki Haley says Americans should be worried about ‘woke left’ when Biden is president"
-    excerpt: "Former U.N. Ambassador Nikki Haley on Tuesday issued a tweet that said Americans should be worried about the \"woke left\" under President-elect Joe Biden -- warning that the group wants to use the \"full force\" of government to achieve its radical goals."
-    publishedDateTime: 2020-12-29T23:33:00Z
-    webUrl: "https://www.foxnews.com/politics/nikki-haley-americans-woke-left-biden-president"
-    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-americans-woke-left-biden-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-americans-woke-left-biden-president.amp"
+  - title: "President Trump is most admired man in 2020, Gallup poll reveals"
+    excerpt: "President Trump and former first lady Michelle Obama have topped the list of the most admired man and woman for 2020, according to a Gallup poll released Tuesday. The annual survey asked"
+    publishedDateTime: 2020-12-29T14:21:00Z
+    webUrl: "https://nypost.com/2020/12/29/trump-tops-list-of-most-admired-men-of-2020-poll/"
+    ampWebUrl: "https://nypost.com/2020/12/29/trump-tops-list-of-most-admired-men-of-2020-poll/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/29/trump-tops-list-of-most-admired-men-of-2020-poll/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 127
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da6ccb3d-d6ae-4c35-892d-2a2d0a5234d2/dfcf7c7b-cb1f-422b-9614-5fd44aba5411/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump told Congress to give Americans more COVID money, but bill with less is on its way to him"
-    excerpt: "House Speaker Nancy Pelosi on Thursday said a bipartisan coronavirus relief and omnibus bill has been enrolled and is on its way to President Trump for his signature."
-    publishedDateTime: 2020-12-25T05:23:00Z
-    webUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-bipartisan-covid-19-coronavirus-relief-and-omnibus-bill-enrolled.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4195fdb-8f30-4695-9922-b209bd07f83d/75f53917-3829-4606-8fff-16587c37ef9c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-admired-2020.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "CLo4/a9LocOvday5kz1X3iGxxwg2sIi9gev1HVsKEPDs44/3x9vrCZk3bxrqqmGtgchciUWkYB6VLnccUCFFRA+Eoll2xW8IdM+r4f8tv1Sw4j5O7fOwJuudu51RSRNlx/lhdT7n9leyxErJdjl6HupRtIC5IDc9yLj+AfmpgeEb9mq6jHu309LO3fGZciaSPiQ+mqcvGBpuIjBNI8+fAfcFiEnIylgVN6G/YWVo2ux77RBU6e0n6keXlj/xjzJMF8VJtXwX5exv1i8AOqNQ9SaEfSE9XGVf912O1BauSS7hB0Ro4BDZFMyMe5LRjTQKLUqif3pqjGUulM9CcbdxICLbrc0R8hEp+6hcPssK6ZU=;pvl9yG8779TzM6JDL8ooRA=="

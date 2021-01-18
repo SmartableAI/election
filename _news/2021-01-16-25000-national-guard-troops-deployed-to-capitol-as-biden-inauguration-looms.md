@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden administration will publish White House visitor logs, reversing Trump policy"
-    excerpt: "Incoming White House Press Secretary Jen Psaki said late Friday that President-elect Joe Biden’s administration would resume the tradition of publishing the White House’s visitor logs"
-    publishedDateTime: 2021-01-16T01:05:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3kQbnGEJylg/biden-press-secretary-white-house-visitor-logs"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 184
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7de536e-1b1d-4f26-a547-667b1a372a6b/462cdc42-e036-410d-802a-644eed65a420/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden tries to go from normalcy to relevancy"
     excerpt: "Biden found the best way in was to promise to just be cool... Will it be enough?"
     publishedDateTime: 2021-01-14T20:23:23Z
@@ -111,22 +95,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Who's attending Biden's inauguration?"
-    excerpt: "The guest list for the presidential inauguration scheduled to take place in Washington, D.C. this Wednesday will be scaled back amid both the coronavirus pandemic, as well as beefed-up security measures put in place two weeks after rioters stormed the U.S. Capitol."
-    publishedDateTime: 2021-01-18T12:11:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9aZAurDmFEc/biden-inauguration-who-is-attending"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-who-is-attending.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-who-is-attending.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Twitter introduces @SecondGentleman handle for incoming Biden administration"
     excerpt: "Twitter is introducing a new handle for the first-ever husband of a vice president as it begins transferring official White House social media accounts to the incoming Biden administration."
     publishedDateTime: 2021-01-15T15:22:43Z
@@ -159,6 +127,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Pence urges Biden administration to have ‘eternal vigilance’ in standing up to China"
+    excerpt: "In one of his final public appearances before leaving the White House next week, Vice President Mike Pence urged the Biden administration to exercise \"eternal vigilance,\" especially when it comes to U.S.-China relations. \"As a new American administration ..."
+    publishedDateTime: 2021-01-18T16:12:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-biden-administration-eternal-vigilance-in-standing-up-to-china"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-biden-administration-eternal-vigilance-in-standing-up-to-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-administration-eternal-vigilance-in-standing-up-to-china.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fed884c-b708-4ec0-9242-0b2b61b4244a/15d1d9b5-6b44-4c76-8142-bdc1d653054b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "LIVE UPDATES: Biden inauguration plans prompt closing of National Mall"
     excerpt: "The National Park Service has closed Washington’s National Mall to the general public as part of greatly intensified security ahead of inauguration of President-elect Joe Biden. The National Mall is closing to the general public as part of greatly ..."
     publishedDateTime: 2021-01-18T00:24:00Z
@@ -172,6 +156,22 @@ related:
     quality: 135
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d30a00f7-29be-46f5-a285-0cb62decae44/5efe6061-f58a-47ab-9806-a8dd67a06224/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Who's attending Biden's inauguration?"
+    excerpt: "The guest list for the presidential inauguration scheduled to take place in , D.C. this Wednesday will be scaled back amid both the coronavirus pandemic, as well as beefed-up security measures put in place two weeks after rioters stormed the U."
+    publishedDateTime: 2021-01-18T12:16:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-inauguration-who-is-attending"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-who-is-attending.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-who-is-attending.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04e8cb81-2497-41bd-b463-ef571490a0ee/b30c1a8f-c57c-4bec-9fba-c7d7e911a5fc/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

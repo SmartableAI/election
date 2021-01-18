@@ -32,143 +32,166 @@ images:
     isCached: true
 
 related:
-  - title: "Biden announces William Burns for CIA director"
-    excerpt: "President-elect Joe Biden announced Ambassador William Burns as his nominee for director of the CIA on Monday."
-    publishedDateTime: 2021-01-11T11:57:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z7AdeLJYzGc/biden-william-burns-cia-director"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-william-burns-cia-director.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-william-burns-cia-director.amp"
+  - title: "Live updates: Whitmer says she is relieved not to be Biden's VP"
+    excerpt: "Michigan Gov. Gretchen Whitmer said she would have accepted an offer to serve as Joe Biden’s running mate — but admitted to relief at not being picked."
+    publishedDateTime: 2020-12-26T13:14:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/88Ti183CU6M/live-updates-biden-transition-12-26-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011418120691-e1610366107225.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48694bc-fcc1-4336-bf59-e0584bc8a4e1/369eedf1-67e3-45b8-81ce-9a7ed8e49f01/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden picks Obama veterans for key State Department posts"
-    excerpt: "President-elect Joe Biden announced Saturday that he will nominate two Obama administration veterans to key State Department posts."
-    publishedDateTime: 2021-01-16T15:35:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1NOw8yW-IxA/former-obama-sherman-nuland-bidens-state"
-    ampWebUrl: "https://www.foxnews.com/politics/former-obama-sherman-nuland-bidens-state.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-obama-sherman-nuland-bidens-state.amp"
+  - title: "LIVE UPDATES: What to know as DC locks down for Biden's inauguration"
+    excerpt: "Follow for the latest updates on Biden's inauguration and the Capitol riots. "
+    publishedDateTime: 2021-01-17T06:29:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TkC-XfVOa0Q/live-updates-biden-inauguration-1-17-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-17-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inauguration-1-17-21.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83d781d9-a368-4b40-bd50-c2a081f73d7b/d59313cd-ebe2-451d-8223-615e77a6a1cd/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04e8cb81-2497-41bd-b463-ef571490a0ee/b30c1a8f-c57c-4bec-9fba-c7d7e911a5fc/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden just announced his stimulus plan — and AOC already has a problem with it"
-    excerpt: "Rep. Alexandria Ocasio-Cortez, D-N.Y., is criticizing President-elect Biden's new coronavirus relief, arguing that it doesn't go far enough to help people in need during the pandemic."
-    publishedDateTime: 2021-01-15T02:16:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Myv1oy_9Dt0/biden-stimulus-plan-aoc-problem"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-stimulus-plan-aoc-problem.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-stimulus-plan-aoc-problem.amp"
+  - title: "Michigan Gov. Gretchen Whitmer relieved at not being picked as Biden’s VP"
+    excerpt: "Michigan Gov. Gretchen Whitmer said she would have accepted an offer to serve as Joe Biden’s running mate — but admitted to relief at not being picked."
+    publishedDateTime: 2020-12-26T00:26:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwrFyuvQlw8/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp"
+    ampWebUrl: "https://www.foxnews.com/politics/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/277c6958-c0f2-467b-92b4-80db098c3627/39b4bd0b-dee1-4946-8e21-fd62a4ac63a8/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/740928e4-8afe-4600-b734-c8316a13683a/8baa9bb1-9877-471f-9823-992340eebdf4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Lindsey Graham praises Biden's CIA director nominee: 'I have known him for years'"
-    excerpt: "Sen. Lindsey Graham, R-S.C., praised President-elect Joe Biden's nominee for CIA director on Monday."
-    publishedDateTime: 2021-01-12T12:52:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/am7GBZVDoNU/bill-burns-biden-cabinet-lindsey-graham"
-    ampWebUrl: "https://www.foxnews.com/politics/bill-burns-biden-cabinet-lindsey-graham.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-burns-biden-cabinet-lindsey-graham.amp"
+  - title: "Live updates: Biden mocks questions about Hunter, mainstream media looks away"
+    excerpt: "President-elect Joe Biden on Tuesday laughed off a question about the federal investigation of his son Hunter, in what's become part of a pattern for him to mock or belittle reporters who broach the topic."
+    publishedDateTime: 2020-12-24T06:32:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zU88OLhJm_M/live-updates-biden-transition-12-24-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-24-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-24-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f6e5eab9-fe1b-4184-bbff-ce0cd1f58649/d4621cb8-0321-4aed-a53e-e94baa079ea1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Biden electoral win facing challenge from Cruz, other GOP senators"
+    excerpt: "Follow for the latest updates on the presidential transition."
+    publishedDateTime: 2021-01-03T05:11:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YSC38ZpkmNs/politics-live-updates-ted-cruz-gop-senators-object-electoral-college-certification-1-2-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/politics-live-updates-ted-cruz-gop-senators-object-electoral-college-certification-1-2-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/politics-live-updates-ted-cruz-gop-senators-object-electoral-college-certification-1-2-2021.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011418120691-e1610366107225.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d8fac15-3eba-4222-84a1-b2cfccf5077a/3eee8182-bf6c-49a4-983a-d596073af120/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden announces Anita Dunn as senior adviser, TJ Ducklo as deputy press secretary in additions to WH staff"
-    excerpt: "Former Obama White House communications director and senior adviser for President-elect Joe Biden’s 2020 campaign Anita Dunn is joining the White House as a senior advisor to the president."
-    publishedDateTime: 2021-01-15T16:21:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k4GG3flFR1k/biden-white-house-anita-dunn-senior-adviser-tj-ducklo-deputy-press-secretary"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-white-house-anita-dunn-senior-adviser-tj-ducklo-deputy-press-secretary.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-white-house-anita-dunn-senior-adviser-tj-ducklo-deputy-press-secretary.amp"
+  - title: "LIVE UPDATES: Hawley's opposition to Biden win different than Boxer's 2004 fight, she says"
+    excerpt: "Follow for the latest updates on the presidential transition."
+    publishedDateTime: 2021-01-01T06:51:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MDH1osjvRTI/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1be552ec-a083-472e-ba7a-7dbdc403fd13/90a08f4b-ca06-4520-93b1-356816a8b8e8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "China says Biden represents 'new window of hope' for relations with US"
-    excerpt: "China believes President-elect Joe Biden represents a \"new window of hope\" for the country's relationship with the United States."
-    publishedDateTime: 2021-01-05T13:43:00Z
-    webUrl: "https://www.foxnews.com/world/china-biden-new-window-hope"
-    ampWebUrl: "https://www.foxnews.com/world/china-biden-new-window-hope.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/china-biden-new-window-hope.amp"
+  - title: "Live Updates: Biden's transition team disabled chat function for reporters on conference Zoom calls"
+    excerpt: "Reporters on the call had to use a \"raise hand\" function to register they wanted to ask a question."
+    publishedDateTime: 2020-12-31T05:03:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Ofymmkaz2A/live-updates-biden-transition-12-31-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-31-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-31-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/780aec92-7f87-43bc-b273-cb57accada7f/b08b1601-e71a-4dd7-b041-ce78525d5cd4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Biden blasts transition ‘obstruction’ by Defense Department"
+    excerpt: "President-elect Joe Biden says his transition teams have \"encountered obstruction\" from President Trump’s political leadership at the Defense Department and the Office of Management and Budget."
+    publishedDateTime: 2020-12-29T05:54:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-29-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-29-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-29-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b63ad575-3944-454f-86e0-b31ad0fc3adf/ff7faca5-f527-4d40-a802-63ce1b379890/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Biden announces new Cabinet, White House appointments"
+    excerpt: "President-elect Joe Biden today announced a number of new Cabinet and White House appointments and nominations."
+    publishedDateTime: 2020-12-30T20:36:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-12-30-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/RTX-joe-biden-xi-jinping.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/646cbeae-51c0-4075-9a62-fbdd79191c70/fd810d22-270c-4029-af92-2b4285d17cfe/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden press secretary won't say if White House visitor logs will be published"
-    excerpt: "Incoming White House Press Secretary Jen Psaki declined Friday to specify whether President-elect Joe Biden’s administration would publish White House’s visitor logs"
-    publishedDateTime: 2021-01-16T01:17:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs.amp"
+  - title: "Whitmer admits to 'sigh of relief' after not being picked as Biden VP, though she would have said yes"
+    excerpt: "After then-candidate Joe Biden vowed to choose a woman as his running mate in the 2020 election, Michigan Gov. Gretchen Whitmer emerged as an early front-runner, but now that Biden has won, Whitmer admits she is glad she never got the call."
+    publishedDateTime: 2020-12-25T13:43:00Z
+    webUrl: "https://www.foxnews.com/politics/whitmer-biden-vice-president-relief"
+    ampWebUrl: "https://www.foxnews.com/politics/whitmer-biden-vice-president-relief.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-biden-vice-president-relief.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 132
+    quality: 120
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7de536e-1b1d-4f26-a547-667b1a372a6b/462cdc42-e036-410d-802a-644eed65a420/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Gretchen-Whitmer-AP-e1608902899685.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Biden Chooses Veteran Diplomat Burns as CIA Director"
-    excerpt: "WASHINGTON (AP)  President-elect Joe Biden announced Monday he has chosen veteran diplomat William Burns to be his CIA director. A former ambassador"
-    publishedDateTime: 2021-01-11T14:06:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/11/biden_chooses_veteran_diplomat_burns_as_cia_director_145004.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/531962_5_.jpg"
-        width: 750
-        height: 501
-        isCached: true
-  - title: "Biden's Stimulus Plan Will Harm Those Who Need Most Help"
-    excerpt: "If you thought help for the coronavirus was on the way, think again. President-elect Joe Biden's plan to provide economic relief is going to cause a lot of pain and waste a lot of money on people who do not need it."
-    publishedDateTime: 2021-01-16T14:26:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/16/bidens_stimulus_plan_will_harm_those_who_need_most_help_533649.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "lNhe5NWPdl+xtXVFAldaUpB5ehxCmNSKFic18pL0m0u7Jq7sEaXylGe1JX8B6Yv2ZIdPz1FbfpqtTJocKOpBcTisaMm0xp7NJl4UHaCjP0vODHngU7/LYJa4rwWrxI/PPFZbT9xMpcLSbDLZmPMGyXy91KUA+htk67K3jTDZn4/SaiheVcfkeqt1WxLHdcfbbXD92NIBOYdM+hP9BvZSY6tQyTJyMZ/08gaFLE4Cy3OPkXAG2/dRr2HfU+x2ITzVreBBoZOBNQkdICfDQpa1iaenmKQtA6skkpXCRWkHCNDhMXctW0S1vxsGlMRqnnTIkSwoQFvu4KafkKP7CL3UKa+VE1mXMg5c0Z8gc9gN2fs=;wRo1RBcHfVxLcICDoYtflA=="
 ---

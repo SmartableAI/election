@@ -31,70 +31,79 @@ images:
     isCached: true
 
 related:
-  - title: "Miranda Devine: Dems 'hatred' for Trump supporters is 'un-American'"
-    excerpt: "Fox News contributor Miranda Devine said Tuesday the rhetoric used against President Trump's supporters after the Capitol riots are dividing the country further. "
-    publishedDateTime: 2021-01-12T20:10:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3MaGrNW6BEI/miranda-devine-dems-hatred-trump-supporters-un-american"
-    ampWebUrl: "https://www.foxnews.com/politics/miranda-devine-dems-hatred-trump-supporters-un-american.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/miranda-devine-dems-hatred-trump-supporters-un-american.amp"
+  - title: "TeamTrump Twitter account suspended in social media crackdown"
+    excerpt: "Twitter on Friday suspended Team Trump's account on the platform not long after it banned President Trump's account."
+    publishedDateTime: 2021-01-09T17:23:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M07S2BAyaPo/team-trump-twitter-account-suspended"
+    ampWebUrl: "https://www.foxnews.com/politics/team-trump-twitter-account-suspended.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/team-trump-twitter-account-suspended.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Capture-7.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Lindsey Graham calls Twitter's Trump ban a mistake: 'Ayatollah can tweet, but Trump can’t'"
+    excerpt: "Sen. Lindsey Graham, R-S.C., lashed out at Twitter after the social media site announced Friday a permanent ban on President Trump's personal account, calling the move a \"serious mistake.\" "
+    publishedDateTime: 2021-01-09T20:30:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eF5_aCNUwxA/lindsey-graham-twitters-trump-ban-ayatollah"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-twitters-trump-ban-ayatollah.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-twitters-trump-ban-ayatollah.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Mike Huckabee: Trump’s policies have made life better for every American"
-    excerpt: "Huckabee reacted to former U.N. Ambassador Nikki Haley’s comments criticizing Trump over the Capitol Hill riots but also warning the GOP not to forget all he has done."
-    publishedDateTime: 2021-01-08T21:50:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_0V874_NoOQ/mike-huckabee-trumps-policies-life-american"
-    ampWebUrl: "https://www.foxnews.com/politics/mike-huckabee-trumps-policies-life-american.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-trumps-policies-life-american.amp"
+  - title: "Critics mock NY Gov. Cuomo's sudden denunciation of lockdowns, suggest Trump hacked his Twitter account"
+    excerpt: "Democratic New York Gov. Andrew Cuomo raised eyebrows on Monday for his drastic shift on lockdowns during the pandemic. "
+    publishedDateTime: 2021-01-11T23:52:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6yXyhAfGjKY/critics-mock-gov-cuomo-for-sudden-denunciation-of-lockdowns-suggest-trump-is-using-his-twitter-account"
+    ampWebUrl: "https://www.foxnews.com/politics/critics-mock-gov-cuomo-for-sudden-denunciation-of-lockdowns-suggest-trump-is-using-his-twitter-account.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/critics-mock-gov-cuomo-for-sudden-denunciation-of-lockdowns-suggest-trump-is-using-his-twitter-account.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 159
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d528e2b-4d98-4020-b38e-608b9fe1f4f5/296c9f72-e5ee-4d6c-843f-51372355367c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ea97b24-9e30-4e75-8d6c-4d06095a1302/9b9f07f9-872e-48c0-9ac3-e802744ca6c6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "McCarthy condemns 'un-American' breach of US Capitol by pro-Trump demonstrators"
-    excerpt: "House Minority Leader Kevin McCarthy, R-Calif., condemned pro-Trump protesters who broke into the U.S. Capitol building Wednesday as Congress began to formally count the Electoral College votes in the 2020 presidential election."
-    publishedDateTime: 2021-01-06T20:50:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y-37_IupDEc/mccarthy-claims-report-of-shots-fired-as-segment-of-pro-trump-demonstrators-break-into-capitol"
-    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-claims-report-of-shots-fired-as-segment-of-pro-trump-demonstrators-break-into-capitol.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-claims-report-of-shots-fired-as-segment-of-pro-trump-demonstrators-break-into-capitol.amp"
+  - title: "Lindsey Graham calls Twitter's Trump ban a mistake: 'Ayatollah can tweet, but Trump can’t'"
+    excerpt: "S.C., lashed out at Twitter after the social media site announced Friday a permanent ban on President Trump's personal account, calling the move a \"serious mistake.\""
+    publishedDateTime: 2021-01-09T20:41:00Z
+    webUrl: "https://www.foxnews.com/politics/lindsey-graham-twitters-trump-ban-ayatollah"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-twitters-trump-ban-ayatollah.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-twitters-trump-ban-ayatollah.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 125
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d136cee0-68c8-481c-8476-30f8eea6f773/da014ad4-0a09-4d71-b370-39a8d93b99c0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Karl Rove: 'Unseemly' push to impeach Trump is 'not going to be good for the country'"
-    excerpt: "Fox News contributor and former deputy White House chief of staff Karl Rove warned Tuesday that House Democrats' drive to impeach President Trump in connection with last week's riot at the U.S. Capitol is \"very problematic for the country.\""
-    publishedDateTime: 2021-01-13T01:24:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TIQLQx-8H4I/karl-rove-unseemly-push-to-impeach-trump-not-going-to-be-good-for-the-country"
-    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-unseemly-push-to-impeach-trump-not-going-to-be-good-for-the-country.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-unseemly-push-to-impeach-trump-not-going-to-be-good-for-the-country.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
+  - title: "Why Ban of President Trump Proves Twitter Not 'Just a Platform'"
+    excerpt: "So Twitter has permanently banned President Donald Trump's account. While this will please Democrats, and perhaps lessen the (justifiable) heat the company is taking from regulators, it just prov… This is what happened."
+    publishedDateTime: 2021-01-09T14:56:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/09/why_ban_of_president_trump_proves_twitter_not_just_a_platform_533042.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "TKeTz6A+vBkWHAKarTlX+tdw44l9ZXBiuzBXDYD8/v8x8GblfaBjCgqQsdsvNa27kgAl3vEjFnMZlcyQunuztLAEyWd3y/MhBwCPxlpr2zIULXOTC+GcPHpRtLoExOtIxE4k7NsxU5hZCtg/DmMve8NNOjdFYNkNU6sn9UrRkoLQE/rV2Qz3d4xTtUDxwGkhxmCiIXrE4GJNHtydTBEnMkPv1VI24j7cAQIZ7WF/PmEFrSrsSf6ghmFiLgoXvSOZKXK5SmZZS3V/KBcIBfuLQ9WuGeb4mZ2TUxJJSJJcIP3Imm0yXYqDmyGZD2qt5uIu4+NTQF9+GD1lzD3LYkFnTu+n77MqmL0ZExmN4pPFLrE=;haoBW+WvFWlvuNCvavYDJg=="
 ---

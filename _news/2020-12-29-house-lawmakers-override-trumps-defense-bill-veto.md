@@ -31,307 +31,179 @@ images:
     isCached: true
 
 related:
-  - title: "'Squad' introduces bill for $2,000 stimulus checks backed by Trump"
-    excerpt: "Members of the progressive \"Squad\" in the House on Thursday introduced their own bill to send $2,000 stimulus checks to Americans after President Trump this week demanded the $600 checks included in Congress' stimulus deal be increased to that number. "
-    publishedDateTime: 2020-12-25T17:38:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9LZqQjUCns/squad-stimulus-checks-bill-trump-funding-bill-on-hold"
-    ampWebUrl: "https://www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp"
+  - title: "From Trump's impeachment trial to Hunter Biden: The biggest political scandals of 2020"
+    excerpt: "As 2020 comes to a close, the news has been dominated by a global pandemic, statewide lockdowns and a presidential election. Amid all that, it’s easy to forget about political events, including scandals and controversies, that otherwise would have been more in the spotlight."
+    publishedDateTime: 2020-12-22T19:27:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U99P66zzip0/trump-biden-biggest-political-scandals-of-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-biggest-political-scandals-of-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 182
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump doubles down $2,000 coronavirus check demand"
-    excerpt: "President Trump on Friday doubled down on his demand for increased coronavirus-related stimulus checks to working-class Americans."
-    publishedDateTime: 2020-12-25T22:53:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h-7QUImVAiU/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f35bbb7-4c3b-4a0e-bf61-6e591243d96b/e20067c3-dc8c-4338-94ca-15ed916a6fcb/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6735719-5880-4721-98a4-9f6162f992d6/7744e53b-a550-4780-9b27-5228d2ea0d54/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "McConnell blocks quick vote on Trump’s $2K checks"
-    excerpt: "McConnell said Tuesday that the Senate will address President Trump's request."
-    publishedDateTime: 2020-12-29T20:25:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_nNoN0VTe7A/mcconnell-blocks-quick-vote-on-trumps-2k-checks"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-blocks-quick-vote-on-trumps-2k-checks.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-blocks-quick-vote-on-trumps-2k-checks.amp"
+  - title: "Live Updates: Biden warns Trump administration’s efforts to vaccinate Americans 'falling behind'"
+    excerpt: "The president-elect also criticized the outgoing administration's lack of COVID testing for Americans, calling it \"a travesty.\" "
+    publishedDateTime: 2020-12-30T05:03:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qr4xzxxbuRs/live-updates-biden-12-30-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 177
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Lindsey Graham backs Trump over McConnell on $2,000 checks"
-    excerpt: "McConnell and other Republicans scuttled efforts to bring the matter up for a standalone vote before the current session of Congress ends."
-    publishedDateTime: 2021-01-02T00:34:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lL8ovciaJR4/lindsey-graham-trump-over-mcconnell-2000-checks"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-over-mcconnell-2000-checks.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-over-mcconnell-2000-checks.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78e5a69d-1b5a-4e51-9b92-38c437874015/4d11e192-e2cc-4c3b-bc07-6e73f43654cd/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/646cbeae-51c0-4075-9a62-fbdd79191c70/fd810d22-270c-4029-af92-2b4285d17cfe/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump threatens to veto massive COVID bill, demands Congress make this big change"
-    excerpt: "President Trump slammed the recently passed $900 billion COVID-19 relief package as a \"disgrace\" on Tuesday evening, urging Congress amend the bill to increase the direct payments given to Americans."
-    publishedDateTime: 2020-12-23T00:29:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XMC6sUUUbPM/trump-threatens-to-veto-massive-covid-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-threatens-to-veto-massive-covid-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-threatens-to-veto-massive-covid-bill.amp"
+  - title: "Arizona congresswoman backs calls for Hunter Biden special counsel"
+    excerpt: "Rep. Debbie Lesko says she has sent a letter to the Attorney General."
+    publishedDateTime: 2020-12-29T02:52:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mPgrJiiKwBw/congresswoman-special-counsel-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/congresswoman-special-counsel-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/congresswoman-special-counsel-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f1ca1b6-a9e5-400b-aa09-7baf7124297c/05de37e4-1964-41ef-8cc1-be2d61cf6203/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "President Trump vetoes National Defense Authorization Act for Fiscal Year 2021"
+    excerpt: "President Trump vetoed the National Defense Authorization Act for Fiscal Year 2021 Wednesday, calling it a “gift” to U.S. adversaries China and Russia, making good on a promise to veto it if it did not repeal a law that shields certain Big Tech companies from liabilities."
+    publishedDateTime: 2020-12-23T20:42:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DlsSY3OwP2Y/trump-veto-national-defense-authorization-act"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-veto-national-defense-authorization-act.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-veto-national-defense-authorization-act.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20357806053798-1.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Omar blasts Biden team 'bait and switch' after officials say undoing Trump immigration policy will 'take time'"
+    excerpt: "Rep. Ilhan Omar accused the Biden team of already breaking a “core campaign promise” after officials picked to serve in the president-elect’s administration admitted that they would not roll back Trump’s immigration policies all at once. "
+    publishedDateTime: 2020-12-22T19:20:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1AxJxVii8FU/omar-biden-team-bait-switch-undoing-trump-immigration-policy-take-time"
+    ampWebUrl: "https://www.foxnews.com/politics/omar-biden-team-bait-switch-undoing-trump-immigration-policy-take-time.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-biden-team-bait-switch-undoing-trump-immigration-policy-take-time.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/814418a1-08c9-4bed-b7c7-fdab0625619e/0c6fe622-1cb6-4599-a598-7e8010fec20a/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Ilhan-Omar-REUTERS.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump’s call for $2,000 stimulus checks hailed – by critics Pelosi, AOC, Sanders"
-    excerpt: "As if 2020 hasn’t delivered enough unexpected news, consider this: President Trump’s call Tuesday night for Congress to raise coronavirus stimulus payments to Americans to $2,000 won raves from at least three of his harshest critics."
-    publishedDateTime: 2020-12-23T04:15:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DluRjDsgcPA/trumps-call-for-2000-stimulus-checks-hailed-by-critics-pelosi-aoc-sanders"
-    ampWebUrl: "https://www.foxnews.com/politics/trumps-call-for-2000-stimulus-checks-hailed-by-critics-pelosi-aoc-sanders.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-call-for-2000-stimulus-checks-hailed-by-critics-pelosi-aoc-sanders.amp"
+  - title: "President Trump Spends Christmas at Mar-a-Lago, and Joe Biden in Delaware"
+    excerpt: "The president"
+    publishedDateTime: 2020-12-25T13:16:00Z
+    webUrl: "https://www.wsj.com/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768?mod=hp_listb_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Trump-Pelosi-Sanders-AOC-THUMB.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Pelosi presses McCarthy to agree to bigger stimulus checks after Trump intervention"
-    excerpt: "House Speaker Nancy Pelosi on Wednesday called on GOP Leader Kevin McCarthy to join her in backing a boost to the coronavirus stimulus checks – which would bump them to $2,000 – because of a last-minute demand from President Trump."
-    publishedDateTime: 2020-12-23T17:58:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IvospTGeXI8/pelosi-presses-mccarthy-bigger-stimulus-checks-trump-intervention"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-presses-mccarthy-bigger-stimulus-checks-trump-intervention.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-presses-mccarthy-bigger-stimulus-checks-trump-intervention.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/441afbd8-3b5d-49bb-94e3-b15cc9c0ea76/37ad5e6f-62a0-407d-b794-e5e541d30bae/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Sanders calls Trump delay on relief bill 'cruel,' while agreeing with push for $2,000 payments"
-    excerpt: "House Speaker Nancy Pelosi said she would force a vote Monday on increasing payments to Americans in a coronavirus relief bill from $600 to $2,000 after President Trump urged lawmakers to do so, but Sen. Bernie Sanders, I-Vt., offered sharp opposition to the president's decision to not automatically"
-    publishedDateTime: 2020-12-27T19:43:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bx2rWLUCaWA/sanders-trump-delay-coronavirus-relief-bill-cruel-stimulus-checks"
-    ampWebUrl: "https://www.foxnews.com/politics/sanders-trump-delay-coronavirus-relief-bill-cruel-stimulus-checks.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-trump-delay-coronavirus-relief-bill-cruel-stimulus-checks.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68f2e7ff-9ac5-45dd-ace4-2e5288b5f724/b4a74886-bfc2-4b11-a57f-9eedc083859b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "McConnell blocks quick vote on $2,000 stimulus checks, says Senate to bring Trump requests 'into focus'"
-    excerpt: "Senate Majority Leader Mitch McConnell said Tuesday that the Senate will address President Trump's request to increase stimulus checks sent to Americans to $2,000 but did not commit to pushing the issue -- as Sen. Bernie Sanders and Senate Minority Leader Chuck Schumer each urged the body to put the"
-    publishedDateTime: 2020-12-29T18:08:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rsJIdswnJwk/mcconnell-blocks-2000-stimulus-checks-quick-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-blocks-2000-stimulus-checks-quick-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-blocks-2000-stimulus-checks-quick-vote.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 159
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://images.wsj.net/im-278203/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Flashback: Trump in 2018 on massive spending bill 'nobody read': 'I will never sign another bill like this'"
-    excerpt: "President Trump on Tuesday blasted the bipartisan omnibus spending bill passed by Congress that wrapped up COVID relief in it, calling for larger stimulus checks and arguing no one in Congress had read the bill."
-    publishedDateTime: 2020-12-23T18:49:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NXt7eXVNPcc/flashback-trump-2018-spending-bill-nobody-read-never-sign-another-bill-like-this"
-    ampWebUrl: "https://www.foxnews.com/politics/flashback-trump-2018-spending-bill-nobody-read-never-sign-another-bill-like-this.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-trump-2018-spending-bill-nobody-read-never-sign-another-bill-like-this.amp"
+  - title: "Graham vows to hold Dems, media accountable over Hunter Biden: 'We're not going to sweep this under the rug'"
+    excerpt: "Senate Judiciary Committee Chairman Lindsey Graham doubled down Thursday on his calls for President Trump to appoint a special counsel to investigate Hunter Biden’s business dealings in China."
+    publishedDateTime: 2020-12-18T01:19:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O8Wz6FfRgYk/lindsey-graham-hunter-biden-not-sweep-under-rug"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-hunter-biden-not-sweep-under-rug.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-hunter-biden-not-sweep-under-rug.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 156
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/441afbd8-3b5d-49bb-94e3-b15cc9c0ea76/37ad5e6f-62a0-407d-b794-e5e541d30bae/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b55e6af3-1933-400f-abde-4a5da8f2f4db/ea9eafcd-3cfb-4178-8bb1-6994cc6cf278/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "McConnell introduces his own bill on $2,000 stimulus checks, other Trump priorities"
-    excerpt: "Senate Majority Leader Mitch McConnell on Wednesday introduced his own version of a bill to increase the $600 stimulus checks from the coronavirus relief package to $2,000, but also included two other major priorities for President Trump."
-    publishedDateTime: 2020-12-30T14:13:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W3UbenYSOCU/mcconnell-introduces-his-own-bill-on-2000-stimulus-checks-other-trump-priorities"
+  - title: "KT McFarland: Trump's Abraham Accords are so significant, even 'a Biden admin can't screw it up'"
+    excerpt: "The U.S. brokered Abraham Accords which have made great strides in normalizing relations in the Middle East and promoting a mentality of peace that will extend far beyond his presidency, KT McFarland said Sunday."
+    publishedDateTime: 2020-12-28T02:38:00Z
+    webUrl: "https://www.foxnews.com/media/kt-mcfarland-trumps-abraham-accords-israel-iran"
+    ampWebUrl: "https://www.foxnews.com/media/kt-mcfarland-trumps-abraham-accords-israel-iran.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kt-mcfarland-trumps-abraham-accords-israel-iran.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 149
+    quality: 137
     images:
-      - url: "https://secure.media.foxnews.com/BrightCove/990505083001/990505083001/2020/12/29/990505083001_6219051691001_6219049610001-vs.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e200f42d-47e5-4e6b-8adc-02df3f0b10a8/66390a62-dbae-443b-b83b-a66c4beeb143/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "'Squad' introduces bill for $2,000 stimulus checks backed by Trump"
-    excerpt: "Members of the progressive \"Squad\" in the House on Thursday introduced their own bill to send $2,000 stimulus checks to Americans after President Trump this week demanded the $600 checks included in Congress' stimulus deal be increased to that number."
-    publishedDateTime: 2020-12-25T17:42:00Z
-    webUrl: "https://www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold"
-    ampWebUrl: "https://www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-stimulus-checks-bill-trump-funding-bill-on-hold.amp"
+  - title: "House Republicans urge Trump to veto omnibus spending bill"
+    excerpt: "A group of House Republicans on Wednesday urged President Trump to veto an approximately $1.4 trillion omnibus spending bill being negotiated in Congress, describing it as an example of \"swamp politics\" in Washington D."
+    publishedDateTime: 2020-12-17T10:43:00Z
+    webUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill"
+    ampWebUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1197873325.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Trump doubles down $2,000 coronavirus check demand"
-    excerpt: "President Trump on Friday doubled down on his demand for increased coronavirus-related stimulus checks to working-class Americans."
-    publishedDateTime: 2020-12-25T23:07:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-doubles-down-on-last-minute-demand-for-2000-covid-checks.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f35bbb7-4c3b-4a0e-bf61-6e591243d96b/e20067c3-dc8c-4338-94ca-15ed916a6fcb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Lindsey Graham backs Trump over McConnell on $2,000 stimulus checks"
-    excerpt: "McConnell and other Republicans scuttled efforts to bring the matter up for a standalone vote before the current session of Congress ends."
-    publishedDateTime: 2021-01-02T00:48:00Z
-    webUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-over-mcconnell-2000-checks"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-trump-over-mcconnell-2000-checks.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-trump-over-mcconnell-2000-checks.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78e5a69d-1b5a-4e51-9b92-38c437874015/4d11e192-e2cc-4c3b-bc07-6e73f43654cd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump rips ‘Pathetic!!!’ Senate GOP for blocking $2,000 checks"
-    excerpt: "Our Republican Senate just missed the opportunity to get rid of Section 230, which gives unlimited power to Big Tech companies. Pathetic!!!” Trump tweeted."
-    publishedDateTime: 2021-01-01T22:10:00Z
-    webUrl: "https://nypost.com/2021/01/01/trump-rips-pathetic-senate-gop-for-blocking-2k-checks/"
-    ampWebUrl: "https://nypost.com/2021/01/01/trump-rips-pathetic-senate-gop-for-blocking-2k-checks/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/01/trump-rips-pathetic-senate-gop-for-blocking-2k-checks/amp/"
+  - title: "President Trump is most admired man in 2020, Gallup poll reveals"
+    excerpt: "President Trump and former first lady Michelle Obama have topped the list of the most admired man and woman for 2020, according to a Gallup poll released Tuesday. The annual survey asked"
+    publishedDateTime: 2020-12-29T14:21:00Z
+    webUrl: "https://nypost.com/2020/12/29/trump-tops-list-of-most-admired-men-of-2020-poll/"
+    ampWebUrl: "https://nypost.com/2020/12/29/trump-tops-list-of-most-admired-men-of-2020-poll/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/29/trump-tops-list-of-most-admired-men-of-2020-poll/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/trump-senate.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-admired-2020.jpg?quality=90&strip=all&w=1200"
         width: 1200
-        height: 799
+        height: 800
         isCached: true
-  - title: "Covid-19 Aid Bill Remains in Doubt as Congress Braces for Showdown With Trump"
-    excerpt: "Unemployment benefits used by millions of Americans lapsed overnight and the government was at risk of shutting down, as lawmakers were poised to face off with President Trump over his objections to sweeping pandemic-aid legislation and a defense-policy bill."
-    publishedDateTime: 2020-12-27T17:18:00Z
-    webUrl: "https://www.wsj.com/articles/covid-19-aid-bill-remains-in-doubt-as-congress-braces-for-showdown-with-trump-11609089335"
-    ampWebUrl: "https://www.wsj.com/amp/articles/covid-19-aid-bill-remains-in-doubt-as-congress-braces-for-showdown-with-trump-11609089335"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/covid-19-aid-bill-remains-in-doubt-as-congress-braces-for-showdown-with-trump-11609089335"
+  - title: "Left Seeks Leverage to Move Biden"
+    excerpt: "The tug-of-war between President-elect Joe Biden and the left wing of the Democratic Party is shifting onto policy grounds now that nominees have been selected for key positions in the new administration."
+    publishedDateTime: 2020-12-28T12:34:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/28/left_seeks_leverage_to_move_biden_532247.html"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 132
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
     images:
-      - url: "https://images.wsj.net/im-278361/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump explodes stimulus bill, leaving Washington scrambling, millions in doubt"
-    excerpt: "President Trump sat out the first four quarters and then dropped a bomb in overtime, threatening to blow up the Christmas package that Congress had finally cobbled together to ease the pain of the pandemic."
-    publishedDateTime: 2020-12-24T08:12:00Z
-    webUrl: "https://www.foxnews.com/media/trump-explodes-stimulus-bill-leaving-washington-scrambling-millions-in-doubt"
-    ampWebUrl: "https://www.foxnews.com/media/trump-explodes-stimulus-bill-leaving-washington-scrambling-millions-in-doubt.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-explodes-stimulus-bill-leaving-washington-scrambling-millions-in-doubt.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/howard-kurtz.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Shutdown averted as Trump signs Covid bill, vows to push for $2G checks from Congress"
-    excerpt: "Trump signs Covid bill, averts shutdown, will continue to push for $2G checks from Congress Five days after calling the coronavirus bill a \"disgrace,\" President Trump signed the massive $900 billion COVID-19 relief and $1."
-    publishedDateTime: 2020-12-28T10:19:00Z
-    webUrl: "https://www.foxnews.com/us/shutdown-averted-as-trump-signs-covid-bill-vows-to-push-for-2g-checks-from-congress"
-    ampWebUrl: "https://www.foxnews.com/us/shutdown-averted-as-trump-signs-covid-bill-vows-to-push-for-2g-checks-from-congress.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/shutdown-averted-as-trump-signs-covid-bill-vows-to-push-for-2g-checks-from-congress.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20361775825326.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "McConnell blocks quick vote on $2,000 stimulus checks, says Senate to bring Trump requests 'into focus'"
-    excerpt: "Senate Majority Leader Mitch McConnell said on Tuesday that the Senate will address President Trump's request to increase stimulus checks sent to Americans to $2,000 but did not commit to pushing the issue -- as Sen."
-    publishedDateTime: 2020-12-29T18:21:00Z
-    webUrl: "https://www.foxnews.com/politics/mcconnell-blocks-2000-stimulus-checks-quick-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-blocks-2000-stimulus-checks-quick-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-blocks-2000-stimulus-checks-quick-vote.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 119
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://assets.realclear.com/images/53/530848_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "s8FtJKx23jecWXREGJZrn1XL6fCyijl3Q4gCISU8GZdKjpcftSrfQ5RvWAzJ3B24M/y26bZ4pceDly7yLvbjH94El+40AS5LXVsrEPyUmv8LtBfIahwjHKYb+uMjerEdV0MnlR6EYTAdhApAF/uifUSQzzyoXYTEFliLYPR9jc2YEE4e+56yBmUxFLB35avZVEu4pUv5JJ5Rl2SMzPI1tXB93YorJYsFXD/m5O1MvBSqRxAMLK59935z0uVYhWdx2nUQ1nfkimTepSgpC56hcLV/wenjx0sXKzCz3nXTQFX5vr2id9W6u8C/UGqJAIWnSvWj9/paz3GWHFoHvRidE+fVMjGzG91Y8Ztm5aHBDc4=;MXxU/Y8QpIAzxb3ULe8gzw=="

@@ -31,53 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Ilhan Omar says Trump 'will be impeached'"
-    excerpt: "Rep. Ilhan Omar, D-Minn., vowed on Friday that President Trump would be impeached after this week's riots, which have prompted widespread criticism of the president and his rhetoric following November's election."
-    publishedDateTime: 2021-01-08T21:33:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N3eIvLRm9mQ/ilhan-omar-trump-impeached"
-    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-trump-impeached.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-trump-impeached.amp"
+  - title: "Sen. Cory Booker expects Trump impeachment trial 'as quickly as possible'"
+    excerpt: "Sen. Cory Booker, D-N.J., said that after the House voted to impeach President Trump last week, he expects the Senate to hold a trial relatively soon."
+    publishedDateTime: 2021-01-17T19:14:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXTLAGXiBHs/sen-booker-trump-impeachment-trial-quickly-as-possible"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-booker-trump-impeachment-trial-quickly-as-possible.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-booker-trump-impeachment-trial-quickly-as-possible.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cabbd5c8-5261-4e94-9550-81c691405868/20c9113c-d0de-48ab-ae7d-c9f0afd4d1cd/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31a1fe1e-5515-468e-9607-4738d2533c9f/c9629705-1284-496f-9cfa-44d30c4119aa/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump says his supporters will still have a 'giant voice,' won't be 'disrespected' "
-    excerpt: "President Trump on Friday said his supporters will still have a “giant voice” and would not be “disrespected” after he leaves the White House."
-    publishedDateTime: 2021-01-08T15:50:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7ev1L67eFJU/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "McConnell says he has 'not made a final decision' on how he will vote on Trump impeachment"
-    excerpt: "Senate Majority Leader Mitch McConnell told Republican colleagues Wednesday that he has “not made a final decision” on how he will vote on impeachment, despite signaling that he supported House Democrats’ move to initiate impeachment proceedings against President Trump."
-    publishedDateTime: 2021-01-13T20:35:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2JouXSKxUK8/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
 
 secured: "kcWhgmbposmEDRCp/wy4Qn+ef8LDXczJBLWIc+NwTyEPt2fUaR1/iWOVKd+z3NGPM9nvDcCWnyzj1TVw/fC3fRnfZFVBLayiNKdg9YnAAwCad4WJBRVYEIdK7xkwFZTFeP9jhzvBOKYwLdsxFdN6RPX0iJKDkLfXM7fpFVIzQOkyuM/xgG5DCbuWb3vhug04aR9IPngo2qgrbVSoDNfXvEZ1TasUGk8/bMq83texNFCuVy9qNIigYhXR/wDPFhS6u8jET40ic9SFuBp9b2OmvsDV5Voycxz8KspMsX1cLAenAJ2mv8TqOp/4+8fTjlum0/5uMsPCVfd3ba56exzgbPPCTa2BKOQn2TYIzZM6TzM=;4Efmvn/SQFokAozyN6txeA=="

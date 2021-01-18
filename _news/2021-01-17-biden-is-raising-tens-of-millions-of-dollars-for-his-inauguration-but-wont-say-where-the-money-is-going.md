@@ -173,6 +173,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump farewell planned for Wednesday morning at military base ahead of Joe Biden’s oath of office"
+    excerpt: "White House officials are planning a farewell ceremony for Donald Trump as he leaves Washington on Wednesday morning."
+    publishedDateTime: 2021-01-18T15:55:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-leaving-white-house-early-20210118-axqwpl73gjdjdmrmguj6vy6wjm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-leaving-white-house-early-20210118-axqwpl73gjdjdmrmguj6vy6wjm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-leaving-white-house-early-20210118-axqwpl73gjdjdmrmguj6vy6wjm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: chicagotribune.com
+    quality: 127
+    images:
+      - url: "https://www.chicagotribune.com/resizer/FArwfV_VCDy2wkkwgEwMwZ3ow20=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VOTAKBFCVB4D4PIUGHMVXRV4XE.aspx"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Business grows skittish about Trump and GOP after riots"
     excerpt: "Corporate America is quickly distancing itself from President Donald Trump and his Republican allies, with many of the biggest names in business — Goldman Sachs, Coca Cola, Ford, and Blue Cross Blue Shield — suspending political donations after a Trump-inspired mob ransacked the U."
     publishedDateTime: 2021-01-11T22:09:00Z
@@ -461,6 +477,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Live Updates: Biden pauses to honor King as preparations continue for inauguration"
+    excerpt: "Washington — President-elect Joe Biden and incoming first lady Jill Biden are honoring the life of Dr. Martin Luther King, Jr., on Monday, two days before Mr. Biden is sworn-in as president of the United States. The Bidens are recognizing the federal ..."
+    publishedDateTime: 2021-01-18T15:19:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/biden-inauguration-preparation-2021-01-18/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/biden-inauguration-preparation-2021-01-18/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/biden-inauguration-preparation-2021-01-18/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/18/024ec4b2-151f-4c49-bb5f-7591f1bff55e/thumbnail/1200x630g2/c7b7210a03c8655208aee4e064fa971d/2021-01-18t143037z-667358258-rc2eal9k2fb7-rtrmadp-3-usa-biden-inauguration.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump prepares to offer clemency to more than 100 people in his final hours in office"
     excerpt: "The president has been consumed with the question of whether to issued preemptive pardons to his children, top aides and himself, but it remains unclear whether he will do so."
     publishedDateTime: 2021-01-18T10:54:00Z
@@ -735,6 +767,22 @@ related:
         width: 800
         height: 519
         isCached: true
+  - title: "Joe Biden volunteers, Donald Trump works on MLK Day"
+    excerpt: "state and national organizations virtually for a National Day of Service on Martin Luther King Jr. Day while the White House designated Monday as a working day for President Donald Trump. Biden and wife Jill Biden are expected to volunteer at Philabundance ..."
+    publishedDateTime: 2021-01-18T14:39:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/18/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day/1671610978151/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/18/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day/1671610978151/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/18/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day/1671610978151/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 100
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/1671610978151/2021/1/d90e27e5b533cf02b2ab1cdebe011438/v1.5/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Biden says he hopes Senate leadership will work on other business during impeachment"
     excerpt: "U.S. President-elect Joe Biden on Wednesday called on Senate leadership to work on other business while dealing with their responsibilities on impeachment after a House of Representatives vote that made Donald Trump the first U."
     publishedDateTime: 2021-01-14T06:15:00Z
@@ -762,22 +810,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547306910&r=LYNXMPEH090DD&w=800"
         width: 800
         height: 533
-        isCached: true
-  - title: "Joe Biden volunteers, Donald Trump works on MLK Day"
-    excerpt: "state and national organizations virtually for a National Day of Service on Martin Luther King Jr. Day while the White House designated Monday as a working day for President Donald Trump. Biden and wife Jill Biden are expected to volunteer at Philabundance ..."
-    publishedDateTime: 2021-01-18T14:39:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/01/18/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day/1671610978151/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/18/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day/1671610978151/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/18/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day/1671610978151/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 90
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/1671610978151/2021/1/d90e27e5b533cf02b2ab1cdebe011438/v1.5/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day.jpg"
-        width: 800
-        height: 534
         isCached: true
   - title: "Trump’s Senate impeachment trial could begin on day of Joe Biden’s inauguration"
     excerpt: "The impeachment trial timeline and schedule are largely set by Senate procedures and will start as soon as the House delivers the article of impeachment."
@@ -989,6 +1021,31 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Here are 3 immediate goals for Joe Biden as he prepares to lead a nation in crisis"
+    excerpt: "When Joe Biden is inaugurated Wednesday as the 46th president of the United States, he’ll face a nation torn by deep political and social divisions, and"
+    publishedDateTime: 2021-01-18T11:15:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/01/18/here-are-3-immediate-goals-for-joe-biden-as-he-prepares-to-lead-a-nation-in-crisis/"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 49
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/cMyiQVSlq1so5GyTMKeW4QPsRcQ=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/25GYRBL7QFPEXEFRPY2HXBS5CA.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump Sought the World's Attention and Got It. Now the White House Reality Show Ends"
+    excerpt: "President Donald Trump never hid how he felt. His words and body language made his thoughts clear. For more than four years, Trump, a Republican, cultivated a political base by sharing his thoughts and emotions - pride,"
+    publishedDateTime: 2021-01-18T14:51:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-18/trump-sought-the-worlds-attention-and-got-it-now-the-white-house-reality-show-ends"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-18/trump-sought-the-worlds-attention-and-got-it-now-the-white-house-reality-show-ends?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-18/trump-sought-the-worlds-attention-and-got-it-now-the-white-house-reality-show-ends?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 48
   - title: "Nevada Judge Who Denied Trump Campaign Appeal Was Threatened"
     excerpt: "Authorities in Carson City are investigating a threat made against a state judge who dismissed a lawsuit last month brought by President Donald Trump’s campaign."
     publishedDateTime: 2021-01-15T18:53:00Z

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Who's attending Biden's inauguration?"
-excerpt: "The guest list for the presidential inauguration scheduled to take place in Washington, D.C. this Wednesday will be scaled back amid both the coronavirus pandemic, as well as beefed-up security measures put in place two weeks after rioters stormed the U.S. Capitol."
-publishedDateTime: 2021-01-18T12:11:24Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9aZAurDmFEc/biden-inauguration-who-is-attending"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9aZAurDmFEc/biden-inauguration-who-is-attending"
+excerpt: "The guest list for the presidential inauguration scheduled to take place in , D.C. this Wednesday will be scaled back amid both the coronavirus pandemic, as well as beefed-up security measures put in place two weeks after rioters stormed the U."
+publishedDateTime: 2021-01-18T12:16:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-inauguration-who-is-attending"
+webUrl: "https://www.foxnews.com/politics/biden-inauguration-who-is-attending"
 ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-who-is-attending.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-who-is-attending.amp"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04e8cb81-2497-41bd-b463-ef571490a0ee/b30c1a8f-c57c-4bec-9fba-c7d7e911a5fc/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -44,22 +45,6 @@ related:
     quality: 193
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fed884c-b708-4ec0-9242-0b2b61b4244a/15d1d9b5-6b44-4c76-8142-bdc1d653054b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden administration will publish White House visitor logs, reversing Trump policy"
-    excerpt: "Incoming White House Press Secretary Jen Psaki said late Friday that President-elect Joe Biden’s administration would resume the tradition of publishing the White House’s visitor logs"
-    publishedDateTime: 2021-01-16T01:05:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3kQbnGEJylg/biden-press-secretary-white-house-visitor-logs"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 184
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7de536e-1b1d-4f26-a547-667b1a372a6b/462cdc42-e036-410d-802a-644eed65a420/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -159,6 +144,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Pence urges Biden administration to have ‘eternal vigilance’ in standing up to China"
+    excerpt: "In one of his final public appearances before leaving the White House next week, Vice President Mike Pence urged the Biden administration to exercise \"eternal vigilance,\" especially when it comes to U.S.-China relations. \"As a new American administration ..."
+    publishedDateTime: 2021-01-18T16:12:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-biden-administration-eternal-vigilance-in-standing-up-to-china"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-biden-administration-eternal-vigilance-in-standing-up-to-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-administration-eternal-vigilance-in-standing-up-to-china.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fed884c-b708-4ec0-9242-0b2b61b4244a/15d1d9b5-6b44-4c76-8142-bdc1d653054b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "LIVE UPDATES: Biden inauguration plans prompt closing of National Mall"
     excerpt: "The National Park Service has closed Washington’s National Mall to the general public as part of greatly intensified security ahead of inauguration of President-elect Joe Biden. The National Mall is closing to the general public as part of greatly ..."
     publishedDateTime: 2021-01-18T00:24:00Z
@@ -192,6 +193,6 @@ related:
         height: 320
         isCached: true
 
-secured: "cOhaQE+ivRwnx3SdyZcUVFdTAdg2KabbyFOHBvRZR+eJqiJ2QCPiaBB8HCDfhj6i5U1KQAvTGhMCmTwa1y6cpG0pCOwq6ONdkE5GEagoI7NUX+KsCKBaMgZUapLzcylPE3qlnlUIHtksrAfWGi4nSdhkt571dokCGwGR8k3jZ52Vsqj/gUT9zBQbim395+vaaCEbrIvt5TinO+7pcw4zAvlalE2e1/cJpS58xzzgNc+7q3X7slyJRaM8nkzwIJTpCP7yPRWuToujY0EpFpBtsNRquUPYN3cvxGqwrWuGMH/Hxh/cfWpmVgXrPjn72PtpAYsDzMO7RsGMLYj2zcJ9l2awcuwJA1beiiT63loyE1E=;G9GHh0sr9wZiJebbqKcaiQ=="
+secured: "Y9cUxDdMWB/1QOkEhy6joYhNmtOpgTmmbTsmx71NbV8OSZLAv0FcgCpg3sML9X+TD1lSxYrIKQL8wdQgnrynAoiiCseQ3wgcR4KfJ6JUAYyj+w4jtJflsELHWSgqCmr0T93QuNdlRwZ1aktYDm35IMDe16uIhC2cZoE1KRnwVHQv0Bj/zLZyG1tRUTt5RB/JaauqaQKAb0SpfugzBLC731bii82jX0+audIbgkEWNY53dBJD2hnOyl7tyOvh44yMziy4esQE0jttAHj1ywIagNN60kVn7VzNEGtrmCdk/Q404V0ECSICDpJnXgHSNQ2BH7qZQwICwYJggVjblFtJZ6oPlNfRzKQMIzvH826+SGA=;kl3GdzeH3f6Bz9GDCRY8cw=="
 ---
 

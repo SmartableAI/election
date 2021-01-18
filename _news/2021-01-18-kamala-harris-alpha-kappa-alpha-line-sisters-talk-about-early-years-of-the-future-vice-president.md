@@ -219,6 +219,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris makes history. Her swearing-in as vice president shows ‘strength of our democracy.’"
+    excerpt: "Kamala Harris’ inauguration is a marker that the arc of history is bending toward the democracy America deserves. Support her, and hold her accountable. Kamala Harris’ inauguration is a marker that the arc of history is bending toward the democracy ..."
+    publishedDateTime: 2021-01-18T16:23:00Z
+    webUrl: "https://www.indystar.com/in-depth/opinion/voices/2021/01/18/kamala-harris-swearing-vice-president-shows-strength-our-democracy-column/6564032002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6564032002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6564032002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 62
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/11/USAT/ceddbdfa-77f9-4462-a868-179faa78cbcf-AP_Election_2020.jpg?auto=webp&crop=4500,2531,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "I’m an American teenager of South Indian descent. Here’s what Kamala Harris means to me"
     excerpt: "Seeing Kamala Harris about to become U.S. vice president has largely fulfilled a childhood dream of mine, writes 15-year-old Disha Cattamanchi. \"Although I only see her through a TV screen, I see so much of myself and what I"
     publishedDateTime: 2021-01-14T14:00:00Z
@@ -231,6 +247,6 @@ related:
       domain: seattletimes.com
     quality: 47
 
-secured: "Kj49dsbiyG4h9uHxsTLjD0Ddntb+n5435xd62JP2QPzD/EpXPJZzDYGIL1XQ/Sa0NZaFdmopHtbtKkfRAWRb5yBa2aILDDRJEt0aAlOGgs7/GYFY9sZsIlHzRAvbVIouN5Gcp87D4dCi6gk3UtU3PlVeWtH4nU+mR52iZnoCjFAsSrbxvR0GwjT86hBRkxjE2YADh1mGTaesmiltM4iC6Px9B5S6mKBhC/4loInh67avo5JUpcubH9+nd58bh+LksBRHc5JTCNOoGPHDjRPqjhW7eXbRyHPJptJPZ2iU6+6GRHBwHXJQNysNvR21Sutrf2sXAbdkKy/uHPIa03vodmsvOStHrkNV45dtviFtGbU=;hGeqWv76mlPIKdGTBALi4Q=="
+secured: "LTh2qPImiTbZ6WIVrDBIGkmr0yu7AV3UhNcGiodD1SNIB2DhjeMRBHOGaEbXkQOrdHmcfMSlIO6wacsRP1WI8Mpyqft+vVg7rRQFKhlsBNMGmvmLG4hUn/c9qxm4u399rCekFVJlXjjH8YN3bnyvQXs9brgH/tuL5coDrvNB13HKJCe9C47gAYRP4oTvD4dH21r6TAuKbvS6lr5BFWTerggwjLc7DW531Cd7kk73O/HHrZov3l7EObSNZmTRXpZUngbbJBx6f4gGqFWl6ZlJpRhjMHnuJTzL7Jl7AtR6opdSTab0szLsACG4tN9cIOAibyp2sHSjYAoXd+2IN+CKgn6vuCIlERaubKttXZbhWsPmB7T1fY5ggP9fbXmWSv2LDb3Td8+xCmaLQu3cViZGmLTnIcAtIfY4SLu9e4I1Vptlb0NkkqQ2Q/86P/HTSD9CEzad5s0JkP3T4fBevRzC4ZdyJZpRpDw335pbRjrfc8HEysPUj0ylCO3+935SRXp0YKMlR6nxWSOWK2n4buNcWw==;e3W+J7ST1ETM0940GNuySA=="
 ---
 

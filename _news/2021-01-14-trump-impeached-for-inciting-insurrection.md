@@ -160,6 +160,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Harris resigns from the Senate ahead of inauguration "
+    excerpt: "Vice President-elect Kamala Harris has formally submitted a letter of resignation for her US Senate seat to California Gov. Gavin Newsom, ending her four-year career in the chamber, a Harris aide said Monday.\n    \n"
+    publishedDateTime: 2021-01-18T16:38:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QY-rMEnJhM8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/kamala-harris-resignation-san-francisco-chronicle/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/kamala-harris-resignation-san-francisco-chronicle/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108130454-01-kamala-harris-0827-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump, pressured into video concession, faces uncertain final stretch"
     excerpt: "President Donald Trump's top aides delivered a blunt warning to him Thursday as he sat sullenly in the West Wing and watched as his Republican allies, Cabinet secretaries and former senior staffers criticized or denounced him one by one.\n    \n"
     publishedDateTime: 2021-01-08T14:12:16Z

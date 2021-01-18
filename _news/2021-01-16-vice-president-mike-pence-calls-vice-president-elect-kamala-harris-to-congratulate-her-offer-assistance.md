@@ -48,6 +48,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
+    excerpt: "WASHINGTON -- Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-16T00:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 150
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Harris prepares for central role in Biden's White House"
     excerpt: "Kamala Harris will make history on Wednesday when she becomes the nation’s first female vice president — and the first Black woman and the first woman of South Asian descent to hold that office"
     publishedDateTime: 2021-01-18T05:52:00Z
@@ -127,20 +143,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/ad02f72/2147483647/strip/true/crop/3000x1959+0+20/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff6%2F01%2Fcbd4b15d41a6962baf92c78dbb80%2Fdhs-acting-secretary-immigration-63532.jpg"
         width: 320
         height: 209
-        isCached: true
-  - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's"
-    publishedDateTime: 2021-01-16T08:57:00Z
-    webUrl: "https://apnews.com/9cf431138cceeda9f6f7104e0fa20487"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 130
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/4444eb45d10847adbfe84daefb893fa0/3000.jpeg"
-        width: 3000
-        height: 2000
         isCached: true
   - title: "Biden inauguration: Trump expected to issue flurry of pardons before leaving office – live"
     excerpt: "Washington DC prepares for Biden inauguration with unprecedented number of troops on street"
@@ -1024,6 +1026,22 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Kamala Harris to formally resign from Senate on Monday"
+    excerpt: "Vice President-elect Kamala D. Harris will formally resign from her California Senate seat on Monday, according to reports. She had already announced her intent to do so ahead of the inauguration this week, and California Gov. Gavin Newsom has said he will ..."
+    publishedDateTime: 2021-01-18T15:17:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jan/18/kamala-harris-formally-resign-senate-monday/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/18/kamala-harris-formally-resign-senate-monday/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/18/kamala-harris-formally-resign-senate-monday/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/18/harris_14915_c0-0-3006-1753_s1200x700.jpg?c5b723561a5a51058d070405b626cdc549f47cc9"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Kamala Harris to resign Senate seat Monday"
     excerpt: "The move comes two days before she’s inaugurated on Wednesday, making history as the first female, first Black and first South Asian vice president."
     publishedDateTime: 2021-01-17T20:35:00Z
@@ -1103,6 +1121,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/119F2/production/_116487127_kam_win_reu.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Kamala Harris officially resigns from the US Senate ahead of inauguration"
+    excerpt: "Vice President-elect Kamala Harris has formally submitted a letter of resignation for her US Senate seat to California Gov. Gavin Newsom, ending her four-year career in the chamber."
+    publishedDateTime: 2021-01-18T16:50:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 74
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_b4c4004e4b0055dc58e440bfd2a392ef-h_82beb05c66e5b687c55d48020bcb0ebb.jpg?w=1024&h=726"
+        width: 1024
+        height: 726
         isCached: true
   - title: "Kamala Harris will be sworn in as vice president by Justice Sonia Sotomayor"
     excerpt: "WASHINGTON — Vice President-elect Kamala Harris will be sworn in by Supreme Court Justice Sonia Sotomayor on Wednesday, a history-making event in which the first Black, South Asian and female vice president will take her oath of office from the first Latina justice."
@@ -1242,6 +1276,22 @@ related:
     provider:
       name: Des Moines Register
       domain: desmoinesregister.com
+    quality: 63
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/18/USAT/d79e17bf-69a3-4cc5-86a0-abaefd135b92-GTY_1296405180.jpg?auto=webp&crop=2967,1669,x0,y971&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Martin Luther King Jr. Day, COVID-19 pandemic, Kamala Harris: 5 things you need to know Monday"
+    excerpt: "Martin Luther King Jr.'s words resonate, decades later. Across the nation, scores of marches, parades and other events to mark the holiday honoring Martin Luther King Jr. have bee"
+    publishedDateTime: 2021-01-18T16:04:00Z
+    webUrl: "https://www.azcentral.com/story/news/2021/01/18/martin-luther-king-jr-day-covid-19-kamala-harris-5-things-know-monday/4149360001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/4149360001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4149360001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 63
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/01/18/USAT/d79e17bf-69a3-4cc5-86a0-abaefd135b92-GTY_1296405180.jpg?auto=webp&crop=2967,1669,x0,y971&format=pjpg&width=1200"

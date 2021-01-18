@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/washington-monument-biden-inaugurat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/washington-monument-biden-inauguration-threats-tours.amp"
 type: article
 quality: 170
-heat: 190
+heat: 210
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/764eec4b-5032-4522-aef2-503c07e457db/fd6fa80e-40d3-434e-a764-58d398e7fccc/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "As Biden inauguration approaches, federal prisons under full-on lockdown"
+    excerpt: "Federal prisons throughout the country have been placed under full-on lockdown until further notice in the days leading up to the inauguration of President-elect Joe Biden and amid nationwide threats of unrest,"
+    publishedDateTime: 2021-01-18T14:56:00Z
+    webUrl: "https://www.foxnews.com/us/federal-prisons-lockdown-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/us/federal-prisons-lockdown-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/federal-prisons-lockdown-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/1ed2f669-AP20332657500138.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "sNa/TkWeufbwH38oeAiG+Egl94ywi3zj/lJor7KggevAMWKM4MXlge+iM0+mv2O62w0BPhYYssZwEGDg+v87aDRMuSEbxToUjXD/zy+FUODffvY6//P5r+xB0NTa2IjrDh21tPvu/E1wqiy2J+vyOvVYeZcR6TJbmBjOt12usi+vQ6BHnzNL3Y9uiiTk3W3YVVwF2ZVd1pt97psInfsrwIW2/qXxa9/4gwCRV5DoyiFaomRPfLEECID6DVRNtx83eXOKtYlcp68QE6oYpliEaJOtr+ezUyAt0gdk+1nxoUoszmSccsHFWDaM+m+jhDuXrItoz23Lf/XePhdNEKevb++jaejSzOYvcfIgpjqkB74=;mia3lVDkHL5nkZ2wPU+dqA=="

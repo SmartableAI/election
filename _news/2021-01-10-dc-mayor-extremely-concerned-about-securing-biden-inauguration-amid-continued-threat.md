@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "As Biden inauguration approaches, federal prisons under full-on lockdown"
+    excerpt: "Federal prisons throughout the country have been placed under full-on lockdown until further notice in the days leading up to the inauguration of President-elect Joe Biden and amid nationwide threats of unrest,"
+    publishedDateTime: 2021-01-18T14:56:00Z
+    webUrl: "https://www.foxnews.com/us/federal-prisons-lockdown-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/us/federal-prisons-lockdown-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/federal-prisons-lockdown-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/1ed2f669-AP20332657500138.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "q1r0W+oMU1IYLjQaRvMNtJ3U+Exbx6g5yd8lcNdxY7GzIaUf7noiCEp5bTrO+v9RHFtiRMUnJSt2hMx01C2X96sfc/ZH0zruGZtGt0Ga9rYTKmoLkFFIBjxcMVGG7xLyX9hLvIx+NCHxn9PH95WIVO19CxkEj7QlgRx3DHM82ttsxofZse0NPS8kmNhWJ6RStIg+0/0s7cnckKts+tCqgeZEGuVNtVanNCy1RcoWZ7enDfypRbTZf1eQDGvqdHa5Q9aRRiNsjShW6/hFeSUmTPtTtByJDJMYDtx57EzShmHuDWYWVQS1OvyC74DSzdg25G7eDkdRGYNZu3gR2wPz9RZVvq9GurzxeL0exKYrYiM=;6owlSPVvUDWcYXBXdAw8NA=="
 ---

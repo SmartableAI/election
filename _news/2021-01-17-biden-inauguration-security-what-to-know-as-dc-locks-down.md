@@ -63,19 +63,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "LIVE UPDATES: What to know as DC locks down for Biden's inauguration"
-    excerpt: "Follow for the latest updates on Biden's inauguration and the Capitol riots. "
-    publishedDateTime: 2021-01-17T06:29:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TkC-XfVOa0Q/live-updates-biden-inauguration-1-17-21"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-17-21.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inauguration-1-17-21.amp"
+  - title: "Biden's Cabinet picks: Full list"
+    excerpt: "President-elect Joe Biden will be sworn in as the 46th president of the United States on Wednesday. In preparation for his presidency, Biden has already announced his selections for various administration positions, pending Senate confirmation."
+    publishedDateTime: 2021-01-17T14:55:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X7XmlmgwDks/biden-cabinet-picks-full-list"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-picks-full-list.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-picks-full-list.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04e8cb81-2497-41bd-b463-ef571490a0ee/b30c1a8f-c57c-4bec-9fba-c7d7e911a5fc/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39ff5970-808f-43da-a045-4ebc6c60ff3e/e6788d58-c8b1-4f29-81b9-7f58f89499c9/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

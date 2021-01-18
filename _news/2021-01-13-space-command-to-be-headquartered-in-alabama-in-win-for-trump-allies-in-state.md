@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Dan Scavino tells Trump officials to be proud of accomplishments"
-    excerpt: "As the Trump administration heads into its final week, White House social media director Dan Scavino told administration officials Thursday to hold their \"heads high\" and be \"proud\" of what they have achieved during his term in office. \"I encourage all ..."
-    publishedDateTime: 2021-01-17T02:39:00Z
-    webUrl: "https://www.foxnews.com/politics/dan-scavino-slams-cancel-culture-tells-trump-officials-to-be-proud-of-accomplishments"
-    ampWebUrl: "https://www.foxnews.com/politics/dan-scavino-slams-cancel-culture-tells-trump-officials-to-be-proud-of-accomplishments.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dan-scavino-slams-cancel-culture-tells-trump-officials-to-be-proud-of-accomplishments.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005235258462.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "76JOFtwTqTLBUNcVKiong/UP7Oyx1y9RU1kcNq2Xa0eQ4wuuPVJJSZ/QNlQmSS4Ln/5rqUuNpRlMgwOGMQRA1oPRMJoDYoef2iM3OIDBOCLRNg8cs5/ZfBe9xfnapPGLcFs3OnJsiEDQmopw5Dq0yxRoEcVtJBew4EUc7ZausCWCZiI+0PI0QR0rV6rfoBxy0Wa6FSUldtfGV0SUu1JuWvyxmUmviWYBBwQ5v3qMHWl8tXjO3LpeuDhd7iaWvBuBw73BSphPFZx/SwJdoIbuNSY/PHMXZEhHUvlWs1KUz3hw1PwyPYWZoPpSg8dYBiWkTMEVCh0xQXH2/xDj9bHYb81mxX+RbhxQPcnXv+uN8bg=;un2KKR0k0IUSSgopOOFiGg=="
 ---

@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "'We are listening to Trump': New Yorker reporter's video shows disorganized but destructive US Capitol rioters"
+    excerpt: "The insurrection was triggered by supporters of President Donald Trump who believe his claim that he won the election. Trump spoke at a rally earlier in the day and encouraged followers to flock to the Capitol. The video captures rioters hunting for ..."
+    publishedDateTime: 2021-01-18T15:33:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/01/18/new-yorker-video-us-capitol-rioters-luke-mogelson/4198301001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4198301001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4198301001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/d2c3e952-5d20-4a47-aeb8-d0d45d376283-VPC_CHAOS_IN_CAPITOL_DESK.00_00_33_11.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Z0PRI5UQ4mGPczLeylX9JLykQZ9XHhu7VVhqYzi1YgBFKvce4aTd1+LYF6UHKhQYd4s/HK4SayxoMOsHLjSLqUFoNRb6syRuaD2TEoUEOmttS1zy9lF4gWePELxKe0AXdSWjriOhWA7QOKqHsm/MhGJR+hnJcaV4JD+wF957hQR+Aw1+4/6l0EtDn/+JwQhTLgakDpoHTSoSOIbq3DnB6FQs/b1a+t9w9llZrloMCAmIAAwceTLdwKuc8P8rzpW+pDhzYsobtU/yD7BoIop8cweRKnMVr9sFSSMWYReIg0N9rNjmCyM7zBWJ+jkz9FRKP9WkpxXpqLqFn3BcmkWe04YA2CQ/mx3gc/300XHN3u8=;tCjUmW/d9A4vR4Upcj9PAA=="
 ---

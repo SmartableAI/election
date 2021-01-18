@@ -112,6 +112,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Harris resigning from Senate 2 days before inauguration"
+    excerpt: "After four years in the Senate, Sen. Kamala Harris of California is stepping down from her seat, two days before she is inaugurated as vice president of the United States."
+    publishedDateTime: 2021-01-18T16:26:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5Sr_8KO3dpU/kamala-harris-resigns-senate-inauguration-day"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-resigns-senate-inauguration-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-resigns-senate-inauguration-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump expected to travel to Mar-a-Lago on morning of Biden's inauguration: sources"
     excerpt: "President Trump is expected to travel to his resort at Mar-a-Lago in Florida the morning of Jan. 20 – the day of President-elect Joe Biden’s inauguration – where he is expected to reside after his presidency, Fox News has learned."
     publishedDateTime: 2021-01-15T14:09:25Z

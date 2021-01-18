@@ -31,53 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Ilhan Omar says Trump 'will be impeached'"
-    excerpt: "Rep. Ilhan Omar, D-Minn., vowed on Friday that President Trump would be impeached after this week's riots, which have prompted widespread criticism of the president and his rhetoric following November's election."
-    publishedDateTime: 2021-01-08T21:33:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N3eIvLRm9mQ/ilhan-omar-trump-impeached"
-    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-trump-impeached.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-trump-impeached.amp"
+  - title: "Trump impeachment supported by only 8% of Republicans: poll"
+    excerpt: "A new national poll indicates that only 8% of Republican voters support the impeachment of President Trump and his removal from office."
+    publishedDateTime: 2021-01-15T15:44:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BNNFD9XEG78/only-8-percent-republicans-support-trump-impeachment-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/only-8-percent-republicans-support-trump-impeachment-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/only-8-percent-republicans-support-trump-impeachment-poll.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cabbd5c8-5261-4e94-9550-81c691405868/20c9113c-d0de-48ab-ae7d-c9f0afd4d1cd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump says his supporters will still have a 'giant voice,' won't be 'disrespected' "
-    excerpt: "President Trump on Friday said his supporters will still have a “giant voice” and would not be “disrespected” after he leaves the White House."
-    publishedDateTime: 2021-01-08T15:50:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7ev1L67eFJU/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-his-supporters-will-still-have-a-giant-voice-wont-be-disrespected.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Clyburn says Trump impeachment vote 'will happen this week' as 195 lawmakers cosponsor articles"
-    excerpt: "House Majority Whip Rep. Jim Clyburn, D-S.C., said Sunday that the article of impeachment against President Trump that was drafted will go to a vote this week, while Trump's former Acting Chief of Staff Mick Mulvaney said that unlike last year's impeachment, Republicans may be on board this time."
-    publishedDateTime: 2021-01-10T15:49:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WGnVsQ192Ec/clyburn-trump-impeachment-vote-this-week"
-    ampWebUrl: "https://www.foxnews.com/politics/clyburn-trump-impeachment-vote-this-week.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clyburn-trump-impeachment-vote-this-week.amp"
+  - title: "Trump awards Rep. Jim Jordan the Medal of Freedom, credits his defense during impeachment"
+    excerpt: "President Trump on Monday awarded the Presidential Medal of Freedom to Rep. Jim Jordan, the Republican from Ohio who has served as a high-profile congressional defender of the Trump throughout his presidency."
+    publishedDateTime: 2021-01-11T19:04:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zsVghy_-Bw0/trump-rep-jim-jordan-medal-of-freedom"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-rep-jim-jordan-medal-of-freedom.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rep-jim-jordan-medal-of-freedom.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 166
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/104bff36-8597-4517-b0d6-a8997b1875c4/dfe21b65-dc81-4cb2-9a04-0fb91aa4beb9/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/340/340/15774946_869011851568_820056121039046290_o-e1585243988433.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "LIVE UPDATES: Trump impeachment supported by only 8% of Republicans: poll"
+    excerpt: "Follow for the latest updates on Trump's impeachment"
+    publishedDateTime: 2021-01-16T06:29:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LCust6TauXk/live-updates-trump-impeachment-1-16-2021"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/trump-on-stairs.jpgxxxx.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump planning payback for 10 Republicans who impeached him: report"
+    excerpt: "President Trump plans political punishment for the 10 House Republicans who voted to impeach him for last week’s Capitol riot, according to a new report."
+    publishedDateTime: 2021-01-15T22:10:00Z
+    webUrl: "https://nypost.com/2021/01/15/trump-planning-payback-for-gopers-who-impeached-him-report/"
+    ampWebUrl: "https://nypost.com/2021/01/15/trump-planning-payback-for-gopers-who-impeached-him-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/15/trump-planning-payback-for-gopers-who-impeached-him-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/president-trump-air-force-one.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "hx/C4vT/dgbV871l6C11fLo8InfoYvIhxU5HHtOLSBc3wHfxIfvNRkfhg2d+Mjv1MUFal+N1LBS3yDsvYbuAjKZi9QYc2NGSAKHp19Pae8ZS+Nkn2LyIFxqX5CJPzaIKukdmNuz9uS7kKoL+UFIuiseERnRNO70itONVpgzcdKesquSaj5UzvUy0KLHoIO6milSesEvqWoN7m0Q9ICJDDUGKLfCK8e2E5XJXCZC/B8m+5NkbDQGH4DGITnDvGnruxatMiI88E955G67CCMuU5PWEVj6d1ryo5iKslqd8K5QcN6Ekx68xqnPBLYgxhO3FTxJIhzpOluThg0xN8YupjhHzXpbyfgjRs3C22/votdk=;YrQtUMcURaSzrD+f2013cQ=="

@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Majority of Americans Think History Will View Trump as 'Failed' President"
+    excerpt: "Evaluating a president's time in office often requires a rearview mirror. While history has yet to weigh in on President Donald Trump's time in office, Americans don't see President Donald Trump receiving positive remarks down the road. After a contentious ..."
+    publishedDateTime: 2021-01-18T15:48:00Z
+    webUrl: "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394"
+    ampWebUrl: "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1710407/trump-history-americans-failed-president.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Exclusive: As Trump leaves office, 50% of Americans see him as a 'failed' president"
+    excerpt: "Trump hasn't succeeded in overturning the election results but he has persuaded a third of Americans that Biden wasn't legitimately elected"
+    publishedDateTime: 2020-12-24T09:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/24/donald-trump-failed-president-50-usa-today-poll-say/3926190001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3926190001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3926190001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e0873822-4b69-42e9-b96d-431644856090-AP_APTOPIX_Election_2020_Biden.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vast majority of Americans hold Trump responsible for Capitol siege, new Insider poll shows"
     excerpt: "Americans overwhelmingly say that President Donald Trump is responsible on some level for the Capitol siege, according to a new Insider poll. 76% said Trump bears a \"great deal\" o"
     publishedDateTime: 2021-01-17T13:59:00Z
@@ -63,6 +95,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "This day in history, January 16: The impeachment trial of President Donald Trump opens in the Senate"
+    excerpt: "Almanacs are full of lists of global and national historic events. But “This Day in History” feature invites you to not just peruse a list, but to take a trip back in time to see how a significant event originally was reported in the Chicago Tribune."
+    publishedDateTime: 2021-01-16T13:10:00Z
+    webUrl: "https://www.chicagotribune.com/history/ct-sns-today-history-almanac-january-16-20210116-bj5ofx7u4bai7kee7utmmiswvq-story.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 90
+    images:
+      - url: "https://www.chicagotribune.com/resizer/RCbFb8gR4Z4Tx8yS-kfISBHX_Qw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4HA5W4BHEBEBTMQQHY5ZH4DI64.jpg"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Should Trump Pardon Himself? 68% Of Americans Say 'No'"
     excerpt: "The U.S. Constitution does not explicitly say whether a sitting president can pardon himself for potential criminal liabilities."
     publishedDateTime: 2021-01-18T00:26:00Z
@@ -79,26 +125,6 @@ related:
         width: 1024
         height: 716
         isCached: true
-  - title: "McCarthy Says Trump Accepts 'Some Responsibility' for Capitol Riot-Sources"
-    excerpt: "President Donald Trump acknowledged he bears \"some responsibility\" for an assault on the U.S. Capitol last week, Republican congressional leader Kevin McCarthy told party lawmakers on Monday, according to two people familiar with McCarthy's briefing."
-    publishedDateTime: 2021-01-12T04:03:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-11/mccarthy-says-trump-accepts-some-responsibility-for-capitol-riot-sources"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-11/mccarthy-says-trump-accepts-some-responsibility-for-capitol-riot-sources?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-11/mccarthy-says-trump-accepts-some-responsibility-for-capitol-riot-sources?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 53
-  - title: "Ducey: Trump 'Bears Some Responsibility' for Insurrection"
-    excerpt: "Arizona Gov. Doug Ducey says President Donald Trump “bears some responsibility” for the insurrection at the U.S. Capitol last week but he does not support impeachment."
-    publishedDateTime: 2021-01-16T14:15:00Z
-    webUrl: "https://www.usnews.com/news/best-states/arizona/articles/2021-01-14/arizona-gov-ducey-to-attend-biden-inauguration"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "jCYHxh3rT7XOTbzhZeWDu/69ktmZAWNlaNOkA3EYKyG99fubrLVJORrIi4PxnverjX8IwcL4iB/Dj+IKL7nih/IRWeOUJsPpZrQh2sZAi4gyCCXe9CafnJCB/GE9sn4uo4rSPlTA3kkOG40YUt1K2wAHAqL+OYcneguDj2TKp+ryZZGmIpzvdre14ZGMKAnvG/OvInMcaUij13h36cNanUZAeBLgNyD0L/Kgk61Wsc9zhZdsc1EmzPq3xPIa7M+Ww1vh0GEo3Jiqh4TddelIjkX75mq3LJcBTfbxndwVjDS9MNDRd+xLNV14yU5y6HT3KK2eFOcmQWIZVFOsKUBaG4I1ekFxl4tw1QN0tE7VdPp0iTMpuS9JdUsHkm1sIjeKnMgd6UcD4Zlz8gCyJbTqlSuI5KZ5qpCGFoM5hsWsty3GO1sab0gRxZYSozuWgutSO2kEnKXCba/HoVgLk/9kgJG4aWE7HbU5rMQ/7+CQNMxW4Af/Q8LBC3WYAXYd6G3nkPxktk/AYE78Rmj29x4JJg==;1MtrzS81iskPYiH1+XQpsw=="
 ---

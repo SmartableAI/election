@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/jerrold-nadler-trump-impeachment-cl
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jerrold-nadler-trump-impeachment-clinton-1998.amp"
 type: article
 quality: 164
-heat: -1
-published: false
+heat: 164
+published: true
 
 provider:
   name: Fox News
@@ -29,24 +29,6 @@ images:
     width: 640
     height: 320
     isCached: true
-
-related:
-  - title: "Washington Republican who backed Trump impeachment faces backlash back home"
-    excerpt: "Rep. Jaime Herrera Beutler, R-Wash., one of 10 House Republicans who voted to impeach President Trump on charges of \"incitement of an insurrection,\" is facing criticism from her district's conservative base."
-    publishedDateTime: 2021-01-17T20:22:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4JOYu1Z7QN0/washington-republican-trump-jamie-herrera-beutler"
-    ampWebUrl: "https://www.foxnews.com/politics/washington-republican-trump-jamie-herrera-beutler.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/washington-republican-trump-jamie-herrera-beutler.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21013695492553.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "TSmZ/CyJcRIVtLX57V86YNxm4I7WS8Jo6fzxfRE7P9AW7fl9YzHf7xXz2LJIjePl0hxsOC2D58RELDJ2hvPTxDh63qNKjhVBPiu2sQoXcWbzqBq3nv6ENOCTXDzOQtqouciyuXuikA7uZx3A8HwyrMlqgazqFOQQCWjq7RSZsXdAM9BE6KlWQcTot0QmkPKuEuSG3ZaIR5K//HLiS0ca4O+mJP6Sb1Lu8rraDXigRHizCUumEV5lE1BKoiwSsTNb9kY0HV6ul0IGoBrJOQeqY/ZteDn19GPEhrlm7kOVMui9PRDVPCLxoYfWAEKnrd85uQ24Im10wdqnRWLRQmBBcQzPUIaMT9XWNLwaBOurznM=;8IzCyN8X2XY1AqhB2rr7Fg=="
 ---

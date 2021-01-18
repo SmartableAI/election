@@ -112,6 +112,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Harris resigning from Senate 2 days before inauguration"
+    excerpt: "After four years in the Senate, Sen. Kamala Harris of California is stepping down from her seat, two days before she is inaugurated as vice president of the United States."
+    publishedDateTime: 2021-01-18T16:26:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5Sr_8KO3dpU/kamala-harris-resigns-senate-inauguration-day"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-resigns-senate-inauguration-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-resigns-senate-inauguration-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump expected to travel to Mar-a-Lago on morning of Biden's inauguration: sources"
     excerpt: "President Trump is expected to travel to his resort at Mar-a-Lago in Florida the morning of Jan. 20 – the day of President-elect Joe Biden’s inauguration – where he is expected to reside after his presidency, Fox News has learned."
     publishedDateTime: 2021-01-15T14:09:25Z
@@ -349,6 +365,6 @@ related:
         height: 630
         isCached: true
 
-secured: "/JFvLE69tm8P3jP/aGq3pjKpOSOyy2OWRRbgk/Zpv6scelkorDtStYnjGoy7+MrNwlqib6/qxoNhCKQqvkbFMHZqz99Y3HzNjjPnW/jkFeTD8oUvMe3tnQBBgJYpJV5qetpBt2Z41aoUmkUyV+5N6k13icQHwtmJIgaV+C/Tl9F+sFX/B3JZ58EbEVcxfWmH0cxfzSWzlbLfgPaHVqbjCeBtw0OzNj9GB5VO6cBNiZUV1XuiK7Fxha1mU3zkJO75rTj8f1ZnuuKs4Z4YetuasIV5pNcZg9WeJbk8nSZUc/4B4qFdz9n2sIaBCovaWWpkwGeDtUO8mDieBJnFx6Gci0dspOVhRsdAyM9CL4WuzxM=;kOrGh3zGjUnvl/RnaFE27g=="
+secured: "CB3ajsTIKJY+C50nyhS6Qp5njVVJTHQj5/qY57bmUKqh8ZvN10RBIbXf5QiCIENIRdYppPGyWaCR68pwh5GDvPv+9z5xfX/7Jt05TXcbA5XOR1dlNKfLkKB/jOOssoVibtY3/KT7EKLT1+MOzp7awtO5vdwrBQqTZIr2s7bEkOKg1qbguWIZiMz89bzyyQ7FlPOi/fZ4kpDy6OzrZfWPMlwCLYoXDW7GdHyvemjfXG6YgdMOg14QzrwCkOM1SWQswdYN+BlacdQqmJZoeXqotH9Eym2qR2RTbsbofRcZk6tg4YjpGP0MY7V0k3PJm90BbxZLRtWBCP0EMMJniosNvodNUFLP0n2cW97fJKKJ10iSE8CMPGq7JFCHYI5p9fqjogBYZyNjA08s8ewQvs/AaCjW0Nh4nc6ipBAZ0axVV6B9uAWGimPlbc1YF1tK0LdGB6lc3VKq0lyXN9DsUGoq31thnAfQFl2S+uAg+WoOOQBuipDvFLaskaeylZ5XzhWmftnafHEEB0R2M4+xkPRiDw==;MnD05mAg1cG0xeLQsnZgXg=="
 ---
 

@@ -271,6 +271,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's 11th-hour pardons keep with tradition, even if those pardoned do not"
+    excerpt: "President Donald Trump's expected batch of 100 pardons and commutations on the penultimate day of his presidency won't be the highest of his recent predecessors. But his record of clemency could very well be the most controversial.\n    \n"
+    publishedDateTime: 2021-01-18T15:52:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OGDnd54YbXk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/donald-trump-eleventh-hour-pardons/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/donald-trump-eleventh-hour-pardons/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118002538-04-donald-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "HHS Secretary Alex Azar complains of tarnished legacy in resignation letter to Trump"
     excerpt: "President Trump's \"actions and rhetoric\" have tarnished the administration's legacy, Health and Human Services Secretary Alex Azar said in a resignation letter submitted this week.\n    \n"
     publishedDateTime: 2021-01-16T04:36:06Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-mcconnell-senate-republicans-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp"
 type: article
 quality: 179
-heat: 359
+heat: 339
 published: true
 
 provider:
@@ -140,22 +140,6 @@ related:
     quality: 139
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20350731665251.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "House Republicans urge Trump to veto omnibus spending bill"
-    excerpt: "A group of House Republicans on Wednesday urged President Trump to veto an approximately $1.4 trillion omnibus spending bill being negotiated in Congress, describing it as an example of \"swamp politics\" in Washington D."
-    publishedDateTime: 2020-12-17T10:43:00Z
-    webUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill"
-    ampWebUrl: "https://www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/house-republicans-urge-trump-to-veto-omnibus-spending-bill.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

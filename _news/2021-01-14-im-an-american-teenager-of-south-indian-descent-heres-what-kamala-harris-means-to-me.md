@@ -225,6 +225,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris makes history. Her swearing-in as vice president shows ‘strength of our democracy.’"
+    excerpt: "Kamala Harris’ inauguration is a marker that the arc of history is bending toward the democracy America deserves. Support her, and hold her accountable. Kamala Harris’ inauguration is a marker that the arc of history is bending toward the democracy ..."
+    publishedDateTime: 2021-01-18T16:23:00Z
+    webUrl: "https://www.indystar.com/in-depth/opinion/voices/2021/01/18/kamala-harris-swearing-vice-president-shows-strength-our-democracy-column/6564032002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6564032002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6564032002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 62
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/11/USAT/ceddbdfa-77f9-4462-a868-179faa78cbcf-AP_Election_2020.jpg?auto=webp&crop=4500,2531,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "3/pPNG/5FoLo5wuO7mrSagm9yRBRGUQg/FhMQL0UzRrHXxdfT8CYP4a0mdhHi5UPVkrPum/bsfETw+SxumzZd1pxwYOF6UTYK2Vu8ZTSTY8A2E71yQLbTnXHq/xkHCJ42B/FbrUIooSKujRSXTEULBYx4AdvfGz0qBugFvp93sIFQEIvrA6pwtY4gRbBPw1Q9C5WDD9xd1dTLrRwbXD5MsFTDXaYivt+MhlhBgC6n376YnNFHiSHmZRJYxbw2wzTxkldmQM8LgKwc6GKALcUw+lyLqA/Iqld8C84tNK2VWrC5zU5rmIG8DTEaxxQ1vc6YxDcwZSQrZZeOVgAAZ4R5a2be7kRl0XNMx/G6Y40tQAnAQ7ixMvUhAzbKKPurtl1PeL4UjhnBQzqCQn7AGe2sT8myZWUOQaVquAHnzQxpHpMBEbu2TbCJEYAe8jsKFzxbXCT/AQI8ShbgUS19GfKEFRCj3lyncu6nh9zzkOUTVEkQwoez7ZyzJZMiZ86qjxAUioZV4oO2zQXkFhBuTwZmA==;QMfMdIMkc+SzLr1+gkxS6w=="
 ---

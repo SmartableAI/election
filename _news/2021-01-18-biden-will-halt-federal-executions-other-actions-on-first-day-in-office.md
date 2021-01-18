@@ -272,6 +272,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's 11th-hour pardons keep with tradition, even if those pardoned do not"
+    excerpt: "President Donald Trump's expected batch of 100 pardons and commutations on the penultimate day of his presidency won't be the highest of his recent predecessors. But his record of clemency could very well be the most controversial.\n    \n"
+    publishedDateTime: 2021-01-18T15:52:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OGDnd54YbXk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/donald-trump-eleventh-hour-pardons/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/donald-trump-eleventh-hour-pardons/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118002538-04-donald-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "HHS Secretary Alex Azar complains of tarnished legacy in resignation letter to Trump"
     excerpt: "President Trump's \"actions and rhetoric\" have tarnished the administration's legacy, Health and Human Services Secretary Alex Azar said in a resignation letter submitted this week.\n    \n"
     publishedDateTime: 2021-01-16T04:36:06Z
@@ -781,6 +797,6 @@ related:
         height: 773
         isCached: true
 
-secured: "OTu8tiIDy2MYa6c8f6DvvLJIlMkDoO3pjW0E7SnJovK7DWrZl27YLWX/JElTKQIHWf/YHEBWxPMmSA8RQhjz1mGe//5vCP2GU/oTOOjJkmSVSBG7J2hMPotvurK7MglOlimNZc+lZdha2WhVyLuI7V4yoZRR89825vGSXvQzPPpQ7RZFRoc09i5vF4d0Ck4TDlpOFJtrluhMZVPsOj2Z247BVlY5HIoYd+JBvN4AXA/qz6fIGkAF1GPtgZqBmOmJ23qhAzZ2Rnui54uFfopZeKVdX622VXVARk4uXfJLRCqpGFg6AztqYn1AKZwT7aKHhA0tyFzAhXulH/8LuHH3CSfluq3Y5vePlhulDJBasdk=;Nd5U8TbXj4n6HG31CKmC9A=="
+secured: "kjAZr9QRjaOlrpT2sL19/KDQ1GR05vKtKlE9TOsqLoYB/HOM2a97WAi/AX4CPovR7NJ/P02LVKaPTH7ModMp6qo3+Rwwn3m4RNxaAGKQ9IpPnEoo8HqpfOnRn55myiVj1pd+f99ykUH5Ld0svylFYR2ntRx8DXY9y+4Miw3vSRIdm/d7o+OVi6n6Ia2+r3pbaSrG3snbUN7Q9r3Q6W6yfJQzJaa8ChZZ+mhEN/4OPxgVm5FV/p3ZZ95CmPiaV56uXRqrT4PDXpOP31gI/rZl8NcR8XU14nqSj715LFiMCmSCI/IlvSFQMjlxrq4FGT44suoxZxkbxcd0RtwH232juI51R4ANLhIgXvdUXQoEHR7adWc6hb14NyqdheSkjytM35N1t+hdr29dpD79zpR9ttB3j1b7GAM3HcjjqlOolhrL0A+kkeMV6fnaWzHXpcd9SsVnR7DPUJtJr7WhAjg2Ho7xeUMxYnXYzfKS/xuzlAdAR01e0gZxTsKZOQIiYNGZD2KCf+rQ5okTFyGwAq5uNQ==;wf2hfMm/pdvBhQjIeCfuLQ=="
 ---
 

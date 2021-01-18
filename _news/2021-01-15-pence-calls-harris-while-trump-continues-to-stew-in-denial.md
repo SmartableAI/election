@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-presidency/index.html"
 type: article
 quality: 225
-heat: 1505
+heat: 1525
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
     quality: 185
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112125012-kamala-harris-wilmington-1107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Harris resigns from the Senate ahead of inauguration "
+    excerpt: "Vice President-elect Kamala Harris has formally submitted a letter of resignation for her US Senate seat to California Gov. Gavin Newsom, ending her four-year career in the chamber, a Harris aide said Monday.\n    \n"
+    publishedDateTime: 2021-01-18T16:38:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QY-rMEnJhM8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/kamala-harris-resignation-san-francisco-chronicle/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/kamala-harris-resignation-san-francisco-chronicle/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108130454-01-kamala-harris-0827-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

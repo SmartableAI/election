@@ -160,6 +160,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "After Capitol rioting and Georgia Senate defeats, Trump’s clout with some Republicans takes hit"
+    excerpt: "The president is reeling following the storming of the Capitol on Wednesday by Trump supporters who were encouraged by the president at a rally near the White House."
+    publishedDateTime: 2021-01-07T18:10:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RkyH2RnTOFs/capitol-riot-georgia-senate-defeats-trumps-clout-gop-takes-hit"
+    ampWebUrl: "https://www.foxnews.com/politics/capitol-riot-georgia-senate-defeats-trumps-clout-gop-takes-hit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/capitol-riot-georgia-senate-defeats-trumps-clout-gop-takes-hit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump lawyer slams Georgia Secretary of State Raffensperger for 'secretly' recording 'confidential' call"
     excerpt: "President Trump tried to contact Georgia Secretary of State Brad Raffensperger 18 times before their heated phone call on Saturday in which the president urged him to “find” enough votes to reverse the state’s election results."
     publishedDateTime: 2021-01-04T20:19:07Z
