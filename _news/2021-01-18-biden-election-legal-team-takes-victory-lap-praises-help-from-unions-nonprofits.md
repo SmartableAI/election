@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-election-legal-team-takes-vic
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-election-legal-team-takes-victory-lap-praises-help-from-unions-nonprofits.amp"
 type: article
 quality: 185
-heat: 705
+heat: 725
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 165
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed13c8e8-7f56-4ed9-8fea-026027498e79/37ee0fa3-df46-444c-b4d0-43eb1ac81ddb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden promises on Day One to reinstate rule protecting transgender student use of bathrooms"
+    excerpt: "The president-elect has said he would reinstate rules allowing transgender students to use the bathrooms and locker rooms that align with their gender identities."
+    publishedDateTime: 2021-01-18T22:42:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z_iG_-GXoh0/biden-day-one-trump-transgender-student-protections"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-day-one-trump-transgender-student-protections.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-day-one-trump-transgender-student-protections.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6aa67978-5e93-4d0c-bff4-479f2f80f678/a7b0a565-4464-4f02-89a6-54dbbedad7e7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

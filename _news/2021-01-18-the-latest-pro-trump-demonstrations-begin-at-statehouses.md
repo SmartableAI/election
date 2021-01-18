@@ -415,6 +415,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump Reveals Who He Wants Statues to Honor in National Garden"
+    excerpt: "What do Kobe Bryant, Bob Hope and Thomas Jefferson have in common? They are among the more than 200 names President Donald Trump has recommended to be honored in a yet-to-be created National Garden of American Heroes."
+    publishedDateTime: 2021-01-18T20:44:00Z
+    webUrl: "https://www.newsweek.com/trump-reveals-who-he-wants-statues-honor-national-garden-1562450"
+    ampWebUrl: "https://www.newsweek.com/trump-reveals-who-he-wants-statues-honor-national-garden-1562450?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reveals-who-he-wants-statues-honor-national-garden-1562450?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1710472/donald-trump.jpg"
+        width: 2500
+        height: 1597
+        isCached: true
   - title: "Biden, a longtime ally of police, will enter White House pushing for reform"
     excerpt: "We’ve always had a good working relationship with Biden,” said Jim Pasco, executive director of the Fraternal Order of Police, which twice endorsed Trump. He was one of the first police officials invited to meet with the Biden transition team."
     publishedDateTime: 2021-01-11T13:38:00Z

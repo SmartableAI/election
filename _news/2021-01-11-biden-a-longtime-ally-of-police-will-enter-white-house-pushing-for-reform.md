@@ -431,6 +431,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump Reveals Who He Wants Statues to Honor in National Garden"
+    excerpt: "What do Kobe Bryant, Bob Hope and Thomas Jefferson have in common? They are among the more than 200 names President Donald Trump has recommended to be honored in a yet-to-be created National Garden of American Heroes."
+    publishedDateTime: 2021-01-18T20:44:00Z
+    webUrl: "https://www.newsweek.com/trump-reveals-who-he-wants-statues-honor-national-garden-1562450"
+    ampWebUrl: "https://www.newsweek.com/trump-reveals-who-he-wants-statues-honor-national-garden-1562450?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reveals-who-he-wants-statues-honor-national-garden-1562450?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1710472/donald-trump.jpg"
+        width: 2500
+        height: 1597
+        isCached: true
   - title: "Biden minimum wage proposal could lift more than 1 million workers out of poverty"
     excerpt: "Biden's $1.9T coronavirus relief plan 08:37 President-elect Joe Biden's proposal to more than double the federal minimum wage would provide an urgently pay hike to millions of low-income workers and help stem inequality in the U.S., economists and labor ..."
     publishedDateTime: 2021-01-16T12:20:00Z

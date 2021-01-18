@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/video/watch/idOVDV1MRBZ"
 webUrl: "https://www.reuters.com/video/watch/idOVDV1MRBZ"
 type: article
 quality: 105
-heat: 125
+heat: 105
 published: true
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 960
     height: 540
     isCached: true
-
-related:
-  - title: "Meet Nikema Williams, The Democrat Seeking Trump Capitol Ban"
-    excerpt: "Williams is filling the seat vacated by the late John Lewis She’s a long-time Democratic and LGBTQ activist Her resolution follows a push by a Georgia Republican to impeach Joe Biden A freshman Georgia Democrat tabled a resolution seeking to ban President Trump from the grounds of the Capitol building in Washington D."
-    publishedDateTime: 2021-01-15T12:26:00Z
-    webUrl: "https://www.ibtimes.com/meet-nikema-williams-democrat-seeking-trump-capitol-ban-3123134"
-    ampWebUrl: "https://www.ibtimes.com/meet-nikema-williams-democrat-seeking-trump-capitol-ban-3123134?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/meet-nikema-williams-democrat-seeking-trump-capitol-ban-3123134?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/nikema-williams.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "Cl2YDXie1M1t73AK5olDvHisk04H6soVkvm5GCYuK7T5VBzTQY38fHiy2bofJNNf/5IEF5uZ1huWyYbYS7JhClZXU/o6OSTSQ9Cu4gxOP/9Hgl7drvkRvXw08lVJns/erSCGd1V+F9nriGMju3ry6JtBgfFzdcb2u80cdTsh/dwL0eER3WLiQ2YM8zSSBJO+EOoZUeOZ0iqTRVDbGZ2P13DH2iUQBeRXNUiALDjr+aCe+FySAp2fgwIf2NdQLeGEfV9LQR1TkKmZ2vAgmV0sSnukrbZd/lP56o0snPqR3IK/G7nlXTVQwAtRUJHdkvZO8eAVPRGRk4tWpVKlebITPK0ZgKmFxqzRIF9QC2GbTBE=;DYsS4eomttuudC5c8oc9qg=="
 ---

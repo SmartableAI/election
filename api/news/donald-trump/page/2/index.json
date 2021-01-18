@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-16-trump-receives-moroccos-highest-award-for-middle-east-work-official.md",
+      "title": "Trump receives Morocco's highest award for Middle East work: official",
+      "excerpt": "U.S. President Donald Trump on Friday received Morocco's highest award for his work in advancing a normalization deal between Israel and Morocco, a senior administration official told Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-morocco/trump-receives-moroccos-highest-award-for-middle-east-work-official-idUSKBN29K2GK?edition-redirect=ca",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-morocco/trump-receives-moroccos-highest-award-for-middle-east-work-official-idUSKBN29K2GK?edition-redirect=ca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547969691&r=LYNXMPEH0E1FT&w=800",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-15T16:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-banks-rips-cnns-lemon-for-slam-on-trump-supporters-they-want-to-cancel-all-of-us-with-conservative-beliefs.md",
       "title": "Banks rips CNN's Lemon for slam on Trump supporters: 'They want to cancel all of us with conservative beliefs'",
       "excerpt": "Ind., pushed back Friday on CNN anchor Don Lemon's claim that people who voted for President Trump are on the side of Nazis and the Ku Klux Klan.",
@@ -735,7 +787,7 @@
       "originalUrl": "https://www.reuters.com/video/watch/idOVDV1MRBZ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1535,58 +1587,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-ocasio-cortez-slams-lawmakers-who-ask-for-healing-and-reject-trump-impeachment.md",
-      "title": "Ocasio-Cortez Slams Lawmakers Who Ask For 'Healing' And Reject Trump Impeachment",
-      "excerpt": "A group of GOP lawmakers penned a letter asking House Democrats to discontinue their efforts of impeaching Trump and embrace \"healing\" following Wednesday's siege of the Capitol.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622",
-      "originalUrl": "https://www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/alexandria-ocasio-cortez-the-darling-of-the-us.jpg",
-          "width": 1024,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ocasio-cortez-slams-lawmakers-who-ask-healing-reject-trump-impeachment-3118622?amp=1",
-      "publishedDateTime": "2021-01-10T19:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

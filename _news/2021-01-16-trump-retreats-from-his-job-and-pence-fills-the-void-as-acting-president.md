@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-01-15/as-trump-retreats-
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-15/as-trump-retreats-from-his-job-pence-fills-the-void-as-acting-president?_amp=true"
 type: article
 quality: 138
-heat: 658
+heat: 678
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/d28f8b02a1054d115e0ac05d26edab5a385ca5de/0_137_5145_3087/master/5145.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cf6e6c648ae5a290ee7660700b84263d"
         width: 600
         height: 360
+        isCached: true
+  - title: "In 2nd Trump impeachment trial, will Chief Justice John Roberts preside?"
+    excerpt: "Who will preside over the second Donald Trump remains a key open question as lawmakers prepare to begin the unprecedented proceeding as soon as Inauguration Day. The U.S. Constitution says that the Chief Justice of the Supreme Court \"shall preside\" over trials of the President of the United States,"
+    publishedDateTime: 2021-01-18T20:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/2nd-trump-impeachment-trial-chief-justice-john-roberts/story?id=75324610"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/2nd-trump-impeachment-trial-chief-justice-john-roberts/story?id=75324610"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/2nd-trump-impeachment-trial-chief-justice-john-roberts/story?id=75324610"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/roberts-1-gty-er-210118_1610996121875_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Many Trump-era photos look like dramatic old paintings. That’s no ‘accident.’"
     excerpt: "Strife imitates art on the subreddit “Accidental Renaissance,” where followers liken contemporary images to great works of art."

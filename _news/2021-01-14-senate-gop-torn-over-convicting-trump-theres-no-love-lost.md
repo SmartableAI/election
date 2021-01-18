@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/mitch-mcconnell-republic
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/mitch-mcconnell-republican-senator-plans/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210117123432-michael-ellis-nsa-general-counsel-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'The lost years': Climate damage that occurred on Trump's watch will endure long after he is gone"
+    excerpt: "For four years, President Donald Trump has careened from one crisis to the next, many of his own making.\n    \n"
+    publishedDateTime: 2021-01-18T20:34:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zaiWsdDQsXo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/trump-climate-legacy-bidens-challenge/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/trump-climate-legacy-bidens-challenge/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200909130029-01-oroville-ca-fire-0909-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

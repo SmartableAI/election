@@ -167,6 +167,20 @@ related:
         width: 950
         height: 534
         isCached: true
+  - title: "Choice of Alex Padilla for Kamala Harris' Senate seat shakes up California politics"
+    excerpt: "As Vice President-elect Kamala Harris resigns from the Senate, California Governor Gavin Newsom has named the state's attorney general, Alex Padilla, to fill the seat. Sophia Bollag, a politics reporter covering the Newsom administration at the Sacramento Bee,"
+    publishedDateTime: 2021-01-18T20:58:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-senate-seat-alex-padilla-california-governor-gavin-newsom/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 99
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/18/34f67477-bbf9-4d10-8c82-69aff53c73b0/thumbnail/1200x630/7753bf2e1481a9d9996d7d9f41e42e58/cbsn-fusion-kamala-harris-senate-seat-alex-padilla-california-governor-gavin-newsom-thumbnail-628754-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Alex Padilla to replace Kamala Harris in Senate, making history as California's first Latino senator"
     excerpt: "California Governor Gavin Newsom will name Secretary of State Alex Padilla to replace Vice President-elect Kamala Harris in the U.S. Senate. Padilla will be the first Latino senator to represent California,"
     publishedDateTime: 2020-12-22T19:27:00Z

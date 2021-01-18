@@ -383,6 +383,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Moving trucks spotted at Trump's Mar-a-Lago resort as he prepares to depart Washington"
+    excerpt: "Several large moving trucks were spotted at Mar-a-Lago resort in Palm Beach, Fla., where President Trump is slated to relocate ahead of President-elect Joe Biden’s inauguration."
+    publishedDateTime: 2021-01-18T19:27:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5c5NZyvCDZQ/moving-trucks-trump-mar-a-lago-resort-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/moving-trucks-trump-mar-a-lago-resort-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/moving-trucks-trump-mar-a-lago-resort-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/37de2408-7493-4801-817f-d667d7ded4c2/0178130e-a86f-4eda-b418-49d1f3f50c50/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump impeached by House over Capitol riots, becomes first president to face rebuke twice"
     excerpt: "The House of Representatives Wednesday made history by voting to impeach President Trump for a second time in his presidency."
     publishedDateTime: 2021-01-13T21:36:53Z

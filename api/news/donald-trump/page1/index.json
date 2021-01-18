@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-19-gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-to-make-trump-look-bad.md",
+      "title": "GOP Lawmaker Claimed 'Democratic Machine' Paid Capitol Rioters to Make Trump Look Bad",
+      "excerpt": "As rioters supporting President Donald Trump attacked the U.S. Capitol on January 6, newly elected Republican North Carolina Congressman Madison Cawthorn told conservative talk radio program The Charlie Kirk Show that the \"Democratic machine\" had placed \"agitators\" among the mob in order to make Trump and his followers look bad.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458",
+      "originalUrl": "https://www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1710490/madison-cawthorn-democratic-machine-rioters-trump-agitators.jpg",
+          "width": 3308,
+          "height": 1932,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458?amp=1",
+      "publishedDateTime": "2021-01-18T14:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-majority-of-americans-think-history-will-view-trump-as-failed-president.md",
       "title": "Majority of Americans Think History Will View Trump as 'Failed' President",
       "excerpt": "Evaluating a president's time in office often requires a rearview mirror. While history has yet to weigh in on President Donald Trump's time in office, Americans don't see President Donald Trump receiving positive remarks down the road. After a contentious ...",
@@ -687,7 +739,7 @@
       "originalUrl": "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1568,
+      "heat": 1588,
       "tags": null,
       "images": [
         {
@@ -944,7 +996,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/16/donald-trump-republican-party-divided-impeachment-capitol-attack",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1485,58 +1537,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-trump-receives-moroccos-highest-award-for-middle-east-work-official.md",
-      "title": "Trump receives Morocco's highest award for Middle East work: official",
-      "excerpt": "U.S. President Donald Trump on Friday received Morocco's highest award for his work in advancing a normalization deal between Israel and Morocco, a senior administration official told Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-morocco/trump-receives-moroccos-highest-award-for-middle-east-work-official-idUSKBN29K2GK?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-morocco/trump-receives-moroccos-highest-award-for-middle-east-work-official-idUSKBN29K2GK?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547969691&r=LYNXMPEH0E1FT&w=800",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-15T16:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

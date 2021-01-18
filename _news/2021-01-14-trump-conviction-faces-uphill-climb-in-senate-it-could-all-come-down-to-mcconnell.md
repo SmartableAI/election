@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'The lost years': Climate damage that occurred on Trump's watch will endure long after he is gone"
+    excerpt: "For four years, President Donald Trump has careened from one crisis to the next, many of his own making.\n    \n"
+    publishedDateTime: 2021-01-18T20:34:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zaiWsdDQsXo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/trump-climate-legacy-bidens-challenge/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/trump-climate-legacy-bidens-challenge/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200909130029-01-oroville-ca-fire-0909-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "nVnIR0sCdnVN9i7/qUOME+tRMKRJgiQF5Dw47KU69JmldbkB6QO9LS0kMyrZAS81am64qJiOGzIhTcMoFbpseZwaQxVA+gqByODX7fKlBPdzovhxqEsOzFB3gWQz8t4dAx1EY66PGfT7TwaGILYqcrE8Q4Fzk1qnDgB04kQjO1OxipyWdwQcKUKNyDTwhn2dWjGkRf6kuW9OEgVYQVWYufmzE5rQGCgc+4uc6WY3VR/SikTfuT5ngXbcG63J5rgW2LkVsyYw90RnyvB+hq9eH6KJVQ8YYi2+IVAw6Lbsc85MbVycYBAU9vxk11wDSSTpXUl4Vc5TJi7OlNhjyZJlBndTri0HfEl+mWsK52S1lXCPZl5H68GXGhRolhT3bTDzDPVlOUNbRVLjDN5/2Q/jOYFTfDGEa5TX+NY58rHYpdqfPEn+BIkj9zbFnruaF/pqwqafNLy1V30vXL2/q2k2M+UNvdB8XbY4HXLTXRj01RRoe/hxf2XdvD59Dy1stfB9KfLIl3iPk55cPwZuumEE8g==;/UCU+sJNWab0UGqOLzMPtA=="
 ---

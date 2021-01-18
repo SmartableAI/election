@@ -2,6 +2,176 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-12-07-republicans-slam-bidens-hhs-pick-becerra-as-disaster-for-california.md",
+      "title": "Republicans slam Biden's HHS pick Becerra as 'disaster for California'",
+      "excerpt": "Republicans slammed President-elect Joe Biden after he announced his choice of California Attorney General Xavier Becerra for secretary of Health and Human Services on Monday, and they criticized Becerra's record on abortion and other issues.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JjHymMUN7Oo/republicans-biden-hhs-xavier-becerra-abortion-senate",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JjHymMUN7Oo/republicans-biden-hhs-xavier-becerra-abortion-senate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/GettyImages-1181949866.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-hhs-xavier-becerra-abortion-senate.amp",
+      "publishedDateTime": "2020-12-07T08:14:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-06-saturday-night-live-returns-with-weekend-update-segment-mocking-donald-trump-rudy-giulianis-fraud-claims.md",
+      "title": "'Saturday Night Live' returns with 'Weekend Update' segment mocking Donald Trump, Rudy Giuliani's fraud claims",
+      "excerpt": "This week's \"Saturday Night Live\" saw “Weekend Update” returned after a three-week hiatus to mock Donald Trump’s ongoing efforts to prove alleged voter fraud in the 2020 election as well as his personal lawyer,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/saturday-night-live-returns-weekend-update-trump-giuliani-fraud-claims",
+      "originalUrl": "https://www.foxnews.com/entertainment/saturday-night-live-returns-weekend-update-trump-giuliani-fraud-claims",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/WeekendUpdate3.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/saturday-night-live-returns-weekend-update-trump-giuliani-fraud-claims.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/saturday-night-live-returns-weekend-update-trump-giuliani-fraud-claims.amp",
+      "publishedDateTime": "2020-12-06T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-06-karen-bass-wants-african-american-woman-to-replace-kamala-harris-in-the-senate.md",
+      "title": "Karen Bass wants African American woman to replace Kamala Harris in the Senate",
+      "excerpt": "Rep. Karen Bass, D-Calif., pointed to the fact that there will be no Black women in the Senate after the departure of Vice President-elect Kamala Harris during an interview last week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JElhNFmbEHI/karen-bass-california-senate-kamala-harris-replacement-african-american-woman",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JElhNFmbEHI/karen-bass-california-senate-kamala-harris-replacement-african-american-woman",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20316781826951.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/karen-bass-california-senate-kamala-harris-replacement-african-american-woman.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karen-bass-california-senate-kamala-harris-replacement-african-american-woman.amp",
+      "publishedDateTime": "2020-12-06T05:55:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-06-patrick-basham-explains-why-biden-victory-not-statistically-impossible-but-statistically-implausible.md",
       "title": "Patrick Basham explains why Biden victory 'not statistically impossible, but ... statistically implausible'",
       "excerpt": "President-elect Joe Biden defied key \"non-polling metrics\" to defeat President Trump in a way that is \"not statistically impossible, but it's statistically implausible,\" pollster Patrick Basham told Fox News' \"Life, Liberty & Levin\" in an interview airing Sunday night.",
@@ -1493,174 +1663,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-intends-to-keep-fbi-director-wray.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-intends-to-keep-fbi-director-wray.amp",
       "publishedDateTime": "2020-12-02T10:42:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-cnn-has-been-overwhelmingly-biased-against-trump-joe-concha.md",
-      "title": "CNN has been ‘overwhelmingly biased’ against Trump: Joe Concha",
-      "excerpt": "You don't need behind-the-scenes tapes to know that CNN is anti-Trump because of how blatant the network coverage is, Fox News contributor Joe Concha told \"America's Newsroom\" Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cwjh8tUrxXc/cnn-has-been-overwhelmingly-biased-against-trump-joe-concha",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cwjh8tUrxXc/cnn-has-been-overwhelmingly-biased-against-trump-joe-concha",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cnn-has-been-overwhelmingly-biased-against-trump-joe-concha.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cnn-has-been-overwhelmingly-biased-against-trump-joe-concha.amp",
-      "publishedDateTime": "2020-12-02T10:21:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-trump-hints-at-2024-presidential-run-in-remarks-at-white-house-party.md",
-      "title": "Trump hints at 2024 presidential run in remarks at White House party",
-      "excerpt": "President Trump hinted that he may launch a 2024 campaign to return to the White House, as he continues to fight the 2020 election results and refuses to concede to President-elect Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/alzBlzVKkEM/trump-hints-at-2024-presidential-run",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/alzBlzVKkEM/trump-hints-at-2024-presidential-run",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 415,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hints-at-2024-presidential-run.amp",
-      "publishedDateTime": "2020-12-02T07:49:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-biden-admits-dems-forgot-rural-america-says-he-did-something-good-for-the-country-by-beating-trump.md",
-      "title": "Biden admits Dems 'forgot' rural America, says he did 'something good for the country' by beating Trump",
-      "excerpt": "President-elect Joe Biden said Democrats \"forgot\" rural America in an interview with New York Times opinion columnist Thomas L. Friedman published Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R9EK1Jh2h3k/biden-democrats-forgot-rural-america",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/R9EK1Jh2h3k/biden-democrats-forgot-rural-america",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20274669148826.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-democrats-forgot-rural-america.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-democrats-forgot-rural-america.amp",
-      "publishedDateTime": "2020-12-02T05:55:58-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

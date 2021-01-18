@@ -207,6 +207,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden promises on Day One to reinstate rule protecting transgender student use of bathrooms"
+    excerpt: "The president-elect has said he would reinstate rules allowing transgender students to use the bathrooms and locker rooms that align with their gender identities."
+    publishedDateTime: 2021-01-18T22:42:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z_iG_-GXoh0/biden-day-one-trump-transgender-student-protections"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-day-one-trump-transgender-student-protections.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-day-one-trump-transgender-student-protections.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6aa67978-5e93-4d0c-bff4-479f2f80f678/a7b0a565-4464-4f02-89a6-54dbbedad7e7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Biden accepts use of the president’s guest house for the night before inauguration"
     excerpt: "Blair House, the president’s guest house, sits across from the White House on Pennsylvania Ave."
     publishedDateTime: 2021-01-14T07:22:59Z

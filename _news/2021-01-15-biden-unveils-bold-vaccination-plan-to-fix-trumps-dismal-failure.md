@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-bold-vaccination-trump-dismal
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bold-vaccination-trump-dismal-failure.amp"
 type: article
 quality: 190
-heat: 230
+heat: 250
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 183
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5960cbca-be06-41d8-b7c0-22ec824ae73b/849844c6-d797-457a-bae7-1a00a360bd22/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump supporters in National Guard might 'do something' to Biden, Dem congressman says"
+    excerpt: "Rep. Steve Cohen, D-Tenn., ominously suggested Monday that Donald Trump supporters within the National Guard charged with helping protect Joe Biden \"might want to do something\" to the president-elect."
+    publishedDateTime: 2021-01-18T19:09:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3vLmWV0TP4c/dem-congressman-trump-supporters-national-guard-something-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-congressman-trump-supporters-national-guard-something-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-congressman-trump-supporters-national-guard-something-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ee79d8e-e6c4-4b30-b275-871e83536544/e0aef09b-5e94-476b-a135-55baa49822c9/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

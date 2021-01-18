@@ -2,6 +2,222 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-12-berkeley-parents-to-stage-sit-in-for-reopening-schools-at-kamala-harris-old-elementary-school.md",
+      "title": "Berkeley parents to stage 'sit-in' for reopening schools at Kamala Harris' old elementary school",
+      "excerpt": "The sit-in is framed by advocates for reopening schools as a call against \"discrimination in the access of education in California.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/bayarea/article/Berkeley-parents-sit-in-Kamala-Harris-elementary-15864609.php",
+      "originalUrl": "https://www.houstonchronicle.com/bayarea/article/Berkeley-parents-sit-in-Kamala-Harris-elementary-15864609.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/16/05/13/20468433/3/rawImage.jpg",
+          "width": 2048,
+          "height": 1352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-trump-acknowledged-he-bears-some-blame-for-capitol-riot-in-conversation-with-mccarthy-sources.md",
+      "title": "Trump acknowledged he bears some blame for Capitol riot in conversation with McCarthy: sources",
+      "excerpt": "President Trump acknowledged that he bears some blame for the Capitol riot last week during a conversation with House Republican Leader Kevin McCarthy, a source familiar told Fox News.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_IovXsLr9Vc/trump-acknowledged-he-bears-some-blame-for-capitol-riot-last-week-in-call-with-mccarthy-sources",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_IovXsLr9Vc/trump-acknowledged-he-bears-some-blame-for-capitol-riot-last-week-in-call-with-mccarthy-sources",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-acknowledged-he-bears-some-blame-for-capitol-riot-last-week-in-call-with-mccarthy-sources.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-acknowledged-he-bears-some-blame-for-capitol-riot-last-week-in-call-with-mccarthy-sources.amp",
+      "publishedDateTime": "2021-01-11T17:00:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-manchin-calls-second-trump-impeachment-bid-ill-advised-let-the-judicial-system-do-its-job.md",
+      "title": "Manchin calls second Trump impeachment bid 'ill-advised': 'Let the judicial system do its job'",
+      "excerpt": "House Democrats' attempt to impeach President Trump for a second time in connection with last week's riot at the U.S. Capitol is \"so ill-advised,\" Sen. Joe Manchin, D-W.Va. told \"Special Report\" Monday. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tPoWs5d64p8/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tPoWs5d64p8/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56961609-b75a-4b4d-886f-7cf6225d0872/1929b563-4df0-450f-8d3f-4e0c35becc7f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-calls-second-trump-impeachment-ill-advised-let-the-judicial-system-run-its-course.amp",
+      "publishedDateTime": "2021-01-11T16:20:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-biden-chooses-veteran-diplomat-william-burns-as-his-cia-director.md",
+      "title": "Biden chooses veteran diplomat William Burns as his CIA director",
+      "excerpt": "William Burns, chosen by Biden to head the CIA, built a 33-year career at the State Department under both Republican and Democratic presidents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 485,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/7749282/2147483647/strip/true/crop/4341x2835+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F08%2Fbd%2Fcbf72ac3438eacfccf3ea6d430f8%2Fbiden-55451.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director?_amp=true",
+      "publishedDateTime": "2021-01-11T15:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-gidley-blasts-democrats-disgusting-tactic-of-claiming-anyone-pro-trump-agrees-with-lawless-thugs.md",
       "title": "Gidley blasts Democrats' 'disgusting tactic' of claiming anyone pro-Trump 'agrees with lawless thugs'",
       "excerpt": "Former Deputy White House Press Secretary Hogan Gidley ripped into Democrats and their supporters in Hollywood and the media Monday for making blanket claims that anyone who supports President Trump is also supportive of the \"lawless thugs\" who attacked the U.S. Capitol last week.",
@@ -398,7 +614,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour?fbclid=IwAR1bNX4SBZrhlR_3TtForOSsodHxc-6OWQbLFglDCZ2N9L3EKdFRGsmiwEA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 445,
       "tags": null,
       "images": [
         {
@@ -1138,231 +1354,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-google-microsoft-verizon-on-biden-inauguration-committee-donor-list.md",
-      "title": "Google, Microsoft, Verizon on Biden Inauguration Committee donor list",
-      "excerpt": "Google, Microsoft, and Verizon are among President-elect Joe Biden's Inauguration Committee donors.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u0gqqBSjynQ/google-microsoft-verizon-biden-inauguration-committee",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u0gqqBSjynQ/google-microsoft-verizon-biden-inauguration-committee",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/00e79b30-AP21006762088029.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp",
-      "publishedDateTime": "2021-01-10T08:59:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-immediate-removal-of-president-trump-full-hakeem-jeffries-interview.md",
-      "title": "'Immediate removal' of President Trump: Full Hakeem Jeffries Interview",
-      "excerpt": "In an exclusive interview with Meet the Press, Rep. Hakeem Jeffries (D-N.Y.), Chair, House Democratic Caucus, talks to Chuck Todd about the Democrats' impeachment plans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/meet-the-press/video/-immediate-removal-of-president-trump-full-hakeem-jeffries-interview-99225157671",
-      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/-immediate-removal-of-president-trump-full-hakeem-jeffries-interview-99225157671",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/1610288735582_mtp_full_hakeem_210110_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo99225157671",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99225157671",
-      "publishedDateTime": "2021-01-10T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen.md",
-      "title": "Roy Blunt balks at attempt to impeach Trump again: ‘Not going to happen’",
-      "excerpt": "Roy Blunt, R-Mo., Friday balked at the idea of a second impeachment of President Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jLjBJ32UY4Q/roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jLjBJ32UY4Q/roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Roy-Blunt.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen.amp",
-      "publishedDateTime": "2021-01-10T02:38:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-nancy-pelosi-in-60-minutes-interview-slams-trump-as-deranged-calls-for-prosecution.md",
-      "title": "Nancy Pelosi, in ‘60 Minutes’ interview, slams Trump as ‘deranged,’ calls for ‘prosecution’",
-      "excerpt": "President Trump is \"deranged, unhinged, dangerous,\" and deserving of prosecution, House Speaker Nancy Pelosi says in an interview scheduled to air Sunday night on \"60 Minutes.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Co4Y0dQ4huI/nancy-pelosi-in-60-minutes-interview-slams-trump-as-deranged-calls-for-prosecution",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Co4Y0dQ4huI/nancy-pelosi-in-60-minutes-interview-slams-trump-as-deranged-calls-for-prosecution",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Mo-Brooks2.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nancy-pelosi-in-60-minutes-interview-slams-trump-as-deranged-calls-for-prosecution.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nancy-pelosi-in-60-minutes-interview-slams-trump-as-deranged-calls-for-prosecution.amp",
-      "publishedDateTime": "2021-01-09T23:57:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

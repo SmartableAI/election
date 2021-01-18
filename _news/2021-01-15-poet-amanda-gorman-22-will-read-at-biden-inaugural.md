@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden picks Chopra, Gensler for financial oversight roles"
+    excerpt: "President-elect Joe Biden is set to nominate Rohit Chopra as the director of the Consumer Financial Protection Bureau, tapping a progressive ally of Sen. Elizabeth Warren to helm the agency whose crea"
+    publishedDateTime: 2021-01-18T19:16:00Z
+    webUrl: "https://www.washingtonpost.com/business/biden-picks-chopra-gensler-for-financial-oversight-roles/2021/01/18/b8d93334-5997-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/biden-picks-chopra-gensler-for-financial-oversight-roles/2021/01/18/b8d93334-5997-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-picks-chopra-gensler-for-financial-oversight-roles/2021/01/18/b8d93334-5997-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "President-elect Joe Biden to name Gary Gensler as U.S. SEC chair, sources say"
     excerpt: "Gary Gensler, a top financial regulator under the Obama administration, is expected to be named chair of the U.S. Securities and Exchange Commission."
     publishedDateTime: 2021-01-12T17:47:00Z

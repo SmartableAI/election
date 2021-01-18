@@ -96,6 +96,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Migrant caravan member cites Biden’s pledge to suspend deportations for 100 days as reason for traveling to US"
+    excerpt: "A migrant traveling with a caravan that left Honduras on Friday told a reporter he was headed to the U.S. because soon-to-be President Joe Biden had “give us 100 days to get to the U.S.”"
+    publishedDateTime: 2021-01-18T22:30:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PvHEk6krt5s/migrant-caravan-biden-pledge-suspend-deportations-100-days"
+    ampWebUrl: "https://www.foxnews.com/politics/migrant-caravan-biden-pledge-suspend-deportations-100-days.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-caravan-biden-pledge-suspend-deportations-100-days.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21018728901269.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "NAaY4Pgxd12f1mrUmnkctjr6lrBMvq50FxmDUUc7T3IuRZmWJzNwSs78D8Uon/54YiGz2IvHozeP3TjZDvJF3bI9/uZGyBEKuSu/dhE+N8Gfv7qKGyCzj1iOHJSh6gyN+rivS6eDLcA9mDk4pH46Jz+CMkE2JCBgpeyKF1/8gJTg1BrgobHCvKf9KRlmq/OrIPpUIcH03+XycibIPClaTgx2ZSkrDWR+qlklftNRUbACKXoUYKeK2rw+Ly4GgGfHYXMiScxgOm09UCFIZ8JLcoppudfO9YWXSJfwL7p9ZxvGU3is29WDTgPCK4nyBEng4wHMaU/tYhiV773frGMtzEczLky9bWIBid2ZgZ94bAUedYX96E3KRl1ftCVLNVUspwR8VegzNofJvn8IvV1BDRnN2T2lu7JVziACxDo7TsrX/gBoyD8umL2zUe2y0JtWPttYSaTI5hvW1szUd+SxNye2n1MBt+kVYoA5K+E+kjJYAOgu+kMmGs+Z5e6/QKQp124zRURoA5HN+Xp3T7yWwg==;N7vkvWv3F9qaj4ZlvJAkXw=="
 ---

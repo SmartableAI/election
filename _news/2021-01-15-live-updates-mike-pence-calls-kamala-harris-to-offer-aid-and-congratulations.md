@@ -417,6 +417,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Pelosi demands acting Pentagon chief halt his order to NSA to install Trump loyalist as general counsel"
+    excerpt: "House Speaker Nancy Pelosi is demanding acting Defense Secretary Christopher Miller \"immediately cease\" his plans to install a Trump loyalist as the National Security Agency's general counsel, calling the move \"highly suspect\" and arguing it represents a \"disturbing disregard\" for the country's national"
+    publishedDateTime: 2021-01-18T19:27:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J_mOMCQlWXU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/pelosi-trump-nsa-michael-ellis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/pelosi-trump-nsa-michael-ellis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118014238-nancy-pelosi-0115-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump releases video calling for calm but doesn't mention impeachment"
     excerpt: "On the day he will be impeached for a history-making second time, President Donald Trump lacks a comprehensive legal strategy, has nothing on his public schedule and is without his preferred social media methods of responding -- in part because his son-in-law put a stop to efforts establishing his presence"
     publishedDateTime: 2021-01-14T00:30:32Z

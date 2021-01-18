@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/10/kamala-harris-vogue-cover-photos-anna-wintour"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -265,6 +265,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "With Kamala Harris' rise, the Divine Nine reach new heights"
+    excerpt: "The founders of Black sororities and fraternities would see Harris' election as the \"culmination of the dream\" they had"
+    publishedDateTime: 2021-01-18T21:06:00Z
+    webUrl: "https://www.detroitnews.com/story/life/2021/01/18/kamala-harris-rise-divine-nine-reach-new-heights/6642387002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 35
 
 secured: "l5W02/mAO+ublQ/oX0b5Btr45AdyqTcqSX4naH1p4lb4VdFGJReDIh/8HifYxEtGrGMTboOYhSOG4C1ixb82EC21NISuC9Zz+Y99/IXlc3f2kfIjQ+r+7f89uvRmfMe1gTPdOzd6vt4dMPzBO5vZQ83XH+uJGSsOL9qrM+0BWbiog0E0H918NIryYCbZfXnARmu8egSSKMWNVHCs4b8NQnzvP14Em4qXg81/IHExGEwDzQXsSpYojJCQQDolZhQv7eLDpoNMXazI/xidOlshVa53NYo7/fDOQ4SrFgHFFX4D/Y1JOd3582JNPwIi2OV6LcFBURJdzLA08QwKj5Y19E8SVPFM/ObSY23Ezu3asIMEdxQz34aovGAqGYhE8lV3Fc+kWm7kMWDPAe0jFs4Sx/U5n0o6B8oFPj1j2dEOM5iVpkW31WUlukwZ+9W7WhEQqCZduTVUNc7k8VUxxgHt5stnFNAiCWbArEkHaeSXl5F1NV0pFmWR2fIo4FsXhhT2WqGhTU9T8Xyu3OMCRI3d4Q==;AfbDQnuCCXkiCvUJdRFLYw=="
 ---

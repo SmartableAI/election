@@ -2,6 +2,282 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-19-gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-to-make-trump-look-bad.md",
+      "title": "GOP Lawmaker Claimed 'Democratic Machine' Paid Capitol Rioters to Make Trump Look Bad",
+      "excerpt": "As rioters supporting President Donald Trump attacked the U.S. Capitol on January 6, newly elected Republican North Carolina Congressman Madison Cawthorn told conservative talk radio program The Charlie Kirk Show that the \"Democratic machine\" had placed \"agitators\" among the mob in order to make Trump and his followers look bad.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458",
+      "originalUrl": "https://www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1710490/madison-cawthorn-democratic-machine-rioters-trump-agitators.jpg",
+          "width": 3308,
+          "height": 1932,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458?amp=1",
+      "publishedDateTime": "2021-01-18T14:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-acting-dhs-secretary-we-want-to-leave-no-stone-unturned-in-securing-biden-inauguration.md",
+      "title": "Acting DHS secretary: We want to leave 'no stone unturned' in securing Biden inauguration",
+      "excerpt": "Acting Homeland Security Secretary Peter Gaynor told \"America Reports\" Monday that there is a \"heightened sense of alert\" surrounding the security preparations for Joe Biden's inauguration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gxODbRKz3tI/inauguration-security-national-guard-fbi-dhs-peter-gaynor",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gxODbRKz3tI/inauguration-security-national-guard-fbi-dhs-peter-gaynor",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/inauguration-security-national-guard-fbi-dhs-peter-gaynor.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/inauguration-security-national-guard-fbi-dhs-peter-gaynor.amp",
+      "publishedDateTime": "2021-01-18T13:57:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-melania-trump-releases-farewell-message-it-has-been-the-greatest-honor-of-my-life.md",
+      "title": "Melania Trump releases farewell message: 'It has been the greatest honor of my life'",
+      "excerpt": "Outgoing first lady Melania Trump reflected on her four years in the White House during a farewell address to the American people on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qdl1wRYnZ-k/melania-trump-farewell-message-it-has-been-the-greatest-honor-of-my-life",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qdl1wRYnZ-k/melania-trump-farewell-message-it-has-been-the-greatest-honor-of-my-life",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/37de2408-7493-4801-817f-d667d7ded4c2/0178130e-a86f-4eda-b418-49d1f3f50c50/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/melania-trump-farewell-message-it-has-been-the-greatest-honor-of-my-life.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-farewell-message-it-has-been-the-greatest-honor-of-my-life.amp",
+      "publishedDateTime": "2021-01-18T13:41:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-trump-national-garden-order-includes-statues-of-whitney-houston-kobe-bryant-vince-lombardi-frank-sinatra.md",
+      "title": "Trump National Garden order includes statues of Whitney Houston, Kobe Bryant, Vince Lombardi, Frank Sinatra",
+      "excerpt": "President Trump issued an executive order on Monday in which he listed dozens of \"historically significant\" Americans, including entertainers, founding fathers, religious figures, and others, to be featured in the new National Garden of American Heroes.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kj1sQjm-mYE/trump-national-garden-statues",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kj1sQjm-mYE/trump-national-garden-statues",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0eb21815-dfa2-4f95-9dad-2105540bb182/e19cf9d1-5067-4540-8aed-09392d9a1413/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-national-garden-statues.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-national-garden-statues.amp",
+      "publishedDateTime": "2021-01-18T12:56:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-disgraced-ex-baltimore-mayor-wants-trump-to-commute-her-sentence.md",
+      "title": "Disgraced ex-Baltimore mayor wants Trump to commute her sentence",
+      "excerpt": "Catherine Pugh, the disgraced former Baltimore mayor convicted of using her book sales to help fund a political career, is reportedly among those seeking clemency from President Donald Trump before he leaves office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XEHvQBDUbtw/ex-baltimore-mayor-trump-commute-sentence",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XEHvQBDUbtw/ex-baltimore-mayor-trump-commute-sentence",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/GettyImages-832602030.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ex-baltimore-mayor-trump-commute-sentence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-baltimore-mayor-trump-commute-sentence.amp",
+      "publishedDateTime": "2021-01-18T11:47:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-bidens-reported-plans-to-kill-keystone-xl-pipeline-alarm-canadian-officials.md",
       "title": "Biden’s reported plans to kill Keystone XL pipeline alarm Canadian officials",
       "excerpt": "President-elect Joe Biden is considering canceling the cross-border permit for TC energy’s Keystone XL pipeline -- and Canadian officials are worried.",
@@ -126,7 +402,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 705,
+      "heat": 725,
       "tags": null,
       "images": [
         {
@@ -314,62 +590,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-trump-may-issue-50-to-100-commutations-pardons-before-term-ends-rapper-lil-wayne-expected-to-be-on-list.md",
-      "title": "Trump may issue 50 to 100 commutations, pardons before term ends; rapper Lil Wayne expected to be on list",
-      "excerpt": "President Trump is expected to issue between 50 and 100 commutations and pardons before he leaves office this week, two sources familiar with the list told Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qs02KxEkdDY/trump-expected-pardons-commutations-lil-wayne-before-leaving-office",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qs02KxEkdDY/trump-expected-pardons-commutations-lil-wayne-before-leaving-office",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-expected-pardons-commutations-lil-wayne-before-leaving-office.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-expected-pardons-commutations-lil-wayne-before-leaving-office.amp",
-      "publishedDateTime": "2021-01-18T06:26:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -701,7 +921,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1150,
+      "heat": 1190,
       "tags": null,
       "images": [
         {
@@ -1120,227 +1340,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-sen-cory-booker-expects-trump-impeachment-trial-as-quickly-as-possible.md",
-      "title": "Sen. Cory Booker expects Trump impeachment trial 'as quickly as possible'",
-      "excerpt": "Sen. Cory Booker, D-N.J., said that after the House voted to impeach President Trump last week, he expects the Senate to hold a trial relatively soon.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXTLAGXiBHs/sen-booker-trump-impeachment-trial-quickly-as-possible",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXTLAGXiBHs/sen-booker-trump-impeachment-trial-quickly-as-possible",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31a1fe1e-5515-468e-9607-4738d2533c9f/c9629705-1284-496f-9cfa-44d30c4119aa/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sen-booker-trump-impeachment-trial-quickly-as-possible.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-booker-trump-impeachment-trial-quickly-as-possible.amp",
-      "publishedDateTime": "2021-01-17T11:14:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-paleologos-on-the-poll-inauguration-day-isnt-the-end-of-the-trump-era-its-just-the-beginning.md",
-      "title": "Paleologos on the Poll: Inauguration Day isn't the end of the Trump era. It's just the beginning.",
-      "excerpt": "David Paleologos, director of the Suffolk University Political Research Center, says Trump would be the favorite in the 2024 GOP primary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/17/paleologos-poll-trump-era-just-getting-started/4196345001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/17/paleologos-poll-trump-era-just-getting-started/4196345001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/17/USAT/70c724f1-c6e6-4639-a168-b6684566f5d1-AP_Capitol_Breach_Rally_Organizers.jpg?auto=webp&crop=4519,2542,x562,y162&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4196345001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4196345001",
-      "publishedDateTime": "2021-01-17T11:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-top-fema-official-attended-trumps-stop-the-steal-rally.md",
-      "title": "Top FEMA official attended Trump's 'Stop the Steal' rally",
-      "excerpt": "A top official at the Federal Emergency Management Agency, which has been assisting in preparations for the Inauguration next week, attended President Donald Trump’s “Stop the Steal” rally on Jan. 6. At that rally, Trump urged his followers to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/01/15/fema-trump-rally-459734",
-      "originalUrl": "https://www.politico.com/news/2021/01/15/fema-trump-rally-459734",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/ad/37/43fd268d42649efd54bf08dfbb90/ap20337786621970-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/15/fema-trump-rally-459734",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/15/fema-trump-rally-459734",
-      "publishedDateTime": "2021-01-17T10:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-biden-adviser-defends-liberal-agenda-items-in-19t-coronavirus-relief-plan-dodges-on-ending-filibuster.md",
-      "title": "Biden adviser defends liberal agenda items in $1.9T coronavirus relief plan, dodges on ending filibuster",
-      "excerpt": "President-elect Joe Biden’s proposed coronavirus relief package would cost taxpayers $1.9 trillion, and his economic adviser defended the inclusion of several Democratic agenda items.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wirOHM4_UYk/biden-economic-adviser-coronavirus-relief-plan",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wirOHM4_UYk/biden-economic-adviser-coronavirus-relief-plan",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42062da5-16e0-4037-a730-e3584328ccb1/18454cad-9594-4df4-929b-9de43f9366d1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-economic-adviser-coronavirus-relief-plan.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-economic-adviser-coronavirus-relief-plan.amp",
-      "publishedDateTime": "2021-01-17T08:55:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

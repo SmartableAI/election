@@ -168,19 +168,19 @@ related:
         isCached: true
   - title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
-    publishedDateTime: 2021-01-15T19:17:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
+    publishedDateTime: 2021-01-15T23:29:00Z
+    webUrl: "https://www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 127
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Pro-Trump supporters to rally again in Washington"
     excerpt: "Supporters of President Donald Trump are returning to Washington for a pair of rallies to back his desperate efforts to subvert the election that he lost"
@@ -765,20 +765,20 @@ related:
         height: 336
         isCached: true
   - title: "Mike Pence calls Kamala Harris to offer congratulations"
-    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
-    publishedDateTime: 2021-01-15T20:18:00Z
-    webUrl: "https://www.denverpost.com/2021/01/15/mike-pence-calls-kamala-harris-to-offer-congratulations/"
-    ampWebUrl: "https://www.denverpost.com/2021/01/15/mike-pence-calls-kamala-harris-to-offer-congratulations/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/01/15/mike-pence-calls-kamala-harris-to-offer-congratulations/amp/"
+    excerpt: "It’s the first known contact between the elected members of the outgoing and incoming administrations. President Donald Trump has not reached out to President-elect Joe Biden and has repeatedly questioned the legitimacy of Biden’s win."
+    publishedDateTime: 2021-01-16T01:25:00Z
+    webUrl: "https://chicago.suntimes.com/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
     type: article
     provider:
-      name: The Denver Post
-      domain: denverpost.com
+      name: Chicago Sun-Times
+      domain: suntimes.com
     quality: 100
     images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/APTOPIX_Pence_Inauguration_55103.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Pence Calls VP-Elect Kamala Harris to Offer Congratulations"
     excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
@@ -840,6 +840,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Fact check: Article falsely reports that Biden’s inauguration has been canceled; Trump has not invoked the Insurrection Act"
+    excerpt: "Articles circulating on social media make the false claim that President-elect Joe Biden’s inauguration has been canceled and that President Donald Trump “would remain in office”. This is false."
+    publishedDateTime: 2021-01-18T19:52:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-inauguration-not-canceled-idUSKBN29N1VQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 94
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548231104&r=LYNXMPEH0H15S&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Kamala Harris gets the Vogue cover Melania Trump always wanted"
     excerpt: "The president, first lady and their political supporters repeatedly complained that ‘elitist’ fashion magazines wouldn’t put the ‘most elegant first lady in American"
     publishedDateTime: 2021-01-11T18:28:00Z
@@ -855,6 +869,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_982bd6f39d8176d926a35de2b32bfd51-h_16ae4b24c5b25e70b3b25aaa73a4c7ca.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
+    publishedDateTime: 2021-01-17T10:17:00Z
+    webUrl: "https://www.dailypress.com/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html"
+    ampWebUrl: "https://www.dailypress.com/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-mike-pence-kamala-harris-20210115-h36svmshpfgcfhvsjdnsbrlyna-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 83
+    images:
+      - url: "https://www.dailypress.com/resizer/Z3qJoKYgp7I25-Bfj9OgWDYkWb8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7RFR7OAVVHIHHAVMBLL7YTF44.jpg"
+        width: 1200
+        height: 898
         isCached: true
   - title: "Kamala Harris dissolving PACs, giving money to charity"
     excerpt: "Vice President-elect Kamala Harris is dissolving her political fundraising committees as she prepares for her inauguration with President-elect Joe Biden on Jan. 20, giving leftover money to California charities."
@@ -1112,6 +1142,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Sen. Kamala Harris resigns from U.S. Senate ahead of inauguration"
+    excerpt: "Kamala Harris formally stepped down from her role as senator Monday in advance of taking the oath of office as vice president of the United States in the 59th presidential inauguration."
+    publishedDateTime: 2021-01-18T20:41:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/18/Sen-Kamala-Harris-resigns-from-US-Senate-ahead-of-inauguration/1751611001431/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/18/Sen-Kamala-Harris-resigns-from-US-Senate-ahead-of-inauguration/1751611001431/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/18/Sen-Kamala-Harris-resigns-from-US-Senate-ahead-of-inauguration/1751611001431/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/ph/st/th/1751611001431/2021/upi/b6ef9e11044fa6d2cdec0888f8c43525/v1.5/Sen-Kamala-Harris-resigns-from-US-Senate-ahead-of-inauguration.jpg?lg=2"
+        width: 800
+        height: 535
+        isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."
     publishedDateTime: 2021-01-13T07:29:00Z
@@ -1272,6 +1318,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President-elect Joe Biden, Kamala Harris volunteer on Martin Luther King Jr. Day"
+    excerpt: "President-elect Joe Biden and his wife Jill volunteered at a food kitchen in Pennsylvania to honor Rev. Martin Luther King Jr."
+    publishedDateTime: 2021-01-18T20:33:00Z
+    webUrl: "https://www.freep.com/videos/news/politics/2021/01/18/mlk-day-joe-and-jill-biden-participate-day-service/4205453001/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/18/USAT/c30f6997-0d9d-41f5-83b4-a9602990e72f-VPC_BIDEN_HARRIS_MLK_WRAP_DESK_THUMB.00_00_00_00.Still001.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Martin Luther King Jr. Day, COVID-19 pandemic, Kamala Harris: 5 things you need to know Monday"
     excerpt: "Martin Luther King Jr.'s words resonate, decades later. Across the nation, scores of marches, parades and other events to mark the holiday honoring Martin Luther King Jr. have bee"
     publishedDateTime: 2021-01-18T07:58:00Z
@@ -1370,6 +1430,20 @@ related:
       - url: "https://content.rollcall.com/wp-content/uploads/2021/01/harris_BC_021_060220.jpg?resize=1200,600"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Kamala Harris to resign from Senate"
+    excerpt: "Senate on Monday, according to a Harris aide. The California Democrat’s resignation will come two days before she becomes the nation’s first female vice president, and the first person of color to hold that office."
+    publishedDateTime: 2021-01-18T18:30:00Z
+    webUrl: "https://www.sfexaminer.com/national-news/kamala-harris-to-resign-from-senate/"
+    type: article
+    provider:
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 55
+    images:
+      - url: "https://www.sfexaminer.com/wp-content/uploads/2021/01/23949372_web1_210118-SFE-kamalaharris_1-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Representation for women as Vice President-elect Kamala Harris takes office"
     excerpt: "Women share their thoughts about the importance of representation as Vice President-elect Kamala Harris is about to take office."

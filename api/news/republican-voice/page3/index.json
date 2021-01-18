@@ -2,6 +2,175 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-11-melania-trump-disappointed-and-disheartened-over-capitol-attack-nation-must-heal-in-a-civil-manner.md",
+      "title": "Melania Trump ‘disappointed and disheartened’ over Capitol attack: ‘Nation must heal in a civil manner'",
+      "excerpt": "The deadly riots unfolded on Wednesday after a rally to support President Trump descended into a mob that stormed the Capitol during the certification of the Electoral College vote.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FvK_YCPPbTA/melania-trump-disheartened-capitol-attack-nation-must-heal-civil-manner",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FvK_YCPPbTA/melania-trump-disheartened-capitol-attack-nation-must-heal-civil-manner",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e56d820d-efe3-4b7e-8ffb-0e2cf480f0d1/3b7121e6-427b-4dbd-89b9-9bcaa499ee04/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/melania-trump-disheartened-capitol-attack-nation-must-heal-civil-manner.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-disheartened-capitol-attack-nation-must-heal-civil-manner.amp",
+      "publishedDateTime": "2021-01-11T05:12:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-right-back-to-where-we-were-last-year-dems-seek-trump-impeachment.md",
+      "title": "Right back to where we were last year: Dems seek Trump impeachment",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/piuxTC5hNWc/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/piuxTC5hNWc/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump.amp",
+      "publishedDateTime": "2021-01-10T21:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-trump-golf-club-no-longer-the-host-of-future-pga-championship-amid-us-capitol-violence-fallout.md",
+      "title": "Trump golf club no longer the host of future PGA Championship amid US Capitol violence fallout",
+      "excerpt": "PGA Championship will no longer be held at Trump Bedminster in New Jersey, PGA of America announced Sunday night as fury at President Trump over the U.S. Capitol riot grows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/sports/trump-golf-club-future-pga-championship-us-capitol-violence-fallout",
+      "originalUrl": "https://www.foxnews.com/sports/trump-golf-club-future-pga-championship-us-capitol-violence-fallout",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c367f114-e94d-4959-b3ff-061cfdaf5422/675b9628-5b5c-420a-a2a9-452035bffdb4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/sports/trump-golf-club-future-pga-championship-us-capitol-violence-fallout.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/trump-golf-club-future-pga-championship-us-capitol-violence-fallout.amp",
+      "publishedDateTime": "2021-01-10T19:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-secret-service-investigating-death-threats-against-pence.md",
       "title": "Secret Service investigating death threats against Pence",
       "excerpt": "The U.S. Secret Service is investigating death threats against Vice President Mike Pence made by pro-Trump lawyer Lin Wood, Fox News has learned.",
@@ -1499,177 +1668,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-read-pence-letter-saying-he-does-not-have-unilateral-authority-to-reject-electoral-votes.md",
-      "title": "READ: Pence letter saying he does not have 'unilateral authority' to reject electoral votes",
-      "excerpt": "Pence writes a letter saying he does not have 'unilateral authority' to reject electoral votes",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ljnAEb1RQQ8/read-pence-letter-unilateral-authority-to-reject-electoral-votes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ljnAEb1RQQ8/read-pence-letter-unilateral-authority-to-reject-electoral-votes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Pence-bt2.jpg",
-          "width": 1280,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T05:53:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-biden-pick-for-dept-of-justices-top-civil-rights-post-has-called-for-partially-defunding-police.md",
-      "title": "Biden pick for Dept. of Justice's top civil rights post has called for partially defunding police",
-      "excerpt": "President-elect Joe Biden is expected to pick Kristen Clarke, a civil rights lawyer, as Assistant Attorney General for the Civil Rights Division of the Department of Justice, which is expected to be a prioritized role in the Biden administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police",
-      "originalUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d358d2cc-f940-473b-bfb7-5e489ad2caa5/4bf5cd6b-a53b-4fb6-9b9e-3b41fa25e8b0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pick-for-dojs-top-civil-rights-post-called-for-partially-defunding-police.amp",
-      "publishedDateTime": "2021-01-07T04:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-pence-pelosi-share-elbow-bump-following-biden-certification-vote.md",
-      "title": "Pence, Pelosi share 'elbow bump' following Biden certification vote",
-      "excerpt": "Vice President Mike Pence and House Speaker Nancy Pelosi concluded a trying and at times scary joint session of Congress with an elbow bump in the predawn hours of Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Co6aMCUkgA/pence-pelosi-share-elbow-bump-following-biden-certification-vote",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Co6aMCUkgA/pence-pelosi-share-elbow-bump-following-biden-certification-vote",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 400,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006674774302.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-pelosi-share-elbow-bump-following-biden-certification-vote.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-pelosi-share-elbow-bump-following-biden-certification-vote.amp",
-      "publishedDateTime": "2021-01-07T03:07:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

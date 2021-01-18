@@ -208,6 +208,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden promises on Day One to reinstate rule protecting transgender student use of bathrooms"
+    excerpt: "The president-elect has said he would reinstate rules allowing transgender students to use the bathrooms and locker rooms that align with their gender identities."
+    publishedDateTime: 2021-01-18T22:42:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z_iG_-GXoh0/biden-day-one-trump-transgender-student-protections"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-day-one-trump-transgender-student-protections.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-day-one-trump-transgender-student-protections.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6aa67978-5e93-4d0c-bff4-479f2f80f678/a7b0a565-4464-4f02-89a6-54dbbedad7e7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Insider attack feared days before Biden’s inauguration, service members in DC vetted by FBI"
     excerpt: "Defense officials in Washington, D.C., are concerned about an insider attack from service members deployed to Washington, D.C., for President-elect Joe Biden’s inauguration, prompting the FBI to vet all 25,000 National Guard troops in the city, Fox News has learned."
     publishedDateTime: 2021-01-18T03:48:15Z

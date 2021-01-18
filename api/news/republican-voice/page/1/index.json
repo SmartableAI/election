@@ -2,6 +2,230 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-18-acting-dhs-secretary-we-want-to-leave-no-stone-unturned-in-securing-biden-inauguration.md",
+      "title": "Acting DHS secretary: We want to leave 'no stone unturned' in securing Biden inauguration",
+      "excerpt": "Acting Homeland Security Secretary Peter Gaynor told \"America Reports\" Monday that there is a \"heightened sense of alert\" surrounding the security preparations for Joe Biden's inauguration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gxODbRKz3tI/inauguration-security-national-guard-fbi-dhs-peter-gaynor",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gxODbRKz3tI/inauguration-security-national-guard-fbi-dhs-peter-gaynor",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/inauguration-security-national-guard-fbi-dhs-peter-gaynor.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/inauguration-security-national-guard-fbi-dhs-peter-gaynor.amp",
+      "publishedDateTime": "2021-01-18T13:57:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-melania-trump-releases-farewell-message-it-has-been-the-greatest-honor-of-my-life.md",
+      "title": "Melania Trump releases farewell message: 'It has been the greatest honor of my life'",
+      "excerpt": "Outgoing first lady Melania Trump reflected on her four years in the White House during a farewell address to the American people on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qdl1wRYnZ-k/melania-trump-farewell-message-it-has-been-the-greatest-honor-of-my-life",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qdl1wRYnZ-k/melania-trump-farewell-message-it-has-been-the-greatest-honor-of-my-life",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/37de2408-7493-4801-817f-d667d7ded4c2/0178130e-a86f-4eda-b418-49d1f3f50c50/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/melania-trump-farewell-message-it-has-been-the-greatest-honor-of-my-life.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-farewell-message-it-has-been-the-greatest-honor-of-my-life.amp",
+      "publishedDateTime": "2021-01-18T13:41:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-trump-national-garden-order-includes-statues-of-whitney-houston-kobe-bryant-vince-lombardi-frank-sinatra.md",
+      "title": "Trump National Garden order includes statues of Whitney Houston, Kobe Bryant, Vince Lombardi, Frank Sinatra",
+      "excerpt": "President Trump issued an executive order on Monday in which he listed dozens of \"historically significant\" Americans, including entertainers, founding fathers, religious figures, and others, to be featured in the new National Garden of American Heroes.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kj1sQjm-mYE/trump-national-garden-statues",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kj1sQjm-mYE/trump-national-garden-statues",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0eb21815-dfa2-4f95-9dad-2105540bb182/e19cf9d1-5067-4540-8aed-09392d9a1413/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-national-garden-statues.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-national-garden-statues.amp",
+      "publishedDateTime": "2021-01-18T12:56:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-disgraced-ex-baltimore-mayor-wants-trump-to-commute-her-sentence.md",
+      "title": "Disgraced ex-Baltimore mayor wants Trump to commute her sentence",
+      "excerpt": "Catherine Pugh, the disgraced former Baltimore mayor convicted of using her book sales to help fund a political career, is reportedly among those seeking clemency from President Donald Trump before he leaves office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XEHvQBDUbtw/ex-baltimore-mayor-trump-commute-sentence",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XEHvQBDUbtw/ex-baltimore-mayor-trump-commute-sentence",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/GettyImages-832602030.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ex-baltimore-mayor-trump-commute-sentence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-baltimore-mayor-trump-commute-sentence.amp",
+      "publishedDateTime": "2021-01-18T11:47:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-bidens-reported-plans-to-kill-keystone-xl-pipeline-alarm-canadian-officials.md",
       "title": "Biden’s reported plans to kill Keystone XL pipeline alarm Canadian officials",
       "excerpt": "President-elect Joe Biden is considering canceling the cross-border permit for TC energy’s Keystone XL pipeline -- and Canadian officials are worried.",
@@ -126,7 +350,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 705,
+      "heat": 725,
       "tags": null,
       "images": [
         {
@@ -143,62 +367,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-election-legal-team-takes-victory-lap-praises-help-from-unions-nonprofits.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-election-legal-team-takes-victory-lap-praises-help-from-unions-nonprofits.amp",
       "publishedDateTime": "2021-01-18T09:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-trump-may-issue-50-to-100-commutations-pardons-before-term-ends-rapper-lil-wayne-expected-to-be-on-list.md",
-      "title": "Trump may issue 50 to 100 commutations, pardons before term ends; rapper Lil Wayne expected to be on list",
-      "excerpt": "President Trump is expected to issue between 50 and 100 commutations and pardons before he leaves office this week, two sources familiar with the list told Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qs02KxEkdDY/trump-expected-pardons-commutations-lil-wayne-before-leaving-office",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qs02KxEkdDY/trump-expected-pardons-commutations-lil-wayne-before-leaving-office",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-expected-pardons-commutations-lil-wayne-before-leaving-office.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-expected-pardons-commutations-lil-wayne-before-leaving-office.amp",
-      "publishedDateTime": "2021-01-18T06:26:43-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -793,7 +961,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 230,
+      "heat": 250,
       "tags": null,
       "images": [
         {
@@ -1487,174 +1655,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-inaugural-rehearsal-rescheduled-amtrak-trip-canceled-over-security-concerns-report.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inaugural-rehearsal-rescheduled-amtrak-trip-canceled-over-security-concerns-report.amp",
       "publishedDateTime": "2021-01-14T19:58:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-biden-labor-secretary-nominee-marty-walshs-campaign-paid-his-girlfriends-employer-nearly-1-million.md",
-      "title": "Biden labor secretary nominee Marty Walsh's campaign paid his girlfriend's employer nearly $1 million",
-      "excerpt": "Boston Mayor Marty Walsh, President-elect Biden’s nominee for Labor Secretary, paid his girlfriend’s fundraising consulting firm over $1 million, campaign filings show. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UUhDtrq42ac/biden-labor-secretary-nominee-marty-walshs-campaign-paid-his-girlfriends-employer-nearly-1-million",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UUhDtrq42ac/biden-labor-secretary-nominee-marty-walshs-campaign-paid-his-girlfriends-employer-nearly-1-million",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2016/01/24/694940094001_4719677386001_76e84eff-a55c-40f5-8d22-edac2ff90e15.jpg",
-          "width": 617,
-          "height": 347,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-labor-secretary-nominee-marty-walshs-campaign-paid-his-girlfriends-employer-nearly-1-million.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-labor-secretary-nominee-marty-walshs-campaign-paid-his-girlfriends-employer-nearly-1-million.amp",
-      "publishedDateTime": "2021-01-14T15:45:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-colorado-officials-balk-at-trump-decision-to-move-space-command-hq-to-alabama.md",
-      "title": "Colorado officials balk at Trump decision to move Space Command HQ to Alabama",
-      "excerpt": "Officials in Colorado Springs are slamming the Trump administration’s decision to move U.S. Space Command from its temporary location in their city to Alabama claiming the move was based on President Trump’s “personal interest,” but Fox News has learned that Air Force Secretary Barbara Barrett made the",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eqKXGzvbWDA/colorado-trump-decision-space-command-hq-alabama",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eqKXGzvbWDA/colorado-trump-decision-space-command-hq-alabama",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/colorado-trump-decision-space-command-hq-alabama.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/colorado-trump-decision-space-command-hq-alabama.amp",
-      "publishedDateTime": "2021-01-14T13:02:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-arizona-gop-gov-ducey-says-biden-a-good-man-who-wants-to-serve-his-country.md",
-      "title": "Arizona GOP Gov. Ducey says Biden 'a good man' who 'wants to serve his country'",
-      "excerpt": "Arizona’s Republican Gov. Doug Ducey, one of a dwindling number of GOP lawmakers in the Copper State, said Thursday that President-elect Biden is a “good man” and he looks forward to working with him. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w0Is-rRyiEk/arizona-gop-gov-ducey-biden-good-man",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/w0Is-rRyiEk/arizona-gop-gov-ducey-biden-good-man",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Doug-Ducey.jpg",
-          "width": 1922,
-          "height": 2402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/arizona-gop-gov-ducey-biden-good-man.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-gop-gov-ducey-biden-good-man.amp",
-      "publishedDateTime": "2021-01-14T10:56:31-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

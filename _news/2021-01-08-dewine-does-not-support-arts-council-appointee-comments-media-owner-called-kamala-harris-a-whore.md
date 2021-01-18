@@ -261,6 +261,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "With Kamala Harris' rise, the Divine Nine reach new heights"
+    excerpt: "The founders of Black sororities and fraternities would see Harris' election as the \"culmination of the dream\" they had"
+    publishedDateTime: 2021-01-18T21:06:00Z
+    webUrl: "https://www.detroitnews.com/story/life/2021/01/18/kamala-harris-rise-divine-nine-reach-new-heights/6642387002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 35
 
 secured: "83seL88RrFe8Y4Qz2gnm41pHfybZCBImDz4mifr9zfaZVnxBjBLJK3UDqNyK5F3EXOCG75hqjwQTHYjIwT7A6XnoX8aHik+ttehtsY1rR5HT01aKl/Cpb2pW8WUOMq8R5zpORnLEhcJsAszjAw+0UjFS1raspwT1bxCEaBqSpkETtSNhTsa7fn0MFZUpbZnXu0yE+CxWClhvMyVAzVy5bhYyeWYQP2Q1IiW3W5HajtqzqCheNXxRTbgsILa2XSB4aWvpGuBXbvUdrXovyyhk22i6RuzKeq6kzSLH3gIl47xwhHhFwrON/q0yfpIPpnteg9ie++i/HySyBFhrODsxtLgcPjfKBgW+oMJASRBqaIg=;SxbixIcWPgMHWm7p3PaQcg=="
 ---

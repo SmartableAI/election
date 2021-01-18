@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/16/donald-trump-republi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/16/donald-trump-republican-party-divided-impeachment-capitol-attack"
 type: article
 quality: 123
-heat: 123
+heat: 143
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Trump sought the world's attention and got it. Now the White House reality show ends"
+    excerpt: "A red tie, often tied too long. A raised fist, often held high to a supportive crowd. A scowling face. A raised voice."
+    publishedDateTime: 2021-01-18T19:37:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-postcards/trump-sought-the-worlds-attention-and-got-it-now-the-white-house-reality-show-ends-idUSKBN29N1E2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548203838&r=LYNXMPEH0H0U5&w=800"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "F6lV0KlJ1q0rK7Onjk0oY3ZFSiNaljCsOrtl4++0qIXvgtJ2S0PfD13GZQKAZN5oWbhHw1b1N60AKIa3UaoDO8+g3gVY/aXr1Nksnl7noxht+oVDY8br88YPA7Mf03cfd5YwbftNuhLgp7JFHJmiGd0eZnCJncZzKWklA9NYW/MOUKmE8AcTiWybxQggK/DhENBYxIIifOrEUXjqlzpRP1T5NNUTShLlzwSGPBVz5Y1qjUYa/XELDT7Dc4IkD/x4hgaPsFdooZtTK1YWxZUDniEFlBU8s1wLLcWtPYgu4zUXhrf286IJR1nBFiLGPspxVYkNlxBidIrMkDdv+AVvhfoNCoDBATteeWwAjuao5MrPXthfUj/wpmtwTVRgf3v0Xnh7/qb29IXYLAYMbDINylLCe3QkKwkmabDJOZMskHRx7NG5OkkK7QoUSmEO6yz83uS96jdluWXV2QoGp3qeBLKDowThLVbpkIlbi2TVCekBldd0UrFa2oSbjZ9QLf90ac721YY+L2SuVNE+IVTV5g==;+OrrLeaUJP+f+QszPS/CNA=="
 ---

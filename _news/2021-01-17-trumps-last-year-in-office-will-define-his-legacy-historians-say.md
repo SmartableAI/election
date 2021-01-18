@@ -399,6 +399,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Pelosi demands acting Pentagon chief halt his order to NSA to install Trump loyalist as general counsel"
+    excerpt: "House Speaker Nancy Pelosi is demanding acting Defense Secretary Christopher Miller \"immediately cease\" his plans to install a Trump loyalist as the National Security Agency's general counsel, calling the move \"highly suspect\" and arguing it represents a \"disturbing disregard\" for the country's national"
+    publishedDateTime: 2021-01-18T19:27:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J_mOMCQlWXU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/pelosi-trump-nsa-michael-ellis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/pelosi-trump-nsa-michael-ellis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118014238-nancy-pelosi-0115-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Live Updates: Mike Pence Calls Kamala Harris to Offer Aid and Congratulations"
     excerpt: "It was the first time the current and future vice president spoke since they debated each other in the fall. Speaker Nancy Pelosi said the impeachment managers were preparing for a Senate trial but declined to elaborate on timing."
     publishedDateTime: 2021-01-15T13:50:00Z

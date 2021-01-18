@@ -60,6 +60,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump supporters in National Guard might 'do something' to Biden, Dem congressman says"
+    excerpt: "Rep. Steve Cohen, D-Tenn., ominously suggested Monday that Donald Trump supporters within the National Guard charged with helping protect Joe Biden \"might want to do something\" to the president-elect."
+    publishedDateTime: 2021-01-18T19:09:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3vLmWV0TP4c/dem-congressman-trump-supporters-national-guard-something-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-congressman-trump-supporters-national-guard-something-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-congressman-trump-supporters-national-guard-something-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ee79d8e-e6c4-4b30-b275-871e83536544/e0aef09b-5e94-476b-a135-55baa49822c9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "yy0RGJjTVlitDUOqjV9AxBPd39ziiuyQKXxop/3zTJO3067SUFWxAKM72xYQw5vJURX0/A4ZLjtuCPq6g9CR0n9VW3t5xOTPgDU2uk0Z68esQ7XiYmZJ1sHzBitorpP2qKqFVl8MIVS15McT82/ktSIjZFUS1yw+Dj3m357d7BY5KcMOKtjkCf1MVPrvgMtQHL3DubQLUlTtQmXYgCVRuAwEZ4lwGqtV47PZSwqJJsLFEcRr5IDQjPiHDlpIiHPit9NAG+9uPRYEu/2OgAEEi4Fx9My/+UEt+9gldzVL+PPGVgBzR8aSmm3JZzHd5kRqIQzoZ8UXzumjN24660YIvQe/iCjzATHUjJzaaRAr0jY=;/IBBW7Xe7jrWQOmdaqjm5g=="
 ---
