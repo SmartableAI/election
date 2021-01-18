@@ -871,6 +871,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "South Korea's Moon Urges Biden Admin to Follow up on Kim, Trump Summit"
+    excerpt: "SEOUL (Reuters) - South Korean President Moon Jae-in said on Monday that U.S. President-elect Joe Biden should hold talks with North Korea to build on progress that President Donald Trump had made with leader Kim Jong Un."
+    publishedDateTime: 2021-01-18T04:48:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-01-17/south-koreas-moon-urges-biden-admin-to-follow-up-on-kim-trump-summit"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-17/south-koreas-moon-urges-biden-admin-to-follow-up-on-kim-trump-summit?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-17/south-koreas-moon-urges-biden-admin-to-follow-up-on-kim-trump-summit?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Trump Returns Cuba to U.S. List of State Sponsors of Terrorism"
     excerpt: "The Trump administration plans to return Cuba to the U.S. list of state sponsors of terrorism, a person familiar with the matter said on Monday, a move that could complicate any efforts by the incoming Biden administration to revive Obama-era detente with Havana."
     publishedDateTime: 2021-01-12T04:26:00Z

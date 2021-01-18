@@ -858,6 +858,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "South Korea's Moon Urges Biden Admin to Follow up on Kim, Trump Summit"
+    excerpt: "SEOUL (Reuters) - South Korean President Moon Jae-in said on Monday that U.S. President-elect Joe Biden should hold talks with North Korea to build on progress that President Donald Trump had made with leader Kim Jong Un."
+    publishedDateTime: 2021-01-18T04:48:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-01-17/south-koreas-moon-urges-biden-admin-to-follow-up-on-kim-trump-summit"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-17/south-koreas-moon-urges-biden-admin-to-follow-up-on-kim-trump-summit?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-17/south-koreas-moon-urges-biden-admin-to-follow-up-on-kim-trump-summit?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "New study examines how Donald Trump used Twitter to craft an alternate reality for his followers"
     excerpt: "The study analyzed thousands of Trump's tweets to show how Trump used Twitter to craft a world where what he said was dogma."
     publishedDateTime: 2021-01-17T08:30:00Z

@@ -586,15 +586,15 @@ related:
         isCached: true
   - title: "Justice Sotomayor to swear in Kamala Harris"
     excerpt: "Watch \"Justice Sonia Sotomayor to swear in Vice President-elect Kamala Harris on inauguration \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-01-18T02:20:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210118004623-justice-sonia-sotomayor-to-swear-in-vice-president-elect-kamala-harris-on-inauguration/"
+    publishedDateTime: 2021-01-18T02:59:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210118024623-justice-sonia-sotomayor-to-swear-in-vice-president-elect-kamala-harris-on-inauguration/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/18/story_08588757_1610931004.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/18/story_08589033_1610938204.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -652,16 +652,16 @@ related:
         height: 501
         isCached: true
   - title: "Pence vows to honor U.S. history, ensure safe inauguration of new president"
-    excerpt: "U.S. Vice President Mike Pence on Thursday vowed to uphold American history and ensure a safe transition of power to President-elect Joe Biden, eight days after supporters of U.S. President Donald Trump laid siege to the U."
+    excerpt: "WASHINGTON (Reuters) - U.S. Vice President Mike Pence on Thursday vowed to uphold American history and ensure a safe transition of power to President-elect Joe Biden, eight days after supporters of U.S. President Donald Trump laid siege to the U.S. Capitol."
     publishedDateTime: 2021-01-15T06:46:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-biden-inauguration-pence-idUKKBN29K04Q"
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-pence/pence-vows-to-honor-u-s-history-ensure-safe-inauguration-of-new-president-idUSKBN29K05A"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 103
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547859288&r=LYNXMPEH0E025&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547860873&r=LYNXMPEH0E02C&w=800"
         width: 800
         height: 533
         isCached: true
@@ -772,6 +772,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/c/74/c7455c4b-4601-57a6-91b1-2d62525d62c1/6001e6ff4922f.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "New Mexico official who vowed to protest Biden inauguration arrested in Washington"
+    excerpt: "The U.S. Justice Department said on Sunday that it had arrested an elected official from New Mexico who had vowed to travel to Washington with firearms to protest the inauguration of President-elect Joe Biden."
+    publishedDateTime: 2021-01-18T04:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests-arrests/new-mexico-official-who-vowed-to-protest-biden-inauguration-arrested-in-washington-idUSKBN29M0RV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548144786&r=LYNXMPEH0H01Y&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "Thousands of National Guard members deployed in Washington ahead of Biden inauguration"
     excerpt: "Thousands of National Guard's were deployed to Washington on January 12, ahead of the inauguration of Joe Biden in the wake of the Capitol riots."

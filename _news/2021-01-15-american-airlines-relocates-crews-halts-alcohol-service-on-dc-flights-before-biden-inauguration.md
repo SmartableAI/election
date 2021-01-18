@@ -126,6 +126,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Insider attack feared days before Biden’s inauguration, service members in DC vetted by FBI"
+    excerpt: "Defense officials in Washington, D.C., are concerned about an insider attack from service members deployed to Washington, D.C., for President-elect Joe Biden’s inauguration, prompting the FBI to vet all 25,000 National Guard troops in the city, Fox News has learned."
+    publishedDateTime: 2021-01-18T03:48:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pXng9ZrfOAE/insider-attack-feared-days-before-bidens-inauguration-service-members-in-dc-vetted-by-fbi"
+    ampWebUrl: "https://www.foxnews.com/politics/insider-attack-feared-days-before-bidens-inauguration-service-members-in-dc-vetted-by-fbi.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/insider-attack-feared-days-before-bidens-inauguration-service-members-in-dc-vetted-by-fbi.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "GOP senators to attend Biden inauguration Wednesday after objecting to his Electoral College win"
     excerpt: "At least half of the eight GOP senators who voted against President-elect Joe Biden's Electoral College victory will be attending the inauguration Wednesday in Washington to support the peaceful transfer of power, Fox News has learned. "
     publishedDateTime: 2021-01-17T01:08:07Z

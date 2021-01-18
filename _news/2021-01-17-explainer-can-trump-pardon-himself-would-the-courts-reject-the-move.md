@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Running on empty: Senate Republicans ponder barring Donald Trump from seeking office again"
+    excerpt: "The impeachment trial of Donald Trump isn't about removing him from the presidency – it's about preventing him from running for president again."
+    publishedDateTime: 2021-01-18T04:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/16/senate-republicans-ponder-barring-donald-trump-running-again/6655801002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6655801002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6655801002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d3efd88f-b105-44cb-9bb7-4d0adc222067-AP_Trump_4.jpg?auto=webp&crop=4129,2323,x0,y412&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "EXPLAINER: Can social media companies boot Trump? Yes"
     excerpt: "Social media companies decided this past week they had finally seen enough from President Donald Trump."
     publishedDateTime: 2021-01-11T08:26:00Z

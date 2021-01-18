@@ -756,6 +756,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Adam Schiff: Donald Trump Should Never Get Another Intelligence Briefing After He Leaves Office"
+    excerpt: "Rep. Adam Schiff, the chairman of the House Intelligence Committee, said Sunday he doesn't believe President Trump should continue to receive intelligence briefings after he leaves office because he \"can't be trusted\" with secrets."
+    publishedDateTime: 2021-01-18T04:05:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/17/adam_schiff_donald_trump_should_never_get_another_intelligence_briefing_after_he_leaves_office.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 53
+    images:
+      - url: "https://assets.realclear.com/images/51/510971.jpg"
+        width: 500
+        height: 375
+        isCached: true
   - title: "Trump Is Over? Not So Fast"
     excerpt: "During the Trump administration we saw nonstop attacks against Trump and his supporters. Democrats refused to cooperate in the transition of power, they forced a two year investigation that paralyzed the administration based on what they knew was fabricated information,"
     publishedDateTime: 2021-01-10T20:45:00Z

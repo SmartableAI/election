@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Biden intends quick executive actions to propel his agenda"
-excerpt: "On the first day of his presidency, Joe Biden plans to roll back some of President Donald Trump’s most controversial policies and take steps to address the coronavirus pandemic"
-publishedDateTime: 2021-01-17T19:00:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-intends-quick-executive-actions-to-propel-his-agenda/2021/01/17/5965ef08-58cc-11eb-a849-6f9423a75ffd_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-intends-quick-executive-actions-to-propel-his-agenda/2021/01/17/5965ef08-58cc-11eb-a849-6f9423a75ffd_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-intends-quick-executive-actions-to-propel-his-agenda/2021/01/17/5965ef08-58cc-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-intends-quick-executive-actions-to-propel-his-agenda/2021/01/17/5965ef08-58cc-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+excerpt: "On the first day of his presidency, Joe Biden plans to roll back some of President Donald Trump's most controversial policies and take steps to address the coronavirus pandemic, his incoming chief of staff says."
+publishedDateTime: 2021-01-18T04:37:00Z
+originalUrl: "https://www.businessinsider.com/biden-intends-quick-executive-actions-to-propel-his-agenda-2021-1"
+webUrl: "https://www.businessinsider.com/biden-intends-quick-executive-actions-to-propel-his-agenda-2021-1"
+ampWebUrl: "https://www.businessinsider.com/biden-intends-quick-executive-actions-to-propel-his-agenda-2021-1?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-intends-quick-executive-actions-to-propel-his-agenda-2021-1?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Biden chooses veteran diplomat William Burns as his CIA director"
@@ -233,6 +227,6 @@ related:
         height: 675
         isCached: true
 
-secured: "m7o9VpojJPtfla6LAXNFpBcuWdqBt4Z+NoBJVCVfbwyG1Jicqf96yyDD92hm/0V8sCXkRQh1nELxyMrbEBsuSbFHBlzGGEs0WV4fjnVnymH9RHoYdNMmUe8dREuScEwVKZ1iF0b91GSYjZ0QNgIF2//oYjpMNhIXMqVUuCm4lZ8VrCG5saOZioSIdC54b7BVoiR+Bj0Axu547KsKhpsFXWUW80+pLLdX6RqxHSCN+LRpVbUw1gxcny97zNaJY//jLDKB0d8GKkOBX0L9cv2n+YNwl5SlYa4JsVoH02HN/RhlaeIJAAxEZhFwYcVmarlVcHL7hOLI9JoNf55YIDkfX1Ef4Cazv+LLeotQ0UzE3bo=;NTqEx4Sxs/nvJJR6n/HReg=="
+secured: "Wv1Pw5obgZPWZwLKjQUhVTs2778X6qT1GaS8c+iZGUcr9hS+y9Af+M4RRyGEFDfunmSCV345o6YS7GhcXJi9F6szOCL0wVVboFDjWFN/RcxUjH5sjXmxcaun7RdAQ7FqAiYuyU0OQQJJRAH00XXE9uvtUId7dFO6yhhdswgRu151nzjO2BVCBTT6wpGcYyOsPrplt6WhhzmcOgUOv4wiOrjJReoIVw3LJ96U6sQ8PyuIxFUIuO45v4ct6qrYGzC3rTyxwhQAoqCmDcxSPEh6lgF+NpXJYiJuOKwnScLnInK1QthXjC+VSuzaOLlbcjHNOOkTQfVxEZByxMir+zDYzD6JMXvcP60DvyRY/JhjMyw=;B2XMorFEdWJLzGPjaYcZGQ=="
 ---
 

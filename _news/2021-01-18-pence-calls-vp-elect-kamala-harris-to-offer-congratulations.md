@@ -583,15 +583,15 @@ related:
         isCached: true
   - title: "Justice Sotomayor to swear in Kamala Harris"
     excerpt: "Watch \"Justice Sonia Sotomayor to swear in Vice President-elect Kamala Harris on inauguration \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-01-18T02:20:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210118004623-justice-sonia-sotomayor-to-swear-in-vice-president-elect-kamala-harris-on-inauguration/"
+    publishedDateTime: 2021-01-18T02:59:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210118024623-justice-sonia-sotomayor-to-swear-in-vice-president-elect-kamala-harris-on-inauguration/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/18/story_08588757_1610931004.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/18/story_08589033_1610938204.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -649,16 +649,16 @@ related:
         height: 501
         isCached: true
   - title: "Pence vows to honor U.S. history, ensure safe inauguration of new president"
-    excerpt: "U.S. Vice President Mike Pence on Thursday vowed to uphold American history and ensure a safe transition of power to President-elect Joe Biden, eight days after supporters of U.S. President Donald Trump laid siege to the U."
+    excerpt: "WASHINGTON (Reuters) - U.S. Vice President Mike Pence on Thursday vowed to uphold American history and ensure a safe transition of power to President-elect Joe Biden, eight days after supporters of U.S. President Donald Trump laid siege to the U.S. Capitol."
     publishedDateTime: 2021-01-15T06:46:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-biden-inauguration-pence-idUKKBN29K04Q"
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-pence/pence-vows-to-honor-u-s-history-ensure-safe-inauguration-of-new-president-idUSKBN29K05A"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 103
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547859288&r=LYNXMPEH0E025&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547860873&r=LYNXMPEH0E02C&w=800"
         width: 800
         height: 533
         isCached: true
@@ -753,6 +753,20 @@ related:
       - url: "https://media.nbcnewyork.com/2021/01/split-jan15.jpg?fit=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "New Mexico official who vowed to protest Biden inauguration arrested in Washington"
+    excerpt: "The U.S. Justice Department said on Sunday that it had arrested an elected official from New Mexico who had vowed to travel to Washington with firearms to protest the inauguration of President-elect Joe Biden."
+    publishedDateTime: 2021-01-18T04:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests-arrests/new-mexico-official-who-vowed-to-protest-biden-inauguration-arrested-in-washington-idUSKBN29M0RV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548144786&r=LYNXMPEH0H01Y&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "Thousands of National Guard members deployed in Washington ahead of Biden inauguration"
     excerpt: "Thousands of National Guard's were deployed to Washington on January 12, ahead of the inauguration of Joe Biden in the wake of the Capitol riots."
@@ -1276,6 +1290,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "VZCyinJQ/2nwk/ZkgqW+4NIvLire8hRgXb/lknp+5F/4gDH3MGxYluPt3tKCK9q6hU0eiEeY25j3zfq7j6EubFCOD+9BjiUcml7CrkL5nYWl0aPPjuRxsQrwirJgVcxUNVUj9W5Zlxb2grn8Hsu1t0SWcZc4n82zcJy/UlMXsYCo1SyznMUfibEubrKKVJ9U53F1frJXFx54XUfhjrdcowzsakdYTXw/P8+8q/WVRszv3cWLzHmXKES7rHfJNx+eT1ywLv0CiHksO4XAAUIbrTOXCLFGXG7Tx+V/VOcIO0KthI6ZCZ2W7nRht4lsaTHlx4KBb+HLtzXCwYbBIpxd8r0XRRgAXrV0E1ff4RyxFA4=;s1KXVY5S+5RKCYFD3AX1Dg=="
+secured: "u7w9IU/lTqDb43toiq6xoc25DjDqGcL+7RK5a/uQtprStQQyD7LrTlulbDYFZ2kHaT7Xwquy0CzXvADouCkuuCLoelqO5MSai1mJs7Tv6yi93B2H6bnpvVO8EJkzf43utqwCb8zOvPxB9ElIrDXCaHHesb5sYr2YXBKv7sxlrz1K1FRsVqZH0VvVqJJ3BfF3yMq4f3kZn07oPl/oZMvscLmFzc4r2oQV+6SUEVXJWLXdOfjJM9E3pFndfoT9XDZROENV0nvPBLqexE0vBP+nj09QE6QzIoYPxa6xeE5wWWOIAPRA1LYZPBucRrg7R9R8rLRbFt6gy8AELHIVLuHtVSDQZXfNBnFJFg4ZEMusCCdUI29/yxO1LmngdKTgEmPG3jhYQi2Ahh4LbtpSmIeNo74exM8OFUxgicc54VDVpnD1iMpu3Bvllylhud656DA393pyKnmhYOPWJaWf/0oEw3EfRIUTCpxQOqViOxJCB5u1ZQnPjJR6fE+T2KRbDNtvv1VqLoBprghRApn2rT0lEA==;yMvp04LzU+2ycvOsA5yQVw=="
 ---
 
