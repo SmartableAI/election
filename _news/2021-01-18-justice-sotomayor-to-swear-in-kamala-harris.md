@@ -46,20 +46,20 @@ related:
         height: 558
         isCached: true
   - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-    excerpt: "WASHINGTON -- Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
-    publishedDateTime: 2021-01-16T00:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+    excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-16T06:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 150
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "House passes measure calling on Pence to remove Trump"
     excerpt: "The House on Tuesday passed legislation calling on Vice President Pence to tap his Constitutional authority to remove President Trump from office in response to the president’s role in the deadly mob attack on the Capitol last week."
@@ -111,19 +111,19 @@ related:
         isCached: true
   - title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
-    publishedDateTime: 2021-01-15T23:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    publishedDateTime: 2021-01-15T19:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 127
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Pro-Trump supporters to rally again in Washington"
     excerpt: "Supporters of President Donald Trump are returning to Washington for a pair of rallies to back his desperate efforts to subvert the election that he lost"
@@ -979,6 +979,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Vice President-elect Kamala Harris to resign her Senate seat Monday"
+    excerpt: "Vice President-elect Kamala Harris will resign her Senate seat on Monday, two days before she and President-elect Joe Biden are inaugurated."
+    publishedDateTime: 2021-01-17T22:45:00Z
+    webUrl: "https://www.denverpost.com/2021/01/17/kamala-harris-resign-senate-seat/"
+    ampWebUrl: "https://www.denverpost.com/2021/01/17/kamala-harris-resign-senate-seat/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/01/17/kamala-harris-resign-senate-seat/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/Harris-Inauguration_03212.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Vice President-elect Kamala Harris will resign her Senate seat Monday"
     excerpt: "Gov. Gavin Newsom is expected to appoint Democrat Alex Padilla, now California’s secretary of state, to serve the final two years of Harris’ term. Vice President-elect Kamala Harris will be ..."
     publishedDateTime: 2021-01-17T18:05:00Z
@@ -1215,6 +1231,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "GEgYS9iFnZUps0gjz8mOUoQGa93u+ymny6iwX3g0XEfZZ7xbzUp7ZCfBmd/LWkxWidhAXgQIOIGylXcNB958Gze5zRBWEGuWz9zTMKsS3GuYE3qk9uRuxaZR/sE5LVJ8sF7+6/PEWq3XSyptV1exRR5NMT+NdDBYKmf2pN4Uf/B1safbQuoKLTz5/ZvlIJfaAHsSDmSgXSYt9VvvtIeo+y2lbXlsdbvLY/LTx8Rc0i3jQkyXoIv/B6sHX8z/GQBKgWgl03xiWV6A3yAnguMGBAfuh6l9cHbKbizDFXjBhgxgJltpXEN/k0IYWRPappFKy2VGqVD3cEI2eduokmakwV0Iy0x+/nd1uVQ/UNcERnw=;s+s3BQ/nUqokZAjKD/Q2BQ=="
+secured: "BVm0OnTJO5BCZiNNB22CIZTMSAaS7nmsYfvM6391tYEaGLuWSc1G1fV5PE10xHpNgZKQkwzC5EZy0E7SvJaDB2MBwL8iR53wxs6v0UaR5Qy/JiB6FZAKFYG+r7fwZ7dr4JiLPEaAxNtuXZK4Sh3fyUXAenh0N5bpdvBe+SpEfSYZV+SURaiKceFTMsDdLN9f+TCGSBGcAiKTe8DJoEmE7rOlqW7z+NTN7lw/aUfCAho3gBMQ0GnwMxRzZ4N4PQ41pkgCQx4RlfujaLKwTPp6wTR3iKYffjY6vvc6S5YgIm9ni2NtDEhDsQvzhYzeUa/jhU6IPovqEK2JUsTyMIv5LBCkecVZWEUWgRqfgFDtMSFrjDkiUIoneQguD93tW7hLoQKeafkQI0UgFQdcTYqvSTopcJKEEqAVnDbIK9/x6ggkM6l1+Gb6KEPl16dU7m7wDEE483DRXBeAGfFS1Op7X4xFczFwim8SifRRTdculx2MMVIjUGogpYgdkw0VvGjRF7mlFtzeBg96r0aoR+iFMw==;Jie4mgk1bDzqzDeB37XKAg=="
 ---
 

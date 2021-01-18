@@ -144,6 +144,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "LIVE UPDATES: Biden inauguration plans prompt closing of National Mall"
+    excerpt: "The National Park Service has closed Washington’s National Mall to the general public as part of greatly intensified security ahead of inauguration of President-elect Joe Biden. The National Mall is closing to the general public as part of greatly ..."
+    publishedDateTime: 2021-01-18T00:24:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-16-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-16-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inauguration-1-16-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d30a00f7-29be-46f5-a285-0cb62decae44/5efe6061-f58a-47ab-9806-a8dd67a06224/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "RJq+VqYQ5/VPj+VCKLAVeGywZ5Pbm/bP4BWv6Yvfrc6qTftLpSPrwbOipdJgN8Lc50RorAnPUALzWtxW22jjYH/+tQ6hhvBnweMWIiRBYHCVs9XeF5lMMBb4Ufx0FiTM93Fwr3bC67PqToZhnz72hgEbXAO9Ul9OdXmuC5MQptfc/SL8sAZ/X9gAa8qefdQ0LBJs/tjY1cEnuzEACEwoWUex3mIs9+4fsfJPF0TPvKOkNG1Ayb6zo/iy7UCGBAmh7DS/40YTW5bldq68479Kess0e2z9Gc7xC4oE8aiaUsr+Gs9nKSeQnpjECmmqAk4xJRg0+5CIhxDavw/rBnlGWB4t3uSYwib0jJGiLI/4JghOzSAGvqVP22pE0jZTPEK3YhZ69XNEJ/zMnnzFsCldPRe+JbxRH8jIv+vdhBVJYmOQqazpq9K/9wsT7fn4ABcgjYc1xvNv1wC+XMDlAHXphZksRRh6byf0j2ljBnznRCieRS17Yryf4mRg+m3AshGoonZZDSkH5VijvZCskUxhHw==;xVbC9dPUO0mfmKu89ZsYMA=="
 ---

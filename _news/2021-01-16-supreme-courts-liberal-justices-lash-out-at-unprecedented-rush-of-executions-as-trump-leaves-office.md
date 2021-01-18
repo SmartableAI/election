@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Full Mace Interview: Trump 'put all of our lives at risk'"
+    excerpt: "Rep. Nancy Mace (R-S.C.) tells Chuck Todd that she opposed impeachment because Democrats skipped the usual investigative process, during an exclusive interview with Meet the Press.Jan. 17, 2021 © 2021 NBC UNIVERSAL"
+    publishedDateTime: 2021-01-18T00:02:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-mace-interview-trump-put-all-of-our-lives-at-risk-99597381587"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99597381587"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99597381587"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/1610893371259_mtp_full_mace_210117_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Top FEMA official attended Trump's 'Stop the Steal' rally"
     excerpt: "A top official at the Federal Emergency Management Agency, which has been assisting in preparations for the Inauguration next week, attended President Donald Trump’s “Stop the Steal” rally on Jan. 6. At that rally, Trump urged his followers to ..."
     publishedDateTime: 2021-01-17T18:18:00Z

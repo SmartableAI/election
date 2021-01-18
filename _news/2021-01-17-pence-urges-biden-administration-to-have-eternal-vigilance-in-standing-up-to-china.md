@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-biden-administration-eternal-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-administration-eternal-vigilance-in-standing-up-to-china.amp"
 type: article
 quality: 193
-heat: 333
+heat: 353
 published: true
 
 provider:
@@ -127,6 +127,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-9.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "LIVE UPDATES: Biden inauguration plans prompt closing of National Mall"
+    excerpt: "The National Park Service has closed Washington’s National Mall to the general public as part of greatly intensified security ahead of inauguration of President-elect Joe Biden. The National Mall is closing to the general public as part of greatly ..."
+    publishedDateTime: 2021-01-18T00:24:00Z
+    webUrl: "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-16-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-16-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inauguration-1-16-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d30a00f7-29be-46f5-a285-0cb62decae44/5efe6061-f58a-47ab-9806-a8dd67a06224/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "25,000 National Guard troops deployed to Capitol as Biden inauguration looms"
     excerpt: "Officials have boosted the number of National Guard members deployed in Washington, D.C., in the run-up to President-elect Joe Biden's inauguration next week to 25,000, an increase of 25 percent."

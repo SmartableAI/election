@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/trump-approval-analysis/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/trump-approval-analysis/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Trump approval remains stable in new NBC poll, with Republicans unmoved after Capitol violence"
+    excerpt: "Eighty-seven percent of Republicans approve of how Trump is doing his job in a new NBC News poll, but half of all voters say Trump is \"definitely worse than most\" presidents."
+    publishedDateTime: 2021-01-18T00:11:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/poll-trump-approval-remains-stable-republicans-unmoved-after-capitol-violence-n1254457"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254457"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254457"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 123
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3442712/210117-donald-trump-jm-0942_e8286158fcd963929b360a5a731b99aa.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "6cDOECH2KZ3s/k4MVfelbROBx5PaTVx3xGuziTpENn+y0kUpEFpYMqC1V/xZYXOtVlL+JMpx1+QgAv0cMfedYs4jaH2N9lIZFQTuI+fJ9SjjXiZDB1KFlK6BQE1KF9G6ktRlFGSkQBU9pGXik/qXOWRZTebv1H79UlZCmTIFkasN1Nnsz52hEYWhEnoSNlpTKD8XkmyzM02Z3HKp8ww2Q8aueP8zFc2vsVOKo8Re35qsBh4BXrIco+zQosE042JjS0bRoHZH0vWrNtUCbAqp8YjMGkAcfp0xqb45CFS5fm5iaUcVIgle/WADBtE6OC5NONDYexUGS12bOFys9RteYOhr/DPdLt16zD3usY/R67Y=;qkfd2BT8pD6JhW1dv7nq4w=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Records: Trump allies behind rally that ignited Capitol riot"
+    excerpt: "An Associated Press review of records finds that veterans of President Donald Trump’s failed campaign were key players in the Washington rally that spawned a deadly assault on the U.S. Capitol"
+    publishedDateTime: 2021-01-18T00:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/f7f21c3a-58f6-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/f7f21c3a-58f6-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/f7f21c3a-58f6-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "The symbols of hate and far-right extremism on display in pro-Trump Capitol siege"
     excerpt: "Trump mob stormed the U.S. Capitol, symbols of white supremacy and extremist right wing militias were displayed by some rioters on flags, banners and clothing."
     publishedDateTime: 2021-01-14T15:01:00Z
@@ -115,17 +131,6 @@ related:
         width: 1600
         height: 800
         isCached: true
-  - title: "Records: Trump Allies Behind Rally That Ignited Capitol Riot"
-    excerpt: "An Associated Press review of records finds that veterans of President Donald Trump’s failed campaign were key players in the Washington rally that spawned a deadly assault on the U.S. Capitol."
-    publishedDateTime: 2021-01-17T19:08:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-17/records-trump-allies-behind-rally-that-ignited-capitol-riot"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-17/records-trump-allies-behind-rally-that-ignited-capitol-riot?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-17/records-trump-allies-behind-rally-that-ignited-capitol-riot?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "5g8xY9j8SfZCTCKVolCTpvxJiMVU/+XllFeB3IGEW/G0MbM7E8QNXQuAN9Ezhpw6u8rGr1LcmG2YsKSJX4mpMpQuPSY/dvkWq3FSaY0fTMa4u1Vn9/ty/xxZeIrMgNiiSDZX+6BzRIQviRqBW6TGp+2pUuPzoiBbizTR8eHjoV9HHM4ZImngLShOBNoHtDgNU/8i66CaH0kxWexwCMamBQEDJPIfEnM2fpSZaZtzO9udj7DXTvvVD5FPBzhDNDbYs3cveC8X5EleKQiv9G05PLuPa7d4VdhnJivR9gquMsMbweuPbGddTkAg744TkYAjy486j+0BBeQ4ZWxUECPlgqm8v/ywde0SBo2WdNtpm7w=;PuE4rSif5LPpMc0o02KiaA=="
 ---

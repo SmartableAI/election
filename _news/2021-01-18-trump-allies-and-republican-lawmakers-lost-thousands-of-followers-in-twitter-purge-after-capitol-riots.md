@@ -45,6 +45,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Records: Trump allies behind rally that ignited Capitol riot"
+    excerpt: "An Associated Press review of records finds that veterans of President Donald Trump’s failed campaign were key players in the Washington rally that spawned a deadly assault on the U.S. Capitol"
+    publishedDateTime: 2021-01-18T00:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/f7f21c3a-58f6-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/f7f21c3a-58f6-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/f7f21c3a-58f6-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "The symbols of hate and far-right extremism on display in pro-Trump Capitol siege"
     excerpt: "Trump mob stormed the U.S. Capitol, symbols of white supremacy and extremist right wing militias were displayed by some rioters on flags, banners and clothing."
     publishedDateTime: 2021-01-14T15:01:00Z
@@ -105,17 +121,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Records: Trump Allies Behind Rally That Ignited Capitol Riot"
-    excerpt: "An Associated Press review of records finds that veterans of President Donald Trump’s failed campaign were key players in the Washington rally that spawned a deadly assault on the U.S. Capitol."
-    publishedDateTime: 2021-01-17T19:08:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-17/records-trump-allies-behind-rally-that-ignited-capitol-riot"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-17/records-trump-allies-behind-rally-that-ignited-capitol-riot?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-17/records-trump-allies-behind-rally-that-ignited-capitol-riot?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "The House impeached Donald Trump over his speech before the Capitol attack. Here’s what happens next"
     excerpt: "With the House voting to impeach President Donald Trump, the action moves to the Senate. It is not immediately clear when the Senate will begin a trial. • Most experts say that a trial can proceed after Trump is out of office if needed."
     publishedDateTime: 2021-01-13T22:31:00Z
@@ -131,6 +136,6 @@ related:
         height: 392
         isCached: true
 
-secured: "ANiAt16Ifta6uRx2MElu1/nxE6OSKle2O1+73JLg+CSuhFMDGo+mW6/MrdKBTSDKto8XQe2a9LwN+sWxxo1Bdc6YWcNAmqMkJu+SUSYZRvJD1Shn0Gc3gyDxnUmH9FqNLsrrm2wybrEhv8a/WFFHFRw2mQ4DiDi2cM5DQesqUbYqxyzHn71LTu/4TFsthY4gyJsgCQN7H6T8Lii/j1TefVR2jgyVMRVQ7MJ2a3NugI9ODGBWMNWzY/ea6WsnHQswzAEjVkgP/CH68Dn+zbUHIH+xKQ4k5znmcR0y0CLt2ZXBDgwV5hYa4oa/5DSN/mdbuP+34M2FxUF9U0XtvnhYW7TcMAxWgWeXxp4N875DrfE=;FwCymxVmn0iEvJOn4gl1Vg=="
+secured: "U9vqSd9Ry2xcs7jdmWbxntqeMiXqc4O+7g5oNUpV5YRwewI+1z3ikGXieYEKWQWCM4yYJI3xfgcfsmlH6c+Js5OITGzsg24XR3dDN7QpNZ6oDCO7H2AEOtb7BLJh5qEsGhTkqIGP+zewD/7jQ0t3pMAnJAt058AIhBtwKpkuVp7xPleZDmv7veu2oe1Rl15AOFFvA/drEhHG5N2p/LtJIZbXTYbr0LLWwQfJ73CMA2LdlaL81SfeN/HDMURRktjZbT4RjA/AnNxgrLY7m6Eaqd1lURg4pHO86ntMWxH8zKwO37Hd2O+Y5pTjcj2rd6gJI3rNMeBzalUQ5ULWkqTIwek9tbIHk8f7/dJiqELDOnu0hiivOm9Yrw9YZ4z9nUaZoaOjCMHGeEIirGO4c0DLm8uhWBdgCzj3+melgmLylfU1T3RyQYIzJ6LHLK5Tx0DppqLqizJ55p0DOQr9MWwgyL0jYCsxy9FYbseKDI2eqGTBWKyu+b4bJw5ZwLdIVDRrI2jQ90GS2t4jhmK6X6cDLA==;vXLJ6IurJpz/u8U1o5kUtQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/impeachment-needed-bar-trump-run
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965"
 type: article
 quality: 118
-heat: 118
+heat: 138
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 992
     height: 558
     isCached: true
+
+related:
+  - title: "Law enforcement officials brace for pro-Trump protests at state capitals"
+    excerpt: "Members of the State police arrive at the Michigan state Capitol in Lansing, Michigan. REUTERS/Rebecca Cook"
+    publishedDateTime: 2021-01-18T00:00:00Z
+    webUrl: "https://www.reuters.com/news/picture/law-enforcement-officials-brace-for-pro-idUSRTX8N0Y3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210117&t=2&i=1548135793&w=&fh=545&fw=810&ll=&pl=&sq=&r=2021-01-17T234213Z_38118_MRPRC2W9L9NEB41_RTRMADP_0_USA-TRUMP-PROTESTS"
+        width: 810
+        height: 540
+        isCached: true
 
 secured: "QyyUaibdfundupBJf9PrBVl+DtYR7A1qeve7jzZMz+b0NarOgoVuZ2btWfa/HphugEIIQ5yc1q4nh3A2DxF8fZ0PEONIy+SBbqmv8GitCDbk2yrqaEORJ3h9v17TjfAhMjs9LhtSGrqKBixg0Kmn2Q0A7Bgo6BDgqXXMMeb6rBsiyhOihkFUlfo3KTLhiUPcxBJZ/Uwmuk3fszUx0Jr40ZQzMn5TadN5d8/1uAm58vTXqAG36my7pHMXI0l0Hch+vrwQ4+x5CmvWB/6gUbzTNzVoCSoKsAR5qCSw4jMU5j5KmTLDu1CI69dzQj3GKTwWyfm+51h93ZI71LWcbA5ki1kOqGqX07x9GeKnoj9ZuT1/Tm+O2k3qD0ymJQ58+9tSMXCTjlFtThfqAOJ/okiLIbuowV8HhNPXFVt4bx3CU/2jIa6FlXN1PLTPvl4ovdwpA3V4PlD9HsGLAL2poTpAo3G3e44DEDH3SAyB4yliyPbIcju4ps1XKC1YiDtShMr6ScWZ+5IkEP3yq6S7kI3Vbg==;ohWpitrz5oTUfQ86WbYMsw=="
 ---

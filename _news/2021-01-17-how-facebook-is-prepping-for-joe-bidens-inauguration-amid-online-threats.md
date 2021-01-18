@@ -171,8 +171,8 @@ related:
         isCached: true
   - title: "Guatemalan forces clash with migrant caravan, Biden team seeks to halt exodus"
     excerpt: "Guatemalan security forces on Sunday used sticks and tear gas to beat back a large migrant caravan bound for the United States, just days before the advent of a new U.S. administration, which urged travelers to abandon the journey."
-    publishedDateTime: 2021-01-17T22:58:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-immigration-caravan/guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSKBN29M0FN?edition-redirect=ca"
+    publishedDateTime: 2021-01-17T23:31:00Z
+    webUrl: "https://www.reuters.com/article/usa-immigration-caravan/update-2-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7"
     type: article
     provider:
       name: Reuters
@@ -214,6 +214,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/14/NPOH/3d5d11e8-205d-43d8-977d-5136a60d670e-Biden.jpg?auto=webp&crop=5947,3346,x0,y302&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Joe Biden’s long political evolution leads to his biggest test"
+    excerpt: "Joseph Robinette Biden Jr. has navigated a half-century in American politics by relentlessly positioning himself at the core of the Democratic Party."
+    publishedDateTime: 2021-01-17T22:46:00Z
+    webUrl: "https://www.denverpost.com/2021/01/17/joe-biden-political-evolution/"
+    ampWebUrl: "https://www.denverpost.com/2021/01/17/joe-biden-political-evolution/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/01/17/joe-biden-political-evolution/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/Biden_Evolution__83052.jpg?w=1024&h=692"
+        width: 1024
+        height: 692
         isCached: true
   - title: "How to watch Joe Biden's Inauguration Day 2021, from the swearing-in to Tom Hanks' special"
     excerpt: "Joe Biden and Kamala Harris' 2021 inauguration will feature Lady Gaga, Tom Hanks and COVID-19 safety precautions. Here's how to watch and what time."

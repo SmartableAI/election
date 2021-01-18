@@ -1,0 +1,83 @@
+---
+category: news
+title: "A quiet Sunday: Pro-Trump protests largely unrealized at Colorado Capitol, in other states"
+excerpt: "As President-elect Joe Biden's Wednesday inauguration approaches, federal, state and local law enforcement agencies have braced for possible violence."
+publishedDateTime: 2021-01-17T23:26:00Z
+originalUrl: "https://www.usatoday.com/story/news/2021/01/17/live-updates-monitoring-colorado-capitol-protests-jan-17/4196764001/"
+webUrl: "https://www.usatoday.com/story/news/2021/01/17/live-updates-monitoring-colorado-capitol-protests-jan-17/4196764001/"
+ampWebUrl: "https://amp.usatoday.com/amp/4196764001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4196764001"
+type: article
+quality: 115
+heat: -1
+published: false
+
+provider:
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2021/01/17/PFTC/c501bffb-1284-4718-9be1-98477efcc50d-290169B6-DF62-4134-B61F-ACE89E9F9C56.jpeg?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "Small group of Pro-Trump protesters, some armed, quietly gather in Carson City near capitol"
+    excerpt: "A small group of protesters have gathered in Carson City near the Nevada state Capitol. Check back here for live updates throughout the day."
+    publishedDateTime: 2021-01-16T22:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/01/16/carson-city-protest-live-coverage-nevada-capitol/4184756001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4184756001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4184756001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/16/PREN/52f86d3b-ff52-4b49-8f0e-92801026d8d7-REN_CARSON_PROTEST_011621_05.jpg?auto=webp&crop=1477,831,x0,y74&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "House could vote to impeach Trump on Wednesday, one week after Capitol protest turned into a mob"
+    excerpt: "As the country comes to terms with the violent siege of the U.S. Capitol by Trump supporters that left five dead, the crisis that appears to be among the final acts of his presidency is deepening like few others in the nation’s history."
+    publishedDateTime: 2021-01-09T20:56:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 112
+    images:
+      - url: "https://www.chicagotribune.com/resizer/wkhA_T0LTme2jIhms7pxzsguRsE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VWEGM2GNQHGHG2TYWDJHHGRVNQ.jpg"
+        width: 1200
+        height: 779
+        isCached: true
+  - title: "U.S. state capitals gird for pro-Trump armed protests, FBI flags risk of violence"
+    excerpt: "Protesters are expected to descend on statehouses across the United States on Sunday in support of baseless claims that electoral fraud robbed President Donald Trump of a second term, as law enforcement officials girded for possible violence."
+    publishedDateTime: 2021-01-17T13:43:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-protests/us-state-capitals-gird-for-pro-trump-armed-protests-fbi-flags-risk-of-violence-idUSKBN29M048"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548089624&r=LYNXMPEH0G03L&w=800"
+        width: 800
+        height: 533
+        isCached: true
+
+secured: "bp8D3D7ns0NAGct6lcV8dU4FhXqV0y7FFfIhuA7Du+/rGKOempomPyz7853TPLjkP0ukuZb7VqnprvSOClDcp43RPiAQWBtkf8rtbby6FNnky6Ojk25Sni7l4dnDsFFahhQUXMI5hlkYnSwwBtp8TLDBW+3m29+CMf9HWgHzzBmaYw1++dWKuRmgr5NJHFyaabPC4RKTbj4bFgf6pgxNuXe4ieCcjOdX7gilxKuvX7e5C+569OmgzEwkztP+qNCyXY5fH9jdvFp26skjND8h45UNSN35TivEsDnijYKgmqVnPvS/Act3XaP6Q1YK39LI5g58E91JFjZw+eMA4LSMJbbCin0xlH35BSoLRhJGxIY=;LHfwSnCgp/8SypVb1fMxDw=="
+---
+

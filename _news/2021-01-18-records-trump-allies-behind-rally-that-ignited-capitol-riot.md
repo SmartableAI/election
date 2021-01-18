@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Records: Trump Allies Behind Rally That Ignited Capitol Riot"
-excerpt: "An Associated Press review of records finds that veterans of President Donald Trump’s failed campaign were key players in the Washington rally that spawned a deadly assault on the U.S. Capitol."
-publishedDateTime: 2021-01-17T19:08:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-01-17/records-trump-allies-behind-rally-that-ignited-capitol-riot"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-01-17/records-trump-allies-behind-rally-that-ignited-capitol-riot"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-17/records-trump-allies-behind-rally-that-ignited-capitol-riot?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-17/records-trump-allies-behind-rally-that-ignited-capitol-riot?context=amp"
+title: "Records: Trump allies behind rally that ignited Capitol riot"
+excerpt: "An Associated Press review of records finds that veterans of President Donald Trump’s failed campaign were key players in the Washington rally that spawned a deadly assault on the U.S. Capitol"
+publishedDateTime: 2021-01-18T00:05:00Z
+originalUrl: "https://www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/f7f21c3a-58f6-11eb-a849-6f9423a75ffd_story.html"
+webUrl: "https://www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/f7f21c3a-58f6-11eb-a849-6f9423a75ffd_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/f7f21c3a-58f6-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/f7f21c3a-58f6-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Capitol riots: What are far-right Trump supporters saying?"
@@ -130,6 +136,6 @@ related:
         height: 392
         isCached: true
 
-secured: "+UMmFnhLG6kXTo3ZdJWPKjGzYjsbMwDrWYtjnKKkG8sDQcjXfE2m2GO0lGZSq6osW39q7/3G7lSGpF/PYz1Jm1bkWEe5X4q/dA987jaimOqCdCZywes4H8Yf0ER3Z9JisGQqzGiM2Bnr8Xuupd5xpML4MeDbTc5OryxrK/AUb9RGbSmjEvc39hyDT3jXmS5pUIkiQMqcYzCnj2wnY1wrLz7ITChldgqnpg0yNPG+/sMQqGOrp6lxJHzBfzrcMzHlT2YPK6HdSQ349zzlBqPZDd9mKK1y1bzHCdqVzGnTO2zGbgYsGublpt+D+rjLSQdPDOZd+/ipJKOPZf2yI/YXiNwaZv4Qr/wq2tbHFmxDH8LKCdiN3/cOu1Eu8rqJw5dT07MkViMgPwBNDvF/2uErSkelqtrYsTvT12NSApejUy4cPQz6iy7joXbsBbSfQGNx0bLheizhgvQOj1RmNvfLcX1mQlkLdy8piGeEhpDAREb9QJkuzX26hAmQ7kQAt0qBKh2GsIdQi26yfk7xjZwcjg==;wen+uuk15G/5+LxXFJUp8Q=="
+secured: "cOUJAyRcaD8kWAYCsLHxZUDqQ+Dll8DIv0QUqOVpnZAbzyRE7ScPQzV27l/IvGvbozGMjC+RQbdUfky+p3G0XlfKGXuf6Dloy36RJko6IJ5bGv/o5mu2tW3CMPKHIKGpjmwZX+5h4H+e0OmruD9VFcBYbEO40q9NRg8TNRhHAYW4JKNo+lGU/2tP0YAFOdUX3Upr2hEJZrjEx4gJr1+XyaLjlX8TE5S7QmZZnw3DfHhOUiipuCLaEibXgqxqGqT7mqLrExm1YXRZRX4hMiVFwmgiieIzBGy/PpRvgdjazA2aAAlvu8DF8Zo3EGD9M1qUAfT9yzbojinlkgdTh+h4MfOhQNgyUBKCyLUW4Lscotc=;IGH8SLrOTXuCiicI52Rpvw=="
 ---
 

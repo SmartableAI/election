@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Full Mace Interview: Trump 'put all of our lives at risk'"
+    excerpt: "Rep. Nancy Mace (R-S.C.) tells Chuck Todd that she opposed impeachment because Democrats skipped the usual investigative process, during an exclusive interview with Meet the Press.Jan. 17, 2021 © 2021 NBC UNIVERSAL"
+    publishedDateTime: 2021-01-18T00:02:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/full-mace-interview-trump-put-all-of-our-lives-at-risk-99597381587"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99597381587"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99597381587"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/1610893371259_mtp_full_mace_210117_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Top FEMA official attended Trump's 'Stop the Steal' rally"
     excerpt: "A top official at the Federal Emergency Management Agency, which has been assisting in preparations for the Inauguration next week, attended President Donald Trump’s “Stop the Steal” rally on Jan. 6. At that rally, Trump urged his followers to ..."
     publishedDateTime: 2021-01-17T18:18:00Z
@@ -113,6 +129,6 @@ related:
         height: 773
         isCached: true
 
-secured: "aAudL0D4sLHMSzG15JJwZ3FPcx4UojlDttn+cnZP/CyrRDaCAFTOuYmhKgIdPhPlq6nIbWQNbcjmn0hGyG7sePDs65L8+1f/5Wt/b5t40XYwojUWQNrbi7Ls8RZrJBW23yrYJjbuKJ9ZHJcwe3a/JPkpDcf0wm7m0La+nlk0IaUwdj9R5+CvheLYuVaoHRuGAtb3N9OQ3GB8tPyNODqL309tabMnSn4IraF7gdFrFXjosu2Nuq3Ht+9xB/Q4HDz2akQYoq5aWJNqA34kBIDMtYsY4IETBiDlAa6r2D6XCFHskpIGx0c8jMQrmouOVwrnAz8p0B8xUFEVkLroSWCs6sFAyt82YgoFxEPmzbDlKMI=;aNXWzfz/UNJ7TLYyrhpXLQ=="
+secured: "sJmsOGunR3PRD/7x9s25+ntJEtJ05Nhahk2Ekyopce+QVtW/uOezyuE8nKBFp4+LDE0V3jgPFpfWt0NWiFOw+I/D7gbY8qjqdLiZwMHvzwlOy7KIDUSVeXxLviMBSYzxZr23nZxHj2g6G4ycTg0FH7O/49iC6izZxC362k+lhg5KbV7EkT2/aycmjfrRxtM0/1zQ8HeOSDE5tfmuiUXBQrRAZTTtjR5eHv8Kp2gLY7QwRczPEtb3BMlEGLgBe3rZP9nsQThQKw74vewHPZct3ZKaQjB4xx8wGKTFSWIL7n42F7ZS02ccFqGryg8dhku7nxRRhLe3tJi6l9StBCRNSG3c21DBQCRNXv8M2KiQNYGvIOE28VX3FpE35o2uI6t5cr3VdjchVCh0SAB+W61XM17D7LoqyJXFZkxawaoQ+PGe3j9Eyvmr+5jD3fa/sFbjWKTZKrZh0REPAlEPrwJ/m4NcuQA9R+xCcJStfBdvUo2ppIu0tLVcj88x3azrh8z0K8wzUz6qlP8XQY5x2Yz+kg==;fS4bvxUiKixoNgakUeW7rA=="
 ---
 

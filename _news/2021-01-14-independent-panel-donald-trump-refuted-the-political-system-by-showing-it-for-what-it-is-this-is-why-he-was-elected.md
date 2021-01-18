@@ -694,6 +694,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Alec Baldwin says he dreamed Donald Trump was tried for 'sedition' with a makeshift noose outside courthouse"
+    excerpt: "Alec Baldwin took a somewhat alarming jab at Donald Trump over the weekend. The actor, who is one of the president’s most outspoken critics in Hollywood, took to Twitter to reveal that he had a dream that Trump was on trial for sedition and implied that ..."
+    publishedDateTime: 2021-01-17T19:23:00Z
+    webUrl: "https://www.foxnews.com/entertainment/alec-baldwin-donald-trump-sedition-noose-outside"
+    ampWebUrl: "https://www.foxnews.com/entertainment/alec-baldwin-donald-trump-sedition-noose-outside.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/alec-baldwin-donald-trump-sedition-noose-outside.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Alec-Baldwin-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "The Lynch Mob Comes for Citizen Trump"
     excerpt: "The mob was a mile away as Trump spoke. It was up at the Capitol while Trump was on the Monument grounds. It could not hear him. And the break-in of the Capitol began even before"
     publishedDateTime: 2021-01-15T12:00:00Z

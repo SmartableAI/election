@@ -367,6 +367,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Twitter bans Trump, but left-wing activist charged in Capitol riot still active on platform"
+    excerpt: "A left-wing activist charged for his alleged participation in the Capitol Hill riot maintains control of his Twitter and YouTube accounts, Fox News has learned. "
+    publishedDateTime: 2021-01-17T23:39:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Cx56p3uEoE/left-wing-activist-charged-in-capitol-riot-still-allowed-on-twitter-youtube"
+    ampWebUrl: "https://www.foxnews.com/politics/left-wing-activist-charged-in-capitol-riot-still-allowed-on-twitter-youtube.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-wing-activist-charged-in-capitol-riot-still-allowed-on-twitter-youtube.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/John-Sullivan-Capitol-THUMB.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "GOP Sen. Ben Sasse says there is 'brokenness' in Trump's soul, refuses to rule out impeachment"
     excerpt: "GOP Sen. Ben Sasse said Friday he is willing to consider articles of impeachment against President Trump if they are introduced by the House of Representatives following a violent mob attack by pro-Trump supporters on the nation's Capitol earlier this week. "
     publishedDateTime: 2021-01-08T16:28:18Z

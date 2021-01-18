@@ -2,9 +2,9 @@
 category: news
 title: "Guatemalan forces clash with migrant caravan, Biden team seeks to halt exodus"
 excerpt: "Guatemalan security forces on Sunday used sticks and tear gas to beat back a large migrant caravan bound for the United States, just days before the advent of a new U.S. administration, which urged travelers to abandon the journey."
-publishedDateTime: 2021-01-17T22:58:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-immigration-caravan/guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSKBN29M0FN?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/us-usa-immigration-caravan/guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSKBN29M0FN?edition-redirect=ca"
+publishedDateTime: 2021-01-17T23:31:00Z
+originalUrl: "https://www.reuters.com/article/usa-immigration-caravan/update-2-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7"
+webUrl: "https://www.reuters.com/article/usa-immigration-caravan/update-2-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7"
 type: article
 quality: 102
 heat: -1
@@ -199,6 +199,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden’s long political evolution leads to his biggest test"
+    excerpt: "Joseph Robinette Biden Jr. has navigated a half-century in American politics by relentlessly positioning himself at the core of the Democratic Party."
+    publishedDateTime: 2021-01-17T22:46:00Z
+    webUrl: "https://www.denverpost.com/2021/01/17/joe-biden-political-evolution/"
+    ampWebUrl: "https://www.denverpost.com/2021/01/17/joe-biden-political-evolution/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/01/17/joe-biden-political-evolution/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/Biden_Evolution__83052.jpg?w=1024&h=692"
+        width: 1024
+        height: 692
+        isCached: true
   - title: "How Facebook Is Prepping For Joe Biden’s Inauguration Amid Online Threats"
     excerpt: "Facebook has taken a major step in cracking down on the violence that threatens to derail Joe Biden’s Inauguration. Facebook announced it would continue to take a variety of measures to prevent users from using the social media platform to incite violence during the inauguration."
     publishedDateTime: 2021-01-16T17:57:00Z
@@ -248,6 +264,6 @@ related:
         height: 560
         isCached: true
 
-secured: "wCaBUTcEeR5Yj1tbP6VRD9h17nmneIBSQRm/fGl1SbeDgH0qVh+rwNld4Q7NyXYeAaLeo9zE5d5SryEwFE1euUtTgpB5lEVwHQk8BRytI60iJ+oMqcp7kT7wHXmYRFU4j1DtZLGV/BLW2D/iLWQGibRwCKrfQ86duR70AdJ4pzMEuRsKEUx8WEvm7sqsOv+WNstEka6r0wuydxJvveWnMkDHbuEyW+CPDUS5kYECS/n29zLqGz1LNe9X7ueBydHWPisnM6fvqeOMANHd5HrT4mJhZlNiDuJMDa5e4Hqgw3s6+mwI3rG/LhYBuHsxbkzKWdnwtNVCdUVL4lTXXE32UJZ/s4uciSL97eCOw+JeFs0=;KzyP8402pD4IsKCjfS1GNg=="
+secured: "0G1sh7jYJlGxH9OIZT/TWAdC9jIK4yLQG013P3oy9peEGNbyNwY59BS2Lx1pRzq2xj6deKWy2VVYN8Dyc8jTMoxevkqypk6YcO+CGJpbUWrxJuWcJDAGCKINIAoprf8TvkokMgU71zjhss79wyZVo3+d92cTQ8XRFeKUoNHQERSESGfcspPqa6NCzm5WJkXR+HT5Nly85/J5a7ZXoi0UZLvNxMnb6dZwb7wuyE2o50z9bMtf4rMKx2Qor7IGcWClMhCt3hVnVx3K2Y8V3hhd5pIu5Zj/GOlOHqGvdWwcYYF1rePaqmVnx9r7Z/XOsr6elZ4/7h3JaG+QqzAkkhASa0bx5DRDhLFfqipUeN0O9do=;C2z3F2s3bcalO5czOR9+/Q=="
 ---
 
