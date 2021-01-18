@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/trump-approval-analysis/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/trump-approval-analysis/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 275
 published: true
 
 provider:
@@ -31,6 +31,70 @@ images:
     isCached: true
 
 related:
+  - title: "Melania Trump departing White House with lowest favorability of her tenure "
+    excerpt: "Melania Trump will be exiting the White House with the lowest favorability rating of her tenure as first lady, according to a new CNN poll.\n    \n"
+    publishedDateTime: 2021-01-17T18:39:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5ie_2sP9DMc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/melania-trump-favorability/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/melania-trump-favorability/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209102711-melania-trump-july-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "First lady Melania Trump breaks her silence on Capitol riot, then hits back at her critics"
+    excerpt: "First lady Melania Trump has broken her silence on the Capitol insurrection incited by her husband in a letter posted on the White House website early Monday morning in which she lashes out at her critics and then condemns the violence.\n    \n"
+    publishedDateTime: 2021-01-11T12:02:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3nWhLyoZtz8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/melania-trump-capitol-violence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/melania-trump-capitol-violence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209102711-melania-trump-july-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Angry staffer appears to be behind State Department website edits saying Trump's term is over"
+    excerpt: "A disgruntled State Department employee appears to have been behind bizarre changes to the department website Monday that stated that President Donald Trump and Vice President Mike Pence's terms were over, two sources told CNN.\n    \n"
+    publishedDateTime: 2021-01-11T23:44:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pk1Yf6xmJzo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/state-department-website-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/state-department-website-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160330182055-state-department-logo-2007-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Atlanta Prosecutor Appears to Move Closer to Trump Inquiry"
+    excerpt: "The Fulton County district attorney is weighing an inquiry into possible election interference and is said to be considering hiring an outside counsel."
+    publishedDateTime: 2021-01-16T00:22:00Z
+    webUrl: "https://www.nytimes.com/2021/01/15/us/politics/atlanta-prosecutor-trump-election.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/15/us/politics/atlanta-prosecutor-trump-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/15/us/politics/atlanta-prosecutor-trump-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/15/us/politics/15georgia/15georgia-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump approval remains stable in new NBC poll, with Republicans unmoved after Capitol violence"
     excerpt: "Eighty-seven percent of Republicans approve of how Trump is doing his job in a new NBC News poll, but half of all voters say Trump is \"definitely worse than most\" presidents."
     publishedDateTime: 2021-01-18T00:11:00Z

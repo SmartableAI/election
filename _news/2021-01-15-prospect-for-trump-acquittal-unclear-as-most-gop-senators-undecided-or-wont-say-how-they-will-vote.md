@@ -287,6 +287,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Live Updates: House Republican who voted to impeach Trump facing criticism"
+    excerpt: "With 10 Republican votes, Trump's second impeachment was the most bipartisan one in history."
+    publishedDateTime: 2021-01-18T05:07:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EbVGXDmDFTg/live-updates-trump-impeach-1-18-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeach-1-18-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeach-1-18-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02ffde9d-0cc6-45ac-b045-16f768eb828d/40e452e9-8c15-4f5b-967a-fac0730df44d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "GOP Senator Murkowski undecided on conviction despite backing Trump impeachment"
     excerpt: "A total of 10 House Republicans joined with Democrats in a 232-197 vote to impeach Trump on a single charge of “incitement of insurrection.”"
     publishedDateTime: 2021-01-14T22:15:26Z

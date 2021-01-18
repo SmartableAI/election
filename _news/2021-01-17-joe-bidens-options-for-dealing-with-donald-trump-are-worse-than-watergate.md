@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donal
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1"
 type: article
 quality: 148
-heat: 1388
+heat: 1428
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/4562affcc87f763439da1fd7d3fc91f356b536f5/0_38_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e75078fad8e464cbc9499016b6c3ec8b"
         width: 600
         height: 360
+        isCached: true
+  - title: "Moon urges Biden to learn from Trump's N. Korea diplomacy"
+    excerpt: "South Korea’s president has urged the incoming Biden administration to build upon the achievements and learn from the failures of President Donald Trump’s diplomatic engagement with North Korea"
+    publishedDateTime: 2021-01-18T05:15:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/moon-urges-biden-learn-trumps-korea-diplomacy-75317048"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/moon-urges-biden-learn-trumps-korea-diplomacy-75317048"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/moon-urges-biden-learn-trumps-korea-diplomacy-75317048"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_3f5fa3a78c7f407584288265b5a43ecc_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden unveils $1.9 trillion economic relief as Trump's Senate trial looms"
     excerpt: "Majority Leader Mitch McConnell said the Senate would not reconvene before January 19, the day before Mr. Trump leaves office."
@@ -930,6 +946,17 @@ related:
     provider:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
+    quality: 55
+  - title: "'Rooting Hard for You': Will Departure Notes End With Trump?"
+    excerpt: "As he was preparing to leave the White House in January 1989, President Ronald Reagan wanted to write a note to his successor, George H."
+    publishedDateTime: 2021-01-18T05:46:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-18/rooting-hard-for-you-will-departure-notes-end-with-trump"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-18/rooting-hard-for-you-will-departure-notes-end-with-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-18/rooting-hard-for-you-will-departure-notes-end-with-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 55
   - title: "Nevada Judge Who Denied Trump Campaign Appeal Was Threatened"
     excerpt: "Authorities in Carson City are investigating a threat made against a state judge who dismissed a lawsuit last month brought by President Donald Trump’s campaign."

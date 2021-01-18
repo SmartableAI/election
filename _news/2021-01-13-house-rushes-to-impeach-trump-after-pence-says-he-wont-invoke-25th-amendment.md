@@ -400,6 +400,20 @@ related:
         width: 800
         height: 564
         isCached: true
+  - title: "Trump leaves a destructive presidential legacy"
+    excerpt: "President Donald Trump stands with no equal in U.S. history. Facing an impeachment trial on a charge of insurrection, Trump's legacy now includes being the only president to be charged twice with a high crime or misdemeanor."
+    publishedDateTime: 2021-01-18T06:21:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/18/trump-leaves-destructive-presidential-legacy/4201595001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/43953541-5975-4b24-a4fa-f7f99aed6da4_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Pompeo lifts restrictions on U.S.-Taiwan relationship as clock runs out on Trump administration"
     excerpt: "Secretary of State Mike Pompeo on Saturday said he was lifting restrictions on contacts between U.S. officials and their Taiwanese counterparts, a move likely to anger China and increase tensions between Beijing and Washington in the waning days of President Donald"
     publishedDateTime: 2021-01-10T12:13:00Z

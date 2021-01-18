@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to deliver remarks on foreign policy and national security Monday"
+    excerpt: "President-elect Joe Biden is expected to deliver remarks on Monday afternoon after receiving a briefing from members of his national security and foreign policy agency review teams.\n    \n"
+    publishedDateTime: 2020-12-28T17:04:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/McBw0pKGjeE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/28/politics/biden-foreign-policy-national-security-remarks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/28/politics/biden-foreign-policy-national-security-remarks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201224041533-01-joe-biden-1223-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Joe Biden is betting his presidency on this"
     excerpt: "At the root of President-elect Joe Biden's 2020 campaign -- and the statements he has made since winning the White House -- is this idea: Republicans are more open to compromise than they have demonstrated over these past four years.\n    \n"
     publishedDateTime: 2020-12-28T23:30:07Z
@@ -48,35 +64,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "A congressional waiver is the biggest hurdle for Biden's defense pick"
-    excerpt: "The biggest obstacle to retired Army Gen. Lloyd Austin's nomination for secretary of defense is his retirement date from the military just four years ago -- too recent under American law and for the tastes of several members of Congress.\n    \n"
-    publishedDateTime: 2020-12-30T14:46:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ho78h0hm9xw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-lloyd-austin-waiver/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-lloyd-austin-waiver/index.html"
+  - title: "Biden legal team asks senators for judicial nomination recommendations "
+    excerpt: "President-elect Joe Biden's transition team has sent a letter to Democratic senators seeking their recommendations for district court vacancies, a transition official confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-12-31T00:39:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iEKoM2kANoA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-judicial-nominees-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-judicial-nominees-senate/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209141022-02-lloyd-austin-secretary-of-defense-announcement-1209-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden names Kathleen Hicks as first woman deputy defense secretary"
-    excerpt: "Joe Biden's transition team announced Wednesday that former Obama Pentagon official Kathleen Hicks is the President-elect's pick to serve as deputy secretary of defense, and she would be the first woman to serve in the role if confirmed by the Senate.\n    \n"
-    publishedDateTime: 2020-12-30T16:14:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WSyk20utpn4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-defense-department-hicks-kahl/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-defense-department-hicks-kahl/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230105634-kathleen-hicks-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -112,19 +112,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "From pivotal endorsement to Cabinet advice, Jim Clyburn is here for Joe Biden"
-    excerpt: "Don't call Rep. Jim Clyburn a member of President-elect Joe Biden's inner circle.\n    \n"
-    publishedDateTime: 2020-12-22T12:00:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M99b9d1VBNk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/22/politics/joe-biden-jim-clyburn/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/joe-biden-jim-clyburn/index.html"
+  - title: "Biden White House to issue memo to halt or delay midnight regulations on January 20"
+    excerpt: "On Joe Biden's first day as President, his White House will issue a memo to halt or delay midnight regulations and actions taken by the Trump administration that will not have taken effect by Inauguration Day, Biden transition spokesperson Jen Psaki told reporters on Wednesday.\n    \n"
+    publishedDateTime: 2020-12-30T20:51:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/89ijxeeOE5w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/30/politics/biden-midnight-regulations-freeze/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/30/politics/biden-midnight-regulations-freeze/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201220222040-02-joe-biden-jim-clyburn-0226-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201228145112-02-biden-remarks-1228-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -143,70 +143,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200518181852-senator-ben-sasse-1-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Biden's inaugural committee hosting national memorial for Covid-19 victims on January 19"
-    excerpt: "President-elect Joe Biden's inaugural committee on Thursday announced that it is hosting a national memorial to remember and honor the lives lost to Covid-19 and is asking cities and towns around the country to participate.\n    \n"
-    publishedDateTime: 2020-12-31T14:20:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mEYhCg4S1gE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/31/politics/presidential-inaugural-committee-covid-19-memorial/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/presidential-inaugural-committee-covid-19-memorial/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200822172519-lincoln-memorial-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden team's multibillion-dollar school testing plan takes shape"
-    excerpt: "The proposal under consideration calls for the federal government to cover the cost of providing tests to K-12 schools throughout the country."
-    publishedDateTime: 2020-12-24T20:32:00Z
-    webUrl: "https://www.politico.com/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/23/biden-frequent-testing-reopen-schools-coronavirus-450280"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/d6/1f/d14f15944a349a63f3aea61c185a/gettyimages-1276530953-c.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden Transition Highlights: Congress Reaches a Deal on Stimulus Package"
-    excerpt: "Leaders struck a long-sought stimulus deal, agreeing to provide $900 billion in aid. President Trump has discussed appointing a conspiracy theorist to investigate election fraud."
-    publishedDateTime: 2020-12-22T00:11:00Z
-    webUrl: "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump"
-    ampWebUrl: "https://www.nytimes.com/live/2020/12/20/us/joe-biden-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/20/us/joe-biden-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/20/us/politics/20transition-briefing-promo1/20transition-briefing-stimulus1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "On Working With Congress, Biden Predicts Success Where Predecessors Failed"
-    excerpt: "The president-elect insisted that his skills and his history would enable him to secure bipartisan support for bold initiatives."
-    publishedDateTime: 2020-12-24T21:58:00Z
-    webUrl: "https://www.nytimes.com/2020/12/24/us/politics/biden-congress-deals.html"
-    ampWebUrl: "https://www.nytimes.com/2020/12/24/us/politics/biden-congress-deals.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/24/us/politics/biden-congress-deals.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 133
-    images:
-      - url: "https://static01.nyt.com/images/2020/12/24/us/politics/24dc-biden/24dc-biden-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Health care, policing and same-sex marriage: Joe Biden's domestic policy answers"
     excerpt: "In one of his most consequential interviews, former Vice President Joe Biden told Meet the Press that his views on marriage come down to \"who do you love.\""
@@ -239,20 +175,6 @@ related:
       - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202012/mtp_full_bidenforeign_20122700__107131.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Transition 2020: Biden allies push back on sweeping plan to promote fair housing"
-    excerpt: "Donald Trump scrapped an Obama-era rule on housing. Some local officials hope Joe Biden doesn’t simply restore it as is."
-    publishedDateTime: 2020-12-24T22:44:00Z
-    webUrl: "https://www.politico.com/states/new-york/albany/story/2020/12/24/transition-2020-biden-allies-push-back-on-sweeping-plan-to-promote-fair-housing-1351109"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 110
-    images:
-      - url: "https://static.politico.com/7f/7a/b541c1b94503bd85ea99a82800e1/ap18057784915598-1.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "IqvNygRG3AKCC1D3WrOwNG1F9sn9UopW9YIFKzut2gS3sUL70+CA/UCtPKuIeK08+CkfLgsebpM3qOIVt5I504SKCIne7UAUBWalI0IP9NpRj80KvgV+/hPH+KzaRVZqQrMuPcdRIC3p8PIPpoUzKeFcIkY9SsHhriBCZDfsSDYAEBAXEfDrHLnT/o6etwyZWEMrrrsYCEVYm3uoki369lWZkY9DGwC1zmWlVpucC7tjFKzO5dYjeuVlKFvftxblKRPaFF6dEUE02ybfCkkLUmWXytmcHmUJtyvycS1YkcX9KSAYu/+3sJkAOqDpMz87I7v1R5rgjHOr49t0wevF1Y4w56DzIEF/rirgM1vw02jg6LurSD0fV1rbQiFrRlI+2x3+JTib2q+IoYa/rwlPhV+fCZggayeatSCsxbwIru1XeXqBzksEbvtFfXyJmoC8tOJhh1Cb9lFdslnMRSfFEPRR3vd6t885/iwsMnOzLzszWVivEV/h6N3tIrMaXuA9VJSSxNU6J7YBX2XkO2P5bw==;1SsKd6kxDqogyh/BRkY6OA=="

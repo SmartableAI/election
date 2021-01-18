@@ -758,9 +758,9 @@ related:
         height: 682
         isCached: true
   - title: "New Mexico official who vowed to protest Biden inauguration arrested in Washington"
-    excerpt: "The U.S. Justice Department said on Sunday that it had arrested an elected official from New Mexico who had vowed to travel to Washington with firearms to protest the inauguration of President-elect Joe Biden."
-    publishedDateTime: 2021-01-18T04:53:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-protests-arrests/new-mexico-official-who-vowed-to-protest-biden-inauguration-arrested-in-washington-idUSKBN29M0RV"
+    excerpt: "The U.S. Justice Department said on Sunday that it had arrested an elected official from New Mexico who had vowed to travel to Washington with firearms to protest President-elect Joe Biden's inauguration."
+    publishedDateTime: 2021-01-18T05:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests-arrests/new-mexico-official-who-participated-in-capitol-riot-and-vowed-to-return-arrested-in-washington-idUSKBN29M0RV"
     type: article
     provider:
       name: Reuters
@@ -1027,19 +1027,19 @@ related:
         isCached: true
   - title: "Vice President-elect Kamala Harris to resign her Senate seat Monday"
     excerpt: "Vice President-elect Kamala Harris will resign her Senate seat on Monday, two days before she and President-elect Joe Biden are inaugurated."
-    publishedDateTime: 2021-01-17T22:45:00Z
-    webUrl: "https://www.denverpost.com/2021/01/17/kamala-harris-resign-senate-seat/"
-    ampWebUrl: "https://www.denverpost.com/2021/01/17/kamala-harris-resign-senate-seat/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/01/17/kamala-harris-resign-senate-seat/amp/"
+    publishedDateTime: 2021-01-17T23:41:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-kamala-harris-senate-resignation-20210117-4rntyfb5ibd5xk6cgoxnupuf6q-story.html"
+    ampWebUrl: "https://www.courant.com/nation-world/ct-kamala-harris-senate-resignation-20210117-4rntyfb5ibd5xk6cgoxnupuf6q-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/nation-world/ct-kamala-harris-senate-resignation-20210117-4rntyfb5ibd5xk6cgoxnupuf6q-story.html?outputType=amp"
     type: article
     provider:
-      name: The Denver Post
-      domain: denverpost.com
+      name: Hartford Courant
+      domain: courant.com
     quality: 75
     images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/Harris-Inauguration_03212.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
+      - url: "https://www.courant.com/resizer/oAsPrhM_rnXoM2VhkkCpWUsGwJI=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/G2OD6SLTIJI3W54IEASIBG7CCQ.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Vice President-elect Kamala Harris will resign her Senate seat Monday"
     excerpt: "Gov. Gavin Newsom is expected to appoint Democrat Alex Padilla, now California’s secretary of state, to serve the final two years of Harris’ term. Vice President-elect Kamala Harris will be ..."
@@ -1136,6 +1136,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/11/USAT/c5bf9530-87e0-4af2-b3d8-20bc45f8cc5d-AFP_AFP_8YE8DQ.jpg?auto=webp&crop=3839,2159,x1,y360&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Barack Obama, Kamala Harris Share Heartwarming Birthday Tributes For Michelle Obama"
+    excerpt: "Barack Obama, Kamala Harris and more shared heartfelt messages for Michelle Obama on her 57th birthday Sunday."
+    publishedDateTime: 2021-01-18T04:52:00Z
+    webUrl: "https://www.ibtimes.com/barack-obama-kamala-harris-share-heartwarming-birthday-tributes-michelle-obama-3124545"
+    ampWebUrl: "https://www.ibtimes.com/barack-obama-kamala-harris-share-heartwarming-birthday-tributes-michelle-obama-3124545?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/barack-obama-kamala-harris-share-heartwarming-birthday-tributes-michelle-obama-3124545?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 69
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/06/29/michelle-obama.jpg"
+        width: 1200
+        height: 808
         isCached: true
   - title: "Vice President-elect Kamala Harris to be sworn in by Justice Sotomayor at inauguration"
     excerpt: "Harris will use two Bibles for the swearing-in, one of which belonged to Thurgood Marshall, the first Black Supreme Court justice."
@@ -1293,6 +1309,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "2UhntJ94+PpA1SxDEshv2xMBiYkNvklWvHdzNX2SHWQwyYU1frBxv+gmw71FJNWQsQLJotRzncf4Egt6uZXNlIsSdAdLa7TUM3IsILTGtwU8W2HVVbGtNeUdPuzUVgLMpwVemykHOx/qqnGC7Agfph0I3as2eg1LTq8SPdAYsiR5IpkwNbkCgIaXnV+FRP2KDglXQTqL97fBxC408hSBG3R58w+Yf3YaojHV+NxoKzuwaZ7Kkhuv5FrOYLf97/yNIYPpMbvJKbsz9VGCh7ZP/tSwyvsZ536btOU4JsODA12KFMF40L9IpzNmX2AMVa/BWt//njHoCE6E2A/nVxyaBG5V97GJoH1+KIjiAZhRD3A=;LeOyGr8PJ+G3/JXbe318uQ=="
+secured: "8Uu18USQxo8+Hexgyblf/5lWX894gN/tydNGKF905VWBcS55X4wd7ZZ4YhQIidIEr4nOfZhg01kGmAiajrbu5SI4mm6pAQIPLEslyTl4tRVeVAesFv8PxB42P6CpsVt9myP/W+H9UU2ieLEtAhSqzcee732hh07J+Cvzj9hi0zpHDCQyZilyAY5Cj3oX9tJU5J/oFI2+ecGgCtPGI1Pd3/zSh6hEOEper2MeTFfZdxd5KOiivbzkY7Gdk6U1OvWO2LccxtLueoSUtRwGwuXm2BP8oPiEGixvGgGiAxr9zCwq4U94mGNx1yhub9zk9y0FUYZC4oMKgI7I1FCSctsL979/5dm5LGv9w3b+ynAb3n488MX4aNJ1HPqDHI+N1u/XwJ58D1fkAgZKvgE0lQqnsxq+NVAKAoxTMDUtZ1CNXeo3eR1L9tF4HG0i18AcQo179jw9umMUCFzBZ/cSRUl7Zyu+Xedo25mUmhFTNBSueYXLI7egnfgmaZc+/clBIKaspeE48IsTCoj/wLMUXQXVnQ==;cpMd/+NeVtbn674fysPVNg=="
 ---
 

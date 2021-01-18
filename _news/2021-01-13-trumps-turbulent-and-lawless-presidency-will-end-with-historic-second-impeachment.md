@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Bill Belichick declines Presidential Medal of Freedom offer from Trump"
-    excerpt: "New England Patriots head coach Bill Belichick has announced that he is declining the Presidential Medal of Freedom, which he was scheduled to receive from President Donald Trump on Thursday.\n    \n"
-    publishedDateTime: 2021-01-12T01:52:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aRwaF0LdAiE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/bill-belichick-presidential-medal-of-freedom-spt-trnd/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/bill-belichick-presidential-medal-of-freedom-spt-trnd/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190909121944-bill-belichick-nfl-new-england-patriots-opener-2019-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Justice Dept. Open to Pursuing Charges Against Trump in Inciting Riot"
     excerpt: "The top federal prosecutor in Washington said investigators were examining anyone involved, “not only the people who went into” the Capitol."
     publishedDateTime: 2021-01-08T01:00:00Z

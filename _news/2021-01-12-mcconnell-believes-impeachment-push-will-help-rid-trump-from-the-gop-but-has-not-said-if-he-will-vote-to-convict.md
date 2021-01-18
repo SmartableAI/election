@@ -31,69 +31,165 @@ images:
     isCached: true
 
 related:
-  - title: "Senate GOP torn over convicting Trump: 'There's no love lost'"
-    excerpt: "To many Senate Republicans, including Senate Majority Leader Mitch McConnell, there's no question in their minds: President Donald Trump committed impeachable offenses.\n    \n"
-    publishedDateTime: 2021-01-14T22:09:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r1vWzdUQ28I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/mitch-mcconnell-republican-senator-plans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/mitch-mcconnell-republican-senator-plans/index.html"
+  - title: "Liz Cheney, No. 3 House Republican, to vote to impeach Trump"
+    excerpt: "Wyoming Republican Rep. Liz Cheney, the party's third-ranking House leader, announced on Tuesday that she will vote to impeach President Donald Trump, becoming the highest-ranking official from her party to support charging and removing him from office following the Trump-incited riot at the Capitol"
+    publishedDateTime: 2021-01-13T00:09:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zMF1_XHZTPQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200723145511-liz-cheney-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "In a last-minute move, NSA installing Trump loyalist as general counsel"
-    excerpt: "The National Security Agency said Sunday it was installing Trump NSC staffer Michael Ellis as its general counsel, after acting Defense Secretary Christopher Miller ordered NSA Director Gen. Paul Nakasone to place the Trump loyalist into the role.\n    \n"
-    publishedDateTime: 2021-01-17T22:49:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4pKMRIhFrzE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/michael-ellis-nsa-general-counsel/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/michael-ellis-nsa-general-counsel/index.html"
+  - title: "Trump's been impeached again. What's next?"
+    excerpt: "President Donald Trump is about to be impeached again -- the first leader in US history to be impeached twice by the House.\n    \n"
+    publishedDateTime: 2021-01-13T22:33:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qhflbpac4wY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/senate-impeachment-process-next-steps/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/senate-impeachment-process-next-steps/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210117123432-michael-ellis-nsa-general-counsel-restricted-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113110041-us-capitol-0113-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump conviction faces uphill climb in Senate. It could all come down to McConnell."
-    excerpt: "Senators are not expected to consider the House impeachment resolution until Tuesday, the day before President-elect Joe Biden takes office."
-    publishedDateTime: 2021-01-14T08:22:00Z
-    webUrl: "https://www.nbcnews.com/politics/trump-impeachment-inquiry/trump-impeachment-faces-uphill-climb-senate-it-could-all-come-n1254171"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254171"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254171"
+  - title: "Read: House Democrats' draft of a new article of impeachment against Trump"
+    excerpt: "House Democrats have circulated a draft of a new impeachment resolution against President Donald Trump with one article of impeachment, \"incitement of insurrection.\"\n    \n"
+    publishedDateTime: 2021-01-08T20:37:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zserCShr2rE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/trump-article-of-impeachment-draft/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/trump-article-of-impeachment-draft/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108140605-01-inauguration-preparations-0107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump campaign says the President has not yet chosen impeachment defense team"
+    excerpt: "President Donald Trump has not yet assembled a defense team for his upcoming Senate impeachment trial, a spokesperson for the President's campaign said Sunday.\n    \n"
+    publishedDateTime: 2021-01-17T14:11:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BJ0rnrr503s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/trump-legal-team-second-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/trump-legal-team-second-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227182837-02-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Republican Sen. Pat Toomey says he thinks Trump 'committed impeachable offenses' "
+    excerpt: "Republican Sen. Pat Toomey of Pennsylvania said Saturday he thinks President Donald Trump \"committed impeachable offenses,\" but said he is not certain attempting to remove the President from office with just a few days left in his term is the right course of action.\n    \n"
+    publishedDateTime: 2021-01-10T00:48:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qgJsRpga2A8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/pat-toomey-trump-impeachable-offenses/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/pat-toomey-trump-impeachable-offenses/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210109192336-pat-toomey-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "CNN Poll: Republican Party favorability dips as most want party to move on from Trump"
+    excerpt: "The Republican Party will begin its time as the minority party in Washington unpopular with a public ready to move on from President Donald Trump, according to a new CNN Poll conducted by SSRS. The poll also finds that the most high-profile elected Republican who will remain in office after Trump leaves,"
+    publishedDateTime: 2021-01-17T13:29:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6sFuj_bgkZU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/cnn-poll-republican-party-favorability-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/cnn-poll-republican-party-favorability-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116020618-03-donald-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "State Department political appointee fired by White House after tweeting Trump was unfit for office"
+    excerpt: "A State Department political appointee was fired by the White House Thursday after tweeting on Wednesday evening that President Donald Trump is unfit for office and was to blame for the mob attack on the US Capitol, according to two sources familiar with the firing.\n    \n"
+    publishedDateTime: 2021-01-07T20:11:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/895bHnfM2yQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/gabriel-noronha-fired-tweet/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/gabriel-noronha-fired-tweet/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130603131322-state-dept-exterior-file-gi-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "DC attorney general wants to interview Donald Trump Jr. as part of Trump inaugural funds abuse probe"
+    excerpt: "The DC attorney general's office has notified President Donald Trump's son, Donald Trump Jr., that it would like to interview him as part of its investigation into misuse of his father's inaugural funds, a spokesperson with the office tells at CNN.\n    \n"
+    publishedDateTime: 2021-01-14T20:49:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iYHAPLPtFC8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/dc-attorney-general-donald-trump-jr-inaugural-funds-abuse/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/dc-attorney-general-donald-trump-jr-inaugural-funds-abuse/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120195947-06-donald-trump-jr-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Read: Schumer calls for Trump's removal using the 25th Amendment, says he 'should not hold office one day longer'"
+    excerpt: "Senate Minority Leader Chuck Schumer on Thursday released a statement calling for President Donald Trump to be removed from office one day after a pro-Trump mob stormed the Capitol.\n    \n"
+    publishedDateTime: 2021-01-07T18:05:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZXc1TsO0ylw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/chuck-schumer-25th-amendment-trump-statement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106142900-schumer-electoral-college-count-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Live updates: House to vote on Trump impeachment, 25th amendment resolutions"
+    excerpt: "Lawmakers are expected to take up the 25th Amendment measure Tuesday night and the impeachment resolution Wednesday morning."
+    publishedDateTime: 2021-01-12T11:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-01-12-trump-impeachment-25th-amendment-n1253803"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253803"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253803"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 129
+    quality: 132
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_02/3441896/210113-donald-trump-ac-434p_0a113ac772841e55bfd302f2f9225047.jpg"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3441298/210111-impeachment-live-blog-main-cover-cs_91340e85bc6e0b139559e1ddd2593605.jpg"
         width: 2500
         height: 1250
-        isCached: true
-  - title: "Trump's speech is probably defensible in every court — except, perhaps, the Senate"
-    excerpt: "The Senate will now decide whether President Donald Trump should be convicted on the House's charge of incitement of insurrection, and there has also been discussion of potential criminal charges arising from the same conduct after he leaves office."
-    publishedDateTime: 2021-01-15T00:17:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-s-speech-probably-defensible-every-court-except-perhaps-senate-n1254258"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254258"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254258"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_02/3442024/210114-donald-trump-jm-0910_c07a5a64d923f2f218931b734f3f77f4.jpg"
-        width: 2500
-        height: 1666
         isCached: true
 
 secured: "GYDRuDwdBdf1fQkqAx4oFUNwnyWKereunEDdZRUCOF9Bhqly8rgDrMyPinerTC6Rfm0Yok1rQERCmSeC9i3L4A74MUD0N7GuE3Vhs0XHBPei5FMHQy+QEbtdoYWMXPOl/9OYCST7+NW+K22W5YvXtQC8JTjc2A7qMV4WYT2jGhwq4ufaiDdHP1nKHriZYZw0EFdbUPrVS+nCkeLvDKcHzg4bFsxIt/FEPnhldn0hTRZNhwesQanDhas1A5rgJ8dcRw4vXWhSjEiEhWHrI78yw4cPfmYrDW8nNe7H6EQn8nsOhWMkYqBZuIZ745IiD3MTUKs7CJLlJF7bQXfeQi2A6mhguOFoxOOd2o9GFdgioVw=;JRa//E2dcf92UnipVJMgrQ=="

@@ -397,6 +397,20 @@ related:
         width: 800
         height: 564
         isCached: true
+  - title: "Trump leaves a destructive presidential legacy"
+    excerpt: "President Donald Trump stands with no equal in U.S. history. Facing an impeachment trial on a charge of insurrection, Trump's legacy now includes being the only president to be charged twice with a high crime or misdemeanor."
+    publishedDateTime: 2021-01-18T06:21:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/18/trump-leaves-destructive-presidential-legacy/4201595001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/43953541-5975-4b24-a4fa-f7f99aed6da4_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "House rushes to impeach Trump after Pence says he won’t invoke 25th Amendment"
     excerpt: "Already scheduled to leave office next week, Trump is on the verge of becoming the only president in history to be twice impeached."
     publishedDateTime: 2021-01-13T10:05:00Z

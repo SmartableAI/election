@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-doj-pick-defense-ex-womens-ma
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-pick-defense-ex-womens-march-leader.amp"
 type: article
 quality: 167
-heat: 207
+heat: 227
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 158
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42062da5-16e0-4037-a730-e3584328ccb1/18454cad-9594-4df4-929b-9de43f9366d1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Defense officials worry about insider attack from service members deployed to Biden inauguration"
+    excerpt: "The concerns prompted the FBI to vet all 25,000 National Guard troops in the city, Fox News has learned."
+    publishedDateTime: 2021-01-18T05:07:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mAWvMts6Dvo/live-updates-biden-inauguration-1-18-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-18-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inauguration-1-18-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dad6c219-29aa-4014-9f33-7e3e1c7f25e7/689e2f28-a07d-4736-a369-7ff66a5f5798/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

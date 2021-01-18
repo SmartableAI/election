@@ -2,11 +2,11 @@
 category: news
 title: "Records: Trump allies behind rally that ignited Capitol riot"
 excerpt: "An Associated Press review of records finds that veterans of President Donald Trump’s failed campaign were key players in the Washington rally that spawned a deadly assault on the U.S. Capitol"
-publishedDateTime: 2021-01-18T00:05:00Z
-originalUrl: "https://www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/f7f21c3a-58f6-11eb-a849-6f9423a75ffd_story.html"
-webUrl: "https://www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/f7f21c3a-58f6-11eb-a849-6f9423a75ffd_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/f7f21c3a-58f6-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/f7f21c3a-58f6-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+publishedDateTime: 2021-01-18T05:09:00Z
+originalUrl: "https://www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/7a23b6da-5921-11eb-a849-6f9423a75ffd_story.html"
+webUrl: "https://www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/7a23b6da-5921-11eb-a849-6f9423a75ffd_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/7a23b6da-5921-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/records-trump-allies-behind-rally-that-ignited-capitol-riot/2021/01/17/7a23b6da-5921-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
@@ -136,6 +136,6 @@ related:
         height: 392
         isCached: true
 
-secured: "cOUJAyRcaD8kWAYCsLHxZUDqQ+Dll8DIv0QUqOVpnZAbzyRE7ScPQzV27l/IvGvbozGMjC+RQbdUfky+p3G0XlfKGXuf6Dloy36RJko6IJ5bGv/o5mu2tW3CMPKHIKGpjmwZX+5h4H+e0OmruD9VFcBYbEO40q9NRg8TNRhHAYW4JKNo+lGU/2tP0YAFOdUX3Upr2hEJZrjEx4gJr1+XyaLjlX8TE5S7QmZZnw3DfHhOUiipuCLaEibXgqxqGqT7mqLrExm1YXRZRX4hMiVFwmgiieIzBGy/PpRvgdjazA2aAAlvu8DF8Zo3EGD9M1qUAfT9yzbojinlkgdTh+h4MfOhQNgyUBKCyLUW4Lscotc=;IGH8SLrOTXuCiicI52Rpvw=="
+secured: "DIx61xh+RdjbAwGKmjzgueSyMNw8EJ3Y4z4/tCSMuarjbkRoNmBzDiUjcuwU68Cw2bQEvm++DCIEDSbGPTnYodSdXPz+dNQe6v+XeX71QDxq6o52armfGpNTvudxbCF5kc90gkIuSxYCXErI1e8zZLXC7vwZgR7xsID6QdGJmYkKIGIOyrmZAV7TtsGrBlI/jT9Qny/uBPuWtgxDhRb0y7YDnX8ZvqAXKgRTaO7Q/TPtbpfS9ihlUw6D0gr/9fHzMdtzUyiE1OQlDKXvOu1P+DZiht68wC7Zdyhr2Zpi1arfJOmTp1WodRUnvTkR+5EiThwuEULFFrzG5QgYxv/W7Pj1B/vP+7q67I2ig3vL5/4=;ybkD/LLf+yq4cDyr8dZeTQ=="
 ---
 

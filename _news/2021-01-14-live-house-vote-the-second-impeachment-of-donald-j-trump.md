@@ -94,6 +94,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Graham leads resistance to Trump ouster amid fast-moving impeachment"
+    excerpt: "Lindsey Graham is leading the charge against President Donald Trump’s impeachment and removal in the Senate, even as the White House remains largely uninvolved. Graham, who just last week said he had had “enough” of Trump’s bid to overturn the election results after he incited a deadly riot at the Capitol,"
+    publishedDateTime: 2021-01-13T18:11:00Z
+    webUrl: "https://www.politico.com/news/2021/01/13/senate-republicans-impeachment-trump-trial-458934"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/13/senate-republicans-impeachment-trump-trial-458934"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/13/senate-republicans-impeachment-trump-trial-458934"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/3a/22/e398ada649c6a8ddfc396326c1a2/210113-graham-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "Rv+hXhj8dB+57xPb374kbATsmODNh5a1FXrnkJpkou7vepMfqu2Dhc1q75XWSjN7yp+f8lSRrWEeWVMj2czdpIHus1MnAOxy0U9Yoh4pTd6z6WH20adzChmosIEcQE5J7EB189iZRFo48ZUWH34lrQS8BoL3nYTsNKzr4kPtuT5I8C4XS9uiLbVtbFqc2Ybx01oD+xSVV5twbGZR5HvgI98mFmHtExAl08d7diq4LH4bM/eGk2rFRyr7DrDuskZfNHK6wSwOCTBsBA6Zv2SCW1f/fjGBbY9zQ2jxHNSFE+kEk4nNcEmvRfnIuEc+Ir0xAhNqpqHFg9Qe020Hdq1SyDnkBKdxBLQdj+wYS3+nhcibKDhqTezAL0yn6KqPdpaGbx9PHlLcjsu1DyxCZhWNX+6stWy6EBcMwvKvRxKz41CMnMrxlsCaeeInfIybyz33NdddQU/MNmK3oyMIx7PTgA2YyzB0Jt7RrDdkQ0U5vOCDUp85HIm+aFbXJNlC4tbq8Sz8WoTW+O822rjGWRmlgw==;ffKm3UFysLgJmJ1MnqJv/A=="
 ---

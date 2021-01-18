@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/11/politics/manhattan-vance-trump-ba
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/11/politics/manhattan-vance-trump-banks/index.html"
 type: article
 quality: 170
-heat: 210
+heat: 230
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Manhattan DA expands criminal investigation into Trump Organization finances to include family compound in Westchester County"
+    excerpt: "The Manhattan district attorney's office has expanded its criminal investigation into the Trump Organization's finances to include the family's compound in Westchester County, according to lawyers and people familiar with the investigation.\n    \n"
+    publishedDateTime: 2021-01-15T21:48:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f5eZlbRGPNI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/manhattan-da-trump-organization-family-compound-westchester/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/manhattan-da-trump-organization-family-compound-westchester/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 148
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200830120243-01-trump-0731-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Full Gabriel Sterling Interview: Trump has a 'higher' responsibility"
     excerpt: "Gabriel Sterling, Voting System Implementation Manager for the State of Georgia, talks to Meet the Press about why he spoke out against President Trump's push to reverse the vote in Georgia."
     publishedDateTime: 2020-12-06T14:46:00Z

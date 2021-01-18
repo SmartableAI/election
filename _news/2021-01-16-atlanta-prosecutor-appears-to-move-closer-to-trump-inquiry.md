@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Silent Melania Trump plods toward end of her husband's tumultuous term"
-    excerpt: "Two days after his supporters rioted on Capitol Hill last week, President Donald Trump informed the world he would not be attending President-elect Joe Biden's inauguration.\n    \n"
-    publishedDateTime: 2021-01-14T14:46:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9lF-ijGf5fA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/melania-trump-impeachment-donald-trump-riot/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/melania-trump-impeachment-donald-trump-riot/index.html"
+  - title: "Trump finishes with worst first term approval rating ever"
+    excerpt: "Poll of the week: A new Quinnipiac University poll finds that President Donald Trump's approval rating stands at 33%, while his disapproval is at 60%.\n    \n"
+    publishedDateTime: 2021-01-16T14:05:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fhh5Db9b8u8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/trump-approval-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/trump-approval-analysis/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181003153208-melania-trump-1003---9-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114184452-05-week-in-photos-0114-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -96,67 +96,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "How Facebook and Twitter decided to take down Trump's accounts"
-    excerpt: "The Facebook and Twitter suspensions were a landmark moment for America's social media giants and the most visible demonstration yet of their absolute power."
-    publishedDateTime: 2021-01-16T20:25:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/how-facebook-twitter-decided-take-down-trump-s-accounts-n1254317"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254317"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254317"
+  - title: "Trump approval remains stable in new NBC poll, with Republicans unmoved after Capitol violence"
+    excerpt: "Eighty-seven percent of Republicans approve of how Trump is doing his job in a new NBC News poll, but half of all voters say Trump is \"definitely worse than most\" presidents."
+    publishedDateTime: 2021-01-18T00:11:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/poll-trump-approval-remains-stable-republicans-unmoved-after-capitol-violence-n1254457"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254457"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254457"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 123
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_02/3442180/210114-donald-trump-phone-ew-617p_dbdc2ae89b3dfdef17d0939de4bb8931.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "House poised to impeach Trump for second time: 'Incitement of insurrection'"
-    excerpt: "The House is expected to impeach  Wednesday afternoon for a second time, charging the president with \"incitement of insurrection\" for his role in the violent takeover by a pro-Trump mob of the U.S. Capitol that left five people dead and terrorized lawmakers as they sought to affirm President-elect Joe Biden's victory."
-    publishedDateTime: 2021-01-13T18:01:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/house-poised-impeach-trump-second-time-incitement-insurrection-n1254051"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254051"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254051"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_02/3441711/210113-donald-trump-mc-1144_a534ace83ed9834fb73d0c7b10bf5b7a.JPG"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Live Updates: Pelosi Threatens Impeachment if Trump Doesn’t Resign ‘Immediately’"
-    excerpt: "The House could vote on impeachment next week. President Trump will not attend President-elect Joe Biden’s inauguration. With less than two weeks left of Mr. Trump’s presidency, a wave of resignations hits his cabinet."
-    publishedDateTime: 2021-01-08T14:19:00Z
-    webUrl: "https://www.nytimes.com/live/2021/01/08/us/trump-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2021/01/08/us/trump-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/08/us/trump-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 130
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/08/us/politics/08transition-briefing-impeach-sub/08transition-briefing-impeach-sub-videoSixteenByNineJumbo1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Palm Beach County, Girl Scouts are latest organizations seeking to end leases with Trump"
-    excerpt: "The list of companies and organizations looking to cut business ties with President Donald Trump after last week’s attack on the Capitol is getting longer. Palm Beach County in Florida said Thursday that it is exploring ending its lease with the president's prized West Palm Beach."
-    publishedDateTime: 2021-01-15T21:55:00Z
-    webUrl: "https://www.nbcnews.com/business/business-news/palm-beach-county-girl-scouts-are-latest-organizations-seeking-end-n1254435"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254435"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254435"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 126
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3442442/210115-donald-trump-palm-beach-golf-course-se-209p_f64f3b9cdfefe8b4510f011d3cb8a60e.jpg"
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3442712/210117-donald-trump-jm-0942_e8286158fcd963929b360a5a731b99aa.jpg"
         width: 2500
         height: 1667
         isCached: true

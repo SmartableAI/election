@@ -46,6 +46,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump leans on QAnon figures in flailing effort to overturn election"
+    excerpt: "Trump has recently hosted three QAnon heroes at the White House, surged his QAnon-boosting activity on Twitter and toyed with ideas circulating in the QAnon community."
+    publishedDateTime: 2020-12-23T23:25:00Z
+    webUrl: "https://www.politico.com/news/2020/12/23/trump-qanon-effort-overturn-election-450301"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/59/e4/38a776e34d0fa30664633153f04f/static.politico%20(29).jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "g2kFVT2NjRerrOcmnfqvTgSi3c7r19tianM3yQ1RL1/BsdDqFCpy0SFm/y4bCIV2iA2Hjs9AToTxhOMWIrK/Z0iGux4bd0qwhSCCmzTnsSCC0J9QLE/kAbfTfmdX/SL+Et2UPN2NdKT+6jMFT2OR4k1wyylvVsrocI9afg+jDvs+nMkgB2UZ8cfC5jUnPXnS83yQyf5g7ToYBoGEm57VG0a/1C41Gkq11dwaW4o+2JjsPR0eha8/a7mpTYLdLs+yLTAgf41BiFlLkpaprEiPMGvf644XrwyHC6I1BiGJ+KhavwLXvriixN7ToQonBaXS8yvaMRmPnF3K/LTr3FWPuktUPCntBDGJfWcoev78b0g=;n50HbgMDHZn1l1nkm9zHrw=="
 ---

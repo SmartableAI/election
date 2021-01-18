@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Defense officials worry about insider attack from service members deployed to Biden inauguration"
+    excerpt: "The concerns prompted the FBI to vet all 25,000 National Guard troops in the city, Fox News has learned."
+    publishedDateTime: 2021-01-18T05:07:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mAWvMts6Dvo/live-updates-biden-inauguration-1-18-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-18-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inauguration-1-18-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dad6c219-29aa-4014-9f33-7e3e1c7f25e7/689e2f28-a07d-4736-a369-7ff66a5f5798/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "u0IwZZRMQNyDogg2TqGHT6f7BLsIDA6X79zeUYJsq29Xh5fkfUhXjZLBAuv/65FZJwFxtCTFXJE+y8pTMekKitiaNH4hwZv9lGJ3Eu76eBOrfswa0FPi3DsNs+ENN89QmEnwHCeGDB9ZmxSGkXyUBc+tWQMwbvBCDCF289Ch211blLCPW8IIPbdeENjZdTwjrKu1SOvCO4HNisNCS9cIlwAlTVEFLXFmmsP/IIAlDN0FbZuvKzDpDs4+lCQ/3aukYp9TnrXDki1URZd9KZS+r7eOHleDhTTxGyrQIzBB7z6jig7Ea4q8nYZSIriAcr2VnLFtNzxkdwpI8MDCTCay5hIY6DuzG947HmQR7JbKXNk=;Ri63fpkwz/6gbcgP7Vh0XQ=="
 ---

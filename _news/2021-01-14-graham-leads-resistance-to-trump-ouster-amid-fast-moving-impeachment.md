@@ -32,149 +32,83 @@ images:
     isCached: true
 
 related:
-  - title: "Biden chief of staff doesn't rule out stopping intelligence briefings for Trump"
-    excerpt: "Joe Biden's incoming White House chief of staff on Sunday did not rule out blocking President Donald Trump from receiving intelligence briefings once he is a private citizen.\n    \n"
-    publishedDateTime: 2021-01-17T18:01:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ohY0_zLX7ag/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/ron-klain-trump-briefings-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/ron-klain-trump-briefings-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 186
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111195736-ron-kain-feb-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact-checking Trump's impeachment debate in the House"
-    excerpt: "Only 13 months after the House first impeached President Donald Trump, lawmakers were back on Wednesday voting to impeach Trump an unprecedented second time for a US president. During the debate on the resolution, which charges that Trump incited a violent insurrection against the government on January"
-    publishedDateTime: 2021-01-13T22:43:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3iC7fAkt82g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/house-impeachment-hearing-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/house-impeachment-hearing-fact-check/index.html"
+  - title: "Graham: Trump and I have had a hell of a journey, but enough is enough"
+    excerpt: "Republican Sen. Lindsey Graham, who has been a staunch supporter of President Trump, vigorously defended to certify the electoral college votes on the Senate floor.\n    \n"
+    publishedDateTime: 2021-01-07T03:38:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-rodRQ0xGIw/lindsey-graham-capitol-certification-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/01/07/lindsey-graham-capitol-certification-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/07/lindsey-graham-capitol-certification-sot-vpx.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113094216-15-trump-impeachment-0113-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106222257-graham-senate-floor-speech-vpx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Liz Cheney, No. 3 House Republican, to vote to impeach Trump"
-    excerpt: "Wyoming Republican Rep. Liz Cheney, the party's third-ranking House leader, announced on Tuesday that she will vote to impeach President Donald Trump, becoming the highest-ranking official from her party to support charging and removing him from office following the Trump-incited riot at the Capitol"
-    publishedDateTime: 2021-01-13T00:09:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zMF1_XHZTPQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/cheney-supports-impeachment/index.html"
+  - title: "Lehigh University has rescinded Trump's honorary degree"
+    excerpt: "Lehigh University, a private college in Pennsylvania, has revoked the honorary degree it awarded President Donald Trump more than 30 years ago.\n    \n"
+    publishedDateTime: 2021-01-08T22:36:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JFq8Raeg0BQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/trump-honorary-degree-rescinded-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/trump-honorary-degree-rescinded-trnd/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200723145511-liz-cheney-trump-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108161106-lehigh-university-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden on track to take office without key Cabinet roles in place "
-    excerpt: "President-elect Joe Biden is on track to take office without key Cabinet members being confirmed on the day of his inauguration, a result of the Republican-led Senate moving much more slowly to schedule confirmation hearings and votes than it has for previous presidents.\n    \n"
-    publishedDateTime: 2021-01-17T22:05:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iFr1RYKmGwc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/biden-nominee-confirmations/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/biden-nominee-confirmations/index.html"
+  - title: "Trump will visit his border wall on the heels of deadly Capitol Hill riot "
+    excerpt: "President Donald Trump will bookend his administration's focus on immigration with a trip to his signature border wall on the US-Mexico border, a visit on the heels of a deadly riot on Capitol Hill incited by the President as House Democrats prepare a second impeachment vote.\n    \n"
+    publishedDateTime: 2021-01-12T11:29:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J0vV2aad09M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/trump-border-wall-capitol-hill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/trump-border-wall-capitol-hill/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114130552-joe-biden-0108-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222230738-trump-media-final-days-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Acting secretary of defense orders NSA chief to install Trump loyalist as agency's general counsel"
-    excerpt: "The acting secretary of defense is trying to install a Trump loyalist as the top lawyer at the National Security Agency, according to three sources familiar.\n    \n"
-    publishedDateTime: 2021-01-17T04:37:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cnGOPz3S3Rc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/nsa-counsel-michael-ellis-christopher-miller/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/nsa-counsel-michael-ellis-christopher-miller/index.html"
+  - title: "A Mob and the Breach of Democracy: The Violent End of the Trump Era"
+    excerpt: "As angry Trump supporters massed in the capital and a futile challenge to Joseph R. Biden Jr.’s victory unfolded in Congress, the president most likely succeeded in handing Washington to the Democrats."
+    publishedDateTime: 2021-01-06T18:55:00Z
+    webUrl: "https://www.nytimes.com/2021/01/06/us/politics/trump-congress.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/06/us/politics/trump-congress.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/06/us/politics/trump-congress.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116213644-nsa-file-2018-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "What the Electoral College vote means for Trump and Biden"
-    excerpt: "All 50 states have already certified their election results ensuring that Joe Biden will be the 46th president, but the Electoral College vote makes the result official. Trump and some Republican had sought to have electors removed in four crucial battleground states,"
-    publishedDateTime: 2020-12-13T16:06:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/what-electoral-college-vote-means-trump-biden-n1250595"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1250595"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1250595"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 150
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_50/3434930/201210-electoral-count-congress-2013-ac-606p_ea22e3050be6b29ce9da3ad45ea6fbfa.jpg"
-        width: 2500
-        height: 1513
-        isCached: true
-  - title: "Brian Kemp has a Donald Trump problem"
-    excerpt: "Brian Kemp, who went from Trump acolyte to Trump scapegoat when he refused to overturn Biden's win in the Peach State, and his pending 2022 reelection race. Trump has made no secret of his desire to oust Kemp in next year's Republican primary."
-    publishedDateTime: 2021-01-14T23:39:00Z
-    webUrl: "https://www.cnn.com/2021/01/14/politics/brian-kemp-donald-trump-georgia-2022/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/brian-kemp-donald-trump-georgia-2022/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/brian-kemp-donald-trump-georgia-2022/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
+      name: New York Times
+      domain: nytimes.com
     quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190506103219-brian-kemp-file-12132018-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2021/01/06/us/politics/06dc-scene4-sub/merlin_182048145_00a88458-3487-4817-a342-ccf94566fb5b-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Diminished Trump leaves a vacuum for 2024 hopefuls"
-    excerpt: "Potential 2024 presidential candidates have stepped into the spotlight in the last week, sensing a new opportunity to lead within the party."
-    publishedDateTime: 2021-01-15T09:35:00Z
-    webUrl: "https://www.politico.com/news/2021/01/15/donald-trump-vacuum-2024-presidential-candidates-459536"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/15/donald-trump-vacuum-2024-presidential-candidates-459536"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/15/donald-trump-vacuum-2024-presidential-candidates-459536"
+  - title: "Live House Vote: The Second Impeachment of Donald J. Trump"
+    excerpt: "See how each House member votes on the article of impeachment charging President Trump with inciting violence against the country."
+    publishedDateTime: 2021-01-13T19:23:00Z
+    webUrl: "https://www.nytimes.com/interactive/2021/01/13/us/politics/trump-second-impeachment-vote.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
     images:
-      - url: "https://static.politico.com/96/5e/8dcb123e4b3db6d412ef51dbe711/gettyimages-1290145039-c.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Psaki: Biden White House will make visitor logs public"
-    excerpt: "The White House will restart the release of its visitor logs once President-elect Joe Biden takes office, Biden transition spokesperson Jen Psaki announced Friday. The move is a shift from President Donald Trump's White House, which kept visitor logs to ..."
-    publishedDateTime: 2021-01-17T18:26:00Z
-    webUrl: "https://www.politico.com/news/2021/01/15/biden-white-house-visitors-459842"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/15/biden-white-house-visitors-459842"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/15/biden-white-house-visitors-459842"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/69/47/488535ab4ef7a9283c84e09a80f8/ap21009633809621-1.png"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2021/01/13/us/trump-second-impeachment-vote-promo-1610558373191/trump-second-impeachment-vote-promo-1610558373191-facebookJumbo-v3.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "4O4NERINdKXGUaZQOeqWelWWymIetMLROhZusR2YDc6Bl5ZcxnpA9jar7RGEKi2Dggb63vX8AKiOdRIPDMAixGoLg2ZB1luplvDydu0PFGSifxzOA96efX3P9tZAMcHjmh3u14Nl08SoSvvQ+8MgG1anWhegR8hzXYBj3lnzH4nd8RUgeC7BUDTrInk/B01vfZd6dNk83DY0opV2r7jAyc6YqxCjsCTKQ0shMvTPamiRyRxPlEO/l1mgayN5LJEE1g46D+IKj06Pbb0MHWLdBbdyyh+Y7FgPeEJsjLzjzLAN9rA9d3QY4Vin01TRUCo2qK36GusvaW1FACwoW27No6/3PmUpVzAjCizMn2Q80FxfVrAAWtON7tU9qhnpwQgKFP8qFxRWZqLZcA4/TNtk82A9Pqx2yK9+qzBpJ4Ra0nf+NL1crYTNKsudpJKh/C9ZJUjH+ND+oBP1gLk48kQEOmcjRKNNOqvkpSBhiltPOXMSagIDY4FOYuHfZ4a30NlARI/gvJYtaeke+Wh3QNIQzQ==;s/PV/8dp5UHMYTI8v2iX9w=="

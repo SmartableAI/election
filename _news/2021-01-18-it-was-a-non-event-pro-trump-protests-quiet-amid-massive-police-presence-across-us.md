@@ -2,9 +2,9 @@
 category: news
 title: "'It was a non-event': Pro-Trump protests quiet amid massive police presence across U.S."
 excerpt: "Law enforcement officers far outnumbered protesters at state capitol grounds on Sunday, as few Trump supporters who believe the president's false claim that he won the 2020 election turned out for what authorities feared could be violent demonstrations."
-publishedDateTime: 2021-01-18T02:14:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump-protests/law-enforcement-officials-brace-for-pro-trump-protests-at-state-capitol-buildings-idUSKBN29M048"
-webUrl: "https://www.reuters.com/article/uk-usa-trump-protests/law-enforcement-officials-brace-for-pro-trump-protests-at-state-capitol-buildings-idUSKBN29M048"
+publishedDateTime: 2021-01-18T06:35:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-trump-protests/it-was-a-non-event-pro-trump-protests-quiet-amid-massive-police-presence-across-u-s-idUKKBN29M048"
+webUrl: "https://www.reuters.com/article/uk-usa-trump-protests/it-was-a-non-event-pro-trump-protests-quiet-amid-massive-police-presence-across-u-s-idUKKBN29M048"
 type: article
 quality: 97
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548124964&r=LYNXMPEH0G0GQ&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548124583&r=LYNXMPEH0G0GB&w=800"
     width: 800
     height: 533
     isCached: true
@@ -92,6 +92,6 @@ related:
         height: 533
         isCached: true
 
-secured: "aXzE5daLjyzjCVRnNJwlSZoeNbZ+dj038ZTJvvxZzJJJ+6/EnJuizK0C9vD/wkFoR7SEGDKFohmk7G+e8EQHN5caVus0m53fLS8OuqAHPUtcGe9ICTFj17oHyVqzf6Qr4NR/usSCHPlSog0GKfIfra1b0XO8zTwmZ5PixWzsWfzCanCEg5vwP6/QtnuNNUgIkQDabUokAq+KRchEVBkEjjrT+GZy0BXtYt15mht2PuxFVrvNvH3iBpByOqIWhKhnQztqDk76cJYvRvfB5s/ZYZ5yMXunC9r2bhUoVFaBIAkH+DhIrtHrCpmbEeMHEK+wd3KHVqdTKTTAVTE8tviSd60O3wB2j+jKgIDexHUv6/dYADQZrQl1QxN7HMApRsYFb3vtMQzdWB/yl99xwxuhFv35xHwLvwbxQyV2moWHOu/H4gkqrVl+n5+43Ml+3poWm4FXA1GVhpX62Q+FcsA5xHmxT+2LL9duq9NOZjSlI+UbToAUUkqbBvzeNdcgZhwTVvKUrs47C2U8/7iD6Bz5Kw==;6CuIslWq4zpopjP/6YUkUA=="
+secured: "HQiFwZOIoqrQpkDzTUulpIsgxZip53qdckJeCyPxn20iZHxTmfYStAOPtJkF9byRVozQU0aEGEj7omR8QEcQG1cyScEpVjMG/OePol0113IUXpW8yPVwHCCzSC0rnW5sdu66YGS7NKWbV+zwC7Nz9lyNHXklzeBl6eMQNAdsMp96ZLiQnr4eeg46P0BZwf3OhJnz+7iMAjfty1vXdH7LDeUTCi2wpjDIFY36CruZ8UaOiuztVZRFB+TNdAOHqRKv1esg/oRwgaaKc5idZM87b7LdFFBP/eevOY+FI+IYDDnd2hGJCHl8mbrTNhwugsi4EoNCOo6KiacgVz/vAUvCowJMHQD9OMMMNp7mjyMZ3gc=;S9ejRYr3zV0pBRi19QV+rg=="
 ---
 

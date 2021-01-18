@@ -143,6 +143,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden says his advisers will lead with 'science and truth'"
+    excerpt: "In a dig at the outgoing Trump administration, President-elect Joe Biden says his team of scientific advisers will lead with “science and truth"
+    publishedDateTime: 2021-01-18T01:44:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/biden-science-forefront-administration-75295060"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/biden-science-forefront-administration-75295060"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/biden-science-forefront-administration-75295060"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_7202bb1dd3fb4d92b9cf5bf27cee5bf3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "$2,000 Stimulus Check Update as Joe Biden Pushes for Third Set of Direct Payments"
     excerpt: "President-elect Joe Biden has proposed \"direct cash payments\" totaling $2,000 be given to Americans, including a third stimulus check of $1,400, in addition to the $600 payment issued last month, as part of his $1."
     publishedDateTime: 2021-01-15T14:39:00Z
@@ -200,6 +216,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden faces unrivaled challenges as he takes oath"
+    excerpt: "When President-elect Joe Biden takes the oath of office Wednesday, he'll immediately face an almost unparalleled series of challenges, raising fresh questions about how he will achieve his long-promised unity in a nation so deeply divided."
+    publishedDateTime: 2021-01-18T06:20:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/18/biden-faces-unrivaled-challenges-he-takes-oath/4201592001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fca1b29b-f161-4019-a730-293f2a7dac28_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden intends quick executive actions to propel his agenda"
     excerpt: "On the first day of his presidency, Joe Biden plans to roll back some of President Donald Trump's most controversial policies and take steps to address the coronavirus pandemic, his incoming chief of staff says."
     publishedDateTime: 2021-01-18T04:37:00Z

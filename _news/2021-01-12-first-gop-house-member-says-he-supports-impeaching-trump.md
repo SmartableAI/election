@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "As Trump leaves the stage, Republicans grapple with new conspiracy caucus"
-    excerpt: "Donald Trump may be leaving the White House in a few days, but the umbrella of conspiracy theories he inspired are only just arriving in Washington.\n    \n"
-    publishedDateTime: 2021-01-16T20:34:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Mhb4pVgfOug/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/qanon-gop-trump-congress-future/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/qanon-gop-trump-congress-future/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017195649-07-qanon-candidates-marjorie-taylor-greene-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump antagonizes Republicans with Georgia fundraising ploy"
     excerpt: "Emails and texts raising cash for Trump's PAC have rankled Republicans, who want cash to flow directly to Georgia's endangered GOP senators."
     publishedDateTime: 2020-12-15T01:25:00Z
@@ -94,22 +78,6 @@ related:
       - url: "https://static.politico.com/da/1f/59b5d43848958d4f1d12f634434c/gettyimages-1230110704-1.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "See how Trump's language was echoed by rioters"
-    excerpt: "As the House prepares to vote on impeaching President Donald Trump to condemn his role inciting the riot at the US Capitol, CNN looks at the language Trump used and how it was echoed by rioters."
-    publishedDateTime: 2021-01-13T11:25:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/01/13/trump-protesters-language-capitol-riot-impeachment-laura-jarrett-live-newday-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/01/13/trump-protesters-language-capitol-riot-impeachment-laura-jarrett-live-newday-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/13/trump-protesters-language-capitol-riot-impeachment-laura-jarrett-live-newday-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113110701-video-thumbnail-trump-and-rioter-split-super-tease.jpg"
-        width: 1100
-        height: 619
         isCached: true
   - title: "Poll: Just 8 percent of Republicans support Trump's impeachment and removal"
     excerpt: "Fifty percent of Americans overall agree the president should be impeached and removed for inciting Capitol riot, a new NBC News poll finds."

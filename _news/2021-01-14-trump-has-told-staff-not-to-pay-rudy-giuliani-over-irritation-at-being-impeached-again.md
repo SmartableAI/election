@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "House Democrats would impeach Trump for 'incitement of insurrection'"
-    excerpt: "House Democrats are barreling toward impeaching President Donald Trump for the second time over his role in inciting last week's riots at the US Capitol.\n    \n"
-    publishedDateTime: 2021-01-11T14:51:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6FAMb5i5e2Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/house-democrats-impeachment-plans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/house-democrats-impeachment-plans/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210110181004-01-nancy-pelosi-announcement-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "One day until Trump's second impeachment vote: What happens now"
     excerpt: "The next few days are going to be long, but by the end of Wednesday, we expect that President Donald Trump will be impeached a second time.\n    \n"
     publishedDateTime: 2021-01-12T13:38:20Z
@@ -108,22 +92,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180817124025-01-liz-cheney-lead-image-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "House impeaches Trump for 'incitement of insurrection'"
-    excerpt: "The House is poised to make Donald Trump the first President in United States history to be impeached for a second time on Wednesday with a swift and bipartisan vote to condemn Trump's role inciting the riots at the US Capitol.\n    \n"
-    publishedDateTime: 2021-01-14T00:26:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GlA_Ue3yaj8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/house-vote-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/house-vote-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113140555-03-trump-impeachment-centered-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -219,38 +187,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "READ: House Articles of Impeachment against Donald Trump"
-    excerpt: "The US House of Representatives has released its resolution to impeach President Donald Trump, charging him with \"incitement of insurrection,\" an article for which the House is expected to vote on this week."
-    publishedDateTime: 2021-01-11T09:14:00Z
-    webUrl: "https://www.cnn.com/2021/01/11/politics/house-articles-of-impeachment/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/11/politics/house-articles-of-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/11/politics/house-articles-of-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108101156-22-us-capitol-riots-0106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "A First for an American President, and a First for Donald Trump"
-    excerpt: "In the final moments of his presidency, Mr. Trump is confronting an unfamiliar fate: He is being held to account as never before for things he has said."
-    publishedDateTime: 2021-01-16T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/01/16/us/politics/donald-trump-consequences.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/16/us/politics/donald-trump-consequences.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/16/us/politics/donald-trump-consequences.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/15/us/politics/00trump-consequences-1/00trump-consequences-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "After 2 Impeachments, Giuliani Vows to Continue His ‘Craziness’ for Trump"
     excerpt: "White House officials are universally angry with Rudolph W. Giuliani and blame him for both of President Trump’s impeachments. But he remains one of few people still willing to join Mr. Trump in the foxhole."
     publishedDateTime: 2021-01-15T01:05:00Z
@@ -266,22 +202,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/14/us/politics/14dc-rudy/14dc-rudy-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Highlights and analysis: House impeaches Trump for 'incitement of insurrection'"
-    excerpt: "House debates impeaching Trump for 'incitement of insurrection' in Capitol riot The article of impeachment is expected to pass in the Democratic-controlled House, which would make Trump the first president in U."
-    publishedDateTime: 2021-01-14T22:15:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/live-blog/2021-01-13-trump-impeachment-25th-amendment-n1253971"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253971"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253971"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 131
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_02/3441573/210113-impeachment-live-blog-main-cover-cs_16bb0697e79eeb180cea199979fe03f2.jpg"
-        width: 2500
-        height: 1250
         isCached: true
   - title: "Lawmakers called back to DC to vote on Trump's impeachment, removal under 25th amendment"
     excerpt: "The House will vote Tuesday night to encourage Trump's removal and Wednesday morning on impeachment, House leadership announced.."

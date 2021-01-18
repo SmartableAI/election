@@ -32,101 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "DC attorney general wants to interview Donald Trump Jr. as part of Trump inaugural funds abuse probe"
-    excerpt: "The DC attorney general's office has notified President Donald Trump's son, Donald Trump Jr., that it would like to interview him as part of its investigation into misuse of his father's inaugural funds, a spokesperson with the office tells at CNN.\n    \n"
-    publishedDateTime: 2021-01-14T20:49:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iYHAPLPtFC8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/dc-attorney-general-donald-trump-jr-inaugural-funds-abuse/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/dc-attorney-general-donald-trump-jr-inaugural-funds-abuse/index.html"
+  - title: "'Immediate removal' of President Trump: Full Hakeem Jeffries Interview"
+    excerpt: "In an exclusive interview with Meet the Press, Rep. Hakeem Jeffries (D-N.Y.), Chair, House Democratic Caucus, talks to Chuck Todd about the Democrats' impeachment plans."
+    publishedDateTime: 2021-01-10T14:32:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/-immediate-removal-of-president-trump-full-hakeem-jeffries-interview-99225157671"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99225157671"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99225157671"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120195947-06-donald-trump-jr-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Supreme Court's liberal justices lash out at unprecedented 'rush' of executions as Trump leaves office"
-    excerpt: "As the country focused on the aftermath of riots in the US Capitol and the unprecedented second impeachment of President Donald Trump, the liberal justices of the Supreme Court spent Trump's last full week in office battling his administration's long-term objective to execute 13 federal death row inmates"
-    publishedDateTime: 2021-01-16T14:36:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7BjaYKA1-z8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/trump-federal-executions-supreme-court-justices/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/trump-federal-executions-supreme-court-justices/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 159
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200512105936-03-supreme-court-building-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "DC attorney general says Trump could possibly be charged by city prosecutors with misdemeanor for role in Capitol insurrection"
-    excerpt: "District of Columbia Attorney General Karl Racine warned Sunday that President Donald Trump could possibly be charged by city prosecutors with \"a misdemeanor, a six-month-in-jail maximum,\" amid fallout from the deadly insurrection at the US Capitol earlier this month.\n    \n"
-    publishedDateTime: 2021-01-17T19:23:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/93wACO66a0I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/dc-karl-racine-potential-charge-trump-capitol-riot/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/dc-karl-racine-potential-charge-trump-capitol-riot/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 147
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106122844-02-trump-speaks-dc-protest-0106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Top FEMA official attended Trump's 'Stop the Steal' rally"
-    excerpt: "A top official at the Federal Emergency Management Agency, which has been assisting in preparations for the Inauguration next week, attended President Donald Trump’s “Stop the Steal” rally on Jan. 6. At that rally, Trump urged his followers to ..."
-    publishedDateTime: 2021-01-17T18:18:00Z
-    webUrl: "https://www.politico.com/news/2021/01/15/fema-trump-rally-459734"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/15/fema-trump-rally-459734"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/15/fema-trump-rally-459734"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://static.politico.com/ad/37/43fd268d42649efd54bf08dfbb90/ap20337786621970-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/1610288735582_mtp_full_hakeem_210110_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "‘He has an obligation to them’: Attorney for ‘QAnon shaman’ asks Trump to pardon rioters"
-    excerpt: "The lawyer for the “QAnon shaman” who was part of the deadly siege of the Capitol last week publicly petitioned President Donald Trump on Thursday to pardon his client. In an interview on CNN, attorney Albert Watkins said his client, Jacob Chansley ..."
-    publishedDateTime: 2021-01-17T03:23:00Z
-    webUrl: "https://www.politico.com/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 126
-    images:
-      - url: "https://static.politico.com/07/b6/307e93354e7abd5c6e56ee1bf883/jacob-chansley-773-ap.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Presidential Transition Live Updates: N.S.A. Will Install a Trump Loyalist as Its General Counsel"
-    excerpt: "Vice President-elect Kamala Harris plans to resign from her Senate seat on Monday. An impeachment prosecutor said President Trump committed “the most serious presidential crime” in U.S. history."
-    publishedDateTime: 2021-01-17T17:10:00Z
-    webUrl: "https://www.nytimes.com/live/2021/01/17/us/inauguration-day-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2021/01/17/us/inauguration-day-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/17/us/inauguration-day-biden.amp.html"
+  - title: "Live Updates: Pelosi Threatens Impeachment if Trump Doesn’t Resign ‘Immediately’"
+    excerpt: "The House could vote on impeachment next week. President Trump will not attend President-elect Joe Biden’s inauguration. With less than two weeks left of Mr. Trump’s presidency, a wave of resignations hits his cabinet."
+    publishedDateTime: 2021-01-08T14:19:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/08/us/trump-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/08/us/trump-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/08/us/trump-biden.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 122
+    quality: 130
     images:
-      - url: "https://static01.nyt.com/images/2021/01/17/us/politics/17transition-briefing-promo1/17transition-briefing-promo1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://static01.nyt.com/images/2021/01/08/us/politics/08transition-briefing-impeach-sub/08transition-briefing-impeach-sub-videoSixteenByNineJumbo1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "RRmwLZkFZ8WWQoLsYdZ1iHJEtWaIauhIN2et4/GB0WYjs3f/iLM774WrKko4UCmHny4JnZLz2/5pFJ/nmDppQ+eaVB1dyUxQw6XDHHGR5CBtv5XXPWCueZnFUoHWJwZrkV0squ+gn6q2MYP21ft8ByGweN4bBD3lTuc5KRo2/66hwNmI90eA0SzLN/Pe+0/WTxBr3GzhG8MxvchxLhj8z2eFmB4NJWF3C0GOv1gAeKfx1L2CULw/F3n6jJGwG4A6SJJZyNUiTtxJS2dGPDfbb9XNLTo3VjtyQFtxt/OaEfLVC2Y/t9xTSI54dqw7ZJjchrGDg4yh3WvO7MAVtV2T4nAWZoynwjVZVgLMOpk78EQ=;H9RZzLKNUfDiD7255clqHA=="

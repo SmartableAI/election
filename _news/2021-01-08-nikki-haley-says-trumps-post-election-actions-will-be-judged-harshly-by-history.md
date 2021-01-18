@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/nikki-haley-trump/index.
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/nikki-haley-trump/index.html"
 type: article
 quality: 184
-heat: 244
+heat: 204
 published: true
 
 provider:
@@ -31,36 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's actions in last days as President increase his legal jeopardy"
-    excerpt: "President Donald Trump's actions during his final days in office have significantly increased his exposure to potential criminal prosecution, lawyers say, complicating his life after the White House.\n    \n"
-    publishedDateTime: 2021-01-13T14:38:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Cgtw9MH9OOg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/13/politics/trumps-actions-increase-legal-jeopardy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/trumps-actions-increase-legal-jeopardy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112204819-trump-arrives-white-house-1112-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump denounces insurrection, after getting impeached over it"
-    excerpt: "The president, in a new video, called on his supporters not to engage in violent demonstrations that federal law enforcement warns might be brewing."
-    publishedDateTime: 2021-01-14T00:20:00Z
-    webUrl: "https://www.politico.com/news/2021/01/13/trump-denounces-capitol-attack-459074"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/37/08/1bda4a254d3bbd36d058b46e8994/210113-trump-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "How Josh Hawley Learned to Stop Worrying and Love Donald Trump"
     excerpt: "Until recently, the senator leading the charge to discredit Biden’s victory was a creature of the ultraconservative establishment. Then he discovered Trump’s faux populism."
     publishedDateTime: 2021-01-06T10:34:00Z

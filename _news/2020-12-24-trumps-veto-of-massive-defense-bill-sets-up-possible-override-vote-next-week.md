@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Pentagon under pressure from Trump administration to split NSA and Cyber Command"
-    excerpt: "The Trump administration is pushing to make major adjustments to the Pentagon organizations charged with cybersecurity and signals intelligence, according to a US defense official.\n    \n"
-    publishedDateTime: 2020-12-20T01:59:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rAgg3jyefCs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-pentagon-nsa-cyber-command/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130128052250-pentagon-aerial-shot-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "UHMGNVhS8x9B+eXLBd9QnnTZGk8a8AQLQaYngU7vfRHGMMWjpVthYuCeglTQCH8SoapRaRFrK1YfJJs7d2O45oh+VKlDKUCFH5zGwJvyxKpVRAMZ1Af00TFJahR9PtC/Fv/ml7HUJQMh8Dqf4r1U45ruxW9LISrFfvrUvi6tlydXsC9PJe0XBNFzMS9mLCrIhCm/ZXhtz9JOWcFeOlkdWlrXqh3Ma34Xt6ouIVzuMdAFYY8Ry3jx127z9MPRZFi1FeUa1B3rfDu2Aq0iREWPVEGzRaxi0ELQHLb2Jyc8WbZ2WFLn6wiZ3qy/E9nYwVYD52zwFZI1/7mf9a9JgIY/VqmUWL5sQim62e3D86qg2bU=;NBo/hYqqA/bjN/zszrxPvg=="
 ---

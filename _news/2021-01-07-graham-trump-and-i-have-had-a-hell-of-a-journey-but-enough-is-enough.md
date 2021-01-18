@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/01/07/lindsey-graham-ca
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/07/lindsey-graham-capitol-certification-sot-vpx.cnn"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/06/us/politics/06dc-scene4-sub/merlin_182048145_00a88458-3487-4817-a342-ccf94566fb5b-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Graham leads resistance to Trump ouster amid fast-moving impeachment"
+    excerpt: "Lindsey Graham is leading the charge against President Donald Trump’s impeachment and removal in the Senate, even as the White House remains largely uninvolved. Graham, who just last week said he had had “enough” of Trump’s bid to overturn the election results after he incited a deadly riot at the Capitol,"
+    publishedDateTime: 2021-01-13T18:11:00Z
+    webUrl: "https://www.politico.com/news/2021/01/13/senate-republicans-impeachment-trump-trial-458934"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/13/senate-republicans-impeachment-trump-trial-458934"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/13/senate-republicans-impeachment-trump-trial-458934"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/3a/22/e398ada649c6a8ddfc396326c1a2/210113-graham-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Live House Vote: The Second Impeachment of Donald J. Trump"
     excerpt: "See how each House member votes on the article of impeachment charging President Trump with inciting violence against the country."
