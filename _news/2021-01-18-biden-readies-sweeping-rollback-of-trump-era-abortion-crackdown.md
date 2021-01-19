@@ -336,6 +336,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration expects early focus on domestic extremism threat"
+    excerpt: "The Biden administration will make domestic terrorism a significant focus of the National Security Council, a reflection of the significant threat the country is facing as it deals with the aftermath of the Capitol Hill riots, a person familiar with the matter tells CNN.\n    \n"
+    publishedDateTime: 2021-01-19T15:53:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4bVg5nWjOVk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/biden-focus-domestic-terrorism/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/biden-focus-domestic-terrorism/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112133611-biden-national-security-team-1124-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How to watch Biden's Cabinet confirmation hearings Tuesday"
     excerpt: "Five of President-elect Joe Biden's national security Cabinet nominees will face Senate panels on Tuesday in the first step of the confirmation process.\n    \n"
     publishedDateTime: 2021-01-19T12:39:07Z
@@ -400,6 +416,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Dale: Reflections on four weird years fact checking every word from Donald Trump"
+    excerpt: "I had to email the Boy Scouts to find out if the President had invented a nonexistent phone call from the head of the organization. (He had.)\n    \n"
+    publishedDateTime: 2021-01-19T15:45:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FaH_eddTHTc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/fact-check-daniel-dale-reflections-fact-checking-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/fact-check-daniel-dale-reflections-fact-checking-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118002735-05-donald-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "See the 'Field of Flags' planted on the National Mall ahead of Biden's inauguration"
     excerpt: "Instead of the patriotic crowds that typically fill the National Mall on Inauguration Day, President-elect Joe Biden will be sworn in before hundreds of thousands of American flags.\n    \n"
     publishedDateTime: 2021-01-19T14:40:50Z
@@ -448,6 +480,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Avril Haines, Biden's DNI pick, pledges to keep politics out of intelligence after Trump's wars with intelligence community"
+    excerpt: "Avril Haines, President-elect Joe Biden's nominee to be director of national intelligence, pledged Tuesday to turn the corner after President Donald Trump's warring with the intelligence community.\n    \n"
+    publishedDateTime: 2021-01-19T16:06:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rmLnm2FvGn8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/avril-haines-hearing-senate-intelligence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/avril-haines-hearing-senate-intelligence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119105843-01-avril-haines-confirmation-hearing-0119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Supreme Court's liberal justices lash out at unprecedented 'rush' of executions as Trump leaves office"
     excerpt: "As the country focused on the aftermath of riots in the US Capitol and the unprecedented second impeachment of President Donald Trump, the liberal justices of the Supreme Court spent Trump's last full week in office battling his administration's long-term objective to execute 13 federal death row inmates"
     publishedDateTime: 2021-01-16T14:36:03Z
@@ -461,6 +509,22 @@ related:
     quality: 159
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200512105936-03-supreme-court-building-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Brayden Harrington, who bonded with Biden over stuttering, to appear in prime-time inauguration special"
+    excerpt: "Brayden Harrington, the 13-year-old New Hampshire boy who bonded with President-elect Joe Biden over their shared experience with stuttering, will be part of the prime-time special capping off Biden's inauguration on Wednesday evening.\n    \n"
+    publishedDateTime: 2021-01-19T16:06:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LvUFHiqBUXI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/brayden-harrington-biden-inauguration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/brayden-harrington-biden-inauguration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200205222554-01-joe-biden-stutter-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -589,6 +653,22 @@ related:
     quality: 147
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106122844-02-trump-speaks-dc-protest-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's daughter Ashley on not having traditional hand-off at White House on Inauguration Day: 'I think we're all OK with it' "
+    excerpt: "President-elect Joe Biden's daughter, Ashley Biden, did her first network television interview with another member of the small club of presidential children, Jenna Bush Hager of NBC.\n    \n"
+    publishedDateTime: 2021-01-19T16:04:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_ijXjOJ8zjI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/ashley-biden-interview/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/ashley-biden-interview/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 147
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170908121025-ashley-biden-joe-biden-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

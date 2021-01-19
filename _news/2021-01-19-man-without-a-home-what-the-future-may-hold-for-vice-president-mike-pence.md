@@ -2,17 +2,17 @@
 category: news
 title: "'Man without a home.' What the future may hold for Vice President Mike Pence"
 excerpt: "After four years of steadfast loyalty to Trump, Pence is said to be open to a 2024 run, but his rift with the president may close off that option."
-publishedDateTime: 2021-01-19T12:03:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
+publishedDateTime: 2021-01-19T11:47:00Z
+originalUrl: "https://www.indystar.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
+webUrl: "https://www.indystar.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -113,6 +113,6 @@ related:
       domain: fresnobee.com
     quality: 35
 
-secured: "XHUEAThQOD8GT8aZyk5PebX8xnFEZPRH6Y5idNKS114uZsGq14zYZ/RhNEqL4nwpfxkOmcxVhLODBoQz+IWx76zh9cJVaAupwWTCIok5ejeaYR6G/9VOsYjK3L0lagaH/ckrIPVGuntNYOZsn+WxaIP5PTaNQ5Zc160gVeTP8GHHnro4kRPM9c0jttAGlTVR1l/4HRxNXKVp9mduc35bESuW99F7/MB4T1F7j/uwdjGiYpj99uHBmLqAjeGB+rmOP00vSSMt1JzkSzHJbTHbVhHT7xNqHPl8Iu9VrtgaGrQ5m8lN7nbFs6CEXMlsmUkuA5XydXP4bMGAgJMJYxrIiA/OnsThhElJ5ir0t77kDa677ePZIf7YyDQsPysH4YigOu9Ciw3HRw2alPoBUBHIYPJ3SB8z/gQSdYGaUz0o5b0CPPEoaQuljUt6KmdPMZ7wrGxryIaaK8s63l1mzxwgv9aZJqOYqL7zO903m8yZZR2nsNWSh7ChzZfpAPJhl3qGFM3krHMq2Qaap/qepPL+CQ==;TghQn4FDxKywkVqjQeXxBg=="
+secured: "rvlKXeC9QrD3vnFsTn5fImu1yj3DmwErCrfEKIjGAyEZUE+tHVvG6gFdHWEkYx338I/5vRF4S5GSfmqm7nKREAlwNN77OMNLflOVrNjr2Qk8/pbG8WDnbZbPDBRcfuUVwwk2LwqN5aIYULmye4fmigX8Q4hq7jwHRDlC7izoJIyFAItXf4pl45gVhs3wYuzMIuaaFggPEIg8WgLH1uXJA6j7J30hoQO0JI9XG/pqeWjTSK6WUxz+0D6b0VHV2o9WCT5no94516PRd3/aOlVj7eLHVCJ7zebOimqFSW29AU4C0BhyB9h82WwqvV3zKH9au+u0IIe6uifnOfT1E3XhC4txc6E+x+pL5MwuLumD3RQ=;ICh963SLCm3Dj6ekUwYZ/g=="
 ---
 

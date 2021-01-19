@@ -416,6 +416,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Former Trump campaign staffers worked on National Mall rally the day of the Capitol riot"
+    excerpt: "After the deadly sacking of the US Capitol this month, President Donald Trump's reelection campaign has insisted it had nothing to do with the National Mall rally that preceded the riot and featured a speech from the President.\n    \n"
+    publishedDateTime: 2021-01-19T16:53:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fWST-PB0NMc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/capitol-riot-permits-trump-campaign-invs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/capitol-riot-permits-trump-campaign-invs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118170345-01-trump-era-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence to attend Biden inauguration; Trump never called him in the Capitol bunker, sources say"
     excerpt: "A loyal lieutenant to President Donald Trump, Pence was criticized by the president over his role counting Electoral College votes in Congress and was one of the people trapped inside the U.S. Capitol when Trump supporters stormed the building as the votes were being tallied."
     publishedDateTime: 2021-01-10T09:14:00Z

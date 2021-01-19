@@ -391,6 +391,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "First Thing: Donald Trump slams the door on his way out"
+    excerpt: "Trump is to host his exit ceremony shortly before Biden’s inauguration and issue dozens of pardons. Plus: Comey says the GOP needs to be ‘burned down or changed’"
+    publishedDateTime: 2021-01-19T11:53:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/19/first-thing-donald-trump-slams-door-inauguration-ceremony-biden-coney-pardons"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/19/first-thing-donald-trump-slams-door-inauguration-ceremony-biden-coney-pardons"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/19/first-thing-donald-trump-slams-door-inauguration-ceremony-biden-coney-pardons"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/d5cc090ecdc4fb5d2032ee5f2755ce8249f4d90a/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8b2bd491f6860d9c36ff5e28b2702d0f"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Donald Trump's Inauguration Boycott Welcomed by Republicans and Democrats"
     excerpt: "The president announced he will not attend ahead of his ban from Twitter, as a backlash grows against him over the recent events at the Capitol."
     publishedDateTime: 2021-01-11T15:29:00Z
@@ -1239,6 +1255,22 @@ related:
         width: 800
         height: 535
         isCached: true
+  - title: "Gov. Murphy will be in Washington for Joe Biden’s inauguration"
+    excerpt: "Gov. Phil Murphy will travel to Washington, D.C., to attend Joe Biden’s inauguration as the 46th president of the United States, NJ Advance Media has learned. Murphy, a longtime Biden friend and fellow Democrat,"
+    publishedDateTime: 2021-01-19T16:31:00Z
+    webUrl: "https://www.nj.com/politics/2021/01/gov-murphy-will-be-in-washington-for-joe-bidens-inauguration.html"
+    ampWebUrl: "https://www.nj.com/politics/2021/01/gov-murphy-will-be-in-washington-for-joe-bidens-inauguration.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2021/01/gov-murphy-will-be-in-washington-for-joe-bidens-inauguration.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HYVQZKJFONGCDD4AOZDF45F56U.JPG"
+        width: 3856
+        height: 2483
+        isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."
     publishedDateTime: 2021-01-13T07:29:00Z
@@ -1334,6 +1366,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/11/USAT/c5bf9530-87e0-4af2-b3d8-20bc45f8cc5d-AFP_AFP_8YE8DQ.jpg?auto=webp&crop=3839,2159,x1,y360&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump Spends Last Day In White House, Biden Goes To Washington"
+    excerpt: "President Donald Trump spent his last full day in the White House mulling pardons Tuesday and President-elect Joe Biden was set to arrive in Washington ahead of an inauguration that his predecessor, in a final break with tradition,"
+    publishedDateTime: 2021-01-19T15:07:00Z
+    webUrl: "https://www.ibtimes.com/trump-spends-last-day-white-house-biden-goes-washington-3125264"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/18/president-donald-trump-will-leave-on-marine-one.jpg"
+        width: 1024
+        height: 687
         isCached: true
   - title: "Barack Obama, Kamala Harris Share Heartwarming Birthday Tributes For Michelle Obama"
     excerpt: "Barack Obama, Kamala Harris and more shared heartfelt messages for Michelle Obama on her 57th birthday Sunday."

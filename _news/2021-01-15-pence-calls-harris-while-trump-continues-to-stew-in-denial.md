@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-presidency/index.html"
 type: article
 quality: 225
-heat: 1585
+heat: 1605
 published: true
 
 provider:
@@ -398,6 +398,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112161840-03-trump-impeachment-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Former Trump campaign staffers worked on National Mall rally the day of the Capitol riot"
+    excerpt: "After the deadly sacking of the US Capitol this month, President Donald Trump's reelection campaign has insisted it had nothing to do with the National Mall rally that preceded the riot and featured a speech from the President.\n    \n"
+    publishedDateTime: 2021-01-19T16:53:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fWST-PB0NMc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/capitol-riot-permits-trump-campaign-invs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/capitol-riot-permits-trump-campaign-invs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118170345-01-trump-era-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -271,6 +271,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden immigration bill would put millions of illegal immigrants on 8-year fast-track to citizenship"
+    excerpt: "A radical immigration overhaul to be proposed this week by President-elect Joe Biden would include a path to citizenship that could see millions of illegal immigrants become U.S. citizens in just eight years."
+    publishedDateTime: 2021-01-19T16:33:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OkjypobntOI/biden-immigration-billl-illegal-immigrants-path-to-citizenship"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-billl-illegal-immigrants-path-to-citizenship.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-billl-illegal-immigrants-path-to-citizenship.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff97ad34-f426-498a-92e1-d58ea755a140/a6aaee8e-3882-4d85-b77a-a3ad885fd22b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden team says US 'cannot afford gaps in national security leadership,' urges Senate to confirm nominees"
     excerpt: "Biden transition officials said the U.S. “cannot afford gaps in national security leadership,” urging the Senate Republicans to confirm President-elect Joe Biden’s key nominees ahead of Inauguration Day."
     publishedDateTime: 2021-01-13T20:34:12Z
@@ -444,6 +460,20 @@ related:
       - url: "https://assets.realclear.com/images/53/532403_5_.jpeg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Watch Live: Senate Considers Five Biden Nominees"
+    excerpt: "The Senate is kicking off a series of high-stakes confirmation hearings Tuesday for President-elect Joe Biden's top cabinet nominees. Lawmakers will question his picks to lead the Departments of State,"
+    publishedDateTime: 2021-01-19T15:30:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/19/watch_live_senate_considers_five_biden_nominees.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/532780.jpg"
+        width: 750
+        height: 562
         isCached: true
   - title: "Rahm Emanuel: Biden Has Four Unprecedented Crises, Four Unprecedented Opportunities"
     excerpt: "Former Chicago mayor and former Obama chief of staff Rahm Emanuel comments on the opportunities presented to the Biden administration in the wake of four unprecedented crises, during ABC's \"This Week\" roundtable on."

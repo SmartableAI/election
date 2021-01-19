@@ -417,6 +417,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Former Trump campaign staffers worked on National Mall rally the day of the Capitol riot"
+    excerpt: "After the deadly sacking of the US Capitol this month, President Donald Trump's reelection campaign has insisted it had nothing to do with the National Mall rally that preceded the riot and featured a speech from the President.\n    \n"
+    publishedDateTime: 2021-01-19T16:53:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fWST-PB0NMc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/capitol-riot-permits-trump-campaign-invs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/capitol-riot-permits-trump-campaign-invs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118170345-01-trump-era-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden, Harris to receive daily briefing, Trump to hold award ceremony, bill signing"
     excerpt: "Biden and Harris also will record an interview with CNN, while Trump will present the medal to former football coach Lou Holtz and participate in a bill signing."
     publishedDateTime: 2020-12-03T12:44:00Z

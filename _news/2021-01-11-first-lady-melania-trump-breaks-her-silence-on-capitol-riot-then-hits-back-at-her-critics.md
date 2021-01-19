@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Melania Trump finishes with worst first lady popularity rating ever"
+    excerpt: "Much has been written about President Donald Trump's historically low popularity ratings as he leaves office. But the tarnish on the Trump brand goes beyond the President.\n    \n"
+    publishedDateTime: 2021-01-19T16:51:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EUDaAi3miMk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/melania-trump-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/melania-trump-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210117140135-file-melania-trump-november-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Angry staffer appears to be behind State Department website edits saying Trump's term is over"
     excerpt: "A disgruntled State Department employee appears to have been behind bizarre changes to the department website Monday that stated that President Donald Trump and Vice President Mike Pence's terms were over, two sources told CNN.\n    \n"
     publishedDateTime: 2021-01-11T23:44:32Z

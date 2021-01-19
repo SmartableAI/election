@@ -272,6 +272,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump exits White House with drop in approval ratings"
+    excerpt: "President Trump’s one-term tenure in the White House is ending amid sinking approval public opinion ratings in the wake of this month’s attack on the U.S. Capitol."
+    publishedDateTime: 2021-01-19T15:40:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uCCjyg_0sNE/trump-exits-white-house-on-low-note-polls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-exits-white-house-on-low-note-polls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-exits-white-house-on-low-note-polls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Rep. Donalds: House Dems 'weaponized' race to make Trump impeachment case"
     excerpt: "The left always uses race to weaponize their arguments, Rep. Byron Donalds, R-Fla., said on Thursday in reaction to House Democrats calling President Trump a white supremacist during the impeachment proceedings."
     publishedDateTime: 2021-01-14T13:16:09Z

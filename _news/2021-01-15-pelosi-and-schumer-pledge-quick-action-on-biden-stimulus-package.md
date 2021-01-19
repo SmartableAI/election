@@ -93,6 +93,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Tribal leaders blast congressman opposed to Biden nomination"
+    excerpt: "A group of Native American tribes in a Minnesota congressman’s district is rebuking him for his attempts to derail President-elect Joe Biden’s pick for Interior secretary"
+    publishedDateTime: 2021-01-19T16:47:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/tribal-leaders-blast-congressman-opposed-biden-nomination-75344516"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/tribal-leaders-blast-congressman-opposed-biden-nomination-75344516"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/tribal-leaders-blast-congressman-opposed-biden-nomination-75344516"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "President-elect Joe Biden to name Gary Gensler as U.S. SEC chair, sources say"
     excerpt: "Gary Gensler, a top financial regulator under the Obama administration, is expected to be named chair of the U.S. Securities and Exchange Commission."
     publishedDateTime: 2021-01-12T17:47:00Z

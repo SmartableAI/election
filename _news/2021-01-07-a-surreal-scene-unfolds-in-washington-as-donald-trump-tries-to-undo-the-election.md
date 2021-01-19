@@ -1811,6 +1811,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Trump-Biden transition live updates: Trump unlikely to issue pardons for self, family"
+    excerpt: "Updates during the transition from the Trump to Biden administrations -- and about a second Senate impeachment trial."
+    publishedDateTime: 2021-01-19T02:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-trump-2020-election-transition-inauguration/?id=75311140"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-trump-2020-election-transition-inauguration/?id=75311140"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-trump-2020-election-transition-inauguration/?id=75311140"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
+    images:
+      - url: "https://s.abcnews.com/images/General/washington-inauguration-security-razorwire-fence-02-rt-llr-210114_1610669404899_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Trump-Biden transition live updates: 'An absurdity': Chris Christie on Trump and allies' efforts to overturn election"
     excerpt: "Former New Jersey governor and ABC News political contributor Chris Christie, criticized Donald Trump and his allies' efforts to overturn President-elect Joe Biden's ele"
     publishedDateTime: 2020-12-14T00:42:00Z

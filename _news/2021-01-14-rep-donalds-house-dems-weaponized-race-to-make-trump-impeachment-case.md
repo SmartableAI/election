@@ -271,6 +271,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump exits White House with drop in approval ratings"
+    excerpt: "President Trump’s one-term tenure in the White House is ending amid sinking approval public opinion ratings in the wake of this month’s attack on the U.S. Capitol."
+    publishedDateTime: 2021-01-19T15:40:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uCCjyg_0sNE/trump-exits-white-house-on-low-note-polls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-exits-white-house-on-low-note-polls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-exits-white-house-on-low-note-polls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump must be barred from post-presidency intelligence briefings: Schiff"
     excerpt: "House Intelligence Committee Chairman Rep. Adam Schiff said Sunday that President Trump should be barred from receiving intelligence briefings after he leaves office, an opportunity traditionally extended to former presidents."
     publishedDateTime: 2021-01-17T18:36:03Z

@@ -3,10 +3,10 @@ category: news
 title: "VP Mike Pence, wife address crowds at NAS Lemoore"
 excerpt: "Second Lady of the United States Karen Pence visited Naval Air Station Lemoore Saturday to honor military spouses and address some of the struggles they"
 publishedDateTime: 2021-01-17T04:00:00Z
-originalUrl: "https://hanfordsentinel.com/news/second-lady-karen-pence-honors-military-spouses-at-nasl/article_8d66d05e-d422-508c-912d-47712d97e72f.html"
-webUrl: "https://hanfordsentinel.com/news/second-lady-karen-pence-honors-military-spouses-at-nasl/article_8d66d05e-d422-508c-912d-47712d97e72f.html"
-ampWebUrl: "https://hanfordsentinel.com/news/second-lady-karen-pence-honors-military-spouses-at-nasl/article_8d66d05e-d422-508c-912d-47712d97e72f.amp.html"
-cdnAmpWebUrl: "https://hanfordsentinel-com.cdn.ampproject.org/c/s/hanfordsentinel.com/news/second-lady-karen-pence-honors-military-spouses-at-nasl/article_8d66d05e-d422-508c-912d-47712d97e72f.amp.html"
+originalUrl: "https://hanfordsentinel.com/news/vp-mike-pence-wife-address-crowds-at-nas-lemoore/article_8d66d05e-d422-508c-912d-47712d97e72f.html"
+webUrl: "https://hanfordsentinel.com/news/vp-mike-pence-wife-address-crowds-at-nas-lemoore/article_8d66d05e-d422-508c-912d-47712d97e72f.html"
+ampWebUrl: "https://hanfordsentinel.com/news/vp-mike-pence-wife-address-crowds-at-nas-lemoore/article_8d66d05e-d422-508c-912d-47712d97e72f.amp.html"
+cdnAmpWebUrl: "https://hanfordsentinel-com.cdn.ampproject.org/c/s/hanfordsentinel.com/news/vp-mike-pence-wife-address-crowds-at-nas-lemoore/article_8d66d05e-d422-508c-912d-47712d97e72f.amp.html"
 type: article
 quality: 75
 heat: 75
@@ -26,6 +26,6 @@ images:
     height: 683
     isCached: true
 
-secured: "Q1/nj7fBGx31inK0uzUaJvigLqE2lbxxtunwoG1dRieD4ZUt1Z8LA1MKHgDI7guFR98alW8Xp0D7Fv5JsFaAikv5PwqgYpsLSrq9mO4QbnSdkrOB5ba/tJg1ahimKTc/YjdsLVM89uDMfn2iRLZ24ODNxK15Zemi3yJ6Nz+aZzcxrtsjBfxcMcxsHo1HnPE7YfJ/FWfqnlvsy+nn/yxY+7/o7cnSHSfSrH0LGqgIsMZTCi02ugvoLr+WAPfX1WOapEbloecisBcrmmY3Eu5iRBEBPVh2fgd/RP+0JI988DguVVYqKeYSFAavYghxMJj83P+dRYLko/A6TcHLvhsjM9X5m5JJr9DY2rJqsPkDXOY=;r3jkI4EsNrXDBnUkdhHHGw=="
+secured: "yuLc9LWm9ZzF8eaMc3YD6H2UasM0vWy0bbFR7IJPMW0llK5dt5pbYuMVandJyqLWHLzc/ukJO1vbY8gLVirhiC/IX/xKIF4fqgLqhS944YlHy4aX/SHr+8G+lHq/jDrAFy3ZohMKIj7BDJFl9urGihCuJPFE1ZVRZcC83kUgcI48IPpTg2J8ai+tvzE6gHF4ED56yakgjVSuTCiw6i05QkTCunC208t0ZN9p+V59eGFpD/9TZuZ4FyNr0vT3GyrRjIfBs3pAHFH+FV/6prMjJzh0kX9a4XH3/vzkSCBa8zOKcdLeqZuS9OB1P/n0aEgVVnirM+TNnmlxhjEp95fQ/9Fig3SBM0+mfZxLusIERGw=;gbJ1jI731/zz11OoLWkXMQ=="
 ---
 

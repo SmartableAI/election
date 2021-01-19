@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump's trial, Biden's Cabinet picks await Senate post-siege"
+    excerpt: "President Donald Trump’s last full day in office Tuesday is also senators’ first day back since the deadly Capitol siege"
+    publishedDateTime: 2021-01-19T16:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-trial-bidens-cabinet-picks-await-senate-post-75344526"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-trial-bidens-cabinet-picks-await-senate-post-75344526"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-trial-bidens-cabinet-picks-await-senate-post-75344526"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_78be78f51e874ec1b6e3ff585ca01188_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden unveils $1.9 trillion economic relief as Trump's Senate trial looms"
     excerpt: "Majority Leader Mitch McConnell said the Senate would not reconvene before January 19, the day before Mr. Trump leaves office."
     publishedDateTime: 2021-01-15T14:26:00Z
@@ -111,10 +127,10 @@ related:
         width: 1440
         height: 1166
         isCached: true
-  - title: "Biden inauguration: Donald Trump's last full day as US president - live updates"
-    excerpt: "President expected to issue 100 pardons as Covid cases reach 24 million"
-    publishedDateTime: 2021-01-19T09:13:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
+  - title: "Biden inauguration: Donald Trump's last full day as US president – live updates"
+    excerpt: "President expected to issue 100 pardons as Covid cases reach 24 million – follow all the latest news on Trump’s final full day"
+    publishedDateTime: 2021-01-19T13:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates?page=with:block-6006ee7c8f081bab84f55c3a"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
     type: article
@@ -123,7 +139,7 @@ related:
       domain: theguardian.com
     quality: 136
     images:
-      - url: "https://i.guim.co.uk/img/media/349cf390f7ee82d8b05877b1afe2ef02adee9b0c/0_21_3500_2103/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f921214b6862d3e3e1496caec896798"
+      - url: "https://i.guim.co.uk/img/media/14ff0ff1cf92554c2343fbe627855c8a0c3f1d1c/0_0_5557_3333/master/5557.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ad37adcb20c6c3000992e1066a1394e6"
         width: 600
         height: 360
         isCached: true
@@ -1102,6 +1118,22 @@ related:
       name: Time
       domain: time.com
     quality: 74
+  - title: "Joe Bide, Donald Trump, Coronavirus news and more: What’s trending today"
+    excerpt: "A look at some of the top stories trending today including news on Joe Biden, Donald Trump's final days in office, coronavirus updates and much more."
+    publishedDateTime: 2021-01-19T16:16:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/joe-bide-donald-trump-coronavirus-news-and-more-whats-trending-today.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/joe-bide-donald-trump-coronavirus-news-and-more-whats-trending-today.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-bide-donald-trump-coronavirus-news-and-more-whats-trending-today.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VZU3INCMZBB5DGJIPRCC6WNWD4.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden Pledges 'New Chapter' But Trump Impeachment Trial Looms"
     excerpt: "Biden promised \"a new chapter\" for the nation on the day after Trump became the first US president to ever be impeached twice, as the incoming Democrat sought to seize the narrative in a primetime address and get Americans looking forward again."
     publishedDateTime: 2021-01-15T02:24:00Z
