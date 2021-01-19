@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-bold-vaccination-trump-dismal
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bold-vaccination-trump-dismal-failure.amp"
 type: article
 quality: 190
-heat: 290
+heat: 330
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Emotional Biden bids farewell to home state of Delaware"
+    excerpt: "President-elect Joe Biden left his home state of Delaware on Tuesday, on the eve of his inauguration as president of the United States."
+    publishedDateTime: 2021-01-19T20:29:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3Tg3QwzLSFo/biden-delaware-farewell-emotional"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-delaware-farewell-emotional.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-delaware-farewell-emotional.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Pelosi urges Pentagon to block 'Trump loyalist' from national security role before Biden's inauguration"
     excerpt: "House Speaker Nancy Pelosi is calling on the acting defense secretary to \"immediately cease\" plans to install so-called \"Trump loyalist\" Michael Ellis as the new general counsel for the National Security Agency (NSA) just days before President-elect Joe Biden is inaugurated, describing the decision as"
     publishedDateTime: 2021-01-19T15:00:36Z
@@ -110,6 +126,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-10.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Emotional Biden bids farewell to home state of Delaware"
+    excerpt: "President-elect Joe Biden left his home state of Delaware on Tuesday, on the eve of his inauguration as president of the United States."
+    publishedDateTime: 2021-01-19T20:34:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-delaware-farewell-emotional"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-delaware-farewell-emotional.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-delaware-farewell-emotional.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Joe-Biden-Delaware-Farewell-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "ihqqs397P1JyNjmUbW5haOdYeoKSxbHQPpFBDZ/Mzl0Wv1Hwa+Zai9gWWvMWQ5iEBYdNIxFKZRkv/Fx8kSrAeVQwP7aOVyAZhDJYmL+y+9ySSPJ4aqVLhgjPMrdU6U2wCWQmgM/9OB/RL0/QwEFuitzN2OfW5BYLPHzuvbLGTmh320EJ6TG8pTCXk0R7v0wOSGMYwt1yoDABIBNXLc+hRsj3QFDxGswPqcIzZK9plLdb6lIvl1iBtz5AvPAKrvL1xADJaFHYATd2cedKcAYhCBkVboQp+NGgVcEN2OQIgBYiAvz4Xj+No0A2LAfYpelrdm+nbD1kKtjiBnOddaPMCtkk9UMuXAIFy54bY3diV4Y=;Z0BteLQm2xy5d34UHSDQdg=="

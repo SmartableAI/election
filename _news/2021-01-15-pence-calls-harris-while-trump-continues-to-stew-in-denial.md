@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-presidency/index.html"
 type: article
 quality: 225
-heat: 1625
+heat: 1645
 published: true
 
 provider:
@@ -382,6 +382,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222084821-01-donald-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'A vote of conscience': GOP senators signal that Trump's fate is in their hands"
+    excerpt: "A wide range of Senate Republicans are noncommittal about whether they are considering convicting Donald Trump of committing high crimes and misdemeanors at his upcoming impeachment trial, a sign that the soon-to-be former President's political future rests squarely with his fellow Republicans who are"
+    publishedDateTime: 2021-01-19T20:36:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tkd02WnF3Dk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/impeachment-republican-senators-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/impeachment-republican-senators-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/171214165902-mitch-mcconnell-december-12-2017-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

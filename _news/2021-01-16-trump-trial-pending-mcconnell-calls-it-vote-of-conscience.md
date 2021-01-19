@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnel
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -197,6 +197,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/07/NHTN/1117d086-5684-43b6-ae52-cf0da7271039-AP21007634011678.jpg?auto=webp&crop=4515,2540,x0,y451&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump Impeachment: McConnell Blames President For Capitol Rioters Who Were 'Fed Lies,' 'Provoked'"
+    excerpt: "Senate Majority Leader Mitch McConnell told Senate colleagues on Tuesday that Capitol rioters were provoked by Trump's lies."
+    publishedDateTime: 2021-01-19T18:43:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-mcconnell-blames-president-capitol-rioters-who-were-fed-lies-3125762"
+    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-mcconnell-blames-president-capitol-rioters-who-were-fed-lies-3125762?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-mcconnell-blames-president-capitol-rioters-who-were-fed-lies-3125762?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/after-weeks-of-silence-on-the-issue-us-AFP_8X8387-2.jpg"
+        width: 1024
+        height: 697
         isCached: true
   - title: "Timing of Trump Trial Uncertain as Pelosi Gives No Clues"
     excerpt: "House Speaker Nancy Pelosi is offering no clues on her plans to send President Donald Trump’s impeachment to the Senate for trial."

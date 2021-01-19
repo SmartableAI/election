@@ -489,6 +489,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Live Updates: Biden heads to Washington as capital gears up for inauguration"
+    excerpt: "Washington — President-elect Joe Biden left his home state of Delaware on Tuesday to travel to Washington, where he will be sworn in as president of the United States at Wednesday's inauguration. In an emotional farewell to the state,"
+    publishedDateTime: 2021-01-19T20:26:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/biden-trump-presidential-transition-2021-01-19/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/biden-trump-presidential-transition-2021-01-19/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/biden-trump-presidential-transition-2021-01-19/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/19/1eddd496-3081-40b0-935d-cdfbe1a4a653/thumbnail/1200x630g2/80ab0c0b7d2d6a29f31ed846941c7093/gettyimages-1230675824.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The impact President Trump's impeachment could have on Biden's agenda"
     excerpt: "CBS News political contributors Robby Mook and Terry Sullivan join \"CBS This Morning\" to discuss whether the impeachment trial of President Trump could impact President-elect Joe Biden's agenda. Plus,"
     publishedDateTime: 2021-01-15T14:06:00Z

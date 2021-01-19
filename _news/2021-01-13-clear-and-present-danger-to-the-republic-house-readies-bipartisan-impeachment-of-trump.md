@@ -336,6 +336,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: What does Biden's diverse Cabinet mean for a divided country"
+    excerpt: "When President-elect Joe Biden takes office on January 20, he will inherit a nation that is divided.\n    \n"
+    publishedDateTime: 2021-01-19T19:11:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hvF86sF19hI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/diversity-joe-biden-cabinet-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/diversity-joe-biden-cabinet-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113141645-20210113-biden-cabinet-diversity-collage-super-tease.png"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration expects early focus on domestic extremism threat"
     excerpt: "The Biden administration will make domestic terrorism a significant focus of the National Security Council, a reflection of the significant threat the country is facing as it deals with the aftermath of the Capitol Hill riots, a person familiar with the matter tells CNN.\n    \n"
     publishedDateTime: 2021-01-19T15:53:49Z
@@ -400,6 +416,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump talked out of pardoning kids and Republican lawmakers "
+    excerpt: "President Donald Trump received an unsettling warning on his final Saturday night in the White House.\n    \n"
+    publishedDateTime: 2021-01-19T20:01:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SO0MbopCeGE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/trump-self-pardon-warning/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/trump-self-pardon-warning/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210111222753-trump-autoperdon-camilo-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "As Trump leaves the stage, Republicans grapple with new conspiracy caucus"
     excerpt: "Donald Trump may be leaving the White House in a few days, but the umbrella of conspiracy theories he inspired are only just arriving in Washington.\n    \n"
     publishedDateTime: 2021-01-16T20:34:42Z
@@ -445,6 +477,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118002735-05-donald-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration to rescind Keystone pipeline permit on Wednesday, sources say"
+    excerpt: "President-elect Joe Biden's incoming administration plans to rescind the permit for the Keystone XL pipeline on his first day in office, two sources familiar with the decision tell CNN, delivering a win to an array of progressive organization and rolling back one of President Donald Trump's earliest"
+    publishedDateTime: 2021-01-19T19:19:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/POrER3q4LRU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/keystone-xl-pipeline-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/keystone-xl-pipeline-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190410090320-keystone-xl-development-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -925,6 +973,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/01/15/business/00biden-biz-sub/00biden-biz-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Feeling Hopeful as Biden Takes Office"
+    excerpt: "Biden Jr. will be sworn in as our 46th president. I am filled with hope and at peace knowing that, whatever the next four years bring, we have as president a wise, caring, gentle and highly qualified leader to take us to a place that felt unreachable just a few months ago."
+    publishedDateTime: 2021-01-19T20:27:00Z
+    webUrl: "https://www.nytimes.com/2021/01/19/opinion/letters/joe-biden-inauguration.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/19/opinion/letters/joe-biden-inauguration.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/opinion/letters/joe-biden-inauguration.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/12/16/pageoneplus/12a2_bidenharris/merlin_180233073_61c658a4-7b7c-4990-9de3-1f8c6fd26f4f-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

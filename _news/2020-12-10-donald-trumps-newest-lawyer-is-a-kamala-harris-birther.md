@@ -392,6 +392,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'A vote of conscience': GOP senators signal that Trump's fate is in their hands"
+    excerpt: "A wide range of Senate Republicans are noncommittal about whether they are considering convicting Donald Trump of committing high crimes and misdemeanors at his upcoming impeachment trial, a sign that the soon-to-be former President's political future rests squarely with his fellow Republicans who are"
+    publishedDateTime: 2021-01-19T20:36:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tkd02WnF3Dk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/impeachment-republican-senators-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/impeachment-republican-senators-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/171214165902-mitch-mcconnell-december-12-2017-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Final days bring new urgency to Trump's desire to pardon himself and his children"
     excerpt: "President Donald Trump has discussed issuing pardons for himself and his children with new urgency since the attack on the US Capitol, multiple sources familiar with the matter tell CNN.\n    \n"
     publishedDateTime: 2021-01-13T02:15:11Z

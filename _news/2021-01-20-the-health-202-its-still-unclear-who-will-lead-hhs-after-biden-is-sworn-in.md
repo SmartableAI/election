@@ -61,6 +61,15 @@ related:
         width: 800
         height: 515
         isCached: true
+  - title: "Senate hearing to consider Alejandro Mayorkas as Biden's head of DHS"
+    excerpt: "The Senate Homeland Security Committee meets to consider Alejandro Mayorkas' nomination as Secretary of Department of Homeland Security for President-elect Joe Biden's administration."
+    publishedDateTime: 2021-01-19T19:45:00Z
+    webUrl: "https://www.washingtonpost.com/video/national/senate-hearing-to-consider-alejandro-mayorkas-as-bidens-head-of-dhs/2021/01/19/5e44eaeb-7275-4856-a9fc-da37614d1a5b_live.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 85
 
 secured: "TRn+jJeoLaLYgpu7xJDrgRJQV3V8OM0JM8yn078bnDEgIRZ1TsSgo1r2vuqIgHX1tZNBnWdBU+5hy8Kj4QGCayIbbb5v2P1x+c6Ytfk4+agGbfYS4bVNO/WQaAxWzf5opRnTCn6iOZrM2U6gtwjfENgILb+zi8NjVVWjGvOMg6DuuY35uPPOTqfUoEB5LpFjU6LY7YTpWXnN5VhEoYrEaGm0jYl7P4//gMNGyl/ZHxMubyjA0l7KPFCZ7Lf5XObkRTm1Xno8CFvzP2IGhrl6M2iUl6k3sXbwDzShPpdJtt/hivqBGRrE0WCjhcGR7dcc6OK+RcixkSm2p/XCcsk41oFYTeNap+M9VJJFFNiZM1M=;j57jb4YkoqupgV7ACVWAnQ=="
 ---

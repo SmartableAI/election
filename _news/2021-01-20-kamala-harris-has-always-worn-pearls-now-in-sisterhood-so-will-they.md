@@ -400,6 +400,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'A vote of conscience': GOP senators signal that Trump's fate is in their hands"
+    excerpt: "A wide range of Senate Republicans are noncommittal about whether they are considering convicting Donald Trump of committing high crimes and misdemeanors at his upcoming impeachment trial, a sign that the soon-to-be former President's political future rests squarely with his fellow Republicans who are"
+    publishedDateTime: 2021-01-19T20:36:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tkd02WnF3Dk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/impeachment-republican-senators-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/impeachment-republican-senators-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/171214165902-mitch-mcconnell-december-12-2017-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Final days bring new urgency to Trump's desire to pardon himself and his children"
     excerpt: "President Donald Trump has discussed issuing pardons for himself and his children with new urgency since the attack on the US Capitol, multiple sources familiar with the matter tell CNN.\n    \n"
     publishedDateTime: 2021-01-13T02:15:11Z
@@ -1124,6 +1140,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "B2l8QAAuhBiBgEvl2yrWclgjfuR8JvglRhB/hcBjE11lejoFpqn1fS4AcRrwXyVaYyVeSoDiVhwAOdAYqzmPQp4En62h52FO5pwApSmc3vKQc7N0hEHm9XvR4cI2LmCApgHiNFgyPxxAogV4KEGxGdh8SCB4On3kiE8HcvSkaloxsxCugXsCSb/g+i1xRhcDeS3TxZ1R+d7gm/muzlCiWbLjQAZyRlLiwHx3EplcUTyOY1hxk2wJVcxkcJ+GQ4rgBsDXGtfiohY0uwbhQ6l4nt/w/eajvND7NH6HiuYgohttaM/xIlK10ZSg3R+EClz2vSmFCwG61um94GM4RUwzsz12/UH1pv2KhdEO6qbYscU=;6Uxu02U0c4BS5MMwFi5zUQ=="
+secured: "HPNvYgDGd3NVrpyZYUkh3zbiqwLXCbOPysfyzdKRjiskQHhrfxS+fOlZtu7ji7GMA6z+GeUXbu5+fmxth9O4Ldo59GfTUGg7f4PNIFkCDtVKRMXdWPCjxb6/4YOHwLMTOWNc04gX04XtcTJ115jf34NvUJiXYDfBDwPsqPdyzJLFvafd7GuxvNeNcMCyLu/RTSGGSHEeAfIncsLaCgs+T7E46wk5mBrgYMiYgX4aA6hkUfyYVpOcQtxoj/HcVy3VebsZO72Wopy1cPjhQnTVnZjdxNEglTjyyil6ZMKI8M8jF/xY8cyxpWPTB1i6bW3W7RgUuAVtMg5g8PN+RzP/oTFTmdm4vAVqhq/wQTvjO3NHHd0VZpCkemU2hWh/iUWk9DJ6Xyv9kBlwiJBO5tDoNQv6xYJubsvs4hLhof0+dHXfwuVRNKw8GP8olLgvcAOzpqE3R8oIa8JdxvuNVK6By0is4c6N+YMpChjG43Y6grumYM8O/RDNu+v+W3RoMDN50nDfpt9FzoMr/zNR4QQN3Q==;3UvOpVcTHr9qUlihL8p4Iw=="
 ---
 

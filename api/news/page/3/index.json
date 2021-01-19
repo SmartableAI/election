@@ -2,6 +2,114 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-17-biden-adviser-defends-liberal-agenda-items-in-19t-coronavirus-relief-plan-dodges-on-ending-filibuster.md",
+      "title": "Biden adviser defends liberal agenda items in $1.9T coronavirus relief plan, dodges on ending filibuster",
+      "excerpt": "President-elect Joe Biden’s proposed coronavirus relief package would cost taxpayers $1.9 trillion, and his economic adviser defended the inclusion of several Democratic agenda items.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wirOHM4_UYk/biden-economic-adviser-coronavirus-relief-plan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wirOHM4_UYk/biden-economic-adviser-coronavirus-relief-plan",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42062da5-16e0-4037-a730-e3584328ccb1/18454cad-9594-4df4-929b-9de43f9366d1/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-economic-adviser-coronavirus-relief-plan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-economic-adviser-coronavirus-relief-plan.amp",
+      "publishedDateTime": "2021-01-17T08:55:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-impeachment-needed-to-bar-trump-from-running-for-federal-office-rep-joaquin-castro.md",
+      "title": "Impeachment needed to bar Trump from running for federal office: Rep. Joaquin Castro",
+      "excerpt": "House impeachment managers are prepared to chase every single Senate vote in an attempt to convict President Donald Trump for inciting insurrection, Rep. Joaquin Castro, D-Texas, said on ABC's \"This Week\" Sunday.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965",
+      "originalUrl": "https://abcnews.go.com/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/Joacquin-Castro-Peter-Meijer-split-01-gty-llr-210116_1610823952116_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965",
+      "publishedDateTime": "2021-01-17T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-17-not-going-to-lose-my-son-and-my-republic-jamie-raskin-on-trump-impeachment.md",
       "title": "‘Not going to lose my son and my republic’: Jamie Raskin on Trump impeachment",
       "excerpt": "Last modified on Sun 17 Jan 2021 11.07 EST Jamie Raskin, the House Democrat leading the impeachment of Donald Trump, remembered his son Tommy on Sunday and said: “I’m not going to lose my son at the end of 2020 and lose my country and my republic in 2021.",
@@ -1172,7 +1280,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1213,111 +1321,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-maher-insists-trump-will-run-again-mcconnell-wont-impeach-the-battle-is-over-this-war-is-just-beginning.md",
-      "title": "Maher insists Trump will run again, McConnell won't impeach: 'The battle is over, this war is just beginning'",
-      "excerpt": "\"Real Time\" host Bill Maher returned from his holiday break Friday night and made bold predictions about the potential political aspirations of President Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/maher-insists-trump-will-run-again-mcconnell-wont-impeach-the-battle-is-over-the-war-is-just-beginning",
-      "originalUrl": "https://www.foxnews.com/entertainment/maher-insists-trump-will-run-again-mcconnell-wont-impeach-the-battle-is-over-the-war-is-just-beginning",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/TrumpMcconnell.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/maher-insists-trump-will-run-again-mcconnell-wont-impeach-the-battle-is-over-the-war-is-just-beginning.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/maher-insists-trump-will-run-again-mcconnell-wont-impeach-the-battle-is-over-the-war-is-just-beginning.amp",
-      "publishedDateTime": "2021-01-16T00:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-dustin-higgs-becomes-13th-and-final-inmate-executed-under-trump.md",
-      "title": "Dustin Higgs becomes 13th and final inmate executed under Trump",
-      "excerpt": "Another federal death row inmate in Indiana was executed early Saturday — marking final execution under the Trump administration, and the 13th since July. Dustin John Higgs, convicted of",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/",
-      "originalUrl": "https://nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/Dustin-John-Higgs.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/amp/",
-      "publishedDateTime": "2021-01-16T00:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

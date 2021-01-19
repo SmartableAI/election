@@ -2,6 +2,111 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-16-maher-insists-trump-will-run-again-mcconnell-wont-impeach-the-battle-is-over-this-war-is-just-beginning.md",
+      "title": "Maher insists Trump will run again, McConnell won't impeach: 'The battle is over, this war is just beginning'",
+      "excerpt": "\"Real Time\" host Bill Maher returned from his holiday break Friday night and made bold predictions about the potential political aspirations of President Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/maher-insists-trump-will-run-again-mcconnell-wont-impeach-the-battle-is-over-the-war-is-just-beginning",
+      "originalUrl": "https://www.foxnews.com/entertainment/maher-insists-trump-will-run-again-mcconnell-wont-impeach-the-battle-is-over-the-war-is-just-beginning",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/TrumpMcconnell.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/maher-insists-trump-will-run-again-mcconnell-wont-impeach-the-battle-is-over-the-war-is-just-beginning.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/maher-insists-trump-will-run-again-mcconnell-wont-impeach-the-battle-is-over-the-war-is-just-beginning.amp",
+      "publishedDateTime": "2021-01-16T00:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-dustin-higgs-becomes-13th-and-final-inmate-executed-under-trump.md",
+      "title": "Dustin Higgs becomes 13th and final inmate executed under Trump",
+      "excerpt": "Another federal death row inmate in Indiana was executed early Saturday — marking final execution under the Trump administration, and the 13th since July. Dustin John Higgs, convicted of",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/",
+      "originalUrl": "https://nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/Dustin-John-Higgs.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/amp/",
+      "publishedDateTime": "2021-01-16T00:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-pence-speaks-at-memorial-service-for-yeager-in-west-virginia.md",
       "title": "Pence speaks at memorial service for Yeager in West Virginia",
       "excerpt": "Retired Air Force Brig. Gen. Chuck Yeager was remembered at a memorial service Friday as a hero, legend and friend who would go out of his way to help others.",
@@ -429,7 +534,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 290,
+      "heat": 330,
       "tags": null,
       "images": [
         {
@@ -697,7 +802,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2378,
+      "heat": 2398,
       "tags": null,
       "images": [
         {
@@ -812,7 +917,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1625,
+      "heat": 1645,
       "tags": null,
       "images": [
         {
@@ -1035,7 +1140,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 960,
+      "heat": 980,
       "tags": null,
       "images": [
         {
@@ -1242,114 +1347,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-trump-impeachment-supported-by-only-8-of-republicans-poll.md",
-      "title": "Trump impeachment supported by only 8% of Republicans: poll",
-      "excerpt": "A new national poll indicates that only 8% of Republican voters support the impeachment of President Trump and his removal from office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BNNFD9XEG78/only-8-percent-republicans-support-trump-impeachment-poll",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BNNFD9XEG78/only-8-percent-republicans-support-trump-impeachment-poll",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/only-8-percent-republicans-support-trump-impeachment-poll.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/only-8-percent-republicans-support-trump-impeachment-poll.amp",
-      "publishedDateTime": "2021-01-15T07:44:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-seema-verma-says-she-has-no-regrets-about-her-healthcare-tenure-in-the-trump-administration-even-after-much-backlash.md",
-      "title": "Seema Verma says she has 'no regrets' about her healthcare tenure in the Trump administration even after much backlash",
-      "excerpt": "Some of Verma's policy accomplishments won't survive in a Biden administration and others are tied up in legal battles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/seema-verma-has-no-regrets-medicare-medicaid-obamacare-trump-2021-1",
-      "originalUrl": "https://www.businessinsider.com/seema-verma-has-no-regrets-medicare-medicaid-obamacare-trump-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6000b814b805070018995378?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-15T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

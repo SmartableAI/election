@@ -491,6 +491,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Live Updates: Biden heads to Washington as capital gears up for inauguration"
+    excerpt: "Washington — President-elect Joe Biden left his home state of Delaware on Tuesday to travel to Washington, where he will be sworn in as president of the United States at Wednesday's inauguration. In an emotional farewell to the state,"
+    publishedDateTime: 2021-01-19T20:26:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/biden-trump-presidential-transition-2021-01-19/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/biden-trump-presidential-transition-2021-01-19/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/biden-trump-presidential-transition-2021-01-19/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/19/1eddd496-3081-40b0-935d-cdfbe1a4a653/thumbnail/1200x630g2/80ab0c0b7d2d6a29f31ed846941c7093/gettyimages-1230675824.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "U.S. House urges Pence to start process of removing Trump from office"
     excerpt: "The U.S. House of Representatives on Tuesday voted to urge Vice President Mike Pence to start the U.S. Constitution's 25th Amendment process of removing President Donald Trump from office, although the vice president already has said he will not do so."
     publishedDateTime: 2021-01-13T13:53:00Z
@@ -1702,6 +1718,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "JohtAPyYdCibByUG0qgdfyFlQnpvqiJxgEC2bNk2ptGtnHOEifN2DVUcZVhFAxLq8LYDcBwm2K6REjjVcfaXfn6f6YIAwkBd7WHol+zpKEaH9n4hlQCL1TLIcgRZSM2AVghFxYDv6hO09V9vjzjD1ACDOcglhN2HXw3yMRSOiIi7sR+H45DL+eeePBgTKRxIFPpyqkXBf7NHXQsT2PYxoltKeOfHveix1rqYak2FJGup8uV3qafD6p3sSoUxrYVeNWI4bivy3MeTsulMC7Udy2XtFltHzbLzoeiPbMKqGNuQgrkxCWqbwNf73U9zL5jJp7iaXpU1VIlwShuuh4wj9T24W1NGh9Mku/s02j7jhqs=;DzoocIfdvkZNbzU7TOfjbw=="
+secured: "b621em26GYk7fCD23FugW1N4yNP2Y++FC0WD+Y+i+3eO5J3uuAnrWdbdUEoAlvIsYG6S8XMNoMRRHZ31r7J4Q3u/8sFF/BGyh7OAB9+1vzD1JhRzvf6PV0XILug1FxVwi1OiAtaQIshVClkCypf0VNq1+BidtRCASPP4/0fbn9wGceDv+rqvZCPP0f5bnGjzdza/W3kaYfpNbg/lefpbvEsWET+Xi0mO/46/J4VLGOpSKpnZ7ZRsYOHH0xjL8RNaBRTSycjkJqB8REzcwdKkHeBlFi+lvoDALjiI57Mrqj1AFc0Txxi2f7yz9+rFDGWu39UdzBiw92DnzFVYzkYN9F/2q7Ib79yACH73sWZtBHQD9FwdT/dYlhBSiczXtFORc3Dx4tSdFBG6yyflT2nOVj3Fr9ti62t92y33IqXgewHx26kf3dqBjZDYiBLo5l1TT7Pw0jh0XVZjMvXJ6bGCVkz5I0sSgfKU99reqM/JZDXwgQ5UZ3E+odd2LJPi/kLdgdgG2X479dpEfvwssoEgeg==;lSIh0oBRJSByYdTdWD2rvw=="
 ---
 

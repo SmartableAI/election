@@ -2,6 +2,174 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-19-biden-inauguration-day-how-many-people-will-attend-ceremony-in-person.md",
+      "title": "Biden Inauguration Day: How many people will attend ceremony in-person?",
+      "excerpt": "The Biden-Harris Inaugural ceremony will be noticeably pared down amid ongoing health and security concerns.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GbZQ-_ddZ9o/biden-inauguration-day-in-person-attendance",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GbZQ-_ddZ9o/biden-inauguration-day-in-person-attendance",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2486375d-071f-4c1d-80e9-c47b048bf824/b55da265-9d65-41ea-a36a-3ec56c979a83/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-inauguration-day-in-person-attendance.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-day-in-person-attendance.amp",
+      "publishedDateTime": "2021-01-19T12:05:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-cbp-acting-commissioner-biden-sending-loud-and-clear-message-for-migrants.md",
+      "title": "CBP acting commissioner: Biden sending 'loud and clear' message for migrants",
+      "excerpt": "President-elect Joe Biden has been sending a “loud and clear” message to migrants, who are already heading to the U.S. southern border ahead of his inauguration, Mark Morgan, acting commissioner of U.S. Customs and Border Protection, said on Tuesday.  ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0f9NACq-Rs8/cbp-acting-commissioner-biden-sending-loud-clear-message-migrants",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0f9NACq-Rs8/cbp-acting-commissioner-biden-sending-loud-clear-message-migrants",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cbp-acting-commissioner-biden-sending-loud-clear-message-migrants.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cbp-acting-commissioner-biden-sending-loud-clear-message-migrants.amp",
+      "publishedDateTime": "2021-01-19T11:48:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-biden-dni-nominee-haines-says-aim-should-be-to-out-compete-china.md",
+      "title": "Biden DNI nominee Haines says aim should be to 'out-compete China'",
+      "excerpt": "President-elect Joe Biden's nominee for Director of National Intelligence Avril Haines said, if confirmed, she would focus on providing intelligence to support efforts to \"out-compete China,\" while committing to doing more training to educate Americans on the country's malign foreign influence.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wE5mXGXtiuM/biden-director-national-intelligence-haines-china",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wE5mXGXtiuM/biden-director-national-intelligence-haines-china",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-director-national-intelligence-haines-china.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-director-national-intelligence-haines-china.amp",
+      "publishedDateTime": "2021-01-19T11:33:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-biden-dhs-nominee-mayorkas-says-ice-should-not-be-defunded-despite-liberal-calls.md",
       "title": "Biden DHS nominee Mayorkas says ICE should not be defunded, despite liberal calls",
       "excerpt": "Alejandro Mayorkas, President-elect Joe Biden’s pick to lead the Department of Homeland Security, said Tuesday that Immigration and Customs Enforcement (ICE) should not be defunded -- while punting on whether parts of the border wall should be dismantled.",
@@ -199,62 +367,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/huckabee-katie-couric-deprogram-trump-voters-cult.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/huckabee-katie-couric-deprogram-trump-voters-cult.amp",
       "publishedDateTime": "2021-01-19T06:11:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-biden-will-find-chinas-malign-foreign-influence-campaign-a-challenge-us-counter-intel-chief-says.md",
-      "title": "Biden will find China's malign foreign influence campaign a 'challenge,' US counter-intel chief says",
-      "excerpt": "EXCLUSIVE: National Counterintelligence and Security Center Director Bill Evanina said no country poses a \"broader, more severe\" threat to America than China, telling Fox News that its malign foreign influence campaign against the United States will be one of the \"bigger challenges\" for the incoming",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5phXmpdqusE/us-counter-intel-chief-says-chinas-malign-foreign-influence-campaign-will-be-challenge-for-biden-admin",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5phXmpdqusE/us-counter-intel-chief-says-chinas-malign-foreign-influence-campaign-will-be-challenge-for-biden-admin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/us-counter-intel-chief-says-chinas-malign-foreign-influence-campaign-will-be-challenge-for-biden-admin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-counter-intel-chief-says-chinas-malign-foreign-influence-campaign-will-be-challenge-for-biden-admin.amp",
-      "publishedDateTime": "2021-01-19T03:33:59-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -630,7 +742,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -759,62 +871,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-aims-to-make-america-california-again-paper.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-aims-to-make-america-california-again-paper.amp",
       "publishedDateTime": "2021-01-17T21:18:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-live-updates-defense-officials-worry-about-insider-attack-from-service-members-deployed-to-biden-inauguration.md",
-      "title": "Live Updates: Defense officials worry about insider attack from service members deployed to Biden inauguration",
-      "excerpt": "The concerns prompted the FBI to vet all 25,000 National Guard troops in the city, Fox News has learned.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mAWvMts6Dvo/live-updates-biden-inauguration-1-18-2021",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mAWvMts6Dvo/live-updates-biden-inauguration-1-18-2021",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dad6c219-29aa-4014-9f33-7e3e1c7f25e7/689e2f28-a07d-4736-a369-7ff66a5f5798/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-18-2021.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inauguration-1-18-2021.amp",
-      "publishedDateTime": "2021-01-17T21:07:13-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1297,7 +1353,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 290,
+      "heat": 330,
       "tags": null,
       "images": [
         {
@@ -1621,63 +1677,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-rose-mcgowan-calls-trumps-second-impeachment-cult-propaganda-a-theater-of-mass-distraction.md",
-      "title": "Rose McGowan calls Trump's second impeachment 'cult propaganda,' 'a theater of mass distraction'",
-      "excerpt": "In a scathing tweet, McGowan called the actions against Trump cultlike which is something she's said numerous times in the past about Hollywood. \"This impeachment is Cult propaganda. A theater of mass distraction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/rose-mcgowan-trump-impeachment-cult-propaganda-mass-distraction",
-      "originalUrl": "https://www.foxnews.com/entertainment/rose-mcgowan-trump-impeachment-cult-propaganda-mass-distraction",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Rose-McGowan.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/rose-mcgowan-trump-impeachment-cult-propaganda-mass-distraction.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/rose-mcgowan-trump-impeachment-cult-propaganda-mass-distraction.amp",
-      "publishedDateTime": "2021-01-15T08:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

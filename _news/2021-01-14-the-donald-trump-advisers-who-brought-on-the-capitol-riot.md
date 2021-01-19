@@ -223,6 +223,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Sales of US Constitution topped 1 million during Trump years"
+    excerpt: "Along with dystopian novels and White House tell-alls, the U.S. Constitution has been a best-seller during Donald Trump's presidency"
+    publishedDateTime: 2021-01-19T20:34:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/sales-us-constitution-topped-million-trump-years-75350829"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/sales-us-constitution-topped-million-trump-years-75350829"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/sales-us-constitution-topped-million-trump-years-75350829"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_337d2cb3e83e405dbe9cd3d123dd9e96_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump expected to issue flurry of pardons on last full day"
     excerpt: "President Donald Trump is expected to spend his last full day in office issuing a flurry of pardons and bidding farewell to the American public from a near-deserted White House surrounded by an extrao"
     publishedDateTime: 2021-01-19T17:45:00Z

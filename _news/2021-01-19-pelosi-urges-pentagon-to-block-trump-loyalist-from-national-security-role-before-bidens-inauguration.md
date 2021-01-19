@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Emotional Biden bids farewell to home state of Delaware"
+    excerpt: "President-elect Joe Biden left his home state of Delaware on Tuesday, on the eve of his inauguration as president of the United States."
+    publishedDateTime: 2021-01-19T20:29:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3Tg3QwzLSFo/biden-delaware-farewell-emotional"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-delaware-farewell-emotional.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-delaware-farewell-emotional.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump to depart Washington, DC, at 8 a.m. on Biden’s Inauguration Day"
     excerpt: "Donald Trump will not be attending Joe Biden’s Inauguration on Jan. 21, 2021. Olivier Douliery – Pool/Getty Images Only a small number of guests will be allowed inside the heavily barricaded ..."
     publishedDateTime: 2021-01-18T17:10:00Z
@@ -110,6 +126,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-10.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Emotional Biden bids farewell to home state of Delaware"
+    excerpt: "President-elect Joe Biden left his home state of Delaware on Tuesday, on the eve of his inauguration as president of the United States."
+    publishedDateTime: 2021-01-19T20:34:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-delaware-farewell-emotional"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-delaware-farewell-emotional.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-delaware-farewell-emotional.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Joe-Biden-Delaware-Farewell-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "LVCE+VhZQWRV4sYRsDgOvGFelQLBcQaf2KeM4tuaIv0zMaivnUKdjugFhyYEn4zUEnRHMgzl1yWB4vI4RfzmtsvzTsI1pVyTgSkWLJcDHRJLYaFkCpOgfC7Nx6OI5KOQPCdA4/yQWHA7Gv+w+/TB9bq/5nNjGpxSUwnzWqJT9fVneg9kQLxiL3Ywg4EPj+3YKwUMCWPf/8y8EMkI1w1aNN6PjlzoyvWLvub2OtGnlAPTSnmWdFDsAzTOd5K1l/IOzpZNS5i36cdSqdRiNDswCLWZtFIisRJWA6urIo+IL1I80R+0JSmNHrKfRBxsx+lsCvXuZQ3f/hGbEyY4XYuPB4Z9IQxZB1gGtTpKpR9/SPg=;P4JlYQgQ2S1rZH1dcGedtg=="

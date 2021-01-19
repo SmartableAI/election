@@ -399,6 +399,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'A vote of conscience': GOP senators signal that Trump's fate is in their hands"
+    excerpt: "A wide range of Senate Republicans are noncommittal about whether they are considering convicting Donald Trump of committing high crimes and misdemeanors at his upcoming impeachment trial, a sign that the soon-to-be former President's political future rests squarely with his fellow Republicans who are"
+    publishedDateTime: 2021-01-19T20:36:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tkd02WnF3Dk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/impeachment-republican-senators-reaction/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/impeachment-republican-senators-reaction/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/171214165902-mitch-mcconnell-december-12-2017-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Former Trump campaign staffers worked on National Mall rally the day of the Capitol riot"
     excerpt: "After the deadly sacking of the US Capitol this month, President Donald Trump's reelection campaign has insisted it had nothing to do with the National Mall rally that preceded the riot and featured a speech from the President.\n    \n"
     publishedDateTime: 2021-01-19T16:53:09Z

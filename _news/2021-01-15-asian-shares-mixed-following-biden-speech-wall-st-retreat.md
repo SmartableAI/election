@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/asian-shares-mixed-following-b
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/asian-shares-mixed-following-biden-speech-wall-st-retreat/2021/01/14/b18916e2-56e7-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 565
+heat: 585
 published: true
 
 provider:
@@ -331,6 +331,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/08/PPHX/c3634c0f-2375-42ac-976e-bfaa70dcb670-AP20313070395405.jpg?auto=webp&crop=5507,3098,x0,y280&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Several Ohio Congress members will skip Joe Biden’s inauguration amid unprecedented security measures"
+    excerpt: "Several Ohio members of Congress from both political parties say they'll skip President-elect Joe Biden's inauguration."
+    publishedDateTime: 2021-01-19T20:48:00Z
+    webUrl: "https://www.cleveland.com/open/2021/01/several-ohio-congress-members-will-skip-joe-bidens-inauguration-amid-unprecedented-security-measures.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/01/several-ohio-congress-members-will-skip-joe-bidens-inauguration-amid-unprecedented-security-measures.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/01/several-ohio-congress-members-will-skip-joe-bidens-inauguration-amid-unprecedented-security-measures.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 60
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6WS2WVUGQNAERENUMFMGGQAGMU.jpg"
+        width: 4032
+        height: 3024
         isCached: true
   - title: "Sen. Joe Manchin says he'd 'absolutely' oppose Biden's stimulus checks, then swiftly walks it back after stocks tank"
     excerpt: "Sen. Joe Manchin says he’d 'absolutely' oppose Biden’s stimulus checks, then swiftly walks it back after stocks tank President-elect Joe Biden announced some economic priorities on Friday, but Sen. Joe Manchin (D-W."

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-07-morale-has-been-gutted-can-biden-restore-the-dojs-battered-reputation.md",
+      "title": "'Morale has been gutted': can Biden restore the DoJ's battered reputation?",
+      "excerpt": "Biden may well find his best intentions tested early on as the Trump administration has been busy planting legal landmines in his path",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/07/joe-biden-doj-justice-department-donald-trump-william-barr",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/07/joe-biden-doj-justice-department-donald-trump-william-barr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/2da214256fa4bcaf55cddcdaf608b9be0260229c/0_0_3500_2333/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7e64f63c08b1f74c1fd870a394ccf19a",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/07/joe-biden-doj-justice-department-donald-trump-william-barr",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/07/joe-biden-doj-justice-department-donald-trump-william-barr",
+      "publishedDateTime": "2021-01-06T22:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-biden-calls-on-mob-to-pull-back-urges-restoring-decency.md",
       "title": "Biden calls on mob to ‘pull back,’ urges restoring decency",
       "excerpt": "President-elect Joe Biden is calling for the restoration of “simple decency” after a mob incited by his predecessor stormed the U.S. Capitol and delayed Congress from certifying Biden’s November elect",
@@ -1514,58 +1566,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-20-biden-mulls-punishments-for-russia-over-suspected-role-in-government-hack.md",
-      "title": "Biden mulls punishments for Russia over suspected role in government hack",
-      "excerpt": "President-elect will consider options for unprecedented hacking of US government agencies",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment",
-      "originalUrl": "https://www.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/2f95f60c5bec962f79f95030cfc8730e32dcac1f/0_235_3925_2355/master/3925.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fdfc5a1c6bcc8beb176560c6f747a577",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2020/dec/20/russian-hack-suspected-role-biden-mulls-punishment",
-      "publishedDateTime": "2020-12-20T06:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-1
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inauguration-1-18-2021.amp"
 type: article
 quality: 155
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Biden Inauguration Day: How many people will attend ceremony in-person?"
+    excerpt: "The Biden-Harris Inaugural ceremony will be noticeably pared down amid ongoing health and security concerns."
+    publishedDateTime: 2021-01-19T20:05:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GbZQ-_ddZ9o/biden-inauguration-day-in-person-attendance"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-day-in-person-attendance.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-day-in-person-attendance.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2486375d-071f-4c1d-80e9-c47b048bf824/b55da265-9d65-41ea-a36a-3ec56c979a83/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "onmp0NW4B4eOymZWEfROfh/KUuiAlWj/LoE+IB6XWMIbra//kgT7s3vSWgFmx/+D6N78hORdNjUz3KDXJYLWnuNathhSSVAHRy1zzecdv8rHkiOF7Sw9K4B6nf+Rv5y8L5YR/U/RLnOXDdOcS0kRt0X+OKQjcWNt3x6YDL8Kgi+3W2p3jxYW6ijCRzNP0XgzzjLptxsOO2F9SG84/6O3LeeD1gjlm1jxm1ePifQ4rp8I9L/N84DedGwBh4JHlayZKEsVXYySGGE9dwP+5yAkUxSRJAwu/DsdBQdo1O2Ywmi5b0BkhIr7uwUdwNT3ncUNDaNjAub7dNHnua3co1tBOZAGvzWu2PXxm6kfpXk3Nh8=;8GdYcODk5q/nUbXrIsXS2A=="
 ---

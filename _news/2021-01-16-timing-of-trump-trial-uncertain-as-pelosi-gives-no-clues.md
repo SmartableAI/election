@@ -208,6 +208,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Impeachment: McConnell Blames President For Capitol Rioters Who Were 'Fed Lies,' 'Provoked'"
+    excerpt: "Senate Majority Leader Mitch McConnell told Senate colleagues on Tuesday that Capitol rioters were provoked by Trump's lies."
+    publishedDateTime: 2021-01-19T18:43:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-mcconnell-blames-president-capitol-rioters-who-were-fed-lies-3125762"
+    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-mcconnell-blames-president-capitol-rioters-who-were-fed-lies-3125762?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-mcconnell-blames-president-capitol-rioters-who-were-fed-lies-3125762?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/after-weeks-of-silence-on-the-issue-us-AFP_8X8387-2.jpg"
+        width: 1024
+        height: 697
+        isCached: true
 
 secured: "gk1abmlX5qIANC/Wvv08DHjTCEJpguhtLkH0olAZWXT1r9RT5vNuzOD/CHwuvw50wZJHsfanxK+mpxzvzNKHOgn0wvegC6vK2oHv7rQIIRGznMF6nn9E1UL1XmgkHTJM8MF0tlZZ4yFoIVY+bxtCsiXkewso7YuBlVU1aMGbatVuP1es34d7yjAetLJJdSWbuEhJdCMvUlTnC25qKc1YDhdq9HtxZ3AsUIm3zn5tdtQM3B2EX1YTaQ/vaQJ7PnSUze/Frrk7qpe/sJHxzmu3yAcmztR6cDaGS40mBQYjL0pFyw+3igyq2LBYDMPnL4Ka388df+fuPFhtE6MyshMxBp+YSKZIIq3P/J9zuxRfQIDGfos68lGYIHmRcm+cTMrfT5H2I1ddUjdSROu8UE8Yulz2HeFS13+W9D+KIGuHp3cVitCCPS72UaF7l9xN5clegujCk3ColOetIIQX3Bl3j+OvW1Eymza9d8Q4hupCTydbz+ucGealIDuy5jkQ0cDXGFg1hlYgIK2lNPdDHmk62Q==;tvE/q6Gjf4o3wFwe35f/WQ=="
 ---

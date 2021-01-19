@@ -2,6 +2,170 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-19-gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-to-make-trump-look-bad.md",
+      "title": "GOP Lawmaker Claimed 'Democratic Machine' Paid Capitol Rioters to Make Trump Look Bad",
+      "excerpt": "As rioters supporting President Donald Trump attacked the U.S. Capitol on January 6, newly elected Republican North Carolina Congressman Madison Cawthorn told conservative talk radio program The Charlie Kirk Show that the \"Democratic machine\" had placed \"agitators\" among the mob in order to make Trump and his followers look bad.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458",
+      "originalUrl": "https://www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1710490/madison-cawthorn-democratic-machine-rioters-trump-agitators.jpg",
+          "width": 3308,
+          "height": 1932,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458?amp=1",
+      "publishedDateTime": "2021-01-18T14:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-acting-dhs-secretary-we-want-to-leave-no-stone-unturned-in-securing-biden-inauguration.md",
+      "title": "Acting DHS secretary: We want to leave 'no stone unturned' in securing Biden inauguration",
+      "excerpt": "Acting Homeland Security Secretary Peter Gaynor told \"America Reports\" Monday that there is a \"heightened sense of alert\" surrounding the security preparations for Joe Biden's inauguration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gxODbRKz3tI/inauguration-security-national-guard-fbi-dhs-peter-gaynor",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gxODbRKz3tI/inauguration-security-national-guard-fbi-dhs-peter-gaynor",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/inauguration-security-national-guard-fbi-dhs-peter-gaynor.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/inauguration-security-national-guard-fbi-dhs-peter-gaynor.amp",
+      "publishedDateTime": "2021-01-18T13:57:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-melania-trump-releases-farewell-message-it-has-been-the-greatest-honor-of-my-life.md",
+      "title": "Melania Trump releases farewell message: 'It has been the greatest honor of my life'",
+      "excerpt": "Outgoing first lady Melania Trump reflected on her four years in the White House during a farewell address to the American people on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qdl1wRYnZ-k/melania-trump-farewell-message-it-has-been-the-greatest-honor-of-my-life",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qdl1wRYnZ-k/melania-trump-farewell-message-it-has-been-the-greatest-honor-of-my-life",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/37de2408-7493-4801-817f-d667d7ded4c2/0178130e-a86f-4eda-b418-49d1f3f50c50/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/melania-trump-farewell-message-it-has-been-the-greatest-honor-of-my-life.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-farewell-message-it-has-been-the-greatest-honor-of-my-life.amp",
+      "publishedDateTime": "2021-01-18T13:41:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-trump-national-garden-order-includes-statues-of-whitney-houston-kobe-bryant-vince-lombardi-frank-sinatra.md",
       "title": "Trump National Garden order includes statues of Whitney Houston, Kobe Bryant, Vince Lombardi, Frank Sinatra",
       "excerpt": "President Trump issued an executive order on Monday in which he listed dozens of \"historically significant\" Americans, including entertainers, founding fathers, religious figures, and others, to be featured in the new National Garden of American Heroes.",
@@ -182,7 +346,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -585,62 +749,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-18-live-updates-defense-officials-worry-about-insider-attack-from-service-members-deployed-to-biden-inauguration.md",
-      "title": "Live Updates: Defense officials worry about insider attack from service members deployed to Biden inauguration",
-      "excerpt": "The concerns prompted the FBI to vet all 25,000 National Guard troops in the city, Fox News has learned.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mAWvMts6Dvo/live-updates-biden-inauguration-1-18-2021",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mAWvMts6Dvo/live-updates-biden-inauguration-1-18-2021",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dad6c219-29aa-4014-9f33-7e3e1c7f25e7/689e2f28-a07d-4736-a369-7ff66a5f5798/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-18-2021.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inauguration-1-18-2021.amp",
-      "publishedDateTime": "2021-01-17T21:07:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-18-the-biden-era-beckons-after-trumps-lies-and-insurrection.md",
       "title": "The Biden era beckons after Trump's lies and insurrection ",
       "excerpt": "A battered nation haunted by sickness, death and division is heading into an epic week in which constitutional principles will triumph over lies and insurrection with the transfer of power from one president to the next.\n    \n",
@@ -653,7 +761,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1550,
+      "heat": 1630,
       "tags": null,
       "images": [
         {
@@ -1215,114 +1323,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-biden-adviser-defends-liberal-agenda-items-in-19t-coronavirus-relief-plan-dodges-on-ending-filibuster.md",
-      "title": "Biden adviser defends liberal agenda items in $1.9T coronavirus relief plan, dodges on ending filibuster",
-      "excerpt": "President-elect Joe Biden’s proposed coronavirus relief package would cost taxpayers $1.9 trillion, and his economic adviser defended the inclusion of several Democratic agenda items.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wirOHM4_UYk/biden-economic-adviser-coronavirus-relief-plan",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wirOHM4_UYk/biden-economic-adviser-coronavirus-relief-plan",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42062da5-16e0-4037-a730-e3584328ccb1/18454cad-9594-4df4-929b-9de43f9366d1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-economic-adviser-coronavirus-relief-plan.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-economic-adviser-coronavirus-relief-plan.amp",
-      "publishedDateTime": "2021-01-17T08:55:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-impeachment-needed-to-bar-trump-from-running-for-federal-office-rep-joaquin-castro.md",
-      "title": "Impeachment needed to bar Trump from running for federal office: Rep. Joaquin Castro",
-      "excerpt": "House impeachment managers are prepared to chase every single Senate vote in an attempt to convict President Donald Trump for inciting insurrection, Rep. Joaquin Castro, D-Texas, said on ABC's \"This Week\" Sunday.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965",
-      "originalUrl": "https://abcnews.go.com/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/Joacquin-Castro-Peter-Meijer-split-01-gty-llr-210116_1610823952116_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965",
-      "publishedDateTime": "2021-01-17T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

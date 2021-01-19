@@ -194,6 +194,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Impeachment: McConnell Blames President For Capitol Rioters Who Were 'Fed Lies,' 'Provoked'"
+    excerpt: "Senate Majority Leader Mitch McConnell told Senate colleagues on Tuesday that Capitol rioters were provoked by Trump's lies."
+    publishedDateTime: 2021-01-19T18:43:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-mcconnell-blames-president-capitol-rioters-who-were-fed-lies-3125762"
+    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-mcconnell-blames-president-capitol-rioters-who-were-fed-lies-3125762?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-mcconnell-blames-president-capitol-rioters-who-were-fed-lies-3125762?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/after-weeks-of-silence-on-the-issue-us-AFP_8X8387-2.jpg"
+        width: 1024
+        height: 697
+        isCached: true
   - title: "Timing of Trump Trial Uncertain as Pelosi Gives No Clues"
     excerpt: "House Speaker Nancy Pelosi is offering no clues on her plans to send President Donald Trump’s impeachment to the Senate for trial."
     publishedDateTime: 2021-01-15T22:34:00Z

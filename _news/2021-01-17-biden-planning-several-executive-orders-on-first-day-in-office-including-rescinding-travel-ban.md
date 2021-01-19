@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden to deliver a forward-looking inaugural address focused on unity"
+    excerpt: "President-elect Joe Biden is expected to deliver a forward-looking inaugural address on Wednesday focused on unity, Fox News has learned."
+    publishedDateTime: 2021-01-19T20:19:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KZkpJ1CgxqA/biden-to-deliver-a-forward-looking-inaugural-address-focused-on-unity"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-deliver-a-forward-looking-inaugural-address-focused-on-unity.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-deliver-a-forward-looking-inaugural-address-focused-on-unity.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden tweets about impeachment vote, reminds Senate of 'other urgent business'"
     excerpt: "After the House voted to impeach President Trump Wednesday, President-elect Biden said the chamber had held the president \"accountable\" and asked the Senate to do their \"constitutional responsibilities\" on impeachment – along with \"other urgent business.\""
     publishedDateTime: 2021-01-14T08:12:11Z

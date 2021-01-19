@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing?amp"
 type: article
 quality: 122
-heat: 162
+heat: 182
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 800
         height: 515
         isCached: true
+  - title: "Senate hearing to consider Alejandro Mayorkas as Biden's head of DHS"
+    excerpt: "The Senate Homeland Security Committee meets to consider Alejandro Mayorkas' nomination as Secretary of Department of Homeland Security for President-elect Joe Biden's administration."
+    publishedDateTime: 2021-01-19T19:45:00Z
+    webUrl: "https://www.washingtonpost.com/video/national/senate-hearing-to-consider-alejandro-mayorkas-as-bidens-head-of-dhs/2021/01/19/5e44eaeb-7275-4856-a9fc-da37614d1a5b_live.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 85
 
 secured: "ql3rYjd7gVdFtbgsPsrhuaapLAmWhxbmXx873g4NHTfFzy399zzBsW3bj82jyygzX8Lor3bEOu26wpKKV1PGkH4R+LbMPhkirgpZeLsp4xGQZRw4PN6bERdg79md7/mcnhz1W0ixASolSUqg8yxZW+7oC5KyL3c2PVo6HXNq7s0UeGvLFgXeBYXyjFDVZTA38Ibaed5VYUeLpzQwl2F5pqCDBjyEbX5h5PM3C+9yXxjmcxPGCoqLe9f7C6vfnDM3xkO73YT9XNSJgKckLSrfKlyOeROhoRDUNFiqCTtVzPiCOBiCSOFuWhr7l/rE+aSAz8bMlatEWVyZGoiABVcEFbJmVtR5VZ4S5hXCr3K1TUOJwvJuTMc04YNhZbLL5odQJSPl/IFg7R+K+QsXd9WUPzVL3uMA+MZShSrG0maOuksoHamtbKr40R/vs9fECiKUejrIIMJUIkBHeCBXu0K+0wu0YXt7k3s9j8wz9rwBFkkafdS1YJlDeHhrNh/aBRx1iE15t7LnKRSrHQSGcAvwmQ==;0YmyvyfBdli0W9GeqggmGQ=="
 ---

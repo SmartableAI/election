@@ -2,6 +2,226 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-20-irans-nuclear-breakout-time-has-shrunk-to-three-four-months-bidens-top-diplomat-pick-says.md",
+      "title": "Iran's nuclear 'breakout time' has shrunk to three-four months, Biden's top diplomat pick says",
+      "excerpt": "The time it would take Iran to make enough fissile material for a single nuclear weapon has fallen to three or four months from over a year under the 2015 Iran nuclear deal, President-elect Joe Biden's choice to be the top U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-state-iran/irans-nuclear-breakout-time-has-shrunk-to-three-four-months-bidens-top-diplomat-pick-says-idUSKBN29O2HD?edition-redirect=ca",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-state-iran/irans-nuclear-breakout-time-has-shrunk-to-three-four-months-bidens-top-diplomat-pick-says-idUSKBN29O2HD?edition-redirect=ca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548353909&r=LYNXMPEH0I1I0&w=800",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T12:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-biden-inauguration-day-how-many-people-will-attend-ceremony-in-person.md",
+      "title": "Biden Inauguration Day: How many people will attend ceremony in-person?",
+      "excerpt": "The Biden-Harris Inaugural ceremony will be noticeably pared down amid ongoing health and security concerns.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GbZQ-_ddZ9o/biden-inauguration-day-in-person-attendance",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GbZQ-_ddZ9o/biden-inauguration-day-in-person-attendance",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2486375d-071f-4c1d-80e9-c47b048bf824/b55da265-9d65-41ea-a36a-3ec56c979a83/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-inauguration-day-in-person-attendance.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-day-in-person-attendance.amp",
+      "publishedDateTime": "2021-01-19T12:05:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-cbp-acting-commissioner-biden-sending-loud-and-clear-message-for-migrants.md",
+      "title": "CBP acting commissioner: Biden sending 'loud and clear' message for migrants",
+      "excerpt": "President-elect Joe Biden has been sending a “loud and clear” message to migrants, who are already heading to the U.S. southern border ahead of his inauguration, Mark Morgan, acting commissioner of U.S. Customs and Border Protection, said on Tuesday.  ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0f9NACq-Rs8/cbp-acting-commissioner-biden-sending-loud-clear-message-migrants",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0f9NACq-Rs8/cbp-acting-commissioner-biden-sending-loud-clear-message-migrants",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cbp-acting-commissioner-biden-sending-loud-clear-message-migrants.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cbp-acting-commissioner-biden-sending-loud-clear-message-migrants.amp",
+      "publishedDateTime": "2021-01-19T11:48:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-biden-dni-nominee-haines-says-aim-should-be-to-out-compete-china.md",
+      "title": "Biden DNI nominee Haines says aim should be to 'out-compete China'",
+      "excerpt": "President-elect Joe Biden's nominee for Director of National Intelligence Avril Haines said, if confirmed, she would focus on providing intelligence to support efforts to \"out-compete China,\" while committing to doing more training to educate Americans on the country's malign foreign influence.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wE5mXGXtiuM/biden-director-national-intelligence-haines-china",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wE5mXGXtiuM/biden-director-national-intelligence-haines-china",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-director-national-intelligence-haines-china.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-director-national-intelligence-haines-china.amp",
+      "publishedDateTime": "2021-01-19T11:33:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-joe-biden-set-to-arrive-in-washington-on-eve-of-his-inauguration.md",
       "title": "Joe Biden set to arrive in Washington on eve of his inauguration",
       "excerpt": "President-elect Joe Biden arrives in Washington Tuesday for the start of his inaugural ceremonies at a dark and solemn moment in American history, preparing to take his oath of office as the US approaches 400,000 coronavirus deaths and is more divided than at any time since the Civil War.\n    \n",
@@ -498,7 +718,7 @@
       "originalUrl": "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -807,62 +1027,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-biden-will-find-chinas-malign-foreign-influence-campaign-a-challenge-us-counter-intel-chief-says.md",
-      "title": "Biden will find China's malign foreign influence campaign a 'challenge,' US counter-intel chief says",
-      "excerpt": "EXCLUSIVE: National Counterintelligence and Security Center Director Bill Evanina said no country poses a \"broader, more severe\" threat to America than China, telling Fox News that its malign foreign influence campaign against the United States will be one of the \"bigger challenges\" for the incoming",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5phXmpdqusE/us-counter-intel-chief-says-chinas-malign-foreign-influence-campaign-will-be-challenge-for-biden-admin",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5phXmpdqusE/us-counter-intel-chief-says-chinas-malign-foreign-influence-campaign-will-be-challenge-for-biden-admin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/us-counter-intel-chief-says-chinas-malign-foreign-influence-campaign-will-be-challenge-for-biden-admin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-counter-intel-chief-says-chinas-malign-foreign-influence-campaign-will-be-challenge-for-biden-admin.amp",
-      "publishedDateTime": "2021-01-19T03:33:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -1183,170 +1347,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-to-make-trump-look-bad.md",
-      "title": "GOP Lawmaker Claimed 'Democratic Machine' Paid Capitol Rioters to Make Trump Look Bad",
-      "excerpt": "As rioters supporting President Donald Trump attacked the U.S. Capitol on January 6, newly elected Republican North Carolina Congressman Madison Cawthorn told conservative talk radio program The Charlie Kirk Show that the \"Democratic machine\" had placed \"agitators\" among the mob in order to make Trump and his followers look bad.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458",
-      "originalUrl": "https://www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1710490/madison-cawthorn-democratic-machine-rioters-trump-agitators.jpg",
-          "width": 3308,
-          "height": 1932,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458?amp=1",
-      "publishedDateTime": "2021-01-18T14:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-acting-dhs-secretary-we-want-to-leave-no-stone-unturned-in-securing-biden-inauguration.md",
-      "title": "Acting DHS secretary: We want to leave 'no stone unturned' in securing Biden inauguration",
-      "excerpt": "Acting Homeland Security Secretary Peter Gaynor told \"America Reports\" Monday that there is a \"heightened sense of alert\" surrounding the security preparations for Joe Biden's inauguration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gxODbRKz3tI/inauguration-security-national-guard-fbi-dhs-peter-gaynor",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gxODbRKz3tI/inauguration-security-national-guard-fbi-dhs-peter-gaynor",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/inauguration-security-national-guard-fbi-dhs-peter-gaynor.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/inauguration-security-national-guard-fbi-dhs-peter-gaynor.amp",
-      "publishedDateTime": "2021-01-18T13:57:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-melania-trump-releases-farewell-message-it-has-been-the-greatest-honor-of-my-life.md",
-      "title": "Melania Trump releases farewell message: 'It has been the greatest honor of my life'",
-      "excerpt": "Outgoing first lady Melania Trump reflected on her four years in the White House during a farewell address to the American people on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qdl1wRYnZ-k/melania-trump-farewell-message-it-has-been-the-greatest-honor-of-my-life",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qdl1wRYnZ-k/melania-trump-farewell-message-it-has-been-the-greatest-honor-of-my-life",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/37de2408-7493-4801-817f-d667d7ded4c2/0178130e-a86f-4eda-b418-49d1f3f50c50/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/melania-trump-farewell-message-it-has-been-the-greatest-honor-of-my-life.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-farewell-message-it-has-been-the-greatest-honor-of-my-life.amp",
-      "publishedDateTime": "2021-01-18T13:41:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

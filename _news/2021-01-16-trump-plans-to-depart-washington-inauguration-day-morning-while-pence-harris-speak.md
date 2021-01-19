@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-plans-depart-washington-in
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643"
 type: article
 quality: 158
-heat: 2378
+heat: 2398
 published: true
 
 provider:
@@ -475,6 +475,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/892d79fbaa87d84e20979a91178e71d3e1ea5683/0_88_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e5070c389f55db6e6c82337fe09ca189"
         width: 600
         height: 360
+        isCached: true
+  - title: "Live Updates: Biden heads to Washington as capital gears up for inauguration"
+    excerpt: "Washington — President-elect Joe Biden left his home state of Delaware on Tuesday to travel to Washington, where he will be sworn in as president of the United States at Wednesday's inauguration. In an emotional farewell to the state,"
+    publishedDateTime: 2021-01-19T20:26:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/biden-trump-presidential-transition-2021-01-19/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/biden-trump-presidential-transition-2021-01-19/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/biden-trump-presidential-transition-2021-01-19/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/19/1eddd496-3081-40b0-935d-cdfbe1a4a653/thumbnail/1200x630g2/80ab0c0b7d2d6a29f31ed846941c7093/gettyimages-1230675824.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "U.S. House urges Pence to start process of removing Trump from office"
     excerpt: "The U.S. House of Representatives on Tuesday voted to urge Vice President Mike Pence to start the U.S. Constitution's 25th Amendment process of removing President Donald Trump from office, although the vice president already has said he will not do so."
