@@ -113,8 +113,8 @@ related:
         isCached: true
   - title: "Biden inauguration: Donald Trump's last full day as US president - live updates"
     excerpt: "President expected to issue 100 pardons as Covid cases reach 24 million"
-    publishedDateTime: 2021-01-19T09:39:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates?page=with:block-6006a21a8f08c87d5e8187ca"
+    publishedDateTime: 2021-01-19T11:32:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates?page=with:block-6006c5bc8f0847f62dee5eb2"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
     type: article
@@ -559,6 +559,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden to block Trump's plan to lift COVID-19 European travel restrictions"
+    excerpt: "U.S. President-elect Joe Biden plans to quickly extend travel restrictions barring travel by most people who have recently been in much of Europe and Brazil soon after President Donald Trump lifted those requirements effective Jan."
+    publishedDateTime: 2021-01-19T12:57:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-travel-exclusi-idCAKBN29N20Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548250195&r=LYNXMPEH0H19C&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Trump prepares to offer clemency to more than 100 people in his final hours in office"
     excerpt: "The president has been consumed with the question of whether to issued preemptive pardons to his children, top aides and himself, but it remains unclear whether he will do so."
     publishedDateTime: 2021-01-18T10:54:00Z
@@ -921,6 +935,22 @@ related:
         width: 1024
         height: 680
         isCached: true
+  - title: "Melania Trump Faces Criticism For Not Giving Jill Biden White House Tour"
+    excerpt: "Melania Trump received backlash on social media after reports said she broke tradition by not giving incoming first lady Jill Biden a pre-inauguration tour of the White House."
+    publishedDateTime: 2021-01-19T09:30:00Z
+    webUrl: "https://ibtimes.com/melania-trump-faces-criticism-not-giving-jill-biden-white-house-tour-3125214"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-faces-criticism-not-giving-jill-biden-white-house-tour-3125214?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-faces-criticism-not-giving-jill-biden-white-house-tour-3125214?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 89
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/08/melania-trump.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden is raising tens of millions of dollars for his inauguration but won't say where the money is going"
     excerpt: "Biden is raising tens of millions of dollars for the inaugural celebrations, including from corporate giants with big business before the federal government."
     publishedDateTime: 2021-01-17T00:10:00Z
@@ -934,6 +964,22 @@ related:
       - url: "https://i.insider.com/600262d2660f6c0018349926?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Joe Biden’s COVID team is nervous about what the Trump team hasn’t told them"
+    excerpt: "CNN With the hours dwindling until Joe Biden is sworn in — officially taking the helm of the US government during its worst health crisis in 100"
+    publishedDateTime: 2021-01-19T12:49:00Z
+    webUrl: "https://www.ocregister.com/2021/01/19/joe-bidens-covid-team-is-nervous-about-what-the-trump-team-hasnt-told-them/"
+    ampWebUrl: "https://www.ocregister.com/2021/01/19/joe-bidens-covid-team-is-nervous-about-what-the-trump-team-hasnt-told-them/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/01/19/joe-bidens-covid-team-is-nervous-about-what-the-trump-team-hasnt-told-them/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 87
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/01/200925174647-trump-v-biden-covid-19-live-video-2-1.jpg?w=576&h=324"
+        width: 576
+        height: 324
         isCached: true
   - title: "Trump’s Senate impeachment trial could begin on day of Joe Biden’s inauguration"
     excerpt: "The impeachment trial timeline and schedule are largely set by Senate procedures and will start as soon as the House delivers the article of impeachment."

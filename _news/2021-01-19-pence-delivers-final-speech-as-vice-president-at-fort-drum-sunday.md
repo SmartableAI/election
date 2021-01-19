@@ -73,14 +73,30 @@ related:
         width: 1024
         height: 698
         isCached: true
-  - title: "'Man without a home.' What the future may hold for Vice President Mike Pence"
-    excerpt: "After four years of steadfast loyalty to Trump, Pence is said to be open to a 2024 run, but his rift with the president may close off that option."
-    publishedDateTime: 2021-01-19T10:17:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
+  - title: "How Mike Pence's hometown views his legacy as vice presidency comes to an end"
+    excerpt: "In a music store in this small city 45 minutes southeast of Indianapolis, a picture of Vice President Mike Pence playing guitar hangs by the door. Nearby"
+    publishedDateTime: 2021-01-19T11:17:00Z
+    webUrl: "https://www.southbendtribune.com/news/indiana/how-pences-hometown-views-his-legacy-as-his-vice-presidency-comes-to-a-tumultuous-end/article_4db3634c-58ff-11eb-bc43-2fea0b3c7ab5.html"
+    ampWebUrl: "https://www.southbendtribune.com/news/indiana/how-pences-hometown-views-his-legacy-as-his-vice-presidency-comes-to-a-tumultuous-end/article_4db3634c-58ff-11eb-bc43-2fea0b3c7ab5.amp.html"
+    cdnAmpWebUrl: "https://www-southbendtribune-com.cdn.ampproject.org/c/s/www.southbendtribune.com/news/indiana/how-pences-hometown-views-his-legacy-as-his-vice-presidency-comes-to-a-tumultuous-end/article_4db3634c-58ff-11eb-bc43-2fea0b3c7ab5.amp.html"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: South Bend Tribune
+      domain: southbendtribune.com
+    quality: 72
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/southbendtribune.com/content/tncms/assets/v3/editorial/6/ab/6abb0278-5900-11eb-ac74-cf89567af00a/60049bb044f83.image.jpg?resize=1024%2C698"
+        width: 1024
+        height: 698
+        isCached: true
+  - title: "'Man without a home.' What the future may hold for Vice President Mike Pence"
+    excerpt: "After four years of steadfast loyalty to Trump, Pence is said to be open to a 2024 run, but his rift with the president may close off that option."
+    publishedDateTime: 2021-01-19T12:03:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 52
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?crop=3276,1843,x0,y166&width=3200&height=1680&fit=bounds"

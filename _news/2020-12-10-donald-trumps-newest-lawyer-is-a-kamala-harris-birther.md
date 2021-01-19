@@ -120,6 +120,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Biden's Covid team is nervous about what the Trump team hasn't told them"
+    excerpt: "With the hours dwindling until Joe Biden is sworn in -- officially taking the helm of the US government during its worst health crisis in 100 years -- a sense of nervousness has set in among those advising the incoming President on the pandemic.\n    \n"
+    publishedDateTime: 2021-01-19T12:42:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D1Pn4F6sraQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/biden-team-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/biden-team-covid/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118135018-04-joe-biden-0115-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Harris to be sworn in as vice president by Justice Sonia Sotomayor"
     excerpt: "Kamala Harris will be sworn in Wednesday as the next vice president of the United States by Supreme Court Justice Sonia Sotomayor, according to a Harris aide.\n    \n"
     publishedDateTime: 2021-01-16T20:40:04Z

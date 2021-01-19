@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's legacy will take years to purge from the American psyche"
+    excerpt: "After four exhausting years of raging tweets, lies, \"fire and fury\" rants and orders for far-right extremists to \"stand back and stand by,\" it's almost over.\n    \n"
+    publishedDateTime: 2021-01-19T12:14:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EIuX4_QdrU4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/donald-trump-presidency/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/donald-trump-presidency/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118002735-05-donald-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Read: House Democrats' draft of a new article of impeachment against Trump"
     excerpt: "House Democrats have circulated a draft of a new impeachment resolution against President Donald Trump with one article of impeachment, \"incitement of insurrection.\"\n    \n"
     publishedDateTime: 2021-01-08T20:37:32Z

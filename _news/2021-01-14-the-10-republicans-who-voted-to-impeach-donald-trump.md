@@ -207,6 +207,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "US historians on what Donald Trump's legacy will be"
+    excerpt: "What's Trump's key legacy? Donald Trump will be remembered as the first president to be impeached twice. He fed the myth that the election was stolen, summoned his supporters to Washington to protest the certification of the Electoral College vote,"
+    publishedDateTime: 2021-01-19T12:47:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55640427"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55640427"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55640427"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/5B79/production/_116571432_trump-rushmore-cps.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Trump enters final days in power as US braces for potential unrest – live"
     excerpt: "Nation wakes to fear of more trouble in wake of Capitol attack but also hope inauguration can begin new era"
     publishedDateTime: 2021-01-17T14:49:00Z
@@ -401,6 +417,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "ShowBiz Minute: Wonder, Brooks, Trump"
+    excerpt: "In open letter to Dr. King, Stevie Wonder calls for equality; Garth Brooks to perform at Biden inauguration; Trump baby protest blimp enters Museum of London collection. (Jan. 19)"
+    publishedDateTime: 2021-01-19T12:30:00Z
+    webUrl: "https://www.usatoday.com/videos/entertainment/2021/01/19/showbiz-minute-wonder-brooks-trump/4209473001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/11a570c1-2622-4199-915d-809d35d375ba-20201013_248_STEVIE_FINAL.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump baby protest blimp enters Museum of London collection"
     excerpt: "The Trump Baby Blimp will live on long after its namesake has left the White House."
     publishedDateTime: 2021-01-19T08:24:00Z
@@ -412,6 +442,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Trump expected to issue new wave of pardons"
+    excerpt: "Watch \"President Trump expected to issue new wave of pardons during last full day in office\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-01-19T12:51:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210119123224-president-trump-expected-to-issue-new-wave-of-pardons-during-last-full-day-in-office/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/19/story_08611300_1611060124.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "House rushes to impeach Trump after Pence says he won’t invoke 25th Amendment"
     excerpt: "Already scheduled to leave office next week, Trump is on the verge of becoming the only president in history to be twice impeached."
     publishedDateTime: 2021-01-13T10:05:00Z

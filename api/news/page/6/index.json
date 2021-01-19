@@ -2,6 +2,170 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-14-siege-was-in-the-name-of-the-donald-trump-rep-cicilline.md",
+      "title": "Siege was 'in the name of the Donald Trump': Rep. Cicilline",
+      "excerpt": "Rep. Cicilline. Posted . Democratic Congressman David Cicilline railed against President Donald Trump on Wednesday ahead of T",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idOVDV1MRBZ",
+      "originalUrl": "https://www.reuters.com/video/watch/idOVDV1MRBZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210113&i=OVDV1MRBZ&r=OVDV1MRBZ&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement.md",
+      "title": "Cindy McCain trades shots with top AZ Republican over Biden endorsement",
+      "excerpt": "Cindy McCain, widow of the late GOP Sen. John McCain, fired back at the state's Republican Party on Tuesday following the announcement of a resolution to censure her over supposed ties to leftist, globalist causes and failure to support President Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4MtFVRz_Zw8/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4MtFVRz_Zw8/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b15a729f-7e48-4c06-a52d-20c5c73df2fe/be420134-8c4e-47c5-84c3-5b5908bc7c4d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement.amp",
+      "publishedDateTime": "2021-01-13T12:37:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-trump-would-have-standing-to-challenge-his-impeachment-trial-turley.md",
+      "title": "Trump 'would have standing to challenge' his impeachment trial: Turley",
+      "excerpt": "George Washington University law professor Jonathan Turley told “America’s Newsroom” on Wednesday that President Trump “would have standing to challenge” his impeachment trial potentially taking place after he is no longer in office “and the court could rule on it.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kSTdzGFBWVY/trump-standing-challenge-impeachment-trial-turley",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kSTdzGFBWVY/trump-standing-challenge-impeachment-trial-turley",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-standing-challenge-impeachment-trial-turley.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-standing-challenge-impeachment-trial-turley.amp",
+      "publishedDateTime": "2021-01-13T12:19:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-live-impeachment-updates-gop-house-leader-trump-bears-responsibility-for-riot-but-impeachment-a-mistake.md",
       "title": "Live impeachment updates: GOP House leader: Trump 'bears responsibility' for riot, but impeachment a 'mistake'",
       "excerpt": "A vote to impeach will further divide the nation. A vote to impeach will further fan the flames of partisan division,\" Rep. Kevin McCarthy said.",
@@ -344,7 +508,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -891,7 +1055,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -947,7 +1111,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 375,
+      "heat": 395,
       "tags": null,
       "images": [
         {
@@ -1210,172 +1374,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-trumps-top-bankers-deutsche-banks-and-signature-cut-future-ties.md",
-      "title": "Trump's top bankers Deutsche Banks and Signature cut future ties",
-      "excerpt": "In the wake of the deadly riots on Capitol Hill last week, Deutsche Bank and Signature Bank have said they are cutting future ties with President Donald Trump. That could leave the president personally on the hook for millions of dollars when several large loans he has personally guaranteed come due in the next two years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/business/business-news/trump-s-top-bankers-deutsche-banks-signature-cut-future-ties-n1253895",
-      "originalUrl": "https://www.nbcnews.com/business/business-news/trump-s-top-bankers-deutsche-banks-signature-cut-future-ties-n1253895",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2021_02/3441493/210112-deutsche-bank-se-1035a_81623fdd8acbbe2a62e11ba9b949db39.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253895",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253895",
-      "publishedDateTime": "2021-01-12T10:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-watch-rep-torres-emotional-plea-to-mike-pence.md",
-      "title": "Watch Rep. Torres' emotional plea to Mike Pence",
-      "excerpt": "Rep. Norma Torres (D-CA) makes an emotional plea to Vice President Mike Pence during a House debate on a bill which would call for President Trump to be removed by the 25th Amendment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/politics/2021/01/12/norma-torres-mike-pence-attack-on-democracy-nr-vpx.cnn",
-      "originalUrl": "https://www.cnn.com/videos/politics/2021/01/12/norma-torres-mike-pence-attack-on-democracy-nr-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210112122951-rep-norma-torres-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/01/12/norma-torres-mike-pence-attack-on-democracy-nr-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/12/norma-torres-mike-pence-attack-on-democracy-nr-vpx.cnn",
-      "publishedDateTime": "2021-01-12T09:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-bette-midler-says-donald-trump-will-burn-down-the-white-house-before-he-leaves.md",
-      "title": "Bette Midler Says Donald Trump Will 'Burn Down' The White House Before He Leaves",
-      "excerpt": "\"How many more will die in the service of this mediocrity? And watch, he'll burn the WH down before he goes,\" Midler tweeted Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892",
-      "originalUrl": "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1673938/bette-midler.jpg",
-          "width": 3000,
-          "height": 2023,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1",
-      "publishedDateTime": "2021-01-12T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

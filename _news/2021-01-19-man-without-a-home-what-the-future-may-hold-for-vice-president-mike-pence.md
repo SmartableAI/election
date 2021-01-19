@@ -2,17 +2,17 @@
 category: news
 title: "'Man without a home.' What the future may hold for Vice President Mike Pence"
 excerpt: "After four years of steadfast loyalty to Trump, Pence is said to be open to a 2024 run, but his rift with the president may close off that option."
-publishedDateTime: 2021-01-19T10:17:00Z
-originalUrl: "https://www.freep.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
-webUrl: "https://www.freep.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
+publishedDateTime: 2021-01-19T12:03:00Z
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -73,6 +73,22 @@ related:
         width: 1024
         height: 698
         isCached: true
+  - title: "How Mike Pence's hometown views his legacy as vice presidency comes to an end"
+    excerpt: "In a music store in this small city 45 minutes southeast of Indianapolis, a picture of Vice President Mike Pence playing guitar hangs by the door. Nearby"
+    publishedDateTime: 2021-01-19T11:17:00Z
+    webUrl: "https://www.southbendtribune.com/news/indiana/how-pences-hometown-views-his-legacy-as-his-vice-presidency-comes-to-a-tumultuous-end/article_4db3634c-58ff-11eb-bc43-2fea0b3c7ab5.html"
+    ampWebUrl: "https://www.southbendtribune.com/news/indiana/how-pences-hometown-views-his-legacy-as-his-vice-presidency-comes-to-a-tumultuous-end/article_4db3634c-58ff-11eb-bc43-2fea0b3c7ab5.amp.html"
+    cdnAmpWebUrl: "https://www-southbendtribune-com.cdn.ampproject.org/c/s/www.southbendtribune.com/news/indiana/how-pences-hometown-views-his-legacy-as-his-vice-presidency-comes-to-a-tumultuous-end/article_4db3634c-58ff-11eb-bc43-2fea0b3c7ab5.amp.html"
+    type: article
+    provider:
+      name: South Bend Tribune
+      domain: southbendtribune.com
+    quality: 72
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/southbendtribune.com/content/tncms/assets/v3/editorial/6/ab/6abb0278-5900-11eb-ac74-cf89567af00a/60049bb044f83.image.jpg?resize=1024%2C698"
+        width: 1024
+        height: 698
+        isCached: true
   - title: "Pence delivers final speech as Vice President at Fort Drum Sunday"
     excerpt: "In what was called his “last public speech” while in office, Vice President Mike Pence repeatedly thanked the U.S. Army’s 10th Mountain Division for its service to the"
     publishedDateTime: 2021-01-19T04:55:00Z
@@ -97,6 +113,6 @@ related:
       domain: fresnobee.com
     quality: 35
 
-secured: "IK9Miwq1/HTLIdP210zL+tFDQWIqcsjyaExkUypXtNsnRKUb18gDajEM852huZPXfyUBuiLihtmP86uuqW3W9yHsz0r3SgdgZ0tvSQSgK7ERREuk247vaEBk8/Kftn+OffH4mW/Wqvw2v4wOgemxBdg9TI0quY/QL5re2vPwcveOByVDjPS5CJCdUeIyJ6zVCFwAC1CPN/ch09tQN6iIDwyVLXUZ4sR6oRB7F1Nh2UUfQFI4lfIvDCNf0uslJEoN4IMTQ7VJy0LAmbcBy6Z3r4mCOtODME7eg3SAK0Iq66ziCDWJwAtqEX1SQ4Pvsy/Adu354P4YNYgrPfqfvr8uvp+hhcA5sjjZYuHEPWmBiJA=;wm1tgtMPmXg3fEoVPywICA=="
+secured: "M+kWs+uMeiO8jBgxyAnFtHXvnieQE7dSZJ3LKdPALnDFWvN5cWt8yqUExn8FRqnAXWK93JnR+ee2PlNRrOUkcIxzFO/f5c9/5HFSTavouAjv8aCVMkeJCi1+EcM2OeLfPJO98I2kTPYGljEF3wr+enNPZLphTrAAjRHJkrBcVznvRPya7c+fcsi8pcDP+6N2WlcjJh8pWCsaePLwrnUShACYgo3cGlns2fRBCyAOYg9tKeikk7+WK4rCopo1f3ju7mx91ZjyxW86kbdoDlApr1OhuC8aLu/94PhVq6VhWVe6rOGwtT6PE9ZVnhW4dswfsiVrMncwdXTsmXvYSUei1Yh8mwOj8tBa796dXMIrJGY=;Xesv5zxRj+K9DPY5bZwUsw=="
 ---
 

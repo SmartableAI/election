@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Political divides deepen Biden's COVID challenge: The Note"
+    excerpt: "The political divides so evident at this moment are likely to enhance the difficulties President-elect Joe Biden will face."
+    publishedDateTime: 2021-01-19T11:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/political-divides-deepen-bidens-covid-challenge-note/story?id=75325258"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/political-divides-deepen-bidens-covid-challenge-note/story?id=75325258"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/political-divides-deepen-bidens-covid-challenge-note/story?id=75325258"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/General/president-elect-joe-biden-science-nominees-01-ap-llr-210116_1610824252516_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden chief of staff Klain says he expects 500,000 U.S. COVID-19 deaths next month"
     excerpt: "U.S. President-elect Joe Biden's incoming chief of staff Ron Klain said on Friday he expects the United States to hit 500,000 COVID-19 deaths next month."
     publishedDateTime: 2021-01-15T22:30:00Z

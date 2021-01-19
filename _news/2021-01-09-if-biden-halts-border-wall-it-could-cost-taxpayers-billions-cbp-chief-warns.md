@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden picks transgender woman as assistant health secretary"
+    excerpt: "President-elect Joe Biden has tapped Pennsylvania Health Secretary Rachel Levine to be his assistant secretary of health, leaving her poised to become the first openly transgender federal official to be confirmed by the U.S. Senate."
+    publishedDateTime: 2021-01-19T12:29:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kjBhHljD__U/biden-transgender-woman-assistant-health-secretary-nominee"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transgender-woman-assistant-health-secretary-nominee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transgender-woman-assistant-health-secretary-nominee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Rachel-Levine-Biden-assistant-health-secretary-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden calls on protesters to 'pull back,' says their actions border on 'sedition'"
     excerpt: "President-elect Joe Biden minced no words Wednesday afternoon in response to the protesters who stormed Capitol Hill, saying that their actions “do not reflect a True America” and “border on seditious.”"
     publishedDateTime: 2021-01-06T22:37:23Z

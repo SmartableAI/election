@@ -2,6 +2,153 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-15-ted-cruzs-former-staffers-are-disgusted-by-his-new-low-for-trump.md",
+      "title": "Ted Cruz’s Former Staffers Are ‘Disgusted’ by His New Low for Trump",
+      "excerpt": "Ted Cruz has long had a public reputation as an unctuous asshole. Even so, his staffers have tended to hold him in high regard as a kind and geeky man who treated his underlings well even while his fellow senators loathed him.",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/2021/01/ted-cruzs-former-staff-disgusted-by-his-new-low-for-trump.html",
+      "originalUrl": "https://nymag.com/intelligencer/2021/01/ted-cruzs-former-staff-disgusted-by-his-new-low-for-trump.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/ca8/dcb/e481ac5a11528488a970fe59710d78add0-ted-cruz.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/01/ted-cruzs-former-staff-disgusted-by-his-new-low-for-trump.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/ted-cruzs-former-staff-disgusted-by-his-new-low-for-trump.html",
+      "publishedDateTime": "2021-01-14T18:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-melania-trump-not-sad-about-leaving-white-house-flotus-not-a-victim.md",
+      "title": "Melania Trump 'Not Sad' About Leaving White House, FLOTUS Not A 'Victim'",
+      "excerpt": "Melania Trump is not sad about leaving the White House and she is not the victim as what she previously claimed, according to a report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/melania-trump-not-sad-about-leaving-white-house-flotus-not-victim-3122487",
+      "originalUrl": "https://www.ibtimes.com/melania-trump-not-sad-about-leaving-white-house-flotus-not-victim-3122487",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/melania-trump-not-sad-about-leaving-white-house-flotus-not-victim-3122487?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-not-sad-about-leaving-white-house-flotus-not-victim-3122487?amp=1",
+      "publishedDateTime": "2021-01-14T16:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-as-new-york-dumps-trump-a-trump-exodus-to-florida-is-underway.md",
+      "title": "As New York dumps Trump, a Trump exodus to Florida is underway",
+      "excerpt": "As New York officials make aggressive moves to cut ties with President Trump, planning has been underway for Trump and some of his children to ditch the Empire State.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
+      "originalUrl": "https://abcnews.go.com/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/trump-family-gty-ml-210114_1610647078401_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713",
+      "publishedDateTime": "2021-01-14T15:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-14-biden-labor-secretary-nominee-marty-walshs-campaign-paid-his-girlfriends-employer-nearly-1-million.md",
       "title": "Biden labor secretary nominee Marty Walsh's campaign paid his girlfriend's employer nearly $1 million",
       "excerpt": "Boston Mayor Marty Walsh, President-elect Biden’s nominee for Labor Secretary, paid his girlfriend’s fundraising consulting firm over $1 million, campaign filings show. ",
@@ -446,7 +593,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 184,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1154,170 +1301,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/maxine-waters-trump-civil-war.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/maxine-waters-trump-civil-war.amp",
       "publishedDateTime": "2021-01-13T12:45:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-siege-was-in-the-name-of-the-donald-trump-rep-cicilline.md",
-      "title": "Siege was 'in the name of the Donald Trump': Rep. Cicilline",
-      "excerpt": "Rep. Cicilline. Posted . Democratic Congressman David Cicilline railed against President Donald Trump on Wednesday ahead of T",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idOVDV1MRBZ",
-      "originalUrl": "https://www.reuters.com/video/watch/idOVDV1MRBZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20210113&i=OVDV1MRBZ&r=OVDV1MRBZ&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-13T12:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement.md",
-      "title": "Cindy McCain trades shots with top AZ Republican over Biden endorsement",
-      "excerpt": "Cindy McCain, widow of the late GOP Sen. John McCain, fired back at the state's Republican Party on Tuesday following the announcement of a resolution to censure her over supposed ties to leftist, globalist causes and failure to support President Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4MtFVRz_Zw8/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4MtFVRz_Zw8/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b15a729f-7e48-4c06-a52d-20c5c73df2fe/be420134-8c4e-47c5-84c3-5b5908bc7c4d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement.amp",
-      "publishedDateTime": "2021-01-13T12:37:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-trump-would-have-standing-to-challenge-his-impeachment-trial-turley.md",
-      "title": "Trump 'would have standing to challenge' his impeachment trial: Turley",
-      "excerpt": "George Washington University law professor Jonathan Turley told “America’s Newsroom” on Wednesday that President Trump “would have standing to challenge” his impeachment trial potentially taking place after he is no longer in office “and the court could rule on it.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kSTdzGFBWVY/trump-standing-challenge-impeachment-trial-turley",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kSTdzGFBWVY/trump-standing-challenge-impeachment-trial-turley",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-standing-challenge-impeachment-trial-turley.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-standing-challenge-impeachment-trial-turley.amp",
-      "publishedDateTime": "2021-01-13T12:19:30-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

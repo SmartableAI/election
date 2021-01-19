@@ -2,6 +2,157 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-12-01-live-updates-arizona-wisconsin-certify-election-results-for-biden.md",
+      "title": "Live Updates: Arizona, Wisconsin certify election results for Biden",
+      "excerpt": "President Trump suffered another setback in his push to overturn his defeat in the presidential election, as Arizona on Monday certified President-elect Joe Biden's victory in the state.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/23aMvB4EcFg/live-updates-election-12-1-2020",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/23aMvB4EcFg/live-updates-election-12-1-2020",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 410,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3212f6e9-d407-4a26-afce-c45958a41c08/58384915-7131-4732-88d5-2bd8ef6d9eac/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-election-12-1-2020.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-election-12-1-2020.amp",
+      "publishedDateTime": "2020-11-30T19:48:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-stocks-ready-to-rally-in-21-but-outgoing-trump-is-risk-pacific-life-fund-advisors.md",
+      "title": "Stocks ready to rally in '21 but outgoing Trump is risk: Pacific Life Fund Advisors",
+      "excerpt": "U.S. stock markets are poised to rally in 2021, bolstered by the predictability of a new U.S. president, fresh stimulus and infrastructure spending, plus a coronavirus vaccine. But there is a potential wild card: outgoing President Donald Trump,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-investment-summit-pacificlife-idUSKBN28A34F",
+      "originalUrl": "https://www.reuters.com/article/us-investment-summit-pacificlife-idUSKBN28A34F",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201130&t=2&i=1542972639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAT1RT",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28A34F",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28A34F",
+      "publishedDateTime": "2020-11-30T19:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue.md",
+      "title": "Mike Pence will visit Savannah Friday to rally for Loeffler, Perdue",
+      "excerpt": "Vice President Mike Pence will be in Georgia for the second time in two weeks on Friday, and this time, he’ll be in Savannah. Pence will return to",
+      "sourceUrl": null,
+      "webUrl": "https://www.savannahnow.com/news/20201130/mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue",
+      "originalUrl": "https://www.savannahnow.com/news/20201130/mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.savannahnow.com/apps/pbcsi.dll/bilde?Site=GA&Date=20201130&Category=NEWS&ArtNo=201139931&Ref=AR",
+          "width": 2331,
+          "height": 1556,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.savannahnow.com/news/20201130/mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue?template=ampart",
+      "cdnAmpWebUrl": "https://www-savannahnow-com.cdn.ampproject.org/c/s/www.savannahnow.com/news/20201130/mike-pence-will-visit-savannah-friday-to-rally-for-loeffler-perdue?template=ampart",
+      "publishedDateTime": "2020-11-30T18:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Savannah Morning News",
+        "domain": "savannahnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-pence-says-covid-vaccine-distribution-could-begin-mid-december.md",
       "title": "Pence Says Covid Vaccine Distribution Could Begin Mid-December",
       "excerpt": "Vice President Mike Pence told governors on Monday that distribution of a coronavirus vaccine could begin by the third week of December, signaling that U.S. regulators will swiftly approve an emergency authorization for the first shots.",

@@ -2,6 +2,172 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-13-trumps-top-bankers-deutsche-banks-and-signature-cut-future-ties.md",
+      "title": "Trump's top bankers Deutsche Banks and Signature cut future ties",
+      "excerpt": "In the wake of the deadly riots on Capitol Hill last week, Deutsche Bank and Signature Bank have said they are cutting future ties with President Donald Trump. That could leave the president personally on the hook for millions of dollars when several large loans he has personally guaranteed come due in the next two years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/business/business-news/trump-s-top-bankers-deutsche-banks-signature-cut-future-ties-n1253895",
+      "originalUrl": "https://www.nbcnews.com/business/business-news/trump-s-top-bankers-deutsche-banks-signature-cut-future-ties-n1253895",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2021_02/3441493/210112-deutsche-bank-se-1035a_81623fdd8acbbe2a62e11ba9b949db39.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253895",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253895",
+      "publishedDateTime": "2021-01-12T10:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-watch-rep-torres-emotional-plea-to-mike-pence.md",
+      "title": "Watch Rep. Torres' emotional plea to Mike Pence",
+      "excerpt": "Rep. Norma Torres (D-CA) makes an emotional plea to Vice President Mike Pence during a House debate on a bill which would call for President Trump to be removed by the 25th Amendment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/politics/2021/01/12/norma-torres-mike-pence-attack-on-democracy-nr-vpx.cnn",
+      "originalUrl": "https://www.cnn.com/videos/politics/2021/01/12/norma-torres-mike-pence-attack-on-democracy-nr-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210112122951-rep-norma-torres-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/01/12/norma-torres-mike-pence-attack-on-democracy-nr-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/12/norma-torres-mike-pence-attack-on-democracy-nr-vpx.cnn",
+      "publishedDateTime": "2021-01-12T09:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-bette-midler-says-donald-trump-will-burn-down-the-white-house-before-he-leaves.md",
+      "title": "Bette Midler Says Donald Trump Will 'Burn Down' The White House Before He Leaves",
+      "excerpt": "\"How many more will die in the service of this mediocrity? And watch, he'll burn the WH down before he goes,\" Midler tweeted Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892",
+      "originalUrl": "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1673938/bette-midler.jpg",
+          "width": 3000,
+          "height": 2023,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1",
+      "publishedDateTime": "2021-01-12T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-easy-for-joe-biden-to-heal-country-with-opposition-silenced-on-social-media-dave-rubin.md",
       "title": "Easy for Joe Biden to 'heal' country with opposition silenced on social media: Dave Rubin",
       "excerpt": "Big Tech censorship of President Trump and conservatives needs to be addressed now, or soon everyone will be silenced, Dave Rubin warned Tuesday.",
@@ -338,7 +504,7 @@
       "originalUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director",
       "featuredContent": null,
       "highlight": null,
-      "heat": 545,
+      "heat": 525,
       "tags": null,
       "images": [
         {
@@ -1184,167 +1350,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-secret-service-investigating-death-threats-against-pence.md",
-      "title": "Secret Service investigating death threats against Pence",
-      "excerpt": "The U.S. Secret Service is investigating death threats against Vice President Mike Pence made by pro-Trump lawyer Lin Wood, Fox News has learned.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bvwv7aHEh7c/secret-service-investigative-death-threats-against-pence",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bvwv7aHEh7c/secret-service-investigative-death-threats-against-pence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007323466207.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/secret-service-investigative-death-threats-against-pence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/secret-service-investigative-death-threats-against-pence.amp",
-      "publishedDateTime": "2021-01-10T13:10:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-schwarzenegger-calls-president-trump-worst-president-ever.md",
-      "title": "Schwarzenegger calls President Trump 'worst president ever'",
-      "excerpt": "Former California Gov_ Arnold Schwarzenegger is calling President Donald Trump a failed leader who “will go down in history as the worst president ever.”",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/schwarzenegger-calls-president-trump-worst-president-75165493",
-      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/schwarzenegger-calls-president-trump-worst-president-75165493",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/schwarzenegger-calls-president-trump-worst-president-75165493",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/schwarzenegger-calls-president-trump-worst-president-75165493",
-      "publishedDateTime": "2021-01-10T12:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-fox-news-host-confronts-mick-mulvaney-over-trump-will-concede-gracefully-op-ed.md",
-      "title": "Fox News Host Confronts Mick Mulvaney Over 'Trump Will Concede Gracefully' Op-Ed",
-      "excerpt": "\"I've seen the president be presidential before…but something is very different now,\" said the former acting White House chief of staff.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/fox-news-host-confronts-mick-mulvaney-over-trump-will-concede-gracefully-op-ed-1560339",
-      "originalUrl": "https://www.newsweek.com/fox-news-host-confronts-mick-mulvaney-over-trump-will-concede-gracefully-op-ed-1560339",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1702428/mick-mulvaney-donald-trump-white-house.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/fox-news-host-confronts-mick-mulvaney-over-trump-will-concede-gracefully-op-ed-1560339?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fox-news-host-confronts-mick-mulvaney-over-trump-will-concede-gracefully-op-ed-1560339?amp=1",
-      "publishedDateTime": "2021-01-10T12:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

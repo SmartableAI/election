@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-unveils-19t-plan-s
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-unveils-19t-plan-stem-covid-19-steady-75269503"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Political divides deepen Biden's COVID challenge: The Note"
+    excerpt: "The political divides so evident at this moment are likely to enhance the difficulties President-elect Joe Biden will face."
+    publishedDateTime: 2021-01-19T11:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/political-divides-deepen-bidens-covid-challenge-note/story?id=75325258"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/political-divides-deepen-bidens-covid-challenge-note/story?id=75325258"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/political-divides-deepen-bidens-covid-challenge-note/story?id=75325258"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/General/president-elect-joe-biden-science-nominees-01-ap-llr-210116_1610824252516_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden: Current vaccine rollout 'a dismal failure'"
     excerpt: "President-elect Joe Biden called the current rollout of the coronavirus vaccine \"a dismal failure\" as he highlighted his $1.9 trillion plan to combat the pandemic and provide additional relief. (Jan."
     publishedDateTime: 2021-01-15T02:31:00Z

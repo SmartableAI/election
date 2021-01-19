@@ -488,6 +488,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump expected to issue pardons on last day as president while Senate set to reconvene"
+    excerpt: "President Trump plans to spend his last full day in office on Tuesday issuing 100 pardons or commutations, a senior administration official and a senior White House official tell CBS News. Meanwhile,"
+    publishedDateTime: 2021-01-19T11:45:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-pardons-capitol-security-inauguration/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-pardons-capitol-security-inauguration/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-pardons-capitol-security-inauguration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 117
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/19/780b0eb7-ef1b-472b-989e-50607be45824/thumbnail/1200x630/2bfa0e05a76d1a6da16f7c53a8079505/gettyimages-1230547965.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Blended families see themselves in Kamala Harris as she becomes 1st stepmom vice president"
+    excerpt: "When Kamala Harris takes the oath of office Wednesday to become vice president, she will be the first woman and first woman of color to serve in that elected position. Harris will also make ..."
+    publishedDateTime: 2021-01-19T09:08:00Z
+    webUrl: "https://abcnews.go.com/GMA/Family/blended-families-kamala-harris-1st-stepmom-vice-president/story?id=75279319"
+    ampWebUrl: "https://goodmorningamerica.com/amp/family/story/blended-families-kamala-harris-1st-stepmom-vice-president-75279319"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/family/story/blended-families-kamala-harris-1st-stepmom-vice-president-75279319"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 115
+    images:
+      - url: "https://s.abcnews.com/images/GMA/kamala-harris-family-ht-jt-210115_1610729255950_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "“Vice President Kamala Harris,” a Los Angeles Times Special Edition Magazine, is on Newsstands Now"
     excerpt: "The Los Angeles Times has published a commemorative magazine, “Vice President Kamala Harris,” in advance of the inauguration of the first American woman ever to hold the office. Harris has made a meteoric ascent in American politics – from Bay Area prosecutor to vice president-elect – and The Times has covered her every step of the way."
     publishedDateTime: 2021-01-11T23:31:00Z
@@ -757,20 +789,20 @@ related:
         height: 336
         isCached: true
   - title: "Mike Pence calls Kamala Harris to offer congratulations"
-    excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
-    publishedDateTime: 2021-01-16T06:05:00Z
-    webUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations"
-    ampWebUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations/amp"
-    cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations/amp"
+    excerpt: "It’s the first known contact between the elected members of the outgoing and incoming administrations. President Donald Trump has not reached out to President-elect Joe Biden and has repeatedly questioned the legitimacy of Biden’s win."
+    publishedDateTime: 2021-01-16T01:25:00Z
+    webUrl: "https://chicago.suntimes.com/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
     type: article
     provider:
-      name: The Oklahoman
-      domain: oklahoman.com
+      name: Chicago Sun-Times
+      domain: suntimes.com
     quality: 100
     images:
-      - url: "https://cdn2.newsok.biz/cache/1280x720_blur-95d4cd09934c1de7935d5144c353acbf.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Pence Calls VP-Elect Kamala Harris to Offer Congratulations"
     excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
@@ -1166,6 +1198,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Kamala Harris’ inauguration offers counterpoint to insurrection"
+    excerpt: "As images of white supremacists storming the Capitol sear into Americans’ minds, there is about to be another image that provides the case for optimism about the future: the moment when Kamala Harris,"
+    publishedDateTime: 2021-01-19T12:00:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-inauguration-offers-counterpoint-15880341.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-inauguration-offers-counterpoint-15880341.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-inauguration-offers-counterpoint-15880341.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/16/52/20507310/5/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Sen. Kamala Harris resigns from U.S. Senate ahead of inauguration"
     excerpt: "Kamala Harris formally stepped down from her role as senator Monday in advance of taking the oath of office as vice president of the United States in the 59th presidential inauguration."
     publishedDateTime: 2021-01-18T20:41:00Z
@@ -1200,17 +1248,17 @@ related:
         isCached: true
   - title: "Kamala Harris officially resigns from the US Senate ahead of inauguration"
     excerpt: "Vice President-elect Kamala Harris has formally submitted a letter of resignation for her US Senate seat to California Gov. Gavin Newsom, ending her four-year career in the chamber."
-    publishedDateTime: 2021-01-18T16:49:00Z
-    webUrl: "https://www.ocregister.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/"
-    ampWebUrl: "https://www.ocregister.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/amp/"
+    publishedDateTime: 2021-01-18T22:49:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/amp/"
     type: article
     provider:
-      name: Orange County Register
-      domain: ocregister.com
+      name: Mercury News
+      domain: mercurynews.com
     quality: 74
     images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2021/01/hypatia-h_b4c4004e4b0055dc58e440bfd2a392ef-h_82beb05c66e5b687c55d48020bcb0ebb-1.jpg?w=1024&h=726"
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_b4c4004e4b0055dc58e440bfd2a392ef-h_82beb05c66e5b687c55d48020bcb0ebb.jpg?w=1024&h=726"
         width: 1024
         height: 726
         isCached: true

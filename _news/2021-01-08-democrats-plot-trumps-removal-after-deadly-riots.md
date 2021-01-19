@@ -1070,6 +1070,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump leaves America at its most divided since the Civil War"
+    excerpt: "Donald Trump ends his tumultuous presidency with the nation confronting the greatest strain to its fundamental cohesion since the Civil War.\n    \n"
+    publishedDateTime: 2021-01-19T12:38:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fgUaUt9Nhx4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/trump-divided-america-civil-war/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/trump-divided-america-civil-war/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118164424-trump-af1-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's impeachment foretold everything that's happened since "
     excerpt: "Alarming as it is, the corrosive conclusion to 2020 in America was plainly visible in advance.\n    \n"
     publishedDateTime: 2020-12-20T13:47:40Z
@@ -1147,6 +1163,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210111132316-01-national-guard-dc-0111-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: The President might want Trump World, but he needs a real library"
+    excerpt: "For anyone at all disturbed by the alternate universe President Donald Trump has pushed as reality over the past four years, a nagging aggravation may be that one day this man will have a presidential library, just like the 13 most recent presidents to come before him.\n    \n"
+    publishedDateTime: 2021-01-19T03:02:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V222N_n4uf0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/what-matters-january-18/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/what-matters-january-18/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118164424-trump-af1-0112-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -2,6 +2,175 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-19-simply-no-place-for-politics-in-intelligence-work-bidens-spy-chief-nominee-will-say.md",
+      "title": "'Simply no place for politics' in intelligence work, Biden's spy chief nominee will say",
+      "excerpt": "Avril Haines is set to tell senators that \"the DNI must never shy away from speaking truth to power — even, especially, when doing so may be inconvenient or difficult.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/01/19/avril-haines-spy-chief-confirmation-hearing-460309",
+      "originalUrl": "https://www.politico.com/news/2021/01/19/avril-haines-spy-chief-confirmation-hearing-460309",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/52/e7/39a246014905962ddce1dba67c44/210118-haines-getty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/19/avril-haines-spy-chief-confirmation-hearing-460309",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/19/avril-haines-spy-chief-confirmation-hearing-460309",
+      "publishedDateTime": "2021-01-19T04:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-bidens-favorability-on-the-rise-as-majority-of-americans-think-hes-handling-transition-well.md",
+      "title": "Biden's favorability on the rise as majority of Americans think he's handling transition well",
+      "excerpt": "President-elect Joe Biden will take office Wednesday with high expectations and largely positive reviews of how he has handled the transition, according to a new CNN Poll conducted by SSRS. But those rosy assessments of Biden come as negative perceptions of how things are going in the United States are",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_bM7-TCVaUU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_bM7-TCVaUU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210118154054-01-biden-cabinet-nominations-1211-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/19/politics/cnn-poll-biden-favorability/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/cnn-poll-biden-favorability/index.html",
+      "publishedDateTime": "2021-01-19T04:26:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-biden-will-find-chinas-malign-foreign-influence-campaign-a-challenge-us-counter-intel-chief-says.md",
+      "title": "Biden will find China's malign foreign influence campaign a 'challenge,' US counter-intel chief says",
+      "excerpt": "EXCLUSIVE: National Counterintelligence and Security Center Director Bill Evanina said no country poses a \"broader, more severe\" threat to America than China, telling Fox News that its malign foreign influence campaign against the United States will be one of the \"bigger challenges\" for the incoming",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5phXmpdqusE/us-counter-intel-chief-says-chinas-malign-foreign-influence-campaign-will-be-challenge-for-biden-admin",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5phXmpdqusE/us-counter-intel-chief-says-chinas-malign-foreign-influence-campaign-will-be-challenge-for-biden-admin",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/us-counter-intel-chief-says-chinas-malign-foreign-influence-campaign-will-be-challenge-for-biden-admin.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-counter-intel-chief-says-chinas-malign-foreign-influence-campaign-will-be-challenge-for-biden-admin.amp",
+      "publishedDateTime": "2021-01-19T03:33:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-trump-clemency-likely-for-lil-wayne-no-pardons-for-giuliani-or-bannon-sources.md",
       "title": "Trump clemency likely for Lil Wayne, no pardons for Giuliani or Bannon: sources",
       "excerpt": "U.S. President Donald Trump is likely to grant clemency to rapper Lil Wayne on Tuesday in a final wave of pardons and commutations that is not expected to include lawyer Rudy Giuliani or ex-aide Steve Bannon,",
@@ -774,7 +943,7 @@
       "originalUrl": "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -1137,7 +1306,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1290,
+      "heat": 1350,
       "tags": null,
       "images": [
         {
@@ -1178,171 +1347,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-biden-to-nominate-gary-gensler-for-sec-commissioner-rohit-chopra-to-lead-consumer-financial-protection-bureau.md",
-      "title": "Biden to nominate Gary Gensler for SEC commissioner, Rohit Chopra to lead Consumer Financial Protection Bureau",
-      "excerpt": "President-elect Joe Biden is expected to nominate Gary Gensler to serve as the commissioner of the Securities and Exchange Commission and Rohit Chopra to lead the Consumer Financial Protection Bureau, a source familiar with the decision tells CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pt-KrcLRfK0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pt-KrcLRfK0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210117203700-rohit-chopra-gary-gensler-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/17/politics/gary-gensler-rohit-chopra-sec-cfpb-nominations/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/gary-gensler-rohit-chopra-sec-cfpb-nominations/index.html",
-      "publishedDateTime": "2021-01-17T18:40:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-pence-has-tried-to-reach-capitol-police-officer-who-led-rioters-away-from-senate-chambers-to-offer-thanks.md",
-      "title": "Pence has tried to reach Capitol Police officer who led rioters away from Senate chambers to offer thanks",
-      "excerpt": "Vice President Mike Pence reached out to Capitol Police officer Eugene Goodman late last week to thank him for his efforts during the attack on the US Capitol, a person close to Pence told CNN, but they haven't connected yet.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aGKLFH_kdk8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aGKLFH_kdk8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210114114844-01-eugene-goodman-capitol-riot-0106-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/17/politics/eugene-goodman-mike-pence-us-capitol-breach/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/eugene-goodman-mike-pence-us-capitol-breach/index.html",
-      "publishedDateTime": "2021-01-17T18:31:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-inauguration-day-2021-trump-to-have-own-elaborate-goodbye-ceremony.md",
-      "title": "Inauguration Day 2021: Trump To Have Own 'Elaborate' Goodbye Ceremony",
-      "excerpt": "President Trump is planning to hold a red-carpet send-off that would include a military band, a flypast by Air Force jets and a 21-gun salute on Jan. 20.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/inauguration-day-2021-trump-have-own-elaborate-goodbye-ceremony-3124362",
-      "originalUrl": "https://www.ibtimes.com/inauguration-day-2021-trump-have-own-elaborate-goodbye-ceremony-3124362",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/17/us-president-donald-trump-said-he-could-fix.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/inauguration-day-2021-trump-have-own-elaborate-goodbye-ceremony-3124362?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/inauguration-day-2021-trump-have-own-elaborate-goodbye-ceremony-3124362?amp=1",
-      "publishedDateTime": "2021-01-17T17:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

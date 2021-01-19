@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Trump will hand off the 'nuclear football' to Biden"
+    excerpt: "President Donald Trump will not be in attendance Wednesday to watch as his successor Joe Biden is sworn into office but his absence will have little impact on what may be one of the most important moments of Inauguration Day, the handing off of the \"nuclear football.\"\n    \n"
+    publishedDateTime: 2021-01-19T12:42:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wOUNGZTxv7c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/trump-biden-nuclear-football-inauguration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/trump-biden-nuclear-football-inauguration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160609154216-nuclear-codes-hertling-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden expected to call out Trump administration on pace of vaccine distribution"
     excerpt: "President-elect Joe Biden is set to confront the slower-than-expected pace at which the Trump administration is administering coronavirus vaccines in remarks Tuesday afternoon, a transition official tells CNN.\n    \n"
     publishedDateTime: 2020-12-29T16:02:19Z
@@ -283,6 +299,38 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210117191815-trump-oval-office-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "A four-year timeline of Donald Trump and the Supreme Court"
+    excerpt: "Here's a timeline of key events involving Trump and the Supreme Court over the past four years:\n    \n"
+    publishedDateTime: 2021-01-19T10:03:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7px9AuNIuaE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/supreme-court-trump-timeline/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/supreme-court-trump-timeline/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181108112858-02-kavanaugh-investiture-1108-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How to watch Biden's Cabinet confirmation hearings Tuesday"
+    excerpt: "Five of President-elect Joe Biden's national security Cabinet nominees will face Senate panels on Tuesday in the first step of the confirmation process.\n    \n"
+    publishedDateTime: 2021-01-19T12:39:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dGfPga46tG8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/how-to-watch-biden-cabinet-confirmation-hearings/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/how-to-watch-biden-cabinet-confirmation-hearings/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118153830-yellen-mayorkas-haines-austin-blinken-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -907,6 +955,6 @@ related:
         height: 773
         isCached: true
 
-secured: "3K8E2B2J5iBk8AUKzE1lup6NmRTtmJYU+3myNUB8wWtu1tg5NxtwBfI/KatKB8sKPY1NF9UztELpZCRjUp/+bNBorsqxh3qmlyt5GKwDDRK7/3aDP9OqYP/8Wj/1VgSELljBLb8LNDq8I6RBzoz9qSs8To92cifcLZPzr5CwMOZTJZ1TMBkdhRSbK4TjFDuv9dwl33mHsp8DPHOVAjlqp4fswz7CuxuCUXzubrpNudkr92PkFNZOP0XT+R+TGKdK3c1wZxFLgXu8/GMxWPWj2gSs+f+LeXRgu2aFX/SqeIODG/40GUr8EOhPc10F4nnd1rKp4lYzFAVLEw5KiQECArPyw6prOw58KIw3+UEYdMc=;LHSRBftW+QjMDxZ6vj8y3w=="
+secured: "Ug2Va3LEonioWOla80/sK2+VM+P1HNcWgpMKlxd7/wvV01+NpX4HAXDudF1P7NQJVN91Z6zVsKs9bSVrAPkPQ0S+f9oW1qFNmH/8z7N/x4IKx6RktB2mNDWnWxJiI53FZRz0OgTNGHbXT0OdjBz8pTcIFri7i4X3TldGR7FHtpYg4K0Apojb1hr22zBydc6tdH1wOWT0ETuB8RjuESIBEvNAzMapTSz/z6Z7w3yVmYR+awfqqkBAUyU2qwni/acV7pNPMXXb0ndkc4kyhAAV8kjtHi/TmOy7v/l95GxoS/UMEYXlonEl6mFayA5zAuBGRb+SCTY2yVNsJOFuGL4RjsPeppaNS1s8AHd3gcSLyzLvIfrPkv+jX6QZSH9Piod53u5EJz5ZniT1brSyN0S8RbYZd+4JnbhL5bJt3gn+0kU4Kyj25OdJ+OXcRpChvqtaUY1EhQSKC7qbDEcV0/LsCVndAtf9Yyj71JYRaY9bWKCOlbWit2VG3yj/R2/HnQt23zILxoUZaUvdyCeMqXRSyw==;7EkQrgW19j4PLZd/aeIrfw=="
 ---
 

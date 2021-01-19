@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-19-simply-no-place-for-politics-in-intelligence-work-bidens-spy-chief-nominee-will-say.md",
+      "title": "'Simply no place for politics' in intelligence work, Biden's spy chief nominee will say",
+      "excerpt": "Avril Haines is set to tell senators that \"the DNI must never shy away from speaking truth to power — even, especially, when doing so may be inconvenient or difficult.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/01/19/avril-haines-spy-chief-confirmation-hearing-460309",
+      "originalUrl": "https://www.politico.com/news/2021/01/19/avril-haines-spy-chief-confirmation-hearing-460309",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/52/e7/39a246014905962ddce1dba67c44/210118-haines-getty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/19/avril-haines-spy-chief-confirmation-hearing-460309",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/19/avril-haines-spy-chief-confirmation-hearing-460309",
+      "publishedDateTime": "2021-01-19T04:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-biden-transition-official-tells-migrant-caravans-now-is-not-the-time-to-come-to-us.md",
       "title": "Biden transition official tells migrant caravans: 'Now is not the time' to come to US",
       "excerpt": "An unnamed Biden transition official told NBC News that migrants hoping to claim asylum in the U.S. during the first few weeks of the new administration \"need to understand they're not going to be able to come into the United States immediately.",
@@ -119,7 +176,7 @@
       "originalUrl": "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1748,
+      "heat": 1808,
       "tags": null,
       "images": [
         {
@@ -224,7 +281,7 @@
       "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-unveils-19t-plan-stem-covid-19-steady-75269503",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -276,7 +333,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/federal-prisons-lockdown-run-biden-inauguration-75296751",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -536,7 +593,7 @@
       "originalUrl": "https://www.washingtonpost.com/health/asian-shares-mixed-following-biden-speech-wall-st-retreat/2021/01/14/b18916e2-56e7-11eb-acc5-92d2819a1ccb_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 505,
+      "heat": 545,
       "tags": null,
       "images": [
         {
@@ -683,7 +740,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -839,7 +896,7 @@
       "originalUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director",
       "featuredContent": null,
       "highlight": null,
-      "heat": 545,
+      "heat": 525,
       "tags": null,
       "images": [
         {
@@ -1497,58 +1554,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-joe-biden-denounces-violent-mob-at-us-capitol-this-must-end-now.md",
-      "title": "Joe Biden denounces violent mob at U.S. Capitol: \"This must end now\"",
-      "excerpt": "\"This is not dissent. It's disorder. It's chaos. It borders on sedition and it must end. Now,\" Mr. Biden said in remarks from Wilmington, Delaware. \"I call on this mob to pull back and allow the work of democracy to go forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/joe-biden-to-violent-mob-this-must-end-now/",
-      "originalUrl": "https://www.cbsnews.com/news/joe-biden-to-violent-mob-this-must-end-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/06/4a0dacba-5664-4bc2-8abb-160ed5515e4e/thumbnail/1200x630g2/e89a4d7f2cabe36860293e73fcb1fbc4/ap21006764485081.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-biden-to-violent-mob-this-must-end-now/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-to-violent-mob-this-must-end-now/",
-      "publishedDateTime": "2021-01-06T13:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

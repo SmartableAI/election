@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-19-biden-will-find-chinas-malign-foreign-influence-campaign-a-challenge-us-counter-intel-chief-says.md",
+      "title": "Biden will find China's malign foreign influence campaign a 'challenge,' US counter-intel chief says",
+      "excerpt": "EXCLUSIVE: National Counterintelligence and Security Center Director Bill Evanina said no country poses a \"broader, more severe\" threat to America than China, telling Fox News that its malign foreign influence campaign against the United States will be one of the \"bigger challenges\" for the incoming",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5phXmpdqusE/us-counter-intel-chief-says-chinas-malign-foreign-influence-campaign-will-be-challenge-for-biden-admin",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5phXmpdqusE/us-counter-intel-chief-says-chinas-malign-foreign-influence-campaign-will-be-challenge-for-biden-admin",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/us-counter-intel-chief-says-chinas-malign-foreign-influence-campaign-will-be-challenge-for-biden-admin.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-counter-intel-chief-says-chinas-malign-foreign-influence-campaign-will-be-challenge-for-biden-admin.amp",
+      "publishedDateTime": "2021-01-19T03:33:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-trump-rebuts-ny-times-1619-project-with-1776-report-urging-schools-to-reject-ideological-poison.md",
       "title": "Trump rebuts NY Times '1619 Project' with '1776 Report' urging schools to reject 'ideological poison'",
       "excerpt": "The Trump-backed panel released a 45-page report on the state of American education in what the White House described as a \"rebuttal\" to \"reckless\" historical accounts of the country's founding.",
@@ -1599,62 +1655,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/franklin-graham-asks-if-pelosi-promised-10-republicans-pieces-of-silver-to-betray-trump.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/franklin-graham-asks-if-pelosi-promised-10-republicans-pieces-of-silver-to-betray-trump.amp",
       "publishedDateTime": "2021-01-15T02:24:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-dan-scavino-tells-trump-officials-to-be-proud-of-accomplishments.md",
-      "title": "Dan Scavino tells Trump officials to be ‘proud’ of accomplishments",
-      "excerpt": "As the Trump administration heads into its final week, White House spokesman Dan Scavino told administration officials Thursday to hold their \"heads high\" and be \"proud\" of their accomplishments\" despite \"cancel culture.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-nFmqFtEbs/dan-scavino-slams-cancel-culture-tells-trump-officials-to-be-proud-of-accomplishments",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-nFmqFtEbs/dan-scavino-slams-cancel-culture-tells-trump-officials-to-be-proud-of-accomplishments",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005235258462.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dan-scavino-slams-cancel-culture-tells-trump-officials-to-be-proud-of-accomplishments.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dan-scavino-slams-cancel-culture-tells-trump-officials-to-be-proud-of-accomplishments.amp",
-      "publishedDateTime": "2021-01-14T23:33:49-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

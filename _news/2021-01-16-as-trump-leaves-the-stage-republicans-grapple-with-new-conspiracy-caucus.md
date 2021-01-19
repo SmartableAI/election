@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Trump will hand off the 'nuclear football' to Biden"
+    excerpt: "President Donald Trump will not be in attendance Wednesday to watch as his successor Joe Biden is sworn into office but his absence will have little impact on what may be one of the most important moments of Inauguration Day, the handing off of the \"nuclear football.\"\n    \n"
+    publishedDateTime: 2021-01-19T12:42:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wOUNGZTxv7c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/trump-biden-nuclear-football-inauguration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/trump-biden-nuclear-football-inauguration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160609154216-nuclear-codes-hertling-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden expected to call out Trump administration on pace of vaccine distribution"
     excerpt: "President-elect Joe Biden is set to confront the slower-than-expected pace at which the Trump administration is administering coronavirus vaccines in remarks Tuesday afternoon, a transition official tells CNN.\n    \n"
     publishedDateTime: 2020-12-29T16:02:19Z
@@ -284,6 +300,38 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210117191815-trump-oval-office-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "A four-year timeline of Donald Trump and the Supreme Court"
+    excerpt: "Here's a timeline of key events involving Trump and the Supreme Court over the past four years:\n    \n"
+    publishedDateTime: 2021-01-19T10:03:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7px9AuNIuaE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/supreme-court-trump-timeline/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/supreme-court-trump-timeline/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181108112858-02-kavanaugh-investiture-1108-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How to watch Biden's Cabinet confirmation hearings Tuesday"
+    excerpt: "Five of President-elect Joe Biden's national security Cabinet nominees will face Senate panels on Tuesday in the first step of the confirmation process.\n    \n"
+    publishedDateTime: 2021-01-19T12:39:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dGfPga46tG8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/how-to-watch-biden-cabinet-confirmation-hearings/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/how-to-watch-biden-cabinet-confirmation-hearings/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118153830-yellen-mayorkas-haines-austin-blinken-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

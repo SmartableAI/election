@@ -109,6 +109,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Joe Biden to propose 8-year citizenship path for immigrants"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden plans to unveil a sweeping immigration bill on Day One of his administration, hoping to provide an eight-year path to citizenship for an estimated"
+    publishedDateTime: 2021-01-19T11:13:00Z
+    webUrl: "https://apnews.com/article/joe-biden-donald-trump-legislation-immigration-border-security-2179887c74cfd8d156bbd293abfc9fb0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/5b03a16b14cc4d7686f5243d7b265933/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
 
 secured: "MIp8b3hgyRwE3GYhufZyDcwPcTi+1TMVdCXVoPMa9IvBX71Jb+FJT6UOPhmGkG2X7BLngq7LMVv4CRgicFve7yt4hDuUMRlhP/jtrnyX0/wj8QTBkqpWMwrkWqeMT+Vz8woGOvhk8I4DN7GhUa+C/ES5bIGptyxpWu/gz8FdynBuJtlBAh9rrHs4AZioYluixp6VoYlhtS1jFGATmusitq5filcvbJk2uSKE/o+YwrBV6SG2S9jPC7pphb3tySZUx2Fr3Se+WYMuylpRau1ns9oBG4xdCOkRqsOCuIQFhM+LkLyVCMX9u+H0uM0avjtYJZRElJazpllLC26NI4+m4gbQQY0Mb7Kz6uwDP8gEykc=;nltGGFrsWyY7viLsy2d/SQ=="
 ---

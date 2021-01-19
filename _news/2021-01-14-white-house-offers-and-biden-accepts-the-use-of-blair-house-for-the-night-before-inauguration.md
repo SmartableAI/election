@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden picks transgender woman as assistant health secretary"
+    excerpt: "President-elect Joe Biden has tapped Pennsylvania Health Secretary Rachel Levine to be his assistant secretary of health, leaving her poised to become the first openly transgender federal official to be confirmed by the U.S. Senate."
+    publishedDateTime: 2021-01-19T12:29:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kjBhHljD__U/biden-transgender-woman-assistant-health-secretary-nominee"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-transgender-woman-assistant-health-secretary-nominee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transgender-woman-assistant-health-secretary-nominee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Rachel-Levine-Biden-assistant-health-secretary-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "If Biden halts border wall, it could cost taxpayers billions, CBP chief warns"
     excerpt: "President-elect Joe Biden is promising that border wall building won't continue under his administration, but with hundreds of miles under construction, the head of Customs and Border Protection (CBP) is warning that shutting down construction could cost taxpayers billions."
     publishedDateTime: 2021-01-09T22:25:26Z

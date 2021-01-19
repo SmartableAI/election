@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-01-15/as-trump-retreats-
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-15/as-trump-retreats-from-his-job-pence-fills-the-void-as-acting-president?_amp=true"
 type: article
 quality: 138
-heat: 678
+heat: 698
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/d28f8b02a1054d115e0ac05d26edab5a385ca5de/0_137_5145_3087/master/5145.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cf6e6c648ae5a290ee7660700b84263d"
         width: 600
         height: 360
+        isCached: true
+  - title: "Aubrey Huff Thinks Donald Trump Will Be President Again in 4 Months"
+    excerpt: "The former MLB player has long been a vocal Trump supporter and has repeatedly pushed baseless claims the election, and Joe Biden's victory, was rigged."
+    publishedDateTime: 2021-01-19T12:48:00Z
+    webUrl: "https://www.newsweek.com/aubrey-huff-thinks-donald-trump-president-again-4-months-1562559"
+    ampWebUrl: "https://www.newsweek.com/aubrey-huff-thinks-donald-trump-president-again-4-months-1562559?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/aubrey-huff-thinks-donald-trump-president-again-4-months-1562559?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1681102/aubrey-huff.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "In 2nd Trump impeachment trial, will Chief Justice John Roberts preside?"
     excerpt: "Who will preside over the second Donald Trump remains a key open question as lawmakers prepare to begin the unprecedented proceeding as soon as Inauguration Day. The U.S. Constitution says that the Chief Justice of the Supreme Court \"shall preside\" over trials of the President of the United States,"

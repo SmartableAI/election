@@ -219,6 +219,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "TV: Frontline documentary on Joe Biden as next president | Raleigh News & Observer"
+    excerpt: "Frontline presents a new special on President-elect Joe Biden, and how crisis and tragedy prepared him for the presidency. Included in the special are moments that shaped him and what those moments might reveal about how he will govern."
+    publishedDateTime: 2021-01-19T11:06:00Z
+    webUrl: "https://www.newsobserver.com/entertainment/tv/warm-tv-blog/article248583960.html"
+    ampWebUrl: "https://amp.newsobserver.com/entertainment/tv/warm-tv-blog/article248583960.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/entertainment/tv/warm-tv-blog/article248583960.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 49
 
 secured: "itOJ7TESq+KmEBYrI2JABUdmPVZL55z/jhBG6p9+Aqq1Mnx1UzKKkhsMusbDglr/8bSb9PnLgeRaHWTtJxCTcybD2K/gdEof/UQEp9OJQeMqp59HToGPmN2Y61wwwDlV6wGC+3O6xH/T32szo1oe4/Q8Fyys8mGxXjiEYDccHn7gjuIbBWDPpsEJ5lC43OyVFyQIjZ2pet8P6F7WhYkxvRLHjZSSHNQWzktQ74ZsH7+oNxDFm5rsbOvwbxa+aC9YggumAc0axxZ2WlW2WEllfugkRKux0hdf0jPlZGlDxtezbByAbJ6bg40C/mNVDqePr6GXLbEKIgUa+TJjkuAI/aKT2B0tlhD38t6MwEdlj0M=;Q/OFse9SagVpRAaz3+IZ6A=="
 ---

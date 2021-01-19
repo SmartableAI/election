@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/majority-americans-think-history-will-view-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1"
 type: article
 quality: 124
-heat: 264
+heat: 284
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/14/USAT/58d3db56-ae52-4500-9485-aa58d36fc8f2-USATSI_15428849.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Analysis - Trump's legacy: A more divided America, a more unsettled world"
+    excerpt: "Closing out his presidency exactly four years later, Trump leaves behind an even more polarized America, where thousands are dying daily from the COVID-19 pandemic, the economy is badly damaged and political violence has surged."
+    publishedDateTime: 2021-01-19T12:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-legacy/analysis-trumps-legacy-a-more-divided-america-a-more-unsettled-world-idUSL1N2JS0KO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297890&r=LYNXMPEH0I0O7&w=800"
+        width: 800
+        height: 547
         isCached: true
   - title: "This day in history, January 16: The impeachment trial of President Donald Trump opens in the Senate"
     excerpt: "Almanacs are full of lists of global and national historic events. But “This Day in History” feature invites you to not just peruse a list, but to take a trip back in time to see how a significant event originally was reported in the Chicago Tribune."

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/federal-prisons-lockdo
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/federal-prisons-lockdown-run-biden-inauguration-75296751"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -219,6 +219,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "TV: Frontline documentary on Joe Biden as next president | Raleigh News & Observer"
+    excerpt: "Frontline presents a new special on President-elect Joe Biden, and how crisis and tragedy prepared him for the presidency. Included in the special are moments that shaped him and what those moments might reveal about how he will govern."
+    publishedDateTime: 2021-01-19T11:06:00Z
+    webUrl: "https://www.newsobserver.com/entertainment/tv/warm-tv-blog/article248583960.html"
+    ampWebUrl: "https://amp.newsobserver.com/entertainment/tv/warm-tv-blog/article248583960.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/entertainment/tv/warm-tv-blog/article248583960.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 49
 
 secured: "Qc5PDJsrCYo6feY9aixUGoAh+uBAobwn06ze6ZM89JFdMIosJm0DbjXNK2XluYXCAYpXjKoWzAMABBmpXnMejPm+hUHiGAQIjPpXzOhMaTfE9IJCBiVw7J99+A9DdM8IdmtR5/aPsiXhEX7E1j9NgB7L7qlHTC/NxDG/VDPY5coxT8cV/PS42/8rzvovSLIO6DXUIcNHuWRo+Dc9LsbBHqcCzuG1/yG3qh+Wuy3XyPGyjaR9c6xiYgLg48odR6gwBXd20sVaSbuDzGTcAZBLwJknaNdknA3Aq2voXsqXAmuLoNq5oA9i83MwA7LVjd5y7vbA0qnS+bfRn9kkuXvk52NU6Jc4btRijesLEvOksSIrm1wjY3Ps++enjDrFa2KZt3YUzuYyCSCFzS8hcgFXCysOdPo4IKqYFVbTB/qqUBFNMmBQADbgCon5yfWeqSbe8Z7/IaAE5Vz6fgTimgVgCbFoHqoIEUf9RPYABOMyv4QeGeALwRc3YEtuXpM9qJFIRZwEVm+TIfiUwa1wZTuVOg==;aYHs5gvn558STe0YIkJSBA=="
 ---

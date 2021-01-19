@@ -95,6 +95,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Aubrey Huff Thinks Donald Trump Will Be President Again in 4 Months"
+    excerpt: "The former MLB player has long been a vocal Trump supporter and has repeatedly pushed baseless claims the election, and Joe Biden's victory, was rigged."
+    publishedDateTime: 2021-01-19T12:48:00Z
+    webUrl: "https://www.newsweek.com/aubrey-huff-thinks-donald-trump-president-again-4-months-1562559"
+    ampWebUrl: "https://www.newsweek.com/aubrey-huff-thinks-donald-trump-president-again-4-months-1562559?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/aubrey-huff-thinks-donald-trump-president-again-4-months-1562559?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1681102/aubrey-huff.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Many Trump-era photos look like dramatic old paintings. That’s no ‘accident.’"
     excerpt: "Strife imitates art on the subreddit “Accidental Renaissance,” where followers liken contemporary images to great works of art."
     publishedDateTime: 2021-01-17T04:22:00Z

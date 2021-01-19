@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/andy-slavitt-biden-covid
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/andy-slavitt-biden-covid-team/index.html"
 type: article
 quality: 164
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "With 400k Covid deaths, Biden set to take helm of nation in crisis"
+    excerpt: "With more than 400,000 souls lost to the coronavirus pandemic, President-elect Joe Biden will have his work cut out for him when he takes the helm of a polarized and pained nation tomorrow at noon. Here is what we're watching this Tuesday morning."
+    publishedDateTime: 2021-01-19T12:58:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/400k-covid-deaths-biden-set-take-helm-nation-crisis-n1254640"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254640"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254640"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_03/3443042/210119-lincoln_memorial_reflecting_pool-mc-1137_a48dc439f5ef580d138644f5f3cb857b.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "POLITICO-Harvard poll: Public strongly backs Biden's demand for Covid aid"
     excerpt: "There's strong public support for Biden's vision of an expansive government effort to combat the pandemic and its economic fallout."
     publishedDateTime: 2021-01-08T16:27:00Z

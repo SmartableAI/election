@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-samantha-p
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547843796&r=LYNXMPEH0D1N2&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Joe Biden to propose 8-year citizenship path for immigrants"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden plans to unveil a sweeping immigration bill on Day One of his administration, hoping to provide an eight-year path to citizenship for an estimated"
+    publishedDateTime: 2021-01-19T11:13:00Z
+    webUrl: "https://apnews.com/article/joe-biden-donald-trump-legislation-immigration-border-security-2179887c74cfd8d156bbd293abfc9fb0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/5b03a16b14cc4d7686f5243d7b265933/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
 
 secured: "7YkcfDGuJRPoyPV/tsfODQMLVI4N6rsbedMoYNZYVllwrVn9QVazycbvGYBnLdALRc+AjcNsoSob3+8bSIveeHUwrwjflJTN7uKzd/OL65A5Wf8+xEPGAFoVLJD7mn/5cXYqDm0G4ESXA8u5BQRrfoxhUnlA6O9kHnN4Eprg3nSlVF2XSkVaoy3voC0yBWdOlYTdY7zRacKkEH9rCNsrHOPpNqUSDt17W4v26zy4Iv6dxwmF8v6mVWWqbKDABsMR/iBT6xLODXqUcRl8XwcQBN+zj0AxLzKhdp8xcEkRG+MQPGwVPeWIRcWfpIE7RdTVCu9xRDZmznHz4514vbcunKfuy/cvMS1MVnGYRgslPyI=;j4euz2KlOQaGa6yACRq8JA=="

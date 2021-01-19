@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump transformed the Supreme Court that mostly helped advance his agenda"
+    excerpt: "President Donald Trump will exit the White House on Wednesday but leave behind three of the nine Supreme Court justices and a majority that was willing to partner with him for much of his agenda.\n    \n"
+    publishedDateTime: 2021-01-19T12:33:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/96XkejHQPo4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/trump-supreme-court-legacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/trump-supreme-court-legacy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118152846-01-trump-barrett-0926-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "ugbcWuU6v441gVmMaP+XBWeoXxjeqTz5zml7KKWXqmSujX8EAmzS/zpVzUA5yGovILdqsP5oZLKJIIdLctejEujbkFJ7hsoep2I3mNymcNQP2rDSUIYCSNFUzGW7dW0taaF5rvwKINgKtGHcYGLrDRMyuyBMfeSvvofhnHTCZsJHaqd4IpYgORzLW+ICi4i/4iyHJ4/c7ctXLtUYoYpeDGwlsi29wrzDQY6fE8PYbiJLOGm7RxbirvaKv2SW9xVgEVW/A5Grl1tbYeOFtu3verPsWHDJu4Iajh1KtF3nbrqTiMPM4g+EQZy1y3FKDoc7/zPbpvxAy89jkka9yoyCWMbI6BNlEiKyp2GMfIAYfmHd7CtC3pinzmFBzYVqbyiClM7q0KZef9MHw6lrjcrN7rrdMdb7Epm3+xFnSO9XNq/YK53AoXi+9caIugQQJv60Iko+gDNBZXnapPkLckegDpxOAEpzH8XlkkkgmU6e152/tmlVHZ8kXiLGnCpA73WOmeXNzlrE+krdFoxSPDTRgg==;OXHdIj4rGCQavdjXgoYmOw=="
 ---

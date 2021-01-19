@@ -1,0 +1,125 @@
+---
+category: news
+title: "Joe Biden to propose 8-year citizenship path for immigrants"
+excerpt: "WASHINGTON (AP) — President-elect Joe Biden plans to unveil a sweeping immigration bill on Day One of his administration, hoping to provide an eight-year path to citizenship for an estimated"
+publishedDateTime: 2021-01-19T11:13:00Z
+originalUrl: "https://apnews.com/article/joe-biden-donald-trump-legislation-immigration-border-security-2179887c74cfd8d156bbd293abfc9fb0"
+webUrl: "https://apnews.com/article/joe-biden-donald-trump-legislation-immigration-border-security-2179887c74cfd8d156bbd293abfc9fb0"
+type: article
+quality: 105
+heat: -1
+published: false
+
+provider:
+  name: Associated Press
+  domain: apnews.com
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://storage.googleapis.com/afs-prod/media/5b03a16b14cc4d7686f5243d7b265933/3000.jpeg"
+    width: 3000
+    height: 2000
+    isCached: true
+
+related:
+  - title: "Biden picks Samantha Power, former UN envoy, for US aid post"
+    excerpt: "President-elect Joe Biden has selected Samantha Power, the U.S. ambassador to the United Nations under President Barack Obama, to run the U.S. Agency for International Development"
+    publishedDateTime: 2021-01-13T14:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b144e118b1ff442f96fc0e82513e2870_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Poet Amanda Gorman, 22, will read at Biden inaugural"
+    excerpt: "At age 22, poet Amanda Gorman, chosen to read at the inauguration of President-elect Joe Biden, already has a history of writing for official occasions. \"I have kind of stumbled upon this genre. It's been something I find a lot of emotional reward in,"
+    publishedDateTime: 2021-01-15T06:36:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/poet-amanda-gorman-22-read-biden-inaugural-75269468"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/poet-amanda-gorman-22-read-biden-inaugural-75269468"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/poet-amanda-gorman-22-read-biden-inaugural-75269468"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_d0b8bbd465694ada9281f14777396726_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden vows rapid steps to battle virus after inauguration"
+    excerpt: "President-elect Joe Biden plans immediate moves to curb the coronavirus pandemic within days after he’s sworn in Wednesday"
+    publishedDateTime: 2021-01-17T17:20:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-vows-rapid-steps-battle-virus-inauguration-75310080"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-vows-rapid-steps-battle-virus-inauguration-75310080"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-vows-rapid-steps-battle-virus-inauguration-75310080"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_69cef18086774675a1402495d680b0e4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden picks Chopra, Gensler for financial oversight roles"
+    excerpt: "President-elect Joe Biden is set to nominate Rohit Chopra as the director of the Consumer Financial Protection Bureau, tapping a progressive ally of Sen. Elizabeth Warren to helm the agency whose crea"
+    publishedDateTime: 2021-01-18T19:16:00Z
+    webUrl: "https://www.washingtonpost.com/business/biden-picks-chopra-gensler-for-financial-oversight-roles/2021/01/18/b8d93334-5997-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/biden-picks-chopra-gensler-for-financial-oversight-roles/2021/01/18/b8d93334-5997-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-picks-chopra-gensler-for-financial-oversight-roles/2021/01/18/b8d93334-5997-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "President-elect Joe Biden to name Gary Gensler as U.S. SEC chair, sources say"
+    excerpt: "Gary Gensler, a top financial regulator under the Obama administration, is expected to be named chair of the U.S. Securities and Exchange Commission."
+    publishedDateTime: 2021-01-12T17:47:00Z
+    webUrl: "https://www.cnbc.com/2021/01/12/president-elect-joe-biden-to-name-gary-gensler-as-us-sec-chair-sources-say-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/12/president-elect-joe-biden-to-name-gary-gensler-as-us-sec-chair-sources-say-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/12/president-elect-joe-biden-to-name-gary-gensler-as-us-sec-chair-sources-say-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 122
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106823272-1610480084902-gettyimages-175050214-WALL-STREET-REFORMS.jpg?v=1610480100"
+        width: 3459
+        height: 2250
+        isCached: true
+  - title: "Pelosi and Schumer pledge quick action on Biden stimulus package"
+    excerpt: "U.S. House of Representatives Speaker Nancy Pelosi and Senate Democratic leader Chuck Schumer on Thursday said Congress would get right to work on President-elect Joe Biden's stimulus package."
+    publishedDateTime: 2021-01-14T22:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-stimulus-congress/pelosi-and-schumer-pledge-quick-action-on-biden-stimulus-package-idUSKBN29J2WO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547843796&r=LYNXMPEH0D1N2&w=800"
+        width: 800
+        height: 533
+        isCached: true
+
+secured: "ZRpWEf5ysqi+YV0AaR3M/cJ/BLqvj6VjxCe8h/hjAr+z+8ohgqQmSyykVM2hzKTWRNC8n+FeD8LJwtQka5JXxl97f/Z5Y1uL276nNP2+c5psUZoo/s52leJGrWTW6huM/alNOVel3w/DOuIpZ0nBVq3UtIkcVEZU9WVBYypCGhZupKla7BSCF0fHJ7TJZ7VCpeRf+YriPT7xg8Y0W8e/uCjL2PDgSdo8sPrYW6GrJM8L0/O6GMrSIKbbezYZixZYNV50F6tyhHBD4vyQaWYtiqADzf5Ps9uEX4RrKmCYKJM6GCEYSKn/kLNNb3qGrDGKT5tc7CY9zrL0UnojxEscWdUZPkSLn887jRhRppJzPO8=;eSINc1/Y98LdkrrQqyl2Fg=="
+---
+
