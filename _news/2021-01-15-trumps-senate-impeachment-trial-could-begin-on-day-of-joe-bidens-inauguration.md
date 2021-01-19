@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden's Options for Dealing with Donald Trump Are Worse than Watergate"
-    excerpt: "When it comes to Donald Trump, the incoming president has a critical decision to make about the best way to move the country forward—and neither Democrats nor Republicans are likely to be happy about his choice."
-    publishedDateTime: 2021-01-17T14:00:00Z
-    webUrl: "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html"
-    ampWebUrl: "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1"
+  - title: "Pence heading back to Indiana hometown after Biden inaugural"
+    excerpt: "Vice President Mike Pence will be returning to his southern Indiana hometown Wednesday afternoon following the inauguration of President-elect Joe Biden"
+    publishedDateTime: 2021-01-19T22:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pence-heading-back-indiana-hometown-biden-inaugural-75352267"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-heading-back-indiana-hometown-biden-inaugural-75352267"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-heading-back-indiana-hometown-biden-inaugural-75352267"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 148
+      name: ABC
+      domain: abcnews.go.com
+    quality: 150
     images:
-      - url: "https://d.newsweek.com/en/full/1709816/fe-reconciliation-02.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s.abcnews.com/images/Politics/WireAP_89bbb4d66241419b9576e4e3ea494d0b_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump impeachment risks bogging down early days of Biden presidency"
     excerpt: "Trial could tie up Senate, slowing president-elect’s agenda amid pandemic and economic crisis"
@@ -74,54 +74,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/4562affcc87f763439da1fd7d3fc91f356b536f5/0_38_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e75078fad8e464cbc9499016b6c3ec8b"
         width: 600
         height: 360
-        isCached: true
-  - title: "Moon urges Biden to learn from Trump's N. Korea diplomacy"
-    excerpt: "South Korea’s president has urged the incoming Biden administration to build upon the achievements and learn from the failures of President Donald Trump’s diplomatic engagement with North Korea"
-    publishedDateTime: 2021-01-18T05:15:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/moon-urges-biden-learn-trumps-korea-diplomacy-75317048"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/moon-urges-biden-learn-trumps-korea-diplomacy-75317048"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/moon-urges-biden-learn-trumps-korea-diplomacy-75317048"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/US/WireAP_3f5fa3a78c7f407584288265b5a43ecc_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump's trial, Biden's Cabinet picks await Senate post-siege"
-    excerpt: "President Donald Trump’s last full day in office Tuesday is also senators’ first day back since the deadly Capitol siege"
-    publishedDateTime: 2021-01-19T16:54:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-trial-bidens-cabinet-picks-await-senate-post-75344526"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-trial-bidens-cabinet-picks-await-senate-post-75344526"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-trial-bidens-cabinet-picks-await-senate-post-75344526"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_78be78f51e874ec1b6e3ff585ca01188_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden unveils $1.9 trillion economic relief as Trump's Senate trial looms"
-    excerpt: "Majority Leader Mitch McConnell said the Senate would not reconvene before January 19, the day before Mr. Trump leaves office."
-    publishedDateTime: 2021-01-15T14:26:00Z
-    webUrl: "https://www.cbsnews.com/live-updates/trump-second-impeachment-senate-trial/"
-    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-second-impeachment-senate-trial/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-second-impeachment-senate-trial/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 139
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/15/271825a6-0f84-4789-b1b5-26e6a1f513f0/thumbnail/1200x630/e2df6a2401b1edfdd1bf44bba92ff8c9/gettyimages-1296409766.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Pence is helping Biden make the transition more normal. But their cooperation has risks for each."
     excerpt: "Pence is accepting Biden’s win in a way Trump has not, helping Biden solidify his transition to power. That benefits Biden and Pence for now, but a volatile political landscape lies ahead for both."
@@ -171,165 +123,21 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden aims for new course on trade, breaking with Trump and Democratic predecessors"
-    excerpt: "Biden will confront the same question that has bedeviled U.S. policymakers for three decades: How can the U.S. shape for maximum benefit its overseas commercial engagements?"
-    publishedDateTime: 2021-01-14T18:53:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/14/biden-trade-katherine-tai-tariff/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/14/biden-trade-katherine-tai-tariff/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/14/biden-trade-katherine-tai-tariff/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 134
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/326P67B4AAI6XKWZRFMSE4UAYQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "James Comey Says Joe Biden Should Consider Pardoning Donald Trump to Allow U.S. to Heal"
-    excerpt: "James Comey, the former FBI director fired by President Donald Trump in 2017, said the U.S. needs to \"focus on things that are going to matter.\""
-    publishedDateTime: 2021-01-14T09:06:00Z
-    webUrl: "https://www.newsweek.com/james-comey-donald-trump-pardon-impeachment-healing-1561457"
-    ampWebUrl: "https://www.newsweek.com/james-comey-donald-trump-pardon-impeachment-healing-1561457?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/james-comey-donald-trump-pardon-impeachment-healing-1561457?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 132
-    images:
-      - url: "https://d.newsweek.com/en/full/1707401/fbi-director-james-comey.jpg"
-        width: 3600
-        height: 2400
-        isCached: true
-  - title: "Will Melania Trump invite Jill Biden to tea-and-tour at White House or break tradition?"
-    excerpt: "The decades-old civic ritual of the outgoing FLOTUS inviting her successor to tea and a tour of the White House appears to be off for Melania Trump."
-    publishedDateTime: 2021-01-15T14:05:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/01/15/melania-trump-jill-biden-white-house-tea-and-tour/6602559002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6602559002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6602559002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 132
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/12/23/USAT/d2af2f4d-3bc8-477e-a5ca-d8c20530111f-GTY_1292797972.jpg?auto=webp&crop=2750,1547,x1,y247&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump farewell planned for Wednesday morning at military base ahead of Joe Biden’s oath of office"
-    excerpt: "White House officials are planning a farewell ceremony for Donald Trump as he leaves Washington on Wednesday morning."
-    publishedDateTime: 2021-01-18T15:55:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-leaving-white-house-early-20210118-axqwpl73gjdjdmrmguj6vy6wjm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-leaving-white-house-early-20210118-axqwpl73gjdjdmrmguj6vy6wjm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-leaving-white-house-early-20210118-axqwpl73gjdjdmrmguj6vy6wjm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Morning Call PA
-      domain: chicagotribune.com
-    quality: 127
-    images:
-      - url: "https://www.chicagotribune.com/resizer/FArwfV_VCDy2wkkwgEwMwZ3ow20=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VOTAKBFCVB4D4PIUGHMVXRV4XE.aspx"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "Joe Biden, Donald Trump Battle Over COVID Travel Bans as Contentious Transition Draws to a Close"
-    excerpt: "Trump signed an order on Monday lifting some COVID-19 travel bans. A spokesperson for Biden immediately said the incoming Administration does not intend to do that."
-    publishedDateTime: 2021-01-19T02:42:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-donald-trump-battle-over-covid-travel-bans-contentious-transition-draws-close-1562474"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-donald-trump-battle-over-covid-travel-bans-contentious-transition-draws-close-1562474?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-donald-trump-battle-over-covid-travel-bans-contentious-transition-draws-close-1562474?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 127
-    images:
-      - url: "https://d.newsweek.com/en/full/1710516/biden-trump-debate-stage.jpg"
-        width: 2500
-        height: 1733
-        isCached: true
-  - title: "Business grows skittish about Trump and GOP after riots"
-    excerpt: "Corporate America is quickly distancing itself from President Donald Trump and his Republican allies, with many of the biggest names in business — Goldman Sachs, Coca Cola, Ford, and Blue Cross Blue Shield — suspending political donations after a Trump-inspired mob ransacked the U."
-    publishedDateTime: 2021-01-11T22:09:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/wall-street-distances-trump-gop-riots-75178316"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_eea37b12d40e40e589e76134df53aa03_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Republicans block measure calling for quick removal of Trump"
-    excerpt: "A House resolution calling on Vice President Mike Pence to invoke constitutional authority to remove President Donald Trump from office has been blocked by Republicans"
-    publishedDateTime: 2021-01-11T16:47:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/pelosi-house-impeach-trump-pushes-vp-oust-75171067"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pelosi-house-impeach-trump-pushes-vp-oust-75171067"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pelosi-house-impeach-trump-pushes-vp-oust-75171067"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a3f21b028bd3418a922e3fb6b9b24287_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Where Republican senators stand on impeaching Donald Trump"
-    excerpt: "Most Democratic senators are calling for Mr. Trump's immediate removal, including the Senate's two independent members, Angus King of Maine and Bernie Sanders of Vermont. But the bar for the Senate to remove the president is higher than impeachment,"
-    publishedDateTime: 2021-01-13T12:03:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-impeachment-republicans-senators/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-impeachment-republicans-senators/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-impeachment-republicans-senators/"
+  - title: "Biden to extend pause on federal student loan payments"
+    excerpt: "The president-elect's transition team also said Mr. Biden supports Congress \"immediately\" cancelling $10,000 of federal student loans"
+    publishedDateTime: 2021-01-13T12:04:00Z
+    webUrl: "https://www.cbsnews.com/news/student-loan-payments-pause-biden-extend/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/student-loan-payments-pause-biden-extend/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/student-loan-payments-pause-biden-extend/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/13/0d0a1258-107d-4d33-a1e0-51a2c24cbc11/thumbnail/1200x630/dad36a3b3990eba7f8fcd831191e5c32/gettyimages-955095568.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/11/5a845e73-ca79-43f4-bd69-1ea7fd5ec19b/thumbnail/1200x630/e81e9d97adaa622c1f2f6d0c44844c40/gettyimages-1201562159-1.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Here are all of the House Republicans who voted to impeach Donald Trump"
-    excerpt: "The House of Representatives has voted to impeach President Donald Trump-- making him the only president in American history to be impeached twice. Unlike his first impeachment in 2019, 10 Republicans joined Democrats to charge Trump for the \"incitement of insurrection\" for his role in the Jan."
-    publishedDateTime: 2021-01-13T22:45:00Z
-    webUrl: "https://abcnews.go.com/Politics/house-republicans-voted-impeach-donald-trump/story?id=75235094"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/house-republicans-voted-impeach-donald-trump/story?id=75235094"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/house-republicans-voted-impeach-donald-trump/story?id=75235094"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/house-impeachment-dan-newhouse-ht-iwb-210113_1610567556296_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "House impeaches Trump for the second time, focus shifts to Senate trial"
-    excerpt: "Trump is the only president to be impeached twice, this time for inciting the Capitol riot. Now, the debate shifts to the Senate."
-    publishedDateTime: 2021-01-13T23:30:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-01-13/house-begins-final-push-to-make-trump-the-only-president-to-be-impeached-twice"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-13/house-begins-final-push-to-make-trump-the-only-president-to-be-impeached-twice?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-13/house-begins-final-push-to-make-trump-the-only-president-to-be-impeached-twice?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/232ada4/2147483647/strip/true/crop/5405x3530+0+36/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffb%2Fde%2Fd15bbb974c6d8bff58658cb08c71%2Fap21007825123867.jpg"
-        width: 320
-        height: 209
         isCached: true
   - title: "Housing advocates call on Biden to extend eviction ban"
     excerpt: "Housing advocates around the country are calling on the incoming Biden administration to extend and strengthen the current federal ban on evictions"
@@ -347,6 +155,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Security concerns mount ahead of Biden inauguration"
+    excerpt: "Concerns are growing over security threats surrounding President-elect Joe Biden’s inauguration next week after the attack on the Capitol rattled the country's confidence and put scrutiny on law enforcement and safety in Washington."
+    publishedDateTime: 2021-01-13T16:09:00Z
+    webUrl: "https://thehill.com/policy/national-security/533938-security-concerns-mount-ahead-of-biden-inauguration"
+    ampWebUrl: "https://thehill.com/policy/national-security/533938-security-concerns-mount-ahead-of-biden-inauguration?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/533938-security-concerns-mount-ahead-of-biden-inauguration?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/capitol_riot_010621upi7_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "The Latest: Biden hopes Senate can balance trial, other work"
     excerpt: "President-elect Joe Biden says he hopes the Senate can balance a second impeachment trial of President Donald Trump with “other urgent business” as the coronavirus pandemic rages"
     publishedDateTime: 2021-01-14T06:22:00Z
@@ -362,6 +186,70 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Asian shares mixed following Biden speech, Wall St retreat"
+    excerpt: "Asian shares were mixed on Friday after a late slide in several Big Tech stocks left major indexes lower on Wall Street. U.S. futures were trading slightly lower after President-elect Joe Biden announced his plans to propose a $1."
+    publishedDateTime: 2021-01-15T04:14:00Z
+    webUrl: "https://www.washingtonpost.com/health/asian-shares-mixed-following-biden-speech-wall-st-retreat/2021/01/14/b18916e2-56e7-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/asian-shares-mixed-following-biden-speech-wall-st-retreat/2021/01/14/b18916e2-56e7-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/asian-shares-mixed-following-biden-speech-wall-st-retreat/2021/01/14/b18916e2-56e7-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden, aiming to reopen schools, set to request infusion of cash"
+    excerpt: "President-elect Joe Biden will ask Congress for $130 billion to help K-12 schools reopen, plus billions more to implement rapid coronavirus testing in schools, a far more aggressive response than anything lawmakers have approved to date."
+    publishedDateTime: 2021-01-15T04:06:00Z
+    webUrl: "https://www.washingtonpost.com/education/biden-schools-reopening/2021/01/14/e953b03a-5671-11eb-a08b-f1381ef3d207_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/education/biden-schools-reopening/2021/01/14/e953b03a-5671-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/biden-schools-reopening/2021/01/14/e953b03a-5671-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KQTIS7SVBEI6XKAX4XT7RJAG2Y.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden to extend pause on federal student loan payments"
+    excerpt: "The president-elect's transition team also said Mr. Biden supports Congress \"immediately\" cancelling $10,000 of federal student loans"
+    publishedDateTime: 2021-01-15T12:24:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-student-loan-payments-pause-extend/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-student-loan-payments-pause-extend/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-student-loan-payments-pause-extend/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/11/5a845e73-ca79-43f4-bd69-1ea7fd5ec19b/thumbnail/1200x630/e81e9d97adaa622c1f2f6d0c44844c40/gettyimages-1201562159-1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Confirmation hearing postponed for Biden's intel chief pick"
+    excerpt: "A confirmation hearing for President-elect Joe Biden’s pick for national intelligence director has been postponed until next week"
+    publishedDateTime: 2021-01-15T03:56:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/confirmation-hearing-postponed-bidens-intel-chief-pick-75266598"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/confirmation-hearing-postponed-bidens-intel-chief-pick-75266598"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/confirmation-hearing-postponed-bidens-intel-chief-pick-75266598"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ae9f3ebe6cf34a0494b771a2e1f67cad_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Here's the lineup for President-elect Biden's inauguration ceremonies"
     excerpt: "The election of President-elect Biden and Vice President-elect Harris was historic and we know that many Americans would have wanted to attend the Inauguration in-person. At th"
@@ -379,35 +267,35 @@ related:
         width: 1440
         height: 880
         isCached: true
-  - title: "Senate Democrats signal hope for bipartisan Trump impeachment trial"
-    excerpt: "One day after Trump was impeached a second time, a growing number of Republican senators have signaled that they are open to convicting Trump on the charge of “incitement of insurrection.”"
-    publishedDateTime: 2021-01-15T06:49:00Z
-    webUrl: "https://www.washingtonpost.com/politics/senate-democrats-signal-hope-for-bipartisan-trump-impeachment-trial/2021/01/14/d1ffa54a-5687-11eb-a08b-f1381ef3d207_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/senate-democrats-signal-hope-for-bipartisan-trump-impeachment-trial/2021/01/14/d1ffa54a-5687-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-democrats-signal-hope-for-bipartisan-trump-impeachment-trial/2021/01/14/d1ffa54a-5687-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ECKJTBCWQAI6XLGFSLJIDGQ4ZM.jpg&w=1440"
-        width: 1440
-        height: 954
-        isCached: true
-  - title: "Trump isolated during final days as Senate trial looms"
-    excerpt: "Key allies on Capitol Hill have bucked him, advisers are avoiding him, and his lawyers have largely refused to defend him as he faces a second impeachment trial."
-    publishedDateTime: 2021-01-15T00:29:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-isolated-final-days-senate-trial-looms/story?id=75250931"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-isolated-final-days-senate-trial-looms/story?id=75250931"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-isolated-final-days-senate-trial-looms/story?id=75250931"
+  - title: "Poet Amanda Gorman, 22, will read at Biden inaugural"
+    excerpt: "At age 22, poet Amanda Gorman, chosen to read at the inauguration of President-elect Joe Biden, already has a history of writing for official occasions. \"I have kind of stumbled upon this genre. It's been something I find a lot of emotional reward in,"
+    publishedDateTime: 2021-01-15T06:36:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/poet-amanda-gorman-22-read-biden-inaugural-75269468"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/poet-amanda-gorman-22-read-biden-inaugural-75269468"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/poet-amanda-gorman-22-read-biden-inaugural-75269468"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump-white-house-01-gty-iwb-210113_1610553950499_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_d0b8bbd465694ada9281f14777396726_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Asian shares mixed following Biden speech, Wall St retreat"
+    excerpt: "Asian shares were mixed on Friday after a late slide in several Big Tech stocks left major indexes lower on Wall Street. U.S. futures were trading slightly lower after President-elect Joe Biden announced his plans to propose a $1."
+    publishedDateTime: 2021-01-15T19:35:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/asian-shares-mixed-traders-await-details-biden-plan-75242588"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/asian-shares-mixed-traders-await-details-biden-plan-75242588"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/asian-shares-mixed-traders-await-details-biden-plan-75242588"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Business/WireAP_b821a85c9a5c49e092b4942198300c96_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -427,181 +315,277 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Democrats wrestle with length of Trump trial"
-    excerpt: "Democrats are eager to punish Trump for inciting the attack on the U.S. Capitol, but wary of a Senate trial dragging on too long and slowing Biden’s agenda. They hope to keep the trial short without truncating their case."
-    publishedDateTime: 2021-01-16T00:14:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-senate-trial-length/2021/01/15/6bf5ba5a-5759-11eb-a08b-f1381ef3d207_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-senate-trial-length/2021/01/15/6bf5ba5a-5759-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-senate-trial-length/2021/01/15/6bf5ba5a-5759-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HVILYYCV5II6XLGFSLJIDGQ4ZM.jpg&w=1440"
-        width: 1440
-        height: 928
-        isCached: true
-  - title: "The worst defenses of Trump on the Capitol riot"
-    excerpt: "On Jan. 6, misinformation promoted by President Trump and his allies fomented a violent attempted insurrection at the U.S. Capitol in Washington. And since then, similar misinformation has been used to try and explain it all away."
-    publishedDateTime: 2021-01-16T00:37:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/15/worst-defenses-trump-capitol-riot/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/15/worst-defenses-trump-capitol-riot/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/15/worst-defenses-trump-capitol-riot/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2VTUAGSXI4I6XIEL6E4B546SA4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump gives award to Morocco’s king in private ceremony"
-    excerpt: "President Donald Trump has awarded a top U.S. honor to King Mohammed VI of Morocco, citing his decision to begin normalization of relations with Israel"
-    publishedDateTime: 2021-01-16T04:50:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/trump-gives-award-to-moroccos-king-in-private-ceremony/2021/01/15/64639d2e-578c-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/national-security/trump-gives-award-to-moroccos-king-in-private-ceremony/2021/01/15/64639d2e-578c-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/trump-gives-award-to-moroccos-king-in-private-ceremony/2021/01/15/64639d2e-578c-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "The Latest: Pro-Trump demonstrations begin at statehouses"
-    excerpt: "Some counter-protesters have begun showing up outside statehouses to send a message against the far-right groups that have threatened to disrupt the inauguration of President-elect Joe Biden"
-    publishedDateTime: 2021-01-17T18:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-pro-trump-demonstrations-begin-statehouses-75310459"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-pro-trump-demonstrations-begin-statehouses-75310459"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-pro-trump-demonstrations-begin-statehouses-75310459"
+  - title: "Biden intends quick executive actions to propel his agenda"
+    excerpt: "On the first day of his presidency, Joe Biden plans to roll back some of President Donald Trump’s most controversial policies and take steps to address the coronavirus pandemic"
+    publishedDateTime: 2021-01-17T14:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-intends-quick-executive-actions-propel-agenda-75308111"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-intends-quick-executive-actions-propel-agenda-75308111"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-intends-quick-executive-actions-propel-agenda-75308111"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_977ffcbf147945218d09c490b0a8f7fb_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_502e65b2e8ab461b9fda03f0167cbe5a_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden's national security Cabinet nominees face Senate tests"
-    excerpt: "While the Homeland Security and the intelligence community are unlikely to be confirmed by the time Biden takes the oath of office at noon Wednesday, some could be in place within days. The Senate typically confirms some nominees,"
-    publishedDateTime: 2021-01-19T05:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-national-security-cabinet-nominees-face-senate-tests-75335324"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-national-security-cabinet-nominees-face-senate-tests-75335324"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-national-security-cabinet-nominees-face-senate-tests-75335324"
+  - title: "Biden to prioritize legal status for millions of immigrants"
+    excerpt: "President-elect Joe Biden will announce legislation his first day in office that provides a path to citizenship for millions of immigrants in the United States illegally"
+    publishedDateTime: 2021-01-17T04:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-prioritize-legal-status-millions-immigrants-75302682"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-prioritize-legal-status-millions-immigrants-75302682"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-prioritize-legal-status-millions-immigrants-75302682"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_60278844665d4eceae3340c9dc0fd4c0_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4d070eae380a4340b34102737d81d576_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump Reveals Who He Wants Statues to Honor in National Garden"
-    excerpt: "What do Kobe Bryant, Bob Hope and Thomas Jefferson have in common? They are among the more than 200 names President Donald Trump has recommended to be honored in a yet-to-be created National Garden of American Heroes."
-    publishedDateTime: 2021-01-18T20:44:00Z
-    webUrl: "https://www.newsweek.com/trump-reveals-who-he-wants-statues-honor-national-garden-1562450"
-    ampWebUrl: "https://www.newsweek.com/trump-reveals-who-he-wants-statues-honor-national-garden-1562450?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-reveals-who-he-wants-statues-honor-national-garden-1562450?amp=1"
+  - title: "Federal prisons on lockdown in run-up to Biden inauguration"
+    excerpt: "Federal prisons across the U.S. have been placed on lockdown as officials aim to quell any potential violence that could arise in the run-up to President-elect Joe Biden’s inauguration on Wednesday"
+    publishedDateTime: 2021-01-16T17:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/federal-prisons-lockdown-run-biden-inauguration-75296751"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/federal-prisons-lockdown-run-biden-inauguration-75296751"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/federal-prisons-lockdown-run-biden-inauguration-75296751"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c66224196eea42ed95b4ff20f73e13e5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Inauguration 2021: The task for Joe Biden, and for America"
+    excerpt: "While the swearing-in of our 46th President represents a grand re-opening of the American Experiment, it comes as old grudges imperil the traditions of renewal, and the unthinkable – insurrection – became possible in the United States."
+    publishedDateTime: 2021-01-17T14:08:00Z
+    webUrl: "https://www.cbsnews.com/news/inauguration-2021-the-task-for-joe-biden-and-for-america/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/inauguration-2021-the-task-for-joe-biden-and-for-america/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/inauguration-2021-the-task-for-joe-biden-and-for-america/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/17/73d5927e-5963-461c-a3ab-870e6f863b0a/thumbnail/1200x630/9867e1fa6b8e72bf424d62fe5abf7c6f/capital-barbed-wire-getty-1230623928-1280.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden vows rapid steps to battle virus after inauguration"
+    excerpt: "President-elect Joe Biden plans immediate moves to curb the coronavirus pandemic within days after he’s sworn in Wednesday"
+    publishedDateTime: 2021-01-17T17:20:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-vows-rapid-steps-battle-virus-inauguration-75310080"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-vows-rapid-steps-battle-virus-inauguration-75310080"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-vows-rapid-steps-battle-virus-inauguration-75310080"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_69cef18086774675a1402495d680b0e4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden to propose 8-year citizenship path for immigrants"
+    excerpt: "WASHINGTON -- President-elect Joe Biden plans to unveil a sweeping immigration bill on Day One of his administration, hoping to provide an eight-year path to citizenship for an estimated 11 million people living in the U."
+    publishedDateTime: 2021-01-19T02:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-propose-year-citizenship-path-immigrants-75335660"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-propose-year-citizenship-path-immigrants-75335660"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-propose-year-citizenship-path-immigrants-75335660"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5b03a16b14cc4d7686f5243d7b265933_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The Latest: 2 Guard members removed from Biden inauguration"
+    excerpt: "Two U.S. Army National Guard members are being removed from the security mission to secure Joe Biden’s presidential inauguration"
+    publishedDateTime: 2021-01-19T15:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-attend-mass-congressional-leaders-75341544"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-attend-mass-congressional-leaders-75341544"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-attend-mass-congressional-leaders-75341544"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_bb699b09737c4e44a69f0c46d6444fe6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden's Pentagon pick supports overturning military transgender ban"
+    excerpt: "Retired Army General Lloyd Austin, President-elect Joe Biden's pick to lead the Pentagon, said on Tuesday that he supported a plan to overturn a ban on transgender service members."
+    publishedDateTime: 2021-01-19T22:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-pentagon-transgender-idUSKBN29O2N9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29O2N9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29O2N9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210119&t=2&i=1548363362&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0I1M8"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Teen whom Biden befriended as fellow stutterer has book deal"
+    excerpt: "Brayden Harrington, the teenager whom President-elect Joe Biden befriended as a fellow stutterer, has a book coming out this summer."
+    publishedDateTime: 2021-01-19T22:38:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/books/2021/01/19/brayden-harrington-stutter-joe-biden-befriended-book-deal/4220517001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4220517001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4220517001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/4a59c98b-73a0-4c9e-a428-004eb7139bba-AP21019730035924.jpg?auto=webp&crop=5079,2857,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Tribal leaders blast congressman opposed to Biden nomination"
+    excerpt: "A group of Native American tribes in a Minnesota congressman’s district is rebuking him for his attempts to derail President-elect Joe Biden’s pick for Interior secretary"
+    publishedDateTime: 2021-01-19T16:47:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/tribal-leaders-blast-congressman-opposed-biden-nomination-75344516"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/tribal-leaders-blast-congressman-opposed-biden-nomination-75344516"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/tribal-leaders-blast-congressman-opposed-biden-nomination-75344516"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Watch live: Delaware send-off event for President-elect Biden"
+    excerpt: "President-elect Joe Biden on Tuesday afternoon is slated to hold one final event in Delaware before he heads to Washington D.C. for his inauguration.The event is scheduled to begin at 1:30 p.m. EST.Watch the live video above."
+    publishedDateTime: 2021-01-19T18:27:00Z
+    webUrl: "https://thehill.com/video/in-the-news/534821-watch-live-delaware-send-off-event-for-president-elect-biden"
+    ampWebUrl: "https://thehill.com/video/in-the-news/534821-watch-live-delaware-send-off-event-for-president-elect-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/534821-watch-live-delaware-send-off-event-for-president-elect-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_011421getty_min-wage.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden must find words for a wounded nation in inauguration like no other"
+    excerpt: "Planners have been forced to be inventive after the deadly pandemic and now last week’s Capitol insurrection dictated a pared-down event"
+    publishedDateTime: 2021-01-16T07:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/16/joe-biden-inauguration-wounded-nation"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/16/joe-biden-inauguration-wounded-nation"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/16/joe-biden-inauguration-wounded-nation"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/f4c66dc3becc14952a51bc8d6504077c8a930be0/0_0_6877_4128/master/6877.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2176f28814bd79b46a5d4c9800440178"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "'Liberal' Churches Warned of Possible Attacks Around Biden Inauguration Day"
+    excerpt: "The United Church of Christ advised ministers and congregants to exercise caution in the week leading up to the inauguration."
+    publishedDateTime: 2021-01-16T18:28:00Z
+    webUrl: "https://www.newsweek.com/liberal-churches-threats-surrounding-biden-inauguration-1562121"
+    ampWebUrl: "https://www.newsweek.com/liberal-churches-threats-surrounding-biden-inauguration-1562121?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/liberal-churches-threats-surrounding-biden-inauguration-1562121?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 125
+    quality: 123
     images:
-      - url: "https://d.newsweek.com/en/full/1710472/donald-trump.jpg"
+      - url: "https://d.newsweek.com/en/full/1709960/trump-protesters-us-capitol.jpg"
         width: 2500
-        height: 1597
+        height: 1667
         isCached: true
-  - title: "Iran imposes symbolic sanctions on President Trump"
-    excerpt: "Iran says it has imposed sanctions on President Donald Trump and a number of members of his administration over their alleged role in support of terrorism"
-    publishedDateTime: 2021-01-19T16:59:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/iran-imposes-symbolic-sanctions-president-trump-75344657"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/iran-imposes-symbolic-sanctions-president-trump-75344657"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/iran-imposes-symbolic-sanctions-president-trump-75344657"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/International/WireAP_be3fc3e4d922437896a2a577782f9f0d_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden, a longtime ally of police, will enter White House pushing for reform"
-    excerpt: "We’ve always had a good working relationship with Biden,” said Jim Pasco, executive director of the Fraternal Order of Police, which twice endorsed Trump. He was one of the first police officials invited to meet with the Biden transition team."
-    publishedDateTime: 2021-01-11T13:38:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/11/biden-police-reform/?arc404=true"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/11/biden-police-reform/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/11/biden-police-reform/?outputType=amp"
+  - title: "Biden, filling out his government, to name five women as deputy secretaries"
+    excerpt: "The women Biden plans to nominate as deputies at the Departments of Agriculture, Transportation, Health and Human Services, Interior and Education could help shore up the vulnerabilities of some of the Cabinet secretaries they will serve."
+    publishedDateTime: 2021-01-18T11:18:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-names-deputy-secretaries/2021/01/17/05172da4-5917-11eb-a976-bad6431e03e2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-names-deputy-secretaries/2021/01/17/05172da4-5917-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-names-deputy-secretaries/2021/01/17/05172da4-5917-11eb-a976-bad6431e03e2_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 123
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QFBYXHRLUUI6TEDOTVK3MRI6WQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EZLCKECYGYI6XLGFSLJIDGQ4ZM.jpg&w=1440"
         width: 1440
-        height: 961
+        height: 960
         isCached: true
-  - title: "Biden minimum wage proposal could lift more than 1 million workers out of poverty"
-    excerpt: "Biden's $1.9T coronavirus relief plan 08:37 President-elect Joe Biden's proposal to more than double the federal minimum wage would provide an urgently pay hike to millions of low-income workers and help stem inequality in the U.S., economists and labor ..."
-    publishedDateTime: 2021-01-16T12:20:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-minimum-wage-proposal-15-dollars/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-minimum-wage-proposal-15-dollars/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-minimum-wage-proposal-15-dollars/"
+  - title: "The Health 202: It's still unclear who will lead HHS after Biden is sworn in"
+    excerpt: "The president-elect will need to designate many temporary agency heads before the Senate confirms his nominees."
+    publishedDateTime: 2021-01-19T17:35:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/19/health-202-it-still-unclear-who-will-lead-hhs-after-biden-is-sworn/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/19/health-202-it-still-unclear-who-will-lead-hhs-after-biden-is-sworn/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/19/health-202-it-still-unclear-who-will-lead-hhs-after-biden-is-sworn/?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2017/05/11/5336839b-a019-4a00-b23f-b7ecff36d89b/thumbnail/1200x630/410fe7a3a36baf030734fd1e03448f73/wages-rtx2a0yj.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4KVQTYBZSMI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "The Trump presidency was marked by battles over truth itself. Those aren’t over."
-    excerpt: "Scholars say susceptibility to false beliefs and conspiracy theories preceded Trump and will extend well beyond him."
-    publishedDateTime: 2021-01-18T18:13:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-trump-presidency-was-marked-by-battles-over-truth-itself-those-arent-over/2021/01/18/3bee0050-5750-11eb-a931-5b162d0d033d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-trump-presidency-was-marked-by-battles-over-truth-itself-those-arent-over/2021/01/18/3bee0050-5750-11eb-a931-5b162d0d033d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-trump-presidency-was-marked-by-battles-over-truth-itself-those-arent-over/2021/01/18/3bee0050-5750-11eb-a931-5b162d0d033d_story.html?outputType=amp"
+  - title: "Joe Biden Inauguration: Where Does it Take Place, What Time and Concert Details"
+    excerpt: "Amid the ongoing COVID-19 pandemic, the inauguration and traditional parade following the ceremony will have limited attendance."
+    publishedDateTime: 2021-01-18T14:41:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-inauguration-day-cermeony-concert-times-event-details-1562363"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-inauguration-day-cermeony-concert-times-event-details-1562363?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-inauguration-day-cermeony-concert-times-event-details-1562363?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1710377/joe-biden-queen-theater-delaware-january-2021.jpg"
+        width: 2500
+        height: 1693
+        isCached: true
+  - title: "Undeterred, Biden will push unity in a capital locked down after an insurrection"
+    excerpt: "Joe Biden will assume the presidency at the peak of a deadly pandemic in a city on lockdown, its streets cleared and many subway stations closed, with about 20,000 National Guard troops patrolling against domestic terrorism and in front of a U."
+    publishedDateTime: 2021-01-17T20:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-inauguration-unity/2021/01/16/09937264-5775-11eb-a08b-f1381ef3d207_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-inauguration-unity/2021/01/16/09937264-5775-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-inauguration-unity/2021/01/16/09937264-5775-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 120
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R6IE53SVAYI6XKAX4XT7RJAG2Y.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLLTILSYG4I6XLGFSLJIDGQ4ZM.jpg&w=1440"
         width: 1440
-        height: 914
-        isCached: true
-  - title: "Can Trump be tried for impeachment after leaving office? Would he keep his pension?"
-    excerpt: "This is raising questions about whether he can even be tried for impeachment, since he'll already have moved out of the White House — and whether he'd still enjoy the benefits accorded to former presidents if the Senate convicts him."
-    publishedDateTime: 2021-01-15T12:33:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-impeachment-leaving-office/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-impeachment-leaving-office/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-impeachment-leaving-office/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 119
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/12/9f041b88-1a5f-4dd5-9213-d06622116b6c/thumbnail/1200x630/6219b8c8009a7033546036bc1223f898/gettyimages-1230087931.jpg"
-        width: 1200
-        height: 630
+        height: 956
         isCached: true
   - title: "Live Updates: Biden pauses to honor King as preparations continue for inauguration"
     excerpt: "Washington — President-elect Joe Biden and incoming first lady Jill Biden are honoring the life of Dr. Martin Luther King, Jr., on Monday, two days before Mr. Biden is sworn-in as president of the United States. The Bidens are recognizing the federal ..."
@@ -619,67 +603,53 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden to block Trump's plan to lift COVID-19 European travel restrictions"
-    excerpt: "U.S. President-elect Joe Biden plans to quickly extend travel restrictions barring travel by most people who have recently been in much of Europe and Brazil soon after President Donald Trump lifted those requirements effective Jan."
-    publishedDateTime: 2021-01-19T12:57:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-travel-exclusi-idCAKBN29N20Y"
+  - title: "Inauguration to include programming aimed at kids along with a message from Jill Biden"
+    excerpt: "The Presidential Inaugural Committee announced it will offer programming focused on getting families and their kids involved in next week's ceremony."
+    publishedDateTime: 2021-01-16T22:56:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2021/01/16/jill-biden-make-appearance-during-inaugural-tv-programming/4192038001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4192038001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4192038001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548250195&r=LYNXMPEH0H19C&w=800"
-        width: 800
-        height: 533
+      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/4343dd98-09dc-40b5-8205-953d20781f07-AP_Election_2020_Jill_Biden_2.jpg?auto=webp&crop=4199,2362,x0,y213&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Trump prepares to offer clemency to more than 100 people in his final hours in office"
-    excerpt: "The president has been consumed with the question of whether to issued preemptive pardons to his children, top aides and himself, but it remains unclear whether he will do so."
-    publishedDateTime: 2021-01-18T10:54:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-pardons-final-days/2021/01/17/7a57969c-5905-11eb-a976-bad6431e03e2_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-pardons-final-days/2021/01/17/7a57969c-5905-11eb-a976-bad6431e03e2_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pardons-final-days/2021/01/17/7a57969c-5905-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+  - title: "Gen. Mark Milley key to military continuity when President-elect Joe Biden takes office"
+    excerpt: "In taking charge of a Pentagon battered by leadership churn, the Biden administration will look to one holdover as a source of military continuity: Gen. Mark A. Milley, chairman of the Joint Chiefs of Staff. President-elect Joe Biden will inherit Milley as ..."
+    publishedDateTime: 2021-01-17T22:04:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-17/gen-milley-key-to-military-continuity-as-biden-takes-office"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-17/gen-milley-key-to-military-continuity-as-biden-takes-office?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-17/gen-milley-key-to-military-continuity-as-biden-takes-office?_amp=true"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 118
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 117
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZSVFXTCZI4I6XOF55Y3LDTIYX4.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/31fc32c/2147483647/strip/true/crop/2048x1338+0+14/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa4%2F2b%2F81527f2d51835192a7f058398c11%2Fla-na-austin-isis-fight-20150916-001"
+        width: 320
+        height: 209
         isCached: true
-  - title: "For those who quit Trump after riot, critics say it’s too little — and four years too late"
-    excerpt: "The violent insurrection at the U.S. Capitol incited by the president set off a dramatic wave of resignations and attempts at distancing among administration officials and longtime advisers."
-    publishedDateTime: 2021-01-15T16:00:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-quit-riot/2021/01/14/a12a3d86-54ed-11eb-a817-e5e7f8a406d6_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-quit-riot/2021/01/14/a12a3d86-54ed-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-quit-riot/2021/01/14/a12a3d86-54ed-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+  - title: "Live politics updates: Tearful Joe Biden says goodbye to Delaware on eve of inauguration"
+    excerpt: "President-elect Joe Biden, struggling to hold back tears, said farewell to his hometown of Wilmington, Delaware, before departing for Washington."
+    publishedDateTime: 2021-01-19T21:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/19/live-politics-updates/4210750001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4210750001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4210750001"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 115
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3Q5DEDBOQAI6XHOWFUAXTGAXDE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "With Trump banned from Twitter, his supporters are parsing speeches for clues about what’s next"
-    excerpt: "Many of the president’s allies have struggled to glean clear marching orders from him since his banishment from social media."
-    publishedDateTime: 2021-01-14T22:23:00Z
-    webUrl: "https://www.washingtonpost.com/politics/with-trump-banned-from-twitter-his-supporters-are-parsing-speeches-for-clues-about-whats-next/2021/01/14/985e06dc-5534-11eb-a08b-f1381ef3d207_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/with-trump-banned-from-twitter-his-supporters-are-parsing-speeches-for-clues-about-whats-next/2021/01/14/985e06dc-5534-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/with-trump-banned-from-twitter-his-supporters-are-parsing-speeches-for-clues-about-whats-next/2021/01/14/985e06dc-5534-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R5HHSKSWOII6XIEL6E4B546SA4.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/d56f8ead-189e-4dbf-bf8b-f395ada506a6-AP21019701559210.jpg?auto=webp&crop=5513,3101,x1,y484&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden will have more women in his Cabinet than any president ever. Other countries still do better."
     excerpt: "Most cabinets have a \"concrete floor\" for gender representation, and rarely go lower. Will Biden raise that floor in the United States?"
@@ -697,59 +667,33 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden, once a warrior, may slowly retreat from the ‘war on drugs’"
-    excerpt: "President-elect Joe Biden built part of his political career on being known as a fighter in the “war on drugs,” supporting legislation as a senator that set harsh penalties for some drug offenses. But as president, Biden could potentially oversee broad changes in federal drug policy, including how the government and law enforcement agencies view drug addiction and treatment and classify the use of marijuana. Biden will take office at a time when the nation’s attitudes about drugs, particularly the legalization or decriminalization of marijuana, appear to be one area where there is relative, and growing, bipartisan unity. In an election that was otherwise defined by stark political differences, voters in both red states and blue states — Arizona, Montana, New Jersey and South Dakota — supported ballot initiatives to legalize the personal use of marijuana, while Mississippi voters legalized it for medicinal use. Along with earlier action by state legislatures or voters, 15 states have legalized marijuana, while 36 others have approved some form of medicinal marijuana use, according to the National Conference of State Legislatures. But marijuana remains illegal under federal law, leaving users and suppliers vulnerable to prosecution even in places where the drug is otherwise legally sold and used. The nation’s growing cannabis industry also faces hurdles in transporting its products across state lines and accessing the country’s federally regulated banking system. During his primary campaign, Biden was one of the few Democratic candidates who did not support federal legalization of marijuana for recreational use, citing concerns that it could be a “gateway drug.” But during the general-election campaign, he softened his stance, saying that the drug should be decriminalized and that individual states should decide whether to legalize it for recreational use. As the general-election campaign progressed, Kamala D. Harris, Biden’s running mate and a former prosecutor, also advocated for the decriminalization of marijuana despite past opposition to legalizing it. During the October vice-presidential debate, Harris said a Biden-Harris administration “will decriminalize marijuana, and we will expunge the records of those who have been convicted of marijuana” crimes. Marijuana advocates are gearing up to make sure Biden sticks to his campaign pledge, which they note that strong majorities of Democratic voters support, according to recent polls. Last month, for the first time, the Democratic-controlled House voted — 228 to 164 — to decriminalize marijuana and remove it from the federal schedule of controlled substances. The Republican-controlled Senate did not take up the measure, and many advocates are skeptical of its chances there, even though Democrats narrowly won control of the chamber after two runoff elections in Georgia last week. But advocates say Biden can still push toward decriminalization, even without a vote from Congress. Under its current classification, which dates to a decision made under President Richard Nixon in 1970, marijuana is classified as a Schedule I narcotic for having “no currently accepted medical use and a high potential for abuse.” The remaining schedules of narcotics, II through V, are ranked by their potential for abuse and perceived level of danger, and the classifications help guide federal enforcement and regulations for controlled substances, including prescription medication. Maritza Perez, director of national affairs for the pro-reform Drug Policy Alliance, said legal analysts for the movement think the Biden administration can unilaterally reschedule marijuana to a higher classification or even remove it from the list. Although she prefers congressional action, Perez said the administration could declassify marijuana through a process that would involve sign-off from the incoming attorney general as well as the secretary of the Department of Health and Human Services. Biden has nominated California Attorney General Xavier Becerra, who has defended his state’s legalization of marijuana, as his secretary of Health and Human Services. “The attorney general would have to work hand-in-hand with the HHS secretary, but we think this is certainly something within the administration's power, which is why the marijuana advocates have been pushing for him to appoint a pro-marijuana AG,” Perez said. But Sam Kamin, a law professor at the Sturm College of Law at the University of Denver and a leading expert on marijuana laws, is skeptical that Biden will aggressively pursue the unilateral rescheduling or de-scheduling of marijuana. De-scheduling the drug could upend international drug control treaties, while rescheduling it could undercut state medical marijuana laws, he said. “They can begin the rescheduling process, but whether they can de-schedule without stepping on other rules and regulations is more complicated,” Kamin said. “Treating marijuana like a Schedule II or III drug would create serious tensions with a lot of states. … If it was scheduled the same way Vicodin is scheduled, you could not get it over-the-counter as you can in many states. You would need a prescription from a medical doctor.” Even if Biden decides to largely steer clear of the marijuana debate, advocates for reforming the nation’s drug laws still think his administration will usher in a new period of compassion when it comes to addiction. To combat the opioid crisis, Biden has promised to spend an additional $125 billion over 10 years on drug treatment and prevention programs, while also supporting some controversial local initiatives such as needle exchanges. Perez is optimistic that the Biden administration, unlike President Trump’s, will take a hands-off approach when it comes to proposals by some cities to open safe-injection sites, where people can use illegal drugs in safe, monitored environments. Last year, the Trump administration sued to try to stop Philadelphia from opening a so-called safe injection site. But Perez noted in July that Becerra, as California attorney general, joined a multistate amicus brief in support of Philadelphia. ““Safe injection sites … are an innovative tool to combat the opioid epidemic and drug dependency while reducing overdose death and transmission of diseases,” Becerra said at the time. Amy B Wang contributed to this report."
-    publishedDateTime: 2021-01-11T13:38:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/11/biden-war-on-drugs/?arc404=true"
+  - title: "Biden has accepted invitation to stay at Blair House the night before inauguration, State Department says"
+    excerpt: "The Trump administration has offered President-elect Joe Biden the use of Blair House, the official residence for guests of the president, on the eve of his inauguration. Biden has accepted the offer to stay at the historic home,"
+    publishedDateTime: 2021-01-13T23:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-has-accepted-invitation-to-stay-at-blair-house-the-night-before-inauguration-state-department-says/2021/01/13/ca3f1e1c-5551-11eb-a931-5b162d0d033d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-has-accepted-invitation-to-stay-at-blair-house-the-night-before-inauguration-state-department-says/2021/01/13/ca3f1e1c-5551-11eb-a931-5b162d0d033d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-has-accepted-invitation-to-stay-at-blair-house-the-night-before-inauguration-state-department-says/2021/01/13/ca3f1e1c-5551-11eb-a931-5b162d0d033d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 105
+    quality: 108
     images:
-      - url: "https://www.washingtonpost.com/resizer/arr6lWTxuwivtVobxHjquOFT9z8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHBV43XF2QI6TMFGHUBXEG4F54.jpg"
-        width: 1484
-        height: 991
-        isCached: true
-  - title: "Biden, once a warrior in the ‘war on drugs,’ may slowly retreat"
-    excerpt: "President-elect Joe Biden built part of his political career on being known as a fighter in the “war on drugs,” supporting legislation as a senator that set harsh penalties for some drug offenses. But as president, Biden could potentially oversee broad changes in federal drug policy, including how the government and law enforcement agencies view drug addiction and treatment and classify the use of marijuana. Support our journalism. Subscribe today. Biden will take office at a time when the nation’s attitudes about drugs, particularly the legalization or decriminalization of marijuana, appear to be one area where there is relative, and growing, bipartisan unity. Oregon decriminalizes possession of hard drugs as four other states legalize recreational marijuana In an election that was otherwise defined by stark political differences, voters in both red states and blue states — Arizona, Montana, New Jersey and South Dakota — supported ballot initiatives to legalize the personal use of marijuana, while Mississippi voters legalized it for medicinal use. Along with earlier action by state legislatures or voters, 15 states have legalized marijuana, while 36 others have approved some form of medicinal marijuana use, according to the National Conference of State Legislatures. But marijuana remains illegal under federal law, leaving users and suppliers vulnerable to prosecution even in places where the drug is otherwise legally sold and used. The nation’s growing cannabis industry also faces hurdles in transporting its products across state lines and accessing the country’s federally regulated banking system. During his primary campaign, Biden was one of the few Democratic candidates who did not support federal legalization of marijuana for recreational use, citing concerns that it could be a “gateway drug.” But during the general-election campaign, he softened his stance, saying that the drug should be decriminalized and that individual states should decide whether to legalize it for recreational use. As the general-election campaign progressed, Kamala D. Harris, Biden’s running mate and a former prosecutor, also advocated for the decriminalization of marijuana despite past opposition to legalizing it. During the October vice-presidential debate, Harris said a Biden-Harris administration “will decriminalize marijuana, and we will expunge the records of those who have been convicted of marijuana” crimes. Marijuana advocates are gearing up to make sure Biden sticks to his campaign pledge, which they note that strong majorities of Democratic voters support, according to recent polls. Last month, for the first time, the Democratic-controlled House voted — 228 to 164 — to decriminalize marijuana and remove it from the federal schedule of controlled substances. The Republican-controlled Senate did not take up the measure, and many advocates are skeptical of its chances there, even though Democrats narrowly won control of the chamber after two runoff elections in Georgia last week. But advocates say Biden can still push toward decriminalization, even without a vote from Congress. Under its current classification, which dates to a decision made under President Richard Nixon in 1970, marijuana is classified as a Schedule I narcotic for having “no currently accepted medical use and a high potential for abuse.” The remaining schedules of narcotics, II through V, are ranked by their potential for abuse and perceived level of danger, and the classifications help guide federal enforcement and regulations for controlled substances, including prescription medication. Maritza Perez, director of national affairs for the pro-reform Drug Policy Alliance, said legal analysts for the movement think the Biden administration can unilaterally reschedule marijuana to a higher classification or even remove it from the list. Although she prefers congressional action, Perez said the administration could declassify marijuana through a process that would involve sign-off from the incoming attorney general as well as the secretary of the Department of Health and Human Services. Biden has nominated California Attorney General Xavier Becerra, who has defended his state’s legalization of marijuana, as his secretary of Health and Human Services. “The attorney general would have to work hand-in-hand with the HHS secretary, but we think this is certainly something within the administration's power, which is why the marijuana advocates have been pushing for him to appoint a pro-marijuana AG,” Perez said. But Sam Kamin, a law professor at the Sturm College of Law at the University of Denver and a leading expert on marijuana laws, is skeptical that Biden will aggressively pursue the unilateral rescheduling or de-scheduling of marijuana. De-scheduling the drug could upend international drug control treaties, while rescheduling it could undercut state medical marijuana laws, he said. “They can begin the rescheduling process, but whether they can de-schedule without stepping on other rules and regulations is more complicated,” Kamin said. “Treating marijuana like a Schedule II or III drug would create serious tensions with a lot of states. … If it was scheduled the same way Vicodin is scheduled, you could not get it over-the-counter as you can in many states. You would need a prescription from a medical doctor.” Even if Biden decides to largely steer clear of the marijuana debate, advocates for reforming the nation’s drug laws still think his administration will usher in a new period of compassion when it comes to addiction. To combat the opioid crisis, Biden has promised to spend an additional $125 billion over 10 years on drug treatment and prevention programs, while also supporting some controversial local initiatives such as needle exchanges. Perez is optimistic that the Biden administration, unlike President Trump’s, will take a hands-off approach when it comes to proposals by some cities to open safe-injection sites, where people can use illegal drugs in safe, monitored environments. Last year, the Trump administration sued to try to stop Philadelphia from opening a so-called safe injection site. But Perez noted in July that Becerra, as California attorney general, joined a multistate amicus brief in support of Philadelphia. “Safe injection sites … are an innovative tool to combat the opioid epidemic and drug dependency while reducing overdose death and transmission of diseases,” Becerra said at the time."
-    publishedDateTime: 2021-01-11T20:07:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/11/biden-war-on-drugs/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UHBV43XF2QI6TMFGHUBXEG4F54.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MUEGLJSVYYI6XIEL6E4B546SA4.jpg&w=1440"
         width: 1440
-        height: 961
+        height: 979
         isCached: true
-  - title: "Biden Defense pick faces eligibility questions from Democrats"
-    excerpt: "A handful of U.S. Senate Armed Services Committee Democrats voiced reservations on Tuesday about making another retired general the top civilian official at the Department of Defense, some citing last week's rampage at the U."
-    publishedDateTime: 2021-01-12T20:53:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-pentagon/biden-defense-pick-faces-eligibility-questions-from-democrats-idUSKBN29H2QR"
+  - title: "Security to take center stage at Biden inauguration after Capitol riot"
+    excerpt: "U.S. law enforcement agencies securing Joe Biden's Jan. 20 presidential inauguration swearing-in ceremony dramatically scaled up their budgets following the Capitol riot last week, according to a person involved with the planning."
+    publishedDateTime: 2021-01-12T21:33:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN29H29Z"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547536884&r=LYNXMPEH0B1G0&w=800"
-        width: 800
-        height: 544
-        isCached: true
-  - title: "Three U.S. House Republicans declare support for impeaching Trump"
-    excerpt: "President Donald Trump's iron grip on his party showed further signs of weakening on Tuesday as at least three Republicans, including a member of the House leadership, said they would vote to impeach him after his supporters stormed the Capitol."
-    publishedDateTime: 2021-01-13T06:41:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/some-house-republicans-join-impeachment-push-pence-says-he-will-not-move-to-expel-trump-idUSKBN29H0JJ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547529649&r=LYNXMPEH0B09M&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547513638&r=LYNXMPEH0B16H&w=800"
         width: 800
         height: 533
         isCached: true
@@ -767,6 +711,34 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "For Joe Biden, life and destiny converge to offer a new challenge"
+    excerpt: "Lord God, the whys of life and destiny are often hard,” the Rev. Justin Diny, headmaster at Biden’s high school, said that morning. Now, more than 48 years later, the hard whys of life and destiny have rewarded Biden — and placed him in another perilous moment."
+    publishedDateTime: 2021-01-13T17:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/13/president-role-joe-biden/?arc404=true"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/resizer/IYA6SM8GbifzMJGz7PzugdDPr7I=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4OTAXVRV25HL5DEPS5HHBI37ZM.jpg"
+        width: 1484
+        height: 1119
+        isCached: true
+  - title: "Tom Hanks to host televised special for Biden's inauguration"
+    excerpt: "Actor Tom Hanks will host a primetime television special on Jan. 20 to celebrate the inauguration of Joe Biden as president, organizers said on Wednesday."
+    publishedDateTime: 2021-01-13T22:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-hollywood/tom-hanks-to-host-televised-special-for-bidens-inauguration-idUSKBN29I2IM?edition-redirect=ca"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547665788&r=LYNXMPEH0C1G6&w=800"
+        width: 800
+        height: 540
+        isCached: true
   - title: "U.S. Senate moves toward confirming Biden cabinet nominees"
     excerpt: "The U.S. Senate Intelligence Committee said on Wednesday it had scheduled a confirmation hearing for President-elect Joe Biden's nominee to be director of national intelligence, after delays in the transition process for some nominees."
     publishedDateTime: 2021-01-14T05:20:00Z
@@ -781,33 +753,47 @@ related:
         width: 799
         height: 533
         isCached: true
-  - title: "What a Final-Days Impeachment Would Mean for Trump"
-    excerpt: "Donald Trump’s four-year term as president ends on Jan. 20 at noon. That’s not soon enough for some in Congress, who have initiated an unprecedented second effort to impeach him, one year after the U."
-    publishedDateTime: 2021-01-13T18:52:00Z
-    webUrl: "https://www.washingtonpost.com/business/what-a-final-days-impeachment-would-mean-for-trump/2021/01/13/071dfccc-55a7-11eb-acc5-92d2819a1ccb_story.html?amp;amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZFJUESVU4I6XLGFSLJIDGQ4ZM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Second Trump impeachment trial takes U.S. into uncharted waters"
-    excerpt: "America will be in uncharted territory when the U.S. Senate meets as soon as next week for the second impeachment trial of Donald Trump, a case against the outgoing president that one Democrat preparing for arguments called \"shockingly evident."
-    publishedDateTime: 2021-01-15T02:14:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump/wrapup-3-u-s-in-uncharted-waters-in-unprecedented-second-impeachment-of-trump-idUSL1N2JP075"
+  - title: "Biden pandemic stimulus plan to pump $1.9 tln into economy"
+    excerpt: "President-elect Joe Biden will unveil a stimulus proposal on Thursday designed to jump-start the economy during the coronavirus pandemic and help minority communities with around $1.9 trillion in aid."
+    publishedDateTime: 2021-01-14T22:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-stimulus/biden-to-unveil-plan-to-pump-1-9-trillion-into-pandemic-hit-economy-idUSKBN29J1B1?edition-redirect=ca"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547771325&r=LYNXMPEH0D0PK&w=800"
-        width: 800
-        height: 526
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547774889&r=LYNXMPEH0D0O8&w=800"
+        width: 799
+        height: 543
+        isCached: true
+  - title: "Biden unveils plan to pump $1.9 trillion into pandemic-hit economy"
+    excerpt: "President-elect Joe Biden outlined a $1.9 trillion stimulus package proposal on Thursday, saying bold investment was needed to jump-start the economy and accelerate the distribution of vaccines to bring the coronavirus under control."
+    publishedDateTime: 2021-01-15T14:18:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-stimulus/update-3-biden-to-unveil-plan-to-pump-19-trillion-into-pandemic-hit-economy-idUSL1N2JP30B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547909526&r=LYNXMPEH0D0O8&w=800"
+        width: 799
+        height: 543
+        isCached: true
+  - title: "Biden's inauguration challenge is to unite America"
+    excerpt: "The theme for President-elect Joe Biden's inauguration will be \"America United,\" an issue that's long been a central focus for Biden but one that's taken on added weight in the wake of the violence at the U."
+    publishedDateTime: 2021-01-15T14:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/15/bidens-inauguration-challenge-unite-america/4172672001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4ffeaeba-2bb6-4ce3-874e-56735404a94f_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "U.S. airlines back Biden plan to mandate masks for passengers"
     excerpt: "A group representing major U.S. airlines on Thursday backed President-elect Joe Biden's plan to mandate face coverings for all air passengers, but asked him to give them flexibility in enforcing it."
@@ -823,20 +809,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "U.S. in uncharted waters in unprecedented second impeachment of Trump"
-    excerpt: "America will be in uncharted territory when the U.S. Senate meets as soon as next week for the impeachment trial of Donald Trump, the first U.S. president both to be impeached a second time and to face trial by lawmakers after leaving office."
-    publishedDateTime: 2021-01-14T22:47:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/us-in-uncharted-waters-in-unprecedented-second-impeachment-of-trump-idUSKBN29J1B6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547771325&r=LYNXMPEH0D0PK&w=800"
-        width: 800
-        height: 526
-        isCached: true
   - title: "Biden nominates veteran diplomats for top State posts"
     excerpt: "Democratic President-elect Joe Biden on Saturday nominated U.S. foreign policy veteran Wendy Sherman, a key negotiator of the 2015 nuclear deal with Iran, to be the No. 2 official at the State Department."
     publishedDateTime: 2021-01-16T14:27:00Z
@@ -850,6 +822,98 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548043131&r=LYNXMPEH0F0D0&w=800"
         width: 800
         height: 609
+        isCached: true
+  - title: "Biden says he feels safe ahead of his inauguration"
+    excerpt: "U.S. President-elect Joe Biden said on Friday that he feels safe taking his oath of office publicly next week."
+    publishedDateTime: 2021-01-16T02:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-safety/biden-says-he-feels-safe-ahead-of-his-inauguration-idUSKBN29K2MP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548003541&r=LYNXMPEH0E1JN&w=800"
+        width: 800
+        height: 626
+        isCached: true
+  - title: "Biden says he feels safe ahead of inauguration"
+    excerpt: "Top News Biden says he feels safe ahead of inauguration. Posted . U.S. President-elect Joe Biden said on Friday that he feels safe, after a reporter asked him if he felt comfortab"
+    publishedDateTime: 2021-01-16T01:56:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDVBMOKF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210116&i=OVDVBMOKF&r=OVDVBMOKF&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Heightened security measures in place ahead of Biden's inauguration"
+    excerpt: "Heightened security measures are in place in Washington and across the country ahead of President-elect Joe Biden's inauguration this week. CBS News congressional correspondent Nikole Killion reports on what Washington,"
+    publishedDateTime: 2021-01-16T21:51:00Z
+    webUrl: "https://www.cbsnews.com/video/heightened-security-measures-in-place-ahead-of-inauguration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/16/35c8e5a0-ef21-4896-bc55-6ebf589508bd/thumbnail/1200x630/3d8c28b090446f909270aeb27cd3e0e4/cbsn-fusion-heightened-security-measures-in-place-ahead-of-inauguration-thumbnail-627840-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "INAUGURATION EXPLAINER: Biden's event will be very different"
+    excerpt: "WASHINGTON (AP) — Between the still-raging pandemic and suddenly very real threat of violence, the inauguration of Joe Biden and Kamala Harris next Wednesday promises to be one of the most unusual in American history."
+    publishedDateTime: 2021-01-16T22:51:00Z
+    webUrl: "https://www.businessinsider.com/inauguration-explainer-bidens-event-will-be-very-different-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/inauguration-explainer-bidens-event-will-be-very-different-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/inauguration-explainer-bidens-event-will-be-very-different-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Biden intends quick executive actions to propel his agenda"
+    excerpt: "On the first day of his presidency, Joe Biden plans to roll back some of President Donald Trump's most controversial policies and take steps to address the coronavirus pandemic, his incoming chief of staff says."
+    publishedDateTime: 2021-01-18T04:37:00Z
+    webUrl: "https://www.businessinsider.com/biden-intends-quick-executive-actions-to-propel-his-agenda-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-intends-quick-executive-actions-to-propel-his-agenda-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-intends-quick-executive-actions-to-propel-his-agenda-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "What to expect from Biden's inauguration?"
+    excerpt: "Watch \"What to expect from President-elect Joe Biden's inauguration as over 25,000 National Guards troops deployed to Washington D.C.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN,"
+    publishedDateTime: 2021-01-17T21:13:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210117190428-what-to-expect-from-president-elect-joe-bidens-inauguration-as-over-25000-national-guards-troops-deployed-to-washington-d-c/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/17/story_08587676_1610910963.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden’s hefty to-do list starts with a flurry of orders"
+    excerpt: "WASHINGTON (AP) — Joe Biden has given himself an imposing to-do list for his earliest days as president and many promises to keep over the longer haul. Overshadowing everything at the"
+    publishedDateTime: 2021-01-19T11:25:00Z
+    webUrl: "https://apnews.com/article/joe-biden-health-immigration-coronavirus-pandemic-ron-klain-7b4e1c38b09303a922e22e4a8fe35552"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/473a9ecd51c5429ca83b4ee9712928ca/3000.jpeg"
+        width: 3000
+        height: 2002
         isCached: true
   - title: "Progressives pressure Biden to reform Senate filibuster"
     excerpt: "Several progressive left-wing groups are urging President-elect Joe Biden to alter or eliminate the Senate filibuster. The procedure allows for lawmakers to delay or block votes on legislation by burying proposals in endless debate."
@@ -879,93 +943,71 @@ related:
         width: 810
         height: 540
         isCached: true
-  - title: "McConnell: Donald Trump ‘fed lies’ to mob about Biden election"
-    excerpt: "Senate Republican leader Mitch McConnell opened the Senate on Tuesday saying the pro-Trump mob that stormed the Capitol was “fed lies” by the president and others in the deadly riot to overturn Democrat Joe Biden’s election."
-    publishedDateTime: 2021-01-19T18:37:00Z
-    webUrl: "https://www.cleveland.com/nation/2021/01/mcconnell-donald-trump-fed-lies-to-mob-about-biden-election.html"
-    ampWebUrl: "https://www.cleveland.com/nation/2021/01/mcconnell-donald-trump-fed-lies-to-mob-about-biden-election.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/mcconnell-donald-trump-fed-lies-to-mob-about-biden-election.html?outputType=amp"
+  - title: "Trouble at home may change Biden's hand in Iran nuke talks"
+    excerpt: "A lot of the characters are the same for President-elect Joe Biden but the scene is far starker as he reassembles a team of veteran negotiators to get back into the 2015 nuclear deal with Iran."
+    publishedDateTime: 2021-01-19T12:04:00Z
+    webUrl: "https://www.businessinsider.com/trouble-at-home-may-change-bidens-hand-in-iran-nuke-talks-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trouble-at-home-may-change-bidens-hand-in-iran-nuke-talks-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trouble-at-home-may-change-bidens-hand-in-iran-nuke-talks-2021-1?amp"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ASKG7CCQR5BJVDZDT23CK2WUFM.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Outgoing Trump admin mulls industry-wide biofuel waiver for oil refiners"
-    excerpt: "The Trump administration is considering requests from the oil refining industry and its backers for a sweeping nationwide waiver to exempt them from their obligations to blend biofuels, a measure they argue would help them weather the economic impact of the coronavirus"
-    publishedDateTime: 2021-01-16T00:32:00Z
-    webUrl: "https://www.reuters.com/article/usa-biofuels/update-5-outgoing-trump-admin-mulls-industry-wide-biofuel-waiver-for-oil-refiners-idUSL1N2JQ17Z"
+  - title: "Biden picks transgender woman as assistant health secretary"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has tapped Pennsylvania Health Secretary to be his assistant secretary of health, leaving her poised to become the first openly transgender federal official to be confirmed by the U."
+    publishedDateTime: 2021-01-19T18:17:00Z
+    webUrl: "https://www.businessinsider.com/biden-picks-transgender-woman-as-assistant-health-secretary-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-picks-transgender-woman-as-assistant-health-secretary-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-transgender-woman-as-assistant-health-secretary-2021-1?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Biden launches new Twitter account to build following before taking command of White House @POTUS on Inauguration Day"
+    excerpt: "When Joe Biden is sworn in on Wednesday, he will take command of the @POTUS and @WhiteHouse Twitter accounts in another official transfer of power."
+    publishedDateTime: 2021-01-16T23:59:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2021/01/14/biden-administration-twitter-accounts-transfer-trump-inauguration-day/4168127001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4168127001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4168127001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 102
     images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/14/USAT/b2aa7210-2606-4ff3-a865-f847930d7c2c-Biden.jpg?auto=webp&crop=6047,3401,x0,y157&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Operation Warp Speed chief adviser resigns, Biden's transition official says"
-    excerpt: "Moncef Slaoui, the chief adviser for Operation Warp Speed, has resigned but will be available to the incoming Joe Biden administration as a consultant for about four weeks, a Biden transition official told Reuters late on Tuesday."
-    publishedDateTime: 2021-01-13T11:08:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-slaoui-idUSKBN29I097"
+  - title: "Biden's inauguration rehearsal postponed over security concerns, Politico says"
+    excerpt: "A rehearsal for U.S President-elect Joe Biden's inauguration scheduled for Sunday has been postponed because of security concerns, Politico reported late on Thursday, citing two people with knowledge of the decision."
+    publishedDateTime: 2021-01-15T13:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-security/bidens-inauguration-rehearsal-postponed-over-security-concerns-politico-says-idUSKBN29K0A8?edition-redirect=ca"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 102
+    quality: 101
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547574508&r=LYNXMPEH0C05S&w=800"
-        width: 800
-        height: 577
-        isCached: true
-  - title: "U.S. state capitals on edge for armed protests as Trump presidency nears end"
-    excerpt: "Trump marches in all 50 state capitals this weekend, erecting barriers and calling in their National Guards to try to prevent the kind of violent attack that rattled the nation on Jan. 6."
-    publishedDateTime: 2021-01-16T12:01:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/u-s-state-capitals-on-edge-for-armed-protests-as-trump-presidency-nears-end-idUSKBN29L0CS"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 102
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548028753&r=LYNXMPEH0F096&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547869722&r=LYNXMPEH0E05D&w=800"
         width: 800
         height: 533
         isCached: true
-  - title: "U.S. state capitals on edge for armed protests as Trump presidency nears end"
-    excerpt: "Trump marches in all 50 state capitals this weekend, erecting barriers and calling in their National Guards to try to prevent the kind of violent attack that rattled the nation on Jan. 6."
-    publishedDateTime: 2021-01-16T17:10:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/u-s-capitals-on-edge-for-armed-protests-as-trump-presidency-nears-end-idUSKBN29L0CS"
+  - title: "Spend big now, pay down debt later, Biden's Treasury nominee Yellen tells lawmakers"
+    excerpt: "Janet Yellen, U.S. President-elect Joe Biden's nominee for Treasury Secretary, urged lawmakers on Tuesday to \"act big\" on the next coronavirus relief package, adding that the benefits outweigh the costs of a higher debt burden."
+    publishedDateTime: 2021-01-19T22:56:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-yellen/spend-big-now-pay-down-debt-later-bidens-treasury-nominee-yellen-tells-lawmakers-idUSKBN29O1WX?edition-redirect=ca"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 102
+    quality: 99
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548030531&r=LYNXMPEH0F09U&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548330451&r=LYNXMPEH0I18D&w=800"
         width: 800
-        height: 519
-        isCached: true
-  - title: "Joe Biden volunteers, Donald Trump works on MLK Day"
-    excerpt: "state and national organizations virtually for a National Day of Service on Martin Luther King Jr. Day while the White House designated Monday as a working day for President Donald Trump. Biden and wife Jill Biden are expected to volunteer at Philabundance ..."
-    publishedDateTime: 2021-01-18T14:39:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/01/18/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day/1671610978151/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/18/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day/1671610978151/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/18/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day/1671610978151/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 100
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/1671610978151/2021/1/d90e27e5b533cf02b2ab1cdebe011438/v1.5/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day.jpg"
-        width: 800
-        height: 534
+        height: 533
         isCached: true
   - title: "Biden says he hopes Senate leadership will work on other business during impeachment"
     excerpt: "U.S. President-elect Joe Biden on Wednesday called on Senate leadership to work on other business while dealing with their responsibilities on impeachment after a House of Representatives vote that made Donald Trump the first U."
@@ -981,52 +1023,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Republican U.S. senator joins calls for Trump resignation as Democrats prepare to impeach"
-    excerpt: "Republican U.S. senator called for President Donald Trump to resign on Sunday, saying he could face criminal liability after the deadly storming of the U.S. Capitol by his supporters."
-    publishedDateTime: 2021-01-11T00:16:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump/republican-senator-says-trump-should-quit-as-momentum-for-impeachment-grows-in-house-idUSKBN29F03R"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 96
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547306910&r=LYNXMPEH090DD&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Trump Lifts COVID-19 Travel Bans On Europe, UK; Biden Says 'No'"
-    excerpt: "U.S. citizens who have traveled to Brazil and Europe, including the U.K., within the last 14 days from entering the country."
-    publishedDateTime: 2021-01-19T00:20:00Z
-    webUrl: "https://www.ibtimes.com/trump-lifts-covid-19-travel-bans-europe-uk-biden-says-no-3124946"
-    ampWebUrl: "https://www.ibtimes.com/trump-lifts-covid-19-travel-bans-europe-uk-biden-says-no-3124946?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-lifts-covid-19-travel-bans-europe-uk-biden-says-no-3124946?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 90
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/19/air-france-has-decided-to-take-its-a380.jpg"
-        width: 1024
-        height: 680
-        isCached: true
-  - title: "Melania Trump Faces Criticism For Not Giving Jill Biden White House Tour"
-    excerpt: "Melania Trump received backlash on social media after reports said she broke tradition by not giving incoming first lady Jill Biden a pre-inauguration tour of the White House."
-    publishedDateTime: 2021-01-19T09:30:00Z
-    webUrl: "https://ibtimes.com/melania-trump-faces-criticism-not-giving-jill-biden-white-house-tour-3125214"
-    ampWebUrl: "https://www.ibtimes.com/melania-trump-faces-criticism-not-giving-jill-biden-white-house-tour-3125214?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-faces-criticism-not-giving-jill-biden-white-house-tour-3125214?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 89
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/08/melania-trump.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Biden is raising tens of millions of dollars for his inauguration but won't say where the money is going"
     excerpt: "Biden is raising tens of millions of dollars for the inaugural celebrations, including from corporate giants with big business before the federal government."
     publishedDateTime: 2021-01-17T00:10:00Z
@@ -1041,49 +1037,24 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Joe Biden’s COVID team is nervous about what the Trump team hasn’t told them"
-    excerpt: "CNN With the hours dwindling until Joe Biden is sworn in — officially taking the helm of the US government during its worst health crisis in 100"
-    publishedDateTime: 2021-01-19T12:49:00Z
-    webUrl: "https://www.ocregister.com/2021/01/19/joe-bidens-covid-team-is-nervous-about-what-the-trump-team-hasnt-told-them/"
-    ampWebUrl: "https://www.ocregister.com/2021/01/19/joe-bidens-covid-team-is-nervous-about-what-the-trump-team-hasnt-told-them/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/01/19/joe-bidens-covid-team-is-nervous-about-what-the-trump-team-hasnt-told-them/amp/"
+  - title: "INAUGURATION EXPLAINER: Biden's event will be very different"
+    excerpt: "Between the still-raging pandemic and suddenly very real threat of violence from supporters of outgoing President Donald Trump, Jan. 20 promises to be one of the most unusual presidential inauguration"
+    publishedDateTime: 2021-01-16T06:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/inauguration-explainer-bidens-event-75291601"
     type: article
     provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 87
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2021/01/200925174647-trump-v-biden-covid-19-live-video-2-1.jpg?w=576&h=324"
-        width: 576
-        height: 324
-        isCached: true
-  - title: "Trump lifts UK, Ireland and Brazil COVID travel restrictions; Biden pushes back"
-    excerpt: "President-elect Joe Biden’s incoming White House press secretary says his administration does not intend to lift coronavirus travel restrictions for Europe, the U.K., Ireland and Brazil. The message from Jen Psaki came Monday evening after the White House said President Donald Trump had lifted the restrictions for those countries,"
-    publishedDateTime: 2021-01-19T00:11:00Z
-    webUrl: "https://www.al.com/news/2021/01/trump-lifts-uk-ireland-and-brazil-covid-travel-restrictions-biden-pushes-back.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/trump-lifts-uk-ireland-and-brazil-covid-travel-restrictions-biden-pushes-back.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-lifts-uk-ireland-and-brazil-covid-travel-restrictions-biden-pushes-back.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 86
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JMGXV76SHZDVFIJN6CQA4GX5WM.jpg"
-        width: 5371
-        height: 3581
-        isCached: true
-  - title: "McConnell Said Trump 'Fed Lies' to Mob About Biden Election"
-    excerpt: "Senate Republican leader Mitch McConnell opened the Senate on Tuesday saying the pro-Trump mob that stormed the Capitol was “fed lies” by the president and others in the deadly riot."
-    publishedDateTime: 2021-01-19T18:49:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-19/trumps-trial-bidens-cabinet-picks-await-senate-post-siege"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-19/trumps-trial-bidens-cabinet-picks-await-senate-post-siege?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-19/trumps-trial-bidens-cabinet-picks-await-senate-post-siege?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 85
+  - title: "Biden's inauguration will be very different. Here’s what you need to know."
+    excerpt: "President-elect Joe Biden’s Inauguration is happening amid a pandemic, security threats and tension between the shifting administrations. Here’s what the extraordinary day will look like."
+    publishedDateTime: 2021-01-18T01:06:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/bidens-inauguration-will-be-very-different-heres-what-you-need-to-know/2021/01/17/5492cb56-543a-4186-a3dd-8bc1fc3bc771_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 83
   - title: "Tom Hanks Hosted Inauguration Special Sees Comparison of Joe Biden, Donald Trump Supporters"
     excerpt: "An inauguration special for Joe Biden has drawn comparisons to the kind of celebrities who are showing support for him over Donald Trump."
     publishedDateTime: 2021-01-14T17:50:00Z
@@ -1100,144 +1071,165 @@ related:
         width: 1024
         height: 693
         isCached: true
-  - title: "Donald Trump’s Republican wall eroding ahead of impeachment vote"
-    excerpt: "But with a sudden force, the wall of Republican support that has enabled Trump to weather a seemingly endless series of crises is beginning to erode. Trump’s weakened standing among his own party will come into sharper focus on Wednesday when the House is expected to impeach the president for inciting a riot at the U."
-    publishedDateTime: 2021-01-13T13:39:00Z
-    webUrl: "https://www.cleveland.com/nation/2021/01/donald-trumps-republican-wall-eroding-ahead-of-impeachment-vote.html"
-    ampWebUrl: "https://www.cleveland.com/nation/2021/01/donald-trumps-republican-wall-eroding-ahead-of-impeachment-vote.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/donald-trumps-republican-wall-eroding-ahead-of-impeachment-vote.html?outputType=amp"
+  - title: "Joe Biden to put $2,000 stimulus payments back in play"
+    excerpt: "A $2,000 stimulus check is expected to be included in a $2 trillion Covid relief plan that President-elect Joe Biden is set to unveil Thursday evening."
+    publishedDateTime: 2021-01-14T19:35:00Z
+    webUrl: "https://www.ocregister.com/2021/01/14/joe-biden-to-put-2000-stimulus-payments-back-in-play/"
+    ampWebUrl: "https://www.ocregister.com/2021/01/14/joe-biden-to-put-2000-stimulus-payments-back-in-play/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/01/14/joe-biden-to-put-2000-stimulus-payments-back-in-play/amp/"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
+      name: Orange County Register
+      domain: ocregister.com
     quality: 75
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4ZGO5EH3VREN3GDE3TMS7G657A.jpg"
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/01/hypatia-h_ad793e75d7fd1554dbfdd1f821b34130-h_c29915ef82a3712aba7cb18c0e0e4d22-1.jpg?w=1024&h=683"
         width: 1024
         height: 683
         isCached: true
-  - title: "U.S. House impeaches President Donald Trump for second time"
-    excerpt: "During debate on the articles of impeachment, House Speaker Nancy Pelosi asked Republicans and Democrats to “search their souls” ahead of the historic afternoon vote."
-    publishedDateTime: 2021-01-13T19:25:00Z
-    webUrl: "https://www.al.com/news/2021/01/us-house-impeaches-president-donald-trump-for-second-time.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/us-house-impeaches-president-donald-trump-for-second-time.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/us-house-impeaches-president-donald-trump-for-second-time.html?outputType=amp"
+  - title: "Joe Biden’s long political evolution leads to his biggest test"
+    excerpt: "Joseph Robinette Biden Jr. has navigated a half-century in American politics by relentlessly positioning himself at the core of the Democratic Party."
+    publishedDateTime: 2021-01-17T22:46:00Z
+    webUrl: "https://www.denverpost.com/2021/01/17/joe-biden-political-evolution/"
+    ampWebUrl: "https://www.denverpost.com/2021/01/17/joe-biden-political-evolution/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/01/17/joe-biden-political-evolution/amp/"
     type: article
     provider:
-      name: al.com
-      domain: al.com
+      name: The Denver Post
+      domain: denverpost.com
     quality: 75
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5N2JIVEV2BBOFDALIDFNMOQI2U.jpg"
-        width: 4155
-        height: 2770
-        isCached: true
-  - title: "Who Are The 10 Republicans That Voted To Impeach Donald Trump?"
-    excerpt: "Ten Republicans joined Democrats in the House on Wednesday to impeach Donald Trump, making him the first president to be impeached twice. The article of impeachment accused President Trump of \"incitement of insurrection."
-    publishedDateTime: 2021-01-13T23:26:00Z
-    webUrl: "https://www.ibtimes.com/who-are-10-republicans-voted-impeach-donald-trump-3121356"
-    ampWebUrl: "https://www.ibtimes.com/who-are-10-republicans-voted-impeach-donald-trump-3121356?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/who-are-10-republicans-voted-impeach-donald-trump-3121356?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/12/16/democrats-are-pressuring-the-senates-republican-leader-to-AFP_1N46R9.jpg"
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/Biden_Evolution__83052.jpg?w=1024&h=692"
         width: 1024
-        height: 703
+        height: 692
         isCached: true
-  - title: "Republicans Are Breaking Ranks on Impeachment. That's Good for Democrats — and Bad for Trump"
-    excerpt: "As the Democrats prepare to impeach Donald Trump for a second time, a few Republican votes could prove helpful for the Democrats. Here's why"
-    publishedDateTime: 2021-01-13T22:55:00Z
-    webUrl: "https://time.com/5929140/impeachment-republicans-donald-trump/"
+  - title: "Joe Biden picks transgender woman as assistant health secretary"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has tapped Pennsylvania Health Secretary Rachel Levine to be his assistant secretary of health, leaving her poised to become the first openly"
+    publishedDateTime: 2021-01-19T12:15:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/19/biden-picks-transgender-woman-as-assistant-health-secretary/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/19/biden-picks-transgender-woman-as-assistant-health-secretary/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/19/biden-picks-transgender-woman-as-assistant-health-secretary/amp/"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 74
-  - title: "Joe Bide, Donald Trump, Coronavirus news and more: What’s trending today"
-    excerpt: "A look at some of the top stories trending today including news on Joe Biden, Donald Trump's final days in office, coronavirus updates and much more."
-    publishedDateTime: 2021-01-19T16:16:00Z
-    webUrl: "https://www.cleveland.com/nation/2021/01/joe-bide-donald-trump-coronavirus-news-and-more-whats-trending-today.html"
-    ampWebUrl: "https://www.cleveland.com/nation/2021/01/joe-bide-donald-trump-coronavirus-news-and-more-whats-trending-today.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-bide-donald-trump-coronavirus-news-and-more-whats-trending-today.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 74
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VZU3INCMZBB5DGJIPRCC6WNWD4.jpg"
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/Biden_Health_Appointee_26055.jpg?w=1024&h=683"
         width: 1024
         height: 683
         isCached: true
-  - title: "Biden Pledges 'New Chapter' But Trump Impeachment Trial Looms"
-    excerpt: "Biden promised \"a new chapter\" for the nation on the day after Trump became the first US president to ever be impeached twice, as the incoming Democrat sought to seize the narrative in a primetime address and get Americans looking forward again."
-    publishedDateTime: 2021-01-15T02:24:00Z
-    webUrl: "https://www.ibtimes.com/biden-pledges-new-chapter-trump-impeachment-trial-looms-3122198"
+  - title: "Joe Biden to propose 8-year citizenship path for immigrants"
+    excerpt: "WASHINGTON — President-elect Joe Biden plans to unveil a sweeping immigration bill on Day One of his administration, hoping to provide an eight-year path to citizenship for an estimated 11 million people living in the U."
+    publishedDateTime: 2021-01-19T13:24:00Z
+    webUrl: "https://www.nola.com/news/politics/national_politics/article_49570082-5a59-11eb-8143-4750e9d9fff7.html"
+    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_49570082-5a59-11eb-8143-4750e9d9fff7.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_49570082-5a59-11eb-8143-4750e9d9fff7.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/c/24/c24de76c-5a59-11eb-ba7c-1b2fed1bd578/6006ddd45f4ef.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Why Garth Brooks is playing Joe Biden's inauguration"
+    excerpt: "Garth Brooks' performance at President-elect Joe Biden's inauguration was met with some backlash, here's what the country star said about his decision"
+    publishedDateTime: 2021-01-19T22:40:00Z
+    webUrl: "https://www.tennessean.com/story/entertainment/music/2021/01/19/joe-biden-inauguration-garth-brooks-politics-not-factor/4213313001/"
+    ampWebUrl: "https://amp.tennessean.com/amp/4213313001"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/4213313001"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/11/15/PNAS/5a1a7785-99bc-4c66-86ae-af70086147b8-_LDM2847.JPG?auto=webp&crop=2981,1677,x0,y46&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How Facebook Is Prepping For Joe Biden’s Inauguration Amid Online Threats"
+    excerpt: "Facebook has taken a major step in cracking down on the violence that threatens to derail Joe Biden’s Inauguration. Facebook announced it would continue to take a variety of measures to prevent users from using the social media platform to incite violence during the inauguration."
+    publishedDateTime: 2021-01-16T17:57:00Z
+    webUrl: "https://www.ibtimes.com/how-facebook-prepping-joe-bidens-inauguration-amid-online-threats-3123812"
+    ampWebUrl: "https://www.ibtimes.com/how-facebook-prepping-joe-bidens-inauguration-amid-online-threats-3123812?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-facebook-prepping-joe-bidens-inauguration-amid-online-threats-3123812?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 70
+    quality: 74
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/us-president-elect-joe-biden-wants-to-get.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/03/facebook-is-reportedly-changing-its-policy-on-hate.jpg"
         width: 1024
-        height: 680
+        height: 700
         isCached: true
-  - title: "Trump Impeachment Trial Looms Over Biden's First 100 Days Agenda"
-    excerpt: "Trump was impeached in the House of Representatives -- becoming the first US president in history subjected to a second impeachment -- Biden hopes to seize the narrative in a primetime address and get Americans looking forward again."
-    publishedDateTime: 2021-01-14T20:41:00Z
-    webUrl: "https://www.ibtimes.com/trump-impeachment-trial-looms-over-bidens-first-100-days-agenda-3122198"
+  - title: "Southern Californians eagerly await — or dread — Joe Biden’s inauguration"
+    excerpt: "But instead of watching President-elect Joe Biden’s swearing-in, Reiss might grab his “Don’t Tread on Me” flag and join fellow conservatives at an outdoor rally. “With what’s happening now, obviously I’m not happy about how things turned out,"
+    publishedDateTime: 2021-01-19T03:20:00Z
+    webUrl: "https://www.ocregister.com/2021/01/18/southern-californians-eagerly-await-or-dread-joe-bidens-inauguration/"
+    ampWebUrl: "https://www.ocregister.com/2021/01/18/southern-californians-eagerly-await-or-dread-joe-bidens-inauguration/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/01/18/southern-californians-eagerly-await-or-dread-joe-bidens-inauguration/amp/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 74
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/us-president-elect-joe-biden-wants-to-get.jpg"
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/01/RPE-L-INAUG-0118-01CY-1.jpg?w=1024&h=729"
         width: 1024
-        height: 680
+        height: 729
         isCached: true
-  - title: "Canada's Trudeau Embraces Biden in Bid to Turn Page on Trump Era"
-    excerpt: "Canadian Prime Minister Justin Trudeau's swift embrace of U.S. president-elect Joe Biden illustrates the degree to which Canada, one of America's closest allies, is looking forward to turning the page on the Donald Trump era."
-    publishedDateTime: 2021-01-15T16:46:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-01-15/canadas-trudeau-embraces-biden-in-bid-to-turn-page-on-trump-era"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-15/canadas-trudeau-embraces-biden-in-bid-to-turn-page-on-trump-era?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-15/canadas-trudeau-embraces-biden-in-bid-to-turn-page-on-trump-era?context=amp"
+  - title: "How Mike Pence's hometown views his legacy as vice presidency comes to an end"
+    excerpt: "In a music store in this small city 45 minutes southeast of Indianapolis, a picture of Vice President Mike Pence playing guitar hangs by the door. Nearby"
+    publishedDateTime: 2021-01-18T11:03:00Z
+    webUrl: "https://www.southbendtribune.com/news/indiana/how-mike-pences-hometown-views-his-legacy-as-vice-presidency-comes-to-an-end/article_4db3634c-58ff-11eb-bc43-2fea0b3c7ab5.html"
+    ampWebUrl: "https://www.southbendtribune.com/news/indiana/how-mike-pences-hometown-views-his-legacy-as-vice-presidency-comes-to-an-end/article_4db3634c-58ff-11eb-bc43-2fea0b3c7ab5.amp.html"
+    cdnAmpWebUrl: "https://www-southbendtribune-com.cdn.ampproject.org/c/s/www.southbendtribune.com/news/indiana/how-mike-pences-hometown-views-his-legacy-as-vice-presidency-comes-to-an-end/article_4db3634c-58ff-11eb-bc43-2fea0b3c7ab5.amp.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "South Korea's Moon Urges Biden Admin to Follow up on Kim, Trump Summit"
-    excerpt: "SEOUL (Reuters) - South Korean President Moon Jae-in said on Monday that U.S. President-elect Joe Biden should hold talks with North Korea to build on progress that President Donald Trump had made with leader Kim Jong Un."
-    publishedDateTime: 2021-01-18T04:48:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-01-17/south-koreas-moon-urges-biden-admin-to-follow-up-on-kim-trump-summit"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-17/south-koreas-moon-urges-biden-admin-to-follow-up-on-kim-trump-summit?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-17/south-koreas-moon-urges-biden-admin-to-follow-up-on-kim-trump-summit?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "New study examines how Donald Trump used Twitter to craft an alternate reality for his followers"
-    excerpt: "The study analyzed thousands of Trump's tweets to show how Trump used Twitter to craft a world where what he said was dogma."
-    publishedDateTime: 2021-01-17T08:30:00Z
-    webUrl: "https://www.cleveland.com/open/2021/01/new-study-examines-how-donald-trump-used-twitter-to-craft-an-alternate-reality-for-his-followers.html"
-    ampWebUrl: "https://www.cleveland.com/open/2021/01/new-study-examines-how-donald-trump-used-twitter-to-craft-an-alternate-reality-for-his-followers.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/01/new-study-examines-how-donald-trump-used-twitter-to-craft-an-alternate-reality-for-his-followers.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 62
+      name: South Bend Tribune
+      domain: southbendtribune.com
+    quality: 72
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HDAMTR4D2ZFCRBMTOLQKLERYOE.jpg"
-        width: 3353
-        height: 2235
+      - url: "https://bloximages.newyork1.vip.townnews.com/southbendtribune.com/content/tncms/assets/v3/editorial/6/ab/6abb0278-5900-11eb-ac74-cf89567af00a/60049bb044f83.image.jpg?resize=1024%2C698"
+        width: 1024
+        height: 698
+        isCached: true
+  - title: "How Mike Pence's hometown views his legacy as vice presidency comes to an end"
+    excerpt: "In a music store in this small city 45 minutes southeast of Indianapolis, a picture of Vice President Mike Pence playing guitar hangs by the door. Nearby"
+    publishedDateTime: 2021-01-19T11:17:00Z
+    webUrl: "https://www.southbendtribune.com/news/indiana/how-pences-hometown-views-his-legacy-as-his-vice-presidency-comes-to-a-tumultuous-end/article_4db3634c-58ff-11eb-bc43-2fea0b3c7ab5.html"
+    ampWebUrl: "https://www.southbendtribune.com/news/indiana/how-pences-hometown-views-his-legacy-as-his-vice-presidency-comes-to-a-tumultuous-end/article_4db3634c-58ff-11eb-bc43-2fea0b3c7ab5.amp.html"
+    cdnAmpWebUrl: "https://www-southbendtribune-com.cdn.ampproject.org/c/s/www.southbendtribune.com/news/indiana/how-pences-hometown-views-his-legacy-as-his-vice-presidency-comes-to-a-tumultuous-end/article_4db3634c-58ff-11eb-bc43-2fea0b3c7ab5.amp.html"
+    type: article
+    provider:
+      name: South Bend Tribune
+      domain: southbendtribune.com
+    quality: 72
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/southbendtribune.com/content/tncms/assets/v3/editorial/6/ab/6abb0278-5900-11eb-ac74-cf89567af00a/60049bb044f83.image.jpg?resize=1024%2C698"
+        width: 1024
+        height: 698
+        isCached: true
+  - title: "How to watch Joe Biden's Inauguration Day 2021, from the swearing-in to Tom Hanks' special"
+    excerpt: "Joe Biden and Kamala Harris' 2021 inauguration will feature Lady Gaga, Tom Hanks and COVID-19 safety precautions. Here's how to watch and what time."
+    publishedDateTime: 2021-01-18T02:03:00Z
+    webUrl: "https://www.azcentral.com/story/entertainment/media/2021/01/17/joe-biden-2021-inauguration/4176962001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/4176962001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4176962001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/PPHX/c3634c0f-2375-42ac-976e-bfaa70dcb670-AP20313070395405.jpg?auto=webp&crop=5507,3098,x0,y280&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden’s national security Cabinet nominees face Senate hearings a day before his inauguration"
     excerpt: "Joe Biden’s national security Cabinet may be bare on Day One of his presidency, but an inauguration eve spurt of Senate confirmation hearings suggests that won’t be the case for long."
@@ -1255,74 +1247,37 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Returns Cuba to U.S. List of State Sponsors of Terrorism"
-    excerpt: "The Trump administration plans to return Cuba to the U.S. list of state sponsors of terrorism, a person familiar with the matter said on Monday, a move that could complicate any efforts by the incoming Biden administration to revive Obama-era detente with Havana."
-    publishedDateTime: 2021-01-12T04:26:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-01-11/trump-plans-to-return-cuba-to-us-list-of-state-sponsors-of-terrorism-source"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-11/trump-plans-to-return-cuba-to-us-list-of-state-sponsors-of-terrorism-source?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-11/trump-plans-to-return-cuba-to-us-list-of-state-sponsors-of-terrorism-source?context=amp"
+  - title: "History-making Vanderbilt kicker and Wylie grad Sarah Fuller gets invited to Joe Biden’s inauguration"
+    excerpt: "Sarah Fuller, the first woman to score in a Power Five conference football game, says she’s been invited to attend"
+    publishedDateTime: 2021-01-18T02:03:00Z
+    webUrl: "https://www.dallasnews.com/sports/other-schools/2021/01/18/history-making-vanderbilt-kicker-and-wylie-grad-sarah-fuller-gets-invited-to-joe-bidens-inauguration/"
+    ampWebUrl: "https://www.dallasnews.com/sports/other-schools/2021/01/18/history-making-vanderbilt-kicker-and-wylie-grad-sarah-fuller-gets-invited-to-joe-bidens-inauguration/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/sports/other-schools/2021/01/18/history-making-vanderbilt-kicker-and-wylie-grad-sarah-fuller-gets-invited-to-joe-bidens-inauguration/?outputType=amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Reactions to the Impeachment of U.S. President Donald Trump"
-    excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump. HOUSE RULES COMMITTEE CHAIR JIM MCGOVERN, DEMOCRAT OF MASSACHUSETTS \"We are debating this historic measure at an actual crime scene and we wouldn't be here if it weren't for the president of the United States."
-    publishedDateTime: 2021-01-13T15:18:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-13/reactions-to-the-impeachment-of-us-president-donald-trump"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-13/reactions-to-the-impeachment-of-us-president-donald-trump?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-13/reactions-to-the-impeachment-of-us-president-donald-trump?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "What to Watch as House Moves to Impeach Trump for 2nd Time"
-    excerpt: "President Donald Trump is on the verge of becoming the first president to be impeached twice, as lawmakers move quickly to punish him over last week's deadly Capitol attack."
-    publishedDateTime: 2021-01-13T10:54:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/what-to-watch-as-house-moves-to-impeach-trump-for-2nd-time"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-13/what-to-watch-as-house-moves-to-impeach-trump-for-2nd-time?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-13/what-to-watch-as-house-moves-to-impeach-trump-for-2nd-time?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "What's next for Donald Trump?"
-    excerpt: "Donald Trump’s plans have been a signature talking point for the last four years. What does the future hold for Donald Trump?"
-    publishedDateTime: 2021-01-14T22:51:00Z
-    webUrl: "https://www.stltoday.com/news/national/whats-next-for-donald-trump/video_1a3e35f8-a732-5567-bce2-43aac116c114.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/whats-next-for-donald-trump/video_1a3e35f8-a732-5567-bce2-43aac116c114.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/whats-next-for-donald-trump/video_1a3e35f8-a732-5567-bce2-43aac116c114.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 55
-  - title: "'Rooting Hard for You': Will Departure Notes End With Trump?"
-    excerpt: "As he was preparing to leave the White House in January 1989, President Ronald Reagan wanted to write a note to his successor, George H."
-    publishedDateTime: 2021-01-18T05:46:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-18/rooting-hard-for-you-will-departure-notes-end-with-trump"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-18/rooting-hard-for-you-will-departure-notes-end-with-trump?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-18/rooting-hard-for-you-will-departure-notes-end-with-trump?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Key Dates Of The Trump Presidency"
-    excerpt: "Here are some of the main dates punctuating Trump's political career: January 25, 2017: Trump signs an executive order ordering construction to begin on the wall he promised to build on the southern US border with Mexico,"
-    publishedDateTime: 2021-01-19T00:55:00Z
-    webUrl: "https://www.ibtimes.com/key-dates-trump-presidency-3125025"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 60
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/21/us-president-donald-trump-steps-into-the-northern.jpg"
-        width: 1024
-        height: 682
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/BvFnEIAosj_Ow1NYLYtC19Z0HOA=/1200x630/filters:focal(1749x20:1759x10):no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/RXO4YUBFSJF5JHQMWG3SAKNI6M.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Several Ohio Congress members will skip Joe Biden’s inauguration amid unprecedented security measures"
+    excerpt: "Several Ohio members of Congress from both political parties say they'll skip President-elect Joe Biden's inauguration."
+    publishedDateTime: 2021-01-19T20:48:00Z
+    webUrl: "https://www.cleveland.com/open/2021/01/several-ohio-congress-members-will-skip-joe-bidens-inauguration-amid-unprecedented-security-measures.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/01/several-ohio-congress-members-will-skip-joe-bidens-inauguration-amid-unprecedented-security-measures.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/01/several-ohio-congress-members-will-skip-joe-bidens-inauguration-amid-unprecedented-security-measures.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 60
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6WS2WVUGQNAERENUMFMGGQAGMU.jpg"
+        width: 4032
+        height: 3024
         isCached: true
   - title: "Here are 3 immediate goals for Joe Biden as he prepares to lead a nation in crisis"
     excerpt: "When Joe Biden is inaugurated Wednesday as the 46th president of the United States, he’ll face a nation torn by deep political and social divisions, and"
@@ -1338,25 +1293,28 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump Sought the World's Attention and Got It. Now the White House Reality Show Ends"
-    excerpt: "President Donald Trump never hid how he felt. His words and body language made his thoughts clear. For more than four years, Trump, a Republican, cultivated a political base by sharing his thoughts and emotions - pride,"
-    publishedDateTime: 2021-01-18T14:51:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-18/trump-sought-the-worlds-attention-and-got-it-now-the-white-house-reality-show-ends"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-18/trump-sought-the-worlds-attention-and-got-it-now-the-white-house-reality-show-ends?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-18/trump-sought-the-worlds-attention-and-got-it-now-the-white-house-reality-show-ends?context=amp"
+  - title: "In Columbus, Indiana, residents share their thoughts on Mike Pence's legacy in White House"
+    excerpt: "Four business owners in Columbus, Indiana, the hometown of Vice President Mike Pence, share their thoughts on Pence's legacy in the White House."
+    publishedDateTime: 2021-01-17T10:17:00Z
+    webUrl: "https://www.indystar.com/videos/news/politics/2021/01/17/columbus-indiana-residents-share-their-thoughts-mike-pences-legacy-white-house/4093205001/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 48
-  - title: "Nevada Judge Who Denied Trump Campaign Appeal Was Threatened"
-    excerpt: "Authorities in Carson City are investigating a threat made against a state judge who dismissed a lawsuit last month brought by President Donald Trump’s campaign."
-    publishedDateTime: 2021-01-15T18:53:00Z
-    webUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-01-15/nevada-judge-who-denied-trump-campaign-appeal-was-threatened"
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 45
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/30/PIND/0f64318c-c5d4-49c5-a357-db7d67f59126-PenceColumbus_MM_003.JPG?quality=10"
+        width: 2000
+        height: 1317
+        isCached: true
+  - title: "Michigan's Blacks expect more from Joe Biden"
+    excerpt: "Michigan's Black supporters of President-elect Joe Biden are laying out their rising expectations about what results the Democrat needs to deliver"
+    publishedDateTime: 2021-01-19T04:18:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/01/19/michigan-blacks-expect-more-president-joe-biden/3882700001/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Detroit News
+      domain: detroitnews.com
     quality: 35
 
 secured: "4xuqcSUPBKxuJHdV8NzfCVmFHhuUyy3jSaLZvvTAnmwCr+TKUifL4eEmvANQTnq5jOecA92X0H1IBJKSaspptH1fb69t2EiEo6ILtBT/iYeRYGztPNCw6vvr7EfA2ZfOvrqx2dsABzKpVkzgvifO9DcCLeiTYnWEfiaQ2Xer38yWhm5/WikPspBICuFwnZxkwA6SJ5Id6Zz526KOJXgNUZ5RiGPQqWR0QrUJbZx+IJlMU59V3LGHUx9jyJuvDQ2yIFEkraZ2+16GDqzANJeuTZIvkWeKVf8VbnlMJEF+UXQtJQlGtVT0i1qAmYw90Gp9KE3jG5BKMmBHfrmwDKhks4q6KolQH7Hg8XD3vBhZYcg=;8rnQ6KD0T8o6v1LHFjqYCA=="

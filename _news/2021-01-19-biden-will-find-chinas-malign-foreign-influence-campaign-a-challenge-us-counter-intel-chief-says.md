@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden Education nominee touted diversity speaker who claimed schools 'spirit murder' Black children"
+    excerpt: "One of President-elect Biden's top Education Department nominees hosted a diversity training during which she gave an \"extremely complimentary\" introduction to its featured speaker, who has accused public schools of \"spirit murdering\" of Black children."
+    publishedDateTime: 2021-01-19T22:17:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IIEU0ozpMFU/bidens-ed-nominee-touted-diversity-speaker-who-claimed-schools-spirit-murder-black-children-source-says"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-ed-nominee-touted-diversity-speaker-who-claimed-schools-spirit-murder-black-children-source-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-ed-nominee-touted-diversity-speaker-who-claimed-schools-spirit-murder-black-children-source-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Screen-Shot-2021-01-18-at-8.32.12-PM.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden DNI nominee Haines says aim should be to 'out-compete China'"
     excerpt: "President-elect Joe Biden's nominee for Director of National Intelligence Avril Haines said, if confirmed, she would focus on providing intelligence to support efforts to \"out-compete China,\" while committing to doing more training to educate Americans on the country's malign foreign influence."
     publishedDateTime: 2021-01-19T19:38:00Z

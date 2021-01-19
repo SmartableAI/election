@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-03-us-surgeon-general-no-reason-to-doubt-covid-19-death-toll-number-after-trump-claims-deaths-exaggerated.md",
+      "title": "US surgeon general: 'No reason to doubt' Covid-19 death toll number after Trump claims deaths 'exaggerated'",
+      "excerpt": "US Surgeon General Dr. Jerome Adams on Sunday said he has \"no reason to doubt\" the US Centers for Disease Control and Prevention's Covid-19 death toll, contradicting President Donald Trump's claim that the agency has \"exaggerated\" its numbers.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LYGtfOWoNB4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LYGtfOWoNB4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180516200947-jerome-adams-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/03/politics/jerome-adams-trump-coronavirus-death-toll-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/03/politics/jerome-adams-trump-coronavirus-death-toll-cnntv/index.html",
+      "publishedDateTime": "2021-01-03T08:07:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-federal-judge-throws-out-gohmert-lawsuit-asking-pence-to-interfere-in-electoral-college-count.md",
       "title": "Federal judge throws out Gohmert lawsuit asking Pence to interfere in Electoral College count ",
       "excerpt": "A federal judge threw out a lawsuit from Rep. Louie Gohmert of Texas and several Arizona Republicans seeking to force Vice President Mike Pence to help throw the election to President Donald Trump next week when Congress meets to count the Electoral College votes.\n    \n",
@@ -1613,62 +1669,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/22/politics/trump-mbs-legal-immunity/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/trump-mbs-legal-immunity/index.html",
       "publishedDateTime": "2020-12-22T15:54:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-lev-parnas-files-motion-to-dismiss-says-he-was-selectively-prosecuted-to-protect-trump.md",
-      "title": "Lev Parnas files motion to dismiss, says he was selectively prosecuted to protect Trump",
-      "excerpt": "Lev Parnas, the indicted associate of Rudy Giuliani, has filed a motion to dismiss the campaign finance charges against him, arguing he has been selectively prosecuted and blocked from providing information to lawmakers seeking to impeach President Trump.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cAGtCoMlCPc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cAGtCoMlCPc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200117002642-lev-parnas-ucrania-juicio-politico-trump-giuliani-pkg-ione-molinares-dusa-00014113-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/22/politics/lev-parnas-motion-dismiss/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/22/politics/lev-parnas-motion-dismiss/index.html",
-      "publishedDateTime": "2020-12-22T14:53:36-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

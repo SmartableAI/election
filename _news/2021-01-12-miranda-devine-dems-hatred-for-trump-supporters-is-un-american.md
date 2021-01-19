@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/miranda-devine-dems-hatred-trump-su
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/miranda-devine-dems-hatred-trump-supporters-un-american.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -79,21 +79,37 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Florida Sen. Scott says Democrats should focus on American families not Trump impeachment"
-    excerpt: "Sen. Rick Scott, R-Fla., told \"Fox & Friends\" on Monday that if Democrats want to do something good for the country, then they should focus on what they are going to do for American families as opposed to impeachment. "
-    publishedDateTime: 2021-01-11T14:05:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Dlcoa3eYbM4/trump-impeachment-democrats-rick-scott"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-democrats-rick-scott.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-democrats-rick-scott.amp"
+  - title: "Dems 'caught up in their own mob mentality,' trying to 'blame everything on Trump': Hurt"
+    excerpt: "While Republicans look inward in the aftermath of the Capitol Hill riots after President Trump's address Wednesday, Democrats are adding to the division, Fox News contributor Charles Hurt argued Friday."
+    publishedDateTime: 2021-01-08T15:21:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5eowpSInbqs/trump-capitol-democrats-biden-harris-charles-hurt"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-capitol-democrats-biden-harris-charles-hurt.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-capitol-democrats-biden-harris-charles-hurt.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Rep. Mace pegs Twitter 'un-American' for Trump account suspension: 'It's completely hypocritical'"
+    excerpt: "President Trump has been banned from Twitter after Wednesday’s U.S. Capitol riot, and Rep. Nancy Mace, R-S.C., is calling the social media giant’s response as the height of hypocrisy."
+    publishedDateTime: 2021-01-10T18:10:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TUnBFnsLSng/rep-mace-twitter-un-american-trump-account-suspension"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-mace-twitter-un-american-trump-account-suspension.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-mace-twitter-un-american-trump-account-suspension.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21009769914132-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "Tg4VHcXmO1E9o5y41RFWWeYtfeqpxdE1hEP6F+4+3LMEjAig/OceTrVJ3p+gvmRTNrnPzegHBjqA52NjcLRAOxKnyIjNX8+j15JBkCck1Vbden6kigtEtRb6wfUSCHg3t14ZBzKoAvaklYs2OM4rxt6akOwswMhaij1xbNXg19QtITYLF62ZPhJMh+eVT8C0bOs5Ln75TP/8wxL1O4vWEvimFEhLx/jraQ7EGd/nwimII6bRHS0KCuY5+W6s5gpKV4eKMKxS3Bh2Q61V9e5Paxg2DmHVDcl6dzZ/O/7pLFll8cSRpvQLrmRnSDXqzm+qk/M1sWMLvchHDpiYEsEOAedI0bcAKVlnj2K9rr+VDew=;pK5ETQUWbW/UDHUGg8fi1w=="

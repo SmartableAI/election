@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/president-trump-not-commit-impeacha
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-not-commit-impeachable-offense-chaffetz.amp"
 type: article
 quality: 175
-heat: 235
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,51 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump speech before Capitol riot not enough for impeachment charges: Turley"
-    excerpt: "Democrats are moving to remove President Trump from office after Wednesday's U.S. Capitol riot, but George Washington University law professor Jonathan Turley said he doesn’t believe Trump committed an impeachable offense."
-    publishedDateTime: 2021-01-10T16:35:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wkUgWCCMLvk/trump-speech-capitol-riot-impeachment-push-turley"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-speech-capitol-riot-impeachment-push-turley.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-speech-capitol-riot-impeachment-push-turley.amp"
+  - title: "GOP Sen. Toomey: Trump 'committed impeachable offenses'"
+    excerpt: "Republican Sen. Pat Toomey, Pa., said that President Trump “committed impeachable offenses” in his efforts to throw out the results of the 2020 presidential election."
+    publishedDateTime: 2021-01-10T01:07:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/73f76cRvWmI/toomey-trump-committed-impeachable-offenses"
+    ampWebUrl: "https://www.foxnews.com/politics/toomey-trump-committed-impeachable-offenses.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/toomey-trump-committed-impeachable-offenses.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006789526874-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "McConnell believes Trump committed impeachable offenses, supports Democrats' impeachment efforts: Report"
-    excerpt: "Senate Majority Leader Mitch McConnell reportedly believes that President Trump committed impeachable offenses and supports Democrats’ move to impeach him for a second time after last week’s Capitol riot."
-    publishedDateTime: 2021-01-12T22:19:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h7YpZxMf_2w/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "McConnell believes Trump committed impeachable offenses, supports Democrats' impeachment efforts: report"
-    excerpt: "Senate Majority Leader Mitch McConnell reportedly believes that President Trump committed impeachable offenses and supports Democrats’ move to impeach him for a second time after last week’s Capitol riot."
-    publishedDateTime: 2021-01-12T22:25:00Z
-    webUrl: "https://www.foxnews.com/politics/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 118
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/927d176b-21c3-43cd-93dd-13312fed5937/dea40182-fa8f-47b1-9184-fc98ec627628/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e9767d2-3af3-4ac6-8e0e-cf32f941a86a/46c66756-82eb-4028-80dc-a2efc886ff4e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

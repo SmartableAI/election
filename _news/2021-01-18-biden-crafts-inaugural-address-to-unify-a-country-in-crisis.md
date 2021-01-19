@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden transition finds culture of coronavirus denial throughout Trump's federal government"
+    excerpt: "Joe Biden's transition team found a culture of coronavirus skepticism within Donald Trump's federal government as they prepared to take office, sources close to the Biden transition told CNN, with political appointees loyal to the President reflecting his dismissiveness of public health guidelines and"
+    publishedDateTime: 2021-01-19T22:01:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SsuyGgqLuzo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/transition-coronavirus-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/transition-coronavirus-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118140725-02-joe-biden-1116-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's impeachment trial looms as Congress prepares for the arrival of the Biden administration"
     excerpt: "There are just days to go until President-elect Joe Biden is sworn in, Donald Trump is no longer President and Democrats take control of the US Senate, but rank-and-file members on Capitol Hill are still waiting for signals from leadership about what the first month of Biden's presidency will look like.\n"
     publishedDateTime: 2021-01-18T13:21:25Z
@@ -399,6 +415,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Key takeaways from the first confirmation hearings for Biden nominees"
+    excerpt: "With just one day left until President-elect Joe Biden takes office, five of his Cabinet nominees faced Senate panels as part of the first step of the confirmation process.\n    \n"
+    publishedDateTime: 2021-01-19T22:15:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YNknm-r2bsY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/biden-confirmation-hearings-key-takeaways/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/biden-confirmation-hearings-key-takeaways/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118153830-yellen-mayorkas-haines-austin-blinken-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump talked out of pardoning kids and Republican lawmakers "
     excerpt: "President Donald Trump received an unsettling warning on his final Saturday night in the White House.\n    \n"
     publishedDateTime: 2021-01-19T20:01:44Z
@@ -428,6 +460,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017195649-07-qanon-candidates-marjorie-taylor-greene-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Sen. Hawley blocks quick consideration of Biden's Homeland Security nominee"
+    excerpt: "Sen. Josh Hawley blocked quick consideration of President-elect Joe Biden's Homeland Security nominee, Alejandro Mayorkas, on Tuesday, leaving the third-largest federal department without confirmed leadership as it faces national security concerns, a pandemic and an incoming president prepared to roll"
+    publishedDateTime: 2021-01-19T22:55:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ujyvFYHKI98/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/hawley-mayorkas-dhs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/hawley-mayorkas-dhs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119152918-01-hawley-dec2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

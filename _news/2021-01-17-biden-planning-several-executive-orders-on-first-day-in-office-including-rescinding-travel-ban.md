@@ -64,22 +64,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden tweets about impeachment vote, reminds Senate of 'other urgent business'"
-    excerpt: "After the House voted to impeach President Trump Wednesday, President-elect Biden said the chamber had held the president \"accountable\" and asked the Senate to do their \"constitutional responsibilities\" on impeachment – along with \"other urgent business.\""
-    publishedDateTime: 2021-01-14T08:12:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_e4Cjf8I954/biden-tweets-about-impeachment-vote-reminds-senate-of-other-urgent-business"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-tweets-about-impeachment-vote-reminds-senate-of-other-urgent-business.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tweets-about-impeachment-vote-reminds-senate-of-other-urgent-business.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/842741ec-292f-437d-afc7-2d5141a1b15d/b57fc550-ecbd-46cc-9939-67655ddecf5f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden DOJ Civil Rights pick stands by defense of controversial ex-Women’s March leader"
     excerpt: "Kristen Clarke, President-elect Joe Biden's choice to run the Justice Department's Civil Rights Division, defends backing a former leader of the Women’s March who was accused of anti-Semitism."
     publishedDateTime: 2021-01-14T22:41:46Z

@@ -39,35 +39,21 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "The Health 202: It's still unclear who will lead HHS after Biden is sworn in"
-    excerpt: "The president-elect will need to designate many temporary agency heads before the Senate confirms his nominees."
-    publishedDateTime: 2021-01-19T17:35:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/19/health-202-it-still-unclear-who-will-lead-hhs-after-biden-is-sworn/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/19/health-202-it-still-unclear-who-will-lead-hhs-after-biden-is-sworn/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/19/health-202-it-still-unclear-who-will-lead-hhs-after-biden-is-sworn/?outputType=amp"
+  - title: "Biden plans quick executive action on immigration, but warns of potential delay on legislation"
+    excerpt: "The president-elect told Latino leaders that his immigration bill may not pass during his first 100 days in office, citing the pandemic and Senate impeachment trial."
+    publishedDateTime: 2021-01-18T14:41:00Z
+    webUrl: "https://www.cbsnews.com/news/immigration-biden-executive-actions-100-days/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-biden-executive-actions-100-days/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-biden-executive-actions-100-days/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
+      name: CBS News
+      domain: cbsnews.com
+    quality: 113
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4KVQTYBZSMI6XKWZRFMSE4UAYQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Biden taps Levine for key health role, in historic pick of transgender person"
-    excerpt: "President-elect Joe Biden on Tuesday named Dr. Rachel Levine to service as assistant U.S. health secretary, a historic first as Levine would become the first openly transgender official to be confirmed by the Senate."
-    publishedDateTime: 2021-01-19T14:48:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-levine/biden-taps-levine-for-key-health-role-in-historic-pick-of-transgender-person-idUSKBN29O1J1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 102
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548313465&r=LYNXMPEH0I0ZQ&w=800"
-        width: 800
-        height: 515
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/18/7193907f-bbb6-4c59-b99c-32f10c3b05f7/thumbnail/1200x630g2/45711032312276ceda9238296fdf8067/gettyimages-1230650670.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "W6cLhMyk3i0zOof6RFhq24hQKzYo3OpaoCNsyPmECIrnmqhm7fRb4LltaqMyzy8zudJOPZtHNlo+FqfoWNFBA5BZ1LPJEC8ZjVRbaAWZeFEAVMp/U4aSHqK4xw/m0FmuqCV2cTWJgvFQgHmfZag80ROs7hqIxSEdJpLDGBZ9Md+RQoBJFavg+9DmLYhyijubORS+LTKaFCD1o64EPpeiBFdV6d/tsx0GcaiNianS1Y7WcBsmUlBgAyo0uLi7fPVxbCBnsIi7yxSza5ZwUBVpfS9D2gpGwfGTk9ESu/c1fXxztmG/ioX0g6XPp+SPVPZkxx7z2uv+sDJO4Yfl7VlhReFdlQcjACW6seTMBI3y1L4=;fLWMs+qOgL9cnQD87b5fIQ=="

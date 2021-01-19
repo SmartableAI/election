@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: What to know as DC locks down for Biden's inauguration"
+    excerpt: "Follow for the latest updates on Biden's inauguration and the Capitol riots. "
+    publishedDateTime: 2021-01-17T06:29:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TkC-XfVOa0Q/live-updates-biden-inauguration-1-17-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-17-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inauguration-1-17-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04e8cb81-2497-41bd-b463-ef571490a0ee/b30c1a8f-c57c-4bec-9fba-c7d7e911a5fc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Biden inaugural rehearsal rescheduled as security preps in high gear for inauguration"
     excerpt: "A planned rehearsal of the inauguration, initially scheduled for Sunday, has been moved to Monday as event planners continue to make adjustments in response to the Jan. 6 riot at the Capitol, a report said."
     publishedDateTime: 2021-01-15T06:05:49Z

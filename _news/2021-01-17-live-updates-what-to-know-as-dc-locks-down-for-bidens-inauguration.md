@@ -31,165 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Live updates: Whitmer says she is relieved not to be Biden's VP"
-    excerpt: "Michigan Gov. Gretchen Whitmer said she would have accepted an offer to serve as Joe Biden’s running mate — but admitted to relief at not being picked."
-    publishedDateTime: 2020-12-26T13:14:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/88Ti183CU6M/live-updates-biden-transition-12-26-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-26-2020.amp"
+  - title: "Google, Microsoft, Verizon on Biden Inauguration Committee donor list"
+    excerpt: "Google, Microsoft, and Verizon are among President-elect Joe Biden's Inauguration Committee donors."
+    publishedDateTime: 2021-01-10T16:59:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u0gqqBSjynQ/google-microsoft-verizon-biden-inauguration-committee"
+    ampWebUrl: "https://www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48694bc-fcc1-4336-bf59-e0584bc8a4e1/369eedf1-67e3-45b8-81ce-9a7ed8e49f01/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/00e79b30-AP21006762088029.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Michigan Gov. Gretchen Whitmer relieved at not being picked as Biden’s VP"
-    excerpt: "Michigan Gov. Gretchen Whitmer said she would have accepted an offer to serve as Joe Biden’s running mate — but admitted to relief at not being picked."
-    publishedDateTime: 2020-12-26T00:26:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwrFyuvQlw8/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp"
-    ampWebUrl: "https://www.foxnews.com/politics/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp.amp"
+  - title: "Migrant caravan demands Biden administration 'honors its commitments'"
+    excerpt: "A migrant caravan moving from Honduras toward the U.S. border is calling on the incoming Biden administration to honor what it says are \"commitments\" to the migrants moving north, amid fears of a surge at the border when President-elect Joe Biden enters office."
+    publishedDateTime: 2021-01-16T19:44:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dB2jQlxknAE/migrant-caravan-biden-administration-commitments"
+    ampWebUrl: "https://www.foxnews.com/politics/migrant-caravan-biden-administration-commitments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-caravan-biden-administration-commitments.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/740928e4-8afe-4600-b734-c8316a13683a/8baa9bb1-9877-471f-9823-992340eebdf4/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43d8096c-96b6-417b-9e70-d106d78ea892/bc25fb44-5fe3-47a2-9bd7-1ee6ed3cb202/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Live updates: Biden mocks questions about Hunter, mainstream media looks away"
-    excerpt: "President-elect Joe Biden on Tuesday laughed off a question about the federal investigation of his son Hunter, in what's become part of a pattern for him to mock or belittle reporters who broach the topic."
-    publishedDateTime: 2020-12-24T06:32:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zU88OLhJm_M/live-updates-biden-transition-12-24-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-24-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-24-2020.amp"
+  - title: "Biden inauguration security: What to know as DC locks down"
+    excerpt: "Washington, D.C., is taking a defensive posture in the run-up to Inauguration Day."
+    publishedDateTime: 2021-01-17T05:02:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ihRN8yN1cUE/biden-inauguration-security-what-to-know-as-dc-locks-down"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-security-what-to-know-as-dc-locks-down.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-security-what-to-know-as-dc-locks-down.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f6e5eab9-fe1b-4184-bbff-ce0cd1f58649/d4621cb8-0321-4aed-a53e-e94baa079ea1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "LIVE UPDATES: Biden electoral win facing challenge from Cruz, other GOP senators"
-    excerpt: "Follow for the latest updates on the presidential transition."
-    publishedDateTime: 2021-01-03T05:11:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YSC38ZpkmNs/politics-live-updates-ted-cruz-gop-senators-object-electoral-college-certification-1-2-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/politics-live-updates-ted-cruz-gop-senators-object-electoral-college-certification-1-2-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/politics-live-updates-ted-cruz-gop-senators-object-electoral-college-certification-1-2-2021.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d8fac15-3eba-4222-84a1-b2cfccf5077a/3eee8182-bf6c-49a4-983a-d596073af120/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LIVE UPDATES: Hawley's opposition to Biden win different than Boxer's 2004 fight, she says"
-    excerpt: "Follow for the latest updates on the presidential transition."
-    publishedDateTime: 2021-01-01T06:51:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MDH1osjvRTI/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-hawleys-opposition-to-biden-win-different-than-boxers-2004-fight-she-says.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1be552ec-a083-472e-ba7a-7dbdc403fd13/90a08f4b-ca06-4520-93b1-356816a8b8e8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Biden's transition team disabled chat function for reporters on conference Zoom calls"
-    excerpt: "Reporters on the call had to use a \"raise hand\" function to register they wanted to ask a question."
-    publishedDateTime: 2020-12-31T05:03:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Ofymmkaz2A/live-updates-biden-transition-12-31-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-31-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-31-2020.amp"
+  - title: "Live Updates: Biden inaugural rehearsal rescheduled as security preps in high gear for inauguration"
+    excerpt: "A planned rehearsal of the inauguration, initially scheduled for Sunday, has been moved to Monday as event planners continue to make adjustments in response to the Jan. 6 riot at the Capitol, a report said."
+    publishedDateTime: 2021-01-15T06:05:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wxSTOQHT-jo/live-updates-biden-inauguration-1-15-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-15-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inauguration-1-15-2021.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 161
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/780aec92-7f87-43bc-b273-cb57accada7f/b08b1601-e71a-4dd7-b041-ce78525d5cd4/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba7e5f07-7496-4e3c-a336-41ea4058e526/620f28f6-9217-453a-8e38-0b29b9dcd214/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Live Updates: Biden blasts transition ‘obstruction’ by Defense Department"
-    excerpt: "President-elect Joe Biden says his transition teams have \"encountered obstruction\" from President Trump’s political leadership at the Defense Department and the Office of Management and Budget."
-    publishedDateTime: 2020-12-29T05:54:00Z
-    webUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-29-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-transition-12-29-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-transition-12-29-2020.amp"
+  - title: "Joe Biden’s Inauguration: When Is It, and How Has the Covid-19 Pandemic Changed It?"
+    excerpt: "President-elect Joe Biden will be sworn into office on Jan. 20 in a scaled-down inauguration that will look different from past years because of the coronavirus pandemic."
+    publishedDateTime: 2021-01-04T19:28:00Z
+    webUrl: "https://www.wsj.com/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-inauguration-when-is-it-and-how-has-the-covid-19-pandemic-changed-it-11609787919"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 129
+    images:
+      - url: "https://images.wsj.net/im-280273/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "George W. Bush will attend Biden inauguration to witness 'peaceful transfer of power'"
+    excerpt: "Former President George W. Bush and former first lady Laura Bush will attend President-elect Joe Biden’s inauguration in Washington D.C. later this month."
+    publishedDateTime: 2021-01-06T03:40:00Z
+    webUrl: "https://www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power"
+    ampWebUrl: "https://www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/george-w-bush-attend-biden-inauguration-witness-peaceful-transfer-of-power.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 144
+    quality: 128
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b63ad575-3944-454f-86e0-b31ad0fc3adf/ff7faca5-f527-4d40-a802-63ce1b379890/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7800ea58-ed83-49bd-bb53-646cbf3599ea/9d505cad-ce21-49db-9435-b8f5d876bd5a/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Live Updates: Biden announces new Cabinet, White House appointments"
-    excerpt: "President-elect Joe Biden today announced a number of new Cabinet and White House appointments and nominations."
-    publishedDateTime: 2020-12-30T20:36:00Z
-    webUrl: "https://www.foxnews.com/politics/live-updates-biden-12-30-2020"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-12-30-2020.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/646cbeae-51c0-4075-9a62-fbdd79191c70/fd810d22-270c-4029-af92-2b4285d17cfe/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: Biden to announce Justice Department picks"
-    excerpt: "President-elect Joe Biden is to announce his nominees for the Justice Department. Biden is also expected to address the rioting on Capitol Hill on Wednesday, which he condemned in strong terms the same day."
-    publishedDateTime: 2021-01-07T18:56:00Z
-    webUrl: "https://www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-pence-has-power-to-block-certification-trump-says.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad0d288e-8d3f-4466-bf25-2a90d782871f/8d4ccfcf-53da-4208-9695-e20a725c6067/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Whitmer admits to 'sigh of relief' after not being picked as Biden VP, though she would have said yes"
-    excerpt: "After then-candidate Joe Biden vowed to choose a woman as his running mate in the 2020 election, Michigan Gov. Gretchen Whitmer emerged as an early front-runner, but now that Biden has won, Whitmer admits she is glad she never got the call."
-    publishedDateTime: 2020-12-25T13:43:00Z
-    webUrl: "https://www.foxnews.com/politics/whitmer-biden-vice-president-relief"
-    ampWebUrl: "https://www.foxnews.com/politics/whitmer-biden-vice-president-relief.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-biden-vice-president-relief.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 120
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Gretchen-Whitmer-AP-e1608902899685.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "oATNiCEEJt2cwI/tkY5WBKbM7AqytqJiT0szo7Y80X7rCEC0CCyu3/JnjoUq5sQrgRaBBUMfz3W5KCcf4eaOOP12VX53Iy72zJEJgwHaH3ybAn0BuOaQsLDVF5ekIQ6nj1SCI5REWpZmXEWfw36rmPPEkPRo6iLFoTTNyck1MXxUhnYsMVJnuJBZ6pRahpeAYiBy1l44+W3cx98XR+cawoBOMb4bMdPvNZUqPmP3nmCj9GrWrb951Tq/O2+IGTj8SXfXWeSIjgk2Zz3p7GQ4HiTNI2RqsHx4Tj9mFLOJvcMQQrP90uxCjSMDInLRvZ/gJc/Jf41srNFeKXwq86cylIUG8OY2SRm5kjWVXJGXHsY=;cFeJhQQHGmm0bxsLHROtOg=="

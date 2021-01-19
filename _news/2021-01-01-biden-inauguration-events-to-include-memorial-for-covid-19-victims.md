@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2020-12-31/biden-inaugura
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-12-31/biden-inauguration-memorial-covid-19-victims?_amp=true"
 type: article
 quality: 125
-heat: 665
+heat: 645
 published: true
 
 provider:
@@ -232,20 +232,6 @@ related:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/01-07-2021/t_95d063d87b3e4ba18a4b8cfaf4d3bb71_name_1___1920x1080___30p_00_02_31_12_Still018.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
         height: 834
-        isCached: true
-  - title: "Tom Hanks to host televised special for Biden's inauguration"
-    excerpt: "Actor Tom Hanks will host a primetime television special on Jan. 20 to celebrate the inauguration of Joe Biden as president, organizers said on Wednesday."
-    publishedDateTime: 2021-01-13T22:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-hollywood/tom-hanks-to-host-televised-special-for-bidens-inauguration-idUSKBN29I2IM?edition-redirect=ca"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547665788&r=LYNXMPEH0C1G6&w=800"
-        width: 800
-        height: 540
         isCached: true
   - title: "Biden to nominate Rhode Island governor for Commerce, Boston mayor for Labor"
     excerpt: "President-elect Joe Biden will nominate Rhode Island Governor Gina Raimondo as his Commerce Department secretary and former union official and Boston Mayor Marty Walsh as Labor secretary, his transition team said late on Thursday."

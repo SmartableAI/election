@@ -47,22 +47,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Inauguration 2021: The task for Joe Biden, and for America"
-    excerpt: "While the swearing-in of our 46th President represents a grand re-opening of the American Experiment, it comes as old grudges imperil the traditions of renewal, and the unthinkable – insurrection – became possible in the United States."
-    publishedDateTime: 2021-01-17T14:08:00Z
-    webUrl: "https://www.cbsnews.com/news/inauguration-2021-the-task-for-joe-biden-and-for-america/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/inauguration-2021-the-task-for-joe-biden-and-for-america/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/inauguration-2021-the-task-for-joe-biden-and-for-america/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/17/73d5927e-5963-461c-a3ab-870e6f863b0a/thumbnail/1200x630/9867e1fa6b8e72bf424d62fe5abf7c6f/capital-barbed-wire-getty-1230623928-1280.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Though Biden Urged To Choose Black AG, All Current Contenders Are White: Report"
     excerpt: "New York Governor Andrew Cuomo and Judge Merrick Garland, whose 2016 nomination to the Supreme Court was blocked by Republicans, are said to be among President-elect Joe Biden's choices to serve as Attorney General."
     publishedDateTime: 2020-12-12T04:49:00Z
@@ -211,20 +195,6 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_10cae1e803da4b8c8f885e994a6b31f1_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Biden's inauguration challenge is to unite America"
-    excerpt: "The theme for President-elect Joe Biden's inauguration will be \"America United,\" an issue that's long been a central focus for Biden but one that's taken on added weight in the wake of the violence at the U."
-    publishedDateTime: 2021-01-15T14:39:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/15/bidens-inauguration-challenge-unite-america/4172672001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4ffeaeba-2bb6-4ce3-874e-56735404a94f_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Biden to select Deb Haaland as Interior Secretary, the first Native American to hold that position, if confirmed"
     excerpt: "If confirmed, Haaland would be the first Indigenous person to not only serve in as Interior Secretary but hold any presidential Cabinet position."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bribery-conviction-for-chinese-thin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bribery-conviction-for-chinese-think-tank-official-linked-to-hunter-biden-upheld-by-appeals-court.amp"
 type: article
 quality: 161
-heat: 201
+heat: 181
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "China says Biden represents 'new window of hope' for relations with US"
-    excerpt: "China believes President-elect Joe Biden represents a \"new window of hope\" for the country's relationship with the United States."
-    publishedDateTime: 2021-01-05T13:43:00Z
-    webUrl: "https://www.foxnews.com/world/china-biden-new-window-hope"
-    ampWebUrl: "https://www.foxnews.com/world/china-biden-new-window-hope.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/china-biden-new-window-hope.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/RTX-joe-biden-xi-jinping.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Special counsel for Hunter Biden case may be 'warranted,' some at DOJ say: sources"
     excerpt: "Justice Department officials in ‘ongoing discussions’ on Hunter Biden special counsel, sources say High-level officials within the Justice Department are in \"ongoing discussions\" on whether to appoint a special counsel to take over the investigation into Hunter Biden,"
     publishedDateTime: 2020-12-24T10:11:00Z

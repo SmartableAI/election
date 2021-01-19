@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Hillary Clinton backs impeaching Trump again: 'Removing Trump from office is essential'"
-    excerpt: "Former Secretary of State and 2016 Democratic presidential candidate Hillary Clinton offered her support for impeaching President Trump a second time, but claimed that the root problem that led to the riot at the Capitol last week – white supremacy – will still remain."
-    publishedDateTime: 2021-01-11T19:33:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0FwvBA624f8/hillary-clinton-second-trump-impeachment"
-    ampWebUrl: "https://www.foxnews.com/politics/hillary-clinton-second-trump-impeachment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-second-trump-impeachment.amp"
+  - title: "Arkansas Gov. Hutchinson, who prosecuted Clinton impeachment, says impeaching Trump again was wrong move"
+    excerpt: "Arkansas Gov. Asa Hutchinson, who was a House impeachment manager during the impeachment of President Bill Clinton, says he believes it was wrong for the House to impeach President Trump for a second time."
+    publishedDateTime: 2021-01-17T15:57:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eEmqIV2CsN4/trump-impeachment-arkansas-gov-hutchinson"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-arkansas-gov-hutchinson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-arkansas-gov-hutchinson.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 158
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91443177-58f8-41e0-aacc-cb3c2e5e60f4/0c640d09-4c34-4471-be1a-e944cc37bf27/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/95fbc9c9-1d26-409c-9817-291634596bc5/1e54b272-83ba-4816-9ab8-24a9d09bb7bb/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

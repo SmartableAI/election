@@ -63,22 +63,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Senate considering Biden nominees Tuesday, with no announcement yet on handling impeachment, other business"
-    excerpt: "The Senate is back in town Tuesday for a slate of confirmation hearings on Biden Cabinet nominees, even as there are not yet clear agreements on how the body will handle the impending Trump impeachment trial or its new 50-50 party split. "
-    publishedDateTime: 2021-01-19T13:23:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tHsJeoPVHZE/senate-considering-biden-nominees-tuesday-with-no-announcement-yet-on-handling-impeachment-other-business"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-considering-biden-nominees-tuesday-with-no-announcement-yet-on-handling-impeachment-other-business.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-considering-biden-nominees-tuesday-with-no-announcement-yet-on-handling-impeachment-other-business.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "YJxsF40ejCWgnGumhSuPIHm7yYm8V3mN/2Z2VU0lb5Ai4T/EnNmbXpSlzZPRqiu0U7Rb12Z6ofDZ6C/YRy2QLtaGxWB6QvyrSVP4BQ0P/ftF+zcTVpzk2j6pq8esZxknhp/H88haGkr0ZUGScpNeXs60oRHdIxrxjiUbmlvBphLv0+l5qDfMs0h2nR1RuSbSu/cFjumdKX5zOfc4dTan72VyHBfA7fFm1DujaGT3HCbKo1oiKbw6Q6L7rI/zUSae9Bx3YUUCfqHTtI/q8KEOhoS22TD8rhUGlLSoK0EVpPpZguc+4Wb2J4LRu77ZOtPz9lNPaOXmoQGrDzHEM1aVhHzN79gVw1ADFBcO2jE+ik0=;ERVLxrd6TVGfehgwCMgnZw=="
 ---

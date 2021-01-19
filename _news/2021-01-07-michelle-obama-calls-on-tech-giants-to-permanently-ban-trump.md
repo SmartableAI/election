@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "President Trump is most admired man in 2020, Gallup poll reveals"
+    excerpt: "President Trump and former first lady Michelle Obama have topped the list of the most admired man and woman for 2020, according to a Gallup poll released Tuesday. The annual survey asked"
+    publishedDateTime: 2020-12-29T14:21:00Z
+    webUrl: "https://nypost.com/2020/12/29/trump-tops-list-of-most-admired-men-of-2020-poll/"
+    ampWebUrl: "https://nypost.com/2020/12/29/trump-tops-list-of-most-admired-men-of-2020-poll/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/12/29/trump-tops-list-of-most-admired-men-of-2020-poll/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/trump-admired-2020.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "xiU/Jx38v8ikgqiToOIMDomOc+Sah2Ja5AlR39jlL2TZxfEWBFzLnyUJG0SbGST+oen5gl0UkDQsZcE2nm+rK6jB39h/wnaYUy3TaDT8PbFowaHYWIvlk3LajX7Pgfk+Lm+97SJypmg+9AwAMm0vgBjm6ezri4IiaH4/ZSUptQDL2TJ7UohbkN/kTy4JNHEMeKTEmRAp6X3SEVuh46bOGMxkknoJGFv+DVptzYcj9sfvQxjGZMum3wMfmcOLMtI5GFHq6DWlJlmOqR/1ZUxfk8Rhp7/d6D2FHPYIhGpOL2yqgwxK767W0uIy+1gTFnhArslpfSAzcbN9PKv1BIKiSaHbbXH8FsYmeYag2qYDpZs=;78/gIs9H6cbrXgFy9ufyeQ=="
 ---

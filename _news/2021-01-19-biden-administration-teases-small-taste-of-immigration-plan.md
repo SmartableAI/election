@@ -47,6 +47,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Incoming Biden secretary of state: Trump right to take ‘tougher stance’ on China"
+    excerpt: "President-elect Biden’s nominee for secretary of state, Antony Blinken, said in a confirmation hearing Tuesday there is “no doubt” China poses the greatest threat of any nation to the U.S."
+    publishedDateTime: 2021-01-19T21:56:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y0gL2WRFqaM/blinken-china-greatest-threat-trump-right-tougher-stance"
+    ampWebUrl: "https://www.foxnews.com/politics/blinken-china-greatest-threat-trump-right-tougher-stance.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blinken-china-greatest-threat-trump-right-tougher-stance.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20328073654227.jpg"
+        width: 1024
+        height: 713
+        isCached: true
+  - title: "Biden administration will publish White House visitor logs, reversing Trump policy"
+    excerpt: "Incoming White House Press Secretary Jen Psaki said late Friday that President-elect Joe Biden’s administration would resume the tradition of publishing the White House’s visitor logs"
+    publishedDateTime: 2021-01-16T01:05:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3kQbnGEJylg/biden-press-secretary-white-house-visitor-logs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-press-secretary-white-house-visitor-logs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7de536e-1b1d-4f26-a547-667b1a372a6b/462cdc42-e036-410d-802a-644eed65a420/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden tries to go from normalcy to relevancy"
     excerpt: "Biden found the best way in was to promise to just be cool... Will it be enough?"
     publishedDateTime: 2021-01-14T20:23:23Z

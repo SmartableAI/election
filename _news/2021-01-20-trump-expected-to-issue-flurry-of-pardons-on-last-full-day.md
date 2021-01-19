@@ -255,6 +255,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Screen Actors Guild may discipline, expel Donald Trump"
+    excerpt: "After leaving the White House, President Donald Trump may lose his SAG card, too. The Screen Actors Guild said Tuesday that the SAG-AFTRA board voted “overwhelmingly” that there is probable cause that Trump violated its guidelines for membership."
+    publishedDateTime: 2021-01-19T21:44:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/screen-actors-guild-discipline-expel-donald-trump-75352574"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/screen-actors-guild-discipline-expel-donald-trump-75352574"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/screen-actors-guild-discipline-expel-donald-trump-75352574"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_20a84f4a63814942a22f322a9f6c477f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump enters final days in power as US braces for potential unrest – live"
     excerpt: "Nation wakes to fear of more trouble in wake of Capitol attack but also hope inauguration can begin new era"
     publishedDateTime: 2021-01-17T14:49:00Z

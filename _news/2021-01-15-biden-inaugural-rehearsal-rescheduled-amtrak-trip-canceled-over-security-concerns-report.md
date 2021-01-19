@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-inaugural-rehearsal-reschedul
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inaugural-rehearsal-rescheduled-amtrak-trip-canceled-over-security-concerns-report.amp"
 type: article
 quality: 165
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "FBI says finding pipe bomb maker a 'top priority' before Biden inauguration, official reveals"
+    excerpt: "The FBI warned law enforcement agencies Tuesday that the person who constructed pipe bombs and left them near the Capitol on Jan. 6 has not yet been identified and is a \"top priority\" on the eve of Joe Biden's inauguration, according to a law enforcement official briefed on inauguration security concerns."
+    publishedDateTime: 2021-01-19T16:23:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L2rmhMdEOJ0/fbi-finding-pipe-bomb-maker-top-priority-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/fbi-finding-pipe-bomb-maker-top-priority-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-finding-pipe-bomb-maker-top-priority-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011825073406.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "hG1Q1L7qd8g+CFKRImZh+pHxDKMslFlQcR5Gn8Mn7oH1DUvV1656s4gc5HoL6SbXHUpJLXKNqErj6TmwGRtYwP3AG4ER94myhIJhewLTySfRiO+kzdQmet+40KIvbl1IvFuU86oBqftbw7zNaULNbvI+zwfKrZLJ9gRnHFxjIR1gDgOQLeoAQPeQJ7Ph5dUHP6wMECNytW7dyksTYxfj2U7Z/a2DktOY5Robb8Nh4mIbLAZvBPFaRVFNwOkx6u5TQVtWnOinStAC14QcZjeEec/4SCy0JkYr0E3UFNZZ6n7ZcKtT6j4GQBy+jju9Xd8ZU65KWh+GVRa/r7quur1RhHy+HhR90hqzfxOk5lGILQ4=;dM+/leip8hQcB0B1o5jt9w=="
 ---

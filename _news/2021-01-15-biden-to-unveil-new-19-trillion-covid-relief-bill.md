@@ -63,22 +63,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden to extend pause on federal student loan payments"
-    excerpt: "The president-elect's transition team also said Mr. Biden supports Congress \"immediately\" cancelling $10,000 of federal student loans"
-    publishedDateTime: 2021-01-15T12:24:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-student-loan-payments-pause-extend/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-student-loan-payments-pause-extend/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-student-loan-payments-pause-extend/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/11/5a845e73-ca79-43f4-bd69-1ea7fd5ec19b/thumbnail/1200x630/e81e9d97adaa622c1f2f6d0c44844c40/gettyimages-1201562159-1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Biden presents Covid stimulus plan as impeachment focus shifts to Senate – live"
     excerpt: "Trump’s impeachment in the House triggers a trial in the Senate, which McConnell says can’t begin until Senate is back in session"
     publishedDateTime: 2021-01-15T00:37:00Z
@@ -142,64 +126,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/_KnwY3nRWrxfc3pBEgErezBucOk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JVDAS7L35DO6FVFNIWKSAAR62E.aspx"
         width: 1200
         height: 791
-        isCached: true
-  - title: "Biden has accepted invitation to stay at Blair House the night before inauguration, State Department says"
-    excerpt: "The Trump administration has offered President-elect Joe Biden the use of Blair House, the official residence for guests of the president, on the eve of his inauguration. Biden has accepted the offer to stay at the historic home,"
-    publishedDateTime: 2021-01-13T23:33:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-has-accepted-invitation-to-stay-at-blair-house-the-night-before-inauguration-state-department-says/2021/01/13/ca3f1e1c-5551-11eb-a931-5b162d0d033d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-has-accepted-invitation-to-stay-at-blair-house-the-night-before-inauguration-state-department-says/2021/01/13/ca3f1e1c-5551-11eb-a931-5b162d0d033d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-has-accepted-invitation-to-stay-at-blair-house-the-night-before-inauguration-state-department-says/2021/01/13/ca3f1e1c-5551-11eb-a931-5b162d0d033d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 108
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MUEGLJSVYYI6XIEL6E4B546SA4.jpg&w=1440"
-        width: 1440
-        height: 979
-        isCached: true
-  - title: "Biden says he feels safe ahead of his inauguration"
-    excerpt: "U.S. President-elect Joe Biden said on Friday that he feels safe taking his oath of office publicly next week."
-    publishedDateTime: 2021-01-16T02:22:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-safety/biden-says-he-feels-safe-ahead-of-his-inauguration-idUSKBN29K2MP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548003541&r=LYNXMPEH0E1JN&w=800"
-        width: 800
-        height: 626
-        isCached: true
-  - title: "Biden says he feels safe ahead of inauguration"
-    excerpt: "Top News Biden says he feels safe ahead of inauguration. Posted . U.S. President-elect Joe Biden said on Friday that he feels safe, after a reporter asked him if he felt comfortab"
-    publishedDateTime: 2021-01-16T01:56:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVDVBMOKF"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210116&i=OVDVBMOKF&r=OVDVBMOKF&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Biden's inauguration rehearsal postponed over security concerns, Politico says"
-    excerpt: "A rehearsal for U.S President-elect Joe Biden's inauguration scheduled for Sunday has been postponed because of security concerns, Politico reported late on Thursday, citing two people with knowledge of the decision."
-    publishedDateTime: 2021-01-15T13:22:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-security/bidens-inauguration-rehearsal-postponed-over-security-concerns-politico-says-idUSKBN29K0A8?edition-redirect=ca"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 101
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547869722&r=LYNXMPEH0E05D&w=800"
-        width: 800
-        height: 533
         isCached: true
   - title: "Walmart suspends contributions to U.S. lawmakers who opposed Biden certification"
     excerpt: "Walmart Inc , the world's biggest retailer, joined other major companies in indefinitely suspending donations to U.S. lawmakers who voted against President-elect Joe Biden's election certification."

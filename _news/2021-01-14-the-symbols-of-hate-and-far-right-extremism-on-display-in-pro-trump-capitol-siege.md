@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Donald Trump's farewell: We did what we came to do"
+    excerpt: "US President Donald Trump has made his farewell address before leaving office, saying: \"We did what we came to do - and so much more.\" In a video posted on YouTube, he said he took on \"the tough battles,"
+    publishedDateTime: 2021-01-19T22:22:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55727022"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55727022"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55727022"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/F95E/production/_116583836_trumptexas.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Members of Trump campaign behind rally that ignited US Capitol riot, records show"
     excerpt: "Members of President Donald Trump’s failed presidential campaign played key roles in orchestrating the Washington rally that spawned a deadly assault on the U.S. Capitol."
     publishedDateTime: 2021-01-17T19:44:00Z

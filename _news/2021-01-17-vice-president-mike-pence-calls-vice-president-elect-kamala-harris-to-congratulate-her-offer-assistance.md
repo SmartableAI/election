@@ -60,6 +60,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden and Harris honor COVID-19 victims on eve of inauguration"
+    excerpt: "President-elect Biden and Vice President-elect Harris will attend a memorial honor COVID-19 victims on Tuesday."
+    publishedDateTime: 2021-01-19T22:35:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-memorial-covid-19-victims-watch-live-stream-today-2021-01-19/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-memorial-covid-19-victims-watch-live-stream-today-2021-01-19/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-memorial-covid-19-victims-watch-live-stream-today-2021-01-19/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 150
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/19/1d3d8579-7837-4968-a52f-32c828eae709/thumbnail/1200x630/fd6aebee96fa1fb372282cbc5a734a31/ap21019815622881.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "House passes measure calling on Pence to remove Trump"
     excerpt: "The House on Tuesday passed legislation calling on Vice President Pence to tap his Constitutional authority to remove President Trump from office in response to the president’s role in the deadly mob attack on the Capitol last week."
     publishedDateTime: 2021-01-13T12:01:00Z
@@ -472,6 +488,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump wishes new administration 'success' as Pence reveals he will skip president's farewell event – live"
+    excerpt: "White House releases Trump farewell address amid preparations for Biden inauguration – follow live"
+    publishedDateTime: 2021-01-19T20:55:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates?page=with:block-600752f18f08db44cd79b3b3"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/a1a4bceb729611d0d95d3ef688922d058af24889/0_207_4187_2513/master/4187.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5343c109661e3db05eadff97d2c63804"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Washington and state capitols brace for violence from armed Trump supporters"
     excerpt: "Security beefed up across US following attack on Capitol while FBI monitoring threats of violence against Biden and Harris"
     publishedDateTime: 2021-01-15T17:26:00Z
@@ -545,6 +577,22 @@ related:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/01/2021-01-19T150736Z_629169426_RC23BL9UPZJE_RTRMADP_3_USA-BIDEN-INAUGURATION-1024x684.jpg"
         width: 1024
         height: 684
+        isCached: true
+  - title: "Trump wishes new administration 'success' as Pence reveals he will skip outgoing president's farewell event – live"
+    excerpt: "White House releases Trump farewell address amid preparations for Biden inauguration – follow live"
+    publishedDateTime: 2021-01-19T20:31:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates?page=with:block-60074c6a8f081bab84f5627c"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 118
+    images:
+      - url: "https://i.guim.co.uk/img/media/a1a4bceb729611d0d95d3ef688922d058af24889/0_207_4187_2513/master/4187.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5343c109661e3db05eadff97d2c63804"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump expected to issue pardons on last day as president while Senate set to reconvene"
     excerpt: "President Trump plans to spend his last full day in office on Tuesday issuing 100 pardons or commutations, a senior administration official and a senior White House official tell CBS News. Meanwhile,"
@@ -966,6 +1014,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "How Kamala Harris’ California career prepared her for the White House | Covering Kamala Harris"
+    excerpt: "Vice President-elect Kamala Harris has risen through the ranks of California politics."
+    publishedDateTime: 2021-01-19T17:36:00Z
+    webUrl: "https://www.latimes.com/covering-kamala-harris-journey-to-the-white-house-123"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 93
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/eb25312/2147483647/strip/true/crop/1920x1008+0+8/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F38%2F86%2Fec728f4c4cc797579e288bd13c0d%2Fcovering-kamala-harris-3.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris gets the Vogue cover Melania Trump always wanted"
     excerpt: "The president, first lady and their political supporters repeatedly complained that ‘elitist’ fashion magazines wouldn’t put the ‘most elegant first lady in American"
     publishedDateTime: 2021-01-11T18:28:00Z
@@ -1013,6 +1075,22 @@ related:
       - url: "https://imengine.prod.srp.navigacloud.com?uuid=54a7d1b5-2bd9-56c5-ac99-52959e1623ff&type=primary&q=72&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Vice President Pence says farewell to White House, will skip Trump's sendoff"
+    excerpt: "Vice President Mike Pence is among those who will not be attending President Donald Trump’s sendoff event at Joint Base Andrews."
+    publishedDateTime: 2021-01-19T22:26:00Z
+    webUrl: "https://www.11alive.com/article/news/nation-world/mike-pence-farewell-twhite-house/507-1ca6cdb9-0043-474f-879e-41da3b1226b5"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/mike-pence-farewell-twhite-house/507-1ca6cdb9-0043-474f-879e-41da3b1226b5"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/mike-pence-farewell-twhite-house/507-1ca6cdb9-0043-474f-879e-41da3b1226b5"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 87
+    images:
+      - url: "https://media.11alive.com/assets/CCT/images/3a1cf9c3-6f9d-4220-88f7-d463eb8c0cc3/3a1cf9c3-6f9d-4220-88f7-d463eb8c0cc3_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Kamala Harris dissolving PACs, giving money to charity"
     excerpt: "Vice President-elect Kamala Harris is dissolving her political fundraising committees as she prepares for her inauguration with President-elect Joe Biden on Jan. 20, giving leftover money to California charities."
@@ -1301,6 +1379,22 @@ related:
       - url: "https://cdnph.upi.com/ph/st/th/1751611001431/2021/upi/b6ef9e11044fa6d2cdec0888f8c43525/v1.5/Sen-Kamala-Harris-resigns-from-US-Senate-ahead-of-inauguration.jpg?lg=2"
         width: 800
         height: 535
+        isCached: true
+  - title: "Bay Area restaurants’ Inauguration Day specials honor Kamala Harris"
+    excerpt: "Want to celebrate the inauguration of Bay Area native Kamala Harris a? Local restaurants, bars and food purveyors have created specials based on her Black, Asian a"
+    publishedDateTime: 2021-01-19T22:27:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/19/bay-area-restaurants-inauguration-day-specials-honor-kamala-harris/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/19/bay-area-restaurants-inauguration-day-specials-honor-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/19/bay-area-restaurants-inauguration-day-specials-honor-kamala-harris/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/SJM-L-OAKRESTWEEK-0106_80699476.jpg?w=1024&h=781"
+        width: 1024
+        height: 781
         isCached: true
   - title: "Gov. Murphy will be in Washington for Joe Biden’s inauguration"
     excerpt: "Gov. Phil Murphy will travel to Washington, D.C., to attend Joe Biden’s inauguration as the 46th president of the United States, NJ Advance Media has learned. Murphy, a longtime Biden friend and fellow Democrat,"
@@ -1633,6 +1727,20 @@ related:
         width: 1024
         height: 687
         isCached: true
+  - title: "Mike Pence Greets White House Staffers in Washington"
+    excerpt: "U.S. Vice President Mike Pence walks back to his office after greeting staff members outside the West Wing of the White House in Washington, DC on January 19, 2021. Pool Photo by Yuri Gripas/UPI"
+    publishedDateTime: 2021-01-19T21:04:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/25bc45373058306b5a157b22e066ef20/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/25bc45373058306b5a157b22e066ef20/PENCE-STAFF.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Alert: AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance."
     publishedDateTime: 2021-01-15T18:27:00Z
@@ -1674,6 +1782,29 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Julián Castro praises Kamala Harris for breaking barriers ahead of inauguration"
+    excerpt: "Former San Antonio Mayor Julián Castro can't wait for Kamala Harris, the country's first female Vice President-elect, to make more history on Wednesday."
+    publishedDateTime: 2021-01-19T21:00:00Z
+    webUrl: "https://www.sfchronicle.com/news/local/article/Julian-Castro-Kamala-Harris-inauguration-15882429.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 51
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/14/51/20236926/3/rawImage.jpg"
+        width: 2048
+        height: 1355
+        isCached: true
+  - title: "Mike Pence won’t attend Trump’s presidential sendoff"
+    excerpt: "Vice President Mike Pence is among those who will not be attending President Donald Trump’s sendoff event at Joint Base Andrews. A person familiar with Pence’s schedule cited “logistical challenges” in getting from the air base to President-elect Joe Biden’s inauguration ceremonies on Wednesday."
+    publishedDateTime: 2021-01-19T21:22:00Z
+    webUrl: "https://triblive.com/news/politics-election/mike-pence-wont-attend-trumps-presidential-sendoff/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 50
   - title: "Joe Biden, Kamala Harris drop inauguration playlist with songs from Beyoncé, Dua Lipa, more"
     excerpt: "Joe Biden and Kamala Harris have released a 46-song playlist in honor of their upcoming administration. Here are the songs that made the cut."
     publishedDateTime: 2021-01-16T05:24:00Z

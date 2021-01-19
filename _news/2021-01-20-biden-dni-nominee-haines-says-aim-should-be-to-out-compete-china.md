@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden Education nominee touted diversity speaker who claimed schools 'spirit murder' Black children"
+    excerpt: "One of President-elect Biden's top Education Department nominees hosted a diversity training during which she gave an \"extremely complimentary\" introduction to its featured speaker, who has accused public schools of \"spirit murdering\" of Black children."
+    publishedDateTime: 2021-01-19T22:17:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IIEU0ozpMFU/bidens-ed-nominee-touted-diversity-speaker-who-claimed-schools-spirit-murder-black-children-source-says"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-ed-nominee-touted-diversity-speaker-who-claimed-schools-spirit-murder-black-children-source-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-ed-nominee-touted-diversity-speaker-who-claimed-schools-spirit-murder-black-children-source-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Screen-Shot-2021-01-18-at-8.32.12-PM.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden will find China's malign foreign influence campaign a 'challenge,' US counter-intel chief says"
     excerpt: "EXCLUSIVE: National Counterintelligence and Security Center Director Bill Evanina said no country poses a \"broader, more severe\" threat to America than China, telling Fox News that its malign foreign influence campaign against the United States will be one of the \"bigger challenges\" for the incoming"
     publishedDateTime: 2021-01-19T11:33:59Z

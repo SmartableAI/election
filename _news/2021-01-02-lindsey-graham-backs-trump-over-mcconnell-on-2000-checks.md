@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "House lawmakers override Trump’s defense bill veto"
+    excerpt: "More than two-thirds of the chamber voted against Trump."
+    publishedDateTime: 2020-12-29T02:16:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FqAlg__bfy4/house-override-trump-defense-bill-veto"
+    ampWebUrl: "https://www.foxnews.com/politics/house-override-trump-defense-bill-veto.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-override-trump-defense-bill-veto.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9e66164-478a-4e5f-9843-bc51b5bad88a/642df305-5164-4cc9-9c6f-8fd33be24851/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "McConnell blocks quick vote on Trump’s $2K checks"
     excerpt: "McConnell said Tuesday that the Senate will address President Trump's request."
     publishedDateTime: 2020-12-29T20:25:53Z

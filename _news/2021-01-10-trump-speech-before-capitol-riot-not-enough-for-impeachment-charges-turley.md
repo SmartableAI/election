@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-speech-capitol-riot-impeachme
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-speech-capitol-riot-impeachment-push-turley.amp"
 type: article
 quality: 173
-heat: -1
-published: false
+heat: 233
+published: true
 
 provider:
   name: Fox News
@@ -31,53 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "President Trump did not commit an impeachable offense: Chaffetz"
-    excerpt: "Former U.S. Rep. Jason Chaffetz, R-Utah, told “Fox & Friends” on Wednesday that he doesn’t believe President Trump committed an impeachable offense."
-    publishedDateTime: 2021-01-13T14:00:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wi7eGzPaIHY/president-trump-not-commit-impeachable-offense-chaffetz"
-    ampWebUrl: "https://www.foxnews.com/politics/president-trump-not-commit-impeachable-offense-chaffetz.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-not-commit-impeachable-offense-chaffetz.amp"
+  - title: "Republicans blame Trump after his supporters storm Capitol: 'Enough is enough'"
+    excerpt: "Some Republicans placed the blame on President Trump after a group of his supporters besieged the U.S. Capitol building on Wednesday"
+    publishedDateTime: 2021-01-07T18:02:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AkB0z7DI85c/republicans-blame-trump-after-his-supporters-storm-capitol"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-blame-trump-after-his-supporters-storm-capitol.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-blame-trump-after-his-supporters-storm-capitol.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "McConnell believes Trump committed impeachable offenses, supports Democrats' impeachment efforts: Report"
-    excerpt: "Senate Majority Leader Mitch McConnell reportedly believes that President Trump committed impeachable offenses and supports Democrats’ move to impeach him for a second time after last week’s Capitol riot."
-    publishedDateTime: 2021-01-12T22:19:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h7YpZxMf_2w/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "McConnell believes Trump committed impeachable offenses, supports Democrats' impeachment efforts: report"
-    excerpt: "Senate Majority Leader Mitch McConnell reportedly believes that President Trump committed impeachable offenses and supports Democrats’ move to impeach him for a second time after last week’s Capitol riot."
-    publishedDateTime: 2021-01-12T22:25:00Z
-    webUrl: "https://www.foxnews.com/politics/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-believes-trump-committed-impeachable-offenses-supports-democrats-impeachment-efforts-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 118
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/927d176b-21c3-43cd-93dd-13312fed5937/dea40182-fa8f-47b1-9184-fc98ec627628/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9ebc064-503d-4207-bc1d-8e5b2960e353/a78ecef5-c9c7-4b9c-8397-2875ff384dbf/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Turley: Democrats 'impulse buy' impeachment of Trump would have 'very serious implications'"
+    excerpt: "George Washington University law professor Jonathan Turley said he doesn’t think Democrats should go forward with a \"snap impeachment,\" explaining that the process is supposed be \"deliberative,\" not impulsive. "
+    publishedDateTime: 2021-01-11T15:29:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mpfK-g1g8Gk/democrats-impeachment-trump-impulse-buy-turley"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-impeachment-trump-impulse-buy-turley.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-impeachment-trump-impulse-buy-turley.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab14816a-305f-4d2b-b463-f796e2d1af61/8f02ab6d-4344-4f20-971f-0eb6b554ea4a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Twitter bans Trump, but left-wing activist charged in Capitol riot still active on platform"
+    excerpt: "A left-wing activist charged for his alleged participation in the Capitol Hill riot maintains control of his Twitter and YouTube accounts, Fox News has learned. "
+    publishedDateTime: 2021-01-17T23:39:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Cx56p3uEoE/left-wing-activist-charged-in-capitol-riot-still-allowed-on-twitter-youtube"
+    ampWebUrl: "https://www.foxnews.com/politics/left-wing-activist-charged-in-capitol-riot-still-allowed-on-twitter-youtube.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-wing-activist-charged-in-capitol-riot-still-allowed-on-twitter-youtube.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/John-Sullivan-Capitol-THUMB.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "6OQ8mjD6wjH/NqaPDbYpzbJnc5Jh/3N0oRsjkiJMmNNKiFBVp/YaaVNG66qHAG+9kqWA5TXz8Of+ifYGNraoDFSKyHL9Wl26jAUhPIBK7Ws5YeTf500XgHRurN7nM1YxixkKSNcTVsk7CdDoOzJVDyzQsJ9v9l/1a5mY5w2FEcVWU88GWMNMIWIgJJHiAsWfB5gxX7/llDJztMbTj22IU3iPtSe2qCK6M7tM1Qkne2iV/wvgdAKaq9NnfH63PSOiNjK2VDCCYDuSK0y7x1ajaeAWU3MHAD+lCs8KEEWiCX34XXzdH+SZwnqNh17YY3GUdDDTFplaIWZ9QAs+r5VutxtbKO0wWYHu8naPEzQIZXE=;AOiWAxGgG20EzCUzXj8qBg=="

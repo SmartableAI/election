@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "LIVE UPDATES: What to know as DC locks down for Biden's inauguration"
+    excerpt: "Follow for the latest updates on Biden's inauguration and the Capitol riots. "
+    publishedDateTime: 2021-01-17T06:29:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TkC-XfVOa0Q/live-updates-biden-inauguration-1-17-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-17-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inauguration-1-17-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04e8cb81-2497-41bd-b463-ef571490a0ee/b30c1a8f-c57c-4bec-9fba-c7d7e911a5fc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden’s Inauguration: When Is It, and How Has the Covid-19 Pandemic Changed It?"
     excerpt: "President-elect Joe Biden will be sworn into office on Jan. 20 in a scaled-down inauguration that will look different from past years because of the coronavirus pandemic."
     publishedDateTime: 2021-01-04T19:28:00Z

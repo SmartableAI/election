@@ -127,22 +127,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "The Latest: 2 Guard members removed from Biden inauguration"
-    excerpt: "Two U.S. Army National Guard members are being removed from the security mission to secure Joe Biden’s presidential inauguration"
-    publishedDateTime: 2021-01-19T15:44:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-attend-mass-congressional-leaders-75341544"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-attend-mass-congressional-leaders-75341544"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-attend-mass-congressional-leaders-75341544"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_bb699b09737c4e44a69f0c46d6444fe6_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden team to meet with Latino lawmakers amid calls for diverse cabinet picks"
     excerpt: "Congressional Hispanic Caucus has pushed for the president-elect to select a Latino person to lead a major federal agency"
     publishedDateTime: 2020-12-02T21:42:00Z

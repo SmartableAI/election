@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/rachel-levine-health-and
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/rachel-levine-health-and-human-services/index.html"
 type: article
 quality: 145
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Biden picks transgender physician Rachel Levine as assistant health secretary"
+    excerpt: "Pennsylvania Health Secretary Rachel Levine is poised to become the first openly transgender federal official to be confirmed by the U.S. Senate."
+    publishedDateTime: 2021-01-19T22:05:00Z
+    webUrl: "https://www.nbcnews.com/feature/nbc-out/biden-picks-transgender-woman-assistant-health-secretary-n1254661"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254661"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254661"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_33/3403776/200811-rachel-levine-se-318p_2aa0630671e497c31c59e1bf2b1d1e2e.jpg"
+        width: 2500
+        height: 1723
+        isCached: true
 
 secured: "kG3AmGISDpveErZ6iEdzSGBGMVYQPI9mjOFyF3Z+r+BLymhClvQmzeOE81zmvqRtUxyqIvzcxD/il0SyHg1sEI0SNNkxBHon1+yBlzT2re/fT8+lAjSqsbHrKK/AJdMlrqAdVuyQp60WEk5aNRp6kVq0a4vxJ0LFyQaGrhLbAfr/1iXpvpvRq/y1BYySJyO+2F6zyKe7FJWs3ga3nVSl1+5Ns4qKJrDyRzOnGWqQwDoUoH+v/ywbzIOUW+qQaDr/z7AHeOj1yiHzN3/OWWSesf1+3Quyv11+DLPYDZtvO9z4zJSqJz9pSfxiJDoni5F9Gw/y0RL9i3BJonOxCpfCWPkLeTXYRJxgb2oTHiDZxm8=;kJI2IPbGOpVZ/pMWKnT0CQ=="
 ---

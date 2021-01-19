@@ -91,22 +91,6 @@ related:
         width: 1440
         height: 961
         isCached: true
-  - title: "Biden intends quick executive actions to propel his agenda"
-    excerpt: "On the first day of his presidency, Joe Biden plans to roll back some of President Donald Trump’s most controversial policies and take steps to address the coronavirus pandemic"
-    publishedDateTime: 2021-01-17T14:30:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-intends-quick-executive-actions-propel-agenda-75308111"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-intends-quick-executive-actions-propel-agenda-75308111"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-intends-quick-executive-actions-propel-agenda-75308111"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_502e65b2e8ab461b9fda03f0167cbe5a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden says his advisors will lead with ‘science and truth’"
     excerpt: "In a dig at the outgoing Trump administration, President-elect Joe Biden says his team of scientific advisors will lead with “science and truth\""
     publishedDateTime: 2021-01-16T23:09:00Z
@@ -122,22 +106,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/2a2e76e/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F39%2Fcb%2F5838f6174f349c1b4cb2c2e019c0%2Fla-photos-1staff-688999-me-0115-dodger-stadium-vaccination-003.IK.JPG"
         width: 320
         height: 209
-        isCached: true
-  - title: "Biden to prioritize legal status for millions of immigrants"
-    excerpt: "President-elect Joe Biden will announce legislation his first day in office that provides a path to citizenship for millions of immigrants in the United States illegally"
-    publishedDateTime: 2021-01-17T04:04:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-prioritize-legal-status-millions-immigrants-75302682"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-prioritize-legal-status-millions-immigrants-75302682"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-prioritize-legal-status-millions-immigrants-75302682"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4d070eae380a4340b34102737d81d576_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Biden says his advisers will lead with 'science and truth'"
     excerpt: "In a dig at the outgoing Trump administration, President-elect Joe Biden says his team of scientific advisers will lead with “science and truth"
@@ -170,38 +138,6 @@ related:
       - url: "https://s.abcnews.com/images/Technology/WireAP_93e1a4f178b943f1b84656bd365c48bd_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Biden to propose 8-year citizenship path for immigrants"
-    excerpt: "WASHINGTON -- President-elect Joe Biden plans to unveil a sweeping immigration bill on Day One of his administration, hoping to provide an eight-year path to citizenship for an estimated 11 million people living in the U."
-    publishedDateTime: 2021-01-19T02:37:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-propose-year-citizenship-path-immigrants-75335660"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-propose-year-citizenship-path-immigrants-75335660"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-propose-year-citizenship-path-immigrants-75335660"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_5b03a16b14cc4d7686f5243d7b265933_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden, filling out his government, to name five women as deputy secretaries"
-    excerpt: "The women Biden plans to nominate as deputies at the Departments of Agriculture, Transportation, Health and Human Services, Interior and Education could help shore up the vulnerabilities of some of the Cabinet secretaries they will serve."
-    publishedDateTime: 2021-01-18T11:18:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-names-deputy-secretaries/2021/01/17/05172da4-5917-11eb-a976-bad6431e03e2_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-names-deputy-secretaries/2021/01/17/05172da4-5917-11eb-a976-bad6431e03e2_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-names-deputy-secretaries/2021/01/17/05172da4-5917-11eb-a976-bad6431e03e2_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EZLCKECYGYI6XLGFSLJIDGQ4ZM.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Biden team prepares push for new COVID relief bill expected to cost trillions"
     excerpt: "Transition officials spoke with congressional staffers about Biden's priorities for a bill with a multi-trillion-dollar price tag."
@@ -251,22 +187,6 @@ related:
         width: 2500
         height: 1636
         isCached: true
-  - title: "Undeterred, Biden will push unity in a capital locked down after an insurrection"
-    excerpt: "Joe Biden will assume the presidency at the peak of a deadly pandemic in a city on lockdown, its streets cleared and many subway stations closed, with about 20,000 National Guard troops patrolling against domestic terrorism and in front of a U."
-    publishedDateTime: 2021-01-17T20:14:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-inauguration-unity/2021/01/16/09937264-5775-11eb-a08b-f1381ef3d207_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-inauguration-unity/2021/01/16/09937264-5775-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-inauguration-unity/2021/01/16/09937264-5775-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLLTILSYG4I6XLGFSLJIDGQ4ZM.jpg&w=1440"
-        width: 1440
-        height: 956
-        isCached: true
   - title: "Biden to nominate longtime U.S. diplomat Burns to lead CIA"
     excerpt: "U.S. President-elect Joe Biden will nominate former career diplomat and former deputy secretary of state William Burns to lead the CIA, his transition team said on Monday."
     publishedDateTime: 2021-01-11T17:01:00Z
@@ -306,26 +226,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Biden intends quick executive actions to propel his agenda"
-    excerpt: "On the first day of his presidency, Joe Biden plans to roll back some of President Donald Trump's most controversial policies and take steps to address the coronavirus pandemic, his incoming chief of staff says."
-    publishedDateTime: 2021-01-18T04:37:00Z
-    webUrl: "https://www.businessinsider.com/biden-intends-quick-executive-actions-to-propel-his-agenda-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/biden-intends-quick-executive-actions-to-propel-his-agenda-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-intends-quick-executive-actions-to-propel-his-agenda-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Biden's inauguration will be very different. Here’s what you need to know."
-    excerpt: "President-elect Joe Biden’s Inauguration is happening amid a pandemic, security threats and tension between the shifting administrations. Here’s what the extraordinary day will look like."
-    publishedDateTime: 2021-01-18T01:06:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/bidens-inauguration-will-be-very-different-heres-what-you-need-to-know/2021/01/17/5492cb56-543a-4186-a3dd-8bc1fc3bc771_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 83
 
 secured: "O6MfoHHlTRWKVIBhA3jHOMa8QTuUk4tPoQ6BRpSgP+9t5sHpyFYxmOCZzE/9OKhRf/ZIBPk4IiX/oBVBCW1+WexPGCf0yhN9WEfB5NUAuF2yukabpR9oRTkc+Gv5DAUt4sOCzthB/PduA/ANDZuaU+1NmGA2Hg/DwXtYSBMqdJv9UU/f1z4LIQUuShijTJmt8iNgVFPrBZV3J+lY4GgE8qlK6IpAus4BhkLIB0MhUXzMQsMzumG6mCIFZA46v35XYi1z0Hq0HUWI7FlIxEsu28J4lKAVdcRPCsT27vGLdcMdIlEKFumBHOCM/EaPXtVJwFzBoKYA0wS4DYynk2HWxzTw4rCMpop6ao+xrwxmjqeYmMTSSD06fmKNlRsODal77zU0A6upGxKISB5P3FGNwaBIFIk6+1+IkRTlPuP9/r4fSmE/arIKLUi6gcaYELcAFPuu1L3gfHpXOfZy7WFs7KfcwQH/dMXXVzD07OfE7cdnpEOCH2uHh/1QCljdSJiF3rwQhd+y2I1UGrUNAZ+dkw==;u1lp+a5VS6H5+elgAgXtLw=="
 ---

@@ -2,162 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-12-22-trumps-legacy-he-changed-the-presidency-but-will-it-last.md",
-      "title": "Trump's legacy: He changed the presidency, but will it last?",
-      "excerpt": "His legacy: a tumultuous four years that were marked by his impeachment, failures during the worst pandemic in a century and his refusal to accept defeat. He smashed conceptions about how presidents behave and communicate,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/trumps-legacy-changed-presidency-74837833",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trumps-legacy-changed-presidency-74837833",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74837833",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74837833",
-      "publishedDateTime": "2020-12-21T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-loefflers-wealth-trump-loyalty-face-scrutiny-in-georgia.md",
-      "title": "Loeffler's wealth, Trump loyalty face scrutiny in Georgia",
-      "excerpt": "Kelly Loeffler’s tight embrace of President Donald Trump and the far right while fighting to hold on to her U.S. Senate seat is not exactly what allies of Georgia Gov. Brian Kemp envisioned when he ap",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/loefflers-wealth-trump-loyalty-face-scrutiny-georgia-74843875",
-      "publishedDateTime": "2020-12-21T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-trumps-final-trade-jab-may-be-tariffs-on-vietnamese-goods-experts.md",
-      "title": "Trump's final trade jab may be tariffs on Vietnamese goods - experts",
-      "excerpt": "President Donald Trump is likely to unveil proposed tariffs on Vietnamese goods before he leaves office in January, currency and trade experts say, after the U.S. Treasury branded the growing U.S. trade partner a \"currency manipulator\" last week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-trade-vietnam-analysis-idUSKBN28V18F",
-      "originalUrl": "https://www.reuters.com/article/usa-trade-vietnam-analysis-idUSKBN28V18F",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201221&t=2&i=1545288910&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBK0NB",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28V18F",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28V18F",
-      "publishedDateTime": "2020-12-21T03:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-12-21-trump-attempt-to-overturn-election-is-nutty-and-loopy-romney-says.md",
       "title": "Trump attempt to overturn election is 'nutty and loopy', Romney says",
       "excerpt": "Utah Republican decries flirtation with Flynn martial law plan and suggestion conspiracy theorist Powell could be special counsel",
@@ -1559,6 +1403,167 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-coronavirus-live-news-london-enters-tier-3-restrictions-trump-will-absolutely-encourage-vaccine-use.md",
+      "title": "Coronavirus live news: London enters tier 3 restrictions; Trump will 'absolutely' encourage vaccine use",
+      "excerpt": "One in four people globally may not get vaccines until 2022; EU likely to approve vaccine within days; Canada signs deal to accelerate Moderna vaccine deliveries",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary?page=with:block-5fd9936a8f08758977b3f0ed",
+      "originalUrl": "https://www.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary?page=with:block-5fd9936a8f08758977b3f0ed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a9e40093460b49c3609271c8c600e4790fd83685/0_0_4200_2520/master/4200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=feb9d1fec72b9a323db0e7ecf911894d",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/16/coronavirus-live-news-trump-will-absolutely-encourage-americans-to-take-vaccine-says-press-secretary",
+      "publishedDateTime": "2020-12-15T22:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-gingrich-among-trump-loyalists-named-to-pentagon-advisory-board.md",
+      "title": "Gingrich among Trump loyalists named to Pentagon advisory board",
+      "excerpt": "Chief among the new board appointees is former House Speaker Newt Gingrich, an ally of President Donald Trump. | Paul Morigi/ for Dentons The Pentagon named eight new members to the Defense Policy Board on Monday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/14/newt-gingrich-pentagon-advisory-board-445185",
+      "originalUrl": "https://www.politico.com/news/2020/12/14/newt-gingrich-pentagon-advisory-board-445185",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/85/3f/ee01a5bd4597a648457f363a970e/201214-newt-gingrich-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-14T10:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-14-the-note-electoral-college-voting-brings-crossroads-for-trump-and-his-gop.md",
+      "title": "The Note: Electoral College voting brings crossroads for Trump and his GOP",
+      "excerpt": "Trump looms large over the future of the Republican Party. But his interests and those of his party are already diverging.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/note-electoral-college-voting-brings-crossroads-trump-gop/story?id=74591167",
+      "originalUrl": "https://abcnews.go.com/Politics/note-electoral-college-voting-brings-crossroads-trump-gop/story?id=74591167",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/Trump_rally_201_hpMain_20201213-185828_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/note-electoral-college-voting-brings-crossroads-trump-gop/story?id=74591167",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-electoral-college-voting-brings-crossroads-trump-gop/story?id=74591167",
+      "publishedDateTime": "2020-12-14T05:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

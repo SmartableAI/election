@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-bord
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
 type: article
 quality: 170
-heat: 230
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "FBI says finding pipe bomb maker a 'top priority' before Biden inauguration, official reveals"
-    excerpt: "The FBI warned law enforcement agencies Tuesday that the person who constructed pipe bombs and left them near the Capitol on Jan. 6 has not yet been identified and is a \"top priority\" on the eve of Joe Biden's inauguration, according to a law enforcement official briefed on inauguration security concerns."
-    publishedDateTime: 2021-01-19T16:23:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L2rmhMdEOJ0/fbi-finding-pipe-bomb-maker-top-priority-biden-inauguration"
-    ampWebUrl: "https://www.foxnews.com/politics/fbi-finding-pipe-bomb-maker-top-priority-biden-inauguration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-finding-pipe-bomb-maker-top-priority-biden-inauguration.amp"
+  - title: "Nikki Haley says Biden immigration bill will ‘undermine the rule of law’"
+    excerpt: "Nikki Haley on Tuesday said that President-elect Joe Biden’s plan to give a pathway to citizenship for millions of illegal immigrants would “undermine the rule of law” while also failing to address problems with the asylum system -- a sign of likely Republican opposition to the proposal."
+    publishedDateTime: 2021-01-19T22:01:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j3NhQHENT4c/haley-biden-immigration-bill-rule-of-law"
+    ampWebUrl: "https://www.foxnews.com/politics/haley-biden-immigration-bill-rule-of-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-biden-immigration-bill-rule-of-law.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21011825073406.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Democrats who opposed waiver letting Mattis serve as defense secretary now want one for Biden pick"
-    excerpt: "President-elect Joe Biden's nominee for secretary of defense, retired Gen. Lloyd Austin, will sit for his confirmation hearing before the Senate Armed Services Committee on Tuesday, but he will have to clear one more hurdle in order to get the job – a waiver that allows recently retired military service"
-    publishedDateTime: 2021-01-19T14:42:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EAzRxXmNMv8/democrats-opposed-mattis-defense-secretary-waiver-mattis-biden-pick-austin"
-    ampWebUrl: "https://www.foxnews.com/politics/democrats-opposed-mattis-defense-secretary-waiver-mattis-biden-pick-austin.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-opposed-mattis-defense-secretary-waiver-mattis-biden-pick-austin.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d458cb3b-0501-4231-bf71-fd3aef17dccf/f4a80bef-d740-4790-a70e-2108bb0f8bc2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

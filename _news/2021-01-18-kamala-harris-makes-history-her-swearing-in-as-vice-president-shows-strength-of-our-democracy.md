@@ -231,6 +231,22 @@ related:
         width: 1200
         height: 677
         isCached: true
+  - title: "Kamala Harris has already made history, but some young women won't feel it until they see it"
+    excerpt: "Kamala Harris' ascension marks a pivotal moment in history as young women say her inauguration may finally allow them to savor what has been won."
+    publishedDateTime: 2021-01-19T22:13:00Z
+    webUrl: "https://www.azcentral.com/story/life/health-wellness/2021/01/19/kamala-harris-inauguration-emotional-moment-young-women-color/4208343001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/4208343001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4208343001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/d883f446-f5c3-46a4-9b52-147fb9eb058e-good3.jpg?auto=webp&crop=1770,996,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris makes history. Her swearing-in as vice president shows ‘strength of our democracy.’"
     excerpt: "Kamala Harris’ inauguration is a marker that the arc of history is bending toward the democracy America deserves. Support her, and hold her accountable. Kamala Harris’ inauguration is a marker that the arc of history is bending toward the democracy ..."
     publishedDateTime: 2021-01-18T16:23:00Z

@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Donald Trump's farewell: We did what we came to do"
+    excerpt: "US President Donald Trump has made his farewell address before leaving office, saying: \"We did what we came to do - and so much more.\" In a video posted on YouTube, he said he took on \"the tough battles,"
+    publishedDateTime: 2021-01-19T22:22:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55727022"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55727022"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55727022"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/F95E/production/_116583836_trumptexas.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "The symbols of hate and far-right extremism on display in pro-Trump Capitol siege"
     excerpt: "Trump mob stormed the U.S. Capitol, symbols of white supremacy and extremist right wing militias were displayed by some rioters on flags, banners and clothing."
     publishedDateTime: 2021-01-14T15:01:00Z

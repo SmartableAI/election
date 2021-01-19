@@ -239,38 +239,6 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Biden to extend pause on federal student loan payments"
-    excerpt: "The president-elect's transition team also said Mr. Biden supports Congress \"immediately\" cancelling $10,000 of federal student loans"
-    publishedDateTime: 2021-01-13T12:04:00Z
-    webUrl: "https://www.cbsnews.com/news/student-loan-payments-pause-biden-extend/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/student-loan-payments-pause-biden-extend/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/student-loan-payments-pause-biden-extend/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/11/5a845e73-ca79-43f4-bd69-1ea7fd5ec19b/thumbnail/1200x630/e81e9d97adaa622c1f2f6d0c44844c40/gettyimages-1201562159-1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Security concerns mount ahead of Biden inauguration"
-    excerpt: "Concerns are growing over security threats surrounding President-elect Joe Biden’s inauguration next week after the attack on the Capitol rattled the country's confidence and put scrutiny on law enforcement and safety in Washington."
-    publishedDateTime: 2021-01-13T16:09:00Z
-    webUrl: "https://thehill.com/policy/national-security/533938-security-concerns-mount-ahead-of-biden-inauguration"
-    ampWebUrl: "https://thehill.com/policy/national-security/533938-security-concerns-mount-ahead-of-biden-inauguration?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/national-security/533938-security-concerns-mount-ahead-of-biden-inauguration?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/capitol_riot_010621upi7_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Two Biden aides will recuse on BlackRock issues as past ties pose questions"
     excerpt: "In 2019, the company won again when the Trump administration cemented an approach that would essentially exempt large companies such as BlackRock from more scrutiny. Now, however, the New York firm — with $7."
     publishedDateTime: 2021-01-02T21:39:00Z
@@ -530,34 +498,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547409614&r=LYNXMPEH0A1HG&w=800"
         width: 800
         height: 533
-        isCached: true
-  - title: "Security to take center stage at Biden inauguration after Capitol riot"
-    excerpt: "U.S. law enforcement agencies securing Joe Biden's Jan. 20 presidential inauguration swearing-in ceremony dramatically scaled up their budgets following the Capitol riot last week, according to a person involved with the planning."
-    publishedDateTime: 2021-01-12T21:33:00Z
-    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN29H29Z"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547513638&r=LYNXMPEH0B16H&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "For Joe Biden, life and destiny converge to offer a new challenge"
-    excerpt: "Lord God, the whys of life and destiny are often hard,” the Rev. Justin Diny, headmaster at Biden’s high school, said that morning. Now, more than 48 years later, the hard whys of life and destiny have rewarded Biden — and placed him in another perilous moment."
-    publishedDateTime: 2021-01-13T17:55:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/13/president-role-joe-biden/?arc404=true"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/resizer/IYA6SM8GbifzMJGz7PzugdDPr7I=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4OTAXVRV25HL5DEPS5HHBI37ZM.jpg"
-        width: 1484
-        height: 1119
         isCached: true
   - title: "'It is time': New York law firm leaders urge Congress to certify Biden win"
     excerpt: "The leaders of over a dozen prominent New York law firms called on Congress Monday to certify President-elect Joe Biden's Electoral College win, signing an open letter alongside more than 150 other business executives."

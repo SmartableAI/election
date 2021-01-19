@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/team-trump-twitter-account-suspende
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/team-trump-twitter-account-suspended.amp"
 type: article
 quality: 175
-heat: 275
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Nikki Haley says Trump Twitter ban is 'what happens in China'"
+    excerpt: "Former U.N. Ambassador Nikki Haley on Friday reacted to the permanent suspension of President Trump’s Twitter account, describing it as an instance of \"silencing\" of the kind that happens in communist China."
+    publishedDateTime: 2021-01-09T15:31:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rhiubGFBDVU/nikki-haley-trump-twitter-ban-china"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-trump-twitter-ban-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-trump-twitter-ban-china.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da6ccb3d-d6ae-4c35-892d-2a2d0a5234d2/dfcf7c7b-cb1f-422b-9614-5fd44aba5411/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Squad member compares Trump Twitter ban to capture of Saddam Hussein"
+    excerpt: "Rep. Jamaal Bowman, D-N.Y., reacted to Twitter banning President Trump from its platform by posting famous video footage of a U.S. official announcing the capture of former dictator Saddam Hussein during the Iraq war."
+    publishedDateTime: 2021-01-09T00:56:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HiIDSvmekpA/squad-bowman-trump-saddam-hussein"
+    ampWebUrl: "https://www.foxnews.com/politics/squad-bowman-trump-saddam-hussein.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-bowman-trump-saddam-hussein.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a8cc832-1224-4756-9784-64460e49561a/449753bf-51eb-45ab-a876-ea038b0ab169/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Lindsey Graham calls Twitter's Trump ban a mistake: 'Ayatollah can tweet, but Trump can’t'"
     excerpt: "Sen. Lindsey Graham, R-S.C., lashed out at Twitter after the social media site announced Friday a permanent ban on President Trump's personal account, calling the move a \"serious mistake.\" "
     publishedDateTime: 2021-01-09T20:30:06Z
@@ -47,35 +79,35 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Rep. Mace pegs Twitter 'un-American' for Trump account suspension: 'It's completely hypocritical'"
-    excerpt: "President Trump has been banned from Twitter after Wednesday’s U.S. Capitol riot, and Rep. Nancy Mace, R-S.C., is calling the social media giant’s response as the height of hypocrisy."
-    publishedDateTime: 2021-01-10T18:10:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TUnBFnsLSng/rep-mace-twitter-un-american-trump-account-suspension"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-mace-twitter-un-american-trump-account-suspension.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-mace-twitter-un-american-trump-account-suspension.amp"
+  - title: "After Trump Twitter ban, CBP chief says conservatives are 'constantly being censored' by Big Tech"
+    excerpt: "The head of Customs and Border Protection (CBP) said on Saturday that conservatives and Trump administration officials are \"constantly being censored\" -- a day after President Trump was permanently suspended from Twitter. "
+    publishedDateTime: 2021-01-09T16:55:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tSInzzeuWRE/trump-twitter-ban-cbp-chief-tech"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-twitter-ban-cbp-chief-tech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-twitter-ban-cbp-chief-tech.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 162
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21009769914132-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/886d202e-b4ba-4da6-bcc1-bda7cfd9a2a4/f4729944-945f-4a6d-b3c0-79a7da3fa698/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Critics mock NY Gov. Cuomo's sudden denunciation of lockdowns, suggest Trump hacked his Twitter account"
-    excerpt: "Democratic New York Gov. Andrew Cuomo raised eyebrows on Monday for his drastic shift on lockdowns during the pandemic. "
-    publishedDateTime: 2021-01-11T23:52:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6yXyhAfGjKY/critics-mock-gov-cuomo-for-sudden-denunciation-of-lockdowns-suggest-trump-is-using-his-twitter-account"
-    ampWebUrl: "https://www.foxnews.com/politics/critics-mock-gov-cuomo-for-sudden-denunciation-of-lockdowns-suggest-trump-is-using-his-twitter-account.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/critics-mock-gov-cuomo-for-sudden-denunciation-of-lockdowns-suggest-trump-is-using-his-twitter-account.amp"
+  - title: "Haley tells GOP not to ‘shy away’ from Trump-era gains, but calls his recent conduct 'deeply disappointing'"
+    excerpt: "Former U.N. Ambassador Nikki Haley on Thursday hailed the “extraordinary gains” for the United States during President Trump’s time in office and warned Republicans not to “shy away” from them -- while at the same time calling his post-Election Day conduct “deeply disappointing.”"
+    publishedDateTime: 2021-01-08T02:29:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CuZvPr02aUA/haley-gop-trump-era-gains-conduct-disappointing"
+    ampWebUrl: "https://www.foxnews.com/politics/haley-gop-trump-era-gains-conduct-disappointing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-gop-trump-era-gains-conduct-disappointing.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 157
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ea97b24-9e30-4e75-8d6c-4d06095a1302/9b9f07f9-872e-48c0-9ac3-e802744ca6c6/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5850a575-b1ba-40c2-b8ec-86539591b249/df0f5648-1d79-460c-aad0-95e350db5c48/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

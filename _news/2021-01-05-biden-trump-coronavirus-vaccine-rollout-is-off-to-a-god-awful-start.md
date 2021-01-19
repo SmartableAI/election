@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-takes-aim-at-trump-at-georgia-rally-on-eve-of-runoff-elections.amp"
 type: article
 quality: 190
-heat: 570
+heat: 590
 published: true
 
 provider:
@@ -190,6 +190,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Rep. Van Drew calls on Biden to oppose Trump impeachment: 'Let's try to come together'"
+    excerpt: "Democrats are pushing to remove President Trump from office after Wednesday’s riots on Capitol Hill but Rep. Jeff Van Drew, R-N.J., is urging President-elect Joe Biden to oppose impeachment, saying it would divide the country."
+    publishedDateTime: 2021-01-10T21:29:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N1MFlJVcVOM/rep-van-drew-biden-oppose-trump-impeachment"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21007252358930.jpg"
+        width: 2811
+        height: 1582
         isCached: true
   - title: "Biden Says Trump Defense, Budget Officials Are Impeding Transition"
     excerpt: "President-elect says his team has “encountered roadblocks” from political leaders at the Office of Management and Budget and the Pentagon."

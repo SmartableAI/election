@@ -63,22 +63,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "President Trump and first lady wish Americans a Merry Christmas"
-    excerpt: "President Trump and First Lady Melania Trump issued a joint message wishing Americans a Merry Christmas on Thursday, noting the importance of the holiday and praising Americans' efforts during the pandemic."
-    publishedDateTime: 2020-12-24T22:52:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHDCCU0QMx4/president-trump-melania-merry-christmas-message"
-    ampWebUrl: "https://www.foxnews.com/politics/president-trump-melania-merry-christmas-message.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-melania-merry-christmas-message.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6703b896-3c41-447b-97dc-955b283136b0/7b4e8295-3b5b-4763-b30e-c113a394434c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Who is Charles Kushner, who was pardoned by Trump?"
     excerpt: "President Trump issued 26 pardons on Wednesday, including several with personal ties to the president or members of his administration. One of them is Charles Kushner, father of Trump's adviser and son-in-law, Jared Kushner."
     publishedDateTime: 2020-12-24T14:21:40Z
@@ -126,6 +110,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15e12a5d-e28b-45fd-a1f3-606289515e5c/d1994829-de47-4bcf-b359-b6477a0f80dc/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "President Trump Spends Christmas at Mar-a-Lago, and Joe Biden in Delaware"
+    excerpt: "The president"
+    publishedDateTime: 2020-12-25T13:16:00Z
+    webUrl: "https://www.wsj.com/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768?mod=hp_listb_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/president-trump-spends-christmas-at-mar-a-lago-and-joe-biden-in-delaware-11608900768"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 159
+    images:
+      - url: "https://images.wsj.net/im-278203/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump and Melania wear matching tuxedos in official Christmas portrait"
     excerpt: "President Trump and first lady Melania donned coordinating tuxedos for their final official Christmas portrait, released Friday. Melania tweeted a photo of the pair standing in the Grand Staircase of the White House,"

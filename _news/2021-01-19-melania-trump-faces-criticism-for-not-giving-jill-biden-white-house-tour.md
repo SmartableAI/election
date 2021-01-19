@@ -47,38 +47,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump impeachment risks bogging down early days of Biden presidency"
-    excerpt: "Trial could tie up Senate, slowing president-elect’s agenda amid pandemic and economic crisis"
-    publishedDateTime: 2021-01-14T14:17:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/14/trump-impeachment-biden-administration-senate-trial"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/14/trump-impeachment-biden-administration-senate-trial"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/14/trump-impeachment-biden-administration-senate-trial"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 140
-    images:
-      - url: "https://i.guim.co.uk/img/media/839df3d21e6274cce2021d3fdf7cb39a393fb6e7/0_323_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dccc95fc4955e3136877727f1ed87114"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Donald Trump isolated and enraged ahead of Biden inauguration"
-    excerpt: "A slew of aides have deserted the president and the Pentagon has decided not to hold an armed forces farewell tribute"
-    publishedDateTime: 2021-01-16T07:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/16/donald-trump-biden-inauguration-isolated-enraged"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/16/donald-trump-biden-inauguration-isolated-enraged"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/16/donald-trump-biden-inauguration-isolated-enraged"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 140
-    images:
-      - url: "https://i.guim.co.uk/img/media/4562affcc87f763439da1fd7d3fc91f356b536f5/0_38_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e75078fad8e464cbc9499016b6c3ec8b"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Moon urges Biden to learn from Trump's N. Korea diplomacy"
     excerpt: "South Korea’s president has urged the incoming Biden administration to build upon the achievements and learn from the failures of President Donald Trump’s diplomatic engagement with North Korea"
     publishedDateTime: 2021-01-18T05:15:00Z
@@ -126,54 +94,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/15/271825a6-0f84-4789-b1b5-26e6a1f513f0/thumbnail/1200x630/e2df6a2401b1edfdd1bf44bba92ff8c9/gettyimages-1296409766.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Pence is helping Biden make the transition more normal. But their cooperation has risks for each."
-    excerpt: "Pence is accepting Biden’s win in a way Trump has not, helping Biden solidify his transition to power. That benefits Biden and Pence for now, but a volatile political landscape lies ahead for both."
-    publishedDateTime: 2021-01-17T15:08:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-pence-transition/2021/01/16/9e242d6e-5758-11eb-a08b-f1381ef3d207_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-pence-transition/2021/01/16/9e242d6e-5758-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-pence-transition/2021/01/16/9e242d6e-5758-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 137
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WJOLZXCTQUI6XLGFSLJIDGQ4ZM.jpg&w=1440"
-        width: 1440
-        height: 1166
-        isCached: true
-  - title: "Biden inauguration: Donald Trump's last full day as US president – live updates"
-    excerpt: "President expected to issue 100 pardons as Covid cases reach 24 million – follow all the latest news on Trump’s final full day"
-    publishedDateTime: 2021-01-19T13:39:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates?page=with:block-6006ee7c8f081bab84f55c3a"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 136
-    images:
-      - url: "https://i.guim.co.uk/img/media/14ff0ff1cf92554c2343fbe627855c8a0c3f1d1c/0_0_5557_3333/master/5557.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ad37adcb20c6c3000992e1066a1394e6"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "The Latest: Biden to attend Mass with congressional leaders"
-    excerpt: "Joe Biden will strike a unity theme before his inauguration as president on Wednesday by worshipping with Congress’ top Republican and Democratic leaders"
-    publishedDateTime: 2021-01-19T14:44:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-to-attend-mass-with-congressional-leaders/2021/01/19/21c828ec-5a64-11eb-a849-6f9423a75ffd_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-to-attend-mass-with-congressional-leaders/2021/01/19/21c828ec-5a64-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-to-attend-mass-with-congressional-leaders/2021/01/19/21c828ec-5a64-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 135
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Biden aims for new course on trade, breaking with Trump and Democratic predecessors"
     excerpt: "Biden will confront the same question that has bedeviled U.S. policymakers for three decades: How can the U.S. shape for maximum benefit its overseas commercial engagements?"
@@ -335,54 +255,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Housing advocates call on Biden to extend eviction ban"
-    excerpt: "Housing advocates around the country are calling on the incoming Biden administration to extend and strengthen the current federal ban on evictions"
-    publishedDateTime: 2021-01-13T20:39:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/housing-advocates-call-biden-extend-eviction-ban-75232044"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/housing-advocates-call-biden-extend-eviction-ban-75232044"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/housing-advocates-call-biden-extend-eviction-ban-75232044"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_662a16230c2f436cacdde5dedaf20a27_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "The Latest: Biden hopes Senate can balance trial, other work"
-    excerpt: "President-elect Joe Biden says he hopes the Senate can balance a second impeachment trial of President Donald Trump with “other urgent business” as the coronavirus pandemic rages"
-    publishedDateTime: 2021-01-14T06:22:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-hopes-senate-can-balance-trial-other-work/2021/01/13/eb1e34fa-5606-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-hopes-senate-can-balance-trial-other-work/2021/01/13/eb1e34fa-5606-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-hopes-senate-can-balance-trial-other-work/2021/01/13/eb1e34fa-5606-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Here's the lineup for President-elect Biden's inauguration ceremonies"
-    excerpt: "The election of President-elect Biden and Vice President-elect Harris was historic and we know that many Americans would have wanted to attend the Inauguration in-person. At th"
-    publishedDateTime: 2021-01-14T19:47:00Z
-    webUrl: "https://thehill.com/changing-america/enrichment/arts-culture/534281-heres-the-lineup-for-president-elect-bidens"
-    ampWebUrl: "https://thehill.com/changing-america/enrichment/arts-culture/534281-heres-the-lineup-for-president-elect-bidens?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/arts-culture/534281-heres-the-lineup-for-president-elect-bidens?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/ca_inauguration_getty_0.jpg"
-        width: 1440
-        height: 880
-        isCached: true
   - title: "Senate Democrats signal hope for bipartisan Trump impeachment trial"
     excerpt: "One day after Trump was impeached a second time, a growing number of Republican senators have signaled that they are open to convicting Trump on the charge of “incitement of insurrection.”"
     publishedDateTime: 2021-01-15T06:49:00Z
@@ -414,22 +286,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-white-house-01-gty-iwb-210113_1610553950499_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Biden will elevate White House science office to cabinet-level"
-    excerpt: "President-elect Joe Biden will elevate the White House Office of Science and Technology Policy to a cabinet-level agency and picks world famous geneticist Eric Lander to run it."
-    publishedDateTime: 2021-01-16T03:58:00Z
-    webUrl: "https://www.washingtonpost.com/science/2021/01/15/biden-lander-ostp/"
-    ampWebUrl: "https://www.washingtonpost.com/science/2021/01/15/biden-lander-ostp/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/science/2021/01/15/biden-lander-ostp/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VQYGJGSXLUI6XLGFSLJIDGQ4ZM.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Democrats wrestle with length of Trump trial"
     excerpt: "Democrats are eager to punish Trump for inciting the attack on the U.S. Capitol, but wary of a Senate trial dragging on too long and slowing Biden’s agenda. They hope to keep the trial short without truncating their case."
@@ -607,22 +463,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Live Updates: Biden pauses to honor King as preparations continue for inauguration"
-    excerpt: "Washington — President-elect Joe Biden and incoming first lady Jill Biden are honoring the life of Dr. Martin Luther King, Jr., on Monday, two days before Mr. Biden is sworn-in as president of the United States. The Bidens are recognizing the federal ..."
-    publishedDateTime: 2021-01-18T15:19:00Z
-    webUrl: "https://www.cbsnews.com/live-updates/biden-inauguration-preparation-2021-01-18/"
-    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/biden-inauguration-preparation-2021-01-18/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/biden-inauguration-preparation-2021-01-18/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 119
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/18/024ec4b2-151f-4c49-bb5f-7591f1bff55e/thumbnail/1200x630g2/c7b7210a03c8655208aee4e064fa971d/2021-01-18t143037z-667358258-rc2eal9k2fb7-rtrmadp-3-usa-biden-inauguration.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Biden to block Trump's plan to lift COVID-19 European travel restrictions"
     excerpt: "U.S. President-elect Joe Biden plans to quickly extend travel restrictions barring travel by most people who have recently been in much of Europe and Brazil soon after President Donald Trump lifted those requirements effective Jan."
     publishedDateTime: 2021-01-19T12:57:00Z
@@ -685,22 +525,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden will have more women in his Cabinet than any president ever. Other countries still do better."
-    excerpt: "Most cabinets have a \"concrete floor\" for gender representation, and rarely go lower. Will Biden raise that floor in the United States?"
-    publishedDateTime: 2021-01-16T02:03:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/15/biden-will-have-more-women-his-cabinet-than-any-president-ever-other-countries-still-do-better/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/15/biden-will-have-more-women-his-cabinet-than-any-president-ever-other-countries-still-do-better/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/15/biden-will-have-more-women-his-cabinet-than-any-president-ever-other-countries-still-do-better/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 111
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BRCTLGB37YI6XKWZRFMSE4UAYQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Biden, once a warrior, may slowly retreat from the ‘war on drugs’"
     excerpt: "President-elect Joe Biden built part of his political career on being known as a fighter in the “war on drugs,” supporting legislation as a senator that set harsh penalties for some drug offenses. But as president, Biden could potentially oversee broad changes in federal drug policy, including how the government and law enforcement agencies view drug addiction and treatment and classify the use of marijuana. Biden will take office at a time when the nation’s attitudes about drugs, particularly the legalization or decriminalization of marijuana, appear to be one area where there is relative, and growing, bipartisan unity. In an election that was otherwise defined by stark political differences, voters in both red states and blue states — Arizona, Montana, New Jersey and South Dakota — supported ballot initiatives to legalize the personal use of marijuana, while Mississippi voters legalized it for medicinal use. Along with earlier action by state legislatures or voters, 15 states have legalized marijuana, while 36 others have approved some form of medicinal marijuana use, according to the National Conference of State Legislatures. But marijuana remains illegal under federal law, leaving users and suppliers vulnerable to prosecution even in places where the drug is otherwise legally sold and used. The nation’s growing cannabis industry also faces hurdles in transporting its products across state lines and accessing the country’s federally regulated banking system. During his primary campaign, Biden was one of the few Democratic candidates who did not support federal legalization of marijuana for recreational use, citing concerns that it could be a “gateway drug.” But during the general-election campaign, he softened his stance, saying that the drug should be decriminalized and that individual states should decide whether to legalize it for recreational use. As the general-election campaign progressed, Kamala D. Harris, Biden’s running mate and a former prosecutor, also advocated for the decriminalization of marijuana despite past opposition to legalizing it. During the October vice-presidential debate, Harris said a Biden-Harris administration “will decriminalize marijuana, and we will expunge the records of those who have been convicted of marijuana” crimes. Marijuana advocates are gearing up to make sure Biden sticks to his campaign pledge, which they note that strong majorities of Democratic voters support, according to recent polls. Last month, for the first time, the Democratic-controlled House voted — 228 to 164 — to decriminalize marijuana and remove it from the federal schedule of controlled substances. The Republican-controlled Senate did not take up the measure, and many advocates are skeptical of its chances there, even though Democrats narrowly won control of the chamber after two runoff elections in Georgia last week. But advocates say Biden can still push toward decriminalization, even without a vote from Congress. Under its current classification, which dates to a decision made under President Richard Nixon in 1970, marijuana is classified as a Schedule I narcotic for having “no currently accepted medical use and a high potential for abuse.” The remaining schedules of narcotics, II through V, are ranked by their potential for abuse and perceived level of danger, and the classifications help guide federal enforcement and regulations for controlled substances, including prescription medication. Maritza Perez, director of national affairs for the pro-reform Drug Policy Alliance, said legal analysts for the movement think the Biden administration can unilaterally reschedule marijuana to a higher classification or even remove it from the list. Although she prefers congressional action, Perez said the administration could declassify marijuana through a process that would involve sign-off from the incoming attorney general as well as the secretary of the Department of Health and Human Services. Biden has nominated California Attorney General Xavier Becerra, who has defended his state’s legalization of marijuana, as his secretary of Health and Human Services. “The attorney general would have to work hand-in-hand with the HHS secretary, but we think this is certainly something within the administration's power, which is why the marijuana advocates have been pushing for him to appoint a pro-marijuana AG,” Perez said. But Sam Kamin, a law professor at the Sturm College of Law at the University of Denver and a leading expert on marijuana laws, is skeptical that Biden will aggressively pursue the unilateral rescheduling or de-scheduling of marijuana. De-scheduling the drug could upend international drug control treaties, while rescheduling it could undercut state medical marijuana laws, he said. “They can begin the rescheduling process, but whether they can de-schedule without stepping on other rules and regulations is more complicated,” Kamin said. “Treating marijuana like a Schedule II or III drug would create serious tensions with a lot of states. … If it was scheduled the same way Vicodin is scheduled, you could not get it over-the-counter as you can in many states. You would need a prescription from a medical doctor.” Even if Biden decides to largely steer clear of the marijuana debate, advocates for reforming the nation’s drug laws still think his administration will usher in a new period of compassion when it comes to addiction. To combat the opioid crisis, Biden has promised to spend an additional $125 billion over 10 years on drug treatment and prevention programs, while also supporting some controversial local initiatives such as needle exchanges. Perez is optimistic that the Biden administration, unlike President Trump’s, will take a hands-off approach when it comes to proposals by some cities to open safe-injection sites, where people can use illegal drugs in safe, monitored environments. Last year, the Trump administration sued to try to stop Philadelphia from opening a so-called safe injection site. But Perez noted in July that Becerra, as California attorney general, joined a multistate amicus brief in support of Philadelphia. ““Safe injection sites … are an innovative tool to combat the opioid epidemic and drug dependency while reducing overdose death and transmission of diseases,” Becerra said at the time. Amy B Wang contributed to this report."
     publishedDateTime: 2021-01-11T13:38:00Z
@@ -757,34 +581,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "20,000 guardsmen to deploy for Biden inauguration"
-    excerpt: "While Congress acted to impeach him, President Donald Trump on Wednesday urged his supporters to shun violence as the National Guard prepared to deploy at least 20,000 troops in Washington for the Jan."
-    publishedDateTime: 2021-01-13T23:26:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration/acting-u-s-attorney-general-warns-insurrectionists-against-further-attacks-idUSKBN29I1RZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547699627&r=LYNXMPEH0C1TD&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "U.S. Senate moves toward confirming Biden cabinet nominees"
-    excerpt: "The U.S. Senate Intelligence Committee said on Wednesday it had scheduled a confirmation hearing for President-elect Joe Biden's nominee to be director of national intelligence, after delays in the transition process for some nominees."
-    publishedDateTime: 2021-01-14T05:20:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-cabinet/u-s-senate-moves-toward-confirming-biden-cabinet-nominees-idUSKBN29J00Y"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547710021&r=LYNXMPEH0D01S&w=800"
-        width: 799
-        height: 533
-        isCached: true
   - title: "What a Final-Days Impeachment Would Mean for Trump"
     excerpt: "Donald Trump’s four-year term as president ends on Jan. 20 at noon. That’s not soon enough for some in Congress, who have initiated an unprecedented second effort to impeach him, one year after the U."
     publishedDateTime: 2021-01-13T18:52:00Z
@@ -813,20 +609,6 @@ related:
         width: 800
         height: 526
         isCached: true
-  - title: "U.S. airlines back Biden plan to mandate masks for passengers"
-    excerpt: "A group representing major U.S. airlines on Thursday backed President-elect Joe Biden's plan to mandate face coverings for all air passengers, but asked him to give them flexibility in enforcing it."
-    publishedDateTime: 2021-01-15T01:29:00Z
-    webUrl: "https://www.reuters.com/article/usa-transportation-biden/update-2-us-airlines-back-biden-plan-to-mandate-masks-for-passengers-idUSL1N2JP2FN"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547833461&r=LYNXMPEH0D1HX&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "U.S. in uncharted waters in unprecedented second impeachment of Trump"
     excerpt: "America will be in uncharted territory when the U.S. Senate meets as soon as next week for the impeachment trial of Donald Trump, the first U.S. president both to be impeached a second time and to face trial by lawmakers after leaving office."
     publishedDateTime: 2021-01-14T22:47:00Z
@@ -840,48 +622,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547771325&r=LYNXMPEH0D0PK&w=800"
         width: 800
         height: 526
-        isCached: true
-  - title: "Biden nominates veteran diplomats for top State posts"
-    excerpt: "Democratic President-elect Joe Biden on Saturday nominated U.S. foreign policy veteran Wendy Sherman, a key negotiator of the 2015 nuclear deal with Iran, to be the No. 2 official at the State Department."
-    publishedDateTime: 2021-01-16T14:27:00Z
-    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN29L0I0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210116&t=2&i=1548043131&r=LYNXMPEH0F0D0&w=800"
-        width: 800
-        height: 609
-        isCached: true
-  - title: "Progressives pressure Biden to reform Senate filibuster"
-    excerpt: "Several progressive left-wing groups are urging President-elect Joe Biden to alter or eliminate the Senate filibuster. The procedure allows for lawmakers to delay or block votes on legislation by burying proposals in endless debate."
-    publishedDateTime: 2021-01-19T01:16:00Z
-    webUrl: "https://www.cbsnews.com/video/progressives-pressure-biden-to-reform-senate-filibuster-analysis-adam-jentleson/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/19/eb5128f9-d8ea-4f7d-9330-1c18953fc3ea/thumbnail/1200x630/0d2d0accf57c3b68cb0c2ccf91638646/cbsn-fusion-progressives-pressure-president-elect-joe-biden-to-reform-senate-filibuster-thumbnail-628964-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Rehearsing Joe Biden's inauguration"
-    excerpt: "A general view of preparations prior to a dress rehearsal for President-elect Joe Biden's Presidential Inauguration at the U.S. Capitol, in Washington. Jeenah Moon/Pool via REUTERS"
-    publishedDateTime: 2021-01-19T02:56:00Z
-    webUrl: "https://www.reuters.com/news/picture/rehearsing-joe-bidens-inauguration-idUSRTX8NABC"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210118&t=2&i=1548239955&w=&fh=545&fw=810&ll=&pl=&sq=&r=2021-01-18T215605Z_38130_MRPRC2JAL9OCCIE_RTRMADP_0_USA-BIDEN-INAUGURATION"
-        width: 810
-        height: 540
         isCached: true
   - title: "McConnell: Donald Trump ‘fed lies’ to mob about Biden election"
     excerpt: "Senate Republican leader Mitch McConnell opened the Senate on Tuesday saying the pro-Trump mob that stormed the Capitol was “fed lies” by the president and others in the deadly riot to overturn Democrat Joe Biden’s election."
@@ -971,20 +711,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Biden says he hopes Senate leadership will work on other business during impeachment"
-    excerpt: "U.S. President-elect Joe Biden on Wednesday called on Senate leadership to work on other business while dealing with their responsibilities on impeachment after a House of Representatives vote that made Donald Trump the first U."
-    publishedDateTime: 2021-01-14T06:15:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-biden/biden-says-he-hopes-senate-leadership-will-work-on-other-business-during-impeachment-idUSKBN29J053"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547715105&r=LYNXMPEH0D03T&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Republican U.S. senator joins calls for Trump resignation as Democrats prepare to impeach"
     excerpt: "Republican U.S. senator called for President Donald Trump to resign on Sunday, saying he could face criminal liability after the deadly storming of the U.S. Capitol by his supporters."
     publishedDateTime: 2021-01-11T00:16:00Z
@@ -1015,20 +741,6 @@ related:
         width: 1024
         height: 680
         isCached: true
-  - title: "Biden is raising tens of millions of dollars for his inauguration but won't say where the money is going"
-    excerpt: "Biden is raising tens of millions of dollars for the inaugural celebrations, including from corporate giants with big business before the federal government."
-    publishedDateTime: 2021-01-17T00:10:00Z
-    webUrl: "https://www.businessinsider.com/progressives-want-joe-biden-inauguration-transparent-2021-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 88
-    images:
-      - url: "https://i.insider.com/600262d2660f6c0018349926?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Joe Biden’s COVID team is nervous about what the Trump team hasn’t told them"
     excerpt: "CNN With the hours dwindling until Joe Biden is sworn in — officially taking the helm of the US government during its worst health crisis in 100"
     publishedDateTime: 2021-01-19T12:49:00Z
@@ -1044,22 +756,6 @@ related:
       - url: "https://www.ocregister.com/wp-content/uploads/2021/01/200925174647-trump-v-biden-covid-19-live-video-2-1.jpg?w=576&h=324"
         width: 576
         height: 324
-        isCached: true
-  - title: "Trump’s Senate impeachment trial could begin on day of Joe Biden’s inauguration"
-    excerpt: "The impeachment trial timeline and schedule are largely set by Senate procedures and will start as soon as the House delivers the article of impeachment."
-    publishedDateTime: 2021-01-14T20:11:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-trump-impeachment-senate-trial-20210114-adbtyldlkbehdbnl4gpltd56om-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-trump-impeachment-senate-trial-20210114-adbtyldlkbehdbnl4gpltd56om-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-trump-impeachment-senate-trial-20210114-adbtyldlkbehdbnl4gpltd56om-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 86
-    images:
-      - url: "https://www.baltimoresun.com/resizer/uc7JsXO_wNaKxuBank7JHQYgerU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4GOQL42XQBC6VEXMWNCTVGDZKU.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Trump lifts UK, Ireland and Brazil COVID travel restrictions; Biden pushes back"
     excerpt: "President-elect Joe Biden’s incoming White House press secretary says his administration does not intend to lift coronavirus travel restrictions for Europe, the U.K., Ireland and Brazil. The message from Jen Psaki came Monday evening after the White House said President Donald Trump had lifted the restrictions for those countries,"
@@ -1088,22 +784,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 85
-  - title: "Tom Hanks Hosted Inauguration Special Sees Comparison of Joe Biden, Donald Trump Supporters"
-    excerpt: "An inauguration special for Joe Biden has drawn comparisons to the kind of celebrities who are showing support for him over Donald Trump."
-    publishedDateTime: 2021-01-14T17:50:00Z
-    webUrl: "https://www.ibtimes.com/tom-hanks-hosted-inauguration-special-sees-comparison-joe-biden-donald-trump-3122280"
-    ampWebUrl: "https://www.ibtimes.com/tom-hanks-hosted-inauguration-special-sees-comparison-joe-biden-donald-trump-3122280?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tom-hanks-hosted-inauguration-special-sees-comparison-joe-biden-donald-trump-3122280?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 80
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/24/tom-hanks-and-his-wife-rita-wilson-contracted.jpg"
-        width: 1024
-        height: 693
-        isCached: true
   - title: "Donald Trump’s Republican wall eroding ahead of impeachment vote"
     excerpt: "But with a sudden force, the wall of Republican support that has enabled Trump to weather a seemingly endless series of crises is beginning to erode. Trump’s weakened standing among his own party will come into sharper focus on Wednesday when the House is expected to impeach the president for inciting a riot at the U."
     publishedDateTime: 2021-01-13T13:39:00Z
@@ -1243,22 +923,6 @@ related:
         width: 3353
         height: 2235
         isCached: true
-  - title: "Joe Biden’s national security Cabinet nominees face Senate hearings a day before his inauguration"
-    excerpt: "Joe Biden’s national security Cabinet may be bare on Day One of his presidency, but an inauguration eve spurt of Senate confirmation hearings suggests that won’t be the case for long."
-    publishedDateTime: 2021-01-19T12:59:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-cabinet-senate-hearings-20210119-5dq6srkyeff37czuzmjtoiv3mm-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-cabinet-senate-hearings-20210119-5dq6srkyeff37czuzmjtoiv3mm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-cabinet-senate-hearings-20210119-5dq6srkyeff37czuzmjtoiv3mm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 62
-    images:
-      - url: "https://www.baltimoresun.com/resizer/iiFOMnHUURLAl0dnwR14YkJn878=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LMAE2SBIWVFADDWJ5JAVW2X7IY.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump Returns Cuba to U.S. List of State Sponsors of Terrorism"
     excerpt: "The Trump administration plans to return Cuba to the U.S. list of state sponsors of terrorism, a person familiar with the matter said on Monday, a move that could complicate any efforts by the incoming Biden administration to revive Obama-era detente with Havana."
     publishedDateTime: 2021-01-12T04:26:00Z
@@ -1327,20 +991,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/21/us-president-donald-trump-steps-into-the-northern.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Here are 3 immediate goals for Joe Biden as he prepares to lead a nation in crisis"
-    excerpt: "When Joe Biden is inaugurated Wednesday as the 46th president of the United States, he’ll face a nation torn by deep political and social divisions, and"
-    publishedDateTime: 2021-01-18T11:15:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/01/18/here-are-3-immediate-goals-for-joe-biden-as-he-prepares-to-lead-a-nation-in-crisis/"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 49
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/cMyiQVSlq1so5GyTMKeW4QPsRcQ=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/25GYRBL7QFPEXEFRPY2HXBS5CA.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Trump Sought the World's Attention and Got It. Now the White House Reality Show Ends"
     excerpt: "President Donald Trump never hid how he felt. His words and body language made his thoughts clear. For more than four years, Trump, a Republican, cultivated a political base by sharing his thoughts and emotions - pride,"

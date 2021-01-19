@@ -31,17 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "As Trump's border wall tops 450-mile goal, CBP chief says more wall is coming"
-    excerpt: "The Trump administration on Tuesday announced that the number of miles of wall at the southern border had topped 450, a key election promise set by President Trump – with a top official saying more wall construction is underway."
-    publishedDateTime: 2021-01-05T18:04:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MBnWntiRONo/trumps-border-wall-tops-450-mile"
+  - title: "Trump to highlight border wall topping 400 miles with Texas visit during last full week in office"
+    excerpt: "With just over a week remaining in his term, President Trump is expected to celebrate progress on one of his featured campaign promises: a wall along the U.S.-Mexico border."
+    publishedDateTime: 2021-01-10T19:38:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H3WE1u5DezY/trump-border-wall-texas-visit-last-full-week-in-office"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-border-wall-texas-visit-last-full-week-in-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-border-wall-texas-visit-last-full-week-in-office.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 152
+    quality: 162
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cafa9715-9cec-4ff3-9eee-a36559f3ad68/ded6b470-42f2-494c-aaac-73915157c297/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cb36dbe-eada-4977-abd7-6669263e1345/a159a8e6-35c5-4f32-aa31-c8e2af9ce0ae/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
