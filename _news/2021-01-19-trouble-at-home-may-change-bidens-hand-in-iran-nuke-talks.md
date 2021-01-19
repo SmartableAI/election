@@ -159,6 +159,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to propose 8-year citizenship path for immigrants"
+    excerpt: "WASHINGTON -- President-elect Joe Biden plans to unveil a sweeping immigration bill on Day One of his administration, hoping to provide an eight-year path to citizenship for an estimated 11 million people living in the U."
+    publishedDateTime: 2021-01-19T02:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-propose-year-citizenship-path-immigrants-75332889"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-propose-year-citizenship-path-immigrants-75332889"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-propose-year-citizenship-path-immigrants-75332889"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5b03a16b14cc4d7686f5243d7b265933_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden, filling out his government, to name five women as deputy secretaries"
     excerpt: "The women Biden plans to nominate as deputies at the Departments of Agriculture, Transportation, Health and Human Services, Interior and Education could help shore up the vulnerabilities of some of the Cabinet secretaries they will serve."
     publishedDateTime: 2021-01-18T11:18:00Z

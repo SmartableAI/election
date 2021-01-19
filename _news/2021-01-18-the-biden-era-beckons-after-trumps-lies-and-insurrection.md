@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 1230
+heat: 1250
 published: true
 
 provider:
@@ -268,6 +268,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210117191815-trump-oval-office-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How Trump allies stoked the flames ahead of Capitol riot "
+    excerpt: "Steve Bannon evoked the beaches of Normandy. Michael Flynn drew comparisons to Civil War battlefields and spoke of Americans who died for their country. Roger Stone called it a struggle \"between the godly and the godless, between good and evil.\" Rudy Giuliani called for \"trial by combat.\" Ali Alexander"
+    publishedDateTime: 2021-01-19T02:34:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VhAWVa0z5qM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/trump-bannon-stone-giuliani-capitol-riot-invs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/trump-bannon-stone-giuliani-capitol-riot-invs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118164826-trump-rally-capitol-riots-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

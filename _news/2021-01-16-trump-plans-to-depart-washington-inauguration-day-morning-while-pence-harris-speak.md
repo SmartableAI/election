@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-plans-depart-washington-in
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643"
 type: article
 quality: 158
-heat: 2138
+heat: 2158
 published: true
 
 provider:
@@ -759,20 +759,20 @@ related:
         height: 336
         isCached: true
   - title: "Mike Pence calls Kamala Harris to offer congratulations"
-    excerpt: "It’s the first known contact between the elected members of the outgoing and incoming administrations. President Donald Trump has not reached out to President-elect Joe Biden and has repeatedly questioned the legitimacy of Biden’s win."
-    publishedDateTime: 2021-01-16T01:25:00Z
-    webUrl: "https://chicago.suntimes.com/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
+    excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-16T06:05:00Z
+    webUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations"
+    ampWebUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations/amp"
+    cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations/amp"
     type: article
     provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
+      name: The Oklahoman
+      domain: oklahoman.com
     quality: 100
     images:
-      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://cdn2.newsok.biz/cache/1280x720_blur-95d4cd09934c1de7935d5144c353acbf.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Pence Calls VP-Elect Kamala Harris to Offer Congratulations"
     excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
@@ -863,6 +863,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_982bd6f39d8176d926a35de2b32bfd51-h_16ae4b24c5b25e70b3b25aaa73a4c7ca.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Kamala Harris prepares for central role in Biden's White House"
+    excerpt: "Kamala Harris is shaping up to be a central player in addressing everything from the coronavirus pandemic to criminal justice reform."
+    publishedDateTime: 2021-01-19T00:06:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/kamala-harris-prepares-for-central-role-in-bidens-white-house/"
+    ampWebUrl: "https://www.pressdemocrat.com/article/news/kamala-harris-prepares-for-central-role-in-bidens-white-house/amp/"
+    cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/kamala-harris-prepares-for-central-role-in-bidens-white-house/amp/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 90
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=54a7d1b5-2bd9-56c5-ac99-52959e1623ff&type=primary&q=72&width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
@@ -1426,9 +1442,9 @@ related:
         height: 600
         isCached: true
   - title: "Kamala Harris to resign from Senate"
-    excerpt: "Senate on Monday, according to a Harris aide. The California Democrat’s resignation will come two days before she becomes the nation’s first female vice president, and the first person of color to hold that office."
+    excerpt: "Vice President-elect Kamala Harris will resign from the Senate on Monday, according to a Harris aide. The California Democrat’s resignation will come two days before she becomes the nation’s first female vice president,"
     publishedDateTime: 2021-01-18T18:30:00Z
-    webUrl: "https://www.sfexaminer.com/national-news/kamala-harris-to-resign-from-senate/"
+    webUrl: "https://www.sfexaminer.com/home/kamala-harris-to-resign-from-senate/"
     type: article
     provider:
       name: San Francisco Examiner

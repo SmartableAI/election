@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Mike Pence calls Kamala Harris to offer congratulations"
-excerpt: "It’s the first known contact between the elected members of the outgoing and incoming administrations. President Donald Trump has not reached out to President-elect Joe Biden and has repeatedly questioned the legitimacy of Biden’s win."
-publishedDateTime: 2021-01-16T01:25:00Z
-originalUrl: "https://chicago.suntimes.com/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
-webUrl: "https://chicago.suntimes.com/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
-ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
-cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
+excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
+publishedDateTime: 2021-01-16T06:05:00Z
+originalUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations"
+webUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations"
+ampWebUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations/amp"
+cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations/amp"
 type: article
 quality: 100
 heat: -1
 published: false
 
 provider:
-  name: Chicago Sun-Times
-  domain: suntimes.com
+  name: The Oklahoman
+  domain: oklahoman.com
 
 topics:
   - Election
@@ -22,9 +22,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://cdn2.newsok.biz/cache/1280x720_blur-95d4cd09934c1de7935d5144c353acbf.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -860,6 +860,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Kamala Harris prepares for central role in Biden's White House"
+    excerpt: "Kamala Harris is shaping up to be a central player in addressing everything from the coronavirus pandemic to criminal justice reform."
+    publishedDateTime: 2021-01-19T00:06:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/kamala-harris-prepares-for-central-role-in-bidens-white-house/"
+    ampWebUrl: "https://www.pressdemocrat.com/article/news/kamala-harris-prepares-for-central-role-in-bidens-white-house/amp/"
+    cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/kamala-harris-prepares-for-central-role-in-bidens-white-house/amp/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 90
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=54a7d1b5-2bd9-56c5-ac99-52959e1623ff&type=primary&q=72&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
     publishedDateTime: 2021-01-17T10:17:00Z
@@ -1422,9 +1438,9 @@ related:
         height: 600
         isCached: true
   - title: "Kamala Harris to resign from Senate"
-    excerpt: "Senate on Monday, according to a Harris aide. The California Democrat’s resignation will come two days before she becomes the nation’s first female vice president, and the first person of color to hold that office."
+    excerpt: "Vice President-elect Kamala Harris will resign from the Senate on Monday, according to a Harris aide. The California Democrat’s resignation will come two days before she becomes the nation’s first female vice president,"
     publishedDateTime: 2021-01-18T18:30:00Z
-    webUrl: "https://www.sfexaminer.com/national-news/kamala-harris-to-resign-from-senate/"
+    webUrl: "https://www.sfexaminer.com/home/kamala-harris-to-resign-from-senate/"
     type: article
     provider:
       name: San Francisco Examiner
@@ -1517,6 +1533,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "z98KBJqZ7sDUefXNSFnteFuyBsyyhw/wj8aJjTshtIIRzSmj2HUIoa6hdYh1tK+F9kv9tqMPpkniJHJaSYgaPrLjUlHg2NWRnxszL/mUFJ8c9DFnSPu9XZK7ArAmDd+xgOtYAKArVhz4He76hVzjJKQXJbKmIe3SF90DPeflfofbvZ8DQ2BPXdoMnznnZfHSMECNXIuJuMH3VPfsEJpvL/DK5WyuSdUtsMTfVtmETOLc1l1l3YlXjauzEjlSRy+kwzow8ESIhdBQP2zfZU29Sow/3I+fYV7VcTS4QN3SOPF+oYuFLM4HksGUxiqcXjqZKD8B8fVe3FxkhS0P5dL5n2ORvsuB+KJPpMTLZeZ/IO5idd9vP5HgorV8GUsPlN1m7QE2Z23X+m5VI1k3JpK9qdpDWw5zqFFrgdomRDy2Vq8SODcnujfYJ5XuMJy4SC/fsEeAlTTw+s16w1ZsM/9iu3niSqB6jSovVMCPVoRjn8CuqKrtR46YH06/pgw0bGZ8zx3/1XvZG5wO+JRXS7cR4g==;pYnUiWnpiH+hD5P2f15BoA=="
+secured: "lWyi2fymvKCkFFBMPl4fr1nafI5KlHT1mqU06qObdBZbMybjgGJ+LLr+M594e7NFMbvj7lKO26K/UoeXLSFZ3OR7ZhgaOxRjlYyPeRT8iUlq266vLhsNmRmkDsLKCoiWvGnmxOCP0Dt9/C0Fmoym5m0RcI3j7fffvf7ri52FYDcYHgDADAlj1iNZxQw6jrx/s9SGivRKcEhsE/RnWw0NJUXR25vxcETeSFhvArpssy033p+2gYpfJAu+puUXpbuN/kVdm8ryhIAjadEYN3EVW6JLMk7S+dPcERhVr+yXfeX/Qd2xlgZwjZUb3L8JnIdTgLSeWpLA6bSZxN84wx+JSxzKcM90pBKVmVuIQPz7+lI=;HGURuELFXlJzGODOwC5CcQ=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-impeachment-ca
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html?outputType=amp"
 type: article
 quality: 112
-heat: -1
-published: false
+heat: 152
+published: true
 
 provider:
   name: Chicago Tribune
@@ -31,65 +31,33 @@ images:
     isCached: true
 
 related:
-  - title: "Small group of Pro-Trump protesters, some armed, quietly gather in Carson City near capitol"
-    excerpt: "A small group of protesters have gathered in Carson City near the Nevada state Capitol. Check back here for live updates throughout the day."
-    publishedDateTime: 2021-01-16T22:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/2021/01/16/carson-city-protest-live-coverage-nevada-capitol/4184756001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4184756001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4184756001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/16/PREN/52f86d3b-ff52-4b49-8f0e-92801026d8d7-REN_CARSON_PROTEST_011621_05.jpg?auto=webp&crop=1477,831,x0,y74&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "A quiet Sunday: Pro-Trump protests largely unrealized at Colorado Capitol, in other states"
-    excerpt: "As President-elect Joe Biden's Wednesday inauguration approaches, federal, state and local law enforcement agencies have braced for possible violence."
-    publishedDateTime: 2021-01-17T23:26:00Z
-    webUrl: "https://www.usatoday.com/story/news/2021/01/17/live-updates-monitoring-colorado-capitol-protests-jan-17/4196764001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4196764001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4196764001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/17/PFTC/c501bffb-1284-4718-9be1-98477efcc50d-290169B6-DF62-4134-B61F-ACE89E9F9C56.jpeg?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "U.S. state capitals gird for pro-Trump armed protests, FBI flags risk of violence"
-    excerpt: "Protesters are expected to descend on statehouses across the United States on Sunday in support of baseless claims that electoral fraud robbed President Donald Trump of a second term, as law enforcement officials girded for possible violence."
-    publishedDateTime: 2021-01-17T13:43:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-protests/us-state-capitals-gird-for-pro-trump-armed-protests-fbi-flags-risk-of-violence-idUSKBN29M048"
+  - title: "Trump may turn to Giuliani again to defend against impeachment"
+    excerpt: "President Donald Trump may turn to Rudy Giuliani to defend him against possible impeachment over his role in last week’s violent siege of the U.S. Capitol, according to two people familiar with the matter."
+    publishedDateTime: 2021-01-11T07:11:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-lawyers-idUKKBN29F0NB"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 100
+    quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548089624&r=LYNXMPEH0G03L&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547312528&r=LYNXMPEH090GM&w=800"
         width: 800
         height: 533
         isCached: true
-  - title: "'It was a non-event': Pro-Trump protests quiet amid massive police presence across U.S."
-    excerpt: "Law enforcement officers far outnumbered protesters at state capitol grounds on Sunday, as few Trump supporters who believe the president's false claim that he won the 2020 election turned out for what authorities feared could be violent demonstrations."
-    publishedDateTime: 2021-01-18T06:37:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/us-state-capitals-see-few-protesters-after-bracing-for-violent-demonstrations-idUSKBN29M046"
+  - title: "Murdoch Empire Calls Time On Trump But Tries To Keep His Base Onside"
+    excerpt: "The storming of the US Capitol has triggered Rupert Murdoch's media empire to call time on Donald Trump, with The Wall Street Journal saying the president should resign and even acolytes on Fox News telling viewers he has reached the end of his shelf life."
+    publishedDateTime: 2021-01-08T22:15:00Z
+    webUrl: "https://www.ibtimes.com/murdoch-empire-calls-time-trump-tries-keep-his-base-onside-3117716"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 97
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548124964&r=LYNXMPEH0G0GQ&w=800"
-        width: 800
-        height: 533
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/northwestern-university-professor-jon-marshall-says-now-that.jpg"
+        width: 1024
+        height: 708
         isCached: true
 
 secured: "6IH9teN4u/oHn91qF8O8FBbkLkQ53yV/QQz6SsG/rQTdSthvu0qPbOzQiPnvlbyNfb3R1SnPCf7YywS4V+Ypo02bw8Pib7zd8L4kaJgM/pKwaRfiu+hxDG3/sQCtf6uumKWQDDZxHAGn/zpRixDUc6ZyUGqiZ3cpqERA+4VaqgJIAYxTmafC581eqR+gUwclkAKvmRC1+43bTubGcER8HBilwzAqlegHrm6lTeq9GcFcZmSgF3PUN0CvxHc9J/1pRYsybWwE8qchwAJhKDmnn5BxIzYgW0buDgOcVKMYO2cj4hzUlFHHrInN1MHhrXmHNNuZOvTrNOsu4LifMwVcM0LTKXkeK0NzYGGka+wbyd+rD6i4QbVkBBi24u+1gDh5ynfHBcRmTELmwIMYCbd9cpTowthUGmDKcHzjZJe3k7xqNzEUqweumU/rxeC/8bDma4xvhmsmPGtrIZZ1lIMQFuGKskXplLjuXmTFmn6dPZl1+zo2VGToIPazSVBODsKmn6/2x81FwPMrWEBt+OVTmQ==;bxPVFCAAXySRyX2JijlrgA=="

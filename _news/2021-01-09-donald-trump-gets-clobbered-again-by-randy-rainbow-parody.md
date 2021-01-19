@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump may turn to Giuliani again to defend against impeachment"
-    excerpt: "President Donald Trump may turn to Rudy Giuliani to defend him against possible impeachment over his role in last week’s violent siege of the U.S. Capitol, according to two people familiar with the matter."
-    publishedDateTime: 2021-01-11T07:11:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-lawyers-idUKKBN29F0NB"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547312528&r=LYNXMPEH090GM&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Donald Trump impeached again – now what? Politics Weekly Extra"
     excerpt: "Jonathan Freedland speaks to Harvard law professor Noah Feldman about the potential next steps after Donald Trump was impeached for a second time"
     publishedDateTime: 2021-01-14T13:30:00Z
@@ -55,22 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump Impeachment Again? Ocasio-Cortez Wants It, But Democrats Say 'No'"
-    excerpt: "Cortez calls for Trump's impeachment following the leaked audio recording Omar also believes Trump's actions warranted impeachment Other progressives believe there is no time for an impeachment hearing Democratic Rep."
-    publishedDateTime: 2021-01-06T03:55:00Z
-    webUrl: "https://www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253"
-    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253?amp=1"
+  - title: "Trump impeachment: after term is over, is there precedent? You asked, we answered."
+    excerpt: "Trump impeachment: is impeachment after term is over a possibility? What's the precedent? Your impeachment questions, answered on States of America."
+    publishedDateTime: 2021-01-16T06:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/statesofamerica/2021/01/15/trump-impeachment-after-term-over-precedent/4179295001/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/alexandria-ocasio-cortez-the-darling-of-the-us.jpg"
-        width: 1024
-        height: 573
-        isCached: true
+      name: USA Today
+      domain: usatoday.com
+    quality: 79
 
 secured: "BvKf8Wvm9TloXtMk0jvWs9JeB8ST5ONAYGBJzCcjlSXp1iA3kd/WJZE5JSSetuBn8b7sHCHc5WdhlgL5u2GD/raSlI2KljgNQcDk8IKYLBkNLX2HwuXYz62OXn+udmH4cF6QlUiKLCZOty8Jehlt4XaixgNVqDH8Apvr2f+6SFJi+NP2HN0Y37oVMw8c/yZhosZ9w0WrJ1PHBHlevsxcruNy6mlUHNSSNe2VLrt/5g00cy2kme8/u67uQ1O6lD1AivcXVQP0rOD+sD+qsCX1f3EqxVzbUVR6KwIgvEeIq/+ZESr3NI33nNbx1hp/XHyMSKjXNm/SUvb/aZSlBJWp7udrHgLujg47i5Aml8qLuVI=;hLRmdsl/ErT/gx1U3/b/aQ=="
 ---

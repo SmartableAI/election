@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-slams-sen-tim-scott-opposing-donald-trumps-impeachment-its-necessary-healing-3120317?amp=1"
 type: article
 quality: 61
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1024
     height: 684
     isCached: true
-
-related:
-  - title: "Trump impeachment: after term is over, is there precedent? You asked, we answered."
-    excerpt: "Trump impeachment: is impeachment after term is over a possibility? What's the precedent? Your impeachment questions, answered on States of America."
-    publishedDateTime: 2021-01-16T06:39:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/statesofamerica/2021/01/15/trump-impeachment-after-term-over-precedent/4179295001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 79
 
 secured: "kX1rtv/HwpICRxUIfHYrGVS1JBXwDVI/KUF+4NTrUadFwYL3ReeY7cNHCN/HIybLuZUG1lzFj1f00IPAS6/fJ5BS80oNJPL/1RLpPVfI9GjTq+Qf2E0UFGbnUiTx0gqFdxjXUiFtaN1efYilAxW46igOsZeB3Zos1VPZkDh2nTRHtGNsFKpRdVbv3HkyH6RyjQHxDIDBSkEk4n+CCyhHXp0bV9ACB+8cOvKusSEzGBtqav12E+RnY0WRtdi2++W1gYnfOGqLfYPlnZZC3b1QlzlN7IUhvZJkw0e7rHTcs69d3kwmG8SDtCrHGCeTm24PLNra9P+n6A+6MQ0RXRkPXNBX4VFfieG/PcVcddMpPR32GCWjrf1LyyPDMWMPtsO4YiBd55ihDsCAoB+iebPP2ieC42NxCU6gvgxiUj3lLyiPbDYpQo37UNTxC7YzgP2wIn9TPQ69LxtWA85AxW17kyLkwqoCcWshiyZAN3mSiJL+tRDi6h9CVBrqXg/e5C1AwI1jX7sAUlrbB3ojEvSelQ==;GWbY1gVDu1vBWrxBkEKKjQ=="
 ---

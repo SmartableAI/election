@@ -175,6 +175,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden, Donald Trump Battle Over COVID Travel Bans as Contentious Transition Draws to a Close"
+    excerpt: "Trump signed an order on Monday lifting some COVID-19 travel bans. A spokesperson for Biden immediately said the incoming Administration does not intend to do that."
+    publishedDateTime: 2021-01-19T02:42:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-donald-trump-battle-over-covid-travel-bans-contentious-transition-draws-close-1562474"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-donald-trump-battle-over-covid-travel-bans-contentious-transition-draws-close-1562474?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-donald-trump-battle-over-covid-travel-bans-contentious-transition-draws-close-1562474?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 127
+    images:
+      - url: "https://d.newsweek.com/en/full/1710516/biden-trump-debate-stage.jpg"
+        width: 2500
+        height: 1733
+        isCached: true
   - title: "Business grows skittish about Trump and GOP after riots"
     excerpt: "Corporate America is quickly distancing itself from President Donald Trump and his Republican allies, with many of the biggest names in business — Goldman Sachs, Coca Cola, Ford, and Blue Cross Blue Shield — suspending political donations after a Trump-inspired mob ransacked the U."
     publishedDateTime: 2021-01-11T22:09:00Z
@@ -729,6 +745,34 @@ related:
         width: 800
         height: 609
         isCached: true
+  - title: "Progressives pressure Biden to reform Senate filibuster"
+    excerpt: "Several progressive left-wing groups are urging President-elect Joe Biden to alter or eliminate the Senate filibuster. The procedure allows for lawmakers to delay or block votes on legislation by burying proposals in endless debate."
+    publishedDateTime: 2021-01-19T01:16:00Z
+    webUrl: "https://www.cbsnews.com/video/progressives-pressure-biden-to-reform-senate-filibuster-analysis-adam-jentleson/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/19/eb5128f9-d8ea-4f7d-9330-1c18953fc3ea/thumbnail/1200x630/0d2d0accf57c3b68cb0c2ccf91638646/cbsn-fusion-progressives-pressure-president-elect-joe-biden-to-reform-senate-filibuster-thumbnail-628964-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Rehearsing Joe Biden's inauguration"
+    excerpt: "A general view of preparations prior to a dress rehearsal for President-elect Joe Biden's Presidential Inauguration at the U.S. Capitol, in Washington. Jeenah Moon/Pool via REUTERS"
+    publishedDateTime: 2021-01-19T02:56:00Z
+    webUrl: "https://www.reuters.com/news/picture/rehearsing-joe-bidens-inauguration-idUSRTX8NABC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210118&t=2&i=1548239955&w=&fh=545&fw=810&ll=&pl=&sq=&r=2021-01-18T215605Z_38130_MRPRC2JAL9OCCIE_RTRMADP_0_USA-BIDEN-INAUGURATION"
+        width: 810
+        height: 540
+        isCached: true
   - title: "Outgoing Trump admin mulls industry-wide biofuel waiver for oil refiners"
     excerpt: "The Trump administration is considering requests from the oil refining industry and its backers for a sweeping nationwide waiver to exempt them from their obligations to blend biofuels, a measure they argue would help them weather the economic impact of the coronavirus"
     publishedDateTime: 2021-01-16T00:32:00Z
@@ -829,6 +873,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Trump Lifts COVID-19 Travel Bans On Europe, UK; Biden Says 'No'"
+    excerpt: "U.S. citizens who have traveled to Brazil and Europe, including the U.K., within the last 14 days from entering the country."
+    publishedDateTime: 2021-01-19T00:20:00Z
+    webUrl: "https://www.ibtimes.com/trump-lifts-covid-19-travel-bans-europe-uk-biden-says-no-3124946"
+    ampWebUrl: "https://www.ibtimes.com/trump-lifts-covid-19-travel-bans-europe-uk-biden-says-no-3124946?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-lifts-covid-19-travel-bans-europe-uk-biden-says-no-3124946?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 90
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/19/air-france-has-decided-to-take-its-a380.jpg"
+        width: 1024
+        height: 680
+        isCached: true
   - title: "Biden is raising tens of millions of dollars for his inauguration but won't say where the money is going"
     excerpt: "Biden is raising tens of millions of dollars for the inaugural celebrations, including from corporate giants with big business before the federal government."
     publishedDateTime: 2021-01-17T00:10:00Z
@@ -858,6 +918,22 @@ related:
       - url: "https://www.baltimoresun.com/resizer/uc7JsXO_wNaKxuBank7JHQYgerU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4GOQL42XQBC6VEXMWNCTVGDZKU.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump lifts UK, Ireland and Brazil COVID travel restrictions; Biden pushes back"
+    excerpt: "President-elect Joe Biden’s incoming White House press secretary says his administration does not intend to lift coronavirus travel restrictions for Europe, the U.K., Ireland and Brazil. The message from Jen Psaki came Monday evening after the White House said President Donald Trump had lifted the restrictions for those countries,"
+    publishedDateTime: 2021-01-19T00:11:00Z
+    webUrl: "https://www.al.com/news/2021/01/trump-lifts-uk-ireland-and-brazil-covid-travel-restrictions-biden-pushes-back.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/trump-lifts-uk-ireland-and-brazil-covid-travel-restrictions-biden-pushes-back.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-lifts-uk-ireland-and-brazil-covid-travel-restrictions-biden-pushes-back.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 86
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JMGXV76SHZDVFIJN6CQA4GX5WM.jpg"
+        width: 5371
+        height: 3581
         isCached: true
   - title: "Tom Hanks Hosted Inauguration Special Sees Comparison of Joe Biden, Donald Trump Supporters"
     excerpt: "An inauguration special for Joe Biden has drawn comparisons to the kind of celebrities who are showing support for him over Donald Trump."
@@ -1053,6 +1129,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Key Dates Of The Trump Presidency"
+    excerpt: "Here are some of the main dates punctuating Trump's political career: January 25, 2017: Trump signs an executive order ordering construction to begin on the wall he promised to build on the southern US border with Mexico,"
+    publishedDateTime: 2021-01-19T00:55:00Z
+    webUrl: "https://www.ibtimes.com/key-dates-trump-presidency-3125025"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/21/us-president-donald-trump-steps-into-the-northern.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Here are 3 immediate goals for Joe Biden as he prepares to lead a nation in crisis"
     excerpt: "When Joe Biden is inaugurated Wednesday as the 46th president of the United States, he’ll face a nation torn by deep political and social divisions, and"
     publishedDateTime: 2021-01-18T11:15:00Z

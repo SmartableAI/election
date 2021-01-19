@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden administration teases small taste of immigration plan"
+    excerpt: "Kamala Harris said the administration plans to create \"greater efficiencies\" to streamline the naturalization process, including decreasing the amount of time required to acquire U.S. citizenship from 13 years to eight years, offering certain members of the Temporary Protected Status and Deferred Action"
+    publishedDateTime: 2021-01-19T01:55:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E3J4FoZc-GA/kamala-harris-teases-small-taste-of-biden-admins-immigration-plan"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-teases-small-taste-of-biden-admins-immigration-plan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-teases-small-taste-of-biden-admins-immigration-plan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9ce4f99-f048-4650-b07d-abbe98b0908b/b31cedcf-da83-4887-9a7c-9811fc063b77/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "25,000 National Guard troops deployed to Capitol as Biden inauguration looms"
     excerpt: "Officials have boosted the number of National Guard members deployed in Washington, D.C., in the run-up to President-elect Joe Biden's inauguration next week to 25,000, an increase of 25 percent."
     publishedDateTime: 2021-01-16T18:26:38Z

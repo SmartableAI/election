@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-biden-administration-eternal-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-administration-eternal-vigilance-in-standing-up-to-china.amp"
 type: article
 quality: 193
-heat: 393
+heat: 413
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d30a00f7-29be-46f5-a285-0cb62decae44/5efe6061-f58a-47ab-9806-a8dd67a06224/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden administration teases small taste of immigration plan"
+    excerpt: "Kamala Harris said the administration plans to create \"greater efficiencies\" to streamline the naturalization process, including decreasing the amount of time required to acquire U.S. citizenship from 13 years to eight years, offering certain members of the Temporary Protected Status and Deferred Action"
+    publishedDateTime: 2021-01-19T01:55:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E3J4FoZc-GA/kamala-harris-teases-small-taste-of-biden-admins-immigration-plan"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-teases-small-taste-of-biden-admins-immigration-plan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-teases-small-taste-of-biden-admins-immigration-plan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9ce4f99-f048-4650-b07d-abbe98b0908b/b31cedcf-da83-4887-9a7c-9811fc063b77/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
