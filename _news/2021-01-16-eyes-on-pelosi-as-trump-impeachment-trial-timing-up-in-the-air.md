@@ -45,6 +45,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump decree on Covid visitors rebuffed as he enters final day"
+    excerpt: "US President-elect Joe Biden has moved to dismiss a new White House decree on Covid travel rules, as Donald Trump enters his final full day in office. In one of his last orders, Mr Trump had tried to end travel bans for visitors from much of Europe and Brazil."
+    publishedDateTime: 2021-01-19T10:05:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55713570"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55713570"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55713570"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/12211/production/_116575247_mediaitem116575246.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Prosecutors have \"mounting amount of evidence\" against Trump, Michael Cohen says"
     excerpt: "\"What he is right now is very, very nervous and he is very scared,\" the president's former personal attorney told CBSN."
     publishedDateTime: 2020-12-24T18:44:00Z

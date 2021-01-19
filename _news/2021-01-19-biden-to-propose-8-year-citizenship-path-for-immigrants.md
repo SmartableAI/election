@@ -3,10 +3,10 @@ category: news
 title: "Biden to propose 8-year citizenship path for immigrants"
 excerpt: "WASHINGTON -- President-elect Joe Biden plans to unveil a sweeping immigration bill on Day One of his administration, hoping to provide an eight-year path to citizenship for an estimated 11 million people living in the U."
 publishedDateTime: 2021-01-19T02:37:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-propose-year-citizenship-path-immigrants-75332889"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-propose-year-citizenship-path-immigrants-75332889"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-propose-year-citizenship-path-immigrants-75332889"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-propose-year-citizenship-path-immigrants-75332889"
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-propose-year-citizenship-path-immigrants-75335660"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-propose-year-citizenship-path-immigrants-75335660"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-propose-year-citizenship-path-immigrants-75335660"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-propose-year-citizenship-path-immigrants-75335660"
 type: article
 quality: 125
 heat: -1
@@ -347,6 +347,6 @@ related:
         height: 675
         isCached: true
 
-secured: "pSh5QyAOalDToqhpOWqKBQxGItuBTQ8P9Br1UQ1w6uW2KSPODkGpGOFFglEONa2h938IOzQbWTQ/dM1R0P5d6I3Gdb7pbHUC8ZgziCmck+eBTKDn0EinA4mWqIGfNVy1iulQpWE+nXFF+iFsA0mTzXOEjwuSkHLe+Z08yrJTKsns45p3XICUnj7kRpP++WnJQcD+T5Pg17/2h1SOxrToZymkIj0J7/A2nGdY5nSXyAthg+rVMN50ztO4+am6JEHvbqRvOj0OyDKxSZmKAiHnFcS1cpypOgWT6D4Q08ei5HWUXcRzHlKkGwuAdWfhcFCEMy7eURR2VP5Dy5+oZXyDLLgtUnFj7urBUXlTxaIeTFE/VqaLy0Gi6VY1pekhgyExuJMwqmW8VfxkY5TdMHaqNX9sZX7RrksF6iYHyHL1qwM6jowJfuZVWuhsRR4OWTxuT2pJlr5nMLITw/Yrc5dgwf0BxZ+qRWtgLqBJFlwknLtPeF3+P/qzZJ1MSxqJ+KC1DZenEZGljm3G1KpBcIqtSg==;77Z1hGEconj1CbCKOhxUPg=="
+secured: "qssV9z8ZV1pXKWS93T5eI20hLMAcH/49o65fvTv+8o+CpXBFSaoTLwEohEEn74Ijs8ZaL56sWcrdxYD0W53Lw3Q+m6lhHze8wlvD8j1OCLc+XKlknpUHGcc9tazzkVgi8upW5sM3lF05WfP6IStNxk7I8sW6VamOckeeyFgp1GKry+JI2GimMXdh/7o8c6CJ9yc0jZkcBy9H2aLsZWTP6IM8px9cj2r/Gv1pC2YcclkxGjcZGxrAL8sUBTRYorgJj+cDkQiDXbE8EbPcjuwnBoPS3LnN+l0bLWIuO+i+0KE6ulF587BEjlfrthB6LLXY9OiBzQ2tFNPyT49nZx0jSf0vSTTtf5DFg4Xp9tWKGtk=;VQoNPcwVJ29Xha0Kp0nMdA=="
 ---
 

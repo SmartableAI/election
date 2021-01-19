@@ -891,6 +891,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "How the First Day of the Trump Presidency Foreshadowed The Four Years to Come"
+    excerpt: "President Donald Trump and first lady Melania Trump walk along the inauguration day parade route on Pennsylvania Avenue after he was sworn in as the 45th President of the United States in Washington."
+    publishedDateTime: 2021-01-19T09:30:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/01/19/trump-2017-inauguration-presidency-460248"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 112
+    images:
+      - url: "https://static.politico.com/47/1f/5e33362442faa15a685d4510461c/20210118-trump-inauguration-day-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "Zr56TFR1/9FNNRSOn7igJuXeOhJ2iFUK9cRlsX1UnFzO+Skd7s307CZz2coNyJTOqpHVq5sub9UGjar2bHksGzIGxRuUfeJUZ6RdZ+NVyTGPwQliWZY4j+WYn4bjHZGPXoGtqdo/HtlhP48XPx7Si82EHE58/rajyYqW3IV38a0Ppre9Uowpswbd5i4YCsy5g2QF+yBBoLYPfRmJxAeMVxa9+6Y+m2402KrT2edQbHzNnahicPeKDJr6TUUkw8h8ix/syqpCDoP/OPqWKNAbDlMjLesqjj4M/0A8LjVeml9uxeotw/t8NAIoZozIQ3l81oECnEV046GbHh+whXVJKuYD2eHbU93SQ3kDAoCP7as=;wvBaLKToDH2EEizQoTSIgQ=="
 ---

@@ -31,8 +31,8 @@ images:
 related:
   - title: "Trump clemency likely for Lil Wayne, no pardons for Giuliani or Bannon: sources"
     excerpt: "U.S. President Donald Trump is likely to grant clemency to rapper Lil Wayne on Tuesday in a final wave of pardons and commutations that is not expected to include lawyer Rudy Giuliani or ex-aide Steve Bannon,"
-    publishedDateTime: 2021-01-19T08:14:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-pardons/trump-clemency-likely-for-lil-wayne-no-pardons-for-giuliani-or-bannon-sources-idUSKBN29O085?post"
+    publishedDateTime: 2021-01-19T08:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pardons-idUSKBN29O085"
     type: article
     provider:
       name: Reuters

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-election-legal-team-takes-vic
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-election-legal-team-takes-victory-lap-praises-help-from-unions-nonprofits.amp"
 type: article
 quality: 185
-heat: 745
+heat: 765
 published: true
 
 provider:
@@ -444,6 +444,20 @@ related:
       - url: "https://assets.realclear.com/images/53/532403_5_.jpeg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Rahm Emanuel: Biden Has Four Unprecedented Crises, Four Unprecedented Opportunities"
+    excerpt: "Former Chicago mayor and former Obama chief of staff Rahm Emanuel comments on the opportunities presented to the Biden administration in the wake of four unprecedented crises, during ABC's \"This Week\" roundtable on."
+    publishedDateTime: 2021-01-19T09:23:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/17/rahm_emanuel_biden_has_four_unprecedented_crises_therefore_four_unprecdecented_opportunities.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 59
+    images:
+      - url: "https://assets.realclear.com/images/50/503567.jpg"
+        width: 500
+        height: 375
         isCached: true
   - title: "Biden's Stimulus Plan Will Harm Those Who Need Most Help"
     excerpt: "If you thought help for the coronavirus was on the way, think again. President-elect Joe Biden's plan to provide economic relief is going to cause a lot of pain and waste a lot of money on people who do not need it."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donal
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1"
 type: article
 quality: 148
-heat: 1728
+heat: 1748
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WJOLZXCTQUI6XLGFSLJIDGQ4ZM.jpg&w=1440"
         width: 1440
         height: 1166
+        isCached: true
+  - title: "Biden inauguration: Donald Trump's last full day as US president - live updates"
+    excerpt: "President expected to issue 100 pardons as Covid cases reach 24 million"
+    publishedDateTime: 2021-01-19T09:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates?page=with:block-6006a21a8f08c87d5e8187ca"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 136
+    images:
+      - url: "https://i.guim.co.uk/img/media/349cf390f7ee82d8b05877b1afe2ef02adee9b0c/0_21_3500_2103/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f921214b6862d3e3e1496caec896798"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden aims for new course on trade, breaking with Trump and Democratic predecessors"
     excerpt: "Biden will confront the same question that has bedeviled U.S. policymakers for three decades: How can the U.S. shape for maximum benefit its overseas commercial engagements?"

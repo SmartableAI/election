@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/vice-president-pence-thanks-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/vice-president-pence-thanks-us-troops-at-fort-drum/2021/01/17/810ee532-592b-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://dailygazette.com/wp-content/uploads/2021/01/F17B52F9-8260-4B12-8D19-897752A73958.jpeg"
         width: 939
         height: 563
+        isCached: true
+  - title: "'Man without a home.' What the future may hold for Vice President Mike Pence"
+    excerpt: "After four years of steadfast loyalty to Trump, Pence is said to be open to a 2024 run, but his rift with the president may close off that option."
+    publishedDateTime: 2021-01-19T10:17:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 52
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?crop=3276,1843,x0,y166&width=3200&height=1680&fit=bounds"
+        width: 2986
+        height: 1680
         isCached: true
   - title: "Hear Vice President Mike Pence’s comments at Lemoore Naval Air Station"
     excerpt: "As his final days as vice president come to a close, Mike Pence shared some thoughts on the Trump administration's accomplishments during a stop at Lemoore Naval Air Station on Saturday."

@@ -770,20 +770,20 @@ related:
         height: 336
         isCached: true
   - title: "Mike Pence calls Kamala Harris to offer congratulations"
-    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
-    publishedDateTime: 2021-01-15T19:14:00Z
-    webUrl: "https://www.stltoday.com/article_86e08ee6-00c5-5d13-bfeb-28c90d473a34.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/article_86e08ee6-00c5-5d13-bfeb-28c90d473a34.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/article_86e08ee6-00c5-5d13-bfeb-28c90d473a34.amp.html"
+    excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-16T06:05:00Z
+    webUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations"
+    ampWebUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations/amp"
+    cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations/amp"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: The Oklahoman
+      domain: oklahoman.com
     quality: 100
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/c/74/c7455c4b-4601-57a6-91b1-2d62525d62c1/6001e6ff4922f.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
+      - url: "https://cdn2.newsok.biz/cache/1280x720_blur-95d4cd09934c1de7935d5144c353acbf.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Pence Calls VP-Elect Kamala Harris to Offer Congratulations"
     excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
@@ -1213,17 +1213,17 @@ related:
         isCached: true
   - title: "Kamala Harris officially resigns from the US Senate ahead of inauguration"
     excerpt: "Vice President-elect Kamala Harris has formally submitted a letter of resignation for her US Senate seat to California Gov. Gavin Newsom, ending her four-year career in the chamber."
-    publishedDateTime: 2021-01-18T16:50:00Z
-    webUrl: "https://www.mercurynews.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/"
-    ampWebUrl: "https://www.mercurynews.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/amp/"
+    publishedDateTime: 2021-01-18T16:49:00Z
+    webUrl: "https://www.ocregister.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/"
+    ampWebUrl: "https://www.ocregister.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/amp/"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
+      name: Orange County Register
+      domain: ocregister.com
     quality: 74
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_b4c4004e4b0055dc58e440bfd2a392ef-h_82beb05c66e5b687c55d48020bcb0ebb.jpg?w=1024&h=726"
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/01/hypatia-h_b4c4004e4b0055dc58e440bfd2a392ef-h_82beb05c66e5b687c55d48020bcb0ebb-1.jpg?w=1024&h=726"
         width: 1024
         height: 726
         isCached: true
@@ -1564,6 +1564,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "QjF0oWQnVqNtj9uyeVcAa5HohmZv+n4OSB1IGlrYztIo6U3JlZNttVDR4pV0y7nJOUPzO9SS9PsDLPb+8+DSA1oYo/X4EM0VixWwJmOA5eHgLOmaw0grZkhb2a+vZlJwIbioaTel60SIR0b9KMuVKbTOb/dkKX8H6OpVdUko5kdjLNIqza0Fu4mEJlzcDv0rY4D/s5cTs3/2UlOac32587GXoGm4VOgm7P1RCGEOnRDaGeOUhbXrl0aTpw7UzySQ6pKLxN9EhYX0t23u5hOffLfg5U4wE5xThUC7xQe6Ysv65TDjhxTND5uInB3TQRVtrbXdKQL0sWFYC5wWD7vbD+6p6bIqea9n4Qs/PfteKj4=;ZrhlE2BpuTkL+2UjLiZVQg=="
+secured: "K1j9jITD3epGEKnjIvm9+IsHRbp+bu3Umuj4PzMdZlkroJVEl2CEK+DoOMPBv33DD8vbobwL98r/8dj6hUqDSpnJ+H0qXfJoSM/7WnqQ4JLBehJJIDiXVkkGHhnh9oMcAPZa5WPeL+kXc7pv3ZRETKRuzEIHV/b+YRgIW02vC1nX1XBH2Xm/ZmiZlJTF/t2R5YbZLpewcRf7IoD10rdQnpYdY13etmJCeubK9sMG1RriHv+tJG3UnGbSsN9uFyvOr+8n30Zoi7rlAZzRiWITAJWFJ2sQGFR26brNe0PIjvz3qQjX4gYmaSEDwLbB8t0hSLeLFbeRdd4IXLcU36l5qkO/yJNDlUBezfVzRI16fF7ycKh++U8B6FKEjKS9Ycs9wqgitjdWwaYR7evbd/uOkpix+ryjbsEParKepoQ3k1/GxbsW4q8bu3THE5NnOD5mHvwudOUZLwA9qbL7jf1P/0gl2XCpgBM0pOOa7jgt5FNW69LkDtF3CvThg5lgxuLD+sdgzioKU1TxKJg+lnvgkA==;ZGkbdSizXXrLo/jWXL13eA=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "Trump clemency likely for Lil Wayne, no pardons for Giuliani or Bannon: sources"
 excerpt: "U.S. President Donald Trump is likely to grant clemency to rapper Lil Wayne on Tuesday in a final wave of pardons and commutations that is not expected to include lawyer Rudy Giuliani or ex-aide Steve Bannon,"
-publishedDateTime: 2021-01-19T08:14:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-pardons/trump-clemency-likely-for-lil-wayne-no-pardons-for-giuliani-or-bannon-sources-idUSKBN29O085?post"
-webUrl: "https://www.reuters.com/article/us-usa-trump-pardons/trump-clemency-likely-for-lil-wayne-no-pardons-for-giuliani-or-bannon-sources-idUSKBN29O085?post"
+publishedDateTime: 2021-01-19T08:45:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-pardons-idUSKBN29O085"
+webUrl: "https://www.reuters.com/article/us-usa-trump-pardons-idUSKBN29O085"
 type: article
 quality: 101
 heat: 121
@@ -44,6 +44,6 @@ related:
         height: 526
         isCached: true
 
-secured: "rUPlCcbSYZ4n5CxmPwkKGsge6dxyQqoAtgVmGWl8yVHHKNC6J1rMrWciTivRQOf6KCI3qZZpQJS1/eywT4gIkJJ+SN1LvylHbA1kKY6iDJK8HbfgddZR4eDb57LwiRCNV1L3EPMzrK/mZgM/orvhrVVSsl9nFOK15+23n/IMx1Qxue+Q/85syZ6ELkzf4G8hcmhFb8YpqpXCTeMromH0Hcs2FnniK/KshpzmkW6ZRCY0P0wOOgddSSwJY0zbZ7vUXthU1Z6XtLquH4qGiBE3HMdMba2/LBYI9/6vOY8THUYvv8Mrp8qBgr6tTPnGum06t3ZRVoCz+2KFlVGV+q7fm6o/+TXYmo2gifUJswtYGQY=;+MX7yUz25KiTokdCoFJxfA=="
+secured: "MmAB4AtrmwfACdrIvN1bVtDQ8wbGKPYeP1IyYAtAaebqPS/aXHNTkvNNCuifQRsqCFkyoVPuqqAWFj/I6trLnLgBzn7Bw6Pe/CGRp/nQ1tfuGKaZDQ8iD25NUoS2zRjWDWVQUd6MtiKt2yXd1AMuN5bh8WB/QetT6HbQrTOHF3aJffAgT7pkWTUQV6BPbRjSBozlvQkO6D9MddafQBVtT2MkNOaqDQ+woiVqi/XPu4usmqjo9IrtYLk9gozHrjQGY0unEN6BkKq4cjg/nuVVz1YjmI+d2vNgDCyKA8eJiZ54/L6dIGfEo2+TUNcadSfYwTtr6cDTl+cSB5301VIWRc4oec3bCxLKj9E2ENrGVcc=;LhJ+ZFcBOkAONwHGXcVvpA=="
 ---
 

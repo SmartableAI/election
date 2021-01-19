@@ -2,26 +2,26 @@
 category: news
 title: "Kamala Harris officially resigns from the US Senate ahead of inauguration"
 excerpt: "Vice President-elect Kamala Harris has formally submitted a letter of resignation for her US Senate seat to California Gov. Gavin Newsom, ending her four-year career in the chamber."
-publishedDateTime: 2021-01-18T16:50:00Z
-originalUrl: "https://www.mercurynews.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/"
-webUrl: "https://www.mercurynews.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/"
-ampWebUrl: "https://www.mercurynews.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/amp/"
-cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/amp/"
+publishedDateTime: 2021-01-18T16:49:00Z
+originalUrl: "https://www.ocregister.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/"
+webUrl: "https://www.ocregister.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/"
+ampWebUrl: "https://www.ocregister.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/amp/"
+cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/01/18/kamala-harris-officially-resigns-from-the-us-senate-ahead-of-inauguration/amp/"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Mercury News
-  domain: mercurynews.com
+  name: Orange County Register
+  domain: ocregister.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_b4c4004e4b0055dc58e440bfd2a392ef-h_82beb05c66e5b687c55d48020bcb0ebb.jpg?w=1024&h=726"
+  - url: "https://www.ocregister.com/wp-content/uploads/2021/01/hypatia-h_b4c4004e4b0055dc58e440bfd2a392ef-h_82beb05c66e5b687c55d48020bcb0ebb-1.jpg?w=1024&h=726"
     width: 1024
     height: 726
     isCached: true
@@ -768,20 +768,20 @@ related:
         height: 336
         isCached: true
   - title: "Mike Pence calls Kamala Harris to offer congratulations"
-    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
-    publishedDateTime: 2021-01-15T19:14:00Z
-    webUrl: "https://www.stltoday.com/article_86e08ee6-00c5-5d13-bfeb-28c90d473a34.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/article_86e08ee6-00c5-5d13-bfeb-28c90d473a34.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/article_86e08ee6-00c5-5d13-bfeb-28c90d473a34.amp.html"
+    excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-16T06:05:00Z
+    webUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations"
+    ampWebUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations/amp"
+    cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations/amp"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: The Oklahoman
+      domain: oklahoman.com
     quality: 100
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/c/74/c7455c4b-4601-57a6-91b1-2d62525d62c1/6001e6ff4922f.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
+      - url: "https://cdn2.newsok.biz/cache/1280x720_blur-95d4cd09934c1de7935d5144c353acbf.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Pence Calls VP-Elect Kamala Harris to Offer Congratulations"
     excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
@@ -1560,6 +1560,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "/KSGCkuoUSb2xoY3HHX4y5Y524QoyFgtERPcxSwvceRCZpa7f6Jo3qc6dmpNHD3AYySU3IuPr4OPqs2QPPQ+QN1qxV/lIcrqFfdOuY4nD03l5XmoG8esRHJSeHIIphc4QPjv72iC4TcNFB8ss9TFeFLnS3093Z5HpiA4gMJ0e2h+BitpeqrxgEPW6x4Mx1I7ivf53ZP0GUuzFThRYMb2KzrHRzM0MHLlLjkme/JE+3M5jgWpx87N1iS2j2dX4w4Ey+urkKRE+VMYq2+OIl1/Yaxn/13F+Vmk70vwD7/zBKj9MlAUOWgLMv44GqzAkVaWDEeM9qKgjFgOdHc2Di1QMU6T3eNZo0ExoT04hsCPWmE=;KvnMhVxnClsNhj/7E5FAsQ=="
+secured: "2ZQsB5LxlItXpnOZQ/lHGL1Db1hBpXl2HgckTQhPfcu3McBurnSPnNI/1U3Vms5JffCB2oHYirYRJY73ZT+pXX89vymkT6OdbVICMPv7V3dT6OiOtDuA51Yh6aDAiF/fAaFGU6nmtiOI+yt1faW+yTz5H9egkg80dASc8JIZB1FD8B6Zo5VB8qk7WQceIPBI7RUMeTZvzCQOutu/I6CuSuMU/93iMAdTlErqqj0vuwSaSwLm5Lp2gVHQstd4uzH0DNK+LqtXhc4pUEGE442JD/vbddy0a6zBOLGEnqgja2GbqPSy9nESKiUwhwjbslSo8z8z7lEEJeo7eee0k80ZS3XhqKZAMvs1DHOu4pkg1CY=;PZYie1MxBEjmENtbAz3ldQ=="
 ---
 

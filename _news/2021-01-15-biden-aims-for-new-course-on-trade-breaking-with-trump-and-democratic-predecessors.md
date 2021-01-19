@@ -127,6 +127,22 @@ related:
         width: 1440
         height: 1166
         isCached: true
+  - title: "Biden inauguration: Donald Trump's last full day as US president - live updates"
+    excerpt: "President expected to issue 100 pardons as Covid cases reach 24 million"
+    publishedDateTime: 2021-01-19T09:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates?page=with:block-6006a21a8f08c87d5e8187ca"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 136
+    images:
+      - url: "https://i.guim.co.uk/img/media/349cf390f7ee82d8b05877b1afe2ef02adee9b0c/0_21_3500_2103/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f921214b6862d3e3e1496caec896798"
+        width: 600
+        height: 360
+        isCached: true
   - title: "James Comey Says Joe Biden Should Consider Pardoning Donald Trump to Allow U.S. to Heal"
     excerpt: "James Comey, the former FBI director fired by President Donald Trump in 2017, said the U.S. needs to \"focus on things that are going to matter.\""
     publishedDateTime: 2021-01-14T09:06:00Z
