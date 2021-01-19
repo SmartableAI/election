@@ -480,6 +480,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump Orders Lifting of Virus Travel Ban, but Biden Aides Vow to Block Move"
+    excerpt: "The president’s proclamation, which would not take effect until Jan. 26, after Joe Biden assumes office, was part of a flurry of orders that Mr. Biden is likely to reverse."
+    publishedDateTime: 2021-01-19T03:23:00Z
+    webUrl: "https://www.nytimes.com/2021/01/18/us/politics/trump-biden-coronavirus-travel-ban.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/18/us/politics/trump-biden-coronavirus-travel-ban.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/18/us/politics/trump-biden-coronavirus-travel-ban.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 148
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/18/world/18dc-virus-travel/merlin_182489766_73fae802-dc62-484c-84ec-c787581503f7-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "DC attorney general says Trump could possibly be charged by city prosecutors with misdemeanor for role in Capitol insurrection"
     excerpt: "District of Columbia Attorney General Karl Racine warned Sunday that President Donald Trump could possibly be charged by city prosecutors with \"a misdemeanor, a six-month-in-jail maximum,\" amid fallout from the deadly insurrection at the US Capitol earlier this month.\n    \n"
     publishedDateTime: 2021-01-17T19:23:02Z

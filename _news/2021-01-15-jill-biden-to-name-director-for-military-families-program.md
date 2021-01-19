@@ -153,6 +153,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden says his advisers will lead with 'science and truth'"
+    excerpt: "In a dig at the outgoing Trump administration, President-elect Joe Biden says his team of scientific advisers will lead with “science and truth"
+    publishedDateTime: 2021-01-19T04:12:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/correction-biden-science-story-75329323"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/correction-biden-science-story-75329323"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/correction-biden-science-story-75329323"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_93e1a4f178b943f1b84656bd365c48bd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to propose 8-year citizenship path for immigrants"
     excerpt: "WASHINGTON -- President-elect Joe Biden plans to unveil a sweeping immigration bill on Day One of his administration, hoping to provide an eight-year path to citizenship for an estimated 11 million people living in the U."
     publishedDateTime: 2021-01-19T02:37:00Z

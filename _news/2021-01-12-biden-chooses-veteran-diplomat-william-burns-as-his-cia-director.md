@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director?_amp=true"
 type: article
 quality: 125
-heat: 525
+heat: 545
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Technology/WireAP_7202bb1dd3fb4d92b9cf5bf27cee5bf3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden says his advisers will lead with 'science and truth'"
+    excerpt: "In a dig at the outgoing Trump administration, President-elect Joe Biden says his team of scientific advisers will lead with “science and truth"
+    publishedDateTime: 2021-01-19T04:12:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/correction-biden-science-story-75329323"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/correction-biden-science-story-75329323"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/correction-biden-science-story-75329323"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_93e1a4f178b943f1b84656bd365c48bd_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

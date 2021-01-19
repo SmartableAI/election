@@ -125,6 +125,20 @@ related:
         width: 1024
         height: 716
         isCached: true
+  - title: "From the border to the federal bench to raging political divisions: How Donald Trump's tenure has changed America"
+    excerpt: "No matter what Trump does now, his past four years have left a mark on immigration, the federal bench and the nation's raging political divisions."
+    publishedDateTime: 2021-01-18T23:23:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/01/18/heres-how-trumps-tumultuous-four-years-president-changed-america/4165708001/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 34
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d9fcae70-ecb3-4fa7-ba54-bd90bcd378e0-AP21012563654909.jpg?crop=5999,3374,x1,y626&width=3200&height=1680&fit=bounds"
+        width: 2987
+        height: 1680
+        isCached: true
 
 secured: "Z/ehgWlmaTe+f+sNTRmP1ItAOh7KeYrc7NvlGvAFx+ytUZud4OvdoMEEDcQOk0k80n5XCrBQs5xZpJ/7Z160dbdm8YKFZYenyP6KhX+JRwcYSkg/ktCdQxWcwsokfbCM8nDvqW7A7XAYIOlKPvrtv4K86FpN6P5o9q9ztO9e8VZQ4HAclZZg7p14n3C5AYPmDILO9h7TD4cr9jLu8tqJz3P+WeoYzWEicmUMcW1YLWa5p1vci3HZYTsj1lFhNc5gGuthiz857juH/Fj415OG2DGJ6bDp9nKodtFLtYwm6C9tgDtBj0pelBFGlWxCwhOi3RDeyAxgrvdPwTWA1SbFyXpEHknh4GWIcyGigXLcrhFIfsLRsin9cqSHp2uRCCH1A3tOCNLFp6mzMZ9xsEhooKBoeflC2vjY8bh/7U3ZTmkc3fzZRKFLLQGOzQbINEBTQZ5X6pn0yI0oQznvLZuikno/tnAU2nUplF0txiyW9fhls7935TfR2KPlBGrWlIKCYiPo2rsof+XEGsdlhvSp+w==;Mw6Bynp6yw1Y82G5ZCU6rg=="
 ---

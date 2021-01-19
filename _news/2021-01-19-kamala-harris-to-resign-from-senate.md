@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Kamala Harris to resign from Senate"
-excerpt: "Vice President-elect Kamala Harris will resign from the Senate on Monday, according to a Harris aide. The California Democrat’s resignation will come two days before she becomes the nation’s first female vice president,"
+excerpt: "Senate on Monday, according to a Harris aide. The California Democrat’s resignation will come two days before she becomes the nation’s first female vice president, and the first person of color to hold that office."
 publishedDateTime: 2021-01-18T18:30:00Z
-originalUrl: "https://www.sfexaminer.com/home/kamala-harris-to-resign-from-senate/"
-webUrl: "https://www.sfexaminer.com/home/kamala-harris-to-resign-from-senate/"
+originalUrl: "https://www.sfexaminer.com/national-news/kamala-harris-to-resign-from-senate/"
+webUrl: "https://www.sfexaminer.com/national-news/kamala-harris-to-resign-from-senate/"
 type: article
 quality: 55
 heat: -1
@@ -873,6 +873,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Kamala Harris prepares for central role in Biden White House"
+    excerpt: "People working closely with Vice President-elect Kamala Harris on the transition resist the idea of siloing her into any specific issue early on, because the sheer number of challenges the Biden"
+    publishedDateTime: 2021-01-18T17:24:00Z
+    webUrl: "https://www.dailynews.com/2021/01/18/kamala-harris-prepares-for-central-role-in-biden-white-house/"
+    ampWebUrl: "https://www.dailynews.com/2021/01/18/kamala-harris-prepares-for-central-role-in-biden-white-house/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/01/18/kamala-harris-prepares-for-central-role-in-biden-white-house/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 90
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/01/AP21017005814915-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Kamala Harris prepares for central role in Biden's White House"
     excerpt: "Kamala Harris is shaping up to be a central player in addressing everything from the coronavirus pandemic to criminal justice reform."
     publishedDateTime: 2021-01-19T00:06:00Z
@@ -1532,6 +1548,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "/AfPiG9lbHCxTp6h07AWoR4iYaxIH7MAavhIHNQh07qk/v4Nm2VMy4eH/y75wrierqERziXVm88ZiHZJA5wtWj4vWQOYtHCYuu5HtL/Spg/GuUhq0pTcgMSx7j6FTvMAHJ7a3Vf/aTBtCiWvpFG2EbtKumWaXtrCzPsWsU57SgmYV5O0npf3P/u5vcjF7fk1gjIVOYQh85p3LAf6As1qMIkkWIA8Selvzapszs8/Wky4XCrLv/fPBZc3/KkY/ehxJlHrxEqbOdhxKPF//uVMRrW/nQii5pWVP2PmQTL7Xyfa96uxe/d1uoTn7xCKVDl4rUlRJLzqSm42dHALZLEBTqhlCsQh1AhzGvbrngNjZC4=;F/7R11SDInwjTcxT+ZFa7Q=="
+secured: "xlByU20Bz1GpkvcDBpnh9hRJMm11dY6pYDDVyPNfYrHORFN/IDyD/em+acuAtWST2sW5F+WfnJIhzVy66gj9k28tmJtiXv41ue9siVLQVf6Dx0pz0wauCR46HkfKSK/i4fysC4GGei/33YEuVF/dKWPV+IlpzRK4Hq33OtA4RqUSoht/1+mW550iyZp/GC3npa/NSIoFjviDmEnGs3GJuwhQzS5tEEZJKVIT9JTySGqahrgXZadc8uumG8uMimkjJlgf/d50tjKNz3agzc/kiDfWjdfJVEobGGheMrlpIWSnojy0Lj0ZQPcOGMQ3fd6nZ7STS8MaDm81LYzdiaW62UzA6bS4l8MyDz3WiC/pgt4=;HghNSPyc9ZvnkO4hqBpyYA=="
 ---
 

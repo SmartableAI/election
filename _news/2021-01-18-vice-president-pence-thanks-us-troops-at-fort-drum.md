@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/vice-president-pence-thanks-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/vice-president-pence-thanks-us-troops-at-fort-drum/2021/01/17/810ee532-592b-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/southbendtribune.com/content/tncms/assets/v3/editorial/6/ab/6abb0278-5900-11eb-ac74-cf89567af00a/60049bb044f83.image.jpg?resize=1024%2C698"
         width: 1024
         height: 698
+        isCached: true
+  - title: "Pence delivers final speech as Vice President at Fort Drum Sunday"
+    excerpt: "In what was called his “last public speech” while in office, Vice President Mike Pence repeatedly thanked the U.S. Army’s 10th Mountain Division for its service to the"
+    publishedDateTime: 2021-01-19T04:55:00Z
+    webUrl: "https://dailygazette.com/2021/01/17/pence-delivers-final-speech-as-vice-president/"
+    type: article
+    provider:
+      name: The Daily Gazette
+      domain: dailygazette.com
+    quality: 55
+    images:
+      - url: "https://dailygazette.com/wp-content/uploads/2021/01/F17B52F9-8260-4B12-8D19-897752A73958.jpeg"
+        width: 939
+        height: 563
         isCached: true
   - title: "Hear Vice President Mike Pence’s comments at Lemoore Naval Air Station"
     excerpt: "As his final days as vice president come to a close, Mike Pence shared some thoughts on the Trump administration's accomplishments during a stop at Lemoore Naval Air Station on Saturday."

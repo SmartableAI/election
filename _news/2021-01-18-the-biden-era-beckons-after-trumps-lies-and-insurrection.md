@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 1250
+heat: 1270
 published: true
 
 provider:
@@ -460,6 +460,22 @@ related:
     quality: 148
     images:
       - url: "https://static01.nyt.com/images/2020/12/29/us/politics/29dc-biden/29dc-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump Orders Lifting of Virus Travel Ban, but Biden Aides Vow to Block Move"
+    excerpt: "The president’s proclamation, which would not take effect until Jan. 26, after Joe Biden assumes office, was part of a flurry of orders that Mr. Biden is likely to reverse."
+    publishedDateTime: 2021-01-19T03:23:00Z
+    webUrl: "https://www.nytimes.com/2021/01/18/us/politics/trump-biden-coronavirus-travel-ban.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/18/us/politics/trump-biden-coronavirus-travel-ban.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/18/us/politics/trump-biden-coronavirus-travel-ban.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 148
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/18/world/18dc-virus-travel/merlin_182489766_73fae802-dc62-484c-84ec-c787581503f7-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/trump-biden-transition-mike-pompeo-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-biden-transition-mike-pompeo-kelly-craft-europe-taiwan-travel-cancelled/"
 type: article
 quality: 112
-heat: 132
+heat: 152
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NXIXITCVBEI6XLGFSLJIDGQ4ZM.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Exclusive: Trump lifting COVID-19 travel restrictions on Europe, UK, Brazil - sources"
+    excerpt: "U.S. President Donald Trump on Monday rescinded entry bans imposed because of the coronavirus on most non-U.S. citizens arriving from Brazil and much of Europe effective Jan. 26, two officials briefed on the matter told Reuters."
+    publishedDateTime: 2021-01-19T04:22:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-travel/exclusive-trump-lifting-covid-19-travel-restrictions-on-europe-uk-brazil-sources-idUSKBN29N20Y?post"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548250195&r=LYNXMPEH0H19C&w=800"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "Yp95dd1cBi5n0/Uj7Rx1DI1LUu3FKCAR7qLZNLnhec4k05HFebA0KMmTi6rJzStG9o1HD92WKiiSudbqwzmK395tJ8dGWnHqdvQEKKEMMeJDC6nVY1Eto9etdVyrehe2RigDX9QM+85mPjkXnEWaMmlJsqgm7RIwPzKACpg2hiHYqw+hUoLwO621+SyDPRybs5ww5NgLeHCxtzckr6hZlNIZk8bSy2RBItCwDfFV4Rc0aLU2f6Q4lTPfQTSSxSo7bW/3092kcsyNe9sw3bVZ1hBI1rEWAvOjehwI7YUhjbWnML7aGAj7x0dxot+s4ppZ1PuLoQr1KUIpNFZKfzttcKeIAVjf/T07F7CkTKPTql8=;1Ynl7sOjlBycP72xzhen/w=="

@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Exclusive: Trump lifting COVID-19 travel restrictions on Europe, UK, Brazil - sources"
+    excerpt: "U.S. President Donald Trump on Monday rescinded entry bans imposed because of the coronavirus on most non-U.S. citizens arriving from Brazil and much of Europe effective Jan. 26, two officials briefed on the matter told Reuters."
+    publishedDateTime: 2021-01-19T04:22:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-travel/exclusive-trump-lifting-covid-19-travel-restrictions-on-europe-uk-brazil-sources-idUSKBN29N20Y?post"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548250195&r=LYNXMPEH0H19C&w=800"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "+EoRzoh+OH63lln5nwFIsFUnLeTWTem5Cma/xdRIpbOnGQs/hBrd5pAYWP8oJZ851k2tIFCz0qDVDczW7EsEcn6F3KhBEtws3E1O7OMryHEZBPzjYjYy8K3wICZk8PM1Y1kd7zK97pmYeHRbCWnnYgeE77RBBQ5PAoGPNdRoOSyOcbNPgp7IJHtqs2T2qpwCezfzrApahMvm54xrMn7tWgQrN76Ttw1iecFZGRkDAZH0yjs+OMcle4YdQgR0vE1ujze5GaBe0WZvMcvGMbOg87N5Gmmp3TF1CBURtRsCZZsHVy7ATBBOroZ8F7U8uDLumI37HJ852ZNj9WWnMD100yaV/io0Uzt9IrWYqf1a2cY=;+KSktYR0y0wRRP0GnKc4TQ=="
 ---

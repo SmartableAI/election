@@ -463,6 +463,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump Orders Lifting of Virus Travel Ban, but Biden Aides Vow to Block Move"
+    excerpt: "The president’s proclamation, which would not take effect until Jan. 26, after Joe Biden assumes office, was part of a flurry of orders that Mr. Biden is likely to reverse."
+    publishedDateTime: 2021-01-19T03:23:00Z
+    webUrl: "https://www.nytimes.com/2021/01/18/us/politics/trump-biden-coronavirus-travel-ban.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/18/us/politics/trump-biden-coronavirus-travel-ban.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/18/us/politics/trump-biden-coronavirus-travel-ban.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 148
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/18/world/18dc-virus-travel/merlin_182489766_73fae802-dc62-484c-84ec-c787581503f7-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump Castigates Barr for Not Publicly Disclosing Hunter Biden Investigation"
     excerpt: "President Trump on Saturday excoriated Attorney General William P. Barr, castigating him on Twitter for not violating Justice Department policy to publicly reveal an investigation into President-Elect Joseph R."
     publishedDateTime: 2020-12-12T20:40:00Z
@@ -876,6 +892,6 @@ related:
         height: 773
         isCached: true
 
-secured: "1RZngMYmT/d/YKjd5FqeTLirfneHRcBkiIVmrtLN3jxA5NJaFvKYnWjQJDnPIoDUDSefN9LWQom29kNqWJD/RGqbuzcyto4kwT2wMQ7AHFGPwg2KOp0vc0C/MerHld21tNpx1c4H3O8lZO7sYod+GQSSYaCPa6lncEGQSouyz6FOiB/bEBmcSEFCSz3BD4eW1ephdVV1Qe7K3hyKS3F1yMtWS0hWy3GYZFkf1lZ7ni8yBRBEelxE/uMgCNw4G/X7kjSvcOJ2AL0Y3z4UIVGxJG1erP5eXcrzTiqH8KrPz64CoNnWfhTQ2dSaRC9m2KcJfI5HXFBs9q37eYmQ3PDyTGechOuvdZ6z71+3ftAWg3w=;s53H4fOOhGLabWmpVZdcVw=="
+secured: "C/h/paQmgMfH8sHBn/N1p9OgXCA4iZo+gUSiRTjCWlkk/03pc85kWG/A8djrcsUIgOKxjCgTTelhmK0KhzpOQmPiUZgo/KL/oIj4qfX1HqTwvPq+f8fnkbcw0HkPJ+oT/LgsQrKxsc67KrFSlZT9k+h/ilJumF1Aj5LjCbGs7CgQhCvlUWlKOaO2fSkH9hMLVITuGtdRAvXMIv5GrrJJzG+b5T/VwgaJWlUAcAKNr8O3zlon9vRkWUSveQU1/XJN9aMn0OYWVTmvysb0Sz+U/ZgSq9/twW3h2ODrsMmqaA/ubLFFmclgM+SZi3PR8DV3ZsoQACHJMEe9eMoedkW00xJVQxfipx6Dx1C2j20V+ns=;QyKPaehF+93v8bF4REyKuQ=="
 ---
 

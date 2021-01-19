@@ -59,6 +59,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "'It Was a Non-Event': Pro-Trump Protests Quiet Amid Massive Police Presence Across U.S."
+    excerpt: "Trump Protests Quiet Amid Massive Police Presence Across U.S. HARRISBURG, Pa./LANSING, Mich. (Reuters) - Law enforcement officers far outnumbered protesters at state capitol grounds on Sunday, as few Trump supporters who believe the president's false claim that he won the 2020 election turned out for what authorities feared could be violent demonstrations."
+    publishedDateTime: 2021-01-19T04:13:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-17/us-capitals-gird-for-pro-trump-armed-protests-as-fbi-flags-risk-of-violence"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-17/us-capitals-gird-for-pro-trump-armed-protests-as-fbi-flags-risk-of-violence?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-17/us-capitals-gird-for-pro-trump-armed-protests-as-fbi-flags-risk-of-violence?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
 
 secured: "OuVJxF8SMQmFvrMUH9tbkUXGd1wFfJuJp9kBS7zw0e28d3L8pva2xwZ9c2RzmhhXU2Gzdc9EUyKYjWTO9qX54I8x5K/JiuC4HleLgf90iUJzU+P+ZqsKtqLfpknQAQbFGXiq6qJknZbhwbyHAjiUaNJzrqkHfuejrXvURxjJ0d/cHkzlbZkGgRWz1gwj54FT1Hlaw9I/EKwFP84tqXyY/XF0u1vIVa/A8/hnQsyOJDI87tmzLY6xsUG/BTipPM3d5rRvd4TDQ7wdBl1CiUjB1VeNnTjJgAd5RU5hEhIAr+0h4YqBHxigS6tW+lyqbLQqG6Y6SVa1mT8DymWuJQGuBcHmn29kv2/rGyxbBhgFNaQ=;84gv0BadWGoCaPU1VpnEpg=="
 ---

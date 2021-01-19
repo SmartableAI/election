@@ -864,6 +864,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Kamala Harris prepares for central role in Biden White House"
+    excerpt: "People working closely with Vice President-elect Kamala Harris on the transition resist the idea of siloing her into any specific issue early on, because the sheer number of challenges the Biden"
+    publishedDateTime: 2021-01-18T17:24:00Z
+    webUrl: "https://www.dailynews.com/2021/01/18/kamala-harris-prepares-for-central-role-in-biden-white-house/"
+    ampWebUrl: "https://www.dailynews.com/2021/01/18/kamala-harris-prepares-for-central-role-in-biden-white-house/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2021/01/18/kamala-harris-prepares-for-central-role-in-biden-white-house/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 90
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2021/01/AP21017005814915-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Kamala Harris prepares for central role in Biden's White House"
     excerpt: "Kamala Harris is shaping up to be a central player in addressing everything from the coronavirus pandemic to criminal justice reform."
     publishedDateTime: 2021-01-19T00:06:00Z
@@ -1442,9 +1458,9 @@ related:
         height: 600
         isCached: true
   - title: "Kamala Harris to resign from Senate"
-    excerpt: "Vice President-elect Kamala Harris will resign from the Senate on Monday, according to a Harris aide. The California Democrat’s resignation will come two days before she becomes the nation’s first female vice president,"
+    excerpt: "Senate on Monday, according to a Harris aide. The California Democrat’s resignation will come two days before she becomes the nation’s first female vice president, and the first person of color to hold that office."
     publishedDateTime: 2021-01-18T18:30:00Z
-    webUrl: "https://www.sfexaminer.com/home/kamala-harris-to-resign-from-senate/"
+    webUrl: "https://www.sfexaminer.com/national-news/kamala-harris-to-resign-from-senate/"
     type: article
     provider:
       name: San Francisco Examiner

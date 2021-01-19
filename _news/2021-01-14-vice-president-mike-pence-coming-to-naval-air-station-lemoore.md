@@ -59,6 +59,20 @@ related:
         width: 1024
         height: 698
         isCached: true
+  - title: "Pence delivers final speech as Vice President at Fort Drum Sunday"
+    excerpt: "In what was called his “last public speech” while in office, Vice President Mike Pence repeatedly thanked the U.S. Army’s 10th Mountain Division for its service to the"
+    publishedDateTime: 2021-01-19T04:55:00Z
+    webUrl: "https://dailygazette.com/2021/01/17/pence-delivers-final-speech-as-vice-president/"
+    type: article
+    provider:
+      name: The Daily Gazette
+      domain: dailygazette.com
+    quality: 55
+    images:
+      - url: "https://dailygazette.com/wp-content/uploads/2021/01/F17B52F9-8260-4B12-8D19-897752A73958.jpeg"
+        width: 939
+        height: 563
+        isCached: true
   - title: "Hear Vice President Mike Pence’s comments at Lemoore Naval Air Station"
     excerpt: "As his final days as vice president come to a close, Mike Pence shared some thoughts on the Trump administration's accomplishments during a stop at Lemoore Naval Air Station on Saturday."
     publishedDateTime: 2021-01-17T03:36:00Z

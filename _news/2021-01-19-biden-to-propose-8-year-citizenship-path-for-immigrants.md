@@ -159,6 +159,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden says his advisers will lead with 'science and truth'"
+    excerpt: "In a dig at the outgoing Trump administration, President-elect Joe Biden says his team of scientific advisers will lead with “science and truth"
+    publishedDateTime: 2021-01-19T04:12:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/correction-biden-science-story-75329323"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/correction-biden-science-story-75329323"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/correction-biden-science-story-75329323"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_93e1a4f178b943f1b84656bd365c48bd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trouble at home may change Biden's hand in Iran nuke talks"
     excerpt: "Joe Biden is seeking to revive the 2015 Iran nuclear deal but upheaval at home may weaken the new president's position abroad"
     publishedDateTime: 2021-01-18T18:38:00Z
@@ -331,6 +347,6 @@ related:
         height: 675
         isCached: true
 
-secured: "qr+ciKpnMBzwE973VXd7Sr8Gr/kMomKHlTfqYAqrV28SKU2rFwAMrIrui3dJtKCXSeje2zf/f2XjDU8oGAZSjXyejgSWYKEAFLxKRRBVzm3FRdbXbfq+JBmcTsqJ5G7aF0qFqrpktfQ2H6V0+PpfeCtITIwvLrs4xNt3W1cnHxHOnKQzjjwfnNAc8uIjS6ALR+nhVMW9wkgE6BB8SIvwNp2F+b7jwX1wig5+UPnFLRlKe0sBPzX+JDzrr2WksAJ+S5iJJdjzQUvz2jj8HZ+dwon0Qkooa6zC4q035QWakS5JJF4ylHoHLPctF2lIu5AHJA0W9CtPM5cvBaUfYABB5D4keLdZ3eohSaov99aMTVI=;/h8SgqeCbnY8zDtD9mHCcA=="
+secured: "pSh5QyAOalDToqhpOWqKBQxGItuBTQ8P9Br1UQ1w6uW2KSPODkGpGOFFglEONa2h938IOzQbWTQ/dM1R0P5d6I3Gdb7pbHUC8ZgziCmck+eBTKDn0EinA4mWqIGfNVy1iulQpWE+nXFF+iFsA0mTzXOEjwuSkHLe+Z08yrJTKsns45p3XICUnj7kRpP++WnJQcD+T5Pg17/2h1SOxrToZymkIj0J7/A2nGdY5nSXyAthg+rVMN50ztO4+am6JEHvbqRvOj0OyDKxSZmKAiHnFcS1cpypOgWT6D4Q08ei5HWUXcRzHlKkGwuAdWfhcFCEMy7eURR2VP5Dy5+oZXyDLLgtUnFj7urBUXlTxaIeTFE/VqaLy0Gi6VY1pekhgyExuJMwqmW8VfxkY5TdMHaqNX9sZX7RrksF6iYHyHL1qwM6jowJfuZVWuhsRR4OWTxuT2pJlr5nMLITw/Yrc5dgwf0BxZ+qRWtgLqBJFlwknLtPeF3+P/qzZJ1MSxqJ+KC1DZenEZGljm3G1KpBcIqtSg==;77Z1hGEconj1CbCKOhxUPg=="
 ---
 

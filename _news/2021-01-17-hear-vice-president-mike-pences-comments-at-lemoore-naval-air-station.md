@@ -67,6 +67,20 @@ related:
         width: 1024
         height: 698
         isCached: true
+  - title: "Pence delivers final speech as Vice President at Fort Drum Sunday"
+    excerpt: "In what was called his “last public speech” while in office, Vice President Mike Pence repeatedly thanked the U.S. Army’s 10th Mountain Division for its service to the"
+    publishedDateTime: 2021-01-19T04:55:00Z
+    webUrl: "https://dailygazette.com/2021/01/17/pence-delivers-final-speech-as-vice-president/"
+    type: article
+    provider:
+      name: The Daily Gazette
+      domain: dailygazette.com
+    quality: 55
+    images:
+      - url: "https://dailygazette.com/wp-content/uploads/2021/01/F17B52F9-8260-4B12-8D19-897752A73958.jpeg"
+        width: 939
+        height: 563
+        isCached: true
 
 secured: "DYNrWRcjq11UaRJbrggDKrH3m0v41OtY3Fh/yLlSpo/qNhRxdV9K13Lvm16ei4t4KKnc6tp1ALEWywvFCkTNWB1zQX3XTI6Z5+9TfoJKsiWgEIrh5NYE1C7BFu0UBMswCRK6ruYzCyWGqEYVBsyTq4ZN77XFHBuQw/6mk6ZEnAeYKvqYo2ORSBPqlb5b779zcXRb/TmNu7nDndOx1Gmyw48JUXgquxPswceTKnBUmMHfKxF8xk0Y9CJuyA7z33hwfa06PfYDJmImiVUvh5fPrRwS08RSjyOtdFSlPBmDUXlamhOXkEuPUnjOukZYMvM9pjg8xbXwwnH2QXitnwI0i5/MaeT/wWXSTCbBVj2B+pry1++gKTqeJCaKgyh0Ukoi4VbGrDc6FORLyatS8454Tm4HTaIVArkBd3iP5c8e0VZ/8UKG3BOeU5xIVKM6Am/ho+sorSXRkB6tq5l3TIA4hPyhDy0DOeX8mBcCl6Nr9MTHB557jvpvpG73WYpRC7vniw+cJ3DXGpnWM4VT83VBrQ==;sxa8ghUWeysK4J6UcQ41kA=="
 ---

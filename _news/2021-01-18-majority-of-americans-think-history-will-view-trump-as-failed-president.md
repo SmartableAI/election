@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/majority-americans-think-history-will-view-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1"
 type: article
 quality: 124
-heat: 244
+heat: 264
 published: true
 
 provider:
@@ -124,6 +124,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/outgoing-us-president-donald-trump-is-seeking-to.jpg"
         width: 1024
         height: 716
+        isCached: true
+  - title: "From the border to the federal bench to raging political divisions: How Donald Trump's tenure has changed America"
+    excerpt: "No matter what Trump does now, his past four years have left a mark on immigration, the federal bench and the nation's raging political divisions."
+    publishedDateTime: 2021-01-18T23:23:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/01/18/heres-how-trumps-tumultuous-four-years-president-changed-america/4165708001/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 34
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d9fcae70-ecb3-4fa7-ba54-bd90bcd378e0-AP21012563654909.jpg?crop=5999,3374,x1,y626&width=3200&height=1680&fit=bounds"
+        width: 2987
+        height: 1680
         isCached: true
 
 secured: "ocurCoQs2M+xUmVGUGJfwGS9VwzjYoT0FU4Ot2AnKKBYumqwFQbjA6YSDVpYX3QMLXvlqPf6vAwQtj8IvBDi03pRA0xaZb/inpbdChH5dvsAIVDLXwF0XpTyvLlp3BabYQDVs8Vo06gWMbIbftLnAeXwGotCAjjKFMlQ1SKLa8T2wfUOqo/ODhNDEZqoxQ0R9QUC+te1W580O3bpvywCDG+BPZg7/9sx3QW9Qp2ZO4rA9z14OxZg2Ww5JNRmPuT7pMBNq3tZTkKPogHobhmVmhYAkrfJ+3/+9x9n3g3EO5yGshNUR3+u8lJpBnM+CS4qTySgzb0zfV7ieFeSjKq2yTOIYfnC9FmIBjMLET7kB4c=;hzt3KQ+SeZF5dL3fnjrA9w=="

@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Liz Cheney faces Wyoming backlash for Trump impeachment vote"
+    excerpt: "Just before a mob unleashed a deadly rampage on the U.S. Capitol, President Donald Trump told tens of thousands of supporters that “we got to get rid” of Rep. Liz Cheney. The Wyoming congresswoman and No."
+    publishedDateTime: 2021-01-19T03:26:00Z
+    webUrl: "https://www.al.com/news/2021/01/liz-cheney-faces-wyoming-backlash-for-trump-impeachment-vote.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/liz-cheney-faces-wyoming-backlash-for-trump-impeachment-vote.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/liz-cheney-faces-wyoming-backlash-for-trump-impeachment-vote.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UTKT4Z2AMJAPJNKSBTSOYVVLSE.jpg"
+        width: 4500
+        height: 3000
+        isCached: true
   - title: "Chrissy Teigen, Other Celebs React To Donald Trump Being Impeached Twice"
     excerpt: "Several celebrities including Chrissy Teigen, Jesse Tyler Ferguson and more reacted to Donald Trump being impeached twice. The president was impeached by the House of Representati"
     publishedDateTime: 2021-01-14T06:14:00Z
