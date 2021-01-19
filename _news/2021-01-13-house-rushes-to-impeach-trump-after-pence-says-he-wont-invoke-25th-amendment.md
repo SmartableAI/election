@@ -220,22 +220,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Trump baby protest blimp enters Museum of London collection"
-    excerpt: "- In this  taken Tuesday, July 10, 2018, a six-meter high cartoon baby blimp depicting U.S. President Donald Trump in north London. The President Trump blimp will become part of the Museum of London's protest collection exhibition,"
-    publishedDateTime: 2021-01-18T18:07:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-baby-protest-blimp-enters-museum-london-collection-75324828"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-baby-protest-blimp-enters-museum-london-collection-75324828"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-baby-protest-blimp-enters-museum-london-collection-75324828"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_33e602eedf86451e9d1fc13ca1301200_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump enters final days in power as US braces for potential unrest – live"
     excerpt: "Nation wakes to fear of more trouble in wake of Capitol attack but also hope inauguration can begin new era"
     publishedDateTime: 2021-01-17T14:49:00Z
@@ -430,6 +414,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump baby protest blimp enters Museum of London collection"
+    excerpt: "The Trump Baby Blimp will live on long after its namesake has left the White House."
+    publishedDateTime: 2021-01-19T08:24:00Z
+    webUrl: "https://www.businessinsider.com/trump-baby-protest-blimp-enters-museum-of-london-collection-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-baby-protest-blimp-enters-museum-of-london-collection-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-baby-protest-blimp-enters-museum-of-london-collection-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Pompeo lifts restrictions on U.S.-Taiwan relationship as clock runs out on Trump administration"
     excerpt: "Secretary of State Mike Pompeo on Saturday said he was lifting restrictions on contacts between U.S. officials and their Taiwanese counterparts, a move likely to anger China and increase tensions between Beijing and Washington in the waning days of President Donald"
     publishedDateTime: 2021-01-10T12:13:00Z

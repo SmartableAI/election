@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Trump baby protest blimp enters Museum of London collection"
-excerpt: "- In this  taken Tuesday, July 10, 2018, a six-meter high cartoon baby blimp depicting U.S. President Donald Trump in north London. The President Trump blimp will become part of the Museum of London's protest collection exhibition,"
-publishedDateTime: 2021-01-18T18:07:00Z
-originalUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-baby-protest-blimp-enters-museum-london-collection-75324828"
-webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-baby-protest-blimp-enters-museum-london-collection-75324828"
-ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-baby-protest-blimp-enters-museum-london-collection-75324828"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-baby-protest-blimp-enters-museum-london-collection-75324828"
+excerpt: "The Trump Baby Blimp will live on long after its namesake has left the White House."
+publishedDateTime: 2021-01-19T08:24:00Z
+originalUrl: "https://www.businessinsider.com/trump-baby-protest-blimp-enters-museum-of-london-collection-2021-1"
+webUrl: "https://www.businessinsider.com/trump-baby-protest-blimp-enters-museum-of-london-collection-2021-1"
+ampWebUrl: "https://www.businessinsider.com/trump-baby-protest-blimp-enters-museum-of-london-collection-2021-1?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-baby-protest-blimp-enters-museum-of-london-collection-2021-1?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Entertainment/WireAP_33e602eedf86451e9d1fc13ca1301200_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Power Up: Trump-Pence relationship may set lowest bar yet"
@@ -587,6 +581,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "RwZGnDdnEzry5/tkct6rZHibW+fhGuIzkNA1xC/9hlwjVyRceBTGTll2kGs7BHB0Y17ahhjp051IZKD8Pgmhpf6fHzyvZYPCNFl9HB99uNJPI3mSQxmLSMKkRa2hNhgHgR3tklDu4Bk2oYsiCihynxk+B7xfuEbupwrH5EA6ht1j/OxpsybQg1Zb1mIuwuyfntxVvC6xj12c80nOV+gDnpbf2xCSmjZ3cVKvdBkAmFiuVVs1sy4IhMoYI9ENmguyrH8buhtV6le58ftyfmftlZ8YVteIOKV8/ntfFy6JyMMWwdOnH0srKW7X7wqW+C+R+1ytCAQZuC1Nh0VSRoaVAqOnYYsME44SCkExr5rsKDcBDJRCpKISN/yrcElIdDwGFPz5RqyLTmR5cUozkFDl7wsh2/bzyIWhtXdW6aSuanchCbnjcQc6ni6CQW1R2XTlV0xAMFY5uGSaEkvpWuBrj0+5rFQqmiJuz247+t5valz2GXHL7JnnMt0V6pYUgFhUcwpFbNDdTTjLHt26FqkOdw==;uJheFKRyEftdEpTZZ9XnOQ=="
+secured: "0aCNeRsNkGWAscLy+1ZRU0KtKLn5WerU8lG4UUXcOqZX6RKL0sjienk+x6D8pFy/jmWN0d2SegiNqvnqBaaquOc56ZC2pItb3Iqwrti3vkwFoGI5vdX2gvcH1ZNVDIRAK1H1Lu2vJcTlU7YOC3M7VYnedzXIC8i9APoaLcgE42xZvZ7TuIakdRrZYPd9lhA4MO3Ku4B8hWHQOhqAZShBAhhXvCnTmpjfqpAtWTVkrhKNNsSaZVx1RIo4dxnoPwDBubnU+OYsuGuMQL8UhRNN0IBYBvDZKOw8TsFOxFBxmRpJnoMwW+oNUyCvAmNGcwWWS88IXouAFf0K2DzPz3Ge3lOCKrltfaMFsa/A2PRj9Y0=;zkMHB2uDAw2E/gc9uXUw2g=="
 ---
 

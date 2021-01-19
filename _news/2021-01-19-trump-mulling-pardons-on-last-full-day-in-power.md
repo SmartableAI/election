@@ -1,29 +1,31 @@
 ---
 category: news
-title: "As Kamala Harris prepares to take the VP spot, local women say: It's about time"
-excerpt: "Kamala Harris' journey to the second highest office in the land is more important now than ever, and offers a promise of a better future. When Kamala Harris gave her acceptance speech in August for the Democratic vice presidential nomination, Brandy R."
-publishedDateTime: 2021-01-17T11:26:00Z
-originalUrl: "https://www.freep.com/in-depth/news/local/2021/01/17/michigan-women-inspired-kamala-harris-historic-vp-win/4158333001/"
-webUrl: "https://www.freep.com/in-depth/news/local/2021/01/17/michigan-women-inspired-kamala-harris-historic-vp-win/4158333001/"
-ampWebUrl: "https://amp.freep.com/amp/4158333001"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4158333001"
+title: "Trump Mulling Pardons On Last Full Day In Power"
+excerpt: "President Donald Trump began his final full day in the White House Tuesday with a long list of possible pardons to dish out before snubbing his successor Joe Biden's inauguration and leaving for Florida."
+publishedDateTime: 2021-01-19T05:32:00Z
+originalUrl: "https://www.ibtimes.com/trump-mulling-pardons-last-full-day-power-3125264"
+webUrl: "https://www.ibtimes.com/trump-mulling-pardons-last-full-day-power-3125264"
 type: article
-quality: 71
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: International Business Times
+  domain: ibtimes.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Kamala Harris
+  - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/01/15/PDTF/11cb5287-e7a5-4cce-bdbf-c65b987444e9-AP20313061585459.jpg?auto=webp&crop=5081,2859,x0,y258&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/18/president-donald-trump-will-leave-on-marine-one.jpg"
+    width: 1024
+    height: 687
     isCached: true
 
 related:
@@ -1257,6 +1259,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "As Kamala Harris prepares to take the VP spot, local women say: It's about time"
+    excerpt: "Kamala Harris' journey to the second highest office in the land is more important now than ever, and offers a promise of a better future. When Kamala Harris gave her acceptance speech in August for the Democratic vice presidential nomination, Brandy R."
+    publishedDateTime: 2021-01-17T11:26:00Z
+    webUrl: "https://www.freep.com/in-depth/news/local/2021/01/17/michigan-women-inspired-kamala-harris-historic-vp-win/4158333001/"
+    ampWebUrl: "https://amp.freep.com/amp/4158333001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4158333001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 71
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/15/PDTF/11cb5287-e7a5-4cce-bdbf-c65b987444e9-AP20313061585459.jpg?auto=webp&crop=5081,2859,x0,y258&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Supreme Court Justice Sonia Sotomayor to swear in Kamala Harris as vice president"
     excerpt: "Vice President-elect Kamala Harris will take oath of office on a Bible belonging to Thurgood Marshall during inaugural ceremony at the U.S. Capitol."
     publishedDateTime: 2021-01-16T22:15:00Z
@@ -1464,20 +1482,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump Mulling Pardons On Last Full Day In Power"
-    excerpt: "President Donald Trump began his final full day in the White House Tuesday with a long list of possible pardons to dish out before snubbing his successor Joe Biden's inauguration and leaving for Florida."
-    publishedDateTime: 2021-01-19T05:32:00Z
-    webUrl: "https://www.ibtimes.com/trump-mulling-pardons-last-full-day-power-3125264"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/18/president-donald-trump-will-leave-on-marine-one.jpg"
-        width: 1024
-        height: 687
-        isCached: true
   - title: "Alert: AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance."
     publishedDateTime: 2021-01-15T18:27:00Z
@@ -1560,6 +1564,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "Def5vRUafv50rbkZKisJma2h5RTarPqgKMMMvZAcxxwCP4NKnov0F7eorGjC5/c9FfRcezS9PW6VDSMxylIXxVVfaZG/yipwe5hIiL1nZo8uzjzO+o7KSySvB7h7Xir7cKvUqEy4YTv4l8ND5dSy0gfWRFZH5/Vyw/xkK3RS7a8tuzaHs1f7ttZktuz00d1aO6VskSPtAbRSCBVDz5ScxQK7vF3brxZBFFQM0MMCKXO4D3nESmKNmrYxx8jNnZG6VD1lhb9Zy1TIQwBaKHJxZyE/lGezrw58/c/RpLNTI00O8C8xl9jJ/VPqBWLYfnwoL/wASeavW76OZnpAdcLR4YdTF6usOj3qGbBasEhCaCjPM2ja/+o9w5bGLw+v8Tmre2IJlrUc5JMs2Rbj8B6MC2ArJT4cY9Wto1Lo3sEKlo6bINAXB/7VlV1jAZVCvm071CdfDWNSrzfoYzqAselH5Kv81AZuGihKRcmt/VhHRIOC6zpkAjwk5GM0tUNS/JKygPO86+v/FVRypT9F/U+9DQ==;SxVJhf9IeYQcIgxm0zIHXw=="
+secured: "QjF0oWQnVqNtj9uyeVcAa5HohmZv+n4OSB1IGlrYztIo6U3JlZNttVDR4pV0y7nJOUPzO9SS9PsDLPb+8+DSA1oYo/X4EM0VixWwJmOA5eHgLOmaw0grZkhb2a+vZlJwIbioaTel60SIR0b9KMuVKbTOb/dkKX8H6OpVdUko5kdjLNIqza0Fu4mEJlzcDv0rY4D/s5cTs3/2UlOac32587GXoGm4VOgm7P1RCGEOnRDaGeOUhbXrl0aTpw7UzySQ6pKLxN9EhYX0t23u5hOffLfg5U4wE5xThUC7xQe6Ysv65TDjhxTND5uInB3TQRVtrbXdKQL0sWFYC5wWD7vbD+6p6bIqea9n4Qs/PfteKj4=;ZrhlE2BpuTkL+2UjLiZVQg=="
 ---
 

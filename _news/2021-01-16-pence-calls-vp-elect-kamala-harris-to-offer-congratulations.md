@@ -753,20 +753,20 @@ related:
         height: 336
         isCached: true
   - title: "Mike Pence calls Kamala Harris to offer congratulations"
-    excerpt: "It’s the first known contact between the elected members of the outgoing and incoming administrations. President Donald Trump has not reached out to President-elect Joe Biden and has repeatedly questioned the legitimacy of Biden’s win."
-    publishedDateTime: 2021-01-16T01:25:00Z
-    webUrl: "https://chicago.suntimes.com/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation."
+    publishedDateTime: 2021-01-15T19:14:00Z
+    webUrl: "https://www.stltoday.com/article_86e08ee6-00c5-5d13-bfeb-28c90d473a34.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/article_86e08ee6-00c5-5d13-bfeb-28c90d473a34.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/article_86e08ee6-00c5-5d13-bfeb-28c90d473a34.amp.html"
     type: article
     provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 100
     images:
-      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/c/74/c7455c4b-4601-57a6-91b1-2d62525d62c1/6001e6ff4922f.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Pence Calls VP-Elect Kamala Harris to Offer Congratulations"
     excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
@@ -1465,6 +1465,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump Mulling Pardons On Last Full Day In Power"
+    excerpt: "President Donald Trump began his final full day in the White House Tuesday with a long list of possible pardons to dish out before snubbing his successor Joe Biden's inauguration and leaving for Florida."
+    publishedDateTime: 2021-01-19T05:32:00Z
+    webUrl: "https://www.ibtimes.com/trump-mulling-pardons-last-full-day-power-3125264"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/18/president-donald-trump-will-leave-on-marine-one.jpg"
+        width: 1024
+        height: 687
+        isCached: true
   - title: "Alert: AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance."
     publishedDateTime: 2021-01-15T18:27:00Z
@@ -1547,6 +1561,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "9zQR+85qoA3ekEJ8fT3kAiV/mA7O3NPRR0DeajgLiCLEbEQckcepjhcOZSa1ouy1OLsNWtGVZvBkQS6JDnWxumlQF50Cjmq9+0b1YaURvwUi3KnxtjDL3AYEg1i4XYIBPfWiF5A/mrCp9uWcA5oW4nWpxSeS4TaEdGjKSPo1RxQ/C3/y9piOLalLAP7+L2nN2BQ6UP4LUpXkHFDCZl5gC/HqcM68yErpPvoOL3VAUQbYeYVjcDX56P+TJeFuqo7JepgWxqQZkGiJFVOLZVgXNeXeOnvbnApGKX59k1o5QI+S+gqrEABb8hH5VMY2Bk6wziqff+Wze4QRN5+1xWLm7QAFNIaO6c/vMyPCzF9FPC0=;n/DeqQajLbqz+J1IANstig=="
+secured: "TxbdAEswPIQi6hs/garA56jxzw1+te9Lki/uA06zxSXOJzpUdH377iqHsPP6UFAG3XA249yp7h3N+9lN5ifDD4LHHkOqcrU/G6nwWa5wla+oi3E4V+rVlg6qGWchF4DH9DbQRyg+Aouay/rq2Nt9tKp7hkKcqL88iCsMQqqZuN+2kb7HlLnrrZc1IcGQJ5fLMmav0j1lGBhHXFjRTmJujRaJVSGzpB50r8pHyzRU+SFEDiGTIDU2AmIfB5v/0vZzxYLLcdL/PKbHNUZS7b68eb6oLT4yvV5MRsUKpF/+gA7Lic99oHO42EGjCrQKN06dEFHAclZirWY+j6wXIUvf+kDvw7sJjsOpg/iyyEsU1wQxd2sxVL8M+GSvgoY6nu9ACP8zTeJEUBVLVj32qzBHMH3xSq9d1VRsWD3fBQbvnhDoSG1P1GoY+fZwkHAn5loFENRyKGKtOVFBtCpuG+4f2gfXEjbgokjDloU7LdiOp6INcTW57NnFigGkmcD1k2iJgKL4Jws2bgLl4ogsk96W8Q==;bzACBI5FyhZTi7SHgXAGZw=="
 ---
 
