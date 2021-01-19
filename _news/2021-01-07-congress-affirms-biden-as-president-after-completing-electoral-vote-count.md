@@ -1536,6 +1536,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Security tightens on Capitol Hill ahead of Biden inauguration"
+    excerpt: "State Capitols across the country are bracing for possible protests at President-elect Joe Biden’s inauguration approaches. NBC News’ Ali Velshi reports from Washington D.C., where 21,000 National Guard troops are stationed."
+    publishedDateTime: 2021-01-18T23:46:00Z
+    webUrl: "https://www.nbcnews.com/now/video/security-tightens-on-capitol-hill-ahead-of-biden-inauguration-99646021969"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99646021969"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99646021969"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/ott_now_velshi_capsecurity_210118_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Vice President Mike Pence ensures 'safe inauguration' after Capitol riot"
     excerpt: "During a briefing at FEMA headquarters, Vice President Mike Pence addressed the Capitol riot and ensured an “orderly transition into a safe inauguration.”"
     publishedDateTime: 2021-01-14T22:56:00Z

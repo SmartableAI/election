@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-resul
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
 type: article
 quality: 168
-heat: 7588
+heat: 7608
 published: true
 
 provider:
@@ -4787,6 +4787,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/f1c/a1b/30748f6b4edce674ecef451db66182b443-president-trump-vice-president-pence.1x.rsocial.w1200.jpg"
         width: 1200
         height: 632
+        isCached: true
+  - title: "Trump to issue 100 pardons before Biden inauguration"
+    excerpt: "Dr. Salomon Melgen, who is in prison after being convicted for health care fraud in 2018, is expected to be included in the clemency list, CNN reported, citing three sources."
+    publishedDateTime: 2021-01-18T21:43:00Z
+    webUrl: "https://www.al.com/news/2021/01/trump-to-issue-100-pardons-before-biden-inauguration.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/trump-to-issue-100-pardons-before-biden-inauguration.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-to-issue-100-pardons-before-biden-inauguration.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SJP6CEF62RGIXILQCPUR6G57EE.jpg"
+        width: 4090
+        height: 2727
         isCached: true
   - title: "Politics live updates: Trump says he won't attend Joe Biden's inauguration"
     excerpt: "I wish he would just do what Nixon did and that's step down,” former Secretary of State Colin Powell said in an interview on NBC."

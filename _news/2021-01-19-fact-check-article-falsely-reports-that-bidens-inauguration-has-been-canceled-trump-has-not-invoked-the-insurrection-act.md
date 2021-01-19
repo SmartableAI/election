@@ -46,20 +46,20 @@ related:
         height: 558
         isCached: true
   - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-    excerpt: "WASHINGTON -- Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's the first known contact between the elected members of the outgoing and incoming administrations."
-    publishedDateTime: 2021-01-16T00:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mike-pence-calls-kamala-harris-offer-congratulations-75280928"
+    excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-16T06:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 150
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4444eb45d10847adbfe84daefb893fa0_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Harris prepares for central role in Biden's White House"
     excerpt: "Kamala Harris will make history on Wednesday when she becomes the nation’s first female vice president — and the first Black woman and the first woman of South Asian descent to hold that office"
@@ -175,19 +175,19 @@ related:
         isCached: true
   - title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
-    publishedDateTime: 2021-01-15T23:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-sources-vice-president-mike-pence-calls-vice-president-elect-kamala-harris-to-congratulate-her-offer-assistance/2021/01/15/8d766426-575f-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+    publishedDateTime: 2021-01-15T19:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-sources-vice-president-mike-pence-calls-vice-75280362"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 127
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Pro-Trump supporters to rally again in Washington"
     excerpt: "Supporters of President Donald Trump are returning to Washington for a pair of rallies to back his desperate efforts to subvert the election that he lost"
@@ -1520,6 +1520,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "Dj9qYz4PKf2KGtPdNDIOUDxSDOB18nxZ+RRzpZosgR+k5p0tvaiZIyGb3FYLOc6oqtqz1oFmqwMKcx8MJQI8Z2s2kporDHO2JUyCbmwZjFzNdqOOqlGiCMyRRKqFCRruZIzCZUcU2tUqEO4AzM7L9Cz+8sGYCdmdZOJBamNAhVJg0dw4WmAzxuMuJTxhNc2vo6r2YBkj7HHDHPxxy1HoSNKd0ZR8Y5uu1BOVF/M+PHYcGfer/Nivfa/C0svw4isoj2c1H9Yx/XJtE2W0/BbpPdqAgAWIynPBGn3E123o2XBTumek+MsYCBgDCRy1pRPTong9e03jYKz5LdMYLNSb/zJwGPVGyBIVWTZwVyoKEMc=;6VffCo6TLe8vnzU94e6rvw=="
+secured: "2M4Jk9zmitbytf43QkAvOYLxuCXiNJJgSnaXi6CYP/guc1G90eT9WDnz8/x/Dc01AlsKJd+mlemQqpMaiBcEab0xqIScIr95BrTO7cPxKEHWM0kvxkU/Pri7zorABQ5bn/XcUlPxFSx+90wSogXAcQK5Ol6egoGcGnsvJVMjXXssl/uilQRq89/DmpLHJn2HJb66UNuLmaD2Qdx3hUGb6heQ6ZLFRseFRf5lD3NvzN4LYiGV+yDFNHER0FbxormW3pMbKgHT5moFK0SA84wVpoXXZ3RQXXunCpIo4y7no4n/T5CSC09s4rho8oVOdrGfY6dQUzjD0oTpYKgXz2lnmWLLg8gilcU90sVSnoqwP1cF/22G6UJHDS3jy07/nAiv/nkA2TxPxkvxt9vRNxCk3sFZtIgghp6C/PiSOBfqQ7cQTMw/RXJKv8hPQJTV5SzMUW7eBmKImgNJCG5+Tszts9HKAqeT8CBD7TA2FtLQtz+TX6I85T0Pzw1JzNd8eq7h6Km3NT89kyNGmxKgwT2ODw==;b6mUfCm52eqBAb4kO1N6eA=="
 ---
 

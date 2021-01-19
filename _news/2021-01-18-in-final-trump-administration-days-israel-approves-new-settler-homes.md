@@ -217,6 +217,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump baby protest blimp enters Museum of London collection"
+    excerpt: "- In this  taken Tuesday, July 10, 2018, a six-meter high cartoon baby blimp depicting U.S. President Donald Trump in north London. The President Trump blimp will become part of the Museum of London's protest collection exhibition,"
+    publishedDateTime: 2021-01-18T18:07:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-baby-protest-blimp-enters-museum-london-collection-75324828"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-baby-protest-blimp-enters-museum-london-collection-75324828"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-baby-protest-blimp-enters-museum-london-collection-75324828"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_33e602eedf86451e9d1fc13ca1301200_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump enters final days in power as US braces for potential unrest – live"
     excerpt: "Nation wakes to fear of more trouble in wake of Capitol attack but also hope inauguration can begin new era"
     publishedDateTime: 2021-01-17T14:49:00Z
@@ -558,6 +574,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "The Latest: Trump Ending Restrictions on Travel From Europe"
+    excerpt: "President Donald Trump is lifting pandemic travel restrictions for Europe and Brazil, but he is leaving them in place on China and Iran."
+    publishedDateTime: 2021-01-19T00:45:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-01-18/the-latest-chinese-province-ups-restrictions-amid-outbreak"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-18/the-latest-chinese-province-ups-restrictions-amid-outbreak?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-18/the-latest-chinese-province-ups-restrictions-amid-outbreak?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "EJSexrf4VGMrsRR6jsxcAIbIm2P71A1SvbtUq0oGl4APEqnT6jlmostiIT+8ehbfBIPjENWY2IWopXDX3HLQquJH5NCRhfzOXmDEazqZ4mxr7OM5WB45zL4qq6HRU0RQ/DvmsAgBRVaOeRNzijPZ0bX/DW56Kyj9VWFRGPyEnt2cERL9098PVIdIXjS1OfmOoY7y9VS6rcLtebO1oy8Gp6XM2sBOKbGWM+EAx4OgkQyY7xz0LZlEBPB/gNyxmiui2DVtojUiVuo22o7o6D7lwioK7BYq2qcNk9fCH1DEjNyGADMbxUHttja9QKNc0h6Jc8Q405tSSgy6dosmT7iLIpkty5sWVHEc5hHUxnYt3vFWXaBMDOjav3fzwMRm3GTX+bA9I+iNkMzVOhazd0zD0uQwL5rxuv10YYmRrOAo4nC6YrvVZ9wnSXf7vnFOVbhpN6eBoMgNsiL3N7O0MlxrFPafynN4qaCtRym79EEYhycE7tm8hU8up5NrCiIs0Tl/huZPkLF/WME2Ok22+yEA+A==;CWCJYC71/LJuAJuPmFOo0g=="
 ---

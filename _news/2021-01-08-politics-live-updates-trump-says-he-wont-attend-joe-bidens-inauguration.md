@@ -4799,6 +4799,22 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Trump to issue 100 pardons before Biden inauguration"
+    excerpt: "Dr. Salomon Melgen, who is in prison after being convicted for health care fraud in 2018, is expected to be included in the clemency list, CNN reported, citing three sources."
+    publishedDateTime: 2021-01-18T21:43:00Z
+    webUrl: "https://www.al.com/news/2021/01/trump-to-issue-100-pardons-before-biden-inauguration.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/trump-to-issue-100-pardons-before-biden-inauguration.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-to-issue-100-pardons-before-biden-inauguration.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SJP6CEF62RGIXILQCPUR6G57EE.jpg"
+        width: 4090
+        height: 2727
+        isCached: true
   - title: "Ted Cruz, 10 more GOP senators join Donald Trump in effort to overturn election"
     excerpt: "The 11 senators largely acknowledged Saturday they will not succeed in preventing Biden from being inaugurated on Jan. 20 after he won the Electoral College 306-232. But their challenges, and those from House Republicans,"
     publishedDateTime: 2021-01-02T23:38:00Z

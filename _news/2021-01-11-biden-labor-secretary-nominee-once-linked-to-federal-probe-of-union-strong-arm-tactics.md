@@ -383,6 +383,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden confronted with migrant caravan challenge as he takes office, GOP blames campaign rhetoric"
+    excerpt: "Among the litany of challenges that will confront President-elect Joe Biden when he assumes office Wednesday -- including the coronavirus pandemic, emboldened enemies like Iran, and confirming critical nominees amid a Trump impeachment trial -- will be handling a large migrant caravan currently making its way to America's southern border."
+    publishedDateTime: 2021-01-18T18:39:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-migrant-caravan-challenge-gop-blames-campaign-rhetoric"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-migrant-caravan-challenge-gop-blames-campaign-rhetoric.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-migrant-caravan-challenge-gop-blames-campaign-rhetoric.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Guatemala4.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "American Airlines relocates crews, halts alcohol service on DC flights before Biden inauguration"
     excerpt: "American Airlines is beefing up security measures ahead of Inauguration Day, increasing staffing in Washington, D.C., and relocating crews to hotels closer to airports."
     publishedDateTime: 2021-01-14T19:40:00Z

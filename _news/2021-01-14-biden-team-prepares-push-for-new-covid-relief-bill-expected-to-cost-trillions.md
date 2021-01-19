@@ -191,6 +191,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden chooses San Diego Unified superintendent as deputy education secretary"
+    excerpt: "Marten, who has led California’s second-largest school district since 2013, is expected to serve under Miguel Cardona, Connecticut’s schools chief."
+    publishedDateTime: 2021-01-19T00:05:00Z
+    webUrl: "https://www.latimes.com/california/story/2021-01-18/biden-chooses-san-diego-unified-superintendent-deputy-education-secretary"
+    ampWebUrl: "https://www.latimes.com/california/story/2021-01-18/biden-chooses-san-diego-unified-superintendent-deputy-education-secretary?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2021-01-18/biden-chooses-san-diego-unified-superintendent-deputy-education-secretary?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 122
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/741b82a/2147483647/strip/true/crop/2400x1568+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F14%2F52%2F3fbfbae74ab98f87bf9b7198fd98%2Fla-photos-1staff-688999-me-0115-dodger-stadium-vaccination-009.IK.JPG"
+        width: 320
+        height: 209
+        isCached: true
   - title: "$2,000 Stimulus Check Update as Joe Biden Pushes for Third Set of Direct Payments"
     excerpt: "President-elect Joe Biden has proposed \"direct cash payments\" totaling $2,000 be given to Americans, including a third stimulus check of $1,400, in addition to the $600 payment issued last month, as part of his $1."
     publishedDateTime: 2021-01-15T14:39:00Z

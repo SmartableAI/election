@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration issues racist school curriculum report on MLK day"
+    excerpt: "A commission stood up by President Donald Trump as a rebuttal to schools applying a more accurate history curriculum around slavery in the US issued its inflammatory report on Monday, Martin Luther King Jr. Day.\n    \n"
+    publishedDateTime: 2021-01-19T00:52:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fdSGe-8WphU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/1776-commission-report-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/1776-commission-report-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113041052-donald-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Melania Trump departing White House with lowest favorability of her tenure "
     excerpt: "Melania Trump will be exiting the White House with the lowest favorability rating of her tenure as first lady, according to a new CNN poll.\n    \n"
     publishedDateTime: 2021-01-17T18:39:17Z

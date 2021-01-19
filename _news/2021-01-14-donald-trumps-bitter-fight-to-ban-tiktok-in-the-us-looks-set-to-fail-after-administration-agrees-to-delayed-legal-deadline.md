@@ -105,6 +105,17 @@ related:
         width: 1024
         height: 677
         isCached: true
+  - title: "Exclusive: Trump Admin Slams China's Huawei, Halting Shipments From Intel, Others - Sources"
+    excerpt: "The Trump administration notified Huawei suppliers, including chipmaker Intel, that it is revoking certain licenses to sell to the Chinese company and intends to reject dozens of other applications to supply the telecommunications firm,"
+    publishedDateTime: 2021-01-19T00:18:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-17/exclusive-trump-slams-huawei-and-its-suppliers-one-final-time"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-17/exclusive-trump-slams-huawei-and-its-suppliers-one-final-time?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-17/exclusive-trump-slams-huawei-and-its-suppliers-one-final-time?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 45
 
 secured: "vgXtM2TkDiZj7rKoFfyhsg2qe81Q56aR/d3hPbFW9LSEnIiOzacey/9pM+/oGiV20YYeuWRTmgyqiq6zq0dxUfKqCpVUrzuu4mRCDDpPPr3RUO+OOvi6/AafcExSQGmlHTKQm2MGA5u4p4m16txsnZUBnMR5szpCMU10M7nUfKAJksPW7CmLDy3fY7ESXFWMezQP7Aly0QbJWNTcfO7cI3oCQ+PkOxpmkvgpAQ0/skL5mKuk/V6+A+PVlXVutUoxwwglcVse2NZ4v49/CiC61jiSp6xUQDoBfSPm4JkIrQlchzrq6HMwYWmV8ynfK2yLby34x3ukXtJlzj1NI/PnMLmfqUpDqOHT4mZKcwomiew=;9WgOUFYTvfLb+dOSJ7ZKfQ=="
 ---

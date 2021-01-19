@@ -255,6 +255,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden crafts inaugural address to unify a country in crisis"
+    excerpt: "President-elect Joe Biden has spoken volumes inside the US Capitol over more than four decades, but the weight of those words does not approach the magnitude of the message he will deliver on its steps during his inaugural address Wednesday.\n    \n"
+    publishedDateTime: 2021-01-18T23:42:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b2nYWfVcuvk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/inaugural-address-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/inaugural-address-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115140341-01-biden-relief-plan-speech-0114-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "As Trump leaves the stage, Republicans grapple with new conspiracy caucus"
     excerpt: "Donald Trump may be leaving the White House in a few days, but the umbrella of conspiracy theories he inspired are only just arriving in Washington.\n    \n"
     publishedDateTime: 2021-01-16T20:34:42Z
@@ -300,6 +316,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115212144-01-alex-azar-2020-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration braces for new wave of migrants as it rolls out new immigration plans"
+    excerpt: "President-elect Joe Biden plans to immediately begin the rollout of his immigration agenda upon taking office Wednesday, but the new administration will also have to contend with migrants already on the US-Mexico border, as well as those on their way.\n    \n"
+    publishedDateTime: 2021-01-19T00:37:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G9M7eouIOVY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/biden-border-immigration-migrants/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/biden-border-immigration-migrants/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925213220-20200928-trump-biden-issues-immigration-gfx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

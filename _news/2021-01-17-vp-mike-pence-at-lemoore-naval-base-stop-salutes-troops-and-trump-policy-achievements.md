@@ -219,6 +219,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump baby protest blimp enters Museum of London collection"
+    excerpt: "- In this  taken Tuesday, July 10, 2018, a six-meter high cartoon baby blimp depicting U.S. President Donald Trump in north London. The President Trump blimp will become part of the Museum of London's protest collection exhibition,"
+    publishedDateTime: 2021-01-18T18:07:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-baby-protest-blimp-enters-museum-london-collection-75324828"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-baby-protest-blimp-enters-museum-london-collection-75324828"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-baby-protest-blimp-enters-museum-london-collection-75324828"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_33e602eedf86451e9d1fc13ca1301200_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump enters final days in power as US braces for potential unrest – live"
     excerpt: "Nation wakes to fear of more trouble in wake of Capitol attack but also hope inauguration can begin new era"
     publishedDateTime: 2021-01-17T14:49:00Z
@@ -550,6 +566,17 @@ related:
     webUrl: "https://www.usnews.com/news/world/articles/2021-01-17/in-final-trump-administration-days-israel-approves-new-settler-homes"
     ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-17/in-final-trump-administration-days-israel-approves-new-settler-homes?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-17/in-final-trump-administration-days-israel-approves-new-settler-homes?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "The Latest: Trump Ending Restrictions on Travel From Europe"
+    excerpt: "President Donald Trump is lifting pandemic travel restrictions for Europe and Brazil, but he is leaving them in place on China and Iran."
+    publishedDateTime: 2021-01-19T00:45:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-01-18/the-latest-chinese-province-ups-restrictions-amid-outbreak"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-18/the-latest-chinese-province-ups-restrictions-amid-outbreak?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-18/the-latest-chinese-province-ups-restrictions-amid-outbreak?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

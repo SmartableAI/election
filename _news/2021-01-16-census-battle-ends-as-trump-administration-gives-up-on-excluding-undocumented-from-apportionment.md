@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/local/social-issues/census-battle-end
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html?outputType=amp"
 type: article
 quality: 112
-heat: 212
+heat: 232
 published: true
 
 provider:
@@ -105,6 +105,17 @@ related:
         width: 1024
         height: 677
         isCached: true
+  - title: "Exclusive: Trump Admin Slams China's Huawei, Halting Shipments From Intel, Others - Sources"
+    excerpt: "The Trump administration notified Huawei suppliers, including chipmaker Intel, that it is revoking certain licenses to sell to the Chinese company and intends to reject dozens of other applications to supply the telecommunications firm,"
+    publishedDateTime: 2021-01-19T00:18:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-17/exclusive-trump-slams-huawei-and-its-suppliers-one-final-time"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-17/exclusive-trump-slams-huawei-and-its-suppliers-one-final-time?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-17/exclusive-trump-slams-huawei-and-its-suppliers-one-final-time?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 45
 
 secured: "Yd0Qt1m1oN6Jjczh27fMArMWB3xjJewoWvX54C2gOygiKBKOJWxRpB/R4vI3oieVqVDt/nlIRVVfDF4LGNmMFJ7AkSRYaVTFBjhenZghJHZaYEk+lRZ3P7AJRfv9casTEQ2UW8/l7l9ZAUfuTuIM3/MNhFFeAXVRRf8UdsBZn0OQajhP0u610CTMTE7QG24DTE1nh/dhDEJVAMmgZXREPDje+jCK20g77rFf0q/V0FcV8KCDRR06CfWLEacBjtfpAkD7DSZYKdQ8fKchE8mYcDDlsCVLhYQXkev1EN0UDoVnYu306a9ZEKsVoUvHEzojKFWppcrbz1iFVRZUQ2nBmdGES2aWTEIaHreE+il5S4w5Pk4BseidAc2GYSuoMOcUnXBulMGT6Whoii7UpAmRN2umTm+kUFBLSWo+8r254gciNwhZNHYgWbKEec7cKXGF+qH5FuA4tQwTwps5M+W/cdO7a68j/PjXuNLcNze9sxxlCE7F8u+7Gid9XMYy/ayY8vYjtxQkiYi8ZzGKVbV6YQ==;qTPG0eAv42qaG8IGvszB5w=="
 ---

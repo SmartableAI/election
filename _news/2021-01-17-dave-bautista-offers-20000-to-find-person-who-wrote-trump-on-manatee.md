@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nydailynews.com/snyde/ny-dave-bautista-trump-manatee-202
 cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/snyde/ny-dave-bautista-trump-manatee-20210117-ie3hnncygvbj3beylq5nh7cubi-story.html?outputType=amp"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:
