@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Joe Biden to propose 8-year citizenship path for immigrants"
-excerpt: "WASHINGTON (AP) — President-elect Joe Biden plans to unveil a sweeping immigration bill on Day One of his administration, hoping to provide an eight-year path to citizenship for an estimated"
-publishedDateTime: 2021-01-19T11:13:00Z
-originalUrl: "https://apnews.com/article/joe-biden-donald-trump-legislation-immigration-border-security-2179887c74cfd8d156bbd293abfc9fb0"
-webUrl: "https://apnews.com/article/joe-biden-donald-trump-legislation-immigration-border-security-2179887c74cfd8d156bbd293abfc9fb0"
+excerpt: "WASHINGTON — President-elect Joe Biden plans to unveil a sweeping immigration bill on Day One of his administration, hoping to provide an eight-year path to citizenship for an estimated 11 million people living in the U."
+publishedDateTime: 2021-01-19T13:24:00Z
+originalUrl: "https://www.nola.com/news/politics/national_politics/article_49570082-5a59-11eb-8143-4750e9d9fff7.html"
+webUrl: "https://www.nola.com/news/politics/national_politics/article_49570082-5a59-11eb-8143-4750e9d9fff7.html"
+ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_49570082-5a59-11eb-8143-4750e9d9fff7.amp.html"
+cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_49570082-5a59-11eb-8143-4750e9d9fff7.amp.html"
 type: article
-quality: 105
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: NOLA.com
+  domain: nola.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/5b03a16b14cc4d7686f5243d7b265933/3000.jpeg"
-    width: 3000
-    height: 2000
+  - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/c/24/c24de76c-5a59-11eb-ba7c-1b2fed1bd578/6006ddd45f4ef.image.jpg?resize=1024%2C683"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -119,7 +121,23 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Joe Biden picks transgender woman as assistant health secretary"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has tapped Pennsylvania Health Secretary Rachel Levine to be his assistant secretary of health, leaving her poised to become the first openly"
+    publishedDateTime: 2021-01-19T12:15:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/19/biden-picks-transgender-woman-as-assistant-health-secretary/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/19/biden-picks-transgender-woman-as-assistant-health-secretary/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/19/biden-picks-transgender-woman-as-assistant-health-secretary/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/Biden_Health_Appointee_26055.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
 
-secured: "ZRpWEf5ysqi+YV0AaR3M/cJ/BLqvj6VjxCe8h/hjAr+z+8ohgqQmSyykVM2hzKTWRNC8n+FeD8LJwtQka5JXxl97f/Z5Y1uL276nNP2+c5psUZoo/s52leJGrWTW6huM/alNOVel3w/DOuIpZ0nBVq3UtIkcVEZU9WVBYypCGhZupKla7BSCF0fHJ7TJZ7VCpeRf+YriPT7xg8Y0W8e/uCjL2PDgSdo8sPrYW6GrJM8L0/O6GMrSIKbbezYZixZYNV50F6tyhHBD4vyQaWYtiqADzf5Ps9uEX4RrKmCYKJM6GCEYSKn/kLNNb3qGrDGKT5tc7CY9zrL0UnojxEscWdUZPkSLn887jRhRppJzPO8=;eSINc1/Y98LdkrrQqyl2Fg=="
+secured: "XKDIuBryxTtvu9oGZprH7I9hzWh5Vzu7IHlh41AvY/FyIuBhKgER7fVfSHblbjR3ZpFl6fv89vj/RyT+i36+ERIDehe5RfsXmo6zxKbFlf9ecjKGSiERRlZWAdsJDIWLJXlhioODxoeyeAPFNWVYV7caVQY7pRIWUG0FXtF15EX/EPriZdRpf8pF6JQJRPSf5GNvE/A2nIjnIoei0OVvujiNamWin9zO/bfn44L8ZNL/rMegWiB/yk9iaIB4U5wdSA0yreEg8iGoXXRlgvCdBtAtcs8PN9rx1MiiBiI5snYCh1ArrImOkx+/lLk278BbKCYH8IYMe1u2ibOvNZJjxW98f8XtgWZgqHgkaloxsss=;aYDCosj1nOKU/i7p+lmQIA=="
 ---
 

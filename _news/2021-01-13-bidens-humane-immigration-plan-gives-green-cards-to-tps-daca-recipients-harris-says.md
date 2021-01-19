@@ -48,6 +48,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "How to watch Joe Biden and Kamala Harris' inauguration"
+    excerpt: "Coverage of Inauguration Day will begin at 9 a.m. ET on Fox News Channel."
+    publishedDateTime: 2021-01-19T13:31:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gRme9-VLqLE/how-to-watch-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/how-to-watch-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/how-to-watch-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21366233-2c30-4d81-99cc-b759730ba76c/7071c341-a5a5-4572-8b49-4d8d34358703/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris could preside over Trump impeachment trial if John Roberts doesn’t"
+    excerpt: "The Constitution says that in impeachments for presidents, the chief justice of the Supreme Court is the presiding officer. For lesser impeachments, the presiding officer has been the same as for other Senate business —  either the vice president or a senator. The Constitution is not clear on who should"
+    publishedDateTime: 2021-01-19T14:32:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ng0ng-PKIas/kamala-harris-could-preside-over-trump-impeachment-trial-if-john-roberts-doesnt"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-could-preside-over-trump-impeachment-trial-if-john-roberts-doesnt.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-could-preside-over-trump-impeachment-trial-if-john-roberts-doesnt.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 195
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "VP-elect Harris compares Capitol riots to 2017 'Unite the Right' rally"
     excerpt: "Vice President-Elect Kamala Harris said Thursday that last week's assault on the U.S. Capitol reminded her of the 2017 \"Unite the Right\" rally in Charlottesville, Va."
     publishedDateTime: 2021-01-15T19:23:39Z

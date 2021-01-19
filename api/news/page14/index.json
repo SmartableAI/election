@@ -2,6 +2,263 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-01-03-trumps-allies-are-rounding-on-lin-wood-after-he-tweeted-about-executing-mike-pence-and-arresting-mitch-mcconnell.md",
+      "title": "Trump's allies are rounding on Lin Wood after he tweeted about executing Mike Pence and arresting Mitch McConnell",
+      "excerpt": "Trump lawyer had posted a series of unhinged tweets saying the vice president should be arrested and executed over the 2020 election results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1",
+      "originalUrl": "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 549,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe87d0cedf8920018093c92?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp",
+      "publishedDateTime": "2021-01-03T06:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-03-irans-foreign-minister-urges-trump-to-avoid-israel-trap-to-provoke-war.md",
+      "title": "Iran's foreign minister urges Trump to avoid Israel 'trap' to provoke war",
+      "excerpt": "Iranian Foreign Minister Mohammad Javad Zarif urged U.S. President Donald Trump on Saturday not to be \"trapped\" by an alleged Israeli plan to provoke a war through attacks on U.S. forces in Iraq.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-usa-iran-israel-zarif-idUKKBN2970FP",
+      "originalUrl": "https://www.reuters.com/article/uk-usa-iran-israel-zarif-idUKKBN2970FP",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210102&t=2&i=1546421573&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0109Y",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2970FP",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2970FP",
+      "publishedDateTime": "2021-01-03T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-03-eric-trump-don-jr-party-with-vanilla-ice-at-mar-a-lago-new-years-bash.md",
+      "title": "Eric Trump, Don Jr. party with Vanilla Ice at Mar-a-Lago New Year’s bash",
+      "excerpt": "President Trump skipped out on performances by ’90s pop-rapper Vanilla Ice, Beach Boys founder Mike Love and other throwback acts at a pricey Mar-a-Lago New Year’s Eve bash.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/",
+      "originalUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/vanilla-ice.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/",
+      "publishedDateTime": "2021-01-02T11:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-03-trump-urges-people-to-get-ready-to-vote-in-georgia-just-hours-after-calling-the-senate-runoff-elections-both-illegal-and-invalid.md",
+      "title": "Trump urges people to 'get ready to vote' in Georgia just hours after calling the Senate runoff elections 'both illegal and invalid'",
+      "excerpt": "President Trump will attend a rally in Georgia on Monday for Senators Kelly Loeffler and David Perdue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/georgia-trump-calls-senate-runoff-elections-illegal-and-invalid-2021-1",
+      "originalUrl": "https://www.businessinsider.com/georgia-trump-calls-senate-runoff-elections-illegal-and-invalid-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff09f449ff41f001883fa8c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/georgia-trump-calls-senate-runoff-elections-illegal-and-invalid-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-trump-calls-senate-runoff-elections-illegal-and-invalid-2021-1?amp",
+      "publishedDateTime": "2021-01-02T09:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-03-on-the-anniversary-eve-of-the-drone-strike-ordered-by-trump-that-killed-its-top-general-iran-reveals-its-plan-to-enrich-uranium-to-20-purity.md",
+      "title": "On the anniversary eve of the drone strike ordered by Trump that killed its top general, Iran reveals its plan to enrich uranium to 20% purity",
+      "excerpt": "\"We are like soldiers and our fingers are on the triggers,\" the head of Iran's civilian atomic energy organization said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/iran-start-enriching-uranium-to-20-purity-in-latest-brinkmanship-2021-1",
+      "originalUrl": "https://www.businessinsider.com/iran-start-enriching-uranium-to-20-purity-in-latest-brinkmanship-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ff09eeea18a450018cb684d?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/iran-start-enriching-uranium-to-20-purity-in-latest-brinkmanship-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/iran-start-enriching-uranium-to-20-purity-in-latest-brinkmanship-2021-1?amp",
+      "publishedDateTime": "2021-01-02T08:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-02-iran-foreign-minister-warns-trump-fireworks-will-backfire-as-tensions-escalate.md",
       "title": "Iran foreign minister warns Trump 'fireworks will backfire,' as tensions escalate",
       "excerpt": "Amid heightened tensions between the U.S. and Iran, Iranian Foreign Minister Javad Zarif on Saturday warned President Trump that any \"fireworks would backfire.\"",
@@ -1048,284 +1305,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-computer-repairman-twitter-calling-me-hacker-in-hunter-biden-laptop-case-was-death-sentence.md",
-      "title": "Computer repairman: Twitter calling me hacker in Hunter Biden laptop case was 'death sentence'",
-      "excerpt": "The computer repairman at the center of the Hunter Biden laptop story said Thursday that Twitter destroyed his business by labeling him a \"hacker\" and legal action was his only recourse.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SeGHAEF1WmY/repairman-twitter-hacker-hunter-biden-death-sentence",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SeGHAEF1WmY/repairman-twitter-hacker-hunter-biden-death-sentence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 203,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60113ed3-0ac2-471b-811f-c14b7f5dc24e/fa32c636-a6f1-43d4-82ba-80c74820accf/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/repairman-twitter-hacker-hunter-biden-death-sentence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/repairman-twitter-hacker-hunter-biden-death-sentence.amp",
-      "publishedDateTime": "2020-12-31T08:27:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-bidens-inaugural-committee-hosting-national-memorial-for-covid-19-victims-on-january-19.md",
-      "title": "Biden's inaugural committee hosting national memorial for Covid-19 victims on January 19",
-      "excerpt": "President-elect Joe Biden's inaugural committee on Thursday announced that it is hosting a national memorial to remember and honor the lives lost to Covid-19 and is asking cities and towns around the country to participate.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mEYhCg4S1gE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mEYhCg4S1gE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200822172519-lincoln-memorial-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/31/politics/presidential-inaugural-committee-covid-19-memorial/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/presidential-inaugural-committee-covid-19-memorial/index.html",
-      "publishedDateTime": "2020-12-31T06:20:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-trump-versus-the-truth-the-most-outrageous-falsehoods-of-his-presidency.md",
-      "title": "Trump versus the truth: The most outrageous falsehoods of his presidency",
-      "excerpt": "I have never seen a president in American history who has lied so continuously and so outrageously as Donald Trump, period,” presidential historian Michael Beschloss said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-versus-truth-most-outrageous-falsehoods-his-presidency-n1252580",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-versus-truth-most-outrageous-falsehoods-his-presidency-n1252580",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_52/3437553/201222-trump-biggest-whoppers-main-cover-cs_03ea1ca899b5c3c15b942562ca290873.jpg",
-          "width": 2500,
-          "height": 1408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1252580",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252580",
-      "publishedDateTime": "2020-12-31T01:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-alec-baldwin-should-play-himself-in-snl-sketch-about-wifes-heritage-controversy-trump-jr.md",
-      "title": "Alec Baldwin should play himself in 'SNL' sketch about wife's heritage controversy: Trump Jr.",
-      "excerpt": "Donald Trump Jr Wednesday suggested actor Alec Baldwin should play himself in a \"Saturday Night Live\" sketch about his wife Hilaria’s scandal over her heritage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/donald-trump-jr-wants-alec-baldwin-to-play-himself-in-snl-sketch-about-wifes-heritage-controversy",
-      "originalUrl": "https://www.foxnews.com/entertainment/donald-trump-jr-wants-alec-baldwin-to-play-himself-in-snl-sketch-about-wifes-heritage-controversy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/203cf16f-1115-42d3-a829-bfd0e89d9286/1fd3ba14-3347-4fe2-be90-0c1bd15856f1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/donald-trump-jr-wants-alec-baldwin-to-play-himself-in-snl-sketch-about-wifes-heritage-controversy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/donald-trump-jr-wants-alec-baldwin-to-play-himself-in-snl-sketch-about-wifes-heritage-controversy.amp",
-      "publishedDateTime": "2020-12-31T00:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss.md",
-      "title": "Trump makes 2nd request to Supreme Court over Wisconsin loss",
-      "excerpt": "President Donald Trump on Wednesday asked the U.S. Supreme Court to overturn his election loss in Wisconsin, his second appeal in as many days to the high court over the result in the key battleground state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-31T00:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

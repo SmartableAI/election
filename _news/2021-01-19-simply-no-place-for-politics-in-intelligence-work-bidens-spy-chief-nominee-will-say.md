@@ -9,8 +9,8 @@ ampWebUrl: "https://www.politico.com/amp/news/2021/01/19/avril-haines-spy-chief-
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/19/avril-haines-spy-chief-confirmation-hearing-460309"
 type: article
 quality: 127
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: Politico
@@ -31,6 +31,40 @@ images:
     height: 773
     isCached: true
 
-secured: "f2cUrXSTwAEgrdG7Nyxu6Mu5LLAJtEFXWugwTZcVvVFh8aMJoF7xwtKBa8eG9121lQN7xjz4XWaJZe/AYEWwnufTPcoIXU318Todtnxyzl4Ft/EFpCZ3dFK0FieDv3DIz9eH3Z4ON2w3VgM0X4LKJ5SD6bjZCMjkGXRuQXo1lw31KuBSDTHijp6PF/Fv7lH4fkmqOMEQNWKmJz+/MmRG6F1sPGZL4GuQcEARZ6r/qC/eQ+w7JaFOgwCEhtGoedh/1/enifUPPvCIELclGI0Hep2xS9XrgCINAwT47osSwo754WnFQtFXz3R3ONnKfV5jGyY+LRTWpJ20uKniQ7a1d6JB2SpFISLjCctI7OTWSUs=;BxBx3HOjenltSR4GM/mAHg=="
+related:
+  - title: "Read: Excerpts from Biden's DNI pick Avril Haines' opening statement"
+    excerpt: "Avril Haines will appear before the Senate Intelligence Committee on Tuesday to be considered for director of national intelligence.\n    \n"
+    publishedDateTime: 2021-01-19T13:51:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OmLcsIXjbUc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/haines-opening-statement-excerpts/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/haines-opening-statement-excerpts/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124135447-avril-haines-biden-admin-1124-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Read: Excerpts from Biden's DHS pick Alejandro Mayorkas' opening statement "
+    excerpt: "Alejandro Mayorkas will appear before the Senate Homeland Security and Governmental Affairs Committee on Tuesday to be considered for secretary of Homeland Security. \n    \n"
+    publishedDateTime: 2021-01-19T13:48:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sisAI2C6bS0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/mayorkas-opening-statement-excerpts/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/mayorkas-opening-statement-excerpts/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201124134550-alejandro-mayorkas-biden-admin-1124-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "zlfylqmMPo2clTj86OuDJu9T9GZ+JviAs5UNVb4iB6CAP5TUyVkB6Y1RhWwQHO17eSdB/VkF00VJHbwt5nLZha3/e9/w23umKL1FsUbHo5g86aq7ISDZrxLLqTz4n7Ui7B2N8NxA1Z1skIyAfc66tFJXI6WC2tVECLWNYWjGvZZOPXZWHCJTd8nVvRwgUPXdJJ1DUgIirb3qn3FtdWM/nXTZJCxbhBBCn+MTwvyAOboL0OmLNYoNxDFSUx2MwTNAgPYKO5r6Sxr9Q27l4dOWyXok5y/pEdqkSYQPRA769p1HfPm1k7yY+jb1mqP3UNglT76ra8prvh9e8VoucSetm1gd1eqwVcEsMic9CAtuAoE=;FqqtqKhJ9w9BK5j41tzaxQ=="
 ---
 

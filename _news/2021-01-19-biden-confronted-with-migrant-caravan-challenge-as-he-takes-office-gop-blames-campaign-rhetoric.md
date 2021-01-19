@@ -478,6 +478,15 @@ related:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 45
+  - title: "Biden Could Calm the Right by Curbing Excesses of the Left"
+    excerpt: "If he hopes to restore order in a divided nation, President-elect Joe Biden will need to help unruly factions see clearly that the only proper manner of seeking redress of grievances is peacefully. Given the recent tumult,"
+    publishedDateTime: 2021-01-19T13:57:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/19/biden_could_calm_the_right_by_curbing_excesses_of_the_left_533840.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "WCxV3Jr8NUHwejHSvgcW1MF+sF9CV7T265iEgx28ymUnsXFgtpwKlMwZa+vFI/MuCeJjWdalxG2mc2L5WoZmU8+Dq4KASYVp6DS2bolGaoh5TqKtwRPRFtJ7wMc19MEZpL1MCaMLqC8BnD0bGxTdJ9+fNraWN5yZzKmpU9B8/BaBrGfBf1sShLcli/YvGnHeTjfoVrLdYBGhiSWsMXd0nzo1jmPgWHMFP+zrdpmJvppUjZgExA4voXnjl8YVyvWGFGzuwhCtQOZ6A7YoTKOlKwz0FqEYHIjjOJYkUq1CzVyBsUDHHGqb6V35zO7SM1cbMKR/4iPbr8HzyJPeE+uuUNEmRTDIKq4uMJP35zl5521KCCviTLL1mVgSAIs5rEi3f59wSx+b+f4pU5qCXzmyhzTUAJ+GpJ1Uzd/ZbL2epqRI+/5fn4srsPP3dc8ODhiqOU1rIW2w8EvvxvSYKtpwAp2Fa4dj47Fl7C1gtidc/Q8m1sfJJoE8SZfivMe72Yl4x5I/qq1xHUklu6nMZrfrVw==;511c4+SJLA2WBh3SfpX7EQ=="
 ---

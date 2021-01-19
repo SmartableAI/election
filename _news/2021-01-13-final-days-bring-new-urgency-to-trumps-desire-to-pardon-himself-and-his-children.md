@@ -383,6 +383,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Bitter, Trump skips chance to say splashy, high-profile farewell"
+    excerpt: "A president's most valuable commodity is time and Donald Trump is out of it.\n    \n"
+    publishedDateTime: 2021-01-19T13:11:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/57l8ccMakLo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/trump-leaving-white-house-farewell-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/trump-leaving-white-house-farewell-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222084821-01-donald-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence to attend Biden inauguration; Trump never called him in the Capitol bunker, sources say"
     excerpt: "A loyal lieutenant to President Donald Trump, Pence was criticized by the president over his role counting Electoral College votes in Congress and was one of the people trapped inside the U.S. Capitol when Trump supporters stormed the building as the votes were being tallied."
     publishedDateTime: 2021-01-10T09:14:00Z

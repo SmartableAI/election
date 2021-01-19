@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Wyoming Republicans censure Cheney over Trump impeachment vote"
+    excerpt: "Wyoming's Carbon County Republican Party voted unanimously to censure Rep. Liz Cheney, R-Wyo., for voting with nine other House Republicans to impeach President Trump on charges of \"incitement of an insurrection.\""
+    publishedDateTime: 2021-01-19T14:35:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ULwU1c9iBk/liz-cheney-impeachment-republicans-herrera-beutler-wyoming"
+    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-impeachment-republicans-herrera-beutler-wyoming.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-impeachment-republicans-herrera-beutler-wyoming.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Rep-Liz-Cheney.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Live Updates: Trump's chances for acquittal in upcoming Senate impeachment trial unclear"
     excerpt: "Fox News contacted every Republican who will be serving as a senator after President-elect Joe Biden's inauguration on January 20, when the trial is likely to begin."
     publishedDateTime: 2021-01-15T06:05:37Z

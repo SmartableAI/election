@@ -2,9 +2,9 @@
 category: news
 title: "Biden inauguration: Donald Trump's last full day as US president - live updates"
 excerpt: "President expected to issue 100 pardons as Covid cases reach 24 million"
-publishedDateTime: 2021-01-19T11:32:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates?page=with:block-6006c5bc8f0847f62dee5eb2"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates?page=with:block-6006c5bc8f0847f62dee5eb2"
+publishedDateTime: 2021-01-19T09:13:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
 type: article
@@ -462,6 +462,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_60278844665d4eceae3340c9dc0fd4c0_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "The Latest: Biden to attend Mass with congressional leaders"
+    excerpt: "Joe Biden will strike a unity theme before his inauguration as president on Wednesday by worshipping with Congress’ top Republican and Democratic leaders"
+    publishedDateTime: 2021-01-19T14:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-to-attend-mass-with-congressional-leaders/2021/01/19/21c828ec-5a64-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-to-attend-mass-with-congressional-leaders/2021/01/19/21c828ec-5a64-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-to-attend-mass-with-congressional-leaders/2021/01/19/21c828ec-5a64-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump Reveals Who He Wants Statues to Honor in National Garden"
     excerpt: "What do Kobe Bryant, Bob Hope and Thomas Jefferson have in common? They are among the more than 200 names President Donald Trump has recommended to be honored in a yet-to-be created National Garden of American Heroes."
@@ -1152,6 +1168,22 @@ related:
         width: 3353
         height: 2235
         isCached: true
+  - title: "Joe Biden’s national security Cabinet nominees face Senate hearings a day before his inauguration"
+    excerpt: "Joe Biden’s national security Cabinet may be bare on Day One of his presidency, but an inauguration eve spurt of Senate confirmation hearings suggests that won’t be the case for long."
+    publishedDateTime: 2021-01-19T12:59:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-cabinet-senate-hearings-20210119-5dq6srkyeff37czuzmjtoiv3mm-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-cabinet-senate-hearings-20210119-5dq6srkyeff37czuzmjtoiv3mm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-cabinet-senate-hearings-20210119-5dq6srkyeff37czuzmjtoiv3mm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 62
+    images:
+      - url: "https://www.baltimoresun.com/resizer/iiFOMnHUURLAl0dnwR14YkJn878=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LMAE2SBIWVFADDWJ5JAVW2X7IY.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump Returns Cuba to U.S. List of State Sponsors of Terrorism"
     excerpt: "The Trump administration plans to return Cuba to the U.S. list of state sponsors of terrorism, a person familiar with the matter said on Monday, a move that could complicate any efforts by the incoming Biden administration to revive Obama-era detente with Havana."
     publishedDateTime: 2021-01-12T04:26:00Z
@@ -1256,6 +1288,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "fJhseftQHD3FC6VjjOsGPrGyr2QYaxI1JTcuxRT0n6+rJotTC2PmVU3ew0oHFEAucV375gdF7PkO+vhjpIPaQB79R6Q0H2/uObhTwyPgm9uvwAyo4vfc99o126pXFr9uxWAn4tW4/4Pvkiz9LTLybY3yydWXGGb6zDWnVcLbdKQ89AE9De8eiZr3rr105Xw0stZkhRNJasAXRH9xAKckQI/j5aqIC5DANrwJN3M/aT3eJHUl3se+eVRASVRApg6mLVEbLeZj9qnpkgDCTWb5D9Tkj6lwroMdUSFr/AWzwppHu6VPOI3zTgQRdRQ/d8UWxbeAAZpH3HtMlvgIZtl/pxkXlSniPSFtz7HofMIRSv8=;C9/36N/oAHA2UK7HGbHzkA=="
+secured: "TRVDFeOZL9Oo6ovKzoWH/QZtrKxOSifJB/IcyqpfKHC8WdzQv0hR7nR2693nWvICpiiBompFIFRwY6K8d+Cwv1qvZuA6HWDB6708uIt6N073e0y/SqZsoOdZWiGtnnBMJFvYTd3mabZtNI2iQHKKdQgHLZmAi+AZ4zqZ/uHc1qx3bZzxHvfuXPmQEH8BAEY4KT690iG9dTWLxAEwc8Vb/KZeyQGlwIMsR21a5Rr/Z+8l12jiqyexG+WjRN5yfDROwXKZElPVJvCr4HCnGvJpOS/I0I9Gk8KdW+pKI+bk4s6OJyaqsFjl70GgKCt98NJgoJovxMpi6dVaZ2q421pgx2Zu8j9VNyyCbRs2UWVNCSo=;wEQpdy2eDalsNpFOo6pUsw=="
 ---
 

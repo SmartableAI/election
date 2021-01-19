@@ -2,6 +2,283 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-12-18-trump-targeting-mcconnell-and-top-republicans-urges-them-to-get-tougher-in-election-fight.md",
+      "title": "Trump, targeting McConnell and top Republicans, urges them to 'get tougher' in election fight",
+      "excerpt": "President Trump is again taking aim at Senate Majority Leader Mitch McConnell after the top Republican and Trump ally earlier this week recognized President-elect Joe Biden's White House victory.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXf-_nfXuLg/trump-mcconnell-senate-republicans-get-tougher-election-fight",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXf-_nfXuLg/trump-mcconnell-senate-republicans-get-tougher-election-fight",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 339,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp",
+      "publishedDateTime": "2020-12-18T09:40:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-19-biden-transition-head-speaks-out-on-difficult-and-intense-process.md",
+      "title": "Biden transition head speaks out on 'difficult and intense' process",
+      "excerpt": "Biden’s longtime chief of staff and a former senator, says that leading Biden’s transition team “has been the most difficult and intense workload that I've ever experienced.” \"I thought we [saw] the most difficult transition because of the Great Recession,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/18/biden-transition-head-speaks-out-448145",
+      "originalUrl": "https://www.politico.com/news/2020/12/18/biden-transition-head-speaks-out-448145",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/93/34/c676a33a48e5800ae13b0b6b79e3/ted-kaufman-773-ap.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/18/biden-transition-head-speaks-out-448145",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/18/biden-transition-head-speaks-out-448145",
+      "publishedDateTime": "2020-12-18T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-19-he-called-me-kiddo-jill-biden-says-wsj-essay-was-such-a-surprise.md",
+      "title": "‘He called me kiddo’: Jill Biden says WSJ essay was ‘such a surprise’",
+      "excerpt": "\"One of the things I'm most proud of is my doctorate,\" incoming First Lady Jill Biden told Stephen Colbert while responding to the WSJ's controversial op-ed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-18/jill-biden-wsj-op-ed-doctor-joe-biden",
+      "originalUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-18/jill-biden-wsj-op-ed-doctor-joe-biden",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/2f18bf9/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe7%2F07%2F8d98f6f24cbc8fba98db590cda4a%2Fthumbnail%2Fpol-dnc-night-2-jill-biden-20200818-jl.0000005.jpg",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-18/jill-biden-wsj-op-ed-doctor-joe-biden?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/tv/story/2020-12-18/jill-biden-wsj-op-ed-doctor-joe-biden?_amp=true",
+      "publishedDateTime": "2020-12-18T09:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-trump-praises-tuberville-after-alabama-gop-senator-elect-leaves-open-objecting-to-election-results-january-6.md",
+      "title": "Trump praises Tuberville after Alabama GOP senator-elect leaves open objecting to election results January 6",
+      "excerpt": "President Donald Trump lauded Tommy Tuberville this week after the Republican Alabama senator-elect said he is not ruling out joining a House member to object to the election results when Congress meets in a joint session to accept the votes of the Electoral College.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g_lST3RO-Nk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g_lST3RO-Nk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201029152327-alabama-senate-race-doug-jones-tommy-tuberville-nws-orig-00002315-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/18/politics/tommy-tuberville-electoral-college-reaction/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/tommy-tuberville-electoral-college-reaction/index.html",
+      "publishedDateTime": "2020-12-18T08:31:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-18-supreme-court-throws-out-challenge-to-trumps-plan-to-exclude-undocumented-immigrants-from-census-count.md",
+      "title": "Supreme Court throws out challenge to Trump's plan to exclude undocumented immigrants from census count",
+      "excerpt": "The Supreme Court on Friday threw out a challenge to President Donald Trump's bid to exclude undocumented immigrants from being counted when seats in Congress are divvied up between the states next year.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N5wnCqzRAuA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N5wnCqzRAuA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201217193803-supreme-court-201212-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/18/politics/supreme-court-census-undocumented-immigrants/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/supreme-court-census-undocumented-immigrants/index.html",
+      "publishedDateTime": "2020-12-18T08:23:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-atlantic-city-auctions-off-chance-to-push-demolish-button-on-former-trump-casino.md",
       "title": "Atlantic City auctions off chance to push demolish button on former Trump casino",
       "excerpt": "The implosion of one of President Donald Trump's former Atlantic City casinos is being delayed by a few weeks.",
@@ -1104,278 +1381,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-seth-meyers-trumps-going-to-be-our-first-nomad-ex-president.md",
-      "title": "Seth Meyers: Trump's 'going to be our first nomad ex-president'",
-      "excerpt": "Late-night hosts discuss a request by residents of Palm Beach, Florida, to keep Trump from residing in Mar-a-Lago and belated GOP admissions of Biden’s victory",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/culture/2020/dec/17/seth-meyers-trump-nomad-ex-president-late-night-recap",
-      "originalUrl": "https://www.theguardian.com/culture/2020/dec/17/seth-meyers-trump-nomad-ex-president-late-night-recap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7416014168184d41ce4a6cdd14c8aeeb6edfe637/72_144_2521_1513/master/2521.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d303f29e709c094d6a9170f53385e5da",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/culture/2020/dec/17/seth-meyers-trump-nomad-ex-president-late-night-recap",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2020/dec/17/seth-meyers-trump-nomad-ex-president-late-night-recap",
-      "publishedDateTime": "2020-12-17T09:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-tammy-bruce-biden-staffers-crude-insult-shows-dems-have-no-intention-of-unifying-country.md",
-      "title": "Tammy Bruce: Biden staffer's crude insult shows Dems have 'no intention' of unifying country",
-      "excerpt": "The Democrats' attitude toward Republicans indicates that they do not want to collaborate on policy issues and unite the country, Fox Nation host Tammy Bruce said Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mz_nyKK-s0g/tammy-bruce-dems-no-intention-unifying-country",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mz_nyKK-s0g/tammy-bruce-dems-no-intention-unifying-country",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tammy-bruce-dems-no-intention-unifying-country.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tammy-bruce-dems-no-intention-unifying-country.amp",
-      "publishedDateTime": "2020-12-17T08:48:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-former-trump-adviser-points-finger-at-russia-for-brazen-solarwinds-hack-calls-for-response.md",
-      "title": "Former Trump adviser points finger at Russia for 'brazen' SolarWinds hack, calls for response",
-      "excerpt": "Thomas Bossert, former Homeland Security adviser to President Trump, in a Wednesday op-ed said there is evidence that Russia is to blame for what he called a \"brazen\" cyberattack on software company SolarWinds through cybersecurity company FireEye.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lvLJ8_P1lhE/thomas-bossert-russia-solarwinds-hack",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lvLJ8_P1lhE/thomas-bossert-russia-solarwinds-hack",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1bf403b4-1c48-466e-a25d-2682f1d7ab92/c089fbf7-6a94-4419-b442-8b6f92c8c3f7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/thomas-bossert-russia-solarwinds-hack.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/thomas-bossert-russia-solarwinds-hack.amp",
-      "publishedDateTime": "2020-12-17T08:41:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-biden-appears-in-campaign-ad-for-georgias-jon-ossoff-and-raphael-warnock.md",
-      "title": "Biden appears in campaign ad for Georgia's Jon Ossoff and Raphael Warnock",
-      "excerpt": "President-elect Joe Biden urged Georgians to vote for Jon Ossoff and Raphael Warnock in a campaign ad released Thursday, saying he needed the two Democrats in the Senate to pass legislation providing economic relief to Americans amid the coronavirus pandemic.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/chB6fc3fXJ4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/chB6fc3fXJ4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201215190047-biden-ossoff-warnock-bottoms-abrams-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/17/politics/biden-campaign-ad-ossoff-warnock/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/17/politics/biden-campaign-ad-ossoff-warnock/index.html",
-      "publishedDateTime": "2020-12-17T07:37:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-what-comes-next-for-a-donald-trump-impersonator-j-l-cauvin-has-thoughts.md",
-      "title": "What comes next for a Donald Trump impersonator? J-L Cauvin has thoughts",
-      "excerpt": "J-L Cauvin, a full-time lawyer who became a social media sensation as an impersonator, has plans for comedy after the Donald leaves the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/entertainment-arts/story/2020-12-17/donald-trump-impersonator-j-l-cauvin",
-      "originalUrl": "https://www.latimes.com/entertainment-arts/story/2020-12-17/donald-trump-impersonator-j-l-cauvin",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/f772d93/2147483647/strip/true/crop/3000x1959+0+20/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F60%2F2c%2Fc936ed7648d281fe04cd10c48e40%2Fla-et-best-of-books-2020-2-illo-458.JPG",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/entertainment-arts/story/2020-12-17/donald-trump-impersonator-j-l-cauvin?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/story/2020-12-17/donald-trump-impersonator-j-l-cauvin?_amp=true",
-      "publishedDateTime": "2020-12-17T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

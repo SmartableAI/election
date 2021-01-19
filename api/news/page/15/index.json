@@ -2,6 +2,284 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-12-31-computer-repairman-twitter-calling-me-hacker-in-hunter-biden-laptop-case-was-death-sentence.md",
+      "title": "Computer repairman: Twitter calling me hacker in Hunter Biden laptop case was 'death sentence'",
+      "excerpt": "The computer repairman at the center of the Hunter Biden laptop story said Thursday that Twitter destroyed his business by labeling him a \"hacker\" and legal action was his only recourse.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SeGHAEF1WmY/repairman-twitter-hacker-hunter-biden-death-sentence",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SeGHAEF1WmY/repairman-twitter-hacker-hunter-biden-death-sentence",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60113ed3-0ac2-471b-811f-c14b7f5dc24e/fa32c636-a6f1-43d4-82ba-80c74820accf/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/repairman-twitter-hacker-hunter-biden-death-sentence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/repairman-twitter-hacker-hunter-biden-death-sentence.amp",
+      "publishedDateTime": "2020-12-31T08:27:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-bidens-inaugural-committee-hosting-national-memorial-for-covid-19-victims-on-january-19.md",
+      "title": "Biden's inaugural committee hosting national memorial for Covid-19 victims on January 19",
+      "excerpt": "President-elect Joe Biden's inaugural committee on Thursday announced that it is hosting a national memorial to remember and honor the lives lost to Covid-19 and is asking cities and towns around the country to participate.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mEYhCg4S1gE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mEYhCg4S1gE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200822172519-lincoln-memorial-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/31/politics/presidential-inaugural-committee-covid-19-memorial/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/31/politics/presidential-inaugural-committee-covid-19-memorial/index.html",
+      "publishedDateTime": "2020-12-31T06:20:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-trump-versus-the-truth-the-most-outrageous-falsehoods-of-his-presidency.md",
+      "title": "Trump versus the truth: The most outrageous falsehoods of his presidency",
+      "excerpt": "I have never seen a president in American history who has lied so continuously and so outrageously as Donald Trump, period,” presidential historian Michael Beschloss said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-versus-truth-most-outrageous-falsehoods-his-presidency-n1252580",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-versus-truth-most-outrageous-falsehoods-his-presidency-n1252580",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_52/3437553/201222-trump-biggest-whoppers-main-cover-cs_03ea1ca899b5c3c15b942562ca290873.jpg",
+          "width": 2500,
+          "height": 1408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1252580",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1252580",
+      "publishedDateTime": "2020-12-31T01:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-alec-baldwin-should-play-himself-in-snl-sketch-about-wifes-heritage-controversy-trump-jr.md",
+      "title": "Alec Baldwin should play himself in 'SNL' sketch about wife's heritage controversy: Trump Jr.",
+      "excerpt": "Donald Trump Jr Wednesday suggested actor Alec Baldwin should play himself in a \"Saturday Night Live\" sketch about his wife Hilaria’s scandal over her heritage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/donald-trump-jr-wants-alec-baldwin-to-play-himself-in-snl-sketch-about-wifes-heritage-controversy",
+      "originalUrl": "https://www.foxnews.com/entertainment/donald-trump-jr-wants-alec-baldwin-to-play-himself-in-snl-sketch-about-wifes-heritage-controversy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/203cf16f-1115-42d3-a829-bfd0e89d9286/1fd3ba14-3347-4fe2-be90-0c1bd15856f1/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/donald-trump-jr-wants-alec-baldwin-to-play-himself-in-snl-sketch-about-wifes-heritage-controversy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/donald-trump-jr-wants-alec-baldwin-to-play-himself-in-snl-sketch-about-wifes-heritage-controversy.amp",
+      "publishedDateTime": "2020-12-31T00:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss.md",
+      "title": "Trump makes 2nd request to Supreme Court over Wisconsin loss",
+      "excerpt": "President Donald Trump on Wednesday asked the U.S. Supreme Court to overturn his election loss in Wisconsin, his second appeal in as many days to the high court over the result in the key battleground state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-makes-2nd-request-to-supreme-court-over-wisconsin-loss/2020/12/30/83c2ca2c-4b17-11eb-97b6-4eb9f72ff46b_story.html?outputType=amp",
+      "publishedDateTime": "2020-12-31T00:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-biden-campaign-promises-included-decriminalizing-hiv-exposure.md",
       "title": "Biden campaign promises included decriminalizing HIV exposure",
       "excerpt": "President-elect Joe Biden has promised to \"advance LGBTQ equality\" by reversing decades-old criminalization of HIV exposure and transmission laws that have no \"scientific basis\" and contribute to stigmas.",
@@ -1104,280 +1382,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-nashville-mayor-says-trump-still-hasnt-reached-out-to-him-about-bombing.md",
-      "title": "Nashville mayor says Trump still hasn't reached out to him about bombing",
-      "excerpt": "Trump has made no public remarks on the bombing while spending the holidays at his Mar-a-Lago resort in Florida, where he's done a lot of golfing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/nashville-mayor-says-trump-hasnt-reached-out-about-bombing-2020-12",
-      "originalUrl": "https://www.businessinsider.com/nashville-mayor-says-trump-hasnt-reached-out-about-bombing-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5feb6af1edf89200180940e2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/nashville-mayor-says-trump-hasnt-reached-out-about-bombing-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nashville-mayor-says-trump-hasnt-reached-out-about-bombing-2020-12?amp",
-      "publishedDateTime": "2020-12-29T10:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-harris-emphasizes-covid-19-vaccine-is-painless-and-safe.md",
-      "title": "Harris emphasizes COVID-19 vaccine is 'painless' and 'safe'",
-      "excerpt": "Vice President-elect Kamala Harris on Tuesday publicly took the recently approved coronavirus vaccine.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VVmG2hJUoCg/harris-covid-19-vaccine-painless-safe",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VVmG2hJUoCg/harris-covid-19-vaccine-painless-safe",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-covid-19-vaccine-painless-safe.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-covid-19-vaccine-painless-safe.amp",
-      "publishedDateTime": "2020-12-29T09:26:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-trump-slams-weak-and-tired-senate-gop-leaders-amid-defense-veto-override-fight.md",
-      "title": "Trump slams 'weak and tired' Senate GOP leaders amid defense veto override fight",
-      "excerpt": "President Trump on Tuesday condemned \"weak and tired\" Senate Republican leadership as the upper chamber faces a vote to override his veto of the 2021 defense budget.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/owOMsiaR5FI/trump-weak-senate-leaders-defense-budget",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/owOMsiaR5FI/trump-weak-senate-leaders-defense-budget",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/986da2d7-f8ad-4ef2-bfbf-76e0321a0afa/3dcfc7ce-c935-4968-a3b3-788592547a51/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp",
-      "publishedDateTime": "2020-12-29T08:40:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-kamala-harris-receives-first-dose-of-moderna-covid-19-vaccine-on-camera.md",
-      "title": "Kamala Harris receives first dose of Moderna Covid-19 vaccine on camera",
-      "excerpt": "Vice President-elect Kamala Harris is expected to receive the first dose of a Covid-19 vaccine on Tuesday, according to the Biden transition team.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ERdQBFizyAA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ERdQBFizyAA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201203235547-kamala-biden-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/29/politics/kamala-harris-covid-vaccine/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/kamala-harris-covid-vaccine/index.html",
-      "publishedDateTime": "2020-12-29T08:25:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-kamala-harris-and-husband-doug-emhoff-receive-covid-19-vaccine.md",
-      "title": "Kamala Harris and husband Doug Emhoff receive COVID-19 vaccine",
-      "excerpt": "The vice president-elect received her shot on camera as part of efforts to build public trust in the coronavirus vaccine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/kamala-harris-doug-emhoff-covid-vaccine/",
-      "originalUrl": "https://www.cbsnews.com/news/kamala-harris-doug-emhoff-covid-vaccine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 465,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/29/8cbf2e07-8d58-471e-8572-0e4176b0db22/thumbnail/1200x630/9fc15131cf2b1c1379915144a2afbcdb/ap-20364578711714.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/kamala-harris-doug-emhoff-covid-vaccine/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-doug-emhoff-covid-vaccine/",
-      "publishedDateTime": "2020-12-29T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

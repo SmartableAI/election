@@ -2,25 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-19-simply-no-place-for-politics-in-intelligence-work-bidens-spy-chief-nominee-will-say.md",
-      "title": "'Simply no place for politics' in intelligence work, Biden's spy chief nominee will say",
-      "excerpt": "Avril Haines is set to tell senators that \"the DNI must never shy away from speaking truth to power — even, especially, when doing so may be inconvenient or difficult.\"",
+      "path": "_news/2021-01-19-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing.md",
+      "title": "Watch live: Biden nominee for DHS Director testifies at confirmation hearing",
+      "excerpt": "President-elect Joe Biden's nominee for Director of the Department of Homeland Security Alejandro Mayorkas on Tuesday morning is slated to testify at his Senate confirmation hearing.The hearing is scheduled to begin at 10 a.",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/01/19/avril-haines-spy-chief-confirmation-hearing-460309",
-      "originalUrl": "https://www.politico.com/news/2021/01/19/avril-haines-spy-chief-confirmation-hearing-460309",
+      "webUrl": "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing",
+      "originalUrl": "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 127,
+      "highlight": null,
+      "heat": 142,
       "tags": null,
       "images": [
         {
-          "url": "https://static.politico.com/52/e7/39a246014905962ddce1dba67c44/210118-haines-getty-773.jpg",
-          "width": 1160,
-          "height": 773,
+          "url": "https://thehill.com/sites/default/files/mayorkasalejandro_11242020getty.jpg",
+          "width": 980,
+          "height": 551,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,16 +24,115 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/19/avril-haines-spy-chief-confirmation-hearing-460309",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/19/avril-haines-spy-chief-confirmation-hearing-460309",
-      "publishedDateTime": "2021-01-19T04:57:00-08:00",
+      "ampWebUrl": "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing?amp",
+      "publishedDateTime": "2021-01-19T06:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-joe-biden-has-set-sky-high-expectations-can-he-meet-them.md",
+      "title": "Joe Biden has set sky-high expectations. Can he meet them?",
+      "excerpt": "Back when the election was tightening and just a week away, Joe Biden went big. He flew to Warm Springs, the Georgia town whose thermal waters once brought Franklin Delano Roosevelt comfort from polio,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html",
+      "originalUrl": "https://www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KMV2GSVBLRBFXG6Q3CXUGLMWEE.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html?outputType=amp",
+      "publishedDateTime": "2021-01-19T05:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cleveland.com",
+        "domain": "cleveland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-when-joe-biden-takes-the-white-house-hell-also-take-whitehouse.md",
+      "title": "When Joe Biden Takes the White House, He’ll Also Take @WhiteHouse",
+      "excerpt": "Biden Jr. completes his transition into the White House, several social media companies will be completing their own transitions of highly followed official accounts. But the handoff won’t be as seamless as it was four years ago,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/01/19/technology/biden-white-house-twitter-account.html",
+      "originalUrl": "https://www.nytimes.com/2021/01/19/technology/biden-white-house-twitter-account.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/19/multimedia/19xp-socialmedia-image/19xp-socialmedia-image-facebookJumbo.png",
+          "width": 812,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/01/19/technology/biden-white-house-twitter-account.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/technology/biden-white-house-twitter-account.amp.html",
+      "publishedDateTime": "2021-01-19T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -176,7 +271,7 @@
       "originalUrl": "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1808,
+      "heat": 1848,
       "tags": null,
       "images": [
         {
@@ -740,7 +835,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1450,110 +1545,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-biden-calls-on-mob-to-pull-back-urges-restoring-decency.md",
-      "title": "Biden calls on mob to ‘pull back,’ urges restoring decency",
-      "excerpt": "President-elect Joe Biden is calling for the restoration of “simple decency” after a mob incited by his predecessor stormed the U.S. Capitol and delayed Congress from certifying Biden’s November elect",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 925,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-calls-on-mob-to-pull-back-urges-restoring-decency/2021/01/06/671c4166-5065-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-06T18:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-biden-has-selected-judge-merrick-garland-to-serve-as-attorney-general-politico.md",
-      "title": "Biden has selected Judge Merrick Garland to serve as attorney general - Politico",
-      "excerpt": "President-elect Joe Biden has selected Judge Merrick Garland to serve as his attorney general, Politico reported on Wednesday, citing two people with knowledge of the decision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-attorney-general/biden-selects-judge-merrick-garland-for-attorney-general-official-idUSKBN29B2C8",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-attorney-general/biden-selects-judge-merrick-garland-for-attorney-general-official-idUSKBN29B2C8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210106&t=2&i=1546834261&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0517S",
-          "width": 765,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29B2C8",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29B2C8",
-      "publishedDateTime": "2021-01-06T14:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

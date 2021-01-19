@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-19-huckabee-pushes-back-on-calls-for-deprogramming-trump-voters-the-cult-of-the-left.md",
+      "title": "Huckabee pushes back on calls for 'deprogramming' Trump voters: 'The cult of the left'",
+      "excerpt": "In response to some people claiming Trump supporters need to be \"deprogrammed,\" Fox News contributor Mike Huckabee on Tuesday explained why people voted for the former reality TV star to lead the country.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/41meoZZwfDI/huckabee-katie-couric-deprogram-trump-voters-cult",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/41meoZZwfDI/huckabee-katie-couric-deprogram-trump-voters-cult",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/huckabee-katie-couric-deprogram-trump-voters-cult.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/huckabee-katie-couric-deprogram-trump-voters-cult.amp",
+      "publishedDateTime": "2021-01-19T06:11:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-biden-will-find-chinas-malign-foreign-influence-campaign-a-challenge-us-counter-intel-chief-says.md",
       "title": "Biden will find China's malign foreign influence campaign a 'challenge,' US counter-intel chief says",
       "excerpt": "EXCLUSIVE: National Counterintelligence and Security Center Director Bill Evanina said no country poses a \"broader, more severe\" threat to America than China, telling Fox News that its malign foreign influence campaign against the United States will be one of the \"bigger challenges\" for the incoming",
@@ -126,7 +182,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 166,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -462,7 +518,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 765,
+      "heat": 785,
       "tags": null,
       "images": [
         {
@@ -1173,63 +1229,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-16-banks-rips-cnns-lemon-for-slam-on-trump-supporters-they-want-to-cancel-all-of-us-with-conservative-beliefs.md",
-      "title": "Banks rips CNN's Lemon for slam on Trump supporters: 'They want to cancel all of us with conservative beliefs'",
-      "excerpt": "Ind., pushed back Friday on CNN anchor Don Lemon's claim that people who voted for President Trump are on the side of Nazis and the Ku Klux Klan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/banks-rips-lemon-trump-supporters-cancel-conservative-beliefs",
-      "originalUrl": "https://www.foxnews.com/media/banks-rips-lemon-trump-supporters-cancel-conservative-beliefs",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/banks-rips-lemon-trump-supporters-cancel-conservative-beliefs.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/banks-rips-lemon-trump-supporters-cancel-conservative-beliefs.amp",
-      "publishedDateTime": "2021-01-15T14:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-15-gop-sours-on-trump-but-many-cling-to-election-hoax.md",
       "title": "GOP sours on Trump, but many cling to election hoax",
       "excerpt": "As Republicans begin the process of moving on, one number stands out among their attitudes about this presidency...",
@@ -1298,7 +1297,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 624,
+      "heat": 664,
       "tags": null,
       "images": [
         {

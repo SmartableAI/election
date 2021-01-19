@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "5 ways Biden plans to reset health care after Trump"
+    excerpt: "Strengthen the Affordable Care Act. Restore abortion protections. Lower drug prices.\n    \n"
+    publishedDateTime: 2021-01-19T13:31:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oOn806LqB88/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/biden-undo-trump-health-care/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/biden-undo-trump-health-care/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118131202-01-biden-healthcare-june-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden expected to call out Trump administration on pace of vaccine distribution"
     excerpt: "President-elect Joe Biden is set to confront the slower-than-expected pace at which the Trump administration is administering coronavirus vaccines in remarks Tuesday afternoon, a transition official tells CNN.\n    \n"
     publishedDateTime: 2020-12-29T16:02:19Z
@@ -364,6 +380,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118002538-04-donald-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "See the 'Field of Flags' planted on the National Mall ahead of Biden's inauguration"
+    excerpt: "Instead of the patriotic crowds that typically fill the National Mall on Inauguration Day, President-elect Joe Biden will be sworn in before hundreds of thousands of American flags.\n    \n"
+    publishedDateTime: 2021-01-19T14:40:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cm0KZV1wGT4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/field-of-flags-biden-inauguration-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/field-of-flags-biden-inauguration-trnd/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118192328-01-field-of-flags-0118-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -763,6 +763,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "How Biden Aims to Reshape the Presidency After Trump"
+    excerpt: "When Joe Biden takes the oath of office Wednesday outside a wounded U.S. Capitol, he will begin reshaping the office of the"
+    publishedDateTime: 2021-01-19T14:56:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/19/how_biden_aims_to_reshape_the_presidency_after_trump_145069.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/19/how_biden_aims_to_reshape_the_presidency_after_trump_145069.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/19/how_biden_aims_to_reshape_the_presidency_after_trump_145069.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 100
+    images:
+      - url: "https://assets.realclear.com/images/53/532491_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "The Lynch Mob Comes for Citizen Trump"
     excerpt: "The mob was a mile away as Trump spoke. It was up at the Capitol while Trump was on the Monument grounds. It could not hear him. And the break-in of the Capitol began even before"
     publishedDateTime: 2021-01-15T12:00:00Z

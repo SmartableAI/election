@@ -376,6 +376,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Bitter, Trump skips chance to say splashy, high-profile farewell"
+    excerpt: "A president's most valuable commodity is time and Donald Trump is out of it.\n    \n"
+    publishedDateTime: 2021-01-19T13:11:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/57l8ccMakLo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/trump-leaving-white-house-farewell-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/trump-leaving-white-house-farewell-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222084821-01-donald-trump-1212-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Final days bring new urgency to Trump's desire to pardon himself and his children"
     excerpt: "President Donald Trump has discussed issuing pardons for himself and his children with new urgency since the attack on the US Capitol, multiple sources familiar with the matter tell CNN.\n    \n"
     publishedDateTime: 2021-01-13T02:15:11Z

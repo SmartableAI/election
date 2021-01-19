@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-samantha-p
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -109,19 +109,37 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Joe Biden to propose 8-year citizenship path for immigrants"
-    excerpt: "WASHINGTON (AP) — President-elect Joe Biden plans to unveil a sweeping immigration bill on Day One of his administration, hoping to provide an eight-year path to citizenship for an estimated"
-    publishedDateTime: 2021-01-19T11:13:00Z
-    webUrl: "https://apnews.com/article/joe-biden-donald-trump-legislation-immigration-border-security-2179887c74cfd8d156bbd293abfc9fb0"
+  - title: "Joe Biden picks transgender woman as assistant health secretary"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has tapped Pennsylvania Health Secretary Rachel Levine to be his assistant secretary of health, leaving her poised to become the first openly"
+    publishedDateTime: 2021-01-19T12:15:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/19/biden-picks-transgender-woman-as-assistant-health-secretary/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/19/biden-picks-transgender-woman-as-assistant-health-secretary/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/19/biden-picks-transgender-woman-as-assistant-health-secretary/amp/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
     images:
-      - url: "https://storage.googleapis.com/afs-prod/media/5b03a16b14cc4d7686f5243d7b265933/3000.jpeg"
-        width: 3000
-        height: 2000
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/Biden_Health_Appointee_26055.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Joe Biden to propose 8-year citizenship path for immigrants"
+    excerpt: "WASHINGTON — President-elect Joe Biden plans to unveil a sweeping immigration bill on Day One of his administration, hoping to provide an eight-year path to citizenship for an estimated 11 million people living in the U."
+    publishedDateTime: 2021-01-19T13:24:00Z
+    webUrl: "https://www.nola.com/news/politics/national_politics/article_49570082-5a59-11eb-8143-4750e9d9fff7.html"
+    ampWebUrl: "https://www.nola.com/news/politics/national_politics/article_49570082-5a59-11eb-8143-4750e9d9fff7.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/politics/national_politics/article_49570082-5a59-11eb-8143-4750e9d9fff7.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/c/24/c24de76c-5a59-11eb-ba7c-1b2fed1bd578/6006ddd45f4ef.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "7YkcfDGuJRPoyPV/tsfODQMLVI4N6rsbedMoYNZYVllwrVn9QVazycbvGYBnLdALRc+AjcNsoSob3+8bSIveeHUwrwjflJTN7uKzd/OL65A5Wf8+xEPGAFoVLJD7mn/5cXYqDm0G4ESXA8u5BQRrfoxhUnlA6O9kHnN4Eprg3nSlVF2XSkVaoy3voC0yBWdOlYTdY7zRacKkEH9rCNsrHOPpNqUSDt17W4v26zy4Iv6dxwmF8v6mVWWqbKDABsMR/iBT6xLODXqUcRl8XwcQBN+zj0AxLzKhdp8xcEkRG+MQPGwVPeWIRcWfpIE7RdTVCu9xRDZmznHz4514vbcunKfuy/cvMS1MVnGYRgslPyI=;j4euz2KlOQaGa6yACRq8JA=="
