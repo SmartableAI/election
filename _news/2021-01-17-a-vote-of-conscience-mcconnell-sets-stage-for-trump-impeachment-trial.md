@@ -162,6 +162,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Mitch McConnell: Trump ‘fed lies’ to mob that stormed Capitol"
+    excerpt: "They were provoked by the president and other powerful people, and they tried to use fear and violence to stop a specific proceeding of branch of the federal government.”"
+    publishedDateTime: 2021-01-19T18:01:00Z
+    webUrl: "https://www.al.com/news/2021/01/mitch-mcconnell-trump-fed-lies-to-mob-that-stormed-capitol.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/mitch-mcconnell-trump-fed-lies-to-mob-that-stormed-capitol.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/mitch-mcconnell-trump-fed-lies-to-mob-that-stormed-capitol.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TJIIVGNITJGIRJC6M4SJLB74IQ.jpg"
+        width: 8192
+        height: 5464
+        isCached: true
   - title: "How Tennessee's congressional delegation voted on a second impeachment of President Donald Trump"
     excerpt: "President Trump is the only president to be impeached a second time, and the vote fell mostly along party lines. Here's how Tennessee's reps voted."
     publishedDateTime: 2021-01-13T22:33:00Z

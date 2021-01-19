@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing?amp"
 type: article
 quality: 122
-heat: 142
+heat: 162
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Health 202: It's still unclear who will lead HHS after Biden is sworn in"
+    excerpt: "The president-elect will need to designate many temporary agency heads before the Senate confirms his nominees."
+    publishedDateTime: 2021-01-19T17:35:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/19/health-202-it-still-unclear-who-will-lead-hhs-after-biden-is-sworn/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/19/health-202-it-still-unclear-who-will-lead-hhs-after-biden-is-sworn/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/19/health-202-it-still-unclear-who-will-lead-hhs-after-biden-is-sworn/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4KVQTYBZSMI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden taps Levine for key health role, in historic pick of transgender person"
     excerpt: "President-elect Joe Biden on Tuesday named Dr. Rachel Levine to service as assistant U.S. health secretary, a historic first as Levine would become the first openly transgender official to be confirmed by the Senate."
     publishedDateTime: 2021-01-19T14:48:00Z

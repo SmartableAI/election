@@ -32,35 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "Ex-Obama official who helped fix botched healthcare.gov rollout to join Biden's Covid-19 team"
-    excerpt: "Andy Slavitt, the former acting chief of Medicare and Medicaid under the Obama administration, is expected to join President-elect Joe Biden's Covid-19 team in a senior advisory role, CNN has learned.\n    \n"
-    publishedDateTime: 2021-01-14T20:39:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oRIuVJft_tM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/andy-slavitt-biden-covid-team/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/andy-slavitt-biden-covid-team/index.html"
+  - title: "Joe Biden set to arrive in Washington on eve of his inauguration"
+    excerpt: "President-elect Joe Biden arrives in Washington Tuesday for the start of his inaugural ceremonies at a dark and solemn moment in American history, preparing to take his oath of office as the US approaches 400,000 coronavirus deaths and is more divided than at any time since the Civil War.\n    \n"
+    publishedDateTime: 2021-01-19T18:50:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2b-bS4R_BRc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memorial/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memorial/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200716165206-andy-slavitt-new-headshot-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118185745-field-of-flags-210118-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "POLITICO-Harvard poll: Public strongly backs Biden's demand for Covid aid"
-    excerpt: "There's strong public support for Biden's vision of an expansive government effort to combat the pandemic and its economic fallout."
-    publishedDateTime: 2021-01-08T16:27:00Z
-    webUrl: "https://www.politico.com/news/2021/01/08/politico-harvard-poll-public-biden-aid-456511"
+  - title: "Washington Post: Pence closer than initially known to the violent mob during US Capitol storming "
+    excerpt: "Vice President Mike Pence came closer than initially known to the mob of pro-Trump rioters who stormed the US Capitol on January 6, according to new reporting from the Washington Post.\n    \n"
+    publishedDateTime: 2021-01-15T16:55:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VEuDu-3iRN0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/pence-mob-us-capitol-january-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/pence-mob-us-capitol-january-6/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 114
+      name: CNN
+      domain: cnn.com
+    quality: 172
     images:
-      - url: "https://static.politico.com/a8/bf/dd754b0945feaec329e1698db776/ap21006771717797-1.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107054511-02-congress-electoral-college-0107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'Armed protests' warning puts officials on alert this weekend ahead of Biden inauguration"
+    excerpt: "Law enforcement and state officials are on high alert for potentially violent protests this weekend in the lead-up to Inauguration Day, with some state capitols boarded up and others temporarily closed ahead of Wednesday's ceremony."
+    publishedDateTime: 2021-01-19T15:47:00Z
+    webUrl: "https://www.cnn.com/2021/01/16/us/inauguration-protests-saturday/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/us/inauguration-protests-saturday/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/us/inauguration-protests-saturday/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 126
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116204718-capitol-fence-jan-15-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "VWSL5DLxrnwhZ1EIYcUdwjyxWM6WTIg6eLdLeWvmxCSK5hFpeIAsRM++NpVQtEbssquArh7zqI4JrHFhMZWQKSF1uCKNVHEK/Q/bDaF04ziwGHn6zGkIchKnmvpWYHn7dInG7XIqe9+LuvDgUA+N5C5A/MwGeJ26+R0usqLdI9SYxGJfQR0Vu9sDpTnfZP7EwkRq6D9DXxinyyvSEkzbqQ7jKKXbBLE4QmSc8O/Q7rs7ijizDS5mqADw7hlxmn2UTFCsX/U+6+pQo3BgE91Oe8nYhGzt392M5FxBXzUhm6Eo9GeppRJRpHsitepEyhg4PED6zacqDjU5o+1FRJKe8kOKVMFzILybBQwP6+XMOns/4/D4upa83XlMgbJmcTfjMNMxYrW+PuqOvwgpqslq/HXHLMTBO7W9yJnk6GHjAux9hWiqpbLVMASxm0uQN6ZQNXi+tSK5Acy/tlvGp5G5f3TcFvYDk+AhNFY8KANac6GSXN8YJ7Ygh8uA4VyhdQoV1JNl0sKiTRpEpjv5tAcb5g==;SEaEUeBqPjxCWNeQf0c1IA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/health/asian-shares-mixed-following-b
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/asian-shares-mixed-following-biden-speech-wall-st-retreat/2021/01/14/b18916e2-56e7-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 545
+heat: 565
 published: true
 
 provider:
@@ -235,6 +235,20 @@ related:
     quality: 102
     images:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548111937&r=LYNXMPEH0G0AL&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Spend big now, pay down debt later, Biden's Treasury nominee Yellen tells lawmakers"
+    excerpt: "Janet Yellen, U.S. President-elect Joe Biden's nominee for Treasury Secretary, urged lawmakers on Tuesday to \"act big\" on the next coronavirus relief package, adding that the benefits outweigh the costs of a higher debt burden."
+    publishedDateTime: 2021-01-19T18:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-yellen-idUKKBN29O1WX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548330451&r=LYNXMPEH0I18D&w=800"
         width: 800
         height: 533
         isCached: true

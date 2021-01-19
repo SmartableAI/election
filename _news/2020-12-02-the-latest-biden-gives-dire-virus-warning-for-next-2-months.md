@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/national-security/the-latest-bi
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/the-latest-biden-i-wont-immediately-lift-china-tariffs/2020/12/02/006ff79e-34ab-11eb-9699-00d311f13d2d_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -215,6 +215,17 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
+    quality: 105
+  - title: "The Latest: Biden nominee says intel won't be politicized"
+    excerpt: "The Latest on Senate confirmation hearings for President-elect Joe Biden’s nominees for his administration (all times local):"
+    publishedDateTime: 2021-01-19T18:18:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-biden-nominee-says-intel-wont-be-politicized-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-biden-nominee-says-intel-wont-be-politicized-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-nominee-says-intel-wont-be-politicized-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
   - title: "Coronavirus live news: Biden joins ex-presidents in pledge to get vaccinated in public as global deaths pass 1.5m"
     excerpt: "Biden will ask Americans to wear masks for his first 100 days in office; Italy approves Christmas restrictions; Iran’s cases top 1m"

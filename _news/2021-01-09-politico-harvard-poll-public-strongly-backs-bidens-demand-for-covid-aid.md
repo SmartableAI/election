@@ -46,22 +46,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "With 400k Covid deaths, Biden set to take helm of nation in crisis"
-    excerpt: "With more than 400,000 souls lost to the coronavirus pandemic, President-elect Joe Biden will have his work cut out for him when he takes the helm of a polarized and pained nation tomorrow at noon. Here is what we're watching this Tuesday morning."
-    publishedDateTime: 2021-01-19T12:58:00Z
-    webUrl: "https://www.nbcnews.com/news/morning-briefing/400k-covid-deaths-biden-set-take-helm-nation-crisis-n1254640"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254640"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254640"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2021_03/3443042/210119-lincoln_memorial_reflecting_pool-mc-1137_a48dc439f5ef580d138644f5f3cb857b.JPG"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "nOlqpmZrZdiRD3hgk3HUwoRQ7MOqn7jZ7IFvahUMCINtA4Ujt4FQgW1XTx8BFPV5orHb02rxtUT/In7iiyHwRRB5q0wwdj6NLnmLw45rl7Mbjx57ThKNUcBVPlp9Ej/HpnB1Wzk1dANEV9DOs//HH473EnVvob0k07lU4B5TNnDA0D5vn0HkNGbvTX0VCSLqektGeXzBcOFsCVDnRjXBKGIVo2usXq3sZmc+lCqcCRZPKEtO5bLr+Shzdw2NOjYEhgqRph4uqV3NJwVJFXJFmmRzSmlsDkwkOlsGOGB+pZ+UnoQTDXk/PgQO0s8AYN6hI/8ZZpTDvvW1e4kg/PaxJwbVIknmZmgV0TkKznpNacs=;eKzubVTpHaQHeEa7pJU5Dg=="
 ---

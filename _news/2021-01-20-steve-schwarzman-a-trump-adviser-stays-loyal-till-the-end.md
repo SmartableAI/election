@@ -3,13 +3,11 @@ category: news
 title: "Steve Schwarzman, a Trump Adviser, Stays Loyal Till the End"
 excerpt: "The Blackstone chief executive stuck with President Trump despite the occasional slight, and stopped short of criticizing Mr. Trump even after the Capitol attack."
 publishedDateTime: 2021-01-19T16:35:00Z
-originalUrl: "https://www.nytimes.com/2021/01/19/business/schwarzman-blackstone-trump-loyal.html"
-webUrl: "https://www.nytimes.com/2021/01/19/business/schwarzman-blackstone-trump-loyal.html"
-ampWebUrl: "https://www.nytimes.com/2021/01/19/business/schwarzman-blackstone-trump-loyal.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/business/schwarzman-blackstone-trump-loyal.amp.html"
+originalUrl: "https://www.nytimes.com/2021/01/19/business/schwarzman-blackstone-trump.html"
+webUrl: "https://www.nytimes.com/2021/01/19/business/schwarzman-blackstone-trump.html"
 type: article
-quality: 135
-heat: 135
+quality: 115
+heat: 115
 published: true
 
 provider:
@@ -31,6 +29,6 @@ images:
     height: 550
     isCached: true
 
-secured: "YWp6nN4smOg0JFp12Gzf+jdB/GfqAtkX+DHLDqgmqTKZOTamsZaDelxiEGWbdprTfneZL2YNI13J0wtDEHRBXfi5XggpczCahg/bQIVrxDedq4d8ydXvXD99nMaYehp5k+Dy9VSm5mthzScstwBnd+6hIXaQoy6+PJbcNpwkenRZgBu5wW/AOrksSzAjdbo9M2PUJDDukH1NStXtqok26IAYMStd85J1SYKc5cOUd+j745hkVVbswJ4nuXqTIo2Qxze+5ErWYJxqBhHkQbDA34O6okEl/IbEg0Ab+lghHHTAbs/MesmPrn2tucvjK7Ek8sgrBER9tLejzf+R4Wod0NOfHfW3CEpi+ZgPIBJ69Pg=;MCCrPHJCyl2FhFeZxZtRJQ=="
+secured: "0j7pkcyxHwGgDFsW0G+OgvvVSyziIQMXXUBi4s0sMl8Gd7vFXWYgWW0sUJgvnMFXQZtfRAit+fDqSatEKkF1Tu2UBxBChrQukDf9EjF6qnwjJTCHg7zBo8oFzYUBXSefmu/FVv26moHsOVzjXHR9+rOnh5c5KCqBDFexg6AqrXpZtnTpynORHXx6bUSaHlFheWrRjWarvUyCDP2GDmQ7q9cxShvu5B++h8LJcoj5JNXLT4O1EAYxnBdiMy0xrqeMVE5gBDf/9JM9x9DK/YBov0eB42ymERlNETSZ3AgVAFrmnPiwZpWgJJofThksMjX/Sgc/LscnAx1wIR9L3x/FKhhFYal8RMRH/g4uI1YdR7s=;TtYkb6A2zNZuFcSdkhyyUg=="
 ---
 

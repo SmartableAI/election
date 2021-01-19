@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Several dozen' of Trump's pardons pushed by criminal justice reform groups"
+    excerpt: "Several dozen of President Donald Trump's final slate of more than 100 pardons and commutations will be doled out to individuals whose cases have been championed by criminal justice reform advocates, a source close to the process tells CNN.\n    \n"
+    publishedDateTime: 2021-01-19T16:48:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D9gGWPVpL20/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/trump-pardons-commutations-list/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/trump-pardons-commutations-list/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222011052-donald-trump-1212-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "First lady Melania Trump breaks her silence on Capitol riot, then hits back at her critics"
     excerpt: "First lady Melania Trump has broken her silence on the Capitol insurrection incited by her husband in a letter posted on the White House website early Monday morning in which she lashes out at her critics and then condemns the violence.\n    \n"
     publishedDateTime: 2021-01-11T12:02:21Z

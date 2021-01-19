@@ -135,6 +135,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "From Howard to VP: Kamala Harris' Alpha Kappa Alpha Sisters Keep Her Centered"
+    excerpt: "She was a Howard University senior working toward a career in public service, mature thanks to her four years on campus and committed to strengthening the bond with her line sisters. She was none other than Vice President-elect Kamala Harris."
+    publishedDateTime: 2021-01-19T17:57:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-alpha-kappa-alpha-sorority-sisters-keep-her-centered-from-howard-university-to-the-vice-presidency/2838228/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-alpha-kappa-alpha-sorority-sisters-keep-her-centered-from-howard-university-to-the-vice-presidency/2838228/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/kamala-harris-alpha-kappa-alpha-sorority-sisters-keep-her-centered-from-howard-university-to-the-vice-presidency/2838228/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 72
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/AKA-group-photo.jpg?crop=0px%2C662px%2C4032px%2C2268px&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "In a 50-50 Senate, Kamala Harris can sign off on $2,000 stimulus checks and more"
     excerpt: "Kamala Harris suddenly has been handed all kinds of power to get people $2,000 stimulus checks, provide money to fight climate change and win confirmation of President-elect Joe Biden’s nominees. Because Georgia Democratic Senate candidates Ralph Warnock and Jon Ossoff won Tuesday,"
     publishedDateTime: 2021-01-07T13:00:00Z

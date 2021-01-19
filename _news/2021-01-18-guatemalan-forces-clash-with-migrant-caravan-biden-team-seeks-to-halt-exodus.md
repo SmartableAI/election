@@ -238,6 +238,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Spend big now, pay down debt later, Biden's Treasury nominee Yellen tells lawmakers"
+    excerpt: "Janet Yellen, U.S. President-elect Joe Biden's nominee for Treasury Secretary, urged lawmakers on Tuesday to \"act big\" on the next coronavirus relief package, adding that the benefits outweigh the costs of a higher debt burden."
+    publishedDateTime: 2021-01-19T18:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-yellen-idUKKBN29O1WX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548330451&r=LYNXMPEH0I18D&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Joe Biden to put $2,000 stimulus payments back in play"
     excerpt: "A $2,000 stimulus check is expected to be included in a $2 trillion Covid relief plan that President-elect Joe Biden is set to unveil Thursday evening."
     publishedDateTime: 2021-01-14T19:35:00Z

@@ -159,6 +159,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden rounds out health team with Pennsylvania top official"
+    excerpt: "U.S. President-elect Joe Biden on Tuesday filled out his health team, announcing Pennsylvania Health Secretary Dr. Rachel Levine as his choice for assistant U.S. health secretary as his administration takes office this week amid the COVID-19 pandemic."
+    publishedDateTime: 2021-01-19T18:09:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-levine-idUSL1N2JU0V7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "llmFE7yNJ8WqJiPxqq8rmtDKCSgCXI/OuxybSTBgAbwaHapfyM13vo/nwk5JcDD4FqCOsUSajS92PVWPr1QVhs71f+10bEt8280Z4cCet23kvUEm5fNaeOwkThdgHiivgpAoBiNhYAOLUlBUCAH6wxSp5anCw41oogeH2JHvXtpeyeMucrPaxTP0D/fVcP06L/gU2NrsqWhwj2BGo2tjtJ7ifcCqFFgiYHYIUzmwGQlwnCYLdUjWGkmhHb54IJv2bWOfDVF4QSbVCjXnXCfaYzzmN4okZF+zF9F82jIOq9+Svgk9Cdg8EgUrICyfr96L04r50qHCMdg+wXrxYoDC71gO7a6VaCnwOY+ZaZhFFoi3tYDkMFFeBTZO6A4zZQ1NOZ5WSPcRQ4qcQ/z3tHGs9xjtkvrZwbAyBqjue0JNFYo5Y3daNNQEoLIQxI6GvS6lftNB6UXX2PkshlF5NfZQiQRx/xsFFG87kWr4KVQbaHNLCkA1hOUhK0Q6c5DPYXY1WmrgZI06mry9nsC1V4YXRg==;g7ufxAg+quI6zLqlwuYHVw=="
 ---

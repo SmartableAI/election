@@ -397,6 +397,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Kamala Harris resigns her Senate seat"
+    excerpt: "Vice President-elect Kamala D. Harris resigned her Senate seat Monday at noon, stepping down four years after she was elected California’s junior senator and moving her one step closer to a historic tenure as the nation’s first female vice president."
+    publishedDateTime: 2021-01-18T01:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/kamala-harris-resigns-senate/2021/01/16/03cd0e90-5869-11eb-a817-e5e7f8a406d6_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/kamala-harris-resigns-senate/2021/01/16/03cd0e90-5869-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/kamala-harris-resigns-senate/2021/01/16/03cd0e90-5869-11eb-a817-e5e7f8a406d6_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EBVS6GSYGYI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Donald Trump's Inauguration Boycott Welcomed by Republicans and Democrats"
     excerpt: "The president announced he will not attend ahead of his ban from Twitter, as a backlash grows against him over the recent events at the Capitol."
     publishedDateTime: 2021-01-11T15:29:00Z
@@ -486,6 +502,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/15/332d8909-f5ee-416d-bd2c-2a8ea83d5d1b/thumbnail/1200x630/fab852e28e8c7a68d382085732290a21/cbsn-fusion-the-impact-president-trumps-impeachment-could-have-on-bidens-agenda-thumbnail-627054-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "WATCH LIVE: Inauguration of Joe Biden and Kamala Harris"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden will deliver an appeal to national unity when he is sworn in Wednesday and plans immediate moves to combat the coronavirus pandemic and undo some of President Donald Trump’s most controversial policies,"
+    publishedDateTime: 2021-01-19T16:20:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-inauguration-of-joe-biden-and-kamala-harris"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 120
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/01/2021-01-19T150736Z_629169426_RC23BL9UPZJE_RTRMADP_3_USA-BIDEN-INAUGURATION-1024x684.jpg"
+        width: 1024
+        height: 684
         isCached: true
   - title: "Trump expected to issue pardons on last day as president while Senate set to reconvene"
     excerpt: "President Trump plans to spend his last full day in office on Tuesday issuing 100 pardons or commutations, a senior administration official and a senior White House official tell CBS News. Meanwhile,"
@@ -742,6 +772,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547860873&r=LYNXMPEH0E02C&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "'Field of Flags' lights up Washington for Joe Biden's inauguration – video"
+    excerpt: "The ‘Field of Flags’ stretching along the National Mall in front of the Washington Monument has been unveiled, comprising 200,000 flags intended to represent the American people who are unable to attend President-elect Joe Biden’s inauguration on Wednesday."
+    publishedDateTime: 2021-01-19T16:05:00Z
+    webUrl: "https://www.theguardian.com/global/video/2021/jan/19/field-of-flags-lights-up-washington-for-joe-bidens-inauguration-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 103
+    images:
+      - url: "https://i.guim.co.uk/img/media/6bcd3c7bc1be60a772dd9a5055ece7d250a74a44/0_126_4750_2850/master/4750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6a79e2511bbea0382e968b32e6a9ce36"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Washington to see 'new normal' for security after Biden inauguration: DC mayor"
     excerpt: "Washington Mayor Muriel Bowser said on Friday that even after the presidential inauguration on Jan. 20 the city will have to maintain heightened security in light of the Capitol rights."

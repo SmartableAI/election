@@ -351,6 +351,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to propose sweeping immigration bill on first day in office"
+    excerpt: "President-elect Joe Biden will unveil a comprehensive immigration plan on his first day in office, a source familiar with the proposal tells CNN, describing an agenda that provides a multi-year pathway to citizenship for the millions of undocumented immigrants currently in the United States.\n    \n"
+    publishedDateTime: 2021-01-19T17:32:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ODt-CpSLdfs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/biden-immigration-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/biden-immigration-bill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118064236-01-joe-biden-0115-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How Trump allies stoked the flames ahead of Capitol riot "
     excerpt: "Steve Bannon evoked the beaches of Normandy. Michael Flynn drew comparisons to Civil War battlefields and spoke of Americans who died for their country. Roger Stone called it a struggle \"between the godly and the godless, between good and evil.\" Rudy Giuliani called for \"trial by combat.\" Ali Alexander"
     publishedDateTime: 2021-01-19T02:34:36Z
@@ -444,6 +460,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115212144-01-alex-azar-2020-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's pick to lead State Department to emphasize new direction at confirmation hearing "
+    excerpt: "President-elect Joe Biden's pick to lead the State Department will tell Congress Wednesday of his plans to emphatically redirect the trajectory of US foreign policy after four years of the Trump administration, rebuilding and reengaging alliances to confront transnational threats ranging from Russia"
+    publishedDateTime: 2021-01-19T18:06:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zffrpx24IGo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/blinken-confirmation-hearing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/blinken-confirmation-hearing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180410141347-antony-blinken-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -862,6 +894,22 @@ related:
       - url: "https://static.politico.com/69/47/488535ab4ef7a9283c84e09a80f8/ap21009633809621-1.png"
         width: 1160
         height: 773
+        isCached: true
+  - title: "10 Challenges Biden Faces in Righting the Economy"
+    excerpt: "The pandemic has damaged the economy and cost millions of people their livelihoods. These are some of the areas that demand Joe Biden’s attention."
+    publishedDateTime: 2021-01-19T17:58:00Z
+    webUrl: "https://www.nytimes.com/2021/01/19/business/biden-economy-pandemic.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/19/business/biden-economy-pandemic.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/business/biden-economy-pandemic.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/15/business/00biden-biz-sub/00biden-biz-sub-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden will halt federal executions, other actions on first day in office"
     excerpt: "The president-elect has a long list of executive actions he plans to take as soon as he's sworn in on Jan. 20."

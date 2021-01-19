@@ -109,6 +109,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Watch live: Delaware send-off event for President-elect Biden"
+    excerpt: "President-elect Joe Biden on Tuesday afternoon is slated to hold one final event in Delaware before he heads to Washington D.C. for his inauguration.The event is scheduled to begin at 1:30 p.m. EST.Watch the live video above."
+    publishedDateTime: 2021-01-19T18:27:00Z
+    webUrl: "https://thehill.com/video/in-the-news/534821-watch-live-delaware-send-off-event-for-president-elect-biden"
+    ampWebUrl: "https://thehill.com/video/in-the-news/534821-watch-live-delaware-send-off-event-for-president-elect-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/534821-watch-live-delaware-send-off-event-for-president-elect-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_011421getty_min-wage.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "President-elect Joe Biden to name Gary Gensler as U.S. SEC chair, sources say"
     excerpt: "Gary Gensler, a top financial regulator under the Obama administration, is expected to be named chair of the U.S. Securities and Exchange Commission."
     publishedDateTime: 2021-01-12T17:47:00Z
@@ -125,6 +141,17 @@ related:
         width: 3459
         height: 2250
         isCached: true
+  - title: "Biden picks transgender woman as assistant health secretary"
+    excerpt: "WASHINGTON (AP) — President-elect Joe Biden has tapped Pennsylvania Health Secretary to be his assistant secretary of health, leaving her poised to become the first openly transgender federal official to be confirmed by the U."
+    publishedDateTime: 2021-01-19T18:17:00Z
+    webUrl: "https://www.businessinsider.com/biden-picks-transgender-woman-as-assistant-health-secretary-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-picks-transgender-woman-as-assistant-health-secretary-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-transgender-woman-as-assistant-health-secretary-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Joe Biden picks transgender woman as assistant health secretary"
     excerpt: "WASHINGTON (AP) — President-elect Joe Biden has tapped Pennsylvania Health Secretary Rachel Levine to be his assistant secretary of health, leaving her poised to become the first openly"
     publishedDateTime: 2021-01-19T12:15:00Z

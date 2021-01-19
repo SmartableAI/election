@@ -1,0 +1,85 @@
+---
+category: news
+title: "Joe Biden set to arrive in Washington on eve of his inauguration"
+excerpt: "President-elect Joe Biden arrives in Washington Tuesday for the start of his inaugural ceremonies at a dark and solemn moment in American history, preparing to take his oath of office as the US approaches 400,000 coronavirus deaths and is more divided than at any time since the Civil War.\n    \n"
+publishedDateTime: 2021-01-19T18:50:06Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2b-bS4R_BRc/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2b-bS4R_BRc/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memorial/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memorial/index.html"
+type: article
+quality: 175
+heat: 235
+published: true
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118185745-field-of-flags-210118-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Washington Post: Pence closer than initially known to the violent mob during US Capitol storming "
+    excerpt: "Vice President Mike Pence came closer than initially known to the mob of pro-Trump rioters who stormed the US Capitol on January 6, according to new reporting from the Washington Post.\n    \n"
+    publishedDateTime: 2021-01-15T16:55:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VEuDu-3iRN0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/pence-mob-us-capitol-january-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/pence-mob-us-capitol-january-6/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107054511-02-congress-electoral-college-0107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "With 400k Covid deaths, Biden set to take helm of nation in crisis"
+    excerpt: "With more than 400,000 souls lost to the coronavirus pandemic, President-elect Joe Biden will have his work cut out for him when he takes the helm of a polarized and pained nation tomorrow at noon. Here is what we're watching this Tuesday morning."
+    publishedDateTime: 2021-01-19T12:58:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/400k-covid-deaths-biden-set-take-helm-nation-crisis-n1254640"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254640"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254640"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_03/3443042/210119-lincoln_memorial_reflecting_pool-mc-1137_a48dc439f5ef580d138644f5f3cb857b.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "'Armed protests' warning puts officials on alert this weekend ahead of Biden inauguration"
+    excerpt: "Law enforcement and state officials are on high alert for potentially violent protests this weekend in the lead-up to Inauguration Day, with some state capitols boarded up and others temporarily closed ahead of Wednesday's ceremony."
+    publishedDateTime: 2021-01-19T15:47:00Z
+    webUrl: "https://www.cnn.com/2021/01/16/us/inauguration-protests-saturday/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/us/inauguration-protests-saturday/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/us/inauguration-protests-saturday/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 126
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116204718-capitol-fence-jan-15-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "h2pLMhdS9Hke3DJyQTScXiM4g8fukoWx0WGol92DbVAcKmEzAGU+EsqTnsVfpYKz9RUzAJ6sDoEGfgZ3A/t+5D8MAkaZ5Ryl/pcU15a0o5u/1ToUq2NZ+rxva7UleyBcZwmug6kfzcF0kUJ/8cXjmatq/w785NKmH3fqEEB15Exflf3FK+n+HrOqbs3LahM7x8fMDNeaByCb6RG7RlO4ZEN6ljcI1f+1uz7tYWkZOASWX1vuVxsH4QWjsY+QuRbeOqWiVS5lWpoXaeTtAROsx+ijbNlAdTlBn28EN1mrGop7gg18sBbEUBTScJtIIuvNqpEDxbEd6yAoY9V91jkxD4k5/wyVa2Q8n9CzAZi15p8=;SUepIKl9lYZrSkQBji/iAQ=="
+---
+

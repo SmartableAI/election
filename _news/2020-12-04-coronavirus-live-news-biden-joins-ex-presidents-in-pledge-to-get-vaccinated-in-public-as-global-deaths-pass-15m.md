@@ -232,6 +232,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "The Latest: Biden nominee says intel won't be politicized"
+    excerpt: "The Latest on Senate confirmation hearings for President-elect Joe Biden’s nominees for his administration (all times local):"
+    publishedDateTime: 2021-01-19T18:18:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-biden-nominee-says-intel-wont-be-politicized-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-biden-nominee-says-intel-wont-be-politicized-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-nominee-says-intel-wont-be-politicized-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Coronavirus updates: US sees deadliest day — again; Biden asks for 100 days of masks; California has a new regional stay-at-home order"
     excerpt: "California has a new regional stay-at-home order. US sees its deadliest day. And President-elect Biden says he'll ask Americans to wear masks for 100 days."
     publishedDateTime: 2020-12-04T14:38:00Z

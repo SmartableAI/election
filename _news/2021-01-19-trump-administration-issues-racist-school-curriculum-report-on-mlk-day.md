@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Several dozen' of Trump's pardons pushed by criminal justice reform groups"
+    excerpt: "Several dozen of President Donald Trump's final slate of more than 100 pardons and commutations will be doled out to individuals whose cases have been championed by criminal justice reform advocates, a source close to the process tells CNN.\n    \n"
+    publishedDateTime: 2021-01-19T16:48:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D9gGWPVpL20/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/trump-pardons-commutations-list/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/trump-pardons-commutations-list/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222011052-donald-trump-1212-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Melania Trump finishes with worst first lady popularity rating ever"
     excerpt: "Much has been written about President Donald Trump's historically low popularity ratings as he leaves office. But the tarnish on the Trump brand goes beyond the President.\n    \n"
     publishedDateTime: 2021-01-19T16:51:07Z

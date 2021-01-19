@@ -151,6 +151,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "From Howard to VP: Kamala Harris' Alpha Kappa Alpha Sisters Keep Her Centered"
+    excerpt: "She was a Howard University senior working toward a career in public service, mature thanks to her four years on campus and committed to strengthening the bond with her line sisters. She was none other than Vice President-elect Kamala Harris."
+    publishedDateTime: 2021-01-19T17:57:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-alpha-kappa-alpha-sorority-sisters-keep-her-centered-from-howard-university-to-the-vice-presidency/2838228/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/kamala-harris-alpha-kappa-alpha-sorority-sisters-keep-her-centered-from-howard-university-to-the-vice-presidency/2838228/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/kamala-harris-alpha-kappa-alpha-sorority-sisters-keep-her-centered-from-howard-university-to-the-vice-presidency/2838228/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 72
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/AKA-group-photo.jpg?crop=0px%2C662px%2C4032px%2C2268px&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Alveda King slams Kamala Harris for plagiarizing her uncle, Martin Luther King Jr."
     excerpt: "The niece of late civil rights leader Dr. Martin Luther King, Jr. slammed Vice President-elect Kamala Harris for invoking the name of her late uncle, arguing that her position on abortion proves that the two have diametrically opposed worldviews."
     publishedDateTime: 2021-01-07T21:45:00Z

@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "McConnell says Trump 'provoked' the Capitol riot as Senate weighs another impeachment trial"
+    excerpt: "Senate Majority Leader Mitch McConnell, R-Ky., placed blame on President Trump for the riot at the Capitol on Jan. 6 that left five people dead, including a Capitol police officer."
+    publishedDateTime: 2021-01-19T18:53:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3C57DnXc1iQ/mcconnell-trump-capitol-riot-senate-weighs-another-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-capitol-riot-senate-weighs-another-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-capitol-riot-senate-weighs-another-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007146978656.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "kcWhgmbposmEDRCp/wy4Qn+ef8LDXczJBLWIc+NwTyEPt2fUaR1/iWOVKd+z3NGPM9nvDcCWnyzj1TVw/fC3fRnfZFVBLayiNKdg9YnAAwCad4WJBRVYEIdK7xkwFZTFeP9jhzvBOKYwLdsxFdN6RPX0iJKDkLfXM7fpFVIzQOkyuM/xgG5DCbuWb3vhug04aR9IPngo2qgrbVSoDNfXvEZ1TasUGk8/bMq83texNFCuVy9qNIigYhXR/wDPFhS6u8jET40ic9SFuBp9b2OmvsDV5Voycxz8KspMsX1cLAenAJ2mv8TqOp/4+8fTjlum0/5uMsPCVfd3ba56exzgbPPCTa2BKOQn2TYIzZM6TzM=;4Efmvn/SQFokAozyN6txeA=="
 ---
