@@ -185,6 +185,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Dollar hovers near one-month high as Biden's FX policy takes shape"
+    excerpt: "The dollar hovered around its highest in nearly one month on Tuesday with traders expecting U.S. Treasury Secretary nominee Janet Yellen to affirm a more traditional commitment to market-set currency rates when she testifies at Capitol Hill later."
+    publishedDateTime: 2021-01-19T06:52:00Z
+    webUrl: "https://www.reuters.com/article/global-forex-int/dollar-hovers-near-one-month-high-as-bidens-fx-policy-takes-shape-idUSKBN29O03O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548253459&r=LYNXMPEH0I02C&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Biden launches new Twitter account to build following before taking command of White House @POTUS on Inauguration Day"
     excerpt: "When Joe Biden is sworn in on Wednesday, he will take command of the @POTUS and @WhiteHouse Twitter accounts in another official transfer of power."
     publishedDateTime: 2021-01-16T23:59:00Z
@@ -295,6 +309,15 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "Michigan's Blacks expect more from Joe Biden"
+    excerpt: "Michigan's Black supporters of President-elect Joe Biden are laying out their rising expectations about what results the Democrat needs to deliver"
+    publishedDateTime: 2021-01-19T04:18:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/01/19/michigan-blacks-expect-more-president-joe-biden/3882700001/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 35
 
 secured: "MJsdXu+msiVknJ/hPPCltuEmWiEBlxyYXk4464qqxakljw9OS4/CTQPDbWQyqZGxnZ0cMBcysqUKl7+Bq8zV651aaSKBuCbOKcT+LHU7dFk2JeoJrqtZxMwPCVXwLs56Iolv7bfEwtcTAFmt2lNj0AR9O8Zx58LDByr6s7JzxhHvjFKutXc4BU40Q4k3eR+SVCmPIG9+xiPGhkAIHKdsEYNEq8bJNRoq+/nn4cW9+tiQUDsGUdO4lPdD+7CVcEp36zebq6XAjv9+PdiimQKv9MWOIpv0zBPLyDo6PSSfhzzd/hVUq33VT1Stx4E9wumkfKzKVDbkHZ9Zmgi8yo3FGAZ6o+40IbNQYSF11Mu3yIA=;Z3bxulfuIeV9/gGMizU1HA=="
 ---

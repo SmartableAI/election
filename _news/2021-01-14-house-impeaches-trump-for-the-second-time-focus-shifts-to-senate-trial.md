@@ -431,6 +431,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden's national security Cabinet nominees face Senate tests"
+    excerpt: "While the Homeland Security and the intelligence community are unlikely to be confirmed by the time Biden takes the oath of office at noon Wednesday, some could be in place within days. The Senate typically confirms some nominees,"
+    publishedDateTime: 2021-01-19T05:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-national-security-cabinet-nominees-face-senate-tests-75335324"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-national-security-cabinet-nominees-face-senate-tests-75335324"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-national-security-cabinet-nominees-face-senate-tests-75335324"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_60278844665d4eceae3340c9dc0fd4c0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump Reveals Who He Wants Statues to Honor in National Garden"
     excerpt: "What do Kobe Bryant, Bob Hope and Thomas Jefferson have in common? They are among the more than 200 names President Donald Trump has recommended to be honored in a yet-to-be created National Garden of American Heroes."
     publishedDateTime: 2021-01-18T20:44:00Z

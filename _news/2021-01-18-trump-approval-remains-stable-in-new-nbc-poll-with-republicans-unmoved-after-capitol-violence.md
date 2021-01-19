@@ -128,6 +128,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Once a Trump-Basher, Mexico’s Leader Misses Him Already"
+    excerpt: "President Andrés Manuel López Obrador came to appreciate Mr. Trump’s hands-off style, and is already making waves with an incoming administration he expects to be more meddlesome."
+    publishedDateTime: 2021-01-18T21:42:00Z
+    webUrl: "https://www.nytimes.com/2021/01/18/world/americas/mexico-trump-amlo.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/18/world/americas/mexico-trump-amlo.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/18/world/americas/mexico-trump-amlo.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/14/world/00Mexico-AMLO/00Mexico-AMLO-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "KYnjOArh1+4VBRfIvdEP/2UKEvPLa1jWkr+cyub5BgP44p3mL86dsuMk6ouRPcMiYfu+s43sjcblOzthIs//WiPCUsExPiR4QTXaST45x9YwxL8nfZmGo1JHWshKbIqBSpPEsY665yywearPhVLW2gszLXm0JKIGJ3vLMjK2oi547KqJY7XCN+IAT4i9vr2Complsle720+NE4bu9hrLvECBm6/cgxQGQu91F2bnayce77oxkkbWqud2Xokv8mv62IvPUWLEVMBG4efcNWoV5cFWjnXWsy6xGk4qYzpB6sL0bhkKHzkfXW/XQBe3ze1cFPUe6DZ8DloCbDxz2bXg3VWekn6nOugSgAs6m1TDk+kcBalxfEu6XpxmzxazCvxWZ6BqOVfWz0gZGF9dddRNfKK4Ar/n/vNk41gDd+0OcNnDnC85wcG5Jc1tdegrvJeDu2V8mNsb74Cy8gZX6G2uJTws8OKwRnBuIyaA6xU4JQsGwUAdWQ1bUioMsw5nXhgf9NDIWC0P1NIYNbMunwrI+w==;Fjts8xYZHVDPozCpXi9hGA=="
 ---

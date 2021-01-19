@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Mike Pence calls Kamala Harris to offer congratulations"
-excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
-publishedDateTime: 2021-01-16T06:05:00Z
-originalUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations"
-webUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations"
-ampWebUrl: "https://oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations/amp"
-cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/5680467/mike-pence-calls-kamala-harris-to-offer-congratulations/amp"
+excerpt: "It’s the first known contact between the elected members of the outgoing and incoming administrations. President Donald Trump has not reached out to President-elect Joe Biden and has repeatedly questioned the legitimacy of Biden’s win."
+publishedDateTime: 2021-01-16T01:25:00Z
+originalUrl: "https://chicago.suntimes.com/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
+webUrl: "https://chicago.suntimes.com/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
+ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
+cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/1/15/22233803/mike-pence-calls-kamala-harris-offer-congratulations"
 type: article
 quality: 100
 heat: -1
 published: false
 
 provider:
-  name: The Oklahoman
-  domain: oklahoman.com
+  name: Chicago Sun-Times
+  domain: suntimes.com
 
 topics:
   - Election
@@ -22,9 +22,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdn2.newsok.biz/cache/1280x720_blur-95d4cd09934c1de7935d5144c353acbf.jpg"
-    width: 1280
-    height: 720
+  - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -43,22 +43,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-departure-texas-03-ap-jef-210112_1610466035305_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
-    excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
-    publishedDateTime: 2021-01-16T06:01:00Z
-    webUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-calls-vp-elect-kamala-harris-to-offer-congratulations/2021/01/15/52e264e0-5796-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 150
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Harris prepares for central role in Biden's White House"
     excerpt: "Kamala Harris will make history on Wednesday when she becomes the nation’s first female vice president — and the first Black woman and the first woman of South Asian descent to hold that office"
@@ -155,6 +139,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/Z3qJoKYgp7I25-Bfj9OgWDYkWb8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7RFR7OAVVHIHHAVMBLL7YTF44.jpg"
         width: 1200
         height: 898
+        isCached: true
+  - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
+    excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's"
+    publishedDateTime: 2021-01-16T08:57:00Z
+    webUrl: "https://apnews.com/9cf431138cceeda9f6f7104e0fa20487"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 130
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/4444eb45d10847adbfe84daefb893fa0/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Biden inauguration: Trump expected to issue flurry of pardons before leaving office – live"
     excerpt: "Washington DC prepares for Biden inauguration with unprecedented number of troops on street"
@@ -1549,6 +1547,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "hV2tSyM6jjcXQszzT26a2SUnhz2x/YlfYPV6MNpAsBtlD+6ukhaQhrIis0Ld4pzpdubmH3Wfvbg39dANYjYiOa85a+txj2eAFZNk1J+q9BO09ulgVovNyi03MGr8sTdxkDyAQTBCdv3swGaJgJg3QxubHk892XP4K5f6Wjx5IDMHrXSVyqLh47rz3kx9AJLQ4pSbfJz4v5991jrFNwzN2XU7DaeuFCFkGSSjPv40uZT9kxffffwQwcjii4Ar1d84YDBSWrFNCTgVv1TvP0rsZqPd8QJBnfRjVzoleMfDoo/Xv5eqej5k10bf3ZkPpseEkeQjPcGnLdrc4EF8leNiGixO58d7cfyFLUXq7TrvXhaxrMeJ4Vh2Yock1fz34GOs4esyAwNvs02YteFm1ous3v3OOiMcnxd/0xaf4Mn8DyGQB44LbY5+AabtALSB0W5CZQjdrzynT+LwPb/CbMRCvw7u9EzwPadQDxclSG/F4fcApiRv8W2HYjsZV56sDSRy2JX1wvS0aFJfE+V0w9MeQQ==;CafmUpVT8qfNQoWnsgTh9Q=="
+secured: "pSCPyzzv3VzE3jL7lFIbp0+TX40HjyNyBapyrfim8j+Ekq2WVBmfgliaCJ7SphzWUf1EABxUJUbKgRFNa26KXD2kI3+fP+tLShIi6yg7V7MAsCnC3unukhWn1RfHT5tb/AO3kXZkj5nycBGsVLaEaWg0tTq4sVwE3c8JoIyjyA9zuHrPawzAZLUwYO7wDL5PbE27UqMYgrLkxzYJrDEePGtXTEExTUF9zwLyE9v1KHiSol6Vl1nzl2OM1299pk+9W7ksf1azl1/wV0AtNvRx8QW9qjDt1Gi1HsEt66+Q7tW6gq8ByJJSasTBTmscljXFx+t0Y8MOdyQrmC0WlLQ2Hae9x1D6DG75eIr8WXgZzUk=;q6VuW5x7x5ZojogfB2fHAQ=="
 ---
 

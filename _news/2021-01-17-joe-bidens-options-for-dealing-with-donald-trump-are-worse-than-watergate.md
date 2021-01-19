@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donal
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1"
 type: article
 quality: 148
-heat: 1708
+heat: 1728
 published: true
 
 provider:
@@ -429,6 +429,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_977ffcbf147945218d09c490b0a8f7fb_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden's national security Cabinet nominees face Senate tests"
+    excerpt: "While the Homeland Security and the intelligence community are unlikely to be confirmed by the time Biden takes the oath of office at noon Wednesday, some could be in place within days. The Senate typically confirms some nominees,"
+    publishedDateTime: 2021-01-19T05:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-national-security-cabinet-nominees-face-senate-tests-75335324"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-national-security-cabinet-nominees-face-senate-tests-75335324"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-national-security-cabinet-nominees-face-senate-tests-75335324"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_60278844665d4eceae3340c9dc0fd4c0_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

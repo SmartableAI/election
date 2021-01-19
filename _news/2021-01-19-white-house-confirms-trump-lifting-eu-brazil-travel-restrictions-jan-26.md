@@ -2,9 +2,9 @@
 category: news
 title: "White House confirms Trump lifting EU, Brazil travel restrictions Jan. 26"
 excerpt: "U.S. President Donald Trump on Monday rescinded entry bans imposed because of the coronavirus on most non-U.S. citizens arriving from Brazil and much of Europe effective Jan. 26, the White House said."
-publishedDateTime: 2021-01-19T01:30:00Z
-originalUrl: "https://www.reuters.com/article/health-coronavirus-usa-travel/exclusive-trump-lifting-covid-19-travel-restrictions-on-europe-uk-brazil-sources-idUSL1N2JT1VR"
-webUrl: "https://www.reuters.com/article/health-coronavirus-usa-travel/exclusive-trump-lifting-covid-19-travel-restrictions-on-europe-uk-brazil-sources-idUSL1N2JT1VR"
+publishedDateTime: 2021-01-19T05:16:00Z
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-travel/white-house-confirms-trump-lifting-eu-brazil-travel-restrictions-jan-26-idUSKBN29O00A"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-travel/white-house-confirms-trump-lifting-eu-brazil-travel-restrictions-jan-26-idUSKBN29O00A"
 type: article
 quality: 104
 heat: 104
@@ -28,6 +28,6 @@ images:
     height: 530
     isCached: true
 
-secured: "AghG35mFq1YsI8LscMWkelwaTb7MxAZDv+S4AkXjOLee1nw8KY2jzEq9NJqkaAUPXrTvMNeBjdQShk68k0Y+YQu7zvOz0foy9oO8k0gLKFoOfc47on67LTLN6MomJkr7Rfp2zpcncsp5aGrd14us4SPsrXHOqXL9bki3JA1TBofM01ioSLdL1Qw+/TAmzoDP1aRV5hu9NHtE5Y4Mp4mNOMKWyF/ofSoV6wnkiiExluJCpO9U1ntt6hs4/31T80silan2IElQquMNuGx62EpxQPrkj+qOJrNRQh3U/KJu0CS8yDQyvarJmxcuGEB5q5IoSldEiJ0V49mZZgpLkvZr53FF2CC3cIlYz0ljhNrbTIw=;ONuLElB2Tt5XNrSlg4rC3w=="
+secured: "NrmUmH+8S4/zf9JiPcEokxOCZ0nT1AYaqHc18ZtzmZIUsFcnPl2yakzwHWHPwP6mgf+9NE3p1x9Yuuo0hq8CJ7MYKAivBW3NhXAF11KI/9T6kSFFWbVk8mvJth0iBmTeH/CVNeC+p/AjAqVDEu5qnhWX3Tgj51MvCBmoPRhDDdue7WBW6JCB2SAOlUXgdmV+VV8vSwhpRPO1NCod6baciybALCbagOPn8fmQQdxfrZCb/ESO+K+jfOSij8vui7HOr2ET0XPKzXtNPQwxQ95lt/Hs24DTWVd2lfAxYrFQ/CM6bETZrT7nEdskpScj9b6/2zUVpKTRPgJiLT/iX/VyEmBKeIMK0lYo8gDpF6Z4O1U=;NUmQ2ULl/f+Y/4sDIcXE8w=="
 ---
 

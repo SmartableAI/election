@@ -181,6 +181,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Dollar hovers near one-month high as Biden's FX policy takes shape"
+    excerpt: "The dollar hovered around its highest in nearly one month on Tuesday with traders expecting U.S. Treasury Secretary nominee Janet Yellen to affirm a more traditional commitment to market-set currency rates when she testifies at Capitol Hill later."
+    publishedDateTime: 2021-01-19T06:52:00Z
+    webUrl: "https://www.reuters.com/article/global-forex-int/dollar-hovers-near-one-month-high-as-bidens-fx-policy-takes-shape-idUSKBN29O03O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548253459&r=LYNXMPEH0I02C&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Biden launches new Twitter account to build following before taking command of White House @POTUS on Inauguration Day"
     excerpt: "When Joe Biden is sworn in on Wednesday, he will take command of the @POTUS and @WhiteHouse Twitter accounts in another official transfer of power."
     publishedDateTime: 2021-01-16T23:59:00Z
@@ -291,6 +305,15 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "Michigan's Blacks expect more from Joe Biden"
+    excerpt: "Michigan's Black supporters of President-elect Joe Biden are laying out their rising expectations about what results the Democrat needs to deliver"
+    publishedDateTime: 2021-01-19T04:18:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/01/19/michigan-blacks-expect-more-president-joe-biden/3882700001/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 35
 
 secured: "rK/W8dFnEAUidNZ4iPbQQbsunJ+4RVoaYpOnoAFuwJ9O/g0KTBZH6TTj1hMQulRgXqevJqNzoyqD+FDzTH2VuDbSJPnFjR9Nh4phzhQQyrUlP6zqie1f6YtKEaqh1QwzrNbjaeFHRS27nrCkGapgdwpbuFX//s8ZyIBPByrx/8ONjwjyCCuRCGgTZWqWMOzGgUJUBp1MVZa1ab+4k/FElj+xQXjc/e1cC2CYo112sVZEQmx64JPOTOJLBp2OlEsyw1julR0rJRAjBZXo6gcJgriw/EwiZ2nK2iiPqNrnYhWCq/WkiTXA3czih8We20/mjwUdLMd/tN2vd63evYOwcDo7EIC6wIeWFvTapy40/tUktumyaP4WouaxtH76zstcRxEJ+f6aIXdhbvYKztsNCvgy3v/4xOcHuLATSyHsl5R0ayqYlVRMDy0kfLEl5WTx5BnubhQOcyaCZAPboGoLTflqzrLvit8BNIn59CwlkaTVxIvy79nENCkodnaB2iRIdaRNlRBWsBZa+93UPBO8Cg==;PrWCK0wJV4LIfDlX+osXgw=="
 ---

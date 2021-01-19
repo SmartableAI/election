@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/washington-monument-biden-inaugurat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/washington-monument-biden-inauguration-threats-tours.amp"
 type: article
 quality: 170
-heat: 190
+heat: 210
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 166
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/764eec4b-5032-4522-aef2-503c07e457db/fd6fa80e-40d3-434e-a764-58d398e7fccc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Acting Secretary of Defense weighs in on concerns of insider threat to Biden's inauguration"
+    excerpt: "Miller said that the department is \"leaving no stone unturned in securing the Capitol.\""
+    publishedDateTime: 2021-01-19T05:01:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1FsHZ9nucnY/live-updates-biden-inauguration-1-19-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-19-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inauguration-1-19-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a043991d-8528-4493-8378-3714c74ff9d5/29a708dd-6088-40e0-9c78-6ebf5b75966e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

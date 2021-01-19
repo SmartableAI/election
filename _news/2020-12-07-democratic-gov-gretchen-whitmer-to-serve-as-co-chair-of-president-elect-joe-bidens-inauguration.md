@@ -175,6 +175,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Live Updates: Congress gears up as hearings for Biden's Cabinet nominations set to begin today"
+    excerpt: "The first hearings for President-elect Joe Biden's Cabinet nominations are set to begin on Tuesday, one day before his inauguration on Jan. 20."
+    publishedDateTime: 2021-01-19T05:01:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NWcCrTAccAA/live-updates-biden-cabinet-1-19-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-cabinet-1-19-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-cabinet-1-19-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9dbf6b00-ff90-48f1-b712-998bae802d25/9c65e6e0-a5f7-47d1-a8cc-6b7d5aad4425/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Biden introduces education pick Cardona"
     excerpt: "President-elect Joe Biden introduced his pick for education secretary, Miguel Cardona, on Wednesday and promised an \"ambitious agenda\" to re-open most schools within the first 100 days of his presidency."
     publishedDateTime: 2020-12-23T19:11:00Z

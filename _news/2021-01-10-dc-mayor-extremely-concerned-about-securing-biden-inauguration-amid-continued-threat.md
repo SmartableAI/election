@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Live Updates: Acting Secretary of Defense weighs in on concerns of insider threat to Biden's inauguration"
+    excerpt: "Miller said that the department is \"leaving no stone unturned in securing the Capitol.\""
+    publishedDateTime: 2021-01-19T05:01:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1FsHZ9nucnY/live-updates-biden-inauguration-1-19-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-inauguration-1-19-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-inauguration-1-19-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a043991d-8528-4493-8378-3714c74ff9d5/29a708dd-6088-40e0-9c78-6ebf5b75966e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "q1r0W+oMU1IYLjQaRvMNtJ3U+Exbx6g5yd8lcNdxY7GzIaUf7noiCEp5bTrO+v9RHFtiRMUnJSt2hMx01C2X96sfc/ZH0zruGZtGt0Ga9rYTKmoLkFFIBjxcMVGG7xLyX9hLvIx+NCHxn9PH95WIVO19CxkEj7QlgRx3DHM82ttsxofZse0NPS8kmNhWJ6RStIg+0/0s7cnckKts+tCqgeZEGuVNtVanNCy1RcoWZ7enDfypRbTZf1eQDGvqdHa5Q9aRRiNsjShW6/hFeSUmTPtTtByJDJMYDtx57EzShmHuDWYWVQS1OvyC74DSzdg25G7eDkdRGYNZu3gR2wPz9RZVvq9GurzxeL0exKYrYiM=;6owlSPVvUDWcYXBXdAw8NA=="
 ---

@@ -447,6 +447,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden's national security Cabinet nominees face Senate tests"
+    excerpt: "While the Homeland Security and the intelligence community are unlikely to be confirmed by the time Biden takes the oath of office at noon Wednesday, some could be in place within days. The Senate typically confirms some nominees,"
+    publishedDateTime: 2021-01-19T05:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-national-security-cabinet-nominees-face-senate-tests-75335324"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-national-security-cabinet-nominees-face-senate-tests-75335324"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-national-security-cabinet-nominees-face-senate-tests-75335324"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_60278844665d4eceae3340c9dc0fd4c0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden, a longtime ally of police, will enter White House pushing for reform"
     excerpt: "We’ve always had a good working relationship with Biden,” said Jim Pasco, executive director of the Fraternal Order of Police, which twice endorsed Trump. He was one of the first police officials invited to meet with the Biden transition team."
     publishedDateTime: 2021-01-11T13:38:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Exclusive: Trump lifting COVID-19 travel restrictions on Europe, UK, Brazil - sources"
 excerpt: "U.S. President Donald Trump on Monday rescinded entry bans imposed because of the coronavirus on most non-U.S. citizens arriving from Brazil and much of Europe effective Jan. 26, two officials briefed on the matter told Reuters."
-publishedDateTime: 2021-01-19T04:22:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-travel/exclusive-trump-lifting-covid-19-travel-restrictions-on-europe-uk-brazil-sources-idUSKBN29N20Y?post"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-travel/exclusive-trump-lifting-covid-19-travel-restrictions-on-europe-uk-brazil-sources-idUSKBN29N20Y?post"
+publishedDateTime: 2021-01-19T05:42:00Z
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-travel-exclusi/biden-to-block-trumps-plan-to-lift-covid-19-european-travel-restrictions-idUSKBN29N20Y"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-travel-exclusi/biden-to-block-trumps-plan-to-lift-covid-19-european-travel-restrictions-idUSKBN29N20Y"
 type: article
 quality: 98
 heat: -1
@@ -62,6 +62,6 @@ related:
         height: 960
         isCached: true
 
-secured: "f+wGjnVoJVVOjqgIFKmG15pfhfVH9QU+7SMpaZ7iYliATHzCJh/sJxl2okmSOV0zRxUbZX9MLKfwgQCU1snrVKk+kwHb7WYo4j1YPbHQ2YN4SoUXgMtjmwMWwcwZ8ZMduH9RnN5Wacrwvm8VrXO8LRo1l/5Ns+dSYVtvjBqZuN8S9TZBCpgICxdNCL83PgYjDS6Rj6j3sBbB0FBgOrL4c/A/R8S88Z/65slCW00jjhyuYGwlsTG8EFpAIqBzd/ebhtgkiOZbjGqnpiRif2YI7uoecdWr34rEHOToFougDU0WVKY7A2Ml1SiW0LClY1vQATOzFkFLIRylQDVvEBzGUKFXTw6hROTZioNKN+IROZw=;yer4pDu1KE0yvjRrFA+b8g=="
+secured: "yGKTQemu9SPGaTdnf+ZKSa72l83prjqayNkw/9xvgsE97r4ThB2/t+Gh0wxUMPSNPFlJgcJTGPItbf1cEl3xuYFyErLfaO96DCZ8+28W3+R58SQCpyKbdQEDeSlMagBA49jUGA3JwUtvk8VRmFMjbLGagwSNsII0k0iNnxootbJ6SUYSYPnf1R13A8kKT2t4LBAfH4t5NkDPJ3Sb3uUZ/KqLwb9keWCG0gljZml5qYUlaAVgaCQTMud5tVxQLbzhZdec2ObAzaU48nPONSNqVDuLJiZCn9XEDHPpXeJNV63BuCGpCS9yFxpJPReTxjAQj7EgXPGjhDk5HXgCxHdYwhGtriLG6B+Am4Bqb1ZCvh0=;taGoqLRZSgDyNXeyBWAn3g=="
 ---
 

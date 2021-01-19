@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Once a Trump-Basher, Mexico’s Leader Misses Him Already"
+    excerpt: "President Andrés Manuel López Obrador came to appreciate Mr. Trump’s hands-off style, and is already making waves with an incoming administration he expects to be more meddlesome."
+    publishedDateTime: 2021-01-18T21:42:00Z
+    webUrl: "https://www.nytimes.com/2021/01/18/world/americas/mexico-trump-amlo.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/18/world/americas/mexico-trump-amlo.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/18/world/americas/mexico-trump-amlo.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/14/world/00Mexico-AMLO/00Mexico-AMLO-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump approval remains stable in new NBC poll, with Republicans unmoved after Capitol violence"
     excerpt: "Eighty-seven percent of Republicans approve of how Trump is doing his job in a new NBC News poll, but half of all voters say Trump is \"definitely worse than most\" presidents."
     publishedDateTime: 2021-01-18T00:11:00Z
