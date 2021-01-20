@@ -103,6 +103,22 @@ related:
         width: 1024
         height: 716
         isCached: true
+  - title: "Donald Trump grants clemency to 143 people (not himself or family members) in final hours"
+    excerpt: "President Donald Trump, who has repeatedly used his clemency authority as a political tool rather than an act of mercy, issued a final wave of pardons and commutations on his last night in office, delivering relief for a mix of beneficiaries that included former strategist Stephen Bannon ,"
+    publishedDateTime: 2021-01-20T14:42:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/01/19/donald-trump-pardons-steve-bannon-white-house/4209763001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/4209763001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4209763001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/15/USAT/99b7b1ca-90be-4570-8335-90f8fb20af93-AP_Trump_2.jpg?auto=webp&crop=4378,2463,x0,y319&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump pardons ex-strategist Steve Bannon, dozens of others"
     excerpt: "President Donald Trump pardoned former chief strategist Steve Bannon as part of a flurry of clemency action in the final hours of his White House term that benefited more than 140 people, including rap performers,"
     publishedDateTime: 2021-01-20T12:13:00Z

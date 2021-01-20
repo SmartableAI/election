@@ -224,6 +224,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Justice Sonia Sotomayor to administer vice presidential oath to Kamala Harris"
+    excerpt: "On Wednesday, Vice President-elect Kamala Harris, a daughter of immigrants, and Sonia Sotomayor, the nation's first Latina Supreme Court justice, will meet on the largest stage in the country in an attempt to reset a nation in crisis.\n    \n"
+    publishedDateTime: 2021-01-20T14:28:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lfhFCQbY9RU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/sonia-sotomayor-kamala-harris-vice-presidential-oath/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/sonia-sotomayor-kamala-harris-vice-presidential-oath/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 182
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119151043-sonia-sotomayor-kamala-harris-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump, pressured into video concession, faces uncertain final stretch"
     excerpt: "President Donald Trump's top aides delivered a blunt warning to him Thursday as he sat sullenly in the West Wing and watched as his Republican allies, Cabinet secretaries and former senior staffers criticized or denounced him one by one.\n    \n"
     publishedDateTime: 2021-01-08T14:12:16Z
@@ -1236,6 +1252,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "FOx/8Bt1hp0Ua2lzWUEitKPKiequHQxKCZtx5XjF7Vt0x1h6pgZN+ECbg1QbrOEHPFuDKMgb5cSvECbgNlFNdRAO4TcevjrdAvCYrMtXkRXT4+/jxsVazFu3slo9aKheT2BQ9KNx/3HVeVVfl2LuAQvu2xBssPFD0vRjfTPeSzQUH2G5I8P8ZRrPYef2dg6efWSroNnHT8n9v3Tj/sMr0Ji8txPq0q2o3KDNVfpn5TqIgNut8fnf+MpTfLwO2z178rhJu6U59faTUAaqylxmCGaXmT8yqgHClIoB859El7vD/XtxK4RuuB+15gmT/tLA/Wjc3X78l86LiMd6SJbmqMICu43bxPGBbxIq07gImt8=;GVdxS/CTAKVXGnAtB9zXvA=="
+secured: "yJ5atS2TUULiGuvRP/oK9tN3q1mPunztiN+GkFJ3nSMc94T2J7rqIQ3U+3YrAHEA6PCIgvj4O5uLMaky4IiwfSMGltow/yp3s85pzR/Gi+nebWTmfVp5XoI9v6toSyHlDJqVX3kGsyXWxSc5dGhwZHTe4F8cXPVh+08JGit+WrgHqdOq/vc3Nj4/KqeLs3Utb6RimX33HqsvuJwgTihz8CBCWoe8wFl4W6O+UbjEa+9ImHXrQZYcNGC+uRz0xaqNxKaH66D9gvCaTa40T59w98XamlWOr96D0k10zc2DIbP51um58kOkmMY367MTho3FGV9jg0b1hI1/jdASdHACWkYE7TjXy4VnCuIBpgIZ8GPv3bUzHBwuuff5QorRci8yADBFtx6aib+fAUJJ+OehKKwMSZuJ64OYCKzIjCtOUToVuUbDvwoz72tYs40xA3k3nOdh2cGkGpxi+AI/56cI26/P+GyUDqerI2rTFTbGYN6xXKOOANSgE9Pn0ZVHiBU46aSK0mchl+f55hoRcgPctQ==;waOe5lUfMp6ftHUJuIyEUQ=="
 ---
 

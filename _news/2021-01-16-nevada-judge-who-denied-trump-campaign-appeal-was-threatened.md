@@ -822,6 +822,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 85
+  - title: "Donald Trump leaves the White House, plans to end term at Mar-a-Lago as Biden is sworn in"
+    excerpt: "Trump is expected to be at his Palm Beach estate when the clock strikes noon on Wednesday, after a final military send-off at Joint Base Andrews."
+    publishedDateTime: 2021-01-20T14:35:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2021/01/20/donald-trump-plans-end-his-presidency-mar-lago-florida/4210601001/"
+    ampWebUrl: "https://amp.freep.com/amp/4210601001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4210601001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 81
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/de83808c-d841-464c-9f8d-eb7ef135dad1-AFP_AFP_8Z69UN.JPG?auto=webp&crop=4566,2568,x0,y186&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump’s Republican wall eroding ahead of impeachment vote"
     excerpt: "But with a sudden force, the wall of Republican support that has enabled Trump to weather a seemingly endless series of crises is beginning to erode. Trump’s weakened standing among his own party will come into sharper focus on Wednesday when the House is expected to impeach the president for inciting a riot at the U."
     publishedDateTime: 2021-01-13T13:39:00Z

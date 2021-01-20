@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/melania-trump-farewell-message-it-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-farewell-message-it-has-been-the-greatest-honor-of-my-life.amp"
 type: article
 quality: 168
-heat: 168
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Melania Trump says serving as first lady was 'my greatest honor'"
+    excerpt: "Melania Trump told a small crowd of supporters Wednesday that it was \"my greatest honor\" to serve as the first lady."
+    publishedDateTime: 2021-01-20T14:37:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t8q0JYIgrYs/melania-trump-says-serving-as-first-lady-my-greatest-honor"
+    ampWebUrl: "https://www.foxnews.com/politics/melania-trump-says-serving-as-first-lady-my-greatest-honor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-says-serving-as-first-lady-my-greatest-honor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "NzAHnv21vPBTS1a2Z1B9nZhQ+23gqIYI6TRq7UXNfzIskk14iEREFqA6eNQ9sGeKa7NnsN3XaTaEwRdZkKhbaNxdqFjC3LB94wdxK6I7HOfSgVhHG1jgVbLH9ZgNF1PmkF+ly289jFA3f6eF2S2FotXMEwokVG51g3bnsa3ttKtLPV4LSHZqyPErnVuno4M9OeojyPn9zEoTqwWAMmBfNvRYDUMP0xwlviDFcqncEoOY2Vf+Ko4J0Ky2z5QkKL1UQgPB19aiT/TUoxxZyfMn0FAJwLULe8NMFvlXV0CM1MYyahbtba1hmUbDfOIOGBGCGFAQtpbfihXBhL5V7feozE2yBX1yx5Vo5M4akTKCjMk=;5tPcagnqKxB9cIKdf9gOBg=="
 ---

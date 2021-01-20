@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Speakers at Biden's inauguration ceremony: Full lineup"
+    excerpt: "These speakers are set to deliver remarks, readings or oaths during the 59th presidential inauguration swearing-in ceremony on Wednesday."
+    publishedDateTime: 2021-01-20T14:05:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CS_gNAzYArs/biden-inauguration-ceremony-speakers-full-lineup"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-ceremony-speakers-full-lineup.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-ceremony-speakers-full-lineup.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/AP-Amy-Klobuchar.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "onmp0NW4B4eOymZWEfROfh/KUuiAlWj/LoE+IB6XWMIbra//kgT7s3vSWgFmx/+D6N78hORdNjUz3KDXJYLWnuNathhSSVAHRy1zzecdv8rHkiOF7Sw9K4B6nf+Rv5y8L5YR/U/RLnOXDdOcS0kRt0X+OKQjcWNt3x6YDL8Kgi+3W2p3jxYW6ijCRzNP0XgzzjLptxsOO2F9SG84/6O3LeeD1gjlm1jxm1ePifQ4rp8I9L/N84DedGwBh4JHlayZKEsVXYySGGE9dwP+5yAkUxSRJAwu/DsdBQdo1O2Ywmi5b0BkhIr7uwUdwNT3ncUNDaNjAub7dNHnua3co1tBOZAGvzWu2PXxm6kfpXk3Nh8=;8GdYcODk5q/nUbXrIsXS2A=="
 ---

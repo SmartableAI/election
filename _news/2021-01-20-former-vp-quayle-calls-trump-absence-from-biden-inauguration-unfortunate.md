@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump leaves letter for Biden before departing White House"
+    excerpt: "President Trump left a note for incoming President Joe Biden before departing the White House, Fox News is told."
+    publishedDateTime: 2021-01-20T14:20:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4d4OC4u-7j4/trump-leaves-letter-for-biden-before-departing-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-leaves-letter-for-biden-before-departing-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-leaves-letter-for-biden-before-departing-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/peter-doocy.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Sen. Graham urges Biden to 'stand down' on 'Scarlet Letter' Trump impeachment"
     excerpt: "Sen. Lindsey Graham, R-S.C., argued on Sunday that pursuing the impeachment of President Trump after he leaves office will ruin the start of Joe Biden's presidency and urged the president-elect to “stand down.”"
     publishedDateTime: 2021-01-17T19:41:27Z

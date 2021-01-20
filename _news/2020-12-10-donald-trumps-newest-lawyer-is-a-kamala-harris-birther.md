@@ -216,6 +216,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Justice Sonia Sotomayor to administer vice presidential oath to Kamala Harris"
+    excerpt: "On Wednesday, Vice President-elect Kamala Harris, a daughter of immigrants, and Sonia Sotomayor, the nation's first Latina Supreme Court justice, will meet on the largest stage in the country in an attempt to reset a nation in crisis.\n    \n"
+    publishedDateTime: 2021-01-20T14:28:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lfhFCQbY9RU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/sonia-sotomayor-kamala-harris-vice-presidential-oath/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/sonia-sotomayor-kamala-harris-vice-presidential-oath/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 182
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119151043-sonia-sotomayor-kamala-harris-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump, pressured into video concession, faces uncertain final stretch"
     excerpt: "President Donald Trump's top aides delivered a blunt warning to him Thursday as he sat sullenly in the West Wing and watched as his Republican allies, Cabinet secretaries and former senior staffers criticized or denounced him one by one.\n    \n"
     publishedDateTime: 2021-01-08T14:12:16Z

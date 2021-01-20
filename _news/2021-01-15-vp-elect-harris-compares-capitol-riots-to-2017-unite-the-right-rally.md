@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden has not had contact with Trump ahead of inauguration, aide says"
+    excerpt: "President Trump departed the White House for the last time Wednesday morning but he has not had any contact with President-elect Joe Biden, who is set to be sworn in by midday in front of the Capitol."
+    publishedDateTime: 2021-01-20T13:45:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t1UazgxDvUQ/biden-has-not-had-contact-with-trump-ahead-of-inauguration-aide-says"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-has-not-had-contact-with-trump-ahead-of-inauguration-aide-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-has-not-had-contact-with-trump-ahead-of-inauguration-aide-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Vice President-elect Harris will be sworn in by Justice Sonia Sotomayor"
     excerpt: "The swearing-in of Vice President-elect Kamala Harris Wednesday, will acknowledge historical milestones as the first Latina Supreme Court justice oversees the ceremony."
     publishedDateTime: 2021-01-16T22:04:53Z

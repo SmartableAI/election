@@ -2248,6 +2248,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden inauguration live updates: Biden prepares to take office as Trump leaves Washington behind"
+    excerpt: "Updates during the transition from the Trump to Biden administrations -- and about a second Senate impeachment trial."
+    publishedDateTime: 2021-01-20T14:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-trump-2020-election-transition-inauguration/?id=75311140"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-trump-2020-election-transition-inauguration/?id=75311140"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-trump-2020-election-transition-inauguration/?id=75311140"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 127
+    images:
+      - url: "https://s.abcnews.com/images/International/dc-6-gty-ml-210120_1611145079429_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Pro-Trump lawyer Lin Wood insists he is not insane after tweeting that Mike Pence should face execution by firing squad"
     excerpt: "In a Twitter thread, the conservative lawyer and staunch Trump ally accused senior Republicans of helping to \"steal\" the election."
     publishedDateTime: 2021-01-02T12:46:00Z
@@ -4500,6 +4516,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Donald Trump follows presidential tradition, leaves note for Joe Biden"
+    excerpt: "Deputy press secretary Judd Deere declined to reveal what Trump wrote to Biden or to characterize the sentiment in the note"
+    publishedDateTime: 2021-01-20T12:28:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/donald-trump-follows-presidential-tradition-leaves-note-for-joebiden.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/donald-trump-follows-presidential-tradition-leaves-note-for-joebiden.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/donald-trump-follows-presidential-tradition-leaves-note-for-joebiden.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 100
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IYAG243MORD53N7TTSINT4HSMY.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "VP Mike Pence rules out invoking 25th Amendment on President Donald Trump"
     excerpt: "\"I do not believe that such a course of action is in the best interest of our Nation or consistent with our Constitution.\""
     publishedDateTime: 2021-01-13T01:30:00Z
@@ -5279,6 +5311,22 @@ related:
       - url: "https://www.baltimoresun.com/resizer/_7j_cr8pMRyHLdXk8hERUslcUhI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/F5SZ6A4SGZHCTHCOS5OQYAJ5PA.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Inauguration 2021: Joe Biden to be sworn in as president while Donald Trump leaves D.C. (live updates)"
+    excerpt: "Under ramped-up security and pandemic-era restrictions on gathering, President-elect Joe Biden is set to be sworn in Wednesday at the U.S. Capitol"
+    publishedDateTime: 2021-01-20T11:08:00Z
+    webUrl: "https://www.oregonlive.com/nation/2021/01/inauguration-2021-joe-biden-to-be-sworn-in-as-president-while-donald-trump-leaves-dc-live-updates.html"
+    ampWebUrl: "https://www.oregonlive.com/nation/2021/01/inauguration-2021-joe-biden-to-be-sworn-in-as-president-while-donald-trump-leaves-dc-live-updates.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2021/01/inauguration-2021-joe-biden-to-be-sworn-in-as-president-while-donald-trump-leaves-dc-live-updates.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FIFHVSSDDBHXPMWT3WNKUKJGDE.jpg"
+        width: 5114
+        height: 3409
         isCached: true
   - title: "In rare Jan. 1 session, Congress overrides Donald Trump’s veto of defense bill"
     excerpt: "The 81-13 vote in the Senate followed an earlier 322-87 override vote in the House of the widely popular defense measure. The override was the first since Trump took office four years ago."

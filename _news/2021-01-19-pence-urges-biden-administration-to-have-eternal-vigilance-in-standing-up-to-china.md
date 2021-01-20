@@ -160,6 +160,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cindy McCain says she's open to serving in Biden administration"
+    excerpt: "Cindy McCain, the widow of the late GOP Sen. John McCain, says she is open to potentially serving in the Biden administration."
+    publishedDateTime: 2021-01-20T13:53:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Eubt1bJClBU/cindy-mccain-open-serving-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/cindy-mccain-open-serving-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-open-serving-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17e542b6-12a2-4ee1-88ce-712d85fc764d/1ec94b4b-65d7-4f0b-8d49-31ff5e684416/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Twitter introduces @SecondGentleman handle for incoming Biden administration"
     excerpt: "Twitter is introducing a new handle for the first-ever husband of a vice president as it begins transferring official White House social media accounts to the incoming Biden administration."
     publishedDateTime: 2021-01-15T15:22:43Z

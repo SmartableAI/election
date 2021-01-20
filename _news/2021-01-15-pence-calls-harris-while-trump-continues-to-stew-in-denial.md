@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-presidency/index.html"
 type: article
 quality: 225
-heat: 1765
+heat: 1785
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
     quality: 185
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200819234140-kamala-harris-dnc-august-19-2020-07-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Justice Sonia Sotomayor to administer vice presidential oath to Kamala Harris"
+    excerpt: "On Wednesday, Vice President-elect Kamala Harris, a daughter of immigrants, and Sonia Sotomayor, the nation's first Latina Supreme Court justice, will meet on the largest stage in the country in an attempt to reset a nation in crisis.\n    \n"
+    publishedDateTime: 2021-01-20T14:28:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lfhFCQbY9RU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/sonia-sotomayor-kamala-harris-vice-presidential-oath/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/sonia-sotomayor-kamala-harris-vice-presidential-oath/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 182
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119151043-sonia-sotomayor-kamala-harris-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

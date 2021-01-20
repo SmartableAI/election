@@ -2,27 +2,33 @@
 category: news
 title: "Facing crush of crises, Biden will take helm as president"
 excerpt: "Joe Biden swears the oath of office at noon Wednesday to become the 46th president of the United States, taking the helm of a deeply divided nation and inheriting a confluence of crises arguably greater than any faced by his predecessors."
-publishedDateTime: 2021-01-20T12:43:00Z
-originalUrl: "https://www.businessinsider.com/facing-crush-of-crises-biden-will-take-helm-as-president-2021-1"
-webUrl: "https://www.businessinsider.com/facing-crush-of-crises-biden-will-take-helm-as-president-2021-1"
-ampWebUrl: "https://www.businessinsider.com/facing-crush-of-crises-biden-will-take-helm-as-president-2021-1?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facing-crush-of-crises-biden-will-take-helm-as-president-2021-1?amp"
+publishedDateTime: 2021-01-20T14:19:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/facing-crush-crises-biden-helm-president-75362656"
+webUrl: "https://abcnews.go.com/Politics/wireStory/facing-crush-crises-biden-helm-president-75362656"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/facing-crush-crises-biden-helm-president-75362656"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/facing-crush-crises-biden-helm-president-75362656"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_640478d8640648109fe37d60e317a2d6_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Pence heading back to Indiana hometown after Biden inaugural"
@@ -425,6 +431,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "13-year-old who bonded with Joe Biden over stutter has book deal"
+    excerpt: "Brayden Harrington addressed the Democratic National Convention last August in a video that was viewed millions of times."
+    publishedDateTime: 2021-01-20T14:45:00Z
+    webUrl: "https://www.cbsnews.com/news/brayden-harrington-stutter-joe-biden-book-deal/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/brayden-harrington-stutter-joe-biden-book-deal/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/brayden-harrington-stutter-joe-biden-book-deal/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/20/5ed7ca7c-da74-4691-82ad-eacddcafea7e/thumbnail/1200x630g2/e4f9aece444d117ff0eebb05f44b01c5/ap-21019730035924.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "A viewer's guide to Joe Biden's inauguration"
     excerpt: "Biden's inauguration comes amid a months-long pandemic and massive security in response to threats of violence from extremists."
     publishedDateTime: 2021-01-20T12:14:00Z
@@ -504,6 +526,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210119&t=2&i=1548363362&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0I1M8"
         width: 817
         height: 545
+        isCached: true
+  - title: "How Joe Biden’s presidency may affect your wallet"
+    excerpt: "New COVID-19 relief checks, taxes, health care — it’s all on the line. Here's how having Joe Biden in the White House may affect your finances."
+    publishedDateTime: 2021-01-20T14:02:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-cb-biden-president-economy-finance-20210120-gg3lkkuxfjeuzdm2qkzl5v2xyi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-cb-biden-president-economy-finance-20210120-gg3lkkuxfjeuzdm2qkzl5v2xyi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-cb-biden-president-economy-finance-20210120-gg3lkkuxfjeuzdm2qkzl5v2xyi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/fVjhFumOEuSS1YhUxNsFLRF61Fk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZK75LCQY4JFV7ISWGTAEI64VUI.jpg"
+        width: 1200
+        height: 798
         isCached: true
   - title: "Inauguration day: a guide to what to expect as Joe Biden assumes office"
     excerpt: "With Washington under lockdown and Covid-19 raging, the inauguration will be different, but there will still be pomp and ceremony"
@@ -648,6 +686,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EZLCKECYGYI6XLGFSLJIDGQ4ZM.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "‘Every important date is in there’: Biden to take oath on his family Bible"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will take their oaths of office using Bibles that are laden with personal meaning."
+    publishedDateTime: 2021-01-20T14:19:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-20/biden-bible-swearing-in-inauguration-tradition"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-20/biden-bible-swearing-in-inauguration-tradition?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-20/biden-bible-swearing-in-inauguration-tradition?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 123
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/c18f9e6/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1f%2F2b%2F839382a4472bb54b06abdddeec56%2Fbiden-inauguration-66515.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "The Health 202: It's still unclear who will lead HHS after Biden is sworn in"
     excerpt: "The president-elect will need to designate many temporary agency heads before the Senate confirms his nominees."
@@ -1196,20 +1250,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Joe Biden inauguration: 46th president to take helm of divided nation facing multiple crises"
-    excerpt: "Joe Biden swears the oath of office at noon Wednesday to become the 46th president of the U.S., taking the helm of a deeply divided nation and inheriting a confluence of crises."
-    publishedDateTime: 2021-01-20T11:50:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-inauguration-20210120-dqqqgg4rzvdd7dmjeijjwi5ycu-htmlstory.html"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 94
-    images:
-      - url: "https://www.chicagotribune.com/resizer/xrg4lOzLOXUNj3SsB4Bdsg7WuXk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MEODNRRBDNECHMEWIBQ3VL3ESM.aspx"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden is raising tens of millions of dollars for his inauguration but won't say where the money is going"
     excerpt: "Biden is raising tens of millions of dollars for the inaugural celebrations, including from corporate giants with big business before the federal government."
     publishedDateTime: 2021-01-17T00:10:00Z
@@ -1418,6 +1458,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Live coverage: Joe Biden is inaugurated as the 46th U.S. President today"
+    excerpt: "Joe Biden swears the oath of office at noon today, taking the helm of a deeply divided nation and inheriting a confluence of crises arguably greater than any faced by his predecessors."
+    publishedDateTime: 2021-01-20T14:05:00Z
+    webUrl: "https://www.al.com/politics/2021/01/live-coverage-joe-biden-is-inaugurated-as-the-46th-us-president-today.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/live-coverage-joe-biden-is-inaugurated-as-the-46th-us-president-today.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/live-coverage-joe-biden-is-inaugurated-as-the-46th-us-president-today.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/L5ZWNBXQ3RAUREEZPAEYFDXA7Q.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Watch live: Joe Biden is sworn in as 46th president of the United States"
     excerpt: "Joseph R. Biden Jr. will take the oath of office on Wednesday when he's sworn in as the 46th president of the United States on the West Front of the U.S. Capitol."
     publishedDateTime: 2021-01-20T12:05:00Z
@@ -1572,6 +1628,20 @@ related:
         width: 2000
         height: 1317
         isCached: true
+  - title: "Joe Biden inauguration: 46th president to take helm of divided nation facing multiple crises"
+    excerpt: "Joe Biden swears the oath of office at noon Wednesday to become the 46th president of the U.S., taking the helm of a deeply divided nation and inheriting a confluence of crises."
+    publishedDateTime: 2021-01-20T14:45:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-inauguration-20210120-dqqqgg4rzvdd7dmjeijjwi5ycu-htmlstory.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 44
+    images:
+      - url: "https://www.baltimoresun.com/resizer/f5131JWvadERoCicFwEsmmQABpU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UGWQ4ESIPBGRRACZQBXWY77JKE.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Michigan's Blacks expect more from Joe Biden"
     excerpt: "Michigan's Black supporters of President-elect Joe Biden are laying out their rising expectations about what results the Democrat needs to deliver"
     publishedDateTime: 2021-01-19T04:18:00Z
@@ -1582,6 +1652,6 @@ related:
       domain: detroitnews.com
     quality: 35
 
-secured: "irN3HudjqTbeBqA0IxICPs5fXt+6ux6V+Ha1v2MJRhNXfl9q/oc3Kg7wJ4qD6FA78QLQwRmkS2Vr6H7gXExV2a2A29Yki7500zdLakydyv8TGPjL6TjDd6B0UzWqhMFxnYfe3M2KJIqOwluYjYo22hoGZJgLweWRR8wmXSmL4RBpNbLrB35RQKmlfLhn99NdwuYl+ERkchThnPGdA3cLLT0q/Dpd/fAxiWOPddYCamDXOs8by3ZOZXDJ/UA6l/7LMBFItN9o7fzGIMaM6yyFZ1nRfIr5S//udx1CFCWFTwvC+Wi9KU8UvSzwjfjCRS99Id0qWTiftHxbYbU9O/Anam7ElS/3kbbcPOYTIWlj5s0=;/4VRwBilAIyVMcKpaZKddw=="
+secured: "UFJvw4F9qNZ3+1aamxmNzNu5OLgU+CtVjBT4He4FuaF647VjnvU/HTJZK+agG2xvpGlWBlrZq7zaXGBkO3AjOs4is6kihlkEnAEOZBtqdGZD5f1QCvph3X/14Uced9fzh0xOW5u9mSdE9aJnyDxWS9aRUDCrRABlAIZr+8HZ68Fp6oyBzHs5Nagv8taWWNM9+TJfzz2kgcxkgJ5epdeW9F2R6K23BbxeOuxTDM+lLHSE2DJ/Ct7by4a+lAQm+yVySGWNSA5AzLTiiZx4f8ALcuCk2hC9ehyjogiH201TCpwV21Ac4kXIMs6K8M0/241rDjJYzW7fJnpCnN2VJUp89yRXgPUuqlHD/omfwqj2zLk=;LruBwn4xACs+yK4yqehROw=="
 ---
 

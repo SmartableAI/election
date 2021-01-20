@@ -511,6 +511,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How the narrow Senate majority will shape Biden's presidency"
+    excerpt: "In a matter of hours, President Joe Biden will inherit a Democratic-controlled House of Representatives and Senate. But the narrow majorities in both chambers will challenge his administration's agenda, his timeline and the goal Biden set to restore unity in the country after four years of tumult under"
+    publishedDateTime: 2021-01-20T13:09:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9LvFbqDTLtw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/senate-majority-nominees-impeachment-trial/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/senate-majority-nominees-impeachment-trial/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191216230457-schumer-mcconnell-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "As Trump leaves the stage, Republicans grapple with new conspiracy caucus"
     excerpt: "Donald Trump may be leaving the White House in a few days, but the umbrella of conspiracy theories he inspired are only just arriving in Washington.\n    \n"
     publishedDateTime: 2021-01-16T20:34:42Z
@@ -1198,6 +1214,22 @@ related:
       - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/nbc_spec_bidenfull_210119_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Joe Biden’s Family Bible Has a Long History"
+    excerpt: "He’s used the same Bible as far back as 1973. It was also used by his son Beau. When President-elect Joseph R. Biden Jr. takes the oath of office on Wednesday, he may be accompanied by a familial artifact that has followed him throughout his 50-year political career: a hefty Bible,"
+    publishedDateTime: 2021-01-20T13:55:00Z
+    webUrl: "https://www.nytimes.com/2021/01/20/us/politics/bible-inauguration-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/20/us/politics/bible-inauguration-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/20/us/politics/bible-inauguration-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/15/multimedia/00xp-bible1/merlin_65105444_2a8500fc-dade-4f37-9959-f850dac31b59-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Biden will halt federal executions, other actions on first day in office"
     excerpt: "The president-elect has a long list of executive actions he plans to take as soon as he's sworn in on Jan. 20."

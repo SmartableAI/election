@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-ambassador-samantha-power-usa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ambassador-samantha-power-usaid.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20345054665538-e1607616629617.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden gives DOJ green light to resume Obama-era 'slush fund' payouts to liberal groups"
+    excerpt: "President-elect Joe Biden is calling for the Justice Department to look into reinstating a controversial Obama-era practice that allowed prosecutors to make settlement agreements that resulted in defendants paying outside groups instead of victims or the government."
+    publishedDateTime: 2021-01-20T13:32:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/333oOiQ1lrY/biden-doj-obama-era-slush-fund-payouts-liberal-groups"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-obama-era-slush-fund-payouts-liberal-groups.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-obama-era-slush-fund-payouts-liberal-groups.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae7242fd-f475-47ae-a81d-d30f0eaec56c/fa92b53c-2e1a-4ef2-980f-09e84faf7245/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Obama echoes Biden remarks that police response to Capitol riots would have been harsher with BLM"
     excerpt: "Former President Barack Obama took to Twitter Friday to address why Civil Rights groups and lawmakers are furious over the vastly different approach law enforcement took to Wednesday’s U.S. Capitol breach compared to last summer’s Black Lives Matter (BLM) protests."

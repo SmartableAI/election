@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-vice-president-elect-harris-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-vice-president-elect-harris-congratulations-inauguration.amp"
 type: article
 quality: 204
-heat: 684
+heat: 704
 published: true
 
 provider:
@@ -48,6 +48,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43d8096c-96b6-417b-9e70-d106d78ea892/bc25fb44-5fe3-47a2-9bd7-1ee6ed3cb202/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden has not had contact with Trump ahead of inauguration, aide says"
+    excerpt: "President Trump departed the White House for the last time Wednesday morning but he has not had any contact with President-elect Joe Biden, who is set to be sworn in by midday in front of the Capitol."
+    publishedDateTime: 2021-01-20T13:45:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t1UazgxDvUQ/biden-has-not-had-contact-with-trump-ahead-of-inauguration-aide-says"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-has-not-had-contact-with-trump-ahead-of-inauguration-aide-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-has-not-had-contact-with-trump-ahead-of-inauguration-aide-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "VP-elect Harris compares Capitol riots to 2017 'Unite the Right' rally"
     excerpt: "Vice President-Elect Kamala Harris said Thursday that last week's assault on the U.S. Capitol reminded her of the 2017 \"Unite the Right\" rally in Charlottesville, Va."

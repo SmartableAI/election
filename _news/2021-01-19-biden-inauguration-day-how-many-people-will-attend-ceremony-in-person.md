@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-day-in-person-at
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-day-in-person-attendance.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Speakers at Biden's inauguration ceremony: Full lineup"
+    excerpt: "These speakers are set to deliver remarks, readings or oaths during the 59th presidential inauguration swearing-in ceremony on Wednesday."
+    publishedDateTime: 2021-01-20T14:05:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CS_gNAzYArs/biden-inauguration-ceremony-speakers-full-lineup"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-ceremony-speakers-full-lineup.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-ceremony-speakers-full-lineup.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/AP-Amy-Klobuchar.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Live Updates: Defense officials worry about insider attack from service members deployed to Biden inauguration"
     excerpt: "The concerns prompted the FBI to vet all 25,000 National Guard troops in the city, Fox News has learned."
     publishedDateTime: 2021-01-18T05:07:13Z

@@ -169,6 +169,22 @@ related:
         width: 1200
         height: 898
         isCached: true
+  - title: "Biden inauguration: Donald Trump leaves White House for the last time as president – live"
+    excerpt: "Trump to hold ‘sending off’ ceremony before flying to Florida and will not be attending Joe Biden’s inauguration"
+    publishedDateTime: 2021-01-20T13:24:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 131
+    images:
+      - url: "https://i.guim.co.uk/img/media/f0671f5a59bb566ba46ed483907424552ecb30d3/0_0_6000_4000/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=32f8d88d928a70ea75fee3c26bded216"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Pence calls VP-elect Kamala Harris to offer congratulations"
     excerpt: "Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It's"
     publishedDateTime: 2021-01-16T08:57:00Z
@@ -1163,6 +1179,22 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "WATCH: Live coverage of the inauguration of Joe Biden and Kamala Harris"
+    excerpt: "Elect Joe Biden take the oath to become the 46th President of the United States and Kamala Harris be sworn in as the 49th Vice President. See the video below:"
+    publishedDateTime: 2021-01-20T14:32:00Z
+    webUrl: "https://www.denverpost.com/2021/01/20/watch-live-coverage-inauguration-biden-harris/"
+    ampWebUrl: "https://www.denverpost.com/2021/01/20/watch-live-coverage-inauguration-biden-harris/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/01/20/watch-live-coverage-inauguration-biden-harris/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 90
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/AP21020507390696.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Vice President Pence says farewell to White House, will skip Trump's sendoff"
     excerpt: "Vice President Mike Pence is among those who will not be attending President Donald Trump’s sendoff event at Joint Base Andrews."
     publishedDateTime: 2021-01-19T22:26:00Z
@@ -1195,6 +1227,22 @@ related:
         width: 1200
         height: 898
         isCached: true
+  - title: "Where and when to watch the inauguration of President-elect Joe Biden and Vice President-elect Kamala Harris"
+    excerpt: "Coverage of the 59th presidential inauguration begins at 7 a.m. Pacific time Wednesday, Jan. 20, 2021, at the United States Capitol with the swearing in of Kamala Harris as vice president and Joe"
+    publishedDateTime: 2021-01-20T14:09:00Z
+    webUrl: "https://www.ocregister.com/2021/01/20/where-and-when-to-watch-the-inauguration-of-president-elect-joe-biden-and-vice-president-elect-kamala-harris/"
+    ampWebUrl: "https://www.ocregister.com/2021/01/20/where-and-when-to-watch-the-inauguration-of-president-elect-joe-biden-and-vice-president-elect-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/01/20/where-and-when-to-watch-the-inauguration-of-president-elect-joe-biden-and-vice-president-elect-kamala-harris/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 81
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/01/AP21020451366515-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Mike Pence calls Kamala Harris to offer congratulations"
     excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
     publishedDateTime: 2021-01-17T18:03:00Z
@@ -1208,6 +1256,22 @@ related:
       - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/01/APTOPIX-Pence-Inauguration-scaled.jpg?fit=2560%2C1707&#038;ssl=1"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "Connecticut Democrats breathe sigh of relief as President Donald Trump departs from Washington and Joe Biden takes over"
+    excerpt: "Connecticut Democrats were breathing a sign of relief Wednesday as Republican Donald J. Trump departed after four years."
+    publishedDateTime: 2021-01-20T14:46:00Z
+    webUrl: "https://www.courant.com/politics/hc-pol-connecticut-inauguration-reaction-20210120-b4lx6sk6rjdzxdx67adwuv3xna-story.html"
+    ampWebUrl: "https://www.courant.com/politics/hc-pol-connecticut-inauguration-reaction-20210120-b4lx6sk6rjdzxdx67adwuv3xna-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-connecticut-inauguration-reaction-20210120-b4lx6sk6rjdzxdx67adwuv3xna-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 76
+    images:
+      - url: "https://www.courant.com/resizer/I1uKqLKlVIWMDGHwbbdlBtEwJxg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AB2QGEKEPMACSY56HEKRTHDUHY.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Kamala Harris dissolving PACs, giving money to charity"
     excerpt: "Vice President-elect Kamala Harris is dissolving her political fundraising committees as she prepares for her inauguration with President-elect Joe Biden on Jan. 20, giving leftover money to California charities."
@@ -1593,6 +1657,22 @@ related:
         width: 1024
         height: 726
         isCached: true
+  - title: "Portland-area voters, Oregon leaders eager to celebrate the inauguration of Joe Biden and Kamala Harris"
+    excerpt: "Oregon went decisively for Joe Biden over Donald Trump in 2020 and in the Portland area, many people are planning to connect virtually to mark Inauguration Day festivities through social events large and small."
+    publishedDateTime: 2021-01-20T12:30:00Z
+    webUrl: "https://www.oregonlive.com/politics/2021/01/portland-area-voters-oregon-leaders-eager-to-celebrate-the-inauguration-of-joe-biden-and-kamala-harris.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2021/01/portland-area-voters-oregon-leaders-eager-to-celebrate-the-inauguration-of-joe-biden-and-kamala-harris.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/01/portland-area-voters-oregon-leaders-eager-to-celebrate-the-inauguration-of-joe-biden-and-kamala-harris.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SKQF7IIYWZEOBKZXEKPOUS3IBE.JPG"
+        width: 4954
+        height: 3303
+        isCached: true
   - title: "Kamala Harris will be sworn in as vice president by Justice Sonia Sotomayor"
     excerpt: "WASHINGTON — Vice President-elect Kamala Harris will be sworn in by Supreme Court Justice Sonia Sotomayor on Wednesday, a history-making event in which the first Black, South Asian and female vice president will take her oath of office from the first Latina justice."
     publishedDateTime: 2021-01-17T11:36:00Z
@@ -1674,9 +1754,9 @@ related:
   - title: "Watch live video: Inauguration of Joe Biden and Kamala Harris"
     excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will be inaugurated Wednesday in Washington, D.C., with tens of thousands of National Guard troops stationed around the city amid what federal prosecutors characterize as an ongoing insurrection,"
     publishedDateTime: 2021-01-20T04:17:00Z
-    webUrl: "https://www.sfchronicle.com/politics/article/Watch-live-video-Inauguration-of-Joe-Biden-and-15883461.php"
-    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Watch-live-video-Inauguration-of-Joe-Biden-and-15883461.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Watch-live-video-Inauguration-of-Joe-Biden-and-15883461.php"
+    webUrl: "https://www.sfchronicle.com/politics/article/Watch-live-video-Inauguration-Biden-Harris-15883461.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Watch-live-video-Inauguration-Biden-Harris-15883461.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Watch-live-video-Inauguration-Biden-Harris-15883461.php"
     type: article
     provider:
       name: San Francisco Chronicle
@@ -1713,6 +1793,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/63d9f42b-c483-4ee8-919b-d259db76963f/518d9ebe-a0dd-4aca-884c-fbc36cf24138/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Washington Post insiders are speculating over who might replace its revered editor Marty Baron and how the paper will adapt to the post-Trump era"
+    excerpt: "The Post faces its biggest moment of transition since Jeff Bezos bought the paper as Trump leaves office and Baron eyes retirement."
+    publishedDateTime: 2021-01-20T14:36:00Z
+    webUrl: "https://www.businessinsider.com/washington-post-life-after-marty-baron-post-trump-era-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://i.insider.com/60070ff1660f6c0018349c22?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Vice President-elect Kamala Harris to be sworn in by Justice Sotomayor at inauguration"
     excerpt: "Harris will use two Bibles for the swearing-in, one of which belonged to Thurgood Marshall, the first Black Supreme Court justice."
@@ -2103,6 +2197,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "5XnBSdbQCsi0B87SeCm5Ne7pNE8mL7scy4mXBf8BtAgb4PFbEga3ty2RUTTqR8tZ2PZJeTA+BJulQMXCrNpkLM6BTmUvaMU2UK8F7opSnYIY7qM4EEVlGylobiKAQ7HVFVoXBnuwRnyOVGShD76KAEtrc1BU4gX3r4kZ3FifZi6gm1hLnYqWNA/JfsJG76Fg1BkIeLlfYzudjjVI/ZVf8Z9SgJ+JTBeB4HRrPyUFBrO97Ouh7gqj2xcc1RxjvXTz484mEJQWJSy9Btwr7WGNYLAic6dtAkOUW8k/b3/09ew+LavMWD1LFmHUJaaS6v5jAH11Gaki0u6+f/hPVDZ8niJ/yKVFxmLQ8FQ6qN7Dc74=;TAbssSszUMrXL6svL19IPQ=="
+secured: "nv+JhmgZRSFvfMlV8cP7Hl2RVdxmOKHAoA5SPJcjIlU2KkUL3S4orxez19N7GzBW4fhQ3rA+pIUVZyEqP33gR8+Xu8pRAwkiiz8bCrF5a4cJusN4ZaO7SN8y5Bgc4uWf0dovKmUcZO7qxBqY3ZcSfOuV8sclQelppcA+tlfutzNrqR2Jnmx7ILDgGADEC/vERiCHD/V0eknYo/xCWSUWGXJ4o2z8yH7zd56OezrA/YfgmT+wzqz+DJ9VaMPVPQ05ICcWekKW3/ltPNNIiWwwGrqjD7TRcDmLoNyH0RuXHgaEHwFNfymlR0w99Oeh2Ej3aacJnFrxNc9Wh/HkmOPb4uvpFNHJrpQq81XsSvfmDhjBB35LXQcq2vEQbp0zcI0zrSvfsE7f6uLuxfsdGbwIK35ZB+ub+AU2igvK78ukrWe9SPf+e8ZudVJF5wWqTAOUsNkpcCZ6MgU/zxNWaThX0DkYt9X8yoqqX4PpfbdtEYDFch841MXpNvfTsHBwJaENc7c/Hb1jUmocSX+mjXo9vA==;04wDNIER0NOzs4TV8X+FQg=="
 ---
 
