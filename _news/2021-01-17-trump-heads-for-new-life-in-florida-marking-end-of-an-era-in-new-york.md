@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "A Florida lawmaker wants a highway named after Trump. Some Democrats vow ‘not even a bench’ will bear his name."
+    excerpt: "If one Florida legislator has his way, drivers could soon hop on President Donald J. Trump Highway and cruise the length of the state, barreling past the Everglades and the conservative retirement community of The Villages before arriving in a historically Black neighborhood in Miami."
+    publishedDateTime: 2021-01-20T08:53:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/01/20/trump-highway-florida/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2021/01/20/trump-highway-florida/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/01/20/trump-highway-florida/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OO25V4U2RUI6TGQW3RKR5JNEHM.jpg&w=1440"
+        width: 1440
+        height: 1019
+        isCached: true
 
 secured: "Z0PRI5UQ4mGPczLeylX9JLykQZ9XHhu7VVhqYzi1YgBFKvce4aTd1+LYF6UHKhQYd4s/HK4SayxoMOsHLjSLqUFoNRb6syRuaD2TEoUEOmttS1zy9lF4gWePELxKe0AXdSWjriOhWA7QOKqHsm/MhGJR+hnJcaV4JD+wF957hQR+Aw1+4/6l0EtDn/+JwQhTLgakDpoHTSoSOIbq3DnB6FQs/b1a+t9w9llZrloMCAmIAAwceTLdwKuc8P8rzpW+pDhzYsobtU/yD7BoIop8cweRKnMVr9sFSSMWYReIg0N9rNjmCyM7zBWJ+jkz9FRKP9WkpxXpqLqFn3BcmkWe04YA2CQ/mx3gc/300XHN3u8=;tCjUmW/d9A4vR4Upcj9PAA=="
 ---

@@ -178,10 +178,10 @@ related:
         isCached: true
   - title: "‘He Was Just Everywhere’: A Tired Country After Four Years of Trump"
     excerpt: "Some Americans are eager for a break from the constant news produced by President Trump. Others said his term had only inspired them to be more involved in activism."
-    publishedDateTime: 2021-01-20T00:53:00Z
-    webUrl: "https://www.nytimes.com/2021/01/19/us/trump-era-ends.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/19/us/trump-era-ends.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/us/trump-era-ends.amp.html"
+    publishedDateTime: 2021-01-20T02:53:00Z
+    webUrl: "https://www.nytimes.com/2021/01/19/us/donald-trump-presidency-ends.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/19/us/donald-trump-presidency-ends.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/us/donald-trump-presidency-ends.amp.html"
     type: article
     provider:
       name: New York Times

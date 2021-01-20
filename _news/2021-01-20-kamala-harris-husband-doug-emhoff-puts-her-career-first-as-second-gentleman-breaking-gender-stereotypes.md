@@ -2,19 +2,19 @@
 category: news
 title: "Kamala Harris' husband Doug Emhoff puts her career first as second gentleman, breaking gender stereotypes"
 excerpt: "Doug Emhoff, husband of Vice President-elect Kamala Harris, quit his job as a lawyer to be second gentleman, breaking gender and race stereotypes."
-publishedDateTime: 2021-01-20T06:48:00Z
-originalUrl: "https://www.cincinnati.com/story/money/2021/01/20/vice-president-kamala-harris-husband-doug-emhoff-second-gentleman/4213893001/"
-webUrl: "https://www.cincinnati.com/story/money/2021/01/20/vice-president-kamala-harris-husband-doug-emhoff-second-gentleman/4213893001/"
-ampWebUrl: "https://amp.cincinnati.com/amp/4213893001"
-cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4213893001"
+publishedDateTime: 2021-01-20T07:28:00Z
+originalUrl: "https://www.desmoinesregister.com/story/money/2021/01/20/vice-president-kamala-harris-husband-doug-emhoff-second-gentleman/4213893001/"
+webUrl: "https://www.desmoinesregister.com/story/money/2021/01/20/vice-president-kamala-harris-husband-doug-emhoff-second-gentleman/4213893001/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/4213893001"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4213893001"
 type: article
 quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Cincinnati Enquirer
-  domain: cincinnati.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -298,6 +298,6 @@ related:
         height: 630
         isCached: true
 
-secured: "PfEwVIQSiKfwVRTZwBesD94bpu6uYm73v1WkHeoDzd2EcGA8qs4NyQOXbHmjXrByd34SBzdw6u84uwbDZNGWZXhAXJKF5oyzEAnuOfa1iNT+UoUHWbJajhAm8Xogdj7H93iSP2ZMZJOn57ucJNjoTrlg5fDwJNsruw3RPobngh7iAQKK3iM4OPdyow4Xe6MFwOmGIeWQbIqv3IVsBIhCgmzRFAbpu7duttpk6b4k8WM3Q9Ji+R5+7GO9WZWJa0RJ9uPq2j8ZqYsJ1jd300M5h6MZ8109SkwVs1wUnZPyVzwHfW0SX1BfCprb4RSxpH3TAZwegzaFOMUZ3avRT3/EvCYrkR1DSW32ydpOyxkIHO4=;ElUxE9c9gSSZhKesy77xKA=="
+secured: "hGlF2FJgYYbpSWaxEfaT9UtWT09yANFeLm/X5BElWAPiyZ0VMMQdIH5+eXqvfoIoaOlIn76Ua21XcBfEQZVPh6sshwFQAcD/to+zOVaVeFjhizf/bi2iriEff25jxHqVYHkH8AiC23LBHuMLRq6qFeBqthw+i4dPByxBQjhGfq2OBMDDzjkKJ/urnT0yo1XTJz5DCd8qJWAUSJ5HZAJgFSfbHwtmNqXMDaDdAvlWqNq5tFazySf6K/9Oc3vnDtqA18Wu6XohSgypa7bT03wVxoVA5j2c1vGR8/AuELoPp99ju/ygXumLAk0O/TEPNKVcXhxCgXlypHapU5FZ3FVFdVzltq2kPqew7K+HjKZXdp8=;/X02aJHqOwYLiWZd2MKCKA=="
 ---
 

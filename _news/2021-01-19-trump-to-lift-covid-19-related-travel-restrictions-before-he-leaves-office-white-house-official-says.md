@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/trump-covid-travel-restr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/trump-covid-travel-restrictions/index.html"
 type: article
 quality: 160
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://static.politico.com/ad/37/43fd268d42649efd54bf08dfbb90/ap20337786621970-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump leaves office with little to show of his major promises, and a legacy of violent divisiveness"
+    excerpt: "Donald Trump promised to end \"American carnage\" and \"Make America Great Again.\" Four years later, he leaves with those goals far from reach."
+    publishedDateTime: 2021-01-20T08:14:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/impeached-twice-still-no-wall-mr-trump-goes-washington-n1254757"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254757"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254757"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 121
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_03/3443223/210119-analysis-inauguration-donald-trump-ew-202p_0238d95931f19103802ae05b7106c67e.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "w1UEWeeUnStnpt45pnedKFofPvloNLEz2htuXd3Jod582HMNBLbanoSlIZsMHbxBzqd896zLdOsprTt8IXS8DNGiQ5yOuzlrEormhJ5WYhSlwN+FKfd+W0uG1d5qHblszTgvOgwL9Tm8kSkMWTMduc0dThGbOsoGjIeZh+5hgwT/L2HZoKbAvt24HnGQb+9ksxarH1CszL4A/4XSXVpE0/nd2NheXV7lKwVR1o2Jh6j2rSqV9zlXBfnjR2xDoxVAzC66w7U26nzRjIqYUu9KMHvlmgjrc4TeX/ln+UWe2cODESS8SkkExy19E/hdq6niHQX4ZzQmnrmKZrkNHTn9cNL2FlrZwtR56T65XruBuaA=;twHimLMWnjrFRgkCR7uPFQ=="

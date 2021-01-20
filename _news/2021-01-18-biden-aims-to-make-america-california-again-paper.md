@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-aims-to-make-america-californ
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-aims-to-make-america-california-again-paper.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "LIVE UPDATES: Lady Gaga, ahead of Biden inauguration performance, hopes for 'day of peace for all Americans'"
+    excerpt: "Follow for the latest updates on the inauguration and the fallout from the Capitol riots. "
+    publishedDateTime: 2021-01-20T07:36:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2gHrWdL0aCE/live-updates-inauguration-1-20-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-inauguration-1-20-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-inauguration-1-20-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/37b0634a-5587-4455-bec6-b9e1e8eb110e/7f953ac1-8805-4560-9416-b0db44ddc653/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "IZFQ+OF1tYpPODk/07LDfYjWM8QHWBdtlLZhXOS3mES8lqlt2okliLYMSGs0XhV/B4xouevZPqUfyTaxAt9yoJK+oFwQzmARPAS7qllFyZOMGWACdn7r40Wn7r3GYabcDJsL1eZSFCAgiNOz+e9MiA1tb5Db7ubf+VIJt7D8QcL5ZrgoLLKHjjcORMpl7aYKYozhahMLG4CMRE1903FNcCbzaplr5z8V3x8o8t9TSW+x13ZU7/CA2BxCHvla9ZIbUenCphDYSiGqDc1EiZ4Pd1jO5nVHFuRp1fmMOPJLMb+BbNnsAH1u/gB+SQJ09PzczWMo43s8nOkCbw1YZUTlJld2v/coKhnSxlYUguTiUss=;F+oeLQKlHL3EMHgSYIPUJw=="
 ---

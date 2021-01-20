@@ -2,11 +2,11 @@
 category: news
 title: "‘He Was Just Everywhere’: A Tired Country After Four Years of Trump"
 excerpt: "Some Americans are eager for a break from the constant news produced by President Trump. Others said his term had only inspired them to be more involved in activism."
-publishedDateTime: 2021-01-20T00:53:00Z
-originalUrl: "https://www.nytimes.com/2021/01/19/us/trump-era-ends.html"
-webUrl: "https://www.nytimes.com/2021/01/19/us/trump-era-ends.html"
-ampWebUrl: "https://www.nytimes.com/2021/01/19/us/trump-era-ends.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/us/trump-era-ends.amp.html"
+publishedDateTime: 2021-01-20T02:53:00Z
+originalUrl: "https://www.nytimes.com/2021/01/19/us/donald-trump-presidency-ends.html"
+webUrl: "https://www.nytimes.com/2021/01/19/us/donald-trump-presidency-ends.html"
+ampWebUrl: "https://www.nytimes.com/2021/01/19/us/donald-trump-presidency-ends.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/us/donald-trump-presidency-ends.amp.html"
 type: article
 quality: 135
 heat: -1
@@ -193,6 +193,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "4CylCxuIdqT1jDIQkICw5bay9Z4XO6DVufDexBP1N0e3SfT9QSbQ+V31myO6wvhRPvz6U3Ar5t/NE8gmQmeHJU6s+kumxg1sw7W9L6mDJn1DCsu8fYKNRAHq0Q8siuLbkG5fCuPp5wz9ZAqgkQVoBZczXNEWmb5pWlZhPeLzM68Qce+rH01J6+UHxJfCKjXtglj9DrpLXke4wX06xM5aHtGueo6TLoY3k3FRlGdb4VpcL/N+R9KFhPYXx+k37UW5hgYXzlI5nWV8aSRq10nDmUkjW9kAj/P+cgYzhlOC8i65yxje29e1Ft8VtElHPHOtPRFxX5qIplD1KzErb9j7uSjbq+nyZLSbhXkWTkkWKgU=;F42pAj/jSf0RprlnalOOlg=="
+secured: "VUM054Wux8kA0anws47C0ReAsnGPA/Kbd0UHtDzyrDt9dlQPXZ8moEKIshPDpxOZEt6g3Kf07ot3TG7goA+XhoLX9Js9CiE2Z8tlxpy955HpDWro9kdoH+l5T/msnwhjaXMr3RpvNrbrBvfwxcKPCtXaJMgXvCxO+6mgTvZLYOJG61j9F8O22g2CtHjKTM9r3Dpdbo/Zodov98gYhWN6pw5jDHXeWedvOHnI+e7cMAYTy42CvlawzQmclSMwBZTNHLK+lzOf5/Xcv6idNUxhOv82L/mAsHWu2UJyS2npqqnJm1xmlemDc7S/5PPd/BA6bjaUCAAlzv2hMcpZEFS635Gs2EwPP50ugCF9+FwSSdI=;KfO0G//EeDddaoPbsxzHtg=="
 ---
 

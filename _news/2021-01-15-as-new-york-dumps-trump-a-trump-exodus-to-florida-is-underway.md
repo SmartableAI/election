@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/d2c3e952-5d20-4a47-aeb8-d0d45d376283-VPC_CHAOS_IN_CAPITOL_DESK.00_00_33_11.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "A Florida lawmaker wants a highway named after Trump. Some Democrats vow ‘not even a bench’ will bear his name."
+    excerpt: "If one Florida legislator has his way, drivers could soon hop on President Donald J. Trump Highway and cruise the length of the state, barreling past the Everglades and the conservative retirement community of The Villages before arriving in a historically Black neighborhood in Miami."
+    publishedDateTime: 2021-01-20T08:53:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/01/20/trump-highway-florida/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2021/01/20/trump-highway-florida/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/01/20/trump-highway-florida/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OO25V4U2RUI6TGQW3RKR5JNEHM.jpg&w=1440"
+        width: 1440
+        height: 1019
         isCached: true
 
 secured: "3HdHBYg8PpAQxmTt0aW+vIkXxqeI75Ts1qiqaNqMW2XPzYdrvSqvEJHIP052vMHl7UuA0BzCaD4uzGSDXIy0DP0bUi+XPY2l2OumW1UA8mo+kRkT938Nk6Q06L8BKA6m6OfnMeHHzIV+NjJSABkWMApeM61hUh35A4JPv21/8uUuYyDPjiB4zZ+mrzPSoDfqnAlqpPOLaNpZBPfcZz0M/xsO4rmToszX1qyljSuAKgY45TBKJ2M2Lyzg5YGqhSMzr86tezmxy0QjSL7W9kS8fb/rIb7Q3Ua/8fjjOZVvDausfJDSaHS/c9mzomjS8xM/xrfpYJHMSa8zgVSd3gMGeLCRGuG8btsthktCRqfOr3ZVjzcSBM/FYZKXqPNBI4ssmiZ4NxEWmKrC/XNh5757SfNz+BlWDfecaDkJ+cntc4RjF/9H7xKyrmvRYMCFxbTcyFKP59jSc4Foq0ReI9b98ck4ds7/6O3GZwy+8etd7voQqg5M2iBA3vkMgx5tD6hOO9rjQC3owgntjQyglf+bMA==;J76tbKdxsfC+TCPuciGY6g=="

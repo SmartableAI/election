@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump leaves office with little to show of his major promises, and a legacy of violent divisiveness"
+    excerpt: "Donald Trump promised to end \"American carnage\" and \"Make America Great Again.\" Four years later, he leaves with those goals far from reach."
+    publishedDateTime: 2021-01-20T08:14:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/impeached-twice-still-no-wall-mr-trump-goes-washington-n1254757"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254757"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254757"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 121
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_03/3443223/210119-analysis-inauguration-donald-trump-ew-202p_0238d95931f19103802ae05b7106c67e.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "rZNfrg3M/in2pl6ZnIcIPrSjRUaIbUQr3KrPxLss6Ika+7KZOMMK5y7MtgvtFwYpiKP9X2q3lDbsSzFFuO7rcV47qVPplxZrgtlT7x3OE4reCydGSqj69ALi8vddgf0m18mRyqwtiNsIBMcqz4NSFD2uMbJByOtHkP7CTkOKi0N2wRguIbQZ1uWs0ztWgaYYs8Fb3euTA6eirsiL1bslySeruEoF81fjbMUPIwGKLAV+UJ3BJzh661ge41FXpVZpjU6j02B7xg5xA8WCyZGJRzUdpcAcUxJ0Z4XC6BOUTbEvBzwBnK3PQ8DEXA+TOtcCTJlmM5469HhtZknj6qmaD+Tyxis3gPl0wzRXBiDkmG58J15vtfzpofKcJnqc7Tr2+vU+rRMGduIgm49lQrHXttSa9hz/jE+URfMfMAG7ryzuoK7BgEHmsfku8V+TPZnsJFclOeTm9Wyh2o2/jh3Rjqmuo0Oum9HCDsLrerUIG78k3E2fVUChNMhChb/ZG4uKKRIXtl7s72ZepfeIokuZ7A==;WAMWDith7yUN20/+5NQK3Q=="
 ---

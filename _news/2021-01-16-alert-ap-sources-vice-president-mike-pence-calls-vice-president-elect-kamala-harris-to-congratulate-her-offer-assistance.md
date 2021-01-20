@@ -1838,6 +1838,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Trump Pardons 73 People, Including Steve Bannon, On Last Day"
+    excerpt: "US President Donald Trump on Wednesday pardoned 73 people, including his former aide Steve Bannon and other allies, just hours before he was due to leave office. The list of those pardoned -- as well as 70 others whose sentences were commuted -- was released by the White House in a statement during the early hours."
+    publishedDateTime: 2021-01-20T07:05:00Z
+    webUrl: "https://www.ibtimes.com/trump-pardons-73-people-including-steve-bannon-last-day-3126267"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/former-aide-steve-bannon-was-one-of-73.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Representation for women as Vice President-elect Kamala Harris takes office"
     excerpt: "Women share their thoughts about the importance of representation as Vice President-elect Kamala Harris is about to take office."
     publishedDateTime: 2021-01-16T20:42:00Z
@@ -1882,6 +1896,17 @@ related:
         width: 2048
         height: 1355
         isCached: true
+  - title: "As vice president, Kamala Harris will have a role unlike any of her predecessors"
+    excerpt: "The daughter of immigrants and the first woman, Black person, and Asian American person to hold the vice presidency, Harris will bring a set of lived experiences unparalleled by any of her predecessors."
+    publishedDateTime: 2021-01-20T08:33:00Z
+    webUrl: "https://www.bostonglobe.com/2021/01/19/nation/vice-president-kamala-harris-will-have-crucial-role-unlike-any-her-predecessors/"
+    ampWebUrl: "https://www.bostonglobe.com/2021/01/19/nation/vice-president-kamala-harris-will-have-crucial-role-unlike-any-her-predecessors/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2021/01/19/nation/vice-president-kamala-harris-will-have-crucial-role-unlike-any-her-predecessors/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 50
   - title: "Breaking barriers may be easy part: Vogue magazine Kamala Harris cover foretells battle to come for respect she’s earned"
     excerpt: "The controversy over Vogue magazine’s February cover of Vice President-elect Kamala Harris in casual garb and Converse shoes seems a small thing. But it foreshadows a battle to be treated with the earned respect and dignity her office demands."
     publishedDateTime: 2021-01-20T02:35:00Z
