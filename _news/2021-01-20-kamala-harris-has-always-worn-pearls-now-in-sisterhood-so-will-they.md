@@ -448,6 +448,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump tells people he's decided to pardon Steve Bannon as one of his final acts in office"
+    excerpt: "President Donald Trump has decided to pardon his former chief strategist Steve Bannon, in a last-minute decision made only hours before he is scheduled to depart the White House for a final time.\n    \n"
+    publishedDateTime: 2021-01-20T04:32:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SbqL0augvMo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/steve-bannon-pardoned-by-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/steve-bannon-pardoned-by-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108201935-01-steve-bannon-0820-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence to attend Biden inauguration; Trump never called him in the Capitol bunker, sources say"
     excerpt: "A loyal lieutenant to President Donald Trump, Pence was criticized by the president over his role counting Electoral College votes in Congress and was one of the people trapped inside the U.S. Capitol when Trump supporters stormed the building as the votes were being tallied."
     publishedDateTime: 2021-01-10T09:14:00Z
@@ -1172,6 +1188,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "ZdXdrKL3u48KB+aM5DRLnW0HX5yvlp50TZHRzS/EpZCXEkPIM+dKW/jEDxmGo3D9U7ZJECtWSDNV94MybOgYUCZB7plhbahAKgGeifyNajIIVkwGYm+KkI7+d8CfQJswqpPhNblbuinCji+5yTlWcmjs0G4u7mtiURYhqVYNXzaYTaVCJbmG/m0sIaw4woZkzJqmXvNeyRKZviPIDu6Smf9v1oSlmuFc3/v3OE3dbxGBYh6c1V7Rkvft0mCU/bFXZHVul6CnCoVE/IVUnFBUOs2SVyWEk/J4SJDNRgdPfKZVMmkv9cVE57JwBd8Z9Hs2dZ+nZpZEeovs6VcJlnOJrvpsjGSkg+SH3MWWSRBgCvo=;mK3XI+JwHsMyiFSuIMiTxw=="
+secured: "d0xgMJ4YH0qiXN5kYzq6cjpjz1vJuCQGkanwwk9CXrMNpxzqBykXuVJWBL6MObGr5pArMVkUoaeeyvW3TtKQScyWjQcIx9Wm1T5bDn2QjNy4HpE7k70Dh2LUbrsTXJdWFsMSC6sCTyqbr3KZ9ZKefXslrSnlzwoHMbTmOAMDNMh8FIIn9dIwX0jJNY6XewTn4ZZOs9QC8JnOx14tr6CYicKg5iDUVVyZIz2sPX8zrhRA8rFGcKeY7PU2rQP3qQXkQ7J512wvcN/6ayouW+VCncBvXuDUZbRDSzCaHXF/s/hTZZi3BKCIcqWegkoKVyLbkEHVoJDeSLE6xyLDObYREVuj9aohZrKczbRB2EdadBbFqqVUGj6yIXoe0eKnrCnTHL0XJJfWrEl+6myYVBWAUh962G+ZtisEqiHAm5DxlG39cpwMolkxyRvygFQ4r6y4+nLR3STectZwL/THw/dxMXEQ1V8JL8Rvdg8Fj/LaSAu4LKSJf+ssCHM1NAjUWzCCy8N2MlkWBU68u913LbSyXw==;j3RJ3v6KjCY9EaKIi508hA=="
 ---
 

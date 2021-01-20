@@ -646,6 +646,20 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "In farewell address, Trump urges prayers for next administration without mentioning Biden"
+    excerpt: "U.S. President Donald Trump, in a farewell address released on Tuesday, urged prayers for the new administration of President-elect Joe Biden but declined to acknowledge his Democratic successor by name."
+    publishedDateTime: 2021-01-20T04:05:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-farewell/in-farewell-address-trump-urges-prayers-for-next-administration-without-mentioning-biden-idUSKBN29O2I8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 111
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548363053&r=LYNXMPEH0I1LZ&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Doug Emhoff, Kamala Harris’s husband, is making history as America’s first male vice-presidential spouse"
     excerpt: "The arrival of Doug Emhoff in Washington, alongside his wife, Vice President-elect Kamala D. Harris, upends two and a half centuries of American precedent and morphs the what-ifs of previous men who might have become presidential or vice-presidential spouses into what-now?"
     publishedDateTime: 2021-01-11T21:19:00Z
@@ -1111,6 +1125,20 @@ related:
       - url: "https://www.dailypress.com/resizer/Z3qJoKYgp7I25-Bfj9OgWDYkWb8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7RFR7OAVVHIHHAVMBLL7YTF44.jpg"
         width: 1200
         height: 898
+        isCached: true
+  - title: "Mike Pence calls Kamala Harris to offer congratulations"
+    excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
+    publishedDateTime: 2021-01-17T18:03:00Z
+    webUrl: "https://bangordailynews.com/2021/01/15/national-politics/mike-pence-calls-kamala-harris-to-offer-congratulations/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 80
+    images:
+      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/01/APTOPIX-Pence-Inauguration-scaled.jpg?fit=2560%2C1707&#038;ssl=1"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "Kamala Harris dissolving PACs, giving money to charity"
     excerpt: "Vice President-elect Kamala Harris is dissolving her political fundraising committees as she prepares for her inauguration with President-elect Joe Biden on Jan. 20, giving leftover money to California charities."
@@ -1780,16 +1808,16 @@ related:
         height: 687
         isCached: true
   - title: "Mike Pence Greets White House Staffers in Washington"
-    excerpt: "U.S. Vice President Mike Pence poses for a group photo with staff members outside the West Wing of the White House in Washington, DC on January 19, 2021. Pool Photo by Yuri Gripas/UPI"
+    excerpt: "U.S. Vice President Mike Pence walks back to his office after greeting staff members outside the West Wing of the White House in Washington, DC on January 19, 2021. Pool Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-01-19T21:04:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/31056b39c3bed6e8184373d7a3205b2f/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/25bc45373058306b5a157b22e066ef20/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/31056b39c3bed6e8184373d7a3205b2f/PENCE-STAFF.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/25bc45373058306b5a157b22e066ef20/PENCE-STAFF.jpg"
         width: 650
         height: 433
         isCached: true
@@ -1914,6 +1942,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "yjO3a9sAUlM0bU6KVhj7oxjbUUN67GjSBTJAK37Kt75YWApwKf7qwkNsqRrOP8xHYKYJcpWSmdCIwJuaLkPqV3w9LzP8EV+4Rl5AAUCxj489ZtvJsRorpip/4pK366wYcqTQAhJe1TPUywSHADVTlQAW+CFLTnCHdVn+5Trk5AnupmYgN2VzGJcSR5hvXcPuiQ05lWmOXZKQj3kXy50/M98djzHNtuwlpFUg5E86iFVRaCzS/pryLbH0nw5pelAn0JbvxB9s+rqJbsKdCAU5Imrymp2+KnEm4/e3N3Ou9k7134GNP/Lh3kL5vKUjVIDNyAVhKzB4NJAYx8I6SMe1GxZSFm6e6AVqoe5sQLeJGAI=;O1WX0MALVOG9uvihniCCCg=="
+secured: "p5EW/tiv9txNXDsIEIk7fkJCAP6U6uv0csYwGzkxoPQLpuctPySU/AaW8G8GfCOUawKUtLtHXSUmHn4oS/tetvXcTKHqilwAoxlDBdEzl9whX624Iub0YxD3FLibx8V5vJlHDxOcV6CeK8IQ4+ugd63GIeMClcamMA4vFGIpQ6TDegX8r8k6EdldROs4RgGmh5QNDr69zaPl/aCGecM7bvH7g64Z0pC42uzr6AaptCq/CYI7j1JCM1rx9WR337rpbsbVeuP2lBgjILqySv6RIQnv1SuACBrsFv9Sho98Z9bYMk+xeW2p1KW9D7gBvhGwzLoiawniUSQwHzQztQ7LVfp5JxZUly5Z9b+WVkLWUt+2Po+gy7cZdYXU3CQDN7uFH6c3AsfoXl2WdVwd0YnuHdEC4v+d/zj625WoFcEUDhmH/uaesva7xexYYNrrD+XUW1PXcG2XedPrLrZ5Fefj1PeXce071HFa2Z1rABt/xwfnjZZb9eNvUOU83ZPylTC+gK0vkXB1uV6CMR7FZlZscA==;nV9VNwKBZVzXs9f23pDVTA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 2660
+heat: 2680
 published: true
 
 provider:
@@ -1133,6 +1133,20 @@ related:
     quality: 155
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201130203553-dr-moncef-slaoui-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "In pictures: The inauguration of Joe Biden"
+    excerpt: "President-elect Joe Biden will take the oath of office on Wednesday, but it will be a scaled-down inauguration unlike any we've ever seen.\n    \n"
+    publishedDateTime: 2021-01-20T03:14:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fTgTckqfg7k/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119182606-26-biden-inauguration-unf-0119-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

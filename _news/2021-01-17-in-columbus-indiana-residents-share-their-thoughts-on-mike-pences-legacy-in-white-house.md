@@ -441,6 +441,22 @@ related:
         width: 823
         height: 545
         isCached: true
+  - title: "Biden Inauguration Day: Here is the schedule of events"
+    excerpt: "The day will consist of the swearing-in ceremony, a visit to Arlington Cemetery, a virtual parade, and a prime time special in lieu of Inaugural Balls."
+    publishedDateTime: 2021-01-20T04:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/19/we-know-list-events-bidens-inauguration/4164942001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4164942001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4164942001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/14/USAT/a10609a0-9c38-4b2d-9d2d-3247d9ca46f3-GTY_1230585447.jpg?auto=webp&crop=1734,976,x0,y88&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden's Pentagon pick supports overturning military transgender ban"
     excerpt: "Retired Army General Lloyd Austin, President-elect Joe Biden's pick to lead the Pentagon, said on Tuesday that he supported a plan to overturn a ban on transgender service members."
     publishedDateTime: 2021-01-19T22:27:00Z
@@ -1269,6 +1285,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/southbendtribune.com/content/tncms/assets/v3/editorial/6/ab/6abb0278-5900-11eb-ac74-cf89567af00a/60049bb044f83.image.jpg?resize=1024%2C698"
         width: 1024
         height: 698
+        isCached: true
+  - title: "Pence heading back to hometown of Columbus after Biden inaugural"
+    excerpt: "Vice President Mike Pence will be returning to his southern Indiana hometown Wednesday afternoon after the inauguration of President-elect Joe Biden."
+    publishedDateTime: 2021-01-20T03:38:00Z
+    webUrl: "https://www.newsandtribune.com/cnhi_network/pence-heading-back-to-hometown-of-columbus-after-biden-inaugural/article_f54f27da-5ad0-11eb-b844-5f2a9f1fc32a.html"
+    type: article
+    provider:
+      name: News and Tribune
+      domain: newsandtribune.com
+    quality: 70
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/newsandtribune.com/content/tncms/assets/v3/editorial/6/c6/6c6ba050-5ad1-11eb-80ee-53121edbc708/589cb5eb63420.image.jpg?resize=617%2C630"
+        width: 617
+        height: 630
         isCached: true
   - title: "How to watch Joe Biden's Inauguration Day 2021, from the swearing-in to Tom Hanks' special"
     excerpt: "Joe Biden and Kamala Harris' 2021 inauguration will feature Lady Gaga, Tom Hanks and COVID-19 safety precautions. Here's how to watch and what time."

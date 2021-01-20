@@ -48,6 +48,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "McConnell says Trump ‘provoked’ the Capitol attackers"
+    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday said President Donald Trump “provoked” the rioters who stormed the Capitol earlier this month as Congress was certifying the presidential election results,"
+    publishedDateTime: 2021-01-20T04:06:00Z
+    webUrl: "https://www.politico.com/news/2021/01/19/mcconnell-trump-provoked-capitol-attackers-460372"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/19/mcconnell-trump-provoked-capitol-attackers-460372"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/19/mcconnell-trump-provoked-capitol-attackers-460372"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/b3/d9/6fec15f14316b8cfc913fc7c95a3/20210118-donaldtrump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Val Demings ‘encouraged’ by McConnell’s break from Trump"
     excerpt: "Demings’ interview on Wednesday morning came as the House prepared to impeach Trump for a second time.  (D-Fla.) appeared more optimistic on Wednesday about the possibility of President Donald Trump being removed from office,"
     publishedDateTime: 2021-01-13T13:58:00Z

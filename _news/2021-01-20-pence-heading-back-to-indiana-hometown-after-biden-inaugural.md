@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/pence-heading-back-to-indian
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 1930
+heat: 1970
 published: true
 
 provider:
@@ -431,6 +431,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210119&t=2&i=1548359213&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0I1K1"
         width: 823
         height: 545
+        isCached: true
+  - title: "Biden Inauguration Day: Here is the schedule of events"
+    excerpt: "The day will consist of the swearing-in ceremony, a visit to Arlington Cemetery, a virtual parade, and a prime time special in lieu of Inaugural Balls."
+    publishedDateTime: 2021-01-20T04:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/19/we-know-list-events-bidens-inauguration/4164942001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4164942001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4164942001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/14/USAT/a10609a0-9c38-4b2d-9d2d-3247d9ca46f3-GTY_1230585447.jpg?auto=webp&crop=1734,976,x0,y88&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden's Pentagon pick supports overturning military transgender ban"
     excerpt: "Retired Army General Lloyd Austin, President-elect Joe Biden's pick to lead the Pentagon, said on Tuesday that he supported a plan to overturn a ban on transgender service members."
@@ -1261,6 +1277,20 @@ related:
         width: 1024
         height: 698
         isCached: true
+  - title: "Pence heading back to hometown of Columbus after Biden inaugural"
+    excerpt: "Vice President Mike Pence will be returning to his southern Indiana hometown Wednesday afternoon after the inauguration of President-elect Joe Biden."
+    publishedDateTime: 2021-01-20T03:38:00Z
+    webUrl: "https://www.newsandtribune.com/cnhi_network/pence-heading-back-to-hometown-of-columbus-after-biden-inaugural/article_f54f27da-5ad0-11eb-b844-5f2a9f1fc32a.html"
+    type: article
+    provider:
+      name: News and Tribune
+      domain: newsandtribune.com
+    quality: 70
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/newsandtribune.com/content/tncms/assets/v3/editorial/6/c6/6c6ba050-5ad1-11eb-80ee-53121edbc708/589cb5eb63420.image.jpg?resize=617%2C630"
+        width: 617
+        height: 630
+        isCached: true
   - title: "How to watch Joe Biden's Inauguration Day 2021, from the swearing-in to Tom Hanks' special"
     excerpt: "Joe Biden and Kamala Harris' 2021 inauguration will feature Lady Gaga, Tom Hanks and COVID-19 safety precautions. Here's how to watch and what time."
     publishedDateTime: 2021-01-18T02:03:00Z
@@ -1363,6 +1393,6 @@ related:
       domain: detroitnews.com
     quality: 35
 
-secured: "9zviJkzFcUIppF/YfOu4LbTwACsdlecttzFYy0wTCvivdGujEfvc76nYz1OgKCYRTG0brsEyfGdopWc17lmai5KjOb1zAzFK8zBmTJlTxVOeIeuMVnFpIJfj+vOLi9gtI5CdiCDiX/pVoV/3WQKzvVWg2Q8P3nXDkPVKMbIicOLbMm+NRw+bgbfU1iH4toxdazxiAzGkmvpKnO4PeX9fW/vPaCbDD2CqrBkSltKyNSFOD77gKmXODknB0dI24ZeEEzO/dVEAgz0BRrt0RqkeejNH2YjpUk1RWIB5hGXzUVNtkkfoH+IcFIFHRxb1GSCl1jMV4ezv/WL5BsPenq5PA8iPb75MvZ04Ti4oGgqwmoE=;p5sf/Fv3AxauasgfrTCHtw=="
+secured: "OUSr0AcWQT9ujllUwJMy5b72MIQh3TRqFWDyFf4WNghaluVrLuvQ4ER/y6INJQj8dXV84QgRaXIq6bA1AOhQoLkctgG5sRNUp+org8bXYCOHDexmFLkcMi4EAmFBLf7SPZivb38UI1pDRMx9w96BjuhE/pX4V+L5oBAJxgcOchG5ujR6YnrAza6qO1p51ZaoT+arTPzemfhSBuQy2CAbbo0k0l5lROaosAdzIW8QN3M82XMQwplkizHUfJ3usQc8vg3VrsZKJ3DcTALptijgQey2iOcW5dYwVb2SeLK9yaCVu24Y8xirPHpCcO4Czy/n+ND6aSXX8JzYAw+1zFelbwohP4/LyL5sQFdD9QUcUOY=;TqXNBo/DMHBNCnpZMfkyfQ=="
 ---
 

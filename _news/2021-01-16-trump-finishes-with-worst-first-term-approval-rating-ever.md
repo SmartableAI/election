@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/politics/trump-approval-analysis/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/politics/trump-approval-analysis/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/01/14/world/00Mexico-AMLO/00Mexico-AMLO-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "‘He Was Just Everywhere’: A Tired Country After Four Years of Trump"
+    excerpt: "Some Americans are eager for a break from the constant news produced by President Trump. Others said his term had only inspired them to be more involved in activism."
+    publishedDateTime: 2021-01-20T00:53:00Z
+    webUrl: "https://www.nytimes.com/2021/01/19/us/trump-era-ends.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/19/us/trump-era-ends.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/us/trump-era-ends.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/20/us/20fouryears-print1/19fouryears-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Exclusive: Biden administration eyes creating White House antitrust czar - sources"
+    excerpt: "The incoming administration of U.S. President-elect Joe Biden is considering creating a White House position to focus on competition policy and issues relating to antitrust, two sources familiar with the situation said."
+    publishedDateTime: 2021-01-20T04:19:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-antitrust-exclusive-idUSKBN29O2PT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29O2PT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29O2PT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548379044&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0I1O9"
+        width: 820
+        height: 545
+        isCached: true
   - title: "Biden: Science will be at `forefront' of his administration"
     excerpt: "President-elect Joe Biden says \"science will always be at the forefront of my administration,” and he is elevating the post of science adviser to Cabinet level, a White House first."
     publishedDateTime: 2021-01-17T10:28:00Z
@@ -72,17 +88,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Exclusive: Biden administration eyes creating White House antitrust czar - sources"
-    excerpt: "The incoming administration of U.S. President-elect Joe Biden is considering creating a White House position to focus on competition policy and issues relating to antitrust, two sources familiar with the situation said."
-    publishedDateTime: 2021-01-20T00:16:00Z
-    webUrl: "https://www.businessinsider.com/exclusive-biden-administration-eyes-creating-white-house-antitrust-czar-sources-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/exclusive-biden-administration-eyes-creating-white-house-antitrust-czar-sources-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/exclusive-biden-administration-eyes-creating-white-house-antitrust-czar-sources-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
   - title: "France's Le Maire: resolving trade sanctions is my priority for Biden administration"
     excerpt: "French Finance Minister Bruno Le Maire said on Thursday that resolving transatlantic trade sanctions were his priority for dealings with the incoming administration of U.S. President-elect Joe Biden."
     publishedDateTime: 2021-01-14T15:02:00Z

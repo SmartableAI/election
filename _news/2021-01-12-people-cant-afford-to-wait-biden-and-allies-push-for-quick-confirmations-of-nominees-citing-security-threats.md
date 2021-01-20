@@ -1151,6 +1151,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "In pictures: The inauguration of Joe Biden"
+    excerpt: "President-elect Joe Biden will take the oath of office on Wednesday, but it will be a scaled-down inauguration unlike any we've ever seen.\n    \n"
+    publishedDateTime: 2021-01-20T03:14:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fTgTckqfg7k/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119182606-26-biden-inauguration-unf-0119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump hotel looks to cash in on Biden inauguration"
     excerpt: "As Trump allies plot a last-ditch effort on Jan. 6 to try to prevent Joe Biden from being formally selected as the next president, at least one part of Trump-world is tacitly acknowledging that there won’t be a second Trump term,"
     publishedDateTime: 2020-12-31T22:05:00Z

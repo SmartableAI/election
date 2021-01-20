@@ -1,20 +1,20 @@
 ---
 category: news
 title: "VP Mike Pence, at Lemoore naval base stop, salutes troops and Trump policy achievements"
-excerpt: "Vice President Mike Pence thanked U.S. Navy sailors and their families for their commitment to protecting the nation as he visited Lemoore Naval Air Station on Saturday afternoon. Pence, accompanied by his wife,"
+excerpt: "Vice President Mike Pence landed Saturday at Lemoore Naval Air Station, where he will pay tribute to what he views as the Trump Administration’s foreign policy legacy in an afternoon address to service members."
 publishedDateTime: 2021-01-16T20:18:00Z
-originalUrl: "https://www.sacbee.com/article248540260.html"
-webUrl: "https://www.sacbee.com/article248540260.html"
-ampWebUrl: "https://amp.sacbee.com/article248540260.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/article248540260.html"
+originalUrl: "https://www.fresnobee.com/news/politics-government/article248540260.html"
+webUrl: "https://www.fresnobee.com/news/politics-government/article248540260.html"
+ampWebUrl: "https://amp.fresnobee.com/news/politics-government/article248540260.html"
+cdnAmpWebUrl: "https://amp-fresnobee-com.cdn.ampproject.org/c/s/amp.fresnobee.com/news/politics-government/article248540260.html"
 type: article
 quality: 82
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: The Fresno Bee
+  domain: fresnobee.com
 
 topics:
   - Election
@@ -282,6 +282,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_2128dc5b516f45c890e59caed7bf1ddd_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump expected to pardon former strategist Bannon"
+    excerpt: "President Donald Trump is expected to pardon his former chief strategist, Steve Bannon, as part of a flurry of last-minute clemency action that appears to be still in flux in the last hours of his pre"
+    publishedDateTime: 2021-01-20T04:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-expected-to-pardon-former-strategist-bannon/2021/01/19/70f6d2c0-5adb-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-expected-to-pardon-former-strategist-bannon/2021/01/19/70f6d2c0-5adb-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-expected-to-pardon-former-strategist-bannon/2021/01/19/70f6d2c0-5adb-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump enters final days in power as US braces for potential unrest – live"
     excerpt: "Nation wakes to fear of more trouble in wake of Capitol attack but also hope inauguration can begin new era"
@@ -670,6 +686,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "x4gGFVnIfP5vP3R/KHuQU7/0fDJvJ9Z2Y4nZE0UiNMCjL+YElP5AmCb60/ldb4W4jTG2+z9s6m5cdfLy1jtodexWEllOTmi9cJKqHbW5gUUe+yhOgNfb3daaLZl2X0fJmycPiVU8XqV6pEc0v4/IH+AqC8kpblwqmFLqIfWTvSzDNsYJI5qJjn3lzUc8kzsAD2ChKulFZDGoNhjj2EGLSKnpyZw20oyYlRJ51mZhhx+lsq+/5ebUHPpogvUciQRiIgPy4QZaCSJVZkyVD2L1U2q21qPT3o3ZVNVF/j0RY7n+JuBUbuomhH8DGJLmYCczc63wjDMVOrhhDQFWU4xccsxFmAWgvHe7bEaTMcV6b8WUFIbQjiHyzDKEwTXxRALDhEPPJkKwRYU8IZeJslfYy098OMEfGtVilNxnggJ4bm/mlQDFx/cojEPjIQzzBLJWnQGen6QBd4/kkNQzldgwuGcAziOhxde5hdFpKW6yuLPDQlWPndep9o8UJmKGWTOTFP9PKFhnrjnHhSY9RNlGkA==;vb5YEpSJbSCrq0m+zxBSew=="
+secured: "PilhwH28uSOs4GxhEJGF4nSniTinUMRFZ11DFZ5HSGWgvmCD0oMtq8k3KBah0orSqghvHVtr/G/fs6giwLYEwydulONst+BThMWHL2jqx1LGS0d2j8Cw3Cof///5wD2luayuciJdJHp43MhkKJ0lnfE4K3DB6AcbRWfWesB1UtKl+pS8A4JDiLFzWJG2SHDypeYAwHvbF7tT1wJ8QWZX9eFWF+CfWfioaFp+d6bod6uX8nmkSpNgEAPHJAOtr/ODFYXSzUJag7S1zogX6rKXB7x5o97n37rAAyj2Tpw4wa1rEvLBSjtX4p0Uu4KnRQ34UiFfoHV3H2bv/RgKWSHedNiE7c+Udx+O5dSjN5HKLvE=;SHrA/02NCju2d+StmaSBsA=="
 ---
 

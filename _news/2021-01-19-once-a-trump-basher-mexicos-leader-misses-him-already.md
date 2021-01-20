@@ -160,6 +160,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "‘He Was Just Everywhere’: A Tired Country After Four Years of Trump"
+    excerpt: "Some Americans are eager for a break from the constant news produced by President Trump. Others said his term had only inspired them to be more involved in activism."
+    publishedDateTime: 2021-01-20T00:53:00Z
+    webUrl: "https://www.nytimes.com/2021/01/19/us/trump-era-ends.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/19/us/trump-era-ends.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/us/trump-era-ends.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/20/us/20fouryears-print1/19fouryears-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump approval remains stable in new NBC poll, with Republicans unmoved after Capitol violence"
     excerpt: "Eighty-seven percent of Republicans approve of how Trump is doing his job in a new NBC News poll, but half of all voters say Trump is \"definitely worse than most\" presidents."
     publishedDateTime: 2021-01-18T00:11:00Z

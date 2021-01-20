@@ -1118,6 +1118,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Remembering Covid victims, Biden spends an emotional day before inauguration"
+    excerpt: "The president-elect called for national healing at a vigil on the National Mall, shortly after saying farewell in his home state of Delaware."
+    publishedDateTime: 2021-01-20T04:11:00Z
+    webUrl: "https://www.politico.com/news/2021/01/19/biden-delaware-departure-460417"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/19/biden-delaware-departure-460417"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/19/biden-delaware-departure-460417"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 132
+    images:
+      - url: "https://static.politico.com/b3/d9/6fec15f14316b8cfc913fc7c95a3/20210118-donaldtrump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "PGA pulls major 2022 tournament from Trump's Bedminster days after deadly riot"
     excerpt: "Playing at the New Jersey golf course \"would be detrimental to the PGA of America brand,\" the association president said."
     publishedDateTime: 2021-01-11T04:21:00Z

@@ -61,6 +61,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Exclusive: Biden administration eyes creating White House antitrust czar - sources"
+    excerpt: "The incoming administration of U.S. President-elect Joe Biden is considering creating a White House position to focus on competition policy and issues relating to antitrust, two sources familiar with the situation said."
+    publishedDateTime: 2021-01-20T04:19:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-antitrust-exclusive-idUSKBN29O2PT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29O2PT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29O2PT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548379044&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0I1O9"
+        width: 820
+        height: 545
+        isCached: true
   - title: "Biden: Science will be at `forefront' of his administration"
     excerpt: "President-elect Joe Biden says \"science will always be at the forefront of my administration,” and he is elevating the post of science adviser to Cabinet level, a White House first."
     publishedDateTime: 2021-01-17T10:28:00Z
@@ -86,17 +102,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Exclusive: Biden administration eyes creating White House antitrust czar - sources"
-    excerpt: "The incoming administration of U.S. President-elect Joe Biden is considering creating a White House position to focus on competition policy and issues relating to antitrust, two sources familiar with the situation said."
-    publishedDateTime: 2021-01-20T00:16:00Z
-    webUrl: "https://www.businessinsider.com/exclusive-biden-administration-eyes-creating-white-house-antitrust-czar-sources-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/exclusive-biden-administration-eyes-creating-white-house-antitrust-czar-sources-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/exclusive-biden-administration-eyes-creating-white-house-antitrust-czar-sources-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
 
 secured: "qek8xiA4AC3AEp6selFPvqqqTilhMh9k4raM00mdICbjZoHswiK5ks3dHJlXe+Fb/gM3L9M87uN032Ci0TzK67vU8hn5O+NGuxuSCQuv0glKU07Xez+YAdnEeidkJU36OTG21O94LecjcisSiKAR8RmGumGReqCp53JKH6Srri5acgtzSzvqvvGB68ILEF+sBjh4fizMuPYecabceIoNzqDrFzAQjfA7Vf4h752YcyCdqPWdmUKOz0NA06b0EmKvZNYsSf3vdlK12me56+8mnaAcKWzY4q6DpWiQX1okyQMJ9J3RzbJpvjVmHwHSQLLhHsYBIgrFEn3je1zBkQiFBDUM5bbJrthsihUjB2wyUhw=;3JQIQ2G4QMV/eCOSEUfLEA=="
 ---

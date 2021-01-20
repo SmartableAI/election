@@ -449,6 +449,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump tells people he's decided to pardon Steve Bannon as one of his final acts in office"
+    excerpt: "President Donald Trump has decided to pardon his former chief strategist Steve Bannon, in a last-minute decision made only hours before he is scheduled to depart the White House for a final time.\n    \n"
+    publishedDateTime: 2021-01-20T04:32:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SbqL0augvMo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/steve-bannon-pardoned-by-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/steve-bannon-pardoned-by-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108201935-01-steve-bannon-0820-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden and Harris: Two Paths Converge at the White House"
     excerpt: "Six articles published by our reporters during the campaign illustrate the personal and political arcs of Joe Biden and Kamala Harris through the years."
     publishedDateTime: 2021-01-20T00:25:00Z

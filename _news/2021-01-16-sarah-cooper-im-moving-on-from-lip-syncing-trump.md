@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/sarah-cooper-im-moving-on-from-lip-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "EXPLAINER: Can Trump be impeached after leaving office?"
+    excerpt: "In 2019, the last time Trump found himself impeached by the House, he had nearly a year left in his presidency. But on Wednesday, with the inauguration of Joe Biden, Trump will be out of office by the time any Senate trial gets started."
+    publishedDateTime: 2021-01-20T04:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/explainer-can-trump-be-impeached-after-leaving-office/2021/01/19/f8c3c1ac-5aab-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/explainer-can-trump-be-impeached-after-leaving-office/2021/01/19/f8c3c1ac-5aab-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/explainer-can-trump-be-impeached-after-leaving-office/2021/01/19/f8c3c1ac-5aab-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Rapper Lil Wayne in line for last-day pardon from Donald Trump"
     excerpt: "But sources say neither Rudy Giuliani, Steve Bannon or president himself are on the list"
     publishedDateTime: 2021-01-19T16:21:00Z

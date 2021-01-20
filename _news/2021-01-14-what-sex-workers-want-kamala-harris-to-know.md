@@ -444,6 +444,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump tells people he's decided to pardon Steve Bannon as one of his final acts in office"
+    excerpt: "President Donald Trump has decided to pardon his former chief strategist Steve Bannon, in a last-minute decision made only hours before he is scheduled to depart the White House for a final time.\n    \n"
+    publishedDateTime: 2021-01-20T04:32:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SbqL0augvMo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/steve-bannon-pardoned-by-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/steve-bannon-pardoned-by-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108201935-01-steve-bannon-0820-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence to attend Biden inauguration; Trump never called him in the Capitol bunker, sources say"
     excerpt: "A loyal lieutenant to President Donald Trump, Pence was criticized by the president over his role counting Electoral College votes in Congress and was one of the people trapped inside the U.S. Capitol when Trump supporters stormed the building as the votes were being tallied."
     publishedDateTime: 2021-01-10T09:14:00Z

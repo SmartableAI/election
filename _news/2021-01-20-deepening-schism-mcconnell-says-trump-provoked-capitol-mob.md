@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capit
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.amp.html"
 type: article
 quality: 135
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "McConnell says Trump ‘provoked’ the Capitol attackers"
+    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday said President Donald Trump “provoked” the rioters who stormed the Capitol earlier this month as Congress was certifying the presidential election results,"
+    publishedDateTime: 2021-01-20T04:06:00Z
+    webUrl: "https://www.politico.com/news/2021/01/19/mcconnell-trump-provoked-capitol-attackers-460372"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/19/mcconnell-trump-provoked-capitol-attackers-460372"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/19/mcconnell-trump-provoked-capitol-attackers-460372"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/b3/d9/6fec15f14316b8cfc913fc7c95a3/20210118-donaldtrump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Live Updates: Ahead of Impeachment Trial, McConnell Says Capitol Assault Was ‘Provoked’ by Trump"
     excerpt: "Senator Mitch McConnell said the mob that stormed the Capitol “was fed lies,” referring to attempts by President Trump to overturn the election based on bogus claims of voter fraud. The president is expected to issue dozens of pardons."
     publishedDateTime: 2021-01-19T17:58:00Z
@@ -77,6 +93,6 @@ related:
         height: 773
         isCached: true
 
-secured: "Zhpv10F4Axgu+uuTMrla4E4ctpeiLdxCcD/6V6LmI6Lhg7rIX5yYqdLV807+1rJgn7UHis1pZUQYLz19VRtaihahHE+Hrg92pbG8t++Nh6uVXrnBVQGstGBBdtkuo/FPwheOqd91v7h+BKdp/cPkAm5CnD9IfYm08HMEu9yscf3UHPhezbE788wo/zVXOGoUyOmyWK11ovpZQw7ZJK/Vy8v3ch/XvoklpVyk8ob4bhwmc3+0OzMdQCA/uZ5MpbEHyvtYcNRHJJMgPtV9X/38qbIWY6sANGXRHYthYEHw3Re0/a6I1MnrC2Dh/xD5TQNW/tZdY4VHLgrp0F+5pxkLL7FuIzcDIlsm2zlKUWGrgSU=;rK0x32/KamjSQf0g4Vsdjw=="
+secured: "nqU3iiFV5bNwK/51tpiBLgfCldKL8YsEGkpQo7O+ZN1enImw8Y1hos+bZaj1Jw0yUB2HfwP89OAdImwsTFhjliepPouNWOQ4hLNGSuDM5vbuNSMf+RZv5XVAg8JgdvlBBZ3A9/8FHwoCMoW5bFcAD4ZniMCzU+MP9IVS5cZb9jKCk59JMLwIsVnERr8F/Q3GuYnfubDSyGKKDo9ObpAFtWsZ8YbFb0baQt7zawCKxuSejvuoiiK5A5+CEYtKQnRFKXMfdmfLAkR+YgCzNGr8LAxGipsNcvm3BmHvrCJqHLcVvcjKdZAn+FNbR4rI3H6u+UgnjBvCmDK9XzrHNdkiYJEAtzjFZEd6g+8tyooLi1N81N9WcHQQmt51YtrjdK3eD9G1e7sgMdZYdoxVmzidA7AQPiotiuI2fw439NtIIfUbYCiOCgiXxSVkb2ulDDETphQVfj+JambjgWGnRyrxRU0BsQj9fBgGteKDaDoOElC4UW/S8C8xXt21TuiDOjxPhqqiPDnwIFTOVN/wf1r85Q==;ovVv9RV7oNKrCmPOf1If6Q=="
 ---
 

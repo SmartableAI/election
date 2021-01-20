@@ -2,27 +2,33 @@
 category: news
 title: "Exclusive: Biden administration eyes creating White House antitrust czar - sources"
 excerpt: "The incoming administration of U.S. President-elect Joe Biden is considering creating a White House position to focus on competition policy and issues relating to antitrust, two sources familiar with the situation said."
-publishedDateTime: 2021-01-20T00:16:00Z
-originalUrl: "https://www.businessinsider.com/exclusive-biden-administration-eyes-creating-white-house-antitrust-czar-sources-2021-1"
-webUrl: "https://www.businessinsider.com/exclusive-biden-administration-eyes-creating-white-house-antitrust-czar-sources-2021-1"
-ampWebUrl: "https://www.businessinsider.com/exclusive-biden-administration-eyes-creating-white-house-antitrust-czar-sources-2021-1?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/exclusive-biden-administration-eyes-creating-white-house-antitrust-czar-sources-2021-1?amp"
+publishedDateTime: 2021-01-20T04:19:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-antitrust-exclusive-idUSKBN29O2PT"
+webUrl: "https://www.reuters.com/article/us-usa-biden-antitrust-exclusive-idUSKBN29O2PT"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29O2PT"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29O2PT"
 type: article
-quality: 99
+quality: 119
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548379044&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0I1O9"
+    width: 820
+    height: 545
+    isCached: true
 
 related:
   - title: "Biden: Science will be at `forefront' of his administration"
@@ -97,6 +103,6 @@ related:
         height: 533
         isCached: true
 
-secured: "4bb1rdp4tqMO7PVPVgMSQXwoXhSEl83fzGVsCyOKsI5MFW4WSAW6D6P5mb9idXbJU7fr6/ZOWBpvBxuSM3OOor9WstGpkgBqX25OD8fvX+XgSav8wNWjuosbZNLJK8jjkSF5ezhMRO1UDvktvzzC4PSFU0AGlBirup8DIQCk3vnIEJr/7tNKKiyLRi3GBScVuo+pI9kAdW/OTaLS6bwHdfSkWdnX8kPbDnJzFnixG7ILFdRe4ULIiLdgOd70SoH+u/ialEQ7y94WEv5aPOZLl+S/SCl3/BtkyfWUBtrXxImnaRt76PlAWeH5L+erwjIVs/wLImZcNxiA6dx9BesZSuy3EeXXF2DS6EhktVb2yr0=;8HqCIztYqXEaB+ceCPqqAA=="
+secured: "gYwUUq7CX196Hmy3uz7wC4oidhBEKTtYX/2OAh8h1utvVQZZxTTHYvyAiYcKw382j7wY3AODXvEVh74OgDadnKpPBSAtn3V8kUsZeKCiq5s/C1vloqUwgiziKdKTxyuWNYWuGQBGLHUF8FXSwyOQRlK3LKVphbH0BxCxVg115gh8glehNg8BZy+EwZyBKOaRiJA3e9+tbGJdWgmSG3VQCi5G7nehMw4a4jHoaOe+yj6XI4Hx0t73LY1QAdnFSyCrvx2twkaHtHeutg8iebSEPmxE4w+4vrMB3kjVh8LlN4rygCb0VsW7LGQr9bfHHfdR4M8zkjOH33qh0eBRgnuS3A4sPhF8hajz8/7ijA+SjK4=;IMGtjmc6YCxnMIO3DdH9MA=="
 ---
 

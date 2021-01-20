@@ -271,6 +271,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump expected to pardon former strategist Bannon"
+    excerpt: "President Donald Trump is expected to pardon his former chief strategist, Steve Bannon, as part of a flurry of last-minute clemency action that appears to be still in flux in the last hours of his pre"
+    publishedDateTime: 2021-01-20T04:58:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-expected-to-pardon-former-strategist-bannon/2021/01/19/70f6d2c0-5adb-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-expected-to-pardon-former-strategist-bannon/2021/01/19/70f6d2c0-5adb-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-expected-to-pardon-former-strategist-bannon/2021/01/19/70f6d2c0-5adb-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump enters final days in power as US braces for potential unrest – live"
     excerpt: "Nation wakes to fear of more trouble in wake of Capitol attack but also hope inauguration can begin new era"
     publishedDateTime: 2021-01-17T14:49:00Z
@@ -558,15 +574,15 @@ related:
       domain: time.com
     quality: 85
   - title: "VP Mike Pence, at Lemoore naval base stop, salutes troops and Trump policy achievements"
-    excerpt: "Vice President Mike Pence thanked U.S. Navy sailors and their families for their commitment to protecting the nation as he visited Lemoore Naval Air Station on Saturday afternoon. Pence, accompanied by his wife,"
+    excerpt: "Vice President Mike Pence landed Saturday at Lemoore Naval Air Station, where he will pay tribute to what he views as the Trump Administration’s foreign policy legacy in an afternoon address to service members."
     publishedDateTime: 2021-01-16T20:18:00Z
-    webUrl: "https://www.sacbee.com/article248540260.html"
-    ampWebUrl: "https://amp.sacbee.com/article248540260.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/article248540260.html"
+    webUrl: "https://www.fresnobee.com/news/politics-government/article248540260.html"
+    ampWebUrl: "https://amp.fresnobee.com/news/politics-government/article248540260.html"
+    cdnAmpWebUrl: "https://amp-fresnobee-com.cdn.ampproject.org/c/s/amp.fresnobee.com/news/politics-government/article248540260.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: The Fresno Bee
+      domain: fresnobee.com
     quality: 82
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5596404782001/3ddd32a3-0ae5-48e6-9ed7-4f6b126a2095/0318bcfc-878c-4237-b513-931da9905af2/1280x720/match/image.jpg"

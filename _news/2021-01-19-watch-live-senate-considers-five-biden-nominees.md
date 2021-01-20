@@ -186,6 +186,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Cotton: Democrats being 'very sore winners' toward Trump supporters ahead of Biden inauguration"
+    excerpt: "Despite capturing the White House and Senate in recent elections, Democrats continue to spread \"overheated\" rhetoric about Trump voters, Sen. Tom Cotton, R-Ark., told \"Tucker Carlson Tonight\" Tuesday."
+    publishedDateTime: 2021-01-20T04:23:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7nXK8UdYVzc/sen-cotton-democrats-being-sore-winners-towards-trump-supporters"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-cotton-democrats-being-sore-winners-towards-trump-supporters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cotton-democrats-being-sore-winners-towards-trump-supporters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b94da582-5e9f-407a-8c65-defdb1cf4b39/697b1763-a3c2-4141-a77e-bc320306fa5a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pelosi: Will impeach if cabinet won’t oust Trump"
     excerpt: "This comes as top officials leave over Trump misconduct."
     publishedDateTime: 2021-01-07T20:03:19Z
@@ -1075,6 +1091,22 @@ related:
     quality: 138
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f4cd6bf6-d77f-41a9-8861-b3260ad42bbc/b6399996-d9d7-4095-b25c-c8e2bbca99ca/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "MSNBC contributor compares Biden to God, suggests Trump voters should be blamed for COVID deaths"
+    excerpt: "MSNBC contributor Eddie Glaude had a lot to say Tuesday while praising President-elect Joe Biden and attacking President Trump's supporters on the eve of the 46th president's inauguration."
+    publishedDateTime: 2021-01-20T04:52:00Z
+    webUrl: "https://www.foxnews.com/media/msnbc-eddie-glaude-biden-god"
+    ampWebUrl: "https://www.foxnews.com/media/msnbc-eddie-glaude-biden-god.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-eddie-glaude-biden-god.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 137
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae7242fd-f475-47ae-a81d-d30f0eaec56c/fa92b53c-2e1a-4ef2-980f-09e84faf7245/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
