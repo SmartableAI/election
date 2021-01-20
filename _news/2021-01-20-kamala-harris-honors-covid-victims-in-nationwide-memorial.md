@@ -927,16 +927,16 @@ related:
   - title: "Kamala Harris Has Always Worn Pearls. Now, in Sisterhood, So Will They."
     excerpt: "Women across the country are pledging to wear pearls on Inauguration Day to support the country’s first female Vice President-elect."
     publishedDateTime: 2021-01-19T17:58:00Z
-    webUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-kamala-harris.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-kamala-harris.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/style/inaugurations-pearls-kamala-harris.amp.html"
+    webUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-women.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-women.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/style/inaugurations-pearls-women.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/01/19/fashion/19PEARLS/19PEARLS-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/01/21/fashion/19PEARLS/19PEARLS-facebookJumbo-v2.jpg"
         width: 1050
         height: 549
         isCached: true
@@ -1172,6 +1172,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "mp/JmsTsnFutbTrs6aBkCKmSKg0EzSN0WoHaQFjFSVhg+c4J+kra0x62RA/YLxDTKq3SCH0dxWB3FvwqNfDK/wxbR0ZsGVj1pkU4Nc0HFmr4LSKA0QDIU2WbhFSztLNljZjbgL/NEljmZ7sotm4xk4x1cMlnU9fQ2tIn+XZyfr+RKvlOyg9EaEOEPdUEKm2yZj/hsVyp0jsQipiOrNYvyH5zexGPr4TLf+9WQm29Z1hhyuZdV4easutETqapvAMBcywVTI3R0NAPpAno/eWjenqCGi2ZPJqQXNCrY+l+naLw6BwyZKpmuBQRWZJooU+JdYQeS8PerUUFK5ooa6+l2sevIoytifRXWcf09upheFI=;MVxlBKXFmKF6I1ikPEXZGA=="
+secured: "r0Z5u+4RZhwTDMfe4078iYO0u6HB7N1U3r9XlU+mmLZNHZrXWmnflDdsxvj/BDWeOZB4i8akYkHObkMUov4OBAkDh9PiZHhZzHVWNqZhpK7KGkkYGACozaR6c/nbQnqVM3ihVQnTqmpywUD07sHBkedMQPXQBeCLs1OZEEqvj47E97SL6xsI5oOivgjbou43rFLSw/b7NDGOomUgwlJ6bbxushHORKsODb389XeT3VyxeRLvfgdeeooyIreRcEenYeTxD0RzKEosGC5N8K5NkS0XU6s+ZX4CAHvs/ijO4StoTryjd5hqPC4dNUhHw+xavdZOygltk5KyCSvrVHE8HkmdLsFo/uKvojNd3kcaD5QZmlVx1L/DsJbuYnpMADEe5VUjgb+QZPfLG/83xFXUL3eClbf+qeKGZ7uUkjzoGmXcyS2jzznL6nyEaxPmywneOVDcrlGkVmuQhC2jfz8shiXUL/YF5v/LIGAK28UAvwJA+F90dmJeJI2tMGQzPS5M1KDVMYCYyDQ+P3ymfTF4yw==;8otrFndF7HUqm6wK3xUfTQ=="
 ---
 

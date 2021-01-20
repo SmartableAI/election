@@ -74,6 +74,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Pretend President: Pence handles tasks declined by Trump in final days"
+    excerpt: "Pence has often taken on jobs that, in other administrations, might have gone to the man on top. But that role has intensified in the last weeks of Trump’s presidency."
+    publishedDateTime: 2021-01-20T02:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/pence-president/2021/01/19/503ea3e2-59bd-11eb-a976-bad6431e03e2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/pence-president/2021/01/19/503ea3e2-59bd-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-president/2021/01/19/503ea3e2-59bd-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 148
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/URDUARC2RYI6XOF55Y3LDTIYX4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "House passes measure calling on Pence to remove Trump"
     excerpt: "The House on Tuesday passed legislation calling on Vice President Pence to tap his Constitutional authority to remove President Trump from office in response to the president’s role in the deadly mob attack on the Capitol last week."
     publishedDateTime: 2021-01-13T12:01:00Z
@@ -836,8 +852,8 @@ related:
         isCached: true
   - title: "'Field of Flags' lights up Washington for Joe Biden's inauguration – video"
     excerpt: "The ‘Field of Flags’ stretching along the National Mall in front of the Washington Monument has been unveiled, comprising 200,000 flags intended to represent the American people who are unable to attend President-elect Joe Biden’s inauguration on Wednesday."
-    publishedDateTime: 2021-01-19T16:05:00Z
-    webUrl: "https://www.theguardian.com/global/video/2021/jan/19/field-of-flags-lights-up-washington-for-joe-bidens-inauguration-video"
+    publishedDateTime: 2021-01-19T20:04:00Z
+    webUrl: "https://www.theguardian.com/global/video/2021/jan/19/field-of-flags-lights-up-washington-for-joe-bidens-inauguration-video?amp;amp;amp"
     type: article
     provider:
       name: The Guardian
@@ -1648,6 +1664,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris: The bible and Bay Area friends she holds dear will be there at historic inauguration"
+    excerpt: "Kamala Harris will be sworn in as the 49th vice president of the United States on Wednesday with a humble, beloved Bible that once belonged to the neighbor who took care of her a half century ago"
+    publishedDateTime: 2021-01-20T01:04:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/19/kamala-harris-the-bible-and-bay-area-friends-she-holds-dear-will-be-there-at-historic-inauguration/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/19/kamala-harris-the-bible-and-bay-area-friends-she-holds-dear-will-be-there-at-historic-inauguration/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/19/kamala-harris-the-bible-and-bay-area-friends-she-holds-dear-will-be-there-at-historic-inauguration/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 61
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/SJM-L-KAMALA-0120-4.jpg?w=1024&h=687"
+        width: 1024
+        height: 687
+        isCached: true
   - title: "Mike Pence heads to California to talk up Trump’s foreign policy in administration’s final days"
     excerpt: "Vice President Mike Pence is landing Saturday at Lemoore Naval Air Station, where he will pay tribute to what he sees as the Trump Administration’s foreign policy legacy in an afternoon address to service members."
     publishedDateTime: 2021-01-16T21:38:00Z
@@ -1811,6 +1843,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/15/14/51/20236926/3/rawImage.jpg"
         width: 2048
         height: 1355
+        isCached: true
+  - title: "Breaking barriers may be easy part: Vogue magazine Kamala Harris cover foretells battle to come for respect she’s earned"
+    excerpt: "The controversy over Vogue magazine’s February cover of Vice President-elect Kamala Harris in casual garb and Converse shoes seems a small thing. But it foreshadows a battle to be treated with the earned respect and dignity her office demands."
+    publishedDateTime: 2021-01-20T02:35:00Z
+    webUrl: "https://chicago.suntimes.com/2021/1/19/22239314/kamala-harris-vogue-magazine-vice-president-inuauguration-respect-shes-earned"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/1/19/22239314/kamala-harris-vogue-magazine-vice-president-inuauguration-respect-shes-earned"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/1/19/22239314/kamala-harris-vogue-magazine-vice-president-inuauguration-respect-shes-earned"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 50
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Mike Pence won’t attend Trump’s presidential sendoff"
     excerpt: "Vice President Mike Pence is among those who will not be attending President Donald Trump’s sendoff event at Joint Base Andrews. A person familiar with Pence’s schedule cited “logistical challenges” in getting from the air base to President-elect Joe Biden’s inauguration ceremonies on Wednesday."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-ambassador-samantha-power-usa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ambassador-samantha-power-usaid.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b32ebf9a-5188-4687-bf40-72a6eee05990/5314d1ba-f3cf-4df9-a735-3bbd2ec83ce7/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "US UN Ambassador Craft calls for even-handed treatment of Israel, as UN looks to life under Biden"
+    excerpt: "The historic out-of-the-box peace deals negotiated by the Trump Administration between Israel and four Arab countries were largely done without the help of the United Nations"
+    publishedDateTime: 2021-01-20T02:19:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/298Ac9UnQBI/us-un-ambassador-craft-israel-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/us-un-ambassador-craft-israel-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-un-ambassador-craft-israel-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21016585102575.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "Wo+wc5fZ9FkKR3odXJk0wOvfeqTKksZNhuRujzrcJvIgm9Trj4VOyAO02V1yGMbSHz3t+U5lhr/Ky/RIVoQToaAVdUA565VMBS21pvO9ioL3lWz7P1qhz9i3jdFib48PR277q/LejyQyrSasysu2/e1FlCh7MiGgQT6HhGIvdV0HtQd9n+WVTXWMnfWw+qQZ/sKXalpwK/tyybPcLLh6yFHid5scIv6J1P98U2/JxIAi4NOChrSm3Eks5mHSY+CXSlOY6dtvCiSDH5v+6wxlhcSN8IJ+kaYaXyu7JiFTIl5Xp2eJzbGNux879Bjtm29dPsOhwnZAaXbfEuAL8x7euA9JNRl19ZI4Jzl+cJ/Kuok=;wIWTOt6OqcgLGrCJzY159g=="

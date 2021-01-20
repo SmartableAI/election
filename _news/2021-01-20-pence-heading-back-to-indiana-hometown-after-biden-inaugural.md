@@ -2,33 +2,33 @@
 category: news
 title: "Pence heading back to Indiana hometown after Biden inaugural"
 excerpt: "Vice President Mike Pence will be returning to his southern Indiana hometown Wednesday afternoon following the inauguration of President-elect Joe Biden"
-publishedDateTime: 2021-01-19T22:13:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/pence-heading-back-indiana-hometown-biden-inaugural-75352267"
-webUrl: "https://abcnews.go.com/Politics/wireStory/pence-heading-back-indiana-hometown-biden-inaugural-75352267"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-heading-back-indiana-hometown-biden-inaugural-75352267"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-heading-back-indiana-hometown-biden-inaugural-75352267"
+publishedDateTime: 2021-01-20T02:31:00Z
+originalUrl: "https://www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html"
+webUrl: "https://www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 1910
+heat: 1930
 published: true
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Mike Pence
   - Joe Biden
+  - Mike Pence
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_89bbb4d66241419b9576e4e3ea494d0b_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -415,6 +415,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_bb699b09737c4e44a69f0c46d6444fe6_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "An emotional Biden bids farewell to Delaware on his way to White House"
+    excerpt: "U.S. President-elect Joe Biden became emotional during a brief farewell ceremony in Delaware on Tuesday before heading to Washington for his inauguration, choking back tears as he reflected on his long journey to the White House and remembered his son."
+    publishedDateTime: 2021-01-20T02:14:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-national-guard/an-emotional-biden-bids-farewell-to-delaware-on-his-way-to-white-house-idUSKBN29O2KH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29O2KH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29O2KH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210119&t=2&i=1548359213&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0I1K1"
+        width: 823
+        height: 545
         isCached: true
   - title: "Biden's Pentagon pick supports overturning military transgender ban"
     excerpt: "Retired Army General Lloyd Austin, President-elect Joe Biden's pick to lead the Pentagon, said on Tuesday that he supported a plan to overturn a ban on transgender service members."
@@ -1347,6 +1363,6 @@ related:
       domain: detroitnews.com
     quality: 35
 
-secured: "svPYuqm9pTtYemYLZP2DwWxubgecZwlCON8bnNIvW09rTIxUveOKOfvGCoBg3O9m0rK1FMxBnQ1EWoHwciJap9gLvTw788IAEkoXA1naAWq9JoXCrR+Z1T+714yssRnJag90NI40AWEA9nT69ug0iFtTpE5hpyvtIiJaIOA69rUBTJixUuVIUIpGicrCHKcX9ct3ul/h+4CWowsUPqlz9cSXbznLNsM213+nl8QXURJOMeo1+jM1G+rU4LLPuobWuRl2u76YL9abEGIM6qYLUfXdRyLU79UedBzAW5Xe6b9YUE5WAGxBb30Et1GSOGhNBPSwtx4LAuIPdgh3irjBu9SvDkfLtompIXFqSHwhZE8=;12cIyW2QDAdhO+3Ggu9Zmg=="
+secured: "9zviJkzFcUIppF/YfOu4LbTwACsdlecttzFYy0wTCvivdGujEfvc76nYz1OgKCYRTG0brsEyfGdopWc17lmai5KjOb1zAzFK8zBmTJlTxVOeIeuMVnFpIJfj+vOLi9gtI5CdiCDiX/pVoV/3WQKzvVWg2Q8P3nXDkPVKMbIicOLbMm+NRw+bgbfU1iH4toxdazxiAzGkmvpKnO4PeX9fW/vPaCbDD2CqrBkSltKyNSFOD77gKmXODknB0dI24ZeEEzO/dVEAgz0BRrt0RqkeejNH2YjpUk1RWIB5hGXzUVNtkkfoH+IcFIFHRxb1GSCl1jMV4ezv/WL5BsPenq5PA8iPb75MvZ04Ti4oGgqwmoE=;p5sf/Fv3AxauasgfrTCHtw=="
 ---
 

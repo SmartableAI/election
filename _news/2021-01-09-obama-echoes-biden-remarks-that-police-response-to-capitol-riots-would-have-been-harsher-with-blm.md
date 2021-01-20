@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "US UN Ambassador Craft calls for even-handed treatment of Israel, as UN looks to life under Biden"
+    excerpt: "The historic out-of-the-box peace deals negotiated by the Trump Administration between Israel and four Arab countries were largely done without the help of the United Nations"
+    publishedDateTime: 2021-01-20T02:19:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/298Ac9UnQBI/us-un-ambassador-craft-israel-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/us-un-ambassador-craft-israel-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/us-un-ambassador-craft-israel-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21016585102575.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "6jdySX0c7iPlg+vb33dMaaFCHFesJ3sOUgh+vjB7up6qioFOGqih9yP4lsTeI84zUqsL8PhKhvDe4K1TyPO2hTMjg2tr3mY4A4RftgYPIlzgIHFu810+a6UprvjcXFVRc7Bf3R8MCOtY4ywoYEyWMAXziJtspsBdvLeKY9MmcreDh4F4gLKlUphltwbCDuAQ4IqC5q7PvP6nV1k1bY/nbP046d5v//BshUyYwJteFv5uaS7U0VLrIid76svTDxksQeufUp7p7smgV223ja7KCKSvC8HmBG88o+qICcuzeolQ+Ucyg2ZxOHOGw7h18ziiaArKPP5nYKmLv0izTmqfZikmq2oLHIPR5cYkJXDDotI=;GRUCxpfRcs1nJP61mR6ccQ=="
 ---

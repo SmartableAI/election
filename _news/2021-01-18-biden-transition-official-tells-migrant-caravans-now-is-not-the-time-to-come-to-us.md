@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/media/biden-caravan-immigration-mexico-borde
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-caravan-immigration-mexico-border-biden-administration.amp"
 type: article
 quality: 128
-heat: 128
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Graham warns border will be 'overrun’ unless Biden sends ‘clear and unmistakable signal’ to migrant caravans"
+    excerpt: "Sen. Lindsey Graham, R-S.C., on Tuesday warned that the U.S. border will be “overrun” unless the incoming Biden administration sends a message to the incoming migrant caravans that they support President Donald Trump’s policies on immigration."
+    publishedDateTime: 2021-01-20T00:58:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/thbVdISPF30/graham-warns-border-overrun-unless-biden-sends-signal-migrant-caravans"
+    ampWebUrl: "https://www.foxnews.com/politics/graham-warns-border-overrun-unless-biden-sends-signal-migrant-caravans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-warns-border-overrun-unless-biden-sends-signal-migrant-caravans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020009128608.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "hQ4LMwR4HYxwlzUmTWjNZYT60N1sfh214qi6OrOFgcao+kWvWzjayMlxS3CuMmFpgMDFtnTsMrkVNAbkzqlRCOIqS4iNCYYKO3REpuB43xMQ5sdfZI99u0pLjyKjDg7BcSYxFQrsM/SN1vvLZFfyqI2W9MzXPY5chM2FL+cs2pUi5b8FEb4oPAMomZn6BmRLWf9iwaFBYfiIvkeZUvmeSKBOsVI4wGJ+NC3PcXRXGbULplXeKUIq8Q+tjeBPmqZU0BE47rLpuAGxnkYv9fjUeH0IkdxGPUWcpGyQQKRC4UnQOjF99b0Wmkxtg9QQkYewlAodRbmh0/0EvVhaj8sEXIdjB3W11QfSH9PUy/BKjmc=;Er1nYt+bwt1W5r/TS4dKrA=="
 ---

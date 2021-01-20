@@ -85,6 +85,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 160
+  - title: "Politics updates: Biden, Harris volunteer for MLK Day as Trump signs 3 executive orders"
+    excerpt: "It's Martin Luther King Jr. Day, we're two days from President-elect Joe Biden's Inauguration Day and here are the updates from Washington: Biden overrides Trump, says international travel restrictions will stay in place President Donald Trump began the process Monday of lifting travel bans on non-U."
+    publishedDateTime: 2021-01-20T02:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/18/politics-updates-2-days-inauguration-bidens-picks-sec/4202741001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4202741001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4202741001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 157
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/18/USAT/bfd3dfe7-c36c-406e-85b6-5849459d45a1-kamala.JPG?auto=webp&crop=4332,2437,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Election 2020 Today: Biden’s defense pick, Trump challenges"
     excerpt: "The Associated Press has learned that President-elect Joe Biden will nominate retired four-star Army general Lloyd J"
     publishedDateTime: 2020-12-08T10:34:00Z

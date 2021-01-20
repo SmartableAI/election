@@ -3,10 +3,10 @@ category: news
 title: "Kamala Harris Has Always Worn Pearls. Now, in Sisterhood, So Will They."
 excerpt: "Women across the country are pledging to wear pearls on Inauguration Day to support the country’s first female Vice President-elect."
 publishedDateTime: 2021-01-19T17:58:00Z
-originalUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-kamala-harris.html"
-webUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-kamala-harris.html"
-ampWebUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-kamala-harris.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/style/inaugurations-pearls-kamala-harris.amp.html"
+originalUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-women.html"
+webUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-women.html"
+ampWebUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-women.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/style/inaugurations-pearls-women.amp.html"
 type: article
 quality: 135
 heat: -1
@@ -26,7 +26,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/01/19/fashion/19PEARLS/19PEARLS-facebookJumbo.jpg"
+  - url: "https://static01.nyt.com/images/2021/01/21/fashion/19PEARLS/19PEARLS-facebookJumbo-v2.jpg"
     width: 1050
     height: 549
     isCached: true
@@ -1172,6 +1172,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "HPNvYgDGd3NVrpyZYUkh3zbiqwLXCbOPysfyzdKRjiskQHhrfxS+fOlZtu7ji7GMA6z+GeUXbu5+fmxth9O4Ldo59GfTUGg7f4PNIFkCDtVKRMXdWPCjxb6/4YOHwLMTOWNc04gX04XtcTJ115jf34NvUJiXYDfBDwPsqPdyzJLFvafd7GuxvNeNcMCyLu/RTSGGSHEeAfIncsLaCgs+T7E46wk5mBrgYMiYgX4aA6hkUfyYVpOcQtxoj/HcVy3VebsZO72Wopy1cPjhQnTVnZjdxNEglTjyyil6ZMKI8M8jF/xY8cyxpWPTB1i6bW3W7RgUuAVtMg5g8PN+RzP/oTFTmdm4vAVqhq/wQTvjO3NHHd0VZpCkemU2hWh/iUWk9DJ6Xyv9kBlwiJBO5tDoNQv6xYJubsvs4hLhof0+dHXfwuVRNKw8GP8olLgvcAOzpqE3R8oIa8JdxvuNVK6By0is4c6N+YMpChjG43Y6grumYM8O/RDNu+v+W3RoMDN50nDfpt9FzoMr/zNR4QQN3Q==;3UvOpVcTHr9qUlihL8p4Iw=="
+secured: "ZdXdrKL3u48KB+aM5DRLnW0HX5yvlp50TZHRzS/EpZCXEkPIM+dKW/jEDxmGo3D9U7ZJECtWSDNV94MybOgYUCZB7plhbahAKgGeifyNajIIVkwGYm+KkI7+d8CfQJswqpPhNblbuinCji+5yTlWcmjs0G4u7mtiURYhqVYNXzaYTaVCJbmG/m0sIaw4woZkzJqmXvNeyRKZviPIDu6Smf9v1oSlmuFc3/v3OE3dbxGBYh6c1V7Rkvft0mCU/bFXZHVul6CnCoVE/IVUnFBUOs2SVyWEk/J4SJDNRgdPfKZVMmkv9cVE57JwBd8Z9Hs2dZ+nZpZEeovs6VcJlnOJrvpsjGSkg+SH3MWWSRBgCvo=;mK3XI+JwHsMyiFSuIMiTxw=="
 ---
 

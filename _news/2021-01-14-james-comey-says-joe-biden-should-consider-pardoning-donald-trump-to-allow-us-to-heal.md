@@ -383,6 +383,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "U.S. actors union to decide whether to expel Donald Trump"
+    excerpt: "The American actors union is to hold a meeting to consider expelling U.S. President Donald Trump from its ranks."
+    publishedDateTime: 2021-01-20T02:02:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-sag-idUKKBN29O2J8?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29O2J8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29O2J8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210119&t=2&i=1548357837&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0I1J9"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden, a longtime ally of police, will enter White House pushing for reform"
     excerpt: "We’ve always had a good working relationship with Biden,” said Jim Pasco, executive director of the Fraternal Order of Police, which twice endorsed Trump. He was one of the first police officials invited to meet with the Biden transition team."
     publishedDateTime: 2021-01-11T13:38:00Z
@@ -694,6 +710,20 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/1671610978151/2021/1/d90e27e5b533cf02b2ab1cdebe011438/v1.5/Joe-Biden-volunteers-Donald-Trump-works-on-MLK-Day.jpg"
         width: 800
         height: 534
+        isCached: true
+  - title: "Joe Biden won't fight for Donald Trump's TikTok ban, say experts after outgoing president extends lawsuit deadline"
+    excerpt: "Experts say President-elect Joe Biden is set to drop the ban, after Trump's administration extended a legal deadline over it to after he leaves office"
+    publishedDateTime: 2021-01-19T19:16:00Z
+    webUrl: "https://www.businessinsider.com/donald-trumps-tiktok-ban-likely-just-ended-with-legal-deadline-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5fff2702a8de7700187d3a0c?width=1200&format=jpeg"
+        width: 921
+        height: 460
         isCached: true
   - title: "Republican U.S. senator joins calls for Trump resignation as Democrats prepare to impeach"
     excerpt: "Republican U.S. senator called for President Donald Trump to resign on Sunday, saying he could face criminal liability after the deadly storming of the U.S. Capitol by his supporters."
