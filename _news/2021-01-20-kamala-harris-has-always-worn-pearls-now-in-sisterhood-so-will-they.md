@@ -2,11 +2,11 @@
 category: news
 title: "Kamala Harris Has Always Worn Pearls. Now, in Sisterhood, So Will They."
 excerpt: "Women across the country are pledging to wear pearls on Inauguration Day to support the country’s first female Vice President-elect."
-publishedDateTime: 2021-01-19T17:58:00Z
-originalUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-women.html"
-webUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-women.html"
-ampWebUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-women.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/style/inaugurations-pearls-women.amp.html"
+publishedDateTime: 2021-01-19T23:32:00Z
+originalUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-kamala-harris.html"
+webUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-kamala-harris.html"
+ampWebUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-kamala-harris.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/style/inaugurations-pearls-kamala-harris.amp.html"
 type: article
 quality: 135
 heat: -1
@@ -77,6 +77,22 @@ related:
     quality: 200
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114072538-jennifer-lopez-lady-gaga-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "READ: Joe Biden and Kamala Harris' public schedule on Inauguration Day"
+    excerpt: "Below is the public schedule released by the Biden transition team for Joe Biden and Kamala Harris on Inauguration Day:\n    \n"
+    publishedDateTime: 2021-01-20T04:06:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9EQeauWGRjI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/biden-harris-inauguration-day-schedule/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/biden-harris-inauguration-day-schedule/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 200
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119164928-04-biden-arrives-0119-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1188,6 +1204,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "d0xgMJ4YH0qiXN5kYzq6cjpjz1vJuCQGkanwwk9CXrMNpxzqBykXuVJWBL6MObGr5pArMVkUoaeeyvW3TtKQScyWjQcIx9Wm1T5bDn2QjNy4HpE7k70Dh2LUbrsTXJdWFsMSC6sCTyqbr3KZ9ZKefXslrSnlzwoHMbTmOAMDNMh8FIIn9dIwX0jJNY6XewTn4ZZOs9QC8JnOx14tr6CYicKg5iDUVVyZIz2sPX8zrhRA8rFGcKeY7PU2rQP3qQXkQ7J512wvcN/6ayouW+VCncBvXuDUZbRDSzCaHXF/s/hTZZi3BKCIcqWegkoKVyLbkEHVoJDeSLE6xyLDObYREVuj9aohZrKczbRB2EdadBbFqqVUGj6yIXoe0eKnrCnTHL0XJJfWrEl+6myYVBWAUh962G+ZtisEqiHAm5DxlG39cpwMolkxyRvygFQ4r6y4+nLR3STectZwL/THw/dxMXEQ1V8JL8Rvdg8Fj/LaSAu4LKSJf+ssCHM1NAjUWzCCy8N2MlkWBU68u913LbSyXw==;j3RJ3v6KjCY9EaKIi508hA=="
+secured: "FuX541oUmYXpSWCSwaV5zS6hB508FV6GvnPokw1pGzo1baKp71uXEG4S2NW6Zf56AzqEvm5mVBv/gI7+iBMgVrojoxMg/ETxWDql3KC7xBlplaGhQqe9JChSq/L/lowRYeoMSEueN6s6p+Ign1J3II16P6caQk17E8qhPG6EQpNEwGPzva/uv21VtiAndvNa3fy583K47e2YkRe7ljfHKckUGbjCV0mKnNu4e2D3BfudkoKzREaSD5la87v+t1eP6bBJUjdF+d2VGx1PDjO8IaQ9Isj4MFZc4GnhvmkK9BqtBBkB95H3ri9ebmH/47Y3czW+4WGpaFyjS2NWC8SMW7yEJCSajLo2CiUP99PCwfY=;/BkQTCwI/qOgVkfYT3FdfA=="
 ---
 

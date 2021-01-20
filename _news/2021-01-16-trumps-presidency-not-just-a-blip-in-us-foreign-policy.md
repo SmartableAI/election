@@ -1593,6 +1593,17 @@ related:
         width: 1024
         height: 687
         isCached: true
+  - title: "Watch live video: Inauguration of Joe Biden and Kamala Harris"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will be inaugurated Wednesday in Washington, D.C., with tens of thousands of National Guard troops stationed around the city amid what federal prosecutors characterize as an ongoing insurrection,"
+    publishedDateTime: 2021-01-20T04:17:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Watch-live-video-Inauguration-of-Joe-Biden-and-15883461.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Watch-live-video-Inauguration-of-Joe-Biden-and-15883461.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Watch-live-video-Inauguration-of-Joe-Biden-and-15883461.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 70
   - title: "Barack Obama, Kamala Harris Share Heartwarming Birthday Tributes For Michelle Obama"
     excerpt: "Barack Obama, Kamala Harris and more shared heartfelt messages for Michelle Obama on her 57th birthday Sunday."
     publishedDateTime: 2021-01-18T04:52:00Z
@@ -1815,16 +1826,16 @@ related:
         height: 687
         isCached: true
   - title: "Mike Pence Greets White House Staffers in Washington"
-    excerpt: "U.S. Vice President Mike Pence walks back to his office after greeting staff members outside the West Wing of the White House in Washington, DC on January 19, 2021. Pool Photo by Yuri Gripas/UPI"
+    excerpt: "U.S. Vice President Mike Pence poses for a group photo with staff members outside the West Wing of the White House in Washington, DC on January 19, 2021. Pool Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-01-19T21:04:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/25bc45373058306b5a157b22e066ef20/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/31056b39c3bed6e8184373d7a3205b2f/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/25bc45373058306b5a157b22e066ef20/PENCE-STAFF.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/31056b39c3bed6e8184373d7a3205b2f/PENCE-STAFF.jpg"
         width: 650
         height: 433
         isCached: true

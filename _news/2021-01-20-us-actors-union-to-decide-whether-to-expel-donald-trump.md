@@ -3,8 +3,8 @@ category: news
 title: "U.S. actors union to decide whether to expel Donald Trump"
 excerpt: "The American actors union is to hold a meeting to consider expelling U.S. President Donald Trump from its ranks."
 publishedDateTime: 2021-01-20T02:02:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-trump-sag-idUKKBN29O2J8?edition-redirect=uk"
-webUrl: "https://www.reuters.com/article/uk-usa-trump-sag-idUKKBN29O2J8?edition-redirect=uk"
+originalUrl: "https://www.reuters.com/article/uk-usa-trump-sag-idUKKBN29O2J8"
+webUrl: "https://www.reuters.com/article/uk-usa-trump-sag-idUKKBN29O2J8"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29O2J8"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29O2J8"
 type: article
@@ -1043,6 +1043,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "6I4kAPtp0Zv7sCWiL+J3EhSYQHN4LPFjRsUjZpKERJMbeSzwEXfF9mGCg1gQhCazcuXX68GbkaF1RBMhIzUHWHf1P+NGCkXkXiwmrT0XEmfwdT1dEDhphcI7wRpstSobTnE13doxjAXdr0hvmi1ooPkDOtyxyAgvFjtrhb4yO73WQ7InSbiA6aqy8XJpDjZqjOqpwEXgTGYQ66ceJD9yL30qQA5ljG99Gfl9oBUwC0PuMsBXQIDY2smo5XgguZoC6zTjydZonYO89eFMt/rFHLGFP+w0m8d7rfSAYP/SoMiTLrebF0JhTjVw3DUukF28s5YDgW3dVJPqOkwi8yNm/aqR6cCS50Bw5P+J7NoVImTzdgSxkALvIVlN1PajqRDfeDhQJgJT/6IOmzQEE8mpTenzKRhCucKHZvUnJcFJOY6lGd7KohjPwVc7jWNPAdN476t+jNKChgB7VMZERh7DJv4yNBOHDgn6Ya4gqh3eaBvcalfS107vWekPElL1WqAc4pddhQAVUJtwd36d5u4VPw==;iMgyuWQ8e+emmqcHxg3Z0A=="
+secured: "FFfmaNT03QcKFXkrHIDQL4VlUoi0GVko/vhgbMNmDZsNICpA8g44KOlhS+udYLMn1W+qPAwNacY9rpC/or4A9qUp36n7jmL1dmglWZOOjuL9CMOpcsOnufkGgoF1HwrETAyB07QZwNNlwDZlrGPcNpjrc1D0HIvZBg2zyqmfK08v3OVkGo0A8807ZdoxU3q/dAfk3GItdLMetuezecZLRFHhuNmwTBGyw9p3mR4xLIcJnCxJxXuf79SJDXL5zswviVI8mLFI2eoQCSBzhVsFoMXmu8x9xbpDVGknbSEGFPa46gbjIbJWjV7N1kSsuPdQD5R/dZhqtQOkxGc7gtcrvxCJaB/XrY9smcUbS3oT7JY=;WWGraXornqUeoxf8Fo29Ug=="
 ---
 

@@ -71,6 +71,20 @@ related:
         width: 939
         height: 563
         isCached: true
+  - title: "Pence Lists Administration's Accomplishments, Thanks Service Members"
+    excerpt: "In what amounted to a valedictory speech, Vice President Mike Pence touted the Trump administration's defense achievements and thanked sailors at Lemoore Naval Air Station, California, for their service."
+    publishedDateTime: 2021-01-20T05:59:00Z
+    webUrl: "https://www.frontiersman.com/arctic-warrior/pence-lists-administrations-accomplishments-thanks-service-members/article_d339b7bc-5a9b-11eb-a536-938fcd8a0265.html"
+    type: article
+    provider:
+      name: Mat-Su Valley Frontiersman
+      domain: frontiersman.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/frontiersman.com/content/tncms/assets/v3/editorial/1/25/1252a8aa-5a9c-11eb-b7be-b3b1bbf25a65/60074d6f6ac76.image.jpg?crop=1121%2C841%2C69%2C0&resize=840%2C630&order=crop%2Cresize"
+        width: 840
+        height: 630
+        isCached: true
   - title: "'Man without a home.' What the future may hold for Vice President Mike Pence"
     excerpt: "After four years of steadfast loyalty to Trump, Pence is said to be open to a 2024 run, but his rift with the president may close off that option."
     publishedDateTime: 2021-01-19T12:03:00Z

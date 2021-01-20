@@ -2,6 +2,213 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-12-16-biden-pushes-back-against-critics-touts-cabinet-of-firsts.md",
+      "title": "Biden pushes back against critics, touts 'Cabinet of firsts'",
+      "excerpt": "After weeks of pressure from all sides of the Democratic Party’s vast coalition over the makeup of his incoming administration, President-elect Joe Biden on Wednesday pushed back against his critics as he made another history-making Cabinet nomination.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TNq58tgjw5U/biden-responds-critics-cabinet-picks",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TNq58tgjw5U/biden-responds-critics-cabinet-picks",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-responds-critics-cabinet-picks.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-responds-critics-cabinet-picks.amp",
+      "publishedDateTime": "2020-12-16T10:38:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-hunter-biden-in-2017-sent-best-wishes-from-entire-biden-family-to-china-firm-chairman-requested-10m-wire.md",
+      "title": "Hunter Biden in 2017 sent 'best wishes' from 'entire Biden family' to China firm chairman, requested $10M wire",
+      "excerpt": "Correspondence between Hunter Biden and CEFC Chairman Ye Jianming from 2017 shows President-elect Joe Biden's son extending \"best wishes from the entire Biden family,\" and urging the chairman to \"quickly\" send a $10 million wire to \"properly fund and operate\" the Biden joint venture with the now-bankrupt",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/waJQnMuWSmU/hunter-biden-letter-chinese-cefc-chairman-wire-request",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/waJQnMuWSmU/hunter-biden-letter-chinese-cefc-chairman-wire-request",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-letter-chinese-cefc-chairman-wire-request.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-letter-chinese-cefc-chairman-wire-request.amp",
+      "publishedDateTime": "2020-12-16T10:06:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-kamala-harris-to-robin-roberts-i-feel-a-very-big-sense-of-responsibility-as-historic-vp.md",
+      "title": "Kamala Harris to Robin Roberts: 'I feel a very big sense of responsibility' as historic VP",
+      "excerpt": "The people are suffering,” Harris told \"Good Morning America\" anchor Robin Roberts in an exclusive interview. “The moratoriums on evictions and foreclosures are about to end. The extension that people need of benefits is very real.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/kamala-harris-robin-roberts-feel-big-sense-responsibility/story?id=74735663",
+      "originalUrl": "https://abcnews.go.com/Politics/kamala-harris-robin-roberts-feel-big-sense-responsibility/story?id=74735663",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/kamala-harris-robin-roberts-interview-01-abc-jc-201215_1608074713857_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/kamala-harris-robin-roberts-feel-big-sense-responsibility/story?id=74735663",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-robin-roberts-feel-big-sense-responsibility/story?id=74735663",
+      "publishedDateTime": "2020-12-16T09:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-kamala-harris-i-dont-understand-the-hesitation-on-covid-19-relief.md",
+      "title": "Kamala Harris: 'I don't understand the hesitation' on COVID-19 relief",
+      "excerpt": "Vice President-elect Sen. Kamala D. Harris said in an interview that aired Wednesday that she doesn’t understand what’s taking so long to pass another round of COVID-19 relief.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2020/dec/16/kamala-harris-i-dont-understand-hesitation-covid-1/",
+      "originalUrl": "https://www.washingtontimes.com/news/2020/dec/16/kamala-harris-i-dont-understand-hesitation-covid-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2020/12/09/Biden_51030.jpg-5e86b_c0-394-4720-3147_s1200x700.jpg?0913c4d267a13cec05b8f8c0c5e71cc93ccb013d",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://amp.washingtontimes.com/news/2020/dec/16/kamala-harris-i-dont-understand-hesitation-covid-1/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/dec/16/kamala-harris-i-dont-understand-hesitation-covid-1/",
+      "publishedDateTime": "2020-12-16T07:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-politics-live-updates-biden-to-introduce-buttigieg-as-incoming-transportation-chief-wednesday.md",
       "title": "Politics live updates: Biden to introduce Buttigieg as incoming Transportation chief Wednesday",
       "excerpt": "Pete Buttigieg is scheduled to appear with Biden Wednesday for a formal announcement. On Twitter, he called the nomination a \"tremendous opportunity.\"",
@@ -1124,231 +1331,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-internet-fact-checker-at-firm-that-works-with-facebook-reveals-distrust-of-trump-wh.md",
-      "title": "Internet fact-checker at firm that works with Facebook reveals distrust of Trump WH",
-      "excerpt": "Companies like Facebook work with groups licensed by individuals at the International Fact-Checking Network.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eMCBfLQZb4k/fact-checker-anti-trump-bias",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eMCBfLQZb4k/fact-checker-anti-trump-bias",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/578c0eab-8f63-4387-a70b-27ada2627f0c/6830dc2d-7b97-4f0d-a32f-ba7913410cf0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fact-checker-anti-trump-bias.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fact-checker-anti-trump-bias.amp",
-      "publishedDateTime": "2020-12-14T16:36:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-read-rep-paul-mitchells-letter-quitting-the-gop-fearing-long-term-harm-to-our-democracy-with-its-support-for-trumps-actions.md",
-      "title": "READ: Rep. Paul Mitchell's letter quitting the GOP, fearing 'long-term harm to our democracy' with its support for Trump's actions",
-      "excerpt": "Michigan Republican Rep. Paul Mitchell told CNN that his disgust and disappointment with President Donald Trump's efforts to overturn the results of the election have led him to request that the clerk of the House change his party affiliation to \"independent.\" Read his letter to Republican National Committee",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aIXU6Sb02hY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aIXU6Sb02hY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201214155848-02-rep-paul-mitchell-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/14/politics/read-paul-mitchell-republican-party-letter/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/14/politics/read-paul-mitchell-republican-party-letter/index.html",
-      "publishedDateTime": "2020-12-14T14:07:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-as-border-numbers-increase-cbp-chief-says-us-faces-full-blown-crisis-if-trump-era-policies-end.md",
-      "title": "As border numbers increase, CBP chief says US faces 'full-blown crisis' if Trump-era policies end",
-      "excerpt": "The Trump administration announced Monday that 70,000 migrants were apprehended at the southwest border in November, a 64 percent increase compared to 2019 -- and a sign of a possible surge that Trump officials say could become a full-blown crisis if recent policies are ended.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JJAdMNRAPWQ/border-numbers-cbp-chief-crisis-policies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JJAdMNRAPWQ/border-numbers-cbp-chief-crisis-policies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a2aca7c0-ec10-461f-a118-e2c9cd94e41b/4d3c9edf-8aea-4139-9828-9fed2994037d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/border-numbers-cbp-chief-crisis-policies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-numbers-cbp-chief-crisis-policies.amp",
-      "publishedDateTime": "2020-12-14T12:20:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-gingrich-among-trump-loyalists-named-to-pentagon-advisory-board.md",
-      "title": "Gingrich among Trump loyalists named to Pentagon advisory board",
-      "excerpt": "Chief among the new board appointees is former House Speaker Newt Gingrich, an ally of President Donald Trump. | Paul Morigi/ for Dentons The Pentagon named eight new members to the Defense Policy Board on Monday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/14/newt-gingrich-pentagon-advisory-board-445185",
-      "originalUrl": "https://www.politico.com/news/2020/12/14/newt-gingrich-pentagon-advisory-board-445185",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/85/3f/ee01a5bd4597a648457f363a970e/201214-newt-gingrich-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T10:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

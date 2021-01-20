@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Mike Pence Greets White House Staffers in Washington"
-excerpt: "U.S. Vice President Mike Pence walks back to his office after greeting staff members outside the West Wing of the White House in Washington, DC on January 19, 2021. Pool Photo by Yuri Gripas/UPI"
+excerpt: "U.S. Vice President Mike Pence poses for a group photo with staff members outside the West Wing of the White House in Washington, DC on January 19, 2021. Pool Photo by Yuri Gripas/UPI"
 publishedDateTime: 2021-01-19T21:04:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/25bc45373058306b5a157b22e066ef20/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/25bc45373058306b5a157b22e066ef20/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/31056b39c3bed6e8184373d7a3205b2f/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/31056b39c3bed6e8184373d7a3205b2f/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/25bc45373058306b5a157b22e066ef20/PENCE-STAFF.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/31056b39c3bed6e8184373d7a3205b2f/PENCE-STAFF.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1595,6 +1595,17 @@ related:
         width: 1024
         height: 687
         isCached: true
+  - title: "Watch live video: Inauguration of Joe Biden and Kamala Harris"
+    excerpt: "President-elect Joe Biden and Vice President-elect Kamala Harris will be inaugurated Wednesday in Washington, D.C., with tens of thousands of National Guard troops stationed around the city amid what federal prosecutors characterize as an ongoing insurrection,"
+    publishedDateTime: 2021-01-20T04:17:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Watch-live-video-Inauguration-of-Joe-Biden-and-15883461.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Watch-live-video-Inauguration-of-Joe-Biden-and-15883461.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Watch-live-video-Inauguration-of-Joe-Biden-and-15883461.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 70
   - title: "Barack Obama, Kamala Harris Share Heartwarming Birthday Tributes For Michelle Obama"
     excerpt: "Barack Obama, Kamala Harris and more shared heartfelt messages for Michelle Obama on her 57th birthday Sunday."
     publishedDateTime: 2021-01-18T04:52:00Z
@@ -1937,6 +1948,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "5rTzaiqxid93DG/l2htdQaRaPEJzMe0ahGBKQSJxKAlqUBp/a9/cPMtN2vR8teCRK9t6H/sLtcxqAGZeJNTe2NaclKW6tpWCDHWpQ5vMxHg9n5NKXtL8ZEiAV8w6/+aNXDeTaw91rTF3DcxVW92X0iiFKpgPTB7A9eaPYL1MxUPmjLokOFz1cyiEMuzkPgrb0ZWsTut2Xa/gP5XSGcUyDlLcaOr7XQmD3ZId0ZdYj+bnJIg7QlXt8T5be3qYLY0qfeiTDNc9bVIuBGxaTYQbHf99ZS1rYbmYJYcxDOt65wrHfqJMwAR4hztpqbLXVUOgCmX8uSGpT7yxPZT4d+0Vg0JHWX8+1zPJFCrq+swtKlc=;ezBVqrbKcrhc0cL/nqre5Q=="
+secured: "p3bQJ1SbVI20tR2yBc1eIqc8AgPJA3AVt7ezwXxgFsT6HPK3oVDxT0lMMPYq4K1zQ8f5VF/BmwYyJdQf6I6Emuo5yX9v1Kj2dA1Nx+b0OOdVpdSGCaKvvP2fXgqlNlQcUy80Aa4dpK3tOgTrYjM4JfCKxqvowzuLM4JfLEanMHSqFrqZvLjFGlLoAJJtljvwpipqI7YTgFhnY15inD4Gsdm8cg02rhS2M/Os0S/iwug+zIk4nPXL6Ll/D4ij4VutlJfuF9cRYIKziXrTY9Nq7w6nyGrmItQc4A+Xz4KPcBui/A8PXxis3aWtomESLluA+i3fhXNffpILTOnQNCnA0kkvdDCLErgBYukizLHiQYM=;XNuTVdWVp76VFcY64bggEA=="
 ---
 

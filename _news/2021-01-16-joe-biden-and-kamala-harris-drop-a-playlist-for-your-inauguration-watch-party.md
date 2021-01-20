@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "READ: Joe Biden and Kamala Harris' public schedule on Inauguration Day"
+    excerpt: "Below is the public schedule released by the Biden transition team for Joe Biden and Kamala Harris on Inauguration Day:\n    \n"
+    publishedDateTime: 2021-01-20T04:06:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9EQeauWGRjI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/biden-harris-inauguration-day-schedule/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/biden-harris-inauguration-day-schedule/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 200
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119164928-04-biden-arrives-0119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Beau stood there': Harris recalls how Beau Biden backed her during battle with banks"
     excerpt: "Vice President-elect Kamala Harris in a new interview airing Sunday recalled the time Beau Biden, the late son of President-elect Joe Biden, stood by his principles in a moment of \"incredible\" pressure.\n    \n"
     publishedDateTime: 2021-01-17T13:57:10Z
@@ -926,10 +942,10 @@ related:
         isCached: true
   - title: "Kamala Harris Has Always Worn Pearls. Now, in Sisterhood, So Will They."
     excerpt: "Women across the country are pledging to wear pearls on Inauguration Day to support the country’s first female Vice President-elect."
-    publishedDateTime: 2021-01-19T17:58:00Z
-    webUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-women.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-women.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/style/inaugurations-pearls-women.amp.html"
+    publishedDateTime: 2021-01-19T23:32:00Z
+    webUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-kamala-harris.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-kamala-harris.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/style/inaugurations-pearls-kamala-harris.amp.html"
     type: article
     provider:
       name: New York Times

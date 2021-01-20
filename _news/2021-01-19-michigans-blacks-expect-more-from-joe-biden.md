@@ -467,6 +467,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Inauguration day: a guide to what to expect as Joe Biden assumes office"
+    excerpt: "With Washington under lockdown and Covid-19 raging, the inauguration will be different, but there will still be pomp and ceremony"
+    publishedDateTime: 2021-01-20T05:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/19/inauguration-day-schedule-guide-joe-biden-donald-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/19/inauguration-day-schedule-guide-joe-biden-donald-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/19/inauguration-day-schedule-guide-joe-biden-donald-trump"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/c440675c793e4cd4da8fc4d61f5dda17e57ef0c6/0_13_2048_1229/master/2048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2ed1248b2b3e1a7bd54b232c1454a3b5"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Teen whom Biden befriended as fellow stutterer has book deal"
     excerpt: "Brayden Harrington, the teenager whom President-elect Joe Biden befriended as a fellow stutterer, has a book coming out this summer."
     publishedDateTime: 2021-01-19T22:38:00Z

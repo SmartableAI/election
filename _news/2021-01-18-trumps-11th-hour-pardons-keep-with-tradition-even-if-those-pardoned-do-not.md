@@ -511,6 +511,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's last-minute pardons include Bannon, Lil Wayne and scores of others"
+    excerpt: "President Donald Trump issued a raft of 11th-hour pardons and commutations early Wednesday that included his onetime political strategist, a former top fundraiser and two well-known rappers but not himself or his family.\n    \n"
+    publishedDateTime: 2021-01-20T06:30:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5pfMVrpsZrg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/trump-pardons-commutations-list/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/trump-pardons-commutations-list/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200820160049-donadl-trump-steve-bannon-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Dale: Reflections on four weird years fact checking every word from Donald Trump"
     excerpt: "I had to email the Boy Scouts to find out if the President had invented a nonexistent phone call from the head of the organization. (He had.)\n    \n"
     publishedDateTime: 2021-01-19T15:45:03Z
@@ -1102,6 +1118,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_02/3441711/210113-donald-trump-mc-1144_a534ace83ed9834fb73d0c7b10bf5b7a.JPG"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "With Hours Left in Office, Trump Grants Clemency to Bannon and Other Allies"
+    excerpt: "The president continued using his power to help his supporters, including his former chief strategist and one of his top 2016 fund-raisers."
+    publishedDateTime: 2021-01-20T05:59:00Z
+    webUrl: "https://www.nytimes.com/2021/01/20/us/politics/trump-pardons.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/20/us/politics/trump-pardons.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/20/us/politics/trump-pardons.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/19/us/19dc-pardons-bannon-lede/merlin_126075602_f723a498-5e54-4e36-85a3-cc8181970302-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Remembering Covid victims, Biden spends an emotional day before inauguration"
     excerpt: "The president-elect called for national healing at a vigil on the National Mall, shortly after saying farewell in his home state of Delaware."

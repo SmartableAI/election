@@ -71,6 +71,20 @@ related:
         width: 939
         height: 563
         isCached: true
+  - title: "Pence Lists Administration's Accomplishments, Thanks Service Members"
+    excerpt: "In what amounted to a valedictory speech, Vice President Mike Pence touted the Trump administration's defense achievements and thanked sailors at Lemoore Naval Air Station, California, for their service."
+    publishedDateTime: 2021-01-20T05:59:00Z
+    webUrl: "https://www.frontiersman.com/arctic-warrior/pence-lists-administrations-accomplishments-thanks-service-members/article_d339b7bc-5a9b-11eb-a536-938fcd8a0265.html"
+    type: article
+    provider:
+      name: Mat-Su Valley Frontiersman
+      domain: frontiersman.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/frontiersman.com/content/tncms/assets/v3/editorial/1/25/1252a8aa-5a9c-11eb-b7be-b3b1bbf25a65/60074d6f6ac76.image.jpg?crop=1121%2C841%2C69%2C0&resize=840%2C630&order=crop%2Cresize"
+        width: 840
+        height: 630
+        isCached: true
   - title: "'Man without a home': What the future may hold for Vice President Mike Pence"
     excerpt: "After four years of steadfast loyalty to Trump, Pence is said to be open to a 2024 run, but his rift with the president may close off that option."
     publishedDateTime: 2021-01-19T22:14:00Z
@@ -95,6 +109,6 @@ related:
       domain: fresnobee.com
     quality: 35
 
-secured: "c1reM9mFBahTnxNDbIuV600vY1dF/bRBuSb4AlnDrZ6p+A/V6nhmwbA8TsmrIkuoi/8mS7znbreZEaZBueq88FX3Q6oHE1aDdpC5++n0b7aLlEqm+YKqLJ9BQ0SUzffPXAJR/wPH43V/bQZA7BIRALWKBv7hqvLzXlZ0q+9/6b/kb6D4RWtqmSp7eA8ydE5ZytYAxPRWgSGatqIjeY+k0e4rG77wrqvnxgYLL4gQxz0xkdk4sAtodcVgTvjQgYednqdr5sr2mI43nzGIUaBcWWOUgHz9LCuaNIgDjtrqfxHqPqekBKN5GZOdi4UwDvOHlcydb4xU4meWo1iV+ROBt2KOgwqcYhB3NI9YaA/V+0o=;WJ1DfJIkXe1JGqDSMHUYvg=="
+secured: "SM0TZ16aQyvnUnd/QjYFbaz8yeBpekJkBd/9tMrBmSkidkhj4CvB7oxr+R3TMGKPi2cxy4hGoueZ1iekKCC7VOThD3tEupuJiAYi+cdfiXjZkFOUqVHRkp82Z+7Qp5kKqCDGMfj1hTGKABLxvWed19PE4DO2geb3O0d4Pi3q28vqENygE7sdzzB4DaRHY5WuXBMcOPvrhgHVMuNO8Q5E6uHTwBY4BmhYjhLu1hLUYb1R2k0UEIRKLxHEM4UhXhtaRzeG+r43CgI7R1/k//wruLbrnYdBycz4w/LjSE2T47VKzqOHi3NSHyJO58MPevu6KnUYc6yDHnB/P3oN81+3+nCqpX6GaTCqmlMCXrYAFZtWb22Uu11Q3g4XN9EODKZ0cmL81wNatiWABobFl2GcSVUjpUafQ1BBMAsvjRr5PQCpdzLrTfpdKIwZQQsgZQPI3IaMqd2hNC8MLR2yssCAjnpC6AGy66GEaiBO3P/+8NsCbC0RiQ4j/BZDZGBEpugJPpaeIxZMtKDO7Li1W04YGQ==;5/bIPy/E4DPtG4cxqkPDNw=="
 ---
 

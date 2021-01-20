@@ -245,6 +245,22 @@ related:
         width: 3149
         height: 2100
         isCached: true
+  - title: "Kamala Harris' husband Doug Emhoff puts her career first as second gentleman, breaking gender stereotypes"
+    excerpt: "Doug Emhoff, husband of Vice President-elect Kamala Harris, quit his job as a lawyer to be second gentleman, breaking gender and race stereotypes."
+    publishedDateTime: 2021-01-20T06:48:00Z
+    webUrl: "https://www.cincinnati.com/story/money/2021/01/20/vice-president-kamala-harris-husband-doug-emhoff-second-gentleman/4213893001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/4213893001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/4213893001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 58
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/05/USAT/d26fabbc-973c-4af7-837a-f3498e8634e2-Emhoff_Harris.jpg?auto=webp&crop=4635,2608,x0,y465&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "VP-elect Kamala Harris receives coronavirus vaccine"
     excerpt: "Kamala Harris, who will make history next month as the first female and first person of color to be inaugurated as vice president, received the Moderna coronavirus vaccine on Tuesday."
     publishedDateTime: 2020-12-29T18:36:00Z

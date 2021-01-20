@@ -47,6 +47,17 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "EXPLAINER: Election claims, and why it's clear Biden won"
+    excerpt: "As Democrat Joe Biden is sworn in Wednesday as the nation’s 46th president, Donald Trump’s most ardent supporters still believe Biden was not legitimately elected after Trump continues to argue the election was stolen."
+    publishedDateTime: 2021-01-20T06:17:00Z
+    webUrl: "https://www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Senate hearing to consider Alejandro Mayorkas as Biden's head of DHS"
     excerpt: "The Senate Homeland Security Committee meets to consider Alejandro Mayorkas' nomination as Secretary of Department of Homeland Security for President-elect Joe Biden's administration."
     publishedDateTime: 2021-01-19T19:45:00Z

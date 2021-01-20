@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing?amp"
 type: article
 quality: 122
-heat: 162
+heat: 182
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "EXPLAINER: Election claims, and why it's clear Biden won"
+    excerpt: "As Democrat Joe Biden is sworn in Wednesday as the nation’s 46th president, Donald Trump’s most ardent supporters still believe Biden was not legitimately elected after Trump continues to argue the election was stolen."
+    publishedDateTime: 2021-01-20T06:17:00Z
+    webUrl: "https://www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Biden plans quick executive action on immigration, but warns of potential delay on legislation"
     excerpt: "The president-elect told Latino leaders that his immigration bill may not pass during his first 100 days in office, citing the pandemic and Senate impeachment trial."
     publishedDateTime: 2021-01-18T14:41:00Z

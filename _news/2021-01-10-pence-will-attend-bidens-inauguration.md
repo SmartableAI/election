@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 2680
+heat: 2700
 published: true
 
 provider:
@@ -1929,6 +1929,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Joe Biden’s Long Road to the Presidency"
+    excerpt: "Joe Biden’s journey from local government to the White House spanned half a century, with political triumphs and devastating personal tragedies along the way."
+    publishedDateTime: 2021-01-20T05:11:00Z
+    webUrl: "https://www.nytimes.com/interactive/2021/01/20/us/politics/joe-biden-photos.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/20/us/politics/20biden-photos88-2/20biden-photos88-2-videoSixteenByNine3000-v2.jpg"
+        width: 3000
+        height: 1689
         isCached: true
   - title: "‘They should be flat beaten’: Biden blasts Cruz, Hawley after Capitol attack"
     excerpt: "President-elect Joe Biden said on Friday that Sens. Ted Cruz and Josh Hawley should be \"flat beaten\" in their next elections for their roles in contesting the 2020 election results. Biden made the remarks following calls from members of Congress for Cruz and Hawley to resign after rioters heeding President Donald Trump's call to contest the election results raided the Capitol."

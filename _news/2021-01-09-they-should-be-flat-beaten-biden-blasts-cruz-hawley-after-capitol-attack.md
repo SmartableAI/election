@@ -1944,6 +1944,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Joe Biden’s Long Road to the Presidency"
+    excerpt: "Joe Biden’s journey from local government to the White House spanned half a century, with political triumphs and devastating personal tragedies along the way."
+    publishedDateTime: 2021-01-20T05:11:00Z
+    webUrl: "https://www.nytimes.com/interactive/2021/01/20/us/politics/joe-biden-photos.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/20/us/politics/20biden-photos88-2/20biden-photos88-2-videoSixteenByNine3000-v2.jpg"
+        width: 3000
+        height: 1689
+        isCached: true
   - title: "Biden eyeing ways to prevent impeachment from derailing Senate confirmations"
     excerpt: "A Trump trial in the early days of the new administration would throw a wrench into the battle to confirm nominees."
     publishedDateTime: 2021-01-11T21:46:00Z

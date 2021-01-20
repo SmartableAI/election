@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump pardons Steve Bannon, Lil Wayne, dozens of others; also commutes sentences"
+    excerpt: "President Trump issued a long list of pardons and sentence commutations early Wednesday as he prepared to leave office."
+    publishedDateTime: 2021-01-20T06:24:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aj49fqU9V44/trump-pardons-steve-bannon-lil-wayne-dozens-of-others-also-commutes-sentences"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-pardons-steve-bannon-lil-wayne-dozens-of-others-also-commutes-sentences.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pardons-steve-bannon-lil-wayne-dozens-of-others-also-commutes-sentences.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/321ecfd7-beb9-4774-b170-6624dc01804c/da14774b-57ad-4e5e-9230-b8d2bae64d79/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "XqW9kVqXH3Yd5NgOwXi4ZQVQFZwRb7qTHfuHfYc6quWCet8vFDTZgtKmx1tcmV27mEUahgRGANwC7DbWmmY1VTVLfsaPrWYoa9XVefTjo50q/H0a8rOPRuOHRfVxALt54SX6xIr/dIKGVOuCE7Mw/F8PVcMsGFwDFa7Qnpr3Hnwz612s6jfKLlwVq5d+TbhDwecqP5fJp2rwdkA4T2R3P4z0oRugY9IY5X8o/MCulU1Bt6pPuSkKNrUVNuVLpUB7BuPsxYK7C7Qb8QlPtLYMXDjQuKBnDpd1PiCE2xjNwj2kcYZv8T7bnV9iiNhKbqPCMwRF3TTYTj+TFxUYf8Ewie3VT6Mue6MataBXFYCgLwE=;tRQ23yJZ13e4MVT2+kYU3Q=="
 ---
