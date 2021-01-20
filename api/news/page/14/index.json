@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-01-04-republicans-condemn-gop-scheme-to-undo-election-for-trump.md",
+      "title": "Republicans condemn GOP ‘scheme’ to undo election for Trump",
+      "excerpt": "The extraordinary Republican effort to overturn the presidential election was condemned Sunday by an outpouring of current and former GOP officials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/election-2020/ct-republican-senators-electoral-college-20210102-ockzn4ln2babxfvuvnt5kvuuhe-story.html",
+      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-republican-senators-electoral-college-20210102-ockzn4ln2babxfvuvnt5kvuuhe-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1300,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/5Jl76CuQA8ORYHm-ieeRZ6fjzsI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/57OFMNP3SJHCXBTIHTKHOLPVWA.jpg",
+          "width": 1200,
+          "height": 820,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-republican-senators-electoral-college-20210102-ockzn4ln2babxfvuvnt5kvuuhe-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-republican-senators-electoral-college-20210102-ockzn4ln2babxfvuvnt5kvuuhe-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-03T16:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-04-kamala-harris-fweedom-story-mirrors-mlk-account.md",
       "title": "Kamala Harris' 'Fweedom' story mirrors MLK account",
       "excerpt": "Vice President-elect Kamala D. Harris told a story about her participation as a little girl in a civil rights march that mirrors an account told by the Rev. Martin Luther King.",
@@ -1244,63 +1296,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-trump-blasts-covid-relief-bill-just-passed-by-congress-demands-changes.md",
-      "title": "Trump blasts Covid relief bill just passed by Congress, demands changes",
-      "excerpt": "\"I am asking Congress to amend this bill and increase the ridiculously low $600 (direct payment) to $2,000 or $4,000 for a couple,\" Trump said in a video posted to Twitter of him speaking from. \"I'm also asking Congress to immediately get rid of the wasteful and unnecessary items from this legislation and to send me a suitable bill,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/congress-vote-second-covid-19-relief-package-n1251966",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/congress-vote-second-covid-19-relief-package-n1251966",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_50/3434982/201210-donald-trump-telephone-ac-813p_370e985b16a24befd8c3f4964ffccbf4.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1251966",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251966",
-      "publishedDateTime": "2021-01-01T01:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

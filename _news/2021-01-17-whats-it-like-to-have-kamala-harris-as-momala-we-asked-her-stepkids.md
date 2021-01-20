@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: The powerful duality of Kamala Harris' ascent"
+    excerpt: "Two weeks after a deadly insurrection put on display the White outrage that threatens the country's multiracial democracy, a dramatically different scene will unfold at the US Capitol.\n    \n"
+    publishedDateTime: 2021-01-20T12:13:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HCxOsakaf04/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/kamala-harris-inauguration-racial-justice-white-supremacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/kamala-harris-inauguration-racial-justice-white-supremacy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200819234140-kamala-harris-dnc-august-19-2020-07-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump, pressured into video concession, faces uncertain final stretch"
     excerpt: "President Donald Trump's top aides delivered a blunt warning to him Thursday as he sat sullenly in the West Wing and watched as his Republican allies, Cabinet secretaries and former senior staffers criticized or denounced him one by one.\n    \n"
     publishedDateTime: 2021-01-08T14:12:16Z
@@ -1017,6 +1033,22 @@ related:
     quality: 133
     images:
       - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202101/ott_now_gop_debunked_claims_210111_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Kamala Harris's ancestral home celebrates with firecrackers, food handouts"
+    excerpt: "Villagers in Thulasendrapuram, hometown of Kamala Harris's Indian grandfather, were delighted by the vice president's inauguration and wished her well."
+    publishedDateTime: 2021-01-20T12:03:00Z
+    webUrl: "https://www.nbcnews.com/video/kamala-harris-s-ancestral-home-celebrates-with-firecrackers-food-handouts-99714629936"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99714629936"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99714629936"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202101/India_Kamala.jpg"
         width: 1920
         height: 1080
         isCached: true

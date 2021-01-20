@@ -909,6 +909,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump to skip town and inauguration to face uncertain future at Mar-a-Lago"
+    excerpt: "Donald Trump will walk out of the White House and board Marine One for the last time as president Wednesday, leaving behind a legacy of chaos and a nation bitterly divided."
+    publishedDateTime: 2021-01-20T12:58:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-donald-trump-leaves-white-house-20210120-3qn4jyharrc67o7j5shbvfekyi-htmlstory.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 103
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Rz7U81SGK1spokCUF88x-yvGwd8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2EPGQTZAINGLJIKGB4BM6LB6LA.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Washington to see 'new normal' for security after Biden inauguration: DC mayor"
     excerpt: "Washington Mayor Muriel Bowser said on Friday that even after the presidential inauguration on Jan. 20 the city will have to maintain heightened security in light of the Capitol rights."
     publishedDateTime: 2021-01-15T18:44:00Z
@@ -1136,6 +1150,22 @@ related:
       - url: "https://imengine.prod.srp.navigacloud.com?uuid=54a7d1b5-2bd9-56c5-ac99-52959e1623ff&type=primary&q=72&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Mike Pence will be a no-show for Trump's send-off"
+    excerpt: "Reports that surfaced earlier Tuesday suggested Pence wouldn't be able to fit Trump's farewell into his Wednesday schedule, given that he's set to attend President-elect Joe Biden's inauguration (a White House official reportedly said it would be a logistical challenge to do both)."
+    publishedDateTime: 2021-01-19T21:37:00Z
+    webUrl: "https://theweek.com/speedreads/961883/mike-pence-noshow-trumps-sendoff"
+    ampWebUrl: "https://theweek.com/speedreads-amp/961883/mike-pence-noshow-trumps-sendoff"
+    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/speedreads-amp/961883/mike-pence-noshow-trumps-sendoff"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 90
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1230679005.jpg?itok=588Xe_Gc"
+        width: 840
+        height: 560
         isCached: true
   - title: "Vice President Pence says farewell to White House, will skip Trump's sendoff"
     excerpt: "Vice President Mike Pence is among those who will not be attending President Donald Trump’s sendoff event at Joint Base Andrews."
@@ -1519,6 +1549,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris to become first female vice president in US history"
+    excerpt: "For more than two centuries, the top ranks of American power have been dominated by men — almost all of them white. That ends on Wednesday."
+    publishedDateTime: 2021-01-20T10:15:00Z
+    webUrl: "https://www.masslive.com/politics/2021/01/kamala-harris-to-become-first-female-vice-president-in-us-history.html"
+    ampWebUrl: "https://www.masslive.com/politics/2021/01/kamala-harris-to-become-first-female-vice-president-in-us-history.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2021/01/kamala-harris-to-become-first-female-vice-president-in-us-history.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZB5FOXDMABHOFLS4UUKAG672HA.jpg"
+        width: 5446
+        height: 3631
+        isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."
     publishedDateTime: 2021-01-13T07:29:00Z
@@ -1779,6 +1825,17 @@ related:
       name: SanLuisObispo
       domain: sanluisobispo.com
     quality: 58
+  - title: "Inauguration news updates, Jan. 19: On Donald Trump’s final full day as president, Joe Biden prepares to take office"
+    excerpt: "We’re updating this page throughout the day with the latest politics, protest and inauguration news from across the U.S. and world on the final full day of Donald Trump's presidency."
+    publishedDateTime: 2021-01-20T07:22:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/politics/inauguration-news-updates-jan-19-on-donald-trumps-final-full-day-as-president-joe-biden-prepares-to-take-office/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/politics/inauguration-news-updates-jan-19-on-donald-trumps-final-full-day-as-president-joe-biden-prepares-to-take-office/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/politics/inauguration-news-updates-jan-19-on-donald-trumps-final-full-day-as-president-joe-biden-prepares-to-take-office/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 57
   - title: "Arts agency member resigns after vulgar comment about Harris"
     excerpt: "An appointee to the Ohio Arts Council resigned Friday after making a vulgar comment on social media about Vice President-elect Kamala Harris that also supported President"
     publishedDateTime: 2021-01-09T00:51:00Z
@@ -1863,17 +1920,28 @@ related:
         width: 1024
         height: 687
         isCached: true
+  - title: "Indian Villagers Celebrate Inauguration of Kamala Harris"
+    excerpt: "Residents of the ancestral Indian village of Kamala Harris celebrated her inauguration as U.S. vice president on Wednesday by setting off firecrackers and distributing food. Thulasendrapuram, a leafy village about 320 km (200 miles) south of the city of Chennai,"
+    publishedDateTime: 2021-01-20T12:17:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-01-20/indian-villagers-celebrate-inauguration-of-kamala-harris"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-20/indian-villagers-celebrate-inauguration-of-kamala-harris?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-20/indian-villagers-celebrate-inauguration-of-kamala-harris?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Mike Pence Greets White House Staffers in Washington"
-    excerpt: "U.S. Vice President Mike Pence walks back to his office after greeting staff members outside the West Wing of the White House in Washington, DC on January 19, 2021. Pool Photo by Yuri Gripas/UPI"
+    excerpt: "U.S. Vice President Mike Pence poses for a group photo with staff members outside the West Wing of the White House in Washington, DC on January 19, 2021. Pool Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-01-19T21:04:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/25bc45373058306b5a157b22e066ef20/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/31056b39c3bed6e8184373d7a3205b2f/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/25bc45373058306b5a157b22e066ef20/PENCE-STAFF.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/31056b39c3bed6e8184373d7a3205b2f/PENCE-STAFF.jpg"
         width: 650
         height: 433
         isCached: true
@@ -1982,17 +2050,6 @@ related:
       name: TribLIVE.com
       domain: triblive.com
     quality: 50
-  - title: "Inauguration news updates, Jan. 19: On Donald Trump’s final full day as president, Joe Biden prepares to take office"
-    excerpt: "We’re updating this page throughout the day with the latest politics, protest and inauguration news from across the U.S. and world on the final full day of Donald Trump's presidency."
-    publishedDateTime: 2021-01-20T07:22:00Z
-    webUrl: "https://www.seattletimes.com/seattle-news/politics/inauguration-news-updates-jan-19-on-donald-trumps-final-full-day-as-president-joe-biden-prepares-to-take-office/"
-    ampWebUrl: "https://www.seattletimes.com/seattle-news/politics/inauguration-news-updates-jan-19-on-donald-trumps-final-full-day-as-president-joe-biden-prepares-to-take-office/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/politics/inauguration-news-updates-jan-19-on-donald-trumps-final-full-day-as-president-joe-biden-prepares-to-take-office/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 47
   - title: "Joe Biden, Kamala Harris drop inauguration playlist with songs from Beyoncé, Dua Lipa, more"
     excerpt: "Joe Biden and Kamala Harris have released a 46-song playlist in honor of their upcoming administration. Here are the songs that made the cut."
     publishedDateTime: 2021-01-16T05:24:00Z
@@ -2002,6 +2059,22 @@ related:
       name: The Arizona Republic
       domain: azcentral.com
     quality: 40
+  - title: "With pearls and pride, women praise the inauguration of Vice President-elect Kamala Harris as an important milestone during a turbulent time"
+    excerpt: "Women praise the inauguration of Vice President-elect Kamala Harris as an important milestone during a turbulent time"
+    publishedDateTime: 2021-01-20T11:04:00Z
+    webUrl: "https://www.courant.com/politics/hc-pol-kamala-harris-vice-president-inauguration-20210120-x2smnu4svzae7hfacf4q4sy3aq-story.html"
+    ampWebUrl: "https://www.courant.com/politics/hc-pol-kamala-harris-vice-president-inauguration-20210120-x2smnu4svzae7hfacf4q4sy3aq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/politics/hc-pol-kamala-harris-vice-president-inauguration-20210120-x2smnu4svzae7hfacf4q4sy3aq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 40
+    images:
+      - url: "https://www.courant.com/resizer/qT1ohrD2EFzVcwz2_Uz6hm2B8Lw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/W6CC2DS6X5DB3BPA2RHU75FY2A.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump's Presidency Not Just a Blip in US Foreign Policy"
     excerpt: "President-elect Joe Biden’s plan to scrap President Donald Trump’s vision of “America First” in favor of “diplomacy first” will depend on whether he’s able to regain the trust of allies and convince them that Trumpism is just a blip in the annals of U."
     publishedDateTime: 2021-01-16T06:17:00Z

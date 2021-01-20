@@ -236,6 +236,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Snoop Dogg praises Trump for commuting sentence of Death Row Record co-founder Michael 'Harry O' Harris"
+    excerpt: "Snoop Dogg praised President Trump in his final hours in office for commuting the sentence of his friend, Death Row Records co-founder Michael \"Harry O\" Harris."
+    publishedDateTime: 2021-01-20T12:52:00Z
+    webUrl: "https://www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records"
+    ampWebUrl: "https://www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Snoop-Dogg.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Why Kamala Harris’ Vogue cover is trending on social media"
     excerpt: "Kamala Harris is Vogue’s new cover girl — but it isn’t winning her any votes. The vice president-elect appears on the February front of the fashion bible in a set of her own duds"
     publishedDateTime: 2021-01-10T18:09:00Z

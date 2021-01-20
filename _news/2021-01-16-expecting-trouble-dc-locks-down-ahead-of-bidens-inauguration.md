@@ -240,6 +240,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Snoop Dogg praises Trump for commuting sentence of Death Row Record co-founder Michael 'Harry O' Harris"
+    excerpt: "Snoop Dogg praised President Trump in his final hours in office for commuting the sentence of his friend, Death Row Records co-founder Michael \"Harry O\" Harris."
+    publishedDateTime: 2021-01-20T12:52:00Z
+    webUrl: "https://www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records"
+    ampWebUrl: "https://www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/snoop-dogg-praises-trump-commuting-sentence-michael-harry-o-harris-death-row-records.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Snoop-Dogg.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris’ top economic advisor is another BlackRock exec"
     excerpt: "BlackRock is cementing its position as the Biden administration’s go-to Wall Street firm. Vice-President-elect Kamala Harris on Friday said she’s selected BlackRock’s Global Chief Investment"
     publishedDateTime: 2021-01-08T22:36:00Z

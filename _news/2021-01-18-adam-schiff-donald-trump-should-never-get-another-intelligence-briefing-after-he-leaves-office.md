@@ -26,37 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump must be barred from post-presidency intelligence briefings: Schiff"
-    excerpt: "House Intelligence Committee Chairman Rep. Adam Schiff said Sunday that President Trump should be barred from receiving intelligence briefings after he leaves office, an opportunity traditionally extended to former presidents."
-    publishedDateTime: 2021-01-17T18:36:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EThhRLQz3Nw/adam-schiff-trump-intelligence-briefings-sue-gordon"
-    ampWebUrl: "https://www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon.amp"
+  - title: "Tiffany Trump announces engagement to Michael Boulos with White House photo, hours before father leaves office"
+    excerpt: "President Trump's youngest daughter Tiffany Trump and her beau Michael Boulos announced their engagement with a photo taken at the White House on the president's last day in office."
+    publishedDateTime: 2021-01-19T18:02:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xgWSi5LmmCg/tiffany-trump-engaged-michael-boulos-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/tiffany-trump-engaged-michael-boulos-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiffany-trump-engaged-michael-boulos-white-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 155
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007270172186.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump must be barred from post-presidency intelligence briefings: Schiff"
-    excerpt: "House Intelligence Committee Chairman Rep. Adam Schiff said Sunday that President Trump should be barred from receiving intelligence briefings after he leaves office, an opportunity traditionally extended to former presidents."
-    publishedDateTime: 2021-01-17T18:48:00Z
-    webUrl: "https://www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon"
-    ampWebUrl: "https://www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007270172186.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "vr6H3nEQzhyqWUJTHDtJY852rPsFF8B8aVHScGlBteMJ+x5mgn5iWwReRzrrAJDrz+bP6RPZZVR658VS2/t/HABBl4JVeKcZKhivkz2P1Fk+rc9/o5NjBc81OaT0PvVsB2JYybOCu6j5yVS8sFHA0EQ2eqyIfpEjrUCPe7bM6IBQ02ftAUBlqYYOidLftAY1cckyjGAJvAKIVSPnqLZjPv6pu+Ax1F8l8gtbR/gO8sDiTunBu8/pAUqRpr44dtmcWK7UFpoJsHEL3k8lPLn7wa1BM0UXV9ssG2Jg+QLFseqi8WIhqt5ItUWjQGexQntNk6+TLmbZzauPuoann2nSep6Gl7PGK1jAL4yBe1F30rWCE0ITtNoDmvl+lzRujzykj7tb2zJBnc/igmdDktF63LR71yBdVXz+PI0JuM6klwRWmbCduB05x5V7biwTZMPvH1CkW3xDGOwfDSO9Jz2vZdQolqWIXbwwEVyWF6zeK/NQywh9vHyF86UNWc88V3MKkmK51KjzC7R5h87HyiXpTA==;ybMG5yqZ4y82ADArfQpM/Q=="

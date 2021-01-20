@@ -2,6 +2,63 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-01-01-trump-blasts-covid-relief-bill-just-passed-by-congress-demands-changes.md",
+      "title": "Trump blasts Covid relief bill just passed by Congress, demands changes",
+      "excerpt": "\"I am asking Congress to amend this bill and increase the ridiculously low $600 (direct payment) to $2,000 or $4,000 for a couple,\" Trump said in a video posted to Twitter of him speaking from. \"I'm also asking Congress to immediately get rid of the wasteful and unnecessary items from this legislation and to send me a suitable bill,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/congress/congress-vote-second-covid-19-relief-package-n1251966",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/congress-vote-second-covid-19-relief-package-n1251966",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_50/3434982/201210-donald-trump-telephone-ac-813p_370e985b16a24befd8c3f4964ffccbf4.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1251966",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1251966",
+      "publishedDateTime": "2021-01-01T01:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-from-covfefe-to-the-mooch-10-funny-moments-from-the-trump-presidency.md",
       "title": "From covfefe to the Mooch: 10 funny moments from the Trump presidency",
       "excerpt": "Amid four years of corruption, caging children and trashing democracy there were some light-hearted moments – no really",
@@ -1313,62 +1370,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-30-live-updates-biden-warns-trump-administrations-efforts-to-vaccinate-americans-falling-behind.md",
-      "title": "Live Updates: Biden warns Trump administration’s efforts to vaccinate Americans 'falling behind'",
-      "excerpt": "The president-elect also criticized the outgoing administration's lack of COVID testing for Americans, calling it \"a travesty.\" ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qr4xzxxbuRs/live-updates-biden-12-30-2020",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qr4xzxxbuRs/live-updates-biden-12-30-2020",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 517,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/646cbeae-51c0-4075-9a62-fbdd79191c70/fd810d22-270c-4029-af92-2b4285d17cfe/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/live-updates-biden-12-30-2020.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-12-30-2020.amp",
-      "publishedDateTime": "2020-12-29T21:03:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memorial/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107054511-02-congress-electoral-college-0107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Washington Post: Biden to ask for US Surgeon General Jerome Adams' resignation and name acting official"
+    excerpt: "President-elect Joe Biden is expected to ask for US Surgeon General Jerome Adams' resignation soon after he is sworn-in on Wednesday, and select an acting surgeon general while his permanent pick for the role of the nation's top doctor undergoes Senate confirmation, according to The Washington Post.\n"
+    publishedDateTime: 2021-01-20T11:49:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Cksx-mIbmSI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/biden-jerome-adams-surgeon-general-resign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/biden-jerome-adams-surgeon-general-resign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103093854-surgeon-general-jerome-adams-covid-19-vaccine-sotu-vpx-00014023-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -2,6 +2,105 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-18-trump-may-issue-50-to-100-commutations-pardons-before-term-ends-rapper-lil-wayne-expected-to-be-on-list.md",
+      "title": "Trump may issue 50 to 100 commutations, pardons before term ends; rapper Lil Wayne expected to be on list",
+      "excerpt": "President Trump is expected to issue between 50 and 100 commutations and pardons before he leaves office this week, two sources familiar with the list told Fox News.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qs02KxEkdDY/trump-expected-pardons-commutations-lil-wayne-before-leaving-office",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qs02KxEkdDY/trump-expected-pardons-commutations-lil-wayne-before-leaving-office",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-expected-pardons-commutations-lil-wayne-before-leaving-office.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-expected-pardons-commutations-lil-wayne-before-leaving-office.amp",
+      "publishedDateTime": "2021-01-18T06:26:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-trump-wanted-to-erase-obamas-legacy-he-failed.md",
+      "title": "Trump Wanted to Erase Obama’s Legacy. He Failed.",
+      "excerpt": "Trump was supposedly poised to wipe away Obama’s achievements. And in a broader sense, the 45th president seemed to have overturned the country’s very sense of itself that Obama had cultivated. Four years later,",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/2021/01/trump-wanted-to-erase-obamas-legacy-he-failed.html",
+      "originalUrl": "https://nymag.com/intelligencer/2021/01/trump-wanted-to-erase-obamas-legacy-he-failed.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/dfa/daf/59b840bc23bd2e4c68bb72b13192dcf24e-obama-legacy.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/01/trump-wanted-to-erase-obamas-legacy-he-failed.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/trump-wanted-to-erase-obamas-legacy-he-failed.html",
+      "publishedDateTime": "2021-01-18T04:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-capitol-riot-exposed-flaws-of-trumps-dhs-focused-on-immigration-and-not-extremists-say-ex-officials.md",
       "title": "Capitol riot exposed flaws of Trump's DHS, focused on immigration and not extremists, say ex-officials",
       "excerpt": "Trump's DHS staffers \"tend to be younger, with not as much experience,\" says an ex-Trump DHS official. \"So many protocols were not followed\" on Jan. 6. WASHINGTON — Former Department of Homeland Security officials spanning the Bush, Obama and Trump ...",
@@ -231,7 +330,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1910,
+      "heat": 1950,
       "tags": null,
       "images": [
         {
@@ -500,7 +599,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/2021/01/17/live-updates-monitoring-colorado-capitol-protests-jan-17/4196764001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -810,62 +909,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-trump-must-be-barred-from-post-presidency-intelligence-briefings-schiff.md",
-      "title": "Trump must be barred from post-presidency intelligence briefings: Schiff",
-      "excerpt": "House Intelligence Committee Chairman Rep. Adam Schiff said Sunday that President Trump should be barred from receiving intelligence briefings after he leaves office, an opportunity traditionally extended to former presidents.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EThhRLQz3Nw/adam-schiff-trump-intelligence-briefings-sue-gordon",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EThhRLQz3Nw/adam-schiff-trump-intelligence-briefings-sue-gordon",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007270172186.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon.amp",
-      "publishedDateTime": "2021-01-17T10:36:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -1291,49 +1334,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-vp-mike-pence-wife-address-crowds-at-nas-lemoore.md",
-      "title": "VP Mike Pence, wife address crowds at NAS Lemoore",
-      "excerpt": "Second Lady of the United States Karen Pence visited Naval Air Station Lemoore Saturday to honor military spouses and address some of the struggles they",
-      "sourceUrl": null,
-      "webUrl": "https://hanfordsentinel.com/news/vp-mike-pence-wife-address-crowds-at-nas-lemoore/article_8d66d05e-d422-508c-912d-47712d97e72f.html",
-      "originalUrl": "https://hanfordsentinel.com/news/vp-mike-pence-wife-address-crowds-at-nas-lemoore/article_8d66d05e-d422-508c-912d-47712d97e72f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/hanfordsentinel.com/content/tncms/assets/v3/editorial/f/0e/f0ed0c73-cfc4-51bb-9eb6-b00f30539eee/6003c3312530a.image.jpg?resize=1024%2C683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hanfordsentinel.com/news/vp-mike-pence-wife-address-crowds-at-nas-lemoore/article_8d66d05e-d422-508c-912d-47712d97e72f.amp.html",
-      "cdnAmpWebUrl": "https://hanfordsentinel-com.cdn.ampproject.org/c/s/hanfordsentinel.com/news/vp-mike-pence-wife-address-crowds-at-nas-lemoore/article_8d66d05e-d422-508c-912d-47712d97e72f.amp.html",
-      "publishedDateTime": "2021-01-16T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hanford Sentinel",
-        "domain": "hanfordsentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

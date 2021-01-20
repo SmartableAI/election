@@ -2,6 +2,214 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-20-donald-trump-is-first-president-in-modern-history-to-never-reach-50-approval-in-gallup-poll.md",
+      "title": "Donald Trump is First President in Modern History to Never Reach 50% Approval in Gallup Poll",
+      "excerpt": "Trump will also exit the White House with the lowest average approval rating of any president in the Gallup poll. At 41 percent, the president's rating is four points lower than the averages of Jimmy Carter and Harry Truman,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653",
+      "originalUrl": "https://www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1710870/donald-trump-border-wall-visit-1-12-2021.jpg",
+          "width": 2500,
+          "height": 1623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653?amp=1",
+      "publishedDateTime": "2021-01-19T08:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-army-veteran-calls-out-dem-lawmaker-for-ridiculous-remark-about-troops-posing-threat-to-biden.md",
+      "title": "Army veteran calls out Dem lawmaker for ‘ridiculous’ remark about troops posing threat to Biden",
+      "excerpt": "A West Point graduate and Army veteran ripped Rep. Steve Cohen, D-Tenn., for floating the conspiracy theory that National Guard troops deployed to Washington, D.C., for the inauguration pose a threat to President-elect Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DO3biNYF574/army-veteran-says-concerns-over-national-guard-members-being-a-threat-to-biden-are-ridiculous",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DO3biNYF574/army-veteran-says-concerns-over-national-guard-members-being-a-threat-to-biden-are-ridiculous",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/army-veteran-says-concerns-over-national-guard-members-being-a-threat-to-biden-are-ridiculous.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/army-veteran-says-concerns-over-national-guard-members-being-a-threat-to-biden-are-ridiculous.amp",
+      "publishedDateTime": "2021-01-19T08:40:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-steve-schwarzman-a-trump-adviser-stays-loyal-till-the-end.md",
+      "title": "Steve Schwarzman, a Trump Adviser, Stays Loyal Till the End",
+      "excerpt": "The Blackstone chief executive stuck with President Trump despite the occasional slight, and stopped short of criticizing Mr. Trump even after the Capitol attack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/01/19/business/schwarzman-blackstone-trump.html",
+      "originalUrl": "https://www.nytimes.com/2021/01/19/business/schwarzman-blackstone-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/15/business/00Schwartzman-Trump-01/00Schwartzman-Trump-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-trump-taps-huntsville-lawyer-for-international-agriculture-board.md",
+      "title": "Trump taps Huntsville lawyer for international agriculture board",
+      "excerpt": "In one of his final acts in office, President Donald Trump has appointed Huntsville lawyer Mark McDaniel to a prominent international agricultural food board. U.S. Rep. Mo Brooks announced the appointment Monday of McDaniel The board,",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/news/2021/01/trump-taps-huntsville-lawyer-for-international-agriculture-board.html",
+      "originalUrl": "https://www.al.com/news/2021/01/trump-taps-huntsville-lawyer-for-international-agriculture-board.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/G52E5G6DYZEQFH352DCX7OSTUM.jpg",
+          "width": 835,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al.com/news/2021/01/trump-taps-huntsville-lawyer-for-international-agriculture-board.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-taps-huntsville-lawyer-for-international-agriculture-board.html?outputType=amp",
+      "publishedDateTime": "2021-01-19T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-biden-announces-rachel-levine-as-pick-for-assistant-secretary-at-hhs-would-be-first-transgender-senate-confirmed-federal-official.md",
       "title": "Biden announces Rachel Levine as pick for assistant secretary at HHS, would be first transgender Senate-confirmed federal official",
       "excerpt": "President-elect Joe Biden has nominated Dr. Rachel Levine to serve as assistant health secretary, and she would make history as the first out, transgender federal official to be confirmed by the United States Senate, according to a statement Tuesday.\n    \n",
@@ -375,58 +583,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-trump-clemency-likely-for-lil-wayne-no-pardons-for-giuliani-or-bannon-sources.md",
-      "title": "Trump clemency likely for Lil Wayne, no pardons for Giuliani or Bannon: sources",
-      "excerpt": "U.S. President Donald Trump is likely to grant clemency to rapper Lil Wayne on Tuesday in a final wave of pardons and commutations that is not expected to include lawyer Rudy Giuliani or ex-aide Steve Bannon,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-pardons-idUSKBN29O085",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-pardons-idUSKBN29O085",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548260786&r=LYNXMPEH0I05A&w=800",
-          "width": 800,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T00:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -862,62 +1018,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-18-trump-national-garden-order-includes-statues-of-whitney-houston-kobe-bryant-vince-lombardi-frank-sinatra.md",
-      "title": "Trump National Garden order includes statues of Whitney Houston, Kobe Bryant, Vince Lombardi, Frank Sinatra",
-      "excerpt": "President Trump issued an executive order on Monday in which he listed dozens of \"historically significant\" Americans, including entertainers, founding fathers, religious figures, and others, to be featured in the new National Garden of American Heroes.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kj1sQjm-mYE/trump-national-garden-statues",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kj1sQjm-mYE/trump-national-garden-statues",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0eb21815-dfa2-4f95-9dad-2105540bb182/e19cf9d1-5067-4540-8aed-09392d9a1413/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-national-garden-statues.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-national-garden-statues.amp",
-      "publishedDateTime": "2021-01-18T12:56:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-18-bidens-reported-plans-to-kill-keystone-xl-pipeline-alarm-canadian-officials.md",
       "title": "Biden’s reported plans to kill Keystone XL pipeline alarm Canadian officials",
       "excerpt": "President-elect Joe Biden is considering canceling the cross-border permit for TC energy’s Keystone XL pipeline -- and Canadian officials are worried.",
@@ -1042,7 +1142,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 725,
+      "heat": 765,
       "tags": null,
       "images": [
         {
@@ -1146,7 +1246,7 @@
       "originalUrl": "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394",
       "featuredContent": null,
       "highlight": null,
-      "heat": 344,
+      "heat": 324,
       "tags": null,
       "images": [
         {
@@ -1230,105 +1330,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-trump-may-issue-50-to-100-commutations-pardons-before-term-ends-rapper-lil-wayne-expected-to-be-on-list.md",
-      "title": "Trump may issue 50 to 100 commutations, pardons before term ends; rapper Lil Wayne expected to be on list",
-      "excerpt": "President Trump is expected to issue between 50 and 100 commutations and pardons before he leaves office this week, two sources familiar with the list told Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qs02KxEkdDY/trump-expected-pardons-commutations-lil-wayne-before-leaving-office",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qs02KxEkdDY/trump-expected-pardons-commutations-lil-wayne-before-leaving-office",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-expected-pardons-commutations-lil-wayne-before-leaving-office.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-expected-pardons-commutations-lil-wayne-before-leaving-office.amp",
-      "publishedDateTime": "2021-01-18T06:26:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-trump-wanted-to-erase-obamas-legacy-he-failed.md",
-      "title": "Trump Wanted to Erase Obama’s Legacy. He Failed.",
-      "excerpt": "Trump was supposedly poised to wipe away Obama’s achievements. And in a broader sense, the 45th president seemed to have overturned the country’s very sense of itself that Obama had cultivated. Four years later,",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/2021/01/trump-wanted-to-erase-obamas-legacy-he-failed.html",
-      "originalUrl": "https://nymag.com/intelligencer/2021/01/trump-wanted-to-erase-obamas-legacy-he-failed.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/dfa/daf/59b840bc23bd2e4c68bb72b13192dcf24e-obama-legacy.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/01/trump-wanted-to-erase-obamas-legacy-he-failed.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/trump-wanted-to-erase-obamas-legacy-he-failed.html",
-      "publishedDateTime": "2021-01-18T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

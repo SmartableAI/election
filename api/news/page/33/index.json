@@ -2,6 +2,62 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-12-02-obama-suggests-trumps-stereotypical-macho-style-appealed-to-some-young-black-voters.md",
+      "title": "Obama suggests Trump's 'stereotypical macho style' appealed to some young Black voters",
+      "excerpt": "Former President Obama said President Trump’s “stereotypical macho style” was to blame for his increase in Black male voters this election cycle.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dxzxJK-7WKE/obama-trump-stereotypical-macho-style-young-black-voters",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dxzxJK-7WKE/obama-trump-stereotypical-macho-style-young-black-voters",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/OBAMA-NEWSLETTER-xx.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/obama-trump-stereotypical-macho-style-young-black-voters.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-trump-stereotypical-macho-style-young-black-voters.amp",
+      "publishedDateTime": "2020-12-02T10:50:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-biden-intends-to-keep-wray-as-fbi-director.md",
       "title": "Biden intends to keep Wray as FBI director",
       "excerpt": "President-elect Joe Biden intends to keep FBI Director Christopher Wray in his post leading the bureau during his administration, Fox News has confirmed.",
@@ -1312,62 +1368,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-mnuchin-says-trump-wants-to-make-sure-there-is-not-a-shutdown.md",
-      "title": "Mnuchin says Trump 'wants to make sure there is not a shutdown' ",
-      "excerpt": "Two of the top negotiators in Washington -- House Speaker Nancy Pelosi and Treasury Secretary Steven Mnuchin -- spoke Tuesday afternoon about funding the government, weeks after talks broke down for a new stimulus package to respond to the Covid-19 pandemic and its economic fallout.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bWxSRzXQ3hQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bWxSRzXQ3hQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201020101738-01-pelosi-mnuchin-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/01/politics/nancy-pelosi-steve-mnuchin-stimulus/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/nancy-pelosi-steve-mnuchin-stimulus/index.html",
-      "publishedDateTime": "2020-12-01T12:56:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

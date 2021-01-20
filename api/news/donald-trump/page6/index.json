@@ -2,6 +2,63 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-29-trump-opens-up-federal-dollars-for-private-school-vouchers-amid-pandemic.md",
+      "title": "Trump opens up federal dollars for private school vouchers amid pandemic",
+      "excerpt": "The White House said that the order would give states new flexibility in how they use federal block grant programs that provide money for a wide range of community services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/28/trump-private-schools-pandemic-451757",
+      "originalUrl": "https://www.politico.com/news/2020/12/28/trump-private-schools-pandemic-451757",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d2/36/af02c71045b48e9bd5687ed719b2/ap20066831578298-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/28/trump-private-schools-pandemic-451757",
+      "publishedDateTime": "2020-12-28T17:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-politics-updates-trump-advocates-for-2000-stimulus-checks-after-signing-relief-package.md",
       "title": "Politics updates: Trump advocates for $2,000 stimulus checks after signing relief package",
       "excerpt": "President Donald Trump continued to argue for $2,000 stimulus checks after signing a coronavirus relief package with a provision for a lower amount.",
@@ -1513,58 +1570,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-22-trumps-legacy-he-changed-the-presidency-but-will-it-last.md",
-      "title": "Trump's legacy: He changed the presidency, but will it last?",
-      "excerpt": "His legacy: a tumultuous four years that were marked by his impeachment, failures during the worst pandemic in a century and his refusal to accept defeat. He smashed conceptions about how presidents behave and communicate,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/trumps-legacy-changed-presidency-74837833",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trumps-legacy-changed-presidency-74837833",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_80df8f4c6b4b48998fbd6233566fa705_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74837833",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-legacy-changed-presidency-74837833",
-      "publishedDateTime": "2020-12-21T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

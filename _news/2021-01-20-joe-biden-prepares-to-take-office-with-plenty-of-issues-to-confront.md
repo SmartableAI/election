@@ -427,6 +427,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "A viewer's guide to Joe Biden's inauguration"
+    excerpt: "Biden's inauguration comes amid a months-long pandemic and massive security in response to threats of violence from extremists."
+    publishedDateTime: 2021-01-20T12:14:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-inauguration-day-events-timeline/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-inauguration-day-events-timeline/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-inauguration-day-events-timeline/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/19/1827e526-08a5-466f-8e47-514d32ecb9f9/thumbnail/1200x630/83231b793fc6b71eaa41fe04e61626b7/ap21019695790120.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "An emotional Biden bids farewell to Delaware on his way to White House"
     excerpt: "U.S. President-elect Joe Biden became emotional during a brief farewell ceremony in Delaware on Tuesday before heading to Washington for his inauguration, choking back tears as he reflected on his long journey to the White House and remembered his son."
     publishedDateTime: 2021-01-20T02:14:00Z
@@ -458,6 +474,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/14/USAT/a10609a0-9c38-4b2d-9d2d-3247d9ca46f3-GTY_1230585447.jpg?auto=webp&crop=1734,976,x0,y88&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden prepares to take the helm of a nation in crisis"
+    excerpt: "Joe Biden takes the oath of office Wednesday to become the 46th president of the United States amid a disastrous pandemic and a deep political divide."
+    publishedDateTime: 2021-01-20T12:07:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-20/joe-biden-inauguration-day-president"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-20/joe-biden-inauguration-day-president?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-20/joe-biden-inauguration-day-president?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/b2e91be/2147483647/strip/true/crop/4936x3224+0+34/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa7%2F9d%2F8a16891344f680ea3b96d8676695%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1228018402.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Biden's Pentagon pick supports overturning military transgender ban"
     excerpt: "Retired Army General Lloyd Austin, President-elect Joe Biden's pick to lead the Pentagon, said on Tuesday that he supported a plan to overturn a ban on transgender service members."
@@ -522,6 +554,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/4a59c98b-73a0-4c9e-a428-004eb7139bba-AP21019730035924.jpg?auto=webp&crop=5079,2857,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Three former presidents will attend Biden's inauguration"
+    excerpt: "Former Presidents Bill Clinton, George W. Bush and Barack Obama are expected to attend the inauguration of President-elect Joe Biden on Wednesday, although his immediate predecessor is expected to leave the White House ahead of the day's ceremonies."
+    publishedDateTime: 2021-01-20T12:10:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-inauguration-former-presidents-clinton-bush-obama-attend/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-inauguration-former-presidents-clinton-bush-obama-attend/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-inauguration-former-presidents-clinton-bush-obama-attend/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/18/2fa81e36-9b27-4f54-bf1d-a47bb36a12d7/thumbnail/1200x630/18149e3116a3c84c6229b37d664927bc/gettyimages-1230656627.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tribal leaders blast congressman opposed to Biden nomination"
     excerpt: "A group of Native American tribes in a Minnesota congressman’s district is rebuking him for his attempts to derail President-elect Joe Biden’s pick for Interior secretary"
@@ -1070,6 +1118,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Facing crush of crises, Biden will take helm as president"
+    excerpt: "Joe Biden swears the oath of office at noon Wednesday to become the 46th president of the United States, taking the helm of a deeply divided nation and inheriting a confluence of crises arguably greater than any faced by his predecessors."
+    publishedDateTime: 2021-01-20T12:43:00Z
+    webUrl: "https://www.businessinsider.com/facing-crush-of-crises-biden-will-take-helm-as-president-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/facing-crush-of-crises-biden-will-take-helm-as-president-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facing-crush-of-crises-biden-will-take-helm-as-president-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "MORNING BID-Staying high before Biden"
     excerpt: "Much of an expected vaccine-driven economic recovery is already priced in, it seems, and the groundwork has been laid for another fiscal boost for the world's largest economy. So a few hours before Joe Biden becomes the 46th U."
     publishedDateTime: 2021-01-20T08:06:00Z
@@ -1149,6 +1208,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547715105&r=LYNXMPEH0D03T&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Joe Biden inauguration: 46th president to take helm of divided nation facing multiple crises"
+    excerpt: "Joe Biden swears the oath of office at noon Wednesday to become the 46th president of the U.S., taking the helm of a deeply divided nation and inheriting a confluence of crises."
+    publishedDateTime: 2021-01-20T11:50:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-inauguration-20210120-dqqqgg4rzvdd7dmjeijjwi5ycu-htmlstory.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 94
+    images:
+      - url: "https://www.chicagotribune.com/resizer/xrg4lOzLOXUNj3SsB4Bdsg7WuXk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MEODNRRBDNECHMEWIBQ3VL3ESM.aspx"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden is raising tens of millions of dollars for his inauguration but won't say where the money is going"
     excerpt: "Biden is raising tens of millions of dollars for the inaugural celebrations, including from corporate giants with big business before the federal government."
@@ -1341,6 +1414,22 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2021/01/AP21015759551330.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Watch live: Joe Biden is sworn in as 46th president of the United States"
+    excerpt: "Joseph R. Biden Jr. will take the oath of office on Wednesday when he's sworn in as the 46th president of the United States on the West Front of the U.S. Capitol."
+    publishedDateTime: 2021-01-20T12:05:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/20/Watch-live-Joe-Biden-is-sworn-in-as-46th-president-of-the-United-States/2501611141231/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/20/Watch-live-Joe-Biden-is-sworn-in-as-46th-president-of-the-United-States/2501611141231/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/20/Watch-live-Joe-Biden-is-sworn-in-as-46th-president-of-the-United-States/2501611141231/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/ph/st/th/2501611141231/2021/upi/d1227f998138c3593982f7ab4dc4540c/v1.5/Watch-live-Joe-Biden-is-sworn-in-as-46th-president-of-the-United-States.jpg?lg=2"
+        width: 800
+        height: 534
         isCached: true
   - title: "How Mike Pence's hometown views his legacy as vice presidency comes to an end"
     excerpt: "In a music store in this small city 45 minutes southeast of Indianapolis, a picture of Vice President Mike Pence playing guitar hangs by the door. Nearby"

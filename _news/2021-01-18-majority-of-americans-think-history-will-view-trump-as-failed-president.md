@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/majority-americans-think-history-will-view-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1"
 type: article
 quality: 124
-heat: 344
+heat: 324
 published: true
 
 provider:
@@ -152,22 +152,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/us-president-donald-trump-owns-the-unfortunate-distinction.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Should Trump Pardon Himself? 68% Of Americans Say 'No'"
-    excerpt: "The U.S. Constitution does not explicitly say whether a sitting president can pardon himself for potential criminal liabilities."
-    publishedDateTime: 2021-01-18T00:26:00Z
-    webUrl: "https://www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284"
-    ampWebUrl: "https://www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/outgoing-us-president-donald-trump-is-seeking-to.jpg"
-        width: 1024
-        height: 716
         isCached: true
   - title: "EU Chiefs Express Relief As 'Friend' Replaces Trump"
     excerpt: "The European Union's top officials expressed relief on Wednesday that they would again have a friend in the White House as Joe Biden replaces Donald Trump. Charles Michel, president of the European Council,"

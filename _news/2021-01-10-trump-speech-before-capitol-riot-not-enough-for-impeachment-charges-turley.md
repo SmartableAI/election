@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-speech-capitol-riot-impeachme
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-speech-capitol-riot-impeachment-push-turley.amp"
 type: article
 quality: 173
-heat: 233
+heat: 213
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab14816a-305f-4d2b-b463-f796e2d1af61/8f02ab6d-4344-4f20-971f-0eb6b554ea4a/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Twitter bans Trump, but left-wing activist charged in Capitol riot still active on platform"
-    excerpt: "A left-wing activist charged for his alleged participation in the Capitol Hill riot maintains control of his Twitter and YouTube accounts, Fox News has learned. "
-    publishedDateTime: 2021-01-17T23:39:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Cx56p3uEoE/left-wing-activist-charged-in-capitol-riot-still-allowed-on-twitter-youtube"
-    ampWebUrl: "https://www.foxnews.com/politics/left-wing-activist-charged-in-capitol-riot-still-allowed-on-twitter-youtube.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-wing-activist-charged-in-capitol-riot-still-allowed-on-twitter-youtube.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/John-Sullivan-Capitol-THUMB.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "6OQ8mjD6wjH/NqaPDbYpzbJnc5Jh/3N0oRsjkiJMmNNKiFBVp/YaaVNG66qHAG+9kqWA5TXz8Of+ifYGNraoDFSKyHL9Wl26jAUhPIBK7Ws5YeTf500XgHRurN7nM1YxixkKSNcTVsk7CdDoOzJVDyzQsJ9v9l/1a5mY5w2FEcVWU88GWMNMIWIgJJHiAsWfB5gxX7/llDJztMbTj22IU3iPtSe2qCK6M7tM1Qkne2iV/wvgdAKaq9NnfH63PSOiNjK2VDCCYDuSK0y7x1ajaeAWU3MHAD+lCs8KEEWiCX34XXzdH+SZwnqNh17YY3GUdDDTFplaIWZ9QAs+r5VutxtbKO0wWYHu8naPEzQIZXE=;AOiWAxGgG20EzCUzXj8qBg=="

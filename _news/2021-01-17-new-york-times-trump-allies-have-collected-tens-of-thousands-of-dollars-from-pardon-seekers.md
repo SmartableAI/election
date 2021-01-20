@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump departs Washington a pariah as his era in power ends"
+    excerpt: "Donald Trump's era in Washington is over.\n    \n"
+    publishedDateTime: 2021-01-20T11:30:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-pAaA84YMu4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/donald-trump-leaves-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/donald-trump-leaves-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118170345-01-trump-era-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "TblQMkuZWRAo8/8olGwkjd8w1aAi1V9MZEddFWnzF8iqnh6UD3fTwgXyzv5W38dSgURJ8MXJRj+8p50tk0/AIkfETb0JsDp27oxvcbHMkeqS4apIp5GalLwS/tioK9nZ0U9HHBpsEwi1EIV9KQO0y5/2gWEPt0mWregPN0pWnwC9UrGC6xQRFuB0Rt4RJV+zXTlVbxNyiICgKMbd/rGB6lQqk/Clp9xdFWdak8Aiap5iR317pfi3DtMbGAuYmQPhT/PB7mjtlmkKbL9DSuRydyW1EMuWyESLUrVKYDB3IW0405gcu0gHTy1y0UCvBFBCoD1YxV+YRz1tQnTqoK1C+CzG2I76SunW6erLKD10tZI=;eyBslNXXSJIPJ15TiM3iAw=="
 ---

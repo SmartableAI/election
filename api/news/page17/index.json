@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-12-29-give-mike-pence-exclusive-authority-on-which-electoral-college-votes-to-count-lawsuit.md",
+      "title": "Give Mike Pence 'Exclusive Authority' on Which Electoral College Votes to Count: Lawsuit",
+      "excerpt": "A group of Republican Trump supporters, including one Texas congressman, have filed a new lawsuit in a last-ditch attempt to overturn the election results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/give-mike-pence-exclusive-authority-which-electoral-college-votes-count-lawsuit-1557596",
+      "originalUrl": "https://www.newsweek.com/give-mike-pence-exclusive-authority-which-electoral-college-votes-count-lawsuit-1557596",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1694055/mike-pence.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/give-mike-pence-exclusive-authority-which-electoral-college-votes-count-lawsuit-1557596?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/give-mike-pence-exclusive-authority-which-electoral-college-votes-count-lawsuit-1557596?amp=1",
+      "publishedDateTime": "2020-12-28T12:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-walter-reed-doctor-who-criticized-trumps-hospital-drive-by-works-last-shift-after-being-removed-from-schedule.md",
       "title": "Walter Reed doctor who criticized Trump's hospital drive-by works last shift after being removed from schedule",
       "excerpt": "Dr. James Phillips, an emergency room doctor at Walter Reed National Military Medical Center, has been removed from his duty after publicly criticizing President Donald Trump's drive-by around the hospital after his coronavirus diagnosis.\n    \n",
@@ -1285,58 +1337,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster.md",
-      "title": "Sidney Powell’s secret intelligence contractor witness is a pro-Trump podcaster",
-      "excerpt": "Lindeman, whose credentials were questioned in a recent civil fraud case, confirmed that she wrote the affidavit and said she viewed it as her contribution to a fight against the theft of the election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/investigations/sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster/2020/12/24/d5a1ab9e-4403-11eb-a277-49a6d1f9dff1_story.html",
-      "originalUrl": "https://www.washingtonpost.com/investigations/sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster/2020/12/24/d5a1ab9e-4403-11eb-a277-49a6d1f9dff1_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ASCOY2SFLQI6XLBKHLAPFOGO5M.jpg&w=1440",
-          "width": 1440,
-          "height": 766,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/investigations/sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster/2020/12/24/d5a1ab9e-4403-11eb-a277-49a6d1f9dff1_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/investigations/sidney-powells-secret-intelligence-contractor-witness-is-a-pro-trump-podcaster/2020/12/24/d5a1ab9e-4403-11eb-a277-49a6d1f9dff1_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-24T18:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

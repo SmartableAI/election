@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-national-garden-statues.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-national-garden-statues.amp"
 type: article
 quality: 157
-heat: 157
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,88 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Trump frees former aides from ethics pledge, lobbying ban"
+    excerpt: "President Donald Trump, in one of his final acts of office, released current and former members of his administration from the terms of their ethics pledge, which included a five-year ban on lobbying their former agencies."
+    publishedDateTime: 2021-01-20T12:18:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hPUCYolkkh0/trump-frees-former-aides-from-ethics-pledge-lobbying-ban"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-frees-former-aides-from-ethics-pledge-lobbying-ban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-frees-former-aides-from-ethics-pledge-lobbying-ban.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb650e5d-a8bf-42e1-8e8e-0b0b00b4217a/002b346a-a157-41c7-bddb-c04b99b77223/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump must be barred from post-presidency intelligence briefings: Schiff"
+    excerpt: "House Intelligence Committee Chairman Rep. Adam Schiff said Sunday that President Trump should be barred from receiving intelligence briefings after he leaves office, an opportunity traditionally extended to former presidents."
+    publishedDateTime: 2021-01-17T18:36:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EThhRLQz3Nw/adam-schiff-trump-intelligence-briefings-sue-gordon"
+    ampWebUrl: "https://www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007270172186.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Twitter bans Trump, but left-wing activist charged in Capitol riot still active on platform"
+    excerpt: "A left-wing activist charged for his alleged participation in the Capitol Hill riot maintains control of his Twitter and YouTube accounts, Fox News has learned. "
+    publishedDateTime: 2021-01-17T23:39:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Cx56p3uEoE/left-wing-activist-charged-in-capitol-riot-still-allowed-on-twitter-youtube"
+    ampWebUrl: "https://www.foxnews.com/politics/left-wing-activist-charged-in-capitol-riot-still-allowed-on-twitter-youtube.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-wing-activist-charged-in-capitol-riot-still-allowed-on-twitter-youtube.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/John-Sullivan-Capitol-THUMB.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump must be barred from post-presidency intelligence briefings: Schiff"
+    excerpt: "House Intelligence Committee Chairman Rep. Adam Schiff said Sunday that President Trump should be barred from receiving intelligence briefings after he leaves office, an opportunity traditionally extended to former presidents."
+    publishedDateTime: 2021-01-17T18:48:00Z
+    webUrl: "https://www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon"
+    ampWebUrl: "https://www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007270172186.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Might Trump's Final Revenge Be a Third Party?"
+    excerpt: "Senate Republicans have the opportunity to not only convict Donald Trump of incitement of insurrection, but also punish him with a ban on ever"
+    publishedDateTime: 2021-01-18T11:59:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/18/might_trumps_final_revenge_be_a_third_party_145057.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/18/might_trumps_final_revenge_be_a_third_party_145057.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/18/might_trumps_final_revenge_be_a_third_party_145057.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/532569_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "v5RXWfzCT1TQT2QCnldPJMeBh03AvmrIgMjibn3PPk80aBjjQ3nZ0ns+lM5pSVb2Zk5taYKQ6xj6SIGdkFbIPacYtT8dA8AdMq5C9gpCk6LttyrFhOzYAC+LEf9MIo3VAYjgycAb1YXLCkBqbN4icVYpauTyjn4MzJhAzXjH8g1/82u3iM4B4gB+ZCgr/eORTZ2DdLzlm97gsqo5Za/WtQsrZobsu74VcL35o8e8vr9L5o7VLXwc9e3dICyAVivrgxhkJgqGskjm0z9QN+F9otbjDPUwVGrQsxRvNPupbIsij9WgBBYtRxVNm+9UiQowKRmeNCGtosHW7G6tQVtHw4IvISwl2pbWGD8TnqscRuY=;zr4IHjQ6hSjhsThlPeDhig=="
 ---

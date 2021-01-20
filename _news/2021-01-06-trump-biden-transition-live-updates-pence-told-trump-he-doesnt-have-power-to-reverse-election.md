@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-resul
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
 type: article
 quality: 168
-heat: 7628
+heat: 7648
 published: true
 
 provider:
@@ -5524,6 +5524,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/06/supporters-of-us-president-donald-trump-gather-for.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Live inauguration updates: Joe Biden is hours away from becoming nation's 46th president, Trump to depart White House"
+    excerpt: "Joseph R. Biden will be sworn in amid a worsening pandemic, a reeling economy, racial justice concerns and a nation deeply fractured politically."
+    publishedDateTime: 2021-01-20T10:06:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/01/20/live-biden-inauguration-updates-joe-biden-become-46th-president/4214160001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4214160001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4214160001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/5102ae5d-9cfc-43c6-b0d2-a7941de75a27-biden_ap_photo.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "President Donald Trump, in call with Georgia secretary of state, makes another failed attempt to overturn loss to Joe Biden"
     excerpt: "Republicans seeking to disenfranchise millions of voters and overturn the election. But now, Trump wants more votes to be counted. Or, at least, he wants the Georgia count “recalculated.” During an hour-long call obtained by The Washington Post,"

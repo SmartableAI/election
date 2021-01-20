@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Pro-Trump super PAC transforming into anti-Biden group"
+    excerpt: "A super PAC that supported President Trump’s 2020 re-election bid is changing its name – and its mission."
+    publishedDateTime: 2021-01-20T11:26:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UzLnt9TiI7c/pro-trump-super-pac-transforming-into-anti-biden-group"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-super-pac-transforming-into-anti-biden-group.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-super-pac-transforming-into-anti-biden-group.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Sen. Graham urges Biden to 'stand down' on 'Scarlet Letter' Trump impeachment"
     excerpt: "Sen. Lindsey Graham, R-S.C., argued on Sunday that pursuing the impeachment of President Trump after he leaves office will ruin the start of Joe Biden's presidency and urged the president-elect to “stand down.”"
     publishedDateTime: 2021-01-17T19:41:27Z

@@ -1582,6 +1582,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden Takes the Wheel"
+    excerpt: "Preparing to take the helm of a country in crisis, Biden declares: “There’s always light.” It’s Inauguration Day, and this is your politics tip sheet. Sign up here to get On Politics in your inbox every weekday."
+    publishedDateTime: 2021-01-20T12:01:00Z
+    webUrl: "https://www.nytimes.com/2021/01/20/us/politics/biden-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/20/us/politics/biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/20/us/politics/biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/01/01/us/politics/onpolitics-biden-framed/onpolitics-biden-framed-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Vice President Mike Pence ensures 'safe inauguration' after Capitol riot"
     excerpt: "During a briefing at FEMA headquarters, Vice President Mike Pence addressed the Capitol riot and ensured an “orderly transition into a safe inauguration.”"
     publishedDateTime: 2021-01-14T22:56:00Z

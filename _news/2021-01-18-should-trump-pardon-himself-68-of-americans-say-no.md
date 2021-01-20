@@ -31,172 +31,103 @@ images:
     isCached: true
 
 related:
-  - title: "Majority of Americans Think History Will View Trump as 'Failed' President"
-    excerpt: "Evaluating a president's time in office often requires a rearview mirror. While history has yet to weigh in on President Donald Trump's time in office, Americans don't see President Donald Trump receiving positive remarks down the road. After a contentious ..."
-    publishedDateTime: 2021-01-18T15:48:00Z
-    webUrl: "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394"
-    ampWebUrl: "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1"
+  - title: "Donald Trump pardons Steve Bannon amid last acts of presidency"
+    excerpt: "Former senior adviser had previously been considered an unlikely name among the 143 people who received clemency"
+    publishedDateTime: 2021-01-20T10:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1710407/trump-history-americans-failed-president.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://i.guim.co.uk/img/media/885db9682b9b36653c7209be17740b92e8d006af/0_108_3200_1920/master/3200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cbad3454b95c8ab8d879dbe443aab4c1"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Exclusive: As Trump leaves office, 50% of Americans see him as a 'failed' president"
-    excerpt: "Trump hasn't succeeded in overturning the election results but he has persuaded a third of Americans that Biden wasn't legitimately elected"
-    publishedDateTime: 2020-12-24T09:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/24/donald-trump-failed-president-50-usa-today-poll-say/3926190001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3926190001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3926190001"
+  - title: "Trump pardons ex-strategist Steve Bannon, dozens of others"
+    excerpt: "President Donald Trump has pardoned former chief strategist Steve Bannon as part of a late flurry of clemency action benefiting nearly 150 people, including rap stars and former members of Congress"
+    publishedDateTime: 2021-01-20T07:16:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-pardons-strategist-steve-bannon-dozens-75363758"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e0873822-4b69-42e9-b96d-431644856090-AP_APTOPIX_Election_2020_Biden.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5ffebad59b7a4e4e950520e8691e2ec2_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Vast majority of Americans hold Trump responsible for Capitol siege, new Insider poll shows"
-    excerpt: "Americans overwhelmingly say that President Donald Trump is responsible on some level for the Capitol siege, according to a new Insider poll. 76% said Trump bears a \"great deal\" o"
-    publishedDateTime: 2021-01-17T13:59:00Z
-    webUrl: "https://www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
-    images:
-      - url: "https://i.insider.com/6000b0e1a81ea100188db505?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "USA TODAY/Suffolk Poll: Americans, braced for violence at the inauguration, see democracy damaged after Trump"
-    excerpt: "A new USA TODAY/Suffolk Poll finds President Trump's standing has eroded since the U.S. Capitol riot. A majority predict violence at Joe Biden's inauguration."
-    publishedDateTime: 2021-01-17T14:43:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/17/trump-hurt-democracy-violence-feared-inauguration-poll/4165750001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4165750001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4165750001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/14/USAT/58d3db56-ae52-4500-9485-aa58d36fc8f2-USATSI_15428849.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Analysis - Trump's legacy: A more divided America, a more unsettled world"
-    excerpt: "Closing out his presidency exactly four years later, Trump leaves behind an even more polarized America, where thousands are dying daily from the COVID-19 pandemic, the economy is badly damaged and political violence has surged."
-    publishedDateTime: 2021-01-19T12:15:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-legacy/analysis-trumps-legacy-a-more-divided-america-a-more-unsettled-world-idUSL1N2JS0KO"
+  - title: "Trump clemency likely for Lil Wayne, no pardons for Giuliani or Bannon: sources"
+    excerpt: "U.S. President Donald Trump is likely to grant clemency to rapper Lil Wayne on Tuesday in a final wave of pardons and commutations that is not expected to include lawyer Rudy Giuliani or ex-aide Steve Bannon,"
+    publishedDateTime: 2021-01-19T08:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pardons-idUSKBN29O085"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 104
+    quality: 101
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297890&r=LYNXMPEH0I0O7&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548260786&r=LYNXMPEH0I05A&w=800"
         width: 800
-        height: 547
+        height: 558
         isCached: true
-  - title: "Analysis - Trump's legacy: A more divided America, a more unsettled world"
-    excerpt: "Closing out his presidency exactly four years later, Trump leaves behind an even more polarized America, where thousands are dying daily from the COVID-19 pandemic, the economy is badly damaged and political violence has surged."
-    publishedDateTime: 2021-01-19T16:35:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-legacy-analysis/analysis-trumps-legacy-a-more-divided-america-a-more-unsettled-world-idUSKBN29O15W?post"
+  - title: "Trump, in wave of Tuesday pardons, so far not planning to pardon himself: source"
+    excerpt: "U.S. President Donald Trump at this point is opting not to issue a pardon for himself as he prepares an expansive list of more than 100 pardons and commutations for release on Tuesday, a source familiar with the effort said."
+    publishedDateTime: 2021-01-18T08:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pardons/trump-in-wave-of-tuesday-pardons-so-far-not-planning-to-pardon-himself-source-idUSKBN29N079?edition-redirect=ca"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 104
+    quality: 100
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297890&r=LYNXMPEH0I0O7&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548150109&r=LYNXMPEH0H03F&w=800"
         width: 800
-        height: 547
+        height: 526
         isCached: true
-  - title: "Trump laid out a vision for America in his inaugural address 4 years ago. He has come nowhere near realizing it."
-    excerpt: "President Trump will leave office with more Americans out of work than when he started, and with the US's international reputation damaged."
-    publishedDateTime: 2021-01-19T22:44:00Z
-    webUrl: "https://www.businessinsider.com/trump-inauguration-address-vision-not-realized-not-aged-well-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trump-inauguration-address-vision-not-realized-not-aged-well-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-inauguration-address-vision-not-realized-not-aged-well-2021-1?amp"
+  - title: "'It was a non-event': Pro-Trump protests quiet amid massive police presence across U.S."
+    excerpt: "Law enforcement officers far outnumbered protesters at state capitol grounds on Sunday, as few Trump supporters who believe the president's false claim that he won the 2020 election turned out for what authorities feared could be violent demonstrations."
+    publishedDateTime: 2021-01-18T06:37:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/us-state-capitals-see-few-protesters-after-bracing-for-violent-demonstrations-idUSKBN29M046"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
+      name: Reuters
+      domain: reuters.com
+    quality: 97
     images:
-      - url: "https://i.insider.com/6006a71ce3d62500185fd109?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548124964&r=LYNXMPEH0G0GQ&w=800"
+        width: 800
+        height: 533
         isCached: true
-  - title: "This day in history, January 16: The impeachment trial of President Donald Trump opens in the Senate"
-    excerpt: "Almanacs are full of lists of global and national historic events. But “This Day in History” feature invites you to not just peruse a list, but to take a trip back in time to see how a significant event originally was reported in the Chicago Tribune."
-    publishedDateTime: 2021-01-16T13:10:00Z
-    webUrl: "https://www.chicagotribune.com/history/ct-sns-today-history-almanac-january-16-20210116-bj5ofx7u4bai7kee7utmmiswvq-story.html"
+  - title: "Donald Trump pardons ex-strategist Steve Bannon, dozens of others"
+    excerpt: "President Donald Trump pardoned former chief strategist Steve Bannon as part of a flurry of clemency action in the final hours of his White House term that benefited more than 140 people, including rap performers,"
+    publishedDateTime: 2021-01-20T12:13:00Z
+    webUrl: "https://www.nola.com/news/politics/national_politics/article_e3c9d1b6-5b18-11eb-804c-7755957d43eb.html"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 90
-    images:
-      - url: "https://www.chicagotribune.com/resizer/RCbFb8gR4Z4Tx8yS-kfISBHX_Qw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4HA5W4BHEBEBTMQQHY5ZH4DI64.jpg"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Most Americans Want Trump Gone From Politics, Poll Says"
-    excerpt: "A slim majority of Americans want to see Trump charged with the incitement of the mob that attacked the Capitol Building, which would bar him from holding public office if convict"
-    publishedDateTime: 2021-01-15T15:21:00Z
-    webUrl: "https://www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261"
-    ampWebUrl: "https://www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/us-president-donald-trump-owns-the-unfortunate-distinction.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "EU Chiefs Express Relief As 'Friend' Replaces Trump"
-    excerpt: "The European Union's top officials expressed relief on Wednesday that they would again have a friend in the White House as Joe Biden replaces Donald Trump. Charles Michel, president of the European Council,"
-    publishedDateTime: 2021-01-20T09:09:00Z
-    webUrl: "https://www.ibtimes.com/eu-chiefs-express-relief-friend-replaces-trump-3126426"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: NOLA.com
+      domain: nola.com
     quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/von-der-leyen-compared-the-us-riot-to-AFP_8Z66KB.jpg"
-        width: 1024
-        height: 682
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/7/75/775825e0-5b19-11eb-8627-e70c6ecd59e3/60081fb0d2b18.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
-  - title: "From the border to the federal bench to raging political divisions: How Donald Trump's tenure has changed America"
-    excerpt: "No matter what Trump does now, his past four years have left a mark on immigration, the federal bench and the nation's raging political divisions."
-    publishedDateTime: 2021-01-18T23:23:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2021/01/18/heres-how-trumps-tumultuous-four-years-president-changed-america/4165708001/"
+  - title: "'It Was a Non-Event': Pro-Trump Protests Quiet Amid Massive Police Presence Across U.S."
+    excerpt: "Trump Protests Quiet Amid Massive Police Presence Across U.S. HARRISBURG, Pa./LANSING, Mich. (Reuters) - Law enforcement officers far outnumbered protesters at state capitol grounds on Sunday, as few Trump supporters who believe the president's false claim that he won the 2020 election turned out for what authorities feared could be violent demonstrations."
+    publishedDateTime: 2021-01-19T04:13:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-17/us-capitals-gird-for-pro-trump-armed-protests-as-fbi-flags-risk-of-violence"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-17/us-capitals-gird-for-pro-trump-armed-protests-as-fbi-flags-risk-of-violence?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-17/us-capitals-gird-for-pro-trump-armed-protests-as-fbi-flags-risk-of-violence?context=amp"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 34
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d9fcae70-ecb3-4fa7-ba54-bd90bcd378e0-AP21012563654909.jpg?crop=5999,3374,x1,y626&width=3200&height=1680&fit=bounds"
-        width: 2987
-        height: 1680
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
 
 secured: "s9XHoD5wlZLXaUt4OZ1AuG58v9Y3Inhes/KnXNudOD5xvRQn4/2QmYgdQd8CEQvokFTK3JCel6h3nKeaYUm5TbAkcWcHMJJIEkNAFq/GH51t3IrEG3didKOs5NGqcfG8n+zH1e4yhK4Lw5LK3C0co6g5gCzuu7YpFk/hBRQT2DjFBbX1Xy+/8ghyxvN5mtV2LsXLVt6RGekTVPyXctZwUNqTXutKr13A5TyHR+5NaR5h0Q5s0C8+HpJpWfy4guE8JZN8++4wTIZDZ/AIapltWaARecfmE4wQXHwPgEK4ZEzA9luRBg6Krbyu7hYsz9qOc6dkbhCfor+iop7oPCZgDrlGDmrXUqXyi1ncOeL1fdHXZD71mx/Uxs4Sjse/hfgWO5XFrV7IXQZfhTi9omeIfRnhEi1qBVBHr/Lqf8cr6YGpQXYQtbtfjZWso7c++cS5yyZRrCxqPcB/BHsd4WrJYjFhuqiFhdryG2IP6f9T8Q2w1+jBjJcv+LTBjusFrxgdI70bNnQ9fpNSXWTsPCe5jQ==;5rStJLpYusnigv1taQX8tQ=="
 ---

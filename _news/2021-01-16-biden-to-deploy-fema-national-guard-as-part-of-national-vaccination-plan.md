@@ -1582,6 +1582,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden Takes the Wheel"
+    excerpt: "Preparing to take the helm of a country in crisis, Biden declares: “There’s always light.” It’s Inauguration Day, and this is your politics tip sheet. Sign up here to get On Politics in your inbox every weekday."
+    publishedDateTime: 2021-01-20T12:01:00Z
+    webUrl: "https://www.nytimes.com/2021/01/20/us/politics/biden-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/20/us/politics/biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/20/us/politics/biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/01/01/us/politics/onpolitics-biden-framed/onpolitics-biden-framed-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Congress affirms Biden as president after completing electoral vote count"
     excerpt: "After a day of riots at the Capitol, Congress counted the Electoral College votes and confirmed the win for President-elect Joe Biden and Vice President-elect Kamala Harris."
     publishedDateTime: 2021-01-07T09:24:00Z

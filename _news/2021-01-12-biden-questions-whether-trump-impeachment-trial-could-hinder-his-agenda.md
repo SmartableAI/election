@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-questions-whether-trump-impea
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-questions-whether-trump-impeachment-will-hinder-his-agenda.amp"
 type: article
 quality: 190
-heat: 1990
+heat: 2010
 published: true
 
 provider:
@@ -53,6 +53,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jjiLw-HbkcA/biden-bold-vaccination-trump-dismal-failure"
     ampWebUrl: "https://www.foxnews.com/politics/biden-bold-vaccination-trump-dismal-failure.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-bold-vaccination-trump-dismal-failure.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Pro-Trump super PAC transforming into anti-Biden group"
+    excerpt: "A super PAC that supported President Trump’s 2020 re-election bid is changing its name – and its mission."
+    publishedDateTime: 2021-01-20T11:26:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UzLnt9TiI7c/pro-trump-super-pac-transforming-into-anti-biden-group"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-super-pac-transforming-into-anti-biden-group.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-super-pac-transforming-into-anti-biden-group.amp"
     type: article
     provider:
       name: Fox News

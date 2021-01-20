@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-07-during-electoral-college-debate-us-sens-tammy-duckworth-and-richard-durbin-condemn-trump-and-violent-mob-that-stormed-us-capitol.md",
+      "title": "During Electoral College debate, U.S. Sens. Tammy Duckworth and Richard Durbin condemn Trump and violent mob that stormed U.S. Capitol",
+      "excerpt": "U.S. Sens. Tammy Duckworth and Richard Durbin condemn Trump and violent mob that stormed U.S. Capitol in floor speeches on Electoral College debate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html",
+      "originalUrl": "https://www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/i0uaW-P1fTTnA5vKcHmJbIvtCns=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LSMNSHFAONDRNECBWIUN5DE6FQ.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-tammy-duckworth-richard-durbin-senate-capitol-mob-20210107-l2v5u7ktlzfwrfpnupgavansku-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-06T22:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-hollywood-condemns-violence-of-trump-supporters-calls-them-domestic-terrorists.md",
       "title": "Hollywood Condemns Violence Of Trump Supporters, Calls Them 'Domestic Terrorists'",
       "excerpt": "Notable personalities such as Sacha Baron Cohen, Ava DuVernay, Michael Keaton, Selena Gomez and many more expressed their anger amid the riots that took place in Washington, D.C. where the protesters breached the U.",
@@ -313,7 +365,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-results-transition/?id=75022086",
       "featuredContent": null,
       "highlight": null,
-      "heat": 7628,
+      "heat": 7648,
       "tags": null,
       "images": [
         {
@@ -1466,58 +1518,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-04-audio-trump-berates-ga-secretary-of-state-urges-him-to-find-votes.md",
-      "title": "Audio: Trump berates Ga. secretary of state, urges him to ‘find’ votes",
-      "excerpt": "In a one-hour phone call on Saturday with Georgia election officials, President Trump insisted he won the state and threatened vague legal consequences if the officials did not act. These are excerpts from the call.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/video/politics/audio-trump-berates-ga-secretary-of-state-urges-him-to-find-votes/2021/01/03/aba64f5f-8c3c-490f-af34-618ccea732d7_video.html",
-      "originalUrl": "https://www.washingtonpost.com/video/politics/audio-trump-berates-ga-secretary-of-state-urges-him-to-find-votes/2021/01/03/aba64f5f-8c3c-490f-af34-618ccea732d7_video.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/01-03-2021/t_7559a1b0b2cc4f258d1c1605bcb3cd2e_name_TRUMPAUDIOv2_thumbnail.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
-          "width": 1484,
-          "height": 834,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-03T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

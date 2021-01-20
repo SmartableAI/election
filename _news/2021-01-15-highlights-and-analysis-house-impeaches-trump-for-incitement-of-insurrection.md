@@ -608,6 +608,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Biden prepares to conjure hope and bear pain for a grieving nation  "
+    excerpt: "Joe Biden's life of resilience in the face of unbearable loss will take on new meaning when he steps up to deliver his inaugural address Wednesday as the nation's 46th President.\n    \n"
+    publishedDateTime: 2021-01-20T11:56:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EkjZTYrAsEw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/biden-inauguration-day-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/biden-inauguration-day-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119174216-04-biden-covid-memorial-0119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Dale: Reflections on four weird years fact checking every word from Donald Trump"
     excerpt: "I had to email the Boy Scouts to find out if the President had invented a nonexistent phone call from the head of the organization. (He had.)\n    \n"
     publishedDateTime: 2021-01-19T15:45:03Z
@@ -1151,6 +1167,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/15/business/00biden-biz-sub/00biden-biz-sub-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden plans 15 executive actions on his first day in office"
+    excerpt: "The incoming administration isn’t waiting to get started. But they also aren’t going quite as far, as fast, as progressives want."
+    publishedDateTime: 2021-01-20T12:50:00Z
+    webUrl: "https://www.politico.com/news/2021/01/21/joe-biden-executive-action-blitz-day-one-460587"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/21/joe-biden-executive-action-blitz-day-one-460587"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/21/joe-biden-executive-action-blitz-day-one-460587"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/35/7d/7eff23694394b98bd83c5fbfefa6/gettyimages-1296569856-c.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Feeling Hopeful as Biden Takes Office"
     excerpt: "Biden Jr. will be sworn in as our 46th president. I am filled with hope and at peace knowing that, whatever the next four years bring, we have as president a wise, caring, gentle and highly qualified leader to take us to a place that felt unreachable just a few months ago."

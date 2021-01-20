@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/tiffany-trump-engaged-michael-boulo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiffany-trump-engaged-michael-boulos-white-house.amp"
 type: article
 quality: 155
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Adam Schiff: Donald Trump Should Never Get Another Intelligence Briefing After He Leaves Office"
+    excerpt: "Rep. Adam Schiff, the chairman of the House Intelligence Committee, said Sunday he doesn't believe President Trump should continue to receive intelligence briefings after he leaves office because he \"can't be trusted\" with secrets."
+    publishedDateTime: 2021-01-18T04:05:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/17/adam_schiff_donald_trump_should_never_get_another_intelligence_briefing_after_he_leaves_office.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 53
+    images:
+      - url: "https://assets.realclear.com/images/51/510971.jpg"
+        width: 500
+        height: 375
+        isCached: true
 
 secured: "ygnSPpk34qmwMg0EA2tzZHI/wN7KnACefODZhT5ZXHtRbt4k0VgBJ1LPSkq6FWgn2YUXY9FgAdBMhWp4sK757cn3aaXwSdFmraBD+N3q0oxiU3boErVqonglPAuAfyaUyh2/1MEqMFzC42U+CwzvTMWgF6bNkkPLymzAPgMNJBn8jsy2vt6CldeF0TXNvb9vdK7CHxssLYg4Ol8czie3yFjCiNnBEjQfcYcoKySx3+lBzFCS3iio8s99upl7VPe75FSfY1FgeC9I3BOAENfpZAh0akG1TXguUtQ/RI+SEx1E2rVATDMeXjAslQPvfqLSbQq6zts2wZ5RhUTGmNGFCotxS9e2WtsKe52HHbRCCp0=;DWPJvHzn/wfeOrNoKdWoxA=="
 ---

@@ -31,53 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Trump speech before Capitol riot not enough for impeachment charges: Turley"
-    excerpt: "Democrats are moving to remove President Trump from office after Wednesday's U.S. Capitol riot, but George Washington University law professor Jonathan Turley said he doesn’t believe Trump committed an impeachable offense."
-    publishedDateTime: 2021-01-10T16:35:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wkUgWCCMLvk/trump-speech-capitol-riot-impeachment-push-turley"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-speech-capitol-riot-impeachment-push-turley.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-speech-capitol-riot-impeachment-push-turley.amp"
+  - title: "Trump frees former aides from ethics pledge, lobbying ban"
+    excerpt: "President Donald Trump, in one of his final acts of office, released current and former members of his administration from the terms of their ethics pledge, which included a five-year ban on lobbying their former agencies."
+    publishedDateTime: 2021-01-20T12:18:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hPUCYolkkh0/trump-frees-former-aides-from-ethics-pledge-lobbying-ban"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-frees-former-aides-from-ethics-pledge-lobbying-ban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-frees-former-aides-from-ethics-pledge-lobbying-ban.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006789526874-1.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb650e5d-a8bf-42e1-8e8e-0b0b00b4217a/002b346a-a157-41c7-bddb-c04b99b77223/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump must be barred from post-presidency intelligence briefings: Schiff"
+    excerpt: "House Intelligence Committee Chairman Rep. Adam Schiff said Sunday that President Trump should be barred from receiving intelligence briefings after he leaves office, an opportunity traditionally extended to former presidents."
+    publishedDateTime: 2021-01-17T18:36:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EThhRLQz3Nw/adam-schiff-trump-intelligence-briefings-sue-gordon"
+    ampWebUrl: "https://www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007270172186.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Republicans blame Trump after his supporters storm Capitol: 'Enough is enough'"
-    excerpt: "Some Republicans placed the blame on President Trump after a group of his supporters besieged the U.S. Capitol building on Wednesday"
-    publishedDateTime: 2021-01-07T18:02:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AkB0z7DI85c/republicans-blame-trump-after-his-supporters-storm-capitol"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-blame-trump-after-his-supporters-storm-capitol.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-blame-trump-after-his-supporters-storm-capitol.amp"
+  - title: "Trump National Garden order includes statues of Whitney Houston, Kobe Bryant, Vince Lombardi, Frank Sinatra"
+    excerpt: "President Trump issued an executive order on Monday in which he listed dozens of \"historically significant\" Americans, including entertainers, founding fathers, religious figures, and others, to be featured in the new National Garden of American Heroes."
+    publishedDateTime: 2021-01-18T20:56:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kj1sQjm-mYE/trump-national-garden-statues"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-national-garden-statues.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-national-garden-statues.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 157
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9ebc064-503d-4207-bc1d-8e5b2960e353/a78ecef5-c9c7-4b9c-8397-2875ff384dbf/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0eb21815-dfa2-4f95-9dad-2105540bb182/e19cf9d1-5067-4540-8aed-09392d9a1413/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Turley: Democrats 'impulse buy' impeachment of Trump would have 'very serious implications'"
-    excerpt: "George Washington University law professor Jonathan Turley said he doesn’t think Democrats should go forward with a \"snap impeachment,\" explaining that the process is supposed be \"deliberative,\" not impulsive. "
-    publishedDateTime: 2021-01-11T15:29:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mpfK-g1g8Gk/democrats-impeachment-trump-impulse-buy-turley"
-    ampWebUrl: "https://www.foxnews.com/politics/democrats-impeachment-trump-impulse-buy-turley.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-impeachment-trump-impulse-buy-turley.amp"
+  - title: "Trump must be barred from post-presidency intelligence briefings: Schiff"
+    excerpt: "House Intelligence Committee Chairman Rep. Adam Schiff said Sunday that President Trump should be barred from receiving intelligence briefings after he leaves office, an opportunity traditionally extended to former presidents."
+    publishedDateTime: 2021-01-17T18:48:00Z
+    webUrl: "https://www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon"
+    ampWebUrl: "https://www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-schiff-trump-intelligence-briefings-sue-gordon.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 134
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab14816a-305f-4d2b-b463-f796e2d1af61/8f02ab6d-4344-4f20-971f-0eb6b554ea4a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007270172186.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Might Trump's Final Revenge Be a Third Party?"
+    excerpt: "Senate Republicans have the opportunity to not only convict Donald Trump of incitement of insurrection, but also punish him with a ban on ever"
+    publishedDateTime: 2021-01-18T11:59:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/18/might_trumps_final_revenge_be_a_third_party_145057.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/18/might_trumps_final_revenge_be_a_third_party_145057.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/18/might_trumps_final_revenge_be_a_third_party_145057.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/532569_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "cus1OXFV0NMy7SdxA9Xuf13aciDd935bJQCccL4H8WHaNKcdqGLMpvJ57l0KpNlB7fwc7y+LB457oQ3wVbi4uhSVLxS/AnfwWe42QKMW4bSlX4zExlAbje4uqt8RbgGxRqjE7OBEudfueOliRDZDnkVyVyifRcJuDO8sklg5OIIp2V4svfb60he0D0nhQXMr0+qDdSVrZMOlPv8CAdw2XQOUuF9o5CM5QIcBvX1DmTsheF2SgzV/fNU4hnLaAnh/g2k/tHLM7bLzK2TRGNJIvPEYZ1JnT37BCRmeZqLQQyTrVYlaEgbi7E2cX1Ak1+Dd8h5NPV9LFgU3fDyAVh00oU+3KFNtbEdsHU+DQbfw/QQ=;ubMh5Q83ZOE9tzy3YH+70Q=="

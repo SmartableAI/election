@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-election-legal-team-takes-vic
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-election-legal-team-takes-victory-lap-praises-help-from-unions-nonprofits.amp"
 type: article
 quality: 185
-heat: 725
+heat: 765
 published: true
 
 provider:
@@ -303,6 +303,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Joe Biden to Be Inaugurated as 46th President Under Tight Security"
+    excerpt: "The midday ceremony in Washington, D.C., will lack much of the customary pomp and circumstance due to the coronavirus pandemic and Trump supporters’ Jan. 6 riot at the Capitol."
+    publishedDateTime: 2021-01-20T09:30:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-presidential-inauguration-2021-11611095413"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-presidential-inauguration-2021-11611095413"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-presidential-inauguration-2021-11611095413"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-287579/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden: 'Not afraid' to take oath outside amid inauguration security concerns"
     excerpt: "President-elect Joe Biden says he’s “not afraid” to take the oath of office outside during his inauguration next week."
     publishedDateTime: 2021-01-11T20:32:00Z
@@ -412,6 +428,22 @@ related:
       - url: "https://assets.realclear.com/images/53/531962_5_.jpg"
         width: 750
         height: 501
+        isCached: true
+  - title: "Republicans Block Swift Approval of Biden's DHS Pick"
+    excerpt: "It was a revealing moment in an otherwise predictable show of vague deflections that has become the kind of performance art required for Cabinet nominees"
+    publishedDateTime: 2021-01-20T12:31:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/20/republicans_block_swift_approval_of_bidens_dhs_pick__145075.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/20/republicans_block_swift_approval_of_bidens_dhs_pick__145075.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/20/republicans_block_swift_approval_of_bidens_dhs_pick__145075.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/532831_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Rahm Emanuel: Biden Has Four Unprecedented Crises, Four Unprecedented Opportunities"
     excerpt: "Former Chicago mayor and former Obama chief of staff Rahm Emanuel comments on the opportunities presented to the Biden administration in the wake of four unprecedented crises, during ABC's \"This Week\" roundtable on."

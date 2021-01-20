@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: The powerful duality of Kamala Harris' ascent"
+    excerpt: "Two weeks after a deadly insurrection put on display the White outrage that threatens the country's multiracial democracy, a dramatically different scene will unfold at the US Capitol.\n    \n"
+    publishedDateTime: 2021-01-20T12:13:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HCxOsakaf04/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/kamala-harris-inauguration-racial-justice-white-supremacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/kamala-harris-inauguration-racial-justice-white-supremacy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200819234140-kamala-harris-dnc-august-19-2020-07-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump, pressured into video concession, faces uncertain final stretch"
     excerpt: "President Donald Trump's top aides delivered a blunt warning to him Thursday as he sat sullenly in the West Wing and watched as his Republican allies, Cabinet secretaries and former senior staffers criticized or denounced him one by one.\n    \n"
     publishedDateTime: 2021-01-08T14:12:16Z
@@ -1020,6 +1036,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Kamala Harris's ancestral home celebrates with firecrackers, food handouts"
+    excerpt: "Villagers in Thulasendrapuram, hometown of Kamala Harris's Indian grandfather, were delighted by the vice president's inauguration and wished her well."
+    publishedDateTime: 2021-01-20T12:03:00Z
+    webUrl: "https://www.nbcnews.com/video/kamala-harris-s-ancestral-home-celebrates-with-firecrackers-food-handouts-99714629936"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99714629936"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99714629936"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202101/India_Kamala.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "House Calls on Pence to Remove Trump From Power"
     excerpt: "The House of Representatives voted, 223 to 205, on Tuesday night to call on Vice President Mike Pence to invoke the 25th Amendment to strip President Trump of his powers for inciting a mob to attack the Capitol."
     publishedDateTime: 2021-01-13T05:31:00Z
@@ -1204,6 +1236,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "fGvN6ilb3og5E+1zzXapp95cTchEg1akYDnX1ao5toUs14IzPQlISHmJz2t42Wjbxuy3h7FP31Ty3wG0QiZPmAbJC/2tMsByt21hCI6mLe+SPzL7Y8I37mdz13yW/hNjZipxhS21jpQhXwAOe0sGPBHI6YBLKFwQtDBBbwrSXlR5YuiO8t/iv1CmJ0bc8dq1fQVjvXGdc33sFJsXvThR+Ho/zcearoRs4u8plxhS5qXWx6+zTSvXiHm5+NxGrVWfRkeArLUAoN7Fw5dNwsf9zGvQORMi1syno/MAyQpp+7TAEy+SpGJ71CAXZY0WxVDc9ifZUAUEcsUFA5e3GAJyRqyu6kaYVxkt+2NBa60TbEY=;s7XQ5sdcxxcD9WLXQ+BSbg=="
+secured: "cpZ8nzLAATTWtCEYS2QwmO2RiXxggb5ikZerGs3QTM3FD9OO1KRd/ZPO4ssfkT5w5wdM8g7X7EJWmCf5Y6EQY7b3fyHBOZtrT+qTLd3XbE8cyEoKDUGUxrpL8nTv+/1HldO/bTVNykEEtZkUg5LXuFd3GjZ0U+FUEFB0LXmunHg0FHbnx4n5PGhG/7Ip5VmF80Hxx7go49SLhKjt5CEhzutvs8jSxQCuN6hJwp8TCwptTaONowrhlc+mi/jOLpSQM+uT6rgu3S2GbRJwoynbmqYX2JSG3Q+DWj0s5MBn/xV7Do1ShNB6QbK1nFwPFYDhKW0fWhFOwfb/IjVIXf+3HjEyDYCnvYnPe6wtYZYiaJjw6IcfDSJ+xZcriJMNZ8dScihMNsxzu8IyVAAS7aW2rULKWHBluwM4okGDrVu+yXEjLAEFqgtdOg+iHamlf9xw15X1fWDA42WHwYsnPkchaP8PZ9LUU0Sr8c51CRI9kRrNId9VmeaXCxNyb6LNlPRXatLA4xwLH/MPAw095WuTxw==;ZugcZb4/01YBPogXhNnFow=="
 ---
 
