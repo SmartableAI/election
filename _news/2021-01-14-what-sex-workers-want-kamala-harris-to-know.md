@@ -1366,6 +1366,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris Arrives Outside the White House"
+    excerpt: "Kamala Harris Arrives Outside the White House Vice President Kamala Harris walked to the White House following a visit to Arlington National Cemetery. Advertisement 1:37 NOW PLAYING 3:44 Advertisement"
+    publishedDateTime: 2021-01-20T21:46:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007561977/kamala-walk-parade-route-white-house.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/20/us/20inauguration-live-blog-kamala-walk/20inauguration-live-blog-kamala-walk-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Is It Curtains for Donald Trump?"
     excerpt: "He’s about to metamorphose from world’s most powerful human to financially and legally challenged pariah. His only ally? The mob."
     publishedDateTime: 2021-01-15T16:45:00Z

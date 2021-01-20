@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump lays last-minute land mines for Biden on immigration: 'Anything to make it difficult'"
+    excerpt: "The Trump administration rushed to push through possible legal land mines to make President Joe Biden's goal of immigration reform more difficult\n    \n"
+    publishedDateTime: 2021-01-20T20:17:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aGTg4dIFKeA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/immigration-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/immigration-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170127205253-trump-executive-orders-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's impeachment trial looms as Congress prepares for the arrival of the Biden administration"
     excerpt: "There are just days to go until President-elect Joe Biden is sworn in, Donald Trump is no longer President and Democrats take control of the US Senate, but rank-and-file members on Capitol Hill are still waiting for signals from leadership about what the first month of Biden's presidency will look like.\n"
     publishedDateTime: 2021-01-18T13:21:25Z
@@ -637,6 +653,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119152918-01-hawley-dec2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden names acting agency heads as his Cabinet nominees remain unconfirmed"
+    excerpt: "President Joe Biden on Wednesday announced a slate of acting agency heads after taking office without a single one of his Cabinet nominees in place and confirmed by the US Senate.\n    \n"
+    publishedDateTime: 2021-01-20T21:47:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AjaS2I8tPEI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/biden-acting-agency-heads/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/biden-acting-agency-heads/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120155118-04-biden-parade-waving-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1311,6 +1343,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/20/us/politics/20Biden-profile-top/20Biden-profile-top-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Stocks in record territory on Joe Biden's first day as president"
+    excerpt: "US stock futures are higher ahead of the inauguration of Joe Biden and a number of corporate earnings reports. The Dow gained 72 points, 0.2%. The S&P 500 is 0.4% higher. On Tuesday, stocks closed higher on the last trading day of the Trump administration but fell short of reaching new record highs."
+    publishedDateTime: 2021-01-20T20:45:00Z
+    webUrl: "https://www.cnn.com/business/live-news/stock-market-news-012021/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/business/live-news/stock-market-news-012021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/business/live-news/stock-market-news-012021/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/32b06dc7-3d69-430b-9f6e-a18487aadf7e.jpg"
+        width: 900
+        height: 506
         isCached: true
   - title: "Biden will halt federal executions, other actions on first day in office"
     excerpt: "The president-elect has a long list of executive actions he plans to take as soon as he's sworn in on Jan. 20."

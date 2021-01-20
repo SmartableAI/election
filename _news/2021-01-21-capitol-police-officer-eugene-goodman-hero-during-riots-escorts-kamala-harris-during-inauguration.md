@@ -144,6 +144,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Her ‘secret weapon’: Sorority of Kamala Harris names Inauguration Day in her honor for breaking barriers"
+    excerpt: "As Vice President Kamala Harris broke the barrier at the top ranks of American power lasting more than two centuries on Wednesday, her college sorority named the day in her honor."
+    publishedDateTime: 2021-01-20T21:36:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a6aw7hxzXeM/her-secret-weapon-sorority-of-kamala-harris-names-inauguration-day-in-her-honor-for-breaking-barriers"
+    ampWebUrl: "https://www.foxnews.com/politics/her-secret-weapon-sorority-of-kamala-harris-names-inauguration-day-in-her-honor-for-breaking-barriers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/her-secret-weapon-sorority-of-kamala-harris-names-inauguration-day-in-her-honor-for-breaking-barriers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Black Women Ready to Virtually Cheer On Kamala Harris’s Inauguration"
     excerpt: "President-elect Joe Biden and Ms. Harris will be sworn into office during a scaled-back inauguration in a heavily fortified Washington."
     publishedDateTime: 2021-01-17T14:00:00Z

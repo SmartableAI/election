@@ -858,6 +858,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "On Day One, newly sworn-in President Joe Biden to undo Trump policies on climate, coronavirus"
+    excerpt: "President Joe Biden will move swiftly to dismantle Donald Trump's legacy on his first day in office, signing a series of executive actions that reverse course on"
+    publishedDateTime: 2021-01-20T22:18:00Z
+    webUrl: "https://www.nola.com/article_789132b8-5b6d-11eb-913d-231e8d81ecfb.html"
+    ampWebUrl: "https://www.nola.com/article_789132b8-5b6d-11eb-913d-231e8d81ecfb.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/article_789132b8-5b6d-11eb-913d-231e8d81ecfb.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 79
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/2/6d/26dd93ac-5b6e-11eb-ad4c-1bf40399108d/6008ad7f9fc8c.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "U.S. House impeaches President Donald Trump for second time"
     excerpt: "During debate on the articles of impeachment, House Speaker Nancy Pelosi asked Republicans and Democrats to “search their souls” ahead of the historic afternoon vote."
     publishedDateTime: 2021-01-13T19:25:00Z

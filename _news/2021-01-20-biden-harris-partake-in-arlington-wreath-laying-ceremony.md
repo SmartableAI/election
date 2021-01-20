@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-arlington-wreath-layin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-arlington-wreath-laying-ceremony.amp"
 type: article
 quality: 200
-heat: 420
+heat: 440
 published: true
 
 provider:
@@ -128,6 +128,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Her ‘secret weapon’: Sorority of Kamala Harris names Inauguration Day in her honor for breaking barriers"
+    excerpt: "As Vice President Kamala Harris broke the barrier at the top ranks of American power lasting more than two centuries on Wednesday, her college sorority named the day in her honor."
+    publishedDateTime: 2021-01-20T21:36:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a6aw7hxzXeM/her-secret-weapon-sorority-of-kamala-harris-names-inauguration-day-in-her-honor-for-breaking-barriers"
+    ampWebUrl: "https://www.foxnews.com/politics/her-secret-weapon-sorority-of-kamala-harris-names-inauguration-day-in-her-honor-for-breaking-barriers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/her-secret-weapon-sorority-of-kamala-harris-names-inauguration-day-in-her-honor-for-breaking-barriers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Black Women Ready to Virtually Cheer On Kamala Harris’s Inauguration"
     excerpt: "President-elect Joe Biden and Ms. Harris will be sworn into office during a scaled-back inauguration in a heavily fortified Washington."
     publishedDateTime: 2021-01-17T14:00:00Z
@@ -209,6 +225,6 @@ related:
         height: 340
         isCached: true
 
-secured: "VNROzCdPcQjyeWvNLZvYuuLbgEexgMG5qpfTKEM9fN9tjPplnc74k+lWpX6BN5ItUAvDivuEEZ4mutgkJN5bxtSOxXsGjUksRIsWvR2DNBa2ZuXgp5smYBO3JBOu4H2wjjaQ4ygPUOMg+K3L0OIq1+kj88wgJoPsZHUNeo5tCylgMi/tANXq6HQIBJ/3UK0fYIbKiY4AJPd6JJOkTBUsP+5sYfn49An1DuEoxHalbtxlED+B8hXZpKiechGRfPKJyQvtdpVdso1H3IN2pXXivI5fNaAM/pIwxuIXAODu2CBSSUhivU65VTHACXnxNAWMyqGpWold6Wjw0VQWWdpYrGQQNxq3jcJYVIvM1ysCJ+k=;8s+zOooESwWLEKjt+LO4GA=="
+secured: "HB+tRKSKv991mLZOglGo8NqNwvFC2cqwwLFtz3kda3hTdXV4fPLaD85Vs6SouArbb3/ZKuA/qeHQSJOZGjVTGCSzeam8DzRhbFhsmSHbuLHv9ywYPcu8QcI9SODLMTj/FBg3vUcju18Llt2vI/Gi6qOQ4ofCJtRZEZOEwLnNLVu8L3HauqmPxwriKWyHhOcBte/2GWeFXmAtI+smZjXVxdTlv3BjVEvc4uanzo/ugAcxRiHOfnbAlH0URp3FXdPIUgWcwVpK5kPbCekps+w5iXO4IsPkfV6t71MxMFb9kdCR83jXuN9CZvR5uBntYLexFETCagLgBawkbHFYCT2knOuMZtKv1010Ac8TytSogDI=;1/hTXdDyoa8/3QBe4z9EKA=="
 ---
 

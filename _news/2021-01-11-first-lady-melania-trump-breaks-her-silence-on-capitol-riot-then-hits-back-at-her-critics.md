@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: True to form, Trump makes multiple false claims in his final comments in office"
+    excerpt: "President Donald Trump made false claims from the first hours of his term to the last.\n    \n"
+    publishedDateTime: 2021-01-20T22:09:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HehMuRtcXiw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/fact-check-trump-final-video-speech-inauguration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/fact-check-trump-final-video-speech-inauguration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120134639-18-biden-inauguration-trump-jba-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Angry staffer appears to be behind State Department website edits saying Trump's term is over"
     excerpt: "A disgruntled State Department employee appears to have been behind bizarre changes to the department website Monday that stated that President Donald Trump and Vice President Mike Pence's terms were over, two sources told CNN.\n    \n"
     publishedDateTime: 2021-01-11T23:44:32Z

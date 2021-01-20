@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: True to form, Trump makes multiple false claims in his final comments in office"
+    excerpt: "President Donald Trump made false claims from the first hours of his term to the last.\n    \n"
+    publishedDateTime: 2021-01-20T22:09:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HehMuRtcXiw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/fact-check-trump-final-video-speech-inauguration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/fact-check-trump-final-video-speech-inauguration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120134639-18-biden-inauguration-trump-jba-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Atlanta Prosecutor Appears to Move Closer to Trump Inquiry"
     excerpt: "The Fulton County district attorney is weighing an inquiry into possible election interference and is said to be considering hiring an outside counsel."
     publishedDateTime: 2021-01-16T00:22:00Z

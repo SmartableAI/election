@@ -63,6 +63,22 @@ related:
         width: 600
         height: 408
         isCached: true
+  - title: "Trump's pardon blitz keeps ex-Google exec out of prison"
+    excerpt: "A long-running Silicon Valley soap opera has taken an unexpected twist after outgoing President Donald Trump pardoned a former Google engineer"
+    publishedDateTime: 2021-01-20T22:19:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/pardon-google-engineer-stole-trade-secrets-75367252"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/pardon-google-engineer-stole-trade-secrets-75367252"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/pardon-google-engineer-stole-trade-secrets-75367252"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f0b7e103bbfc43e2bf6ac09b3c857162_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "New York City to consider ending contracts with Trump that bring his company $17 million a year"
     excerpt: "The city of New York said Monday that it was “reviewing whether legal grounds exist” to terminate its business relationships with President Trump, whose company has contracts to run a carousel, two ice rinks and a golf course in city parks."
     publishedDateTime: 2021-01-12T06:51:00Z

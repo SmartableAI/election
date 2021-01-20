@@ -1355,6 +1355,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris Arrives Outside the White House"
+    excerpt: "Kamala Harris Arrives Outside the White House Vice President Kamala Harris walked to the White House following a visit to Arlington National Cemetery. Advertisement 1:37 NOW PLAYING 3:44 Advertisement"
+    publishedDateTime: 2021-01-20T21:46:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007561977/kamala-walk-parade-route-white-house.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/20/us/20inauguration-live-blog-kamala-walk/20inauguration-live-blog-kamala-walk-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "What Sex Workers Want Kamala Harris to Know"
     excerpt: "I wish it was anyone else but Kamala Harris,” said Alex Andrews, cofounder of Sex Workers Outreach Project (SWOP) and SWOP Behind Bars. Andrews and other objected to the “torture” Harris put sex workers through when she was district attorney of San Francisco and attorney general of California."
     publishedDateTime: 2021-01-14T10:04:00Z
@@ -1397,6 +1411,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "d9VMOHqcGFYiuY9UTMrsr65372F5UYXpfrGanCf7BFww0Y2ZRRWUMTprsklpw44Hpj0a0p7fYA7CWlaW20O2I5zVJJ/XrhK1qIQwUp9hS5dUVDnmPKoJQu+IQ5vZni5yMPZnroYbcvT5FB5jpE4yTHW30XPOmSmUMpzKL1po1LA5NYhEJV0e/Acj5g51Mp/zI1rET+LjmzmETCdv5CUwAhr1TihJPbuD/mMOsG5s/0mjc42DmIasUrwXsSM4TJnyuH7fH6dPqMB2gi0np+5ZNXnoTgS1pq2T431XokTJdKf3OEjKiavTotcrWs5zi9BToeOG61bbL9SMCacwHUfw/DG8W/tncir+jZSF3yCgKTw=;Fgwik5SQV+Nb2YXd7HNBzA=="
+secured: "xkqWa+2CHD3DUcu/B8Zj10a/wqeZkC/Q4Dqls8D0v5UcJQgpdmSYis7pcMBEybPUl4D3yRPAqY5M77OG23awUXaPLUCkZrpyYvaxYPkpRo6ZXKjFsO5BxZLdG8tKTJk+ONw1snt5zkzi8qLq86YSVne1NrQmIq/dQbgRpLUPI4a9N1VCs5cr8R/85zCcaAGfd507pI1W/2BOanSEaaLfiSHo3i4tiNKaA+qZPEL/NLxkbMCURk86vM6zUW8TwtPZfxnqlyu6z3yw3n+BYnIus+vB8+TiJE5rdSXWENiFRrkJoAgCSgxl+8LRizFca8HBHuokTD/0zhUlEToBiRa5bZV8M2xO1rIVJgU79bNZdu1DZjorbHGwz3vOW+qps/apgpU8AbVezC6hL4lqrqtnE7Ikpmm6pCNetrR/tVvCIo3h58uapSlNnpttu3Pe6Fw7SDYg+xt9PDWVbIDPaCKO4tMs3ItGIJv5z9HzWtZ32TA34zrh9EGqvoQRSyfleULcB+kRtXMJHBQ6l0yqwuz+cg==;CVQl78+a4YvvSz6GFIFEFw=="
 ---
 

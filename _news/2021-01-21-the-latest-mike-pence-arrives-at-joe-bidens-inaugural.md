@@ -692,6 +692,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Joe Biden, Kamala Harris take oaths of office as president, vice president"
+    excerpt: "Vice President Kamala Harris bumps fists with Joe Biden at the U.S. Capitol on Wednesday just before his inauguration as the 46th president of the United States. Biden called for unity in his inaugural speech."
+    publishedDateTime: 2021-01-20T22:35:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/kidspost/joe-biden-kamala-harris-take-oaths-of-office-as-president-vice-president/2021/01/20/c5dd91ec-516d-11eb-bda4-615aaefd0555_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/kidspost/joe-biden-kamala-harris-take-oaths-of-office-as-president-vice-president/2021/01/20/c5dd91ec-516d-11eb-bda4-615aaefd0555_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/kidspost/joe-biden-kamala-harris-take-oaths-of-office-as-president-vice-president/2021/01/20/c5dd91ec-516d-11eb-bda4-615aaefd0555_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 138
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BVMI7GS3NYI6XC6PHB3YOHEBTU.jpg&w=1440"
+        width: 1440
+        height: 1043
+        isCached: true
   - title: "U.S. Senate leader McConnell acknowledges Biden victory; laments Trump defeat"
     excerpt: "U.S. Senate Majority Leader Mitch McConnell, a Republican, on Tuesday congratulated Democratic President-elect Joe Biden and Vice President-elect Kamala Harris on their Nov. 3 election victories, ending his long silence on the outcome of the presidential race."
     publishedDateTime: 2020-12-16T00:16:00Z
@@ -1531,6 +1547,20 @@ related:
       - url: "https://i.insider.com/5fd286912dc42e0018f0e471?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Photographs From the Inauguration Of Joe Biden and Kamala Harris"
+    excerpt: "Jan. 20 began on a much more somber note than Joe Biden could have predicted for the day he would finally become President of"
+    publishedDateTime: 2021-01-20T22:02:00Z
+    webUrl: "https://time.com/5930876/joe-biden-inauguration-photos/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 120
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/01/biden-inauguration-photos-swear-in-2.jpg"
+        width: 2400
+        height: 1665
         isCached: true
   - title: "Biden's son faces investigation over taxes as Trump joins Texas lawsuit that aims to overturn election"
     excerpt: "President-elect Joe Biden's son Hunter Biden is facing a federal investigation into his tax records. Meanwhile, President Trump is focusing on overturning the election, joining a lawsuit brought to the Supreme Court by Texas' attorney general that seeks to invalidate ballots from four battleground states won by the president-elect."

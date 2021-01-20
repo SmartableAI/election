@@ -554,6 +554,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Hundreds of publishing professionals demand ban on book deals for Trump officials"
+    excerpt: "A long list of authors and other publishing professionals are calling on their industry to effectively refuse book deals with anyone who worked in former President Trump's administration."
+    publishedDateTime: 2021-01-20T21:01:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6PHf-y2EUO4/publishing-professionals-black-list-trump-officials"
+    ampWebUrl: "https://www.foxnews.com/politics/publishing-professionals-black-list-trump-officials.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/publishing-professionals-black-list-trump-officials.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/17e542b6-12a2-4ee1-88ce-712d85fc764d/1ec94b4b-65d7-4f0b-8d49-31ff5e684416/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Alaska Sen. Lisa Murkowski calls on Trump to resign, questions her future with GOP"
     excerpt: "Alaska Sen. Lisa Murkowski, R, called on President Trump to resign Friday, and questioned her future within the Republican Party. "
     publishedDateTime: 2021-01-08T23:47:30Z

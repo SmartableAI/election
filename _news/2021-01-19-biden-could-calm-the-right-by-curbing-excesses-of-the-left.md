@@ -228,6 +228,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden to reengage with WHO after Trump cut ties over COVID and China"
+    excerpt: "President Biden on Thursday will move to re-engage with the World Health Organization -- reversing President Donald Trump’s withdrawal from the controversial U.N. body over its handling of the early days of the COVID-19 crisis."
+    publishedDateTime: 2021-01-20T21:23:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YEhyUD67uQg/biden-re-engage-who-after-icy-relations-with-trumps"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-re-engage-who-after-icy-relations-with-trumps.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-re-engage-who-after-icy-relations-with-trumps.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ccfab735-2c57-4cbc-b356-36726b0608e3/1a0a632c-1643-459d-8101-013644ab4517/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden to rescind Trump's '1776 Commission'"
     excerpt: "President-elect Joe Biden's administration will rescind on his first day in office President Trump's \"1776 Commission,\" an educational initiative designed to teach U.S. history from a patriotic perspective."
     publishedDateTime: 2021-01-20T16:17:01Z
@@ -804,6 +820,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden names interim agency heads amid delay in Cabinet confirmations"
+    excerpt: "President Biden unveiled a list of officials on Wednesday who will serve as the interim heads of government agencies in the early days of his administration."
+    publishedDateTime: 2021-01-20T21:47:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kULfbOnuBLk/biden-names-interim-agency-heads-amid-delay-in-cabinet-confirmations"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-names-interim-agency-heads-amid-delay-in-cabinet-confirmations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-names-interim-agency-heads-amid-delay-in-cabinet-confirmations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da0e144e-25cd-4244-a852-97bbef851693/e3b7c67a-7afb-49ef-a3ab-16688a130365/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden to mandate mask-wearing on federal land in executive order"
     excerpt: "President Biden was sworn into office Wednesday, and one of his first priorities will be to sign an executive order urging Americans to wear masks for 100 days and requiring them on federal property. "
     publishedDateTime: 2021-01-20T18:33:11Z
@@ -865,6 +897,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21366233-2c30-4d81-99cc-b759730ba76c/7071c341-a5a5-4572-8b49-4d8d34358703/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Lone man seen kneeling at Beau Biden’s grave during inauguration"
+    excerpt: "A lone man in uniform knelt at the grave of Beau Biden in Delaware on Wednesday — as Joe Biden was being sworn in as the 46th president."
+    publishedDateTime: 2021-01-20T21:44:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1DzcuAJEeKQ/lone-man-seen-kneeling-at-beau-bidens-grave-during-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/lone-man-seen-kneeling-at-beau-bidens-grave-during-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lone-man-seen-kneeling-at-beau-bidens-grave-during-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
         isCached: true

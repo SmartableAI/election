@@ -95,6 +95,22 @@ related:
         width: 1440
         height: 1166
         isCached: true
+  - title: "Newsmaker: Joe Biden assumes leadership of a U.S. in crisis after Trump years"
+    excerpt: "For Joe Biden, becoming president of the United States was the realization of a decades-long quest, with two previous failed bids. His goal now is, as he has put it, restoring \"the soul of America\" after four years of Donald Trump's presidency."
+    publishedDateTime: 2021-01-20T21:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-profile-newsmaker-idUSKBN29P2AL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P2AL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P2AL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548468187&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J19D"
+        width: 790
+        height: 545
+        isCached: true
   - title: "Biden inauguration: Donald Trump's last full day as US president – live updates"
     excerpt: "President expected to issue 100 pardons as Covid cases reach 24 million – follow all the latest news on Trump’s final full day"
     publishedDateTime: 2021-01-19T13:39:00Z
@@ -735,6 +751,38 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "U.S. President Joe Biden's inaugural address"
+    excerpt: "Following is the inauguration speech as prepared for delivery by Democrat Joe Biden, who was sworn in as president of the United States on Wednesday:"
+    publishedDateTime: 2021-01-20T19:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-text-idUSKBN29P2MX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P2MX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P2MX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548486506&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J1IA"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "World leaders react to Joe Biden's inauguration"
+    excerpt: "World leaders are beginning to react to a “new dawn” in U.S. politics ahead of Joe Biden’s inauguration as the 46th President of the United States at the Capitol in Washington, D.C. today. Historic allies in the EU and the U."
+    publishedDateTime: 2021-01-20T19:25:00Z
+    webUrl: "https://abcnews.go.com/International/european-leaders-uk-russia-react-president-elect-joe/story?id=75365270"
+    ampWebUrl: "https://abcnews.go.com/amp/International/european-leaders-uk-russia-react-president-elect-joe/story?id=75365270"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/european-leaders-uk-russia-react-president-elect-joe/story?id=75365270"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/inauguration-internatio_hpMain_20210120-072034_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden must find words for a wounded nation in inauguration like no other"
     excerpt: "Planners have been forced to be inventive after the deadly pandemic and now last week’s Capitol insurrection dictated a pared-down event"
     publishedDateTime: 2021-01-16T07:00:00Z
@@ -862,6 +910,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLLTILSYG4I6XLGFSLJIDGQ4ZM.jpg&w=1440"
         width: 1440
         height: 956
+        isCached: true
+  - title: "YouTube extended Donald Trump's ban for at least 7 more days amid fears of violence at Joe Biden's inauguration"
+    excerpt: "The video-sharing giant pointed to ongoing 'concerns about the ongoing potential for violence.'"
+    publishedDateTime: 2021-01-20T21:32:00Z
+    webUrl: "https://www.businessinsider.com/youtube-extends-trump-ban-ahead-of-biden-inauguration-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/youtube-extends-trump-ban-ahead-of-biden-inauguration-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/youtube-extends-trump-ban-ahead-of-biden-inauguration-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5ff82f7cd184b30018aadb2b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Live Updates: Biden pauses to honor King as preparations continue for inauguration"
     excerpt: "Washington — President-elect Joe Biden and incoming first lady Jill Biden are honoring the life of Dr. Martin Luther King, Jr., on Monday, two days before Mr. Biden is sworn-in as president of the United States. The Bidens are recognizing the federal ..."
@@ -1318,6 +1382,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Joe Biden sworn in as 46th US president – video"
+    excerpt: "Joe Biden has been sworn in as the 46th US president at the US Capitol in Washington"
+    publishedDateTime: 2021-01-20T18:52:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/20/joe-biden-sworn-in-as-46th-us-president-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/d9c89f5e1c60ab6ff49a9b36c2f450e4cf8922ad/0_138_4868_2920/master/4868.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=314b917a7519e34801aed61aadce4ce0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden sworn in as 46th U.S. President"
     excerpt: "Top News Joe Biden sworn in as 46th U.S. President. Posted . Democrat Joe Biden was sworn in as president of the United States on Wednesday, assuming the helm of a country reeling"
     publishedDateTime: 2021-01-20T18:16:00Z
@@ -1920,6 +1998,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6WS2WVUGQNAERENUMFMGGQAGMU.jpg"
         width: 4032
         height: 3024
+        isCached: true
+  - title: "Joe Biden’s inauguration in extraordinary times, fact-checked"
+    excerpt: "It was an inauguration like none before, squeezed between massive security and a pandemic that has killed over 400,000 Americans. Instead of crowds, a sea of American and state flags filled the National Mall in Washington."
+    publishedDateTime: 2021-01-20T21:31:00Z
+    webUrl: "https://www.politifact.com/article/2021/jan/20/joe-bidens-inauguration-extraordinary-times-fact-c/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/photos/Suffragist_Wilson_2.jpg"
+        width: 795
+        height: 524
         isCached: true
   - title: "Watch live: Joe Biden presidential inauguration"
     excerpt: "Joe Biden will be sworn in as the 46th president of the United States at noon ET on Wednesday."

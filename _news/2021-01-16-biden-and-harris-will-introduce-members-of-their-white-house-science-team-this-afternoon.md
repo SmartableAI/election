@@ -1355,6 +1355,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris Arrives Outside the White House"
+    excerpt: "Kamala Harris Arrives Outside the White House Vice President Kamala Harris walked to the White House following a visit to Arlington National Cemetery. Advertisement 1:37 NOW PLAYING 3:44 Advertisement"
+    publishedDateTime: 2021-01-20T21:46:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007561977/kamala-walk-parade-route-white-house.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/20/us/20inauguration-live-blog-kamala-walk/20inauguration-live-blog-kamala-walk-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "What Sex Workers Want Kamala Harris to Know"
     excerpt: "I wish it was anyone else but Kamala Harris,” said Alex Andrews, cofounder of Sex Workers Outreach Project (SWOP) and SWOP Behind Bars. Andrews and other objected to the “torture” Harris put sex workers through when she was district attorney of San Francisco and attorney general of California."
     publishedDateTime: 2021-01-14T10:04:00Z

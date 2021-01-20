@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump's pardon blitz keeps ex-Google exec out of prison"
+    excerpt: "A long-running Silicon Valley soap opera has taken an unexpected twist after outgoing President Donald Trump pardoned a former Google engineer"
+    publishedDateTime: 2021-01-20T22:19:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/pardon-google-engineer-stole-trade-secrets-75367252"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/pardon-google-engineer-stole-trade-secrets-75367252"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/pardon-google-engineer-stole-trade-secrets-75367252"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f0b7e103bbfc43e2bf6ac09b3c857162_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "As Trump leaves office, South Florida is poised to become his new ‘MAGA’ capital"
     excerpt: "Everyone’s leaving. They’re moving to Florida,\" President Donald Trump says. South Florida is poised to become Trump's new MAGA capital after he leaves the White House."
     publishedDateTime: 2020-12-26T16:28:00Z

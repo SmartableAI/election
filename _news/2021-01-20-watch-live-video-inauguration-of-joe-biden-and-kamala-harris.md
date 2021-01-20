@@ -715,6 +715,22 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "Inauguration Day live updates: Joe Biden sworn in as 46th president, Kamala Harris as first female vice president"
+    excerpt: "Joe Biden is inaugurated hours after his predecessor leaves the White House, clearing the way for a beleaguered nation to turn the page on one of the most divisive chapters in its political history."
+    publishedDateTime: 2021-01-20T22:42:00Z
+    webUrl: "https://www.latimes.com/politics/liveblog/2021-biden-inauguration-day-live-updates"
+    ampWebUrl: "https://www.latimes.com/politics/liveblog/2021-biden-inauguration-day-live-updates?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/liveblog/2021-biden-inauguration-day-live-updates?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 119
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e0ec54e/2147483647/strip/true/crop/2501x1667+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F08%2F60%2F0760cc914d29aafc74be8add546f%2Finauguration-promo-images-13.jpg"
+        width: 840
+        height: 560
+        isCached: true
   - title: "Trump wishes new administration 'success' as Pence reveals he will skip outgoing president's farewell event – live"
     excerpt: "White House releases Trump farewell address amid preparations for Biden inauguration – follow live"
     publishedDateTime: 2021-01-19T20:31:00Z
@@ -1245,6 +1261,20 @@ related:
         width: 1024
         height: 710
         isCached: true
+  - title: "Kamala Harris presides over Senate and administers oath of office to three Democrats"
+    excerpt: "Vice President Kamala Harris drew applause when she returned to the Senate hours after taking the oath of office. Harris presided over the chamber and administered the oath of office to her replacement in Senate,"
+    publishedDateTime: 2021-01-20T22:32:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-presides-over-senate-and-administers-oath-of-office-to-three-democrats/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 98
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/20/90491562-a93d-4b54-abd7-32f791e353ed/thumbnail/1200x630/d9984ccf62671cc68b05278b07160df6/cbsn-fusion-kamala-harris-presides-over-senate-and-administers-oath-of-office-to-three-democrats-thumbnail-630155-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Thousands of National Guard members deployed in Washington ahead of Biden inauguration"
     excerpt: "Thousands of National Guard's were deployed to Washington on January 12, ahead of the inauguration of Joe Biden in the wake of the Capitol riots."
     publishedDateTime: 2021-01-13T15:04:00Z
@@ -1414,6 +1444,22 @@ related:
       - url: "https://www.dailypress.com/resizer/Z3qJoKYgp7I25-Bfj9OgWDYkWb8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7RFR7OAVVHIHHAVMBLL7YTF44.jpg"
         width: 1200
         height: 898
+        isCached: true
+  - title: "California politicians offer well wishes for inauguration of Joe Biden and Kamala Harris"
+    excerpt: "As Joe Biden was sworn in Wednesday as the 46th president of the United States and California’s Kamala Harris made history as the first woman and first woman of color to become vice president, politicians from across California offered their well-wishes and thoughts."
+    publishedDateTime: 2021-01-20T20:10:00Z
+    webUrl: "https://www.sacbee.com/news/california/article248638100.html"
+    ampWebUrl: "https://amp.sacbee.com/news/california/article248638100.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article248638100.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 81
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/d95094a7-4b24-43e1-b6f5-554116989871/af889aa5-fc98-40fd-b2d6-47bbb37ff3a4/1280x720/match/image.jpg"
+        width: 1080
+        height: 720
         isCached: true
   - title: "Where Is Trump? During Biden Inauguration, Former President Took A Low Profile In Florida"
     excerpt: "Donald Trump starts new post-presidential life in Florida, arriving to signs of a bit of trouble but general support."
@@ -2126,6 +2172,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/12596166-30c8-46df-82b2-337deadffdf6-USP_News-Inauguration__Biden_Harris_Inauguration.jpg?auto=webp&crop=2834,1595,x0,y193&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Warriors post inspiring video celebrating Oakland native Kamala Harris ahead of Inauguration"
+    excerpt: "The Golden State Warriors honored Harris in a video the team account posted on Twitter on Wednesday. The video features a young girl, Stella, from Oakland. “I like that Kamala is from Oakland, too,” Stella says."
+    publishedDateTime: 2021-01-20T22:12:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/20/warriors-post-inspiring-video-celebrating-oakland-native-kamala-harris-ahead-of-inauguration/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/20/warriors-post-inspiring-video-celebrating-oakland-native-kamala-harris-ahead-of-inauguration/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/20/warriors-post-inspiring-video-celebrating-oakland-native-kamala-harris-ahead-of-inauguration/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 64
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/hypatia-h_b4c4004e4b0055dc58e440bfd2a392ef-h_82beb05c66e5b687c55d48020bcb0ebb.jpg?w=1024&h=726"
+        width: 1024
+        height: 726
         isCached: true
   - title: "Martin Luther King Jr. Day, COVID-19 pandemic, Kamala Harris: 5 things you need to know Monday"
     excerpt: "Martin Luther King Jr.'s words resonate, decades later. Across the nation, scores of marches, parades and other events to mark the holiday honoring Martin Luther King Jr. have bee"
