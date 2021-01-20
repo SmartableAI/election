@@ -222,22 +222,6 @@ related:
         width: 2811
         height: 1582
         isCached: true
-  - title: "Biden Says Trump Defense, Budget Officials Are Impeding Transition"
-    excerpt: "President-elect says his team has “encountered roadblocks” from political leaders at the Office of Management and Budget and the Pentagon."
-    publishedDateTime: 2020-12-28T22:10:00Z
-    webUrl: "https://www.wsj.com/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
-    ampWebUrl: "https://www.wsj.com/amp/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-278568/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Judge dismisses Trump supporters’ last-ditch lawsuit challenging Joe Biden win"
     excerpt: "A federal appeals court has tossed a lawsuit filed by a group of Republicans in a last-ditch effort to challenge President-elect Joe Biden’s win. The U.S. Court of Appeals for the Fifth"
     publishedDateTime: 2021-01-03T05:02:00Z

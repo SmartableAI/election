@@ -205,22 +205,6 @@ related:
         width: 2811
         height: 1582
         isCached: true
-  - title: "Biden Says Trump Defense, Budget Officials Are Impeding Transition"
-    excerpt: "President-elect says his team has “encountered roadblocks” from political leaders at the Office of Management and Budget and the Pentagon."
-    publishedDateTime: 2020-12-28T22:10:00Z
-    webUrl: "https://www.wsj.com/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
-    ampWebUrl: "https://www.wsj.com/amp/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-says-trump-defense-budget-officials-are-impeding-transition-11609193054"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-278568/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Trump Campaign Asks Supreme Court to Overturn Biden’s Wisconsin Win"
     excerpt: "Unless the high court expedites the case, the Trump campaign’s appeal likely will be moot before it comes up for consideration by the justices."
     publishedDateTime: 2020-12-30T08:26:00Z

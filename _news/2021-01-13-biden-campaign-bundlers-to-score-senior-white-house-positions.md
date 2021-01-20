@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-bundlers-score-senio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-bundlers-score-senior-wh-positions.amp"
 type: article
 quality: 175
-heat: 255
+heat: 195
 published: true
 
 provider:
@@ -46,54 +46,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "White House offers and Biden accepts the use of Blair House for the night before inauguration"
-    excerpt: "The White House has offered President-elect Joe Biden use of Blair House for the night before the inauguration and he has accepted, a State Department spokesperson told Fox News. "
-    publishedDateTime: 2021-01-13T20:10:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AhIRbPlWHXo/white-house-offers-biden-accepts-use-blair-house"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-offers-biden-accepts-use-blair-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-offers-biden-accepts-use-blair-house.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Blair-House-iStock.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Migrant caravan member cites Biden’s pledge to suspend deportations for 100 days as reason for traveling to US"
-    excerpt: "A migrant traveling with a caravan that left Honduras on Friday told a reporter he was headed to the U.S. because soon-to-be President Joe Biden had “give us 100 days to get to the U.S.”"
-    publishedDateTime: 2021-01-18T22:30:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PvHEk6krt5s/migrant-caravan-biden-pledge-suspend-deportations-100-days"
-    ampWebUrl: "https://www.foxnews.com/politics/migrant-caravan-biden-pledge-suspend-deportations-100-days.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-caravan-biden-pledge-suspend-deportations-100-days.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21018728901269.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "White House offers and Biden accepts the use of Blair House for the night before inauguration"
-    excerpt: "The White House has offered President-elect Joe Biden use of Blair House for the night before the inauguration and he has accepted, a State Department spokesperson told Fox News."
-    publishedDateTime: 2021-01-13T20:15:00Z
-    webUrl: "https://www.foxnews.com/politics/white-house-offers-biden-accepts-use-blair-house"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-offers-biden-accepts-use-blair-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-offers-biden-accepts-use-blair-house.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 124
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Blair-House-iStock.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "JswOoMk7hcfvO7Nqum+NIqnPAwN/6oqSC+9oUdbHVGmt7dGGMuq+OJQn1aXfsuj4pZgUixTd9kQtE+tdJLkGVfDAYY4YpsKR5ttbplhqUxqNYgmOVy7Ms5wDOfg/HtdEsHGKpGE9TbnP2TQGguaNdgyBItmXfd/8bVFpy4dUY1BkZKhlKcyftz0M4Wl3y4VM5FPK427bet2a0d3mHkUyQg8R2+aaRES/vtER8uqHqbXvXdh6k+WuBxrUo1A/gW06chXG+1WBLgiMo3uvoUpjQ0iZ6oU4EdJcdksUVqWMQa/MoFkB2YsqPrQ8NQkEaFzPqXiChRlYRru0pBj3OLdtTh4/fqkQIeaRe/LhApsUxtM=;1xUX/W8swRiArIInsKLmNQ=="

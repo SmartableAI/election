@@ -47,21 +47,37 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Most Republicans want GOP in Congress to stand up to Biden: poll"
-    excerpt: "When President-elect Joe Biden is inaugurated on Wednesday, Democrats will control the White House, as well as both houses of Congress."
-    publishedDateTime: 2021-01-16T12:48:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/asFPbh9d9OM/most-republicans-want-gop-congress-stand-up-biden-poll"
-    ampWebUrl: "https://www.foxnews.com/politics/most-republicans-want-gop-congress-stand-up-biden-poll.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/most-republicans-want-gop-congress-stand-up-biden-poll.amp"
+  - title: "Senate considering Biden nominees Tuesday, with no announcement yet on handling impeachment, other business"
+    excerpt: "The Senate is back in town Tuesday for a slate of confirmation hearings on Biden Cabinet nominees, even as there are not yet clear agreements on how the body will handle the impending Trump impeachment trial or its new 50-50 party split. "
+    publishedDateTime: 2021-01-19T13:23:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tHsJeoPVHZE/senate-considering-biden-nominees-tuesday-with-no-announcement-yet-on-handling-impeachment-other-business"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-considering-biden-nominees-tuesday-with-no-announcement-yet-on-handling-impeachment-other-business.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-considering-biden-nominees-tuesday-with-no-announcement-yet-on-handling-impeachment-other-business.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 157
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Republicans Block Swift Approval of Biden's DHS Pick"
+    excerpt: "It was a revealing moment in an otherwise predictable show of vague deflections that has become the kind of performance art required for Cabinet nominees"
+    publishedDateTime: 2021-01-20T12:31:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/20/republicans_block_swift_approval_of_bidens_dhs_pick__145075.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/20/republicans_block_swift_approval_of_bidens_dhs_pick__145075.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/20/republicans_block_swift_approval_of_bidens_dhs_pick__145075.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/532831_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "L1peyeTs7pdvfg4bezFiB5E5VKTLPVhvf9CRGP6kCyCn9QPjo0QD4mpWof70+T0mN9NTeIKzpAbC5/rQJuxN/KODkS22TwMGzsogpZuUh4/Af/9VmoLAe0k33YrtOS5gsjyrOYIa6YT9E+qGkTAHsOPHqopPzMEWz7z3UerC9+om4c2J/0HiQuMyMeQDYIfI95rOwtFmlYCjuoYP+9Rxk09LzxYq7puYmh5MOI6PIaH2i4ibSsyIDBzmC6KduHNaozDCg38G5llfk5T3UX16EFob48WT9q2Jytugv6/a3pOe2LBHdKOk8ud3LVkjD7FRtpGTVUuzakt/WQ5WaMclN/qlVdIV+IZGvhNNmXwep0E=;j/yPEYx03snJtANhlk5yBw=="

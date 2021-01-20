@@ -141,6 +141,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Joe Biden and Kamala Harris get ready to be sworn in as presidential inauguration begins – live"
+    excerpt: "Biden and Harris will be sworn in as president and vice-president, following Donald Trump’s final departure from the White House this morning"
+    publishedDateTime: 2021-01-20T16:16:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-60085a998f08fbcf3cf0dfe4"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 138
+    images:
+      - url: "https://i.guim.co.uk/img/media/c222b51401ba03aaea0aa2b3b142c1da42c13be2/0_0_7284_4858/master/7284.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4028e86316b17ca8ef88a01874289a5c"
+        width: 600
+        height: 400
+        isCached: true
   - title: "That time Kamala Harris flew on Trump’s private plane, and more from her biographer"
     excerpt: "Author Dan Morain answers queries about his new book on Kamala Harris, like why she's an only-in-California politician and what to expect from her as vice president."
     publishedDateTime: 2021-01-11T22:45:00Z
@@ -172,6 +188,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/Z3qJoKYgp7I25-Bfj9OgWDYkWb8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7RFR7OAVVHIHHAVMBLL7YTF44.jpg"
         width: 1200
         height: 898
+        isCached: true
+  - title: "LIVE: Trump's most loyal congressional allies are seen arriving at Biden's inauguration"
+    excerpt: "Soon-to-be President Joe Biden and incoming Vice President Kamala Harris are attending mass with congressional leaders before being sworn in."
+    publishedDateTime: 2021-01-20T16:02:00Z
+    webUrl: "https://www.businessinsider.com/biden-inauguration-trump-departure-dc-high-alert-live-updates-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-inauguration-trump-departure-dc-high-alert-live-updates-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-inauguration-trump-departure-dc-high-alert-live-updates-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 132
+    images:
+      - url: "https://i.insider.com/6008601d6d4c620018e40fb8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden inauguration: Donald Trump leaves White House for the last time as president – live"
     excerpt: "Trump to hold ‘sending off’ ceremony before flying to Florida and will not be attending Joe Biden’s inauguration"
@@ -475,6 +507,38 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "A new turn in history: Kamala Harris sworn in as 49th VP"
+    excerpt: "Kamala Devi Harris makes history as the first woman, Black person and Asian American vice president in the nation's history."
+    publishedDateTime: 2021-01-20T16:44:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-20/main-kamala-harris"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-20/main-kamala-harris?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-20/main-kamala-harris?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/6c007b5/2147483647/strip/true/crop/1764x1152+142+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F45%2F91%2F68ba33b3b44b70a7f3f66e8c294e%2Fla-me-0930-kamala-harris-senate-photos-2015092-008"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Kamala Harris sworn into history"
+    excerpt: "Kamala D. Harris was sworn in as vice president of the United States on Wednesday, stepping into history as the highest-ranking woman in American history. The moment reflected a historic rise at a time of historic crises."
+    publishedDateTime: 2021-01-20T16:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/kamala-harris-sworn-in/2021/01/20/a184a12e-5aa9-11eb-b8bd-ee36b1cd18bf_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/kamala-harris-sworn-in/2021/01/20/a184a12e-5aa9-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/kamala-harris-sworn-in/2021/01/20/a184a12e-5aa9-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H4TGAGS3IEI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Donald Trump's Inauguration Boycott Welcomed by Republicans and Democrats"
     excerpt: "The president announced he will not attend ahead of his ban from Twitter, as a backlash grows against him over the recent events at the Capitol."
     publishedDateTime: 2021-01-11T15:29:00Z
@@ -537,6 +601,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Capitol Police officer Eugene Goodman escorts Kamala Harris to inauguration"
+    excerpt: "Capitol Police Officer Eugene Goodman, who gained notoriety for luring a pro-Trump mob away from lawmakers at the deadly Jan."
+    publishedDateTime: 2021-01-20T16:18:00Z
+    webUrl: "https://thehill.com/homenews/news/535005-capitol-police-officer-eugene-goodman-escorting-kamala-harris-to-inauguration"
+    ampWebUrl: "https://thehill.com/homenews/news/535005-capitol-police-officer-eugene-goodman-escorting-kamala-harris-to-inauguration?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/535005-capitol-police-officer-eugene-goodman-escorting-kamala-harris-to-inauguration?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/screen_shot_2021-01-20_at_11.13.02_am.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Washington and state capitols brace for violence from armed Trump supporters"
     excerpt: "Security beefed up across US following attack on Capitol while FBI monitoring threats of violence against Biden and Harris"
     publishedDateTime: 2021-01-15T17:26:00Z
@@ -582,6 +662,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547604300&r=LYNXMPEH0C0CC&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Kamala Harris sworn in as US’s first female, Black and south Asian vice-president"
+    excerpt: "Former senator sworn by Justice Sonia Sotomayor using two Bibles from the late Thurgood Marshall and family friend Regina Shelton"
+    publishedDateTime: 2021-01-20T15:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/20/kamala-harris-sworn-in-vice-president"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/20/kamala-harris-sworn-in-vice-president"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/20/kamala-harris-sworn-in-vice-president"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/28a567b24ecd3e8ea5c09c1752fac45220eb818c/0_52_1913_1149/master/1913.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8346193b537a759d466d96ce0cda7815"
+        width: 600
+        height: 360
         isCached: true
   - title: "WATCH LIVE: Inauguration of Joe Biden and Kamala Harris"
     excerpt: "WASHINGTON (AP) — President-elect Joe Biden will deliver an appeal to national unity when he is sworn in Wednesday and plans immediate moves to combat the coronavirus pandemic and undo some of President Donald Trump’s most controversial policies,"
@@ -830,6 +926,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Alpha Kappa Alpha declares January 20 \"Kamala D. Harris Day,\" with members wearing pink and pearls to honor her"
+    excerpt: "Alpha Kappa Alpha, the historically Black sorority Vice President-elect Kamala Harris joined at her alma mater, Howard University, is honoring Harris' historic accomplishment on Inauguration Day. It has declared January 20 \"Kamala D."
+    publishedDateTime: 2021-01-20T16:17:00Z
+    webUrl: "https://www.cbsnews.com/news/alpha-kappa-alpha-sorority-kamala-harris-day/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/alpha-kappa-alpha-sorority-kamala-harris-day/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/alpha-kappa-alpha-sorority-kamala-harris-day/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/19/260b77e3-7704-4e91-90d9-c070b9352664/thumbnail/1200x630/17acea42829e11cfbe480be2897fa7a7/ap-20354737266677.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Washington mayor asks for increased security around Biden's inauguration"
     excerpt: "Washington's mayor has asked for increased security around the inauguration of U.S. President-elect Joe Biden after last week's storming of the U.S. Capitol by supporters of President Donald Trump."
     publishedDateTime: 2021-01-11T13:41:00Z
@@ -910,6 +1022,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/6bcd3c7bc1be60a772dd9a5055ece7d250a74a44/0_126_4750_2850/master/4750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6a79e2511bbea0382e968b32e6a9ce36"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Inauguration: Kamala Harris sworn in as vice-president, becoming the first woman of color to hold the office – live"
+    excerpt: "Harris sworn in as vice-president ahead of Biden taking office, following Donald Trump’s final departure from the White House this morning"
+    publishedDateTime: 2021-01-20T15:49:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-600859ed8f08b9416fbadd63"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 103
+    images:
+      - url: "https://i.guim.co.uk/img/media/c222b51401ba03aaea0aa2b3b142c1da42c13be2/0_0_7284_4858/master/7284.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4028e86316b17ca8ef88a01874289a5c"
+        width: 600
+        height: 400
         isCached: true
   - title: "Trump to skip town and inauguration to face uncertain future at Mar-a-Lago"
     excerpt: "Donald Trump will walk out of the White House and board Marine One for the last time as president Wednesday, leaving behind a legacy of chaos and a nation bitterly divided."
@@ -1216,22 +1344,6 @@ related:
       - url: "https://www.dailypress.com/resizer/Z3qJoKYgp7I25-Bfj9OgWDYkWb8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7RFR7OAVVHIHHAVMBLL7YTF44.jpg"
         width: 1200
         height: 898
-        isCached: true
-  - title: "Where and when to watch the inauguration of President-elect Joe Biden and Vice President-elect Kamala Harris"
-    excerpt: "Coverage of the 59th presidential inauguration begins at 7 a.m. Pacific time Wednesday, Jan. 20, 2021, at the United States Capitol with the swearing in of Kamala Harris as vice president and Joe"
-    publishedDateTime: 2021-01-20T14:09:00Z
-    webUrl: "https://www.ocregister.com/2021/01/20/where-and-when-to-watch-the-inauguration-of-president-elect-joe-biden-and-vice-president-elect-kamala-harris/"
-    ampWebUrl: "https://www.ocregister.com/2021/01/20/where-and-when-to-watch-the-inauguration-of-president-elect-joe-biden-and-vice-president-elect-kamala-harris/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/01/20/where-and-when-to-watch-the-inauguration-of-president-elect-joe-biden-and-vice-president-elect-kamala-harris/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 81
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2021/01/AP21020451366515-1.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Mike Pence calls Kamala Harris to offer congratulations"
     excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
@@ -1583,6 +1695,22 @@ related:
         width: 3856
         height: 2483
         isCached: true
+  - title: "It’s official: Kamala Harris is our vice president"
+    excerpt: "California’s Kamala Harris became the highest-ranking woman and woman of color ever in American politics when she was sworn in as the 49th vice president of the United States on Wednesday, a historic moment of celebration amid pain in the nation’s capital."
+    publishedDateTime: 2021-01-20T08:45:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/It-s-official-Kamala-Harris-is-our-vice-15884673.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/It-s-official-Kamala-Harris-is-our-vice-15884673.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/It-s-official-Kamala-Harris-is-our-vice-15884673.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/20/21/20513875/7/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Kamala Harris' moment is what they've been waiting for"
     excerpt: "Kamala Harris' ascension marks a pivotal moment in history. Young women say her inauguration may finally allow them to savor what has been won."
     publishedDateTime: 2021-01-19T23:28:00Z
@@ -1614,6 +1742,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZB5FOXDMABHOFLS4UUKAG672HA.jpg"
         width: 5446
         height: 3631
+        isCached: true
+  - title: "Kamala Harris to swear in Alex Padilla to Senate after inauguration"
+    excerpt: "Shortly after she is inaugurated as vice president on Wednesday, Kamala Harris will swear in her replacement in the Senate, former California Secretary of State Alex Padilla."
+    publishedDateTime: 2021-01-19T19:21:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Kamala-Harris-to-swear-in-Alex-Padilla-to-Senate-15882629.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Kamala-Harris-to-swear-in-Alex-Padilla-to-Senate-15882629.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Kamala-Harris-to-swear-in-Alex-Padilla-to-Senate-15882629.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/02/02/20455562/11/375x250.jpg"
+        width: 348
+        height: 250
         isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."
@@ -1679,6 +1823,22 @@ related:
         width: 4444
         height: 3154
         isCached: true
+  - title: "Kamala Harris reflects on women who 'paved the way' for historic inauguration"
+    excerpt: "Kamala Harris marked her historic inauguration Wednesday as the first woman, first Black and South Asian American vice president with a tribute to her mother and the women who have fought for equality for 100 years."
+    publishedDateTime: 2021-01-20T15:43:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/01/20/Kamala-Harris-reflects-on-women-who-paved-the-way-for-historic-inauguration/2781611146989/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/01/20/Kamala-Harris-reflects-on-women-who-paved-the-way-for-historic-inauguration/2781611146989/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/20/Kamala-Harris-reflects-on-women-who-paved-the-way-for-historic-inauguration/2781611146989/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 72
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/2781611146989/2021/1/cf996d31798bff5bddd38c61db337836/v1.5/Kamala-Harris-reflects-on-women-who-paved-the-way-for-historic-inauguration.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "D.C. attorney general seeks to interview Donald Trump Jr. on inauguration funds"
     excerpt: "The D.C. attorney general's office said Thursday it requested to interview Donald Trump Jr. as part of its investigation into the Presidential Inaugural Committee's alleged misuse of non-profit funds."
     publishedDateTime: 2021-01-15T02:08:00Z
@@ -1710,6 +1870,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/15/PDTF/11cb5287-e7a5-4cce-bdbf-c65b987444e9-AP20313061585459.jpg?auto=webp&crop=5081,2859,x0,y258&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Where and when to watch the inauguration of President-elect Joe Biden and Vice President-elect Kamala Harris"
+    excerpt: "Coverage of the 59th presidential inauguration begins at 7 a.m. Pacific time Wednesday at the Capitol with the swearing in of Kamala Harris as vice president and Joe Biden as president just before"
+    publishedDateTime: 2021-01-20T12:09:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/20/where-and-when-to-watch-the-inauguration-of-president-elect-joe-biden-and-vice-president-elect-kamala-harris/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/20/where-and-when-to-watch-the-inauguration-of-president-elect-joe-biden-and-vice-president-elect-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/20/where-and-when-to-watch-the-inauguration-of-president-elect-joe-biden-and-vice-president-elect-kamala-harris/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 71
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/AP21020590420742.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Supreme Court Justice Sonia Sotomayor to swear in Kamala Harris as vice president"
     excerpt: "Vice President-elect Kamala Harris will take oath of office on a Bible belonging to Thurgood Marshall during inaugural ceremony at the U.S. Capitol."

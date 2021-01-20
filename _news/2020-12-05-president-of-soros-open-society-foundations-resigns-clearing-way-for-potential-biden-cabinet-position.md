@@ -175,22 +175,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Ahead of Biden inauguration, FBI Director Wray warns of 'concerning online chatter'"
-    excerpt: "FBI Director Christopher Wray warned Thursday that authorities are monitoring calls for “potential armed protests” in Washington D.C. and state capitols."
-    publishedDateTime: 2021-01-14T23:13:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MtI8iRPljsA/biden-inauguration-fbi-director-wray-warns-of-concerning-online-chatter"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-fbi-director-wray-warns-of-concerning-online-chatter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-fbi-director-wray-warns-of-concerning-online-chatter.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/076469f3-c522-4963-8eb9-8dfba72bc6e1/11010aed-d5b3-4315-913f-bf24ab94645c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden pick for OMB director will push globalist policies that cost US jobs: Huckabee"
     excerpt: "President-elect Joe Biden’s pick for director of the Office of Management and Budget (OMB) will push globalist policies that will lead to the loss of U.S. jobs, former Arkansas Gov. Mike Huckabee warned Tuesday."
     publishedDateTime: 2020-12-01T22:41:00Z

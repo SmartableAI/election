@@ -47,21 +47,37 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Republican Sen. Toomey joins calls for Trump to resign"
-    excerpt: "Sen. Pat Toomey, R-Pa., joined the chorus of lawmakers calling for President Trump to leave office, telling CNN's \"State of the Union\" on Sunday that the best course of action would be for the president to resign."
-    publishedDateTime: 2021-01-10T16:40:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rCPQ8jYZOw8/gop-sen-toomey-trump-resign"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-sen-toomey-trump-resign.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sen-toomey-trump-resign.amp"
+  - title: "Some Democrats call for Trump impeachment after Capitol riots"
+    excerpt: "A growing number of congressional Democrats are calling for President Trump to be impeached after a group of his supporters stormed the United States Capitol building on Wednesday."
+    publishedDateTime: 2021-01-07T14:28:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k9QzWzrcp2U/some-democrats-call-for-trump-impeachment-after-capitol-riots"
+    ampWebUrl: "https://www.foxnews.com/politics/some-democrats-call-for-trump-impeachment-after-capitol-riots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/some-democrats-call-for-trump-impeachment-after-capitol-riots.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99e350c3-f5c7-495c-80e6-742d3e3e217a/1557b227-7a54-4ea4-849e-da952d2399b3/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8490c243-1866-43b4-ab4e-31c16a8e0b62/babc6474-e94a-467b-a6b9-d0a8fffe458c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Cheney, Katko first House Republicans to back Trump impeachment"
+    excerpt: "House GOP Conference Chairwoman Liz Cheney of Wyoming and Rep. John Katko of New York are planning to support Democrats' effort to impeach President Trump after last week's riots at the U.S. Capitol, Fox News has confirmed."
+    publishedDateTime: 2021-01-12T23:17:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DSDUHKWo4UE/john-katko-cheney-gop-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/john-katko-cheney-gop-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-katko-cheney-gop-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump impeachment supported by only 8% of Republicans: poll"
     excerpt: "A new national poll indicates that only 8% of Republican voters support the impeachment of President Trump and his removal from office."
@@ -79,37 +95,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Billionaire Trump donor Catsimatidis mulling NYC mayoral run as a Democrat"
-    excerpt: "Billionaire Republican John Catsimatidis, a supermarket mogul and longtime supporter of President Trump, said he is mulling a run for New York City mayor-- on the Democratic ticket. "
-    publishedDateTime: 2021-01-15T01:43:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PwcAQW6bF0I/nyc-catsimatidis-mulling-mayoral-run-democrat"
-    ampWebUrl: "https://www.foxnews.com/politics/nyc-catsimatidis-mulling-mayoral-run-democrat.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nyc-catsimatidis-mulling-mayoral-run-democrat.amp"
+  - title: "House Dem apologizing for comparing new Trump impeachment to a 'lynching'"
+    excerpt: "An Oregon Democrat is apologizing for likening a second impeachment of President Trump to a \"lynching.\""
+    publishedDateTime: 2021-01-09T23:29:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XkgD4GGrJvM/house-dem-apologizing-for-comparing-new-trump-impeachment-to-a-lynching"
+    ampWebUrl: "https://www.foxnews.com/politics/house-dem-apologizing-for-comparing-new-trump-impeachment-to-a-lynching.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-dem-apologizing-for-comparing-new-trump-impeachment-to-a-lynching.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 174
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/John-Catsimatidis-Getty-Images.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Live Updates: House Republican who voted to impeach Trump facing criticism"
-    excerpt: "With 10 Republican votes, Trump's second impeachment was the most bipartisan one in history."
-    publishedDateTime: 2021-01-18T05:07:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EbVGXDmDFTg/live-updates-trump-impeach-1-18-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeach-1-18-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeach-1-18-2021.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02ffde9d-0cc6-45ac-b045-16f768eb828d/40e452e9-8c15-4f5b-967a-fac0730df44d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Kurt-Schrader-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Removing Trump by 25th Amendment could set 'very dangerous' standard: Turley"
     excerpt: "Fox News contributor Jonathan Turley warned Thursday against Democrats' push to remove President Trump from office by invoking the 25th Amendment."
@@ -124,6 +124,38 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Democratic House members call for Trump impeachment, removal amid Capitol protest"
+    excerpt: "Democratic House members are calling for President Trump's removal from office just two weeks before his term is set to end, as violent protesters stormed and entered the U.S. Capitol building."
+    publishedDateTime: 2021-01-06T22:45:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gqow1ACj0Ts/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-ilhan-omar-articles-of-impeachment-trump-amid-capitol-protest.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/32855443-767d-4b96-861e-e053b799308b/df486f77-b285-4a08-a896-558037ce44aa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "'Squad' member accuses VP of 'cowardice' for not using 25th Amendment to remove Trump"
+    excerpt: "Rep. Ayanna Pressley, D-Mass., said Vice President Mike Pence's decision not to invoke the 25th Amendment to remove President Trump from office is a show of \"pure cowardice.\" "
+    publishedDateTime: 2021-01-13T14:32:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h2L3J6pWfdA/squad-member-accuses-pence-of-pure-cowardice-for-not-invoking-25th-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/squad-member-accuses-pence-of-pure-cowardice-for-not-invoking-25th-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-member-accuses-pence-of-pure-cowardice-for-not-invoking-25th-amendment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -159,6 +191,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Florida Sen. Scott says Democrats should focus on American families not Trump impeachment"
+    excerpt: "Sen. Rick Scott, R-Fla., told \"Fox & Friends\" on Monday that if Democrats want to do something good for the country, then they should focus on what they are going to do for American families as opposed to impeachment. "
+    publishedDateTime: 2021-01-11T14:05:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Dlcoa3eYbM4/trump-impeachment-democrats-rick-scott"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-democrats-rick-scott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-democrats-rick-scott.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Dems embrace Cheney's pro-impeachment stance, fueling backlash from some Trump supporters"
     excerpt: "Democrats name-checked House Republican Conference Chair Liz Cheney at least 18 times during the debate on the article of impeachment against President Trump for inciting insurrection on Wednesday – emphasizing the high-ranking Republican's support for impeaching Trump after a mob of his supporters stormed"
     publishedDateTime: 2021-01-14T16:51:51Z
@@ -174,22 +222,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Petition calls for U of Michigan regent to resign for not blaming Trump over Capitol riot"
-    excerpt: "University of Michigan Regent Ron Weiser has been called \"complicit\" in last week’s storming of the U.S. Capitol by the writers of an online petition that calls for his resignation after he failed to place blame on President Trump."
-    publishedDateTime: 2021-01-14T09:24:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kHw1uG5baQU/petition-calls-for-u-of-michigan-regent-to-resign-for-not-blaming-trump-over-riot"
-    ampWebUrl: "https://www.foxnews.com/politics/petition-calls-for-u-of-michigan-regent-to-resign-for-not-blaming-trump-over-riot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/petition-calls-for-u-of-michigan-regent-to-resign-for-not-blaming-trump-over-riot.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21014048876326.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "After Capitol rioting and Georgia Senate defeats, Trump’s clout with some Republicans takes hit"
     excerpt: "The president is reeling following the storming of the Capitol on Wednesday by Trump supporters who were encouraged by the president at a rally near the White House."
@@ -283,37 +315,37 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AOC says ‘our main priority is to ensure the removal of Donald Trump’"
-    excerpt: "Cortez on Sunday called for articles of impeachment against President Trump to be introduced on the House floor following the Capitol riot, insisting he represents a"
-    publishedDateTime: 2021-01-10T16:36:00Z
-    webUrl: "https://nypost.com/2021/01/10/aoc-main-priority-is-to-ensure-the-removal-of-donald-trump/"
-    ampWebUrl: "https://nypost.com/2021/01/10/aoc-main-priority-is-to-ensure-the-removal-of-donald-trump/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/10/aoc-main-priority-is-to-ensure-the-removal-of-donald-trump/amp/"
+  - title: "New Trump impeachment? Top Democrats show no interest in 'Squad' push"
+    excerpt: "A renewed interest in impeaching President Trump from members of the so-called \"Squad\" is not catching on among top House Democrats."
+    publishedDateTime: 2021-01-05T15:50:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-squad-georgia-raffensperger-democrats.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21005034498345-e1609858170240.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump planning payback for 10 Republicans who impeached him: report"
+    excerpt: "President Trump plans political punishment for the 10 House Republicans who voted to impeach him for last week’s Capitol riot, according to a new report."
+    publishedDateTime: 2021-01-15T22:10:00Z
+    webUrl: "https://nypost.com/2021/01/15/trump-planning-payback-for-gopers-who-impeached-him-report/"
+    ampWebUrl: "https://nypost.com/2021/01/15/trump-planning-payback-for-gopers-who-impeached-him-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/15/trump-planning-payback-for-gopers-who-impeached-him-report/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/aoc-trump-removal.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/president-trump-air-force-one.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Republican Voters Stick by Trump as Some Lawmakers Seek Distance"
-    excerpt: "Some GOP lawmakers such as Rep. Nancy Mace of South Carolina have opposed impeachment while publicly criticizing the president."
-    publishedDateTime: 2021-01-14T18:13:00Z
-    webUrl: "https://www.wsj.com/articles/republican-voters-stick-by-trump-as-some-lawmakers-seek-distance-11610629997?mod=business_minor_pos4"
-    ampWebUrl: "https://www.wsj.com/amp/articles/republican-voters-stick-by-trump-as-some-lawmakers-seek-distance-11610629997"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republican-voters-stick-by-trump-as-some-lawmakers-seek-distance-11610629997"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-284917/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Pelosi supports invoking the 25th Amendment because it ‘gets rid’ of Trump"
     excerpt: "House Speaker Nancy Pelosi said she would support Vice President Mike Pence invoking the 25th Amendment because it “gets rid” of President Trump. Pelosi, who said the House has"
@@ -346,6 +378,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/927d176b-21c3-43cd-93dd-13312fed5937/dea40182-fa8f-47b1-9184-fc98ec627628/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Rep. Steny Hoyer Gives Democrats' Closing Argument In Trump Impeachment: This Is A Sad Time"
+    excerpt: "Md., argued for the impeachment of President Donald Trump in a hearing on Jan. 13. Democrats are pursuing a quick second impeachment a week after Trump gave a speech they say incited insurrection. On Jan."
+    publishedDateTime: 2021-01-13T21:53:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/13/rep_steny_hoyer_gives_democrats_closing_argument_in_trump_impeachment_this_is_a_sad_time.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 55
+    images:
+      - url: "https://assets.realclear.com/images/53/532245.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "Obn0kqGFWgzF0Vh+erWnHNEaaAVi1307BI/OT3BsxVCnHjOqchcIBkrr2ErONemjMFnViX5OaSAUIYq6Tmti53545ogpJ0AFp9VoO/iQHx+KvtyZhZ74DDkS7DesjfFitZJobq+WFw+a3kEkvmv8rm84Kmn8Vq4AG6VFbvEYAKY4zHOEopp1BUKM1WGeGsx3ooojq5DcnAGe1qgukon5QwQhUPZQTGsQWqLzuBoYiw6EH3RDsoghp585acQ96U4iIpbYb7xts28g/JL0XW9wIwuGuSUvpBQ3i+61weB+D3Wi8LVILficVBpwHGYhFaaVNdNGzbO5ffvekWBvGMCIA8kUbyJGm9LfYqAE4argRXk=;T1Wk9BKg2F/hreSf8rmCCA=="

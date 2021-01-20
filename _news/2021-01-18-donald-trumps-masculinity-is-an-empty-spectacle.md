@@ -411,6 +411,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump Said He'll Return, but Most Think He Shouldn't Be Allowed to Run Again"
+    excerpt: "The outgoing president has previously alluded to running in 2024, with comments having hinted at feeling he has unfinished business."
+    publishedDateTime: 2021-01-20T16:45:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-return-president-2024-poll-1563101"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-return-president-2024-poll-1563101?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-return-president-2024-poll-1563101?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1712115/donald-trump-joint-base-andrews.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Donald Trump's Approval Rating Tanks to Record Low on Day of Potential Second Impeachment"
     excerpt: "Sixty-three percent of voters said they disapprove of Trump's performance, making him one of the lowest-rated presidents in U.S. history."
     publishedDateTime: 2021-01-13T16:08:00Z
@@ -696,6 +712,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/us-president-donald-trump-says-impeachment-is-causing.jpg"
         width: 1024
         height: 684
+        isCached: true
+  - title: "A Taxonomy of Donald Trump’s Facial Expressions"
+    excerpt: "The outgoing president’s journey from reality television to the Oval Office is evident in every smile and every scowl."
+    publishedDateTime: 2021-01-20T15:55:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2021/01/a-taxonomy-of-donald-trumps-facial-expressions/617742/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/617742/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617742/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/VJNjoI2HqBJn4Uv0xLH3x89cZb4=/570x321/media/img/mt/2021/01/Trumpface/original.jpg"
+        width: 570
+        height: 321
         isCached: true
   - title: "Steve Bannon expected to get pardon from Donald Trump"
     excerpt: "Bannon has been charged with duping thousands of investors who believed their money would be used to fulfill Trump’s chief campaign promise to build a wall along the southern border. Instead, he allegedly diverted over a million dollars,"

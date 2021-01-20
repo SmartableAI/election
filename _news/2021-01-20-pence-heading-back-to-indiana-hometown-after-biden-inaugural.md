@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/pence-heading-back-to-indian
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 2310
+heat: 2490
 published: true
 
 provider:
@@ -640,6 +640,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Inauguration updates: How Biden administration could affect Arizona"
+    excerpt: "Joe Biden, a Democrat and former vice president, will be sworn in on Wednesday as the 46th president of the United States."
+    publishedDateTime: 2021-01-20T16:36:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/20/updates-arizona-reacts-biden-presidential-inauguration/6649081002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6649081002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6649081002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/e2296e1f-21f5-4925-9e9e-30c20ee2c503-XXX_RD1_5078.JPG?auto=webp&crop=5567,3131,x1,y502&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden must find words for a wounded nation in inauguration like no other"
     excerpt: "Planners have been forced to be inventive after the deadly pandemic and now last week’s Capitol insurrection dictated a pared-down event"
     publishedDateTime: 2021-01-16T07:00:00Z
@@ -1193,6 +1209,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden's inauguration is unlike any before. Photos show how his ceremony compares to those of previous presidents."
+    excerpt: "Due to COVID-19 and the threat of violence from far-right groups, the inauguration of President-elect Biden is unlike past ceremonies."
+    publishedDateTime: 2021-01-20T16:59:00Z
+    webUrl: "https://www.businessinsider.com/photos-bidens-unprecedented-inauguration-compares-to-past-ceremonies-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/photos-bidens-unprecedented-inauguration-compares-to-past-ceremonies-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/photos-bidens-unprecedented-inauguration-compares-to-past-ceremonies-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/600859786d4c620018e40f72?width=1200&format=jpeg"
+        width: 980
+        height: 490
+        isCached: true
   - title: "Biden launches new Twitter account to build following before taking command of White House @POTUS on Inauguration Day"
     excerpt: "When Joe Biden is sworn in on Wednesday, he will take command of the @POTUS and @WhiteHouse Twitter accounts in another official transfer of power."
     publishedDateTime: 2021-01-16T23:59:00Z
@@ -1379,6 +1411,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "At Joe Biden’s inauguration, mood is somber, jittery and joyous"
+    excerpt: "This is a developing story and will be updated throughout the day. WASHINGTON – A modest crowd, outnumbered by a heavy National Guard deployment,"
+    publishedDateTime: 2021-01-20T15:00:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2021/01/20/at-joe-bidens-inauguration-mood-is-somber-jittery-and-joyous/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/01/20/at-joe-bidens-inauguration-mood-is-somber-jittery-and-joyous/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/01/20/at-joe-bidens-inauguration-mood-is-somber-jittery-and-joyous/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 75
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/NyqnJ73QekYxQKhNY5tb4cj7yFw=/1200x630/filters:focal(1735x925:1745x915):no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/Q7YCBFLYQNH45NEEN72X3IZC5I.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden prepares to take office with plenty of issues to confront"
     excerpt: "Joe Biden takes office today with the bonds of the republic strained and the nation reeling from challenges that rival those faced by Abraham Lincoln and Franklin D. Roosevelt."
     publishedDateTime: 2021-01-20T09:20:00Z
@@ -1394,6 +1442,38 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6GABY5Z6EZHRLIPEVMANE45YFA.jpeg"
         width: 4890
         height: 3047
+        isCached: true
+  - title: "Joe Biden’s inauguration ceremony begins: Watch live"
+    excerpt: "Joe Biden’s presidential inauguration ceremony has begun. Biden swears the oath of office at noon Wednesday, becoming the 46th president of the United States. The Democrat is preparing to take the helm of a deeply divided nation and inherit crises arguably greater than any faced by his predecessors."
+    publishedDateTime: 2021-01-20T14:29:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-ceremony-begins-watch-live.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-ceremony-begins-watch-live.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-bidens-inauguration-ceremony-begins-watch-live.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Y5VM7DPQFJELLJOFNDF4ZUHIGQ.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Watch Joe Biden’s inauguration, with livestream commentary"
+    excerpt: "Joe Biden will attend a mass at St. Matthew’s Cathedral in Washington D.C. with Democratic leaders Nancy Pelosi and Chuck Schumer and Republican leaders Mitch McConnell and Kevin McCarthy. Invocation – Father Leo J."
+    publishedDateTime: 2021-01-20T15:03:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/20/watch-joe-bidens-inauguration-with-livestream-commentary/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/20/watch-joe-bidens-inauguration-with-livestream-commentary/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/20/watch-joe-bidens-inauguration-with-livestream-commentary/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/AP21020590420742.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Why Garth Brooks is playing Joe Biden's inauguration"
     excerpt: "Garth Brooks' performance at President-elect Joe Biden's inauguration was met with some backlash, here's what the country star said about his decision"
@@ -1537,6 +1617,34 @@ related:
         width: 617
         height: 630
         isCached: true
+  - title: "11:20 a.m.: Mike Pence arrives at Joe Biden’s inaugural"
+    excerpt: "Vice President Mike Pence has arrived at the inauguration of President-Elect Joe Biden. Pence and his wife, Karen"
+    publishedDateTime: 2021-01-20T16:54:00Z
+    webUrl: "https://www.tribtoday.com/news/latest-news/2021/01/1120-a-m-mike-pence-arrives-at-joe-bidens-inaugural/"
+    type: article
+    provider:
+      name: Tribune Chronicle
+      domain: tribtoday.com
+    quality: 70
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.tribtoday.com/images/2016/10/11191558/fblike.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vice President Mike Pence attends Joe Biden's inaugural ceremony"
+    excerpt: "Vice President Mike Pence, but not President Donald Trump, is introduced at the U.S. Capitol on Wednesday morning."
+    publishedDateTime: 2021-01-20T16:46:00Z
+    webUrl: "https://www.hawaiinewsnow.com/video/2021/01/20/vice-president-mike-pence-attends-joe-biden-inaugural-ceremony/"
+    type: article
+    provider:
+      name: KHNL
+      domain: hawaiinewsnow.com
+    quality: 70
+    images:
+      - url: "https://www.hawaiinewsnow.com/resizer/X-WH-IB96kM0mCTK5wXnEy0YlBQ=/1200x0/d1acid63ghtydj.cloudfront.net/01-20-2021/t_4bab89f8fae44efe8dfc75618341f0e4_name_file_1280x720_2000_v3_1_.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How to watch Joe Biden's Inauguration Day 2021, from the swearing-in to Tom Hanks' special"
     excerpt: "Joe Biden and Kamala Harris' 2021 inauguration will feature Lady Gaga, Tom Hanks and COVID-19 safety precautions. Here's how to watch and what time."
     publishedDateTime: 2021-01-18T02:03:00Z
@@ -1553,6 +1661,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Latest: Mike Pence arrives at Joe Biden’s inaugural | Raleigh News & Observer"
+    excerpt: "Vice President Mike Pence has arrived at the inauguration of President-Elect Joe Biden. Pence and his wife, Karen Pence, were announced at inaugural festivities at the U.S. Capitol about one hour ahead of Biden’s expected swearing-in ceremony."
+    publishedDateTime: 2021-01-20T15:12:00Z
+    webUrl: "https://www.newsobserver.com/news/article248627170.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/article248627170.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article248627170.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 65
   - title: "Joe Biden’s national security Cabinet nominees face Senate hearings a day before his inauguration"
     excerpt: "Joe Biden’s national security Cabinet may be bare on Day One of his presidency, but an inauguration eve spurt of Senate confirmation hearings suggests that won’t be the case for long."
     publishedDateTime: 2021-01-19T12:59:00Z
@@ -1600,6 +1719,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6WS2WVUGQNAERENUMFMGGQAGMU.jpg"
         width: 4032
         height: 3024
+        isCached: true
+  - title: "Watch live: Joe Biden presidential inauguration"
+    excerpt: "Joe Biden will be sworn in as the 46th president of the United States at noon ET on Wednesday."
+    publishedDateTime: 2021-01-20T16:05:12Z
+    webUrl: "https://www.bing.com/videos/search?q=YouTube+C-qYgs_yOXA&&view=detail&mid=3A65291343A11375A8ED3A65291343A11375A8ED&&FORM=VRDGAR"
+    type: article
+    provider:
+      name: Biden Inaugural Committee
+      domain: bing.com
+    quality: 55
+    images:
+      - url: "https://tse1.mm.bing.net/th?id=OVF.saWgXZefdgFvp369a2TEXg&w=600&h=315&c=7&rs=1&qlt=100&pid=2.1"
+        width: 600
+        height: 315
         isCached: true
   - title: "Here are 3 immediate goals for Joe Biden as he prepares to lead a nation in crisis"
     excerpt: "When Joe Biden is inaugurated Wednesday as the 46th president of the United States, he’ll face a nation torn by deep political and social divisions, and"

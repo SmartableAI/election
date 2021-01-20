@@ -111,38 +111,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden burned in bid to follow Trump playbook"
-    excerpt: "Biden's secretary of Defense pick Lloyd Austin would need the same kind of waiver from Congress James Mattis got."
-    publishedDateTime: 2020-12-08T20:13:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_82qxXiQ2MU/biden-burned-in-bid-to-follow-trump-playbook"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-burned-in-bid-to-follow-trump-playbook.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-burned-in-bid-to-follow-trump-playbook.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump slams lack of media coverage of Hunter Biden"
-    excerpt: "President Trump questioned why the media did not cover Hunter Biden before the election, before again claiming that he won. "
-    publishedDateTime: 2020-12-11T18:32:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4VavpxlwzfM/trump-slams-media-coverage-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/HunterBiden-JoeBiden.jpg"
-        width: 4896
-        height: 2754
-        isCached: true
   - title: "Trump coronavirus official Birx seeks to join Fauci in Biden administration"
     excerpt: "White House coronavirus task force official Dr. Deborah Birx is reportedly looking to join National Institute of Allergy and Infectious Diseases Director Dr. Anthony Fauci in President-elect Joe Biden's administration."
     publishedDateTime: 2020-12-10T16:11:17Z
@@ -158,22 +126,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Deborah-Birx-2-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Trump plans to outshine Biden on Inauguration Day with opposing rally: report"
-    excerpt: "A new report from Axios claims that President Trump is considering a dramatic White House departure that includes a final Air Force One flight to Florida where he will host a political rally during Joe Biden's inauguration."
-    publishedDateTime: 2020-12-06T23:23:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9Mifn6ZHwF8/trump-inauguration-day-rally"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-inauguration-day-rally.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-inauguration-day-rally.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 187
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c9af622-e777-4a09-8aba-ddcfb4db83c8/edb67c5a-04bb-4b93-aacf-5ef8cad63a8a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Trump, Biden officials condemn Iran regime's kidnapping, execution of reporter"
     excerpt: "Officials in the Trump administration and Biden transition were united in their condemnation of the Iranian regime for its execution of a journalist whose work encouraged protests over the country’s economic decline."
@@ -285,22 +237,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump Supporters Protest Biden Election Win; Violence Erupts at Night"
-    excerpt: "Evening violence broke out in Washington, D.C., during clashes between some of the president’s allies and counterprotesters."
-    publishedDateTime: 2020-12-13T06:14:00Z
-    webUrl: "https://www.wsj.com/articles/pro-trump-demonstrators-call-to-overturn-bidens-presidential-election-win-11607806033"
-    ampWebUrl: "https://www.wsj.com/amp/articles/pro-trump-demonstrators-call-to-overturn-bidens-presidential-election-win-11607806033"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/pro-trump-demonstrators-call-to-overturn-bidens-presidential-election-win-11607806033"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 165
-    images:
-      - url: "https://images.wsj.net/im-272735/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Trump Pursues Appointing Special Counsel to Probe Election, Hunter Biden"
     excerpt: "The president has expressed frustration with Attorney General William Barr as efforts to overturn the election have repeatedly failed."
     publishedDateTime: 2020-12-12T08:46:00Z
@@ -365,22 +301,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Following Trump, Biden Seeks Waiver for Defense-Chief Pick"
-    excerpt: "The nomination of the retired Army general renews a debate about civil-military relations and could put some congressional Democrats in the position of defending a move they had criticized four years ago."
-    publishedDateTime: 2020-12-10T02:10:00Z
-    webUrl: "https://www.wsj.com/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
-    ampWebUrl: "https://www.wsj.com/amp/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-to-introduce-lloyd-austin-as-defense-chief-rekindling-civilian-military-debate-11607531725"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-270768/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Seventeen states, Trump join Texas SCOTUS suit to toss Biden electors"
     excerpt: "Seventeen states on Wednesday filed a brief with the Supreme Court siding with a Texas lawsuit against four battleground states Joe Biden won — charging that they acted"
     publishedDateTime: 2020-12-09T22:21:00Z
@@ -428,22 +348,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/12/Richard-Painter-special-counsel-biden.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Trump slams lack of media coverage of Hunter Biden"
-    excerpt: "President Trump questioned why the media did not cover Hunter Biden before the election, before again claiming that he won."
-    publishedDateTime: 2020-12-11T18:44:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-media-coverage-hunter-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/HunterBiden-JoeBiden.jpg"
-        width: 4896
-        height: 2754
         isCached: true
   - title: "Kellyanne Conway: ‘It Looks like Joe Biden and Kamala Harris will prevail’"
     excerpt: "Kellyanne Conway says the party is probably over for her former boss and that Joe Biden and Kamala Harris will likely be moving into the White House in January. “The president wants to exhaust all"
@@ -509,22 +413,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Trump plans to outshine Biden on Inauguration Day with opposing rally: report"
-    excerpt: "A new report from Axios claims that President Trump is considering a dramatic White House departure that includes a final Air Force One flight to Florida where he will host a political rally during Joe Biden's inauguration."
-    publishedDateTime: 2020-12-07T00:03:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-inauguration-day-rally"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-inauguration-day-rally.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-inauguration-day-rally.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 147
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c9af622-e777-4a09-8aba-ddcfb4db83c8/edb67c5a-04bb-4b93-aacf-5ef8cad63a8a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Iran will reportedly hike oil production if Biden eases sanctions Trump imposed"
     excerpt: "President Hassan Rouhani was quoted in state media saying that before President Trump exited the Iranian nuclear deal in 2018 and reimposed crippling sanctions the Islamic Republic had exported"
     publishedDateTime: 2020-12-06T14:09:00Z
@@ -556,20 +444,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Trump keeps denouncing election as Biden transition grinds on"
-    excerpt: "If Trump is even mulling an inaugural counter-event, it means he recognizes that all of his efforts are likely to fail."
-    publishedDateTime: 2020-12-08T12:56:00Z
-    webUrl: "https://www.foxnews.com/media/trump-keeps-denouncing-election-as-biden-transition-grinds-on"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 145
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20338663126539-e1607365004301.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Kamala Harris' brother-in-law floated for attorney general"
     excerpt: "Vice President-elect Kamala Harris’ brother-in-law has been brought up as a potential nominee for U.S. attorney general in the forthcoming Biden administration, according to reports."
@@ -661,20 +535,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "President Trump: Joe Biden Lied About Hunter Biden Investigation On The Debate Stage"
-    excerpt: "President Trump discussed new reporting that confirms the FBI has indeed been investigating Joe Biden's son Hunter for financial crimes related to his business in Ukraine. President Trump was impeached for asking for help from an allied country about an ongoing criminal investigation."
-    publishedDateTime: 2020-12-13T15:51:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/12/13/president_trump_joe_biden_lied_about_hunter_biden_investigtion_on_the_debate_stage.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 73
-    images:
-      - url: "https://assets.realclear.com/images/52/529627.jpg"
-        width: 750
-        height: 562
-        isCached: true
   - title: "Donald Trump Is Not a Political Genius"
     excerpt: "As far as I can figure out, no Presidential margin reported at 1AM even half as large as Trump had at 3:41 AM 11/4 did not hold up in the state's history. So we are supposed to believe that there was double the natural volatility 2:42 hours later in the count than ever in history?"
     publishedDateTime: 2020-12-05T13:23:00Z
@@ -688,6 +548,34 @@ related:
       - url: "https://assets.realclear.com/images/52/528925_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Expect Big Things From Harris as Vice President"
+    excerpt: "Vice President-elect Kamala Harris is going to be a major voice in the White House during the next four years, writes Julian Zelizer. As an experienced senator, Harris will be able to help Biden solid"
+    publishedDateTime: 2020-12-08T12:27:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/12/08/expect_big_things_from_harris_as_vice_president_530775.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/528934_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Zero good options to replace Kamala Harris"
+    excerpt: "With Kamala Harris set to become vice president come January, Gov. Gavin Newsom must decide with whom to fill California's Senate vacancy — only the second in nearly three decades. In the bluest state in the union,"
+    publishedDateTime: 2020-12-08T13:59:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/zero-good-options-to-replace-kamala-harris"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/55fa6e1/2147483647/strip/true/crop/2290x1202+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F8d%2F2b%2F08b10149421da82926aba0c29760%2Fgavin-newsom-gop.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Hv56fM7X2xfw90vIOzk7fCuZUTJRFaqnb0MpTTclrCWqGtFxfHTObJHav/rBLrX2XZMJBtBCr+ZMbKAJS4OYRgPqIkY3+j5cJQKFTwbgmUV2I5q74Bt7XXfxOUnTrwxUGJwHNzxVhoyk1P0khXEavQNRP/E98BuGuqi6mayh65ttohD/gzwg6/ey8+TlCs68xfLw5r5FCEVr+rpHI1VDK1e8J4iOyZjCCxG7a5rek0lEUDSrPgD48oD3UgYvxCIROi+YHTALBSuVMKM2T6imfmLr43ZTBGlFhyCThk9VkwfCH3aqr2L0DW87edXmWivY6kWhV20Sf9DPzQsX7a2VX7fxempTh3c+0oGlmYeSjQA=;8/KGs9roAfybZ6NMDkas4Q=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/roy-blunt-balks-at-attempt-to-impea
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roy-blunt-balks-at-attempt-to-impeach-trump-again-not-going-to-happen.amp"
 type: article
 quality: 174
-heat: 194
+heat: 174
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 640
     height: 320
     isCached: true
-
-related:
-  - title: "Arkansas Gov. Hutchinson, who prosecuted Clinton impeachment, says impeaching Trump again was wrong move"
-    excerpt: "Arkansas Gov. Asa Hutchinson, who was a House impeachment manager during the impeachment of President Bill Clinton, says he believes it was wrong for the House to impeach President Trump for a second time."
-    publishedDateTime: 2021-01-17T15:57:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eEmqIV2CsN4/trump-impeachment-arkansas-gov-hutchinson"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-arkansas-gov-hutchinson.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-arkansas-gov-hutchinson.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/95fbc9c9-1d26-409c-9817-291634596bc5/1e54b272-83ba-4816-9ab8-24a9d09bb7bb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "4j6zPLkD5MXmYK/ZbACQItETRmkEe4132B6DDDpPY95ZLATQ9/oMTZvSsCNhL2jGDw0La6ZGO+Es41vuIi2zlCoQTtj0OmnhSurXS951MY5EsFeLfYjVInU3H63/WmOS6SGefAWvgQZC1JFSfEt6Suylds2Y+0QP/bhgHzpWLTUVdCv2ZkIrPfcqBv4VifkJccsTnHUZlkBKJ7dFG9Dy8Twtd3QAo1IKA+biAylnXwU/5kNTUXhe6ijOh35DIOizpCZTv+4otpgPXZYPcF+itw5RmOvJLijwCo892JVulCszLtx5uvt10kql0/qfNSTv6/C7I8TX103f6akM7s/62uM+RoXO9lAyFjtQ8UBpnI8=;aYne6klRgEJI9SCpGvYXUQ=="
 ---

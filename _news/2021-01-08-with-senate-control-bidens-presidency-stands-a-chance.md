@@ -42,22 +42,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Pence expected to attend Biden's inauguration: reports"
-    excerpt: "Vice President Mike Pence is expected to attend President-elect Joe Biden’s inauguration on Jan. 20, according to at least two reports."
-    publishedDateTime: 2021-01-08T07:33:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-B_3xBf_7Do/pence-expected-to-attend-bidens-inauguration-reports"
-    ampWebUrl: "https://www.foxnews.com/politics/pence-expected-to-attend-bidens-inauguration-reports.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-expected-to-attend-bidens-inauguration-reports.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 200
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/676700e9-2160-4bb3-a8ea-16fc47cd468a/849f19f1-aae0-4ebc-bd24-78bdb1acd69c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Pence uses Pelosi's own words to justify not invoking the 25th Amendment"
     excerpt: "Vice President Mike Pence told Speaker of the House Nancy Pelosi that he will not invoke the 25th Amendment, as lawmakers flooded into the House chamber for a vote Tuesday night on a resolution calling for him to do so."
     publishedDateTime: 2021-01-13T02:24:07Z
@@ -73,22 +57,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/927d176b-21c3-43cd-93dd-13312fed5937/dea40182-fa8f-47b1-9184-fc98ec627628/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump impeachment trial could hamper Biden congressional agenda in first days of presidency"
-    excerpt: "President Trump's Senate impeachment trial could hamper President-elect Joe Biden's congressional agenda in the first days of his presidency if House Speaker Nancy Pelosi transmits the article to the upper chamber before the inauguration, Republicans warn as Biden himself acknowledges concerns over lawmakers"
-    publishedDateTime: 2021-01-14T13:30:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wfj4iNyr1D8/trump-impeachment-trial-biden-congressional-agenda"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-trial-biden-congressional-agenda.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trial-biden-congressional-agenda.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 180
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "House committee meeting gets heated when Rep. Perlmutter asks Rep. Jordan if Biden won election"
     excerpt: "The tension was high Tuesday afternoon when the House Rules Committee met to debate a resolution calling for Vice President Mike Pence to convene the cabinet and invoke the 25th Amendment to remove President Trump from office before his term ends next week."

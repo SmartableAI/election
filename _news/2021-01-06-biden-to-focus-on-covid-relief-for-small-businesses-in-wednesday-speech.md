@@ -1581,6 +1581,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Sen. Klobuchar delivers opening remarks for Biden's inauguration"
+    excerpt: "Minn., delivered opening remarks for the inauguration of President-elect Joe Biden and Vice President-elect kamala Harris, highlighting the significance of them taking office and condemning the Capitol riot."
+    publishedDateTime: 2021-01-20T16:52:00Z
+    webUrl: "https://www.nbcnews.com/video/sen-klobuchar-delivers-opening-remarks-for-biden-s-inauguration-99729477774"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99729477774"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99729477774"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202101/nbc_spec_klobuchar_full_210120_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Congress affirms Biden as president after completing electoral vote count"
     excerpt: "After a day of riots at the Capitol, Congress counted the Electoral College votes and confirmed the win for President-elect Joe Biden and Vice President-elect Kamala Harris."
     publishedDateTime: 2021-01-07T09:24:00Z
@@ -1974,6 +1990,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/20/us/politics/20biden-photos88-2/20biden-photos88-2-videoSixteenByNine3000-v2.jpg"
         width: 3000
         height: 1689
+        isCached: true
+  - title: "Live updates: Biden inauguration"
+    excerpt: "Joe Biden has pledged to unify the nation after Donald Trump’s tumultuous four years in office. But he is facing a daunting task, with the nation still reeling from the siege on the Capitol, a tattered economy,"
+    publishedDateTime: 2021-01-20T16:41:00Z
+    webUrl: "https://www.politico.com/live-news-updates/2021/01/20/inauguration-day-2021-live-updates-online-coverage-highlights-210120"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/38/93/a4dffb6847e9ba057e3356b7a2d5/joe-and-jill-biden.jpg"
+        width: 1500
+        height: 1000
         isCached: true
   - title: "‘They should be flat beaten’: Biden blasts Cruz, Hawley after Capitol attack"
     excerpt: "President-elect Joe Biden said on Friday that Sens. Ted Cruz and Josh Hawley should be \"flat beaten\" in their next elections for their roles in contesting the 2020 election results. Biden made the remarks following calls from members of Congress for Cruz and Hawley to resign after rioters heeding President Donald Trump's call to contest the election results raided the Capitol."

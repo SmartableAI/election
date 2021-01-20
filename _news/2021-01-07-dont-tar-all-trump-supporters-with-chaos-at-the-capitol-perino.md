@@ -95,6 +95,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "What a Senate impeachment trial could mean for Trump - and why it might not happen at all"
+    excerpt: "President Trump could face some unpleasant consequences from an impeachment trial if he is convicted, but the proceedings may never begin."
+    publishedDateTime: 2021-01-14T02:36:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xgDYgSurEMo/trump-impeachment-after-leaving-office"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-after-leaving-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-after-leaving-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21003104274091.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump says in post-impeachment message that 'no true supporter' of his could endorse political violence"
+    excerpt: "President Trump released a video Wednesday evening denouncing last week's riots at the U.S. Capitol and declaring that no true supporter of his could support political violence."
+    publishedDateTime: 2021-01-14T00:51:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cXYoVdwCQW0/trump-post-impeachment-message-no-true-supporter"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-post-impeachment-message-no-true-supporter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-post-impeachment-message-no-true-supporter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c0ff7ca-92a9-447d-a84d-8ca44f2eae06/f6811563-0971-4869-bc00-44dd4ccfaa63/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Barr calls Trump conduct amid Capitol riot a 'betrayal of his office and supporters'"
     excerpt: "Former Attorney General William Barr says President Donald Trump’s conduct as a violent mob of his supporters stormed the U.S. Capitol was a “betrayal of his office and supporters.”"
     publishedDateTime: 2021-01-07T16:37:00Z

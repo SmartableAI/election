@@ -31,69 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Wyoming GOP rips Rep. Liz Cheney for voting to impeach Trump"
-    excerpt: "Wyoming Republican leaders said Cheney’s decision led to a “whirlwind” of criticism in her home state."
-    publishedDateTime: 2021-01-14T21:08:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EJtMBnZ6JXQ/wyoming-gop-rips-rep-liz-cheney-voting-impeach-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/wyoming-gop-rips-rep-liz-cheney-voting-impeach-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wyoming-gop-rips-rep-liz-cheney-voting-impeach-trump.amp"
+  - title: "Wyoming Republicans censure Cheney over Trump impeachment vote"
+    excerpt: "Wyoming's Carbon County Republican Party voted unanimously to censure Rep. Liz Cheney, R-Wyo., for voting with nine other House Republicans to impeach President Trump on charges of \"incitement of an insurrection.\""
+    publishedDateTime: 2021-01-19T14:35:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ULwU1c9iBk/liz-cheney-impeachment-republicans-herrera-beutler-wyoming"
+    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-impeachment-republicans-herrera-beutler-wyoming.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-impeachment-republicans-herrera-beutler-wyoming.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a35816a3-7e51-448c-bda9-a5a8814c76e9/2b740dbc-bc7a-45b2-bb1b-f8049089ff41/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Rep-Liz-Cheney.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "AOC says Republicans only care about Trump 'mob' when it's coming for them"
-    excerpt: "Rep. Alexandria Ocasio-Cortez on Thursday accused Republicans of neglecting what she characterizes as threats incited by President Trump unless they become the target."
-    publishedDateTime: 2021-01-14T23:52:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WOWTIClMtEg/aoc-republicans-only-care-trump-mob"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-republicans-only-care-trump-mob.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-republicans-only-care-trump-mob.amp"
+  - title: "Live Updates: Trump's chances for acquittal in upcoming Senate impeachment trial unclear"
+    excerpt: "Fox News contacted every Republican who will be serving as a senator after President-elect Joe Biden's inauguration on January 20, when the trial is likely to begin."
+    publishedDateTime: 2021-01-15T06:05:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_VZN_LyUW1o/live-updates-trump-impeachment-1-15-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-1-15-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-1-15-2021.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 166
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d067b54f-fd1f-4a23-bc8a-88d213bf4d12/eaaf4d35-fe32-4385-888b-9cb60c7d82c1/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/016de1e0-c12a-46c1-9ddc-3c1c9fd30c07/dabd96c7-2531-4829-823c-dcdd9c99015a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump’s sway with Republicans takes hit, but he still holds firm grip over GOP"
-    excerpt: "President Trump’s sway with Republicans takes hit in public opinion polls, but he still holds a firm grip over GOP"
-    publishedDateTime: 2021-01-18T16:45:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sPc-eS43GiA/trumps-sway-with-republicans-takes-hit-but-he-still-holds-firm-grip-over-gop"
-    ampWebUrl: "https://www.foxnews.com/politics/trumps-sway-with-republicans-takes-hit-but-he-still-holds-firm-grip-over-gop.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-sway-with-republicans-takes-hit-but-he-still-holds-firm-grip-over-gop.amp"
+  - title: "Kamala Harris could preside over Trump impeachment trial if John Roberts doesn’t"
+    excerpt: "The Constitution says that in impeachments for presidents, the chief justice of the Supreme Court is the presiding officer. For lesser impeachments, the presiding officer has been the same as for other Senate business —  either the vice president or a senator."
+    publishedDateTime: 2021-01-19T14:46:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-could-preside-over-trump-impeachment-trial-if-john-roberts-doesnt"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-could-preside-over-trump-impeachment-trial-if-john-roberts-doesnt.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-could-preside-over-trump-impeachment-trial-if-john-roberts-doesnt.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 145
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Prospect for Trump acquittal unclear as most GOP senators undecided or won't say how they will vote"
-    excerpt: "President Trump's chances for an acquittal in his upcoming Senate impeachment trial are unclear, as most Republicans either refuse comment on how they will vote or say they are undecided."
-    publishedDateTime: 2021-01-15T03:51:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tNS-KIT3Yuk/gop-senators-refuse-to-comment-on-impeachment-with-just-13-outright-objecting-to-it"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-senators-refuse-to-comment-on-impeachment-with-just-13-outright-objecting-to-it.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-senators-refuse-to-comment-on-impeachment-with-just-13-outright-objecting-to-it.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1babb2c-3f92-40ea-b9ad-1012787a0478/ec177a63-ad3a-4703-8921-79cab860d659/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21008723523422.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "KEj8lQ8rXMvQb2qDQpUmM4YPWOq/thLTbuhyFaAAaaU7cBtdBUDt6wBnoGmVkbayW7dWJ9f11Ne8L1cBuTwjeHKOR1QkRfjqeya/E59nAAN1V577Qlpa5S2Hs4t45uTegWdlv/Bqau2brDAQ1ZcN2QOMF40Q5RcwdrMqLiOtv+sSsQD6CF23emqcxSDsFKQTn8MGz9FuqxWjH4H0gUhnEmx/trU/IWGMlZzr4HyLTlMm/ytQRx83yMKxa1ziNL52vrbEAMZ+K8/Z+vY0NoP2dbXmW+IAWUz48q4lpU4qivzaTWQdHWTiNwQG6L4/5IlPUFiuksjohLD79QLyZCSIJ4467Cjzu6eAyl2w3/ltFgI=;awfsninXDDCFCXpnWqrIbg=="

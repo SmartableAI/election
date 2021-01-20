@@ -45,6 +45,22 @@ related:
         width: 2500
         height: 1787
         isCached: true
+  - title: "Kamala Harris becomes first female, first black and first Asian-American VP"
+    excerpt: "Kamala Harris has made history as the first female, first black and first Asian-American US vice-president. She was sworn i. Ms Harris, who is of Indian-Jamaican heritage, initially ran for the Democratic nomination."
+    publishedDateTime: 2021-01-20T16:50:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55738741"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55738741"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55738741"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 123
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/F67C/production/_116600136_mediaitem116600135.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "For friends and allies of Kamala D. Harris, deadly Capitol attacks prompt fresh fears"
     excerpt: "Pride in the achievement of Harris, soon to be the first Black woman sworn in as vice president, is now mixed with concern for her safety"
     publishedDateTime: 2021-01-14T16:04:00Z
@@ -309,6 +325,6 @@ related:
       domain: seattletimes.com
     quality: 47
 
-secured: "TQKLVakOMq8baIfi/X7rFrRJBXf1iwHF9hXobalkgwnsgnOb/efCb1IxKSaUGJYEfGoR8FhscJD028H6iFAJGCdSue+vCSjbdQjJSAMec4SPh4GwHSwu4/W94r+Lo/XiBMsuPOLh8zxu3kpv9mOEhPzZtDpX6fXsGwlCHu1zrKNxTtKaQbN9zdXn43AtWg+1jMEEksu7zllW2r8M9jc1iRQAXYKvE0YeCsWJlMIn34xF3L7nLMLxPUQ9rqoLtNNBAOqgDJr1pT5NOU8Vsh+IOEvBk/S3U3i0POOb8CeUW0QRIBHxsuGxI1n90YeXixWdGc/QaQGsX1/gBaS1h5yyqW8Ow7r2cLFw0r+VIbziVCc=;0V4b7FV5267523BmUHaGog=="
+secured: "BpO49AUhZMDeaBAOB0uWsT6KmPvqAOxF6nhChHk1DY1arzvAY4eOqBzll33DtJkxbmB3nl5zSiB3IJZVRxVElYSKtczthqiQZT6kpG9OXgob83XHDqHy2ZVwO50pFhcaXP2gDAX3VlEAJwZ0Uzhlt1nbiu5fpV+4EkqmB13iZ8BnAZJWO8ZGfYE3xZY/x1Bun3luU+LftGTNZtNNcUihlONflwz9+9gFP7Hq2ynViQXATmLbTqqapGnwIhlQzezsVSOoJgOYaKbcvHLE/t1/GQYmvKjqK9tXQAEPqXVg9eo0LEJZDlkmzWu5k6cAlLOlHiRQU/camr5++Cp+LIQuWEslC8kdJsRyhaoNATxpmZrgk9o9isQUf1pNIPzMQrjNC3hLVGFdKErlXwDCn+dY8k4BZr2JACPtQ3PVhpyTmLSrvPqn9mGWDq1RAuhmPgmm7iWTzSh5r3Z0cBWwpHF5vwyHkt8xwUfDysSF8xfpp2WRQXMnX2EFAd3vQ9hybpEI9E/TWEUr6DIW7ZO6mRTJ2g==;LLfob0iFCMbj6tBUANPwcQ=="
 ---
 

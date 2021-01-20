@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 1990
+heat: 2050
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119132343-01-capitol-flag-inauguration-0119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's 100-day sprint to undo Trump's 4 years"
+    excerpt: "Wednesday marks Joe Biden's first day as US president, but you're going to hear a lot about his first 100 days as he takes the reins, particularly when it comes to Covid.\n    \n"
+    publishedDateTime: 2021-01-20T15:11:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DVurEIlbPvc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/first-100-days-biden-challenge-trump-legacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/first-100-days-biden-challenge-trump-legacy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119213657-33-biden-inauguration-unf-0119-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1230,6 +1246,38 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/15/multimedia/00xp-bible1/merlin_65105444_2a8500fc-dade-4f37-9959-f850dac31b59-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Biden Inaugurated as the 46th President Amid a Cascade of Crises"
+    excerpt: "Joseph Robinette Biden Jr. and Kamala Devi Harris took the oath of office at a Capitol still reeling from the attack of a violent mob at a time when a deadly pandemic is still ravaging the country."
+    publishedDateTime: 2021-01-20T16:49:00Z
+    webUrl: "https://www.nytimes.com/2021/01/20/us/politics/biden-president.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/20/us/politics/biden-president.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/20/us/politics/biden-president.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/20/us/politics/20dc-biden1-sub3/20dc-biden1-sub3-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "How Joe Biden Became a Steady Hand Amid So Much Chaos"
+    excerpt: "In recent months, Mr. Biden’s restraint with words and his refusal to take the political bait laid by President Trump show a level of discipline as the 46th president faces a cascade of crises."
+    publishedDateTime: 2021-01-20T16:50:00Z
+    webUrl: "https://www.nytimes.com/2021/01/20/us/politics/president-joe-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/20/us/politics/president-joe-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/20/us/politics/president-joe-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/20/us/politics/20Biden-profile-top/20Biden-profile-top-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden will halt federal executions, other actions on first day in office"
     excerpt: "The president-elect has a long list of executive actions he plans to take as soon as he's sworn in on Jan. 20."

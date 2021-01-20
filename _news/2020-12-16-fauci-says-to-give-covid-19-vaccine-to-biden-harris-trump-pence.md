@@ -1519,6 +1519,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The Latest: Mike Pence arrives at Joe Biden’s inaugural"
+    excerpt: "The Latest on Joe Biden's presidential inauguration (all times local): 11:10 a.m. Vice President Mike Pence has arrived at the inauguration of President-Elect"
+    publishedDateTime: 2021-01-20T16:19:00Z
+    webUrl: "https://apnews.com/article/joe-biden-inauguration-news-0a49b6d8b3c9904d88d5bccfd854ab25/gallery/a1421ef0a5ed41479c0e480c3ffcf287"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 120
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/fcb727aa188945cbbae615d05231d945/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Biden's son faces investigation over taxes as Trump joins Texas lawsuit that aims to overturn election"
     excerpt: "President-elect Joe Biden's son Hunter Biden is facing a federal investigation into his tax records. Meanwhile, President Trump is focusing on overturning the election, joining a lawsuit brought to the Supreme Court by Texas' attorney general that seeks to invalidate ballots from four battleground states won by the president-elect."
     publishedDateTime: 2020-12-11T02:19:00Z
@@ -2390,6 +2404,22 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F604216%2Fthe_white_house_and_treesoriginal.jpg&w=1200&op=resize"
         width: 1200
         height: 800
+        isCached: true
+  - title: "The Latest: Capitol police officer accompanies Kamala Harris"
+    excerpt: "As the sun rose over Washington’s Freedom Plaza between the U.S. Capitol and the White House ahead of Joe Biden’s presidential inauguration, clusters of soldiers in full battle fatigues clustered"
+    publishedDateTime: 2021-01-20T14:09:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/20/the-latest-capitol-police-officer-accompanies-kamala-harris/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/20/the-latest-biden-harris-inauguration-ceremony-begins/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/20/the-latest-biden-harris-inauguration-ceremony-begins/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/Biden_Inauguration_Security_98269-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Time magazine names President-elect Joe Biden, Vice President-elect Kamala Harris as Person of the Year"
     excerpt: "Joe Biden and Kamala Harris, the president-elect and vice president-elect, were named Time magazine's Person of the Year."

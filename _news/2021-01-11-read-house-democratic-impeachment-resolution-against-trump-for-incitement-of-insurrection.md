@@ -7,7 +7,7 @@ originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gPxIrbiTz04/read-h
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gPxIrbiTz04/read-house-democratic-impeachment-resolution-against-trump-for-incitement-of-insurrection"
 type: article
 quality: 144
-heat: 164
+heat: 144
 published: true
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Trump reps decline comment on Giuliani involvement"
-    excerpt: "Rudy Giuliani claimed on ABC News Saturday that he’ll help defend the president at his upcoming second impeachment trial — but a Trump spokesman to tweeted hours later that Trump has"
-    publishedDateTime: 2021-01-17T08:19:00Z
-    webUrl: "https://nypost.com/2021/01/17/rudy-g/"
-    ampWebUrl: "https://nypost.com/2021/01/17/rudy-g/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/17/rudy-g/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/BB443C72-C7CF-4708-8F58-B85E14ECD1CD.jpeg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "Jouf09VMTD9OCppYpzpnpPd5lXHGdGdn6jQoG5rV+XUeSAM0aeQqQSLmKhqJL2D62AmfKElT5ucOqO390gnfEQtNKBb2JkUysX+dvjFhtUvCDdihbbdafYg/VC6c3yww1F/A/6m5kZNGKPtZp4GCimjyGqtnbHRCJ1e3MxPXBAEPNpep0WbEp5xEXMvSxX7SUB7MGhCdY8ePkLfLXB9HqUczmHLZTwf7qv1TtA7FMnTB3EjtKQekYQ6y5X+gZpNMFGG4MExPTY+zz+q+p+HSimFvV8xf7lSu1wjqVQO8FcHEsgcor9w3ThVyMsSFUQji53apaP4lxzex+pJAXJ0R8jNq35HWePlxBC9FiZNnZSE=;0DuF3XIKZgADneCbj2JxHg=="
 ---

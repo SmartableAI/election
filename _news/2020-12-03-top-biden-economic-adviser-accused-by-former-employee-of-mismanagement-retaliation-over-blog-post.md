@@ -47,6 +47,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Rahm Emanuel: Biden Has Four Unprecedented Crises, Four Unprecedented Opportunities"
+    excerpt: "Former Chicago mayor and former Obama chief of staff Rahm Emanuel comments on the opportunities presented to the Biden administration in the wake of four unprecedented crises, during ABC's \"This Week\" roundtable on."
+    publishedDateTime: 2021-01-19T09:23:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/17/rahm_emanuel_biden_has_four_unprecedented_crises_therefore_four_unprecdecented_opportunities.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 59
+    images:
+      - url: "https://assets.realclear.com/images/50/503567.jpg"
+        width: 500
+        height: 375
+        isCached: true
 
 secured: "GVQSuGKT+HqoSkvF2qfSn8+LSFVyYNvXwxB55VQHWeFjz2ZdIzPGkjZUzaizjTL6JpfmD+k42oy1vrGGkdEzMaaqIwLKs9XLFhMrUH539y6DaYWA6lkUUPD7HXdQkB+Gfara/FvhJ6Th/1btpMZp21s3Ntjpns8SaqnKpJz7VB3dV3NvUPJsYWnuaq5j7T6pg7qeS6MKc5YkutIhqZ1zbPUKnMAxg7Ue3Ip8JnWKlR0z+o17MBbDn6WbLou7WnhVjkLWG7sxJR6ndJT99CcnNU8Y26QVkGL9ZfHWf6fngnWnLP9SKExy7iCGv4WAERQHPqs+csgMmyTg57MjHMoy9gXF0iB7aeIW6wLem0cOH2Q=;NyPUCPifvhMvd1xv/t/Dcw=="
 ---

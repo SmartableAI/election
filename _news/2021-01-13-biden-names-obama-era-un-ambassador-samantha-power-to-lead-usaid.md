@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Grenell: Susan Rice will be 'shadow president' in Biden administration"
-    excerpt: "Former Obama national security adviser Susan Rice has been tapped to lead the White House Domestic Policy Council in the Biden administration, but former acting DNI Ric Grenell believes she could be in control of a lot more."
-    publishedDateTime: 2021-01-17T19:57:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P1wtMbSk3dE/grenell-susan-rice-shadow-president-biden-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/grenell-susan-rice-shadow-president-biden-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/grenell-susan-rice-shadow-president-biden-administration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20345054665538-e1607616629617.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Biden gives DOJ green light to resume Obama-era 'slush fund' payouts to liberal groups"
     excerpt: "President-elect Joe Biden is calling for the Justice Department to look into reinstating a controversial Obama-era practice that allowed prosecutors to make settlement agreements that resulted in defendants paying outside groups instead of victims or the government."
     publishedDateTime: 2021-01-20T13:32:23Z
@@ -94,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21016585102575.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden team says US 'cannot afford gaps in national security leadership,' urges Senate to confirm nominees"
+    excerpt: "Biden transition officials said the U.S. “cannot afford gaps in national security leadership,” urging the Senate Republicans to confirm President-elect Joe Biden’s key nominees ahead of Inauguration Day."
+    publishedDateTime: 2021-01-13T20:34:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qj2co2jJe8k/biden-team-national-security-gaps-senate-confirm-nominees"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-team-national-security-gaps-senate-confirm-nominees.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-team-national-security-gaps-senate-confirm-nominees.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "Wo+wc5fZ9FkKR3odXJk0wOvfeqTKksZNhuRujzrcJvIgm9Trj4VOyAO02V1yGMbSHz3t+U5lhr/Ky/RIVoQToaAVdUA565VMBS21pvO9ioL3lWz7P1qhz9i3jdFib48PR277q/LejyQyrSasysu2/e1FlCh7MiGgQT6HhGIvdV0HtQd9n+WVTXWMnfWw+qQZ/sKXalpwK/tyybPcLLh6yFHid5scIv6J1P98U2/JxIAi4NOChrSm3Eks5mHSY+CXSlOY6dtvCiSDH5v+6wxlhcSN8IJ+kaYaXyu7JiFTIl5Xp2eJzbGNux879Bjtm29dPsOhwnZAaXbfEuAL8x7euA9JNRl19ZI4Jzl+cJ/Kuok=;wIWTOt6OqcgLGrCJzY159g=="

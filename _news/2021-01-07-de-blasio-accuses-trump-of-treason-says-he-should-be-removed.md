@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "NYC moves to terminate Trump Organization contracts after Capitol riot"
-    excerpt: "Mayor Bill de Blasio announced Wednesday that New York City will terminate three contracts with the Trump Organization in the wake of last week’s riot at the Capitol building — the latest fallout for President Trump over the violence in Washington, D.C."
-    publishedDateTime: 2021-01-13T14:53:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PteFKT2KRSE/nyc-terminate-trump-organization-contracts"
-    ampWebUrl: "https://www.foxnews.com/politics/nyc-terminate-trump-organization-contracts.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nyc-terminate-trump-organization-contracts.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f2994cc-a20c-4f4e-b408-54eaceba8700/46556c28-264f-4152-962b-ed539402d138/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "James Mattis denounces Trump, says he will be 'left a man without a country'"
     excerpt: "Former Defense Secretary James Mattis rebuked President Trump on Wednesday, accusing him of fomenting violence at the U.S. Capitol and poisoning Americans' respect for fellow citizens."
     publishedDateTime: 2021-01-07T04:32:45Z
@@ -60,6 +44,22 @@ related:
     quality: 172
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d358d2cc-f940-473b-bfb7-5e489ad2caa5/4bf5cd6b-a53b-4fb6-9b9e-3b41fa25e8b0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "President Trump urges protesters to be peaceful after they clash with police, breach Capitol"
+    excerpt: "Amidst chaos and violence at Capitol Hill Wednesday in support of the president, Trump and his son Donald Trump Jr. urged peace among protesters who had forced their way into the capitol building. "
+    publishedDateTime: 2021-01-06T20:49:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YXeCv6PMoZo/trump-don-jr-urge-protesters-to-be-peaceful-after-they-clash-with-police-breach-capitol"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-don-jr-urge-protesters-to-be-peaceful-after-they-clash-with-police-breach-capitol.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-don-jr-urge-protesters-to-be-peaceful-after-they-clash-with-police-breach-capitol.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1634d190-f04d-466f-9adb-4458330ac017/18a24fae-b741-48f8-b897-8bf64a80f1f6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

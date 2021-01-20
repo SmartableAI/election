@@ -95,22 +95,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Dems 'caught up in their own mob mentality,' trying to 'blame everything on Trump': Hurt"
-    excerpt: "While Republicans look inward in the aftermath of the Capitol Hill riots after President Trump's address Wednesday, Democrats are adding to the division, Fox News contributor Charles Hurt argued Friday."
-    publishedDateTime: 2021-01-08T15:21:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5eowpSInbqs/trump-capitol-democrats-biden-harris-charles-hurt"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-capitol-democrats-biden-harris-charles-hurt.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-capitol-democrats-biden-harris-charles-hurt.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "TKeTz6A+vBkWHAKarTlX+tdw44l9ZXBiuzBXDYD8/v8x8GblfaBjCgqQsdsvNa27kgAl3vEjFnMZlcyQunuztLAEyWd3y/MhBwCPxlpr2zIULXOTC+GcPHpRtLoExOtIxE4k7NsxU5hZCtg/DmMve8NNOjdFYNkNU6sn9UrRkoLQE/rV2Qz3d4xTtUDxwGkhxmCiIXrE4GJNHtydTBEnMkPv1VI24j7cAQIZ7WF/PmEFrSrsSf6ghmFiLgoXvSOZKXK5SmZZS3V/KBcIBfuLQ9WuGeb4mZ2TUxJJSJJcIP3Imm0yXYqDmyGZD2qt5uIu4+NTQF9+GD1lzD3LYkFnTu+n77MqmL0ZExmN4pPFLrE=;haoBW+WvFWlvuNCvavYDJg=="
 ---

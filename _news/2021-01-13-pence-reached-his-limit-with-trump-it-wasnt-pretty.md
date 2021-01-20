@@ -512,6 +512,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence arrives for Biden's inauguration as Trump lands in Florida"
+    excerpt: "Vice President Mike Pence arrives at the Capitol for the inauguration of President-elect Joe Biden as President Trump lands in Florida after departing Washington, D.C. earlier in the morning."
+    publishedDateTime: 2021-01-20T16:27:00Z
+    webUrl: "https://www.nbcnews.com/video/pence-arrives-for-biden-s-inauguration-as-trump-lands-in-florida-99727941674"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99727941674"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99727941674"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 165
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/nbc_spec_pence_arrival_210120_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Pence to attend Biden inauguration; Trump never called him in the Capitol bunker, sources say"
     excerpt: "A loyal lieutenant to President Donald Trump, Pence was criticized by the president over his role counting Electoral College votes in Congress and was one of the people trapped inside the U.S. Capitol when Trump supporters stormed the building as the votes were being tallied."
     publishedDateTime: 2021-01-10T09:14:00Z
@@ -972,6 +988,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "For Kamala Harris, an Influential Voice and a Decisive Vote"
+    excerpt: "With a tiebreaking vote in an evenly divided Senate, Ms. Harris may be returning to the Capitol frequently. But her history-making role is likely to include many more responsibilities."
+    publishedDateTime: 2021-01-20T15:12:00Z
+    webUrl: "https://www.nytimes.com/2021/01/20/us/politics/kamala-harris-vice-president.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/20/us/politics/kamala-harris-vice-president.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/20/us/politics/kamala-harris-vice-president.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/20/lens/20dc-harris-photo/20dc-harris-photo-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Kamala Harris Has Always Worn Pearls. Now, in Sisterhood, So Will They."
     excerpt: "Women across the country are pledging to wear pearls on Inauguration Day to support the country’s first female Vice President-elect."
     publishedDateTime: 2021-01-19T17:58:00Z
@@ -1003,6 +1035,22 @@ related:
       - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/nbc_spec_harrisfull_1_210119_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "The hard part for Kamala Harris will come after she makes history"
+    excerpt: "When Kamala Harris takes the oath of office Wednesday she will be carrying the hopes, dreams, fears, stereotypes and expectations of every woman of color that has ever imagined a job in politics. After laying her hand on the Bibles of the first Black Supreme Court justice and Regina Shelton,"
+    publishedDateTime: 2021-01-20T09:30:00Z
+    webUrl: "https://www.politico.com/news/2021/01/20/kamala-harris-inauguration-2021-460552"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/20/kamala-harris-inauguration-2021-460552"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/20/kamala-harris-inauguration-2021-460552"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/54/98/bc150f724b6a9d7edd40d46fdca6/210119-kamala-harris-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "What’s It Like to Have Kamala Harris As ‘Momala’? We Asked Her Stepkids."
     excerpt: "But on the night that Joe Biden and his vice-presidential running mate, Kamala Harris, delivered their acceptance speeches, with their families gathered onstage, watching fireworks, Cole began receiving astonished texts from friends and colleagues."
