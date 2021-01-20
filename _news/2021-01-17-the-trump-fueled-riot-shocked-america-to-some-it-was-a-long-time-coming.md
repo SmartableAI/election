@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "What impact could deplatforming Donald Trump have?"
+    excerpt: "Donald Trump has been kicked off of most major social media platforms. What effect does deplatforming tend to have on the spread of misinformation?"
+    publishedDateTime: 2021-01-20T18:34:00Z
+    webUrl: "https://www.cnn.com/videos/business/2021/01/20/donald-trump-twitter-facebook-parler-deplatform-orig.cnn-business"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/01/20/donald-trump-twitter-facebook-parler-deplatform-orig.cnn-business"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/01/20/donald-trump-twitter-facebook-parler-deplatform-orig.cnn-business"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112131645-donald-trump-twitter-suspendido-libertad-de-expresion-roberto-izurieta-arduino-encuentro-cnn-00000000-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "ugbcWuU6v441gVmMaP+XBWeoXxjeqTz5zml7KKWXqmSujX8EAmzS/zpVzUA5yGovILdqsP5oZLKJIIdLctejEujbkFJ7hsoep2I3mNymcNQP2rDSUIYCSNFUzGW7dW0taaF5rvwKINgKtGHcYGLrDRMyuyBMfeSvvofhnHTCZsJHaqd4IpYgORzLW+ICi4i/4iyHJ4/c7ctXLtUYoYpeDGwlsi29wrzDQY6fE8PYbiJLOGm7RxbirvaKv2SW9xVgEVW/A5Grl1tbYeOFtu3verPsWHDJu4Iajh1KtF3nbrqTiMPM4g+EQZy1y3FKDoc7/zPbpvxAy89jkka9yoyCWMbI6BNlEiKyp2GMfIAYfmHd7CtC3pinzmFBzYVqbyiClM7q0KZef9MHw6lrjcrN7rrdMdb7Epm3+xFnSO9XNq/YK53AoXi+9caIugQQJv60Iko+gDNBZXnapPkLckegDpxOAEpzH8XlkkkgmU6e152/tmlVHZ8kXiLGnCpA73WOmeXNzlrE+krdFoxSPDTRgg==;OXHdIj4rGCQavdjXgoYmOw=="
 ---

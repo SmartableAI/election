@@ -511,6 +511,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: The most important line in Joe Biden's inaugural address"
+    excerpt: "About halfway through his inauguration speech, President Joe Biden said something very important about the work of Washington -- and how he envisions his presidency.\n    \n"
+    publishedDateTime: 2021-01-20T19:08:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YWnBmD9zkgA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/important-line-biden-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/important-line-biden-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120105134-52-biden-inauguration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden was sworn in on a storied 19th-century family Bible "
     excerpt: "President Joe Biden was sworn in on a 19th century family Bible on Wednesday, continuing his longtime tradition of using the heirloom during his decades of public service.\n    \n"
     publishedDateTime: 2021-01-20T18:18:38Z

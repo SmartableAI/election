@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden, Harris partake in Arlington wreath laying ceremony"
+    excerpt: "President Joe Biden and Vice President Kamala Harris, after being sworn in at the Capitol, traveled to Arlington National Cemetery for a ceremony at the Tomb of the Unknown Soldier. "
+    publishedDateTime: 2021-01-20T20:38:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dGCJkdoT_Lc/biden-harris-arlington-wreath-laying-ceremony"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-arlington-wreath-laying-ceremony.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-arlington-wreath-laying-ceremony.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Arlington-Wreath-Biden-Harris-AP-2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden's 'humane' immigration plan gives green cards to TPS, DACA recipients, Harris says"
     excerpt: "Vice President-elect Kamala Harris Tuesday said the Biden administration will take a more \"humane\" approach to immigration when the president-elect takes office next week."
     publishedDateTime: 2021-01-13T11:07:07Z
@@ -45,6 +61,22 @@ related:
     quality: 191
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43d8096c-96b6-417b-9e70-d106d78ea892/bc25fb44-5fe3-47a2-9bd7-1ee6ed3cb202/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice President-elect Harris will be sworn in by Justice Sonia Sotomayor"
+    excerpt: "The swearing-in of Vice President-elect Kamala Harris Wednesday, will acknowledge historical milestones as the first Latina Supreme Court justice oversees the ceremony."
+    publishedDateTime: 2021-01-16T22:04:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fHr0DE--AsY/vice-president-elect-harris-sworn-sonia-sotomayor"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-president-elect-harris-sworn-sonia-sotomayor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-elect-harris-sworn-sonia-sotomayor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fed884c-b708-4ec0-9242-0b2b61b4244a/15d1d9b5-6b44-4c76-8142-bdc1d653054b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -96,22 +128,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Migrant caravan demands Biden administration 'honors its commitments'"
-    excerpt: "A migrant caravan moving from Honduras toward the U.S. border is calling on the incoming Biden administration to honor what it says are \"commitments\" to the migrants moving north, amid fears of a surge at the border when President-elect Joe Biden enters office."
-    publishedDateTime: 2021-01-16T19:44:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dB2jQlxknAE/migrant-caravan-biden-administration-commitments"
-    ampWebUrl: "https://www.foxnews.com/politics/migrant-caravan-biden-administration-commitments.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-caravan-biden-administration-commitments.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43d8096c-96b6-417b-9e70-d106d78ea892/bc25fb44-5fe3-47a2-9bd7-1ee6ed3cb202/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden picks South Carolina’s Jaime Harrison to steer Democratic Party: sources"
     excerpt: "Former South Carolina Democratic Party Chair Jaime Harrison has been tapped by President-elect Joe Biden to serve as the next chair of the Democratic National Committee (DNC), two party sources confirm to Fox News."
     publishedDateTime: 2021-01-14T18:37:41Z
@@ -127,22 +143,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Why Kamala Harris’ Vogue cover is trending on social media"
-    excerpt: "Kamala Harris is Vogue’s new cover girl — but it isn’t winning her any votes. The vice president-elect appears on the February front of the fashion bible in a set of her own duds"
-    publishedDateTime: 2021-01-10T18:09:00Z
-    webUrl: "https://nypost.com/2021/01/10/why-kamala-harris-vogue-cover-is-trending-on-social-media/"
-    ampWebUrl: "https://nypost.com/2021/01/10/why-kamala-harris-vogue-cover-is-trending-on-social-media/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/10/why-kamala-harris-vogue-cover-is-trending-on-social-media/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/kamala-harris-vogue.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Black Women Ready to Virtually Cheer On Kamala Harris’s Inauguration"
     excerpt: "President-elect Joe Biden and Ms. Harris will be sworn into office during a scaled-back inauguration in a heavily fortified Washington."
@@ -160,6 +160,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "'CBS Sunday Morning' fawns over Kamala Harris with 'cozy' interview"
+    excerpt: "CBS fawned over Vice President-elect Kamala Harris on Sunday with a glowing feature that could indicate how the incoming administration will be treated by the mainstream media."
+    publishedDateTime: 2021-01-18T14:55:00Z
+    webUrl: "https://www.foxnews.com/media/cbs-sunday-morning-fawns-kamala-harris-cozy-interview"
+    ampWebUrl: "https://www.foxnews.com/media/cbs-sunday-morning-fawns-kamala-harris-cozy-interview.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cbs-sunday-morning-fawns-kamala-harris-cozy-interview.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2265dc7-c2de-4b08-9cea-86b4ebe64632/db6daa92-b888-49ae-a844-b925a3f30557/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris will resign Senate seat Monday in run-up to inauguration"
     excerpt: "Vice President-elect Kamala Harris will resign her Senate seat on Monday – two days before she and President-elect Joe Biden are sworn in on Inauguration Day."
     publishedDateTime: 2021-01-17T19:35:00Z
@@ -175,6 +191,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21017083103212.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Capitol Police Officer Eugene Goodman, hero during riots, escorts Kamala Harris during inauguration"
+    excerpt: "Capitol Police officer Eugene Goodman escorted Vice President Kamala Harris into the Capitol building Wednesday ahead of the inauguration ceremony."
+    publishedDateTime: 2021-01-20T17:16:00Z
+    webUrl: "https://www.foxnews.com/us/capitol-police-officer-eugene-goodman-hero-during-riots-escorts-kamala-harris-during-inauguration"
+    ampWebUrl: "https://www.foxnews.com/us/capitol-police-officer-eugene-goodman-hero-during-riots-escorts-kamala-harris-during-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/capitol-police-officer-eugene-goodman-hero-during-riots-escorts-kamala-harris-during-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "9uiIHrVTq/xqH7/8CpKtvheFDdJidvECuquDJAA+8ZhGpyg/UeqTexhzM5ujHi7aHXKADuVmZuLz9/vtqv4zrtmtKxsHCFZQzzyOjveL/3Q2hcqlBRpMRTT2aRBMIgnSlJY9io6U47x310juNX2ndxcz2j7wJGOfHyoDDwjOQ1c+VdffVT9bsVUBi64yZDrCyzlQrDv/gYykNHWFMgZD5BJzl+DyfYm34wRcfDGi/pB1E/5Gj1kV1clUIydkdvcrvNG1BDF0xrBW82tOxhatF5Z88FYZ8EFV/dELO00cf/FVhfjk/dMKXQNubAYDF6UEo2+Bb/KbQUifjO8pr6OjeSb0exSpnCRC1qVaw10RFVA=;Rermy2nocm1ybuG8sHz/HQ=="

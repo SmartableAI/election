@@ -48,22 +48,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "'CBS Sunday Morning' fawns over Kamala Harris with 'cozy' interview"
-    excerpt: "CBS fawned over Vice President-elect Kamala Harris on Sunday with a glowing feature that could indicate how the incoming administration will be treated by the mainstream media."
-    publishedDateTime: 2021-01-18T14:55:00Z
-    webUrl: "https://www.foxnews.com/media/cbs-sunday-morning-fawns-kamala-harris-cozy-interview"
-    ampWebUrl: "https://www.foxnews.com/media/cbs-sunday-morning-fawns-kamala-harris-cozy-interview.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cbs-sunday-morning-fawns-kamala-harris-cozy-interview.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2265dc7-c2de-4b08-9cea-86b4ebe64632/db6daa92-b888-49ae-a844-b925a3f30557/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "jjLh9l6Vq9BdQoiAJy1sxHehlCVaAUUYQjCKlgOf9X5cU0sy+D/oO5H5MeKtQTubC8+Wxuzx5BsuQPIqsALKi2kTWZzAg91wu47LTW/m5/JiinCFwUMfOOczuNhW1wUv8EklE//REr0wvtnaJWdLwBwvuY89xwD1FGrbi74XVa4DlhPhUqDxZRqTkAbpYmOv260rvw2/pArvt2YNIEceowiclG/Pm6rimB5wIfUJkM+eXfRpudQNZGJDJT66J+EIncqdPRhdzFW9ZEOmZ55qTzwR47I35kgt0HiGArLImGjijItCzoJsZiUI/dALN/htlgsEfAx3rcjc/ks3xgYiUT9WcpM5IC2SmJhvwJOmeDMChVPmqGjGBgV4G5sy2k3SLiI472NaBJ15lXok1mwe124IRNCjB/EebeyiKWoHQzbckeizBQV9sezYYBRv5Rl4/HVNrPftCfmkcQQ570ksaxBZC9Vm2XFcl0RlhAbUfwoFLMck6d0VutqtJFd5VJVaGStoSUNixT4YzdzEHyxm/Q==;gkZeV2YEmZn9FkILNwawAg=="
 ---

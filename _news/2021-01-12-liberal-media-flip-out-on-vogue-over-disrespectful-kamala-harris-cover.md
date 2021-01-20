@@ -48,37 +48,21 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Vice President-elect Harris will be sworn in by Justice Sonia Sotomayor"
-    excerpt: "The swearing-in of Vice President-elect Kamala Harris Wednesday, will acknowledge historical milestones as the first Latina Supreme Court justice oversees the ceremony."
-    publishedDateTime: 2021-01-16T22:04:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fHr0DE--AsY/vice-president-elect-harris-sworn-sonia-sotomayor"
-    ampWebUrl: "https://www.foxnews.com/politics/vice-president-elect-harris-sworn-sonia-sotomayor.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-elect-harris-sworn-sonia-sotomayor.amp"
+  - title: "Why Kamala Harris’ Vogue cover is trending on social media"
+    excerpt: "Kamala Harris is Vogue’s new cover girl — but it isn’t winning her any votes. The vice president-elect appears on the February front of the fashion bible in a set of her own duds"
+    publishedDateTime: 2021-01-10T18:09:00Z
+    webUrl: "https://nypost.com/2021/01/10/why-kamala-harris-vogue-cover-is-trending-on-social-media/"
+    ampWebUrl: "https://nypost.com/2021/01/10/why-kamala-harris-vogue-cover-is-trending-on-social-media/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/10/why-kamala-harris-vogue-cover-is-trending-on-social-media/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fed884c-b708-4ec0-9242-0b2b61b4244a/15d1d9b5-6b44-4c76-8142-bdc1d653054b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Capitol Police Officer Eugene Goodman, hero during riots, escorts Kamala Harris during inauguration"
-    excerpt: "Capitol Police officer Eugene Goodman escorted Vice President Kamala Harris into the Capitol building Wednesday ahead of the inauguration ceremony."
-    publishedDateTime: 2021-01-20T17:16:00Z
-    webUrl: "https://www.foxnews.com/us/capitol-police-officer-eugene-goodman-hero-during-riots-escorts-kamala-harris-during-inauguration"
-    ampWebUrl: "https://www.foxnews.com/us/capitol-police-officer-eugene-goodman-hero-during-riots-escorts-kamala-harris-during-inauguration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/capitol-police-officer-eugene-goodman-hero-during-riots-escorts-kamala-harris-during-inauguration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 121
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/kamala-harris-vogue.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "uh8QapwepDXNQbMkGTCmhAROMA0AU26A0EMDHJTNI5w55KWA5qyH1MNYC10Yf15JGx2JgmoKpPuhUHZ1l4b6ptdN2Lp0hPVGYwFO/Cwo88Aqyp5D1/seC7vXpdkC6l1FGbCw6bp12BgRJXTBzNG0Gl0EGkj6k6NSKvJRrEpE0t33X5E6Y5QpFQIJwFBbrCEV0rSkj4H0LqLExYnONgDmjLg2n6lqcMf9ObihxJEcRH+r9kWf8ZKHX4gFC0NcYBmlOR+jFSwZLTf0nzRsOddDq+hWXIUuKBRSq5hc7/6K0VpOHLreFZGi0nJ0RJkifZiEmaRQVFMRDfFU5Mg5mSBGGtq55+ofSMIspkI83MjPBU0=;S93STWeEOHjwWyyDxBCkQQ=="

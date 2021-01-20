@@ -592,6 +592,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris waves goodbye to Mike Pence in moment of unity"
+    excerpt: "Vice President Kamala Harris and her husband Doug Emhoff escorted former Vice President Mike Pence and his wife Karen Pence from the Capitol in a moment of unity after President Joe Biden was inaugurated."
+    publishedDateTime: 2021-01-20T19:25:00Z
+    webUrl: "https://www.nbcnews.com/video/kamala-harris-waves-goodbye-to-mike-pence-in-moment-of-unity-99736133828"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99736133828"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99736133828"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/nbc_harris_escorts_pence_210120_1611170540632.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Pelosi demands acting Pentagon chief halt his order to NSA to install Trump loyalist as general counsel"
     excerpt: "House Speaker Nancy Pelosi is demanding acting Defense Secretary Christopher Miller \"immediately cease\" his plans to install a Trump loyalist as the National Security Agency's general counsel, calling the move \"highly suspect\" and arguing it represents a \"disturbing disregard\" for the country's national"
     publishedDateTime: 2021-01-18T19:27:09Z

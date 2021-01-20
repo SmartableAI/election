@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-presidency/index.html"
 type: article
 quality: 225
-heat: 1945
+heat: 1965
 published: true
 
 provider:
@@ -576,6 +576,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/30/us/politics/OakArticle-600706b6/OakArticle-600706b6-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Kamala Harris waves goodbye to Mike Pence in moment of unity"
+    excerpt: "Vice President Kamala Harris and her husband Doug Emhoff escorted former Vice President Mike Pence and his wife Karen Pence from the Capitol in a moment of unity after President Joe Biden was inaugurated."
+    publishedDateTime: 2021-01-20T19:25:00Z
+    webUrl: "https://www.nbcnews.com/video/kamala-harris-waves-goodbye-to-mike-pence-in-moment-of-unity-99736133828"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99736133828"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99736133828"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/nbc_harris_escorts_pence_210120_1611170540632.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden, Harris to receive daily briefing, Trump to hold award ceremony, bill signing"
     excerpt: "Biden and Harris also will record an interview with CNN, while Trump will present the medal to former football coach Lou Holtz and participate in a bill signing."

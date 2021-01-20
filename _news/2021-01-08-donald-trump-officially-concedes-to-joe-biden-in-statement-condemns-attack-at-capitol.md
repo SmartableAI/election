@@ -5057,6 +5057,20 @@ related:
       name: Time
       domain: time.com
     quality: 83
+  - title: "Photos: How Donald Trump and Mike Pence spent Joe Biden’s Inauguration Day"
+    excerpt: "Trump boarded Air Force One for a final time Wednesday morning, en route to his post-presidency residence in Palm Beach, Florida."
+    publishedDateTime: 2021-01-20T19:59:00Z
+    webUrl: "https://www.boston.com/news/politics/2021/01/20/photos-donald-trump-mike-pence-leave-office"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 83
+    images:
+      - url: "https://www.boston.com/wp-content/uploads/2021/01/trump-florida-60087d84305dd-850x478.jpg"
+        width: 850
+        height: 478
+        isCached: true
   - title: "Congress, Pence formally certify Joe Biden's electoral victory"
     excerpt: "Vice President Mike Pence, in his ceremonial role as president of the Senate, formally announced that after counting the electoral votes submitted by the states, President-elect Joe Biden is the official winner of the 2020 election."
     publishedDateTime: 2021-01-07T10:37:00Z

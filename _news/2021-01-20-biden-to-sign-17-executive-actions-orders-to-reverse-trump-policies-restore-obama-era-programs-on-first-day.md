@@ -879,6 +879,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Social distancing guidelines flouted at Biden inauguration"
+    excerpt: "The ceremony for the inauguration of President Biden was sparsely attended due to concerns over coronavirus, but the notable figures who were there did not always appear to follow social distancing guidelines."
+    publishedDateTime: 2021-01-20T20:23:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/32ws10_yjSg/biden-inauguration-social-distancing-guidelines-flouted"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-social-distancing-guidelines-flouted.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-social-distancing-guidelines-flouted.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Speakers at Biden's inauguration ceremony: Full lineup"
     excerpt: "These speakers are set to deliver remarks, readings or oaths during the 59th presidential inauguration swearing-in ceremony on Wednesday."
     publishedDateTime: 2021-01-20T14:05:21Z
@@ -975,6 +991,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Was Bill Clinton 'nodding off' at Biden's inauguration? Twitter users speculate"
+    excerpt: "Twitter users speculated that former President Bill Clinton nodded off during Wednesday's inaugural ceremony for President Biden."
+    publishedDateTime: 2021-01-20T19:22:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/12HphrYA_aU/bill-clinton-sleeping-biden-inauguration-twitter"
+    ampWebUrl: "https://www.foxnews.com/politics/bill-clinton-sleeping-biden-inauguration-twitter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-clinton-sleeping-biden-inauguration-twitter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/hillary.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Joe Exotic, Assange, Snowden: Here's who wanted a Trump pardon but didn't get one"
+    excerpt: "Although former President Donald Trump issued more than 73 pardons and 70 commutations before his departure from the White House on Wednesday, some popular names were not included on the list. "
+    publishedDateTime: 2021-01-20T20:35:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/74JgzIpbhi0/joe-exotic-assange-snowden-who-wanted-a-trump-pardon-but-didnt-get-one"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-exotic-assange-snowden-who-wanted-a-trump-pardon-but-didnt-get-one.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-exotic-assange-snowden-who-wanted-a-trump-pardon-but-didnt-get-one.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/AP20091469466904.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Ahead of Biden inauguration, FBI Director Wray warns of 'concerning online chatter'"
     excerpt: "FBI Director Christopher Wray warned Thursday that authorities are monitoring calls for “potential armed protests” in Washington D.C. and state capitols."
     publishedDateTime: 2021-01-14T23:13:36Z
@@ -988,6 +1036,38 @@ related:
     quality: 169
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/076469f3-c522-4963-8eb9-8dfba72bc6e1/11010aed-d5b3-4315-913f-bf24ab94645c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "3 oldest Supreme Court justices skip Biden inauguration due to coronavirus pandemic"
+    excerpt: "The Supreme Court’s three oldest justices did not attend President Biden's inauguration Wednesday due to the coronavirus pandemic. "
+    publishedDateTime: 2021-01-20T19:08:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ht6GxTKkdx4/3-supreme-court-justices-didnt-attend-inauguration-covid-19"
+    ampWebUrl: "https://www.foxnews.com/politics/3-supreme-court-justices-didnt-attend-inauguration-covid-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/3-supreme-court-justices-didnt-attend-inauguration-covid-19.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "China slaps sanctions on Pompeo, Navarro, other top Trump administration officials"
+    excerpt: "China imposed sanctions Wednesday on more than two dozen Trump administration officials, including outgoing Secretary of State Mike Pompeo, just as President Biden was sworn into office."
+    publishedDateTime: 2021-01-20T20:20:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zgcvfcnZnzU/china-sanctions-pompeo-navarro-other-top-trump-admininstration-officials"
+    ampWebUrl: "https://www.foxnews.com/politics/china-sanctions-pompeo-navarro-other-top-trump-admininstration-officials.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/china-sanctions-pompeo-navarro-other-top-trump-admininstration-officials.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a7f726b-1fd4-4e11-852b-d0dbb72a9c8e/bc4260c4-0e29-4254-8404-ac8e447e56cf/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

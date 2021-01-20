@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/vp-elect-harris-capitol-riots-charl
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-elect-harris-capitol-riots-charlottesville-unite-the-right.amp"
 type: article
 quality: 185
-heat: 245
+heat: 225
 published: true
 
 provider:
@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President-elect Harris will be sworn in by Justice Sonia Sotomayor"
-    excerpt: "The swearing-in of Vice President-elect Kamala Harris Wednesday, will acknowledge historical milestones as the first Latina Supreme Court justice oversees the ceremony."
-    publishedDateTime: 2021-01-16T22:04:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fHr0DE--AsY/vice-president-elect-harris-sworn-sonia-sotomayor"
-    ampWebUrl: "https://www.foxnews.com/politics/vice-president-elect-harris-sworn-sonia-sotomayor.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-president-elect-harris-sworn-sonia-sotomayor.amp"
+  - title: "Why Kamala Harris’ Vogue cover is trending on social media"
+    excerpt: "Kamala Harris is Vogue’s new cover girl — but it isn’t winning her any votes. The vice president-elect appears on the February front of the fashion bible in a set of her own duds"
+    publishedDateTime: 2021-01-10T18:09:00Z
+    webUrl: "https://nypost.com/2021/01/10/why-kamala-harris-vogue-cover-is-trending-on-social-media/"
+    ampWebUrl: "https://nypost.com/2021/01/10/why-kamala-harris-vogue-cover-is-trending-on-social-media/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/10/why-kamala-harris-vogue-cover-is-trending-on-social-media/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4fed884c-b708-4ec0-9242-0b2b61b4244a/15d1d9b5-6b44-4c76-8142-bdc1d653054b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/kamala-harris-vogue.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Liberal media flip out on Vogue over 'disrespectful' Kamala Harris cover"
     excerpt: "Despite publishing a puff piece and giving its vaunted cover to Vice President-elect Kamala Harris, Vogue is receiving backlash from liberal media outlets for using too casual a picture of the senator from California."
@@ -63,22 +63,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2265dc7-c2de-4b08-9cea-86b4ebe64632/db6daa92-b888-49ae-a844-b925a3f30557/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Capitol Police Officer Eugene Goodman, hero during riots, escorts Kamala Harris during inauguration"
-    excerpt: "Capitol Police officer Eugene Goodman escorted Vice President Kamala Harris into the Capitol building Wednesday ahead of the inauguration ceremony."
-    publishedDateTime: 2021-01-20T17:16:00Z
-    webUrl: "https://www.foxnews.com/us/capitol-police-officer-eugene-goodman-hero-during-riots-escorts-kamala-harris-during-inauguration"
-    ampWebUrl: "https://www.foxnews.com/us/capitol-police-officer-eugene-goodman-hero-during-riots-escorts-kamala-harris-during-inauguration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/capitol-police-officer-eugene-goodman-hero-during-riots-escorts-kamala-harris-during-inauguration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 121
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
 
 secured: "3fu+Xu59Q2uPoxFYF8La0y9tm48xT1NW/lURfOCsJS4YVLvUkcfJdLBYlNJLkxHjNZKXGBKhRvVu+szxZBsZUPJaFiTp/JwWIvbjDkiO9dtGBg39MStoKH7QkoUt47/LuQztbaFbeUXQ8VWq1ObYSbwWPIC15yDGTXg2T70y3B7ECP5jf7bLMDu3Fu/nw95d51ADuxIsCb8WGs7lsO0y5P/9r0r0EYPr5hR9o0arZwJOOs4c+CSD9kc7E9xSBp8mAlbikbtwBwIXgHRcHFNbgFKSuPb8rnedAci5Bq4FB8o7liQ69HxLQHwTV4dB6uBr+Zv5JWdT4U08J0WLP2A2yXQkrXtgltwc82VpBcAc1Qg=;EMQyr1UVR9Wq9hRdj0CNvw=="

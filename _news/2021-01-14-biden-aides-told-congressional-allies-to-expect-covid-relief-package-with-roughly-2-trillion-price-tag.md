@@ -1581,6 +1581,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Full text: Joe Biden inauguration speech transcript"
+    excerpt: "And uniting our nation,\" President Joe Biden said. Chief Justice Roberts, Vice President Harris, Speaker Pelosi, Leader Schumer, Leader McConnell, Vice President Pence, distinguished guests, and my fellow Americans."
+    publishedDateTime: 2021-01-20T19:04:00Z
+    webUrl: "https://www.politico.com/news/2021/01/20/joe-biden-inauguration-speech-transcript-full-text-460813"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/20/joe-biden-inauguration-speech-transcript-full-text-460813"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/20/joe-biden-inauguration-speech-transcript-full-text-460813"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/74/44/21fa1dad414697d3ec73cdc0f66b/gettyimages-1160262759-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Sen. Klobuchar delivers opening remarks for Biden's inauguration"
     excerpt: "Minn., delivered opening remarks for the inauguration of President-elect Joe Biden and Vice President-elect kamala Harris, highlighting the significance of them taking office and condemning the Capitol riot."
     publishedDateTime: 2021-01-20T16:52:00Z

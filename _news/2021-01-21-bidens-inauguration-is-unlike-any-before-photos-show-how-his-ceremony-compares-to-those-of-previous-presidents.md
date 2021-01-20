@@ -719,6 +719,22 @@ related:
         width: 2500
         height: 1668
         isCached: true
+  - title: "Joe Biden sworn in as 46th president of the United States"
+    excerpt: "Millions watch inauguration from home as chief justice administers oath of office at Capitol, two weeks after mob riot"
+    publishedDateTime: 2021-01-20T16:10:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/20/joe-biden-sworn-in-46th-president-inauguration"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/20/joe-biden-sworn-in-46th-president-inauguration"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/20/joe-biden-sworn-in-46th-president-inauguration"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/80a4ccfd5b386a7bf6a66870df431667af6ec907/0_0_3500_2334/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7460c0a90f1785c9372fd9fe75c5b796"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Biden must find words for a wounded nation in inauguration like no other"
     excerpt: "Planners have been forced to be inventive after the deadly pandemic and now last week’s Capitol insurrection dictated a pared-down event"
     publishedDateTime: 2021-01-16T07:00:00Z
@@ -878,6 +894,22 @@ related:
       - url: "https://s.abcnews.com/images/General/president-joe-biden-inauguration-13-gty-llr-210119_1611100576213_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Donald Trump lands in Florida in final hour of presidency, rejecting tradition by skipping Joe Biden’s swearing-in"
+    excerpt: "Donald Trump lands in Florida in final hour of presidency, rejecting tradition by skipping Joe Biden’s swearing-in"
+    publishedDateTime: 2021-01-20T20:56:00Z
+    webUrl: "https://www.washingtonpost.com/national/donald-trump-lands-in-florida-in-final-hour-of-presidency-rejecting-tradition-by-skipping-joe-bidens-swearing-in/2021/01/20/06a5e9e4-5b38-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/donald-trump-lands-in-florida-in-final-hour-of-presidency-rejecting-tradition-by-skipping-joe-bidens-swearing-in/2021/01/20/06a5e9e4-5b38-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/donald-trump-lands-in-florida-in-final-hour-of-presidency-rejecting-tradition-by-skipping-joe-bidens-swearing-in/2021/01/20/06a5e9e4-5b38-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Inauguration to include programming aimed at kids along with a message from Jill Biden"
     excerpt: "The Presidential Inaugural Committee announced it will offer programming focused on getting families and their kids involved in next week's ceremony."
@@ -1266,6 +1298,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Joe Biden to be sworn in as 46th president"
+    excerpt: "Joe Biden to be sworn in as 46th President of the United States\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-01-20T14:21:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210120141424-presidential-inauguration-joe-biden-to-be-sworn-in-as-46th-president-of-the-united-states/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/20/story_08632526_1611152284.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "MORNING BID-Staying high before Biden"
     excerpt: "Much of an expected vaccine-driven economic recovery is already priced in, it seems, and the groundwork has been laid for another fiscal boost for the world's largest economy. So a few hours before Joe Biden becomes the 46th U."
     publishedDateTime: 2021-01-20T08:06:00Z
@@ -1300,6 +1346,20 @@ related:
     images:
       - url: "https://static.reuters.com/resources/r/?d=20210120&i=OVDW0L49R&r=OVDW0L49R&t=2"
         width: 960
+        height: 540
+        isCached: true
+  - title: "The inauguration of President Joe Biden"
+    excerpt: "Joe Biden is sworn in as the 46th President of the United States on the West Front of the Capitol. REUTERS/Kevin Lamarque"
+    publishedDateTime: 2021-01-20T19:14:00Z
+    webUrl: "https://www.reuters.com/news/picture/the-inauguration-of-president-joe-biden-idUSRTX8NN2M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548494110&w=&fh=545&fw=810&ll=&pl=&sq=&r=2021-01-20T203813Z_38188_MRPRC2VBL96JO0A_RTRMADP_0_USA-BIDEN-INAUGURATION"
+        width: 810
         height: 540
         isCached: true
   - title: "Biden launches new Twitter account to build following before taking command of White House @POTUS on Inauguration Day"
@@ -1583,6 +1643,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7JBHDTZANNG2VAS42MG54QVXG4.jpg"
         width: 1024
         height: 705
+        isCached: true
+  - title: "Joe Biden is sworn in as nation’s 46th president"
+    excerpt: "Joe Biden has officially become the 46th president of the United States. Biden took the oath of office just before noon Wednesday during a ceremony at the U.S. Capitol. The presidential oath was administered by U."
+    publishedDateTime: 2021-01-20T20:00:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/joe-biden-is-sworn-in-as-nations-46th-president.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/joe-biden-is-sworn-in-as-nations-46th-president.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-biden-is-sworn-in-as-nations-46th-president.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EPS566YS5NFBXGMJTEQDRLPK24.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Joe Biden sworn in as 46th President"
     excerpt: "President Biden issued a call for unity as he took the helm of a fractured nation grappling with a deadly pandemic and a host of other crises."
@@ -1910,6 +1986,20 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 35
+  - title: "Joe Biden sworn-in as 46th American president, taking office during time of crisis and division: ‘We have much to do in this winter of peril’"
+    excerpt: "Joe Biden was sworn in as the 46th president of the United States on Wednesday, summoning American resilience to confront a historic confluence of crises and urging people to come together to end an “uncivil war” in a nation deeply divided after four tumultuous years Declaring that “democracy has prevailed,"
+    publishedDateTime: 2021-01-20T20:20:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-nw-joe-biden-inauguration-20210120-dqqqgg4rzvdd7dmjeijjwi5ycu-htmlstory.html"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 20
+    images:
+      - url: "https://www.courant.com/resizer/18_lYmq2EeE4oNDTkga9GfLyUak=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/D4QRYPKMPGG2JPIMXSYM4CXONM.aspx"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "eH8m4AJKbSDbaimOovKCuRKfJmyA6U4+HtTQGZ2vFZFPuzMPqYMNxImpsn0zm6tR75f9Af2DhVvmPnUte6BVJIrYvXC1EQ66dkL3tSRo+Ssa9ee+5R0L98I9QEmQwL0WY0GmBPG/jj5/x16M1vdrXt//Ijw9kV+R5POFt64exF9C1wOygd4Kqz8Dy5+n03IeyfzglcAQ3r0870HQkohZ4JueYTK3Roc4VU9KkqKJmqCIfU51haqIN4T5izDuIMU0H+M6tPkmPBOEk49s33CR7gvSXMf2Q0Tck2qJzyIPBj9TCRwwW0zKeJHQZEG+c1q/q7v8HzGDDm+QayCd29s8ZIqflqGILnec+9bP72Ij0kY=;ElxBQvZ+U6G+vbEf7nvHeA=="
 ---

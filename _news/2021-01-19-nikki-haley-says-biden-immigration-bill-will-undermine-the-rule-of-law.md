@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/haley-biden-immigration-bill-rule-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-biden-immigration-bill-rule-of-law.amp"
 type: article
 quality: 174
-heat: 274
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Marco Rubio rejects Biden immigration bill, calls it ‘blanket amnesty’"
+    excerpt: "Sen. Marco Rubio, R-Fla., on Tuesday rejected an immigration proposal by President Biden, describing its call for an 8-year pathway to citizenship for illegal immigrants as a “blanket amnesty.”"
+    publishedDateTime: 2021-01-20T20:07:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7xnKY6Vi5vs/rubio-biden-immigration-bill-blanket-amnesty"
+    ampWebUrl: "https://www.foxnews.com/politics/rubio-biden-immigration-bill-blanket-amnesty.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-biden-immigration-bill-blanket-amnesty.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7614311-4887-4e69-9bd5-dcd532a72e01/25745707-6bbf-4d2e-9f7b-6d248ac29edd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hawley blocks quick consideration of Biden DHS nominee, citing ‘amnesty’ plan"
     excerpt: "Sen. Josh Hawley, R-Mo., blocked the quick consideration of President-elect Joe Biden’s pick to lead the Department of Homeland Security, citing Biden’s proposals for “amnesty” for illegal immigrants."
     publishedDateTime: 2021-01-19T23:17:34Z
@@ -47,22 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden DHS nominee Mayorkas says ICE should not be defunded, despite liberal calls"
-    excerpt: "Alejandro Mayorkas, President-elect Joe Biden’s pick to lead the Department of Homeland Security, said Tuesday that Immigration and Customs Enforcement (ICE) should not be defunded -- while punting on whether parts of the border wall should be dismantled."
-    publishedDateTime: 2021-01-19T18:47:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d8CARCqXwKI/biden-dhs-nominee-mayorkas-ice-border-wall"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden immigration bill would put millions of illegal immigrants on 8-year fast-track to citizenship"
     excerpt: "A radical immigration overhaul to be proposed this week by President-elect Joe Biden would include a path to citizenship that could see millions of illegal immigrants become U.S. citizens in just eight years."
     publishedDateTime: 2021-01-19T16:33:37Z
@@ -76,38 +76,6 @@ related:
     quality: 161
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff97ad34-f426-498a-92e1-d58ea755a140/a6aaee8e-3882-4d85-b77a-a3ad885fd22b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Sen. Cotton tears into Biden’s ‘radical immigration agenda’: ‘what you’d expect from the party of open borders"
-    excerpt: "President-elect Joe Biden is expected to unveil a sweeping immigration plan during his early days in office, which will aim to reverse Trump-era policies – but his proactive approach is garnering pushback from both sides of the aisle. "
-    publishedDateTime: 2021-01-20T01:54:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hwDGp4RQWc8/sen-cotton-tears-into-bidens-radical-immigration-agenda-what-youd-expect-from-the-party-of-open-borders"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-cotton-tears-into-bidens-radical-immigration-agenda-what-youd-expect-from-the-party-of-open-borders.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cotton-tears-into-bidens-radical-immigration-agenda-what-youd-expect-from-the-party-of-open-borders.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/321ecfd7-beb9-4774-b170-6624dc01804c/da14774b-57ad-4e5e-9230-b8d2bae64d79/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden DHS nominee Mayorkas says ICE should not be defunded, despite liberal calls"
-    excerpt: "Alejandro Mayorkas, President-elect Joe Biden’s pick to lead the Department of Homeland Security, said Tuesday that Immigration and Customs Enforcement (ICE) should not be defunded -- while punting on whether parts of the border wall should be dismantled."
-    publishedDateTime: 2021-01-19T18:53:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-nominee-mayorkas-ice-border-wall.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

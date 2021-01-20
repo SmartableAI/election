@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "What impact could deplatforming Donald Trump have?"
+    excerpt: "Donald Trump has been kicked off of most major social media platforms. What effect does deplatforming tend to have on the spread of misinformation?"
+    publishedDateTime: 2021-01-20T18:34:00Z
+    webUrl: "https://www.cnn.com/videos/business/2021/01/20/donald-trump-twitter-facebook-parler-deplatform-orig.cnn-business"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2021/01/20/donald-trump-twitter-facebook-parler-deplatform-orig.cnn-business"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2021/01/20/donald-trump-twitter-facebook-parler-deplatform-orig.cnn-business"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112131645-donald-trump-twitter-suspendido-libertad-de-expresion-roberto-izurieta-arduino-encuentro-cnn-00000000-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Trump-fueled riot shocked America. To some, it was a long time coming."
     excerpt: "The attack on the Capitol wasn't a matter of \"if,\" to those who warned about violence under Trump. It was \"when.\""
     publishedDateTime: 2021-01-17T07:05:00Z

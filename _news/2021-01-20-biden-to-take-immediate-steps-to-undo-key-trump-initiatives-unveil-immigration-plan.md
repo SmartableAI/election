@@ -512,6 +512,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: The most important line in Joe Biden's inaugural address"
+    excerpt: "About halfway through his inauguration speech, President Joe Biden said something very important about the work of Washington -- and how he envisions his presidency.\n    \n"
+    publishedDateTime: 2021-01-20T19:08:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YWnBmD9zkgA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/important-line-biden-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/important-line-biden-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120105134-52-biden-inauguration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden seeks to extend bans on evictions and foreclosures"
     excerpt: "As one of his first acts as president, Joe Biden will call on several federal departments and agencies to extend their bans on evictions and foreclosures for those affected by coronavirus until at least the end of March.\n    \n"
     publishedDateTime: 2021-01-20T10:04:29Z

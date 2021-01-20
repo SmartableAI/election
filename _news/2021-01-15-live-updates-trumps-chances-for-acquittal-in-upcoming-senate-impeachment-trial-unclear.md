@@ -63,21 +63,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris could preside over Trump impeachment trial if John Roberts doesn’t"
-    excerpt: "The Constitution says that in impeachments for presidents, the chief justice of the Supreme Court is the presiding officer. For lesser impeachments, the presiding officer has been the same as for other Senate business —  either the vice president or a senator."
-    publishedDateTime: 2021-01-19T14:46:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-could-preside-over-trump-impeachment-trial-if-john-roberts-doesnt"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-could-preside-over-trump-impeachment-trial-if-john-roberts-doesnt.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-could-preside-over-trump-impeachment-trial-if-john-roberts-doesnt.amp"
+  - title: "'Huge mistake' for Republican leadership to go along with Trump impeachment: Sen. Rand Paul"
+    excerpt: "Impeaching former President Donald Trump would be a \"huge mistake\" and would \"destroy\" the Republican Party, Sen. Rand Paul, R-Ky., said on Wednesday."
+    publishedDateTime: 2021-01-20T20:36:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bZ10p0F898c/republican-party-destroyed-if-senators-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/republican-party-destroyed-if-senators-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republican-party-destroyed-if-senators-impeachment.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 145
+    quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21008723523422.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "lEZN6Q7fh4cvXRwW0sBiLpfSIgtTUUwlZld4dsseSXuoOWSFstQa3z/koLI3Ix+74yO9FLivFC0ZErvk3NUmjP1ockBFit+7c6EisGXvfdCAjCB2Bf9zU7lUF7alk+jpLPmGocR8u7YyUbKSbHr4LO1lwFMS6YIvuEllbNkufCHnPcenUZ+P2iB1fTd4phCKEb9h79ozhasjZwatay2Z74VEiaq+lReH8dMIKM5GQWP8Jhj1fIUt4Zwqlkndq/1611/xPdO1iGuxOIeBKZ/PXWtkxpfeQqi8I3i161935LlkEE2IbRmfUed0syzT29xB0UddVx+in8R1hQzzTGd7eXwhAhQqrvmdruMB2wWP8QY=;Fga3o6sQX5g0C7px+PjpyQ=="

@@ -593,6 +593,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris waves goodbye to Mike Pence in moment of unity"
+    excerpt: "Vice President Kamala Harris and her husband Doug Emhoff escorted former Vice President Mike Pence and his wife Karen Pence from the Capitol in a moment of unity after President Joe Biden was inaugurated."
+    publishedDateTime: 2021-01-20T19:25:00Z
+    webUrl: "https://www.nbcnews.com/video/kamala-harris-waves-goodbye-to-mike-pence-in-moment-of-unity-99736133828"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99736133828"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99736133828"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/nbc_harris_escorts_pence_210120_1611170540632.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden, Harris to receive daily briefing, Trump to hold award ceremony, bill signing"
     excerpt: "Biden and Harris also will record an interview with CNN, while Trump will present the medal to former football coach Lou Holtz and participate in a bill signing."
     publishedDateTime: 2020-12-03T12:44:00Z
@@ -1381,6 +1397,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "7FDg4zTP/J4qP3625Vh/KVyY5g9qt4TIHUztOqQAKuI1o+jmMaorNfFCsygdNysK9GLmrJ6XGjhL2fZGKMDSas0aC/qE03PD5J8bMYK8vIJ7xKFj/xf00Q+smRsfMrDU5Dsg1yFBR2Pw61NeDmKAW7XaJMRNz5pAUGEU7PjjpqRS6R8E3cj504W5UFafcCNcO9twESLgQq+RYaT6UjsESUbZT4iZBFYz/dKgWG8puciV9KpWlpW1KgHid+QNZPKV07Fw5JAPd6p/9/ii8XyYkQjv7Nc2/W4XPzTdcajB4/YL4DDLk0rLdZoG5j8CDfRb+npndRPsiOAD6FlGVKhs0+UR0Am169rw8xwUSIrUF5Y=;ubDRAh7uCcDV7ILzjakpXA=="
+secured: "IUfWaRs03hJsVV984BXuWIW/pRJP4gM39JB+OFX8/pxJOMqziYHpMz8EoKYWf4Ra1HsIJ/3ANY+OQMCAG3ixCX0uS3fYaaJP9auh3JhjOXARu/zNh13pV4A8S1Zgpk0Uu7JKROO9VOPWcZ1biGdBTuIbV97Egg8oWhyRx5E4RxqSEBIf93blB7n49k5VjMFzMkFu9I3tlwSXaLXoY2lUI5f3Tq4xbXAK9mZe5g9d0KkF4pa0USjVlxHUyvxo/VT36bV9aNCvbL0SSjR46AznS1+kw7C1SZLQnNjw8bsxhokMiaLhLncO/1fxnMYp4SY4iFVd3lwA2CvRovdulW8bJsx/y7tu+nhu2ZTPnMAaesgY9Szvff2G2Kz9mb3/ZNqEVKawTF0s2pVWh9OzyROeVmL/Ec5ZSzuPcMZ+rW8PsabsmvEc6CbhBDqb4RaS81ZAeHCnzHwS3WEbGAcEtdTfkduj/tk0LbN/+/uZ/AI/7nQhwtEwnsKlE9UnRDqd1N5U+hoUv46NyOpm62Q75n44Pw==;okKBPy/kFv55XJK3bXt2cw=="
 ---
 

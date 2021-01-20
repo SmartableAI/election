@@ -2,19 +2,19 @@
 category: news
 title: "Vice President Kamala Harris steps into history as first woman of color to hold the office"
 excerpt: "Kamala Harris is the first woman, first Black American and first South Asian to hold the office of the vice presidency."
-publishedDateTime: 2021-01-20T18:20:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/2021/01/20/inauguration-vice-president-kamala-harris-first-female-person-color-sworn-in/4217882001/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/01/20/inauguration-vice-president-kamala-harris-first-female-person-color-sworn-in/4217882001/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/4217882001"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4217882001"
+publishedDateTime: 2021-01-20T20:41:00Z
+originalUrl: "https://www.statesman.com/story/news/politics/2021/01/20/inauguration-vice-president-kamala-harris-first-female-person-color-sworn-in/4217882001/"
+webUrl: "https://www.statesman.com/story/news/politics/2021/01/20/inauguration-vice-president-kamala-harris-first-female-person-color-sworn-in/4217882001/"
+ampWebUrl: "https://amp.statesman.com/amp/4217882001"
+cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/4217882001"
 type: article
 quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - Election
@@ -248,6 +248,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/6c8012c5df62883049cde364538dd50c9452cf7a/544_447_2793_1675/master/2793.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aa27e184ee031bc439b74921f71e9b2c"
         width: 600
         height: 360
+        isCached: true
+  - title: "Joe Biden and Kamala Harris get ready to be sworn in as presidential inauguration begins – live"
+    excerpt: "Biden and Harris will be sworn in as president and vice-president, following Donald Trump’s final departure from the White House this morning"
+    publishedDateTime: 2021-01-20T15:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-6008565b8f08b9416fbadd35"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 128
+    images:
+      - url: "https://i.guim.co.uk/img/media/76380a3fa9bae2b1f5e39b21e8c4e392978984cb/0_0_6000_4000/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=03acd9230f3f80d2c329b7c94b945668"
+        width: 600
+        height: 400
         isCached: true
   - title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
@@ -1038,7 +1054,7 @@ related:
   - title: "Inauguration: Kamala Harris sworn in as vice-president, becoming the first woman of color to hold the office – live"
     excerpt: "Harris sworn in as vice-president ahead of Biden taking office, following Donald Trump’s final departure from the White House this morning"
     publishedDateTime: 2021-01-20T15:49:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-600859ed8f08b9416fbadd63"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-600855ac8f0816a8da7c280a"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
     type: article
@@ -1047,7 +1063,7 @@ related:
       domain: theguardian.com
     quality: 103
     images:
-      - url: "https://i.guim.co.uk/img/media/c222b51401ba03aaea0aa2b3b142c1da42c13be2/0_0_7284_4858/master/7284.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4028e86316b17ca8ef88a01874289a5c"
+      - url: "https://i.guim.co.uk/img/media/76380a3fa9bae2b1f5e39b21e8c4e392978984cb/0_0_6000_4000/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=03acd9230f3f80d2c329b7c94b945668"
         width: 600
         height: 400
         isCached: true
@@ -1404,6 +1420,22 @@ related:
       - url: "https://www.dailypress.com/resizer/Z3qJoKYgp7I25-Bfj9OgWDYkWb8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7RFR7OAVVHIHHAVMBLL7YTF44.jpg"
         width: 1200
         height: 898
+        isCached: true
+  - title: "Where Is Trump? During Biden Inauguration, Former President Took A Low Profile In Florida"
+    excerpt: "Donald Trump starts new post-presidential life in Florida, arriving to signs of a bit of trouble but general support."
+    publishedDateTime: 2021-01-20T18:04:00Z
+    webUrl: "https://www.ibtimes.com/where-trump-during-biden-inauguration-former-president-took-low-profile-florida-3126734"
+    ampWebUrl: "https://www.ibtimes.com/where-trump-during-biden-inauguration-former-president-took-low-profile-florida-3126734?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/where-trump-during-biden-inauguration-former-president-took-low-profile-florida-3126734?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 81
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/us-president-donald-trump-speaks-before-boarding-air.jpg"
+        width: 1024
+        height: 705
         isCached: true
   - title: "Mike Pence calls Kamala Harris to offer congratulations"
     excerpt: "WASHINGTON — Vice President Mike Pence has called his soon-to-be successor Kamala Harris to offer his congratulations, according to two people familiar with the conversation. It’s the first known contact between the elected members of the outgoing and incoming administrations."
@@ -2289,6 +2321,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump Leaves Icy Washington For Loving Florida Home"
+    excerpt: "Donald Trump wanted a hero's send-off Wednesday, but had to go all the way to his right-wing Florida heartland to get one after an icy and sparsely attended official departure from Washington. The soon to be ex-president's motorcade slowed almost to a stop outside his fancy Mar-a-Lago club in Palm Beach,"
+    publishedDateTime: 2021-01-20T18:38:00Z
+    webUrl: "https://www.ibtimes.com/trump-leaves-icy-washington-loving-florida-home-3126539"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/us-president-donald-trump-speaks-before-boarding-air.jpg"
+        width: 1024
+        height: 705
+        isCached: true
   - title: "Alert: AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance."
     publishedDateTime: 2021-01-15T18:27:00Z
@@ -2465,6 +2511,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "aGMn73UP61sCfNtVAlXiag/fIiZcfoSTe74+iOAO/ZLInW5RE2wrOYhqe3lVoGLW+xo+WMxPkvhpuGxmrcvLW0LGovpiXyaI/HcPI2OQlF5NxhHWuThsiNwX25+NvJvp5JVL3pjx9BuyPWB5K8OsySiTX+RlD35mL0v666IAOu3D7ltPtE7ODCRDP5S2ioKIOXHG26I96t1FzV9FltDBUn4NKrsifxU/YtL+KfOouOyLYomVNuHV3E87du0eIX2EWCUpP7Mpj0FE3TOc2HUu2x5MyEH4tGX+fw0twvxf29XFW/EfOelbC4bbwREi0A9gP5uo9UBlzQrO43pITTGmuqylSRBZ81ikqihvDC3Jess=;g99QWY/SV6MS0EPhltwu5w=="
+secured: "4+MmYHBwEAEkUim6pYsCGfjA3JFVar5Cmz4JFyCSMA0ulJjhQnC7ySDRVKjJVQjLsbsWb2A25uwEyZI/RxwBp05BTyR2ND+b29DuNx6VLBUVMl9CrN9PZFN/wiGGp5ue/HiFaRFQD9NYrcu/iqsmNwv1kJLNwX0nxzQoA+UDs+MY4icTvQH8+CX438NFzMT4/QENLORoKgpfrhFCPOebJB25Y8Rli8/p5pTeGwtxX8q5vJkir8nMhxxE2l5FVONhtffQU+1WKdtCN96yFoq8UedsUePSuAk5rUgwFe9zNDuhOiL73cc1T+K1x6rED3sZUDbWHdeHYcZs4Mdf5qZcYIyGR1/6eaN4cvL8OSn9OMo=;C57vfu/bxI9bpXyOpEQODw=="
 ---
 
