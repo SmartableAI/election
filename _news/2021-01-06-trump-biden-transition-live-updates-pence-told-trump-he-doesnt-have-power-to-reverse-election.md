@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-resul
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
 type: article
 quality: 168
-heat: 7708
+heat: 7728
 published: true
 
 provider:
@@ -4867,6 +4867,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/02/09/USAT/d2432fc4-9009-4676-b780-979d07707a56-AP_Trump_Impeachment_6.JPG?auto=webp&crop=2504,1408,x806,y198&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Inauguration quotes from President Joe Biden, former President Donald Trump"
+    excerpt: "Joe Biden took the oath of office Wednesday to become America’s. In an unprecedented inauguration that took place amid security concerns and a global pandemic, Biden pledged to unite a country torn by political divide."
+    publishedDateTime: 2021-01-20T17:23:00Z
+    webUrl: "https://www.al.com/news/2021/01/inauguration-quotes-from-president-joe-biden-former-president-donald-trump.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/inauguration-quotes-from-president-joe-biden-former-president-donald-trump.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/inauguration-quotes-from-president-joe-biden-former-president-donald-trump.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 88
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/USJDSEM6LVGIPIDOQOPV5SIA2U.jpg"
+        width: 2275
+        height: 1638
         isCached: true
   - title: "Ted Cruz, 10 more GOP senators join Donald Trump in effort to overturn election"
     excerpt: "The 11 senators largely acknowledged Saturday they will not succeed in preventing Biden from being inaugurated on Jan. 20 after he won the Electoral College 306-232. But their challenges, and those from House Republicans,"

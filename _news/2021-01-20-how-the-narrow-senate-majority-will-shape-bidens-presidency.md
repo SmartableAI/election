@@ -527,6 +527,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden was sworn in on a storied 19th-century family Bible "
+    excerpt: "President Joe Biden was sworn in on a 19th century family Bible on Wednesday, continuing his longtime tradition of using the heirloom during his decades of public service.\n    \n"
+    publishedDateTime: 2021-01-20T18:18:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P5PFmR-SWeM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/biden-inauguration-family-bible/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/biden-inauguration-family-bible/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120124625-01-biden-bible-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Joe Biden lands at Joint Base Andrews on the eve of his inauguration"
     excerpt: "President-elect Joe Biden arrives in Washington Tuesday for the start of his inaugural ceremonies at a dark and solemn moment in American history, preparing to take his oath of office as the US approaches 400,000 coronavirus deaths and is more divided than at any time since the Civil War.\n    \n"
     publishedDateTime: 2021-01-20T00:04:28Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/15/power-up-trump-pe
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/?outputType=amp"
 type: article
 quality: 140
-heat: 1140
+heat: 1160
 published: true
 
 provider:
@@ -398,6 +398,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/30/PPAS/81147857-fffa-4df4-bad2-2b6ba9e7fc50-Accident.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Donald Trump's Most Powerful Post-Presidential Talking Point Could Be Immigration"
+    excerpt: "On his way out of office, Trump's administration added 28 new questions to the U.S. citizenship test. His hardline views never stopped appealing to his most fervent supporters."
+    publishedDateTime: 2021-01-20T18:31:00Z
+    webUrl: "https://www.newsweek.com/donald-trumps-most-powerful-post-presidential-talking-point-could-immigration-1562839"
+    ampWebUrl: "https://www.newsweek.com/donald-trumps-most-powerful-post-presidential-talking-point-could-immigration-1562839?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trumps-most-powerful-post-presidential-talking-point-could-immigration-1562839?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1711236/donald-trump-gop-republican.jpg"
+        width: 3283
+        height: 2504
         isCached: true
   - title: "Donald Trump Said He'll Return, but Most Think He Shouldn't Be Allowed to Run Again"
     excerpt: "The outgoing president has previously alluded to running in 2024, with comments having hinted at feeling he has unfinished business."

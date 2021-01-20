@@ -448,6 +448,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's lonely exit"
+    excerpt: "In one last divisive spectacle before exiting the Oval Office, President Donald J. Trump became the first chief executive in modern US history to forgo the tradition of attending his successor's inauguration. Instead, Trump opted for a departure ceremony that left the self-styled larger-than-life business"
+    publishedDateTime: 2021-01-20T18:37:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SpvnPplOM64/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/trump-presidency-ends/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/trump-presidency-ends/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120092323-donald-trump-departure-air-force-one-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'A vote of conscience': GOP senators signal that Trump's fate is in their hands"
     excerpt: "A wide range of Senate Republicans are noncommittal about whether they are considering convicting Donald Trump of committing high crimes and misdemeanors at his upcoming impeachment trial, a sign that the soon-to-be former President's political future rests squarely with his fellow Republicans who are"
     publishedDateTime: 2021-01-19T20:36:17Z
@@ -477,6 +493,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112161840-03-trump-impeachment-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's acting attorney general leaves without creating controversial special counsels"
+    excerpt: "Acting Attorney General Jeffrey Rosen is resigning Wednesday at noon, ending a tenure marked by the things that didn't happen, including no special counsels appointed despite pressure from the White House.\n    \n"
+    publishedDateTime: 2021-01-20T15:37:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w9WOTQExeYc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/justice-department-special-counsel-rosen-wilkinson/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/justice-department-special-counsel-rosen-wilkinson/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201101130019-justice-department-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -591,6 +623,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118014238-nancy-pelosi-0115-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Kamala Harris waves goodbye to Mike Pence after escorting him from Capitol"
+    excerpt: "Vice President Kamala Harris and her husband Doug Emhoff escorted former Vice President Mike Pence and his wife Karen Pence from the Capitol after President Joe Biden was inaugurated."
+    publishedDateTime: 2021-01-20T18:20:00Z
+    webUrl: "https://www.nbcnews.com/video/kamala-harris-waves-goodbye-to-mike-pence-after-escorting-him-from-capitol-99736133828"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99736133828"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99736133828"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 158
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202101/pence_harris_goodbye.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Live Updates: Mike Pence Calls Kamala Harris to Offer Aid and Congratulations"
     excerpt: "It was the first time the current and future vice president spoke since they debated each other in the fall. Speaker Nancy Pelosi said the impeachment managers were preparing for a Senate trial but declined to elaborate on timing."
@@ -1052,6 +1100,38 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Kamala Harris sworn in as nation’s first female vice president"
+    excerpt: "Harris was sworn in on a pair of Bibles, one of which was previously owned by Supreme Court Justice Thurgood Marshall."
+    publishedDateTime: 2021-01-20T18:23:00Z
+    webUrl: "https://www.politico.com/news/2021/01/20/kamala-harris-sworn-in-as-vice-president-inauguration-460731"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/20/kamala-harris-sworn-in-as-vice-president-inauguration-460731"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/20/kamala-harris-sworn-in-as-vice-president-inauguration-460731"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/7e/af/16c1a05f4ac99753e6eff7ac3f17/ap21020603117627.jpg"
+        width: 4567
+        height: 3043
+        isCached: true
+  - title: "Kamala Harris sworn in as vice president"
+    excerpt: "Kamala Harris was sworn in as vice president, the first woman to hold the office, as Justice Sonia Sotomayor administered the Vice Presidential Oath of Office."
+    publishedDateTime: 2021-01-20T17:02:00Z
+    webUrl: "https://www.nbcnews.com/video/kamala-harris-sworn-in-as-vice-president-99730501647"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99730501647"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99730501647"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/nbc_spec_harris_oath_210120_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "What’s It Like to Have Kamala Harris As ‘Momala’? We Asked Her Stepkids."
     excerpt: "But on the night that Joe Biden and his vice-presidential running mate, Kamala Harris, delivered their acceptance speeches, with their families gathered onstage, watching fireworks, Cole began receiving astonished texts from friends and colleagues."
     publishedDateTime: 2021-01-17T08:00:00Z
@@ -1300,6 +1380,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "FuNYi9Sw4aC3PmK/oVmHVTZgX4ALfufVOIHGO3Meqyup428ItPzMvSbr/S2rz8uU/NHKgLUUrMUUYc92cN1bLNDD4/V4UtBkRg6TvHm1bmpDVK7GMEr3d8m2KvZHcEXe3Cxz9xA+R1ecO811xibICMOOlzTngm7Rz5Eu+ndUzQg+Fr9RGRsjb9Kmrey7m3NnApI5yFVfMxrxdmyTSFOI5KLQoFcm49cMNG+I4Ft/7qttDtfTqv7sE07uauNJieAM+2HY0+fmQ0erBohnvWvoRIo61LcM2sG0Qob+skh3Ew8Jc0CjFDBjOHSrtATf7QMCbW+88i0Lp5MCnqDML1peiCX4INoqYp5U2t406xW7AaI=;aeCKoVJTgg5M+h9C0p2Zmg=="
+secured: "+bjNAqjAHCkU6pMCOx+uIduqWEzFiKHejD2zH6mjcwe1P/PfcUFLwx2mFpkH5i267xQSXDUfyQAooTptZQVSaybXki5PllWuHhZAxC2NH2j+aVOwRJecW8Ce5OHftuxMUTc+geIPHkJmMHLo+lXxtW1qBClzXvGNYv6nGRR0stAnGn8D3Xe5OhZH66zJ1EliAnozc5XpBchw7LzdiTkfJdiZNMqEGumc6xvV9jxBrr4J2xEOlVbzfwQz+UpIv67+G0jnIdVxX3OHR4cB3g6/xglp4ECTc8/YGUUZ1rK2XMZ3wYLZBookr1ipBQJG1k8xJyt/QB1s9zIFsV2HdNkfnijgAJh9//OPdr7vOrI4SVdApGpl7XLV11G+zzDiUqrSpt+JamSfho9sGWA1msQmUIyooa8mfzMke7NY0vre6ddVROXI/0K+TSUTf+CUtZgHG4bAWcZ8xz+e9JDU26X6Fuk5VgC9YrxR2wZ4maA3nhnWLVUcUySaVUMhYVxKIOqD5Y2BEHH1W9B16wPtEM3ZwA==;bAI2LWK6DrNIaaYzfbLCSQ=="
 ---
 

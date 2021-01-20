@@ -559,6 +559,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "How world leaders are reacting to Joe Biden's inauguration"
+    excerpt: "Here's how world leaders are reacting to U.S. President Joe Biden's inauguration on Wednesday, replacing Donald Trump."
+    publishedDateTime: 2021-01-20T13:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-world-quotes-idUSKBN29P1IL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P1IL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P1IL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548479047&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J1EZ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Inauguration day: a guide to what to expect as Joe Biden assumes office"
     excerpt: "With Washington under lockdown and Covid-19 raging, the inauguration will be different, but there will still be pomp and ceremony"
     publishedDateTime: 2021-01-20T05:01:00Z
@@ -639,6 +655,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Amanda Gorman reads \"The Hill We Climb\" at Joe Biden's inauguration"
+    excerpt: "Amanda Gorman made history Wednesday as the youngest known inaugural poet. The 22-year-old Los Angeles resident delivered her poem \"The Hill We Climb\" at President Joe Biden's inauguration in Washington,"
+    publishedDateTime: 2021-01-20T18:41:00Z
+    webUrl: "https://www.cbsnews.com/news/amanda-gorman-the-hill-we-climb-poem-inauguration/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/amanda-gorman-the-hill-we-climb-poem-inauguration/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/amanda-gorman-the-hill-we-climb-poem-inauguration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/20/564c36e5-4e75-423a-b3ae-b68aa0dd569e/thumbnail/1200x630/7740a01ee0595e0c56de9d579b69832c/gettyimages-1230692211.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Inauguration updates: How Biden administration could affect Arizona"
     excerpt: "Joe Biden, a Democrat and former vice president, will be sworn in on Wednesday as the 46th president of the United States."
     publishedDateTime: 2021-01-20T16:36:00Z
@@ -655,6 +687,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden Officially Sworn In as 46th President of the United States"
+    excerpt: "\"This is America's day, this is democracy's day. A day of history and hope, of renewal and resolve,\" Biden said in his inaugural address."
+    publishedDateTime: 2021-01-20T17:09:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-officially-sworn-46th-president-united-states-1563119"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-officially-sworn-46th-president-united-states-1563119?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-officially-sworn-46th-president-united-states-1563119?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1712247/biden.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
   - title: "Biden must find words for a wounded nation in inauguration like no other"
     excerpt: "Planners have been forced to be inventive after the deadly pandemic and now last week’s Capitol insurrection dictated a pared-down event"
     publishedDateTime: 2021-01-16T07:00:00Z
@@ -670,6 +718,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/f4c66dc3becc14952a51bc8d6504077c8a930be0/0_0_6877_4128/master/6877.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2176f28814bd79b46a5d4c9800440178"
         width: 600
         height: 360
+        isCached: true
+  - title: "Watch Live: Inauguration Day events after Joe Biden sworn in as president"
+    excerpt: "President Joe Biden and Vice President Kamala Harris were sworn into office Wednesday. Mr. Biden took the reins of power as 46th president of the United States at a perilous time in American history,"
+    publishedDateTime: 2021-01-20T18:14:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-inauguration-watch-live-stream-today-2021-01-20/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-inauguration-watch-live-stream-today-2021-01-20/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-inauguration-watch-live-stream-today-2021-01-20/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/20/9136acb0-2ccb-4743-8de9-1ae18d95c508/thumbnail/1200x630/7d9e96e276bf6b9e020b5262a56293ff/gettyimages-1297448232.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "'Liberal' Churches Warned of Possible Attacks Around Biden Inauguration Day"
     excerpt: "The United Church of Christ advised ministers and congregants to exercise caution in the week leading up to the inauguration."
@@ -1208,6 +1272,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Joe Biden sworn in as 46th U.S. President"
+    excerpt: "Top News Joe Biden sworn in as 46th U.S. President. Posted . Democrat Joe Biden was sworn in as president of the United States on Wednesday, assuming the helm of a country reeling"
+    publishedDateTime: 2021-01-20T18:16:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDW0L49R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210120&i=OVDW0L49R&r=OVDW0L49R&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Biden's inauguration is unlike any before. Photos show how his ceremony compares to those of previous presidents."
     excerpt: "Due to COVID-19 and the threat of violence from far-right groups, the inauguration of President-elect Biden is unlike past ceremonies."
     publishedDateTime: 2021-01-20T16:59:00Z
@@ -1487,6 +1565,54 @@ related:
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2018/11/15/PNAS/5a1a7785-99bc-4c66-86ae-af70086147b8-_LDM2847.JPG?auto=webp&crop=2981,1677,x0,y46&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Calm at state capitols as Joe Biden is sworn in"
+    excerpt: "Calm prevailed outside heavily fortified state capitol buildings across the U.S. as Joe Biden was sworn in as president. The FBI had warned of the possibility for armed demonstrations leading up to the inauguration after President Donald Trump repeatedly and falsely claimed the election was stolen from him."
+    publishedDateTime: 2021-01-20T18:38:00Z
+    webUrl: "https://www.cleveland.com/nation/2021/01/calm-at-state-capitols-as-joe-biden-is-sworn-in.html"
+    ampWebUrl: "https://www.cleveland.com/nation/2021/01/calm-at-state-capitols-as-joe-biden-is-sworn-in.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/calm-at-state-capitols-as-joe-biden-is-sworn-in.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7JBHDTZANNG2VAS42MG54QVXG4.jpg"
+        width: 1024
+        height: 705
+        isCached: true
+  - title: "Joe Biden sworn in as 46th President"
+    excerpt: "President Biden issued a call for unity as he took the helm of a fractured nation grappling with a deadly pandemic and a host of other crises."
+    publishedDateTime: 2021-01-20T17:36:00Z
+    webUrl: "https://www.bostonherald.com/2021/01/20/joe-biden-sworn-in-as-46th-president/"
+    ampWebUrl: "https://www.bostonherald.com/2021/01/20/joe-biden-sworn-in-as-46th-president/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2021/01/20/joe-biden-sworn-in-as-46th-president/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 75
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2021/01/AP21020614828389.jpg?w=1024&h=710"
+        width: 1024
+        height: 710
+        isCached: true
+  - title: "Twitter reacts to President Joe Biden’s inauguration"
+    excerpt: "Throughout the inaugurations of Joe Biden and Kamala Harris, Twitter users rushed to share their thoughts on the ceremony, speeches, performances and more."
+    publishedDateTime: 2021-01-20T18:50:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-inauguration-twitter-reacts-20210120-lysfnpda4jhvhixpgcczs5svva-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-inauguration-twitter-reacts-20210120-lysfnpda4jhvhixpgcczs5svva-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-joe-biden-inauguration-twitter-reacts-20210120-lysfnpda4jhvhixpgcczs5svva-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 75
+    images:
+      - url: "https://www.baltimoresun.com/resizer/PwBxE1Ck3YH2J6FflWBl8efvsxg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PDIB5Z6HAJA2LGNMG5YPOSZHRE.JPG"
         width: 1200
         height: 675
         isCached: true

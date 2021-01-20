@@ -199,8 +199,8 @@ related:
         isCached: true
   - title: "Biden inauguration: Donald Trump leaves White House for the last time as president – live"
     excerpt: "Trump to hold ‘sending off’ ceremony before flying to Florida and will not be attending Joe Biden’s inauguration"
-    publishedDateTime: 2021-01-20T13:24:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
+    publishedDateTime: 2021-01-20T13:56:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-600840ee8f08973045efc0d0"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
     type: article
@@ -209,7 +209,7 @@ related:
       domain: theguardian.com
     quality: 131
     images:
-      - url: "https://i.guim.co.uk/img/media/f0671f5a59bb566ba46ed483907424552ecb30d3/0_0_6000_4000/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=32f8d88d928a70ea75fee3c26bded216"
+      - url: "https://i.guim.co.uk/img/media/5d98512c5b980f7da3a35cd7c101e9697e0c9840/0_0_3228_2152/master/3228.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=30dc0d74b9433c9e628c7bfe3964bdbf"
         width: 600
         height: 400
         isCached: true
@@ -1167,6 +1167,38 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Eugene Goodman, Capitol officer who led rioters away from the Senate chamber, escorted Kamala Harris to the inauguration"
+    excerpt: "After he alone stood between a mob of Trump supporters and Congressional leaders, Goodman was promoted to acting deputy Senate Sergeant at Arms."
+    publishedDateTime: 2021-01-20T17:44:00Z
+    webUrl: "https://www.cbsnews.com/news/eugene-goodman-capitol-officer-who-led-rioters-away-from-the-senate-chamber-escorted-kamala-harris-to-the-inauguration/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/eugene-goodman-capitol-officer-who-led-rioters-away-from-the-senate-chamber-escorted-kamala-harris-to-the-inauguration/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/eugene-goodman-capitol-officer-who-led-rioters-away-from-the-senate-chamber-escorted-kamala-harris-to-the-inauguration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 100
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/20/74b31f31-0a19-46ad-b11a-e9792db59180/thumbnail/1200x630g2/074b3e3e06d6390cd1ed4be1bdc8f7bc/gettyimages-1230659026.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How Sarah Fuller became part of Joe Biden-Kamala Harris inauguration"
+    excerpt: "Here is the backstory of how Vanderbilt football player Sarah Fuller became part of the Joe Biden-Kamala Harris inauguration celebration."
+    publishedDateTime: 2021-01-20T18:10:00Z
+    webUrl: "https://www.tennessean.com/story/sports/college/vanderbilt/2021/01/20/sarah-fuller-joe-biden-kamala-harris-inauguration-vanderbilt-woman-football-player/4230304001/"
+    ampWebUrl: "https://amp.tennessean.com/amp/4230304001"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/4230304001"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 100
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/12/PNAS/26b7b47e-a665-40be-a842-9d5cecdb4963-_GW55187.JPG?auto=webp&crop=4332,2437,x1,y434&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "New Mexico official who vowed to protest Biden inauguration arrested in Washington"
     excerpt: "The U.S. Justice Department said on Sunday that it had arrested an elected official from New Mexico who had vowed to travel to Washington with firearms to protest President-elect Joe Biden's inauguration."
     publishedDateTime: 2021-01-18T05:11:00Z
@@ -1180,6 +1212,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548144786&r=LYNXMPEH0H01Y&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "PHOTOS: Inauguration of President Joe Biden, Vice President Kamala Harris"
+    excerpt: "Joe Biden became the 46th president of the United States on Wednesday, declaring that “democracy has prevailed” as he took the helm of a deeply divided nation and inherited a confluence of crises"
+    publishedDateTime: 2021-01-20T18:43:00Z
+    webUrl: "https://www.denverpost.com/2021/01/20/photos-inauguration-of-president-joe-biden-vice-president-kamala-harris/"
+    ampWebUrl: "https://www.denverpost.com/2021/01/20/photos-inauguration-of-president-joe-biden-vice-president-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/01/20/photos-inauguration-of-president-joe-biden-vice-president-kamala-harris/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 99
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/BIDEN-INAUGURATION-103.jpg?w=1024&h=710"
+        width: 1024
+        height: 710
         isCached: true
   - title: "Thousands of National Guard members deployed in Washington ahead of Biden inauguration"
     excerpt: "Thousands of National Guard's were deployed to Washington on January 12, ahead of the inauguration of Joe Biden in the wake of the Capitol riots."
@@ -2042,6 +2090,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Vice President Kamala Harris steps into history as first woman of color to hold the office"
+    excerpt: "Kamala Harris is the first woman, first Black American and first South Asian to hold the office of the vice presidency."
+    publishedDateTime: 2021-01-20T18:20:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2021/01/20/inauguration-vice-president-kamala-harris-first-female-person-color-sworn-in/4217882001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4217882001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4217882001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/12596166-30c8-46df-82b2-337deadffdf6-USP_News-Inauguration__Biden_Harris_Inauguration.jpg?auto=webp&crop=2834,1595,x0,y193&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Martin Luther King Jr. Day, COVID-19 pandemic, Kamala Harris: 5 things you need to know Monday"
     excerpt: "Martin Luther King Jr.'s words resonate, decades later. Across the nation, scores of marches, parades and other events to mark the holiday honoring Martin Luther King Jr. have bee"
     publishedDateTime: 2021-01-18T07:58:00Z
@@ -2326,6 +2390,20 @@ related:
       name: TribLIVE.com
       domain: triblive.com
     quality: 50
+  - title: "Donald Trump bids farewell to Washington, hints of a comeback: ‘So just a goodbye. We love you.’"
+    excerpt: "So just a goodbye. We love you,” Trump told supporters at Joint Base Andrews in Maryland where he walked across a red carpet and boarded Air Force One to head to Florida. “We will be back in some form."
+    publishedDateTime: 2021-01-20T18:04:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-donald-trump-leaves-white-house-20210120-3qn4jyharrc67o7j5shbvfekyi-htmlstory.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 42
+    images:
+      - url: "https://www.baltimoresun.com/resizer/t3sCxmrH5CvQeArA0NOWLEBm1ZE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ABFKM5SRYJCWNKFOBLTBYI46EM.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden, Kamala Harris drop inauguration playlist with songs from Beyoncé, Dua Lipa, more"
     excerpt: "Joe Biden and Kamala Harris have released a 46-song playlist in honor of their upcoming administration. Here are the songs that made the cut."
     publishedDateTime: 2021-01-16T05:24:00Z
@@ -2348,6 +2426,20 @@ related:
     quality: 40
     images:
       - url: "https://www.courant.com/resizer/qT1ohrD2EFzVcwz2_Uz6hm2B8Lw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/W6CC2DS6X5DB3BPA2RHU75FY2A.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Joe Biden sworn-in as 46th American president, taking office during time of crisis and division, as Kamala Harris becomes first woman VP"
+    excerpt: "Joe Biden became the 46th President of the United States on Wednesday, declaring that “democracy has prevailed.” He swore the oath of office to take the helm of a deeply divided nation and inheriting a confluence of crises arguably greater than any faced by his predecessors."
+    publishedDateTime: 2021-01-20T17:27:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-nw-joe-biden-inauguration-20210120-dqqqgg4rzvdd7dmjeijjwi5ycu-htmlstory.html"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 37
+    images:
+      - url: "https://www.courant.com/resizer/18_lYmq2EeE4oNDTkga9GfLyUak=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/D4QRYPKMPGG2JPIMXSYM4CXONM.aspx"
         width: 1200
         height: 800
         isCached: true

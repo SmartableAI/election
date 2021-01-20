@@ -415,6 +415,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump's Most Powerful Post-Presidential Talking Point Could Be Immigration"
+    excerpt: "On his way out of office, Trump's administration added 28 new questions to the U.S. citizenship test. His hardline views never stopped appealing to his most fervent supporters."
+    publishedDateTime: 2021-01-20T18:31:00Z
+    webUrl: "https://www.newsweek.com/donald-trumps-most-powerful-post-presidential-talking-point-could-immigration-1562839"
+    ampWebUrl: "https://www.newsweek.com/donald-trumps-most-powerful-post-presidential-talking-point-could-immigration-1562839?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trumps-most-powerful-post-presidential-talking-point-could-immigration-1562839?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1711236/donald-trump-gop-republican.jpg"
+        width: 3283
+        height: 2504
+        isCached: true
   - title: "Donald Trump's Approval Rating Tanks to Record Low on Day of Potential Second Impeachment"
     excerpt: "Sixty-three percent of voters said they disapprove of Trump's performance, making him one of the lowest-rated presidents in U.S. history."
     publishedDateTime: 2021-01-13T16:08:00Z

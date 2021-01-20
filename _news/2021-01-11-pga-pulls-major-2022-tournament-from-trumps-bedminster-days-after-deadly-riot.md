@@ -528,6 +528,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden was sworn in on a storied 19th-century family Bible "
+    excerpt: "President Joe Biden was sworn in on a 19th century family Bible on Wednesday, continuing his longtime tradition of using the heirloom during his decades of public service.\n    \n"
+    publishedDateTime: 2021-01-20T18:18:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P5PFmR-SWeM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/biden-inauguration-family-bible/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/biden-inauguration-family-bible/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120124625-01-biden-bible-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How the narrow Senate majority will shape Biden's presidency"
     excerpt: "In a matter of hours, President Joe Biden will inherit a Democratic-controlled House of Representatives and Senate. But the narrow majorities in both chambers will challenge his administration's agenda, his timeline and the goal Biden set to restore unity in the country after four years of tumult under"
     publishedDateTime: 2021-01-20T13:09:16Z

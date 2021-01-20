@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Liz Cheney gets 2022 primary challenger after Trump impeachment vote"
+    excerpt: "Rep. Liz Cheney, R-Wyo., one of the top Republicans in the House of Representatives, has a primary challenger for the 2022 election after voting to impeach President Donald Trump."
+    publishedDateTime: 2021-01-20T17:45:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qsz0_l9jdsM/liz-cheney-2022-primary-challenger-anthony-bouchard"
+    ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-2022-primary-challenger-anthony-bouchard.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-2022-primary-challenger-anthony-bouchard.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Liz-Cheney-Anthony-Bouchard.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "6OQ8mjD6wjH/NqaPDbYpzbJnc5Jh/3N0oRsjkiJMmNNKiFBVp/YaaVNG66qHAG+9kqWA5TXz8Of+ifYGNraoDFSKyHL9Wl26jAUhPIBK7Ws5YeTf500XgHRurN7nM1YxixkKSNcTVsk7CdDoOzJVDyzQsJ9v9l/1a5mY5w2FEcVWU88GWMNMIWIgJJHiAsWfB5gxX7/llDJztMbTj22IU3iPtSe2qCK6M7tM1Qkne2iV/wvgdAKaq9NnfH63PSOiNjK2VDCCYDuSK0y7x1ajaeAWU3MHAD+lCs8KEEWiCX34XXzdH+SZwnqNh17YY3GUdDDTFplaIWZ9QAs+r5VutxtbKO0wWYHu8naPEzQIZXE=;AOiWAxGgG20EzCUzXj8qBg=="
 ---

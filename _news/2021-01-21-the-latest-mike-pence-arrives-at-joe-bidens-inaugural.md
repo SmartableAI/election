@@ -3,8 +3,8 @@ category: news
 title: "The Latest: Mike Pence arrives at Joe Biden’s inaugural"
 excerpt: "The Latest on Joe Biden's presidential inauguration (all times local): 11:10 a.m. Vice President Mike Pence has arrived at the inauguration of President-Elect"
 publishedDateTime: 2021-01-20T16:19:00Z
-originalUrl: "https://apnews.com/article/joe-biden-inauguration-news-0a49b6d8b3c9904d88d5bccfd854ab25/gallery/a1421ef0a5ed41479c0e480c3ffcf287"
-webUrl: "https://apnews.com/article/joe-biden-inauguration-news-0a49b6d8b3c9904d88d5bccfd854ab25/gallery/a1421ef0a5ed41479c0e480c3ffcf287"
+originalUrl: "https://apnews.com/article/joe-biden-inauguration-news-0a49b6d8b3c9904d88d5bccfd854ab25/gallery/f9fc4dd896e3409d897ab46a5ce8de60"
+webUrl: "https://apnews.com/article/joe-biden-inauguration-news-0a49b6d8b3c9904d88d5bccfd854ab25/gallery/f9fc4dd896e3409d897ab46a5ce8de60"
 type: article
 quality: 120
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/fcb727aa188945cbbae615d05231d945/3000.jpeg"
+  - url: "https://storage.googleapis.com/afs-prod/media/dd81f9ef6e3041c5b9ba2c19bcd37adb/3000.jpeg"
     width: 3000
     height: 2000
     isCached: true
@@ -2710,6 +2710,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "KpCMVDLLgL/FYKI7WpdYhaOgBQjCZxGk9WFJ0EBUOWN3b6Uj4AhnAOHqZxv7EHcgEn73TwJjlfISIQZ5iiegyxF1BN0PXoKh8b2H2zVr2/ck5V4IzLiJrufWcEMcExLMmao8DwsSCDxzNfU9t1szfh9PM/ZYLHAnwNytlj8XziQ+1O2OJ6rP9lobxVQEXTyR2QkRfzqIZfW3BgJzR29dXpM5WfEM7wl5zfWxKNnc6ZmUHpGK/6i7dDFMiWPq2ttq9bpGmEBDoJXNtf/WqJJ34LaFQqiKCmt2b/aIfmw9ZywlF26rO7AR3Zs1o1qJiFrYCQwa9egZDO/FLt5knOn2PpafOBc+TeWillxfSBnXRQ8=;U+fCQjgVb6rhVEoo4WLWiw=="
+secured: "JSx7dFBg63XB0Rvgylo3fKW2FS7fgpiOvbQmtzbqf70DnI43PTet0+Qi9ywfQu4NMatWuCU8EMXWwdOT8OkJ/IDeLDbfB2gPkCtInHYgBrqEYulPG0LnQnu0+4rlMJtKnKucAhicgCRMfkCnSLetXwiaXr/yNtq38twAZT0FTVh3cpHxaxM6AmFSnWbQsJexKVPzfEr9u+w9F8AJHxR9CLift1kIsQZAxZW6rftG+Hqhkf0fJtlCIGL6MZO5x4tGDKBkAxfA+htgphXGJev+i48bNqE+nvrsEFtClS0/kvxP2b8fbc+bI24e4PtQD9LPm1jTpQSZLK9tM/zrGNri4UYNWSj4SzdeXsOYZueuv7c=;ccH3WDtevbQVKyT0aD+J9A=="
 ---
 

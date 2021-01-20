@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/01/politics/joe-biden-economic-team-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/01/politics/joe-biden-economic-team-white-house/index.html"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -214,6 +214,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/04/us/politics/04transition-briefing-biden-jobs/merlin_180779328_573c5cc9-0524-4153-a319-93334f6b8c48-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "What Joe Biden Can Learn From the Worst President In American History"
+    excerpt: "During the presidential debate on September 29, 2020, in Cleveland, Joe Biden bluntly told Donald Trump “You’re the worst president America has ever had.” This is a difficul"
+    publishedDateTime: 2021-01-20T16:23:00Z
+    webUrl: "https://www.thenation.com/article/politics/biden-learn-trump-economy/"
+    ampWebUrl: "https://www.thenation.com/article/politics/biden-learn-trump-economy/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/biden-learn-trump-economy/tnamp/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 85
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2021/01/trump-stimulus-check-img.jpg"
+        width: 1440
+        height: 907
         isCached: true
 
 secured: "U2Ebr1DU6/U1LZ8xULmLtUpOh3tHqPnmjT2OHCr2d4iaB35QCsroIeyrcaisftSyyURJL9J5UnrP4p/PY0AAZdHVXYclE28VjqZl8Nlq7uHbeBTQYskhxlo1H5AUVHTMfZFCbe19P1+P4FkZuURgp7dwzuYRJErKmjMMsaQmTDwLfmNCMhAgitibSN5r4GDz8XuZSVvFzQFCvzA0Z61qXPEymPNZ3B8d3llPNTFa8Thv3TVQ6zzVH8EM2nWO4nSXWiwTRWv1L+reiqNe/1vwFXufHF1JvptJ8ocjU5MvGu1BajmqwU3dqHk8BkPE+R22ObEHIe/t+kAVak2W8QY/F2KMXOH5J5WCT3WTUrGs/hY=;uzg49+eoHS7QdDxl6I9HgA=="

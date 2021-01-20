@@ -765,6 +765,22 @@ related:
         width: 1024
         height: 680
         isCached: true
+  - title: "Final Letter: Trump Tight-Lipped On Message To Biden"
+    excerpt: "The transition of power from Trump to President Joe Biden has been anything but traditional. But one tradition remained; a note was left for the incoming president. White House spokesman Judd Deere told USA Today the content of the letter remains between the two leaders."
+    publishedDateTime: 2021-01-20T16:54:00Z
+    webUrl: "https://www.ibtimes.com/final-letter-trump-tight-lipped-message-biden-3126650"
+    ampWebUrl: "https://www.ibtimes.com/final-letter-trump-tight-lipped-message-biden-3126650?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/final-letter-trump-tight-lipped-message-biden-3126650?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 90
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/gettyimages-1297446271.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Melania Trump Faces Criticism For Not Giving Jill Biden White House Tour"
     excerpt: "Melania Trump received backlash on social media after reports said she broke tradition by not giving incoming first lady Jill Biden a pre-inauguration tour of the White House."
     publishedDateTime: 2021-01-19T09:30:00Z

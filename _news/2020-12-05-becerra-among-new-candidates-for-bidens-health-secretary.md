@@ -216,6 +216,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "What Joe Biden Can Learn From the Worst President In American History"
+    excerpt: "During the presidential debate on September 29, 2020, in Cleveland, Joe Biden bluntly told Donald Trump “You’re the worst president America has ever had.” This is a difficul"
+    publishedDateTime: 2021-01-20T16:23:00Z
+    webUrl: "https://www.thenation.com/article/politics/biden-learn-trump-economy/"
+    ampWebUrl: "https://www.thenation.com/article/politics/biden-learn-trump-economy/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/politics/biden-learn-trump-economy/tnamp/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 85
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2021/01/trump-stimulus-check-img.jpg"
+        width: 1440
+        height: 907
+        isCached: true
 
 secured: "qKbNcP6YVGmktZnB8oLP3qeFg/pLqMSdlDPAqDsvfZrHn/hTYKCTZANCriuYH369nkApGMymIcHfUwfjgmUNUFNYe3diUD/Gr7cjN2Lw0e8yfCpIQDv4Mjfvinjky2JFP8oM/RPOIDU/hrhMTqAH1OGLov1wwA8y6nJ6mEJA3cABGjGtqLLFkAPw2xTWGZrMuQW6KXYU8cYeFqpgCSeLqPHUzljRZqzjE2YnJ+Ee75O1/f37cTqoY9OHVNh7f/vSo38204UgWV1FDjxKW1heCogNZdXCQj4VUdVgxr9uGKILmIJUxhvxRL3EKaz3Ze4A/jBLFp0t4X+tEz3sMcWKP8K4yaTaXI3ojrfAaJHL31vlXwmwjd6uh3LgRY37CN+NWlxIzrj4K6WXS1EVRteA9tQ57IdIuxx9Wr+cLm2PfmkhQHST0Q7EQD/uYmL3pOuoJre/nnFb+Ms3H69X7KS83gsRpMQ7qH35uIiUaJiosogl8/UMGk2wN+7d3gNfupJYiWeOytoJ949htoBb4cbnVw==;YzkeFJpCHqPJ9pzgwuPfGA=="
 ---

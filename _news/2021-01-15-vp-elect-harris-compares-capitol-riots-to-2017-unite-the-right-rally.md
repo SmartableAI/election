@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/vp-elect-harris-capitol-riots-charl
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-elect-harris-capitol-riots-charlottesville-unite-the-right.amp"
 type: article
 quality: 185
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e2265dc7-c2de-4b08-9cea-86b4ebe64632/db6daa92-b888-49ae-a844-b925a3f30557/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Capitol Police Officer Eugene Goodman, hero during riots, escorts Kamala Harris during inauguration"
+    excerpt: "Capitol Police officer Eugene Goodman escorted Vice President Kamala Harris into the Capitol building Wednesday ahead of the inauguration ceremony."
+    publishedDateTime: 2021-01-20T17:16:00Z
+    webUrl: "https://www.foxnews.com/us/capitol-police-officer-eugene-goodman-hero-during-riots-escorts-kamala-harris-during-inauguration"
+    ampWebUrl: "https://www.foxnews.com/us/capitol-police-officer-eugene-goodman-hero-during-riots-escorts-kamala-harris-during-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/capitol-police-officer-eugene-goodman-hero-during-riots-escorts-kamala-harris-during-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "3fu+Xu59Q2uPoxFYF8La0y9tm48xT1NW/lURfOCsJS4YVLvUkcfJdLBYlNJLkxHjNZKXGBKhRvVu+szxZBsZUPJaFiTp/JwWIvbjDkiO9dtGBg39MStoKH7QkoUt47/LuQztbaFbeUXQ8VWq1ObYSbwWPIC15yDGTXg2T70y3B7ECP5jf7bLMDu3Fu/nw95d51ADuxIsCb8WGs7lsO0y5P/9r0r0EYPr5hR9o0arZwJOOs4c+CSD9kc7E9xSBp8mAlbikbtwBwIXgHRcHFNbgFKSuPb8rnedAci5Bq4FB8o7liQ69HxLQHwTV4dB6uBr+Zv5JWdT4U08J0WLP2A2yXQkrXtgltwc82VpBcAc1Qg=;EMQyr1UVR9Wq9hRdj0CNvw=="

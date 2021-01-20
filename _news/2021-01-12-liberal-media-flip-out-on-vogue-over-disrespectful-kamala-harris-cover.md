@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Capitol Police Officer Eugene Goodman, hero during riots, escorts Kamala Harris during inauguration"
+    excerpt: "Capitol Police officer Eugene Goodman escorted Vice President Kamala Harris into the Capitol building Wednesday ahead of the inauguration ceremony."
+    publishedDateTime: 2021-01-20T17:16:00Z
+    webUrl: "https://www.foxnews.com/us/capitol-police-officer-eugene-goodman-hero-during-riots-escorts-kamala-harris-during-inauguration"
+    ampWebUrl: "https://www.foxnews.com/us/capitol-police-officer-eugene-goodman-hero-during-riots-escorts-kamala-harris-during-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/capitol-police-officer-eugene-goodman-hero-during-riots-escorts-kamala-harris-during-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "uh8QapwepDXNQbMkGTCmhAROMA0AU26A0EMDHJTNI5w55KWA5qyH1MNYC10Yf15JGx2JgmoKpPuhUHZ1l4b6ptdN2Lp0hPVGYwFO/Cwo88Aqyp5D1/seC7vXpdkC6l1FGbCw6bp12BgRJXTBzNG0Gl0EGkj6k6NSKvJRrEpE0t33X5E6Y5QpFQIJwFBbrCEV0rSkj4H0LqLExYnONgDmjLg2n6lqcMf9ObihxJEcRH+r9kWf8ZKHX4gFC0NcYBmlOR+jFSwZLTf0nzRsOddDq+hWXIUuKBRSq5hc7/6K0VpOHLreFZGi0nJ0RJkifZiEmaRQVFMRDfFU5Mg5mSBGGtq55+ofSMIspkI83MjPBU0=;S93STWeEOHjwWyyDxBCkQQ=="
 ---

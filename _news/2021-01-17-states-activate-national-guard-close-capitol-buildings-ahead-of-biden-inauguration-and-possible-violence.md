@@ -480,6 +480,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden to reverse Trump travel ban, halt wall, strengthen DACA in slew of immigration orders"
+    excerpt: "President Biden on Wednesday will issue a slew of executive orders related to immigration, reversing some of the most controversial of former President Donald Trump’s immigration policies -- a sign of Biden’s early focus on immigration in his first days in office."
+    publishedDateTime: 2021-01-20T18:18:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KUrt7ybnDos/biden-trump-travel-ban-wall-daca-immigration-orders"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-travel-ban-wall-daca-immigration-orders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-travel-ban-wall-daca-immigration-orders.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbbb4448-7269-4978-8efc-90bb155801cf/b7d0f268-1824-4f6f-9047-a126c13f1ea6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Brit Hume: Senate Dems may not move forward with Trump impeachment as attention shifts to Biden"
     excerpt: "The news media landscape is about to shift from years of covering President Donald Trump to the new administration of President-elect Joe Biden, said Fox News senior political analyst Brit Hume on Monday. "
     publishedDateTime: 2021-01-18T15:56:26Z
@@ -768,6 +784,54 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden administration targets hunters with regulations on Day One"
+    excerpt: "When Joe Biden enters the White House for his first day as President of the United States, he is set to sign 17 executive actions and orders -- many of which review or reverse environmental policy written under President Donald Trump."
+    publishedDateTime: 2021-01-20T18:07:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AqV8JCA982E/biden-administration-targets-hunters-day-one-regulations"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-targets-hunters-day-one-regulations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-targets-hunters-day-one-regulations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20357757306489.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden, in first tweet as president, says 'no time to waste' on agenda"
+    excerpt: "President Biden, just after delivering his inaugural address, said he would head to the White House to \"get right to work\" on his agenda."
+    publishedDateTime: 2021-01-20T18:13:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IS28dFkTMsk/biden-first-tweet-as-president-no-time-to-waste"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-first-tweet-as-president-no-time-to-waste.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-tweet-as-president-no-time-to-waste.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden to mandate mask-wearing on federal land in executive order"
+    excerpt: "President Biden was sworn into office Wednesday, and one of his first priorities will be to sign an executive order urging Americans to wear masks for 100 days and requiring them on federal property. "
+    publishedDateTime: 2021-01-20T18:33:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I6JsRp2DDHk/bidens-executive-order-mask-wearing-federal-land"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-executive-order-mask-wearing-federal-land.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-executive-order-mask-wearing-federal-land.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/0074e6d8-bidens.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's inauguration: Everything you need to know"
     excerpt: "The United States on Wednesday will once again transfer power from one president to another, as it has done since 1797 when George Washington left office to be replaced by the second American president, John Adams. "
     publishedDateTime: 2021-01-20T09:20:44Z
@@ -880,6 +944,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Photo of Bernie Sanders sitting alone in cold at Biden inauguration takes off"
+    excerpt: "A photo of independent Vermont Sen. Bernie Sanders sitting alone at President Biden's inauguration went viral on social media Wednesday."
+    publishedDateTime: 2021-01-20T18:39:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mnbhQyO6E2M/bernie-sanders-sitting-alone-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-sitting-alone-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-sitting-alone-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden tweets about impeachment vote, reminds Senate of 'other urgent business'"
     excerpt: "After the House voted to impeach President Trump Wednesday, President-elect Biden said the chamber had held the president \"accountable\" and asked the Senate to do their \"constitutional responsibilities\" on impeachment – along with \"other urgent business.\""
     publishedDateTime: 2021-01-14T08:12:11Z
@@ -991,6 +1071,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/321ecfd7-beb9-4774-b170-6624dc01804c/da14774b-57ad-4e5e-9230-b8d2bae64d79/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden announced his first presidential run 33 years ago -- and a lot has happened since"
+    excerpt: "President Joe Biden's inauguration Wednesday fulfilled a goal he has had for decades since he announced his first presidential campaign on June 9, 1987."
+    publishedDateTime: 2021-01-20T17:10:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UFvNBhlaRP4/biden-first-presidential-run-33-years-ago-what-has-changed"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-first-presidential-run-33-years-ago-what-has-changed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-presidential-run-33-years-ago-what-has-changed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Joe-Biden-1987.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump impeached by House over Capitol riots, becomes first president to face rebuke twice"
     excerpt: "The House of Representatives Wednesday made history by voting to impeach President Trump for a second time in his presidency."
@@ -1833,6 +1929,22 @@ related:
     quality: 127
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02ffde9d-0cc6-45ac-b045-16f768eb828d/40e452e9-8c15-4f5b-967a-fac0730df44d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden sworn in as 46th president, says 'democracy has prevailed' in inaugural address"
+    excerpt: "Joe Biden was sworn in as 46th president of the United States on Wednesday. Biden took the oath of office, with his hand on his family Bible. He was sworn in by Supreme Court Chief Justice John Roberts."
+    publishedDateTime: 2021-01-20T17:12:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-inauguration-sworn-in-46th-president"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inauguration-sworn-in-46th-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inauguration-sworn-in-46th-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -4879,6 +4879,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Inauguration quotes from President Joe Biden, former President Donald Trump"
+    excerpt: "Joe Biden took the oath of office Wednesday to become America’s. In an unprecedented inauguration that took place amid security concerns and a global pandemic, Biden pledged to unite a country torn by political divide."
+    publishedDateTime: 2021-01-20T17:23:00Z
+    webUrl: "https://www.al.com/news/2021/01/inauguration-quotes-from-president-joe-biden-former-president-donald-trump.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/inauguration-quotes-from-president-joe-biden-former-president-donald-trump.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/inauguration-quotes-from-president-joe-biden-former-president-donald-trump.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 88
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/USJDSEM6LVGIPIDOQOPV5SIA2U.jpg"
+        width: 2275
+        height: 1638
+        isCached: true
   - title: "Trump Official Makes False Claim That Joe Biden's Inauguration Can Be Postponed"
     excerpt: "White House trade advisor Peter Navarro has claimed that Vice President Mike Pence can change the date of Inauguration Day."
     publishedDateTime: 2021-01-03T19:27:00Z
