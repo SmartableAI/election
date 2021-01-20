@@ -72,6 +72,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Exclusive: Biden administration eyes creating White House antitrust czar - sources"
+    excerpt: "The incoming administration of U.S. President-elect Joe Biden is considering creating a White House position to focus on competition policy and issues relating to antitrust, two sources familiar with the situation said."
+    publishedDateTime: 2021-01-20T00:16:00Z
+    webUrl: "https://www.businessinsider.com/exclusive-biden-administration-eyes-creating-white-house-antitrust-czar-sources-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/exclusive-biden-administration-eyes-creating-white-house-antitrust-czar-sources-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/exclusive-biden-administration-eyes-creating-white-house-antitrust-czar-sources-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
   - title: "France's Le Maire: resolving trade sanctions is my priority for Biden administration"
     excerpt: "French Finance Minister Bruno Le Maire said on Thursday that resolving transatlantic trade sanctions were his priority for dealings with the incoming administration of U.S. President-elect Joe Biden."
     publishedDateTime: 2021-01-14T15:02:00Z

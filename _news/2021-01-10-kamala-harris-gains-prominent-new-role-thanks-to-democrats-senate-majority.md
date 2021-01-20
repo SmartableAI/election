@@ -464,6 +464,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden and Harris: Two Paths Converge at the White House"
+    excerpt: "Six articles published by our reporters during the campaign illustrate the personal and political arcs of Joe Biden and Kamala Harris through the years."
+    publishedDateTime: 2021-01-20T00:25:00Z
+    webUrl: "https://www.nytimes.com/2021/01/19/us/joe-biden-kamala-harris.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/19/us/joe-biden-kamala-harris.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/us/joe-biden-kamala-harris.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/30/us/politics/OakArticle-600706b6/OakArticle-600706b6-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden, Harris to receive daily briefing, Trump to hold award ceremony, bill signing"
     excerpt: "Biden and Harris also will record an interview with CNN, while Trump will present the medal to former football coach Lou Holtz and participate in a bill signing."
     publishedDateTime: 2020-12-03T12:44:00Z
@@ -923,6 +939,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/19/fashion/19PEARLS/19PEARLS-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Kamala Harris honors Covid victims in nationwide memorial"
+    excerpt: "Vice President-elect Kamala Harris speaks at a nationwide Covid-19 memorial to pay tribute to over 400,000 people who have died from the virus."
+    publishedDateTime: 2021-01-19T23:14:00Z
+    webUrl: "https://www.nbcnews.com/video/kamala-harris-honors-covid-victims-in-nationwide-memorial-99695685739"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99695685739"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99695685739"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/nbc_spec_harrisfull_1_210119_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "What’s It Like to Have Kamala Harris As ‘Momala’? We Asked Her Stepkids."
     excerpt: "But on the night that Joe Biden and his vice-presidential running mate, Kamala Harris, delivered their acceptance speeches, with their families gathered onstage, watching fireworks, Cole began receiving astonished texts from friends and colleagues."

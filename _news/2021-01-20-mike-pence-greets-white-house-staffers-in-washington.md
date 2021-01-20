@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Mike Pence Greets White House Staffers in Washington"
-excerpt: "U.S. Vice President Mike Pence walks back to his office after greeting staff members outside the West Wing of the White House in Washington, DC on January 19, 2021. Pool Photo by Yuri Gripas/UPI"
+excerpt: "U.S. Vice President Mike Pence poses for a group photo with staff members outside the West Wing of the White House in Washington, DC on January 19, 2021. Pool Photo by Yuri Gripas/UPI"
 publishedDateTime: 2021-01-19T21:04:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/25bc45373058306b5a157b22e066ef20/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/25bc45373058306b5a157b22e066ef20/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/31056b39c3bed6e8184373d7a3205b2f/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/31056b39c3bed6e8184373d7a3205b2f/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/25bc45373058306b5a157b22e066ef20/PENCE-STAFF.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/31056b39c3bed6e8184373d7a3205b2f/PENCE-STAFF.jpg"
     width: 650
     height: 433
     isCached: true
@@ -1425,6 +1425,22 @@ related:
         width: 3856
         height: 2483
         isCached: true
+  - title: "Kamala Harris' moment is what they've been waiting for"
+    excerpt: "Kamala Harris' ascension marks a pivotal moment in history. Young women say her inauguration may finally allow them to savor what has been won."
+    publishedDateTime: 2021-01-19T23:28:00Z
+    webUrl: "https://www.desmoinesregister.com/story/life/health-wellness/2021/01/19/kamala-harris-inauguration-emotional-moment-young-women-color/4208343001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4208343001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4208343001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/d883f446-f5c3-46a4-9b52-147fb9eb058e-good3.jpg?auto=webp&crop=1770,996,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."
     publishedDateTime: 2021-01-13T07:29:00Z
@@ -1845,6 +1861,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "dI55x+kCyHEBY9tAFrRGRFTPsrZOYmao3+C4UoCMg9hKqHkxT2Cn4SDUBXL6D60y1FG++1zl8kVuNx0oSwMA6kDm5+n6d4zS9G8K0syHR0z2mharHY2QVtfMjz1YSeoat+/nM3qNOpK207NDR+6i8YXdtG9V+GX72rk7Yj+ZRM6ySiTBRdQp+u0FidDyb8a29PPYcoqkUQ+sG917FamQ013fBCrDxuoU6JFJsT9B+JRvJgoXiItLKkpfasUhUF6jhE00tx4Wq093DqXVz9R0Gusbch9twTfQkYmTmycKtF2jru0Ji6RYu8I5yyyULUBUjIkMOTlHSSh3XvBoYAZElmHrrz8fzq5POQ0S74itM5g=;AXA8Ys2RT36FdA/LGAm/Dw=="
+secured: "IcW48xml2Eeb4PQFWGJzGbU/aYl6RFxKW/rtVoGPd7u5goyF/INM+tyXYPkXtmiReGj/WJBTqK0Mnpw4YQrUJgKF9zePb16C/NW3D/1qECDWns/hdjYcvfH33Ck88vuOCSE4Wu7EQIqU+OhpH2va94Mucd3s7uHaMVaEDVCp7DYms6fCvcsYm2Lbqe9lZvXrEsqXk7e/jL7muf6Ga91R5NK2j3UOExM6Rof8LiO6Nvfj2K7b6rcVUYJBcRM4GpaXRO9dJE9ewRKTjVzBHIc7PjPw99vWGmEpCclBQ0bMpd1kUW3kqIMi0JzVjjp5caJ+LCiiYTYatAiW7NN+vN5tWrIOW8Y4Cl9ksMYbiSAXG0Y=;zkDNSgAEichY6F7aBlsdrA=="
 ---
 

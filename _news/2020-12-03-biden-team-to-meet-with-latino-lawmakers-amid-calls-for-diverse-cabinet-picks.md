@@ -127,6 +127,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "The Latest: Biden calls for remembrance at COVID-19 memorial"
+    excerpt: "At a memorial for the lives taken by COVID-19, President-elect Joe Biden is calling on Americans to remember those lost to the coronavirus and to begin to heal"
+    publishedDateTime: 2021-01-20T00:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-biden-attend-mass-congressional-leaders-75341544"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-biden-attend-mass-congressional-leaders-75341544"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-biden-attend-mass-congressional-leaders-75341544"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6c11b9b1d76c495a9b2243c0fc73f003_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Hunter Biden's taxes under investigation by U.S. attorney's office in Delaware"
     excerpt: "I am confident that a professional and objective review of these matters will demonstrate that I handled my affairs legally and appropriately, Hunter Biden said in a statement."
     publishedDateTime: 2020-12-09T21:45:00Z

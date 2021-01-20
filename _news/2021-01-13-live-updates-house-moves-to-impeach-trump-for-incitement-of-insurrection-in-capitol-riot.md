@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1253971"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1253971"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_44/3423609/201028-james-comey-al-0856_dd78874bf9563d902a336451af19486e.jpg"
         width: 2500
         height: 1672
+        isCached: true
+  - title: "Live Updates: Ahead of Impeachment Trial, McConnell Says Capitol Assault Was ‘Provoked’ by Trump"
+    excerpt: "Senator Mitch McConnell said the mob that stormed the Capitol “was fed lies,” referring to attempts by President Trump to overturn the election based on bogus claims of voter fraud. The president is expected to issue dozens of pardons."
+    publishedDateTime: 2021-01-19T17:58:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/19/us/inauguration-day-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/19/us/inauguration-day-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/19/us/inauguration-day-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 122
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/19/us/19transition-briefing-promo1/19transition-briefing-promo1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Presidential Transition Live Updates: House Says It Will Move Swiftly With Impeachment If Pence Won’t Act"
     excerpt: "The House could vote as soon as Tuesday on charging President Trump with inciting a mob that attacked the Capitol. But top leaders want to avoid hamstringing the first days of Joseph R. Biden Jr.’s presidency with an all-consuming Senate trial."

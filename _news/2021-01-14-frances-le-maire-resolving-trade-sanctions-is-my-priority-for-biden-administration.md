@@ -86,6 +86,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Exclusive: Biden administration eyes creating White House antitrust czar - sources"
+    excerpt: "The incoming administration of U.S. President-elect Joe Biden is considering creating a White House position to focus on competition policy and issues relating to antitrust, two sources familiar with the situation said."
+    publishedDateTime: 2021-01-20T00:16:00Z
+    webUrl: "https://www.businessinsider.com/exclusive-biden-administration-eyes-creating-white-house-antitrust-czar-sources-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/exclusive-biden-administration-eyes-creating-white-house-antitrust-czar-sources-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/exclusive-biden-administration-eyes-creating-white-house-antitrust-czar-sources-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
 
 secured: "qek8xiA4AC3AEp6selFPvqqqTilhMh9k4raM00mdICbjZoHswiK5ks3dHJlXe+Fb/gM3L9M87uN032Ci0TzK67vU8hn5O+NGuxuSCQuv0glKU07Xez+YAdnEeidkJU36OTG21O94LecjcisSiKAR8RmGumGReqCp53JKH6Srri5acgtzSzvqvvGB68ILEF+sBjh4fizMuPYecabceIoNzqDrFzAQjfA7Vf4h752YcyCdqPWdmUKOz0NA06b0EmKvZNYsSf3vdlK12me56+8mnaAcKWzY4q6DpWiQX1okyQMJ9J3RzbJpvjVmHwHSQLLhHsYBIgrFEn3je1zBkQiFBDUM5bbJrthsihUjB2wyUhw=;3JQIQ2G4QMV/eCOSEUfLEA=="
 ---

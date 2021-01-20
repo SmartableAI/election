@@ -1425,6 +1425,22 @@ related:
         width: 3856
         height: 2483
         isCached: true
+  - title: "Kamala Harris' moment is what they've been waiting for"
+    excerpt: "Kamala Harris' ascension marks a pivotal moment in history. Young women say her inauguration may finally allow them to savor what has been won."
+    publishedDateTime: 2021-01-19T23:28:00Z
+    webUrl: "https://www.desmoinesregister.com/story/life/health-wellness/2021/01/19/kamala-harris-inauguration-emotional-moment-young-women-color/4208343001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4208343001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4208343001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/d883f446-f5c3-46a4-9b52-147fb9eb058e-good3.jpg?auto=webp&crop=1770,996,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."
     publishedDateTime: 2021-01-13T07:29:00Z
@@ -1741,16 +1757,16 @@ related:
         height: 687
         isCached: true
   - title: "Mike Pence Greets White House Staffers in Washington"
-    excerpt: "U.S. Vice President Mike Pence walks back to his office after greeting staff members outside the West Wing of the White House in Washington, DC on January 19, 2021. Pool Photo by Yuri Gripas/UPI"
+    excerpt: "U.S. Vice President Mike Pence poses for a group photo with staff members outside the West Wing of the White House in Washington, DC on January 19, 2021. Pool Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-01-19T21:04:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/25bc45373058306b5a157b22e066ef20/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/31056b39c3bed6e8184373d7a3205b2f/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/25bc45373058306b5a157b22e066ef20/PENCE-STAFF.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/31056b39c3bed6e8184373d7a3205b2f/PENCE-STAFF.jpg"
         width: 650
         height: 433
         isCached: true
@@ -1845,6 +1861,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "U/pyisdIsnwxlw4JNffBsurjJXZ4l+OUYeJk17AKlAxnSQAs84wTb5ciFIC8aY5HvHInH90BwaxhL3FQmgtGS9EeWx2gBiwkuW+MnzmbyjlthxSO+TPKyuJKBnoKzDHdFq/3G4DD+GEd2D8nzNg5D41oufr6Caiv6ctCiO4sA+ZwdHgYywyH6ozYArVk5UnYgHF87RpiUvfi6SP/0BZkIcrtSPTlrnENnNC4ZXfwouieXgn+2tZfaEiYTd7Et/yNUg1l3YwogHXWl5ogSTEtp70Gt6aSP5yzCbi9ZLBIwaR6gUDN+cUkP69JEULeHlGRxITdYRnZMkAOC9kmPqoILCbmKdMbqun6FSgS3IDUXQ8=;kAAeslN/NbiIeDC3UHe+mQ=="
+secured: "iraOchMq1hE3FdWr28rC8KEifLbGFYGZCehhWIKZsW1XPqJASKWxtiTjjGPYhA0LgA9vOt/DOt3dfGjCVqP7nySNujS96bFw8TQr9RvJAtcrmKj4VfVZ5J2F1H6cfg8flbtgez/jXW/XfHx6dFODLXQLgcTWYcJK8byCXD4uzX3y3Zf2PU5zguIlKAP4kVJUMpfCYETYbop3VrxZoSS3CnuB49/yn2hTWC5eP0QJcCv2+rpc4pude3zF3slgFbxrKKpXeQo3QAwDAX8niyvMRroqO30UzjpATrvVOQFfTnJ0+IHFQg3mLfJUMQn6a2gh67cYSnlUoq2+8+sh3PliJhHpHo0VuqJsAphxCED7qLKmhIi0E8OHfAvo2AO2FFl3/J22+s1m9j2FzzwWNjGsEiUaygey9/3WJx4q9gldPN5D37ejUO1ruZyyoqYVgA6e9pzAKM2X6UrV5+s/UaWMbCPjexey03gqYVJEdXwldF2yh5tLReWPbpZIlgGG1sx2NhaIBzSDAqZk9WvyunHhvA==;ucir/Kuuewn8GQSs2dzOWA=="
 ---
 

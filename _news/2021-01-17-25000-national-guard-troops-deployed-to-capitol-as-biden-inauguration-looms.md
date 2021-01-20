@@ -176,6 +176,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Democratic lawmaker walks back suggestion National Guard a threat to Biden inauguration"
+    excerpt: "Rep. Steve Cohen suggested pro-Trump members of the National Guard \"might want to do something\" to threaten President-elect Joe Biden at his inauguration."
+    publishedDateTime: 2021-01-19T22:57:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8TGpwnzqvT0/dem-lawmaker-clarifies-national-guard-criticism-suggesting-members-threat-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-lawmaker-clarifies-national-guard-criticism-suggesting-members-threat-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-lawmaker-clarifies-national-guard-criticism-suggesting-members-threat-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/321ecfd7-beb9-4774-b170-6624dc01804c/da14774b-57ad-4e5e-9230-b8d2bae64d79/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump reportedly to leave White House the morning of Biden’s inauguration"
     excerpt: "President Trump is set to officially depart.C. Wednesday morning, reports said. That same day Joe Biden will take the oath of office and be officially sworn in as th"
     publishedDateTime: 2021-01-16T18:55:00Z

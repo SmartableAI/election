@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-heading-back-ind
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-heading-back-indiana-hometown-biden-inaugural-75352267"
 type: article
 quality: 150
-heat: 1870
+heat: 1910
 published: true
 
 provider:
@@ -83,7 +83,7 @@ related:
   - title: "Biden inauguration: Donald Trump's last full day as US president – live updates"
     excerpt: "President expected to issue 100 pardons as Covid cases reach 24 million – follow all the latest news on Trump’s final full day"
     publishedDateTime: 2021-01-19T13:39:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates?page=with:block-6006ee7c8f081bab84f55c3a"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates?page=with:block-6006e05b8f0847f62dee6062"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
     type: article
@@ -92,7 +92,7 @@ related:
       domain: theguardian.com
     quality: 136
     images:
-      - url: "https://i.guim.co.uk/img/media/14ff0ff1cf92554c2343fbe627855c8a0c3f1d1c/0_0_5557_3333/master/5557.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ad37adcb20c6c3000992e1066a1394e6"
+      - url: "https://i.guim.co.uk/img/media/aa2844393170055cbd33ca5ad800ef12569ca0ff/0_178_5387_3234/master/5387.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=825e8e5fc9686324f15f05dec35e34d1"
         width: 600
         height: 360
         isCached: true
@@ -954,6 +954,31 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden to enter Oval Office with no confirmed Cabinet members"
+    excerpt: "President-elect Joe Biden will begin his presidency without a single Cabinet member confirmed by the Senate. Hearings for five of his choices began on Tuesday. Nancy Cordes has more."
+    publishedDateTime: 2021-01-20T00:06:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-to-enter-oval-office-with-no-confirmed-cabinet-members/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/20/34768d4f-4f74-47bf-8660-71c4bab53aeb/thumbnail/1200x630/7cc261a05dc788c6651ec011efaaf40b/0119-en-cordes-629438-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Two Guard members removed from Biden inauguration"
+    excerpt: "Two U.S. Army National Guard members have been removed from the presidential inauguration security mission after they were found to have ties with right-wing militia groups, according to two U.S. Army officials."
+    publishedDateTime: 2021-01-20T00:16:00Z
+    webUrl: "https://www.businessinsider.com/two-guard-members-removed-from-biden-inauguration-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/two-guard-members-removed-from-biden-inauguration-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/two-guard-members-removed-from-biden-inauguration-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden launches new Twitter account to build following before taking command of White House @POTUS on Inauguration Day"
     excerpt: "When Joe Biden is sworn in on Wednesday, he will take command of the @POTUS and @WhiteHouse Twitter accounts in another official transfer of power."
     publishedDateTime: 2021-01-16T23:59:00Z
@@ -1322,6 +1347,6 @@ related:
       domain: detroitnews.com
     quality: 35
 
-secured: "L5FQeJ0IOm+xFdfalUmPpx5xwIYsc0jMUoZdCzYSVwfmxfb9tgakWgr7EMPyJzCB9yX5FdG26u8d5L2vRgWV+yLEZuJu5aXFl0HEp2p/+GeOOMlvi79L63vRrZ3gx4xyzF/QZfjz3EkdFtB7sJhxvqZztKzbEhSa6SRZ80XvAqBxX452OaGW1CRanFVfL6k3VvWM6XBdzgGI9WdJPOGCbgUdqRvU3CeFMESCrSBWyCi+guYhWCq6Lr85wF93yK7xK3v+b+2C3QLPfAU+TnQu6GhSlcG1cYDlRN+H4pi3RoFJjZq8m7hyDFjc7zGtp8g0Cqu4+0Ex7TgAY9jO0xJpWaIoPK76S+dSJMBmTSpqIuk=;S43UczkW0EWnURgXMdRY1g=="
+secured: "svPYuqm9pTtYemYLZP2DwWxubgecZwlCON8bnNIvW09rTIxUveOKOfvGCoBg3O9m0rK1FMxBnQ1EWoHwciJap9gLvTw788IAEkoXA1naAWq9JoXCrR+Z1T+714yssRnJag90NI40AWEA9nT69ug0iFtTpE5hpyvtIiJaIOA69rUBTJixUuVIUIpGicrCHKcX9ct3ul/h+4CWowsUPqlz9cSXbznLNsM213+nl8QXURJOMeo1+jM1G+rU4LLPuobWuRl2u76YL9abEGIM6qYLUfXdRyLU79UedBzAW5Xe6b9YUE5WAGxBb30Et1GSOGhNBPSwtx4LAuIPdgh3irjBu9SvDkfLtompIXFqSHwhZE8=;12cIyW2QDAdhO+3Ggu9Zmg=="
 ---
 

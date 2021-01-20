@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Former VP Quayle calls Trump absence from Biden inauguration 'unfortunate'"
+    excerpt: "As the Republican Party moves on from the Trump administration, it must \"separate the policies and accomplishments\" of the 45th president from his personality, former Vice President Dan Quayle told \"Special Report\" Tuesday. "
+    publishedDateTime: 2021-01-20T00:28:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eNf8WkgayJg/dan-quayle-trump-absence-biden-inauguration-unfortunate"
+    ampWebUrl: "https://www.foxnews.com/politics/dan-quayle-trump-absence-biden-inauguration-unfortunate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dan-quayle-trump-absence-biden-inauguration-unfortunate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6db934d-6b05-49e1-9e2a-4b6c6b829db0/0170e9d9-82ed-4476-afd9-b1ac5c6366fc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Sen. Graham urges Biden to 'stand down' on 'Scarlet Letter' Trump impeachment"
     excerpt: "Sen. Lindsey Graham, R-S.C., argued on Sunday that pursuing the impeachment of President Trump after he leaves office will ruin the start of Joe Biden's presidency and urged the president-elect to “stand down.”"
     publishedDateTime: 2021-01-17T19:41:27Z

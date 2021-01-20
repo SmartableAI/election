@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 1690
+heat: 1750
 published: true
 
 provider:
@@ -447,6 +447,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Joe Biden lands at Joint Base Andrews on the eve of his inauguration"
+    excerpt: "President-elect Joe Biden arrives in Washington Tuesday for the start of his inaugural ceremonies at a dark and solemn moment in American history, preparing to take his oath of office as the US approaches 400,000 coronavirus deaths and is more divided than at any time since the Civil War.\n    \n"
+    publishedDateTime: 2021-01-20T00:04:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2b-bS4R_BRc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memorial/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memorial/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119175756-22-biden-inauguration-0119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "As Trump leaves the stage, Republicans grapple with new conspiracy caucus"
     excerpt: "Donald Trump may be leaving the White House in a few days, but the umbrella of conspiracy theories he inspired are only just arriving in Washington.\n    \n"
     publishedDateTime: 2021-01-16T20:34:42Z
@@ -572,6 +588,22 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180410141347-antony-blinken-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden transition team denies outgoing acting defense secretary transitional office space"
+    excerpt: "The Biden transition team has declined to give outgoing acting Defense Secretary Christopher Miller office space and resources for his transition out of the role, according to a Biden transition official.\n    \n"
+    publishedDateTime: 2021-01-20T00:05:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UvqF2IE3wQA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/biden-transition-acting-defense-secretary-office-space/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/biden-transition-acting-defense-secretary-office-space/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109130853-02-christopher-miller-sept-24-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1022,6 +1054,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/12/16/pageoneplus/12a2_bidenharris/merlin_180233073_61c658a4-7b7c-4990-9de3-1f8c6fd26f4f-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Joe Biden honors Covid victims in nationwide memorial"
+    excerpt: "President-elect Joe Biden speaks at a nationwide Covid-19 memorial to pay tribute to over 400,000 people who have died from the virus."
+    publishedDateTime: 2021-01-19T23:13:00Z
+    webUrl: "https://www.nbcnews.com/video/joe-biden-honors-covid-victims-in-nationwide-memorial-99697221740"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99697221740"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99697221740"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/nbc_spec_bidenfull_210119_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden will halt federal executions, other actions on first day in office"
     excerpt: "The president-elect has a long list of executive actions he plans to take as soon as he's sworn in on Jan. 20."

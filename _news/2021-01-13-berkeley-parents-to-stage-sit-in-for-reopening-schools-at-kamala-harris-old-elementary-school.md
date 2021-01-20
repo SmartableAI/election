@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meet Vice President-elect Kamala Harris' \"secret weapon\": Her sorority sisters from Alpha Kappa Alpha"
+    excerpt: "Members of the country's first Black sorority, which the vice president-elect joined while at Howard University, discuss what Harris' success means to them."
+    publishedDateTime: 2021-01-18T17:11:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-sorority-sisters-alpha-kappa-alpha/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-sorority-sisters-alpha-kappa-alpha/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-sorority-sisters-alpha-kappa-alpha/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 110
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/18/0dcb3852-3893-4eea-aba2-b17aef12f5c2/thumbnail/1200x630/d0d2191d24775284db4e7ab5385a0414/alpha-kappa-alpha-sorority.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Berkeley parents to stage 'sit-in' for reopening schools at Kamala Harris' old elementary school"
     excerpt: "The sit-in is framed by advocates for reopening schools as a call against \"discrimination in the access of education in California.\""
     publishedDateTime: 2021-01-12T14:34:00Z

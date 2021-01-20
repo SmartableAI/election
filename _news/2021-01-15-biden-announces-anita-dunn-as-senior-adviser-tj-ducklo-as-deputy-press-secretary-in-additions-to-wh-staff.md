@@ -111,6 +111,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Hawley blocks quick consideration of Biden DHS nominee, citing ‘amnesty’ plan"
+    excerpt: "Sen. Josh Hawley, R-Mo., blocked the quick consideration of President-elect Joe Biden’s pick to lead the Department of Homeland Security, citing Biden’s proposals for “amnesty” for illegal immigrants."
+    publishedDateTime: 2021-01-19T23:17:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oeGZ1_R0Zt0/hawley-biden-dhs-chief-citing-amnesty-plan"
+    ampWebUrl: "https://www.foxnews.com/politics/hawley-biden-dhs-chief-citing-amnesty-plan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-biden-dhs-chief-citing-amnesty-plan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/af55468f-69c6-4cc8-a680-de46896e025a/3ddc0436-ce9c-4b17-9bc4-e7c1c3ce1aed/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Lindsey Graham praises Biden's CIA director nominee: 'I have known him for years'"
     excerpt: "Sen. Lindsey Graham, R-S.C., praised President-elect Joe Biden's nominee for CIA director on Monday."
     publishedDateTime: 2021-01-12T12:52:58Z

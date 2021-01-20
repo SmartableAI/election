@@ -3,8 +3,8 @@ category: news
 title: "Biden inauguration: Donald Trump's last full day as US president – live updates"
 excerpt: "President expected to issue 100 pardons as Covid cases reach 24 million – follow all the latest news on Trump’s final full day"
 publishedDateTime: 2021-01-19T13:39:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates?page=with:block-6006ee7c8f081bab84f55c3a"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates?page=with:block-6006ee7c8f081bab84f55c3a"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates?page=with:block-6006e05b8f0847f62dee6062"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates?page=with:block-6006e05b8f0847f62dee6062"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/19/joe-biden-inauguration-donald-trump-pardons-impeachment-covid-coronavirus-live-updates"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/14ff0ff1cf92554c2343fbe627855c8a0c3f1d1c/0_0_5557_3333/master/5557.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ad37adcb20c6c3000992e1066a1394e6"
+  - url: "https://i.guim.co.uk/img/media/aa2844393170055cbd33ca5ad800ef12569ca0ff/0_178_5387_3234/master/5387.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=825e8e5fc9686324f15f05dec35e34d1"
     width: 600
     height: 360
     isCached: true
@@ -953,6 +953,31 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden to enter Oval Office with no confirmed Cabinet members"
+    excerpt: "President-elect Joe Biden will begin his presidency without a single Cabinet member confirmed by the Senate. Hearings for five of his choices began on Tuesday. Nancy Cordes has more."
+    publishedDateTime: 2021-01-20T00:06:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-to-enter-oval-office-with-no-confirmed-cabinet-members/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/20/34768d4f-4f74-47bf-8660-71c4bab53aeb/thumbnail/1200x630/7cc261a05dc788c6651ec011efaaf40b/0119-en-cordes-629438-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Two Guard members removed from Biden inauguration"
+    excerpt: "Two U.S. Army National Guard members have been removed from the presidential inauguration security mission after they were found to have ties with right-wing militia groups, according to two U.S. Army officials."
+    publishedDateTime: 2021-01-20T00:16:00Z
+    webUrl: "https://www.businessinsider.com/two-guard-members-removed-from-biden-inauguration-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/two-guard-members-removed-from-biden-inauguration-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/two-guard-members-removed-from-biden-inauguration-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden launches new Twitter account to build following before taking command of White House @POTUS on Inauguration Day"
     excerpt: "When Joe Biden is sworn in on Wednesday, he will take command of the @POTUS and @WhiteHouse Twitter accounts in another official transfer of power."
     publishedDateTime: 2021-01-16T23:59:00Z
@@ -1321,6 +1346,6 @@ related:
       domain: detroitnews.com
     quality: 35
 
-secured: "2A/fnBP/3eDtIBpCZvQYoSRqwpcolRR8mIZldZlE6IypcIp8I/jGG5gEhNCrDfDuDhrf+J3YRW5c2tfTQi39oKpQDoQmwui/ZxB1qEAhnYHK8eShyugBUnCmXnVvADh9ateWrO8gtO2fmTusDvx3W3tEXSayjyH2jVDyOYjaN3QRWMTkNBoHNEOqPUi7WDKW+7vixfLsKQZRNvpXJ9ZyIUkbGWVcvrd+kei7WXaDzKvkgnnkqZVN/E5+gSNPF2vICSHh8WNp4K4NweopY/l2F2lCLDkW8IaLcyApDanstEdplMA21kfOaBqReqdHpmgLlEtPw+fRZJqtSXuDr6yxpi8DEEfTP62T7YKMvz/FSvppSUQG7FGRjJ0zQr6xoVJtmcOPsv2UaFtOC9jTSG8R2cPXyI9P5ldOLo+riv6CAPiGWbJIj/TuqW+c1fbXva8Vxne/JGPQ8bxvoJ81HIqj1tDKnDlWL80zjx53FjsF2xpAfr5ZrxQjwjbc3LfYKfb4CxCDMkzwTkTMYlvIgspYXA==;CT8Kqhf+q59DC8xNzQyBIQ=="
+secured: "Ghhagft2FlK7svj7LLcCDzDRfDrOsL3OAkKPpki/hmaV7Ptl5G1ESicvzwc0Mnhxt5Ru2V43BaKS8ZoL354zxAzunGBOF6iGJJ8wK7Lp4Ef0peUMYb0RUKOspAgRJSjLcPU3vyz9Cf/h9wORqBzB3vNoYLX5uFZW4MiQoo+ujMhiSdEoCbuQOsQl1MrLzNjvIbbdEZp6lsvFZ0tLk1rT2CbWConAmzSGjtyLy1DmolzUjvieM+SfBVgYVZcpW+vSwADgwLVrCKPzjZtSVLwJq+wSdVzDjMSJugWp/ab5EvMrqTW9mOCDKHCnB+MGiVnamEDycq3DfQLwd4kCNGHE8G5FfUVJ3hnonhPJKn5skk0=;k7UHQSkBIW+bTJFZSN9fMQ=="
 ---
 
