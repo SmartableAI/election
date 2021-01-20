@@ -2,17 +2,17 @@
 category: news
 title: "'Man without a home': What the future may hold for Vice President Mike Pence"
 excerpt: "After four years of steadfast loyalty to Trump, Pence is said to be open to a 2024 run, but his rift with the president may close off that option."
-publishedDateTime: 2021-01-19T22:14:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
-webUrl: "https://www.indystar.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
+publishedDateTime: 2021-01-20T10:14:00Z
+originalUrl: "https://www.freep.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
+webUrl: "https://www.freep.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -109,6 +109,6 @@ related:
       domain: fresnobee.com
     quality: 35
 
-secured: "ZLDqYz3kXI+1F+cdAIuO41bcsIsELywREeNoxmIO7mPUwlHc5KPjv5xbM5YH6664H7iLe0QxQyi7mwzCytAUXyTOBoDftFXJI04J0VSLBXeWgggVZEzdq9yzMV547F3sJ0Eu9G1iDpKApR2clILP5ohfLNiWA2ZBlQQRzx7Gsi6FsSy/IBOjcJ+HMElpM0Qdtcnai7KcqgzOyl9GC22Om5Z9WBMwc9Fxr1cj3rwKQNpuyvjF57hU0zAUNwWaSz+pp4o5PivtUwMbJsQ2JeREgQ20Rasd8xwXjvrbSQJIGD19wMBNwT3F4HPCI/27JZsgr3O9vvkxNlKzeUdXMBkg5ZXaU/anRQFAmjxWOQFCclU=;ppm7oytVqLcZcwVLX2ocMw=="
+secured: "3RjwF4iGPqePRjSPUONmzd8JQyDp1MRbk82aB5sD793nqRCipxPEGWCR24yi1NHIKN36EiqbQ68ysKebbSr3wSK5egnNgu8SMlv16dpA90UYJ2Bad+ApVGeNgJMkxddDExZRhPEwuRqKFoWobi7odaZRRJ86eL2ZkhFp2w/+oQ24oVH1fErKySKta3R20YugVsoGMN97Nr8pZdeH4eINvXVjMUGG5ep9Ms31quDtNvbM2gLP0aui1th4f7JdA0g9h6WtKVMqrFL4pO/L8lfl3lyJokuxHMWG+/N5oyo8+ERbLi7P9toIpMxgMxQgjIfuMMoI8rhUYJ/nl6DwOzSqzdk0khk3y+gH7xz9AEE9hEw=;efASGfIYBBDM+qAH5KVOWw=="
 ---
 

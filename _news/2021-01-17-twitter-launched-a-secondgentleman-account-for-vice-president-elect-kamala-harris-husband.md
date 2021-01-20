@@ -267,6 +267,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Will Kamala Harris as vice president finally change how corporate America sees and treats Black women?"
+    excerpt: "Kamala Harris is the first Black and South Asian woman elected to the nation's second-highest office. Advocates hope corporate America takes note."
+    publishedDateTime: 2021-01-20T09:35:00Z
+    webUrl: "https://www.desmoinesregister.com/story/money/2021/01/20/kamala-harris-corporate-america-black-women/4213945001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4213945001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4213945001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/b3fd0232-3ab3-4b12-a045-181f80234537-AP_Biden.jpg?auto=webp&crop=3106,1748,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "I’m an American teenager of South Indian descent. Here’s what Kamala Harris means to me"
     excerpt: "Seeing Kamala Harris about to become U.S. vice president has largely fulfilled a childhood dream of mine, writes 15-year-old Disha Cattamanchi. \"Although I only see her through a TV screen, I see so much of myself and what I"
     publishedDateTime: 2021-01-14T14:00:00Z

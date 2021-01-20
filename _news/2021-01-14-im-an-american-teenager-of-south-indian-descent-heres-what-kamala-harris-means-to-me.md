@@ -273,6 +273,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Will Kamala Harris as vice president finally change how corporate America sees and treats Black women?"
+    excerpt: "Kamala Harris is the first Black and South Asian woman elected to the nation's second-highest office. Advocates hope corporate America takes note."
+    publishedDateTime: 2021-01-20T09:35:00Z
+    webUrl: "https://www.desmoinesregister.com/story/money/2021/01/20/kamala-harris-corporate-america-black-women/4213945001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4213945001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4213945001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/b3fd0232-3ab3-4b12-a045-181f80234537-AP_Biden.jpg?auto=webp&crop=3106,1748,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "3/pPNG/5FoLo5wuO7mrSagm9yRBRGUQg/FhMQL0UzRrHXxdfT8CYP4a0mdhHi5UPVkrPum/bsfETw+SxumzZd1pxwYOF6UTYK2Vu8ZTSTY8A2E71yQLbTnXHq/xkHCJ42B/FbrUIooSKujRSXTEULBYx4AdvfGz0qBugFvp93sIFQEIvrA6pwtY4gRbBPw1Q9C5WDD9xd1dTLrRwbXD5MsFTDXaYivt+MhlhBgC6n376YnNFHiSHmZRJYxbw2wzTxkldmQM8LgKwc6GKALcUw+lyLqA/Iqld8C84tNK2VWrC5zU5rmIG8DTEaxxQ1vc6YxDcwZSQrZZeOVgAAZ4R5a2be7kRl0XNMx/G6Y40tQAnAQ7ixMvUhAzbKKPurtl1PeL4UjhnBQzqCQn7AGe2sT8myZWUOQaVquAHnzQxpHpMBEbu2TbCJEYAe8jsKFzxbXCT/AQI8ShbgUS19GfKEFRCj3lyncu6nh9zzkOUTVEkQwoez7ZyzJZMiZ86qjxAUioZV4oO2zQXkFhBuTwZmA==;QMfMdIMkc+SzLr1+gkxS6w=="
 ---

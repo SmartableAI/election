@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-biden-administration-eternal-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-biden-administration-eternal-vigilance-in-standing-up-to-china.amp"
 type: article
 quality: 193
-heat: 473
+heat: 493
 published: true
 
 provider:
@@ -127,6 +127,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9ce4f99-f048-4650-b07d-abbe98b0908b/b31cedcf-da83-4887-9a7c-9811fc063b77/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden's inauguration: Everything you need to know"
+    excerpt: "The United States on Wednesday will once again transfer power from one president to another, as it has done since 1797 when George Washington left office to be replaced by the second American president, John Adams. "
+    publishedDateTime: 2021-01-20T09:20:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1g-OG9X0wgI/bidens-inauguration-everything-you-need-to-know"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-inauguration-everything-you-need-to-know.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-inauguration-everything-you-need-to-know.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Twitter introduces @SecondGentleman handle for incoming Biden administration"
     excerpt: "Twitter is introducing a new handle for the first-ever husband of a vice president as it begins transferring official White House social media accounts to the incoming Biden administration."

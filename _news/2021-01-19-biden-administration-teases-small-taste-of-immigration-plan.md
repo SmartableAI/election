@@ -127,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's inauguration: Everything you need to know"
+    excerpt: "The United States on Wednesday will once again transfer power from one president to another, as it has done since 1797 when George Washington left office to be replaced by the second American president, John Adams. "
+    publishedDateTime: 2021-01-20T09:20:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1g-OG9X0wgI/bidens-inauguration-everything-you-need-to-know"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-inauguration-everything-you-need-to-know.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-inauguration-everything-you-need-to-know.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Twitter introduces @SecondGentleman handle for incoming Biden administration"
     excerpt: "Twitter is introducing a new handle for the first-ever husband of a vice president as it begins transferring official White House social media accounts to the incoming Biden administration."
     publishedDateTime: 2021-01-15T15:22:43Z

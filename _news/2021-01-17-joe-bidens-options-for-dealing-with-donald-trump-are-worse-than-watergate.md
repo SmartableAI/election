@@ -387,7 +387,7 @@ related:
   - title: "U.S. actors union to decide whether to expel Donald Trump"
     excerpt: "The American actors union is to hold a meeting to consider expelling U.S. President Donald Trump from its ranks."
     publishedDateTime: 2021-01-20T02:02:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-sag-idUKKBN29O2J8?edition-redirect=uk"
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-sag-idUKKBN29O2J8"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29O2J8"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29O2J8"
     type: article

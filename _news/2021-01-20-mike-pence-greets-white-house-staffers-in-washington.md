@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Mike Pence Greets White House Staffers in Washington"
-excerpt: "U.S. Vice President Mike Pence poses for a group photo with staff members outside the West Wing of the White House in Washington, DC on January 19, 2021. Pool Photo by Yuri Gripas/UPI"
+excerpt: "U.S. Vice President Mike Pence walks back to his office after greeting staff members outside the West Wing of the White House in Washington, DC on January 19, 2021. Pool Photo by Yuri Gripas/UPI"
 publishedDateTime: 2021-01-19T21:04:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/31056b39c3bed6e8184373d7a3205b2f/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/31056b39c3bed6e8184373d7a3205b2f/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/25bc45373058306b5a157b22e066ef20/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/25bc45373058306b5a157b22e066ef20/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/31056b39c3bed6e8184373d7a3205b2f/PENCE-STAFF.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/25bc45373058306b5a157b22e066ef20/PENCE-STAFF.jpg"
     width: 650
     height: 433
     isCached: true
@@ -810,6 +810,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Washington prepares for Joe Biden’s inauguration"
+    excerpt: "Mr Biden will take an oath in front of the US Capitol, shortly after Donald Trump leaves the White House."
+    publishedDateTime: 2021-01-20T08:54:00Z
+    webUrl: "https://www.bbc.com/news/live/world-us-canada-55730500"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.1.0/bbc_news_logo.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Washington mayor asks for increased security around Biden's inauguration"
     excerpt: "Washington's mayor has asked for increased security around the inauguration of U.S. President-elect Joe Biden after last week's storming of the U.S. Capitol by supporters of President Donald Trump."
     publishedDateTime: 2021-01-11T13:41:00Z
@@ -1054,6 +1068,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/eb25312/2147483647/strip/true/crop/1920x1008+0+8/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F38%2F86%2Fec728f4c4cc797579e288bd13c0d%2Fcovering-kamala-harris-3.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "How to watch, livestream inauguration of Joe Biden and Kamala Harris: complete schedule"
+    excerpt: "History is being made today at the 59th inauguration ceremony at the Capitol Building in Washington, D.C. as President-elect Joe Biden and Vice President-elect Kamala Harris will be sworn-in. HOW TO WATCH: LIVESTREAM via fuboTV by clicking here (Free 7-day trial)."
+    publishedDateTime: 2021-01-20T09:17:00Z
+    webUrl: "https://www.mlive.com/news/2021/01/how-to-watchlivestream-the-inauguration-of-joe-biden-and-kamala-harris-complete-scheduleperformances.html"
+    ampWebUrl: "https://www.mlive.com/news/2021/01/how-to-watchlivestream-the-inauguration-of-joe-biden-and-kamala-harris-complete-scheduleperformances.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2021/01/how-to-watchlivestream-the-inauguration-of-joe-biden-and-kamala-harris-complete-scheduleperformances.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 92
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/D46MQWN245HKNGVLJ763S632VU.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Kamala Harris gets the Vogue cover Melania Trump always wanted"
     excerpt: "The president, first lady and their political supporters repeatedly complained that ‘elitist’ fashion magazines wouldn’t put the ‘most elegant first lady in American"
@@ -1622,6 +1652,22 @@ related:
         width: 1200
         height: 808
         isCached: true
+  - title: "What it will mean to have Californian Kamala Harris in the room at the White House"
+    excerpt: "Kamala Harris is the first vice president from the West Coast since Richard Nixon served under President Dwight Eisenhower more than 60 years ago. She’s the first woman, Black and South Asian to hold the office."
+    publishedDateTime: 2021-01-20T09:00:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/article248600890.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article248600890.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article248600890.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 69
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/63d9f42b-c483-4ee8-919b-d259db76963f/518d9ebe-a0dd-4aca-884c-fbc36cf24138/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Vice President-elect Kamala Harris to be sworn in by Justice Sotomayor at inauguration"
     excerpt: "Harris will use two Bibles for the swearing-in, one of which belonged to Thurgood Marshall, the first Black Supreme Court justice."
     publishedDateTime: 2021-01-17T19:12:00Z
@@ -1932,6 +1978,17 @@ related:
       name: TribLIVE.com
       domain: triblive.com
     quality: 50
+  - title: "Inauguration news updates, Jan. 19: On Donald Trump’s final full day as president, Joe Biden prepares to take office"
+    excerpt: "We’re updating this page throughout the day with the latest politics, protest and inauguration news from across the U.S. and world on the final full day of Donald Trump's presidency."
+    publishedDateTime: 2021-01-20T07:22:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/politics/inauguration-news-updates-jan-19-on-donald-trumps-final-full-day-as-president-joe-biden-prepares-to-take-office/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/politics/inauguration-news-updates-jan-19-on-donald-trumps-final-full-day-as-president-joe-biden-prepares-to-take-office/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/politics/inauguration-news-updates-jan-19-on-donald-trumps-final-full-day-as-president-joe-biden-prepares-to-take-office/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 47
   - title: "Joe Biden, Kamala Harris drop inauguration playlist with songs from Beyoncé, Dua Lipa, more"
     excerpt: "Joe Biden and Kamala Harris have released a 46-song playlist in honor of their upcoming administration. Here are the songs that made the cut."
     publishedDateTime: 2021-01-16T05:24:00Z
@@ -1973,6 +2030,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "qOoMRctSHQW2RpqWF/JINAuyqoju/TgnZ7OjBhdQc6nik0bS74jpyrcu6ldCZS1tJF4FS6WdI2eflFXtqHos0l28qGrKY9fRwND2ba/ulAeuxwPF6FRqfbbQNE5PCqVOdm0DboO7DCujRx5VgN/Kdsu8TtRQE4bcp08NHpSwjTnpOpatA984V3cAk2tDX1ckgaCdBIFkakHCjJH6cG3HCIjs1wWfLHuzfHBkrCzypQozPWFokM3aiHPSvc2gXLX5v584b2ykumlEL0PKcOAp9SRriLKGqqk9kK59OLQ3mEI7CZQ/y517gzCnWJfL/FpZfMAcmFZPGjfaw2/fYTKdgqQbu12bQ/DbBElFgPqUvy+uLQ6k9EE8jkRZGnJjghCWIa4QfgPXmIMEQ+LX7b3rHQPERq/QKvx825uYa7U3/3jMVdBWrjY5SfyVsWRvhkO+WGyPMI9ISPMbVA/FPWlvrYkv4Xmfcs0V3/XT7PUl8h8DTUFCe5ZiOFcoa7CWhIuW1XnFeH2inf5Y5abjknvAeQ==;ihxculY58EDmb4XRkz+3yg=="
+secured: "qZsVdskp3vjvtwczPY9fBPMIpAq3BImgX9Ddy23WIE7Bc/8PViPha5+smZlXAGHJjZ0kaBj8Fjv554XVFRIMlCppP1bOiya3mJ6dBDoY72vWB0NjDrZsd2r2XFW3B7tSRqZe93jTe1iAp8X4aUHSRbMyC7qcUPNV5mYCJJjg+cDXZ8Ng1zLgwDwRpUMWBji3b/zPe6oXJpBHKwFV0ukgDJIfySrZ6zKu3+qTSuBLimk7rP172hXkgp3dHdW/Fa2AQz6dIjb/BrNgSfQfmGUc6z7i6jj5mH/1oIj9CntGHwdiNjFE6oeoiqTw/NWu/fGFi6MY4OZ5AF3clpV9vQip24dsx183/6zmFcXc+4b2Omw=;5g3vWFHEtOrPrQZWL7wvGA=="
 ---
 

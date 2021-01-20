@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump revokes rule barring lobbying by former officials as he leaves office"
+    excerpt: "As his term comes to an end, President Donald Trump revoked a rule he signed early in his term that imposed a five-year lobbying ban for administration officials and a lifetime ban on lobbying for foreign governments.\n    \n"
+    publishedDateTime: 2021-01-20T10:48:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0zWS1KxGUZY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/trump-revokes-lobby-ban/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/trump-revokes-lobby-ban/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118170343-03-trump-era-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "First lady Melania Trump breaks her silence on Capitol riot, then hits back at her critics"
     excerpt: "First lady Melania Trump has broken her silence on the Capitol insurrection incited by her husband in a letter posted on the White House website early Monday morning in which she lashes out at her critics and then condemns the violence.\n    \n"
     publishedDateTime: 2021-01-11T12:02:21Z

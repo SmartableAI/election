@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/consulting-firm-scrubs-wiki-page-of
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/consulting-firm-scrubs-wiki-page-of-bidens-covid-czar-report.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden's Timid Plan to Fight COVID-19"
+    excerpt: "As COVID-19 mutates, it's becoming more contagious than the virus that invaded the U.S. about a year ago. A trip to the grocery with a mask on, which used"
+    publishedDateTime: 2021-01-20T10:48:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/20/bidens_timid_plan_to_fight_covid-19_145073.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/20/bidens_timid_plan_to_fight_covid-19_145073.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/20/bidens_timid_plan_to_fight_covid-19_145073.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/532822_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "3XAXapi2+T43EoUv/jMA/CEP/smruGsBsbyw5Cyf0chnon++wghUsoJpWK4PdbzV0OWZ0XuT7sxXvvArYzJQcgxxV4Fbn6jx9tRB12/DdFeme4vtHhDLR6UPgt8D7kDwXfMotyy+z6QM19uNrZZ9Xn5mgkNnf9hTQQO0bVtIHdjK7Pcyj2CMc4HwuAW/91T3RntS4KlDMSbspw9bPBV4bw8KUwtEeKx7ApBUiJqbHqGFn3soESMNoeoenCZypGkopwPq9LEBmcCmYTRQ19vBUVnqjiwx+kN3fWirjmnxeSfWnVeaJPtltWX+uaS7YyXAKCV6arOflNhhI42IMB7Rt1Nyrpr2gODJP2YTI5Rv/Zo=;fBcU5o9undZq67KFhIUBKQ=="

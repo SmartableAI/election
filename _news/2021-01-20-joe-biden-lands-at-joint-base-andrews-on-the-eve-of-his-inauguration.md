@@ -95,6 +95,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to be inaugurated as 46th president as Trump leaves Washington "
+    excerpt: "After campaigning on a promise to heal a fractured nation, President-elect Joe Biden will begin the work of uniting the country Wednesday when he is sworn in as the 46th president of the United States on the West Front of the US Capitol -- a mere two weeks after insurrectionists incited by President"
+    publishedDateTime: 2021-01-20T10:02:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tOv61u5WyFc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/joe-biden-presidential-inauguration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/joe-biden-presidential-inauguration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119132343-01-capitol-flag-inauguration-0119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden puts Trump's climate and environmental rollbacks in his crosshairs"
+    excerpt: "Among incoming President Joe Biden's Day One priorities: Begin rolling back climate and environmental policies of the Trump administration, many of which were rollbacks of Obama-era or earlier rules.\n    \n"
+    publishedDateTime: 2021-01-20T10:07:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NbegxkwDR9g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/climate-environment-biden-trump-regulations/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/climate-environment-biden-trump-regulations/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190106225112-weir-coal-smokestacks-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden expected to call out Trump administration on pace of vaccine distribution"
     excerpt: "President-elect Joe Biden is set to confront the slower-than-expected pace at which the Trump administration is administering coronavirus vaccines in remarks Tuesday afternoon, a transition official tells CNN.\n    \n"
     publishedDateTime: 2020-12-29T16:02:19Z
@@ -463,6 +495,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden seeks to extend bans on evictions and foreclosures"
+    excerpt: "As one of his first acts as president, Joe Biden will call on several federal departments and agencies to extend their bans on evictions and foreclosures for those affected by coronavirus until at least the end of March.\n    \n"
+    publishedDateTime: 2021-01-20T10:04:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/THleOHBmamY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/success/biden-eviction-foreclosure-moratorium-executive-action/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/success/biden-eviction-foreclosure-moratorium-executive-action/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119191014-01-biden-exec-order-eviction-ban-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "As Trump leaves the stage, Republicans grapple with new conspiracy caucus"
     excerpt: "Donald Trump may be leaving the White House in a few days, but the umbrella of conspiracy theories he inspired are only just arriving in Washington.\n    \n"
     publishedDateTime: 2021-01-16T20:34:42Z
@@ -476,6 +524,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017195649-07-qanon-candidates-marjorie-taylor-greene-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to start fast on immigration with DACA, border wall and travel ban"
+    excerpt: "President-elect Joe Biden will kick off his term by rolling out a series of immigration executive actions, moving swiftly to undo many Trump administration policies.\n    \n"
+    publishedDateTime: 2021-01-20T10:06:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7rpYyMZioVU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/immigration-daca-border-wall-biden-agenda/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/immigration-daca-border-wall-biden-agenda/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925213220-20200928-trump-biden-issues-immigration-gfx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -862,6 +926,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/14/world/00Mexico-AMLO/00Mexico-AMLO-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden to take immediate steps to undo key Trump initiatives, unveil immigration plan"
+    excerpt: "Joe Biden will sign more than a dozen executive actions Wednesday when he arrives at the White House as the 46th president."
+    publishedDateTime: 2021-01-20T10:00:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-take-immediate-steps-undo-key-trump-initiatives-unveil-immigration-n1254808"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254808"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254808"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 143
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_03/3443371/210119-joe-biden-ac-949p_6c85f374070b451616089a7f12e1798d.jpg"
+        width: 2500
+        height: 1659
         isCached: true
   - title: "READ: House Articles of Impeachment against Donald Trump"
     excerpt: "The US House of Representatives has released its resolution to impeach President Donald Trump, charging him with \"incitement of insurrection,\" an article for which the House is expected to vote on this week."

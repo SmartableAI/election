@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 2700
+heat: 2720
 published: true
 
 provider:
@@ -573,6 +573,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113115739-inauguration-prep-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Here are the executive actions Biden is expected to take on Inauguration Day"
+    excerpt: "President-elect Joe Biden plans to take 17 executive actions in the first hours of his presidency Wednesday, signing a flurry of executive orders, memoranda and directives to agencies implementing his first moves to address the coronavirus pandemic and undo some of Donald Trump's signature policies.\n"
+    publishedDateTime: 2021-01-20T10:05:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_iAIzAlVlQY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/executive-actions-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/executive-actions-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119175940-01-biden-speech-0114-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

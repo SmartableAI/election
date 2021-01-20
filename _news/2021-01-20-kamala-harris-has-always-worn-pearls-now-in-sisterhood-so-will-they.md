@@ -2,11 +2,11 @@
 category: news
 title: "Kamala Harris Has Always Worn Pearls. Now, in Sisterhood, So Will They."
 excerpt: "Women across the country are pledging to wear pearls on Inauguration Day to support the country’s first female Vice President-elect."
-publishedDateTime: 2021-01-19T23:32:00Z
-originalUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-kamala-harris.html"
-webUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-kamala-harris.html"
-ampWebUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-kamala-harris.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/style/inaugurations-pearls-kamala-harris.amp.html"
+publishedDateTime: 2021-01-19T17:58:00Z
+originalUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-women.html"
+webUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-women.html"
+ampWebUrl: "https://www.nytimes.com/2021/01/19/style/inaugurations-pearls-women.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/style/inaugurations-pearls-women.amp.html"
 type: article
 quality: 135
 heat: -1
@@ -1204,6 +1204,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "JQkrI2nBPBlHnGHxMSzVi+/tDIFmMUZPUfyGeUUCou6o1cqXvgibfDdqTT11SOJZemxrrFtasot6+zNg4EF58yqbDVouHQcSc2mmegMO91nwsa3qH2poIWa6c9qcSY8Mp1E1M+0gMjfSAjGNYm8mlMCYV6n8Fu51Od9zI+EbmDO1npAtEkr0AdkeRO4C2bJqGhZmvu1Sl8fwb/hfX7KJi+rxfmwqsnkf7rZEMjnmhuP29me24g1jvk37Rpb7jwLMuHDlA7H00vX1WrVU4J3wgRlKC9wPSEHSRvQ5ugbFJnEn3MHXTFTv4264A9pWVPfXsTuQb0GONNMY06krDi12bu5KfRHByDZYKhXrrwpRlByO2ZKgsxRlQIiSMCo0mkBHRS+J4LeW68nE39aZ7EDz55MzmQjr4Vc4MxeFJM99fPyUC+phXy3bH+C/2Y04pbFVGNPWxNNborSr2y8mWE/sj7f6gYQt1kg4G+A23jvWwrmVRdBr4gInxO/EmxSS4YxWZL1ROGL5otSAlidbAzfLRw==;pM6K6XzO/TtBKANFxGLa8w=="
+secured: "fGvN6ilb3og5E+1zzXapp95cTchEg1akYDnX1ao5toUs14IzPQlISHmJz2t42Wjbxuy3h7FP31Ty3wG0QiZPmAbJC/2tMsByt21hCI6mLe+SPzL7Y8I37mdz13yW/hNjZipxhS21jpQhXwAOe0sGPBHI6YBLKFwQtDBBbwrSXlR5YuiO8t/iv1CmJ0bc8dq1fQVjvXGdc33sFJsXvThR+Ho/zcearoRs4u8plxhS5qXWx6+zTSvXiHm5+NxGrVWfRkeArLUAoN7Fw5dNwsf9zGvQORMi1syno/MAyQpp+7TAEy+SpGJ71CAXZY0WxVDc9ifZUAUEcsUFA5e3GAJyRqyu6kaYVxkt+2NBa60TbEY=;s7XQ5sdcxxcD9WLXQ+BSbg=="
 ---
 

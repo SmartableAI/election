@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818?amp=1"
 type: article
 quality: 124
-heat: 444
+heat: 464
 published: true
 
 provider:
@@ -264,6 +264,22 @@ related:
     quality: 62
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/08/11/USAT/ceddbdfa-77f9-4462-a868-179faa78cbcf-AP_Election_2020.jpg?auto=webp&crop=4500,2531,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Will Kamala Harris as vice president finally change how corporate America sees and treats Black women?"
+    excerpt: "Kamala Harris is the first Black and South Asian woman elected to the nation's second-highest office. Advocates hope corporate America takes note."
+    publishedDateTime: 2021-01-20T09:35:00Z
+    webUrl: "https://www.desmoinesregister.com/story/money/2021/01/20/kamala-harris-corporate-america-black-women/4213945001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/4213945001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/4213945001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/b3fd0232-3ab3-4b12-a045-181f80234537-AP_Biden.jpg?auto=webp&crop=3106,1748,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

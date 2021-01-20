@@ -191,6 +191,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Kwame Kilpatrick's road to Trump commutation of corruption sentence"
+    excerpt: "Former Detroit Mayor Kwame Kilpatrick was among 70 people who had their prison sentences commuted by President Trump early Wednesday, just hours before the end of the president's term in office."
+    publishedDateTime: 2021-01-20T09:35:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cziw3l_Yl3I/kwame-kilpatricks-road-to-commutation"
+    ampWebUrl: "https://www.foxnews.com/politics/kwame-kilpatricks-road-to-commutation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kwame-kilpatricks-road-to-commutation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP20143790930191.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump and Bannon's rocky road to a pardon"
+    excerpt: "President Trump early Wednesday issued former White House senior adviser Steve Bannon a pardon. "
+    publishedDateTime: 2021-01-20T10:48:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6q6UYFCBX6c/trump-and-bannons-rocky-road-to-a-pardon"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-and-bannons-rocky-road-to-a-pardon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-and-bannons-rocky-road-to-a-pardon.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020179680305.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Rep. Donalds: House Dems 'weaponized' race to make Trump impeachment case"
     excerpt: "The left always uses race to weaponize their arguments, Rep. Byron Donalds, R-Fla., said on Thursday in reaction to House Democrats calling President Trump a white supremacist during the impeachment proceedings."
     publishedDateTime: 2021-01-14T13:16:09Z

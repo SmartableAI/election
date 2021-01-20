@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump revokes rule barring lobbying by former officials as he leaves office"
+    excerpt: "As his term comes to an end, President Donald Trump revoked a rule he signed early in his term that imposed a five-year lobbying ban for administration officials and a lifetime ban on lobbying for foreign governments.\n    \n"
+    publishedDateTime: 2021-01-20T10:48:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0zWS1KxGUZY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/trump-revokes-lobby-ban/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/trump-revokes-lobby-ban/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118170343-03-trump-era-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Melania Trump finishes with worst first lady popularity rating ever"
     excerpt: "Much has been written about President Donald Trump's historically low popularity ratings as he leaves office. But the tarnish on the Trump brand goes beyond the President.\n    \n"
     publishedDateTime: 2021-01-19T16:51:07Z
@@ -193,6 +209,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "VUM054Wux8kA0anws47C0ReAsnGPA/Kbd0UHtDzyrDt9dlQPXZ8moEKIshPDpxOZEt6g3Kf07ot3TG7goA+XhoLX9Js9CiE2Z8tlxpy955HpDWro9kdoH+l5T/msnwhjaXMr3RpvNrbrBvfwxcKPCtXaJMgXvCxO+6mgTvZLYOJG61j9F8O22g2CtHjKTM9r3Dpdbo/Zodov98gYhWN6pw5jDHXeWedvOHnI+e7cMAYTy42CvlawzQmclSMwBZTNHLK+lzOf5/Xcv6idNUxhOv82L/mAsHWu2UJyS2npqqnJm1xmlemDc7S/5PPd/BA6bjaUCAAlzv2hMcpZEFS635Gs2EwPP50ugCF9+FwSSdI=;KfO0G//EeDddaoPbsxzHtg=="
+secured: "Ij7k2hdvmc8IDEF6cGT2lX8TjqmnrP5U9glAC7VGEVc0al9hD22lEVTwwh6815uGd0fnqr/UBEZ1iBmKumYemBohBgrOP2t3s9inQeJZkZn0Xl6BK41raH6ABELBVXMUPMK9Ah9NZkdRBMmuofdyXwl8fqPC7M6rdxxfvI2G7XCBtq29hOn/1P0NEZ9vP7lsERw2LnDKUvb7OQgzutAgPMjwuv2EJPQdScWXa7s17FuUWlCNwuf/0YcYb5sAPM/1OqgaKmZzUw7Dvna2whlcrngQi1miaUMs23SSO9O7eGXj2HtkmpUcpH9IT+VDsOymrVskFRBi+3R8KCXs7iN64qQsdu2RQ6FV7MUGp4BJ2ODde7KvAKCPP2PyNhog2eM3uje+O0EiXpKBMChNXNeaUl4hg3RIU4W+90pjgxypDfaI3HC2+cHGlvEEB5Z9BtFoir5yXidbmY/SNhhAbrkZlruj/e2oy36nQp527OnO/1uuLQc8wp/PkbPTTX5O+zLO0+qfvS896wMIzPcJRfB3Bw==;r7TLYDPKFHzR4rdwUG/ANQ=="
 ---
 

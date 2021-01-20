@@ -239,6 +239,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Donald Trump Can Issue Secret Pardons, but They're Risky"
+    excerpt: "President Donald Trump issued 70 pardons and 73 commutations on his last full day in office on Tuesday. He did not issue pardons for himself, any of his adult children or former New York Mayor Rudy Giuliani."
+    publishedDateTime: 2021-01-20T10:06:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-can-issue-secret-pardons-risky-1562892"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-can-issue-secret-pardons-risky-1562892?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-can-issue-secret-pardons-risky-1562892?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1711585/trump-waves-south-lawn.jpg"
+        width: 3667
+        height: 2445
+        isCached: true
   - title: "Sales of US Constitution topped 1 million during Trump years"
     excerpt: "Along with dystopian novels and White House tell-alls, the U.S. Constitution has been a best-seller during Donald Trump's presidency"
     publishedDateTime: 2021-01-19T20:34:00Z

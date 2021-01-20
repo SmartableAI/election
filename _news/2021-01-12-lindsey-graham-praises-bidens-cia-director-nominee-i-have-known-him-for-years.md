@@ -127,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden to sign 17 executive actions, orders to reverse Trump policies, restore Obama-era programs on first day"
+    excerpt: "President-elect Joe Biden will sign 17 executive actions and orders in the first hours of his presidency on Wednesday."
+    publishedDateTime: 2021-01-20T10:05:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u-lOWx_jyV0/biden-to-sign-17-executive-actions-on-first-day-in-office-reversing-trump-policies-restoring-obama-programs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-sign-17-executive-actions-on-first-day-in-office-reversing-trump-policies-restoring-obama-programs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-sign-17-executive-actions-on-first-day-in-office-reversing-trump-policies-restoring-obama-programs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden inauguration theme will be 'America United' despite deep divisions in country"
     excerpt: "The theme of President-elect Joe Biden’s inauguration is \"America United,\" despite deep divisions in the country, and will be focused on a \"new national journey\" that the Biden team says will \"restore the soul of America\" and bring the country together."
     publishedDateTime: 2021-01-11T15:25:15Z

@@ -117,6 +117,22 @@ related:
         width: 800
         height: 547
         isCached: true
+  - title: "Trump laid out a vision for America in his inaugural address 4 years ago. He has come nowhere near realizing it."
+    excerpt: "President Trump will leave office with more Americans out of work than when he started, and with the US's international reputation damaged."
+    publishedDateTime: 2021-01-19T22:44:00Z
+    webUrl: "https://www.businessinsider.com/trump-inauguration-address-vision-not-realized-not-aged-well-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-inauguration-address-vision-not-realized-not-aged-well-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-inauguration-address-vision-not-realized-not-aged-well-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/6006a71ce3d62500185fd109?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "This day in history, January 16: The impeachment trial of President Donald Trump opens in the Senate"
     excerpt: "Almanacs are full of lists of global and national historic events. But “This Day in History” feature invites you to not just peruse a list, but to take a trip back in time to see how a significant event originally was reported in the Chicago Tribune."
     publishedDateTime: 2021-01-16T13:10:00Z
@@ -162,6 +178,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/outgoing-us-president-donald-trump-is-seeking-to.jpg"
         width: 1024
         height: 716
+        isCached: true
+  - title: "EU Chiefs Express Relief As 'Friend' Replaces Trump"
+    excerpt: "The European Union's top officials expressed relief on Wednesday that they would again have a friend in the White House as Joe Biden replaces Donald Trump. Charles Michel, president of the European Council,"
+    publishedDateTime: 2021-01-20T09:09:00Z
+    webUrl: "https://www.ibtimes.com/eu-chiefs-express-relief-friend-replaces-trump-3126426"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/von-der-leyen-compared-the-us-riot-to-AFP_8Z66KB.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "b5XGglhEIWoOKO+sjz90DiO/MfgIt38XXYTgA2mQN1qJu0QOSya+F6Whb0Lz00ujZZRQD4lAeabfor++yx9f8XrpfmaqbBD1lH4J6eM+Ro5U77JoiRzWrp05sgBovXFYi73SI5it4kMen9yJHSAfCGA3cPuqSHc1MWq8saU2bZtWcIq2OMyWhgVJLZNy4UbFFPFZ0mhNiB8PYDHzM7XcIzBDDnKEhU/nYdJeE49aDdN8CyDVxosTADy4UkwNpOq0odLlq3Khe5qh5UI2YJQQBtFO9qHF6W01FTRZv3I5pxsFYMzQsMECCyohMCF1kN8Ln1G9326vNGaLLuvj3MR06orb2ClLiyKvuVvR/ylxuGW/qjQzHgMXdzVJ7VD9NPX9WjqsVVjv3I5DVS3z9vTHhuSHUrNVBcmmVq//+pVeeUoi/26qe3i4yi6JxXMdlOQtiuYkcZ4+rvxdt/dKTVvksZvhFQQF+z+A/ikdGteY/qjJ/9Vl8+3vQhErAzzOYQXcd8QAc4N76E2hhd2BLtA5ZQ==;XbJKkL+Hy9ma8PIGb0Wkvw=="

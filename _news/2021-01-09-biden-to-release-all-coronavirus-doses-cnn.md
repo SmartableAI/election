@@ -77,6 +77,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden to sign day one executive order to shift coronavirus-fighting strategy"
+    excerpt: "New president plans to require masks to be worn in federal buildings and by federal employees and contractors."
+    publishedDateTime: 2021-01-20T10:07:00Z
+    webUrl: "https://www.washingtonpost.com/health/biden-covid-executive-actions/2021/01/19/bf695e50-5a9a-11eb-b8bd-ee36b1cd18bf_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/biden-covid-executive-actions/2021/01/19/bf695e50-5a9a-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/biden-covid-executive-actions/2021/01/19/bf695e50-5a9a-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LA7L3BSDZQI6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 1186
+        isCached: true
   - title: "Coronavirus live news: Biden receives vaccine as global death toll passes 1.7m"
     excerpt: "UK warned to expect further restrictions; intensive care beds full in southern California; Denmark bans mink farms for a year"
     publishedDateTime: 2020-12-21T23:54:00Z

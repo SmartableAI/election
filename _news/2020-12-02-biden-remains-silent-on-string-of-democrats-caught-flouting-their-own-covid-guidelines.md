@@ -111,6 +111,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden's Timid Plan to Fight COVID-19"
+    excerpt: "As COVID-19 mutates, it's becoming more contagious than the virus that invaded the U.S. about a year ago. A trip to the grocery with a mask on, which used"
+    publishedDateTime: 2021-01-20T10:48:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/20/bidens_timid_plan_to_fight_covid-19_145073.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/20/bidens_timid_plan_to_fight_covid-19_145073.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/20/bidens_timid_plan_to_fight_covid-19_145073.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/532822_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "fneMBRCJ+guZX+dQRzbUilkEsz6gkmjmzbZvhAyJRQuEb0Jpd4+IOlWv/bwStFyp23pFekqe1+6wCdjK+Jr9A3sddiZ5/aCMQZgDLqcz1cMnKA1aEFgUqucxO9GVmb/UD7aPiTe+yye2cHlP9IvO2NbO5wkkujPcGp/3Iaw/0RhJeegJog4kBevvaOT/zVECPNG/X10iwaubiuEUm5enjnWNyWE/tTbtprvWvO6/YZmI8iGZHGxnwWppXmW0P3GtB4g5zuglZ3MUL+ix+zFNegCMTS24fMWA9hTDGIdjFaAhGOkGK/m16iKnuQmloDbinn3zEXoQRJU+GG9Mkg77uyLRQtMohaH/PTQFN1YKKfg=;ubffs7L4S8QGLf9SxRvl8g=="
 ---

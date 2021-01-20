@@ -251,6 +251,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Donald Trump Can Issue Secret Pardons, but They're Risky"
+    excerpt: "President Donald Trump issued 70 pardons and 73 commutations on his last full day in office on Tuesday. He did not issue pardons for himself, any of his adult children or former New York Mayor Rudy Giuliani."
+    publishedDateTime: 2021-01-20T10:06:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-can-issue-secret-pardons-risky-1562892"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-can-issue-secret-pardons-risky-1562892?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-can-issue-secret-pardons-risky-1562892?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1711585/trump-waves-south-lawn.jpg"
+        width: 3667
+        height: 2445
+        isCached: true
   - title: "Sales of US Constitution topped 1 million during Trump years"
     excerpt: "Along with dystopian novels and White House tell-alls, the U.S. Constitution has been a best-seller during Donald Trump's presidency"
     publishedDateTime: 2021-01-19T20:34:00Z
@@ -734,6 +750,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "eBdfJokTNHprN9o1vuxpIxfeRFcJ8NfkOcfCMkbzgVbwbBKO6LB2+fDGTpJWebcAOmEQLz1xgDbui6eoGj5PY8Gwhy6ufetIY7zfbbvupfnOF/tSNmWc0zwgybL1ERBMlg1fbnmH1h7rV5k/QsSR/VLtj1jTKQDq7F4EO0Zfzf2LiqH+gP/hHFvLHkJe+xn+gkyOPgDum+3OcL4h02gmZqb5apnpNDDhakX4sY4/g4139aZrj1SDhgH5DWO+0/wvQyZ47gzgRT02akXyTtqOKe9zi+XoFUhwXq+YWwF0fg3yAbIxnlZYMBEOAG6675qbGX6R/D1FN1Q4MIVXWHtP9V1bdSCbvbE2AgcS7dk2Eqw=;sF4vECNSTZJvKQ0lJQlduA=="
+secured: "baekrYCl/8VQtgvwZU2wIMzEAqdm3FqWzrjp5iDui6IbHr1cr+QDFhEdu3SkPg4zZ0/vEm/mOujQ5yri3J/0dyYrKLO2v3eZlvE3OfavW/z2LUpv/QOiRKVq6qH4nVFT7Hr1BGKe/zuW4gZmUpvwyVP9R1wCVlWG5YlhPrjDvbKOroBRdWkt8NvcmD68rTuzLUpJ+AC0PvPJRhuoGfLIAdFV3Jvz4Hu4BZNz7FZPACDVKBMISk85fWvFyAiq8wqRdq4GtH8ZoBUr3JYsZ4nFevQU5K8JwJ37CdQ9f3K3gKm183B+Vh6iRkpw70PAQlXaUQZlgGf+/gCjE1Vtee2Jpvj3cddMGakXsWYZI5FrBUswDGrRoEDekRXCqASibOQSx63Jj6KQwAHUyYXFqPAZ7vffOb0rAZ1OvqCu8BfEphS9MF8N/K6J6vHYToIsCa7+EaVRDIZs32T+k5ZqGSoxipWzPcF/vd3QpgafOqCWf+IApzYKXWftfMcLmko4eeUHqv/Xi5hroSz5PVaseyVT/Q==;iZ7QOmckoUoskN43Ap3oow=="
 ---
 

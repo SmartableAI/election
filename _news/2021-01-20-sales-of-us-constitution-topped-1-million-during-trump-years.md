@@ -255,6 +255,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Donald Trump Can Issue Secret Pardons, but They're Risky"
+    excerpt: "President Donald Trump issued 70 pardons and 73 commutations on his last full day in office on Tuesday. He did not issue pardons for himself, any of his adult children or former New York Mayor Rudy Giuliani."
+    publishedDateTime: 2021-01-20T10:06:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-can-issue-secret-pardons-risky-1562892"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-can-issue-secret-pardons-risky-1562892?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-can-issue-secret-pardons-risky-1562892?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1711585/trump-waves-south-lawn.jpg"
+        width: 3667
+        height: 2445
+        isCached: true
   - title: "Screen Actors Guild may discipline, expel Donald Trump"
     excerpt: "After leaving the White House, President Donald Trump may lose his SAG card, too. The Screen Actors Guild said Tuesday that the SAG-AFTRA board voted “overwhelmingly” that there is probable cause that Trump violated its guidelines for membership."
     publishedDateTime: 2021-01-19T21:44:00Z

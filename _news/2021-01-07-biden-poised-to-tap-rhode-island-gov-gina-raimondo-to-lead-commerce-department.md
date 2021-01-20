@@ -591,6 +591,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here are the executive actions Biden is expected to take on Inauguration Day"
+    excerpt: "President-elect Joe Biden plans to take 17 executive actions in the first hours of his presidency Wednesday, signing a flurry of executive orders, memoranda and directives to agencies implementing his first moves to address the coronavirus pandemic and undo some of Donald Trump's signature policies.\n"
+    publishedDateTime: 2021-01-20T10:05:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_iAIzAlVlQY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/executive-actions-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/executive-actions-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119175940-01-biden-speech-0114-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's Covid vaccine distribution plan still in flux days before inauguration"
     excerpt: "President-elect Joe Biden and his Covid-19 task force are treating the pandemic as a national security-level crisis, but with just days to go before inauguration, some major details of how they will ramp up vaccine distribution to the level promised are still being sorted out, multiple sources tell CNN.\n"
     publishedDateTime: 2021-01-11T12:38:47Z
