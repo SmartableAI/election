@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden administration imposes 100-day 'pause' on deportations of illegal immigrants"
+    excerpt: "The Biden administration on Wednesday issued a 100-day \"pause\" on deportations of illegal immigrants -- a dramatic move that caps a slew of immigration-related moves on President Biden’s first day in office."
+    publishedDateTime: 2021-01-21T05:18:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FCUFf2IbNzg/biden-100-day-pause-on-deportations-illegal-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-100-day-pause-on-deportations-illegal-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-100-day-pause-on-deportations-illegal-immigrants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/40f10ab6-ee60-4ab9-a69d-7a792514637c/322bcdbe-8843-4f47-a1b9-9ab5dd3da8ba/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "ThPitdZo8reEfKfgzjB1zzMEZfwCTeZobsiH4PC+VqFTH2GHi8TWMNTzW8It4mMjYi+23SfAc6Y1MZF8otay0J6FkbRao+Ko7yDfTGHj8WwcKEMsn/dW0JZDf6kyuZpmpxuLCOTFkNuMmdERb1TBYpOsswCGpo/c9T3ueZ6pQXxhJOmAAqA474JABc4NpUNQndycWvPrip2zaDpzvCJeX1J7wOGxJ7PUd8yru/UnCiVVStHDpNU+EmvJjitpCOq5ihhRAcOc5AIZ1T4jNCE+fSy1WUKE+whLD7FLhpJ6VOzGM9Hs5pRUvwg8vujELVoyjUJB/f5wOLnx3Zic0nRmOjmPaly8rhgEPjjkdEe2skQ=;axWKR0zswXM2Z+3tL1Ns5A=="
 ---

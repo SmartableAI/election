@@ -63,6 +63,22 @@ related:
         width: 600
         height: 408
         isCached: true
+  - title: "‘Have a good life’: Trump leaves for Florida in low-key farewell"
+    excerpt: "If the final hours of Trump’s presidency were publicly anticlimactic and relatively sedate, they were characteristically frenetic behind the scenes."
+    publishedDateTime: 2021-01-21T06:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-farewell-florida/2021/01/20/c6ca8a82-5b50-11eb-a976-bad6431e03e2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-farewell-florida/2021/01/20/c6ca8a82-5b50-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-farewell-florida/2021/01/20/c6ca8a82-5b50-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KDCAUQS3EQI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 1097
+        isCached: true
   - title: "As Trump leaves office, South Florida is poised to become his new ‘MAGA’ capital"
     excerpt: "Everyone’s leaving. They’re moving to Florida,\" President Donald Trump says. South Florida is poised to become Trump's new MAGA capital after he leaves the White House."
     publishedDateTime: 2020-12-26T16:28:00Z

@@ -208,6 +208,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Vogue offers digital Kamala Harris cover as a print copy after social media backlash"
+    excerpt: "\"In celebration of this historic moment, we will be publishing a limited number of special edition #InaugurationDay issues,\" Vogue Magazine wrote in posts shared to Twitter, Facebook and Instagram. The digital cover shows America’s first Black-South Asian woman Vice President-elect wearing a powder blue suit from the Michael Kors Collection suit."
+    publishedDateTime: 2021-01-21T00:23:00Z
+    webUrl: "https://www.foxnews.com/lifestyle/vogue-offers-digital-kamala-harris-cover-print-copy-social-media-backlash"
+    ampWebUrl: "https://www.foxnews.com/lifestyle/vogue-offers-digital-kamala-harris-cover-print-copy-social-media-backlash.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/vogue-offers-digital-kamala-harris-cover-print-copy-social-media-backlash.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/kamala-harris-11-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris takes historic oath, becomes nation's first female, Black vice president"
     excerpt: "Kamala Harris cemented her place in history on Wednesday, becoming the first woman, and the first woman of color, to be sworn in as the vice president of the United States."
     publishedDateTime: 2021-01-20T16:58:00Z

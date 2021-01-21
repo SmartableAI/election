@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/twitter-to-transfer-official-accoun
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman.amp"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration imposes 100-day 'pause' on deportations of illegal immigrants"
+    excerpt: "The Biden administration on Wednesday issued a 100-day \"pause\" on deportations of illegal immigrants -- a dramatic move that caps a slew of immigration-related moves on President Biden’s first day in office."
+    publishedDateTime: 2021-01-21T05:18:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FCUFf2IbNzg/biden-100-day-pause-on-deportations-illegal-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-100-day-pause-on-deportations-illegal-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-100-day-pause-on-deportations-illegal-immigrants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/40f10ab6-ee60-4ab9-a69d-7a792514637c/322bcdbe-8843-4f47-a1b9-9ab5dd3da8ba/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Amanda Gorman becomes the youngest Inaugural poet with reading of 'The Hill We Climb' at Biden's swearing-in"
     excerpt: "Amanda Gorman can officially add being the youngest Inaugural poet to her growing list of accolades."
     publishedDateTime: 2021-01-20T18:35:33Z

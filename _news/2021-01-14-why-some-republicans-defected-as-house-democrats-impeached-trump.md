@@ -398,6 +398,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump gets warm Florida greeting from supporters after arriving from DC"
+    excerpt: "Former President Trump received a warm greeting from supporters in South Florida on Wednesday morning as he made his way to his Mar-a-Lago resort after leaving the White House for the last time as the commander-in-chief."
+    publishedDateTime: 2021-01-21T05:42:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LWUaoV2BEm4/trump-gets-warm-florida-greeting-from-supporters-after-arriving-from-dc"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-gets-warm-florida-greeting-from-supporters-after-arriving-from-dc.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-gets-warm-florida-greeting-from-supporters-after-arriving-from-dc.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020615555291.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Clyburn suggests 14th Amendment could bar Trump from holding office again"
     excerpt: "House Majority Whip James Clyburn, D-S.C., told Fox News Wednesday that President Trump should be legally prevented from holding elected office again as the House impeached him for an unprecedented second time. "
     publishedDateTime: 2021-01-13T23:10:41Z

@@ -801,6 +801,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Capitol Rioters Hold Out Long-Shot Hope for a Trump Pardon"
+    excerpt: "In what could be the longest of legal long shots, several of those arrested for storming the U.S. Capitol are holding out hope that President Donald Trump will use some of his last hours in office to grant the rioters a full pardon."
+    publishedDateTime: 2021-01-21T06:21:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-19/long-shot-capitol-rioters-hold-out-hope-for-a-trump-pardon"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-19/long-shot-capitol-rioters-hold-out-hope-for-a-trump-pardon?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-19/long-shot-capitol-rioters-hold-out-hope-for-a-trump-pardon?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "W2CmVDtw51gvk/F6SQbS1E62MX6IR5fzxa8Z+hSLJBF2W9fjuDEbyh1papcnBE7ES4bV3+h6a9/tN9bnoe2q3lp3LKoAgOKefq1e1vFqTE3D7l6T3ocM0NHVDyHg1lNFLrygYgo5t0AFteszeWSIrHalPesv1t45q2H0yvdZAPpj7vV0qaQhrH985NiXbmPOmvsTpJwTK3RghuomcY87o2jXv/haqS2z5z7KVnHIH3Qf6XOmiqaoK1ggGMM90Fjc1I5X1HXPAdvcS1jfnVap4QxBAEAptdBSqZuIH/NN1DP1H5SsdZNJcQV99CywT12hLLamOgmPBuh6XCIenFhlkzC9G1Tmiq8frT3ZJq0msE4=;6fowWsIoRjIZkRGry8hKhg=="
 ---

@@ -75,6 +75,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden rolls back Trump policies on wall, climate, health, Muslims"
+    excerpt: "U.S. President Joe Biden signed 15 executive actions shortly after being sworn on Wednesday, undoing policies put in place by his Republican predecessor, Donald Trump, and making his first moves on the pandemic and climate change."
+    publishedDateTime: 2021-01-21T06:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-executiveactions-idUSKBN29P1E7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P1E7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P1E7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548505408&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J1Q5"
+        width: 843
+        height: 545
+        isCached: true
   - title: "Pence is helping Biden make the transition more normal. But their cooperation has risks for each."
     excerpt: "Pence is accepting Biden’s win in a way Trump has not, helping Biden solidify his transition to power. That benefits Biden and Pence for now, but a volatile political landscape lies ahead for both."
     publishedDateTime: 2021-01-17T15:08:00Z
@@ -763,6 +779,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "President Joe Biden calls for unity in inauguration speech"
+    excerpt: "Joe Biden was sworn in as the 46th president of the United States on Wednesday. Kamala Harris, formerly a senator from California, also became the first female vice president."
+    publishedDateTime: 2021-01-21T03:45:00Z
+    webUrl: "https://www.latimes.com/socal/daily-pilot/news/story/2021-01-20/president-joe-biden-calls-for-unity-in-inauguration-speech"
+    ampWebUrl: "https://www.latimes.com/socal/daily-pilot/news/story/2021-01-20/president-joe-biden-calls-for-unity-in-inauguration-speech?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/socal/daily-pilot/news/story/2021-01-20/president-joe-biden-calls-for-unity-in-inauguration-speech?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/ec38ee0/2147483647/strip/true/crop/4608x3010+0+223/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F77%2F8f%2F6106eb294bfdb5fe612b993376fb%2Fp0660429.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "U.S. President Joe Biden's inaugural address"
     excerpt: "Following is the inauguration speech as prepared for delivery by Democrat Joe Biden, who was sworn in as president of the United States on Wednesday:"
     publishedDateTime: 2021-01-20T19:54:00Z
@@ -810,6 +842,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/f4c66dc3becc14952a51bc8d6504077c8a930be0/0_0_6877_4128/master/6877.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2176f28814bd79b46a5d4c9800440178"
         width: 600
         height: 360
+        isCached: true
+  - title: "‘Grateful’ Mike Pence returns to Indiana hometown as vice presidency ends"
+    excerpt: "Former Vice President Mike Pence returned Wednesday to his Indiana hometown, where he told a small crowd of family member and supporters that serving in the White House was the greatest honor of his life."
+    publishedDateTime: 2021-01-20T23:07:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 124
+    images:
+      - url: "https://www.chicagotribune.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
+        width: 1200
+        height: 896
         isCached: true
   - title: "Watch Live: Inauguration Day events after Joe Biden sworn in as president"
     excerpt: "President Joe Biden and Vice President Kamala Harris were sworn into office Wednesday. Mr. Biden took the reins of power as 46th president of the United States at a perilous time in American history,"
@@ -1426,6 +1474,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Joe Biden inaugurated as America's 46th president – in pictures"
+    excerpt: "On a day of history in Washington, Joe Biden was sworn in as president of the United States, and Kamala Harris affirmed as vice-president"
+    publishedDateTime: 2021-01-20T16:33:00Z
+    webUrl: "https://www.theguardian.com/us-news/gallery/2021/jan/20/joe-biden-inauguration-46th-president-united-states-in-pictures"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/53d994967e1d3f1dc47ea625ab313c3678bb88f4/0_493_7398_4441/master/7398.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c0e75e5058587d27864e2fcc6ff18755"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden sworn in as 46th US president – video"
     excerpt: "Joe Biden has been sworn in as the 46th US president at the US Capitol in Washington"
     publishedDateTime: 2021-01-20T18:52:00Z
@@ -1924,22 +1986,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "‘Grateful’ Mike Pence returns to Indiana hometown as vice presidency ends"
-    excerpt: "Former Vice President Mike Pence returned Wednesday to his Indiana hometown, where he told a small crowd of family member and supporters that serving in the White House was the greatest honor of his life."
-    publishedDateTime: 2021-01-21T02:04:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 74
-    images:
-      - url: "https://www.baltimoresun.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
-        width: 1200
-        height: 896
-        isCached: true
   - title: "How Mike Pence's hometown views his legacy as vice presidency comes to an end"
     excerpt: "In a music store in this small city 45 minutes southeast of Indianapolis, a picture of Vice President Mike Pence playing guitar hangs by the door. Nearby"
     publishedDateTime: 2021-01-18T11:03:00Z
@@ -2040,6 +2086,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QJETWKPY55GGFFFBTMWU5OHYWM.jpeg"
         width: 2048
         height: 1536
+        isCached: true
+  - title: "Inauguration speech 2021: Read Joe Biden’s inaugural address. ‘We must end this uncivil war.’"
+    excerpt: "\"We have learned again that democracy is precious. Democracy is fragile. And at this hour, my friends, democracy has prevailed.\""
+    publishedDateTime: 2021-01-20T19:32:00Z
+    webUrl: "https://www.nj.com/politics/2021/01/inauguration-speech-2021-read-joe-bidens-inaugural-address-we-must-end-this-uncivil-war.html"
+    ampWebUrl: "https://www.nj.com/politics/2021/01/inauguration-speech-2021-read-joe-bidens-inaugural-address-we-must-end-this-uncivil-war.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2021/01/inauguration-speech-2021-read-joe-bidens-inaugural-address-we-must-end-this-uncivil-war.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 64
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/USJDSEM6LVGIPIDOQOPV5SIA2U.jpg"
+        width: 2275
+        height: 1638
         isCached: true
   - title: "Joe Biden’s national security Cabinet nominees face Senate hearings a day before his inauguration"
     excerpt: "Joe Biden’s national security Cabinet may be bare on Day One of his presidency, but an inauguration eve spurt of Senate confirmation hearings suggests that won’t be the case for long."

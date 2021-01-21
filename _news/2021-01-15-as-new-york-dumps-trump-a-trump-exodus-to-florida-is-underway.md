@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/e7013f44e59214d0f1a6b352c0ca3c0c380b3545/0_0_3100_2108/master/3100.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aad7a3492a81ad122460101ba8f5f7b0"
         width: 600
         height: 408
+        isCached: true
+  - title: "‘Have a good life’: Trump leaves for Florida in low-key farewell"
+    excerpt: "If the final hours of Trump’s presidency were publicly anticlimactic and relatively sedate, they were characteristically frenetic behind the scenes."
+    publishedDateTime: 2021-01-21T06:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-farewell-florida/2021/01/20/c6ca8a82-5b50-11eb-a976-bad6431e03e2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-farewell-florida/2021/01/20/c6ca8a82-5b50-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-farewell-florida/2021/01/20/c6ca8a82-5b50-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KDCAUQS3EQI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 1097
         isCached: true
   - title: "Trump's pardon blitz keeps ex-Google exec out of prison"
     excerpt: "A long-running Silicon Valley soap opera has taken an unexpected twist after outgoing President Donald Trump pardoned a former Google engineer"

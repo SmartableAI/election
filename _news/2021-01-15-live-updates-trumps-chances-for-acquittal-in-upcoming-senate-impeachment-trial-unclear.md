@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "LIVE UPDATES: Rand Paul says Trump impeachment would 'destroy' Republican Party"
+    excerpt: "Follow for the latest updates on Trump's impeachment."
+    publishedDateTime: 2021-01-21T05:08:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EwKGjSiCdMA/live-updates-trump-impeachment-republican-party-1-21-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-republican-party-1-21-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-republican-party-1-21-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b3bf83a-8f2c-4d51-b060-ec5c216a84d9/296dc905-2158-4193-a3ea-26a5dc196e20/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "LIVE UPDATES: Trump approval rating hits record low following Capitol riots, impeachment"
     excerpt: "Follow for the latest updates on Trump's impeachment."
     publishedDateTime: 2021-01-17T06:35:24Z
