@@ -43,6 +43,22 @@ related:
         width: 1800
         height: 1200
         isCached: true
+  - title: "Biden administration to pause deportations, curtail arrests"
+    excerpt: "Acting Homeland Security chief orders immigration agencies to focus on national security, aggravated felons and recent border crossers"
+    publishedDateTime: 2021-01-21T12:29:00Z
+    webUrl: "https://www.washingtonpost.com/immigration/biden-administration-to-pause-deportations-curtail-arrests/2021/01/21/73a0682c-5ba0-11eb-b8bd-ee36b1cd18bf_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/immigration/biden-administration-to-pause-deportations-curtail-arrests/2021/01/21/73a0682c-5ba0-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/biden-administration-to-pause-deportations-curtail-arrests/2021/01/21/73a0682c-5ba0-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N3AQUUC3XEI6XOF55Y3LDTIYX4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Twitter On Joe Biden's Proposed $2,000 Stimulus Check: 'We Need More'"
     excerpt: "Joe Biden said the $600 coronavirus relief payment was not enough and has promised $2,000 stimulus checks once he takes office. However, some believe this would still not be enough."
     publishedDateTime: 2021-01-11T06:51:00Z

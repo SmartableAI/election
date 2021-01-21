@@ -256,6 +256,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden is inheriting a nonexistent Covid-19 vaccine plan from Trump administration, sources say"
+    excerpt: "Newly sworn in President Joe Biden and his advisers are inheriting no coronavirus vaccine distribution plan to speak of from the Trump administration, sources tell CNN, posing a significant challenge for the new White House.\n    \n"
+    publishedDateTime: 2021-01-21T12:00:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/24JVOfgKhP4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/biden-covid-vaccination-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/biden-covid-vaccination-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 178
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118064236-01-joe-biden-0115-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump, pressured into video concession, faces uncertain final stretch"
     excerpt: "President Donald Trump's top aides delivered a blunt warning to him Thursday as he sat sullenly in the West Wing and watched as his Republican allies, Cabinet secretaries and former senior staffers criticized or denounced him one by one.\n    \n"
     publishedDateTime: 2021-01-08T14:12:16Z
@@ -1488,6 +1504,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "LxqnRo9v6VrMzfgodOU1Fp9FQKqeeCUAP5sCZwW02180s1t0ITLtEhygQlxIQGCnYiCvFFmdTrJT+2ClEObJoffnlXZX6kFsMnpYPpk7u1mxYB5vLkVI0pkKZcR6kNybwBWDBzFD5kAT2NQ5SayvtwSUCRaanEHy7os9Zt7/lysHNXnkPMONgsXd22OD05q2BGnRPbIRAKoo3B1ZeHvwhFG77epxGEEF3wsA8Cdo7IhG/pvZvXYY7emkdYmci8magcUaHFuFyRhT9qe9iybTDRDTgXAkRSsSt1shxqZiMqQHjQiycreuel2l73p1v4yo7cEfTCNuGfXTWiR8BjGJYt8PFBUDyZc9WXqT0ze/Vvk=;FnikyY5JxNzS45dj2hABaQ=="
+secured: "BdcJpiPCxLECy39EXOBse7FlkQkNMsnOCeFy5HBKKMLj4iqe/d7xUXeBfihsmeHo/K5OKUn34hMeh2mx5LYVrHiK1KEWbkE2Qt/BPdI9K9cleYG59bsX+DAre9ggNpGoydWDAotx8gymsGmnJVZcnpKXJiX6aff5Sn9EutkG60Q+6H3r7vHxTGRwRT+xipVVJsyo3dckh02IVZLDfkIDHa8qpGF6pBzFPLA4MuvQh4B6uEWtm6i2XLoL/nTnBN7gQoNqgCriz+uLyB0HTv4YBALRc4JS93TMmwugXRuSHjo7ihw3sEtF/kMb18JWozq+NY8T9skk7IcuDeT13QZNZ9kysNaFCay/MVo8Yb5D7zw9y+LBmNQw8taHn3AY9tiTreQ242uzBAlP4TlAJUc4PYEtPwH/Ic+YEwGeBCZisqAJAZsq+MJ0CiQEaeSX4DkvQz1qUdUKbJW7iGlF00W6Mpcic8o7YKysSslH8+pNy2Yx/enCi3SwLFpmaTsxOG8QOFgGol8WiRXbDjLn1ISMyg==;FUYp4yB0UEXv5VjVb52ldQ=="
 ---
 

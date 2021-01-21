@@ -1,0 +1,119 @@
+---
+category: news
+title: "Most Pennsylvania GOP Backed Trump to the End, and Still Do"
+excerpt: "With Donald Trump out of the White House, Pennsylvania’s Republican Party shows no sign of walking away from a president who lost control of Congress, carried out an unprecedented campaign to overturn an election and is blamed by some in his party for inciting a violent assault on the country’s democracy."
+publishedDateTime: 2021-01-21T12:14:00Z
+originalUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-01-21/most-pennsylvania-gop-backed-trump-to-the-end-and-still-do"
+webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-01-21/most-pennsylvania-gop-backed-trump-to-the-end-and-still-do"
+type: article
+quality: 35
+heat: -1
+published: false
+
+provider:
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+related:
+  - title: "GOP Congresswoman on voting to impeach Trump: \"I felt like I had to\""
+    excerpt: "In an unprecedented vote Donald Trump become the first president to be impeached twice; Jaime Herrera Beutler explains why she joined other Republicans in voting \"yes.\""
+    publishedDateTime: 2021-01-17T14:55:00Z
+    webUrl: "https://www.cbsnews.com/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/17/94c6d7ab-08fb-498a-9a67-01de81e8a1bd/thumbnail/1200x630/4283d5e6e42882d4eef834bf4274df93/jaime-herrera-beutler-a-1280.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Historians worry a Trump library will be an airbrushed 'MAGA' tribute to a twice-impeached president"
+    excerpt: "It's not hard to image Trump's presidential library will burnish his tarnished legacy after he leaves office. Don't expect that to go smoothly."
+    publishedDateTime: 2021-01-15T16:03:00Z
+    webUrl: "https://www.businessinsider.com/trump-presidential-library-museum-location-national-archives-records-documents-2021-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
+    images:
+      - url: "https://i.insider.com/6000cf5aa81ea100188db5a2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Liz Cheney faces Wyoming backlash for Trump impeachment vote"
+    excerpt: "Just before a mob unleashed a deadly rampage on the U.S. Capitol, President Donald Trump told tens of thousands of supporters that “we got to get rid” of Rep. Liz Cheney. The Wyoming congresswoman and No."
+    publishedDateTime: 2021-01-19T03:26:00Z
+    webUrl: "https://www.al.com/news/2021/01/liz-cheney-faces-wyoming-backlash-for-trump-impeachment-vote.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/liz-cheney-faces-wyoming-backlash-for-trump-impeachment-vote.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/liz-cheney-faces-wyoming-backlash-for-trump-impeachment-vote.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UTKT4Z2AMJAPJNKSBTSOYVVLSE.jpg"
+        width: 4500
+        height: 3000
+        isCached: true
+  - title: "Chrissy Teigen, Other Celebs React To Donald Trump Being Impeached Twice"
+    excerpt: "Several celebrities including Chrissy Teigen, Jesse Tyler Ferguson and more reacted to Donald Trump being impeached twice. The president was impeached by the House of Representati"
+    publishedDateTime: 2021-01-14T06:14:00Z
+    webUrl: "https://www.ibtimes.com/chrissy-teigen-other-celebs-react-donald-trump-being-impeached-twice-3121752"
+    ampWebUrl: "https://www.ibtimes.com/chrissy-teigen-other-celebs-react-donald-trump-being-impeached-twice-3121752?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chrissy-teigen-other-celebs-react-donald-trump-being-impeached-twice-3121752?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/the-cancelled-diplomatic-trips-round-off-four-tumultuous.jpg"
+        width: 1024
+        height: 677
+        isCached: true
+  - title: "Watch live: House vote today to impeach Trump for a second time"
+    excerpt: "The resolution is in response to last week’s assault on the U.S. Capitol by Trump supporters."
+    publishedDateTime: 2021-01-13T14:15:07Z
+    webUrl: "https://www.bing.com/videos/search?q=url%3ahttps%3a%2f%2fwww.youtube.com%2fwatch%3fv%3dZnyfYgu5iqg&ru=%2fsearch%3fq%3durl%253ahttps%253a%252f%252fwww.youtube.com%252fwatch%253fv%253dZnyfYgu5iqg%26FORM%3dHDRSC1&view=detail&mmscn=vwrc&mid=3F8B8EDDEAF27EB0C6203F8B8EDDEAF27EB0C620&FORM=WRVORC"
+    type: article
+    provider:
+      name: PBS News Hour
+      domain: bing.com
+    quality: 55
+    images:
+      - url: "https://tse2.mm.bing.net/th?id=OVF.kr1jrhl6%2bhrBBRY%2fCA37Tg&w=600&h=315&c=7&rs=1&qlt=100&pid=2.1"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Donald Trump: From The American Dream To American Nightmare"
+    excerpt: "When Donald Trump looks down for the last time from his helicopter over the White House lawn Wednesday, the wreckage of his presidency will be inescapable. The showman with the dyed blond hair, fake tan and a knack for connecting with crowds took office four years ago,"
+    publishedDateTime: 2021-01-18T00:33:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-american-dream-american-nightmare-3124343"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/07/us-president-donald-trump-kisses-german-chancellor-angela.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+
+secured: "dZmRvtjGd37ZNtVR7k1dxisGEPmYK/pA9ONHUPJTB0p2q1YUcvjM1G7qLNW2x88jXCGyD3aivdIqfuJMMQ4pbL02OsMgvfbBKe/UuMK30JhSCk/e4SrqH0DLJ3lRDO1In3u+mnoVe7eSB11oC1wmZaJ+z95tvfNOyFmVFVC7RBmhDP3+swz7SFlRORauPI+Ia0U5JgEIpDJFwggRDtFlEzHqywsk0Ubzped2GpYO3ewYECqGqxStowypuvlHNBr22E4iAXBQJoEbBHw3ZsCyRWInK4NqhdiRg1+S4tRX2y4JU5KwzdYJb/jldINeMSeo16XsboMzL/pOZuDcDesRWzlA6LX5D3Z/U3VO+IR0G/M=;+Q6Aeiq4LTPnWsJwbSi8VQ=="
+---
+

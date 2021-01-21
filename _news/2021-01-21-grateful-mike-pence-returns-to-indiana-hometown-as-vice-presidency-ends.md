@@ -831,6 +831,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "World leaders laud US return to climate fight under Biden"
+    excerpt: "World leaders breathed an audible sigh of relief that the United States under President Joe Biden is rejoining the global effort to curb climate change, a cause that his predecessor had shunned"
+    publishedDateTime: 2021-01-21T12:55:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/world-leaders-laud-us-return-climate-fight-biden-75400440"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/world-leaders-laud-us-return-climate-fight-biden-75400440"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/world-leaders-laud-us-return-climate-fight-biden-75400440"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_6073505d30494aa594a16db744cf94ea_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "World leaders react to Joe Biden's inauguration"
     excerpt: "World leaders are beginning to react to a “new dawn” in U.S. politics ahead of Joe Biden’s inauguration as the 46th President of the United States at the Capitol in Washington, D.C. today. Historic allies in the EU and the U."
     publishedDateTime: 2021-01-20T19:25:00Z
@@ -1510,6 +1526,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Eye Opener: Joe Biden sworn in as 46th U.S. president"
+    excerpt: "The United States officially has a new commander in chief after Joe Biden is sworn in as the 46th president of the United States. Also, President Biden signed 17 executive actions, many of them reversing former President Trump's signature policies,"
+    publishedDateTime: 2021-01-21T12:59:00Z
+    webUrl: "https://www.cbsnews.com/video/eye-opener-joe-biden-sworn-in-as-46th-us-president/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/21/3ddcb589-6275-4241-a9c0-a3173885d213/thumbnail/1200x630/2d67370b57f78dc19cf6f6125ed58e95/cbsn-fusion-eye-opener-joe-biden-sworn-in-as-46th-us-president-thumbnail-630497-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden inaugurated as America's 46th president – in pictures"
     excerpt: "On a day of history in Washington, Joe Biden was sworn in as president of the United States, and Kamala Harris affirmed as vice-president"
     publishedDateTime: 2021-01-20T16:33:00Z
@@ -2139,6 +2169,22 @@ related:
         width: 2048
         height: 1536
         isCached: true
+  - title: "If Joe Biden wants to bring his Peloton to the White House, here’s what would have to happen"
+    excerpt: "Joe Biden could be the beneficiary of similar treatment. While quarantining at home amid the coronavirus pandemic, The New York Times reported that Biden began each day “with a workout in an upstairs gym that contains a Peloton bike,"
+    publishedDateTime: 2021-01-21T11:33:00Z
+    webUrl: "https://www.nj.com/sports/2021/01/if-joe-biden-wants-to-bring-his-peloton-to-the-white-house-heres-what-would-have-to-happen.html"
+    ampWebUrl: "https://www.nj.com/sports/2021/01/if-joe-biden-wants-to-bring-his-peloton-to-the-white-house-heres-what-would-have-to-happen.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2021/01/if-joe-biden-wants-to-bring-his-peloton-to-the-white-house-heres-what-would-have-to-happen.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 64
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DOTFE2YHJBF67GBQ5LVTYXM52E.jpg"
+        width: 2661
+        height: 1774
+        isCached: true
   - title: "Inauguration speech 2021: Read Joe Biden’s inaugural address. ‘We must end this uncivil war.’"
     excerpt: "\"We have learned again that democracy is precious. Democracy is fragile. And at this hour, my friends, democracy has prevailed.\""
     publishedDateTime: 2021-01-20T19:32:00Z
@@ -2297,6 +2343,6 @@ related:
         height: 800
         isCached: true
 
-secured: "83K/kxkbXPValzg57Z1EA3AW7n2GE/xm+S3pI+Re0GsgUSoz43p5mYBLN0dMvMOsl3bYOcgdkqgvSYkujO/G1i0bh3rxsdYQL+EjG1o+bFsAigQTKsYDsJHRkvlo01uwunTrqc+pno81Xo2HtOVwIUSmmiG1cKG+U1Rf7QEmdslcputjsKXHPLobRcHSt4vyXY58e//F85qv3iDAZ86BHqU3ZaeYRGFWQxCR+3r+qmoE+vXWN5xTW+F5jq/BzyXU+k3bhLW64D7wsLZBPM76AWItXSfT2bVw18RL0BNlnEAsnubVdrDXmaVUK9fAfIAQVzs7r7kgLji4nIEZ0OoFc7DVeXtbk0uHvMMpYuuTKLg=;/zMVnl/nSTIy8R5b0Tq9OA=="
+secured: "7Syln4bwxyT/KtE3TRGQBDLJnBu0rODabAVkRos00qqMcM1cKcdzxER0lIb9Dm0rR6Gx5BgjFGAvEkNxHfjk9WoDUN2a+qOQyj1M4JAZ2mOrf4VyyuorKvOwkOv5UpnRUAsz3rYMl8E6dM3/i5EB2XckrjgELyyi/3vTF9/Tiov9lkGK3auHql3UoqnpZpFhE7Hz7Gb/MKfb1dAlIyxtW7rRtEZnAtaGe8drK9zb+HdYDw5rXz6Pr+tuYbY96GZenivQCiEHSKgrRGiQm/VsrCp1zl7rwbvUQ8wB8KYqCuKv1n85+qFlmWUxZf11IWqZBAY/E0KO/Uwx47HVGc27h3U04l+LH+wx9ESWWvhCEwo3/VrQJ2h3dx21Tk9VagiTEoAjmIe6KOex034Jmt1HBlm5PJpGkaQL2OjEBZyVYpt0vGIpksXWWymOI5Z+ffxVB3BI2Hc7dM7s94oM7k9e13XP/Azz8skA46Cq3VZOJTl0Tq51LfyxbeBZtEGIFouVs6xMV+jxoJBpbAXQ4Q/JLQ==;7liV1oJrYn8yyx8ZhgkBbw=="
 ---
 

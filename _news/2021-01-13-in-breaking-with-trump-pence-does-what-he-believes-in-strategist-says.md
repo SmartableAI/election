@@ -144,6 +144,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden-Harris inauguration: 5 key moments"
+    excerpt: "The deadly violence at the U.S. Capitol just two weeks earlier loomed large over President Biden's inauguration, where the incoming president issued a call for national unity. Here are five key moments from Biden's inauguration."
+    publishedDateTime: 2021-01-21T11:58:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o1vUjBPE-_M/biden-harris-inauguration-key-moments-capitol"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-inauguration-key-moments-capitol.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-inauguration-key-moments-capitol.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020705119368-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Pence urges Biden administration to have ‘eternal vigilance’ in standing up to China"
     excerpt: "In one of his final public appearances before leaving the White House next  week, Vice President Mike Pence urged the Biden administration to exercise \"eternal vigilance,\" especially when it comes to U.S.-China relations."
     publishedDateTime: 2021-01-17T01:46:40Z

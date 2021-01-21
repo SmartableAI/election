@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Divisive policies and actions from Trump-era that Biden could decide to alter"
+    excerpt: "President Joe Biden assumed the office intent on healing a deeply fractured country and reversing former President Donald Trump's divisive legacy.\n    \n"
+    publishedDateTime: 2021-01-21T05:50:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-3gv1mTn1EQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/race-immigration-trump-era-policies-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/race-immigration-trump-era-policies-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119171744-01-trump-may2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden expected to call out Trump administration on pace of vaccine distribution"
     excerpt: "President-elect Joe Biden is set to confront the slower-than-expected pace at which the Trump administration is administering coronavirus vaccines in remarks Tuesday afternoon, a transition official tells CNN.\n    \n"
     publishedDateTime: 2020-12-29T16:02:19Z
@@ -639,6 +655,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden brings a dose of normal to a beleaguered nation"
+    excerpt: "When President Joe Biden walked into the White House on Wednesday holding hands with his wife, it all seemed so normal.\n    \n"
+    publishedDateTime: 2021-01-21T12:34:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Um6x2RczGXU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/biden-trump-normal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/biden-trump-normal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120150916-88-biden-inauguration-south-steps-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "READ: Biden's schedule for his first full day in office"
+    excerpt: "President Joe Biden's first full day in office Thursday will include an intelligence briefing and a meeting with his administration's Covid-19 team, according to a schedule released by the White House late Wednesday.\n    \n"
+    publishedDateTime: 2021-01-21T05:18:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1J4QLt1XNVo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/biden-first-full-day-schedule/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/biden-first-full-day-schedule/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120213030-biden-inauguration-speech-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to start fast on immigration with DACA, border wall and travel ban"
     excerpt: "President-elect Joe Biden will kick off his term by rolling out a series of immigration executive actions, moving swiftly to undo many Trump administration policies.\n    \n"
     publishedDateTime: 2021-01-20T10:06:27Z
@@ -732,6 +780,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118002538-04-donald-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Biden changes America in an instant -- but tougher challenges loom"
+    excerpt: "On the first morning of Joe Biden's presidency, America has changed utterly, and not at all.\n    \n"
+    publishedDateTime: 2021-01-21T12:26:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hC4AEbARsuI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/joe-biden-president-america-change/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/joe-biden-president-america-change/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120155118-04-biden-parade-waving-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -895,6 +959,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Former Presidents Obama, Bush and Clinton honor Biden as America's new leader in joint video"
+    excerpt: "Former Presidents Barack Obama, George W. Bush and Bill Clinton honored President Joe Biden Wednesday evening as America's new leader in a joint message that emphasized the new President's call for national unity.\n    \n"
+    publishedDateTime: 2021-01-21T11:53:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mHPK06GA3Sw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/obama-bush-clinton-video-biden-inauguration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/obama-bush-clinton-video-biden-inauguration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106210551-clinton-obama-bush-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Supreme Court's liberal justices lash out at unprecedented 'rush' of executions as Trump leaves office"
     excerpt: "As the country focused on the aftermath of riots in the US Capitol and the unprecedented second impeachment of President Donald Trump, the liberal justices of the Supreme Court spent Trump's last full week in office battling his administration's long-term objective to execute 13 federal death row inmates"
     publishedDateTime: 2021-01-16T14:36:03Z
@@ -990,6 +1070,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3442743/210117-joe-biden-jm-1231_0fac057de203b18b5f62e757213d8453.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden Rolls Back the Trump Legacy"
+    excerpt: "After an almost normal inaugural ceremony, Biden gets to work. It’s Thursday, and this is your politics tip sheet. Sign up here to get On Politics in your inbox every weekday. In a grand ceremony at the Capitol building yesterday,"
+    publishedDateTime: 2021-01-21T12:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/21/us/politics/biden-trump-legacy.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/21/us/politics/biden-trump-legacy.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/21/us/politics/biden-trump-legacy.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/04/21/us/onpolitics-white-house/onpolitics-white-house-facebookJumbo-v2.png"
+        width: 727
+        height: 381
         isCached: true
   - title: "Biden Unveils a National Pandemic Response That Trump Resisted"
     excerpt: "President Biden has a 21-page strategy to bolster production of vaccines, treatments and medical-grade protective gear while reaching out to communities of color."
@@ -1612,6 +1708,36 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_02/3442024/210114-donald-trump-jm-0910_c07a5a64d923f2f218931b734f3f77f4.jpg"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "New Jersey Playbook Q&A: Phil Murphy on Joe Biden, the pandemic and Trump"
+    excerpt: "New Jersey Playbook writer Matt Friedman spoke to Murphy briefly over the phone about his relationship with the new administration, former President Donald Trump and how vaccine distribution is going in New Jersey."
+    publishedDateTime: 2021-01-21T12:01:00Z
+    webUrl: "https://www.politico.com/states/new-jersey/story/2021/01/21/new-jersey-playbook-q-a-phil-murphy-on-joe-biden-the-pandemic-and-trump-1358841"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 129
+    images:
+      - url: "https://static.politico.com/88/9f/983029434cb6baea9150ce659aad/ap20261536666974-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Rebuked China echoes Biden's call for 'better angels' to heal relations with America"
+    excerpt: "Within hours of President Joe Biden's inauguration, his foreign policy team began wrangling with one of the administration's biggest challenges: China. The U.S. labeled as \"unproductive and cynical\" a slew of sanctions China imposed on outgoing Donald Trump officials just as the inauguration was taking place."
+    publishedDateTime: 2021-01-21T12:44:00Z
+    webUrl: "https://www.nbcnews.com/news/world/rebuked-china-echoes-biden-s-call-better-angels-heal-relations-n1255116"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255116"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255116"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_03/3443881/210121-china-inauguration-mc-9127_1487f22dbf24259451e46bea040ae839.JPG"
+        width: 2500
+        height: 1669
         isCached: true
   - title: "'Clear and present danger to the republic': House readies bipartisan impeachment of Trump"
     excerpt: "One week after the riot at the Capitol and one week before he is to leave office, President Donald Trump faces impeachment again. | Photo by Drew Angerer/ The House intends to impeach President Donald Trump on Wednesday for inciting a violent insurrection that — just one week earlier — stormed the U."

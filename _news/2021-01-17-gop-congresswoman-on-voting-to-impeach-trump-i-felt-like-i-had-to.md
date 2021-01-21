@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/gop-rep-jaime-herrera-beutler-on-vo
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -105,6 +105,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Most Pennsylvania GOP Backed Trump to the End, and Still Do"
+    excerpt: "With Donald Trump out of the White House, Pennsylvania’s Republican Party shows no sign of walking away from a president who lost control of Congress, carried out an unprecedented campaign to overturn an election and is blamed by some in his party for inciting a violent assault on the country’s democracy."
+    publishedDateTime: 2021-01-21T12:14:00Z
+    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-01-21/most-pennsylvania-gop-backed-trump-to-the-end-and-still-do"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "+46AfBt3uXEO/bSYh6ncpI8n/1mG1wYEjUL6lAk5z8n6LZDzs8E2JR0IdofjQfVDi3gzT2TtfQ8nRJ4nT/PcpdwUkTGoRwIJB11vrfeiGAzO75mvnhu2xtlEpEAo9wfP+cJxoXAxpENPy40TYwT94aNs8BnXabG9xaIm56pICAksq5EBu7jr/OLz4OueAjh8qzDT8WVHhjDK2++eJR7sLT3kp8ZCoujng44tNHVfyLVE27RSTj/HjKUgCjx7S40/BwMsCFZQABqcFLb/mm00KsHSFArF0nQjVQBCxnsZ2vWHH1zUq6XIYBcckZL2LMmAGB0xnGEHUdxegGqVXk2ZNOvyg6Ldr2ILQne0whSqAyKE64gJzs3deRRM08UN8BSYNcksq6PDsVNcbkwzYTBMQpZwz79hC2N49Xwh9h+7oJ3dGB5e7pYi2bAZgrjlyotAyGydiriLRxgmZIDEeAnVCrhAXnJUYRlXQ/NOeLAkkAebo8uj7qxDGVybn06zOdVPo52Y8GNToP4rzhMwB42lIw==;77luSLTGV+UesP3LiKKuQQ=="
 ---

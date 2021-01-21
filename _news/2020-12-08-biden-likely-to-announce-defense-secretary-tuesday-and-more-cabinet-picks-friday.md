@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House to vote on waiver for Biden defense secretary pick Lloyd Austin"
+    excerpt: "The House is expected to vote Thursday on a waiver to permit retired Gen. Lloyd Austin to serve as secretary of defense in the Biden administration.\n    \n"
+    publishedDateTime: 2021-01-21T12:06:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yn694VjIyiM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/house-waiver-vote-defense-secretary-nominee/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/house-waiver-vote-defense-secretary-nominee/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209140912-01-lloyd-austin-secretary-of-defense-announcement-1209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden set to appear with Gen. Lloyd Austin as he lobbies Democrats to back waiver for defense secretary nominee"
     excerpt: "President-elect Joe Biden will begin trying to sell his choice for defense secretary, retired Army Gen. Lloyd Austin, to congressional Democrats who are balking at the prospect of waiving the requirement that the position be filled by someone who has been out of active-duty military service for at least"
     publishedDateTime: 2020-12-09T17:50:02Z

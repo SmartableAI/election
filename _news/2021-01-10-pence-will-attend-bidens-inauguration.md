@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 2800
+heat: 2820
 published: true
 
 provider:
@@ -493,6 +493,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153807-205-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Inside Joe Biden's newly decorated Oval Office"
+    excerpt: "The press got its first glimpse of President Joe Biden's Oval Office on Wednesday, showing how in a matter of hours the office has visibly transformed in both dramatic and subtle ways to reflect the taste and politics of the officeholder.\n    \n"
+    publishedDateTime: 2021-01-21T06:27:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-PinOkHW48w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/inside-joe-biden-oval-office/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/inside-joe-biden-oval-office/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120181235-biden-wide-shot-oval-office-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

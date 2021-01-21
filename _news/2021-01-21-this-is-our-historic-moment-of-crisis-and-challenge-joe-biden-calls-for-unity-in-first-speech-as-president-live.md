@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inaug
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
 type: article
 quality: 102
-heat: -1
-published: false
+heat: 122
+published: true
 
 provider:
   name: The Guardian
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden's inauguration address: \"This is America's day\""
-    excerpt: "In a 21-minute inaugural address, President Joe Biden declared \"democracy has prevailed\" as he pleaded for unity. \"This is America's day. This is democracy's day,\" Mr. Biden said. Watch his full speech."
-    publishedDateTime: 2021-01-20T17:50:00Z
-    webUrl: "https://www.cbsnews.com/video/joe-biden-inauguration-speech-watch-in-full-2021-01-20/"
+  - title: "Joe Biden said his Cabinet would be 'the most diverse in history.' We ran the numbers on 7 different metrics to see how diverse his staff really is."
+    excerpt: "Insider dug into race, age, gender, educational background, and more to find out how Biden's administration diversity compared to that of America."
+    publishedDateTime: 2021-01-16T17:47:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-cabinet-diversity-analysis-2021-1"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/20/ac9c1308-2b58-40b0-811d-30ad5e8701b1/thumbnail/1200x630/b4d05d42f91a2fb247c1197479de4347/cbsn-fusion-joe-biden-inauguration-speech-thumbnail-630010-640x360.jpg"
+      - url: "https://i.insider.com/5ff4b9a33793140019e2870d?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
 
 secured: "gLjnsUCuDxVBH1wBejbb7XVefqNHjj45h8OpezVHubXcw8DxVngXwbVCpQpGrX2MsO7vmCFJoZ0a9pbS7ta/jK7gks52JD1wXZ00CGmYrw9lRU3nB+OhcyB0rO1pSWjSJGOxLvS0dwjZ0VWb42TQhUqrsGOrJFCBT7J/IqN6iiGcdGVRkpNLfgNr2HYc4etrYFYRoVSVFx7oQ1G0wQVSZ2+HvG1muldR2Nw3JYFfoWWbfaj0/wajhTEMoHfIwuicj1yhzMd0EDhsN7m3wX8MmpP0lRBizmBhoFd5auJU0r57BPGDrtNUo2bYlo2RwucvEtFN/vt1VfopdvM+YMLlF5K+XOwXc0ut5GjP9QN3MW4UCzX+Uya0kyLLEKd1HG5myECMSSyfQxtA7fGr+7yoDK+7SK88FYv7mSrsVynbTe4OwfgfM6nCTsRypcnZzypyUBjAUk0lBWbADZfGkcJRo2Ufbo7ll9epzrgQ8a+qyq8GDnxrUwQNAZ/POavHqRQExAW6sjQ3c47Wb/IHXmYZSg==;I93/ionBIVZ5HRXK8DPu+A=="

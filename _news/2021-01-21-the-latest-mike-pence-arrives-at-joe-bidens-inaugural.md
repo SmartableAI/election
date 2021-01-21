@@ -3,8 +3,8 @@ category: news
 title: "The Latest: Mike Pence arrives at Joe Biden’s inaugural"
 excerpt: "The Latest on Joe Biden's presidential inauguration (all times local): 11:10 a.m. Vice President Mike Pence has arrived at the inauguration of President-Elect"
 publishedDateTime: 2021-01-20T16:19:00Z
-originalUrl: "https://apnews.com/article/joe-biden-inauguration-news-0a49b6d8b3c9904d88d5bccfd854ab25/gallery/a1421ef0a5ed41479c0e480c3ffcf287"
-webUrl: "https://apnews.com/article/joe-biden-inauguration-news-0a49b6d8b3c9904d88d5bccfd854ab25/gallery/a1421ef0a5ed41479c0e480c3ffcf287"
+originalUrl: "https://apnews.com/article/joe-biden-inauguration-news-0a49b6d8b3c9904d88d5bccfd854ab25/gallery/f9fc4dd896e3409d897ab46a5ce8de60"
+webUrl: "https://apnews.com/article/joe-biden-inauguration-news-0a49b6d8b3c9904d88d5bccfd854ab25/gallery/f9fc4dd896e3409d897ab46a5ce8de60"
 type: article
 quality: 120
 heat: -1
@@ -2756,6 +2756,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "OJTfavfQNfmq9rF5L3cRwT9lzkpqDKBUYVMZaBX1kTZUZHyIAl4EThU4C9/iCRxOpt3IysOXELcP/xjV4/5i+CFh3EOsia1i9a4NqxXi6fjT4Qqpkc5G3FhGRtBY5LR7Fqeqxk2wcEI4+Tb1BN80shbZNgL8cjJVm6lfKypGU0lIX/0vYciJlOnzsrzTn3XZRLCgi7zqoYcJlIBaeBbPsxDzZyrjbBdV6wjOXrDREwhNCvwRscEvCBOp8qhz9BfVWdMD69wnjo8khGEPivJBR1ogu+nWLzwl7wwu9s7cO2NaXgsTdzDGtUAlwOYinVWil8dt2TCJBFHiIE4qztjOauNpIGy3e7M6DCnxGQX5NZA=;LM9onRL3D4IdPmdcKzGcGw=="
+secured: "1jp8BWCWynczdPPiyEtM5+fi8uk1Tuo1F1ZJRpkQk1ipLug2I1M+h4c85PT8OV6wYg3jSidLpGni5gJMRsuDY0MyqTxmcn7sqN9cP6ZPIaAm3X5QnhcTs96ifE7XNrSmGMpyPy3GOL+w6GyCARNJSUlZw/AfTWGHdjuHTJuh9ZXd2zjJhUCR/MPNOd1a0FrJZY8yp0w5Bn8MFOPx5lYfitran9dMbJzThhvUHpyEO9rr7EzHwbXyOQYI2N2Zx0HQkfj1b89kYg4hIpbHTvqusVuPLLMwIYF3eGUPwD6P1XZpteRGWc7EXgzjwl3e3TbzTwMHRgCKKTbksCJdAzdjMd72iLULPmEiUZVfP6BAjTs=;+P5xChjd0Mxb7ScYYEB5HA=="
 ---
 

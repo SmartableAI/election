@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House to vote on waiver for Biden defense secretary pick Lloyd Austin"
+    excerpt: "The House is expected to vote Thursday on a waiver to permit retired Gen. Lloyd Austin to serve as secretary of defense in the Biden administration.\n    \n"
+    publishedDateTime: 2021-01-21T12:06:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yn694VjIyiM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/house-waiver-vote-defense-secretary-nominee/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/house-waiver-vote-defense-secretary-nominee/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209140912-01-lloyd-austin-secretary-of-defense-announcement-1209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden likely to announce defense secretary Tuesday and more Cabinet picks Friday"
     excerpt: "President-elect Joe Biden will likely announce retired Army Gen. Lloyd Austin as his nominee for defense secretary on Tuesday, a source familiar with the matter told CNN, and is now expected to announce some domestic Cabinet picks on Friday.\n    \n"
     publishedDateTime: 2020-12-08T03:12:16Z

@@ -731,6 +731,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump Ends Where He Began, Fighting Release of Tax Returns"
+    excerpt: "Donald Trump’s lawyers made a preemptive move to stop congressional Democrats from obtaining his tax returns as President Joe Biden takes power, asking a judge for an Inauguration Day hearing in a case that could threaten the secrecy of his closely guarded financial information."
+    publishedDateTime: 2021-01-21T12:11:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-01-20/trump-ends-where-he-began-fighting-release-of-his-tax-returns"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTCLIIW43Mu8/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Outgoing Trump admin mulls industry-wide biofuel waiver for oil refiners"
     excerpt: "The Trump administration is considering requests from the oil refining industry and its backers for a sweeping nationwide waiver to exempt them from their obligations to blend biofuels, a measure they argue would help them weather the economic impact of the coronavirus"
     publishedDateTime: 2021-01-16T00:32:00Z

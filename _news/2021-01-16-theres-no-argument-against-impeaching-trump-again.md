@@ -920,6 +920,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Trump Leaves the National Stage -- or Has He?"
+    excerpt: "After descending the marble steps of the White Houses South Portico for his final time as president, Donald Trump couldnt help himself. He stopped"
+    publishedDateTime: 2021-01-21T12:24:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/21/trump_leaves_the_national_stage_--_or_has_he__145085.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/21/trump_leaves_the_national_stage_--_or_has_he__145085.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/21/trump_leaves_the_national_stage_--_or_has_he__145085.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/532981_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Trump Is Over? Not So Fast"
     excerpt: "During the Trump administration we saw nonstop attacks against Trump and his supporters. Democrats refused to cooperate in the transition of power, they forced a two year investigation that paralyzed the administration based on what they knew was fabricated information,"
     publishedDateTime: 2021-01-10T20:45:00Z

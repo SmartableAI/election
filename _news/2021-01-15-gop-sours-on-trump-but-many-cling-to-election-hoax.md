@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-sours-on-trump-but-many-cling-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sours-on-trump-but-many-cling-to-election-hoax.amp"
 type: article
 quality: 190
-heat: 1330
+heat: 1350
 published: true
 
 provider:
@@ -906,6 +906,22 @@ related:
     quality: 85
     images:
       - url: "https://assets.realclear.com/images/53/532569_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Trump Leaves the National Stage -- or Has He?"
+    excerpt: "After descending the marble steps of the White Houses South Portico for his final time as president, Donald Trump couldnt help himself. He stopped"
+    publishedDateTime: 2021-01-21T12:24:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/21/trump_leaves_the_national_stage_--_or_has_he__145085.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/21/trump_leaves_the_national_stage_--_or_has_he__145085.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/21/trump_leaves_the_national_stage_--_or_has_he__145085.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/532981_5_.jpg"
         width: 750
         height: 500
         isCached: true

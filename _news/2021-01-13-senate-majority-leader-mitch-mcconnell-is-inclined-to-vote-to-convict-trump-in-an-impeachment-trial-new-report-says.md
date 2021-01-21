@@ -104,6 +104,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Trump's pardon largesse a boon for well-connected fraudsters"
+    excerpt: "A former congressman who pocketed millions of dollars in bribes from defense contractors. A Republican fundraiser who paid handsome sums to illicitly lobby a presidential administration. An influential voice in conservative circles accused of duping donors who supported a border wall."
+    publishedDateTime: 2021-01-21T12:11:00Z
+    webUrl: "https://www.businessinsider.com/trumps-pardon-largesse-a-boon-for-well-connected-fraudsters-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trumps-pardon-largesse-a-boon-for-well-connected-fraudsters-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-pardon-largesse-a-boon-for-well-connected-fraudsters-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Wall Street distances itself from Trump, GOP after storming of Capitol. ‘We will not support candidates who do not respect the rule of law.’"
     excerpt: "A growing number of Wall Street banks and businesses have cut ties with President Donald Trump’s campaign and financial arms, as well as the broader Republican Party, following last week’s riots and insurrection at the U."
     publishedDateTime: 2021-01-11T16:58:00Z

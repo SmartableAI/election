@@ -255,6 +255,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden is inheriting a nonexistent Covid-19 vaccine plan from Trump administration, sources say"
+    excerpt: "Newly sworn in President Joe Biden and his advisers are inheriting no coronavirus vaccine distribution plan to speak of from the Trump administration, sources tell CNN, posing a significant challenge for the new White House.\n    \n"
+    publishedDateTime: 2021-01-21T12:00:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/24JVOfgKhP4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/biden-covid-vaccination-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/biden-covid-vaccination-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 178
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118064236-01-joe-biden-0115-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's desperate attempt to save his imploding presidency"
     excerpt: "It was too little, too late, and may fail to save a presidency imploding at staggering speed under the weight of Donald Trump's tragic flaws.\n    \n"
     publishedDateTime: 2021-01-08T12:52:37Z

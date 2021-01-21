@@ -105,6 +105,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Most Pennsylvania GOP Backed Trump to the End, and Still Do"
+    excerpt: "With Donald Trump out of the White House, Pennsylvania’s Republican Party shows no sign of walking away from a president who lost control of Congress, carried out an unprecedented campaign to overturn an election and is blamed by some in his party for inciting a violent assault on the country’s democracy."
+    publishedDateTime: 2021-01-21T12:14:00Z
+    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-01-21/most-pennsylvania-gop-backed-trump-to-the-end-and-still-do"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "ythcE0zSj09X9KdmjG+W3/II9RJ9LwcfEpJ0Kcj+DwUmTeG3l5EiywaK+EgM9xtAsXwIKy0RcdEE1y0Fan0LxNRbt8iZ6PTxpJWq0bLf0doyGg3EAiQ+oIu24p8ChghSBvn14qnI7yiUE3951yj8dijdFaOKpzSOrnXYpmJe4zTInwbfML0cBb7gOMlR7zP3c9EPCI+QVZoyP+N8RLK3ZjISiXc3FcBidNTMDryHRsj81K54vbiHIzPOeDsK0QKGpml1FJzgp7enMUM0WsDFeK7WhqTaOzxmmUQ0p5hqYQ018Zx05Iq/kj0UQruM4d473PXvwY1I4Fmta4cSl+E9VPXt64bGDuNcuF1DBgL9AVbzxPz6jLxMaXq7VdiwxQppEaGTSzWVX5ZqqlxgkkdDclMNFniai0MOmfbCD12FCcgQgRxApSvpnj9T88Up3QN1MfG3op6x4y0e6auYk/fIgiFJCTxxyeKvxa+E/dK8yIVHLU7M57GM4vzN9M3vHznQyzVFYN5Umgo6XNgibmaZaA==;kyci0NOiAMxy57Y3ta0Kzg=="
 ---

@@ -127,6 +127,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden-Harris inauguration: 5 key moments"
+    excerpt: "The deadly violence at the U.S. Capitol just two weeks earlier loomed large over President Biden's inauguration, where the incoming president issued a call for national unity. Here are five key moments from Biden's inauguration."
+    publishedDateTime: 2021-01-21T11:58:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o1vUjBPE-_M/biden-harris-inauguration-key-moments-capitol"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-inauguration-key-moments-capitol.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-inauguration-key-moments-capitol.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020705119368-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "In breaking with Trump, Pence does ‘what he believes in,’ strategist says"
     excerpt: "After breaking with his boss last week and certifying President-elect Joe Biden’s Electoral College victory over President Trump, Vice President Mike Pence this week quickly shot down a push by House Democrats urging him to invoke the 25th Amendment of the Constitution to remove Trump from the presidency."
     publishedDateTime: 2021-01-13T17:17:22Z
