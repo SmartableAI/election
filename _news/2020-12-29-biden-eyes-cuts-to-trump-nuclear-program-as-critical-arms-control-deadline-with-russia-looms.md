@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/biden-nuclear-cuts-arms-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/biden-nuclear-cuts-arms-control-russia/index.html"
 type: article
 quality: 179
-heat: 339
+heat: 359
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201217200015-dominion-voting-systems-ceo-john-poulos-ebof-intv-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to seek five-year extension of key nuclear arms treaty with Russia"
+    excerpt: "The Biden administration will seek a full five-year extension of a key arms control treaty between the US and Russia, according to a US official.\n    \n"
+    publishedDateTime: 2021-01-21T18:15:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Lm0MWO1YWdk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/biden-new-start-extension/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/biden-new-start-extension/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200608165352-usa-russia-flags-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

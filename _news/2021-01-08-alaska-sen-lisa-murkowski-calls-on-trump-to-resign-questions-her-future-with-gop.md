@@ -591,6 +591,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "McCarthy says Trump still has role in future of GOP, should 'continue to engage'"
+    excerpt: "House Minority Leader Kevin McCarthy on Thursday said that he still sees a future role for former President Trump in the Republican Party similar to the role of other past presidents in their political parties. "
+    publishedDateTime: 2021-01-21T18:53:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RVgF4hQbeBI/mccarthy-says-trump-still-has-role-in-future-of-gop-should-continue-to-engage"
+    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-says-trump-still-has-role-in-future-of-gop-should-continue-to-engage.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-says-trump-still-has-role-in-future-of-gop-should-continue-to-engage.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Dems 'caught up in their own mob mentality,' trying to 'blame everything on Trump': Hurt"
     excerpt: "While Republicans look inward in the aftermath of the Capitol Hill riots after President Trump's address Wednesday, Democrats are adding to the division, Fox News contributor Charles Hurt argued Friday."
     publishedDateTime: 2021-01-08T15:21:18Z

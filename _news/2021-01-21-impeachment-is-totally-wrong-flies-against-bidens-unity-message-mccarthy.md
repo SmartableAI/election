@@ -1,0 +1,53 @@
+---
+category: news
+title: "'Impeachment is totally wrong,' flies against Biden's unity message: McCarthy"
+excerpt: "House Minority Leader Kevin McCarthy, R-Calif., encouraged President Biden to call Democrats off holding an impeachment trial for former President Donald Trump Thursday, whom he said could still lead the party going forward."
+publishedDateTime: 2021-01-21T18:06:15Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mgN5jl5hpZo/impeachment-wrong-flies-against-bidens-unity-message-mccarthy"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mgN5jl5hpZo/impeachment-wrong-flies-against-bidens-unity-message-mccarthy"
+ampWebUrl: "https://www.foxnews.com/politics/impeachment-wrong-flies-against-bidens-unity-message-mccarthy.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/impeachment-wrong-flies-against-bidens-unity-message-mccarthy.amp"
+type: article
+quality: 172
+heat: 192
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c44be81c-5c8c-4e58-8ba9-ae49fc727bdc/0b142eae-7ee5-4a39-8206-ec49c98fc86b/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "Scalise slams Dems for 'ratcheting up rhetoric,' says Biden should call for end to impeachment trial"
+    excerpt: "House Minority Whip Steve Scalise, R-La., slammed his Democratic colleagues Thursday for ratcheting up the rhetoric by impeaching President Trump without an investigation as the nation struggles with division."
+    publishedDateTime: 2021-01-14T15:31:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hdabdqdSg4U/trump-impeachment-democrats-rep-steve-scalise"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-democrats-rep-steve-scalise.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-democrats-rep-steve-scalise.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+
+secured: "gnluz3G0urX3B41W/cTYD8SxV2pM0MnHL3DP0rmN5gxUVvw4gY2h/x3+tEJgX9g14DGbBHEbVzKnjyKcnOiYK97zAMeg0I+bleVxG6+15tVeshtR20wkFfYz6hFU48n3TPmtQP4jSVE7bN6Os6dF6pL3ZVjt1D5lvt3rZa/QIQVlwa/9/sP+CECxCgrv1VvZhHMzkCiUF9UVSksZPBgsCDHQJAf87Qr4oTxdrfkRrr1tast9EGBs6psv5Jh+MsyLsmdtwLZjCg4D6RXWydagxHxAPj7X/7tQSKGc6VxXW5wHKKyXWZGsFldNam/p8hw11DoxAavU8TSTUary3hZgVq5mQyrv3RomisuLE42X3M4=;sik7nfl0hFu2DTa7CsaqmA=="
+---
+

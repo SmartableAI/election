@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-impeachment-republicans-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-impeachment-republicans-herrera-beutler-wyoming.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Cheney on calls to step down after impeachment vote: I'm 'confident' GOP will be united against Biden"
+    excerpt: "Rep. Liz Cheney, R-Wyo., was less interested Thursday in discussing backlash from the party over her vote to impeach former President Donald Trump last week than how congressional Republicans plan to check President Biden's agenda."
+    publishedDateTime: 2021-01-21T17:15:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RjwgSoA0E8Y/cheney-step-down-impeachment-vote-confident-gop-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/cheney-step-down-impeachment-vote-confident-gop-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cheney-step-down-impeachment-vote-confident-gop-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99358d26-af6a-480e-ad64-fc605954db0c/0a1a97f5-1c2e-489a-8e0a-312e92622968/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "fbBQ3mVXe03KEM17zey3C32gMucDW+dWLiwdEj3h97I4VkgJBvHMnQpQB87nPXgQQrDfpTtHfJCBPkmQYeTPSSO08jOQ8SCcc9mxaYOJ1/Sntu4C4uWSdRH0qur2eCLSissP66UXyw24ChKTAkv1IaR8Hx+3QGPLrpUS2Z9LixkxHZRY0Vd4XNL/rslRzJ4OLINKgSXA8YH2YL9PgZLfby6aUXI+ifi6OaAbOU3Xtdp0LJr2m6/TF+94u+WfkH5B1W60ICy1QljwxeTuWOIRSeH66iQhYp4V+Vx8y+QnJANtxLp7Mkg0mciGv5c1Fqu+MDgbT562V8yEMQzZhgFNk/X+ZLyf9y8rIt6k0EdxRHg=;3tCf6VFQXEGlpRveS5acpg=="

@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden executive order says schools should include transgender athletes in girls' sports"
+    excerpt: "President Biden, in an executive order aimed at \"preventing and combating discrimination on the basis of gender identity or sexual orientation,\" is calling on schools across the country to allow transgender athletes to participate in the sport of their gender identity."
+    publishedDateTime: 2021-01-21T18:37:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N2uVAZlV39w/biden-executive-order-schools-transgender-athletes-girls-sports"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-executive-order-schools-transgender-athletes-girls-sports.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-order-schools-transgender-athletes-girls-sports.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12ee0e3c-a55a-4da5-8135-66d94c20ca83/5ce8239b-b177-46a5-83df-a0f384867e2d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden Education nominee touted diversity speaker who claimed schools 'spirit murder' Black children"
     excerpt: "One of President-elect Biden's top Education Department nominees hosted a diversity training during which she gave an \"extremely complimentary\" introduction to its featured speaker, who has accused public schools of \"spirit murdering\" of Black children."
     publishedDateTime: 2021-01-19T22:17:52Z

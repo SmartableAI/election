@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "White House: 'Critical' for Congress to pass Biden stimulus check, coronavirus relief plan"
+    excerpt: "The White House on Thursday said it is \"critical\" that Congress act \"quickly\" on President Biden's proposals for coronavirus economic relief after a report showed that 900,000 Americans filed new unemployment claims last week, saying \"long-term scarring\" will only worsen\" with delay."
+    publishedDateTime: 2021-01-21T18:44:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lout-v9sM-g/white-house-coronavirus-relief-stimulus-check-congress"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-coronavirus-relief-stimulus-check-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-coronavirus-relief-stimulus-check-congress.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden adviser defends liberal agenda items in $1.9T coronavirus relief plan, dodges on ending filibuster"
     excerpt: "President-elect Joe Biden’s proposed coronavirus relief package would cost taxpayers $1.9 trillion, and his economic adviser defended the inclusion of several Democratic agenda items."
     publishedDateTime: 2021-01-17T16:55:09Z

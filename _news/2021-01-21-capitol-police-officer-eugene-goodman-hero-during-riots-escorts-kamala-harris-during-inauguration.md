@@ -240,6 +240,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Where does the vice president live? Kamala Harris moving into historic Washington DC residence"
+    excerpt: "Vice President Kamala Harris will soon be residing on the grounds of the Naval Observatory in northwestern Washington, D.C., in a home occupied by her predecessors for more than four decades. Harris,"
+    publishedDateTime: 2021-01-21T18:52:00Z
+    webUrl: "https://www.foxnews.com/real-estate/vice-president-kamala-harris-new-home-washington-d-c"
+    ampWebUrl: "https://www.foxnews.com/real-estate/vice-president-kamala-harris-new-home-washington-d-c.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/real-estate/vice-president-kamala-harris-new-home-washington-d-c.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/residence-of-the-Vice-President-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "nfA3eUuxVjMyB+DCjQatfoQK0p1IDQuRDY5buywctgCARycAz87IJdOr9HwuixizgYFDBw+kDDEWx6N9stWoAflE6OIn+5EyPHzTHpm5rcrpk3IXHCJFO/hniyjM7vuXaFGzIVzumtlgRCFZN8vrW5iIuVOLAfshrwLuqFKoSuHsKDYSlizqO0JqUaMDMwZJ9TcRjvKThcvrZrH+wX5f3Lo54+1vmxNpZ3gMDUTPTz9tz8q6sJD3gsacJ0X1hIHVkNNVIo9l4yesCTn8pm+hBDHvVevKNXd/uyfXSRzSJQ0Pq0hvdYa8kKxIbMfbB4KpM/qVn0NuyxfdAOOs0uEdtqHZ9Puk/Fda9cHIjpeSFn0=;hK7LuRBjAL+qyXAbWpH9yg=="
 ---

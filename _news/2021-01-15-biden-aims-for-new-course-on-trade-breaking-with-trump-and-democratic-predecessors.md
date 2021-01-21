@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden gets to work as Pelosi says Trump impeachment will head to Senate 'soon' – live"
+    excerpt: "Biden will sign 10 more executive orders to fight the coronavirus pandemic and intends to retain Christopher Wray as FBI director"
+    publishedDateTime: 2021-01-21T18:39:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/21/joe-biden-inauguration-administration-kamala-harris-covid-coronavirus-live-updates?page=with:block-6009bf658f084eb8eab7d647"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/21/joe-biden-inauguration-administration-kamala-harris-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/21/joe-biden-inauguration-administration-kamala-harris-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 133
+    images:
+      - url: "https://i.guim.co.uk/img/media/7cbba7390d2bc8b7da7f461886f8eeb32420db15/0_334_7601_4560/master/7601.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=304e301c64c767b0941efe36b3b39598"
+        width: 600
+        height: 360
+        isCached: true
   - title: "China fires parting sanctions at Trump officials; seeks ‘better angels’ in Biden team"
     excerpt: "But Beijing’s first move of the Biden era, a raft of sanctions against officials including former secretary of state Mike Pompeo, fell flat."
     publishedDateTime: 2021-01-21T16:09:00Z

@@ -189,6 +189,22 @@ related:
         width: 8192
         height: 5464
         isCached: true
+  - title: "A McConnell-Backed Trump Conviction Is Just Fantasy"
+    excerpt: "Conviction in Trump’s impeachment trial was always a long shot. Now momentum is waning, as GOP senators aren’t onboard and McConnell won’t herd them."
+    publishedDateTime: 2021-01-21T18:57:00Z
+    webUrl: "https://nymag.com/intelligencer/article/mcconnell-trump-conviction-just-fantasy.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/mcconnell-trump-conviction-just-fantasy.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/mcconnell-trump-conviction-just-fantasy.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/dde/038/bd4c60c0dce402fd6be1a0dac9e2e8e396-Mitch-McConnell.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "How Tennessee's congressional delegation voted on a second impeachment of President Donald Trump"
     excerpt: "President Trump is the only president to be impeached a second time, and the vote fell mostly along party lines. Here's how Tennessee's reps voted."
     publishedDateTime: 2021-01-13T22:33:00Z

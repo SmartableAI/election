@@ -1244,6 +1244,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Why Kamala Harris and ‘Firsts’ Matter, and Where They Fall Short"
+    excerpt: "It makes a difference when the first member of a group rises to a position of power, political science shows, but it requires “work to sustain it.”"
+    publishedDateTime: 2021-01-21T17:34:00Z
+    webUrl: "https://www.nytimes.com/2021/01/21/upshot/kamala-harris-power-firsts.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/21/upshot/kamala-harris-power-firsts.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/21/upshot/kamala-harris-power-firsts.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/21/upshot/00up-harris-firsts/00up-harris-firsts-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Kamala Harris gains prominent new role thanks to Democrats' Senate majority"
     excerpt: "Kamala Harris’s vice presidential portfolio was nebulous before last week. But thanks to Democrats’ upset victories in two Georgia Senate run-offs, Harris has unexpectedly earned a new title: Senate tie breaker."
     publishedDateTime: 2021-01-10T12:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 2530
+heat: 2570
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
     quality: 185
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120171716-01-biden-executive-order-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's solicitor general will play critical role in early efforts to undo Trump policies"
+    excerpt: "President Joe Biden will name a powerhouse lawyer, Elizabeth Prelogar, to serve as acting solicitor general, in an acknowledgment that the office charged with representing the government before the Supreme Court will face an enormous workload both reversing Trump administration legal positions and developing"
+    publishedDateTime: 2021-01-21T17:41:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sMe7UBvHXo0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/solicitor-general-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/solicitor-general-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121104423-01-joe-biden-0121-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -732,6 +748,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925213220-20200928-trump-biden-issues-immigration-gfx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Defense Department slams brakes on border wall as it reviews Biden order"
+    excerpt: "The Defense Department will pause construction of the wall along the US-Mexico border as it reviews President Joe Biden's executive order calling for construction to grind to a halt.\n    \n"
+    publishedDateTime: 2021-01-21T18:32:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VAwjkErlluY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/border-wall-joe-biden-defense-department/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/border-wall-joe-biden-defense-department/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005174514-border-wall-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

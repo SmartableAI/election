@@ -668,6 +668,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Kamala Harris's Indian uncle plans US visit amid global celebrations for VP"
+    excerpt: "Gopalan Balachandran said he wants to celebrate with her in person once it’s safe to travel"
+    publishedDateTime: 2021-01-21T17:47:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/21/kamala-harris-india-uncle-gopalan-balachandran-visit-celebrations"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/21/kamala-harris-india-uncle-gopalan-balachandran-visit-celebrations"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/21/kamala-harris-india-uncle-gopalan-balachandran-visit-celebrations"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/5a58267665441d9c25bcc09fc229ef6bdfeb593c/0_23_5374_3226/master/5374.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1f99051d74dabfa0b53a176e628e23b5"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Washington and state capitols brace for violence from armed Trump supporters"
     excerpt: "Security beefed up across US following attack on Capitol while FBI monitoring threats of violence against Biden and Harris"
     publishedDateTime: 2021-01-15T17:26:00Z

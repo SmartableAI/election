@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden Defense Secretary pick at helm when team accused of ‘watering down’ ISIS intel"
+    excerpt: "President-elect Joe Biden’s choice for secretary of defense, retired Gen. Lloyd Austin, could make history as the first Black man to serve in the position, but getting his appointment through Congress could be an uphill battle."
+    publishedDateTime: 2020-12-10T01:58:00Z
+    webUrl: "https://www.foxnews.com/politics/senior-officials-accused-of-watering-down-isis-intel-under-bidens-new-secretary-of-defense-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/senior-officials-accused-of-watering-down-isis-intel-under-bidens-new-secretary-of-defense-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senior-officials-accused-of-watering-down-isis-intel-under-bidens-new-secretary-of-defense-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d949b97e-0bd4-4ac9-a84a-f695a9768fe3/6ac99de3-ed39-49ea-93fa-03e61ba34473/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Y1VjCR7C0DqijzYlNJ+GY4Pv5TmWk1WWHipjFaMJ9zhW2zKqJJtnQr3LHi7PjYtoU4431e39iDbmaUB3bdaTiwyMFTUa2Bkg2+xmG5WdErLU0XLX5U1Adll4+ChLkXxKTQR+M6E3NoDvmGKbkano5Wxv9hUc+Qw3NhRc0n650uX6mP9+cM2qqSm5ctGRTmToKVSU3xr2UeJagNdq/5F7J7wR9HXtmWS6LhkO5ENAv1HvUV2s0xTHkafbLrjR0nZB4IajS+spiaU/a133VU/mA5noNmrpWxLPv0jhDFBs/32CxCfzfGV6N5Vp+W0cN+XB+SSkY50O6xI+0o+xGCSNMVNFdXDDf1hlfTs21dVDMWWJWMVogX2sirO4f5pQ8s4/LRWbUFNIR33ybAOZCr2atY2jQ6s+tBqOVvqYoN85Uk32C6ZnyoiEom/KDDOPDkYICpRMnbzxmsO9SJVEz2fURWnZ5fZoSwCdBxxLH8wUx8i3novQc17+8OLUOMjOLLqJElMhyH6Lc5RQ05NE+luDWg==;8U0FKs7wmqlrL1PuLrzwWQ=="
 ---

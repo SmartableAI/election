@@ -667,6 +667,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Kamala Harris's Indian uncle plans US visit amid global celebrations for VP"
+    excerpt: "Gopalan Balachandran said he wants to celebrate with her in person once it’s safe to travel"
+    publishedDateTime: 2021-01-21T17:47:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/21/kamala-harris-india-uncle-gopalan-balachandran-visit-celebrations"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/21/kamala-harris-india-uncle-gopalan-balachandran-visit-celebrations"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/21/kamala-harris-india-uncle-gopalan-balachandran-visit-celebrations"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/5a58267665441d9c25bcc09fc229ef6bdfeb593c/0_23_5374_3226/master/5374.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1f99051d74dabfa0b53a176e628e23b5"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Live Updates: Biden heads to Washington as capital gears up for inauguration"
     excerpt: "Washington — President-elect Joe Biden left his home state of Delaware on Tuesday to travel to Washington, where he will be sworn in as president of the United States at Wednesday's inauguration. In an emotional farewell to the state,"
     publishedDateTime: 2021-01-19T20:26:00Z

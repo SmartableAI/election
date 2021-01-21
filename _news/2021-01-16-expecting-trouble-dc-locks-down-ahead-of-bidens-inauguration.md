@@ -1232,6 +1232,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Hunter Biden, under federal investigation, appears at White House prayer service"
+    excerpt: "President Biden was joined by his family -- including his son Hunter, who is under investigation by the Justice Department -- at a White House prayer service Thursday, a day after being sworn into office."
+    publishedDateTime: 2021-01-21T18:10:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tt5qQU4l8RQ/hunter-biden-under-federal-investigation-appears-at-white-house-for-prayer-service"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-under-federal-investigation-appears-at-white-house-for-prayer-service.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-under-federal-investigation-appears-at-white-house-for-prayer-service.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Texas attorney general pledges to 'fight' Biden administration 'illegal actions'"
     excerpt: "Texas Attorney General Ken Paxton vowed to \"challenge federal overreach\" by President Biden’s administration following Joe Biden's inauguration on Wednesday."
     publishedDateTime: 2021-01-21T00:03:11Z
@@ -2012,6 +2028,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Chrissy Teigen followed by Joe Biden's POTUS Twitter account after being blocked by Trump"
+    excerpt: "After years of bickering with Donald Trump on social media during his presidency, Chrissy Teigen became one of the first stars followed by Joe Biden’s @POTUS Twitter account."
+    publishedDateTime: 2021-01-21T18:03:00Z
+    webUrl: "https://www.foxnews.com/entertainment/chrissy-teigen-followed-joe-biden-twitter-blocked-trump"
+    ampWebUrl: "https://www.foxnews.com/entertainment/chrissy-teigen-followed-joe-biden-twitter-blocked-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/chrissy-teigen-followed-joe-biden-twitter-blocked-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/ChrissyTeigen1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Brit Hume: Senate Dems may not move forward with Trump impeachment as attention shifts to Biden"
     excerpt: "The news media landscape is about to shift from years of daily coverage of President Donald Trump to the new administration of President-elect Joe Biden, said Fox News senior political analyst Brit Hume on Monday. Appearing on \"America's Newsroom,\" - now ..."
     publishedDateTime: 2021-01-18T18:13:00Z
@@ -2219,6 +2251,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/slaoui.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Hunter Biden, under federal investigation, appears at White House prayer service"
+    excerpt: "President Biden was joined by his family -- including his son Hunter, who is under investigation by the Justice Department -- at a White House prayer service Thursday, a day after being sworn into office."
+    publishedDateTime: 2021-01-21T18:25:00Z
+    webUrl: "https://www.foxnews.com/politics/hunter-biden-under-federal-investigation-appears-at-white-house-for-prayer-service"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-under-federal-investigation-appears-at-white-house-for-prayer-service.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-under-federal-investigation-appears-at-white-house-for-prayer-service.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump impeachment intended to keep him from seeking presidency again, Dems acknowledge"
     excerpt: "While some members of Congress have claimed that President Trump's impeachment and swift conviction are necessary to keep him from serving out the final days of his term, others have acknowledged that they are focused on keeping him from ever running again."

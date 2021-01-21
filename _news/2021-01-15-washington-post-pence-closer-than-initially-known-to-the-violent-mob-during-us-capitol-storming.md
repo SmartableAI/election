@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden wants to remove this controversial word from US laws"
+    excerpt: "It's just one small part of the sweeping immigration overhaul President Biden is pushing.\n    \n"
+    publishedDateTime: 2021-01-21T18:59:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jAHo4tRxfS0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/alien-biden-immigration-law/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/alien-biden-immigration-law/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120163716-alien-biden-immigration-law-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Washington Post: Biden to ask for US Surgeon General Jerome Adams' resignation and name acting official"
     excerpt: "President-elect Joe Biden is expected to ask for US Surgeon General Jerome Adams' resignation soon after he is sworn-in on Wednesday, and select an acting surgeon general while his permanent pick for the role of the nation's top doctor undergoes Senate confirmation, according to The Washington Post.\n"
     publishedDateTime: 2021-01-20T11:49:07Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B3AS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B3AS"
 type: article
 quality: 125
-heat: 685
+heat: 705
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201211&t=2&i=1544283034&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBA1E3"
         width: 817
         height: 545
+        isCached: true
+  - title: "Fauci praises WHO leadership in coronavirus pandemic, signaling break from Trump era"
+    excerpt: "The infectious-disease specialist confirmed President Biden’s decision to remain in the U.N. health agency and join the effort to distribute vaccines worldwide."
+    publishedDateTime: 2021-01-21T18:39:00Z
+    webUrl: "https://www.washingtonpost.com/world/fauci-coronavirus-biden-trump-who/2021/01/21/22467be6-5bce-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/fauci-coronavirus-biden-trump-who/2021/01/21/22467be6-5bce-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/fauci-coronavirus-biden-trump-who/2021/01/21/22467be6-5bce-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OSYTFUC32QI6XC6PHB3YOHEBTU.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Trump campaign lawyer Jenna Ellis has reportedly told associates she has the coronavirus"
     excerpt: "Ellis crisscrossed the country in recent days and attended a White House Christmas party that featured few masks and little social distancing."

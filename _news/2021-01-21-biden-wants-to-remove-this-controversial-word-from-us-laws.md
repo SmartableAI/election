@@ -1,0 +1,117 @@
+---
+category: news
+title: "Biden wants to remove this controversial word from US laws"
+excerpt: "It's just one small part of the sweeping immigration overhaul President Biden is pushing.\n    \n"
+publishedDateTime: 2021-01-21T18:59:07Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jAHo4tRxfS0/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jAHo4tRxfS0/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/alien-biden-immigration-law/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/alien-biden-immigration-law/index.html"
+type: article
+quality: 175
+heat: -1
+published: false
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120163716-alien-biden-immigration-law-restricted-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Joe Biden set to arrive in Washington on eve of his inauguration"
+    excerpt: "President-elect Joe Biden arrives in Washington Tuesday for the start of his inaugural ceremonies at a dark and solemn moment in American history, preparing to take his oath of office as the US approaches 400,000 coronavirus deaths and is more divided than at any time since the Civil War.\n    \n"
+    publishedDateTime: 2021-01-19T18:50:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2b-bS4R_BRc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memorial/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memorial/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118185745-field-of-flags-210118-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Washington Post: Pence closer than initially known to the violent mob during US Capitol storming "
+    excerpt: "Vice President Mike Pence came closer than initially known to the mob of pro-Trump rioters who stormed the US Capitol on January 6, according to new reporting from the Washington Post.\n    \n"
+    publishedDateTime: 2021-01-15T16:55:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VEuDu-3iRN0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/pence-mob-us-capitol-january-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/pence-mob-us-capitol-january-6/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107054511-02-congress-electoral-college-0107-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Washington Post: Biden to ask for US Surgeon General Jerome Adams' resignation and name acting official"
+    excerpt: "President-elect Joe Biden is expected to ask for US Surgeon General Jerome Adams' resignation soon after he is sworn-in on Wednesday, and select an acting surgeon general while his permanent pick for the role of the nation's top doctor undergoes Senate confirmation, according to The Washington Post.\n"
+    publishedDateTime: 2021-01-20T11:49:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Cksx-mIbmSI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/biden-jerome-adams-surgeon-general-resign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/biden-jerome-adams-surgeon-general-resign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103093854-surgeon-general-jerome-adams-covid-19-vaccine-sotu-vpx-00014023-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "With 400k Covid deaths, Biden set to take helm of nation in crisis"
+    excerpt: "With more than 400,000 souls lost to the coronavirus pandemic, President-elect Joe Biden will have his work cut out for him when he takes the helm of a polarized and pained nation tomorrow at noon. Here is what we're watching this Tuesday morning."
+    publishedDateTime: 2021-01-19T12:58:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/400k-covid-deaths-biden-set-take-helm-nation-crisis-n1254640"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254640"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254640"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_03/3443042/210119-lincoln_memorial_reflecting_pool-mc-1137_a48dc439f5ef580d138644f5f3cb857b.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "'Armed protests' warning puts officials on alert this weekend ahead of Biden inauguration"
+    excerpt: "Law enforcement and state officials are on high alert for potentially violent protests this weekend in the lead-up to Inauguration Day, with some state capitols boarded up and others temporarily closed ahead of Wednesday's ceremony."
+    publishedDateTime: 2021-01-19T15:47:00Z
+    webUrl: "https://www.cnn.com/2021/01/16/us/inauguration-protests-saturday/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/us/inauguration-protests-saturday/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/us/inauguration-protests-saturday/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 126
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116204718-capitol-fence-jan-15-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "gbDF4wHLZPHcDZuCZybzt0YuLTNF5ts2f5IawlxruGaj3lQxKUH63MNYx/GpjSTxEb0IqXRSAWSt8QgTWQkUarJiog8TtBFm8s4wP29J5a70MltmlXT+jw/A4u8vws8Br6QhP8566rIckAIWu/hGKsKCQEw+hgW+5ZR31PP/MniP7vpuw5m3DDHrM0Oeiq/jJ6OCplubf7XikoEVlmaVLYsGPUpuSFtpZpcq3ASwUyFZtWltDhbRXBOTrboyAdwyDwRDZ2dElutufWKblZ+c8bMCixrNQPboTtGaO7dEx/jl0wS7r5eFS/xIMqyIfoazXLhe4X+D4CsG4NqLgMBhnSxpUnvZp/JfTQvwpS1vTjA=;rVStOONWUMkCSTkfEwFssQ=="
+---
+

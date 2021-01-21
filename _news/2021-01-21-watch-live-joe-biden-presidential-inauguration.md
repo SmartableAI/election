@@ -873,6 +873,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden selects Slaughter as acting chair of the Federal Trade Commission"
+    excerpt: "President Joe Biden appointed Rebecca Kelly Slaughter as the acting chairwoman of the Federal Trade Commission, a move that positions the Washington watchdog agency to take on a more aggressive role in policing Facebook,"
+    publishedDateTime: 2021-01-21T18:53:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/01/21/biden-ftc-fcc-chair/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/01/21/biden-ftc-fcc-chair/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/21/biden-ftc-fcc-chair/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EJNJZLCM7QI6VFT34B2NGAWH2Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden takes the helm, appeals for unity to take on crises"
     excerpt: "Joe Biden has taken the helm as the 46th president of the United States, summoning American resilience and unity to confront a historic confluence of crises"
     publishedDateTime: 2021-01-21T16:41:00Z
@@ -888,6 +904,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_3da8878442c4471d824b758c9d653ec4_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Hope and inspiration at Joe Biden inauguration"
+    excerpt: "Frank Paice reflects on Amanda Gorman’s powerful poem at the ceremony and Geoff Skinner wonders if the UK will also be brave enough to tackle racism. Plus Joan Furtado on why Trump should be happy"
+    publishedDateTime: 2021-01-21T17:52:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/21/hope-and-inspiration-at-joe-biden-inauguration"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/21/hope-and-inspiration-at-joe-biden-inauguration"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/21/hope-and-inspiration-at-joe-biden-inauguration"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/00116a9a9479bb32c5a832a4be85e7fbff37dc1d/0_43_5169_3101/master/5169.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b44b4b074f58454f12ca9053f3ad11e9"
+        width: 600
+        height: 360
         isCached: true
   - title: "Time, transparency needed as Biden inherits frazzled census"
     excerpt: "The 2020 census has been battered by criticism that it was politicized by the administration of former President Donald Trump"
@@ -1000,6 +1032,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/c18f9e6/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1f%2F2b%2F839382a4472bb54b06abdddeec56%2Fbiden-inauguration-66515.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "What Biden faces if he wants to get the climate change effort back on track"
+    excerpt: "Just hours into his presidency, Joe Biden announced that the United States would rejoin the Paris agreement on climate change. This reverses his predecessor’s move in June 2017, which triggered the U."
+    publishedDateTime: 2021-01-21T18:03:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/21/what-biden-faces-if-he-wants-get-climate-change-effort-back-track/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/21/what-biden-faces-if-he-wants-get-climate-change-effort-back-track/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/21/what-biden-faces-if-he-wants-get-climate-change-effort-back-track/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OPCOO4S2QUI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "The Health 202: It's still unclear who will lead HHS after Biden is sworn in"
     excerpt: "The president-elect will need to designate many temporary agency heads before the Senate confirms his nominees."
@@ -1681,6 +1729,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/20/8ad4dce2-c522-4740-af2b-206cec749e05/thumbnail/1200x630/42610ef5eab2dd84b7fc159084840d7e/cbsn-fusion-watch-joe-biden-sworn-in-as-46th-president-of-the-united-states-thumbnail-629799-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The world reacts to Biden becoming president"
+    excerpt: "Watch \"The world reacts to Joe Biden becoming the U.S. president\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-01-21T18:37:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210121182538-the-world-reacts-to-joe-biden-becoming-the-u-s-president/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/21/story_08654804_1611253864.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden's inauguration is unlike any before. Photos show how his ceremony compares to those of previous presidents."
     excerpt: "Due to COVID-19 and the threat of violence from far-right groups, the inauguration of President-elect Biden is unlike past ceremonies."

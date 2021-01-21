@@ -1242,6 +1242,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Why Kamala Harris and ‘Firsts’ Matter, and Where They Fall Short"
+    excerpt: "It makes a difference when the first member of a group rises to a position of power, political science shows, but it requires “work to sustain it.”"
+    publishedDateTime: 2021-01-21T17:34:00Z
+    webUrl: "https://www.nytimes.com/2021/01/21/upshot/kamala-harris-power-firsts.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/21/upshot/kamala-harris-power-firsts.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/21/upshot/kamala-harris-power-firsts.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/21/upshot/00up-harris-firsts/00up-harris-firsts-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "What’s It Like to Have Kamala Harris As ‘Momala’? We Asked Her Stepkids."
     excerpt: "But on the night that Joe Biden and his vice-presidential running mate, Kamala Harris, delivered their acceptance speeches, with their families gathered onstage, watching fireworks, Cole began receiving astonished texts from friends and colleagues."
     publishedDateTime: 2021-01-17T08:00:00Z

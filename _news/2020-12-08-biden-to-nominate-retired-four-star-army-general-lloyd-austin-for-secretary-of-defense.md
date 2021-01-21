@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-to-nominate-a-four-star-army-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-nominate-a-four-star-army-general-for-secretary-of-defense.amp"
 type: article
 quality: 167
-heat: 187
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden Defense Secretary pick at helm when team accused of ‘watering down’ ISIS intel"
-    excerpt: "President-elect Joe Biden’s choice for secretary of defense, retired Gen. Lloyd Austin, could make history as the first Black man to serve in the position, but getting his appointment through Congress could be an uphill battle."
-    publishedDateTime: 2020-12-10T01:58:00Z
-    webUrl: "https://www.foxnews.com/politics/senior-officials-accused-of-watering-down-isis-intel-under-bidens-new-secretary-of-defense-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/senior-officials-accused-of-watering-down-isis-intel-under-bidens-new-secretary-of-defense-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senior-officials-accused-of-watering-down-isis-intel-under-bidens-new-secretary-of-defense-pick.amp"
+  - title: "House expected to approve waiver for Biden's Defense Secretary nominee Lloyd Austin"
+    excerpt: "President Biden's nominee for Secretary of Defense is expected to clear an important hurdle Thursday in his pathway to confirmation of the new cabinet."
+    publishedDateTime: 2021-01-21T18:57:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wCtQWjpjxJA/house-waiver-biden-secretary-defense-nominee-lloyd-austin"
+    ampWebUrl: "https://www.foxnews.com/politics/house-waiver-biden-secretary-defense-nominee-lloyd-austin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-waiver-biden-secretary-defense-nominee-lloyd-austin.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 128
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d949b97e-0bd4-4ac9-a84a-f695a9768fe3/6ac99de3-ed39-49ea-93fa-03e61ba34473/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Gen.-Lloyd-Austin-III.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Acting DHS secretary: We want to leave 'no stone unturned' in securing Biden inauguration"
+    excerpt: "Acting Homeland Security Secretary Peter Gaynor told \"America Reports\" Monday that there is a \"heightened sense of alert\" surrounding the security preparations for Joe Biden's inauguration."
+    publishedDateTime: 2021-01-18T21:57:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gxODbRKz3tI/inauguration-security-national-guard-fbi-dhs-peter-gaynor"
+    ampWebUrl: "https://www.foxnews.com/politics/inauguration-security-national-guard-fbi-dhs-peter-gaynor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/inauguration-security-national-guard-fbi-dhs-peter-gaynor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "JU3r4mCm3cjplLHNysE/zREtbw2qlujgVhF5Vvgv7tDi17ULX5ho9JtbBEPZt/kjSLD8zNs8btuaifUb8WEPgIwK0LumUNKNibMhVZbd0njS+Q9hYDP0H6+8RRhneipsK+WNvFfpzWvlZBu/vksSrPKkzoNpM+VMLEbIxpNxb7gHtDElyejZ8dv+UokiGjRlM6jbwWM4NX2k43qzsTimSlIA6YzgUfWwmwM/P07XwES0EvHkFpSQQh4K8dkYCUyNdpsYuuYID6X+CFPQ58iQzGKWsz19W6YrDkmBVYTreVM7Sdj1dxI2WsxvMw1QEWSjrGP82dFaRouYQFT+F5V1km6SGc49bMZoq3579gAH4+s=;Z1+f00ItAjb3/hSLvU6poA=="
