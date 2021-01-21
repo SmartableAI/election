@@ -63,6 +63,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Trump has no legal team or strategy for Capitol riot impeachment trial"
+    excerpt: "The Senate impeachment trial for Donald Trump could begin next week. He is accused of sparking an attack on the Capitol that left five people dead."
+    publishedDateTime: 2021-01-21T16:38:00Z
+    webUrl: "https://www.cnbc.com/2021/01/21/trump-not-prepared-for-senate-impeachment-trial-for-capitol-riots.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/01/21/trump-not-prepared-for-senate-impeachment-trial-for-capitol-riots.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/21/trump-not-prepared-for-senate-impeachment-trial-for-capitol-riots.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 125
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106827184-16111648322021-01-20t165443z_1960081436_rc2sbl9yb3g1_rtrmadp_0_usa-trump.jpeg?v=1611164864"
+        width: 2670
+        height: 1764
+        isCached: true
   - title: "The symbols of hate and far-right extremism on display in pro-Trump Capitol siege"
     excerpt: "Trump mob stormed the U.S. Capitol, symbols of white supremacy and extremist right wing militias were displayed by some rioters on flags, banners and clothing."
     publishedDateTime: 2021-01-14T15:01:00Z

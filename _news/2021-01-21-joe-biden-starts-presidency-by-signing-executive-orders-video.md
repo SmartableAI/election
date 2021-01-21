@@ -877,6 +877,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden takes the helm, appeals for unity to take on crises"
+    excerpt: "Joe Biden has taken the helm as the 46th president of the United States, summoning American resilience and unity to confront a historic confluence of crises"
+    publishedDateTime: 2021-01-21T16:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/facing-crush-crises-biden-helm-president-75362656"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/facing-crush-crises-biden-helm-president-75362656"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/facing-crush-crises-biden-helm-president-75362656"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_3da8878442c4471d824b758c9d653ec4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Time, transparency needed as Biden inherits frazzled census"
+    excerpt: "The 2020 census has been battered by criticism that it was politicized by the administration of former President Donald Trump"
+    publishedDateTime: 2021-01-21T16:30:00Z
+    webUrl: "https://www.washingtonpost.com/health/time-transparency-needed-as-biden-inherits-frazzled-census/2021/01/21/0152ad4c-5c05-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/time-transparency-needed-as-biden-inherits-frazzled-census/2021/01/21/0152ad4c-5c05-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/time-transparency-needed-as-biden-inherits-frazzled-census/2021/01/21/0152ad4c-5c05-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden must find words for a wounded nation in inauguration like no other"
     excerpt: "Planners have been forced to be inventive after the deadly pandemic and now last week’s Capitol insurrection dictated a pared-down event"
     publishedDateTime: 2021-01-16T07:00:00Z
@@ -1656,6 +1688,22 @@ related:
         width: 980
         height: 490
         isCached: true
+  - title: "Portland police arrest 8 after rioters damage Democratic Party office, ICE facility following Biden's inauguration"
+    excerpt: "At least eight people were arrested in Portland on Wednesday night after rioters damaged both federal and private property, police said."
+    publishedDateTime: 2021-01-21T16:27:00Z
+    webUrl: "https://abcnews.go.com/US/portland-police-arrest-rioters-damage-democratic-party-office/story?id=75398433"
+    ampWebUrl: "https://abcnews.go.com/amp/US/portland-police-arrest-rioters-damage-democratic-party-office/story?id=75398433"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/portland-police-arrest-rioters-damage-democratic-party-office/story?id=75398433"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 103
+    images:
+      - url: "https://s.abcnews.com/images/US/portland-protests-3-ap-210_hpMain_20210121-054051_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden launches new Twitter account to build following before taking command of White House @POTUS on Inauguration Day"
     excerpt: "When Joe Biden is sworn in on Wednesday, he will take command of the @POTUS and @WhiteHouse Twitter accounts in another official transfer of power."
     publishedDateTime: 2021-01-16T23:59:00Z
@@ -2373,6 +2421,6 @@ related:
         height: 800
         isCached: true
 
-secured: "gbdNDocHyk2BWBNX5egtfFRWQbzCL9t6c/xumkq73VjXz8TouRIt5hj1mWDHXCje5rnyKvuOYKuCIuacCxyPxt/Tdzxjb70MhZTzWnBWF3/6WGiegYji5bdxEEnoWZfKBUU52q7927lkMlA1i7Bx305eqt2/MbXV6ZHEgWDKRUk5fz0820lh0usO0bl8TGwZXpcOgR2WwkvHyrIdfoNkoqYNOgyNb6T6NX4kJJt+7ThRTEFWWxrXa765x1Juqioar4n9UUO8EzJOLEpKmJu8LVk3xte9ouVmDVgL0GTahV2SuUNcdOE+4akUyTpsVNIang43uq2P/xxOlkJyPfF/xuTXt6vH9OnX6wPAI3+Mexw=;M3fR0AjFbR+EnUW72vV/Ow=="
+secured: "P39Pf6tlwgDGUUW5+xpGaX1AWK7opcNLXO2TZroM9tiTln8xf5zyP6eeL1G2l5pJRvbdw9KINthkQIZE5sq/UODmdOxCuQyY7Q6NcTamZhgz//374mu9kt6ztWOeaBWT5vcPy/mPzKBy5cIR4/hSZqxH4JU7g0Zmc6uFP2lYqB4L2l6MGldTUk/PRKUflXbaPcRpcBvvXMzz1wuUYKZNvJkLzFyudaUnfG87XKJh/cbqMj0QCTFSigQ06xuTplPmnPRZPAX1vu1a3aUx+S+tj8ApFDCZOEL+k0zXKWTppRxyYwYiaJPCvaWsz5KfRYowLm/GP8+X7ZT2UBC04bunnVfD6WAWuMqYXXWiR2OR6nOIDqcDQcnXOVUF87YRFWlG7s9TvnrOelFEsmKQUJNCdPV74hTRf7hFUJPzt819azwyjm3+Q+1wOJ9tah571ukRERxTbDYM0h6OTfPA9VMBqc3r/VzChSrM1/DT8e0B70gcOn8QaWfduVKKn/X1+xqzJ3nKrSlioqfh/YlIT/PoRg==;mvbsQis//lHISdpkUE4ihQ=="
 ---
 

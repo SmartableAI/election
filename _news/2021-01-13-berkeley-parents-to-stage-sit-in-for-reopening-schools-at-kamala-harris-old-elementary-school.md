@@ -55,6 +55,20 @@ related:
         width: 2048
         height: 1352
         isCached: true
+  - title: "'We want to gloat': Vice President Kamala Harris' San Antonio sorority sisters celebrate"
+    excerpt: "San Antonio women are celebrating one of their own as Kamala Harris becomes the first woman of color to be inaugurated as vice president of the United States."
+    publishedDateTime: 2021-01-20T17:04:00Z
+    webUrl: "https://www.sfchronicle.com/news/local/article/Vice-President-Kamala-Harris-alpha-kappa-alpha-15884703.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 46
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/20/26/20514213/3/rawImage.jpg"
+        width: 2048
+        height: 1387
+        isCached: true
 
 secured: "g2jq6AYO8uK88Ex9ZJAOAfFnsl2E89CUEJoGIBhnFzltuL2tvGTBFdCF7YWO89ZblDflks9wlivvd2IeRAZoKem0K3FzrTUT5R5yjp7ZKrjajX/tRDZRlpNyClaxsUQqTosaNiGPJslnBcL7x7l21VDkHWJrEbOSbK2Luz7gSRklBE31/muhvvl5AJcSUb9R6zwuUOzYpKBfjugHvs7BHtCJuVdLVDSVkInEqdkBLDG1PkzDMSqHfTr2nMnTW49reDRuCehq5MshJqE/8GYHAj9jVlvbFJn5KkNs8Aq+xl8gySMok293dzyda1HjvFNgBg6ifwkNMssLenvjhvI7otTNyvozQwyrNE030wJ1v4gYAifhBB6l2j6A8Om2Ju24oCElRqxiqJcyZiz3r6gsSvhWjifOQUASYHttbjOtNjj2sDxNdNFUNwU1NgGPbpuDBqwWNZ37F+yNAvYEnQ3CctooNpdaYu5jdx1AbRygDt0jKYnEOiTy9a2n+rJOSU++J4cEYLiV1QMmdW8q3UUrzA==;UDwLyYlE2ggpac4KVHsMCQ=="
 ---

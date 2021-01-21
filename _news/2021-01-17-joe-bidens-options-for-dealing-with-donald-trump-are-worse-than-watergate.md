@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donal
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1"
 type: article
 quality: 148
-heat: 1728
+heat: 1768
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
     quality: 134
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/326P67B4AAI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "China fires parting sanctions at Trump officials; seeks ‘better angels’ in Biden team"
+    excerpt: "But Beijing’s first move of the Biden era, a raft of sanctions against officials including former secretary of state Mike Pompeo, fell flat."
+    publishedDateTime: 2021-01-21T16:09:00Z
+    webUrl: "https://www.washingtonpost.com/world/asia_pacific/china-sanctions-pompeo-trump/2021/01/20/9c44ced4-5b92-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/asia_pacific/china-sanctions-pompeo-trump/2021/01/20/9c44ced4-5b92-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/asia_pacific/china-sanctions-pompeo-trump/2021/01/20/9c44ced4-5b92-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 133
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U3Y2MVS3T4I6XC6PHB3YOHEBTU.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
@@ -858,6 +874,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/gettyimages-1297446271.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden revokes Trump report promoting ‘patriotic education’"
+    excerpt: "Biden disbanded Donald Trump’s presidential 1776 Commission and withdrew a report it released Monday. Trump established the group to rally support from white voters and as a response to The New York Times’ “1619 Project,"
+    publishedDateTime: 2021-01-21T16:41:00Z
+    webUrl: "https://www.al.com/news/2021/01/biden-revokes-trump-report-promoting-patriotic-education.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/biden-revokes-trump-report-promoting-patriotic-education.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/biden-revokes-trump-report-promoting-patriotic-education.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EC233CBMI5GPJAZ5I7IDV675JI.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Melania Trump Faces Criticism For Not Giving Jill Biden White House Tour"
     excerpt: "Melania Trump received backlash on social media after reports said she broke tradition by not giving incoming first lady Jill Biden a pre-inauguration tour of the White House."

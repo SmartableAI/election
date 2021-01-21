@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28D1IC"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28D1IC"
 type: article
 quality: 124
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 118
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201204&t=2&i=1543441769&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB3063"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Explainer: With no self-pardon in hand, private citizen Trump faces uncertain legal future"
+    excerpt: "Donald Trump issued a list of pardons during his final hours as U.S. president but did not include himself, his children, or personal lawyer Rudy Giuliani, even though advisers said he had privately debated the extraordinary step of a self-pardon."
+    publishedDateTime: 2021-01-21T16:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pardons-legal-explainer-idUSKBN29Q1BP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q1BP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q1BP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548568729&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K0ND"
         width: 817
         height: 545
         isCached: true

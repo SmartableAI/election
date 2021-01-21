@@ -8,7 +8,7 @@ webUrl: "https://www.nbcnews.com/news/world/rebuked-china-echoes-biden-s-call-be
 ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255116"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255116"
 type: article
-quality: 128
+quality: 138
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Joe Biden
   - Democratic Voice
+  - Donald Trump
 
 images:
   - url: "https://media4.s-nbcnews.com/i/newscms/2021_03/3443881/210121-china-inauguration-mc-9127_1487f22dbf24259451e46bea040ae839.JPG"
@@ -704,6 +705,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "US Surgeon General Jerome Adams asked to step down by Biden team"
+    excerpt: "President-elect Joe Biden is expected to ask for US Surgeon General Jerome Adams' resignation soon after he is sworn-in on Wednesday, and select an acting surgeon general while his permanent pick for the role of the nation's top doctor undergoes Senate confirmation, according to The Washington Post.\n"
+    publishedDateTime: 2021-01-21T15:21:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Cksx-mIbmSI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/biden-jerome-adams-surgeon-general-resign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/biden-jerome-adams-surgeon-general-resign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103093854-surgeon-general-jerome-adams-covid-19-vaccine-sotu-vpx-00014023-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "As Trump leaves the stage, Republicans grapple with new conspiracy caucus"
     excerpt: "Donald Trump may be leaving the White House in a few days, but the umbrella of conspiracy theories he inspired are only just arriving in Washington.\n    \n"
     publishedDateTime: 2021-01-16T20:34:42Z
@@ -829,6 +846,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120155118-04-biden-parade-waving-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "As expected, Biden intends to keep FBI director in his post, an official says"
+    excerpt: "President Joe Biden intends to keep FBI Director Christopher Wray in his post, a senior administration official tells CNN, a sign of confidence for the bureau's leader who has more than six years remaining in his term.\n    \n"
+    publishedDateTime: 2021-01-21T14:54:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/91tCJ3GEq24/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/christopher-wray-fbi-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/christopher-wray-fbi-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216092212-01-christopher-wray-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1865,6 +1898,6 @@ related:
         height: 773
         isCached: true
 
-secured: "i2Bag0dgNgOZSB1M0hn6FXDDojbKX6+r+KyHUmEEFvx4KLFEWjMj3jbPNyjR85JrOldevgMx35nZFqprFlQAXV5hV5VGTvXAaRDx3/7AVSpZXl16nxSTgRPSPYAR6SiG3NVkGy8+U57R8TdaTdC6FiZb7LVkliw+CS+inWkRVDTzq8+kNuWIR7QKOPRxOjhCo5IMo2cemGSQ5i/yOgkrJgG+7gR1AEN+pO8IdDjEHvO5czMpxuoerLfxy5UzpOCYN3PaBWljofYZNeFY2Sxq5n8m5U5C1vs8b/fYugF5xOkGJtQUTe51dvqW7IU/QslQJQSV5fe7WrAA35DIBO7paND09SAjlDIhiDprr+Hhnmo=;A2a50RxJk54atrVJFeZHmA=="
+secured: "auI1DTSWYfUjjtLpGFQSNpNPFiesmgZ3z8vRDTrqXD8BA9qNEKJUpVEf8UedCypWI8uYETT9ozSdaQMD3xnXa2VqHpArdT7IfvsWsBuTKKJjui0qaQUGjv7yjq6M0nacZ4s8p9rMRXkU/rogAWMkAZc04rUR4/LkNHqOaJg+Pq2L6o2LDsRpWttRgubwjxtXSsJtXXt2lnt0FsKaa7wG+fAWQxSJxunSkjssoDqNpRYRWbrkIpu3+yBRfHb5BTZMEOsS6a8fRxsB5M/n+JOrswrOqL1raeWQUOuj2RtCQUgqDyNL6zN+LpqAnf5POftFoFgUeJkCngQq9UT0qfx+7rOMUtKw0J3cvfrfu7l2yWazgzyouzHqDu4es4QqF7mUeAuxh+cCQY9pOx9Lsbiu9DTt4KnSok0OP0jY2oYG6P8o1aDMUVNZyIY1+d+/8Mnw1FZNqp1ABfkPSkjzDjRsJHWbSKzWwTWIJXglS94Ubb9/LXKl9W7ilaEMAUL4oQRc16F9bu6rYi9kyE++JXbpLw==;0ULnyiVZ/7wxuFbNumqyWQ=="
 ---
 

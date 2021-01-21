@@ -2300,6 +2300,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "The Village People respond to Donald Trump using 'Y.M.C.A.' in his final remarks as president"
+    excerpt: "The Village People issued a response after Donald Trump defiantly used their hit “Y.M.C.A.” one last time at his final address as president Wednesday."
+    publishedDateTime: 2021-01-21T15:26:00Z
+    webUrl: "https://www.foxnews.com/entertainment/village-people-donald-trump-ymca-final-remarks-president"
+    ampWebUrl: "https://www.foxnews.com/entertainment/village-people-donald-trump-ymca-final-remarks-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/village-people-donald-trump-ymca-final-remarks-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Village-People-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Start of Trump Impeachment Trial Uncertain; Prosecutors Report Evidence of Advance Coordination"
     excerpt: "Democrats are wrestling with when to start the Senate impeachment trial for President Trump as Washington boosts security for Joe Biden's inauguration."
     publishedDateTime: 2021-01-16T22:52:00Z

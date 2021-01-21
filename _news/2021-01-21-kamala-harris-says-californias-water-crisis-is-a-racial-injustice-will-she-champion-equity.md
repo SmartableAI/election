@@ -8,7 +8,7 @@ webUrl: "https://www.sacbee.com/news/california/article248643865.html"
 ampWebUrl: "https://amp.sacbee.com/news/california/article248643865.html"
 cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article248643865.html"
 type: article
-quality: 44
+quality: 64
 heat: -1
 published: false
 
@@ -19,6 +19,12 @@ provider:
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/a5505992-af37-4a21-98ec-312f202c7420/396453a2-5816-4b39-b65c-a0acd9a30685/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Trump plans to depart Washington Inauguration Day morning, while Pence, Harris speak"
@@ -762,6 +768,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KDCAUQS3EQI6XKCJN6KCHJ277U.jpg&w=1440"
         width: 1440
         height: 1097
+        isCached: true
+  - title: "The Internet loved seeing Eugene Goodman escort Kamala Harris to the inauguration"
+    excerpt: "Eugene Goodman is a Capitol Police officer who diverted a mob during the insurrection on the Capitol. Goodman has since been promoted and escorted Vice President Harris to the inauguration. Since Capitol Police officer Eugene Goodman risked his own safety to divert a mob from the Senate chamber during the insurrection at the United States Capitol,"
+    publishedDateTime: 2021-01-21T16:16:00Z
+    webUrl: "https://thehill.com/changing-america/enrichment/arts-culture/535205-the-internet-loved-seeing-eugene-goodman-escort"
+    ampWebUrl: "https://thehill.com/changing-america/enrichment/arts-culture/535205-the-internet-loved-seeing-eugene-goodman-escort?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/arts-culture/535205-the-internet-loved-seeing-eugene-goodman-escort?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 120
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_goodman_getty_0.jpg"
+        width: 1440
+        height: 880
         isCached: true
   - title: "Trump wishes new administration 'success' as Pence reveals he will skip outgoing president's farewell event – live"
     excerpt: "White House releases Trump farewell address amid preparations for Biden inauguration – follow live"
@@ -2675,6 +2697,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "AhyzUYEc5QMkDpXX5ZYhH1S+FrAsBr5MlD33iEdNXV6XTKFxdDBQFDD3I5D5D9/6GFafofczF0Sl1cRkaUtHnN5+Ldik6fFGF7dfQypBvgwkuUh8oeTs0vU++tCpgZzsedSYvObEf8zHC9OsBRWB4j+9F8rriCLgrjzZoZdoGLlhnaHhgd2lnAT7f6aMFPdRhpfnoLAZla6YgZeumRs/Ujd6Lx+PDk1x7c+MIYcEet3y0uY7JbgX/oHmT8ZXn0/p6951N+9HlTiAremdraHYpMXkKX3SWDKUC3E1EWsqUhJGBF5eaEAdr+87G9vBMc3awdxVxnroxA5+t13Vrwbgwq3DOG7SwnybvPwAwEbp1mk=;zwGqtq5MGz/Rp4/GIqWrtg=="
+secured: "rEuDRgSjK7YM9dpJyZdrH52cxr3bJyYKeO8S9i9RfK0ncHa4NA7HLWFijnpk9ijwjtZ94c5fNDtH99NR1I24Mx0ylU45fKd5DL/0OAfcKO50grkdaySsKsrNkMTLKi2Omj5vCscTg4HFlZEtWR+T7M1b2ecl0RRCwLx8iGx+qB7IyjrPto4RAOF8bnumKzam9ETWUfh4UROSOt0rkHNuvF3qoUtMwLB8CrAA2BikturPW66fxwfyxsZztDbo2eHlyhGmiiRWCmojBhbclHiDx41DkWuM5+lutPHeoSb6H1LiCklAIwBtdeq2JbYutF3WlR4tsOH2fbAaLgQq7uKRah+ahthWCqn/4yK9JqBn0CM=;gcJKr3O9J7/zQc4Pgkvgew=="
 ---
 

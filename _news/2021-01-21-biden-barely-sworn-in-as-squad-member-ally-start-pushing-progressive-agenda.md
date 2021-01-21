@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden removes Churchill bust from Oval Office as part of redesign"
+    excerpt: "President Biden has removed the bust of former U.K. Prime Minister Winston Churchill from display in the Oval Office -- tapping back into an Obama-era controversy over the bust."
+    publishedDateTime: 2021-01-21T15:19:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2SR5HAJADhY/biden-churchill-bust-oval-office"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-churchill-bust-oval-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-churchill-bust-oval-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0584f070-1f97-4141-9508-808b691dda7c/944ea7cf-d0af-40d5-b05e-e7af870b5dac/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden spotted maskless on federal property hours after signing mandate"
     excerpt: "President Biden faced criticism for removing his face mask while visiting the Lincoln Memorial on Wednesday night ... hours after signing an executive order requiring masks on federal property."
     publishedDateTime: 2021-01-21T14:54:11Z

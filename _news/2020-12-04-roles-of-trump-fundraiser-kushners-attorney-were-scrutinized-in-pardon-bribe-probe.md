@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Explainer: With no self-pardon in hand, private citizen Trump faces uncertain legal future"
+    excerpt: "Donald Trump issued a list of pardons during his final hours as U.S. president but did not include himself, his children, or personal lawyer Rudy Giuliani, even though advisers said he had privately debated the extraordinary step of a self-pardon."
+    publishedDateTime: 2021-01-21T16:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pardons-legal-explainer-idUSKBN29Q1BP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q1BP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q1BP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548568729&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K0ND"
+        width: 817
+        height: 545
+        isCached: true
 
 secured: "qiNIWje9yd76v/6XCubgzHdNg6+7pKwTbZQwYJv7/USRYP75yMn4OfoWHyEABtMAiBjPPTs5vP7h9w9u/saIsRH4XWVZGRsKnMQ72atVbQfwxUorACku592e7DzV6y9x17OhhOk4UkS25GkG2aIMKz9WaJWSG0fFVfl30peCR4U6FDRuGTo7rRtI00SfV385dFGZaJi6F5R+wix4dyvh3W2A3wnCqb4cYqZoYFIRJTREBH45J/O/Nzb6iCfS2PTv34xsadYGklHaCdppPMVch5ojPg8nuAzZ+3B8hfrmVpc3Qr+EhiDYHRq0Cif43S6UWPMq656DOtfkPVKXNqIMcX4F/olTi8eFCnkbV9z9J0Y=;MKZ+cI5F+m1KXCsb6TGhvw=="
 ---

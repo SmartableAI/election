@@ -111,6 +111,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden to keep Wray as FBI director"
+    excerpt: "President Biden is expected to keep FBI Director Christopher Wray in his post during his administration, Fox News has learned."
+    publishedDateTime: 2021-01-21T16:33:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yf53wBsD-48/biden-keeps-fbi-director-wray"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-keeps-fbi-director-wray.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keeps-fbi-director-wray.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Consulting firm linked to Biden's cabinet scrubs China work from website"
     excerpt: "WestExec, a Washington, D.C. consulting firm, has reportedly scrubbed its work with China from its website as its history receives more scrutiny in the lead-up to Joe Biden’s presidency."
     publishedDateTime: 2020-12-03T02:23:42Z

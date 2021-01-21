@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-plans-depart-washington-in
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643"
 type: article
 quality: 158
-heat: 3678
+heat: 3698
 published: true
 
 provider:
@@ -757,6 +757,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KDCAUQS3EQI6XKCJN6KCHJ277U.jpg&w=1440"
         width: 1440
         height: 1097
+        isCached: true
+  - title: "The Internet loved seeing Eugene Goodman escort Kamala Harris to the inauguration"
+    excerpt: "Eugene Goodman is a Capitol Police officer who diverted a mob during the insurrection on the Capitol. Goodman has since been promoted and escorted Vice President Harris to the inauguration. Since Capitol Police officer Eugene Goodman risked his own safety to divert a mob from the Senate chamber during the insurrection at the United States Capitol,"
+    publishedDateTime: 2021-01-21T16:16:00Z
+    webUrl: "https://thehill.com/changing-america/enrichment/arts-culture/535205-the-internet-loved-seeing-eugene-goodman-escort"
+    ampWebUrl: "https://thehill.com/changing-america/enrichment/arts-culture/535205-the-internet-loved-seeing-eugene-goodman-escort?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/arts-culture/535205-the-internet-loved-seeing-eugene-goodman-escort?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 120
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_goodman_getty_0.jpg"
+        width: 1440
+        height: 880
         isCached: true
   - title: "Trump wishes new administration 'success' as Pence reveals he will skip outgoing president's farewell event – live"
     excerpt: "White House releases Trump farewell address amid preparations for Biden inauguration – follow live"
@@ -2255,6 +2271,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris says California’s water crisis is a racial injustice. Will she champion equity?"
+    excerpt: "Racism is fueling disparities in access to safe water,” Senator Kamala Harris said before she was elected vice president."
+    publishedDateTime: 2021-01-21T12:00:00Z
+    webUrl: "https://www.sacbee.com/news/california/article248643865.html"
+    ampWebUrl: "https://amp.sacbee.com/news/california/article248643865.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article248643865.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 64
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/a5505992-af37-4a21-98ec-312f202c7420/396453a2-5816-4b39-b65c-a0acd9a30685/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Warriors post inspiring video celebrating Oakland native Kamala Harris ahead of Inauguration"
     excerpt: "The Golden State Warriors honored Harris in a video the team account posted on Twitter on Wednesday. The video features a young girl, Stella, from Oakland. “I like that Kamala is from Oakland, too,” Stella says."
     publishedDateTime: 2021-01-20T22:12:00Z
@@ -2585,17 +2617,6 @@ related:
       name: TribLIVE.com
       domain: triblive.com
     quality: 50
-  - title: "Kamala Harris says California’s water crisis is a racial injustice. Will she champion equity?"
-    excerpt: "Racism is fueling disparities in access to safe water,” Senator Kamala Harris said before she was elected vice president."
-    publishedDateTime: 2021-01-21T12:00:00Z
-    webUrl: "https://www.sacbee.com/news/california/article248643865.html"
-    ampWebUrl: "https://amp.sacbee.com/news/california/article248643865.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article248643865.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 44
   - title: "Donald Trump bids farewell to Washington, hints of a comeback: ‘So just a goodbye. We love you.’"
     excerpt: "So just a goodbye. We love you,” Trump told supporters at Joint Base Andrews in Maryland where he walked across a red carpet and boarded Air Force One to head to Florida. “We will be back in some form."
     publishedDateTime: 2021-01-20T18:04:00Z

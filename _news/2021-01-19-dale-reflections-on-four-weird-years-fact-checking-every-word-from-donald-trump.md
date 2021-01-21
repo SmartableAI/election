@@ -703,6 +703,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "US Surgeon General Jerome Adams asked to step down by Biden team"
+    excerpt: "President-elect Joe Biden is expected to ask for US Surgeon General Jerome Adams' resignation soon after he is sworn-in on Wednesday, and select an acting surgeon general while his permanent pick for the role of the nation's top doctor undergoes Senate confirmation, according to The Washington Post.\n"
+    publishedDateTime: 2021-01-21T15:21:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Cksx-mIbmSI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/biden-jerome-adams-surgeon-general-resign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/biden-jerome-adams-surgeon-general-resign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103093854-surgeon-general-jerome-adams-covid-19-vaccine-sotu-vpx-00014023-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "As Trump leaves the stage, Republicans grapple with new conspiracy caucus"
     excerpt: "Donald Trump may be leaving the White House in a few days, but the umbrella of conspiracy theories he inspired are only just arriving in Washington.\n    \n"
     publishedDateTime: 2021-01-16T20:34:42Z
@@ -828,6 +844,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120155118-04-biden-parade-waving-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "As expected, Biden intends to keep FBI director in his post, an official says"
+    excerpt: "President Joe Biden intends to keep FBI Director Christopher Wray in his post, a senior administration official tells CNN, a sign of confidence for the bureau's leader who has more than six years remaining in his term.\n    \n"
+    publishedDateTime: 2021-01-21T14:54:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/91tCJ3GEq24/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/christopher-wray-fbi-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/christopher-wray-fbi-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216092212-01-christopher-wray-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1262,6 +1294,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_03/3443371/210119-joe-biden-ac-949p_6c85f374070b451616089a7f12e1798d.jpg"
         width: 2500
         height: 1659
+        isCached: true
+  - title: "Rebuked China echoes Biden's call for 'better angels' to heal relations with America"
+    excerpt: "Within hours of President Joe Biden's inauguration, his foreign policy team began wrangling with one of the administration's biggest challenges: China. The U.S. labeled as \"unproductive and cynical\" a slew of sanctions China imposed on outgoing Donald Trump officials just as the inauguration was taking place."
+    publishedDateTime: 2021-01-21T12:44:00Z
+    webUrl: "https://www.nbcnews.com/news/world/rebuked-china-echoes-biden-s-call-better-angels-heal-relations-n1255116"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255116"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255116"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 138
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_03/3443881/210121-china-inauguration-mc-9127_1487f22dbf24259451e46bea040ae839.JPG"
+        width: 2500
+        height: 1669
         isCached: true
   - title: "READ: House Articles of Impeachment against Donald Trump"
     excerpt: "The US House of Representatives has released its resolution to impeach President Donald Trump, charging him with \"incitement of insurrection,\" an article for which the House is expected to vote on this week."
@@ -1754,22 +1802,6 @@ related:
       - url: "https://static.politico.com/88/9f/983029434cb6baea9150ce659aad/ap20261536666974-1.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Rebuked China echoes Biden's call for 'better angels' to heal relations with America"
-    excerpt: "Within hours of President Joe Biden's inauguration, his foreign policy team began wrangling with one of the administration's biggest challenges: China. The U.S. labeled as \"unproductive and cynical\" a slew of sanctions China imposed on outgoing Donald Trump officials just as the inauguration was taking place."
-    publishedDateTime: 2021-01-21T12:44:00Z
-    webUrl: "https://www.nbcnews.com/news/world/rebuked-china-echoes-biden-s-call-better-angels-heal-relations-n1255116"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255116"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255116"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 128
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2021_03/3443881/210121-china-inauguration-mc-9127_1487f22dbf24259451e46bea040ae839.JPG"
-        width: 2500
-        height: 1669
         isCached: true
   - title: "'Clear and present danger to the republic': House readies bipartisan impeachment of Trump"
     excerpt: "One week after the riot at the Capitol and one week before he is to leave office, President Donald Trump faces impeachment again. | Photo by Drew Angerer/ The House intends to impeach President Donald Trump on Wednesday for inciting a violent insurrection that — just one week earlier — stormed the U."

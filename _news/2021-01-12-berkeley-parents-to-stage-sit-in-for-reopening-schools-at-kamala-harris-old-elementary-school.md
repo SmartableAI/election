@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'We want to gloat': Vice President Kamala Harris' San Antonio sorority sisters celebrate"
+    excerpt: "San Antonio women are celebrating one of their own as Kamala Harris becomes the first woman of color to be inaugurated as vice president of the United States."
+    publishedDateTime: 2021-01-20T17:04:00Z
+    webUrl: "https://www.sfchronicle.com/news/local/article/Vice-President-Kamala-Harris-alpha-kappa-alpha-15884703.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 46
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/20/26/20514213/3/rawImage.jpg"
+        width: 2048
+        height: 1387
+        isCached: true
   - title: "Berkeley parents to stage 'sit-in' for reopening schools at Kamala Harris' old elementary school"
     excerpt: "A group of Berkeley parents are preparing to stage a sit-in at Vice President-elect Kamala Harris' elementary school to demand that schools reopen \"as soon as public health officials deem it safe,\" according to a news release."
     publishedDateTime: 2021-01-12T18:39:00Z

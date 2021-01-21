@@ -45,6 +45,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "‘We will get through this together’: Newspaper front pages herald President Joe Biden, review challenges ahead"
+    excerpt: "Joe Biden dominated, of course, but here and there his groundbreaking vice president Kamala Harris grabbed top billing."
+    publishedDateTime: 2021-01-21T13:05:00Z
+    webUrl: "https://www.oregonlive.com/nation/2021/01/we-will-get-through-this-together-front-pages-herald-president-joe-biden-review-challenges-ahead.html"
+    ampWebUrl: "https://www.oregonlive.com/nation/2021/01/we-will-get-through-this-together-front-pages-herald-president-joe-biden-review-challenges-ahead.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2021/01/we-will-get-through-this-together-front-pages-herald-president-joe-biden-review-challenges-ahead.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 55
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DOTFE2YHJBF67GBQ5LVTYXM52E.jpg"
+        width: 2661
+        height: 1774
+        isCached: true
 
 secured: "Idp8q1GQvwGscTKhcrNzi3FgNJo6EiHXjVjxGYQa39pW+5pL7N7oxLOCsxXrlbQyCee4rpmYwZa/wCjLj98+ZgmTfxRHdYjjlg3oW1YK6fVZZj6kdI2534egnpDvUU8YiHKQL3C5eVblmRDtkcJ5dgZJZdNWBOWryqiUJlxkFtXspf2WpCueIQ0tVT7c6NCt49QBQNavfWqWznCu8QJYO1tZr/TeivSrIRwN01kcRvrMkzkWZmKMSSm3IW0d8o8io9jb8RGwxe9ui3DlGfMNcajZJmznLD6smBbh6sAWYFvkC6Q/9Zc1VH7kK4QyFbWFB6n/kPBnDBUe1n6VAOE5wU4hppKY1LBaLl+GuzeJt0I=;RDLA3+jk4O1lZXczEfr46A=="
 ---

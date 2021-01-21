@@ -873,6 +873,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden takes the helm, appeals for unity to take on crises"
+    excerpt: "Joe Biden has taken the helm as the 46th president of the United States, summoning American resilience and unity to confront a historic confluence of crises"
+    publishedDateTime: 2021-01-21T16:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/facing-crush-crises-biden-helm-president-75362656"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/facing-crush-crises-biden-helm-president-75362656"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/facing-crush-crises-biden-helm-president-75362656"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_3da8878442c4471d824b758c9d653ec4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Time, transparency needed as Biden inherits frazzled census"
+    excerpt: "The 2020 census has been battered by criticism that it was politicized by the administration of former President Donald Trump"
+    publishedDateTime: 2021-01-21T16:30:00Z
+    webUrl: "https://www.washingtonpost.com/health/time-transparency-needed-as-biden-inherits-frazzled-census/2021/01/21/0152ad4c-5c05-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/time-transparency-needed-as-biden-inherits-frazzled-census/2021/01/21/0152ad4c-5c05-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/time-transparency-needed-as-biden-inherits-frazzled-census/2021/01/21/0152ad4c-5c05-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden must find words for a wounded nation in inauguration like no other"
     excerpt: "Planners have been forced to be inventive after the deadly pandemic and now last week’s Capitol insurrection dictated a pared-down event"
     publishedDateTime: 2021-01-16T07:00:00Z
@@ -1651,6 +1683,22 @@ related:
       - url: "https://i.insider.com/600859786d4c620018e40f72?width=1200&format=jpeg"
         width: 980
         height: 490
+        isCached: true
+  - title: "Portland police arrest 8 after rioters damage Democratic Party office, ICE facility following Biden's inauguration"
+    excerpt: "At least eight people were arrested in Portland on Wednesday night after rioters damaged both federal and private property, police said."
+    publishedDateTime: 2021-01-21T16:27:00Z
+    webUrl: "https://abcnews.go.com/US/portland-police-arrest-rioters-damage-democratic-party-office/story?id=75398433"
+    ampWebUrl: "https://abcnews.go.com/amp/US/portland-police-arrest-rioters-damage-democratic-party-office/story?id=75398433"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/portland-police-arrest-rioters-damage-democratic-party-office/story?id=75398433"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 103
+    images:
+      - url: "https://s.abcnews.com/images/US/portland-protests-3-ap-210_hpMain_20210121-054051_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden launches new Twitter account to build following before taking command of White House @POTUS on Inauguration Day"
     excerpt: "When Joe Biden is sworn in on Wednesday, he will take command of the @POTUS and @WhiteHouse Twitter accounts in another official transfer of power."

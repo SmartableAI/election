@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-intends-to-keep-fbi-director-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-intends-to-keep-fbi-director-wray.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden to keep Wray as FBI director"
+    excerpt: "President Biden is expected to keep FBI Director Christopher Wray in his post during his administration, Fox News has learned."
+    publishedDateTime: 2021-01-21T16:33:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yf53wBsD-48/biden-keeps-fbi-director-wray"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-keeps-fbi-director-wray.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keeps-fbi-director-wray.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

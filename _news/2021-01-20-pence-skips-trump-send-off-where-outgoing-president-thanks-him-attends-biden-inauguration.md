@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-trump-sendoff-biden-inaugurat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp"
 type: article
 quality: 205
-heat: 3205
+heat: 3225
 published: true
 
 provider:
@@ -2281,6 +2281,22 @@ related:
     quality: 124
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Blair-House-iStock.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "The Village People respond to Donald Trump using 'Y.M.C.A.' in his final remarks as president"
+    excerpt: "The Village People issued a response after Donald Trump defiantly used their hit “Y.M.C.A.” one last time at his final address as president Wednesday."
+    publishedDateTime: 2021-01-21T15:26:00Z
+    webUrl: "https://www.foxnews.com/entertainment/village-people-donald-trump-ymca-final-remarks-president"
+    ampWebUrl: "https://www.foxnews.com/entertainment/village-people-donald-trump-ymca-final-remarks-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/village-people-donald-trump-ymca-final-remarks-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Village-People-Getty.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
