@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden and Kamala Harris get ready to be sworn in as presidential inauguration begins – live"
 excerpt: "Biden and Harris will be sworn in as president and vice-president, following Donald Trump’s final departure from the White House this morning"
-publishedDateTime: 2021-01-20T15:28:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-6008565b8f08b9416fbadd35"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-6008565b8f08b9416fbadd35"
+publishedDateTime: 2021-01-20T15:27:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-600858298f08fbcf3cf0dfc4"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-600858298f08fbcf3cf0dfc4"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
 type: article
@@ -25,9 +25,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://i.guim.co.uk/img/media/76380a3fa9bae2b1f5e39b21e8c4e392978984cb/0_0_6000_4000/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=03acd9230f3f80d2c329b7c94b945668"
+  - url: "https://i.guim.co.uk/img/media/d15a858f45a82cc9a06ff6968945b105bb4befcc/0_199_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e9c855fc42f237c45a7a7d11c48fa8f"
     width: 600
-    height: 400
+    height: 360
     isCached: true
 
 related:
@@ -143,6 +143,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump's vice president Pence applauds successor at inauguration"
+    excerpt: "Outgoing U.S. Vice President Mike Pence and his wife Karen attended the inauguration of new President Joe Biden on Wednesday after skipping both a farewell ceremony for Donald Trump and the usual protocol of welcoming his successor to his home at the Naval Observatory."
+    publishedDateTime: 2021-01-21T02:46:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-inauguration-pence-idUKKBN29P2RV?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29P2RV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29P2RV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548484638&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J1H5"
+        width: 755
+        height: 545
+        isCached: true
   - title: "Joe Biden and Kamala Harris get ready to be sworn in as presidential inauguration begins – live"
     excerpt: "Biden and Harris will be sworn in as president and vice-president, following Donald Trump’s final departure from the White House this morning"
     publishedDateTime: 2021-01-20T16:16:00Z
@@ -252,6 +268,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/6c8012c5df62883049cde364538dd50c9452cf7a/544_447_2793_1675/master/2793.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aa27e184ee031bc439b74921f71e9b2c"
         width: 600
         height: 360
+        isCached: true
+  - title: "Inauguration Day live updates: Joe Biden sworn in as 46th president, Kamala Harris as first female vice president"
+    excerpt: "Joe Biden is inaugurated hours after his predecessor leaves the White House, clearing the way for a beleaguered nation to turn the page on one of the most divisive chapters in its political history."
+    publishedDateTime: 2021-01-20T22:42:00Z
+    webUrl: "https://www.latimes.com/politics/liveblog/2021-biden-inauguration-day-live-updates"
+    ampWebUrl: "https://www.latimes.com/politics/liveblog/2021-biden-inauguration-day-live-updates?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/liveblog/2021-biden-inauguration-day-live-updates?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 129
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e0ec54e/2147483647/strip/true/crop/2501x1667+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F08%2F60%2F0760cc914d29aafc74be8add546f%2Finauguration-promo-images-13.jpg"
+        width: 840
+        height: 560
         isCached: true
   - title: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
@@ -709,22 +741,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "Inauguration Day live updates: Joe Biden sworn in as 46th president, Kamala Harris as first female vice president"
-    excerpt: "Joe Biden is inaugurated hours after his predecessor leaves the White House, clearing the way for a beleaguered nation to turn the page on one of the most divisive chapters in its political history."
-    publishedDateTime: 2021-01-20T22:42:00Z
-    webUrl: "https://www.latimes.com/politics/liveblog/2021-biden-inauguration-day-live-updates"
-    ampWebUrl: "https://www.latimes.com/politics/liveblog/2021-biden-inauguration-day-live-updates?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/liveblog/2021-biden-inauguration-day-live-updates?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 119
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/e0ec54e/2147483647/strip/true/crop/2501x1667+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F08%2F60%2F0760cc914d29aafc74be8add546f%2Finauguration-promo-images-13.jpg"
-        width: 840
-        height: 560
-        isCached: true
   - title: "Trump wishes new administration 'success' as Pence reveals he will skip outgoing president's farewell event – live"
     excerpt: "White House releases Trump farewell address amid preparations for Biden inauguration – follow live"
     publishedDateTime: 2021-01-19T20:31:00Z
@@ -993,7 +1009,7 @@ related:
   - title: "How Donald Trump spent his last day as president"
     excerpt: "The 45th president left Washington DC for Palm Beach, Florida, before Joe Biden took office. He is the first president in over 150 years to skip his successor's inauguration. How Trump spent his last day as president."
     publishedDateTime: 2021-01-21T00:22:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-55743966"
+    webUrl: "https://www.bbc.com/news/world-us-canada-55743966"
     type: article
     provider:
       name: BBC
@@ -1102,7 +1118,7 @@ related:
   - title: "Inauguration: Kamala Harris sworn in as vice-president, becoming the first woman of color to hold the office – live"
     excerpt: "Harris sworn in as vice-president ahead of Biden taking office, following Donald Trump’s final departure from the White House this morning"
     publishedDateTime: 2021-01-20T15:49:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-6008579a8f08b9416fbadd44"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-600855ac8f0816a8da7c280a"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
     type: article
@@ -1111,7 +1127,7 @@ related:
       domain: theguardian.com
     quality: 103
     images:
-      - url: "https://i.guim.co.uk/img/media/15ddcfe0bae2f186a2f89297d8649bfc1efb5f28/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=67116c2083f82075ef8bc592e8948b38"
+      - url: "https://i.guim.co.uk/img/media/d15a858f45a82cc9a06ff6968945b105bb4befcc/0_199_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e9c855fc42f237c45a7a7d11c48fa8f"
         width: 600
         height: 360
         isCached: true
@@ -2297,6 +2313,22 @@ related:
       name: SanLuisObispo
       domain: sanluisobispo.com
     quality: 58
+  - title: "‘There’s some barriers being broke down,’ says Flint woman of Kamala Harris’ historic inauguration as VP"
+    excerpt: "People are really hungry for something different,” Egypt Otis, owner of Comma Bookstore and Social Hub, said. “People are really hungry for change and it’s really important to see that representation."
+    publishedDateTime: 2021-01-21T02:39:00Z
+    webUrl: "https://www.mlive.com/news/flint/2021/01/theres-some-barriers-being-broke-down-says-flint-woman-of-kamala-harris-historic-inauguration-as-vp.html"
+    ampWebUrl: "https://www.mlive.com/news/flint/2021/01/theres-some-barriers-being-broke-down-says-flint-woman-of-kamala-harris-historic-inauguration-as-vp.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/flint/2021/01/theres-some-barriers-being-broke-down-says-flint-woman-of-kamala-harris-historic-inauguration-as-vp.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 58
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CIJ3JWPB6JHE7GQMCFGPOYG2EE.JPG"
+        width: 3200
+        height: 2133
+        isCached: true
   - title: "Inauguration news updates, Jan. 19: On Donald Trump’s final full day as president, Joe Biden prepares to take office"
     excerpt: "We’re updating this page throughout the day with the latest politics, protest and inauguration news from across the U.S. and world on the final full day of Donald Trump's presidency."
     publishedDateTime: 2021-01-20T07:22:00Z
@@ -2621,6 +2653,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "ZlJwkwshRcIXh+C8o8lQ0cOXCTrDfmwVEkx4241//JbkZ3yaq+XjTcF6CnxKDPYbXDYrlORNIS3/nvBz+m1Ac1zwGnrw9WOwv4lMWrDKkKhd3RyTpgOVIwVPXaVgjpR2Phaj9cbXEmZl65Aho6p8g2OrMLI7A2bE7mzoKpS0BN1B2Wv354HpEXV8lKgl17oTaayB1ws26t8j447gkwczmQlvYzH02DaTfeFSjzeuCJPxOqElpQPUwDG79maCkTPa/GJj2JZ4gwbLzHzARa7x46KiwyvpeM2ljXH5sz6LvTCiJnyrGgfnlCJnPhTDXzNWDhmrCB5KKSSroJUKTtMzciZmQr+IZUD7Ur0aBScz4wzQd+6pwIvUlfckoqOHshXt7WeNtwomxrcivlXQQ/G1l3G/1nSe14kx3ls0ZEPJMLFx+o5YT/F5FZlzjZqI2myLDGNql2oHLFo8DpJbmPd4QkQqMaAWI+U7Mwh5GfXuuhW2oEBwSmQ3g5arb/pUhfIdNFyuHCQHGyB18W23vM3SiA==;CqIcYL+7H0ze+D5pzY0tCw=="
+secured: "1UVyPWU1zV5MOVcsWztY1487d2mvTdRqbRpUSMwAlU7aLb63xsR+CfW4vXFOSDdEw5qHPsRwqXNowtW+nWd1666A9uJZ5x4eEOx/rNMu9Z20ywTfmFz/cYGP1xvzJDtXB2y8vdcAtVT/coqTDaWZ6nI6J1B6Y3usfaIg5rbkw4BUEoq0OYmGE4FeoFudEG8Ecyet8UxNbadI8onpb5LXbnJoLu4D871dxfwWAhPjLWCA9dtTtZoJyDm/ILwtBt2+FedVJ2Nne5inAn96x1GHT9M/aVPusGjgvCMu05H8+eoaRPlveHlIJFvKRqvIcuTF50s2j+EjR1CObXzNej1wmw/l7rtbzI2WCNWaOwLl/do=;5GVfjK4aDx+k2jK+9g6Zlg=="
 ---
 

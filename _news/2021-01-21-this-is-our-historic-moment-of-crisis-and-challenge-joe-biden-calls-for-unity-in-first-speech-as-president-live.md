@@ -2,9 +2,9 @@
 category: news
 title: "'This is our historic moment of crisis and challenge': Joe Biden calls for unity in first speech as president – live"
 excerpt: "Joe Biden has been sworn in as president, bringing an end to four years of Donald Trump’s leadership in Washington"
-publishedDateTime: 2021-01-20T17:26:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-6008805e8f0816a8da7c2a84"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-6008805e8f0816a8da7c2a84"
+publishedDateTime: 2021-01-20T18:15:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-60087e588f08fbcf3cf0e1fa"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-60087e588f08fbcf3cf0e1fa"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/f3aa6a347b46b8f1b53771b9d40bf36277297ee5/0_252_5694_3416/master/5694.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5b29f839516dc24157db3ab720196e4d"
+  - url: "https://i.guim.co.uk/img/media/d15a858f45a82cc9a06ff6968945b105bb4befcc/0_199_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e9c855fc42f237c45a7a7d11c48fa8f"
     width: 600
     height: 360
     isCached: true
@@ -46,6 +46,6 @@ related:
         height: 630
         isCached: true
 
-secured: "7mBQdy/T4NWWytE9oMDlHl3eIEaxqDondVdL/k32Hc1WV6PBxlD2Z4oUOhQ2u5k+ucjnSa4xW6q5iplRqsY5MP8tWRwMkBMKmtmHLqd4AgaqE82e1X+tivEUsYNBnx9pvdL8sBkRYNYu6HDBUtZYfqivvqAO8Cy5hW1U0bt2Q6MvX77iU8mWQenz4fTJOjyx+P2iECE008fV50gKFI54t9aIRJxqjr6vQZnM/asRoJRVcUMxzVO1XnLUkAbZDRnTGeB+ldD5GHyuCQGwlOrF/7QzQ8yi9GGrE7Mx3BE5kTN5GGLGV534anNSunJfyDHL4vCC86G6oup7FLh4s/Ast6d+Xdu842VlNvBNqeE05sk=;iYheuqi1u30t/7J20iZ2yA=="
+secured: "Dg1drmQa84DHPoiOJoF+w99Cfw1WuKVRusOYbVf2YH+AyXFN38TGgtuBypEB5ib6shwMJIXUkHrdrL/tNBRykOGDU2FzR24rvL+MYoK378aWcwdxU9G58AfVDrm/EJ+6lRfkw7AvTGOUEm1ouTO5vcbKIX7oktvO8obiO6xL+EPHdCt5NJZnqRjQHbkIog34wjoCa6A50N3fE3clHPD13a0xCrT6tBb1rzyU3vFIZsRk1nIJbaZC5HBHBkfPs92q7TyVrcALEeY6DMDtW0AHVSVnCHMbr2cSSP8sIfIEbMIlsiomVjWsDN6qLNLzskX1Z2PC+QmT/WoF9a5ayr15/gzuKxaHftmZ+LXjp/qf+Ck=;Tkyp3HYaF/HpesMQhwblwQ=="
 ---
 

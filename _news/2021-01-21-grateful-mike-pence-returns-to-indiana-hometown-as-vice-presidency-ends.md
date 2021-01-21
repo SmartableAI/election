@@ -2,30 +2,26 @@
 category: news
 title: "‘Grateful’ Mike Pence returns to Indiana hometown as vice presidency ends"
 excerpt: "Former Vice President Mike Pence returned Wednesday to his Indiana hometown, where he told a small crowd of family member and supporters that serving in the White House was the greatest honor of his life."
-publishedDateTime: 2021-01-20T23:07:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+publishedDateTime: 2021-01-21T02:04:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
 type: article
-quality: 124
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
+  - url: "https://www.baltimoresun.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
     width: 1200
     height: 896
     isCached: true
@@ -1039,6 +1035,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Joe Biden is sworn in as the 46th president, pleads for unity in inaugural address to a divided nation"
+    excerpt: "Trump skipped the inauguration — themed “America United” — two weeks after inciting a deadly siege on the U.S. Capitol."
+    publishedDateTime: 2021-01-20T21:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/joe-biden-sworn-in/2021/01/20/13465c90-5a7c-11eb-a976-bad6431e03e2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/joe-biden-sworn-in/2021/01/20/13465c90-5a7c-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/joe-biden-sworn-in/2021/01/20/13465c90-5a7c-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LA3T5HC3IMI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden has accepted invitation to stay at Blair House the night before inauguration, State Department says"
     excerpt: "The Trump administration has offered President-elect Joe Biden the use of Blair House, the official residence for guests of the president, on the eve of his inauguration. Biden has accepted the offer to stay at the historic home,"
     publishedDateTime: 2021-01-13T23:33:00Z
@@ -1439,6 +1451,20 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548494110&w=&fh=545&fw=810&ll=&pl=&sq=&r=2021-01-20T203813Z_38188_MRPRC2VBL96JO0A_RTRMADP_0_USA-BIDEN-INAUGURATION"
         width: 810
         height: 540
+        isCached: true
+  - title: "Watch: Joe Biden sworn in as 46th president of the United States"
+    excerpt: "Chief Justice John Roberts administered the oath of office to Joseph R. Biden at his inauguration as the 46th president of the United States on January 20, 2021. Watch how the historic moment unfolded."
+    publishedDateTime: 2021-01-20T17:39:00Z
+    webUrl: "https://www.cbsnews.com/video/watch-joe-biden-sworn-in-as-46th-president-of-the-united-states/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/20/8ad4dce2-c522-4740-af2b-206cec749e05/thumbnail/1200x630/42610ef5eab2dd84b7fc159084840d7e/cbsn-fusion-watch-joe-biden-sworn-in-as-46th-president-of-the-united-states-thumbnail-629799-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden's inauguration is unlike any before. Photos show how his ceremony compares to those of previous presidents."
     excerpt: "Due to COVID-19 and the threat of violence from far-right groups, the inauguration of President-elect Biden is unlike past ceremonies."
@@ -2141,6 +2167,6 @@ related:
         height: 800
         isCached: true
 
-secured: "n1Jecjd4rhQgF//irQLvRamujqsfRKLNmlXuhb0LXHdnzZLYiO+SHzVAwIvxBUpJJTzwNofzgNCn8ySOpj/xH8MvX5hq9jDjOPMge/9PVvd8WUoi3yiQvyhDeb+3hfUzpzT0QTERdscGmrJi3LqTacl4dE5OxbP/xNVYTBYM8YoemiReJwwADujRSJ17r7NOB68D90uMA/ojAGXvAIC0EkMtHLmcjEuCKaMP8pFS2AgL5IezXxVP6Yj25T+p7diQSGaAnpb7W9j8EtJqwQgcH7swnjMPfVgiWSuw+5g5JBtAgpHoBa0cpNDeC55Ft6ncfyynK6Ub38jBg0fuo8GSZtaJ1D79iQdNUdwWFkeFydQ=;/mKND5WAPp40eMTsddObrA=="
+secured: "ac9qZDCejyZYuFS39HRVMPx1WndexhQ8bWaP/fcoQACa6k6bprZd1xEY/AeGegUr44oBuclaMOoAcYnF7tqQxkTM7tBQ98fVGYSt88b0Hcu2o06dKZEseuzQkvkU5WyUNy8/3pk6OiX9BHNCFZ5IdmCkwqJxvDNAn4/e+ObDq2jNTkOyro/EuP6yIUr5lwS23BAAok4d9bXUH916UEDXITRGWv3IbCc5eX9XdiFNsWhXuZVj2ZyJ1ZUu40maARM172OKI4RjeMfoyYoWfdPU6WvWq4YyYSVhDDEs2XGm/LPAOyA+pElIsYomYQJIQ1Kp5QCodWZvpdEwhu4eEv7OCqBywdqt39pSSI06BAyahEA=;oBbKPit2JmUbuM6urY6M2Q=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden says he has 'never been more optimistic about America,' calls for unity in remarks at Lincoln Memorial"
+    excerpt: "President Joe Biden from the Lincoln Memorial on Wednesday night said he has “never been more optimistic about America” than now, while again calling for unity and saying “democracy has prevailed.”"
+    publishedDateTime: 2021-01-21T02:17:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kqR_eLTucUw/biden-says-he-has-never-been-more-optimistic-about-america-calls-for-unity-in-remarks-at-lincoln-memorial"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-he-has-never-been-more-optimistic-about-america-calls-for-unity-in-remarks-at-lincoln-memorial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-he-has-never-been-more-optimistic-about-america-calls-for-unity-in-remarks-at-lincoln-memorial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "EDrygNHN+j/dX7dMSuTsPWRke/qzQqduYx4fnKTFjXpxIIaZHv6s/ZnQP5dDBdDYQAmPS9Xhld3ofAqtqzX17DzHjV8/DmCaNDJgWHwqIYaiEB7deOIvqoFzf89dY/xDYlwXmm3xuu3Tae7+o0JSdM9tPydqjZf/SWzvdaqApqmSyUxI5dUsxUxIF1AQeKBQZMtcXpZMYrvHIAlRCcv2kDBzSJ39qIrCWvCHrIuq2qxBVZaFspm3s+0AWlze3Vt/vhHrOCf2gjIZK+ZH4BW2bWDOxrdS3s6R/4Lp6P1SMiI3a5jtGhEfXbHTehkNLyDlvUpSRoqzU6pvmeMn4zNdTtEez4f2GDHFANUIzyvCBWU=;W2ZEtYCS3X0x6Nd+3X4nVg=="
 ---

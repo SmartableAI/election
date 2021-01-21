@@ -783,22 +783,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "‘Grateful’ Mike Pence returns to Indiana hometown as vice presidency ends"
-    excerpt: "Former Vice President Mike Pence returned Wednesday to his Indiana hometown, where he told a small crowd of family member and supporters that serving in the White House was the greatest honor of his life."
-    publishedDateTime: 2021-01-20T23:07:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 124
-    images:
-      - url: "https://www.chicagotribune.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
-        width: 1200
-        height: 896
-        isCached: true
   - title: "Watch Live: Inauguration Day events after Joe Biden sworn in as president"
     excerpt: "President Joe Biden and Vice President Kamala Harris were sworn into office Wednesday. Mr. Biden took the reins of power as 46th president of the United States at a perilous time in American history,"
     publishedDateTime: 2021-01-20T18:14:00Z
@@ -1036,6 +1020,22 @@ related:
     quality: 111
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BRCTLGB37YI6XKWZRFMSE4UAYQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Joe Biden is sworn in as the 46th president, pleads for unity in inaugural address to a divided nation"
+    excerpt: "Trump skipped the inauguration — themed “America United” — two weeks after inciting a deadly siege on the U.S. Capitol."
+    publishedDateTime: 2021-01-20T21:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/joe-biden-sworn-in/2021/01/20/13465c90-5a7c-11eb-a976-bad6431e03e2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/joe-biden-sworn-in/2021/01/20/13465c90-5a7c-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/joe-biden-sworn-in/2021/01/20/13465c90-5a7c-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LA3T5HC3IMI6XKCJN6KCHJ277U.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
@@ -1439,6 +1439,20 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548494110&w=&fh=545&fw=810&ll=&pl=&sq=&r=2021-01-20T203813Z_38188_MRPRC2VBL96JO0A_RTRMADP_0_USA-BIDEN-INAUGURATION"
         width: 810
         height: 540
+        isCached: true
+  - title: "Watch: Joe Biden sworn in as 46th president of the United States"
+    excerpt: "Chief Justice John Roberts administered the oath of office to Joseph R. Biden at his inauguration as the 46th president of the United States on January 20, 2021. Watch how the historic moment unfolded."
+    publishedDateTime: 2021-01-20T17:39:00Z
+    webUrl: "https://www.cbsnews.com/video/watch-joe-biden-sworn-in-as-46th-president-of-the-united-states/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/20/8ad4dce2-c522-4740-af2b-206cec749e05/thumbnail/1200x630/42610ef5eab2dd84b7fc159084840d7e/cbsn-fusion-watch-joe-biden-sworn-in-as-46th-president-of-the-united-states-thumbnail-629799-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden's inauguration is unlike any before. Photos show how his ceremony compares to those of previous presidents."
     excerpt: "Due to COVID-19 and the threat of violence from far-right groups, the inauguration of President-elect Biden is unlike past ceremonies."
@@ -1882,6 +1896,22 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "‘Grateful’ Mike Pence returns to Indiana hometown as vice presidency ends"
+    excerpt: "Former Vice President Mike Pence returned Wednesday to his Indiana hometown, where he told a small crowd of family member and supporters that serving in the White House was the greatest honor of his life."
+    publishedDateTime: 2021-01-21T02:04:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 74
+    images:
+      - url: "https://www.baltimoresun.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
+        width: 1200
+        height: 896
+        isCached: true
   - title: "How Mike Pence's hometown views his legacy as vice presidency comes to an end"
     excerpt: "In a music store in this small city 45 minutes southeast of Indianapolis, a picture of Vice President Mike Pence playing guitar hangs by the door. Nearby"
     publishedDateTime: 2021-01-18T11:03:00Z
@@ -2141,6 +2171,6 @@ related:
         height: 800
         isCached: true
 
-secured: "cq7j2fASI88/3V8y0M6MmAiO90lYDvpanVY68Donzz5kH6Jhi20329/RpIlCJ3AwviNUA4d/yIjsTbrXRgylzcAP9yPPKDIZlsMeOuSxr4ifk3QIIt///9MRxMVbim2Z/TlWsfcVlyf7mz2qdtQviy2O6tYi9eIXfV9zgISxl8sW6GhILu0Muvko4geCaB3a5r5bAfjhWJSu4HUhSnYMz4KXL8Ah99t8sBu14BuW2zF8KsioqzIclEjxrTeIgyTHb7v9tly4YGUDjdzDDEFGaOH9cHb5yM+kVlfxqilXyrCvWX+zrnrJ5AN6nNHwkLHfzjHlNwtV8xa6TViizyzjgHMFlSZvhEKRWcxfKwL+Koc=;jPMIn4sDcvpTpSvpQpGVOQ=="
+secured: "uD6fSgGi06SDbXtYuscatPPPnO4tWw8d0z0GOKQ4Do0+JFZ0iI3sDV/WuBH8c0AWohUR94CBsHnlUbG5w1Hels117sM6d2rIEF7/pySvqN41WA0e8VXlewgBlGy+b/jvAEYRT8nUdTE7FxWCMiEDyvbdrxoKGXROP9te2pIedtGnst4h27XIEWx5qGG0009gE7Iq359slw+5kKStn5NSfyia9DKTH3kT2ddzB5N475e/QrHroQ9u5oEoF909FyZbTNEpLslLt/jRYCb/q8UhJrN849cM1mgz1Lq58LNwneHPfDK8KJaHhkSzj24IAiOJoBqHe9LRtgGJon+Jhx6r+J9j5wAQgQWdpe7S8YRQgRFq1xSYd+laqU0rBQuUsK36oLh9EW7HqabfeVN/83/bwHiieOcICCCJ/L2TJRDr2n6LlmuzwIJXe3/JsrBvc70j7N9Epd7QQz0o/4QydCBWUJTXgPKy96HcyztCozMpKu9nAaxjbc1a8OcHlJTdLdlqwXE5oBmF9O73zIcC44I33g==;C8Zu8jyKKn+a2UCV8dePSw=="
 ---
 

@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden arrives at the White House and begins dismantling Trump's legacy"
+    excerpt: "After campaigning on a promise to heal a fractured nation, President-elect Joe Biden will begin the work of uniting the country Wednesday when he is sworn in as the 46th president of the United States on the West Front of the US Capitol -- a mere two weeks after insurrectionists incited by President"
+    publishedDateTime: 2021-01-21T02:54:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tOv61u5WyFc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/joe-biden-presidential-inauguration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/joe-biden-presidential-inauguration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120213030-biden-inauguration-speech-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden puts Trump's climate and environmental rollbacks in his crosshairs"
     excerpt: "Among incoming President Joe Biden's Day One priorities: Begin rolling back climate and environmental policies of the Trump administration, many of which were rollbacks of Obama-era or earlier rules.\n    \n"
     publishedDateTime: 2021-01-20T10:07:12Z
@@ -838,6 +854,22 @@ related:
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G9M7eouIOVY/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/biden-border-immigration-migrants/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/biden-border-immigration-migrants/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925213220-20200928-trump-biden-issues-immigration-gfx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden starts fast on immigration by halting border wall and travel ban while embracing DACA"
+    excerpt: "President-elect Joe Biden will kick off his term by rolling out a series of immigration executive actions, moving swiftly to undo many Trump administration policies.\n    \n"
+    publishedDateTime: 2021-01-21T02:39:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7rpYyMZioVU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/immigration-daca-border-wall-biden-agenda/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/immigration-daca-border-wall-biden-agenda/index.html"
     type: article
     provider:
       name: CNN
@@ -1627,6 +1659,6 @@ related:
         height: 773
         isCached: true
 
-secured: "JnBwsGlavgWht9jHjtU8aC1y954o/r5jlzBT8oefjqlqNccEx2otJCAQBuN+3Iwe8RdSAK6b/6ZcIFnXzCt2bjBzkOz+wqZRAsaA8FfYnd07NNqguvVPCI2+Ga8RdYVbNp/30O4Cb/M4IRs/s5f/PSDU0/bIlVhGOZb0ycfs6CetzspvBxl/pnNInFnFVlg4zrWPngrtHfh2Yv5rrzGhWqmrp7akjHCPRP5OfamIQ6GpQoMP5twWNE+6GAYOmJxd+SYJvk92REZWnQROVvdyAOsF8O733iLv+sBpmJK4vnPwxAHW8ra74A1f0ktSl+bx6lp0MRDFwrruJqG937yNswhaUeYs7givwx/H3+iNONI=;G93prXHWscqI+a9yzU4rsg=="
+secured: "A8VdjXsxmPnlPunXGWxJy3vw/rDpxOMKUiHsGhb372TKhkL/6UgjItc5RL0YCd/SneoGSFltV54vcxRCYs4w0CG2rFUNER+SF02zRCg0AXM/+0ujmIkZ5VehImz50/NUL69IOthg2hIJZ8N+DjVx3J2ogbDRw/mdcUV10pDL9JCV6r5bl0D0iu6DYu6ANBQk9LY9LONs4sxJp02dkXYevghUUSfuH9oQvmqzo4c7c9pMu+8yrWlA2uuvWhPEMKI46Cijao7OkjgtKNHz2bTK8wLqV6wWioM16i67K3/PaSdR/fstjLtfPh1sxwPKnkV55WZ6S638xXtYNUtvL0UftYTgO6KTmz3bSXRuqxUo3IXPoiSQ7c/vUc1kj0YMtTXF5lK+WEoDhYkFzkABrDTVXxkAIfO2f9OgKchkpgSvbno5tv4g7BL+Zhdi4athQjayXYYDPiKJl1EDq4hFasnJz71vjU3OVwczURIn7hiiDpvbEsWdISqaXDRP1T+txKCJ+cgKVR1NhaVk3P+Kv+nGYQ==;w2eC12sVwLqkEHM6uadtzA=="
 ---
 

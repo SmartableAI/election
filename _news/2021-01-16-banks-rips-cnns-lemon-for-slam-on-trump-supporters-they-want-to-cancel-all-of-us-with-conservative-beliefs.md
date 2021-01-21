@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Kirstie Alley slams Katie Couric over comments about needing to 'deprogram' Donald Trump's supporters"
+    excerpt: "Kirstie Alley fired back at Katie Couric over comments she made on Bill Maher’s show about the need to “deprogram” Donald Trump's supporters."
+    publishedDateTime: 2021-01-20T15:57:00Z
+    webUrl: "https://www.foxnews.com/entertainment/kirstie-alley-katie-couric-deprogram-donald-trump-supporters"
+    ampWebUrl: "https://www.foxnews.com/entertainment/kirstie-alley-katie-couric-deprogram-donald-trump-supporters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/kirstie-alley-katie-couric-deprogram-donald-trump-supporters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Alley-Couric-Getty-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "Bs0mF4M4ZXkU/w1Zqx6qweF+lrxOBo2fjKU6T/9+xcI7eeql1y5T9eGVoV3d7u2NkBGu/rYqcLx9hIp2OS7IFogvXrh4FHBDbn1cqGGoNIS4EO9NUrWLSUeXKNDbopcWsnVmqEHPN4N5jKyIkIxq1LOnKzWp/x7EiUHVtghqe5wIQE8KuwCBZ68zIf5m5csFDvCmMg8RUR63PjBRMPpH2pLXTYmFkvWdJJxZm76CFfDNhazTDLu1zMVG6Dy1wJ7qrScuZYH2bxvzNs9V/Zu9TYmWj7OVSW1bGhI9SHUrlgIZyQS6gC/+Dsou2YviH9sH1jghDS9kU84q5nKAbjsBV8L82ZJWYrJHaIcuSwbU5Ug=;I9RHCXBcBCcJVAC9m4h9LA=="
 ---

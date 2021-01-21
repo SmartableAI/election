@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden HHS nominee moved mother out of care facility as she directed nursing homes to take COVID patients"
-    excerpt: "Levine directed Pa. long-term care facilities and nursing homes to accept COVID-19 patients who were unable to return home or who had lived at the facilities prior to their hospitalization."
-    publishedDateTime: 2021-01-19T21:16:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ZeOOvBbI6Y/biden-hhs-nominee-faced-scrutiny-moving-mother-care-facility-covid-19-outbreak"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-nominee-faced-scrutiny-moving-mother-care-facility-covid-19-outbreak.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-nominee-faced-scrutiny-moving-mother-care-facility-covid-19-outbreak.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "4QSSnWChu2KReK3viqfR+9VeOnSOmeBtdkiFAGP2uOpQTXkxoqU1ZOce5Cl1Nka0HN/aQfnp63SsctEF+hs11gvTDQgjms5o/ZCSyXTFFhzKdW3+Ui1WCPOqi2TaXIPQymuh34V1PkLbrAgyIa4IJD5pYxVLdOggcd0PuMBcSdBKrDx0iKJwhrYx1ptNiTcsmurpVgciAdllYU1f8jPzraEgrn143n7jGMGBs89Am7khdi7QpLgKCQil5Hv1CvSW/OnUZ9emfGgI3tp+t0tGaBGIC8wKX43t6IH/VlXGylI6EgItyTSUllsEtS0ZfevTjssP6cDBBEGgHyU/64S886BtnbCHaLeSU/86MCRM7Ts=;36kJG6YHBYhcCee2hmgwlg=="
 ---

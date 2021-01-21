@@ -31,8 +31,8 @@ images:
 related:
   - title: "'This is our historic moment of crisis and challenge': Joe Biden calls for unity in first speech as president – live"
     excerpt: "Joe Biden has been sworn in as president, bringing an end to four years of Donald Trump’s leadership in Washington"
-    publishedDateTime: 2021-01-20T17:26:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-6008805e8f0816a8da7c2a84"
+    publishedDateTime: 2021-01-20T18:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-60087e588f08fbcf3cf0e1fa"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
     type: article
@@ -41,7 +41,7 @@ related:
       domain: theguardian.com
     quality: 102
     images:
-      - url: "https://i.guim.co.uk/img/media/f3aa6a347b46b8f1b53771b9d40bf36277297ee5/0_252_5694_3416/master/5694.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5b29f839516dc24157db3ab720196e4d"
+      - url: "https://i.guim.co.uk/img/media/d15a858f45a82cc9a06ff6968945b105bb4befcc/0_199_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e9c855fc42f237c45a7a7d11c48fa8f"
         width: 600
         height: 360
         isCached: true

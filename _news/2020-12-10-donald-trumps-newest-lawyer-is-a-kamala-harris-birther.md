@@ -472,6 +472,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'This moment belongs to all of us:' Black women exult as Kamala Harris walks into history "
+    excerpt: "Human rights lawyer Tara Murray had hopes of somehow witnessing Kamala Harris' vice-presidential oath in person.\n    \n"
+    publishedDateTime: 2021-01-21T00:45:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MWKuGz9j4pE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/black-women-celebrate-kamala-harris/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/black-women-celebrate-kamala-harris/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120115233-54-biden-inauguration-harris-swearing-in-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'A vote of conscience': GOP senators signal that Trump's fate is in their hands"
     excerpt: "A wide range of Senate Republicans are noncommittal about whether they are considering convicting Donald Trump of committing high crimes and misdemeanors at his upcoming impeachment trial, a sign that the soon-to-be former President's political future rests squarely with his fellow Republicans who are"
     publishedDateTime: 2021-01-19T20:36:17Z
@@ -677,6 +693,22 @@ related:
     quality: 157
     images:
       - url: "https://static01.nyt.com/images/2021/01/15/us/politics/15transition-brieifng-lede-1/15transition-brieifng-lede-1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Joe Biden and Kamala Harris Make Meaning the Hottest Inaugural Fashion Trend"
+    excerpt: "From the moment that President Joseph Biden and Vice President Kamala Harris arrived at the reflecting pool beside the Lincoln Memorial on Tuesday night to the final note of the virtual concert that capped the inaugural rites and celebrations,"
+    publishedDateTime: 2021-01-21T02:38:00Z
+    webUrl: "https://www.nytimes.com/2021/01/20/style/inaugural-fashion-kamala-harris-jill-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/20/style/inaugural-fashion-kamala-harris-jill-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/20/style/inaugural-fashion-kamala-harris-jill-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 157
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/21/fashion/21Inaugural-Fashion-print2/21Inaugural-Fashion-print2-facebookJumbo-v2.jpg"
         width: 1050
         height: 549
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-advisor-slavitt-m
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-advisor-slavitt-masks.amp"
 type: article
 quality: 173
-heat: 213
+heat: 193
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 158
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42062da5-16e0-4037-a730-e3584328ccb1/18454cad-9594-4df4-929b-9de43f9366d1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden HHS nominee moved mother out of care facility as she directed nursing homes to take COVID patients"
-    excerpt: "Levine directed Pa. long-term care facilities and nursing homes to accept COVID-19 patients who were unable to return home or who had lived at the facilities prior to their hospitalization."
-    publishedDateTime: 2021-01-19T21:16:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ZeOOvBbI6Y/biden-hhs-nominee-faced-scrutiny-moving-mother-care-facility-covid-19-outbreak"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-nominee-faced-scrutiny-moving-mother-care-facility-covid-19-outbreak.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-nominee-faced-scrutiny-moving-mother-care-facility-covid-19-outbreak.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

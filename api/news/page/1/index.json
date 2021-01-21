@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-21-biden-ditches-military-flags-as-part-of-oval-office-makeover.md",
+      "title": "Biden ditches military flags as part of Oval Office makeover",
+      "excerpt": "With new presidents come new White House decorations – especially in the commander-in-chief’s official workplace, the Oval Office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CgnR-t9I9yU/biden-ditches-military-flags-oval-office-makeover",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CgnR-t9I9yU/biden-ditches-military-flags-oval-office-makeover",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Oval-Office-Biden.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-ditches-military-flags-oval-office-makeover.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ditches-military-flags-oval-office-makeover.amp",
+      "publishedDateTime": "2021-01-20T18:28:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-biden-to-new-administration-staffers-be-nice-to-others-or-i-will-fire-you-on-the-spot.md",
+      "title": "Biden to new administration staffers: Be nice to others or 'I will fire you on the spot'",
+      "excerpt": "President Biden warned new members of his administration Wednesday that he’ll fire them “on the spot” if they fail to treat others nicely.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k6sLNw3_NhY/biden-administration-be-nice-or-i-will-fire-you",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k6sLNw3_NhY/biden-administration-be-nice-or-i-will-fire-you",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/biden-swearing-in.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-administration-be-nice-or-i-will-fire-you.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-be-nice-or-i-will-fire-you.amp",
+      "publishedDateTime": "2021-01-20T16:48:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-biden-coronavirus-advisor-hawked-masks-he-said-would-deactivate-covid-19.md",
       "title": "Biden coronavirus advisor hawked masks he said would 'deactivate' COVID-19",
       "excerpt": "Andy Slavitt, an incoming White House advisor for the coronavirus response team, cut ties with a mask manufacturing company that had offered him paid promotions. ",
@@ -14,7 +126,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 213,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -143,62 +255,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/ex-obama-adviser-trump-supporters-homeland-security.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-obama-adviser-trump-supporters-homeland-security.amp",
       "publishedDateTime": "2021-01-20T16:14:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-biden-barely-sworn-in-as-squad-member-ally-start-pushing-progressive-agenda.md",
-      "title": "Biden barely sworn in as 'Squad' member, ally start pushing progressive agenda",
-      "excerpt": "Members of the progressive \"Squad\" have signaled their interest in pushing the Biden administration to the left as the president takes office on his first day.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TY5ndHyBRiw/biden-squad-progressives-agenda-inauguration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TY5ndHyBRiw/biden-squad-progressives-agenda-inauguration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/217e07b5-fe3e-44e6-8631-82e86584dc1e/b9c76771-450d-4252-a7a3-1fff339e7935/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-squad-progressives-agenda-inauguration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-squad-progressives-agenda-inauguration.amp",
-      "publishedDateTime": "2021-01-20T15:25:17-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -955,7 +1011,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 3005,
+      "heat": 3045,
       "tags": null,
       "images": [
         {
@@ -1332,63 +1388,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-do-latino-voters-think-joe-biden-can-unite-the-country.md",
-      "title": "Do Latino voters think Joe Biden can unite the country?",
-      "excerpt": "\"It's going to be hard, because there's still going to be people that think the election was a fraud,\" said Yumaira Saavedra of Pennsylvania.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/latino/do-latino-voters-think-joe-biden-can-unite-country-n1254800",
-      "originalUrl": "https://www.nbcnews.com/news/latino/do-latino-voters-think-joe-biden-can-unite-country-n1254800",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2021_03/3443384/210119-washington-capitol-inauguration-prep-2x1-ac-1055p_febc111051f1ce6e390fc8d524eb2182.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1254800",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254800",
-      "publishedDateTime": "2021-01-20T03:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

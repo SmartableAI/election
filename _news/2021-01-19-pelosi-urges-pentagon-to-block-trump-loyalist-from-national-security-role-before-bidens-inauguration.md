@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Unlike Trump, Biden in no rush to file for re-election"
+    excerpt: "On his first day as president in January of 2017, Donald Trump filed for his 2020 re-election. Newly inaugurated President Joe Biden apparently isn’t following in his predecessor’s footsteps."
+    publishedDateTime: 2021-01-21T02:43:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RgHrUG6DVZQ/unlike-trump-biden-in-no-rush-to-file-for-re-election"
+    ampWebUrl: "https://www.foxnews.com/politics/unlike-trump-biden-in-no-rush-to-file-for-re-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/unlike-trump-biden-in-no-rush-to-file-for-re-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 205
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Pence calls Vice President-elect Harris offer congratulations ahead of inauguration"
     excerpt: "Vice President Mike Pence called Vice President-elect Kamala Harris on Thursday to discuss the transition of power to the new Biden administration, Fox News has confirmed. "
     publishedDateTime: 2021-01-15T20:13:28Z
@@ -972,6 +988,22 @@ related:
     quality: 174
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007270172186.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden’s new presidential license plates make subtle call for DC statehood"
+    excerpt: "The presidential limousine was spotted in Washington Wednesday sporting new license plates marking the start of President Biden’s term -- and maybe a subtle wink in favor of D.C. statehood."
+    publishedDateTime: 2021-01-21T01:27:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MzuJBNi6isU/biden-license-plates-dc-statehood"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-license-plates-dc-statehood.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-license-plates-dc-statehood.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Biden-License-Plate-GETTY.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

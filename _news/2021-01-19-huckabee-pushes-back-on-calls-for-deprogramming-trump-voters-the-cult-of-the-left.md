@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/huckabee-katie-couric-deprogram-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/huckabee-katie-couric-deprogram-trump-voters-cult.amp"
 type: article
 quality: 167
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kirstie Alley slams Katie Couric over comments about needing to 'deprogram' Donald Trump's supporters"
+    excerpt: "Kirstie Alley fired back at Katie Couric over comments she made on Bill Maher’s show about the need to “deprogram” Donald Trump's supporters."
+    publishedDateTime: 2021-01-20T15:57:00Z
+    webUrl: "https://www.foxnews.com/entertainment/kirstie-alley-katie-couric-deprogram-donald-trump-supporters"
+    ampWebUrl: "https://www.foxnews.com/entertainment/kirstie-alley-katie-couric-deprogram-donald-trump-supporters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/kirstie-alley-katie-couric-deprogram-donald-trump-supporters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 120
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Alley-Couric-Getty-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Banks rips CNN's Lemon for slam on Trump supporters: 'They want to cancel all of us with conservative beliefs'"
     excerpt: "Ind., pushed back Friday on CNN anchor Don Lemon's claim that people who voted for President Trump are on the side of Nazis and the Ku Klux Klan."
     publishedDateTime: 2021-01-15T22:32:00Z
