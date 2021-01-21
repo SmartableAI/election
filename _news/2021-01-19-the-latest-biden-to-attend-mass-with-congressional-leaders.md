@@ -738,18 +738,18 @@ related:
         isCached: true
   - title: "How world leaders are reacting to Joe Biden's inauguration"
     excerpt: "Here is how world leaders are reacting to U.S. President Joe Biden's inauguration on Wednesday, replacing Donald Trump."
-    publishedDateTime: 2021-01-21T07:12:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-world-int-idUSKBN29P1IT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P1IT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P1IT"
+    publishedDateTime: 2021-01-21T10:15:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-world-idUSKBN29P1IL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P1IL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P1IL"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548535645&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J1BK"
-        width: 774
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548508964&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J1RB"
+        width: 817
         height: 545
         isCached: true
   - title: "Inauguration updates: How Biden administration could affect Arizona"
@@ -893,6 +893,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_3da8878442c4471d824b758c9d653ec4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Congress poised for quick action on Biden's Pentagon nominee"
+    excerpt: "WASHINGTON -- The Democratic-controlled Congress is moving quickly to install retired Gen. Lloyd Austin as President Joe Biden’s secretary of defense, brushing aside concerns about his retirement inside the seven-year window that safeguards civilian leadership of the military."
+    publishedDateTime: 2021-01-21T20:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/congress-poised-quick-action-bidens-pentagon-nominee-75407880"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/congress-poised-quick-action-bidens-pentagon-nominee-75407880"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/congress-poised-quick-action-bidens-pentagon-nominee-75407880"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_685fbc254e76491f98a1987edceaa836_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -1720,6 +1736,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/20/8ad4dce2-c522-4740-af2b-206cec749e05/thumbnail/1200x630/42610ef5eab2dd84b7fc159084840d7e/cbsn-fusion-watch-joe-biden-sworn-in-as-46th-president-of-the-united-states-thumbnail-629799-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "President Biden discusses COVID19 response"
+    excerpt: "Watch \"President Joe Biden discusses COVID-19 response\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-01-21T20:08:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210121194740-president-joe-biden-discusses-covid-19-response/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/21/story_08657379_1611259263.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "The world reacts to Biden becoming president"
     excerpt: "Watch \"The world reacts to Joe Biden becoming the U.S. president\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."

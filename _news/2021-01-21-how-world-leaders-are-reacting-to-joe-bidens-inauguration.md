@@ -2,11 +2,11 @@
 category: news
 title: "How world leaders are reacting to Joe Biden's inauguration"
 excerpt: "Here is how world leaders are reacting to U.S. President Joe Biden's inauguration on Wednesday, replacing Donald Trump."
-publishedDateTime: 2021-01-21T07:12:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-world-int-idUSKBN29P1IT"
-webUrl: "https://www.reuters.com/article/usa-biden-world-int-idUSKBN29P1IT"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P1IT"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P1IT"
+publishedDateTime: 2021-01-21T10:15:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-world-idUSKBN29P1IL"
+webUrl: "https://www.reuters.com/article/us-usa-biden-world-idUSKBN29P1IL"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P1IL"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P1IL"
 type: article
 quality: 125
 heat: -1
@@ -25,8 +25,8 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548535645&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J1BK"
-    width: 774
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548508964&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J1RB"
+    width: 817
     height: 545
     isCached: true
 
@@ -895,6 +895,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Congress poised for quick action on Biden's Pentagon nominee"
+    excerpt: "WASHINGTON -- The Democratic-controlled Congress is moving quickly to install retired Gen. Lloyd Austin as President Joe Biden’s secretary of defense, brushing aside concerns about his retirement inside the seven-year window that safeguards civilian leadership of the military."
+    publishedDateTime: 2021-01-21T20:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/congress-poised-quick-action-bidens-pentagon-nominee-75407880"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/congress-poised-quick-action-bidens-pentagon-nominee-75407880"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/congress-poised-quick-action-bidens-pentagon-nominee-75407880"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_685fbc254e76491f98a1987edceaa836_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Hope and inspiration at Joe Biden inauguration"
     excerpt: "Frank Paice reflects on Amanda Gorman’s powerful poem at the ceremony and Geoff Skinner wonders if the UK will also be brave enough to tackle racism. Plus Joan Furtado on why Trump should be happy"
     publishedDateTime: 2021-01-21T17:52:00Z
@@ -1720,6 +1736,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "President Biden discusses COVID19 response"
+    excerpt: "Watch \"President Joe Biden discusses COVID-19 response\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-01-21T20:08:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210121194740-president-joe-biden-discusses-covid-19-response/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/21/story_08657379_1611259263.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The world reacts to Biden becoming president"
     excerpt: "Watch \"The world reacts to Joe Biden becoming the U.S. president\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-01-21T18:37:00Z
@@ -2483,6 +2513,6 @@ related:
         height: 800
         isCached: true
 
-secured: "Jt4+u5y30pFGWyHYFLOOT7IFGXptmXOSNNYUE88LccPutKqxGaNXfdQIdfvM921bmL+mLT/uQTgVZnMCig252d4oxz7ne0X2tVL/iTEmwqKyP7awtZ6aymu0mC0WGH1RssQvtxP7l7CTwmm0KXzosAWyz1oTPbks41lHvjx21cjXXpHSSSvRy0uyfkAaR/mvt6agPaN7uUtwMNNXeuzZZT88eLRyDk0dNa+3eEOc53pNbh6PlnJYQ9zuuboxoN2YCV5qxExegNcJQxQ15kKYQnKnjrCs7ytG2Ze6vpptTJ+6+RGxCLvjwx/hm7Xxj/JIwKiO1iOQhUM+9sb6sz9z9L9+i2UQqC4kZWzcOAW7FjhmCEQse1Q8XWpFzdulGzT1TYVYJmVt1LByZeArmpalNj4I3mJietx+nIuY3cr8Tmndm+mp00Mm+o3wCYG6TM3KY4wTj7iJquNRMt9vSuVovsITNZCSNFKcQN30sN3M17FbC8d2K7kWW4FXbND5ykuOtJzEzvYXIuKqNUg6pqlk3g==;dFTclPEuSSKJiuhC1kXh7Q=="
+secured: "gHsWjBgVsCogvzr/wMKe7kj9T5Jr4YGRzCA3zedMomjrRWNtIOl0ljPzaDqIhjwL9N+lZIqOTTFllJUhmTmplTUcjCsag3m8kH7SHWVgkzdbhW0F3KA69MoDpj2xSpBOWuEv6tKa6ShzST3DT03SNfqcYSIo6tG2/nr13TcaNAT7KgKjbWBMO8YHRBBcGajc2FiBB4noFy/n6jZnYLEx/w2iy7sV5EXxkT8cfuZBurFYJW1TeWtW9Pd2+YQFwbW75Tw9tFVZpDSSmFSInEVYqw816y8Osj5C1upIhPXsPMOBW1IhV+Pmz+GKkg8KeLsFhKq48a0wr8zl/QMftztutaNYsFVUfrJ9rxEHTaqxQjk=;/NNXCHSCQ80OPQXMnyVrpw=="
 ---
 

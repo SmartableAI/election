@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/blogs-trending-55679813"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/blogs-trending-55679813"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/F95E/production/_116583836_trumptexas.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Here’s where the Trump family is shopping for homes right now—and why"
+    excerpt: "Donald and Melania Trump have officially left the White House. So where will they live next? And what about family members who have followed the former president to Washington, DC?"
+    publishedDateTime: 2021-01-21T20:44:00Z
+    webUrl: "https://www.chicagotribune.com/real-estate/luxury-real-estate/sns-rdc-trumps-home-shopping-florida-20210121-tgor37a3brayrhw4bjjpnirqny-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/real-estate/luxury-real-estate/sns-rdc-trumps-home-shopping-florida-20210121-tgor37a3brayrhw4bjjpnirqny-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/real-estate/luxury-real-estate/sns-rdc-trumps-home-shopping-florida-20210121-tgor37a3brayrhw4bjjpnirqny-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/eaUGQSgjxg73MJolOMLa96DEIe4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IC3TGWC6GRAGPCCDIARIM4QSOE.jpg"
+        width: 1200
+        height: 799
         isCached: true
   - title: "Trump has no legal team or strategy for Capitol riot impeachment trial"
     excerpt: "The Senate impeachment trial for Donald Trump could begin next week. He is accused of sparking an attack on the Capitol that left five people dead."

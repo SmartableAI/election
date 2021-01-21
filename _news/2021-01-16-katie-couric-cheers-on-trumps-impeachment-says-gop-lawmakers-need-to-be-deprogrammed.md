@@ -832,6 +832,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "McCarthy says Trump still has role in future of GOP, should 'continue to engage'"
+    excerpt: "House Minority Leader Kevin McCarthy on Thursday said that he still sees a future role for former President Trump in the Republican Party similar to the role of other past presidents in their political parties."
+    publishedDateTime: 2021-01-21T19:00:00Z
+    webUrl: "https://www.foxnews.com/politics/mccarthy-says-trump-still-has-role-in-future-of-gop-should-continue-to-engage"
+    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-says-trump-still-has-role-in-future-of-gop-should-continue-to-engage.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-says-trump-still-has-role-in-future-of-gop-should-continue-to-engage.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020506858121.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "GOP Sen. Ben Sasse says there is 'brokenness' in Trump's soul, refuses to rule out impeachment"
     excerpt: "GOP Sen. Ben Sasse said Friday he is willing to consider articles of impeachment against President Trump if they are introduced by the House of Representatives following a violent mob attack by pro-Trump supporters on the nation's Capitol earlier this week."
     publishedDateTime: 2021-01-08T16:41:00Z

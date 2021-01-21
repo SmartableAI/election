@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Deb Haaland: What to know about Biden's Secretary of the Interior nominee"
+    excerpt: "The New Mexico House Democrat that President Biden has picked to lead the Department of the Interior will be -- if confirmed -- the first Native American Cabinet secretary, but her views on the hot-button issue of fracking have been met with resistance from conservatives. "
+    publishedDateTime: 2021-01-21T19:35:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vKV186otvJs/deb-haaland-bidens-secretary-of-the-interior-nominee-explained"
+    ampWebUrl: "https://www.foxnews.com/politics/deb-haaland-bidens-secretary-of-the-interior-nominee-explained.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/deb-haaland-bidens-secretary-of-the-interior-nominee-explained.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-zxjs75c-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden executive order says schools should include transgender athletes in girls' sports"
     excerpt: "President Biden, in an executive order aimed at \"preventing and combating discrimination on the basis of gender identity or sexual orientation,\" is calling on schools across the country to allow transgender athletes to participate in the sport of their gender identity."
     publishedDateTime: 2021-01-21T18:37:52Z

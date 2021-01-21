@@ -79,6 +79,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Florida eye doctor gets clemency from Trump in health fraud"
+    excerpt: "A prominent Florida eye doctor convicted of defrauding Medicare out of $73 million has been released from prison early"
+    publishedDateTime: 2021-01-21T20:48:00Z
+    webUrl: "https://www.washingtonpost.com/health/florida-eye-doctor-gets-clemency-from-trump-in-health-fraud/2021/01/21/19850b8a-5c00-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/florida-eye-doctor-gets-clemency-from-trump-in-health-fraud/2021/01/21/19850b8a-5c00-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/florida-eye-doctor-gets-clemency-from-trump-in-health-fraud/2021/01/21/19850b8a-5c00-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump returns to a business empire ravaged by pandemic"
+    excerpt: "NEW YORK -- Donald Trump is returning to a family business ravaged by pandemic shutdowns and restrictions, with revenue plunging more than 40% at his Doral golf property, his Washington hotel and ..."
+    publishedDateTime: 2021-01-21T20:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407074"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407074"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407074"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_53d43a22043a40ef874c8eb064a0a328_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "As Trump leaves office, South Florida is poised to become his new ‘MAGA’ capital"
     excerpt: "Everyone’s leaving. They’re moving to Florida,\" President Donald Trump says. South Florida is poised to become Trump's new MAGA capital after he leaves the White House."
     publishedDateTime: 2020-12-26T16:28:00Z

@@ -671,6 +671,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Inauguration Day 2021 highlights: Joe Biden and Kamala Harris take office"
+    excerpt: "The new president and vice president were sworn in on Inauguration Day 2021 without Donald Trump in attendance. Watch the inaugural performances, full speeches and highlights."
+    publishedDateTime: 2021-01-21T20:32:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2021-01-20-biden-inauguration-n1254778"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1254778"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1254778"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 159
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_03/3443254/210119-inauguration-live-blog-main-cover-cs_b697c9878477c8b91901cdfd11fd464e.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Kamala Harris waves goodbye to Mike Pence after escorting him from Capitol"
     excerpt: "Vice President Kamala Harris and her husband Doug Emhoff escorted former Vice President Mike Pence and his wife Karen Pence from the Capitol after President Joe Biden was inaugurated."
     publishedDateTime: 2021-01-20T18:20:00Z
@@ -828,6 +844,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/12/us/12transition-briefing-promo-new/12transition-briefing-promo-new-videoSixteenByNineJumbo1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Pence among several former aides not attending Trump sendoff"
+    excerpt: "A White House official and source familiar with the matter tell NBC News Vice President Mike Pence is not expected to attend the airport sendoff for President Trump on Tuesday."
+    publishedDateTime: 2021-01-19T00:00:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2021-01-19-biden-inauguration-n1254610/ncrd1254786"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1254610"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1254610"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_02/3442422/210115-inauguration-live-blog-tuesday-main-cover-cs_0b41b0c13943078d1236f5221f459e6c.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "Live Updates: House Set to Impeach Trump, After Pence Rejects Call to Strip His Powers"
     excerpt: "Lawmakers said they would move to impeach the president on Wednesday, after formally calling on Vice President Mike Pence to use the 25th Amendment. Mr. Pence rejected the request earlier in the day saying he didn’t believe the action was “in the best interest of our nation."

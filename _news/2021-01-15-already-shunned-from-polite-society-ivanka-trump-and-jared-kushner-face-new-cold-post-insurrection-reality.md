@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/ivanka-trump-jared-kushn
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/ivanka-trump-jared-kushner-next-steps/index.html"
 type: article
 quality: 157
-heat: 197
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ivanka Trump and Jared Kushner move out of DC and lease luxury condo in Miami "
+    excerpt: "Ivanka Trump and Jared Kushner have moved out of their Washington, DC, home, and have signed a one-year lease on a luxury condo in Miami at the Arte, an expensive oceanfront residential building, a source familiar with the couple's move confirmed to CNN.\n    \n"
+    publishedDateTime: 2021-01-21T20:48:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bhdQ1s1ICyw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/ivanka-trump-jared-kushner-luxury-condo-miami/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/ivanka-trump-jared-kushner-luxury-condo-miami/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201115070055-01-jared-kushner-ivanka-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Secret Service pays high rent for apartment near Ivanka Trump and Jared Kushner's home for toilets and office space for agents"
     excerpt: "The US Secret Service is renting a small studio apartment in Washington, DC, near the home of Jared Kushner and Ivanka Trump, a source with knowledge of the service's activities told CNN on Thursday, in order for agents to use the bathroom and have office space.\n    \n"
     publishedDateTime: 2021-01-14T21:41:53Z
@@ -44,20 +60,6 @@ related:
     quality: 147
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201115070140-02-jared-kushner-ivanka-trump-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump remains largely invisible after Kushner squashes attempts at building fringe social media presence"
-    excerpt: "On the day he will be impeached for a history-making second time, President Donald Trump lacks a comprehensive legal strategy, has nothing on his public schedule and is without his preferred social media methods of responding -- in part because his son-in-law put a stop to efforts establishing his presence"
-    publishedDateTime: 2021-01-13T15:58:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Dey9-nHxYnw/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 138
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113103402-02-donald-trump-0112-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

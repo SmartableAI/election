@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Deb Haaland: What to know about Biden's Secretary of the Interior nominee"
+    excerpt: "The New Mexico House Democrat that President Biden has picked to lead the Department of the Interior will be -- if confirmed -- the first Native American Cabinet secretary, but her views on the hot-button issue of fracking have been met with resistance from conservatives. "
+    publishedDateTime: 2021-01-21T19:35:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vKV186otvJs/deb-haaland-bidens-secretary-of-the-interior-nominee-explained"
+    ampWebUrl: "https://www.foxnews.com/politics/deb-haaland-bidens-secretary-of-the-interior-nominee-explained.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/deb-haaland-bidens-secretary-of-the-interior-nominee-explained.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-zxjs75c-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden Education nominee touted diversity speaker who claimed schools 'spirit murder' Black children"
     excerpt: "One of President-elect Biden's top Education Department nominees hosted a diversity training during which she gave an \"extremely complimentary\" introduction to its featured speaker, who has accused public schools of \"spirit murdering\" of Black children."
     publishedDateTime: 2021-01-19T22:17:52Z

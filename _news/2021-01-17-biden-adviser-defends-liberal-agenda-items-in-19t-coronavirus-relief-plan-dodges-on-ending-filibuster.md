@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden unveils coronavirus national strategy, calls it a 'war-time undertaking'"
+    excerpt: "President Biden unveiled his national strategy for coronavirus, calling it a \"war-time undertaking\" and signing a number of executive actions to \"beat this pandemic.\""
+    publishedDateTime: 2021-01-21T20:57:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gPDR5HPi4nU/biden-covid-19-national-strategy-war-time-undertaking"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-covid-19-national-strategy-war-time-undertaking.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-19-national-strategy-war-time-undertaking.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden launching Public Health Jobs Corps, host of executive orders to address COVID-19"
     excerpt: "President Biden laid out on Thursday a strategy for addressing the coronavirus that included increasing funding and the number of federal employees deployed to meet an ambitious set of goals for countering the pandemic."
     publishedDateTime: 2021-01-21T10:07:23Z
@@ -94,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Psaki hints Biden may skip bipartisan deal on COVID-19 if needed: 'Not going to take any tools off the table'"
+    excerpt: "President Biden has signaled that he wants to secure bipartisan support for another coronavirus relief package, but his administration is refusing to rule out unilateral action by congressional Democrats on the next round of emergency aid. "
+    publishedDateTime: 2021-01-21T19:27:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LfrsAcP4MT8/psaki-hints-biden-may-skip-bipartisan-deal-on-covid-19-if-needed-not-going-to-take-any-tools-off-the-table"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-hints-biden-may-skip-bipartisan-deal-on-covid-19-if-needed-not-going-to-take-any-tools-off-the-table.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-hints-biden-may-skip-bipartisan-deal-on-covid-19-if-needed-not-going-to-take-any-tools-off-the-table.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02ffb9d0-2cf9-48be-ab41-b1de73501fc5/9e9d4d74-cf2f-45e3-b809-ad89a8a6aee2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "4QSSnWChu2KReK3viqfR+9VeOnSOmeBtdkiFAGP2uOpQTXkxoqU1ZOce5Cl1Nka0HN/aQfnp63SsctEF+hs11gvTDQgjms5o/ZCSyXTFFhzKdW3+Ui1WCPOqi2TaXIPQymuh34V1PkLbrAgyIa4IJD5pYxVLdOggcd0PuMBcSdBKrDx0iKJwhrYx1ptNiTcsmurpVgciAdllYU1f8jPzraEgrn143n7jGMGBs89Am7khdi7QpLgKCQil5Hv1CvSW/OnUZ9emfGgI3tp+t0tGaBGIC8wKX43t6IH/VlXGylI6EgItyTSUllsEtS0ZfevTjssP6cDBBEGgHyU/64S886BtnbCHaLeSU/86MCRM7Ts=;36kJG6YHBYhcCee2hmgwlg=="

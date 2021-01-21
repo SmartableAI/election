@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden cleans house at VOA after revolt over Trump changes"
+    excerpt: "The Biden administration has moved quickly to remove a number of senior officials aligned with former President Donald Trump from the Voice of America and the agency that oversees all U.S.-funded inte"
+    publishedDateTime: 2021-01-21T20:48:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-cleans-house-at-voa-after-revolt-over-trump-changes/2021/01/21/234dc5de-5c29-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-cleans-house-at-voa-after-revolt-over-trump-changes/2021/01/21/234dc5de-5c29-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cleans-house-at-voa-after-revolt-over-trump-changes/2021/01/21/234dc5de-5c29-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden unveils $1.9 trillion economic relief as Trump's Senate trial looms"
     excerpt: "Majority Leader Mitch McConnell said the Senate would not reconvene before January 19, the day before Mr. Trump leaves office."
     publishedDateTime: 2021-01-15T14:26:00Z
@@ -190,6 +206,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/23/USAT/d2af2f4d-3bc8-477e-a5ca-d8c20530111f-GTY_1292797972.jpg?auto=webp&crop=2750,1547,x1,y247&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden appoints U.S. consumer watchdog veteran as acting director after Trump appointee resigns"
+    excerpt: "The White House announced President Joe Biden would appoint Dave Uejio to run the Consumer Financial Protection Bureau (CFPB) on an acting basis after its director, Kathy Kraninger, resigned at the new administration's request."
+    publishedDateTime: 2021-01-21T20:46:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-cfpb-idUSKBN29Q249"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q249"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q249"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 128
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548599314&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K16T"
+        width: 817
+        height: 545
         isCached: true
   - title: "Trump farewell planned for Wednesday morning at military base ahead of Joe Biden’s oath of office"
     excerpt: "White House officials are planning a farewell ceremony for Donald Trump as he leaves Washington on Wednesday morning."
@@ -588,6 +620,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZSVFXTCZI4I6XOF55Y3LDTIYX4.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Analysis: The three types of Republicans Donald Trump created and who wins in the end"
+    excerpt: "Here is a taxonomy of the types of Republicans Donald Trump has left in his wake after departing the White House Wednesday."
+    publishedDateTime: 2021-01-21T19:05:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-donald-trump-three-types-republicans-20210121-tbcieaut3vg6thjargh2jonl5e-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-donald-trump-three-types-republicans-20210121-tbcieaut3vg6thjargh2jonl5e-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-donald-trump-three-types-republicans-20210121-tbcieaut3vg6thjargh2jonl5e-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 118
+    images:
+      - url: "https://www.chicagotribune.com/resizer/1UT4ABpUzOR9sBXVfmpq0OhGwlM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5NV5GYVICFGJPNMVDPGVQPHYNU.jpg"
+        width: 1200
+        height: 720
         isCached: true
   - title: "With Trump banned from Twitter, his supporters are parsing speeches for clues about what’s next"
     excerpt: "Many of the president’s allies have struggled to glean clear marching orders from him since his banishment from social media."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 2570
+heat: 2590
 published: true
 
 provider:
@@ -1020,6 +1020,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925213220-20200928-trump-biden-issues-immigration-gfx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Is it constitutional for Trump to be tried in the Senate after leaving office?"
+    excerpt: "Questions have arisen over the constitutionality of former President Donald Trump's impending trial in the Senate. Trump is the first president to be impeached twice and would be the first ex-president to have his impeachment tried in the Senate while out of office.\n    \n"
+    publishedDateTime: 2021-01-21T20:50:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tgTdB44nApg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/trump-senate-impeachment-trial-constitution-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/trump-senate-impeachment-trial-constitution-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118122447-primera-trump-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

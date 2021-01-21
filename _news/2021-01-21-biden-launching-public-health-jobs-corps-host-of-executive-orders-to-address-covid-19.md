@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden unveils coronavirus national strategy, calls it a 'war-time undertaking'"
+    excerpt: "President Biden unveiled his national strategy for coronavirus, calling it a \"war-time undertaking\" and signing a number of executive actions to \"beat this pandemic.\""
+    publishedDateTime: 2021-01-21T20:57:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gPDR5HPi4nU/biden-covid-19-national-strategy-war-time-undertaking"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-covid-19-national-strategy-war-time-undertaking.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-covid-19-national-strategy-war-time-undertaking.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "White House: 'Critical' for Congress to pass Biden stimulus check, coronavirus relief plan"
     excerpt: "The White House on Thursday said it is \"critical\" that Congress act \"quickly\" on President Biden's proposals for coronavirus economic relief after a report showed that 900,000 Americans filed new unemployment claims last week, saying \"long-term scarring\" will only worsen\" with delay."
     publishedDateTime: 2021-01-21T18:44:58Z
@@ -92,6 +108,22 @@ related:
     quality: 158
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42062da5-16e0-4037-a730-e3584328ccb1/18454cad-9594-4df4-929b-9de43f9366d1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Psaki hints Biden may skip bipartisan deal on COVID-19 if needed: 'Not going to take any tools off the table'"
+    excerpt: "President Biden has signaled that he wants to secure bipartisan support for another coronavirus relief package, but his administration is refusing to rule out unilateral action by congressional Democrats on the next round of emergency aid. "
+    publishedDateTime: 2021-01-21T19:27:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LfrsAcP4MT8/psaki-hints-biden-may-skip-bipartisan-deal-on-covid-19-if-needed-not-going-to-take-any-tools-off-the-table"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-hints-biden-may-skip-bipartisan-deal-on-covid-19-if-needed-not-going-to-take-any-tools-off-the-table.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-hints-biden-may-skip-bipartisan-deal-on-covid-19-if-needed-not-going-to-take-any-tools-off-the-table.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02ffb9d0-2cf9-48be-ab41-b1de73501fc5/9e9d4d74-cf2f-45e3-b809-ad89a8a6aee2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

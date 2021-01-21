@@ -511,6 +511,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Media coverage of Biden's inauguration 'certainly a contrast' with Trump's: Concha"
+    excerpt: "President Biden’s media coverage at the beginning of his presidency starkly contrasts with his predecessor President Trump, Fox News contributor Joe Concha said on Thursday."
+    publishedDateTime: 2021-01-21T20:41:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yuCQ636RSbQ/media-coverage-of-bidens-inaugurations-contrasts-trumps-concha"
+    ampWebUrl: "https://www.foxnews.com/politics/media-coverage-of-bidens-inaugurations-contrasts-trumps-concha.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/media-coverage-of-bidens-inaugurations-contrasts-trumps-concha.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump supporters in National Guard might 'do something' to Biden, Dem congressman says"
     excerpt: "Rep. Steve Cohen, D-Tenn., ominously suggested Monday that Donald Trump supporters within the National Guard charged with helping protect Joe Biden \"might want to do something\" to the president-elect."
     publishedDateTime: 2021-01-18T19:09:21Z
@@ -1039,6 +1055,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Ron Klain: What to know about Biden’s chief of staff"
+    excerpt: ""
+    publishedDateTime: 2021-01-21T20:09:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-36K-al4zb8/ron-klain-what-to-know-about-bidens-chief-of-staff"
+    ampWebUrl: "https://www.foxnews.com/politics/ron-klain-what-to-know-about-bidens-chief-of-staff.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ron-klain-what-to-know-about-bidens-chief-of-staff.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/ron-klain.png?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Tom Cotton: Antifa rioters won't stop because Joe Biden is president"
     excerpt: "Sen. Tom Cotton said Wednesday that renewed Antifa riots in Portland and Seattle - following the inauguration of President Joe Biden - prove the point he made over the summer that force is needed to maintain law and order. "
     publishedDateTime: 2021-01-21T13:05:08Z
@@ -1102,6 +1134,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Biden-License-Plate-GETTY.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Graham rips Amazon for offering vaccine help to Biden: 'It's disgusting' if they refused to help Trump"
+    excerpt: "If Amazon chose not to help the Trump administration distribute the coronavirus vaccine across America, that is \"disgusting,\" Sen. Lindsey Graham, R-S.C., said on Thursday."
+    publishedDateTime: 2021-01-21T20:42:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FYTbFm77Ci4/graham-slams-amazon-for-offering-vaccine-help-to-biden-its-disgusting-if-they-refused-to-help-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/graham-slams-amazon-for-offering-vaccine-help-to-biden-its-disgusting-if-they-refused-to-help-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-slams-amazon-for-offering-vaccine-help-to-biden-its-disgusting-if-they-refused-to-help-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "25,000 National Guard troops deployed to Capitol as Biden inauguration looms"
     excerpt: "Officials have boosted the number of National Guard members deployed in Washington, D.C., in the run-up to President-elect Joe Biden's inauguration next week to 25,000, an increase of 25 percent."
