@@ -672,6 +672,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Impeachment trial hangs over Biden's first days"
+    excerpt: "President Joe Biden is calling for unity, but with an impeachment trial of an ex-President around the corner, a long list of nominations still to be confirmed in the US Senate and Republicans already casting doubt on the need for another massive Covid-19 relief package, don't expect the mirage of bipartisanship"
+    publishedDateTime: 2021-01-21T13:23:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wgeqrhqOi2k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/impeachment-state-of-play-congress/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/impeachment-state-of-play-congress/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115123927-nancy-pelosi-january-15-2021-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "READ: Biden's schedule for his first full day in office"
     excerpt: "President Joe Biden's first full day in office Thursday will include an intelligence briefing and a meeting with his administration's Covid-19 team, according to a schedule released by the White House late Wednesday.\n    \n"
     publishedDateTime: 2021-01-21T05:18:49Z
@@ -1021,6 +1037,22 @@ related:
     quality: 159
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200205222554-01-joe-biden-stutter-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden issues slew of pandemic initiatives to improve vaccine distribution, expand testing and reopen schools"
+    excerpt: "President Joe Biden's first full day in office Thursday will focus on getting the Covid-19 pandemic under control, rolling out his national strategy that includes several executive actions related to vaccinations and testing in hopes of moving the federal response in a different direction.\n    \n"
+    publishedDateTime: 2021-01-21T13:54:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rYhAS3Id-u8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/biden-national-coronavirus-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/biden-national-coronavirus-plan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120202424-03-biden-executive-order-0120-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1833,6 +1865,6 @@ related:
         height: 773
         isCached: true
 
-secured: "ClLaiLLrY5WN5eWrE0B9QoAsyQxORGpAYoPKrxguMfQuSJtDQ4VKWcpcC4iZUfhSpaPgiAE/YG4pfEQhTM93tnFdGYf9b/nK+DA64J1VP9fclQRBJKv6bwljwaoRM82Uf7QOJ2zjcqtl3lWvT/k1OYzfmFJfMxCBU8BoMR/MWvN+5QFHBtr8OVJVOtfV2QNZ42TLMzMApPHJXmDIIpukySxY7xAxDfXCjkzCcqQC6hEqP4P/ELG7R4qfwCsKlCrR8CLQc/glncA5mQ+7GbJj77PnotfjUYqjHfTMoSWlpMnX+991GGi5O/Wp8KuOhVGRL0pSATVrU3RY0PHMqXzSeEWbwoJ0WMr49GQdZLnjAGk=;guDQE7TfarC0LB70pdtJ2A=="
+secured: "IEBuvXAlt860w06sPziPym5T4be5JmewhEicpNqsByV8Yf/RinRkY1buC4LLsONomQDZZjoGLfmJuj1U3I3Kfstzii1TkZnaVW32CV9h/ZjaAP+elpKdgv1r94aZ/m1rnSZDcCjPI168M6c0OAKXxtmxBYXyvGI8ZvWeziyesdrUau+wKzA+6lOuSlQiTTKyPwN8pnn/+tOqrhz3GK6HKsN7GbJNT0WbtZ2Wu2wlGew+HEFLaxZUAnZmrZ7KvyKb1WHXx04xB/hzm70cvjs/J3b3or4mLy89ZwlXacWJXDjpCe99pEgKtl28JMR9MO0mTHqSV3NOzo5W5XJmqXz7Uj7ItWnKZJbbNa15vrxHc5jbc0e5nlGc0W4pCuZveIGjwCNGxvnJ3VrUtXenVZWnWQTW32JZmCkN0oUzTEsuq5WmAArF02zoCwg6sC0z/u80ZplnaxsfQh5JJHyz9VrQjpC8IDtSFosXgBoe/0Xcngj2ErEaCZtfB+UPiVM4vRa8PT3Zh/5eE5tKg1xgpYM/zg==;wmf7bQFXxOXYUEuTGHINng=="
 ---
 

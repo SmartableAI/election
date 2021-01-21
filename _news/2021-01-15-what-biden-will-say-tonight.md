@@ -526,6 +526,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Jill Biden's inauguration 'gown' inspired by unity, designer says"
+    excerpt: "The formal dress and matching coat worn by first lady Jill Biden Wednesday night for inaugural festivities were designed with inspiration from new administration's message of unity, says the designer Gabriela Hearst.\n    \n"
+    publishedDateTime: 2021-01-21T14:39:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GBScD8OoOOA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/gabriela-hearst-jill-biden-inauguration-coat/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/gabriela-hearst-jill-biden-inauguration-coat/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120222739-03-white-house-fireworks-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden inaugural festivities to feature national day of service on MLK Day"
     excerpt: "President-elect Joe Biden's inaugural committee will promote the national day of service on Martin Luther King Jr. Day as part of festivities ahead of the inauguration on January 20.\n    \n"
     publishedDateTime: 2021-01-04T16:55:45Z

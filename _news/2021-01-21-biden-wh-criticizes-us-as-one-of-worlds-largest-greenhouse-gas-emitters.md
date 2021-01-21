@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden spotted maskless on federal property hours after signing mandate"
+    excerpt: "President Biden faced criticism for removing his face mask while visiting the Lincoln Memorial on Wednesday night ... hours after signing an executive order requiring masks on federal property."
+    publishedDateTime: 2021-01-21T14:54:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XonlAZKwIi8/biden-mask-federal-property-lincoln-memorial-mandate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mask-federal-property-lincoln-memorial-mandate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mask-federal-property-lincoln-memorial-mandate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21021091906402-e1611240751953.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden barely sworn in as 'Squad' member, ally start pushing progressive agenda"
     excerpt: "Members of the progressive \"Squad\" have signaled their interest in pushing the Biden administration to the left as the president takes office on his first day."
     publishedDateTime: 2021-01-20T23:25:17Z

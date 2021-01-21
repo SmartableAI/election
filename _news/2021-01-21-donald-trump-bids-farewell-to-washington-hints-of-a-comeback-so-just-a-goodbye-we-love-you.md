@@ -2594,6 +2594,17 @@ related:
       name: TribLIVE.com
       domain: triblive.com
     quality: 50
+  - title: "Kamala Harris says California’s water crisis is a racial injustice. Will she champion equity?"
+    excerpt: "Racism is fueling disparities in access to safe water,” Senator Kamala Harris said before she was elected vice president."
+    publishedDateTime: 2021-01-21T12:00:00Z
+    webUrl: "https://www.sacbee.com/news/california/article248643865.html"
+    ampWebUrl: "https://amp.sacbee.com/news/california/article248643865.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article248643865.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 44
   - title: "Joe Biden, Kamala Harris drop inauguration playlist with songs from Beyoncé, Dua Lipa, more"
     excerpt: "Joe Biden and Kamala Harris have released a 46-song playlist in honor of their upcoming administration. Here are the songs that made the cut."
     publishedDateTime: 2021-01-16T05:24:00Z

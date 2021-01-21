@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-ditches-military-flags-oval-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ditches-military-flags-oval-office-makeover.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden spotted maskless on federal property hours after signing mandate"
+    excerpt: "President Biden faced criticism for removing his face mask while visiting the Lincoln Memorial on Wednesday night ... hours after signing an executive order requiring masks on federal property."
+    publishedDateTime: 2021-01-21T14:54:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XonlAZKwIi8/biden-mask-federal-property-lincoln-memorial-mandate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mask-federal-property-lincoln-memorial-mandate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mask-federal-property-lincoln-memorial-mandate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21021091906402-e1611240751953.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden WH criticizes US as one of world’s largest greenhouse gas emitters"
     excerpt: "President Joe Biden took several steps to address his climate policy agenda on Wednesday."
     publishedDateTime: 2021-01-21T01:19:52Z

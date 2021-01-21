@@ -1,34 +1,28 @@
 ---
 category: news
-title: "‘Just move on’: Republicans grapple with post-Trump future"
-excerpt: "President Joe Biden’s inauguration represents a new high point for Democrats, who have assumed control of Congress and expelled Donald Trump from the White House"
-publishedDateTime: 2021-01-21T10:26:00Z
-originalUrl: "https://www.washingtonpost.com/politics/just-move-on-republicans-grapple-with-post-trump-future/2021/01/21/3544049a-5ba9-11eb-a849-6f9423a75ffd_story.html"
-webUrl: "https://www.washingtonpost.com/politics/just-move-on-republicans-grapple-with-post-trump-future/2021/01/21/3544049a-5ba9-11eb-a849-6f9423a75ffd_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/just-move-on-republicans-grapple-with-post-trump-future/2021/01/21/3544049a-5ba9-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/just-move-on-republicans-grapple-with-post-trump-future/2021/01/21/3544049a-5ba9-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+title: "'Just move on': Republicans grapple with post-Trump future"
+excerpt: "For the first time in more than a decade, Republicans are waking up to a Washington where Democrats control the White House and Congress, adjusting to an era of diminished power, deep uncertainty and internal feuding."
+publishedDateTime: 2021-01-21T14:05:00Z
+originalUrl: "https://www.businessinsider.com/just-move-on-republicans-grapple-with-post-trump-future-2021-1"
+webUrl: "https://www.businessinsider.com/just-move-on-republicans-grapple-with-post-trump-future-2021-1"
+ampWebUrl: "https://www.businessinsider.com/just-move-on-republicans-grapple-with-post-trump-future-2021-1?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/just-move-on-republicans-grapple-with-post-trump-future-2021-1?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Joe Biden's Options for Dealing with Donald Trump Are Worse than Watergate"
@@ -1199,6 +1193,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "KYX8H61MiA7X7eiarHkBPOk6aPEy3wnRPlKVQn1vIyMWf0OZWnCMiGSSRNJfyEnBb1psVkpiix9cLMDZ6Y9hvNotpXqtNJgThn30Ve1lmHwr9/UKIR83pBvAzdzbeNb/89qJ2KaoAVn3R1Hjldz5MEVydUekddG65+sDj8bvtsUce12xlqwdUTb0BiyjUycnwsRkBe/RxLsGG0vnvjyvsu6JkBCYliESrBRXnfahZ5RR8Sg/Ls+sOCo9eAJcQMZv70eNcSDt4YHEcBRwBbcm6cKWdBxPu1pMIwU2qCuNl3CsBaGkAo+KMj+Km4tfcqnTuBYCOC4tyVKwN+SNGCMAZoWwtuDKLIt20toMgq+yDcw=;lZq4eP3p3Gh9qSF6wJIzVQ=="
+secured: "XZVx7MVR0qQEuTE3H1oLdq3DWjSvX2I/UL82tP8FX22iY9ab97A7bq6pEa/7sPc0yB1J8u+sjSShnHHsq1I5ih/N/DWs87hD3qP5ay/QZehMHM1CJCkNUFG5EcGHd40GdZ0Re9DVfxomI5wQpCR9RkYoz4jYrOKFmucMPlMRzrXJc616D6kC7ftzBwxD/jJBWYld8mnXlj7X22ZLcXvn4oZpHQImeeqW8UmA5ZqgYCCMUiKMh4lwH1HeL8JpO3XkUnCJzLxqjSs1Irpq45yVw0kmwz1UTUIFbrzPpkz8SWzuvWsP7Y5bVL87/yIaYWg0J1+Dna1NdFF26g2MX6tovzcZdHdiuEwDMszbkSY99AE=;PC2Zmxi/Ox4dnK6AVyt9WQ=="
 ---
 

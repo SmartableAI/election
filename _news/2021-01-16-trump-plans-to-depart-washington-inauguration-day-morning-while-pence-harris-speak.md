@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-plans-depart-washington-in
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643"
 type: article
 quality: 158
-heat: 3658
+heat: 3678
 published: true
 
 provider:
@@ -2585,6 +2585,17 @@ related:
       name: TribLIVE.com
       domain: triblive.com
     quality: 50
+  - title: "Kamala Harris says California’s water crisis is a racial injustice. Will she champion equity?"
+    excerpt: "Racism is fueling disparities in access to safe water,” Senator Kamala Harris said before she was elected vice president."
+    publishedDateTime: 2021-01-21T12:00:00Z
+    webUrl: "https://www.sacbee.com/news/california/article248643865.html"
+    ampWebUrl: "https://amp.sacbee.com/news/california/article248643865.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/california/article248643865.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 44
   - title: "Donald Trump bids farewell to Washington, hints of a comeback: ‘So just a goodbye. We love you.’"
     excerpt: "So just a goodbye. We love you,” Trump told supporters at Joint Base Andrews in Maryland where he walked across a red carpet and boarded Air Force One to head to Florida. “We will be back in some form."
     publishedDateTime: 2021-01-20T18:04:00Z

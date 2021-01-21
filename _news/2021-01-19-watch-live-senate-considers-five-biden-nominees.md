@@ -362,6 +362,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "White House pressed on Biden's unity message amid Trump impeachment push"
+    excerpt: "President Biden began his term in office with a message of unity, expressing a desire to move past the rancorous division in the United States and bring people together, while Congress remains set to carry out an impeachment trial for former President Donald Trump."
+    publishedDateTime: 2021-01-21T13:59:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sdS29mVp7OE/white-house-biden-unity-message-trump-impeachment-push"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-unity-message-trump-impeachment-push.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-unity-message-trump-impeachment-push.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Psaki-AP-THUMB.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Former VP Quayle calls Trump absence from Biden inauguration 'unfortunate'"
     excerpt: "As the Republican Party moves on from the Trump administration, it must \"separate the policies and accomplishments\" of the 45th president from his personality, former Vice President Dan Quayle told \"Special Report\" Tuesday. "
     publishedDateTime: 2021-01-20T00:28:15Z
@@ -1017,6 +1033,38 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/AP-Amy-Klobuchar.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden Cabinet nominees trailed by ethics concerns"
+    excerpt: "President Joe Biden took office Wednesday, but ethics concerns still trail some of his Cabinet picks."
+    publishedDateTime: 2021-01-21T13:37:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M1oF58QOVWI/biden-cabinet-nominees-ethics-concerns-raimondo-walsh"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-nominees-ethics-concerns-raimondo-walsh.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-nominees-ethics-concerns-raimondo-walsh.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/gina-raimondo-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Tom Cotton: Antifa rioters won't stop because Joe Biden is president"
+    excerpt: "Sen. Tom Cotton said Wednesday that renewed Antifa riots in Portland and Seattle - following the inauguration of President Joe Biden - prove the point he made over the summer that force is needed to maintain law and order. "
+    publishedDateTime: 2021-01-21T13:05:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pvhwf_uqnGU/tom-cotton-joe-biden-antifa-riots-portland-seattle-denver"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-joe-biden-antifa-riots-portland-seattle-denver.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-joe-biden-antifa-riots-portland-seattle-denver.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cf876e88-7d3a-4660-8b73-cd20674ce067/07868540-2c4e-4bde-bb12-e1b2a0c45552/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump must be barred from post-presidency intelligence briefings: Schiff"
     excerpt: "House Intelligence Committee Chairman Rep. Adam Schiff said Sunday that President Trump should be barred from receiving intelligence briefings after he leaves office, an opportunity traditionally extended to former presidents."

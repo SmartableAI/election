@@ -42,6 +42,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Michael Moore predicts Donald Trump's 'imprisonment' during farewell address"
+    excerpt: "Michael Moore mocked Donald Trump on his way out of the White House on Wednesday, warning of possible convictions and imprisonment for the outgoing president."
+    publishedDateTime: 2021-01-21T14:29:00Z
+    webUrl: "https://www.foxnews.com/entertainment/michael-moore-donald-trump-trial-conviction-imprisonment-farewell-address"
+    ampWebUrl: "https://www.foxnews.com/entertainment/michael-moore-donald-trump-trial-conviction-imprisonment-farewell-address.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/michael-moore-donald-trump-trial-conviction-imprisonment-farewell-address.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Michael-Moore-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "vr6H3nEQzhyqWUJTHDtJY852rPsFF8B8aVHScGlBteMJ+x5mgn5iWwReRzrrAJDrz+bP6RPZZVR658VS2/t/HABBl4JVeKcZKhivkz2P1Fk+rc9/o5NjBc81OaT0PvVsB2JYybOCu6j5yVS8sFHA0EQ2eqyIfpEjrUCPe7bM6IBQ02ftAUBlqYYOidLftAY1cckyjGAJvAKIVSPnqLZjPv6pu+Ax1F8l8gtbR/gO8sDiTunBu8/pAUqRpr44dtmcWK7UFpoJsHEL3k8lPLn7wa1BM0UXV9ssG2Jg+QLFseqi8WIhqt5ItUWjQGexQntNk6+TLmbZzauPuoann2nSep6Gl7PGK1jAL4yBe1F30rWCE0ITtNoDmvl+lzRujzykj7tb2zJBnc/igmdDktF63LR71yBdVXz+PI0JuM6klwRWmbCduB05x5V7biwTZMPvH1CkW3xDGOwfDSO9Jz2vZdQolqWIXbwwEVyWF6zeK/NQywh9vHyF86UNWc88V3MKkmK51KjzC7R5h87HyiXpTA==;ybMG5yqZ4y82ADArfQpM/Q=="
 ---

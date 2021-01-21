@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/tiffany-trump-engaged-michael-boulo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tiffany-trump-engaged-michael-boulos-white-house.amp"
 type: article
 quality: 155
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Michael Moore predicts Donald Trump's 'imprisonment' during farewell address"
+    excerpt: "Michael Moore mocked Donald Trump on his way out of the White House on Wednesday, warning of possible convictions and imprisonment for the outgoing president."
+    publishedDateTime: 2021-01-21T14:29:00Z
+    webUrl: "https://www.foxnews.com/entertainment/michael-moore-donald-trump-trial-conviction-imprisonment-farewell-address"
+    ampWebUrl: "https://www.foxnews.com/entertainment/michael-moore-donald-trump-trial-conviction-imprisonment-farewell-address.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/michael-moore-donald-trump-trial-conviction-imprisonment-farewell-address.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/Michael-Moore-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Adam Schiff: Donald Trump Should Never Get Another Intelligence Briefing After He Leaves Office"
     excerpt: "Rep. Adam Schiff, the chairman of the House Intelligence Committee, said Sunday he doesn't believe President Trump should continue to receive intelligence briefings after he leaves office because he \"can't be trusted\" with secrets."
     publishedDateTime: 2021-01-18T04:05:00Z
