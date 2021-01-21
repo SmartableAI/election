@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden-Harris agenda set to confront these challenges"
+    excerpt: "Thursday is the first full day of President Biden's administration and with it he and Vice President Kamala Harris will face a litany of challenges both at home and abroad, and the reality that they are no longer on the campaign trail or in transition -- they are the leaders of the free world."
+    publishedDateTime: 2021-01-21T10:53:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jx0m5RRdkSA/biden-harris-agenda-set-to-confront-these-challenges"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-harris-agenda-set-to-confront-these-challenges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-agenda-set-to-confront-these-challenges.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "In breaking with Trump, Pence does ‘what he believes in,’ strategist says"
     excerpt: "After breaking with his boss last week and certifying President-elect Joe Biden’s Electoral College victory over President Trump, Vice President Mike Pence this week quickly shot down a push by House Democrats urging him to invoke the 25th Amendment of the Constitution to remove Trump from the presidency."
     publishedDateTime: 2021-01-13T17:17:22Z
@@ -302,6 +318,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/peter-doocy.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden fires Trump-appointed labor board attorney in break with precedent"
+    excerpt: "President Biden in a break with precedent fired the general counsel of the National Labor Relations Board, a Senate-confirmed position, on his first day in the White House. "
+    publishedDateTime: 2021-01-21T09:24:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gdSu9mtbUqE/biden-fires-trump-appointed-labor-bord-attorney-in-break-with-precedent"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-fires-trump-appointed-labor-bord-attorney-in-break-with-precedent.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-fires-trump-appointed-labor-bord-attorney-in-break-with-precedent.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/robb55.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Former VP Quayle calls Trump absence from Biden inauguration 'unfortunate'"
     excerpt: "As the Republican Party moves on from the Trump administration, it must \"separate the policies and accomplishments\" of the 45th president from his personality, former Vice President Dan Quayle told \"Special Report\" Tuesday. "

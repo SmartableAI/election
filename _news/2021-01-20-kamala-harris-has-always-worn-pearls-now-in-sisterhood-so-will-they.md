@@ -1132,6 +1132,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "How ancestral village of Kamala Harris is celebrating inauguration"
+    excerpt: "Thulasendrapuram, a leafy village about 200 miles south of the city of Chennai, is where Harris’s maternal grandfather was born more than a century ago."
+    publishedDateTime: 2021-01-20T15:16:00Z
+    webUrl: "https://www.nbcnews.com/news/asian-america/how-ancestral-village-kamala-harris-celebrating-inauguration-n1254895"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254895"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254895"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_03/3443479/210120-india-kamala-mc-14343_c24d1607082b7feedaf58fe26994145e.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Kamala Harris honors Covid victims in nationwide memorial"
     excerpt: "Vice President-elect Kamala Harris speaks at a nationwide Covid-19 memorial to pay tribute to over 400,000 people who have died from the virus."
     publishedDateTime: 2021-01-19T23:14:00Z

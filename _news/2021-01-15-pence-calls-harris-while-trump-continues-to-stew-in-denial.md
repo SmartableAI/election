@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-presidency/index.html"
 type: article
 quality: 225
-heat: 2065
+heat: 2085
 published: true
 
 provider:
@@ -1116,6 +1116,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/20/lens/20dc-harris-photo/20dc-harris-photo-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "How ancestral village of Kamala Harris is celebrating inauguration"
+    excerpt: "Thulasendrapuram, a leafy village about 200 miles south of the city of Chennai, is where Harris’s maternal grandfather was born more than a century ago."
+    publishedDateTime: 2021-01-20T15:16:00Z
+    webUrl: "https://www.nbcnews.com/news/asian-america/how-ancestral-village-kamala-harris-celebrating-inauguration-n1254895"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254895"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254895"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_03/3443479/210120-india-kamala-mc-14343_c24d1607082b7feedaf58fe26994145e.JPG"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Kamala Harris Has Always Worn Pearls. Now, in Sisterhood, So Will They."
     excerpt: "Women across the country are pledging to wear pearls on Inauguration Day to support the country’s first female Vice President-elect."

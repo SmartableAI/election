@@ -1006,6 +1006,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden Unveils a National Pandemic Response That Trump Resisted"
+    excerpt: "President Biden has a 21-page strategy to bolster production of vaccines, treatments and medical-grade protective gear while reaching out to communities of color."
+    publishedDateTime: 2021-01-21T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/21/us/politics/biden-coronavirus-response.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/21/us/politics/biden-coronavirus-response.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/21/us/politics/biden-coronavirus-response.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/21/us/politics/21dc-biden-covid1/21dc-biden-covid1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Arizona governor becomes latest Trump target after certifying Biden's win"
     excerpt: "Arizona Gov. Doug Ducey, a Republican and close ally of President Donald Trump throughout the 2020 election, found himself in the president's Twitter crosshairs on Monday when he signed off on the state's election certification."
     publishedDateTime: 2020-12-02T01:07:00Z
@@ -1437,6 +1453,22 @@ related:
       - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/32b06dc7-3d69-430b-9f6e-a18487aadf7e.jpg"
         width: 900
         height: 506
+        isCached: true
+  - title: "The Three Types of Republicans Donald Trump Created"
+    excerpt: "Never Trumpers, the unlikeliest group of “RINOs” and Trump loyalists are fighting for the future of the party."
+    publishedDateTime: 2021-01-21T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/21/us/politics/trump-republican-party.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/21/us/politics/trump-republican-party.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/21/us/politics/trump-republican-party.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/18/us/politics/00trump-factions1/00trump-factions1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "WATCH: Joe Biden is sworn in as President of the United States"
     excerpt: "Former Vice President Joe Biden is sworn in as the 46th President of the United States.Jan. 20, 2021 © 2021 NBC UNIVERSAL"

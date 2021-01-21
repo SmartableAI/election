@@ -143,6 +143,20 @@ related:
         width: 1440
         height: 1019
         isCached: true
+  - title: "Trump departs White House for Florida"
+    excerpt: "President Donald Trump reacts in a car as he drives past supporters in West Palm Beach, Florida. REUTERS/Marco Bello"
+    publishedDateTime: 2021-01-21T10:24:00Z
+    webUrl: "https://www.reuters.com/news/picture/trump-departs-white-house-for-florida-idUSRTX8NMR8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548537653&w=&fh=545&fw=810&ll=&pl=&sq=&r=2021-01-21T052406Z_38204_MRPRC2SBL9DZDB7_RTRMADP_0_USA-TRUMP"
+        width: 810
+        height: 548
+        isCached: true
 
 secured: "R1APWGm1pUW3FVSVigiDrINXw/XlK4/Uk4Jc1HB+KbTCW/4DCvNHWWKx8EhUlP1P0MJXkzEKtuq2afejM0rr8Pr6InP5baUUkuaHegFxmQakkWotU1KZwMi40g8X3iksWflh1oolEv/YIuv2kGybAuzxG8GKN+FZT8LrBKl5Ps1cL70cond69glTANXAgHbMSRcp5E1fIPNcf8w9Gp1FAN1kVSPZfWuJa0vkEBvIMD9tk2Lb1imH/SpB1DUeT9gyK5AFP+NXayzlO05lDQJhJjN+NBmtVx9nnCTIdJtJGP4iJ1gkOA0K7RJ+lyhBAhZJx8nx6dWf4mfnE6rW3eqe1TeDeQRip/+vBGBaUbRQpKLUAB6cPzyvDqzzKyxFpVvmcdA4EVt5qygNgQiFZJ62Lo/+PdpwT1QPYpiCIYf+PSpv/lOnr7XODMENTav3037+C2mkRF7QqGFEnOT3L1efOvCOQri7/a1sQ47/sMNrrtFIZ9G9xU4ZmH9RmzXSOdqGqVt9rlOF/owy2c0raCSNeg==;GYdOh0ouN8NOQNWotlN+mw=="
 ---

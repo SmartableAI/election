@@ -3,8 +3,8 @@ category: news
 title: "The Latest: Mike Pence arrives at Joe Biden’s inaugural"
 excerpt: "The Latest on Joe Biden's presidential inauguration (all times local): 11:10 a.m. Vice President Mike Pence has arrived at the inauguration of President-Elect"
 publishedDateTime: 2021-01-20T16:19:00Z
-originalUrl: "https://apnews.com/article/joe-biden-inauguration-news-0a49b6d8b3c9904d88d5bccfd854ab25/gallery/f9fc4dd896e3409d897ab46a5ce8de60"
-webUrl: "https://apnews.com/article/joe-biden-inauguration-news-0a49b6d8b3c9904d88d5bccfd854ab25/gallery/f9fc4dd896e3409d897ab46a5ce8de60"
+originalUrl: "https://apnews.com/article/joe-biden-inauguration-news-0a49b6d8b3c9904d88d5bccfd854ab25/gallery/a1421ef0a5ed41479c0e480c3ffcf287"
+webUrl: "https://apnews.com/article/joe-biden-inauguration-news-0a49b6d8b3c9904d88d5bccfd854ab25/gallery/a1421ef0a5ed41479c0e480c3ffcf287"
 type: article
 quality: 120
 heat: -1
@@ -627,6 +627,22 @@ related:
       - url: "https://s.abcnews.com/images/US/WireAP_215abd9e1ec64f3d89a1a9f1d30e057d_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Fauci lays out Biden’s support for WHO after Trump criticism"
+    excerpt: "Dr. Anthony Fauci says U.S. President Joe Biden will order the United States to support projects to deploy COVID-19 vaccines, diagnostics and therapeutics to people in need around the world"
+    publishedDateTime: 2021-01-21T10:23:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-21/fauci-lays-out-bidens-support-for-who-after-trump-criticism"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-21/fauci-lays-out-bidens-support-for-who-after-trump-criticism?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-21/fauci-lays-out-bidens-support-for-who-after-trump-criticism?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 140
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/d25e48b/2147483647/strip/true/crop/5376x3511+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc6%2F17%2F0dcff6a549859ce569d2fff4131a%2Fap21016604188688.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Biden to present new defense chief as Trump clings to failed effort to overturn election result – live"
     excerpt: "Trump calls to ‘overturn’ results as legal attempts to reverse Biden’s victory dwindle, while president-elect will nominate Lloyd Austin to lead US defense"
@@ -2740,6 +2756,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "2PoI/bwrUJhWbR3eb6bsdnPkTzQXJK70gJb5Nd2pcnKpLqD2BALORYbbvhrNfoyLp3zOig4Q1vVjgwq7Q2DO8O7JvvgD4hS3p5Io/BdwLoEkud8L1Z47JxvZXmtpt4S/lD+n2H9LzbGnpelc+jp4lN1D5iOsVE3Zl8K/Un0Wzs/qZaBRlPv61/Pdowrcn3svJqpxVI8qGIW8jvQ1f5HyafIInErAUXKaUO1EfoKtyjY5My+7/lAI/qbDIapGhaHQVTmGEA6nReje69y+14Om+Swcw2/d7vGyjNFItkPsJGV27URSi5sb86ZzX4e/s3REd7IdsPwbs+gcor7Op/KZ+AdyS8qzk9m7ZRP6pLrfpRw=;ugp7lOalmUftf9A6mDCc8A=="
+secured: "OJTfavfQNfmq9rF5L3cRwT9lzkpqDKBUYVMZaBX1kTZUZHyIAl4EThU4C9/iCRxOpt3IysOXELcP/xjV4/5i+CFh3EOsia1i9a4NqxXi6fjT4Qqpkc5G3FhGRtBY5LR7Fqeqxk2wcEI4+Tb1BN80shbZNgL8cjJVm6lfKypGU0lIX/0vYciJlOnzsrzTn3XZRLCgi7zqoYcJlIBaeBbPsxDzZyrjbBdV6wjOXrDREwhNCvwRscEvCBOp8qhz9BfVWdMD69wnjo8khGEPivJBR1ogu+nWLzwl7wwu9s7cO2NaXgsTdzDGtUAlwOYinVWil8dt2TCJBFHiIE4qztjOauNpIGy3e7M6DCnxGQX5NZA=;LM9onRL3D4IdPmdcKzGcGw=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'That's Cesar Chavez!': Bust of civil rights icon behind President Joe Biden stirs excitement"
+    excerpt: "\"Placing a bust of my father in the Oval Office symbolizes the hopeful new day that is dawning for our nation,\" says Paul Chavez, the civil rights icon's son."
+    publishedDateTime: 2021-01-21T10:12:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/cesar-chavez-bust-behind-president-joe-biden-oval-office-stirs-n1255082"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255082"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255082"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_03/3443767/210120-cesar-chavez-bust-oval-pffice-ew-540p_90c90187bb4173f1592bc7054d31e9dd.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "7eLrfgXSAgfaRXIN5OR87EB5vJMCfmCOB8BIRgfX0+Y4fAHrWsWPpQfV9PFd72QboiNxdMtysbw6qmYDFX/3BZ5z39wb4Etd9XRe2ctLAJDD0QNpcPSdfSwcosQcEma64Hn+R9U5RaZRvZPYpKMo3jxfGkJToHTmKSlt0hd6uDjFJIWlPFtzjApihXzJNXF3FBynqwd09ynlSwOJZdipPwvDFp+Zy6pdlS4teV++VjDk9lpdCz/hHUV8CTdeoP6xa1/mui+/CFGwlS/v0vFiFK79UvTzq2NuxYHHR2UWxWiDRnMjd5a/jz2wZgwXbO25sIUNnFc0CGZcbSyjEukvANsleBW86AidehGaCZZptQ0=;Fs6aGbpTdKS2VZ3JXcrWDA=="
 ---

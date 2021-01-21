@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/student-loan-payment-def
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/student-loan-payment-deferrals/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120131317-paris-climate-accord-biden-announces-us-to-rejoin-landmark-agreement-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "'That's Cesar Chavez!': Bust of civil rights icon behind President Joe Biden stirs excitement"
+    excerpt: "\"Placing a bust of my father in the Oval Office symbolizes the hopeful new day that is dawning for our nation,\" says Paul Chavez, the civil rights icon's son."
+    publishedDateTime: 2021-01-21T10:12:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/cesar-chavez-bust-behind-president-joe-biden-oval-office-stirs-n1255082"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255082"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255082"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_03/3443767/210120-cesar-chavez-bust-oval-pffice-ew-540p_90c90187bb4173f1592bc7054d31e9dd.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "9JKOPwzynVf8onnDBFfsYK3HrpoQ011x1bNKQi1veD2ZvnpZ9TXx9FzFWcmXR1xGpPKMpmXzbVLgUP9DGQljxWkOgVu8aC1oQ9gfbFZWcrWIdyrXpOvU1BXScQjHKDlvVA9ljJ9JUygNYUGGDhl1Ef5KYfDVmJXEqUQjOJb7ZlmO9sKumLXn9CUEgiEecT7JNQRt/+NbejU6dYhiJKQqdlD4T6h5MLDU+1/T9LMafBjI3GnphX/U56n4Blos+CQsOqxnnKvyBjRkq5Wt8G2Cb2oHTte1eSqEoQ1zSJgzkpJNn4ls0I3dvmE1kEQqaX0a54M6oOuYcIcmupYQ3t45ZqLwBLs/DyDkT9qKxNXKZTc=;YHkfVKYHBZfhIjywClL7jA=="

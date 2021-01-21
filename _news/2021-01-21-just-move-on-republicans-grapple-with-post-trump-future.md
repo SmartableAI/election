@@ -1,22 +1,22 @@
 ---
 category: news
-title: "'Just move on': Republicans grapple with post-Trump future"
+title: "‘Just move on’: Republicans grapple with post-Trump future"
 excerpt: "President Joe Biden’s inauguration represents a new high point for Democrats, who have assumed control of Congress and expelled Donald Trump from the White House"
-publishedDateTime: 2021-01-21T08:54:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/move-republicans-grapple-post-trump-future-75397098"
-webUrl: "https://abcnews.go.com/Politics/wireStory/move-republicans-grapple-post-trump-future-75397098"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/move-republicans-grapple-post-trump-future-75397098"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/move-republicans-grapple-post-trump-future-75397098"
+publishedDateTime: 2021-01-21T10:26:00Z
+originalUrl: "https://www.washingtonpost.com/politics/just-move-on-republicans-grapple-with-post-trump-future/2021/01/21/3544049a-5ba9-11eb-a849-6f9423a75ffd_story.html"
+webUrl: "https://www.washingtonpost.com/politics/just-move-on-republicans-grapple-with-post-trump-future/2021/01/21/3544049a-5ba9-11eb-a849-6f9423a75ffd_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/just-move-on-republicans-grapple-with-post-trump-future/2021/01/21/3544049a-5ba9-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/just-move-on-republicans-grapple-with-post-trump-future/2021/01/21/3544049a-5ba9-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_c6748618b74149f5b10824d9ab121b0c_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -988,6 +988,22 @@ related:
         width: 1024
         height: 703
         isCached: true
+  - title: "The Latest: Trump declassifies Crossfire Hurricane material"
+    excerpt: "In his final full day in office, President Donald Trump says he has declassified information related to the FBI’s investigation into ties between Russia and his 2016 presidential campaign."
+    publishedDateTime: 2021-01-21T10:20:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/article248604560.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/article248604560.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/article248604560.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/4c159a2a-4fb9-4bb5-af5e-bb17e8a417d5/c28127b8-d932-4273-8a62-317c24fd51f8/1280x720/match/image.jpg"
+        width: 1080
+        height: 720
+        isCached: true
   - title: "Republicans Are Breaking Ranks on Impeachment. That's Good for Democrats — and Bad for Trump"
     excerpt: "As the Democrats prepare to impeach Donald Trump for a second time, a few Republican votes could prove helpful for the Democrats. Here's why"
     publishedDateTime: 2021-01-13T22:55:00Z
@@ -1169,6 +1185,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "/w7kZnQUi7rK9KydhXeSDO0i9uwTe4BaM/z8x/r0vp0jVVqkJGgYVWRdF5CZc4UTvd6i6lu1WtETohv7/HCCpE/Z3wEMAFVfantOV6URZme/izz9TfDXkWC0zUid9zJ/Ce+3Y2lp/g8FDsVK+9YeyeRan+JMSroJBMbjAcZ/FoB2JvuQ8ntFkrCixL7PiVxtuywyHgO1Z8oHvlkUPfeY/RYPIQJvl2XpQRkbQbvH0Rb5EMwccy2p1QPM6rlV/aaG8RT/Vnaj9auDU5gtrHFKovizVbmYgJKMkhlHl/31s5UzK5R5ZWhSHehaUtWrZKKblNeBmqlqqbVJI7KvOOuyZNLUxK1SxTkITs9P507Y6aQ=;zVUKRmuFrF24ponSm6DQAg=="
+secured: "KYX8H61MiA7X7eiarHkBPOk6aPEy3wnRPlKVQn1vIyMWf0OZWnCMiGSSRNJfyEnBb1psVkpiix9cLMDZ6Y9hvNotpXqtNJgThn30Ve1lmHwr9/UKIR83pBvAzdzbeNb/89qJ2KaoAVn3R1Hjldz5MEVydUekddG65+sDj8bvtsUce12xlqwdUTb0BiyjUycnwsRkBe/RxLsGG0vnvjyvsu6JkBCYliESrBRXnfahZ5RR8Sg/Ls+sOCo9eAJcQMZv70eNcSDt4YHEcBRwBbcm6cKWdBxPu1pMIwU2qCuNl3CsBaGkAo+KMj+Km4tfcqnTuBYCOC4tyVKwN+SNGCMAZoWwtuDKLIt20toMgq+yDcw=;lZq4eP3p3Gh9qSF6wJIzVQ=="
 ---
 

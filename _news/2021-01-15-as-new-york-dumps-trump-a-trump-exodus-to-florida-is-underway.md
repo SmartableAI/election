@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/york-dumps-trump-trump-exodus-florida-underway/story?id=75253713"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OO25V4U2RUI6TGQW3RKR5JNEHM.jpg&w=1440"
         width: 1440
         height: 1019
+        isCached: true
+  - title: "Trump departs White House for Florida"
+    excerpt: "President Donald Trump reacts in a car as he drives past supporters in West Palm Beach, Florida. REUTERS/Marco Bello"
+    publishedDateTime: 2021-01-21T10:24:00Z
+    webUrl: "https://www.reuters.com/news/picture/trump-departs-white-house-for-florida-idUSRTX8NMR8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548537653&w=&fh=545&fw=810&ll=&pl=&sq=&r=2021-01-21T052406Z_38204_MRPRC2SBL9DZDB7_RTRMADP_0_USA-TRUMP"
+        width: 810
+        height: 548
         isCached: true
 
 secured: "3HdHBYg8PpAQxmTt0aW+vIkXxqeI75Ts1qiqaNqMW2XPzYdrvSqvEJHIP052vMHl7UuA0BzCaD4uzGSDXIy0DP0bUi+XPY2l2OumW1UA8mo+kRkT938Nk6Q06L8BKA6m6OfnMeHHzIV+NjJSABkWMApeM61hUh35A4JPv21/8uUuYyDPjiB4zZ+mrzPSoDfqnAlqpPOLaNpZBPfcZz0M/xsO4rmToszX1qyljSuAKgY45TBKJ2M2Lyzg5YGqhSMzr86tezmxy0QjSL7W9kS8fb/rIb7Q3Ua/8fjjOZVvDausfJDSaHS/c9mzomjS8xM/xrfpYJHMSa8zgVSd3gMGeLCRGuG8btsthktCRqfOr3ZVjzcSBM/FYZKXqPNBI4ssmiZ4NxEWmKrC/XNh5757SfNz+BlWDfecaDkJ+cntc4RjF/9H7xKyrmvRYMCFxbTcyFKP59jSc4Foq0ReI9b98ck4ds7/6O3GZwy+8etd7voQqg5M2iBA3vkMgx5tD6hOO9rjQC3owgntjQyglf+bMA==;J76tbKdxsfC+TCPuciGY6g=="
