@@ -3,8 +3,8 @@ category: news
 title: "How Donald Trump spent his last day as president"
 excerpt: "The 45th president left Washington DC for Palm Beach, Florida, before Joe Biden took office. He is the first president in over 150 years to skip his successor's inauguration. How Trump spent his last day as president."
 publishedDateTime: 2021-01-21T00:22:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-55743966"
-webUrl: "https://www.bbc.com/news/world-us-canada-55743966"
+originalUrl: "https://www.bbc.com/news/av/world-us-canada-55743966"
+webUrl: "https://www.bbc.com/news/av/world-us-canada-55743966"
 type: article
 quality: 105
 heat: -1
@@ -754,6 +754,22 @@ related:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/01/2021-01-19T150736Z_629169426_RC23BL9UPZJE_RTRMADP_3_USA-BIDEN-INAUGURATION-1024x684.jpg"
         width: 1024
         height: 684
+        isCached: true
+  - title: "As Trump exits Washington, he tells modest crowd, ‘We will be back in some form’"
+    excerpt: "The outgoing president, skipping Biden’s inauguration, planned a grand military send-off but only a few hundred people showed up to see him depart."
+    publishedDateTime: 2021-01-21T04:07:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-leaves-white-house/2021/01/20/bb561da4-5a9e-11eb-b8bd-ee36b1cd18bf_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-leaves-white-house/2021/01/20/bb561da4-5a9e-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-leaves-white-house/2021/01/20/bb561da4-5a9e-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KDCAUQS3EQI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 1097
         isCached: true
   - title: "Trump wishes new administration 'success' as Pence reveals he will skip outgoing president's farewell event – live"
     excerpt: "White House releases Trump farewell address amid preparations for Biden inauguration – follow live"
@@ -2653,6 +2669,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "75k3ahtsSHLHwibsCgfxFhrz3VsLm+CesjiK1y5rjwzhHv42J/Mor792Y2j0TJGmSH7nJ+PfnpHHdpy8tQZp/EA948FOQW3mUVRoVKOhYyUVYwCfPRvl8Oc2W3ukN0GlR2CymLT5S7DDsiFHhYjG3Jn3NIeakjlS+T1Sw5/kMK/ZiU6UCl3SD/M/2sll2A3VgzOchy01NpwnwOYdfg+CSqbsPpWuc0wdpWuyEwX/1GZ1ZzXJocprdztYsFpPi2m1zIZ2TnRorXcTc2kKOWcAMAqfSIQoIozLyqgV7HOiuP20ftwGxodZ2hbUvCwfbMjoSyswxER9dqWiO4bSsmbLltn6LlRlHE3A+962AARTv8o=;kPi9ZNKefx0TiVcn849d1A=="
+secured: "93t6dVi+Sxikear5HqmHYWYGiVjkDHCcwHyHelrQGwvwh+/xrHWlHQjmf81ABYF5BfyjNTW2luj4EE8mPBaJryXWQsf4SLOcl97HoD8fbFuO/sViAGkva2zltIMlLM9zWCIEHCDnKd9ncyt7CkH+wt9zvG4NPllKqHDIoWfRUTLLjeY6IcYMPfdLaSPO+CxbljvC547xn93icCI3qbECRKvpOxmhVQuHfm0aFq0NJp6RXBr8D+9/PMXE2D3xdiJAgx/NVttgGZqA2jmqGObAYzS1Vh26jmT+0D01d9m1eu0VrClZ424Y2gKNGtT7psmLS8vViw183LsuocSAQBlTfXAwkbgdiywt+40r2KtZkOs=;ZmCL2qphBcbpYvyZf8VKFw=="
 ---
 

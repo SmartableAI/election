@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donal
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1"
 type: article
 quality: 148
-heat: 1628
+heat: 1648
 published: true
 
 provider:
@@ -463,6 +463,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R6IE53SVAYI6XKAX4XT7RJAG2Y.jpg&w=1440"
         width: 1440
         height: 914
+        isCached: true
+  - title: "Trump’s final batch of more than 140 pardons a boon for well-connected fraudsters"
+    excerpt: "Donald Trump’s final batch of more than 140 pardons and sentence commutations issued in his last hours as president."
+    publishedDateTime: 2021-01-21T01:35:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20210119-kzktdtp56fa4zdz2tfkckait4i-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20210119-kzktdtp56fa4zdz2tfkckait4i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20210119-kzktdtp56fa4zdz2tfkckait4i-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 120
+    images:
+      - url: "https://www.chicagotribune.com/resizer/_bdZQXiDMLjujHHqffhs2abssWk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7SIM7C5AX5DK3ARD2PTQ4DD36U"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Can Trump be tried for impeachment after leaving office? Would he keep his pension?"
     excerpt: "This is raising questions about whether he can even be tried for impeachment, since he'll already have moved out of the White House — and whether he'd still enjoy the benefits accorded to former presidents if the Senate convicts him."

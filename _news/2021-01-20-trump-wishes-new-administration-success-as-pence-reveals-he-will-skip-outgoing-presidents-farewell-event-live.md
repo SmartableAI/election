@@ -757,6 +757,22 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "As Trump exits Washington, he tells modest crowd, ‘We will be back in some form’"
+    excerpt: "The outgoing president, skipping Biden’s inauguration, planned a grand military send-off but only a few hundred people showed up to see him depart."
+    publishedDateTime: 2021-01-21T04:07:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-leaves-white-house/2021/01/20/bb561da4-5a9e-11eb-b8bd-ee36b1cd18bf_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-leaves-white-house/2021/01/20/bb561da4-5a9e-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-leaves-white-house/2021/01/20/bb561da4-5a9e-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KDCAUQS3EQI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 1097
+        isCached: true
   - title: "Trump expected to issue pardons on last day as president while Senate set to reconvene"
     excerpt: "President Trump plans to spend his last full day in office on Tuesday issuing 100 pardons or commutations, a senior administration official and a senior White House official tell CBS News. Meanwhile,"
     publishedDateTime: 2021-01-19T11:45:00Z
@@ -1009,7 +1025,7 @@ related:
   - title: "How Donald Trump spent his last day as president"
     excerpt: "The 45th president left Washington DC for Palm Beach, Florida, before Joe Biden took office. He is the first president in over 150 years to skip his successor's inauguration. How Trump spent his last day as president."
     publishedDateTime: 2021-01-21T00:22:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55743966"
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55743966"
     type: article
     provider:
       name: BBC

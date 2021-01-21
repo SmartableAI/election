@@ -703,6 +703,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden names acting agency heads as key Cabinet nominees remain unconfirmed"
+    excerpt: "President Joe Biden on Wednesday announced a slate of acting agency heads after taking office without a single one of his Cabinet nominees in place and confirmed by the US Senate.\n    \n"
+    publishedDateTime: 2021-01-21T01:17:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AjaS2I8tPEI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/biden-acting-agency-heads/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/biden-acting-agency-heads/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120155118-04-biden-parade-waving-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's 11th-hour pardons keep with tradition, even if those pardoned do not"
     excerpt: "President Donald Trump's expected batch of 100 pardons and commutations on the penultimate day of his presidency won't be the highest of his recent predecessors. But his record of clemency could very well be the most controversial.\n    \n"
     publishedDateTime: 2021-01-18T15:52:02Z

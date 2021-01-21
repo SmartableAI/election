@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump pardons in California extend to former congressman"
+    excerpt: "Rep. Randy “Duke” Cunningham admitted in 2005 to accepting $2.4 million in illegal gifts from defense contractors in exchange for government contracts and other favors, it was considered the largest b"
+    publishedDateTime: 2021-01-21T04:34:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-pardons-in-california-extend-to-former-congressman/2021/01/20/0a82176e-5b78-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-pardons-in-california-extend-to-former-congressman/2021/01/20/0a82176e-5b78-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-pardons-in-california-extend-to-former-congressman/2021/01/20/0a82176e-5b78-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump slams US fashion magazines for not giving Melania a single cover shoot while he has been in office"
     excerpt: "Trump supporters have long taken issue with US magazines for granting Michelle Obama 12 cover shoots, but giving Melania Trump none."
     publishedDateTime: 2020-12-26T16:54:00Z

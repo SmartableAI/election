@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-advisor-slavitt-m
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-advisor-slavitt-masks.amp"
 type: article
 quality: 173
-heat: 193
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden coronavirus adviser hawked masks he said would 'deactivate' COVID-19"
+    excerpt: "Andy Slavitt, an incoming White House adviser for the coronavirus response team, cut ties with a mask manufacturing company that had offered him paid promotions. "
+    publishedDateTime: 2021-01-21T00:43:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R6XYErDSFvc/biden-coronavirus-adviser-slavitt-masks"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-adviser-slavitt-masks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-adviser-slavitt-masks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Andy-Slavitt-GETTY.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden adviser defends liberal agenda items in $1.9T coronavirus relief plan, dodges on ending filibuster"
     excerpt: "President-elect Joe Biden’s proposed coronavirus relief package would cost taxpayers $1.9 trillion, and his economic adviser defended the inclusion of several Democratic agenda items."
     publishedDateTime: 2021-01-17T16:55:09Z

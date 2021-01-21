@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/pence-heading-back-to-indian
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 2990
+heat: 3010
 published: true
 
 provider:
@@ -687,6 +687,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/20/564c36e5-4e75-423a-b3ae-b68aa0dd569e/thumbnail/1200x630/7740a01ee0595e0c56de9d579b69832c/gettyimages-1230692211.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "How world leaders are reacting to Joe Biden's inauguration"
+    excerpt: "Here's how world leaders are reacting to U.S. President Joe Biden's inauguration on Wednesday, replacing Donald Trump."
+    publishedDateTime: 2021-01-21T03:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-world/how-world-leaders-are-reacting-to-joe-bidens-inauguration-idUSKBN29P1IL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P1IL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P1IL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548508964&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J1RB"
+        width: 817
+        height: 545
         isCached: true
   - title: "Inauguration updates: How Biden administration could affect Arizona"
     excerpt: "Joe Biden, a Democrat and former vice president, will be sworn in on Wednesday as the 46th president of the United States."

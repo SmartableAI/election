@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/20/donald-trump-pardons
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "'We will be back in some form,' Trump vows at end of tumultuous presidency"
+    excerpt: "President Donald Trump disappeared on Wednesday behind the walls of his club in Palm Beach, Florida, ending a tumultuous presidency stained by two impeachments, deep political divisions and a pandemic that has caused 400,"
+    publishedDateTime: 2021-01-21T04:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29P0II"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P0II"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P0II"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548466641&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J18I"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Trump pardons ex-strategist Steve Bannon, dozens of others"
     excerpt: "President Donald Trump has pardoned former chief strategist Steve Bannon as part of a late flurry of clemency action benefiting nearly 150 people, including rap stars and former members of Congress"
     publishedDateTime: 2021-01-20T07:16:00Z

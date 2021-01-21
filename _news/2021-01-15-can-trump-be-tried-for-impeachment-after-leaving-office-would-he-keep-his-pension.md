@@ -479,6 +479,22 @@ related:
         width: 1440
         height: 914
         isCached: true
+  - title: "Trump’s final batch of more than 140 pardons a boon for well-connected fraudsters"
+    excerpt: "Donald Trump’s final batch of more than 140 pardons and sentence commutations issued in his last hours as president."
+    publishedDateTime: 2021-01-21T01:35:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20210119-kzktdtp56fa4zdz2tfkckait4i-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20210119-kzktdtp56fa4zdz2tfkckait4i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-pardons-20210119-kzktdtp56fa4zdz2tfkckait4i-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 120
+    images:
+      - url: "https://www.chicagotribune.com/resizer/_bdZQXiDMLjujHHqffhs2abssWk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7SIM7C5AX5DK3ARD2PTQ4DD36U"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden to block Trump's plan to lift COVID-19 European travel restrictions"
     excerpt: "U.S. President-elect Joe Biden plans to quickly extend travel restrictions barring travel by most people who have recently been in much of Europe and Brazil soon after President Donald Trump lifted those requirements effective Jan."
     publishedDateTime: 2021-01-19T12:57:00Z

@@ -741,6 +741,22 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "As Trump exits Washington, he tells modest crowd, ‘We will be back in some form’"
+    excerpt: "The outgoing president, skipping Biden’s inauguration, planned a grand military send-off but only a few hundred people showed up to see him depart."
+    publishedDateTime: 2021-01-21T04:07:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-leaves-white-house/2021/01/20/bb561da4-5a9e-11eb-b8bd-ee36b1cd18bf_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-leaves-white-house/2021/01/20/bb561da4-5a9e-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-leaves-white-house/2021/01/20/bb561da4-5a9e-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KDCAUQS3EQI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 1097
+        isCached: true
   - title: "Trump wishes new administration 'success' as Pence reveals he will skip outgoing president's farewell event – live"
     excerpt: "White House releases Trump farewell address amid preparations for Biden inauguration – follow live"
     publishedDateTime: 2021-01-19T20:31:00Z
@@ -1009,7 +1025,7 @@ related:
   - title: "How Donald Trump spent his last day as president"
     excerpt: "The 45th president left Washington DC for Palm Beach, Florida, before Joe Biden took office. He is the first president in over 150 years to skip his successor's inauguration. How Trump spent his last day as president."
     publishedDateTime: 2021-01-21T00:22:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55743966"
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55743966"
     type: article
     provider:
       name: BBC
@@ -2653,6 +2669,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "jvhBs/c5ytjxYnlqXPSZcm8OfBNNucA6XJFPtBpos5moeErudqAJTkRfQVnKb0KWM79uYkO3iEIdF5YOEn3AR0ymtYZtnka40ubyF5Z6ky8FqVUNdK1AgJQV7qEanOPahGBYgMlwrq75l0NwItiKhN554e6Vb2+rwtk+1RgyGME1BBHn/FNxoJxw2sPic49SinXd4GZ7RU6Wnf4hQdGhvuXiEomqyeynailoSIsnvG2fG2mTKAqPbL8Bt3vkIXSgr/6ExpTWQH6zTGSCYJRk0jXrF1ahdEinu5ckQQR0rB1mB4z+TR7jDQz6gXu/3/qTRtQP4XBzbO8O2zsAmrZO3tX09GIInDMPQP3o9TweCo0=;wpEvD0kg1k+Ox9j/DoQHDg=="
+secured: "cxe/4XOpiZJNt5/MmO9w+tLNGBLRyDpVmqmlgnh1gSPcp/DiGaknnNcTVOLz/CeQiUf2uIHJFAtmJEgVUoqNId6pUeyPbPRwfNwQAZsfgaau2sPW6P3NwpvLr3AjVQ9oyUD9J2U/3Siaolu/sGacOVDgKxNq7MF270YRMtmtFSFs5qN2hM/frTcLbpp+tNVekdDkpvILlvAHQLRDBRjU3dbRygWoZEicJDBg+3BBN5BX7EOcaTnuYVVoS0gVvcbYG5G8h427aIBVJ6++nErFN0Jiq4wPOOxJhfM78F6Z9Y4fFTZepFg3dJ12yTY8vQ4uuAnc+44giOfr+K25xzjZgFtXklqi6etdV2iBVTztmJOXOl1aRQahq2DB5m4JRkeltyA9Y/zfFuEgJvJs9gjKO5knaeycheuPxj14STXGk+07JaVwp1bxRVSaJV/nuMNjoqaTp68CQz/HDVCjvw4pfGVlhuNjCV/5OlqYkOzP8s4f/G6hWiIsfPuHnT055OicifCQ1hql1fjogbg9DSim4g==;KkPyPNXh+uO+dpGbJLokKg=="
 ---
 

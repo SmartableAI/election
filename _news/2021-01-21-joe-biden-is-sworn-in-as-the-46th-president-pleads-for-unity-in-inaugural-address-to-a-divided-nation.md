@@ -703,6 +703,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How world leaders are reacting to Joe Biden's inauguration"
+    excerpt: "Here's how world leaders are reacting to U.S. President Joe Biden's inauguration on Wednesday, replacing Donald Trump."
+    publishedDateTime: 2021-01-21T03:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-world/how-world-leaders-are-reacting-to-joe-bidens-inauguration-idUSKBN29P1IL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P1IL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P1IL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548508964&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J1RB"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Inauguration updates: How Biden administration could affect Arizona"
     excerpt: "Joe Biden, a Democrat and former vice president, will be sworn in on Wednesday as the 46th president of the United States."
     publishedDateTime: 2021-01-20T16:36:00Z
@@ -2171,6 +2187,6 @@ related:
         height: 800
         isCached: true
 
-secured: "ooEtrJakwOI1iWK/I1jS/STT27p6/SqmllG5Pu/MQs+pQFBsojthB5IfTnLSuRwW20gpzJTRIeIjpoKNsZ2rgTqPs1eW8flDvhkWBXkUMl+ogkNpkgX3I0d9qnFdlnhgsqZaS8w4jH6MfWSbzD9F7kLemocvDPUF3fi44EydT9V3/q7XiRM3HIgoG/+Vzhpk4TCzvcA9v9g4jIHv+67YaMO9JYMamDCdQ9sIE+3154Yoqavwvl+zuotXNRZ6KQxzMK5ruvDtnIUACoz/FMr58vLt7cJosezk86dChFCsdWC3Yglb2rEFfVj2dADpke6i8GAEBcFzEmbwewa8fUq3y4Pkr3gMqN1j8FA60xQYK3E=;UnLUJ10xdj8vn5H7yBmFyA=="
+secured: "6JGJnmYS4LBZExgLEpf5QwJTf/a9xK0AjYNZ6fXoTz6cMusLGH96/mXzX93XnABYwKG2u5Z/YsLEKA6coxp3P+Xf8wERpjG1BHk0JZDU9LZJOvaQGNqUjsHUi8jQ0kPFav4MY0jm2gKQxA8sjLbT3dgp8tbxCmwaX2BV8xcm7WDlCPn3HxEsnIGgCvrXGsO4jC3yQULmCwTzKMv+LZCX1+Pl9K5OdQ40gGZb2Ycz9PuPmnvcd51wpdbsVVQONNi7agIVLHMw21E2jJntntLA38+066MaEFSzAlnYbrfB5Fpeitq/98I3wnCMqaaNvTnyjDlvNpReLU+v0cD5+kmWeko/s9udwVXiEkpZIVRUzeCEL2gzmcaseAjvVI7c0MrQhf46rmwyd06qlZNQ+Kw+2f57hnJjIIywYPXdZED4mrGtnntDoZi13abOMlxLObOgEhLEIHKWj4EbW7+nqigSQRztiSvWekKN1hj6pSKbF1/nNpO13dL261AdHzgKNgiLB3VbEqhbSFLklqHQ/6ZHQg==;icFTWy8toEiifY5FNxV8PA=="
 ---
 

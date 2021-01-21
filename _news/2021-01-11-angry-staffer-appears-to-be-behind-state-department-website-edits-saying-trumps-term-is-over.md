@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Last-minute Trump appointee at NSA put on administrative leave due to inspector general probe"
+    excerpt: "National Security Agency General Counsel Michael Ellis, who was installed by former President Donald Trump during his final days in office, was put on administrative leave Wednesday because his appointment is now the subject of a Department of Defense inspector general investigation, a source familiar"
+    publishedDateTime: 2021-01-21T02:14:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9ktSUoyZPpY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/michael-ellis-administrative-leave/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/michael-ellis-administrative-leave/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210117123432-michael-ellis-nsa-general-counsel-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Atlanta Prosecutor Appears to Move Closer to Trump Inquiry"
     excerpt: "The Fulton County district attorney is weighing an inquiry into possible election interference and is said to be considering hiring an outside counsel."
     publishedDateTime: 2021-01-16T00:22:00Z

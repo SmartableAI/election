@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 2230
+heat: 2250
 published: true
 
 provider:
@@ -700,6 +700,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200820160049-donadl-trump-steve-bannon-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden names acting agency heads as key Cabinet nominees remain unconfirmed"
+    excerpt: "President Joe Biden on Wednesday announced a slate of acting agency heads after taking office without a single one of his Cabinet nominees in place and confirmed by the US Senate.\n    \n"
+    publishedDateTime: 2021-01-21T01:17:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AjaS2I8tPEI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/biden-acting-agency-heads/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/biden-acting-agency-heads/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120155118-04-biden-parade-waving-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

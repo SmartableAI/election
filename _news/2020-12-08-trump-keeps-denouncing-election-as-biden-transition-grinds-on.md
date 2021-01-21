@@ -1054,6 +1054,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sanitizer in chief: Twitter loves Biden inauguration’s mystery podium cleaner"
+    excerpt: "Forget Joe Biden, Kamala Harris and, heck, even Lady Gaga — the true star of the inauguration was the bespectacled man of mystery who wiped down the podium between speakers."
+    publishedDateTime: 2021-01-21T03:53:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WV3oQxf6nOk/sanitizer-in-chief-twitter-loves-biden-inaugurations-mystery-podium-cleaner"
+    ampWebUrl: "https://www.foxnews.com/politics/sanitizer-in-chief-twitter-loves-biden-inaugurations-mystery-podium-cleaner.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanitizer-in-chief-twitter-loves-biden-inaugurations-mystery-podium-cleaner.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/cleaner-cropped-1030p.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden tweets about impeachment vote, reminds Senate of 'other urgent business'"
     excerpt: "After the House voted to impeach President Trump Wednesday, President-elect Biden said the chamber had held the president \"accountable\" and asked the Senate to do their \"constitutional responsibilities\" on impeachment – along with \"other urgent business.\""
     publishedDateTime: 2021-01-14T08:12:11Z
@@ -1435,6 +1451,22 @@ related:
     quality: 163
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9dbf6b00-ff90-48f1-b712-998bae802d25/9c65e6e0-a5f7-47d1-a8cc-6b7d5aad4425/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Head of US bishops' conference warns Biden would 'advance moral evils and threaten human life'"
+    excerpt: "The U.S. Conference of Catholic Bishops (USCCB) issued a stark condemnation of President Biden's abortion agenda on the day of his inauguration, arguing that he would advance \"moral evil\" on the \"preeminent priority\" for the faithful."
+    publishedDateTime: 2021-01-21T03:28:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fy78ULjUzc8/head-of-us-bishops-conference-warns-biden-would-advance-moral-evils-and-threaten-human-life"
+    ampWebUrl: "https://www.foxnews.com/politics/head-of-us-bishops-conference-warns-biden-would-advance-moral-evils-and-threaten-human-life.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/head-of-us-bishops-conference-warns-biden-would-advance-moral-evils-and-threaten-human-life.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/217e07b5-fe3e-44e6-8631-82e86584dc1e/b9c76771-450d-4252-a7a3-1fff339e7935/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden coronavirus adviser hawked masks he said would 'deactivate' COVID-19"
+    excerpt: "Andy Slavitt, an incoming White House adviser for the coronavirus response team, cut ties with a mask manufacturing company that had offered him paid promotions. "
+    publishedDateTime: 2021-01-21T00:43:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R6XYErDSFvc/biden-coronavirus-adviser-slavitt-masks"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-adviser-slavitt-masks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-adviser-slavitt-masks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Andy-Slavitt-GETTY.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden coronavirus advisor hawked masks he said would 'deactivate' COVID-19"
     excerpt: "Andy Slavitt, an incoming White House advisor for the coronavirus response team, cut ties with a mask manufacturing company that had offered him paid promotions. "
     publishedDateTime: 2021-01-21T00:43:05Z
