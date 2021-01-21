@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate confirms Avril Haines as director of national intelligence, the first Biden Cabinet nominee confirmed"
+    excerpt: "The Senate confirmed President Joe Biden's first Cabinet nominee Wednesday evening, voting to approve his pick for director of national intelligence, Avril Haines, on his first day in office\n    \n"
+    publishedDateTime: 2021-01-21T00:11:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z7q1lplxuYI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/avril-haines-confirmation-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/avril-haines-confirmation-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119110002-02-avril-haines-confirmation-hearing-0119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "zlfylqmMPo2clTj86OuDJu9T9GZ+JviAs5UNVb4iB6CAP5TUyVkB6Y1RhWwQHO17eSdB/VkF00VJHbwt5nLZha3/e9/w23umKL1FsUbHo5g86aq7ISDZrxLLqTz4n7Ui7B2N8NxA1Z1skIyAfc66tFJXI6WC2tVECLWNYWjGvZZOPXZWHCJTd8nVvRwgUPXdJJ1DUgIirb3qn3FtdWM/nXTZJCxbhBBCn+MTwvyAOboL0OmLNYoNxDFSUx2MwTNAgPYKO5r6Sxr9Q27l4dOWyXok5y/pEdqkSYQPRA769p1HfPm1k7yY+jb1mqP3UNglT76ra8prvh9e8VoucSetm1gd1eqwVcEsMic9CAtuAoE=;FqqtqKhJ9w9BK5j41tzaxQ=="
 ---

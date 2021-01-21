@@ -3,8 +3,8 @@ category: news
 title: "Inauguration: Kamala Harris sworn in as vice-president, becoming the first woman of color to hold the office – live"
 excerpt: "Harris sworn in as vice-president ahead of Biden taking office, following Donald Trump’s final departure from the White House this morning"
 publishedDateTime: 2021-01-20T15:49:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-600855ac8f0816a8da7c280a"
-webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-600855ac8f0816a8da7c280a"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-6008579a8f08b9416fbadd44"
+webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-6008579a8f08b9416fbadd44"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
 type: article
@@ -25,9 +25,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://i.guim.co.uk/img/media/76380a3fa9bae2b1f5e39b21e8c4e392978984cb/0_0_6000_4000/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=03acd9230f3f80d2c329b7c94b945668"
+  - url: "https://i.guim.co.uk/img/media/15ddcfe0bae2f186a2f89297d8649bfc1efb5f28/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=67116c2083f82075ef8bc592e8948b38"
     width: 600
-    height: 400
+    height: 360
     isCached: true
 
 related:
@@ -789,6 +789,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Kamala Harris was escorted at the inauguration by heroic Capitol Police officer Eugene Goodman"
+    excerpt: "Goodman single-handedly led a crowd of insurrectionists away from the Senate chamber during the riot at the Capitol."
+    publishedDateTime: 2021-01-21T00:17:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-escorted-by-hero-capitol-police-officer-eugene-goodman-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/kamala-harris-escorted-by-hero-capitol-police-officer-eugene-goodman-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-escorted-by-hero-capitol-police-officer-eugene-goodman-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/600850c5660f6c0018349f3a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "“Vice President Kamala Harris,” a Los Angeles Times Special Edition Magazine, is on Newsstands Now"
     excerpt: "The Los Angeles Times has published a commemorative magazine, “Vice President Kamala Harris,” in advance of the inauguration of the first American woman ever to hold the office. Harris has made a meteoric ascent in American politics – from Bay Area prosecutor to vice president-elect – and The Times has covered her every step of the way."
     publishedDateTime: 2021-01-11T23:31:00Z
@@ -987,6 +1003,34 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/19/260b77e3-7704-4e91-90d9-c070b9352664/thumbnail/1200x630/17acea42829e11cfbe480be2897fa7a7/ap-20354737266677.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How Donald Trump spent his last day as president"
+    excerpt: "The 45th president left Washington DC for Palm Beach, Florida, before Joe Biden took office. He is the first president in over 150 years to skip his successor's inauguration. How Trump spent his last day as president."
+    publishedDateTime: 2021-01-21T00:22:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55743966"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p094mh5h.jpg"
+        width: 400
+        height: 224
+        isCached: true
+  - title: "Kamala Harris sworn in as first female US vice-president – video"
+    excerpt: "The former California senator made history as she was sworn in as the US’s first female, black and south Asian vice-president"
+    publishedDateTime: 2021-01-20T19:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/20/kamala-harris-sworn-in-as-first-female-us-vice-president-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/74b9db82da8f115972013d8e42c4c89f9492b96b/3_898_2916_1750/master/2916.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f488a9b7501d02c00f617163aa894eea"
         width: 1200
         height: 630
         isCached: true
@@ -2577,6 +2621,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "IReA+HEsOW5EYJLoUuafEJ2AlDzGTukIrJyjkNEF+lcsRYP//y2NQP6F66xfSUCPAU2IEQEpWPzKLNSL7vBRYr7PMopVBC6GGgJ0N/xWK4c46rMvNiwOrlPl1nocNECrp0Ep3++TW4qYVC2maqlruj3vS0PaUoJxYINyeCfbdPr54esuf5+0X8ay0aF+EJY+jXzt7uwMW3Dqzpogof40EaPW0f1dhc2Mc3jhItdCyaUAshGXxznaZohBMQuaXjzrv+tA5sCw/wbDnBBrjmJJT4tN0hkJiB92VsNxLkPnPzMa2OvEsKsSFohqijbTj8EoxiTQl53iYgiMaZQA68adE4jw68JLdf6FZzMqBhTq7KRrK+hVqx76J5WBCRMph5CocuGZ435PlRw3jCpVZSLOHEf88gffv6X5h9ySEk39Y7bdHtp3SpTlbP550aXnNoq9Td9dZzIM4vqo6khkLOzdRv6rV0FQzQrsOLyHblX2ejTp5jD0CefkrE00xI6h+j4vkCSvFI2gnMcYHFhJ1ycfVA==;v5JzoXfzEg3o7OzVESy9Lg=="
+secured: "OxpowszN8iew1+48L+UY1UNaVGWuRZdj5nrqkafWpAsruf+P+B9aFanPSEY3G7yzoIMqyjOClXvsU2YoJDe4aYTaUpkIrwVmKHfT6AkJR/8kedCXIj+9NB34WSe0pPW5SaQEebrZjnmnj6zPw2guSpc4UX0qkt72ncr1oXUyoh/M6tdPQvsKSecexec027f5q1T4XVG9ilokQrcNUie43l8xCCYHxBMHmIILxeTumHQ8w+AoKk9uv8ZuQvk/Ortwt+EHxv14e78zuG3qeoLypLbBC9povijyiG/2c6mNwoD9JfJDFsQBDevv9DV4/aw20uxVAnbBJLQ+vBwvFJE9riZwXg+sdYdud2YTVMR3VRw=;yU+EhgUeqPSbnE1GPJpzgg=="
 ---
 

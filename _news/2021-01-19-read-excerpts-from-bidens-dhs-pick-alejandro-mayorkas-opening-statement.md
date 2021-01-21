@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate confirms Avril Haines as director of national intelligence, the first Biden Cabinet nominee confirmed"
+    excerpt: "The Senate confirmed President Joe Biden's first Cabinet nominee Wednesday evening, voting to approve his pick for director of national intelligence, Avril Haines, on his first day in office\n    \n"
+    publishedDateTime: 2021-01-21T00:11:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z7q1lplxuYI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/avril-haines-confirmation-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/avril-haines-confirmation-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119110002-02-avril-haines-confirmation-hearing-0119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Simply no place for politics' in intelligence work, Biden's spy chief nominee will say"
     excerpt: "Avril Haines is set to tell senators that \"the DNI must never shy away from speaking truth to power — even, especially, when doing so may be inconvenient or difficult.\""
     publishedDateTime: 2021-01-19T12:57:00Z

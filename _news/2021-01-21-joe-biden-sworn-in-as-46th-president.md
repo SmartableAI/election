@@ -795,6 +795,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "‘Grateful’ Mike Pence returns to Indiana hometown as vice presidency ends"
+    excerpt: "Former Vice President Mike Pence returned Wednesday to his Indiana hometown, where he told a small crowd of family member and supporters that serving in the White House was the greatest honor of his life."
+    publishedDateTime: 2021-01-20T23:07:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 124
+    images:
+      - url: "https://www.chicagotribune.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
+        width: 1200
+        height: 896
+        isCached: true
   - title: "Watch Live: Inauguration Day events after Joe Biden sworn in as president"
     excerpt: "President Joe Biden and Vice President Kamala Harris were sworn into office Wednesday. Mr. Biden took the reins of power as 46th president of the United States at a perilous time in American history,"
     publishedDateTime: 2021-01-20T18:14:00Z
@@ -1750,6 +1766,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "The Radical Silence of Joe Biden’s Inauguration Day"
+    excerpt: "Walking through Washington, D.C., today, the silence in the streets was the sound of a country not quite ready to exhale. It was a fitting end to the noisiest era of American politics that many Americans can remember."
+    publishedDateTime: 2021-01-20T23:30:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2021/01/washington-dcs-eerie-quiet-bidens-inauguration-day/617760/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/617760/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617760/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/fqIJ09bt1fpR5kUXNuS2PKUHtUQ=/0x468:4500x2999/570x321/media/img/mt/2021/01/h_15471901/original.jpg"
+        width: 570
+        height: 321
+        isCached: true
   - title: "Twitter reacts to President Joe Biden’s inauguration"
     excerpt: "Throughout the inaugurations of Joe Biden and Kamala Harris, Twitter users rushed to share their thoughts on the ceremony, speeches, performances and more."
     publishedDateTime: 2021-01-20T18:50:00Z
@@ -1947,6 +1979,22 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 65
+  - title: "Ohio Congress members at President Joe Biden’s inauguration hope for new era of cooperation"
+    excerpt: "Rob Portman, an Ohio Republican who has attended the inauguration of every president since 1988, issued a statement that congratulated Biden and Vice President Kamala Harris and pledged to work with the new administration “on areas where we agree in order to make a difference in the lives of Ohioans and all Americans."
+    publishedDateTime: 2021-01-21T00:44:00Z
+    webUrl: "https://www.cleveland.com/open/2021/01/ohio-congress-members-at-president-joe-bidens-inauguration-hope-for-new-era-of-cooperation.html"
+    ampWebUrl: "https://www.cleveland.com/open/2021/01/ohio-congress-members-at-president-joe-bidens-inauguration-hope-for-new-era-of-cooperation.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/01/ohio-congress-members-at-president-joe-bidens-inauguration-hope-for-new-era-of-cooperation.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 65
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QJETWKPY55GGFFFBTMWU5OHYWM.jpeg"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "Joe Biden’s national security Cabinet nominees face Senate hearings a day before his inauguration"
     excerpt: "Joe Biden’s national security Cabinet may be bare on Day One of his presidency, but an inauguration eve spurt of Senate confirmation hearings suggests that won’t be the case for long."
     publishedDateTime: 2021-01-19T12:59:00Z
@@ -2089,6 +2137,6 @@ related:
         height: 800
         isCached: true
 
-secured: "OhYpVlQZrek+6hJk3iPIj2StN75Rk7Iz6Tl3GNhH5LAugzO0YjApLXPSl36N+CiMYLo55TqdBRSsEU5g3TlxsS78VrZdSJqBTLapWMUMvRCslLCSX1yapEKugOLDpatWsXsD10x/JoaJsR4Tom/vyXE8odyj9MhHdqCI9f2IJmL47IqoNRrYCB3lXOGu5gqFVotlQzJ855VtfhnpenyPrOOYSWvcLErockWFVn9zNasPGAGFWrnpxrQTlVePieTAzgeHxDvHg05y7jUmesCMgHbiXdimophc1ATft9BDEmtWcgNgOiCqi1laQmm/VubQ1nwWL42NYxhb7Ba0nYnYvn32+YUfbwX8g5c96vA+9Ec=;Y6SlfHrdoLhixttBItrX4w=="
+secured: "Z57yJq9FpUBPW48SJsQs4+8HhgCMGUz11Hsuvm4qPUQVymvzSlPcUHRwQVu97Tb60drbSQ3nhx/2tlMW6hZO5MKMGjATmAanA9FkdIV9U2ISKpvPQT+LYLToDV+pY/Atra4RWUcd707YfVnMlHUQ8peqkHrrcyeUF+h/Xm7/6vdJglrGD8jbRnDOipgRi7EX9nqc4Py3iNKO3HLS9Q+U7ep7U6SufGdQ6o0vgr4Zp0HbFI0Grfq+sIdMgcRhUs8+pvcJpJWOcTjQ1W/G4PpM0/mlTNEqBdVLIu+QBauN0/m8utP4ascG1qEaii30askTfRJlM8HYTyYbenaO+oambDUGP+bQAepr+dvnew44uZiV9OP1+uvTkubl+njcxBxD9gqSa74s9b9rWK3h9oq7CjddqQ+yydJabn4y/vzZjlAPbW1k+41TiS9uDtGGYYaH2S7QUGcxtSpKHa17KqH393uoLRm/2yWnm7qwB/iCb6kis7i3lt4xN9iR45h+pkZAcZ37l/BCqQa6MzSVmPYEiw==;EPUpwcgYLwW6OqxqnmuHnw=="
 ---
 

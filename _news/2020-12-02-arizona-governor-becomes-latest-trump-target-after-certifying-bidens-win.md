@@ -192,6 +192,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says Trump left him a 'very generous letter' before departing White House "
+    excerpt: "President Joe Biden said Wednesday that former President Donald Trump left him a \"very generous letter\" before departing the White House.\n    \n"
+    publishedDateTime: 2021-01-21T00:51:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jgnphJEtFgA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/trump-letter-to-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/trump-letter-to-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120171716-01-biden-executive-order-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden transition finds culture of coronavirus denial throughout Trump's federal government"
     excerpt: "Joe Biden's transition team found a culture of coronavirus skepticism within Donald Trump's federal government as they prepared to take office, sources close to the Biden transition told CNN, with political appointees loyal to the President reflecting his dismissiveness of public health guidelines and"
     publishedDateTime: 2021-01-19T22:01:23Z
@@ -1359,6 +1375,22 @@ related:
       - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_506/32b06dc7-3d69-430b-9f6e-a18487aadf7e.jpg"
         width: 900
         height: 506
+        isCached: true
+  - title: "WATCH: Joe Biden is sworn in as President of the United States"
+    excerpt: "Former Vice President Joe Biden is sworn in as the 46th President of the United States.Jan. 20, 2021 © 2021 NBC UNIVERSAL"
+    publishedDateTime: 2021-01-20T17:07:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-joe-biden-is-sworn-in-as-president-of-the-united-states-99731525830"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99731525830"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99731525830"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/swearing_biden.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden will halt federal executions, other actions on first day in office"
     excerpt: "The president-elect has a long list of executive actions he plans to take as soon as he's sworn in on Jan. 20."

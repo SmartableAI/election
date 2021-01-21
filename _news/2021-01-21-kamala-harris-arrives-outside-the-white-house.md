@@ -222,6 +222,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Obama and Harris share fist bump at inauguration in historic moment"
+    excerpt: "Barack Obama greeted Kamala Harris with a fist bump at the inauguration on Wednesday, a gesture that carried symbolic weight as the history-making former president prepared to watch Harris make some of her own.\n    \n"
+    publishedDateTime: 2021-01-20T22:52:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lCrxPF-2HHA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/obama-harris-fist-bump-inauguration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/obama-harris-fist-bump-inauguration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120174918-87-biden-inauguration-obama-harris-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Justice Sonia Sotomayor to administer vice presidential oath to Kamala Harris"
     excerpt: "On Wednesday, Vice President-elect Kamala Harris, a daughter of immigrants, and Sonia Sotomayor, the nation's first Latina Supreme Court justice, will meet on the largest stage in the country in an attempt to reset a nation in crisis.\n    \n"
     publishedDateTime: 2021-01-20T14:28:31Z
@@ -1367,6 +1383,20 @@ related:
       - url: "https://media1.s-nbcnews.com/j/newscms/2020_39/3413938/200922-mitt-romney-jm-1008_99f81a34375d303a730f304943acbaa2.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kamala Harris Swears In New Democratic Senators"
+    excerpt: "Vice President Kamala Harris swore in three new senators Wednesday: Jon Ossoff and the Rev. Raphael Warnock of Georgia, and Alex Padilla of California. Democrats now have narrow control of the Senate."
+    publishedDateTime: 2021-01-20T23:06:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007562266/harris-swears-in-ossoff-warnock-padilla.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/20/us/politics/20inaugural-briefing-senate-HFO/20inaugural-briefing-senate-HFO-facebookJumbo-v2.jpg?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
   - title: "What Sex Workers Want Kamala Harris to Know"
     excerpt: "I wish it was anyone else but Kamala Harris,” said Alex Andrews, cofounder of Sex Workers Outreach Project (SWOP) and SWOP Behind Bars. Andrews and other objected to the “torture” Harris put sex workers through when she was district attorney of San Francisco and attorney general of California."

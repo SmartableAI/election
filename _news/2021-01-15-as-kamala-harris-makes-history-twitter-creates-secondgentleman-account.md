@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818?amp=1"
 type: article
 quality: 124
-heat: 504
+heat: 524
 published: true
 
 provider:
@@ -312,6 +312,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/10/USAT/b3fd0232-3ab3-4b12-a045-181f80234537-AP_Biden.jpg?auto=webp&crop=3106,1748,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trailblazer Kamala Harris: America's First Woman Vice President"
+    excerpt: "Kamala Harris smashed through one of America's highest glass ceilings Wednesday, becoming the first woman, first Black American and first person of Asian heritage to be appointed vice president, blazing a trail in the most diverse White House ever."
+    publishedDateTime: 2021-01-20T23:06:00Z
+    webUrl: "https://www.ibtimes.com/trailblazer-kamala-harris-americas-first-woman-vice-president-3126954"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/07/former-vice-president-and-democratic-presidential-nominee-joe.jpg"
+        width: 1024
+        height: 701
         isCached: true
   - title: "I’m an American teenager of South Indian descent. Here’s what Kamala Harris means to me"
     excerpt: "Seeing Kamala Harris about to become U.S. vice president has largely fulfilled a childhood dream of mine, writes 15-year-old Disha Cattamanchi. \"Although I only see her through a TV screen, I see so much of myself and what I"

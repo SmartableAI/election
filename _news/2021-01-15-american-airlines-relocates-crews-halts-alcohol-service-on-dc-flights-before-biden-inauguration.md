@@ -1086,6 +1086,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Texas attorney general pledges to 'fight' Biden administration 'illegal actions'"
+    excerpt: "Texas Attorney General Ken Paxton vowed to \"challenge federal overreach\" by President Biden’s administration following Joe Biden's inauguration on Wednesday."
+    publishedDateTime: 2021-01-21T00:03:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BQ11MTZRL7U/texas-attorney-general-pledges-fight-biden-admin-illegal-actions"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-attorney-general-pledges-fight-biden-admin-illegal-actions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-attorney-general-pledges-fight-biden-admin-illegal-actions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe8fc2d9-c9e3-4447-81de-5b611e033520/dde443c2-1468-44ee-b064-5efe26a51ef6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ahead of Biden inauguration, FBI Director Wray warns of 'concerning online chatter'"
     excerpt: "FBI Director Christopher Wray warned Thursday that authorities are monitoring calls for “potential armed protests” in Washington D.C. and state capitols."
     publishedDateTime: 2021-01-14T23:13:36Z
@@ -1799,6 +1815,22 @@ related:
     quality: 145
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20338663126539-e1607365004301.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden's call for unity flies in the face of media vitriol toward Trump supporters"
+    excerpt: "Unity was a dominant theme of President Joe Biden's inaugural address on Wednesday, but it is unknown if that message will resonate with members of the mainstream media."
+    publishedDateTime: 2021-01-21T00:03:00Z
+    webUrl: "https://www.foxnews.com/media/biden-call-for-unity-media-vitriol-trump-supporters"
+    ampWebUrl: "https://www.foxnews.com/media/biden-call-for-unity-media-vitriol-trump-supporters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-call-for-unity-media-vitriol-trump-supporters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
         isCached: true
