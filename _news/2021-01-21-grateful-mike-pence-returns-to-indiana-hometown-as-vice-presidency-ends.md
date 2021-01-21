@@ -2,30 +2,26 @@
 category: news
 title: "‘Grateful’ Mike Pence returns to Indiana hometown as vice presidency ends"
 excerpt: "Former Vice President Mike Pence returned Wednesday to his Indiana hometown, where he told a small crowd of family member and supporters that serving in the White House was the greatest honor of his life."
-publishedDateTime: 2021-01-20T23:07:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+publishedDateTime: 2021-01-21T02:04:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
 type: article
-quality: 124
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
+  - url: "https://www.baltimoresun.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
     width: 1200
     height: 896
     isCached: true
@@ -719,20 +715,36 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Analysis: Biden issues call to unity that comes with urgency"
+    excerpt: "President Joe Biden was sworn into office on Wednesday and appealed to Americans to move past their deep divisions"
+    publishedDateTime: 2021-01-21T08:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/analysis-biden-issues-call-unity-urgency-75396894"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/analysis-biden-issues-call-unity-urgency-75396894"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-biden-issues-call-unity-urgency-75396894"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "How world leaders are reacting to Joe Biden's inauguration"
-    excerpt: "Here's how world leaders are reacting to U.S. President Joe Biden's inauguration on Wednesday, replacing Donald Trump."
-    publishedDateTime: 2021-01-21T03:18:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-world/how-world-leaders-are-reacting-to-joe-bidens-inauguration-idUSKBN29P1IL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P1IL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P1IL"
+    excerpt: "Here is how world leaders are reacting to U.S. President Joe Biden's inauguration on Wednesday, replacing Donald Trump."
+    publishedDateTime: 2021-01-21T07:12:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-world-int-idUSKBN29P1IT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P1IT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P1IT"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548508964&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J1RB"
-        width: 817
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548535645&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J1BK"
+        width: 774
         height: 545
         isCached: true
   - title: "Inauguration updates: How Biden administration could affect Arizona"
@@ -2249,6 +2261,6 @@ related:
         height: 800
         isCached: true
 
-secured: "ABCyOfV0BgR3RY8q0TlAr8VwHtRgkNXcYFE/CMqgsd4TMXS8kZroWkTXKb55Z7T14lT2haWYZw8h1MPbELglkgxgJEYIDvIlhU3qQowNnrwbTjWgmTclRz5BtsRXO8gmZAybqgXn3ec3pGNVjdJ9CJKhcUZvKJmF3cvN4MSzI+qy0viy+WRnUiDFCLdh57fprHs8SE5aePyCuMETKoQoz/LmfXWCg1MISVUzGqHFWU9B/kSyKMxJfPBpRqN2+ItLi/PjoQ4AJgzxyng6D6UFHzTzuF4XiSQukF3GiQaEND8Rvugl7goFS1oPFvCqaZ9DRv3goYCIfKIeOtVZQsJqPAfsKyKgh03XY4f66fyFEEE=;V/qyUsa3WWGAIzd7+pmkIg=="
+secured: "yL9d4BuAA2MT8IRWStG3TEooIVinZHg2q/ppjKZaB1i/3YlMpyGlgrXNrxOqs43pokIH35mUH3bfMuqyaoXlbJc00Div21cO9FtVXbhxA6Iy95Ws/dcJEBzhB608znNX/tO0w9GDSEYZmJ6IvGrMd4DeFw0msIO2s28K8eZLdVhpfCBWz9swBHInhFvz49kOlhE2zCb9fA0Qx8y53kCr2PA1Go13VjKkuMnnuFC1Aa+NJTHRrGoSUj/1JC8iAdCCDy77MKhgoA62Pz1ko6VbSO87oQNlRF1sgPNfGu6UW3MAvWl1gwBhqS8O6iJzh5nV6rYCKSR1n0uHFRnfQbSwsiC5zd8alVRKF4tfrIrY+1c=;m/eaT5NXTtDd4rBEtBXmzQ=="
 ---
 

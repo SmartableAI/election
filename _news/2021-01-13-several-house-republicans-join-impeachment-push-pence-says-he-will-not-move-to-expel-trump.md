@@ -477,6 +477,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "In one of his final acts, Trump showered clemency on people with connections to him and his allies"
+    excerpt: "A Washington Post analysis of the 144 people who received clemency this week found that at least 45 — or nearly a third — had a link to the president or people in his close orbit."
+    publishedDateTime: 2021-01-21T08:34:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-pardons/2021/01/20/dfc79216-5b49-11eb-8bcf-3877871c819d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-pardons/2021/01/20/dfc79216-5b49-11eb-8bcf-3877871c819d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pardons/2021/01/20/dfc79216-5b49-11eb-8bcf-3877871c819d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V6HT4GC3E4I6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 1059
+        isCached: true
   - title: "U.S. Chamber CEO says Trump undermined U.S. democratic institutions"
     excerpt: "U.S. Chamber of Commerce CEO Thomas Donohue issued a stinging rebuke to President Donald Trump on Tuesday, calling Trump's actions last week in connection with rioting at the U.S. Capitol \"absolutely unacceptable and completely inexcusable."
     publishedDateTime: 2021-01-13T00:39:00Z

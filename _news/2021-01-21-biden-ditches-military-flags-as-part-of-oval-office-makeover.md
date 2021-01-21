@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-ditches-military-flags-oval-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ditches-military-flags-oval-office-makeover.amp"
 type: article
 quality: 175
-heat: 335
+heat: 375
 published: true
 
 provider:
@@ -140,6 +140,36 @@ related:
     quality: 158
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden barely sworn in as 'Squad' member, ally start pushing progressive agenda"
+    excerpt: "Members of the progressive \"Squad\" have signaled their interest in pushing the Biden administration to the left as the president takes office on his first day."
+    publishedDateTime: 2021-01-21T08:25:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-squad-progressives-agenda-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-squad-progressives-agenda-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-squad-progressives-agenda-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/217e07b5-fe3e-44e6-8631-82e86584dc1e/b9c76771-450d-4252-a7a3-1fff339e7935/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden urges end to ‘uncivil war,’ asks for media truth, but can he pull it off?"
+    excerpt: "When Joe Biden urged America to \"stop the shouting, lower the temperature,\" the new president was returning to the raison d’etre of his candidacy, that he would defuse the animosity"
+    publishedDateTime: 2021-01-21T08:11:00Z
+    webUrl: "https://www.foxnews.com/media/biden-urges-end-to-uncivil-war-asks-for-media-truth-but-can-he-pull-it-off"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 111
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21020611790427.jpg"
         width: 1280
         height: 720
         isCached: true

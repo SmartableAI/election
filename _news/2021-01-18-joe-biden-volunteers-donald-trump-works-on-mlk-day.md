@@ -76,6 +76,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden revokes Trump report promoting 'patriotic education'"
+    excerpt: "President Joe Biden has revoked a recent Trump administration report that aimed to promote “patriotic education” in schools but that historians rejected as political propaganda"
+    publishedDateTime: 2021-01-21T08:54:00Z
+    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/biden-revokes-trump-report-promoting-patriotic-education-75396964"
+    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/biden-revokes-trump-report-promoting-patriotic-education-75396964"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/biden-revokes-trump-report-promoting-patriotic-education-75396964"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_8df592987d85478690a5db8cff460315_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden unveils $1.9 trillion economic relief as Trump's Senate trial looms"
     excerpt: "Majority Leader Mitch McConnell said the Senate would not reconvene before January 19, the day before Mr. Trump leaves office."
     publishedDateTime: 2021-01-15T14:26:00Z
@@ -427,6 +443,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1712566/mitt-romney-murkowski.jpg"
         width: 2500
         height: 1643
+        isCached: true
+  - title: "'Just move on': Republicans grapple with post-Trump future"
+    excerpt: "President Joe Biden’s inauguration represents a new high point for Democrats, who have assumed control of Congress and expelled Donald Trump from the White House"
+    publishedDateTime: 2021-01-21T08:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/move-republicans-grapple-post-trump-future-75397098"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/move-republicans-grapple-post-trump-future-75397098"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/move-republicans-grapple-post-trump-future-75397098"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c6748618b74149f5b10824d9ab121b0c_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden, a longtime ally of police, will enter White House pushing for reform"
     excerpt: "We’ve always had a good working relationship with Biden,” said Jim Pasco, executive director of the Fraternal Order of Police, which twice endorsed Trump. He was one of the first police officials invited to meet with the Biden transition team."

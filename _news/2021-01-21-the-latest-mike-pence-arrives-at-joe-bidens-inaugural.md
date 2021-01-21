@@ -3,8 +3,8 @@ category: news
 title: "The Latest: Mike Pence arrives at Joe Biden’s inaugural"
 excerpt: "The Latest on Joe Biden's presidential inauguration (all times local): 11:10 a.m. Vice President Mike Pence has arrived at the inauguration of President-Elect"
 publishedDateTime: 2021-01-20T16:19:00Z
-originalUrl: "https://apnews.com/article/joe-biden-inauguration-news-0a49b6d8b3c9904d88d5bccfd854ab25/gallery/a1421ef0a5ed41479c0e480c3ffcf287"
-webUrl: "https://apnews.com/article/joe-biden-inauguration-news-0a49b6d8b3c9904d88d5bccfd854ab25/gallery/a1421ef0a5ed41479c0e480c3ffcf287"
+originalUrl: "https://apnews.com/article/joe-biden-inauguration-news-0a49b6d8b3c9904d88d5bccfd854ab25/gallery/f9fc4dd896e3409d897ab46a5ce8de60"
+webUrl: "https://apnews.com/article/joe-biden-inauguration-news-0a49b6d8b3c9904d88d5bccfd854ab25/gallery/f9fc4dd896e3409d897ab46a5ce8de60"
 type: article
 quality: 120
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/cb20dae5de0a42bcb9e5b43440f7b309/3000.jpeg"
+  - url: "https://storage.googleapis.com/afs-prod/media/5778b713a90b4512b9d50e26eb6f6d5b/3000.jpeg"
     width: 3000
     height: 2000
     isCached: true
@@ -2740,6 +2740,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "B/d4rpW/6Bgoemj3oXAncZXOLvC4j5QtZYHDLRwzxrhugBTHw2Xx3RPQd4Pwidntw++xvuH6qc9NyfGYESP+T0C+LlvizklDcmAtczMUmAwi0qweDAgpCe0oSEGHEbh2CZdM9Jd5RIGeuSosFQTt/LTvtt36P4pddzNvpO17gNqlAEgXjfK9w5bgAlCH0f/80mkLEEVuuS6J3wFgVb7CIPbyDFge1m3HizrNgti/eknx0HBcICpJwmDrRdTlGpZ2WF3VPbBs58VDzE3QJYWCqONj2PkGnyseRjnpmRk4kjj8SZ/0U+lzrm73CyK0Qf2/w3hifLr1FlXhnWktLyTsvXGEq2IOt/d95y6QGCt3JZBf8UYZvhjLGKlMOah1MIkNDDgg32hVjMLGBsAgANLWO3nfywRqDLSXkGrj3KJE5Ek5xr93M3+fTAeQ5iO58FTUJ6MwjRv5qZTBSAljKPdoUQxFfzb/sCbsiD3PhZgVJ8RDRb5ejbrtRIKPB89+xtcvbiLDnsIJXfta8aEwefM4Ew==;msmgcF+1lYLrMA0VNHQixQ=="
+secured: "2PoI/bwrUJhWbR3eb6bsdnPkTzQXJK70gJb5Nd2pcnKpLqD2BALORYbbvhrNfoyLp3zOig4Q1vVjgwq7Q2DO8O7JvvgD4hS3p5Io/BdwLoEkud8L1Z47JxvZXmtpt4S/lD+n2H9LzbGnpelc+jp4lN1D5iOsVE3Zl8K/Un0Wzs/qZaBRlPv61/Pdowrcn3svJqpxVI8qGIW8jvQ1f5HyafIInErAUXKaUO1EfoKtyjY5My+7/lAI/qbDIapGhaHQVTmGEA6nReje69y+14Om+Swcw2/d7vGyjNFItkPsJGV27URSi5sb86ZzX4e/s3REd7IdsPwbs+gcor7Op/KZ+AdyS8qzk9m7ZRP6pLrfpRw=;ugp7lOalmUftf9A6mDCc8A=="
 ---
 

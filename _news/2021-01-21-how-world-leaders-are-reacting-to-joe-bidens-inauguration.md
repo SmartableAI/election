@@ -1,12 +1,12 @@
 ---
 category: news
 title: "How world leaders are reacting to Joe Biden's inauguration"
-excerpt: "Here's how world leaders are reacting to U.S. President Joe Biden's inauguration on Wednesday, replacing Donald Trump."
-publishedDateTime: 2021-01-21T03:18:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-world/how-world-leaders-are-reacting-to-joe-bidens-inauguration-idUSKBN29P1IL"
-webUrl: "https://www.reuters.com/article/us-usa-biden-world/how-world-leaders-are-reacting-to-joe-bidens-inauguration-idUSKBN29P1IL"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P1IL"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P1IL"
+excerpt: "Here is how world leaders are reacting to U.S. President Joe Biden's inauguration on Wednesday, replacing Donald Trump."
+publishedDateTime: 2021-01-21T07:12:00Z
+originalUrl: "https://www.reuters.com/article/usa-biden-world-int-idUSKBN29P1IT"
+webUrl: "https://www.reuters.com/article/usa-biden-world-int-idUSKBN29P1IT"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P1IT"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P1IT"
 type: article
 quality: 125
 heat: -1
@@ -25,8 +25,8 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548508964&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J1RB"
-    width: 817
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548535645&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J1BK"
+    width: 774
     height: 545
     isCached: true
 
@@ -719,6 +719,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Analysis: Biden issues call to unity that comes with urgency"
+    excerpt: "President Joe Biden was sworn into office on Wednesday and appealed to Americans to move past their deep divisions"
+    publishedDateTime: 2021-01-21T08:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/analysis-biden-issues-call-unity-urgency-75396894"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/analysis-biden-issues-call-unity-urgency-75396894"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/analysis-biden-issues-call-unity-urgency-75396894"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Inauguration updates: How Biden administration could affect Arizona"
     excerpt: "Joe Biden, a Democrat and former vice president, will be sworn in on Wednesday as the 46th president of the United States."
     publishedDateTime: 2021-01-20T16:36:00Z
@@ -830,22 +846,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/f4c66dc3becc14952a51bc8d6504077c8a930be0/0_0_6877_4128/master/6877.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2176f28814bd79b46a5d4c9800440178"
         width: 600
         height: 360
-        isCached: true
-  - title: "‘Grateful’ Mike Pence returns to Indiana hometown as vice presidency ends"
-    excerpt: "Former Vice President Mike Pence returned Wednesday to his Indiana hometown, where he told a small crowd of family member and supporters that serving in the White House was the greatest honor of his life."
-    publishedDateTime: 2021-01-20T23:07:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 124
-    images:
-      - url: "https://www.chicagotribune.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
-        width: 1200
-        height: 896
         isCached: true
   - title: "Watch Live: Inauguration Day events after Joe Biden sworn in as president"
     excerpt: "President Joe Biden and Vice President Kamala Harris were sworn into office Wednesday. Mr. Biden took the reins of power as 46th president of the United States at a perilous time in American history,"
@@ -1974,6 +1974,22 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "‘Grateful’ Mike Pence returns to Indiana hometown as vice presidency ends"
+    excerpt: "Former Vice President Mike Pence returned Wednesday to his Indiana hometown, where he told a small crowd of family member and supporters that serving in the White House was the greatest honor of his life."
+    publishedDateTime: 2021-01-21T02:04:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 74
+    images:
+      - url: "https://www.baltimoresun.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
+        width: 1200
+        height: 896
+        isCached: true
   - title: "How Mike Pence's hometown views his legacy as vice presidency comes to an end"
     excerpt: "In a music store in this small city 45 minutes southeast of Indianapolis, a picture of Vice President Mike Pence playing guitar hangs by the door. Nearby"
     publishedDateTime: 2021-01-18T11:03:00Z
@@ -2249,6 +2265,6 @@ related:
         height: 800
         isCached: true
 
-secured: "lt/Bp3JUXqeDcQTFhy4gjezs5AkWrV4PSJqFGywl/vo6cC+p19L/Y/5GJAF5+yzUol4kLDNKy2q9h7dBfWozs9gn6fRCxiQfHUeWCZnYUjkRfdAjPHJctlRtmyoVPVL6hPyd0Dbrj0F5MD8I63CVHSRiau/K2yN8AycHtn2lXDgFIWfJKqlD2up25s+3K0VlF9xnlO6AHGoEaiYb/FV53S4KGliwDWdKoVaVXro4hp89R/l4DLLKTUsauPk1LS4EN4dueTEIxfF0EUyo6d8K5XDvgQcVWfsOQk0LQtQvaAyuM7is5EuUr4/P2L32J4RZCtapW6v4dQD39TKRSE1AaLkzK1d1CJzhmspZ7xAKg5qF7mDkuyfQnYleINulZghoF75OBkF/qqjcOqRIlIvzXfgNM5ZQO8ROZdXTSfEe6iCEA0OQT4GY85CYlOPfzRSEpqOQsiSvFT4f0uX01xC6dGUQuz2c7pJboKNp5k+wIWJXwqHcLBbY3n3j6NVJ0Sb5+6P68lWCWvBExC0c9tAO/g==;0xWhM51d5fs/nBRkkxipGg=="
+secured: "fPmO/Dw6lGzl5BYYFMzD9i97Eyy7MjL0wgzVfCcUEJTt/CuEHXtHurnNiL8/7FD1TrO1vG0207XU2+feKBA4nNIBcXUO28XqHeTDoC54OBqakXgOajGFX4r2nwF+D9cVVAx65GeeWi0ksSJ0joJ9kLm25mIkeWFUcl8Nvb1MIBrYyl8SFtRbILEYXi1IB3BYNqMlvOmzZk2bgMZcl79Sfk62jQufiwhjEpOpEIwAzch31u5rEzElcIfnxzCMJTkpYpuGtYAEtGFPH6a9wTSokPP240HfLWZrWFzCDzKZDuRRi8tKsQInPWo2YNFh+yOKOqMS5dIyF8csldBdN3afXbOFCImlqTh6CC7tf+9QJyw=;IB+VACNqkwVt9ZzR6LRiuQ=="
 ---
 
