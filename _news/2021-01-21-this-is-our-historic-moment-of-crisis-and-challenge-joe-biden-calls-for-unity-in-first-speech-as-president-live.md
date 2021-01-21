@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inaug
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
 type: article
 quality: 102
-heat: 142
+heat: 122
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden said his Cabinet would be 'the most diverse in history.' We ran the numbers on 7 different metrics to see how diverse his staff really is."
-    excerpt: "Insider dug into race, age, gender, educational background, and more to find out how Biden's administration diversity compared to that of America."
-    publishedDateTime: 2021-01-16T17:47:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-cabinet-diversity-analysis-2021-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-    images:
-      - url: "https://i.insider.com/5ff4b9a33793140019e2870d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "‘We will get through this together’: Newspaper front pages herald President Joe Biden, review challenges ahead"
     excerpt: "Joe Biden dominated, of course, but here and there his groundbreaking vice president Kamala Harris grabbed top billing."
     publishedDateTime: 2021-01-21T13:05:00Z

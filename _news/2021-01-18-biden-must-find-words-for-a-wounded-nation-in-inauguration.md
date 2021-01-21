@@ -628,6 +628,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ted Cruz rips Senate Dems for pursuing 'vindictive' Trump impeachment despite Biden call for unity"
+    excerpt: "Cruz also took aim at a slate of 17 executive orders and actions taken by Biden immediately after he entered the Oval Office."
+    publishedDateTime: 2021-01-21T21:52:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ksTsVvAyMKM/ted-cruz-rips-senate-dems-trump-impeachment-biden-call-for-unity"
+    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-rips-senate-dems-trump-impeachment-biden-call-for-unity.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-rips-senate-dems-trump-impeachment-biden-call-for-unity.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b173d16-0c20-4697-8eac-83c678872f0b/30cd7a30-5edd-4683-9053-993c62795c91/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden tries to go from normalcy to relevancy"
     excerpt: "Biden found the best way in was to promise to just be cool... Will it be enough?"
     publishedDateTime: 2021-01-14T20:23:23Z

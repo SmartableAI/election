@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/gen-milley-key-to-military-c
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 345
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Biden to keep Wray as FBI director - law enforcement source"
+    excerpt: "President Joe Biden has asked Christopher Wray to stay on as FBI director and Wray has agreed to remain the head of the agency, a U.S. law enforcement source told Reuters."
+    publishedDateTime: 2021-01-21T22:56:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-fbi-idUKKBN29Q2L3?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29Q2L3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29Q2L3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548600363&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K17H"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Joe Biden's Plan to Extend Russia Nuclear Treaty Praised by Arms Control Groups"
+    excerpt: "\"After years of Trump putting Americans in harm's way by decimating international agreements, we can all breathe a bit easier now that he cannot start a nuclear war within minutes,\" Peace Action senior director for policy and political affairs Paul Kawika Martin told Newsweek."
+    publishedDateTime: 2021-01-21T22:43:00Z
+    webUrl: "https://www.newsweek.com/experts-praise-signs-biden-extend-new-start-trump-rejects-1563529"
+    ampWebUrl: "https://www.newsweek.com/experts-praise-signs-biden-extend-new-start-trump-rejects-1563529?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/experts-praise-signs-biden-extend-new-start-trump-rejects-1563529?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1713669/us-nuclear-missile-icbm-test.jpg"
+        width: 1000
+        height: 715
+        isCached: true
   - title: "Biden plans early legislation to offer legal status to 11 million immigrants without it"
     excerpt: "During his first days in office, President-elect Joe Biden plans to unveil a legislative proposal that would include a path to citizenship for 11 million immigrants in the U.S. illegally, according to activists in communication with his transition team."
     publishedDateTime: 2021-01-16T09:13:00Z

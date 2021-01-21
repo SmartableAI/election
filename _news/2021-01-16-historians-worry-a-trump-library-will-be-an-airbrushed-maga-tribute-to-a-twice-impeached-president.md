@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump impeachment trial likely in mid-February: Republican senator"
+    excerpt: "Former President Donald Trump's U.S. Senate impeachment trial is likely to begin sometime around mid-February in order to give his defense team time to prepare, Republican Senator Mike Braun told reporters on Thursday."
+    publishedDateTime: 2021-01-21T22:43:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-trial/trump-impeachment-trial-likely-in-mid-february-republican-senator-idUSKBN29Q30X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q30X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q30X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548638815&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1PW"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Liz Cheney faces Wyoming backlash for Trump impeachment vote"
     excerpt: "Just before a mob unleashed a deadly rampage on the U.S. Capitol, President Donald Trump told tens of thousands of supporters that “we got to get rid” of Rep. Liz Cheney. The Wyoming congresswoman and No."
     publishedDateTime: 2021-01-19T03:26:00Z

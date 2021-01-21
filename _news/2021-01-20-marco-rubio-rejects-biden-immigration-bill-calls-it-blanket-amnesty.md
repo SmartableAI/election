@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/rubio-biden-immigration-bill-blanke
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-biden-immigration-bill-blanket-amnesty.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 172
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/af55468f-69c6-4cc8-a680-de46896e025a/3ddc0436-ce9c-4b17-9bc4-e7c1c3ce1aed/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Top Dem admits passing Biden immigration bill a ‘Herculean' task amid GOP opposition"
+    excerpt: "The Democratic senator leading the effort to pass the Biden immigration bill in the Senate said it will be a \"Herculean\" effort to get the sweeping legislation passed amid significant Republican opposition to the bill, which includes a path to citizenship for millions of illegal immigrants."
+    publishedDateTime: 2021-01-21T21:46:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/20Ar8gOrrkc/dem-biden-immigration-bill-herculean-task-gop-opposition"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-biden-immigration-bill-herculean-task-gop-opposition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-biden-immigration-bill-herculean-task-gop-opposition.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b5be180d-328e-4f5d-af61-019c0955172c/b08b4ba9-9b8d-40f9-825c-1a18e1a23586/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

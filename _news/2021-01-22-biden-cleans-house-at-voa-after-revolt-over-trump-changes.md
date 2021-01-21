@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Biden cleans house at VOA after revolt over Trump changes"
-excerpt: "The Biden administration has moved quickly to remove a number of senior officials aligned with former President Donald Trump from the Voice of America and the agency that oversees all U.S.-funded inte"
-publishedDateTime: 2021-01-21T20:48:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-cleans-house-at-voa-after-revolt-over-trump-changes/2021/01/21/234dc5de-5c29-11eb-a849-6f9423a75ffd_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-cleans-house-at-voa-after-revolt-over-trump-changes/2021/01/21/234dc5de-5c29-11eb-a849-6f9423a75ffd_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-cleans-house-at-voa-after-revolt-over-trump-changes/2021/01/21/234dc5de-5c29-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cleans-house-at-voa-after-revolt-over-trump-changes/2021/01/21/234dc5de-5c29-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+excerpt: "The Biden administration has moved quickly to remove a number of senior officials aligned with former President Donald Trump from the Voice of America and the agency that oversees all U.S.-funded international broadcasting."
+publishedDateTime: 2021-01-21T22:28:00Z
+originalUrl: "https://www.businessinsider.com/biden-cleans-house-at-voa-after-revolt-over-trump-changes-2021-1"
+webUrl: "https://www.businessinsider.com/biden-cleans-house-at-voa-after-revolt-over-trump-changes-2021-1"
+ampWebUrl: "https://www.businessinsider.com/biden-cleans-house-at-voa-after-revolt-over-trump-changes-2021-1?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-cleans-house-at-voa-after-revolt-over-trump-changes-2021-1?amp"
 type: article
-quality: 140
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Joe Biden's Options for Dealing with Donald Trump Are Worse than Watergate"
@@ -495,6 +489,38 @@ related:
         width: 2500
         height: 1643
         isCached: true
+  - title: "'Just move on': Republicans grapple with post-Trump future"
+    excerpt: "President Joe Biden’s inauguration represents a new high point for Democrats, who have assumed control of Congress and expelled Donald Trump from the White House"
+    publishedDateTime: 2021-01-21T22:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/move-republicans-grapple-post-trump-future-75397098"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/move-republicans-grapple-post-trump-future-75397098"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/move-republicans-grapple-post-trump-future-75397098"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c6748618b74149f5b10824d9ab121b0c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The three types of Republicans Donald Trump created"
+    excerpt: "Donald Trump departed the White House on Wednesday and left a Republican Party turned upside down. Many Republicans tried not to let Trump change things, vowing never to vote for him or work in his administration — and to publicly shame those who did."
+    publishedDateTime: 2021-01-21T16:09:00Z
+    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-trump-created-three-types-republicans-20210121-zwfqtru2fvhexm4dwgvdz76jmy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-trump-created-three-types-republicans-20210121-zwfqtru2fvhexm4dwgvdz76jmy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-trump-created-three-types-republicans-20210121-zwfqtru2fvhexm4dwgvdz76jmy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/UrZLd69HU1icaCBSsBq3vIlKOPI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/35ZRTEAFVBGLJPRRAKRZ2WWK3M.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden, a longtime ally of police, will enter White House pushing for reform"
     excerpt: "We’ve always had a good working relationship with Biden,” said Jim Pasco, executive director of the Fraternal Order of Police, which twice endorsed Trump. He was one of the first police officials invited to meet with the Biden transition team."
     publishedDateTime: 2021-01-11T13:38:00Z
@@ -510,6 +536,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QFBYXHRLUUI6TEDOTVK3MRI6WQ.jpg&w=1440"
         width: 1440
         height: 961
+        isCached: true
+  - title: "Biden signs executive actions on COVID, climate change, immigration and more"
+    excerpt: "On his first day in office, President Joe Biden signed more than a dozen executive actions, some of which reverse decisions made by his predecessor, former President Donald Trump. Several executive actions will make changes to the U."
+    publishedDateTime: 2021-01-21T22:45:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-signs-executive-orders-day-one/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-signs-executive-orders-day-one/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-signs-executive-orders-day-one/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/20/64589036-a7c4-4cc0-8d88-97ada3e2066b/thumbnail/1200x630/1f674aad3fe473e9bf1691bb7579e28c/ap21020808952796.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden minimum wage proposal could lift more than 1 million workers out of poverty"
     excerpt: "Biden's $1.9T coronavirus relief plan 08:37 President-elect Joe Biden's proposal to more than double the federal minimum wage would provide an urgently pay hike to millions of low-income workers and help stem inequality in the U.S., economists and labor ..."
@@ -1184,6 +1226,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Top Republicans Ask Biden for Tougher Response to China Sanctions on Trump Officials"
+    excerpt: "The Biden administration faced pressure from Republican lawmakers on its second day in office for a more forceful response to Beijing's announcement of sanctions against the architects of former President Donald Trump's tough China policy. As Democrat Joe ..."
+    publishedDateTime: 2021-01-21T22:05:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-21/top-republicans-ask-biden-for-tougher-response-to-china-sanctions-on-trump-officials"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-21/top-republicans-ask-biden-for-tougher-response-to-china-sanctions-on-trump-officials?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-21/top-republicans-ask-biden-for-tougher-response-to-china-sanctions-on-trump-officials?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 63
   - title: "New study examines how Donald Trump used Twitter to craft an alternate reality for his followers"
     excerpt: "The study analyzed thousands of Trump's tweets to show how Trump used Twitter to craft a world where what he said was dogma."
     publishedDateTime: 2021-01-17T08:30:00Z
@@ -1290,6 +1343,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "XF+oogy1QLUjngg8J+4NO/ghSOEe9NlzkP+fLAX6+cwRQwxpCrAYzOIR7JkwX2IeFhTY3XqXP5A3OrO06tdGFWhXpLDUGwztrWMM//fLI8UITm7HgjoKDYJ0f7tJMfurBaJ4/ho10iCOCLGZM081za5uCX/2k04rDpgovbV5DZJMIFxyvhSX1pGVHaaK7Di9YkjQlciR0G67mQ7VEVS+Sgxf7+QmUlNC3SelePP1/EThXnTP2UgmgkgBsUUT2G56UdqBhlFqHgotr99uakKNqymaYIwqluZkwAcM7VQj3V0WSv/auai/JPV6XwEL5S/LS5TRJ/eBFd5keRhRxzOiN6pc9aN4+6Uta1KE3UcBakU=;MqqPfabeqBcxqCrUZST9fQ=="
+secured: "Ty4SgtqEgTcvs55pAMym0vJvEZc/aCABvGomxKrbszBeeE06CIEuuiJuyvUPY2NuFsl5qwFm+u+npzNCCFdw/MgZL23cYAmjL78ZSVUQh7vPN0BrOnF3dat4u7CwsXuP+5QzzFQypJEKWTExRFzgc+5NHdHvqSnEXM7O+1PXxBZzsNXGkkfnpu5gl5D5QhE7UAAVPF4U2XglDifuaTgRtRnlsRXqZXrld8TaxxsfdvtZRAin35a9ZuvnbF8+XJUCInHXd7SJoOY6h/yQx8lsUVGmlNxJzVCNGwtwmX64TXWjyjE6j+H9ycrui6ZBHdDOmZUtkB/IL7K792NC5hVHOmZNzvOq/O6nruqnAnGMotw=;WAjq8RLpsBuVlyxvsTpQpA=="
 ---
 

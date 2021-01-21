@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/14/politics/mitch-mcconnell-republic
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/14/politics/mitch-mcconnell-republican-senator-plans/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200909130029-01-oroville-ca-fire-0909-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "McConnell to propose allowing Trump two weeks to prepare impeachment defense"
+    excerpt: "Senate Minority Leader Mitch McConnell is proposing to give former President Donald Trump two weeks to prepare his legal case for his impeachment trial, according to sources familiar with the matter."
+    publishedDateTime: 2021-01-21T22:00:00Z
+    webUrl: "https://www.politico.com/news/2021/01/21/pelosi-impeachment-articles-461085"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/21/pelosi-impeachment-articles-461085"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/21/pelosi-impeachment-articles-461085"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 132
+    images:
+      - url: "https://static.politico.com/7b/17/e17b6a284ed9ad5c5455fa8fb8ec/ap21020845965214.jpg"
+        width: 4970
+        height: 3312
         isCached: true
   - title: "Trump conviction faces uphill climb in Senate. It could all come down to McConnell."
     excerpt: "Senators are not expected to consider the House impeachment resolution until Tuesday, the day before President-elect Joe Biden takes office."

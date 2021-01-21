@@ -1662,6 +1662,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden's first full day in office"
+    excerpt: "There are still no calls planned between President Biden and former President Trump, White House press secretary Jen Psaki said. Asked again about the note Trump left Biden, Psaki said Biden telling reporters yesterday he wouldn’t reveal the contents of the “generous” letter until he spoke with him was not Biden seeking a call with his predecessor."
+    publishedDateTime: 2021-01-21T22:06:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/president-joe-biden-news-01-21-20/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/president-joe-biden-news-01-21-20/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/president-joe-biden-news-01-21-20/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120213030-biden-inauguration-speech-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Vice President Mike Pence ensures 'safe inauguration' after Capitol riot"
     excerpt: "During a briefing at FEMA headquarters, Vice President Mike Pence addressed the Capitol riot and ensured an “orderly transition into a safe inauguration.”"
     publishedDateTime: 2021-01-14T22:56:00Z

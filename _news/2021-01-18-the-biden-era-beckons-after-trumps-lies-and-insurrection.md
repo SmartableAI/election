@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 2590
+heat: 2610
 published: true
 
 provider:
@@ -828,6 +828,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120155118-04-biden-parade-waving-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Republicans position themselves for 2024 with Trump's future looming large"
+    excerpt: "Republicans are already making moves toward the 2024 election, jockeying to succeed former President Donald Trump now that he has departed Washington, either by picking up his mantle or by trying to steer the party in a new direction.\n    \n"
+    publishedDateTime: 2021-01-21T22:39:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/00dxtib9GOQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/2024-republican-primary/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/2024-republican-primary/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121165614-cruz-haley-pompeo-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

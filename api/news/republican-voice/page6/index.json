@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-29-trump-slams-weak-and-tired-senate-gop-leaders-amid-defense-veto-override-fight.md",
+      "title": "Trump slams 'weak and tired' Senate GOP leaders amid defense veto override fight",
+      "excerpt": "President Trump on Tuesday condemned \"weak and tired\" Senate Republican leadership as the upper chamber faces a vote to override his veto of the 2021 defense budget.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/owOMsiaR5FI/trump-weak-senate-leaders-defense-budget",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/owOMsiaR5FI/trump-weak-senate-leaders-defense-budget",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/986da2d7-f8ad-4ef2-bfbf-76e0321a0afa/3dcfc7ce-c935-4968-a3b3-788592547a51/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weak-senate-leaders-defense-budget.amp",
+      "publishedDateTime": "2020-12-29T08:40:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-28-biden-calls-transition-obstruction-by-defense-department-irresponsible.md",
       "title": "Biden calls transition ‘obstruction’ by Defense Department irresponsible",
       "excerpt": "Taking aim at what he calls President Trump’s “go-it-alone” approach to international affairs, President-elect Joe Biden says he’ll restore “American leadership” across the globe.",
@@ -1603,62 +1659,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/james-clyburn-trump-got-out-the-way-operation-warp-speed.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/james-clyburn-trump-got-out-the-way-operation-warp-speed.amp",
       "publishedDateTime": "2020-12-21T15:21:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-gen-jack-keane-biden-must-be-willing-to-confront-the-chinese-communist-party.md",
-      "title": "Gen. Jack Keane: Biden must be 'willing to confront the Chinese Communist Party'",
-      "excerpt": "New reports confirm China lied about the severity of the coronavirus pandemic, making the question of how the incoming Biden administration will hold Beijing accountable an urgent one, Fox News senior strategic analyst Gen. Jack Keane told \"America's Newsroom\" Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jHsk4wB2VbM/gen-jack-keane-biden-china-coronavirus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jHsk4wB2VbM/gen-jack-keane-biden-china-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba0a1538-c4b5-405d-be79-641ee7ee5a41/35c5cb5e-2711-4458-bd3b-399da0382b26/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gen-jack-keane-biden-china-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gen-jack-keane-biden-china-coronavirus.amp",
-      "publishedDateTime": "2020-12-21T13:18:26-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

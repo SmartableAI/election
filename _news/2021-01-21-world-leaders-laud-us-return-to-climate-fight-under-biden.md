@@ -911,6 +911,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Guard troops head home after helping secure Biden inaugural"
+    excerpt: "A day after President Joe Biden’s inauguration went off with only a handful of minor arrests and incidents, more than 15,000 National Guard members are preparing to leave Washington, D.C. and head home."
+    publishedDateTime: 2021-01-21T22:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/guard-troops-head-home-helping-secure-biden-inaugural-75412244"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/guard-troops-head-home-helping-secure-biden-inaugural-75412244"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/guard-troops-head-home-helping-secure-biden-inaugural-75412244"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6bff48bd6ea34f0e85f46a27042b0bd2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Hope and inspiration at Joe Biden inauguration"
     excerpt: "Frank Paice reflects on Amanda Gorman’s powerful poem at the ceremony and Geoff Skinner wonders if the UK will also be brave enough to tackle racism. Plus Joan Furtado on why Trump should be happy"
     publishedDateTime: 2021-01-21T17:52:00Z
@@ -1118,6 +1134,22 @@ related:
       - url: "https://i.insider.com/5ff82f7cd184b30018aadb2b?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Fauci: 'liberating' to 'let the science speak' after Biden's inauguration – live"
+    excerpt: "Biden details coronavirus strategy and White House confirms Christopher Wray will remain FBI chief – follow live"
+    publishedDateTime: 2021-01-21T22:24:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/21/joe-biden-inauguration-administration-kamala-harris-covid-coronavirus-live-updates?page=with:block-6009fa7e8f08a609d05acb3d"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/21/joe-biden-inauguration-administration-kamala-harris-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/21/joe-biden-inauguration-administration-kamala-harris-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/585f421125353a2d98485202c8832629317ec1cd/0_116_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=62908d56825f6134201ccf7768425e6e"
+        width: 600
+        height: 360
         isCached: true
   - title: "Live Updates: Biden pauses to honor King as preparations continue for inauguration"
     excerpt: "Washington — President-elect Joe Biden and incoming first lady Jill Biden are honoring the life of Dr. Martin Luther King, Jr., on Monday, two days before Mr. Biden is sworn-in as president of the United States. The Bidens are recognizing the federal ..."
@@ -2513,6 +2545,6 @@ related:
         height: 800
         isCached: true
 
-secured: "tZ9eKRbwODes4McoOypmHKRQtRCR7tDd/D+Kj/8nQko7oJ7PkpMyeUlgkygiVQXuF7zeGO62C8rNGHQM8OQ1EaCcIhpp0ZCERmvCB88DFlFpqqmtWoPEyqhVQyO2qSTcQOjnxyu7209qxZ8mqsPchwuMLAbYeTsvTupeulEe/8khcckuA8drwRLUjxale1i3fyNa3xz30F7Pui4AxRQEWBwmWoqysFhbkSm1KhU5CMqElZwf7hncijOy/p9E0haoD88qa26dzZHs7VZpIOHhVkrLlG/CR3lc8SZigHq+bZydGlJBg2h3+SLC8aXSOm1zzMQ+VbULpS0ULw+MVF4Bv3yTR6yKEpTd4qEFGhYkgCE=;/q/hl/JkQ+EeTr2fkJ0sbQ=="
+secured: "wR3ZDpJk0tmg/gIb5E2iGqmc3rYoDDM5/eHbUzy9CrJhqoOthzmxQgjuvfWRpRElHGlCNTWVg5qFZm7wlq4am9EMPtqPQX9Fgc8DgfLsIzitQJVEqloDZSrqDwpuai44ZmhnH0/O6jsXDZXb54bY2kS+Kdd7fYKlNky15ggjDrfVT2VvFCCzCSn849ZXwbKkTl9ObBDuhL8PlHIikiKfpHnVuissTk64yiR7pgr7Y6N24rEiW6L54m558pf7ZXPtBYQCqfxV+GD0uliGE+4XjSfNsZi6xDYRYnFrdgNR+4TOv1up05HTqCGKxeyKrqnnGeBfAZwULZStPgvy9GyED2JpuiL/h9dkKwluf2g50JIauWEtSjX0YhNixIhVwY1PyS++11HI0A9Z0IDwznAwfx6VMUNuBOYNcMaf1Rwdh6gPol9G3W1aD9KXX+6horCOOZsxzWkYYyne+lf0SFuA/ePQYnw09qTcES2U7WZ/HK/tPhxKVY6+G+qrfWZlgNtD+K64ZZejucDCUAxfoXziHg==;u5X/OGm5kQMJfmwoxQdv3A=="
 ---
 

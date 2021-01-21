@@ -3643,6 +3643,20 @@ related:
         width: 800
         height: 557
         isCached: true
+  - title: "Live Updates: President Biden Gets to Work Undoing Trump's Legacy"
+    excerpt: "President Biden started dismantling Trump’s legacy just hours after he was sworn in, including rejoining the Paris climate agreement and mandating masks on federal property."
+    publishedDateTime: 2021-01-21T22:12:00Z
+    webUrl: "https://time.com/5930806/inauguration-live-joe-biden/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 120
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/01/Joe-Biden-presidential-inauguration-2021.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Surrounded by shrinking circle of aides, a brooding Trump lays into Pence"
     excerpt: "U.S. President Donald Trump has increasingly isolated himself in the White House, relying on a small group of diehard loyalists and lashing out at those who dare to cross him, including Vice President Mike Pence,"
     publishedDateTime: 2021-01-08T15:04:00Z

@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "McConnell to propose allowing Trump two weeks to prepare impeachment defense"
+    excerpt: "Senate Minority Leader Mitch McConnell is proposing to give former President Donald Trump two weeks to prepare his legal case for his impeachment trial, according to sources familiar with the matter."
+    publishedDateTime: 2021-01-21T22:00:00Z
+    webUrl: "https://www.politico.com/news/2021/01/21/pelosi-impeachment-articles-461085"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/21/pelosi-impeachment-articles-461085"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/21/pelosi-impeachment-articles-461085"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 132
+    images:
+      - url: "https://static.politico.com/7b/17/e17b6a284ed9ad5c5455fa8fb8ec/ap21020845965214.jpg"
+        width: 4970
+        height: 3312
+        isCached: true
 
 secured: "nVnIR0sCdnVN9i7/qUOME+tRMKRJgiQF5Dw47KU69JmldbkB6QO9LS0kMyrZAS81am64qJiOGzIhTcMoFbpseZwaQxVA+gqByODX7fKlBPdzovhxqEsOzFB3gWQz8t4dAx1EY66PGfT7TwaGILYqcrE8Q4Fzk1qnDgB04kQjO1OxipyWdwQcKUKNyDTwhn2dWjGkRf6kuW9OEgVYQVWYufmzE5rQGCgc+4uc6WY3VR/SikTfuT5ngXbcG63J5rgW2LkVsyYw90RnyvB+hq9eH6KJVQ8YYi2+IVAw6Lbsc85MbVycYBAU9vxk11wDSSTpXUl4Vc5TJi7OlNhjyZJlBndTri0HfEl+mWsK52S1lXCPZl5H68GXGhRolhT3bTDzDPVlOUNbRVLjDN5/2Q/jOYFTfDGEa5TX+NY58rHYpdqfPEn+BIkj9zbFnruaF/pqwqafNLy1V30vXL2/q2k2M+UNvdB8XbY4HXLTXRj01RRoe/hxf2XdvD59Dy1stfB9KfLIl3iPk55cPwZuumEE8g==;/UCU+sJNWab0UGqOLzMPtA=="
 ---

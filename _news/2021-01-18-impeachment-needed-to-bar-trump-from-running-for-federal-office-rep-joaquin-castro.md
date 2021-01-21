@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/impeachment-needed-bar-trump-run
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965"
 type: article
 quality: 118
-heat: 138
+heat: 158
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. House Speaker Pelosi says seeks clarity on Senate readiness for Trump impeachment trial"
+    excerpt: "U.S. House of Representatives Speaker Nancy Pelosi said on Thursday she will consult with fellow Democrats in coming days about the Senate's readiness to begin an impeachment trial of former President Donald Trump for his alleged role in the Jan."
+    publishedDateTime: 2021-01-21T22:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN29Q2C3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q2C3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q2C3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 114
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548626984&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1EA"
+        width: 855
+        height: 545
+        isCached: true
   - title: "Law enforcement officials brace for pro-Trump protests at state capitals"
     excerpt: "Members of the State police arrive at the Michigan state Capitol in Lansing, Michigan. REUTERS/Rebecca Cook"
     publishedDateTime: 2021-01-18T00:00:00Z

@@ -95,22 +95,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden cleans house at VOA after revolt over Trump changes"
-    excerpt: "The Biden administration has moved quickly to remove a number of senior officials aligned with former President Donald Trump from the Voice of America and the agency that oversees all U.S.-funded inte"
-    publishedDateTime: 2021-01-21T20:48:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-cleans-house-at-voa-after-revolt-over-trump-changes/2021/01/21/234dc5de-5c29-11eb-a849-6f9423a75ffd_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-cleans-house-at-voa-after-revolt-over-trump-changes/2021/01/21/234dc5de-5c29-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cleans-house-at-voa-after-revolt-over-trump-changes/2021/01/21/234dc5de-5c29-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Biden unveils $1.9 trillion economic relief as Trump's Senate trial looms"
     excerpt: "Majority Leader Mitch McConnell said the Senate would not reconvene before January 19, the day before Mr. Trump leaves office."
     publishedDateTime: 2021-01-15T14:26:00Z
@@ -511,6 +495,54 @@ related:
         width: 2500
         height: 1643
         isCached: true
+  - title: "'Just move on': Republicans grapple with post-Trump future"
+    excerpt: "President Joe Biden’s inauguration represents a new high point for Democrats, who have assumed control of Congress and expelled Donald Trump from the White House"
+    publishedDateTime: 2021-01-21T22:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/move-republicans-grapple-post-trump-future-75397098"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/move-republicans-grapple-post-trump-future-75397098"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/move-republicans-grapple-post-trump-future-75397098"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c6748618b74149f5b10824d9ab121b0c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The three types of Republicans Donald Trump created"
+    excerpt: "Donald Trump departed the White House on Wednesday and left a Republican Party turned upside down. Many Republicans tried not to let Trump change things, vowing never to vote for him or work in his administration — and to publicly shame those who did."
+    publishedDateTime: 2021-01-21T16:09:00Z
+    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-trump-created-three-types-republicans-20210121-zwfqtru2fvhexm4dwgvdz76jmy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-trump-created-three-types-republicans-20210121-zwfqtru2fvhexm4dwgvdz76jmy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-trump-created-three-types-republicans-20210121-zwfqtru2fvhexm4dwgvdz76jmy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/UrZLd69HU1icaCBSsBq3vIlKOPI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/35ZRTEAFVBGLJPRRAKRZ2WWK3M.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden signs executive actions on COVID, climate change, immigration and more"
+    excerpt: "On his first day in office, President Joe Biden signed more than a dozen executive actions, some of which reverse decisions made by his predecessor, former President Donald Trump. Several executive actions will make changes to the U."
+    publishedDateTime: 2021-01-21T22:45:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-signs-executive-orders-day-one/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-signs-executive-orders-day-one/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-signs-executive-orders-day-one/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 122
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/20/64589036-a7c4-4cc0-8d88-97ada3e2066b/thumbnail/1200x630/1f674aad3fe473e9bf1691bb7579e28c/ap21020808952796.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden minimum wage proposal could lift more than 1 million workers out of poverty"
     excerpt: "Biden's $1.9T coronavirus relief plan 08:37 President-elect Joe Biden's proposal to more than double the federal minimum wage would provide an urgently pay hike to millions of low-income workers and help stem inequality in the U.S., economists and labor ..."
     publishedDateTime: 2021-01-16T12:20:00Z
@@ -559,6 +591,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden cleans house at VOA after revolt over Trump changes"
+    excerpt: "The Biden administration has moved quickly to remove a number of senior officials aligned with former President Donald Trump from the Voice of America and the agency that oversees all U.S.-funded international broadcasting."
+    publishedDateTime: 2021-01-21T22:28:00Z
+    webUrl: "https://www.businessinsider.com/biden-cleans-house-at-voa-after-revolt-over-trump-changes-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-cleans-house-at-voa-after-revolt-over-trump-changes-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-cleans-house-at-voa-after-revolt-over-trump-changes-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Can Trump be tried for impeachment after leaving office? Would he keep his pension?"
     excerpt: "This is raising questions about whether he can even be tried for impeachment, since he'll already have moved out of the White House — and whether he'd still enjoy the benefits accorded to former presidents if the Senate convicts him."
     publishedDateTime: 2021-01-15T12:33:00Z
@@ -1184,6 +1227,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Top Republicans Ask Biden for Tougher Response to China Sanctions on Trump Officials"
+    excerpt: "The Biden administration faced pressure from Republican lawmakers on its second day in office for a more forceful response to Beijing's announcement of sanctions against the architects of former President Donald Trump's tough China policy. As Democrat Joe ..."
+    publishedDateTime: 2021-01-21T22:05:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-21/top-republicans-ask-biden-for-tougher-response-to-china-sanctions-on-trump-officials"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-21/top-republicans-ask-biden-for-tougher-response-to-china-sanctions-on-trump-officials?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-21/top-republicans-ask-biden-for-tougher-response-to-china-sanctions-on-trump-officials?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 63
   - title: "New study examines how Donald Trump used Twitter to craft an alternate reality for his followers"
     excerpt: "The study analyzed thousands of Trump's tweets to show how Trump used Twitter to craft a world where what he said was dogma."
     publishedDateTime: 2021-01-17T08:30:00Z

@@ -47,6 +47,38 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden to keep Wray as FBI director - law enforcement source"
+    excerpt: "President Joe Biden has asked Christopher Wray to stay on as FBI director and Wray has agreed to remain the head of the agency, a U.S. law enforcement source told Reuters."
+    publishedDateTime: 2021-01-21T22:56:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-fbi-idUKKBN29Q2L3?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29Q2L3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29Q2L3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548600363&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K17H"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Joe Biden's Plan to Extend Russia Nuclear Treaty Praised by Arms Control Groups"
+    excerpt: "\"After years of Trump putting Americans in harm's way by decimating international agreements, we can all breathe a bit easier now that he cannot start a nuclear war within minutes,\" Peace Action senior director for policy and political affairs Paul Kawika Martin told Newsweek."
+    publishedDateTime: 2021-01-21T22:43:00Z
+    webUrl: "https://www.newsweek.com/experts-praise-signs-biden-extend-new-start-trump-rejects-1563529"
+    ampWebUrl: "https://www.newsweek.com/experts-praise-signs-biden-extend-new-start-trump-rejects-1563529?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/experts-praise-signs-biden-extend-new-start-trump-rejects-1563529?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
+    images:
+      - url: "https://d.newsweek.com/en/full/1713669/us-nuclear-missile-icbm-test.jpg"
+        width: 1000
+        height: 715
+        isCached: true
   - title: "Marriott and others pledge to cut off money to members of Congress who doubted Biden win"
     excerpt: "The violent insurrection at the Capitol has companies scrambling to react, as the option of sitting on the sidelines grows increasingly unsatisfying."
     publishedDateTime: 2021-01-11T03:44:00Z

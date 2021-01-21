@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-arlington-wreath-layin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-arlington-wreath-laying-ceremony.amp"
 type: article
 quality: 200
-heat: 480
+heat: 500
 published: true
 
 provider:
@@ -191,6 +191,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21017083103212.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "What Happens When Kamala Harris Lives in Your Condo Complex"
+    excerpt: "Following the 2020 election, the Vice President’s neighbors were put on notice."
+    publishedDateTime: 2021-01-21T21:59:00Z
+    webUrl: "https://www.wsj.com/articles/what-happens-when-kamala-harris-lives-in-your-condo-complex-11611248353"
+    ampWebUrl: "https://www.wsj.com/amp/articles/what-happens-when-kamala-harris-lives-in-your-condo-complex-11611248353"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-happens-when-kamala-harris-lives-in-your-condo-complex-11611248353"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-286905/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Vogue offers digital Kamala Harris cover as a print copy after social media backlash"
     excerpt: "\"In celebration of this historic moment, we will be publishing a limited number of special edition #InaugurationDay issues,\" Vogue Magazine wrote in posts shared to Twitter, Facebook and Instagram. The digital cover shows America’s first Black-South Asian woman Vice President-elect wearing a powder blue suit from the Michael Kors Collection suit."

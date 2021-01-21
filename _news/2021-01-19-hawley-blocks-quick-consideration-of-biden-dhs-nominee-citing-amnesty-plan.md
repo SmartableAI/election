@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Top Dem admits passing Biden immigration bill a ‘Herculean' task amid GOP opposition"
+    excerpt: "The Democratic senator leading the effort to pass the Biden immigration bill in the Senate said it will be a \"Herculean\" effort to get the sweeping legislation passed amid significant Republican opposition to the bill, which includes a path to citizenship for millions of illegal immigrants."
+    publishedDateTime: 2021-01-21T21:46:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/20Ar8gOrrkc/dem-biden-immigration-bill-herculean-task-gop-opposition"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-biden-immigration-bill-herculean-task-gop-opposition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-biden-immigration-bill-herculean-task-gop-opposition.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b5be180d-328e-4f5d-af61-019c0955172c/b08b4ba9-9b8d-40f9-825c-1a18e1a23586/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden immigration bill would put millions of illegal immigrants on 8-year fast-track to citizenship"
     excerpt: "A radical immigration overhaul to be proposed this week by President-elect Joe Biden would include a path to citizenship that could see millions of illegal immigrants become U.S. citizens in just eight years."
     publishedDateTime: 2021-01-19T16:33:37Z

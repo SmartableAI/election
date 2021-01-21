@@ -43,20 +43,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Joe Biden said his Cabinet would be 'the most diverse in history.' We ran the numbers on 7 different metrics to see how diverse his staff really is."
-    excerpt: "Insider dug into race, age, gender, educational background, and more to find out how Biden's administration diversity compared to that of America."
-    publishedDateTime: 2021-01-16T17:47:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-cabinet-diversity-analysis-2021-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-    images:
-      - url: "https://i.insider.com/5ff4b9a33793140019e2870d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "6zd5cIDfZW5L4X5Kp65IZK72W/VxmRbs2kbM4GbNgFuJEd3E1WOuakEhBcorJY2cesUOfj5S7HEHJ1FmXYnmkE88VyM7hg+duRNh4d0NSJgRN7eEv0nXmkXAIQhKK8JD4AVhfv4VqhXt/mViPUt8nSbWy/VIMfArNKHn2ry+VskMLS2jZTOpIZKBKQ1qhozT0idV5a0TRg7lUL/o7JspjLz76dYiDbQxNVtQxaIvYwVkgx1Cgtc1re5vE5o+zG2/gGXsJWl0wXFt5LrpIXzi+ZxD/0YOb48PGXuMyZ4vQ8mZHrnLcqgHqurs7BmdsoyFst0YdqkIW1mc698CgcW9aLwvDPTMllPHqtk2A3ClcB8=;gzMd6bEy7brUTbMq3CdYCQ=="
 ---

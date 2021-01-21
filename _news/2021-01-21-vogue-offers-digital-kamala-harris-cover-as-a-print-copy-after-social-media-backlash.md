@@ -208,6 +208,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "What Happens When Kamala Harris Lives in Your Condo Complex"
+    excerpt: "Following the 2020 election, the Vice President’s neighbors were put on notice."
+    publishedDateTime: 2021-01-21T21:59:00Z
+    webUrl: "https://www.wsj.com/articles/what-happens-when-kamala-harris-lives-in-your-condo-complex-11611248353"
+    ampWebUrl: "https://www.wsj.com/amp/articles/what-happens-when-kamala-harris-lives-in-your-condo-complex-11611248353"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/what-happens-when-kamala-harris-lives-in-your-condo-complex-11611248353"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-286905/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Kamala Harris takes historic oath, becomes nation's first female, Black vice president"
     excerpt: "Kamala Harris cemented her place in history on Wednesday, becoming the first woman, and the first woman of color, to be sworn in as the vice president of the United States."
     publishedDateTime: 2021-01-20T16:58:00Z

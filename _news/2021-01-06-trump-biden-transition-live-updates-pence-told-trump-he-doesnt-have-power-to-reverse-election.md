@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-resul
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
 type: article
 quality: 168
-heat: 7748
+heat: 7768
 published: true
 
 provider:
@@ -3627,6 +3627,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547608000&r=LYNXMPEH0C02P&w=800"
         width: 800
         height: 557
+        isCached: true
+  - title: "Live Updates: President Biden Gets to Work Undoing Trump's Legacy"
+    excerpt: "President Biden started dismantling Trump’s legacy just hours after he was sworn in, including rejoining the Paris climate agreement and mandating masks on federal property."
+    publishedDateTime: 2021-01-21T22:12:00Z
+    webUrl: "https://time.com/5930806/inauguration-live-joe-biden/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 120
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/01/Joe-Biden-presidential-inauguration-2021.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Congress overrides a Trump veto for the first time with Senate vote on defense bill"
     excerpt: "The Senate action follows a House vote earlier this week, and the defense bill now becomes law despite the president’s objections."

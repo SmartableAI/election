@@ -812,6 +812,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Facebook Refers Trump Account Suspension to Oversight Board"
+    excerpt: "Facebook has referred its decision to indefinitely suspend former President Donald Trump from its platforms to an independent oversight board, as the company grapples with how to treat one of its highest profile users after his exit from public office."
+    publishedDateTime: 2021-01-21T22:51:00Z
+    webUrl: "https://www.wsj.com/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506?mod=politics_lead_pos7"
+    ampWebUrl: "https://www.wsj.com/amp/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-282048/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Republican Voters Oppose Trump Impeachment as Some Lawmakers Seek Distance"
     excerpt: "Some GOP lawmakers such as Rep. Nancy Mace of South Carolina have publicly criticized the president over the attack on the Capitol."
     publishedDateTime: 2021-01-14T18:13:00Z
