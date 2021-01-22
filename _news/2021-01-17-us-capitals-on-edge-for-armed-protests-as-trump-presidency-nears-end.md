@@ -109,6 +109,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Arizona GOP plots its future after Trump's presidency"
+    excerpt: "The Arizona Republican Party confronts its future this weekend after losing the presidential race and a second U.S. Senate seat in four years"
+    publishedDateTime: 2021-01-22T22:23:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/arizona-gop-plots-future-trumps-presidency-75434485"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/arizona-gop-plots-future-trumps-presidency-75434485"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/arizona-gop-plots-future-trumps-presidency-75434485"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6f970d7ab27649ca9c0da2caebb71a07_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "In 2nd Trump impeachment trial, will Chief Justice John Roberts preside?"
     excerpt: "Who will preside over the second Donald Trump remains a key open question as lawmakers prepare to begin the unprecedented proceeding as soon as Inauguration Day. The U.S. Constitution says that the Chief Justice of the Supreme Court \"shall preside\" over trials of the President of the United States,"
     publishedDateTime: 2021-01-18T20:37:00Z

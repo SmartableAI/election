@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/pence-heading-back-to-indian
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 3770
+heat: 3790
 published: true
 
 provider:
@@ -1407,6 +1407,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/d56f8ead-189e-4dbf-bf8b-f395ada506a6-AP21019701559210.jpg?auto=webp&crop=5513,3101,x1,y484&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Senior Democrats drafting plan to give parents at least $3,000 per child in Biden stimulus"
+    excerpt: "Senior Democratic lawmakers are drafting legislation to have the IRS send recurring monthly payments to tens of millions of American families."
+    publishedDateTime: 2021-01-22T22:09:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/01/22/biden-childtaxcredit-stimulus/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/01/22/biden-childtaxcredit-stimulus/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/01/22/biden-childtaxcredit-stimulus/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BC6AHEX6P4I6TA2BZQ644UXH3Y.jpg&w=1440"
+        width: 1440
+        height: 993
         isCached: true
   - title: "Biden will have more women in his Cabinet than any president ever. Other countries still do better."
     excerpt: "Most cabinets have a \"concrete floor\" for gender representation, and rarely go lower. Will Biden raise that floor in the United States?"

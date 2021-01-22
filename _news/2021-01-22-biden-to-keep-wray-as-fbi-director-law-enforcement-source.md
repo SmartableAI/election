@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Texas attorney general files lawsuit to block Biden's deportation freeze"
+    excerpt: "The Texas attorney general filed a lawsuit on Friday that seeks to block U.S. President Joe Biden's move to pause certain deportations for 100 days, a controversial opening-move by the Democratic president that has provoked blowback from some Republicans."
+    publishedDateTime: 2021-01-22T21:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-immigration-texas-idUSKBN29R2HM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R2HM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R2HM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548757965&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1FZ"
+        width: 830
+        height: 545
+        isCached: true
   - title: "As Joe Biden Calls for Unity, AOC Demands Josh Hawley and Ted Cruz Expulsions"
     excerpt: "The New York representative said the Republicans should be chucked out of the Senate if they failed to resign."
     publishedDateTime: 2021-01-22T14:23:00Z

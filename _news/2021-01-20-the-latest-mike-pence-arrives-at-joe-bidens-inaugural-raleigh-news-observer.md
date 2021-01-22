@@ -1413,6 +1413,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Senior Democrats drafting plan to give parents at least $3,000 per child in Biden stimulus"
+    excerpt: "Senior Democratic lawmakers are drafting legislation to have the IRS send recurring monthly payments to tens of millions of American families."
+    publishedDateTime: 2021-01-22T22:09:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/01/22/biden-childtaxcredit-stimulus/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/01/22/biden-childtaxcredit-stimulus/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/01/22/biden-childtaxcredit-stimulus/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BC6AHEX6P4I6TA2BZQ644UXH3Y.jpg&w=1440"
+        width: 1440
+        height: 993
+        isCached: true
   - title: "Biden will have more women in his Cabinet than any president ever. Other countries still do better."
     excerpt: "Most cabinets have a \"concrete floor\" for gender representation, and rarely go lower. Will Biden raise that floor in the United States?"
     publishedDateTime: 2021-01-16T02:03:00Z

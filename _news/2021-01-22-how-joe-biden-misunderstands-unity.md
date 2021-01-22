@@ -3,8 +3,8 @@ category: news
 title: "How Joe Biden Misunderstands Unity"
 excerpt: "In Biden's speech, St. Augustine's deep warning about misdirected unity in love of the wrong thing becomes the spiritual equivalent of c'mon, man. Read Full Article »"
 publishedDateTime: 2021-01-22T03:57:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/01/22/how_joe_biden_misunderstands_unity_534062.html#!"
-webUrl: "https://www.realclearpolitics.com/2021/01/22/how_joe_biden_misunderstands_unity_534062.html#!"
+originalUrl: "https://www.realclearpolitics.com/2021/01/22/how_joe_biden_misunderstands_unity_534062.html"
+webUrl: "https://www.realclearpolitics.com/2021/01/22/how_joe_biden_misunderstands_unity_534062.html"
 type: article
 quality: 65
 heat: -1
@@ -2134,6 +2134,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden says he’d be OK with delay in Trump impeachment trial to get ‘up and running’"
+    excerpt: "President Biden on Friday indicated that he’s OK with a delay in the Senate impeachment trial for former President Trump. Biden pleaded ignorance on Senate Minority Leader Mitch"
+    publishedDateTime: 2021-01-22T22:16:00Z
+    webUrl: "https://nypost.com/2021/01/22/biden-oks-trump-impeachment-trial-delay-to-get-up-and-running/"
+    ampWebUrl: "https://nypost.com/2021/01/22/biden-oks-trump-impeachment-trial-delay-to-get-up-and-running/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/22/biden-oks-trump-impeachment-trial-delay-to-get-up-and-running/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 144
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Biden-trump-trial.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Pence urges Biden administration to have ‘eternal vigilance’ in standing up to China"
     excerpt: "In one of his final public appearances before leaving the White House next week, Vice President Mike Pence urged the Biden administration to exercise \"eternal vigilance,\" especially when it comes to U.S.-China relations. \"As a new American administration ..."
     publishedDateTime: 2021-01-18T16:12:00Z
@@ -2691,6 +2707,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "KxS374m6QsxH/tjpul8gLsgWnKhXoJnxRUpuV8d7J7I6OZm7m6+v13NWYG6zVgDj6X9a6Z3O3IjHyuLdWxKqtqNI3k2TezzLfwBIsuW8WH0prTNbIN+Lg2y3nkCBLuEkjwH4CcZQ7xKsRA9wi0CINe1ZaqNft9jcJjjvNkJirbLne3GGndbmcgz8Ccr+zEGlzHGbUMgtiRNeeeXgSX9h9RIDxcgIChC/D7V+oiBv7zUUZWaOD9NvkS8pwwm64/W+4jtsQIKLnhHaiSKe4a14llsfCV38pHwTCrvGECsvTKT3yaaMFyrrxLxVD21A+jRsvufADLQfZvth+RjQl3C7//aOiFPPNQqMAmS+ebgR6CMMKOq8NLT4JzzclpTCxxtK9lka7sIoLdStXRRVJtEIvzTOwRKv5BRFUVrP6g+MsKN+1WJvqdb8MjozBPxEqC/ILSJivS4zQudobOeHGd44GRbwGbA65qNdJMxvz/6Z27t8Vs9CjWMhdev3ri15fYIaaFIbfAJPhhxwWuMKYn/fQw==;/P6EIBzbUuZHLXiRWXv/Nw=="
+secured: "38x3ZDECQrbCGGuBzPwYQdnjFHzx6BlVeVoosPKf1z5vovQjBJ0vQVJuzhLksoCJa6dp2zAqf46tke60m9WOInRHOJIBp71L5G2fosMRVHe5iA6iYRGVtwyWV8rvrBhX0vRcIbbgjKb7+JProfFiPsnV4Zspf04v6FJ9FlEbPg6KCzHi1hmGLYT0IBr2nT293KXNDIvmwcNZ/AsQtLi1cmVdC1Ns7oT5Q3gqvtFN9bVNxiU943HdZdd8Op+s6EqUHO0CImqC8GFpRLGQGY4VhHkBAAyrwpu1b1bMffCH/El0JI45vkRSr57nB0ynY1rmbEjvQw5OnGVjFUcMqa4owCG3qf1j7Lhws74s2XUFm3w=;/xhg5sGUyd0BkTaeU/b9jQ=="
 ---
 

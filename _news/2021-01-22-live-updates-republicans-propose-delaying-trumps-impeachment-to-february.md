@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Alaska's Murkowski pledges to stay with Senate Republicans despite issues with Trump"
+    excerpt: "Moderate GOP Sen. Lisa Murkowski has been very vocal for years that she’s no fan of Donald Trump’s takeover of the Republican Party."
+    publishedDateTime: 2021-01-22T21:51:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8BRqRHno_1E/alaskas-murkowski-pledges-to-stay-with-senate-gop-despite-issues-with-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/alaskas-murkowski-pledges-to-stay-with-senate-gop-despite-issues-with-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alaskas-murkowski-pledges-to-stay-with-senate-gop-despite-issues-with-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Live Updates: Trump's chances for acquittal in upcoming Senate impeachment trial unclear"
     excerpt: "Fox News contacted every Republican who will be serving as a senator after President-elect Joe Biden's inauguration on January 20, when the trial is likely to begin."
     publishedDateTime: 2021-01-15T06:05:37Z

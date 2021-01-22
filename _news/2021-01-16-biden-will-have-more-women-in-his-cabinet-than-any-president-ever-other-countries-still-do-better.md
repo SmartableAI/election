@@ -1423,6 +1423,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Senior Democrats drafting plan to give parents at least $3,000 per child in Biden stimulus"
+    excerpt: "Senior Democratic lawmakers are drafting legislation to have the IRS send recurring monthly payments to tens of millions of American families."
+    publishedDateTime: 2021-01-22T22:09:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/01/22/biden-childtaxcredit-stimulus/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/01/22/biden-childtaxcredit-stimulus/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/01/22/biden-childtaxcredit-stimulus/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BC6AHEX6P4I6TA2BZQ644UXH3Y.jpg&w=1440"
+        width: 1440
+        height: 993
+        isCached: true
   - title: "Joe Biden is sworn in as the 46th president, pleads for unity in inaugural address to a divided nation"
     excerpt: "Trump skipped the inauguration — themed “America United” — two weeks after inciting a deadly siege on the U.S. Capitol."
     publishedDateTime: 2021-01-20T21:50:00Z

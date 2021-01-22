@@ -96,6 +96,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Antony Blinken: What to know about Biden's secretary of state pick"
+    excerpt: "Antony Blinken, one of President Biden's longest and most trusted advisers, is set to take the helm of the State Department where he intends to reassert U.S. leadership on the global stage and unravel some of former President Trump's foreign policy decisions."
+    publishedDateTime: 2021-01-22T21:32:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X_YZQrVpXks/antony-blinken-what-to-know-about-bidens-secretary-of-state-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/antony-blinken-what-to-know-about-bidens-secretary-of-state-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/antony-blinken-what-to-know-about-bidens-secretary-of-state-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20329663004767-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden WH criticizes US as one of world’s largest greenhouse gas emitters"
     excerpt: "President Joe Biden took several steps to address his climate policy agenda on Wednesday."
     publishedDateTime: 2021-01-21T01:19:52Z

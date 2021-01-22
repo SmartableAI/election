@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Texas AG sues Biden administration over ‘unlawful and perilous’ deportation pause"
+    excerpt: "Texas Attorney Ken Paxton on Friday sued the Biden administration over what he described as an \"unlawful and perilous\" 100-day pause on deportations of illegal immigrants, claiming it would put Americans in danger and violated existing agreements. "
+    publishedDateTime: 2021-01-22T21:24:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ix6vv0ZSWJ0/texas-ag-sues-biden-deportation-pause"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-ag-sues-biden-deportation-pause.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-ag-sues-biden-deportation-pause.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53498b1f-9baf-4441-87c5-27e9e3ab74f4/9bc9a670-9738-4443-8020-fc71d9d4989f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Fauci says it's a 'liberating feeling' to 'let the science speak' in the Biden administration"
     excerpt: "Dr. Fauci making a lot of news by what he said about the Trump administration. Fauci saying he feels liberated, also adding this. DR. ANTHIONY FAUCI, DIRECTOR, NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES: One of the things that we are going to do is to be completely transparent,"
     publishedDateTime: 2021-01-22T16:20:00Z

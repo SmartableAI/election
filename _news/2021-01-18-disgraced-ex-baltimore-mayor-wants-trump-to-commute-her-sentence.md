@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ex-baltimore-mayor-trump-commute-se
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-baltimore-mayor-trump-commute-sentence.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Impeachment Article Against Trump to Be Delivered to Senate Monday"
+    excerpt: "The article of impeachment against former President Donald Trump will be delivered to the Senate Monday, Majority Leader Chuck Schumer said, triggering a second impeachment trial."
+    publishedDateTime: 2021-01-22T14:21:00Z
+    webUrl: "https://www.wsj.com/articles/impeachment-article-against-trump-to-be-delivered-to-senate-monday-11611328900?mod=hp_lead_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/impeachment-article-against-trump-to-be-delivered-to-senate-monday-11611328900"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/impeachment-article-against-trump-to-be-delivered-to-senate-monday-11611328900"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-289103/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "ALKp2Ow5EuFKd3UlTmCfj+Q3wAZitdkoaj06qqNn3elvzQMeSzuQGQcD99KDBFbwRPuzIO9EvSnkXUYWHy4WtQQDqKsH2a1rKBtw+ckWFew8RkC62xXWt85rtnkTFm2i5Fmmq1BgE5tDMxGx/iETmAYbf+30MjLvdb3nI7McdHybnWed+Vgs8xsIuEJuAghuqocFi+a1NBz0NfU0efKjCK6ArPDZ4lZPYVkCU5Zyaw4gyeeLUnrA3uboIkNw3pcUwaLAI7Ob9MghTsyEoo5utn6mcXKZGBH1kSxwd/0KmNLH7dbRFFFv3INbELWgKSj4llgFYN531o5vS2R2Eb0a7ZBcSuiFlDvT/H7gx0W3MBc=;JIU+RbW9sWajyY7B5bhZTg=="

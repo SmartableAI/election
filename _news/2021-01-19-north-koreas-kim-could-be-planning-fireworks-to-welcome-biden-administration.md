@@ -90,6 +90,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Texas attorney general challenges deportation freeze in first of promised lawsuits against Biden administration"
+    excerpt: "Texas Attorney General Ken Paxton asked a federal judge to block a new Biden administration policy that pauses most deportations for the next 100 days."
+    publishedDateTime: 2021-01-22T21:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/22/texas-ag-ken-paxton-files-lawsuit-block-biden-deportation-freeze/6678384002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6678384002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6678384002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/media/2020/11/20/Austin/ghows-TX-200729145-8717c8b4.jpg?auto=webp&crop=750,422,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden will encourage vaccination of all people over 65, frontline workers"
     excerpt: "The incoming administration of Democratic President-elect Joe Biden will seek to vaccinate all people over 65 and frontline workers, as Biden seeks to administer 100 million COVID-19 vaccines during his first 100 days in office."
     publishedDateTime: 2021-01-16T02:18:00Z

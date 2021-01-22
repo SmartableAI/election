@@ -225,6 +225,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "McConnell Wants to Delay Impeachment Trial to Give Trump Time to Prepare His Defense"
+    excerpt: "(WASHINGTON) — Senate Republican leader Mitch McConnell is proposing to push back the start of Donald Trump’s impeachment trial to February to give the former president time to prepare and review his case."
+    publishedDateTime: 2021-01-22T15:05:00Z
+    webUrl: "https://time.com/5932419/mconnell-delay-trump-impeachment-trial/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 78
   - title: "These GOP Senators May Vote To Impeach Trump; McConnell Leads The List"
     excerpt: "Senate Majority Leader Mitch McConnell would need a two-thirds vote to convict Trump of inciting an insurrection and remove the president through impeachment."
     publishedDateTime: 2021-01-15T04:59:00Z

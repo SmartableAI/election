@@ -735,6 +735,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Glad-handing Biden begins foreign diplomacy with the telephone"
+    excerpt: "President Joe Biden had been inside the White House for only two hours on Wednesday before finding an opportunity to recall one of his many intimate meals with a foreign leader who, now they are both presidents, can officially be called a counterpart.\n    \n"
+    publishedDateTime: 2021-01-22T21:45:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/puolGrFLA7E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/joe-biden-foreign-leaders/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/joe-biden-foreign-leaders/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/110819085112-u-s-vice-president-joe-biden-and-chinese-vice-president-xi-jinping-story-top.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Texas attorney general sues Biden administration over deportation pause"
     excerpt: "Texas Attorney General Ken Paxton on Friday sued the Biden administration over its 100-day deportation pause, citing an 11th-hour agreement between Texas and the Trump administration that required the Department of Homeland Security to consult with the state before making changes.\n    \n"
     publishedDateTime: 2021-01-22T20:11:21Z
@@ -1052,6 +1068,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115212144-01-alex-azar-2020-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Jill Biden makes surprise visit to National Guard troops during first official event"
+    excerpt: "First lady Jill Biden used her first official event outside of the White House to add a surprise visit Friday afternoon to National Guard troops at the United States Capitol.\n    \n"
+    publishedDateTime: 2021-01-22T21:43:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HxSBtN0rN1g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/jill-biden-troops-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/jill-biden-troops-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201214020153-doctor-jill-biden-file-0419-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -381,6 +381,22 @@ related:
         width: 789
         height: 545
         isCached: true
+  - title: "Trial ahead, Trump turns to ethics lawyer for his defense"
+    excerpt: "Butch Bowers is used to defending public officials in ethics cases. But he's never faced anything quite like this. It's up to Bowers, a South Carolina elections and ethics lawyer, to rise and defend Donald Trump as the Senate plunges next week into an impeachment trial unlike any other,"
+    publishedDateTime: 2021-01-22T22:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trial-ahead-trump-turns-ethics-lawyer-defense-75433725"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trial-ahead-trump-turns-ethics-lawyer-defense-75433725"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trial-ahead-trump-turns-ethics-lawyer-defense-75433725"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_16ed7062cdc14e229d53ef52642f205d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump enters final days in power as US braces for potential unrest – live"
     excerpt: "Nation wakes to fear of more trouble in wake of Capitol attack but also hope inauguration can begin new era"
     publishedDateTime: 2021-01-17T14:49:00Z
@@ -855,17 +871,6 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2021-01-19/long-shot-capitol-rioters-hold-out-hope-for-a-trump-pardon"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-19/long-shot-capitol-rioters-hold-out-hope-for-a-trump-pardon?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-19/long-shot-capitol-rioters-hold-out-hope-for-a-trump-pardon?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Trial Ahead, Trump Turns to Ethics Lawyer for His Defense"
-    excerpt: "COLUMBIA, S.C. (AP) — Butch Bowers is used to defending public officials in ethics cases. But he's never faced anything quite like this. It's up to Bowers, a South Carolina elections and ethics lawyer,"
-    publishedDateTime: 2021-01-22T20:52:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-22/trial-ahead-trump-turns-to-ethics-lawyer-for-his-defense"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-22/trial-ahead-trump-turns-to-ethics-lawyer-for-his-defense?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-22/trial-ahead-trump-turns-to-ethics-lawyer-for-his-defense?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

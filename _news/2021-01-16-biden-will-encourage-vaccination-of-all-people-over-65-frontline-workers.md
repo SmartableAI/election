@@ -104,6 +104,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Texas attorney general challenges deportation freeze in first of promised lawsuits against Biden administration"
+    excerpt: "Texas Attorney General Ken Paxton asked a federal judge to block a new Biden administration policy that pauses most deportations for the next 100 days."
+    publishedDateTime: 2021-01-22T21:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/22/texas-ag-ken-paxton-files-lawsuit-block-biden-deportation-freeze/6678384002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6678384002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6678384002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/media/2020/11/20/Austin/ghows-TX-200729145-8717c8b4.jpg?auto=webp&crop=750,422,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "France's Le Maire: resolving trade sanctions is my priority for Biden administration"
     excerpt: "French Finance Minister Bruno Le Maire said on Thursday that resolving transatlantic trade sanctions were his priority for dealings with the incoming administration of U.S. President-elect Joe Biden."
     publishedDateTime: 2021-01-14T15:02:00Z

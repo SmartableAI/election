@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Impeachment Article Against Trump to Be Delivered to Senate Monday"
+    excerpt: "The article of impeachment against former President Donald Trump will be delivered to the Senate Monday, Majority Leader Chuck Schumer said, triggering a second impeachment trial."
+    publishedDateTime: 2021-01-22T14:21:00Z
+    webUrl: "https://www.wsj.com/articles/impeachment-article-against-trump-to-be-delivered-to-senate-monday-11611328900?mod=hp_lead_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/impeachment-article-against-trump-to-be-delivered-to-senate-monday-11611328900"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/impeachment-article-against-trump-to-be-delivered-to-senate-monday-11611328900"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-289103/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "NXFdtCOz4fMsxivnHVzwpA5x8pQmbG75W8b3KXpse54iYJOTHbgH6Vby0aBJVrr0oPdK3pHslHpXt3mluv6cm2kSfOlLf8weBPQchnpVliJI3OjRS7ykCiezb+flVrsb6HivF5TbqmqGVpepszdwKqZbCHl7s/kKSUpZdg69DWQKV3794H6xcIT6Cv4fYGd/fbO35qfIbgUu8CY+Wf2jIzhR94z0OuugnrmEfnFAz2BWKUxfTPE+MZ8DIte+zhjeOzbxIrWptAyzwIp3WfkAx4fb/WLBSjjX1Tiobc6XIlssRjePgj/8ScpTXiDyL39GrmcMxPGUCZITyDCMxC3nFQYYdjsNUAzZsVfbNohZe5s=;JTYMRvZGdifNg3DyIXfW7A=="
 ---

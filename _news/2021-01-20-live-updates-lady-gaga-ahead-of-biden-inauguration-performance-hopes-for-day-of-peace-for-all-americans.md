@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Alberta premier: Biden disrespected America's closest friend by canceling Keystone Pipeline"
+    excerpt: "The leader of the Canadian province of Alberta ripped President Biden Friday over his decision to cancel the Keystone XL pipeline almost immediately after taking office earlier this week."
+    publishedDateTime: 2021-01-22T21:57:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gybQMYfw3Vg/alberta-premier-biden-disrespected-americas-closest-friend-by-canceling-keystone-pipeline"
+    ampWebUrl: "https://www.foxnews.com/politics/alberta-premier-biden-disrespected-americas-closest-friend-by-canceling-keystone-pipeline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alberta-premier-biden-disrespected-americas-closest-friend-by-canceling-keystone-pipeline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c1e1d82-d707-41c9-8f8d-27992f839308/2e75011d-7fe9-4702-bd30-f3f9dbb90991/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden says he has 'never been more optimistic about America,' calls for unity in remarks at Lincoln Memorial"
     excerpt: "President Joe Biden from the Lincoln Memorial on Wednesday night said he has “never been more optimistic about America” than now, while again calling for unity and saying “democracy has prevailed.”"
     publishedDateTime: 2021-01-21T02:17:17Z

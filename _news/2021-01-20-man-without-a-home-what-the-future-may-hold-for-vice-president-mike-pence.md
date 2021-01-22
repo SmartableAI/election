@@ -2,17 +2,17 @@
 category: news
 title: "'Man without a home': What the future may hold for Vice President Mike Pence"
 excerpt: "After four years of steadfast loyalty to Trump, Pence is said to be open to a 2024 run, but his rift with the president may close off that option."
-publishedDateTime: 2021-01-20T10:14:00Z
-originalUrl: "https://www.freep.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
-webUrl: "https://www.freep.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
+publishedDateTime: 2021-01-20T01:51:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
+webUrl: "https://www.azcentral.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -109,6 +109,6 @@ related:
       domain: fresnobee.com
     quality: 35
 
-secured: "7HEhqC5QmGJj88IQy97b8eb28xDZ9HLzZMUHygzHa78TmVTCZc3trgpPhBUwo5G9rn2uRknoD/Atlb0z2yVdb1FgoAAaE6znBk84S4mZzk3EG2sBrv3a0qcgjHsO2jDczleKVyPaHX5SSa3Fy3yxCtFfHWpVsHJyFXDzYNTPWE9R+lVkpE3A3o3ZzPO92d0c7ilHMt3bxepNd+3IVaNRIMylkrAHe3vJeMpoKbyhWZSi3Clo22hAA7UBVOYITfs1uOGRW1RYi+c6Rki08amW5uzRpMdIWEEdxEyTsAfGXGnyABBkBVlmAZiK78sztiEnGNpAc2LlN/47oz6bd0uoBh8Yi/BgYp1kkAWB0zVAllOHQFd4OgKyyqehy2NkkDLFL3S9+HLFi0UCluKJj1Z7CmuwseWy/M5g2WXKB2WPts3zDM/4lQfF4Dk3CEWNHCUMfQ9o1PiP/qJ+hZBoZS/LjcsoOyoTUDvncnyY5UcLqkLw9p4n1JRNJgAqnoVg56f60dBefAIwdsDJPKj/ZS28FA==;sF07O30dx2mueDf9Ai/55Q=="
+secured: "ga8VBTsPgYHR4AK9Xp1a1kKpVxQcMxBUj9CMe3jqZOmSe89o/zofyXAyBOtBEm+A8PAd+KJzCD+S9wuYjLckjsgp6WEZj0808ZRzKtF0Z60k5UoPNRtwY2rvlYlnx5cSfWIfE6vJOP3yuEtO8U18QHoViKFCE/l7qncKdfxwNGQ16QPKe+CpAqnyE1aSuHPGqp1OgUbdcGjlWdmYaN3f51bIZkx6B8KUneMgZZ/d0aOnmibEJHzKSpdgsL20sGp4Hy6sumIOkthE7fcqXX6NQVXliqDd4TD2QJPXxBSdHTPcOx6kkvMiqfSLN3w3cXe9+BwtojgymacP7Z16Yx5uJXVibOjmLUpJuaWMS+J5rFw=;OMdzL6qFkzXOG3qXKVCTmQ=="
 ---
 

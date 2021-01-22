@@ -607,6 +607,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump should not get intelligence briefings"
+    excerpt: "After he leaves, Trump has no need to know ,” Susan M. Gordon presented a compelling argument for restricting former president Donald Trump’s access to intelligence briefings. Let us not forget that he is thought to have revealed information about highly classified operations in the Middle East to Russian officials when he met with them in the Oval Office in 2017."
+    publishedDateTime: 2021-01-22T22:24:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/trump-should-not-get-intelligence-briefings/2021/01/22/44f04cf0-5c21-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/trump-should-not-get-intelligence-briefings/2021/01/22/44f04cf0-5c21-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/trump-should-not-get-intelligence-briefings/2021/01/22/44f04cf0-5c21-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VI63LKS3FYI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 932
+        isCached: true
   - title: "Biden signs executive actions on COVID, climate change, immigration and more"
     excerpt: "On his first day in office, President Joe Biden signed more than a dozen executive actions, some of which reverse decisions made by his predecessor, former President Donald Trump. Several executive actions will make changes to the U."
     publishedDateTime: 2021-01-21T22:45:00Z

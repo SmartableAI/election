@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Prospects of convicting Trump erode as GOP grows vocal against Senate impeachment proceedings"
+    excerpt: "The path in the Senate to convict Donald Trump is extremely slim, with a growing number of Republicans expressing confidence that the party will acquit the former President on a charge that he incited the deadly insurrection aimed at stopping President Joe Biden's electoral win.\n    \n"
+    publishedDateTime: 2021-01-22T22:17:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KUEk3cRU-_U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/senate-republicans-trump-impeachment-case/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/senate-republicans-trump-impeachment-case/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022170329-21b-john-cornyn-play-button-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "m1AzRFWqqnhJ2Uqavyep+vCyUmYsbdhCBzW0DMyBpmifXYbVUkNOAyjMYLMDfsgO+XeqzETwVHN/0zZAkOkR0kMQQvROcQmeYqx1WWPULVKNuVziHns0F0kVruLBwoOpDfPAnxawl7z7jklv3cAXpYXGRbnsmTbgZjyLqu5z85HZa7a3qj7f70887Sw3q13JO7fNkXQ61G4XD7oM3Dsea/bj1faoJ02+mYeNrlnfbiL0fYl7rqzKVmWXP2t1y9a8So4tLE7eaeUdq1cH3Z5ciDnfR6PojLvy2w6XFWnbFBZSVZTS6/iReAm6ZPVZmJKrxUoTCFh0hXLYDQDXcKbycSZuWl+cviOV8tXPECPGD/g=;qtItfAShrRZG7qCTdzNA0w=="
 ---

@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Trial Ahead, Trump Turns to Ethics Lawyer for His Defense"
-excerpt: "COLUMBIA, S.C. (AP) — Butch Bowers is used to defending public officials in ethics cases. But he's never faced anything quite like this. It's up to Bowers, a South Carolina elections and ethics lawyer,"
-publishedDateTime: 2021-01-22T20:52:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-01-22/trial-ahead-trump-turns-to-ethics-lawyer-for-his-defense"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-01-22/trial-ahead-trump-turns-to-ethics-lawyer-for-his-defense"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-22/trial-ahead-trump-turns-to-ethics-lawyer-for-his-defense?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-22/trial-ahead-trump-turns-to-ethics-lawyer-for-his-defense?context=amp"
+title: "Trial ahead, Trump turns to ethics lawyer for his defense"
+excerpt: "Butch Bowers is used to defending public officials in ethics cases. But he's never faced anything quite like this. It's up to Bowers, a South Carolina elections and ethics lawyer, to rise and defend Donald Trump as the Senate plunges next week into an impeachment trial unlike any other,"
+publishedDateTime: 2021-01-22T22:28:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trial-ahead-trump-turns-ethics-lawyer-defense-75433725"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trial-ahead-trump-turns-ethics-lawyer-defense-75433725"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trial-ahead-trump-turns-ethics-lawyer-defense-75433725"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trial-ahead-trump-turns-ethics-lawyer-defense-75433725"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_16ed7062cdc14e229d53ef52642f205d_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Power Up: Trump-Pence relationship may set lowest bar yet"
@@ -871,6 +877,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "8GMg8rl/VlnOufrTgtyBkTgJOwrlgFuPLUZQybFoQrvGyPzu5r+9F66R+IWXSQuuTYj6/Dq4vwFX/WcfFH0DC+W5JmUbMjMitLdFUDWcMMtHyuwjlzmt59F8JY1NK52yJLMnPzN4bx0QB5uEmT2KJsNKTIL7HTlxePOlZhdr/6GyJ5idpR3rdb1NVQtmL5zPLmN6xhTkMYZCknqK9+Fkc7+ipHDm+Th2C9r3hnx9ctEfuhf1YY0Sk0C3fuKMx2sVigODTS+qD3P5ru4xpRCNREUxMhinOmXkjThxbnNDuk76foVKxrLqRFRtGj5Hzd7bCbQXwQSRa5MXGCweZ3nmYZTu97gAPKV0J49LOGG7OO2AwkNu48bFAQqiHUIiGUO39jcze+bXbfd6MUdoe3ayGaKFnpwIwbu5MOw8DqXvxNxUKsz0gK6Wk58ir52bRVbPOcWmN/DGg77kjggFpKdCcoCubKgNCRFt0VIROz3upKwSx55AnNneaq1wojgWXm/LoaONbpPLznOYFh81GHuwzg==;xRfXBGmwyRT7k6llb2CltA=="
+secured: "uqwAjoicreHsUk4KYRuGxyXKd+vqCbs8o+AqUknkgPQpED3KaIBJ5Wt7dwyKEekD84c/cuiqYGp97URmWk2IdWUhDw6hnoDk7Pxh3gNHJQLA6xHW/cjT3gNkEZ41ksDeNrQsceWQm57X2FIK5mCG3U/TbZrnztQ0WLaAwGZ0I3KAuocVQIOWcPguAn/n1FnmXnKcyUShsO8FhATggE1ZJ0bkuVG8IAYYx0k86jOxhVoRkXtmG0TT/1x5LKYHtYjOl4hlTBp0zpVtinjNxIdP8J6mUohaVdPCWSSvrIc5+iGo0W1P+Tjs0zbK6xFl53lFebZ4Yy3yu+1TffWWZH/mqiDPQ64O9mywqRxWIDrHWLk=;Dd1dF8FxSre/ieQd/Qx/Rw=="
 ---
 

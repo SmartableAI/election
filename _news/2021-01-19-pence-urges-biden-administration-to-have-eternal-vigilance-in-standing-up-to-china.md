@@ -2140,6 +2140,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden says he’d be OK with delay in Trump impeachment trial to get ‘up and running’"
+    excerpt: "President Biden on Friday indicated that he’s OK with a delay in the Senate impeachment trial for former President Trump. Biden pleaded ignorance on Senate Minority Leader Mitch"
+    publishedDateTime: 2021-01-22T22:16:00Z
+    webUrl: "https://nypost.com/2021/01/22/biden-oks-trump-impeachment-trial-delay-to-get-up-and-running/"
+    ampWebUrl: "https://nypost.com/2021/01/22/biden-oks-trump-impeachment-trial-delay-to-get-up-and-running/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/22/biden-oks-trump-impeachment-trial-delay-to-get-up-and-running/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 144
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Biden-trump-trial.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Chrissy Teigen followed by Joe Biden's POTUS Twitter account after being blocked by Trump"
     excerpt: "After years of bickering with Donald Trump on social media during his presidency, Chrissy Teigen became one of the first stars followed by Joe Biden’s @POTUS Twitter account."
     publishedDateTime: 2021-01-21T18:03:00Z
@@ -2645,7 +2661,7 @@ related:
   - title: "How Joe Biden Misunderstands Unity"
     excerpt: "In Biden's speech, St. Augustine's deep warning about misdirected unity in love of the wrong thing becomes the spiritual equivalent of c'mon, man. Read Full Article »"
     publishedDateTime: 2021-01-22T03:57:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/01/22/how_joe_biden_misunderstands_unity_534062.html#!"
+    webUrl: "https://www.realclearpolitics.com/2021/01/22/how_joe_biden_misunderstands_unity_534062.html"
     type: article
     provider:
       name: RealClearPolitics

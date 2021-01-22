@@ -1,0 +1,53 @@
+---
+category: news
+title: "Biden suggests delayed impeachment timeline may be 'better'"
+excerpt: "Biden suggested having more time to get his Cabinet nominees confirmed may help jumpstart his policy agenda."
+publishedDateTime: 2021-01-22T21:38:05Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DoBRsQcHzBk/biden-delayed-impeachment-timeline-standoff-congress"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DoBRsQcHzBk/biden-delayed-impeachment-timeline-standoff-congress"
+ampWebUrl: "https://www.foxnews.com/politics/biden-delayed-impeachment-timeline-standoff-congress.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-delayed-impeachment-timeline-standoff-congress.amp"
+type: article
+quality: 175
+heat: 195
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6f7deab-50b8-4854-a772-08d24f875fa1/65962725-c64c-4736-8a52-88203251a4ed/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "'Impeachment is totally wrong,' flies against Biden's unity message: McCarthy"
+    excerpt: "House Minority Leader Kevin McCarthy, R-Calif., encouraged President Biden to call Democrats off holding an impeachment trial for former President Donald Trump Thursday, whom he said could still lead the party going forward."
+    publishedDateTime: 2021-01-21T18:06:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mgN5jl5hpZo/impeachment-wrong-flies-against-bidens-unity-message-mccarthy"
+    ampWebUrl: "https://www.foxnews.com/politics/impeachment-wrong-flies-against-bidens-unity-message-mccarthy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/impeachment-wrong-flies-against-bidens-unity-message-mccarthy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c44be81c-5c8c-4e58-8ba9-ae49fc727bdc/0b142eae-7ee5-4a39-8206-ec49c98fc86b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "NGplkqCn0H43PJeUm/zCXLROV9aOWbKo/fursIJxGY1CFDDIrEi7oYyOrb+0jHsN4PYPRwW2zPBRZubahtcg+znsBMKDYXojfojWFFLgIseOcuts/LCcF5jHnQvlqdqPIjamIPFKvDiBgS9LxOeaP9aphZo3U/xZT8z/D9wh1eIQwXXyiiPUOkEJT9wgeHhXdEWfVkQe80akvqesyXQOrOVPWnWbBM6awOmx+fVHGxavCM99KylARchE+aOzFphKg8tD+1w/YxJZ8Ejh9fhkiROhA/CxA1l69daAwKR7xkztkI+pIwQ148rj0frgo1LuwdXDlhQBYlp1uQWDfKn9NYk17H26bLh0Rszl5wrBvRQ=;I454uiYg3U089D1puQ7gag=="
+---
+

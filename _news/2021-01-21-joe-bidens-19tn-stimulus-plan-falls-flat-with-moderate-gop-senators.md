@@ -591,6 +591,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump should not get intelligence briefings"
+    excerpt: "After he leaves, Trump has no need to know ,” Susan M. Gordon presented a compelling argument for restricting former president Donald Trump’s access to intelligence briefings. Let us not forget that he is thought to have revealed information about highly classified operations in the Middle East to Russian officials when he met with them in the Oval Office in 2017."
+    publishedDateTime: 2021-01-22T22:24:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/trump-should-not-get-intelligence-briefings/2021/01/22/44f04cf0-5c21-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/trump-should-not-get-intelligence-briefings/2021/01/22/44f04cf0-5c21-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/trump-should-not-get-intelligence-briefings/2021/01/22/44f04cf0-5c21-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VI63LKS3FYI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 932
+        isCached: true
   - title: "Biden, a longtime ally of police, will enter White House pushing for reform"
     excerpt: "We’ve always had a good working relationship with Biden,” said Jim Pasco, executive director of the Fraternal Order of Police, which twice endorsed Trump. He was one of the first police officials invited to meet with the Biden transition team."
     publishedDateTime: 2021-01-11T13:38:00Z
