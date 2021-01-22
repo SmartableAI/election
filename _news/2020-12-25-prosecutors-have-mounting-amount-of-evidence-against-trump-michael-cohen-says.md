@@ -63,6 +63,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Trump steps out of the White House and into a company in crisis"
+    excerpt: "New financial disclosures show the depth of his financial problems, compounded by his role in the Capitol riot."
+    publishedDateTime: 2021-01-22T07:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-company-financial-problems/2021/01/21/3899b7e4-5c25-11eb-8bcf-3877871c819d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-company-financial-problems/2021/01/21/3899b7e4-5c25-11eb-8bcf-3877871c819d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-company-financial-problems/2021/01/21/3899b7e4-5c25-11eb-8bcf-3877871c819d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7KCO3SRBIEI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Eyes on Pelosi as Trump impeachment trial timing up in the air"
     excerpt: "The timing of President Donald Trump's impeachment trial could come into clearer focus on Friday when House Speaker Nancy Pelosi is expected to take questions about her next steps at a morning news conference at the U."
     publishedDateTime: 2021-01-15T12:21:00Z

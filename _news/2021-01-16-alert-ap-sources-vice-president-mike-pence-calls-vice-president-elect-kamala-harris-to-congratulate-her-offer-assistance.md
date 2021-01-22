@@ -580,6 +580,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "AKA sorority members celebrate Kamala Harris inauguration"
+    excerpt: "Elizabeth Shelby had her inauguration outfit planned weeks in advance: blue jeans, a Kamala Harris sweatshirt, a green coat, and pink Chuck Taylors as an homage to her sorority’s colors and Vice President Harris’ signature shoe."
+    publishedDateTime: 2021-01-22T08:30:00Z
+    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/aka-sorority-members-celebrate-kamala-harris-inauguration-75407163"
+    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/aka-sorority-members-celebrate-kamala-harris-inauguration-75407163"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/aka-sorority-members-celebrate-kamala-harris-inauguration-75407163"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_7b5fa8ae6e0f4bdf9a8305a11105f665_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Swearing-in of Vice President Kamala Harris inspires girls nationwide"
     excerpt: "Parents around the country posted photos of their daughters watching Vice President Kamala Harris being sworn in as the first woman vice president."
     publishedDateTime: 2021-01-21T23:54:00Z

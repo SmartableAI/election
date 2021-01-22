@@ -141,6 +141,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "At Voice of America, a sweeping ouster of Trump officials on Biden’s first full day"
+    excerpt: "With a veteran reporter taking the place of controversial overseer Michael Pack, the dominoes started falling in other top offices."
+    publishedDateTime: 2021-01-22T04:37:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/media/at-voice-of-america-a-sweeping-ouster-of-trump-officials-on-bidens-first-full-day/2021/01/21/4827f3cc-5c2c-11eb-8bcf-3877871c819d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/media/at-voice-of-america-a-sweeping-ouster-of-trump-officials-on-bidens-first-full-day/2021/01/21/4827f3cc-5c2c-11eb-8bcf-3877871c819d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/at-voice-of-america-a-sweeping-ouster-of-trump-officials-on-bidens-first-full-day/2021/01/21/4827f3cc-5c2c-11eb-8bcf-3877871c819d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RW6HAORZYEI6XETWVYGKOJZJXY.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
   - title: "Biden, drawing contrast with Trump, sets tone of truthfulness and respect: ANALYSIS"
     excerpt: "President Joe Biden is drawing a sharp contrast with former President Trump, aiming to set a tone of truthfulness and respect."
     publishedDateTime: 2021-01-22T00:09:00Z

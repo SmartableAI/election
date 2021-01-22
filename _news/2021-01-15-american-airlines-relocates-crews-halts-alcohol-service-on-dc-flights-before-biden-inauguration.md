@@ -2378,6 +2378,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden confronts reality, press casts it as clearing the Trump wreckage"
+    excerpt: "Even if Biden somehow dons an FDR cape, no president would have the superpowers needed to vanquish the pandemic, revive the economy, achieve racial justice and heal the deep divisions"
+    publishedDateTime: 2021-01-22T08:26:00Z
+    webUrl: "https://www.foxnews.com/media/biden-confronts-reality-press-casts-it-as-clearing-the-trump-wreckage"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21021724549190.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Hunter Biden, under federal investigation, appears at White House prayer service"
     excerpt: "President Biden was joined by his family -- including his son Hunter, who is under investigation by the Justice Department -- at a White House prayer service Thursday, a day after being sworn into office."
     publishedDateTime: 2021-01-21T18:25:00Z

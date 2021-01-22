@@ -2380,6 +2380,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden confronts reality, press casts it as clearing the Trump wreckage"
+    excerpt: "Even if Biden somehow dons an FDR cape, no president would have the superpowers needed to vanquish the pandemic, revive the economy, achieve racial justice and heal the deep divisions"
+    publishedDateTime: 2021-01-22T08:26:00Z
+    webUrl: "https://www.foxnews.com/media/biden-confronts-reality-press-casts-it-as-clearing-the-trump-wreckage"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21021724549190.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump impeachment intended to keep him from seeking presidency again, Dems acknowledge"
     excerpt: "While some members of Congress have claimed that President Trump's impeachment and swift conviction are necessary to keep him from serving out the final days of his term, others have acknowledged that they are focused on keeping him from ever running again."
     publishedDateTime: 2021-01-18T18:13:00Z

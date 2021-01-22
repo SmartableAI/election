@@ -343,6 +343,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Top Iran leader posts Trump-like golfer image, vows revenge"
+    excerpt: "The Twitter account of Iran's Supreme Leader on Friday carried the image of a golfer resembling former President Donald Trump apparently being targeted by a drone, vowing revenge over the killing of a top Iranian general in a U."
+    publishedDateTime: 2021-01-22T08:17:00Z
+    webUrl: "https://www.reuters.com/article/us-iran-khamenei-twitter-trump-idUSKBN29R0DE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R0DE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R0DE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548662508&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L075"
+        width: 789
+        height: 545
+        isCached: true
   - title: "Trump enters final days in power as US braces for potential unrest – live"
     excerpt: "Nation wakes to fear of more trouble in wake of Capitol attack but also hope inauguration can begin new era"
     publishedDateTime: 2021-01-17T14:49:00Z

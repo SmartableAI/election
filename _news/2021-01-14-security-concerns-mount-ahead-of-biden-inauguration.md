@@ -927,6 +927,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "National Guard troops head home after helping secure Biden inauguration"
+    excerpt: "Meanwhile, The Washington Post and Politico reported that hundreds of Guard troops were relocated to a nearby garage. Photos of the troops in the garage drew outrage from lawmakers."
+    publishedDateTime: 2021-01-22T08:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/01/22/national-guard-troops-head-home/6668196002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6668196002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6668196002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/22/USAT/0a861519-a145-4638-9461-05f5b91435f9-AP_Pictures_of_the_Week_Photo_Gallery-North_America.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Time, transparency needed as Biden inherits frazzled census"
     excerpt: "The 2020 census has been battered by criticism that it was politicized by the administration of former President Donald Trump"
     publishedDateTime: 2021-01-21T16:30:00Z

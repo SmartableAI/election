@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/ny-prosecutors-interview-mic
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/ny-prosecutors-interview-michael-cohen-about-trump-finances/2021/01/15/a6b6b334-577b-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/12211/production/_116575247_mediaitem116575246.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Trump steps out of the White House and into a company in crisis"
+    excerpt: "New financial disclosures show the depth of his financial problems, compounded by his role in the Capitol riot."
+    publishedDateTime: 2021-01-22T07:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-company-financial-problems/2021/01/21/3899b7e4-5c25-11eb-8bcf-3877871c819d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-company-financial-problems/2021/01/21/3899b7e4-5c25-11eb-8bcf-3877871c819d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-company-financial-problems/2021/01/21/3899b7e4-5c25-11eb-8bcf-3877871c819d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7KCO3SRBIEI6XLKTJQP5USMQPU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Prosecutors have \"mounting amount of evidence\" against Trump, Michael Cohen says"
     excerpt: "\"What he is right now is very, very nervous and he is very scared,\" the president's former personal attorney told CBSN."
