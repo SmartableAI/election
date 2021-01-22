@@ -2053,6 +2053,22 @@ related:
         width: 4954
         height: 3303
         isCached: true
+  - title: "Why Kamala Harris Is Delaying Moving Into the Vice Presidential Residence"
+    excerpt: "The vice president and her husband are holding off on moving into the residence at the Naval Observatory, which was built in 1893."
+    publishedDateTime: 2021-01-21T16:36:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/why-kamala-harris-is-delaying-moving-into-the-vice-presidential-residence/2842314/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/why-kamala-harris-is-delaying-moving-into-the-vice-presidential-residence/2842314/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/why-kamala-harris-is-delaying-moving-into-the-vice-presidential-residence/2842314/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 74
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/kamalahouse.jpg?fit=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris reflects on women who 'paved the way' for historic inauguration"
     excerpt: "Kamala Harris marked her historic inauguration Wednesday as the first woman, first Black and South Asian American vice president with a tribute to her mother and the women who have fought for equality for 100 years."
     publishedDateTime: 2021-01-20T15:43:00Z

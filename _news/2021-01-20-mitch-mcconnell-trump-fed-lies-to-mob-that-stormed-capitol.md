@@ -248,6 +248,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "McConnell Seeks to Push Trump Impeachment Trial to February"
+    excerpt: "Senate Republican leader Mitch McConnell is proposing to push back the start of Donald Trump's impeachment trial to February to give the former president time to prepare and review his case. House Democrats who voted to impeach Trump last week for inciting the deadly Jan."
+    publishedDateTime: 2021-01-22T00:42:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-21/pelosi-vows-action-on-impeachment-trial-we-must-do-it"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-21/pelosi-vows-action-on-impeachment-trial-we-must-do-it?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-21/pelosi-vows-action-on-impeachment-trial-we-must-do-it?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "rnaALv8nekcXigDMtRsvDYDyAmsg3q+7HHXVgKHHpfsd4mGvVfXtUityF0qAezn+I7IIw2zkdp7Y8DMT4RC58ptw8pnhqn4YRdvcev4sO1XvkDlsv7TioOV48vvr+Ein3PNFcMOTLy8gb4s0RZtG7axQKn2aEb0ZqaytE7pfrMupx3t2tG7IXSOrWg8o+qAS8klrZ0pZY9+h6S5UHzLx5Z/bDvCztcWOeaON4uzeYWKyg0qSeDt21s2H7SjHWbVioVFIB/aW4RKmBcNy2j1KL2cy9iYBaDnu7bEjQesyMjiJ6J7yIgtdAaTNlyAD2ZKDt9En9hddyVbwr1WqC3SyA97hFcBa7wFXOuEr6PzErVM=;DwelvIQyV1hUF1NoqgxrDA=="
 ---

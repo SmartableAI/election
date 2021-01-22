@@ -101,6 +101,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "McConnell proposes delaying Trump's trial as Biden details Covid strategy – live"
+    excerpt: "Fauci says it is ‘liberating’ to work under new administration – follow live"
+    publishedDateTime: 2021-01-22T00:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/21/joe-biden-inauguration-administration-kamala-harris-covid-coronavirus-live-updates?page=with:block-600a0e518f08a609d05acc2d"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/21/joe-biden-inauguration-administration-kamala-harris-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/21/joe-biden-inauguration-administration-kamala-harris-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 135
+    images:
+      - url: "https://i.guim.co.uk/img/media/7777538c12d33c9fa8ae782ffd9e41c23f9813cc/0_113_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=91b247bff974cdec6bd8a4d814639e39"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden aims for new course on trade, breaking with Trump and Democratic predecessors"
     excerpt: "Biden will confront the same question that has bedeviled U.S. policymakers for three decades: How can the U.S. shape for maximum benefit its overseas commercial engagements?"
     publishedDateTime: 2021-01-14T18:53:00Z
@@ -116,6 +132,38 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/326P67B4AAI6XKWZRFMSE4UAYQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Biden, drawing contrast with Trump, sets tone of truthfulness and respect: ANALYSIS"
+    excerpt: "President Joe Biden is drawing a sharp contrast with former President Trump, aiming to set a tone of truthfulness and respect."
+    publishedDateTime: 2021-01-22T00:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-drawing-contrast-trump-sets-tone-truthfulness-respect/story?id=75403101"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-drawing-contrast-trump-sets-tone-truthfulness-respect/story?id=75403101"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-drawing-contrast-trump-sets-tone-truthfulness-respect/story?id=75403101"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 134
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-oval-office-rt-jef-210121_1611250718053_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden gets to work as Pelosi says Trump impeachment will head to Senate 'soon' – live"
+    excerpt: "Biden will sign 10 more executive orders to fight the coronavirus pandemic and is expected to retain Christopher Wray as FBI director"
+    publishedDateTime: 2021-01-21T15:05:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/21/joe-biden-inauguration-administration-kamala-harris-covid-coronavirus-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/21/joe-biden-inauguration-administration-kamala-harris-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/21/joe-biden-inauguration-administration-kamala-harris-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 133
+    images:
+      - url: "https://i.guim.co.uk/img/media/7777538c12d33c9fa8ae782ffd9e41c23f9813cc/0_113_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=91b247bff974cdec6bd8a4d814639e39"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden gets to work as Pelosi says Trump impeachment will head to Senate 'soon' – live"
     excerpt: "Biden will sign 10 more executive orders to fight the coronavirus pandemic and intends to retain Christopher Wray as FBI director"

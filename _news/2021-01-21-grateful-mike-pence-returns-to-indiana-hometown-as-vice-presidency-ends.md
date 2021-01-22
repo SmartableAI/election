@@ -2,30 +2,26 @@
 category: news
 title: "‘Grateful’ Mike Pence returns to Indiana hometown as vice presidency ends"
 excerpt: "Former Vice President Mike Pence returned Wednesday to his Indiana hometown, where he told a small crowd of family member and supporters that serving in the White House was the greatest honor of his life."
-publishedDateTime: 2021-01-20T23:07:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+publishedDateTime: 2021-01-21T02:04:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
 type: article
-quality: 124
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
+  - url: "https://www.baltimoresun.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
     width: 1200
     height: 896
     isCached: true
@@ -974,6 +970,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "World leaders cheer US return to climate fight under Biden"
+    excerpt: "World leaders have breathed an audible sigh of relief that the United States under President Joe Biden is rejoining the global effort to curb climate change, a cause that his predecessor had shunned"
+    publishedDateTime: 2021-01-22T00:11:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/world-leaders-laud-us-return-climate-fight-biden-75400439"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/world-leaders-laud-us-return-climate-fight-biden-75400439"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/world-leaders-laud-us-return-climate-fight-biden-75400439"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_6073505d30494aa594a16db744cf94ea_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden must find words for a wounded nation in inauguration like no other"
     excerpt: "Planners have been forced to be inventive after the deadly pandemic and now last week’s Capitol insurrection dictated a pared-down event"
@@ -2545,6 +2557,6 @@ related:
         height: 800
         isCached: true
 
-secured: "7Syln4bwxyT/KtE3TRGQBDLJnBu0rODabAVkRos00qqMcM1cKcdzxER0lIb9Dm0rR6Gx5BgjFGAvEkNxHfjk9WoDUN2a+qOQyj1M4JAZ2mOrf4VyyuorKvOwkOv5UpnRUAsz3rYMl8E6dM3/i5EB2XckrjgELyyi/3vTF9/Tiov9lkGK3auHql3UoqnpZpFhE7Hz7Gb/MKfb1dAlIyxtW7rRtEZnAtaGe8drK9zb+HdYDw5rXz6Pr+tuYbY96GZenivQCiEHSKgrRGiQm/VsrCp1zl7rwbvUQ8wB8KYqCuKv1n85+qFlmWUxZf11IWqZBAY/E0KO/Uwx47HVGc27h3U04l+LH+wx9ESWWvhCEwo3/VrQJ2h3dx21Tk9VagiTEoAjmIe6KOex034Jmt1HBlm5PJpGkaQL2OjEBZyVYpt0vGIpksXWWymOI5Z+ffxVB3BI2Hc7dM7s94oM7k9e13XP/Azz8skA46Cq3VZOJTl0Tq51LfyxbeBZtEGIFouVs6xMV+jxoJBpbAXQ4Q/JLQ==;7liV1oJrYn8yyx8ZhgkBbw=="
+secured: "XXfgaKs7W60Kb3tbzuaGgHdScbk4vVx8GIaqWvVt10mFgTTX/zpoH4jVyhvloPjQepAK5KbC7+yjDYYJzL3055fnvR+RKyJAogi2yUPwwT+TKOPMUumMu6vkis2EOLjwcov3nzHMWpNLXWf+gbTsYwU9FNdKL3LA9bYFp82mY1Zo1ad8avFE2LhqXBM5Glz118/TzrOWEBc+llwL6M9OemjpaGbv/STfKsmPgRRU8mzUxXJZm7sNPu844mQJsdt0gPRDyfEM1hwMUoHrI45AKzqBs7t81/pkSCTKcV78EV12mKj55ERj3oOyxhxNc6Z9aoN/fgCW+oORFWTnPL3N96kozmyx1SPi5ARyKdA5w1s=;MRsq7xXiXvk7hkmiSOaIyQ=="
 ---
 

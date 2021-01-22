@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-director-national-intelligenc
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-director-national-intelligence-haines-china.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-zxjs75c-xl.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "White House says Biden is a 'devout Catholic' when asked about abortion policies"
+    excerpt: "White House Press Secretary Jen Psaki described President Biden as a \"devout Catholic\" after being asked about his stances on taxpayer funding for abortion."
+    publishedDateTime: 2021-01-22T00:44:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PceLi3ISd4U/white-house-psaki-biden-devout-catholic"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-psaki-biden-devout-catholic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-psaki-biden-devout-catholic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad6f975f-2399-413d-a8ab-145d8c6f7a59/a3cbad7f-2295-4d5f-8b56-7ffdfa70f118/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden executive order says schools should include transgender athletes in girls' sports"
     excerpt: "President Biden, in an executive order aimed at \"preventing and combating discrimination on the basis of gender identity or sexual orientation,\" is calling on schools across the country to allow transgender athletes to participate in the sport of their gender identity."

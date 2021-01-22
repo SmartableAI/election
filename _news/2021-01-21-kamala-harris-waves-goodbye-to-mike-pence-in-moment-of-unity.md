@@ -641,6 +641,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Jaime Harrison officially elected Democratic National Committee chair"
+    excerpt: "Former South Carolina Democratic Party Chair Jaime Harrison has officially been elected the next chair of the Democratic National Committee, winning the organization's election after President Joe Biden selected him for the top political job.\n    \n"
+    publishedDateTime: 2021-01-21T23:26:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-AgEwuBC3qM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/jaime-harrison-dnc-chair/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/jaime-harrison-dnc-chair/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200226171621-02-jaime-harrison-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden, Harris to receive daily briefing, Trump to hold award ceremony, bill signing"
     excerpt: "Biden and Harris also will record an interview with CNN, while Trump will present the medal to former football coach Lou Holtz and participate in a bill signing."
     publishedDateTime: 2020-12-03T12:44:00Z

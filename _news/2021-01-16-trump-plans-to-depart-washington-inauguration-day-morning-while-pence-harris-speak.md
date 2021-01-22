@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-plans-depart-washington-in
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643"
 type: article
 quality: 158
-heat: 3718
+heat: 3738
 published: true
 
 provider:
@@ -2041,6 +2041,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SKQF7IIYWZEOBKZXEKPOUS3IBE.JPG"
         width: 4954
         height: 3303
+        isCached: true
+  - title: "Why Kamala Harris Is Delaying Moving Into the Vice Presidential Residence"
+    excerpt: "The vice president and her husband are holding off on moving into the residence at the Naval Observatory, which was built in 1893."
+    publishedDateTime: 2021-01-21T16:36:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/why-kamala-harris-is-delaying-moving-into-the-vice-presidential-residence/2842314/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/why-kamala-harris-is-delaying-moving-into-the-vice-presidential-residence/2842314/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/why-kamala-harris-is-delaying-moving-into-the-vice-presidential-residence/2842314/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 74
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/kamalahouse.jpg?fit=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Kamala Harris will be sworn in as vice president by Justice Sonia Sotomayor"
     excerpt: "WASHINGTON — Vice President-elect Kamala Harris will be sworn in by Supreme Court Justice Sonia Sotomayor on Wednesday, a history-making event in which the first Black, South Asian and female vice president will take her oath of office from the first Latina justice."

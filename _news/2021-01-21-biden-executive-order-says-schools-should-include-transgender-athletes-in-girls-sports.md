@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "White House says Biden is a 'devout Catholic' when asked about abortion policies"
+    excerpt: "White House Press Secretary Jen Psaki described President Biden as a \"devout Catholic\" after being asked about his stances on taxpayer funding for abortion."
+    publishedDateTime: 2021-01-22T00:44:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PceLi3ISd4U/white-house-psaki-biden-devout-catholic"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-psaki-biden-devout-catholic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-psaki-biden-devout-catholic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad6f975f-2399-413d-a8ab-145d8c6f7a59/a3cbad7f-2295-4d5f-8b56-7ffdfa70f118/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden Education nominee touted diversity speaker who claimed schools 'spirit murder' Black children"
     excerpt: "One of President-elect Biden's top Education Department nominees hosted a diversity training during which she gave an \"extremely complimentary\" introduction to its featured speaker, who has accused public schools of \"spirit murdering\" of Black children."
     publishedDateTime: 2021-01-19T22:17:52Z

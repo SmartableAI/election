@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Anita Dunn: What to know about Biden’s senior adviser"
+    excerpt: "Veteran Democratic operative Anita Dunn will be joining the White House temporarily as a senior adviser to President Joe Biden."
+    publishedDateTime: 2021-01-22T00:20:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/epo-WAGzA9s/anita-dunn-what-to-know-about-bidens-senior-adviser"
+    ampWebUrl: "https://www.foxnews.com/politics/anita-dunn-what-to-know-about-bidens-senior-adviser.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anita-dunn-what-to-know-about-bidens-senior-adviser.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Anita-Dunn-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden barely sworn in as 'Squad' member, ally start pushing progressive agenda"
     excerpt: "Members of the progressive \"Squad\" have signaled their interest in pushing the Biden administration to the left as the president takes office on his first day."
     publishedDateTime: 2021-01-20T23:25:17Z

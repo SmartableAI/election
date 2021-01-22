@@ -31,35 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Impeachment needed to bar Trump from running for federal office: Rep. Joaquin Castro"
-    excerpt: "House impeachment managers are prepared to chase every single Senate vote in an attempt to convict President Donald Trump for inciting insurrection, Rep. Joaquin Castro, D-Texas, said on ABC's \"This Week\" Sunday."
-    publishedDateTime: 2021-01-17T16:03:00Z
-    webUrl: "https://abcnews.go.com/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965"
+  - title: "NATO Secretary General Jens Stoltenberg says ‘need to rebuild trust’ after Trump"
+    excerpt: "After four long years of Donald Trump’s attacks on NATO, Secretary General Jens Stoltenberg said Thursday that the defense alliance had survived the challenge — and that he looked forward to rebuilding the transatlantic relationship with President Biden."
+    publishedDateTime: 2021-01-22T00:17:00Z
+    webUrl: "https://www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 118
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
     images:
-      - url: "https://s.abcnews.com/images/Politics/Joacquin-Castro-Peter-Meijer-split-01-gty-llr-210116_1610823952116_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X4YM7ZC4C4I6XOF55Y3LDTIYX4.jpg&w=1440"
+        width: 1440
+        height: 908
         isCached: true
-  - title: "Law enforcement officials brace for pro-Trump protests at state capitals"
-    excerpt: "Members of the State police arrive at the Michigan state Capitol in Lansing, Michigan. REUTERS/Rebecca Cook"
-    publishedDateTime: 2021-01-18T00:00:00Z
-    webUrl: "https://www.reuters.com/news/picture/law-enforcement-officials-brace-for-pro-idUSRTX8N0Y3"
+  - title: "Trump Wanted to Erase Obama’s Legacy. He Failed."
+    excerpt: "Trump was supposedly poised to wipe away Obama’s achievements. And in a broader sense, the 45th president seemed to have overturned the country’s very sense of itself that Obama had cultivated. Four years later,"
+    publishedDateTime: 2021-01-18T12:16:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/trump-wanted-to-erase-obamas-legacy-he-failed.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/trump-wanted-to-erase-obamas-legacy-he-failed.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/trump-wanted-to-erase-obamas-legacy-he-failed.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210117&t=2&i=1548135793&w=&fh=545&fw=810&ll=&pl=&sq=&r=2021-01-17T234213Z_38118_MRPRC2W9L9NEB41_RTRMADP_0_USA-TRUMP-PROTESTS"
-        width: 810
-        height: 540
+      - url: "https://pyxis.nymag.com/v1/imgs/dfa/daf/59b840bc23bd2e4c68bb72b13192dcf24e-obama-legacy.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
         isCached: true
 
 secured: "gZzheuWCvNnZNsZJsOK3fM2DEEHkNjLUdvTzzVfHWJEgTuHjHzmRqdEQ9D/dkABL9OHKZ0mK8oVmbCHqBhJrwEBSVCcF9Q/MVAgEn+ID1O1x6zdeAjGb7WDBi8BUDdV+sE3YsGaR8IZj1cD30TSlTtx98/zkB1FBJW4rRcoCaR2JXEZm10BTk43UYWhs+3TYHNRZMgLeLN/ZY+XvJvvIVVeIHAV+nY16D1YpOk62LSBSzq+1z4Ler6gpsVZTmxTKWgDjuktJuDfjHbyY+MtQLqUZiSEJoBjmDqP9qd6FlpsbQel+Yg2KGIwT2ODHdKywj3pwH/kqPYLCjP2H/zK69bfhdW5PnQIf74eYosjNkMs=;2JsNvIc2TPRUW/CuJvNBpA=="

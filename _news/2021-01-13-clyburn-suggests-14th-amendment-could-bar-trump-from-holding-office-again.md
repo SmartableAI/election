@@ -415,6 +415,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "GOP proposes delaying Trump impeachment trial until February"
+    excerpt: "Senate GOP Leader Mitch McConnell is proposing delaying former Donald Trump's impeachment trial until February so the former president's new legal team will have time to prepare his defense."
+    publishedDateTime: 2021-01-22T00:15:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jhV6Rg3fJHA/gop-propose-delaying-impeachment-trial-until-february-to-ready-trump-legal-team"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-propose-delaying-impeachment-trial-until-february-to-ready-trump-legal-team.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-propose-delaying-impeachment-trial-until-february-to-ready-trump-legal-team.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/jason-donner.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Rep. Donalds: House Dems 'weaponized' race to make Trump impeachment case"
     excerpt: "The left always uses race to weaponize their arguments, Rep. Byron Donalds, R-Fla., said on Thursday in reaction to House Democrats calling President Trump a white supremacist during the impeachment proceedings."
     publishedDateTime: 2021-01-14T13:16:09Z

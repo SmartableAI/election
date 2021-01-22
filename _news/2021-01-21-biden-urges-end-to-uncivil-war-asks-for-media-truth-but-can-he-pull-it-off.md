@@ -78,6 +78,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Anita Dunn: What to know about Biden’s senior adviser"
+    excerpt: "Veteran Democratic operative Anita Dunn will be joining the White House temporarily as a senior adviser to President Joe Biden."
+    publishedDateTime: 2021-01-22T00:20:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/epo-WAGzA9s/anita-dunn-what-to-know-about-bidens-senior-adviser"
+    ampWebUrl: "https://www.foxnews.com/politics/anita-dunn-what-to-know-about-bidens-senior-adviser.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anita-dunn-what-to-know-about-bidens-senior-adviser.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Anita-Dunn-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden WH criticizes US as one of world’s largest greenhouse gas emitters"
     excerpt: "President Joe Biden took several steps to address his climate policy agenda on Wednesday."
     publishedDateTime: 2021-01-21T01:19:52Z

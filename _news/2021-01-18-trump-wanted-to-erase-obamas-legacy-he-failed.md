@@ -9,8 +9,8 @@ ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/trump-wanted-to-erase-ob
 cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/trump-wanted-to-erase-obamas-legacy-he-failed.html"
 type: article
 quality: 75
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Magazine
@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Barack Obama Alleged 'Tweet' Mocking Donald Trump's Twitter Ban Is Fake: Report"
-    excerpt: "A tweet allegedly made by former President Barack Obama that pokes fun at the permanent suspension of President Donald Trump's Twitter account is circulating on social media. However, reports confirme"
-    publishedDateTime: 2021-01-12T08:00:00Z
-    webUrl: "https://www.ibtimes.com/barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-fake-report-3119646"
-    ampWebUrl: "https://www.ibtimes.com/barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-fake-report-3119646?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-fake-report-3119646?amp=1"
+  - title: "NATO Secretary General Jens Stoltenberg says ‘need to rebuild trust’ after Trump"
+    excerpt: "After four long years of Donald Trump’s attacks on NATO, Secretary General Jens Stoltenberg said Thursday that the defense alliance had survived the challenge — and that he looked forward to rebuilding the transatlantic relationship with President Biden."
+    publishedDateTime: 2021-01-22T00:17:00Z
+    webUrl: "https://www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 71
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/10/exactly-four-years-ago-us-president-barack-obama.jpg"
-        width: 1024
-        height: 727
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X4YM7ZC4C4I6XOF55Y3LDTIYX4.jpg&w=1440"
+        width: 1440
+        height: 908
+        isCached: true
+  - title: "U.S. House Speaker Pelosi says seeks clarity on Senate readiness for Trump impeachment trial"
+    excerpt: "U.S. House of Representatives Speaker Nancy Pelosi said on Thursday she will consult with fellow Democrats in coming days about the Senate's readiness to begin an impeachment trial of former President Donald Trump for his alleged role in the Jan."
+    publishedDateTime: 2021-01-21T22:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN29Q2C3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q2C3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q2C3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 114
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548626984&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1EA"
+        width: 855
+        height: 545
         isCached: true
 
 secured: "wxib1sqDtobr57Pd4Epc6GIWTIjk4kLvL7kxJYa2Se413vLrK6zWbi+v3HxFUHfEkXkfOUgQsqvWlKJM/70iDAjf+N1rXxLMvYlDPKfstNuhSdnE+KOpOIzrm70aqmG7aiVWd8yor2wNMbc24dHiIX3YtonjUfh3bfKuB4Uke+qPWI0HNRhJV7wIXWSFV1tiJeaSxUjG1AIW6c+qXuty4FvE4SR2iAFwc36E80kIsNqlfDhOw8WOkYP9MVOWSIthr+1XQabjFyaaNE9wJ0M1QfIX8z9x0QxvnpsQv0uvRApTCgThPVFuzXaBe0WuqhGw/sAmSHs60LG6v9Ieww5zaEEzDY4PADqW4pVJub6DNrzLgX2l9sHr9tX5t+zWmFzlz+gUSAUqIo027tFp/MZriNKH8P4Z8OA38cL5n5nFdeXUs4gWnuEar2ReJuUlUPH44onyO5SYf4IFZbkihHA5a/aUqpkriDhyCmrrMxD1Sx9JPM+scGdI/Np9yTU5GJqtCgKPj9uhKKbThj5GV6GEmQ==;Okmg3juWiOfW7uglsv4aKA=="
