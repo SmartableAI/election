@@ -1167,6 +1167,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Progressive group riots resume in major cities despite Biden inauguration"
+    excerpt: "Police contended with apparent left-wing activity in Portland, Seattle and Denver."
+    publishedDateTime: 2021-01-22T01:35:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RAlyFk8EHRE/biden-trump-left-wing-riots"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-left-wing-riots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-left-wing-riots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21e9dd9e-2e83-4e04-8412-00460de18d86/f4defa95-f10a-4709-b381-5c4b283d4b9c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "25,000 National Guard troops deployed to Capitol as Biden inauguration looms"
     excerpt: "Officials have boosted the number of National Guard members deployed in Washington, D.C., in the run-up to President-elect Joe Biden's inauguration next week to 25,000, an increase of 25 percent."
     publishedDateTime: 2021-01-16T18:26:38Z

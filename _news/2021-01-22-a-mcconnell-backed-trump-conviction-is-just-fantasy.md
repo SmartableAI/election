@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 793
         isCached: true
+  - title: "Politics live updates: McConnell wants Senate trial delayed; Donald Trump hires an impeachment lawyer"
+    excerpt: "Senate Minority Leader Mitch McConnell told fellow Senate Republicans on a call that he wanted to delay Trump’s impeachment trial for several weeks ."
+    publishedDateTime: 2021-01-22T01:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/21/live-politics-updates-biden-address-covid-response-fauci-debut/4243605001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4243605001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4243605001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/01/USAT/be212cef-000f-429d-a993-dda46d5b09a7-AP_Virus_Outbreak_Congress.jpg?auto=webp&crop=3781,2127,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fact check: Donald Trump concession video not a ‘confirmed deepfake’"
     excerpt: "Social media users have been sharing a post that claims a video in which outgoing president Donald Trump acknowledges President-elect Biden’s victory in the wake of the chaos of the Capitol protests has been confirmed to be a deepfake."
     publishedDateTime: 2021-01-12T02:23:00Z

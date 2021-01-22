@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 2610
+heat: 2630
 published: true
 
 provider:
@@ -716,6 +716,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103093854-surgeon-general-jerome-adams-covid-19-vaccine-sotu-vpx-00014023-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Feds briefed Biden's interim DOJ leaders on Capitol attack probe "
+    excerpt: "Federal investigators leading the probe into the January 6 Capitol riot briefed interim Biden administration leaders at the Justice Department on Wednesday -- their first day on the job -- as the sprawling nationwide hunt for suspects continues, an official briefed on the matter said.\n    \n"
+    publishedDateTime: 2021-01-22T01:55:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_e3Gof7bcNY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/capitol-attack-probe-biden-doj/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/capitol-attack-probe-biden-doj/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201101130019-justice-department-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

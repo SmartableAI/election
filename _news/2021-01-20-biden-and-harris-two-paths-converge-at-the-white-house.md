@@ -625,6 +625,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden's DOJ must confront what to do with outstanding cases in which it is defending Trump. The first test could come Friday."
+    excerpt: "As the Biden administration begins to take shape, one key question President Joe Biden's Justice Department must confront is whether to continue defending Donald Trump, who relied on Department of Justice lawyers to fight some of his personal battles.\n    \n"
+    publishedDateTime: 2021-01-22T02:11:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sxrjV0wMFkM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/donald-trump-department-of-justice-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/donald-trump-department-of-justice-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170927105813-doj-seal-06-29-2017-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Jaime Harrison officially elected Democratic National Committee chair"
     excerpt: "Former South Carolina Democratic Party Chair Jaime Harrison has officially been elected the next chair of the Democratic National Committee, winning the organization's election after President Joe Biden selected him for the top political job.\n    \n"
     publishedDateTime: 2021-01-21T23:26:10Z

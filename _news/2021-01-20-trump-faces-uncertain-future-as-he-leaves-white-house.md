@@ -817,9 +817,9 @@ related:
         height: 800
         isCached: true
   - title: "Facebook Refers Trump Account Suspension to Oversight Board"
-    excerpt: "Facebook has referred its decision to indefinitely suspend former President Donald Trump from its platforms to an independent oversight board, as the company grapples with how to treat one of its highest profile users after his exit from public office."
-    publishedDateTime: 2021-01-21T22:51:00Z
-    webUrl: "https://www.wsj.com/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506?mod=politics_lead_pos7"
+    excerpt: "The social-media company said a decision from its independent panel on the matter—the biggest issue it has tackled since being set up last year—would be binding."
+    publishedDateTime: 2021-01-22T02:39:00Z
+    webUrl: "https://www.wsj.com/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506"
     ampWebUrl: "https://www.wsj.com/amp/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506"
     type: article
@@ -829,6 +829,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-282048/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Hires Butch Bowers as Impeachment Defense Attorney"
+    excerpt: "Former President Donald Trump told associates he hired the South Carolina attorney to represent him in his Senate impeachment trial, said a person familiar with the matter."
+    publishedDateTime: 2021-01-22T02:30:00Z
+    webUrl: "https://www.wsj.com/articles/trump-hires-butch-bowers-as-impeachment-defense-attorney-11611264609?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-hires-butch-bowers-as-impeachment-defense-attorney-11611264609"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-hires-butch-bowers-as-impeachment-defense-attorney-11611264609"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-288784/social"
         width: 1280
         height: 640
         isCached: true

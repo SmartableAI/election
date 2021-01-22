@@ -2005,6 +2005,22 @@ related:
         width: 348
         height: 250
         isCached: true
+  - title: "A Who's Who Guide to Vice President Kamala Harris' Family"
+    excerpt: "Kamala Harris’ historic vice presidency will introduce a dynamic second family to the nation, one that represents not only who she is at her core, but is a profound celebration of blended, multigenerational family units."
+    publishedDateTime: 2021-01-21T17:41:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/a-whos-who-guide-to-vice-president-elect-kamala-harris-family/2840055/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/a-whos-who-guide-to-vice-president-elect-kamala-harris-family/2840055/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/a-whos-who-guide-to-vice-president-elect-kamala-harris-family/2840055/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/GettyImages-1284486213.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vogue editor defends cover photo of US Vice-President-elect Kamala Harris"
     excerpt: "image captionVogue editor Anna Wintour said images of Vice-President-elect Kamala Harris were meant to celebrate her achievements US Vogue editor Anna Wintour has defended the magazine following criticism of its front-cover portrait of Vice-President-elect ..."
     publishedDateTime: 2021-01-13T07:29:00Z
@@ -2729,6 +2745,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "oT1YhW4wUl5PVk619rwK5qHDONa6NE5671pmQAvudQMwMVwQC5qtqzNGJyeFszfYOSRGbXTf/nzelnzLJ09gNeIDVHwl0+8bEQ5a7+5sFSox3IZp0BwfBGW4S+hFMIsIwe5qlMprFE2OIZZdQRoFIM+Ut3T/Qn3MxrDFSQh70vOHprSU3hzFYwMU4oGP2/hONnW2m+5pmf5Ne05GigM7oeA8f+8M2Tw9C5ZxKmfKDfQLaET2BXaHhyzjTDvTMrmVRT9X6XMT/XGtY3CvwB+ouJIw50rj5p+U62oSr890eamjk9hgrMPBE7g/ElL8aMkaEOTgwnaniLCFcUI5ulvbfBk5gMwMAliJLljTQaFNq3I=;3+91pmu8Z0/m0wujzgUggA=="
+secured: "TgXbdjDwTA0+1vC3kxxftlmnJh9A9BNbjlZjqyX5F05NM+46sykWWTrtPlungkWEkEMk12M55EvUIq3Uu+nqSKq4tLnxefiXZFDu4odXaN2CbJDy12V/GMJitzY2Imw9IGmjZ8oyRfB9U4HEh2H4aMnDAg9QaBBvVGrpYl/K7mydSSd52ag1sBnEvtA32eDldR1A24KrR5fPoubHQMx57BLWiq0NVqwJvvk6DAzHypRTj5m9P/SBBdDsOLZ8DTRVYoADYEPyyBdNh21sg4OrTutT+7AoKqdtNsZKMJ3APWO/g5IlNbSTwPpDHHPTk+PH+sGUVAsaLQPvKcbCY4IYHLnEDK1nRjfIOBnGKyyCx+IXHHI+t6Yi/mue+1aL3QdGcMOVYciVxctKV61r6MM8AJHDBCT3S18VD4Ki1/AMzi9JpDjMfU9BQ5R+PfkslquAsU93CeyOPlcD51GmFaS2B7MMR72y6SlVgLQBcg4lgE/zBkpuGn6kwkzsigeympgCMEswfWBXCOGZPj1cNBR42Q==;pI5ld92L1RtpGYAi04Gb7Q=="
 ---
 

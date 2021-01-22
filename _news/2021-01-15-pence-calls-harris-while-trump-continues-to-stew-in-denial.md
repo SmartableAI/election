@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-presidency/index.html"
 type: article
 quality: 225
-heat: 2185
+heat: 2205
 published: true
 
 provider:
@@ -608,6 +608,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_01/3440091/200106-mike-pence-ew-140p_c494a0a2fa11e92462b9cdd24428b9cd.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden's DOJ must confront what to do with outstanding cases in which it is defending Trump. The first test could come Friday."
+    excerpt: "As the Biden administration begins to take shape, one key question President Joe Biden's Justice Department must confront is whether to continue defending Donald Trump, who relied on Department of Justice lawyers to fight some of his personal battles.\n    \n"
+    publishedDateTime: 2021-01-22T02:11:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sxrjV0wMFkM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/donald-trump-department-of-justice-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/donald-trump-department-of-justice-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170927105813-doj-seal-06-29-2017-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Biden and Harris: Two Paths Converge at the White House"
     excerpt: "Six articles published by our reporters during the campaign illustrate the personal and political arcs of Joe Biden and Kamala Harris through the years."

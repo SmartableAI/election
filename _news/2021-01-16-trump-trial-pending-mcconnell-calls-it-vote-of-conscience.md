@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnel
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/EriE5_l5xPVwtO9jmKjyyRb_Uws=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VRWGIX76UW7OWH7Y36Q25UFT4A.jpg"
         width: 1200
         height: 793
+        isCached: true
+  - title: "Politics live updates: McConnell wants Senate trial delayed; Donald Trump hires an impeachment lawyer"
+    excerpt: "Senate Minority Leader Mitch McConnell told fellow Senate Republicans on a call that he wanted to delay Trump’s impeachment trial for several weeks ."
+    publishedDateTime: 2021-01-22T01:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/21/live-politics-updates-biden-address-covid-response-fauci-debut/4243605001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4243605001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4243605001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/01/USAT/be212cef-000f-429d-a993-dda46d5b09a7-AP_Virus_Outbreak_Congress.jpg?auto=webp&crop=3781,2127,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Fact check: Donald Trump concession video not a ‘confirmed deepfake’"
     excerpt: "Social media users have been sharing a post that claims a video in which outgoing president Donald Trump acknowledges President-elect Biden’s victory in the wake of the chaos of the Capitol protests has been confirmed to be a deepfake."

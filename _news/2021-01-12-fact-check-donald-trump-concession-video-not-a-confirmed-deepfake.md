@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 793
         isCached: true
+  - title: "Politics live updates: McConnell wants Senate trial delayed; Donald Trump hires an impeachment lawyer"
+    excerpt: "Senate Minority Leader Mitch McConnell told fellow Senate Republicans on a call that he wanted to delay Trump’s impeachment trial for several weeks ."
+    publishedDateTime: 2021-01-22T01:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/21/live-politics-updates-biden-address-covid-response-fauci-debut/4243605001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4243605001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4243605001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/01/USAT/be212cef-000f-429d-a993-dda46d5b09a7-AP_Virus_Outbreak_Congress.jpg?auto=webp&crop=3781,2127,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump trial pending, McConnell calls it 'vote of conscience'"
     excerpt: "President Donald Trump's is likely to start after Joe Biden's inauguration, and the Republican leader, Mitch McConnell, is telling senators their decision on whether to convict the outgoing president over the Capitol riot will be a “vote of conscience."
     publishedDateTime: 2021-01-16T22:37:00Z

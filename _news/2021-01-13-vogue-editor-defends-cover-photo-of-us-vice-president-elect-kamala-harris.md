@@ -2005,6 +2005,22 @@ related:
         width: 348
         height: 250
         isCached: true
+  - title: "A Who's Who Guide to Vice President Kamala Harris' Family"
+    excerpt: "Kamala Harris’ historic vice presidency will introduce a dynamic second family to the nation, one that represents not only who she is at her core, but is a profound celebration of blended, multigenerational family units."
+    publishedDateTime: 2021-01-21T17:41:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/a-whos-who-guide-to-vice-president-elect-kamala-harris-family/2840055/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/a-whos-who-guide-to-vice-president-elect-kamala-harris-family/2840055/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/a-whos-who-guide-to-vice-president-elect-kamala-harris-family/2840055/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2021/01/GettyImages-1284486213.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris officially resigns from the US Senate ahead of inauguration"
     excerpt: "Vice President-elect Kamala Harris has formally submitted a letter of resignation for her US Senate seat to California Gov. Gavin Newsom, ending her four-year career in the chamber."
     publishedDateTime: 2021-01-18T22:49:00Z

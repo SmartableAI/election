@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-allies-attack-lin-wood-after-p
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-attack-lin-wood-after-pence-execution-tweets-2021-1?amp"
 type: article
 quality: 129
-heat: 549
+heat: 569
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1705259/mitch-mcconnell-capitol.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Mitch McConnell proposes delaying Trump's impeachment trial"
+    excerpt: "Senate Republican leader says former president needs time to prepare"
+    publishedDateTime: 2021-01-22T00:19:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/21/mitch-mcconnell-trump-impeachment-senate-trial-delay"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/21/mitch-mcconnell-trump-impeachment-senate-trial-delay"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/21/mitch-mcconnell-trump-impeachment-senate-trial-delay"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/8b72e7241aaeecaf29c5194317f27355410a48fa/93_407_4251_2551/master/4251.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cb217671c784e955adc5effb3f4a0690"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump signs pandemic aid and spending bill, averting government shutdown"
     excerpt: "U.S. President Donald Trump on Sunday signed into law a $2.3 trillion pandemic aid and spending package, restoring unemployment benefits to millions of Americans and averting a federal government shutdown in a crisis of his own making."

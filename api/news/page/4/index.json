@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-19-read-excerpts-from-bidens-dni-pick-avril-haines-opening-statement.md",
+      "title": "Read: Excerpts from Biden's DNI pick Avril Haines' opening statement",
+      "excerpt": "Avril Haines will appear before the Senate Intelligence Committee on Tuesday to be considered for director of national intelligence.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OmLcsIXjbUc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OmLcsIXjbUc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201124135447-avril-haines-biden-admin-1124-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/19/politics/haines-opening-statement-excerpts/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/haines-opening-statement-excerpts/index.html",
+      "publishedDateTime": "2021-01-19T05:51:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-when-joe-biden-takes-the-white-house-hell-also-take-whitehouse.md",
       "title": "When Joe Biden Takes the White House, He’ll Also Take @WhiteHouse",
       "excerpt": "Biden Jr. completes his transition into the White House, several social media companies will be completing their own transitions of highly followed official accounts. But the handoff won’t be as seamless as it was four years ago,",
@@ -979,7 +1035,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2610,
+      "heat": 2630,
       "tags": null,
       "images": [
         {
@@ -1289,58 +1345,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-health-of-the-nation-is-literally-at-stake-biden-vows-swift-action-on-vaccine-sites-supplies-100-million-shots.md",
-      "title": "'Health of the nation is literally at stake': Biden vows swift action on vaccine sites, supplies; 100 million shots",
-      "excerpt": "BIden will add clinics, bolster the public health workforce and invoke a wartime production law to ensure adequate vaccine supplies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/health/2021/01/15/biden-add-clinics-and-supplies-complete-100-million-vaccine-shots/4174175001/",
-      "originalUrl": "https://www.usatoday.com/story/news/health/2021/01/15/biden-add-clinics-and-supplies-complete-100-million-vaccine-shots/4174175001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/12/USAT/4836ad86-bdf1-496c-b913-038525820561-Day_in_pictures_Jan._12_2021_03.JPG?auto=webp&crop=4862,2735,x1,y36&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4174175001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4174175001",
-      "publishedDateTime": "2021-01-17T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

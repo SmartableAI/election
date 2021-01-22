@@ -61,6 +61,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden signs burst of virus orders, vows 'Help is on the way'"
+    excerpt: "President Joe Biden is putting into play his national COVID-19 strategy to ramp up vaccinations and testing, reopen schools and businesses and increase the use of masks"
+    publishedDateTime: 2021-01-22T02:43:00Z
+    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/biden-puts-virus-strategy-requires-mask-travel-75398890"
+    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/biden-puts-virus-strategy-requires-mask-travel-75398890"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/biden-puts-virus-strategy-requires-mask-travel-75398890"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_8d5440523510461188bda5864daf9b2c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden chief of staff Klain says he expects 500,000 U.S. COVID-19 deaths next month"
     excerpt: "U.S. President-elect Joe Biden's incoming chief of staff Ron Klain said on Friday he expects the United States to hit 500,000 COVID-19 deaths next month."
     publishedDateTime: 2021-01-15T22:30:00Z

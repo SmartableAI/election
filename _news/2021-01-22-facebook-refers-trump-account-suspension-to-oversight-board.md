@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Facebook Refers Trump Account Suspension to Oversight Board"
-excerpt: "Facebook has referred its decision to indefinitely suspend former President Donald Trump from its platforms to an independent oversight board, as the company grapples with how to treat one of its highest profile users after his exit from public office."
-publishedDateTime: 2021-01-21T22:51:00Z
-originalUrl: "https://www.wsj.com/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506?mod=politics_lead_pos7"
-webUrl: "https://www.wsj.com/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506?mod=politics_lead_pos7"
+excerpt: "The social-media company said a decision from its independent panel on the matter—the biggest issue it has tackled since being set up last year—would be binding."
+publishedDateTime: 2021-01-22T02:39:00Z
+originalUrl: "https://www.wsj.com/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506"
+webUrl: "https://www.wsj.com/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506"
 ampWebUrl: "https://www.wsj.com/amp/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-refers-trump-account-suspension-to-oversight-board-11611251506"
 type: article
@@ -832,6 +832,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Hires Butch Bowers as Impeachment Defense Attorney"
+    excerpt: "Former President Donald Trump told associates he hired the South Carolina attorney to represent him in his Senate impeachment trial, said a person familiar with the matter."
+    publishedDateTime: 2021-01-22T02:30:00Z
+    webUrl: "https://www.wsj.com/articles/trump-hires-butch-bowers-as-impeachment-defense-attorney-11611264609?mod=newsviewer_click"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-hires-butch-bowers-as-impeachment-defense-attorney-11611264609"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-hires-butch-bowers-as-impeachment-defense-attorney-11611264609"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-288784/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Republican Voters Oppose Trump Impeachment as Some Lawmakers Seek Distance"
     excerpt: "Some GOP lawmakers such as Rep. Nancy Mace of South Carolina have publicly criticized the president over the attack on the Capitol."
     publishedDateTime: 2021-01-14T18:13:00Z
@@ -1014,6 +1030,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "Hf3WJgQZBeIrMRJ3SnVn1HmSySirKT8EDCCvk2kRQ4icrKy/Ljpdi+JO3CFS1G8rXw+JeavYc2Rh2OVdSjNeOv1Jzw+oyn5s8mCPcIJnK8Q6maqyTqclYJE5v09YIhOWhZiGZfklv2vUek39rQjd1bE8piWIzIM2Gms2J8/75m6g3KAUEVJyhTQqKyawPu/Eo6yEq6fOoYmy70WwPSHaeimZ2HzzDi4U9r5QvEPsCQT8+xxbJG01Be2Y2nSbSyvwDFOlhYszmg8QNA8yDzI2X0kzFtaHu6G7eoHdUyubQZ2vWGXS71xwMyCU8i3COPM1bOrk0SzX1Otv1ZjcPi1583wiPM3J28c38H5s6dtIFMc=;9VAIKgJE8gLYv4A9ROHqvw=="
+secured: "2BUOaZ7bAIIlNE2z9udq0BtDm2cmYzJ7AOUqIKkgYl9PTNn2J+JlAMRnLZ8H20912yB02dOEyhgvj2qTkuBs/yH/Ukc3CpV6YsjlVaXrMIszPloMoNGp8cK4fng1i4wGZNcUuzuQ4yylJi6LoN6r2OhdjC2KubysBHNk0xC2xPu8LN7wAIi5O16v619CBnwPfWNwwesofLNMk17HzrdRM3NuSLBCgcQWscOQRWDV+NZ2FNQf3pEt/Fxqy7Hb2NSR7Ci6nkf0lW0DFGY+f6B6OllbSvLjLYNsUirebNwgqK+7aC0BnBNeZtr7VXFrtDO1dLVFf2LninhG+o/iP0x0cV0yzDdLSE0FtX8fbtrxEQQ=;2R69/8B+IEmNzAriP0KKGw=="
 ---
 

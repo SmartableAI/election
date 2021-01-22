@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Grassley calls on Biden to condemn rioting in Oregon, Washington"
+    excerpt: "Sen. Chuck Grassley, R-Iowa, took to Twitter Thursday night to call on President Biden to condemn Inauguration Day protests turned violent riots in Portland and Seattle."
+    publishedDateTime: 2021-01-22T01:57:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I9jaftC6S2Q/sen-grassley-calls-on-biden-to-condemn-protesting-in-oregon-washington"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-grassley-calls-on-biden-to-condemn-protesting-in-oregon-washington.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-grassley-calls-on-biden-to-condemn-protesting-in-oregon-washington.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad6f975f-2399-413d-a8ab-145d8c6f7a59/a3cbad7f-2295-4d5f-8b56-7ffdfa70f118/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden picks South Carolina’s Jaime Harrison to steer Democratic Party: sources"
     excerpt: "Former South Carolina Democratic Party Chair Jaime Harrison has been tapped by President-elect Joe Biden to serve as the next chair of the Democratic National Committee (DNC), two party sources confirm to Fox News."
     publishedDateTime: 2021-01-14T18:37:41Z

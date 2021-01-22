@@ -2,26 +2,30 @@
 category: news
 title: "‘Grateful’ Mike Pence returns to Indiana hometown as vice presidency ends"
 excerpt: "Former Vice President Mike Pence returned Wednesday to his Indiana hometown, where he told a small crowd of family member and supporters that serving in the White House was the greatest honor of his life."
-publishedDateTime: 2021-01-21T02:04:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+publishedDateTime: 2021-01-20T23:07:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
 type: article
-quality: 74
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
+  - url: "https://www.chicagotribune.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
     width: 1200
     height: 896
     isCached: true
@@ -907,37 +911,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Congress poised for quick action on Biden's Pentagon nominee"
-    excerpt: "WASHINGTON -- The Democratic-controlled Congress is moving quickly to install retired Gen. Lloyd Austin as President Joe Biden’s secretary of defense, brushing aside concerns about his retirement inside the seven-year window that safeguards civilian leadership of the military."
-    publishedDateTime: 2021-01-21T20:45:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/congress-poised-quick-action-bidens-pentagon-nominee-75407880"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/congress-poised-quick-action-bidens-pentagon-nominee-75407880"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/congress-poised-quick-action-bidens-pentagon-nominee-75407880"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_685fbc254e76491f98a1987edceaa836_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Guard troops head home after helping secure Biden inaugural"
     excerpt: "A day after President Joe Biden’s inauguration went off with only a handful of minor arrests and incidents, more than 15,000 National Guard members are preparing to leave Washington, D.C. and head home."
-    publishedDateTime: 2021-01-21T22:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/guard-troops-head-home-helping-secure-biden-inaugural-75412244"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/guard-troops-head-home-helping-secure-biden-inaugural-75412244"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/guard-troops-head-home-helping-secure-biden-inaugural-75412244"
+    publishedDateTime: 2021-01-22T02:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/guard-troops-head-home-after-helping-secure-biden-inaugural/2021/01/21/cfd14dd6-5c32-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/guard-troops-head-home-after-helping-secure-biden-inaugural/2021/01/21/cfd14dd6-5c32-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/guard-troops-head-home-after-helping-secure-biden-inaugural/2021/01/21/cfd14dd6-5c32-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_6bff48bd6ea34f0e85f46a27042b0bd2_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Hope and inspiration at Joe Biden inauguration"
     excerpt: "Frank Paice reflects on Amanda Gorman’s powerful poem at the ceremony and Geoff Skinner wonders if the UK will also be brave enough to tackle racism. Plus Joan Furtado on why Trump should be happy"
@@ -1780,6 +1768,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Congress poised for quick action on Biden's Pentagon nominee"
+    excerpt: "WASHINGTON (AP) — The Democratic-controlled Congress is moving quickly to install retired Gen. Lloyd Austin as President Joe Biden’s secretary of defense, brushing aside concerns about his retirement inside the seven-year window that safeguards civilian leadership of the military."
+    publishedDateTime: 2021-01-22T02:13:00Z
+    webUrl: "https://www.businessinsider.com/congress-poised-for-quick-action-on-bidens-pentagon-nominee-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/congress-poised-for-quick-action-on-bidens-pentagon-nominee-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/congress-poised-for-quick-action-on-bidens-pentagon-nominee-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "President Biden discusses COVID19 response"
     excerpt: "Watch \"President Joe Biden discusses COVID-19 response\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-01-21T20:08:00Z
@@ -2557,6 +2556,6 @@ related:
         height: 800
         isCached: true
 
-secured: "XXfgaKs7W60Kb3tbzuaGgHdScbk4vVx8GIaqWvVt10mFgTTX/zpoH4jVyhvloPjQepAK5KbC7+yjDYYJzL3055fnvR+RKyJAogi2yUPwwT+TKOPMUumMu6vkis2EOLjwcov3nzHMWpNLXWf+gbTsYwU9FNdKL3LA9bYFp82mY1Zo1ad8avFE2LhqXBM5Glz118/TzrOWEBc+llwL6M9OemjpaGbv/STfKsmPgRRU8mzUxXJZm7sNPu844mQJsdt0gPRDyfEM1hwMUoHrI45AKzqBs7t81/pkSCTKcV78EV12mKj55ERj3oOyxhxNc6Z9aoN/fgCW+oORFWTnPL3N96kozmyx1SPi5ARyKdA5w1s=;MRsq7xXiXvk7hkmiSOaIyQ=="
+secured: "vmf887vxLj+ZTFeY1sd35Q85kiEfx8MTJyKSa1vmFYBOXnSKjhFKYeWYj7KR91i5VUjP6ICkgJaj0uxpGmysWsNtczqnIEuv8AZXxQ0QXDxwwhZR6mSIdXBkv0XK9yRC2+FFPucjGnx8yvVFieB38NNPxSn1LZLD+GiY+Cqpfofa4vzzRsI8m/Xj5ZhxBFqMvltKRIL3XIXLa/VTZ6tLRa4lfzCYkhBdPDtQOervCW5D1L74xV4+4+jh48iiOvnQE7JwSdi/r9cGkwsqiFYRSj8goMAh4kFYvL+7PpwOfRfpw4l1tmsy3N7hUbMVeRp93RQ3n/LUR8XVxNdQFwqUnjIfh5DUqk3MEvW5oKSqu/c=;BmFbItOj7hC1vo6XG6suAw=="
 ---
 

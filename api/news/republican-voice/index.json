@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-22-obama-praises-bidens-executive-order-blitz-this-is-a-time-for-boldness.md",
+      "title": "Obama praises Biden's executive order blitz: 'This is a time for boldness'",
+      "excerpt": "Former President Barack Obama praised President Biden on Thursday for enacting a sweeping slate of executive orders within hours of his inauguration as president.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4SO-bhHBdXk/obama-praises-biden-executive-order-blitz-this-is-a-time-for-boldness",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4SO-bhHBdXk/obama-praises-biden-executive-order-blitz-this-is-a-time-for-boldness",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/158a5324-bd78-42b4-bb85-fe4a4bbe248a/0a3fc3cf-becc-42c4-8c73-788c6711f952/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/obama-praises-biden-executive-order-blitz-this-is-a-time-for-boldness.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-praises-biden-executive-order-blitz-this-is-a-time-for-boldness.amp",
+      "publishedDateTime": "2021-01-21T18:35:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-new-york-times-contributor-loses-think-tank-job-over-tweet-suggesting-biden-should-lynch-mike-pence.md",
       "title": "New York Times contributor loses think tank job over tweet suggesting Biden should 'lynch Mike Pence'",
       "excerpt": "A contributing opinion writer for The New York Times was fired from his think tank job Thursday over a tweet that jokingly suggested former Vice President Mike Pence be lynched in order to unify the country.",
@@ -969,7 +1025,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 500,
+      "heat": 520,
       "tags": null,
       "images": [
         {
@@ -1195,7 +1251,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 3365,
+      "heat": 3385,
       "tags": null,
       "images": [
         {
@@ -1609,62 +1665,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/graham-warns-border-overrun-unless-biden-sends-signal-migrant-caravans.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-warns-border-overrun-unless-biden-sends-signal-migrant-caravans.amp",
       "publishedDateTime": "2021-01-19T16:58:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-cbp-acting-commissioner-biden-sending-loud-and-clear-message-for-migrants.md",
-      "title": "CBP acting commissioner: Biden sending 'loud and clear' message for migrants",
-      "excerpt": "President-elect Joe Biden has been sending a “loud and clear” message to migrants, who are already heading to the U.S. southern border ahead of his inauguration, Mark Morgan, acting commissioner of U.S. Customs and Border Protection, said on Tuesday.  ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0f9NACq-Rs8/cbp-acting-commissioner-biden-sending-loud-clear-message-migrants",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0f9NACq-Rs8/cbp-acting-commissioner-biden-sending-loud-clear-message-migrants",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cbp-acting-commissioner-biden-sending-loud-clear-message-migrants.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cbp-acting-commissioner-biden-sending-loud-clear-message-migrants.amp",
-      "publishedDateTime": "2021-01-19T11:48:38-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
