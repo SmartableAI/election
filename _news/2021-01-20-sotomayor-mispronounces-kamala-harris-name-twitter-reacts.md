@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/sotomayor-mispronounces-kamala-harr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sotomayor-mispronounces-kamala-harris-name.amp"
 type: article
 quality: 185
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Symone Sanders: What to know about Kamala Harris' chief spokeswoman"
+    excerpt: "Political strategist and social activist Symone Sanders has been named chief spokesperson and senior adviser to Vice President Kamala Harris. "
+    publishedDateTime: 2021-01-22T18:49:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CtdUqG1VbFc/symone-sanders-what-to-know-about-kamala-harris-chief-spokeswoman"
+    ampWebUrl: "https://www.foxnews.com/politics/symone-sanders-what-to-know-about-kamala-harris-chief-spokeswoman.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/symone-sanders-what-to-know-about-kamala-harris-chief-spokeswoman.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59ee44ef-8740-4988-9934-9bbb61161070/88314748-8f6b-4edd-85e4-b8707b5df9e3/1280x720/match/931/524/image.jpg?ve=1&tl=1"
+        width: 931
+        height: 524
+        isCached: true
   - title: "Kamala Harris could preside over Trump impeachment trial if John Roberts doesn’t"
     excerpt: "The Constitution says that in impeachments for presidents, the chief justice of the Supreme Court is the presiding officer. For lesser impeachments, the presiding officer has been the same as for other Senate business —  either the vice president or a senator."
     publishedDateTime: 2021-01-19T14:46:00Z

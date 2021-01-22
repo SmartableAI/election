@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "UPDATE 1-Biden administration to discuss stimulus with lawmakers Sunday"
+    excerpt: "The Biden administration plans to discuss the need for economic stimulus with a group of senators on Sunday, White House national economic council director Brian Deese said on Friday, as it seeks to build support for what it sees as a critical round of new coronavirus"
+    publishedDateTime: 2021-01-22T18:53:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-stimulus/update-1-biden-administration-to-discuss-stimulus-with-lawmakers-sunday-idUSL1N2JX1ZL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R2CN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R2CN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548747987&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1CM"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Exclusive: Biden administration eyes creating White House antitrust czar - sources"
     excerpt: "The incoming administration of U.S. President-elect Joe Biden is considering creating a White House position to focus on competition policy and issues relating to antitrust, two sources familiar with the situation said."
     publishedDateTime: 2021-01-20T04:19:00Z

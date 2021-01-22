@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-sours-on-trump-but-many-cling-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sours-on-trump-but-many-cling-to-election-hoax.amp"
 type: article
 quality: 190
-heat: 1490
+heat: 1530
 published: true
 
 provider:
@@ -495,6 +495,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Schumer makes unfortunate Trump gaffe on Senate floor, social media erupts"
+    excerpt: "Democratic Senate leader Chuck Schumer on Friday made an unfortunate slip of the tongue as he slammed former President Donald Trump’s conduct related to the Jan 6 Capitol riot."
+    publishedDateTime: 2021-01-22T18:42:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/en3jdx2lUY0/schumer-unfortunate-trump-gaffe-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-unfortunate-trump-gaffe-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-unfortunate-trump-gaffe-senate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c01387ab-0b77-4b89-be73-66ffbfcc4ed0/33b7d824-357c-4ae7-acd2-e1bb57ed2c2e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pelosi says she spoke to Gen. Milley about protecting nuclear codes from Trump"
     excerpt: "House Speaker Nancy Pelosi, D-Calif., said she has spoken to Chairman of the Joint Chiefs of Staff Mark Milley about protecting the nuclear codes from an “unhinged president.” "
     publishedDateTime: 2021-01-08T18:13:55Z
@@ -894,6 +910,22 @@ related:
       - url: "https://images.wsj.net/im-284917/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Schumer makes unfortunate Trump gaffe on Senate floor, social media erupts"
+    excerpt: "Democratic Senate leader Chuck Schumer on Friday made an unfortunate slip of the tongue as he slammed former President Donald Trump’s conduct related to the Jan 6 Capitol riot."
+    publishedDateTime: 2021-01-22T18:49:00Z
+    webUrl: "https://www.foxnews.com/politics/schumer-unfortunate-trump-gaffe-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-unfortunate-trump-gaffe-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-unfortunate-trump-gaffe-senate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c01387ab-0b77-4b89-be73-66ffbfcc4ed0/33b7d824-357c-4ae7-acd2-e1bb57ed2c2e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "McCarthy says Trump still has role in future of GOP, should 'continue to engage'"
     excerpt: "House Minority Leader Kevin McCarthy on Thursday said that he still sees a future role for former President Trump in the Republican Party similar to the role of other past presidents in their political parties."

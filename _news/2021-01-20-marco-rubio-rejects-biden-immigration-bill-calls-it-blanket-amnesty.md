@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/rubio-biden-immigration-bill-blanke
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-biden-immigration-bill-blanket-amnesty.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -124,6 +124,20 @@ related:
     quality: 161
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ff97ad34-f426-498a-92e1-d58ea755a140/a6aaee8e-3882-4d85-b77a-a3ad885fd22b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rubio demands clarity on Biden's 100-day deportation pause, amid fears violent criminals will remain in US"
+    excerpt: "Sen. Marco Rubio, R-Fla., on Friday called for the Biden administration to clarify the scope of its 100-day moratorium on deportations and other immigration enforcement measures, amid fears that the radical move would allow violent criminals to remain in the U.S."
+    publishedDateTime: 2021-01-22T18:05:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HsqsOL1SbZU/rubio-bidens-100-day-deportation-pause-violent-criminals"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 137
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/caa2027d-7e0c-4326-8f37-66a7471bfd53/db220efc-c6f4-4e1e-8dfc-5cded78a4144/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

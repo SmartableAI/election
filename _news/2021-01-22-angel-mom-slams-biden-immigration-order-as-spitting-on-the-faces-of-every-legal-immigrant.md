@@ -127,6 +127,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Rubio demands clarity on Biden's 100-day deportation pause, amid fears violent criminals will remain in US"
+    excerpt: "Sen. Marco Rubio, R-Fla., on Friday called for the Biden administration to clarify the scope of its 100-day moratorium on deportations and other immigration enforcement measures, amid fears that the radical move would allow violent criminals to remain in the U.S."
+    publishedDateTime: 2021-01-22T18:05:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HsqsOL1SbZU/rubio-bidens-100-day-deportation-pause-violent-criminals"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 137
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/caa2027d-7e0c-4326-8f37-66a7471bfd53/db220efc-c6f4-4e1e-8dfc-5cded78a4144/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "2Shk40b6bTO7Z3EZkdAAjFUwqTUJuNmqkEDz/Kx+bMBK2qI9X5PuVzVXS4owRbIBba9mozlUP/UB5WoTfUqV8ynni6Z+l3Yu89uexgBDqJTRsEjVjDF5zYIv/D3VCvT8XcJ+Tr5DZODXpTCZNxr/yzlfaR7VOwBvfqBrdAs1iwVnCQKpWptrzWDcCSZf3/pv4m3HpWAXSb/asJu93pjLn/44oEaAlnH087e7vSovgw+gVKzWn/0VP8+qeaqdJFS7mfbWGugn5ybeR49gDxC5w4UOMmvK7pgwY9PrHN1PRcFAks9w6FzvdfCribdaPJwGeZk8xS4btfrgPo5jsO2fdHqquo0Ax3C673s7nZlV0Ds=;B5J4xZo4RJYHseUsxcPkjA=="
 ---

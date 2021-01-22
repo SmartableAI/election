@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "U.S. Senate confirms Biden nominee Austin as defense secretary"
+    excerpt: "The U.S. Senate on Friday voted overwhelmingly to confirm retired Army General Lloyd as President Joe Biden's defense secretary, making him the first Black American to serve in the role."
+    publishedDateTime: 2021-01-22T18:29:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-pentagon-idUKKBN29R2AR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29R2AR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29R2AR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548740866&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L19Y"
+        width: 817
+        height: 545
+        isCached: true
   - title: "\"We have to act now\": Biden outlines economic rescue legislative package"
     excerpt: "President-elect Joe Biden is expected to outline his COVID-19 relief proposal in Wilmington, Delaware, on Thursday. The massive stimulus bill is expected to cost trillions in order to fund vaccinations and provide immediate,"
     publishedDateTime: 2021-01-15T00:56:00Z

@@ -272,6 +272,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Washington Post scrubbed unflattering Kamala Harris story from site, restored it after backlash"
+    excerpt: "The Washington Post oddly removed an unflattering tidbit about Vice President Kamala Harris from a 2019 feature and republished a new version of the story that is friendlier to the Democratic media darling."
+    publishedDateTime: 2021-01-22T18:49:00Z
+    webUrl: "https://www.foxnews.com/media/wapo-scrubs-kamala-story-of-embarrassing-jail-joke"
+    ampWebUrl: "https://www.foxnews.com/media/wapo-scrubs-kamala-story-of-embarrassing-jail-joke.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/wapo-scrubs-kamala-story-of-embarrassing-jail-joke.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020603117627.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Capitol Police Officer Eugene Goodman, hero during riots, escorts Kamala Harris during inauguration"
     excerpt: "Capitol Police officer Eugene Goodman escorted Vice President Kamala Harris into the Capitol building Wednesday ahead of the inauguration ceremony."
     publishedDateTime: 2021-01-20T17:16:00Z

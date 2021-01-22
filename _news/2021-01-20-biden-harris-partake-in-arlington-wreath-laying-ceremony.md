@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-arlington-wreath-layin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-arlington-wreath-laying-ceremony.amp"
 type: article
 quality: 200
-heat: 520
+heat: 540
 published: true
 
 provider:
@@ -269,6 +269,22 @@ related:
     quality: 123
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/residence-of-the-Vice-President-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Washington Post scrubbed unflattering Kamala Harris story from site, restored it after backlash"
+    excerpt: "The Washington Post oddly removed an unflattering tidbit about Vice President Kamala Harris from a 2019 feature and republished a new version of the story that is friendlier to the Democratic media darling."
+    publishedDateTime: 2021-01-22T18:49:00Z
+    webUrl: "https://www.foxnews.com/media/wapo-scrubs-kamala-story-of-embarrassing-jail-joke"
+    ampWebUrl: "https://www.foxnews.com/media/wapo-scrubs-kamala-story-of-embarrassing-jail-joke.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/wapo-scrubs-kamala-story-of-embarrassing-jail-joke.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020603117627.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

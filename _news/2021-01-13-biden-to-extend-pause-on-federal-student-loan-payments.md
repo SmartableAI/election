@@ -159,6 +159,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "President Biden may be just as harsh as Trump on India-Russia missile deal, warns DC expert"
+    excerpt: "India's plans to buy S-400 missiles from Russia in a $5.5 billion deal will be the \"single biggest obstacle\" to US-India relations."
+    publishedDateTime: 2021-01-22T18:15:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-may-be-as-harsh-trump-india-missiles-says-dc-expert"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-may-be-as-harsh-trump-india-missiles-says-dc-expert?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-may-be-as-harsh-trump-india-missiles-says-dc-expert?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 130
+    images:
+      - url: "https://i.insider.com/600ac1f8c94799001992cb8e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Housing advocates call on Biden to extend eviction ban"
     excerpt: "Housing advocates around the country are calling on the incoming Biden administration to extend and strengthen the current federal ban on evictions"
     publishedDateTime: 2021-01-13T20:39:00Z
@@ -1022,6 +1038,38 @@ related:
       - url: "https://s.abcnews.com/images/International/WireAP_6073505d30494aa594a16db744cf94ea_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden is ‘a Senate guy,’ but it just doesn’t work like it used to"
+    excerpt: "One day, when he was vice president and I was still a congressional reporter, I ran into Joe Biden in a basement tunnel of. Fishing for a news tip, I asked the nation’s second-highest leader what he was doing there,"
+    publishedDateTime: 2021-01-22T18:04:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/biden-is-a-senate-guy-but-it-just-doesnt-work-like-it-used-to/2021/01/21/0112ab28-3e39-11eb-8bc0-ae155bee4aff_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/biden-is-a-senate-guy-but-it-just-doesnt-work-like-it-used-to/2021/01/21/0112ab28-3e39-11eb-8bc0-ae155bee4aff_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/biden-is-a-senate-guy-but-it-just-doesnt-work-like-it-used-to/2021/01/21/0112ab28-3e39-11eb-8bc0-ae155bee4aff_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PULBVGS2P4I6XOF55Y3LDTIYX4.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
+  - title: "In first full day in office, Biden faces multiple crises"
+    excerpt: "The president spoke in somber tones as he unveiled a covid-19 plan, comparing the situation to a war and warning that deaths could top 500,000 next month."
+    publishedDateTime: 2021-01-22T18:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/in-first-full-day-in-office-biden-tackles-multiple-crises/2021/01/21/45ce2320-5bfb-11eb-a976-bad6431e03e2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/in-first-full-day-in-office-biden-tackles-multiple-crises/2021/01/21/45ce2320-5bfb-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/in-first-full-day-in-office-biden-tackles-multiple-crises/2021/01/21/45ce2320-5bfb-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PK6UIBS4F4I6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Majority of U.S. Senate backs Biden nominee Austin to lead Pentagon"
     excerpt: "The U.S. Senate on Friday confirmed President Joe Biden's nominee, retired Army General Lloyd Austin, to serve as Secretary of Defense. He will be the first Black American to serve in the role."

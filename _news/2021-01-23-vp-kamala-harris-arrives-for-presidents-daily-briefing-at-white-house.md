@@ -631,6 +631,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "House will send Trump impeachment article to Senate on Monday"
+    excerpt: "The House impeached President Donald Trump for \"incitement of insurrection\" on Jan. 13, making him the only president to be impeached twice."
+    publishedDateTime: 2021-01-22T18:51:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/22/trump-impeachment-article-arrives-senate-monday-setting-up-trial/6670285002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6670285002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6670285002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/06/USAT/7a666971-b86e-4b65-b05c-f6af832ac531-6599a583-0851-418d-a78d-a39a891df4d9_thumbnail.png?auto=webp&crop=479,270,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Donald Trump's Inauguration Boycott Welcomed by Republicans and Democrats"
     excerpt: "The president announced he will not attend ahead of his ban from Twitter, as a backlash grows against him over the recent events at the Capitol."
     publishedDateTime: 2021-01-11T15:29:00Z
@@ -2715,6 +2731,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Impeachment to Go to Senate Monday, Triggering Trial"
+    excerpt: "WASHINGTON (AP) — House Speaker Nancy Pelosi said Friday that she will send the article of impeachment against Donald Trump to the Senate on Monday, triggering the start of the former president's trial on a charge of incitement of insurrection over the deadly Capitol Jan."
+    publishedDateTime: 2021-01-22T18:36:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-22/mcconnell-seeks-to-push-trump-impeachment-trial-to-february"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-22/mcconnell-seeks-to-push-trump-impeachment-trial-to-february?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-22/mcconnell-seeks-to-push-trump-impeachment-trial-to-february?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Alert: AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance."
     publishedDateTime: 2021-01-15T18:27:00Z
@@ -2902,6 +2929,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "PTIkBzFLitK8y1edCfUylRflpsl0D2DfAQjcXTh0fKI0Flds63qfKwBNuzKzIelGvST5i7eFECjbEA3L/3mse4Acb10ogwVNfK75j4wXg4f7npEfT+Paj7Zo9uTebyxOy/ISB21QVY6/aB65edE19IgNWKWG/4IntxsPv2wGP7Ad8i/+aEb5T75Lri3g6ZPcCXJ9XQvOrPoiEEYNkxrSbivNcOoUmb2cVybq7TQHAGYChBd/yj+Q0cfi2795lQOCi2g+mUc8c8GUyGQr5oVoUO+Tbg/wyih6tDLvWwlPmdzEoeOHw2cKWe3AOfDCGMqGWqEblxcCmr4bNtqgPq10fEg00wNVE6g25IGuvBTNgkY=;LGLg0QpzcYxLKGK4WLP//A=="
+secured: "kD0qF7SNznhXkReOSM5h1ZzuTsxMhYeyvDFc+bXsNpEQX0xqI2gYZCORboS9Jieu1lRXmcqdBvw1yR4n3yCgnbQ6H2wgh1r0FHUk6kqwY2qmk1PAE7I2czeIHWHuNeirk+ZgovBvFhgU9H7SG8Lb77Uq60OI33W72i2skWWNtBu9oaymvmTfsHAC7zaQHqESRSuIYJ287gnn0Jcyr5I2miJw4OxJtLtq9dCSbCaOUi+OmJ6KJUZQ/5VBWZGi3NMsZrNdErRrtNWjeK+1JqKaDJJVURzr2ZKqSLrygzhFsG2zk78bUVESJ5nvWF7BVw8Y8SzpGlbcWGQKWwj1ZbCpdVvcqRsh8VhmhjyVvfzeyrhHpNV7jklL67Y9aT8H7tTdk9FRWqSxNbaZlMJBJvxLD1Qw55/6KudGTy4Fso3bvidPmhVMvWU15wd62uUA5ppkxT07JiaJ01uNgTER/XILxnCxxS1xB/tQ6YU67qrnlhEVZvFh5lVSwcBqcWpM71H3jZj7Vp7+SyYzdq6ABfogDw==;FyAaCLfmzBqdny/3QQ8aRQ=="
 ---
 

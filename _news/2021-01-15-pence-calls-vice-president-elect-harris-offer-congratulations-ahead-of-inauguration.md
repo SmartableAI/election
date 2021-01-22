@@ -1409,6 +1409,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Dem govs Whitmer, Murphy flout own coronavirus restrictions for Biden inauguration"
+    excerpt: "Multiple Democratic governors defied their own COVID-19 gathering restrictions and travel recommendations to attend President Joe Biden's inauguration"
+    publishedDateTime: 2021-01-22T17:31:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TXpGH5HsDaE/gretchen-whitmer-biden-inauguration-coronavirus-restrictions"
+    ampWebUrl: "https://www.foxnews.com/politics/gretchen-whitmer-biden-inauguration-coronavirus-restrictions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gretchen-whitmer-biden-inauguration-coronavirus-restrictions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ce2973f7-1269-4f0a-84aa-e2529273e2b6/e9023f4a-712b-4259-b8e5-6df5ab340c32/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hunter Biden appears for inauguration ceremonies amid federal probe, says ‘all good’"
     excerpt: "President-elect Joe Biden’s son Hunter Biden, who has been under federal investigation, appeared at the Capitol on Wednesday for his father's inauguration ceremony."
     publishedDateTime: 2021-01-20T16:07:16Z
@@ -2522,6 +2538,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/California-Capitol-Building-iStock.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Washington Post touts claim Biden inherited Cold War, Civil War, Great Depression, in addition to pandemic"
+    excerpt: "Washington Post reporters touted a Democrat's framing of Joe Biden's presidency Friday as inheriting the Civil War, Cold War, and Great Depression all at once, in addition to the ongoing coronavirus pandemic."
+    publishedDateTime: 2021-01-22T18:12:00Z
+    webUrl: "https://www.foxnews.com/media/washington-post-claim-biden-cold-war-civil-war-great-depression-pandemic"
+    ampWebUrl: "https://www.foxnews.com/media/washington-post-claim-biden-cold-war-civil-war-great-depression-pandemic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/washington-post-claim-biden-cold-war-civil-war-great-depression-pandemic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ea90d02-cd6e-457c-b53e-f2fb5331749a/299a153c-3c94-492a-ad8f-7b19470806e9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "American Airlines relocates crews, halts alcohol service on DC flights before Biden inauguration"
     excerpt: "American Airlines is beefing up security measures ahead of Inauguration Day, increasing staffing in Washington, D.C., and relocating crews to hotels closer to airports."

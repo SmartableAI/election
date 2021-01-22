@@ -1325,9 +1325,9 @@ related:
   - title: "Why Kamala Harris Is a Star of the New York City Mayor’s Race"
     excerpt: "The candidates are competing over who can best capture Washington’s attention and assistance as New York navigates its recovery from the pandemic."
     publishedDateTime: 2021-01-22T16:28:00Z
-    webUrl: "https://www.nytimes.com/2021/01/22/nyregion/biden-harris-nyc-mayor.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/22/nyregion/biden-harris-nyc-mayor.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/22/nyregion/biden-harris-nyc-mayor.amp.html"
+    webUrl: "https://www.nytimes.com/2021/01/22/nyregion/kamala-harris-nyc-mayor.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/22/nyregion/kamala-harris-nyc-mayor.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/22/nyregion/kamala-harris-nyc-mayor.amp.html"
     type: article
     provider:
       name: New York Times
@@ -1571,6 +1571,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/20/us/20livebloginaug-6-sub/merlin_182596812_6fb61894-f278-40c9-bb6e-69f715e26a18-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump conviction could hinge on due process concerns"
+    excerpt: "VERDICT MAY HINGE ON DUE PROCESS CONCERNS — It’s quickly becoming apparent that Senate Republicans — even those who have said DONALD TRUMP committed impeachable offenses — have concerns about how this is all going down."
+    publishedDateTime: 2021-01-22T17:29:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/01/22/trump-conviction-could-hinge-on-due-process-concerns-491501"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ec/7f/90f2e28444c3a361fee8e0f0bb36/gettyimages-1176794084.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "What Sex Workers Want Kamala Harris to Know"
     excerpt: "I wish it was anyone else but Kamala Harris,” said Alex Andrews, cofounder of Sex Workers Outreach Project (SWOP) and SWOP Behind Bars. Andrews and other objected to the “torture” Harris put sex workers through when she was district attorney of San Francisco and attorney general of California."
