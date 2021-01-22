@@ -1540,6 +1540,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris Is Sworn In as Vice President"
+    excerpt: "Kamala Harris was sworn in, becoming the first woman and the first woman of color to serve as vice president. Her oath of office was administered by Justice Sonia Sotomayor."
+    publishedDateTime: 2021-01-20T19:33:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007561169/kamala-harris-vice-president-swearing-in.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/20/us/20livebloginaug-6-sub/merlin_182596812_6fb61894-f278-40c9-bb6e-69f715e26a18-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Kamala Harris Swears In New Democratic Senators"
     excerpt: "Vice President Kamala Harris swore in three new senators Wednesday: Jon Ossoff and the Rev. Raphael Warnock of Georgia, and Alex Padilla of California. Democrats now have narrow control of the Senate."
     publishedDateTime: 2021-01-20T23:06:00Z

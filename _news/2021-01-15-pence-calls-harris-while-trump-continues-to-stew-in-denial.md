@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-presidency/index.html"
 type: article
 quality: 225
-heat: 2205
+heat: 2225
 published: true
 
 provider:
@@ -1526,6 +1526,20 @@ related:
     quality: 115
     images:
       - url: "https://static01.nyt.com/images/2021/01/20/us/20inauguration-live-blog-kamala-walk/20inauguration-live-blog-kamala-walk-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Kamala Harris Is Sworn In as Vice President"
+    excerpt: "Kamala Harris was sworn in, becoming the first woman and the first woman of color to serve as vice president. Her oath of office was administered by Justice Sonia Sotomayor."
+    publishedDateTime: 2021-01-20T19:33:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007561169/kamala-harris-vice-president-swearing-in.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/20/us/20livebloginaug-6-sub/merlin_182596812_6fb61894-f278-40c9-bb6e-69f715e26a18-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
         isCached: true

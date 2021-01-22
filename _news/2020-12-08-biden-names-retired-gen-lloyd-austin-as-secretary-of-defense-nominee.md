@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-secretary-o
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/08/politics/lloyd-austin-secretary-of-defense-joe-biden/index.html"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209140912-01-lloyd-austin-secretary-of-defense-announcement-1209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Senate to vote on confirmation of Biden defense secretary pick Lloyd Austin"
+    excerpt: "The Senate will hold a confirmation vote on Friday for President Joe Biden's defense secretary pick retired Gen. Lloyd Austin.\n    \n"
+    publishedDateTime: 2021-01-22T11:39:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i_QL3ea7PYM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/lloyd-austin-senate-vote-confirmation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/lloyd-austin-senate-vote-confirmation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121162009-lloyd-austin-0119-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

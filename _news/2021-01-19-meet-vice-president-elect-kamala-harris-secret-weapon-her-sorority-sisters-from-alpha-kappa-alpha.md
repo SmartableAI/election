@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-sorority-sisters-alph
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-sorority-sisters-alpha-kappa-alpha/"
 type: article
 quality: 110
-heat: 170
+heat: 190
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Vice President Kamala Harris comes from a family of lawyers and Stanford graduates. Meet the family."
+    excerpt: "Kamala Harris' sister Maya, her niece Meena, and husband Douglas are by her side as she enters the oval office as the first female VP."
+    publishedDateTime: 2021-01-22T11:31:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-family-vp-democratic-candidate-2020-8"
+    ampWebUrl: "https://www.businessinsider.com/kamala-harris-family-vp-democratic-candidate-2020-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-family-vp-democratic-candidate-2020-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/6009986921f52a0018cb9c7f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Berkeley parents to stage 'sit-in' for reopening schools at Kamala Harris' old elementary school"
     excerpt: "The sit-in is framed by advocates for reopening schools as a call against \"discrimination in the access of education in California.\""
     publishedDateTime: 2021-01-12T14:34:00Z

@@ -2562,6 +2562,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden's Heartfelt Appeal for Unity Likely to Be Unavailing"
+    excerpt: "Biden's inaugural address was light on legislative issues. \"We face an attack on our democracy and on truth\" -- justified but not unifying criticism at Trump's lengthy refusal to concede defeat and Trump supporters' assault on the electoral process two weeks ago -- \"and a raging virus,"
+    publishedDateTime: 2021-01-22T12:07:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/22/bidens_heartfelt_appeal_for_unity_likely_to_be_unavailing_145094.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/22/bidens_heartfelt_appeal_for_unity_likely_to_be_unavailing_145094.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/22/bidens_heartfelt_appeal_for_unity_likely_to_be_unavailing_145094.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/533082_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Watch Live: Senate Considers Five Biden Nominees"
     excerpt: "The Senate is kicking off a series of high-stakes confirmation hearings Tuesday for President-elect Joe Biden's top cabinet nominees. Lawmakers will question his picks to lead the Departments of State,"
     publishedDateTime: 2021-01-19T15:30:00Z
@@ -2600,6 +2616,15 @@ related:
     excerpt: "If he hopes to restore order in a divided nation, President-elect Joe Biden will need to help unruly factions see clearly that the only proper manner of seeking redress of grievances is peacefully. Given the recent tumult,"
     publishedDateTime: 2021-01-19T13:57:00Z
     webUrl: "https://www.realclearpolitics.com/2021/01/19/biden_could_calm_the_right_by_curbing_excesses_of_the_left_533840.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
+  - title: "What's at Top of Biden's To-Do List? Opening the Borders"
+    excerpt: "Thursday was Joe Biden's first day in office. You can tell a lot about what people are about on their first day in any job, so and crushing our country's last remaining independent economic sector."
+    publishedDateTime: 2021-01-22T12:01:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/22/whats_at_top_of_bidens_to-do_list_opening_the_borders_534087.html"
     type: article
     provider:
       name: RealClearPolitics

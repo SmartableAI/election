@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate to vote on confirmation of Biden defense secretary pick Lloyd Austin"
+    excerpt: "The Senate will hold a confirmation vote on Friday for President Joe Biden's defense secretary pick retired Gen. Lloyd Austin.\n    \n"
+    publishedDateTime: 2021-01-22T11:39:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i_QL3ea7PYM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/lloyd-austin-senate-vote-confirmation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/lloyd-austin-senate-vote-confirmation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121162009-lloyd-austin-0119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden likely to announce defense secretary Tuesday and more Cabinet picks Friday"
     excerpt: "President-elect Joe Biden will likely announce retired Army Gen. Lloyd Austin as his nominee for defense secretary on Tuesday, a source familiar with the matter told CNN, and is now expected to announce some domestic Cabinet picks on Friday.\n    \n"
     publishedDateTime: 2020-12-08T03:12:16Z

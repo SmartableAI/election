@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vice President Kamala Harris comes from a family of lawyers and Stanford graduates. Meet the family."
+    excerpt: "Kamala Harris' sister Maya, her niece Meena, and husband Douglas are by her side as she enters the oval office as the first female VP."
+    publishedDateTime: 2021-01-22T11:31:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-family-vp-democratic-candidate-2020-8"
+    ampWebUrl: "https://www.businessinsider.com/kamala-harris-family-vp-democratic-candidate-2020-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-family-vp-democratic-candidate-2020-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/6009986921f52a0018cb9c7f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "'We want to gloat': Vice President Kamala Harris' San Antonio sorority sisters celebrate"
     excerpt: "San Antonio women are celebrating one of their own as Kamala Harris becomes the first woman of color to be inaugurated as vice president of the United States."
     publishedDateTime: 2021-01-20T17:04:00Z

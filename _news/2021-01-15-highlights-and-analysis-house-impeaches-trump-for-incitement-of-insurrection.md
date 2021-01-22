@@ -752,6 +752,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The huge stakes of Biden's new Covid-19 plan"
+    excerpt: "Joe Biden is so far as good as his word to \"manage the hell\" out of the pandemic, driven by urgency to revive a sickened, struggling nation and the certainty that his entire presidency rests on eradicating Covid-19.\n    \n"
+    publishedDateTime: 2021-01-22T06:22:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MX3f1014rTk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/joe-biden-coronavirus-plan-fauci-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/joe-biden-coronavirus-plan-fauci-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121151243-01-biden-covid-remarks-0121-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "As Trump leaves the stage, Republicans grapple with new conspiracy caucus"
     excerpt: "Donald Trump may be leaving the White House in a few days, but the umbrella of conspiracy theories he inspired are only just arriving in Washington.\n    \n"
     publishedDateTime: 2021-01-16T20:34:42Z
@@ -992,6 +1008,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Experts say Biden administration's vaccine strategy could benefit from good timing"
+    excerpt: "As President Joe Biden takes steps to try to ramp up vaccine production, experts say the biggest boon to his administration's vaccine strategy could simply be good timing.\n    \n"
+    publishedDateTime: 2021-01-22T10:04:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kI3FdOmBAIU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/covid-vaccine-biden-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/covid-vaccine-biden-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106075000-01-moderna-covid-vaccine-new-york-1221-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "HHS Secretary Alex Azar complains of tarnished legacy in resignation letter to Trump"
     excerpt: "President Trump's \"actions and rhetoric\" have tarnished the administration's legacy, Health and Human Services Secretary Alex Azar said in a resignation letter submitted this week.\n    \n"
     publishedDateTime: 2021-01-16T04:36:06Z
@@ -1149,6 +1181,22 @@ related:
     quality: 159
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200205222554-01-joe-biden-stutter-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden issues slew of pandemic initiatives to improve vaccine distribution, expand testing, reopen schools"
+    excerpt: "President Joe Biden's first full day in office Thursday will focus on getting the Covid-19 pandemic under control, rolling out his national strategy that includes several executive actions related to vaccinations and testing in hopes of moving the federal response in a different direction.\n    \n"
+    publishedDateTime: 2021-01-22T03:25:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rYhAS3Id-u8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/biden-national-coronavirus-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/biden-national-coronavirus-plan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120202424-03-biden-executive-order-0120-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

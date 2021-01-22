@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55670801"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55670801"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/15/060ed476-7daa-48d5-9570-cb245fa7aea7/thumbnail/1200x630/ca56cea94e0eabd31dc19ff0a53bd160/gettyimages-1296410571.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Joe Biden to focus on economic recovery after Covid as 17.5m vaccine shots given in US - live updates"
+    excerpt: "Calls to delay Donald Trump impeachment trial as former president appoints defense lawyer Bowers"
+    publishedDateTime: 2021-01-22T10:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/22/joe-biden-covid-coronavirus-strategy-donald-trump-impeachment-kamala-harris-live"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/22/joe-biden-covid-coronavirus-strategy-donald-trump-impeachment-kamala-harris-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/22/joe-biden-covid-coronavirus-strategy-donald-trump-impeachment-kamala-harris-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 110
+    images:
+      - url: "https://i.guim.co.uk/img/media/fe78b211bfccc74f50dc04eb41c3692d5b3c570b/0_40_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9dcc227f4e6e0918a04f9277c0f430f2"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trudeau expects Biden to re-engage U.S. on world stage"
     excerpt: "Reuters Next Trudeau expects Biden to re-engage U.S. on world stage. Posted . Canada and other U.S. allies are looking to President-elect Joe Biden to re-engage on the world stage"

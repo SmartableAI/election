@@ -951,6 +951,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "How Biden has changed the Oval Office so far"
+    excerpt: "Mr. Biden replaced some pieces from the Trump era and added new ones, including a bust of civil rights activist Cesar Chavez."
+    publishedDateTime: 2021-01-22T12:06:00Z
+    webUrl: "https://www.cbsnews.com/news/oval-office-biden-decoration-furniture/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/oval-office-biden-decoration-furniture/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/oval-office-biden-decoration-furniture/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/21/5570a049-76f1-410c-9e58-12cfba0f9788/thumbnail/1200x630/42bc6cbd129f169106f4f9a121208127/ap-21021110496843.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "National Guard troops head home after helping secure Biden inauguration"
     excerpt: "Meanwhile, The Washington Post and Politico reported that hundreds of Guard troops were relocated to a nearby garage. Photos of the troops in the garage drew outrage from lawmakers."
     publishedDateTime: 2021-01-22T08:16:00Z
@@ -1835,6 +1851,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Insurrection and inauguration – Joe Biden's new political era - video"
+    excerpt: "Following the US Capitol riot, Oliver Laughland and Tom Silverstone travel to Washington DC for the week of Joe Biden’s inauguration to find a downtown under military occupation and a city coming to t"
+    publishedDateTime: 2021-01-22T10:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/22/insurrection-and-inauguration-joe-bidens-new-political-era-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/e1464636cda3952477feb7c4b01c9a78a7b1b55e/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ec5fb2b82351024cccf86913ac92787e"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President Biden discusses COVID19 response"
     excerpt: "Watch \"President Joe Biden discusses COVID-19 response\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-01-21T20:08:00Z

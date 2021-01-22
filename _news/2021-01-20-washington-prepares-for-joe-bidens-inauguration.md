@@ -665,6 +665,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "The obscure constitutional provision hanging over Trump's post-presidency"
+    excerpt: "Section 3 of the 14th Amendment was referenced in the House's article of impeachment against former President Donald Trump."
+    publishedDateTime: 2021-01-22T11:04:00Z
+    webUrl: "https://www.cbsnews.com/news/14th-amendment-insurrection-rebellion-trump-post-presidency/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/14th-amendment-insurrection-rebellion-trump-post-presidency/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/14th-amendment-insurrection-rebellion-trump-post-presidency/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/21/9c1effdc-a4e8-4e73-8197-39465ce61e56/thumbnail/1200x630/8a5066168edc1263a3dd72b7f60a0b59/gettyimages-1230692812.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump wishes new administration 'success' as Pence reveals he will skip president's farewell event – live"
     excerpt: "White House releases Trump farewell address amid preparations for Biden inauguration – follow live"
     publishedDateTime: 2021-01-19T20:55:00Z
@@ -898,6 +914,22 @@ related:
       - url: "https://i.insider.com/600850c5660f6c0018349f3a?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Kamala Harris won't be moving into vice president's residence at Naval Observatory immediately"
+    excerpt: "Vice presidents since Vice President Walter Mondale have been living in the residence at the Naval Observatory in Washington, D.C."
+    publishedDateTime: 2021-01-21T05:39:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-wont-be-moving-into-vice-presidents-residence-immediately/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-wont-be-moving-into-vice-presidents-residence-immediately/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-wont-be-moving-into-vice-presidents-residence-immediately/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 113
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/21/148495a4-3240-4dc0-8427-641d12f7e7a7/thumbnail/1200x630/991e9902f84e80b7f0fe3aeb916af9b7/ap-18075519617702.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "“Vice President Kamala Harris,” a Los Angeles Times Special Edition Magazine, is on Newsstands Now"
     excerpt: "The Los Angeles Times has published a commemorative magazine, “Vice President Kamala Harris,” in advance of the inauguration of the first American woman ever to hold the office. Harris has made a meteoric ascent in American politics – from Bay Area prosecutor to vice president-elect – and The Times has covered her every step of the way."
