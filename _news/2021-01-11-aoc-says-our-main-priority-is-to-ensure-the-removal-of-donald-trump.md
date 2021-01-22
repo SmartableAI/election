@@ -764,6 +764,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump selects Mark Meadows, lawyers from first impeachment to handle document requests ahead of new trial"
+    excerpt: "Former President Trump has reportedly chosen Mark Meadows, his former chief of staff, and the defense lawyers from his first impeachment case to handle requests for his White House records, according to reports."
+    publishedDateTime: 2021-01-22T10:56:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y52pmmV5zuE/trump-selects-mark-meadows-lawyers-from-first-impeachment-to-handle-document-requests-ahead-of-new-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-selects-mark-meadows-lawyers-from-first-impeachment-to-handle-document-requests-ahead-of-new-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-selects-mark-meadows-lawyers-from-first-impeachment-to-handle-document-requests-ahead-of-new-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6f7deab-50b8-4854-a772-08d24f875fa1/65962725-c64c-4736-8a52-88203251a4ed/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Republican Voters Stick by Trump as Some Lawmakers Seek Distance"
     excerpt: "Some GOP lawmakers such as Rep. Nancy Mace of South Carolina have opposed impeachment while publicly criticizing the president."
     publishedDateTime: 2021-01-14T18:13:00Z

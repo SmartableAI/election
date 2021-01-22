@@ -1515,9 +1515,9 @@ related:
         height: 773
         isCached: true
   - title: "Kamala Harris Arrives Outside the White House"
-    excerpt: "Kamala Harris Arrives Outside the White House Vice President Kamala Harris walked to the White House following a visit to Arlington National Cemetery. Advertisement 1:37 NOW PLAYING 3:44 Advertisement"
+    excerpt: "Kamala Harris Arrives Outside the White House Vice President Kamala Harris walked to the White House following a visit to Arlington National Cemetery. Advertisement 1:38 2:04 1:24 Advertisement 1:41 2"
     publishedDateTime: 2021-01-20T21:46:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007561977/kamala-walk-parade-route-white-house.html?playlistId=video/us-politics"
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007561977/kamala-walk-parade-route-white-house.html"
     type: article
     provider:
       name: New York Times

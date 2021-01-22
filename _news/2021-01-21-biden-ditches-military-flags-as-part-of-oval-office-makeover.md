@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-ditches-military-flags-oval-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ditches-military-flags-oval-office-makeover.amp"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 167
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ccedca73-8447-45bd-9bc7-2b1cc2a3e532/44618639-0f4e-4ea7-8a23-802511106a18/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden to sign 2 executive orders aimed at pandemic-related food assistance, worker needs"
+    excerpt: "Biden officials said the orders were meant to serve as a placeholder until Congress passes another coronavirus stimulus package."
+    publishedDateTime: 2021-01-22T10:00:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pIlqxERwBv4/biden-sign-two-executive-orders-pandemic-related-food-assistance-worker-needs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sign-two-executive-orders-pandemic-related-food-assistance-worker-needs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sign-two-executive-orders-pandemic-related-food-assistance-worker-needs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2f7d9411-98bb-48a1-90c8-d0ae588a1cd4/c56c3b57-5e00-4964-9cb4-ecf3cc134aec/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

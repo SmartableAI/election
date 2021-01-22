@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-sours-on-trump-but-many-cling-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sours-on-trump-but-many-cling-to-election-hoax.amp"
 type: article
 quality: 190
-heat: 1450
+heat: 1470
 published: true
 
 provider:
@@ -748,6 +748,22 @@ related:
     quality: 158
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/95fbc9c9-1d26-409c-9817-291634596bc5/1e54b272-83ba-4816-9ab8-24a9d09bb7bb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump selects Mark Meadows, lawyers from first impeachment to handle document requests ahead of new trial"
+    excerpt: "Former President Trump has reportedly chosen Mark Meadows, his former chief of staff, and the defense lawyers from his first impeachment case to handle requests for his White House records, according to reports."
+    publishedDateTime: 2021-01-22T10:56:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y52pmmV5zuE/trump-selects-mark-meadows-lawyers-from-first-impeachment-to-handle-document-requests-ahead-of-new-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-selects-mark-meadows-lawyers-from-first-impeachment-to-handle-document-requests-ahead-of-new-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-selects-mark-meadows-lawyers-from-first-impeachment-to-handle-document-requests-ahead-of-new-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6f7deab-50b8-4854-a772-08d24f875fa1/65962725-c64c-4736-8a52-88203251a4ed/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

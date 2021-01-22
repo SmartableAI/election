@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Kamala Harris Arrives Outside the White House"
-excerpt: "Kamala Harris Arrives Outside the White House Vice President Kamala Harris walked to the White House following a visit to Arlington National Cemetery. Advertisement 1:37 NOW PLAYING 3:44 Advertisement"
+excerpt: "Kamala Harris Arrives Outside the White House Vice President Kamala Harris walked to the White House following a visit to Arlington National Cemetery. Advertisement 1:38 2:04 1:24 Advertisement 1:41 2"
 publishedDateTime: 2021-01-20T21:46:00Z
-originalUrl: "https://www.nytimes.com/video/us/politics/100000007561977/kamala-walk-parade-route-white-house.html?playlistId=video/us-politics"
-webUrl: "https://www.nytimes.com/video/us/politics/100000007561977/kamala-walk-parade-route-white-house.html?playlistId=video/us-politics"
+originalUrl: "https://www.nytimes.com/video/us/politics/100000007561977/kamala-walk-parade-route-white-house.html"
+webUrl: "https://www.nytimes.com/video/us/politics/100000007561977/kamala-walk-parade-route-white-house.html"
 type: article
 quality: 115
 heat: -1
@@ -1584,6 +1584,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "pyYWhBzjE40WN1is9Zb4o+bYwz35dPLkThKgMRS6BbJEqD/pDhsIukc7GjwP2QLZqH7RPmxrjrSAYiHROz/tYFOH/lnWLvmTfEkHE11bIcoNXCcEj/2docDiRsUnUsPN//rV6Z+DbSPlzSMqX6FMpA7nbcbsT69jDc3/XnpfvKm6Cj1iqu+Hd9cO43niXRdF0jNEUHJuVL6Mfz3C5JFFgdXg11SyaekSELJgNifyQPpH6cjRAV2rM6O3jvkqQjq1zRUdKLAtRHpVyHUZQkXSzevzNx6mHI3jQUNPewYHquonl/X6iJX5Xhw5IOu7S251N+9dmy5Pfb0OdZszOCaz//+jsEYNWjr4RP7XbzI8XRU=;YLE4V6j6pCiqPxgIMcW6gQ=="
+secured: "u1X3YPxFWBCMMNxmdhOejD9wTJtqqO9WLSP22cg87ml9f4VpWVB1RhWkYF2iDJm0vqE2k3e4xKVhCRzrZ9w+Ya/I4If4cv7oQY3oXqrhFdElYSjyt3Uh9PHr4bvaLsC3CrrhOcRy0trl3LEc20XTzcbVtGFgiwOBS60tPPmtsMp5pwI7KJupVH+KKH0KQexw6fdVQA8jTwKoUpgz/EB94cb6ECCaRYNcfhTROl3D+aF0Rb30ldKHh8tIQVG/NEglfB21itm383ycqofAg5Bk0FEQvqT2Fftho3CPcdK+3GmzLiCICR/giWvdwJrxBSkK5vGlK7uA69vcHccxuOV+pR7KkZmpN3z6dgKbKxrAn/o=;s1it5hM4X/pQgLge7SWRyQ=="
 ---
 

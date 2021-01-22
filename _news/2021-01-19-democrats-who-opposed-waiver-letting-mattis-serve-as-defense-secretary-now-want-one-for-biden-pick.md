@@ -159,6 +159,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden to sign 2 executive orders aimed at pandemic-related food assistance, worker needs"
+    excerpt: "Biden officials said the orders were meant to serve as a placeholder until Congress passes another coronavirus stimulus package."
+    publishedDateTime: 2021-01-22T10:00:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pIlqxERwBv4/biden-sign-two-executive-orders-pandemic-related-food-assistance-worker-needs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sign-two-executive-orders-pandemic-related-food-assistance-worker-needs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sign-two-executive-orders-pandemic-related-food-assistance-worker-needs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2f7d9411-98bb-48a1-90c8-d0ae588a1cd4/c56c3b57-5e00-4964-9cb4-ecf3cc134aec/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden labor secretary nominee Marty Walsh's campaign paid his girlfriend's employer nearly $1 million"
     excerpt: "Boston Mayor Marty Walsh, President-elect Biden’s nominee for Labor Secretary, paid his girlfriend’s fundraising consulting firm over $1 million, campaign filings show. "
     publishedDateTime: 2021-01-14T23:45:11Z

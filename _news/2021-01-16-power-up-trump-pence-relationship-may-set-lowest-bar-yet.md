@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/15/power-up-trump-pe
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/15/power-up-trump-pence-relationship-may-set-lowest-bar-yet/?outputType=amp"
 type: article
 quality: 140
-heat: 1220
+heat: 1240
 published: true
 
 provider:
@@ -334,6 +334,22 @@ related:
       - url: "https://s.abcnews.com/images/US/bannon-gty-er-210119_1611091724636_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Historians rail against Trump administration's 1776 Commission"
+    excerpt: "Experts call report released by former administration a ‘puerile, politically reactionary document’"
+    publishedDateTime: 2021-01-22T08:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/22/1776-commission-report-trump-administration-historians"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/22/1776-commission-report-trump-administration-historians"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/22/1776-commission-report-trump-administration-historians"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/6c8012c5df62883049cde364538dd50c9452cf7a/0_265_4000_2401/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c7942ae2ece3d22caec50a5c44e7136f"
+        width: 600
+        height: 360
         isCached: true
   - title: "Top Iran leader posts Trump-like golfer image, vows revenge"
     excerpt: "The Twitter account of Iran's Supreme Leader on Friday carried the image of a golfer resembling former President Donald Trump apparently being targeted by a drone, vowing revenge over the killing of a top Iranian general in a U."

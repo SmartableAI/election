@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Hundreds of publishing industry figures have signed an open letter in opposition to a potential Trump memoir"
+    excerpt: "Hundreds of authors, editors, and agents signed an open letter asking the world's publishers to skip a post-presidency memoir from Donald Trump."
+    publishedDateTime: 2021-01-22T10:27:00Z
+    webUrl: "https://www.businessinsider.com/open-letter-calls-for-publishers-to-skip-trump-book-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/open-letter-calls-for-publishers-to-skip-trump-book-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/open-letter-calls-for-publishers-to-skip-trump-book-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/60044f8de3d62500185fcf8e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Dustin Higgs scheduled to be last federal inmate executed before Trump leaves office"
     excerpt: "A federal jury in Maryland convicted Higgs of first-degree murder and kidnapping in the killings of Tamika Black, 19; Mishann Chinn. 23; and Tanji Jackson, 21."
     publishedDateTime: 2021-01-15T12:34:00Z
