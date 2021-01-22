@@ -249,54 +249,6 @@ related:
         width: 1200
         height: 677
         isCached: true
-  - title: "Kamala Harris has already made history, but some young women won't feel it until they see it"
-    excerpt: "Kamala Harris' ascension marks a pivotal moment in history as young women say her inauguration may finally allow them to savor what has been won."
-    publishedDateTime: 2021-01-19T22:13:00Z
-    webUrl: "https://www.azcentral.com/story/life/health-wellness/2021/01/19/kamala-harris-inauguration-emotional-moment-young-women-color/4208343001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/4208343001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4208343001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 64
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/d883f446-f5c3-46a4-9b52-147fb9eb058e-good3.jpg?auto=webp&crop=1770,996,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris makes history. Her swearing-in as vice president shows ‘strength of our democracy.’"
-    excerpt: "And this year, after the chaos dies down, Kamala Harris will make history as she raises her right hand to become the first woman to take the vice presidential oath of office. Her African American and Asian American roots are empowering groups whose voices ..."
-    publishedDateTime: 2021-01-18T12:44:00Z
-    webUrl: "https://www.freep.com/in-depth/opinion/voices/2021/01/18/kamala-harris-swearing-vice-president-shows-strength-our-democracy-column/6564032002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6564032002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6564032002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 62
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/11/USAT/ceddbdfa-77f9-4462-a868-179faa78cbcf-AP_Election_2020.jpg?auto=webp&crop=4500,2531,x0,y228&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris makes history. Her swearing-in as vice president shows ‘strength of our democracy.’"
-    excerpt: "Kamala Harris’ inauguration is a marker that the arc of history is bending toward the democracy America deserves. Support her, and hold her accountable. Kamala Harris’ inauguration is a marker that the arc of history is bending toward the democracy ..."
-    publishedDateTime: 2021-01-18T16:23:00Z
-    webUrl: "https://www.indystar.com/in-depth/opinion/voices/2021/01/18/kamala-harris-swearing-vice-president-shows-strength-our-democracy-column/6564032002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6564032002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6564032002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 62
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/11/USAT/ceddbdfa-77f9-4462-a868-179faa78cbcf-AP_Election_2020.jpg?auto=webp&crop=4500,2531,x0,y228&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Will Kamala Harris as vice president finally change how corporate America sees and treats Black women?"
     excerpt: "Kamala Harris is the first Black and South Asian woman elected to the nation's second-highest office. Advocates hope corporate America takes note."
     publishedDateTime: 2021-01-20T09:35:00Z

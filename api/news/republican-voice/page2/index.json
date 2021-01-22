@@ -2,25 +2,25 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-01-19-cbp-acting-commissioner-biden-sending-loud-and-clear-message-for-migrants.md",
-      "title": "CBP acting commissioner: Biden sending 'loud and clear' message for migrants",
-      "excerpt": "President-elect Joe Biden has been sending a “loud and clear” message to migrants, who are already heading to the U.S. southern border ahead of his inauguration, Mark Morgan, acting commissioner of U.S. Customs and Border Protection, said on Tuesday.  ",
+      "path": "_news/2021-01-20-sen-cotton-tears-into-bidens-radical-immigration-agenda-what-youd-expect-from-the-party-of-open-borders.md",
+      "title": "Sen. Cotton tears into Biden’s ‘radical immigration agenda’: ‘what you’d expect from the party of open borders",
+      "excerpt": "President-elect Joe Biden is expected to unveil a sweeping immigration plan during his early days in office, which will aim to reverse Trump-era policies – but his proactive approach is garnering pushback from both sides of the aisle. ",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0f9NACq-Rs8/cbp-acting-commissioner-biden-sending-loud-clear-message-migrants",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0f9NACq-Rs8/cbp-acting-commissioner-biden-sending-loud-clear-message-migrants",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hwDGp4RQWc8/sen-cotton-tears-into-bidens-radical-immigration-agenda-what-youd-expect-from-the-party-of-open-borders",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hwDGp4RQWc8/sen-cotton-tears-into-bidens-radical-immigration-agenda-what-youd-expect-from-the-party-of-open-borders",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 172,
+      "heat": 155,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/321ecfd7-beb9-4774-b170-6624dc01804c/da14774b-57ad-4e5e-9230-b8d2bae64d79/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cbp-acting-commissioner-biden-sending-loud-clear-message-migrants.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cbp-acting-commissioner-biden-sending-loud-clear-message-migrants.amp",
-      "publishedDateTime": "2021-01-19T11:48:38-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-cotton-tears-into-bidens-radical-immigration-agenda-what-youd-expect-from-the-party-of-open-borders.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cotton-tears-into-bidens-radical-immigration-agenda-what-youd-expect-from-the-party-of-open-borders.amp",
+      "publishedDateTime": "2021-01-19T17:54:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-graham-warns-border-will-be-overrun-unless-biden-sends-clear-and-unmistakable-signal-to-migrant-caravans.md",
+      "title": "Graham warns border will be 'overrun’ unless Biden sends ‘clear and unmistakable signal’ to migrant caravans",
+      "excerpt": "Sen. Lindsey Graham, R-S.C., on Tuesday warned that the U.S. border will be “overrun” unless the incoming Biden administration sends a message to the incoming migrant caravans that they support President Donald Trump’s policies on immigration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/thbVdISPF30/graham-warns-border-overrun-unless-biden-sends-signal-migrant-caravans",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/thbVdISPF30/graham-warns-border-overrun-unless-biden-sends-signal-migrant-caravans",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020009128608.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/graham-warns-border-overrun-unless-biden-sends-signal-migrant-caravans.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-warns-border-overrun-unless-biden-sends-signal-migrant-caravans.amp",
+      "publishedDateTime": "2021-01-19T16:58:10-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1594,62 +1650,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/squad-cori-bush-calling-trump-white-supremacist.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-cori-bush-calling-trump-white-supremacist.amp",
       "publishedDateTime": "2021-01-13T18:56:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-swalwell-compares-trump-to-usama-bin-laden-he-was-responsible.md",
-      "title": "Swalwell compares Trump to Usama bin Laden: 'He was responsible'",
-      "excerpt": "Democratic California Rep. Eric Swalwell, who remains on the House Intelligence Committee despite foggy ties to a spy for China and who will serve as an impeachment manager, associated President Trump with Usama bin Laden in an interview Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EjxHIq_BY1I/swalwell-compares-trump-to-usama-bin-laden-he-was-responsible",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EjxHIq_BY1I/swalwell-compares-trump-to-usama-bin-laden-he-was-responsible",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/swalwell-walking-masked.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/swalwell-compares-trump-to-usama-bin-laden-he-was-responsible.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/swalwell-compares-trump-to-usama-bin-laden-he-was-responsible.amp",
-      "publishedDateTime": "2021-01-13T15:57:11-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -108,6 +108,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "McConnell wants to push Trump's Senate impeachment trial to mid-February"
+    excerpt: "McConnell’s proposal is a deal to give both sides time to prepare for former President Donald Trump's second impeachment trial."
+    publishedDateTime: 2021-01-22T03:31:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/mcconnell-wants-push-trump-s-senate-impeachment-trial-february-n1255226"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 114
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2021_03/3444082/210121-mitch-mcconnell-se-512p_743400cea8c8cb08490113ee7ff58353.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "n8nUcqIaY5IfzpD+GYu3GqrSDYS0kdtyKw+2llT27rQctiiiU+MmHZJEIQ/WlZk5qPV4EuAZqOk2DL89aVQSybUX1m2K8TmXUHa6N7EUIT/OyYbC72qDTOJJWbFnzNDGOS4lUVSeWagaLz5Kved6e/8qSn8rhLvHRpVoquRKjlNcrhcj/Hcy7z8+ZLXwvcw53mgWhjMfGeStLDKufC6pGUDOyvPoELsEuKAFeGyFZlvV+kt6jSNEKrNy1DoDyJIWAYkdnX0TMMg/cmiQ1Ibx2KgIA9yu8TZoysEVn09EgtAYk4yYjlbFG+Q7t9KVX+E0krrSqxepjRCjrkU94RCH/A8MuRTvyNxHeiPrPW6qbImKaiyAJS4A2l4IdVRQQcu2sn3PCVNv975iJDhYIFdPsQreEnbGqE9EDOH5qdfnW+x/ah84WCB/ks6IicxhKWzK1IHQZFfxCmZlXDYroyvv0sTdJL+FDAeVxCvOvZ8UI0+qq/fARQh0Xn3bh29RIuwDyXFqweZxSjp+zfiJcdgOzg==;EsseCYqxb73mgmldA24iGw=="
 ---

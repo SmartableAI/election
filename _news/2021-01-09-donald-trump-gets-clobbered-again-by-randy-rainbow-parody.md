@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump impeachment: after term is over, is there precedent? You asked, we answered."
-    excerpt: "Trump impeachment: is impeachment after term is over a possibility? What's the precedent? Your impeachment questions, answered on States of America."
-    publishedDateTime: 2021-01-16T06:39:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/statesofamerica/2021/01/15/trump-impeachment-after-term-over-precedent/4179295001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 79
 
 secured: "BvKf8Wvm9TloXtMk0jvWs9JeB8ST5ONAYGBJzCcjlSXp1iA3kd/WJZE5JSSetuBn8b7sHCHc5WdhlgL5u2GD/raSlI2KljgNQcDk8IKYLBkNLX2HwuXYz62OXn+udmH4cF6QlUiKLCZOty8Jehlt4XaixgNVqDH8Apvr2f+6SFJi+NP2HN0Y37oVMw8c/yZhosZ9w0WrJ1PHBHlevsxcruNy6mlUHNSSNe2VLrt/5g00cy2kme8/u67uQ1O6lD1AivcXVQP0rOD+sD+qsCX1f3EqxVzbUVR6KwIgvEeIq/+ZESr3NI33nNbx1hp/XHyMSKjXNm/SUvb/aZSlBJWp7udrHgLujg47i5Aml8qLuVI=;hLRmdsl/ErT/gx1U3/b/aQ=="
 ---

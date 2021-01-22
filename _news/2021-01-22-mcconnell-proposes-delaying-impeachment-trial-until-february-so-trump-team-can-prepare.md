@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
 type: article
 quality: 167
-heat: 267
+heat: 287
 published: true
 
 provider:
@@ -107,7 +107,21 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "McConnell wants to push Trump's Senate impeachment trial to mid-February"
+    excerpt: "McConnell’s proposal is a deal to give both sides time to prepare for former President Donald Trump's second impeachment trial."
+    publishedDateTime: 2021-01-22T03:31:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/mcconnell-wants-push-trump-s-senate-impeachment-trial-february-n1255226"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 114
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2021_03/3444082/210121-mitch-mcconnell-se-512p_743400cea8c8cb08490113ee7ff58353.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "FPetut08yztnysQkztb01EGvixBH88hCAzI5P8/QXY35s1fk8llR5hIMfgHvkaGIWbLdDt3bIZQZu9LTi8qa4pQRVN157mdfb/Apn1ny48ND/QGTKhb9zJox0v3SC20PILRLItwQmAkDRG2m4HnBe/tORkaM7x2QHnAQGI+GYt1SPHZk1XOkba/eI8ggohwu1Zu5Ivz4Ax/XPmdCoSXasorOCUmBjv63IniobBxa421PLkc26sV5k0H2MCJZKVYPt5Us2kAZfe+I15PB1wNQ6m/QiWMb9eYlBFg3vdOMs8MODazT8Ew/M2X3hYtAbshWcSciDA22dXQEeK6OvXhLQJ/NpL0rg4rjqKVCUTF1oDM=;ccF6T0I5fApAblKFcduysA=="
+secured: "WwO7lrpcSkhO2U6I/6KL7Xoq5Im+OUtosmUfnntgr4ptjzxTQMNns2gpvIWFgU/N5RM7d0WUuEW9ExUCAc+6Td2hW3WKIiKVOBWW4Cqos5yDPls1CEL0A7Uwg7a/xwgHNR9EpL7S/bRXeGygeeGaRdK6cjIvfdJvovzmUZjCcKbqbXE4qyyjbl215JEMIseFs1w3JLdjJXxPwrR1nTEMtlxlAPc8zuoS35twIzsbr178RelnGqAEeEXBnYSPjNZHISY/VUAZk1VVywHNbvt11IEHkWnWTZ4bXJ3Smm4TNWVt+di/mmGTZJ6L5RGb4cv36IAa6I97FgPDlMRq3pY+G19FJ4Wv1z3L3wUVUbw0iYU=;jelBxHMnQyH9ZGae/p8w+g=="
 ---
 

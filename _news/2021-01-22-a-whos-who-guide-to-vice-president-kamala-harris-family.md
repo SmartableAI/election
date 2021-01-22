@@ -585,6 +585,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Swearing-in of Vice President Kamala Harris inspires girls nationwide"
+    excerpt: "Parents around the country posted photos of their daughters watching Vice President Kamala Harris being sworn in as the first woman vice president."
+    publishedDateTime: 2021-01-21T23:54:00Z
+    webUrl: "https://abcnews.go.com/GMA/Family/swearing-vice-president-kamala-harris-inspires-girls-nationwide/story?id=75403098"
+    ampWebUrl: "https://goodmorningamerica.com/amp/family/story/swearing-vice-president-kamala-harris-inspires-girls-nationwide-75403098"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/family/story/swearing-vice-president-kamala-harris-inspires-girls-nationwide-75403098"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/GMA/children-pose-as-president-joe-biden-vice-president-kamala-harris-01-ht-llr-210121_1611251289996_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump's Inauguration Boycott Welcomed by Republicans and Democrats"
     excerpt: "The president announced he will not attend ahead of his ban from Twitter, as a backlash grows against him over the recent events at the Capitol."
     publishedDateTime: 2021-01-11T15:29:00Z
@@ -2745,6 +2761,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "jnPeaY/PTB/BIDtuGefSh7BFSct/cH9lY4WSyBn2mvmQQD2K38gkczt3XWMNIfVvOR8qH3znEaR1u3g3oAoSV+oZa4mRAVJuMhhRDSBaYfw4e4499TcG5SJ+1uZ0KpgZ+uN0fMxvZM7ygNFGjrmB0WUIEarVpXo0Ygi6foyIxSHlvV9CanB+LpTZhpzFPjjAJVsPxQXiDFyV9Qi0ig0VP8MgyQhzAj2e9QVOrrjYcgJ6WCfj5XPeANVKzjVHw3ahHeO9x9U1liubmBv/qY2yuh9vbqa3pqOomp2p1iPr+q9zdLp9n6Nb+q7AxD2xrmW+plePHnlthb4jJ2KcsnZuONdt9pU/UXqEp2MTuK086Uc=;K7kw2PJoc76gCZLkTLhJlg=="
+secured: "Bf/AjvHNwGkQDqow6zn86dVYUlp5IcgSLxu7mL06EwME0UxiXGy5BpDR7jEl3k+sNQUeMftcuPt6z5PSeiw+rYvgRfrzVLCrnyIBY89RnacCkP3j8PbJwrX0DLYpnLvud10DeFkGnAtsJVTGVfBKHYLp7KrGTDd/LSAgMVG3Y3f8wongCsXqG23g9fdj2k6fERb4R80dwZBGGyX2l1pJmMUJ6le1SBtJrXbEgBq3tuc3W23yEAvnWSyKpedS3TN3MfSoh1Cxhp3KlUCxIBKfBO76gQ2BcKcK3Hw+wDtTFg8zjYHMqM3zs/YIAeQ3fXupjVZFpj3MnskrT3dy+ag8Mb5OAdSeyIIXRJatnlaYSkl6ER+NEeX39h81EFYQEuHE0wjpwVx91lNdtPTlklrImL1zEGkR6X4jXcWHELcY3SztK/3Fuhrqe92Gpp068Fwio1rp9Pcmyd7njxt6kCqs/PjPzqRO9W3IYPzSV1NzeEsfHEFnhWrcR+5zPGWAoCUmk4nzQr6bs/yOvP77mE9dDw==;mAPSvos3jDY1UMfZDSbY8Q=="
 ---
 

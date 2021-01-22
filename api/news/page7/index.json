@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-15-twitter-introduces-secondgentleman-handle-for-incoming-biden-administration.md",
+      "title": "Twitter introduces @SecondGentleman handle for incoming Biden administration",
+      "excerpt": "Twitter is introducing a new handle for the first-ever husband of a vice president as it begins transferring official White House social media accounts to the incoming Biden administration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YqXf6WqX8VM/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YqXf6WqX8VM/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-to-transfer-official-accounts-to-biden-administration-introduces-new-handle-secondgentleman.amp",
+      "publishedDateTime": "2021-01-15T07:22:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-seema-verma-says-she-has-no-regrets-about-her-healthcare-tenure-in-the-trump-administration-even-after-much-backlash.md",
       "title": "Seema Verma says she has 'no regrets' about her healthcare tenure in the Trump administration even after much backlash",
       "excerpt": "Some of Verma's policy accomplishments won't survive in a Biden administration and others are tied up in legal battles.",
@@ -387,7 +443,7 @@
       "originalUrl": "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818",
       "featuredContent": null,
       "highlight": null,
-      "heat": 524,
+      "heat": 464,
       "tags": null,
       "images": [
         {
@@ -1118,49 +1174,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-15-reports-joe-biden-to-pick-jaime-harrison-as-dnc-chair.md",
-      "title": "Reports: Joe Biden to pick Jaime Harrison as DNC chair",
-      "excerpt": "Jaime Harrison, who challenged Lindsey Graham for his Senate seat during the past election, will be the new chair of the Democratic National Committee, according to media reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2021/01/14/Reports-Joe-Biden-to-pick-Jaime-Harrison-as-DNC-chair/2811610648136/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2021/01/14/Reports-Joe-Biden-to-pick-Jaime-Harrison-as-DNC-chair/2811610648136/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/2811610648136/2021/1/a2c697c9cf853c4956da9471080b084a/v1.5/Reports-Joe-Biden-to-pick-Jaime-Harrison-as-DNC-chair.jpg",
-          "width": 800,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/01/14/Reports-Joe-Biden-to-pick-Jaime-Harrison-as-DNC-chair/2811610648136/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/14/Reports-Joe-Biden-to-pick-Jaime-Harrison-as-DNC-chair/2811610648136/",
-      "publishedDateTime": "2021-01-14T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-01-14-trumps-former-doctor-harold-bornstein-who-called-him-healthiest-president-ever-dies.md",
       "title": "Trump's former doctor Harold Bornstein, who called him 'healthiest president ever,' dies",
       "excerpt": "President Trump’s former personal physician, Dr. Harold Bornstein, who attested Trump was the \"healthiest president ever,\" died Thursday at 73. ",
@@ -1225,7 +1238,7 @@
       "originalUrl": "https://www.theguardian.com/politics/audio/2021/jan/14/trump-impeached-again-now-what-politics-weekly-extra-podcast",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {

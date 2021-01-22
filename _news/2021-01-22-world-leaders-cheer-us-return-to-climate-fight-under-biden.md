@@ -959,6 +959,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "U.S. Congress moves toward approving Biden's defense secretary pick"
+    excerpt: "The U.S. House of Representatives and Senate backed a waiver on Thursday that paved the way for President Joe Biden's nominee, Lloyd Austin, to lead the Pentagon even though he has not cleared the required seven-year waiting period since leaving the military."
+    publishedDateTime: 2021-01-22T04:23:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-pentagon-waiver-idUKKBN29Q34B?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29Q34B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29Q34B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548611644&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1EX"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden must find words for a wounded nation in inauguration like no other"
     excerpt: "Planners have been forced to be inventive after the deadly pandemic and now last week’s Capitol insurrection dictated a pared-down event"
     publishedDateTime: 2021-01-16T07:00:00Z

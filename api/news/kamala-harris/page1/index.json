@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-22-georgia-black-women-leaders-on-saving-democracy-by-helping-flip-senate-fueling-biden-harris-win.md",
+      "title": "Georgia Black women leaders on 'saving democracy' by helping flip Senate, fueling Biden-Harris win",
+      "excerpt": "It’s almost like someone has wiped the darkness away and given us new light,” a voter registration organizer said.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
+      "originalUrl": "https://abcnews.go.com/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 256,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/KamalaHarris-ht-er-210121_1611268223802_hpMain_2_16x9_992.jpg",
+          "width": 992,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
+      "publishedDateTime": "2021-01-21T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-biden-harris-partake-in-arlington-wreath-laying-ceremony.md",
       "title": "Biden, Harris partake in Arlington wreath laying ceremony",
       "excerpt": "President Joe Biden and Vice President Kamala Harris, after being sworn in at the Capitol, traveled to Arlington National Cemetery for a ceremony at the Tomb of the Unknown Soldier. ",
@@ -234,7 +287,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3758,
+      "heat": 3778,
       "tags": null,
       "images": [
         {
@@ -459,7 +512,7 @@
       "originalUrl": "https://www.newsweek.com/kamala-harris-makes-history-twitter-creates-secondgentleman-account-1561818",
       "featuredContent": null,
       "highlight": null,
-      "heat": 524,
+      "heat": 464,
       "tags": null,
       "images": [
         {
@@ -1043,7 +1096,7 @@
       "originalUrl": "https://www.cbsnews.com/news/kamala-harris-doug-emhoff-covid-vaccine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 485,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -1563,58 +1616,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-fact-check-fake-anti-christmas-quote-attributed-to-kamala-harris-began-as-satire.md",
-      "title": "Fact check: Fake anti-Christmas quote attributed to Kamala Harris began as satire",
-      "excerpt": "Users took to Facebook to post a quote about Christmas that they claim came from Vice President-elect Kamala Harris. The fake quote began as satire.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-anti-christmas-quote-attributed-kamala-harris-satire/6540043002/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-anti-christmas-quote-attributed-kamala-harris-satire/6540043002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/12/05/USAT/751f29ad-47cd-4791-9506-d4b6b846b53e-KamalaHarris.jpg?auto=webp&crop=3703,2083,x0,y188&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6540043002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6540043002",
-      "publishedDateTime": "2020-12-15T13:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     }

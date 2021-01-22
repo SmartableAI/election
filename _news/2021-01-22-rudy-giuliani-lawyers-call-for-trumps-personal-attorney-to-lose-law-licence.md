@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/22/rudy-giuliani-lawyer
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/22/rudy-giuliani-lawyers-call-for-trumps-personal-attorney-to-lose-law-license"
 type: article
 quality: 122
-heat: 142
+heat: 122
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     height: 360
     isCached: true
 
-related:
-  - title: "Trump taps Huntsville lawyer for international agriculture board"
-    excerpt: "In one of his final acts in office, President Donald Trump has appointed Huntsville lawyer Mark McDaniel to a prominent international agricultural food board. U.S. Rep. Mo Brooks announced the appointment Monday of McDaniel The board,"
-    publishedDateTime: 2021-01-19T14:58:00Z
-    webUrl: "https://www.al.com/news/2021/01/trump-taps-huntsville-lawyer-for-international-agriculture-board.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/trump-taps-huntsville-lawyer-for-international-agriculture-board.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-taps-huntsville-lawyer-for-international-agriculture-board.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/G52E5G6DYZEQFH352DCX7OSTUM.jpg"
-        width: 835
-        height: 724
-        isCached: true
-
-secured: "ReWDa33fyauBh5DYebk7myCT2779ihEyuCE8K4ejqDgkzdSpvdpKUJiACfwkfJ2XR4uFR+BISSkDBvLEknPmUT5pr6P3eauyTssiie9ztVjDrkrnwg2xLhWbnN+STn0PJin/fvAJEpxBv2GuoD5WS3m31Wdp7BY0TV4LXZbwTXp3QH+4mhBR7trwQKYKB39TfhJXFeqWo/uBl4NXscVx4HsaQnbBBIgmnXCH6eoUIL+XQduWAKbGxLO23mE7PIM5jBgLcdTjYNcDTFdWy41xKXCvo9dgg9ChKAoXnUiIKWeRWW9Ferh3DBWrhbGAxaQ1cTkdjRKolOrOpssLvTcXYYc+659azFXnfTil7n4OiaU=;ydHtz0P/llf19YFaQs5a3Q=="
+secured: "6lnGa1JJM89lJUxb198/RzDSqqIvBQcL2J6CHwNnIlP2AJQIpQ9sYmV51LmPPGqNhY/s4lvDAbzCgBGtEvm6ymZWBnpuu6G6vmI+SAyqG8sr9pnzQFCo7MTgdt/xh4+WqggoW4THizNvq2QSf8HyQwHbQd4g1exGeSX3pPVE5qvGaGHcTEeK/FjanK6/7IsII9yAeiiAZMqJ2qikyRz6+OQYk8Ry8WIsRgXmyqYIwDEIA8LXCyHpl2mj+AAnp1qDTR3klzVVOC5eofwUpk20iaJm9W47B/lXKZLqLQ2bro2to3plZgYRdchc2UTNKLIQymnu03yZ07z7PFOFrmDXlK554ml+0VcRi8vWYG/l9/ENQSYKs6csOnk1vp3TW13O5yHuBFrzKH4KmRcIq7NClyrqUaqyoaiFm8/xmqvMujj4BDRsKhy/sQQaf2M59qfjaacgzHDdpacApS0GSM+3EBAI5PnMHwJuFZiQGHET9pGbGRvOnIlhcmrgMns/wtbx0Ni4f9UN0EQGlM7hG8V7IQ==;OVacy66MOUTKusUQhu0mOQ=="
 ---
 

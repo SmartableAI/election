@@ -7,7 +7,7 @@ originalUrl: "https://www.theguardian.com/politics/audio/2021/jan/14/trump-impea
 webUrl: "https://www.theguardian.com/politics/audio/2021/jan/14/trump-impeached-again-now-what-politics-weekly-extra-podcast"
 type: article
 quality: 105
-heat: 145
+heat: 125
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump impeachment: after term is over, is there precedent? You asked, we answered."
-    excerpt: "Trump impeachment: is impeachment after term is over a possibility? What's the precedent? Your impeachment questions, answered on States of America."
-    publishedDateTime: 2021-01-16T06:39:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/statesofamerica/2021/01/15/trump-impeachment-after-term-over-precedent/4179295001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 79
   - title: "Donald Trump gets clobbered (again) by Randy Rainbow parody"
     excerpt: "What happens when Donald Trump meets “Fiddler on the Roof”? Find out in the latest Randy Rainbow parody music video, “Sedition.”"
     publishedDateTime: 2021-01-09T00:50:00Z

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-22-georgia-black-women-leaders-on-saving-democracy-by-helping-flip-senate-fueling-biden-harris-win.md",
+      "title": "Georgia Black women leaders on 'saving democracy' by helping flip Senate, fueling Biden-Harris win",
+      "excerpt": "It’s almost like someone has wiped the darkness away and given us new light,” a voter registration organizer said.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
+      "originalUrl": "https://abcnews.go.com/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 256,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/KamalaHarris-ht-er-210121_1611268223802_hpMain_2_16x9_992.jpg",
+          "width": 992,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
+      "publishedDateTime": "2021-01-21T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-biden-seeks-five-year-extension-of-new-start-arms-treaty-with-russia-source.md",
       "title": "Biden seeks five-year extension of New START arms treaty with Russia: source",
       "excerpt": "U.S. President Joe Biden will seek a five-year extension to the New START arms control treaty with Russia, a source familiar with the matter said on Thursday.",
@@ -545,7 +598,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3490,
+      "heat": 3510,
       "tags": null,
       "images": [
         {
@@ -863,7 +916,7 @@
       "originalUrl": "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1988,
+      "heat": 2008,
       "tags": null,
       "images": [
         {
@@ -1311,49 +1364,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-reports-joe-biden-to-pick-jaime-harrison-as-dnc-chair.md",
-      "title": "Reports: Joe Biden to pick Jaime Harrison as DNC chair",
-      "excerpt": "Jaime Harrison, who challenged Lindsey Graham for his Senate seat during the past election, will be the new chair of the Democratic National Committee, according to media reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2021/01/14/Reports-Joe-Biden-to-pick-Jaime-Harrison-as-DNC-chair/2811610648136/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2021/01/14/Reports-Joe-Biden-to-pick-Jaime-Harrison-as-DNC-chair/2811610648136/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/2811610648136/2021/1/a2c697c9cf853c4956da9471080b084a/v1.5/Reports-Joe-Biden-to-pick-Jaime-Harrison-as-DNC-chair.jpg",
-          "width": 800,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2021/01/14/Reports-Joe-Biden-to-pick-Jaime-Harrison-as-DNC-chair/2811610648136/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/01/14/Reports-Joe-Biden-to-pick-Jaime-Harrison-as-DNC-chair/2811610648136/",
-      "publishedDateTime": "2021-01-14T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

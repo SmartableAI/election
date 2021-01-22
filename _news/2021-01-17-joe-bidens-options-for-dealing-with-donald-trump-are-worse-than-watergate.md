@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donal
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1"
 type: article
 quality: 148
-heat: 1988
+heat: 2008
 published: true
 
 provider:
@@ -1105,6 +1105,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 85
+  - title: "Fauci Admits 'Liberating Feeling' Now That Trump Is Gone; Touts Biden's COVID-19 Plan"
+    excerpt: "Under the Trump administration, Fauci was restricted to appear on TV to offer science-based warnings about the rising number of coronavirus cases."
+    publishedDateTime: 2021-01-22T01:11:00Z
+    webUrl: "https://www.ibtimes.com/fauci-admits-liberating-feeling-now-trump-gone-touts-bidens-covid-19-plan-3127818"
+    ampWebUrl: "https://www.ibtimes.com/fauci-admits-liberating-feeling-now-trump-gone-touts-bidens-covid-19-plan-3127818?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/fauci-admits-liberating-feeling-now-trump-gone-touts-bidens-covid-19-plan-3127818?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 83
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/dr-anthony-fauci-speaks-during-white-house-press-briefing.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Donald Trump leaves the White House, plans to end term at Mar-a-Lago as Biden is sworn in"
     excerpt: "Trump is expected to be at his Palm Beach estate when the clock strikes noon on Wednesday, after a final military send-off at Joint Base Andrews."
     publishedDateTime: 2021-01-20T14:35:00Z

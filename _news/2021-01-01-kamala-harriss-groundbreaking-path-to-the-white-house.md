@@ -167,22 +167,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Joe Biden, Kamala Harris to visit Georgia ahead of Senate runoff Election Day"
-    excerpt: "The president-elect will travel to Atlanta on Monday while the vice president-elect will be in Savannah on Sunday."
-    publishedDateTime: 2020-12-30T13:58:00Z
-    webUrl: "https://www.khou.com/article/news/politics/biden-harris-traveling-to-georgia-senate-campaigns/85-771b57aa-78a9-461c-ad90-b2a5dc6e3880"
-    ampWebUrl: "https://www.khou.com/amp/article/news/politics/biden-harris-traveling-to-georgia-senate-campaigns/85-771b57aa-78a9-461c-ad90-b2a5dc6e3880"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/biden-harris-traveling-to-georgia-senate-campaigns/85-771b57aa-78a9-461c-ad90-b2a5dc6e3880"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 102
-    images:
-      - url: "https://media.khou.com/assets/WXIA/images/538ffc43-e730-4b70-933e-ec6bde3a4846/538ffc43-e730-4b70-933e-ec6bde3a4846_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Kamala Harris attempts to unite worried Georgia voters amid a strongly divided political cycle"
     excerpt: "From the time she stepped onto the podium, Vice President-elect Kamala Harris was greeted by thunderous car horns at a drive-in event near Savannah before voters decide their next Senators in contentious races that will shape Harris’ and President-elect Joe Biden’s governing future."
     publishedDateTime: 2021-01-03T00:00:00Z

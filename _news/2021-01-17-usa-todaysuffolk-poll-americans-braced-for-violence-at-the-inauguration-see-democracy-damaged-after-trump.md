@@ -123,20 +123,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "This day in history, January 16: The impeachment trial of President Donald Trump opens in the Senate"
-    excerpt: "Almanacs are full of lists of global and national historic events. But “This Day in History” feature invites you to not just peruse a list, but to take a trip back in time to see how a significant event originally was reported in the Chicago Tribune."
-    publishedDateTime: 2021-01-16T13:10:00Z
-    webUrl: "https://www.chicagotribune.com/history/ct-sns-today-history-almanac-january-16-20210116-bj5ofx7u4bai7kee7utmmiswvq-story.html"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 90
-    images:
-      - url: "https://www.chicagotribune.com/resizer/RCbFb8gR4Z4Tx8yS-kfISBHX_Qw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4HA5W4BHEBEBTMQQHY5ZH4DI64.jpg"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Most Americans Want Trump Gone From Politics, Poll Says"
     excerpt: "A slim majority of Americans want to see Trump charged with the incitement of the mob that attacked the Capitol Building, which would bar him from holding public office if convict"
     publishedDateTime: 2021-01-15T15:21:00Z

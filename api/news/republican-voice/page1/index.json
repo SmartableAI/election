@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-22-gingrich-dems-methodically-trying-to-destroy-conservatism-with-biden-as-pleasant-cover.md",
+      "title": "Gingrich: Dems 'methodically trying to destroy conservatism' with Biden as 'pleasant cover'",
+      "excerpt": "President Biden's \"radical\" inner circle is working to \"destroy\" the legacy of President Trump, former House Speaker Newt Gingrich warned on \"Hannity\" Thursday. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d8SA_Xuh2g0/newt-gingrich-dems-trying-destroy-conservatism",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d8SA_Xuh2g0/newt-gingrich-dems-trying-destroy-conservatism",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8fc8628d-554a-46ac-b68f-7c8401528e99/aad95c81-f69a-443b-ada9-602bdc51830e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/newt-gingrich-dems-trying-destroy-conservatism.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/newt-gingrich-dems-trying-destroy-conservatism.amp",
+      "publishedDateTime": "2021-01-21T20:15:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-biden-proposes-extending-nuclear-arms-treaty-with-russia-for-5-years.md",
+      "title": "Biden proposes extending nuclear arms treaty with Russia for 5 years",
+      "excerpt": "President Joe Biden has proposed extending a nuclear arms treaty with Russia before it expires next month, White House press secretary Jen Psaki said during a Thursday press conference.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tqVh-Z9v3ws/biden-extending-nuclear-arms-treaty-russia-5-years",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tqVh-Z9v3ws/biden-extending-nuclear-arms-treaty-russia-5-years",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21021724549190.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-extending-nuclear-arms-treaty-russia-5-years.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-extending-nuclear-arms-treaty-russia-5-years.amp",
+      "publishedDateTime": "2021-01-21T19:45:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-obama-praises-bidens-executive-order-blitz-this-is-a-time-for-boldness.md",
       "title": "Obama praises Biden's executive order blitz: 'This is a time for boldness'",
       "excerpt": "Former President Barack Obama praised President Biden on Thursday for enacting a sweeping slate of executive orders within hours of his inauguration as president.",
@@ -58,19 +170,19 @@
       ]
     },
     {
-      "path": "_news/2021-01-22-new-york-times-contributor-loses-think-tank-job-over-tweet-suggesting-biden-should-lynch-mike-pence.md",
-      "title": "New York Times contributor loses think tank job over tweet suggesting Biden should 'lynch Mike Pence'",
-      "excerpt": "A contributing opinion writer for The New York Times was fired from his think tank job Thursday over a tweet that jokingly suggested former Vice President Mike Pence be lynched in order to unify the country.",
+      "path": "_news/2021-01-22-new-york-times-contributor-apologizes-for-tweet-suggesting-biden-should-lynch-mike-pence.md",
+      "title": "New York Times contributor apologizes for tweet suggesting Biden should 'lynch Mike Pence'",
+      "excerpt": "A contributing opinion writer for The New York Times is under fire for a tweet that jokingly suggested former Vice President Mike Pence be lynched in order to unify the country.",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/will-wilkinson-lynch-mike-pence-niskanen-center-ny-times",
-      "originalUrl": "https://www.foxnews.com/media/will-wilkinson-lynch-mike-pence-niskanen-center-ny-times",
+      "webUrl": "https://www.foxnews.com/media/new-york-times-will-wilkinson-lynch-mike-pence",
+      "originalUrl": "https://www.foxnews.com/media/new-york-times-will-wilkinson-lynch-mike-pence",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 135,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -84,9 +196,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/will-wilkinson-lynch-mike-pence-niskanen-center-ny-times.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/will-wilkinson-lynch-mike-pence-niskanen-center-ny-times.amp",
-      "publishedDateTime": "2021-01-21T16:41:00-08:00",
+      "ampWebUrl": "https://www.foxnews.com/media/new-york-times-will-wilkinson-lynch-mike-pence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-will-wilkinson-lynch-mike-pence.amp",
+      "publishedDateTime": "2021-01-21T15:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1251,7 +1363,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 3385,
+      "heat": 3425,
       "tags": null,
       "images": [
         {
@@ -1553,118 +1665,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/lindsey-graham-mitch-mcconnell-second-trump-impeachment-effort.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-mitch-mcconnell-second-trump-impeachment-effort.amp",
       "publishedDateTime": "2021-01-19T20:51:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-sen-cotton-tears-into-bidens-radical-immigration-agenda-what-youd-expect-from-the-party-of-open-borders.md",
-      "title": "Sen. Cotton tears into Biden’s ‘radical immigration agenda’: ‘what you’d expect from the party of open borders",
-      "excerpt": "President-elect Joe Biden is expected to unveil a sweeping immigration plan during his early days in office, which will aim to reverse Trump-era policies – but his proactive approach is garnering pushback from both sides of the aisle. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hwDGp4RQWc8/sen-cotton-tears-into-bidens-radical-immigration-agenda-what-youd-expect-from-the-party-of-open-borders",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hwDGp4RQWc8/sen-cotton-tears-into-bidens-radical-immigration-agenda-what-youd-expect-from-the-party-of-open-borders",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/321ecfd7-beb9-4774-b170-6624dc01804c/da14774b-57ad-4e5e-9230-b8d2bae64d79/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sen-cotton-tears-into-bidens-radical-immigration-agenda-what-youd-expect-from-the-party-of-open-borders.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cotton-tears-into-bidens-radical-immigration-agenda-what-youd-expect-from-the-party-of-open-borders.amp",
-      "publishedDateTime": "2021-01-19T17:54:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-graham-warns-border-will-be-overrun-unless-biden-sends-clear-and-unmistakable-signal-to-migrant-caravans.md",
-      "title": "Graham warns border will be 'overrun’ unless Biden sends ‘clear and unmistakable signal’ to migrant caravans",
-      "excerpt": "Sen. Lindsey Graham, R-S.C., on Tuesday warned that the U.S. border will be “overrun” unless the incoming Biden administration sends a message to the incoming migrant caravans that they support President Donald Trump’s policies on immigration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/thbVdISPF30/graham-warns-border-overrun-unless-biden-sends-signal-migrant-caravans",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/thbVdISPF30/graham-warns-border-overrun-unless-biden-sends-signal-migrant-caravans",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020009128608.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/graham-warns-border-overrun-unless-biden-sends-signal-migrant-caravans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-warns-border-overrun-unless-biden-sends-signal-migrant-caravans.amp",
-      "publishedDateTime": "2021-01-19T16:58:10-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

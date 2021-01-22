@@ -1103,6 +1103,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Denis McDonough: What to know about Biden's VA secretary pick"
+    excerpt: "President Biden entered office Wednesday without any cabinet members by his side, as they await confirmation hearings in the U.S. Senate."
+    publishedDateTime: 2021-01-22T03:46:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gBrvuQ0N6-M/denis-mcdonough-what-to-know-about-bidens-va-secretary-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/denis-mcdonough-what-to-know-about-bidens-va-secretary-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/denis-mcdonough-what-to-know-about-bidens-va-secretary-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad6f975f-2399-413d-a8ab-145d8c6f7a59/a3cbad7f-2295-4d5f-8b56-7ffdfa70f118/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Miguel Cardona: What to know about Biden's education secretary pick"
+    excerpt: "President Biden has tapped Miguel Cardona to turn things around at the Education Department, and he'll soon have the chance to make his case for the job before the Senate during a confirmation hearing. "
+    publishedDateTime: 2021-01-22T03:56:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pqp-qBAqPlc/miguel-cardona-what-to-know-bidens-education-secretary-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/miguel-cardona-what-to-know-bidens-education-secretary-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/miguel-cardona-what-to-know-bidens-education-secretary-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Miguel-Cardona-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump must be barred from post-presidency intelligence briefings: Schiff"
     excerpt: "House Intelligence Committee Chairman Rep. Adam Schiff said Sunday that President Trump should be barred from receiving intelligence briefings after he leaves office, an opportunity traditionally extended to former presidents."
     publishedDateTime: 2021-01-17T18:36:03Z

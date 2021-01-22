@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-01-18-impeachment-needed-to-bar-trump-from-running-for-federal-office-rep-joaquin-castro.md",
-      "title": "Impeachment needed to bar Trump from running for federal office: Rep. Joaquin Castro",
-      "excerpt": "House impeachment managers are prepared to chase every single Senate vote in an attempt to convict President Donald Trump for inciting insurrection, Rep. Joaquin Castro, D-Texas, said on ABC's \"This Week\" Sunday.",
+      "path": "_news/2021-01-18-paleologos-on-the-poll-inauguration-day-isnt-the-end-of-the-trump-era-its-just-the-beginning.md",
+      "title": "Paleologos on the Poll: Inauguration Day isn't the end of the Trump era. It's just the beginning.",
+      "excerpt": "David Paleologos, director of the Suffolk University Political Research Center, says Trump would be the favorite in the 2024 GOP primary.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965",
-      "originalUrl": "https://abcnews.go.com/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965",
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/17/paleologos-poll-trump-era-just-getting-started/4196345001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/17/paleologos-poll-trump-era-just-getting-started/4196345001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 112,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/Joacquin-Castro-Peter-Meijer-split-01-gty-llr-210116_1610823952116_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://www.gannett-cdn.com/presto/2021/01/17/USAT/70c724f1-c6e6-4639-a168-b6684566f5d1-AP_Capitol_Breach_Rally_Organizers.jpg?auto=webp&crop=4519,2542,x562,y162&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965",
-      "publishedDateTime": "2021-01-17T08:03:00-08:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4196345001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4196345001",
+      "publishedDateTime": "2021-01-17T11:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -166,7 +166,7 @@
       "originalUrl": "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1988,
+      "heat": 2008,
       "tags": null,
       "images": [
         {
@@ -298,58 +298,6 @@
         "name": "New York Daily News",
         "domain": "nydailynews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-harold-bornstein-trumps-former-doctor-who-said-hed-be-the-healthiest-president-of-all-time-dies-at-73.md",
-      "title": "Harold Bornstein, Trump's former doctor who said he'd be the 'healthiest' president of all time, dies at 73",
-      "excerpt": "Bornstein rose to global fame after he declared Trump \"the healthiest individual ever elected to the presidency.\" But Trump still cast him aside.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1",
-      "originalUrl": "https://www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60005bc6a8de7700187d3d2d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1?amp",
-      "publishedDateTime": "2021-01-16T11:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -532,7 +480,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 465,
+      "heat": 545,
       "tags": null,
       "images": [
         {
@@ -1413,7 +1361,7 @@
       "originalUrl": "https://www.theguardian.com/politics/audio/2021/jan/14/trump-impeached-again-now-what-politics-weekly-extra-podcast",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1539,6 +1487,58 @@
         "name": "al.com",
         "domain": "al.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-siege-was-in-the-name-of-the-donald-trump-rep-cicilline.md",
+      "title": "Siege was 'in the name of the Donald Trump': Rep. Cicilline",
+      "excerpt": "Rep. Cicilline. Posted . Democratic Congressman David Cicilline railed against President Donald Trump on Wednesday ahead of T",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idOVDV1MRBZ",
+      "originalUrl": "https://www.reuters.com/video/watch/idOVDV1MRBZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210113&i=OVDV1MRBZ&r=OVDV1MRBZ&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

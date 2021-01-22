@@ -583,6 +583,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Swearing-in of Vice President Kamala Harris inspires girls nationwide"
+    excerpt: "Parents around the country posted photos of their daughters watching Vice President Kamala Harris being sworn in as the first woman vice president."
+    publishedDateTime: 2021-01-21T23:54:00Z
+    webUrl: "https://abcnews.go.com/GMA/Family/swearing-vice-president-kamala-harris-inspires-girls-nationwide/story?id=75403098"
+    ampWebUrl: "https://goodmorningamerica.com/amp/family/story/swearing-vice-president-kamala-harris-inspires-girls-nationwide-75403098"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/family/story/swearing-vice-president-kamala-harris-inspires-girls-nationwide-75403098"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/GMA/children-pose-as-president-joe-biden-vice-president-kamala-harris-01-ht-llr-210121_1611251289996_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump's Inauguration Boycott Welcomed by Republicans and Democrats"
     excerpt: "The president announced he will not attend ahead of his ban from Twitter, as a backlash grows against him over the recent events at the Capitol."
     publishedDateTime: 2021-01-11T15:29:00Z

@@ -29,157 +29,140 @@ images:
     isCached: true
 
 related:
-  - title: "Majority of Americans Think History Will View Trump as 'Failed' President"
-    excerpt: "Evaluating a president's time in office often requires a rearview mirror. While history has yet to weigh in on President Donald Trump's time in office, Americans don't see President Donald Trump receiving positive remarks down the road. After a contentious ..."
-    publishedDateTime: 2021-01-18T15:48:00Z
-    webUrl: "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394"
-    ampWebUrl: "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1"
+  - title: "Trump hires South Carolina lawyer Bowers for impeachment defense"
+    excerpt: "Former President Donald Trump has hired South Carolina-based lawyer Butch Bowers to represent him in his Senate impeachment trial over a charge that he incited insurrection, a source familiar with the matter said on Thursday."
+    publishedDateTime: 2021-01-22T04:19:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-bowers-idUKKBN29Q341"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29Q341"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29Q341"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548661969&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L06Z"
+        width: 436
+        height: 545
+        isCached: true
+  - title: "House Speaker Nancy Pelosi says she'll send Trump impeachment to Senate 'soon'"
+    excerpt: "House Speaker Nancy Pelosi said Thursday she would \"soon\" send the Senate the impeachment of President Donald Trump, setting the stage for a trial."
+    publishedDateTime: 2021-01-21T18:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/01/21/nancy-pelosi-send-trump-impeachment-senate-soon-trial/6656415002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6656415002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6656415002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/71646ee1-4545-45d6-bc02-6c60f77778ab-pelosi_1.jpg?auto=webp&crop=5525,3108,x0,y280&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Impeachment needed to bar Trump from running for federal office: Rep. Joaquin Castro"
+    excerpt: "House impeachment managers are prepared to chase every single Senate vote in an attempt to convict President Donald Trump for inciting insurrection, Rep. Joaquin Castro, D-Texas, said on ABC's \"This Week\" Sunday."
+    publishedDateTime: 2021-01-17T16:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Joacquin-Castro-Peter-Meijer-split-01-gty-llr-210116_1610823952116_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Democrats Hail Jamie Raskin for Leading Donald Trump Impeachment After Loss of Son Tommy"
+    excerpt: "Rep. Jamie Raskin (D-MD) has been praised by his Democratic colleagues for his role leading the impeachment push against President Donald Trump following the death of his son in December. Raskin, whose son Thomas died aged 25 in December, took up the role ..."
+    publishedDateTime: 2021-01-18T12:53:00Z
+    webUrl: "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336"
+    ampWebUrl: "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 124
+    quality: 116
     images:
-      - url: "https://d.newsweek.com/en/full/1710407/trump-history-americans-failed-president.jpg"
+      - url: "https://d.newsweek.com/en/full/1710325/jamie-raskin-madeleine-dean-capitol.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Exclusive: As Trump leaves office, 50% of Americans see him as a 'failed' president"
-    excerpt: "Trump hasn't succeeded in overturning the election results but he has persuaded a third of Americans that Biden wasn't legitimately elected"
-    publishedDateTime: 2020-12-24T09:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/24/donald-trump-failed-president-50-usa-today-poll-say/3926190001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3926190001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3926190001"
+  - title: "U.S. House Speaker Pelosi says seeks clarity on Senate readiness for Trump impeachment trial"
+    excerpt: "U.S. House of Representatives Speaker Nancy Pelosi said on Thursday she will consult with fellow Democrats in coming days about the Senate's readiness to begin an impeachment trial of former President Donald Trump for his alleged role in the Jan."
+    publishedDateTime: 2021-01-21T22:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN29Q2C3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q2C3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q2C3"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
+      name: Reuters
+      domain: reuters.com
+    quality: 114
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e0873822-4b69-42e9-b96d-431644856090-AP_APTOPIX_Election_2020_Biden.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548626984&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1EA"
+        width: 855
+        height: 545
         isCached: true
-  - title: "Vast majority of Americans hold Trump responsible for Capitol siege, new Insider poll shows"
-    excerpt: "Americans overwhelmingly say that President Donald Trump is responsible on some level for the Capitol siege, according to a new Insider poll. 76% said Trump bears a \"great deal\" o"
-    publishedDateTime: 2021-01-17T13:59:00Z
-    webUrl: "https://www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1?amp"
+  - title: "Harold Bornstein, Trump's former doctor who said he'd be the 'healthiest' president of all time, dies at 73"
+    excerpt: "Bornstein rose to global fame after he declared Trump \"the healthiest individual ever elected to the presidency.\" But Trump still cast him aside."
+    publishedDateTime: 2021-01-16T19:10:00Z
+    webUrl: "https://www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 115
+    quality: 107
     images:
-      - url: "https://i.insider.com/6000b0e1a81ea100188db505?width=1200&format=jpeg"
+      - url: "https://i.insider.com/60005bc6a8de7700187d3d2d?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "USA TODAY/Suffolk Poll: Americans, braced for violence at the inauguration, see democracy damaged after Trump"
-    excerpt: "A new USA TODAY/Suffolk Poll finds President Trump's standing has eroded since the U.S. Capitol riot. A majority predict violence at Joe Biden's inauguration."
-    publishedDateTime: 2021-01-17T14:43:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/17/trump-hurt-democracy-violence-feared-inauguration-poll/4165750001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4165750001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4165750001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/14/USAT/58d3db56-ae52-4500-9485-aa58d36fc8f2-USATSI_15428849.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Analysis - Trump's legacy: A more divided America, a more unsettled world"
-    excerpt: "Closing out his presidency exactly four years later, Trump leaves behind an even more polarized America, where thousands are dying daily from the COVID-19 pandemic, the economy is badly damaged and political violence has surged."
-    publishedDateTime: 2021-01-19T12:15:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-legacy/analysis-trumps-legacy-a-more-divided-america-a-more-unsettled-world-idUSL1N2JS0KO"
+  - title: "Law enforcement officials brace for pro-Trump protests at state capitals"
+    excerpt: "Members of the State police arrive at the Michigan state Capitol in Lansing, Michigan. REUTERS/Rebecca Cook"
+    publishedDateTime: 2021-01-18T00:00:00Z
+    webUrl: "https://www.reuters.com/news/picture/law-enforcement-officials-brace-for-pro-idUSRTX8N0Y3"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 104
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297890&r=LYNXMPEH0I0O7&w=800"
-        width: 800
-        height: 547
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210117&t=2&i=1548135793&w=&fh=545&fw=810&ll=&pl=&sq=&r=2021-01-17T234213Z_38118_MRPRC2W9L9NEB41_RTRMADP_0_USA-TRUMP-PROTESTS"
+        width: 810
+        height: 540
         isCached: true
-  - title: "Analysis - Trump's legacy: A more divided America, a more unsettled world"
-    excerpt: "Closing out his presidency exactly four years later, Trump leaves behind an even more polarized America, where thousands are dying daily from the COVID-19 pandemic, the economy is badly damaged and political violence has surged."
-    publishedDateTime: 2021-01-19T16:35:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-legacy-analysis/analysis-trumps-legacy-a-more-divided-america-a-more-unsettled-world-idUSKBN29O15W?post"
+  - title: "Trump impeachment: after term is over, is there precedent? You asked, we answered."
+    excerpt: "Trump impeachment: is impeachment after term is over a possibility? What's the precedent? Your impeachment questions, answered on States of America."
+    publishedDateTime: 2021-01-16T06:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/statesofamerica/2021/01/15/trump-impeachment-after-term-over-precedent/4179295001/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297890&r=LYNXMPEH0I0O7&w=800"
-        width: 800
-        height: 547
-        isCached: true
-  - title: "Trump laid out a vision for America in his inaugural address 4 years ago. He has come nowhere near realizing it."
-    excerpt: "President Trump will leave office with more Americans out of work than when he started, and with the US's international reputation damaged."
-    publishedDateTime: 2021-01-19T22:44:00Z
-    webUrl: "https://www.businessinsider.com/trump-inauguration-address-vision-not-realized-not-aged-well-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trump-inauguration-address-vision-not-realized-not-aged-well-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-inauguration-address-vision-not-realized-not-aged-well-2021-1?amp"
+      name: USA Today
+      domain: usatoday.com
+    quality: 79
+  - title: "Trump taps Huntsville lawyer for international agriculture board"
+    excerpt: "In one of his final acts in office, President Donald Trump has appointed Huntsville lawyer Mark McDaniel to a prominent international agricultural food board. U.S. Rep. Mo Brooks announced the appointment Monday of McDaniel The board,"
+    publishedDateTime: 2021-01-19T14:58:00Z
+    webUrl: "https://www.al.com/news/2021/01/trump-taps-huntsville-lawyer-for-international-agriculture-board.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/trump-taps-huntsville-lawyer-for-international-agriculture-board.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-taps-huntsville-lawyer-for-international-agriculture-board.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/6006a71ce3d62500185fd109?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Most Americans Want Trump Gone From Politics, Poll Says"
-    excerpt: "A slim majority of Americans want to see Trump charged with the incitement of the mob that attacked the Capitol Building, which would bar him from holding public office if convict"
-    publishedDateTime: 2021-01-15T15:21:00Z
-    webUrl: "https://www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261"
-    ampWebUrl: "https://www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: al.com
+      domain: al.com
     quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/us-president-donald-trump-owns-the-unfortunate-distinction.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "EU Chiefs Express Relief As 'Friend' Replaces Trump"
-    excerpt: "The European Union's top officials expressed relief on Wednesday that they would again have a friend in the White House as Joe Biden replaces Donald Trump. Charles Michel, president of the European Council,"
-    publishedDateTime: 2021-01-20T09:09:00Z
-    webUrl: "https://www.ibtimes.com/eu-chiefs-express-relief-friend-replaces-trump-3126426"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/von-der-leyen-compared-the-us-riot-to-AFP_8Z66KB.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "From the border to the federal bench to raging political divisions: How Donald Trump's tenure has changed America"
-    excerpt: "No matter what Trump does now, his past four years have left a mark on immigration, the federal bench and the nation's raging political divisions."
-    publishedDateTime: 2021-01-18T23:23:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2021/01/18/heres-how-trumps-tumultuous-four-years-president-changed-america/4165708001/"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 34
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d9fcae70-ecb3-4fa7-ba54-bd90bcd378e0-AP21012563654909.jpg?crop=5999,3374,x1,y626&width=3200&height=1680&fit=bounds"
-        width: 2987
-        height: 1680
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/G52E5G6DYZEQFH352DCX7OSTUM.jpg"
+        width: 835
+        height: 724
         isCached: true
 
 secured: "KS6uqoAFuNw2becNrbeI9BvWNzVNmoNb1wCtnwH/O3TySf9JzUah6B9ZtOQllPHfzuY7cKj64VnpkGc5vdls7GSLCH74SzHmZiaDQhtwTsfgcT1+9WOfXjJalpNp53jNlCgtaNYs4XAMHOf455Jr21NiK4wZtPh1MCb8QOcDTLcT/gWfxpR/oVyzOL8Sqp98ke6aDsbaZ0meKM7f4+EtLjvI++EYDfzuqC9WZKdCGatKn2mxzJZktPhUcTnJrhxXYdV50qyyQI8f1vGs72BIKttMu4bKQQ+OBCZlWWQcdhW13M7gMIxaLai6faBbUoz17sEDAtin9/VfEX2M/t7rH7J7hrwS6lj+e8e1oxBnSuXdTPkPPVV8VyClYNJInH/RNJKZRJzX8J66VXCYzlnU6+0wErKL9h5RsftyESkdLUP/K3DXDPrXnj+qM1dCzvGXPCXs7IRr0UNTwBXkEuDRXJB+fJsJDhGUlzby27v9ycSg1EFcTVk1pBjLDbCsLx9L14ysycIdRKdCLok7hxq0LA==;3lzRSHSipJnGvoE5tJm0WQ=="

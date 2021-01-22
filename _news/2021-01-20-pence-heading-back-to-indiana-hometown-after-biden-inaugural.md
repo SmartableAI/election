@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/pence-heading-back-to-indian
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 3490
+heat: 3510
 published: true
 
 provider:
@@ -943,6 +943,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "U.S. Congress moves toward approving Biden's defense secretary pick"
+    excerpt: "The U.S. House of Representatives and Senate backed a waiver on Thursday that paved the way for President Joe Biden's nominee, Lloyd Austin, to lead the Pentagon even though he has not cleared the required seven-year waiting period since leaving the military."
+    publishedDateTime: 2021-01-22T04:23:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-pentagon-waiver-idUKKBN29Q34B?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29Q34B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29Q34B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548611644&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1EX"
+        width: 817
+        height: 545
         isCached: true
   - title: "World leaders cheer US return to climate fight under Biden"
     excerpt: "World leaders have breathed an audible sigh of relief that the United States under President Joe Biden is rejoining the global effort to curb climate change, a cause that his predecessor had shunned"

@@ -959,6 +959,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "U.S. Congress moves toward approving Biden's defense secretary pick"
+    excerpt: "The U.S. House of Representatives and Senate backed a waiver on Thursday that paved the way for President Joe Biden's nominee, Lloyd Austin, to lead the Pentagon even though he has not cleared the required seven-year waiting period since leaving the military."
+    publishedDateTime: 2021-01-22T04:23:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-pentagon-waiver-idUKKBN29Q34B?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29Q34B"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29Q34B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548611644&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1EX"
+        width: 817
+        height: 545
+        isCached: true
   - title: "World leaders cheer US return to climate fight under Biden"
     excerpt: "World leaders have breathed an audible sigh of relief that the United States under President Joe Biden is rejoining the global effort to curb climate change, a cause that his predecessor had shunned"
     publishedDateTime: 2021-01-22T00:11:00Z
@@ -2556,6 +2572,6 @@ related:
         height: 800
         isCached: true
 
-secured: "vmf887vxLj+ZTFeY1sd35Q85kiEfx8MTJyKSa1vmFYBOXnSKjhFKYeWYj7KR91i5VUjP6ICkgJaj0uxpGmysWsNtczqnIEuv8AZXxQ0QXDxwwhZR6mSIdXBkv0XK9yRC2+FFPucjGnx8yvVFieB38NNPxSn1LZLD+GiY+Cqpfofa4vzzRsI8m/Xj5ZhxBFqMvltKRIL3XIXLa/VTZ6tLRa4lfzCYkhBdPDtQOervCW5D1L74xV4+4+jh48iiOvnQE7JwSdi/r9cGkwsqiFYRSj8goMAh4kFYvL+7PpwOfRfpw4l1tmsy3N7hUbMVeRp93RQ3n/LUR8XVxNdQFwqUnjIfh5DUqk3MEvW5oKSqu/c=;BmFbItOj7hC1vo6XG6suAw=="
+secured: "hKHzKHRd1W9bJevCMwuOyf3rIG/3PPJMrrtoWZ9lPoX7Edh3v4cBmICn8CJfw08zRfMGtLZoJEbKAlV/3h3+EmERS+bJGmxDGzyNPnCmhKm8fxZQUR7+b1fvobOh0ad0BUGLM5FINSdLNruYpDarxBNpTyq/3m6LLiAieVSYJrg2euGSNkSgsVQTnsogOGPbAwoK7JXlsr7BsUukRWsftKnAPFnVyQOGstQdsKxkxU03T7ztLg887SRoLUUPGJUm5RwU/+EOUjK9Qdem5Y5rlrG6YqzKd5+vCeEn8QYgSKs8yxlnnYGm7XSEV9HHPS0DybFf3FDaqDS93E5c68GJSXESFY5Ygl8MriPNRPzyS4P+n2Hn9INnNolxvn4kOUq7GzvkKpvSN1HFN5rL9yi9ZPuqxpDnbal8ccIlwAJ7aIsvj+yqcZe1MSCEUiSIG9jpgv5iLLzBEcyhZTs3p5MusgBsQAptR1d4WbV0I4Y3ve+btgfCSKWbfLguABkcagAus2BEfNsnwwM/czubnngXvg==;CaNoA3GoBdcL69bxfc0vBA=="
 ---
 

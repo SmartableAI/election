@@ -1,0 +1,170 @@
+---
+category: news
+title: "Trump hires South Carolina lawyer Bowers for impeachment defense"
+excerpt: "Former President Donald Trump has hired South Carolina-based lawyer Butch Bowers to represent him in his Senate impeachment trial over a charge that he incited insurrection, a source familiar with the matter said on Thursday."
+publishedDateTime: 2021-01-22T04:19:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-bowers-idUKKBN29Q341"
+webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-bowers-idUKKBN29Q341"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29Q341"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29Q341"
+type: article
+quality: 125
+heat: 305
+published: true
+
+provider:
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548661969&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L06Z"
+    width: 436
+    height: 545
+    isCached: true
+
+related:
+  - title: "House Speaker Nancy Pelosi says she'll send Trump impeachment to Senate 'soon'"
+    excerpt: "House Speaker Nancy Pelosi said Thursday she would \"soon\" send the Senate the impeachment of President Donald Trump, setting the stage for a trial."
+    publishedDateTime: 2021-01-21T18:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/01/21/nancy-pelosi-send-trump-impeachment-senate-soon-trial/6656415002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6656415002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6656415002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/71646ee1-4545-45d6-bc02-6c60f77778ab-pelosi_1.jpg?auto=webp&crop=5525,3108,x0,y280&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Impeachment needed to bar Trump from running for federal office: Rep. Joaquin Castro"
+    excerpt: "House impeachment managers are prepared to chase every single Senate vote in an attempt to convict President Donald Trump for inciting insurrection, Rep. Joaquin Castro, D-Texas, said on ABC's \"This Week\" Sunday."
+    publishedDateTime: 2021-01-17T16:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/impeachment-needed-bar-trump-running-federal-office-rep/story?id=75296965"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Joacquin-Castro-Peter-Meijer-split-01-gty-llr-210116_1610823952116_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Democrats Hail Jamie Raskin for Leading Donald Trump Impeachment After Loss of Son Tommy"
+    excerpt: "Rep. Jamie Raskin (D-MD) has been praised by his Democratic colleagues for his role leading the impeachment push against President Donald Trump following the death of his son in December. Raskin, whose son Thomas died aged 25 in December, took up the role ..."
+    publishedDateTime: 2021-01-18T12:53:00Z
+    webUrl: "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336"
+    ampWebUrl: "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1710325/jamie-raskin-madeleine-dean-capitol.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "U.S. House Speaker Pelosi says seeks clarity on Senate readiness for Trump impeachment trial"
+    excerpt: "U.S. House of Representatives Speaker Nancy Pelosi said on Thursday she will consult with fellow Democrats in coming days about the Senate's readiness to begin an impeachment trial of former President Donald Trump for his alleged role in the Jan."
+    publishedDateTime: 2021-01-21T22:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN29Q2C3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q2C3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q2C3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 114
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548626984&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1EA"
+        width: 855
+        height: 545
+        isCached: true
+  - title: "Harold Bornstein, Trump's former doctor who said he'd be the 'healthiest' president of all time, dies at 73"
+    excerpt: "Bornstein rose to global fame after he declared Trump \"the healthiest individual ever elected to the presidency.\" But Trump still cast him aside."
+    publishedDateTime: 2021-01-16T19:10:00Z
+    webUrl: "https://www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/60005bc6a8de7700187d3d2d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Law enforcement officials brace for pro-Trump protests at state capitals"
+    excerpt: "Members of the State police arrive at the Michigan state Capitol in Lansing, Michigan. REUTERS/Rebecca Cook"
+    publishedDateTime: 2021-01-18T00:00:00Z
+    webUrl: "https://www.reuters.com/news/picture/law-enforcement-officials-brace-for-pro-idUSRTX8N0Y3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210117&t=2&i=1548135793&w=&fh=545&fw=810&ll=&pl=&sq=&r=2021-01-17T234213Z_38118_MRPRC2W9L9NEB41_RTRMADP_0_USA-TRUMP-PROTESTS"
+        width: 810
+        height: 540
+        isCached: true
+  - title: "This day in history, January 16: The impeachment trial of President Donald Trump opens in the Senate"
+    excerpt: "Almanacs are full of lists of global and national historic events. But “This Day in History” feature invites you to not just peruse a list, but to take a trip back in time to see how a significant event originally was reported in the Chicago Tribune."
+    publishedDateTime: 2021-01-16T13:10:00Z
+    webUrl: "https://www.chicagotribune.com/history/ct-sns-today-history-almanac-january-16-20210116-bj5ofx7u4bai7kee7utmmiswvq-story.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 90
+    images:
+      - url: "https://www.chicagotribune.com/resizer/RCbFb8gR4Z4Tx8yS-kfISBHX_Qw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4HA5W4BHEBEBTMQQHY5ZH4DI64.jpg"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Trump impeachment: after term is over, is there precedent? You asked, we answered."
+    excerpt: "Trump impeachment: is impeachment after term is over a possibility? What's the precedent? Your impeachment questions, answered on States of America."
+    publishedDateTime: 2021-01-16T06:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/statesofamerica/2021/01/15/trump-impeachment-after-term-over-precedent/4179295001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 79
+  - title: "Trump taps Huntsville lawyer for international agriculture board"
+    excerpt: "In one of his final acts in office, President Donald Trump has appointed Huntsville lawyer Mark McDaniel to a prominent international agricultural food board. U.S. Rep. Mo Brooks announced the appointment Monday of McDaniel The board,"
+    publishedDateTime: 2021-01-19T14:58:00Z
+    webUrl: "https://www.al.com/news/2021/01/trump-taps-huntsville-lawyer-for-international-agriculture-board.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/trump-taps-huntsville-lawyer-for-international-agriculture-board.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-taps-huntsville-lawyer-for-international-agriculture-board.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/G52E5G6DYZEQFH352DCX7OSTUM.jpg"
+        width: 835
+        height: 724
+        isCached: true
+
+secured: "GNp74iHZFq4+i/TnUdBrN22fumv5Uu+6tHeNgcrhLeTgsYeG8DfTmqCd2LzWsZeNYK90oxnC6fB7x5bKIcIboyI8L0H/8glZbO4GVd5I71ikTBet1K1z+6JHtHklzOuK5yd2qjOMBOTdR2tWbHRQpjTNJsiZld8N8xuQLjIRPUNt3hVGiTVhvUymjtu78eJAl9WKHkbbHHTuJMX8LG5k+siJVOdGqI0VI8bvyWuB/pGi5Kn7+rvo1u0RZZ/8xBKRjAEWMG3yr7tGC6R3WpspihOqQ2XQGSlFo0QjiwvZzTNuuI+xwSqnhGsJ5c7QSjPbQNQZFMdd/UfThMeH/NYA7bkzOeJ/TEK7XxSBptqqjog=;oPj0/YEWZ6MxKLUB0ktvGQ=="
+---
+

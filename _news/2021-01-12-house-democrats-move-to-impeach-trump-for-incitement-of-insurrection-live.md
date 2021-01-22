@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donal
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/11/joe-biden-donald-trump-impeachment-capitol-mike-pence-nancy-pelosi-coronavirus-covid-live-updates"
 type: article
 quality: 122
-heat: 242
+heat: 222
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/cb3085d44c438f92e1d27c124206000f7a1ef803/0_234_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84cd92c9ac7d53daa4a5f23201ca314d"
         width: 600
         height: 360
-        isCached: true
-  - title: "Democrats Hail Jamie Raskin for Leading Donald Trump Impeachment After Loss of Son Tommy"
-    excerpt: "Rep. Jamie Raskin (D-MD) has been praised by his Democratic colleagues for his role leading the impeachment push against President Donald Trump following the death of his son in December. Raskin, whose son Thomas died aged 25 in December, took up the role ..."
-    publishedDateTime: 2021-01-18T12:53:00Z
-    webUrl: "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336"
-    ampWebUrl: "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
-    images:
-      - url: "https://d.newsweek.com/en/full/1710325/jamie-raskin-madeleine-dean-capitol.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "House Democrats unveil ‘incitement of insurrection’ impeachment charge against Trump, but pressure on Pence to oust president"
     excerpt: "As the House prepares for impeachment, President Donald Trump faces a single charge — “incitement of insurrection” — over the deadly riot at the U.S. Capitol."

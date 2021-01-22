@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-22-new-york-times-contributor-loses-think-tank-job-over-tweet-suggesting-biden-should-lynch-mike-pence.md",
-      "title": "New York Times contributor loses think tank job over tweet suggesting Biden should 'lynch Mike Pence'",
-      "excerpt": "A contributing opinion writer for The New York Times was fired from his think tank job Thursday over a tweet that jokingly suggested former Vice President Mike Pence be lynched in order to unify the country.",
+      "path": "_news/2021-01-22-new-york-times-contributor-apologizes-for-tweet-suggesting-biden-should-lynch-mike-pence.md",
+      "title": "New York Times contributor apologizes for tweet suggesting Biden should 'lynch Mike Pence'",
+      "excerpt": "A contributing opinion writer for The New York Times is under fire for a tweet that jokingly suggested former Vice President Mike Pence be lynched in order to unify the country.",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/will-wilkinson-lynch-mike-pence-niskanen-center-ny-times",
-      "originalUrl": "https://www.foxnews.com/media/will-wilkinson-lynch-mike-pence-niskanen-center-ny-times",
+      "webUrl": "https://www.foxnews.com/media/new-york-times-will-wilkinson-lynch-mike-pence",
+      "originalUrl": "https://www.foxnews.com/media/new-york-times-will-wilkinson-lynch-mike-pence",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 135,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/will-wilkinson-lynch-mike-pence-niskanen-center-ny-times.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/will-wilkinson-lynch-mike-pence-niskanen-center-ny-times.amp",
-      "publishedDateTime": "2021-01-21T16:41:00-08:00",
+      "ampWebUrl": "https://www.foxnews.com/media/new-york-times-will-wilkinson-lynch-mike-pence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/new-york-times-will-wilkinson-lynch-mike-pence.amp",
+      "publishedDateTime": "2021-01-21T15:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -171,7 +171,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 3385,
+      "heat": 3425,
       "tags": null,
       "images": [
         {
@@ -224,7 +224,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3490,
+      "heat": 3510,
       "tags": null,
       "images": [
         {
@@ -567,7 +567,7 @@
       "originalUrl": "https://www.newsweek.com/proud-boys-intended-kill-mike-pence-nancy-pelosi-fbi-witness-says-1562062",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -671,7 +671,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3758,
+      "heat": 3778,
       "tags": null,
       "images": [
         {
