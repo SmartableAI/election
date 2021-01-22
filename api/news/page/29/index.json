@@ -2,6 +2,58 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-12-12-michelle-goldberg-column-covid-meds-are-scarce-but-not-for-trump-cronies.md",
+      "title": "Michelle Goldberg column: COVID meds are scarce, but not for Trump cronies",
+      "excerpt": "According to a document from the Department of Health and Human Services, a total of 108 doses of Regeneron’s monoclonal antibody cocktail have been allocated to Washington, which had 265 new coronavirus cases on Wednesday alone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-coronavirus-giuliani-regeneron-michelle-goldberg-column-20201211-5mflfstsubf6vbp3673riy6jcu-story.html",
+      "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-coronavirus-giuliani-regeneron-michelle-goldberg-column-20201211-5mflfstsubf6vbp3673riy6jcu-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/9ig9JnhIafT6BnPx8qKep5z10-I=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GXQZRRSPOORM5DIYNUNLIFF6I4.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-coronavirus-giuliani-regeneron-michelle-goldberg-column-20201211-5mflfstsubf6vbp3673riy6jcu-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-coronavirus-giuliani-regeneron-michelle-goldberg-column-20201211-5mflfstsubf6vbp3673riy6jcu-story.html?outputType=amp",
+      "publishedDateTime": "2020-12-11T08:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-11-baker-sends-back-police-reform-bill-clark-presses-biden-on-plastics-rollins-on-us-attorney-buzz.md",
       "title": "BAKER sends back POLICE REFORM bill — CLARK presses BIDEN on plastics — ROLLINS on U.S. ATTORNEY buzz",
       "excerpt": "He's not in office yet, but Rep. Katherine Clark is already calling on President-elect Joe Biden to address the world's \"indisputable plastic pollution crisis.\" Clark penned a letter with Oregon Sen.",
@@ -1306,58 +1358,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-10-biden-has-reportedly-chosen-capitol-hill-staffer-katherine-tai-as-his-us-trade-representative.md",
-      "title": "Biden has reportedly chosen Capitol Hill staffer Katherine Tai as his US trade representative",
-      "excerpt": "If she is picked, the House Ways and Means chief trade lawyer would be the first woman of color to hold the position.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12",
-      "originalUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fb2e9ad1c741f0019aca1d1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-picks-capitol-hill-staffer-as-us-trade-representative-sources-2020-12?amp",
-      "publishedDateTime": "2020-12-10T04:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

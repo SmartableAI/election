@@ -1151,6 +1151,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Biden falsely claims journalists had all said his vaccination goal was impossible to meet"
+    excerpt: "President Joe Biden delivered a factually accurate Thursday speech about the coronavirus pandemic. But then, after he signed a series of executive actions intended to address the crisis, he was asked by a reporter whether the vaccination goal he announced in December -- 100 million doses administered"
+    publishedDateTime: 2021-01-22T14:18:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zSCoiXUZqdM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/fact-check-biden-100-million-doses-vaccine-goal-media/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/fact-check-biden-100-million-doses-vaccine-goal-media/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121151243-01-biden-covid-remarks-0121-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Brayden Harrington, who bonded with Biden over stuttering, to appear in prime-time inauguration special"
     excerpt: "Brayden Harrington, the 13-year-old New Hampshire boy who bonded with President-elect Joe Biden over their shared experience with stuttering, will be part of the prime-time special capping off Biden's inauguration on Wednesday evening.\n    \n"
     publishedDateTime: 2021-01-19T16:06:41Z
@@ -1774,6 +1790,22 @@ related:
       - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/swearing_biden.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Republicans who impeached Trump are already on the chopping block"
+    excerpt: "Candidates, donors and local party officials are organizing against the 10 House Republicans who voted to impeach Trump."
+    publishedDateTime: 2021-01-22T13:51:00Z
+    webUrl: "https://www.politico.com/news/2021/01/21/trump-revenge-gop-impeachment-backers-461189"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/21/trump-revenge-gop-impeachment-backers-461189"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/21/trump-revenge-gop-impeachment-backers-461189"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/72/70/b35a02364b0496cfa572af6661a3/20210121-liz-cheney-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden will halt federal executions, other actions on first day in office"
     excerpt: "The president-elect has a long list of executive actions he plans to take as soon as he's sworn in on Jan. 20."

@@ -605,6 +605,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Kamala Harris to move temporarily to Blair House"
+    excerpt: "Vice President Kamala Harris and her husband, second gentleman Doug Emhoff, will temporarily move to Blair House, which is near the White House, before moving to the vice president's residence at the Naval Observatory,"
+    publishedDateTime: 2021-01-22T13:58:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-blair-house-temporary/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-blair-house-temporary/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-blair-house-temporary/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/21/003a28ee-4279-428f-af8e-ab12c9d7e59d/thumbnail/1200x630/8b259bbdad8330113e338918aef6330a/cbsn-fusion-kamala-harris-makes-history-as-first-woman-of-color-to-serve-as-vice-president-thumbnail-630545-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Swearing-in of Vice President Kamala Harris inspires girls nationwide"
     excerpt: "Parents around the country posted photos of their daughters watching Vice President Kamala Harris being sworn in as the first woman vice president."
     publishedDateTime: 2021-01-21T23:54:00Z
@@ -2843,6 +2859,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "xXPwM0C5pgCAKjlhe9iLrO1iz31RB+tzDhOOunoenYgbpwU0wFLofegHffqYMqQZWuOX22XoSTE3w+ccv4FnXOyvG/670O5B+PhQzvOaOk1/OToa+nfcpEGxSM2Ro/5jEGdC/LwMdLXLw/NJNrpdSLKE9uhBEF+An80GyYtR9F7dtF/xfwlRddRxLDbH2ZY1iCjTPZhD9GXLGV6b0gfTY7/5O3O8PuZ58LjUX5q8Um1NLsiSMRuTsReznO47wRQhNQB4d3ldPD1C+56aaWdvnavU/trltTG1RR/mr5iRz2fX8TabT5UC8xklIQU/z1w4Iu0S2prjqQiRHcmz1kHB9VJpsyozrW19wrxGaXFqYOU=;1nmwQSogmdBK2YSVVrcT2A=="
+secured: "1bIjvtjx/9H29ZxvdHaKIVy+a3Ugfwun1XjowSdoOLr5UAfezK8jVKcw4lm7z4VgKwp0gQLATQI6j8/0N2szlxHMhKwHmFqakaub5MULLK2kpIN6Da/gFBGF60FKzIcxkLukCJHal64YFPTCw2tYl/99XXmPxYF1xHpxvpqh9YcFQfgNdj3VgZr8LciNIG/uIEa54Taw79xrp5x7Z74zA9xjLm6osE6KpGRnrzNVhPilx+j3GQ3veBgI3fBZNUmT7QUtE+jpROoMxC5bUG1V14U/NL7Db27+VIhGcGovLHtR/UCIarFPYqFmyuaFzv6luxRocbqbWMMFMguAs6gtU0yx30N3m+1GnfAiU5qk8UuBi49NB9ArPG0ovzM4aG+NTnQdCyZoNN4Lz8/20PYY79oWmFHsdGkZnQ3gdaLO+KzDwXux+zpmVghwvH4D+eMBmpXtlWvvePp8k7rDX+CVJEkprM27CXly26U3EL/tav7RuESJHvjpuDOjVdeDuhDAEvFoQXQpou9IJ+iAtlcIgg==;oUChVNitnhB5k8YMKb3DLQ=="
 ---
 

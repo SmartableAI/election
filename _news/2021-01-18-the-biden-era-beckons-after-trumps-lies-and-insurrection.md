@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 2690
+heat: 2730
 published: true
 
 provider:
@@ -1135,6 +1135,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Biden falsely claims journalists had all said his vaccination goal was impossible to meet"
+    excerpt: "President Joe Biden delivered a factually accurate Thursday speech about the coronavirus pandemic. But then, after he signed a series of executive actions intended to address the crisis, he was asked by a reporter whether the vaccination goal he announced in December -- 100 million doses administered"
+    publishedDateTime: 2021-01-22T14:18:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zSCoiXUZqdM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/fact-check-biden-100-million-doses-vaccine-goal-media/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/fact-check-biden-100-million-doses-vaccine-goal-media/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121151243-01-biden-covid-remarks-0121-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Supreme Court's liberal justices lash out at unprecedented 'rush' of executions as Trump leaves office"
     excerpt: "As the country focused on the aftermath of riots in the US Capitol and the unprecedented second impeachment of President Donald Trump, the liberal justices of the Supreme Court spent Trump's last full week in office battling his administration's long-term objective to execute 13 federal death row inmates"
     publishedDateTime: 2021-01-16T14:36:03Z
@@ -1774,6 +1790,22 @@ related:
       - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202101/swearing_biden.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Republicans who impeached Trump are already on the chopping block"
+    excerpt: "Candidates, donors and local party officials are organizing against the 10 House Republicans who voted to impeach Trump."
+    publishedDateTime: 2021-01-22T13:51:00Z
+    webUrl: "https://www.politico.com/news/2021/01/21/trump-revenge-gop-impeachment-backers-461189"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/21/trump-revenge-gop-impeachment-backers-461189"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/21/trump-revenge-gop-impeachment-backers-461189"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/72/70/b35a02364b0496cfa572af6661a3/20210121-liz-cheney-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden will halt federal executions, other actions on first day in office"
     excerpt: "The president-elect has a long list of executive actions he plans to take as soon as he's sworn in on Jan. 20."

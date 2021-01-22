@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "William Burns: What to know about Biden's CIA director pick"
+    excerpt: "Burns has worked with presidents from both parties and has held a number of diplomatic roles prior to his nomination."
+    publishedDateTime: 2021-01-22T14:26:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pgUe7AyMCQg/william-burns-what-to-know-about-bidens-cia-director-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/william-burns-what-to-know-about-bidens-cia-director-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/william-burns-what-to-know-about-bidens-cia-director-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/bb567210-William-Burns.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden just announced his stimulus plan — and AOC already has a problem with it"
     excerpt: "Rep. Alexandria Ocasio-Cortez, D-N.Y., is criticizing President-elect Biden's new coronavirus relief, arguing that it doesn't go far enough to help people in need during the pandemic."
     publishedDateTime: 2021-01-15T02:16:23Z

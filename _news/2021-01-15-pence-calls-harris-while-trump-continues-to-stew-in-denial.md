@@ -1544,9 +1544,9 @@ related:
         height: 550
         isCached: true
   - title: "Kamala Harris Swears In New Democratic Senators"
-    excerpt: "Vice President Kamala Harris swore in three new senators Wednesday: Jon Ossoff and the Rev. Raphael Warnock of Georgia, and Alex Padilla of California. Democrats now have narrow control of the Senate."
-    publishedDateTime: 2021-01-20T23:06:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007562266/harris-swears-in-ossoff-warnock-padilla.html"
+    excerpt: "Vice President Kamala Harris swore in three new senators Wednesday, Jon Ossoff and the Rev. Raphael Warnock of Georgia, and Alex Padilla of California. Democrats now have narrow control of the Senate."
+    publishedDateTime: 2021-01-20T23:02:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007562266/harris-swears-in-ossoff-warnock-padilla.html?playlistId=video/us-politics"
     type: article
     provider:
       name: New York Times

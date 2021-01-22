@@ -2578,6 +2578,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden Shows How Dems Changed in the Trump Era"
+    excerpt: "Democrats spent much of the last four years debating exactly how they lost to a fairly unpopular and flawed candidate like Donald Trump in 2016 and what changes… Read Full Artic"
+    publishedDateTime: 2021-01-22T13:03:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/22/biden_shows_how_dems_changed_in_the_trump_era_534067.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/53/533110_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Watch Live: Senate Considers Five Biden Nominees"
     excerpt: "The Senate is kicking off a series of high-stakes confirmation hearings Tuesday for President-elect Joe Biden's top cabinet nominees. Lawmakers will question his picks to lead the Departments of State,"
     publishedDateTime: 2021-01-19T15:30:00Z
@@ -2591,6 +2605,20 @@ related:
       - url: "https://assets.realclear.com/images/53/532780.jpg"
         width: 750
         height: 562
+        isCached: true
+  - title: "How Joe Biden Misunderstands Unity"
+    excerpt: "In Biden's speech, St. Augustine's deep warning about misdirected unity in love of the wrong thing becomes the spiritual equivalent of c'mon, man. Read Full Article »"
+    publishedDateTime: 2021-01-22T03:57:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/22/how_joe_biden_misunderstands_unity_534062.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/533115_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Despite 'unity' narrative, Biden and former presidents share bleak view of the country"
     excerpt: "Beneath President Biden’s calls for unity and bipartisanship in his inaugural address lurked a bleak assessment of the country he was preparing to govern."

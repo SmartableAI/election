@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-22-fauci-says-lack-of-candor-from-trump-administration-very-likely-cost-lives.md",
+      "title": "Fauci says lack of candor from Trump administration 'very likely' cost lives",
+      "excerpt": "Dr. Anthony Fauci said Friday that the lack of truthfulness from the Trump administration regarding the Covid-19 pandemic \"very likely\" cost American lives.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/taeDdXHZFJU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/taeDdXHZFJU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210121183810-03-white-house-covid-presser-0121-fauci-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/22/politics/fauci-biden-covid-approach-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/fauci-biden-covid-approach-cnntv/index.html",
+      "publishedDateTime": "2021-01-22T05:27:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-biden-to-sign-orders-that-include-moves-toward-15-minimum-wage-for-federal-workers-and-contractors.md",
       "title": "Biden to sign orders that include moves toward $15 minimum wage for federal workers and contractors",
       "excerpt": "President Joe Biden is expected to sign two more executive orders on Friday -- one focused on raising the minimum wage to $15 for the federal workforce and the other on expanding assistance for Americans in need -- as he continues his swift efforts to overturn his predecessor's policies.\n    \n",
@@ -1311,7 +1367,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2690,
+      "heat": 2730,
       "tags": null,
       "images": [
         {
@@ -1609,63 +1665,6 @@
       "ampWebUrl": "https://www.politico.com/amp/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
       "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/15/attorney-qanon-shaman-trump-pardon-459608",
       "publishedDateTime": "2021-01-16T19:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-trumps-regulators-ok-partnership-that-could-squeeze-air-passengers-in-dc-and-nyc.md",
-      "title": "Trump's regulators OK 'partnership' that could squeeze air passengers in D.C. and NYC",
-      "excerpt": "OK'd on Elaine Chao's final day as transportation secretary — is generating complaints it will harm competition and raise fares.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/01/16/trump-administration-american-airlines-jetblue-459824",
-      "originalUrl": "https://www.politico.com/news/2021/01/16/trump-administration-american-airlines-jetblue-459824",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/68/f6/73732ffa40ed8657bdce24ed7285/20210115-elaine-chao-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-16T06:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Politico",

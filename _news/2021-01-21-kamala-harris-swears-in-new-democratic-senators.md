@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Kamala Harris Swears In New Democratic Senators"
-excerpt: "Vice President Kamala Harris swore in three new senators Wednesday: Jon Ossoff and the Rev. Raphael Warnock of Georgia, and Alex Padilla of California. Democrats now have narrow control of the Senate."
-publishedDateTime: 2021-01-20T23:06:00Z
-originalUrl: "https://www.nytimes.com/video/us/politics/100000007562266/harris-swears-in-ossoff-warnock-padilla.html"
-webUrl: "https://www.nytimes.com/video/us/politics/100000007562266/harris-swears-in-ossoff-warnock-padilla.html"
+excerpt: "Vice President Kamala Harris swore in three new senators Wednesday, Jon Ossoff and the Rev. Raphael Warnock of Georgia, and Alex Padilla of California. Democrats now have narrow control of the Senate."
+publishedDateTime: 2021-01-20T23:02:00Z
+originalUrl: "https://www.nytimes.com/video/us/politics/100000007562266/harris-swears-in-ossoff-warnock-padilla.html?playlistId=video/us-politics"
+webUrl: "https://www.nytimes.com/video/us/politics/100000007562266/harris-swears-in-ossoff-warnock-padilla.html?playlistId=video/us-politics"
 type: article
 quality: 115
 heat: -1
@@ -1598,6 +1598,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "0xuQtJgcO13Xqv4maA+qJigcSnHTtD1LDWzWJDlyLSx/lBJyT31Mr31L18Y+wjCFlaqBP+rvt539Fjyyzvr8QlngAFXT5Pyw59EAHgn9fLyUEhjsDGd1Kb4UR5NuPQHuiEtsqEZYefuk63mAqcOeIr6pzXXTOTZObp1CfOKtHCLrdtso+z5aa6su/eMz942XlPRACLITwMQ0+xnY4ibanV+S66uw9PI7dh0eePXa73pQOAQjqryyIpFBtarI8rvk2QkCHOpDVex86rx41gpByj/jhzD8V9ZK/I5/xaHNptldldnMa6m8sPzyl7CcuAUJGzXiRQkFLF3zNdRg2EOatbULnVU2aBTw/yJ1zxlsX/k=;DioeDFvcY/avpILqVYAwKA=="
+secured: "tdXE4JQ3TeJgwEhjAKmI69gnveIOBZf20RFgUSG1Zm1/H8bbYILi+dn2VP6jl9SuXnODhUI+nS0OWgiWQc8KtRvbySo7sqVKqoc9THMcxNrZ+KF7/KxKEVld1/2UWh9/OCENIs+xTumMmQBlQnn2esj5GM/8HXLH+7H+VSHDTsANyimJeaFeOhUKfLobe149dvTqxrIymGSmrlu6OqS008lBjTNPNFtURrxqmV1oIf3iP7AQPU5J+b2h97DzWTLWJNundO/svpdlf/vdoHHjL5yo3aiE1Mf8l0CTDTEkf6GOOeywRFCdC1tLZye5CO5+HhIugWwuDLpfTgFlpfnfRNJ3PbFDQJ8mEkd+CAt1le0=;UJBRjFhsbv1AGj3V3bvK0A=="
 ---
 

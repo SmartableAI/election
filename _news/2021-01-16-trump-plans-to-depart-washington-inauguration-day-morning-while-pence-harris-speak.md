@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-plans-depart-washington-in
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643"
 type: article
 quality: 158
-heat: 3878
+heat: 3898
 published: true
 
 provider:
@@ -589,6 +589,22 @@ related:
       - url: "https://s.abcnews.com/images/Lifestyle/WireAP_7b5fa8ae6e0f4bdf9a8305a11105f665_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Kamala Harris to move temporarily to Blair House"
+    excerpt: "Vice President Kamala Harris and her husband, second gentleman Doug Emhoff, will temporarily move to Blair House, which is near the White House, before moving to the vice president's residence at the Naval Observatory,"
+    publishedDateTime: 2021-01-22T13:58:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-blair-house-temporary/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-blair-house-temporary/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-blair-house-temporary/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/21/003a28ee-4279-428f-af8e-ab12c9d7e59d/thumbnail/1200x630/8b259bbdad8330113e338918aef6330a/cbsn-fusion-kamala-harris-makes-history-as-first-woman-of-color-to-serve-as-vice-president-thumbnail-630545-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Swearing-in of Vice President Kamala Harris inspires girls nationwide"
     excerpt: "Parents around the country posted photos of their daughters watching Vice President Kamala Harris being sworn in as the first woman vice president."

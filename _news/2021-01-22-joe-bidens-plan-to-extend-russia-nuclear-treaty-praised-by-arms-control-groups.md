@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "As Joe Biden Calls for Unity, AOC Demands Josh Hawley and Ted Cruz Expulsions"
+    excerpt: "The New York representative said the Republicans should be chucked out of the Senate if they failed to resign."
+    publishedDateTime: 2021-01-22T14:23:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-unity-aoc-hawley-cruz-expelled-1563682"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-unity-aoc-hawley-cruz-expelled-1563682?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-unity-aoc-hawley-cruz-expelled-1563682?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1713910/alexandria-ocasio-cortez.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Biden plans early legislation to offer legal status to 11 million immigrants without it"
     excerpt: "During his first days in office, President-elect Joe Biden plans to unveil a legislative proposal that would include a path to citizenship for 11 million immigrants in the U.S. illegally, according to activists in communication with his transition team."
     publishedDateTime: 2021-01-16T09:13:00Z

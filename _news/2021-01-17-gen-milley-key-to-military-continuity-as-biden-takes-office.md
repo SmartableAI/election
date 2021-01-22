@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/gen-milley-key-to-military-c
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548600363&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K17H"
         width: 817
         height: 545
+        isCached: true
+  - title: "As Joe Biden Calls for Unity, AOC Demands Josh Hawley and Ted Cruz Expulsions"
+    excerpt: "The New York representative said the Republicans should be chucked out of the Senate if they failed to resign."
+    publishedDateTime: 2021-01-22T14:23:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-unity-aoc-hawley-cruz-expelled-1563682"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-unity-aoc-hawley-cruz-expelled-1563682?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-unity-aoc-hawley-cruz-expelled-1563682?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1713910/alexandria-ocasio-cortez.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Joe Biden's Plan to Extend Russia Nuclear Treaty Praised by Arms Control Groups"
     excerpt: "\"After years of Trump putting Americans in harm's way by decimating international agreements, we can all breathe a bit easier now that he cannot start a nuclear war within minutes,\" Peace Action senior director for policy and political affairs Paul Kawika Martin told Newsweek."
