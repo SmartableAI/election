@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden White House announces new effort to focus on 'domestic violent extremism'"
+    excerpt: "President Biden requested a “comprehensive threat assessment” on domestic violent extremism from the Office of the Director of National Intelligence on Friday, in coordination with the FBI and the Department of Homeland Security, White House Press Secretary Jen Psaki said."
+    publishedDateTime: 2021-01-22T19:08:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g60KmS19hA0/biden-requests-comprehensive-threat-assessment-on-domestic-violent-extremism"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-requests-comprehensive-threat-assessment-on-domestic-violent-extremism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-requests-comprehensive-threat-assessment-on-domestic-violent-extremism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "yIoZZ6nUIt7u4RGFAv2XfF4vwsIS4GWkFtSQIgHjZN6J+cZ1Kl28GymfEWl+1N3KR7mV+HQlet6/Kdz/e+jdAXpMkmRHaCXRaT5qTHiy/5xMUDlirnsxyGDhhGGy4R5IhptwzHZzTuY2VQFTtqnUYQ3Wt9m62cs6qswxotL8hNHHhwdWbqFJ5tRyrahz4fQa3GFJiJFvMH7+iXWpnC89ZoTrDa9YYshzLvW2ZgqCSpEVGewBcpZ+8+QRzR3GZjyVEnr7bHuEwvtKTpXhWMap+ETd+TXo7DEw0Id8MHJYYMYPbj4WMpDPHLR8facpc72aW72jBiNLxD0Y4yJGTEUnxjbWu5H7s00GBsR6gF/c/0Y=;gPXoy1XrPMUqj4SQzH5dWA=="
 ---

@@ -64,6 +64,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Symone Sanders: What to know about Kamala Harris' chief spokeswoman"
+    excerpt: "Political strategist and social activist Symone Sanders has been named chief spokesperson and senior adviser to Vice President Kamala Harris."
+    publishedDateTime: 2021-01-22T19:05:00Z
+    webUrl: "https://www.foxnews.com/politics/symone-sanders-what-to-know-about-kamala-harris-chief-spokeswoman"
+    ampWebUrl: "https://www.foxnews.com/politics/symone-sanders-what-to-know-about-kamala-harris-chief-spokeswoman.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/symone-sanders-what-to-know-about-kamala-harris-chief-spokeswoman.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59ee44ef-8740-4988-9934-9bbb61161070/88314748-8f6b-4edd-85e4-b8707b5df9e3/1280x720/match/931/524/image.jpg?ve=1&tl=1"
+        width: 931
+        height: 524
+        isCached: true
 
 secured: "cPHfRDft4WqFVkhHBLisxxkv8an9GCcw8k74wT5U4xgZ0E0me3JrUEH5cY/rgrIgdhqI7K+tdij0XItmlFLzogngXrAfeITycWOF1J09xxRQNsB80K20UykTJz3r4xYjUCSjmdmBcVyeUk8qcLv24fZChiqBw+u8QoY2n6jqxjXPvRU6TrC63QsnbMUhECfJH5MYewe7yy8u9iXlQn1JNB8iA0vAFTouN5CftgsYOSaei9IMRnIKailSIeGXDNfGt/Ij25MX7H2kt+vMsrv55H3Cq0RxBABPyAFQTvcq4Wm54fTjgQH0qoA+8NX92yuLbsEj5uK+jFpnoBC2fdH5Mla0KTohWDBnuAde6mswZR0=;cGUMgLNfYSa/v4Kl5hVfIA=="
 ---

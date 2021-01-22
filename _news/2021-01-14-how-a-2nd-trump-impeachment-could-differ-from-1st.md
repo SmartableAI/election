@@ -860,6 +860,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trial Ahead, Trump Turns to Ethics Lawyer for His Defense"
+    excerpt: "COLUMBIA, S.C. (AP) — Butch Bowers is used to defending public officials in ethics cases. But he's never faced anything quite like this. It's up to Bowers, a South Carolina elections and ethics lawyer,"
+    publishedDateTime: 2021-01-22T20:52:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-22/trial-ahead-trump-turns-to-ethics-lawyer-for-his-defense"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-22/trial-ahead-trump-turns-to-ethics-lawyer-for-his-defense?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-22/trial-ahead-trump-turns-to-ethics-lawyer-for-his-defense?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "x6ENog/j3flgzyrkli7aDDOAQsYuGsmGoXxbIrK/5n3O0n8YkttScmm7eDkz9teeV1ZVUqDC+G9scTDBfkPMisF4IoUC1j5Zh3m8OmDR7HyIHiL7I4sZjB8TXJjGlmYhNMbGKmT6CuaS1FTZn8dX6omu3TObpfyASMqsYLHAA1qW1Yp6UMv8pDWJIdwoM3P5N2gzkEs2LpzHm9zYiBLiLH/RSOf6bHey09upf9ekAwy9Gip/gQeQbEcHyz9rroT7/x7Ngr6fbO4jgh/pcDmT9eFKJgyiwABI7Dl4rConLLJuBH3mwKBrKNsbkBiCrBboS1Gdb3X0X+jgNkA8Ldj3/ig5510CTmaLyqhsf1jyHnA=;OGxidjA+Kr9wxnxzD8KtNw=="
 ---

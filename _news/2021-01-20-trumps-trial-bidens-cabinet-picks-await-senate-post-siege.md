@@ -239,6 +239,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Trump economy left Black Americans behind. Here’s how they want Biden to narrow the gaps."
+    excerpt: "Black Americans propelled Biden to the presidency. Now they’re counting on him to deliver on his promise to end systemic racism."
+    publishedDateTime: 2021-01-22T20:41:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/01/22/black-voters-biden-trump-economy/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/01/22/black-voters-biden-trump-economy/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/22/black-voters-biden-trump-economy/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 129
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TEIR3XC4C4I6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden appoints U.S. consumer watchdog veteran as acting director after Trump appointee resigns"
     excerpt: "The White House announced President Joe Biden would appoint Dave Uejio to run the Consumer Financial Protection Bureau (CFPB) on an acting basis after its director, Kathy Kraninger, resigned at the new administration's request."
     publishedDateTime: 2021-01-21T20:46:00Z
@@ -912,6 +928,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTCLIIW43Mu8/v1/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "How This Trump Impeachment Trial Compares With First"
+    excerpt: "The same Senate chamber that was overrun by insurrectionists will become a somber court for Donald Trump’s impeachment trial, with senators sitting silently in judgment as they hear arguments that could make him the first president permanently disqualified from federal office."
+    publishedDateTime: 2021-01-22T20:58:00Z
+    webUrl: "https://www.washingtonpost.com/business/how-this-trump-impeachment-trial-compares-with-first/2021/01/22/806a8642-5cf3-11eb-a849-6f9423a75ffd_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P5TXA6S46MI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Outgoing Trump admin mulls industry-wide biofuel waiver for oil refiners"
     excerpt: "The Trump administration is considering requests from the oil refining industry and its backers for a sweeping nationwide waiver to exempt them from their obligations to blend biofuels, a measure they argue would help them weather the economic impact of the coronavirus"

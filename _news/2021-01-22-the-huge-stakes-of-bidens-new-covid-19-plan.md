@@ -751,6 +751,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Texas attorney general sues Biden administration over deportation pause"
+    excerpt: "Texas Attorney General Ken Paxton on Friday sued the Biden administration over its 100-day deportation pause, citing an 11th-hour agreement between Texas and the Trump administration that required the Department of Homeland Security to consult with the state before making changes.\n    \n"
+    publishedDateTime: 2021-01-22T20:11:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j9rmP-PcSaU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/texas-biden-lawsuit-deportation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/texas-biden-lawsuit-deportation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122150845-ken-paxton-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "As Trump leaves the stage, Republicans grapple with new conspiracy caucus"
     excerpt: "Donald Trump may be leaving the White House in a few days, but the umbrella of conspiracy theories he inspired are only just arriving in Washington.\n    \n"
     publishedDateTime: 2021-01-16T20:34:42Z
@@ -1068,6 +1084,22 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109130853-02-christopher-miller-sept-24-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Psaki announces steps Biden administration will take to combat domestic violent extremism"
+    excerpt: "White House press secretary Jen Psaki on Friday announced a slew of actions the Biden administration will take to combat domestic violent extremism in the wake of the January 6 attack on the US Capitol.\n    \n"
+    publishedDateTime: 2021-01-22T18:57:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vBMmFevj68w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/biden-domestic-violent-extremism/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/biden-domestic-violent-extremism/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120175419-us-capitol-riots-0106-police-clash-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

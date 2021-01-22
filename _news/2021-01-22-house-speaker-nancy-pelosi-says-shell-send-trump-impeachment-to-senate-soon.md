@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "U.S. House to deliver Trump impeachment to Senate on Monday: Schumer"
+    excerpt: "The U.S. House of Representatives will deliver an impeachment measure charging former President Donald Trump with inciting insurrection to the Senate on Monday, starting a trial process that could ban him from holding office again,"
+    publishedDateTime: 2021-01-22T20:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment/u-s-house-to-deliver-trump-impeachment-to-senate-on-monday-schumer-idUSKBN29R1X1"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R1X1"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R1X1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548735958&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L17O"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Impeachment needed to bar Trump from running for federal office: Rep. Joaquin Castro"
     excerpt: "House impeachment managers are prepared to chase every single Senate vote in an attempt to convict President Donald Trump for inciting insurrection, Rep. Joaquin Castro, D-Texas, said on ABC's \"This Week\" Sunday."
     publishedDateTime: 2021-01-17T16:03:00Z

@@ -2657,16 +2657,16 @@ related:
         height: 687
         isCached: true
   - title: "Mike Pence Greets White House Staffers in Washington"
-    excerpt: "U.S. Vice President Mike Pence poses for a group photo with staff members outside the West Wing of the White House in Washington, DC on January 19, 2021. Pool Photo by Yuri Gripas/UPI"
+    excerpt: "U.S. Vice President Mike Pence walks back to his office after greeting staff members outside the West Wing of the White House in Washington, DC on January 19, 2021. Pool Photo by Yuri Gripas/UPI"
     publishedDateTime: 2021-01-19T21:04:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/31056b39c3bed6e8184373d7a3205b2f/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/25bc45373058306b5a157b22e066ef20/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/31056b39c3bed6e8184373d7a3205b2f/PENCE-STAFF.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/25bc45373058306b5a157b22e066ef20/PENCE-STAFF.jpg"
         width: 650
         height: 433
         isCached: true
@@ -2709,6 +2709,20 @@ related:
       name: Boston.com
       domain: boston.com
     quality: 55
+  - title: "Kamala Harris was sworn in on a stack of Bibles — not a clutch purse"
+    excerpt: "On Inauguration Day, Vice President Kamala Harris “put her clutch on top of the Bible so her hand is not touching it.” Vice President Kamala Harris took the oath of office on two Bibles. One belongs to a close family friend,"
+    publishedDateTime: 2021-01-22T20:28:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/jan/22/facebook-posts/kamala-harris-was-sworn-stack-bibles-not-clutch-pu/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 55
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/tom_ruling_pof.png"
+        width: 667
+        height: 596
+        isCached: true
   - title: "Trump Impeachment to Go to Senate Monday, Launching Trial"
     excerpt: "WASHINGTON (AP) — House Speaker Nancy Pelosi plans to send the article of impeachment against Donald Trump to the Senate on Monday, launching the start of the former president's trial on a charge of incitement of insurrection over the deadly Capitol riot."
     publishedDateTime: 2021-01-22T16:36:00Z

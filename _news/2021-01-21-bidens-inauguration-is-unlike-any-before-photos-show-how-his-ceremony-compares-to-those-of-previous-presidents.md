@@ -1976,6 +1976,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden orders stopgap help as aid talks start"
+    excerpt: "President Joe Biden plans executive action providing stopgap relief to millions while Congress considers his $1.9 trillion aid package. \"If we don't act now, we'll be in a much worse place,\" says National Economic Council director Brian Deese."
+    publishedDateTime: 2021-01-22T20:10:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/22/biden-orders-stopgap-help-aid-talks-start/6676011002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d9d5dfa9-1293-47d7-af11-8520b33e7510_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Portland police arrest 8 after rioters damage Democratic Party office, ICE facility following Biden's inauguration"
     excerpt: "At least eight people were arrested in Portland on Wednesday night after rioters damaged both federal and private property, police said."
     publishedDateTime: 2021-01-21T16:27:00Z

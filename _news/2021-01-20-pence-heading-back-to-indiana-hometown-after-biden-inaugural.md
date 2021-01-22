@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/pence-heading-back-to-indian
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 3750
+heat: 3770
 published: true
 
 provider:
@@ -1961,6 +1961,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden orders stopgap help as aid talks start"
+    excerpt: "President Joe Biden plans executive action providing stopgap relief to millions while Congress considers his $1.9 trillion aid package. \"If we don't act now, we'll be in a much worse place,\" says National Economic Council director Brian Deese."
+    publishedDateTime: 2021-01-22T20:10:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/22/biden-orders-stopgap-help-aid-talks-start/6676011002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d9d5dfa9-1293-47d7-af11-8520b33e7510_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden's inauguration is unlike any before. Photos show how his ceremony compares to those of previous presidents."
     excerpt: "Due to COVID-19 and the threat of violence from far-right groups, the inauguration of President-elect Biden is unlike past ceremonies."
     publishedDateTime: 2021-01-20T16:59:00Z

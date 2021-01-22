@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/sotomayor-mispronounces-kamala-harr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sotomayor-mispronounces-kamala-harris-name.amp"
 type: article
 quality: 185
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21008723523422.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Symone Sanders: What to know about Kamala Harris' chief spokeswoman"
+    excerpt: "Political strategist and social activist Symone Sanders has been named chief spokesperson and senior adviser to Vice President Kamala Harris."
+    publishedDateTime: 2021-01-22T19:05:00Z
+    webUrl: "https://www.foxnews.com/politics/symone-sanders-what-to-know-about-kamala-harris-chief-spokeswoman"
+    ampWebUrl: "https://www.foxnews.com/politics/symone-sanders-what-to-know-about-kamala-harris-chief-spokeswoman.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/symone-sanders-what-to-know-about-kamala-harris-chief-spokeswoman.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59ee44ef-8740-4988-9934-9bbb61161070/88314748-8f6b-4edd-85e4-b8707b5df9e3/1280x720/match/931/524/image.jpg?ve=1&tl=1"
+        width: 931
+        height: 524
         isCached: true
 
 secured: "XhGTgP3XvG8N0GEza7hQ96SVWAr+31kDctySNpCiXeisKvrf+jPIr9ewkG2OYyeFh7yiNk+L552K/lnRP/4uP5/kYG4KKzWnUqpO+yZPb0nWdbqY3IWe7XAKexCY/ro/QpZ6Do6CF8lY0asdv6rsQdMnIye4fKManbKo0vH5NytPRZPuxZ09TFVCdUckAj3u6A7gyx8lULW5ln/XfHlI6IVJfw/+H4QgTjKMDGcYDaR0BzhS5GHDt63/+VxqVXP+FCoku432a1Y2z4AMmX0igGgIM0W7un8F774t8axLBTBfrWVGQqjXMRyK2mkMeYvumo3MDyZ7PBJxu9+ZEUvUF+fiQTnC9ygyj0HlHOpP2Ww=;l8TQXMFj6cA/9QYo5O46kw=="
