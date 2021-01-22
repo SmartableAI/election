@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Angel mom slams Biden immigration order as 'spitting on the faces of every legal immigrant'"
+    excerpt: "Agnes Gibboney, whose son Ronald da Silva was shot and killed by an illegal immigrant in 2002, told \"The Ingraham Angle\" Thursday that President Biden's order halting all deportations for the next 100 days is \"spitting on the faces of every legal immigrant in this country.\""
+    publishedDateTime: 2021-01-22T05:28:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6fpVQbWqDIo/angel-mom-slams-biden-immigration-order-as-spitting-on-the-faces-of-every-legal-immigrant"
+    ampWebUrl: "https://www.foxnews.com/politics/angel-mom-slams-biden-immigration-order-as-spitting-on-the-faces-of-every-legal-immigrant.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/angel-mom-slams-biden-immigration-order-as-spitting-on-the-faces-of-every-legal-immigrant.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden immigration bill would put millions of illegal immigrants on 8-year fast-track to citizenship"
     excerpt: "A radical immigration overhaul to be proposed this week by President-elect Joe Biden would include a path to citizenship that could see millions of illegal immigrants become U.S. citizens in just eight years."
     publishedDateTime: 2021-01-19T16:33:37Z

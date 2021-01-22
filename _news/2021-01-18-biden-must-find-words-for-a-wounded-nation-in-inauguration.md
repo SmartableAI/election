@@ -2570,6 +2570,17 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Despite 'unity' narrative, Biden and former presidents share bleak view of the country"
+    excerpt: "Beneath President Biden’s calls for unity and bipartisanship in his inaugural address lurked a bleak assessment of the country he was preparing to govern."
+    publishedDateTime: 2021-01-22T06:42:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/unity-narrative-biden-former-presidents-bleak-view"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/unity-narrative-biden-former-presidents-bleak-view?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/unity-narrative-biden-former-presidents-bleak-view?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 57
   - title: "Biden Could Calm the Right by Curbing Excesses of the Left"
     excerpt: "If he hopes to restore order in a divided nation, President-elect Joe Biden will need to help unruly factions see clearly that the only proper manner of seeking redress of grievances is peacefully. Given the recent tumult,"
     publishedDateTime: 2021-01-19T13:57:00Z

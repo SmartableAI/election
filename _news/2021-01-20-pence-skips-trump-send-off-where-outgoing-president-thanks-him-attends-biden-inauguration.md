@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-trump-sendoff-biden-inaugurat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp"
 type: article
 quality: 205
-heat: 3425
+heat: 3445
 published: true
 
 provider:
@@ -2566,6 +2566,17 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Despite 'unity' narrative, Biden and former presidents share bleak view of the country"
+    excerpt: "Beneath President Biden’s calls for unity and bipartisanship in his inaugural address lurked a bleak assessment of the country he was preparing to govern."
+    publishedDateTime: 2021-01-22T06:42:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/unity-narrative-biden-former-presidents-bleak-view"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/unity-narrative-biden-former-presidents-bleak-view?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/unity-narrative-biden-former-presidents-bleak-view?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 57
   - title: "Biden Must Find Words for a Wounded Nation in Inauguration"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-01-17T20:55:00Z

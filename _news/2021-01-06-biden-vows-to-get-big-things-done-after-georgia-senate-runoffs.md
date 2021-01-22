@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-get-big-things-done-georgia-s
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-get-big-things-done-georgia-senate.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/biden1.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Joe Biden’s Agenda Gets Boost From Georgia Runoff Wins"
+    excerpt: "President-elect Joe Biden has a stronger shot at advancing his legislative agenda through a divided Senate after two runoff victories in Georgia gave Democrats control of the chamber. Democrat ..."
+    publishedDateTime: 2021-01-06T21:56:00Z
+    webUrl: "https://www.wsj.com/articles/joe-bidens-agenda-gets-boost-from-georgia-runoffs-11609958532"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-agenda-gets-boost-from-georgia-runoffs-11609958532"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-agenda-gets-boost-from-georgia-runoffs-11609958532"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-280974/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Joe Biden’s Agenda Gets Boost From Georgia Runoffs"
     excerpt: "President-elect has a stronger shot at advancing his legislative agenda through a divided Senate after two runoffs in Georgia appeared poised to give Democrats control of the chamber."

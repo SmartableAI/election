@@ -96,14 +96,14 @@ related:
         height: 779
         isCached: true
   - title: "Trump returns to a business empire ravaged by pandemic"
-    excerpt: "NEW YORK -- Donald Trump is returning to a family business ravaged by pandemic shutdowns and restrictions, with revenue plunging more than 40% at his Doral golf property, his Washington hotel and ..."
-    publishedDateTime: 2021-01-21T20:46:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407074"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407074"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407074"
+    excerpt: "Donald Trump is returning to a family business ravaged by pandemic shutdowns, with revenue plunging more than 40 percent at his Doral golf property, his Washington hotel and both his Scottish resorts"
+    publishedDateTime: 2021-01-22T03:21:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407075"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407075"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407075"
     type: article
     provider:
-      name: ABCNews
+      name: ABC
       domain: abcnews.go.com
     quality: 125
     images:

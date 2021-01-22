@@ -1098,6 +1098,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris rested hand on Bibles, not a purse, during oath"
+    excerpt: "When Vice President Kamala Harris was sworn into office on Wednesday, she placed a black clutch purse on top of the Bible so she wouldn’t have to touch the holy book. AP’S"
+    publishedDateTime: 2021-01-22T06:23:00Z
+    webUrl: "https://apnews.com/article/fact-checking-9919845144"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Washington mayor asks for increased security around Biden's inauguration"
     excerpt: "Washington's mayor has asked for increased security around the inauguration of U.S. President-elect Joe Biden after last week's storming of the U.S. Capitol by supporters of President Donald Trump."
     publishedDateTime: 2021-01-11T13:41:00Z
@@ -1348,6 +1362,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/12/PNAS/26b7b47e-a665-40be-a842-9d5cecdb4963-_GW55187.JPG?auto=webp&crop=4332,2437,x1,y434&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Photos of Joe Biden and Kamala Harris' Families from Inauguration Day"
+    excerpt: "Joe Biden and Kamala Harris' families were front and center at their inauguration on Jan. 20 As Joe Biden takes his oath of office, he is accompanied by wife Jill and their children Ashley, 39, and Hunter,"
+    publishedDateTime: 2021-01-22T03:09:00Z
+    webUrl: "https://people.com/politics/biden-inauguration-joe-biden-kamala-harris-family-photos/"
+    ampWebUrl: "https://people.com/politics/biden-inauguration-joe-biden-kamala-harris-family-photos/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/biden-inauguration-joe-biden-kamala-harris-family-photos/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 100
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=750&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F01%2F21%2Fbiden-family2.jpg"
+        width: 1500
+        height: 750
         isCached: true
   - title: "New Mexico official who vowed to protest Biden inauguration arrested in Washington"
     excerpt: "The U.S. Justice Department said on Sunday that it had arrested an elected official from New Mexico who had vowed to travel to Washington with firearms to protest President-elect Joe Biden's inauguration."
@@ -2765,6 +2795,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "pW0rnUW6EEV2S/bhuEqgdEhvhaUc3sGBuS0kRPzh0LxZSYN8TaCFzHbu3g/EFoe3EVaZiMlZtWISy+ODsZjtSE7Q0xu7NLplX/9v34ziDTuafPseSB1mYwDwoVVjwZJhzADBt7VzNX5riKwcPC5gOPJw5q7DoBVQp8zAL4ywjGAoNv1zD5oBVbTzzd6THde2wTuGQ+47qWgeZnPAlQ5V5qu2mzt6fPyM94jnyUQ2QJhaPhTOUmIAfjDmgKMJwAYHTpGwmmIfA/uqn4gaCAHbvFRyC0UVPUNYRaxgz749e702AH2PoyHYUB/3b7AxSrXpcPcJjSDjx29SpR3N8bp6L7zgyYFShbgMl42iHSpZe0A=;cGA/6SaQIp+p6z+p1ee76w=="
+secured: "JpOQkhnnneFlnodV7pimEgDrZoOAdggkSbIpCxudi7wyDZV2RwNG342gjI6on6aFS1/6qhYGtsn2+ENPZOgiXNKhZMd+fUtY/WRy46otMFgyDjr2LFYveONMOKx7hbZvo/vXSFz6nlg/ZKU+CwXekcEI4Jzm4y+im3B1mR1FvCcTC5/62bvlUbPiVG1k4zCEN+bQtxiCB4YLQeQXZiLYUDqMRUv6XpbfCY2N6u6HauJeDzF2QgX6t0Z4uUK3J/OW2kt3l8NYWNh/ApQrKeQDAuvtYRbNK07srrccX+AXnY0TjcojeKUIhMwMag9r3fIYS+DiEvnqwwpIMN/yhOtr6cTAjH8QYwCsdKNz1EVdCElcJ9oM4stRheMPoTaGAOY0sVyrH/Mno9THU93mKX/xxZGcZjHWGakdANyGXjbktdOfqfzqsnh8SP4xxEY/XiWvoRU4rmmUUdrOz1LCVID+9s8DLbX5jL2Y0y99XSabf9MZA9vlAdwXUVBiCDeKpMgu1ZAGt56FQvngm7nLQp2VQQ==;r2XRu+C34Yh8nIZB8mgEuw=="
 ---
 

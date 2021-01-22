@@ -1,19 +1,19 @@
 ---
 category: news
 title: "Trump returns to a business empire ravaged by pandemic"
-excerpt: "NEW YORK -- Donald Trump is returning to a family business ravaged by pandemic shutdowns and restrictions, with revenue plunging more than 40% at his Doral golf property, his Washington hotel and ..."
-publishedDateTime: 2021-01-21T20:46:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407074"
-webUrl: "https://abcnews.go.com/Politics/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407074"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407074"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407074"
+excerpt: "Donald Trump is returning to a family business ravaged by pandemic shutdowns, with revenue plunging more than 40 percent at his Doral golf property, his Washington hotel and both his Scottish resorts"
+publishedDateTime: 2021-01-22T03:21:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407075"
+webUrl: "https://abcnews.go.com/Business/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407075"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407075"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407075"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABCNews
+  name: ABC
   domain: abcnews.go.com
   images:
     - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
@@ -190,6 +190,6 @@ related:
         height: 548
         isCached: true
 
-secured: "lZqr/N8LDJMp6sPK4wcIGCWX0bGwiIaM7IPiT9N2cpTdKS2S7h2NKwjvrH5ML9mLILYoe7J+EOB8G06+Itqf0vcouUSaqwiGPlKWpWcKkfI/5rVhxRviPAip5gJePVtKmt/kulEw0zNKDdIL+jSvVn7W3MuhmsWfnT13vLeYaDwbtWtknpObQR5W9gY5hELJr8LTuIrCbITEjHW/Jd+0CPWXxUTF2QGiodM46Ut2tjeuJYBHIBMbBPzhuulD7znT08jbxO4348n98bzbrNqbt+kNSctYy3mp2l93LkhBnrV4Y9256nftMdvpk+cmFguGdh4rQ2anZiBIe3hTUpeD37gWyReQKWnyBXhKuiIifsA=;gbM+feugZ77Hes0eEeW7Fg=="
+secured: "fTarwILb3DZe4qp8piKaPLfkJuFegGxJafTWvdBSwjjwKqwtz9swh+2CpyJLXtazLWm1uj5ILl6LffXlrK06PsinYnqvmELkbkWsn1PmfLhvci3+aq092xAOFxMI44elUEo6H8MVl6yF9VrpSH7gDVM7AMmZj9X1Htcht00biKngZ7GYsjGd8tT/QlUYXsnJeLlQcevXKm5yIl9/D4lTGjS4L8VcgRevTpKUVtBUeCTkyvZrk98iaRKaG497bjUd37JU0aaV+1/FV9BL+Asd8gmY5Bg8Q+MD94gMN4K8TCbOvV1bLTopxei6RW4Q00mt7Y8b0+EuR+l2mNVXOy/P2oDSPmGYjidxIedkDYyTxks=;aKB29rntSkYLZid1hdTD/w=="
 ---
 

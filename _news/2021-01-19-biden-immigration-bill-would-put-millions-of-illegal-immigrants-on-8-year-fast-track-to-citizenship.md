@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Angel mom slams Biden immigration order as 'spitting on the faces of every legal immigrant'"
+    excerpt: "Agnes Gibboney, whose son Ronald da Silva was shot and killed by an illegal immigrant in 2002, told \"The Ingraham Angle\" Thursday that President Biden's order halting all deportations for the next 100 days is \"spitting on the faces of every legal immigrant in this country.\""
+    publishedDateTime: 2021-01-22T05:28:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6fpVQbWqDIo/angel-mom-slams-biden-immigration-order-as-spitting-on-the-faces-of-every-legal-immigrant"
+    ampWebUrl: "https://www.foxnews.com/politics/angel-mom-slams-biden-immigration-order-as-spitting-on-the-faces-of-every-legal-immigrant.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/angel-mom-slams-biden-immigration-order-as-spitting-on-the-faces-of-every-legal-immigrant.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "Xc0IgyzKnsh+NdowZqbY+2kUVcVePMkXFD04kQuCXnfyxG8molCF1lak0tlWfETimo/JnjcWZGApkq1099spIORvCpxiEa2M/4HoMCqWH8Tjx2Ic3j4PKpsNmUVFgIw0w2oM4tEJ4kxlBLblu7vhvd7PFG1aEMQV39veZqkmA8XnuyXdyEr5CppSlfjX0tUVljPcPy1xFKuJmrZi9U7YHPk//gqfd37G0z8Zp6KYPedOn/vG8H/yGKHGw9nE/V0hZ9lrZNdkSIRXE/7tDeP57YTImPJBrnvq9MeRO62akXBD7YvxpUHZmvihWYJARsKxqeLlFa/tl7nhrSsDnFfRTSJPuhdZfACdYXDkiuzBHEY=;Wa9jxjK3dPW8lWPxZhX/tg=="
 ---

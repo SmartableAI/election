@@ -7,8 +7,8 @@ originalUrl: "https://www.cbsnews.com/video/joe-biden-inauguration-speech-watch-
 webUrl: "https://www.cbsnews.com/video/joe-biden-inauguration-speech-watch-in-full-2021-01-20/"
 type: article
 quality: 105
-heat: -1
-published: false
+heat: 105
+published: true
 
 provider:
   name: CBS News
@@ -27,40 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "‘Celebrating America’ review: Earnest inauguration special encapsulates President Joe Biden"
-    excerpt: "Celebrating America” traded the usual inauguration night balls for socially distanced performances from around the country, spotlights of “everyday heroes,” and solemn acknowledgments of the extraordinarily tough few years the country has muscled through to get to this moment."
-    publishedDateTime: 2021-01-21T12:38:00Z
-    webUrl: "https://www.chicagotribune.com/entertainment/ct-ent-celebrating-america-review-20210121-5jfmoumsafgc7pqrrooyr2clsq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/entertainment/ct-ent-celebrating-america-review-20210121-5jfmoumsafgc7pqrrooyr2clsq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/ct-ent-celebrating-america-review-20210121-5jfmoumsafgc7pqrrooyr2clsq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 115
-    images:
-      - url: "https://www.chicagotribune.com/resizer/8r1pkCCA_n_7FbKpLextDsEervE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/32432MOOUUPTGCJTRIA6JJ6H6Q.aspx"
-        width: 1200
-        height: 696
-        isCached: true
-  - title: "'To heal, we must remember': Biden leads national mourning of 400,000 Americans killed by COVID-19"
-    excerpt: "\"It's hard sometimes to remember. But that's how we heal,\" Biden said from the Lincoln Memorial Reflecting Pool."
-    publishedDateTime: 2021-01-20T06:25:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/19/biden-leads-memorial-nearly-400-000-americans-killed-covid-19/4215250001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4215250001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4215250001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/8d45ca2d-ad8b-472e-88f0-fe849ccf76cb-AP21019841045074.jpg?auto=webp&crop=4245,2388,x0,y283&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Z1VKj7zb8Md71YtYK3386NjLHJgQdHG+E0v3PjgqUSz3+ncGGBVA1ZdEcxFvpi24WzVi4qC60UYtaem1LVhIbM6EVcWi7uEf0HY6PA375voZW+VZ/+ei83LH5Wfm3N2jRouRzeVMYm8szeLWH0l3HZrbxkmxYkuJOK9R/4qIE4zrDj+AMQjghLjZIldMPdh43b1D4bvYm55FUalIU2y25WkahINfR/Y6fiukwalqDXLrnNBN5Rj47/43gcDOoK+Th7r7o91s5w632OlsAg4OKiF3cU7uEnIWB6GS/aOuMClsugRDvU/OsJY0ANHmpOfpLwEzlzcMaktvoRTj+48yao7BMsnqWcEAvbjcrNpGIwI=;gWlJxLL7ulNl8yy0TJP4+w=="
 ---

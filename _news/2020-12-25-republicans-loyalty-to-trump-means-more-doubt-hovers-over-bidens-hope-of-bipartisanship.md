@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyal
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/?outputType=amp"
 type: article
 quality: 141
-heat: 761
+heat: 781
 published: true
 
 provider:
@@ -494,6 +494,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/29/president-donald-trump-lashed-out-at-the-republican.jpg"
         width: 1024
         height: 642
+        isCached: true
+  - title: "Hunter Biden’s Guilty Laptop"
+    excerpt: "They raise serious questions about the judgment and propriety of Jim Biden, the president-elect’s brother, and Joe himself. Call it smoke not fire, but smoke that should not be ignored."
+    publishedDateTime: 2020-12-31T05:56:00Z
+    webUrl: "https://www.theamericanconservative.com/articles/hunter-bidens-guilty-laptop/"
+    type: article
+    provider:
+      name: The American Conservative
+      domain: theamericanconservative.com
+    quality: 55
+    images:
+      - url: "https://www.theamericanconservative.com/wp-content/uploads/2020/12/shutterstock_1871062741-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Some Republicans plan to challenge Joe Biden’s Electoral College victory. Here’s what happened when Democrats challenged Bush"
     excerpt: "Congress will count the Electoral College votes in a joint session of Congress on January 6, which represents Trump’s final chance to try to overturn the election result he lost to Biden."

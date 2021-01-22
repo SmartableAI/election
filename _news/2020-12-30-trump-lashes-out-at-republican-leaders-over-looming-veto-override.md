@@ -494,6 +494,20 @@ related:
         width: 1200
         height: 741
         isCached: true
+  - title: "Hunter Biden’s Guilty Laptop"
+    excerpt: "They raise serious questions about the judgment and propriety of Jim Biden, the president-elect’s brother, and Joe himself. Call it smoke not fire, but smoke that should not be ignored."
+    publishedDateTime: 2020-12-31T05:56:00Z
+    webUrl: "https://www.theamericanconservative.com/articles/hunter-bidens-guilty-laptop/"
+    type: article
+    provider:
+      name: The American Conservative
+      domain: theamericanconservative.com
+    quality: 55
+    images:
+      - url: "https://www.theamericanconservative.com/wp-content/uploads/2020/12/shutterstock_1871062741-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Some Republicans plan to challenge Joe Biden’s Electoral College victory. Here’s what happened when Democrats challenged Bush"
     excerpt: "Congress will count the Electoral College votes in a joint session of Congress on January 6, which represents Trump’s final chance to try to overturn the election result he lost to Biden."
     publishedDateTime: 2020-12-28T09:47:00Z
