@@ -976,6 +976,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here are the 30 executive orders and actions Biden signed in his first three days"
+    excerpt: "President Joe Biden has signed a flurry of executive orders, actions and memorandums aimed at rapidly addressing the coronavirus pandemic and dismantling many of President Donald Trump's policies.\n    \n"
+    publishedDateTime: 2021-01-22T15:39:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7xudxTIZ3Kc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/joe-biden-executive-orders-first-week/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/joe-biden-executive-orders-first-week/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121094514-05-biden-executive-orders-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration to rescind Keystone pipeline permit on Wednesday, sources say"
     excerpt: "President-elect Joe Biden's incoming administration plans to rescind the permit for the Keystone XL pipeline on his first day in office, two sources familiar with the decision tell CNN, delivering a win to an array of progressive organization and rolling back one of President Donald Trump's earliest"
     publishedDateTime: 2021-01-19T19:19:16Z
@@ -2057,6 +2073,6 @@ related:
         height: 773
         isCached: true
 
-secured: "7u7LL/FC0UoK4SPx/Q8Hg5s+FEpnlai4CHJLIKDtqJ9vN+b/BDzi1Z8Eej5l03NUl4QiYf02MoyhLV6U8VS+gTJy2xt2P0G8qWhjZYgrYlilDADk3srBZu24mdsm3dAT/SxrdoJyEKu0AVpdoDPEnjgXKRsB+uD+rR4j8429Rp7/O+a3pmgDFm/dmKLW6zFAhSoEL52LT/eG7c4emD1t1COELeV73o7SrkRw0cC+XwXBZGMhv0LtFRTz/23ZsVqxGDIFNyJsCY8ctOqMvwE+pIdFzqWBPh2RHwqVyzpHk+T8tuU43gz9NKWT6CKiK/I4XQiAn4w1n7dYFk9hD8KBRUem53EvjoZXSuibZ/VitkA=;T1x8gmhN8Qj+Y4zcJG4H6Q=="
+secured: "BkoHSg4BfOfpocK52LTF1F5s9ytHkj21wCodqYIdqV+8Jv4K8ERwuFg4kVpAjQx/d1Cyd/GDE+pyIVsiMydHOu2UWAhpIjKEK6VDCMj1P3r2dHpM3Y/Ul4uFuLflRWbzeVPzUKjyUatOQd5+BZRcB5gL30vjcxEdW3IhQy6kucaiN6MYczCB3ny1oFdIPj3rEtrtxyirnseHFgp0b9RjUeh1N/xYoBuDTOOQBZuaWfT84hSAXGPf2BEhwP/RaI0T/PxxrBnVNr/kFNUw70mnMQq7SXiA4RuSQZuQn8A3vnmO+56Zb4MqMPJ6uPWHQqWYWYE/g/HAWdWBLAUysrc+hD+z09Cx2js66cGEkLW10Uaiq1vLPSoeQQALP4hCfgjGVEr5DzMFJsflmwefSeFe8ANUNnMo8DSIF3aoZTDGyWZ9I3CnRAJmOyUQ+UWt0g8VnOxSdncrsUOiR1WmVzJYb3A0Sc2LiOmnAc3in1OoBpV6reOJJB62qxXic37xqQPvaRHsGxBrIYOBuLIZJneb/w==;GhdW4IeqVi8SlnCfJbX+zQ=="
 ---
 

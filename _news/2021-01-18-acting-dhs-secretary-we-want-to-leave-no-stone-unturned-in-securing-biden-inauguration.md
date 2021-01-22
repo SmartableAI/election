@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Senate confirms Biden's Defense Secretary Lloyd Austin, the first Black Pentagon chief"
+    excerpt: "The Senate on Friday confirmed President Biden's Defense Secretary Lloyd Austin in a big bipartisan vote, marking the first time an African American will lead the Pentagon in U.S. history."
+    publishedDateTime: 2021-01-22T16:05:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pCPidpmWxyI/senate-confirms-bidens-defense-secretary-lloyd-austin-first-black-pentagon-chief"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-confirms-bidens-defense-secretary-lloyd-austin-first-black-pentagon-chief.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-confirms-bidens-defense-secretary-lloyd-austin-first-black-pentagon-chief.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Gen.-Lloyd-Austin-III.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "9f8GidRkOFZE5h3aM7YKP7L2VGSa5a1fcy87874L3Q9CP4w+xry8Fv891KDefGhK0Vq5X4yvY02EUwP5FBhOh4fxCj4agQrH2rIXkhHKStaXPRLyihnAO9ifcCPxdqZTp1R6OVQPT4O8WXX4elbx1cunkKIRdhZJNn0HkRMdSRYva0oMrXVZUHnBlJ7FAxARug91vpn4wbPhBkYi0K8h15FGg304rd8q5N8uFrb+M4OqTpGhHtaXxN8AB6crRv97H2ax6H9B5elBaquHdb2Ws/UE6xPkFxTJyMY4hOwPJcbtf7eIEWhyb0rwUDKOWU2ZsldF2HdzvoOWAiI1NxtdH5ld9SiJw+8YbCFHqoJlR/E=;GtkLt61ReULMJL2sdZjhDA=="
 ---

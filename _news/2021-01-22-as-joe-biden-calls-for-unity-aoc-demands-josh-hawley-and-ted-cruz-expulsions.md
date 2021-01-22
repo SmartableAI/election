@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Majority of U.S. Senate approves Biden nominee Austin to lead Pentagon"
+    excerpt: "The U.S. Senate on Friday confirmed President Joe Biden's nominee, retired Army General Lloyd Austin, to serve as Secretary of Defense - the first Black American in the role."
+    publishedDateTime: 2021-01-22T16:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-pentagon-idUSKBN29R204"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R204"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R204"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548730773&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L13U"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Joe Biden's Plan to Extend Russia Nuclear Treaty Praised by Arms Control Groups"
     excerpt: "\"After years of Trump putting Americans in harm's way by decimating international agreements, we can all breathe a bit easier now that he cannot start a nuclear war within minutes,\" Peace Action senior director for policy and political affairs Paul Kawika Martin told Newsweek."
     publishedDateTime: 2021-01-21T22:43:00Z

@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Schumer says Pelosi to deliver Trump impeachment article Monday, triggering trial amid standoff with McConnell"
+    excerpt: "Senate Democratic leader Chuck Schumer said on Friday that Speaker of the House Nancy Pelosi has informed him that the article of impeachment against President Trump will be delivered to the Senate on Monday, paving the way for a trial."
+    publishedDateTime: 2021-01-22T15:20:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bkwuzSbf1rw/schumer-pelosi-will-deliver-article-of-impeachment-to-senate-on-monday"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-pelosi-will-deliver-article-of-impeachment-to-senate-on-monday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-pelosi-will-deliver-article-of-impeachment-to-senate-on-monday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "kcWhgmbposmEDRCp/wy4Qn+ef8LDXczJBLWIc+NwTyEPt2fUaR1/iWOVKd+z3NGPM9nvDcCWnyzj1TVw/fC3fRnfZFVBLayiNKdg9YnAAwCad4WJBRVYEIdK7xkwFZTFeP9jhzvBOKYwLdsxFdN6RPX0iJKDkLfXM7fpFVIzQOkyuM/xgG5DCbuWb3vhug04aR9IPngo2qgrbVSoDNfXvEZ1TasUGk8/bMq83texNFCuVy9qNIigYhXR/wDPFhS6u8jET40ic9SFuBp9b2OmvsDV5Voycxz8KspMsX1cLAenAJ2mv8TqOp/4+8fTjlum0/5uMsPCVfd3ba56exzgbPPCTa2BKOQn2TYIzZM6TzM=;4Efmvn/SQFokAozyN6txeA=="
 ---

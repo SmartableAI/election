@@ -974,6 +974,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here are the 30 executive orders and actions Biden signed in his first three days"
+    excerpt: "President Joe Biden has signed a flurry of executive orders, actions and memorandums aimed at rapidly addressing the coronavirus pandemic and dismantling many of President Donald Trump's policies.\n    \n"
+    publishedDateTime: 2021-01-22T15:39:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7xudxTIZ3Kc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/joe-biden-executive-orders-first-week/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/joe-biden-executive-orders-first-week/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121094514-05-biden-executive-orders-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration to rescind Keystone pipeline permit on Wednesday, sources say"
     excerpt: "President-elect Joe Biden's incoming administration plans to rescind the permit for the Keystone XL pipeline on his first day in office, two sources familiar with the decision tell CNN, delivering a win to an array of progressive organization and rolling back one of President Donald Trump's earliest"
     publishedDateTime: 2021-01-19T19:19:16Z

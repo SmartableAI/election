@@ -2683,6 +2683,42 @@ related:
         width: 1024
         height: 705
         isCached: true
+  - title: "Watch: Boston Latin School films dance tribute to Kamala Harris"
+    excerpt: "Students from the Boston Latin School released a choreographed dance video on Inauguration Day in honor of the now Vice President Kamala Harris — and their tribute has already amassed over 9,000 views."
+    publishedDateTime: 2021-01-22T13:45:00Z
+    webUrl: "https://www.boston.com/news/local-news/2021/01/22/watch-boston-latin-school-films-dance-tribute-to-kamala-harris"
+    ampWebUrl: "https://www.boston.com/news/local-news/2021/01/22/watch-boston-latin-school-films-dance-tribute-to-kamala-harris/amp"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/local-news/2021/01/22/watch-boston-latin-school-films-dance-tribute-to-kamala-harris/amp"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 55
+  - title: "Trump Impeachment to Go to Senate Monday, Launching Trial"
+    excerpt: "WASHINGTON (AP) — House Speaker Nancy Pelosi plans to send the article of impeachment against Donald Trump to the Senate on Monday, launching the start of the former president's trial on a charge of incitement of insurrection over the deadly Capitol riot."
+    publishedDateTime: 2021-01-22T16:36:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-22/mcconnell-seeks-to-push-trump-impeachment-trial-to-february"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-22/mcconnell-seeks-to-push-trump-impeachment-trial-to-february?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-22/mcconnell-seeks-to-push-trump-impeachment-trial-to-february?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "VP Kamala Harris Arrives for Presidents Daily Briefing at White House"
+    excerpt: "United States Vice President Kamala Harris arrives on West Executive Drive at the White House to receive President Biden's Daily briefing in Washington, DC on Friday, January 22, 2021. Harris will attend other events at the White House today as well."
+    publishedDateTime: 2021-01-22T16:16:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/e7c8e6e666390a0963439c9dd0546fb5/VP-Kamala-Harris-Arrives-for-Presidents-Daily-Briefing-at-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/e7c8e6e666390a0963439c9dd0546fb5/VP-HARRIS-ARRIVAL.jpg"
+        width: 650
+        height: 434
+        isCached: true
   - title: "Alert: AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance."
     publishedDateTime: 2021-01-15T18:27:00Z
@@ -2738,6 +2774,17 @@ related:
         width: 2048
         height: 1355
         isCached: true
+  - title: "AKA sorority members celebrate Kamala Harris inauguration | Charlotte Observer"
+    excerpt: "Alpha Kappa Alpha declared on Twitter that Jan. 20 would be Soror Kamala D. Harris Day, and encouraged members to share photos of their celebrations with the hashtag #KamalaHarrisDay."
+    publishedDateTime: 2021-01-22T16:27:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article248686005.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article248686005.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article248686005.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 51
   - title: "As vice president, Kamala Harris will have a role unlike any of her predecessors"
     excerpt: "The daughter of immigrants and the first woman, Black person, and Asian American person to hold the vice presidency, Harris will bring a set of lived experiences unparalleled by any of her predecessors."
     publishedDateTime: 2021-01-20T08:33:00Z
@@ -2859,6 +2906,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "CZ+k6Td5eHiUmIEG3pJGeWFhPP51c2LseihrRSZl66B7oVgzqAvb1pEBg33xmXhCEZ+aL+tPsNzte2mnXSmR07BfJbYAAXq1Z0K206i84YaJK02L8w8nug0zROyHWTVNOzxy33MP0HQCWwarnAm9zszG4VbeQsX0u9gcdohSoUsCHGZOENnapPn8tGHmXa/kKgiNQz/AVKUEcndwsglVvg9Zg+y3nrt09KQSMEKcJWv3t61Fv6PN+rgI/i7g8Q45sZ4QvrWuZ57VTIJ1+Exhn6Vp+a+k/CcURZj0tsOCjEcj4m8RAjjs2UZ0YeufP88TewQjV04wb1Fa0m/xeGPkzlnDdpdwzf9exLgStWF+Kqs=;jry4ymR59hKev0Ol20a3fg=="
+secured: "nLdzpYOC+x8OamAqWcqVnQ10lML+TQu1C/vwqm4luleFDdN1xyjRi0Bg6wazWNOWJvS1rSuW5IKGnKY4HFyytX45TANVF7nb8gD/tQshj56QI2tCLJ2+AbM30iDmjxopDoUlgTd+AmSGCHztNJhGnccU7KKH6rNHoeVIAhm39FDoUGma/6eLqOArLsmb3okjOLKZTla5goXV5mEn1rVK/VtO7ik0OHfd8WyV6ihI9walUkF8qSQqlDXOTKozqzzjqIvse8a1mRTYtEA/0xixLotldTl2G5mIFy7dKMzjVnHtGgYo8xyNiwJNTxHvszOuU35U/XMRD4AnxV84itIWPxuNVaVlkbx+1EFN5eaHwLm2OLrsxZZOcDAIVFlETjqj9EliRwgazwSLmz/4MU9mIHLyzKQMazhoUYWdBY8d0HB0SLJtwjE+0+KswcaZUZ3p02TCPxaOhRCdYpyfAWzuSCwqp1KWIh4/fW9EbJA1rbuxB1CJ4Tf3k6HZR2ZfRbHyoGWRijJXQNNqgQChA5GMKw==;cObQ/Y7gGjdpYHork0d1gA=="
 ---
 

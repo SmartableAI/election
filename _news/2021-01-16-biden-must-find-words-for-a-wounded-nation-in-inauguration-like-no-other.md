@@ -1039,6 +1039,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Majority of U.S. Senate backs Biden nominee Austin to lead Pentagon"
+    excerpt: "The U.S. Senate on Friday confirmed President Joe Biden's nominee, retired Army General Lloyd Austin, to serve as Secretary of Defense. He will be the first Black American to serve in the role."
+    publishedDateTime: 2021-01-22T16:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-pentagon/majority-of-u-s-senate-backs-biden-nominee-austin-to-lead-pentagon-idUSKBN29R204"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R204"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R204"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548730773&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L13U"
+        width: 817
+        height: 545
+        isCached: true
   - title: "‘Grateful’ Mike Pence returns to Indiana hometown as vice presidency ends"
     excerpt: "Former Vice President Mike Pence returned Wednesday to his Indiana hometown, where he told a small crowd of family member and supporters that serving in the White House was the greatest honor of his life."
     publishedDateTime: 2021-01-20T23:07:00Z
@@ -1885,6 +1901,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden ordering stopgap help as talks start on big aid plan"
+    excerpt: "BALTIMORE (AP) — President Joe Biden plans to take executive action Friday to provide a stopgap measure of financial relief to millions of Americans while Congress begins to consider his much larger to help those affected by ."
+    publishedDateTime: 2021-01-22T16:59:00Z
+    webUrl: "https://www.businessinsider.com/biden-ordering-stopgap-help-as-talks-start-on-big-aid-plan-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-ordering-stopgap-help-as-talks-start-on-big-aid-plan-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-ordering-stopgap-help-as-talks-start-on-big-aid-plan-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden's inauguration is unlike any before. Photos show how his ceremony compares to those of previous presidents."
     excerpt: "Due to COVID-19 and the threat of violence from far-right groups, the inauguration of President-elect Biden is unlike past ceremonies."
     publishedDateTime: 2021-01-20T16:59:00Z

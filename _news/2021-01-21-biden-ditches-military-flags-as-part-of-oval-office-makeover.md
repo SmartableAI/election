@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-ditches-military-flags-oval-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ditches-military-flags-oval-office-makeover.amp"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c25846e4-7ebf-47f9-b84c-017421ba54f9/4dbaad3b-b98a-40ad-96cf-c673de31bc79/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Lloyd Austin: What to know about Biden administration's Secretary of Defense"
+    excerpt: "Retired four-star U.S. general Lloyd Austin has made history Friday by becoming America's first Black Secretary of Defense."
+    publishedDateTime: 2021-01-22T16:01:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3QUvOZhIDvw/lloyd-austin-what-to-know-about-bidens-choice-for-secretary-of-defense"
+    ampWebUrl: "https://www.foxnews.com/politics/lloyd-austin-what-to-know-about-bidens-choice-for-secretary-of-defense.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lloyd-austin-what-to-know-about-bidens-choice-for-secretary-of-defense.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-zxjs75c-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden barely sworn in as 'Squad' member, ally start pushing progressive agenda"
     excerpt: "Members of the progressive \"Squad\" have signaled their interest in pushing the Biden administration to the left as the president takes office on his first day."

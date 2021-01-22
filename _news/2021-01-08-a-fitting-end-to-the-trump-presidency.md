@@ -1322,6 +1322,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Why Kamala Harris Is a Star of the New York City Mayor’s Race"
+    excerpt: "The candidates are competing over who can best capture Washington’s attention and assistance as New York navigates its recovery from the pandemic."
+    publishedDateTime: 2021-01-22T16:28:00Z
+    webUrl: "https://www.nytimes.com/2021/01/22/nyregion/biden-harris-nyc-mayor.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/22/nyregion/biden-harris-nyc-mayor.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/22/nyregion/biden-harris-nyc-mayor.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/21/nyregion/00nymayor-dc1/00nymayor-dc1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "What’s It Like to Have Kamala Harris As ‘Momala’? We Asked Her Stepkids."
     excerpt: "But on the night that Joe Biden and his vice-presidential running mate, Kamala Harris, delivered their acceptance speeches, with their families gathered onstage, watching fireworks, Cole began receiving astonished texts from friends and colleagues."
     publishedDateTime: 2021-01-17T08:00:00Z

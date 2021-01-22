@@ -127,6 +127,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sen. McConnell Told Republicans He Would Propose Starting Trump Impeachment Trial in Two Weeks"
+    excerpt: "Senate Minority Leader Mitch McConnell told Republicans he would propose starting former President Donald Trump’s impeachment trial in two weeks to give his legal team time to prepare, GOP aides said Thursday."
+    publishedDateTime: 2021-01-22T15:50:00Z
+    webUrl: "https://www.wsj.com/livecoverage/biden-presidential-inauguration-2021/card/947EESLmJP9kMhQom8Hk"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 103
+    images:
+      - url: "https://images.wsj.net/im-288864?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "eA6QyG+YCsJ7DGtyqSGM+YequetvXBKtv9oZdm5bM0VZDwnYsrNBVLYb9B7AXIYkHIaWX22xuvjvFST0L6vkGIuaASc593S7ZS9S+czIuxxGyHfJWKgE36ASqfSUZ/2FevflNdVpojPguX54lElfvMvB//rBwN6vHQuLe44nFTCqTS6lMFnh1INBeSX6GJ8MwQIHL3kvQl4HykNYkNqCVAqUtmRKAFbnTTyQ8zJjUEzS5CB5zdr/gtI5SjBKXv7ThmLIEZlKJX9PCg5YAJjSIHDoToLjminAXzZHs8Swi/mrBDHaIRaWRUXuF0Zegzjxgycpbf1GafPvqQKz0LW3aRqzPyXkDfa2wgn2c+5AnAk=;j7S6tTAth/DURQdeavzk2Q=="
 ---

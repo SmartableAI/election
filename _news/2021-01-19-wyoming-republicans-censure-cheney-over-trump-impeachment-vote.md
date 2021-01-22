@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-impeachment-republicans-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-impeachment-republicans-herrera-beutler-wyoming.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -126,6 +126,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99358d26-af6a-480e-ad64-fc605954db0c/0a1a97f5-1c2e-489a-8e0a-312e92622968/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Sen. McConnell Told Republicans He Would Propose Starting Trump Impeachment Trial in Two Weeks"
+    excerpt: "Senate Minority Leader Mitch McConnell told Republicans he would propose starting former President Donald Trump’s impeachment trial in two weeks to give his legal team time to prepare, GOP aides said Thursday."
+    publishedDateTime: 2021-01-22T15:50:00Z
+    webUrl: "https://www.wsj.com/livecoverage/biden-presidential-inauguration-2021/card/947EESLmJP9kMhQom8Hk"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 103
+    images:
+      - url: "https://images.wsj.net/im-288864?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "fbBQ3mVXe03KEM17zey3C32gMucDW+dWLiwdEj3h97I4VkgJBvHMnQpQB87nPXgQQrDfpTtHfJCBPkmQYeTPSSO08jOQ8SCcc9mxaYOJ1/Sntu4C4uWSdRH0qur2eCLSissP66UXyw24ChKTAkv1IaR8Hx+3QGPLrpUS2Z9LixkxHZRY0Vd4XNL/rslRzJ4OLINKgSXA8YH2YL9PgZLfby6aUXI+ifi6OaAbOU3Xtdp0LJr2m6/TF+94u+WfkH5B1W60ICy1QljwxeTuWOIRSeH66iQhYp4V+Vx8y+QnJANtxLp7Mkg0mciGv5c1Fqu+MDgbT562V8yEMQzZhgFNk/X+ZLyf9y8rIt6k0EdxRHg=;3tCf6VFQXEGlpRveS5acpg=="

@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Donald Trump, Melania Trump celebrate 16 years of marriage: A look back at their lavish wedding"
+    excerpt: "The couple first met at a party in 1998. They would go on to welcome son Barron in 2006."
+    publishedDateTime: 2021-01-22T16:04:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/30jHmUsC40Y/donald-trump-melania-anniversary-16-years-marriage-wedding"
+    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-melania-anniversary-16-years-marriage-wedding.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-melania-anniversary-16-years-marriage-wedding.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/GettyImages-1224204001.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "NzAHnv21vPBTS1a2Z1B9nZhQ+23gqIYI6TRq7UXNfzIskk14iEREFqA6eNQ9sGeKa7NnsN3XaTaEwRdZkKhbaNxdqFjC3LB94wdxK6I7HOfSgVhHG1jgVbLH9ZgNF1PmkF+ly289jFA3f6eF2S2FotXMEwokVG51g3bnsa3ttKtLPV4LSHZqyPErnVuno4M9OeojyPn9zEoTqwWAMmBfNvRYDUMP0xwlviDFcqncEoOY2Vf+Ko4J0Ky2z5QkKL1UQgPB19aiT/TUoxxZyfMn0FAJwLULe8NMFvlXV0CM1MYyahbtba1hmUbDfOIOGBGCGFAQtpbfihXBhL5V7feozE2yBX1yx5Vo5M4akTKCjMk=;5tPcagnqKxB9cIKdf9gOBg=="
 ---

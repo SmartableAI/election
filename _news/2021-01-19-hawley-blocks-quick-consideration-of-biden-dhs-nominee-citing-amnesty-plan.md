@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden executive orders the 'wishlist of the far left,' Rubio says"
+    excerpt: "Republican Sen. Marco Rubio on Friday said President Biden is “talking like a centrist,” but is governing like someone “from the far left” by signing executive actions and orders in his first days in office that fulfill items on the “wishlist of the far left.”"
+    publishedDateTime: 2021-01-22T16:38:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qGrvkPoWNXY/biden-executive-orders-the-wishlist-of-the-far-left-rubio-says"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-executive-orders-the-wishlist-of-the-far-left-rubio-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-orders-the-wishlist-of-the-far-left-rubio-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Nikki Haley says Biden immigration bill will ‘undermine the rule of law’"
     excerpt: "Nikki Haley on Tuesday said that President-elect Joe Biden’s plan to give a pathway to citizenship for millions of illegal immigrants would “undermine the rule of law” while also failing to address problems with the asylum system -- a sign of likely Republican opposition to the proposal."
     publishedDateTime: 2021-01-19T22:01:40Z

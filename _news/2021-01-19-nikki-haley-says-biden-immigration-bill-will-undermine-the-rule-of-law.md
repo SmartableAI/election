@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden executive orders the 'wishlist of the far left,' Rubio says"
+    excerpt: "Republican Sen. Marco Rubio on Friday said President Biden is “talking like a centrist,” but is governing like someone “from the far left” by signing executive actions and orders in his first days in office that fulfill items on the “wishlist of the far left.”"
+    publishedDateTime: 2021-01-22T16:38:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qGrvkPoWNXY/biden-executive-orders-the-wishlist-of-the-far-left-rubio-says"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-executive-orders-the-wishlist-of-the-far-left-rubio-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-orders-the-wishlist-of-the-far-left-rubio-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Hawley blocks quick consideration of Biden DHS nominee, citing ‘amnesty’ plan"
     excerpt: "Sen. Josh Hawley, R-Mo., blocked the quick consideration of President-elect Joe Biden’s pick to lead the Department of Homeland Security, citing Biden’s proposals for “amnesty” for illegal immigrants."
     publishedDateTime: 2021-01-19T23:17:34Z

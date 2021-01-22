@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/melania-trump-says-serving-as-first
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-says-serving-as-first-lady-my-greatest-honor.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/37de2408-7493-4801-817f-d667d7ded4c2/0178130e-a86f-4eda-b418-49d1f3f50c50/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Donald Trump, Melania Trump celebrate 16 years of marriage: A look back at their lavish wedding"
+    excerpt: "The couple first met at a party in 1998. They would go on to welcome son Barron in 2006."
+    publishedDateTime: 2021-01-22T16:04:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/30jHmUsC40Y/donald-trump-melania-anniversary-16-years-marriage-wedding"
+    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-melania-anniversary-16-years-marriage-wedding.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-melania-anniversary-16-years-marriage-wedding.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/GettyImages-1224204001.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "6ALDTLIYBUYR0ufLU5Mm6jPkt4hZ0sUaRbRquQrs+VMPQS13PUIppWsHjcogzYE32YQY3E27d4qc8A4Yo4E2O+Ku8gIAvu3/VZkPIvDeqz0g6xGOdsTArnVzd4k+4CnLa1vf2PMWlWNqdXpmO8SL0ziP/964f9aLQL/d1obsAwd+wwcFHEqaooNYzWnu0vYdMQ6yk5TqHdXs4NIyDSCDcWfuJpV142by7Y/8RjdBMZ0HK4WH3KJGUQgwbjj5XXf5Yq0GY9fJZ0vCtuLBKMNa9luWHGs8P/OA+tMRzpUqj5JMSO5MqJT/dQ1DSR5KJerHGfJWDujGUgKZ2vyr66UrwKNAlT7FA5V/rPEGzYShSl8=;R0IBXYi3rCAGVjW3dh27TA=="

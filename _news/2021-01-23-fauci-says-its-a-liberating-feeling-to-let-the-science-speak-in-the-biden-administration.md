@@ -1,0 +1,70 @@
+---
+category: news
+title: "Fauci says it's a 'liberating feeling' to 'let the science speak' in the Biden administration"
+excerpt: "Dr. Fauci making a lot of news by what he said about the Trump administration. Fauci saying he feels liberated, also adding this. DR. ANTHIONY FAUCI, DIRECTOR, NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES: One of the things that we are going to do is to be completely transparent,"
+publishedDateTime: 2021-01-22T16:20:00Z
+originalUrl: "https://www.foxnews.com/transcript/fauci-says-its-a-liberating-feeling-to-let-the-science-speak-in-the-biden-administration"
+webUrl: "https://www.foxnews.com/transcript/fauci-says-its-a-liberating-feeling-to-let-the-science-speak-in-the-biden-administration"
+ampWebUrl: "https://www.foxnews.com/transcript/fauci-says-its-a-liberating-feeling-to-let-the-science-speak-in-the-biden-administration.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/fauci-says-its-a-liberating-feeling-to-let-the-science-speak-in-the-biden-administration.amp"
+type: article
+quality: 124
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Joe Biden
+  - Republican Voice
+
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1acc131f-5a62-44c1-ac9a-b18cf8abc44b/108d5063-d888-4ba3-9dd4-d038d2019352/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "GOP looks to Biden administration to ‘lower the temperature’ but voice skepticism"
+    excerpt: "President Biden made a direct appeal to pro-Trump supporters and Republicans across the nation who did not vote for him to become the 46th president of the United States, calling for everyone to \"stop the shouting and lower the temperature.\""
+    publishedDateTime: 2021-01-21T00:18:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4WrAZbR84Yo/gop-look-to-biden-administration-to-lower-temperature-but-voice-skepticism"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-look-to-biden-administration-to-lower-temperature-but-voice-skepticism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-look-to-biden-administration-to-lower-temperature-but-voice-skepticism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbbb4448-7269-4978-8efc-90bb155801cf/b7d0f268-1824-4f6f-9047-a126c13f1ea6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden administration’s push to pause deportations, border wall construction 'purely political': Activist"
+    excerpt: "The Biden administration's move to impose a 100-day pause on deportations is \"purely political,\" the father of a victim of illegal alien crime Don Rosenberg said on Friday."
+    publishedDateTime: 2021-01-22T16:15:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YBDxeZ2J8qA/biden-administrations-push-deportations-border-wall-political-rosenberg"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administrations-push-deportations-border-wall-political-rosenberg.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administrations-push-deportations-border-wall-political-rosenberg.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+
+secured: "gT6TSjKvmsimybUUkW3Nf7weQcFAKnuZEOT4CgRPf1XzKtxvIe2R5RaYxIz58+ZPTzYIn+nnP/SukqXnvVy7lcSU5yT5q3bEmfdng++RnoiWDhNExRIsQnRtxQzNvEsQ0/xEgfnUsyI/2gsC5NGmVGYld3wXIInkb+xoYUXAWVU0Di47xiqJCdXRjYTP8+IsxjQXrit+eCaGLr/GVgYukSQTKAJpqtMCaWDJwcii0M6UkqbHhSmblp88xPOQfoW/Dhj7U5LbsuEFvY0rAj+tmee+H97FBfuVjhwGN1cbOJkyvwt4c1Q0iOzflhfceVof0uyBbMSc/yvEL8pOn/mAIdHmlZ534fF8MpRb2Xp2wKg=;6IVhwORGZSokIiQ3IEiUTw=="
+---
+

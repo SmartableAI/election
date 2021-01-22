@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-sours-on-trump-but-many-cling-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-sours-on-trump-but-many-cling-to-election-hoax.amp"
 type: article
 quality: 190
-heat: 1470
+heat: 1490
 published: true
 
 provider:
@@ -862,6 +862,22 @@ related:
       - url: "https://images.wsj.net/im-288784/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Chuck Schumer says Trump impeachment article going to Senate on Monday"
+    excerpt: "House Speaker Nancy Pelosi will send a single article of impeachment against Donald Trump to the Senate on Monday, clearing the way for his trial to start next week, Senate"
+    publishedDateTime: 2021-01-22T16:00:00Z
+    webUrl: "https://nypost.com/2021/01/22/donald-trump-impeachment-article-will-go-to-senate-on-monday/"
+    ampWebUrl: "https://nypost.com/2021/01/22/donald-trump-impeachment-article-will-go-to-senate-on-monday/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/22/donald-trump-impeachment-article-will-go-to-senate-on-monday/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/schumer-impeachment-30.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Republican Voters Oppose Trump Impeachment as Some Lawmakers Seek Distance"
     excerpt: "Some GOP lawmakers such as Rep. Nancy Mace of South Carolina have publicly criticized the president over the attack on the Capitol."

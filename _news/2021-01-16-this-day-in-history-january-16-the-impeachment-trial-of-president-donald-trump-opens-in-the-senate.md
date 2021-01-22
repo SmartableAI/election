@@ -45,6 +45,22 @@ related:
         width: 436
         height: 545
         isCached: true
+  - title: "Live Updates: Pelosi to send Trump article of impeachment on Monday"
+    excerpt: "The delivery of the article will trigger the beginning of former President Trump's impeachment trial in the Senate."
+    publishedDateTime: 2021-01-22T16:26:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/senate-confirmation-hearings-watch-live-stream-today-2021-01-22/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/senate-confirmation-hearings-watch-live-stream-today-2021-01-22/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/senate-confirmation-hearings-watch-live-stream-today-2021-01-22/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/09/28c75523-7c0e-44a2-8971-bf4afe7887b0/thumbnail/1200x630g3/9e8b8267d102e561f9ef68978f56e700/gettyimages-1229699676.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "House Speaker Nancy Pelosi says she'll send Trump impeachment to Senate 'soon'"
     excerpt: "House Speaker Nancy Pelosi said Thursday she would \"soon\" send the Senate the impeachment of President Donald Trump, setting the stage for a trial."
     publishedDateTime: 2021-01-21T18:34:00Z

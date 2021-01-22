@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gop-look-to-biden-administration-to
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-look-to-biden-administration-to-lower-temperature-but-voice-skepticism.amp"
 type: article
 quality: 170
-heat: 170
+heat: 210
 published: true
 
 provider:
@@ -29,6 +29,40 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Biden administration’s push to pause deportations, border wall construction 'purely political': Activist"
+    excerpt: "The Biden administration's move to impose a 100-day pause on deportations is \"purely political,\" the father of a victim of illegal alien crime Don Rosenberg said on Friday."
+    publishedDateTime: 2021-01-22T16:15:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YBDxeZ2J8qA/biden-administrations-push-deportations-border-wall-political-rosenberg"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administrations-push-deportations-border-wall-political-rosenberg.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administrations-push-deportations-border-wall-political-rosenberg.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Fauci says it's a 'liberating feeling' to 'let the science speak' in the Biden administration"
+    excerpt: "Dr. Fauci making a lot of news by what he said about the Trump administration. Fauci saying he feels liberated, also adding this. DR. ANTHIONY FAUCI, DIRECTOR, NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES: One of the things that we are going to do is to be completely transparent,"
+    publishedDateTime: 2021-01-22T16:20:00Z
+    webUrl: "https://www.foxnews.com/transcript/fauci-says-its-a-liberating-feeling-to-let-the-science-speak-in-the-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/transcript/fauci-says-its-a-liberating-feeling-to-let-the-science-speak-in-the-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/fauci-says-its-a-liberating-feeling-to-let-the-science-speak-in-the-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1acc131f-5a62-44c1-ac9a-b18cf8abc44b/108d5063-d888-4ba3-9dd4-d038d2019352/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "LlMAhLvko0iotlpnwyEULbpS7uh6rPyU3IYsaySkuXuBBx4M1fan+VDKMgbwUSj9FQNU6oNQ6d3Hkci3kluKyG5wll5bnLxdfJNvWobYMYeLeycDIidf2VbiZ9uBkMA2EXMgbu+P8b+YyIof/4SLAaP+ZBJuac/THupllvv+uRRX74+1pCyDrUjGc3i3q6i/toMKMykPYP/iCJ4pIrNWeGKXj3frUjsrCdQdJhw9yS9Nh4g59UfuKMREaKtjLNIAvG7iDTNuZ8cTvhErQWy75WkS7yoG32G8KYvlD0CO4ncP1UYrnV+QTXPy33XFPE44oKrRbyo9M9wH39xEWT33QhhGiM7YDzjSEOGYNUFMVto=;EJGueo8z56QJA5kvSoVyEQ=="
 ---

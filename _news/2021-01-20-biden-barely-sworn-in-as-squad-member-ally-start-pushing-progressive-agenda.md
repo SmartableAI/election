@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Lloyd Austin: What to know about Biden administration's Secretary of Defense"
+    excerpt: "Retired four-star U.S. general Lloyd Austin has made history Friday by becoming America's first Black Secretary of Defense."
+    publishedDateTime: 2021-01-22T16:01:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3QUvOZhIDvw/lloyd-austin-what-to-know-about-bidens-choice-for-secretary-of-defense"
+    ampWebUrl: "https://www.foxnews.com/politics/lloyd-austin-what-to-know-about-bidens-choice-for-secretary-of-defense.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lloyd-austin-what-to-know-about-bidens-choice-for-secretary-of-defense.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-zxjs75c-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Impeachment a 'complete waste of time' a week before Biden takes office: Rep. Van Duyne"
     excerpt: "Freshman Congresswoman Beth Van Duyne, R-Texas, said Wednesday on \"Fox & Friends\" she will not be joining the five Republicans so far that are voting to impeach President Trump, calling the effort a \"complete waste of time.\""
     publishedDateTime: 2021-01-13T16:08:50Z
