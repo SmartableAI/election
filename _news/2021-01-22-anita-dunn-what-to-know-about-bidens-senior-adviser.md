@@ -301,6 +301,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Senate Confirms Biden Nominee Austin as Defense Secretary"
+    excerpt: "Lloyd J. Austin, a West Point graduate who rose to the Armys elite ranks and marched through racial barriers in a 41-year career,"
+    publishedDateTime: 2021-01-23T16:04:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/23/senate_confirms_biden_nominee_austin_as_defense_secretary_145110.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/23/senate_confirms_biden_nominee_austin_as_defense_secretary_145110.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/23/senate_confirms_biden_nominee_austin_as_defense_secretary_145110.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/533203_5_.jpeg"
+        width: 750
+        height: 499
+        isCached: true
 
 secured: "/njujiIoTnqQ8qHXq5aR5sKWvXxFbFl3pfZ7YYlxOK+GcvQ815+HsJ5ts65T0KG37KujVvCwdg3t159XsV/UEWqGdfu1BomVQFQUsAXd0MUfIiIjEOnPaBn2WtIdOU/xUOH0TNdDscoci/UkqoQPiYutuSI2j+p9cPQCdZCxe1bEZz1dZWtsnbOiopGK61tKh+zdoAoUB7eS2oMmCwhTpN8m6ly6KB8A6HRE4Djo9M8ET6q5wC+AytCmon7kTeCiGR+Fed9u5i5/G45/gKejyn1C6HzWAAZHS0nGIi+fv/5v2rhRzWk4UZtWiT2PGNH2TQ2SBH2vziNTyvCnJGXSbpSMrqG+xkO+pV4iu6pmvwI=;GMD+LcQrRH7ctHT/ojs+cg=="
 ---

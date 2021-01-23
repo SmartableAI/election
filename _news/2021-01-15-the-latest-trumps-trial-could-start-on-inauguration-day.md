@@ -2335,6 +2335,20 @@ related:
       name: San Francisco Chronicle
       domain: sfchronicle.com
     quality: 70
+  - title: "Watch Mike Pence arrive at Biden's inauguration ceremony"
+    excerpt: "Outgoing Vice President Mike Pence and his wife Karen arrive at the inauguration ceremony of President-elect Joe Biden. Outgoing President Donald Trump is not attending the inauguration. He is the"
+    publishedDateTime: 2021-01-20T17:52:00Z
+    webUrl: "https://www.djournal.com/news/national/watch-mike-pence-arrive-at-bidens-inauguration-ceremony/video_c54dbb28-30a9-5a55-886a-5965c943af75.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/c/54/c54dbb28-30a9-5a55-886a-5965c943af75/60085eb647c82.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "Barack Obama, Kamala Harris Share Heartwarming Birthday Tributes For Michelle Obama"
     excerpt: "Barack Obama, Kamala Harris and more shared heartfelt messages for Michelle Obama on her 57th birthday Sunday."
     publishedDateTime: 2021-01-18T04:52:00Z

@@ -2396,6 +2396,22 @@ related:
         width: 1024
         height: 710
         isCached: true
+  - title: "Mike Pence returns to Indiana hometown as vice presidency ends"
+    excerpt: "COLUMBUS, Ind. >> Former Vice President Mike Pence returned Wednesday to his Indiana hometown, where he told a small crowd of family member and supporters that serving in the White House was the greatest honor of his life."
+    publishedDateTime: 2021-01-20T23:13:00Z
+    webUrl: "https://www.staradvertiser.com/2021/01/20/breaking-news/mike-pence-returns-to-indiana-hometown-as-vice-presidency-ends/"
+    ampWebUrl: "https://www.staradvertiser.com/2021/01/20/breaking-news/mike-pence-returns-to-indiana-hometown-as-vice-presidency-ends/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/01/20/breaking-news/mike-pence-returns-to-indiana-hometown-as-vice-presidency-ends/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 75
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2021/01/web1_10869709-15558ed5915f473cbee1866306dac3ca.jpg"
+        width: 760
+        height: 507
+        isCached: true
   - title: "Twitter reacts to President Joe Biden’s inauguration"
     excerpt: "Throughout the inaugurations of Joe Biden and Kamala Harris, Twitter users rushed to share their thoughts on the ceremony, speeches, performances and more."
     publishedDateTime: 2021-01-20T18:50:00Z

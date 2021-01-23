@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-ditches-military-flags-oval-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ditches-military-flags-oval-office-makeover.amp"
 type: article
 quality: 175
-heat: 515
+heat: 535
 published: true
 
 provider:
@@ -300,6 +300,22 @@ related:
       - url: "https://assets.realclear.com/images/53/532403_5_.jpeg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Senate Confirms Biden Nominee Austin as Defense Secretary"
+    excerpt: "Lloyd J. Austin, a West Point graduate who rose to the Armys elite ranks and marched through racial barriers in a 41-year career,"
+    publishedDateTime: 2021-01-23T16:04:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/23/senate_confirms_biden_nominee_austin_as_defense_secretary_145110.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/23/senate_confirms_biden_nominee_austin_as_defense_secretary_145110.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/23/senate_confirms_biden_nominee_austin_as_defense_secretary_145110.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/533203_5_.jpeg"
+        width: 750
+        height: 499
         isCached: true
 
 secured: "uaNkccp+Bb7N27zAhFCRCw1U71/1J2Tp0FvWUjG+MxxBYuAEG758D4ATxJHxi4BARU0ce3+JMK6/DMoAqpOqIJgVD7pbGC7RiZAFwm18hLyVvMEQKUeUuhpZjcXfsixtW57mYb8JFB9N57P9jRCt55OhLCElaK03+XYVeZ9Z12VNo86VXdkqw9kHTTbCp83v9fezC8yG0u2oELQXb+xlldqfT6StjBClDZX2rb2IDir5gfTcy2xGoJDqhtkLwv02ykY1Q/c2Le7ZuCqycUonhGZU2ITzEq4u2MdWCvhtWw5njFrSMBH6QaiH8aq/v9yzz6jWi89FwyNSnMXHFifTplCB4Ogjby8Sov82c4sGLqY=;lpm2kmHOVMp2p1iAdcNqfw=="

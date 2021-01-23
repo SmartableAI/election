@@ -107,6 +107,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Capitol rioter claims he was 'duped' by Trump, lawyer says"
+    excerpt: "The attorney for Anthony Chansley, the so-called \"Qanon Shaman\" who made rounds on social media for his outlandish outfit during the Capitol riot, is blaming former President Trump for his client's involvement in the riot."
+    publishedDateTime: 2021-01-23T16:06:00Z
+    webUrl: "https://thehill.com/homenews/news/535526-capitol-rioter-claims-he-was-duped-by-trump-lawyer-says"
+    ampWebUrl: "https://thehill.com/homenews/news/535526-capitol-rioter-claims-he-was-duped-by-trump-lawyer-says?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/535526-capitol-rioter-claims-he-was-duped-by-trump-lawyer-says?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/horned_man_capitol_riots011221.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "House Speaker Nancy Pelosi says she'll send Trump impeachment to Senate 'soon'"
     excerpt: "House Speaker Nancy Pelosi said Thursday she would \"soon\" send the Senate the impeachment of President Donald Trump, setting the stage for a trial."
     publishedDateTime: 2021-01-21T18:34:00Z

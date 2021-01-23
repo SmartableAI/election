@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donal
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1"
 type: article
 quality: 148
-heat: 2208
+heat: 2228
 published: true
 
 provider:
@@ -1429,6 +1429,17 @@ related:
     webUrl: "https://www.usnews.com/news/world/articles/2021-01-17/south-koreas-moon-urges-biden-admin-to-follow-up-on-kim-trump-summit"
     ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-17/south-koreas-moon-urges-biden-admin-to-follow-up-on-kim-trump-summit?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-17/south-koreas-moon-urges-biden-admin-to-follow-up-on-kim-trump-summit?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Mine OK'd in Trump's Last Days May Boost Biden Energy Plan"
+    excerpt: "The Trump administration granted final approval for a proposed Nevada lithium mine in its last days, adding it to a list of energy and mining projects fast-tracked before President Joe Biden took office."
+    publishedDateTime: 2021-01-23T16:45:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-23/mine-okd-in-trumps-last-days-may-boost-biden-energy-plan"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-23/mine-okd-in-trumps-last-days-may-boost-biden-energy-plan?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-23/mine-okd-in-trumps-last-days-may-boost-biden-energy-plan?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

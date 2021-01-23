@@ -87,22 +87,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "MyPillow Guy among the Trump acolytes picking up the torch"
-    excerpt: "Mike Lindell, the businessman better known to the world as the MyPillow Guy, is weighing a run for governor in Minnesota"
-    publishedDateTime: 2021-01-23T14:47:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_1aeb02288805488587306b003a97079d_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Schumer: Trump impeachment trial to begin week of Feb. 8"
     excerpt: "Opening arguments in the Senate impeachment trial for Donald Trump on the charge of incitement of insurrection will begin the week of Feb. 8."
     publishedDateTime: 2021-01-22T23:31:00Z
@@ -255,6 +239,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "MyPillow Guy Among the Trump Acolytes Picking up the Torch"
+    excerpt: "Mike Lindell, the businessman better known to the world as the MyPillow Guy, is weighing a run for governor in Minnesota."
+    publishedDateTime: 2021-01-23T14:42:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2021-01-23/mypillow-guy-among-the-trump-acolytes-picking-up-the-torch"
+    ampWebUrl: "https://www.usnews.com/news/business/articles/2021-01-23/mypillow-guy-among-the-trump-acolytes-picking-up-the-torch?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-01-23/mypillow-guy-among-the-trump-acolytes-picking-up-the-torch?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "dZmRvtjGd37ZNtVR7k1dxisGEPmYK/pA9ONHUPJTB0p2q1YUcvjM1G7qLNW2x88jXCGyD3aivdIqfuJMMQ4pbL02OsMgvfbBKe/UuMK30JhSCk/e4SrqH0DLJ3lRDO1In3u+mnoVe7eSB11oC1wmZaJ+z95tvfNOyFmVFVC7RBmhDP3+swz7SFlRORauPI+Ia0U5JgEIpDJFwggRDtFlEzHqywsk0Ubzped2GpYO3ewYECqGqxStowypuvlHNBr22E4iAXBQJoEbBHw3ZsCyRWInK4NqhdiRg1+S4tRX2y4JU5KwzdYJb/jldINeMSeo16XsboMzL/pOZuDcDesRWzlA6LX5D3Z/U3VO+IR0G/M=;+Q6Aeiq4LTPnWsJwbSi8VQ=="
 ---

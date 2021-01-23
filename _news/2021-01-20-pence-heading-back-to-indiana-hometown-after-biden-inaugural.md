@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/pence-heading-back-to-indian
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 3870
+heat: 3890
 published: true
 
 provider:
@@ -2384,6 +2384,22 @@ related:
       - url: "https://www.bostonherald.com/wp-content/uploads/2021/01/AP21020614828389.jpg?w=1024&h=710"
         width: 1024
         height: 710
+        isCached: true
+  - title: "Mike Pence returns to Indiana hometown as vice presidency ends"
+    excerpt: "COLUMBUS, Ind. >> Former Vice President Mike Pence returned Wednesday to his Indiana hometown, where he told a small crowd of family member and supporters that serving in the White House was the greatest honor of his life."
+    publishedDateTime: 2021-01-20T23:13:00Z
+    webUrl: "https://www.staradvertiser.com/2021/01/20/breaking-news/mike-pence-returns-to-indiana-hometown-as-vice-presidency-ends/"
+    ampWebUrl: "https://www.staradvertiser.com/2021/01/20/breaking-news/mike-pence-returns-to-indiana-hometown-as-vice-presidency-ends/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/01/20/breaking-news/mike-pence-returns-to-indiana-hometown-as-vice-presidency-ends/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 75
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2021/01/web1_10869709-15558ed5915f473cbee1866306dac3ca.jpg"
+        width: 760
+        height: 507
         isCached: true
   - title: "The Radical Silence of Joe Biden’s Inauguration Day"
     excerpt: "Walking through Washington, D.C., today, the silence in the streets was the sound of a country not quite ready to exhale. It was a fitting end to the noisiest era of American politics that many Americans can remember."

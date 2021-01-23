@@ -1443,6 +1443,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Mine OK'd in Trump's Last Days May Boost Biden Energy Plan"
+    excerpt: "The Trump administration granted final approval for a proposed Nevada lithium mine in its last days, adding it to a list of energy and mining projects fast-tracked before President Joe Biden took office."
+    publishedDateTime: 2021-01-23T16:45:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-23/mine-okd-in-trumps-last-days-may-boost-biden-energy-plan"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-23/mine-okd-in-trumps-last-days-may-boost-biden-energy-plan?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-23/mine-okd-in-trumps-last-days-may-boost-biden-energy-plan?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Top Republicans Ask Biden for Tougher Response to China Sanctions on Trump Officials"
     excerpt: "The Biden administration faced pressure from Republican lawmakers on its second day in office for a more forceful response to Beijing's announcement of sanctions against the architects of former President Donald Trump's tough China policy. As Democrat Joe ..."
     publishedDateTime: 2021-01-21T22:05:00Z

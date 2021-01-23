@@ -95,6 +95,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Capitol rioter claims he was 'duped' by Trump, lawyer says"
+    excerpt: "The attorney for Anthony Chansley, the so-called \"Qanon Shaman\" who made rounds on social media for his outlandish outfit during the Capitol riot, is blaming former President Trump for his client's involvement in the riot."
+    publishedDateTime: 2021-01-23T16:06:00Z
+    webUrl: "https://thehill.com/homenews/news/535526-capitol-rioter-claims-he-was-duped-by-trump-lawyer-says"
+    ampWebUrl: "https://thehill.com/homenews/news/535526-capitol-rioter-claims-he-was-duped-by-trump-lawyer-says?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/535526-capitol-rioter-claims-he-was-duped-by-trump-lawyer-says?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/horned_man_capitol_riots011221.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "House Speaker Nancy Pelosi says she'll send Trump impeachment to Senate 'soon'"
     excerpt: "House Speaker Nancy Pelosi said Thursday she would \"soon\" send the Senate the impeachment of President Donald Trump, setting the stage for a trial."
     publishedDateTime: 2021-01-21T18:34:00Z
@@ -275,6 +291,6 @@ related:
         height: 696
         isCached: true
 
-secured: "5uppmOS2ZDPMmcojimITA4jyZYAZXm7XYDLNZOsvitVDNUuG23Ih53kEcR7xVVn4++fChMMYrOx6cHtueumCXZxyo4pRR/s7bL2MMfWeVwsn8dOw77rANLRA3MbgRx0OWzi1UvapwYk3XvPQTLVnM9b9/X3lfzikskz20fZ0yaE4AYKv/km61M6GN/iGMepDQ2UjJxAjXP15y9IOSi6siXc5CNXa98wxLspEqVFa4WS0DTp6VCtxMRLaxcLNNKFtnvEJV1wgvydlmvJstnPGyYIMwkhfWfcxJG7xBa/YeBbJXwwvH0tdbAJ1u4DfSsB6FNi5e1BeRGHhxXPdOHeNdTPknUHJ9x30n9FES8q2mGs=;uRP8V0E11PayIAOnjUPIkQ=="
+secured: "unqSRWMttxGCFZPTeyqc94ACltXNUL7Uzw5tapzdtxEsv6cvYBMtdjKdnZ9yGr8HusjNbs3lW5Fj/F097dTHxhuU09RjGY8O8JXns1xG+AQ/3rEE/QgXpNGZRyECKQDMfkoAeptbjqraUJ+hvjdNu97+JlT0SKdgjkgT3RY28eqvex3BEjleQMRYCpLJDGPtLHjwSvWRwKLD9DaL/vEzon8G/ZfDtPaVc7NQjZpVoD41VGYXFgyF+tbrcD2H+vHXS2XmoV7cr3KSnjzwNEeM0mVyUkGgWUPCwqgb+PQeQb6+CWmMA40yzx/EyCkl8MOC1S/61ibqY8qw6grJnaOsUksUWSfQmzQedb710ibgCOnYhpPs1Y5UVhUHGl2A7+DCp5ide/xYgNVY8uy/GwQhtCULpUZUBU1duVt0tskAxaoQ4Vep6oj3q9kmcVeM6562A9fTSW1l0n5+rE9z4sMC/b9lXg20jiynjKn+r3UsPl3+kuH8BmmrWt9B1Kc2AoMsB1+hMOqvYEgU6MyL/1QplQ==;zLRbS59Z9F2vDI5fxuRtWg=="
 ---
 

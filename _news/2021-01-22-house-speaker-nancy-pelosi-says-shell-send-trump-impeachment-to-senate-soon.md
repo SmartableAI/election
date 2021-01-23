@@ -111,6 +111,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Capitol rioter claims he was 'duped' by Trump, lawyer says"
+    excerpt: "The attorney for Anthony Chansley, the so-called \"Qanon Shaman\" who made rounds on social media for his outlandish outfit during the Capitol riot, is blaming former President Trump for his client's involvement in the riot."
+    publishedDateTime: 2021-01-23T16:06:00Z
+    webUrl: "https://thehill.com/homenews/news/535526-capitol-rioter-claims-he-was-duped-by-trump-lawyer-says"
+    ampWebUrl: "https://thehill.com/homenews/news/535526-capitol-rioter-claims-he-was-duped-by-trump-lawyer-says?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/535526-capitol-rioter-claims-he-was-duped-by-trump-lawyer-says?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/horned_man_capitol_riots011221.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Impeachment needed to bar Trump from running for federal office: Rep. Joaquin Castro"
     excerpt: "House impeachment managers are prepared to chase every single Senate vote in an attempt to convict President Donald Trump for inciting insurrection, Rep. Joaquin Castro, D-Texas, said on ABC's \"This Week\" Sunday."
     publishedDateTime: 2021-01-17T16:03:00Z

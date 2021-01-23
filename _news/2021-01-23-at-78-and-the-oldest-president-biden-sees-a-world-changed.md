@@ -2384,6 +2384,22 @@ related:
         width: 1024
         height: 710
         isCached: true
+  - title: "Mike Pence returns to Indiana hometown as vice presidency ends"
+    excerpt: "COLUMBUS, Ind. >> Former Vice President Mike Pence returned Wednesday to his Indiana hometown, where he told a small crowd of family member and supporters that serving in the White House was the greatest honor of his life."
+    publishedDateTime: 2021-01-20T23:13:00Z
+    webUrl: "https://www.staradvertiser.com/2021/01/20/breaking-news/mike-pence-returns-to-indiana-hometown-as-vice-presidency-ends/"
+    ampWebUrl: "https://www.staradvertiser.com/2021/01/20/breaking-news/mike-pence-returns-to-indiana-hometown-as-vice-presidency-ends/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2021/01/20/breaking-news/mike-pence-returns-to-indiana-hometown-as-vice-presidency-ends/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 75
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2021/01/web1_10869709-15558ed5915f473cbee1866306dac3ca.jpg"
+        width: 760
+        height: 507
+        isCached: true
   - title: "The Radical Silence of Joe Biden’s Inauguration Day"
     excerpt: "Walking through Washington, D.C., today, the silence in the streets was the sound of a country not quite ready to exhale. It was a fitting end to the noisiest era of American politics that many Americans can remember."
     publishedDateTime: 2021-01-20T23:30:00Z
@@ -2846,6 +2862,6 @@ related:
         height: 800
         isCached: true
 
-secured: "jl9/U7gcYJxWphbC9HmB+t9Oq52/hlciR09WWgHLvfCEZQRBOqSzgm4a48AWrmHaa2v3m2o3xqemS93xP/TQ2en3PdRJo82ZpEEzU0dKB4gB3M7fQNBGFmfI906aRw6canhRJIpV6EktMgIwcnB+lPWPQKkftuOfmgfbGNen/qpQQhbU+TIAqYKtJRO3R9SMc97bPO6xUy8wrnXrg/z3Xbr66OjqYvKq6OmIEbp80iYLXvIeViiXpCRiLP6z4o+fc+8XBDsJdk9j/vLbrgim+wpG7kbvpFuOHT1w4D13PxChENqh62BHAbtMh4qiO8k4z7nfaYYUae8YX2vD4c39LiSARI+DhpH8cunXg6B5O8c=;3gR3M3sR7FvvYkh+bDuQSQ=="
+secured: "OHy0yHbXAIMjQQu7quI6XOhhDgFZIx3s/E/XpyNZi1cpZMbJxwzGGnyjy9joSy4hdgCjdLaPPlJlLWu9f0KNBzIxEz+DWhLL1A7BrEXTjiFuYapPAbtjzjMZhE11he79vE4DB0AJTKP10+tA6MEEAnA9HPQFOyvyY4bZcXYyf4uzUwJi6nvnSffMoqtwyNmuPiyL+T2FBKgQOXZ1xgpfFDT1TEVCmCPL6Gxc64EnMJYDhtvQRkJxmXJTa5gjowNIKM/fSUKgfLU2H1WHuIrzUxlYtw4rMvagLObpfhJ5obfm0NpKgm7PxrAzGJcFWrzwYzruIXgoJIR8RHvhF0KjvGgzOy/ZegTcn5V3tfplp7moeebN1ZtFFdOpsOD5/XnoVdag+9kOGm0rMs4dnevg632TvVjvU5mNSrZwpbJPawqOQcpNITk7RVBCnDdgyDsWFervWJpH8c1+FUHuUGeJ4shVzFi9St3q9TwmrhqQxCS9YAGTgWZDjUNf1+n1C5vHYZQpSAxayE4g2x/q17dpjw==;JZFlmKm7GQr0swuKWKuMdA=="
 ---
 

@@ -2352,6 +2352,20 @@ related:
       name: San Francisco Chronicle
       domain: sfchronicle.com
     quality: 70
+  - title: "Watch Mike Pence arrive at Biden's inauguration ceremony"
+    excerpt: "Outgoing Vice President Mike Pence and his wife Karen arrive at the inauguration ceremony of President-elect Joe Biden. Outgoing President Donald Trump is not attending the inauguration. He is the"
+    publishedDateTime: 2021-01-20T17:52:00Z
+    webUrl: "https://www.djournal.com/news/national/watch-mike-pence-arrive-at-bidens-inauguration-ceremony/video_c54dbb28-30a9-5a55-886a-5965c943af75.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/c/54/c54dbb28-30a9-5a55-886a-5965c943af75/60085eb647c82.image.jpg?resize=576%2C324"
+        width: 576
+        height: 324
+        isCached: true
   - title: "What it will mean to have Californian Kamala Harris in the room at the White House"
     excerpt: "Kamala Harris is the first vice president from the West Coast since Richard Nixon served under President Dwight Eisenhower more than 60 years ago. She’s the first woman, Black and South Asian to hold the office."
     publishedDateTime: 2021-01-20T09:00:00Z
