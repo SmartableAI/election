@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-arlington-wreath-layin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-arlington-wreath-laying-ceremony.amp"
 type: article
 quality: 200
-heat: 540
+heat: 560
 published: true
 
 provider:
@@ -303,6 +303,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "She Did It: Kamala Harris Makes History"
+    excerpt: "When I interviewed Vice President–elect Kamala Harris last year at the Essence Festival, she had plenty of wisdom to share about the challenges a Black woman faces when pursuing national office. “Some might think that breaking barriers means you start off on one side of the barrier,"
+    publishedDateTime: 2021-01-21T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/21/she_did_it_kamala_harris_makes_history_534005.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/532933_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "HB+tRKSKv991mLZOglGo8NqNwvFC2cqwwLFtz3kda3hTdXV4fPLaD85Vs6SouArbb3/ZKuA/qeHQSJOZGjVTGCSzeam8DzRhbFhsmSHbuLHv9ywYPcu8QcI9SODLMTj/FBg3vUcju18Llt2vI/Gi6qOQ4ofCJtRZEZOEwLnNLVu8L3HauqmPxwriKWyHhOcBte/2GWeFXmAtI+smZjXVxdTlv3BjVEvc4uanzo/ugAcxRiHOfnbAlH0URp3FXdPIUgWcwVpK5kPbCekps+w5iXO4IsPkfV6t71MxMFb9kdCR83jXuN9CZvR5uBntYLexFETCagLgBawkbHFYCT2knOuMZtKv1010Ac8TytSogDI=;1/hTXdDyoa8/3QBe4z9EKA=="

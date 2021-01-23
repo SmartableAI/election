@@ -1998,6 +1998,22 @@ related:
         width: 911
         height: 477
         isCached: true
+  - title: "Whither the Republican Party After Trump?"
+    excerpt: "Readers discuss the split in the party between those who continue to support Donald Trump and those who have regrets."
+    publishedDateTime: 2021-01-23T17:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/23/opinion/letters/republican-party-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/23/opinion/letters/republican-party-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/23/opinion/letters/republican-party-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/20/opinion/20trumpNew/20blowWeb-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Biden will halt federal executions, other actions on first day in office"
     excerpt: "The president-elect has a long list of executive actions he plans to take as soon as he's sworn in on Jan. 20."
     publishedDateTime: 2021-01-18T13:21:00Z

@@ -127,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hawley, Stefanik call for investigation into Chinese role in coronavirus outbreak, as Biden restores WHO ties"
+    excerpt: "Sen. Josh Hawley, R-Mo., and Rep. Elise Stefanik, R-N.Y., are calling for an international investigation into the origins of the coronavirus outbreak and China’s role in it -- just as President Biden moved to rejoin the World Health Organization (WHO)."
+    publishedDateTime: 2021-01-23T16:52:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ECfLSVCxD9g/hawley-stefanik-chinese-role-covid-19-who"
+    ampWebUrl: "https://www.foxnews.com/politics/hawley-stefanik-chinese-role-covid-19-who.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-stefanik-chinese-role-covid-19-who.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2aaa66f8-bbe7-4556-962f-d97174322799/fd214d38-a9b8-49c0-826b-ed3c4961d706/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "SHhrgY+lFon+DZcD+pou1Ca8RnNucAMnKhDw3QiKhNF6lhdjKnIZrCEmphjySy8s8t8Hru2iq7XP1ADBPWTx8ehnbyljfRWGpVtQwx/PGGuyswDVyvv9FeOrJZGQUGSmbpF+tIIPUy3K77yj4+Fb9b5qlgcsji+Pnu+potEmQpjRH/1Nza4CnGNDyM/oYrGxoLfUmRXVxALEBKppJv5pMBt2WGd6DJmH8W/voag/BL1xMYOwaI+l142vqMevdXxkbDaxHvC8NEPPXAnR0/QHuFCxvGGIQB/VLx5+peZz5z2lDcWnxRBJYYZmO/yL0ZLTiSoKuYG6Y2/DzvHGOczEWTi5a4BNWY4/+DZtsh76wqg=;whEoeTPMr5i/uhtfR3jIlA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-adviser-slavitt-m
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-adviser-slavitt-masks.amp"
 type: article
 quality: 173
-heat: 293
+heat: 313
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 156
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02ffb9d0-2cf9-48be-ab41-b1de73501fc5/9e9d4d74-cf2f-45e3-b809-ad89a8a6aee2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hawley, Stefanik call for investigation into Chinese role in coronavirus outbreak, as Biden restores WHO ties"
+    excerpt: "Sen. Josh Hawley, R-Mo., and Rep. Elise Stefanik, R-N.Y., are calling for an international investigation into the origins of the coronavirus outbreak and China’s role in it -- just as President Biden moved to rejoin the World Health Organization (WHO)."
+    publishedDateTime: 2021-01-23T16:52:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ECfLSVCxD9g/hawley-stefanik-chinese-role-covid-19-who"
+    ampWebUrl: "https://www.foxnews.com/politics/hawley-stefanik-chinese-role-covid-19-who.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-stefanik-chinese-role-covid-19-who.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2aaa66f8-bbe7-4556-962f-d97174322799/fd214d38-a9b8-49c0-826b-ed3c4961d706/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

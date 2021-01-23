@@ -1,28 +1,34 @@
 ---
 category: news
-title: "MyPillow Guy Among the Trump Acolytes Picking up the Torch"
-excerpt: "Mike Lindell, the businessman better known to the world as the MyPillow Guy, is weighing a run for governor in Minnesota."
-publishedDateTime: 2021-01-23T14:42:00Z
-originalUrl: "https://www.usnews.com/news/business/articles/2021-01-23/mypillow-guy-among-the-trump-acolytes-picking-up-the-torch"
-webUrl: "https://www.usnews.com/news/business/articles/2021-01-23/mypillow-guy-among-the-trump-acolytes-picking-up-the-torch"
-ampWebUrl: "https://www.usnews.com/news/business/articles/2021-01-23/mypillow-guy-among-the-trump-acolytes-picking-up-the-torch?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2021-01-23/mypillow-guy-among-the-trump-acolytes-picking-up-the-torch?context=amp"
+title: "MyPillow Guy among the Trump acolytes picking up the torch"
+excerpt: "Mike Lindell, the businessman better known to the world as the MyPillow Guy, is weighing a run for governor in Minnesota"
+publishedDateTime: 2021-01-23T14:47:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
+webUrl: "https://abcnews.go.com/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_1aeb02288805488587306b003a97079d_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "GOP Congresswoman on voting to impeach Trump: \"I felt like I had to\""
@@ -251,6 +257,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "JdOqhwzeRlRb0X3LrDYFtYQvugCpQo1j1Huvo6WR+GD3MsmYATkZITTx5npxrWrvF+ICwdU8H//128LUPG+8voPKkyOPQKSnTDqPNXq0Qk6VRCA6SNlbtbaggsUNA8N+XnjQdvYYA5Q5V9y0vxNglGFfORiUx9a/i2NR6pe3BvIEGzf9rDOBznA5Rty9pT8aoBjYfDGNHefVHViEc2aqBtepF0Ekh0hLXVEuiwwxhvBbBZAUDQfe6zQPmQJ5Ho29RrkdRI2lo2cvZjxbZmuNz1Ili6Yb2hqqfYqOm4dwVUdpDxA+SKJ4U8eLTj2YQrPgbgwiLbpVYf5jkDazBlHXYSxQ8c+Khn1HtoH9ZAfu6rEBmNpHrlTJSykNzuv2Mi5dkJaZo6fy4Tn9kYJvXHcuWh0C2VSKQouix0O/+y5WzBjWMeQy9+2PdnPcNvCOm1sRFhIhfnxB/obiKR5+h+wltqn1nieQA9QgqgYSitxfwPrvfP1068ogzdGHQcnOzEFFK9PHuBlI4lCsMgb5jheraw==;R0Zn2aqJvgLTp3NoqXDTfg=="
+secured: "yWU6RQJJ/7TIWLcU5BX68muvWUQO0Jj6c3XMu37CSQQHP8RJCqMQBOcUJSYQAHOi34gVlwf8ir7OlDFkw6J2AXInm/Ke5hgEvO0Ie5NW5aauxAgOCGeSfmvoBp/AQRb3Uzvbtox72XiWIb6lH6GF+xMR8K9a3uS2niryoS5IBBU20GPfLsHyXyeGMfmCxiKpgTXg8DWHM9gmYRTwEVEIjVL1Wjboj+utbzBKGojFufez0XyNaMHeFAhw/jqqx7NHyZo2Ok4h61L89emEBDebOyq+AHMMdhS0UFDVVj0ne2VycUHlU4RgrFarLWBhQQORw+zg9aJvQf6cgkW15FA0+sDaN7oZTtmlQU5qIa5R044=;guPbOQ8+ekFbjH+zPrQgHw=="
 ---
 

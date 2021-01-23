@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-01-trump-attacks-and-vote-by-mail-the-top-voting-rights-stories-of-2020.md",
+      "title": "Trump attacks and vote by mail: the top voting rights stories of 2020",
+      "excerpt": "The pandemic created new barriers to the ballot box and strengthened existing ones – aided by the president and his Republican allies",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5e11026192d8237ee0edc6181e2e4ab0c7fbb0e7/0_0_4000_2668/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9483731ba5514da97ac2b855bfcd44c3",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
+      "publishedDateTime": "2021-01-01T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-01-trump-reflects-on-his-historic-victories-in-new-year-message.md",
       "title": "Trump reflects on his 'historic victories' in new year message",
       "excerpt": "Biden looks ahead to 2021 in upbeat message as Trump points out he correctly predicted arrival of vaccine before year’s end",
@@ -1512,58 +1564,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-25-for-gods-sakes-get-out-of-the-way-trumps-former-national-security-adviser-urges-him-to-fund-the-us-military.md",
-      "title": "'For God's sakes, get out of the way': Trump's former national security adviser urges him to fund the US military",
-      "excerpt": "Former national security adviser John Bolton told Trump to \"get out of the way\" and said he was \"not a conservative.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/john-bolton-trump-get-out-of-the-way-ndaa-2020-12",
-      "originalUrl": "https://www.businessinsider.com/john-bolton-trump-get-out-of-the-way-ndaa-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe4e2caa644880018193562?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/john-bolton-trump-get-out-of-the-way-ndaa-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/john-bolton-trump-get-out-of-the-way-ndaa-2020-12?amp",
-      "publishedDateTime": "2020-12-24T13:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

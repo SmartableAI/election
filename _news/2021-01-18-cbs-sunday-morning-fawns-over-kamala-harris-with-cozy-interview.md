@@ -304,6 +304,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "She Did It: Kamala Harris Makes History"
+    excerpt: "When I interviewed Vice President–elect Kamala Harris last year at the Essence Festival, she had plenty of wisdom to share about the challenges a Black woman faces when pursuing national office. “Some might think that breaking barriers means you start off on one side of the barrier,"
+    publishedDateTime: 2021-01-21T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/21/she_did_it_kamala_harris_makes_history_534005.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/532933_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "CB3ajsTIKJY+C50nyhS6Qp5njVVJTHQj5/qY57bmUKqh8ZvN10RBIbXf5QiCIENIRdYppPGyWaCR68pwh5GDvPv+9z5xfX/7Jt05TXcbA5XOR1dlNKfLkKB/jOOssoVibtY3/KT7EKLT1+MOzp7awtO5vdwrBQqTZIr2s7bEkOKg1qbguWIZiMz89bzyyQ7FlPOi/fZ4kpDy6OzrZfWPMlwCLYoXDW7GdHyvemjfXG6YgdMOg14QzrwCkOM1SWQswdYN+BlacdQqmJZoeXqotH9Eym2qR2RTbsbofRcZk6tg4YjpGP0MY7V0k3PJm90BbxZLRtWBCP0EMMJniosNvodNUFLP0n2cW97fJKKJ10iSE8CMPGq7JFCHYI5p9fqjogBYZyNjA08s8ewQvs/AaCjW0Nh4nc6ipBAZ0axVV6B9uAWGimPlbc1YF1tK0LdGB6lc3VKq0lyXN9DsUGoq31thnAfQFl2S+uAg+WoOOQBuipDvFLaskaeylZ5XzhWmftnafHEEB0R2M4+xkPRiDw==;MnD05mAg1cG0xeLQsnZgXg=="
 ---

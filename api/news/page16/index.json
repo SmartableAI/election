@@ -2,6 +2,114 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-01-04-biden-dni-pick-avril-haines-raises-eyebrows-with-previous-job-at-bookstore-known-for-erotica-readings.md",
+      "title": "Biden DNI pick Avril Haines raises eyebrows with previous job at bookstore known for erotica readings",
+      "excerpt": "Long before she was nominated by President-elect Joe Biden to oversee the nation’s intelligence apparatus, Avril Haines co-owned an independent bookstore that hosted “erotica nights.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQ3l45Hg8cU/biden-dni-pick-avril-haines-bookstore-known-for-erotica-readings",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQ3l45Hg8cU/biden-dni-pick-avril-haines-bookstore-known-for-erotica-readings",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Avril-Haines1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-dni-pick-avril-haines-bookstore-known-for-erotica-readings.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dni-pick-avril-haines-bookstore-known-for-erotica-readings.amp",
+      "publishedDateTime": "2021-01-04T14:54:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-05-joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-and-perdue-elected.md",
+      "title": "Joe Biden Says $2,000 Stimulus Checks 'Will Never Get There' if Loeffler and Perdue Elected",
+      "excerpt": "\"In America, as our opposition friends are finding out, all power flows from the people,\" President-elect Joe Biden said Monday. \"That's our history. That's our law, that's our tradition, that's our constitution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-perdue-elected-1558862",
+      "originalUrl": "https://www.newsweek.com/joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-perdue-elected-1558862",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1698187/joe-biden-campaigns-georgia-dems-senate.jpg",
+          "width": 2500,
+          "height": 1720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-perdue-elected-1558862?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-says-2000-stimulus-checks-will-never-get-there-if-loeffler-perdue-elected-1558862?amp=1",
+      "publishedDateTime": "2021-01-04T14:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-05-pence-we-got-our-doubts-about-the-last-election.md",
       "title": "Pence: We 'got our doubts about the last election'",
       "excerpt": "We 'got our doubts about the last election' Posted . Stumping for two Republican candidates in races that will determine control of the U.S. Senate, U.S. Vice Pres",
@@ -1206,114 +1314,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-03-on-the-anniversary-eve-of-the-drone-strike-ordered-by-trump-that-killed-its-top-general-iran-reveals-its-plan-to-enrich-uranium-to-20-purity.md",
-      "title": "On the anniversary eve of the drone strike ordered by Trump that killed its top general, Iran reveals its plan to enrich uranium to 20% purity",
-      "excerpt": "\"We are like soldiers and our fingers are on the triggers,\" the head of Iran's civilian atomic energy organization said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/iran-start-enriching-uranium-to-20-purity-in-latest-brinkmanship-2021-1",
-      "originalUrl": "https://www.businessinsider.com/iran-start-enriching-uranium-to-20-purity-in-latest-brinkmanship-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ff09eeea18a450018cb684d?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/iran-start-enriching-uranium-to-20-purity-in-latest-brinkmanship-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/iran-start-enriching-uranium-to-20-purity-in-latest-brinkmanship-2021-1?amp",
-      "publishedDateTime": "2021-01-02T08:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-02-iran-foreign-minister-warns-trump-fireworks-will-backfire-as-tensions-escalate.md",
-      "title": "Iran foreign minister warns Trump 'fireworks will backfire,' as tensions escalate",
-      "excerpt": "Amid heightened tensions between the U.S. and Iran, Iranian Foreign Minister Javad Zarif on Saturday warned President Trump that any \"fireworks would backfire.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gkB2d3g5suw/iran-foreign-minister-trump-fireworks-tensions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gkB2d3g5suw/iran-foreign-minister-trump-fireworks-tensions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da8e2e81-5d8e-4402-af75-20071631d3d5/a53734ae-089b-4aba-b13a-78de4459ea84/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/iran-foreign-minister-trump-fireworks-tensions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iran-foreign-minister-trump-fireworks-tensions.amp",
-      "publishedDateTime": "2021-01-02T08:40:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

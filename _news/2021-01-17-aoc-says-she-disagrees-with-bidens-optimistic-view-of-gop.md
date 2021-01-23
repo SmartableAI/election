@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/aoc-disagrees-bidens-optimistic-vie
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-disagrees-bidens-optimistic-view-gop.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad6f975f-2399-413d-a8ab-145d8c6f7a59/a3cbad7f-2295-4d5f-8b56-7ffdfa70f118/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "GOP rep who offered to work with Biden says call for unity 'not off to a great start'"
+    excerpt: "Rep. Beth Van Duyne, who offered to work with President Biden on bipartisan solutions, says the Democratic president has turned off some Republicans with a flurry of executive orders reversing the former administration's policies."
+    publishedDateTime: 2021-01-23T18:21:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_VI4nlVc-g/gop-beth-van-duyne-offered-work-with-biden-call-for-unity-not-off-to-great-start"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-beth-van-duyne-offered-work-with-biden-call-for-unity-not-off-to-great-start.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-beth-van-duyne-offered-work-with-biden-call-for-unity-not-off-to-great-start.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/beth-van-duyne.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden confronted with migrant caravan challenge as he takes office, GOP blames campaign rhetoric"
     excerpt: "Among the litany of challenges that will confront President-elect Joe Biden when he assumes office Wednesday -- including the coronavirus pandemic, emboldened enemies like Iran, and confirming critical nominees amid a Trump impeachment trial -- will be handling a large migrant caravan currently making"

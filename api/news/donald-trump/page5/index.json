@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-06-trump-impeachment-again-ocasio-cortez-wants-it-but-democrats-say-no.md",
+      "title": "Trump Impeachment Again? Ocasio-Cortez Wants It, But Democrats Say 'No'",
+      "excerpt": "Cortez calls for Trump's impeachment following the leaked audio recording Omar also believes Trump's actions warranted impeachment Other progressives believe there is no time for an impeachment hearing Democratic Rep.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253",
+      "originalUrl": "https://www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/alexandria-ocasio-cortez-the-darling-of-the-us.jpg",
+          "width": 1024,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-again-ocasio-cortez-wants-it-democrats-say-no-3115253?amp=1",
+      "publishedDateTime": "2021-01-05T19:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-06-white-house-denies-reports-trump-will-be-in-scotland-during-inauguration-after-scottish-leader-warns-golf-is-not-essential-travel.md",
       "title": "White House denies reports Trump will be in Scotland during inauguration, after Scottish leader warns golf is not essential travel",
       "excerpt": "The speculation began with curious activity by U.S. military aircraft reported circling President Trump's Turnberry golf resort in western Scotland in November. Then the Sunday Post in Scotland reported that Glasgow Prestwick Airport “has been told to expect the arrival of a US military Boeing 757 aircraft,",
@@ -1463,58 +1515,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-trump-attacks-and-vote-by-mail-the-top-voting-rights-stories-of-2020.md",
-      "title": "Trump attacks and vote by mail: the top voting rights stories of 2020",
-      "excerpt": "The pandemic created new barriers to the ballot box and strengthened existing ones – aided by the president and his Republican allies",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/5e11026192d8237ee0edc6181e2e4ab0c7fbb0e7/0_0_4000_2668/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9483731ba5514da97ac2b855bfcd44c3",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/01/trump-attacks-vote-by-mail-voting-rights",
-      "publishedDateTime": "2021-01-01T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

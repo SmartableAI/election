@@ -532,6 +532,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden tells Mexican president he will end Trump's 'draconian' immigration policies"
+    excerpt: "President Biden on Friday told Mexican President Andres Manuel Lopez Obrador that he will reverse the Trump administration’s “draconian” immigration policies -- in a week in which the new U.S. president has signed a flurry of immigration orders."
+    publishedDateTime: 2021-01-23T17:51:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G3cN_-qnf9M/biden-mexican-trumps-draconian-immigration-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mexican-trumps-draconian-immigration-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mexican-trumps-draconian-immigration-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99ab8250-fc46-4f43-9e55-afd09796d92a/ad8ba09d-f095-493c-992d-ba46b7c61ba0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden advised against dismissing all of Trump’s foreign policy achievements in China"
     excerpt: "A new on U.S. national security says it would be a mistake to ignore the outgoing administration’s foreign policy in the aftermath of last week’s riot in Washington D.C."
     publishedDateTime: 2021-01-15T01:25:03Z
@@ -657,6 +673,22 @@ related:
     quality: 178
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b94da582-5e9f-407a-8c65-defdb1cf4b39/697b1763-a3c2-4141-a77e-bc320306fa5a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden agrees with Trump State Department on one issue: China committed genocide against Uyghurs"
+    excerpt: "In a rare occasion of agreements, Joe Biden is on the same page with the Trump administration when it comes to the Chinese Communist Party’s treatment of Ethnic Uyghurs in China’s Xinjiang region: It is a genocide."
+    publishedDateTime: 2021-01-23T17:35:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uZB1MRN0c5E/biden-trump-china-genocide-uyghurs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-china-genocide-uyghurs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-china-genocide-uyghurs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e459d36c-6438-49da-9400-7762e98c138b/15da981b-2b57-4021-905b-fa115da6fd1e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

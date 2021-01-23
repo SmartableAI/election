@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-26-joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea.md",
+      "title": "Joe Biden’s niece Caroline gets no jail time after DUI guilty plea",
+      "excerpt": "Joe Biden’s niece Caroline Biden pleaded guilty to DUI on Dec. 3 — and was sentenced to 20 days to six months of “confinement,” Pennsylvania court records said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea?wp0",
+      "originalUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea?wp0",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/caro222.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea.amp",
+      "publishedDateTime": "2020-12-25T19:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-25-biden-teams-multibillion-dollar-school-testing-plan-takes-shape.md",
       "title": "Biden team's multibillion-dollar school testing plan takes shape",
       "excerpt": "The proposal under consideration calls for the federal government to cover the cost of providing tests to K-12 schools throughout the country.",
@@ -1549,63 +1606,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-vc-daily-venture-firms-ready-for-payday-nvca-lobbies-biden-with-letter-softbank-ends-year-on-high-note.md",
-      "title": "VC Daily: Venture Firms Ready for Payday; NVCA Lobbies Biden With Letter; SoftBank Ends Year on High Note",
-      "excerpt": "Last week, the National Venture Capital Association sent a letter to President-elect Joe Biden to get a lobbying head start.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/vc-daily-venture-firms-ready-for-payday-nvca-lobbies-biden-with-letter-softbank-ends-year-on-high-note-11607955869",
-      "originalUrl": "https://www.wsj.com/articles/vc-daily-venture-firms-ready-for-payday-nvca-lobbies-biden-with-letter-softbank-ends-year-on-high-note-11607955869",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.wsj.net/img/meta/wsj-social-share.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-14T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],
