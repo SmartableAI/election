@@ -75,6 +75,17 @@ related:
         width: 2500
         height: 1712
         isCached: true
+  - title: "Kamala Harris' Inauguration Dress Made by Louisiana Designer"
+    excerpt: "BATON ROUGE, La. (AP) — The father of the Baton Rouge native who designed Kamala Harris’ dress for Wednesday’s inauguration said watching the vice president take the oath of office in a purple dress his son designed is one of the proudest moments of his life."
+    publishedDateTime: 2021-01-23T20:49:00Z
+    webUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2021-01-23/kamala-harris-inauguration-dress-made-by-louisiana-designer"
+    ampWebUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2021-01-23/kamala-harris-inauguration-dress-made-by-louisiana-designer?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/louisiana/articles/2021-01-23/kamala-harris-inauguration-dress-made-by-louisiana-designer?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "'We want to gloat': Vice President Kamala Harris' San Antonio sorority sisters celebrate"
     excerpt: "San Antonio women are celebrating one of their own as Kamala Harris becomes the first woman of color to be inaugurated as vice president of the United States."
     publishedDateTime: 2021-01-20T17:04:00Z
@@ -103,6 +114,15 @@ related:
         width: 2048
         height: 1352
         isCached: true
+  - title: "Kamala Harris' Alpha Kappa Alpha Sorority Sisters Celebrate"
+    excerpt: "JACKSON, Miss. (AP) — As Kamala Harris took the oath of vice president on Wednesday, her Alpha Kappa Alpha Sorority Inc. sisters across Mississippi celebrated the historic moment."
+    publishedDateTime: 2021-01-23T20:46:00Z
+    webUrl: "https://www.usnews.com/news/best-states/mississippi/articles/2021-01-23/kamala-harris-alpha-kappa-alpha-sorority-sisters-celebrate"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "YO53+XBmk+AVFFu/lfgMbHYlZ62i0e8qhGRYKXWmpKkD3w++KuyiO3+iIwq7ioyOOL8RQdmiFnCMXYcvgsi7weF0eWEutq96KLaqW+C/MFaeLWIcKelVTlcgjoWxjgIxbAiS4uLR+BhaCmnFCcZIgHmP4t3lhOoiPl3RORLWTCAlmmJDZqlkP+JdTp+CTUE1LfRG/jP+zU9nBMgk16EZnLFQ7EHPNs6iXmA5KFcOJ//rKdp3IYEKrydlGywWOvLK2kGfQ9shi5VhpoVwVo0ofjrb90ag9KH79mmCha9wm4TAd+8YM5HCwYeO2gZcZLNNKhFLTzvJPfM9sMXd/ohMG8N8/87P/qZ5R5K81ejuDq+5VFQmsXx972OxXTenUWGztYiTGcGONxZmyygzqlAseATR2lVcTa1txNBhJJ+CdyaTCn/WoQ8JA1JlvLDdfnRb07cBZWcNFO6axgI0XH4PtIsH4IgkIOz1aF67l78WqNyLKqlRzca4xea9uQyd6Ptfi+z4+OK4UjsecFxt4KBzbw==;yLtrVKTvB2TEDk7zRyMh7A=="
 ---

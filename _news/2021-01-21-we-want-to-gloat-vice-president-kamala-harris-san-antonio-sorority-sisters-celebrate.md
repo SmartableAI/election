@@ -85,6 +85,17 @@ related:
         width: 2048
         height: 1352
         isCached: true
+  - title: "Kamala Harris' Inauguration Dress Made by Louisiana Designer"
+    excerpt: "BATON ROUGE, La. (AP) — The father of the Baton Rouge native who designed Kamala Harris’ dress for Wednesday’s inauguration said watching the vice president take the oath of office in a purple dress his son designed is one of the proudest moments of his life."
+    publishedDateTime: 2021-01-23T20:49:00Z
+    webUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2021-01-23/kamala-harris-inauguration-dress-made-by-louisiana-designer"
+    ampWebUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2021-01-23/kamala-harris-inauguration-dress-made-by-louisiana-designer?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/louisiana/articles/2021-01-23/kamala-harris-inauguration-dress-made-by-louisiana-designer?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Berkeley parents to stage 'sit-in' for reopening schools at Kamala Harris' old elementary school"
     excerpt: "A group of Berkeley parents are preparing to stage a sit-in at Vice President-elect Kamala Harris' elementary school to demand that schools reopen \"as soon as public health officials deem it safe,\" according to a news release."
     publishedDateTime: 2021-01-12T18:39:00Z
@@ -99,6 +110,15 @@ related:
         width: 2048
         height: 1352
         isCached: true
+  - title: "Kamala Harris' Alpha Kappa Alpha Sorority Sisters Celebrate"
+    excerpt: "JACKSON, Miss. (AP) — As Kamala Harris took the oath of vice president on Wednesday, her Alpha Kappa Alpha Sorority Inc. sisters across Mississippi celebrated the historic moment."
+    publishedDateTime: 2021-01-23T20:46:00Z
+    webUrl: "https://www.usnews.com/news/best-states/mississippi/articles/2021-01-23/kamala-harris-alpha-kappa-alpha-sorority-sisters-celebrate"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "T2QQ+o1cx5s8BCLLDyuLGo9utoLpEVKqQle+CtjntRRJfrhv4KJb6oxLigIh27T6xbOjYX4WigBw5SLHoEBV5FZBDUx9ql/k3X1v3CxtiFUEJ2hShBJcKch4LZ5n5JkBmzod5xO1Nkro5xSg8KSB6sMUfGVjj+7oOOL264yJS1FHjPAttWi8fIIO9fNUaGU3x3Ikz8Jc4dMGj92Xy8aPsI6X1JY9/EsPQlocKjhgFlePoZLBjqHW7mQXGp7SDXuFDi3TlUEOjQthhAIPsf4rokrJ4WY8MV7H7FuMp+/tvxiy7Knk3GCl4fbrKipxnyg4Qv/aUV3hdXdWvX92npOY+1v+icdyP5dN7sUj2sdvC3Q=;5TK4eh3dJxpyW9Xgbm91XQ=="
 ---

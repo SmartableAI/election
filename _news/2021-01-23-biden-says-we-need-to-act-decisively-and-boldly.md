@@ -2,11 +2,11 @@
 category: news
 title: "Biden says we need to act 'decisively and boldly'"
 excerpt: "President Joe Biden said on Friday the U.S. economic crisis was deepening and that the government needs to take major action now to help struggling Americans."
-publishedDateTime: 2021-01-23T01:37:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-economy-idUSKBN29R2JV"
-webUrl: "https://www.reuters.com/article/us-usa-biden-economy-idUSKBN29R2JV"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R2JV"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R2JV"
+publishedDateTime: 2021-01-23T02:21:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-economy-idUKKBN29R2JV"
+webUrl: "https://www.reuters.com/article/us-usa-biden-economy-idUKKBN29R2JV"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29R2JV"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29R2JV"
 type: article
 quality: 125
 heat: 145
@@ -48,6 +48,6 @@ related:
         height: 960
         isCached: true
 
-secured: "XXppfpcvrEjLVlRjl+8SAwuHGzT9G/pye66n3HayplToa5pvjozt2slaEvWpIjCRwnaq0C0xIgI0JUuz854bh4PBjtYixt2LTj6dnUBT9rK3KdchUHFnwV17s9pHkZrYKWPlPDXZkcrcd56zeKTnYSImFZhmYrCS1azj9MWQbj9DQ3NL9xjdH/gpJp0CGEyj26q7CSOqYmfb0mYq+wHcl82SSK6MQZPqTaUPrKfxeKhE0qTeTNNdYvxvw26CDE/LduNPL8qUFxXfw+IxoaEn9t1MKKoZP0wtu100X6hgJ59oSVKHVgGhxaWRdaze1wy5jO93eLxcZMphtY7koGEyY+AutSeYXMDb0XmaqHJBJiLyyv1uW4iwN+Aq1G+IH/QVsLT8ffW+mwdhPW/us/q9WkU/0h7GlMLmEL45tutCY6dQ0wav+Gx8vsgkfLL0xFY5PjzXZhtYjJHTJCkMLEom+LabkPhmpxt+k5y+4z1KoqYk3uaAhDmhgi2wbyfXytTJE0MfFKelgb6s8LWJ2wW8oQ==;54m9aCF8zjjDLDdmDAbFQA=="
+secured: "utxvPjqdI+xq/S9Qhsr4f2+nbbb2bw8Kot9eFvR0cL1zXFv5Fod9JQyOGXqXUfrB9TShs/YdHHwGRMxXOAxvPeiA3YoBckcfrb31sXac3HU0aNhhcXIGAK8KDqRooJ5TFw9jyRDsXH0YHgMwXYCkvyWI/iY7T00N04k3cK4FO0UytlCac6nkCqoO8hQQGGFl+6Zuq6zSbdi2mZKbctBZxMfgVdup5sg7uxT/i+u8a1OSQUGSRTgy+CjlkNXq6tMDMxZONoHqWje9ggVUvlxJlhGV0+6hXBuFutw7PMSgUC7Pge5SSMvpUXFdpAQYc+IJ4vGuKwjgLTT/RMKaWiHNph4sv4wY2miNmUdQI865zjk=;O7Ie9TAJ8Lm9YMLP2a6iVw=="
 ---
 

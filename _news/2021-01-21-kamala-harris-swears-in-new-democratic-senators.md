@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Kamala Harris Swears In New Democratic Senators"
-excerpt: "Vice President Kamala Harris swore in three new senators Wednesday, Jon Ossoff and the Rev. Raphael Warnock of Georgia, and Alex Padilla of California. Democrats now have narrow control of the Senate."
-publishedDateTime: 2021-01-20T23:02:00Z
-originalUrl: "https://www.nytimes.com/video/us/politics/100000007562266/harris-swears-in-ossoff-warnock-padilla.html?playlistId=video/us-politics"
-webUrl: "https://www.nytimes.com/video/us/politics/100000007562266/harris-swears-in-ossoff-warnock-padilla.html?playlistId=video/us-politics"
+excerpt: "Vice President Kamala Harris swore in three new senators Wednesday: Jon Ossoff and the Rev. Raphael Warnock of Georgia, and Alex Padilla of California. Democrats now have narrow control of the Senate."
+publishedDateTime: 2021-01-20T23:11:00Z
+originalUrl: "https://www.nytimes.com/video/us/politics/100000007562266/harris-swears-in-ossoff-warnock-padilla.html"
+webUrl: "https://www.nytimes.com/video/us/politics/100000007562266/harris-swears-in-ossoff-warnock-padilla.html"
 type: article
 quality: 115
 heat: -1
@@ -1674,6 +1674,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "tdXE4JQ3TeJgwEhjAKmI69gnveIOBZf20RFgUSG1Zm1/H8bbYILi+dn2VP6jl9SuXnODhUI+nS0OWgiWQc8KtRvbySo7sqVKqoc9THMcxNrZ+KF7/KxKEVld1/2UWh9/OCENIs+xTumMmQBlQnn2esj5GM/8HXLH+7H+VSHDTsANyimJeaFeOhUKfLobe149dvTqxrIymGSmrlu6OqS008lBjTNPNFtURrxqmV1oIf3iP7AQPU5J+b2h97DzWTLWJNundO/svpdlf/vdoHHjL5yo3aiE1Mf8l0CTDTEkf6GOOeywRFCdC1tLZye5CO5+HhIugWwuDLpfTgFlpfnfRNJ3PbFDQJ8mEkd+CAt1le0=;UJBRjFhsbv1AGj3V3bvK0A=="
+secured: "vfFOcvi31e9sg2i18Ag87zL+MW6PdlGEzP4vlYsM0BiDPW0ebv0n+JeYGn7fcLDmGcV6MUuiqxpeYRWPpEdzvi12aZlD0ywW5gQhnpjXs/YXy3MsPr1zY1gwDSkQRVrMRC4446oS4Bp5KYiPoV2ZDD0b8nxDM2MeTocWAp7UrxLGf6Nb3b2s9p6ws5c3MfKndItUf0cs9uA/XnpqCXHWv8ea+0tUDG1EeR1ygiZK4p6wS+eNDX+ugMGp27M7fxWKqr6aAVVlYl7Siy5tPvvTdpB9aLkbI0qz94fiGYci8GXk7j76QmQha4+xakkPV2h0mDS9jrwk+dJI1SD+GMGub6MuuqhTZRP5YtbCZQmtTy8=;fd3ZSuydx6tVhoHyzTfxZA=="
 ---
 

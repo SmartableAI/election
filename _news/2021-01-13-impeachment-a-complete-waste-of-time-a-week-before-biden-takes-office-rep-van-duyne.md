@@ -175,6 +175,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ohio restaurant owner rips Biden's embrace of $15 minimum wage as bad for business"
+    excerpt: "An Ohio restaurant owner is warning that any hikes in the minimum wage now will only hurt small businesses more."
+    publishedDateTime: 2021-01-23T19:08:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dDDySmbcco/ohio-restaurant-owner-bidens-minimum-wage"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-restaurant-owner-bidens-minimum-wage.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-restaurant-owner-bidens-minimum-wage.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/FOX-headshot-2-1.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden DOJ Civil Rights pick stands by defense of controversial ex-Women’s March leader"
     excerpt: "Kristen Clarke, President-elect Joe Biden's choice to run the Justice Department's Civil Rights Division, defends backing a former leader of the Women’s March who was accused of anti-Semitism."
     publishedDateTime: 2021-01-14T22:41:46Z

@@ -172,6 +172,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ohio restaurant owner rips Biden's embrace of $15 minimum wage as bad for business"
+    excerpt: "An Ohio restaurant owner is warning that any hikes in the minimum wage now will only hurt small businesses more."
+    publishedDateTime: 2021-01-23T19:08:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dDDySmbcco/ohio-restaurant-owner-bidens-minimum-wage"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-restaurant-owner-bidens-minimum-wage.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-restaurant-owner-bidens-minimum-wage.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/FOX-headshot-2-1.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Impeachment a 'complete waste of time' a week before Biden takes office: Rep. Van Duyne"
     excerpt: "Freshman Congresswoman Beth Van Duyne, R-Texas, said Wednesday on \"Fox & Friends\" she will not be joining the five Republicans so far that are voting to impeach President Trump, calling the effort a \"complete waste of time.\""
     publishedDateTime: 2021-01-13T16:08:50Z
