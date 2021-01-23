@@ -31,101 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Sen. Cory Booker expects Trump impeachment trial 'as quickly as possible'"
-    excerpt: "Sen. Cory Booker, D-N.J., said that after the House voted to impeach President Trump last week, he expects the Senate to hold a trial relatively soon."
-    publishedDateTime: 2021-01-17T19:14:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXTLAGXiBHs/sen-booker-trump-impeachment-trial-quickly-as-possible"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-booker-trump-impeachment-trial-quickly-as-possible.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-booker-trump-impeachment-trial-quickly-as-possible.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31a1fe1e-5515-468e-9607-4738d2533c9f/c9629705-1284-496f-9cfa-44d30c4119aa/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Durbin says Trump impeachment trial 'unresolved,' but calls it a 'priority'"
-    excerpt: "Senate Majority Whip Dick Durbin on Thursday said he expects the House may send the article of impeachment to the Senate in \"a day or two,\" maintaining that a trial for former President Donald Trump is \"a priority.\""
-    publishedDateTime: 2021-01-21T16:01:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gv4S-2VX7vA/durbin-senate-impeachment-trial-timeline-priority"
-    ampWebUrl: "https://www.foxnews.com/politics/durbin-senate-impeachment-trial-timeline-priority.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/durbin-senate-impeachment-trial-timeline-priority.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "McConnell says Trump 'provoked' the Capitol riot as Senate weighs another impeachment trial"
-    excerpt: "Senate Majority Leader Mitch McConnell, R-Ky., placed blame on President Trump for the riot at the Capitol on Jan. 6 that left five people dead, including a Capitol police officer."
-    publishedDateTime: 2021-01-19T18:53:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3C57DnXc1iQ/mcconnell-trump-capitol-riot-senate-weighs-another-impeachment-trial"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-capitol-riot-senate-weighs-another-impeachment-trial.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-capitol-riot-senate-weighs-another-impeachment-trial.amp"
+  - title: "McConnell says he has 'not made a final decision' on how he will vote on Trump impeachment"
+    excerpt: "Senate Majority Leader Mitch McConnell told Republican colleagues Wednesday that he has “not made a final decision” on how he will vote on impeachment, despite signaling that he supported House Democrats’ move to initiate impeachment proceedings against President Trump."
+    publishedDateTime: 2021-01-13T20:35:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2JouXSKxUK8/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007146978656.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Clyburn says Trump impeachment vote 'will happen this week' as 195 lawmakers cosponsor articles"
-    excerpt: "House Majority Whip Rep. Jim Clyburn, D-S.C., said Sunday that the article of impeachment against President Trump that was drafted will go to a vote this week, while Trump's former Acting Chief of Staff Mick Mulvaney said that unlike last year's impeachment, Republicans may be on board this time."
-    publishedDateTime: 2021-01-10T15:49:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WGnVsQ192Ec/clyburn-trump-impeachment-vote-this-week"
-    ampWebUrl: "https://www.foxnews.com/politics/clyburn-trump-impeachment-vote-this-week.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clyburn-trump-impeachment-vote-this-week.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/104bff36-8597-4517-b0d6-a8997b1875c4/dfe21b65-dc81-4cb2-9a04-0fb91aa4beb9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Schumer says Pelosi to deliver Trump impeachment article Monday, triggering trial amid standoff with McConnell"
-    excerpt: "Senate Democratic leader Chuck Schumer said on Friday that Speaker of the House Nancy Pelosi has informed him that the article of impeachment against President Trump will be delivered to the Senate on Monday, paving the way for a trial."
-    publishedDateTime: 2021-01-22T15:20:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bkwuzSbf1rw/schumer-pelosi-will-deliver-article-of-impeachment-to-senate-on-monday"
-    ampWebUrl: "https://www.foxnews.com/politics/schumer-pelosi-will-deliver-article-of-impeachment-to-senate-on-monday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-pelosi-will-deliver-article-of-impeachment-to-senate-on-monday.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Ingraham: Second Senate impeachment trial of Trump will be 'ugly, feudal farce'"
-    excerpt: "Senate Majority Leader Chuck Schumer's commitment to holding a post-presidential impeachment trial of Donald Trump sets the stage for an \"ugly, feudal farce,\" Laura Ingraham said Friday."
-    publishedDateTime: 2021-01-23T04:39:00Z
-    webUrl: "https://www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce"
-    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce.amp"
+  - title: "Dershowitz calls Trump impeachment a 'loaded weapon' that would be 'so dangerous to the Constitution'"
+    excerpt: "Harvard Law professor emeritus and constitutional law scholar Alan Dershowitz said that while he does not believe it would result in a Senate trial, impeaching President Trump over what he said in an address prior to protesters storming the Capitol building on Wednesday would provide a \"loaded weapon\""
+    publishedDateTime: 2021-01-10T17:39:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AYbZcRaWwGY/dershowitz-trump-impeachment-loaded-weapon-dangerous-constitution"
+    ampWebUrl: "https://www.foxnews.com/politics/dershowitz-trump-impeachment-loaded-weapon-dangerous-constitution.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dershowitz-trump-impeachment-loaded-weapon-dangerous-constitution.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 131
+    quality: 160
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f803e6d-1655-44a5-bb1a-14973471d214/5337238f-a929-46b9-8827-dbae154b3388/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e261edb-993c-4462-a43f-7b8bc27294f3/dbae9707-b9f7-49a0-8d78-aa793b6188a1/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Hannity blasts McConnell, 'spineless Republicans' joining Democrats' repudiation of Trump"
+    excerpt: "Senate Majority Leader Mitch McConnell's days in leadership will be numbered if he allows Minority Leader Chuck Schumer, D-N.Y. a free hand to litigate President Trump's impeachment, Sean Hannity said Tuesday."
+    publishedDateTime: 2021-01-20T04:09:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-blasts-mcconnell-spineless-republicans-joining-democrats-repudiation-of-trump-trumpism"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-blasts-mcconnell-spineless-republicans-joining-democrats-repudiation-of-trump-trumpism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-blasts-mcconnell-spineless-republicans-joining-democrats-repudiation-of-trump-trumpism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9617a0c7-9bab-46c9-9dfd-a173d85f9373/69a418d8-5b9c-4dff-a164-1efe14562cb1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Maher insists Trump will run again, McConnell won't impeach: 'The battle is over, this war is just beginning'"
+    excerpt: "\"Real Time\" host Bill Maher returned from his holiday break Friday night and made bold predictions about the potential political aspirations of President Trump."
+    publishedDateTime: 2021-01-16T08:24:00Z
+    webUrl: "https://www.foxnews.com/entertainment/maher-insists-trump-will-run-again-mcconnell-wont-impeach-the-battle-is-over-the-war-is-just-beginning"
+    ampWebUrl: "https://www.foxnews.com/entertainment/maher-insists-trump-will-run-again-mcconnell-wont-impeach-the-battle-is-over-the-war-is-just-beginning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/maher-insists-trump-will-run-again-mcconnell-wont-impeach-the-battle-is-over-the-war-is-just-beginning.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/TrumpMcconnell.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "pPuKybTZi27SRAcs9YDf/zLc/KqDqqFyLUlm/ZRaR4nvI8KgS2htkRZrM55jdJ/0OZ+ZoQaV9mI1O82/7oMkjiyY6XgQHH2zgwKpW3tdSisWmw30duNr0D1wHGf+WZO0DGCDNLVzkbJ0uw3nLTJq5OeUsooDk4N3O1DqeNHQPwaK0UD9k8UTZCm9mQLlaizbmCKu83Ox/H2Oh746CJM+7uIE6mDker0l1bDbGxD5iGN5VCEglakqOJJLW20RsYJ9oJhEW2Xd0Ae2Jv/FTlfaUl+5drOM9BiRey2TLYMPb95+fqpsZNK8JcrbTS3ei5r6oAjgjritHTkvzgD/su76KF0UZJaL2Obs8vZnc++WDqk=;w2+XYGf+zR80XDd2DB5+bw=="

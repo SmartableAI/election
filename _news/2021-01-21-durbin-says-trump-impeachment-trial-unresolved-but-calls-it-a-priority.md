@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/durbin-senate-impeachment-trial-tim
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/durbin-senate-impeachment-trial-timeline-priority.amp"
 type: article
 quality: 173
-heat: -1
-published: false
+heat: 233
+published: true
 
 provider:
   name: Fox News
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Sen. Cory Booker expects Trump impeachment trial 'as quickly as possible'"
-    excerpt: "Sen. Cory Booker, D-N.J., said that after the House voted to impeach President Trump last week, he expects the Senate to hold a trial relatively soon."
-    publishedDateTime: 2021-01-17T19:14:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXTLAGXiBHs/sen-booker-trump-impeachment-trial-quickly-as-possible"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-booker-trump-impeachment-trial-quickly-as-possible.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-booker-trump-impeachment-trial-quickly-as-possible.amp"
+  - title: "Graham calls on McConnell to 'unequivocally' denounce second Trump impeachment effort"
+    excerpt: "Sen. Lindsey Graham, R-S.C., is fighting efforts to convict President Trump in the Senate after he was impeached for a second time by the House of Representatives, and Senate Majority Leader Mitch McConnell, R-Ky., should do the same, Graham told Fox News’ \"Hannity\" Tuesday."
+    publishedDateTime: 2021-01-20T04:51:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zY0w3BFDqKo/lindsey-graham-mitch-mcconnell-second-trump-impeachment-effort"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-mitch-mcconnell-second-trump-impeachment-effort.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-mitch-mcconnell-second-trump-impeachment-effort.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 168
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31a1fe1e-5515-468e-9607-4738d2533c9f/c9629705-1284-496f-9cfa-44d30c4119aa/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36a18001-83b1-4bf6-8254-38356a48634e/88112cd8-b99d-4ec7-9535-3d90c2a8f9e4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -63,38 +63,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Clyburn says Trump impeachment vote 'will happen this week' as 195 lawmakers cosponsor articles"
-    excerpt: "House Majority Whip Rep. Jim Clyburn, D-S.C., said Sunday that the article of impeachment against President Trump that was drafted will go to a vote this week, while Trump's former Acting Chief of Staff Mick Mulvaney said that unlike last year's impeachment, Republicans may be on board this time."
-    publishedDateTime: 2021-01-10T15:49:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WGnVsQ192Ec/clyburn-trump-impeachment-vote-this-week"
-    ampWebUrl: "https://www.foxnews.com/politics/clyburn-trump-impeachment-vote-this-week.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clyburn-trump-impeachment-vote-this-week.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/104bff36-8597-4517-b0d6-a8997b1875c4/dfe21b65-dc81-4cb2-9a04-0fb91aa4beb9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Senate won’t reconvene early to start impeachment trial before Trump leaves office: McConnell spokesman"
-    excerpt: "With President Trump likely set on Wednesday to become the only president ever impeached twice, Democrats were pressuring Senate Majority Leader Mitch McConnell, R-Ky., to invoke a 2004 resolution that could bring the Senate back quickly for what would essentially be an emergency session to begin the"
-    publishedDateTime: 2021-01-13T18:33:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/f9IdAGAFb2k/senate-wont-reconvene-early-to-start-impeachment-trial-before-trump-leaves-office-mcconnell-spokesman"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-wont-reconvene-early-to-start-impeachment-trial-before-trump-leaves-office-mcconnell-spokesman.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-wont-reconvene-early-to-start-impeachment-trial-before-trump-leaves-office-mcconnell-spokesman.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Schumer says Pelosi to deliver Trump impeachment article Monday, triggering trial amid standoff with McConnell"
     excerpt: "Senate Democratic leader Chuck Schumer said on Friday that Speaker of the House Nancy Pelosi has informed him that the article of impeachment against President Trump will be delivered to the Senate on Monday, paving the way for a trial."
     publishedDateTime: 2021-01-22T15:20:53Z
@@ -110,22 +78,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Ingraham: Second Senate impeachment trial of Trump will be 'ugly, feudal farce'"
-    excerpt: "Senate Majority Leader Chuck Schumer's commitment to holding a post-presidential impeachment trial of Donald Trump sets the stage for an \"ugly, feudal farce,\" Laura Ingraham said Friday."
-    publishedDateTime: 2021-01-23T04:39:00Z
-    webUrl: "https://www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce"
-    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f803e6d-1655-44a5-bb1a-14973471d214/5337238f-a929-46b9-8827-dbae154b3388/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "RtNgJZMWloXI+KDAAUyNcCjALJ+iFHy6xSD+4VN+54Dcm95nVOyzA1UCLK0kV5U7ar/Z0N6AfS9vzJWxAW5GF/t0qWJ1cFaCDKTJS4zRFy26xE0sqzGrNUDA0lAx5QIbkf8+Jsxpa0+Al3xYB0/M8DKXjsHYmk2N6acJJbtWw/xRtgd/ysFncQJmEIPKI4nuOmsyFjgnPPRCiVhCeW7pRZH2HM1NXeB/ae/iNZs9+UlmSc9ISjTzM+5g00M976w2p8cTMhup5fUQfOHppZfaZkjbjMMGQb+Cnkgv4kN/CFQ/4jSvTzXSnKagxZOcTo3I/jSdJQV3AaAkoH+qpDI0JUe0yrAJ6seCDH3VkKVJAps=;T8k9aM9wa3XkYuuFZIYeUA=="

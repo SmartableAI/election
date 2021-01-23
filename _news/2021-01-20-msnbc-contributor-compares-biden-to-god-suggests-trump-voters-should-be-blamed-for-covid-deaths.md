@@ -624,6 +624,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'Squad' members rip Trump death-penalty 'carnage,' urge Biden to commute killers' sentences"
+    excerpt: "All 49 remaining death-row inmates in federal prisons should have their sentences commuted by President Biden, two members of the progressive \"Squad\" group of Democrats urged Friday."
+    publishedDateTime: 2021-01-23T05:36:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xnMrsZLRvfY/squad-members-rip-trump-death-penalty-carnage-urge-biden-to-commute-killers-sentences"
+    ampWebUrl: "https://www.foxnews.com/politics/squad-members-rip-trump-death-penalty-carnage-urge-biden-to-commute-killers-sentences.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-members-rip-trump-death-penalty-carnage-urge-biden-to-commute-killers-sentences.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Pressley-getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Brit Hume: Senate Dems may not move forward with Trump impeachment as attention shifts to Biden"
     excerpt: "The news media landscape is about to shift from years of covering President Donald Trump to the new administration of President-elect Joe Biden, said Fox News senior political analyst Brit Hume on Monday. "
     publishedDateTime: 2021-01-18T15:56:26Z

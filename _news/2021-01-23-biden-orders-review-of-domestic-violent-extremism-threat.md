@@ -2,21 +2,21 @@
 category: news
 title: "Biden orders review of domestic violent extremism threat"
 excerpt: "President Joe Biden has directed his intelligence community to study the threat of domestic extremism in the United States"
-publishedDateTime: 2021-01-23T03:38:00Z
-originalUrl: "https://www.washingtonpost.com/world/national-security/biden-orders-review-of-domestic-violent-extremism-threat/2021/01/22/7320246e-5d2b-11eb-a849-6f9423a75ffd_story.html"
-webUrl: "https://www.washingtonpost.com/world/national-security/biden-orders-review-of-domestic-violent-extremism-threat/2021/01/22/7320246e-5d2b-11eb-a849-6f9423a75ffd_story.html"
-ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-orders-review-of-domestic-violent-extremism-threat/2021/01/22/7320246e-5d2b-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-orders-review-of-domestic-violent-extremism-threat/2021/01/22/7320246e-5d2b-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+publishedDateTime: 2021-01-23T03:28:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-orders-review-domestic-extremism-threat-us-75431378"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-orders-review-domestic-extremism-threat-us-75431378"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-orders-review-domestic-extremism-threat-us-75431378"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-orders-review-domestic-extremism-threat-us-75431378"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -206,6 +206,6 @@ related:
       domain: businessinsider.com
     quality: 55
 
-secured: "jARV/XTNZ6NlhVdSln+8LP2S6xADAIUzmcApvYHAKVnn6kzuwt3LhrFhtf/yuhH0L4/kQoFik/lGxKv2xAB02A9sJca+ATlsh5sFsgk9ByzZZF2jLXMEKSkmBruXrhLcdhGPkTNb8xl4ZewAtpLI6F/p6md6sPdxPFEBTKgwhn1Gzf5wRybsSpN5M8pgFgRs6wRASBBxrDNrBbDFaodP1VWD6Y/x462BocUM+uCKcC0xWVr7CIjwGnJO2I43uWV1q7SrND01xWv5wnSBe6IlcYfeo03mzeoVDhKhLSvnETu6ZYFQ8zwKTncHrntgIqlBlW0LwWbOJYElASFMBmPDiXzfW407a8NqFCKaS/dzjdc=;RnkoYmh4aJaQHxWNGvHKjQ=="
+secured: "tx8wE590J4g5VtMJoCK0Voqz88fFN3WgLUX23tc7jud75K1OnqvYOrOOH7WhmZtlhmV8OwhVstkeHeseulLs/o85G3klodZpdxGJpIR6YSbFUEQI8EJRSgaOtuBGM2Q7AwMqRG/6z9+b9VheVB1iNOx9J4g0sOm2KWOH4vaia45UvhoG3enFkLhE/43mnQFKc7m8Z7VbCYAn0zMZlgcHRU0k6c+R+C3Akekd0kxmyAsq5rlFJnR4/cs0e7N9BwZn1dcXyeSIFSKuGE8VZW5lY61Tli3ehL8LmOXaCOZ/dCM1z973gd4Yw7DCw2TNI4nEUwfaaF3ehI/vOjb3gMmodptPzUSyc4d8cJpVIUWCXtk=;mYgsASy0CiMPXMhSKWCehA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/mcconnell-says-he-has-not-made-a-fi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment.amp"
 type: article
 quality: 165
-heat: -1
-published: false
+heat: 245
+published: true
 
 provider:
   name: Fox News
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Graham calls on McConnell to 'unequivocally' denounce second Trump impeachment effort"
-    excerpt: "Sen. Lindsey Graham, R-S.C., is fighting efforts to convict President Trump in the Senate after he was impeached for a second time by the House of Representatives, and Senate Majority Leader Mitch McConnell, R-Ky., should do the same, Graham told Fox News’ \"Hannity\" Tuesday."
-    publishedDateTime: 2021-01-20T04:51:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zY0w3BFDqKo/lindsey-graham-mitch-mcconnell-second-trump-impeachment-effort"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-mitch-mcconnell-second-trump-impeachment-effort.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-mitch-mcconnell-second-trump-impeachment-effort.amp"
+  - title: "Dershowitz calls Trump impeachment a 'loaded weapon' that would be 'so dangerous to the Constitution'"
+    excerpt: "Harvard Law professor emeritus and constitutional law scholar Alan Dershowitz said that while he does not believe it would result in a Senate trial, impeaching President Trump over what he said in an address prior to protesters storming the Capitol building on Wednesday would provide a \"loaded weapon\""
+    publishedDateTime: 2021-01-10T17:39:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AYbZcRaWwGY/dershowitz-trump-impeachment-loaded-weapon-dangerous-constitution"
+    ampWebUrl: "https://www.foxnews.com/politics/dershowitz-trump-impeachment-loaded-weapon-dangerous-constitution.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dershowitz-trump-impeachment-loaded-weapon-dangerous-constitution.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 160
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36a18001-83b1-4bf6-8254-38356a48634e/88112cd8-b99d-4ec7-9535-3d90c2a8f9e4/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e261edb-993c-4462-a43f-7b8bc27294f3/dbae9707-b9f7-49a0-8d78-aa793b6188a1/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Senate won’t reconvene early to start impeachment trial before Trump leaves office: McConnell spokesman"
+    excerpt: "With President Trump likely set on Wednesday to become the only president ever impeached twice, Democrats were pressuring Senate Majority Leader Mitch McConnell, R-Ky., to invoke a 2004 resolution that could bring the Senate back quickly for what would essentially be an emergency session to begin the"
+    publishedDateTime: 2021-01-13T18:33:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/f9IdAGAFb2k/senate-wont-reconvene-early-to-start-impeachment-trial-before-trump-leaves-office-mcconnell-spokesman"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-wont-reconvene-early-to-start-impeachment-trial-before-trump-leaves-office-mcconnell-spokesman.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-wont-reconvene-early-to-start-impeachment-trial-before-trump-leaves-office-mcconnell-spokesman.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Hannity blasts McConnell, 'spineless Republicans' joining Democrats' repudiation of Trump"
     excerpt: "Senate Majority Leader Mitch McConnell's days in leadership will be numbered if he allows Minority Leader Chuck Schumer, D-N.Y. a free hand to litigate President Trump's impeachment, Sean Hannity said Tuesday."

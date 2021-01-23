@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donal
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1"
 type: article
 quality: 148
-heat: 2128
+heat: 2168
 published: true
 
 provider:
@@ -623,6 +623,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/UrZLd69HU1icaCBSsBq3vIlKOPI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/35ZRTEAFVBGLJPRRAKRZ2WWK3M.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Timeline to Trump's impeachment trial in U.S. Senate"
+    excerpt: "Former President Donald Trump's trial in the U.S. Senate will start in the week of Feb. 8, Senate leaders said on Friday, following his impeachment in the House of Representatives earlier this month on a charge of inciting an insurrection."
+    publishedDateTime: 2021-01-23T06:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-timeline-factbo-idUSKBN29S016"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29S016"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29S016"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210123&t=2&i=1548779115&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0M018"
+        width: 797
+        height: 545
         isCached: true
   - title: "Trump should not get intelligence briefings"
     excerpt: "After he leaves, Trump has no need to know ,” Susan M. Gordon presented a compelling argument for restricting former president Donald Trump’s access to intelligence briefings. Let us not forget that he is thought to have revealed information about highly classified operations in the Middle East to Russian officials when he met with them in the Oval Office in 2017."
@@ -1497,6 +1513,15 @@ related:
     excerpt: "Authorities in Carson City are investigating a threat made against a state judge who dismissed a lawsuit last month brought by President Donald Trump’s campaign."
     publishedDateTime: 2021-01-15T18:53:00Z
     webUrl: "https://www.usnews.com/news/best-states/nevada/articles/2021-01-15/nevada-judge-who-denied-trump-campaign-appeal-was-threatened"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "Teaching About Trump Brought Death Threats, Hate Mail"
+    excerpt: "MADISON, Wis. (AP) — Ken Mayer watched on TV earlier this month as a violent mob of Donald Trump supporters stormed the Capitol, killing a police officer, pillaging the hallowed halls of democracy and delaying the process of certifying President-elect Joe Biden’s victory."
+    publishedDateTime: 2021-01-23T06:14:00Z
+    webUrl: "https://www.usnews.com/news/best-states/wisconsin/articles/2021-01-23/teaching-about-trump-brought-death-threats-hate-mail"
     type: article
     provider:
       name: U.S. News & World Report

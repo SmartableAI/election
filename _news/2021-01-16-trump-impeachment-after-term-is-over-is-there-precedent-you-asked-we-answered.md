@@ -39,6 +39,22 @@ related:
         width: 436
         height: 545
         isCached: true
+  - title: "In Senate deal, Trump impeachment trial put off until early February"
+    excerpt: "The leaders of the U.S. Senate agreed on Friday to push back former President Donald Trump's impeachment trial by two weeks, giving the chamber more time to focus on President Joe Biden's legislative agenda and Cabinet nominees before turning to the contentious"
+    publishedDateTime: 2021-01-23T06:08:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-impeachment-idINKBN29R27D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29R27D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R27D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548735957&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L17I"
+        width: 819
+        height: 545
+        isCached: true
   - title: "Live Updates: Pelosi to send Trump article of impeachment on Monday"
     excerpt: "The delivery of the article will trigger the beginning of former President Trump's impeachment trial in the Senate."
     publishedDateTime: 2021-01-22T16:26:00Z
