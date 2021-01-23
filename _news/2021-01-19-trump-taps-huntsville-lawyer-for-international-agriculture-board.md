@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Supporters' words may haunt Trump at impeachment trial"
+    excerpt: "The words of Donald Trump supporters who are accused of participating in the deadly U.S. Capitol riot may end up being used against him in his Senate impeachment trial as he faces the charge of inciti"
+    publishedDateTime: 2021-01-23T13:56:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/supporters-words-haunt-trump-impeachment-trial-75443663"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/supporters-words-haunt-trump-impeachment-trial-75443663"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/supporters-words-haunt-trump-impeachment-trial-75443663"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b180c281679643a2a82a4f9d6c63f1ef_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "U.S. House to deliver Trump impeachment to Senate on Monday: Schumer"
     excerpt: "The U.S. House of Representatives will deliver an impeachment measure charging former President Donald Trump with inciting insurrection to the Senate on Monday, starting a trial process that could ban him from holding office again,"
     publishedDateTime: 2021-01-22T20:28:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Pennsylvania Will Reflect Voter Mood During Biden Presidency"
 excerpt: "In his inaugural address, President Biden focused on a message of unity as the nation confronts overwhelming challenges, including the COVID-19"
 publishedDateTime: 2021-01-23T12:13:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/01/23/pennsylvania_will_reflect_voter_mood_during_biden_presidency_145101.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/01/23/pennsylvania_will_reflect_voter_mood_during_biden_presidency_145101.html#!"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/01/23/pennsylvania_will_reflect_voter_mood_during_biden_presidency_145101.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/01/23/pennsylvania_will_reflect_voter_mood_during_biden_presidency_145101.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/23/pennsylvania_will_reflect_voter_mood_during_biden_presidency_145101.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/23/pennsylvania_will_reflect_voter_mood_during_biden_presidency_145101.amp.html"
 type: article
@@ -2074,6 +2074,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Mike Pence fights back tears, thanks Trump in farewell speech"
+    excerpt: "Former Vice President Mike Pence held back tears as he bade an emotional farewell to his previous office and re-entered private life after arriving back home in Indiana. Speaking at a welcome"
+    publishedDateTime: 2021-01-21T17:06:00Z
+    webUrl: "https://nypost.com/2021/01/21/mike-pence-fights-back-tears-thanks-trump-in-farewell-speech/"
+    ampWebUrl: "https://nypost.com/2021/01/21/mike-pence-fights-back-tears-thanks-trump-in-farewell-speech/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/21/mike-pence-fights-back-tears-thanks-trump-in-farewell-speech/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/pence-28.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "In breaking with Trump, Pence does ‘what he believes in,’ strategist says"
     excerpt: "After breaking with his boss last week and certifying President-elect Joe Biden’s Electoral College victory over President Trump, Vice President Mike Pence this week quickly shot down a push by House Democrats urging him to invoke the 25th Amendment of the Constitution to remove Trump from the presidency."
     publishedDateTime: 2021-01-13T17:20:00Z
@@ -2343,6 +2359,22 @@ related:
       - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Defense officials fear 'insider attack' on Biden inauguration"
+    excerpt: "Breaking tonight, we are less than two days from an inauguration unlike any other in our nation's history. The U.S. Capitol city and the U.S. Capitol Building on edge and a high security alert tonight."
+    publishedDateTime: 2021-01-23T14:14:00Z
+    webUrl: "https://www.foxnews.com/transcript/defense-officials-fear-insider-attack-on-biden-inauguration"
+    ampWebUrl: "https://www.foxnews.com/transcript/defense-officials-fear-insider-attack-on-biden-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/defense-officials-fear-insider-attack-on-biden-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a043991d-8528-4493-8378-3714c74ff9d5/29a708dd-6088-40e0-9c78-6ebf5b75966e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "As Biden inauguration approaches, federal prisons under full-on lockdown"
     excerpt: "Federal prisons throughout the country have been placed under full-on lockdown until further notice in the days leading up to the inauguration of President-elect Joe Biden and amid nationwide threats of unrest,"
@@ -2755,6 +2787,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "ZyCTHlazZScoj8mHPBjgS4KLF8TKuHxwEFxdvLacpYjtpAeUTEOSyWoePQu7XzQqxkliuclalAw+wIj6+WW6NhF558JvKokvbPZzTqoUlFxOig7ORwmmt6ocN3YGGW64rx4Abc2jTWgWSZrXqZUdqSjPJK0bKsszr8UAUsJSMZg7HUASd9abtlUYLUb2vM8chCfIgkZQkUY4tvqB+zX5T8mkN/xmwjbrUbgOVKTm0x0S2EJ8I16QEWHQAgZapjKAiOwEdeoStWAkEv61LMegtGLJ5i4XQENwFefP2V30w/ovYHhpCznaIkAANeszBV442FUitEyH104XZuan0mH9E3dpT3GpT8qDU9ad4ASgcsE=;PpwkQgHJm5MGoOOwFt/cxg=="
+secured: "iFA+zChl7gxqLdxebe+PBNtcXcdIEWMlt6mrDchH/aR0d4Q6QiqMAekDL8M8HyLjgz0qlD4nf5C2XjPVyQetAZtq21BWeqaxuUguKO6Tqg/z3FufQxEtC4dxOzqjteHzCI2kKHnlyju+nbeqJ+8/6DQekGlVR5Ial8huqwW2eO2GFJo1wydcCpgIkZkcLYiV0QaafrpQ9czt+0svLFirMNeoMSUS6xP+r4amN28dK0BuW2znOw+H3keNfOGggGe+SorK7tjV9vGTPjX9oisZpPLJJKFab3aPWGcTI/7Tcra/2PVJG/n5WfNzct3NigFGpMA4cAX/PVYpRn30J8J12dUmrEhLh7KtvHWFGxf9Yiw=;0eQwMBnqhRqerH+JrcqfxQ=="
 ---
 

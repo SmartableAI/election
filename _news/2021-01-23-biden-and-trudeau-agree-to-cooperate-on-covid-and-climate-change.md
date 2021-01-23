@@ -703,6 +703,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The GOP’s looming impeachment strategy: Focus on the Constitution, not Trump"
+    excerpt: "The House will send its impeachment article to the Senate on Monday, Speaker Nancy Pelosi (D-Calif.) has announced, paving the way for another Donald Trump impeachment trial. The big immediate question is whether the former president will be convicted."
+    publishedDateTime: 2021-01-23T14:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/23/can-you-impeach-former-president/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/23/can-you-impeach-former-president/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/23/can-you-impeach-former-president/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/01-22-2021/t_24f75d440b014bbf92373364cf23a000_name_Schumer2.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Biden minimum wage proposal could lift more than 1 million workers out of poverty"
     excerpt: "Biden's $1.9T coronavirus relief plan 08:37 President-elect Joe Biden's proposal to more than double the federal minimum wage would provide an urgently pay hike to millions of low-income workers and help stem inequality in the U.S., economists and labor ..."
     publishedDateTime: 2021-01-16T12:20:00Z
@@ -1543,6 +1559,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "RVddeVYYLo2cZyBRINRCtULwWIsqvDFP/0itmy3EkEBFqXT8OcIMCwKvqqayUAITjFkJRZFcmA0391lImBvf6sRVfKcnBbgDpREgbedejVHKxc0HgJr8y065vWkm/XOANvE1sPx+lA8mij8SwoHrvFNTi3Yt8+tXFMPkPPttblBuMvZ0I5BPfFA1Cy+6oRHeYpbhk95v2auKOljPfjMqrMtoSQ1R9+xjWzgW/b5hM8Ph0NS6o1JbuDTjgCoAHEPsfZfjCShOyhEYthhMkIGG81D5wT67ed9Dql1k5tbiKjfuz5utisFtwCH2VFz/D0RW4ZrQsm8ts0R2I8o4Vn+6A7ZHAvgICgqH1DwxH1syBKA=;tv2GBJguQT4dL1XWQV6hTA=="
+secured: "Or0JJu0PEipYIklANfrAKq2O5xjd5qNPcpSH4usnRUAaOP+zVdHuq3763b+03ryeoukqf8X0w73xOpAxAWO86avsXi1Fkwtc+rCwZvicjREMFk+575dF/wjmkX+kuRttuFvXBO8PNp8pVfXMOLnSJ4OH/0mN5x1YGYaxxEnKQGji5GDKXr4rSh8CgRzlhi9JKWb6ldaqKR5I+jHsLRpD2UrMRRaKeqYxqcgP8OdJ6+tv/HDu89Ik3rg5KQXnNnuilranLWUhh45V5930cAAU2S4EHXWUJiN+pEZR8lghxTaointi8q6cmJYDUTm2s0J1bpyMSeLHmA201x2RYP86i/IPRHfabBcd4xaKyO8rSWNMxUySuzhQ4ZBUL0xAaSKigQp1qI2zIiTa2tjzSKdUfINSpAS8aIVGt72JoqOK5xK3kAZ2f4QSU8ii4VoQYOsOXliattsOWpReqcWjsB/XXkAk1aV0/a5n2n8soQnWi3ZsdGIYRx81llbbtvJ/WT2wvPHDmEeEQUWESIZW6UZAtA==;Vfzlj6ZKY3KoQM9/Yv3tAA=="
 ---
 

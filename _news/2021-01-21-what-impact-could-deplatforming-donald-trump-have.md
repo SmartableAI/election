@@ -80,6 +80,22 @@ related:
         width: 2500
         height: 1484
         isCached: true
+  - title: "How Doug Ducey, Arizona’s Republican Governor, Views His Party After Trump"
+    excerpt: "Mr. Ducey, who is facing censure by his state party on Saturday, says the divisions within the Republican Party are nothing new."
+    publishedDateTime: 2021-01-23T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/23/us/politics/doug-ducey-arizona-republican-party.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/23/us/politics/doug-ducey-arizona-republican-party.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/23/us/politics/doug-ducey-arizona-republican-party.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/24/us/politics/24ducey-qanda-print1/23ducey-qanda-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "YtoVrKeVqCYvM18jQQLy1Gn6pRvpGSXeuWHn3tBlWo+TIa3tv+js0tosjPwabI5XkCtqo35qAEHoy7nLKj/ielE8krnG7v5GeEu6czWXWgmrx3A07W2VqFhVaKMXoGzYwH9yxZNrD9uh2S1l/RA0wkLTt7W+TI58EvJn4FJtuvqyDbZ5qaxGm7qW8Y6oq1CSNCEMIkLqAKbFRx87Kg5rShcPyUUIggc6/YaX7dH6uctZR8bCC3h2Z/7J4jsM/YXCSptnFCyqo2f4BzBfoZSNCkqv1T1mAeC7FS+EUZBxajPNcMThPeogA/hW4SUWuU5j2LqATYxCGOYBOu8+YEvLoHfFp5OPomlj9zmjwdvrV4XCUbI+m82F1sBnG7aCWQq8QE9Xh85YGSo4i6QRA+CQ0cktitRZQZm6TNp2MJ0iQnIlsX6QcTiEewkobyx0DzBRw527MPN5MpCCEEhM+DBjMENBqiEviRzuDSUoYee23UiTtWEBCsRozsbsBa1/ADKJJmQTqut/nD2Ae4xd4y1yvw==;wg2ud2UShdYQIvWVFei7Eg=="
 ---

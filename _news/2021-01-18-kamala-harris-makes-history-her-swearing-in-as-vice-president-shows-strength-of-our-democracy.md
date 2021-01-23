@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Willie Brown: How Kamala Harris can be the face of the Biden administration"
+    excerpt: "Make no mistake, President Biden is the star of the new administration. But it was our own Kamala Harris in her new role as the multiracial, multicultural, Democratic female power ideal who stole the show on Inauguration Day."
+    publishedDateTime: 2021-01-23T12:00:00Z
+    webUrl: "https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
+    ampWebUrl: "https://www.sfchronicle.com/bayarea/williesworld/amp/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/williesworld/amp/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 88
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/20/70/20516384/16/rawImage.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
   - title: "Reports: Joe Biden to pick Jaime Harrison as DNC chair"
     excerpt: "Jaime Harrison, who challenged Lindsey Graham for his Senate seat during the past election, will be the new chair of the Democratic National Committee, according to media reports."
     publishedDateTime: 2021-01-14T18:49:00Z

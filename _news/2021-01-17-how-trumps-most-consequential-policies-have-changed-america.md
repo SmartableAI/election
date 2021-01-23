@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/donald-trump-policy-lega
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/donald-trump-policy-legacy/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2021_02/3442444/210115-analysis-trump-capitol-riots-ew-212p_37ae77e10beb5b80705560d1256fe3da.jpg"
         width: 2500
         height: 1484
+        isCached: true
+  - title: "How Doug Ducey, Arizona’s Republican Governor, Views His Party After Trump"
+    excerpt: "Mr. Ducey, who is facing censure by his state party on Saturday, says the divisions within the Republican Party are nothing new."
+    publishedDateTime: 2021-01-23T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/23/us/politics/doug-ducey-arizona-republican-party.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/23/us/politics/doug-ducey-arizona-republican-party.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/23/us/politics/doug-ducey-arizona-republican-party.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/24/us/politics/24ducey-qanda-print1/23ducey-qanda-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "JRbI1AJ0A2+bNJqhTuF4olyrYZAE2/+Tn1mlPt/IsiIE3mcleijj4l3GXmkfpsIbKzHj858a5OuEStpkwenrCrDS0ubbgo1za108Ys5q1wmm325gux2rbtlCvLlyzU6sYaI3fDoSL2+u1MwtDNN58NdJ2x2BMDmlFKxhGq9MsCYap1Eog99g8LMczGDRGK9m5T2HnV/E+LOJ4hChOWZ1FDUbJWVWZCgzgg/itexbSXhtmPh0oDZp8FmFhSCMGBGF7cB/Z+Dp1zQS3Wlx4bpGLsL6Iyfp4YHT2vo9UcMaCaROszmCD8lZqrud+cEPZiUM20gQqFH5UMmNHOBYBOtwW/iM7mufUQLntQ8wnP6kk+k=;WZyyRirUSh8yUmKBfXXhsQ=="

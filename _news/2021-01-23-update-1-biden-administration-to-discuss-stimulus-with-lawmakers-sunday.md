@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Texas sues Biden administration over 100-day deportation ‘pause’"
+    excerpt: "Attorney General Ken Paxton’s lawsuit claims Biden violated a last-minute deal Texas and other states signed with the Trump administration."
+    publishedDateTime: 2021-01-23T03:16:00Z
+    webUrl: "https://www.washingtonpost.com/national/texas-biden-lawsuit-ice-deportations/2021/01/22/4548eec2-5cea-11eb-aaad-93988621dd28_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/texas-biden-lawsuit-ice-deportations/2021/01/22/4548eec2-5cea-11eb-aaad-93988621dd28_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/texas-biden-lawsuit-ice-deportations/2021/01/22/4548eec2-5cea-11eb-aaad-93988621dd28_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RX5IVPC47II6XKLWXLLEGHQD4I.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "North Korea’s Kim could be planning fireworks to welcome Biden administration"
     excerpt: "Satellite evidence suggests North Korea could be preparing for a significant missile launch as it gradually dials up pressure on the United States."
     publishedDateTime: 2021-01-19T01:20:00Z

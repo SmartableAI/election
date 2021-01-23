@@ -1045,6 +1045,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "At 78 and the oldest president, Biden sees a world changed"
+    excerpt: "When Joe Biden took the oath of office as the 46th president, he became not only the oldest newly inaugurated U.S. chief executive in history but also the oldest sitting president ever"
+    publishedDateTime: 2021-01-23T14:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/78-oldest-president-biden-sees-world-changed-75443073"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/78-oldest-president-biden-sees-world-changed-75443073"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/78-oldest-president-biden-sees-world-changed-75443073"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6dce6731a7f147eeb2021f1e41f9040c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden is ‘a Senate guy,’ but it just doesn’t work like it used to"
     excerpt: "One day, when he was vice president and I was still a congressional reporter, I ran into Joe Biden in a basement tunnel of. Fishing for a news tip, I asked the nation’s second-highest leader what he was doing there,"
     publishedDateTime: 2021-01-22T18:04:00Z

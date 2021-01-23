@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/pence-heading-back-to-indian
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 3850
+heat: 3870
 published: true
 
 provider:
@@ -1037,6 +1037,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/International/WireAP_6073505d30494aa594a16db744cf94ea_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "At 78 and the oldest president, Biden sees a world changed"
+    excerpt: "When Joe Biden took the oath of office as the 46th president, he became not only the oldest newly inaugurated U.S. chief executive in history but also the oldest sitting president ever"
+    publishedDateTime: 2021-01-23T14:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/78-oldest-president-biden-sees-world-changed-75443073"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/78-oldest-president-biden-sees-world-changed-75443073"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/78-oldest-president-biden-sees-world-changed-75443073"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_6dce6731a7f147eeb2021f1e41f9040c_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

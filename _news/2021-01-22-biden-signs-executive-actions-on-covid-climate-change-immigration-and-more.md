@@ -703,6 +703,22 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "The GOP’s looming impeachment strategy: Focus on the Constitution, not Trump"
+    excerpt: "The House will send its impeachment article to the Senate on Monday, Speaker Nancy Pelosi (D-Calif.) has announced, paving the way for another Donald Trump impeachment trial. The big immediate question is whether the former president will be convicted."
+    publishedDateTime: 2021-01-23T14:49:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/23/can-you-impeach-former-president/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/23/can-you-impeach-former-president/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/23/can-you-impeach-former-president/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/01-22-2021/t_24f75d440b014bbf92373364cf23a000_name_Schumer2.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Biden minimum wage proposal could lift more than 1 million workers out of poverty"
     excerpt: "Biden's $1.9T coronavirus relief plan 08:37 President-elect Joe Biden's proposal to more than double the federal minimum wage would provide an urgently pay hike to millions of low-income workers and help stem inequality in the U.S., economists and labor ..."
     publishedDateTime: 2021-01-16T12:20:00Z

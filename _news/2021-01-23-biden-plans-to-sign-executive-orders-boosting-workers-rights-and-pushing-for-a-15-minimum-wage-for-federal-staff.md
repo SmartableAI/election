@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/biden-executive-orders-federal-worke
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-executive-orders-federal-workers-rights-minimum-wage-2021-1?amp"
 type: article
 quality: 103
-heat: -1
-published: false
+heat: 103
+published: true
 
 provider:
   name: Business Insider
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Biden order seeks stronger workplace safety rules, signaling a more worker friendly approach"
-    excerpt: "The Executive Order could lead to an emergency standard for businesses — a set of a regulations they would have to comply with, like mask-wearing, that advocates say is necessary to combat the pandemic."
-    publishedDateTime: 2021-01-21T22:56:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KLXVVQCAZ4I6XNMLCYR7MJTZMA.jpg&w=1440"
-        width: 1440
-        height: 1001
-        isCached: true
 
 secured: "++U0AM39GOq5kGG4oQ9IOzBFCSIdBtd0K3t8nCHMtltPujViON95z3Ns0nGYr4FId/Qfm/dXngZUIXCfpGV0f7ELyvVdi5hgJtRquenQtqUHZv4sCRBKEl7pWxZyz8ikVg5zbhubacKhnHDHaS6ARsXxUyO5MKDNBr/+JGMvqDjmewhIkkMRRBGPic45D2k8unq/iS6dTasJJ/tk9aKMpQlO8xbVMzDfOcb0GMEus2OhCMJa7TwKs7EamuZ+mtmssiLPqMozAdKa5TiuiJZwA+34VsZjKEtD34S3urSfKE5Li1YavSYGCauE1s+e/hnDrluAoeeRh7XTwnqKkUx+vl9ZFybPtzxby/jf9HYf/mQ=;PzWq/jWa3BM8O7LKuzVxcQ=="
 ---

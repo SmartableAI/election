@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Willie Brown: How Kamala Harris can be the face of the Biden administration"
+    excerpt: "Make no mistake, President Biden is the star of the new administration. But it was our own Kamala Harris in her new role as the multiracial, multicultural, Democratic female power ideal who stole the show on Inauguration Day."
+    publishedDateTime: 2021-01-23T12:00:00Z
+    webUrl: "https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
+    ampWebUrl: "https://www.sfchronicle.com/bayarea/williesworld/amp/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/williesworld/amp/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 88
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/20/70/20516384/16/rawImage.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
   - title: "Kamala Harris has already made history, but some young women won't feel it until they see it"
     excerpt: "Kamala Harris' ascension marks a pivotal moment in history as young women say her inauguration may finally allow them to savor what has been won."
     publishedDateTime: 2021-01-19T22:13:00Z

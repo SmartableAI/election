@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden signs nearly 30 executive orders, seeks GOP approval for COVID-19 relief bill"
+    excerpt: "President Joe Biden signed nearly 30 executive orders in his first three days in office that address the coronavirus and the economic fallout from the pandemic. Now he's arranging to meet with a bipartisan group of lawmakers in hopes of reaching a larger relief plan."
+    publishedDateTime: 2021-01-23T13:44:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-signs-nearly-30-executive-orders-seeks-gop-approval-for-covid-19-relief-bill/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 99
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/23/bc3192e7-b104-4c45-9d22-516fe6874ce9/thumbnail/1200x630/ad94d8f5910070cb256e43ae696e9497/cbsn-fusion-biden-signs-nearly-30-executive-orders-seeks-gop-approval-for-covid-19-relief-bill-thumbnail-631988-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden: We'll 'manage the hell' out of feds' COVID response"
     excerpt: "President-elect Joe Biden is pledging to boost supplies of coronavirus vaccine and set up new vaccination sites to meet his goal of 100 million shots in 100 days"
     publishedDateTime: 2021-01-16T05:48:00Z
