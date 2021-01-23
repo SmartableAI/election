@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump shuns 'ex-presidents club' — and the feeling is mutual"
+    excerpt: "It's a club Donald Trump was never really interested in joining and certainly not so soon: the cadre of former commanders in chief who revere the presidency enough to put aside often bitter political differences and even join together in common cause."
+    publishedDateTime: 2021-01-23T06:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-shuns-presidents-club-feeling-mutual-75441356"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-shuns-presidents-club-feeling-mutual-75441356"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-shuns-presidents-club-feeling-mutual-75441356"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d4a70d511730496496f95f74a58f0d01_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "In 2nd Trump impeachment trial, will Chief Justice John Roberts preside?"
     excerpt: "Who will preside over the second Donald Trump remains a key open question as lawmakers prepare to begin the unprecedented proceeding as soon as Inauguration Day. The U.S. Constitution says that the Chief Justice of the Supreme Court \"shall preside\" over trials of the President of the United States,"
     publishedDateTime: 2021-01-18T20:37:00Z

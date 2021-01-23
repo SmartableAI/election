@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnel
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 565
+heat: 585
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thehill.com/sites/default/files/durbinrichard_101420gn_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Trump's impeachment trial to begin week of February 8"
+    excerpt: "Former President Donald Trump's impeachment trial will begin the week of February 8, Senate Majority Leader Chuck Schumer announced Friday evening on the Senate floor, with pre-trial proceedings beginning on Monday evening,"
+    publishedDateTime: 2021-01-23T12:00:00Z
+    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-to-begin-week-of-february-8/"
+    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-to-begin-week-of-february-8/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-to-begin-week-of-february-8/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/20/8504b1a6-f128-468e-986b-604e4a3b90fd/thumbnail/1200x630g3/00fd6474a7af79cef700a3c5f09f89de/ap21020506415429.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Senate Minority Leader Mitch McConnell to propose delay of Trump impeachment trial"
     excerpt: "House Speaker Nancy Pelosi said Thursday that she is \"ready\" to send the Trump impeachment article to the Senate, but is waiting for answers on how a trial would work."

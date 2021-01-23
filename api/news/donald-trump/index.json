@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-01-23-trump-shuns-ex-presidents-club-and-the-feeling-is-mutual.md",
-      "title": "Trump shuns ‘ex-presidents club’ — and the feeling is mutual",
-      "excerpt": "Now that he's left office, it's hard to see him embracing the stately, exclusive club of living former presidents.",
+      "path": "_news/2021-01-23-melania-trump-leaves-donald-trump-alone-in-front-of-the-cameras-video.md",
+      "title": "Melania Trump leaves Donald Trump alone in front of the cameras – video",
+      "excerpt": "Former first lady left Donald Trump alone in front of the cameras at Palm Beach airport after the couple left the White House ahead of Joe Biden's inauguration",
       "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2021-01-23/trump-shuns-ex-presidents-club-and-the-feeling-is-mutual",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2021-01-23/trump-shuns-ex-presidents-club-and-the-feeling-is-mutual",
+      "webUrl": "https://www.theguardian.com/us-news/video/2021/jan/23/melania-trump-leaves-donald-trump-alone-in-front-of-the-cameras-video",
+      "originalUrl": "https://www.theguardian.com/us-news/video/2021/jan/23/melania-trump-leaves-donald-trump-alone-in-front-of-the-cameras-video",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/e61cc97/2147483647/strip/true/crop/3818x2494+0+26/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fcb%2Fcb%2F03919bad12a8ca464dacc03373e2%2F32162358bf7e4f1c8c6f808ad1af4d2d",
-          "width": 320,
-          "height": 209,
+          "url": "https://i.guim.co.uk/img/media/13ed5203f77124a21f8ff6fb41659c1b30762c44/30_76_1673_1004/master/1673.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a04315508afc531e643ca3e642bb5c0",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2021-01-23/trump-shuns-ex-presidents-club-and-the-feeling-is-mutual?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-23/trump-shuns-ex-presidents-club-and-the-feeling-is-mutual?_amp=true",
-      "publishedDateTime": "2021-01-23T02:23:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-23T02:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.washingtonpost.com/national-security/trump-justice-department-overturn-election/2021/01/22/b7f0b9fa-5d1c-11eb-a976-bad6431e03e2_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -86,6 +86,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-usagm-chief-fires-trump-allies-over-radio-free-europe-and-other-networks.md",
+      "title": "USAGM Chief Fires Trump Allies Over Radio Free Europe And Other Networks",
+      "excerpt": "The acting head of the U.S. Agency for Global Media fired the presidents and boards over three not-for-profit international networks who were appointed by an ally of former President Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/2021/01/22/959848852/usagm-chief-fires-trump-allies-over-radio-free-europe-and-other-networks",
+      "originalUrl": "https://www.npr.org/2021/01/22/959848852/usagm-chief-fires-trump-allies-over-radio-free-europe-and-other-networks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2021/01/23/ap_10011504186_wide-ec617adb6edf9bdcc0689da453bb1f38b4042c8e.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-22T20:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1511,58 +1563,6 @@
       "ampWebUrl": "https://www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458?amp=1",
       "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458?amp=1",
       "publishedDateTime": "2021-01-18T14:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-majority-of-americans-think-history-will-view-trump-as-failed-president.md",
-      "title": "Majority of Americans Think History Will View Trump as 'Failed' President",
-      "excerpt": "Evaluating a president's time in office often requires a rearview mirror. While history has yet to weigh in on President Donald Trump's time in office, Americans don't see President Donald Trump receiving positive remarks down the road. After a contentious ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394",
-      "originalUrl": "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 304,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1710407/trump-history-americans-failed-president.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1",
-      "publishedDateTime": "2021-01-18T07:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Newsweek",

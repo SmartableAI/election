@@ -2657,6 +2657,17 @@ related:
         width: 2048
         height: 1536
         isCached: true
+  - title: "Senators Urge Biden to Restore POW-MIA Flag Atop White House After Trump Removal"
+    excerpt: "WASHINGTON (Reuters) - Three U.S. senators urged President Joe Biden on Friday to restore a flag honoring missing war veterans atop the White House after former President Donald Trump angered some veterans by moving it last year to a less prominent location."
+    publishedDateTime: 2021-01-23T05:14:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-22/senators-to-ask-biden-to-restore-pow-mia-flag-to-white-house-after-trump-departure"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-22/senators-to-ask-biden-to-restore-pow-mia-flag-to-white-house-after-trump-departure?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-22/senators-to-ask-biden-to-restore-pow-mia-flag-to-white-house-after-trump-departure?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 65
   - title: "Inauguration speech 2021: Read Joe Biden’s inaugural address. ‘We must end this uncivil war.’"
     excerpt: "\"We have learned again that democracy is precious. Democracy is fragile. And at this hour, my friends, democracy has prevailed.\""
     publishedDateTime: 2021-01-20T19:32:00Z

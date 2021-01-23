@@ -2647,6 +2647,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Pennsylvania Will Reflect Voter Mood During Biden Presidency"
+    excerpt: "In his inaugural address, President Biden focused on a message of unity as the nation confronts overwhelming challenges, including the COVID-19"
+    publishedDateTime: 2021-01-23T12:13:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/23/pennsylvania_will_reflect_voter_mood_during_biden_presidency_145101.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/23/pennsylvania_will_reflect_voter_mood_during_biden_presidency_145101.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/23/pennsylvania_will_reflect_voter_mood_during_biden_presidency_145101.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/528942_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Biden Shows How Dems Changed in the Trump Era"
     excerpt: "Democrats spent much of the last four years debating exactly how they lost to a fairly unpopular and flawed candidate like Donald Trump in 2016 and what changes… Read Full Artic"
     publishedDateTime: 2021-01-22T13:03:00Z

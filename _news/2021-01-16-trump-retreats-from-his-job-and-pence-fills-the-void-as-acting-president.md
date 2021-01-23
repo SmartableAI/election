@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-01-15/as-trump-retreats-
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-15/as-trump-retreats-from-his-job-pence-fills-the-void-as-acting-president?_amp=true"
 type: article
 quality: 138
-heat: 758
+heat: 778
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_6f970d7ab27649ca9c0da2caebb71a07_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump shuns 'ex-presidents club' — and the feeling is mutual"
+    excerpt: "It's a club Donald Trump was never really interested in joining and certainly not so soon: the cadre of former commanders in chief who revere the presidency enough to put aside often bitter political differences and even join together in common cause."
+    publishedDateTime: 2021-01-23T06:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-shuns-presidents-club-feeling-mutual-75441356"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-shuns-presidents-club-feeling-mutual-75441356"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-shuns-presidents-club-feeling-mutual-75441356"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d4a70d511730496496f95f74a58f0d01_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

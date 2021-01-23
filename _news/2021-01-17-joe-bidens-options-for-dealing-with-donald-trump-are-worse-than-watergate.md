@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donal
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1"
 type: article
 quality: 148
-heat: 2168
+heat: 2188
 published: true
 
 provider:
@@ -623,6 +623,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/UrZLd69HU1icaCBSsBq3vIlKOPI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/35ZRTEAFVBGLJPRRAKRZ2WWK3M.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden and Trudeau agree to cooperate on Covid and climate change"
+    excerpt: "In phone call, US and Canadian leaders discuss collaboration on vaccines and plan to meet next month"
+    publishedDateTime: 2021-01-23T04:24:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/23/biden-and-trudeau-agree-to-cooperate-on-covid-and-climate-change"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/23/biden-and-trudeau-agree-to-cooperate-on-covid-and-climate-change"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/23/biden-and-trudeau-agree-to-cooperate-on-covid-and-climate-change"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/0866a1cbf1d9abd8f816c5400d07be4086c1f6a0/0_108_3236_1942/master/3236.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=59bca6bd0101da44198575f1d16851b0"
+        width: 600
+        height: 360
         isCached: true
   - title: "Timeline to Trump's impeachment trial in U.S. Senate"
     excerpt: "Former President Donald Trump's trial in the U.S. Senate will start in the week of Feb. 8, Senate leaders said on Friday, following his impeachment in the House of Representatives earlier this month on a charge of inciting an insurrection."

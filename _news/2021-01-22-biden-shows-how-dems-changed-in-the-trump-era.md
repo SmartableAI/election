@@ -2658,6 +2658,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Pennsylvania Will Reflect Voter Mood During Biden Presidency"
+    excerpt: "In his inaugural address, President Biden focused on a message of unity as the nation confronts overwhelming challenges, including the COVID-19"
+    publishedDateTime: 2021-01-23T12:13:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/23/pennsylvania_will_reflect_voter_mood_during_biden_presidency_145101.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/23/pennsylvania_will_reflect_voter_mood_during_biden_presidency_145101.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/23/pennsylvania_will_reflect_voter_mood_during_biden_presidency_145101.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/528942_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "President Trump: Joe Biden Lied About Hunter Biden Investigation On The Debate Stage"
     excerpt: "President Trump discussed new reporting that confirms the FBI has indeed been investigating Joe Biden's son Hunter for financial crimes related to his business in Ukraine. President Trump was impeached for asking for help from an allied country about an ongoing criminal investigation."
     publishedDateTime: 2020-12-13T15:51:00Z

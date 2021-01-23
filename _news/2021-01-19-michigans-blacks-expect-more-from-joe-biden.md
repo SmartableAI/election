@@ -2649,6 +2649,17 @@ related:
         width: 2048
         height: 1536
         isCached: true
+  - title: "Senators Urge Biden to Restore POW-MIA Flag Atop White House After Trump Removal"
+    excerpt: "WASHINGTON (Reuters) - Three U.S. senators urged President Joe Biden on Friday to restore a flag honoring missing war veterans atop the White House after former President Donald Trump angered some veterans by moving it last year to a less prominent location."
+    publishedDateTime: 2021-01-23T05:14:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-22/senators-to-ask-biden-to-restore-pow-mia-flag-to-white-house-after-trump-departure"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-22/senators-to-ask-biden-to-restore-pow-mia-flag-to-white-house-after-trump-departure?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-22/senators-to-ask-biden-to-restore-pow-mia-flag-to-white-house-after-trump-departure?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 65
   - title: "If Joe Biden wants to bring his Peloton to the White House, here’s what would have to happen"
     excerpt: "Joe Biden could be the beneficiary of similar treatment. While quarantining at home amid the coronavirus pandemic, The New York Times reported that Biden began each day “with a workout in an upstairs gym that contains a Peloton bike,"
     publishedDateTime: 2021-01-21T11:33:00Z
