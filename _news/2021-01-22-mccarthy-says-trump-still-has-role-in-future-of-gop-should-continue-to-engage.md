@@ -432,6 +432,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "'We'll do something': Trump offers first remarks since leaving office"
+    excerpt: "Former President Donald Trump was mysterious about his future plans in his first public remarks since leaving the White House earlier this week, but he suggested action is in the works, according to a report."
+    publishedDateTime: 2021-01-23T00:06:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u6ZLwHKL7o4/trump-mum-on-future-in-first-remarks-since-leaving-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ea90d02-cd6e-457c-b53e-f2fb5331749a/299a153c-3c94-492a-ad8f-7b19470806e9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Clyburn suggests 14th Amendment could bar Trump from holding office again"
     excerpt: "House Majority Whip James Clyburn, D-S.C., told Fox News Wednesday that President Trump should be legally prevented from holding elected office again as the House impeached him for an unprecedented second time. "
     publishedDateTime: 2021-01-13T23:10:41Z

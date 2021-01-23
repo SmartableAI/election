@@ -431,6 +431,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "'We'll do something': Trump offers first remarks since leaving office"
+    excerpt: "Former President Donald Trump was mysterious about his future plans in his first public remarks since leaving the White House earlier this week, but he suggested action is in the works, according to a report."
+    publishedDateTime: 2021-01-23T00:06:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u6ZLwHKL7o4/trump-mum-on-future-in-first-remarks-since-leaving-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ea90d02-cd6e-457c-b53e-f2fb5331749a/299a153c-3c94-492a-ad8f-7b19470806e9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Rep. Donalds: House Dems 'weaponized' race to make Trump impeachment case"
     excerpt: "The left always uses race to weaponize their arguments, Rep. Byron Donalds, R-Fla., said on Thursday in reaction to House Democrats calling President Trump a white supremacist during the impeachment proceedings."
     publishedDateTime: 2021-01-14T13:16:09Z

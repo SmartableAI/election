@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-01-08-biden-picks-rhode-island-gov-raimondo-as-commerce-secretary.md",
+      "title": "Biden picks Rhode Island Gov. Raimondo as commerce secretary",
+      "excerpt": "President-elect Joe Biden has picked Rhode Island Gov. Gina Raimondo to lead the Commerce Department, helping set trade policy and looking to promote U.S. opportunities for growth domestically and ove",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_1a265eaa6b3e4e8b846a8ca36f069096_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998",
+      "publishedDateTime": "2021-01-07T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-prosecutors-looking-at-all-actors-including-trump-as-charges-are-filed-against-capitol-rioters.md",
       "title": "Prosecutors 'looking at all actors,' including Trump, as charges are filed against Capitol rioters",
       "excerpt": "Federal investigators are looking at everyone involved in the unrest at the US Capitol on Wednesday, including the role President Donald Trump played in inciting the crowd, the acting US attorney in Washington, DC, said Thursday.\n    \n",
@@ -1308,62 +1360,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-graham-trump-and-i-have-had-a-hell-of-a-journey-but-enough-is-enough.md",
-      "title": "Graham: Trump and I have had a hell of a journey, but enough is enough",
-      "excerpt": "Republican Sen. Lindsey Graham, who has been a staunch supporter of President Trump, vigorously defended to certify the electoral college votes on the Senate floor.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-rodRQ0xGIw/lindsey-graham-capitol-certification-sot-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-rodRQ0xGIw/lindsey-graham-capitol-certification-sot-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210106222257-graham-senate-floor-speech-vpx-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/01/07/lindsey-graham-capitol-certification-sot-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/07/lindsey-graham-capitol-certification-sot-vpx.cnn",
-      "publishedDateTime": "2021-01-06T19:38:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

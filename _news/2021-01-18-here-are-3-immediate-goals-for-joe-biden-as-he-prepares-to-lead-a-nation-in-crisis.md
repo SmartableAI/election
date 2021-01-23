@@ -1097,6 +1097,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Texas sues Biden administration over halt to deportations"
+    excerpt: "Texas on Friday moved to stop President Joe Biden from allowing a 100-day moratorium on deportations, bringing one of the first lawsuits against his new administration. In rushing to court not even a week after Biden was sworn in,"
+    publishedDateTime: 2021-01-23T00:44:00Z
+    webUrl: "https://www.washingtonpost.com/national/texas-sues-biden-administration-over-halt-to-deportations/2021/01/22/326c73b4-5cea-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/texas-sues-biden-administration-over-halt-to-deportations/2021/01/22/326c73b4-5cea-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/texas-sues-biden-administration-over-halt-to-deportations/2021/01/22/326c73b4-5cea-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden must find words for a wounded nation in inauguration like no other"
     excerpt: "Planners have been forced to be inventive after the deadly pandemic and now last week’s Capitol insurrection dictated a pared-down event"
     publishedDateTime: 2021-01-16T07:00:00Z
@@ -1224,6 +1240,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4KVQTYBZSMI6XKWZRFMSE4UAYQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Pastor says addressing resistance to Biden administration is part of the job"
+    excerpt: "Pastor Chad Harvey admits that emotions are still “a little high” after President Joe Biden’s inauguration this week. His congregation in Raleigh, North Carolina, largely supported former President Donald Trump ’s reelection."
+    publishedDateTime: 2021-01-23T00:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/pastor-addressing-resistance-biden-administration-part-job/story?id=75436156"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/pastor-addressing-resistance-biden-administration-part-job/story?id=75436156"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pastor-addressing-resistance-biden-administration-part-job/story?id=75436156"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/US/chad-harvey1-abc-ay-210122_1611359718501_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Joe Biden Inauguration: Where Does it Take Place, What Time and Concert Details"
     excerpt: "Amid the ongoing COVID-19 pandemic, the inauguration and traditional parade following the ceremony will have limited attendance."

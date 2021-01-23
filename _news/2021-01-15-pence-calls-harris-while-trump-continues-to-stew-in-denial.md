@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/mike-pence-donald-trump-presidency/index.html"
 type: article
 quality: 225
-heat: 2265
+heat: 2285
 published: true
 
 provider:
@@ -1400,6 +1400,22 @@ related:
     quality: 130
     images:
       - url: "https://static01.nyt.com/images/2021/01/12/us/12virus-briefing-dc/12virus-briefing-dc-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump and Justice Dept. Lawyer Said to Have Plotted to Oust Acting Attorney General"
+    excerpt: "Trying to find another avenue to push his baseless election claims, Donald Trump considered installing a loyalist, and had the men make their cases to him."
+    publishedDateTime: 2021-01-23T00:44:00Z
+    webUrl: "https://www.nytimes.com/2021/01/22/us/politics/jeffrey-clark-trump-justice-department-election.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/22/us/politics/jeffrey-clark-trump-justice-department-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/22/us/politics/jeffrey-clark-trump-justice-department-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/22/us/politics/22dc-justice-2/merlin_177024735_ee449546-a768-46a9-9292-1bd0ab2998cf-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

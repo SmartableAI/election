@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/d6b1f767c1358f4f51885c3503a0754e468d821a/0_433_5668_3401/master/5668.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=52e90980f970ef55af38de5f1fcdcfda"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden seeks to speed delivery of coronavirus stimulus checks and food aid"
+    excerpt: "U.S. President Joe Biden on Friday will sign orders to speed the issuance of pandemic stimulus checks to needy families and increase food aid for children who normally rely on school meals for nutrition."
+    publishedDateTime: 2021-01-23T00:12:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-idINKBN29R122"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29R122"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R122"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548763539&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1HM"
+        width: 812
+        height: 545
         isCached: true
   - title: "Coronavirus live news: Biden receives vaccine as Congress passes US aid bill"
     excerpt: "UK warned to expect further restrictions; intensive care beds full in southern California; Denmark bans mink farms for a year"

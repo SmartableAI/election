@@ -3,8 +3,8 @@ category: news
 title: "Impeachment Article Against Trump to Be Delivered to Senate Monday"
 excerpt: "The article of impeachment against former President Donald Trump will be delivered to the Senate Monday, Majority Leader Chuck Schumer said, triggering a second impeachment trial."
 publishedDateTime: 2021-01-22T14:21:00Z
-originalUrl: "https://www.wsj.com/articles/impeachment-article-against-trump-to-be-delivered-to-senate-monday-11611328900?mod=hp_lead_pos1"
-webUrl: "https://www.wsj.com/articles/impeachment-article-against-trump-to-be-delivered-to-senate-monday-11611328900?mod=hp_lead_pos1"
+originalUrl: "https://www.wsj.com/articles/impeachment-article-against-trump-to-be-delivered-to-senate-monday-11611328900"
+webUrl: "https://www.wsj.com/articles/impeachment-article-against-trump-to-be-delivered-to-senate-monday-11611328900"
 ampWebUrl: "https://www.wsj.com/amp/articles/impeachment-article-against-trump-to-be-delivered-to-senate-monday-11611328900"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/impeachment-article-against-trump-to-be-delivered-to-senate-monday-11611328900"
 type: article
@@ -65,6 +65,6 @@ related:
         height: 340
         isCached: true
 
-secured: "j1SMOzul9JTVU43xyTr26sd9QMx+aab/xMLiYlxLI2GhxRigcH55XS4YI6iRq88uPBF8XlMckuiMcZ6X2bcV3egUyxAfbHRhsRsxLNb6gFpczQoXT+V65l292T9j2mSiEoVcdfWCMe8d7AH5nud2rptWVIOYPXEVZ+1pwKqNX4FbKbkP6lhjRcmKPYBz8RpSoBgpcKqnGiATwelKiLbH7Oa1hNwX+rhsUm150hMHoDSfX3M11H48uu48ed6OMHOU8WsXrE+EvYlZgIb2FmesiPm0GXeFcy5h2txZSShSfaQOmBShKZU2zH79oOhdLE0zl+4DxCbqkdm6t6dSu7GlYUbgkeuxy9JYLiPFFU3Zy1I=;g1lzJMGDmGzabJbMEU5HOg=="
+secured: "FQEmYVcYPHWdbHPngHfUnM0VuIt5N9IeRtxmL/O+1QreO4FwNJgxtBHYdsDrbz8TZ/vISURrE3hxGTuARyeSVyFdMi9lqaAEvAX5qbos1aqT9Y8BKpu3sV90VEWmUPU636xVAfqlpH+fgEIBqDR4cgWFO//+HiU5M5JsNkxSdEF7xABf/ixS6Brn0XjYSZ/FpU37e5X4hamvME1/7JuuS1dWJNx+/TOEyZpFTpaeJJJULXIvTKbHzf4eW7IYp7Qlp6tYFktjYmciXQUBJUJgXKSqRVpNKc/LSosRzNrKNwQJ0NAsYpM0UYsS/rtaaI3w5nWJj9T3bE7pYKf+Y8udzx9viujaOFFkg17OhAs55o0=;2maDzpI41ZUv0EjxtZYPCQ=="
 ---
 

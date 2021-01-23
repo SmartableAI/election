@@ -1317,6 +1317,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "To honor Kamala Harris, these women are bringing a traditional Indian art form to D.C., made by thousands of hands"
+    excerpt: "All of us were so ready for something like this,” said Shanthi Chandrasekar, an organizer of the public art, called a kolam, which will welcome Biden and Harris to D.C."
+    publishedDateTime: 2021-01-22T23:01:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/2021/01/22/kolam-indian-art-biden-harris/"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/2021/01/22/kolam-indian-art-biden-harris/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/2021/01/22/kolam-indian-art-biden-harris/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 103
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3LB5IZW25JECFF2I533VP47YDA.jpg&w=1440"
+        width: 1440
+        height: 780
+        isCached: true
   - title: "U.S. state capitals, Washington on alert for possible pro-Trump armed protests"
     excerpt: "Ten days after rioters breached the U.S. Capitol in a deadly attack that stunned the world, cities nationwide were girding for a potential new wave of violent protests over the weekend, erecting barriers and deploying thousands of National Guard troops."
     publishedDateTime: 2021-01-17T06:50:00Z

@@ -1418,6 +1418,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump and Justice Dept. Lawyer Said to Have Plotted to Oust Acting Attorney General"
+    excerpt: "Trying to find another avenue to push his baseless election claims, Donald Trump considered installing a loyalist, and had the men make their cases to him."
+    publishedDateTime: 2021-01-23T00:44:00Z
+    webUrl: "https://www.nytimes.com/2021/01/22/us/politics/jeffrey-clark-trump-justice-department-election.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/22/us/politics/jeffrey-clark-trump-justice-department-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/22/us/politics/jeffrey-clark-trump-justice-department-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/22/us/politics/22dc-justice-2/merlin_177024735_ee449546-a768-46a9-9292-1bd0ab2998cf-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "A fitting end to the Trump presidency"
     excerpt: "We all knew President DONALD TRUMP’s term would end badly. It had to. There were just too many lies. Too many conspiracy theories. Too many times where journalists searched their syllabuses for new ways to say “unprecedented” and where Americans across the country sat aghast learning just how low we could go in our own eyes and in the eyes of the world."
     publishedDateTime: 2021-01-08T11:35:00Z

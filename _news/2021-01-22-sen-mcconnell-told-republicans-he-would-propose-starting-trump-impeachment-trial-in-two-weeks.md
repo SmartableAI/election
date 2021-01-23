@@ -46,6 +46,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump impeachment trial delayed until week of Feb. 8, Schumer says"
+    excerpt: "Senate Majority Leader Chuck Schumer, D-N.Y., said on Friday lawmakers will wait to carry out President Donald Trump’s impeachment hearings for several weeks, following a brief standoff on Capitol Hill over timing."
+    publishedDateTime: 2021-01-22T23:53:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_evwvTdGK2U/schumer-delay-donald-trump-impeachment-hearing"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-delay-donald-trump-impeachment-hearing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-delay-donald-trump-impeachment-hearing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4551bbe2-cfd4-453d-bdfb-46b43c640ba9/3da10210-5367-4f1e-9ec6-39be45d1a096/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "LIVE UPDATES: Republicans propose delaying Trump's impeachment to February"
     excerpt: "Follow for the latest updates on Trump's impeachment"
     publishedDateTime: 2021-01-22T06:27:06Z

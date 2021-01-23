@@ -157,6 +157,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "To fight impeachment, Trump turns to ‘Butch’ Bowers, a South Carolina lawyer at a small firm who has defended state Republicans"
+    excerpt: "Bowers is taking on his biggest case yet: defending former president Donald Trump in his second impeachment trial, this time against a charge that he incited a mob to attack the U.S. Capitol. The longtime GOP attorney is little known outside of South Carolina and has no powerhouse law firm behind him."
+    publishedDateTime: 2021-01-23T00:57:00Z
+    webUrl: "https://www.washingtonpost.com/politics/butch-bowers-trump-attorney/2021/01/22/c1b58dd0-5cd6-11eb-a976-bad6431e03e2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/butch-bowers-trump-attorney/2021/01/22/c1b58dd0-5cd6-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/butch-bowers-trump-attorney/2021/01/22/c1b58dd0-5cd6-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 97
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XEEPABS45EI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 1100
+        isCached: true
   - title: "This day in history, January 16: The impeachment trial of President Donald Trump opens in the Senate"
     excerpt: "Almanacs are full of lists of global and national historic events. But “This Day in History” feature invites you to not just peruse a list, but to take a trip back in time to see how a significant event originally was reported in the Chicago Tribune."
     publishedDateTime: 2021-01-16T13:10:00Z

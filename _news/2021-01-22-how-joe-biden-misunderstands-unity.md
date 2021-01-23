@@ -3,8 +3,8 @@ category: news
 title: "How Joe Biden Misunderstands Unity"
 excerpt: "In Biden's speech, St. Augustine's deep warning about misdirected unity in love of the wrong thing becomes the spiritual equivalent of c'mon, man. Read Full Article »"
 publishedDateTime: 2021-01-22T03:57:00Z
-originalUrl: "https://www.realclearpolitics.com/2021/01/22/how_joe_biden_misunderstands_unity_534062.html"
-webUrl: "https://www.realclearpolitics.com/2021/01/22/how_joe_biden_misunderstands_unity_534062.html"
+originalUrl: "https://www.realclearpolitics.com/2021/01/22/how_joe_biden_misunderstands_unity_534062.html#!"
+webUrl: "https://www.realclearpolitics.com/2021/01/22/how_joe_biden_misunderstands_unity_534062.html#!"
 type: article
 quality: 65
 heat: -1
@@ -2707,6 +2707,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "38x3ZDECQrbCGGuBzPwYQdnjFHzx6BlVeVoosPKf1z5vovQjBJ0vQVJuzhLksoCJa6dp2zAqf46tke60m9WOInRHOJIBp71L5G2fosMRVHe5iA6iYRGVtwyWV8rvrBhX0vRcIbbgjKb7+JProfFiPsnV4Zspf04v6FJ9FlEbPg6KCzHi1hmGLYT0IBr2nT293KXNDIvmwcNZ/AsQtLi1cmVdC1Ns7oT5Q3gqvtFN9bVNxiU943HdZdd8Op+s6EqUHO0CImqC8GFpRLGQGY4VhHkBAAyrwpu1b1bMffCH/El0JI45vkRSr57nB0ynY1rmbEjvQw5OnGVjFUcMqa4owCG3qf1j7Lhws74s2XUFm3w=;/xhg5sGUyd0BkTaeU/b9jQ=="
+secured: "QTfdnIab98AYxUcgyp4aEstylBRIRm8TwC2tlbDsRJmnLDLw9ZUb+bYAYp0SJC8AP9SIC3AHtjUXz/GzCveGf76zmabaw2J3tdohe1CP5AyhqgkYbpYZODJE9TY9L1dYKGzRrS6gq5Jl2HJJRAEMtSIAj6pmmxFYtq/gmzsJz0cA/OI+wndPcCPzVSm1SV/afwAktugE45YHy3XzpbgtQt4xT6qL2fUoB1nZ1hnzw08UVSo6TAe7kUnSEk7S8DZ6j8cefJ0IPFYalXcoB1Ca5lhcZvL8QRhDGJj5+e9gP6Z312ElB5WwY5/rE8FHixS9WXdCRqADTj7LpRT9vaQjXkDCZac95qLhzuyt6fmtTVo=;syHt9HwCfFleMIUYZKxorA=="
 ---
 

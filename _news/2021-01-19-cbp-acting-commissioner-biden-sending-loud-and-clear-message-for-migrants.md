@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden giving Putin 'exactly what he wanted' on nuclear arms treaty: Cotton"
+    excerpt: "Sen. Tom Cotton, R-Ark., ripped the Biden administration Friday for its proposed extension of the sole remaining nuclear arms control treaty between the U.S. and Russia, telling \"The Story\" it places national security at risk."
+    publishedDateTime: 2021-01-22T23:13:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/of4m4fWk9FM/biden-giving-putin-wanted-nuclear-arms-treaty-cotton"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-giving-putin-wanted-nuclear-arms-treaty-cotton.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-giving-putin-wanted-nuclear-arms-treaty-cotton.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1b53cc78-2fd6-4a76-8c9f-db9c211acece/ae6504ef-1c6d-4095-bce9-29949c0c82ea/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden White House announces new effort to focus on 'domestic violent extremism'"
     excerpt: "President Biden requested a “comprehensive threat assessment” on domestic violent extremism from the Office of the Director of National Intelligence on Friday, in coordination with the FBI and the Department of Homeland Security, White House Press Secretary Jen Psaki said."
     publishedDateTime: 2021-01-22T19:08:33Z

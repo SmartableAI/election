@@ -991,6 +991,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden admin launches review of Trump decision to designate Yemen's Houthis as foreign terrorist organization"
+    excerpt: "The State Department has initiated a review of the Trump administration's decision to designate Yemen's Houthi rebels as a foreign terrorist organization (FTO), a spokesperson told CNN Friday.\n    \n"
+    publishedDateTime: 2021-01-22T23:59:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HlwUUPIOex0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/houthi-designation-review/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/houthi-designation-review/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170126133447-state-department-building-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Here are the 30 executive orders and actions Biden signed in his first three days"
     excerpt: "President Joe Biden has signed a flurry of executive orders, actions and memorandums aimed at rapidly addressing the coronavirus pandemic and dismantling many of President Donald Trump's policies.\n    \n"
     publishedDateTime: 2021-01-22T15:39:41Z
@@ -2120,6 +2136,20 @@ related:
       - url: "https://static.politico.com/37/08/1bda4a254d3bbd36d058b46e8994/210113-trump-getty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Will There Be a Trump Presidential Library? Don’t Count On It."
+    excerpt: "For months, as the end of Donald Trump’s term approached, historians and journalists have been playing a speculation game: What will Donald Trump’s presidential library be like? “A shrine to his ego,” predicted a historian in the Washington Post."
+    publishedDateTime: 2021-01-23T00:19:00Z
+    webUrl: "https://www.politico.com/news/magazine/2021/01/22/trump-presidential-library-plans-461383"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/11/b6/805491d743d3b4a7507b713df57a/trump-library-illo-copy.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "How the First Day of the Trump Presidency Foreshadowed The Four Years to Come"
     excerpt: "President Donald Trump and first lady Melania Trump walk along the inauguration day parade route on Pennsylvania Avenue after he was sworn in as the 45th President of the United States in Washington."

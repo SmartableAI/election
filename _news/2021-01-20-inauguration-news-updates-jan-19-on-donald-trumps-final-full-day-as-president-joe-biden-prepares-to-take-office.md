@@ -1310,6 +1310,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "To honor Kamala Harris, these women are bringing a traditional Indian art form to D.C., made by thousands of hands"
+    excerpt: "All of us were so ready for something like this,” said Shanthi Chandrasekar, an organizer of the public art, called a kolam, which will welcome Biden and Harris to D.C."
+    publishedDateTime: 2021-01-22T23:01:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/2021/01/22/kolam-indian-art-biden-harris/"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/2021/01/22/kolam-indian-art-biden-harris/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/2021/01/22/kolam-indian-art-biden-harris/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 103
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3LB5IZW25JECFF2I533VP47YDA.jpg&w=1440"
+        width: 1440
+        height: 780
+        isCached: true
   - title: "Washington to see 'new normal' for security after Biden inauguration: DC mayor"
     excerpt: "Washington Mayor Muriel Bowser said on Friday that even after the presidential inauguration on Jan. 20 the city will have to maintain heightened security in light of the Capitol rights."
     publishedDateTime: 2021-01-15T18:44:00Z

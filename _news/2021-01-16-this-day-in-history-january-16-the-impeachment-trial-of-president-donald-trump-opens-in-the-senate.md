@@ -171,6 +171,22 @@ related:
         width: 810
         height: 540
         isCached: true
+  - title: "To fight impeachment, Trump turns to ‘Butch’ Bowers, a South Carolina lawyer at a small firm who has defended state Republicans"
+    excerpt: "Bowers is taking on his biggest case yet: defending former president Donald Trump in his second impeachment trial, this time against a charge that he incited a mob to attack the U.S. Capitol. The longtime GOP attorney is little known outside of South Carolina and has no powerhouse law firm behind him."
+    publishedDateTime: 2021-01-23T00:57:00Z
+    webUrl: "https://www.washingtonpost.com/politics/butch-bowers-trump-attorney/2021/01/22/c1b58dd0-5cd6-11eb-a976-bad6431e03e2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/butch-bowers-trump-attorney/2021/01/22/c1b58dd0-5cd6-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/butch-bowers-trump-attorney/2021/01/22/c1b58dd0-5cd6-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 97
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XEEPABS45EI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 1100
+        isCached: true
   - title: "Trump impeachment: after term is over, is there precedent? You asked, we answered."
     excerpt: "Trump impeachment: is impeachment after term is over a possibility? What's the precedent? Your impeachment questions, answered on States of America."
     publishedDateTime: 2021-01-16T06:39:00Z

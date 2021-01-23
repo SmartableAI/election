@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-07-read-pence-letter-saying-he-does-not-have-unilateral-authority-to-reject-electoral-votes.md",
+      "title": "READ: Pence letter saying he does not have 'unilateral authority' to reject electoral votes",
+      "excerpt": "Pence writes a letter saying he does not have 'unilateral authority' to reject electoral votes",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ljnAEb1RQQ8/read-pence-letter-unilateral-authority-to-reject-electoral-votes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ljnAEb1RQQ8/read-pence-letter-unilateral-authority-to-reject-electoral-votes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Pence-bt2.jpg",
+          "width": 1280,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-07T05:53:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-biden-pick-for-dept-of-justices-top-civil-rights-post-has-called-for-partially-defunding-police.md",
       "title": "Biden pick for Dept. of Justice's top civil rights post has called for partially defunding police",
       "excerpt": "President-elect Joe Biden is expected to pick Kristen Clarke, a civil rights lawyer, as Assistant Attorney General for the Civil Rights Division of the Department of Justice, which is expected to be a prioritized role in the Biden administration.",
@@ -1568,62 +1625,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-campaign-promises-included-decriminalizing-hiv-exposure.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-promises-included-decriminalizing-hiv-exposure.amp",
       "publishedDateTime": "2020-12-30T20:10:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-census-bureau-to-miss-deadline-threatening-trumps-attempt-to-exclude-illegal-migrants-from-census.md",
-      "title": "Census Bureau to miss deadline, threatening Trump's attempt to exclude illegal migrants from census",
-      "excerpt": "For the first time in four decades the Census Bureau will miss their deadline on reporting apportionment figures used to divvy up congressional seats.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LByAen0K4J8/census-bureau-misses-deadline-threatening-trumps-plan-to-exclude-illegal-migrants-from-appropriating-congres",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LByAen0K4J8/census-bureau-misses-deadline-threatening-trumps-plan-to-exclude-illegal-migrants-from-appropriating-congres",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2846be92-1dbc-461f-b9d1-c0cad93bc68c/6d8aecbe-dd96-4dbd-bcfd-32bc43bbd6b6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/census-bureau-misses-deadline-threatening-trumps-plan-to-exclude-illegal-migrants-from-appropriating-congres.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/census-bureau-misses-deadline-threatening-trumps-plan-to-exclude-illegal-migrants-from-appropriating-congres.amp",
-      "publishedDateTime": "2020-12-30T17:48:15-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

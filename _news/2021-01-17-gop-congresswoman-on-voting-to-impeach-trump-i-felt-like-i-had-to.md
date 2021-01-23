@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/gop-rep-jaime-herrera-beutler-on-vo
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/"
 type: article
 quality: 125
-heat: 285
+heat: 345
 published: true
 
 provider:
@@ -63,6 +63,36 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Schumer: Trump impeachment trial to begin week of Feb. 8"
+    excerpt: "Opening arguments in the Senate impeachment trial for Donald Trump on the charge of incitement of insurrection will begin the week of Feb. 8."
+    publishedDateTime: 2021-01-22T23:31:00Z
+    webUrl: "https://www.businessinsider.com/schumer-trump-impeachment-trial-to-begin-week-of-feb-8-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/schumer-trump-impeachment-trial-to-begin-week-of-feb-8-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/schumer-trump-impeachment-trial-to-begin-week-of-feb-8-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/600b5eea7e47190011cb8ddc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Senate To Begin Trump's Impeachment Trial Week Of Feb. 8"
+    excerpt: "The House of Representatives, which already voted to impeach Trump, plans to transmit the article on Monday evening."
+    publishedDateTime: 2021-01-23T00:26:00Z
+    webUrl: "https://www.npr.org/2021/01/22/959606259/house-to-transmit-article-of-impeachment-to-senate-on-monday-schumer-says"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2021/01/22/ap_21022693843011_wide-0e5bb741df25be58f1a1f4f42485b4ee36c379b3.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Historians worry a Trump library will be an airbrushed 'MAGA' tribute to a twice-impeached president"
     excerpt: "It's not hard to image Trump's presidential library will burnish his tarnished legacy after he leaves office. Don't expect that to go smoothly."
     publishedDateTime: 2021-01-15T16:03:00Z
@@ -108,6 +138,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/the-cancelled-diplomatic-trips-round-off-four-tumultuous.jpg"
         width: 1024
         height: 677
+        isCached: true
+  - title: "Trump impeachment trial to begin week of Feb. 8 following Schumer, GOP agreement"
+    excerpt: "Under the timeline, the House will transmit the impeachment article against Trump late Monday, with initial proceedings Tuesday."
+    publishedDateTime: 2021-01-22T22:40:00Z
+    webUrl: "https://www.al.com/politics/2021/01/trump-impeachment-trial-to-begin-week-of-feb-8-following-schumer-gop-agreement.html"
+    ampWebUrl: "https://www.al.com/politics/2021/01/trump-impeachment-trial-to-begin-week-of-feb-8-following-schumer-gop-agreement.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/trump-impeachment-trial-to-begin-week-of-feb-8-following-schumer-gop-agreement.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 70
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HXOMJQPUVZDCBJLGYXGICGVH2I.jpg"
+        width: 5472
+        height: 3648
         isCached: true
   - title: "Watch live: House vote today to impeach Trump for a second time"
     excerpt: "The resolution is in response to last week’s assault on the U.S. Capitol by Trump supporters."
