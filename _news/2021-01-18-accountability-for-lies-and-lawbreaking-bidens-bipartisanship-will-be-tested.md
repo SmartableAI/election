@@ -1920,6 +1920,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Is President Biden Ready for the New Senate?"
+    excerpt: "Credit...Zach Gibson for The New York Times It was the Senate version of a gold watch. As the Obama administration wound to a close in December 2016, Joe Biden’s old pals gathered around their water cooler — the dais on the Senate floor — and threw what passes for a retirement party in Congress."
+    publishedDateTime: 2021-01-23T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/23/us/politics/joe-biden-senate.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/23/us/politics/joe-biden-senate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/23/us/politics/joe-biden-senate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/24/multimedia/23onpolitics-04/23onpolitics-04-facebookJumbo.jpg"
+        width: 911
+        height: 477
+        isCached: true
   - title: "Biden will halt federal executions, other actions on first day in office"
     excerpt: "The president-elect has a long list of executive actions he plans to take as soon as he's sworn in on Jan. 20."
     publishedDateTime: 2021-01-18T13:21:00Z

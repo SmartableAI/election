@@ -29,37 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Bette Midler Says Donald Trump Will 'Burn Down' The White House Before He Leaves"
-    excerpt: "\"How many more will die in the service of this mediocrity? And watch, he'll burn the WH down before he goes,\" Midler tweeted Tuesday."
-    publishedDateTime: 2021-01-12T17:33:00Z
-    webUrl: "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892"
-    ampWebUrl: "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1"
+  - title: "Trump shuns ‘ex-presidents club’ — and the feeling is mutual"
+    excerpt: "Now that he's left office, it's hard to see him embracing the stately, exclusive club of living former presidents."
+    publishedDateTime: 2021-01-23T10:23:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-23/trump-shuns-ex-presidents-club-and-the-feeling-is-mutual"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-23/trump-shuns-ex-presidents-club-and-the-feeling-is-mutual?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-23/trump-shuns-ex-presidents-club-and-the-feeling-is-mutual?_amp=true"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 120
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1673938/bette-midler.jpg"
-        width: 3000
-        height: 2023
-        isCached: true
-  - title: "Former White House spokesman Hogan Gidley says Trump is the 'most masculine' president in US history"
-    excerpt: "This came after Fox News host Bill Hemmer asked Gidley if Trump felt \"emasculated\" by the recent \"social media crackdown.\""
-    publishedDateTime: 2021-01-11T22:59:00Z
-    webUrl: "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/5ffcc49fbde805001980c448?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e61cc97/2147483647/strip/true/crop/3818x2494+0+26/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fcb%2Fcb%2F03919bad12a8ca464dacc03373e2%2F32162358bf7e4f1c8c6f808ad1af4d2d"
+        width: 320
+        height: 209
         isCached: true
 
 secured: "AUQx7dbcnAXErLKHtqZlQyNkDInRrkrFl1HB1sUFUUIyXIFI3ZRL1lyyonHeqajaEO9KZAScOZNa7J3Euqpq2jZNNYp94JeRAocJZB2cjeaRLahKXTtE91COl4wslyac+wQboaNYBSAkPOvnQNf+iMaTL9iXqGa9v5YXajDwqOVDVyP4UFw6hr0h3ds5R1uG3Y4532SzL8d6POiOOCnNxOwho+R+MTP9mY5/Ui/HPEV6KcDUQJtG+ORrK2ObLu8B4bDeTtALj3TtUwXmDfmqm0WsSr6dAoZKpdTQW17IPU8pOuzng+pN8IbZk6OEXPx7HWPIw1Fqx5ILXmkQcxhY/X65h+VQy7ymfgGpXr4Z9Ew=;IMvYmkaTgfzZsyRqP3JPDQ=="

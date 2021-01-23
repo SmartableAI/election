@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-23-trumps-lawyers-must-get-72-hour-warning-if-treasury-turns-over-presidents-tax-returns-to-democrats-judge.md",
+      "title": "Trump's lawyers must get 72-hour warning if Treasury turns over president's tax returns to Democrats: judge",
+      "excerpt": "The U.S. Treasury Department must grant former President Trump’s lawyers a 72-hour warning if it allows his tax returns to be released to Democrats, a judge ruled Friday, according to a report.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TTGQx7rZVYE/trumps-lawyers-must-get-72-hour-warning-if-treasury-turns-over-presidents-tax-returns-to-democrats-judge",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TTGQx7rZVYE/trumps-lawyers-must-get-72-hour-warning-if-treasury-turns-over-presidents-tax-returns-to-democrats-judge",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dae72535-2dae-40bd-8346-e651ec940af2/ae769b4d-a9d6-41c6-80d1-a158afc32667/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trumps-lawyers-must-get-72-hour-warning-if-treasury-turns-over-presidents-tax-returns-to-democrats-judge.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-lawyers-must-get-72-hour-warning-if-treasury-turns-over-presidents-tax-returns-to-democrats-judge.amp",
+      "publishedDateTime": "2021-01-23T02:28:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-trump-shuns-ex-presidents-club-and-the-feeling-is-mutual.md",
+      "title": "Trump shuns ‘ex-presidents club’ — and the feeling is mutual",
+      "excerpt": "Now that he's left office, it's hard to see him embracing the stately, exclusive club of living former presidents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2021-01-23/trump-shuns-ex-presidents-club-and-the-feeling-is-mutual",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2021-01-23/trump-shuns-ex-presidents-club-and-the-feeling-is-mutual",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/e61cc97/2147483647/strip/true/crop/3818x2494+0+26/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fcb%2Fcb%2F03919bad12a8ca464dacc03373e2%2F32162358bf7e4f1c8c6f808ad1af4d2d",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2021-01-23/trump-shuns-ex-presidents-club-and-the-feeling-is-mutual?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-23/trump-shuns-ex-presidents-club-and-the-feeling-is-mutual?_amp=true",
+      "publishedDateTime": "2021-01-23T02:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-trump-entertained-plan-to-install-an-attorney-general-who-would-help-him-pursue-baseless-election-fraud-claims.md",
       "title": "Trump entertained plan to install an attorney general who would help him pursue baseless election fraud claims",
       "excerpt": "The plan would have pushed out Jeffrey Rosen as acting attorney general and promoted a Trump devotee to lead the Justice Department.",
@@ -1001,7 +1109,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-usa-trump-impeachment-bowers-idUKKBN29Q341",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -1266,110 +1374,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-rudy-giuliani-lawyers-call-for-trumps-personal-attorney-to-lose-law-licence.md",
-      "title": "Rudy Giuliani: lawyers call for Trump's personal attorney to lose law licence",
-      "excerpt": "Trump’s personal attorney, who led efforts to overturn election result, criticised for calling for ‘trial by combat’ before Capitol attack",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/22/rudy-giuliani-lawyers-call-for-trumps-personal-attorney-to-lose-law-license",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/22/rudy-giuliani-lawyers-call-for-trumps-personal-attorney-to-lose-law-license",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1e47e094a50e86a0e9cd2647c35c49609d7f9c63/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5eabdd19459d124ea08d8bda5c093fb3",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/22/rudy-giuliani-lawyers-call-for-trumps-personal-attorney-to-lose-law-license",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/22/rudy-giuliani-lawyers-call-for-trumps-personal-attorney-to-lose-law-license",
-      "publishedDateTime": "2021-01-21T18:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-nato-secretary-general-jens-stoltenberg-says-need-to-rebuild-trust-after-trump.md",
-      "title": "NATO Secretary General Jens Stoltenberg says ‘need to rebuild trust’ after Trump",
-      "excerpt": "After four long years of Donald Trump’s attacks on NATO, Secretary General Jens Stoltenberg said Thursday that the defense alliance had survived the challenge — and that he looked forward to rebuilding the transatlantic relationship with President Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html",
-      "originalUrl": "https://www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X4YM7ZC4C4I6XOF55Y3LDTIYX4.jpg&w=1440",
-          "width": 1440,
-          "height": 908,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-21T16:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

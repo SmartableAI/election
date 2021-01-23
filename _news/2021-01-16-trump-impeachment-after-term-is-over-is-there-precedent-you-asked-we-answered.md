@@ -119,6 +119,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Politics live updates: Trump impeachment trial begins in earnest Feb. 8, Schumer says"
+    excerpt: "Senate Majority Leader Chuck Schumer announced House impeachment prosecutors will present the charge against former President Donald Trump on Monday."
+    publishedDateTime: 2021-01-23T09:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/22/politics-live-updates-senate-wrestles-trump-impeachment-trial/6666302002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6666302002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6666302002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/17/USAT/1ec764c4-8b59-4a29-b63d-54da88bc3e55-GTY_1290155881.jpg?auto=webp&crop=7826,4403,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Democrats Hail Jamie Raskin for Leading Donald Trump Impeachment After Loss of Son Tommy"
     excerpt: "Rep. Jamie Raskin (D-MD) has been praised by his Democratic colleagues for his role leading the impeachment push against President Donald Trump following the death of his son in December. Raskin, whose son Thomas died aged 25 in December, took up the role ..."
     publishedDateTime: 2021-01-18T12:53:00Z

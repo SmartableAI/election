@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-h
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1"
 type: article
 quality: 120
-heat: 160
+heat: 140
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://i.insider.com/5ffcc49fbde805001980c448?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump sought the world's attention and got it. Now the White House reality show ends"
-    excerpt: "A red tie, often tied too long. A raised fist, often held high to a supportive crowd. A scowling face. A raised voice."
-    publishedDateTime: 2021-01-18T19:37:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-postcards/trump-sought-the-worlds-attention-and-got-it-now-the-white-house-reality-show-ends-idUSKBN29N1E2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548203838&r=LYNXMPEH0H0U5&w=800"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "XoUSwcr3jadwSUaRPugwunOYX2cSJC5awXK73JdMfP9ZU24KUZ1DGCr3iJJ2xP1WLhJTsHeJVrDm34EnGEVzP+GqCjgk+jeZkoLRwd2d3YLENXqbQigy6os0LHGeq0mCs80UhRSpl9eTFy3/mS7gWOG3N4HfVlCeoTh4rPIVWDV4XxDTcpBet1Ad6hCZGN+snY6V/CknE9NffQrMvWaViD7wmOJ9mVBktDJT6FZ6pi6wtXyyu2u0bj9YMRCLUHggIbLkSPkWr4MzYyoEVroKXU9NmqW+JEwJFigYg42nlnuLsyWh8NF4OfsHjbd7BFBz8boRl29nV+PFyjiAuT1FpVMwkFdIWtx3BXHo2AFPKInHIF1cwgT0poCimcYG32fXCEUgOH1WrE2OgmuMTQK2BIo/4G13Ht7zLe4ig+3DhRulchewTAM5TezoaM94PvVHVGuSJ0BiTaYu4ciW3DMW9Ywa9RbdbC11d9/MrCjGS1QXAZ/Bf1o0+LXdJsOf5MGlhmtQg7570CTu0vaepiyAvw==;w8pmTO9Yiu6rszsfNxTjpA=="

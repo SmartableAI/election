@@ -127,6 +127,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Politics live updates: Trump impeachment trial begins in earnest Feb. 8, Schumer says"
+    excerpt: "Senate Majority Leader Chuck Schumer announced House impeachment prosecutors will present the charge against former President Donald Trump on Monday."
+    publishedDateTime: 2021-01-23T09:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/22/politics-live-updates-senate-wrestles-trump-impeachment-trial/6666302002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6666302002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6666302002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/17/USAT/1ec764c4-8b59-4a29-b63d-54da88bc3e55-GTY_1290155881.jpg?auto=webp&crop=7826,4403,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "U.S. House Speaker Pelosi says seeks clarity on Senate readiness for Trump impeachment trial"
     excerpt: "U.S. House of Representatives Speaker Nancy Pelosi said on Thursday she will consult with fellow Democrats in coming days about the Senate's readiness to begin an impeachment trial of former President Donald Trump for his alleged role in the Jan."
     publishedDateTime: 2021-01-21T22:31:00Z
