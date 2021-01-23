@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-harris-arlington-wreath-layin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-arlington-wreath-laying-ceremony.amp"
 type: article
 quality: 200
-heat: 560
+heat: 580
 published: true
 
 provider:
@@ -303,6 +303,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Photos of the Week: Joe Biden Sworn In as 46th President, Kamala Harris Is First Female VP, U.S. Covid-19 Toll Surpasses 400,000, and More"
+    excerpt: "Joe Biden is sworn in as the 46th U.S. president, Kamala Harris is the first female VP, the U.S. Covid-19 toll surpasses 400,000, and more"
+    publishedDateTime: 2021-01-23T20:30:00Z
+    webUrl: "https://www.wsj.com/articles/photos-of-the-week-joe-biden-sworn-in-as-46th-president-kamala-harris-is-first-female-vp-u-s-covid-19-toll-surpasses-400-000-and-more-11611437400"
+    ampWebUrl: "https://www.wsj.com/amp/articles/photos-of-the-week-joe-biden-sworn-in-as-46th-president-kamala-harris-is-first-female-vp-u-s-covid-19-toll-surpasses-400-000-and-more-11611437400"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/photos-of-the-week-joe-biden-sworn-in-as-46th-president-kamala-harris-is-first-female-vp-u-s-covid-19-toll-surpasses-400-000-and-more-11611437400"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 116
+    images:
+      - url: "https://images.wsj.net/im-289038/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "She Did It: Kamala Harris Makes History"
     excerpt: "When I interviewed Vice President–elect Kamala Harris last year at the Essence Festival, she had plenty of wisdom to share about the challenges a Black woman faces when pursuing national office. “Some might think that breaking barriers means you start off on one side of the barrier,"

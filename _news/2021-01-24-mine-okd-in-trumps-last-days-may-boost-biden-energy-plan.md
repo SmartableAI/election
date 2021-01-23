@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Mine OK'd in Trump's Last Days May Boost Biden Energy Plan"
-excerpt: "The Trump administration granted final approval for a proposed Nevada lithium mine in its last days, adding it to a list of energy and mining projects fast-tracked before President Joe Biden took office."
-publishedDateTime: 2021-01-23T16:45:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-01-23/mine-okd-in-trumps-last-days-may-boost-biden-energy-plan"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-01-23/mine-okd-in-trumps-last-days-may-boost-biden-energy-plan"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-23/mine-okd-in-trumps-last-days-may-boost-biden-energy-plan?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-23/mine-okd-in-trumps-last-days-may-boost-biden-energy-plan?context=amp"
+title: "Mine OK'd in Trump's last days may boost Biden energy plan"
+excerpt: "The Trump administration granted final approval for a proposed Nevada lithium mine in its last days, adding it to a list of energy and mining projects fast-tracked before President Joe Biden took offi"
+publishedDateTime: 2021-01-23T17:27:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/mine-okd-trumps-days-boost-biden-energy-plan-75445742"
+webUrl: "https://abcnews.go.com/Politics/wireStory/mine-okd-trumps-days-boost-biden-energy-plan-75445742"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mine-okd-trumps-days-boost-biden-energy-plan-75445742"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mine-okd-trumps-days-boost-biden-energy-plan-75445742"
 type: article
-quality: 70
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_f72abc37d17c4594be32157c86724158_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Joe Biden's Options for Dealing with Donald Trump Are Worse than Watergate"
@@ -283,10 +289,10 @@ related:
         isCached: true
   - title: "U.S. to reverse Trump's 'draconian' immigration policies, Biden tells Mexican president"
     excerpt: "The United States plans to reverse the Trump administration's \"draconian\" immigration approach while working on policies addressing the causes of migration, President Joe Biden told his Mexican counterpart,"
-    publishedDateTime: 2021-01-23T18:11:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-mexico-idUSKBN29S0H4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29S0H4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29S0H4"
+    publishedDateTime: 2021-01-23T21:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-mexico-idCAKBN29S0H4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN29S0H4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29S0H4"
     type: article
     provider:
       name: Reuters
@@ -1585,6 +1591,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "ELKEW0OvMS3qmz5lYj9/wrEkMPLEf3j3556DuMi05wIgLEYsISR4PLW042kTS9ON2cV3zX4hskJEu6rCksRHepWb5GF/P4eVnSfgf38znxmNXp3WsFHUlZXz39LA6aBPi5MEqK8ony2v9aKVeg1cKWIwrskp5gqXpWJk706v348iiy6WWoySceabMdWKQg8tSvkWCo7XV9rH69Lppt8kpJ6B5uK4RRBTaTr1Q8jD0fSFYZx7oyEo7dk+63KngAYwV0XOODD2EKSgW7RhVCJnjoWfWcrRVNslZn9IcjmNm8uOSmqxlzf2wpEgHv9zVuyQNh5J7QzdKrlbSyi5JZOR4xZXNGu3I49KvyMovqpIGB+M3KevP7srRCw/nlQO5FBELm97t+MYuK2TDWKl4VQne2JGfxtmWL/mPaSWkDgiWXfDVxc/BpRXUI3wP2VGAq2tC9KQcoE55B7Es2KnxziIooo4zEXnFJ/meguDTgKHank+/h8jaFN1LgvvSLORpMQHJLWo4TuqQjZDnbzJbcIM2Q==;y2hLNBlgy898TbNIkPv2zg=="
+secured: "fdMY/1i7BYpsXXB/w+bx/VkLIpSWk0lyg3Y4Ev19KG0bmy7xBreb62fLN7o+0BjHUgF55R2JWUr/adJS2qFb7PclTSAyhEupMBNqkF88rRchxsu770b78ElQCLymZEjFEKqrjj0xs4tKJ0REUIrVSu8+SwsQH9+QL88PxC25KVr3bYU1mSueFPRSMZeEqes9SYC/kY5ElR+RjvbLFJrqvfwBeHHErZpF5LXHR1TCKVMri5/VJ8mtD+xlJU/LxZCw77TKDtMBu0qwJ8HjQLi9rCJ3g95bSc/AiPQ8PkTvxIIOsNVa6gNYxqfrSx0KCH2oF+CkpVgjJVMbDKQ1P3xbaofSMYSK+gm31X1g/dnQGbc=;Y0nulXHrbszhAxtpZLK+4A=="
 ---
 

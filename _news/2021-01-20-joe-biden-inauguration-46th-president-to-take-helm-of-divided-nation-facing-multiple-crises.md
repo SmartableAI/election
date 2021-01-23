@@ -2838,6 +2838,17 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Joe Biden, watch geek in chief"
+    excerpt: "President Joe Biden may cast his arrival in the White House as a return to business as usual at 1600 Pennsylvania Ave., but there is at least one way he is breaking from prevailing presidential tradition: He wears a"
+    publishedDateTime: 2021-01-23T22:53:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/joe-biden-watch-geek-in-chief/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/joe-biden-watch-geek-in-chief/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/joe-biden-watch-geek-in-chief/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
   - title: "Here are 3 immediate goals for Joe Biden as he prepares to lead a nation in crisis"
     excerpt: "When Joe Biden is inaugurated Wednesday as the 46th president of the United States, he’ll face a nation torn by deep political and social divisions, and"
     publishedDateTime: 2021-01-18T11:15:00Z

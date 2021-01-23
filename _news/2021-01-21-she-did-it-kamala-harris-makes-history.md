@@ -314,6 +314,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Photos of the Week: Joe Biden Sworn In as 46th President, Kamala Harris Is First Female VP, U.S. Covid-19 Toll Surpasses 400,000, and More"
+    excerpt: "Joe Biden is sworn in as the 46th U.S. president, Kamala Harris is the first female VP, the U.S. Covid-19 toll surpasses 400,000, and more"
+    publishedDateTime: 2021-01-23T20:30:00Z
+    webUrl: "https://www.wsj.com/articles/photos-of-the-week-joe-biden-sworn-in-as-46th-president-kamala-harris-is-first-female-vp-u-s-covid-19-toll-surpasses-400-000-and-more-11611437400"
+    ampWebUrl: "https://www.wsj.com/amp/articles/photos-of-the-week-joe-biden-sworn-in-as-46th-president-kamala-harris-is-first-female-vp-u-s-covid-19-toll-surpasses-400-000-and-more-11611437400"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/photos-of-the-week-joe-biden-sworn-in-as-46th-president-kamala-harris-is-first-female-vp-u-s-covid-19-toll-surpasses-400-000-and-more-11611437400"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 116
+    images:
+      - url: "https://images.wsj.net/im-289038/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "0njTZSO8tD40m+qmIa1SJNehSa8RZ92DTppI0G5eXYKGVx6v05qNduL7NWqXkEv2jby3tCNkIi1tdhVgASKuIotveoUWRZr+SeANAI4Zj8CMiLTn2DTnU/0WPqSMbWYVsOffIS74P2qNTyrSU/zRqJ5TbTeVCHtMKEC0PH6VzUBhhW9wVoeAoUZ4l/cFpDki0M4yYDCLsiJM9ikPu8NLoCkNXhJbcaL1vDPZU13Iux9ldGdD23rxcBK/oDFCvABfZV8DdO/AGtrTuD0+V4P8T5IggDE0N//LJOPw5rSb3HBo395mEeKFw8wVSu6dvAPYEtNb6Xl4nv2JN28zsDwrzjukkdkjGBDo+AnwSYGDvnC7izSlAwyTzbnvMsjLKhqC5LyzYfvTTXAQb7smaMqc7sQbvFjx1vDv2lZE0nNU3GaT/TJ7LZhtTl3tiwjkKaQb54Tieyb5Py1wFjCGpBC0nOb1hqn/hLZYGClZVflD1M3y7EIpslej9CsJOla5mSdm24CGPhgnkPF5cmUqDBNvcg==;xpXUFRvYeEF2DIRNOFP+tA=="
 ---

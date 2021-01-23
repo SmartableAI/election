@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden Cabinet nominee hired convicted domestic abuser who punched woman for refusing sex"
+    excerpt: "Boston Mayor Martin Walsh, the nominee to be President Joe Biden's Labor Secretary, briefly hired former Massachusetts state representative Carlos Henriquez to be a special assistant in 2018, despite Henriquez's conviction years earlier for assaulting a woman who refused to have sex with him. "
+    publishedDateTime: 2021-01-23T22:37:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XISNb1bzlHI/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "a+EDa7hF/z5UIVAlaY9TLIivEk4lSX2DkAa34tvvFn3WNV2Dd5aPCil0jwHm/MlFa/VyFd+QAG6iMh/imE6vz04OBS3dzz+znP0yorqOaMWD+qgoyRoXwzAazlD/PyK1cLDAs53J9p/4PoM8gJT7XfxpnwGAGIvwFLNOMDI7aIjf41U/gS85t7V2eABr91YEFaVGJh9j1CedvTAFkmgeFM+n9aaFxSA6DltCv6Dc2FsD1wcaSw9+lr5t8EfButBDI/oBc9pM0YdK9Dj0a/GU+1cc2q0sbzjvBfFM0qg38pSZzwoHCpGVHPclWsJaw6PRIKbNU7ZQZpbnLlJpJi9L5btZwLyMFUS5q4eF44gbcyA=;QMN36W4i/VjYnm6d6VbqdQ=="
 ---

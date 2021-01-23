@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/house-waiver-biden-secretary-defens
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-waiver-biden-secretary-defense-nominee-lloyd-austin.amp"
 type: article
 quality: 169
-heat: 229
+heat: 249
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden Cabinet nominee hired convicted domestic abuser who punched woman for refusing sex"
+    excerpt: "Boston Mayor Martin Walsh, the nominee to be President Joe Biden's Labor Secretary, briefly hired former Massachusetts state representative Carlos Henriquez to be a special assistant in 2018, despite Henriquez's conviction years earlier for assaulting a woman who refused to have sex with him. "
+    publishedDateTime: 2021-01-23T22:37:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XISNb1bzlHI/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "LFdW57/ESC/LHZVg8pBEVJI2VRHsBXhvAPSrHZPzs4CAd+j6AIrHRrTqX84LAFr4QweAGRO3UIM4NZozpGkBEUoT7E9e5GrHN+OVOo9cLjexW4tKOMuAfrfWMArAnhj/g1f7xHetvP7ogI5Zn9IUqG3yfQlOhYumYMBhb0XBrGZVb2u+AkbIMG74s+WXlhoPo5Kgc4P6xDbeTps1S+PJu+5njmmMF7IDZfMgC3lw3eUwrmOt1jeuVERmRg1LV7kb4eHXJKrS0vjJlVtBiLNtOYPER1CJlosL/+0nxnct/MbkRcc5Qe6hRP5dHwBLYLNbh6Ph8lJqXc/VrYI52Xq2kz+G2ndoAf2+E9Sc1/Ws8gg=;D4HWGefamlJ0/Pcth228vg=="

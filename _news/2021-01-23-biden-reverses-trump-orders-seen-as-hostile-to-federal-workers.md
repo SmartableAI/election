@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Mine OK'd in Trump's last days may boost Biden energy plan"
+    excerpt: "The Trump administration granted final approval for a proposed Nevada lithium mine in its last days, adding it to a list of energy and mining projects fast-tracked before President Joe Biden took offi"
+    publishedDateTime: 2021-01-23T17:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/mine-okd-trumps-days-boost-biden-energy-plan-75445742"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mine-okd-trumps-days-boost-biden-energy-plan-75445742"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mine-okd-trumps-days-boost-biden-energy-plan-75445742"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f72abc37d17c4594be32157c86724158_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden unveils $1.9 trillion economic relief as Trump's Senate trial looms"
     excerpt: "Majority Leader Mitch McConnell said the Senate would not reconvene before January 19, the day before Mr. Trump leaves office."
     publishedDateTime: 2021-01-15T14:26:00Z
@@ -273,10 +289,10 @@ related:
         isCached: true
   - title: "U.S. to reverse Trump's 'draconian' immigration policies, Biden tells Mexican president"
     excerpt: "The United States plans to reverse the Trump administration's \"draconian\" immigration approach while working on policies addressing the causes of migration, President Joe Biden told his Mexican counterpart,"
-    publishedDateTime: 2021-01-23T18:11:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-mexico-idUSKBN29S0H4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29S0H4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29S0H4"
+    publishedDateTime: 2021-01-23T21:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-mexico-idCAKBN29S0H4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN29S0H4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29S0H4"
     type: article
     provider:
       name: Reuters
@@ -1444,17 +1460,6 @@ related:
     webUrl: "https://www.usnews.com/news/world/articles/2021-01-17/south-koreas-moon-urges-biden-admin-to-follow-up-on-kim-trump-summit"
     ampWebUrl: "https://www.usnews.com/news/world/articles/2021-01-17/south-koreas-moon-urges-biden-admin-to-follow-up-on-kim-trump-summit?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-01-17/south-koreas-moon-urges-biden-admin-to-follow-up-on-kim-trump-summit?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "Mine OK'd in Trump's Last Days May Boost Biden Energy Plan"
-    excerpt: "The Trump administration granted final approval for a proposed Nevada lithium mine in its last days, adding it to a list of energy and mining projects fast-tracked before President Joe Biden took office."
-    publishedDateTime: 2021-01-23T16:45:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-23/mine-okd-in-trumps-last-days-may-boost-biden-energy-plan"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-23/mine-okd-in-trumps-last-days-may-boost-biden-energy-plan?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-23/mine-okd-in-trumps-last-days-may-boost-biden-energy-plan?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

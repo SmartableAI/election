@@ -2,11 +2,11 @@
 category: news
 title: "Trump's vice president Pence applauds successor at inauguration"
 excerpt: "Outgoing U.S. Vice President Mike Pence and his wife Karen attended the inauguration of new President Joe Biden on Wednesday after skipping both a farewell ceremony for Donald Trump and the usual protocol of welcoming his successor to his home at the Naval Observatory."
-publishedDateTime: 2021-01-21T02:46:00Z
-originalUrl: "https://www.reuters.com/article/uk-usa-biden-inauguration-pence-idUKKBN29P2RV?edition-redirect=uk"
-webUrl: "https://www.reuters.com/article/uk-usa-biden-inauguration-pence-idUKKBN29P2RV?edition-redirect=uk"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29P2RV"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29P2RV"
+publishedDateTime: 2021-01-21T00:12:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-pence-idUSKBN29P2FV"
+webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-pence-idUSKBN29P2FV"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P2FV"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P2FV"
 type: article
 quality: 140
 heat: -1
@@ -2991,6 +2991,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "cxe/4XOpiZJNt5/MmO9w+tLNGBLRyDpVmqmlgnh1gSPcp/DiGaknnNcTVOLz/CeQiUf2uIHJFAtmJEgVUoqNId6pUeyPbPRwfNwQAZsfgaau2sPW6P3NwpvLr3AjVQ9oyUD9J2U/3Siaolu/sGacOVDgKxNq7MF270YRMtmtFSFs5qN2hM/frTcLbpp+tNVekdDkpvILlvAHQLRDBRjU3dbRygWoZEicJDBg+3BBN5BX7EOcaTnuYVVoS0gVvcbYG5G8h427aIBVJ6++nErFN0Jiq4wPOOxJhfM78F6Z9Y4fFTZepFg3dJ12yTY8vQ4uuAnc+44giOfr+K25xzjZgFtXklqi6etdV2iBVTztmJOXOl1aRQahq2DB5m4JRkeltyA9Y/zfFuEgJvJs9gjKO5knaeycheuPxj14STXGk+07JaVwp1bxRVSaJV/nuMNjoqaTp68CQz/HDVCjvw4pfGVlhuNjCV/5OlqYkOzP8s4f/G6hWiIsfPuHnT055OicifCQ1hql1fjogbg9DSim4g==;KkPyPNXh+uO+dpGbJLokKg=="
+secured: "IQnuph20RwtdKfV6phmC6Q0s0JlX5U06HM0hMzNU6wG9SoTO3yE0qtPwoITCzTsUH2cld33aUbkEjtN+ST1rJtfRSbgN+RapJBHK/2H+DDcUObjHQAOS69m6HtfZ0CKMbldUpzVeFLReRJtYpdhPeqPaZLAKA7T6rx5Mu/5I6bZ8uzLfAYsDot707r5OBgBBaOiMgz62tt6abv1uJkDajPju3OnfGW91FYbcj9lgdyNW8A6ZRsNqBaXddgNzFv9RjXBy/fn1el4TFOzP8pUFy1yX5ENPPjTHGqQHO18vpXS5K3Gf5SLYfPKa4xtB8f6ZFQTdcSM/GrwMHeox10K1OHGPbLiZh9h8xagO5QiopmQ=;EG+RJ85dke1WYpfOIXmTEA=="
 ---
 

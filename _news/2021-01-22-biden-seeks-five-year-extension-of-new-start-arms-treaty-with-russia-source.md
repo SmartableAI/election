@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q2I4"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q2I4"
 type: article
 quality: 122
-heat: 162
+heat: 182
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Eye Opener: Biden signs slew of executive actions in first days as president"
+    excerpt: "President Joe Biden has already signed 29 executive actions during his first 55 hours in the White House. Also, January has now become the second deadliest month in the coronavirus pandemic. All that and all that matters in today's Eye Opener."
+    publishedDateTime: 2021-01-23T13:40:00Z
+    webUrl: "https://www.cbsnews.com/video/eye-opener-biden-signs-slew-of-executive-actions-in-first-days-as-president/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 102
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/23/7ca836cb-bc96-4371-92fc-5cfbe204ab1c/thumbnail/1200x630/89b98f4d140361d53c81c26f8af3dc43/cbsn-fusion-eye-opener-biden-signs-slew-of-executive-actions-in-first-days-as-president-thumbnail-631980-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "MGq2C+kJDW0Q9g21xP3TB3CQx4zAbcD1SE8k1ctxM52LcDpWu2IJKP1lqElvAExPGiwRhZu5NAtLJFv5g1FFSdFWGvpxBZuuBB9tDNvFdwkdQbV2xMTgTDozoM3ONBwYr748YSThlb/4fxlnCFsJbQj7+mcwOc7JwRyhyP+Gt5yOivHeIMU/ONmuQUno/c1reNLaGZk+ASIsRBxu7xRN4OycWIMXBfik5Ioqd5i7Tf6BZDrm0Ldsb7PionahqZdUy6XEgcUmGj6hWyLv5ROrMTSFdRPu8xu55YpTtDyPdc+wTcYeGdc5/6IgdFp5QSLMjmDXXsGwdFwCx5kzq2gRxinkEkhKmeEO8/mZxTquhPA=;JMGtBQWNgLTfznp1idWOyg=="

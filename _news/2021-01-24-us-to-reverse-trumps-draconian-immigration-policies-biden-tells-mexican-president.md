@@ -2,11 +2,11 @@
 category: news
 title: "U.S. to reverse Trump's 'draconian' immigration policies, Biden tells Mexican president"
 excerpt: "The United States plans to reverse the Trump administration's \"draconian\" immigration approach while working on policies addressing the causes of migration, President Joe Biden told his Mexican counterpart,"
-publishedDateTime: 2021-01-23T18:11:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-mexico-idUSKBN29S0H4"
-webUrl: "https://www.reuters.com/article/us-usa-mexico-idUSKBN29S0H4"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29S0H4"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29S0H4"
+publishedDateTime: 2021-01-23T21:23:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-mexico-idCAKBN29S0H4"
+webUrl: "https://www.reuters.com/article/us-usa-mexico-idCAKBN29S0H4"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN29S0H4"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN29S0H4"
 type: article
 quality: 132
 heat: -1
@@ -110,6 +110,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4GCCXVC4ZUI6XC6PHB3YOHEBTU.jpg&w=1440"
         width: 1440
         height: 1008
+        isCached: true
+  - title: "Mine OK'd in Trump's last days may boost Biden energy plan"
+    excerpt: "The Trump administration granted final approval for a proposed Nevada lithium mine in its last days, adding it to a list of energy and mining projects fast-tracked before President Joe Biden took offi"
+    publishedDateTime: 2021-01-23T17:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/mine-okd-trumps-days-boost-biden-energy-plan-75445742"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mine-okd-trumps-days-boost-biden-energy-plan-75445742"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mine-okd-trumps-days-boost-biden-energy-plan-75445742"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f72abc37d17c4594be32157c86724158_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden unveils $1.9 trillion economic relief as Trump's Senate trial looms"
     excerpt: "Majority Leader Mitch McConnell said the Senate would not reconvene before January 19, the day before Mr. Trump leaves office."
@@ -1449,17 +1465,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
-  - title: "Mine OK'd in Trump's Last Days May Boost Biden Energy Plan"
-    excerpt: "The Trump administration granted final approval for a proposed Nevada lithium mine in its last days, adding it to a list of energy and mining projects fast-tracked before President Joe Biden took office."
-    publishedDateTime: 2021-01-23T16:45:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-23/mine-okd-in-trumps-last-days-may-boost-biden-energy-plan"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-23/mine-okd-in-trumps-last-days-may-boost-biden-energy-plan?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-23/mine-okd-in-trumps-last-days-may-boost-biden-energy-plan?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
   - title: "Top Republicans Ask Biden for Tougher Response to China Sanctions on Trump Officials"
     excerpt: "The Biden administration faced pressure from Republican lawmakers on its second day in office for a more forceful response to Beijing's announcement of sanctions against the architects of former President Donald Trump's tough China policy. As Democrat Joe ..."
     publishedDateTime: 2021-01-21T22:05:00Z
@@ -1586,6 +1591,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "LynvX13k+AZlIbYZRbJ0a5vvUTlZNeCLGGU6RWE+K9F04vqythN9AHdJZD0/mziYwUDFouI4XqqOqF09DIQ+sUweSi3VSfURH47XbUZCBxIDlVxFU2b7Nk34L5Su4gpKMPOa/uwnn/4Gri1bYUtYaBDcs/xLiATgqWjMhKmbqdNEBCZQ0GX0A5GhuMnSq1nlRYmll3uKb9rJrz76XufQ93sA9zhmMPMl544/hIwsk2OhKIX4wvn5egCoy5SB5cnXSyU5vmBS64fnk6ugZQtNHOYl+hAI6fAGcowSsugbUDRJhzb1HTtH/A5ypZy3DyQZWWsHex5Ab4VT25uw0/2F5Vixa6dmA03RdqjMEN1kT1Q=;Pc6FXkR/qC6DI6QFLxGuEQ=="
+secured: "xW1grkYUjL1UboNOYVdQssAz88DKOtb3kbD9fQPRmIl4YHgkR/bnskk8Y1BgaIOzFixRuTHaF3NZVKKO6YL5S06E3s6zFG2iCxImP0WYN92Xxgx61Vj50CMN01xMtiXKwJ6UilBnwuNhc+hYYNN0+g5AWYVvIifToyewwQqi87cpzYQLuSA2/mjG1F+VOnX2wjk9faaRMOG8JjBhy5DCYfJFdN7P7RQATw3KOtSlCFbjtOq8BFa5zauQgdQAgbVJq22hf/cRwjYmhmRv+IaLv4VipkZUY6nK1kL3APRepXxcrb4S8h/Tusv52ds46NF70YBp9vEjfZ6muso6sOCG9jNgHg9NzHiPlOb/CRQVpMY=;EmFAcsZmzpzuGNylO3ANuw=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Pennsylvania Will Reflect Voter Mood During Biden Presidency"
 excerpt: "In his inaugural address, President Biden focused on a message of unity as the nation confronts overwhelming challenges, including the COVID-19"
 publishedDateTime: 2021-01-23T12:13:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/01/23/pennsylvania_will_reflect_voter_mood_during_biden_presidency_145101.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/01/23/pennsylvania_will_reflect_voter_mood_during_biden_presidency_145101.html"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/01/23/pennsylvania_will_reflect_voter_mood_during_biden_presidency_145101.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/01/23/pennsylvania_will_reflect_voter_mood_during_biden_presidency_145101.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/23/pennsylvania_will_reflect_voter_mood_during_biden_presidency_145101.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/23/pennsylvania_will_reflect_voter_mood_during_biden_presidency_145101.amp.html"
 type: article
@@ -1209,6 +1209,22 @@ related:
     quality: 175
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Miguel-Cardona-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden administration defends removing Churchill statue from Oval Office"
+    excerpt: "The Biden administration on Friday defended the decision to remove a bust of former U.K. Prime Minister Winston Churchill from the Oval Office -- creating a bright video designed to remind people \"what the Special Relationship is truly about.\""
+    publishedDateTime: 2021-01-23T21:05:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_e5d6uu6Mnw/biden-administration-defends-removing-churchill-statue-from-oval-office"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-defends-removing-churchill-statue-from-oval-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-defends-removing-churchill-statue-from-oval-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5090b71-e42f-41ca-9acb-ce0fda80f002/4805ad71-dc8b-444a-bd43-63cffb1d50cd/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -2851,6 +2867,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "O/O08SIiadG31qUgKSf1+nv8f603shn4YC0ex/TE4+JiHpMFCWAzcuS5D75c5sE78UVeVj69XaebBrAlBpRgATUX9m7pygOB6CJFa6u+sBECF73+QQr7Og+xRj6DfQrm0GA465yuGb6L63DMdtLx9PuOIYLyTS8UKZqOuj4xL1mWkzpzYUEzPPkZY17UgwROg/iPyqgxOspWwyzkFMQpA/tD+AbSD62XCT0m8z3Pq/lP9UipQMQ+ODbd08KktEDZr60Pdz1jTt0PY0D0vpnoYqzmlK6rKJU01u4QtULVRjNz+kX5ZrfvqOr6Yw2GIFwGuaOoDOusX/UUFJm+r4Vx8Ulyj1n1mqxKAKAL1JXwmn1gYRfueHhZhsc8cjtPOoTy3JvNzKkvZXSQvtW4t6fLH2R3M+G0WFELkKoRuYnht1ogmmzNndzDV8GYa5Vu7SBgoxzL8L6SLqwbvjC9YlBEUbH2Z+T09eoc9/83UDjlIipe2D9ZIEo6X7IjAX0ybLnzAyDhkYAaCm5s+6oTWPMedA==;enVfOHANNsjgdCWu7lGytg=="
+secured: "xRL5Xu3+EUwfAM9f6vIx30RZeMMIfa68p6gtzli6+C8hIkz5X+dGGOpEeg8eCxCotUahPolXczSie7XVop0+RSAKNVXKYIBmjapZdTKQQnQLRJ64jhvB0NBMk+S1XzrEkuDLY920Wol9kBZhCUGuF8F+H33euaeZDbimZTRmXNuCYJuyj3zmUswC+jq1Geh3nyKCSbrDAB9iB9Ow9tDdKl7Qb2rPiRWqnxMbpRA4MHK2fpgjqNXfjpMeA/7XDiPUSsJJ4yhwHNGErgSa6cQKSWxL0ISp19Bt3cGyafcQZQI9HDctukyqWKemClx77UFCJSi4DUmJGF5oO6GfEsVt/TI46y+UJKd3pCvxtW8+5QQ=;0bgsFyjxklyPAeG9rCDYZQ=="
 ---
 

@@ -2828,6 +2828,17 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Joe Biden, watch geek in chief"
+    excerpt: "President Joe Biden may cast his arrival in the White House as a return to business as usual at 1600 Pennsylvania Ave., but there is at least one way he is breaking from prevailing presidential tradition: He wears a"
+    publishedDateTime: 2021-01-23T22:53:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/joe-biden-watch-geek-in-chief/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/joe-biden-watch-geek-in-chief/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/joe-biden-watch-geek-in-chief/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
   - title: "Here are 3 immediate goals for Joe Biden as he prepares to lead a nation in crisis"
     excerpt: "When Joe Biden is inaugurated Wednesday as the 46th president of the United States, he’ll face a nation torn by deep political and social divisions, and"
     publishedDateTime: 2021-01-18T11:15:00Z
@@ -2894,6 +2905,6 @@ related:
         height: 800
         isCached: true
 
-secured: "aHGPCotl5FZsFG4C8Wr8Yy1C9vDHEbETzCRAVrCn0Y5zmVn43Vm2WdMdQofr/yZfElvditJCutEa7hZnFqlsU+4DXFTQUFZ1ulrS4n4d+Kj1OcuKAXmG52qgJg4Gh7zJi6uC1XaOP44ZAcjXUG+1YcnLLl2g+fka8efVVDL00zwyxKiWjlZ6rsLT2aW5W+YS9biU5dCuuRbsDBCGbdROhKfrSvJ77QmDYcc5NBkU3e0n0T/8AMNloUyXgjXfNSpyjflnvYpts8cdv4JPOkRnHSkpH2s5cEk2yX6hzdAMy9VyE/ZLaLS0TOq2esOM4TCzRGAuYCWCeSduYcaTaBoqwSHDlbjD5W32yQnDV1r851M=;vN69LtbJQD/yTqb3P8WU4g=="
+secured: "nogpmFX45S2zOtFooz0DNamJZ1dCluY4OTxXzp3QQg0Y9+U0U3ddD//JHSwQk7pQ3gtRIp7p2i7EP5kmv4wwUChjFNf0mJdIv2NMX2RXHEXwD/quCL8VfppQwOd18EE6jyMSqjk9Bvb0wuTZED/Ft6SJECUqtr2Mf8YLL4e4Zkbmm+hQ23eAzOJixQJfLLceDcYWCdeQ/hajjm07Yf7ilUGeN0IkL0nj/ZXdv5Roq82l0W+nIONuldUwDUnlZj1YerZ9sFWE3SgrZeAx0TXQmD1vdvx9fvKG/XBT717DLLzUe6Zayl9Gs3OxhRnpeMigZQXabHyRc7Dt7NwWxOk98RzXAp3OeMH2xeIOWXW6R+YpTRoVokReMsC0/RxjFrblU1bXV+SEkKJ4JImIcAb+915jmm6O8sEtR8bAsAZ5z6ZyWq3lzqMidl+8FpR6Dmgon/81QvlC5NIerSv8AM25329WrwQDWM8a8se2OESC7NsN4Jnsuj5vIWnR0MDZr87hySAKaRJ35oWENxYWdGrk3w==;4U6vqGdFkRniikyrEn2oiw=="
 ---
 

@@ -1200,6 +1200,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden administration defends removing Churchill statue from Oval Office"
+    excerpt: "The Biden administration on Friday defended the decision to remove a bust of former U.K. Prime Minister Winston Churchill from the Oval Office -- creating a bright video designed to remind people \"what the Special Relationship is truly about.\""
+    publishedDateTime: 2021-01-23T21:05:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_e5d6uu6Mnw/biden-administration-defends-removing-churchill-statue-from-oval-office"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-defends-removing-churchill-statue-from-oval-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-defends-removing-churchill-statue-from-oval-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5090b71-e42f-41ca-9acb-ce0fda80f002/4805ad71-dc8b-444a-bd43-63cffb1d50cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump must be barred from post-presidency intelligence briefings: Schiff"
     excerpt: "House Intelligence Committee Chairman Rep. Adam Schiff said Sunday that President Trump should be barred from receiving intelligence briefings after he leaves office, an opportunity traditionally extended to former presidents."
     publishedDateTime: 2021-01-17T18:36:03Z
@@ -2747,7 +2763,7 @@ related:
   - title: "Pennsylvania Will Reflect Voter Mood During Biden Presidency"
     excerpt: "In his inaugural address, President Biden focused on a message of unity as the nation confronts overwhelming challenges, including the COVID-19"
     publishedDateTime: 2021-01-23T12:13:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/01/23/pennsylvania_will_reflect_voter_mood_during_biden_presidency_145101.html"
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/23/pennsylvania_will_reflect_voter_mood_during_biden_presidency_145101.html#!"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/23/pennsylvania_will_reflect_voter_mood_during_biden_presidency_145101.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/23/pennsylvania_will_reflect_voter_mood_during_biden_presidency_145101.amp.html"
     type: article

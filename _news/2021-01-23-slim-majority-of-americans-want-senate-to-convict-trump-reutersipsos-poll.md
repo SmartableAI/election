@@ -143,6 +143,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "MyPillow Guy among the Trump acolytes picking up the torch"
+    excerpt: "Mike Lindell, the businessman better known to the world as the MyPillow Guy, is weighing a run for governor in Minnesota"
+    publishedDateTime: 2021-01-23T17:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444118"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444118"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444118"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/General/my-pillow-guy-mike-lindell-donald-trump-01-gty-llr-210123_1611431001386_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Senate To Begin Trump's Impeachment Trial Week Of Feb. 8"
     excerpt: "The House of Representatives, which already voted to impeach Trump, plans to transmit the article on Monday evening."
     publishedDateTime: 2021-01-23T00:26:00Z

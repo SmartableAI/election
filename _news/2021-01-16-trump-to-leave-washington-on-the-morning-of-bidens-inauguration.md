@@ -129,10 +129,10 @@ related:
         isCached: true
   - title: "Trump's vice president Pence applauds successor at inauguration"
     excerpt: "Outgoing U.S. Vice President Mike Pence and his wife Karen attended the inauguration of new President Joe Biden on Wednesday after skipping both a farewell ceremony for Donald Trump and the usual protocol of welcoming his successor to his home at the Naval Observatory."
-    publishedDateTime: 2021-01-21T02:46:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-biden-inauguration-pence-idUKKBN29P2RV?edition-redirect=uk"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29P2RV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29P2RV"
+    publishedDateTime: 2021-01-21T00:12:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-inauguration-pence-idUSKBN29P2FV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P2FV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P2FV"
     type: article
     provider:
       name: Reuters

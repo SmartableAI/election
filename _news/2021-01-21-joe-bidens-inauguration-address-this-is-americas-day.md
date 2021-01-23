@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mexican leader says Biden offers $4B for Central America"
+    excerpt: "Mexico’s president says that President Joe Biden has told him the U.S. would send $4 billion to help development in Honduras, El Salvador and Guatemala"
+    publishedDateTime: 2021-01-23T21:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-calls-canadas-trudeau-mexicos-lopez-obrador/2021/01/22/d6234ba0-5d20-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-calls-canadas-trudeau-mexicos-lopez-obrador/2021/01/22/d6234ba0-5d20-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-calls-canadas-trudeau-mexicos-lopez-obrador/2021/01/22/d6234ba0-5d20-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "‘Celebrating America’ review: Earnest inauguration special encapsulates President Joe Biden"
     excerpt: "Celebrating America” traded the usual inauguration night balls for socially distanced performances from around the country, spotlights of “everyday heroes,” and solemn acknowledgments of the extraordinarily tough few years the country has muscled through to get to this moment."
     publishedDateTime: 2021-01-21T12:38:00Z
