@@ -2788,6 +2788,20 @@ related:
         width: 650
         height: 434
         isCached: true
+  - title: "Why Kamala Harris will not yet move into the vice president residence"
+    excerpt: "It’s not clear when the vice president will be able to move into the traditional quarters located in northwest Washington, D.C."
+    publishedDateTime: 2021-01-22T16:13:00Z
+    webUrl: "https://www.ajc.com/news/why-kamala-harris-will-not-yet-move-into-the-vice-president-residence/NYJACZYBTZERZOHQU3XJ44KRJY/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 55
+    images:
+      - url: "https://www.ajc.com/resizer/SRQzj6K4MUguN56Z2N9ZLF-9bXs=/1200x630/d1fegwn2wjh0cs.cloudfront.net/01-21-2021/t_7e4f7c2f3e414295abc26151b2ec2751_name_db4cec39bce7441c8283051b99b794d7"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Alert: AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance."
     publishedDateTime: 2021-01-15T18:27:00Z

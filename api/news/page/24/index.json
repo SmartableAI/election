@@ -2,6 +2,49 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-12-19-us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.md",
+      "title": "US Space Force members will be called ‘guardians,’ Vice President Mike Pence says",
+      "excerpt": "The Trump administration celebrated the first birthday of the U.S. Space Force on Friday by announcing that its members will be known as “guardians.” Vice President Mike Pence made the announcement at a celebratory event tracing the development of the newest branch of the military over the past year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.masslive.com/politics/2020/12/us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.html",
+      "originalUrl": "https://www.masslive.com/politics/2020/12/us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TBQO6M6JPVBHDD32VSHIOZHFYM.jpg",
+          "width": 5845,
+          "height": 3897,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.masslive.com/politics/2020/12/us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/12/us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.html?outputType=amp",
+      "publishedDateTime": "2020-12-19T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassLive",
+        "domain": "masslive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-the-trump-booster-group-that-helped-the-head-of-the-extremist-proud-boys-gain-access-to-the-white-house.md",
       "title": "The Trump booster group that helped the head of the extremist Proud Boys gain access to the White House",
       "excerpt": "The Proud Boys leader visited the White House before clashes erupted in DC on Dec. 12. He was invited by a political group with ties to Trump allies.",
@@ -1296,63 +1339,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-late-night-compares-trump-health-adviser-paul-alexander-to-a-comic-book-villain.md",
-      "title": "Late Night Compares Trump Health Adviser, Paul Alexander, to a Comic Book Villain",
-      "excerpt": "The former Health and Human Services adviser’s leaked emails encouraged herd immunity to deal with the pandemic, writing of Americans, “We want them infected.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/18/arts/18latenight/18latenight-facebookJumbo.png",
-          "width": 876,
-          "height": 459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.amp.html",
-      "publishedDateTime": "2020-12-17T22:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.politico.com/amp/news/2021/01/15/fema-trump-rally-459734
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/15/fema-trump-rally-459734"
 type: article
 quality: 135
-heat: -1
-published: false
+heat: 155
+published: true
 
 provider:
   name: Politico
@@ -32,37 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump to lift Covid-19 related travel restrictions before he leaves office, White House official says"
-    excerpt: "President Donald Trump is expected to lift coronavirus-related travel restrictions starting on January 26, nearly a week after he leaves office, a White House official said Monday.\n    \n"
-    publishedDateTime: 2021-01-19T00:27:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e1Olf9wbdXY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/trump-covid-travel-restrictions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/trump-covid-travel-restrictions/index.html"
+  - title: "Steve Schwarzman, a Trump Adviser, Stays Loyal Till the End"
+    excerpt: "The Blackstone chief executive stuck with President Trump despite the occasional slight, and stopped short of criticizing Mr. Trump even after the Capitol attack."
+    publishedDateTime: 2021-01-19T16:35:00Z
+    webUrl: "https://www.nytimes.com/2021/01/19/business/schwarzman-blackstone-trump.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118002735-05-donald-trump-0112-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump leaves office with little to show of his major promises, and a legacy of violent divisiveness"
-    excerpt: "Donald Trump promised to end \"American carnage\" and \"Make America Great Again.\" Four years later, he leaves with those goals far from reach."
-    publishedDateTime: 2021-01-20T08:14:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/impeached-twice-still-no-wall-mr-trump-goes-washington-n1254757"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254757"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254757"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 121
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_03/3443223/210119-analysis-inauguration-donald-trump-ew-202p_0238d95931f19103802ae05b7106c67e.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://static01.nyt.com/images/2021/01/15/business/00Schwartzman-Trump-01/00Schwartzman-Trump-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "rZNfrg3M/in2pl6ZnIcIPrSjRUaIbUQr3KrPxLss6Ika+7KZOMMK5y7MtgvtFwYpiKP9X2q3lDbsSzFFuO7rcV47qVPplxZrgtlT7x3OE4reCydGSqj69ALi8vddgf0m18mRyqwtiNsIBMcqz4NSFD2uMbJByOtHkP7CTkOKi0N2wRguIbQZ1uWs0ztWgaYYs8Fb3euTA6eirsiL1bslySeruEoF81fjbMUPIwGKLAV+UJ3BJzh661ge41FXpVZpjU6j02B7xg5xA8WCyZGJRzUdpcAcUxJ0Z4XC6BOUTbEvBzwBnK3PQ8DEXA+TOtcCTJlmM5469HhtZknj6qmaD+Tyxis3gPl0wzRXBiDkmG58J15vtfzpofKcJnqc7Tr2+vU+rRMGduIgm49lQrHXttSa9hz/jE+URfMfMAG7ryzuoK7BgEHmsfku8V+TPZnsJFclOeTm9Wyh2o2/jh3Rjqmuo0Oum9HCDsLrerUIG78k3E2fVUChNMhChb/ZG4uKKRIXtl7s72ZepfeIokuZ7A==;WAMWDith7yUN20/+5NQK3Q=="

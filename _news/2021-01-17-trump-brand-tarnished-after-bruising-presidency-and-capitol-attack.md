@@ -285,6 +285,38 @@ related:
         width: 1440
         height: 1080
         isCached: true
+  - title: "Trump and Justice Department lawyer said to have plotted to oust acting attorney general to try to advance baseless election claims"
+    excerpt: "The previously unknown chapter was the culmination of Trump’s long-running effort to batter the DOJ into advancing his personal agenda."
+    publishedDateTime: 2021-01-23T02:09:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-justice-department-election-20210123-35ghnfsorva55pjnrec5dzu27a-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-justice-department-election-20210123-35ghnfsorva55pjnrec5dzu27a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-justice-department-election-20210123-35ghnfsorva55pjnrec5dzu27a-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 110
+    images:
+      - url: "https://www.chicagotribune.com/resizer/v6dsy7X6PTCuvSOAI12wdyNvw2c=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OXSIKLWOABM264QUD5O6FC6AMQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "QAnon and pro-Trump online forums are struggling and fracturing in aftermath of the U.S. Capitol siege"
+    excerpt: "Forums central to spreading QAnon and supporting former President Trump have become fractured or gone offline entirely since then Jan. 6 attack on the U.S. Capitol, raising questions about their long-term viability."
+    publishedDateTime: 2021-01-23T01:35:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/01/22/trump-twitter-capitol-qanon/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/01/22/trump-twitter-capitol-qanon/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/22/trump-twitter-capitol-qanon/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LTUOOMS3QAI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "U.S. lawmaker comments on impeachment of President Donald Trump"
     excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump."
     publishedDateTime: 2021-01-13T21:48:00Z

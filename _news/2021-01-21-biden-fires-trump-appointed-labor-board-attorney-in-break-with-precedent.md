@@ -351,6 +351,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden admin freezes Trump HHS rule meant to lower insulin prices"
+    excerpt: "President Biden has been reversing or pausing some rules put in place under former President Donald Trump this week, including one designed to bring down the price of insulin."
+    publishedDateTime: 2021-01-23T02:52:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gtDTTwwky-c/biden-trump-hhs-rule-lower-insulin-prices"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-hhs-rule-lower-insulin-prices.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-hhs-rule-lower-insulin-prices.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f5aed56-cad9-4a62-84d3-3102f22d5903/8b35587f-5a55-42e4-a203-9f80182c6a04/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "White House pressed on Biden's unity message amid Trump impeachment push"
     excerpt: "President Biden began his term in office with a message of unity, expressing a desire to move past the rancorous division in the United States and bring people together, while Congress remains set to carry out an impeachment trial for former President Donald Trump."
     publishedDateTime: 2021-01-21T13:59:20Z

@@ -75,6 +75,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Democrats say impeachment trial of Trump to begin week of Feb. 8"
+    excerpt: "House Democrats will send the article of impeachment against former President Trump to the Senate on Monday and the trial will start the week of Feb. 8 to allow time for the House and the former president to prepare,"
+    publishedDateTime: 2021-01-22T23:13:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-01-22/article-of-impeachment-senate-trump"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-01-22/article-of-impeachment-senate-trump?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-22/article-of-impeachment-senate-trump?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/1b2877e/2147483647/strip/true/crop/5318x3473+0+36/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F13%2F16%2F7baa1b780dc35a86ecac46f2901c%2F1ad03d94fba34dd58484e1f115dd3518"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Schumer: Trump impeachment trial to begin week of Feb. 8"
     excerpt: "Opening arguments in the Senate impeachment trial for Donald Trump on the charge of incitement of insurrection will begin the week of Feb. 8."
     publishedDateTime: 2021-01-22T23:31:00Z
@@ -90,6 +106,22 @@ related:
       - url: "https://i.insider.com/600b5eea7e47190011cb8ddc?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Slim majority of Americans want Senate to convict Trump: Reuters/Ipsos poll"
+    excerpt: "A slim majority of Americans say former President Donald Trump should be convicted by the Senate of inciting an insurrection and barred from holding public office, according to a Reuters/Ipsos poll, which showed a sharp partisan divide over the issue."
+    publishedDateTime: 2021-01-23T02:24:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-poll-idUSKBN29R2M9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R2M9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R2M9"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548764158&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1IU"
+        width: 804
+        height: 545
         isCached: true
   - title: "Senate To Begin Trump's Impeachment Trial Week Of Feb. 8"
     excerpt: "The House of Representatives, which already voted to impeach Trump, plans to transmit the article on Monday evening."

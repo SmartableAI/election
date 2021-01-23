@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inaug
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
 type: article
 quality: 102
-heat: -1
-published: false
+heat: 122
+published: true
 
 provider:
   name: The Guardian
@@ -31,54 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden is president now and everything has happened just as we were warned"
-    excerpt: "Joe Biden is the president and the first thing he did was hurt God, just as they told us he would. He went right up to God and smote God, and now God is crying and Nietzsche has had to clamber back out of Hell to provide comfort."
-    publishedDateTime: 2021-01-22T02:22:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2021/01/21/joe-biden-is-president-now-everything-has-happened-just-we-were-warned/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2021/01/21/joe-biden-is-president-now-everything-has-happened-just-we-were-warned/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2021/01/21/joe-biden-is-president-now-everything-has-happened-just-we-were-warned/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JEBAYYC4BEI6XKCJN6KCHJ277U.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "‘Celebrating America’ review: Earnest inauguration special encapsulates President Joe Biden"
-    excerpt: "Celebrating America” traded the usual inauguration night balls for socially distanced performances from around the country, spotlights of “everyday heroes,” and solemn acknowledgments of the extraordinarily tough few years the country has muscled through to get to this moment."
-    publishedDateTime: 2021-01-21T12:38:00Z
-    webUrl: "https://www.chicagotribune.com/entertainment/ct-ent-celebrating-america-review-20210121-5jfmoumsafgc7pqrrooyr2clsq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/entertainment/ct-ent-celebrating-america-review-20210121-5jfmoumsafgc7pqrrooyr2clsq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/ct-ent-celebrating-america-review-20210121-5jfmoumsafgc7pqrrooyr2clsq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 115
-    images:
-      - url: "https://www.chicagotribune.com/resizer/8r1pkCCA_n_7FbKpLextDsEervE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/32432MOOUUPTGCJTRIA6JJ6H6Q.aspx"
-        width: 1200
-        height: 696
-        isCached: true
-  - title: "Joe Biden has set sky-high expectations. Can he meet them?"
-    excerpt: "Back when the election was tightening and just a week away, Joe Biden went big. He flew to Warm Springs, the Georgia town whose thermal waters once brought Franklin Delano Roosevelt comfort from polio,"
-    publishedDateTime: 2021-01-19T13:39:00Z
-    webUrl: "https://www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html"
-    ampWebUrl: "https://www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KMV2GSVBLRBFXG6Q3CXUGLMWEE.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "‘We will get through this together’: Newspaper front pages herald President Joe Biden, review challenges ahead"
     excerpt: "Joe Biden dominated, of course, but here and there his groundbreaking vice president Kamala Harris grabbed top billing."
     publishedDateTime: 2021-01-21T13:05:00Z
@@ -95,17 +47,6 @@ related:
         width: 2661
         height: 1774
         isCached: true
-  - title: "TV: Frontline documentary on Joe Biden as next president | Raleigh News & Observer"
-    excerpt: "Frontline presents a new special on President-elect Joe Biden, and how crisis and tragedy prepared him for the presidency. Included in the special are moments that shaped him and what those moments might reveal about how he will govern."
-    publishedDateTime: 2021-01-19T11:06:00Z
-    webUrl: "https://www.newsobserver.com/entertainment/tv/warm-tv-blog/article248583960.html"
-    ampWebUrl: "https://amp.newsobserver.com/entertainment/tv/warm-tv-blog/article248583960.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/entertainment/tv/warm-tv-blog/article248583960.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 49
 
 secured: "gLjnsUCuDxVBH1wBejbb7XVefqNHjj45h8OpezVHubXcw8DxVngXwbVCpQpGrX2MsO7vmCFJoZ0a9pbS7ta/jK7gks52JD1wXZ00CGmYrw9lRU3nB+OhcyB0rO1pSWjSJGOxLvS0dwjZ0VWb42TQhUqrsGOrJFCBT7J/IqN6iiGcdGVRkpNLfgNr2HYc4etrYFYRoVSVFx7oQ1G0wQVSZ2+HvG1muldR2Nw3JYFfoWWbfaj0/wajhTEMoHfIwuicj1yhzMd0EDhsN7m3wX8MmpP0lRBizmBhoFd5auJU0r57BPGDrtNUo2bYlo2RwucvEtFN/vt1VfopdvM+YMLlF5K+XOwXc0ut5GjP9QN3MW4UCzX+Uya0kyLLEKd1HG5myECMSSyfQxtA7fGr+7yoDK+7SK88FYv7mSrsVynbTe4OwfgfM6nCTsRypcnZzypyUBjAUk0lBWbADZfGkcJRo2Ufbo7ll9epzrgQ8a+qyq8GDnxrUwQNAZ/POavHqRQExAW6sjQ3c47Wb/IHXmYZSg==;I93/ionBIVZ5HRXK8DPu+A=="
 ---

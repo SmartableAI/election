@@ -211,6 +211,20 @@ related:
         width: 835
         height: 724
         isCached: true
+  - title: "Trump Impeachment Trial To Begin Week Of February 8: Schumer"
+    excerpt: "Donald Trump's US Senate trial will begin in the second week of February, days after a fresh impeachment case against the former president is transmitted by the House, Senate Majority Leader Chuck Schumer said Friday."
+    publishedDateTime: 2021-01-23T00:34:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-trial-begin-week-february-8-schumer-3128675"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/22/former-us-president-donald-trump-seen-here-leaving.jpg"
+        width: 1024
+        height: 696
+        isCached: true
 
 secured: "SFtb3Zs63IbRm87ZakCb/mfl17SRHBVXOHXmc+DqE94cjhrRkNeoFgk1jwSH352r8nN2cUVvh3YqM3ApfnvYCokMD7KUl4JtGJJWH3E1dKgGoNqoJCdAhYYG7HYaE0J7aNj6DyQRKHxPumIsgng0pkND0dA64UVucgicjsUh/FKTjRPajMqD1okuuS53w5mAC1cWKCrqUwajYjEhC++xLT3NycDfwX8qruX7oC1V0mnJwcXS5Bj7Oin8KS+pzZVxnKbC3aYy+nuJCneUMpojvTiBFtqyaRKpe19Zp4eQKwbAh0EaUNtLgrbT6jc5FSbwC6FBcS+K+Gz32qKAaHwXMu07v84eNQHB3GSGpnyqZTGsPnwDOBTN7RQjnd2ngo8WHsZUlreslBZuAGIpOE2fGBO67/LnN8r6Y+azceCB4bsoxCzySM9ENXBXpEpz5U4BDVS7cf1s9IZFQsxjb5JS+QjNSWtCgoXiX6pUY63BMi9yqj6ox7Ev1BYgRmCkcw+4fVKMc2xo/dqycefCgE0BbQ==;T9OlFxfarXextmmoMbFY/g=="
 ---

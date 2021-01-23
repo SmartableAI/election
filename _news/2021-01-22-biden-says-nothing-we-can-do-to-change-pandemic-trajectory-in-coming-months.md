@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-nothing-we-can-do-to-change-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nothing-we-can-do-to-change-coronavirus-pandemic-trajectory-in-coming-months.amp"
 type: article
 quality: 171
-heat: 171
+heat: 191
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 720
     isCached: true
 
-secured: "4ROF5ffOh5dwZg/yut8ned+VXzr8cFnCaUjEkEaRJIf4xpb4sN4bz10CGCcGFYVRLQ4gb1rVTQGP+P9Xc0MkaG0/kp2ESkO+VeO7VBmLyHc6D7Yav8IPMAuSVL9enWw3x6Ra5ScmkbbdKCbT9WGAeGjAddxq995jaInpZ/ZfcXDGUm6zb4YYwfgE2ybScj6D/0tWqXILT1udfcvr9AANgvxqytEIOUu+wxLNosHKbVbwKkzvhMYyztqk+n3y1/eZNElPsQaOWMR2HyLYv+dRTm7A4H5Iy6JwutKmIeo2urPUHcYjaamuzXOWgWzRUbe8WKCV6yZKnrX5KDLtaexDNHnZNUEMHZvZQG8CvYRUwYE=;KFXJnHSysMRNc2Hx97l+Lw=="
+related:
+  - title: "Crenshaw blasts Biden admin, claims they don't like 'anything the American working class might actually want'"
+    excerpt: "President Biden's executive orders about the economy prove that his administration is \"going to keep talking about unity but they don't want to unify behind anything the American working class might actually want,\" Rep. Dan Crenshaw, R-Texas, told \"Fox News Primetime\" Friday."
+    publishedDateTime: 2021-01-23T01:21:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqFlSYTl6PY/crenshaw-biden-keystone-pipeline-working-class-minimum-wage"
+    ampWebUrl: "https://www.foxnews.com/politics/crenshaw-biden-keystone-pipeline-working-class-minimum-wage.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/crenshaw-biden-keystone-pipeline-working-class-minimum-wage.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/563453d0-4e6b-4439-82d0-a1204396f562/e8155a1b-6a2e-4af7-be08-a49bcfa413ba/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "jC3wyyFEy1R2gUY5B5lK9PSi1Y6dVaY7GQgJ93eyU0CM9fTInMN3YHr7vOVf6PJPLHSK09VxqFwiQQkSZdzwD0Q7uEbSR/gAXXY0NOXU/SJINXgOqUqhPuVqOEIVwHCR5z1TkkYT3RS43T7mJw9f1u6Pp4VKHlOIdJ/oaORBLIYuwVfHyHM8LxvbPF2jJ2Lohi57+VaDuvximilXzDZeUY7cXjnZ3EoEeatCVQj9xmHDxjKQupQ9T5xQLnjoOhFZ0+PZYJLQgNBHHzrHcxguTDq3zUUYdbCFL0N+bSAxdrlLhYt1PDf+2zMJoeOFI347xO71eG5yK2nhrZf5Qt9YPCrl44ZdCo7H/3mkcQS4l9w=;JEfSCF8k2Dp3GpvSq3JZ7Q=="
 ---
 

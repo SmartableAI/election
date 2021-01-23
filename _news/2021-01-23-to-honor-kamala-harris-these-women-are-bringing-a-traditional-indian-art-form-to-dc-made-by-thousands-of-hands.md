@@ -2776,6 +2776,20 @@ related:
         width: 650
         height: 434
         isCached: true
+  - title: "Why Kamala Harris will not yet move into the vice president residence"
+    excerpt: "It’s not clear when the vice president will be able to move into the traditional quarters located in northwest Washington, D.C."
+    publishedDateTime: 2021-01-22T16:13:00Z
+    webUrl: "https://www.ajc.com/news/why-kamala-harris-will-not-yet-move-into-the-vice-president-residence/NYJACZYBTZERZOHQU3XJ44KRJY/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 55
+    images:
+      - url: "https://www.ajc.com/resizer/SRQzj6K4MUguN56Z2N9ZLF-9bXs=/1200x630/d1fegwn2wjh0cs.cloudfront.net/01-21-2021/t_7e4f7c2f3e414295abc26151b2ec2751_name_db4cec39bce7441c8283051b99b794d7"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Alert: AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance."
     publishedDateTime: 2021-01-15T18:27:00Z
@@ -2963,6 +2977,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "pSx3BzFnFGwf0/txySIke1J7clwtDFoV2ZIwhMCF7Me+o3osYkdiuj10xQM4Z6NsSlRo5jRGy88/YfHPK9JQIhY47yWt/zXBvvhukl8RJnDpQ+DqZ5j0WSQSquJkTLs2Pwj0CfBszEcZi5I4zyLYzJrvk22lNuOClaebHKGBLnOFomI/28DYmXS0gZC1ljsg9ZIhoXqN3Ny+Re2OGiI9pPDVTkRHoxs8KF6C4kCbG5Kc5dsRKxI6ozKwhHzliCupJIYlu2W7ev8KkwtUGMV6IzhaU1OggJAY55O9+f0YyYtjWZsEMfjVZDgbbUm6WgflW25RsjnTlwdgMjGVuHb9F0KXWA09qJMepQyfzOBwjOI=;5K42nXpgW4saasMJR/3Ntg=="
+secured: "aMrexCy0SZcHMNhmK2DFAz0JyKASQYkbNGThYcBXobsRKNlAinWSSRGBx6wEobKaPMNgk2kAiDpZh37sTGrJU7KegbsE7j4Yj1tsUa0rvDPHfmv+BC+VFpMUqpOJp+RKdDij4/ZIui32TM/9sActKqQJg8qw4YLUixTdMzZESQOP0XgDRHIyhUL5nrl8OKiVKvOnvb3btEkS3iq6/CLfOCovPkCyw2K6n72uaPyDA5Qpq2C2XKBfvHjFSBCLHnSb1r3HE8vgErNXhteHi0joGKBZHXy11YDLsnU/uNMOwKpjgogrw/KIl8aFgGcvxMcgMYQ2EOSOLUeSp2r9tBIk6xvNfx+8knK8pqrhjKLwsNlrLWuWE4B7cQg4UiHXS3AFXYhpvaX1Ch4nJ7yRGJgnTxPaT2UWl4hKXCTo04tPqXjEGM9V2u82xT/6VUaEsvIgT/1DPDfW3FxqCrbQQ+1YKN9m9/YYHBcLELbWfUNJzCRSpwU+LATd5CEi1fX4SaMSBnZccN0LSRa7ctBOaKggAw==;kwn13yu4JkLJ5DRiIg7keQ=="
 ---
 

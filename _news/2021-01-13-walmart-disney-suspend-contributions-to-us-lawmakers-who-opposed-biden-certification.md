@@ -157,6 +157,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden's Oval Office swaps Andrew Jackson, military flags for family photos, civil rights leaders"
+    excerpt: "U.S President Joe Biden has decorated his new office with busts of civil rights and labor leaders, nods to other presidents who faced great crises, and side-by-side portraits of American founders who famously disagreed."
+    publishedDateTime: 2021-01-23T01:35:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-oval-idUSKBN29R2K5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R2K5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R2K5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 112
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548759745&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1HK"
+        width: 815
+        height: 545
+        isCached: true
   - title: "As Biden prepares to take office and America reels from Capitol riots, Black and white still define the nation"
     excerpt: "Since the beginning of America, race was used to generate wealth for whites on the back of Blacks. Why can't we see our common economic interests?"
     publishedDateTime: 2021-01-15T00:40:00Z

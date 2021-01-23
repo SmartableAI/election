@@ -346,6 +346,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden admin freezes Trump HHS rule meant to lower insulin prices"
+    excerpt: "President Biden has been reversing or pausing some rules put in place under former President Donald Trump this week, including one designed to bring down the price of insulin."
+    publishedDateTime: 2021-01-23T02:52:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gtDTTwwky-c/biden-trump-hhs-rule-lower-insulin-prices"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-hhs-rule-lower-insulin-prices.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-hhs-rule-lower-insulin-prices.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f5aed56-cad9-4a62-84d3-3102f22d5903/8b35587f-5a55-42e4-a203-9f80182c6a04/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden fires Trump-appointed labor board attorney in break with precedent"
     excerpt: "President Biden in a break with precedent fired the general counsel of the National Labor Relations Board, a Senate-confirmed position, on his first day in the White House. "
     publishedDateTime: 2021-01-21T09:24:25Z
@@ -2707,6 +2723,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "QTfdnIab98AYxUcgyp4aEstylBRIRm8TwC2tlbDsRJmnLDLw9ZUb+bYAYp0SJC8AP9SIC3AHtjUXz/GzCveGf76zmabaw2J3tdohe1CP5AyhqgkYbpYZODJE9TY9L1dYKGzRrS6gq5Jl2HJJRAEMtSIAj6pmmxFYtq/gmzsJz0cA/OI+wndPcCPzVSm1SV/afwAktugE45YHy3XzpbgtQt4xT6qL2fUoB1nZ1hnzw08UVSo6TAe7kUnSEk7S8DZ6j8cefJ0IPFYalXcoB1Ca5lhcZvL8QRhDGJj5+e9gP6Z312ElB5WwY5/rE8FHixS9WXdCRqADTj7LpRT9vaQjXkDCZac95qLhzuyt6fmtTVo=;syHt9HwCfFleMIUYZKxorA=="
+secured: "aDU2IU2rhIGM4DPLDsSMyy5O5ny0cWKl1EzP0HGIC6+SoVfu6U/Kp9NJR3fL/PAai1Bqg2NW+iCwowTDbFlna5kj9Ghg9N99BhUYY/td6PP/cgS73z40MB8GVNKS5jQAYSAVgkiu/DFR4hXhz/7zndMviPIFbhc4vA/SczEF1ByddoENZPg90nL+sc4zaVgTbTEruyDVG5PJQ0m6QHbX1rz258pUwzvPsN5OdRcH8lB/xgug84y2xYJUM5jPRwQKVgp4+apXSBbgF9NJhGjLdqnFhsnQhN6BZ1LFk/6ZsxMipqonCv//YqbZSaslN4bAVU4lPxKN7dqVMtX91uwR3/2eDam5dzoz4ZVM5AEi/ufvhyM2gMovZIz0TG0wimP/e/J2gQOAVdxo/RXot79fd4zj/0qjKIQp+6NnzXb/BJMk+o+3Iv7YvJI4UXW9sq9uFsQ5t0f8+ZAtvH4bPE9mIa/lHmFUb70wziig+Cz3EQ3jFUzFcR9JfNri0OIRag7Py0cpBaUjAba5fyE9pEupNA==;Z8O7m34DDn0xtWvquAd75w=="
 ---
 

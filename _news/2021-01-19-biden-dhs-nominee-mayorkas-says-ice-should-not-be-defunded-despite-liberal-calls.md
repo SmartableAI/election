@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Xavier Becerra: What to know about Biden's HHS secretary pick"
+    excerpt: "President Joe Biden surprised the medical community when he nominated California Attorney General Xavier Becerra to serve on his cabinet as Secretary of Health and Human Services."
+    publishedDateTime: 2021-01-23T01:33:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X4GiwYj_lR4/xavier-becerra-what-to-know-about-bidens-hhs-secretary-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/xavier-becerra-what-to-know-about-bidens-hhs-secretary-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/xavier-becerra-what-to-know-about-bidens-hhs-secretary-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab599ecb-1668-4f63-9264-9b290dbb6361/4efce791-81f2-4162-a2cd-be2e93315781/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden DHS nominee Mayorkas says ICE should not be defunded, despite liberal calls"
     excerpt: "Alejandro Mayorkas, President-elect Joe Biden’s pick to lead the Department of Homeland Security, said Tuesday that Immigration and Customs Enforcement (ICE) should not be defunded -- while punting on whether parts of the border wall should be dismantled."
     publishedDateTime: 2021-01-19T18:53:00Z

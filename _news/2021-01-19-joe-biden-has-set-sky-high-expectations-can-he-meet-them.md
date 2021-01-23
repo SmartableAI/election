@@ -27,81 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden is president now and everything has happened just as we were warned"
-    excerpt: "Joe Biden is the president and the first thing he did was hurt God, just as they told us he would. He went right up to God and smote God, and now God is crying and Nietzsche has had to clamber back out of Hell to provide comfort."
-    publishedDateTime: 2021-01-22T02:22:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2021/01/21/joe-biden-is-president-now-everything-has-happened-just-we-were-warned/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2021/01/21/joe-biden-is-president-now-everything-has-happened-just-we-were-warned/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2021/01/21/joe-biden-is-president-now-everything-has-happened-just-we-were-warned/?outputType=amp"
+  - title: "Biden demands decency, promising staff members 'I will fire you on the spot' if they disrespect others"
+    excerpt: "President Joe Biden conducted a swearing-in ceremony by video conference Wednesday with hundreds of new government staff members."
+    publishedDateTime: 2021-01-21T22:17:00Z
+    webUrl: "https://www.businessinsider.com/biden-i-will-fire-you-on-spot-if-disrespect-others-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-i-will-fire-you-on-spot-if-disrespect-others-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-i-will-fire-you-on-spot-if-disrespect-others-2021-1?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JEBAYYC4BEI6XKCJN6KCHJ277U.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "‘Celebrating America’ review: Earnest inauguration special encapsulates President Joe Biden"
-    excerpt: "Celebrating America” traded the usual inauguration night balls for socially distanced performances from around the country, spotlights of “everyday heroes,” and solemn acknowledgments of the extraordinarily tough few years the country has muscled through to get to this moment."
-    publishedDateTime: 2021-01-21T12:38:00Z
-    webUrl: "https://www.chicagotribune.com/entertainment/ct-ent-celebrating-america-review-20210121-5jfmoumsafgc7pqrrooyr2clsq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/entertainment/ct-ent-celebrating-america-review-20210121-5jfmoumsafgc7pqrrooyr2clsq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/ct-ent-celebrating-america-review-20210121-5jfmoumsafgc7pqrrooyr2clsq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 115
-    images:
-      - url: "https://www.chicagotribune.com/resizer/8r1pkCCA_n_7FbKpLextDsEervE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/32432MOOUUPTGCJTRIA6JJ6H6Q.aspx"
+      - url: "https://i.insider.com/6008c79fdb847c001918bfb3?width=1200&format=jpeg"
         width: 1200
-        height: 696
+        height: 600
         isCached: true
-  - title: "'This is our historic moment of crisis and challenge': Joe Biden calls for unity in first speech as president – live"
-    excerpt: "Joe Biden has been sworn in as president, bringing an end to four years of Donald Trump’s leadership in Washington"
-    publishedDateTime: 2021-01-20T18:15:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-60087e588f08fbcf3cf0e1fa"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
+  - title: "Joe Biden said his Cabinet would be 'the most diverse in history.' We ran the numbers on 7 different metrics to see how diverse his staff really is."
+    excerpt: "Insider dug into race, age, gender, educational background, and more to find out how Biden's administration diversity compared to that of America."
+    publishedDateTime: 2021-01-16T17:47:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-cabinet-diversity-analysis-2021-1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 102
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
     images:
-      - url: "https://i.guim.co.uk/img/media/d15a858f45a82cc9a06ff6968945b105bb4befcc/0_199_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e9c855fc42f237c45a7a7d11c48fa8f"
-        width: 600
-        height: 360
+      - url: "https://i.insider.com/5ff4b9a33793140019e2870d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "‘We will get through this together’: Newspaper front pages herald President Joe Biden, review challenges ahead"
-    excerpt: "Joe Biden dominated, of course, but here and there his groundbreaking vice president Kamala Harris grabbed top billing."
-    publishedDateTime: 2021-01-21T13:05:00Z
-    webUrl: "https://www.oregonlive.com/nation/2021/01/we-will-get-through-this-together-front-pages-herald-president-joe-biden-review-challenges-ahead.html"
-    ampWebUrl: "https://www.oregonlive.com/nation/2021/01/we-will-get-through-this-together-front-pages-herald-president-joe-biden-review-challenges-ahead.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2021/01/we-will-get-through-this-together-front-pages-herald-president-joe-biden-review-challenges-ahead.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 55
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DOTFE2YHJBF67GBQ5LVTYXM52E.jpg"
-        width: 2661
-        height: 1774
-        isCached: true
-  - title: "TV: Frontline documentary on Joe Biden as next president | Raleigh News & Observer"
-    excerpt: "Frontline presents a new special on President-elect Joe Biden, and how crisis and tragedy prepared him for the presidency. Included in the special are moments that shaped him and what those moments might reveal about how he will govern."
-    publishedDateTime: 2021-01-19T11:06:00Z
-    webUrl: "https://www.newsobserver.com/entertainment/tv/warm-tv-blog/article248583960.html"
-    ampWebUrl: "https://amp.newsobserver.com/entertainment/tv/warm-tv-blog/article248583960.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/entertainment/tv/warm-tv-blog/article248583960.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 49
 
 secured: "f2gC42+5hUihY3XHtRQ9f1qCPFVyKSPR1DiNYKUoCSY5iq9/NcC5B7HvoUvZbPj4jzSHAx/yofZcksIl//tLZgXGqs1kbCn9LMdjL3xaTPceQkDwxU4KyWspseJu7+pVFQOlUcDJozrzeeifztQnWBIL+fe79luRAmKVJffzgUFZJtsxHKACnnxsh+Fn+4CKVCDp3Q4zk+o/Q+JPkHN4dm9FGXkulC6GP2LeKWtNUf8a729Ms8QB+r0QGo5uQSgUQa2nnrsa6NGekBKHSXo2Br+T1jXg9AxsL88kT7eqV9qvf19zv9Bbccz94vmUlBHOSwvlrSSgz7UV6TdR5Jmm5b+HYLv7CJei09pik6peebimK+5f2ZvJ2hmur0Cp3SRWOd0XVZscCIr66ipDtKWdjUs8Ee59JUbCmP5TDt3O0lYO9fmsSdbl+G6wb9nxmJzS6sEFAI3LMrTImcq0GGl7GkaxBPRQiFMqyJxufd4rxN0utJP4h5iCBqsqGEcYTnIO1mc5oOyV0/jjM4LlKKW08Q==;XR/LLafF11Z5eq6Q1TXsTQ=="
 ---

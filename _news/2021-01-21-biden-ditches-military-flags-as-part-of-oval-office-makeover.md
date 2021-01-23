@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-ditches-military-flags-oval-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ditches-military-flags-oval-office-makeover.amp"
 type: article
 quality: 175
-heat: 495
+heat: 515
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20329663004767-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Catholic bishops alarmed by ‘misguided’ Biden executive order"
+    excerpt: "Catholic bishops criticized on Friday President Biden's recent executive order on applying anti-discrimination protections to certain groups, arguing it didn't properly account for religious liberty and furthered \"false theories on human sexuality.\" "
+    publishedDateTime: 2021-01-23T02:31:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ju18I1mdG7M/catholic-bishops-biden-discrimination-executive-order"
+    ampWebUrl: "https://www.foxnews.com/politics/catholic-bishops-biden-discrimination-executive-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/catholic-bishops-biden-discrimination-executive-order.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab599ecb-1668-4f63-9264-9b290dbb6361/4efce791-81f2-4162-a2cd-be2e93315781/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden WH criticizes US as one of world’s largest greenhouse gas emitters"
     excerpt: "President Joe Biden took several steps to address his climate policy agenda on Wednesday."

@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-22-biden-order-seeks-stronger-workplace-safety-rules-signaling-a-more-worker-friendly-approach.md",
+      "title": "Biden order seeks stronger workplace safety rules, signaling a more worker friendly approach",
+      "excerpt": "The Executive Order could lead to an emergency standard for businesses — a set of a regulations they would have to comply with, like mask-wearing, that advocates say is necessary to combat the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/",
+      "originalUrl": "https://www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KLXVVQCAZ4I6XNMLCYR7MJTZMA.jpg&w=1440",
+          "width": 1440,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/?outputType=amp",
+      "publishedDateTime": "2021-01-21T14:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-biden-demands-decency-promising-staff-members-i-will-fire-you-on-the-spot-if-they-disrespect-others.md",
+      "title": "Biden demands decency, promising staff members 'I will fire you on the spot' if they disrespect others",
+      "excerpt": "President Joe Biden conducted a swearing-in ceremony by video conference Wednesday with hundreds of new government staff members.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-i-will-fire-you-on-spot-if-disrespect-others-2021-1",
+      "originalUrl": "https://www.businessinsider.com/biden-i-will-fire-you-on-spot-if-disrespect-others-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6008c79fdb847c001918bfb3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-i-will-fire-you-on-spot-if-disrespect-others-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-i-will-fire-you-on-spot-if-disrespect-others-2021-1?amp",
+      "publishedDateTime": "2021-01-21T14:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-mcconnell-biden-took-several-big-steps-in-the-wrong-direction-on-day-one.md",
       "title": "McConnell: Biden ‘took several big steps in the wrong direction’ on Day One",
       "excerpt": "Just one day after President Biden spoke of unity in his inaugural address to the nation, Senate Minority Leader Mitch McConnell says the Democrat president has headed in \"the wrong direction.\"",
@@ -505,6 +609,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-21-celebrating-america-review-earnest-inauguration-special-encapsulates-president-joe-biden.md",
+      "title": "‘Celebrating America’ review: Earnest inauguration special encapsulates President Joe Biden",
+      "excerpt": "Celebrating America” traded the usual inauguration night balls for socially distanced performances from around the country, spotlights of “everyday heroes,” and solemn acknowledgments of the extraordinarily tough few years the country has muscled through to get to this moment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/entertainment/ct-ent-celebrating-america-review-20210121-5jfmoumsafgc7pqrrooyr2clsq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/entertainment/ct-ent-celebrating-america-review-20210121-5jfmoumsafgc7pqrrooyr2clsq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/8r1pkCCA_n_7FbKpLextDsEervE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/32432MOOUUPTGCJTRIA6JJ6H6Q.aspx",
+          "width": 1200,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/entertainment/ct-ent-celebrating-america-review-20210121-5jfmoumsafgc7pqrrooyr2clsq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/ct-ent-celebrating-america-review-20210121-5jfmoumsafgc7pqrrooyr2clsq-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-21T04:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-theologian-russell-moore-has-a-message-for-christians-who-still-worship-donald-trump.md",
       "title": "Theologian Russell Moore Has a Message for Christians Who Still Worship Donald Trump",
       "excerpt": "If you can defend this, you can defend anything,” wrote Russell Moore, a theologian who is also the president of the Ethics and Religious Liberty Commission (ERLC) of the Southern Baptist Convention (SBC),",
@@ -767,7 +923,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 495,
+      "heat": 515,
       "tags": null,
       "images": [
         {
@@ -1178,175 +1334,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bidens-inaugural-address-heartfelt-unity-rove.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-inaugural-address-heartfelt-unity-rove.amp",
       "publishedDateTime": "2021-01-20T13:02:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-biden-reversing-travel-ban-for-muslim-countries-very-disappointing-chad-wolf.md",
-      "title": "Biden reversing travel ban for Muslim countries ‘very disappointing’: Chad Wolf",
-      "excerpt": "Former Acting Homeland Security Secretary Chad Wolf argued on Wednesday that President Biden’s intention to revoke Donald Trump's travel bans for majority-Muslim countries is \"going to make the American people less safe.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m0P_qb4MKb8/very-disappointing-biden-immediately-reverse-travel-restrictions-chad-wolf",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m0P_qb4MKb8/very-disappointing-biden-immediately-reverse-travel-restrictions-chad-wolf",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/very-disappointing-biden-immediately-reverse-travel-restrictions-chad-wolf.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/very-disappointing-biden-immediately-reverse-travel-restrictions-chad-wolf.amp",
-      "publishedDateTime": "2021-01-20T12:58:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-biden-harris-partake-in-arlington-wreath-laying-ceremony.md",
-      "title": "Biden, Harris partake in Arlington wreath laying ceremony",
-      "excerpt": "President Joe Biden and Vice President Kamala Harris, after being sworn in at the Capitol, traveled to Arlington National Cemetery for a ceremony at the Tomb of the Unknown Soldier. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dGCJkdoT_Lc/biden-harris-arlington-wreath-laying-ceremony",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dGCJkdoT_Lc/biden-harris-arlington-wreath-laying-ceremony",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 540,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Arlington-Wreath-Biden-Harris-AP-2.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-harris-arlington-wreath-laying-ceremony.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-arlington-wreath-laying-ceremony.amp",
-      "publishedDateTime": "2021-01-20T12:38:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-marco-rubio-rejects-biden-immigration-bill-calls-it-blanket-amnesty.md",
-      "title": "Marco Rubio rejects Biden immigration bill, calls it ‘blanket amnesty’",
-      "excerpt": "Sen. Marco Rubio, R-Fla., on Tuesday rejected an immigration proposal by President Biden, describing its call for an 8-year pathway to citizenship for illegal immigrants as a “blanket amnesty.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7xnKY6Vi5vs/rubio-biden-immigration-bill-blanket-amnesty",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7xnKY6Vi5vs/rubio-biden-immigration-bill-blanket-amnesty",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7614311-4887-4e69-9bd5-dcd532a72e01/25745707-6bbf-4d2e-9f7b-6d248ac29edd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rubio-biden-immigration-bill-blanket-amnesty.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-biden-immigration-bill-blanket-amnesty.amp",
-      "publishedDateTime": "2021-01-20T12:07:08-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -352,6 +352,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden admin freezes Trump HHS rule meant to lower insulin prices"
+    excerpt: "President Biden has been reversing or pausing some rules put in place under former President Donald Trump this week, including one designed to bring down the price of insulin."
+    publishedDateTime: 2021-01-23T02:52:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gtDTTwwky-c/biden-trump-hhs-rule-lower-insulin-prices"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-hhs-rule-lower-insulin-prices.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-hhs-rule-lower-insulin-prices.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f5aed56-cad9-4a62-84d3-3102f22d5903/8b35587f-5a55-42e4-a203-9f80182c6a04/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden fires Trump-appointed labor board attorney in break with precedent"
     excerpt: "President Biden in a break with precedent fired the general counsel of the National Labor Relations Board, a Senate-confirmed position, on his first day in the White House. "
     publishedDateTime: 2021-01-21T09:24:25Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.chicagotribune.com/entertainment/ct-ent-celebrating-amer
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/ct-ent-celebrating-america-review-20210121-5jfmoumsafgc7pqrrooyr2clsq-story.html?outputType=amp"
 type: article
 quality: 115
-heat: -1
-published: false
+heat: 155
+published: true
 
 provider:
   name: Chicago Tribune
@@ -31,81 +31,36 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden is president now and everything has happened just as we were warned"
-    excerpt: "Joe Biden is the president and the first thing he did was hurt God, just as they told us he would. He went right up to God and smote God, and now God is crying and Nietzsche has had to clamber back out of Hell to provide comfort."
-    publishedDateTime: 2021-01-22T02:22:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2021/01/21/joe-biden-is-president-now-everything-has-happened-just-we-were-warned/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2021/01/21/joe-biden-is-president-now-everything-has-happened-just-we-were-warned/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2021/01/21/joe-biden-is-president-now-everything-has-happened-just-we-were-warned/?outputType=amp"
+  - title: "'To heal, we must remember': Biden leads national mourning of 400,000 Americans killed by COVID-19"
+    excerpt: "\"It's hard sometimes to remember. But that's how we heal,\" Biden said from the Lincoln Memorial Reflecting Pool."
+    publishedDateTime: 2021-01-20T06:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/19/biden-leads-memorial-nearly-400-000-americans-killed-covid-19/4215250001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4215250001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4215250001"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JEBAYYC4BEI6XKCJN6KCHJ277U.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/8d45ca2d-ad8b-472e-88f0-fe849ccf76cb-AP21019841045074.jpg?auto=webp&crop=4245,2388,x0,y283&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "'This is our historic moment of crisis and challenge': Joe Biden calls for unity in first speech as president – live"
-    excerpt: "Joe Biden has been sworn in as president, bringing an end to four years of Donald Trump’s leadership in Washington"
-    publishedDateTime: 2021-01-20T18:15:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-60087e588f08fbcf3cf0e1fa"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
+  - title: "Joe Biden's inauguration address: \"This is America's day\""
+    excerpt: "In a 21-minute inaugural address, President Joe Biden declared \"democracy has prevailed\" as he pleaded for unity. \"This is America's day. This is democracy's day,\" Mr. Biden said. Watch his full speech."
+    publishedDateTime: 2021-01-20T17:50:00Z
+    webUrl: "https://www.cbsnews.com/video/joe-biden-inauguration-speech-watch-in-full-2021-01-20/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 102
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://i.guim.co.uk/img/media/d15a858f45a82cc9a06ff6968945b105bb4befcc/0_199_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e9c855fc42f237c45a7a7d11c48fa8f"
-        width: 600
-        height: 360
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/20/ac9c1308-2b58-40b0-811d-30ad5e8701b1/thumbnail/1200x630/b4d05d42f91a2fb247c1197479de4347/cbsn-fusion-joe-biden-inauguration-speech-thumbnail-630010-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Joe Biden has set sky-high expectations. Can he meet them?"
-    excerpt: "Back when the election was tightening and just a week away, Joe Biden went big. He flew to Warm Springs, the Georgia town whose thermal waters once brought Franklin Delano Roosevelt comfort from polio,"
-    publishedDateTime: 2021-01-19T13:39:00Z
-    webUrl: "https://www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html"
-    ampWebUrl: "https://www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KMV2GSVBLRBFXG6Q3CXUGLMWEE.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "‘We will get through this together’: Newspaper front pages herald President Joe Biden, review challenges ahead"
-    excerpt: "Joe Biden dominated, of course, but here and there his groundbreaking vice president Kamala Harris grabbed top billing."
-    publishedDateTime: 2021-01-21T13:05:00Z
-    webUrl: "https://www.oregonlive.com/nation/2021/01/we-will-get-through-this-together-front-pages-herald-president-joe-biden-review-challenges-ahead.html"
-    ampWebUrl: "https://www.oregonlive.com/nation/2021/01/we-will-get-through-this-together-front-pages-herald-president-joe-biden-review-challenges-ahead.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2021/01/we-will-get-through-this-together-front-pages-herald-president-joe-biden-review-challenges-ahead.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 55
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DOTFE2YHJBF67GBQ5LVTYXM52E.jpg"
-        width: 2661
-        height: 1774
-        isCached: true
-  - title: "TV: Frontline documentary on Joe Biden as next president | Raleigh News & Observer"
-    excerpt: "Frontline presents a new special on President-elect Joe Biden, and how crisis and tragedy prepared him for the presidency. Included in the special are moments that shaped him and what those moments might reveal about how he will govern."
-    publishedDateTime: 2021-01-19T11:06:00Z
-    webUrl: "https://www.newsobserver.com/entertainment/tv/warm-tv-blog/article248583960.html"
-    ampWebUrl: "https://amp.newsobserver.com/entertainment/tv/warm-tv-blog/article248583960.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/entertainment/tv/warm-tv-blog/article248583960.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 49
 
 secured: "0ixL0zggfGQjOCW/+jmcF3eZeb2KGzNfB7ITc342mCnhIZalAWS0hpE2uaCPMu6J2fApiYl3t+iKy7+SsBrJ4CwDaa8LPFScNLZ2OHpPkQt7z4lNSxoMEHMJYugMY8daigsZDl1U/YPucj6yPEcHuU16R2sx9QekIedzRkSD/01GfH8pY3XUoG+UcqBJhWr7muUqhHXmCUo3HEx1KQ6Gdzf6lVHEWGCzABrx/wmEoN30PCAPMEuoLgyZvhUeaMXFb148hBezcTS0QUCifvDReXPCCUW7OBsdDvLa9ySRwWoGmfoKbyyFwl0cvkY6WePjge0P/47MWHnExV8tykpHX+wRmtrnrKrBtoWDDQam50s=;Eb2X9ZT4NrMdqqU+JrnyHg=="
 ---

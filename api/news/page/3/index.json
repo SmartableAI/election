@@ -2,6 +2,175 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-20-biden-reversing-travel-ban-for-muslim-countries-very-disappointing-chad-wolf.md",
+      "title": "Biden reversing travel ban for Muslim countries ‘very disappointing’: Chad Wolf",
+      "excerpt": "Former Acting Homeland Security Secretary Chad Wolf argued on Wednesday that President Biden’s intention to revoke Donald Trump's travel bans for majority-Muslim countries is \"going to make the American people less safe.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m0P_qb4MKb8/very-disappointing-biden-immediately-reverse-travel-restrictions-chad-wolf",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m0P_qb4MKb8/very-disappointing-biden-immediately-reverse-travel-restrictions-chad-wolf",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/very-disappointing-biden-immediately-reverse-travel-restrictions-chad-wolf.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/very-disappointing-biden-immediately-reverse-travel-restrictions-chad-wolf.amp",
+      "publishedDateTime": "2021-01-20T12:58:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-biden-harris-partake-in-arlington-wreath-laying-ceremony.md",
+      "title": "Biden, Harris partake in Arlington wreath laying ceremony",
+      "excerpt": "President Joe Biden and Vice President Kamala Harris, after being sworn in at the Capitol, traveled to Arlington National Cemetery for a ceremony at the Tomb of the Unknown Soldier. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dGCJkdoT_Lc/biden-harris-arlington-wreath-laying-ceremony",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dGCJkdoT_Lc/biden-harris-arlington-wreath-laying-ceremony",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 540,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Arlington-Wreath-Biden-Harris-AP-2.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-harris-arlington-wreath-laying-ceremony.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-arlington-wreath-laying-ceremony.amp",
+      "publishedDateTime": "2021-01-20T12:38:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-marco-rubio-rejects-biden-immigration-bill-calls-it-blanket-amnesty.md",
+      "title": "Marco Rubio rejects Biden immigration bill, calls it ‘blanket amnesty’",
+      "excerpt": "Sen. Marco Rubio, R-Fla., on Tuesday rejected an immigration proposal by President Biden, describing its call for an 8-year pathway to citizenship for illegal immigrants as a “blanket amnesty.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7xnKY6Vi5vs/rubio-biden-immigration-bill-blanket-amnesty",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7xnKY6Vi5vs/rubio-biden-immigration-bill-blanket-amnesty",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7614311-4887-4e69-9bd5-dcd532a72e01/25745707-6bbf-4d2e-9f7b-6d248ac29edd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rubio-biden-immigration-bill-blanket-amnesty.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-biden-immigration-bill-blanket-amnesty.amp",
+      "publishedDateTime": "2021-01-20T12:07:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-a-total-failure-the-proud-boys-now-mock-trump.md",
       "title": "‘A Total Failure’: The Proud Boys Now Mock Trump",
       "excerpt": "Members of the far-right group, who were among Donald Trump’s staunchest fans, are calling him “weak,” in a sign of fraying support.",
@@ -172,21 +341,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-21-joe-bidens-inauguration-address-this-is-americas-day.md",
-      "title": "Joe Biden's inauguration address: \"This is America's day\"",
-      "excerpt": "In a 21-minute inaugural address, President Joe Biden declared \"democracy has prevailed\" as he pleaded for unity. \"This is America's day. This is democracy's day,\" Mr. Biden said. Watch his full speech.",
+      "path": "_news/2021-01-21-this-is-our-historic-moment-of-crisis-and-challenge-joe-biden-calls-for-unity-in-first-speech-as-president-live.md",
+      "title": "'This is our historic moment of crisis and challenge': Joe Biden calls for unity in first speech as president – live",
+      "excerpt": "Joe Biden has been sworn in as president, bringing an end to four years of Donald Trump’s leadership in Washington",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/joe-biden-inauguration-speech-watch-in-full-2021-01-20/",
-      "originalUrl": "https://www.cbsnews.com/video/joe-biden-inauguration-speech-watch-in-full-2021-01-20/",
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-60087e588f08fbcf3cf0e1fa",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-60087e588f08fbcf3cf0e1fa",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 122,
       "tags": null,
       "images": [
         {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/20/ac9c1308-2b58-40b0-811d-30ad5e8701b1/thumbnail/1200x630/b4d05d42f91a2fb247c1197479de4347/cbsn-fusion-joe-biden-inauguration-speech-thumbnail-630010-640x360.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://i.guim.co.uk/img/media/d15a858f45a82cc9a06ff6968945b105bb4befcc/0_199_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e9c855fc42f237c45a7a7d11c48fa8f",
+          "width": 600,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -194,16 +363,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T09:50:00-08:00",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates",
+      "publishedDateTime": "2021-01-20T10:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -392,7 +561,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 3605,
+      "heat": 3625,
       "tags": null,
       "images": [
         {
@@ -773,63 +942,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-20-do-latino-voters-think-joe-biden-can-unite-the-country.md",
-      "title": "Do Latino voters think Joe Biden can unite the country?",
-      "excerpt": "\"It's going to be hard, because there's still going to be people that think the election was a fraud,\" said Yumaira Saavedra of Pennsylvania.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/latino/do-latino-voters-think-joe-biden-can-unite-country-n1254800",
-      "originalUrl": "https://www.nbcnews.com/news/latino/do-latino-voters-think-joe-biden-can-unite-country-n1254800",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2021_03/3443384/210119-washington-capitol-inauguration-prep-2x1-ac-1055p_febc111051f1ce6e390fc8d524eb2182.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1254800",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254800",
-      "publishedDateTime": "2021-01-20T03:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-20-donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency.md",
       "title": "Donald Trump pardons Steve Bannon amid last acts of presidency",
       "excerpt": "Former senior adviser had previously been considered an unlikely name among the 143 people who received clemency",
@@ -938,6 +1050,63 @@
       ]
     },
     {
+      "path": "_news/2021-01-20-trump-leaves-office-with-little-to-show-of-his-major-promises-and-a-legacy-of-violent-divisiveness.md",
+      "title": "Trump leaves office with little to show of his major promises, and a legacy of violent divisiveness",
+      "excerpt": "Donald Trump promised to end \"American carnage\" and \"Make America Great Again.\" Four years later, he leaves with those goals far from reach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/politics-news/impeached-twice-still-no-wall-mr-trump-goes-washington-n1254757",
+      "originalUrl": "https://www.nbcnews.com/politics/politics-news/impeached-twice-still-no-wall-mr-trump-goes-washington-n1254757",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2021_03/3443223/210119-analysis-inauguration-donald-trump-ew-202p_0238d95931f19103802ae05b7106c67e.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1254757",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254757",
+      "publishedDateTime": "2021-01-20T00:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-trump-grants-clemency-to-rappers-lil-wayne-and-kodak-black-in-final-flurry-of-presidential-power.md",
       "title": "Trump grants clemency to rappers Lil Wayne and Kodak Black in final flurry of presidential power ",
       "excerpt": "The White House announced early Wednesday that President Donald Trump has granted a pardon to rapper Lil Wayne and a commutation to rapper Kodak Black, two of the raft of pardons and commutations on his final day in office.\n    \n",
@@ -991,58 +1160,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-to-heal-we-must-remember-biden-leads-national-mourning-of-400000-americans-killed-by-covid-19.md",
-      "title": "'To heal, we must remember': Biden leads national mourning of 400,000 Americans killed by COVID-19",
-      "excerpt": "\"It's hard sometimes to remember. But that's how we heal,\" Biden said from the Lincoln Memorial Reflecting Pool.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/19/biden-leads-memorial-nearly-400-000-americans-killed-covid-19/4215250001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/19/biden-leads-memorial-nearly-400-000-americans-killed-covid-19/4215250001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/19/USAT/8d45ca2d-ad8b-472e-88f0-fe849ccf76cb-AP21019841045074.jpg?auto=webp&crop=4245,2388,x0,y283&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4215250001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4215250001",
-      "publishedDateTime": "2021-01-19T22:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -1247,118 +1364,6 @@
         "Election",
         "Joe Biden",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-sen-cotton-tears-into-bidens-radical-immigration-agenda-what-youd-expect-from-the-party-of-open-borders.md",
-      "title": "Sen. Cotton tears into Biden’s ‘radical immigration agenda’: ‘what you’d expect from the party of open borders",
-      "excerpt": "President-elect Joe Biden is expected to unveil a sweeping immigration plan during his early days in office, which will aim to reverse Trump-era policies – but his proactive approach is garnering pushback from both sides of the aisle. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hwDGp4RQWc8/sen-cotton-tears-into-bidens-radical-immigration-agenda-what-youd-expect-from-the-party-of-open-borders",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hwDGp4RQWc8/sen-cotton-tears-into-bidens-radical-immigration-agenda-what-youd-expect-from-the-party-of-open-borders",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/321ecfd7-beb9-4774-b170-6624dc01804c/da14774b-57ad-4e5e-9230-b8d2bae64d79/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sen-cotton-tears-into-bidens-radical-immigration-agenda-what-youd-expect-from-the-party-of-open-borders.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cotton-tears-into-bidens-radical-immigration-agenda-what-youd-expect-from-the-party-of-open-borders.amp",
-      "publishedDateTime": "2021-01-19T17:54:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-graham-warns-border-will-be-overrun-unless-biden-sends-clear-and-unmistakable-signal-to-migrant-caravans.md",
-      "title": "Graham warns border will be 'overrun’ unless Biden sends ‘clear and unmistakable signal’ to migrant caravans",
-      "excerpt": "Sen. Lindsey Graham, R-S.C., on Tuesday warned that the U.S. border will be “overrun” unless the incoming Biden administration sends a message to the incoming migrant caravans that they support President Donald Trump’s policies on immigration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/thbVdISPF30/graham-warns-border-overrun-unless-biden-sends-signal-migrant-caravans",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/thbVdISPF30/graham-warns-border-overrun-unless-biden-sends-signal-migrant-caravans",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020009128608.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/graham-warns-border-overrun-unless-biden-sends-signal-migrant-caravans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-warns-border-overrun-unless-biden-sends-signal-migrant-caravans.amp",
-      "publishedDateTime": "2021-01-19T16:58:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
