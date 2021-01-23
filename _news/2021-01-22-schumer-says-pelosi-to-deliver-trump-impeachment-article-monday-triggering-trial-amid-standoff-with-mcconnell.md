@@ -111,6 +111,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Ingraham: Second Senate impeachment trial of Trump will be 'ugly, feudal farce'"
+    excerpt: "Senate Majority Leader Chuck Schumer's commitment to holding a post-presidential impeachment trial of Donald Trump sets the stage for an \"ugly, feudal farce,\" Laura Ingraham said Friday."
+    publishedDateTime: 2021-01-23T04:39:00Z
+    webUrl: "https://www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce"
+    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f803e6d-1655-44a5-bb1a-14973471d214/5337238f-a929-46b9-8827-dbae154b3388/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "cFpRVZ5XRhv5tvkVrrsUuuXRln2Wcty/LehNbKKC85j0fty+EH/cdfkagc1HDFinyRliRs4cg84Jt+xVh1kbC4F/dQqAlTlJrslR6DRPNpUsLBCy1h4LTqC5TTB+a2GoohICXUySfxGLWHG0LzBqTXYXzg2Q/4Z5fnPbhCo/UHTu8LsctHZom6K/VmurbDZ4QESEWtN7dZCpL5HVQcJIu/B+OjcEQa1Y9lCRTtajggDrf9Z40l5u3Qm4kZULL8cQADNzkgIgpjWAFcMAo25zvnlCbSNubn8UGDEX0aCupmgrwEyx+aLb26s+bDeCcjr7lws6jj+l0XieeUHU+o9jgEtyoZyFIQDnniO4l9h1H/c=;XMFZY7uH9kopCoRri+14sg=="
 ---

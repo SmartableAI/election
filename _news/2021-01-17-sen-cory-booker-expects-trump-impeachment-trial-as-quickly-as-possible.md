@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/sen-booker-trump-impeachment-trial-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-booker-trump-impeachment-trial-quickly-as-possible.amp"
 type: article
 quality: 174
-heat: 274
+heat: 294
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Ingraham: Second Senate impeachment trial of Trump will be 'ugly, feudal farce'"
+    excerpt: "Senate Majority Leader Chuck Schumer's commitment to holding a post-presidential impeachment trial of Donald Trump sets the stage for an \"ugly, feudal farce,\" Laura Ingraham said Friday."
+    publishedDateTime: 2021-01-23T04:39:00Z
+    webUrl: "https://www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce"
+    ampWebUrl: "https://www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-trump-impeachment-trial-ugly-feudal-farce.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f803e6d-1655-44a5-bb1a-14973471d214/5337238f-a929-46b9-8827-dbae154b3388/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "e6MRpY7/vOgDDBTIA1aHPv3890ubiSBcXEclKo/I6fnSb1L2LKlhmKelcXQEwnOK2tlMKn+RVzD55JSBPfL586/7IOBL68pbXcKQIS+mOcLOd0P3dozV70OpJ2ynyk46Zft/oCFM0WjGG+uTsP+UL8r8Aenv874xl9N6prQQ91XWewmmjujRW/CJa9YPqZkMlOPTuGcwB/UQ4tS8RowDqx55c/EXQ2oM5GKa1t9a2onKkIki32CgL0GRd9TpM1tUfJiwA/DcjPMGWtzz0OBXbBj+Pmr3FL8K6msVjyX9UI3gm1pDpwaOF5V7UvG3viOu5Os1xphFNKKkPEHrvV5XU8wBtFfL5tungLIax4U+i5M=;ByhUxFcAnaNzHW1AkNbkMA=="

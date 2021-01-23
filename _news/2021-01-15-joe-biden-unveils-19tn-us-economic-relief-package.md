@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55670801"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55670801"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thehill.com/sites/default/files/biden_cabinet_picks_01082021_1.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Biden orders review of domestic violent extremism threat"
+    excerpt: "President Joe Biden has directed his intelligence community to study the threat of domestic extremism in the United States"
+    publishedDateTime: 2021-01-23T03:38:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/biden-orders-review-of-domestic-violent-extremism-threat/2021/01/22/7320246e-5d2b-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/biden-orders-review-of-domestic-violent-extremism-threat/2021/01/22/7320246e-5d2b-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-orders-review-of-domestic-violent-extremism-threat/2021/01/22/7320246e-5d2b-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "U.S. Senate confirms Biden nominee Austin as defense secretary"
     excerpt: "The U.S. Senate on Friday voted overwhelmingly to confirm retired Army General Lloyd as President Joe Biden's defense secretary, making him the first Black American to serve in the role."

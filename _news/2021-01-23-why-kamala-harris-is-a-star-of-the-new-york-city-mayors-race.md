@@ -1324,6 +1324,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Judge orders Treasury to notify Trump before giving up tax returns"
+    excerpt: "The latest back-and-forth is an example of the type of legal wrangling arising from his administration that will continue to dog Donald Trump."
+    publishedDateTime: 2021-01-22T22:59:00Z
+    webUrl: "https://www.politico.com/news/2021/01/22/treasury-trump-tax-returns-461469"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/22/treasury-trump-tax-returns-461469"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/22/treasury-trump-tax-returns-461469"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/fd/64/1388a9ba4f7c88774c7178691f20/gettyimages-1220223960-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "What’s It Like to Have Kamala Harris As ‘Momala’? We Asked Her Stepkids."
     excerpt: "But on the night that Joe Biden and his vice-presidential running mate, Kamala Harris, delivered their acceptance speeches, with their families gathered onstage, watching fireworks, Cole began receiving astonished texts from friends and colleagues."
     publishedDateTime: 2021-01-17T08:00:00Z
@@ -1585,6 +1601,20 @@ related:
     quality: 115
     images:
       - url: "https://static01.nyt.com/images/2021/01/20/us/politics/20inaugural-briefing-senate-HFO/20inaugural-briefing-senate-HFO-facebookJumbo-v2.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Kamala Harris Celebrated In India"
+    excerpt: "Kamala Harris’s ancestral village in southern India celebrated her swearing-in as vice president. Advertisement. Continue reading the main story"
+    publishedDateTime: 2021-01-22T15:48:00Z
+    webUrl: "https://www.nytimes.com/video/world/asia/100000007565507/kamala-harris-vice-president-india.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/23/world/21transition-briefing-India-village-reaction/21transition-briefing-India-village-reaction-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
         isCached: true

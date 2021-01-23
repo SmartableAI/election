@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/cia-kash-patel-mypillow-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/cia-kash-patel-mypillow-notes-lindell-trump/index.html"
 type: article
 quality: 171
-heat: 171
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "New York Times: Trump and DOJ attorney had plan to replace his acting AG and undo Georgia election result"
+    excerpt: "Justice Department lawyer Jeffrey Clark nearly convinced then-President Donald Trump to remove then-acting Attorney General Jeffrey Rosen and use the Department of Justice to undo Georgia's election results, The New York Times reported Friday.\n    \n"
+    publishedDateTime: 2021-01-23T03:35:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YGZ1p29pNIg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/trump-doj-attorney-plan-replace-acting-ag-false-election-claims/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/trump-doj-attorney-plan-replace-acting-ag-false-election-claims/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121092209-01-trump-departure-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "6FHFTKHc4IuvPiGhCgtzpG2hqYO9B03y6EQRGfRjKESTv04vdPi+0JPok+/goITSii04D/b6U+i7L5KeptOJUn9w88bZWcE1whuuMnfQ0BIyQWJHhqUHQAF67Nliin4VdBUpeYS3arzNr7yISvcj1ZqNcJgTfSb20LIBdU4t1c8vCjFHCXrKbgvzMDAWavKbtUwvXCy55GDQu2evAnRbkQn8Hf7c9j+VYqEvLhFZkna9+FN1YsYcdIBGDEojB9WWm998H3FpRGXDZM43rXpzgMQ3+UMVFevkDqUrRAZh0iUwOD4pjqSgN3amy7ZkutTqgZwF2ui9eB+5AhUBZXdqSDiIx6rxovoF7sCQ/FhqAAw=;VyCyqvujdQsfv1IJO6GkyQ=="
 ---

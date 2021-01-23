@@ -92,6 +92,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden reverses Trump orders seen as hostile to federal workers"
+    excerpt: "President Biden on Friday knocked out the main pillars of his predecessor’s policies toward the federal workforce by repealing Trump administration orders that restricted bargaining and appeal rights and another that sought to remove civil service protections from a large class of employees."
+    publishedDateTime: 2021-01-23T04:35:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-trump-federal-employees/2021/01/22/41078848-5cca-11eb-8bcf-3877871c819d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-federal-employees/2021/01/22/41078848-5cca-11eb-8bcf-3877871c819d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-federal-employees/2021/01/22/41078848-5cca-11eb-8bcf-3877871c819d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4GCCXVC4ZUI6XC6PHB3YOHEBTU.jpg&w=1440"
+        width: 1440
+        height: 1008
+        isCached: true
   - title: "Biden unveils $1.9 trillion economic relief as Trump's Senate trial looms"
     excerpt: "Majority Leader Mitch McConnell said the Senate would not reconvene before January 19, the day before Mr. Trump leaves office."
     publishedDateTime: 2021-01-15T14:26:00Z
@@ -107,6 +123,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/15/271825a6-0f84-4789-b1b5-26e6a1f513f0/thumbnail/1200x630/e2df6a2401b1edfdd1bf44bba92ff8c9/gettyimages-1296409766.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden administration weighs turning over Trump tax returns to House Democrats"
+    excerpt: "A House lawsuit to enforce a subpoena, stalled since March, awaits a decision by new Treasury officials on whether to drop objections to a release."
+    publishedDateTime: 2021-01-23T04:09:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/trump-taxes-house-lawsuit/2021/01/22/4f4df442-5cf1-11eb-8bcf-3877871c819d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/trump-taxes-house-lawsuit/2021/01/22/4f4df442-5cf1-11eb-8bcf-3877871c819d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/trump-taxes-house-lawsuit/2021/01/22/4f4df442-5cf1-11eb-8bcf-3877871c819d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 137
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K3YOU6C3EYI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 1059
         isCached: true
   - title: "McConnell proposes delaying Trump's trial as Biden details Covid strategy – live"
     excerpt: "Fauci says it is ‘liberating’ to work under new administration – follow live"
