@@ -93,6 +93,22 @@ related:
         width: 843
         height: 545
         isCached: true
+  - title: "After failed Trump romance, France seeks reset under Biden"
+    excerpt: "U.S. President Joe Biden and French President Emmanuel Macron agreed Sunday to work closely together to fight the coronavirus pandemic and climate change"
+    publishedDateTime: 2021-01-24T21:53:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/failed-trump-romance-france-seeks-reset-biden-75459809"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/failed-trump-romance-france-seeks-reset-biden-75459809"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/failed-trump-romance-france-seeks-reset-biden-75459809"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_e8933dca936f432c89ed21113779c1b0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Pence is helping Biden make the transition more normal. But their cooperation has risks for each."
     excerpt: "Pence is accepting Biden’s win in a way Trump has not, helping Biden solidify his transition to power. That benefits Biden and Pence for now, but a volatile political landscape lies ahead for both."
     publishedDateTime: 2021-01-17T15:08:00Z
@@ -1276,6 +1292,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OPCOO4S2QUI6XKCJN6KCHJ277U.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Joe Biden urged to commute sentences of all 49 federal death row prisoners"
+    excerpt: "Ayanna Pressley and Cori Bush lead calls for commutations days after Trump administration finished rush to execute 13 people"
+    publishedDateTime: 2021-01-24T19:14:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/23/biden-democrats-death-row-sentences-prisoner"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/23/biden-democrats-death-row-sentences-prisoner"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/23/biden-democrats-death-row-sentences-prisoner"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/dcfb485c978d17cdd965f3beb3d74122d4b1fb25/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b5d909cb725ce2affd9fcada7d79cacf"
+        width: 600
+        height: 360
         isCached: true
   - title: "The Health 202: It's still unclear who will lead HHS after Biden is sworn in"
     excerpt: "The president-elect will need to designate many temporary agency heads before the Senate confirms his nominees."

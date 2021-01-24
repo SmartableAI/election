@@ -1279,6 +1279,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden and son Hunter attend first mass as president in DC"
+    excerpt: "Holy Trinity, located just a few miles from the White House, is where the nation's first Catholic president, John F. Kennedy, often went to Mass and where Biden, the nation's second Catholic president, frequently worshipped when he was vice president."
+    publishedDateTime: 2021-01-24T22:30:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wkbfp02mZ94/president-joe-biden-hunter-spotted-church"
+    ampWebUrl: "https://www.foxnews.com/politics/president-joe-biden-hunter-spotted-church.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-joe-biden-hunter-spotted-church.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/40e1b298-418a-4e6f-a0b1-017f5161e489/f90bb9d1-8653-4351-877c-c849bcb518d1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump must be barred from post-presidency intelligence briefings: Schiff"
     excerpt: "House Intelligence Committee Chairman Rep. Adam Schiff said Sunday that President Trump should be barred from receiving intelligence briefings after he leaves office, an opportunity traditionally extended to former presidents."
     publishedDateTime: 2021-01-17T18:36:03Z
@@ -2924,6 +2940,20 @@ related:
       - url: "https://assets.realclear.com/images/53/533209.jpg"
         width: 6000
         height: 4000
+        isCached: true
+  - title: "Regardless of What Media Say, Biden Wants to End Fracking"
+    excerpt: "We know Joe Biden wants to end fracking not only because his campaign literature promised to achieve “a 100 percent clean energy economy and net-zero emissions” in a few decades but because he explicitly asserted as much on numerous occasions."
+    publishedDateTime: 2021-01-24T19:30:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/24/regardless_of_what_media_say_biden_wants_to_end_fracking_534244.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/526421_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Despite 'unity' narrative, Biden and former presidents share bleak view of the country"
     excerpt: "Beneath President Biden’s calls for unity and bipartisanship in his inaugural address lurked a bleak assessment of the country he was preparing to govern."

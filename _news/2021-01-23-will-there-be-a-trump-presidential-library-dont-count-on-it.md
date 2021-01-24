@@ -142,6 +142,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to reinstate Covid-19-related travel restrictions lifted by Trump"
+    excerpt: "President Joe Biden on Monday will reinstate the Covid-19 travel restrictions on non-US citizens who have been in Brazil, Ireland, the United Kingdom, and much of Europe, a White House official confirmed to CNN.\n    \n"
+    publishedDateTime: 2021-01-24T22:04:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pLrosj_YFAE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/politics/biden-coronavirus-travel-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/biden-coronavirus-travel-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210124130226-05-joe-biden-0121-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden puts Trump's climate and environmental rollbacks in his crosshairs"
     excerpt: "Among incoming President Joe Biden's Day One priorities: Begin rolling back climate and environmental policies of the Trump administration, many of which were rollbacks of Obama-era or earlier rules.\n    \n"
     publishedDateTime: 2021-01-20T10:07:12Z
@@ -843,6 +859,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122143235-01-biden-inauguration-speech-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Why Biden's bipartisanship hope is probably already lost"
+    excerpt: "If there was one big message from President Joe Biden's inaugural address, it was bipartisanship and unity. This theme wasn't surprising given that inaugurations are often about coming together and Biden's 2020 campaign emphasized unity over division.\n    \n"
+    publishedDateTime: 2021-01-24T19:43:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4E8Kl4Er41E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/politics/bipartisanship-biden-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/bipartisanship-biden-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122151617-03-biden-economy-0122-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

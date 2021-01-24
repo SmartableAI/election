@@ -2,6 +2,162 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-12-19-trump-signs-into-law-stopgap-funding-bill-to-avoid-government-shutdown.md",
+      "title": "Trump signs into law stopgap funding bill to avoid government shutdown",
+      "excerpt": "President Donald Trump on Friday signed into law a two-day stopgap extension of existing federal funds passed by Congress to avoid a midnight government shutdown, as lawmakers negotiate a $900 billion pandemic aid bill and as part of $1.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-health-coronavirus-usa-congress-idUKKBN28S31A",
+      "originalUrl": "https://www.reuters.com/article/uk-health-coronavirus-usa-congress-idUKKBN28S31A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 505,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545099113&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH1Q4",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN28S31A",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28S31A",
+      "publishedDateTime": "2020-12-19T00:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-19-sir-david-attenborough-on-joe-biden-christmas-wrapping-and-flamingos.md",
+      "title": "Sir David Attenborough on Joe Biden, Christmas wrapping... and flamingos",
+      "excerpt": "Like many of us, Sir David Attenborough has had to adapt to new ways of working since the coronavirus pandemic took hold this spring. For his latest series, the 93-year-old - who has been shielding - had to record some of his voiceovers from his home in south-west London.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/entertainment-arts-55042006",
+      "originalUrl": "https://www.bbc.com/news/entertainment-arts-55042006",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/D8DF/production/_116091555_attenborough_bbc.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/entertainment-arts-55042006",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/entertainment-arts-55042006",
+      "publishedDateTime": "2020-12-18T17:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-12-19-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long-running-tension-with-other-republicans.md",
+      "title": "Jeff Stein: Trump's last-minute push for larger stimulus checks example of 'long-running tension' with other Republicans",
+      "excerpt": "In an interview on Hill.TV’s “Rising,” Stein said Trump had told allies that he wanted new stimulus checks as large as $2,000 per person, even as congressional leadership is preparing a package that would provide checks of just $600 each.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long",
+      "originalUrl": "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_120720getty_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long?amp",
+      "publishedDateTime": "2020-12-18T15:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-19-mr-biden-shouldnt-be-the-only-target-for-catholics.md",
       "title": "Mr. Biden shouldn’t be the only target for Catholics",
       "excerpt": "Are the religious leaders condemning President-elect Joe Biden for his abortion stance also condemning Attorney General William P. Barr, who is also Catholic, for his rabid haste to execute federal prisoners before Jan.",
@@ -1202,174 +1358,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-accept-defeat-see-trump-allys-message-after-election-loss.md",
-      "title": "'Accept defeat': See Trump ally's message after election loss",
-      "excerpt": "Former New Jersey Governor Chris Christie talks to CNN's Chris Cuomo about the election and how President Donald Trump and some Republicans have refused to concede.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zqB1iwI-vOA/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zqB1iwI-vOA/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 570,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201217102245-chris-christie-cpt-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/12/17/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/12/17/former-gov-chris-christie-cpt-trump-election-sot-vpx.cnn",
-      "publishedDateTime": "2020-12-17T18:53:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-virginia-gubernatorial-candidate-says-trump-should-declare-martial-law.md",
-      "title": "Virginia gubernatorial candidate says ‘Trump should declare martial law’",
-      "excerpt": "Virginia Republican state Sen. Amanda Chase, an outspoken Trump supporter, former small business owner and gubernatorial hopeful, doubled down on disputed voter fraud claims and said Thursday that her state needs an election audit – through martial law, if necessary.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Wcpmpy9uPg/virginia-amanda-chase-trump-martial-law",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Wcpmpy9uPg/virginia-amanda-chase-trump-martial-law",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Amanda-Chase-GETTY.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/virginia-amanda-chase-trump-martial-law.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virginia-amanda-chase-trump-martial-law.amp",
-      "publishedDateTime": "2020-12-17T17:53:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-omar-says-her-father-died-of-coronavirus-because-of-trumps-criminal-neglect.md",
-      "title": "Omar says her father died of coronavirus because of Trump's 'criminal neglect'",
-      "excerpt": "Rep. Ilhan Omar said Friday that her father died of Covid-19 in June because of “criminal neglect” by the Trump administration. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NTWmfBTzBuI/omar-father-died-coronavirus-trumps-criminal-neglect",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NTWmfBTzBuI/omar-father-died-coronavirus-trumps-criminal-neglect",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 291,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Omar-reuters.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/omar-father-died-coronavirus-trumps-criminal-neglect.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-father-died-coronavirus-trumps-criminal-neglect.amp",
-      "publishedDateTime": "2020-12-17T17:10:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

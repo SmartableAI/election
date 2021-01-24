@@ -45,6 +45,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "'Immense sense of pride': Caribbean diaspora celebrates Kamala Harris"
+    excerpt: "Some hopeful vice-president could forward the fight for voting rights of the more than 4 million American citizens living in US territories who can’t vote"
+    publishedDateTime: 2021-01-24T19:14:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/7144aee2742df043f4993bea3400e2a699bd1264/0_0_5050_3367/master/5050.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c34e25ce6c4c479e599e24fa93360304"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Kamala Harris becomes first female, first black and first Asian-American VP"
     excerpt: "Kamala Harris has made history as the first female, first black and first Asian-American US vice-president. She was sworn i. Ms Harris, who is of Indian-Jamaican heritage, initially ran for the Democratic nomination."
     publishedDateTime: 2021-01-20T16:50:00Z

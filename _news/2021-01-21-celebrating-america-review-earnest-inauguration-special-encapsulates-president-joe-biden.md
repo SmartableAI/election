@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden to reinstate COVID travel rules, add South Africa"
+    excerpt: "Two White House officials say President Joe Biden on Monday will formally reinstate COVID-19 travel restrictions on non-U.S. travelers from Brazil, Ireland, United Kingdom and 26 other European countr"
+    publishedDateTime: 2021-01-24T22:59:00Z
+    webUrl: "https://abcnews.go.com/Travel/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75460010"
+    ampWebUrl: "https://abcnews.go.com/amp/Travel/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75460010"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Travel/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75460010"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Travel/WireAP_cf6c3c66cb5d4a55b5e80f6769b46498_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Live politics updates: 69% of Americans approve of Biden's plan to tackle pandemic, poll finds"
     excerpt: "Fifty-seven percent of Americans believe Biden can follow-through on his promise to unite a divided America, according to a recent ABC News poll."
     publishedDateTime: 2021-01-24T17:48:00Z

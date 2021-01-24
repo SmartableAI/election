@@ -2,6 +2,114 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-22-obama-praises-bidens-executive-order-blitz-this-is-a-time-for-boldness.md",
+      "title": "Obama praises Biden's executive order blitz: 'This is a time for boldness'",
+      "excerpt": "Former President Barack Obama praised President Biden on Thursday for enacting a sweeping slate of executive orders within hours of his inauguration as president.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4SO-bhHBdXk/obama-praises-biden-executive-order-blitz-this-is-a-time-for-boldness",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4SO-bhHBdXk/obama-praises-biden-executive-order-blitz-this-is-a-time-for-boldness",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/158a5324-bd78-42b4-bb85-fe4a4bbe248a/0a3fc3cf-becc-42c4-8c73-788c6711f952/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/obama-praises-biden-executive-order-blitz-this-is-a-time-for-boldness.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-praises-biden-executive-order-blitz-this-is-a-time-for-boldness.amp",
+      "publishedDateTime": "2021-01-21T18:35:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-rudy-giuliani-lawyers-call-for-trumps-personal-attorney-to-lose-law-licence.md",
+      "title": "Rudy Giuliani: lawyers call for Trump's personal attorney to lose law licence",
+      "excerpt": "Trump’s personal attorney, who led efforts to overturn election result, criticised for calling for ‘trial by combat’ before Capitol attack",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/22/rudy-giuliani-lawyers-call-for-trumps-personal-attorney-to-lose-law-license",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/22/rudy-giuliani-lawyers-call-for-trumps-personal-attorney-to-lose-law-license",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1e47e094a50e86a0e9cd2647c35c49609d7f9c63/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5eabdd19459d124ea08d8bda5c093fb3",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/22/rudy-giuliani-lawyers-call-for-trumps-personal-attorney-to-lose-law-license",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/22/rudy-giuliani-lawyers-call-for-trumps-personal-attorney-to-lose-law-license",
+      "publishedDateTime": "2021-01-21T18:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-nato-secretary-general-jens-stoltenberg-says-need-to-rebuild-trust-after-trump.md",
       "title": "NATO Secretary General Jens Stoltenberg says ‘need to rebuild trust’ after Trump",
       "excerpt": "After four long years of Donald Trump’s attacks on NATO, Secretary General Jens Stoltenberg said Thursday that the defense alliance had survived the challenge — and that he looked forward to rebuilding the transatlantic relationship with President Biden.",
@@ -1250,119 +1358,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-are-you-qanon-one-trump-officials-brush-with-an-internet-cult-gone-horribly-wrong.md",
-      "title": "‘Are you QAnon?’: One Trump official’s brush with an internet cult gone horribly wrong",
-      "excerpt": "Some believed he was “Q,” the mythical figure behind an intricate and sprawling conspiracy theory. Here Ezra Cohen-Watnick, a senior Trump intelligence official, shares the story of his ordeal for the first time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/01/19/qanon-trump-ezra-cohen-watnick-460520",
-      "originalUrl": "https://www.politico.com/news/2021/01/19/qanon-trump-ezra-cohen-watnick-460520",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/b8/1b/96060a344ea9a033e49cc31eddfa/210119-ezra-cohen-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T14:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-bidens-inaugural-address-was-heartfelt-appeal-for-unity-karl-rove.md",
-      "title": "Biden’s inaugural address was ‘heartfelt appeal for unity’: Karl Rove",
-      "excerpt": "Fox News contributor Karl Rove said Wednesday, President Joe Biden’s inaugural address was a “heartfelt appeal for unity.” Biden was sworn in as the 46th president of the United States and called for unity in his inaugural address amid a nation of political divide.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Erw-ufShQo/bidens-inaugural-address-heartfelt-unity-rove",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8Erw-ufShQo/bidens-inaugural-address-heartfelt-unity-rove",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/FOX-headshot-2-1.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-inaugural-address-heartfelt-unity-rove.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-inaugural-address-heartfelt-unity-rove.amp",
-      "publishedDateTime": "2021-01-20T13:02:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

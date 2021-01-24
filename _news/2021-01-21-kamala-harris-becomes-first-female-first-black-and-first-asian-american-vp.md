@@ -47,6 +47,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "'Immense sense of pride': Caribbean diaspora celebrates Kamala Harris"
+    excerpt: "Some hopeful vice-president could forward the fight for voting rights of the more than 4 million American citizens living in US territories who can’t vote"
+    publishedDateTime: 2021-01-24T19:14:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/7144aee2742df043f4993bea3400e2a699bd1264/0_0_5050_3367/master/5050.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c34e25ce6c4c479e599e24fa93360304"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Vice President Kamala Harris comes from a family of lawyers and Stanford graduates. Meet the family."
     excerpt: "Kamala Harris' sister Maya, her niece Meena, and husband Douglas are by her side as she enters the oval office as the first female VP."
     publishedDateTime: 2021-01-22T11:31:00Z
