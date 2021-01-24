@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/cnn-poll-biden-favorabil
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/cnn-poll-biden-favorability/index.html"
 type: article
 quality: 164
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Biden's decrees vault America back onto the global stage. A whiplashed world wonders for how long"
+    excerpt: "Within hours of taking office, US President Joe Biden set to work signing a blizzard of executive orders, memorandums and directives to agencies, ranging from steps to combat the coronavirus to beginning the process of rejoining the Paris climate accord."
+    publishedDateTime: 2021-01-24T05:12:00Z
+    webUrl: "https://www.cnn.com/2021/01/24/world/us-executive-orders-foreign-policy-intl/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/world/us-executive-orders-foreign-policy-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/world/us-executive-orders-foreign-policy-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 122
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120202424-03-biden-executive-order-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "jrBE4Rpznht87bf1SeZVZ2CO0HjwVSl5bQP6HNg1vlJPwqZnKmoNBalqNP2ENZ9akHYK0sF2lsNm9TyF8joTLhcJgepEqRO971bqdn1ClZAD9livIsdI85G3lWPONXmcNnXp8vIRWlQNd8h4kZdLWtA1H5J6M+UG2vORn3oWNzkra+NGjvXBASlR6Ud6913wFLxqmCV0PiMavR5qwzPo83beSUxyrqVMSgncXn3aq6aow9NGPjOIQcH1xV9RuDA9ptC/bqeYnMNHA33VQnE1KbT1ULVGf4AHUcEmxl/li/GIFOayg96N8FI5ERCw3CIXaHjzdMiedXQvTNeGGWHsvpdRUKEvMpUK2RdSUCzX/n8=;fPyJjg9q2zeOtMWzdF0Cvg=="
 ---

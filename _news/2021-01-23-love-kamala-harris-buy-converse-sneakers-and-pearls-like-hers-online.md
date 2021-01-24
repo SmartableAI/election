@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Vice President Kamala Harris comes from a family of lawyers and Stanford graduates. Meet the family."
-    excerpt: "Kamala Harris' sister Maya, her niece Meena, and husband Douglas are by her side as she enters the oval office as the first female VP."
-    publishedDateTime: 2021-01-22T11:31:00Z
-    webUrl: "https://www.businessinsider.com/kamala-harris-family-vp-democratic-candidate-2020-8"
-    ampWebUrl: "https://www.businessinsider.com/kamala-harris-family-vp-democratic-candidate-2020-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-family-vp-democratic-candidate-2020-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/6009986921f52a0018cb9c7f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Berkeley parents to stage 'sit-in' for reopening schools at Kamala Harris' old elementary school"
     excerpt: "The sit-in is framed by advocates for reopening schools as a call against \"discrimination in the access of education in California.\""
     publishedDateTime: 2021-01-12T14:34:00Z
@@ -102,20 +86,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "'We want to gloat': Vice President Kamala Harris' San Antonio sorority sisters celebrate"
-    excerpt: "San Antonio women are celebrating one of their own as Kamala Harris becomes the first woman of color to be inaugurated as vice president of the United States."
-    publishedDateTime: 2021-01-20T17:04:00Z
-    webUrl: "https://www.sfchronicle.com/news/local/article/Vice-President-Kamala-Harris-alpha-kappa-alpha-15884703.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 46
-    images:
-      - url: "https://s.hdnux.com/photos/01/16/20/26/20514213/3/rawImage.jpg"
-        width: 2048
-        height: 1387
-        isCached: true
   - title: "Berkeley parents to stage 'sit-in' for reopening schools at Kamala Harris' old elementary school"
     excerpt: "A group of Berkeley parents are preparing to stage a sit-in at Vice President-elect Kamala Harris' elementary school to demand that schools reopen \"as soon as public health officials deem it safe,\" according to a news release."
     publishedDateTime: 2021-01-12T18:39:00Z
@@ -130,15 +100,6 @@ related:
         width: 2048
         height: 1352
         isCached: true
-  - title: "Kamala Harris' Alpha Kappa Alpha Sorority Sisters Celebrate"
-    excerpt: "JACKSON, Miss. (AP) — As Kamala Harris took the oath of vice president on Wednesday, her Alpha Kappa Alpha Sorority Inc. sisters across Mississippi celebrated the historic moment."
-    publishedDateTime: 2021-01-23T20:46:00Z
-    webUrl: "https://www.usnews.com/news/best-states/mississippi/articles/2021-01-23/kamala-harris-alpha-kappa-alpha-sorority-sisters-celebrate"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "lHh9cS+bxbRbVCs01vtys34C89HRikG4FIx9+rnnBTevq/7lIR2t0Rnp5KbSx11XG99lpjKy+BktdOQSSeAqk+oib94VICat3vHIKMnWbpnMwuyUnVePGZCH1PML23IPTZbnYCLSjWE0A9Z//zSiw6Qga//GfRVfrfy0Rmt/ehsB/ioX0E1Bmv06h8n1JlDAS/H9DYj1AmgEhCk7kv+Zh0SOwRiIHKcWOxBmacEnyDQNwLIXLO9A8T6ZISjO9VWXh47ilrBt8GXaU3yaISukugOHREYAXJboHeFcvX5lK2TNJKhHEYVytSZkZk7LL61lFFLxvgSGJgAxKPyW4vxUtvsygar7nrZk5dMPi+Ud7uUsP2NuAXwJn7NZhkbXAX1DNnnAtkzJif3xJCtlJ6Gau2mmLIyTNNup4Xr9+3LPZMWD8lgaCCorkfhj36Oc5OK9ruravKwK+rR3RvTuFKYGDIqxciI6zVUoppkfG6zmUOaOldgY5gOI2nfH66vsRSl96EpmOzybowNoUyQXEAIWZQ==;uK90H2bf/wbDaY/vj5d6Fg=="
 ---

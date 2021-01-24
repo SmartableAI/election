@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29Q341"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29Q341"
 type: article
 quality: 125
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://thehill.com/sites/default/files/horned_man_capitol_riots011221.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Meet the impeachment managers who will argue Democrats' case against Trump"
+    excerpt: "Pelosi said the House will officially send the article of impeachment against Mr. Trump to the Senate on Monday. \"We are respectful of the Senate's constitutional power over the t"
+    publishedDateTime: 2021-01-24T12:05:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-second-impeachment-managers/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 123
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/24/57aaa662-8c1c-41a3-ad09-c83e6c55cbd8/thumbnail/1200x630/0bd961208cc571af7316daf6ffedf08b/gettyimages-1296220549.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "House Speaker Nancy Pelosi says she'll send Trump impeachment to Senate 'soon'"
     excerpt: "House Speaker Nancy Pelosi said Thursday she would \"soon\" send the Senate the impeachment of President Donald Trump, setting the stage for a trial."

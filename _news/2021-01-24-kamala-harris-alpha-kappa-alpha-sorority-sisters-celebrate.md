@@ -23,21 +23,37 @@ topics:
   - Kamala Harris
 
 related:
-  - title: "Meet Vice President-elect Kamala Harris' \"secret weapon\": Her sorority sisters from Alpha Kappa Alpha"
-    excerpt: "Members of the country's first Black sorority, which the vice president-elect joined while at Howard University, discuss what Harris' success means to them."
-    publishedDateTime: 2021-01-18T17:11:00Z
-    webUrl: "https://www.cbsnews.com/news/kamala-harris-sorority-sisters-alpha-kappa-alpha/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-sorority-sisters-alpha-kappa-alpha/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-sorority-sisters-alpha-kappa-alpha/"
+  - title: "'Immense sense of pride': Caribbean diaspora celebrates Kamala Harris"
+    excerpt: "Some hopeful vice-president could forward the fight for voting rights of the more than 4 million American citizens living in US territories who can’t vote"
+    publishedDateTime: 2021-01-24T09:30:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 110
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/18/0dcb3852-3893-4eea-aba2-b17aef12f5c2/thumbnail/1200x630/d0d2191d24775284db4e7ab5385a0414/alpha-kappa-alpha-sorority.jpg"
-        width: 1200
-        height: 630
+      - url: "https://i.guim.co.uk/img/media/7144aee2742df043f4993bea3400e2a699bd1264/0_0_5050_3367/master/5050.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c34e25ce6c4c479e599e24fa93360304"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Kamala Harris becomes first female, first black and first Asian-American VP"
+    excerpt: "Kamala Harris has made history as the first female, first black and first Asian-American US vice-president. She was sworn i. Ms Harris, who is of Indian-Jamaican heritage, initially ran for the Democratic nomination."
+    publishedDateTime: 2021-01-20T16:50:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-55738741"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55738741"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55738741"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 123
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/F67C/production/_116600136_mediaitem116600135.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Vice President Kamala Harris comes from a family of lawyers and Stanford graduates. Meet the family."
     excerpt: "Kamala Harris' sister Maya, her niece Meena, and husband Douglas are by her side as she enters the oval office as the first female VP."
@@ -55,61 +71,36 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Love Kamala Harris? Buy Converse Sneakers And Pearls Like Hers Online"
-    excerpt: "Vice President Kamala Harris' signature #chucksandpearls look has endeared her to so many women across the nation. Here's how you can pull it off without breaking the bank"
-    publishedDateTime: 2021-01-22T22:40:00Z
-    webUrl: "https://www.newsweek.com/amplify/love-kamala-harris-buy-converse-sneakers-pearls-like-hers-online"
+  - title: "Essential Politics: Kamala Harris enters the room"
+    excerpt: "After a tumultuous transition, the Biden administration begins today, and with it a new effort from the Los Angeles Times to cover a historic administration."
+    publishedDateTime: 2021-01-20T13:00:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-01-20/covering-kamala-harris-inauguration-essential-politics"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 105
     images:
-      - url: "https://d.newsweek.com/en/full/1686820/kamala-harris-queen-theater-12-11-2020.jpg"
-        width: 2500
-        height: 1712
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7d4e478/2147483647/strip/true/crop/3600x1890+0+255/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F07%2F66%2Ffa3e45684358a73da70e94c53114%2Fkamalaharris-horizontal.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Berkeley parents to stage 'sit-in' for reopening schools at Kamala Harris' old elementary school"
-    excerpt: "The sit-in is framed by advocates for reopening schools as a call against \"discrimination in the access of education in California.\""
-    publishedDateTime: 2021-01-12T14:34:00Z
-    webUrl: "https://www.houstonchronicle.com/bayarea/article/Berkeley-parents-sit-in-Kamala-Harris-elementary-15864609.php"
+  - title: "Kamala Harris’ historic rise as U.S.’s first Black, Caribbean-American VP celebrated"
+    excerpt: "Vice President-elect Kamala Harris, left, and Felicia Persaud, a long-time Caribbean activist during a virtual celebration of Harris’ historic rise ahead of Jan. 20, 2021 inauguration of U.S. President-elect Joe Biden. Courtesy of Invest Caribbean ..."
+    publishedDateTime: 2021-01-18T00:27:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/world/americas/article248570295.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/world/americas/article248570295.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/world/americas/article248570295.html"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 92
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 68
     images:
-      - url: "https://s.hdnux.com/photos/01/16/05/13/20468433/3/rawImage.jpg"
-        width: 2048
-        height: 1352
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5618154292001/b8753f86-34a9-4c52-89ea-a78119ef3e12/main/1280x720/24s960ms/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Kamala Harris' inauguration dress made by Louisiana designer"
-    excerpt: "BATON ROUGE, La. (AP) — The father of the Baton Rouge native who designed Kamala Harris’ dress for Wednesday’s inauguration said watching the vice president take the oath of office in a purple dress his son designed is one of the proudest moments of his life."
-    publishedDateTime: 2021-01-23T14:42:00Z
-    webUrl: "https://www.chron.com/news/article/Kamala-Harris-inauguration-dress-made-by-15892985.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Kamala-Harris-inauguration-dress-made-by-15892985.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Kamala-Harris-inauguration-dress-made-by-15892985.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Kamala Harris' Inauguration Dress Made by Louisiana Designer"
-    excerpt: "BATON ROUGE, La. (AP) — The father of the Baton Rouge native who designed Kamala Harris’ dress for Wednesday’s inauguration said watching the vice president take the oath of office in a purple dress his son designed is one of the proudest moments of his life."
-    publishedDateTime: 2021-01-23T20:49:00Z
-    webUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2021-01-23/kamala-harris-inauguration-dress-made-by-louisiana-designer"
-    ampWebUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2021-01-23/kamala-harris-inauguration-dress-made-by-louisiana-designer?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/louisiana/articles/2021-01-23/kamala-harris-inauguration-dress-made-by-louisiana-designer?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "'We want to gloat': Vice President Kamala Harris' San Antonio sorority sisters celebrate"
     excerpt: "San Antonio women are celebrating one of their own as Kamala Harris becomes the first woman of color to be inaugurated as vice president of the United States."
     publishedDateTime: 2021-01-20T17:04:00Z
@@ -123,20 +114,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/16/20/26/20514213/3/rawImage.jpg"
         width: 2048
         height: 1387
-        isCached: true
-  - title: "Berkeley parents to stage 'sit-in' for reopening schools at Kamala Harris' old elementary school"
-    excerpt: "A group of Berkeley parents are preparing to stage a sit-in at Vice President-elect Kamala Harris' elementary school to demand that schools reopen \"as soon as public health officials deem it safe,\" according to a news release."
-    publishedDateTime: 2021-01-12T18:39:00Z
-    webUrl: "https://www.chron.com/bayarea/article/Berkeley-parents-sit-in-Kamala-Harris-elementary-15864609.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 42
-    images:
-      - url: "https://s.hdnux.com/photos/01/16/05/13/20468433/3/rawImage.jpg"
-        width: 2048
-        height: 1352
         isCached: true
 
 secured: "EkHmhwF74zyh/vo07ZnaljlEQ1sZjtswOwbZs44BZKnywY8ai6mjoqrrW44mv07YhyyGG+fk5qBs8nvHKqvh7F5QWIT1F0Ocd7oAVE74baqcxAPBuqAmsq7oIGuimSssPRpfmCsABPtVGeL53A+Dda2mrqOFnoFlp0Os3z1TA+SWDx6hBSdH9YHW7ndsbbL/g12IVEjWjAthUo03hVSZKlMrHA7hD7PTnC9mNMLcx+zkVRiL25TJ9DnlzmjybbqFELV7hB6Ci0nu7uK5+qf4+UFuDkjIU9/0teZjcNKkvUFybuWqL7v72nJTsFkCwfvQGavA2niDvRr8UcrIz0qqUvjcbkx2Z1TV/CFEXTqEEkA=;ae3RPRQqP+8FLZ0V0cvWPQ=="

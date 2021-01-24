@@ -463,6 +463,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden quickly purges Trump allies from Voice of America, parent agency: reports"
+    excerpt: "Along with other sweeping changes on his first full day in office, President Biden moved quickly Thursday to remove officials considered allies of former President Donald Trump within the Voice of America (VOA) news outlet and its parent agency, the U.S. Agency for Global Media (USAGM. "
+    publishedDateTime: 2021-01-24T10:56:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EXjwV2w-axc/biden-quickly-purges-trump-allies-from-voice-of-america-parent-agency-reports"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-quickly-purges-trump-allies-from-voice-of-america-parent-agency-reports.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-quickly-purges-trump-allies-from-voice-of-america-parent-agency-reports.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020766856779.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Incoming Biden secretary of state: Trump right to take ‘tougher stance’ on China"
     excerpt: "President-elect Biden’s nominee for secretary of state, Antony Blinken, said in a confirmation hearing Tuesday there is “no doubt” China poses the greatest threat of any nation to the U.S."
     publishedDateTime: 2021-01-19T21:56:52Z
@@ -2910,6 +2926,15 @@ related:
     excerpt: "Thursday was Joe Biden's first day in office. You can tell a lot about what people are about on their first day in any job, so and crushing our country's last remaining independent economic sector."
     publishedDateTime: 2021-01-22T12:01:00Z
     webUrl: "https://www.realclearpolitics.com/2021/01/22/whats_at_top_of_bidens_to-do_list_opening_the_borders_534087.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
+  - title: "Energy Capital of U.S. May Become a Ghost Town Under Biden"
+    excerpt: "After the election, Steve Gray of Gillette, Wyoming left CNN a voicemail saying he feared his home will become a ghost town under President Joe Biden. John Sutter traveled to Gillette to meet Gray. He asks: In the fight against the climate crisis,"
+    publishedDateTime: 2021-01-24T12:01:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/24/energy_capital_of_us_may_become_a_ghost_town_under_biden_534259.html#!"
     type: article
     provider:
       name: RealClearPolitics

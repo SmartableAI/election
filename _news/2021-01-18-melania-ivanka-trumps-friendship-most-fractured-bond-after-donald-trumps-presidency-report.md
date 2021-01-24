@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Twitter Reacts To Melania Trump Leaving Donald Trump Alone In Front Of Cameras"
+    excerpt: "Melania Trump left her husband, Donald Trump, alone in front of the cameras after their departure from the White House Wednesday. But some Twitter users said her husband pushed her to walk ahead."
+    publishedDateTime: 2021-01-24T10:06:00Z
+    webUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165"
+    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "sJnZ5CVjvSqzFsDs85mIBApz/JmkvKzS0HVq3DxV1Q3pU0cxUEE9O4dOHeeGIlqJKdug0l4Pb3K1CUxsQNAb369bcigFL/RiEl02zkisLOMITAegJz50MHdbam8xlVRU06xE7NjAsN9jzo2/P8GkuL7tLUN2GiRv6A/WBklRMiRr2dQsxCtzESoniSB823FziYKris1D2pdj6OsFgYbor1qO2N21Bkg7f0XqfPWHdmKupPdRYq4ERAnP/hu1euyUCXxuAa0uIWXuw4b1d9bpQ/W36ovtBzymEgtqUa7jMngpjldr82ti6meOpHsu0uTOqD1ux+9J05l6oFy0wqTJ5XOLytlBXWuHHvaHGWOUHRJw1F5BYOOdn2PtlPaowo6K7Njm0M4Awi6P11JeUJRGVISZRLk3iQA/BycuyAxWQ3vSH1YpUj9tZQ+/kyCHuQ/fHzMmxCY6w4X3VgBzx0AjLFdjpvDC9ZmOazkbDMk3ffWAavuY2uzSUhoDYT1cMQqe/IoZ9CRS+U6BY4BiJAYHXg==;AIyy5mTVPB1gTERD/sYDng=="
 ---

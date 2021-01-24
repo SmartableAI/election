@@ -111,6 +111,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Meet the impeachment managers who will argue Democrats' case against Trump"
+    excerpt: "Pelosi said the House will officially send the article of impeachment against Mr. Trump to the Senate on Monday. \"We are respectful of the Senate's constitutional power over the t"
+    publishedDateTime: 2021-01-24T12:05:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-second-impeachment-managers/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 123
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/24/57aaa662-8c1c-41a3-ad09-c83e6c55cbd8/thumbnail/1200x630/0bd961208cc571af7316daf6ffedf08b/gettyimages-1296220549.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Impeachment needed to bar Trump from running for federal office: Rep. Joaquin Castro"
     excerpt: "House impeachment managers are prepared to chase every single Senate vote in an attempt to convict President Donald Trump for inciting insurrection, Rep. Joaquin Castro, D-Texas, said on ABC's \"This Week\" Sunday."
     publishedDateTime: 2021-01-17T16:03:00Z

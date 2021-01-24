@@ -43,22 +43,6 @@ related:
         width: 2500
         height: 1787
         isCached: true
-  - title: "Kamala Harris becomes first female, first black and first Asian-American VP"
-    excerpt: "Kamala Harris has made history as the first female, first black and first Asian-American US vice-president. She was sworn i. Ms Harris, who is of Indian-Jamaican heritage, initially ran for the Democratic nomination."
-    publishedDateTime: 2021-01-20T16:50:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55738741"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55738741"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55738741"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 123
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/F67C/production/_116600136_mediaitem116600135.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "For friends and allies of Kamala D. Harris, deadly Capitol attacks prompt fresh fears"
     excerpt: "Pride in the achievement of Harris, soon to be the first Black woman sworn in as vice president, is now mixed with concern for her safety"
     publishedDateTime: 2021-01-14T16:04:00Z
@@ -120,20 +104,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ARXQTHBYCEI6PKYDVIU7MVXRHY.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Essential Politics: Kamala Harris enters the room"
-    excerpt: "After a tumultuous transition, the Biden administration begins today, and with it a new effort from the Los Angeles Times to cover a historic administration."
-    publishedDateTime: 2021-01-20T13:00:00Z
-    webUrl: "https://www.latimes.com/politics/newsletter/2021-01-20/covering-kamala-harris-inauguration-essential-politics"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 105
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/7d4e478/2147483647/strip/true/crop/3600x1890+0+255/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F07%2F66%2Ffa3e45684358a73da70e94c53114%2Fkamalaharris-horizontal.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Kamala Harris' Alpha Kappa Alpha line sisters talk about early years of the future vice president"
     excerpt: "Vice President-elect Kamala Harris has never been shy about sharing her love for her sorority, Alpha Kappa Alpha Sorority, Inc. Three of her line sisters joined \"CBS The Morning: Saturday\" co-host Michelle Miller at Howard University to talk about the early days of the future vice president of the United States."
@@ -212,22 +182,6 @@ related:
       - url: "https://cdn.christianpost.com/files/cache/image/13/97/139770_w_450_301.jpg"
         width: 450
         height: 301
-        isCached: true
-  - title: "Kamala Harris’ historic rise as U.S.’s first Black, Caribbean-American VP celebrated"
-    excerpt: "Vice President-elect Kamala Harris, left, and Felicia Persaud, a long-time Caribbean activist during a virtual celebration of Harris’ historic rise ahead of Jan. 20, 2021 inauguration of U.S. President-elect Joe Biden. Courtesy of Invest Caribbean ..."
-    publishedDateTime: 2021-01-18T00:27:00Z
-    webUrl: "https://www.miamiherald.com/news/nation-world/world/americas/article248570295.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/world/americas/article248570295.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/world/americas/article248570295.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 68
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5618154292001/b8753f86-34a9-4c52-89ea-a78119ef3e12/main/1280x720/24s960ms/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Pokin Around: Galena city Facebook page posts, then removes hateful meme of Kamala Harris"
     excerpt: "Galena's FB page boasts, \"Galena is the definition of Small Town America.\" After seeing a screenshot of the meme, I pray that's not true."

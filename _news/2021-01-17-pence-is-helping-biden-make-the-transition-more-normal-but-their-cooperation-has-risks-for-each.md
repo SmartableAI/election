@@ -2087,6 +2087,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "China-Taiwan tensions rise days into Biden presidency"
+    excerpt: "Chinese air force planes including 12 fighter jets entered Taiwan's air defence identification zone for a second day on Sunday, Taiwan said, as tensions rise near the island just days into U.S. President Joe Biden's new administration."
+    publishedDateTime: 2021-01-24T11:46:00Z
+    webUrl: "https://www.reuters.com/article/us-taiwan-china-security-idUSKBN29T08S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T08S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T08S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Biden's inauguration is unlike any before. Photos show how his ceremony compares to those of previous presidents."
     excerpt: "Due to COVID-19 and the threat of violence from far-right groups, the inauguration of President-elect Biden is unlike past ceremonies."
     publishedDateTime: 2021-01-20T16:59:00Z
