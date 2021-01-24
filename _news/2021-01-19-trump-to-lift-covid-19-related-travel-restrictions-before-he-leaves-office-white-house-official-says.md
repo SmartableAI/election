@@ -47,6 +47,36 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fauci on What Working for Trump Was Really Like"
+    excerpt: "From denialism to death threats, Dr. Anthony S. Fauci describes a fraught year as an adviser to President Donald J. Trump on the Covid-19 pandemic."
+    publishedDateTime: 2021-01-24T19:18:00Z
+    webUrl: "https://www.nytimes.com/2021/01/24/health/fauci-trump-covid.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/24/health/fauci-trump-covid.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/24/health/fauci-trump-covid.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/24/us/24VIRUS-FAUCIQA2/24VIRUS-FAUCIQA2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Deborah Birx: ‘Parallel set of data’ on Covid-19 was delivered to Trump"
+    excerpt: "I saw the president presenting graphs that I never made,” the former White House coronavirus response coordinator told CBS."
+    publishedDateTime: 2021-01-24T19:17:00Z
+    webUrl: "https://www.politico.com/news/2021/01/24/birx-trump-parallel-covid-data-461928"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/92/d3/8d87f9234321969aed4ab15a9ec4/210124-birx-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "w1UEWeeUnStnpt45pnedKFofPvloNLEz2htuXd3Jod582HMNBLbanoSlIZsMHbxBzqd896zLdOsprTt8IXS8DNGiQ5yOuzlrEormhJ5WYhSlwN+FKfd+W0uG1d5qHblszTgvOgwL9Tm8kSkMWTMduc0dThGbOsoGjIeZh+5hgwT/L2HZoKbAvt24HnGQb+9ksxarH1CszL4A/4XSXVpE0/nd2NheXV7lKwVR1o2Jh6j2rSqV9zlXBfnjR2xDoxVAzC66w7U26nzRjIqYUu9KMHvlmgjrc4TeX/ln+UWe2cODESS8SkkExy19E/hdq6niHQX4ZzQmnrmKZrkNHTn9cNL2FlrZwtR56T65XruBuaA=;twHimLMWnjrFRgkCR7uPFQ=="
 ---

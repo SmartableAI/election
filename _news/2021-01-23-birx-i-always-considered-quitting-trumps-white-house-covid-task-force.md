@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-hous
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-house-covid-task-force/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 235
 published: true
 
 provider:
@@ -46,6 +46,36 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118002735-05-donald-trump-0112-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Fauci on What Working for Trump Was Really Like"
+    excerpt: "From denialism to death threats, Dr. Anthony S. Fauci describes a fraught year as an adviser to President Donald J. Trump on the Covid-19 pandemic."
+    publishedDateTime: 2021-01-24T19:18:00Z
+    webUrl: "https://www.nytimes.com/2021/01/24/health/fauci-trump-covid.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/24/health/fauci-trump-covid.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/24/health/fauci-trump-covid.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/24/us/24VIRUS-FAUCIQA2/24VIRUS-FAUCIQA2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Deborah Birx: ‘Parallel set of data’ on Covid-19 was delivered to Trump"
+    excerpt: "I saw the president presenting graphs that I never made,” the former White House coronavirus response coordinator told CBS."
+    publishedDateTime: 2021-01-24T19:17:00Z
+    webUrl: "https://www.politico.com/news/2021/01/24/birx-trump-parallel-covid-data-461928"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/92/d3/8d87f9234321969aed4ab15a9ec4/210124-birx-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "pw7W40N/1jpto+tUKwECgEbBw19ABp+IhGQsXNqblDTWD9MPq0o9uUh6DHIr6pqVrqS/4Sll44T/D9N0UmjUxmrsZGYrXcrIHI4HPgxkjOMyz6qMu2+V0k2qVCumBlexT6lzSHjtZw2Lpe4s9jofm22CM1GxPFWjy5E+98oU4mn5lMeeMiZiTWHt/BmI3FyNEgntifP/3IIWJBEfc+E+wcRTXPnNoW0psIDyofgn+5N54YCC8R4Ghy/IcojXI3MJ1rBBvYcXf3CQFJgy5gC7ENp2R1eV11IVIdU6AlfW3nqIpcP83jC0ht91Wd502QRpUvWFhpMLQfk5wGCk42BH8pxtcUcDakOBw42dNgCYMdI=;BrYE0IPJWxigberC8xlnLQ=="

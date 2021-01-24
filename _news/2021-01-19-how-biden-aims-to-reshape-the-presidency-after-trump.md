@@ -364,6 +364,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's chief of staff insists Trump admin had no vaccine plan"
+    excerpt: "President Biden's chief of staff insisted that the Trump administration's plan to roll out the coronavirus vaccine was nonexistent after Dr. Anthony Fauci appeared to completely debunk CNN's much-criticized report that the Biden administration was \"starting from scratch\" with its vaccine distribution"
+    publishedDateTime: 2021-01-24T19:13:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MaEBRq1uW1c/biden-ron-klain-vaccine-distribution-fauci-trump-plan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-ron-klain-vaccine-distribution-fauci-trump-plan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ron-klain-vaccine-distribution-fauci-trump-plan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/vaccine.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden fires Trump-appointed labor board attorney in break with precedent"
     excerpt: "President Biden in a break with precedent fired the general counsel of the National Labor Relations Board, a Senate-confirmed position, on his first day in the White House. "
     publishedDateTime: 2021-01-21T09:24:25Z

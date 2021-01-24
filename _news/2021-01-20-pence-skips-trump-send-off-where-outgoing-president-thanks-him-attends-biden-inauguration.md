@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-trump-sendoff-biden-inaugurat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp"
 type: article
 quality: 205
-heat: 3925
+heat: 3945
 published: true
 
 provider:
@@ -351,6 +351,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f5aed56-cad9-4a62-84d3-3102f22d5903/8b35587f-5a55-42e4-a203-9f80182c6a04/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden's chief of staff insists Trump admin had no vaccine plan"
+    excerpt: "President Biden's chief of staff insisted that the Trump administration's plan to roll out the coronavirus vaccine was nonexistent after Dr. Anthony Fauci appeared to completely debunk CNN's much-criticized report that the Biden administration was \"starting from scratch\" with its vaccine distribution"
+    publishedDateTime: 2021-01-24T19:13:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MaEBRq1uW1c/biden-ron-klain-vaccine-distribution-fauci-trump-plan"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-ron-klain-vaccine-distribution-fauci-trump-plan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ron-klain-vaccine-distribution-fauci-trump-plan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/vaccine.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden fires Trump-appointed labor board attorney in break with precedent"
     excerpt: "President Biden in a break with precedent fired the general counsel of the National Labor Relations Board, a Senate-confirmed position, on his first day in the White House. "

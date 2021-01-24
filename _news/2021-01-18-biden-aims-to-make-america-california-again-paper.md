@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-aims-to-make-america-californ
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-aims-to-make-america-california-again-paper.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Do Americans take Biden's 'unity' message seriously?"
+    excerpt: "The cost of insulin for low income Americans is about to go up because of Joe's executive orders stripping away price protections, and that's not all. The constitution frankly be damned, and Joe Biden now wants statehood for Washington,"
+    publishedDateTime: 2021-01-24T20:12:00Z
+    webUrl: "https://www.foxnews.com/transcript/do-americans-take-bidens-unity-message-seriously"
+    ampWebUrl: "https://www.foxnews.com/transcript/do-americans-take-bidens-unity-message-seriously.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/do-americans-take-bidens-unity-message-seriously.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e7f7a24-5ec0-41cb-9718-48860b9b992f/fdcf6df9-4bcc-411e-af2d-178ffab561cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "IZFQ+OF1tYpPODk/07LDfYjWM8QHWBdtlLZhXOS3mES8lqlt2okliLYMSGs0XhV/B4xouevZPqUfyTaxAt9yoJK+oFwQzmARPAS7qllFyZOMGWACdn7r40Wn7r3GYabcDJsL1eZSFCAgiNOz+e9MiA1tb5Db7ubf+VIJt7D8QcL5ZrgoLLKHjjcORMpl7aYKYozhahMLG4CMRE1903FNcCbzaplr5z8V3x8o8t9TSW+x13ZU7/CA2BxCHvla9ZIbUenCphDYSiGqDc1EiZ4Pd1jO5nVHFuRp1fmMOPJLMb+BbNnsAH1u/gB+SQJ09PzczWMo43s8nOkCbw1YZUTlJld2v/coKhnSxlYUguTiUss=;F+oeLQKlHL3EMHgSYIPUJw=="

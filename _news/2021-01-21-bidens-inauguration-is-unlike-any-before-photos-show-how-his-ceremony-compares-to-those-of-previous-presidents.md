@@ -2113,6 +2113,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "James Fallows on the message from Biden's inauguration"
+    excerpt: "The Atlantic writer says the new president's inaugural address speaks to an ever-growing nation's resolve and will to succeed in the face of cruel obstacles and divisiveness."
+    publishedDateTime: 2021-01-24T20:14:00Z
+    webUrl: "https://www.cbsnews.com/video/james-fallows-on-the-message-from-bidens-inauguration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/24/05651335-d981-41f3-89e0-eab9ed645f41/thumbnail/1200x630/4dc10564a1dd198a96d0f091e5f11adb/joebideninauguraladdress1920-632361-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Portland police arrest 8 after rioters damage Democratic Party office, ICE facility following Biden's inauguration"
     excerpt: "At least eight people were arrested in Portland on Wednesday night after rioters damaged both federal and private property, police said."
     publishedDateTime: 2021-01-21T16:27:00Z

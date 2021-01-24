@@ -846,6 +846,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden attends first Sunday Mass as President"
+    excerpt: "President Joe Biden attended Holy Trinity Catholic Church in Washington, DC's Georgetown neighborhood, his first time attending Sunday Mass since taking his oath of office.\n    \n"
+    publishedDateTime: 2021-01-24T19:56:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a1C7SVABbTE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/politics/joe-biden-sunday-church/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/joe-biden-sunday-church/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210124142545-02-joe-biden-mass-210124-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden urges patience as frustration grows over vaccine supply"
     excerpt: "While outlining his plan to halt the spread of the coronavirus last week, President Joe Biden tempered his ever-present optimism with a dose of realism about the potent staying power of this deadly pandemic and the fact that the nation's vaccine distribution system is a long way from becoming an efficient"
     publishedDateTime: 2021-01-24T05:29:35Z

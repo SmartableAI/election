@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3110
+heat: 3130
 published: true
 
 provider:
@@ -828,6 +828,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122143235-01-biden-inauguration-speech-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden attends first Sunday Mass as President"
+    excerpt: "President Joe Biden attended Holy Trinity Catholic Church in Washington, DC's Georgetown neighborhood, his first time attending Sunday Mass since taking his oath of office.\n    \n"
+    publishedDateTime: 2021-01-24T19:56:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a1C7SVABbTE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/politics/joe-biden-sunday-church/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/joe-biden-sunday-church/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210124142545-02-joe-biden-mass-210124-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

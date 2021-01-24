@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Do Americans take Biden's 'unity' message seriously?"
+    excerpt: "The cost of insulin for low income Americans is about to go up because of Joe's executive orders stripping away price protections, and that's not all. The constitution frankly be damned, and Joe Biden now wants statehood for Washington,"
+    publishedDateTime: 2021-01-24T20:12:00Z
+    webUrl: "https://www.foxnews.com/transcript/do-americans-take-bidens-unity-message-seriously"
+    ampWebUrl: "https://www.foxnews.com/transcript/do-americans-take-bidens-unity-message-seriously.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/do-americans-take-bidens-unity-message-seriously.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e7f7a24-5ec0-41cb-9718-48860b9b992f/fdcf6df9-4bcc-411e-af2d-178ffab561cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "iFNw5BpIZybUGYc6efe+u1lc/ou81njncRKdFhvoFY+TAzyIGOPdXBZnoogUTg4/XQ14AnmFqou2YcO5vSyqQVwuNhhcrbO51iEZhgKRebe1p90br1P95Q73Vnxtkv1Dy3GZ/0bX0IFazWlQ+2ZPxN9/dSVpIzyzyaNmxu3tyBQCbdMO6LMPwm1qLyV1LjgL8sr6mLLzOiFpG1f1TdatNyV9QpQLp3TaXdiIjuPMtQgulcB29ILB7yUbwQCl9DYxsg6AUfCln5hDjVwjcCjN3q0VySk6vJOFFT1DGQycwe11y4MGV/2ZKh7Me94ENW0PmUsikFRBTqtOOrEc72rORznKG9cPjuyfgEgU6hqJp4Q=;O2+rpSjp4Vt8T3RBNz95pQ=="
 ---

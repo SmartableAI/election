@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T01R"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T01R"
 type: article
 quality: 134
-heat: 434
+heat: 454
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Republican congressman played a role in Trump's campaign to fight election loss: NYT"
+    excerpt: "A Republican U.S. congressman played a role in ex-President Donald Trump's efforts to oust the top Justice Department official and replace him with a loyalist willing to support efforts to overturn his election defeat,"
+    publishedDateTime: 2021-01-24T19:46:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-justice-idUSKBN29T0FS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T0FS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T0FS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 133
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548877639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N093"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump returns to a business empire ravaged by pandemic"
     excerpt: "Donald Trump is returning to a family business ravaged by pandemic shutdowns, with revenue plunging more than 40 percent at his Doral golf property, his Washington hotel and both his Scottish resorts"
     publishedDateTime: 2021-01-22T03:21:00Z
