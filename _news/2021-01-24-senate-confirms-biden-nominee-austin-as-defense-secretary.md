@@ -3,8 +3,8 @@ category: news
 title: "Senate Confirms Biden Nominee Austin as Defense Secretary"
 excerpt: "Lloyd J. Austin, a West Point graduate who rose to the Armys elite ranks and marched through racial barriers in a 41-year career,"
 publishedDateTime: 2021-01-23T16:04:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/01/23/senate_confirms_biden_nominee_austin_as_defense_secretary_145110.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/01/23/senate_confirms_biden_nominee_austin_as_defense_secretary_145110.html"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/01/23/senate_confirms_biden_nominee_austin_as_defense_secretary_145110.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/01/23/senate_confirms_biden_nominee_austin_as_defense_secretary_145110.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/23/senate_confirms_biden_nominee_austin_as_defense_secretary_145110.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/23/senate_confirms_biden_nominee_austin_as_defense_secretary_145110.amp.html"
 type: article
@@ -331,6 +331,6 @@ related:
         height: 500
         isCached: true
 
-secured: "k8YH60b9+ytC9ffdAYebfI3ErBlPnHZ6ML8Qi1xz+vgLMFpJE9D7ZTHCyngEix6XCWqtvuITgxvdVhqSi2WcBXAgsSFYQJh7pGM/dW2s97BrHnziBDgDi8RDHqymr0juJ31dKGQXkBOjl6PmLEHAXTn1pp0SkYLs6TKQGkVKNrUeZVOkCdKjZMv2iq0Xc4ArgQNDT4pIWmV9TEjxW74mw63htitKwPXPHQ0eiRqqtiTVoMUqZPJeM+IwCeLjyup63+p7gBLoV90lBcnvjPamy3ouQxRfUkhm9Dm4RY77LdVpjsHR3rpwv+LJWrfUIiV7xKz5LFlcGpncmmtuxWG7ATJdTFZs+r5nGSBZ64jGW38=;8y0C/6R2ViZKGKGHolL0zw=="
+secured: "KVPTwnVg98V6GCElyk1NcXVcxW2p9QxB835oOTY8THm6mA0PfBPGaB3+bpdGbEgbXnqpjDQPQUKVeP3DsPex8G1byX3F62klswDLh1FG0Sk0KuLzj+bnEZImafjF6/dY1tN+6SqKvwCLxDxja34GeiaEUPxs8N5cfTLJxNaB5WS6wxZO46BQxh50b5hXjwyMMnOaZVM3R0CjowpykOiNQuYhHUlmUpJRHZnM31G+kgMoRa7+o+HB4ukTubt/eZtA4z9p9tLOkBthv/Xk57s2c1mJ7TpyzJIug4CLdySbU0X+xmjcm8gOMnCfbh93t3tlD4u44T7YjAaEDvjCX+I5dMdnqfMEUK9KaD/t7OS7uik=;aX75P3BpvRAIM6RE12EFng=="
 ---
 

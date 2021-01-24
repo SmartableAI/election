@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-trump-sendoff-biden-inaugurat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp"
 type: article
 quality: 205
-heat: 3845
+heat: 3865
 published: true
 
 provider:
@@ -2863,6 +2863,20 @@ related:
       - url: "https://assets.realclear.com/images/53/533115_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Joe Biden to the Rescue (Plan)"
+    excerpt: "Biden economic adviser Jared Bernstein joins the Ross Douthat and Michelle Goldberg on The Argument to allay their doubts and volley questions about the new president’s “Rescue Plan” to resuscitate America’s work force and even out an inequitable economy."
+    publishedDateTime: 2021-01-24T06:57:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/24/joe_biden_to_the_rescue_plan.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/533209.jpg"
+        width: 6000
+        height: 4000
         isCached: true
   - title: "Despite 'unity' narrative, Biden and former presidents share bleak view of the country"
     excerpt: "Beneath President Biden’s calls for unity and bipartisanship in his inaugural address lurked a bleak assessment of the country he was preparing to govern."

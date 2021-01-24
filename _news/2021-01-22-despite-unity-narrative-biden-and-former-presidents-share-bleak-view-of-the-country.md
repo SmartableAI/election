@@ -2874,6 +2874,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Joe Biden to the Rescue (Plan)"
+    excerpt: "Biden economic adviser Jared Bernstein joins the Ross Douthat and Michelle Goldberg on The Argument to allay their doubts and volley questions about the new president’s “Rescue Plan” to resuscitate America’s work force and even out an inequitable economy."
+    publishedDateTime: 2021-01-24T06:57:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/24/joe_biden_to_the_rescue_plan.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/533209.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "Biden Must Find Words for a Wounded Nation in Inauguration"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2021-01-17T20:55:00Z

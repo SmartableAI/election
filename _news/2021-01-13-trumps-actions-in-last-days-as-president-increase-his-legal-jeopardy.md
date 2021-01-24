@@ -815,6 +815,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden urges patience as frustration grows over vaccine supply"
+    excerpt: "While outlining his plan to halt the spread of the coronavirus last week, President Joe Biden tempered his ever-present optimism with a dose of realism about the potent staying power of this deadly pandemic and the fact that the nation's vaccine distribution system is a long way from becoming an efficient"
+    publishedDateTime: 2021-01-24T05:29:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yskuXm_UgJs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/politics/biden-coronavirus-vaccine-supply/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/biden-coronavirus-vaccine-supply/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122152703-04-biden-economy-0122-executive-order-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "As Trump leaves the stage, Republicans grapple with new conspiracy caucus"
     excerpt: "Donald Trump may be leaving the White House in a few days, but the umbrella of conspiracy theories he inspired are only just arriving in Washington.\n    \n"
     publishedDateTime: 2021-01-16T20:34:42Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-tria
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-trial-1-23-21.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 174
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31a1fe1e-5515-468e-9607-4738d2533c9f/c9629705-1284-496f-9cfa-44d30c4119aa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Trump impeachment manager Eric Swalwell says Democrats will 'be ready' with witnesses if allowed"
+    excerpt: "Follow for the latest updates on Trump's impeachment trial."
+    publishedDateTime: 2021-01-24T06:19:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q9djUbQpluo/live-updates-trump-impeachment-1-24-21"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-1-24-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-1-24-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cd48adb-674f-4d81-b34f-2a62f1752737/7b0254aa-3121-4ce2-82b2-67ef0837684f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
