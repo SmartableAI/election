@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnel
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 585
+heat: 605
 published: true
 
 provider:
@@ -363,6 +363,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2021-01-21/pelosi-vows-action-on-impeachment-trial-we-must-do-it"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-21/pelosi-vows-action-on-impeachment-trial-we-must-do-it?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-21/pelosi-vows-action-on-impeachment-trial-we-must-do-it?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Kentucky GOP Group Rejects Push to Have McConnell Back Trump"
+    excerpt: "A Kentucky Republican Party committee has rejected a resolution urging Senate GOP leader Mitch McConnell to fully support Donald Trump in the ex-president’s upcoming impeachment trial."
+    publishedDateTime: 2021-01-23T23:46:00Z
+    webUrl: "https://www.usnews.com/news/best-states/kentucky/articles/2021-01-23/kentucky-gop-group-rejects-push-to-have-mcconnell-back-trump"
+    ampWebUrl: "https://www.usnews.com/news/best-states/kentucky/articles/2021-01-23/kentucky-gop-group-rejects-push-to-have-mcconnell-back-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/kentucky/articles/2021-01-23/kentucky-gop-group-rejects-push-to-have-mcconnell-back-trump?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

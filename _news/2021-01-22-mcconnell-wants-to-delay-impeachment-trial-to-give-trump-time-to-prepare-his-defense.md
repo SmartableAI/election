@@ -367,6 +367,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Kentucky GOP Group Rejects Push to Have McConnell Back Trump"
+    excerpt: "A Kentucky Republican Party committee has rejected a resolution urging Senate GOP leader Mitch McConnell to fully support Donald Trump in the ex-president’s upcoming impeachment trial."
+    publishedDateTime: 2021-01-23T23:46:00Z
+    webUrl: "https://www.usnews.com/news/best-states/kentucky/articles/2021-01-23/kentucky-gop-group-rejects-push-to-have-mcconnell-back-trump"
+    ampWebUrl: "https://www.usnews.com/news/best-states/kentucky/articles/2021-01-23/kentucky-gop-group-rejects-push-to-have-mcconnell-back-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/kentucky/articles/2021-01-23/kentucky-gop-group-rejects-push-to-have-mcconnell-back-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "jB0ZNw8sY4Ua89dZeJWNzvxj2eCjxZqgFkE337cEqJD8GHz9Eua5QwjXXv9nsN+i67CJXk1hN/Fcn8KviUIBkBhouJ/sKBDRiYZZIdaxPvWQrGj3QvuFpaUaJAUZ8f1XuTLR/zNq3btxwGjnZA1MTAyDnQi1ynYOdwlu5foUOaTDlPKU+Vtj2cxZvhwohSKLy2m3tjRUftzyILsEo603oxArJw2Ne+MHLMX3lVHZ3Fi/6/cEbdA/nPVCT355T1ADuFYgPHWjiv5+Og2jODQy82TRYgS5SrXJfOuMHCcQ4J2Vy0xcSWot2XZnR9B28eaeV20pHKBDvOMaT1oYYfZSCwOS+HhgDPlyi/nTOwnnxKLuOmo+XxLRKH8N9zQRufERUIQVHDDhL5kty28uQdfXeNXiJy/ZGvkPD0gwLH7UOxiytsSYZrjoPLCM9XMTBp2nMJCbCCzovmhuiDfPtq2atBYKHu1+GqJdCBUBhQqJrHP+QeyMIhw4v7MH6D3R/ng5yERZGhT555Gc86iHZYRB9A==;Bf5j+w87lx0Y0ICV4jh6zA=="
 ---

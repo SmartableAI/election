@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-20-pence-skips-trump-send-off-where-outgoing-president-thanks-him-attends-biden-inauguration.md",
+      "title": "Pence skips Trump send-off where outgoing president thanks him, attends Biden inauguration",
+      "excerpt": "Vice President Mike Pence attended President-elect Joe Biden's inaugural ceremony on Wednesday after skipping President Trump's farewell address at Joint Base Andrews.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GqnOW576rRQ/pence-trump-sendoff-biden-inauguration-farewell",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GqnOW576rRQ/pence-trump-sendoff-biden-inauguration-farewell",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 3805,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/pence.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp",
+      "publishedDateTime": "2021-01-20T08:25:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-racism-allowed-donald-trump-free-rein-to-terrorize-the-american-people-for-four-years-msnbc-analyst.md",
       "title": "Racism allowed Donald Trump 'free rein to terrorize the American people for four years:' MSNBC analyst",
       "excerpt": "New York Times editorial board member Mara Gay said Wednesday that President Trump had been allowed to \"terrorize the American people for four years\" because of racist elements in the country.",
@@ -1267,7 +1324,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 355,
+      "heat": 375,
       "tags": null,
       "images": [
         {
@@ -1308,62 +1365,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-biden-announces-rachel-levine-as-pick-for-assistant-secretary-at-hhs-would-be-first-transgender-senate-confirmed-federal-official.md",
-      "title": "Biden announces Rachel Levine as pick for assistant secretary at HHS, would be first transgender Senate-confirmed federal official",
-      "excerpt": "President-elect Joe Biden has nominated Dr. Rachel Levine to serve as assistant health secretary, and she would make history as the first out, transgender federal official to be confirmed by the United States Senate, according to a statement Tuesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u9gUqgHcIpY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u9gUqgHcIpY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210119080307-01-rachel-levine-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/19/politics/rachel-levine-health-and-human-services/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/rachel-levine-health-and-human-services/index.html",
-      "publishedDateTime": "2021-01-19T06:33:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

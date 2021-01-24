@@ -2000,6 +2000,22 @@ related:
         width: 911
         height: 477
         isCached: true
+  - title: "Send us your questions for President Biden's Covid-19 team"
+    excerpt: "What questions do you have for President Biden's Covid-19 team? Ask them here and they may be answered in a CNN Town Hall this Wednesday at 8pm ET."
+    publishedDateTime: 2021-01-23T23:09:00Z
+    webUrl: "https://www.cnn.com/2021/01/23/health/biden-covid-team-town-hall-questions/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/23/health/biden-covid-team-town-hall-questions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/23/health/biden-covid-team-town-hall-questions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120170132-elderly-vaccine-illness-concerns-khn-wellness-partner-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Whither the Republican Party After Trump?"
     excerpt: "Readers discuss the split in the party between those who continue to support Donald Trump and those who have regrets."
     publishedDateTime: 2021-01-23T17:00:00Z

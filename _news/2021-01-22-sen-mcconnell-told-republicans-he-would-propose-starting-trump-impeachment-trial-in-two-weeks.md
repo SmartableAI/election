@@ -174,6 +174,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sen. Rand Paul says Chief Justice Roberts won’t take Trump impeach trial"
+    excerpt: "As Democrats plunge ahead with a post-term impeachment trial of President Donald Trump, a key question remains: Will Chief Justice Roberts take the case? Republican Sen. Rand Paul of Kentucky says"
+    publishedDateTime: 2021-01-23T23:06:00Z
+    webUrl: "https://nypost.com/2021/01/23/sen-rand-paul-says-chief-justice-roberts-wont-take-trump-impeach-trial/"
+    ampWebUrl: "https://nypost.com/2021/01/23/sen-rand-paul-says-chief-justice-roberts-wont-take-trump-impeach-trial/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/23/sen-rand-paul-says-chief-justice-roberts-wont-take-trump-impeach-trial/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Rand-Paul-impeachment.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "dgqulavB30LDSNGiGuTXwNhj3bz9uNH2i31NXPny3x3W9zoXPhStz6Bw+AdFw2nj9l4a7BZ69g6nQy8bkMuklnPFMfdVeHh33gtHu5tGnYEGW2mK4VO7Y/Nn89CI+Di2Y8kLh1KJ692pR9csnRvPhWsxFbtKPNDr7lntCOgJc95Qcwhraj9mH/AiK1lmn+WQjnc6guSl82BoIi4Ev7DZQbHZFQAKLJ1VJUyjBduYsuBmM/DgYGy5bqQ6c3kA3MLH4qczJP9hAsgBzCCnFFcf5WTGe9UhllNmj/3WOb+iVi9oPyRcjf9K/G9FidMa9P2cCgOse47Mr/AZKZ8gyIFm+GX39xbRIh/iAK8pwWoXi0E=;lKP56SdEEjf5XbZ6yk2rfQ=="
 ---

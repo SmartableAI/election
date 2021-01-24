@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/liz-cheney-impeachment-republicans-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-impeachment-republicans-herrera-beutler-wyoming.amp"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99358d26-af6a-480e-ad64-fc605954db0c/0a1a97f5-1c2e-489a-8e0a-312e92622968/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Sen. Rand Paul says Chief Justice Roberts won’t take Trump impeach trial"
+    excerpt: "As Democrats plunge ahead with a post-term impeachment trial of President Donald Trump, a key question remains: Will Chief Justice Roberts take the case? Republican Sen. Rand Paul of Kentucky says"
+    publishedDateTime: 2021-01-23T23:06:00Z
+    webUrl: "https://nypost.com/2021/01/23/sen-rand-paul-says-chief-justice-roberts-wont-take-trump-impeach-trial/"
+    ampWebUrl: "https://nypost.com/2021/01/23/sen-rand-paul-says-chief-justice-roberts-wont-take-trump-impeach-trial/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/23/sen-rand-paul-says-chief-justice-roberts-wont-take-trump-impeach-trial/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Rand-Paul-impeachment.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Sen. McConnell Told Republicans He Would Propose Starting Trump Impeachment Trial in Two Weeks"
     excerpt: "Senate Minority Leader Mitch McConnell told Republicans he would propose starting former President Donald Trump’s impeachment trial in two weeks to give his legal team time to prepare, GOP aides said Thursday."

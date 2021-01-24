@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29Q341"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29Q341"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1710325/jamie-raskin-madeleine-dean-capitol.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Lawyers representing the Capitol insurrectionists are building a damning case against Trump"
+    excerpt: "Defense attorneys for some insurrections said their clients were acting on the orders of Trump in storming the Capitol."
+    publishedDateTime: 2021-01-24T00:15:00Z
+    webUrl: "https://www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5ff5f6066d61c10019ccdf62?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "U.S. House Speaker Pelosi says seeks clarity on Senate readiness for Trump impeachment trial"
     excerpt: "U.S. House of Representatives Speaker Nancy Pelosi said on Thursday she will consult with fellow Democrats in coming days about the Senate's readiness to begin an impeachment trial of former President Donald Trump for his alleged role in the Jan."

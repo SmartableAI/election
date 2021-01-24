@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/house-waiver-biden-secretary-defens
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-waiver-biden-secretary-defense-nominee-lloyd-austin.amp"
 type: article
 quality: 169
-heat: 249
+heat: 269
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 166
+    images:
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden Cabinet nominee hired convicted domestic abuser who punched woman for refusing sex"
+    excerpt: "Boston Mayor Martin Walsh, the nominee to be President Joe Biden's Labor Secretary, briefly hired former Massachusetts state representative Carlos Henriquez to be a special assistant in 2018, despite Henriquez's conviction years earlier for assaulting a woman who refused to have sex with him."
+    publishedDateTime: 2021-01-23T23:00:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-nominee-hired-convicted-domestic-abuser-who-punched-woman-for-refusing-sex.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
     images:
       - url: "https://media.foxbusiness.com/BrightCove/854081161001/202011/3605/854081161001_6210611226001_6210614738001-vs.jpg"
         width: 1280

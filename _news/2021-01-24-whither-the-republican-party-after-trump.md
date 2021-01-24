@@ -2000,6 +2000,22 @@ related:
         width: 911
         height: 477
         isCached: true
+  - title: "Send us your questions for President Biden's Covid-19 team"
+    excerpt: "What questions do you have for President Biden's Covid-19 team? Ask them here and they may be answered in a CNN Town Hall this Wednesday at 8pm ET."
+    publishedDateTime: 2021-01-23T23:09:00Z
+    webUrl: "https://www.cnn.com/2021/01/23/health/biden-covid-team-town-hall-questions/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/23/health/biden-covid-team-town-hall-questions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/23/health/biden-covid-team-town-hall-questions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120170132-elderly-vaccine-illness-concerns-khn-wellness-partner-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden will halt federal executions, other actions on first day in office"
     excerpt: "The president-elect has a long list of executive actions he plans to take as soon as he's sworn in on Jan. 20."
     publishedDateTime: 2021-01-18T13:21:00Z

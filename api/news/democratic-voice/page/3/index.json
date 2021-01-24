@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-08-nikki-haley-says-trumps-post-election-actions-will-be-judged-harshly-by-history.md",
+      "title": "Nikki Haley says Trump's post-election actions will be 'judged harshly by history'",
+      "excerpt": "Former UN ambassador Nikki Haley distanced herself from her onetime boss, President Donald Trump, in a closed-door speech on Thursday night, telling members of the Republican National Committee that the President's actions after the election \"will be judged harshly by history.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j2xNrHsRxXk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/j2xNrHsRxXk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200824224949-nikki-haley-rnc-speech-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/08/politics/nikki-haley-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/nikki-haley-trump/index.html",
+      "publishedDateTime": "2021-01-08T12:10:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-josh-hawleys-ploy-to-be-a-pro-trump-hero-results-in-withering-blowback.md",
       "title": "Josh Hawley's ploy to be a pro-Trump hero results in withering blowback",
       "excerpt": "Missouri Sen. Josh Hawley offered pro-Trump demonstrators who stood outside the Capitol a raised fist salute as he walked into the Senate early on Wednesday, buoyant about his leading role in objecting to President Donald Trump's electoral defeat.\n    \n",
@@ -1612,62 +1668,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/29/politics/donald-trump-michelle-obama-most-admired-2020-trnd/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/donald-trump-michelle-obama-most-admired-2020-trnd/index.html",
       "publishedDateTime": "2020-12-29T07:59:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-biden-eyes-cuts-to-trump-nuclear-program-as-critical-arms-control-deadline-with-russia-looms.md",
-      "title": "Biden eyes cuts to Trump nuclear program as critical arms control deadline with Russia looms",
-      "excerpt": "President-elect Joe Biden will explore making cuts to the country's nuclear modernization program, potentially reversing Trump administration efforts to enhance America's nuclear arsenal by developing new weapons. Instead, Biden intends to place greater emphasis on arms control, according to two transition",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a3hJpGsV9tA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a3hJpGsV9tA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 359,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201228141238-03-biden-nat-sec-briefing-1228-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/29/politics/biden-nuclear-cuts-arms-control-russia/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/biden-nuclear-cuts-arms-control-russia/index.html",
-      "publishedDateTime": "2020-12-29T06:41:18-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

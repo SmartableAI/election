@@ -159,6 +159,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Sen. Rand Paul says Chief Justice Roberts won’t take Trump impeach trial"
+    excerpt: "As Democrats plunge ahead with a post-term impeachment trial of President Donald Trump, a key question remains: Will Chief Justice Roberts take the case? Republican Sen. Rand Paul of Kentucky says"
+    publishedDateTime: 2021-01-23T23:06:00Z
+    webUrl: "https://nypost.com/2021/01/23/sen-rand-paul-says-chief-justice-roberts-wont-take-trump-impeach-trial/"
+    ampWebUrl: "https://nypost.com/2021/01/23/sen-rand-paul-says-chief-justice-roberts-wont-take-trump-impeach-trial/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/23/sen-rand-paul-says-chief-justice-roberts-wont-take-trump-impeach-trial/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Rand-Paul-impeachment.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Sen. McConnell Told Republicans He Would Propose Starting Trump Impeachment Trial in Two Weeks"
     excerpt: "Senate Minority Leader Mitch McConnell told Republicans he would propose starting former President Donald Trump’s impeachment trial in two weeks to give his legal team time to prepare, GOP aides said Thursday."
     publishedDateTime: 2021-01-22T15:50:00Z

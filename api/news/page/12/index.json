@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-01-10-theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow.md",
+      "title": "Theresa May too eager to pay homage to Donald Trump, says John Bercow",
+      "excerpt": "PM’s ‘almost breathless’ quest to develop ties with US president",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow",
+      "originalUrl": "https://www.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/9ae50eeed19c88f00e8cfa0570b951d2529a8729/0_0_1562_937/master/1562.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=736cf1d696beff721b60f1b1dddfd7d7",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2021/jan/09/theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow",
+      "publishedDateTime": "2021-01-09T11:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-twitter-confirms-it-halted-hang-mike-pence-as-a-trending-topic.md",
       "title": "Twitter Confirms It Halted 'Hang Mike Pence' as a Trending Topic",
       "excerpt": "The topic trended briefly, with many people quoting Trump supporters who invaded the Capitol Wednesday chanting the phrase, as a noose awaited outside.",
@@ -1275,58 +1327,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-elaine-chao-betsy-devos-step-down-from-trump-cabinet-following-capitol-storming.md",
-      "title": "Elaine Chao, Betsy DeVos step down from Trump Cabinet following Capitol storming",
-      "excerpt": "Transportation Secretary Elaine Chao became the first Trump Cabinet member to resign in the wake of Wednesday's storming of the Capitol by the president's supporters.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
-      "originalUrl": "https://abcnews.go.com/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/betsy-devos_hpMain_20210107-210515_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
-      "publishedDateTime": "2021-01-08T00:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -169,6 +169,22 @@ related:
         width: 804
         height: 545
         isCached: true
+  - title: "Donald Trump Gives First Public Remarks Since Leaving Office as Impeachment Trial Delayed"
+    excerpt: "Former President Donald Trump gave nothing away about his future plans in his first public remarks since leaving the White House on Friday, as Senate leadership delayed his impeachment trial for two weeks."
+    publishedDateTime: 2021-01-23T23:51:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-gives-first-public-remarks-since-leaving-office-impeachment-trial-delayed-1563945"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-gives-first-public-remarks-since-leaving-office-impeachment-trial-delayed-1563945?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-gives-first-public-remarks-since-leaving-office-impeachment-trial-delayed-1563945?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1714811/trump-arriving-florida-january-20.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Senate To Begin Trump's Impeachment Trial Week Of Feb. 8"
     excerpt: "The House of Representatives, which already voted to impeach Trump, plans to transmit the article on Monday evening."
     publishedDateTime: 2021-01-23T00:26:00Z
