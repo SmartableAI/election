@@ -2,6 +2,114 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-20-annika-sorenstam-defends-accepting-award-from-donald-trump.md",
+      "title": "Annika Sörenstam defends accepting award from Donald Trump",
+      "excerpt": "Annika Sörenstam, who received the presidential medal of freedom from Donald Trump the day after US Capitol riot, has defended her decision",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
+      "originalUrl": "https://www.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/4870f7e1cabf35505f3d66840e415c25b5c2c460/0_24_5058_3036/master/5058.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=725a944cd02a16e9137eca91996a64c6",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2021/jan/19/annika-sorenstam-defends-accepting-award-from-donald-trump",
+      "publishedDateTime": "2021-01-19T13:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-19-bidens-defense-secretary-pick-pledges-to-uphold-principle-of-civilian-control-of-the-military.md",
+      "title": "Biden's defense secretary pick pledges to uphold 'principle of civilian control of the military' ",
+      "excerpt": "President-elect Joe Biden's nominee for defense secretary, retired Gen. Lloyd Austin, pledged on Tuesday that he will \"uphold the principle of civilian control of the military\" if confirmed to the post.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7KA3VxIIBPg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7KA3VxIIBPg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201207192616-02-gen-lloyd-austin-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/19/politics/lloyd-austin-defense-secretary-nominee-hearing/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/lloyd-austin-defense-secretary-nominee-hearing/index.html",
+      "publishedDateTime": "2021-01-19T13:29:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-irans-nuclear-breakout-time-has-shrunk-to-three-four-months-bidens-top-diplomat-pick-says.md",
       "title": "Iran's nuclear 'breakout time' has shrunk to three-four months, Biden's top diplomat pick says",
       "excerpt": "The time it would take Iran to make enough fissile material for a single nuclear weapon has fallen to three or four months from over a year under the 2015 Iran nuclear deal, President-elect Joe Biden's choice to be the top U.",
@@ -1252,106 +1360,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-pence-tried-to-contact-capitol-officer-eugene-goodman-to-thank-him.md",
-      "title": "Pence tried to contact Capitol officer Eugene Goodman to thank him",
-      "excerpt": "The cop hailed as a hero for leading a crowd of insurrectionists away from the Senate floor and potentially saving... View Article",
-      "sourceUrl": null,
-      "webUrl": "https://thegrio.com/2021/01/18/officer-goodman-pence-thanks/",
-      "originalUrl": "https://thegrio.com/2021/01/18/officer-goodman-pence-thanks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thegrio.com/wp-content/uploads/2021/01/PenceGoodman-scaled.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thegrio.com/2021/01/18/officer-goodman-pence-thanks/amp/",
-      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/01/18/officer-goodman-pence-thanks/amp/",
-      "publishedDateTime": "2021-01-18T06:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Grio",
-        "domain": "thegrio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-capitol-riot-exposed-flaws-of-trumps-dhs-focused-on-immigration-and-not-extremists-say-ex-officials.md",
-      "title": "Capitol riot exposed flaws of Trump's DHS, focused on immigration and not extremists, say ex-officials",
-      "excerpt": "Trump's DHS staffers \"tend to be younger, with not as much experience,\" says an ex-Trump DHS official. \"So many protocols were not followed\" on Jan. 6. WASHINGTON — Former Department of Homeland Security officials spanning the Bush, Obama and Trump ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/national-security/capitol-riot-exposed-flaws-trump-s-dhs-focused-immigration-not-n1254464",
-      "originalUrl": "https://www.nbcnews.com/politics/national-security/capitol-riot-exposed-flaws-trump-s-dhs-focused-immigration-not-n1254464",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2021_02/3442750/210117-capitol-riot-jm-1414_cb4c7340b61a4548b7f460613dde2235.jpg",
-          "width": 2500,
-          "height": 1636,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1254464",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254464",
-      "publishedDateTime": "2021-01-18T03:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Durbin says Trump impeachment trial 'unresolved,' but calls it a 'priority'"
-    excerpt: "Senate Majority Whip Dick Durbin on Thursday said he expects the House may send the article of impeachment to the Senate in \"a day or two,\" maintaining that a trial for former President Donald Trump is \"a priority.\""
-    publishedDateTime: 2021-01-21T16:01:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gv4S-2VX7vA/durbin-senate-impeachment-trial-timeline-priority"
-    ampWebUrl: "https://www.foxnews.com/politics/durbin-senate-impeachment-trial-timeline-priority.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/durbin-senate-impeachment-trial-timeline-priority.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Graham calls on McConnell to 'unequivocally' denounce second Trump impeachment effort"
     excerpt: "Sen. Lindsey Graham, R-S.C., is fighting efforts to convict President Trump in the Senate after he was impeached for a second time by the House of Representatives, and Senate Majority Leader Mitch McConnell, R-Ky., should do the same, Graham told Fox News’ \"Hannity\" Tuesday."
     publishedDateTime: 2021-01-20T04:51:04Z
@@ -63,21 +47,69 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Schumer says Pelosi to deliver Trump impeachment article Monday, triggering trial amid standoff with McConnell"
-    excerpt: "Senate Democratic leader Chuck Schumer said on Friday that Speaker of the House Nancy Pelosi has informed him that the article of impeachment against President Trump will be delivered to the Senate on Monday, paving the way for a trial."
-    publishedDateTime: 2021-01-22T15:20:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bkwuzSbf1rw/schumer-pelosi-will-deliver-article-of-impeachment-to-senate-on-monday"
-    ampWebUrl: "https://www.foxnews.com/politics/schumer-pelosi-will-deliver-article-of-impeachment-to-senate-on-monday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-pelosi-will-deliver-article-of-impeachment-to-senate-on-monday.amp"
+  - title: "McConnell says he has 'not made a final decision' on how he will vote on Trump impeachment"
+    excerpt: "Senate Majority Leader Mitch McConnell told Republican colleagues Wednesday that he has “not made a final decision” on how he will vote on impeachment, despite signaling that he supported House Democrats’ move to initiate impeachment proceedings against President Trump."
+    publishedDateTime: 2021-01-13T20:35:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2JouXSKxUK8/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-says-he-has-not-made-a-final-decision-on-how-he-will-vote-on-trump-impeachment.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Senate won’t reconvene early to start impeachment trial before Trump leaves office: McConnell spokesman"
+    excerpt: "With President Trump likely set on Wednesday to become the only president ever impeached twice, Democrats were pressuring Senate Majority Leader Mitch McConnell, R-Ky., to invoke a 2004 resolution that could bring the Senate back quickly for what would essentially be an emergency session to begin the"
+    publishedDateTime: 2021-01-13T18:33:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/f9IdAGAFb2k/senate-wont-reconvene-early-to-start-impeachment-trial-before-trump-leaves-office-mcconnell-spokesman"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-wont-reconvene-early-to-start-impeachment-trial-before-trump-leaves-office-mcconnell-spokesman.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-wont-reconvene-early-to-start-impeachment-trial-before-trump-leaves-office-mcconnell-spokesman.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Hannity blasts McConnell, 'spineless Republicans' joining Democrats' repudiation of Trump"
+    excerpt: "Senate Majority Leader Mitch McConnell's days in leadership will be numbered if he allows Minority Leader Chuck Schumer, D-N.Y. a free hand to litigate President Trump's impeachment, Sean Hannity said Tuesday."
+    publishedDateTime: 2021-01-20T04:09:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-blasts-mcconnell-spineless-republicans-joining-democrats-repudiation-of-trump-trumpism"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-blasts-mcconnell-spineless-republicans-joining-democrats-repudiation-of-trump-trumpism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-blasts-mcconnell-spineless-republicans-joining-democrats-repudiation-of-trump-trumpism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9617a0c7-9bab-46c9-9dfd-a173d85f9373/69a418d8-5b9c-4dff-a164-1efe14562cb1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Maher insists Trump will run again, McConnell won't impeach: 'The battle is over, this war is just beginning'"
+    excerpt: "\"Real Time\" host Bill Maher returned from his holiday break Friday night and made bold predictions about the potential political aspirations of President Trump."
+    publishedDateTime: 2021-01-16T08:24:00Z
+    webUrl: "https://www.foxnews.com/entertainment/maher-insists-trump-will-run-again-mcconnell-wont-impeach-the-battle-is-over-the-war-is-just-beginning"
+    ampWebUrl: "https://www.foxnews.com/entertainment/maher-insists-trump-will-run-again-mcconnell-wont-impeach-the-battle-is-over-the-war-is-just-beginning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/maher-insists-trump-will-run-again-mcconnell-wont-impeach-the-battle-is-over-the-war-is-just-beginning.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/TrumpMcconnell.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "e/W7sQ29PNwtC4RQ4/SbudZWL+l6oizFUxOF5RWhjDDr/yvJqjMNmYF7kXPbZpJNABukZw5x/Erwmqp26xbwHc+nXTZ1XP4UN0yqflnR6KZKuML3eV+CdSuSZtWxcru6lAURM3NIBmBeJIIzaUM5uVpebyvXReHsbS3AW0PncyZqIbyGxkxj24FDFgaGBSA/JA16sjSHNjZ/MXQt6aH4iWlqtuzcyXrRDs7AFGfPof5jRdR/F/1e3sCG27hn5L/39f7nNCkjNU9mqbbCyQzzVgtb7AImYam4UgwnRlAxi9HLsn2bWnp2dnD3h7H6OzqWHVdmLDYbnmVD4Rl2/9c0Ph1HCLMcbzD3e2QrfXE5fHE=;rba0wkZ4pCLs+Xk3X81f0g=="

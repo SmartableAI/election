@@ -31,53 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Durbin says Trump impeachment trial 'unresolved,' but calls it a 'priority'"
-    excerpt: "Senate Majority Whip Dick Durbin on Thursday said he expects the House may send the article of impeachment to the Senate in \"a day or two,\" maintaining that a trial for former President Donald Trump is \"a priority.\""
-    publishedDateTime: 2021-01-21T16:01:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gv4S-2VX7vA/durbin-senate-impeachment-trial-timeline-priority"
-    ampWebUrl: "https://www.foxnews.com/politics/durbin-senate-impeachment-trial-timeline-priority.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/durbin-senate-impeachment-trial-timeline-priority.amp"
+  - title: "Pelosi says Trump could be 'accessory to murder' in connection with Capitol riot"
+    excerpt: "House Speaker Nancy Pelosi said former President Donald Trump could be considered an accessory to murder in connection with this month's deadly riot at the U.S. Capitol. "
+    publishedDateTime: 2021-01-20T19:11:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8IafQ1UgbJc/pelosi-says-trump-could-be-accessory-to-murder-after-deadly-capitol-riots"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-says-trump-could-be-accessory-to-murder-after-deadly-capitol-riots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-says-trump-could-be-accessory-to-murder-after-deadly-capitol-riots.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Graham calls on McConnell to 'unequivocally' denounce second Trump impeachment effort"
-    excerpt: "Sen. Lindsey Graham, R-S.C., is fighting efforts to convict President Trump in the Senate after he was impeached for a second time by the House of Representatives, and Senate Majority Leader Mitch McConnell, R-Ky., should do the same, Graham told Fox News’ \"Hannity\" Tuesday."
-    publishedDateTime: 2021-01-20T04:51:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zY0w3BFDqKo/lindsey-graham-mitch-mcconnell-second-trump-impeachment-effort"
-    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-mitch-mcconnell-second-trump-impeachment-effort.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-mitch-mcconnell-second-trump-impeachment-effort.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36a18001-83b1-4bf6-8254-38356a48634e/88112cd8-b99d-4ec7-9535-3d90c2a8f9e4/1280x720/match/image.jpg"
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "McConnell says Trump 'provoked' the Capitol riot as Senate weighs another impeachment trial"
-    excerpt: "Senate Majority Leader Mitch McConnell, R-Ky., placed blame on President Trump for the riot at the Capitol on Jan. 6 that left five people dead, including a Capitol police officer."
-    publishedDateTime: 2021-01-19T18:53:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3C57DnXc1iQ/mcconnell-trump-capitol-riot-senate-weighs-another-impeachment-trial"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-capitol-riot-senate-weighs-another-impeachment-trial.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-capitol-riot-senate-weighs-another-impeachment-trial.amp"
+  - title: "Franklin Graham asks if Pelosi promised 10 Republicans 'pieces of silver' to betray Trump"
+    excerpt: "Protestant evangelist and missionary Franklin Graham expressed outrage Thursday with the 10 House Republicans who joined Democrats this week in voting to impeach President Trump for a second time – and claimed House Speaker Nancy Pelosi may have swayed them."
+    publishedDateTime: 2021-01-15T10:24:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cILc-h7NjH8/franklin-graham-asks-if-pelosi-promised-10-republicans-pieces-of-silver-to-betray-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/franklin-graham-asks-if-pelosi-promised-10-republicans-pieces-of-silver-to-betray-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/franklin-graham-asks-if-pelosi-promised-10-republicans-pieces-of-silver-to-betray-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007146978656.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Franklin-Graham-headshot-Samaritans-Purse.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Pelosi says Trump could be 'accessory to murder' in connection with Capitol riot"
+    excerpt: "House Speaker Nancy Pelosi said former President Donald Trump could be considered an accessory to murder in connection with this month's deadly riot at the U.S. Capitol."
+    publishedDateTime: 2021-01-21T04:52:00Z
+    webUrl: "https://www.foxnews.com/politics/pelosi-says-trump-could-be-accessory-to-murder-after-deadly-capitol-riots"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-says-trump-could-be-accessory-to-murder-after-deadly-capitol-riots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-says-trump-could-be-accessory-to-murder-after-deadly-capitol-riots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "cFpRVZ5XRhv5tvkVrrsUuuXRln2Wcty/LehNbKKC85j0fty+EH/cdfkagc1HDFinyRliRs4cg84Jt+xVh1kbC4F/dQqAlTlJrslR6DRPNpUsLBCy1h4LTqC5TTB+a2GoohICXUySfxGLWHG0LzBqTXYXzg2Q/4Z5fnPbhCo/UHTu8LsctHZom6K/VmurbDZ4QESEWtN7dZCpL5HVQcJIu/B+OjcEQa1Y9lCRTtajggDrf9Z40l5u3Qm4kZULL8cQADNzkgIgpjWAFcMAo25zvnlCbSNubn8UGDEX0aCupmgrwEyx+aLb26s+bDeCcjr7lws6jj+l0XieeUHU+o9jgEtyoZyFIQDnniO4l9h1H/c=;XMFZY7uH9kopCoRri+14sg=="

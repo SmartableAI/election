@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/donald-trump-policy-lega
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/donald-trump-policy-legacy/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118152846-01-trump-barrett-0926-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Two former Trump officials to be investigated for posting papers denying climate change"
+    excerpt: "The Commerce Department's Office of Inspector General said it will investigate how two former Trump officials posted dubious papers questioning man-made climate change using government logos but without the approval of the Trump administration.\n    \n"
+    publishedDateTime: 2021-01-24T00:21:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mrd_OGlmG_4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/23/politics/david-legates-ryan-maue-trump-officials-climate-change-mazie-hirono/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/23/politics/david-legates-ryan-maue-trump-officials-climate-change-mazie-hirono/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200914175952-david-legates-todd-pkg-tsr-0914-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

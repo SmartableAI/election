@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T01R"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T01R"
 type: article
 quality: 134
-heat: 414
+heat: 434
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1714811/trump-arriving-florida-january-20.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "'Trumpocalypse' is over. Why the anti-Trump billboard in downtown Phoenix is coming down"
+    excerpt: "Trumpocalypse,' the anti-Donald Trump billboard in downtown Phoenix is being replaced. The controversial Grand Ave. billboard will feature new images"
+    publishedDateTime: 2021-01-24T15:07:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/arts/2021/01/24/donald-trump-billboard-downtown-phoenix/6665056002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6665056002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6665056002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/8748c6c4833f4d286dc7aab150adee2b64263865/c=0-173-4890-2936/local/-/media/2017/05/12/Phoenix/Phoenix/636302166299134058--20170319-Trump-billboard-0065.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
         isCached: true
   - title: "Trump jumps into a divisive battle over the Republican Party — with a threat to start a ‘MAGA Party’"
     excerpt: "The former president, in his first political activity since leaving office, endorses an ally for Arizona party chair who backed his false claims of election fraud."

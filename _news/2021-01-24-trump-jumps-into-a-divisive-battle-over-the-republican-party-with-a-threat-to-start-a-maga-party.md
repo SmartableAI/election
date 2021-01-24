@@ -159,6 +159,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "'Trumpocalypse' is over. Why the anti-Trump billboard in downtown Phoenix is coming down"
+    excerpt: "Trumpocalypse,' the anti-Donald Trump billboard in downtown Phoenix is being replaced. The controversial Grand Ave. billboard will feature new images"
+    publishedDateTime: 2021-01-24T15:07:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/arts/2021/01/24/donald-trump-billboard-downtown-phoenix/6665056002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6665056002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6665056002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/8748c6c4833f4d286dc7aab150adee2b64263865/c=0-173-4890-2936/local/-/media/2017/05/12/Phoenix/Phoenix/636302166299134058--20170319-Trump-billboard-0065.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Justice Dept. watchdog to examine abrupt departure of Atlanta U.S. attorney whom Trump appeared to criticize"
     excerpt: "Byung J. “BJay” Pak suddenly stepped down earlier this month as then-President Trump waged a pressure campaign on Georgia officials over the election."
     publishedDateTime: 2021-01-22T02:53:00Z

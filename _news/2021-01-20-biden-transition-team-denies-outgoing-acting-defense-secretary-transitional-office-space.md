@@ -831,6 +831,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Biden's opening with Republicans is narrow but real"
+    excerpt: "Anyone who has paid attention to American politics lately knows President Joe Biden cannot singlehandedly end the \"uncivil war\" he decried in his inaugural address last week.\n    \n"
+    publishedDateTime: 2021-01-24T16:05:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Gr0MaIkFqlc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/politics/joe-biden-republicans-bipartisanship/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/joe-biden-republicans-bipartisanship/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122143235-01-biden-inauguration-speech-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden urges patience as frustration grows over vaccine supply"
     excerpt: "While outlining his plan to halt the spread of the coronavirus last week, President Joe Biden tempered his ever-present optimism with a dose of realism about the potent staying power of this deadly pandemic and the fact that the nation's vaccine distribution system is a long way from becoming an efficient"
     publishedDateTime: 2021-01-24T05:29:35Z
@@ -844,6 +860,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122152703-04-biden-economy-0122-executive-order-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Romney: Impeachment trial after Trump has left office is constitutional"
+    excerpt: "Republican Sen. Mitt Romney said Sunday that he believes holding an impeachment trial for former President Donald Trump is constitutional, a position that puts him at odds with some of his Senate colleagues.\n    \n"
+    publishedDateTime: 2021-01-24T16:20:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PCw_9mH2RHM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/politics/mitt-romney-trump-impeachment-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/mitt-romney-trump-impeachment-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210124094203-mitt-romney-sotu-1-24-21-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -988,6 +1020,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121165614-cruz-haley-pompeo-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Why Biden's vaccine goals are likely too modest and good politics"
+    excerpt: "Poll of the week: A Kaiser Family Foundation poll finds that just 29% of Americans think the federal government has done an excellent or good job distributing the Covid-19 vaccine to states so far.\n    \n"
+    publishedDateTime: 2021-01-24T15:37:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aCwg8ztASKg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/politics/100-million-vaccine-doses-biden-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/100-million-vaccine-doses-biden-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122135027-01-vaccine-in-arm-los-angeles-jan2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

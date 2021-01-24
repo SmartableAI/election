@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Biden's decrees vault America back onto the global stage. A whiplashed world wonders for how long"
-excerpt: "Within hours of taking office, US President Joe Biden set to work signing a blizzard of executive orders, memorandums and directives to agencies, ranging from steps to combat the coronavirus to beginning the process of rejoining the Paris climate accord."
-publishedDateTime: 2021-01-24T05:12:00Z
-originalUrl: "https://www.cnn.com/2021/01/24/world/us-executive-orders-foreign-policy-intl/index.html"
-webUrl: "https://www.cnn.com/2021/01/24/world/us-executive-orders-foreign-policy-intl/index.html"
+excerpt: "Within hours of taking office, US President Joe Biden set to work signing a blizzard of executive orders, memorandums and directives to agencies, ranging from steps to combat the coronavirus to beginning the process of rejoining the Paris climate accord.\n    \n"
+publishedDateTime: 2021-01-24T05:12:48Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mvFlHe8Y1vA/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mvFlHe8Y1vA/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/world/us-executive-orders-foreign-policy-intl/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/world/us-executive-orders-foreign-policy-intl/index.html"
 type: article
-quality: 122
+quality: 162
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
@@ -49,6 +48,6 @@ related:
         height: 619
         isCached: true
 
-secured: "nlYQK3QZq+cDMJeDsoQrN4IwPS3pJ6vQ5gk2+VDmQIpiN9qVUFtsnGa2BTuO+BbVodzR9268lit5avlloTWV8yuyoUqoBrpgHGuI8L3ILB44V7h21/WS4qJzfXspL7MkRSe4cs4W8b7hpZBO7eAYtPwigN+BahnfhDYd/yrKV9+/7TTh6/BagGSQZDbqbwv5xs1uIOeSywJlhqi4jCTZSOKJcm1WooiPlH2SAH7N9LSsNEXeiU8IwooINifTtEVpECVO481oyZrOSpxvdhLl5V+joAAr/q8Q2D+vsl8E/EbQMwbUqcVQOsvlnqvm4Bmow7IQbXAB08gaxcn0lO9XI3mDoQxyC4RP6APLRvzgJws=;YJxVMy1NBlg4slwZIeUfzw=="
+secured: "jRDCmc9aAlclpJA14tsj3D+8cZC61iZmnIJNtJlmXIepcqSmomWN8WKOsA2pK6DYe5pR0BebsInphkYy5i+MsfP2shuA3/PTTWEjRO68N1fUK+D/+cuKzc2gWdBn7Nh98rNDydt3KAcrjFVMsUcfjPzEtOujV+lF0mwSYUkZcljNSLlpQTiYH1wXg4ppqemp1W4GCm5tKP3DNRdupeVa8NOubfl6CG9awwkt8MJq7qRgAgb07ZHD7zHtI82PmmbhHcpmm8/8YhLX38ca/fRqT/Q+LUKKGu5r/H9YU2eel5YmctAPvtKtx31qH/PsYJE6tuDuFb1qk7syixwQ1BRnBohLTsHQBD9d5R+6w8qcbl4=;79hNk9sYuAWb7ig4GH1A0g=="
 ---
 

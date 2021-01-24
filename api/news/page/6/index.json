@@ -2,6 +2,106 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-18-pence-tried-to-contact-capitol-officer-eugene-goodman-to-thank-him.md",
+      "title": "Pence tried to contact Capitol officer Eugene Goodman to thank him",
+      "excerpt": "The cop hailed as a hero for leading a crowd of insurrectionists away from the Senate floor and potentially saving... View Article",
+      "sourceUrl": null,
+      "webUrl": "https://thegrio.com/2021/01/18/officer-goodman-pence-thanks/",
+      "originalUrl": "https://thegrio.com/2021/01/18/officer-goodman-pence-thanks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thegrio.com/wp-content/uploads/2021/01/PenceGoodman-scaled.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thegrio.com/2021/01/18/officer-goodman-pence-thanks/amp/",
+      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/01/18/officer-goodman-pence-thanks/amp/",
+      "publishedDateTime": "2021-01-18T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Grio",
+        "domain": "thegrio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-capitol-riot-exposed-flaws-of-trumps-dhs-focused-on-immigration-and-not-extremists-say-ex-officials.md",
+      "title": "Capitol riot exposed flaws of Trump's DHS, focused on immigration and not extremists, say ex-officials",
+      "excerpt": "Trump's DHS staffers \"tend to be younger, with not as much experience,\" says an ex-Trump DHS official. \"So many protocols were not followed\" on Jan. 6. WASHINGTON — Former Department of Homeland Security officials spanning the Bush, Obama and Trump ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/national-security/capitol-riot-exposed-flaws-trump-s-dhs-focused-immigration-not-n1254464",
+      "originalUrl": "https://www.nbcnews.com/politics/national-security/capitol-riot-exposed-flaws-trump-s-dhs-focused-immigration-not-n1254464",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2021_02/3442750/210117-capitol-riot-jm-1414_cb4c7340b61a4548b7f460613dde2235.jpg",
+          "width": 2500,
+          "height": 1636,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1254464",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254464",
+      "publishedDateTime": "2021-01-18T03:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-cowboys-for-trump-founder-who-vowed-to-return-with-guns-to-capitol-for-inauguration-arrested-by-fbi.md",
       "title": "\"Cowboys for Trump\" founder, who vowed to return with guns to Capitol for inauguration, arrested by FBI",
       "excerpt": "Couy Griffin, a New Mexico county official, vowed to return with firearms to the Capitol for the inauguration.",
@@ -122,7 +222,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 3050,
+      "heat": 3110,
       "tags": null,
       "images": [
         {
@@ -487,63 +587,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-18-alec-baldwin-says-he-dreamed-donald-trump-was-tried-for-sedition-with-a-makeshift-noose-outside-courthouse.md",
-      "title": "Alec Baldwin says he dreamed Donald Trump was tried for 'sedition' with a makeshift noose outside courthouse",
-      "excerpt": "Alec Baldwin took a somewhat alarming jab at Donald Trump over the weekend. The actor, who is one of the president’s most outspoken critics in Hollywood, took to Twitter to reveal that he had a dream that Trump was on trial for sedition and implied that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/alec-baldwin-donald-trump-sedition-noose-outside",
-      "originalUrl": "https://www.foxnews.com/entertainment/alec-baldwin-donald-trump-sedition-noose-outside",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Alec-Baldwin-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/alec-baldwin-donald-trump-sedition-noose-outside.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/alec-baldwin-donald-trump-sedition-noose-outside.amp",
-      "publishedDateTime": "2021-01-17T11:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-18-paleologos-on-the-poll-inauguration-day-isnt-the-end-of-the-trump-era-its-just-the-beginning.md",
       "title": "Paleologos on the Poll: Inauguration Day isn't the end of the Trump era. It's just the beginning.",
       "excerpt": "David Paleologos, director of the Suffolk University Political Research Center, says Trump would be the favorite in the 2024 GOP primary.",
@@ -769,7 +812,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1274,58 +1317,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-biden-well-manage-the-hell-out-of-feds-covid-response.md",
-      "title": "Biden: We'll 'manage the hell' out of feds' COVID response",
-      "excerpt": "President-elect Joe Biden is pledging to boost supplies of coronavirus vaccine and set up new vaccination sites to meet his goal of 100 million shots in 100 days",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/biden-unveils-19t-plan-stem-covid-19-steady-75269503",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-unveils-19t-plan-stem-covid-19-steady-75269503",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_8fe513d6b6cd49e6ae4f13509231de33_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/biden-unveils-19t-plan-stem-covid-19-steady-75269503",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-unveils-19t-plan-stem-covid-19-steady-75269503",
-      "publishedDateTime": "2021-01-16T16:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

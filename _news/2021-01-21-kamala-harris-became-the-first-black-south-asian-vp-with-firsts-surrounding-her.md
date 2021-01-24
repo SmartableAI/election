@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Harris and Emhoff recall first date: 'It felt like we had known each other forever'"
-    excerpt: "Vice President-elect Kamala Harris and her husband Doug Emhoff recalled their first date in a rare joint interview with CNN's Abby Phillip, for a CNN special report airing Sunday on the barrier-breaking vice president and her historic career.\n    \n"
-    publishedDateTime: 2021-01-15T15:45:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mDur_6LEgIg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/kamala-harris-doug-emhoff-first-date-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/kamala-harris-doug-emhoff-first-date-cnntv/index.html"
+  - title: "Inside Kamala Harris' historic first days"
+    excerpt: "In the hours after her historic inauguration, Kamala Harris beamed into televisions across the country, delivering her first speech as vice president just steps beyond the sitting relic of Abraham Lincoln and a short distance from where Dr. Martin Luther King Jr. shared his iconic words that inspired"
+    publishedDateTime: 2021-01-24T14:06:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tDjeqpkzK_0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/politics/kamala-harris-vice-president-first-days/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/kamala-harris-vice-president-first-days/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 179
+    quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201110145840-harris-emhoff-0812-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120130215-harris-emhoff-lincoln-memorial-0120-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Graham calls on McConnell to 'unequivocally' denounce second Trump impeachment effort"
+    excerpt: "Sen. Lindsey Graham, R-S.C., is fighting efforts to convict President Trump in the Senate after he was impeached for a second time by the House of Representatives, and Senate Majority Leader Mitch McConnell, R-Ky., should do the same, Graham told Fox News’ \"Hannity\" Tuesday."
+    publishedDateTime: 2021-01-20T04:51:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zY0w3BFDqKo/lindsey-graham-mitch-mcconnell-second-trump-impeachment-effort"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-mitch-mcconnell-second-trump-impeachment-effort.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-mitch-mcconnell-second-trump-impeachment-effort.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36a18001-83b1-4bf6-8254-38356a48634e/88112cd8-b99d-4ec7-9535-3d90c2a8f9e4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "McConnell says he has 'not made a final decision' on how he will vote on Trump impeachment"
     excerpt: "Senate Majority Leader Mitch McConnell told Republican colleagues Wednesday that he has “not made a final decision” on how he will vote on impeachment, despite signaling that he supported House Democrats’ move to initiate impeachment proceedings against President Trump."
     publishedDateTime: 2021-01-13T20:35:21Z
@@ -48,21 +64,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Dershowitz calls Trump impeachment a 'loaded weapon' that would be 'so dangerous to the Constitution'"
-    excerpt: "Harvard Law professor emeritus and constitutional law scholar Alan Dershowitz said that while he does not believe it would result in a Senate trial, impeaching President Trump over what he said in an address prior to protesters storming the Capitol building on Wednesday would provide a \"loaded weapon\""
-    publishedDateTime: 2021-01-10T17:39:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AYbZcRaWwGY/dershowitz-trump-impeachment-loaded-weapon-dangerous-constitution"
-    ampWebUrl: "https://www.foxnews.com/politics/dershowitz-trump-impeachment-loaded-weapon-dangerous-constitution.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dershowitz-trump-impeachment-loaded-weapon-dangerous-constitution.amp"
+  - title: "McConnell says Trump 'provoked' the Capitol riot as Senate weighs another impeachment trial"
+    excerpt: "Senate Majority Leader Mitch McConnell, R-Ky., placed blame on President Trump for the riot at the Capitol on Jan. 6 that left five people dead, including a Capitol police officer."
+    publishedDateTime: 2021-01-19T18:53:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3C57DnXc1iQ/mcconnell-trump-capitol-riot-senate-weighs-another-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-capitol-riot-senate-weighs-another-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-capitol-riot-senate-weighs-another-impeachment-trial.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 165
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e261edb-993c-4462-a43f-7b8bc27294f3/dbae9707-b9f7-49a0-8d78-aa793b6188a1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21007146978656.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Senate won’t reconvene early to start impeachment trial before Trump leaves office: McConnell spokesman"
     excerpt: "With President Trump likely set on Wednesday to become the only president ever impeached twice, Democrats were pressuring Senate Majority Leader Mitch McConnell, R-Ky., to invoke a 2004 resolution that could bring the Senate back quickly for what would essentially be an emergency session to begin the"

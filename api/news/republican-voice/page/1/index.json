@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-24-trump-impeachment-trial-is-stupid-bad-for-the-country-rubio.md",
+      "title": "Trump impeachment trial is 'stupid,' 'bad for the country': Rubio",
+      "excerpt": "The Senate impeachment trial of former President Donald Trump is \"stupid\" and \"bad for the country,\" Sen. Marco Rubio said.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-8S90EU9loE/trump-impeachment-trial-rubio-senate-republicans",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-8S90EU9loE/trump-impeachment-trial-rubio-senate-republicans",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21020641075301.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-impeachment-trial-rubio-senate-republicans.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-trial-rubio-senate-republicans.amp",
+      "publishedDateTime": "2021-01-24T08:34:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-24-kamala-harris-roe-v-wade-post-draws-tennessee-governors-response-abortion-isnt-healthcare.md",
       "title": "Kamala Harris' Roe v. Wade post draws Tennessee governor’s response: ‘Abortion isn’t healthcare’",
       "excerpt": "Tennessee Gov. Bill Lee spoke out last week after Vice President Kamala Harris issued a statement to mark the 48th anniversary of the Supreme Court decision that legalized abortion nationwide.",
@@ -1258,62 +1314,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/logan-media-institutions-wont-admit-stories-during-trump-era.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/logan-media-institutions-wont-admit-stories-during-trump-era.amp",
       "publishedDateTime": "2021-01-21T09:50:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-durbin-says-trump-impeachment-trial-unresolved-but-calls-it-a-priority.md",
-      "title": "Durbin says Trump impeachment trial 'unresolved,' but calls it a 'priority'",
-      "excerpt": "Senate Majority Whip Dick Durbin on Thursday said he expects the House may send the article of impeachment to the Senate in \"a day or two,\" maintaining that a trial for former President Donald Trump is \"a priority.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gv4S-2VX7vA/durbin-senate-impeachment-trial-timeline-priority",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gv4S-2VX7vA/durbin-senate-impeachment-trial-timeline-priority",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/durbin-senate-impeachment-trial-timeline-priority.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/durbin-senate-impeachment-trial-timeline-priority.amp",
-      "publishedDateTime": "2021-01-21T08:01:57-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

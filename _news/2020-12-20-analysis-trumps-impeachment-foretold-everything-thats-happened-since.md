@@ -1087,6 +1087,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Chronicling Trump's 10 worst abuses of power"
+    excerpt: "Former President Donald Trump flouted the limits of presidential power unlike any of his recent predecessors, leaving behind a legacy of unmatched abuses that range from violations of longstanding norms to potentially criminal behavior.\n    \n"
+    publishedDateTime: 2021-01-24T12:55:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/012U9NV0TYs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/politics/trump-worst-abuses-of-power/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/trump-worst-abuses-of-power/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114155358-20210114-trump-most-egregious-abuses-of-power-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration locks down border wall contracts, complicating Biden's pledge to stop construction"
     excerpt: "The Trump administration is continuing to award border wall contracts in the waning days of Donald Trump's presidency, including in areas where private land hasn't yet been acquired, an unusual move that will complicate President-elect Joe Biden's pledge to halt construction.\n    \n"
     publishedDateTime: 2021-01-05T23:55:26Z
