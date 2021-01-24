@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Arizona GOP narrowly reelects Trump loyalist Kelli Ward; censures Cindy McCain, Gov. Doug Ducey, ex-Sen. Jeff Flake"
+    excerpt: "The closely watched result offers an early, state-level indication that Trump retains sway over the activist GOP base, though it is more tenuous."
+    publishedDateTime: 2021-01-24T18:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/24/arizona-gop-reelects-kelli-ward-censures-cindy-mccain-jeff-flake-doug-ducey/6692657002/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/6692657002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6692657002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/PPHX/f063a3d8-bbc8-4d8b-9728-245e41c58cf1-cent02-7dyzmbiscdh80zdihle_original.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "exWo4+tfzkGSGpszR2GKpWh0QSQAG+TeOa3pcCXH9ZtQigMrg2fkIgqsBvByB+RG1TwqZUFrHZg32S8AJWTp3THSeru4QeZ7NSFumwrYhLpbiia5HNwfwBNgY/FgSMi8L2lMF8WnuVTdyk1OrBJLL73pE4iOR/XTvh3WGTi6iUm8lOGariqfczIgc+tndQbrR1VEJ1PUDBi7LSJ+9zY1jqyoGk5zuvjCx9I9Coq+NJHDaWU4nlfp//klnBd/Pw61uHtL6pUrYvW1pXiLkXsKhGatuScP6inXX5rfEz0+KJ2hWot2sZCarGS6+sf3agEta+ZY4CSqS2cn0ZAnt7Vi/8SsfSmKFiictQ1fvRwkmbQ=;EgF7hWwoBRzXht/O8ua0tw=="
 ---

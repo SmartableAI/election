@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-24-biden-health-advisers-admit-covid-19-vaccination-goal-is-not-enough-we-have-to-go-faster.md",
+      "title": "Biden health advisers admit COVID-19 vaccination goal is not enough: 'We have to go faster'",
+      "excerpt": "The new head of the Center for Disease Control (CDC) said Sunday that the U.S. has to \"go faster\" than the Biden administration's current goal of 100 million coronavirus vaccinations in 100 days.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8hxfbwsCOTE/biden-health-advisers-admit-covid-19-vaccination-goal-is-not-enough-we-have-to-go-faster",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8hxfbwsCOTE/biden-health-advisers-admit-covid-19-vaccination-goal-is-not-enough-we-have-to-go-faster",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Rochelle-Walensky.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-health-advisers-admit-covid-19-vaccination-goal-is-not-enough-we-have-to-go-faster.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-health-advisers-admit-covid-19-vaccination-goal-is-not-enough-we-have-to-go-faster.amp",
+      "publishedDateTime": "2021-01-24T10:48:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-biden-health-officials-express-concern-about-short-term-vaccine-supply-crunch.md",
+      "title": "Biden health officials express concern about short-term vaccine supply crunch",
+      "excerpt": "I think that the supply is probably going to be the most limiting constraint early on,\" the CDC director said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/01/24/biden-vaccine-supply-concerns-covid-461852",
+      "originalUrl": "https://www.politico.com/news/2021/01/24/biden-vaccine-supply-concerns-covid-461852",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/5e/d0/474a6135462a9b2742bc5b5226f7/210124-murthy-ap773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/24/biden-vaccine-supply-concerns-covid-461852",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/24/biden-vaccine-supply-concerns-covid-461852",
+      "publishedDateTime": "2021-01-24T09:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-24-trump-impeachment-trial-is-stupid-bad-for-the-country-rubio.md",
       "title": "Trump impeachment trial is 'stupid,' 'bad for the country': Rubio",
       "excerpt": "The Senate impeachment trial of former President Donald Trump is \"stupid\" and \"bad for the country,\" Sen. Marco Rubio said.",
@@ -66,7 +179,7 @@
       "originalUrl": "https://www.newsweek.com/deborah-brix-says-some-donald-trump-white-house-staff-believed-covid-was-hoax-1563971",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -227,7 +340,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/24/arizona-republicans-censure-mccain-flake-ducey-trump",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -384,8 +497,8 @@
       "title": "'Immense sense of pride': Caribbean diaspora celebrates Kamala Harris",
       "excerpt": "Some hopeful vice-president could forward the fight for voting rights of the more than 4 million American citizens living in US territories who can’t vote",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president",
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president?share=facebook",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president?share=facebook",
       "featuredContent": null,
       "highlight": null,
       "heat": 265,
@@ -657,7 +770,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1225,114 +1338,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-usagm-chief-fires-trump-allies-over-radio-free-europe-and-other-networks.md",
-      "title": "USAGM Chief Fires Trump Allies Over Radio Free Europe And Other Networks",
-      "excerpt": "The acting head of the U.S. Agency for Global Media fired the presidents and boards over three not-for-profit international networks who were appointed by an ally of former President Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2021/01/22/959848852/usagm-chief-fires-trump-allies-over-radio-free-europe-and-other-networks",
-      "originalUrl": "https://www.npr.org/2021/01/22/959848852/usagm-chief-fires-trump-allies-over-radio-free-europe-and-other-networks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2021/01/23/ap_10011504186_wide-ec617adb6edf9bdcc0689da453bb1f38b4042c8e.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-22T20:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-new-york-times-trump-and-doj-attorney-had-plan-to-replace-his-acting-ag-and-undo-georgia-election-result.md",
-      "title": "New York Times: Trump and DOJ attorney had plan to replace his acting AG and undo Georgia election result",
-      "excerpt": "Justice Department lawyer Jeffrey Clark nearly convinced then-President Donald Trump to remove then-acting Attorney General Jeffrey Rosen and use the Department of Justice to undo Georgia's election results, The New York Times reported Friday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YGZ1p29pNIg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YGZ1p29pNIg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210121092209-01-trump-departure-0120-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/22/politics/trump-doj-attorney-plan-replace-acting-ag-false-election-claims/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/trump-doj-attorney-plan-replace-acting-ag-false-election-claims/index.html",
-      "publishedDateTime": "2021-01-22T19:35:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

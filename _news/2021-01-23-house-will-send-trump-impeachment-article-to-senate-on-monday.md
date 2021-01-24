@@ -2263,6 +2263,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Fact check: Vice President Kamala Harris used 2 Bibles when she was sworn in"
+    excerpt: "After the vice president's swearing-in ceremony, some claimed Harris refused to rest a hand on the Bible while taking the oath of office. That is false."
+    publishedDateTime: 2021-01-22T00:00:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/factcheck/2021/01/22/kamala-harris-bible-swearing-in-inauguration/6674484002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/6674484002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/6674484002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/64dc4956-9db8-46ce-a3a8-376ae1b01ffe-XXX_RD1_5107.JPG?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "D.C. attorney general seeks to interview Donald Trump Jr. on inauguration funds"
     excerpt: "The D.C. attorney general's office said Thursday it requested to interview Donald Trump Jr. as part of its investigation into the Presidential Inaugural Committee's alleged misuse of non-profit funds."
     publishedDateTime: 2021-01-15T02:08:00Z

@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Live politics updates: 69% of Americans approve of Biden's plan to tackle pandemic, poll finds"
+    excerpt: "Fifty-seven percent of Americans believe Biden can follow-through on his promise to unite a divided America, according to a recent ABC News poll."
+    publishedDateTime: 2021-01-24T17:48:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/24/live-politics-updates-trump-impeachment-joe-biden/6692511002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6692511002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6692511002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/b7b61a20-f598-49c7-ae3b-e300c35f7f39-Sanders_1.jpg?auto=webp&crop=4999,2812,x0,y213&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'To heal, we must remember': Biden leads national mourning of 400,000 Americans killed by COVID-19"
     excerpt: "\"It's hard sometimes to remember. But that's how we heal,\" Biden said from the Lincoln Memorial Reflecting Pool."
     publishedDateTime: 2021-01-20T06:25:00Z

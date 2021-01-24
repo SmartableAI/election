@@ -1587,6 +1587,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Republicans Signal Deep Resistance To Trump Senate Trial"
+    excerpt: "Republican lawmakers demonstrated Sunday that Democrats will have a fight on their hands to convict Donald Trump when the Senate next month opens its first-ever impeachment trial of a former president."
+    publishedDateTime: 2021-01-24T16:10:00Z
+    webUrl: "https://www.ibtimes.com/republicans-signal-deep-resistance-trump-senate-trial-3129467"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/24/speaker-nancy-pelosi-is-set-to-send-the.jpg"
+        width: 1024
+        height: 714
+        isCached: true
   - title: "Nevada Judge Who Denied Trump Campaign Appeal Was Threatened"
     excerpt: "Authorities in Carson City are investigating a threat made against a state judge who dismissed a lawsuit last month brought by President Donald Trump’s campaign."
     publishedDateTime: 2021-01-15T18:53:00Z

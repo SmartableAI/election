@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Russia, China benefitting from a Biden presidency, not America: Rep. McCarthy"
+    excerpt: "House Minority Leader Rep. Kevin McCarthy, R-Calif., argued on Saturday that \"our adversaries,\" not the American people, are benefitting from President Biden's actions during his first week in office."
+    publishedDateTime: 2021-01-24T18:48:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QvvOkV5farQ/russia-china-benefitting-from-a-biden-presidency-not-america-rep-mccarthy"
+    ampWebUrl: "https://www.foxnews.com/politics/russia-china-benefitting-from-a-biden-presidency-not-america-rep-mccarthy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/russia-china-benefitting-from-a-biden-presidency-not-america-rep-mccarthy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "LIVE UPDATES: Lady Gaga, ahead of Biden inauguration performance, hopes for 'day of peace for all Americans'"
     excerpt: "Follow for the latest updates on the inauguration and the fallout from the Capitol riots. "
     publishedDateTime: 2021-01-20T07:36:52Z

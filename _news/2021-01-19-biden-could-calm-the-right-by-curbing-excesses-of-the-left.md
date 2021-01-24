@@ -1828,6 +1828,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden nominee tries to clean up president's 'nothing we can do' claim about pandemic trajectory"
+    excerpt: "Secretary of Health and Human Services nominee Xavier Becerra tried to straighten out the Biden administration's message on the coronavirus pandemic after President Biden presented a fatalist outlook on the immediate future."
+    publishedDateTime: 2021-01-24T18:30:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CdPaG5sfRKg/biden-nominee-coronavirus-pandemic-trajectory"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-coronavirus-pandemic-trajectory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-coronavirus-pandemic-trajectory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b69b69b3-5544-415e-88e3-43a2e8cdab64/12af020b-5f40-407c-be17-5b7f694053b7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Biden accepts use of the president’s guest house for the night before inauguration"
     excerpt: "Blair House, the president’s guest house, sits across from the White House on Pennsylvania Ave."
     publishedDateTime: 2021-01-14T07:22:59Z

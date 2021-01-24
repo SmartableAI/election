@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Russia, China benefitting from a Biden presidency, not America: Rep. McCarthy"
+    excerpt: "House Minority Leader Rep. Kevin McCarthy, R-Calif., argued on Saturday that \"our adversaries,\" not the American people, are benefitting from President Biden's actions during his first week in office."
+    publishedDateTime: 2021-01-24T18:48:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QvvOkV5farQ/russia-china-benefitting-from-a-biden-presidency-not-america-rep-mccarthy"
+    ampWebUrl: "https://www.foxnews.com/politics/russia-china-benefitting-from-a-biden-presidency-not-america-rep-mccarthy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/russia-china-benefitting-from-a-biden-presidency-not-america-rep-mccarthy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Alberta premier: Biden disrespected America's closest friend by canceling Keystone Pipeline"
     excerpt: "The leader of the Canadian province of Alberta ripped President Biden Friday over his decision to cancel the Keystone XL pipeline almost immediately after taking office earlier this week."
     publishedDateTime: 2021-01-22T21:57:39Z

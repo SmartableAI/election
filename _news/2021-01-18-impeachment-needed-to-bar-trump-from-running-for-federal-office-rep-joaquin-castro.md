@@ -143,6 +143,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "U.S. Senate's Schumer says Trump impeachment trial will be fair but move quickly"
+    excerpt: "U.S. Senate Majority Leader Chuck Schumer said on Sunday that former President Donald Trump's approaching second impeachment trial in the Senate will be fair but move at a relatively fast pace."
+    publishedDateTime: 2021-01-24T17:24:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-schumer-idUSKBN29T0K8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T0K8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T0K8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548885308&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N0BE"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Politics live updates: Trump impeachment trial begins in earnest Feb. 8, Schumer says"
     excerpt: "Senate Majority Leader Chuck Schumer announced House impeachment prosecutors will present the charge against former President Donald Trump on Monday."
     publishedDateTime: 2021-01-23T09:25:00Z

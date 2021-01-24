@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-trump-sendoff-biden-inaugurat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp"
 type: article
 quality: 205
-heat: 3905
+heat: 3925
 published: true
 
 provider:
@@ -1821,6 +1821,22 @@ related:
     quality: 163
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/217e07b5-fe3e-44e6-8631-82e86584dc1e/b9c76771-450d-4252-a7a3-1fff339e7935/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden nominee tries to clean up president's 'nothing we can do' claim about pandemic trajectory"
+    excerpt: "Secretary of Health and Human Services nominee Xavier Becerra tried to straighten out the Biden administration's message on the coronavirus pandemic after President Biden presented a fatalist outlook on the immediate future."
+    publishedDateTime: 2021-01-24T18:30:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CdPaG5sfRKg/biden-nominee-coronavirus-pandemic-trajectory"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-coronavirus-pandemic-trajectory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-coronavirus-pandemic-trajectory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b69b69b3-5544-415e-88e3-43a2e8cdab64/12af020b-5f40-407c-be17-5b7f694053b7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -3,8 +3,8 @@ category: news
 title: "'Immense sense of pride': Caribbean diaspora celebrates Kamala Harris"
 excerpt: "Some hopeful vice-president could forward the fight for voting rights of the more than 4 million American citizens living in US territories who can’t vote"
 publishedDateTime: 2021-01-24T09:30:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president"
-webUrl: "https://www.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president"
+originalUrl: "https://www.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president?share=facebook"
+webUrl: "https://www.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president?share=facebook"
 ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president"
 type: article
@@ -133,6 +133,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "wDPC/pxsvqLZJFaThArNdsPmf84a/u6IfGcJyWbQBsI1g5gl16uBrA1LwguemRklWfaZswYQA4EwuZx/FqBcmIZObJl9vt4FKJmR/UrEttVvq6+85Apj9MCJ3lDxIG2YxpmEmSMJUUN20cmgHqNCzZg52E9zizQLVAKw+Kgc2JIuN6LwUAsrGxTZO90chUPcsxdWnoeHghz/f9jkdvHJuBf4ILtyl8wcN+I3FvPtrEMDcXXIZe/GUyuVlvCDhByP3YFVk6wKiubeGQ9jR8L0IGxRBOS5QRFLqriaFZUDeoilYX7+dk60fwGKPQCoQvoqZMWLGzJ2KscTcXefsQGX+T0B89/LiS6qmWSrW+mro/ZtYedmelkzrAONYMsEOvKN0Zaczusktj2FsHp8FJq19WoyEUKAjYzZB4Yee/uZWVGjV7hCJG8yVyI7ZgXVJmL9Sqt8ZiZKZ/7GUVmy5C3oZGmuutEYkQjo8hqlPCLxox8/KgwcYLV1+oJ4m5P7Y3IgPvxfBPzC+1F+B2ftTvnc1w==;N6nU+aHLxeDZ8xKYLJoNRg=="
+secured: "/OcuUX7PkslNyUgFfzizi7Dm81LLKjNzYhH/k3MbtecBae2Oi2e2BFVjjEM95SWq41wdbwzuiotaf2KHVEIx5HXnoRvPih9vcqZBtum76r8eeX9xQHLzM7w7sPZA4f7cvvMQ+fbynei86QovOVqzlK11cWcDwG12kvlA7OoTnEFVLOLexjpF4tf+fJ3xsYE/p534x9alwPR1h4SmaEg4nGbNw7mACVecLIgzEPdgfeia277p+5pUxa4J6/X9RG0BNStxLOV/N0mpF42uTH+7Wr7uBQit0HZ35lP99U7VIijUwmU9JYH80Xk+PmmGU1EWp9nY+IYgIXH3ocRFzdggEtCr5Z6uxm0sv1XxDU9bv/U=;K6AVsYbx0lVHRLOTl4NT1w=="
 ---
 
