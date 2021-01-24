@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Arizona Republicans Censure Party Leaders At Odds With Trump"
+    excerpt: "State GOP members passed resolutions at a meeting on Saturday to condemn three party leaders who they said failed to support President Trump: Gov. Doug Ducey, former Sen. Jeff Flake and Cindy McCain."
+    publishedDateTime: 2021-01-24T03:10:00Z
+    webUrl: "https://www.npr.org/2021/01/23/959974795/arizona-republicans-censure-party-leaders-at-odds-with-trump"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final_sq-ecdd1508be24f14c6b6ee98e6627cbf2be192ea6-s800-c15.jpg"
+        width: 800
+        height: 800
+        isCached: true
 
 secured: "jQlF5TZ5Vn95RReTcloV4RkKawfIVCwzaZEQcqs99PEHfrLPmJO/BE4tF0RbynQKgaPkYLnCYkRtFxE4L0TfF5sH/QfMp24Vnbt3D1G7MIfOUpxO7hcf1N/QH2f3AJMWMeEiUS+fMOrCuxZBJe71w1hrv/5bXhpa475mT31pt/HxAeaewQqX797dDnVKY5v/sy1OLbWJlP5Xrp0G+XPxDay3eNlLoSQkU8DQHuflW0K9/+BJMSNGngE7GprRn3tO8BxGhrgLpd8/lI7i12nwAUfFBVWeS6CA5PcTZpHoa7z3wmU77inWhc1IBZUK5+Ygx+K1klAsCAC7xK5a7GIfh1LtoUo9DgAEzjpKaocEjP/7CXl/UxKS0GO7Aj9AB44YVvSTzWuCaJ2rPjSyKOFVvtzFNy6eG8MIFn9kzOuCjw+slGZdXQsseHyvoOGfLyeZIHaoAmGO6xGpDMqgnuB9cCl+hS87u9Sj+qe/w0iuMdxCD3tzVpYVsI++Q9OeJqjyYsEebupivb5jymYKJrLL3Q==;/8btSLS4G2WuPteT9ArIhA=="
 ---

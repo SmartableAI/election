@@ -586,19 +586,19 @@ related:
         isCached: true
   - title: "AKA sorority members celebrate Kamala Harris inauguration"
     excerpt: "Elizabeth Shelby had her inauguration outfit planned weeks in advance: blue jeans, a Kamala Harris sweatshirt, a green coat, and pink Chuck Taylors as an homage to her sorority’s colors and Vice President Harris’ signature shoe."
-    publishedDateTime: 2021-01-22T08:11:00Z
-    webUrl: "https://www.washingtonpost.com/local/aka-sorority-members-celebrate-kamala-harris-inauguration/2021/01/21/7a08a1c4-5c5f-11eb-a849-6f9423a75ffd_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/aka-sorority-members-celebrate-kamala-harris-inauguration/2021/01/21/7a08a1c4-5c5f-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/aka-sorority-members-celebrate-kamala-harris-inauguration/2021/01/21/7a08a1c4-5c5f-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    publishedDateTime: 2021-01-22T08:30:00Z
+    webUrl: "https://abcnews.go.com/Lifestyle/wireStory/aka-sorority-members-celebrate-kamala-harris-inauguration-75407163"
+    ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/aka-sorority-members-celebrate-kamala-harris-inauguration-75407163"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/aka-sorority-members-celebrate-kamala-harris-inauguration-75407163"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Lifestyle/WireAP_7b5fa8ae6e0f4bdf9a8305a11105f665_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Kamala Harris to move temporarily to Blair House"
     excerpt: "Vice President Kamala Harris and her husband, second gentleman Doug Emhoff, will temporarily move to Blair House, which is near the White House, before moving to the vice president's residence at the Naval Observatory,"
@@ -911,6 +911,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/19/780b0eb7-ef1b-472b-989e-50607be45824/thumbnail/1200x630/2bfa0e05a76d1a6da16f7c53a8079505/gettyimages-1230547965.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Fact check: Kamala Harris did rest her hand on the Bible when sworn in as vice president"
+    excerpt: "Users on social media are making the claim that U.S. Vice President Kamala Harris did not place her hand on the Bible but on a purse or a glove when sworn in on Jan. 20, invalidating her oath. This is false,"
+    publishedDateTime: 2021-01-22T19:56:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-harris-bible-not-purse-idUSKBN29R1U6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R1U6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R1U6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548722692&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L10C"
+        width: 832
+        height: 545
         isCached: true
   - title: "Blended families see themselves in Kamala Harris as she becomes 1st stepmom vice president"
     excerpt: "When Kamala Harris takes the oath of office Wednesday to become vice president, she will be the first woman and first woman of color to serve in that elected position. Harris will also make ..."

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden, UK's Boris Johnson discuss Paris accord, trade, coronavirus"
+    excerpt: "President Biden had his first phone call with British Prime Minister Boris Johnson on Saturday, where Johnson pressed the new president for a U.S.-U.K. trade deal. "
+    publishedDateTime: 2021-01-24T01:20:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zc_6kiHuKl8/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Joe-Biden-Oval-Office-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden coronavirus adviser hawked masks he said would 'deactivate' COVID-19"
     excerpt: "Andy Slavitt, an incoming White House adviser for the coronavirus response team, cut ties with a mask manufacturing company that had offered him paid promotions. "
     publishedDateTime: 2021-01-21T00:43:05Z
@@ -63,22 +79,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden launching Public Health Jobs Corps, host of executive orders to address COVID-19"
-    excerpt: "President Biden laid out on Thursday a strategy for addressing the coronavirus that included increasing funding and the number of federal employees deployed to meet an ambitious set of goals for countering the pandemic."
-    publishedDateTime: 2021-01-21T10:07:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MszcJ-LSwMc/biden-coronavirus-strategy-executive-orders"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-strategy-executive-orders.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-strategy-executive-orders.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbbb4448-7269-4978-8efc-90bb155801cf/b7d0f268-1824-4f6f-9047-a126c13f1ea6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "White House: 'Critical' for Congress to pass Biden stimulus check, coronavirus relief plan"
     excerpt: "The White House on Thursday said it is \"critical\" that Congress act \"quickly\" on President Biden's proposals for coronavirus economic relief after a report showed that 900,000 Americans filed new unemployment claims last week, saying \"long-term scarring\" will only worsen\" with delay."
     publishedDateTime: 2021-01-21T18:44:58Z
@@ -108,22 +108,6 @@ related:
     quality: 158
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42062da5-16e0-4037-a730-e3584328ccb1/18454cad-9594-4df4-929b-9de43f9366d1/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Psaki hints Biden may skip bipartisan deal on COVID-19 if needed: 'Not going to take any tools off the table'"
-    excerpt: "President Biden has signaled that he wants to secure bipartisan support for another coronavirus relief package, but his administration is refusing to rule out unilateral action by congressional Democrats on the next round of emergency aid. "
-    publishedDateTime: 2021-01-21T19:27:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LfrsAcP4MT8/psaki-hints-biden-may-skip-bipartisan-deal-on-covid-19-if-needed-not-going-to-take-any-tools-off-the-table"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-hints-biden-may-skip-bipartisan-deal-on-covid-19-if-needed-not-going-to-take-any-tools-off-the-table.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-hints-biden-may-skip-bipartisan-deal-on-covid-19-if-needed-not-going-to-take-any-tools-off-the-table.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02ffb9d0-2cf9-48be-ab41-b1de73501fc5/9e9d4d74-cf2f-45e3-b809-ad89a8a6aee2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

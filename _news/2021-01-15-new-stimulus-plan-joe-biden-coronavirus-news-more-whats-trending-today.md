@@ -153,6 +153,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden administration vows to improve coronavirus response"
+    excerpt: "Through additional financial relief plans, faster vaccine distributions, and clear public messaging, the Biden administration is pledging to tackle the coronavirus pandemic. Skyler Henry has more on the Biden administration's efforts."
+    publishedDateTime: 2021-01-23T23:49:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-administration-vows-to-improve-coronavirus-response/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/23/aeb84055-2f4e-4960-b33d-2bd16d1a6371/thumbnail/1200x630/cf6482d89fb7f95a16f268c3ed0793ad/cbsn-fusion-biden-administration-vows-to-improve-coronavirus-response-thumbnail-632210-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Coronavirus live: Joe Biden receives Covid vaccine; UK warned to expect further restrictions"
     excerpt: "Joe Biden receives the coronavirus vaccine; Sir Patrick Vallance suggests more areas may need to enter tier 4; PM says border delays only affecting small amount of freight"
     publishedDateTime: 2020-12-21T22:06:00Z

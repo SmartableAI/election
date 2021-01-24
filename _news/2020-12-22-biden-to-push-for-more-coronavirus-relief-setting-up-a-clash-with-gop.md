@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gop-covid-aid/2020/12/21/e7a6201c-43aa-11eb-a277-49a6d1f9dff1_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
     quality: 105
     images:
       - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden administration vows to improve coronavirus response"
+    excerpt: "Through additional financial relief plans, faster vaccine distributions, and clear public messaging, the Biden administration is pledging to tackle the coronavirus pandemic. Skyler Henry has more on the Biden administration's efforts."
+    publishedDateTime: 2021-01-23T23:49:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-administration-vows-to-improve-coronavirus-response/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/23/aeb84055-2f4e-4960-b33d-2bd16d1a6371/thumbnail/1200x630/cf6482d89fb7f95a16f268c3ed0793ad/cbsn-fusion-biden-administration-vows-to-improve-coronavirus-response-thumbnail-632210-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

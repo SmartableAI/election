@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-sorority-sisters-alph
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-sorority-sisters-alpha-kappa-alpha/"
 type: article
 quality: 110
-heat: 250
+heat: 270
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/16/05/13/20468433/3/rawImage.jpg"
         width: 2048
         height: 1352
+        isCached: true
+  - title: "Kamala Harris' inauguration dress made by Louisiana designer"
+    excerpt: "BATON ROUGE, La. (AP) — The father of the Baton Rouge native who designed Kamala Harris’ dress for Wednesday’s inauguration said watching the vice president take the oath of office in a purple dress his son designed is one of the proudest moments of his life."
+    publishedDateTime: 2021-01-23T12:42:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-inauguration-dress-made-by-15892985.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/Kamala-Harris-inauguration-dress-made-by-15892985.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Kamala-Harris-inauguration-dress-made-by-15892985.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/21/64/20520240/19/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Kamala Harris' Inauguration Dress Made by Louisiana Designer"
     excerpt: "BATON ROUGE, La. (AP) — The father of the Baton Rouge native who designed Kamala Harris’ dress for Wednesday’s inauguration said watching the vice president take the oath of office in a purple dress his son designed is one of the proudest moments of his life."

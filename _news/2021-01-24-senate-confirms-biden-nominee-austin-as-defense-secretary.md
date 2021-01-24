@@ -3,8 +3,8 @@ category: news
 title: "Senate Confirms Biden Nominee Austin as Defense Secretary"
 excerpt: "Lloyd J. Austin, a West Point graduate who rose to the Armys elite ranks and marched through racial barriers in a 41-year career,"
 publishedDateTime: 2021-01-23T16:04:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/01/23/senate_confirms_biden_nominee_austin_as_defense_secretary_145110.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2021/01/23/senate_confirms_biden_nominee_austin_as_defense_secretary_145110.html#!"
+originalUrl: "https://www.realclearpolitics.com/articles/2021/01/23/senate_confirms_biden_nominee_austin_as_defense_secretary_145110.html"
+webUrl: "https://www.realclearpolitics.com/articles/2021/01/23/senate_confirms_biden_nominee_austin_as_defense_secretary_145110.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/23/senate_confirms_biden_nominee_austin_as_defense_secretary_145110.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/23/senate_confirms_biden_nominee_austin_as_defense_secretary_145110.amp.html"
 type: article
@@ -331,6 +331,6 @@ related:
         height: 500
         isCached: true
 
-secured: "/jKUBx7JzkAVQ1YvOAlMlL6oQVYWFK85GtSj7bmUQZ1EJeO/9Le7rpzH5zDo8xI3FRRsd0KEhqyWADFauQs9Z9mbqxpnG9Acr3Vvqjy2AH+NnvfACysKXf02eLh8yiYqqJVie6lJG1l79OGr4kRdRGB82OuJqJT4m7ALVtCXZqsQ4hEripv9SJuAmSbyv+0+o5O2s94C66arshJYjcRVMqWeW/pMkR1GbpJzEsSZ5heEDBWuY0ZuLzvcMOxtGGWUjVhZEPlE/IBPCGrL/zr4CSubDhAu3Gc5p46TF6mta4FiFv04Ic1Rib6ySf39YY9jvxAzaYgZtquJYzzTrekgeuwumQO1I29mlQG5+4WIN50AmW1VFUQMCZ7VliJQmMAPqF21Kv+gNnfyO6DcEbPk9rtsRCyeoc3OQQUU9AFWehW31Iv5RziW6yMcpdvEiTKROsE5NAsvAu2UhM2oKkFhr/tBL6eDXM1Di0z6BTfkTT1CNwuyQt+5nmVln79wcXuKj0nHUlhVyMZsKNKlWZsJ7A==;K60VSpByHgcGG3xTZfppmw=="
+secured: "k8YH60b9+ytC9ffdAYebfI3ErBlPnHZ6ML8Qi1xz+vgLMFpJE9D7ZTHCyngEix6XCWqtvuITgxvdVhqSi2WcBXAgsSFYQJh7pGM/dW2s97BrHnziBDgDi8RDHqymr0juJ31dKGQXkBOjl6PmLEHAXTn1pp0SkYLs6TKQGkVKNrUeZVOkCdKjZMv2iq0Xc4ArgQNDT4pIWmV9TEjxW74mw63htitKwPXPHQ0eiRqqtiTVoMUqZPJeM+IwCeLjyup63+p7gBLoV90lBcnvjPamy3ouQxRfUkhm9Dm4RY77LdVpjsHR3rpwv+LJWrfUIiV7xKz5LFlcGpncmmtuxWG7ATJdTFZs+r5nGSBZ64jGW38=;8y0C/6R2ViZKGKGHolL0zw=="
 ---
 

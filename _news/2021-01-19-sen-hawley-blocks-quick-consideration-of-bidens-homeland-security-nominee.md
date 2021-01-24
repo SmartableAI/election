@@ -879,6 +879,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Wall Street Journal: Trump pressured DOJ to file case with Supreme Court to overturn election results "
+    excerpt: "Former President Donald Trump pushed the Department of Justice to directly ask the Supreme Court to invalidate President Joe Biden's election win, people familiar with the matter told the Wall Street Journal.\n    \n"
+    publishedDateTime: 2021-01-24T04:09:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CVmSgRr0r0c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/23/politics/trump-department-of-justice-supreme-court-election-results/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/23/politics/trump-department-of-justice-supreme-court-election-results/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119161957-01-trump-farewell-video-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden names acting agency heads as his Cabinet nominees remain unconfirmed"
     excerpt: "President Joe Biden on Wednesday announced a slate of acting agency heads after taking office without a single one of his Cabinet nominees in place and confirmed by the US Senate.\n    \n"
     publishedDateTime: 2021-01-20T21:47:06Z
