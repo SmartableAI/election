@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T01R"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T01R"
 type: article
 quality: 134
-heat: 394
+heat: 414
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/6cc7a11350a4b08cff15732085b6cd0c07a383e8/0_188_2837_1703/master/2837.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0dc5bd61e9b0dc76199d6d0771b4bd07"
         width: 600
         height: 360
+        isCached: true
+  - title: "Arizona GOP narrowly reelects Chairwoman Kelli Ward, a Trump loyalist who spread false election fraud claims"
+    excerpt: "The closely watched result offers an early, state-level indication that Trump retains sway over the activist GOP base, though it is more tenuous."
+    publishedDateTime: 2021-01-24T14:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/24/arizona-gop-reelects-kelli-ward-censures-cindy-mccain-jeff-flake-doug-ducey/6692657002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6692657002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6692657002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/PPHX/f063a3d8-bbc8-4d8b-9728-245e41c58cf1-cent02-7dyzmbiscdh80zdihle_original.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump entertained plan to install an attorney general who would help him pursue baseless election fraud claims"
     excerpt: "The plan would have pushed out Jeffrey Rosen as acting attorney general and promoted a Trump devotee to lead the Justice Department."

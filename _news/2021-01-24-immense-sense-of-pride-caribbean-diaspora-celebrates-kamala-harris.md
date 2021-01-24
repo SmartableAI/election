@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/24/kamala-harris-caribb
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Latest line: A good week for Kamala Harris, bad one for oil industry"
+    excerpt: "Oil industry Biden vows to block new drilling on public lands across the West, crack down on pollution and greenhouse emissions, and push former industry lobbyists out of government jobs. Alex Padilla Former California secretary of state is sworn in as the state’s first Latino U."
+    publishedDateTime: 2021-01-24T14:11:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/24/7772973/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/24/7772973/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/24/7772973/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/BNG-SWEARIN-0121-010.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Kamala Harris’ historic rise as U.S.’s first Black, Caribbean-American VP celebrated"
     excerpt: "Vice President-elect Kamala Harris, left, and Felicia Persaud, a long-time Caribbean activist during a virtual celebration of Harris’ historic rise ahead of Jan. 20, 2021 inauguration of U.S. President-elect Joe Biden. Courtesy of Invest Caribbean ..."
     publishedDateTime: 2021-01-18T00:27:00Z
@@ -117,6 +133,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "SKawDT9eVVr03P2BEpgp2w38HmUqCsN2I3hziqtlMEK+r0PR905aSkTmuutiuHCtTy7W08lpYptLZrYCou0yV5A6QGb4EWfLHpkZtjn3uF5ykt4lxR/qW3XLUkQ+G9s4iOl/vkHl8Y8ZQYcb9eANWcuUbkdP6gxNo9GeNJIQMtP6f7t9EDHPjK+3zXYOqd4AmmXGYQFOTzWYI22MQTU4mg7oXILFeGp0ycRD3zy1PWwAQRJf5/wDcBoEf2EO3ZBZ6trU5GhrOQ97SJsi3OPtdLBQ1q6+AuEA87KaNrhJKTt+zqeGvnLreG85wXEGmO2KuZETdO0wtMVj/x1Yc42CjvHCwCC2NPfUidDimmxdqKo=;el+2W8sjLGkyFUbPKog+iw=="
+secured: "wDPC/pxsvqLZJFaThArNdsPmf84a/u6IfGcJyWbQBsI1g5gl16uBrA1LwguemRklWfaZswYQA4EwuZx/FqBcmIZObJl9vt4FKJmR/UrEttVvq6+85Apj9MCJ3lDxIG2YxpmEmSMJUUN20cmgHqNCzZg52E9zizQLVAKw+Kgc2JIuN6LwUAsrGxTZO90chUPcsxdWnoeHghz/f9jkdvHJuBf4ILtyl8wcN+I3FvPtrEMDcXXIZe/GUyuVlvCDhByP3YFVk6wKiubeGQ9jR8L0IGxRBOS5QRFLqriaFZUDeoilYX7+dk60fwGKPQCoQvoqZMWLGzJ2KscTcXefsQGX+T0B89/LiS6qmWSrW+mro/ZtYedmelkzrAONYMsEOvKN0Zaczusktj2FsHp8FJq19WoyEUKAjYzZB4Yee/uZWVGjV7hCJG8yVyI7ZgXVJmL9Sqt8ZiZKZ/7GUVmy5C3oZGmuutEYkQjo8hqlPCLxox8/KgwcYLV1+oJ4m5P7Y3IgPvxfBPzC+1F+B2ftTvnc1w==;N6nU+aHLxeDZ8xKYLJoNRg=="
 ---
 

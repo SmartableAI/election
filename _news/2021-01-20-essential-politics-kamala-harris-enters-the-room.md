@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Latest line: A good week for Kamala Harris, bad one for oil industry"
+    excerpt: "Oil industry Biden vows to block new drilling on public lands across the West, crack down on pollution and greenhouse emissions, and push former industry lobbyists out of government jobs. Alex Padilla Former California secretary of state is sworn in as the state’s first Latino U."
+    publishedDateTime: 2021-01-24T14:11:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/24/7772973/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/24/7772973/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/24/7772973/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/BNG-SWEARIN-0121-010.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Kamala Harris’ historic rise as U.S.’s first Black, Caribbean-American VP celebrated"
     excerpt: "Vice President-elect Kamala Harris, left, and Felicia Persaud, a long-time Caribbean activist during a virtual celebration of Harris’ historic rise ahead of Jan. 20, 2021 inauguration of U.S. President-elect Joe Biden. Courtesy of Invest Caribbean ..."
     publishedDateTime: 2021-01-18T00:27:00Z

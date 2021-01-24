@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "In Rural Montana, a Hope That Biden Will Reopen the Rails"
+    excerpt: "The North Coast Hiawatha hasn’t run through Montana since 1979. Now cities like Billings, Bozeman, Helena and Missoula are hoping that “Amtrak Joe” will help fund new rail service."
+    publishedDateTime: 2021-01-24T14:53:00Z
+    webUrl: "https://www.nytimes.com/2021/01/24/us/montana-rural-railroad-amtrak.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/24/us/montana-rural-railroad-amtrak.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/24/us/montana-rural-railroad-amtrak.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/22/us/24montana-railroad00/24montana-railroad4-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "VBli21EJ1jfaFYHZQQ8bpugm/lZT/97N0g/Gm2dbO25H4kRIqwOSVqWkwKVtDAOvnwom+gXhrDpEvwCZi+fJikpJWeesdoQ2ibgRKATOAyYiWnHax6ENOdVBtSjIN7KCdm2NCB05Y4XdfEK29q7A+NlTkDmJDTDCW4sT/k71S1IFW9VfytDxW+aE6t2Iq6vaADq1S1gLTcJ3JDfi7qVXATQBikaml227T76GQesvUoI2nTE4HUk58k3ldxwiDj5/FjyzMLpsbqV24GpPRNqe9uRMo5S4Eyifd/nDsgtWihmfGnc36x5R8G2BbNgEd9Dc88HlnGAzfB5tcj/pWlmWF66vZbjjrRUcbmGNhr/TgBSjQIljfhbnaupwFxS4RtMQ3UyGtSkOtwsUtBcOSfsnpxNy1NaWHJjmGdq4jIf0J0t87oDjm4HnbnIsYyP3Sl7KX7AIWUqM0tDroiPjxowSo/byO2gjvUD3ggdSdppt9+TTNJrTDkDIgAr3rXAUpZl7tuDGugR/+cEfcUnVJDnMbw==;zpT2qU/a+l1J1v65CuaIog=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/student-loan-payment-def
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/student-loan-payment-deferrals/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120131317-paris-climate-accord-biden-announces-us-to-rejoin-landmark-agreement-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "In Rural Montana, a Hope That Biden Will Reopen the Rails"
+    excerpt: "The North Coast Hiawatha hasn’t run through Montana since 1979. Now cities like Billings, Bozeman, Helena and Missoula are hoping that “Amtrak Joe” will help fund new rail service."
+    publishedDateTime: 2021-01-24T14:53:00Z
+    webUrl: "https://www.nytimes.com/2021/01/24/us/montana-rural-railroad-amtrak.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/24/us/montana-rural-railroad-amtrak.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/24/us/montana-rural-railroad-amtrak.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/22/us/24montana-railroad00/24montana-railroad4-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "'That's Cesar Chavez!': Bust of civil rights icon behind President Joe Biden stirs excitement"
     excerpt: "\"Placing a bust of my father in the Oval Office symbolizes the hopeful new day that is dawning for our nation,\" says Paul Chavez, the civil rights icon's son."

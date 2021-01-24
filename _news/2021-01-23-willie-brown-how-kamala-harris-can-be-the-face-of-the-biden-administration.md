@@ -3,18 +3,20 @@ category: news
 title: "Willie Brown: How Kamala Harris can be the face of the Biden administration"
 excerpt: "Make no mistake, President Biden is the star of the new administration. But it was our own Kamala Harris in her new role as the multiracial, multicultural, Democratic female power ideal who stole the show on Inauguration Day."
 publishedDateTime: 2021-01-23T12:00:00Z
-originalUrl: "https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
-webUrl: "https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
-ampWebUrl: "https://www.sfchronicle.com/bayarea/williesworld/amp/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
-cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/williesworld/amp/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
+originalUrl: "https://www.houstonchronicle.com/bayarea/williesworld/article/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
+webUrl: "https://www.houstonchronicle.com/bayarea/williesworld/article/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
 type: article
-quality: 88
+quality: 118
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -140,6 +142,6 @@ related:
         height: 675
         isCached: true
 
-secured: "51X8jM41PkxZ7dAGMwoWf3Y0ihtdosfswLm2H3NNvSlpCXV3FvQOzIdBj9RbVsX3Kv8LumprfJ+UX13R8sDS9/RP4L+PsQz1B2j/tQx286iz3UCoDpkWF7dJhdH41977xIhQ0wZ8E0w3R2Y5LtPXufnP3jbLWDDwB3ZcIoBbjnbK0QI8TP+FFroOLzrW4L+hFf/4gPmYGSfPyCot8fC0AY7NZBkTgmSdUtVSrh2twRpIP95SlK7d7K+4WPyBVZcJCr0Jdn7yHqG5t5PMUdN62LnqrL+KaH8cq9dQsYybrWXkjHe9OcuelLmqlhFdJshhezpSKr6WyTbQ7wcz8+tAjP+ygHar3UsN+2V7qy6HYNRIJhY4WtJEWCeug5WipQ1WksgWrWJWx06NRGeWZpvNPYtdqjAelQY93DkCSK7EaijnPHntSoIpumBTPgMmz7I8i4acxNdoyJ5aHnnhlew6qNbBIy/h1UME45AuEyod12V9JpCr4DfSAV0jM/6CJmQsKbddeeUtJ6/7wfU7zvAuew==;0iabLX42LDACmVxkkUyuxA=="
+secured: "aN0y8rn9rQZ5RczxlM2AVQ9zBE4hrPX9yp+XtS+7MevZy/WkjL42WvtI/LA1klLoLOlI7u8p7OIGFw4D2FVrQfM+zxValmKq2eK3U36JY0wWQaIymhXLJzeZ2Ngdzub2Nq2e2H4ccY2OCLEfsYF/qS4N0xjaFYpG6p5qUeOtI1mXHKZAcW7Y9jA2RH2jtDSVR5avnMkhk+0/3sJeg6TU8hszkzlfVugRHmUe/7zhG5jq2MmyUd8B3tzGjFut0/Q9lstv6A11nz7S1eLQ1uPi2c9lsf1m44RR7oCRVyen8Q8ycGmjw8OPjy8uxIU18qdEWCFmVQ9vBzraFOctsv1YMxQTqIdpP8ThoDZG4Zigu80=;KVSKKWyLlJT/WnYivLj/fg=="
 ---
 

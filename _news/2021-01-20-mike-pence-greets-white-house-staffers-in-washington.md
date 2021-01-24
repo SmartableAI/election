@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Mike Pence Greets White House Staffers in Washington"
-excerpt: "U.S. Vice President Mike Pence walks back to his office after greeting staff members outside the West Wing of the White House in Washington, DC on January 19, 2021. Pool Photo by Yuri Gripas/UPI"
+excerpt: "U.S. Vice President Mike Pence poses for a group photo with staff members outside the West Wing of the White House in Washington, DC on January 19, 2021. Pool Photo by Yuri Gripas/UPI"
 publishedDateTime: 2021-01-19T21:04:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/25bc45373058306b5a157b22e066ef20/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/25bc45373058306b5a157b22e066ef20/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/31056b39c3bed6e8184373d7a3205b2f/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/31056b39c3bed6e8184373d7a3205b2f/Mike-Pence-Greets-White-House-Staffers-in-Washington/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Mike Pence
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/25bc45373058306b5a157b22e066ef20/PENCE-STAFF.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/31056b39c3bed6e8184373d7a3205b2f/PENCE-STAFF.jpg"
     width: 650
     height: 433
     isCached: true
@@ -3003,6 +3003,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "9Am+TSN7nSWUgli+9vgNsUzSag1UI+7JMlqBDO6mr4RjI2NNLoUdVlgMr00/smuRJK+CeWUaGa8QyVKMAdK8cXvyjmPlEUH/y4x4geWXQGAFiUYYd8eoj/re8YRqpYt1BR4kGRKceMdPPe/477scS4RQJPJLEkE9FK8oXa4PPbVhc8yoJj8TnLN+DgueZaWg+65H12AwbqwWuRPC0i+dJ9q9KwkLSSwmR3WKaysq67gbr3XFUY3gHrX2hWC/xxd/NEPpIxuRXx9G+iTHpqJsYeSQsu0OxAtuGbs10l+QIxzjYjG1Y/iC4UpHFwvYv77XewN7vem0DKsRtS2vtk+1Rv9Rrsg+PLLQDawJp7sb9d4=;/YxiESJED7tn/hHMdJb+XQ=="
+secured: "C15/XWu9QWMJgBIZzLVgNBs4dur38rZ0c6KANYAPnvALXgqYYQ73CL4uQJj7sC3wlTm/zHemyjlD1KAmeAS1iQm2IDduVEWPdii5zgU+8c/W0Hlcf7bzQi5EzqcYYudUaqX8hKlg//YuDidfztwxuh7mPCeDBGIUPOD8ka1xglEhZTDTbkwnifvKMzhvvydjoXTjLZyUT5Vg9Zx3XbUO/9C4CZTTnpfgB1fod/dhdA5xLE3ts6G13GQIIqb7IqSTH8vLgV+25GIbaQYXqoqG+jjee8GTY9NdrwvUbXQmLszjmqt/noWVLNJdsmju2JtSOBlPTIiMLTPLq5NNXzdSpFkQRlwFeHMOliO/+s4mdI4=;OP2QrxDuax52lxgr2KNcxQ=="
 ---
 

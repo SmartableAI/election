@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-21-mcconnell-biden-took-several-big-steps-in-the-wrong-direction-on-day-one.md",
+      "title": "McConnell: Biden ‘took several big steps in the wrong direction’ on Day One",
+      "excerpt": "Just one day after President Biden spoke of unity in his inaugural address to the nation, Senate Minority Leader Mitch McConnell says the Democrat president has headed in \"the wrong direction.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Iyf0TbGgP1w/mcconnell-biden-took-several-steps-in-the-wrong-direction-on-day-one",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Iyf0TbGgP1w/mcconnell-biden-took-several-steps-in-the-wrong-direction-on-day-one",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad6f975f-2399-413d-a8ab-145d8c6f7a59/a3cbad7f-2295-4d5f-8b56-7ffdfa70f118/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-biden-took-several-steps-in-the-wrong-direction-on-day-one.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-took-several-steps-in-the-wrong-direction-on-day-one.amp",
+      "publishedDateTime": "2021-01-21T13:20:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-ivanka-trump-and-jared-kushner-move-out-of-dc-and-lease-luxury-condo-in-miami.md",
       "title": "Ivanka Trump and Jared Kushner move out of DC and lease luxury condo in Miami ",
       "excerpt": "Ivanka Trump and Jared Kushner have moved out of their Washington, DC, home, and have signed a one-year lease on a luxury condo in Miami at the Arte, an expensive oceanfront residential building, a source familiar with the couple's move confirmed to CNN.\n    \n",
@@ -1319,63 +1375,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-a-total-failure-the-proud-boys-now-mock-trump.md",
-      "title": "‘A Total Failure’: The Proud Boys Now Mock Trump",
-      "excerpt": "Members of the far-right group, who were among Donald Trump’s staunchest fans, are calling him “weak,” in a sign of fraying support.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/20/business/20noproudboys1/20noproudboys1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/20/technology/proud-boys-trump.amp.html",
-      "publishedDateTime": "2021-01-20T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

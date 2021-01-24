@@ -109,6 +109,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Arizona GOP narrowly reelects Chairwoman Kelli Ward, a Trump loyalist who spread false election fraud claims"
+    excerpt: "The closely watched result offers an early, state-level indication that Trump retains sway over the activist GOP base, though it is more tenuous."
+    publishedDateTime: 2021-01-24T14:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/24/arizona-gop-reelects-kelli-ward-censures-cindy-mccain-jeff-flake-doug-ducey/6692657002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6692657002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6692657002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/PPHX/f063a3d8-bbc8-4d8b-9728-245e41c58cf1-cent02-7dyzmbiscdh80zdihle_original.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump entertained plan to install an attorney general who would help him pursue baseless election fraud claims"
     excerpt: "The plan would have pushed out Jeffrey Rosen as acting attorney general and promoted a Trump devotee to lead the Justice Department."
     publishedDateTime: 2021-01-23T08:23:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden to the Rescue (Plan)"
 excerpt: "Biden economic adviser Jared Bernstein joins the Ross Douthat and Michelle Goldberg on The Argument to allay their doubts and volley questions about the new president’s “Rescue Plan” to resuscitate America’s work force and even out an inequitable economy."
 publishedDateTime: 2021-01-24T06:57:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/01/24/joe_biden_to_the_rescue_plan.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/01/24/joe_biden_to_the_rescue_plan.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2021/01/24/joe_biden_to_the_rescue_plan.html"
+webUrl: "https://www.realclearpolitics.com/video/2021/01/24/joe_biden_to_the_rescue_plan.html"
 type: article
 quality: 65
 heat: -1
@@ -2938,6 +2938,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "n8EhJ20d01tvyI5v7ganJHTo9iswlAZ7FsT1q6qx8sUT9nYOFSsWW1fiuVgV8Mb88P82za8u/anr3aPNIWHzcGs0cgl8Z1CUR+DcDzXj6avz5k53iHl+UwOn448yBM6i3AUY4llwf6Xeuda/E7p7B37zMx6VIO/3RCe7bv4SGW4IB8j1c48OZskN5p/oCMUSSt/q3CpPtHab0jxaponziJDEQm5tJ/R09I1T8Dun3P5afOebysqbObKbNbOkK2q7WpXzcW71NEsLqFcBlfZ3CIg0uGh6kygavG9yHgj7b3AB5rTMBXq3OAgBVuSziZHaMbDSovf6jsh3lEjOGfUqRed49MM3ADz+a3u+mArpw/U=;npDI71Hn9Se2LfnU3pQ+sQ=="
+secured: "gpVdET2G6erg1CSRuhaNy7tBnKjycfDDcE9yj7pmSuHDdz39bJ9FaqjkR0T7SdkDQ3j5pO9UEJ2R3HB/QlWP9b3URZQ5arOk+QAQ/eQ0lGAgYmmCkEDzUL/kOxzhWicsodQTNNBf1LRz8bKeC23xaxcPJIolpvn7T/zGMVwLxyWV9E2sp0WFuktmd7/MbzdmM8JqEL5yrUAEC8IeXHQjGr6vm0Hq5tCPye4UaB3buYOqkP5tMYLrAJhzRFdq9bOysU8G3sQYiOywUnITE9Dg6BZ1yG83A/HMKkgt9V9HmXnhzf7CmU1lkjkE1Wae+H4P+Apq2FOdJloT/wQANmAsw5FXWkYCDvvutlHLQumW96M=;ZqmwCZnntQAT0yJDWdDZ9w=="
 ---
 

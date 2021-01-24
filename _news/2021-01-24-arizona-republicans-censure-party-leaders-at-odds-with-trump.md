@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Analysis: Chronicling Donald Trump’s 10 worst abuses of power"
+    excerpt: "Former President Donald Trump flouted the limits of presidential power unlike any of his recent predecessors, leaving behind a legacy of unmatched abuses that range from violations of longstanding"
+    publishedDateTime: 2021-01-24T14:50:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/24/analysis-chronicling-donald-trumps-10-worst-abuses-of-power/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/24/analysis-chronicling-donald-trumps-10-worst-abuses-of-power/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/24/analysis-chronicling-donald-trumps-10-worst-abuses-of-power/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/210114155358-20210114-trump-most-egregious-abuses-of-power-super-169.jpg?w=1024&h=576"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "hSuC/hYrlpMEJig1UmZbcg9crCalT+5dZU0/DyNET98tiMBWMeKUUa7bFP7qpyBJWJccZaocaWMokmBMLFW7ccGRsaS7QwEW/yO28/5dH17hEJu9KslzmLv8AR2yjymWglBKvhyco2UiGZMXsVldOYGBTxsFlLfMF+7uUeRTkFVyyQxXuzxyyH6tlHGhbk4xD3LJgcE5MiIqBZMW4RAamggDtuPQ7rYrBeE7hMNblrbn8RKwJ9vNilikX1zHdhGvLegCI8HrcTYq6QmjKu1mF44CnA9t2AHyjI02m6nR2LqULIxcIt7PVHZo9U88VDaXg+0sRcK+YAdns53aLXIkC7/QU6Ffk7R+/KTircFU/eIQsymOjShxHzW5TNqPNzBAdUFexHFu18LjMDfAkoHCLTwGkm4YfqagTugbA31JEuMwLcz2nsqE6nioLVMiHFT/2N5qqf54qXb5cIKmkIZ7CLKZKmTrTmQzkoyQq95hHKJW+4DGldjplEL5yEl8Ht7qgIvJ/f05+8kawMX6c4olRg==;aO4z55y28CNeP1wAx+HRbQ=="
 ---

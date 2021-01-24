@@ -2,6 +2,63 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-13-kamala-harris-vogue-cover-defended-by-anna-wintour-amid-controversy.md",
+      "title": "Kamala Harris' Vogue cover defended by Anna Wintour amid controversy",
+      "excerpt": "Vogue editor-in-chief Anna Wintour has spoken out after the magazine's cover shoot featuring Vice President-elect Kamala Harris received backlash.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/kamala-harris-vogue-cover-defended-anna-wintour-controversy",
+      "originalUrl": "https://www.foxnews.com/entertainment/kamala-harris-vogue-cover-defended-anna-wintour-controversy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Kamala-Harris-Anna-Wintour.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/kamala-harris-vogue-cover-defended-anna-wintour-controversy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/kamala-harris-vogue-cover-defended-anna-wintour-controversy.amp",
+      "publishedDateTime": "2021-01-12T17:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-watch-live-pence-dismisses-25th-amendment-as-house-votes-to-encourage-its-use.md",
       "title": "Watch Live: Pence dismisses 25th Amendment as House votes to encourage its use",
       "excerpt": "Pence said it's his belief the 25th Amendment is intended to be invoked when the president is incapacitated, not in a situation such as this, and said invoking the 25th Amendment",
@@ -1319,62 +1376,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-washington-monument-closes-through-bidens-inauguration-due-to-credible-threats.md",
-      "title": "Washington monument closes through Biden's inauguration due to 'credible threats'",
-      "excerpt": "The National Park Service said Monday it is suspending tours of the Washington Monument until Jan. 24 or longer due to \"credible threats\" from groups involved in the violence at the U.S. Capitol on Jan. 6.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dajmyjyCwaA/washington-monument-biden-inauguration-threats-tours",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dajmyjyCwaA/washington-monument-biden-inauguration-threats-tours",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21006605506135.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/washington-monument-biden-inauguration-threats-tours.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/washington-monument-biden-inauguration-threats-tours.amp",
-      "publishedDateTime": "2021-01-11T09:47:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Latest line: A good week for Kamala Harris, bad one for oil industry"
+    excerpt: "Oil industry Biden vows to block new drilling on public lands across the West, crack down on pollution and greenhouse emissions, and push former industry lobbyists out of government jobs. Alex Padilla Former California secretary of state is sworn in as the state’s first Latino U."
+    publishedDateTime: 2021-01-24T14:11:00Z
+    webUrl: "https://www.mercurynews.com/2021/01/24/7772973/"
+    ampWebUrl: "https://www.mercurynews.com/2021/01/24/7772973/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/24/7772973/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/BNG-SWEARIN-0121-010.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "'We want to gloat': Vice President Kamala Harris' San Antonio sorority sisters celebrate"
     excerpt: "San Antonio women are celebrating one of their own as Kamala Harris becomes the first woman of color to be inaugurated as vice president of the United States."
     publishedDateTime: 2021-01-20T17:04:00Z
