@@ -731,6 +731,22 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "Prominent Senate Republican warns Trump trial could spark more impeachments"
+    excerpt: "A prominent U.S. Senate Republican warned on Saturday that former President Donald Trump's second impeachment trial could lead to the prosecution of former Democratic presidents if Republicans retake the chamber in two years."
+    publishedDateTime: 2021-01-24T01:42:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-impeachment-cornyn-idUSKBN29S0O7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29S0O7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29S0O7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210123&t=2&i=1548834668&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0M0FI"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden signs executive actions on COVID, climate change, immigration and more"
     excerpt: "On his first day in office, President Joe Biden signed more than a dozen executive actions, some of which reverse decisions made by his predecessor, former President Donald Trump. Several executive actions will make changes to the U."
     publishedDateTime: 2021-01-21T22:45:00Z

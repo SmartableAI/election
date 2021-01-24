@@ -121,6 +121,22 @@ related:
         width: 820
         height: 545
         isCached: true
+  - title: "Biden administration to unveil more climate policies, urges China to toughen emissions target"
+    excerpt: "U.S. President Joe Biden's administration next week will release more policies it believes are needed to tackle climate change and is urging China to toughen one of its targets on greenhouse gas emissions,"
+    publishedDateTime: 2021-01-24T02:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-climate-idUSKBN29S0PA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29S0PA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29S0PA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 114
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548840849&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0M0GI"
+        width: 812
+        height: 545
+        isCached: true
   - title: "Texas attorney general challenges deportation freeze in first of promised lawsuits against Biden administration"
     excerpt: "Texas Attorney General Ken Paxton asked a federal judge to block a new Biden administration policy that pauses most deportations for the next 100 days."
     publishedDateTime: 2021-01-22T21:45:00Z

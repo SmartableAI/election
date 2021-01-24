@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donal
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html?amp=1"
 type: article
 quality: 148
-heat: 2248
+heat: 2268
 published: true
 
 provider:
@@ -719,6 +719,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QFBYXHRLUUI6TEDOTVK3MRI6WQ.jpg&w=1440"
         width: 1440
         height: 961
+        isCached: true
+  - title: "Prominent Senate Republican warns Trump trial could spark more impeachments"
+    excerpt: "A prominent U.S. Senate Republican warned on Saturday that former President Donald Trump's second impeachment trial could lead to the prosecution of former Democratic presidents if Republicans retake the chamber in two years."
+    publishedDateTime: 2021-01-24T01:42:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-impeachment-cornyn-idUSKBN29S0O7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29S0O7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29S0O7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210123&t=2&i=1548834668&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0M0FI"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden signs executive actions on COVID, climate change, immigration and more"
     excerpt: "On his first day in office, President Joe Biden signed more than a dozen executive actions, some of which reverse decisions made by his predecessor, former President Donald Trump. Several executive actions will make changes to the U."

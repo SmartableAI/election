@@ -41,6 +41,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "'Man without a home': What the future may hold for Vice President Mike Pence"
+    excerpt: "After four years of steadfast loyalty to Trump, Pence is said to be open to a 2024 run, but his rift with the president may close off that option."
+    publishedDateTime: 2021-01-20T07:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6640990002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6640990002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Mike Pence coming to Naval Air Station Lemoore"
     excerpt: "Vice President Mike Pence will be at Naval Air Station Lemoore on Saturday to deliver remarks to sailors about the “Trump Administration’s historic foreign policy achievements,” the vice president’s office announced Wednesday."
     publishedDateTime: 2021-01-13T23:17:00Z
@@ -84,20 +100,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/frontiersman.com/content/tncms/assets/v3/editorial/1/25/1252a8aa-5a9c-11eb-b7be-b3b1bbf25a65/60074d6f6ac76.image.jpg?crop=1121%2C841%2C69%2C0&resize=840%2C630&order=crop%2Cresize"
         width: 840
         height: 630
-        isCached: true
-  - title: "'Man without a home': What the future may hold for Vice President Mike Pence"
-    excerpt: "After four years of steadfast loyalty to Trump, Pence is said to be open to a 2024 run, but his rift with the president may close off that option."
-    publishedDateTime: 2021-01-20T10:14:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 52
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?crop=3276,1843,x0,y166&width=3200&height=1680&fit=bounds"
-        width: 2986
-        height: 1680
         isCached: true
   - title: "Hear Vice President Mike Pence’s comments at Lemoore Naval Air Station"
     excerpt: "As his final days as vice president come to a close, Mike Pence shared some thoughts on the Trump administration's accomplishments during a stop at Lemoore Naval Air Station on Saturday."

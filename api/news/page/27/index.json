@@ -2,6 +2,62 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-12-16-biden-cabinet-pick-jennifer-granholm-promoted-pee-tape-russian-collusion-claims.md",
+      "title": "Biden Cabinet pick Jennifer Granholm promoted 'pee tape,' Russian collusion claims",
+      "excerpt": "Jennifer Granholm, President-elect Joe Biden's pick to be energy secretary, heavily promoted claims that President Trump's campaign colluded with Russia to win the 2016 election, even mentioning an unsubstantiated \"pee tape.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5x0QrQeLDL4/jennifer-granholm-russia-collusion-narrative-biden-energy-secretary",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5x0QrQeLDL4/jennifer-granholm-russia-collusion-narrative-biden-energy-secretary",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/gettyimages-jennifer-Granholm.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/jennifer-granholm-russia-collusion-narrative-biden-energy-secretary.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jennifer-granholm-russia-collusion-narrative-biden-energy-secretary.amp",
+      "publishedDateTime": "2020-12-16T06:19:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-analysis-federal-reserve-boneheads-emerge-from-trump-era-unscathed.md",
       "title": "Analysis-Federal Reserve 'boneheads' emerge from Trump era unscathed",
       "excerpt": "\"Boneheads.\" \"Pathetic.\" An \"enemy\" of the United States. President Donald Trump was often vicious in his critique of the U.S. Federal Reserve, bashing the central bank governors' monetary policy decisions with tweets and verbal barbs,",
@@ -1296,58 +1352,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-kamala-harris-niece-defends-sasha-obama-after-viral-photo.md",
-      "title": "Kamala Harris' Niece Defends Sasha Obama After Viral Photo",
-      "excerpt": "Meena The lawyer and niece of Vice President elect Kamala Harris took to Twitter late Sunday evening to defend the 19-year-old. \"Keep Sasha Obama's name out of your damn mouth,\" she wrote. On Sunday evening,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593",
-      "originalUrl": "https://www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1685754/meena-harris.jpg",
-          "width": 2500,
-          "height": 1406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-niece-defends-sasha-obama-after-viral-photo-1554593?amp=1",
-      "publishedDateTime": "2020-12-14T09:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-22-reince-priebus-tough-time-for-the-republican-party-but-bidens-actions-easy-to-unite-against.md",
+      "title": "Reince Priebus: 'Tough time for the Republican Party’ but Biden's actions easy to unite against",
+      "excerpt": "Former White House Chief of Staff Reince Priebus told \"America’s Newsroom\" Friday that it’s a \"tough time for the Republican Party\" since President Biden was sworn in, but Biden's actions may make it easier for the party to unite. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5fkBdiX7FRw/reince-priebus-tough-time-republican-party",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5fkBdiX7FRw/reince-priebus-tough-time-republican-party",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/FOX-headshot-2-1.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/reince-priebus-tough-time-republican-party.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reince-priebus-tough-time-republican-party.amp",
+      "publishedDateTime": "2021-01-22T14:20:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-biden-suggests-delayed-impeachment-timeline-may-be-better.md",
       "title": "Biden suggests delayed impeachment timeline may be 'better'",
       "excerpt": "Biden suggested having more time to get his Cabinet nominees confirmed may help jumpstart his policy agenda.",
@@ -1319,63 +1375,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-charlottesville-inspired-biden-to-run-now-it-has-a-message-for-him.md",
-      "title": "Charlottesville Inspired Biden to Run. Now It Has a Message for Him.",
-      "excerpt": "The white supremacist rally in 2017 prefigured the rise of right-wing violence in President Trump’s name. Now, as President Biden calls for national unity, residents say it requires accountability first.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/21/us/politics/21Charlottesville1/21Charlottesville1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.amp.html",
-      "publishedDateTime": "2021-01-21T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

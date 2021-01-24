@@ -2,21 +2,21 @@
 category: news
 title: "AKA sorority members celebrate Kamala Harris inauguration"
 excerpt: "Elizabeth Shelby had her inauguration outfit planned weeks in advance: blue jeans, a Kamala Harris sweatshirt, a green coat, and pink Chuck Taylors as an homage to her sorority’s colors and Vice President Harris’ signature shoe."
-publishedDateTime: 2021-01-22T08:30:00Z
-originalUrl: "https://abcnews.go.com/Lifestyle/wireStory/aka-sorority-members-celebrate-kamala-harris-inauguration-75407163"
-webUrl: "https://abcnews.go.com/Lifestyle/wireStory/aka-sorority-members-celebrate-kamala-harris-inauguration-75407163"
-ampWebUrl: "https://abcnews.go.com/amp/Lifestyle/wireStory/aka-sorority-members-celebrate-kamala-harris-inauguration-75407163"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Lifestyle/wireStory/aka-sorority-members-celebrate-kamala-harris-inauguration-75407163"
+publishedDateTime: 2021-01-22T08:11:00Z
+originalUrl: "https://www.washingtonpost.com/local/aka-sorority-members-celebrate-kamala-harris-inauguration/2021/01/21/7a08a1c4-5c5f-11eb-a849-6f9423a75ffd_story.html"
+webUrl: "https://www.washingtonpost.com/local/aka-sorority-members-celebrate-kamala-harris-inauguration/2021/01/21/7a08a1c4-5c5f-11eb-a849-6f9423a75ffd_story.html"
+ampWebUrl: "https://www.washingtonpost.com/local/aka-sorority-members-celebrate-kamala-harris-inauguration/2021/01/21/7a08a1c4-5c5f-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/aka-sorority-members-celebrate-kamala-harris-inauguration/2021/01/21/7a08a1c4-5c5f-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://s.abcnews.com/images/Lifestyle/WireAP_7b5fa8ae6e0f4bdf9a8305a11105f665_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -2991,6 +2991,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "xiFbYIj3JcwVntIi/T20EpjYPwYQ5XL57cynbF92PiXt95eBj2kzJOQUOW3F+CDO8j/76eRjiMHtm5lGetDZ8unhe7tJ8j3fRSyD4LDdULonEHIwbMKzErFlGB2RTZ18f24Ex54SjOLiNfxgZmB8M2VqJMPZT6nxLtisnkR6L+2YP35dVuX2I6wk4To3Sr69Iw3lN2MfQgGonuVaugd901AJkZ0XPzsvrwlW3VgrDAu5uHHitoeDPGjHJM9+a/Vxtc9rUQydGoy/DyE8uPBtgOuW7P6ntw8jYPzz5D5KC3NZBhnbkbRkM9yMud0Mi1ewAEqCFlb+9x49FiKdMDDJ1rn7OOVB86BMMi08jj9rdQIdJ7qpuTfizXTMXjcLAeZNJdt6sc2Cy/qNauShrOap8d8lx6wS4hiBsApl/s7Kq2RlFkYzSdtCX4CAt3yu3u3zZBmkV1g9WT8Mz1bx2/AWyGsYrKXD2kCmIBKJaBoOmJxwqmGeWrzPO+8oQm74spNjzEA2hn4EQtcHJkSVBD6+0g==;k01zdLhof086YVdm2ZaoUA=="
+secured: "+rIHaNcMKaAWMbgW16j0y1iOX96e026lOyGybKxd6EFonghSHTRpZsPtAVhDNh5KcTFFOFZCXT7IxmKuaXETeVzkfqNLt0mV2Q6SVjkTxsPqrqddQLeny/KUDjMOsLt/AAPss7NaZxUt+xXt8t34yI8PEGWNawrxWOY5GleXxDJsfCIV+/1R1rOJjc+zpiqAungqK5sL77Xd0wL8aeGZVddkJIdbjzct4Xm89rxeXgwb4Vo8fQjHZYHBuePuvq6oecM3ARjmPBWRDS+fFpRgqKK1gy0aaUkbPAg5shv7tZpP1ITdJuQahH09WCfn+eT46BldpAeiIGlWHMsgMu63k3Oc4gg8Ucwp24HnGw0iwXw=;XhfZNAALytE3k9PvihEtpw=="
 ---
 

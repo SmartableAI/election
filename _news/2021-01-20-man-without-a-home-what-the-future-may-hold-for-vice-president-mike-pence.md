@@ -2,26 +2,32 @@
 category: news
 title: "'Man without a home': What the future may hold for Vice President Mike Pence"
 excerpt: "After four years of steadfast loyalty to Trump, Pence is said to be open to a 2024 run, but his rift with the president may close off that option."
-publishedDateTime: 2021-01-20T10:14:00Z
-originalUrl: "https://www.freep.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
-webUrl: "https://www.freep.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
+publishedDateTime: 2021-01-20T07:06:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
+webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
+ampWebUrl: "https://amp.usatoday.com/amp/6640990002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6640990002"
 type: article
-quality: 52
+quality: 122
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?crop=3276,1843,x0,y166&width=3200&height=1680&fit=bounds"
-    width: 2986
-    height: 1680
+  - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -109,6 +115,6 @@ related:
       domain: fresnobee.com
     quality: 35
 
-secured: "IZIt7yfUPq9xZ3u3Ev5H1eOHlnwChYEwgTAmyoNJkZALC7mqw8BcxaBF4JkNcQ1z1NCAwKdCe1PZHhj+5nQv/KBAoWt1AzTQttlRCmPI5lq7o3LDcfXfPtiL9UnbvZV+WyLK/sBv4Vl4VDdJog/iEM/lZ5/fn4+M/Qrwc0qdC8kCT40gHIHmqN33Gu6enTjvAoj6P80BCZLIFzJbOCr1iLbTmznO0V6/kYhVRmw0fQy43sfYI+be5vF6E5R/4uejf5QVh0lvGmAgmiCGPXyaSC6BiOCBvq6zBZbQ9Louxr0IZatewUhtbPZQYqtX5yBFzcNJ2Vl1YzwISWTp64o1WZpobub7j9WVQqdEaU9YZaT/kAd6B+dQ9QXGMTGX36x8ylknO5KS5l5xgwRSt7Xd9iQKkBzgYoAD39iBbKJu7AZl087ymA5ZYnKILHKPin0bmnTJTBP28v/RohI6CpiTGB3pIYxCWp66OyhJASng7e/wN9MxRCRhx0GLYy4x3lIBMwWFXCFjCe9FDGRxkCh4BA==;Sq+U5SGAlsLZ7EZyNI9mgA=="
+secured: "qJ3FUFy9Cy+rzF0bMbwPJcmUBQlTUdtoy6HPbJQg9SUS7RaKngBH5IGHgp3fvOG/RDyVPgRSleVuCEq7T82p+3H5CiP+OXII6grt69vvH3VBw/Fo0lkzzt8y343JzAPU9c4IUftSl6vy0hqRAMRL8DDIyLCTUGXp6YJtOoDhqPef282wwiUs8dD22vX38cXKUpFDTH38KStXFF4NbGfehXpIszLQTaOmrbh3bkv+0C+lUbK8hjCEssfqJWG/2+s+SFfOXfMt+0K5y6Ixp7khFqbm1L97so+8QqMDM8ZCRviGEjX8g5a1Hnk8whPU2FkmSi+/oXCyJDExf2tOTXPZzvQpeKmIIAwYmfzfPTiOY7E=;cuMQcJ8KgCvQQ+cWoXLyWw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-trump-sendoff-biden-inaugurat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp"
 type: article
 quality: 205
-heat: 3805
+heat: 3845
 published: true
 
 provider:
@@ -397,6 +397,22 @@ related:
     quality: 188
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6db934d-6b05-49e1-9e2a-4b6c6b829db0/0170e9d9-82ed-4476-afd9-b1ac5c6366fc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "President Biden appears to remove Trump’s Diet Coke button from Oval Office"
+    excerpt: "President Biden appears to have gotten rid of the Diet Coke button his predecessor, President Donald Trump, used on the resolute desk in the Oval Office."
+    publishedDateTime: 2021-01-24T01:28:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6UuNiYw3tUk/president-biden-appears-to-remove-trumps-diet-coke-button-from-oval-office"
+    ampWebUrl: "https://www.foxnews.com/politics/president-biden-appears-to-remove-trumps-diet-coke-button-from-oval-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-biden-appears-to-remove-trumps-diet-coke-button-from-oval-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e87514ab-a769-4d7a-b388-8bd2bd2f1a99/d4c9c86d-9e52-4944-8541-863a2212f036/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1213,6 +1229,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5090b71-e42f-41ca-9acb-ce0fda80f002/4805ad71-dc8b-444a-bd43-63cffb1d50cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden has his first phone call with  UK Prime Minister as president"
+    excerpt: "President Biden had his first phone call with England’s Prime Minister Boris Johnson on Saturday, where Johnson pressed the new president for a U.S.-U.K. trade deal. "
+    publishedDateTime: 2021-01-24T01:20:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TGxwdX1UgsQ/biden-first-phone-call-uk-prime-minister-as-president"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-first-phone-call-uk-prime-minister-as-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-phone-call-uk-prime-minister-as-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Joe-Biden-Oval-Office-2.jpg"
         width: 1280
         height: 720
         isCached: true

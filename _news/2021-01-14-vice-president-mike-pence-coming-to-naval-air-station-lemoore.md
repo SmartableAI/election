@@ -43,6 +43,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "'Man without a home': What the future may hold for Vice President Mike Pence"
+    excerpt: "After four years of steadfast loyalty to Trump, Pence is said to be open to a 2024 run, but his rift with the president may close off that option."
+    publishedDateTime: 2021-01-20T07:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6640990002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6640990002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pence delivers final speech as Vice President at Fort Drum Sunday"
     excerpt: "In what was called his “last public speech” while in office, Vice President Mike Pence repeatedly thanked the U.S. Army’s 10th Mountain Division for its service to the"
     publishedDateTime: 2021-01-19T04:55:00Z
@@ -79,20 +95,6 @@ related:
     provider:
       name: Des Moines Register
       domain: desmoinesregister.com
-    quality: 52
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?crop=3276,1843,x0,y166&width=3200&height=1680&fit=bounds"
-        width: 2986
-        height: 1680
-        isCached: true
-  - title: "'Man without a home': What the future may hold for Vice President Mike Pence"
-    excerpt: "After four years of steadfast loyalty to Trump, Pence is said to be open to a 2024 run, but his rift with the president may close off that option."
-    publishedDateTime: 2021-01-20T10:14:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
     quality: 52
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?crop=3276,1843,x0,y166&width=3200&height=1680&fit=bounds"

@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-01-10-house-could-vote-to-impeach-trump-on-wednesday-one-week-after-capitol-protest-turned-into-a-mob.md",
+      "title": "House could vote to impeach Trump on Wednesday, one week after Capitol protest turned into a mob",
+      "excerpt": "As the country comes to terms with the violent siege of the U.S. Capitol by Trump supporters that left five dead, the crisis that appears to be among the final acts of his presidency is deepening like few others in the nation’s history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html",
+      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/wkhA_T0LTme2jIhms7pxzsguRsE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VWEGM2GNQHGHG2TYWDJHHGRVNQ.jpg",
+          "width": 1200,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-impeachment-capitol-mob-20210109-2asefgfckjgwvhxn42aburlzqm-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-09T12:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-theresa-may-too-eager-to-pay-homage-to-donald-trump-says-john-bercow.md",
       "title": "Theresa May too eager to pay homage to Donald Trump, says John Bercow",
       "excerpt": "PM’s ‘almost breathless’ quest to develop ties with US president",
@@ -1275,58 +1327,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-nba-los-angeles-lakers-hope-to-meet-president-joe-biden-but-champions-lose-at-spurs.md",
-      "title": "NBA: Los Angeles Lakers hope to meet President Joe Biden but champions lose at Spurs",
-      "excerpt": "The Los Angeles Lakers hope to re-establish the tradition of NBA champions visiting the president of the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/sport/basketball/55584721",
-      "originalUrl": "https://www.bbc.com/sport/basketball/55584721",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1313B/production/_116393187_lakers.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/sport/amp/basketball/55584721",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/amp/basketball/55584721",
-      "publishedDateTime": "2021-01-08T00:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

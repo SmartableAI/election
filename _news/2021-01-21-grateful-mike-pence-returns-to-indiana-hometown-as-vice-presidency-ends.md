@@ -2,26 +2,30 @@
 category: news
 title: "‘Grateful’ Mike Pence returns to Indiana hometown as vice presidency ends"
 excerpt: "Former Vice President Mike Pence returned Wednesday to his Indiana hometown, where he told a small crowd of family member and supporters that serving in the White House was the greatest honor of his life."
-publishedDateTime: 2021-01-21T02:04:00Z
-originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
-webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
-ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+publishedDateTime: 2021-01-20T23:07:00Z
+originalUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
+webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html"
+ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-mike-pence-indiana-20210120-ixbmzayiergk7oekytbnmmswgm-story.html?outputType=amp"
 type: article
-quality: 74
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
+  - url: "https://www.chicagotribune.com/resizer/7NxAdJZCCs6JrAgsshmEDJlGwf4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUC7DRHH7JQD354ZNW7WZPMM6E.jpg"
     width: 1200
     height: 896
     isCached: true
@@ -1121,6 +1125,22 @@ related:
     webUrl: "https://www.washingtonpost.com/national/texas-sues-biden-administration-over-halt-to-deportations/2021/01/22/326c73b4-5cea-11eb-a849-6f9423a75ffd_story.html"
     ampWebUrl: "https://www.washingtonpost.com/national/texas-sues-biden-administration-over-halt-to-deportations/2021/01/22/326c73b4-5cea-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/texas-sues-biden-administration-over-halt-to-deportations/2021/01/22/326c73b4-5cea-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "At 78 and the oldest president, Biden sees a world changed"
+    excerpt: "When Joe Biden took the oath of office as the 46th president, he became not only the oldest newly inaugurated U.S. chief executive in history but also the oldest sitting president ever"
+    publishedDateTime: 2021-01-23T17:57:00Z
+    webUrl: "https://www.washingtonpost.com/politics/at-78-and-the-oldest-president-biden-sees-a-world-changed/2021/01/23/99500114-5d7a-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/at-78-and-the-oldest-president-biden-sees-a-world-changed/2021/01/23/99500114-5d7a-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/at-78-and-the-oldest-president-biden-sees-a-world-changed/2021/01/23/99500114-5d7a-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -2901,6 +2921,6 @@ related:
         height: 800
         isCached: true
 
-secured: "7mY6Y4oeeYd0AezU484b6TzrWpLYHeR6T5ME+C4oNL4Xy0QeBrDMvi0QlUNVcW35ZHXvfdqzxmXvd930vq5BIkCV1JTRPAkqbwwXG3mG2Obl78t6pEQfKLyDTWaFrZ+tMXKrOIsPXM6+FYY/lpSwUDJuCYoOuuU8iNVXYr+oDYWMJ6eAGkMnDeIdoORpp6LF2ObgVZyQfSUKuUtCGuXjWDdz97DnvSNQ8Yf/Ph4q6P9BI++K1WJ1v1kRQbIatZi36lyczXtIZQ0KHJkuyixHRJty+13g4Y8STZmSh559UIFWuV1WaBkusu2MjaowLzUQFJJQ8+X0rjItIpLVFX6+yCWLe4mJaOGab1LN4BV4pto=;VXVIZrpYCgy8uktV3/1S1g=="
+secured: "qgPrINLNdkDx0XAtUG6xwjN0scx1MVLVw9o7GkPUvDmqS6N3dJ8QKYTaclice7mz+sflEiHTHWOGuT5hOKofoGo4lVpi0LAciSYdIaSIYYlltnj0wc1Wnip7LowmNL84F+SCVlHZ0wr5yTup/805T9vC64PJatTqaMEuqZJLJ69QjFcyLQk6jldUjRyGM6OKiiFnfz6yPfeA15UJNCpbwk4hpJRH2UOafjvwJ5I7l1sfcaGAzx4o8x+JatXXjrX76LPqT1cSG/mG2yxTWkzg+Gid1AmpkutVWhhR0EhwpkWDSwM3gqgQpvqFg10ufc9Ts8QE0rK4prnai/OdNHSsaHhrJl9yOWI2e1rt93q56cQ=;SA4Ke0S8o0IvCyNQle03vA=="
 ---
 

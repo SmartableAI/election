@@ -735,6 +735,22 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "Prominent Senate Republican warns Trump trial could spark more impeachments"
+    excerpt: "A prominent U.S. Senate Republican warned on Saturday that former President Donald Trump's second impeachment trial could lead to the prosecution of former Democratic presidents if Republicans retake the chamber in two years."
+    publishedDateTime: 2021-01-24T01:42:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-impeachment-cornyn-idUSKBN29S0O7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29S0O7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29S0O7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210123&t=2&i=1548834668&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0M0FI"
+        width: 817
+        height: 545
+        isCached: true
   - title: "The GOP’s looming impeachment strategy: Focus on the Constitution, not Trump"
     excerpt: "The House will send its impeachment article to the Senate on Monday, Speaker Nancy Pelosi (D-Calif.) has announced, paving the way for another Donald Trump impeachment trial. The big immediate question is whether the former president will be convicted."
     publishedDateTime: 2021-01-23T14:49:00Z
