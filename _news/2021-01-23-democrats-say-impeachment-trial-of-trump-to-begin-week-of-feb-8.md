@@ -159,36 +159,6 @@ related:
         width: 804
         height: 545
         isCached: true
-  - title: "Donald Trump Gives First Public Remarks Since Leaving Office as Impeachment Trial Delayed"
-    excerpt: "Former President Donald Trump gave nothing away about his future plans in his first public remarks since leaving the White House on Friday, as Senate leadership delayed his impeachment trial for two weeks."
-    publishedDateTime: 2021-01-23T23:51:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-gives-first-public-remarks-since-leaving-office-impeachment-trial-delayed-1563945"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-gives-first-public-remarks-since-leaving-office-impeachment-trial-delayed-1563945?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-gives-first-public-remarks-since-leaving-office-impeachment-trial-delayed-1563945?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
-    images:
-      - url: "https://d.newsweek.com/en/full/1714811/trump-arriving-florida-january-20.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Senate To Begin Trump's Impeachment Trial Week Of Feb. 8"
-    excerpt: "The House of Representatives, which already voted to impeach Trump, plans to transmit the article on Monday evening."
-    publishedDateTime: 2021-01-23T00:26:00Z
-    webUrl: "https://www.npr.org/2021/01/22/959606259/house-to-transmit-article-of-impeachment-to-senate-on-monday-schumer-says"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2021/01/22/ap_21022693843011_wide-0e5bb741df25be58f1a1f4f42485b4ee36c379b3.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "Historians worry a Trump library will be an airbrushed 'MAGA' tribute to a twice-impeached president"
     excerpt: "It's not hard to image Trump's presidential library will burnish his tarnished legacy after he leaves office. Don't expect that to go smoothly."
     publishedDateTime: 2021-01-15T16:03:00Z
@@ -279,15 +249,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Most Pennsylvania GOP Backed Trump to the End, and Still Do"
-    excerpt: "With Donald Trump out of the White House, Pennsylvania’s Republican Party shows no sign of walking away from a president who lost control of Congress, carried out an unprecedented campaign to overturn an election and is blamed by some in his party for inciting a violent assault on the country’s democracy."
-    publishedDateTime: 2021-01-21T12:14:00Z
-    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-01-21/most-pennsylvania-gop-backed-trump-to-the-end-and-still-do"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "+Tk6iQJh5dNnhdDUAsgulYoVIOTQPxLXwtIKwj1Cv5230GnAsyF6PEEGorN3QQrZNIy58gDWPMCp0IJzihNfhakW7eGNFdvpgtT5b8hnGudZ7ClGvn0RVTlZUdHMn/B/DsM84tNk0m2ane23dO+m+S0jSwc1zc695Cd3xPyBwVS693XYAKyyeVU+p5IxtxDGCzDkwGJrNab5WKV6Mk9ijUm5rfrJGJFfDsAn2JMDKVVuM8KTsV2XGxz6aEBhJVGTYmAXQKynJaFUwJ4rljN3LWGSCf8/L4A/a4eLng4Nen9confCcrH9InJK+1C0VgAW5NF00phGmFVpVFmxRWyhO5PP8VcrGeVQCulJMVLtmj2x1zBkfDMIZpgat+TXxO+koigTxs6D/sAfJnSET0mgifcpe2G86T7/KKJJYx9QAsZ5RbPr9UU9XKp5uYlXrqMjoZCzC/G4lBP1xW7M1LZJmIO4fzUrKY/VtcolasnTa5r9eInqtdz9k4NmiDcq+3GdcaSH4iXPkBWCa1zOD4mxGw==;hJ6cuAto5bCqxMQP17rTQg=="
 ---

@@ -2,28 +2,28 @@
 category: news
 title: "Kamala Harris' inauguration dress made by Louisiana designer"
 excerpt: "BATON ROUGE, La. (AP) — The father of the Baton Rouge native who designed Kamala Harris’ dress for Wednesday’s inauguration said watching the vice president take the oath of office in a purple dress his son designed is one of the proudest moments of his life."
-publishedDateTime: 2021-01-23T12:42:00Z
-originalUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-inauguration-dress-made-by-15892985.php"
-webUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-inauguration-dress-made-by-15892985.php"
-ampWebUrl: "https://www.sfchronicle.com/news/amp/Kamala-Harris-inauguration-dress-made-by-15892985.php"
-cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Kamala-Harris-inauguration-dress-made-by-15892985.php"
+publishedDateTime: 2021-01-23T14:42:00Z
+originalUrl: "https://www.chron.com/news/article/Kamala-Harris-inauguration-dress-made-by-15892985.php"
+webUrl: "https://www.chron.com/news/article/Kamala-Harris-inauguration-dress-made-by-15892985.php"
+ampWebUrl: "https://www.chron.com/news/amp/Kamala-Harris-inauguration-dress-made-by-15892985.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Kamala-Harris-inauguration-dress-made-by-15892985.php"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://s.hdnux.com/photos/01/16/21/64/20520240/19/rawImage.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -136,6 +136,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "ulAQBkuQtgQsI6relq9jL0+NabfSThNvhFpzp4dVJLDm/J+FceSDmeRxUaFuqTB3AOxZYj/YaxIDbb6tunduZFnflKUjf35z0jdZYWmOYGk9rji5do7DScOMzNRxIU+LZT1/527Cqgb8pUDXsEVb2v3IHti7RkN36lrpTq5vRRv/HiwquX4WAxJp0eiu5ZjiUXCQenccy5LClZbb6tHSEE+Krodmanc80apa5HMd3dz9oDqH2qXz52765u+hhH6nf3a7unaF6KVbi+yyZYg66Y/vKlsFWj2TaX8Se3RI5L9FR8AI53MPXxL85y+OtCbjCyp0lDroxcI/+NucO9A4mTlr6uIwCAMNd7ZkpnzQdQdzue0cnOLI0cDT4M7f6zvKCNpFr8RBDPQVP5gJ0AGt/aitdLNXuiQLR7vAAqVkhHZ1lhIlIH7kyqLVTRVtAMRTjAWMT3/06ry6YWZ1NVA7uWmFCDEvRB9njV5ORFu9OlGenerdXPdu8X9m6tGc6b05N9i4kkcCqr5TiGzswdxTqA==;oNfuZ6rnHSHIaEu4Pbf8xQ=="
+secured: "d2va5aRkPO7DGQ02VHSHi/WsDwEJ9s+tA63cQr2LsmML85tSpZhTnEbhjH3yTTHjIfgf1UYd1Lrz6ZbB0ar7So+yCiBBTlQW2pd6TVs2s2hNTUJ70fYPuIufWvyVO/7Yv1jbzVnzRV095CLnZLGm1OQcViFE2kl1to6IsOVIQ7Cv/MvgG1L+J2OzKF+79KRDgR5WptO4AhRgxQoMoaSNUkMD6qZ5pmyG47ULpDmVZuu0ueL5zw+i1ZrxLm1RvdycdMeSthVhLXPVeUfAxINN7b5IyWFyexNxoKy76n2i8Tj+QJUENw4LJHpilkngXLlNw3Y4KRDFah5RIyPazY3WVK9lS7RjIM1Ef6555aDqwOI=;FFR3OgMU6BUBEnl7WDRCfw=="
 ---
 

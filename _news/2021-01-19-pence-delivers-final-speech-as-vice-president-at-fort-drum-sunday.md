@@ -110,6 +110,15 @@ related:
       name: The Fresno Bee
       domain: fresnobee.com
     quality: 35
+  - title: "Vice President Mike Pence Second Lady Karen Pence Depart the U.S. Capitol"
+    excerpt: "Former Vice President Mike Pence and Former Second Lady Karen Pence depart the Capitol. Vice President Kamala Harris and Second Man Doug Emhoff bid them farewell from the steps of the Capitol."
+    publishedDateTime: 2021-01-20T00:00:00Z
+    webUrl: "https://www.c-span.org/video/?508135-2/vice-president-mike-pence-lady-karen-pence-depart-us-capitol"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 34
 
 secured: "dMHBBsVUc+6je1+jSm2vT9XBtFFnqqV+JfX/85hgpWngYKwwPX10hp41FTGbPBjp5J8CwKnmDnPAx2SFplsNZvPMuVD7Q+EaGjAZ5DIamrlJe86qMlRhkPtf1Q6uxxu+9YNp3+HLDq1z4Sb0NRZE8Fn1YkmNtvrUt14l9nPh4LKzromRTQGLwHVvWJuFWjuASVgso1ipiF7bzTieZjbgyoO1CRALZc3HBxswAQaLNy747JjMSYmtSB0OnTj7FwY9cLdXWGXNjd6xrTGz36hjchrc0y7R2mKK2HPMmx7FJVWu3rH8pTS805Gcat5s0bLBA65GEztayzTulSqwO8U2dcWLSR2k2PrGy1xf/dYPS+U=;Rw5DJaNE7kg1ExfqegGobQ=="
 ---

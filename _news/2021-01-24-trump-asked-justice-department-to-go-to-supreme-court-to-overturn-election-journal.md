@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Chaos of Trump's last days in office reverberates with fresh 'plot' report"
-excerpt: "Ex-president, whose Senate impeachment trial will start in two weeks, reportedly planned to oust acting attorney general in bid to overturn election"
-publishedDateTime: 2021-01-23T13:28:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/jan/23/trump-florida-white-house-washington-plot-report"
-webUrl: "https://www.theguardian.com/us-news/2021/jan/23/trump-florida-white-house-washington-plot-report"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/23/trump-florida-white-house-washington-plot-report"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/23/trump-florida-white-house-washington-plot-report"
+title: "Trump asked Justice Department to go to Supreme Court to overturn election: Journal"
+excerpt: "Former President Donald Trump considered replacing the acting attorney general with an official willing to pursue unsubstantiated claims of election fraud, and he pushed the Justice Department to ask the Supreme Court to invalidate President Joe Biden’s victory,"
+publishedDateTime: 2021-01-24T08:27:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-justice/trump-asked-justice-department-to-go-to-supreme-court-to-overturn-election-journal-idUSKBN29T01R"
+webUrl: "https://www.reuters.com/article/us-usa-trump-justice/trump-asked-justice-department-to-go-to-supreme-court-to-overturn-election-journal-idUSKBN29T01R"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T01R"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T01R"
 type: article
-quality: 123
-heat: -1
-published: false
+quality: 134
+heat: 394
+published: true
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,28 +25,12 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/6cc7a11350a4b08cff15732085b6cd0c07a383e8/0_188_2837_1703/master/2837.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0dc5bd61e9b0dc76199d6d0771b4bd07"
-    width: 600
-    height: 360
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548848598&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N00Q"
+    width: 803
+    height: 545
     isCached: true
 
 related:
-  - title: "Trump asked Justice Department to go to Supreme Court to overturn election: Journal"
-    excerpt: "Former President Donald Trump considered replacing the acting attorney general with an official willing to pursue unsubstantiated claims of election fraud, and he pushed the Justice Department to ask the Supreme Court to invalidate President Joe Biden’s victory,"
-    publishedDateTime: 2021-01-24T08:27:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-justice/trump-asked-justice-department-to-go-to-supreme-court-to-overturn-election-journal-idUSKBN29T01R"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T01R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T01R"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 134
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548848598&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N00Q"
-        width: 803
-        height: 545
-        isCached: true
   - title: "Trump returns to a business empire ravaged by pandemic"
     excerpt: "Donald Trump is returning to a family business ravaged by pandemic shutdowns, with revenue plunging more than 40 percent at his Doral golf property, his Washington hotel and both his Scottish resorts"
     publishedDateTime: 2021-01-22T03:21:00Z
@@ -94,6 +78,22 @@ related:
       - url: "https://s.abcnews.com/images/Nightline/210123_ntl_politics_1239_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Chaos of Trump's last days in office reverberates with fresh 'plot' report"
+    excerpt: "Ex-president, whose Senate impeachment trial will start in two weeks, reportedly planned to oust acting attorney general in bid to overturn election"
+    publishedDateTime: 2021-01-23T13:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/23/trump-florida-white-house-washington-plot-report"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/23/trump-florida-white-house-washington-plot-report"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/23/trump-florida-white-house-washington-plot-report"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/6cc7a11350a4b08cff15732085b6cd0c07a383e8/0_188_2837_1703/master/2837.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0dc5bd61e9b0dc76199d6d0771b4bd07"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump entertained plan to install an attorney general who would help him pursue baseless election fraud claims"
     excerpt: "The plan would have pushed out Jeffrey Rosen as acting attorney general and promoted a Trump devotee to lead the Justice Department."
@@ -227,6 +227,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "U1SkxWuCY12MY1ifObUc2Z0mBarhjU6iogoqD6IiUtNb0mC1cD0Xy+GxAO02XqGWpJTD1q7MQnhTayfLZw5U2cxjr0WWX+/VnyoL7r169Dz/1OgB4reXkkMXrv1UmtCYgSvtoMwuFu7NV1/Yj3+z1CtASKm1B8AqPsoUC4aBQP/ol5/us8XhfgZ3sx/d1CwuW+rdaSQtyjHSRyJyRjtVjetODWThXOGOr6VBtooa9n7hMIYNPoECiB6yQGSsnTomoX3CQZ9Lr/NAiRWlZdwDT85qdg3/sApa4244NJWvMTubHvxDQRfdcnd435g7aR9+BI14U2Zd6/eAocIFBKM2r45kMDkIslQbUtAN7sEHdRAIeo0UD6ZtpPcFR+YP47BHTVyN22ZRXR8pBlqJLFQTCUxDC/6rUuWnyTcggdBZMTAnsntcIe+NtuDxaKc+vZOl0OmqjpShz4eo/7XzHCwmQB9BoaL1Xrzze7VvmXjcFG6ljyFONzB1aZQNkPSkFOGPkeu8RrLicH+jJWu/aeNc+w==;q2X11z0lUWPe+PSl38z4DA=="
+secured: "WMCd9iuYrQ0EMbBNb2EN5dY7oOOugFleO4LfwSDwOyzgSjEpUDe+c+fVm/Xk/UKsrWfIga6E/yrR7zkbAjGqgJhlvj1yb9xXnQJMFq3QDkxxEiOrN7fgyNiRdpYIuq++ZhmAVgQZi/cGZ33OUMuoua/4YEA8XgmWAuyBuZugTALYTDtvtWgVtDPBVgvmk7tU5hkTraMaWw88OyNWS2Nj+XIbENA2eb3/jtIm9YhULP8xgqZ0Arw/r+qBYbICW0AkOIJe9rv+zhFCIM+Ax5dYt7IvfuDlJXsbjqOlraCez7/0yw30dUKITGJQJwDI0oZ44paxMz8QD0vrHsBUTpHelBTAFw3atYQTY/vO6sfEUpU=;z/DrM90CIPRyMTFl8OwNEw=="
 ---
 

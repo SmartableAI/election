@@ -27,354 +27,201 @@ images:
     isCached: true
 
 related:
-  - title: "Trump trial pending, McConnell calls it ‘vote of conscience’"
-    excerpt: "President Donald Trump’s impeachment trial is likely to start after Joe Biden’s inauguration, and the Republican leader, Mitch McConnell, is telling senators their decision on whether to convict the outgoing president over the Capitol riot will be a “vote of conscience."
-    publishedDateTime: 2021-01-16T10:19:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-trial-pending-mcconnell-calls-it-vote-of-conscience/2021/01/16/793bebec-57ba-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+  - title: "Trump asked Justice Department to go to Supreme Court to overturn election: Journal"
+    excerpt: "Former President Donald Trump considered replacing the acting attorney general with an official willing to pursue unsubstantiated claims of election fraud, and he pushed the Justice Department to ask the Supreme Court to invalidate President Joe Biden’s victory,"
+    publishedDateTime: 2021-01-24T08:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-justice/trump-asked-justice-department-to-go-to-supreme-court-to-overturn-election-journal-idUSKBN29T01R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T01R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T01R"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 134
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548848598&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N00Q"
+        width: 803
+        height: 545
         isCached: true
-  - title: "Durbin says he won't whip votes for Trump's second impeachment trial"
-    excerpt: "Senate Democratic Whip, Dick Durbin (Ill.) said Sunday that he is not going to whip votes in his caucus in favor convicting President Trump in his upcoming impeachment trial."
-    publishedDateTime: 2021-01-17T16:10:00Z
-    webUrl: "https://thehill.com/homenews/sunday-talk-shows/534621-durbin-says-he-wont-whip-votes-for-trumps-second-impeachment"
-    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/534621-durbin-says-he-wont-whip-votes-for-trumps-second-impeachment?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/534621-durbin-says-he-wont-whip-votes-for-trumps-second-impeachment?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/durbinrichard_101420gn_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump's impeachment trial to begin week of February 8"
-    excerpt: "Former President Donald Trump's impeachment trial will begin the week of February 8, Senate Majority Leader Chuck Schumer announced Friday evening on the Senate floor, with pre-trial proceedings beginning on Monday evening,"
-    publishedDateTime: 2021-01-23T12:00:00Z
-    webUrl: "https://www.cbsnews.com/live-updates/trump-impeachment-trial-to-begin-week-of-february-8/"
-    ampWebUrl: "https://www.cbsnews.com/amp/live-updates/trump-impeachment-trial-to-begin-week-of-february-8/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/live-updates/trump-impeachment-trial-to-begin-week-of-february-8/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/20/8504b1a6-f128-468e-986b-604e4a3b90fd/thumbnail/1200x630g3/00fd6474a7af79cef700a3c5f09f89de/ap21020506415429.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Senate Minority Leader Mitch McConnell to propose delay of Trump impeachment trial"
-    excerpt: "House Speaker Nancy Pelosi said Thursday that she is \"ready\" to send the Trump impeachment article to the Senate, but is waiting for answers on how a trial would work."
-    publishedDateTime: 2021-01-22T04:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/pelosi-ready-send-trump-impeachment-article-answers-senate/story?id=75403030"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/pelosi-ready-send-trump-impeachment-article-answers-senate/story?id=75403030"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pelosi-ready-send-trump-impeachment-article-answers-senate/story?id=75403030"
+  - title: "Trump returns to a business empire ravaged by pandemic"
+    excerpt: "Donald Trump is returning to a family business ravaged by pandemic shutdowns, with revenue plunging more than 40 percent at his Doral golf property, his Washington hotel and both his Scottish resorts"
+    publishedDateTime: 2021-01-22T03:21:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407075"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407075"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407075"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 119
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/mitch-mcconnell_hpMain_20210121-174756_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_53d43a22043a40ef874c8eb064a0a328_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Republican McConnell proposes Trump get two weeks to prepare for Senate impeachment trial"
-    excerpt: "U.S. Senate Republican leader Mitch McConnell on Thursday proposed a timeline that would delay the start of the Senate impeachment trial of former President Donald Trump until mid-February."
-    publishedDateTime: 2021-01-22T04:17:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-senate/republican-mcconnell-proposes-trump-get-two-weeks-to-prepare-for-senate-impeachment-trial-idUSKBN29Q33P"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q33P"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q33P"
+  - title: "In Senate deal, Trump impeachment trial put off until early February"
+    excerpt: "The leaders of the U.S. Senate agreed on Friday to push back former President Donald Trump's impeachment trial by two weeks, giving the chamber more time to focus on President Joe Biden's legislative agenda and Cabinet nominees before turning to the contentious"
+    publishedDateTime: 2021-01-23T06:08:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-impeachment-idINKBN29R27D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29R27D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R27D"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 116
+    quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548643474&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1RD"
-        width: 817
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548735957&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L17I"
+        width: 819
         height: 545
         isCached: true
-  - title: "Uncertainty reigns in Senate as Schumer pushes fast agenda and McConnell calls out Trump"
-    excerpt: "Less than a day before Biden’s inauguration, it remains unclear when his nominees will be confirmed, when President Trump’s impeachment trial will begin, or how the Senate will manage a 50-50 divide."
-    publishedDateTime: 2021-01-22T04:13:00Z
-    webUrl: "https://www.washingtonpost.com/politics/senate-uncertainty-mcconnell-schumer/2021/01/19/5a643bae-5a6a-11eb-8bcf-3877871c819d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/senate-uncertainty-mcconnell-schumer/2021/01/19/5a643bae-5a6a-11eb-8bcf-3877871c819d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-uncertainty-mcconnell-schumer/2021/01/19/5a643bae-5a6a-11eb-8bcf-3877871c819d_story.html?outputType=amp"
+  - title: "Arizona Republicans reelect fervent Trump ally as chair"
+    excerpt: "Arizona Republicans on Saturday reelected Kelli Ward as party chair, giving a second term to one of Donald Trump’s most unflinching supporters even after the GOP lost ground in the state last year"
+    publishedDateTime: 2021-01-23T23:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Nightline/210123_ntl_politics_1239_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Chaos of Trump's last days in office reverberates with fresh 'plot' report"
+    excerpt: "Ex-president, whose Senate impeachment trial will start in two weeks, reportedly planned to oust acting attorney general in bid to overturn election"
+    publishedDateTime: 2021-01-23T13:28:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/23/trump-florida-white-house-washington-plot-report"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/23/trump-florida-white-house-washington-plot-report"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/23/trump-florida-white-house-washington-plot-report"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/6cc7a11350a4b08cff15732085b6cd0c07a383e8/0_188_2837_1703/master/2837.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0dc5bd61e9b0dc76199d6d0771b4bd07"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trump entertained plan to install an attorney general who would help him pursue baseless election fraud claims"
+    excerpt: "The plan would have pushed out Jeffrey Rosen as acting attorney general and promoted a Trump devotee to lead the Justice Department."
+    publishedDateTime: 2021-01-23T08:23:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/trump-justice-department-overturn-election/2021/01/22/b7f0b9fa-5d1c-11eb-a976-bad6431e03e2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-justice-department-overturn-election/2021/01/22/b7f0b9fa-5d1c-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-justice-department-overturn-election/2021/01/22/b7f0b9fa-5d1c-11eb-a976-bad6431e03e2_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NLPGG3S5E4I6XKLWXLLEGHQD4I.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Donald Trump Gives First Public Remarks Since Leaving Office as Impeachment Trial Delayed"
+    excerpt: "Former President Donald Trump gave nothing away about his future plans in his first public remarks since leaving the White House on Friday, as Senate leadership delayed his impeachment trial for two weeks."
+    publishedDateTime: 2021-01-23T23:51:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-gives-first-public-remarks-since-leaving-office-impeachment-trial-delayed-1563945"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-gives-first-public-remarks-since-leaving-office-impeachment-trial-delayed-1563945?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-gives-first-public-remarks-since-leaving-office-impeachment-trial-delayed-1563945?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
     quality: 116
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WLANZRCMOAI6XF5WJ247OL7UNM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://d.newsweek.com/en/full/1714811/trump-arriving-florida-january-20.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Trump’s impeachment trial pending, Republican leader Mitch McConnell calls it a ‘vote of conscience’"
-    excerpt: "House Speaker Nancy Pelosi offered no clues Friday on her plans to send President Donald Trump’s impeachment to the Senate for trial"
-    publishedDateTime: 2021-01-15T22:34:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-impeachment-trial-20210115-2i3vshire5altdrvw6ohieqrsq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-impeachment-trial-20210115-2i3vshire5altdrvw6ohieqrsq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-impeachment-trial-20210115-2i3vshire5altdrvw6ohieqrsq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 110
-    images:
-      - url: "https://www.chicagotribune.com/resizer/EriE5_l5xPVwtO9jmKjyyRb_Uws=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VRWGIX76UW7OWH7Y36Q25UFT4A.jpg"
-        width: 1200
-        height: 793
-        isCached: true
-  - title: "Politics live updates: McConnell wants Senate trial delayed; Donald Trump hires an impeachment lawyer"
-    excerpt: "Senate Minority Leader Mitch McConnell told fellow Senate Republicans on a call that he wanted to delay Trump’s impeachment trial for several weeks ."
-    publishedDateTime: 2021-01-22T01:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/21/live-politics-updates-biden-address-covid-response-fauci-debut/4243605001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4243605001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4243605001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/01/USAT/be212cef-000f-429d-a993-dda46d5b09a7-AP_Virus_Outbreak_Congress.jpg?auto=webp&crop=3781,2127,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Fact check: Donald Trump concession video not a ‘confirmed deepfake’"
-    excerpt: "Social media users have been sharing a post that claims a video in which outgoing president Donald Trump acknowledges President-elect Biden’s victory in the wake of the chaos of the Capitol protests has been confirmed to be a deepfake."
-    publishedDateTime: 2021-01-12T02:23:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN29G2NL"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547411580&r=LYNXMPEH0A1I1&w=800"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Trump trial pending, McConnell calls it 'vote of conscience'"
-    excerpt: "President Donald Trump's is likely to start after Joe Biden's inauguration, and the Republican leader, Mitch McConnell, is telling senators their decision on whether to convict the outgoing president over the Capitol riot will be a “vote of conscience."
-    publishedDateTime: 2021-01-16T22:37:00Z
-    webUrl: "https://www.businessinsider.com/trump-trial-pending-mcconnell-calls-it-vote-of-conscience-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trump-trial-pending-mcconnell-calls-it-vote-of-conscience-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-trial-pending-mcconnell-calls-it-vote-of-conscience-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Trump's pardon largesse a boon for well-connected fraudsters"
-    excerpt: "A former congressman who pocketed millions of dollars in bribes from defense contractors. A Republican fundraiser who paid handsome sums to illicitly lobby a presidential administration. An influential voice in conservative circles accused of duping donors who supported a border wall."
-    publishedDateTime: 2021-01-21T12:11:00Z
-    webUrl: "https://www.businessinsider.com/trumps-pardon-largesse-a-boon-for-well-connected-fraudsters-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trumps-pardon-largesse-a-boon-for-well-connected-fraudsters-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-pardon-largesse-a-boon-for-well-connected-fraudsters-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Senate Majority Leader Mitch McConnell is inclined to vote to convict Trump in an impeachment trial, new report says"
-    excerpt: "House Minority Leader Kevin McCarthy is also talking to GOP colleagues about whether he should ask Trump to resign, The New York Times reports."
-    publishedDateTime: 2021-01-13T03:56:00Z
-    webUrl: "https://www.businessinsider.com/mitch-mcconnell-pleased-at-prospect-of-trump-being-impeached-nyt-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/mitch-mcconnell-pleased-at-prospect-of-trump-being-impeached-nyt-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mitch-mcconnell-pleased-at-prospect-of-trump-being-impeached-nyt-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/5f984f3c861cb70019936b04?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "McConnell seeks to delay Trump impeachment trial until February; Congress approves waiver for Austin to lead Pentagon"
-    excerpt: "On his first full day in office, the president plans to focus on the top priority of his new administration: dealing with many aspects of the public health crisis."
-    publishedDateTime: 2021-01-22T04:46:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/21/joe-biden-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/21/joe-biden-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/21/joe-biden-live-updates/?outputType=amp"
+  - title: "Trump jumps into a divisive battle over the Republican Party — with a threat to start a ‘MAGA Party’"
+    excerpt: "The former president, in his first political activity since leaving office, endorses an ally for Arizona party chair who backed his false claims of election fraud."
+    publishedDateTime: 2021-01-24T04:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-republican-split/2021/01/23/d7dc253e-5cbc-11eb-8bcf-3877871c819d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-republican-split/2021/01/23/d7dc253e-5cbc-11eb-8bcf-3877871c819d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-republican-split/2021/01/23/d7dc253e-5cbc-11eb-8bcf-3877871c819d_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 102
+    quality: 110
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3EIGNWC3MYI6XKCJN6KCHJ277U.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R4WSECC3KMI6XKCJN6KCHJ277U.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Wall Street distances itself from Trump, GOP after storming of Capitol. ‘We will not support candidates who do not respect the rule of law.’"
-    excerpt: "A growing number of Wall Street banks and businesses have cut ties with President Donald Trump’s campaign and financial arms, as well as the broader Republican Party, following last week’s riots and insurrection at the U."
-    publishedDateTime: 2021-01-11T16:58:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-biz-capitol-insurrection-trump-corporations-20210111-xho5ho3babfu3hm5gumffydvai-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-capitol-insurrection-trump-corporations-20210111-xho5ho3babfu3hm5gumffydvai-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-capitol-insurrection-trump-corporations-20210111-xho5ho3babfu3hm5gumffydvai-story.html?outputType=amp"
+  - title: "Justice Dept. watchdog to examine abrupt departure of Atlanta U.S. attorney whom Trump appeared to criticize"
+    excerpt: "Byung J. “BJay” Pak suddenly stepped down earlier this month as then-President Trump waged a pressure campaign on Georgia officials over the election."
+    publishedDateTime: 2021-01-22T02:53:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/trump-atlanta-us-attorney-inspector-general/2021/01/21/2cc24d1e-5c39-11eb-b8bd-ee36b1cd18bf_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-atlanta-us-attorney-inspector-general/2021/01/21/2cc24d1e-5c39-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-atlanta-us-attorney-inspector-general/2021/01/21/2cc24d1e-5c39-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 90
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
     images:
-      - url: "https://www.chicagotribune.com/resizer/U-S-V3YyQTOVXBG3OrevWyK-d8g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VVBXHIRERVB6DGESUS6DGCDDWA.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFERJ5SPQ4I6XPNEMFNK57IFKU.jpg&w=1440"
+        width: 1440
+        height: 992
         isCached: true
-  - title: "Mitch McConnell is telling GOP senators their decision on a Trump impeachment trial conviction is a 'vote of conscience'"
-    excerpt: "Majority Leader Mitch McConnell has been telling GOP senators they have the freedom to vote however they want during Trump's impeachment trial."
-    publishedDateTime: 2021-01-15T18:24:00Z
-    webUrl: "https://www.businessinsider.com/mcconnell-republican-senators-conviction-vote-trump-impeachment-trial-2021-1"
+  - title: "Senate To Begin Trump's Impeachment Trial Week Of Feb. 8"
+    excerpt: "The House of Representatives, which already voted to impeach Trump, plans to transmit the article on Monday evening."
+    publishedDateTime: 2021-01-23T00:26:00Z
+    webUrl: "https://www.npr.org/2021/01/22/959606259/house-to-transmit-article-of-impeachment-to-senate-on-monday-schumer-says"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
+      name: NPR
+      domain: npr.org
+    quality: 105
     images:
-      - url: "https://i.insider.com/5fa6a499f7d1cb0019e3a5eb?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://media.npr.org/assets/img/2021/01/22/ap_21022693843011_wide-0e5bb741df25be58f1a1f4f42485b4ee36c379b3.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
-  - title: "McConnell Wants to Delay Impeachment Trial to Give Trump Time to Prepare His Defense"
-    excerpt: "(WASHINGTON) — Senate Republican leader Mitch McConnell is proposing to push back the start of Donald Trump’s impeachment trial to February to give the former president time to prepare and review his case."
-    publishedDateTime: 2021-01-22T15:05:00Z
-    webUrl: "https://time.com/5932419/mconnell-delay-trump-impeachment-trial/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 78
-  - title: "These GOP Senators May Vote To Impeach Trump; McConnell Leads The List"
-    excerpt: "Senate Majority Leader Mitch McConnell would need a two-thirds vote to convict Trump of inciting an insurrection and remove the president through impeachment."
-    publishedDateTime: 2021-01-15T04:59:00Z
-    webUrl: "https://www.ibtimes.com/these-gop-senators-may-vote-impeach-trump-mcconnell-leads-list-3122759"
-    ampWebUrl: "https://www.ibtimes.com/these-gop-senators-may-vote-impeach-trump-mcconnell-leads-list-3122759?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/these-gop-senators-may-vote-impeach-trump-mcconnell-leads-list-3122759?amp=1"
+  - title: "Trump Mulled Replacing Attorney General Over Election Results: US Media"
+    excerpt: "Donald Trump considered replacing then-acting US attorney general Jeffrey A. Rosen with a Justice Department lawyer who would help him force Georgia officials to overturn the state's election result,"
+    publishedDateTime: 2021-01-23T07:44:00Z
+    webUrl: "https://www.ibtimes.com/trump-mulled-replacing-attorney-general-over-election-results-us-media-3128886"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 75
+    quality: 70
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/donald-trump-mitch-mcconnell.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/23/donald-trump-mulled-replacing-the-acting-us-attorney.jpg"
         width: 1024
-        height: 683
+        height: 760
         isCached: true
-  - title: "Mitch McConnell: Trump ‘fed lies’ to mob that stormed Capitol"
-    excerpt: "They were provoked by the president and other powerful people, and they tried to use fear and violence to stop a specific proceeding of branch of the federal government.”"
-    publishedDateTime: 2021-01-19T18:01:00Z
-    webUrl: "https://www.al.com/news/2021/01/mitch-mcconnell-trump-fed-lies-to-mob-that-stormed-capitol.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/mitch-mcconnell-trump-fed-lies-to-mob-that-stormed-capitol.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/mitch-mcconnell-trump-fed-lies-to-mob-that-stormed-capitol.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TJIIVGNITJGIRJC6M4SJLB74IQ.jpg"
-        width: 8192
-        height: 5464
-        isCached: true
-  - title: "A ‘vote of conscience’: McConnell sets stage for Trump impeachment trial"
-    excerpt: "President Donald Trump’s impeachment trial is likely to start after Joe Biden’s inauguration, and the Republican leader, Mitch McConnell, is telling senators their decision on whether to convict the outgoing president over the Capitol riot will be a “vote of conscience."
-    publishedDateTime: 2021-01-16T18:28:00Z
-    webUrl: "https://www.al.com/politics/2021/01/a-vote-of-conscience-mcconnell-sets-stage-for-trump-impeachment-trial.html"
-    ampWebUrl: "https://www.al.com/politics/2021/01/a-vote-of-conscience-mcconnell-sets-stage-for-trump-impeachment-trial.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/01/a-vote-of-conscience-mcconnell-sets-stage-for-trump-impeachment-trial.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 74
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NTUN5GCYINBD3K36VXQ3ERTFMM.jpg"
-        width: 2555
-        height: 1438
-        isCached: true
-  - title: "How Tennessee's congressional delegation voted on a second impeachment of President Donald Trump"
-    excerpt: "President Trump is the only president to be impeached a second time, and the vote fell mostly along party lines. Here's how Tennessee's reps voted."
-    publishedDateTime: 2021-01-13T22:33:00Z
-    webUrl: "https://www.tennessean.com/story/news/politics/2021/01/13/trump-impeachment-tennessee-delegation/6628017002/"
-    ampWebUrl: "https://amp.tennessean.com/amp/6628017002"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/6628017002"
-    type: article
-    provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 62
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/07/NHTN/1117d086-5684-43b6-ae52-cf0da7271039-AP21007634011678.jpg?auto=webp&crop=4515,2540,x0,y451&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump Impeachment: McConnell Blames President For Capitol Rioters Who Were 'Fed Lies,' 'Provoked'"
-    excerpt: "Senate Majority Leader Mitch McConnell told Senate colleagues on Tuesday that Capitol rioters were provoked by Trump's lies."
-    publishedDateTime: 2021-01-19T18:43:00Z
-    webUrl: "https://www.ibtimes.com/trump-impeachment-mcconnell-blames-president-capitol-rioters-who-were-fed-lies-3125762"
-    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-mcconnell-blames-president-capitol-rioters-who-were-fed-lies-3125762?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-mcconnell-blames-president-capitol-rioters-who-were-fed-lies-3125762?amp=1"
+  - title: "Facebook 'Supreme Court' To Judge Trump Suspension"
+    excerpt: "Facebook and Instagram suspended Trump after his supporters stormed the US Capitol on January 6, an attack on the seat of democracy that led to Trump's second impeachment. The leading social network is referring the decision to its independent oversight board -- known informally as the Facebook \"supreme court\" -- with the authority to make binding rulings even chief executive Mark Zuckerberg must abide by."
+    publishedDateTime: 2021-01-22T01:11:00Z
+    webUrl: "https://www.ibtimes.com/facebook-supreme-court-judge-trump-suspension-3127721"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 62
+    quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/after-weeks-of-silence-on-the-issue-us-AFP_8X8387-2.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/donald-trump-is-seen-addressing-supporters-flooding-the.jpg"
         width: 1024
-        height: 697
+        height: 682
         isCached: true
-  - title: "Timing of Trump Trial Uncertain as Pelosi Gives No Clues"
-    excerpt: "House Speaker Nancy Pelosi is offering no clues on her plans to send President Donald Trump’s impeachment to the Senate for trial."
-    publishedDateTime: 2021-01-15T22:34:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-15/trump-impeachment-trial-to-focus-on-his-attacks-on-election"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-15/trump-impeachment-trial-to-focus-on-his-attacks-on-election?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-15/trump-impeachment-trial-to-focus-on-his-attacks-on-election?context=amp"
+  - title: "Most Pennsylvania GOP Backed Trump to the End, and Still Do"
+    excerpt: "With Donald Trump out of the White House, Pennsylvania’s Republican Party shows no sign of walking away from a president who lost control of Congress, carried out an unprecedented campaign to overturn an election and is blamed by some in his party for inciting a violent assault on the country’s democracy."
+    publishedDateTime: 2021-01-21T12:14:00Z
+    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-01-21/most-pennsylvania-gop-backed-trump-to-the-end-and-still-do"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 55
-  - title: "McConnell Seeks to Push Trump Impeachment Trial to February"
-    excerpt: "Senate Republican leader Mitch McConnell is proposing to push back the start of Donald Trump's impeachment trial to February to give the former president time to prepare and review his case. House Democrats who voted to impeach Trump last week for inciting the deadly Jan."
-    publishedDateTime: 2021-01-22T00:42:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-21/pelosi-vows-action-on-impeachment-trial-we-must-do-it"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-21/pelosi-vows-action-on-impeachment-trial-we-must-do-it?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-21/pelosi-vows-action-on-impeachment-trial-we-must-do-it?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Kentucky GOP Group Rejects Push to Have McConnell Back Trump"
-    excerpt: "A Kentucky Republican Party committee has rejected a resolution urging Senate GOP leader Mitch McConnell to fully support Donald Trump in the ex-president’s upcoming impeachment trial."
-    publishedDateTime: 2021-01-23T23:46:00Z
-    webUrl: "https://www.usnews.com/news/best-states/kentucky/articles/2021-01-23/kentucky-gop-group-rejects-push-to-have-mcconnell-back-trump"
-    ampWebUrl: "https://www.usnews.com/news/best-states/kentucky/articles/2021-01-23/kentucky-gop-group-rejects-push-to-have-mcconnell-back-trump?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/kentucky/articles/2021-01-23/kentucky-gop-group-rejects-push-to-have-mcconnell-back-trump?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+    quality: 35
 
 secured: "fIxKU0Lyfd71mTnsKTJIzuGB3mSyal5zYi/0Up6D2+7sc4BgzVVNWqnyVbxmJ6wsokpMV2dE39jRhoPPbCLnkL/b6DQTegDJ2kObvt2JBJqZz/KZ86uPqaiX0+0whj14zXna/kq0gGMfgI6dHfrPCMnN9NVauuk2XLxZCVh+qBT64oh0lzRKnikymZi4bS8n5TjIQL1XTJuva67uLrh7UJSwNIlywz3cVmatDXH6RPq77ns3SE5oRrmuQQqo2+EJPqrnhIumphYRDLuQLXXDelgVBpmE9YDKiULfHzHGI6EydWntHKKezEArvS7398I2ac+WxAGCfykQq5oXb6Cjhv6rUbYOnheImLbIFE+b890=;z/OQZUwkJX5gh64Me46ZDA=="
 ---

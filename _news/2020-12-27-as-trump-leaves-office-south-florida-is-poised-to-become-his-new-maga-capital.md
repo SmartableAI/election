@@ -111,22 +111,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump returns to a business empire ravaged by pandemic"
-    excerpt: "Donald Trump is returning to a family business ravaged by pandemic shutdowns, with revenue plunging more than 40 percent at his Doral golf property, his Washington hotel and both his Scottish resorts"
-    publishedDateTime: 2021-01-22T03:21:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407075"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407075"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407075"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_53d43a22043a40ef874c8eb064a0a328_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "New York City to consider ending contracts with Trump that bring his company $17 million a year"
     excerpt: "The city of New York said Monday that it was “reviewing whether legal grounds exist” to terminate its business relationships with President Trump, whose company has contracts to run a carousel, two ice rinks and a golf course in city parks."
     publishedDateTime: 2021-01-12T06:51:00Z

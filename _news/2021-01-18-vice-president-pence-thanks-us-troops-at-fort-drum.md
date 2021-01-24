@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/vice-president-pence-thanks-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/vice-president-pence-thanks-us-troops-at-fort-drum/2021/01/17/810ee532-592b-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -114,6 +114,15 @@ related:
       name: The Fresno Bee
       domain: fresnobee.com
     quality: 35
+  - title: "Vice President Mike Pence Second Lady Karen Pence Depart the U.S. Capitol"
+    excerpt: "Former Vice President Mike Pence and Former Second Lady Karen Pence depart the Capitol. Vice President Kamala Harris and Second Man Doug Emhoff bid them farewell from the steps of the Capitol."
+    publishedDateTime: 2021-01-20T00:00:00Z
+    webUrl: "https://www.c-span.org/video/?508135-2/vice-president-mike-pence-lady-karen-pence-depart-us-capitol"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 34
 
 secured: "XmfX8J1KUboAzJA0dFhkdduYQ20l+jYOjyq/gbzGXM0rJnAKbSH5Bv2B4brgyimqDJQl0M8UBtS1L+o7k5xVF9+pj7K3AhNM2hBvDA8cyN3ivzEgApSSWkmekhVkrkoKaRsXsQluxdnzmEj0L9ASqGiGnyt5vWHihTH2DAD2dJsmSFM+jsySf1ghkvDrRofdQvMPucIRpUapdMR9bo8iatDNQOl3Kn7FWH0zihn46nRULRQwXem9fL3LCtuphnFCgyNNVWEnJyQFRsdH+msp7QsqA2BFtNlaA9IV8Mvd8EvU2bziw3Hzw8E80zNI7vegI4yU0TPD0bYvOXM9ri2/sU22uV485keluxvTHI7Dws0=;0zyVQye4jFS+QEiNZIus0g=="
 ---

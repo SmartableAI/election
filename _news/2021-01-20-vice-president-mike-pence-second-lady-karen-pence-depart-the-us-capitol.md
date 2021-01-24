@@ -1,28 +1,22 @@
 ---
 category: news
-title: "'Man without a home.' What the future may hold for Vice President Mike Pence"
-excerpt: "After four years of steadfast loyalty to Trump, Pence is said to be open to a 2024 run, but his rift with the president may close off that option."
-publishedDateTime: 2021-01-19T12:03:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
+title: "Vice President Mike Pence Second Lady Karen Pence Depart the U.S. Capitol"
+excerpt: "Former Vice President Mike Pence and Former Second Lady Karen Pence depart the Capitol. Vice President Kamala Harris and Second Man Doug Emhoff bid them farewell from the steps of the Capitol."
+publishedDateTime: 2021-01-20T00:00:00Z
+originalUrl: "https://www.c-span.org/video/?508135-2/vice-president-mike-pence-lady-karen-pence-depart-us-capitol"
+webUrl: "https://www.c-span.org/video/?508135-2/vice-president-mike-pence-lady-karen-pence-depart-us-capitol"
 type: article
-quality: 52
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: C-SPAN
+  domain: c-span.org
 
 topics:
   - Election
   - Mike Pence
-
-images:
-  - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?crop=3276,1843,x0,y166&width=3200&height=1680&fit=bounds"
-    width: 2986
-    height: 1680
-    isCached: true
 
 related:
   - title: "Vice President Pence thanks U.S. troops at Fort Drum"
@@ -101,6 +95,20 @@ related:
         width: 840
         height: 630
         isCached: true
+  - title: "'Man without a home.' What the future may hold for Vice President Mike Pence"
+    excerpt: "After four years of steadfast loyalty to Trump, Pence is said to be open to a 2024 run, but his rift with the president may close off that option."
+    publishedDateTime: 2021-01-19T12:03:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2021/01/19/mike-pences-future-chances-running-president-hurt-trump/6640990002/"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 52
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?crop=3276,1843,x0,y166&width=3200&height=1680&fit=bounds"
+        width: 2986
+        height: 1680
+        isCached: true
   - title: "Hear Vice President Mike Pence’s comments at Lemoore Naval Air Station"
     excerpt: "As his final days as vice president come to a close, Mike Pence shared some thoughts on the Trump administration's accomplishments during a stop at Lemoore Naval Air Station on Saturday."
     publishedDateTime: 2021-01-17T03:36:00Z
@@ -110,16 +118,7 @@ related:
       name: The Fresno Bee
       domain: fresnobee.com
     quality: 35
-  - title: "Vice President Mike Pence Second Lady Karen Pence Depart the U.S. Capitol"
-    excerpt: "Former Vice President Mike Pence and Former Second Lady Karen Pence depart the Capitol. Vice President Kamala Harris and Second Man Doug Emhoff bid them farewell from the steps of the Capitol."
-    publishedDateTime: 2021-01-20T00:00:00Z
-    webUrl: "https://www.c-span.org/video/?508135-2/vice-president-mike-pence-lady-karen-pence-depart-us-capitol"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 34
 
-secured: "SM0TZ16aQyvnUnd/QjYFbaz8yeBpekJkBd/9tMrBmSkidkhj4CvB7oxr+R3TMGKPi2cxy4hGoueZ1iekKCC7VOThD3tEupuJiAYi+cdfiXjZkFOUqVHRkp82Z+7Qp5kKqCDGMfj1hTGKABLxvWed19PE4DO2geb3O0d4Pi3q28vqENygE7sdzzB4DaRHY5WuXBMcOPvrhgHVMuNO8Q5E6uHTwBY4BmhYjhLu1hLUYb1R2k0UEIRKLxHEM4UhXhtaRzeG+r43CgI7R1/k//wruLbrnYdBycz4w/LjSE2T47VKzqOHi3NSHyJO58MPevu6KnUYc6yDHnB/P3oN81+3+nCqpX6GaTCqmlMCXrYAFZtWb22Uu11Q3g4XN9EODKZ0cmL81wNatiWABobFl2GcSVUjpUafQ1BBMAsvjRr5PQCpdzLrTfpdKIwZQQsgZQPI3IaMqd2hNC8MLR2yssCAjnpC6AGy66GEaiBO3P/+8NsCbC0RiQ4j/BZDZGBEpugJPpaeIxZMtKDO7Li1W04YGQ==;5/bIPy/E4DPtG4cxqkPDNw=="
+secured: "kpBmVNIenR8QeGyDN8bTBa0CE0Dxo6Ry83+mEPBqOppZSongBKKvK0+c5/9vsUjIq6H/rEBdDfZxsLnHJL1AMcwJCIY4UjUHPw82HqV0wUNiQMIaRR5EamR8SlO+PHO58vo9JQrYQ/Bs8thnPoSb4nomiWdhYoWU4bI0AEZBfmlp/eMJ5vL/HqnrpFlAInrl5RkxVpINLc74ycoTtlY3n0TqTBCpZ4btYbBLjjy+rdJ976FIhsMdAd92GcNViHyG+8GQ8NTGtpaES9pwjHG8HSoer28wSX5Ztr8E4TD5PwAOI61ptWWjrQALky5kjwhcN8qBrDYccMcuH5V7zLuKAYSUGbfFn9MGVJJm0odvx8o=;WhV8NVatdsdg4gpDoRDJIQ=="
 ---
 

@@ -109,6 +109,15 @@ related:
         width: 2986
         height: 1680
         isCached: true
+  - title: "Vice President Mike Pence Second Lady Karen Pence Depart the U.S. Capitol"
+    excerpt: "Former Vice President Mike Pence and Former Second Lady Karen Pence depart the Capitol. Vice President Kamala Harris and Second Man Doug Emhoff bid them farewell from the steps of the Capitol."
+    publishedDateTime: 2021-01-20T00:00:00Z
+    webUrl: "https://www.c-span.org/video/?508135-2/vice-president-mike-pence-lady-karen-pence-depart-us-capitol"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 34
 
 secured: "DYNrWRcjq11UaRJbrggDKrH3m0v41OtY3Fh/yLlSpo/qNhRxdV9K13Lvm16ei4t4KKnc6tp1ALEWywvFCkTNWB1zQX3XTI6Z5+9TfoJKsiWgEIrh5NYE1C7BFu0UBMswCRK6ruYzCyWGqEYVBsyTq4ZN77XFHBuQw/6mk6ZEnAeYKvqYo2ORSBPqlb5b779zcXRb/TmNu7nDndOx1Gmyw48JUXgquxPswceTKnBUmMHfKxF8xk0Y9CJuyA7z33hwfa06PfYDJmImiVUvh5fPrRwS08RSjyOtdFSlPBmDUXlamhOXkEuPUnjOukZYMvM9pjg8xbXwwnH2QXitnwI0i5/MaeT/wWXSTCbBVj2B+pry1++gKTqeJCaKgyh0Ukoi4VbGrDc6FORLyatS8454Tm4HTaIVArkBd3iP5c8e0VZ/8UKG3BOeU5xIVKM6Am/ho+sorSXRkB6tq5l3TIA4hPyhDy0DOeX8mBcCl6Nr9MTHB557jvpvpG73WYpRC7vniw+cJ3DXGpnWM4VT83VBrQ==;sxa8ghUWeysK4J6UcQ41kA=="
 ---

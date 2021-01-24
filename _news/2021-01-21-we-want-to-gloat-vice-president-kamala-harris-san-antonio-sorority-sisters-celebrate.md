@@ -87,19 +87,19 @@ related:
         isCached: true
   - title: "Kamala Harris' inauguration dress made by Louisiana designer"
     excerpt: "BATON ROUGE, La. (AP) — The father of the Baton Rouge native who designed Kamala Harris’ dress for Wednesday’s inauguration said watching the vice president take the oath of office in a purple dress his son designed is one of the proudest moments of his life."
-    publishedDateTime: 2021-01-23T12:42:00Z
-    webUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-inauguration-dress-made-by-15892985.php"
-    ampWebUrl: "https://www.sfchronicle.com/news/amp/Kamala-Harris-inauguration-dress-made-by-15892985.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Kamala-Harris-inauguration-dress-made-by-15892985.php"
+    publishedDateTime: 2021-01-23T14:42:00Z
+    webUrl: "https://www.chron.com/news/article/Kamala-Harris-inauguration-dress-made-by-15892985.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Kamala-Harris-inauguration-dress-made-by-15892985.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Kamala-Harris-inauguration-dress-made-by-15892985.php"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/16/21/64/20520240/19/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Kamala Harris' Inauguration Dress Made by Louisiana Designer"
     excerpt: "BATON ROUGE, La. (AP) — The father of the Baton Rouge native who designed Kamala Harris’ dress for Wednesday’s inauguration said watching the vice president take the oath of office in a purple dress his son designed is one of the proudest moments of his life."
