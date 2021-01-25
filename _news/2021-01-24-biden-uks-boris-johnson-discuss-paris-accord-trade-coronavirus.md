@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-uks-boris-johnson-discuss-par
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 173
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Andy-Slavitt-GETTY.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden's 'nothing we can do' comments on coronavirus trajectory causes stir"
+    excerpt: "President Biden has drawn backlash for providing a pessimistic view of his administration's ability to combat the coronavirus pandemic in the near future."
+    publishedDateTime: 2021-01-25T15:33:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zhcIOKimWyA/biden-coronavirus-trajectory-nothing-we-can-do-reaction"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-trajectory-nothing-we-can-do-reaction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-trajectory-nothing-we-can-do-reaction.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f15c048f-3ba7-41c1-9551-6f2dbe85af5b/7a6bb0da-420b-418b-81ff-afe7e804c277/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

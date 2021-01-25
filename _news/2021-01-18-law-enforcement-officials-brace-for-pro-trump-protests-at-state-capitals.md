@@ -29,33 +29,95 @@ images:
     isCached: true
 
 related:
-  - title: "A quiet Sunday: Pro-Trump protests largely unrealized at Colorado Capitol, in other states"
-    excerpt: "As President-elect Joe Biden's Wednesday inauguration approaches, federal, state and local law enforcement agencies have braced for possible violence."
-    publishedDateTime: 2021-01-17T23:26:00Z
-    webUrl: "https://www.usatoday.com/story/news/2021/01/17/live-updates-monitoring-colorado-capitol-protests-jan-17/4196764001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4196764001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4196764001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/17/PFTC/c501bffb-1284-4718-9be1-98477efcc50d-290169B6-DF62-4134-B61F-ACE89E9F9C56.jpeg?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "U.S. state capitals gird for pro-Trump armed protests, FBI flags risk of violence"
-    excerpt: "Protesters are expected to descend on statehouses across the United States on Sunday in support of baseless claims that electoral fraud robbed President Donald Trump of a second term, as law enforcement officials girded for possible violence."
-    publishedDateTime: 2021-01-17T13:43:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-protests/us-state-capitals-gird-for-pro-trump-armed-protests-fbi-flags-risk-of-violence-idUSKBN29M048"
+  - title: "'We will be back in some form,' Trump vows at end of tumultuous presidency"
+    excerpt: "President Donald Trump disappeared on Wednesday behind the walls of his club in Palm Beach, Florida, ending a tumultuous presidency stained by two impeachments, deep political divisions and a pandemic that has caused 400,"
+    publishedDateTime: 2021-01-21T04:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29P0II"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P0II"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P0II"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 100
+    quality: 123
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548089624&r=LYNXMPEH0G03L&w=800"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548466641&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J18I"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Vast majority of Americans hold Trump responsible for Capitol siege, new Insider poll shows"
+    excerpt: "Americans overwhelmingly say that President Donald Trump is responsible on some level for the Capitol siege, according to a new Insider poll. 76% said Trump bears a \"great deal\" o"
+    publishedDateTime: 2021-01-17T13:59:00Z
+    webUrl: "https://www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/6000b0e1a81ea100188db505?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump made 30,573 false or misleading claims as president. Nearly half came in his final year."
+    excerpt: "The Washington Post Fact Checker’s database of Trump claims, originally launched as a project to track his first 100 days, offers a window into his obsessions."
+    publishedDateTime: 2021-01-24T04:35:00Z
+    webUrl: "https://www.washingtonpost.com/politics/how-fact-checker-tracked-trump-claims/2021/01/23/ad04b69a-5c1d-11eb-a976-bad6431e03e2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/how-fact-checker-tracked-trump-claims/2021/01/23/ad04b69a-5c1d-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/how-fact-checker-tracked-trump-claims/2021/01/23/ad04b69a-5c1d-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UMKPWNCU54I6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Harold Bornstein, Trump's former doctor who said he'd be the 'healthiest' president of all time, dies at 73"
+    excerpt: "Bornstein rose to global fame after he declared Trump \"the healthiest individual ever elected to the presidency.\" But Trump still cast him aside."
+    publishedDateTime: 2021-01-16T19:10:00Z
+    webUrl: "https://www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/60005bc6a8de7700187d3d2d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The Trump years: Tax cuts and trade wars overshadowed in the end by a virus"
+    excerpt: "From trade wars to tax cuts, from ultra-low unemployment to record highs on stock markets and a high-volume feud with his own Federal Reserve chief, President Donald Trump took the U.S. economy on a wild ride even before the coronavirus drove it off a cliff."
+    publishedDateTime: 2021-01-19T16:37:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-economy-trump/the-trump-years-tax-cuts-and-trade-wars-overshadowed-in-the-end-by-a-virus-idUKKBN29O169"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548298212&r=LYNXMPEH0I0OD&w=800"
+        width: 800
+        height: 561
+        isCached: true
+  - title: "Trump sought the world's attention and got it. Now the White House reality show ends"
+    excerpt: "A red tie, often tied too long. A raised fist, often held high to a supportive crowd. A scowling face. A raised voice."
+    publishedDateTime: 2021-01-18T19:37:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-postcards/trump-sought-the-worlds-attention-and-got-it-now-the-white-house-reality-show-ends-idUSKBN29N1E2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548203838&r=LYNXMPEH0H0U5&w=800"
         width: 800
         height: 533
         isCached: true

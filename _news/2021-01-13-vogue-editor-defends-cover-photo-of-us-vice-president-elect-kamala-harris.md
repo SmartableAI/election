@@ -2179,6 +2179,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AKA sorority members celebrate Kamala Harris inauguration"
+    excerpt: "CHICAGO (AP) — Elizabeth Shelby had her inauguration outfit planned weeks in advance: blue jeans, a Kamala Harris sweatshirt, a green coat, and pink Chuck Taylors as an homage to her sorority’s colors and Vice President Harris’ signature shoe."
+    publishedDateTime: 2021-01-22T21:13:00Z
+    webUrl: "https://www.timesunion.com/news/article/AKA-sorority-members-celebrate-Kamala-Harris-15887911.php"
+    ampWebUrl: "https://www.timesunion.com/news/amp/AKA-sorority-members-celebrate-Kamala-Harris-15887911.php"
+    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/AKA-sorority-members-celebrate-Kamala-Harris-15887911.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Kamala Harris officially resigns from the US Senate ahead of inauguration"
     excerpt: "Vice President-elect Kamala Harris has formally submitted a letter of resignation for her US Senate seat to California Gov. Gavin Newsom, ending her four-year career in the chamber."
     publishedDateTime: 2021-01-18T22:49:00Z

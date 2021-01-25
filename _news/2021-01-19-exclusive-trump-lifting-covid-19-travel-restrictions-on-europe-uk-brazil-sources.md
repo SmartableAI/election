@@ -29,37 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump administration nixes plans for controversial last-minute foreign trips to Europe and Taiwan"
-    excerpt: "Facing reported snubs by EU allies, Mike Pompeo's staying home, and Ambassador Kelly Craft won't visit Taiwan – a trip that would have infuriated China."
-    publishedDateTime: 2021-01-13T10:11:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-biden-transition-mike-pompeo-kelly-craft-europe-taiwan-travel-cancelled/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-biden-transition-mike-pompeo-kelly-craft-europe-taiwan-travel-cancelled/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-biden-transition-mike-pompeo-kelly-craft-europe-taiwan-travel-cancelled/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 112
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/11/f52e32c5-77b7-4e21-8af8-83be52dd5b8f/thumbnail/1200x630/ea79939e1c64abe7361b6638bd745954/gettyimages-1290714664.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Vaccine reserve was already exhausted when Trump administration vowed to release it, dashing hopes of expanded access"
-    excerpt: "States were anticipating a windfall after federal officials said they would stop holding back second doses. But the policy had already changed, and no stockpile exists."
-    publishedDateTime: 2021-01-15T20:02:00Z
-    webUrl: "https://www.washingtonpost.com/health/2021/01/15/trump-vaccine-reserve-used-up/"
-    ampWebUrl: "https://www.washingtonpost.com/health/2021/01/15/trump-vaccine-reserve-used-up/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/01/15/trump-vaccine-reserve-used-up/?outputType=amp"
+  - title: "Biden to reinstate COVID-19 travel rules, add South Africa"
+    excerpt: "Two White House officials say President Joe Biden on Monday will formally reinstate COVID-19 travel restrictions on non-U.S. travelers from Brazil, Ireland, United Kingdom and 26 other European countr"
+    publishedDateTime: 2021-01-25T14:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 102
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NXIXITCVBEI6XLGFSLJIDGQ4ZM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Fauci Says Biden's 'Strikingly Different Tone' on COVID Crisis Will Rev Up Vaccination Efforts"
+    excerpt: "\"Instead of pointing fingers and making blame, we're going to try and fix it,\" the nation's top infectious disease expert said."
+    publishedDateTime: 2021-01-23T18:57:00Z
+    webUrl: "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912"
+    ampWebUrl: "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 113
+    images:
+      - url: "https://d.newsweek.com/en/full/1714793/anthony-fauci.jpg"
+        width: 2500
+        height: 1668
         isCached: true
 
 secured: "yGKTQemu9SPGaTdnf+ZKSa72l83prjqayNkw/9xvgsE97r4ThB2/t+Gh0wxUMPSNPFlJgcJTGPItbf1cEl3xuYFyErLfaO96DCZ8+28W3+R58SQCpyKbdQEDeSlMagBA49jUGA3JwUtvk8VRmFMjbLGagwSNsII0k0iNnxootbJ6SUYSYPnf1R13A8kKT2t4LBAfH4t5NkDPJ3Sb3uUZ/KqLwb9keWCG0gljZml5qYUlaAVgaCQTMud5tVxQLbzhZdec2ObAzaU48nPONSNqVDuLJiZCn9XEDHPpXeJNV63BuCGpCS9yFxpJPReTxjAQj7EgXPGjhDk5HXgCxHdYwhGtriLG6B+Am4Bqb1ZCvh0=;taGoqLRZSgDyNXeyBWAn3g=="

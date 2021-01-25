@@ -79,22 +79,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "City council seeks input on bill condemning Trump for riot"
-    excerpt: "A city council in Maryland is seeking public input on a resolution that condemns former President Donald Trump for the violent siege of the U.S. Capitol"
-    publishedDateTime: 2021-01-25T14:53:00Z
-    webUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Senate To Begin Trump's Impeachment Trial Week Of Feb. 8"
     excerpt: "The House of Representatives, which already voted to impeach Trump, plans to transmit the article on Monday evening."
     publishedDateTime: 2021-01-23T00:26:00Z

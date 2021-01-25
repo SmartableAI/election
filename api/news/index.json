@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-26-biden-revokes-trumps-ban-on-transgender-americans-serving-in-the-military.md",
+      "title": "Biden revokes Trump's ban on transgender Americans serving in the military",
+      "excerpt": "\"President Biden believes that gender identity should not be a bar to military service,\" the White House said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/biden-lifts-military-transgender-ban/",
+      "originalUrl": "https://www.cbsnews.com/news/biden-lifts-military-transgender-ban/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 638,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/25/30ca4ffa-dbb6-4707-b5b4-afc22ad90b59/thumbnail/1200x630g2/9a8551d8ee73ca9f07232b67ff7b087c/gettyimages-1230779823.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-lifts-military-transgender-ban/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-lifts-military-transgender-ban/",
+      "publishedDateTime": "2021-01-25T08:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-supreme-court-dismisses-emolument-cases-against-trump.md",
+      "title": "Supreme Court dismisses emolument cases against Trump",
+      "excerpt": "The Supreme Court declined on Monday to hear a case concerning whether former President Donald Trump violated provisions of the Constitution that bar a president from profiting from a foreign government.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pwk7xXXLMKU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pwk7xXXLMKU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180329110216-02-trump-hotel-washington-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court-donald-trump-case/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court-donald-trump-case/index.html",
+      "publishedDateTime": "2021-01-25T08:24:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-fauci-birx-were-right-to-stay-on-trump-coronavirus-task-force-former-surgeon-general-says.md",
       "title": "Fauci, Birx were right to stay on Trump coronavirus task force, former surgeon general says",
       "excerpt": "Former Surgeon General Dr. Jerome Adams defended Trump administration coronavirus task force members Dr. Anthony Fauci and Dr. Deborah Birx over criticism that they should have quit working for former President Donald Trump.",
@@ -111,6 +219,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-biden-to-reinstate-covid-19-travel-rules-add-south-africa.md",
+      "title": "Biden to reinstate COVID-19 travel rules, add South Africa",
+      "excerpt": "Two White House officials say President Joe Biden on Monday will formally reinstate COVID-19 travel restrictions on non-U.S. travelers from Brazil, Ireland, United Kingdom and 26 other European countr",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-25T06:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -447,7 +607,7 @@
       "originalUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -556,7 +716,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-justice-idUSKBN29T0FS",
       "featuredContent": null,
       "highlight": null,
-      "heat": 453,
+      "heat": 373,
       "tags": null,
       "images": [
         {
@@ -886,7 +1046,7 @@
       "originalUrl": "https://www.cbsnews.com/news/trump-second-impeachment-managers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 203,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -1099,7 +1259,7 @@
       "originalUrl": "https://www.newsweek.com/facebook-vp-hopes-board-uphold-donald-trump-ban-1563958",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1151,7 +1311,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president?share=facebook",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1192,171 +1352,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-return-of-the-technocrats-biden-aims-for-normal-after-four-years-of-tumult.md",
-      "title": "Return of the technocrats: Biden aims for ‘normal’ after four years of tumult",
-      "excerpt": "The first few days of Biden’s administration have produced a blizzard of fact sheets and memorandums — a veritable redwood worth of paperwork — with aspirations of a return to regular order.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJVT6RC47EI6XKCJN6KCHJ277U.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-23T18:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus.md",
-      "title": "Biden, UK's Boris Johnson discuss Paris accord, trade, coronavirus",
-      "excerpt": "President Biden had his first phone call with British Prime Minister Boris Johnson on Saturday, where Johnson pressed the new president for a U.S.-U.K. trade deal. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zc_6kiHuKl8/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zc_6kiHuKl8/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Joe-Biden-Oval-Office-2.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus.amp",
-      "publishedDateTime": "2021-01-23T17:20:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-biden-to-mayors-things-are-going-to-get-worse.md",
-      "title": "Biden to mayors: “Things are going to get worse”",
-      "excerpt": "President Joe Biden warned the pandemic will get worse in the next several months, and he urged more personal responsibility. NBC News confirmed former President Trump engaged in a plan to upend the Justice Department to overturn the election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/biden-to-mayors-things-are-going-to-get-worse-99925573654",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/biden-to-mayors-things-are-going-to-get-worse-99925573654",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/nn_kod_biden_agenda_trump_impeachment_210123_1611447127689.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo99925573654",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99925573654",
-      "publishedDateTime": "2021-01-23T16:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

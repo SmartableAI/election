@@ -219,20 +219,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden taps Levine for key health role, in historic pick of transgender person"
-    excerpt: "President-elect Joe Biden on Tuesday named Dr. Rachel Levine to service as assistant U.S. health secretary, a historic first as Levine would become the first openly transgender official to be confirmed by the Senate."
-    publishedDateTime: 2021-01-19T14:48:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-levine/biden-taps-levine-for-key-health-role-in-historic-pick-of-transgender-person-idUSKBN29O1J1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 102
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548313465&r=LYNXMPEH0I0ZQ&w=800"
-        width: 800
-        height: 515
-        isCached: true
   - title: "Walmart, Disney suspend contributions to U.S. lawmakers who opposed Biden certification"
     excerpt: "Walmart Inc, the world's biggest retailer and Walt Disney Co joined other major companies in indefinitely suspending donations to U.S. lawmakers who voted against President-elect Joe Biden's election certification."
     publishedDateTime: 2021-01-13T07:53:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/trump-doj-attorney-plan-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/trump-doj-attorney-plan-replace-acting-ag-false-election-claims/index.html"
 type: article
 quality: 173
-heat: 213
+heat: 193
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115181104-my-pillow-ceo-michael-lindell-white-house-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Wall Street Journal: Trump pressured DOJ to file case with Supreme Court to overturn election results"
-    excerpt: "Former President Donald Trump pushed the Department of Justice to directly ask the Supreme Court to invalidate President Joe Biden's election win, people familiar with the matter told the Wall Street Journal."
-    publishedDateTime: 2021-01-25T08:05:00Z
-    webUrl: "https://www.cnn.com/2021/01/23/politics/trump-department-of-justice-supreme-court-election-results/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/23/politics/trump-department-of-justice-supreme-court-election-results/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/23/politics/trump-department-of-justice-supreme-court-election-results/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119161957-01-trump-farewell-video-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

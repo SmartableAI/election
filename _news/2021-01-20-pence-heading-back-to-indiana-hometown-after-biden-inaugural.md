@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/pence-heading-back-to-indian
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 4150
+heat: 4170
 published: true
 
 provider:
@@ -1181,6 +1181,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/biden-covid-plan-gty-jef-210121_1611265986368_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden replaces White House doctor with longtime physician"
+    excerpt: "President Joe Biden has brought back Dr. Kevin O’Connor as his physician, replacing President Donald Trump’s doctor with the one who oversaw his care when he was vice president"
+    publishedDateTime: 2021-01-25T16:18:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-replaces-white-house-doctor-longtime-physician-75470445"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-replaces-white-house-doctor-longtime-physician-75470445"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-replaces-white-house-doctor-longtime-physician-75470445"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_018ab35ffa8c45f497af299030986e02_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

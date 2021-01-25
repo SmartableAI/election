@@ -47,7 +47,7 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump impeachment article being sent to Senate Monday, triggering trial to start in earnest next month"
+  - title: "Trump impeachment article being sent to Senate Monday, ahead of trial next month"
     excerpt: "Just before 7 p.m. on Monday, the House of Representatives' impeachment managers will march an article accusing former President Trump of inciting an insurrection across to the Senate side of the Capitol, officially triggering a trial of the former president that could result in him being barred from"
     publishedDateTime: 2021-01-25T14:46:13Z
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fW9OfGOn-VE/trump-impeachment-article-being-sent-to-senate-today-to-kick-off-trial"
@@ -57,7 +57,7 @@ related:
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 170
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340

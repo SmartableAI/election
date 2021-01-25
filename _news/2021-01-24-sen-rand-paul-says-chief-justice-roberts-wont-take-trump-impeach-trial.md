@@ -188,6 +188,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Gaetz traveling to Wyoming to take aim at Cheney amid uproar over her Trump impeachment vote"
+    excerpt: "One of former President Trump’s top supporters in the House of Representatives is targeting one of Trump’s biggest House GOP critics. Rep. Matt Gaetz of Florida is heading to House Republican Conference Chair Liz Cheney’s home state of Wyoming on Thursday, where he’ll hold an event outside the state"
+    publishedDateTime: 2021-01-25T15:56:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TEraHAR3f6c/gaetz-traveling-to-wyoming-to-take-aim-at-cheney-amid-uproar-over-her-trump-impeachment-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/gaetz-traveling-to-wyoming-to-take-aim-at-cheney-amid-uproar-over-her-trump-impeachment-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gaetz-traveling-to-wyoming-to-take-aim-at-cheney-amid-uproar-over-her-trump-impeachment-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Cheney on calls to step down after impeachment vote: I'm 'confident' GOP will be united against Biden"
     excerpt: "Rep. Liz Cheney, R-Wyo., was less interested Thursday in discussing backlash from the party over her vote to impeach former President Donald Trump last week than how congressional Republicans plan to check President Biden's agenda."
     publishedDateTime: 2021-01-21T17:15:34Z
@@ -203,6 +219,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99358d26-af6a-480e-ad64-fc605954db0c/0a1a97f5-1c2e-489a-8e0a-312e92622968/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump impeachment article being sent to Senate Monday, triggering trial to start in earnest next month"
+    excerpt: "Just before 7 p.m. on Monday, the House of Representatives' impeachment managers will march an article accusing former President Trump of inciting an insurrection across to the Senate side of the Capitol,"
+    publishedDateTime: 2021-01-25T14:48:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-impeachment-article-being-sent-to-senate-today-to-kick-off-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-article-being-sent-to-senate-today-to-kick-off-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-article-being-sent-to-senate-today-to-kick-off-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/chuck-Schumer.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Sen. McConnell Told Republicans He Would Propose Starting Trump Impeachment Trial in Two Weeks"
     excerpt: "Senate Minority Leader Mitch McConnell told Republicans he would propose starting former President Donald Trump’s impeachment trial in two weeks to give his legal team time to prepare, GOP aides said Thursday."

@@ -31,37 +31,95 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump is First President in Modern History to Never Reach 50% Approval in Gallup Poll"
-    excerpt: "Trump will also exit the White House with the lowest average approval rating of any president in the Gallup poll. At 41 percent, the president's rating is four points lower than the averages of Jimmy Carter and Harry Truman,"
-    publishedDateTime: 2021-01-19T16:52:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653?amp=1"
+  - title: "'We will be back in some form,' Trump vows at end of tumultuous presidency"
+    excerpt: "President Donald Trump disappeared on Wednesday behind the walls of his club in Palm Beach, Florida, ending a tumultuous presidency stained by two impeachments, deep political divisions and a pandemic that has caused 400,"
+    publishedDateTime: 2021-01-21T04:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29P0II"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P0II"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P0II"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 114
+      name: Reuters
+      domain: reuters.com
+    quality: 123
     images:
-      - url: "https://d.newsweek.com/en/full/1710870/donald-trump-border-wall-visit-1-12-2021.jpg"
-        width: 2500
-        height: 1623
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548466641&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J18I"
+        width: 818
+        height: 545
         isCached: true
-  - title: "Donald Trump spends final minutes in office at Mar-a-Lago, is first president to skip inauguration in more than 150 years"
-    excerpt: "Trump's military send-off at Joint Base Andrews appeared smaller than expected. He left on Air Force One as Frank Sinatra's \"My Way\" played."
-    publishedDateTime: 2021-01-21T18:05:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/20/donald-trump-plans-end-his-presidency-mar-lago-florida/4210601001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4210601001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4210601001"
+  - title: "Vast majority of Americans hold Trump responsible for Capitol siege, new Insider poll shows"
+    excerpt: "Americans overwhelmingly say that President Donald Trump is responsible on some level for the Capitol siege, according to a new Insider poll. 76% said Trump bears a \"great deal\" o"
+    publishedDateTime: 2021-01-17T13:59:00Z
+    webUrl: "https://www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 100
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/de83808c-d841-464c-9f8d-eb7ef135dad1-AFP_AFP_8Z69UN.JPG?auto=webp&crop=4566,2568,x0,y186&format=pjpg&width=1200"
+      - url: "https://i.insider.com/6000b0e1a81ea100188db505?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
+        isCached: true
+  - title: "Harold Bornstein, Trump's former doctor who said he'd be the 'healthiest' president of all time, dies at 73"
+    excerpt: "Bornstein rose to global fame after he declared Trump \"the healthiest individual ever elected to the presidency.\" But Trump still cast him aside."
+    publishedDateTime: 2021-01-16T19:10:00Z
+    webUrl: "https://www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/60005bc6a8de7700187d3d2d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Law enforcement officials brace for pro-Trump protests at state capitals"
+    excerpt: "Members of the State police arrive at the Michigan state Capitol in Lansing, Michigan. REUTERS/Rebecca Cook"
+    publishedDateTime: 2021-01-18T00:00:00Z
+    webUrl: "https://www.reuters.com/news/picture/law-enforcement-officials-brace-for-pro-idUSRTX8N0Y3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210117&t=2&i=1548135793&w=&fh=545&fw=810&ll=&pl=&sq=&r=2021-01-17T234213Z_38118_MRPRC2W9L9NEB41_RTRMADP_0_USA-TRUMP-PROTESTS"
+        width: 810
+        height: 540
+        isCached: true
+  - title: "The Trump years: Tax cuts and trade wars overshadowed in the end by a virus"
+    excerpt: "From trade wars to tax cuts, from ultra-low unemployment to record highs on stock markets and a high-volume feud with his own Federal Reserve chief, President Donald Trump took the U.S. economy on a wild ride even before the coronavirus drove it off a cliff."
+    publishedDateTime: 2021-01-19T16:37:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-economy-trump/the-trump-years-tax-cuts-and-trade-wars-overshadowed-in-the-end-by-a-virus-idUKKBN29O169"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548298212&r=LYNXMPEH0I0OD&w=800"
+        width: 800
+        height: 561
+        isCached: true
+  - title: "Trump sought the world's attention and got it. Now the White House reality show ends"
+    excerpt: "A red tie, often tied too long. A raised fist, often held high to a supportive crowd. A scowling face. A raised voice."
+    publishedDateTime: 2021-01-18T19:37:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-postcards/trump-sought-the-worlds-attention-and-got-it-now-the-white-house-reality-show-ends-idUSKBN29N1E2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548203838&r=LYNXMPEH0H0U5&w=800"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "aOukQoxdAaRGD1JQVyn70C9//vB8dzbKcKfJAgDH3EZ6XcJrcf7TZlv3DosFClDlwL/AY7zJj2+tGvdpmyW+XTMhPNbWeXgK3gixVVfF0bLAZmR7AmONYjn1FXkca6tGmM9Th3UxQ6cSH61zCZIwjrDelzhC6ewsSB2+vWd+s2ExQvNsLLv+gmKeqd9OH6JvVkVUnT7Es7SDWxH3gEKwb3YTibt+qZCZmv8xt81KJutACm+RmjngmpfaEP2FoeW+55PsDF6HFt6n0YgXMqYKm3BSdhsMwp05qWWh7Nq32O7NJmitEXx8v5OnLlfWggvfGb/6XMwdfs93bt9/XBg6NShOBwXKxHPNhOcA0NheAIAolX0HxOEpdXpiOcwzVrspcHaC2hZ44mc5VJxcxTYhxj2bYYA4fY96gBOTKe16B6CCmBoR/wtJGhHDek5WAaF5oLeqcVj4kPQR8bDSOgVezxiiH+OMfCkP2Z1a1ewYz7OKykHMcxtKABZk7ac/DV+zNw4GpMo/iBfDdqraC1cLog==;AzVOrxQGdiS+K4iS2jrMVQ=="

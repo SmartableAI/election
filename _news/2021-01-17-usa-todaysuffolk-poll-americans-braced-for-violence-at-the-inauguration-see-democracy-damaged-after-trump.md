@@ -31,158 +31,61 @@ images:
     isCached: true
 
 related:
-  - title: "Majority of Americans Think History Will View Trump as 'Failed' President"
-    excerpt: "Evaluating a president's time in office often requires a rearview mirror. While history has yet to weigh in on President Donald Trump's time in office, Americans don't see President Donald Trump receiving positive remarks down the road. After a contentious ..."
-    publishedDateTime: 2021-01-18T15:48:00Z
-    webUrl: "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394"
-    ampWebUrl: "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
-    images:
-      - url: "https://d.newsweek.com/en/full/1710407/trump-history-americans-failed-president.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Slim majority of Americans want Senate to convict Trump: Reuters/Ipsos poll"
-    excerpt: "A slim majority of Americans say former President Donald Trump should be convicted by the Senate of inciting an insurrection and barred from holding public office, according to a Reuters/Ipsos poll, which showed a sharp partisan divide over the issue."
-    publishedDateTime: 2021-01-23T02:24:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-poll-idUSKBN29R2M9"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R2M9"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R2M9"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548764158&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1IU"
-        width: 804
-        height: 545
-        isCached: true
-  - title: "Exclusive: As Trump leaves office, 50% of Americans see him as a 'failed' president"
-    excerpt: "Trump hasn't succeeded in overturning the election results but he has persuaded a third of Americans that Biden wasn't legitimately elected"
-    publishedDateTime: 2020-12-24T09:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/24/donald-trump-failed-president-50-usa-today-poll-say/3926190001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3926190001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3926190001"
+  - title: "A quiet Sunday: Pro-Trump protests largely unrealized at Colorado Capitol, in other states"
+    excerpt: "As President-elect Joe Biden's Wednesday inauguration approaches, federal, state and local law enforcement agencies have braced for possible violence."
+    publishedDateTime: 2021-01-17T23:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/01/17/live-updates-monitoring-colorado-capitol-protests-jan-17/4196764001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4196764001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4196764001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 119
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e0873822-4b69-42e9-b96d-431644856090-AP_APTOPIX_Election_2020_Biden.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/17/PFTC/c501bffb-1284-4718-9be1-98477efcc50d-290169B6-DF62-4134-B61F-ACE89E9F9C56.jpeg?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Vast majority of Americans hold Trump responsible for Capitol siege, new Insider poll shows"
-    excerpt: "Americans overwhelmingly say that President Donald Trump is responsible on some level for the Capitol siege, according to a new Insider poll. 76% said Trump bears a \"great deal\" o"
-    publishedDateTime: 2021-01-17T13:59:00Z
-    webUrl: "https://www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vast-majority-of-americans-hold-trump-responsible-capitol-siege-poll-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
-    images:
-      - url: "https://i.insider.com/6000b0e1a81ea100188db505?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Analysis - Trump's legacy: A more divided America, a more unsettled world"
-    excerpt: "Closing out his presidency exactly four years later, Trump leaves behind an even more polarized America, where thousands are dying daily from the COVID-19 pandemic, the economy is badly damaged and political violence has surged."
-    publishedDateTime: 2021-01-19T12:15:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-legacy/analysis-trumps-legacy-a-more-divided-america-a-more-unsettled-world-idUSL1N2JS0KO"
+  - title: "U.S. state capitals gird for pro-Trump armed protests, FBI flags risk of violence"
+    excerpt: "Protesters are expected to descend on statehouses across the United States on Sunday in support of baseless claims that electoral fraud robbed President Donald Trump of a second term, as law enforcement officials girded for possible violence."
+    publishedDateTime: 2021-01-17T13:43:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-protests/us-state-capitals-gird-for-pro-trump-armed-protests-fbi-flags-risk-of-violence-idUSKBN29M048"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 104
+    quality: 100
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297890&r=LYNXMPEH0I0O7&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548089624&r=LYNXMPEH0G03L&w=800"
         width: 800
-        height: 547
+        height: 533
         isCached: true
-  - title: "Analysis - Trump's legacy: A more divided America, a more unsettled world"
-    excerpt: "Closing out his presidency exactly four years later, Trump leaves behind an even more polarized America, where thousands are dying daily from the COVID-19 pandemic, the economy is badly damaged and political violence has surged."
-    publishedDateTime: 2021-01-19T16:35:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-legacy-analysis/analysis-trumps-legacy-a-more-divided-america-a-more-unsettled-world-idUSKBN29O15W?post"
+  - title: "'It was a non-event': Pro-Trump protests quiet amid massive police presence across U.S."
+    excerpt: "Law enforcement officers far outnumbered protesters at state capitol grounds on Sunday, as few Trump supporters who believe the president's false claim that he won the 2020 election turned out for what authorities feared could be violent demonstrations."
+    publishedDateTime: 2021-01-18T06:37:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/us-state-capitals-see-few-protesters-after-bracing-for-violent-demonstrations-idUSKBN29M046"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 104
+    quality: 97
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297890&r=LYNXMPEH0I0O7&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548124964&r=LYNXMPEH0G0GQ&w=800"
         width: 800
-        height: 547
+        height: 533
         isCached: true
-  - title: "Trump laid out a vision for America in his inaugural address 4 years ago. He has come nowhere near realizing it."
-    excerpt: "President Trump will leave office with more Americans out of work than when he started, and with the US's international reputation damaged."
-    publishedDateTime: 2021-01-19T22:44:00Z
-    webUrl: "https://www.businessinsider.com/trump-inauguration-address-vision-not-realized-not-aged-well-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trump-inauguration-address-vision-not-realized-not-aged-well-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-inauguration-address-vision-not-realized-not-aged-well-2021-1?amp"
+  - title: "'It Was a Non-Event': Pro-Trump Protests Quiet Amid Massive Police Presence Across U.S."
+    excerpt: "Trump Protests Quiet Amid Massive Police Presence Across U.S. HARRISBURG, Pa./LANSING, Mich. (Reuters) - Law enforcement officers far outnumbered protesters at state capitol grounds on Sunday, as few Trump supporters who believe the president's false claim that he won the 2020 election turned out for what authorities feared could be violent demonstrations."
+    publishedDateTime: 2021-01-19T04:13:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-17/us-capitals-gird-for-pro-trump-armed-protests-as-fbi-flags-risk-of-violence"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-17/us-capitals-gird-for-pro-trump-armed-protests-as-fbi-flags-risk-of-violence?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-17/us-capitals-gird-for-pro-trump-armed-protests-as-fbi-flags-risk-of-violence?context=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/6006a71ce3d62500185fd109?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Most Americans Want Trump Gone From Politics, Poll Says"
-    excerpt: "A slim majority of Americans want to see Trump charged with the incitement of the mob that attacked the Capitol Building, which would bar him from holding public office if convict"
-    publishedDateTime: 2021-01-15T15:21:00Z
-    webUrl: "https://www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261"
-    ampWebUrl: "https://www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/us-president-donald-trump-owns-the-unfortunate-distinction.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "EU Chiefs Express Relief As 'Friend' Replaces Trump"
-    excerpt: "The European Union's top officials expressed relief on Wednesday that they would again have a friend in the White House as Joe Biden replaces Donald Trump. Charles Michel, president of the European Council,"
-    publishedDateTime: 2021-01-20T09:09:00Z
-    webUrl: "https://www.ibtimes.com/eu-chiefs-express-relief-friend-replaces-trump-3126426"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/20/von-der-leyen-compared-the-us-riot-to-AFP_8Z66KB.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "From the border to the federal bench to raging political divisions: How Donald Trump's tenure has changed America"
-    excerpt: "No matter what Trump does now, his past four years have left a mark on immigration, the federal bench and the nation's raging political divisions."
-    publishedDateTime: 2021-01-18T23:23:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2021/01/18/heres-how-trumps-tumultuous-four-years-president-changed-america/4165708001/"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 34
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d9fcae70-ecb3-4fa7-ba54-bd90bcd378e0-AP21012563654909.jpg?crop=5999,3374,x1,y626&width=3200&height=1680&fit=bounds"
-        width: 2987
-        height: 1680
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
 
 secured: "C8znhiySYaibFwLglQwj/+rKuNHgBFQQzsAzq3xQmXsekF4knhYSmgHQe02AFk4vTlh5hN4yVeZtTm8DWbiyfzlPgzteSZDXSUWhaItnPezXKIst/OWFPPenfLJkG5jYkEXJkJMijBM9wk2AsUx0z+ex/x0rBg4qFz4RlFM1GQC/Kd8f99CAVAJtwdHtZcIW3bhr2MN6cOF9tiOg0j6qmgb4i6MaFzeYiBe7avTuZm/xWzm7DJuNP0oJalPNURlD2Tip57ffkQQ1DEjG3xNRt4fhxxKEfWCNUC387VpF5GlSu7+pQqp6CMj/O1Fl25eKRs44CMkpkgvvDjR3x24R3jb5N4T6AF2uqa6sMh7gKmFlaXDBeIjbj06XTrHI5CUeJF/XHLlwApDrKBydk2WtUAtYO+9IyR5Q36rSEWGjqcJ+/6FrbVic6vMgkE3b2Ie2v/N3i15sModnMnel/XFQ1Nxq2LAxvrI5GPAcL55hrrBOLIuCWiPGrEL9sSXTea4gnKoNEV/4fz/YL7IfoTcZdQ==;ya3ME04Lwr7PPeWC7SYUgQ=="
 ---

@@ -182,17 +182,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "President Joe Biden: ‘This Is America’s Day’"
-    excerpt: "The 21-minute inaugural address focused on healing, unity, justice and the perseverance of democracy for an audience in America and around the world."
-    publishedDateTime: 2021-01-20T19:08:00Z
-    webUrl: "https://www.usnews.com/news/elections/articles/2021-01-20/president-joe-biden-this-is-americas-day"
-    ampWebUrl: "https://www.usnews.com/news/elections/articles/2021-01-20/president-joe-biden-this-is-americas-day?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2021-01-20/president-joe-biden-this-is-americas-day?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "Eqxh21A6iQyalYVdaWRXiNsrYRNc00BQriSAz5czpYsINis98McM2UguTwpqjMAh/XWE4VQYUD0yDRYQ9hZf5bc2OiFZt6BrGEvmgQxYAfWGwPRGGneg/JeWK1RCJqI9+M0yxEjCTbLhFf08rSHIdmxwr0BHd0RatcbVcyZztQZDnEQZXZd1g8NqNBRFpc2152GoZPw+hLEJj8UnXJYeWeGhuzGDI5tkuPJp5WYOtPW5PPDP5SSODMA5+Zf4G8fmNBZEVBYmTvrLvHz5wMdLk2hRDTGrlepDDiOXtglv5F496hP+taes9A06fBRgRWUELQlfDMSTVLnAsxcLh+MtzDOKLhUt8hvzHmclDP6zPfM=;9v1gjmkKw6rSENFvqwBLZA=="
 ---

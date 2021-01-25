@@ -47,20 +47,6 @@ related:
         width: 3000
         height: 2023
         isCached: true
-  - title: "Trump sought the world's attention and got it. Now the White House reality show ends"
-    excerpt: "A red tie, often tied too long. A raised fist, often held high to a supportive crowd. A scowling face. A raised voice."
-    publishedDateTime: 2021-01-18T19:37:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-postcards/trump-sought-the-worlds-attention-and-got-it-now-the-white-house-reality-show-ends-idUSKBN29N1E2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548203838&r=LYNXMPEH0H0U5&w=800"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "ExM9m2UFUM6EjEeQ3O3AsbjHCWR+WgoRBL+QTvac81JrEe7qRF31CXRGFZn708+tofkqdagqO8YFQ0KbAXZaN4DcZfmW6L6lvLAzagz/cvIEEtscOIlCuUx3A1um9WapRhtyoXIkMVDZOPT4+TFIb9KRvvFtB2RyliCVUGir1LGbI4u4NVTKDOlGN47QaklTdgPjjNxsWfbdv+yVmwVmcY1DTqyHHhWL1nDWC4mihK+PAeja7RQwoQ3QAgDXCcp6fFqaGoOW2rrF6JAz5VHH9DKx+kb2+ed1GqRF9WPN7me/KI6N1cZF/6ODzZEUwXq738Y1QDSfdSbRCepZ7C36fiQVTmxcV6bPSF/rygi3Sl0=;sFXS4gxy4jQ2oH6cmvhPMQ=="
 ---

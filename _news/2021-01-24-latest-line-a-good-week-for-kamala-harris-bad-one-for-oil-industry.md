@@ -105,6 +105,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris' Alpha Kappa Alpha sorority sisters celebrate"
+    excerpt: "(AP) — As Kamala Harris took the oath of vice president on Wednesday, her Alpha Kappa Alpha Sorority Inc. sisters across Mississippi celebrated the historic moment. AKA South Eastern Director Mitzi Dease Paige said that many members were “tickled pink and green” to see the first woman of color become vice president."
+    publishedDateTime: 2021-01-23T14:23:00Z
+    webUrl: "https://www.chron.com/news/article/Kamala-Harris-Alpha-Kappa-Alpha-sorority-sisters-15892973.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Kamala-Harris-Alpha-Kappa-Alpha-sorority-sisters-15892973.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Kamala-Harris-Alpha-Kappa-Alpha-sorority-sisters-15892973.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Kamala Harris’ historic rise as U.S.’s first Black, Caribbean-American VP celebrated"
     excerpt: "Vice President-elect Kamala Harris, left, and Felicia Persaud, a long-time Caribbean activist during a virtual celebration of Harris’ historic rise ahead of Jan. 20, 2021 inauguration of U.S. President-elect Joe Biden. Courtesy of Invest Caribbean ..."
     publishedDateTime: 2021-01-18T00:27:00Z

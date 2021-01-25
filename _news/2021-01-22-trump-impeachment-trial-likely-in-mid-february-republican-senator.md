@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q30X"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q30X"
 type: article
 quality: 125
-heat: 745
+heat: 725
 published: true
 
 provider:
@@ -493,20 +493,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/22/former-us-president-donald-trump-seen-here-leaving.jpg"
         width: 1024
         height: 696
-        isCached: true
-  - title: "Trump Impeachment Article To Be Sent To Senate, Triggering Trial"
-    excerpt: "US House Speaker Nancy Pelosi is set to send the Senate a single article of impeachment Monday accusing Donald Trump of inciting the Capitol riot, formally triggering the first-ever impeachment trial of a former president."
-    publishedDateTime: 2021-01-25T05:45:00Z
-    webUrl: "https://www.ibtimes.com/trump-impeachment-article-be-sent-senate-triggering-trial-3129467"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/24/speaker-nancy-pelosi-is-set-to-send-the.jpg"
-        width: 1024
-        height: 714
         isCached: true
 
 secured: "lbUdYCUJRbm7XyTvBe1WbrvvxS6nWq3x+aXUcqGyhMUVSHBNcYyuYgfnq1R5meE7qsUc7yyq0VUaQBpf63SGKirs+NKkoVDwcx9IX3PR2WZmqL/4Mf2NwyQYyYZYPEx+5NfRDuE+z+RXxfPwNe8WgxBrGc3BWw4CyoGOwFgfbeH4d+RgRdHev7CNnsItQ4xo2h2EgOTYl7AhBjtYm1kiVUwUHSSuNQKcE3JkVctnvOUeIQz0c/8tiQQgxNyusKCzow1bAZe3OufqsuQr8+pbz2zs5yQ6/UA03uR4wB+lkT0FwxQ1vXgfd5ZcQEKtc4jwa2kWYt6fVr/Hf3Rj1SWnSs9W1aGV9f1wa01Xcaf/Tfg=;T4TaG8Cj1FF3fbwUGxF6HQ=="

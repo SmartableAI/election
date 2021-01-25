@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-20-report-ex-detroit-mayor-kwame-kilpatrick-on-donald-trumps-pardon-list.md",
+      "title": "Report: Ex-Detroit Mayor Kwame Kilpatrick on Donald Trump's pardon list",
+      "excerpt": "Kwame Kilpatrick may get out of prison 20 years early thanks to Donald Trump, who included the ex-mayor on his pardon list, according to reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freep.com/story/news/local/michigan/detroit/2021/01/20/kwame-kilpatrick-pardoned-donald-trump-detroit-mayor/4217253001/",
+      "originalUrl": "https://www.freep.com/story/news/local/michigan/detroit/2021/01/20/kwame-kilpatrick-pardoned-donald-trump-detroit-mayor/4217253001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/05/27/PDTF/0308a838-1ad7-4aea-8dfb-a98c9475b901-mayor_032408_kg.jpg?auto=webp&crop=3103,1746,x0,y159&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.freep.com/amp/4217253001",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4217253001",
+      "publishedDateTime": "2021-01-19T21:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-trump-has-talked-to-associates-about-forming-new-political-party-report.md",
       "title": "Trump has talked to associates about forming new political party: report",
       "excerpt": "President Trump has reportedly floated the possibility of starting a new political party as he prepares to leave the White House amid internal struggles within the Republican Party.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/534952-trump-has-talked-to-associates-about-forming-new-political-party",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -114,7 +157,7 @@
       "originalUrl": "https://www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -270,7 +313,7 @@
       "originalUrl": "https://www.washingtonpost.com/business/carl-icahn-nixes-charity-bid-to-blow-up-ex-trump-casino/2021/01/18/12e1ce34-59c7-11eb-a849-6f9423a75ffd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -294,58 +337,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-majority-of-americans-think-history-will-view-trump-as-failed-president.md",
-      "title": "Majority of Americans Think History Will View Trump as 'Failed' President",
-      "excerpt": "Evaluating a president's time in office often requires a rearview mirror. While history has yet to weigh in on President Donald Trump's time in office, Americans don't see President Donald Trump receiving positive remarks down the road. After a contentious ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394",
-      "originalUrl": "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 324,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1710407/trump-history-americans-failed-president.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1",
-      "publishedDateTime": "2021-01-18T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -527,6 +518,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-18-should-trump-pardon-himself-68-of-americans-say-no.md",
+      "title": "Should Trump Pardon Himself? 68% Of Americans Say 'No'",
+      "excerpt": "The U.S. Constitution does not explicitly say whether a sitting president can pardon himself for potential criminal liabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284",
+      "originalUrl": "https://www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/outgoing-us-president-donald-trump-is-seeking-to.jpg",
+          "width": 1024,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284?amp=1",
+      "publishedDateTime": "2021-01-17T16:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-a-quiet-sunday-pro-trump-protests-largely-unrealized-at-colorado-capitol-in-other-states.md",
       "title": "A quiet Sunday: Pro-Trump protests largely unrealized at Colorado Capitol, in other states",
       "excerpt": "As President-elect Joe Biden's Wednesday inauguration approaches, federal, state and local law enforcement agencies have braced for possible violence.",
@@ -535,7 +578,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/2021/01/17/live-updates-monitoring-colorado-capitol-protests-jan-17/4196764001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -893,58 +936,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-17-harold-bornstein-trumps-former-doctor-who-said-hed-be-the-healthiest-president-of-all-time-dies-at-73.md",
-      "title": "Harold Bornstein, Trump's former doctor who said he'd be the 'healthiest' president of all time, dies at 73",
-      "excerpt": "Bornstein rose to global fame after he declared Trump \"the healthiest individual ever elected to the presidency.\" But Trump still cast him aside.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1",
-      "originalUrl": "https://www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60005bc6a8de7700187d3d2d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1?amp",
-      "publishedDateTime": "2021-01-16T11:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-16-key-witness-in-first-trump-impeachment-says-were-not-out-of-the-woods-yet-after-january-6-capitol-attack.md",
       "title": "Key witness in first Trump impeachment says 'we're not out of the woods yet' after January 6 Capitol attack",
       "excerpt": "\"Just because it didn't have a high likelihood of succeeding in a classic coup fashion doesn't mean it wasn't an attempt,\" Fiona Hill says.",
@@ -1062,7 +1053,7 @@
       "originalUrl": "https://www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 232,
+      "heat": 252,
       "tags": null,
       "images": [
         {

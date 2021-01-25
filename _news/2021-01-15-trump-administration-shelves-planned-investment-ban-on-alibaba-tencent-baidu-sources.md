@@ -45,6 +45,20 @@ related:
         width: 1440
         height: 811
         isCached: true
+  - title: "Trump pardons ex-strategist Steve Bannon, dozens of others"
+    excerpt: "President Donald Trump has pardoned former chief strategist Steve Bannon as part of a late flurry of clemency action benefiting nearly 150 people, including rap stars and former members of Congress"
+    publishedDateTime: 2021-01-20T07:16:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-pardons-strategist-steve-bannon-dozens-75363758"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5ffebad59b7a4e4e950520e8691e2ec2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Trump administration is revoking the licenses of companies that supply to Huawei, as a final blow to the Chinese tech giant"
     excerpt: "Huawei has long been a target of the Trump administration, which believes it spies for the Chinese government. Huawei has repeatedly denied the claim."
     publishedDateTime: 2021-01-18T10:44:00Z

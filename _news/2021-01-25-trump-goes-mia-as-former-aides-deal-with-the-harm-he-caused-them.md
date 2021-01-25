@@ -30,35 +30,83 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Departs Vowing,‘We Will Be Back in Some Form’"
-    excerpt: "Defeated and twice impeached, the 45th president used his farewell remarks before a sparse crowd to brag about his record and wish luck to the incoming administration."
-    publishedDateTime: 2021-01-20T22:37:00Z
-    webUrl: "https://www.nytimes.com/2021/01/20/us/politics/trump-presidency.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/20/us/politics/trump-presidency.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/20/us/politics/trump-presidency.amp.html"
+  - title: "Supreme Court dismisses emolument cases against Trump"
+    excerpt: "The Supreme Court declined on Monday to hear a case concerning whether former President Donald Trump violated provisions of the Constitution that bar a president from profiting from a foreign government.\n    \n"
+    publishedDateTime: 2021-01-25T16:24:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pwk7xXXLMKU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court-donald-trump-case/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court-donald-trump-case/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180329110216-02-trump-hotel-washington-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "McConnell proposes delaying impeachment trial until February so Trump team can prepare"
+    excerpt: "The timing of former President Donald Trump's Senate impeachment trial is still unsettled while Senate leaders haggle over how a power-sharing agreement will govern a 50-50 Senate.\n    \n"
+    publishedDateTime: 2021-01-22T02:55:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rjYhHedOgIc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Wall Street Journal: Trump pressured DOJ to file case with Supreme Court to overturn election results"
+    excerpt: "Former President Donald Trump pushed the Department of Justice to directly ask the Supreme Court to invalidate President Joe Biden's election win, people familiar with the matter told the Wall Street Journal."
+    publishedDateTime: 2021-01-25T08:05:00Z
+    webUrl: "https://www.cnn.com/2021/01/23/politics/trump-department-of-justice-supreme-court-election-results/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/23/politics/trump-department-of-justice-supreme-court-election-results/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/23/politics/trump-department-of-justice-supreme-court-election-results/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119161957-01-trump-farewell-video-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump leaves office with little to show of his major promises, and a legacy of violent divisiveness"
+    excerpt: "Donald Trump promised to end \"American carnage\" and \"Make America Great Again.\" Four years later, he leaves with those goals far from reach."
+    publishedDateTime: 2021-01-20T08:14:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/impeached-twice-still-no-wall-mr-trump-goes-washington-n1254757"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254757"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254757"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 121
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_03/3443223/210119-analysis-inauguration-donald-trump-ew-202p_0238d95931f19103802ae05b7106c67e.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "‘It Will Be Soon,’ Pelosi Says of Trump Impeachment Trial"
+    excerpt: "Speaker Nancy Pelosi said the impeachment charge against former President Donald J. Trump would be sent to the Senate for trial “soon,” but didn’t pinpoint a date."
+    publishedDateTime: 2021-01-21T20:29:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007563439/pelosi-trump-impeachment-trial.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 115
     images:
-      - url: "https://static01.nyt.com/images/2021/01/20/us/20dc-trump01/20dc-trump01-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/01/21/us/politics/21transition-impeach-sub/21transition-impeach-sub-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Oh, the irony. Republican claims credit for idea to auction off blowing up Trump Plaza"
-    excerpt: "But Atlantic City Mayor Marty Small insists the auction idea was his. Fitzgerald said if things had gone his way, the auction may not have fallen through and may have gotten a higher bid before it was canceled,"
-    publishedDateTime: 2021-01-22T10:00:00Z
-    webUrl: "https://www.politico.com/states/new-jersey/story/2021/01/22/oh-the-irony-republican-claims-credit-for-idea-to-auction-off-blowing-up-trump-plaza-1359123"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 107
-    images:
-      - url: "https://static.politico.com/ce/b9/ed00b16c4632a38003f7456445d1/ap17331787586679-c.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "OM8P2Mn4oya7vtgwzJlvS4rI/i8kWGWDCecEuXGdQRxhcne/dn9TTDBo3f39nFDEYR+bDkQfkZLB7oltw7DTUI7LxTTdG2gs8QansyZOKxbtuUtc4FLohyX3+U2eEo5I+ragsl+MUV7qO8GgCoSLA9vX1IZGTDV3KhJgpNuG+6tDFlOK1I8YFDhk0g5yy/gFU4swi0FJIQHrsyVWM4tJ3GfO6PpF+yzBk8rczwwIvZdpWafYkKXfjBEQMkbK7Zauk0O2Ou0umIoMNcKYa3f0P+JD4r9HezByv1UVtyRIZPV6qc2Ju8vpxutyHIF3GRdjElwMoaccDvGso1SeSHlAJQnygtGSi3WVMMswoVbmB/A=;1bPtKF3GBAPt/pF5clEydQ=="

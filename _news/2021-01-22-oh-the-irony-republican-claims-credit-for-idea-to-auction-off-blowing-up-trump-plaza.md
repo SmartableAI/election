@@ -46,20 +46,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump goes MIA as former aides deal with the harm he caused them"
-    excerpt: "The former president has all but vanished from public view while his former team navigates an unforgiving job market."
-    publishedDateTime: 2021-01-25T09:35:00Z
-    webUrl: "https://www.politico.com/news/2021/01/25/donald-trump-post-presidency-462018"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/08/a8/392ef9a94eed8c8874a63a6dfb6d/20210124-donald-trump-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "83UqtrlpCeITrQNl598FXY8ZNCuOv0s2/LK+QGEnyqHG5fi31Pp90PMCQWLbds7KqM0HbP624cxpL2YKJSlSj/AwGHUxOL6UXXRXJmblMSEMQivYDMKhBsW1moa6UvjmEVB0L2BqdwBNcDS/IAmg4X67iF7fWbv3E4HgYU3eeaw/nuTu1x1CHBLDmirCL8bzz9uVvTYTDdFpxfgywN1zTmDBm9kDPkaE/byK4Ale0dFZDJHCrkOkAMshpVS536fQ+fRVlMiaSjRQRhVFDJP5OeSuXaPuKZwcPsQqLRvFFLV2fkYjIuDlfEYvD4XULvw50TGcU4hxQT/1+SofbRplQMLhdM0AR6SaU3lgO+SRyIf41cZpMb7BLMiS7HN8P1SuDsaAHlP9K84xdV8OK7AgxFSpOx42xcnWoE9Y3ny+l3nqDWxiSi7keb/WYCtGFet2/GnqEKPy41zxvrD4YPtB2xdvumSNZT1D7qvdlE6dHpt63FFQlAcAc35XRhWpY9KdPqz++h5yojrzePUSsNYiqQ==;BLzEV9g/9riZbsWZVsZY1w=="
 ---

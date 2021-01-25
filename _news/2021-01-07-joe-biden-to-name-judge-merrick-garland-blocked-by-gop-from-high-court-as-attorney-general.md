@@ -47,20 +47,6 @@ related:
         width: 765
         height: 545
         isCached: true
-  - title: "Former Iran hostage urges Biden to prioritize detained Americans"
-    excerpt: "Princeton scholar Xiyue Wang, who was imprisoned in Iran for nearly four years, has a warning for President-elect Joe Biden about his administration's diplomacy with Iran. He shares his story with Margaret Brennan."
-    publishedDateTime: 2021-01-02T13:24:00Z
-    webUrl: "https://www.cbsnews.com/video/former-iran-hostage-urges-biden-to-prioritize-detained-americans/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/02/18ffe988-4b43-450a-ad6e-1d2a0462fd02/thumbnail/1200x630/18a710a3617f148248910156d4d3f7cd/0102-satmo-ushostages-brennan-619011-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "D4hD6CT7Gf9zeDVpodzeussnwzc912+lCiNphOP9CeeppCBGOqe/g0CPS7CSozJVD120IsvD+3p4kTC2+gvJK1UjK1R+zdyKZHe6gBLiGwde8giOnLJa6CjPH5XJK2gcTcBa8ikLMDPzfM8uqhAUcFmGiq7uKYz2nAc5bXeXdOgmsga5M3LCmk7Dt2NAlPRXEiswqHunC5nbOp3XXslUi03IURqi9lJrMAF0joCloCLa3hlyhNJXYsqNnaYDHfbINGbIJhPiUXFjDtZd8YK8hc1UP4ae37a4FvNC4y46VsybiJrCMTGw3ZYh3zbcUy+ssI1Hffr1yD2oUaDKU0pC47hDbINiXZv1qMR0IRtxvsI=;6RMgSCIg0cQP6kBFMRqt5Q=="
 ---

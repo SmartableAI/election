@@ -658,6 +658,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-07-trump-admin-set-to-approve-arizona-land-swap-for-mine-opposed-by-native-americans.md",
+      "title": "Trump admin set to approve Arizona land swap for mine opposed by Native Americans",
+      "excerpt": "U.S. President Donald Trump's outgoing administration is set to approve a controversial land swap later this month that would give Rio Tinto Ltd and partners more than 2,400 acres (9.7 square kilometers) to build an Arizona copper mine,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-mining-resolution-idUSKBN28H0FW",
+      "originalUrl": "https://www.reuters.com/article/us-usa-mining-resolution-idUSKBN28H0FW",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543651036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB608F",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28H0FW",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H0FW",
+      "publishedDateTime": "2020-12-06T22:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-trumps-pandemic-blindness-and-election-denial-darkens-americas-desperate-winter.md",
       "title": "Trump's pandemic blindness and election denial darkens America's desperate winter ",
       "excerpt": "Donald Trump's final-days denial is darkening America's winter of sickness and death, damaging democracy, hampering Joe Biden's nascent presidency and jeopardizing Republican hopes of clinging to the Senate.\n    \n",
@@ -1295,49 +1347,6 @@
       "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28F04C",
       "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28F04C",
       "publishedDateTime": "2020-12-04T23:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-05-trump-campaign-paid-dechert-164k-for-recount-related-legal-services-fec-filings-show.md",
-      "title": "Trump campaign paid Dechert $164K for 'recount' related legal services, FEC filings show",
-      "excerpt": "U.S. President Donald Trump's campaign last month paid more than $164,000 to Dechert, a law firm that during the 2020 election touted its work on pro bono voting rights cases in which it often faced off against Republican-backed lawyers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/lawyer-trump-dechert-idUSL1N2IL017",
-      "originalUrl": "https://www.reuters.com/article/lawyer-trump-dechert-idUSL1N2IL017",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2IL017",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2IL017",
-      "publishedDateTime": "2020-12-04T21:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",

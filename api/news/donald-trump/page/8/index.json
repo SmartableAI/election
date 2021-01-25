@@ -2,6 +2,63 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-12-20-full-panel-trump-downplays-widespread-us-security-breach.md",
+      "title": "Full Panel: Trump downplays widespread U.S. security breach",
+      "excerpt": "Hallie Jackson, Yamiche Alcindor and Rich Lowry join the Meet the Press roundtable to discuss President Trump's response to a massive hack of government agencies and businesses reportedly tied to Russia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/full-panel-trump-downplays-widespread-u-s-security-breach-98115141679",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/full-panel-trump-downplays-widespread-u-s-security-breach-98115141679",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202012/1608475557148_mtp_full_panel_201220_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo98115141679",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo98115141679",
+      "publishedDateTime": "2020-12-20T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-20-former-us-cybersecurity-chief-chris-krebs-warned-not-to-conflate-voting-system-security-with-the-solarwinds-hack-despite-trumps-claim.md",
       "title": "Former US cybersecurity chief Chris Krebs warned not to 'conflate' voting system security with the SolarWinds hack despite Trump's claim",
       "excerpt": "Chris Krebs' warning came after President Donald Trump tweeted there could have been a hit on \"our ridiculous voting machines during the election.\"",
@@ -1407,58 +1464,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-14-cnns-jake-tapper-thanks-trump-for-exposing-republicans-who-supported-texas-un-democratic-un-american-mendacious-joke-of-a-lawsuit.md",
-      "title": "CNN's Jake Tapper thanks Trump for 'exposing' Republicans who supported Texas' 'un-democratic, un-American, mendacious joke of a lawsuit'",
-      "excerpt": "Tapper closed his show with a blistering attack on Trump and Republicans for their \"desperate desire to subvert the will of the American people.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/cnn-jake-tapper-thanks-trump-exposing-republicans-texas-lawsuit-video-2020-12",
-      "originalUrl": "https://www.businessinsider.com/cnn-jake-tapper-thanks-trump-exposing-republicans-texas-lawsuit-video-2020-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fd689d69cf1420018d2f14a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/cnn-jake-tapper-thanks-trump-exposing-republicans-texas-lawsuit-video-2020-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cnn-jake-tapper-thanks-trump-exposing-republicans-texas-lawsuit-video-2020-12?amp",
-      "publishedDateTime": "2020-12-13T13:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

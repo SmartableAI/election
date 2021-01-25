@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/24/kamala-harris-caribb
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/7d4e478/2147483647/strip/true/crop/3600x1890+0+255/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F07%2F66%2Ffa3e45684358a73da70e94c53114%2Fkamalaharris-horizontal.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kamala Harris' Alpha Kappa Alpha sorority sisters celebrate"
+    excerpt: "(AP) — As Kamala Harris took the oath of vice president on Wednesday, her Alpha Kappa Alpha Sorority Inc. sisters across Mississippi celebrated the historic moment. AKA South Eastern Director Mitzi Dease Paige said that many members were “tickled pink and green” to see the first woman of color become vice president."
+    publishedDateTime: 2021-01-23T14:23:00Z
+    webUrl: "https://www.chron.com/news/article/Kamala-Harris-Alpha-Kappa-Alpha-sorority-sisters-15892973.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Kamala-Harris-Alpha-Kappa-Alpha-sorority-sisters-15892973.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Kamala-Harris-Alpha-Kappa-Alpha-sorority-sisters-15892973.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Latest line: A good week for Kamala Harris, bad one for oil industry"
     excerpt: "Oil industry Biden vows to block new drilling on public lands across the West, crack down on pollution and greenhouse emissions, and push former industry lobbyists out of government jobs. Alex Padilla Former California secretary of state is sworn in as the state’s first Latino U."

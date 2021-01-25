@@ -47,17 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Ex-Trump Spokeswoman Sanders Running for Arkansas Governor"
-    excerpt: "(AP) — Sarah Sanders, Donald Trump’s former chief spokeswoman and one of his closest aides, is running for Arkansas governor, a senior campaign official told The Associated Press. Sanders, who left the White House in 2019 to return to her home state,"
-    publishedDateTime: 2021-01-25T12:21:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-24/ap-source-sarah-sanders-running-for-arkansas-governor"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-24/ap-source-sarah-sanders-running-for-arkansas-governor?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-24/ap-source-sarah-sanders-running-for-arkansas-governor?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "GQ7Oly3rEFZUEStuCtIYUNnOhQ2nOWSiBWtdeAIl2TmqrF5qqcrwmVCSnh3psXr+0mYNhgYMoRYI1fDjcg9yfuQlEsRtKkFipg0gCBWg55WnNAq4/vShaR0I+i/0xJvWGFaTgT9zks/acrjLaNmpf48w/Zi8IrlhXfJ3P2xJqExqj7cP1MH4dVTmlNUA08LjX/mDQkzABwTp5dUscJf+yyjBmOsiWMNXArzWNyznhtDmzGzXIS/E7FSHAcFN6dYDyFns0qA9eefGlhfOLir6jcOjsu2JflIK0SEpAPKaGiJDjoED13swbdtTmNx7Pf7PnVeWS7WDRwB4hBez2pV2hCNq0Cj6CI3zbiu0RXPAQrA=;VjnT0Xur97yr/dBVqDKZww=="
 ---

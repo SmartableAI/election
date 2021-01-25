@@ -32,37 +32,81 @@ images:
     isCached: true
 
 related:
-  - title: "New York Times: Trump and DOJ attorney had plan to replace his acting AG and undo Georgia election result"
-    excerpt: "Justice Department lawyer Jeffrey Clark nearly convinced then-President Donald Trump to remove then-acting Attorney General Jeffrey Rosen and use the Department of Justice to undo Georgia's election results, The New York Times reported Friday.\n    \n"
-    publishedDateTime: 2021-01-23T03:35:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YGZ1p29pNIg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/trump-doj-attorney-plan-replace-acting-ag-false-election-claims/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/trump-doj-attorney-plan-replace-acting-ag-false-election-claims/index.html"
+  - title: "Supreme Court dismisses emolument cases against Trump"
+    excerpt: "The Supreme Court declined on Monday to hear a case concerning whether former President Donald Trump violated provisions of the Constitution that bar a president from profiting from a foreign government.\n    \n"
+    publishedDateTime: 2021-01-25T16:24:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pwk7xXXLMKU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court-donald-trump-case/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court-donald-trump-case/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121092209-01-trump-departure-0120-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180329110216-02-trump-hotel-washington-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "MyPillow CEO hints at scrapped plan to replace CIA director with Trump loyalist"
-    excerpt: "A Trump ally's notes visible as he visited the West Wing on Friday revealed a suggestion to replace the current CIA director with the current acting chief of staff at the Pentagon. But according to multiple sources, it was not the first time the idea was broached inside the White House.\n    \n"
-    publishedDateTime: 2021-01-16T02:57:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OhgmABjeqr4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/cia-kash-patel-mypillow-notes-lindell-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/cia-kash-patel-mypillow-notes-lindell-trump/index.html"
+  - title: "McConnell proposes delaying impeachment trial until February so Trump team can prepare"
+    excerpt: "The timing of former President Donald Trump's Senate impeachment trial is still unsettled while Senate leaders haggle over how a power-sharing agreement will govern a 50-50 Senate.\n    \n"
+    publishedDateTime: 2021-01-22T02:55:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rjYhHedOgIc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115181104-my-pillow-ceo-michael-lindell-white-house-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump leaves office with little to show of his major promises, and a legacy of violent divisiveness"
+    excerpt: "Donald Trump promised to end \"American carnage\" and \"Make America Great Again.\" Four years later, he leaves with those goals far from reach."
+    publishedDateTime: 2021-01-20T08:14:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/impeached-twice-still-no-wall-mr-trump-goes-washington-n1254757"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254757"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254757"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 121
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_03/3443223/210119-analysis-inauguration-donald-trump-ew-202p_0238d95931f19103802ae05b7106c67e.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "‘It Will Be Soon,’ Pelosi Says of Trump Impeachment Trial"
+    excerpt: "Speaker Nancy Pelosi said the impeachment charge against former President Donald J. Trump would be sent to the Senate for trial “soon,” but didn’t pinpoint a date."
+    publishedDateTime: 2021-01-21T20:29:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007563439/pelosi-trump-impeachment-trial.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/21/us/politics/21transition-impeach-sub/21transition-impeach-sub-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump goes MIA as former aides deal with the harm he caused them"
+    excerpt: "The former president has all but vanished from public view while his former team navigates an unforgiving job market."
+    publishedDateTime: 2021-01-25T09:35:00Z
+    webUrl: "https://www.politico.com/news/2021/01/25/donald-trump-post-presidency-462018"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/08/a8/392ef9a94eed8c8874a63a6dfb6d/20210124-donald-trump-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "0z949BUMlMMCKzHW0FVTzt3Rgalnfx6XDOV0JO5IP1tPxNvdjF6kEkUhuKr+K3dTWH1ExdqiJO1K7kMdOWiL20XqifXRv1aCb3HbMgQDEJIm3Hsyy43kvrtQmkKlfONH3j65ZcEeM+AUluD5+7G0JWRKiILaReU/ZsjKLr+KpTBEB8IyKiB6jX7cyj4QzWCVCdiXimh++LkGjR8HKCs52Ubwz5YGkhu2ucUQbYJ8Otq69XQjFpOVWqPw28TCCNomJUDmTh1c5gANd2ACqFNy8twZa9BiJNw7iPNchHGpmbiXB0xrZrQiisHbVRCxNvewNYaEZs0+InIfUbYLYgStRQr3Vc4LFlU3o6mGePb0da8=;AqDSPnxnfdP4BkWZSlkHTg=="

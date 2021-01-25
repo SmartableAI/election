@@ -1294,6 +1294,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden reversing Trump ban on transgender people in military"
+    excerpt: "President Joe Biden is signing an executive order revoking a Pentagon policy that largely barred transgender individuals from joining the military"
+    publishedDateTime: 2021-01-25T08:14:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/ap-source-biden-to-drop-trumps-military-transgender-ban/2021/01/24/69146df4-5ebb-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/ap-source-biden-to-drop-trumps-military-transgender-ban/2021/01/24/69146df4-5ebb-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/ap-source-biden-to-drop-trumps-military-transgender-ban/2021/01/24/69146df4-5ebb-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden to repeal Trump's ban on transgender people joining military"
     excerpt: "President Joe Biden is poised to repeal his predecessor Donald Trump's ban on transgender people enlisting in the U.S. military, a person familiar with the matter said."
     publishedDateTime: 2021-01-25T01:51:00Z
@@ -1785,6 +1801,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/09/28ff4c1d-ff72-4ad1-b599-27fb6ce09176/thumbnail/1200x630/a22a0c37ad809d8a94173ed49081b6cf/gettyimages-1287973454.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden's 1st 100 days live updates: House to deliver article against Trump to Senate"
+    excerpt: "House impeachment managers are expected to deliver the article of impeachment for \"incitement of insurrection\" against former Donald Trump to the Senate on Monday evenin"
+    publishedDateTime: 2021-01-25T15:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 134
+    images:
+      - url: "https://s.abcnews.com/images/Politics/nancy-pelosi-impeachment-engrossment-01-ap-jc-210113_1610579857944_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Trump-Biden transition live updates: Georgia to recertify vote over Trump objections"
     excerpt: "President Donald Trump is slated to hand over control of the White House to President-elect Joe Biden in 44 days. A Trump campaign lawsuit was rejected by a Georgia state court Monday because the Trump legal team failed to pay the filing fee and neglected to fill out the proper forms."

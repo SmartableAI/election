@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-01-24-mexican-leader-says-biden-offers-4b-for-central-america.md",
-      "title": "Mexican leader says Biden offers $4B for Central America",
-      "excerpt": "Mexico’s president says that President Joe Biden has told him the U.S. would send $4 billion to help development in Honduras, El Salvador and Guatemala",
+      "path": "_news/2021-01-24-return-of-the-technocrats-biden-aims-for-normal-after-four-years-of-tumult.md",
+      "title": "Return of the technocrats: Biden aims for ‘normal’ after four years of tumult",
+      "excerpt": "The first few days of Biden’s administration have produced a blizzard of fact sheets and memorandums — a veritable redwood worth of paperwork — with aspirations of a return to regular order.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816",
+      "webUrl": "https://www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 122,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_7aad6260e03e4eb1af6cc90dc7555d01_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJVT6RC47EI6XKCJN6KCHJ277U.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816",
-      "publishedDateTime": "2021-01-23T13:09:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-technocrats-normal/2021/01/23/168bb0ba-5cd6-11eb-a976-bad6431e03e2_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-23T18:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -51,6 +51,119 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-24-biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus.md",
+      "title": "Biden, UK's Boris Johnson discuss Paris accord, trade, coronavirus",
+      "excerpt": "President Biden had his first phone call with British Prime Minister Boris Johnson on Saturday, where Johnson pressed the new president for a U.S.-U.K. trade deal. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zc_6kiHuKl8/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zc_6kiHuKl8/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Joe-Biden-Oval-Office-2.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus.amp",
+      "publishedDateTime": "2021-01-23T17:20:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-24-biden-to-mayors-things-are-going-to-get-worse.md",
+      "title": "Biden to mayors: “Things are going to get worse”",
+      "excerpt": "President Joe Biden warned the pandemic will get worse in the next several months, and he urged more personal responsibility. NBC News confirmed former President Trump engaged in a plan to upend the Justice Department to overturn the election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/biden-to-mayors-things-are-going-to-get-worse-99925573654",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/biden-to-mayors-things-are-going-to-get-worse-99925573654",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/nn_kod_biden_agenda_trump_impeachment_210123_1611447127689.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo99925573654",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99925573654",
+      "publishedDateTime": "2021-01-23T16:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     },
     {
@@ -107,58 +220,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-fauci-says-bidens-strikingly-different-tone-on-covid-crisis-will-rev-up-vaccination-efforts.md",
-      "title": "Fauci Says Biden's 'Strikingly Different Tone' on COVID Crisis Will Rev Up Vaccination Efforts",
-      "excerpt": "\"Instead of pointing fingers and making blame, we're going to try and fix it,\" the nation's top infectious disease expert said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912",
-      "originalUrl": "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1714793/anthony-fauci.jpg",
-          "width": 2500,
-          "height": 1668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1",
-      "publishedDateTime": "2021-01-23T10:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -365,58 +426,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-23-top-iran-leader-posts-trump-like-image-with-drone-vows-revenge.md",
-      "title": "Top Iran leader posts Trump-like image with drone, vows revenge",
-      "excerpt": "The website of Iran's Supreme Leader on Friday carried the image of a golfer resembling former President Donald Trump apparently being targeted by a drone alongside a threat of revenge over last year's killing of a top Iranian general in a U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-iran-twitter-khamenei-fake-idINKBN29R1YU",
-      "originalUrl": "https://www.reuters.com/article/us-iran-twitter-khamenei-fake-idINKBN29R1YU",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210123&t=2&i=1548797338&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1C2",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN29R1YU",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R1YU",
-      "publishedDateTime": "2021-01-23T05:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-23-trumps-lawyers-must-get-72-hour-warning-if-treasury-turns-over-presidents-tax-returns-to-democrats-judge.md",
       "title": "Trump's lawyers must get 72-hour warning if Treasury turns over president's tax returns to Democrats: judge",
       "excerpt": "The U.S. Treasury Department must grant former President Trump’s lawyers a 72-hour warning if it allows his tax returns to be released to Democrats, a judge ruled Friday, according to a report.",
@@ -470,6 +479,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-melania-trump-leaves-donald-trump-alone-in-front-of-the-cameras-video.md",
+      "title": "Melania Trump leaves Donald Trump alone in front of the cameras – video",
+      "excerpt": "Former first lady left Donald Trump alone in front of the cameras at Palm Beach airport after the couple left the White House ahead of Joe Biden's inauguration",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/video/2021/jan/23/melania-trump-leaves-donald-trump-alone-in-front-of-the-cameras-video",
+      "originalUrl": "https://www.theguardian.com/us-news/video/2021/jan/23/melania-trump-leaves-donald-trump-alone-in-front-of-the-cameras-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/13ed5203f77124a21f8ff6fb41659c1b30762c44/30_76_1673_1004/master/1673.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a04315508afc531e643ca3e642bb5c0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-23T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -593,7 +654,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 213,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -1185,6 +1246,62 @@
       ]
     },
     {
+      "path": "_news/2021-01-22-mcconnell-privately-says-he-wants-trump-gone-as-republicans-quietly-lobby-him-to-convict.md",
+      "title": "McConnell privately says he wants Trump gone as Republicans quietly lobby him to convict",
+      "excerpt": "As the House prepares to send articles of impeachment to the Senate on Monday, CNN has learned that dozens of influential Republicans around Washington -- including former top Trump administration officials -- have been quietly lobbying GOP members of Congress to impeach and convict Donald Trump. The",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tVmuA9o9Zhk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tVmuA9o9Zhk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 306,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210122103730-01-trump-gop-impeachment-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachment-conviction-republicans/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachment-conviction-republicans/index.html",
+      "publishedDateTime": "2021-01-22T10:51:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-alejandro-mayorkas-what-to-know-about-bidens-dhs-pick.md",
       "title": "Alejandro Mayorkas: What to know about Biden's DHS pick",
       "excerpt": "President Biden has nominated Alejandro Mayorkas to be the next secretary of the Department of Homeland Security (DHS), who will take a key role in the closely watched area of immigration policy.",
@@ -1214,119 +1331,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alejandro-mayorkas-what-to-know-about-bidens-dhs-pick.amp",
       "publishedDateTime": "2021-01-22T09:53:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-georgia-us-attorney-pushed-to-resign-by-trump-aides-rejoins-law-firm.md",
-      "title": "Georgia U.S. Attorney Pushed to Resign by Trump Aides Rejoins Law Firm",
-      "excerpt": "The former top federal prosecutor in Atlanta, whom White House officials pushed to resign earlier this month because then-President Donald Trump was upset he wasn’t doing enough to investigate unproven claims of election fraud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/biden-presidential-inauguration-2021/card/7PuV1qsDSei2ZphFlq6v",
-      "originalUrl": "https://www.wsj.com/livecoverage/biden-presidential-inauguration-2021/card/7PuV1qsDSei2ZphFlq6v",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-288916?size=1.5",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-22T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-joe-biden-putting-saudi-arabia-first-by-halting-keystone-xl-pipeline-sen-daines.md",
-      "title": "Joe Biden putting 'Saudi Arabia first' by halting Keystone XL pipeline: Sen. Daines",
-      "excerpt": "Sen. Steve Daines, R-Mont., believes President Biden killing the Keystone XL pipeline shows he’s putting \"Saudi Arabia first,\" not American workers.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y3rY_Xz43Yk/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y3rY_Xz43Yk/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8739bad5-122d-4973-b234-ee256eb316c7/b9584c73-a26d-4377-b028-e14ccdfaba67/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines.amp",
-      "publishedDateTime": "2021-01-22T08:01:37-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

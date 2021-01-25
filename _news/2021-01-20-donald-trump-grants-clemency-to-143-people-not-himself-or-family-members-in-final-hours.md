@@ -27,153 +27,52 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump pardons Steve Bannon amid last acts of presidency"
-    excerpt: "Former senior adviser had previously been considered an unlikely name among the 143 people who received clemency"
-    publishedDateTime: 2021-01-20T10:21:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report"
+  - title: "Facebook VP Says He Hopes Board Members Will Uphold Donald Trump Ban"
+    excerpt: "Nick Clegg has acknowledged that social bans raised significant questions over big tech's role in the democratic process."
+    publishedDateTime: 2021-01-24T10:13:00Z
+    webUrl: "https://www.newsweek.com/facebook-vp-hopes-board-uphold-donald-trump-ban-1563958"
+    ampWebUrl: "https://www.newsweek.com/facebook-vp-hopes-board-uphold-donald-trump-ban-1563958?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-vp-hopes-board-uphold-donald-trump-ban-1563958?amp=1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/885db9682b9b36653c7209be17740b92e8d006af/0_108_3200_1920/master/3200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cbad3454b95c8ab8d879dbe443aab4c1"
-        width: 600
-        height: 360
+      - url: "https://d.newsweek.com/en/full/1714823/facebooks-vice-president-nick-clegg.jpg"
+        width: 2500
+        height: 1364
         isCached: true
-  - title: "Trump global broadcasting chief quits amid VOA staff revolt"
-    excerpt: "Former President Donald Trump’s hand-picked chief of U.S. international broadcasting has quit amid a burgeoning staff revolt and growing calls for his resignation"
-    publishedDateTime: 2021-01-21T06:50:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-global-broadcasting-chief-quits-amid-voa-staff-revolt/2021/01/20/073ed5d4-5b8b-11eb-a849-6f9423a75ffd_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-global-broadcasting-chief-quits-amid-voa-staff-revolt/2021/01/20/073ed5d4-5b8b-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-global-broadcasting-chief-quits-amid-voa-staff-revolt/2021/01/20/073ed5d4-5b8b-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+  - title: "Trump taps Huntsville lawyer for international agriculture board"
+    excerpt: "In one of his final acts in office, President Donald Trump has appointed Huntsville lawyer Mark McDaniel to a prominent international agricultural food board. U.S. Rep. Mo Brooks announced the appointment Monday of McDaniel The board,"
+    publishedDateTime: 2021-01-19T14:58:00Z
+    webUrl: "https://www.al.com/news/2021/01/trump-taps-huntsville-lawyer-for-international-agriculture-board.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/trump-taps-huntsville-lawyer-for-international-agriculture-board.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-taps-huntsville-lawyer-for-international-agriculture-board.html?outputType=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: al.com
+      domain: al.com
+    quality: 75
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/G52E5G6DYZEQFH352DCX7OSTUM.jpg"
+        width: 835
+        height: 724
         isCached: true
-  - title: "Cheney tests Trump grip on GOP post-presidency"
-    excerpt: "Rep. Liz Cheney's (R-Wyo.) leadership position in the House GOP is turning into a test for former President Trump's grip on the conference and the Republican Party."
-    publishedDateTime: 2021-01-22T18:25:00Z
-    webUrl: "https://thehill.com/homenews/house/535385-cheney-tests-trump-grip-on-gop-post-presidency"
-    ampWebUrl: "https://thehill.com/homenews/house/535385-cheney-tests-trump-grip-on-gop-post-presidency?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/535385-cheney-tests-trump-grip-on-gop-post-presidency?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_cheneyliz_012121getty-bc_split.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "'We will be back in some form,' Trump vows at end of tumultuous presidency"
-    excerpt: "President Donald Trump disappeared on Wednesday behind the walls of his club in Palm Beach, Florida, ending a tumultuous presidency stained by two impeachments, deep political divisions and a pandemic that has caused 400,"
-    publishedDateTime: 2021-01-21T04:22:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29P0II"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P0II"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P0II"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548466641&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J18I"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Trump pardons ex-strategist Steve Bannon, dozens of others"
-    excerpt: "President Donald Trump has pardoned former chief strategist Steve Bannon as part of a late flurry of clemency action benefiting nearly 150 people, including rap stars and former members of Congress"
-    publishedDateTime: 2021-01-20T07:16:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-pardons-strategist-steve-bannon-dozens-75363758"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_5ffebad59b7a4e4e950520e8691e2ec2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump, in wave of Tuesday pardons, so far not planning to pardon himself: source"
-    excerpt: "U.S. President Donald Trump at this point is opting not to issue a pardon for himself as he prepares an expansive list of more than 100 pardons and commutations for release on Tuesday, a source familiar with the effort said."
-    publishedDateTime: 2021-01-18T08:49:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-pardons/trump-in-wave-of-tuesday-pardons-so-far-not-planning-to-pardon-himself-source-idUSKBN29N079?edition-redirect=ca"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548150109&r=LYNXMPEH0H03F&w=800"
-        width: 800
-        height: 526
-        isCached: true
-  - title: "'It was a non-event': Pro-Trump protests quiet amid massive police presence across U.S."
-    excerpt: "Law enforcement officers far outnumbered protesters at state capitol grounds on Sunday, as few Trump supporters who believe the president's false claim that he won the 2020 election turned out for what authorities feared could be violent demonstrations."
-    publishedDateTime: 2021-01-18T06:37:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/us-state-capitals-see-few-protesters-after-bracing-for-violent-demonstrations-idUSKBN29M046"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 97
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548124964&r=LYNXMPEH0G0GQ&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Should Trump Pardon Himself? 68% Of Americans Say 'No'"
-    excerpt: "The U.S. Constitution does not explicitly say whether a sitting president can pardon himself for potential criminal liabilities."
-    publishedDateTime: 2021-01-18T00:26:00Z
-    webUrl: "https://www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284"
-    ampWebUrl: "https://www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284?amp=1"
+  - title: "Facebook 'Supreme Court' To Judge Trump Suspension"
+    excerpt: "Facebook and Instagram suspended Trump after his supporters stormed the US Capitol on January 6, an attack on the seat of democracy that led to Trump's second impeachment. The leading social network is referring the decision to its independent oversight board -- known informally as the Facebook \"supreme court\" -- with the authority to make binding rulings even chief executive Mark Zuckerberg must abide by."
+    publishedDateTime: 2021-01-22T01:11:00Z
+    webUrl: "https://www.ibtimes.com/facebook-supreme-court-judge-trump-suspension-3127721"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/outgoing-us-president-donald-trump-is-seeking-to.jpg"
-        width: 1024
-        height: 716
-        isCached: true
-  - title: "Donald Trump pardons ex-strategist Steve Bannon, dozens of others"
-    excerpt: "President Donald Trump pardoned former chief strategist Steve Bannon as part of a flurry of clemency action in the final hours of his White House term that benefited more than 140 people, including rap performers,"
-    publishedDateTime: 2021-01-20T12:13:00Z
-    webUrl: "https://www.nola.com/news/politics/national_politics/article_e3c9d1b6-5b18-11eb-804c-7755957d43eb.html"
-    type: article
-    provider:
-      name: NOLA.com
-      domain: nola.com
     quality: 55
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/7/75/775825e0-5b19-11eb-8627-e70c6ecd59e3/60081fb0d2b18.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/donald-trump-is-seen-addressing-supporters-flooding-the.jpg"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "'It Was a Non-Event': Pro-Trump Protests Quiet Amid Massive Police Presence Across U.S."
-    excerpt: "Trump Protests Quiet Amid Massive Police Presence Across U.S. HARRISBURG, Pa./LANSING, Mich. (Reuters) - Law enforcement officers far outnumbered protesters at state capitol grounds on Sunday, as few Trump supporters who believe the president's false claim that he won the 2020 election turned out for what authorities feared could be violent demonstrations."
-    publishedDateTime: 2021-01-19T04:13:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-17/us-capitals-gird-for-pro-trump-armed-protests-as-fbi-flags-risk-of-violence"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-17/us-capitals-gird-for-pro-trump-armed-protests-as-fbi-flags-risk-of-violence?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-17/us-capitals-gird-for-pro-trump-armed-protests-as-fbi-flags-risk-of-violence?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
 
 secured: "xcE7ITIAtbWnUNbEWz/Z3J1gWVtfSkN0wkrUKSN86l8R6+b6yFTdmFdyB8qLunvp7PO+RmH8N3G50OokvMdfkjMQZfuiWNJ/HSc/vOnyJgd4ZXF2AjdJIis2wYSoKkklf/jmrdim8bSkv0V8/0Jj/Y5KehRLkN808vq0Rpak0NuR6iL8YG8gjKHBBCH1l7njDhgjYpOO9pm30KvoncJcoKya/kcm0FEffHUO0k5DlP4Y5dUdvd3dlybVknPywfk10iGi1EO5gJ33l1hAZXHEEYZi0mHrriYd+uoFPfFR4NC9Uo5X4zO+c2uaY4yOWomKCOhkn3D/3RIaatbXkPRmClyzjf0MUdTh7xju/2QBlaE=;xzzVQn/RTBsNxhUbN/wQyg=="
 ---

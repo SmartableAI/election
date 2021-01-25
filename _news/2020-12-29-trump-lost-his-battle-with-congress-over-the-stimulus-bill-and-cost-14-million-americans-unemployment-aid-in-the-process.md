@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Countdown to shutdown: Here’s what happens if Trump doesn’t enact the stimulus law by midnight Monday"
-    excerpt: "Millions of Americans now face the prospect of weeks without unemployment payments, housing assistance and other critical coronavirus aid, as federal relief begins to evaporate amid Trump’s continued refusal to sign a $900 billion congressional stimulus deal into law."
-    publishedDateTime: 2020-12-28T00:52:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2020/12/27/trump-shutdown-stimulus/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2020/12/27/trump-shutdown-stimulus/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2020/12/27/trump-shutdown-stimulus/?outputType=amp"
+  - title: "Exclusive: As Trump leaves office, 50% of Americans see him as a 'failed' president"
+    excerpt: "Trump hasn't succeeded in overturning the election results but he has persuaded a third of Americans that Biden wasn't legitimately elected"
+    publishedDateTime: 2020-12-24T09:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/24/donald-trump-failed-president-50-usa-today-poll-say/3926190001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3926190001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3926190001"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PLMCRVSISEI6XF5WJ247OL7UNM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump calls for Americans to receive 'more money in direct payments,' as Congress may pass a package with $600 stimulus checks on Sunday"
-    excerpt: "The coronavirus relief package that could pass in Congress on Sunday is expected to include $600 stimulus checks."
-    publishedDateTime: 2020-12-20T08:10:00Z
-    webUrl: "https://www.businessinsider.com/trump-calls-for-larger-stimulus-checks-for-americans-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-calls-for-larger-stimulus-checks-for-americans-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-calls-for-larger-stimulus-checks-for-americans-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/5fdeff00d366e600180992ca?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e0873822-4b69-42e9-b96d-431644856090-AP_APTOPIX_Election_2020_Biden.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "xqi/WcF1PlhGRefq5ue+woQ3yxgEZrGTpCbDOpD5K8c6MrhP34Wl/SePjkZO0KyDLKMUxjhzuE188TI0Y1C/leSmOcL5EqWBBXbWcWDfK5WlW/m/D0ZCs7xJtgd1wLIxJYh/cLnshFm1/LUZLDVlc7l5MPVUziOXxh6XsOBvmgPg9nwPNeBN5ZZ/srbBEqZ+DKsJuXG/QCdn1Rso2g9nfAh1XX3VACOTo2Le7zSv1G1mi6AB+IzelC8s/1StpmQZz6vfxA1pxlA9U3BPgAG9GqfxQjzReLXZDNSz41+d4P6wd/G1jNyOXHZZQ3nEky3QACZeCiUv7n2G3zVg4yAdhNgvk8VZgj0ouVpgn5GwKnA=;M+tLyiyvbPqwMtWOyHQz1A=="

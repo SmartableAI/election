@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-19-white-house-confirms-trump-lifting-eu-brazil-travel-restrictions-jan-26.md",
+      "title": "White House confirms Trump lifting EU, Brazil travel restrictions Jan. 26",
+      "excerpt": "U.S. President Donald Trump on Monday rescinded entry bans imposed because of the coronavirus on most non-U.S. citizens arriving from Brazil and much of Europe effective Jan. 26, the White House said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-trump-travel/white-house-confirms-trump-lifting-eu-brazil-travel-restrictions-jan-26-idUSKBN29O00A",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-trump-travel/white-house-confirms-trump-lifting-eu-brazil-travel-restrictions-jan-26-idUSKBN29O00A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548250189&r=LYNXMPEH0I00B&w=800",
+          "width": 800,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-18T21:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails.md",
       "title": "‘The Capitol riot was our Chernobyl’: James Comey on Trump, the ‘pee tape’ and Clinton’s emails",
       "excerpt": "The former FBI director was sickened and angered by the attack incited by the president. But has he come to terms with his part in getting him elected?",
@@ -118,7 +170,7 @@
       "originalUrl": "https://www.washingtonpost.com/business/carl-icahn-nixes-charity-bid-to-blow-up-ex-trump-casino/2021/01/18/12e1ce34-59c7-11eb-a849-6f9423a75ffd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -226,7 +278,7 @@
       "originalUrl": "https://www.mercurynews.com/2021/01/18/progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -366,58 +418,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-majority-of-americans-think-history-will-view-trump-as-failed-president.md",
-      "title": "Majority of Americans Think History Will View Trump as 'Failed' President",
-      "excerpt": "Evaluating a president's time in office often requires a rearview mirror. While history has yet to weigh in on President Donald Trump's time in office, Americans don't see President Donald Trump receiving positive remarks down the road. After a contentious ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394",
-      "originalUrl": "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 324,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1710407/trump-history-americans-failed-president.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1",
-      "publishedDateTime": "2021-01-18T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -902,6 +902,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-18-should-trump-pardon-himself-68-of-americans-say-no.md",
+      "title": "Should Trump Pardon Himself? 68% Of Americans Say 'No'",
+      "excerpt": "The U.S. Constitution does not explicitly say whether a sitting president can pardon himself for potential criminal liabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284",
+      "originalUrl": "https://www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/outgoing-us-president-donald-trump-is-seeking-to.jpg",
+          "width": 1024,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284?amp=1",
+      "publishedDateTime": "2021-01-17T16:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-a-quiet-sunday-pro-trump-protests-largely-unrealized-at-colorado-capitol-in-other-states.md",
       "title": "A quiet Sunday: Pro-Trump protests largely unrealized at Colorado Capitol, in other states",
       "excerpt": "As President-elect Joe Biden's Wednesday inauguration approaches, federal, state and local law enforcement agencies have braced for possible violence.",
@@ -910,7 +962,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/2021/01/17/live-updates-monitoring-colorado-capitol-protests-jan-17/4196764001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1232,7 +1284,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1273,58 +1325,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-christine-priola-capitol-rioter-seen-at-mike-pences-desk-quits-school-job-in-qanon-rant.md",
-      "title": "Christine Priola, Capitol Rioter Seen At Mike Pence's Desk, Quits School Job In QAnon Rant",
-      "excerpt": "A former schools therapist has been charged with multiple criminal counts over the storming of the U.S. Capitol after she quit her job, citing several conspiracy theories as the reason behind her decision. Holding a placard that read \"THE CHILDREN CRY OUT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/christine-priola-capitol-rioter-mike-pence-quits-school-job-qanon-1562188",
-      "originalUrl": "https://www.newsweek.com/christine-priola-capitol-rioter-mike-pence-quits-school-job-qanon-1562188",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1710120/us-capitol-riots.jpg",
-          "width": 3422,
-          "height": 2281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/christine-priola-capitol-rioter-mike-pence-quits-school-job-qanon-1562188?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/christine-priola-capitol-rioter-mike-pence-quits-school-job-qanon-1562188?amp=1",
-      "publishedDateTime": "2021-01-17T01:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

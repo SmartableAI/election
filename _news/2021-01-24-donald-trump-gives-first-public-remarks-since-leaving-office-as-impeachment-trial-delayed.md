@@ -494,20 +494,6 @@ related:
         width: 1024
         height: 696
         isCached: true
-  - title: "Trump Impeachment Article To Be Sent To Senate, Triggering Trial"
-    excerpt: "US House Speaker Nancy Pelosi is set to send the Senate a single article of impeachment Monday accusing Donald Trump of inciting the Capitol riot, formally triggering the first-ever impeachment trial of a former president."
-    publishedDateTime: 2021-01-25T05:45:00Z
-    webUrl: "https://www.ibtimes.com/trump-impeachment-article-be-sent-senate-triggering-trial-3129467"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/24/speaker-nancy-pelosi-is-set-to-send-the.jpg"
-        width: 1024
-        height: 714
-        isCached: true
 
 secured: "xOglhcsZVdk3bw/fushnsgjJt5H+bK9qUuw9z6a4Nlsb/2kyEHEVTAi7vsJXuYTJS50jJ5MTPwmZ7VxRaIR1g4QNjSpj8u2GyeO+qNW3uCSbYMThVZbpueDwvHvseBFStHC1qWML7aE4Qks69Fd+SjES2bOYqrH7tX6n3+nKsg3bqtFVSuqjKtdcVvQgwvI9Z+Vh0mXNKsAr659S7X4ov37WzsRjes+K0DPpZfNgc4dotG+r8tpE/GJXzuHt2ApjGI8PkI/SM4gVPPSeElRHfcFRx0dubJf93nW+2z9KRD8fPpEHJ4u1Y/jxXwU9i3koUZLOW2rVr7obkhpFcIWwe5gT+lpsqVrkv4e8uXE7NWk=;ha+TcnnenO6Ebxi5EEzkGA=="
 ---

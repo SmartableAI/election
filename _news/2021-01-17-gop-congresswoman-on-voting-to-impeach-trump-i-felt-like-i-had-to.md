@@ -79,22 +79,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Arizona Republicans reelect fervent Trump ally as chair"
-    excerpt: "Arizona Republicans on Saturday reelected Kelli Ward as party chair, giving a second term to one of Donald Trump’s most unflinching supporters even after the GOP lost ground in the state last year"
-    publishedDateTime: 2021-01-23T23:18:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Nightline/210123_ntl_politics_1239_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Chaos of Trump's last days in office reverberates with fresh 'plot' report"
     excerpt: "Ex-president, whose Senate impeachment trial will start in two weeks, reportedly planned to oust acting attorney general in bid to overturn election"
     publishedDateTime: 2021-01-23T13:28:00Z
@@ -126,22 +110,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/t7VpUy5QxEECbcVgOLtJwrLwgqc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IT6YI775GRH4NHVWSC4CLPP6KQ.aspx"
         width: 1200
         height: 675
-        isCached: true
-  - title: "'Trumpocalypse' is over. Why the anti-Trump billboard in downtown Phoenix is coming down"
-    excerpt: "Trumpocalypse,' the anti-Donald Trump billboard in downtown Phoenix is being replaced. The controversial Grand Ave. billboard will feature new images"
-    publishedDateTime: 2021-01-24T15:07:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/arts/2021/01/24/donald-trump-billboard-downtown-phoenix/6665056002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6665056002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6665056002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/8748c6c4833f4d286dc7aab150adee2b64263865/c=0-173-4890-2936/local/-/media/2017/05/12/Phoenix/Phoenix/636302166299134058--20170319-Trump-billboard-0065.JPG?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
         isCached: true
   - title: "Trump jumps into a divisive battle over the Republican Party — with a threat to start a ‘MAGA Party’"
     excerpt: "The former president, in his first political activity since leaving office, endorses an ally for Arizona party chair who backed his false claims of election fraud."
@@ -175,20 +143,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Arizona Republicans Censure Party Leaders At Odds With Trump"
-    excerpt: "State GOP members passed resolutions at a meeting on Saturday to condemn three party leaders who they said failed to support President Trump: Gov. Doug Ducey, former Sen. Jeff Flake and Cindy McCain."
-    publishedDateTime: 2021-01-24T03:10:00Z
-    webUrl: "https://www.npr.org/2021/01/23/959974795/arizona-republicans-censure-party-leaders-at-odds-with-trump"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final_sq-ecdd1508be24f14c6b6ee98e6627cbf2be192ea6-s800-c15.jpg"
-        width: 800
-        height: 800
-        isCached: true
   - title: "GOP lawmaker part of Trump's plan to oust AG -NYT"
     excerpt: "NYT. Posted . A Republican U.S. congressman played a key role in former President Donald Trump's efforts to remove the to"
     publishedDateTime: 2021-01-25T00:01:00Z
@@ -202,20 +156,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210124&i=OVDWKJPM3&r=OVDWKJPM3&t=2"
         width: 960
         height: 540
-        isCached: true
-  - title: "Republicans face uncertain future in post-Trump era"
-    excerpt: "The third highest-ranking Republican in the House, Congresswoman Liz Cheney of Wyoming, is facing backlash following her support for impeaching former President Donald Trump. CBS News Capitol Hill producer Rebecca Kaplan joins \"CBSN AM\" to discuss the divisions within the GOP."
-    publishedDateTime: 2021-01-25T14:23:00Z
-    webUrl: "https://www.cbsnews.com/video/republican-party-post-trump-divisions/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/25/c97f4332-6590-4643-8683-d132f8c2bfa2/thumbnail/1200x630/5c699f42fa172802dca2b8e49dd7e31d/cbsn-fusion-republicans-face-uncertain-future-in-post-trump-era-thumbnail-632647-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Trump allies and Republican lawmakers lost thousands of followers in Twitter purge after Capitol riots"
     excerpt: "Republican lawmakers lost thousands of followers when Twitter purged QAnon accounts following the violent mob attack on the Capitol stoked by Trump."

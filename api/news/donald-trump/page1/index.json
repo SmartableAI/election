@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-26-biden-revokes-trumps-ban-on-transgender-americans-serving-in-the-military.md",
+      "title": "Biden revokes Trump's ban on transgender Americans serving in the military",
+      "excerpt": "\"President Biden believes that gender identity should not be a bar to military service,\" the White House said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/biden-lifts-military-transgender-ban/",
+      "originalUrl": "https://www.cbsnews.com/news/biden-lifts-military-transgender-ban/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 638,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/25/30ca4ffa-dbb6-4707-b5b4-afc22ad90b59/thumbnail/1200x630g2/9a8551d8ee73ca9f07232b67ff7b087c/gettyimages-1230779823.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-lifts-military-transgender-ban/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-lifts-military-transgender-ban/",
+      "publishedDateTime": "2021-01-25T08:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-trump-lawyer-giuliani-faces-dominion-lawsuit-for-big-lie-election-fraud-claims.md",
       "title": "Trump lawyer Giuliani faces Dominion lawsuit for 'big lie' election fraud claims",
       "excerpt": "A U.S. voting machine company sued former President Donald Trump's lawyer Rudy Giuliani, accusing him of defamation in what it called his \"big lie\" campaign about widespread fraud in the presidential election,",
@@ -171,7 +223,7 @@
       "originalUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -280,7 +332,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-justice-idUSKBN29T0FS",
       "featuredContent": null,
       "highlight": null,
-      "heat": 453,
+      "heat": 373,
       "tags": null,
       "images": [
         {
@@ -384,7 +436,7 @@
       "originalUrl": "https://www.cbsnews.com/news/trump-second-impeachment-managers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 203,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -540,7 +592,7 @@
       "originalUrl": "https://www.newsweek.com/facebook-vp-hopes-board-uphold-donald-trump-ban-1563958",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -632,21 +684,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-23-top-iran-leader-posts-trump-like-image-with-drone-vows-revenge.md",
-      "title": "Top Iran leader posts Trump-like image with drone, vows revenge",
-      "excerpt": "The website of Iran's Supreme Leader on Friday carried the image of a golfer resembling former President Donald Trump apparently being targeted by a drone alongside a threat of revenge over last year's killing of a top Iranian general in a U.",
+      "path": "_news/2021-01-23-melania-trump-leaves-donald-trump-alone-in-front-of-the-cameras-video.md",
+      "title": "Melania Trump leaves Donald Trump alone in front of the cameras – video",
+      "excerpt": "Former first lady left Donald Trump alone in front of the cameras at Palm Beach airport after the couple left the White House ahead of Joe Biden's inauguration",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-iran-twitter-khamenei-fake-idINKBN29R1YU",
-      "originalUrl": "https://www.reuters.com/article/us-iran-twitter-khamenei-fake-idINKBN29R1YU",
+      "webUrl": "https://www.theguardian.com/us-news/video/2021/jan/23/melania-trump-leaves-donald-trump-alone-in-front-of-the-cameras-video",
+      "originalUrl": "https://www.theguardian.com/us-news/video/2021/jan/23/melania-trump-leaves-donald-trump-alone-in-front-of-the-cameras-video",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 145,
       "tags": null,
       "images": [
         {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210123&t=2&i=1548797338&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1C2",
-          "width": 817,
-          "height": 545,
+          "url": "https://i.guim.co.uk/img/media/13ed5203f77124a21f8ff6fb41659c1b30762c44/30_76_1673_1004/master/1673.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a04315508afc531e643ca3e642bb5c0",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -654,16 +706,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN29R1YU",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R1YU",
-      "publishedDateTime": "2021-01-23T05:13:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-23T02:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -741,63 +793,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-22-the-trump-implosion-auction-brought-to-you-by-a-republican.md",
-      "title": "The Trump implosion auction, brought to you by a Republican?",
-      "excerpt": "One of my favorite stories of the past month or so has been the auction to push the button to blow up Trump Plaza. We know that it won’t happen. But would you believe the idea actually originated with a Republican former elected official,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/new-jersey-playbook/2021/01/22/the-trump-implosion-auction-brought-to-you-by-a-republican-491489",
-      "originalUrl": "https://www.politico.com/newsletters/new-jersey-playbook/2021/01/22/the-trump-implosion-auction-brought-to-you-by-a-republican-491489",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-22T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-22-nato-secretary-general-jens-stoltenberg-says-need-to-rebuild-trust-after-trump.md",
       "title": "NATO Secretary General Jens Stoltenberg says ‘need to rebuild trust’ after Trump",
       "excerpt": "After four long years of Donald Trump’s attacks on NATO, Secretary General Jens Stoltenberg said Thursday that the defense alliance had survived the challenge — and that he looked forward to rebuilding the transatlantic relationship with President Biden.",
@@ -858,7 +853,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-impeachment-trial/trump-impeachment-trial-likely-in-mid-february-republican-senator-idUSKBN29Q30X",
       "featuredContent": null,
       "highlight": null,
-      "heat": 745,
+      "heat": 725,
       "tags": null,
       "images": [
         {
@@ -954,6 +949,153 @@
       ]
     },
     {
+      "path": "_news/2021-01-21-trump-global-broadcasting-chief-quits-amid-voa-staff-revolt.md",
+      "title": "Trump global broadcasting chief quits amid VOA staff revolt",
+      "excerpt": "Former President Donald Trump’s hand-picked chief of U.S. international broadcasting has quit amid a burgeoning staff revolt and growing calls for his resignation",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-global-broadcasting-chief-quits-amid-voa-staff-revolt/2021/01/20/073ed5d4-5b8b-11eb-a849-6f9423a75ffd_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-global-broadcasting-chief-quits-amid-voa-staff-revolt/2021/01/20/073ed5d4-5b8b-11eb-a849-6f9423a75ffd_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-global-broadcasting-chief-quits-amid-voa-staff-revolt/2021/01/20/073ed5d4-5b8b-11eb-a849-6f9423a75ffd_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-global-broadcasting-chief-quits-amid-voa-staff-revolt/2021/01/20/073ed5d4-5b8b-11eb-a849-6f9423a75ffd_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-20T22:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-we-will-be-back-in-some-form-trump-vows-at-end-of-tumultuous-presidency.md",
+      "title": "'We will be back in some form,' Trump vows at end of tumultuous presidency",
+      "excerpt": "President Donald Trump disappeared on Wednesday behind the walls of his club in Palm Beach, Florida, ending a tumultuous presidency stained by two impeachments, deep political divisions and a pandemic that has caused 400,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-idUSKBN29P0II",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-idUSKBN29P0II",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 243,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548466641&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J18I",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29P0II",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P0II",
+      "publishedDateTime": "2021-01-20T20:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-morgan-lewis-trumps-longtime-tax-counsel-prepares-for-split.md",
+      "title": "Morgan Lewis, Trump's longtime tax counsel, prepares for split",
+      "excerpt": "Morgan, Lewis & Bockius said Wednesday it was stepping away from advising Donald Trump on tax matters, leaving the former president and his businesses further isolated from the country's largest law firms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/mlb-trump-idUSL1N2JW050",
+      "originalUrl": "https://www.reuters.com/article/mlb-trump-idUSL1N2JW050",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2JW050",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JW050",
+      "publishedDateTime": "2021-01-20T20:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-trump-departs-vowingwe-will-be-back-in-some-form.md",
       "title": "Trump Departs Vowing,‘We Will Be Back in Some Form’",
       "excerpt": "Defeated and twice impeached, the 45th president used his farewell remarks before a sparse crowd to brag about his record and wish luck to the incoming administration.",
@@ -966,7 +1108,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 175,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -1409,7 +1551,7 @@
       "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/joe-exotic-trump-pardon-list-omits-tiger-king-75366065",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1440,158 +1582,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency.md",
-      "title": "Donald Trump pardons Steve Bannon amid last acts of presidency",
-      "excerpt": "Former senior adviser had previously been considered an unlikely name among the 143 people who received clemency",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/885db9682b9b36653c7209be17740b92e8d006af/0_108_3200_1920/master/3200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cbad3454b95c8ab8d879dbe443aab4c1",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report",
-      "publishedDateTime": "2021-01-20T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-trump-leaves-office-with-little-to-show-of-his-major-promises-and-a-legacy-of-violent-divisiveness.md",
-      "title": "Trump leaves office with little to show of his major promises, and a legacy of violent divisiveness",
-      "excerpt": "Donald Trump promised to end \"American carnage\" and \"Make America Great Again.\" Four years later, he leaves with those goals far from reach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/impeached-twice-still-no-wall-mr-trump-goes-washington-n1254757",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/impeached-twice-still-no-wall-mr-trump-goes-washington-n1254757",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_03/3443223/210119-analysis-inauguration-donald-trump-ew-202p_0238d95931f19103802ae05b7106c67e.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1254757",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254757",
-      "publishedDateTime": "2021-01-20T00:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-report-ex-detroit-mayor-kwame-kilpatrick-on-donald-trumps-pardon-list.md",
-      "title": "Report: Ex-Detroit Mayor Kwame Kilpatrick on Donald Trump's pardon list",
-      "excerpt": "Kwame Kilpatrick may get out of prison 20 years early thanks to Donald Trump, who included the ex-mayor on his pardon list, according to reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/local/michigan/detroit/2021/01/20/kwame-kilpatrick-pardoned-donald-trump-detroit-mayor/4217253001/",
-      "originalUrl": "https://www.freep.com/story/news/local/michigan/detroit/2021/01/20/kwame-kilpatrick-pardoned-donald-trump-detroit-mayor/4217253001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/05/27/PDTF/0308a838-1ad7-4aea-8dfb-a98c9475b901-mayor_032408_kg.jpg?auto=webp&crop=3103,1746,x0,y159&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/4217253001",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4217253001",
-      "publishedDateTime": "2021-01-19T21:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

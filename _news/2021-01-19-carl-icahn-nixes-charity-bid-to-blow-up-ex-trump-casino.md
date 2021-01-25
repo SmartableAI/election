@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/carl-icahn-nixes-charity-bid
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/carl-icahn-nixes-charity-bid-to-blow-up-ex-trump-casino/2021/01/18/12e1ce34-59c7-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 225
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://s.abcnews.com/images/General/my-pillow-guy-mike-lindell-donald-trump-01-gty-llr-210123_1611431001386_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "City council seeks input on bill condemning Trump for riot"
-    excerpt: "A city council in Maryland is seeking public input on a resolution that condemns former President Donald Trump for the violent siege of the U.S. Capitol"
-    publishedDateTime: 2021-01-25T14:53:00Z
-    webUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Small group of Pro-Trump protesters, some armed, quietly gather in Carson City near capitol"
     excerpt: "A small group of protesters have gathered in Carson City near the Nevada state Capitol. Check back here for live updates throughout the day."

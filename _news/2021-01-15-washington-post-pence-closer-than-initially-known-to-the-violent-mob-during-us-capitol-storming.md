@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Judge asks Biden administration to clarify deportation pause order"
+    excerpt: "A federal judge in Texas on Monday asked the Biden administration to clarify its 100-day pause on deportations as he considers a lawsuit to block the moratorium.\n    \n"
+    publishedDateTime: 2021-01-25T16:02:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QVUfljvA8Gg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/deportation-pause-texas/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/deportation-pause-texas/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922010710-ice-police-officer-ny-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Washington Post: Biden to ask for US Surgeon General Jerome Adams' resignation and name acting official"
     excerpt: "President-elect Joe Biden is expected to ask for US Surgeon General Jerome Adams' resignation soon after he is sworn-in on Wednesday, and select an acting surgeon general while his permanent pick for the role of the nation's top doctor undergoes Senate confirmation, according to The Washington Post.\n"
     publishedDateTime: 2021-01-20T11:49:07Z
@@ -77,6 +93,22 @@ related:
     quality: 159
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103093854-surgeon-general-jerome-adams-covid-19-vaccine-sotu-vpx-00014023-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden set to meet with first Black defense secretary as administration is poised to lift transgender military ban"
+    excerpt: "President Joe Biden is set to meet Monday morning with Defense Secretary Lloyd Austin, as the President is poised to repeal a Trump-era ban on most transgender Americans joining the military as early as Monday.\n    \n"
+    publishedDateTime: 2021-01-25T16:35:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uqxM1f4i9WE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/lloyd-austin-transgender-military-harris-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/lloyd-austin-transgender-military-harris-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125103833-biden-harris-austin-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

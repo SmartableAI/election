@@ -368,6 +368,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden reverses Trump ban on transgender individuals serving in military"
+    excerpt: "President Biden on Monday signed an executive order reversing former President Trump’s ban on transgender individuals serving in the U.S. military, saying it is “the right thing to do,” and is in the “national interest” of the United States."
+    publishedDateTime: 2021-01-25T16:24:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqPqxFwnY-I/biden-reverses-trump-ban-on-transgender-individuals-serving-in-military"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-reverses-trump-ban-on-transgender-individuals-serving-in-military.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-reverses-trump-ban-on-transgender-individuals-serving-in-military.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden fires Trump-appointed labor board attorney in break with precedent"
     excerpt: "President Biden in a break with precedent fired the general counsel of the National Labor Relations Board, a Senate-confirmed position, on his first day in the White House. "
     publishedDateTime: 2021-01-21T09:24:25Z
@@ -1325,6 +1341,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6908c488-22ce-4340-b66e-1dcf5c5d2185/655d414b-6da8-4a73-b87f-5bf0085a61c0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Supreme Court ends Trump emoluments lawsuits"
+    excerpt: "The Supreme Court on Monday brought an end to lawsuits over whether Donald Trump illegally profited off his presidency."
+    publishedDateTime: 2021-01-25T15:05:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bqnYkXPvSVs/supreme-court-ends-trump-emoluments-lawsuits"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-ends-trump-emoluments-lawsuits.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-ends-trump-emoluments-lawsuits.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2029583a-0e39-4400-82e7-ecc4cce158c9/58b04e7a-3441-433d-9e2b-0f7767cd50de/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

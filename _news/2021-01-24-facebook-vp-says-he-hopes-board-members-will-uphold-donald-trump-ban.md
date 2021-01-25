@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/facebook-vp-hopes-board-uphold-donald-trump
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-vp-hopes-board-uphold-donald-trump-ban-1563958?amp=1"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/G52E5G6DYZEQFH352DCX7OSTUM.jpg"
         width: 835
         height: 724
+        isCached: true
+  - title: "Donald Trump grants clemency to 143 people (not himself or family members) in final hours"
+    excerpt: "President Donald Trump, who has repeatedly used his clemency authority as a political tool rather than an act of mercy, issued a final wave of pardons and commutations on his last night in office, delivering relief for a mix of beneficiaries that included former strategist Stephen Bannon ,"
+    publishedDateTime: 2021-01-20T14:42:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/01/19/donald-trump-pardons-steve-bannon-white-house/4209763001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/4209763001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4209763001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/15/USAT/99b7b1ca-90be-4570-8335-90f8fb20af93-AP_Trump_2.jpg?auto=webp&crop=4378,2463,x0,y319&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Facebook 'Supreme Court' To Judge Trump Suspension"
     excerpt: "Facebook and Instagram suspended Trump after his supporters stormed the US Capitol on January 6, an attack on the seat of democracy that led to Trump's second impeachment. The leading social network is referring the decision to its independent oversight board -- known informally as the Facebook \"supreme court\" -- with the authority to make binding rulings even chief executive Mark Zuckerberg must abide by."

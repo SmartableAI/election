@@ -63,22 +63,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Lawyers representing the Capitol insurrectionists are building a damning case against Trump"
-    excerpt: "Defense attorneys for some insurrections said their clients were acting on the orders of Trump in storming the Capitol."
-    publishedDateTime: 2021-01-24T00:15:00Z
-    webUrl: "https://www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/capitol-insurrectionists-lawyers-make-case-trump-impeachment-prosecution-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
-    images:
-      - url: "https://i.insider.com/5ff5f6066d61c10019ccdf62?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Democrats have these 7 last-minute Trump administration regulations in their sights to overturn now that they control the Senate"
     excerpt: "Senate Democrats are eyeing the Congressional Review Act as a way to obliterate federal regulations from the Trump administration."
     publishedDateTime: 2021-01-21T13:41:00Z

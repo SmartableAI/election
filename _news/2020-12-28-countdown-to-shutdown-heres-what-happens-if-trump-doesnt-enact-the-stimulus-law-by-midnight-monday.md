@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/us-policy/2020/12/27/trump-shutdown-s
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2020/12/27/trump-shutdown-stimulus/?outputType=amp"
 type: article
 quality: 110
-heat: 150
+heat: 130
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump lost his battle with Congress over the stimulus bill and cost 14 million Americans unemployment aid in the process"
-    excerpt: "But Trump has cost about 14 million Americans a week of federal unemployment aid because he waited to sign the bill after that aid expired."
-    publishedDateTime: 2020-12-28T18:40:00Z
-    webUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 100
-    images:
-      - url: "https://i.insider.com/5fe9fce6edf8920018093d62?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump calls for Americans to receive 'more money in direct payments,' as Congress may pass a package with $600 stimulus checks on Sunday"
     excerpt: "The coronavirus relief package that could pass in Congress on Sunday is expected to include $600 stimulus checks."
     publishedDateTime: 2020-12-20T08:10:00Z

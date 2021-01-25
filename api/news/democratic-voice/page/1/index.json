@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-25-supreme-court-dismisses-emolument-cases-against-trump.md",
+      "title": "Supreme Court dismisses emolument cases against Trump",
+      "excerpt": "The Supreme Court declined on Monday to hear a case concerning whether former President Donald Trump violated provisions of the Constitution that bar a president from profiting from a foreign government.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pwk7xXXLMKU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pwk7xXXLMKU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180329110216-02-trump-hotel-washington-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court-donald-trump-case/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court-donald-trump-case/index.html",
+      "publishedDateTime": "2021-01-25T08:24:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-trump-wants-back-on-facebook-this-star-studded-jury-might-let-him.md",
       "title": "Trump Wants Back on Facebook. This Star-Studded Jury Might Let Him.",
       "excerpt": "Trump be permitted to return to Facebook and reconnect with his millions of followers? The decision has major consequences not just for American politics, but also for the way in which social media is regulated,",
@@ -354,7 +410,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 213,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -510,6 +566,62 @@
       ]
     },
     {
+      "path": "_news/2021-01-22-mcconnell-privately-says-he-wants-trump-gone-as-republicans-quietly-lobby-him-to-convict.md",
+      "title": "McConnell privately says he wants Trump gone as Republicans quietly lobby him to convict",
+      "excerpt": "As the House prepares to send articles of impeachment to the Senate on Monday, CNN has learned that dozens of influential Republicans around Washington -- including former top Trump administration officials -- have been quietly lobbying GOP members of Congress to impeach and convict Donald Trump. The",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tVmuA9o9Zhk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tVmuA9o9Zhk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 306,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210122103730-01-trump-gop-impeachment-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachment-conviction-republicans/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachment-conviction-republicans/index.html",
+      "publishedDateTime": "2021-01-22T10:51:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-fauci-says-lack-of-candor-from-trump-administration-very-likely-cost-lives.md",
       "title": "Fauci says lack of candor from Trump administration 'very likely' cost lives",
       "excerpt": "Dr. Anthony Fauci said Friday that the lack of truthfulness from the Trump administration regarding the Covid-19 pandemic \"very likely\" cost American lives.\n    \n",
@@ -539,119 +651,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/22/politics/fauci-biden-covid-approach-cnntv/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/fauci-biden-covid-approach-cnntv/index.html",
       "publishedDateTime": "2021-01-22T05:27:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-the-trump-implosion-auction-brought-to-you-by-a-republican.md",
-      "title": "The Trump implosion auction, brought to you by a Republican?",
-      "excerpt": "One of my favorite stories of the past month or so has been the auction to push the button to blow up Trump Plaza. We know that it won’t happen. But would you believe the idea actually originated with a Republican former elected official,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/new-jersey-playbook/2021/01/22/the-trump-implosion-auction-brought-to-you-by-a-republican-491489",
-      "originalUrl": "https://www.politico.com/newsletters/new-jersey-playbook/2021/01/22/the-trump-implosion-auction-brought-to-you-by-a-republican-491489",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-22T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-mcconnell-proposes-delaying-impeachment-trial-until-february-so-trump-team-can-prepare.md",
-      "title": "McConnell proposes delaying impeachment trial until February so Trump team can prepare",
-      "excerpt": "The timing of former President Donald Trump's Senate impeachment trial is still unsettled while Senate leaders haggle over how a power-sharing agreement will govern a 50-50 Senate.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rjYhHedOgIc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rjYhHedOgIc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 307,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html",
-      "publishedDateTime": "2021-01-21T18:55:43-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -860,7 +859,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 175,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -1131,63 +1130,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-20-trump-leaves-office-with-little-to-show-of-his-major-promises-and-a-legacy-of-violent-divisiveness.md",
-      "title": "Trump leaves office with little to show of his major promises, and a legacy of violent divisiveness",
-      "excerpt": "Donald Trump promised to end \"American carnage\" and \"Make America Great Again.\" Four years later, he leaves with those goals far from reach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/politics-news/impeached-twice-still-no-wall-mr-trump-goes-washington-n1254757",
-      "originalUrl": "https://www.nbcnews.com/politics/politics-news/impeached-twice-still-no-wall-mr-trump-goes-washington-n1254757",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_03/3443223/210119-analysis-inauguration-donald-trump-ew-202p_0238d95931f19103802ae05b7106c67e.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1254757",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254757",
-      "publishedDateTime": "2021-01-20T00:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-20-trump-grants-clemency-to-rappers-lil-wayne-and-kodak-black-in-final-flurry-of-presidential-power.md",
       "title": "Trump grants clemency to rappers Lil Wayne and Kodak Black in final flurry of presidential power ",
       "excerpt": "The White House announced early Wednesday that President Donald Trump has granted a pardon to rapper Lil Wayne and a commutation to rapper Kodak Black, two of the raft of pardons and commutations on his final day in office.\n    \n",
@@ -1312,7 +1254,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 295,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -1667,6 +1609,62 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html",
       "publishedDateTime": "2021-01-17T21:05:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-biden-to-nominate-gary-gensler-for-sec-commissioner-rohit-chopra-to-lead-consumer-financial-protection-bureau.md",
+      "title": "Biden to nominate Gary Gensler for SEC commissioner, Rohit Chopra to lead Consumer Financial Protection Bureau",
+      "excerpt": "President-elect Joe Biden is expected to nominate Gary Gensler to serve as the commissioner of the Securities and Exchange Commission and Rohit Chopra to lead the Consumer Financial Protection Bureau, a source familiar with the decision tells CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pt-KrcLRfK0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pt-KrcLRfK0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210117203700-rohit-chopra-gary-gensler-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/17/politics/gary-gensler-rohit-chopra-sec-cfpb-nominations/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/gary-gensler-rohit-chopra-sec-cfpb-nominations/index.html",
+      "publishedDateTime": "2021-01-17T18:40:20-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

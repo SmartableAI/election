@@ -2,6 +2,63 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-12-18-late-night-compares-trump-health-adviser-paul-alexander-to-a-comic-book-villain.md",
+      "title": "Late Night Compares Trump Health Adviser, Paul Alexander, to a Comic Book Villain",
+      "excerpt": "The former Health and Human Services adviser’s leaked emails encouraged herd immunity to deal with the pandemic, writing of Americans, “We want them infected.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.html",
+      "originalUrl": "https://www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/12/18/arts/18latenight/18latenight-facebookJumbo.png",
+          "width": 876,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/18/arts/television/late-night-paul-alexander-covid-trump-casino.amp.html",
+      "publishedDateTime": "2020-12-17T22:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-12-18-joe-biden-wears-a-kick-me-sign.md",
       "title": "Joe Biden Wears a ‘Kick Me’ Sign",
       "excerpt": "Critics like AOC and Sanders believe there is no price to be paid, and benefits to be gained, by publicly pressuring the new administration.",
@@ -1310,49 +1367,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-report-trump-contemplating-not-leaving-white-house-on-january-20.md",
-      "title": "Report: Trump Contemplating Not Leaving White House on January 20",
-      "excerpt": "One of the very few remaining mysteries surrounding Donald Trump — a very simple man prone to blurting out his feelings around the clock in whatever medium he has available — is whether or to what degree he is conscious of his lies.",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/2020/12/will-trump-leave-white-house-january-20-inauguration.html",
-      "originalUrl": "https://nymag.com/intelligencer/2020/12/will-trump-leave-white-house-january-20-inauguration.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/b8e/d89/22cc7310a26c6ebe1e4007d0e9860f8e18-donald-trump-pouts.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/2020/12/will-trump-leave-white-house-january-20-inauguration.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/12/will-trump-leave-white-house-january-20-inauguration.html",
-      "publishedDateTime": "2020-12-16T19:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
