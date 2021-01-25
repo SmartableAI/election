@@ -946,6 +946,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Democrats press ahead with second impeachment trial, as GOP divided on how to defend Trump"
+    excerpt: "Democratic members of Congress are pressing ahead with preparations for the second impeachment trial of former president Donald Trump, saying there is a “compelling” case for Trump to be convicted of inciting an insurrection,"
+    publishedDateTime: 2021-01-25T05:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/democrats-press-ahead-with-second-impeachment-trial-as-gop-divided-on-how-to-defend-trump/2021/01/24/74cbfb74-5e81-11eb-afbe-9a11a127d146_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/democrats-press-ahead-with-second-impeachment-trial-as-gop-divided-on-how-to-defend-trump/2021/01/24/74cbfb74-5e81-11eb-afbe-9a11a127d146_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/democrats-press-ahead-with-second-impeachment-trial-as-gop-divided-on-how-to-defend-trump/2021/01/24/74cbfb74-5e81-11eb-afbe-9a11a127d146_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6GU43LC6TEI6XFBQ47DXWWYCS4.jpg&w=1440"
+        width: 1440
+        height: 966
+        isCached: true
   - title: "With Trump banned from Twitter, his supporters are parsing speeches for clues about what’s next"
     excerpt: "Many of the president’s allies have struggled to glean clear marching orders from him since his banishment from social media."
     publishedDateTime: 2021-01-14T22:23:00Z
@@ -1624,6 +1640,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "House Sending Trump Impeachment to Senate, GOP Opposes Trial"
+    excerpt: "WASHINGTON (AP) — As the House prepares to bring the impeachment charge against Donald Trump to the Senate for trial, a growing number of Republican senators say they are opposed to the proceeding, dimming the chances that former president will be convicted on the charge that he incited a siege of the U."
+    publishedDateTime: 2021-01-25T05:47:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-25/house-sending-trump-impeachment-to-senate-gop-opposes-trial"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-25/house-sending-trump-impeachment-to-senate-gop-opposes-trial?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-25/house-sending-trump-impeachment-to-senate-gop-opposes-trial?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Republicans Signal Deep Resistance To Trump Senate Trial"
     excerpt: "Republican lawmakers demonstrated Sunday that Democrats will have a fight on their hands to convict Donald Trump when the Senate next month opens its first-ever impeachment trial of a former president."
     publishedDateTime: 2021-01-24T16:10:00Z

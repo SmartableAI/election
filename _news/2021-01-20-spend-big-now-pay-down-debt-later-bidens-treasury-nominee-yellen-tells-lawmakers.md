@@ -1166,9 +1166,9 @@ related:
         height: 779
         isCached: true
   - title: "Biden speaks with France's Macron, seeks to strengthen ties"
-    excerpt: "U.S. President Joe Biden spoke on Sunday with French President Emmanuel Macron, expressing his desire to strengthen bilateral ties, the White House said, as Biden made the traditional ally one of the first countries contacted during his initial days in office."
-    publishedDateTime: 2021-01-25T02:12:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-france-idUSKBN29T0QI"
+    excerpt: "U.S. President Joe Biden spoke on Sunday with French President Emmanuel Macron, expressing his desire to strengthen bilateral ties, the White House said, as Biden made the traditional ally one of the first countries contacted during his first days in office."
+    publishedDateTime: 2021-01-25T01:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-france/biden-speaks-with-frances-macron-seeks-to-strengthen-ties-idUSKBN29T0QI"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T0QI"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T0QI"
     type: article
@@ -2159,6 +2159,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Crowd cheers as Biden leaves Georgetown church"
+    excerpt: "Rough Cuts Crowd cheers as Biden leaves Georgetown church. Posted . U.S. President Joe Biden received cheers and waves from a small crowd on Sunday (January 24) as he left a churc"
+    publishedDateTime: 2021-01-25T06:29:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDWPJ9PB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210125&i=OVDWPJ9PB&r=OVDWPJ9PB&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "James Fallows on the message from Biden's inauguration"
     excerpt: "The Atlantic writer says the new president's inaugural address speaks to an ever-growing nation's resolve and will to succeed in the face of cruel obstacles and divisiveness."
     publishedDateTime: 2021-01-24T20:14:00Z
@@ -2248,6 +2262,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547715105&r=LYNXMPEH0D03T&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Inside Kamala Harris' New Home Next Door To President Joe Biden's"
+    excerpt: "Harris' temporary home is just across the White House and is called the president's guest house Blair House is larger than the White House and has traditional and luxurious finishing Vice President Kamala Harris is moving next door to President Joe Biden."
+    publishedDateTime: 2021-01-25T05:17:00Z
+    webUrl: "https://www.ibtimes.com/inside-kamala-harris-new-home-next-door-president-joe-bidens-3129774"
+    ampWebUrl: "https://www.ibtimes.com/inside-kamala-harris-new-home-next-door-president-joe-bidens-3129774?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/inside-kamala-harris-new-home-next-door-president-joe-bidens-3129774?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 90
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/kamala-harris-is-sworn-in-as-vice-president.jpg"
+        width: 1024
+        height: 736
         isCached: true
   - title: "Biden is raising tens of millions of dollars for his inauguration but won't say where the money is going"
     excerpt: "Biden is raising tens of millions of dollars for the inaugural celebrations, including from corporate giants with big business before the federal government."

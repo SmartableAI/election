@@ -94,6 +94,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Increasing number of GOP senators oppose Trump impeachment trial"
+    excerpt: "Sen. Marco Rubio, R-Fla called the upcoming trial of Trump 'stupid' and harmful for the US"
+    publishedDateTime: 2021-01-25T05:00:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F15eZACVzGo/live-updates-trump-impeachment-1-25-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-impeachment-1-25-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-impeachment-1-25-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/219f5b85-85d3-4586-8e42-e015f131035e/05980f72-2d65-4a8d-bcf0-d16c88e6dd3c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Alaska's Murkowski pledges to stay with Senate Republicans despite issues with Trump"
     excerpt: "Moderate GOP Sen. Lisa Murkowski has been very vocal for years that she’s no fan of Donald Trump’s takeover of the Republican Party."
     publishedDateTime: 2021-01-22T21:51:02Z

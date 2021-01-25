@@ -3,8 +3,8 @@ category: news
 title: "Biden to repeal Trump's ban on transgender people joining military"
 excerpt: "President Joe Biden is poised to repeal his predecessor Donald Trump's ban on transgender people enlisting in the U.S. military, a person familiar with the matter said."
 publishedDateTime: 2021-01-25T01:51:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-military-lgbt-idUSKBN29T0Q8"
-webUrl: "https://www.reuters.com/article/us-usa-biden-military-lgbt-idUSKBN29T0Q8"
+originalUrl: "https://www.reuters.com/article/us-usa-biden-military-lgbt/biden-to-repeal-trumps-ban-on-transgender-people-joining-military-idUSKBN29T0Q8"
+webUrl: "https://www.reuters.com/article/us-usa-biden-military-lgbt/biden-to-repeal-trumps-ban-on-transgender-people-joining-military-idUSKBN29T0Q8"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T0Q8"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T0Q8"
 type: article
@@ -5872,6 +5872,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "DNLVI+lK52AsSm2BgnxQyvWUVQNAEQT0TVJ05wb962nWbYVtzyMgQ4pA1LhtYpSDE3PgU0kuUWjEJh5z69VkL4ZStUDhMdWeTXGuMik1B0In3FZbBL6BveK/pitFYHomSMSON/ZUIkSRowNK5iGo38b42QIUa3qvKOyqCuxJk1qN8TGKM1BhWDige/a8Jhrr/i0s7cHTJLoPJFboRWgFd+IvOf2/4UD6RtmOCMHG4kQKQRsBZvtSDs8p8JtvVjLWf2mz9JFndiLkVXk6JQqfAe4feQMfMqophosgOu8VD+2Iu2XHccRtQ8cA8AqQsMOgn3h9nNwqqdgGOJ4Po//63H1F8JyTyB8UZUuQGhAPP5+MWlTXumZgza3DTRizekEhx9+K19KlbOq4Pkydk0dh5uMaBqato6mCoaz0qfv33wJjZoZdMd+yHaCyAESkvjzfdDRT+FYmiNXLiRBIsst3u/I7B8SQU+4dcde0SNfRS6UW+HOWXtf5ctg1Vvgs4zVBSpJPyxFGQJEWPa0kurtVpg==;upsXjrEfVsgoVaDiY0bQvQ=="
+secured: "0nupGAj+4gN69XN8bbxNf732pztd/0BwdszoxGzsmF0PUcp1iMXzJ3kbMxMsgDbXq1myPD57wfvAbitsQn9ewWmq/qvF7xyDOOio4oiIpwYQ2IYyIlglAUmA/SBN/WPQxIsDxRYV7cFzjx+ElLICzTT2CgqqlNG7JuV+i1DzP7C8uge6sqxmnE1FZO7ol+gtD77QEkbgKXaG4f3F1zZMqIeHohN3qpYGnKyN66GiXimJ7NU4nOV1ieotbExB5JoPWlW0b9u5vz6o3AurHHNtC6T9ZFSeNJhKl7XhJSKz6CDXG+8ixieU7bm1SNulkjsCRyS+2pOIJCjUnPabXd8SM5Comu6Xl5bubISkfTEhi94=;cpDqdhWysVEIEi1+Mxx5yg=="
 ---
 
