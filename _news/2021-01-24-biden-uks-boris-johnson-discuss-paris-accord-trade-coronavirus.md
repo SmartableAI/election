@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-uks-boris-johnson-discuss-par
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus.amp"
 type: article
 quality: 175
-heat: 315
+heat: 355
 published: true
 
 provider:
@@ -110,6 +110,38 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "McCarthy questions Biden's change of mind on coronavirus travel bans as new restrictions announced"
+    excerpt: "House Minority Leader Rep. Kevin McCarthy's office is questioning if President Biden changed his mind when it comes to coronavirus-related travel bans after it was reported that the Centers for Disease Control and Prevention is imposing a new restriction on travelers from South Africa."
+    publishedDateTime: 2021-01-25T19:50:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tucpfFpo54g/mccarthy-coronavirus-travel-ban-has-biden-changed-mind"
+    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-coronavirus-travel-ban-has-biden-changed-mind.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-coronavirus-travel-ban-has-biden-changed-mind.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98f36c91-d89f-4ade-9ac6-9f60d2dc49b2/ced8d555-21cd-4dd1-8a71-3a6346762f50/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Americans still awaiting coronavirus stimulus checks as Biden reportedly offers $4B to Central America"
+    excerpt: "Americans still waiting on coronavirus relief, including stimulus checks, from the federal government may be surprised to learn that President Biden is reportedly offering $4 billion to Central American countries for development."
+    publishedDateTime: 2021-01-25T19:11:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m5BcvBmuSMA/americans-covid-stimulus-checks-biden-central-america-aid"
+    ampWebUrl: "https://www.foxnews.com/politics/americans-covid-stimulus-checks-biden-central-america-aid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/americans-covid-stimulus-checks-biden-central-america-aid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/mcconnell-and-schumer.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden adviser defends liberal agenda items in $1.9T coronavirus relief plan, dodges on ending filibuster"
     excerpt: "President-elect Joe Biden’s proposed coronavirus relief package would cost taxpayers $1.9 trillion, and his economic adviser defended the inclusion of several Democratic agenda items."

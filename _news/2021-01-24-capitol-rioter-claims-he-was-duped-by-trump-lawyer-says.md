@@ -95,6 +95,22 @@ related:
         width: 436
         height: 545
         isCached: true
+  - title: "U.S. Senate aims to pass COVID-19 bill ahead of Trump trial: lawmaker"
+    excerpt: "The U.S. Senate is aiming to pass COVID-19 relief legislation before former President Donald Trump's impeachment trial begins in early February, a lawmaker said on Monday, amid growing signs of agreement on the need to speed vaccine distribution."
+    publishedDateTime: 2021-01-25T20:17:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN29U1PL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U1PL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U1PL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548987616&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O11R"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Rudy Giuliani: lawyers call for Trump's personal attorney to lose law licence"
     excerpt: "Trump’s personal attorney, who led efforts to overturn election result, criticised for calling for ‘trial by combat’ before Capitol attack"
     publishedDateTime: 2021-01-22T02:12:00Z

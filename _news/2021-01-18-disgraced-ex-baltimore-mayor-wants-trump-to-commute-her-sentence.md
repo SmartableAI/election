@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ex-baltimore-mayor-trump-commute-se
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-baltimore-mayor-trump-commute-sentence.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Leahy expected to preside over Trump impeachment trial instead of Chief Justice Roberts"
+    excerpt: "Sen. Patrick Leahy will preside over the impeachment trial of former President Trump, signaling that Chief Justice John Roberts will not be forced to oversee the politically-charged arguments now that Trump is out of office. "
+    publishedDateTime: 2021-01-25T19:40:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bps-XTLG064/leahy-to-preside-over-senate-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/leahy-to-preside-over-senate-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/leahy-to-preside-over-senate-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340

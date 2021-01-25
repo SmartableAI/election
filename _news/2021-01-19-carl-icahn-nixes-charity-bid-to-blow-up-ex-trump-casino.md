@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/carl-icahn-nixes-charity-bid
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/carl-icahn-nixes-charity-bid-to-blow-up-ex-trump-casino/2021/01/18/12e1ce34-59c7-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/01/210114155358-20210114-trump-most-egregious-abuses-of-power-super-169.jpg?w=1024&h=576"
         width: 1024
         height: 576
+        isCached: true
+  - title: "House To Send Trump Impeachment Article To Senate, Triggering Trial"
+    excerpt: "The US House of Representatives is to deliver a single article of impeachment to the Senate on Monday accusing Donald Trump of inciting the storming of the Capitol, triggering the first-ever impeachment trial of a former president."
+    publishedDateTime: 2021-01-25T17:30:00Z
+    webUrl: "https://www.ibtimes.com/house-send-trump-impeachment-article-senate-triggering-trial-3130178"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/24/speaker-nancy-pelosi-is-set-to-send-the.jpg"
+        width: 1024
+        height: 714
         isCached: true
 
 secured: "EIWeeEn63cRwYLBvuMWsFQQ43sewVxZoWQDvM+G0DBlox+ToFZUxfu5ySHXXXfgzCAfS4ohrxLCR6JatJup38MwuMf47r7snOYEThuxvqI/tgccUX51EB+5NIroRa+TpcWkkabj1xFU06Wk+rzmyZ9vX/qjGBN3u3LvH/boO6//9N+bIExMMjHJAdSL9wdMokf1zs3DdzkBgac3iG92EStv8PZ74kZCG9RoEqgGFEHy5F1oUVft+TU823qN7TfgPO1BaoYdzNi7mUSxsDNNncM7GdBXqj+Wh2QqOt+2378xsCq6bc8GC0KxMwRv9vcVpDxiU0A+rGdEdZGIkftj9D7d12Lr4HsXcL6nkmvyA/00=;3ZpVsgNVT4J0cTxPK8KrPQ=="

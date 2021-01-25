@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here are the executive orders Biden has signed so far"
+    excerpt: "President Joe Biden has signed a flurry of executive orders, actions and memorandums aimed at rapidly addressing the coronavirus pandemic and dismantling many of President Donald Trump's policies.\n    \n"
+    publishedDateTime: 2021-01-25T19:04:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GTyD7Szq5o4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/biden-executive-orders-day-six/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/biden-executive-orders-day-six/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122162050-president-biden-executive-orders-economic-relief-mattingly-dnt-lead-vpx-00004102-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump transformed the Supreme Court that mostly helped advance his agenda"
     excerpt: "President Donald Trump will exit the White House on Wednesday but leave behind three of the nine Supreme Court justices and a majority that was willing to partner with him for much of his agenda.\n    \n"
     publishedDateTime: 2021-01-19T12:33:04Z
@@ -108,6 +124,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118152846-01-trump-barrett-0926-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "White House recommits to getting Harriet Tubman on $20 bill after Trump delay"
+    excerpt: "The Biden administration says it is \"exploring ways to speed up\" release of $20 bills featuring Harriet Tubman after the Trump administration delayed the move first initiated by President Barack Obama.\n    \n"
+    publishedDateTime: 2021-01-25T19:16:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Cyd-ihpMsnw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/harriet-tubman-20-biden-trump-obama/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/harriet-tubman-20-biden-trump-obama/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200220173132-harriet-tubman-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

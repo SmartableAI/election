@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/biden-lifts-military-transgender-ba
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-lifts-military-transgender-ban/"
 type: article
 quality: 138
-heat: 658
+heat: 678
 published: true
 
 provider:
@@ -81,19 +81,19 @@ related:
         isCached: true
   - title: "Biden to reinstate COVID travel rules, add South Africa"
     excerpt: "Two White House officials say President Joe Biden on Monday will formally reinstate COVID-19 travel restrictions on non-U.S. travelers from Brazil, Ireland, United Kingdom and 26 other European countr"
-    publishedDateTime: 2021-01-25T03:42:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-travel-rules-add-south-africa/2021/01/24/68239846-5e95-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-travel-rules-add-south-africa/2021/01/24/68239846-5e95-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-reinstate-covid-travel-rules-add-south-africa/2021/01/24/68239846-5e95-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    publishedDateTime: 2021-01-25T13:36:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75467058"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75467058"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75467058"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Travel/WireAP_cf6c3c66cb5d4a55b5e80f6769b46498_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "City council seeks input on bill condemning Trump for riot"
     excerpt: "A city council in Maryland is seeking public input on a resolution that condemns former President Donald Trump for the violent siege of the U.S. Capitol"
@@ -222,6 +222,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/11/11/USAT/b7b61a20-f598-49c7-ae3b-e300c35f7f39-Sanders_1.jpg?auto=webp&crop=4999,2812,x0,y213&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump's impeachment trial threatens to derail speedy passage of Biden's stimulus package and set up another unemployment cliff"
+    excerpt: "A trial next month may drag out the process to enact a relief plan until mid-March when millions of jobless people could lose federal benefits."
+    publishedDateTime: 2021-01-25T20:52:00Z
+    webUrl: "https://www.businessinsider.com/trump-impeachment-trial-effect-impact-on-biden-stimulus-unemployment-cliff-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-impeachment-trial-effect-impact-on-biden-stimulus-unemployment-cliff-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-impeachment-trial-effect-impact-on-biden-stimulus-unemployment-cliff-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/600f004dcf23090019e971f6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "'To heal, we must remember': Biden leads national mourning of 400,000 Americans killed by COVID-19"
     excerpt: "\"It's hard sometimes to remember. But that's how we heal,\" Biden said from the Lincoln Memorial Reflecting Pool."
@@ -417,6 +433,6 @@ related:
         height: 1680
         isCached: true
 
-secured: "kRyZdr63Oh8lhdgZiysAilFE9m2fOfhETX16YgrsOGmS9Ke7BTFZh3VXoGsRFZsvAAWdqOrGZbk4gX/s5qp9cCsSjRubcHnaXQF7Mt/BN7XLMqgU/PzTXLIe7xvwY+QwKwyFaYzZOF5lpk+bcbb9yon+Rq/wDXx4io0Us/6jE3sua0fNuI/mmcGN7tvM1riRUXZHMERYI0Mp+e0cfN574ySc1ONVr3HzB2xONzUDB58Zbn9S/Fic7Ebx91yRZ8khzRRtl+3to5HjY28ssC9D9/XyQjBExwjuM6jRqIW6hOo+l/9x3GQSXwvsFkFfUIwgpKsXsEasBS+UQgNCuH6ZOZFnIS6exybel48phC+7W5U=;+w0MGNwXw3D0g3aCLeejsQ=="
+secured: "tf9udIaGA+sjavZTuiIv+9E2g20CD89f06OzM0XkqLPVJYFaGt/xu24ULFT8figVH1RGyG2I7PZNqaNg052KeUn7yWvtz9EbB/7FfWUy8L2Oeynn5lMio7mF0RldBeODi/TczZfpua+YeLqf+t/RvR3nTaDeZT4IzqBfvHMy1kk24C1P2s3/CDeVNkR+s6MVqCgxrdyx0esap2sFFy8Vc9BpsNwn+MQhktqF/A7XJh+L3yTVMYHom5ig5SzPl0LWxcOdvtnaF450t+Ys7A3gQLDzVy5WQqfAp/9M1HAQyBOY2n2gGOD0P1ZrqxGO8nlcnEFtw2jZAh0LGWn9GP+I5q41evMwRTamVL+dVvt7rkr/JtKYJ+b47Q5alCCoW343O+V+VnsGG5v0DW04pKJEBXJFZAYeuOF+3UCJstSOo3SdMLShmFpjU0rdpugXXtT6RMDZqEVVlFduivvqov1EhwaEevdCJ2gdafAiyCWPhEiIN4079UFm90iiSBkANw2P25ChuVBPHaljFNkHL6WdMg==;+tfqcjxjfct5DZ8euReFpA=="
 ---
 

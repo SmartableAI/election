@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Leahy expected to preside over Trump impeachment trial instead of Chief Justice Roberts"
+    excerpt: "Sen. Patrick Leahy will preside over the impeachment trial of former President Trump, signaling that Chief Justice John Roberts will not be forced to oversee the politically-charged arguments now that Trump is out of office. "
+    publishedDateTime: 2021-01-25T19:40:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bps-XTLG064/leahy-to-preside-over-senate-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/leahy-to-preside-over-senate-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/leahy-to-preside-over-senate-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump may issue 50 to 100 commutations, pardons before term ends; rapper Lil Wayne expected to be on list"
     excerpt: "President Trump is expected to issue between 50 and 100 commutations and pardons before he leaves office this week, two sources familiar with the list told Fox News."
     publishedDateTime: 2021-01-18T14:26:43Z

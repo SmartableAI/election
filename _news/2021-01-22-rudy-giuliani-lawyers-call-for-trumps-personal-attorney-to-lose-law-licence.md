@@ -111,6 +111,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "U.S. Senate aims to pass COVID-19 bill ahead of Trump trial: lawmaker"
+    excerpt: "The U.S. Senate is aiming to pass COVID-19 relief legislation before former President Donald Trump's impeachment trial begins in early February, a lawmaker said on Monday, amid growing signs of agreement on the need to speed vaccine distribution."
+    publishedDateTime: 2021-01-25T20:17:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN29U1PL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U1PL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U1PL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548987616&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O11R"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Arizona GOP narrowly reelects Chairwoman Kelli Ward, a Trump loyalist who spread false election fraud claims"
     excerpt: "The closely watched result offers an early, state-level indication that Trump retains sway over the activist GOP base, though it is more tenuous."
     publishedDateTime: 2021-01-24T14:55:00Z

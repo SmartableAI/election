@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-resul
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-results-transition/?id=75022086"
 type: article
 quality: 168
-heat: 7828
+heat: 7848
 published: true
 
 provider:
@@ -5646,6 +5646,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2021-01-11/biden-faces-challenge-in-guiding-american-past-trump-era"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-11/biden-faces-challenge-in-guiding-american-past-trump-era?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-11/biden-faces-challenge-in-guiding-american-past-trump-era?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Biden Reverses Trump Ban on Transgender People in Military"
+    excerpt: "President Joe Biden has signed an executive order revoking a Pentagon policy that largely barred transgender individuals from joining the military."
+    publishedDateTime: 2021-01-25T20:28:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-01-25/ap-source-biden-to-drop-trumps-military-transgender-ban"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-01-25/ap-source-biden-to-drop-trumps-military-transgender-ban?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-01-25/ap-source-biden-to-drop-trumps-military-transgender-ban?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

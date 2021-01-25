@@ -2,21 +2,21 @@
 category: news
 title: "Biden to reinstate COVID travel rules, add South Africa"
 excerpt: "Two White House officials say President Joe Biden on Monday will formally reinstate COVID-19 travel restrictions on non-U.S. travelers from Brazil, Ireland, United Kingdom and 26 other European countr"
-publishedDateTime: 2021-01-25T03:42:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-travel-rules-add-south-africa/2021/01/24/68239846-5e95-11eb-a177-7765f29a9524_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-travel-rules-add-south-africa/2021/01/24/68239846-5e95-11eb-a177-7765f29a9524_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-travel-rules-add-south-africa/2021/01/24/68239846-5e95-11eb-a177-7765f29a9524_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-reinstate-covid-travel-rules-add-south-africa/2021/01/24/68239846-5e95-11eb-a177-7765f29a9524_story.html?outputType=amp"
+publishedDateTime: 2021-01-25T13:36:00Z
+originalUrl: "https://abcnews.go.com/Health/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75467058"
+webUrl: "https://abcnews.go.com/Health/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75467058"
+ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75467058"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75467058"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Travel/WireAP_cf6c3c66cb5d4a55b5e80f6769b46498_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -223,6 +223,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump's impeachment trial threatens to derail speedy passage of Biden's stimulus package and set up another unemployment cliff"
+    excerpt: "A trial next month may drag out the process to enact a relief plan until mid-March when millions of jobless people could lose federal benefits."
+    publishedDateTime: 2021-01-25T20:52:00Z
+    webUrl: "https://www.businessinsider.com/trump-impeachment-trial-effect-impact-on-biden-stimulus-unemployment-cliff-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trump-impeachment-trial-effect-impact-on-biden-stimulus-unemployment-cliff-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-impeachment-trial-effect-impact-on-biden-stimulus-unemployment-cliff-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/600f004dcf23090019e971f6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "'To heal, we must remember': Biden leads national mourning of 400,000 Americans killed by COVID-19"
     excerpt: "\"It's hard sometimes to remember. But that's how we heal,\" Biden said from the Lincoln Memorial Reflecting Pool."
     publishedDateTime: 2021-01-20T06:25:00Z
@@ -417,6 +433,6 @@ related:
         height: 1680
         isCached: true
 
-secured: "KL7sYByH5xzUKeXovGtC3r03KW2o63xrjdENTsP0B6RWCNsg1ePCFjkc7nywwJ0J0XaPicN/HDSRWUubAGyvM5yslbKTyjWTuP31QGBBCrrKQ0gUQZdtI2w0yjg581J/yzdDFEnuEFMGlTknPK+nPnFi7Bx5UARfX0o2tqjCjC6MixGSFKPvBMlF39hwJbROGCVJ37uKrU6o1PjZKfFJhshQo2SRKqfmtt3OVpIrxcGA+m3O+/GEwz/bxr7YhnTxVS1ms6/cpjYOlbLUdtA1kbapbYVuC4ZOetXHgMuicM5NalT2IUFjnbRziP8usyXCVHrNNk2ifrKEYwu66PGUCdCXg+898C9qMkkghLHbPLk=;TWEY1DQwZYzpkUUakYV45g=="
+secured: "l68xsKR3dpUJCBjS6gkXlm9ei8gAYlX2/+98vTavRTHiJn3JGzZS5oDRMNhDXkuwZ3ltIlg0vSQe5CKSG2nyJXT4mInBD/t9Umzhk/9IjqDAZozhmpW0+X4y3r2AEwKLUCeTMKCJPQE1OugNEYlIWr/m/acVKBmKVqaPGn2r+SNUMpDwqd1WtjYuMnrOvo4VpgM4FAsrjrKu84n052CI8Wcj0i6UX/zhHNiLcKF+SMhsF9NEjSj1Vn1Mvlii0pjH+oY1kHUly3Bdnayo3gidJ+fpkV9q5TvDG3gxSMsoYDtnL92rBdDUz65OUgMBUwSlmLdUkILM33f1idm5hpTHyLUhjTdfBjMZXHam4C97VSA=;+vyCa8pSliDnDUoZcxakRQ=="
 ---
 
