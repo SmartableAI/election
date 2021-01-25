@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden replaces controversial White House physician"
+    excerpt: "President Joe Biden has replaced the controversial White House physician who offered misleading information about President Donald Trump's coronavirus diagnosis last fall.\n    \n"
+    publishedDateTime: 2021-01-25T13:41:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KEkDOCkuViM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/sean-conley-white-house-physician/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/sean-conley-white-house-physician/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005151803-01-sean-conley-walter-reed-1005---screenshot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden is no longer afraid to spend big on economic relief. Here's what's changed since 2009"
     excerpt: "Even before he took office, President Joe Biden made clear he will not hesitate to spend big to fight the coronavirus pandemic and get the economy back on track.\n    \n"
     publishedDateTime: 2021-01-25T12:00:21Z

@@ -29,153 +29,156 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump pardons Steve Bannon amid last acts of presidency"
-    excerpt: "Former senior adviser had previously been considered an unlikely name among the 143 people who received clemency"
-    publishedDateTime: 2021-01-20T10:21:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report"
+  - title: "Trump lawyer Giuliani faces Dominion lawsuit for 'big lie' election fraud claims"
+    excerpt: "A U.S. voting machine company sued former President Donald Trump's lawyer Rudy Giuliani, accusing him of defamation in what it called his \"big lie\" campaign about widespread fraud in the presidential election,"
+    publishedDateTime: 2021-01-25T13:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-dominion/trump-lawyer-giuliani-faces-dominion-lawsuit-for-big-lie-election-fraud-claims-idUSKBN29U1CD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U1CD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U1CD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548977774&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O0SY"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump asked Justice Department to go to Supreme Court to overturn election: Journal"
+    excerpt: "Former President Donald Trump considered replacing the acting attorney general with an official willing to pursue unsubstantiated claims of election fraud, and he pushed the Justice Department to ask the Supreme Court to invalidate President Joe Biden’s victory,"
+    publishedDateTime: 2021-01-24T08:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-justice/trump-asked-justice-department-to-go-to-supreme-court-to-overturn-election-journal-idUSKBN29T01R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T01R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T01R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 134
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548848598&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N00Q"
+        width: 803
+        height: 545
+        isCached: true
+  - title: "Rapper Lil Wayne in line for last-day pardon from Donald Trump"
+    excerpt: "But sources say neither Rudy Giuliani, Steve Bannon or president himself are on the list"
+    publishedDateTime: 2021-01-19T16:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/19/rapper-lil-wayne-in-line-for-last-day-pardon-from-donald-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/19/rapper-lil-wayne-in-line-for-last-day-pardon-from-donald-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/19/rapper-lil-wayne-in-line-for-last-day-pardon-from-donald-trump"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/885db9682b9b36653c7209be17740b92e8d006af/0_108_3200_1920/master/3200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cbad3454b95c8ab8d879dbe443aab4c1"
+      - url: "https://i.guim.co.uk/img/media/514cd1fba41953b40d7523832677d90f723c0f34/0_169_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ade1302a8e80dffdc30362492c7872da"
         width: 600
         height: 360
         isCached: true
-  - title: "Trump global broadcasting chief quits amid VOA staff revolt"
-    excerpt: "Former President Donald Trump’s hand-picked chief of U.S. international broadcasting has quit amid a burgeoning staff revolt and growing calls for his resignation"
-    publishedDateTime: 2021-01-21T06:50:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-global-broadcasting-chief-quits-amid-voa-staff-revolt/2021/01/20/073ed5d4-5b8b-11eb-a849-6f9423a75ffd_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-global-broadcasting-chief-quits-amid-voa-staff-revolt/2021/01/20/073ed5d4-5b8b-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-global-broadcasting-chief-quits-amid-voa-staff-revolt/2021/01/20/073ed5d4-5b8b-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+  - title: "Trump hires South Carolina lawyer Bowers for impeachment defense"
+    excerpt: "Former President Donald Trump has hired South Carolina-based lawyer Butch Bowers to represent him in his Senate impeachment trial over a charge that he incited insurrection, a source familiar with the matter said on Thursday."
+    publishedDateTime: 2021-01-22T04:19:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-bowers-idUKKBN29Q341"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29Q341"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29Q341"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548661969&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L06Z"
+        width: 436
+        height: 545
+        isCached: true
+  - title: "Capitol rioter claims he was 'duped' by Trump, lawyer says"
+    excerpt: "The attorney for Anthony Chansley, the so-called \"Qanon Shaman\" who made rounds on social media for his outlandish outfit during the Capitol riot, is blaming former President Trump for his client's involvement in the riot."
+    publishedDateTime: 2021-01-23T16:06:00Z
+    webUrl: "https://thehill.com/homenews/news/535526-capitol-rioter-claims-he-was-duped-by-trump-lawyer-says"
+    ampWebUrl: "https://thehill.com/homenews/news/535526-capitol-rioter-claims-he-was-duped-by-trump-lawyer-says?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/535526-capitol-rioter-claims-he-was-duped-by-trump-lawyer-says?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/horned_man_capitol_riots011221.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Rudy Giuliani: lawyers call for Trump's personal attorney to lose law licence"
+    excerpt: "Trump’s personal attorney, who led efforts to overturn election result, criticised for calling for ‘trial by combat’ before Capitol attack"
+    publishedDateTime: 2021-01-22T02:12:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/22/rudy-giuliani-lawyers-call-for-trumps-personal-attorney-to-lose-law-license"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/22/rudy-giuliani-lawyers-call-for-trumps-personal-attorney-to-lose-law-license"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/22/rudy-giuliani-lawyers-call-for-trumps-personal-attorney-to-lose-law-license"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/1e47e094a50e86a0e9cd2647c35c49609d7f9c63/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5eabdd19459d124ea08d8bda5c093fb3"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Arizona GOP narrowly reelects Chairwoman Kelli Ward, a Trump loyalist who spread false election fraud claims"
+    excerpt: "The closely watched result offers an early, state-level indication that Trump retains sway over the activist GOP base, though it is more tenuous."
+    publishedDateTime: 2021-01-24T14:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/24/arizona-gop-reelects-kelli-ward-censures-cindy-mccain-jeff-flake-doug-ducey/6692657002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6692657002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6692657002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/PPHX/f063a3d8-bbc8-4d8b-9728-245e41c58cf1-cent02-7dyzmbiscdh80zdihle_original.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump entertained plan to install an attorney general who would help him pursue baseless election fraud claims"
+    excerpt: "The plan would have pushed out Jeffrey Rosen as acting attorney general and promoted a Trump devotee to lead the Justice Department."
+    publishedDateTime: 2021-01-23T08:23:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/trump-justice-department-overturn-election/2021/01/22/b7f0b9fa-5d1c-11eb-a976-bad6431e03e2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-justice-department-overturn-election/2021/01/22/b7f0b9fa-5d1c-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-justice-department-overturn-election/2021/01/22/b7f0b9fa-5d1c-11eb-a976-bad6431e03e2_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 120
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NLPGG3S5E4I6XKLWXLLEGHQD4I.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "'We will be back in some form,' Trump vows at end of tumultuous presidency"
-    excerpt: "President Donald Trump disappeared on Wednesday behind the walls of his club in Palm Beach, Florida, ending a tumultuous presidency stained by two impeachments, deep political divisions and a pandemic that has caused 400,"
-    publishedDateTime: 2021-01-21T04:22:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-idUSKBN29P0II"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29P0II"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29P0II"
+  - title: "Trump's pardon largesse a boon for well-connected fraudsters"
+    excerpt: "A former congressman who pocketed millions of dollars in bribes from defense contractors. A Republican fundraiser who paid handsome sums to illicitly lobby a presidential administration. An influential voice in conservative circles accused of duping donors who supported a border wall."
+    publishedDateTime: 2021-01-21T12:11:00Z
+    webUrl: "https://www.businessinsider.com/trumps-pardon-largesse-a-boon-for-well-connected-fraudsters-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trumps-pardon-largesse-a-boon-for-well-connected-fraudsters-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-pardon-largesse-a-boon-for-well-connected-fraudsters-2021-1?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548466641&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J18I"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Trump pardons ex-strategist Steve Bannon, dozens of others"
-    excerpt: "President Donald Trump has pardoned former chief strategist Steve Bannon as part of a late flurry of clemency action benefiting nearly 150 people, including rap stars and former members of Congress"
-    publishedDateTime: 2021-01-20T07:16:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-pardons-strategist-steve-bannon-dozens-75363758"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_5ffebad59b7a4e4e950520e8691e2ec2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump, in wave of Tuesday pardons, so far not planning to pardon himself: source"
-    excerpt: "U.S. President Donald Trump at this point is opting not to issue a pardon for himself as he prepares an expansive list of more than 100 pardons and commutations for release on Tuesday, a source familiar with the effort said."
-    publishedDateTime: 2021-01-18T08:49:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-pardons/trump-in-wave-of-tuesday-pardons-so-far-not-planning-to-pardon-himself-source-idUSKBN29N079?edition-redirect=ca"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548150109&r=LYNXMPEH0H03F&w=800"
-        width: 800
-        height: 526
-        isCached: true
-  - title: "'It was a non-event': Pro-Trump protests quiet amid massive police presence across U.S."
-    excerpt: "Law enforcement officers far outnumbered protesters at state capitol grounds on Sunday, as few Trump supporters who believe the president's false claim that he won the 2020 election turned out for what authorities feared could be violent demonstrations."
-    publishedDateTime: 2021-01-18T06:37:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-protests/us-state-capitals-see-few-protesters-after-bracing-for-violent-demonstrations-idUSKBN29M046"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 97
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548124964&r=LYNXMPEH0G0GQ&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Should Trump Pardon Himself? 68% Of Americans Say 'No'"
-    excerpt: "The U.S. Constitution does not explicitly say whether a sitting president can pardon himself for potential criminal liabilities."
-    publishedDateTime: 2021-01-18T00:26:00Z
-    webUrl: "https://www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284"
-    ampWebUrl: "https://www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/outgoing-us-president-donald-trump-is-seeking-to.jpg"
-        width: 1024
-        height: 716
-        isCached: true
-  - title: "Donald Trump grants clemency to 143 people (not himself or family members) in final hours"
-    excerpt: "President Donald Trump, who has repeatedly used his clemency authority as a political tool rather than an act of mercy, issued a final wave of pardons and commutations on his last night in office, delivering relief for a mix of beneficiaries that included former strategist Stephen Bannon ,"
-    publishedDateTime: 2021-01-20T14:42:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2021/01/19/donald-trump-pardons-steve-bannon-white-house/4209763001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/4209763001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/4209763001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 66
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/15/USAT/99b7b1ca-90be-4570-8335-90f8fb20af93-AP_Trump_2.jpg?auto=webp&crop=4378,2463,x0,y319&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Donald Trump pardons ex-strategist Steve Bannon, dozens of others"
-    excerpt: "President Donald Trump pardoned former chief strategist Steve Bannon as part of a flurry of clemency action in the final hours of his White House term that benefited more than 140 people, including rap performers,"
-    publishedDateTime: 2021-01-20T12:13:00Z
-    webUrl: "https://www.nola.com/news/politics/national_politics/article_e3c9d1b6-5b18-11eb-804c-7755957d43eb.html"
-    type: article
-    provider:
-      name: NOLA.com
-      domain: nola.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/7/75/775825e0-5b19-11eb-8627-e70c6ecd59e3/60081fb0d2b18.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-        isCached: true
-  - title: "'It Was a Non-Event': Pro-Trump Protests Quiet Amid Massive Police Presence Across U.S."
-    excerpt: "Trump Protests Quiet Amid Massive Police Presence Across U.S. HARRISBURG, Pa./LANSING, Mich. (Reuters) - Law enforcement officers far outnumbered protesters at state capitol grounds on Sunday, as few Trump supporters who believe the president's false claim that he won the 2020 election turned out for what authorities feared could be violent demonstrations."
-    publishedDateTime: 2021-01-19T04:13:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-17/us-capitals-gird-for-pro-trump-armed-protests-as-fbi-flags-risk-of-violence"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-17/us-capitals-gird-for-pro-trump-armed-protests-as-fbi-flags-risk-of-violence?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-17/us-capitals-gird-for-pro-trump-armed-protests-as-fbi-flags-risk-of-violence?context=amp"
+  - title: "Dominion Voting Systems Sues Trump Lawyer Giuliani Over Election Claims"
+    excerpt: "WASHINGTON (Reuters) - Dominion Voting Systems Inc has filed a lawsuit against former President Donald Trump's lawyer Rudy Giuliani, accusing him of defamation for making false claims of fraud about the November 2020 U."
+    publishedDateTime: 2021-01-25T12:59:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-01-25/dominion-voting-systems-sues-trump-lawyer-giuliani-over-election-claims"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-01-25/dominion-voting-systems-sues-trump-lawyer-giuliani-over-election-claims?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-01-25/dominion-voting-systems-sues-trump-lawyer-giuliani-over-election-claims?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 47
+    quality: 70
 
 secured: "MmAB4AtrmwfACdrIvN1bVtDQ8wbGKPYeP1IyYAtAaebqPS/aXHNTkvNNCuifQRsqCFkyoVPuqqAWFj/I6trLnLgBzn7Bw6Pe/CGRp/nQ1tfuGKaZDQ8iD25NUoS2zRjWDWVQUd6MtiKt2yXd1AMuN5bh8WB/QetT6HbQrTOHF3aJffAgT7pkWTUQV6BPbRjSBozlvQkO6D9MddafQBVtT2MkNOaqDQ+woiVqi/XPu4usmqjo9IrtYLk9gozHrjQGY0unEN6BkKq4cjg/nuVVz1YjmI+d2vNgDCyKA8eJiZ54/L6dIGfEo2+TUNcadSfYwTtr6cDTl+cSB5301VIWRc4oec3bCxLKj9E2ENrGVcc=;LhJ+ZFcBOkAONwHGXcVvpA=="
 ---

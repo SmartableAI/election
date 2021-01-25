@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Fauci says Trump pressured him to be 'more positive' on pandemic"
+    excerpt: "Anthony Fauci told The New York Times that former President Trump pressured him to offer more sunny projections about the trajectory of the coronavirus pandemic. “There were a couple of times where I would make a statement that was a pessimistic viewpoint about what direction we were going,"
+    publishedDateTime: 2021-01-25T14:27:00Z
+    webUrl: "https://thehill.com/policy/healthcare/535650-fauci-says-trump-pressured-him-to-be-more-positive-on-pandemic"
+    ampWebUrl: "https://thehill.com/policy/healthcare/535650-fauci-says-trump-pressured-him-to-be-more-positive-on-pandemic?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/535650-fauci-says-trump-pressured-him-to-be-more-positive-on-pandemic?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/faucianthony_trumpdonald_101220gn-getty_split_fauci.jpg"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "MFWnBS3Nyn9cQBDjCmSX65DJJ2xwtEfR5UUHKZzKkci7FgIsuyZxMXj3VY2u+OpLNqqhjd1CNhWsGtg43LBveM9Fmh5NdSP/9SfnwSAoXHLos8m5fzoJPf7CwzzZUeLPrcEQNhCLZ0O5kwdg8aBnVy7WQZCpujh3qd1u6/KWwj8I8zXYFtm5Vk0KmxscAngp8IikWWPdQni7pTgoxRZrrV2i1zv9oIxp/Ltr2p/A6MK86fJX8VzTjQJGPbmEE14QW2ETYsuqKLoIFvoYHQEXBV/uk21t1/xl06OLWqCoXmlLvcMkcLL+yYm3gforJlI7ykxbYVJrPcwaGax8cIyavHuAlywGEFSfClhu2bzkPnMhiP4Wf5Ghrrj37GMODqEbEDlS3b+6yqw8A5uO0crtnZI26Qi0BS/R3jSlmA5FRz7+BTXmKheii1lR5xRCb9H2NDnTVLfcFZeP85YFGsfnuqTVROI6BuGkaBbVR032eNToVK4ahG1f8HPc78RIOksquEJu/EkY+ulzZo7cTfUWLg==;wpNk2p29B2RqLbRD/YyTow=="
 ---

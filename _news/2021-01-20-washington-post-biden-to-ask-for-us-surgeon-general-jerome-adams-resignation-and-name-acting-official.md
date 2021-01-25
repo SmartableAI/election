@@ -111,6 +111,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's next fight on the left"
+    excerpt: "President Joe Biden’s new administration has won tons of points on the left for most of its financial services nominees, from Treasury to the CFPB. But the White House has a bit of a fight on its hands with University of Michigan’s Michael Barr,"
+    publishedDateTime: 2021-01-25T13:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-money/2021/01/25/bidens-next-fight-on-the-left-792955"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "AIlAxWT5WB1Gq8abxT2NdpQd6LTgIHyfe5l+MMPmigP3NTjjfDE73iYPbD5ZmN25dX+QD3l9MC4YCWAk9jkelyFmYl7gPTNdFKSWF7tu84eQrqVrn16Em+mhlK2bouL1prfqRRnp5jWuKUbU/SNQ/wrRboWP4x5orMzQ8Gup8d+2DR3HjIKZOfV5b/l8fLiHRFyMIeEVdECZ/NV2I9dXdKBMziwoghaSvlJ5McF0m34TrrhYisBFxD1/SXM7IREZZJhPmgdmybT3KeziTa9yjcikGoQ8LlrAxWBT/aeyxuDbD99JuYFgtyvqpi0rIBPERIU678fzn9sPXgVet12CelFHDyq1vLkFJclxG3gA5wU=;tjmA4q21ZPt1dTJkscWM7A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/very-disappointing-biden-immediatel
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/very-disappointing-biden-immediately-reverse-travel-restrictions-chad-wolf.amp"
 type: article
 quality: 171
-heat: 171
+heat: 191
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Justin Trudeau ‘disappointed’ in Biden's decision to cancel Keystone XL pipeline"
+    excerpt: "Canadian Prime Minister Justin Trudeau on Wednesday said his administration was “disappointed” with President Joe Biden’s decision to revoke the permit for construction on the Keystone XL oil pipeline."
+    publishedDateTime: 2021-01-21T00:42:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VxHQLhjbBLg/justin-trudeau-disappointed-biden-cancel-keystone-xl-pipeline"
+    ampWebUrl: "https://www.foxnews.com/politics/justin-trudeau-disappointed-biden-cancel-keystone-xl-pipeline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/justin-trudeau-disappointed-biden-cancel-keystone-xl-pipeline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21019637126032.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "+FIZOdUm7F2f86M8Y4/pNUGJOGsh3Pa6NGcW1orbrh6m6Ad2Q0nZU6dcjbBv+nfdyMPpakRC5XvaJdv7JMfLtcywvQChNYfFvMegsk3QgWtAKZjL+bSec4y5VXCKkbbAIJUjmWRTksQt/MruY8sv38sW2Q8XTT7iCH3FCxtYvdhi09O/EglGAtSnlO6acvO6yYYKxEVyYTmoCdpptRCUb3WF0lr9xjRu8ghJQBik/Zs4nd+BEiaSSJVV3wrYXV4w6WX333Md+dpdw+L1XLAyRIwpmJ6kUXMTTOBLFUFqrNiHrEPvHWrJXU7lJP43TEfEm9snZqbgRFWBp80VvewbpSLKNsKpkVQgP23k8a2KI5U=;+pjWc2Ww6vidqP0vTHQ/4Q=="
 ---

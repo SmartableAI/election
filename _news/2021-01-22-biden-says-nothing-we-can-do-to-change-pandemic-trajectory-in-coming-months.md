@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-nothing-we-can-do-to-change-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nothing-we-can-do-to-change-coronavirus-pandemic-trajectory-in-coming-months.amp"
 type: article
 quality: 171
-heat: 211
+heat: 191
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 167
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbbb4448-7269-4978-8efc-90bb155801cf/b7d0f268-1824-4f6f-9047-a126c13f1ea6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Crenshaw blasts Biden admin, claims they don't like 'anything the American working class might actually want'"
-    excerpt: "President Biden's executive orders about the economy prove that his administration is \"going to keep talking about unity but they don't want to unify behind anything the American working class might actually want,\" Rep. Dan Crenshaw, R-Texas, told \"Fox News Primetime\" Friday."
-    publishedDateTime: 2021-01-23T01:21:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TqFlSYTl6PY/crenshaw-biden-keystone-pipeline-working-class-minimum-wage"
-    ampWebUrl: "https://www.foxnews.com/politics/crenshaw-biden-keystone-pipeline-working-class-minimum-wage.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/crenshaw-biden-keystone-pipeline-working-class-minimum-wage.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/563453d0-4e6b-4439-82d0-a1204396f562/e8155a1b-6a2e-4af7-be08-a49bcfa413ba/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

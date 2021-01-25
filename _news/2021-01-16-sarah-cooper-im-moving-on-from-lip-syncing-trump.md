@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/sarah-cooper-im-moving-on-from-lip-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/sarah-cooper-im-moving-on-from-lip-syncing-trump/"
 type: article
 quality: 125
-heat: 245
+heat: 225
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Rapper Lil Wayne in line for last-day pardon from Donald Trump"
-    excerpt: "But sources say neither Rudy Giuliani, Steve Bannon or president himself are on the list"
-    publishedDateTime: 2021-01-19T16:21:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/19/rapper-lil-wayne-in-line-for-last-day-pardon-from-donald-trump"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/19/rapper-lil-wayne-in-line-for-last-day-pardon-from-donald-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/19/rapper-lil-wayne-in-line-for-last-day-pardon-from-donald-trump"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/514cd1fba41953b40d7523832677d90f723c0f34/0_169_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ade1302a8e80dffdc30362492c7872da"
-        width: 600
-        height: 360
         isCached: true
   - title: "Running on empty: Senate Republicans ponder barring Donald Trump from seeking office again"
     excerpt: "The impeachment trial of Donald Trump isn't about removing him from the presidency – it's about preventing him from running for president again."

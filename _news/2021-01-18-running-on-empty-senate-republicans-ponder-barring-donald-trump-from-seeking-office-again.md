@@ -63,22 +63,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Rapper Lil Wayne in line for last-day pardon from Donald Trump"
-    excerpt: "But sources say neither Rudy Giuliani, Steve Bannon or president himself are on the list"
-    publishedDateTime: 2021-01-19T16:21:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/19/rapper-lil-wayne-in-line-for-last-day-pardon-from-donald-trump"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/19/rapper-lil-wayne-in-line-for-last-day-pardon-from-donald-trump"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/19/rapper-lil-wayne-in-line-for-last-day-pardon-from-donald-trump"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/514cd1fba41953b40d7523832677d90f723c0f34/0_169_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ade1302a8e80dffdc30362492c7872da"
-        width: 600
-        height: 360
-        isCached: true
   - title: "EXPLAINER: Can social media companies boot Trump? Yes"
     excerpt: "Social media companies decided this past week they had finally seen enough from President Donald Trump."
     publishedDateTime: 2021-01-11T08:26:00Z

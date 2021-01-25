@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memorial/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116204718-capitol-fence-jan-15-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden's next fight on the left"
+    excerpt: "President Joe Biden’s new administration has won tons of points on the left for most of its financial services nominees, from Treasury to the CFPB. But the White House has a bit of a fight on its hands with University of Michigan’s Michael Barr,"
+    publishedDateTime: 2021-01-25T13:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-money/2021/01/25/bidens-next-fight-on-the-left-792955"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "s1IQ3ijWGefAwscKLBMcKiMbAlzAxZBYva8J8WEAWNUueiWfWiEVsPqH3f4DSaOKN4yIggAeHp2Wu+Vb+cR3dYrLLbuugWGQ59uTJBeAVy2nJ2zqaD4acVZvlv1Anbr/RKDkoVNaHI2ok8g7HtGUB8XeEkEyefMxQkssvhGOjNzGun9frtFb1cIpCxt9NhWQ3asMRGLBi8/j6lvHUvUc5oHi2PbRVejnfHzSEFjLAhjVXQd8YTx2tplAAPeiZSEpIV4eQzg2REokZxFNxb6ZYqv8udAWWyfWFWuFBUfjNdZQfwVirceP1yo8+UjADikkAPsBjmpHWRqsKdF7Yp6ExiWRc21bhiF35scLir6D+hY=;JoHqzms39kq3MX2YgCsE3g=="

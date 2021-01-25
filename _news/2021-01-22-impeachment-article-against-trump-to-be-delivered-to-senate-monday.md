@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump impeachment article being sent to Senate Monday, triggering trial to start in earnest next month"
+    excerpt: "Just before 7 p.m. on Monday, the House of Representatives' impeachment managers will march an article accusing former President Trump of inciting an insurrection across to the Senate side of the Capitol, officially triggering a trial of the former president that could result in him being barred from"
+    publishedDateTime: 2021-01-25T14:46:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fW9OfGOn-VE/trump-impeachment-article-being-sent-to-senate-today-to-kick-off-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-article-being-sent-to-senate-today-to-kick-off-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-article-being-sent-to-senate-today-to-kick-off-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump may issue 50 to 100 commutations, pardons before term ends; rapper Lil Wayne expected to be on list"
     excerpt: "President Trump is expected to issue between 50 and 100 commutations and pardons before he leaves office this week, two sources familiar with the list told Fox News."
     publishedDateTime: 2021-01-18T14:26:43Z
@@ -63,6 +79,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Democrat Prospects of Convicting Trump in Senate Fade Away"
+    excerpt: "As the House prepares to bring the impeachment charge against Donald Trump to the Senate for trial, a growing number of Republican"
+    publishedDateTime: 2021-01-25T13:45:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/25/democrat_prospects_of_convicting_trump_in_senate_fade_away_145115.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/25/democrat_prospects_of_convicting_trump_in_senate_fade_away_145115.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/25/democrat_prospects_of_convicting_trump_in_senate_fade_away_145115.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/533287_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "FQEmYVcYPHWdbHPngHfUnM0VuIt5N9IeRtxmL/O+1QreO4FwNJgxtBHYdsDrbz8TZ/vISURrE3hxGTuARyeSVyFdMi9lqaAEvAX5qbos1aqT9Y8BKpu3sV90VEWmUPU636xVAfqlpH+fgEIBqDR4cgWFO//+HiU5M5JsNkxSdEF7xABf/ixS6Brn0XjYSZ/FpU37e5X4hamvME1/7JuuS1dWJNx+/TOEyZpFTpaeJJJULXIvTKbHzf4eW7IYp7Qlp6tYFktjYmciXQUBJUJgXKSqRVpNKc/LSosRzNrKNwQJ0NAsYpM0UYsS/rtaaI3w5nWJj9T3bE7pYKf+Y8udzx9viujaOFFkg17OhAs55o0=;2maDzpI41ZUv0EjxtZYPCQ=="

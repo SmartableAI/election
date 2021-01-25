@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/local/social-issues/census-battle-end
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html?outputType=amp"
 type: article
 quality: 112
-heat: 252
+heat: 232
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://i.insider.com/5fff2702a8de7700187d3a0c?width=1200&format=jpeg"
         width: 921
         height: 460
-        isCached: true
-  - title: "Democrats have these 7 last-minute Trump administration regulations in their sights to overturn now that they control the Senate"
-    excerpt: "Senate Democrats are eyeing the Congressional Review Act as a way to obliterate federal regulations from the Trump administration."
-    publishedDateTime: 2021-01-21T13:41:00Z
-    webUrl: "https://www.businessinsider.com/biden-congressional-review-act-senate-democrats-trump-regulations-rules-2021-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
-    images:
-      - url: "https://i.insider.com/5fa9bbdff7d1cb0019e3aab7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Snapchat Permanently Bans Donald Trump For Spreading Misinformation, Inciting Violence"
     excerpt: "Snapchat has permanently banned Donald Trump from its platform after assessing what could happen if he were to continue spreading misinformation and inciting violence online."

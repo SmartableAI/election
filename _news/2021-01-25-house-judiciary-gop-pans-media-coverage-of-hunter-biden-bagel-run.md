@@ -349,6 +349,22 @@ related:
         width: 750
         height: 499
         isCached: true
+  - title: "McConnell's Choice; Biden in the Middle; Clinesmith Evidence"
+    excerpt: "Jan. 25, 2021. Globally, the number of COVID-19 infections is closing in on 100 million documented cases. In more than 2.1 million"
+    publishedDateTime: 2021-01-25T13:17:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/25/mcconnells_choice_biden_in_the_middle_clinesmith_evidence_145114.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/25/mcconnells_choice_biden_in_the_middle_clinesmith_evidence_145114.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/25/mcconnells_choice_biden_in_the_middle_clinesmith_evidence_145114.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
 
 secured: "AeNdDM7gvf9CziiHqHWaGFbLl+zZnebxhFaVsnAH4nw658QQgzrfH2u3U4PrEoym9ZpJ14au6CQ/YAfPFExL1PTmrtvwJt4V7Ry43yq9kdmnOmoGdF11OzIo+SlTQ8UShfu4nzMD7DYSrh3BqQfI00UBuLiDMd9Pxabc3b9PVLqYmBiVdy1oJopLNlP/DPp2L4TNYKo6BDmhNGYTSktBDhU/E3eFqIGBXVhAG3DFj1bm5znFp1R9xB6EHnTn5IPR0OXx5FqBKqM/X/j9qORnL/6nfuW11mcqPOIAw8cgs9VmqpPky241Z9bGmLsJM9GlGBvhjcWhRB2SYq6veFUBAh4UjbpzlKwA2UQQO3Ucqe0=;66FsfwrQ2dBcHMtsj0+qtg=="
 ---

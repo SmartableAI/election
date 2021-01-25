@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1623
         isCached: true
+  - title: "Trump made 30,573 false or misleading claims as president. Nearly half came in his final year."
+    excerpt: "The Washington Post Fact Checker’s database of Trump claims, originally launched as a project to track his first 100 days, offers a window into his obsessions."
+    publishedDateTime: 2021-01-24T04:35:00Z
+    webUrl: "https://www.washingtonpost.com/politics/how-fact-checker-tracked-trump-claims/2021/01/23/ad04b69a-5c1d-11eb-a976-bad6431e03e2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/how-fact-checker-tracked-trump-claims/2021/01/23/ad04b69a-5c1d-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/how-fact-checker-tracked-trump-claims/2021/01/23/ad04b69a-5c1d-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UMKPWNCU54I6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "64YI6l3HZnBRRJTtfYh/B1P6xPFoeKIS4jqNk9K5sKKvG9/YMowU2AoKDSY4zVrpH3m9gQgTMRsm2KC2ZPHKS80BDwhWPZTWZPZ+DQadX902vhcINFWqMmqsmnBzpzSSdygde59lX7gWPPtIX9EZQdEBg1n/7bHHVQhHKYFkKzE8N2OIC/qlehJnzBKRyfQTXnHm3RIz1A24fG51iUv+X9dLhgXnzg7I2Fh/h2/t/N1/d6PdxPGtYvXYd1bRYEStGxqM8Jju+gqnxSMrPG3xwPNWyUru1JMeAih8D/plFvQCg4ocmmCkaQU6vLDkl3tdzaP3aqJC0xXFMvo8fnBcKhLKgBJMM8+FMkmQUHfn+R0=;+PFBOTHr6Wi/49kZdIjXcA=="
 ---

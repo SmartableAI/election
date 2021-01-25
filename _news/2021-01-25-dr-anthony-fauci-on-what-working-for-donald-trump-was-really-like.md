@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-cor
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fauci says Trump pressured him to be 'more positive' on pandemic"
+    excerpt: "Anthony Fauci told The New York Times that former President Trump pressured him to offer more sunny projections about the trajectory of the coronavirus pandemic. “There were a couple of times where I would make a statement that was a pessimistic viewpoint about what direction we were going,"
+    publishedDateTime: 2021-01-25T14:27:00Z
+    webUrl: "https://thehill.com/policy/healthcare/535650-fauci-says-trump-pressured-him-to-be-more-positive-on-pandemic"
+    ampWebUrl: "https://thehill.com/policy/healthcare/535650-fauci-says-trump-pressured-him-to-be-more-positive-on-pandemic?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/535650-fauci-says-trump-pressured-him-to-be-more-positive-on-pandemic?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/faucianthony_trumpdonald_101220gn-getty_split_fauci.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Ex-Trump Spokeswoman Sanders Running for Arkansas Governor"
     excerpt: "(AP) — Sarah Sanders, Donald Trump’s former chief spokeswoman and one of his closest aides, is running for Arkansas governor, a senior campaign official told The Associated Press. Sanders, who left the White House in 2019 to return to her home state,"
     publishedDateTime: 2021-01-25T12:21:00Z

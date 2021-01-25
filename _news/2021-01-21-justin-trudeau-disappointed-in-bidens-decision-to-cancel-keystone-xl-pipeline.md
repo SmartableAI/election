@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden’s reported plans to kill Keystone XL pipeline alarm Canadian officials"
-    excerpt: "President-elect Joe Biden is considering canceling the cross-border permit for TC energy’s Keystone XL pipeline -- and Canadian officials are worried."
-    publishedDateTime: 2021-01-18T18:37:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DHFEoqMu9PM/bidens-reported-plans-to-kill-keystone-xl-pipeline-alarm-canadian-officials"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-reported-plans-to-kill-keystone-xl-pipeline-alarm-canadian-officials.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-reported-plans-to-kill-keystone-xl-pipeline-alarm-canadian-officials.amp"
+  - title: "Biden reversing travel ban for Muslim countries ‘very disappointing’: Chad Wolf"
+    excerpt: "Former Acting Homeland Security Secretary Chad Wolf argued on Wednesday that President Biden’s intention to revoke Donald Trump's travel bans for majority-Muslim countries is \"going to make the American people less safe.\""
+    publishedDateTime: 2021-01-20T20:58:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/m0P_qb4MKb8/very-disappointing-biden-immediately-reverse-travel-restrictions-chad-wolf"
+    ampWebUrl: "https://www.foxnews.com/politics/very-disappointing-biden-immediately-reverse-travel-restrictions-chad-wolf.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/very-disappointing-biden-immediately-reverse-travel-restrictions-chad-wolf.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/59f8939c-5b5b-429e-9f68-1a8096673bf2/c0e88d35-1fd5-41f4-bbd2-d402160fab0c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden putting 'Saudi Arabia first' by halting Keystone XL pipeline: Sen. Daines"
-    excerpt: "Sen. Steve Daines, R-Mont., believes President Biden killing the Keystone XL pipeline shows he’s putting \"Saudi Arabia first,\" not American workers."
-    publishedDateTime: 2021-01-22T16:01:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/y3rY_Xz43Yk/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8739bad5-122d-4973-b234-ee256eb316c7/b9584c73-a26d-4377-b028-e14ccdfaba67/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "pkTQCEem0HRbN2iSE0LsUkqbiokVMMZbvf5vf5h8bFjHkzcD1sWRDiI2IYoArXb3CM9OM0ugp8YUm5lWjcNOwbvRJGiIrMuev7xuPq3rbmnTMTznkM2oFlDjYUgY8L1Zcb8WuiFjiMA3jgorPkCvx4lhi4ZUa+HV0l7znlZM8acSQRMJVTSTl8xAGzNFK+cQaUEy1UeK9MhSGz6nZuoDHA3na/dKwz4FMbXt4DN1YAtU3p/mKwQrt9AAJ+EvZyRLSZ3zL8ufk30+lLilY/kF8Qk/eUVnajIRCbTPil2Ww7gVO+wZdQ/NFWZN6sDt6MmXcx4ifkxDJ94Or+pAD9XtysyB8c+yrcC/7lUv/L+9ehM=;xZGlZcngsIbEJaUCDO/i9g=="

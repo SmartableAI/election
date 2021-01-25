@@ -47,22 +47,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Senate confirms Biden's Defense Secretary Lloyd Austin, the first Black Pentagon chief"
-    excerpt: "The Senate on Friday confirmed President Biden's Defense Secretary Lloyd Austin in a big bipartisan vote, marking the first time an African American will lead the Pentagon in U.S. history."
-    publishedDateTime: 2021-01-22T16:05:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pCPidpmWxyI/senate-confirms-bidens-defense-secretary-lloyd-austin-first-black-pentagon-chief"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-confirms-bidens-defense-secretary-lloyd-austin-first-black-pentagon-chief.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-confirms-bidens-defense-secretary-lloyd-austin-first-black-pentagon-chief.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Gen.-Lloyd-Austin-III.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Acting DHS secretary: We want to leave 'no stone unturned' in securing Biden inauguration"
     excerpt: "Acting Homeland Security Secretary Peter Gaynor told \"America Reports\" Monday that there is a \"heightened sense of alert\" surrounding the security preparations for Joe Biden's inauguration."
     publishedDateTime: 2021-01-18T21:57:08Z

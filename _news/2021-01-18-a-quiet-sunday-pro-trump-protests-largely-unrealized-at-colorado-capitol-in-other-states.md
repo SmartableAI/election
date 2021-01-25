@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4196764001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4196764001"
 type: article
 quality: 115
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Law enforcement officials brace for pro-Trump protests at state capitals"
+    excerpt: "Members of the State police arrive at the Michigan state Capitol in Lansing, Michigan. REUTERS/Rebecca Cook"
+    publishedDateTime: 2021-01-18T00:00:00Z
+    webUrl: "https://www.reuters.com/news/picture/law-enforcement-officials-brace-for-pro-idUSRTX8N0Y3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210117&t=2&i=1548135793&w=&fh=545&fw=810&ll=&pl=&sq=&r=2021-01-17T234213Z_38118_MRPRC2W9L9NEB41_RTRMADP_0_USA-TRUMP-PROTESTS"
+        width: 810
+        height: 540
+        isCached: true
   - title: "U.S. state capitals gird for pro-Trump armed protests, FBI flags risk of violence"
     excerpt: "Protesters are expected to descend on statehouses across the United States on Sunday in support of baseless claims that electoral fraud robbed President Donald Trump of a second term, as law enforcement officials girded for possible violence."
     publishedDateTime: 2021-01-17T13:43:00Z

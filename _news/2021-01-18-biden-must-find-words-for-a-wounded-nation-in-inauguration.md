@@ -1300,6 +1300,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Impeaching Trump as a former president a 'moot point,' Rounds says"
+    excerpt: "Sen. Mike Rounds, R-S.D., came out firmly against the upcoming Senate impeachment trial for former President Trump, stating that not only does it raise constitutional issues, but it impedes President Biden's administration."
+    publishedDateTime: 2021-01-25T13:17:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dbWKM65GUsA/trump-impeachment-former-president-moot-point-rounds"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-former-president-moot-point-rounds.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-former-president-moot-point-rounds.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1b0bf1a-86a1-4ca8-9894-9739ebb7d128/f2f33f2c-0474-4cef-bbc9-7303999d82d2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Press secretary reveals Biden's favorite ice cream flavor"
     excerpt: "White House Press Secretary Jen Psaki on Sunday answered a list of questions Twitter users had posted online. The questions ranged from important policy issues related to the ongoing COVID-19 pandemic, as well as the pressing matter of whether it was true the president kept a giant freezer full of ice"
     publishedDateTime: 2021-01-25T03:04:32Z

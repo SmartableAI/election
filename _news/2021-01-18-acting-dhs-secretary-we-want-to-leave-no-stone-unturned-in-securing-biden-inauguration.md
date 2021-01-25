@@ -63,22 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Senate confirms Biden's Defense Secretary Lloyd Austin, the first Black Pentagon chief"
-    excerpt: "The Senate on Friday confirmed President Biden's Defense Secretary Lloyd Austin in a big bipartisan vote, marking the first time an African American will lead the Pentagon in U.S. history."
-    publishedDateTime: 2021-01-22T16:05:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pCPidpmWxyI/senate-confirms-bidens-defense-secretary-lloyd-austin-first-black-pentagon-chief"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-confirms-bidens-defense-secretary-lloyd-austin-first-black-pentagon-chief.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-confirms-bidens-defense-secretary-lloyd-austin-first-black-pentagon-chief.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Gen.-Lloyd-Austin-III.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Biden Cabinet nominee hired convicted domestic abuser who punched woman for refusing sex"
     excerpt: "Boston Mayor Martin Walsh, the nominee to be President Joe Biden's Labor Secretary, briefly hired former Massachusetts state representative Carlos Henriquez to be a special assistant in 2018, despite Henriquez's conviction years earlier for assaulting a woman who refused to have sex with him. "
     publishedDateTime: 2021-01-23T22:37:46Z

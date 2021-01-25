@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3250
+heat: 3270
 published: true
 
 provider:
@@ -1630,6 +1630,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/01/21/us/politics/21dc-biden-covid1/21dc-biden-covid1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "The latest on the Biden presidency and Trump impeachment trial"
+    excerpt: "President Joe Biden forges ahead with his new administration as former President Trump's impeachment trial looms. Follow here for the updates."
+    publishedDateTime: 2021-01-25T14:10:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/biden-presidency-trump-impeachment-1-25-21/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/biden-presidency-trump-impeachment-1-25-21/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/biden-presidency-trump-impeachment-1-25-21/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125034244-joe-biden-0121-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Arizona governor becomes latest Trump target after certifying Biden's win"
     excerpt: "Arizona Gov. Doug Ducey, a Republican and close ally of President Donald Trump throughout the 2020 election, found himself in the president's Twitter crosshairs on Monday when he signed off on the state's election certification."

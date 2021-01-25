@@ -43,6 +43,54 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "MyPillow Guy among the Trump acolytes picking up the torch"
+    excerpt: "Mike Lindell, the businessman better known to the world as the MyPillow Guy, is weighing a run for governor in Minnesota"
+    publishedDateTime: 2021-01-23T14:47:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444177"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1aeb02288805488587306b003a97079d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "MyPillow Guy among the Trump acolytes picking up the torch"
+    excerpt: "Mike Lindell, the businessman better known to the world as the MyPillow Guy, is weighing a run for governor in Minnesota"
+    publishedDateTime: 2021-01-23T17:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444118"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444118"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mypillow-guy-trump-acolytes-picking-torch-75444118"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/General/my-pillow-guy-mike-lindell-donald-trump-01-gty-llr-210123_1611431001386_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "City council seeks input on bill condemning Trump for riot"
+    excerpt: "A city council in Maryland is seeking public input on a resolution that condemns former President Donald Trump for the violent siege of the U.S. Capitol"
+    publishedDateTime: 2021-01-25T14:53:00Z
+    webUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/city-council-seeks-input-on-bill-condemning-trump-for-riot/2021/01/25/360fa520-5f1c-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Small group of Pro-Trump protesters, some armed, quietly gather in Carson City near capitol"
     excerpt: "A small group of protesters have gathered in Carson City near the Nevada state Capitol. Check back here for live updates throughout the day."
     publishedDateTime: 2021-01-16T22:27:00Z
@@ -59,19 +107,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Arizona Republicans Censure Party Leaders At Odds With Trump"
-    excerpt: "State GOP members passed resolutions at a meeting on Saturday to condemn three party leaders who they said failed to support President Trump: Gov. Doug Ducey, former Sen. Jeff Flake and Cindy McCain."
-    publishedDateTime: 2021-01-24T03:10:00Z
-    webUrl: "https://www.npr.org/2021/01/23/959974795/arizona-republicans-censure-party-leaders-at-odds-with-trump"
+  - title: "Senate To Begin Trump's Impeachment Trial Week Of Feb. 8"
+    excerpt: "The House of Representatives, which already voted to impeach Trump, plans to transmit the article on Monday evening."
+    publishedDateTime: 2021-01-23T00:26:00Z
+    webUrl: "https://www.npr.org/2021/01/22/959606259/house-to-transmit-article-of-impeachment-to-senate-on-monday-schumer-says"
     type: article
     provider:
       name: NPR
       domain: npr.org
     quality: 105
     images:
-      - url: "https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final_sq-ecdd1508be24f14c6b6ee98e6627cbf2be192ea6-s800-c15.jpg"
-        width: 800
-        height: 800
+      - url: "https://media.npr.org/assets/img/2021/01/22/ap_21022693843011_wide-0e5bb741df25be58f1a1f4f42485b4ee36c379b3.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
 
 secured: "x6BtZWpFoyhHvIOJ/0STXA4c4R21875/IGV4Z06+XadNkwobzL2NWHd9UaU+D1KiLuCViKDCzIYfdR9l+puSDCRR/1S7YHvvCMvOeA0bZ6H/ZZ63F4VW3Z5doNRoxkAot3TY4co2ILUE6CBP/CZnL82PP6dG+CeB5GXnBnIPsGC5YXWo7Knh3TxXXVRFkSDRWheNZoJAlwEuVoZw6BymeiXFpX50kc+OEUsJSxkCrRvW2C0u/ZYcBguc5ZBfa5rv14N6O0Gszey/Euh3X1GT7riWShQNrY3cZPLN14lZJ8LpFCZCOhdm2rGvoefuDQwsK67Hi/xNYYdiJbiSiggYSK6JossqDZdFWj7nRSjBTbs=;6i2mcEOf/reYPNSzVg3/GQ=="

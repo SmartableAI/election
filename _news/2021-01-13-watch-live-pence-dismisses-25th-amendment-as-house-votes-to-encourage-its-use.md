@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/25th-amendment-house-debate-pence-w
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/"
 type: article
 quality: 121
-heat: 161
+heat: 181
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/64d47162f90c72a330067862d69b78b0483c7289/0_0_5184_3456/master/5184.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=51a8f614b8d1e931fcb07abf23aa82af"
         width: 600
         height: 400
+        isCached: true
+  - title: "Mike Pence Gives House Republicans Cover to Vote Against 25th Amendment, Impeachment"
+    excerpt: "Several Republican members of the House cited Vice President Mike Pence in explaining their decision to oppose invoking the 25th Amendment and impeaching President Donald Trump. The Democrat-led House voted on Tuesday to urge Pence to use the amendment and strip Trump of his power,"
+    publishedDateTime: 2021-01-13T10:22:00Z
+    webUrl: "https://www.newsweek.com/pence-house-republicans-25th-amendment-impeachment-vote-1561089"
+    ampWebUrl: "https://www.newsweek.com/pence-house-republicans-25th-amendment-impeachment-vote-1561089?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pence-house-republicans-25th-amendment-impeachment-vote-1561089?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1705269/vice-president-mike-pence-january-6.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "qEvOnSQKZpBAuyKfJ2TF4nnvwjvIjHC23ROhIX18aWTupalg1wpni7Pg+CIQ9ExRkuDPPqGRBeakesKP8jwvH95FWc7V2qaG4reI7TJU4wgkUlFnULaMFNdpR1v8GdtRBZH1BXo4mfvCFntsgoSHj/HMwTHTeC8tD3cW+5H6/B+exUugDYNLc2EzpeHD7qpQhVeYYzV1WPlrijM23V2SypF3m1Pi59aEfsWuUxI4frooTw5RX7DWxiReiYd14lyG1iUCqqO/h0AZjoc6VvRWWVNT1KP4oWqStUujcGul8ZY9XYmi4WLh+FNWt6gs/t9QlxHbGyC7W1hgaYC+aMy2i/3W86BDxOtlBU5ktUUjK/g=;aSO5Kq3M+SjN2J3RvgGsJg=="

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Wall Street Journal: Trump pressured DOJ to file case with Supreme Court to overturn election results"
+    excerpt: "Former President Donald Trump pushed the Department of Justice to directly ask the Supreme Court to invalidate President Joe Biden's election win, people familiar with the matter told the Wall Street Journal."
+    publishedDateTime: 2021-01-25T08:05:00Z
+    webUrl: "https://www.cnn.com/2021/01/23/politics/trump-department-of-justice-supreme-court-election-results/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/23/politics/trump-department-of-justice-supreme-court-election-results/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/23/politics/trump-department-of-justice-supreme-court-election-results/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119161957-01-trump-farewell-video-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "6FHFTKHc4IuvPiGhCgtzpG2hqYO9B03y6EQRGfRjKESTv04vdPi+0JPok+/goITSii04D/b6U+i7L5KeptOJUn9w88bZWcE1whuuMnfQ0BIyQWJHhqUHQAF67Nliin4VdBUpeYS3arzNr7yISvcj1ZqNcJgTfSb20LIBdU4t1c8vCjFHCXrKbgvzMDAWavKbtUwvXCy55GDQu2evAnRbkQn8Hf7c9j+VYqEvLhFZkna9+FN1YsYcdIBGDEojB9WWm998H3FpRGXDZM43rXpzgMQ3+UMVFevkDqUrRAZh0iUwOD4pjqSgN3amy7ZkutTqgZwF2ui9eB+5AhUBZXdqSDiIx6rxovoF7sCQ/FhqAAw=;VyCyqvujdQsfv1IJO6GkyQ=="
 ---

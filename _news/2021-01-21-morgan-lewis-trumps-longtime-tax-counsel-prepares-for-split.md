@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JW050"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JW050"
 type: article
 quality: 105
-heat: 105
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -23,6 +23,54 @@ provider:
 topics:
   - Election
   - Donald Trump
+
+related:
+  - title: "Top Iran leader posts Trump-like image with drone, vows revenge"
+    excerpt: "The website of Iran's Supreme Leader on Friday carried the image of a golfer resembling former President Donald Trump apparently being targeted by a drone alongside a threat of revenge over last year's killing of a top Iranian general in a U."
+    publishedDateTime: 2021-01-23T13:13:00Z
+    webUrl: "https://www.reuters.com/article/us-iran-twitter-khamenei-fake-idINKBN29R1YU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29R1YU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R1YU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210123&t=2&i=1548797338&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1C2"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Melania Trump leaves Donald Trump alone in front of the cameras – video"
+    excerpt: "Former first lady left Donald Trump alone in front of the cameras at Palm Beach airport after the couple left the White House ahead of Joe Biden's inauguration"
+    publishedDateTime: 2021-01-23T10:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/23/melania-trump-leaves-donald-trump-alone-in-front-of-the-cameras-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/13ed5203f77124a21f8ff6fb41659c1b30762c44/30_76_1673_1004/master/1673.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a04315508afc531e643ca3e642bb5c0"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Twitter Reacts To Melania Trump Leaving Donald Trump Alone In Front Of Cameras"
+    excerpt: "Melania Trump left her husband, Donald Trump, alone in front of the cameras after their departure from the White House Wednesday. But some Twitter users said her husband pushed her to walk ahead."
+    publishedDateTime: 2021-01-24T10:06:00Z
+    webUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165"
+    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "WIK+XrMJZS5fJ446m0nBHwTN7iZoUSfhOfhcLqSuw4ePmfiJNT3uH4S8ZPw9jY7WknhvYAYr4GpUsKvY2+9IM0elPS1anQiw6AiXhNhOcoZsRjXhA1laMxU4AXAWUNeO5IrVP+63Xp3qngNHR6CjVGRnhjLXatBKlRLccsfKTpJyf6VWEYJgH6YU1kU2PkMS+bzRdQzU3sUEr2jYGEbCQM/f3nYlS2+RjGv10kobn6kWimczxaFSZ1PNule26dqFMgtf2SHdNTkfbW70PzVDVpxLiVdgxDe6dkGMS8QH7T04Usx3ULLbC627o5p+SHNfpryoV/oo5kiZ6fKguIzgRX+VhGBtxx/RY0vR4x/6rEU=;fJj8R1EJhCqmUk4KB/uoKw=="
 ---

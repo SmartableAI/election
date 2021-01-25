@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Law enforcement officials brace for pro-Trump protests at state capitals"
+    excerpt: "Members of the State police arrive at the Michigan state Capitol in Lansing, Michigan. REUTERS/Rebecca Cook"
+    publishedDateTime: 2021-01-18T00:00:00Z
+    webUrl: "https://www.reuters.com/news/picture/law-enforcement-officials-brace-for-pro-idUSRTX8N0Y3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210117&t=2&i=1548135793&w=&fh=545&fw=810&ll=&pl=&sq=&r=2021-01-17T234213Z_38118_MRPRC2W9L9NEB41_RTRMADP_0_USA-TRUMP-PROTESTS"
+        width: 810
+        height: 540
+        isCached: true
 
 secured: "OuVJxF8SMQmFvrMUH9tbkUXGd1wFfJuJp9kBS7zw0e28d3L8pva2xwZ9c2RzmhhXU2Gzdc9EUyKYjWTO9qX54I8x5K/JiuC4HleLgf90iUJzU+P+ZqsKtqLfpknQAQbFGXiq6qJknZbhwbyHAjiUaNJzrqkHfuejrXvURxjJ0d/cHkzlbZkGgRWz1gwj54FT1Hlaw9I/EKwFP84tqXyY/XF0u1vIVa/A8/hnQsyOJDI87tmzLY6xsUG/BTipPM3d5rRvd4TDQ7wdBl1CiUjB1VeNnTjJgAd5RU5hEhIAr+0h4YqBHxigS6tW+lyqbLQqG6Y6SVa1mT8DymWuJQGuBcHmn29kv2/rGyxbBhgFNaQ=;84gv0BadWGoCaPU1VpnEpg=="
 ---

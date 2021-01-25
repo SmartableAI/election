@@ -89,20 +89,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Democrats have these 7 last-minute Trump administration regulations in their sights to overturn now that they control the Senate"
-    excerpt: "Senate Democrats are eyeing the Congressional Review Act as a way to obliterate federal regulations from the Trump administration."
-    publishedDateTime: 2021-01-21T13:41:00Z
-    webUrl: "https://www.businessinsider.com/biden-congressional-review-act-senate-democrats-trump-regulations-rules-2021-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
-    images:
-      - url: "https://i.insider.com/5fa9bbdff7d1cb0019e3aab7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Snapchat Permanently Bans Donald Trump For Spreading Misinformation, Inciting Violence"
     excerpt: "Snapchat has permanently banned Donald Trump from its platform after assessing what could happen if he were to continue spreading misinformation and inciting violence online."
     publishedDateTime: 2021-01-14T02:36:00Z

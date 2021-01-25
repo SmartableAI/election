@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T01R"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T01R"
 type: article
 quality: 134
-heat: 514
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,101 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Republican congressman played a role in Trump's campaign to fight election loss: NYT"
-    excerpt: "A Republican U.S. congressman played a role in ex-President Donald Trump's efforts to oust the top Justice Department official and replace him with a loyalist willing to support efforts to overturn his election defeat,"
-    publishedDateTime: 2021-01-24T19:46:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-justice-idUSKBN29T0FS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T0FS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T0FS"
+  - title: "Trump lawyer Giuliani faces Dominion lawsuit for 'big lie' election fraud claims"
+    excerpt: "A U.S. voting machine company sued former President Donald Trump's lawyer Rudy Giuliani, accusing him of defamation in what it called his \"big lie\" campaign about widespread fraud in the presidential election,"
+    publishedDateTime: 2021-01-25T13:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-dominion/trump-lawyer-giuliani-faces-dominion-lawsuit-for-big-lie-election-fraud-claims-idUSKBN29U1CD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U1CD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U1CD"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 133
+    quality: 135
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548877639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N093"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548977774&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O0SY"
         width: 817
         height: 545
         isCached: true
-  - title: "Trump returns to a business empire ravaged by pandemic"
-    excerpt: "Donald Trump is returning to a family business ravaged by pandemic shutdowns, with revenue plunging more than 40 percent at his Doral golf property, his Washington hotel and both his Scottish resorts"
-    publishedDateTime: 2021-01-22T03:21:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407075"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407075"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407075"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_53d43a22043a40ef874c8eb064a0a328_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "In Senate deal, Trump impeachment trial put off until early February"
-    excerpt: "The leaders of the U.S. Senate agreed on Friday to push back former President Donald Trump's impeachment trial by two weeks, giving the chamber more time to focus on President Joe Biden's legislative agenda and Cabinet nominees before turning to the contentious"
-    publishedDateTime: 2021-01-23T06:08:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-impeachment-idINKBN29R27D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29R27D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R27D"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548735957&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L17I"
-        width: 819
-        height: 545
-        isCached: true
-  - title: "Arizona Republicans reelect fervent Trump ally as chair"
-    excerpt: "Arizona Republicans on Saturday reelected Kelli Ward as party chair, giving a second term to one of Donald Trump’s most unflinching supporters even after the GOP lost ground in the state last year"
-    publishedDateTime: 2021-01-23T23:18:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Nightline/210123_ntl_politics_1239_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Chaos of Trump's last days in office reverberates with fresh 'plot' report"
-    excerpt: "Ex-president, whose Senate impeachment trial will start in two weeks, reportedly planned to oust acting attorney general in bid to overturn election"
-    publishedDateTime: 2021-01-23T13:28:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/23/trump-florida-white-house-washington-plot-report"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/23/trump-florida-white-house-washington-plot-report"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/23/trump-florida-white-house-washington-plot-report"
+  - title: "Rapper Lil Wayne in line for last-day pardon from Donald Trump"
+    excerpt: "But sources say neither Rudy Giuliani, Steve Bannon or president himself are on the list"
+    publishedDateTime: 2021-01-19T16:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/19/rapper-lil-wayne-in-line-for-last-day-pardon-from-donald-trump"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/19/rapper-lil-wayne-in-line-for-last-day-pardon-from-donald-trump"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/19/rapper-lil-wayne-in-line-for-last-day-pardon-from-donald-trump"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 123
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/6cc7a11350a4b08cff15732085b6cd0c07a383e8/0_188_2837_1703/master/2837.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0dc5bd61e9b0dc76199d6d0771b4bd07"
+      - url: "https://i.guim.co.uk/img/media/514cd1fba41953b40d7523832677d90f723c0f34/0_169_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ade1302a8e80dffdc30362492c7872da"
         width: 600
         height: 360
         isCached: true
-  - title: "Diverse team of U.S. House Democrats to lead Trump's second impeachment trial"
-    excerpt: "The nine Democratic lawmakers who will prosecute ex-President Donald Trump in his impeachment trial reflect America's racial, ethnic and sexual diversity, in stark contrast to the white nationalist imagery that marked the mob of Trump supporters who stormed the Capitol."
-    publishedDateTime: 2021-01-25T11:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-managers-idUSKBN29U13O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U13O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U13O"
+  - title: "Trump hires South Carolina lawyer Bowers for impeachment defense"
+    excerpt: "Former President Donald Trump has hired South Carolina-based lawyer Butch Bowers to represent him in his Senate impeachment trial over a charge that he incited insurrection, a source familiar with the matter said on Thursday."
+    publishedDateTime: 2021-01-22T04:19:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-trump-impeachment-bowers-idUKKBN29Q341"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29Q341"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29Q341"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548661969&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L06Z"
+        width: 436
+        height: 545
+        isCached: true
+  - title: "Capitol rioter claims he was 'duped' by Trump, lawyer says"
+    excerpt: "The attorney for Anthony Chansley, the so-called \"Qanon Shaman\" who made rounds on social media for his outlandish outfit during the Capitol riot, is blaming former President Trump for his client's involvement in the riot."
+    publishedDateTime: 2021-01-23T16:06:00Z
+    webUrl: "https://thehill.com/homenews/news/535526-capitol-rioter-claims-he-was-duped-by-trump-lawyer-says"
+    ampWebUrl: "https://thehill.com/homenews/news/535526-capitol-rioter-claims-he-was-duped-by-trump-lawyer-says?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/535526-capitol-rioter-claims-he-was-duped-by-trump-lawyer-says?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/horned_man_capitol_riots011221.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Rudy Giuliani: lawyers call for Trump's personal attorney to lose law licence"
+    excerpt: "Trump’s personal attorney, who led efforts to overturn election result, criticised for calling for ‘trial by combat’ before Capitol attack"
+    publishedDateTime: 2021-01-22T02:12:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/22/rudy-giuliani-lawyers-call-for-trumps-personal-attorney-to-lose-law-license"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/22/rudy-giuliani-lawyers-call-for-trumps-personal-attorney-to-lose-law-license"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/22/rudy-giuliani-lawyers-call-for-trumps-personal-attorney-to-lose-law-license"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 122
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548960735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O0OP"
-        width: 817
-        height: 545
+      - url: "https://i.guim.co.uk/img/media/1e47e094a50e86a0e9cd2647c35c49609d7f9c63/0_117_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5eabdd19459d124ea08d8bda5c093fb3"
+        width: 600
+        height: 360
         isCached: true
   - title: "Arizona GOP narrowly reelects Chairwoman Kelli Ward, a Trump loyalist who spread false election fraud claims"
     excerpt: "The closely watched result offers an early, state-level indication that Trump retains sway over the activist GOP base, though it is more tenuous."
@@ -159,113 +143,30 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Donald Trump Gives First Public Remarks Since Leaving Office as Impeachment Trial Delayed"
-    excerpt: "Former President Donald Trump gave nothing away about his future plans in his first public remarks since leaving the White House on Friday, as Senate leadership delayed his impeachment trial for two weeks."
-    publishedDateTime: 2021-01-23T23:51:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-gives-first-public-remarks-since-leaving-office-impeachment-trial-delayed-1563945"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-gives-first-public-remarks-since-leaving-office-impeachment-trial-delayed-1563945?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-gives-first-public-remarks-since-leaving-office-impeachment-trial-delayed-1563945?amp=1"
+  - title: "Trump's pardon largesse a boon for well-connected fraudsters"
+    excerpt: "A former congressman who pocketed millions of dollars in bribes from defense contractors. A Republican fundraiser who paid handsome sums to illicitly lobby a presidential administration. An influential voice in conservative circles accused of duping donors who supported a border wall."
+    publishedDateTime: 2021-01-21T12:11:00Z
+    webUrl: "https://www.businessinsider.com/trumps-pardon-largesse-a-boon-for-well-connected-fraudsters-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/trumps-pardon-largesse-a-boon-for-well-connected-fraudsters-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-pardon-largesse-a-boon-for-well-connected-fraudsters-2021-1?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
-    images:
-      - url: "https://d.newsweek.com/en/full/1714811/trump-arriving-florida-january-20.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "'Trumpocalypse' is over. Why the anti-Trump billboard in downtown Phoenix is coming down"
-    excerpt: "Trumpocalypse,' the anti-Donald Trump billboard in downtown Phoenix is being replaced. The controversial Grand Ave. billboard will feature new images"
-    publishedDateTime: 2021-01-24T15:07:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/arts/2021/01/24/donald-trump-billboard-downtown-phoenix/6665056002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6665056002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6665056002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/8748c6c4833f4d286dc7aab150adee2b64263865/c=0-173-4890-2936/local/-/media/2017/05/12/Phoenix/Phoenix/636302166299134058--20170319-Trump-billboard-0065.JPG?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
-  - title: "Trump jumps into a divisive battle over the Republican Party — with a threat to start a ‘MAGA Party’"
-    excerpt: "The former president, in his first political activity since leaving office, endorses an ally for Arizona party chair who backed his false claims of election fraud."
-    publishedDateTime: 2021-01-24T04:10:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-republican-split/2021/01/23/d7dc253e-5cbc-11eb-8bcf-3877871c819d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-republican-split/2021/01/23/d7dc253e-5cbc-11eb-8bcf-3877871c819d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-republican-split/2021/01/23/d7dc253e-5cbc-11eb-8bcf-3877871c819d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R4WSECC3KMI6XKCJN6KCHJ277U.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Justice Dept. watchdog to examine abrupt departure of Atlanta U.S. attorney whom Trump appeared to criticize"
-    excerpt: "Byung J. “BJay” Pak suddenly stepped down earlier this month as then-President Trump waged a pressure campaign on Georgia officials over the election."
-    publishedDateTime: 2021-01-22T02:53:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/trump-atlanta-us-attorney-inspector-general/2021/01/21/2cc24d1e-5c39-11eb-b8bd-ee36b1cd18bf_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/trump-atlanta-us-attorney-inspector-general/2021/01/21/2cc24d1e-5c39-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/trump-atlanta-us-attorney-inspector-general/2021/01/21/2cc24d1e-5c39-11eb-b8bd-ee36b1cd18bf_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 106
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UFERJ5SPQ4I6XPNEMFNK57IFKU.jpg&w=1440"
-        width: 1440
-        height: 992
-        isCached: true
-  - title: "Senate To Begin Trump's Impeachment Trial Week Of Feb. 8"
-    excerpt: "The House of Representatives, which already voted to impeach Trump, plans to transmit the article on Monday evening."
-    publishedDateTime: 2021-01-23T00:26:00Z
-    webUrl: "https://www.npr.org/2021/01/22/959606259/house-to-transmit-article-of-impeachment-to-senate-on-monday-schumer-says"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2021/01/22/ap_21022693843011_wide-0e5bb741df25be58f1a1f4f42485b4ee36c379b3.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "A McConnell-Backed Trump Conviction Is Just Fantasy"
-    excerpt: "Conviction in Trump’s impeachment trial was always a long shot. Now momentum is waning, as GOP senators aren’t onboard and McConnell won’t herd them."
-    publishedDateTime: 2021-01-21T18:57:00Z
-    webUrl: "https://nymag.com/intelligencer/article/mcconnell-trump-conviction-just-fantasy.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/article/mcconnell-trump-conviction-just-fantasy.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/mcconnell-trump-conviction-just-fantasy.html"
+  - title: "Trump clemency likely for Lil Wayne, no pardons for Giuliani or Bannon: sources"
+    excerpt: "U.S. President Donald Trump is likely to grant clemency to rapper Lil Wayne on Tuesday in a final wave of pardons and commutations that is not expected to include lawyer Rudy Giuliani or ex-aide Steve Bannon,"
+    publishedDateTime: 2021-01-19T08:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-pardons-idUSKBN29O085"
     type: article
     provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
+      name: Reuters
+      domain: reuters.com
+    quality: 101
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/dde/038/bd4c60c0dce402fd6be1a0dac9e2e8e396-Mitch-McConnell.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 632
-        isCached: true
-  - title: "Trump Mulled Replacing Attorney General Over Election Results: US Media"
-    excerpt: "Donald Trump considered replacing then-acting US attorney general Jeffrey A. Rosen with a Justice Department lawyer who would help him force Georgia officials to overturn the state's election result,"
-    publishedDateTime: 2021-01-23T07:44:00Z
-    webUrl: "https://www.ibtimes.com/trump-mulled-replacing-attorney-general-over-election-results-us-media-3128886"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/23/donald-trump-mulled-replacing-the-acting-us-attorney.jpg"
-        width: 1024
-        height: 760
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548260786&r=LYNXMPEH0I05A&w=800"
+        width: 800
+        height: 558
         isCached: true
   - title: "Dominion Voting Systems Sues Trump Lawyer Giuliani Over Election Claims"
     excerpt: "WASHINGTON (Reuters) - Dominion Voting Systems Inc has filed a lawsuit against former President Donald Trump's lawyer Rudy Giuliani, accusing him of defamation for making false claims of fraud about the November 2020 U."
@@ -278,43 +179,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
-  - title: "Facebook 'Supreme Court' To Judge Trump Suspension"
-    excerpt: "Facebook and Instagram suspended Trump after his supporters stormed the US Capitol on January 6, an attack on the seat of democracy that led to Trump's second impeachment. The leading social network is referring the decision to its independent oversight board -- known informally as the Facebook \"supreme court\" -- with the authority to make binding rulings even chief executive Mark Zuckerberg must abide by."
-    publishedDateTime: 2021-01-22T01:11:00Z
-    webUrl: "https://www.ibtimes.com/facebook-supreme-court-judge-trump-suspension-3127721"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/donald-trump-is-seen-addressing-supporters-flooding-the.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Trump Impeachment Article To Be Sent To Senate, Triggering Trial"
-    excerpt: "US House Speaker Nancy Pelosi is set to send the Senate a single article of impeachment Monday accusing Donald Trump of inciting the Capitol riot, formally triggering the first-ever impeachment trial of a former president."
-    publishedDateTime: 2021-01-25T05:45:00Z
-    webUrl: "https://www.ibtimes.com/trump-impeachment-article-be-sent-senate-triggering-trial-3129467"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/24/speaker-nancy-pelosi-is-set-to-send-the.jpg"
-        width: 1024
-        height: 714
-        isCached: true
-  - title: "Most Pennsylvania GOP Backed Trump to the End, and Still Do"
-    excerpt: "With Donald Trump out of the White House, Pennsylvania’s Republican Party shows no sign of walking away from a president who lost control of Congress, carried out an unprecedented campaign to overturn an election and is blamed by some in his party for inciting a violent assault on the country’s democracy."
-    publishedDateTime: 2021-01-21T12:14:00Z
-    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-01-21/most-pennsylvania-gop-backed-trump-to-the-end-and-still-do"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "WMCd9iuYrQ0EMbBNb2EN5dY7oOOugFleO4LfwSDwOyzgSjEpUDe+c+fVm/Xk/UKsrWfIga6E/yrR7zkbAjGqgJhlvj1yb9xXnQJMFq3QDkxxEiOrN7fgyNiRdpYIuq++ZhmAVgQZi/cGZ33OUMuoua/4YEA8XgmWAuyBuZugTALYTDtvtWgVtDPBVgvmk7tU5hkTraMaWw88OyNWS2Nj+XIbENA2eb3/jtIm9YhULP8xgqZ0Arw/r+qBYbICW0AkOIJe9rv+zhFCIM+Ax5dYt7IvfuDlJXsbjqOlraCez7/0yw30dUKITGJQJwDI0oZ44paxMz8QD0vrHsBUTpHelBTAFw3atYQTY/vO6sfEUpU=;z/DrM90CIPRyMTFl8OwNEw=="
 ---

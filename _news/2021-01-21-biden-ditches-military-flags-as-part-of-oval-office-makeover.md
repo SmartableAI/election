@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-ditches-military-flags-oval-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ditches-military-flags-oval-office-makeover.amp"
 type: article
 quality: 175
-heat: 575
+heat: 595
 published: true
 
 provider:
@@ -348,6 +348,22 @@ related:
       - url: "https://assets.realclear.com/images/53/533203_5_.jpeg"
         width: 750
         height: 499
+        isCached: true
+  - title: "McConnell's Choice; Biden in the Middle; Clinesmith Evidence"
+    excerpt: "Jan. 25, 2021. Globally, the number of COVID-19 infections is closing in on 100 million documented cases. In more than 2.1 million"
+    publishedDateTime: 2021-01-25T13:17:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/25/mcconnells_choice_biden_in_the_middle_clinesmith_evidence_145114.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/25/mcconnells_choice_biden_in_the_middle_clinesmith_evidence_145114.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/25/mcconnells_choice_biden_in_the_middle_clinesmith_evidence_145114.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
         isCached: true
 
 secured: "uaNkccp+Bb7N27zAhFCRCw1U71/1J2Tp0FvWUjG+MxxBYuAEG758D4ATxJHxi4BARU0ce3+JMK6/DMoAqpOqIJgVD7pbGC7RiZAFwm18hLyVvMEQKUeUuhpZjcXfsixtW57mYb8JFB9N57P9jRCt55OhLCElaK03+XYVeZ9Z12VNo86VXdkqw9kHTTbCp83v9fezC8yG0u2oELQXb+xlldqfT6StjBClDZX2rb2IDir5gfTcy2xGoJDqhtkLwv02ykY1Q/c2Le7ZuCqycUonhGZU2ITzEq4u2MdWCvhtWw5njFrSMBH6QaiH8aq/v9yzz6jWi89FwyNSnMXHFifTplCB4Ogjby8Sov82c4sGLqY=;lpm2kmHOVMp2p1iAdcNqfw=="
