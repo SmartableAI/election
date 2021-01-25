@@ -96,6 +96,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Inside Kamala Harris' New Home-and Why It's Not Where You Think"
+    excerpt: "Vice presidents usually settle into the Naval Observatory, but for now Kamala Harris is dropping her bags elsewhere. Here's why. While everyone knows that President Joe Biden resides at the White House,"
+    publishedDateTime: 2021-01-25T21:30:00Z
+    webUrl: "https://www.chron.com/realestate/article/Inside-Kamala-Harris-New-Home-and-Why-It-s-Not-15896968.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/24/75/20533103/3/rawImage.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "g2jq6AYO8uK88Ex9ZJAOAfFnsl2E89CUEJoGIBhnFzltuL2tvGTBFdCF7YWO89ZblDflks9wlivvd2IeRAZoKem0K3FzrTUT5R5yjp7ZKrjajX/tRDZRlpNyClaxsUQqTosaNiGPJslnBcL7x7l21VDkHWJrEbOSbK2Luz7gSRklBE31/muhvvl5AJcSUb9R6zwuUOzYpKBfjugHvs7BHtCJuVdLVDSVkInEqdkBLDG1PkzDMSqHfTr2nMnTW49reDRuCehq5MshJqE/8GYHAj9jVlvbFJn5KkNs8Aq+xl8gySMok293dzyda1HjvFNgBg6ifwkNMssLenvjhvI7otTNyvozQwyrNE030wJ1v4gYAifhBB6l2j6A8Om2Ju24oCElRqxiqJcyZiz3r6gsSvhWjifOQUASYHttbjOtNjj2sDxNdNFUNwU1NgGPbpuDBqwWNZ37F+yNAvYEnQ3CctooNpdaYu5jdx1AbRygDt0jKYnEOiTy9a2n+rJOSU++J4cEYLiV1QMmdW8q3UUrzA==;UDwLyYlE2ggpac4KVHsMCQ=="
 ---

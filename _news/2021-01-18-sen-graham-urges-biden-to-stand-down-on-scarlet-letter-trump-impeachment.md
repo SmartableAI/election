@@ -656,6 +656,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Psaki claims it's not 'fair' to say Biden called Trump's COVID travel ban 'xenophobic'"
+    excerpt: "White House press secretary Jen Psaki said Monday it was unfair to claim that President Biden described his predecessor's coronavirus-related travel ban as \"xenophobic,\" despite statements that indicated that was in fact his view of that policy."
+    publishedDateTime: 2021-01-25T22:00:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rWiLwBQ3v6U/psaki-not-fair-travel-ban-xenophobic"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-not-fair-travel-ban-xenophobic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-not-fair-travel-ban-xenophobic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1727c813-c256-43ee-9fdb-dff94742089d/75998869-76a4-424f-b360-99969209f97f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump transferring the 'nuclear football' to Biden — How it will work on Inauguration Day"
     excerpt: "The federal government is adding a new page today to its nuclear playbook. "
     publishedDateTime: 2021-01-20T14:56:16Z

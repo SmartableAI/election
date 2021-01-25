@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T0FS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T0FS"
 type: article
 quality: 133
-heat: 373
+heat: 393
 published: true
 
 provider:
@@ -156,6 +156,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210124&i=OVDWKJPM3&r=OVDWKJPM3&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Trump Impeachment Trial Rules Remain a Work in Progress"
+    excerpt: "The same Senate chamber that was overrun by insurrectionists will become a somber court for Donald Trump’s impeachment trial, as senators weigh whether to make him the first president permanently disqualified from federal office."
+    publishedDateTime: 2021-01-25T22:17:00Z
+    webUrl: "https://www.washingtonpost.com/business/trump-impeachment-trial-rules-remain-a-work-in-progress/2021/01/25/44c2505e-5f4e-11eb-a177-7765f29a9524_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IQMOHQC7JYI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump allies and Republican lawmakers lost thousands of followers in Twitter purge after Capitol riots"
     excerpt: "Republican lawmakers lost thousands of followers when Twitter purged QAnon accounts following the violent mob attack on the Capitol stoked by Trump."

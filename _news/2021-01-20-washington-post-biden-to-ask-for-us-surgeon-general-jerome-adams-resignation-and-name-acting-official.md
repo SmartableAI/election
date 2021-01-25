@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden raises the bar on vaccines and suggests US will get to 1.5 million a day"
+    excerpt: "President Joe Biden said Monday that he expects that the US will soon be able to vaccinate 1.5 million people a day, raising the bar by roughly 500,000 more vaccinations than its target of 1 million per day in his first 100 days in office. He said that the US could surpass that initial target in about"
+    publishedDateTime: 2021-01-25T22:46:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XJlPcSIgRd0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/biden-vaccine-distribution/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/biden-vaccine-distribution/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125161813-01-biden-manufacturing-0125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "With 400k Covid deaths, Biden set to take helm of nation in crisis"
     excerpt: "With more than 400,000 souls lost to the coronavirus pandemic, President-elect Joe Biden will have his work cut out for him when he takes the helm of a polarized and pained nation tomorrow at noon. Here is what we're watching this Tuesday morning."
     publishedDateTime: 2021-01-19T12:58:00Z

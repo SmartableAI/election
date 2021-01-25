@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-trump-sendoff-biden-inaugurat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp"
 type: article
 quality: 205
-heat: 4105
+heat: 4125
 published: true
 
 provider:
@@ -637,6 +637,22 @@ related:
     quality: 182
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ee79d8e-e6c4-4b30-b275-871e83536544/e0aef09b-5e94-476b-a135-55baa49822c9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Psaki claims it's not 'fair' to say Biden called Trump's COVID travel ban 'xenophobic'"
+    excerpt: "White House press secretary Jen Psaki said Monday it was unfair to claim that President Biden described his predecessor's coronavirus-related travel ban as \"xenophobic,\" despite statements that indicated that was in fact his view of that policy."
+    publishedDateTime: 2021-01-25T22:00:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rWiLwBQ3v6U/psaki-not-fair-travel-ban-xenophobic"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-not-fair-travel-ban-xenophobic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-not-fair-travel-ban-xenophobic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1727c813-c256-43ee-9fdb-dff94742089d/75998869-76a4-424f-b360-99969209f97f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

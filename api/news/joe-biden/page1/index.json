@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-26-politics-live-updates-biden-predicts-vaccine-available-to-general-public-in-spring-sen-leahy-to-preside-over-impeachment.md",
+      "title": "Politics live updates: Biden predicts vaccine available to general public in spring; Sen. Leahy to preside over impeachment",
+      "excerpt": "House Democrats will carry their article of impeachment against Donald Trump across the Capitol to the Senate Monday. The trial will start Feb. 9.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/25/politics-live-updates-trump-impeachment-article-goes-senate/6698416002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/25/politics-live-updates-trump-impeachment-article-goes-senate/6698416002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/25/USAT/9fdef51e-e789-4520-94dd-a4236d4d57cb-AP21025782104966_2.jpg?auto=webp&crop=1023,575,x1,y91&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6698416002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6698416002",
+      "publishedDateTime": "2021-01-25T14:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-biden-administration-suspends-some-sanctions-on-yemen-rebels.md",
+      "title": "Biden administration suspends some sanctions on Yemen rebels",
+      "excerpt": "The Biden administration is suspending some of the terrorism sanctions that former Secretary of State Mike Pompeo imposed on Yemen’s Houthi rebels in his waning days in office",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/world/national-security/biden-administration-suspends-some-sanctions-on-yemen-rebels/2021/01/25/b62f7ec0-5f52-11eb-a177-7765f29a9524_story.html",
+      "originalUrl": "https://www.washingtonpost.com/world/national-security/biden-administration-suspends-some-sanctions-on-yemen-rebels/2021/01/25/b62f7ec0-5f52-11eb-a177-7765f29a9524_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/world/national-security/biden-administration-suspends-some-sanctions-on-yemen-rebels/2021/01/25/b62f7ec0-5f52-11eb-a177-7765f29a9524_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-administration-suspends-some-sanctions-on-yemen-rebels/2021/01/25/b62f7ec0-5f52-11eb-a177-7765f29a9524_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-25T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-fact-check-ted-nugent-shared-but-did-not-write-letter-to-biden-that-went-viral.md",
       "title": "Fact Check: Ted Nugent shared but did not write ‘letter to Biden’ that went viral",
       "excerpt": "Social media posts, shared thousands of times, show a text attributed to Ted Nugent which is addressed to President Joe Biden that says: “This Trump supporter will be giving you the same respect you gave my President Trump.",
@@ -86,6 +190,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-biden-officials-discuss-19-tn-stimulus-plan-in-call-with-group-of-bipartisan-lawmakers.md",
+      "title": "Biden Officials Discuss $1.9 Tn Stimulus Plan in Call With Group of Bipartisan Lawmakers",
+      "excerpt": "Officials in Joe Biden's administration discussed the president's $1.9 trillion stimulus proposal in a call with a group of bipartisan lawmakers on Sunday. On January 14, days before his inauguration,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026",
+      "originalUrl": "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1714910/biden-harris-white-house.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1",
+      "publishedDateTime": "2021-01-24T20:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -367,58 +523,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-23-fema-would-operate-up-to-100-federally-run-mass-vaccination-sites-under-biden-plan.md",
-      "title": "FEMA would operate up to 100 federally run mass vaccination sites under Biden plan",
-      "excerpt": "A draft FEMA document envisions four different models for sites, with the largest capable of handling 6,000 doses a day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/",
-      "originalUrl": "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FAYNVVS3KMI6XKCJN6KCHJ277U.jpg&w=1440",
-          "width": 1440,
-          "height": 1005,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/?outputType=amp",
-      "publishedDateTime": "2021-01-22T20:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-01-23-biden-says-we-need-to-act-decisively-and-boldly.md",
       "title": "Biden says we need to act 'decisively and boldly'",
       "excerpt": "President Joe Biden said on Friday the U.S. economic crisis was deepening and that the government needs to take major action now to help struggling Americans.",
@@ -451,110 +555,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-biden-plans-to-sign-executive-orders-boosting-workers-rights-and-pushing-for-a-15-minimum-wage-for-federal-staff.md",
-      "title": "Biden plans to sign executive orders boosting workers' rights and pushing for a $15 minimum wage for federal staff",
-      "excerpt": "Biden is set to sign an order on Friday ensuring that people can still claim unemployment benefits if they turn down a job because of COVID-19 risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-executive-orders-federal-workers-rights-minimum-wage-2021-1",
-      "originalUrl": "https://www.businessinsider.com/biden-executive-orders-federal-workers-rights-minimum-wage-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/600abde421f52a0018cba02d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/biden-executive-orders-federal-workers-rights-minimum-wage-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-executive-orders-federal-workers-rights-minimum-wage-2021-1?amp",
-      "publishedDateTime": "2021-01-22T15:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-in-first-lawsuit-against-biden-administration-texas-ag-paxton-challenges-deportation-freeze.md",
-      "title": "In first lawsuit against Biden administration, Texas AG Paxton challenges deportation freeze",
-      "excerpt": "Texas Attorney General Ken Paxton asked a federal judge to block a new Biden administration policy that pauses most deportations for the next 100 days.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2021/01/22/texas-ag-ken-paxton-files-lawsuit-block-biden-deportation-freeze/6675679002/",
-      "originalUrl": "https://www.usatoday.com/story/news/2021/01/22/texas-ag-ken-paxton-files-lawsuit-block-biden-deportation-freeze/6675679002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/media/2020/11/20/Austin/ghows-TX-200729145-8717c8b4.jpg?auto=webp&crop=750,422,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6675679002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6675679002",
-      "publishedDateTime": "2021-01-22T14:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -628,15 +628,67 @@
       ]
     },
     {
-      "path": "_news/2021-01-22-biden-seeks-five-year-extension-of-new-start-arms-treaty-with-russia-source.md",
-      "title": "Biden seeks five-year extension of New START arms treaty with Russia: source",
-      "excerpt": "U.S. President Joe Biden will seek a five-year extension to the New START arms control treaty with Russia, a source familiar with the matter said on Thursday.",
+      "path": "_news/2021-01-22-biden-order-seeks-stronger-workplace-safety-rules-signaling-a-more-worker-friendly-approach.md",
+      "title": "Biden order seeks stronger workplace safety rules, signaling a more worker friendly approach",
+      "excerpt": "The Executive Order could lead to an emergency standard for businesses — a set of a regulations they would have to comply with, like mask-wearing, that advocates say is necessary to combat the pandemic.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-russia-nuclear-idUSKBN29Q2I4",
-      "originalUrl": "https://www.reuters.com/article/us-usa-russia-nuclear-idUSKBN29Q2I4",
+      "webUrl": "https://www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/",
+      "originalUrl": "https://www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 202,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KLXVVQCAZ4I6XNMLCYR7MJTZMA.jpg&w=1440",
+          "width": 1440,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/?outputType=amp",
+      "publishedDateTime": "2021-01-21T14:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-biden-to-seek-five-year-extension-of-nuclear-arms-treaty-with-russia-washington-post.md",
+      "title": "Biden to seek five-year extension of nuclear arms treaty with Russia: Washington Post",
+      "excerpt": "President Joe Biden will seek to extend the New START arms control treaty with Russia for five years, The Washington Post reported on Thursday, citing unidentified senior U.S. officials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-russia-nuclear/biden-to-seek-five-year-extension-of-nuclear-arms-treaty-with-russia-washington-post-idUSKBN29Q2I4",
+      "originalUrl": "https://www.reuters.com/article/us-usa-russia-nuclear/biden-to-seek-five-year-extension-of-nuclear-arms-treaty-with-russia-washington-post-idUSKBN29Q2I4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -652,7 +704,7 @@
       "type": "article",
       "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29Q2I4",
       "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q2I4",
-      "publishedDateTime": "2021-01-21T16:01:00-08:00",
+      "publishedDateTime": "2021-01-21T14:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -958,7 +1010,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4170,
+      "heat": 4210,
       "tags": null,
       "images": [
         {
@@ -1055,38 +1107,29 @@
       ]
     },
     {
-      "path": "_news/2021-01-19-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing.md",
-      "title": "Watch live: Biden nominee for DHS Director testifies at confirmation hearing",
-      "excerpt": "President-elect Joe Biden's nominee for Director of the Department of Homeland Security Alejandro Mayorkas on Tuesday morning is slated to testify at his Senate confirmation hearing.The hearing is scheduled to begin at 10 a.",
+      "path": "_news/2021-01-20-senate-hearing-to-consider-alejandro-mayorkas-as-bidens-head-of-dhs.md",
+      "title": "Senate hearing to consider Alejandro Mayorkas as Biden's head of DHS",
+      "excerpt": "The Senate Homeland Security Committee meets to consider Alejandro Mayorkas' nomination as Secretary of Department of Homeland Security for President-elect Joe Biden's administration.",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing",
-      "originalUrl": "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing",
+      "webUrl": "https://www.washingtonpost.com/video/national/senate-hearing-to-consider-alejandro-mayorkas-as-bidens-head-of-dhs/2021/01/19/5e44eaeb-7275-4856-a9fc-da37614d1a5b_live.html",
+      "originalUrl": "https://www.washingtonpost.com/video/national/senate-hearing-to-consider-alejandro-mayorkas-as-bidens-head-of-dhs/2021/01/19/5e44eaeb-7275-4856-a9fc-da37614d1a5b_live.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 182,
+      "heat": 85,
       "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/mayorkasalejandro_11242020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing?amp",
-      "publishedDateTime": "2021-01-19T06:23:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T11:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1161,6 +1204,58 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-health-of-the-nation-is-literally-at-stake-biden-vows-swift-action-on-vaccine-sites-supplies-100-million-shots.md",
+      "title": "'Health of the nation is literally at stake': Biden vows swift action on vaccine sites, supplies; 100 million shots",
+      "excerpt": "BIden will add clinics, bolster the public health workforce and invoke a wartime production law to ensure adequate vaccine supplies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/health/2021/01/15/biden-add-clinics-and-supplies-complete-100-million-vaccine-shots/4174175001/",
+      "originalUrl": "https://www.usatoday.com/story/news/health/2021/01/15/biden-add-clinics-and-supplies-complete-100-million-vaccine-shots/4174175001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/12/USAT/4836ad86-bdf1-496c-b913-038525820561-Day_in_pictures_Jan._12_2021_03.JPG?auto=webp&crop=4862,2735,x1,y36&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4174175001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4174175001",
+      "publishedDateTime": "2021-01-17T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1457,110 +1552,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus.md",
-      "title": "Biden announces former FDA head David Kessler as chief science officer for vaccine drive to stop spread of coronavirus",
-      "excerpt": "Biden announces former FDA head David Kessler as chief science officer for vaccine drive to stop spread of coronavirus",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-15T04:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-joe-biden-unveils-19tn-us-economic-relief-package.md",
-      "title": "Joe Biden unveils $1.9tn US economic relief package",
-      "excerpt": "President-elect Joe Biden has unveiled a $1.9tn (£1.4tn) stimulus plan for the coronavirus-sapped US economy before he takes office next week. If passed by Congress, it would include $1tn for households,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-us-canada-55670801",
-      "originalUrl": "https://www.bbc.com/news/world-us-canada-55670801",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/16532/production/_116524419_065193921.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/world-us-canada-55670801",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55670801",
-      "publishedDateTime": "2021-01-15T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

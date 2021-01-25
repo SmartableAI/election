@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden raises the bar on vaccines and suggests US will get to 1.5 million a day"
+    excerpt: "President Joe Biden said Monday that he expects that the US will soon be able to vaccinate 1.5 million people a day, raising the bar by roughly 500,000 more vaccinations than its target of 1 million per day in his first 100 days in office. He said that the US could surpass that initial target in about"
+    publishedDateTime: 2021-01-25T22:46:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XJlPcSIgRd0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/biden-vaccine-distribution/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/biden-vaccine-distribution/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125161813-01-biden-manufacturing-0125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Washington Post: Biden to ask for US Surgeon General Jerome Adams' resignation and name acting official"
     excerpt: "President-elect Joe Biden is expected to ask for US Surgeon General Jerome Adams' resignation soon after he is sworn-in on Wednesday, and select an acting surgeon general while his permanent pick for the role of the nation's top doctor undergoes Senate confirmation, according to The Washington Post.\n"
     publishedDateTime: 2021-01-20T11:49:07Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trumps-lawyers-must-get-72-hour-war
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-lawyers-must-get-72-hour-warning-if-treasury-turns-over-presidents-tax-returns-to-democrats-judge.amp"
 type: article
 quality: 157
-heat: 177
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Pressed Justice Department to Go Directly to Supreme Court to Overturn Election Results"
-    excerpt: "The former president dropped the efforts to replace the acting attorney general after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar with the matter said."
-    publishedDateTime: 2021-01-23T23:33:00Z
-    webUrl: "https://www.wsj.com/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+  - title: "Democrats showing 'shockingly bad judgment' with Trump impeachment focus: Cornyn"
+    excerpt: "Sen. John Cornyn, R-Texas, admonished Democrats against pursuing another impeachment trial against former President Donald Trump, saying Monday it shows \"shockingly bad judgment.\""
+    publishedDateTime: 2021-01-25T21:27:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UZXB0EGTKm0/democrats-showing-shockingly-bad-judgment-with-trump-impeachment-focus-cornyn"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-showing-shockingly-bad-judgment-with-trump-impeachment-focus-cornyn.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-showing-shockingly-bad-judgment-with-trump-impeachment-focus-cornyn.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 139
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
     images:
-      - url: "https://images.wsj.net/im-289628/social"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6df6e525-5569-4d10-9efc-e2e13414355d/5ad2f01c-aceb-44c0-8ea1-25f2ec90acd4/1280x720/match/image.jpg"
         width: 1280
-        height: 640
+        height: 720
         isCached: true
 
 secured: "v3BhIt6OBd3q1kwsSZR9zEnPvD/XE820wlWZ8MnypB90C+yM4OoTtNctRC0b7ePBdqKheIKHU3vFhenf4CR68k8v/BNc074CO15ICRCMnKIjxeOd5z9fCGqAGGGpfkgVPXd5VenVDDYiPX1EBofa04Z2zMJR/u1xBNlUL0YlY7WKmLwG8rSezfyMA5Q9ufTL4m84ZWnvp02e5TjO6dHVhndc/7AGiDGv8yFofL+xGQgTJ2JCN9jJPiNu9OKW2neuwsgiOFReZ/WNgnTojz5084FF5WjI2KhLoGO9LfFCddW+jypp2pV4fNJjvM/98KkgUO5xLLLMagfYaVFZKBZbltl/WoWIYYQStmrHcrtWTl0=;+ICWnSnAZBAHLElFTVvlZg=="

@@ -1191,6 +1191,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden names Democrats to lead nuclear, pipeline agencies"
+    excerpt: "President Joe Biden has named two Democrats to lead energy-related commissions that oversee nuclear power, natural gas and other energy infrastructure"
+    publishedDateTime: 2021-01-25T22:33:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/biden-names-democrats-lead-nuclear-pipeline-agencies-75477159"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-names-democrats-lead-nuclear-pipeline-agencies-75477159"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-names-democrats-lead-nuclear-pipeline-agencies-75477159"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f9aa28cab4154b9e8de9a3f620684a87_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden overturns ban on transgender people serving in the U.S. military"
+    excerpt: "President Joe Biden on Monday overturned a controversial ban by his predecessor on transgender individuals serving in the U.S. military, a move that fulfills a campaign promise and will be cheered by LGBTQ advocates."
+    publishedDateTime: 2021-01-25T21:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-military-transgender/biden-overturns-ban-on-transgender-people-serving-in-the-u-s-military-idUSKBN29U1VH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U1VH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U1VH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548998122&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O15J"
+        width: 778
+        height: 545
+        isCached: true
   - title: "Biden replaces White House doctor with longtime physician"
     excerpt: "President Joe Biden has brought back Dr. Kevin O’Connor as his physician, replacing President Donald Trump’s doctor with the one who oversaw his care when he was vice president"
     publishedDateTime: 2021-01-25T16:18:00Z

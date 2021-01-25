@@ -48,7 +48,23 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump Pressed Justice Department to Go Directly to Supreme Court to Overturn Election Results"
+    excerpt: "The former president dropped the efforts to replace the acting attorney general after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar with the matter said."
+    publishedDateTime: 2021-01-23T23:33:00Z
+    webUrl: "https://www.wsj.com/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 139
+    images:
+      - url: "https://images.wsj.net/im-289628/social"
+        width: 1280
+        height: 640
+        isCached: true
 
-secured: "ATXlUHJs0Wyzs6oTgjEEQxzXukDtzPHW9y4i2MQJa1px49t7lNniIWNO5gsOjzJ9Mm/BNO6Fq8BCvqe/vDxbpvGUhcbbwQKrkiUQfpB3ZeovY0lZfPik3wh6M/meL2C5Pd++rCWJ2zaQ9HnSkkRRMcihRaOzYVffZMsIY2Zys5KeqAOC8/zQTe0XBrfEBCHN4abi7bQyv1Iy3YRp07ogawWUsJC+ChMVKHDdeAU7fGEkLa6StN093DbyWXU3JzJ32uPtVsNTSCGKCnt1h+uvHYNBPcpv9XAcBJhnAn6Kz55TlQtDIKMz07snLvFCBv4xozmMfg7Edek5NvBE3PIcNbeMWbhtwg9VQ/u6zd4w5uw=;ZdtFJcEmoPaUCxSpDtL3ug=="
+secured: "0JGWqNsim6X/c4aJchk+HhXCKsz98pLQsBdgFrR8D0XB8xmmUouoN9tiUxnAeye5ZJr454UcwG1QTYmpWfbUAcJRd5eZHBOoRLgnlWB57MBSHNym+3VlaMoQGU0Si2BE+tqHzCdQIexEMXp3vZmHSPXDtcyiFazCBRMG1rBhDgU1syOzWJSho3IXtc43ptwnt65nX6z86H2wYsq5gxZVTfDOoV9vh1hm0fIOgNMVFobHvkvRyY7qRLe6WrqSAsWFdk4e5wXnL3yPfmmN+e48Qc84qBLpI92P8d3n/XRvpqg3bybfY2GaB+2QQrrxQwLRiZov20SypHJz0aPD30W5ZrXY5K7U3xDGx7pkPDrqtk511KXF07exXjuln0Xoh+YHvIZOp0UTma23M0vm5Eg+DlLdNCZBoiUN5VleAvsTzBvUVOUiiLxaGcsHF2aieZrjq/Hz9j6rRBfjQ+g3IlgTGKcYFX3GZkpZHI11M1RqxXlpgukDVBcyRGP8vAvMrMsGI+fQVTt7iitf2bz3fC/T6g==;BxSEfrdtijlLf2z0c762KQ=="
 ---
 

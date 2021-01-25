@@ -82,6 +82,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Inside Kamala Harris' New Home-and Why It's Not Where You Think"
+    excerpt: "Vice presidents usually settle into the Naval Observatory, but for now Kamala Harris is dropping her bags elsewhere. Here's why. While everyone knows that President Joe Biden resides at the White House,"
+    publishedDateTime: 2021-01-25T21:30:00Z
+    webUrl: "https://www.chron.com/realestate/article/Inside-Kamala-Harris-New-Home-and-Why-It-s-Not-15896968.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/24/75/20533103/3/rawImage.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Berkeley parents to stage 'sit-in' for reopening schools at Kamala Harris' old elementary school"
     excerpt: "A group of Berkeley parents are preparing to stage a sit-in at Vice President-elect Kamala Harris' elementary school to demand that schools reopen \"as soon as public health officials deem it safe,\" according to a news release."
     publishedDateTime: 2021-01-12T18:39:00Z

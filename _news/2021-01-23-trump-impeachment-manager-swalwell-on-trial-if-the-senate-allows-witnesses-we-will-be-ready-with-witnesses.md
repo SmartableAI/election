@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-manager-swalwell-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-manager-swalwell-trial-if-senate-allows-witnesses-we-will-be-ready.amp"
 type: article
 quality: 155
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump Pressed Justice Department to Go Directly to Supreme Court to Overturn Election Results"
+    excerpt: "The former president dropped the efforts to replace the acting attorney general after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar with the matter said."
+    publishedDateTime: 2021-01-23T23:33:00Z
+    webUrl: "https://www.wsj.com/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 139
+    images:
+      - url: "https://images.wsj.net/im-289628/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Chief Justice John Roberts not expected to preside over Trump impeachment trial, Patrick Leahy likely will"
     excerpt: "Sen. Patrick Leahy will preside over the impeachment trial of former President Trump, signaling that Chief Justice John Roberts will not be forced to oversee the politically-charged arguments now that Trump is out of office."
     publishedDateTime: 2021-01-25T19:47:00Z

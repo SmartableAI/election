@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-announces-former-fda-h
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
 type: article
 quality: 101
-heat: 101
+heat: 121
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1484
     height: 779
     isCached: true
+
+related:
+  - title: "Coronavirus updates: Single-dose vaccine from Johnson & Johnson could be 'game changer'; Biden to require masks on planes"
+    excerpt: "A COVID vaccine being developed by New Jersey-based Johnson & Johnson could dramatically speed up the fight against the pandemic. Latest COVID news."
+    publishedDateTime: 2021-01-21T18:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2021/01/21/covid-news-vaccine-shortages-us-response-joe-biden-california/4237433001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4237433001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4237433001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 100
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/a6d17a2c-5ef4-4acf-87f9-b26f62b41bc4-AP21020686218912.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "NBNuInWku+QdlBPSr6dV35b0fScRUlX+e0atSlOlu2SM7dmga1rKGo3FjsdMfkrubxesY2uDsWwiQme4ngryJmkbookoswWNnepRL0FauZj4O5rnd7YZ0T9FaNIRCO3vYlfxHhpTg3ec8sd1a0UmIyDRHXNkEqO3oD4xtLb5iQER0C9NR7PNgxHFg5kOMqTyByQ41SIbCObv5PqYruABQneX9x+j18Zl0nGU4nkzq/04zdJzfKw6szwfQdL+E6dDs7M/wyEgJ7PTT31XMgzHOnn1VeU8M/BJb0WuNhuZ4CWO92fLyLmx04xkdnXDqe2AuV2KzhKs6ydIRlsjn3882SB/6xM1oJ9cgXfTBfpAQYU=;RV9LXsDO5QpaT2GF2uwgQA=="
 ---

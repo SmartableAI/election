@@ -32,21 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's lawyers must get 72-hour warning if Treasury turns over president's tax returns to Democrats: judge"
-    excerpt: "The U.S. Treasury Department must grant former President Trump’s lawyers a 72-hour warning if it allows his tax returns to be released to Democrats, a judge ruled Friday, according to a report."
-    publishedDateTime: 2021-01-23T10:28:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TTGQx7rZVYE/trumps-lawyers-must-get-72-hour-warning-if-treasury-turns-over-presidents-tax-returns-to-democrats-judge"
-    ampWebUrl: "https://www.foxnews.com/politics/trumps-lawyers-must-get-72-hour-warning-if-treasury-turns-over-presidents-tax-returns-to-democrats-judge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-lawyers-must-get-72-hour-warning-if-treasury-turns-over-presidents-tax-returns-to-democrats-judge.amp"
+  - title: "Trump impeachment manager Swalwell on trial: 'If the Senate allows witnesses, we will be ready with witnesses'"
+    excerpt: "Rep. Eric Swalwell, who will help prosecute former President Trump for \"incitement of insurrection,\" said House impeachment managers are prepared to call witnesses at the upcoming Senate trial. "
+    publishedDateTime: 2021-01-23T20:00:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/losYKWa57gE/trump-impeachment-manager-swalwell-trial-if-senate-allows-witnesses-we-will-be-ready"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-manager-swalwell-trial-if-senate-allows-witnesses-we-will-be-ready.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-manager-swalwell-trial-if-senate-allows-witnesses-we-will-be-ready.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 155
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dae72535-2dae-40bd-8346-e651ec940af2/ae769b4d-a9d6-41c6-80d1-a158afc32667/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/swalwell-walking-masked.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Chief Justice John Roberts not expected to preside over Trump impeachment trial, Patrick Leahy likely will"
+    excerpt: "Sen. Patrick Leahy will preside over the impeachment trial of former President Trump, signaling that Chief Justice John Roberts will not be forced to oversee the politically-charged arguments now that Trump is out of office."
+    publishedDateTime: 2021-01-25T19:47:00Z
+    webUrl: "https://www.foxnews.com/politics/leahy-to-preside-over-senate-impeachment-trial"
+    ampWebUrl: "https://www.foxnews.com/politics/leahy-to-preside-over-senate-impeachment-trial.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/leahy-to-preside-over-senate-impeachment-trial.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Sen.-Patrick-Leahy-.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "9xIs52rdOv1d/R+GNC9zHP6gEcoZMKs485Kck/JCz0p7XStDBM62fqE4eq4qxmIKNUiah9JAks/UX0ivH3Ny7bOpBIhEHU/rpEOpGVDRptABU02PFDq5tTIMxGpQWLYOehO76qhWF6+HGI41Tr784DtitZ68p/qKNRqXGhjFG0Hu3ynLCG9KtHa5Gn9GPodkKi05YOREo8LrxuUeYaxYaWkdY9x1JbgmajwF8IBKtxltd7BrucwPYO5258Mob8ihXz84Qti+InWwEdOAM15jcPHWBiaNaWDJNimAPEa5BeV0trujFz4jes1f08T3KR53OAT/5IJA4eF6i4iLLKoDAGq82UEEO/a9tMtDtpjVRg3ZeOrhLWNzHgdMhznk8RGAnNiixLOnmXpqmxuYqCEo5Bm3m4lnCvtO/x1Vd4M0q7aTRiJNSkQ3CTBuLD8Rdc+GJW8XJTwHllT9PNkOp+q75Hnb9zXW0m1gVyKNmANu6ISv0RrIQk0IsZCjassgYpkJ8w47GwdKtEdPTsVIRDkRiw==;8KdmG01MAHfWw/CNEknMsg=="

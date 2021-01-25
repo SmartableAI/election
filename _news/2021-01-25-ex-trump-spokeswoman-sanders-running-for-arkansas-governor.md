@@ -185,6 +185,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Birx both exemplifies and blames the cherry-picking that shaped the Trump presidency"
+    excerpt: "Birx offered then-President Donald Trump an unusual compliment in an interview last March. “He’s been so attentive to the scientific literature and the details and the data,” the coordinator of the White House's coronavirus pandemic response said in an interview with the conservative network CBN."
+    publishedDateTime: 2021-01-25T22:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/25/birx-both-exemplifies-blames-how-cherry-picking-data-shaped-trump-presidency/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/25/birx-both-exemplifies-blames-how-cherry-picking-data-shaped-trump-presidency/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/25/birx-both-exemplifies-blames-how-cherry-picking-data-shaped-trump-presidency/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UL7K33CC5EI6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "'Trumpocalypse' is over. Why the anti-Trump billboard in downtown Phoenix is coming down"
     excerpt: "Trumpocalypse,' the anti-Donald Trump billboard in downtown Phoenix is being replaced. The controversial Grand Ave. billboard will feature new images"
     publishedDateTime: 2021-01-24T15:07:00Z
