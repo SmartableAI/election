@@ -112,6 +112,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden may force American taxpayers to foot bill for San Francisco homeless hotels"
+    excerpt: "San Francisco hotels used to house homeless people may be fully funded by the federal government this year, thanks to an executive order signed by President Joe Biden signed last Thursday."
+    publishedDateTime: 2021-01-25T02:14:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-may-pick-up-the-tab-for-san-francisco-homeless-hotels"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-may-pick-up-the-tab-for-san-francisco-homeless-hotels.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-may-pick-up-the-tab-for-san-francisco-homeless-hotels.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21013758433717.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "mgsJcV9fvM6x83rwDFyRRXeUmtEaHS2Eab/pdMWHMameu5KjNmvAXAIc8kG9ryYR2YgN9tSdQ02154v5aZ+XkrGpY7kMvHAl1HG8fzShbiCTkxZefu0NtKBurh7NxTIjl1oLOmD+rdtsB88GA1ILO+UfEs3nf6jhA/BwjIxvCNp84Klz47dcKrbnJ9a5rjSfjKo5rBPyM4tPICy7ltfo8X/aYQnax9KBA4VRFoo+arxP7ukwPlM8AzDwb/Sar9gvIRa7eiI+bTcFcIqOUE0pG368veU3uDRsRdKtGgSXwGgQ6BU88QdRMVhbKS2tleK8eMu774KkQKvy14uDWR9asuIhjHnMqj89dPgro3v6dgg2yCH9DusipiSN0f5QKB9DiuE4/MQdRyWwExGJzsD4seU22c2f9/JtREhCFlmJzEDsZX9VOWv8o5LBUl4v9RQcdmA4zrWqbafghtEXWz4uWeIJMMUG0i/ReWlyaVf+CdY0i04sJ4BbL8GG5VeJHKdfpIfzgynSiXVdY+we0Awu9Q==;9++OVrZgODjEQ8Gb1q8/xg=="
 ---

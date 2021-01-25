@@ -49,19 +49,19 @@ related:
         isCached: true
   - title: "Biden to reinstate COVID travel rules, add South Africa"
     excerpt: "Two White House officials say President Joe Biden on Monday will formally reinstate COVID-19 travel restrictions on non-U.S. travelers from Brazil, Ireland, United Kingdom and 26 other European countr"
-    publishedDateTime: 2021-01-24T23:25:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-travel-rules-add-south-africa/2021/01/24/68239846-5e95-11eb-a177-7765f29a9524_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-travel-rules-add-south-africa/2021/01/24/68239846-5e95-11eb-a177-7765f29a9524_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-reinstate-covid-travel-rules-add-south-africa/2021/01/24/68239846-5e95-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    publishedDateTime: 2021-01-24T22:59:00Z
+    webUrl: "https://abcnews.go.com/Travel/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75460010"
+    ampWebUrl: "https://abcnews.go.com/amp/Travel/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75460010"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Travel/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75460010"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Travel/WireAP_cf6c3c66cb5d4a55b5e80f6769b46498_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "‘Celebrating America’ review: Earnest inauguration special encapsulates President Joe Biden"
     excerpt: "Celebrating America” traded the usual inauguration night balls for socially distanced performances from around the country, spotlights of “everyday heroes,” and solemn acknowledgments of the extraordinarily tough few years the country has muscled through to get to this moment."

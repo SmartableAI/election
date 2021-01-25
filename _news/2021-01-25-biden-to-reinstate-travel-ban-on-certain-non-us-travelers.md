@@ -1168,6 +1168,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden is planning a busy week of executive action. Here's what you need to know"
+    excerpt: "President Joe Biden is planning a new wave of executive orders and actions this week as he looks to further dismantle many of former President Donald Trump's policies and address a slate of Democratic priorities as quickly as he can.\n    \n"
+    publishedDateTime: 2021-01-25T01:00:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/p36iQ7IrxrM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/politics/what-matters-january-24/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/what-matters-january-24/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122152703-04-biden-economy-0122-executive-order-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Dale: Reflections on four weird years fact checking every word from Donald Trump"
     excerpt: "I had to email the Boy Scouts to find out if the President had invented a nonexistent phone call from the head of the organization. (He had.)\n    \n"
     publishedDateTime: 2021-01-19T15:45:03Z
@@ -2423,6 +2439,6 @@ related:
         height: 773
         isCached: true
 
-secured: "kK/wY2n10q1YJlJ5r7m21Ml/XM1fKclnoP/qiik70VPgOjH0keZNCsmNTE8vYADs10grh2dPDXiitfkhcPCPe7MWj0R/0W/UjLr29paQlSQEGBkZ451aqKwO0VHu0QncY9RZfzltLBMUkrZgPaCaPJ/Mf+1VVFUE03wR3C29bOaVEU1H6/GzPgS24L5o4H3PbN5JYZH2mpJt5v7OgdDfDRTbhP59pUVEf7QPBS/6QNQRknV7mBC+K0BCpRmZ/cjWNYbPOxVuamQL9RGSULvJXXmgZc2V7d5p0K/DrTpePNJysmraDTA5HibPLCsweNA6skep0JUaU3dCwtUb38pIVl6QNpJsiigCDFf6SW18cRk=;BDWAVP9vxDqDdne751RGog=="
+secured: "0IKwQt3xjgiOo9n2hwT+SkWDQVcavYk25An7mFTsjU/D2DqN4/jc9TGAMpOUPrJLgorJTMhjpjmmc0RQOn+jM35Z+y+nAhNEL30mHLqAppmhYQ5jy89Y89ySWiBAi2Dr1pIw6w6Izbm8lV3B/+7EpUYuW4/eaOZBt+wooKW5Qma5tpbYSbS65hpU10cOLBDfTvDVuUWQm8H/vrXK5/H+PgKRTFsf7x0M5tmY3aEGnsz1Hnzx14qRTTxu38fdUDcRWKYz00egEsbgsW54d58oxBIv2ouNiShifdAhYWv2cIZ3JTYlOXoOvAa2N5rKkyGPuMtpmUKU+oJGYfoxG8Wv1A8otMavJHN8uvbFv/+1P1hgtx5pPgX0zU0wxj4J8XH+yxZN20RwUpdDPRC5KMA1WzJTue/sVGk9B3MykE/v8qv36qyOl3+oXiu9mmaeQhz1xLmldxcqpbTnUyoXaDMGUfST0ykRyokaFxuVHcsXF9JOXSWWHSiFQftvveQ60CVsY3/ApFbJTj/9sOsL1I9HiQ==;xpWaD15W2geC7RcgLDyjDQ=="
 ---
 

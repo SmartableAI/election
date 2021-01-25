@@ -1295,6 +1295,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden to repeal Trump's ban on transgender people joining military"
+    excerpt: "President Joe Biden is poised to repeal his predecessor Donald Trump's ban on transgender people enlisting in the U.S. military, a person familiar with the matter said."
+    publishedDateTime: 2021-01-25T01:51:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-military-lgbt-idUSKBN29T0Q8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T0Q8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T0Q8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548896661&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N0F1"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden seeks term-defining wins in Georgia runoffs Trump called 'illegal'"
     excerpt: "Contests will decide control of Senate and how far Biden can reach on issues such as pandemic, healthcare, taxation and environment"
     publishedDateTime: 2021-01-02T17:01:00Z

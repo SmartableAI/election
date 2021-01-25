@@ -1155,6 +1155,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden speaks with France's Macron, seeks to strengthen ties"
+    excerpt: "U.S. President Joe Biden spoke on Sunday with French President Emmanuel Macron, expressing his desire to strengthen bilateral ties, the White House said, as Biden made the traditional ally one of the first countries contacted during his initial days in office."
+    publishedDateTime: 2021-01-25T02:12:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-france-idUSKBN29T0QI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T0QI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T0QI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548896812&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N0F5"
+        width: 840
+        height: 545
+        isCached: true
   - title: "Biden must find words for a wounded nation in inauguration like no other"
     excerpt: "Planners have been forced to be inventive after the deadly pandemic and now last week’s Capitol insurrection dictated a pared-down event"
     publishedDateTime: 2021-01-16T07:00:00Z
