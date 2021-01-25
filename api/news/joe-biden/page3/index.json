@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-29-how-joe-bidens-cold-war-experience-will-shape-his-approach-to-russia.md",
+      "title": "How Joe Biden’s cold war experience will shape his approach to Russia",
+      "excerpt": "President-elect’s formative years of going toe-to-toe with the USSR on arms control hint at how he may deal with Putin",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/dec/29/how-joe-biden-cold-war-experience-will-shape-approach-to-russia",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/29/how-joe-biden-cold-war-experience-will-shape-approach-to-russia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/874f7bf1c2a60b5e92d5ba0b61e5c77539550373/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=168c42250400e9089455a630c0cb98d5",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/29/how-joe-biden-cold-war-experience-will-shape-approach-to-russia",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/29/how-joe-biden-cold-war-experience-will-shape-approach-to-russia",
+      "publishedDateTime": "2020-12-28T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-29-biden-repeats-call-for-full-visibility-during-transition.md",
       "title": "Biden repeats call for 'full visibility' during transition",
       "excerpt": "President-elect Joe Biden said Dec. 28 that his transition team has encountered political roadblocks from the Trump administration and called it irresponsible.",
@@ -1550,58 +1602,6 @@
         "Election",
         "Joe Biden",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-fact-check-laptop-repairman-at-center-of-hunter-biden-saga-is-alive.md",
-      "title": "Fact check: Laptop repairman at center of Hunter Biden saga is alive",
-      "excerpt": "Some users on Facebook have falsely claimed John Paul Mac Isaac — the laptop repairman at the center of the Hunter Biden laptop saga — was found dead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-laptop-repairman-center-hunter-biden-saga-alive/3905393001/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/12/15/fact-check-laptop-repairman-center-hunter-biden-saga-alive/3905393001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 385,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/10/USAT/dd7975a8-d63a-4e8b-b306-739763b38569-VPC_HUNTER_BIDEN_TAXES_DESK.00_00_32_05.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3905393001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3905393001",
-      "publishedDateTime": "2020-12-15T17:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

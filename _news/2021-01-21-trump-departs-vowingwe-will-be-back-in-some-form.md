@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/01/20/us/politics/trump-presidency.amp.
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/20/us/politics/trump-presidency.amp.html"
 type: article
 quality: 135
-heat: 155
+heat: 135
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1050
     height: 550
     isCached: true
-
-related:
-  - title: "Oh, the irony. Republican claims credit for idea to auction off blowing up Trump Plaza"
-    excerpt: "But Atlantic City Mayor Marty Small insists the auction idea was his. Fitzgerald said if things had gone his way, the auction may not have fallen through and may have gotten a higher bid before it was canceled,"
-    publishedDateTime: 2021-01-22T10:00:00Z
-    webUrl: "https://www.politico.com/states/new-jersey/story/2021/01/22/oh-the-irony-republican-claims-credit-for-idea-to-auction-off-blowing-up-trump-plaza-1359123"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 107
-    images:
-      - url: "https://static.politico.com/ce/b9/ed00b16c4632a38003f7456445d1/ap17331787586679-c.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "cTidHfEHpq2AvtHc5ikpeE0VyoACAEqWwtqmZ4bJyh7zJIZMOYwLhMa37DxfObS47D0r5qXZnmwaFLyVC/JJccpwvpgHOjuRFTbNMJ+jjeXV2PXr+efgeBZwDhT3WhhoRYJPzLrIut6/9s0aTGLeQ73694VxEQ3qK0gkC0sgTtjK53t5IxlALwoNjW1Ltk34dYfpyjStr2JFe1I+/IFvP1RlUXUU0dmAewJQ8M6cDIOms9AmYcQRLn+oDrka4fMuSVTIErjxYppXF1PBxw9wnpkxjmZHZnYYBzuzULcF89t8JQygwbXEVJNrvrvylrwmv2uh9VWbjQScx1Z6zzy7xO8mhguBulkrOIxT9cYBhOU=;wvMhwZFGBWXDNfwec5wCBQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court-donald-trump-case/index.html"
 type: article
 quality: 175
-heat: 275
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,9 +31,137 @@ images:
     isCached: true
 
 related:
-  - title: "McConnell proposes delaying impeachment trial until February so Trump team can prepare"
+  - title: "Biden set to reinstate coronavirus-related travel restrictions that Trump lifted"
+    excerpt: "President Joe Biden on Monday will sign a presidential proclamation reinstating the travel restrictions imposed due to the Covid-19 pandemic, White House press secretary Jen Psaki confirmed during her daily briefing.\n    \n"
+    publishedDateTime: 2021-01-25T18:48:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HfPpPGh7P_4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/biden-coronavirus-travel-restrictions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/biden-coronavirus-travel-restrictions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125124916-biden-eo-lifts-transgender-ban-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: Rand Paul says convicting Trump would 'destroy' GOP"
+    excerpt: "Sometime shortly after President-elect Joe Biden is sworn in as the 46th President of the United States on Wednesday, the Senate will likely begin the impeachment trial of soon-to-be-former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-01-18T23:30:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vjfA7e1Wa2o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/rand-paul-senate-conviction-trump-gop/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/rand-paul-senate-conviction-trump-gop/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200322135035-01-rand-paul-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Birx: I always considered quitting Trump's White House Covid task force"
+    excerpt: "Dr. Deborah Birx \"always\" considered quitting then-President Donald Trump's White House coronavirus task force and was troubled by colleagues' perceptions that she had become political, she said in an interview clip released Friday.\n    \n"
+    publishedDateTime: 2021-01-23T02:10:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xMutAa4evAQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-house-covid-task-force/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-house-covid-task-force/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222145539-deborah-birx-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden replaces controversial White House physician"
+    excerpt: "President Joe Biden has replaced the controversial White House physician who offered misleading information about President Donald Trump's coronavirus diagnosis last fall.\n    \n"
+    publishedDateTime: 2021-01-25T13:41:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KEkDOCkuViM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/sean-conley-white-house-physician/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/sean-conley-white-house-physician/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005151803-01-sean-conley-walter-reed-1005---screenshot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump transformed the Supreme Court that mostly helped advance his agenda"
+    excerpt: "President Donald Trump will exit the White House on Wednesday but leave behind three of the nine Supreme Court justices and a majority that was willing to partner with him for much of his agenda.\n    \n"
+    publishedDateTime: 2021-01-19T12:33:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/96XkejHQPo4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/trump-supreme-court-legacy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/trump-supreme-court-legacy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118152846-01-trump-barrett-0926-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump adviser says former President not currently considering launching a third party "
+    excerpt: "Former President Donald Trump remains committed to reelecting Republicans and is not currently considering launching a third party, a senior Trump adviser said Sunday while noting that things could change.\n    \n"
+    publishedDateTime: 2021-01-25T00:27:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dC9fFTFNj-Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/politics/trump-republican-party/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/trump-republican-party/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210123004326-04-donald-trump-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Prospects of convicting Trump erode as GOP grows vocal against Senate impeachment proceedings"
+    excerpt: "The path in the Senate to convict Donald Trump is extremely slim, with a growing number of Republicans expressing confidence that the party will acquit the former President on a charge that he incited the deadly insurrection aimed at stopping President Joe Biden's electoral win.\n    \n"
+    publishedDateTime: 2021-01-22T22:17:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KUEk3cRU-_U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/senate-republicans-trump-impeachment-case/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/senate-republicans-trump-impeachment-case/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022170329-21b-john-cornyn-play-button-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump to lift Covid-19 related travel restrictions before he leaves office, White House official says"
+    excerpt: "President Donald Trump is expected to lift coronavirus-related travel restrictions starting on January 26, nearly a week after he leaves office, a White House official said Monday.\n    \n"
+    publishedDateTime: 2021-01-19T00:27:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e1Olf9wbdXY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/trump-covid-travel-restrictions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/trump-covid-travel-restrictions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118002735-05-donald-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Start of Trump's impeachment trial remains unsettled as Pelosi refuses to say when she'll send over article"
     excerpt: "The timing of former President Donald Trump's Senate impeachment trial is still unsettled while Senate leaders haggle over how a power-sharing agreement will govern a 50-50 Senate.\n    \n"
-    publishedDateTime: 2021-01-22T02:55:43Z
+    publishedDateTime: 2021-01-21T16:45:21Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rjYhHedOgIc/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
@@ -41,11 +169,43 @@ related:
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 157
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113164531-02-pelosi-gavel-house-impeachment-vote-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden set to meet with first Black defense secretary as administration is poised to lift transgender military ban"
+    excerpt: "President Joe Biden is set to meet Monday morning with Defense Secretary Lloyd Austin, as the President is poised to repeal a Trump-era ban on most transgender Americans joining the military as early as Monday.\n    \n"
+    publishedDateTime: 2021-01-25T16:35:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uqxM1f4i9WE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/lloyd-austin-transgender-military-harris-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/lloyd-austin-transgender-military-harris-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125103833-biden-harris-austin-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Congress passes coronavirus relief bill, but Trump criticizes deal"
+    excerpt: "President Donald Trump had been expected to sign the bill in days, but he then called for bigger payments. He didn't directly say he would veto it."
+    publishedDateTime: 2020-12-23T11:50:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-12-22-covid-live-updates-vaccine-news-n1252058"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1252058"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1252058"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3436937/201220-covid-live-blog-social-only_430f30c4e08497ebcf945e5d49426121.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "Wall Street Journal: Trump pressured DOJ to file case with Supreme Court to overturn election results"
     excerpt: "Former President Donald Trump pushed the Department of Justice to directly ask the Supreme Court to invalidate President Joe Biden's election win, people familiar with the matter told the Wall Street Journal."
@@ -63,51 +223,51 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump leaves office with little to show of his major promises, and a legacy of violent divisiveness"
-    excerpt: "Donald Trump promised to end \"American carnage\" and \"Make America Great Again.\" Four years later, he leaves with those goals far from reach."
-    publishedDateTime: 2021-01-20T08:14:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/impeached-twice-still-no-wall-mr-trump-goes-washington-n1254757"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254757"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254757"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 121
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_03/3443223/210119-analysis-inauguration-donald-trump-ew-202p_0238d95931f19103802ae05b7106c67e.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "‘It Will Be Soon,’ Pelosi Says of Trump Impeachment Trial"
-    excerpt: "Speaker Nancy Pelosi said the impeachment charge against former President Donald J. Trump would be sent to the Senate for trial “soon,” but didn’t pinpoint a date."
-    publishedDateTime: 2021-01-21T20:29:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007563439/pelosi-trump-impeachment-trial.html"
+  - title: "The Trial of Donald Trump: The Sequel"
+    excerpt: "Readers criticize both Republicans and Democrats for increasing divisiveness and disagree about the best way to hold Mr. Trump accountable."
+    publishedDateTime: 2021-01-25T17:48:00Z
+    webUrl: "https://www.nytimes.com/2021/01/25/opinion/letters/trump-impeachment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/25/opinion/letters/trump-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/25/opinion/letters/trump-impeachment.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 115
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/01/21/us/politics/21transition-impeach-sub/21transition-impeach-sub-facebookJumbo.jpg?video-overlay"
+      - url: "https://static01.nyt.com/images/2021/01/25/us/25-DC-IMPEACH-01-PRINT/merlin_182307399_f6bd267f-8e7f-4361-bf7e-31f0e440da09-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump goes MIA as former aides deal with the harm he caused them"
-    excerpt: "The former president has all but vanished from public view while his former team navigates an unforgiving job market."
-    publishedDateTime: 2021-01-25T09:35:00Z
-    webUrl: "https://www.politico.com/news/2021/01/25/donald-trump-post-presidency-462018"
+  - title: "Deborah Birx: ‘Parallel set of data’ on Covid-19 was delivered to Trump"
+    excerpt: "I saw the president presenting graphs that I never made,” the former White House coronavirus response coordinator told CBS."
+    publishedDateTime: 2021-01-24T19:17:00Z
+    webUrl: "https://www.politico.com/news/2021/01/24/birx-trump-parallel-covid-data-461928"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/08/a8/392ef9a94eed8c8874a63a6dfb6d/20210124-donald-trump-ap-773.jpg"
+      - url: "https://static.politico.com/92/d3/8d87f9234321969aed4ab15a9ec4/210124-birx-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Oh, the irony. Republican claims credit for idea to auction off blowing up Trump Plaza"
+    excerpt: "But Atlantic City Mayor Marty Small insists the auction idea was his. Fitzgerald said if things had gone his way, the auction may not have fallen through and may have gotten a higher bid before it was canceled,"
+    publishedDateTime: 2021-01-22T10:00:00Z
+    webUrl: "https://www.politico.com/states/new-jersey/story/2021/01/22/oh-the-irony-republican-claims-credit-for-idea-to-auction-off-blowing-up-trump-plaza-1359123"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 107
+    images:
+      - url: "https://static.politico.com/ce/b9/ed00b16c4632a38003f7456445d1/ap17331787586679-c.jpg"
         width: 1160
         height: 773
         isCached: true
 
-secured: "7MrjBkaOVMya2KdkiRaAJIIdnUp2Z/pBgLHPQsJE++mmJzKA34BEH9Xsd6G9IaC04kO38xQj3jnTLaFEuzFJqmBOteWL0yCo3Iua7F+bJc8FMlIm1PzX3Au2SMbEIX0kjc94i+9sLZbaMWveIfYv2e4Yrm0yaSkjc4D/IIYHKGN9m5dS55DejQz46MdbLgjnChrdVRwst9h2lthmTeghMnEVRTf40gIWErTBKpULPPxO/YZZ0scBxI2YJomPeEytEowdUYIXR8ckU1jzx7WEIlb1Hn9W5xgiynjuDCcptbYjom6yK5LDZJzVCehtPu1i6rr9jARbgDR0Wk9j3HjpXiZxsDjWKBUc7wVGMwK3kAI=;FNjNVc3YYnNnLwkeanHrsA=="
+secured: "KqYACLAHxfM/vr/9iHDUObO+pbyGWxr4V+2x2x0XIsLE5qUCiW5N8tV+oASsNCDXOKCdG4uUJt8lMd/t0twi2rERh/0ZBhvWe7BlR6S/Fqa9rtCQc7qdwiTDAefN+af3W3gTyWDctARuBKoqfzHn3W91fTxjWTyMpMBN7JKItKtnqXd31VSmbof5DR4UVUPyCpiN+KnhL5qYuob+fpQ+CjMjEvU+siOpg7EL1M2p2z+/iInAHbOzmBSTXP3O/lCchidPxV6NTC9u10mp48uO7g6K9Ty5G6kpGvFu81BIwNXRkzgcoio/HrQZQgpou/Y4L2a+q+RdM50dHTuw3tWfeOxr7dD38aF3I3sO7rbMmzE=;lhwGwgY8tamQH0W1XKaDKQ=="
 ---
 

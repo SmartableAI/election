@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-15-fact-check-was-a-biden-campaign-official-arrested.md",
+      "title": "Fact Check: Was a Biden Campaign Official Arrested?",
+      "excerpt": "A woman was arrested in Texas on multiple counts of voter fraud, causing social media users to make claims about who she was working for.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/fact-check-was-biden-campaign-official-arrested-1561777",
+      "originalUrl": "https://www.newsweek.com/fact-check-was-biden-campaign-official-arrested-1561777",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1683033/ken-paxton-files-election-lawsuit-supreme-court.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/fact-check-was-biden-campaign-official-arrested-1561777?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-was-biden-campaign-official-arrested-1561777?amp=1",
+      "publishedDateTime": "2021-01-14T14:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-biden-picks-samantha-power-former-un-envoy-for-us-aid-post.md",
       "title": "Biden picks Samantha Power, former UN envoy, for US aid post",
       "excerpt": "President-elect Joe Biden has selected Samantha Power, the U.S. ambassador to the United Nations under President Barack Obama, to run the U.S. Agency for International Development",
@@ -1493,58 +1545,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-29-how-joe-bidens-cold-war-experience-will-shape-his-approach-to-russia.md",
-      "title": "How Joe Biden’s cold war experience will shape his approach to Russia",
-      "excerpt": "President-elect’s formative years of going toe-to-toe with the USSR on arms control hint at how he may deal with Putin",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2020/dec/29/how-joe-biden-cold-war-experience-will-shape-approach-to-russia",
-      "originalUrl": "https://www.theguardian.com/us-news/2020/dec/29/how-joe-biden-cold-war-experience-will-shape-approach-to-russia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/874f7bf1c2a60b5e92d5ba0b61e5c77539550373/0_0_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=168c42250400e9089455a630c0cb98d5",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2020/dec/29/how-joe-biden-cold-war-experience-will-shape-approach-to-russia",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/dec/29/how-joe-biden-cold-war-experience-will-shape-approach-to-russia",
-      "publishedDateTime": "2020-12-28T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

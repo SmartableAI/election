@@ -2620,6 +2620,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Champ and Major, President Biden's dogs, move into the White House"
+    excerpt: "The White House just became the dog house. The White House recently shared photos of President Joe Biden’s dogs, Champ and Major, on the grounds of 1600 Pennsylvania Avenue. The two pets have officially moved into the residence,"
+    publishedDateTime: 2021-01-25T17:36:00Z
+    webUrl: "https://www.foxnews.com/lifestyle/champ-major-president-dogs-white-house"
+    ampWebUrl: "https://www.foxnews.com/lifestyle/champ-major-president-dogs-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/champ-major-president-dogs-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/thumbnail_image2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump must be barred from post-presidency intelligence briefings: Schiff"
     excerpt: "House Intelligence Committee Chairman Rep. Adam Schiff said Sunday that President Trump should be barred from receiving intelligence briefings after he leaves office, an opportunity traditionally extended to former presidents."
     publishedDateTime: 2021-01-17T18:48:00Z
@@ -3062,6 +3078,15 @@ related:
     excerpt: "After the election, Steve Gray of Gillette, Wyoming left CNN a voicemail saying he feared his home will become a ghost town under President Joe Biden. John Sutter traveled to Gillette to meet Gray. He asks: In the fight against the climate crisis,"
     publishedDateTime: 2021-01-24T12:01:00Z
     webUrl: "https://www.realclearpolitics.com/2021/01/24/energy_capital_of_us_may_become_a_ghost_town_under_biden_534259.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
+  - title: "What Latinos Want to Hear From Biden"
+    excerpt: "Ed Morales writes that while the inauguration of Joe Biden was a welcome relief after four years of Donald Trump's constant demonization of Latinos, it's going to take more than symbolic gestures of inclusion to address the needs of this often fragmented ethno-racial group which too often feels overlooked."
+    publishedDateTime: 2021-01-25T18:50:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/25/what_latinos_want_to_hear_from_biden_534310.html"
     type: article
     provider:
       name: RealClearPolitics

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deborah Birx said Trump was being given ‘parallel data’ on covid-19"
+    excerpt: "Deborax Birx saw Trump presenting graphs that she never made, the former White House coronavirus response coordinator said Sunday."
+    publishedDateTime: 2021-01-25T16:03:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/01/25/deborah-birx-interview-trump-covid/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2021/01/25/deborah-birx-interview-trump-covid/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/01/25/deborah-birx-interview-trump-covid/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/thumbnails/600dddea4cedfd000169c37a/2021-01-24T204202Z_1_OVDWKJOWV_RTRMADC_0_HEALTH-CORONAVIRUS-USA.jpg&w=1440"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Deborah Brix Says Some Donald Trump White House Staff Believed COVID Was a Hoax"
     excerpt: "\"I saw the president presenting graphs that I never made... Someone inside was creating a parallel set of data and graphics that were shown to the president,\" the former coordinator of the Trump administration's coronavirus task force said."
     publishedDateTime: 2021-01-24T14:46:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1714832/dr-deborah-birx.jpg"
         width: 2500
         height: 1650
-        isCached: true
-  - title: "No, band did not play ‘Hit the Road Jack’ as Trump left White House"
-    excerpt: "And Trump did not pardon Joe Exotic of “Tiger King” before leaving office. Read on to find out the facts behind bogus posts on social media this week."
-    publishedDateTime: 2021-01-24T14:39:00Z
-    webUrl: "https://www.al.com/news/2021/01/no-band-did-not-play-hit-the-road-jack-as-trump-left-white-house.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/no-band-did-not-play-hit-the-road-jack-as-trump-left-white-house.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/no-band-did-not-play-hit-the-road-jack-as-trump-left-white-house.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7V5KWUI3HNHQ3OQWOT47HULYEU.jpg"
-        width: 1818
-        height: 1855
         isCached: true
 
 secured: "xJmj5dUn1+Q+T5g/+mpKx7bdU/0CYz6pdGWGdmKADwJmms40qrvAqYzI3Hgg6MFj78V5dVtmHDHDHQvigYvsIz6T5dNFvR6n5O+3ENZ3u3nsDjyaZNMstm404t1GhS8yFu/B3KxMZljBC30NM17RGLv0ccvkpzX+yqQZxXa1TD66gTM+63PtsenrYTO2i+le1EpM6GetJF7NUupXKGxkK5mDKMkz44bPyQRm2+qXSQBMh/Bw/cjT8Sp7CeBEMbUR/KhgBO1o4mfLthpgHfoJZ5Q/rHDc9fn4vFOQSGWwNm1WgtLS0KzkEbkqLsOl0YxSwTrVEA7yMCFdMjmX5hGteRkVipaoygfHmGOPm0VhDWc=;1y83r07rrndTHMywB/lcpA=="

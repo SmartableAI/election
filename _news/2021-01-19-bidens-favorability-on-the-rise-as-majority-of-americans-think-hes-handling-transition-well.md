@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/cnn-poll-biden-favorabil
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/cnn-poll-biden-favorability/index.html"
 type: article
 quality: 164
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120202424-03-biden-executive-order-0120-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Poll: Majority of Americans support Trump impeachment and conviction"
+    excerpt: "The poll found 56 percent of Americans approve of the the House of Representatives impeaching Trump for his role in inciting the Jan. 6 riots."
+    publishedDateTime: 2021-01-25T18:52:00Z
+    webUrl: "https://www.politico.com/news/2021/01/25/majority-supports-trump-impeachment-462264"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/25/majority-supports-trump-impeachment-462264"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/25/majority-supports-trump-impeachment-462264"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/27/2e/35dd6d1e45b194a56eb16e1887b8/gettyimages-1230692458-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "jrBE4Rpznht87bf1SeZVZ2CO0HjwVSl5bQP6HNg1vlJPwqZnKmoNBalqNP2ENZ9akHYK0sF2lsNm9TyF8joTLhcJgepEqRO971bqdn1ClZAD9livIsdI85G3lWPONXmcNnXp8vIRWlQNd8h4kZdLWtA1H5J6M+UG2vORn3oWNzkra+NGjvXBASlR6Ud6913wFLxqmCV0PiMavR5qwzPo83beSUxyrqVMSgncXn3aq6aow9NGPjOIQcH1xV9RuDA9ptC/bqeYnMNHA33VQnE1KbT1ULVGf4AHUcEmxl/li/GIFOayg96N8FI5ERCw3CIXaHjzdMiedXQvTNeGGWHsvpdRUKEvMpUK2RdSUCzX/n8=;fPyJjg9q2zeOtMWzdF0Cvg=="

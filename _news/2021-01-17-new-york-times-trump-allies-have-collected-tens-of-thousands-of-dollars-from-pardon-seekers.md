@@ -95,38 +95,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Prospects of convicting Trump erode as GOP grows vocal against Senate impeachment proceedings"
-    excerpt: "The path in the Senate to convict Donald Trump is extremely slim, with a growing number of Republicans expressing confidence that the party will acquit the former President on a charge that he incited the deadly insurrection aimed at stopping President Joe Biden's electoral win.\n    \n"
-    publishedDateTime: 2021-01-22T22:17:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KUEk3cRU-_U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/senate-republicans-trump-impeachment-case/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/senate-republicans-trump-impeachment-case/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022170329-21b-john-cornyn-play-button-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Start of Trump's impeachment trial remains unsettled as Pelosi refuses to say when she'll send over article"
-    excerpt: "The timing of former President Donald Trump's Senate impeachment trial is still unsettled while Senate leaders haggle over how a power-sharing agreement will govern a 50-50 Senate.\n    \n"
-    publishedDateTime: 2021-01-21T16:45:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rjYhHedOgIc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 157
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113164531-02-pelosi-gavel-house-impeachment-vote-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "TblQMkuZWRAo8/8olGwkjd8w1aAi1V9MZEddFWnzF8iqnh6UD3fTwgXyzv5W38dSgURJ8MXJRj+8p50tk0/AIkfETb0JsDp27oxvcbHMkeqS4apIp5GalLwS/tioK9nZ0U9HHBpsEwi1EIV9KQO0y5/2gWEPt0mWregPN0pWnwC9UrGC6xQRFuB0Rt4RJV+zXTlVbxNyiICgKMbd/rGB6lQqk/Clp9xdFWdak8Aiap5iR317pfi3DtMbGAuYmQPhT/PB7mjtlmkKbL9DSuRydyW1EMuWyESLUrVKYDB3IW0405gcu0gHTy1y0UCvBFBCoD1YxV+YRz1tQnTqoK1C+CzG2I76SunW6erLKD10tZI=;eyBslNXXSJIPJ15TiM3iAw=="
 ---

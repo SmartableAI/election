@@ -2,6 +2,166 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-12-05-appeals-court-oks-trump-taking-military-money-for-border-wall.md",
+      "title": "Appeals court OKs Trump taking military money for border wall",
+      "excerpt": "A federal appeals court ruled Friday that a lower court was wrong to bar the Trump administration from taking $3.6 billion from military construction projects for a border wall.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TMpGEJpfbg/appeals-court-rules-for-trump-taking-military-money-for-wall",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7TMpGEJpfbg/appeals-court-rules-for-trump-taking-military-money-for-wall",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20335694532390.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/appeals-court-rules-for-trump-taking-military-money-for-wall.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/appeals-court-rules-for-trump-taking-military-money-for-wall.amp",
+      "publishedDateTime": "2020-12-05T05:49:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-historians-sue-trump-administration-to-stop-bonfire-of-records-in-the-rose-garden.md",
+      "title": "Historians sue Trump administration to stop ‘bonfire of records in the Rose Garden’",
+      "excerpt": "The American Historical Association and other groups fear President Trump, Jared Kushner, Ivanka Trump and others in his inner circle may not preserve critical records",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/history/2020/12/05/trump-presidential-records-lawsuit-historians/",
+      "originalUrl": "https://www.washingtonpost.com/history/2020/12/05/trump-presidential-records-lawsuit-historians/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AORK3MQIWQI6XBYZBXYVTUKHSQ.jpg&w=1440",
+          "width": 1440,
+          "height": 959,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/history/2020/12/05/trump-presidential-records-lawsuit-historians/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/12/05/trump-presidential-records-lawsuit-historians/?outputType=amp",
+      "publishedDateTime": "2020-12-05T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-12-05-trump-to-withdraw-most-troops-from-somalia-as-part-of-global-pullback.md",
+      "title": "Trump to withdraw most troops from Somalia as part of global pullback",
+      "excerpt": "President Donald Trump has ordered nearly all American troops to withdraw from Somalia, U.S. officials said on Friday, part of a global pullback by the Republican president before he leaves office next month that will also see him drawdown forces in Afghanistan and Iraq.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/worldNews/idUSKBN28E33X",
+      "originalUrl": "https://www.reuters.com/article/worldNews/idUSKBN28E33X",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201205&t=2&i=1543519135&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB401X",
+          "width": 825,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28F04C",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28F04C",
+      "publishedDateTime": "2020-12-04T23:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-05-trump-campaign-paid-dechert-164k-for-recount-related-legal-services-fec-filings-show.md",
       "title": "Trump campaign paid Dechert $164K for 'recount' related legal services, FEC filings show",
       "excerpt": "U.S. President Donald Trump's campaign last month paid more than $164,000 to Dechert, a law firm that during the 2020 election touted its work on pro bono voting rights cases in which it often faced off against Republican-backed lawyers.",
@@ -1177,170 +1337,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m.md",
-      "title": "Coronavirus live news: Biden to ask Americans to wear masks for 100 days as global deaths pass 1.5m",
-      "excerpt": "Biden will ask Americans to wear masks for his first 100 days in office; Italy approves Christmas restrictions; Iran’s cases top 1m",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc97cce8f08d350f1751189",
-      "originalUrl": "https://www.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m?page=with:block-5fc97cce8f08d350f1751189",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/f7bf741bb5ed58d1d1a7ab5eb7e7e64a7344f762/0_389_5769_3462/master/5769.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4c7d46d692f3f408174b8245cb43dcab",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2020/dec/04/coronavirus-live-news-biden-to-ask-americans-to-wear-masks-for-100-days-as-global-deaths-pass-15m",
-      "publishedDateTime": "2020-12-03T16:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-tulsi-gabbard-urges-trump-not-to-back-down-against-big-tech.md",
-      "title": "Tulsi Gabbard urges Trump not to 'back down' against Big Tech",
-      "excerpt": "Democratic Hawaii Rep. Tulsi Gabbard urged President Trump to stand his ground in a legislative fight against Big Tech Wednesday night -- after the commander-in-chief threatened to veto a defense spending bill if it didn’t also repeal federal protections for social media companies from certain liabilities.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ekdGbOKa7Rs/tulsi-gabbard-trump-big-tech",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ekdGbOKa7Rs/tulsi-gabbard-trump-big-tech",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Gabbard-GETTY.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tulsi-gabbard-trump-big-tech.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tulsi-gabbard-trump-big-tech.amp",
-      "publishedDateTime": "2020-12-03T16:06:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-romney-calls-trumps-leadership-on-covid-19-a-great-human-tragedy.md",
-      "title": "Romney calls Trump's leadership on Covid-19 'a great human tragedy'",
-      "excerpt": "Republican Sen. Mitt Romney on Thursday blasted President Donald Trump's leadership -- or lack thereof -- during the deadly coronavirus pandemic as \"a great human tragedy.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K3U2LsdyrRM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K3U2LsdyrRM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200205144611-02-romney-trump-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/03/politics/mitt-romney-trump-coronavirus-leadership/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/politics/mitt-romney-trump-coronavirus-leadership/index.html",
-      "publishedDateTime": "2020-12-03T15:44:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

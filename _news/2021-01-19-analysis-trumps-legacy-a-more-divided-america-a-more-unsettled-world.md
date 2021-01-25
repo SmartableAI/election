@@ -309,6 +309,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ex-Trump spokeswoman Sanders running for Arkansas governor"
+    excerpt: "LITTLE ROCK, Ark. (AP) — Sarah Sanders, Donald Trump’s former chief spokeswoman and one of his closest aides, announced Monday she’s running for Arkansas governor, vying for political office even as the former president’s legacy is clouded by an impeachment charge that he incited the deadly siege at the U."
+    publishedDateTime: 2021-01-25T18:42:00Z
+    webUrl: "https://www.businessinsider.com/ex-trump-spokeswoman-sanders-running-for-arkansas-governor-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/ex-trump-spokeswoman-sanders-running-for-arkansas-governor-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ex-trump-spokeswoman-sanders-running-for-arkansas-governor-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Analysis - Trump's legacy: A more divided America, a more unsettled world"
     excerpt: "Closing out his presidency exactly four years later, Trump leaves behind an even more polarized America, where thousands are dying daily from the COVID-19 pandemic, the economy is badly damaged and political violence has surged."
     publishedDateTime: 2021-01-19T16:35:00Z

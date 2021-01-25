@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/12/29/politics/biden-nuclear-cuts-arms-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/29/politics/biden-nuclear-cuts-arms-control-russia/index.html"
 type: article
 quality: 179
-heat: 359
+heat: 339
 published: true
 
 provider:
@@ -142,22 +142,6 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_52/3437281/201221-donald-trump-jm-1552_f80396144228909ae975473c07ed3e33.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Congress passes coronavirus relief bill, but Trump criticizes deal"
-    excerpt: "President Donald Trump had been expected to sign the bill in days, but he then called for bigger payments. He didn't directly say he would veto it."
-    publishedDateTime: 2020-12-23T11:50:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-12-22-covid-live-updates-vaccine-news-n1252058"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1252058"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1252058"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_51/3436937/201220-covid-live-blog-social-only_430f30c4e08497ebcf945e5d49426121.jpg"
-        width: 2500
-        height: 1250
         isCached: true
   - title: "Trump Pardons Two Russia Inquiry Figures and Blackwater Guards"
     excerpt: "Christmas wave of 20 pardons and commutations are not likely to be the last before Mr. Trump leaves office on Jan. 20."

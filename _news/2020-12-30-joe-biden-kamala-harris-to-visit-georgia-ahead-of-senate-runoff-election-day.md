@@ -43,20 +43,6 @@ related:
         width: 992
         height: 559
         isCached: true
-  - title: "Willie Brown: How Kamala Harris can be the face of the Biden administration"
-    excerpt: "Make no mistake, President Biden is the star of the new administration. But it was our own Kamala Harris in her new role as the multiracial, multicultural, Democratic female power ideal who stole the show on Inauguration Day."
-    publishedDateTime: 2021-01-23T12:00:00Z
-    webUrl: "https://www.houstonchronicle.com/bayarea/williesworld/article/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 118
-    images:
-      - url: "https://s.hdnux.com/photos/01/16/20/70/20516384/16/rawImage.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
   - title: "Joe Biden, Kamala Harris heading to Georgia for last-minute campaign stops"
     excerpt: "President-elect Joseph R. Biden and Vice President-elect Sen. Kamala D. Harris are heading south next week for some last-minute campaigning ahead of two U.S. Senate runoffs in Georgia that will determine control of the chamber next year."
     publishedDateTime: 2020-12-30T00:00:00Z
@@ -72,6 +58,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/12/28/Biden_31600.jpg-5db22_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Willie Brown: How Kamala Harris can be the face of the Biden administration"
+    excerpt: "Make no mistake, President Biden is the star of the new administration. But it was our own Kamala Harris in her new role as the multiracial, multicultural, Democratic female power ideal who stole the show on Inauguration Day."
+    publishedDateTime: 2021-01-23T12:00:00Z
+    webUrl: "https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
+    ampWebUrl: "https://www.sfchronicle.com/bayarea/williesworld/amp/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/williesworld/amp/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 88
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/20/70/20516384/16/rawImage.jpg"
+        width: 2048
+        height: 1367
         isCached: true
   - title: "Reports: Joe Biden to pick Jaime Harrison as DNC chair"
     excerpt: "Jaime Harrison, who challenged Lindsey Graham for his Senate seat during the past election, will be the new chair of the Democratic National Committee, according to media reports."

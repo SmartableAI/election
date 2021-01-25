@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump is threatening to form the Patriot Party. That name has already been used — by ‘hillbilly’ socialists."
+    excerpt: "The original Patriot Party was a group of socialist radicals who sought to stoke revolutionary fervor among poor and working-class White people, decking themselves out in Confederate flags while taking their political inspiration from the Black Panthers."
+    publishedDateTime: 2021-01-25T17:24:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/01/25/patriot-party-history-socialist-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2021/01/25/patriot-party-history-socialist-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/01/25/patriot-party-history-socialist-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EJN6TCWUF5GYFMPY24WTPRXZ3M.jpg&w=1440"
+        width: 1440
+        height: 922
+        isCached: true
 
 secured: "jCYHxh3rT7XOTbzhZeWDu/69ktmZAWNlaNOkA3EYKyG99fubrLVJORrIi4PxnverjX8IwcL4iB/Dj+IKL7nih/IRWeOUJsPpZrQh2sZAi4gyCCXe9CafnJCB/GE9sn4uo4rSPlTA3kkOG40YUt1K2wAHAqL+OYcneguDj2TKp+ryZZGmIpzvdre14ZGMKAnvG/OvInMcaUij13h36cNanUZAeBLgNyD0L/Kgk61Wsc9zhZdsc1EmzPq3xPIa7M+Ww1vh0GEo3Jiqh4TddelIjkX75mq3LJcBTfbxndwVjDS9MNDRd+xLNV14yU5y6HT3KK2eFOcmQWIZVFOsKUBaG4I1ekFxl4tw1QN0tE7VdPp0iTMpuS9JdUsHkm1sIjeKnMgd6UcD4Zlz8gCyJbTqlSuI5KZ5qpCGFoM5hsWsty3GO1sab0gRxZYSozuWgutSO2kEnKXCba/HoVgLk/9kgJG4aWE7HbU5rMQ/7+CQNMxW4Af/Q8LBC3WYAXYd6G3nkPxktk/AYE78Rmj29x4JJg==;1MtrzS81iskPYiH1+XQpsw=="
 ---

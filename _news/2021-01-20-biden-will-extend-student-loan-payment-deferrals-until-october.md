@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/student-loan-payment-def
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/student-loan-payment-deferrals/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 275
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120131317-paris-climate-accord-biden-announces-us-to-rejoin-landmark-agreement-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden replaces controversial White House physician"
-    excerpt: "President Joe Biden has replaced the controversial White House physician who offered misleading information about President Donald Trump's coronavirus diagnosis last fall.\n    \n"
-    publishedDateTime: 2021-01-25T13:41:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KEkDOCkuViM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/sean-conley-white-house-physician/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/sean-conley-white-house-physician/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005151803-01-sean-conley-walter-reed-1005---screenshot-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

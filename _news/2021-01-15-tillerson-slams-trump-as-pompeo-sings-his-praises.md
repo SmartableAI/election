@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/tillerson-foreign-policy
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/tillerson-foreign-policy-interview/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 255
 published: true
 
 provider:
@@ -92,38 +92,6 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014145405-donald-trump-september-debate-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Prospects of convicting Trump erode as GOP grows vocal against Senate impeachment proceedings"
-    excerpt: "The path in the Senate to convict Donald Trump is extremely slim, with a growing number of Republicans expressing confidence that the party will acquit the former President on a charge that he incited the deadly insurrection aimed at stopping President Joe Biden's electoral win.\n    \n"
-    publishedDateTime: 2021-01-22T22:17:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KUEk3cRU-_U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/senate-republicans-trump-impeachment-case/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/senate-republicans-trump-impeachment-case/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022170329-21b-john-cornyn-play-button-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Start of Trump's impeachment trial remains unsettled as Pelosi refuses to say when she'll send over article"
-    excerpt: "The timing of former President Donald Trump's Senate impeachment trial is still unsettled while Senate leaders haggle over how a power-sharing agreement will govern a 50-50 Senate.\n    \n"
-    publishedDateTime: 2021-01-21T16:45:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rjYhHedOgIc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 157
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113164531-02-pelosi-gavel-house-impeachment-vote-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

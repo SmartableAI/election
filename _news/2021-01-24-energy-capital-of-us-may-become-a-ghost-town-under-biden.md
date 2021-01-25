@@ -2608,6 +2608,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Champ and Major, President Biden's dogs, move into the White House"
+    excerpt: "The White House just became the dog house. The White House recently shared photos of President Joe Biden’s dogs, Champ and Major, on the grounds of 1600 Pennsylvania Avenue. The two pets have officially moved into the residence,"
+    publishedDateTime: 2021-01-25T17:36:00Z
+    webUrl: "https://www.foxnews.com/lifestyle/champ-major-president-dogs-white-house"
+    ampWebUrl: "https://www.foxnews.com/lifestyle/champ-major-president-dogs-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/champ-major-president-dogs-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/thumbnail_image2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "As Biden inauguration approaches, federal prisons under full-on lockdown"
     excerpt: "Federal prisons throughout the country have been placed under full-on lockdown until further notice in the days leading up to the inauguration of President-elect Joe Biden and amid nationwide threats of unrest,"
     publishedDateTime: 2021-01-18T14:56:00Z
@@ -3057,6 +3073,15 @@ related:
     excerpt: "Thursday was Joe Biden's first day in office. You can tell a lot about what people are about on their first day in any job, so and crushing our country's last remaining independent economic sector."
     publishedDateTime: 2021-01-22T12:01:00Z
     webUrl: "https://www.realclearpolitics.com/2021/01/22/whats_at_top_of_bidens_to-do_list_opening_the_borders_534087.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
+  - title: "What Latinos Want to Hear From Biden"
+    excerpt: "Ed Morales writes that while the inauguration of Joe Biden was a welcome relief after four years of Donald Trump's constant demonization of Latinos, it's going to take more than symbolic gestures of inclusion to address the needs of this often fragmented ethno-racial group which too often feels overlooked."
+    publishedDateTime: 2021-01-25T18:50:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/25/what_latinos_want_to_hear_from_biden_534310.html"
     type: article
     provider:
       name: RealClearPolitics

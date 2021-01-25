@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/gop-lawyers-trump-impeac
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/gop-lawyers-trump-impeachment-senate/index.html"
 type: article
 quality: 157
-heat: -1
-published: false
+heat: 177
+published: true
 
 provider:
   name: CNN
@@ -31,111 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "McConnell privately says he wants Trump gone as Republicans quietly lobby him to convict"
-    excerpt: "As the House prepares to send articles of impeachment to the Senate on Monday, CNN has learned that dozens of influential Republicans around Washington -- including former top Trump administration officials -- have been quietly lobbying GOP members of Congress to impeach and convict Donald Trump. The"
-    publishedDateTime: 2021-01-22T18:51:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tVmuA9o9Zhk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachment-conviction-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachment-conviction-republicans/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122103730-01-trump-gop-impeachment-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Deepening Schism, McConnell Says Trump ‘Provoked’ Capitol Mob"
-    excerpt: "The Senate majority leader’s remarks were the clearest signal yet that he has come to regard President Trump as a force who could drag down the Republican Party."
-    publishedDateTime: 2021-01-20T01:40:00Z
-    webUrl: "https://www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/us/politics/mcconnell-trump-capitol-riot.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/20/us/politics/20dc-impeach-print1/merlin_182544633_d1e4184e-735b-489a-9ebb-4d606488bf5e-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "McConnell says Trump ‘provoked’ the Capitol attackers"
-    excerpt: "Senate Majority Leader Mitch McConnell on Tuesday said President Donald Trump “provoked” the rioters who stormed the Capitol earlier this month as Congress was certifying the presidential election results,"
-    publishedDateTime: 2021-01-20T04:06:00Z
-    webUrl: "https://www.politico.com/news/2021/01/19/mcconnell-trump-provoked-capitol-attackers-460372"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/01/19/mcconnell-trump-provoked-capitol-attackers-460372"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/19/mcconnell-trump-provoked-capitol-attackers-460372"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/b3/d9/6fec15f14316b8cfc913fc7c95a3/20210118-donaldtrump-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Live Updates: Ahead of Impeachment Trial, McConnell Says Capitol Assault Was ‘Provoked’ by Trump"
-    excerpt: "Senator Mitch McConnell said the mob that stormed the Capitol “was fed lies,” referring to attempts by President Trump to overturn the election based on bogus claims of voter fraud. The president is expected to issue dozens of pardons."
-    publishedDateTime: 2021-01-19T17:58:00Z
-    webUrl: "https://www.nytimes.com/live/2021/01/19/us/inauguration-day-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2021/01/19/us/inauguration-day-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/19/us/inauguration-day-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 122
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/19/us/19transition-briefing-promo1/19transition-briefing-promo1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "POLITICO Playbook PM: McConnell blames Trump for Jan. 6"
-    excerpt: "They are McConnell’s first floor remarks since Jan. 6. Remember, McConnell told his rank-and-file members that he has, essentially, not ruled out convicting President DONALD TRUMP. There is widespread agreement that if McConnell votes to convict Trump,"
-    publishedDateTime: 2021-01-19T18:03:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/01/19/mcconnell-blames-trump-for-jan-6-491453"
+  - title: "Trump goes MIA as former aides deal with the harm he caused them"
+    excerpt: "The former president has all but vanished from public view while his former team navigates an unforgiving job market."
+    publishedDateTime: 2021-01-25T09:35:00Z
+    webUrl: "https://www.politico.com/news/2021/01/25/donald-trump-post-presidency-462018"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/82/03/de6a881244faa0d89300229630d6/gettyimages-1297264903.jpg"
+      - url: "https://static.politico.com/08/a8/392ef9a94eed8c8874a63a6dfb6d/20210124-donald-trump-ap-773.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "The Trump implosion auction, brought to you by a Republican?"
-    excerpt: "One of my favorite stories of the past month or so has been the auction to push the button to blow up Trump Plaza. We know that it won’t happen. But would you believe the idea actually originated with a Republican former elected official,"
-    publishedDateTime: 2021-01-22T11:55:00Z
-    webUrl: "https://www.politico.com/newsletters/new-jersey-playbook/2021/01/22/the-trump-implosion-auction-brought-to-you-by-a-republican-491489"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
-  - title: "McConnell wants to push Trump's Senate impeachment trial to mid-February"
-    excerpt: "McConnell’s proposal is a deal to give both sides time to prepare for former President Donald Trump's second impeachment trial."
-    publishedDateTime: 2021-01-22T03:31:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/mcconnell-wants-push-trump-s-senate-impeachment-trial-february-n1255226"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 114
-    images:
-      - url: "https://media3.s-nbcnews.com/j/newscms/2021_03/3444082/210121-mitch-mcconnell-se-512p_743400cea8c8cb08490113ee7ff58353.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "ko9pPNqQ7JmLkLvOndhYw1ppJgx1LphTpBAT44vhQJxxPenXeLrFtIzmCX1XvH2AGI+WWbG0vvhk85iSzY986konwKIT7KvrwQ8MQYkWn3ttAo/1hztqKrqYs3rq7ErTbHDqfT5Pxpez4lZKwCrF6wsVTHn4zEjM72q4r9DBYduc8ZuawDlxPKOqy9D5qSPFFAuGVtF2vMBmzSMcU8XXW2TWesYPToVTlHy9YHVKKE9fa61+99qTpluRSRh4uJ1MaXtak8Chq1LTQUnl4p5A58MSwYCryWxHc1IP+Px+g+ptUb+PxbujLbu7lz+p0KdpibGZK/ikqT3KqbC5xwEHXcY4FCVQ6DVtsYQmzlHKafU=;sXwW1lEiCKuPIfYw7z2zFg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q30X"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q30X"
 type: article
 quality: 125
-heat: 725
+heat: 745
 published: true
 
 provider:
@@ -362,6 +362,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/5de4eb5cac671949cb78b93803332093363763bf/295_30_1390_834/master/1390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ecec2513e006d5e11260678a3b5bb2a1"
         width: 1200
         height: 630
+        isCached: true
+  - title: "House to deliver Trump impeachment charge today to Senate, where more Republicans say they are opposed to the trial"
+    excerpt: "House Democrats will carry the sole impeachment charge of “incitement of insurrection” across the Capitol late Monday evening."
+    publishedDateTime: 2021-01-25T18:50:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-impeachment-senate-trial-20210125-uowfdmbv4bchfc42bi5tcwh2g4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-impeachment-senate-trial-20210125-uowfdmbv4bchfc42bi5tcwh2g4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-impeachment-senate-trial-20210125-uowfdmbv4bchfc42bi5tcwh2g4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 103
+    images:
+      - url: "https://www.chicagotribune.com/resizer/k0RMIpwA1Jl7Du9qu6rRR7J80To=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PLWSBM34ZZFKRAIQ3OFFSUT3T4.JPG"
+        width: 1200
+        height: 675
         isCached: true
   - title: "To fight impeachment, Trump turns to ‘Butch’ Bowers, a South Carolina lawyer at a small firm who has defended state Republicans"
     excerpt: "Bowers is taking on his biggest case yet: defending former president Donald Trump in his second impeachment trial, this time against a charge that he incited a mob to attack the U.S. Capitol. The longtime GOP attorney is little known outside of South Carolina and has no powerhouse law firm behind him."

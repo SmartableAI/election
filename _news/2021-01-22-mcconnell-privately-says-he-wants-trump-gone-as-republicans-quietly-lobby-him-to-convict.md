@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/mcconnell-trump-impeachment-conviction-republicans/index.html"
 type: article
 quality: 166
-heat: 306
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Former Trump officials and other GOP lawyers urge senators to 'consider the evidence' in impeachment trial"
-    excerpt: "With the second impeachment trial of Donald Trump set to begin in February, nine prominent Republican lawyers, including two former officials in the Trump administration, have signed a letter urging GOP senators to \"consider the evidence\" before deciding how to vote on conviction.\n    \n"
-    publishedDateTime: 2021-01-25T15:38:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fEnQl6lFRGs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/gop-lawyers-trump-impeachment-senate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/gop-lawyers-trump-impeachment-senate/index.html"
+  - title: "McConnell proposes delaying impeachment trial until February so Trump team can prepare"
+    excerpt: "The timing of former President Donald Trump's Senate impeachment trial is still unsettled while Senate leaders haggle over how a power-sharing agreement will govern a 50-50 Senate.\n    \n"
+    publishedDateTime: 2021-01-22T02:55:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rjYhHedOgIc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/nancy-pelosi-impeachment-timing/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 157
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122180955-schumer-senate-floor-impeachment-timeline-screen-grab-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -109,19 +109,19 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "The Trump implosion auction, brought to you by a Republican?"
-    excerpt: "One of my favorite stories of the past month or so has been the auction to push the button to blow up Trump Plaza. We know that it won’t happen. But would you believe the idea actually originated with a Republican former elected official,"
-    publishedDateTime: 2021-01-22T11:55:00Z
-    webUrl: "https://www.politico.com/newsletters/new-jersey-playbook/2021/01/22/the-trump-implosion-auction-brought-to-you-by-a-republican-491489"
+  - title: "‘It Will Be Soon,’ Pelosi Says of Trump Impeachment Trial"
+    excerpt: "Speaker Nancy Pelosi said the impeachment charge against former President Donald J. Trump would be sent to the Senate for trial “soon,” but didn’t pinpoint a date."
+    publishedDateTime: 2021-01-21T20:29:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007563439/pelosi-trump-impeachment-trial.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
+      name: New York Times
+      domain: nytimes.com
     quality: 115
     images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
+      - url: "https://static01.nyt.com/images/2021/01/21/us/politics/21transition-impeach-sub/21transition-impeach-sub-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
   - title: "McConnell wants to push Trump's Senate impeachment trial to mid-February"
     excerpt: "McConnell’s proposal is a deal to give both sides time to prepare for former President Donald Trump's second impeachment trial."

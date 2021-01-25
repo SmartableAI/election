@@ -112,22 +112,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden set to meet with first Black defense secretary as administration is poised to lift transgender military ban"
-    excerpt: "President Joe Biden is set to meet Monday morning with Defense Secretary Lloyd Austin, as the President is poised to repeal a Trump-era ban on most transgender Americans joining the military as early as Monday.\n    \n"
-    publishedDateTime: 2021-01-25T16:35:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uqxM1f4i9WE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/lloyd-austin-transgender-military-harris-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/lloyd-austin-transgender-military-harris-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 154
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125103833-biden-harris-austin-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "'Armed protests' warning puts officials on alert this weekend ahead of Biden inauguration"
     excerpt: "Law enforcement and state officials are on high alert for potentially violent protests this weekend in the lead-up to Inauguration Day, with some state capitols boarded up and others temporarily closed ahead of Wednesday's ceremony."
     publishedDateTime: 2021-01-19T15:47:00Z
