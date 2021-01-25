@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Kamala Harris Celebrated In India"
-excerpt: "Kamala Harris’s ancestral village in southern India celebrated her swearing-in as vice president. Advertisement. Continue reading the main story"
+excerpt: "Kamala Harris’s ancestral village in southern India celebrated her swearing-in as vice president."
 publishedDateTime: 2021-01-22T15:48:00Z
-originalUrl: "https://www.nytimes.com/video/world/asia/100000007565507/kamala-harris-vice-president-india.html"
-webUrl: "https://www.nytimes.com/video/world/asia/100000007565507/kamala-harris-vice-president-india.html"
+originalUrl: "https://www.nytimes.com/video/world/asia/100000007565507/kamala-harris-vice-president-india.html?playlistId=video/latest-video"
+webUrl: "https://www.nytimes.com/video/world/asia/100000007565507/kamala-harris-vice-president-india.html?playlistId=video/latest-video"
 type: article
 quality: 115
 heat: -1
@@ -1674,6 +1674,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "JHvtB4HHemmD80nty3MjVCkbllbADNEvTlM4PG4MNWDjBKuW4rDLRKiIOq4YO1z9mc0oQo+c8WWUlmPn23p8u4NUMseIi/1rBhNWEElxj2+i+tjhyI4XgUuRA9w6l7xuZQTty4HQILeazpl/JwkdIQjCKAjxp33c2guIPd870gDwkBVRzhXgDPy2Hm5FBH2Dddkqe7Ytx9iji4F425SIHc06v6rws45H2gABkG9RYo2P37A5D+ytQSOJJ7nKkFV3MT3wNz1pAAOUkz+7hD41sZMVXCKJtO7NHDHt3i7Gn4qPiXs3wdTgjH167SfmixP0XVK30OlCqdBqTwf6jYXTSPQiIR1a2VCCcBqQdK55FuXDmi8mHm6xZunAgDiTaqN3T7CP4sGAp+RD6jHiOuEKxhwCZeMWctKzj+Bh31puiJrFre2CKjD46ljjTrl7b/BmJcoei1XLl92QpQUiLr9OsYVpBxM1CeoX23c2mVb4ApNAfTGf4zkh6vcj0dC5KLmyFjVqGxIkbfB2FoxqJy83rw==;OZ+v+spjNLvHrLjaqvqfxg=="
+secured: "7Y85/Ywe6sCRbC4bO3PTgh1ai5QZvdHDZHxS9WzkkZWXWgmk6BukSWHX5YeFzRPbC9qmuNXas+lla5mxR1iaEbyrVCiLX3UFEwS3xulOXRJT+iT5G6ARKceL987yoQonl39iIU0a8tmh+Ajp7b4dAc+hpXS8k22PNxhawKH+HesB4T4R9n8d1p2Kl5qfS4fXSYlBQ5nX30Ecz0GR14PcNTUwYLrCLUBCY+muCZHjU3mCd6sVCvkf38Z6BGi53zoJziEYklH6/q8UFxO96Q2/RkY5mxtTm3YL7tkPSKlZky5iuhvJoh1XmxLBrwY3p9bNHKwUdWvDxijN2kQaGPuS//WGzghhnB0ittuDrJWj+F0=;dshyWvliB6oz3w+LDN565Q=="
 ---
 

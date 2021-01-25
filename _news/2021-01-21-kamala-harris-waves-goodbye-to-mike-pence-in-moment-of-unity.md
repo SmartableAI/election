@@ -1606,9 +1606,9 @@ related:
         height: 550
         isCached: true
   - title: "Kamala Harris Celebrated In India"
-    excerpt: "Kamala Harris’s ancestral village in southern India celebrated her swearing-in as vice president. Advertisement. Continue reading the main story"
+    excerpt: "Kamala Harris’s ancestral village in southern India celebrated her swearing-in as vice president."
     publishedDateTime: 2021-01-22T15:48:00Z
-    webUrl: "https://www.nytimes.com/video/world/asia/100000007565507/kamala-harris-vice-president-india.html"
+    webUrl: "https://www.nytimes.com/video/world/asia/100000007565507/kamala-harris-vice-president-india.html?playlistId=video/latest-video"
     type: article
     provider:
       name: New York Times

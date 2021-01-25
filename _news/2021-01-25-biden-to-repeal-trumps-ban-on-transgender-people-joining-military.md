@@ -3,8 +3,8 @@ category: news
 title: "Biden to repeal Trump's ban on transgender people joining military"
 excerpt: "President Joe Biden is poised to repeal his predecessor Donald Trump's ban on transgender people enlisting in the U.S. military, a person familiar with the matter said."
 publishedDateTime: 2021-01-25T01:51:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-military-lgbt/biden-to-repeal-trumps-ban-on-transgender-people-joining-military-idUSKBN29T0Q8"
-webUrl: "https://www.reuters.com/article/us-usa-biden-military-lgbt/biden-to-repeal-trumps-ban-on-transgender-people-joining-military-idUSKBN29T0Q8"
+originalUrl: "https://www.reuters.com/article/us-usa-biden-military-lgbt-idUSKBN29T0Q8"
+webUrl: "https://www.reuters.com/article/us-usa-biden-military-lgbt-idUSKBN29T0Q8"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T0Q8"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T0Q8"
 type: article
@@ -5872,6 +5872,6 @@ related:
       domain: usnews.com
     quality: 50
 
-secured: "0nupGAj+4gN69XN8bbxNf732pztd/0BwdszoxGzsmF0PUcp1iMXzJ3kbMxMsgDbXq1myPD57wfvAbitsQn9ewWmq/qvF7xyDOOio4oiIpwYQ2IYyIlglAUmA/SBN/WPQxIsDxRYV7cFzjx+ElLICzTT2CgqqlNG7JuV+i1DzP7C8uge6sqxmnE1FZO7ol+gtD77QEkbgKXaG4f3F1zZMqIeHohN3qpYGnKyN66GiXimJ7NU4nOV1ieotbExB5JoPWlW0b9u5vz6o3AurHHNtC6T9ZFSeNJhKl7XhJSKz6CDXG+8ixieU7bm1SNulkjsCRyS+2pOIJCjUnPabXd8SM5Comu6Xl5bubISkfTEhi94=;cpDqdhWysVEIEi1+Mxx5yg=="
+secured: "bN1gU0iyLvBGk4qbxoOoV/+JtcX6OxAYZkCbiviBXF3zV2Km0ttXiDKhydyTJHb/n60gWDKZin3xBSd4v6hm2UCNFk/hqto+M19bqpHkpVaZ3QVUR6QlyJW8LuDNOnrfcCn7897v+VhyOm8eaFRAI3Oia8tkf109HzieskRGact7MVwvlVBVMhWnDwX/NIR4tbDsjoxirFfLYgLIUu1UKulBcRQaJpGDmZIo7/wKPMdRAchLpcDhPrLcEFZ7wMGzNNPGPZKLiNaFsCXQ68ElSmRMSQRCs9OAVJXyl7V0IhjZeWczF71qYC3DuuroUtREZs3+WLVwJEZUKoHU+pkHwJiHxLNIesfsBs9LcJue5hI=;2pseIWJTsh/9PNRNFgLpzg=="
 ---
 
