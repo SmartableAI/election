@@ -1177,6 +1177,22 @@ related:
         width: 840
         height: 545
         isCached: true
+  - title: "Biden to replace White House doctor with long-time physician"
+    excerpt: "President Joe Biden has commissioned Dr. Kevin O’Connor as his new White House physician, replacing Dr. Sean Conley in a role that became a source of controversy under former President Donald Trump’s four years in the White House."
+    publishedDateTime: 2021-01-25T10:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-replace-white-house-doctor-long-time-physician/story?id=75456901"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-replace-white-house-doctor-long-time-physician/story?id=75456901"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-replace-white-house-doctor-long-time-physician/story?id=75456901"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-covid-plan-gty-jef-210121_1611265986368_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden must find words for a wounded nation in inauguration like no other"
     excerpt: "Planners have been forced to be inventive after the deadly pandemic and now last week’s Capitol insurrection dictated a pared-down event"
     publishedDateTime: 2021-01-16T07:00:00Z
@@ -2143,6 +2159,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d9d5dfa9-1293-47d7-af11-8520b33e7510_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden aides push lawmakers for $1.9 trillion"
+    excerpt: "Posted [NFA] Officials in President Joe Biden's administration tried to head off Republican concerns that his $1.9 trilli"
+    publishedDateTime: 2021-01-25T10:25:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPWgc?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/600e6480e4b04d44576338ec-1611555972503?location=LANDSCAPE"
+        width: 2337
+        height: 1636
         isCached: true
   - title: "Crowd cheers as Biden leaves Georgetown church"
     excerpt: "Rough Cuts Crowd cheers as Biden leaves Georgetown church. Posted . U.S. President Joe Biden received cheers and waves from a small crowd on Sunday (January 24) as he left a churc"

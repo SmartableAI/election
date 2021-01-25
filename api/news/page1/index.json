@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-25-impeachment-guide-how-will-donald-trumps-second-senate-trial-unfold.md",
+      "title": "Impeachment guide: how will Donald Trump's second Senate trial unfold?",
+      "excerpt": "If the trial is successful it would allow the Senate to bar the former president from holding office in the future",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/25/trump-impeachment-explained-what-happens-how-does-it-work-senate-trial-guide",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/25/trump-impeachment-explained-what-happens-how-does-it-work-senate-trial-guide",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ffeef918a0039227abd2626c7b6eed4ffe0d8d2d/0_186_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ff8f9bea775fc88b7549ec396d789354",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/25/trump-impeachment-explained-what-happens-how-does-it-work-senate-trial-guide",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/25/trump-impeachment-explained-what-happens-how-does-it-work-senate-trial-guide",
+      "publishedDateTime": "2021-01-24T22:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-sarah-sanders-former-trump-press-secretary-to-run-for-arkansas-governor-reports.md",
       "title": "Sarah Sanders, former Trump press secretary, to run for Arkansas governor – reports",
       "excerpt": "A formal announcement is expected on Monday as the 38-year-old bids to succeed her father, Mike Huckabee, in the state leadership role",
@@ -1301,54 +1353,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-why-the-us-hispanic-conservative-movement-is-surging-even-without-trump.md",
-      "title": "Why the US Hispanic conservative movement is surging — even without Trump",
-      "excerpt": "Maria del Carmen Guzman-Weese stood with her mother and sister to take the oath of US citizenship. Then 17, Maria suddenly turned to her mother, and said: “I love this",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/01/23/why-the-us-hispanic-conservative-movement-is-surging-even-without-trump/",
-      "originalUrl": "https://nypost.com/2021/01/23/why-the-us-hispanic-conservative-movement-is-surging-even-without-trump/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/Viva-El-GOP.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/01/23/why-the-us-hispanic-conservative-movement-is-surging-even-without-trump/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/23/why-the-us-hispanic-conservative-movement-is-surging-even-without-trump/amp/",
-      "publishedDateTime": "2021-01-23T10:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

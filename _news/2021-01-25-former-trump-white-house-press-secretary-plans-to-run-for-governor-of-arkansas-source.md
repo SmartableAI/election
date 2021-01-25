@@ -31,35 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "House to send Trump impeachment article to Senate on Monday, Schumer says"
-    excerpt: "House Speaker Nancy Pelosi plans to send the article of impeachment against Donald Trump to the Senate on Monday."
-    publishedDateTime: 2021-01-22T15:58:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-impeachment-20210122-5zbdjqlyxvc7rat65nnnpd64bm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-impeachment-20210122-5zbdjqlyxvc7rat65nnnpd64bm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-impeachment-20210122-5zbdjqlyxvc7rat65nnnpd64bm-story.html?outputType=amp"
+  - title: "NATO Secretary General Jens Stoltenberg says ‘need to rebuild trust’ after Trump"
+    excerpt: "After four long years of Donald Trump’s attacks on NATO, Secretary General Jens Stoltenberg said Thursday that the defense alliance had survived the challenge — and that he looked forward to rebuilding the transatlantic relationship with President Biden."
+    publishedDateTime: 2021-01-22T00:17:00Z
+    webUrl: "https://www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 124
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
     images:
-      - url: "https://www.chicagotribune.com/resizer/txtVMfQsBEOT3_vC_uaHadgkG8E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QC2KMDNQQZCKVRKGAESVM5FG2U.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X4YM7ZC4C4I6XOF55Y3LDTIYX4.jpg&w=1440"
+        width: 1440
+        height: 908
         isCached: true
-  - title: "Chuck Schumer: Donald Trump impeachment trial will be full and fair – video"
-    excerpt: "The US Senate majority leader has said Nancy Pelosi would transmit the article of impeachment on Monday"
-    publishedDateTime: 2021-01-22T15:36:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/22/chuck-schumer-donald-trump-impeachment-trial-full-and-fair-video"
+  - title: "Trump Wanted to Erase Obama’s Legacy. He Failed."
+    excerpt: "Trump was supposedly poised to wipe away Obama’s achievements. And in a broader sense, the 45th president seemed to have overturned the country’s very sense of itself that Obama had cultivated. Four years later,"
+    publishedDateTime: 2021-01-18T12:16:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/01/trump-wanted-to-erase-obamas-legacy-he-failed.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/01/trump-wanted-to-erase-obamas-legacy-he-failed.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/01/trump-wanted-to-erase-obamas-legacy-he-failed.html"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 103
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
     images:
-      - url: "https://i.guim.co.uk/img/media/5de4eb5cac671949cb78b93803332093363763bf/295_30_1390_834/master/1390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ecec2513e006d5e11260678a3b5bb2a1"
+      - url: "https://pyxis.nymag.com/v1/imgs/dfa/daf/59b840bc23bd2e4c68bb72b13192dcf24e-obama-legacy.1x.rsocial.w1200.jpg"
         width: 1200
-        height: 630
+        height: 632
         isCached: true
 
 secured: "xIuqBy+8z7yr9onnlJhfzoGkh4zQ4xuz3wYv5weFL0M85x7pTPGXAgtto5EiA4VX3gCieSHNKd9YA+DzHKlMxYet7uYXHIskRVWH9Si/ILRzaommK6hKHVLLYXrvFB0vMRO+1n24pffawzYY5Dvt7dUaE8/+UR/6VidyQx1SiYUMaYz+dCliE0rAHzeUg+/aJ6lWGAi5kfflr7PXMoSbr/459y3+FJ80aMWMQax0phc2bq8Rjz1rsuAvPYl37dxHtg4TsD4dSVuK/j6D+C8D8gH5+NVC18/WibMXtXjTLfxBkjAn9i1Ax4ZDN6dhw6WiO3NXrBGbhPGnkPtMUsU+h/5VnJrTbJR15yGQY/VOFkI=;6vr1HPIwWYM017tlizL8og=="

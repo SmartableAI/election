@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/europe/nato-stoltenberg-trump-b
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
 type: article
 quality: 120
-heat: 140
+heat: 160
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Former Trump White House press secretary plans to run for governor of Arkansas: source"
+    excerpt: "Donald Trump's former White House press secretary Sarah Sanders will announce plans on Monday to run for governor of Arkansas, a source familiar with the situation said on Sunday."
+    publishedDateTime: 2021-01-25T06:56:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-press-secretary-idUSKBN29U04U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U04U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U04U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548913963&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O02I"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump Wanted to Erase Obama’s Legacy. He Failed."
     excerpt: "Trump was supposedly poised to wipe away Obama’s achievements. And in a broader sense, the 45th president seemed to have overturned the country’s very sense of itself that Obama had cultivated. Four years later,"
     publishedDateTime: 2021-01-18T12:16:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris was sworn in on a stack of Bibles — not a clutch purse"
 excerpt: "On Inauguration Day, Vice President Kamala Harris “put her clutch on top of the Bible so her hand is not touching it.” Vice President Kamala Harris took the oath of office on two Bibles. One belongs to a close family friend,"
 publishedDateTime: 2021-01-22T20:28:00Z
-originalUrl: "https://www.politifact.com/factchecks/2021/jan/22/facebook-posts/kamala-harris-was-sworn-stack-bibles-not-clutch-pu/?fbclid=IwAR180vjdP9d1AcsPhdiAK6TXePnn9f8DUqsvZtv_WTZOREF6hMKnJUk0C00"
-webUrl: "https://www.politifact.com/factchecks/2021/jan/22/facebook-posts/kamala-harris-was-sworn-stack-bibles-not-clutch-pu/?fbclid=IwAR180vjdP9d1AcsPhdiAK6TXePnn9f8DUqsvZtv_WTZOREF6hMKnJUk0C00"
+originalUrl: "https://www.politifact.com/factchecks/2021/jan/22/facebook-posts/kamala-harris-was-sworn-stack-bibles-not-clutch-pu/"
+webUrl: "https://www.politifact.com/factchecks/2021/jan/22/facebook-posts/kamala-harris-was-sworn-stack-bibles-not-clutch-pu/"
 type: article
 quality: 55
 heat: -1
@@ -3019,6 +3019,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "2QWTKtB3oFAZIukaCC0al5DQsnIe4kv9OQ2qoYssKX+Wb9++PdfpQMGdEjs81uiYOkzjDp6C8nIBCYajw3l7wRYbH+DzgzZXk/wSxZM4QiaYs3/1Fpgujsqv7qjGEsS+hkL5ET1WZagPx6CeUFI0hMcae5KtT/nvIVjOWNqTwUOaagrKsySDbpXwVsKMN1mcZqpE0YfblyksiCH0gc6HUWH9D2FE5eiC7un5kIF5LQuNzHiUGT6sw5teWgp8twSsaZLH39Lb9wqWwrUpUtLEg+UGv3upzo3qKth9QFbWCcvz0/hWMU5HSU6cOknoKMMFZoqi18MA1yYaQi9j4hQvQByLbkppGJ31zEX/7xYkOMI=;9qRGO9x+hS+hBsUcTn8sMQ=="
+secured: "MPSOU7XoGtD49o2SfNwxEY42ASjjaVXUyvzHnzlxJw8xPZVWH3PZfA9w5XY6xXMszv8gP6AWtrWnHwj6vYX1vdPCVgcY7cSEBT3JlNpTkjdbq+m/rNp4aZxQhsZHHv6qRWeeiezXWf8aMCvYKxK8c3TL6iMAX31SLEK8tUlblhMP4vYohC5EVyuJtd3g0HXJKhSAsJUb3SzL7PH7Pb6uwVOSC7mHROyY9V7ZLd7gLDvK97K38AoicSZmMBlL5reVUy2LkSJNUrzZBshkCoXbOpJmhxPKv6RZPQz5iP3zy5BYEyL0TUkhT6lnJy4tb2VvMyH7+2FAeFwQYKOo1mBlx7mi3MsL45M6vbmIEyazils=;/alHJwSpQpHWdRooqUt2oQ=="
 ---
 
