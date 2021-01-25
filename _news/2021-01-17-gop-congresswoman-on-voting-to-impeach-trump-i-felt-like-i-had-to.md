@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/gop-rep-jaime-herrera-beutler-on-vo
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/gop-rep-jaime-herrera-beutler-on-voting-to-impeach-trump-i-felt-like-i-had-to/"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -158,6 +158,20 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548764158&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1IU"
         width: 804
         height: 545
+        isCached: true
+  - title: "GOP lawmaker part of Trump's plan to oust AG -NYT"
+    excerpt: "NYT. Posted . A Republican U.S. congressman played a key role in former President Donald Trump's efforts to remove the to"
+    publishedDateTime: 2021-01-25T00:01:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDWKJPM3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210124&i=OVDWKJPM3&r=OVDWKJPM3&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Historians worry a Trump library will be an airbrushed 'MAGA' tribute to a twice-impeached president"
     excerpt: "It's not hard to image Trump's presidential library will burnish his tarnished legacy after he leaves office. Don't expect that to go smoothly."

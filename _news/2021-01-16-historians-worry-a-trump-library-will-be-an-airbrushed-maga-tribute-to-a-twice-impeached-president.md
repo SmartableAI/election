@@ -173,6 +173,20 @@ related:
         width: 804
         height: 545
         isCached: true
+  - title: "GOP lawmaker part of Trump's plan to oust AG -NYT"
+    excerpt: "NYT. Posted . A Republican U.S. congressman played a key role in former President Donald Trump's efforts to remove the to"
+    publishedDateTime: 2021-01-25T00:01:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDWKJPM3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210124&i=OVDWKJPM3&r=OVDWKJPM3&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Liz Cheney faces Wyoming backlash for Trump impeachment vote"
     excerpt: "Just before a mob unleashed a deadly rampage on the U.S. Capitol, President Donald Trump told tens of thousands of supporters that “we got to get rid” of Rep. Liz Cheney. The Wyoming congresswoman and No."
     publishedDateTime: 2021-01-19T03:26:00Z

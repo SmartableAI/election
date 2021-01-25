@@ -32,21 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Dustin Higgs becomes 13th and final inmate executed under Trump"
-    excerpt: "Another federal death row inmate in Indiana was executed early Saturday — marking final execution under the Trump administration, and the 13th since July. Dustin John Higgs, convicted of"
-    publishedDateTime: 2021-01-16T08:20:00Z
-    webUrl: "https://nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/"
-    ampWebUrl: "https://nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/16/dustin-higgs-becomes-13th-and-final-inmate-to-be-executed/amp/"
+  - title: "Trump adviser claims former president has no plans for third political party"
+    excerpt: "Former President Donald Trump has reportedly dropped plans to create a third political party and will instead focus his energies on helping Republicans win back the House and Senate in the 2022 midterms, Fox News has learned."
+    publishedDateTime: 2021-01-25T00:34:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5QGzXiloiXI/trump-has-no-plans-for-a-third-political-party"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-has-no-plans-for-a-third-political-party.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-has-no-plans-for-a-third-political-party.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21021665414903.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump offers first remarks since leaving office: 'We'll do something'"
+    excerpt: "Former President Donald Trump was mysterious about his future plans in his first public remarks since leaving the White House earlier this week, but he suggested action is in the works, according to a report."
+    publishedDateTime: 2021-01-24T21:12:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Dustin-John-Higgs.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ea90d02-cd6e-457c-b53e-f2fb5331749a/299a153c-3c94-492a-ad8f-7b19470806e9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "MnvbsRKXTIPTeUedAf/9Yvkob9l5jp4khm8CYpqf8Z8S8FVXSTvcHB5WaXfmXT2E8VAyxUJdv/A+a6ICeCTjBEjPXoQzPX6LPfArYw3RTvF4nAXWi8QqWBQ5tmwU7zjJHQZOmO415UNqzvuTs3A+02CT8z/4SAFAeoGFr4cg3/JU1860seihohV2KlRtqZbJ28wAnYl9s5BQX1ntRxRc6aLeES1mfPKXqyRTFhaWkkqUAVFEui9OmfrUForoFhh75FLCGI6gritSiNRehqRDTpor/6y+0yuMRzn7sKxLX9se4MAJjVMl2JpV4F77P06X8aD20GytS6s0os9GmB8Zcsb2GyHniyZv3RlNx6bjWWbOfA9fmR8vJPGY69G+LErukBQBD9OIHEvLm9zKfFCM+54/u6DFcshkdwgIqKHKqPxyiEA9dYOXFwqLYQGBABky7GRc6zRpT+mf3XRCT26TekhjA77qMYlBLqikYlvCQTaMQhDBrwOIfqdcjmVcs3EeIu+dq9mzbxT1n/r+u/esmw==;fGczSZlnhEJp5s8pfGWy2g=="

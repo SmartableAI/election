@@ -2143,6 +2143,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Biden to reinstate travel ban on certain non-U.S. travelers"
+    excerpt: "U.S. citizens who have recently been to South Africa, Brazil, the U.K. and Ireland in an effort to contain the spread of new Covid-19 variants. The South African strain is said to be 50% more infectious but has not been detected in the U."
+    publishedDateTime: 2021-01-24T23:59:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/biden-to-reinstate-travel-ban-on-certain-non-u-s-travelers-99948613953"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo99948613953"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99948613953"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202101/nn_sbre_south_africa_travel_ban_210124_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden will halt federal executions, other actions on first day in office"
     excerpt: "The president-elect has a long list of executive actions he plans to take as soon as he's sworn in on Jan. 20."
     publishedDateTime: 2021-01-18T13:21:00Z

@@ -719,6 +719,22 @@ related:
         width: 1440
         height: 932
         isCached: true
+  - title: "Trump's coming impeachment trial aggravates rift among Republicans"
+    excerpt: "The coming second impeachment trial of former U.S. President Donald Trump on a charge of inciting the deadly storming of the Capitol has aggravated a rift among his fellow Republicans that was on full display on Sunday."
+    publishedDateTime: 2021-01-25T00:54:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-impeachment-idINKBN29T0OQ?edition-redirect=in"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29T0OQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29T0OQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548888557&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N0CK"
+        width: 760
+        height: 545
+        isCached: true
   - title: "Prominent Senate Republican warns Trump trial could spark more impeachments"
     excerpt: "A prominent U.S. Senate Republican warned on Saturday that former President Donald Trump's second impeachment trial could lead to the prosecution of former Democratic presidents if Republicans retake the chamber in two years."
     publishedDateTime: 2021-01-24T01:42:00Z

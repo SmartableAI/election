@@ -49,19 +49,19 @@ related:
         isCached: true
   - title: "Biden to reinstate COVID travel rules, add South Africa"
     excerpt: "Two White House officials say President Joe Biden on Monday will formally reinstate COVID-19 travel restrictions on non-U.S. travelers from Brazil, Ireland, United Kingdom and 26 other European countr"
-    publishedDateTime: 2021-01-24T22:59:00Z
-    webUrl: "https://abcnews.go.com/Travel/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75460010"
-    ampWebUrl: "https://abcnews.go.com/amp/Travel/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75460010"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Travel/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75460010"
+    publishedDateTime: 2021-01-24T23:25:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-travel-rules-add-south-africa/2021/01/24/68239846-5e95-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-travel-rules-add-south-africa/2021/01/24/68239846-5e95-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-reinstate-covid-travel-rules-add-south-africa/2021/01/24/68239846-5e95-11eb-a177-7765f29a9524_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Travel/WireAP_cf6c3c66cb5d4a55b5e80f6769b46498_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Live politics updates: 69% of Americans approve of Biden's plan to tackle pandemic, poll finds"
     excerpt: "Fifty-seven percent of Americans believe Biden can follow-through on his promise to unite a divided America, according to a recent ABC News poll."

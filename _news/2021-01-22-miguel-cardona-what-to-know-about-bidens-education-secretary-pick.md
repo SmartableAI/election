@@ -2930,7 +2930,7 @@ related:
   - title: "Joe Biden to the Rescue (Plan)"
     excerpt: "Biden economic adviser Jared Bernstein joins the Ross Douthat and Michelle Goldberg on The Argument to allay their doubts and volley questions about the new president’s “Rescue Plan” to resuscitate America’s work force and even out an inequitable economy."
     publishedDateTime: 2021-01-24T06:57:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/01/24/joe_biden_to_the_rescue_plan.html"
+    webUrl: "https://www.realclearpolitics.com/video/2021/01/24/joe_biden_to_the_rescue_plan.html#!"
     type: article
     provider:
       name: RealClearPolitics

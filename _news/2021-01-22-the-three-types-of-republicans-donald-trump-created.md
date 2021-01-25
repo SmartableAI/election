@@ -703,6 +703,22 @@ related:
         width: 1440
         height: 932
         isCached: true
+  - title: "Trump's coming impeachment trial aggravates rift among Republicans"
+    excerpt: "The coming second impeachment trial of former U.S. President Donald Trump on a charge of inciting the deadly storming of the Capitol has aggravated a rift among his fellow Republicans that was on full display on Sunday."
+    publishedDateTime: 2021-01-25T00:54:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-impeachment-idINKBN29T0OQ?edition-redirect=in"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29T0OQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29T0OQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210124&t=2&i=1548888557&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0N0CK"
+        width: 760
+        height: 545
+        isCached: true
   - title: "Biden, a longtime ally of police, will enter White House pushing for reform"
     excerpt: "We’ve always had a good working relationship with Biden,” said Jim Pasco, executive director of the Fraternal Order of Police, which twice endorsed Trump. He was one of the first police officials invited to meet with the Biden transition team."
     publishedDateTime: 2021-01-11T13:38:00Z

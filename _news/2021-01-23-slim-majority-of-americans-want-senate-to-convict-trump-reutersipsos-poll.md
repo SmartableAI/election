@@ -159,6 +159,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "GOP lawmaker part of Trump's plan to oust AG -NYT"
+    excerpt: "NYT. Posted . A Republican U.S. congressman played a key role in former President Donald Trump's efforts to remove the to"
+    publishedDateTime: 2021-01-25T00:01:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVDWKJPM3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210124&i=OVDWKJPM3&r=OVDWKJPM3&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Historians worry a Trump library will be an airbrushed 'MAGA' tribute to a twice-impeached president"
     excerpt: "It's not hard to image Trump's presidential library will burnish his tarnished legacy after he leaves office. Don't expect that to go smoothly."
     publishedDateTime: 2021-01-15T16:03:00Z

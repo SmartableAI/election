@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-mum-on-future-in-first-remark
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mum-on-future-in-first-remarks-since-leaving-white-house.amp"
 type: article
 quality: 135
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,40 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Trump adviser claims former president has no plans for third political party"
+    excerpt: "Former President Donald Trump has reportedly dropped plans to create a third political party and will instead focus his energies on helping Republicans win back the House and Senate in the 2022 midterms, Fox News has learned."
+    publishedDateTime: 2021-01-25T00:34:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5QGzXiloiXI/trump-has-no-plans-for-a-third-political-party"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-has-no-plans-for-a-third-political-party.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-has-no-plans-for-a-third-political-party.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21021665414903.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump Pressed to Change Justice Department Leadership to Boost His Voter Fraud Claims"
+    excerpt: "The former president’s efforts were dropped after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar said."
+    publishedDateTime: 2021-01-23T19:39:00Z
+    webUrl: "https://www.wsj.com/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-pressed-to-change-justice-department-leadership-to-boost-his-voter-fraud-claims-11611434369"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 128
+    images:
+      - url: "https://images.wsj.net/im-289628/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "S4Nrsj3Ugv7K8QXvngD6hGol9pML8jhPBJSf9Z5VcISg59oL0g7wZ40w+yQ5feAFHQCR/rYIM0xpBICQ5xrHYOcLSu+cLpHvLzWEFrhYpSplyTCSR703FEn9sLNCkK/X3DwdvA8ysh0XBy03DaR5TfTuLAQ+h4HpAbhW6HXoOV0sYoR6Jq5LWbxFZtLULgt1oPzLVtPFCwW+inMvNFZ0wLQaOUjMRJobMIO04drB4dNuDxPIiqkq/blHvNS531d8EqPc4X8gC1cBi4kGTRlqAtGjZ3o7sXrx80X8lDpk2kACB1rNhlC+cv1v3GZBxwNwNrEKBQGDPGJXzMEfaAIYML2HgBHynlLPBT/CGdNbxwE=;MJFjk0hRYjFxC4ndhCa3ZA=="
 ---
