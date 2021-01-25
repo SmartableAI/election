@@ -1295,6 +1295,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Press secretary reveals Biden's favorite ice cream flavor"
+    excerpt: "White House Press Secretary Jen Psaki on Sunday answered a list of questions Twitter users had posted online. The questions ranged from important policy issues related to the ongoing COVID-19 pandemic, as well as the pressing matter of whether it was true the president kept a giant freezer full of ice"
+    publishedDateTime: 2021-01-25T03:04:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sP3Ht1VUdJ8/press-secretary-reveals-bidens-favorite-ice-cream-flavor"
+    ampWebUrl: "https://www.foxnews.com/politics/press-secretary-reveals-bidens-favorite-ice-cream-flavor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/press-secretary-reveals-bidens-favorite-ice-cream-flavor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6908c488-22ce-4340-b66e-1dcf5c5d2185/655d414b-6da8-4a73-b87f-5bf0085a61c0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump must be barred from post-presidency intelligence briefings: Schiff"
     excerpt: "House Intelligence Committee Chairman Rep. Adam Schiff said Sunday that President Trump should be barred from receiving intelligence briefings after he leaves office, an opportunity traditionally extended to former presidents."
     publishedDateTime: 2021-01-17T18:36:03Z

@@ -2,21 +2,21 @@
 category: news
 title: "Biden to reinstate COVID travel rules, add South Africa"
 excerpt: "Two White House officials say President Joe Biden on Monday will formally reinstate COVID-19 travel restrictions on non-U.S. travelers from Brazil, Ireland, United Kingdom and 26 other European countr"
-publishedDateTime: 2021-01-24T22:59:00Z
-originalUrl: "https://abcnews.go.com/Travel/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75460010"
-webUrl: "https://abcnews.go.com/Travel/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75460010"
-ampWebUrl: "https://abcnews.go.com/amp/Travel/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75460010"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Travel/wireStory/biden-reinstate-covid-travel-rules-add-south-africa-75460010"
+publishedDateTime: 2021-01-25T03:42:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-travel-rules-add-south-africa/2021/01/24/68239846-5e95-11eb-a177-7765f29a9524_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-travel-rules-add-south-africa/2021/01/24/68239846-5e95-11eb-a177-7765f29a9524_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-travel-rules-add-south-africa/2021/01/24/68239846-5e95-11eb-a177-7765f29a9524_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-reinstate-covid-travel-rules-add-south-africa/2021/01/24/68239846-5e95-11eb-a177-7765f29a9524_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Travel/WireAP_cf6c3c66cb5d4a55b5e80f6769b46498_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -110,6 +110,6 @@ related:
         height: 630
         isCached: true
 
-secured: "BtIP1Tketi8ZlOrvP+mBTa9yLYVY0zM0PmO/37okxpnloWgDqQbflrJyto3cPBMY8KoRDNhgpN2AVO/INbwTi0l8iq6GvBZlWaC3WwZ8CZhn5CbHmKGCCcJA0Ws8VCOIC6wsKbIycG5rXxMbnsFzM+mNPssVJMq/xmmVRVi+QVUNeF6iSLQcBCj2vHuwlCIzrI78NMqnvnd44jOtbjzwFVhUisdoLZyXiUfv5xh5DSHyfqdfKkYtEtvj08ik6xTmO8S1DmWW981/kQvy4SHHawvELgOscrdH4gAJ5Mae+/LqlZs71ljyD/p2dDhN36mo5Khk6ADVMpEL2b3b2Lx01ILy0fNr5naZo3CbAiX9eEU=;4os4Coscwrryz+bajWuccw=="
+secured: "KL7sYByH5xzUKeXovGtC3r03KW2o63xrjdENTsP0B6RWCNsg1ePCFjkc7nywwJ0J0XaPicN/HDSRWUubAGyvM5yslbKTyjWTuP31QGBBCrrKQ0gUQZdtI2w0yjg581J/yzdDFEnuEFMGlTknPK+nPnFi7Bx5UARfX0o2tqjCjC6MixGSFKPvBMlF39hwJbROGCVJ37uKrU6o1PjZKfFJhshQo2SRKqfmtt3OVpIrxcGA+m3O+/GEwz/bxr7YhnTxVS1ms6/cpjYOlbLUdtA1kbapbYVuC4ZOetXHgMuicM5NalT2IUFjnbRziP8usyXCVHrNNk2ifrKEYwu66PGUCdCXg+898C9qMkkghLHbPLk=;TWEY1DQwZYzpkUUakYV45g=="
 ---
 

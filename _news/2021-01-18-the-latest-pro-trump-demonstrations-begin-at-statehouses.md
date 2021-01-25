@@ -127,6 +127,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "AP source: Biden to drop Trump's military transgender ban"
+    excerpt: "President Joe Biden is set to issue an executive order to reverse a Pentagon policy that largely bars transgender individuals from joining the military"
+    publishedDateTime: 2021-01-25T03:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-source-biden-drop-trumps-military-transgender-ban-75463243"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-source-biden-drop-trumps-military-transgender-ban-75463243"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-source-biden-drop-trumps-military-transgender-ban-75463243"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9322fdf2eb7c4687876e30ba27cc93fa_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden unveils $1.9 trillion economic relief as Trump's Senate trial looms"
     excerpt: "Majority Leader Mitch McConnell said the Senate would not reconvene before January 19, the day before Mr. Trump leaves office."
     publishedDateTime: 2021-01-15T14:26:00Z
@@ -1421,6 +1437,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/4c159a2a-4fb9-4bb5-af5e-bb17e8a417d5/c28127b8-d932-4273-8a62-317c24fd51f8/1280x720/match/image.jpg"
         width: 1080
         height: 720
+        isCached: true
+  - title: "Twitter On Donald, Melania Trump Firing Chief Usher Before Joe Biden's White House Move: 'Vindictive'"
+    excerpt: "Many believe that Donald Trump and his wife Melania fired the chief usher before they left the White House so that no one would help Joe Biden and Jill when they move into the presidential house."
+    publishedDateTime: 2021-01-25T01:49:00Z
+    webUrl: "https://www.ibtimes.com/twitter-donald-melania-trump-firing-chief-usher-joe-bidens-white-house-move-3129632"
+    ampWebUrl: "https://www.ibtimes.com/twitter-donald-melania-trump-firing-chief-usher-joe-bidens-white-house-move-3129632?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-donald-melania-trump-firing-chief-usher-joe-bidens-white-house-move-3129632?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Republicans Are Breaking Ranks on Impeachment. That's Good for Democrats — and Bad for Trump"
     excerpt: "As the Democrats prepare to impeach Donald Trump for a second time, a few Republican votes could prove helpful for the Democrats. Here's why"
