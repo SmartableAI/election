@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/25/sarah-sanders-former
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/25/sarah-sanders-former-trump-press-secretary-to-run-for-arkansas-governor-reports"
 type: article
 quality: 119
-heat: 159
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -31,19 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. state capitals gird for pro-Trump armed protests, FBI flags risk of violence"
-    excerpt: "Protesters are expected to descend on statehouses across the United States on Sunday in support of baseless claims that electoral fraud robbed President Donald Trump of a second term, as law enforcement officials girded for possible violence."
-    publishedDateTime: 2021-01-17T13:43:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-trump-protests/us-state-capitals-gird-for-pro-trump-armed-protests-fbi-flags-risk-of-violence-idUSKBN29M048"
+  - title: "Sarah Sanders, former Trump press secretary, running for Arkansas governor"
+    excerpt: "Sarah Sanders, Donald Trump’s former chief spokeswoman and one of his closest aides, is running for Arkansas governor, a senior campaign official told The Associated Press."
+    publishedDateTime: 2021-01-25T11:44:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 123
+    images:
+      - url: "https://www.chicagotribune.com/resizer/0JsbnzrsD48NyOvJ__X1lH1FNKQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q75DM32LIRBHLLUCEEZ6NJKLGI.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Former Trump White House press secretary plans to run for governor of Arkansas: source"
+    excerpt: "Donald Trump's former White House press secretary Sarah Sanders will announce plans on Monday to run for governor of Arkansas, a source familiar with the situation said on Sunday."
+    publishedDateTime: 2021-01-25T06:56:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-press-secretary-idUSKBN29U04U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U04U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U04U"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 100
+    quality: 117
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548089624&r=LYNXMPEH0G03L&w=800"
-        width: 800
-        height: 533
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548913963&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O02I"
+        width: 817
+        height: 545
         isCached: true
   - title: "Arkansas Gov. Sarah Sanders? Former Trump spokesman, Mike Huckabee daughter expected to run"
     excerpt: "Sanders joins an expensive Republican primary that already includes two statewide elected leaders, Lt. Gov. Tim Griffin and Attorney General Leslie Rutledge."

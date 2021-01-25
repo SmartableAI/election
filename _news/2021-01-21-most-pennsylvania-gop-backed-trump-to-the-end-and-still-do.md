@@ -119,6 +119,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Diverse team of U.S. House Democrats to lead Trump's second impeachment trial"
+    excerpt: "The nine Democratic lawmakers who will prosecute ex-President Donald Trump in his impeachment trial reflect America's racial, ethnic and sexual diversity, in stark contrast to the white nationalist imagery that marked the mob of Trump supporters who stormed the Capitol."
+    publishedDateTime: 2021-01-25T11:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-managers-idUSKBN29U13O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U13O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U13O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548960735&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O0OP"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Arizona GOP narrowly reelects Chairwoman Kelli Ward, a Trump loyalist who spread false election fraud claims"
     excerpt: "The closely watched result offers an early, state-level indication that Trump retains sway over the activist GOP base, though it is more tenuous."
     publishedDateTime: 2021-01-24T14:55:00Z
@@ -259,6 +275,17 @@ related:
         width: 1024
         height: 760
         isCached: true
+  - title: "Dominion Voting Systems Sues Trump Lawyer Giuliani Over Election Claims"
+    excerpt: "WASHINGTON (Reuters) - Dominion Voting Systems Inc has filed a lawsuit against former President Donald Trump's lawyer Rudy Giuliani, accusing him of defamation for making false claims of fraud about the November 2020 U."
+    publishedDateTime: 2021-01-25T12:59:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-01-25/dominion-voting-systems-sues-trump-lawyer-giuliani-over-election-claims"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2021-01-25/dominion-voting-systems-sues-trump-lawyer-giuliani-over-election-claims?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-01-25/dominion-voting-systems-sues-trump-lawyer-giuliani-over-election-claims?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Facebook 'Supreme Court' To Judge Trump Suspension"
     excerpt: "Facebook and Instagram suspended Trump after his supporters stormed the US Capitol on January 6, an attack on the seat of democracy that led to Trump's second impeachment. The leading social network is referring the decision to its independent oversight board -- known informally as the Facebook \"supreme court\" -- with the authority to make binding rulings even chief executive Mark Zuckerberg must abide by."
     publishedDateTime: 2021-01-22T01:11:00Z

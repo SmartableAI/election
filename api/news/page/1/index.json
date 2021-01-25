@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-25-sarah-sanders-former-trump-press-secretary-running-for-arkansas-governor.md",
+      "title": "Sarah Sanders, former Trump press secretary, running for Arkansas governor",
+      "excerpt": "Sarah Sanders, Donald Trump’s former chief spokeswoman and one of his closest aides, is running for Arkansas governor, a senior campaign official told The Associated Press.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/0JsbnzrsD48NyOvJ__X1lH1FNKQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q75DM32LIRBHLLUCEEZ6NJKLGI.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-25T03:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-impeachment-guide-how-will-donald-trumps-second-senate-trial-unfold.md",
       "title": "Impeachment guide: how will Donald Trump's second Senate trial unfold?",
       "excerpt": "If the trial is successful it would allow the Senate to bar the former president from holding office in the future",
@@ -27,58 +79,6 @@
       "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/25/trump-impeachment-explained-what-happens-how-does-it-work-senate-trial-guide",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/25/trump-impeachment-explained-what-happens-how-does-it-work-senate-trial-guide",
       "publishedDateTime": "2021-01-24T22:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-sarah-sanders-former-trump-press-secretary-to-run-for-arkansas-governor-reports.md",
-      "title": "Sarah Sanders, former Trump press secretary, to run for Arkansas governor – reports",
-      "excerpt": "A formal announcement is expected on Monday as the 38-year-old bids to succeed her father, Mike Huckabee, in the state leadership role",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/25/sarah-sanders-former-trump-press-secretary-to-run-for-arkansas-governor-reports",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/25/sarah-sanders-former-trump-press-secretary-to-run-for-arkansas-governor-reports",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/98b894c499b561540f5e059a36144ecda8e06958/0_0_2127_1276/master/2127.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f4008f5ddf67e795af5e9e89e605153",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/25/sarah-sanders-former-trump-press-secretary-to-run-for-arkansas-governor-reports",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/25/sarah-sanders-former-trump-press-secretary-to-run-for-arkansas-governor-reports",
-      "publishedDateTime": "2021-01-24T17:27:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -227,7 +227,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 212,
+      "heat": 232,
       "tags": null,
       "images": [
         {
@@ -335,7 +335,7 @@
       "originalUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -987,7 +987,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-justice/trump-asked-justice-department-to-go-to-supreme-court-to-overturn-election-journal-idUSKBN29T01R",
       "featuredContent": null,
       "highlight": null,
-      "heat": 474,
+      "heat": 514,
       "tags": null,
       "images": [
         {

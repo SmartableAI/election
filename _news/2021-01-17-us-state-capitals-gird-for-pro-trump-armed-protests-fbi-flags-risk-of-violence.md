@@ -29,37 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Sarah Sanders, former Trump press secretary, to run for Arkansas governor – reports"
-    excerpt: "A formal announcement is expected on Monday as the 38-year-old bids to succeed her father, Mike Huckabee, in the state leadership role"
-    publishedDateTime: 2021-01-25T01:27:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/25/sarah-sanders-former-trump-press-secretary-to-run-for-arkansas-governor-reports"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/25/sarah-sanders-former-trump-press-secretary-to-run-for-arkansas-governor-reports"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/25/sarah-sanders-former-trump-press-secretary-to-run-for-arkansas-governor-reports"
+  - title: "A quiet Sunday: Pro-Trump protests largely unrealized at Colorado Capitol, in other states"
+    excerpt: "As President-elect Joe Biden's Wednesday inauguration approaches, federal, state and local law enforcement agencies have braced for possible violence."
+    publishedDateTime: 2021-01-17T23:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/01/17/live-updates-monitoring-colorado-capitol-protests-jan-17/4196764001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4196764001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4196764001"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 119
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
     images:
-      - url: "https://i.guim.co.uk/img/media/98b894c499b561540f5e059a36144ecda8e06958/0_0_2127_1276/master/2127.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5f4008f5ddf67e795af5e9e89e605153"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Arkansas Gov. Sarah Sanders? Former Trump spokesman, Mike Huckabee daughter expected to run"
-    excerpt: "Sanders joins an expensive Republican primary that already includes two statewide elected leaders, Lt. Gov. Tim Griffin and Attorney General Leslie Rutledge."
-    publishedDateTime: 2021-01-25T04:10:00Z
-    webUrl: "https://www.al.com/news/2021/01/arkansas-gov-sarah-sanders-former-trump-spokesman-mike-huckabee-daughter-expected-to-run.html"
-    ampWebUrl: "https://www.al.com/news/2021/01/arkansas-gov-sarah-sanders-former-trump-spokesman-mike-huckabee-daughter-expected-to-run.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/arkansas-gov-sarah-sanders-former-trump-spokesman-mike-huckabee-daughter-expected-to-run.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 65
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JMSJGEXIQFAXDMYZOHYFQLAK6U.jpg"
-        width: 5568
-        height: 3712
+      - url: "https://www.gannett-cdn.com/presto/2021/01/17/PFTC/c501bffb-1284-4718-9be1-98477efcc50d-290169B6-DF62-4134-B61F-ACE89E9F9C56.jpeg?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "OuVJxF8SMQmFvrMUH9tbkUXGd1wFfJuJp9kBS7zw0e28d3L8pva2xwZ9c2RzmhhXU2Gzdc9EUyKYjWTO9qX54I8x5K/JiuC4HleLgf90iUJzU+P+ZqsKtqLfpknQAQbFGXiq6qJknZbhwbyHAjiUaNJzrqkHfuejrXvURxjJ0d/cHkzlbZkGgRWz1gwj54FT1Hlaw9I/EKwFP84tqXyY/XF0u1vIVa/A8/hnQsyOJDI87tmzLY6xsUG/BTipPM3d5rRvd4TDQ7wdBl1CiUjB1VeNnTjJgAd5RU5hEhIAr+0h4YqBHxigS6tW+lyqbLQqG6Y6SVa1mT8DymWuJQGuBcHmn29kv2/rGyxbBhgFNaQ=;84gv0BadWGoCaPU1VpnEpg=="

@@ -107,6 +107,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump's second impeachment trial: the key players"
+    excerpt: "House charged Trump with ‘incitement of insurrection’"
+    publishedDateTime: 2021-01-25T08:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/25/trumps-second-impeachment-trial-key-players"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/25/trumps-second-impeachment-trial-key-players"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/25/trumps-second-impeachment-trial-key-players"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a532de0afb04181abd9a25cda0dcf991957441ca/0_400_5388_3233/master/5388.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d21f86f37352f4a80e66672d0ed3244d"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Meet the impeachment managers who will argue Democrats' case against Trump"
     excerpt: "Pelosi said the House will officially send the article of impeachment against Mr. Trump to the Senate on Monday. \"We are respectful of the Senate's constitutional power over the t"
     publishedDateTime: 2021-01-24T12:05:00Z
@@ -320,6 +336,38 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 79
+  - title: "Trump 2021 impeachment trial: GOP senators might kill effort"
+    excerpt: "I think the trial is stupid, I think it’s counterproductive,” said Sen. Marco Rubio, R-Fla.. He said that “the first chance I get to vote to end this trial, I’ll do it” because he believes it would be bad for the country and further inflame partisan divisions."
+    publishedDateTime: 2021-01-25T12:10:00Z
+    webUrl: "https://www.al.com/news/2021/01/trump-2021-impeachment-trial-gop-senators-might-kill-effort.html"
+    ampWebUrl: "https://www.al.com/news/2021/01/trump-2021-impeachment-trial-gop-senators-might-kill-effort.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/01/trump-2021-impeachment-trial-gop-senators-might-kill-effort.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/76K3ONR6JZCVVE5Z4TXB3YGDRY.jpg"
+        width: 4516
+        height: 3011
+        isCached: true
+  - title: "Trump Impeachment: Capitol Faces New Threats, Rubio Cries Foul"
+    excerpt: "Law enforcement is prepping for possible violence in Washington D.C. on Feb. 8, when the Senate trial is expected to begin."
+    publishedDateTime: 2021-01-25T11:52:00Z
+    webUrl: "https://www.ibtimes.com/trump-impeachment-capitol-faces-new-threats-rubio-cries-foul-3129944"
+    ampWebUrl: "https://www.ibtimes.com/trump-impeachment-capitol-faces-new-threats-rubio-cries-foul-3129944?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-impeachment-capitol-faces-new-threats-rubio-cries-foul-3129944?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/10/a-protester-carries-a-sign-calling-for-congress-AFP_8YH99R-2.jpg"
+        width: 1024
+        height: 732
+        isCached: true
   - title: "Trump Impeachment Trial To Begin Week Of February 8: Schumer"
     excerpt: "Donald Trump's US Senate trial will begin in the second week of February, days after a fresh impeachment case against the former president is transmitted by the House, Senate Majority Leader Chuck Schumer said Friday."
     publishedDateTime: 2021-01-23T00:34:00Z

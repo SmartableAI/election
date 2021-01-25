@@ -1375,6 +1375,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Transportation officials weigh options to enforce Biden's mask requirement for travelers "
+    excerpt: "Federal transportation officials are considering a range of options to enforce President Joe Biden's new face mask requirement for interstate travelers, including the possibility of fines in the thousands of dollars, multiple sources told CNN.\n    \n"
+    publishedDateTime: 2021-01-25T03:52:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XZkBYfRUB_Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/24/politics/biden-travel-mask-requirement-enforcement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/biden-travel-mask-requirement-enforcement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121191434-american-airlines-plane-interior-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden starts fast on immigration by halting border wall and travel ban while embracing DACA"
     excerpt: "President-elect Joe Biden will kick off his term by rolling out a series of immigration executive actions, moving swiftly to undo many Trump administration policies.\n    \n"
     publishedDateTime: 2021-01-21T02:39:05Z
