@@ -80,6 +80,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "McCarthy claws his way back to Trump's good side"
+    excerpt: "Kevin McCarthy is trying to get back in Donald Trump’s good graces — but he could wind up making more people unhappy in the process. In the aftermath of the deadly Capitol riots, McCarthy angered Trump by saying he bears some responsibility for the attack."
+    publishedDateTime: 2021-01-26T09:30:00Z
+    webUrl: "https://www.politico.com/news/2021/01/26/kevin-mccarthy-donald-trump-462445"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/01/26/kevin-mccarthy-donald-trump-462445"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/26/kevin-mccarthy-donald-trump-462445"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/e3/4e/a348753d4fd98010dbfd633ce75f/ap20317661233739.jpg"
+        width: 4544
+        height: 3029
+        isCached: true
   - title: "POLITICO Playbook PM: McConnell blames Trump for Jan. 6"
     excerpt: "They are McConnell’s first floor remarks since Jan. 6. Remember, McConnell told his rank-and-file members that he has, essentially, not ruled out convicting President DONALD TRUMP. There is widespread agreement that if McConnell votes to convict Trump,"
     publishedDateTime: 2021-01-19T18:03:00Z

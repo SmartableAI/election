@@ -79,6 +79,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Iran's U.N. ambassador says Iran is waiting for President Biden to make the first diplomatic move"
+    excerpt: "The Biden administration needs to lift sanctions on Iran and return to the nuclear deal that Trump ditched, the Iranian ambassador to the U.N. says."
+    publishedDateTime: 2021-01-26T09:24:00Z
+    webUrl: "https://www.nbcnews.com/politics/national-security/iran-s-un-ambassador-says-iran-waiting-president-biden-make-n1255608"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255608"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255608"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 122
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_04/3170401/200103-majid-takht-ravanchi-ew-432p_8963558298725b2e9f0f5729a9a8ba44.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
 
 secured: "Z7uoJoqHwhXJ0f3mM1QoIkCSSw18WeQQX5kUPn1JoI3ZaGVv+1h4oYQpQDdMY81Mkh9Xr1vGeWlRWFLLsXnvnuU0eOlgblLGwG/5rasxrVUqqr9r92ghYaLC1jda7t7hLkgnRZrH8R5FG9BIPgBIianj1eN8DWwJAcA3LWFoeIoL3l8ZscJIH5gHxtkxuWutRxzl8vxYpPLrmOOt5X2z+gFphkj9V5/CebsgUH1Xp7ndMQiPsjffZLnyh9r4ygrVb+OubcVw43ePaTKwxMQVrffOGHNmfaqNwKywS3vJkmqG0AxBGSJC35JebQY3b2sgxoDMBnBmuMXWKkV25j0y3XUdSXs6MgbFmKK9ukCm+IY=;LsepSeY0BAuVdzx8DzHnNw=="
 ---

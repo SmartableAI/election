@@ -2382,6 +2382,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden says Democrats don't have votes to convict Trump"
+    excerpt: "Biden tells interviewer Dems won’t have necessary votes to convict Trump at impeachment President Joe Biden on Monday dealt Senate Democrats a blow when he said in an interview that it seems they will be unable to convict former President Trump — once again — during an impeachment trial."
+    publishedDateTime: 2021-01-26T10:26:00Z
+    webUrl: "https://www.foxnews.com/us/biden-says-democrats-dont-have-votes-to-convict-trump"
+    ampWebUrl: "https://www.foxnews.com/us/biden-says-democrats-dont-have-votes-to-convict-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-says-democrats-dont-have-votes-to-convict-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21025158606911.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump reportedly to leave White House the morning of Biden’s inauguration"
     excerpt: "President Trump is set to officially depart.C. Wednesday morning, reports said. That same day Joe Biden will take the oath of office and be officially sworn in as th"
     publishedDateTime: 2021-01-16T18:55:00Z

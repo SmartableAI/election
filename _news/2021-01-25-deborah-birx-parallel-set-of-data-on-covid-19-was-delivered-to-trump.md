@@ -110,6 +110,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "The Road to Clemency From Trump Was Closed to Most Who Sought It"
+    excerpt: "Of the nearly 240 pardons and commutations he granted during his term, only 25 came through the regular Justice Department process. The rest were a product of connections, influence and money."
+    publishedDateTime: 2021-01-26T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/01/26/us/politics/trump-pardons.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/26/us/politics/trump-pardons.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/26/us/politics/trump-pardons.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/26/us/politics/26dc-pardon-lobby1/26dc-pardon-lobby1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "q20B7SzWdWmQ9meckPNuzOiZcqSysvajx4wRpNcDeZ12Yb24/ZZwrdmE73o6NsIUlszR8u09ww93fg184Z7G/rDq17vSahIXJvSgPYOP3yCroKFfXdea3y0bkOkd1eatyaeBrBXrK/mz5IhtKQ3D2juBaRqS+tzUMrhKbwMUBrK++WBfyDowZzInt5LUeIoBoYzsUyI8bHIzWaD5Qcjsq31r/Qo6nz9Bumudte+YrOQ4BdZV7B1NO3OypoRW+5SliEjQVzcQAferFvvrwviav28/tMorBycw6KM53RgZSNKEAKVAiUm43hogiJ9ha90psk1dIW3GToZ4DTMImxaxlNcR2lwjhJeu1Nt7MdqDjN0jqzO4U8gjhuXHlOyYTgVzsznSdrIlhd3zjAOqY02XVijm1FLhtfJFXyKFG+2ZRtr897k0ngDeendopSmT4Y2A4T0BzAYVpN2X3Fysuyk6+tPWlSZOepvzmbGYMdPzHthUpORAcdsgnNw5Go92WXcliRt5iVJc3/BxBGU3gVHK9Q==;F8ND7+B6Ff3nW6iMYl0irg=="
 ---
