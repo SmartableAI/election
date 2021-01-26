@@ -431,6 +431,15 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Trump's Impeachment Goes to the Senate, Testing His Sway Over the GOP"
+    excerpt: "Republican senators are easing off criticism of Trump and shunning calls to convict him over the U.S. Capitol siege"
+    publishedDateTime: 2021-01-26T01:49:00Z
+    webUrl: "https://time.com/5933346/trump-impeachment-senate/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 85
   - title: "Liz Cheney faces Wyoming backlash for Trump impeachment vote"
     excerpt: "Just before a mob unleashed a deadly rampage on the U.S. Capitol, President Donald Trump told tens of thousands of supporters that “we got to get rid” of Rep. Liz Cheney. The Wyoming congresswoman and No."
     publishedDateTime: 2021-01-19T03:26:00Z

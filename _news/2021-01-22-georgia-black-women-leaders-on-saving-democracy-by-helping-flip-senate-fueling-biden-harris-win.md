@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-black-women-leaders-savi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219"
 type: article
 quality: 136
-heat: 276
+heat: 296
 published: true
 
 provider:
@@ -143,6 +143,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/11/USAT/ceddbdfa-77f9-4462-a868-179faa78cbcf-AP_Election_2020.jpg?auto=webp&crop=4500,2531,x0,y228&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The Debate on Vice President Kamala Harris’s Vogue Cover"
+    excerpt: "Vogue announced Vice President Kamala Harris as its February 2021 Cover Star, leading to intense backlash on social media over how the Vice President was styled."
+    publishedDateTime: 2021-01-26T03:00:00Z
+    webUrl: "https://www.thecrimson.com/article/2021/1/26/vice-president-kamala-harris-vogue/"
+    type: article
+    provider:
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 55
+    images:
+      - url: "https://s3.amazonaws.com/media.thecrimson.com/photos/2021/01/25/212618_1347909.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "wO55nQFlpQYzX9hD21adw6CmU55PI3MQZyw1kcUqpHToC8NCGHx6bBzINsQhRrddYZXOGMmVmFC39ANmH5VrhonI7gdcmwLYUMwgV5d6drJqdKx4bAwiIc1Sh5VK8TIJ9+Vb8o44nh3U4ZnEEVUtyCC0gXMT6sNRay7RxrlGmScJGogT2Bj6FOm/ldE3S6kniG9eQ1i91Luy71mBI711mwvYYVniDdfjKz8a7IwShSST4v/TrNEHfoIBgrJhmWrfwzM30daWtlajwqNZagkfh1XUfzgafjphA1Mqghv7EjqXlr2OlkK2zx5/lF2ALL5YmWpPj925fohyo9vjrjkLEYY3E62/1vGr6v1yT4gmiQw=;Q6ItkmuMTM9N49PDgDsj3Q=="

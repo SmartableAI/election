@@ -385,6 +385,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden says Dems won’t have the votes to convict Trump at impeachment"
+    excerpt: "President Joe Biden on Monday dealt senate Democrats a blow when he said in an interview that it seems as though they will be unable to convict former President Trump—once again—in an impeachment trial."
+    publishedDateTime: 2021-01-26T04:24:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WgkIkQD8BbY/biden-says-dems-wont-have-the-votes-to-convict-trump-at-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-dems-wont-have-the-votes-to-convict-trump-at-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-dems-wont-have-the-votes-to-convict-trump-at-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden fires Trump-appointed labor board attorney in break with precedent"
     excerpt: "President Biden in a break with precedent fired the general counsel of the National Labor Relations Board, a Senate-confirmed position, on his first day in the White House. "
     publishedDateTime: 2021-01-21T09:24:25Z
@@ -2636,6 +2652,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/91ab0734-ea12-4060-8208-846c5f279bcb/5d33d193-d394-4f06-9e29-7880f2a91de3/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Article of Impeachment Sent to Senate for Second Trump Trial"
+    excerpt: "The proceedings leading up to the trial in the Senate, where a two-thirds supermajority will be needed to convict former President Donald Trump, coincide with a moment of internal wrestling within the Republican Party."
+    publishedDateTime: 2021-01-26T00:06:00Z
+    webUrl: "https://www.wsj.com/articles/article-of-impeachment-moves-to-senate-for-second-trump-trial-11611613658"
+    ampWebUrl: "https://www.wsj.com/amp/articles/article-of-impeachment-moves-to-senate-for-second-trump-trial-11611613658"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/article-of-impeachment-moves-to-senate-for-second-trump-trial-11611613658"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-290336/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Champ and Major, President Biden's dogs, move into the White House"
     excerpt: "The White House just became the dog house. The White House recently shared photos of President Joe Biden’s dogs, Champ and Major, on the grounds of 1600 Pennsylvania Avenue. The two pets have officially moved into the residence,"

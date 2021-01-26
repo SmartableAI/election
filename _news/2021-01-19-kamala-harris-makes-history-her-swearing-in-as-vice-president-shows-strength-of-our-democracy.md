@@ -139,6 +139,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Debate on Vice President Kamala Harris’s Vogue Cover"
+    excerpt: "Vogue announced Vice President Kamala Harris as its February 2021 Cover Star, leading to intense backlash on social media over how the Vice President was styled."
+    publishedDateTime: 2021-01-26T03:00:00Z
+    webUrl: "https://www.thecrimson.com/article/2021/1/26/vice-president-kamala-harris-vogue/"
+    type: article
+    provider:
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 55
+    images:
+      - url: "https://s3.amazonaws.com/media.thecrimson.com/photos/2021/01/25/212618_1347909.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "mOVpsOOcUgrwKYzKdMELMykRQJvpvyBLTHOHFzYHP5o2hT16ET9QFvb0b5Tf68mAuStJWwYakOJn3CHLdzyPF8P2DUHUrp00I7lLqK1Re00/rBG6AR4NLAkOv2fXq3tKlMziJoWbuGIGWCqveq4Zow9Tv/kTA6F4Gd1z7Rew1uQYnsyJhJ4SaOmFoB30P0tD2iF/IxFN5CPALkHRSLtTSKkWe9PJUWeKagRP5MSW91CYnc8f0Ovz8QOXq+7KTYUM6/ClKxL8+RCqkVRTGdP7Pt/2GAjpvfGS12DicdgjMotNQvHebLy9QxVUgQs3d+jVj8hIYNkgi9woxoEoHGdByETe0WpxnFZpM2d0IVMFb24=;lIVcP1WhiDAUwknCp2IlUQ=="
 ---

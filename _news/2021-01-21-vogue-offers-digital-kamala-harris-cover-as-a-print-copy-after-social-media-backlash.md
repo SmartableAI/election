@@ -240,6 +240,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "See inside Blair House, Kamala Harris' temporary home in Washington, DC"
+    excerpt: "While the Number One Observatory Circle is renovated, Vice President Kamala Harris and second gentleman Doug Emhoff have temporarily moved into Blair House — so let’s peek inside."
+    publishedDateTime: 2021-01-25T15:07:00Z
+    webUrl: "https://www.foxnews.com/real-estate/see-inside-blair-house-kamala-harris-washington-dc"
+    ampWebUrl: "https://www.foxnews.com/real-estate/see-inside-blair-house-kamala-harris-washington-dc.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/real-estate/see-inside-blair-house-kamala-harris-washington-dc.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/GettyImages-1230586117.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris takes historic oath, becomes nation's first female, Black vice president"
     excerpt: "Kamala Harris cemented her place in history on Wednesday, becoming the first woman, and the first woman of color, to be sworn in as the vice president of the United States."
     publishedDateTime: 2021-01-20T16:58:00Z

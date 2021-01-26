@@ -1103,6 +1103,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Looming impeachment trial renews trauma of the Trump years"
+    excerpt: "Five days into America's restored political normality, the stark delivery of an article of impeachment against former President Donald Trump to the Senate was a flashback to the horror of the Capitol insurrection and the trauma of the last four years.\n    \n"
+    publishedDateTime: 2021-01-26T03:33:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aooVigol1wA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/trump-impeachment-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/trump-impeachment-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210123004326-04-donald-trump-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration locks down border wall contracts, complicating Biden's pledge to stop construction"
     excerpt: "The Trump administration is continuing to award border wall contracts in the waning days of Donald Trump's presidency, including in areas where private land hasn't yet been acquired, an unusual move that will complicate President-elect Joe Biden's pledge to halt construction.\n    \n"
     publishedDateTime: 2021-01-05T23:55:26Z

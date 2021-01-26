@@ -1087,6 +1087,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Looming impeachment trial renews trauma of the Trump years"
+    excerpt: "Five days into America's restored political normality, the stark delivery of an article of impeachment against former President Donald Trump to the Senate was a flashback to the horror of the Capitol insurrection and the trauma of the last four years.\n    \n"
+    publishedDateTime: 2021-01-26T03:33:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aooVigol1wA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/trump-impeachment-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/trump-impeachment-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210123004326-04-donald-trump-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's impeachment foretold everything that's happened since "
     excerpt: "Alarming as it is, the corrosive conclusion to 2020 in America was plainly visible in advance.\n    \n"
     publishedDateTime: 2020-12-20T13:47:40Z

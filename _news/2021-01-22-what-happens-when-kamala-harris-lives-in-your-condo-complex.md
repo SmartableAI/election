@@ -224,6 +224,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "See inside Blair House, Kamala Harris' temporary home in Washington, DC"
+    excerpt: "While the Number One Observatory Circle is renovated, Vice President Kamala Harris and second gentleman Doug Emhoff have temporarily moved into Blair House — so let’s peek inside."
+    publishedDateTime: 2021-01-25T15:07:00Z
+    webUrl: "https://www.foxnews.com/real-estate/see-inside-blair-house-kamala-harris-washington-dc"
+    ampWebUrl: "https://www.foxnews.com/real-estate/see-inside-blair-house-kamala-harris-washington-dc.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/real-estate/see-inside-blair-house-kamala-harris-washington-dc.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/GettyImages-1230586117.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Vogue offers digital Kamala Harris cover as a print copy after social media backlash"
     excerpt: "\"In celebration of this historic moment, we will be publishing a limited number of special edition #InaugurationDay issues,\" Vogue Magazine wrote in posts shared to Twitter, Facebook and Instagram. The digital cover shows America’s first Black-South Asian woman Vice President-elect wearing a powder blue suit from the Michael Kors Collection suit."
     publishedDateTime: 2021-01-21T00:23:00Z

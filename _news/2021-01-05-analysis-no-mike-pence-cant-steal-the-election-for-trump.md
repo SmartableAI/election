@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-elec
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/05/politics/pence-overturn-2020-election/index.html"
 type: article
 quality: 215
-heat: 3615
+heat: 3635
 published: true
 
 provider:
@@ -1085,6 +1085,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210114155358-20210114-trump-most-egregious-abuses-of-power-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Looming impeachment trial renews trauma of the Trump years"
+    excerpt: "Five days into America's restored political normality, the stark delivery of an article of impeachment against former President Donald Trump to the Senate was a flashback to the horror of the Capitol insurrection and the trauma of the last four years.\n    \n"
+    publishedDateTime: 2021-01-26T03:33:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aooVigol1wA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/trump-impeachment-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/trump-impeachment-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210123004326-04-donald-trump-0120-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
