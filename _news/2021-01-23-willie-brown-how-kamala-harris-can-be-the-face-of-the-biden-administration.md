@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "NJ boutique owners hope for a boost from Jill Biden's blues and Kamala Harris' pearls"
+    excerpt: "It's been a long 10 months for fashionistas during the pandemic. So the bold colors and styles at last week's inauguration were cause for celebration."
+    publishedDateTime: 2021-01-26T15:26:00Z
+    webUrl: "https://www.northjersey.com/story/news/2021/01/25/nj-boutiques-hope-boost-biden-harris-inauguration-fashions/6673515002/"
+    ampWebUrl: "https://amp.northjersey.com/amp/6673515002"
+    cdnAmpWebUrl: "https://amp-northjersey-com.cdn.ampproject.org/c/s/amp.northjersey.com/amp/6673515002"
+    type: article
+    provider:
+      name: NorthJersey.com
+      domain: northjersey.com
+    quality: 83
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/22/PNJM/353a055b-28ab-4770-a323-fcc01cda77f6-tiffany.jpg?auto=webp&crop=827,466,x0,y141&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Reports: Joe Biden to pick Jaime Harrison as DNC chair"
     excerpt: "Jaime Harrison, who challenged Lindsey Graham for his Senate seat during the past election, will be the new chair of the Democratic National Committee, according to media reports."
     publishedDateTime: 2021-01-14T18:49:00Z

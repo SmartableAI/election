@@ -240,6 +240,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Jonathan Turley, professor who called Trump impeachment trial unconstitutional, to attend Senate GOP luncheon"
+    excerpt: "George Washington University Professor Jonathan Turley will meet with Senate Republicans on Tuesday at their in-person lunch to discuss the constitutionality of the impending impeachment trial for former President Donald Trump."
+    publishedDateTime: 2021-01-26T15:34:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Uj-_jf8yBg/professor-said-impeachment-trial-is-unconstitutional-to-attend-senate-gop-lunch-tuesday"
+    ampWebUrl: "https://www.foxnews.com/politics/professor-said-impeachment-trial-is-unconstitutional-to-attend-senate-gop-lunch-tuesday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/professor-said-impeachment-trial-is-unconstitutional-to-attend-senate-gop-lunch-tuesday.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Sen. Rand Paul says Chief Justice Roberts won’t take Trump impeach trial"
     excerpt: "As Democrats plunge ahead with a post-term impeachment trial of President Donald Trump, a key question remains: Will Chief Justice Roberts take the case? Republican Sen. Rand Paul of Kentucky says"
     publishedDateTime: 2021-01-23T23:06:00Z

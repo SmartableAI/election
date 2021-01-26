@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/joe-biden-trump-impeachment/index.html"
 type: article
 quality: 190
-heat: 530
+heat: 550
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122180955-schumer-senate-floor-impeachment-timeline-screen-grab-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "House Delivers to the Senate an Impeachment Charge Against Trump"
+    excerpt: "Nine House managers walked across the Capitol to inform the Senate that they were ready to prosecute the former president for “incitement of insurrection.” And the Justice Department opens inquiry into an “improper attempt” by officials to overturn the presidential election."
+    publishedDateTime: 2021-01-26T08:51:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/25/us/biden-trump-impeachment"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/25/us/biden-trump-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/25/us/biden-trump-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/25/us/politics/25new-washington-briefing-impeachment2/25new-washington-briefing-impeachment2-facebookJumbo-v3.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "How President Biden's dog Major made history"
     excerpt: "Patrick Carroll, executive director of the Delaware Humane Association, tells CNN's Anderson Cooper the story of helping President Joe Biden adopt his dog, Major, the first shelter dog to live in the White House."

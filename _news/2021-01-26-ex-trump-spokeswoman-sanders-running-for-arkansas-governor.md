@@ -57,6 +57,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Dr. Anthony Fauci is the federal government's top-paid employee, and was paid $18,000 more than Trump in 2019"
+    excerpt: "Fauci, who leads the National Institute of Allergy and Infectious Diseases, earns more than $430,000 — US presidents have a salary of $400,000."
+    publishedDateTime: 2021-01-26T16:47:00Z
+    webUrl: "https://www.businessinsider.com/anthony-fauci-salary-government-top-paid-employee-president-salary-money-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/anthony-fauci-salary-government-top-paid-employee-president-salary-money-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anthony-fauci-salary-government-top-paid-employee-president-salary-money-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/600ffb2967a6bc0019d9af8c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Ex-Trump Spokeswoman Sanders Running for Arkansas Governor"
     excerpt: "(AP) — Sarah Sanders, Donald Trump’s former chief spokeswoman and one of his closest aides, is running for Arkansas governor, a senior campaign official told The Associated Press. Sanders, who left the White House in 2019 to return to her home state,"
     publishedDateTime: 2021-01-25T12:21:00Z

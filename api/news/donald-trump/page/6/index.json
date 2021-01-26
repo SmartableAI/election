@@ -2,6 +2,54 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-03-eric-trump-don-jr-party-with-vanilla-ice-at-mar-a-lago-new-years-bash.md",
+      "title": "Eric Trump, Don Jr. party with Vanilla Ice at Mar-a-Lago New Year’s bash",
+      "excerpt": "President Trump skipped out on performances by ’90s pop-rapper Vanilla Ice, Beach Boys founder Mike Love and other throwback acts at a pricey Mar-a-Lago New Year’s Eve bash.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/",
+      "originalUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/vanilla-ice.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/02/eric-trump-don-jr-party-with-vanilla-ice-on-new-years/amp/",
+      "publishedDateTime": "2021-01-02T11:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-03-trump-urges-people-to-get-ready-to-vote-in-georgia-just-hours-after-calling-the-senate-runoff-elections-both-illegal-and-invalid.md",
       "title": "Trump urges people to 'get ready to vote' in Georgia just hours after calling the Senate runoff elections 'both illegal and invalid'",
       "excerpt": "President Trump will attend a rally in Georgia on Monday for Senators Kelly Loeffler and David Perdue.",
@@ -1508,58 +1556,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-28-countdown-to-shutdown-heres-what-happens-if-trump-doesnt-enact-the-stimulus-law-by-midnight-monday.md",
-      "title": "Countdown to shutdown: Here’s what happens if Trump doesn’t enact the stimulus law by midnight Monday",
-      "excerpt": "Millions of Americans now face the prospect of weeks without unemployment payments, housing assistance and other critical coronavirus aid, as federal relief begins to evaporate amid Trump’s continued refusal to sign a $900 billion congressional stimulus deal into law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/us-policy/2020/12/27/trump-shutdown-stimulus/",
-      "originalUrl": "https://www.washingtonpost.com/us-policy/2020/12/27/trump-shutdown-stimulus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PLMCRVSISEI6XF5WJ247OL7UNM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/us-policy/2020/12/27/trump-shutdown-stimulus/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2020/12/27/trump-shutdown-stimulus/?outputType=amp",
-      "publishedDateTime": "2020-12-27T16:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

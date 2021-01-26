@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-12-03-simply-unthinkable-law-officers-call-for-halt-to-executions-in-trumps-final-weeks.md",
+      "title": "'Simply unthinkable': Law officers call for halt to executions in Trump's final weeks",
+      "excerpt": "Five executions are scheduled before Biden, who opposes capital punishment, takes office. Ninety current and former law officials want them to stop.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/12/03/law-officers-call-halt-executions-trumps-final-weeks/3806399001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/12/03/law-officers-call-halt-executions-trumps-final-weeks/3806399001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/11/24/USAT/02a629ee-2141-493b-a18e-db31b05b3c81-iA01_NLINE_MUG_21.JPG?auto=webp&crop=1882,1059,x0,y100&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3806399001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3806399001",
+      "publishedDateTime": "2020-12-03T06:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-trump-campaigns-star-witness-in-michigan-was-deemed-not-credible-then-her-loud-testimony-went-viral.md",
       "title": "Trump campaign’s star witness in Michigan was deemed ‘not credible.’ Then, her loud testimony went viral.",
       "excerpt": "Even Giuliani reportedly made a point to note he had just met Melissa Carone, whose testimony drew comparisons to SNL sketches.",

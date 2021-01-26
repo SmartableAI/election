@@ -1823,6 +1823,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Psaki to hold White House press briefing with Biden domestic policy adviser Susan Rice"
+    excerpt: "White House Press Secretary Jen Psaki is set to hold a briefing with President Biden’s Domestic Policy Advisor Susan Rice on Tuesday to discuss actions the administration is expected to take to \"advance racial equity.\""
+    publishedDateTime: 2021-01-26T16:29:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xN9ijl2M8QQ/psaki-holds-white-house-press-briefing-with-susan-rice"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-holds-white-house-press-briefing-with-susan-rice.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-holds-white-house-press-briefing-with-susan-rice.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump Supporters Protest Biden Election Win; Violence Erupts at Night"
     excerpt: "Evening violence broke out in Washington, D.C., during clashes between some of the president’s allies and counterprotesters."
     publishedDateTime: 2020-12-13T06:14:00Z

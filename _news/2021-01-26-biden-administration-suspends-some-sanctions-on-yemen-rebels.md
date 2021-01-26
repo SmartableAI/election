@@ -1,204 +1,246 @@
 ---
 category: news
 title: "Biden administration suspends some sanctions on Yemen rebels"
-excerpt: "The Biden administration is suspending some of the terrorism sanctions that former Secretary of State Mike Pompeo imposed on Yemen's Houthi rebels in his waning days in office"
-publishedDateTime: 2021-01-26T01:39:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-administration-suspends-sanctions-yemen-rebels-75476202"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-administration-suspends-sanctions-yemen-rebels-75476202"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-administration-suspends-sanctions-yemen-rebels-75476202"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-administration-suspends-sanctions-yemen-rebels-75476202"
+excerpt: "Aid organizations have warned sanctions would exacerbate what is already one of the world’s worst humanitarian crises."
+publishedDateTime: 2021-01-26T11:31:00Z
+originalUrl: "https://www.nbcnews.com/news/world/biden-administration-suspends-some-sanctions-yemen-rebels-n1255632"
+webUrl: "https://www.nbcnews.com/news/world/biden-administration-suspends-some-sanctions-yemen-rebels-n1255632"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255632"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255632"
 type: article
-quality: 125
-heat: 345
-published: true
+quality: 135
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+  - Democratic Voice
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_3d3d5d3fb8724be4acff290c8b19d406_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://media1.s-nbcnews.com/i/newscms/2021_04/3445000/210126-yemen-houthi-mc-854_2b1e3136cf964d7334eaeed834a28cbb.JPG"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
-  - title: "Watch Live: Biden to deliver remarks on COVID-19 response"
-    excerpt: "Biden promised it will be \"this spring\" when any American who wants a COVID-19 vaccine will be able to get one."
-    publishedDateTime: 2021-01-26T14:45:00Z
-    webUrl: "https://www.cbsnews.com/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/"
+  - title: "Joe Biden set to arrive in Washington on eve of his inauguration"
+    excerpt: "President-elect Joe Biden arrives in Washington Tuesday for the start of his inaugural ceremonies at a dark and solemn moment in American history, preparing to take his oath of office as the US approaches 400,000 coronavirus deaths and is more divided than at any time since the Civil War.\n    \n"
+    publishedDateTime: 2021-01-19T18:50:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2b-bS4R_BRc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memorial/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memorial/index.html"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/1c2d5e28-4740-448d-98b5-ac9222a755e8/thumbnail/1200x630/0b71298d7ef9696bca4127d1ca2abe07/gettyimages-1230789317.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118185745-field-of-flags-210118-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Watch live: Biden nominee for DHS Director testifies at confirmation hearing"
-    excerpt: "President-elect Joe Biden's nominee for Director of the Department of Homeland Security Alejandro Mayorkas on Tuesday morning is slated to testify at his Senate confirmation hearing.The hearing is scheduled to begin at 10 a."
-    publishedDateTime: 2021-01-19T14:23:00Z
-    webUrl: "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing"
-    ampWebUrl: "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing?amp"
+  - title: "Biden wants to remove this controversial word from US laws"
+    excerpt: "It's just one small part of the sweeping immigration overhaul President Biden is pushing.\n    \n"
+    publishedDateTime: 2021-01-21T18:59:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jAHo4tRxfS0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/21/politics/alien-biden-immigration-law/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/21/politics/alien-biden-immigration-law/index.html"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://thehill.com/sites/default/files/mayorkasalejandro_11242020getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120163716-alien-biden-immigration-law-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Biden seeks five-year extension of New START arms treaty with Russia: source"
-    excerpt: "U.S. President Joe Biden will seek a five-year extension to the New START arms control treaty with Russia, a source familiar with the matter said on Thursday."
-    publishedDateTime: 2021-01-22T00:01:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-russia-nuclear-idUSKBN29Q2I4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q2I4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q2I4"
+  - title: "Here are the executive orders Biden has signed so far"
+    excerpt: "President Joe Biden has signed a flurry of executive orders, actions and memorandums aimed at rapidly addressing the coronavirus pandemic and dismantling many of President Donald Trump's policies.\n    \n"
+    publishedDateTime: 2021-01-25T19:04:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GTyD7Szq5o4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/biden-executive-orders-day-six/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/biden-executive-orders-day-six/index.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548635762&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1OZ"
-        width: 800
-        height: 545
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122162050-president-biden-executive-orders-economic-relief-mattingly-dnt-lead-vpx-00004102-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "EXPLAINER: Election claims, and why it's clear Biden won"
-    excerpt: "As Democrat Joe Biden is sworn in Wednesday as the nation’s 46th president, Donald Trump’s most ardent supporters still believe Biden was not legitimately elected after Trump continues to argue the election was stolen."
-    publishedDateTime: 2021-01-20T06:17:00Z
-    webUrl: "https://www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1?amp"
+  - title: "Judge asks Biden administration to clarify deportation pause order"
+    excerpt: "A federal judge in Texas on Monday asked the Biden administration to clarify its 100-day pause on deportations as he considers a lawsuit to block the moratorium.\n    \n"
+    publishedDateTime: 2021-01-25T16:02:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QVUfljvA8Gg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/deportation-pause-texas/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/deportation-pause-texas/index.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-  - title: "FEMA would operate up to 100 federally run mass vaccination sites under Biden plan"
-    excerpt: "A draft FEMA document envisions four different models for sites, with the largest capable of handling 6,000 doses a day."
-    publishedDateTime: 2021-01-23T04:28:00Z
-    webUrl: "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/"
-    ampWebUrl: "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FAYNVVS3KMI6XKCJN6KCHJ277U.jpg&w=1440"
-        width: 1440
-        height: 1005
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922010710-ice-police-officer-ny-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "In first lawsuit against Biden administration, Texas AG Paxton challenges deportation freeze"
-    excerpt: "Texas Attorney General Ken Paxton asked a federal judge to block a new Biden administration policy that pauses most deportations for the next 100 days."
-    publishedDateTime: 2021-01-22T22:48:00Z
-    webUrl: "https://www.usatoday.com/story/news/2021/01/22/texas-ag-ken-paxton-files-lawsuit-block-biden-deportation-freeze/6675679002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6675679002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6675679002"
+  - title: "Analysis: On immigration, Biden seeks a new approach to an old deadlock"
+    excerpt: "President Joe Biden's early moves on immigration signal his determination to learn from past efforts to reform the system, but that doesn't mean he won't repeat their legacy of frustration.\n    \n"
+    publishedDateTime: 2021-01-26T12:22:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UYlicYpH3jk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/biden-immigration-strategy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/biden-immigration-strategy/index.html"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://www.gannett-cdn.com/media/2020/11/20/Austin/ghows-TX-200729145-8717c8b4.jpg?auto=webp&crop=750,422,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125165746-biden-immigration-approach-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Biden plans quick executive action on immigration, but warns of potential delay on legislation"
-    excerpt: "The president-elect told Latino leaders that his immigration bill may not pass during his first 100 days in office, citing the pandemic and Senate impeachment trial."
-    publishedDateTime: 2021-01-18T14:41:00Z
-    webUrl: "https://www.cbsnews.com/news/immigration-biden-executive-actions-100-days/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-biden-executive-actions-100-days/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-biden-executive-actions-100-days/"
+  - title: "Washington Post: Pence closer than initially known to the violent mob during US Capitol storming "
+    excerpt: "Vice President Mike Pence came closer than initially known to the mob of pro-Trump rioters who stormed the US Capitol on January 6, according to new reporting from the Washington Post.\n    \n"
+    publishedDateTime: 2021-01-15T16:55:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VEuDu-3iRN0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/pence-mob-us-capitol-january-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/pence-mob-us-capitol-january-6/index.html"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 113
+      name: CNN
+      domain: cnn.com
+    quality: 172
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/18/7193907f-bbb6-4c59-b99c-32f10c3b05f7/thumbnail/1200x630g2/45711032312276ceda9238296fdf8067/gettyimages-1230650670.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210107054511-02-congress-electoral-college-0107-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "US official says Biden administration to seek 5-year extension of nuclear arms treaty with Russia"
-    excerpt: "WASHINGTON — US official says Biden administration to seek 5-year extension of nuclear arms treaty with Russia. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
-    publishedDateTime: 2021-01-21T22:46:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/us-official-says-biden-administration-to-seek-5-year-extension-of-nuclear-arms-treaty-with-russia/2021/01/21/8b27008a-5c10-11eb-a849-6f9423a75ffd_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/national-security/us-official-says-biden-administration-to-seek-5-year-extension-of-nuclear-arms-treaty-with-russia/2021/01/21/8b27008a-5c10-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/us-official-says-biden-administration-to-seek-5-year-extension-of-nuclear-arms-treaty-with-russia/2021/01/21/8b27008a-5c10-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+  - title: "Biden raises the bar on vaccines and suggests US will get to 1.5 million a day"
+    excerpt: "President Joe Biden said Monday that he expects that the US will soon be able to vaccinate 1.5 million people a day, raising the bar by roughly 500,000 more vaccinations than its target of 1 million per day in his first 100 days in office. He said that the US could surpass that initial target in about"
+    publishedDateTime: 2021-01-25T22:46:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XJlPcSIgRd0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/biden-vaccine-distribution/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/biden-vaccine-distribution/index.html"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
+      name: CNN
+      domain: cnn.com
+    quality: 171
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125161813-01-biden-manufacturing-0125-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Biden more bullish on vaccines, suggests 1.5M shots per day"
-    excerpt: "President Joe Biden on Monday appeared to boost his goal for coronavirus vaccinations in his first 100 days in office, suggesting that the nation could soon be vaccinating 1.5 million Americans on average per day."
-    publishedDateTime: 2021-01-25T23:21:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/25/biden-more-bullish-vaccines-suggests-1-5-m-shots-per-day/4253427001/"
+  - title: "Senate to vote on confirmation of Biden secretary of state pick Antony Blinken"
+    excerpt: "The Senate will vote on whether to confirm Antony Blinken as the new US secretary of state Tuesday.\n    \n"
+    publishedDateTime: 2021-01-26T16:04:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3DruUCkPqoM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/blinken-confirmation-secretary-of-state/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/blinken-confirmation-secretary-of-state/index.html"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: CNN
+      domain: cnn.com
+    quality: 171
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e4004a43-0bab-437e-8c49-cf86e4a9f02b_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119192335-blinken-confirmation-hearing-0119-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Eye Opener: Biden signs slew of executive actions in first days as president"
-    excerpt: "President Joe Biden has already signed 29 executive actions during his first 55 hours in the White House. Also, January has now become the second deadliest month in the coronavirus pandemic. All that and all that matters in today's Eye Opener."
-    publishedDateTime: 2021-01-23T13:40:00Z
-    webUrl: "https://www.cbsnews.com/video/eye-opener-biden-signs-slew-of-executive-actions-in-first-days-as-president/"
+  - title: "Washington Post: Biden to ask for US Surgeon General Jerome Adams' resignation and name acting official"
+    excerpt: "President-elect Joe Biden is expected to ask for US Surgeon General Jerome Adams' resignation soon after he is sworn-in on Wednesday, and select an acting surgeon general while his permanent pick for the role of the nation's top doctor undergoes Senate confirmation, according to The Washington Post.\n"
+    publishedDateTime: 2021-01-20T11:49:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Cksx-mIbmSI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/biden-jerome-adams-surgeon-general-resign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/biden-jerome-adams-surgeon-general-resign/index.html"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 102
+      name: CNN
+      domain: cnn.com
+    quality: 159
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/23/7ca836cb-bc96-4371-92fc-5cfbe204ab1c/thumbnail/1200x630/89b98f4d140361d53c81c26f8af3dc43/cbsn-fusion-eye-opener-biden-signs-slew-of-executive-actions-in-first-days-as-president-thumbnail-631980-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103093854-surgeon-general-jerome-adams-covid-19-vaccine-sotu-vpx-00014023-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Joe Biden has set sky-high expectations. Can he meet them?"
-    excerpt: "Back when the election was tightening and just a week away, Joe Biden went big. He flew to Warm Springs, the Georgia town whose thermal waters once brought Franklin Delano Roosevelt comfort from polio,"
-    publishedDateTime: 2021-01-19T13:39:00Z
-    webUrl: "https://www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html"
-    ampWebUrl: "https://www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-biden-has-set-sky-high-expectations-can-he-meet-them.html?outputType=amp"
+  - title: "Biden set to meet with first Black defense secretary as administration is poised to lift transgender military ban"
+    excerpt: "President Joe Biden is set to meet Monday morning with Defense Secretary Lloyd Austin, as the President is poised to repeal a Trump-era ban on most transgender Americans joining the military as early as Monday.\n    \n"
+    publishedDateTime: 2021-01-25T16:35:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uqxM1f4i9WE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/lloyd-austin-transgender-military-harris-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/lloyd-austin-transgender-military-harris-biden/index.html"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 75
+      name: CNN
+      domain: cnn.com
+    quality: 154
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KMV2GSVBLRBFXG6Q3CXUGLMWEE.jpg"
-        width: 1024
-        height: 683
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125103833-biden-harris-austin-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "With 400k Covid deaths, Biden set to take helm of nation in crisis"
+    excerpt: "With more than 400,000 souls lost to the coronavirus pandemic, President-elect Joe Biden will have his work cut out for him when he takes the helm of a polarized and pained nation tomorrow at noon. Here is what we're watching this Tuesday morning."
+    publishedDateTime: 2021-01-19T12:58:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/400k-covid-deaths-biden-set-take-helm-nation-crisis-n1254640"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254640"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254640"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_03/3443042/210119-lincoln_memorial_reflecting_pool-mc-1137_a48dc439f5ef580d138644f5f3cb857b.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden to outline racial equity plan, sign executive actions"
+    excerpt: "President Joe Biden will deliver remarks Tuesday outlining his plan to advance racial equity and will sign executive actions as part of his push to use the powers of the presidency to implement parts of his agenda."
+    publishedDateTime: 2021-01-26T12:23:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-outline-racial-equity-plan-sign-executive-actions-n1255637"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255637"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255637"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_04/3445011/210126-joe-biden-mc-1140_6fe2bef53ad2d7202f4507699a08a599.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "'Armed protests' warning puts officials on alert this weekend ahead of Biden inauguration"
+    excerpt: "Law enforcement and state officials are on high alert for potentially violent protests this weekend in the lead-up to Inauguration Day, with some state capitols boarded up and others temporarily closed ahead of Wednesday's ceremony."
+    publishedDateTime: 2021-01-19T15:47:00Z
+    webUrl: "https://www.cnn.com/2021/01/16/us/inauguration-protests-saturday/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/16/us/inauguration-protests-saturday/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/16/us/inauguration-protests-saturday/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 126
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116204718-capitol-fence-jan-15-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
-secured: "Ln4HkB3UprGlg9bp0Bqzz1rJdyNdkteXQ2FRfyUnNqfyv/fJOkoxNT8ck48RL3s+bcvG5vFntnWDytxwPJW1ptPLEfs3F/RGTKeRUHNTN/i1G0R7YI8JBfCoNoNhJvg2Msik4O9Dtju8xEKeODawR/HyVqQUJiyJx7HbNlLaxUf0xaL1CajWH/jkICTo7tOTZeBLAhthnywt62/Vbq/osVEeN84O7bzRwM/4LHuHosFGNf29+GzUwflkEQEIO2x5EFCmjYyX0euP8rmwVlcCkpxg7OgqgTDPDAfkLkUAcm21xXV42LnkXMeUSVv07XxpCeLsI8Vh3qiQEtTWN2/4gyikCVdHh2sJ/Kpo28TWspY=;SktIn/tXFcK1b9sdz02eSg=="
+secured: "b8rWBHWmgZOBlMHb5XEQl8h/M9AfucaaIhbHujfSzE+6dH4ZPL1S39TVQ3IqhPkvJ6obT28s7tF6kl1dNdbaBc0iUCP7NjVxqW3zcF91iHNDhmQGTKLPfXMKVKikGgRjonf1JGIQFdMtZCbxgnkac6Q1zBFUXNWzCMV3N1MWLTS5eJB1zeS25UO7tQXX+WGUEX9Kb5uwqkKLhwUdLCmfteEFNbtG4f+RpmWI9qGhvMhiVV+Zh8s2RTQnNm2G8I39dEkegxg1zgVxsBEh4pysRqgpJHX1cTVOsOTqlG060A9HBYo5iXVvDhWvUtFjsBUMJIp6Ur1kmC5loXas+j0bUzo/HjrBbYDUGBftWcKCWqI=;3io1ZPC10EK4OPngq9J8og=="
 ---
 

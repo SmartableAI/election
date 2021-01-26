@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-trump-sendoff-biden-inaugurat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp"
 type: article
 quality: 205
-heat: 4245
+heat: 4265
 published: true
 
 provider:
@@ -1807,6 +1807,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Joe-Biden-1987.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Psaki to hold White House press briefing with Biden domestic policy adviser Susan Rice"
+    excerpt: "White House Press Secretary Jen Psaki is set to hold a briefing with President Biden’s Domestic Policy Advisor Susan Rice on Tuesday to discuss actions the administration is expected to take to \"advance racial equity.\""
+    publishedDateTime: 2021-01-26T16:29:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xN9ijl2M8QQ/psaki-holds-white-house-press-briefing-with-susan-rice"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-holds-white-house-press-briefing-with-susan-rice.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-holds-white-house-press-briefing-with-susan-rice.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump impeached by House over Capitol riots, becomes first president to face rebuke twice"
     excerpt: "The House of Representatives Wednesday made history by voting to impeach President Trump for a second time in his presidency."

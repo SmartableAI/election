@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden Officials Discuss $1.9 Tn Stimulus Plan in Call With Group of Bipartisan Lawmakers"
-    excerpt: "Officials in Joe Biden's administration discussed the president's $1.9 trillion stimulus proposal in a call with a group of bipartisan lawmakers on Sunday. On January 14, days before his inauguration,"
-    publishedDateTime: 2021-01-25T04:24:00Z
-    webUrl: "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026"
-    ampWebUrl: "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1"
+  - title: "FEMA would operate up to 100 federally run mass vaccination sites under Biden plan"
+    excerpt: "A draft FEMA document envisions four different models for sites, with the largest capable of handling 6,000 doses a day."
+    publishedDateTime: 2021-01-23T04:28:00Z
+    webUrl: "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/?outputType=amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
     images:
-      - url: "https://d.newsweek.com/en/full/1714910/biden-harris-white-house.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FAYNVVS3KMI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 1005
+        isCached: true
+  - title: "'Health of the nation is literally at stake': Biden vows swift action on vaccine sites, supplies; 100 million shots"
+    excerpt: "BIden will add clinics, bolster the public health workforce and invoke a wartime production law to ensure adequate vaccine supplies."
+    publishedDateTime: 2021-01-17T20:49:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2021/01/15/biden-add-clinics-and-supplies-complete-100-million-vaccine-shots/4174175001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4174175001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4174175001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/4836ad86-bdf1-496c-b913-038525820561-Day_in_pictures_Jan._12_2021_03.JPG?auto=webp&crop=4862,2735,x1,y36&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Guatemalan forces clash with migrant caravan, Biden team seeks to halt exodus"
     excerpt: "Guatemalan security forces on Sunday used sticks and tear gas to beat back a large migrant caravan bound for the United States, just days before the advent of a new U.S. administration, which urged travelers to abandon the journey."
@@ -61,21 +77,37 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Some senators oppose the direct-payment part of Biden's stimulus plan because they think it gives too much money to the wealthy, report says"
-    excerpt: "The bipartisan group of senators was said to have expressed its concerns during a call with the White House on Sunday."
-    publishedDateTime: 2021-01-25T08:50:00Z
-    webUrl: "https://www.businessinsider.com/senators-oppose-biden-stimulus-checks-for-the-wealthy-politico-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/senators-oppose-biden-stimulus-checks-for-the-wealthy-politico-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senators-oppose-biden-stimulus-checks-for-the-wealthy-politico-2021-1?amp"
+  - title: "Coronavirus updates: Single-dose vaccine from Johnson & Johnson could be 'game changer'; Biden to require masks on planes"
+    excerpt: "A COVID vaccine being developed by New Jersey-based Johnson & Johnson could dramatically speed up the fight against the pandemic. Latest COVID news."
+    publishedDateTime: 2021-01-21T18:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2021/01/21/covid-news-vaccine-shortages-us-response-joe-biden-california/4237433001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4237433001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4237433001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 90
+      name: USA Today
+      domain: usatoday.com
+    quality: 100
     images:
-      - url: "https://i.insider.com/600e4b457e47190011cb8f63?width=1200&format=jpeg"
-        width: 860
-        height: 430
+      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/a6d17a2c-5ef4-4acf-87f9-b26f62b41bc4-AP21020686218912.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Politics live updates: Biden predicts vaccine available to general public in spring; Sen. Leahy to preside over impeachment"
+    excerpt: "House Democrats will carry their article of impeachment against Donald Trump across the Capitol to the Senate Monday. The trial will start Feb. 9."
+    publishedDateTime: 2021-01-25T22:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/25/politics-live-updates-trump-impeachment-article-goes-senate/6698416002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6698416002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6698416002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 99
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/25/USAT/9fdef51e-e789-4520-94dd-a4236d4d57cb-AP21025782104966_2.jpg?auto=webp&crop=1023,575,x1,y91&format=pjpg&width=1200"
+        width: 1200
+        height: 674
         isCached: true
 
 secured: "kqAP2xH5qnvZPCER5LH0XsDpr1VKSOeGtjTL5NMBt1KT4LsllKUVPQdjGubYKDtoHGc1uJMPH6d0GvxcJ0g/K333AX29Y7xPWToWYJA8j9UKjO5x/F8diMBj8YCIJ4PxB9+EK0ErMh1UfSzg/DmP12uWa8J5l7ggv2CFnKb+qTiy3V6xqRx11J8L4+xtHhNxlFcYPIObutFAJRn/VWtn63oV0bF2IB7Ihk3Zbu7+xy/A1ykaoMDRhP6H9RBLvVInt0cX/fMiHf5kwznRY2RjNya6l46TMYU1vzAs1PvjdHzCH858o4vJBT+WkErMCUH5wdu0IX+M95i+3efifI8FIy34RBSE5WsRDdMe8i7e7vE=;sNa60Efu01TPh0pzDPCiUA=="

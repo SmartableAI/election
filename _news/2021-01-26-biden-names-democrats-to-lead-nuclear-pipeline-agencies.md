@@ -671,6 +671,22 @@ related:
         width: 868
         height: 545
         isCached: true
+  - title: "Mike Pence announces he will return to live in Indiana"
+    excerpt: "Where will the former vice president live? Pence speaks briefly to supporters after landing Wednesday afternoon in his hometown of Columbus, Ind."
+    publishedDateTime: 2021-01-20T05:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/20/former-vice-president-mike-pence-says-returning-live-indiana/4218568001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4218568001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4218568001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/116d7f69-005b-4bcb-900f-1f3ae7af5bb7-cent02-7e5pjkkuzrd171k0zhjs_original.jpg?auto=webp&crop=2356,1326,x0,y200&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Teen whom Biden befriended as fellow stutterer has book deal"
     excerpt: "Brayden Harrington, the teenager whom President-elect Joe Biden befriended as a fellow stutterer, has a book coming out this summer."
     publishedDateTime: 2021-01-19T22:38:00Z
@@ -1199,6 +1215,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden more bullish on vaccines, open to 1.5M daily shot goal"
+    excerpt: "President Joe Biden appears to be boosting his goal for coronavirus vaccinations in his first 100 days in office, suggesting the nation could soon be vaccinating 1.5 million Americans on average per d"
+    publishedDateTime: 2021-01-26T10:09:00Z
+    webUrl: "https://www.washingtonpost.com/business/biden-more-bullish-on-vaccines-open-to-15m-daily-shot-goal/2021/01/26/a3e6a3b4-5f94-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/biden-more-bullish-on-vaccines-open-to-15m-daily-shot-goal/2021/01/26/a3e6a3b4-5f94-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-more-bullish-on-vaccines-open-to-15m-daily-shot-goal/2021/01/26/a3e6a3b4-5f94-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden overturns ban on transgender people serving in the U.S. military"
     excerpt: "President Joe Biden on Monday overturned a controversial ban by his predecessor on transgender individuals serving in the U.S. military, a move that fulfills a campaign promise and will be cheered by LGBTQ advocates."
     publishedDateTime: 2021-01-25T21:55:00Z
@@ -1390,6 +1422,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/dcfb485c978d17cdd965f3beb3d74122d4b1fb25/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b5d909cb725ce2affd9fcada7d79cacf"
         width: 600
         height: 360
+        isCached: true
+  - title: "The Health 202: Biden will reopen Healthcare.gov for buying insurance plans"
+    excerpt: "President Biden plans to bolster the Affordable Care Act, after his predecessor spent four years trying to peel back the 2010 health-care law. Support our journalism. Subscribe today. His first move: To reopen the federal-run insurance website Healthcare."
+    publishedDateTime: 2021-01-26T12:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/26/health-202-biden-will-reopen-healthcaregov-buying-insurance-plans/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/26/health-202-biden-will-reopen-healthcaregov-buying-insurance-plans/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/26/health-202-biden-will-reopen-healthcaregov-buying-insurance-plans/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CBIWR5MHU5HUNNOYD6JO4HKLUI&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "The Health 202: It's still unclear who will lead HHS after Biden is sworn in"
     excerpt: "The president-elect will need to designate many temporary agency heads before the Senate confirms his nominees."
@@ -2283,17 +2331,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden more bullish on vaccines, open to 1.5M daily shot goal"
-    excerpt: "President Joe Biden appeared to boost his goal for coronavirus vaccinations in his first 100 days in office, suggesting the nation could soon be injecting 1.5 million shots on an average per day."
-    publishedDateTime: 2021-01-26T13:26:00Z
-    webUrl: "https://www.businessinsider.com/biden-more-bullish-on-vaccines-open-to-15m-daily-shot-goal-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/biden-more-bullish-on-vaccines-open-to-15m-daily-shot-goal-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-more-bullish-on-vaccines-open-to-15m-daily-shot-goal-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Biden replaces White House doctor with longtime physician"
     excerpt: "WASHINGTON (AP) — President Joe Biden has brought back Dr. Kevin O'Connor as his physician, replacing President Donald Trump's doctor with the one who oversaw his care when he was vice president."
     publishedDateTime: 2021-01-26T00:38:00Z

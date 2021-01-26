@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-26-biden-to-reopen-healthcaregov-as-people-lose-coverage-amid-covid-19-report.md",
+      "title": "Biden to reopen healthcare.gov as people lose coverage amid COVID-19: report",
+      "excerpt": "U.S. President Joe Biden plans to order the nation's online insurance marketplace, healthcare.gov, to reopen for at least a few months to offer Americans a way to buy health insurance amid the COVID-19 pandemic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-insurance-idUSKBN29V1KO",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-insurance-idUSKBN29V1KO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549108836&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P0XP",
+          "width": 856,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29V1KO",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V1KO",
+      "publishedDateTime": "2021-01-26T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-biden-to-sign-new-executive-orders-on-his-racial-equity-agenda-live.md",
+      "title": "Biden to sign new executive orders on his racial equity agenda – live",
+      "excerpt": "President will give address on racial equality on Tuesday afternoon after senators are sworn in for Trump impeachment",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates?page=with:block-6010258c8f0869215d930d1d",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates?page=with:block-6010258c8f0869215d930d1d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 385,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/2cf58929b1222f15c3f8573f1f34e86f29f147c3/0_209_5550_3333/master/5550.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8d61721628dd9df049b57a80b2e99eae",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates",
+      "publishedDateTime": "2021-01-26T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-irans-un-ambassador-says-iran-is-waiting-for-president-biden-to-make-the-first-diplomatic-move.md",
       "title": "Iran's U.N. ambassador says Iran is waiting for President Biden to make the first diplomatic move",
       "excerpt": "The Biden administration needs to lift sanctions on Iran and return to the nuclear deal that Trump ditched, the Iranian ambassador to the U.N. says.",
@@ -67,7 +171,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-military-transgender-idUSKBN29U1VH",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2229,
+      "heat": 2249,
       "tags": null,
       "images": [
         {
@@ -109,58 +213,6 @@
         "Election",
         "Joe Biden",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-biden-administration-suspends-some-sanctions-on-yemen-rebels.md",
-      "title": "Biden administration suspends some sanctions on Yemen rebels",
-      "excerpt": "The Biden administration is suspending some of the terrorism sanctions that former Secretary of State Mike Pompeo imposed on Yemen's Houthi rebels in his waning days in office",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-administration-suspends-sanctions-yemen-rebels-75476202",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-administration-suspends-sanctions-yemen-rebels-75476202",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_3d3d5d3fb8724be4acff290c8b19d406_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-administration-suspends-sanctions-yemen-rebels-75476202",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-administration-suspends-sanctions-yemen-rebels-75476202",
-      "publishedDateTime": "2021-01-25T17:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -216,58 +268,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-26-politics-live-updates-biden-predicts-vaccine-available-to-general-public-in-spring-sen-leahy-to-preside-over-impeachment.md",
-      "title": "Politics live updates: Biden predicts vaccine available to general public in spring; Sen. Leahy to preside over impeachment",
-      "excerpt": "House Democrats will carry their article of impeachment against Donald Trump across the Capitol to the Senate Monday. The trial will start Feb. 9.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/25/politics-live-updates-trump-impeachment-article-goes-senate/6698416002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/25/politics-live-updates-trump-impeachment-article-goes-senate/6698416002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/25/USAT/9fdef51e-e789-4520-94dd-a4236d4d57cb-AP21025782104966_2.jpg?auto=webp&crop=1023,575,x1,y91&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6698416002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6698416002",
-      "publishedDateTime": "2021-01-25T14:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-01-25-biden-officials-discuss-19-tn-stimulus-plan-in-call-with-group-of-bipartisan-lawmakers.md",
       "title": "Biden Officials Discuss $1.9 Tn Stimulus Plan in Call With Group of Bipartisan Lawmakers",
       "excerpt": "Officials in Joe Biden's administration discussed the president's $1.9 trillion stimulus proposal in a call with a group of bipartisan lawmakers on Sunday. On January 14, days before his inauguration,",
@@ -276,7 +276,7 @@
       "originalUrl": "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -590,21 +590,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-24-fauci-says-bidens-strikingly-different-tone-on-covid-crisis-will-rev-up-vaccination-efforts.md",
-      "title": "Fauci Says Biden's 'Strikingly Different Tone' on COVID Crisis Will Rev Up Vaccination Efforts",
-      "excerpt": "\"Instead of pointing fingers and making blame, we're going to try and fix it,\" the nation's top infectious disease expert said.",
+      "path": "_news/2021-01-23-fema-would-operate-up-to-100-federally-run-mass-vaccination-sites-under-biden-plan.md",
+      "title": "FEMA would operate up to 100 federally run mass vaccination sites under Biden plan",
+      "excerpt": "A draft FEMA document envisions four different models for sites, with the largest capable of handling 6,000 doses a day.",
       "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912",
-      "originalUrl": "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912",
+      "webUrl": "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/",
+      "originalUrl": "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 219,
       "tags": null,
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/1714793/anthony-fauci.jpg",
-          "width": 2500,
-          "height": 1668,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FAYNVVS3KMI6XKCJN6KCHJ277U.jpg&w=1440",
+          "width": 1440,
+          "height": 1005,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -612,16 +612,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1",
-      "publishedDateTime": "2021-01-23T10:57:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/?outputType=amp",
+      "publishedDateTime": "2021-01-22T20:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -629,49 +629,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-mine-just-south-of-oregon-nevada-line-may-boost-joe-bidens-energy-plan.md",
-      "title": "Mine just south of Oregon-Nevada line may boost Joe Biden’s energy plan",
-      "excerpt": "One of the keys to President Joe Biden’s $2 trillion clean energy plan could be a mineral that lies in a salt flat above a prehistoric volcano just south of the Oregon-Nevada line.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oregonlive.com/environment/2021/01/mine-just-south-of-oregon-nevada-line-may-boost-joe-bidens-energy-plan.html",
-      "originalUrl": "https://www.oregonlive.com/environment/2021/01/mine-just-south-of-oregon-nevada-line-may-boost-joe-bidens-energy-plan.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P724E5QASRBPRP6DSZO2LKZNLY.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.oregonlive.com/environment/2021/01/mine-just-south-of-oregon-nevada-line-may-boost-joe-bidens-energy-plan.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/environment/2021/01/mine-just-south-of-oregon-nevada-line-may-boost-joe-bidens-energy-plan.html?outputType=amp",
-      "publishedDateTime": "2021-01-23T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oregonian",
-        "domain": "oregonlive.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -737,6 +694,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-23-in-first-lawsuit-against-biden-administration-texas-ag-paxton-challenges-deportation-freeze.md",
+      "title": "In first lawsuit against Biden administration, Texas AG Paxton challenges deportation freeze",
+      "excerpt": "Texas Attorney General Ken Paxton asked a federal judge to block a new Biden administration policy that pauses most deportations for the next 100 days.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2021/01/22/texas-ag-ken-paxton-files-lawsuit-block-biden-deportation-freeze/6675679002/",
+      "originalUrl": "https://www.usatoday.com/story/news/2021/01/22/texas-ag-ken-paxton-files-lawsuit-block-biden-deportation-freeze/6675679002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/media/2020/11/20/Austin/ghows-TX-200729145-8717c8b4.jpg?auto=webp&crop=750,422,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6675679002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6675679002",
+      "publishedDateTime": "2021-01-22T14:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-georgia-black-women-leaders-on-saving-democracy-by-helping-flip-senate-fueling-biden-harris-win.md",
       "title": "Georgia Black women leaders on 'saving democracy' by helping flip Senate, fueling Biden-Harris win",
       "excerpt": "It’s almost like someone has wiped the darkness away and given us new light,” a voter registration organizer said.",
@@ -745,7 +754,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/georgia-black-women-leaders-saving-democracy-helping-flip/story?id=75407219",
       "featuredContent": null,
       "highlight": null,
-      "heat": 296,
+      "heat": 316,
       "tags": null,
       "images": [
         {
@@ -787,58 +796,6 @@
         "Election",
         "Joe Biden",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-biden-order-seeks-stronger-workplace-safety-rules-signaling-a-more-worker-friendly-approach.md",
-      "title": "Biden order seeks stronger workplace safety rules, signaling a more worker friendly approach",
-      "excerpt": "The Executive Order could lead to an emergency standard for businesses — a set of a regulations they would have to comply with, like mask-wearing, that advocates say is necessary to combat the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/",
-      "originalUrl": "https://www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KLXVVQCAZ4I6XNMLCYR7MJTZMA.jpg&w=1440",
-          "width": 1440,
-          "height": 1001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/?outputType=amp",
-      "publishedDateTime": "2021-01-21T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -1060,21 +1017,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-21-this-is-our-historic-moment-of-crisis-and-challenge-joe-biden-calls-for-unity-in-first-speech-as-president-live.md",
-      "title": "'This is our historic moment of crisis and challenge': Joe Biden calls for unity in first speech as president – live",
-      "excerpt": "Joe Biden has been sworn in as president, bringing an end to four years of Donald Trump’s leadership in Washington",
+      "path": "_news/2021-01-21-we-will-get-through-this-together-newspaper-front-pages-herald-president-joe-biden-review-challenges-ahead.md",
+      "title": "‘We will get through this together’: Newspaper front pages herald President Joe Biden, review challenges ahead",
+      "excerpt": "Joe Biden dominated, of course, but here and there his groundbreaking vice president Kamala Harris grabbed top billing.",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-60087e588f08fbcf3cf0e1fa",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-60087e588f08fbcf3cf0e1fa",
+      "webUrl": "https://www.oregonlive.com/nation/2021/01/we-will-get-through-this-together-front-pages-herald-president-joe-biden-review-challenges-ahead.html",
+      "originalUrl": "https://www.oregonlive.com/nation/2021/01/we-will-get-through-this-together-front-pages-herald-president-joe-biden-review-challenges-ahead.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 75,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/d15a858f45a82cc9a06ff6968945b105bb4befcc/0_199_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e9c855fc42f237c45a7a7d11c48fa8f",
-          "width": 600,
-          "height": 360,
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DOTFE2YHJBF67GBQ5LVTYXM52E.jpg",
+          "width": 2661,
+          "height": 1774,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1082,23 +1039,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates",
-      "publishedDateTime": "2021-01-20T10:15:00-08:00",
+      "ampWebUrl": "https://www.oregonlive.com/nation/2021/01/we-will-get-through-this-together-front-pages-herald-president-joe-biden-review-challenges-ahead.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2021/01/we-will-get-through-this-together-front-pages-herald-president-joe-biden-review-challenges-ahead.html?outputType=amp",
+      "publishedDateTime": "2021-01-21T05:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Oregonian",
+        "domain": "oregonlive.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1221,6 +1169,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-20-explainer-election-claims-and-why-its-clear-biden-won.md",
+      "title": "EXPLAINER: Election claims, and why it's clear Biden won",
+      "excerpt": "As Democrat Joe Biden is sworn in Wednesday as the nation’s 46th president, Donald Trump’s most ardent supporters still believe Biden was not legitimately elected after Trump continues to argue the election was stolen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1",
+      "originalUrl": "https://www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1?amp",
+      "publishedDateTime": "2021-01-19T22:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-pence-heading-back-to-indiana-hometown-after-biden-inaugural.md",
       "title": "Pence heading back to Indiana hometown after Biden inaugural",
       "excerpt": "Vice President Mike Pence will be returning to his southern Indiana hometown Wednesday afternoon following the inauguration of President-elect Joe Biden",
@@ -1229,7 +1220,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4310,
+      "heat": 4350,
       "tags": null,
       "images": [
         {
@@ -1426,58 +1417,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-18-health-of-the-nation-is-literally-at-stake-biden-vows-swift-action-on-vaccine-sites-supplies-100-million-shots.md",
-      "title": "'Health of the nation is literally at stake': Biden vows swift action on vaccine sites, supplies; 100 million shots",
-      "excerpt": "BIden will add clinics, bolster the public health workforce and invoke a wartime production law to ensure adequate vaccine supplies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/health/2021/01/15/biden-add-clinics-and-supplies-complete-100-million-vaccine-shots/4174175001/",
-      "originalUrl": "https://www.usatoday.com/story/news/health/2021/01/15/biden-add-clinics-and-supplies-complete-100-million-vaccine-shots/4174175001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/12/USAT/4836ad86-bdf1-496c-b913-038525820561-Day_in_pictures_Jan._12_2021_03.JPG?auto=webp&crop=4862,2735,x1,y36&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4174175001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4174175001",
-      "publishedDateTime": "2021-01-17T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-01-17-joe-bidens-options-for-dealing-with-donald-trump-are-worse-than-watergate.md",
       "title": "Joe Biden's Options for Dealing with Donald Trump Are Worse than Watergate",
       "excerpt": "When it comes to Donald Trump, the incoming president has a critical decision to make about the best way to move the country forward—and neither Democrats nor Republicans are likely to be happy about his choice.",
@@ -1563,6 +1502,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-17-politics-updates-horrified-loews-wont-host-hawley-fundraiser-biden-outlines-orders-planned-for-first-10-days.md",
+      "title": "Politics updates: 'Horrified' Loews won't host Hawley fundraiser; Biden outlines orders planned for first 10 days",
+      "excerpt": "\"We are horrified and opposed to the events at the Capitol and all who supported and incited the actions,\" the hotel chain said in a statement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/16/politics-updates-joe-biden-inauguration-donald-trump-impeachment/4188126001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/16/politics-updates-joe-biden-inauguration-donald-trump-impeachment/4188126001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/08/USAT/676a28d8-30ca-4a07-b18d-b2610251ec17-29701ba5-8e59-4c85-a41c-fda5046ede39-AP21006849368171.jpg?auto=webp&crop=2499,1406,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4188126001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4188126001",
+      "publishedDateTime": "2021-01-16T18:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

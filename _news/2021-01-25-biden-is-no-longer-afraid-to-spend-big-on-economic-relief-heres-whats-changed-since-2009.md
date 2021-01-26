@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden plans to reopen Obamacare enrollment"
+    excerpt: "President Joe Biden is expected to reopen enrollment on the federal Affordable Care Act exchanges on Thursday as part of a series of executive actions related to health care, taking a step to help uninsured Americans that his predecessor rejected.\n    \n"
+    publishedDateTime: 2021-01-26T16:09:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N8_0eAuY_jw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/biden-aca-obamacare-open-enrollment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/biden-aca-obamacare-open-enrollment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126135135-01-biden-0125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden will sign executive order aimed at strengthening American manufacturing"
     excerpt: "President Joe Biden will sign an executive order Monday aimed at boosting American manufacturing, setting in motion a process to fulfill his campaign pledge to strengthen the federal government's Buy American rules.\n    \n"
     publishedDateTime: 2021-01-25T11:43:21Z

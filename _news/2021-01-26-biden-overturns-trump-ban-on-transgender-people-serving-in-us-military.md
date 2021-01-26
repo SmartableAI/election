@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U1VH"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U1VH"
 type: article
 quality: 149
-heat: 2229
+heat: 2249
 published: true
 
 provider:
@@ -1192,6 +1192,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/870ea0d8-9185-41f6-bbf5-fc75ad2736d2/thumbnail/1200x630/ead47aa2d8d46155a20fe2c8ae8548f4/cbsn-fusion-trump-impeachment-trial-jessica-levinson-analysis-2021-01-25-thumbnail-633279-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "‘We need to get over being a divided country.’ What three Trump voters think of Biden’s call for unity."
+    excerpt: "Biden’s call for unity comes at a time of stark division in the nation, including over his own leadership. A recent-ABC News poll found that 50 percent of Americans had “just some” confidence or “none at all” in Biden’s ability to make the right decisions for the country’s future,"
+    publishedDateTime: 2021-01-26T16:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/26/we-need-get-over-being-divided-country-what-three-trump-voters-think-bidens-call-unity/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U4HL6CC3KMI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden taps Levine for key health role, in historic pick of transgender person"
     excerpt: "President-elect Joe Biden on Tuesday named Dr. Rachel Levine to service as assistant U.S. health secretary, a historic first as Levine would become the first openly transgender official to be confirmed by the Senate."

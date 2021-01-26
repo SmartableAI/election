@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate to vote on confirmation of Biden secretary of state pick Antony Blinken"
+    excerpt: "The Senate will vote on whether to confirm Antony Blinken as the new US secretary of state Tuesday.\n    \n"
+    publishedDateTime: 2021-01-26T16:04:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3DruUCkPqoM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/blinken-confirmation-secretary-of-state/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/blinken-confirmation-secretary-of-state/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119192335-blinken-confirmation-hearing-0119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden set to meet with first Black defense secretary as administration is poised to lift transgender military ban"
     excerpt: "President Joe Biden is set to meet Monday morning with Defense Secretary Lloyd Austin, as the President is poised to repeal a Trump-era ban on most transgender Americans joining the military as early as Monday.\n    \n"
     publishedDateTime: 2021-01-25T16:35:58Z
@@ -172,6 +188,38 @@ related:
     quality: 135
     images:
       - url: "https://media1.s-nbcnews.com/i/newscms/2021_03/3443042/210119-lincoln_memorial_reflecting_pool-mc-1137_a48dc439f5ef580d138644f5f3cb857b.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden administration suspends some sanctions on Yemen rebels"
+    excerpt: "Aid organizations have warned sanctions would exacerbate what is already one of the world’s worst humanitarian crises."
+    publishedDateTime: 2021-01-26T11:31:00Z
+    webUrl: "https://www.nbcnews.com/news/world/biden-administration-suspends-some-sanctions-yemen-rebels-n1255632"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255632"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255632"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_04/3445000/210126-yemen-houthi-mc-854_2b1e3136cf964d7334eaeed834a28cbb.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden to outline racial equity plan, sign executive actions"
+    excerpt: "President Joe Biden will deliver remarks Tuesday outlining his plan to advance racial equity and will sign executive actions as part of his push to use the powers of the presidency to implement parts of his agenda."
+    publishedDateTime: 2021-01-26T12:23:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-outline-racial-equity-plan-sign-executive-actions-n1255637"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255637"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255637"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_04/3445011/210126-joe-biden-mc-1140_6fe2bef53ad2d7202f4507699a08a599.JPG"
         width: 2500
         height: 1667
         isCached: true

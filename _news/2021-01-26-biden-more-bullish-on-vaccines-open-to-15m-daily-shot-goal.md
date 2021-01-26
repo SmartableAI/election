@@ -1,28 +1,34 @@
 ---
 category: news
 title: "Biden more bullish on vaccines, open to 1.5M daily shot goal"
-excerpt: "President Joe Biden appeared to boost his goal for coronavirus vaccinations in his first 100 days in office, suggesting the nation could soon be injecting 1.5 million shots on an average per day."
-publishedDateTime: 2021-01-26T13:26:00Z
-originalUrl: "https://www.businessinsider.com/biden-more-bullish-on-vaccines-open-to-15m-daily-shot-goal-2021-1"
-webUrl: "https://www.businessinsider.com/biden-more-bullish-on-vaccines-open-to-15m-daily-shot-goal-2021-1"
-ampWebUrl: "https://www.businessinsider.com/biden-more-bullish-on-vaccines-open-to-15m-daily-shot-goal-2021-1?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-more-bullish-on-vaccines-open-to-15m-daily-shot-goal-2021-1?amp"
+excerpt: "President Joe Biden appears to be boosting his goal for coronavirus vaccinations in his first 100 days in office, suggesting the nation could soon be vaccinating 1.5 million Americans on average per d"
+publishedDateTime: 2021-01-26T10:09:00Z
+originalUrl: "https://www.washingtonpost.com/business/biden-more-bullish-on-vaccines-open-to-15m-daily-shot-goal/2021/01/26/a3e6a3b4-5f94-11eb-a177-7765f29a9524_story.html"
+webUrl: "https://www.washingtonpost.com/business/biden-more-bullish-on-vaccines-open-to-15m-daily-shot-goal/2021/01/26/a3e6a3b4-5f94-11eb-a177-7765f29a9524_story.html"
+ampWebUrl: "https://www.washingtonpost.com/business/biden-more-bullish-on-vaccines-open-to-15m-daily-shot-goal/2021/01/26/a3e6a3b4-5f94-11eb-a177-7765f29a9524_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-more-bullish-on-vaccines-open-to-15m-daily-shot-goal/2021/01/26/a3e6a3b4-5f94-11eb-a177-7765f29a9524_story.html?outputType=amp"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Pence heading back to Indiana hometown after Biden inaugural"
@@ -664,6 +670,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548407148&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0J0C4"
         width: 868
         height: 545
+        isCached: true
+  - title: "Mike Pence announces he will return to live in Indiana"
+    excerpt: "Where will the former vice president live? Pence speaks briefly to supporters after landing Wednesday afternoon in his hometown of Columbus, Ind."
+    publishedDateTime: 2021-01-20T05:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/20/former-vice-president-mike-pence-says-returning-live-indiana/4218568001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4218568001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4218568001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PIND/116d7f69-005b-4bcb-900f-1f3ae7af5bb7-cent02-7e5pjkkuzrd171k0zhjs_original.jpg?auto=webp&crop=2356,1326,x0,y200&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Teen whom Biden befriended as fellow stutterer has book deal"
     excerpt: "Brayden Harrington, the teenager whom President-elect Joe Biden befriended as a fellow stutterer, has a book coming out this summer."
@@ -1400,6 +1422,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/dcfb485c978d17cdd965f3beb3d74122d4b1fb25/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b5d909cb725ce2affd9fcada7d79cacf"
         width: 600
         height: 360
+        isCached: true
+  - title: "The Health 202: Biden will reopen Healthcare.gov for buying insurance plans"
+    excerpt: "President Biden plans to bolster the Affordable Care Act, after his predecessor spent four years trying to peel back the 2010 health-care law. Support our journalism. Subscribe today. His first move: To reopen the federal-run insurance website Healthcare."
+    publishedDateTime: 2021-01-26T12:44:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/26/health-202-biden-will-reopen-healthcaregov-buying-insurance-plans/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/26/health-202-biden-will-reopen-healthcaregov-buying-insurance-plans/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/26/health-202-biden-will-reopen-healthcaregov-buying-insurance-plans/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CBIWR5MHU5HUNNOYD6JO4HKLUI&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "The Health 202: It's still unclear who will lead HHS after Biden is sworn in"
     excerpt: "The president-elect will need to designate many temporary agency heads before the Senate confirms his nominees."
@@ -3169,6 +3207,6 @@ related:
         height: 800
         isCached: true
 
-secured: "JHWqDJhDyfq6Xwtly2E8ozkAliF1dgFhg/Cc5ouasujRf6oU7RF5aSNJMS4XIivp8WD/0o7tNBolVQavdIwRJnn3H5l3j8RQiV21JvuDwVpD+A0qM4l9yQrUQNxHItRLaiLenA0u6f6hAfzUj+B8Sp0suvaOIDUk65Rn2UzapUJ2Xy/uBoNHLr5NW6HawiIg9jJYbeimSQK+72JjhVb4rG6PsTdDOmWAhODXvTerrc/V0Ok+VNwFf2DKy4WWMu1/k+8259Ynu/ShE7N9VPWuEb82OY8w7UQHe+aYdHNzRKGtnGsOJUWDfgbHf6gGR2lP0bmvIOD2gHW5fKUdqefNVFPk5QZrMnye7mgERCq02xk=;Dvr6RUeqC8w52/kAFlMsgQ=="
+secured: "eVkx3CJXyljvtjoSWuncMeaWkunjC1YrHe0eD1NsYhFd0nsMaTv12odDuEPlFvEYnHqwIwBb4E9+VVakYLWDtwb0ZnsFhKDlNjTehMzi/pLnI7xYmk+SsGDoTyh66IB9ekgBTYhy+hzEzY73XKTKoTdnGVxkE41Ob8Ch21vRu42xSRh1rvo4Y+CZkAFjapuD/ATWN8lg96QDxWgukfqjfTx1OI+figxJKomA5Ejhr+c+7lnfDRhlS7oq2fNLhjChc4HDAgTnU7myZgNZxeedn1lk7xqYHPrzIM4emTN876NO6QeV8Qq38BOcIUrs2MKAV6BjXTuLhTihGgGvw3QR3wnt2l0uRfmMaC9RsQRMs1g=;N5hJXJfYIk1MmfPK8JPj7w=="
 ---
 

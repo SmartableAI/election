@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/student-loan-payment-def
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/student-loan-payment-deferrals/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005151803-01-sean-conley-walter-reed-1005---screenshot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden plans to reopen Obamacare enrollment"
+    excerpt: "President Joe Biden is expected to reopen enrollment on the federal Affordable Care Act exchanges on Thursday as part of a series of executive actions related to health care, taking a step to help uninsured Americans that his predecessor rejected.\n    \n"
+    publishedDateTime: 2021-01-26T16:09:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N8_0eAuY_jw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/biden-aca-obamacare-open-enrollment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/biden-aca-obamacare-open-enrollment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126135135-01-biden-0125-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

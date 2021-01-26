@@ -183,6 +183,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Does Donald Trump have a future in the Republican party?"
+    excerpt: "Former US President Donald Trump’s influence within the Republican party will weaken as he goes up against others who want to run for president, an ex-chief of staff at the Department of Homeland Security has said."
+    publishedDateTime: 2021-01-26T16:28:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-55809571"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p0955kyw.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Trump Mulled Replacing Attorney General Over Election Results: US Media"
     excerpt: "Donald Trump considered replacing then-acting US attorney general Jeffrey A. Rosen with a Justice Department lawyer who would help him force Georgia officials to overturn the state's election result,"
     publishedDateTime: 2021-01-23T07:44:00Z

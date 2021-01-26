@@ -144,6 +144,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate to vote on confirmation of Biden secretary of state pick Antony Blinken"
+    excerpt: "The Senate will vote on whether to confirm Antony Blinken as the new US secretary of state Tuesday.\n    \n"
+    publishedDateTime: 2021-01-26T16:04:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3DruUCkPqoM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/blinken-confirmation-secretary-of-state/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/blinken-confirmation-secretary-of-state/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119192335-blinken-confirmation-hearing-0119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Washington Post: Biden to ask for US Surgeon General Jerome Adams' resignation and name acting official"
     excerpt: "President-elect Joe Biden is expected to ask for US Surgeon General Jerome Adams' resignation soon after he is sworn-in on Wednesday, and select an acting surgeon general while his permanent pick for the role of the nation's top doctor undergoes Senate confirmation, according to The Washington Post.\n"
     publishedDateTime: 2021-01-20T11:49:07Z
@@ -175,6 +191,38 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125103833-biden-harris-austin-split-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden administration suspends some sanctions on Yemen rebels"
+    excerpt: "Aid organizations have warned sanctions would exacerbate what is already one of the world’s worst humanitarian crises."
+    publishedDateTime: 2021-01-26T11:31:00Z
+    webUrl: "https://www.nbcnews.com/news/world/biden-administration-suspends-some-sanctions-yemen-rebels-n1255632"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255632"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255632"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_04/3445000/210126-yemen-houthi-mc-854_2b1e3136cf964d7334eaeed834a28cbb.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden to outline racial equity plan, sign executive actions"
+    excerpt: "President Joe Biden will deliver remarks Tuesday outlining his plan to advance racial equity and will sign executive actions as part of his push to use the powers of the presidency to implement parts of his agenda."
+    publishedDateTime: 2021-01-26T12:23:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-outline-racial-equity-plan-sign-executive-actions-n1255637"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255637"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255637"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_04/3445011/210126-joe-biden-mc-1140_6fe2bef53ad2d7202f4507699a08a599.JPG"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "'Armed protests' warning puts officials on alert this weekend ahead of Biden inauguration"
     excerpt: "Law enforcement and state officials are on high alert for potentially violent protests this weekend in the lead-up to Inauguration Day, with some state capitols boarded up and others temporarily closed ahead of Wednesday's ceremony."

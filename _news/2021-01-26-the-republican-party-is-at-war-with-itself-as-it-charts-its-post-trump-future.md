@@ -2,7 +2,7 @@
 category: news
 title: "The Republican Party is at war with itself as it charts its post-Trump future"
 excerpt: "A cold war is underway within the Republican Party as its members begin to navigate how former President Donald Trump and his legacy fit into the GOP's future.\n    \n"
-publishedDateTime: 2021-01-26T12:25:47Z
+publishedDateTime: 2021-01-26T16:22:38Z
 originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zocVYOwVf_8/index.html"
 webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zocVYOwVf_8/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/republican-party-future/index.html"
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180329110216-02-trump-hotel-washington-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: How Oregon just proved Donald Trump isn't going anywhere"
+    excerpt: "On Monday night, the Oregon Republican Party issued a formal condemnation of the 10 House Republicans who voted in favor of impeaching President Donald Trump for his role in inciting the violent insurrection at the US Capitol on January 6.\n    \n"
+    publishedDateTime: 2021-01-26T16:06:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ptygd3AN3d0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/oregon-republican-party-censure-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/oregon-republican-party-censure-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161028150809-oregon-dakota-protests-compare-anti-government-protester-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -142,6 +158,6 @@ related:
         height: 773
         isCached: true
 
-secured: "sKFCnsFwI5aAOCAzNhMsaCgV2XXb1217BaCgdRPE/MmnDf8jWLAB7/NVybMGgLArEQlLFhUZAZnZYXw80N2alVLp9230ooA7B5N1E2BIP//EZYKuOJd9yHMDQAU93flU+Uzvs7Vtr3d6bW/EBX0DxPSCoFKlSpzoqMatz9LZJP6eLURkn7IUIZg0JJKKL3B2h8UOSrNDokBTu+QGcvm5EQ/5XgYYCuMebg5Nt9TPwiBVE6GC/Na3DqoR5EPrXySJaKy6VS7ju8GAf+yzjqiuUt76awQoUiYtwsUgbEzsmwNJ9phSE0mwMt/Rqqfv1yaBhVMVQ1oR44kvUFAl9PoiXfoMNyFHNa6Tupwjtkwes7s=;k6ed9LQZXIj6hqVSWvfM/g=="
+secured: "xgC9dm0FdmHWe13zpQw2ZUNcUBRpGmtEOvqPlrjyhGB4/jc6PP5/TEw8puFPtB6mxs9HzVHOhqj/sCPoR018DBe7heXZnSkWPmk7f1Uhy5cGduBassKLWWqzFY2Z0AOk0S1v0zfK+uF2xNFuVXdMg/vAKsQU3nO77d1SsuE2kc8kLZ/SPXpsKV/1T7/68MeC6oemonqXPB882kT0w2HcIuo77/93WyPSdTS6ibqeXBzHsLmSLCnhoXn0kfGooEBqsrVA+0A4kdry+ojT8aIcBQFS46zqHWKvWds36khpdvOXrZ8zNS7nysZk61ml7kXD8SQBeb24zoBGJ0j21C1gu4LCBSFn5QlsLT/ZcpK1AhE=;RdZSksqKEByaOHR65Q/mZQ=="
 ---
 

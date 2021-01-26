@@ -48,9 +48,25 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: How Oregon just proved Donald Trump isn't going anywhere"
+    excerpt: "On Monday night, the Oregon Republican Party issued a formal condemnation of the 10 House Republicans who voted in favor of impeaching President Donald Trump for his role in inciting the violent insurrection at the US Capitol on January 6.\n    \n"
+    publishedDateTime: 2021-01-26T16:06:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ptygd3AN3d0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/oregon-republican-party-censure-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/oregon-republican-party-censure-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161028150809-oregon-dakota-protests-compare-anti-government-protester-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Republican Party is at war with itself as it charts its post-Trump future"
     excerpt: "A cold war is underway within the Republican Party as its members begin to navigate how former President Donald Trump and his legacy fit into the GOP's future.\n    \n"
-    publishedDateTime: 2021-01-26T12:25:47Z
+    publishedDateTime: 2021-01-26T16:22:38Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zocVYOwVf_8/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/republican-party-future/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/republican-party-future/index.html"

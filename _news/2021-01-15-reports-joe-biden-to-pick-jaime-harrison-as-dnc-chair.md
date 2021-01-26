@@ -91,6 +91,22 @@ related:
         width: 2048
         height: 1367
         isCached: true
+  - title: "NJ boutique owners hope for a boost from Jill Biden's blues and Kamala Harris' pearls"
+    excerpt: "It's been a long 10 months for fashionistas during the pandemic. So the bold colors and styles at last week's inauguration were cause for celebration."
+    publishedDateTime: 2021-01-26T15:26:00Z
+    webUrl: "https://www.northjersey.com/story/news/2021/01/25/nj-boutiques-hope-boost-biden-harris-inauguration-fashions/6673515002/"
+    ampWebUrl: "https://amp.northjersey.com/amp/6673515002"
+    cdnAmpWebUrl: "https://amp-northjersey-com.cdn.ampproject.org/c/s/amp.northjersey.com/amp/6673515002"
+    type: article
+    provider:
+      name: NorthJersey.com
+      domain: northjersey.com
+    quality: 83
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/22/PNJM/353a055b-28ab-4770-a323-fcc01cda77f6-tiffany.jpg?auto=webp&crop=827,466,x0,y141&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Kamala Harris has already made history, but some young women won't feel it until they see it"
     excerpt: "Kamala Harris' ascension marks a pivotal moment in history as young women say her inauguration may finally allow them to savor what has been won."
     publishedDateTime: 2021-01-19T22:13:00Z

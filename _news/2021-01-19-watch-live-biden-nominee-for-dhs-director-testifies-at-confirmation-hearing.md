@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration suspends some sanctions on Yemen rebels"
-    excerpt: "The Biden administration is suspending some of the terrorism sanctions that former Secretary of State Mike Pompeo imposed on Yemen's Houthi rebels in his waning days in office"
-    publishedDateTime: 2021-01-26T01:39:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-administration-suspends-sanctions-yemen-rebels-75476202"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-administration-suspends-sanctions-yemen-rebels-75476202"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-administration-suspends-sanctions-yemen-rebels-75476202"
+  - title: "Biden to sign new executive orders on his racial equity agenda – live"
+    excerpt: "President will give address on racial equality on Tuesday afternoon after senators are sworn in for Trump impeachment"
+    publishedDateTime: 2021-01-26T14:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates?page=with:block-6010258c8f0869215d930d1d"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_3d3d5d3fb8724be4acff290c8b19d406_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.guim.co.uk/img/media/2cf58929b1222f15c3f8573f1f34e86f29f147c3/0_209_5550_3333/master/5550.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8d61721628dd9df049b57a80b2e99eae"
+        width: 600
+        height: 360
         isCached: true
   - title: "Watch Live: Biden to deliver remarks on COVID-19 response"
     excerpt: "Biden promised it will be \"this spring\" when any American who wants a COVID-19 vaccine will be able to get one."
@@ -79,64 +79,21 @@ related:
         width: 800
         height: 545
         isCached: true
-  - title: "EXPLAINER: Election claims, and why it's clear Biden won"
-    excerpt: "As Democrat Joe Biden is sworn in Wednesday as the nation’s 46th president, Donald Trump’s most ardent supporters still believe Biden was not legitimately elected after Trump continues to argue the election was stolen."
-    publishedDateTime: 2021-01-20T06:17:00Z
-    webUrl: "https://www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-  - title: "FEMA would operate up to 100 federally run mass vaccination sites under Biden plan"
-    excerpt: "A draft FEMA document envisions four different models for sites, with the largest capable of handling 6,000 doses a day."
-    publishedDateTime: 2021-01-23T04:28:00Z
-    webUrl: "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/"
-    ampWebUrl: "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/?outputType=amp"
+  - title: "Biden order seeks stronger workplace safety rules, signaling a more worker friendly approach"
+    excerpt: "The Executive Order could lead to an emergency standard for businesses — a set of a regulations they would have to comply with, like mask-wearing, that advocates say is necessary to combat the pandemic."
+    publishedDateTime: 2021-01-21T22:56:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/21/biden-executive-order-osha-safety/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 119
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FAYNVVS3KMI6XKCJN6KCHJ277U.jpg&w=1440"
-        width: 1440
-        height: 1005
-        isCached: true
-  - title: "In first lawsuit against Biden administration, Texas AG Paxton challenges deportation freeze"
-    excerpt: "Texas Attorney General Ken Paxton asked a federal judge to block a new Biden administration policy that pauses most deportations for the next 100 days."
-    publishedDateTime: 2021-01-22T22:48:00Z
-    webUrl: "https://www.usatoday.com/story/news/2021/01/22/texas-ag-ken-paxton-files-lawsuit-block-biden-deportation-freeze/6675679002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6675679002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6675679002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
     quality: 114
     images:
-      - url: "https://www.gannett-cdn.com/media/2020/11/20/Austin/ghows-TX-200729145-8717c8b4.jpg?auto=webp&crop=750,422,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden plans quick executive action on immigration, but warns of potential delay on legislation"
-    excerpt: "The president-elect told Latino leaders that his immigration bill may not pass during his first 100 days in office, citing the pandemic and Senate impeachment trial."
-    publishedDateTime: 2021-01-18T14:41:00Z
-    webUrl: "https://www.cbsnews.com/news/immigration-biden-executive-actions-100-days/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-biden-executive-actions-100-days/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-biden-executive-actions-100-days/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 113
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/18/7193907f-bbb6-4c59-b99c-32f10c3b05f7/thumbnail/1200x630g2/45711032312276ceda9238296fdf8067/gettyimages-1230650670.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KLXVVQCAZ4I6XNMLCYR7MJTZMA.jpg&w=1440"
+        width: 1440
+        height: 1001
         isCached: true
   - title: "US official says Biden administration to seek 5-year extension of nuclear arms treaty with Russia"
     excerpt: "WASHINGTON — US official says Biden administration to seek 5-year extension of nuclear arms treaty with Russia. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
@@ -154,6 +111,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Politics live updates: Biden to outline racial equity agenda; senators to be sworn in for impeachment trial"
+    excerpt: "President Joe Biden is turning the spotlight on racial equity, one of the four “converging crises” he has said is facing the nation."
+    publishedDateTime: 2021-01-26T14:59:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/26/politics-live-updates-senators-sworn-impeachment-trial/4254926001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4254926001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4254926001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/160636ec-103f-4a30-be2a-36cf75be6185-AP_Biden.jpg?auto=webp&crop=4876,2743,x1,y58&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden more bullish on vaccines, suggests 1.5M shots per day"
     excerpt: "President Joe Biden on Monday appeared to boost his goal for coronavirus vaccinations in his first 100 days in office, suggesting that the nation could soon be vaccinating 1.5 million Americans on average per day."
     publishedDateTime: 2021-01-25T23:21:00Z
@@ -167,6 +140,38 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e4004a43-0bab-437e-8c49-cf86e4a9f02b_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden plans to sign executive orders boosting workers' rights and pushing for a $15 minimum wage for federal staff"
+    excerpt: "Biden is set to sign an order on Friday ensuring that people can still claim unemployment benefits if they turn down a job because of COVID-19 risks."
+    publishedDateTime: 2021-01-22T23:27:00Z
+    webUrl: "https://www.businessinsider.com/biden-executive-orders-federal-workers-rights-minimum-wage-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-executive-orders-federal-workers-rights-minimum-wage-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-executive-orders-federal-workers-rights-minimum-wage-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/600abde421f52a0018cba02d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "'This is our historic moment of crisis and challenge': Joe Biden calls for unity in first speech as president – live"
+    excerpt: "Joe Biden has been sworn in as president, bringing an end to four years of Donald Trump’s leadership in Washington"
+    publishedDateTime: 2021-01-20T18:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-60087e588f08fbcf3cf0e1fa"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 102
+    images:
+      - url: "https://i.guim.co.uk/img/media/d15a858f45a82cc9a06ff6968945b105bb4befcc/0_199_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e9c855fc42f237c45a7a7d11c48fa8f"
+        width: 600
+        height: 360
         isCached: true
   - title: "Eye Opener: Biden signs slew of executive actions in first days as president"
     excerpt: "President Joe Biden has already signed 29 executive actions during his first 55 hours in the White House. Also, January has now become the second deadliest month in the coronavirus pandemic. All that and all that matters in today's Eye Opener."
@@ -197,6 +202,36 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KMV2GSVBLRBFXG6Q3CXUGLMWEE.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Mine just south of Oregon-Nevada line may boost Joe Biden’s energy plan"
+    excerpt: "One of the keys to President Joe Biden’s $2 trillion clean energy plan could be a mineral that lies in a salt flat above a prehistoric volcano just south of the Oregon-Nevada line."
+    publishedDateTime: 2021-01-23T17:26:00Z
+    webUrl: "https://www.oregonlive.com/environment/2021/01/mine-just-south-of-oregon-nevada-line-may-boost-joe-bidens-energy-plan.html"
+    ampWebUrl: "https://www.oregonlive.com/environment/2021/01/mine-just-south-of-oregon-nevada-line-may-boost-joe-bidens-energy-plan.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/environment/2021/01/mine-just-south-of-oregon-nevada-line-may-boost-joe-bidens-energy-plan.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P724E5QASRBPRP6DSZO2LKZNLY.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Joe Biden takes the helm, enters the White House for the first time as chief executive: ‘Democracy has prevailed’"
+    excerpt: "Joe Biden was sworn in as the 46th president of the United States on Wednesday, declaring that “democracy has prevailed” and summoning American resilience and unity to confront the deeply divided nation’s historic confluence of crises."
+    publishedDateTime: 2021-01-20T21:56:00Z
+    webUrl: "https://www.courant.com/nation-world/ct-nw-joe-biden-inauguration-20210120-dqqqgg4rzvdd7dmjeijjwi5ycu-htmlstory.html"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 34
+    images:
+      - url: "https://www.courant.com/resizer/18_lYmq2EeE4oNDTkga9GfLyUak=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/D4QRYPKMPGG2JPIMXSYM4CXONM.aspx"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "ql3rYjd7gVdFtbgsPsrhuaapLAmWhxbmXx873g4NHTfFzy399zzBsW3bj82jyygzX8Lor3bEOu26wpKKV1PGkH4R+LbMPhkirgpZeLsp4xGQZRw4PN6bERdg79md7/mcnhz1W0ixASolSUqg8yxZW+7oC5KyL3c2PVo6HXNq7s0UeGvLFgXeBYXyjFDVZTA38Ibaed5VYUeLpzQwl2F5pqCDBjyEbX5h5PM3C+9yXxjmcxPGCoqLe9f7C6vfnDM3xkO73YT9XNSJgKckLSrfKlyOeROhoRDUNFiqCTtVzPiCOBiCSOFuWhr7l/rE+aSAz8bMlatEWVyZGoiABVcEFbJmVtR5VZ4S5hXCr3K1TUOJwvJuTMc04YNhZbLL5odQJSPl/IFg7R+K+QsXd9WUPzVL3uMA+MZShSrG0maOuksoHamtbKr40R/vs9fECiKUejrIIMJUIkBHeCBXu0K+0wu0YXt7k3s9j8wz9rwBFkkafdS1YJlDeHhrNh/aBRx1iE15t7LnKRSrHQSGcAvwmQ==;0YmyvyfBdli0W9GeqggmGQ=="

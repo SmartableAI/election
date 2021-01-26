@@ -1200,6 +1200,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "‘We need to get over being a divided country.’ What three Trump voters think of Biden’s call for unity."
+    excerpt: "Biden’s call for unity comes at a time of stark division in the nation, including over his own leadership. A recent-ABC News poll found that 50 percent of Americans had “just some” confidence or “none at all” in Biden’s ability to make the right decisions for the country’s future,"
+    publishedDateTime: 2021-01-26T16:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/26/we-need-get-over-being-divided-country-what-three-trump-voters-think-bidens-call-unity/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U4HL6CC3KMI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden taps Levine for key health role, in historic pick of transgender person"
     excerpt: "President-elect Joe Biden on Tuesday named Dr. Rachel Levine to service as assistant U.S. health secretary, a historic first as Levine would become the first openly transgender official to be confirmed by the Senate."
     publishedDateTime: 2021-01-19T14:48:00Z

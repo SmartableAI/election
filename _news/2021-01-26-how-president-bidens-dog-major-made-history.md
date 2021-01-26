@@ -176,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House Delivers to the Senate an Impeachment Charge Against Trump"
+    excerpt: "Nine House managers walked across the Capitol to inform the Senate that they were ready to prosecute the former president for “incitement of insurrection.” And the Justice Department opens inquiry into an “improper attempt” by officials to overturn the presidential election."
+    publishedDateTime: 2021-01-26T08:51:00Z
+    webUrl: "https://www.nytimes.com/live/2021/01/25/us/biden-trump-impeachment"
+    ampWebUrl: "https://www.nytimes.com/live/2021/01/25/us/biden-trump-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/25/us/biden-trump-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/25/us/politics/25new-washington-briefing-impeachment2/25new-washington-briefing-impeachment2-facebookJumbo-v3.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "The Trial of Donald Trump: The Sequel"
     excerpt: "Readers criticize both Republicans and Democrats for increasing divisiveness and disagree about the best way to hold Mr. Trump accountable."
     publishedDateTime: 2021-01-25T17:48:00Z
