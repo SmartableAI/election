@@ -271,6 +271,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's DHS pick Mayorkas advances out of committee, heads to Senate floor for confirmation vote"
+    excerpt: "Alejandro Mayorkas, President Biden’s pick to lead the Department of Homeland Security (DHS), was one step closer to taking the position on Tuesday after the Senate Homeland Security Committee advanced his nomination."
+    publishedDateTime: 2021-01-26T19:00:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gF8iEpZ_ggY/bidens-dhs-pick-mayorkas-committee-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-dhs-pick-mayorkas-committee-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-dhs-pick-mayorkas-committee-senate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/52796b16-AP21019608674449.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden labor secretary nominee Marty Walsh's campaign paid his girlfriend's employer nearly $1 million"
     excerpt: "Boston Mayor Marty Walsh, President-elect Biden’s nominee for Labor Secretary, paid his girlfriend’s fundraising consulting firm over $1 million, campaign filings show. "
     publishedDateTime: 2021-01-14T23:45:11Z

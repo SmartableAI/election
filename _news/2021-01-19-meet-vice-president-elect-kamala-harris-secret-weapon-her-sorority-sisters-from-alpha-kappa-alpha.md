@@ -75,17 +75,22 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Kamala Harris' Inauguration Dress Made by Louisiana Designer"
-    excerpt: "BATON ROUGE, La. (AP) — The father of the Baton Rouge native who designed Kamala Harris’ dress for Wednesday’s inauguration said watching the vice president take the oath of office in a purple dress his son designed is one of the proudest moments of his life."
-    publishedDateTime: 2021-01-23T20:49:00Z
-    webUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2021-01-23/kamala-harris-inauguration-dress-made-by-louisiana-designer"
-    ampWebUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2021-01-23/kamala-harris-inauguration-dress-made-by-louisiana-designer?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/louisiana/articles/2021-01-23/kamala-harris-inauguration-dress-made-by-louisiana-designer?context=amp"
+  - title: "Kamala Harris' inauguration dress made by Louisiana designer"
+    excerpt: "The father of the Baton Rouge native who designed Kamala Harris’ dress for Wednesday’s inauguration said watching the vice president take the oath of office in a purple dress his son designed is one of the proudest moments of his life."
+    publishedDateTime: 2021-01-23T21:05:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/jan/23/kamala-harris-inauguration-dress-made-by-louisiana/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/23/kamala-harris-inauguration-dress-made-by-louisiana/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/23/kamala-harris-inauguration-dress-made-by-louisiana/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/21/biden_inauguration_harris_48328_c0-242-5820-3637_s1200x700.jpg?e52f6e140b4040e7519f6080cc14ad0f9ca0b58a"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Inside Kamala Harris' New Home-and Why It's Not Where You Think"
     excerpt: "Vice presidents usually settle into the Naval Observatory, but for now Kamala Harris is dropping her bags elsewhere. Here's why. While everyone knows that President Joe Biden resides at the White House,"
     publishedDateTime: 2021-01-25T21:30:00Z

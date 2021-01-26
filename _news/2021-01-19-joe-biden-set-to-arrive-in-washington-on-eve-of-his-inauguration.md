@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memo
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/biden-covid-victims-memorial/index.html"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125172618-01-vaccine-observation-room-0122-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Judge temporarily blocks Biden's plan to halt deportations"
+    excerpt: "A federal judge in Texas temporarily blocked the Biden administration's pause on deportations Tuesday, delivering a blow to one of the administration's first immigration actions.\n    \n"
+    publishedDateTime: 2021-01-26T20:54:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wqkbu9y-BJQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/deportation-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/deportation-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126135135-01-biden-0125-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

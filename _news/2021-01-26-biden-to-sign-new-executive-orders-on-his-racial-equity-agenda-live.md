@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donal
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/26/joe-biden-donald-trump-impeachment-kamala-harris-nancy-pelosi-covid-coronavirus-live-updates"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e4004a43-0bab-437e-8c49-cf86e4a9f02b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden: 'Now is the time to act' on racial justice"
+    excerpt: "President Joe Biden signed a series of orders and memorandums designed to make combating racial injustice a central focus of his presidency. \"Now is the time to act,\" on tackling racial injustice Biden said,"
+    publishedDateTime: 2021-01-26T20:53:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/26/biden-now-time-act-racial-justice/4265604001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/acb044f9-df6c-485b-bc39-2f6e599d7b74_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true

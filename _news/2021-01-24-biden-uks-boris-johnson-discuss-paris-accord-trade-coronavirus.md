@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-uks-boris-johnson-discuss-par
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-uks-boris-johnson-discuss-paris-accord-trade-coronavirus.amp"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden ‘nothing we can do’ comment on coronavirus contrasts with campaign optimism"
+    excerpt: "President Biden's lament Friday that there is \"nothing we can do\" to alter the trajectory of the coronavirus pandemic stands in sharp contrast to previous declarations that he would defeat COVID-19."
+    publishedDateTime: 2021-01-26T20:48:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/InNA3bqotOM/biden-nothing-we-can-do-comment-contrasted-coronavirus-campaign-promises"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nothing-we-can-do-comment-contrasted-coronavirus-campaign-promises.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nothing-we-can-do-comment-contrasted-coronavirus-campaign-promises.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c95b33eb-3e0c-4dc1-8222-54cb887f2db6/091bc570-65b6-4212-a68b-b2adb5245280/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "White House: 'Critical' for Congress to pass Biden stimulus check, coronavirus relief plan"
     excerpt: "The White House on Thursday said it is \"critical\" that Congress act \"quickly\" on President Biden's proposals for coronavirus economic relief after a report showed that 900,000 Americans filed new unemployment claims last week, saying \"long-term scarring\" will only worsen\" with delay."

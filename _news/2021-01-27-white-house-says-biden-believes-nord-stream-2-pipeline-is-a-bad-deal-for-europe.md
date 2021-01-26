@@ -3,13 +3,13 @@ category: news
 title: "White House says Biden believes Nord Stream 2 pipeline is a bad deal for Europe"
 excerpt: "White House press secretary Jen Psaki said on Tuesday that President Joe Biden continues to believe the Nord Stream 2 natural gas pipeline is a bad deal for Europe."
 publishedDateTime: 2021-01-26T18:57:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-nord-stream-idUSW1N2IO07R"
-webUrl: "https://www.reuters.com/article/usa-biden-nord-stream-idUSW1N2IO07R"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2IO07R"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2IO07R"
+originalUrl: "https://www.reuters.com/article/us-usa-biden-nord-stream/white-house-says-biden-believes-nord-stream-2-pipeline-is-a-bad-deal-for-europe-idUSKBN29V29X"
+webUrl: "https://www.reuters.com/article/us-usa-biden-nord-stream/white-house-says-biden-believes-nord-stream-2-pipeline-is-a-bad-deal-for-europe-idUSKBN29V29X"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V29X"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V29X"
 type: article
-quality: 101
-heat: 101
+quality: 121
+heat: 121
 published: true
 
 provider:
@@ -24,6 +24,12 @@ topics:
   - Election
   - Joe Biden
 
-secured: "RstfpFe9vhfBMe2DsxHeW9ndAYt+vyQn7RxEA0G3B+5qf+g4/1JFY7BfhDPPJ8VPmud8Z+4DYn9agKaroBWlWaLVklblHpn8IkOOfSn/G8ZonUBg/aMZAtwiXebehCcpzsi+ekpBlA4n/AYdCnB9I0Rk/DITn5CxoRoJfpxBG5U5oP45O6qwRqjWS0qszCOtLUs5Zgo8b9Rlf/fEE7fb8dEOsIH6/ymy2imEGX4tksEjDPbrTf/ioDIOfvoRwRMc0p8hHEJPIH26zoo1peIvx7n/I77xMMqQ5CuFLM/pddp949LUuyEjfl99KIg2Oc2Wqf5b1dM44n6KAywWfSCqd3FY3BV8rtej86fQKsZLdJA=;HWMN/i6URIWin+KPeVkT8w=="
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549153912&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1G9"
+    width: 806
+    height: 545
+    isCached: true
+
+secured: "N8FpIxtN5mvbJiAvXikeC0pi8rLFVz2BfWqL3nT1yBCSZjZrak0Ofz4hOKDYQPYMD5hOTzEutARi8y5O7mqJubLJlkJ/+6QgqQokdgJRhXXMo/WSqB33COMJMpqzDX9K8IVS+kFDlOKQuPQ4TltE5BAWSFlC4DmsNmfXQLy/kL0DPc0IwY83DtsnlP4quv46njIHDVIXTLs5QHhWEBY94vGkEOUCvr3aE9NGdDfSSGYMFH1FglqWrCuj6Mh36LbNttBDB5HOFsCt6Dhg3YVhlK+v39Z98t/9tWBm/WGg7xVi/WzdPcFYnuk4/i6pLXXhVSBUeGtpkPq1ADrgRmTdYHBKw4Vf03Oe6C1AImPqpdk=;h7npJPHm7Ru8/7LYstvNHg=="
 ---
 

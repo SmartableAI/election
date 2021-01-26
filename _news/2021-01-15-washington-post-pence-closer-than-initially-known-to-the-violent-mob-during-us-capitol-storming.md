@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Judge temporarily blocks Biden's plan to halt deportations"
+    excerpt: "A federal judge in Texas temporarily blocked the Biden administration's pause on deportations Tuesday, delivering a blow to one of the administration's first immigration actions.\n    \n"
+    publishedDateTime: 2021-01-26T20:54:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wqkbu9y-BJQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/deportation-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/deportation-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126135135-01-biden-0125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden raises the bar on vaccines and suggests US will get to 1.5 million a day"
     excerpt: "President Joe Biden said Monday that he expects that the US will soon be able to vaccinate 1.5 million people a day, raising the bar by roughly 500,000 more vaccinations than its target of 1 million per day in his first 100 days in office. He said that the US could surpass that initial target in about"
     publishedDateTime: 2021-01-25T22:46:38Z

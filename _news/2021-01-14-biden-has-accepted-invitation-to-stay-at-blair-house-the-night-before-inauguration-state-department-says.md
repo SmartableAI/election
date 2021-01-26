@@ -1295,6 +1295,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden orders end of federally run private prisons"
+    excerpt: "President Joe Biden on Tuesday ordered the Department of Justice to end its reliance on private prisons and acknowledge the central role the government has played implementing discriminatory housing p"
+    publishedDateTime: 2021-01-26T20:05:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/joe-biden-to-call-for-end-of-federally-run-private-prisons/2021/01/26/d275c682-5ffe-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/joe-biden-to-call-for-end-of-federally-run-private-prisons/2021/01/26/d275c682-5ffe-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/joe-biden-to-call-for-end-of-federally-run-private-prisons/2021/01/26/d275c682-5ffe-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Joe Biden to call for end of federally run private prisons"
     excerpt: "A senior White House official says President Joe Biden will formally call on the federal government to end its reliance on private prisons and acknowledge the central role the federal government has p"
     publishedDateTime: 2021-01-26T17:54:00Z
@@ -1310,6 +1326,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Judge bars Biden from enforcing 100-day deportation ban"
+    excerpt: "A federal judge has barred the U.S. government from enforcing a 100-day deportation moratorium that is a key immigration priority of President Joe Biden"
+    publishedDateTime: 2021-01-26T20:19:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/judge-bars-biden-enforcing-100-day-deportation-ban-75496919"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/judge-bars-biden-enforcing-100-day-deportation-ban-75496919"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/judge-bars-biden-enforcing-100-day-deportation-ban-75496919"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Biden must find words for a wounded nation in inauguration like no other"
     excerpt: "Planners have been forced to be inventive after the deadly pandemic and now last week’s Capitol insurrection dictated a pared-down event"
@@ -1726,6 +1758,22 @@ related:
       - url: "https://transform.nws.ai/https%3A%2F%2Fcdn.thenewsroom.io%2Fplatform%2Fstory_media%2F1288794426%2Feoo1.png/w_1200,c_limit/"
         width: 1080
         height: 1920
+        isCached: true
+  - title: "Federal judge halts Biden's 100-day deportation ban after Texas attorney general's challenge"
+    excerpt: "A federal judge on Tuesday barred the U.S. government from enforcing a 100-day deportation moratorium that is a key immigration priority of President Joe Biden."
+    publishedDateTime: 2021-01-26T20:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/26/joe-biden-deportation-moratorium-put-hold-after-texas-lawsuit/4265856001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4265856001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4265856001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/12/24/NAAS/079255d2-3325-4c32-b217-ce491c4440fb-jwj_Police_Pledge_0847.JPG?auto=webp&crop=2999,1687,x0,y204&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden will have more women in his Cabinet than any president ever. Other countries still do better."
     excerpt: "Most cabinets have a \"concrete floor\" for gender representation, and rarely go lower. Will Biden raise that floor in the United States?"
@@ -2358,6 +2406,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "How Biden Wants to Trim a Mountain of Student Debt"
+    excerpt: "Among the economic issues facing the new Biden administration is how to help alleviate the weight of $1.7 trillion in student debt, a figure that had ballooned from $1 trillion in 2012. All but about $100 billion of that money is owed to the federal government by some 43 million people."
+    publishedDateTime: 2021-01-26T20:21:00Z
+    webUrl: "https://www.washingtonpost.com/business/how-biden-wants-to-trim-a-mountain-of-student-debt/2021/01/26/3e65d10c-6013-11eb-a177-7765f29a9524_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden's inauguration is unlike any before. Photos show how his ceremony compares to those of previous presidents."
     excerpt: "Due to COVID-19 and the threat of violence from far-right groups, the inauguration of President-elect Biden is unlike past ceremonies."
     publishedDateTime: 2021-01-20T16:59:00Z

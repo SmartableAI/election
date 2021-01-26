@@ -863,6 +863,38 @@ related:
         width: 1440
         height: 981
         isCached: true
+  - title: "City council approves bill condemning Trump for Capitol riot"
+    excerpt: "A city council in Maryland unanimously approved a resolution condemning former President Donald Trump for the violent siege of the U.S. Capitol"
+    publishedDateTime: 2021-01-26T20:55:00Z
+    webUrl: "https://www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/city-council-approves-bill-condemning-trump-for-capitol-riot/2021/01/26/df7eda2c-5fee-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "U.S. Senate kills Republican move to upend Trump impeachment trial"
+    excerpt: "The U.S. Senate on Tuesday rejected a Republican effort to stop former President Donald Trump's upcoming impeachment trial on a charge that he incited the deadly Jan. 6 assault on the U.S. Capitol."
+    publishedDateTime: 2021-01-26T20:34:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-republican-idUSKBN29V2FL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V2FL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2FL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549151932&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1F9"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Prominent Senate Republican warns Trump trial could spark more impeachments"
     excerpt: "A prominent U.S. Senate Republican warned on Saturday that former President Donald Trump's second impeachment trial could lead to the prosecution of former Democratic presidents if Republicans retake the chamber in two years."
     publishedDateTime: 2021-01-24T01:42:00Z

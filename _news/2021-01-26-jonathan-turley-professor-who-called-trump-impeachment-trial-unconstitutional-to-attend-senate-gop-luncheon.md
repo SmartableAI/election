@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Left-leaning groups pressure companies not to hire ex-Trump officials"
+    excerpt: "The \"Campaign against Corporate Complicity\" calls for major corporations to pledge not to hire former senior Trump administration officials who helped to implement “cruel and anti-democratic policies.”"
+    publishedDateTime: 2021-01-26T20:34:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZbIEfBn5y84/left-leaning-groups-pressure-companies-not-to-hire-ex-trump-officials"
+    ampWebUrl: "https://www.foxnews.com/politics/left-leaning-groups-pressure-companies-not-to-hire-ex-trump-officials.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-leaning-groups-pressure-companies-not-to-hire-ex-trump-officials.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4154b08-fe99-418d-8f0a-d43f513fd968/7efaa174-84fb-4afa-8014-48f498d22e86/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "LIVE UPDATES: Republicans propose delaying Trump's impeachment to February"
     excerpt: "Follow for the latest updates on Trump's impeachment"
     publishedDateTime: 2021-01-22T06:27:06Z
@@ -255,6 +271,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Left-leaning groups pressure companies not to hire ex-Trump officials"
+    excerpt: "The \"Campaign against Corporate Complicity\" calls for major corporations to pledge not to hire former senior Trump administration officials who helped to implement “cruel and anti-democratic policies."
+    publishedDateTime: 2021-01-26T20:38:00Z
+    webUrl: "https://www.foxnews.com/politics/left-leaning-groups-pressure-companies-not-to-hire-ex-trump-officials"
+    ampWebUrl: "https://www.foxnews.com/politics/left-leaning-groups-pressure-companies-not-to-hire-ex-trump-officials.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/left-leaning-groups-pressure-companies-not-to-hire-ex-trump-officials.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4154b08-fe99-418d-8f0a-d43f513fd968/7efaa174-84fb-4afa-8014-48f498d22e86/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Republicans Challenge Trump Impeachment Trial"
     excerpt: "Sen. Rand Paul said he would attempt to force a vote Tuesday afternoon on whether the Senate can try a private citizen, although Senate Democrats could counter by making a motion to table the measure."
     publishedDateTime: 2021-01-26T16:46:00Z
@@ -284,6 +316,22 @@ related:
     quality: 134
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/Rand-Paul-impeachment.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Senators sworn in for Trump impeachment trial as some GOP members object"
+    excerpt: "The US Senate was sworn in as jurors for the second impeachment trial of former President Donald Trump on Tuesday afternoon. All 100 senators were sworn in by Sen. Patrick"
+    publishedDateTime: 2021-01-26T20:25:00Z
+    webUrl: "https://nypost.com/2021/01/26/senators-sworn-in-for-impeachment-trial-as-some-gop-members-object/"
+    ampWebUrl: "https://nypost.com/2021/01/26/senators-sworn-in-for-impeachment-trial-as-some-gop-members-object/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/26/senators-sworn-in-for-impeachment-trial-as-some-gop-members-object/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/senate-impeachment-trump-16.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

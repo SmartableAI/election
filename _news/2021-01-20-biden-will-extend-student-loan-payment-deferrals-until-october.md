@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/20/politics/student-loan-payment-def
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/20/politics/student-loan-payment-deferrals/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201215031414-putin-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Blinken becomes Biden's top diplomat after a friendship forged over decades"
+    excerpt: "It was February 2008 when a snowstorm suddenly overwhelmed the flight path of two American helicopters, forcing them to make an unexpected landing on a mountaintop in Afghanistan.\n    \n"
+    publishedDateTime: 2021-01-26T18:54:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tNlJB-uMBDs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/blinken-biden-relationship/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/blinken-biden-relationship/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201209093643-antony-blinken-1124-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

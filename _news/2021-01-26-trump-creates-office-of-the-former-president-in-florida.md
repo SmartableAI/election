@@ -1423,6 +1423,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Federal judge blocks Biden’s 100-day moratorium on deportations"
+    excerpt: "A temporary restraining order pauses Biden’s immigration policy for 14 days."
+    publishedDateTime: 2021-01-26T20:16:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ZY64Jdzt9M/federal-judge-blocks-biden-deportations"
+    ampWebUrl: "https://www.foxnews.com/politics/federal-judge-blocks-biden-deportations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-judge-blocks-biden-deportations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77489240-eebe-4041-831d-e30d30d961b6/0cb888f5-4d62-498c-95d5-2779a140fd3a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump must be barred from post-presidency intelligence briefings: Schiff"
     excerpt: "House Intelligence Committee Chairman Rep. Adam Schiff said Sunday that President Trump should be barred from receiving intelligence briefings after he leaves office, an opportunity traditionally extended to former presidents."
     publishedDateTime: 2021-01-17T18:36:03Z

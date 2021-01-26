@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Judge temporarily blocks Biden's plan to halt deportations"
+    excerpt: "A federal judge in Texas temporarily blocked the Biden administration's pause on deportations Tuesday, delivering a blow to one of the administration's first immigration actions.\n    \n"
+    publishedDateTime: 2021-01-26T20:54:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wqkbu9y-BJQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/deportation-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/deportation-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126135135-01-biden-0125-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Washington Post: Pence closer than initially known to the violent mob during US Capitol storming "
     excerpt: "Vice President Mike Pence came closer than initially known to the mob of pro-Trump rioters who stormed the US Capitol on January 6, according to new reporting from the Washington Post.\n    \n"
     publishedDateTime: 2021-01-15T16:55:26Z

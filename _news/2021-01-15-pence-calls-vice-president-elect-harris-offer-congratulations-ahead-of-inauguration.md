@@ -1409,6 +1409,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Federal judge blocks Biden’s 100-day moratorium on deportations"
+    excerpt: "A temporary restraining order pauses Biden’s immigration policy for 14 days."
+    publishedDateTime: 2021-01-26T20:16:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ZY64Jdzt9M/federal-judge-blocks-biden-deportations"
+    ampWebUrl: "https://www.foxnews.com/politics/federal-judge-blocks-biden-deportations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-judge-blocks-biden-deportations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77489240-eebe-4041-831d-e30d30d961b6/0cb888f5-4d62-498c-95d5-2779a140fd3a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump creates 'Office of the Former President' in Florida"
     excerpt: "Former President Donald Trump on Monday established an official post-presidency office in Palm Beach County, Florida to oversee his affairs, Fox News has learned."
     publishedDateTime: 2021-01-26T01:32:09Z

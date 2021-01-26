@@ -141,6 +141,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden: 'Now is the time to act' on racial justice"
+    excerpt: "President Joe Biden signed a series of orders and memorandums designed to make combating racial injustice a central focus of his presidency. \"Now is the time to act,\" on tackling racial injustice Biden said,"
+    publishedDateTime: 2021-01-26T20:53:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/26/biden-now-time-act-racial-justice/4265604001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/acb044f9-df6c-485b-bc39-2f6e599d7b74_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden plans to sign executive orders boosting workers' rights and pushing for a $15 minimum wage for federal staff"
     excerpt: "Biden is set to sign an order on Friday ensuring that people can still claim unemployment benefits if they turn down a job because of COVID-19 risks."
     publishedDateTime: 2021-01-22T23:27:00Z

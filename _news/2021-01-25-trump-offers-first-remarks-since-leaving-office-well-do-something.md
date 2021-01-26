@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Larry Kudlow, former top economic adviser to Trump, to host Fox Business show"
+    excerpt: "Fox is hiring Larry Kudlow, most recently the top economic advisor to Donald Trump in the White House, as contributor and host of a weekday show on its business network. Kudlow, who will start on"
+    publishedDateTime: 2021-01-26T20:32:00Z
+    webUrl: "https://nypost.com/2021/01/26/larry-kudlow-former-top-economic-adviser-to-trump-to-host-fox-business-show/"
+    ampWebUrl: "https://nypost.com/2021/01/26/larry-kudlow-former-top-economic-adviser-to-trump-to-host-fox-business-show/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/01/26/larry-kudlow-former-top-economic-adviser-to-trump-to-host-fox-business-show/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/larry-kudlow-fox.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump Pressed to Change Justice Department Leadership to Boost His Voter Fraud Claims"
     excerpt: "The former president’s efforts were dropped after top DOJ officials agreed to resign en masse in protest if he succeeded, people familiar said."
     publishedDateTime: 2021-01-23T19:39:00Z

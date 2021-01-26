@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump adds another South Carolina lawyer to impeachment defense team amid questions of whether he will pay them"
+    excerpt: "Former President Donald Trump has expanded his impeachment legal team by tapping a former prosecutor-turned-criminal defense lawyer, an addition that comes as Trump and his allies scramble to prepare a defense with less than two weeks until the Senate trial.\n    \n"
+    publishedDateTime: 2021-01-26T19:28:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3JMXAV0IQ8U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/trump-impeachment-defense-team-south-carolina/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/trump-impeachment-defense-team-south-carolina/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126100325-primera-trump-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Wall Street Journal: Trump pressured DOJ to file case with Supreme Court to overturn election results"
     excerpt: "Former President Donald Trump pushed the Department of Justice to directly ask the Supreme Court to invalidate President Joe Biden's election win, people familiar with the matter told the Wall Street Journal."
     publishedDateTime: 2021-01-25T08:05:00Z

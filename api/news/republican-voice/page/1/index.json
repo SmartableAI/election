@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-26-joe-biden-portrayed-as-boring-moderate-but-some-of-his-policies-are-extreme-perino.md",
+      "title": "Joe Biden portrayed as 'boring,' moderate but some of his policies are 'extreme': Perino",
+      "excerpt": "President Joe Biden has proposed some \"extreme\" policies that warrant more attention from the mainstream media, \"The Five\" co-panelist Dana Perino said on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eSbKyBfAQb0/perino-biden-boring-portrayed-moderate-policies-extreme",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eSbKyBfAQb0/perino-biden-boring-portrayed-moderate-policies-extreme",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/perino-biden-boring-portrayed-moderate-policies-extreme.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/perino-biden-boring-portrayed-moderate-policies-extreme.amp",
+      "publishedDateTime": "2021-01-26T11:03:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-same-problems-will-resurface-if-biden-rolls-back-border-wall-construction-former-nm-governor-warns.md",
       "title": "'Same problems' will resurface if Biden rolls back border wall construction, former NM governor warns",
       "excerpt": "Former New Mexico Republican Gov. Susana Martinez warned Tuesday that it is 'very wrong' for the Biden administration to halt the construction of the southern border wall, calling the fence a 'piece of the security of our nation.'",
@@ -742,7 +798,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 212,
+      "heat": 232,
       "tags": null,
       "images": [
         {
@@ -1080,7 +1136,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 355,
+      "heat": 375,
       "tags": null,
       "images": [
         {
@@ -1616,63 +1672,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-georgia-us-attorney-pushed-to-resign-by-trump-aides-rejoins-law-firm.md",
-      "title": "Georgia U.S. Attorney Pushed to Resign by Trump Aides Rejoins Law Firm",
-      "excerpt": "The former top federal prosecutor in Atlanta, whom White House officials pushed to resign earlier this month because then-President Donald Trump was upset he wasn’t doing enough to investigate unproven claims of election fraud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/biden-presidential-inauguration-2021/card/7PuV1qsDSei2ZphFlq6v",
-      "originalUrl": "https://www.wsj.com/livecoverage/biden-presidential-inauguration-2021/card/7PuV1qsDSei2ZphFlq6v",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-288916?size=1.5",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-22T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

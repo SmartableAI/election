@@ -191,6 +191,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump impeachment trial faces challenge from Republican Senator Paul"
+    excerpt: "The Senate impeachment trial of Donald Trump on a charge of inciting the deadly Capitol siege could draw its first challenge on Tuesday, with a Republican senator arguing that trying a former president would violate the U."
+    publishedDateTime: 2021-01-26T20:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN29V1UK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V1UK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V1UK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549151935&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1FA"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump leaves behind a Republican Party both broken and still in his grip"
     excerpt: "Will Republicans purge the worst of what he has brought to their coalition or will Trump maintain his influence even after he is out of office?"
     publishedDateTime: 2021-01-16T20:15:00Z
@@ -380,6 +396,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/e7312bd7247e01664df8b351f781442da05a6914/0_0_5568_3341/master/5568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54638ea0819c8b43a6e052df1ca1f58b"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Rand Paul: Impeaching Trump 'antithesis of unity'"
+    excerpt: "Republican Sen. Rand Paul of Kentucky is challenging the legitimacy of Donald Trump's second impeachment trial and forced a Senate vote on whether the impeachment trial of a former president is Constitutional."
+    publishedDateTime: 2021-01-26T20:39:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/26/rand-paul-impeaching-trump-antithesis-unity/4265609001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4599d219-51e2-4534-9bab-abd1898b1797_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Chuck Schumer: Donald Trump impeachment trial will be full and fair – video"
     excerpt: "The US Senate majority leader has said Nancy Pelosi would transmit the article of impeachment on Monday"

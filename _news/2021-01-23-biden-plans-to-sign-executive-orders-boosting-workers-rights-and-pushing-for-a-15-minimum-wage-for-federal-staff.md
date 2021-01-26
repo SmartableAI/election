@@ -157,6 +157,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden: 'Now is the time to act' on racial justice"
+    excerpt: "President Joe Biden signed a series of orders and memorandums designed to make combating racial injustice a central focus of his presidency. \"Now is the time to act,\" on tackling racial injustice Biden said,"
+    publishedDateTime: 2021-01-26T20:53:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/26/biden-now-time-act-racial-justice/4265604001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/acb044f9-df6c-485b-bc39-2f6e599d7b74_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "'This is our historic moment of crisis and challenge': Joe Biden calls for unity in first speech as president – live"
     excerpt: "Joe Biden has been sworn in as president, bringing an end to four years of Donald Trump’s leadership in Washington"
     publishedDateTime: 2021-01-20T18:15:00Z

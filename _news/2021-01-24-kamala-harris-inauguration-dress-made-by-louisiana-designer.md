@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Kamala Harris' Inauguration Dress Made by Louisiana Designer"
-excerpt: "BATON ROUGE, La. (AP) — The father of the Baton Rouge native who designed Kamala Harris’ dress for Wednesday’s inauguration said watching the vice president take the oath of office in a purple dress his son designed is one of the proudest moments of his life."
-publishedDateTime: 2021-01-23T20:49:00Z
-originalUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2021-01-23/kamala-harris-inauguration-dress-made-by-louisiana-designer"
-webUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2021-01-23/kamala-harris-inauguration-dress-made-by-louisiana-designer"
-ampWebUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2021-01-23/kamala-harris-inauguration-dress-made-by-louisiana-designer?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/louisiana/articles/2021-01-23/kamala-harris-inauguration-dress-made-by-louisiana-designer?context=amp"
+title: "Kamala Harris' inauguration dress made by Louisiana designer"
+excerpt: "The father of the Baton Rouge native who designed Kamala Harris’ dress for Wednesday’s inauguration said watching the vice president take the oath of office in a purple dress his son designed is one of the proudest moments of his life."
+publishedDateTime: 2021-01-23T21:05:00Z
+originalUrl: "https://www.washingtontimes.com/news/2021/jan/23/kamala-harris-inauguration-dress-made-by-louisiana/"
+webUrl: "https://www.washingtontimes.com/news/2021/jan/23/kamala-harris-inauguration-dress-made-by-louisiana/"
+ampWebUrl: "http://amp.washingtontimes.com/news/2021/jan/23/kamala-harris-inauguration-dress-made-by-louisiana/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/23/kamala-harris-inauguration-dress-made-by-louisiana/"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/21/biden_inauguration_harris_48328_c0-242-5820-3637_s1200x700.jpg?e52f6e140b4040e7519f6080cc14ad0f9ca0b58a"
+    width: 1200
+    height: 700
+    isCached: true
 
 related:
   - title: "Meet Vice President-elect Kamala Harris' \"secret weapon\": Her sorority sisters from Alpha Kappa Alpha"
@@ -114,6 +116,6 @@ related:
         height: 1352
         isCached: true
 
-secured: "wnVJJSwdTLOBpz2Zz1OvSvBlOW0dnZvCPQ+B4WQzoJRTfcBR1sjinaAbv/NOpsZOCjnOxg6wp6htysRscg47irYFMDI+vJQkcsyU6XGthZeZwB9TAjpz5mqhedunvegQ0ShPocz7QcHzzxpJPghnk/ScgCUgAWdGmGRxWUoTPF9eTB9lCaEMubRHpgwgboKlhAukw2y5lpau3CTmOxJHEeHghz6Ly8h0rr6LlDjpbpqx2hbdrNqaCq6DM4aPQakdtGfYMUrCnEyrJwaCpe7xbwF/OGobbERxVPLLxlxmDbiiggAMAbuVNGOqlNUaHppJ1g3MeL6SfcFrT6cibKnRkjLBt1Oz4qGBwpDUnbKUPfoKYlE4NoMQV6ntGdWlGFnvTPZIGhLXI3kEUyBYiZos3Jw/4bXIyNMj+f63/PZyv8/6Y2WrU21Jk+OCWRb0qbpLN0+Tm3ypwZWWdbPUylhNL9XUNRofuutH+6Dkt7O1DDjJIbawYKixuGmYNE9onEAB0OH3m9eZxxCqcQbWpsaS8g==;6QUIcsvHUzPYxC6D0xpdyw=="
+secured: "EKW+LvSD0NCeHYhM/PeoMtBBKtx7CioF+MUtCYSg/gmRtm8NWhbh6XxKn97d/qdNhLf2NaMmG64z+NvSRmPW2ZZjecYaeibYFj8z44LpS13+trMcgy2evExMn90QnAif+9P4XpSrjcTGFc6/sEbfJCTilqCdNnnPEFgY0qZSDxVrHfRPh8wFofQxj5AwA2F81VOY1H9/DQF5rc3MeKxm8E/1k8sY3eoDstWbb31qYrl2qlTMmjrFkUnP3/oQbqFMw4UyQ7S+DoEYNcemMADiIcwfoUmkYbq2W0DkCc5ctmnzLa087ws7YB1ymggkPtbi12ArSQ9xdpqtJM7QTiFkUBDPdCRAo6AoNIZ7PL9NM20=;5yrKn9o22aAmV0opUwmNrw=="
 ---
 
