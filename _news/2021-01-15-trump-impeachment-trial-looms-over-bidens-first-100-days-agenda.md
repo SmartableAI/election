@@ -1469,6 +1469,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Donald Trump Goes Viral On Twitter After Office Of The Former President Launch"
+    excerpt: "Donald Trump has officially launched what's being called the Office of the Former President in Florida to continue his agenda."
+    publishedDateTime: 2021-01-26T11:11:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-goes-viral-twitter-after-office-former-president-launch-3130713"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-goes-viral-twitter-after-office-former-president-launch-3130713?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-goes-viral-twitter-after-office-former-president-launch-3130713?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/25/former-president-donald-trump-faces-an-impeachment-trial.jpg"
+        width: 1024
+        height: 696
+        isCached: true
   - title: "Canada's Trudeau Embraces Biden in Bid to Turn Page on Trump Era"
     excerpt: "Canadian Prime Minister Justin Trudeau's swift embrace of U.S. president-elect Joe Biden illustrates the degree to which Canada, one of America's closest allies, is looking forward to turning the page on the Donald Trump era."
     publishedDateTime: 2021-01-15T16:46:00Z

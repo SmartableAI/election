@@ -255,6 +255,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden staffing up swiftly at Homeland Security to reverse Trump's immigration policies"
+    excerpt: "The Department of Homeland Security, largely hollowed out over the last four years, is moving with urgency to staff agencies with people who had front row seats to the hardline immigration limits rolled out under former President Donald Trump, in order to rescind them.\n    \n"
+    publishedDateTime: 2021-01-26T12:18:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iJP5u7_kHLs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/immigration-biden-homeland-security/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/immigration-biden-homeland-security/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 182
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125204431-dept-of-homeland-security-seal-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden transition finds culture of coronavirus denial throughout Trump's federal government"
     excerpt: "Joe Biden's transition team found a culture of coronavirus skepticism within Donald Trump's federal government as they prepared to take office, sources close to the Biden transition told CNN, with political appointees loyal to the President reflecting his dismissiveness of public health guidelines and"
     publishedDateTime: 2021-01-19T22:01:23Z

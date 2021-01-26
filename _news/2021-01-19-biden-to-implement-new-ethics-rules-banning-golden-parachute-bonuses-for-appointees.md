@@ -31,35 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration faces mounting pressure to address SolarWinds breach "
-    excerpt: "Despite announcing a thorough intelligence review of Russian misconduct, President Joe Biden's administration faces mounting pressure to respond to one of the worst data breaches ever to hit the US government.\n    \n"
-    publishedDateTime: 2021-01-23T14:01:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3u4ki7B5hJw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/23/politics/solarwinds-hack-biden-pressure/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/23/politics/solarwinds-hack-biden-pressure/index.html"
+  - title: "Biden to sign executive orders related to 'equity'"
+    excerpt: "President Joe Biden is slated to sign a series of executive actions revolving around \"equity\" policy on Tuesday, focusing on policing reform, prison reform and public housing, according to a draft of a calendar document sent to administration allies and viewed by CNN.\n    \n"
+    publishedDateTime: 2021-01-26T12:38:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0AAEMCVqw04/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122143235-01-biden-inauguration-speech-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122162050-president-biden-executive-orders-economic-relief-mattingly-dnt-lead-vpx-00004102-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Proximity to power: What the West Wing office layout says about the Biden administration"
-    excerpt: "It's an adage in any high-pressure office: proximity is power. Nowhere is that more true than the West Wing.\n    \n"
-    publishedDateTime: 2021-01-26T01:35:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cbK0sSAPZo8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/west-wing-offices-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/west-wing-offices-biden/index.html"
+  - title: "Group of Democratic lawmakers urge Biden to commute the sentences of death row prisoners"
+    excerpt: "Democratic Reps. Ayanna Pressley of Massachusetts and Cori Bush of Missouri on Friday led a group of 35 lawmakers in urging President Joe Biden to commute the sentences of all federal prisoners on death row.\n    \n"
+    publishedDateTime: 2021-01-23T01:04:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z_p7hGaCq1I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/democrats-urge-biden-commute-death-row-sentences/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/democrats-urge-biden-commute-death-row-sentences/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125145716-20210125-biden-whitehouse-staff-access-gfx-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200828115424-06-march-on-washington-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to sign orders that include moves toward $15 minimum wage for federal workers and contractors"
+    excerpt: "President Joe Biden is expected to sign two more executive orders on Friday -- one focused on raising the minimum wage to $15 for the federal workforce and the other on expanding assistance for Americans in need -- as he continues his swift efforts to overturn his predecessor's policies.\n    \n"
+    publishedDateTime: 2021-01-22T12:13:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LBDlwAsziZw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/executive-orders-biden-15-dollar-minimum-wage-federal-workers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/executive-orders-biden-15-dollar-minimum-wage-federal-workers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121221335-joe-biden-0120-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

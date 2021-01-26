@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
 type: article
 quality: 123
-heat: 183
+heat: 163
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1710325/jamie-raskin-madeleine-dean-capitol.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Democrats have these 7 last-minute Trump administration regulations in their sights to overturn now that they control the Senate"
-    excerpt: "Senate Democrats are eyeing the Congressional Review Act as a way to obliterate federal regulations from the Trump administration."
-    publishedDateTime: 2021-01-21T13:41:00Z
-    webUrl: "https://www.businessinsider.com/biden-congressional-review-act-senate-democrats-trump-regulations-rules-2021-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
-    images:
-      - url: "https://i.insider.com/5fa9bbdff7d1cb0019e3aab7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "t9Q7gRnoPKCynlun3Mrx/ZUdZs1AGQTqM/i36dAX/d49r1POvXWNJLUwi0bFBsm7JH17mlxZ3dsGmiKlDi0Q7s9vx8v9ZimMaqQtAZ3q3NZqBDXxAuZOQ9WZeXJ/8XZYYBKANcX+tLSBwhpPFq1lQGeUUd45ts1TWwRxBt8N9KEG+QSNbErUMnfk1JMoQp+JsNCFQwXaWuOro0cvSygZqVY6uPx+ikyZ9sGo25Os6gghkWpzumLYfoJi8Ok7T0rD6IoBDyFwECIusqNHkce1z7fuIObpTF4ZdEvZW1hNXAfjrW6TSwGLZoxxAK6eyiq1C4+Tc+4o4qC/1J2h8plmILD3I7tLKKmmDRqea7pM6W4=;tYKWY/M0FQhaLHOnWWU/Tw=="

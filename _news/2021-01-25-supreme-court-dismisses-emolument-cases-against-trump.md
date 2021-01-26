@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/emoluments-supreme-court-donald-trump-case/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Republican Party is at war with itself as it charts its post-Trump future"
+    excerpt: "A cold war is underway within the Republican Party as its members begin to navigate how former President Donald Trump and his legacy fit into the GOP's future.\n    \n"
+    publishedDateTime: 2021-01-26T12:25:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zocVYOwVf_8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/republican-party-future/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/republican-party-future/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210123004112-03-donald-trump-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Why the Supreme Court didn't want to hear the Trump emoluments cases and what it means going forward"
     excerpt: "Early in the Trump administration, a novel dispute arose concerning whether the President had violated the Constitution by illegally profiting from his business ventures while in public office.\n    \n"
     publishedDateTime: 2021-01-25T23:40:42Z

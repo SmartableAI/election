@@ -1465,6 +1465,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Donald Trump Goes Viral On Twitter After Office Of The Former President Launch"
+    excerpt: "Donald Trump has officially launched what's being called the Office of the Former President in Florida to continue his agenda."
+    publishedDateTime: 2021-01-26T11:11:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-goes-viral-twitter-after-office-former-president-launch-3130713"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-goes-viral-twitter-after-office-former-president-launch-3130713?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-goes-viral-twitter-after-office-former-president-launch-3130713?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/25/former-president-donald-trump-faces-an-impeachment-trial.jpg"
+        width: 1024
+        height: 696
+        isCached: true
   - title: "Trump Impeachment Trial Looms Over Biden's First 100 Days Agenda"
     excerpt: "Trump was impeached in the House of Representatives -- becoming the first US president in history subjected to a second impeachment -- Biden hopes to seize the narrative in a primetime address and get Americans looking forward again."
     publishedDateTime: 2021-01-14T20:41:00Z

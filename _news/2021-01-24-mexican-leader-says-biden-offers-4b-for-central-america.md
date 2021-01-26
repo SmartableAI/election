@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-tr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.abcnews.com/images/Travel/WireAP_cf6c3c66cb5d4a55b5e80f6769b46498_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden extends Europe, Brazil travel restrictions, adds South Africa"
+    excerpt: "U.S. President Joe Biden signed an order on Monday barring most non-U.S. citizens who have recently been in South Africa from entering the United States, effective Saturday."
+    publishedDateTime: 2021-01-26T04:40:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-travel-idUSKBN29U26W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U26W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U26W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1549008929&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O1B3"
+        width: 778
+        height: 545
         isCached: true
   - title: "‘Celebrating America’ review: Earnest inauguration special encapsulates President Joe Biden"
     excerpt: "Celebrating America” traded the usual inauguration night balls for socially distanced performances from around the country, spotlights of “everyday heroes,” and solemn acknowledgments of the extraordinarily tough few years the country has muscled through to get to this moment."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3290
+heat: 3310
 published: true
 
 provider:
@@ -236,6 +236,22 @@ related:
     quality: 185
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210120171716-01-biden-executive-order-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden staffing up swiftly at Homeland Security to reverse Trump's immigration policies"
+    excerpt: "The Department of Homeland Security, largely hollowed out over the last four years, is moving with urgency to staff agencies with people who had front row seats to the hardline immigration limits rolled out under former President Donald Trump, in order to rescind them.\n    \n"
+    publishedDateTime: 2021-01-26T12:18:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iJP5u7_kHLs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/immigration-biden-homeland-security/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/immigration-biden-homeland-security/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 182
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125204431-dept-of-homeland-security-seal-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

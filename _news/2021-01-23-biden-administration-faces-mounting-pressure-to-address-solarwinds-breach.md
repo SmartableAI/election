@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/23/politics/solarwinds-hack-biden-pr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/23/politics/solarwinds-hack-biden-pressure/index.html"
 type: article
 quality: 173
-heat: 213
+heat: 193
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to implement new ethics rules banning 'golden parachute' bonuses for appointees    "
-    excerpt: "President-elect Joe Biden plans to impose a slew of new ethics restrictions on his incoming administration, a source familiar with the plan tells CNN, including barring his appointees from accepting \"golden parachute\" bonuses from their former employees when they join the government.\n    \n"
-    publishedDateTime: 2021-01-19T17:52:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cxm7ryPpBso/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/19/politics/ethics-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/ethics-biden-administration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118154054-01-biden-cabinet-nominations-1211-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Proximity to power: What the West Wing office layout says about the Biden administration"
     excerpt: "It's an adage in any high-pressure office: proximity is power. Nowhere is that more true than the West Wing.\n    \n"
     publishedDateTime: 2021-01-26T01:35:07Z

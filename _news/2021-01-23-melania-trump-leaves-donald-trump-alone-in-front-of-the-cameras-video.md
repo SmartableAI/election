@@ -7,8 +7,8 @@ originalUrl: "https://www.theguardian.com/us-news/video/2021/jan/23/melania-trum
 webUrl: "https://www.theguardian.com/us-news/video/2021/jan/23/melania-trump-leaves-donald-trump-alone-in-front-of-the-cameras-video"
 type: article
 quality: 105
-heat: 145
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -29,37 +29,46 @@ images:
     isCached: true
 
 related:
-  - title: "Twitter Reacts To Melania Trump Leaving Donald Trump Alone In Front Of Cameras"
-    excerpt: "Melania Trump left her husband, Donald Trump, alone in front of the cameras after their departure from the White House Wednesday. But some Twitter users said her husband pushed her to walk ahead."
-    publishedDateTime: 2021-01-24T10:06:00Z
-    webUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165"
-    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-melania-trump-leaving-donald-trump-alone-front-cameras-3129165?amp=1"
+  - title: "'It's not their party any more': Trump leaves Republicans deeply fractured"
+    excerpt: "The president has ignited a civil war in his own party, creating bitter divides that will be felt for years to come"
+    publishedDateTime: 2021-01-16T17:54:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/16/donald-trump-republican-party-divided-impeachment-capitol-attack"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/16/donald-trump-republican-party-divided-impeachment-capitol-attack"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/16/donald-trump-republican-party-divided-impeachment-capitol-attack"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 71
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-melania-trump.jpg"
-        width: 1024
-        height: 683
+      - url: "https://i.guim.co.uk/img/media/db9762e40c1133a39c297fa5bcc3d7607af074a7/0_150_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fcac560390630cc3adc836f4d2425be5"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Melania, Ivanka Trump's Friendship 'Most Fractured' Bond After Donald Trump's Presidency: Report"
-    excerpt: "The relationship of the members of the Trump family changed after they moved to the White House, and Melania Trump and Ivanka Trump's relationship was the \"most fractured of the bonds,\" a report says."
-    publishedDateTime: 2021-01-18T00:51:00Z
-    webUrl: "https://www.ibtimes.com/melania-ivanka-trumps-friendship-most-fractured-bond-after-donald-trumps-presidency-3124275"
-    ampWebUrl: "https://www.ibtimes.com/melania-ivanka-trumps-friendship-most-fractured-bond-after-donald-trumps-presidency-3124275?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-ivanka-trumps-friendship-most-fractured-bond-after-donald-trumps-presidency-3124275?amp=1"
+  - title: "Morgan Lewis, Trump's longtime tax counsel, prepares for split"
+    excerpt: "Morgan, Lewis & Bockius said Wednesday it was stepping away from advising Donald Trump on tax matters, leaving the former president and his businesses further isolated from the country's largest law firms."
+    publishedDateTime: 2021-01-21T04:07:00Z
+    webUrl: "https://www.reuters.com/article/mlb-trump-idUSL1N2JW050"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JW050"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JW050"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 62
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Trump sought the world's attention and got it. Now the White House reality show ends"
+    excerpt: "A red tie, often tied too long. A raised fist, often held high to a supportive crowd. A scowling face. A raised voice."
+    publishedDateTime: 2021-01-18T19:37:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-postcards/trump-sought-the-worlds-attention-and-got-it-now-the-white-house-reality-show-ends-idUSKBN29N1E2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/05/03/ivanka-melania-trump.jpg"
-        width: 1024
-        height: 702
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548203838&r=LYNXMPEH0H0U5&w=800"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "xdsEMA24EmjisLHesAbT5HSQSttiwNKvLWTryUNMscOUy+urfg8wsZLIt6/pwpdnY5BM2yVH9H2thK4BrINrKbbpvLEM19SZnM9T+wlY3ITlhBEPd4xVniBrOJXXfy14jrpK8bqsOmgc+aLEAXNg/d5Yi880Ha6yjAQfB2IY/OQ7iX8Sx41fjBZrBDO3RY/Zx4ed8Ane2hcA+4VlE2X0YvTRBIwEwj1Xc2ajlZQijAUutFrdUl/07qZWzMvHfXjIZaRRZ6SI7qx/SLVtkOqw3a0T8knAEQY7LB4MS1l41pyDyKHU8uwcuZL7yjxFIWfSJ4B5hKa0neutIAhrhF5ByrgwoxsNmKwg3O4vo2wDVqKujZJ1xQg4pURlD0MeX05ra6hTr09L4N6xJIRp0Ybg4qApKw8fKLyscu4dK/2AIMGEefIsVlx9mPc/mCJHePDchCdZTIwjiGnlsVGnHsfvElx/ksD9Y14PH6s4JxoWZsrVWakYMo8UKrKKL4O9AQryH2k5VtjN2O1XxmIq0I6uvw==;LLnl2KOY1ljFVzZ3sAWG0A=="

@@ -29,37 +29,46 @@ images:
     isCached: true
 
 related:
-  - title: "Bette Midler Says Donald Trump Will 'Burn Down' The White House Before He Leaves"
-    excerpt: "\"How many more will die in the service of this mediocrity? And watch, he'll burn the WH down before he goes,\" Midler tweeted Tuesday."
-    publishedDateTime: 2021-01-12T17:33:00Z
-    webUrl: "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892"
-    ampWebUrl: "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892?amp=1"
+  - title: "'It's not their party any more': Trump leaves Republicans deeply fractured"
+    excerpt: "The president has ignited a civil war in his own party, creating bitter divides that will be felt for years to come"
+    publishedDateTime: 2021-01-16T17:54:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/16/donald-trump-republican-party-divided-impeachment-capitol-attack"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/16/donald-trump-republican-party-divided-impeachment-capitol-attack"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/16/donald-trump-republican-party-divided-impeachment-capitol-attack"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 120
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
     images:
-      - url: "https://d.newsweek.com/en/full/1673938/bette-midler.jpg"
-        width: 3000
-        height: 2023
+      - url: "https://i.guim.co.uk/img/media/db9762e40c1133a39c297fa5bcc3d7607af074a7/0_150_4500_2700/master/4500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fcac560390630cc3adc836f4d2425be5"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Former White House spokesman Hogan Gidley says Trump is the 'most masculine' president in US history"
-    excerpt: "This came after Fox News host Bill Hemmer asked Gidley if Trump felt \"emasculated\" by the recent \"social media crackdown.\""
-    publishedDateTime: 2021-01-11T22:59:00Z
-    webUrl: "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1?amp"
+  - title: "Morgan Lewis, Trump's longtime tax counsel, prepares for split"
+    excerpt: "Morgan, Lewis & Bockius said Wednesday it was stepping away from advising Donald Trump on tax matters, leaving the former president and his businesses further isolated from the country's largest law firms."
+    publishedDateTime: 2021-01-21T04:07:00Z
+    webUrl: "https://www.reuters.com/article/mlb-trump-idUSL1N2JW050"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2JW050"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2JW050"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Melania Trump leaves Donald Trump alone in front of the cameras – video"
+    excerpt: "Former first lady left Donald Trump alone in front of the cameras at Palm Beach airport after the couple left the White House ahead of Joe Biden's inauguration"
+    publishedDateTime: 2021-01-23T10:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/23/melania-trump-leaves-donald-trump-alone-in-front-of-the-cameras-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
     images:
-      - url: "https://i.insider.com/5ffcc49fbde805001980c448?width=1200&format=jpeg"
+      - url: "https://i.guim.co.uk/img/media/13ed5203f77124a21f8ff6fb41659c1b30762c44/30_76_1673_1004/master/1673.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a04315508afc531e643ca3e642bb5c0"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
 
 secured: "AUQx7dbcnAXErLKHtqZlQyNkDInRrkrFl1HB1sUFUUIyXIFI3ZRL1lyyonHeqajaEO9KZAScOZNa7J3Euqpq2jZNNYp94JeRAocJZB2cjeaRLahKXTtE91COl4wslyac+wQboaNYBSAkPOvnQNf+iMaTL9iXqGa9v5YXajDwqOVDVyP4UFw6hr0h3ds5R1uG3Y4532SzL8d6POiOOCnNxOwho+R+MTP9mY5/Ui/HPEV6KcDUQJtG+ORrK2ObLu8B4bDeTtALj3TtUwXmDfmqm0WsSr6dAoZKpdTQW17IPU8pOuzng+pN8IbZk6OEXPx7HWPIw1Fqx5ILXmkQcxhY/X65h+VQy7ymfgGpXr4Z9Ew=;IMvYmkaTgfzZsyRqP3JPDQ=="

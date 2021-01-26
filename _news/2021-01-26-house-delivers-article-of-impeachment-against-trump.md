@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senators to be sworn in for Trump impeachment trial "
+    excerpt: "Senators will be formally sworn in as jurors on Tuesday for the second impeachment trial of former President Donald Trump, though the trial won't get into full swing until the week of February 8.\n    \n"
+    publishedDateTime: 2021-01-26T11:45:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4ruBKemCI_I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/impeachment-trial-latest-senators-sworn-in/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/impeachment-trial-latest-senators-sworn-in/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122130036-split-mitch-mcconnell-chuck-schumer-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's impeachment case is now in the Senate's hands. Here's what's next"
     excerpt: "The House voted to impeach President Donald Trump on January 14, but waited until Monday to complete the next step in the process -- having House managers read the single article of impeachment aloud on the House floor and then walking it over to the Senate.\n    \n"
     publishedDateTime: 2021-01-26T01:01:22Z

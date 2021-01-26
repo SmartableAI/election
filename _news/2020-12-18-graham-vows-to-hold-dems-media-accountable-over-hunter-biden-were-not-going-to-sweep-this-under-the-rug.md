@@ -205,6 +205,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Why the Trump Impeachment Trial Is Crucial"
+    excerpt: "Frida Ghitis writes that Donald Trump's impeachment trial will help establish the record of fact for when willingness to face the truth arrives. Read Full Article »"
+    publishedDateTime: 2021-01-26T12:39:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/01/26/why_the_trump_impeachment_trial_is_crucial_534392.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "59prWdYGN9lG2D5kPQAoZO/+28ZY3by+WeC6mkx75JgEtPt/IAsTzfNv1kTE2y0vFmFJnzhcotX7o935/Yo+AZYv+Ga6cH/ZjcunWclX+dm0Nm3P+K/QX4U8PC7pa0gRV93BOVsnYN+pKtOzCXAUFKEBFAxV6AYIkQkv4f+jPLz+dbCY+U9YUQp9aLWopag5hXCGrr48GT65Y/jni66uEZOcclzg4OEhH0OZvjRypCX+Pzoc5A3YDOx9yypvKNqQr3MCGIJqdp24h635pNlG+8WC9IFfxTgDV+zkNA7gwMls6lPZNuMpbN/7JKyyVStnNrJ1X5nRrG/5OwWDtcI/cS1KWgykT0BvmHL/3yHUdkU=;Dgdha2SAhaOfXk+vnCEZgg=="
 ---

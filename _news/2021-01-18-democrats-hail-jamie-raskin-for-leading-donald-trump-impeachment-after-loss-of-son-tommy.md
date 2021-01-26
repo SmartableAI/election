@@ -63,20 +63,6 @@ related:
         width: 3308
         height: 1932
         isCached: true
-  - title: "Democrats have these 7 last-minute Trump administration regulations in their sights to overturn now that they control the Senate"
-    excerpt: "Senate Democrats are eyeing the Congressional Review Act as a way to obliterate federal regulations from the Trump administration."
-    publishedDateTime: 2021-01-21T13:41:00Z
-    webUrl: "https://www.businessinsider.com/biden-congressional-review-act-senate-democrats-trump-regulations-rules-2021-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
-    images:
-      - url: "https://i.insider.com/5fa9bbdff7d1cb0019e3aab7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "elrkz8rj7FN5EgJZjgOAsn0YJc3Evy3y6Zda0hvP++ib8vOO9SX7KERq5dT/i+A4hAKUkOp2V6TTBLnDGqYGKgwQe5xpqn/n4UJDyJql3Ul/H0n/UYuh/J9S7Sp6Pkuv8G3eHeo1OEHnIDB+hHH8tr8eTeJqE3v3w5Jp/+Fq+8EKlzv6G9FPuzoo1PRs/nuZuTmcEut6dFpBqQFBS5vUwZHs22mKYChQnIdjqbvaQtnLA5IMD2W9hkKFgZ6U1q95FNPaKK2B529XyJQyBQaOdeZkA6tXJdWV3wa42qfrL3bkJV0iGjhpl79+hB9FRBC/ssAUpDMatSXTF0v/QRUs5wLB2zO0iN7kRiAyc1rnrT8=;mdJw9VgYtwBjgmpzn8oZPw=="
 ---

@@ -1664,6 +1664,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AG nominee Merrick Garland to face questions over Hunter Biden probe in hearings"
+    excerpt: "President Biden's attorney general nominee Merrick Garland will face a confirmation hearing before the Senate Judiciary Committee at a yet-to-be-determined date, but when the day comes he can expect to field questions related to the president's son, Hunter Biden."
+    publishedDateTime: 2021-01-26T11:06:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eeoG5fuqZss/merrick-garland-hunter-biden-probe-questions-attorney-general-hearings"
+    ampWebUrl: "https://www.foxnews.com/politics/merrick-garland-hunter-biden-probe-questions-attorney-general-hearings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/merrick-garland-hunter-biden-probe-questions-attorney-general-hearings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6d7b1e8-4a30-4fea-b031-0a2ce9f3ec49/b32f667e-0ba2-4230-83ef-9e156e828214/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ahead of Biden inauguration, FBI Director Wray warns of 'concerning online chatter'"
     excerpt: "FBI Director Christopher Wray warned Thursday that authorities are monitoring calls for “potential armed protests” in Washington D.C. and state capitols."
     publishedDateTime: 2021-01-14T23:13:36Z
