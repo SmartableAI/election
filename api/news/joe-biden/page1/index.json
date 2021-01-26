@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-26-biden-overturns-trump-ban-on-transgender-people-serving-in-us-military.md",
+      "title": "Biden overturns Trump ban on transgender people serving in U.S. military",
+      "excerpt": "President Joe Biden on Monday signed an executive order that overturned a controversial ban by his predecessor on transgender individuals serving in the U.S. military, a move cheered by LGBTQ advocates that fulfills a campaign promise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-military-transgender-idUSKBN29U1VH",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-military-transgender-idUSKBN29U1VH",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548998122&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O15J",
+          "width": 778,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29U1VH",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U1VH",
+      "publishedDateTime": "2021-01-25T18:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-biden-administration-suspends-some-sanctions-on-yemen-rebels.md",
+      "title": "Biden administration suspends some sanctions on Yemen rebels",
+      "excerpt": "The Biden administration is suspending some of the terrorism sanctions that former Secretary of State Mike Pompeo imposed on Yemen's Houthi rebels in his waning days in office",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-administration-suspends-sanctions-yemen-rebels-75476202",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-administration-suspends-sanctions-yemen-rebels-75476202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_3d3d5d3fb8724be4acff290c8b19d406_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-administration-suspends-sanctions-yemen-rebels-75476202",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-administration-suspends-sanctions-yemen-rebels-75476202",
+      "publishedDateTime": "2021-01-25T17:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-politics-live-updates-biden-predicts-vaccine-available-to-general-public-in-spring-sen-leahy-to-preside-over-impeachment.md",
       "title": "Politics live updates: Biden predicts vaccine available to general public in spring; Sen. Leahy to preside over impeachment",
       "excerpt": "House Democrats will carry their article of impeachment against Donald Trump across the Capitol to the Senate Monday. The trial will start Feb. 9.",
@@ -34,58 +139,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-biden-administration-suspends-some-sanctions-on-yemen-rebels.md",
-      "title": "Biden administration suspends some sanctions on Yemen rebels",
-      "excerpt": "The Biden administration is suspending some of the terrorism sanctions that former Secretary of State Mike Pompeo imposed on Yemen’s Houthi rebels in his waning days in office",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/national-security/biden-administration-suspends-some-sanctions-on-yemen-rebels/2021/01/25/b62f7ec0-5f52-11eb-a177-7765f29a9524_story.html",
-      "originalUrl": "https://www.washingtonpost.com/world/national-security/biden-administration-suspends-some-sanctions-on-yemen-rebels/2021/01/25/b62f7ec0-5f52-11eb-a177-7765f29a9524_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/national-security/biden-administration-suspends-some-sanctions-on-yemen-rebels/2021/01/25/b62f7ec0-5f52-11eb-a177-7765f29a9524_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-administration-suspends-some-sanctions-on-yemen-rebels/2021/01/25/b62f7ec0-5f52-11eb-a177-7765f29a9524_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-25T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -158,58 +211,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-25-biden-to-reinstate-covid-19-travel-rules-add-south-africa.md",
-      "title": "Biden to reinstate COVID-19 travel rules, add South Africa",
-      "excerpt": "Two White House officials say President Joe Biden on Monday will formally reinstate COVID-19 travel restrictions on non-U.S. travelers from Brazil, Ireland, United Kingdom and 26 other European countr",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-25T06:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-01-25-biden-officials-discuss-19-tn-stimulus-plan-in-call-with-group-of-bipartisan-lawmakers.md",
       "title": "Biden Officials Discuss $1.9 Tn Stimulus Plan in Call With Group of Bipartisan Lawmakers",
       "excerpt": "Officials in Joe Biden's administration discussed the president's $1.9 trillion stimulus proposal in a call with a group of bipartisan lawmakers on Sunday. On January 14, days before his inauguration,",
@@ -218,7 +219,7 @@
       "originalUrl": "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -477,6 +478,110 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-24-mexican-leader-says-biden-offers-4b-for-central-america.md",
+      "title": "Mexican leader says Biden offers $4B for Central America",
+      "excerpt": "Mexico’s president says that President Joe Biden has told him the U.S. would send $4 billion to help development in Honduras, El Salvador and Guatemala",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_7aad6260e03e4eb1af6cc90dc7555d01_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816",
+      "publishedDateTime": "2021-01-23T13:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-24-fauci-says-bidens-strikingly-different-tone-on-covid-crisis-will-rev-up-vaccination-efforts.md",
+      "title": "Fauci Says Biden's 'Strikingly Different Tone' on COVID Crisis Will Rev Up Vaccination Efforts",
+      "excerpt": "\"Instead of pointing fingers and making blame, we're going to try and fix it,\" the nation's top infectious disease expert said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912",
+      "originalUrl": "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1714793/anthony-fauci.jpg",
+          "width": 2500,
+          "height": 1668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1",
+      "publishedDateTime": "2021-01-23T10:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1010,7 +1115,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4210,
+      "heat": 4230,
       "tags": null,
       "images": [
         {
@@ -1267,7 +1372,7 @@
       "originalUrl": "https://www.newsweek.com/2021/02/05/joe-bidens-options-dealing-donald-trump-are-worse-watergate-1562142.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2388,
+      "heat": 1288,
       "tags": null,
       "images": [
         {
@@ -1448,110 +1553,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-biden-science-will-be-at-forefront-of-his-administration.md",
-      "title": "Biden: Science will be at `forefront' of his administration",
-      "excerpt": "President-elect Joe Biden says “science will always be at the forefront of my administration,” and he's elevating the post of science adviser to Cabinet level, a White House first",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/biden-science-forefront-administration-75295060",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/biden-science-forefront-administration-75295060",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Technology/WireAP_7202bb1dd3fb4d92b9cf5bf27cee5bf3_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/biden-science-forefront-administration-75295060",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/biden-science-forefront-administration-75295060",
-      "publishedDateTime": "2021-01-16T06:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-police-man-charged-after-displaying-kill-biden-sign.md",
-      "title": "Police: Man charged after displaying ‘KILL BIDEN’ sign",
-      "excerpt": "A Virginia man has been arrested for having a “KILL BIDEN” sign. WWBT in Richmond reported Thursday that Kenneth Kraig Thomas of Goochland County was arrested and is facing a charge of threatening a person in writing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/police-man-charged-after-displaying-kill-biden-sign/2021/01/15/1397f9c4-5775-11eb-acc5-92d2819a1ccb_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/police-man-charged-after-displaying-kill-biden-sign/2021/01/15/1397f9c4-5775-11eb-acc5-92d2819a1ccb_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/police-man-charged-after-displaying-kill-biden-sign/2021/01/15/1397f9c4-5775-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/police-man-charged-after-displaying-kill-biden-sign/2021/01/15/1397f9c4-5775-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-15T18:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

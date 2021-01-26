@@ -2,6 +2,166 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-14-siege-was-in-the-name-of-the-donald-trump-rep-cicilline.md",
+      "title": "Siege was 'in the name of the Donald Trump': Rep. Cicilline",
+      "excerpt": "Rep. Cicilline. Posted . Democratic Congressman David Cicilline railed against President Donald Trump on Wednesday ahead of T",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idOVDV1MRBZ",
+      "originalUrl": "https://www.reuters.com/video/watch/idOVDV1MRBZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210113&i=OVDV1MRBZ&r=OVDV1MRBZ&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement.md",
+      "title": "Cindy McCain trades shots with top AZ Republican over Biden endorsement",
+      "excerpt": "Cindy McCain, widow of the late GOP Sen. John McCain, fired back at the state's Republican Party on Tuesday following the announcement of a resolution to censure her over supposed ties to leftist, globalist causes and failure to support President Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4MtFVRz_Zw8/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4MtFVRz_Zw8/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b15a729f-7e48-4c06-a52d-20c5c73df2fe/be420134-8c4e-47c5-84c3-5b5908bc7c4d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement.amp",
+      "publishedDateTime": "2021-01-13T12:37:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-14-live-impeachment-updates-gop-house-leader-trump-bears-responsibility-for-riot-but-impeachment-a-mistake.md",
+      "title": "Live impeachment updates: GOP House leader: Trump 'bears responsibility' for riot, but impeachment a 'mistake'",
+      "excerpt": "A vote to impeach will further divide the nation. A vote to impeach will further fan the flames of partisan division,\" Rep. Kevin McCarthy said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/13/impeachment-live-updates-house-vote-gop-rift-trump-grows/6644827002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/13/impeachment-live-updates-house-vote-gop-rift-trump-grows/6644827002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/13/USAT/364bda46-7631-4195-8825-20cfb2fad595-AP_Trump_Impeachment_2.jpg?auto=webp&crop=4121,2319,x0,y209&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6644827002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6644827002",
+      "publishedDateTime": "2021-01-13T10:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-flashback-nadlers-clinton-impeachment-comments-from-1998-surface-as-he-leads-trump-efforts.md",
       "title": "Flashback: Nadler's Clinton impeachment comments from 1998 surface as he leads Trump efforts",
       "excerpt": "House Judiciary Committee Chairman Jerry Nadler, D-N.Y., is pushing for President Trump to be impeached just days before his term ends, despite warning years ago about \"divisiveness and bitterness\" during the 1998 Clinton impeachment hearings.",
@@ -513,7 +673,7 @@
       "originalUrl": "https://www.cbsnews.com/news/trump-biden-transition-mike-pompeo-kelly-craft-europe-taiwan-travel-cancelled/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -1174,7 +1334,7 @@
       "originalUrl": "https://www.newsweek.com/bette-midler-donald-trump-burn-down-white-house-twitter-1560892",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -1198,170 +1358,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-easy-for-joe-biden-to-heal-country-with-opposition-silenced-on-social-media-dave-rubin.md",
-      "title": "Easy for Joe Biden to 'heal' country with opposition silenced on social media: Dave Rubin",
-      "excerpt": "Big Tech censorship of President Trump and conservatives needs to be addressed now, or soon everyone will be silenced, Dave Rubin warned Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZq7yGxgtxw/biden-twitter-facebook-trump-social-media-dave-rubin-censorship",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZq7yGxgtxw/biden-twitter-facebook-trump-social-media-dave-rubin-censorship",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-twitter-facebook-trump-social-media-dave-rubin-censorship.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-twitter-facebook-trump-social-media-dave-rubin-censorship.amp",
-      "publishedDateTime": "2021-01-12T08:09:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-forbes-op-ed-warns-companies-about-hiring-fabulists-from-trump-administration.md",
-      "title": "Forbes op-ed warns companies about hiring 'fabulists' from Trump administration",
-      "excerpt": "Canceling anyone who was associated with Trump is not going to unite the country, Kelsey Bolar responded",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/981wbizaUoA/forbes-op-ed-warns-companies-hiring-fabulists-trump-administration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/981wbizaUoA/forbes-op-ed-warns-companies-hiring-fabulists-trump-administration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/forbes-op-ed-warns-companies-hiring-fabulists-trump-administration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/forbes-op-ed-warns-companies-hiring-fabulists-trump-administration.amp",
-      "publishedDateTime": "2021-01-12T07:34:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-12-trump-dropped-by-biggest-lender-deutsche-bank-for-future-business-nyt.md",
-      "title": "Trump dropped by biggest lender Deutsche Bank for future business: NYT",
-      "excerpt": "Deutsche Bank will not do business in the future with U.S. President Donald Trump or his companies in the wake of his supporters' assault on the U.S. Capitol, the New York Times reported.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-deutsche-bank/trump-dropped-by-biggest-lender-deutsche-bank-for-future-business-nyt-idUSKBN29H0PM",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-deutsche-bank/trump-dropped-by-biggest-lender-deutsche-bank-for-future-business-nyt-idUSKBN29H0PM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547458224&r=LYNXMPEH0B0CB&w=800",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-12T06:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

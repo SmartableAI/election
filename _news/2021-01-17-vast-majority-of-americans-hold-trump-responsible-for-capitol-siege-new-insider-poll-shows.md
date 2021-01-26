@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Majority of Americans Think History Will View Trump as 'Failed' President"
+    excerpt: "Evaluating a president's time in office often requires a rearview mirror. While history has yet to weigh in on President Donald Trump's time in office, Americans don't see President Donald Trump receiving positive remarks down the road. After a contentious ..."
+    publishedDateTime: 2021-01-18T15:48:00Z
+    webUrl: "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394"
+    ampWebUrl: "https://www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/majority-americans-think-history-will-view-trump-failed-president-1562394?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1710407/trump-history-americans-failed-president.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "'We will be back in some form,' Trump vows at end of tumultuous presidency"
     excerpt: "President Donald Trump disappeared on Wednesday behind the walls of his club in Palm Beach, Florida, ending a tumultuous presidency stained by two impeachments, deep political divisions and a pandemic that has caused 400,"
     publishedDateTime: 2021-01-21T04:22:00Z
@@ -47,79 +63,127 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Trump made 30,573 false or misleading claims as president. Nearly half came in his final year."
-    excerpt: "The Washington Post Fact Checker’s database of Trump claims, originally launched as a project to track his first 100 days, offers a window into his obsessions."
-    publishedDateTime: 2021-01-24T04:35:00Z
-    webUrl: "https://www.washingtonpost.com/politics/how-fact-checker-tracked-trump-claims/2021/01/23/ad04b69a-5c1d-11eb-a976-bad6431e03e2_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/how-fact-checker-tracked-trump-claims/2021/01/23/ad04b69a-5c1d-11eb-a976-bad6431e03e2_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/how-fact-checker-tracked-trump-claims/2021/01/23/ad04b69a-5c1d-11eb-a976-bad6431e03e2_story.html?outputType=amp"
+  - title: "Slim majority of Americans want Senate to convict Trump: Reuters/Ipsos poll"
+    excerpt: "A slim majority of Americans say former President Donald Trump should be convicted by the Senate of inciting an insurrection and barred from holding public office, according to a Reuters/Ipsos poll, which showed a sharp partisan divide over the issue."
+    publishedDateTime: 2021-01-23T02:24:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-poll-idUSKBN29R2M9"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R2M9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R2M9"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
+      name: Reuters
+      domain: reuters.com
+    quality: 123
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UMKPWNCU54I6XLGFSLJIDGQ4ZM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548764158&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1IU"
+        width: 804
+        height: 545
         isCached: true
-  - title: "Harold Bornstein, Trump's former doctor who said he'd be the 'healthiest' president of all time, dies at 73"
-    excerpt: "Bornstein rose to global fame after he declared Trump \"the healthiest individual ever elected to the presidency.\" But Trump still cast him aside."
-    publishedDateTime: 2021-01-16T19:10:00Z
-    webUrl: "https://www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-former-doctor-harold-bornstein-dies-at-73-2021-1?amp"
+  - title: "Exclusive: As Trump leaves office, 50% of Americans see him as a 'failed' president"
+    excerpt: "Trump hasn't succeeded in overturning the election results but he has persuaded a third of Americans that Biden wasn't legitimately elected"
+    publishedDateTime: 2020-12-24T09:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/12/24/donald-trump-failed-president-50-usa-today-poll-say/3926190001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3926190001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3926190001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
     images:
-      - url: "https://i.insider.com/60005bc6a8de7700187d3d2d?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/11/08/USAT/e0873822-4b69-42e9-b96d-431644856090-AP_APTOPIX_Election_2020_Biden.jpg?auto=webp&crop=2935,1651,x0,y149&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Law enforcement officials brace for pro-Trump protests at state capitals"
-    excerpt: "Members of the State police arrive at the Michigan state Capitol in Lansing, Michigan. REUTERS/Rebecca Cook"
-    publishedDateTime: 2021-01-18T00:00:00Z
-    webUrl: "https://www.reuters.com/news/picture/law-enforcement-officials-brace-for-pro-idUSRTX8N0Y3"
+  - title: "USA TODAY/Suffolk Poll: Americans, braced for violence at the inauguration, see democracy damaged after Trump"
+    excerpt: "A new USA TODAY/Suffolk Poll finds President Trump's standing has eroded since the U.S. Capitol riot. A majority predict violence at Joe Biden's inauguration."
+    publishedDateTime: 2021-01-17T14:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/17/trump-hurt-democracy-violence-feared-inauguration-poll/4165750001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4165750001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4165750001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/14/USAT/58d3db56-ae52-4500-9485-aa58d36fc8f2-USATSI_15428849.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Analysis - Trump's legacy: A more divided America, a more unsettled world"
+    excerpt: "Closing out his presidency exactly four years later, Trump leaves behind an even more polarized America, where thousands are dying daily from the COVID-19 pandemic, the economy is badly damaged and political violence has surged."
+    publishedDateTime: 2021-01-19T12:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-legacy/analysis-trumps-legacy-a-more-divided-america-a-more-unsettled-world-idUSL1N2JS0KO"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 104
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210117&t=2&i=1548135793&w=&fh=545&fw=810&ll=&pl=&sq=&r=2021-01-17T234213Z_38118_MRPRC2W9L9NEB41_RTRMADP_0_USA-TRUMP-PROTESTS"
-        width: 810
-        height: 540
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297890&r=LYNXMPEH0I0O7&w=800"
+        width: 800
+        height: 547
         isCached: true
-  - title: "The Trump years: Tax cuts and trade wars overshadowed in the end by a virus"
-    excerpt: "From trade wars to tax cuts, from ultra-low unemployment to record highs on stock markets and a high-volume feud with his own Federal Reserve chief, President Donald Trump took the U.S. economy on a wild ride even before the coronavirus drove it off a cliff."
-    publishedDateTime: 2021-01-19T16:37:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-economy-trump/the-trump-years-tax-cuts-and-trade-wars-overshadowed-in-the-end-by-a-virus-idUKKBN29O169"
+  - title: "Analysis - Trump's legacy: A more divided America, a more unsettled world"
+    excerpt: "Closing out his presidency exactly four years later, Trump leaves behind an even more polarized America, where thousands are dying daily from the COVID-19 pandemic, the economy is badly damaged and political violence has surged."
+    publishedDateTime: 2021-01-19T16:35:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-legacy-analysis/analysis-trumps-legacy-a-more-divided-america-a-more-unsettled-world-idUSKBN29O15W?post"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 103
+    quality: 104
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548298212&r=LYNXMPEH0I0OD&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297890&r=LYNXMPEH0I0O7&w=800"
         width: 800
-        height: 561
+        height: 547
         isCached: true
-  - title: "Trump sought the world's attention and got it. Now the White House reality show ends"
-    excerpt: "A red tie, often tied too long. A raised fist, often held high to a supportive crowd. A scowling face. A raised voice."
-    publishedDateTime: 2021-01-18T19:37:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-postcards/trump-sought-the-worlds-attention-and-got-it-now-the-white-house-reality-show-ends-idUSKBN29N1E2"
+  - title: "Most Americans Want Trump Gone From Politics, Poll Says"
+    excerpt: "A slim majority of Americans want to see Trump charged with the incitement of the mob that attacked the Capitol Building, which would bar him from holding public office if convict"
+    publishedDateTime: 2021-01-15T15:21:00Z
+    webUrl: "https://www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261"
+    ampWebUrl: "https://www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/most-americans-want-trump-gone-politics-poll-says-3123261?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210118&t=2&i=1548203838&r=LYNXMPEH0H0U5&w=800"
-        width: 800
-        height: 533
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/14/us-president-donald-trump-owns-the-unfortunate-distinction.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Should Trump Pardon Himself? 68% Of Americans Say 'No'"
+    excerpt: "The U.S. Constitution does not explicitly say whether a sitting president can pardon himself for potential criminal liabilities."
+    publishedDateTime: 2021-01-18T00:26:00Z
+    webUrl: "https://www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284"
+    ampWebUrl: "https://www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/should-trump-pardon-himself-68-americans-say-no-3124284?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/15/outgoing-us-president-donald-trump-is-seeking-to.jpg"
+        width: 1024
+        height: 716
+        isCached: true
+  - title: "From the border to the federal bench to raging political divisions: How Donald Trump's tenure has changed America"
+    excerpt: "No matter what Trump does now, his past four years have left a mark on immigration, the federal bench and the nation's raging political divisions."
+    publishedDateTime: 2021-01-18T23:23:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/01/18/heres-how-trumps-tumultuous-four-years-president-changed-america/4165708001/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 34
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d9fcae70-ecb3-4fa7-ba54-bd90bcd378e0-AP21012563654909.jpg?crop=5999,3374,x1,y626&width=3200&height=1680&fit=bounds"
+        width: 2987
+        height: 1680
         isCached: true
 
 secured: "hMWTcKKfkQxgcEQmfdGOEWzAHskyrELDn5D6Xwf/3/6/tGx6VHhyo+EM5DyjewPzM7TKFzLa/M2AhS4cpvL4zTuJmehHWRXKcZARPWtqUkJ7ECet5K/sK0fD+nbAUTj90TxYelartNnyPE4pTJJn+MQtY94nijFxCFB+Ug447rAELkl83IzQrVjK6MdjDUAPj18Tif1Q9xfO6+guTnOg2bVXYF/T9Ybti0XD3FYmW5wa65jTAqg/ElU/7rc40kCRCyjp7xFglVlE9CHEqjIB+QA9VUIAtLGWsUr/Ys9S+fnFljKEUT6CG9FIAmYHWpiOUg3XreUFsEc0TbXSKUTbcFBQm5MCP7r9keINieVCUsM=;h+QFNFdTfab71LMkcpmuiA=="

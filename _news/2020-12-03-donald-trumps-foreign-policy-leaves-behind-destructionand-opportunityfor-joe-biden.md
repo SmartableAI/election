@@ -110,22 +110,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Religious right eyes Biden warily after Trump's good favor"
-    excerpt: "As his administration draws to a close, some of those backers are approaching President-elect Joe Biden with skepticism, but not antagonism. Christian conservatives who stood by Trump through moments of crisis and success are hardly comfortable with his loss,"
-    publishedDateTime: 2020-12-05T16:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/religious-eyes-biden-warily-trumps-good-favor-74555222"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/religious-eyes-biden-warily-trumps-good-favor-74555222"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/religious-eyes-biden-warily-trumps-good-favor-74555222"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "Trump presses Georgia governor to help subvert election"
     excerpt: "President Donald Trump’s first political rally since losing the election is meant to boost Republican incumbents campaigning in two Georgia runoffs that will decide which party controls the Senate"
     publishedDateTime: 2020-12-06T00:09:00Z
@@ -285,22 +269,6 @@ related:
       - url: "https://i.insider.com/5fcbe481b6a3a800199b6e0a?width=750&format=jpeg&auto=webp"
         width: 750
         height: 500
-        isCached: true
-  - title: "Power Up: One reason Trump keeps pushing to overturn Biden win: He's raking in cash"
-    excerpt: "President Trump has raised more than $150 million pushing his false claims about a rigged election, but a big chunk of the money could wind up as a down payment for the president's post-White House political operation – another sign that the blundering efforts to overturn the election results may not really be about winning at all."
-    publishedDateTime: 2020-12-01T11:31:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/12/01/power-up-one-reason-trump-keeps-pushing-overturn-biden-win-it-raking-cash/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/01/power-up-one-reason-trump-keeps-pushing-overturn-biden-win-it-raking-cash/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/01/power-up-one-reason-trump-keeps-pushing-overturn-biden-win-it-raking-cash/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 134
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZAI342BSOEI6XFUZADJRD4J5FU.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Trump’s unfinished border wall faces uncertain future after Biden pledge to freeze construction"
     excerpt: "President-elect Joe Biden has pledged to halt construction once in office, leaving Trump’s signature project in the lurch."

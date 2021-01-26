@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/local/social-issues/census-battle-end
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html?outputType=amp"
 type: article
 quality: 112
-heat: 252
+heat: 232
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump pardons ex-strategist Steve Bannon, dozens of others"
-    excerpt: "President Donald Trump has pardoned former chief strategist Steve Bannon as part of a late flurry of clemency action benefiting nearly 150 people, including rap stars and former members of Congress"
-    publishedDateTime: 2021-01-20T07:16:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-pardons-strategist-steve-bannon-dozens-75363758"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_5ffebad59b7a4e4e950520e8691e2ec2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump administration shelves planned investment ban on Alibaba, Tencent, Baidu: sources"
     excerpt: "The Trump administration has scrapped plans to blacklist Chinese tech giants Alibaba, Tencent and Baidu, four people familiar with the matter said, providing a brief reprieve to Beijing's top corporates amid a broader crackdown by Washington."
     publishedDateTime: 2021-01-14T18:26:00Z

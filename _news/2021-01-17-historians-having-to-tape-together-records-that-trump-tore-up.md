@@ -207,22 +207,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "US historians on what Donald Trump's legacy will be"
-    excerpt: "What's Trump's key legacy? Donald Trump will be remembered as the first president to be impeached twice. He fed the myth that the election was stolen, summoned his supporters to Washington to protest the certification of the Electoral College vote,"
-    publishedDateTime: 2021-01-19T12:47:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-55640427"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-55640427"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-55640427"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/5B79/production/_116571432_trump-rushmore-cps.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Capitol rioters hold out long-shot hope for a Trump pardon"
     excerpt: "In what could be the longest of legal long shots, several of those arrested for storming the U.S. Capitol are holding out hope that President Donald Trump will use some of his last hours in office to"
     publishedDateTime: 2021-01-20T06:52:00Z
@@ -239,102 +223,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Donald Trump Can Issue Secret Pardons, but They're Risky"
-    excerpt: "President Donald Trump issued 70 pardons and 73 commutations on his last full day in office on Tuesday. He did not issue pardons for himself, any of his adult children or former New York Mayor Rudy Giuliani."
-    publishedDateTime: 2021-01-20T10:06:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-can-issue-secret-pardons-risky-1562892"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-can-issue-secret-pardons-risky-1562892?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-can-issue-secret-pardons-risky-1562892?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1711585/trump-waves-south-lawn.jpg"
-        width: 3667
-        height: 2445
-        isCached: true
-  - title: "Sales of US Constitution topped 1 million during Trump years"
-    excerpt: "Along with dystopian novels and White House tell-alls, the U.S. Constitution has been a best-seller during Donald Trump's presidency"
-    publishedDateTime: 2021-01-19T20:34:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/sales-us-constitution-topped-million-trump-years-75350829"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/sales-us-constitution-topped-million-trump-years-75350829"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/sales-us-constitution-topped-million-trump-years-75350829"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_337d2cb3e83e405dbe9cd3d123dd9e96_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Screen Actors Guild may discipline, expel Donald Trump"
-    excerpt: "After leaving the White House, President Donald Trump may lose his SAG card, too. The Screen Actors Guild said Tuesday that the SAG-AFTRA board voted “overwhelmingly” that there is probable cause that Trump violated its guidelines for membership."
-    publishedDateTime: 2021-01-19T21:44:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/screen-actors-guild-discipline-expel-donald-trump-75352574"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/screen-actors-guild-discipline-expel-donald-trump-75352574"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/screen-actors-guild-discipline-expel-donald-trump-75352574"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_20a84f4a63814942a22f322a9f6c477f_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump expected to issue flurry of pardons on last full day"
-    excerpt: "President Donald Trump is expected to spend his last full day in office issuing a flurry of pardons and bidding farewell to the American public from a near-deserted White House surrounded by an extrao"
-    publishedDateTime: 2021-01-19T17:45:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-expected-issue-flurry-pardons-full-day-75345495"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-expected-issue-flurry-pardons-full-day-75345495"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-expected-issue-flurry-pardons-full-day-75345495"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_2128dc5b516f45c890e59caed7bf1ddd_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump expected to pardon former strategist Bannon"
-    excerpt: "President Donald Trump is expected to pardon his former chief strategist, Steve Bannon, as part of a flurry of last-minute clemency action that appears to be still in flux in the last hours of his pre"
-    publishedDateTime: 2021-01-20T04:58:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-expected-to-pardon-former-strategist-bannon/2021/01/19/70f6d2c0-5adb-11eb-a849-6f9423a75ffd_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-expected-to-pardon-former-strategist-bannon/2021/01/19/70f6d2c0-5adb-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-expected-to-pardon-former-strategist-bannon/2021/01/19/70f6d2c0-5adb-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump pardons Bannon, other allies on final night in office"
-    excerpt: "President Donald Trump late Tuesday issued a final batch of pardons and commutations to a group that included former White House strategist Steve Bannon."
-    publishedDateTime: 2021-01-20T06:10:00Z
-    webUrl: "https://abcnews.go.com/US/trump-pardons-bannon-allies-final-night-office/story?id=75360429"
-    ampWebUrl: "https://abcnews.go.com/amp/US/trump-pardons-bannon-allies-final-night-office/story?id=75360429"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-pardons-bannon-allies-final-night-office/story?id=75360429"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/US/bannon-gty-er-210119_1611091724636_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Historians rail against Trump administration's 1776 Commission"
     excerpt: "Experts call report released by former administration a ‘puerile, politically reactionary document’"
     publishedDateTime: 2021-01-22T08:00:00Z
@@ -350,38 +238,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/6c8012c5df62883049cde364538dd50c9452cf7a/0_265_4000_2401/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c7942ae2ece3d22caec50a5c44e7136f"
         width: 600
         height: 360
-        isCached: true
-  - title: "Top Iran leader posts Trump-like golfer image, vows revenge"
-    excerpt: "The Twitter account of Iran's Supreme Leader on Friday carried the image of a golfer resembling former President Donald Trump apparently being targeted by a drone, vowing revenge over the killing of a top Iranian general in a U."
-    publishedDateTime: 2021-01-22T08:17:00Z
-    webUrl: "https://www.reuters.com/article/us-iran-khamenei-twitter-trump-idUSKBN29R0DE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R0DE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R0DE"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548662508&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L075"
-        width: 789
-        height: 545
-        isCached: true
-  - title: "Trial ahead, Trump turns to ethics lawyer for his defense"
-    excerpt: "Butch Bowers is used to defending public officials in ethics cases. But he's never faced anything quite like this. It's up to Bowers, a South Carolina elections and ethics lawyer, to rise and defend Donald Trump as the Senate plunges next week into an impeachment trial unlike any other,"
-    publishedDateTime: 2021-01-22T22:28:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trial-ahead-trump-turns-ethics-lawyer-defense-75433725"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trial-ahead-trump-turns-ethics-lawyer-defense-75433725"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trial-ahead-trump-turns-ethics-lawyer-defense-75433725"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_16ed7062cdc14e229d53ef52642f205d_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Trump enters final days in power as US braces for potential unrest – live"
     excerpt: "Nation wakes to fear of more trouble in wake of Capitol attack but also hope inauguration can begin new era"
@@ -511,22 +367,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "In one of his final acts, Trump showered clemency on people with connections to him and his allies"
-    excerpt: "A Washington Post analysis of the 144 people who received clemency this week found that at least 45 — or nearly a third — had a link to the president or people in his close orbit."
-    publishedDateTime: 2021-01-21T08:34:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-pardons/2021/01/20/dfc79216-5b49-11eb-8bcf-3877871c819d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-pardons/2021/01/20/dfc79216-5b49-11eb-8bcf-3877871c819d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pardons/2021/01/20/dfc79216-5b49-11eb-8bcf-3877871c819d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 111
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V6HT4GC3E4I6XKCJN6KCHJ277U.jpg&w=1440"
-        width: 1440
-        height: 1059
-        isCached: true
   - title: "Several House Republicans join impeachment push; Pence says he will not move to expel Trump"
     excerpt: "At least four Republicans said on Tuesday they would join Democrats in voting to impeach President Donald Trump over the attack on the U.S. Capitol, as Vice President Mike Pence rejected calls to use a constitutional maneuver to oust him."
     publishedDateTime: 2021-01-13T08:02:00Z
@@ -625,20 +465,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "ShowBiz Minute: Wonder, Brooks, Trump"
-    excerpt: "In open letter to Dr. King, Stevie Wonder calls for equality; Garth Brooks to perform at Biden inauguration; Trump baby protest blimp enters Museum of London collection. (Jan. 19)"
-    publishedDateTime: 2021-01-19T12:30:00Z
-    webUrl: "https://www.usatoday.com/videos/entertainment/2021/01/19/showbiz-minute-wonder-brooks-trump/4209473001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/11a570c1-2622-4199-915d-809d35d375ba-20201013_248_STEVIE_FINAL.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Trump baby protest blimp enters Museum of London collection"
     excerpt: "The Trump Baby Blimp will live on long after its namesake has left the White House."
     publishedDateTime: 2021-01-19T08:24:00Z
@@ -650,20 +476,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Trump expected to issue new wave of pardons"
-    excerpt: "Watch \"President Trump expected to issue new wave of pardons during last full day in office\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-01-19T12:51:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210119123224-president-trump-expected-to-issue-new-wave-of-pardons-during-last-full-day-in-office/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/01/19/story_08611300_1611060124.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Democrats agree to delay Trump impeachment trial"
     excerpt: "Senate Majority Leader Chuck Schumer announced Friday that the impeachment trial for former president Donald Trump will begin February 8th, even though the article of impeachment will be delivered to the Senate on Monday."
     publishedDateTime: 2021-01-23T02:06:00Z
@@ -810,38 +622,6 @@ related:
       - url: "https://cdn.theatlantic.com/thumbor/X9dqtW690RZrlyUlmncN4iTF23o=/570x321/media/img/mt/2021/01/webart_pussypresident_final_copy/original.jpg"
         width: 570
         height: 321
-        isCached: true
-  - title: "A Taxonomy of Donald Trump’s Facial Expressions"
-    excerpt: "The outgoing president’s journey from reality television to the Oval Office is evident in every smile and every scowl."
-    publishedDateTime: 2021-01-20T15:55:00Z
-    webUrl: "https://www.theatlantic.com/politics/archive/2021/01/a-taxonomy-of-donald-trumps-facial-expressions/617742/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/617742/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617742/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 75
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/VJNjoI2HqBJn4Uv0xLH3x89cZb4=/570x321/media/img/mt/2021/01/Trumpface/original.jpg"
-        width: 570
-        height: 321
-        isCached: true
-  - title: "Steve Bannon expected to get pardon from Donald Trump"
-    excerpt: "Bannon has been charged with duping thousands of investors who believed their money would be used to fulfill Trump’s chief campaign promise to build a wall along the southern border. Instead, he allegedly diverted over a million dollars,"
-    publishedDateTime: 2021-01-20T08:14:00Z
-    webUrl: "https://www.nj.com/politics/2021/01/steve-bannon-expected-to-get-pardon-from-donald-trump.html"
-    ampWebUrl: "https://www.nj.com/politics/2021/01/steve-bannon-expected-to-get-pardon-from-donald-trump.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2021/01/steve-bannon-expected-to-get-pardon-from-donald-trump.html?outputType=amp"
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MHS7TFUTIVCPNAWN3OPGOA37UM.jpg"
-        width: 5053
-        height: 3566
         isCached: true
   - title: "US Executes Drug Trafficker In Trump's Final Days In Office"
     excerpt: "US federal authorities executed a former drug trafficker who had contracted Covid-19 late Thursday, and a final execution of Donald Trump's administration was scheduled for Friday with just five days left of his presidency."

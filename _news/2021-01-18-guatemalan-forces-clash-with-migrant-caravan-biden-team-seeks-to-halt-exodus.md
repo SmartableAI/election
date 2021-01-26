@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Some senators oppose the direct-payment part of Biden's stimulus plan because they think it gives too much money to the wealthy, report says"
+    excerpt: "The bipartisan group of senators was said to have expressed its concerns during a call with the White House on Sunday."
+    publishedDateTime: 2021-01-25T08:50:00Z
+    webUrl: "https://www.businessinsider.com/senators-oppose-biden-stimulus-checks-for-the-wealthy-politico-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/senators-oppose-biden-stimulus-checks-for-the-wealthy-politico-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senators-oppose-biden-stimulus-checks-for-the-wealthy-politico-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
+    images:
+      - url: "https://i.insider.com/600e4b457e47190011cb8f63?width=1200&format=jpeg"
+        width: 860
+        height: 430
+        isCached: true
 
 secured: "3wufI/BZlt0ikfKVIQMqKyPpTD2gCSmcL+cLBDnHXUGEzo/pCBwHbFqN1jtAFM+yfh/U2v5Z0XkyUw8OnqBv/rmgs1Q3BUVyDehYelnAZcq8tArPkJO/oYomzJsUrFjvvLDbk9yMKM67Kh0rFpLdrDt1wEArw9f/8C5OgYQBeG9bXjQz1F1YfAXhr+mA1uUh2ZN1sSfYmM6hs/womj7xD/sPIz07jK5xAkXAcWb/eeE2TK/1H6vue8QNIi6chVHITEPP6CUZEj1IUXy+ewgj4fQxO6INa5gQTOLzjbZ7Y2TkA4nCf8+q8v9yZbJqWuPp8LFiXghoPlw6UccQLFl5doHX37+cFo3G8OVmfQf5fXESQnZPkVXJgQvs3NbzrlA0Fn2UCWve+mxe8Llu7oMl2WUtKb+Jwj5mEqY5mH6a6enCqm+41roH2adrrBv3Jypk06a1dYlNZiTarG5slf5i5PCErOFu1UOjVWINKX/5zJEMfNHocm/WVHTgePqx/9bYgdBXkkh9+O7V++boFJBsIg==;FWZaEs1T1XautPEXlR0kDQ=="
 ---

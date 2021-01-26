@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump lost his battle with Congress over the stimulus bill and cost 14 million Americans unemployment aid in the process"
+    excerpt: "But Trump has cost about 14 million Americans a week of federal unemployment aid because he waited to sign the bill after that aid expired."
+    publishedDateTime: 2020-12-28T18:40:00Z
+    webUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-losing-battle-over-the-stimulus-bill-backfired-and-hurt-millions-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5fe9fce6edf8920018093d62?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "iJxdhSPrMhNa2T9SX4WIrwcvXh6W5zX3dhwfPlQjbA15Bbq49G5iqvxmBrmAi+HR5lOb8197qzQh7tTsL0Q9zttMUKsSKrTG0o3/R7XulH7I0CzUHc3EFMhrwmWKMECOqXB0WbofGNlYNJCAZe5TOCLyu0txbUriui9bGNnKVconh0uwoRidpg9R9R4fg8T1DyboLITHzYFSSLlLssFg5Lmbq1nfQxDf1pxIxiTwyghcxV6fAcvGyLrhNTbQjh5qJSOOdxtVMkARmOOHctUkp5qobYNCdYEqA1KZjxr/566AzpyOQRFYJEHnwhMD4iiZkqsAujmByQTf46ep9miBcT2VL18zNHbNf8C5Vu1V3Ko5Bxbpf7G4PzyEZoTvVkmhiYZzLzpYV0mlj/wpkDC8QbEd5pXHhOMrzFIAYx3VIMOanrG8BhcsVp/qjO7XSQRp4RsZc4Fghz01pxkytSpjNAFgLgqfPjK3bA9B+j2q/hPrhzNFyVw/LBVJMLVd+FIcNOG09rEDqn9KpV2OF+60aA==;ZLHr9j62aIFhgWvSfpj2dA=="
 ---

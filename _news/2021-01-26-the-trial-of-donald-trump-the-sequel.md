@@ -64,6 +64,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's impeachment case is now in the Senate's hands. Here's what's next"
+    excerpt: "The House voted to impeach President Donald Trump on January 14, but waited until Monday to complete the next step in the process -- having House managers read the single article of impeachment aloud on the House floor and then walking it over to the Senate.\n    \n"
+    publishedDateTime: 2021-01-26T01:01:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NJ5PyF_hTQg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/impeachment-senate-next-what-matters-january-25/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/impeachment-senate-next-what-matters-january-25/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125153359-01-raskin-jan-13-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "John Roberts ducks the spotlight by skipping the second Trump impeachment trial"
+    excerpt: "Chief Justice John Roberts has long been a student of history, but this is one part of history -- presiding at the second trial of Donald Trump -- he can do without.\n    \n"
+    publishedDateTime: 2021-01-26T01:22:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u0TQusfQybw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/john-roberts-trump-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/john-roberts-trump-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125134312-01-justice-john-roberts-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "McConnell proposes delaying impeachment trial until February so Trump team can prepare"
     excerpt: "The timing of former President Donald Trump's Senate impeachment trial is still unsettled while Senate leaders haggle over how a power-sharing agreement will govern a 50-50 Senate.\n    \n"
     publishedDateTime: 2021-01-22T02:55:43Z
@@ -77,6 +109,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump begins speaking with impeachment lawyer, even as he scrambles to build defense team"
+    excerpt: "Former President Donald Trump is still working to assemble a full legal team for his Senate impeachment trial, people familiar with the matter told CNN on Monday, even as he has begun to craft a defense strategy with Butch Bowers, the South Carolina lawyer who has agreed to represent him in the historic"
+    publishedDateTime: 2021-01-26T01:34:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J4pFuzOZ6_8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/impeachment-trump-lawyer-legal-team/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/impeachment-trump-lawyer-legal-team/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210124092241-file-donald-trump-mar-a-lago-florida-2019-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -112,6 +160,52 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How President Biden's dog Major made history"
+    excerpt: "Patrick Carroll, executive director of the Delaware Humane Association, tells CNN's Anderson Cooper the story of helping President Joe Biden adopt his dog, Major, the first shelter dog to live in the White House."
+    publishedDateTime: 2021-01-26T00:40:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/01/26/major-biden-shelter-dog-white-house-acfc-full-episode-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/01/26/major-biden-shelter-dog-white-house-acfc-full-episode-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/01/26/major-biden-shelter-dog-white-house-acfc-full-episode-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125190424-acfc-major-biden-desktop-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "With Impeachment Trial Looming, Republicans Waver on Punishing Trump"
+    excerpt: "House managers presented the Senate with an article charging Donald J. Trump with “incitement of insurrection.” But Republicans are increasingly indicating they are unlikely to find him guilty."
+    publishedDateTime: 2021-01-26T01:25:00Z
+    webUrl: "https://www.nytimes.com/2021/01/25/us/politics/trump-republicans-impeachment-trial.html"
+    ampWebUrl: "https://www.nytimes.com/2021/01/25/us/politics/trump-republicans-impeachment-trial.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/25/us/politics/trump-republicans-impeachment-trial.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/25/us/politics/25new-washington-briefing-impeachment2/25new-washington-briefing-impeachment2-facebookJumbo-v3.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden reinstates Covid travel restrictions Trump rescinded, imposes new ban on South Africa"
+    excerpt: "President Joe Biden signed restrictions Monday on travel to the United States to mitigate Covid-19 transmission. The ban prevents most non-U.S. citizens from entry if they have recently been in South Africa,"
+    publishedDateTime: 2021-01-26T00:03:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/biden-sign-sweeping-coronavirus-related-travel-restrictions-n1255484"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2021_03/3444696/210124-joe-biden-jm-1623_9e4a5f249f42f0b7a69dace9a0098662.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "‘It Will Be Soon,’ Pelosi Says of Trump Impeachment Trial"
     excerpt: "Speaker Nancy Pelosi said the impeachment charge against former President Donald J. Trump would be sent to the Senate for trial “soon,” but didn’t pinpoint a date."
     publishedDateTime: 2021-01-21T20:29:00Z
@@ -139,6 +233,20 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "House Delivers Article of Impeachment Against Trump"
+    excerpt: "For the second time in just over a year, the House delivered an article of impeachment to the Senate against former President Donald J. Trump, citing “incitement of insurrection.”"
+    publishedDateTime: 2021-01-26T02:33:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007570625/house-delivers-impeachment-senate-trump.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/01/25/us/politics/25new-washington-briefing-impeachment2/25new-washington-briefing-impeachment2-facebookJumbo-v3.jpg?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
   - title: "McConnell wants to push Trump's Senate impeachment trial to mid-February"
     excerpt: "McConnell’s proposal is a deal to give both sides time to prepare for former President Donald Trump's second impeachment trial."

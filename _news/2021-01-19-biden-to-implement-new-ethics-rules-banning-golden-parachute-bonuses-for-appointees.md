@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Proximity to power: What the West Wing office layout says about the Biden administration"
+    excerpt: "It's an adage in any high-pressure office: proximity is power. Nowhere is that more true than the West Wing.\n    \n"
+    publishedDateTime: 2021-01-26T01:35:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cbK0sSAPZo8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/west-wing-offices-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/west-wing-offices-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125145716-20210125-biden-whitehouse-staff-access-gfx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "o/shc6wUoswiyfw4T+08ylRMBxegZpgSFaarDBHO6+/9YKzLUVUvJZhFknS/f7DejtBXkc5XnFP9VND+FL3OSZnoKoyFhKmQcb+IrkhT3UqY/Dk58MzF2UdAk9nXwlmU7a66EHhLBJYbs2BAMES5nsQxxrifQ8Yuu4Ta7nC/CgnQmSzPz2tct+MN4V+D3BY1MVUzynjvum6+pfnBHWoupZ/A90RCkXfPDir9wc4UGeIXuNr6uTkvL1er5fGmHHHmRaNZ0X0RD2lpj0dAdk+0ST5R2yl+OO4mQpoSUlr+xGQgncx+HpZPcNCDd6G///U/LgDDwk9oNSSlhpVwgEGO6Zb4e/oCRBeuUMx2VFfMuWc=;Q+wjE0ljOstrYpmKFDZHwQ=="
 ---

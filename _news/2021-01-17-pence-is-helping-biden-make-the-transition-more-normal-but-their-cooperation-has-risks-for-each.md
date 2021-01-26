@@ -1202,8 +1202,8 @@ related:
         isCached: true
   - title: "Biden overturns ban on transgender people serving in the U.S. military"
     excerpt: "President Joe Biden on Monday overturned a controversial ban by his predecessor on transgender individuals serving in the U.S. military, a move that fulfills a campaign promise and will be cheered by LGBTQ advocates."
-    publishedDateTime: 2021-01-25T21:25:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-military-transgender/biden-overturns-ban-on-transgender-people-serving-in-the-u-s-military-idUSKBN29U1VH"
+    publishedDateTime: 2021-01-25T21:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-military-transgender/update-2-biden-overturns-ban-on-transgender-people-serving-in-the-u-s-military-idUSL1N2K01EP"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29U1VH"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U1VH"
     type: article
@@ -1599,6 +1599,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BC6AHEX6P4I6TA2BZQ644UXH3Y.jpg&w=1440"
         width: 1440
         height: 993
+        isCached: true
+  - title: "President Joe Biden signed more than 20 executive orders after his first full day in office."
+    excerpt: "President Biden signed more than 20 executive orders by the end of his first full day in office, 15 of which he signed on Inauguration Day."
+    publishedDateTime: 2021-01-26T01:59:00Z
+    webUrl: "https://www.usatoday.com/web-stories/president-biden-signs-executive-orders-first-days-in-office/"
+    ampWebUrl: "https://www.usatoday.com/web-stories/president-biden-signs-executive-orders-first-days-in-office/"
+    cdnAmpWebUrl: "https://www-usatoday-com.cdn.ampproject.org/c/s/www.usatoday.com/web-stories/president-biden-signs-executive-orders-first-days-in-office/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://transform.nws.ai/https%3A%2F%2Fcdn.thenewsroom.io%2Fplatform%2Fstory_media%2F1288794426%2Feoo1.png/w_1200,c_limit/"
+        width: 1080
+        height: 1920
         isCached: true
   - title: "Biden will have more women in his Cabinet than any president ever. Other countries still do better."
     excerpt: "Most cabinets have a \"concrete floor\" for gender representation, and rarely go lower. Will Biden raise that floor in the United States?"

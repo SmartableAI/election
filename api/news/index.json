@@ -2,6 +2,223 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-01-26-biden-overturns-trump-ban-on-transgender-people-serving-in-us-military.md",
+      "title": "Biden overturns Trump ban on transgender people serving in U.S. military",
+      "excerpt": "President Joe Biden on Monday signed an executive order that overturned a controversial ban by his predecessor on transgender individuals serving in the U.S. military, a move cheered by LGBTQ advocates that fulfills a campaign promise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-military-transgender-idUSKBN29U1VH",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-military-transgender-idUSKBN29U1VH",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210125&t=2&i=1548998122&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0O15J",
+          "width": 778,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29U1VH",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29U1VH",
+      "publishedDateTime": "2021-01-25T18:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-sarah-sanders-run-for-arkansas-governor-to-test-value-of-ties-to-trump.md",
+      "title": "Sarah Sanders' run for Arkansas governor to test value of ties to Trump ",
+      "excerpt": "Sarah Huckabee Sanders on Monday became the first of what could be a wave of Republicans from former President Donald Trump's inner circle to chart a political future, launching her bid for Arkansas governor.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qCEpHgUFbXo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qCEpHgUFbXo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190613195905-10-sarah-sanders-gallery-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/25/politics/sarah-huckabee-sanders-trump-arkansas-governor-race/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/sarah-huckabee-sanders-trump-arkansas-governor-race/index.html",
+      "publishedDateTime": "2021-01-25T18:43:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-airport-police-officer-identifies-man-charged-in-capitol-riot-after-he-was-kicked-off-flight-for-continuously-yelling-trump-2020.md",
+      "title": "Airport police officer identifies man charged in Capitol riot after he was kicked off flight for 'continuously' yelling 'Trump 2020'",
+      "excerpt": "Federal prosecutors have charged a man in connection to the riot and insurrection at the Capitol on January 6, after a Washington, DC, airport police officer helped identify him.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tYKKMHA0hC4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tYKKMHA0hC4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201117121332-file-airplane-ronald-reagan-airport-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/25/politics/capitol-hill-rioter-kicked-off-plane-trnd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/capitol-hill-rioter-kicked-off-plane-trnd/index.html",
+      "publishedDateTime": "2021-01-25T17:56:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-biden-administration-suspends-some-sanctions-on-yemen-rebels.md",
+      "title": "Biden administration suspends some sanctions on Yemen rebels",
+      "excerpt": "The Biden administration is suspending some of the terrorism sanctions that former Secretary of State Mike Pompeo imposed on Yemen's Houthi rebels in his waning days in office",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-administration-suspends-sanctions-yemen-rebels-75476202",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-administration-suspends-sanctions-yemen-rebels-75476202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_3d3d5d3fb8724be4acff290c8b19d406_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-administration-suspends-sanctions-yemen-rebels-75476202",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-administration-suspends-sanctions-yemen-rebels-75476202",
+      "publishedDateTime": "2021-01-25T17:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-biden-tells-cnn-trumps-impeachment-trial-has-to-happen.md",
       "title": "Biden tells CNN Trump's impeachment trial 'has to happen'",
       "excerpt": "President Joe Biden on Monday offered his most extensive comments since taking office on President Donald Trump's impeachment trial, telling CNN \"I think it has to happen.\"\n    \n",
@@ -14,7 +231,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 350,
+      "heat": 490,
       "tags": null,
       "images": [
         {
@@ -146,58 +363,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-biden-administration-suspends-some-sanctions-on-yemen-rebels.md",
-      "title": "Biden administration suspends some sanctions on Yemen rebels",
-      "excerpt": "The Biden administration is suspending some of the terrorism sanctions that former Secretary of State Mike Pompeo imposed on Yemen’s Houthi rebels in his waning days in office",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/national-security/biden-administration-suspends-some-sanctions-on-yemen-rebels/2021/01/25/b62f7ec0-5f52-11eb-a177-7765f29a9524_story.html",
-      "originalUrl": "https://www.washingtonpost.com/world/national-security/biden-administration-suspends-some-sanctions-on-yemen-rebels/2021/01/25/b62f7ec0-5f52-11eb-a177-7765f29a9524_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/national-security/biden-administration-suspends-some-sanctions-on-yemen-rebels/2021/01/25/b62f7ec0-5f52-11eb-a177-7765f29a9524_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-administration-suspends-some-sanctions-on-yemen-rebels/2021/01/25/b62f7ec0-5f52-11eb-a177-7765f29a9524_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-25T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -382,58 +547,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-26-biden-revokes-trumps-ban-on-transgender-americans-serving-in-the-military.md",
-      "title": "Biden revokes Trump's ban on transgender Americans serving in the military",
-      "excerpt": "\"President Biden believes that gender identity should not be a bar to military service,\" the White House said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/biden-lifts-military-transgender-ban/",
-      "originalUrl": "https://www.cbsnews.com/news/biden-lifts-military-transgender-ban/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 698,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/25/30ca4ffa-dbb6-4707-b5b4-afc22ad90b59/thumbnail/1200x630g2/9a8551d8ee73ca9f07232b67ff7b087c/gettyimages-1230779823.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-lifts-military-transgender-ban/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-lifts-military-transgender-ban/",
-      "publishedDateTime": "2021-01-25T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-25-supreme-court-dismisses-emolument-cases-against-trump.md",
       "title": "Supreme Court dismisses emolument cases against Trump",
       "excerpt": "The Supreme Court declined on Monday to hear a case concerning whether former President Donald Trump violated provisions of the Constitution that bar a president from profiting from a foreign government.\n    \n",
@@ -498,7 +611,7 @@
       "originalUrl": "https://www.washingtonpost.com/nation/2021/01/25/deborah-birx-interview-trump-covid/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -654,58 +767,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-25-biden-to-reinstate-covid-19-travel-rules-add-south-africa.md",
-      "title": "Biden to reinstate COVID-19 travel rules, add South Africa",
-      "excerpt": "Two White House officials say President Joe Biden on Monday will formally reinstate COVID-19 travel restrictions on non-U.S. travelers from Brazil, Ireland, United Kingdom and 26 other European countr",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-25T06:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-01-25-trump-lawyer-giuliani-faces-dominion-lawsuit-for-big-lie-election-fraud-claims.md",
       "title": "Trump lawyer Giuliani faces Dominion lawsuit for 'big lie' election fraud claims",
       "excerpt": "A U.S. voting machine company sued former President Donald Trump's lawyer Rudy Giuliani, accusing him of defamation in what it called his \"big lie\" campaign about widespread fraud in the presidential election,",
@@ -818,7 +879,7 @@
       "originalUrl": "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -1091,7 +1152,7 @@
       "originalUrl": "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-fauci-trump-coronavirus-20210124-xdokcu5atfahtphmduswyzsnba-story.html?outputType=amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1200,7 +1261,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-justice-idUSKBN29T0FS",
       "featuredContent": null,
       "highlight": null,
-      "heat": 393,
+      "heat": 373,
       "tags": null,
       "images": [
         {
@@ -1297,63 +1358,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-biden-health-officials-express-concern-about-short-term-vaccine-supply-crunch.md",
-      "title": "Biden health officials express concern about short-term vaccine supply crunch",
-      "excerpt": "I think that the supply is probably going to be the most limiting constraint early on,\" the CDC director said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/01/24/biden-vaccine-supply-concerns-covid-461852",
-      "originalUrl": "https://www.politico.com/news/2021/01/24/biden-vaccine-supply-concerns-covid-461852",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/5e/d0/474a6135462a9b2742bc5b5226f7/210124-murthy-ap773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/24/biden-vaccine-supply-concerns-covid-461852",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/24/biden-vaccine-supply-concerns-covid-461852",
-      "publishedDateTime": "2021-01-24T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

@@ -63,6 +63,22 @@ related:
         width: 2500
         height: 1650
         isCached: true
+  - title: "Birx both exemplifies and blames the cherry-picking that shaped the Trump presidency"
+    excerpt: "Birx offered then-President Donald Trump an unusual compliment in an interview last March. “He’s been so attentive to the scientific literature and the details and the data,” the coordinator of the White House's coronavirus pandemic response said in an interview with the conservative network CBN."
+    publishedDateTime: 2021-01-25T22:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/01/25/birx-both-exemplifies-blames-how-cherry-picking-data-shaped-trump-presidency/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/25/birx-both-exemplifies-blames-how-cherry-picking-data-shaped-trump-presidency/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/25/birx-both-exemplifies-blames-how-cherry-picking-data-shaped-trump-presidency/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UL7K33CC5EI6XLBKHLAPFOGO5M.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "xJmj5dUn1+Q+T5g/+mpKx7bdU/0CYz6pdGWGdmKADwJmms40qrvAqYzI3Hgg6MFj78V5dVtmHDHDHQvigYvsIz6T5dNFvR6n5O+3ENZ3u3nsDjyaZNMstm404t1GhS8yFu/B3KxMZljBC30NM17RGLv0ccvkpzX+yqQZxXa1TD66gTM+63PtsenrYTO2i+le1EpM6GetJF7NUupXKGxkK5mDKMkz44bPyQRm2+qXSQBMh/Bw/cjT8Sp7CeBEMbUR/KhgBO1o4mfLthpgHfoJZ5Q/rHDc9fn4vFOQSGWwNm1WgtLS0KzkEbkqLsOl0YxSwTrVEA7yMCFdMjmX5hGteRkVipaoygfHmGOPm0VhDWc=;1y83r07rrndTHMywB/lcpA=="
 ---

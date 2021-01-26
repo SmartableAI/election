@@ -79,19 +79,19 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Facebook's oversight board to rule on Trump ban"
-    excerpt: "Facebook is passing the buck for its indefinite suspension of former president Donald Trump to a quasi-independent oversight board, setting up a major test of the recently established panel"
-    publishedDateTime: 2021-01-21T18:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/facebooks-oversight-board-rule-trump-ban-75406750"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/facebooks-oversight-board-rule-trump-ban-75406750"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/facebooks-oversight-board-rule-trump-ban-75406750"
+  - title: "Arizona Republicans reelect fervent Trump ally as chair"
+    excerpt: "Arizona Republicans on Saturday reelected Kelli Ward as party chair, giving a second term to one of Donald Trump’s most unflinching supporters even after the GOP lost ground in the state last year"
+    publishedDateTime: 2021-01-23T23:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Business/WireAP_1ad850f0ef8142389a126a58050fcfca_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Nightline/210123_ntl_politics_1239_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -127,21 +127,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Hundreds of publishing industry figures have signed an open letter in opposition to a potential Trump memoir"
-    excerpt: "Hundreds of authors, editors, and agents signed an open letter asking the world's publishers to skip a post-presidency memoir from Donald Trump."
-    publishedDateTime: 2021-01-22T10:27:00Z
-    webUrl: "https://www.businessinsider.com/open-letter-calls-for-publishers-to-skip-trump-book-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/open-letter-calls-for-publishers-to-skip-trump-book-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/open-letter-calls-for-publishers-to-skip-trump-book-2021-1?amp"
+  - title: "Arizona Republicans Censure Party Leaders At Odds With Trump"
+    excerpt: "State GOP members passed resolutions at a meeting on Saturday to condemn three party leaders who they said failed to support President Trump: Gov. Doug Ducey, former Sen. Jeff Flake and Cindy McCain."
+    publishedDateTime: 2021-01-24T03:10:00Z
+    webUrl: "https://www.npr.org/2021/01/23/959974795/arizona-republicans-censure-party-leaders-at-odds-with-trump"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
+      name: NPR
+      domain: npr.org
+    quality: 105
     images:
-      - url: "https://i.insider.com/60044f8de3d62500185fcf8e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://media.npr.org/assets/img/2019/05/07/the-npr-politics-podcast_final_sq-ecdd1508be24f14c6b6ee98e6627cbf2be192ea6-s800-c15.jpg"
+        width: 800
+        height: 800
         isCached: true
   - title: "GOP lawmaker part of Trump's plan to oust AG -NYT"
     excerpt: "NYT. Posted . A Republican U.S. congressman played a key role in former President Donald Trump's efforts to remove the to"
@@ -213,15 +211,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Most Pennsylvania GOP Backed Trump to the End, and Still Do"
-    excerpt: "With Donald Trump out of the White House, Pennsylvania’s Republican Party shows no sign of walking away from a president who lost control of Congress, carried out an unprecedented campaign to overturn an election and is blamed by some in his party for inciting a violent assault on the country’s democracy."
-    publishedDateTime: 2021-01-21T12:14:00Z
-    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2021-01-21/most-pennsylvania-gop-backed-trump-to-the-end-and-still-do"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "JsW1caoFBRu+OkR8Xgd/ZMl3+GAf9kF91T6R0gZKOP6Kc5f/HkGXEQG5CqQPjWOOQyt1xObUxPSsQnm6xXRYTL6/1Y82hWTjwZdRTO6MAPRGyfRY/yMEyG41maRrhiYHMMSVCY96aaxGRiQ+FEDy1wEq/DqtNgyh8lHt2BlI3EWUAh/4rX3G5tf8tbaDvGOHE1riLu5AY0iSFgWz6NHS880c2FwrskaCbCSbBD5XtzBWc7YI8OqJmhhjXrTNtpEmncoUJchIl7oFuHeWQZ6mhaX8H9qLOdEBN1zdvIensiS0vN5YoC7SJRqnQXb3NIyjz6Zq7n7XKDPKvDppEAGredUTsg+fm7KeVV7RLTxFWpsjD6vxFZuypQay6pzb53ui2Kt+Bwow0wiJAnYt2DlvHuLPQ7flfRnP6wDYnDoXJUcAlc8KY43VbWI3Z+7VdL2pxYPOFt6yCbTzVd3v+5hqbFxCk0/Ku30XLTbqsbphEuaHCMLq/dmw6uTUt+R4HfxR7/myqebiK4T+hV9Icyb/+g==;Qk/JNUCIWrTCy0z9sIlmvg=="
 ---

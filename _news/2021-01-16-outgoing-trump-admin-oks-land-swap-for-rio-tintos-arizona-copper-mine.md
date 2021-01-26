@@ -25,69 +25,37 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Trump admin set to approve Arizona land swap for mine opposed by Native Americans"
-    excerpt: "U.S. President Donald Trump's outgoing administration is set to approve a controversial land swap later this month that would give Rio Tinto Ltd and partners more than 2,400 acres (9.7 square kilometers) to build an Arizona copper mine,"
-    publishedDateTime: 2020-12-07T06:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-mining-resolution-idUSKBN28H0FW"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28H0FW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28H0FW"
+  - title: "Trump to approve land swap for Rio Tinto's Resolution Copper project: U.S. Forest Service"
+    excerpt: "U.S. President Donald Trump's outgoing administration plans to approve a controversial land swap needed for Rio Tinto Ltd and partners to build an Arizona copper project that Native American tribes say will destroy sites of cultural and religious value."
+    publishedDateTime: 2021-01-05T02:43:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-mining-resolution-idUSKBN2992GT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2992GT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2992GT"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 120
+    quality: 116
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201207&t=2&i=1543651036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB608F"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210104&t=2&i=1546595834&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH03189"
         width: 818
         height: 545
         isCached: true
-  - title: "The Trump administration accused Facebook of reserving over 2,600 high-paying jobs for foreign workers instead of hiring Americans"
-    excerpt: "The DOJ's lawsuit alleges that Facebook discriminated against Americans and did not properly advertise the jobs to them before hiring foreign workers."
-    publishedDateTime: 2020-12-03T20:40:00Z
-    webUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
+  - title: "New top federal prosecutor tapped in Atlanta to replace Trump appointee who abruptly resigned"
+    excerpt: "The Justice Department on Tuesday tapped a new top federal prosecutor to preside over the Atlanta office, a day after the Trump-appointed U.S. Attorney there abruptly resigned."
+    publishedDateTime: 2021-01-05T20:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-justice-prosecutors/new-top-federal-prosecutor-tapped-in-atlanta-to-replace-trump-appointee-who-abruptly-resigned-idUSKBN29A2FB?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29A2FB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29A2FB"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 95
+      name: Reuters
+      domain: reuters.com
+    quality: 114
     images:
-      - url: "https://i.insider.com/5fc94139b6a3a800199b66e9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "CNN's Jake Tapper thanks Trump for 'exposing' Republicans who supported Texas' 'un-democratic, un-American, mendacious joke of a lawsuit'"
-    excerpt: "Tapper closed his show with a blistering attack on Trump and Republicans for their \"desperate desire to subvert the will of the American people.\""
-    publishedDateTime: 2020-12-13T21:51:00Z
-    webUrl: "https://www.businessinsider.com/cnn-jake-tapper-thanks-trump-exposing-republicans-texas-lawsuit-video-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/cnn-jake-tapper-thanks-trump-exposing-republicans-texas-lawsuit-video-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cnn-jake-tapper-thanks-trump-exposing-republicans-texas-lawsuit-video-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/5fd689d69cf1420018d2f14a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The Trump administration in a new lawsuit accused Facebook of reserving over 2,600 high-paying jobs for foreign workers instead of hiring Americans"
-    excerpt: "The DOJ's lawsuit alleges that Facebook discriminated against Americans and did not properly advertise the jobs to them before hiring foreign workers."
-    publishedDateTime: 2020-12-03T11:41:00Z
-    webUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12"
-    ampWebUrl: "https://www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-doj-suing-facebook-hiring-foreign-workers-h1b-2020-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
-    images:
-      - url: "https://i.insider.com/5fc94139b6a3a800199b66e9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210105&t=2&i=1546707585&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH041AH"
+        width: 817
+        height: 545
         isCached: true
 
 secured: "4607mu7iJLsuRcMDk01+W5mQR3IY/eUP05ViMAUCVA/DQteKLbxE2U1ZR489VOFKsno55DK4xE/DOGjPEfbS97emJfcRbUZkboAVUAFUuvmasGbhhBoZPTaYm+9xni8tvLXJBpflwAwImr2XsDy+dURCZlwpXYnG+I9/EMFQvyIQKvmNGLfdDgnuZvQArPIi58hgETaYrug25ySXTatEu+RSTaQfuzS7RnMhm1i5KSegl77o2b2ySp7HbzeZ07cW2kBncbfVIkjIP4FCBzChdl8qJjScfgebjsaLJKutUyOm0MsGF3CUehT22BfiC3LDrz+EcpWM7Ogn5lucR9ij5VbN8z0ICZTtM1yt4wTyH/8UnZ8U1fiy4tv8VO8sP/KikPg6CZfhhSeeAPyAtV6OBFIytZKNHUJE0OiMz2ytd6omJiRxAO1DaJjSH8OTQj0k621/u+bBZu7FG0h8R4mTnMj8rQwJUP1JAFxZrKOKa9z8Q6UEwS4SOYFbQiAHMIypLW1xSNEyQJMEUyBOVcXgdA==;yL7x0Gv5ftWcxY3mRZQbhg=="

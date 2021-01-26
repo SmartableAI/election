@@ -63,22 +63,6 @@ related:
         width: 1440
         height: 1097
         isCached: true
-  - title: "Trump's pardon blitz keeps ex-Google exec out of prison"
-    excerpt: "A long-running Silicon Valley soap opera has taken an unexpected twist after outgoing President Donald Trump pardoned a former Google engineer"
-    publishedDateTime: 2021-01-20T22:19:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/pardon-google-engineer-stole-trade-secrets-75367252"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/pardon-google-engineer-stole-trade-secrets-75367252"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/pardon-google-engineer-stole-trade-secrets-75367252"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_f0b7e103bbfc43e2bf6ac09b3c857162_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Florida eye doctor gets clemency from Trump in health fraud"
     excerpt: "A prominent Florida eye doctor convicted of defrauding Medicare out of $73 million has been released from prison early"
     publishedDateTime: 2021-01-21T20:48:00Z
@@ -94,22 +78,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Trump returns to a business empire ravaged by pandemic"
-    excerpt: "Donald Trump is returning to a family business ravaged by pandemic shutdowns, with revenue plunging more than 40 percent at his Doral golf property, his Washington hotel and both his Scottish resorts"
-    publishedDateTime: 2021-01-22T03:21:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407075"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407075"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/revenue-trump-hotels-resorts-hit-hard-pandemic-75407075"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_53d43a22043a40ef874c8eb064a0a328_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "As Trump leaves office, South Florida is poised to become his new ‘MAGA’ capital"
     excerpt: "Everyone’s leaving. They’re moving to Florida,\" President Donald Trump says. South Florida is poised to become Trump's new MAGA capital after he leaves the White House."

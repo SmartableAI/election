@@ -47,54 +47,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Biden roles out group of deputy secretary nominees"
-    excerpt: "President-elect Joe Biden on Monday announced a slate of nominees to serve as deputy secretaries across his administration, further filling out his team just two days before he will take office."
-    publishedDateTime: 2021-01-18T14:41:00Z
-    webUrl: "https://thehill.com/homenews/administration/534678-biden-roles-out-group-of-deputy-secretary-nominees"
-    ampWebUrl: "https://thehill.com/homenews/administration/534678-biden-roles-out-group-of-deputy-secretary-nominees?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/534678-biden-roles-out-group-of-deputy-secretary-nominees?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/biden_cabinet_picks_01082021_1.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden orders review of domestic violent extremism threat"
-    excerpt: "President Joe Biden has directed his intelligence community to study the threat of domestic extremism in the United States"
-    publishedDateTime: 2021-01-23T03:28:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-orders-review-domestic-extremism-threat-us-75431378"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-orders-review-domestic-extremism-threat-us-75431378"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-orders-review-domestic-extremism-threat-us-75431378"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "U.S. Senate confirms Biden nominee Austin as defense secretary"
-    excerpt: "The U.S. Senate on Friday voted overwhelmingly to confirm retired Army General Lloyd as President Joe Biden's defense secretary, making him the first Black American to serve in the role."
-    publishedDateTime: 2021-01-22T18:29:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-biden-pentagon-idUKKBN29R2AR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29R2AR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29R2AR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548740866&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L19Y"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Joe Biden to focus on economic recovery after Covid as 17.5m vaccine shots given in US - live updates"
     excerpt: "Calls to delay Donald Trump impeachment trial as former president appoints defense lawyer Bowers"
     publishedDateTime: 2021-01-22T10:48:00Z

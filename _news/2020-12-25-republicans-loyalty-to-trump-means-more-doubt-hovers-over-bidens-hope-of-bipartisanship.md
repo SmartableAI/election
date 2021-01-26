@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyal
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/?outputType=amp"
 type: article
 quality: 141
-heat: 781
+heat: 761
 published: true
 
 provider:
@@ -312,20 +312,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/ErIEyMj5FnfbO54lqyCIIZcV0yk=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/FA5WMDJ3UZDNLK6CF66LMW4YYU.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Breaking down President Trump's final 23 days in office, upcoming Biden administration"
-    excerpt: "\"CBS This Morning\" is launching Looking Forward to 2021, a new series that explores what Americans can expect in the new year. CBS News contributors Robby Mook and Terry Sullivan join to discuss President Donald Trump's four years in office and what to expect from President-elect Joe Biden's administration."
-    publishedDateTime: 2020-12-28T14:12:00Z
-    webUrl: "https://www.cbsnews.com/video/breaking-down-president-trumps-final-23-days-in-office-upcoming-biden-administration/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 112
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/28/4b580f44-810a-4e0b-b69f-d0011f40e173/thumbnail/1200x630/ce2ac0d31c0b5b730ae179cb71ad5f3f/cbsn-fusion-breaking-down-president-trumps-final-23-days-in-office-upcoming-biden-administration-thumbnail-617100-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Republican Sen. Josh Hawley will object to certification of Joe Biden’s Electoral College victory"
     excerpt: "Missouri Republican Sen. Josh Hawley will object to the certification of President-elect Joe Biden’s Electoral College victory."

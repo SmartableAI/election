@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-21-joe-biden-invokes-lincoln-in-plea-for-unity-an-end-to-uncivil-war.md",
+      "title": "Joe Biden Invokes Lincoln in Plea for Unity, an End to 'Uncivil War'",
+      "excerpt": "Biden asked those who didn't support him as president to give him a chance and urged people to open their souls and show tolerance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-invokes-lincoln-plea-unity-end-uncivil-war-1563130",
+      "originalUrl": "https://www.newsweek.com/joe-biden-invokes-lincoln-plea-unity-end-uncivil-war-1563130",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1712291/joe-biden-inauguration-lincoln-speech-unity.jpg",
+          "width": 2500,
+          "height": 1690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-invokes-lincoln-plea-unity-end-uncivil-war-1563130?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-invokes-lincoln-plea-unity-end-uncivil-war-1563130?amp=1",
+      "publishedDateTime": "2021-01-20T09:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-how-the-government-will-thoroughly-clean-and-disinfect-white-house-furniture-door-knobs-and-light-switches-after-trump-leaves.md",
+      "title": "How the government will 'thoroughly clean and disinfect' White House furniture, door knobs, and light switches after Trump leaves",
+      "excerpt": "The Trump White House has been a hot spot for coronavirus infections. Joe Biden and his team will want to clean up before moving in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-white-house-inauguration-trump-coronavirus-disinfection-2020-12",
+      "originalUrl": "https://www.businessinsider.com/biden-white-house-inauguration-trump-coronavirus-disinfection-2020-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fc827f450e71a001155893f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T08:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-pence-skips-trump-send-off-where-outgoing-president-thanks-him-attends-biden-inauguration.md",
       "title": "Pence skips Trump send-off where outgoing president thanks him, attends Biden inauguration",
       "excerpt": "Vice President Mike Pence attended President-elect Joe Biden's inaugural ceremony on Wednesday after skipping President Trump's farewell address at Joint Base Andrews.",
@@ -14,7 +118,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 4125,
+      "heat": 4145,
       "tags": null,
       "images": [
         {
@@ -284,58 +388,6 @@
         "Donald Trump",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-no-go-for-joe-exotic-trump-pardon-list-omits-tiger-king.md",
-      "title": "No-go for Joe Exotic: Trump pardon list omits 'Tiger King'",
-      "excerpt": "One name missing in President Donald Trump 's flurry of pardons is “Tiger King” Joe Exotic. His team was so confident in a pardon that they'd readied a celebratory limousine and a hair and wardrobe team to whisk away the zookeeper-turned-reality-TV-star,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/joe-exotic-trump-pardon-list-omits-tiger-king-75366065",
-      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/joe-exotic-trump-pardon-list-omits-tiger-king-75366065",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Entertainment/WireAP_aefb42ebd3664b1785d7448f48d06d37_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/joe-exotic-trump-pardon-list-omits-tiger-king-75366065",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/joe-exotic-trump-pardon-list-omits-tiger-king-75366065",
-      "publishedDateTime": "2021-01-20T04:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -614,7 +666,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/534952-trump-has-talked-to-associates-about-forming-new-political-party",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -666,7 +718,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/pence-heading-back-to-indiana-hometown-after-biden-inaugural/2021/01/19/ab4e8988-5a9d-11eb-a849-6f9423a75ffd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4210,
+      "heat": 4230,
       "tags": null,
       "images": [
         {
@@ -1202,7 +1254,7 @@
       "originalUrl": "https://www.newsweek.com/donald-trump-first-president-modern-history-never-reach-50-approval-gallup-poll-1562653",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1275,62 +1327,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/army-veteran-says-concerns-over-national-guard-members-being-a-threat-to-biden-are-ridiculous.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/army-veteran-says-concerns-over-national-guard-members-being-a-threat-to-biden-are-ridiculous.amp",
       "publishedDateTime": "2021-01-19T08:40:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-wyoming-republicans-censure-cheney-over-trump-impeachment-vote.md",
-      "title": "Wyoming Republicans censure Cheney over Trump impeachment vote",
-      "excerpt": "Wyoming's Carbon County Republican Party voted unanimously to censure Rep. Liz Cheney, R-Wyo., for voting with nine other House Republicans to impeach President Trump on charges of \"incitement of an insurrection.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ULwU1c9iBk/liz-cheney-impeachment-republicans-herrera-beutler-wyoming",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ULwU1c9iBk/liz-cheney-impeachment-republicans-herrera-beutler-wyoming",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 455,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Rep-Liz-Cheney.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/liz-cheney-impeachment-republicans-herrera-beutler-wyoming.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/liz-cheney-impeachment-republicans-herrera-beutler-wyoming.amp",
-      "publishedDateTime": "2021-01-19T06:35:01-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

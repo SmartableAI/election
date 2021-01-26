@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1"
 type: article
 quality: 116
-heat: 156
+heat: 176
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548111937&r=LYNXMPEH0G0AL&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Some senators oppose the direct-payment part of Biden's stimulus plan because they think it gives too much money to the wealthy, report says"
+    excerpt: "The bipartisan group of senators was said to have expressed its concerns during a call with the White House on Sunday."
+    publishedDateTime: 2021-01-25T08:50:00Z
+    webUrl: "https://www.businessinsider.com/senators-oppose-biden-stimulus-checks-for-the-wealthy-politico-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/senators-oppose-biden-stimulus-checks-for-the-wealthy-politico-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senators-oppose-biden-stimulus-checks-for-the-wealthy-politico-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
+    images:
+      - url: "https://i.insider.com/600e4b457e47190011cb8f63?width=1200&format=jpeg"
+        width: 860
+        height: 430
         isCached: true
 
 secured: "8Yp6Ms8ZalGTJbPTuS81BjgpuMsCUAq8laZQFjF1zUifwgHcmETTeYKhzHY+tG++ydCaQvjq4vE4JfENHhV7zJtWihOU9fiFoU4BMowQ4HQe02qNqlROazKidnqyIzKK3XiTdqQelnvNK0YmVD107XtdleBBQev2jNGlYK8vNtF2R6tjHoCltVrb64xK7JU1WTGmBvgV8yACh559hiKtY6iuFN3OxjkWWsI2DEMLIfNYXbaQufm0hFFsHsbvvluGTqHQz2GVz3gS0aFOwO8e/kOtJku6RCY+1p1K1AuwQ0Q9grZCktpl2H2cAkOv9gz5XIS+vaCAIdnXrDFut2SpJmwVjdO9QyumPcCcfzXNJ7o19V1NsAfLdAxFLc9wlLd7H6bJXhMLdKBMx0CXS8C3VEHI+vjanzcpStB/x+i8Qmpm54NEQBWL5ZXXjB8yzPXBkKWbYpI6SVQCXSuaBnRB5Lx9JxXahQ1o3gMHft3o7zLk7nNCdhXqa4um9egV9KNjTCTQjMp4Z6lNR0iwvZ4sTg==;jPhITkhFqfdZQZm8eimo5w=="

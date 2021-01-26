@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-hous
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/22/politics/birx-quitting-white-house-covid-task-force/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 160
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210118002735-05-donald-trump-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fauci says he worried Trump's disinfectant comment would make people 'start doing dangerous and foolish things'"
+    excerpt: "Dr. Anthony Fauci, the nation's leading infectious disease expert, said Monday evening he was extremely worried by former President Donald Trump's dangerous April suggestion that ingesting disinfectant could possibly be used to treat Covid-19.\n    \n"
+    publishedDateTime: 2021-01-26T02:33:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JWuGyzGOU0w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/25/politics/fauci-trump-covid-19-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/fauci-trump-covid-19-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210121171843-fauci-biden-administration-coronavirus-honesty-whpb-bts-lead-vpx-00000113-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

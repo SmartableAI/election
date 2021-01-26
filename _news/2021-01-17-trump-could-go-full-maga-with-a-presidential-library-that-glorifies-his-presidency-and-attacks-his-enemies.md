@@ -141,22 +141,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "In 2nd Trump impeachment trial, will Chief Justice John Roberts preside?"
-    excerpt: "Who will preside over the second Donald Trump remains a key open question as lawmakers prepare to begin the unprecedented proceeding as soon as Inauguration Day. The U.S. Constitution says that the Chief Justice of the Supreme Court \"shall preside\" over trials of the President of the United States,"
-    publishedDateTime: 2021-01-18T20:37:00Z
-    webUrl: "https://abcnews.go.com/Politics/2nd-trump-impeachment-trial-chief-justice-john-roberts/story?id=75324610"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/2nd-trump-impeachment-trial-chief-justice-john-roberts/story?id=75324610"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/2nd-trump-impeachment-trial-chief-justice-john-roberts/story?id=75324610"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
-    images:
-      - url: "https://s.abcnews.com/images/Politics/roberts-1-gty-er-210118_1610996121875_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Many Trump-era photos look like dramatic old paintings. That’s no ‘accident.’"
     excerpt: "Strife imitates art on the subreddit “Accidental Renaissance,” where followers liken contemporary images to great works of art."
     publishedDateTime: 2021-01-17T04:22:00Z
@@ -316,22 +300,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/v6dsy7X6PTCuvSOAI12wdyNvw2c=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OXSIKLWOABM264QUD5O6FC6AMQ.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "QAnon and pro-Trump online forums are struggling and fracturing in aftermath of the U.S. Capitol siege"
-    excerpt: "Forums central to spreading QAnon and supporting former President Trump have become fractured or gone offline entirely since then Jan. 6 attack on the U.S. Capitol, raising questions about their long-term viability."
-    publishedDateTime: 2021-01-23T01:35:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/01/22/trump-twitter-capitol-qanon/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/01/22/trump-twitter-capitol-qanon/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/22/trump-twitter-capitol-qanon/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LTUOOMS3QAI6XKCJN6KCHJ277U.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "U.S. lawmaker comments on impeachment of President Donald Trump"
     excerpt: "Following are comments on the U.S. House of Representatives vote on Wednesday on the impeachment of President Donald Trump."

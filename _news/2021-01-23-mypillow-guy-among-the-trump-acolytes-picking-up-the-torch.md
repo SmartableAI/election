@@ -141,20 +141,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "House To Send Trump Impeachment Article To Senate, Triggering Trial"
-    excerpt: "The US House of Representatives is to deliver a single article of impeachment to the Senate on Monday accusing Donald Trump of inciting the storming of the Capitol, triggering the first-ever impeachment trial of a former president."
-    publishedDateTime: 2021-01-25T17:30:00Z
-    webUrl: "https://www.ibtimes.com/house-send-trump-impeachment-article-senate-triggering-trial-3130178"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/24/speaker-nancy-pelosi-is-set-to-send-the.jpg"
-        width: 1024
-        height: 714
-        isCached: true
 
 secured: "yWU6RQJJ/7TIWLcU5BX68muvWUQO0Jj6c3XMu37CSQQHP8RJCqMQBOcUJSYQAHOi34gVlwf8ir7OlDFkw6J2AXInm/Ke5hgEvO0Ie5NW5aauxAgOCGeSfmvoBp/AQRb3Uzvbtox72XiWIb6lH6GF+xMR8K9a3uS2niryoS5IBBU20GPfLsHyXyeGMfmCxiKpgTXg8DWHM9gmYRTwEVEIjVL1Wjboj+utbzBKGojFufez0XyNaMHeFAhw/jqqx7NHyZo2Ok4h61L89emEBDebOyq+AHMMdhS0UFDVVj0ne2VycUHlU4RgrFarLWBhQQORw+zg9aJvQf6cgkW15FA0+sDaN7oZTtmlQU5qIa5R044=;guPbOQ8+ekFbjH+zPrQgHw=="
 ---

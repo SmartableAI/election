@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-trump-sendoff-biden-inaugurat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp"
 type: article
 quality: 205
-heat: 4125
+heat: 4145
 published: true
 
 provider:
@@ -1375,6 +1375,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2029583a-0e39-4400-82e7-ecc4cce158c9/58b04e7a-3441-433d-9e2b-0f7767cd50de/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump creates 'Office of the Former President' in Florida"
+    excerpt: "Former President Donald Trump on Monday established an official post-presidency office in Palm Beach County, Florida to oversee his affairs, Fox News has learned."
+    publishedDateTime: 2021-01-26T01:32:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5fKak2OKUAg/trump-creates-office-of-the-former-president-in-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-creates-office-of-the-former-president-in-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-creates-office-of-the-former-president-in-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/5c620866-Capture.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump must be barred from post-presidency intelligence briefings: Schiff"
     excerpt: "House Intelligence Committee Chairman Rep. Adam Schiff said Sunday that President Trump should be barred from receiving intelligence briefings after he leaves office, an opportunity traditionally extended to former presidents."

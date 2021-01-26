@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/biden-science-forefr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/biden-science-forefront-administration-75295060"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -182,6 +182,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "President Joe Biden: ‘This Is America’s Day’"
+    excerpt: "The 21-minute inaugural address focused on healing, unity, justice and the perseverance of democracy for an audience in America and around the world."
+    publishedDateTime: 2021-01-20T19:08:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2021-01-20/president-joe-biden-this-is-americas-day"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2021-01-20/president-joe-biden-this-is-americas-day?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2021-01-20/president-joe-biden-this-is-americas-day?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "g53rz7IbyHFtbuquQI/yc8I6jHp7vbnX6H74QuMfKLLOHyEncjWTJQO00sa2BShvgN5f6f2FEbdh2Ru/q1sghE3BBbNmY8fge2Ks+oIaziRp1yfvCMPOXYoMISMHcfXneB+1v8RCpFBtzByxLy82m8+pO4I/UeamBS109QmEjkoKI1zFKgxG+nBu4BMJGMfa1852EC7yHXo1yViieIsXDZtQnlJtFcLhe5lHc5cUNMvbxNw6wCOr9g2360dfCGflA7bqiWBGlWp6H9aAvAXnjKGFuuJ+jC8fKl/AnbEQqbnYXJfs6OUBgw43yd/oJ8u2VTGClwQ9E8J1SRCmO8g54t37FzRA1KxUtcEi/nmyPto=;UzDXeFPDg+aqHrNQ8H7RNg=="
 ---

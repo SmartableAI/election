@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-16-biden-science-will-be-at-forefront-of-his-administration.md",
+      "title": "Biden: Science will be at `forefront' of his administration",
+      "excerpt": "President-elect Joe Biden says “science will always be at the forefront of my administration,” and he's elevating the post of science adviser to Cabinet level, a White House first",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/biden-science-forefront-administration-75295060",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/biden-science-forefront-administration-75295060",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Technology/WireAP_7202bb1dd3fb4d92b9cf5bf27cee5bf3_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/biden-science-forefront-administration-75295060",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/biden-science-forefront-administration-75295060",
+      "publishedDateTime": "2021-01-16T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-01-16-police-man-charged-after-displaying-kill-biden-sign.md",
+      "title": "Police: Man charged after displaying ‘KILL BIDEN’ sign",
+      "excerpt": "A Virginia man has been arrested for having a “KILL BIDEN” sign. WWBT in Richmond reported Thursday that Kenneth Kraig Thomas of Goochland County was arrested and is facing a charge of threatening a person in writing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/police-man-charged-after-displaying-kill-biden-sign/2021/01/15/1397f9c4-5775-11eb-acc5-92d2819a1ccb_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/police-man-charged-after-displaying-kill-biden-sign/2021/01/15/1397f9c4-5775-11eb-acc5-92d2819a1ccb_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/police-man-charged-after-displaying-kill-biden-sign/2021/01/15/1397f9c4-5775-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/police-man-charged-after-displaying-kill-biden-sign/2021/01/15/1397f9c4-5775-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-15T18:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus.md",
       "title": "Biden announces former FDA head David Kessler as chief science officer for vaccine drive to stop spread of coronavirus",
       "excerpt": "Biden announces former FDA head David Kessler as chief science officer for vaccine drive to stop spread of coronavirus",
@@ -62,7 +166,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-55670801",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -999,7 +1103,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-attorney-general/biden-selects-judge-merrick-garland-for-attorney-general-official-idUSKBN29B2C8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -1431,115 +1535,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-biden-transition-chief-blasts-obstruction-by-political-appointees-at-omb-pentagon.md",
-      "title": "Biden transition chief blasts ‘obstruction’ by political appointees at OMB, Pentagon",
-      "excerpt": "Yohannes Abraham said a lack of cooperation was limiting the president-elect’s ability to mount an effective economic response to the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354",
-      "originalUrl": "https://www.politico.com/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/10/f9/7727e4b44563a4b410842415eb81/20201230-biden-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354",
-      "publishedDateTime": "2020-12-30T19:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-president-elect-joe-biden-and-wife-jill-to-appear-dick-clarks-new-years-rockin-eve.md",
-      "title": "President-elect Joe Biden and wife Jill to appear \"Dick Clark's New Year's Rockin' Eve\"",
-      "excerpt": "Hosts and performers for the annual Times Square celebration, which will look different this year due to the pandemic, have also been announced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/",
-      "originalUrl": "https://www.cbsnews.com/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/30/4b851fdc-667c-48de-be4e-98a99b908e10/thumbnail/1200x630/b1cd6639542992408bad69c0009ab144/gettyimages-1230199205.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/",
-      "publishedDateTime": "2020-12-30T09:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

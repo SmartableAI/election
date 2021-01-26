@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-sec
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-pressure-pick-deb-haaland-secretary-interior/"
 type: article
 quality: 122
-heat: 162
+heat: 142
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KZGOKWBUCII6XFUZADJRD4J5FU.jpg&w=1440"
         width: 1440
         height: 1004
-        isCached: true
-  - title: "Biden pushes Congress to provide relief for out-of-work Americans"
-    excerpt: "With nearly 11 million people unemployed and more than 400,000 COVID-19 deaths projected by the time he takes office, President-elect Joe Biden said Congress must provide relief for Americans set to lose federal aid in a matter of weeks."
-    publishedDateTime: 2020-12-05T00:00:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-pushes-congress-to-provide-relief-for-out-of-work-americans/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/04/e48dcfc6-73e3-4efa-b58d-9075e97f83bf/thumbnail/1200x630/083ca26610c86ced4b158b123bbe1e5e/cbsn-fusion-biden-pushes-congress-to-provide-relief-for-out-of-work-americans-thumbnail-601539-640x360.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "chefqoKvf+918Kc6G4k000vccwqWDtAH6LAdblBlSKjFDg7LuA69aUEWnT4eysyQGBkgpJ0Hoh3Ec6iL+GK4Dl0522vESw6kQU5brkEbyRdsEkjam9fDMLscNJ2ReF2E8v+6dJeqlT5ny+DaCzEMWh4Z/hAyPsZqw5TG+mWD3qcxXrLaoL3HAqTbNYjXErrD0eX+y8gIUbFrj5BCoQIhVwG7H04lAgof8Ers7jfJidTfut+NFgxD+NQahd+C/EUIx2pN+5KztwzOq+8DyzbiDk9adME4v2Rvt4tigAap93yo/pA20Ibz7/5ZtNhgsqIZ6EKjxDkYXIogsvi/cfc+OsHm6fkRFQFWrpl0d7C6Y2ulnd4/KkRfptZ3YFhLEqT6WtZ9KmveP2jK/ssdrPjWflQr/wXEMStrJzQ5afm8xdT3k4fsd2IbXC9pyuY2C8kx9lZ0HnTdxYredIFqLHhIKud3J9Pgm9C1C33OFm+JFqnYpe1R3RXFHws3uAUXUJHJkxtcx4Uz6/nMYKXiDYALhA==;QZyO82zh2IJf7Y0DDXBcFg=="

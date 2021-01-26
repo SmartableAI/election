@@ -328,20 +328,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Breaking down President Trump's final 23 days in office, upcoming Biden administration"
-    excerpt: "\"CBS This Morning\" is launching Looking Forward to 2021, a new series that explores what Americans can expect in the new year. CBS News contributors Robby Mook and Terry Sullivan join to discuss President Donald Trump's four years in office and what to expect from President-elect Joe Biden's administration."
-    publishedDateTime: 2020-12-28T14:12:00Z
-    webUrl: "https://www.cbsnews.com/video/breaking-down-president-trumps-final-23-days-in-office-upcoming-biden-administration/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 112
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/28/4b580f44-810a-4e0b-b69f-d0011f40e173/thumbnail/1200x630/ce2ac0d31c0b5b730ae179cb71ad5f3f/cbsn-fusion-breaking-down-president-trumps-final-23-days-in-office-upcoming-biden-administration-thumbnail-617100-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Republican Sen. Toomey to Trump: 'You don't get everything you want, even if you are the president'"
     excerpt: "Republican Sen. Pat Toomey on Sunday urged President Donald Trump to sign the coronavirus relief bill as he pushes for $2,000 stimulus checks."
     publishedDateTime: 2020-12-27T16:48:00Z

@@ -2,6 +2,115 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-12-31-biden-transition-chief-blasts-obstruction-by-political-appointees-at-omb-pentagon.md",
+      "title": "Biden transition chief blasts ‘obstruction’ by political appointees at OMB, Pentagon",
+      "excerpt": "Yohannes Abraham said a lack of cooperation was limiting the president-elect’s ability to mount an effective economic response to the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354",
+      "originalUrl": "https://www.politico.com/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/10/f9/7727e4b44563a4b410842415eb81/20201230-biden-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/30/abraham-blasts-trump-omb-pentagon-452354",
+      "publishedDateTime": "2020-12-30T19:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-12-31-president-elect-joe-biden-and-wife-jill-to-appear-dick-clarks-new-years-rockin-eve.md",
+      "title": "President-elect Joe Biden and wife Jill to appear \"Dick Clark's New Year's Rockin' Eve\"",
+      "excerpt": "Hosts and performers for the annual Times Square celebration, which will look different this year due to the pandemic, have also been announced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/",
+      "originalUrl": "https://www.cbsnews.com/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/30/4b851fdc-667c-48de-be4e-98a99b908e10/thumbnail/1200x630/b1cd6639542992408bad69c0009ab144/gettyimages-1230199205.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-interview-with-jill-dick-clarks-new-years-rockin-eve-tv/",
+      "publishedDateTime": "2020-12-30T09:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-12-31-joe-and-jill-biden-to-appear-on-ryan-seacrests-new-years-rockin-eve.md",
       "title": "Joe and Jill Biden to appear on Ryan Seacrest's 'New Year's Rockin' Eve'",
       "excerpt": "President-elect Joe Biden and his wife, Dr. Jill Biden, will join Ryan Seacrest on Thursday night's \"Dick Clark's New Year's Rockin' Eve.\"",
@@ -494,7 +603,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2020/12/24/republicans-loyalty-trump-means-more-doubt-hovers-over-bidens-hope-bipartisanship/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 781,
+      "heat": 761,
       "tags": null,
       "images": [
         {
@@ -1472,115 +1581,6 @@
       "ampWebUrl": "https://www.politico.com/amp/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964",
       "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/12/17/joe-biden-wears-a-kick-me-sign-447964",
       "publishedDateTime": "2020-12-17T19:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-betsy-devos-tells-education-department-employees-to-resist-biden-administration-report-says.md",
-      "title": "Betsy DeVos tells Education Department employees to 'resist' Biden administration, report says",
-      "excerpt": "The education secretary under President Trump reportedly told agency workers to “be the resistance\" against changes they believe could hurt students.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/education/2020/12/16/betsy-devos-education-department-resist/3921340001/",
-      "originalUrl": "https://www.usatoday.com/story/news/education/2020/12/16/betsy-devos-education-department-resist/3921340001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/07/07/PDTF/b9c1ab22-05fd-4a78-8850-47d04f2cbf3b-AP20133643287574.jpg?auto=webp&crop=5109,2874,x0,y259&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3921340001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3921340001",
-      "publishedDateTime": "2020-12-17T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-biden-to-tap-north-carolina-environmental-regulator-regan-to-head-epa.md",
-      "title": "Biden to tap North Carolina environmental regulator Regan to head EPA",
-      "excerpt": "The pick is a major nod to the party's progressive wing that pushed Biden's team to emphasize minority and poor communities facing threats from pollution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/17/epa-administrator-michael-regan-447747",
-      "originalUrl": "https://www.politico.com/news/2020/12/17/epa-administrator-michael-regan-447747",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/09/f4/c81d7b12424ba657532f53b09681/regan-773.jpg",
-          "width": 1160,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/17/epa-administrator-michael-regan-447747",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/17/epa-administrator-michael-regan-447747",
-      "publishedDateTime": "2020-12-17T10:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Politico",
